@@ -37,7 +37,7 @@ page_kind: [evaluation]
 - The experiment was embedded in a single 45-minute lecture of one German university's Master of Education program (N = 158 pre-service teachers, 68% female), and the authors state the short duration limited how far internal motivational changes could develop.
 - Knowledge integration was measured only as an end product, so the underlying cognitive processes during learning were not captured.
 - Worked examples were provided uniformly to all participants, which the authors state may have reduced sensitivity to detect motivational effects.
-- In-video guidance and segmented reflection tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
+- In-video guidance and segmented [[reflection]] tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
 
 ## Citation
 Boos, J., Eder, T., & Lachner, A. (2026). [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://doi.org/10.1016/j.caeo.2026.100324). *Computers and Education Open, 10*, 100324.

@@ -19,7 +19,7 @@ methods: [mixed-methods-research]
 
 ## Key Findings
 
-- **GenAI's dual role.** Students used GenAI both as a practical aid and a cognitive partner — supporting goal setting, reflection, and feedback, yet at times displacing monitoring and self-evaluation when used uncritically.
+- **GenAI's dual role.** Students used GenAI both as a practical aid and a cognitive partner — supporting goal setting, [[reflection]], and feedback, yet at times displacing monitoring and self-evaluation when used uncritically.
 - **Scaffolded vs. substitutional [[cognitive-offloading]].** The study distinguishes two modes: *scaffolded offloading* (students use GenAI to clarify goals, generate ideas, or obtain feedback that they then critique and adapt — agency stays with the learner) versus *substitutional offloading* (students accept outputs with minimal verification, shifting control to the tool).
 - **Patterns were differentiated, not homogeneous.** Most students gained confidence and [[ai-literacy|AI literacy]] over the term, but some became confident, regular users while others stayed hesitant; postgraduate cohorts are not a homogeneous "AI-literate" group.
 - **Confidence shaped orientation.** Confident users demonstrated agency and autonomy in reflective goal setting and monitoring; less confident students were more likely to view GenAI as a shortcut or form of academic misconduct.

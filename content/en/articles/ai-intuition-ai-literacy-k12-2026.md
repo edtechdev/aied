@@ -27,7 +27,7 @@ An exception is the recent work of Flechtner and colleagues, who introduced *AI 
 AI literacy and AI intuition are framed not as sequential stages but as **interdependent dimensions** of AI fluency:
 
 - **AI literacy** — structured, reflective, ethical, and conceptual knowledge about AI systems. It provides conceptual clarity, ethical guardrails, and critical frameworks.
-- **AI intuition** — an experiential, inductive, and embodied understanding of how AI behaves in practice, developed through guided exploration, experimentation, and reflection. It provides the practical wisdom to apply knowledge in dynamic, uncertain contexts.
+- **AI intuition** — an experiential, inductive, and embodied understanding of how AI behaves in practice, developed through guided exploration, experimentation, and [[reflection]]. It provides the practical wisdom to apply knowledge in dynamic, uncertain contexts.
 
 The framework maps the two across five complementary learning dimensions:
 

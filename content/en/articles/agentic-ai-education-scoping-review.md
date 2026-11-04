@@ -36,7 +36,7 @@ Across the six capability dimensions analyzed:
 - **Robust embedded governance** — rarely exhibited ✗
 - **Persistent memory / long-horizon planning** — largely absent ✗
 
-This maps closely to the four-paradigm framework in [[agentic-workflows-education]] (reflection, planning, tool use, multi-agent collaboration), where the reviewed systems tend to cluster in the first two paradigms while falling short on the more advanced ones.
+This maps closely to the four-paradigm framework in [[agentic-workflows-education]] ([[reflection]], planning, tool use, multi-agent collaboration), where the reviewed systems tend to cluster in the first two paradigms while falling short on the more advanced ones.
 
 ### 4. Theoretical Grounding is Limited
 Only **138 of 474 studies** (29%) explicitly drew on [[learning-theories|educational theory]], revealing a **clear disciplinary divide** between technically oriented research (CS/engineering) and pedagogically oriented work (education/learning sciences). This echoes broader concerns about the gap between technological capability and [[pedagogy|pedagogical]] intentionality.

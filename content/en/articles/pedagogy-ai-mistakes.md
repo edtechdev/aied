@@ -35,7 +35,7 @@ The design is anchored in an undergraduate database design course structured as 
 
 Four core components scaffold the progression: lesson plans, short videos, AI-focused exercises, and curated readings.
 
-- **Lesson plans** state explicit learning outcomes framed by three guiding questions — *What?* (core concepts), *Why?* (pedagogical rationale), and *How?* (procedural mechanics) — a structure that primes [[metacognition|metacognitive reflection]] by connecting theory to practice.
+- **Lesson plans** state explicit learning outcomes framed by three guiding questions — *What?* (core concepts), *Why?* (pedagogical rationale), and *How?* (procedural mechanics) — a structure that primes [[reflection|metacognitive reflection]] by connecting theory to practice.
 - **Short videos** (4–10 minutes) motivate each topic and provide context (e.g. a screencast of interactive normalization or an interview with industry practitioners on graph queries), sustaining a [[active-learning|flipped-classroom]] dynamic before hands-on exercises.
 - **AI modules** form the pedagogical core (below).
 - **Reading modules** pair mandatory and optional resources (textbook excerpts, a classic 1970 normalization paper, a practical Neo4j tutorial) to reinforce foundations.

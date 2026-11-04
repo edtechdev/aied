@@ -60,7 +60,7 @@ Three observations support the argument. First, model-related journal policies a
 
 - **Instructors.** Set authorial warrant as an explicit assessment criterion: require students to reconstruct the reasoning behind their claims and justify the method choices a model influenced, not merely to state that a model was used.
 - **Faculty developers.** Teach working with [[generative-ai|generative models]] as a capacity — recognizing when delegation becomes cognitive, applying function-appropriate evaluation, and identifying what should not be delegated — rather than as a set of prohibitions.
-- **Journals and institutions.** Replace or supplement inventory-style declarations with guidance that repurposes disclosure categories for planning, training, and reflective practice, and treat an attestation of sound process as a way to reorient existing declarations.
+- **Journals and institutions.** Replace or supplement inventory-style declarations with guidance that repurposes disclosure categories for planning, training, and [[reflection|reflective practice]], and treat an attestation of sound process as a way to reorient existing declarations.
 - **Tool designers.** Build [[desirable-difficulties|productive friction]] — moments that ask the researcher to identify a source, formulate uncertainty, or list rejected alternatives — so the system leaves the researcher with a better understanding of the problem rather than finished text.
 
 ## Limitations

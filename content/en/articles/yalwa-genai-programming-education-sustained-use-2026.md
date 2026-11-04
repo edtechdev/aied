@@ -58,7 +58,7 @@ Institutional conditions do the remaining work. Students and lecturers reported 
 
 ## Integrity, access, and what redesign requires
 
-Academic integrity was the most frequently reported concern. Tools can generate submittable solutions, and detection studies — machine-learning classifiers, code-anomaly analysis — were reviewed alongside claims that detection alone is not a durable response. The authors' preferred direction is assessment redesign toward explanation, reflection, and process evidence rather than final code output, which places [[scaffolding]] and dialogue at the center of [[assessment-validity]].
+Academic integrity was the most frequently reported concern. Tools can generate submittable solutions, and detection studies — machine-learning classifiers, code-anomaly analysis — were reviewed alongside claims that detection alone is not a durable response. The authors' preferred direction is assessment redesign toward explanation, [[reflection]], and process evidence rather than final code output, which places [[scaffolding]] and dialogue at the center of [[assessment-validity]].
 
 Access cuts the other way. Adoption depended on reliable internet, computing resources, digital literacy, and language availability, and the research itself is concentrated in well-resourced systems, so the evidence cannot say much about constrained institutions. Students with stronger digital skills extracted more benefit — the familiar pattern by which a free tool widens gaps.
 

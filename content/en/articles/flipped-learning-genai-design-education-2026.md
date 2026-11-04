@@ -44,7 +44,7 @@ The flipped arrangement moved yarn production, knitting processes, machine opera
 
 ## What the score pattern does and does not say
 
-Three of five rubric dimensions plus the total score separated the cohorts with large standardized differences, while presentation and attendance did not — which the authors read as the intervention acting on the design-generative parts of the course rather than on generic participation. Their gradient knit swatch case shows the mechanism: a student whose sample missed the intended gradient, because the effect depended on swatch size and related production parameters, consulted the instructor, re-examined the parameters, recalculated the design plan, and produced a revised sample closer to the intended effect. The instructor also saw more evidence of reflection in portfolio layouts and process documentation than in previous years.
+Three of five rubric dimensions plus the total score separated the cohorts with large standardized differences, while presentation and attendance did not — which the authors read as the intervention acting on the design-generative parts of the course rather than on generic participation. Their gradient knit swatch case shows the mechanism: a student whose sample missed the intended gradient, because the effect depended on swatch size and related production parameters, consulted the instructor, re-examined the parameters, recalculated the design plan, and produced a revised sample closer to the intended effect. The instructor also saw more evidence of [[reflection]] in portfolio layouts and process documentation than in previous years.
 
 ## What this means for practice
 

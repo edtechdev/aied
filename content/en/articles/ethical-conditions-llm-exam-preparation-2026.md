@@ -27,7 +27,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Instructors.** Make the ethical stakes of LLM use in assessment explicit instead of relying on rule compliance, because consequentialist (β = 0.350) and deontological (β = 0.329) judgments were the sufficient predictors of intention to use.
-- **Instructors.** Redesign assessment toward process-oriented tasks that reward creativity, critical reflection, and integration of multiple sources, since students who perceive learning benefit intend to use LLMs even without explicit regulation.
+- **Instructors.** Redesign assessment toward process-oriented tasks that reward creativity, critical [[reflection]], and integration of multiple sources, since students who perceive learning benefit intend to use LLMs even without explicit regulation.
 - **Administrators.** Pair integrity codes with support for students' normative reasoning: moral equity was a necessary condition (d = 0.338) but not a sufficient predictor of intention (β = 0.108, p = 0.414).
 - **Students.** Treat the decision about exam-preparation use as consequential rather than incidental — intention was a very strong sufficient predictor of actual use (β = 0.905).
 - **Administrators.** Position [[ai-use-disclosure|disclosure]] policies as complements to ethical reasoning rather than substitutes, since moral considerations operate alongside perceived usefulness and ease of use in shaping adoption.

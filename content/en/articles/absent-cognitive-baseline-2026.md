@@ -60,7 +60,7 @@ Methodologically, the paper argues that existing frameworks reach "ACB's door bu
 
 - It is a conceptual, theory-building paper with no participants, measures, or data: the three dimensions and the moderating-variable model are analytical constructs, and the paper states ACB "cannot be reduced to a single score."
 - The claim is prospective and untested: it concerns students entering college in 2026–27, so no cohort has yet been followed from secondary school into higher education.
-- The proposed evidence is a design, not a result: purposive sampling along AI-use frequency, mode, and depth, two rounds of semi-structured interviews plus reflective journals, and IPA analysis are outlined as future work.
+- The proposed evidence is a design, not a result: purposive sampling along AI-use frequency, mode, and depth, two rounds of semi-structured interviews plus [[reflection|reflective journals]], and IPA analysis are outlined as future work.
 - The listed indicators (inability to describe one's own ability absent AI, conflating AI output quality with competence, disproportionate uncertainty on no-AI tasks, reading struggle as inefficiency) are described as entry points for inquiry rather than diagnostic criteria, and the construct's distinctness from [[cognitive-offloading|cognitive offloading]], metacognitive laziness, and the Dunning-Kruger effect is argued rather than measured.
 
 ## Citation

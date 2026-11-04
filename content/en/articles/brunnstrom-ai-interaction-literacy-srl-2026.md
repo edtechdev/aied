@@ -55,7 +55,7 @@ The authors expected GenAI might serve as a personalized tutor for students with
 
 ## Propositions
 
-1. **For students:** engage the course literature and treat the system as a conversational partner for self-regulated learning rather than a generator of ready-made answers; productive use requires informed, iterative [[prompt-engineering|prompting]], requests for simplification, and reflection against one's own developing understanding.
+1. **For students:** engage the course literature and treat the system as a conversational partner for self-regulated learning rather than a generator of ready-made answers; productive use requires informed, iterative [[prompt-engineering|prompting]], requests for simplification, and [[reflection]] against one's own developing understanding.
 2. **For teachers:** develop an explicit strategy for teaching GenAI-supported self-regulated learning, with particular attention to students with lower academic self-efficacy, including how to formulate productive prompts, recognize when a response is too abstract or broad, and structure a session around small goals.
 3. **For assessing outcomes:** because GenAI is powerful at quantitative, factoid-type content, take-home assessments should emphasize the qualitative phase of the SOLO taxonomy, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable.
 

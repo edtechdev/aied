@@ -32,7 +32,7 @@ source_depth: full text
 1. **Attendance and interest were both flat and broad.** 118 registrants signed up and 73 joined (64 participants, nine working group members); no strategy drew even a fifth of the total, from 21 registrants down to 13.
 2. **Interest split almost evenly between two responses.** Redesigning what gets assigned drew 37 registrants; redesigning how work is verified or valued—[[oral-assessment|oral assessment]], rubrics, grading—drew 40.
 3. **Instructors have stopped relying on detection.** Participants reported many false positives from [[ai-detection|AI detectors]] and generated work often indistinguishable from human work, so critique moved into in-class and proctored settings.
-4. **Process evidence is collected but not graded.** Fairness-room participants were unanimous that they do not grade interaction logs, reflections, or disclosure statements; the rubrics room objected that [[agentic-ai|agentic AI]] can invent a plausible process that never happened.
+4. **Process evidence is collected but not graded.** Fairness-room participants were unanimous that they do not grade interaction logs, [[reflection|reflections]], or disclosure statements; the rubrics room objected that [[agentic-ai|agentic AI]] can invent a plausible process that never happened.
 5. **Scale is the binding constraint.** Oral assessment gives the strongest evidence of individual understanding and is the least scalable remedy proposed; the critique room raised it alongside 400-plus students and a handful of TAs.
 6. **Difficulty is a moving target.** A facilitator estimated an AI-resistant task lasts roughly a semester, and a systems instructor expected an agent could now complete her specification end to end.
 

@@ -51,7 +51,7 @@ The CGScholar AI Helper is a cloud-based web application with a split-screen int
 
 ## Findings
 
-Students engaged directly with the AI, reading suggestions carefully and conversing with the tool for further explanation. Teacher observations and student reflections highlighted an intuitive interface, with one student calling it "self-explanatory" and another appreciating its "chronological order" and "basic bullet points." The star-rating system tied to teacher rubric criteria proved motivating. However, think-aloud sessions surfaced usability challenges: some students struggled with the vocabulary of AI feedback, initial text-recognition errors had to be fixed, and feedback generation delays required optimization. These findings underscore the value of iterative [[usability-research|usability]] testing in refining AI writing tools for diverse learners.
+Students engaged directly with the AI, reading suggestions carefully and conversing with the tool for further explanation. Teacher observations and student [[reflection|reflections]] highlighted an intuitive interface, with one student calling it "self-explanatory" and another appreciating its "chronological order" and "basic bullet points." The star-rating system tied to teacher rubric criteria proved motivating. However, think-aloud sessions surfaced usability challenges: some students struggled with the vocabulary of AI feedback, initial text-recognition errors had to be fixed, and feedback generation delays required optimization. These findings underscore the value of iterative [[usability-research|usability]] testing in refining AI writing tools for diverse learners.
 
 ## Discussion
 

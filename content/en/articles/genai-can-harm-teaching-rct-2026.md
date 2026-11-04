@@ -38,7 +38,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 
 - **66% of teacher conversations were teaching-material production** (lecture prep 32%, homework/exam 22%, syllabus 9%); only 16% instructional support; 18% general
 - **Shallow use: median 2 prompts, mean 4.7 messages** per session — teachers accepted outputs with minimal iteration
-- Interpretation: **task delegation, not [[pedagogy|pedagogical]] collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical reflection that separates augmentation from substitution
+- Interpretation: **task delegation, not [[pedagogy|pedagogical]] collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical [[reflection]] that separates augmentation from substitution
 
 ## What this means for practice
 

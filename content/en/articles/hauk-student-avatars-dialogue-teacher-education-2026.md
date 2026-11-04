@@ -49,7 +49,7 @@ The metadata describe an interaction that behaves like a conversation rather tha
 
 ## What this means for practice
 
-- **Instructors.** Treat a short avatar rehearsal as an approximation of practice, not as assessment. Seat it after principle-based input and modeling, run it individually for about 10 minutes, and follow each session with guided debriefing so the moves a participant made — or missed — become the object of reflection.
+- **Instructors.** Treat a short avatar rehearsal as an approximation of practice, not as assessment. Seat it after principle-based input and modeling, run it individually for about 10 minutes, and follow each session with guided debriefing so the moves a participant made — or missed — become the object of [[reflection]].
 - **Scenario designers.** The prompt is the pedagogy: fix a persona, pedagogical context, critical incident and response constraints, and load the scenario with controversy, because two-sidedness and pressure for justification are what produced the challenge and elaboration profile observed here.
 - **Program planners.** Do not buy realism first. Novices rated the exchange highly functional while judging it only moderately authentic, so a whole-class, high-fidelity setup is not a precondition for a meaningful rehearsal; add peer dynamics and nonverbal cues later.
 - **Sensitive topics.** The scenario sat on the edge of hate speech, and the study's safeguards belong to the design: orientation, moderation guidelines, continuous instructor monitoring, the option to stop immediately, a structured debriefing, and pseudonymized aggregate-only analysis under GDPR.

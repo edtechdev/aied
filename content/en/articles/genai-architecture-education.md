@@ -40,7 +40,7 @@ The paper situates itself in a literature that has largely studied generic AI pl
 
 ## The Intervention: A Local, Discipline-Specific Workflow
 
-The Gen-AI-tecture intervention centers on a bespoke image creation-and-editing workflow implemented as a localized ComfyUI node-based system, powered by the Flux 1 Kontext (dev) diffusion model fine-tuned via Low Rank Adaptation (LoRA) on the InteriorNet dataset of 20 million interior shots. The tool offers three modes — text-driven (A), reference-image-driven (B), and hybrid (C) — using in-painting to edit masked regions while preserving scale, perspective and context. Pedagogically it aligns with [[constructivist]] principles and [[universal-design-for-learning|UDL]] by supporting learning-by-doing and multiple means of representation and expression, lowering technical barriers while still requiring reflection, judgment and iteration in line with studio pedagogy.
+The Gen-AI-tecture intervention centers on a bespoke image creation-and-editing workflow implemented as a localized ComfyUI node-based system, powered by the Flux 1 Kontext (dev) diffusion model fine-tuned via Low Rank Adaptation (LoRA) on the InteriorNet dataset of 20 million interior shots. The tool offers three modes — text-driven (A), reference-image-driven (B), and hybrid (C) — using in-painting to edit masked regions while preserving scale, perspective and context. Pedagogically it aligns with [[constructivist]] principles and [[universal-design-for-learning|UDL]] by supporting learning-by-doing and multiple means of representation and expression, lowering technical barriers while still requiring [[reflection]], judgment and iteration in line with studio pedagogy.
 
 ## Study Design and Methods
 

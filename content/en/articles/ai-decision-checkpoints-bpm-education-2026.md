@@ -60,7 +60,7 @@ Two adjustments follow directly from the learning-management-system evidence. Fi
 
 ## Limitations
 
-- Evidence comes from a single Master's-level course with one instructor and no comparison group, and the individual exam had not been administered at the time of writing, so the findings are a preliminary reflection, not evidence of [[learning-gains|learning effectiveness]].
+- Evidence comes from a single Master's-level course with one instructor and no comparison group, and the individual exam had not been administered at the time of writing, so the findings are a preliminary [[reflection]], not evidence of [[learning-gains|learning effectiveness]].
 - The voluntary end-of-course survey had a 42% group response rate (10 of 24 groups) and a single instantiation, so perceptions should be read as indicative rather than conclusive.
 - Instructor-researcher overlap may have shaped both the [[learning-design|course design]] and the interpretation of student behavior, mitigated only partly by triangulation with learning-management-system event logs.
 - The platform captures only predefined touchpoints; off-platform cognitive work is not directly observable, and checkpoint artifacts vary in granularity, limiting comparability across phases.

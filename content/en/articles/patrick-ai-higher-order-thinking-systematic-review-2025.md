@@ -65,7 +65,7 @@ The review's institutional recommendations follow from assessment risk rather th
 
 - Inclusion required a qualitative component, so quantitative and pre-post designs that could measure change in higher-order thinking are outside the sample by construction.
 - Of the 31 included articles, 15 were qualitative, 13 mixed methods and three case studies, and only three employed a specific measure of critical thinking, so most evidence is perceptual.
-- Data are largely self-reported — surveys, semi-structured interviews, focus groups, and reflective writing — so the reported effects on higher-order thinking are what participants said, not what was [[self-report-measures|assessed]].
+- Data are largely self-reported — surveys, semi-structured interviews, focus groups, and [[reflection|reflective writing]] — so the reported effects on higher-order thinking are what participants said, not what was [[self-report-measures|assessed]].
 - Quality appraisal was uneven: the CASP criterion on the researcher–participant relationship was met by only 1 of the 31 studies, and just 22 addressed ethical issues.
 - Searches ran in August 2024 with a supplementary search in January 2025 and a cutoff of 31 December 2024, so the corpus reflects the early ChatGPT era of tool use.
 - The review could not capture how institutions' own AI policies shaped what participants reported, which the authors identify as a factor left outside the analysis.

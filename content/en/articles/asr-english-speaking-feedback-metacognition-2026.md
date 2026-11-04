@@ -32,7 +32,7 @@ The study surveyed undergraduates at a teacher-training university in China who 
 ## What this means for practice
 
 - **Instructors.** Prioritize [[feedback]] quality over practice volume: accurate error correction and structured reflection tasks drove internalization and reflection, while frequency of ASR use did not raise motivation on its own.
-- **Instructors.** Scaffold reflection explicitly with recording-and-comparing tasks and reflective journals, since reflective behavior translated into speaking gains more directly than motivation did.
+- **Instructors.** Scaffold reflection explicitly with recording-and-comparing tasks and [[reflection|reflective journals]], since reflective behavior translated into speaking gains more directly than motivation did.
 - **Instructors.** Differentiate by proficiency: the reflection-to-achievement effect was weak and non-significant at low proficiency, so give weaker learners simplified feedback and explicit strategy guidance instead of one-size-fits-all ASR practice, and pair precision with supportive, positively framed scaffolding, since accurate feedback can momentarily discourage lower-proficiency learners.
 - **Designers.** Make systems explain errors articulatorially — for example, where to place the tongue — instead of only flagging them, and scale feedback complexity with learner progress.
 - **Researchers.** Isolate specific design features experimentally: across the 325 valid responses the authors modeled ASR feedback quality, accuracy, and usage frequency, but the technology was treated partly as a monolithic package.

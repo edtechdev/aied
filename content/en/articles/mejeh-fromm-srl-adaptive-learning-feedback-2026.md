@@ -19,7 +19,7 @@ audience: [instructional designers, instructors]
 ## Key Findings
 
 - **Pre-actional factors drive actional [[regulation]].** Task value, self-efficacy, goal orientation, and positive emotions in the pre-actional phase positively influenced regulatory behavior in the actional phase; negative emotions hindered it.
-- **Post-actional reflection feeds forward.** Post-actional satisfaction was positively associated with motivation, metacognitive activity, and positive emotions in the subsequent pre-actional phase — evidence of the cyclical nature of SRL.
+- **Post-actional [[reflection]] feeds forward.** Post-actional satisfaction was positively associated with motivation, metacognitive activity, and positive emotions in the subsequent pre-actional phase — evidence of the cyclical nature of SRL.
 - **Adaptive feedback's effects are limited and context-dependent.** Feedback's moderating effects were limited and, in some cases, negatively affected regulatory outcomes; **transformative feedback may contribute to cognitive overload**.
 - **Differentiated feedback types matter.** Directive, informative, and transformative feedback delivered through ALT are taken up differently by learners, with variable effects on SRL components across phases.
 - **Design implication.** While ALT feedback can promote SRL, its effectiveness requires tailoring to learners' needs; future work should optimize feedback design and address individual differences in SRL development.

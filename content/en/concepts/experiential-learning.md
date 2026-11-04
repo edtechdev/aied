@@ -90,6 +90,7 @@ Work-integrated experience can be the binding condition for advanced competence:
 - [[learning-theories]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
+- [[reflection]]
 
 ## Connected Articles
 - [[genai-counter-learner-groupthink-2025]]

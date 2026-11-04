@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-03T09:40:00-05:00"
+updated: "2026-11-04T09:40:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -109,7 +109,7 @@ Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|
 
 ### GenAI-aware reflection as SRL
 
-[[5p-reflection-model-genai-2026|The 5P Reflection Model (Kadel et al. 2026)]] re-centers structured reflection in the GenAI era as an enacted SRL practice. Because learners increasingly co-create meaning with AI, traditional reflection models struggle to authenticate student reflection, so the 5P model (Purpose, Process, Product, Pitfalls, Plan) fuses forethought-driven goal setting, reflection-in-action (documenting prompts and iterations), reflection-on-action (validating the probabilistic output against external sources), an explicit pitfalls stage for [[hallucination-risk|hallucination]], [[academic-integrity|plagiarism]], and [[cognitive-offloading|over-reliance]], and a forward-looking plan — embedding emotional monitoring throughout. Its "process over product" philosophy treats structured documentation of the [[human-ai-collaboration|human-AI interaction]] as the regulatory demand that preserves authenticity, [[agency]], and [[metacognition|metacognitive]] depth, positioning GenAI-aware reflection as a scaffold for self-regulation rather than a substitute for it.
+[[5p-reflection-model-genai-2026|The 5P Reflection Model (Kadel et al. 2026)]] re-centers structured reflection in the GenAI era as an enacted SRL practice. SRL owns reflection only as one phase of its cycle; the practice itself — prompts, journals, portfolios and scored reflective text — is carried on the [[reflection]] page, which also sets out where it differs from [[metacognition]] and [[self-assessment]]. Learners increasingly co-create meaning with AI, and traditional reflection models struggle to authenticate what a student has done. The 5P model (Purpose, Process, Product, Pitfalls, Plan) fuses forethought-driven goal setting, reflection-in-action (documenting prompts and iterations), reflection-on-action (validating the probabilistic output against external sources), an explicit pitfalls stage for [[hallucination-risk|hallucination]], [[academic-integrity|plagiarism]], and [[cognitive-offloading|over-reliance]], and a forward-looking plan — embedding emotional monitoring throughout. Its "process over product" philosophy treats structured documentation of the [[human-ai-collaboration|human-AI interaction]] as the regulatory demand that preserves authenticity, [[agency]], and [[metacognition|metacognitive]] depth, positioning GenAI-aware reflection as a scaffold for self-regulation rather than a substitute for it.
 
 ## Relationship to Tutoring-Specific Design
 
@@ -212,6 +212,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[llm]] — the underlying model of AI tools
 - [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
 - [[cognitive-surrender]]
+- [[reflection]]
 
 ## Connected Articles
 - [[li-genai-dependency-effort-regulation-2026]] — Generative AI dependency and perceived learning outcomes: the effort-regulation pathway (Li, Zhang & Yang 2026)

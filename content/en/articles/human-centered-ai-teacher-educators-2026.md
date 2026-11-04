@@ -26,7 +26,7 @@ level: [teacher education, adult learning]
 
 **Ethics as enacted practice.** Educators treated ethics not as a topic but as a practice modeled in real time — transparent AI use, [[scaffolding]] ethical decisions, creating classroom norms, and fostering reflective engagement — distributed across many small, repeated instructional decisions rather than a single curricular moment.
 
-**Reforming [[assessment]] and pedagogy.** Educators called for AI-resistant, process-based assessments prioritizing justification and reflection over AI-generated output, replacing [[summative-assessment|summative]] essays with smaller scaffolded tasks that invite critical engagement with AI at multiple stages.
+**Reforming [[assessment]] and pedagogy.** Educators called for AI-resistant, process-based assessments prioritizing justification and [[reflection]] over AI-generated output, replacing [[summative-assessment|summative]] essays with smaller scaffolded tasks that invite critical engagement with AI at multiple stages.
 
 **Five-module curriculum and seven activities.** Findings were operationalized into five online modules (foundational AI knowledge; ethics and algorithmic bias; pedagogical integration; implementation, guidelines, and policy; human-centered AI in education) delivered through seven HCAI-informed activities, including educator-in-the-loop and student-in-the-loop tasks that foreground professional judgment, transparency, explainability, value-sensitive design, and equity-oriented decision-making.
 

@@ -51,7 +51,7 @@ From a staff perspective, the partnership gained important insights that would n
 
 - **Assessment designers.** Treat no coursework format as immune: audit existing assessments for ChatGPT interference rather than assuming a given format is a safeguard, since both partners concluded no form of coursework assessment was completely immune.
 - **Assessment designers.** Co-create evaluation criteria with a student partner when existing frameworks do not fit, as these partners did in building seven criteria around UNESCO and JISC guidance.
-- **Instructors.** Give the student partner priority and genuine ownership of the work, because taking responsibility for elements of the project was what produced the empowerment and increased self-reflection she reported.
+- **Instructors.** Give the student partner priority and genuine ownership of the work, because taking responsibility for elements of the project was what produced the empowerment and increased [[reflection|self-reflection]] she reported.
 - **Instructors.** Provide training for both staff and students on the capabilities, limitations, and ethical use of [[generative-ai]], which both partners recommended.
 - **Educators.** Use co-creation to align differing assessment expectations and build assessment literacy in students and staff alike, and extend the approach to further assessment formats (such as MCQs and short answer questions) and to a more diverse group of students to improve [[equity-in-ai-education|equity]] and inclusion.
 

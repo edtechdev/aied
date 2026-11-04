@@ -55,7 +55,7 @@ The primary literature shows [[generative-ai|GenAI]] is consistently stronger on
 Education level, the moderator the study most wanted to test, could not be tested: all 11 pooled studies sat in higher education, with no primary or secondary settings — a hypothesis-generating gap multi-site, proficiency-stratified trials could fill.
 
 ## What this means for practice
-- **Instructors.** Treat AI writing support as a designed instructional component, not a standalone treatment: embed it in structured revision cycles, guided reflection, and clear genre expectations; tool access alone does not guarantee gains.
+- **Instructors.** Treat AI writing support as a designed instructional component, not a standalone treatment: embed it in structured revision cycles, guided [[reflection]], and clear genre expectations; tool access alone does not guarantee gains.
 - **Instructional designers.** Favor guided and [[human-in-the-loop-ai|hybrid]] configurations pairing AI suggestions with teacher feedback for higher-order outcomes (coherence, argumentation); AI-dominant delivery was weaker.
 - **Administrators and research leaders.** Expect headline effects to shrink under stronger designs, risk-of-bias status being the strongest moderator. Fund longer (over 12 weeks), proficiency-stratified, multi-site trials testing durability, not just immediate facilitation.
 - **Researchers.** Improve transparency on duration, teacher involvement, feedback protocols, assessment criteria, and learner characteristics, and pair outcome measures with process-level ones (revision behavior, uptake, [[metacognition|metacognitive monitoring]]) to explain heterogeneity current moderators leave unmodeled.

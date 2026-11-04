@@ -31,7 +31,7 @@ source_depth: full text
 ## Key Findings
 1. Across 11 valid sessions, only one child accepted the AI suggestion, while three chose to seek evidence and five questioned the AI; nine sessions reached the AI repair state.
 2. Agent style shaped response entry: all four partner-like children chose to question the AI, while the tool-like condition produced two evidence seekers, one questioner, and two incomplete choices.
-3. Ten children entered the reflection node where the AI introduced an incorrect explanation; the single exception stopped during free chat in the tool-like condition.
+3. Ten children entered the [[reflection]] node where the AI introduced an incorrect explanation; the single exception stopped during free chat in the tool-like condition.
 4. Children rated error awareness consistently high (M = 4.83) but AI trust and reliance only moderate (M = 3.33), indicating they did not treat the AI as an always-correct source.
 5. Role perception stayed functional: tool perception (M = 4.67) exceeded partner perception (M = 3.33), and dual-state children still rated the AI strongly as a tool (M = 5.00).
 6. Reasoning depth varied: coded reasons for questioning were three conceptual corrections, one evidence-based correction citing images or knowledge cards, and one intuitive disagreement.

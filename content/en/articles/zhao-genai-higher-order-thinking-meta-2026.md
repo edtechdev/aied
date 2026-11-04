@@ -25,7 +25,7 @@ methods: [meta-analysis-systematic-review]
 ## What this means for practice
 
 - **Instructors.** Plan GenAI integration across a semester rather than a single session: the effect on higher-order thinking peaked for 8–16-week interventions (ES = 0.759) and fell away both below 8 weeks (ES = 0.494) and beyond 16 weeks (ES = 0.372).
-- **Instructors.** Scaffold [[self-regulated-learning|self-regulated learning]] alongside the tool instead of assuming it: students with high SRL gained substantially (ES = 0.863) while those with low SRL gained little (ES = 0.284), so teach goal-setting, monitoring, and reflection as part of the GenAI activity.
+- **Instructors.** Scaffold [[self-regulated-learning|self-regulated learning]] alongside the tool instead of assuming it: students with high SRL gained substantially (ES = 0.863) while those with low SRL gained little (ES = 0.284), so teach goal-setting, monitoring, and [[reflection]] as part of the GenAI activity.
 - **Instructors.** Give [[creativity|creative thinking]] explicit support: the GenAI effect was weakest for creativity (ES = 0.444, against 0.745 for [[problem-solving]] and 0.691 for [[critical-thinking|critical thinking]]), so pair the tool with ideation and divergent-thinking prompts rather than expecting creative gains to follow.
 - **Administrators.** Move GenAI use out of lecture-only formats: lecture-based instruction produced a small, non-significant effect (ES = 0.396) compared with project-based (ES = 0.717) and blended (ES = 0.525) designs.
 - **Researchers.** Report higher-order-thinking sub-dimensions separately, since the moderate overall effect (Hedges's g = 0.609) conceals a 0.444–0.745 spread across creativity, critical thinking, and problem-solving.

@@ -32,7 +32,7 @@ audience: [instructors, assessment designers, administrators]
 
 ## What this means for practice
 
-- **Instructors.** Redesign assessments around process and reflection rather than static outputs — version-controlled coding journals, interactive oral defenses, and AI-in-the-loop tasks where students critique and refine machine-generated drafts — because [[ai-detection|detection tools]] lag behind current [[generative-ai|GenAI]] output.
+- **Instructors.** Redesign assessments around process and [[reflection]] rather than static outputs — version-controlled coding journals, interactive oral defenses, and AI-in-the-loop tasks where students critique and refine machine-generated drafts — because [[ai-detection|detection tools]] lag behind current [[generative-ai|GenAI]] output.
 - **Instructors.** Treat [[llm]]-based tutors as assistive cognitive partners, not substitutes, and require students to interrogate and fact-check model output so [[critical-thinking|higher-order thinking]] stays with the learner.
 - **Assessment designers.** Pair conversational tutors with [[guardrails]] or [[rag|retrieval-augmented]] architectures and publish model-explainability reports, since opaque internal reasoning risks [[hallucination-risk|hallucinations]] and error propagation in [[assessment]] and feedback.
 - **Administrators.** Adopt GDPR-aligned consent, anonymization pipelines, and opt-out provisions for the behavioral data [[learning-analytics|learning analytics]] collect — keystrokes, IDE telemetry, revision histories — to preserve learner autonomy.

@@ -40,7 +40,7 @@ reviewed_by: [editor]
 
 - **Familiarity with AI did not predict preference; experience with feedback and comfort with technology did.** In the ordinal regression on AI preference, only rarely-or-never AI use was significant (B = 2.11, SE = 1.03, t = 2.05, p = 0.040, OR = 8.24). In the regression on preference for AI relative to human grading, being somewhat uncomfortable with technology lowered the odds of a higher AI-preference category (B = −1.37, SE = 0.68, t = −2.01, p = 0.045, OR = 0.26), while receiving human feedback frequently raised them (B = 1.24, SE = 0.58, t = 2.13, p = 0.033, OR = 3.45).
 
-- **After running ChatGPT themselves, most reflections still cast AI as a formative aid.** Of the 63 participants who answered the reflection, the largest theme was AI as a formative learning aid (n = 32), followed by skepticism about its educational impact (n = 18), preference for human authority (n = 17), and context-dependent acceptance (n = 9). Sentiment scores were positive for all three topic-model topics: usefulness and clarity 71, accuracy of scoring and feedback 70, and detailed feedback and examples 30.
+- **After running ChatGPT themselves, most [[reflection|reflections]] still cast AI as a formative aid.** Of the 63 participants who answered the reflection, the largest theme was AI as a formative learning aid (n = 32), followed by skepticism about its educational impact (n = 18), preference for human authority (n = 17), and context-dependent acceptance (n = 9). Sentiment scores were positive for all three topic-model topics: usefulness and clarity 71, accuracy of scoring and feedback 70, and detailed feedback and examples 30.
 
 ## What the survey measured, and what it did not
 

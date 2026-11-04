@@ -42,7 +42,7 @@ The authors also spend care on what they are not claiming. Companion is a design
 
 ## What the case studies expose
 
-Reading five deployments against the framework turns an abstract agenda into a gap analysis. The pedagogical foundation is where tools already converge, and the recurring design decision they identify is which forms of cognitive work remain with the learner: Khanmigo and CodeHelp withhold the direct solution, RiPPLE moves students into authoring and peer review, JeepyTA embeds support inside course discussion and formative feedback, and Recast supports educator-designed assistants for reflection and role-play.
+Reading five deployments against the framework turns an abstract agenda into a gap analysis. The pedagogical foundation is where tools already converge, and the recurring design decision they identify is which forms of cognitive work remain with the learner: Khanmigo and CodeHelp withhold the direct solution, RiPPLE moves students into authoring and peer review, JeepyTA embeds support inside course discussion and formative feedback, and Recast supports educator-designed assistants for [[reflection]] and role-play.
 
 The adaptive foundation is where they diverge most, and persistent longitudinal adaptivity is named as the clearest gap between current implementations and the fuller vision. That diagnosis connects directly to work on [[student-modeling]] and [[knowledge-tracing]], which supply the machinery for exactly the cross-session learner state the case studies lack.
 

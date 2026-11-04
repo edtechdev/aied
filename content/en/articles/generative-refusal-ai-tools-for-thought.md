@@ -19,7 +19,7 @@ audience: [instructional designers, instructors]
 
 - The paper critiques current [[generative-ai|GenAI]] design paradigms that prioritize **cognitive offloading** — generating text on the user's behalf — which risks eroding the constructive thought process essential to artistic training.
 - It proposes **Generative Refusal**: strategically withholding text generation to demand user articulation, positioning AI as a **Maieutic Partner** that returns [[desirable-difficulties|cognitive friction]] to the user and shifts the interaction from delegation to active articulation.
-- The framework is instantiated in **Actor's Note**, a character-journaling tool for actor training that generates **context-aware questions instead of draft text**.
+- The framework is instantiated in **Actor's Note**, a character-[[reflection|journaling]] tool for actor training that generates **context-aware questions instead of draft text**.
 - A field study of Actor's Note suggests the constraint **significantly reduced cognitive burden** while fostering a **residual effect of internalized questioning habits**.
 - The motivating context is character journaling — a foundational tool for thought in actor training that is valuable but hard to sustain: actors frequently abandon it not from lack of material but because the high cognitive load of initiating reflection after exhausting rehearsals creates a barrier, often manifesting as the "blank page" problem.
 

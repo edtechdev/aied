@@ -31,7 +31,7 @@ verified: [citation, numbers, links]
 
 ## Key Findings
 - **Two profiles organized the same task differently.** Orchestrators sustained oversight and constraint; Outsourcers delegated authority early and intervened little once output looked sufficient.
-- **Final artifacts concealed the difference.** Both produced polished, coherent products, so the evidence sat in prompts, latency, corrections, and refusals: NotebookLM's Convert to Source function kept reflective notes inside the working corpus, not in end-of-course reflections.
+- **Final artifacts concealed the difference.** Both produced polished, coherent products, so the evidence sat in prompts, latency, corrections, and refusals: NotebookLM's Convert to Source function kept reflective notes inside the working corpus, not in end-of-course [[reflection|reflections]].
 - **Boundary work, not technical skill, separated the profiles.** Both used the same [[rag|retrieval-augmented]] source-grounding tool; the difference was how long students stayed accountable for its output.
 - **Evaluation ran through a recurring four-step routine.** O'Byrne names an Agency Check: Credible, Relevant, Acceptable, and Nuanced, asking whether output is accurate, fitting, serviceable, and carries stance and voice.
 - **[[ethics|Ethical]] discomfort tracked with the most active boundary workers.** The [[academic-integrity|"cheating tension"]] over authorship intensified among students doing the most boundary work.

@@ -46,7 +46,7 @@ Students described the policy design process itself as valuable, noting that it 
 - Data came from 55 of the 68 undergraduates enrolled in a single course, "Technology and the Global Society," for information technology and cybersecurity majors at one institution, and the authors state the findings are context-specific.
 - The study included no baseline or pre-intervention measure and is not intended to demonstrate changes in students' AI literacy or learning gains attributable to the activity; the reported themes may reflect pre-existing views.
 - The module was designed around the researchers' prior knowledge of this group's interest in discussing GenAI and their disciplinary background, so replication elsewhere would require similar attention to participant characteristics, rapport, and local relevance.
-- The evidence is student-produced artifacts and reflective writing about their own reasoning, so it captures what participants articulated in the activity rather than observed changes in their later AI practice.
+- The evidence is student-produced artifacts and [[reflection|reflective writing]] about their own reasoning, so it captures what participants articulated in the activity rather than observed changes in their later AI practice.
 
 ## Citation
 Hingle, A., & Johri, A. (2026). [*A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies*](https://arxiv.org/abs/2608.28501). arXiv:2608.28501.

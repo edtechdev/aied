@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-03T09:06:35-05:00"
+updated: "2026-11-04T09:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -33,6 +33,8 @@ Metacognition in education refers to learners' awareness, monitoring, and [[regu
 - **Metacognitive regulation:** Planning, monitoring, and evaluating one's own learning in real time
 
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.([[scheu-mobile-chatbot-journaling-motivation-2026]])
+
+Metacognition is not the same construct as [[reflection]], and the two are often conflated. Monitoring is a judgment a learner makes about their own state, and it can happen with no record at all. Reflection is the deliberate, documented examination of a completed attempt, and what it produces is a text that can be reviewed or assessed. Keeping them apart matters most when AI is involved: a monitoring judgment is hard to hand over, while a reflection artifact can be produced by a model.
 
 How learners actually deploy metacognition around AI is shaped by more than the tool itself: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] find that student motivation and the interaction role they adopt shape their metacognitive [[student-engagement|engagement]] with [[generative-ai|GenAI]] — meaning whether AI use is metacognitively rich depends on the learner's stance as much as on the technology. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] add the [[student-ai-interaction|AI interaction]] itself as an object of that reflection: the closing step of their [[prompt-engineering|Prompt Literacy]] Cycle asks learners to examine what the process revealed about how prompts function and what assumptions shaped the response, and they make reflection and revision the phase in which authorship and critical judgment develop.
 
@@ -162,6 +164,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[ai-literacy]]
 - [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
 - [[cognitive-surrender]]
+- [[reflection]]
 
 ## Connected Articles
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)

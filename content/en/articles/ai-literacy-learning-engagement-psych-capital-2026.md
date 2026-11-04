@@ -46,7 +46,7 @@ Analysis used SPSS for descriptives and correlations and SmartPLS for partial le
 - The cross-sectional design precludes strict causal inference; reverse or reciprocal paths (e.g. engaged students seeking out AI literacy) cannot be ruled out. Longitudinal designs or pretest–posttest intervention studies are needed.
 - The sample is confined to undergraduates at four universities in Zhengzhou, limiting generalizability across regions, disciplines, and educational levels.
 - Only psychological capital as a composite construct was tested as a mediator; future work should disaggregate AI self-efficacy, technological resilience, and other specific mediators.
-- Rapid iteration of [[generative-ai|generative AI]] is shifting use from shallow instrumental application toward deep collaborative co-creation, so the conceptualization and measurement of AI literacy — and assessment tools capable of capturing adaptability and reflection across usage patterns — must evolve accordingly.
+- Rapid iteration of [[generative-ai|generative AI]] is shifting use from shallow instrumental application toward deep collaborative co-creation, so the conceptualization and measurement of AI literacy — and assessment tools capable of capturing adaptability and [[reflection]] across usage patterns — must evolve accordingly.
 
 ## Citation
 

@@ -35,7 +35,7 @@ methods: [qualitative-research]
 4. **Testing unaided ability is supported as one lane, not a return to invigilation.** The paper accepts controlled conditions for outcomes that require unaided performance while rejecting a program built entirely around them.
 5. **The peer-review extension is plausible but under-examined.** The corpus supports judging a review by its quality rather than by how much a human typed, on very little direct evidence.
 6. **The design procedure is a nine-step chain, with AI's role seventh.** It asks for the intended outcome, whether AI can already do that work, whether unaided demonstration is required, whether AI use is itself the capability, what evidence of thinking is needed, and only then what role AI should have.
-7. **Friction and assurance are different instruments.** Requiring local data, reflections or in-class material raises the cost of an AI answer and decays as models improve; supervised conditions, [[oral-assessment|vivas]] and program-level validity depend far less on current model limits.
+7. **Friction and assurance are different instruments.** Requiring local data, [[reflection|reflections]] or in-class material raises the cost of an AI answer and decays as models improve; supervised conditions, [[oral-assessment|vivas]] and program-level validity depend far less on current model limits.
 
 ## Why validity, not provenance
 

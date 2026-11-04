@@ -101,6 +101,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[ai-technologies]] — the umbrella of AI techniques and models
 - [[higher-ed]] — a primary deployment context
 - [[k-12]] — a primary deployment context
+- [[reflection]]
 
 ## Connected Articles
 - [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit

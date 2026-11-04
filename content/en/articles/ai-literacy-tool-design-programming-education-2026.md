@@ -45,7 +45,7 @@ Five data sources were collected in both conditions:
 4. Full interaction logs from the Coach — hints requested, mode used, timing of requests, and the point in the task at which help was sought.
 5. Six semi-structured interviews with students from both conditions, plus recorded informal discussion notes with students and teaching assistants.
 
-Analysis was explicitly descriptive: with 16 and 17 students per condition the pilot was not powered for inferential tests, and none are reported — an honest [[limitations-in-aied-research|limitation]] stated in the paper rather than papered over. Log data were analyzed for patterns of use, particularly the distribution of the hint budget across a session; interviews and end-of-session reflections were thematically coded; and the strands were then read together so that logs and interviews interpreted the survey and score comparisons.
+Analysis was explicitly descriptive: with 16 and 17 students per condition the pilot was not powered for inferential tests, and none are reported — an honest [[limitations-in-aied-research|limitation]] stated in the paper rather than papered over. Log data were analyzed for patterns of use, particularly the distribution of the hint budget across a session; interviews and end-of-session [[reflection|reflections]] were thematically coded; and the strands were then read together so that logs and interviews interpreted the survey and score comparisons.
 
 ## Results: No Performance Difference, Higher Confidence
 

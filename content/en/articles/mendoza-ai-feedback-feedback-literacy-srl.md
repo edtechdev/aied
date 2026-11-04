@@ -20,7 +20,7 @@ confidence: high
 
 ## Core Finding
 
-In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-[[regulation|regulatory]] benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
+In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted [[reflection|self-reflection]]. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-[[regulation|regulatory]] benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
 
 ## Design & Measures
 

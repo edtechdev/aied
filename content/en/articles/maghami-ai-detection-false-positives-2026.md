@@ -56,7 +56,7 @@ The paper's most transferable contribution is procedural. A detector score becom
 - **Instructors.** Never treat a score as a finding. Require corroboration from drafts, version history, notes, or an oral check-in before raising a concern, and do not run detection on short texts or on the work of multilingual writers, where the review reports higher false-positive risk.
 - **Administrators.** Write the appeal route before you license the tool: named reviewer, documented evidence standard, stated timeline, and a record of the decision, so that a contested flag has a procedure rather than a committee.
 - **Policymakers.** Set the evidentiary standard for misconduct cases centrally and require periodic audits of error rates across student populations, because detector output alone will not meet a standard of proof the review considers defensible.
-- **Program designers.** Move assessment weight toward reasoning, process evidence, and reflection, which the review finds less vulnerable than tasks that mainly require producing text, and teach [[ai-use-disclosure]] alongside [[ai-literacy]] so that permitted assistance is visible rather than inferred.
+- **Program designers.** Move assessment weight toward reasoning, process evidence, and [[reflection]], which the review finds less vulnerable than tasks that mainly require producing text, and teach [[ai-use-disclosure]] alongside [[ai-literacy]] so that permitted assistance is visible rather than inferred.
 
 ## Limitations
 

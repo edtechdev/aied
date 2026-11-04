@@ -78,7 +78,7 @@ A critical [[research-methods-aied|methodological]] finding: **CrT was more ofte
 2. **Loss of voice and affective authenticity** (n=15) — AI outputs lacked individual style and emotional nuance
 3. **Suppression of iterative exploration** (n=13) — Repetitive use, uncritical adoption, minimal conceptual recombination
 4. **Risk-related inhibition** (n=11) — Privacy concerns and fear of underperformance suppressed creative risk-taking
-5. **Instructional deficit** (n=14) — Without reflective prompts or structured interaction, ChatGPT functioned as passive answer provider
+5. **Instructional deficit** (n=14) — Without [[reflection|reflective prompts]] or structured interaction, ChatGPT functioned as passive answer provider
 
 ### Co-Occurrence Patterns
 

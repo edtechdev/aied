@@ -35,7 +35,7 @@ Data were analyzed with partial least squares structural equation modeling (PLS-
 
 - **Instructors.** Teach prompting as a cognitive support strategy across drafting, feedback, and rewriting — the paper's Collaborative Human-AI Revision Design uses constraint-based prompts and criteria-specific diagnostic prompts that position AI as a [[formative-assessment|formative]] peer reviewer rather than an authoritative oracle.
 - **Administrators.** Pair necessary [[governance]] with AI-prompting workshops and autonomy-supportive environments instead of monitoring-centric usage metrics or [[ai-detection]] software, because external mandates had no significant direct effect on deep revision (model R² = 0.500).
-- **Instructors.** Move [[assessment]] toward process and [[metacognition]]: prompt-reflection [[eportfolio|portfolios]] that reward [[productive-failure|productive failure]] sustain the intrinsic motivation that was the strongest single predictor of deep revision, whereas [[summative-assessment|summative]] rubrics that heavily penalize linguistic inaccuracy risk nudging students toward algorithmic dependence.
+- **Instructors.** Move [[assessment]] toward process and [[metacognition]]: prompt-[[reflection]] [[eportfolio|portfolios]] that reward [[productive-failure|productive failure]] sustain the intrinsic motivation that was the strongest single predictor of deep revision, whereas [[summative-assessment|summative]] rubrics that heavily penalize linguistic inaccuracy risk nudging students toward algorithmic dependence.
 - **Administrators.** Evaluate students' iterative dialogue with AI as part of the graded work, treating human-AI collaboration as a core literacy rather than scoring only the final product.
 
 ## Limitations

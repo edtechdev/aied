@@ -22,7 +22,7 @@ reviewed_by: [editor]
 - The agent weaknesses she names are no lived memory, confident ignorance, inconsistency across linked responses, difficulty holding positions under pressure, no local or tacit knowledge, and no reproducibility.
 - Table 2 maps each failure mode to a design strategy: pre-commitment, decision trace, critique phase, constraint injection, a multi-stage protocol, position-holding and context-embedded tasks, and embedded [[metacognition]].
 - The UnBlooms™ five-level scale runs Critically Recognize, Identify, Analyze and Evaluate, then Create/Resist, scored 1 to 5 points, where documented opting out of AI counts as a top-level outcome.
-- The Multi-Stage AI Interaction Protocol runs five sections — Baseline, Constraint Injection, Decision Trace, Counterfactual Reflection, and Confidence Calibration, where students rate confidence from 0 to 100 percent and explain what would raise it.
+- The Multi-Stage AI Interaction Protocol runs five sections — Baseline, Constraint Injection, Decision Trace, Counterfactual [[reflection]], and Confidence Calibration, where students rate confidence from 0 to 100 percent and explain what would raise it.
 - The UnBlooms™ Discernment Rate is the share of AI outputs a learner interrogates, challenges or revises rather than accepts; near zero across five assignments signals a task-design problem, not cheating.
 - Dizon et al.'s Metacognitive Laziness Scale shows that offloading goal-setting, error monitoring, and strategic reflection is distinct from work avoidance and tied to academic disaffection.
 

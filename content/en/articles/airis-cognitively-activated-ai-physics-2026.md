@@ -37,7 +37,7 @@ A central design principle: procedural execution (running an integration, genera
 
 1. **Activate (before AI): epistemic grounding.** Students predict outcomes, sketch expected relationships, identify variables, and estimate magnitudes — building a mental model and a reference point against which AI output will later be judged.
 2. **Inquire (during AI): guided delegation.** Computational and representational tasks are delegated to AI, but students compare AI output against their own predictions, annotate discrepancies, and question assumptions (fitting ranges, smoothing choices). AI is an epistemic partner, not an answer generator.
-3. **Reflect (after AI): epistemic responsibility.** Students explain the physical meaning of results, check consistency across representations, diagnose uncertainty and errors, and write a reflection making explicit what the AI contributed versus what they contributed.
+3. **Reflect (after AI): epistemic responsibility.** Students explain the physical meaning of results, check consistency across representations, diagnose uncertainty and errors, and write a [[reflection]] making explicit what the AI contributed versus what they contributed.
 
 The teacher's role shifts to that of designer and guardian of the task structure: selecting tasks that require genuine [[prior-knowledge]] activation, monitoring whether students critically compare AI output, and orchestrating reflection. AIRIS adapts existing inquiry cycles (5E, Predict–Observe–Explain) for AI, adding the Inquire phase's AI partnership and a Reflect phase that makes the human–AI division of cognitive work explicit.
 

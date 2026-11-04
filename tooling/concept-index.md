@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 222
+**Total concepts:** 223
 
 ## Foundations of AI in education
 
@@ -85,6 +85,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`misconceptions`** — Misconceptions about AI — phrases: AI misconceptions; learner misconceptions; misconception; misconceptions; misconceptions about AI; student misconceptions about AI
 - **`motivation`** — Motivation — phrases: achievement goal; achievement goals; extrinsic motivation; goal orientation; goal orientations; intrinsic motivation; learner motivation; motivation; motivational; student motivation
 - **`prior-knowledge`** — Prior Knowledge — phrases: activate prior knowledge; activation of prior knowledge; prior knowledge; prior knowledge activation; prior knowledge state; prior-knowledge
+- **`reflection`** — Reflection — phrases: journaling; learning journal; learning journals; reflection; reflection quality; reflective discourse; reflective journal; reflective journals; reflective practice; reflective prompts; reflective writing; reflections; self-reflection; written reflections
 - **`refutation-text`** — Refutation Text — phrases: refutation text; refutation texts; refutational text
 - **`retrieval-spacing-interleaving`** — Retrieval, Spacing and Interleaving — phrases: retrieval practice; retrieval-based learning; practice testing; testing effect; spaced practice; spaced repetition; spacing effect; distributed practice; interleaving; interleaved practice; pretesting
 - **`self-determination-theory`** — Self-Determination Theory — phrases: autonomy competence relatedness; SDT; self determination; self-determination theory
@@ -240,7 +241,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`learning-gains`** — Learning Gains — phrases: academic achievement; academic performance; achievement; achievement gap; achievement gaps; learning achievement; learning effectiveness; learning gains; learning outcomes; prior achievement; student achievement
 - **`psychometrically-aware-ai`** — Psychometrically Aware AI — phrases: psychometric AI; psychometric awareness; psychometrically aligned AI; psychometrically aware; psychometrically aware AI
 - **`remote-proctoring`** — Remote Proctoring — phrases: AI proctoring; automated proctoring; e-proctoring; exam proctoring; online invigilation; online proctoring; remote proctoring
-- **`self-report-measures`** — Self-Report Measures — phrases: perceived learning; questionnaire; questionnaires; self-report; self-report bias; self-report data; self-report measures; self-reported; survey instrument; surveys; written reflections
+- **`self-report-measures`** — Self-Report Measures — phrases: perceived learning; questionnaire; questionnaires; self-report; self-report bias; self-report data; self-report measures; self-reported; survey instrument; surveys
 
 ## Research methods and evaluation
 

@@ -32,7 +32,7 @@ Most current systems blend rule-based and [[machine-learning]] components:
 
 ## The cognitive paradox of AI
 
-Prezenski identifies what she calls the **cognitive paradox**: AI can support mental-model building, self-reflection ([[metacognition]]), sustained attention, and frustration tolerance through timely feedback, tailored instruction, [[game-based-learning|gamification]], and fading scaffolds. But over-reliance produces the opposite:
+Prezenski identifies what she calls the **cognitive paradox**: AI can support mental-model building, [[reflection|self-reflection]] ([[metacognition]]), sustained attention, and frustration tolerance through timely feedback, tailored instruction, [[game-based-learning|gamification]], and fading scaffolds. But over-reliance produces the opposite:
 
 - **Rewards undermine [[motivation|intrinsic motivation]]** (Deci & Ryan; Duolingo-style points/streaks shift focus to game maintenance, reduce dopamine sensitivity).
 - **Hint-dependency and excessive scaffolding** promote task-completion over understanding, suppress independent monitoring, and leave learners overwhelmed when AI is absent.

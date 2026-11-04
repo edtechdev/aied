@@ -26,7 +26,7 @@ The report's most consequential finding is that general-purpose GenAI tools (Cha
 
 Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models show more promise than general-purpose chatbots. Examples cited include:
 
-- **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and reflection rather than providing direct answers
+- **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and [[reflection]] rather than providing direct answers
 - **Khanmigo**: Withholds answers and guides reasoning through questioning
 - **JeepyTA**: AI [[teacher-role|teaching]] assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilizes less-qualified tutors effectively through AI support

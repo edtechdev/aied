@@ -37,7 +37,7 @@ verified: [citation, numbers, links]
 3. **Metacognitive awareness rose in both experimental groups.** Knowledge of cognition was 3.96 (SD = 0.47) for the control group against 4.23 (SD = 0.40) and 4.24 (SD = 0.52) for the experimental groups (F = 3.406, p = .038); regulation of cognition was 3.99 (SD = 0.09) against 4.27 (SD = 0.07) and 4.25 (SD = 0.10) (F = 3.323, p = .041).
 4. **Grades favored the chain groups by a few points.** The control group mean was 86.67 (SD = 2.915) against 90.50 (SD = 3.705) and 90.13 (SD = 3.182), with the control group lower than each experimental group (mean differences of −3.833, p = .015 and −3.458, p = .043) and the two chains indistinguishable (0.375, p = .808).
 5. **Effects are claimed for the package, not for chaining.** The chains differed from free-form questioning in the specificity and quality of the prescribed questions, their sequence, the requirement that each question build on the previous response, the requirement to complete every step, and the wording of the reflection prompts.
-6. **Reflection findings are weaker than the log findings.** Reflection subthemes are reported descriptively only, because the [[self-report-measures|reflection prompt]] differed by condition and cued some of the coded themes.
+6. **Reflection findings are weaker than the log findings.** Reflection subthemes are reported descriptively only, because the [[reflection|reflection prompt]] differed by condition and cued some of the coded themes.
 7. **The intervention was cheap and light.** Question chains required no modification of the AI system and were delivered as instruction sheets over a five-week project, which is the study's main practical claim.
 
 ## What the two chains asked students to do
@@ -57,7 +57,7 @@ The 83 post-task reflections were coded thematically into three core themes: ena
 - **[[teacher-role]]** Hand students a prescribed chain of specific questions for a GenAI-supported creative task and require each question to build on the previous AI response, because both chain groups logged more learning-monitoring behavior than the control group (χ² = 6.551, p = .038).
 - **Instructors.** Pick a chain form on task grounds rather than expected potency: the progressive and divergent chains did not differ on any outcome, and the study reports no difference between them on behavior, [[metacognition]], or grades.
 - **Instructional designers.** Budget the chain as an [[inquiry-based-learning|inquiry]] scaffold rather than a prompt template, and expect the required sequencing and step completion to be part of the effect, since the design cannot separate them from prompt quality.
-- **Faculty developers.** Treat [[self-report-measures|reflection]] evidence as corroboration, not as independent evidence: use one neutral reflection prompt across conditions if you want a comparable account of student experience.
+- **Faculty developers.** Treat [[reflection]] evidence as corroboration, not as independent evidence: use one neutral reflection prompt across conditions if you want a comparable account of student experience.
 - **Researchers.** Log the interaction and check adherence to the prescribed sequence, step completion, and dependency on preceding responses; this study's proposed evaluative mechanism remains untested without those checks.
 
 ## Limitations

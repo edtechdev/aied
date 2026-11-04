@@ -28,7 +28,7 @@ reviewed_by: [editor]
 - Qualification was the clearest and most concrete purpose overall: teachers wanted students to understand AI as a sociotechnical phenomenon and to use AI tools, treating AI both as a target of learning and as an aid to learning.
 - Teachers framed AI as general knowledge comparable to any other primary school subject, yet gave no accounts of how to teach its ubiquity, offering only generic uses of videos and children's books as prompts for discussion.
 - Socialization appeared as encouragement of favorable, even enthusiastic stances toward AI, and as preparation for AI-shaped work, with students positioned as future workers who must meet competency demands.
-- Subjectification, the central domain in Biesta's framework, emerged as personally meaningful AI use, reflection on data and risk in one's own life, and empowerment to contest AI's authority, yet it rested on generic examples such as discussing and contemplating.
+- Subjectification, the central domain in Biesta's framework, emerged as personally meaningful AI use, [[reflection]] on data and risk in one's own life, and empowerment to contest AI's authority, yet it rested on generic examples such as discussing and contemplating.
 - The authors propose informed AI agency, a heuristic centered on subjectification, in which competencies serve as explanatory frameworks that help students make self-determined choices within social constraints.
 
 ## Aims, Context, and Design

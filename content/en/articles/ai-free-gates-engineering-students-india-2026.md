@@ -55,7 +55,7 @@ The burden of defining readiness fell on students. AI became the first response 
 - **Instructors.** State your position on AI for every course and every task in writing: participants read the same silence as permission or as prohibition, and 15 of 23 deferred to whoever awarded the marks.
 - **Instructors.** Grade AI-assisted work through an [[oral-assessment|oral defense]]. Participants invested in understanding where they expected to explain their work in person, and feared being unable to answer for what a model wrote.
 - **Administrators.** Negotiate AI access for students instead of leaving it to company promotions and telecom bundles: no participant's institution supplied tools, and the newest model subscriptions were put at 15,000 to 20,000 rupees.
-- **Employers.** Test candidates working with AI as well as without it. Participants called AI-permitted build tasks "more of a reflection of what's going on in real life," and treated CGPA cut-offs as weaker evidence than they once were.
+- **Employers.** Test candidates working with AI as well as without it. Participants called AI-permitted build tasks "more of a [[reflection]] of what's going on in real life," and treated CGPA cut-offs as weaker evidence than they once were.
 - **Researchers.** Interview recruiters and hiring managers before concluding that the signals have weakened. This study hears only the student side of the gate.
 
 ## Limitations

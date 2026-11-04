@@ -43,8 +43,8 @@ User interaction follows a cyclical four-phase model centered on the student as 
 
 1. **Write.** The student composes or pastes an argumentative essay into a Quill-based rich text editor.
 2. **Challenge.** The student selects a critical persona; the system returns structured, inquiry-based questions targeting specific argumentative dimensions, with no evaluative language or revision suggestions.
-3. **Defend.** For each question, the student writes a reflective defense — the system's primary [[metacognition|reflective]] mechanism — which is not accepted uncritically.
-4. **Improve.** Once the defense clears the [[scaffolding|reflection gate]], the student "unlocks" a concrete revision suggestion and a writing tip that build on the student's own reasoning.
+3. **Defend.** For each question, the student writes a reflective defense — the system's primary [[reflection|reflective]] mechanism — which is not accepted uncritically.
+4. **Improve.** Once the defense clears the [[reflection|reflection gate]], the student "unlocks" a concrete revision suggestion and a writing tip that build on the student's own reasoning.
 
 The internal pipeline performs argument parsing, feature detection, epistemic state classification, trigger prioritization (ranking the top 2–3 issues to avoid cognitive overload), and question module selection as hidden reasoning steps — only the final questions are surfaced to the student. This design foregrounds [[student-ai-interaction|student agency]] over automation, positioning Prober.ai closer to an [[intelligent-tutoring|intelligent tutoring]] experience than a text-generation tool.
 

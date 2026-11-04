@@ -43,7 +43,7 @@ ai_assist:
 
 The AI Engineering program combines a shared core, [[cs-education|programming]] and software foundations, [[ai-literacy]] and data skills, and agile development practices, with [[discipline-specific-aied]] such as AI Software Engineering, AI Mechanical Engineering and AI Material Engineering. The design intent is that AI is treated as a tool for engineering rather than only as a product being built, so students in each track use AI within their own domain's constraints.
 
-Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; project-based learning; agility and reflection; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
+Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; project-based learning; agility and [[reflection]]; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
 
 ## Seven sprints, and where the AI sits
 

@@ -37,7 +37,7 @@ confidence: high
 
 ## Interpretation
 
-- The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgment, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
+- The tools were most valuable as **[[reflection|reflective prompts]] that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgment, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
 - **Design implications:** adjustable tone parameters, [[discipline-specific-aied|discipline-specific]] templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
 - The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgment.
 

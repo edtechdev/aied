@@ -46,7 +46,7 @@ The three frameworks are sequenced for faculty use: one to understand the princi
 
 ## From detection to design
 
-The paper's through-line is a redirection of effort. If the artifact can no longer be trusted as evidence, the response is to design assessments that generate richer evidence of thinking — drafts, reflections, oral defenses, justifications, process documentation — rather than to police the artifact more aggressively.
+The paper's through-line is a redirection of effort. If the artifact can no longer be trusted as evidence, the response is to design assessments that generate richer evidence of thinking — drafts, [[reflection|reflections]], oral defenses, justifications, process documentation — rather than to police the artifact more aggressively.
 
 That is a defensible position, and it is also the harder one to implement, because process evidence costs faculty time and does not scale like a machine-graded exam. The paper acknowledges the workload and faculty-development implications and closes by naming them as the next research questions, which is where the framework's practical limits sit.
 

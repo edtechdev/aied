@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-11-04T09:55:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which [[generative-ai|generative AI]] integration becomes educationally productive rather than substitutive.
+> **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[reflection|metacognitive reflection]] — have emerged as the same conditions under which [[generative-ai|generative AI]] integration becomes educationally productive rather than substitutive.
 
 ## Questions to Consider
 

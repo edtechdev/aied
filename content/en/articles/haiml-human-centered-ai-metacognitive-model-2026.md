@@ -22,7 +22,7 @@ page_kind: [framework]
 1. **A gap in existing frameworks.** AI-literacy, technical-proficiency, responsible-use, and academic-integrity frameworks give little attention to how AI influences the learner's thinking and decision-making processes.
 2. **Three-layer model.** HAIML organizes learning around Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making, moving learners from direct engagement with AI to reflection on how AI shapes their thinking, and finally to informed, responsible decision-making.
 3. **Agency-preserving design.** The framework integrates concepts from human agency, self-regulated learning, metacognition, and automation-bias research to keep learners in control of AI-mediated cognition.
-4. **Practical scaffolding.** HAIML is paired with Four AI Use Levels — from no AI use to AI-integrated creation and evaluation — giving educators concrete guidance for aligning AI use with instructional goals while keeping [[metacognition|metacognitive reflection]] central at every level.
+4. **Practical scaffolding.** HAIML is paired with Four AI Use Levels — from no AI use to AI-integrated creation and evaluation — giving educators concrete guidance for aligning AI use with instructional goals while keeping [[reflection|metacognitive reflection]] central at every level.
 
 ## The Problem HAIML Was Designed to Solve
 
@@ -46,7 +46,7 @@ Research on [[self-regulated-learning]] (Zimmerman) explains why learners must a
 
 ## The Four AI Use Levels
 
-To make the framework actionable, HAIML is paired with Four AI Use Levels that align AI use with instructional goals: **Level 1** (No AI Use) for assessing independent knowledge and foundational skills; **Level 2** (AI for Brainstorming and Support) for idea generation where final work remains student-generated; **Level 3** (AI Collaboration) positioning AI as a collaborative partner; and **Level 4** (AI-Integrated Creation and Evaluation) for extensive use with emphasis on evaluating and revising AI outputs. Across all levels, [[metacognition|metacognitive reflection]] remains central, distinguishing HAIML from policies focused solely on disclosure or compliance.
+To make the framework actionable, HAIML is paired with Four AI Use Levels that align AI use with instructional goals: **Level 1** (No AI Use) for assessing independent knowledge and foundational skills; **Level 2** (AI for Brainstorming and Support) for idea generation where final work remains student-generated; **Level 3** (AI Collaboration) positioning AI as a collaborative partner; and **Level 4** (AI-Integrated Creation and Evaluation) for extensive use with emphasis on evaluating and revising AI outputs. Across all levels, [[reflection|metacognitive reflection]] remains central, distinguishing HAIML from policies focused solely on disclosure or compliance.
 
 ## Applications and Implications
 
@@ -59,7 +59,7 @@ The model's human-centered orientation connects to [[human-ai-collaboration]] an
 ## What this means for practice
 
 - **Instructors.** Assign an AI Use Level to each task before students start it — Level 1 (no AI) where you are assessing independent knowledge, Level 2 for brainstorming with final work still student-generated, Level 3 for AI as a collaborative partner, and Level 4 for extensive AI-integrated creation with the emphasis on evaluating and revising outputs.
-- **Instructors.** Treat [[metacognition|metacognitive reflection]] as a required, assessed layer of AI-supported work rather than an optional add-on: HAIML positions reflection between using AI and learning from it, and makes it the safeguard against cognitive dependence and automation bias.
+- **Instructors.** Treat [[reflection|metacognitive reflection]] as a required, assessed layer of AI-supported work rather than an optional add-on: HAIML positions reflection between using AI and learning from it, and makes it the safeguard against cognitive dependence and automation bias.
 - **Instructors.** Ask learners to report on AI's effect on their thinking — where AI expanded the reasoning, challenged an assumption, or reduced engagement — instead of grading only the artifact, and normalize that reflection as part of the process rather than as a compliance disclosure.
 - **Learners.** Record, for each AI interaction, which decisions were yours and how you [[trust-calibration|verified]] the output, so that authorship, bias, and accountability stay visible in your own record rather than in the tool's.
 - **Faculty developers.** Reframe AI workshops around this metacognitive and ethical layer instead of tool proficiency alone, since HAIML is pitched as the layer existing [[ai-literacy]] frameworks leave out.

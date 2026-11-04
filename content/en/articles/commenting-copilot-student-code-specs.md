@@ -19,7 +19,7 @@ Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] with
 
 ## Key Findings
 
-- Analyzing a four-year dataset of undergraduate programming submissions and reflections from tasks in which students wrote comments to guide code generation and refined solutions using test-case feedback, the study introduces a taxonomy spanning three dimensions: comment type, code expression level, and code construct.
+- Analyzing a four-year dataset of undergraduate programming submissions and [[reflection|reflections]] from tasks in which students wrote comments to guide code generation and refined solutions using test-case feedback, the study introduces a taxonomy spanning three dimensions: comment type, code expression level, and code construct.
 - Students mostly wrote natural-language What comments — describing intended behavior — while shifting toward How comments for more procedural constructs.
 - Students focused more on verifying generated code than on repeatedly rewriting their comments, indicating a verification-oriented workflow in AI-assisted programming.
 - Using automated classification, the study examined how the taxonomy dimensions varied across attempts and how students described the process in their reflections.

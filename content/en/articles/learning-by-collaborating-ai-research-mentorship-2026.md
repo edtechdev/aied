@@ -36,7 +36,7 @@ ai_assist:
 - **Mentoring runs in both directions.** Disciplinary experts need help adopting AI without losing expertise and [[agency]], while AI-native trainees need help becoming workflow developers who can frame questions and recognize wrong results.
 - **Four capacities anchor the [[curriculum-design|curriculum]].** Statistical thinking, data ethics, collaboration, and AI for social good and society organize the model rather than a tool-specific skill list.
 - **The pilot ran at scale across disciplines.** 20 faculty fellows and 15 student interns from 14 schools and departments developed 17 projects spanning law, health sciences, [[language-learning|language education]], social science and policy, business, psychology and [[stem-education|STEM education]].
-- **Recurring contact, not a single training event.** Across 105 weekly intern reflections in 15 program weeks, self-reported progress and discussion with the faculty lead dipped together in Week 8 and recovered, a descriptive association the author reads as support for steady touchpoints.
+- **Recurring contact, not a single training event.** Across 105 weekly intern [[reflection|reflections]] in 15 program weeks, self-reported progress and discussion with the faculty lead dipped together in Week 8 and recovered, a descriptive association the author reads as support for steady touchpoints.
 
 ## The Everyone's Backyard model
 

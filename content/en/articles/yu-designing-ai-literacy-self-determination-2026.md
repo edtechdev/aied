@@ -58,7 +58,7 @@ The fuzzy-set analysis asked which combinations of conditions were sufficient fo
 ## Limitations
 - Participants came from one university and all had prior experience with AIGC image tools, so findings may not extend to other institutions, disciplines, levels, or complete beginners.
 - The intervention was brief and outcomes were measured immediately after a single 20 to 25 minute activity, leaving persistence and transfer untested.
-- The open-ended task allowed more interpretive freedom while the rubric rewarded prompt complexity, iterative optimization, and ethical reflection, so higher scores there may partly reflect alignment between task affordances and the scoring criteria.
+- The open-ended task allowed more interpretive freedom while the rubric rewarded prompt complexity, iterative optimization, and ethical [[reflection]], so higher scores there may partly reflect alignment between task affordances and the scoring criteria.
 - The psychological needs were self-reported after completion, leaving reverse causality possible, and the configurational results depend on the chosen calibration anchors.
 
 ## Citation

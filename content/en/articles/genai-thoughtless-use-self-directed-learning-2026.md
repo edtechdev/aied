@@ -30,7 +30,7 @@ A [[quantitative-research|quantitative]] study grounded in Social Cognitive Theo
 
 ## What this means for practice
 
-- **Instructors.** Design assignments that pair AI-assisted exploration with independent analysis and reflection, since thoughtless generative AI use had a significant negative effect on [[self-directed-learning|self-directed learning]] (β = −0.42) and the model explained 75.3% of the variance in SDL.
+- **Instructors.** Design assignments that pair AI-assisted exploration with independent analysis and [[reflection]], since thoughtless generative AI use had a significant negative effect on [[self-directed-learning|self-directed learning]] (β = −0.42) and the model explained 75.3% of the variance in SDL.
 - **Instructors.** Require students to compare AI outputs against authoritative academic sources and explain their reasoning, targeting the [[self-efficacy]] path that thoughtless use erodes (β = −0.37) and that in turn feeds [[motivation]] (β = 0.78).
 - **Administrators.** Avoid one-size-fits-all AI guidance: because the multi-group analysis found the negative effect on motivation was stronger for male students while the effect on self-efficacy was stronger for female students, target motivation-oriented support and confidence-building support differently.
 - **Researchers.** Test interventions that rebuild learner [[agency]] and motivation rather than ban or uncritically encourage AI, since motivation was the strongest direct predictor of SDL (β = 0.68).

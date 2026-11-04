@@ -57,7 +57,7 @@ The paper spends real effort separating Evidence-Based Education (EBE) — clini
 - **Instructors.** An AI feedback layer that cites effect sizes is more useful than one that asserts conclusions — but the 5.9% rejection rate is the warning that normative framing breeds resistance, so the framing of the prompt is part of the pedagogy.
 - **Developers.** The privacy pattern is copyable: hash identifiers before logging, scrub PII at the middleware before any external API call, and cache expert-validated fallbacks with exponential backoff so rate limits never surface to the user.
 - **Developers.** Constrain generation with named evidence anchors (specific meta-analyses, specific theories) rather than generic "be accurate" instructions — the paper's fidelity numbers (96.8% alignment) are evidence that domain-constrained prompting works, within its acknowledged hallucination limits.
-- **Researchers.** The study is a pilot measuring perceptions; the open question it names is longitudinal — whether dialogic reflection transfers into classroom practice and student outcomes, which it did not measure.
+- **Researchers.** The study is a pilot measuring perceptions; the open question it names is longitudinal — whether dialogic [[reflection]] transfers into classroom practice and student outcomes, which it did not measure.
 
 ## Limitations
 - Convenience sample of 123 conference attendees self-selected toward evidence-based methodologies; the authors state the high satisfaction (M = 4.23/5) "cannot be directly generalized to the broader teacher population, where resistance to quantitative metrics and standardized pedagogical frameworks may be substantially higher."

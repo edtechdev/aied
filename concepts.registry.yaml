@@ -1602,6 +1602,24 @@ concepts:
     - preventing AI misuse
     - reduce ai misuse
     - reducing ai misuse
+  reflection:
+    title: Reflection
+    aliases:
+    - journaling
+    - learning journal
+    - learning journals
+    - reflection
+    - reflection quality
+    - reflective discourse
+    - reflective journal
+    - reflective journals
+    - reflective practice
+    - reflective prompts
+    - reflective writing
+    - reflections
+    - self-reflection
+    - written reflections
+
   refutation-text:
     title: Refutation Text
     aliases:
@@ -1744,7 +1762,6 @@ concepts:
     - self-reported
     - survey instrument
     - surveys
-    - written reflections
   simulating-students:
     title: Simulating Students
     aliases:
@@ -2197,6 +2214,7 @@ sections:
     - self-efficacy
     - self-directed-learning
     - metacognition
+    - reflection
     - desirable-difficulties
     - transfer-of-learning
     - prior-knowledge

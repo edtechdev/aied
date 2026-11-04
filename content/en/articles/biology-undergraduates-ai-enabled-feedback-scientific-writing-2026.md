@@ -74,7 +74,7 @@ Three conditions in the assignment and the course explain why some comments were
 - The analysis is [[qualitative-research|qualitative]] and interpretive, with no comparison group, no outcome measure of writing quality, and no quantification of how much each revision improved the drafts.
 - The instructor reviewed the AI-generated feedback but did not use follow-up prompts to refine it, so the study does not test whether iterative prompting would have produced feedback students acted on more fully.
 - The authors did not compare the time required to produce AI-enabled feedback with traditional feedback, so the efficiency argument rests on two cases rather than workload data.
-- The findings rest on students' revisions alone: no interviews or [[self-report-measures|written reflections]] captured students' perceptions of the AI-enabled feedback or their reasons for leaving comments unaddressed.
+- The findings rest on students' revisions alone: no interviews or [[reflection|written reflections]] captured students' perceptions of the AI-enabled feedback or their reasons for leaving comments unaddressed.
 
 ## Citation
 

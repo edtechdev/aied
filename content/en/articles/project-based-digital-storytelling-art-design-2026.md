@@ -40,7 +40,7 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 
 - The creative-thinking gain rests on a one-group pre-test/post-test design with 31 Animation students; the authors state it should not be read as causal evidence for the PBL-DS framework or for AI-supported tools.
 - The study covers a single institutional context—a 15-week capstone at one Chinese university with 426 final-year students and 92 projects—so transferability across disciplines and institutions remains untested.
-- AI-supported practice was inferred from representative project analysis rather than process data; no design logs, reflective journals, or AI interaction records were collected, so variation in how students actually interacted with AI was not captured.
+- AI-supported practice was inferred from representative project analysis rather than process data; no design logs, [[reflection|reflective journals]], or AI interaction records were collected, so variation in how students actually interacted with AI was not captured.
 
 ## Citation
 

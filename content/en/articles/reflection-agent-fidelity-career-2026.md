@@ -14,7 +14,7 @@ sources: ['raw/papers/reflection-agent-fidelity-career-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Nepal et al. (2026) audit a result rather than report one. A [[rct|randomized trial]] had found that emerging adults who reflected on their careers with a GPT-4o [[conversational-ai|conversational agent]] ended *less* committed to their plans and more doubtful than those who worked through the same program in a static journaling survey. The authors coded all 17,930 turns to find out why, and their central finding is about instruction design: every rule the agent followed was one that could be checked mechanically, such as a reply-length cap, while rules about *how to behave* — do not flatter, challenge gently — were broken without leaving a visible trace. The behavior tied to added doubt was the demand to decide, repeated when participants hesitated.
+> **Synthesis:** Nepal et al. (2026) audit a result rather than report one. A [[rct|randomized trial]] had found that emerging adults who reflected on their careers with a GPT-4o [[conversational-ai|conversational agent]] ended *less* committed to their plans and more doubtful than those who worked through the same program in a static [[reflection|journaling]] survey. The authors coded all 17,930 turns to find out why, and their central finding is about instruction design: every rule the agent followed was one that could be checked mechanically, such as a reply-length cap, while rules about *how to behave* — do not flatter, challenge gently — were broken without leaving a visible trace. The behavior tied to added doubt was the demand to decide, repeated when participants hesitated.
 
 ## Key Findings
 

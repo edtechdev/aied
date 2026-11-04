@@ -36,7 +36,7 @@ Institutional AI governance is modeled implicitly through **reflective assessmen
 
 Across the model results, a consistent pattern emerges: **responsible AI use does not increase smoothly with incentives, but arises through threshold-driven transitions.**
 
-1. **Reflection must be rewarded enough.** Embedding reflection as a meaningful, rewarded component of assessment can displace opportunistic AI use, but only once a critical reward level is reached. Below this threshold, opportunistic behavior remains dominant — reflecting strategic responses to assessment structures rather than a lack of [[ethics|ethical]] intent.
+1. **[[reflection]] must be rewarded enough.** Embedding reflection as a meaningful, rewarded component of assessment can displace opportunistic AI use, but only once a critical reward level is reached. Below this threshold, opportunistic behavior remains dominant — reflecting strategic responses to assessment structures rather than a lack of [[ethics|ethical]] intent.
 2. **Peer sensitivity drives cascade speed.** When students are highly responsive to peer practices, modest changes in assessment incentives can trigger rapid norm cascades; weak peer sensitivity leads to gradual, incomplete transitions. This explains why perceptions of peer behavior strongly influence the legitimacy of AI use.
 3. **Proportionality matters.** Responsible AI use emerges most robustly when the reward for reflection is proportionate to the effort required. When reflective tasks impose high cognitive or time demands without sufficient assessment value, opportunistic AI use persists even under generous incentives — a formal explanation for why well-intentioned but overly burdensome assessment interventions fail.
 

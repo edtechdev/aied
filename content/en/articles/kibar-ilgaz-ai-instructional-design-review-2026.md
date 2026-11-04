@@ -32,7 +32,7 @@ Across the reviewed studies, AI serves several distinct purposes in the ID proce
 
 - **Assisting with administrative and repetitive tasks** (18 studies, 64.2%) is the most significant benefit—automating grading, feedback generation, progress monitoring, and knowledge retrieval, and reallocating human effort to higher-level ID and pedagogical decision-making.
 - **Inspiration and idea generation** (11 studies, 39.3%): AI stimulates new instructional ideas, enhances [[creativity]], and supports engaging teaching approaches in early instructional planning.
-- **Facilitating teacher professional growth** (8 studies, 28.5%): AI supports reflective practice—feedback on instructional practices, prompt refinement, interpreting classroom observations, and self-evaluation of teaching effectiveness.
+- **Facilitating teacher professional growth** (8 studies, 28.5%): AI supports [[reflection|reflective practice]]—feedback on instructional practices, prompt refinement, interpreting classroom observations, and self-evaluation of teaching effectiveness.
 - **Data-driven decisions** (7 studies, 25%): AI analyzes learner data, evaluates instructional interventions, and generates improvement recommendations, enhancing analytical insight and decision quality.
 - **Academic language and communication development** (3 studies): AI supports grammatical precision, coherence, and structured linguistic feedback.
 

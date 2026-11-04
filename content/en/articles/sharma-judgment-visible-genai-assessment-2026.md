@@ -44,7 +44,7 @@ Pedagogically, detection models prioritize identifying inputs over evaluating ju
 
 Assessment becomes the primary site where integrity is enacted, because what a task treats as evidence teaches learners what responsibility means. The integrity artifacts are illustrative rather than evidentiary, developed in the author's professional teaching context and selected for representing the paper's theoretical commitments. As reflexive illustration, Appendix A reproduces a decision trail from the manuscript's own production: the author asked a GenAI tool to role-play an editor and propose revisions, then recorded accepted suggestions (clarifying the contribution beyond Eaton 2023, defining judgment early, distinguishing the examples from authentic assessment, shortening the title from 17 words) alongside rejected ones.
 
-Artifacts are explicitly not proofs. Requiring learners to document reasoning may privilege those more fluent in reflective discourse, risking "the replacement of one compliance regime with another"; artifacts need contextual interpretation, shared criteria, and professional calibration, since judgment as evidence of integrity "remains relational and situated rather than mechanically verifiable."
+Artifacts are explicitly not proofs. Requiring learners to document reasoning may privilege those more fluent in [[reflection|reflective discourse]], risking "the replacement of one compliance regime with another"; artifacts need contextual interpretation, shared criteria, and professional calibration, since judgment as evidence of integrity "remains relational and situated rather than mechanically verifiable."
 
 ## Equity, trust and institutional design
 

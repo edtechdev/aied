@@ -22,7 +22,7 @@ confidence: high
 - **Instructors.** Inject validated, runnable near-miss bugs into otherwise correct generated code so that students have something to verify; correct output alone removed the incentive to inspect it.
 - **Instructors.** Expect and name two different repair routes: injected bugs were more often repaired by direct code edits with higher next-attempt success, while natural prompt-related failures more often led students to refine the prompt by clarifying constraints, updating signatures, adding edge cases, or reframing the task.
 - **Designers.** Keep both failure sources in one workflow, with hidden tests and an editor, so students alternate between specification refinement and debugging rather than practicing only one.
-- **Instructors.** Ask students to reflect on what the repair demanded: their reflections described practice in code understanding, code review, and debugging along with a more careful verification mindset.
+- **Instructors.** Ask students to reflect on what the repair demanded: their [[reflection|reflections]] described practice in code understanding, code review, and debugging along with a more careful verification mindset.
 - **Instructors.** Pair bug injection with [[metacognition|metacognitive]] prompts about trust, because students' stated gains centered on awareness of [[generative-ai|GenAI]] limitations rather than on scores alone.
 
 ## Limitations

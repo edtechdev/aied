@@ -38,7 +38,7 @@ CogEvolution comprises three tightly coupled components: the **Cognitive Adapter
 
 ### Cognitive Adapter
 
-The adapter extracts [[multimodal]] features from interaction logs — cognitive-semantic features (via Sentence-BERT embeddings of reflections and explanations) and behavioral-operation features (interaction type, response latency). An attention-based hierarchical mapping projects these into a probability distribution over the four [[icap-framework|ICAP]] engagement levels, from which a weighted, continuous Cognitive Evolution Rate (with constructive engagement weighted higher, e.g., 1.5) is computed via a SoftPlus transform to allow smooth state transitions.
+The adapter extracts [[multimodal]] features from interaction logs — cognitive-semantic features (via Sentence-BERT embeddings of [[reflection|reflections]] and explanations) and behavioral-operation features (interaction type, response latency). An attention-based hierarchical mapping projects these into a probability distribution over the four [[icap-framework|ICAP]] engagement levels, from which a weighted, continuous Cognitive Evolution Rate (with constructive engagement weighted higher, e.g., 1.5) is computed via a SoftPlus transform to allow smooth state transitions.
 
 ### IRT-Driven Memory Retrieval
 

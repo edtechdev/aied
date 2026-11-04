@@ -45,7 +45,7 @@ This paper is an empirical example of error-driven, autonomy-supporting AI pedag
 
 ## Limitations
 
-- Fifty-eight university students at a single institution completed the task in English or Spanish; the evidence is learner–AI interaction transcripts plus open-ended reflections, with no control group or pre/post achievement measure reported, so effects on L2 proficiency are inferred rather than demonstrated.
+- Fifty-eight university students at a single institution completed the task in English or Spanish; the evidence is learner–AI interaction transcripts plus open-ended [[reflection|reflections]], with no control group or pre/post achievement measure reported, so effects on L2 proficiency are inferred rather than demonstrated.
 - Benefits were uneven within the sample — reduced cognitive load and better revision pathways held particularly for more proficient learners, so the design's value for A1-level learners is not established by the aggregate findings.
 - The activity used one model (ChatGPT) and two languages, and the authors caution that findings should not be assumed to generalize to languages with limited training data, non-Latin scripts, or complex morphology, calling for cross-lingual and cross-model research.
 

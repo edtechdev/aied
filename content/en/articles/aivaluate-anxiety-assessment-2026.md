@@ -25,7 +25,7 @@ AIvaluate is an emotionally intelligent, LLM-augmented pedagogical conversationa
 
 ## Study Design & Method
 
-A counterbalanced quasi-experimental within-subjects design had 35 IBDP pre-university students (G*Power: N ≥ 34) complete both a traditional face-to-face viva voce and an AIvaluate-mediated viva with the same teacher. Data came from three sources: (1) timestamped emotional-state slider logs (weighted-mean anxiety per session, compared with paired-sample t-tests), (2) post-assessment System Usability Scale (SUS) plus four bespoke experience items, and (3) open-response reflections analyzed with reflexive thematic analysis (Braun & Clarke). Notably, the study did not record or analyze formal performance scores — it measured emotional and usability outcomes only.
+A counterbalanced quasi-experimental within-subjects design had 35 IBDP pre-university students (G*Power: N ≥ 34) complete both a traditional face-to-face viva voce and an AIvaluate-mediated viva with the same teacher. Data came from three sources: (1) timestamped emotional-state slider logs (weighted-mean anxiety per session, compared with paired-sample t-tests), (2) post-assessment System Usability Scale (SUS) plus four bespoke experience items, and (3) open-response [[reflection|reflections]] analyzed with reflexive thematic analysis (Braun & Clarke). Notably, the study did not record or analyze formal performance scores — it measured emotional and usability outcomes only.
 
 ## Reduced Anxiety as an Affective Outcome
 

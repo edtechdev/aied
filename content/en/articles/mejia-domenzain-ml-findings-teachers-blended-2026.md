@@ -39,7 +39,7 @@ methods: [mixed-methods-research]
 - Study 1 surveyed 100 teachers recruited through Prolific against one hypothetical flipped-classroom scenario rather than their own course data; the sample had a median age of 37 and 68% came from Europe.
 - Study 2 rests on semi-structured interviews with 19 teachers — ten university professors and nine vocational teachers — using a think-aloud protocol on a prototype; the dashboard was never deployed in a live course.
 - Trust and adoption were measured by self-report: a 5-point Likert trust questionnaire plus interview accounts, so reported intentions (for example, 77% of vocational teachers proposing individual coaching sessions) are not evidence of classroom use or student benefit.
-- The two contexts are narrow: one 13-week university mathematics course with log data from 201 students, and reflective journals from 246 nurse apprentices, of which a single classroom of 19 apprentices was visualized.
+- The two contexts are narrow: one 13-week university mathematics course with log data from 201 students, and [[reflection|reflective journals]] from 246 nurse apprentices, of which a single classroom of 19 apprentices was visualized.
 
 ## Citation
 

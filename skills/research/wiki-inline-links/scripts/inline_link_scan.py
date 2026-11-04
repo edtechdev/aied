@@ -342,6 +342,11 @@ AUTO_APPLY_DENYLIST = {
     'trustworthiness', 'technologies', 'humanities', 'multilingual', 'sustainability',
     'visual representations', 'design-based', 'item generation', 'question generation',
     'ethical', 'scratch',
+    # 2026-11-04: the bare noun is generic ("a reflection of the school's policy",
+    # "on reflection") and the reflection concept page is new, so only the
+    # multi-word aliases auto-apply. Bare 'reflection' stays report-only for a
+    # human judgement pass.
+    'reflection', 'reflections',
 }
 
 # (matched phrase, target slug) pairs that are semantically WRONG: never link them,

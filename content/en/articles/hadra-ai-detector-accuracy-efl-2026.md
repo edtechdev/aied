@@ -43,7 +43,7 @@ Their reading of the length and genre effects reinforces the point. Detection me
 ## What this means for practice
 
 - **Educators.** Integrate explicit instruction on [[ai-literacy|responsible AI use]], rather than leaning on detection to police authorship.
-- **Educators.** Redesign assessment to focus on process, reflection and transparency rather than final product alone.
+- **Educators.** Redesign assessment to focus on process, [[reflection]] and transparency rather than final product alone.
 - **Educators.** Train [[teacher-role|faculty]] to interpret detector output cautiously and in context, treating a flag as evidence that something deserves a closer look, not a verdict.
 - **Administrators.** Develop policies that distinguish acceptable AI assistance from deceptive practice.
 - **Administrators.** Treat excessive reliance on detectors as an [[assessment-validity|assessment validity]] problem rather than only an [[equity-in-ai-education|equity]] one: for institutions serving linguistically diverse students it reproduces linguistic disadvantage and makes authorship verification accuracy unequal across student groups, while over-policing damages [[trust]] and ignoring [[generative-ai|GenAI]] misuse compromises the validity of assessment — so prefer human judgment, clearer policy and better-specified tasks to either surveillance or inaction.

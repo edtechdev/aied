@@ -31,7 +31,7 @@ The study was a randomized A/B crossover experiment (N = 220) conducted in a jun
 
 - **Students.** Treat evaluating AI-generated solutions as practice in verification and diagnosis, not as a replacement for constructing solutions: across the six-assignment crossover, midterm, final, and course-grade outcomes did not differ between conditions.
 - **Students.** Grade each AI solution against explicit criteria — algorithm correctness, recurrence validity, missing invariants, flawed proof steps — and write down why the faulty step fails, since homework scores rose only during the evaluation weeks.
-- **Students.** Add reflection that pushes past spotting the error to rebuilding a correct solution; the authors say meaningful conceptual gains require scaffolding beyond simple error diagnosis.
+- **Students.** Add [[reflection]] that pushes past spotting the error to rebuilding a correct solution; the authors say meaningful conceptual gains require scaffolding beyond simple error diagnosis.
 - **Students.** Track your own study habits honestly: the survey found most students did not change how they prepared, while those who did rated the evaluation assignments significantly more helpful.
 - **Students.** Do not assume a homework advantage carries into exams; the exam item aligned with the intervention showed a floor effect with a median of 0 in both groups.
 

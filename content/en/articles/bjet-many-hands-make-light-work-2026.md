@@ -49,7 +49,7 @@ Lag sequential analysis and epistemic network analysis read the divergence as tw
 ## What this means for practice
 
 - **Instructors.** Align the human–AI configuration with the goal: use collaborative multi-agent interaction for complex sense-making and design tasks, and individual multi-agent interaction when critical thinking awareness or [[self-regulated-learning|self-regulation]] is the target, since only the individual group gained there.
-- **Instructional designers.** When learners collaborate with peers and agents at once, build in explicit reflection or critical-thinking [[scaffolding|scaffolds]] to offset the reduced individual [[metacognition|metacognitive]] monitoring the authors observed, and structure participation so both partners contribute.
+- **Instructional designers.** When learners collaborate with peers and agents at once, build in explicit [[reflection]] or critical-thinking [[scaffolding|scaffolds]] to offset the reduced individual [[metacognition|metacognitive]] monitoring the authors observed, and structure participation so both partners contribute.
 - **Program leaders and administrators.** Read the split honestly: the paired AI condition won on the design product but not on the knowledge test, so treat a project-score gain as evidence about one outcome, not about learning overall.
 - **Researchers.** The explanatory mechanisms — cognitive load and diffusion of responsibility — are the authors' post hoc interpretations and were not tested; the paper itself calls for fully crossed or randomized designs to separate AI support from collaboration structure.
 

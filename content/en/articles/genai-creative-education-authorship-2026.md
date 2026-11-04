@@ -56,7 +56,7 @@ That reframes the practical problem. If the worry is legibility rather than hone
 ## What this means for practice
 
 - **Instructors.** Assess the creative process alongside the artifact. The study's authorship result says an evaluator cannot infer a student's decisions from an AI-shaped final piece, so require the process trail — prompts, iterations, rejected options and a short justification — as part of the submission.
-- **Curriculum designers.** Treat AI use as a skill to be internalized rather than a tool to be permitted or banned. Internalization was the process variable that tracked development outcomes, so design reflection and justification steps into the assignment rather than leaving AI use unexamined.
+- **Curriculum designers.** Treat AI use as a skill to be internalized rather than a tool to be permitted or banned. Internalization was the process variable that tracked development outcomes, so design [[reflection]] and justification steps into the assignment rather than leaving AI use unexamined.
 - **Program leads and administrators.** Be skeptical of perceived-support gains as evidence of learning. Students in this course felt more supported and reported more skill transfer without a matching rise in evaluated performance, so any AI initiative should report an artifact-level outcome next to the satisfaction measure.
 - **Researchers.** Replicate the assistive-versus-content-generative split before generalizing. One art course with 133 students cannot tell whether the authorship effect is a property of creative disciplines, of this [[assessment|assessment design]], or of the particular cohort.
 

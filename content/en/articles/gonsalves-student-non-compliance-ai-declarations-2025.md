@@ -38,7 +38,7 @@ institutions: [educational-policy-ai]
 ## Limitations
 
 - Single case study at King's Business School: the survey yielded 57 valid responses, 3.7% of the population, and the authors note that the institution's unique cultural and policy environment limits the applicability of these findings.
-- Seventeen semi-structured interviews (56 minutes to 1 hour 43 minutes, £30 per participant) were conducted and analyzed by the sole researcher, whose reflexivity procedures — repeated readings and reflective journaling — stand in for independent coding.
+- Seventeen semi-structured interviews (56 minutes to 1 hour 43 minutes, £30 per participant) were conducted and analyzed by the sole researcher, whose reflexivity procedures — repeated readings and reflective [[reflection|journaling]] — stand in for independent coding.
 - The survey instrument was a service evaluation rather than a purpose-built research measure, and the authors caution that the study captures only the early phase of AI policy implementation.
 - The analysis stops at one school and one framework: the authors state that expanding TPB or integrating other theoretical perspectives is needed to capture GenAI's ethical ambiguity, so the attitude–behavior links reported here are not transferable as policy effects.
 

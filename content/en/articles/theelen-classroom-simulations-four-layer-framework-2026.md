@@ -42,7 +42,7 @@ verified: [citation, numbers, links]
 
 ## Why the technology labels fail
 
-Hybrid design already separates modality from agency: a virtual environment may preserve direct human interaction, a digitally represented character may be run by a human operator, and video supports learning only when it is folded into facilitated reflection. [[generative-ai]] sharpens the problem, because large language models and multi-agent systems can generate open dialogue, hold character profiles, and coordinate several simulated actors at once, none of which a non-immersive versus immersive distinction describes.
+Hybrid design already separates modality from agency: a virtual environment may preserve direct human interaction, a digitally represented character may be run by a human operator, and video supports learning only when it is folded into facilitated [[reflection]]. [[generative-ai]] sharpens the problem, because large language models and multi-agent systems can generate open dialogue, hold character profiles, and coordinate several simulated actors at once, none of which a non-immersive versus immersive distinction describes.
 
 The framework is positioned against four traditions: fidelity frameworks, which explain validity but say little about pedagogy; practice-based teacher education, which identifies what to rehearse but under-specifies architecture; AI simulation frameworks, which explain responsiveness but treat debriefing as background; and debriefing frameworks, which explain how experience becomes learning but treat design as background. The claimed contribution is integration rather than new constructs. Each layer has been discussed before, and what is new is treating them as one mutually constraining system.
 

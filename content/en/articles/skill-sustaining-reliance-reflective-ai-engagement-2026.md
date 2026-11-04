@@ -53,7 +53,7 @@ Scaffolding is meant to keep users engaged, but the prompts can become the sourc
 
 ## What this means for practice
 
-- **Designers.** Treat reflective prompts as a fading skill-building intervention, not a permanent fixture, and test whether users reflect without the prompt.
+- **Designers.** Treat [[reflection|reflective prompts]] as a fading skill-building intervention, not a permanent fixture, and test whether users reflect without the prompt.
 - **Instructors and trainers.** Assess unaided reasoning alongside AI-supported work, so learners who perform well with assistance are not mistaken for those who retained it.
 - **Administrators.** Price reflection into throughput targets rather than leaving it as unpaid extra effort; where only speed is measured, it will be abandoned.
 - **Researchers.** Use longitudinal designs that measure skill rather than reliance, tracking whether independent reasoning holds up over repeated interactions, not just post-exposure accuracy and [[trust-calibration]].

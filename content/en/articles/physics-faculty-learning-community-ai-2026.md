@@ -56,7 +56,7 @@ Faculty raised assessment concerns in almost every session, and the fifth addres
 ## Limitations
 - The report covers one physics department at a large public R1 institution, with nineteen participants across the series and about ten at any meeting.
 - The authors present no validated [[curriculum-design|curriculum]] and make no claims about changes in student learning, framing the series as one instantiation rather than a model to replicate.
-- The end-of-series evidence is a [[self-report-measures|self-report]] reflection survey; faculty most valued the collective discussion, while few reported concrete changes to teaching or policy.
+- The end-of-series evidence is a [[self-report-measures|self-report]] [[reflection]] survey; faculty most valued the collective discussion, while few reported concrete changes to teaching or policy.
 - [[ethics|Ethics of AI]] use and AI in the instructional laboratories were identified in the final session as areas the series had not yet addressed.
 
 ## Citation

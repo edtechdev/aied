@@ -50,7 +50,7 @@ The paper reports a University-wide teaching-and-learning pilot at a large Austr
 
 ## Methodological Notes
 
-Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 students) with authentic writing tasks and co-design with an edtech partner. Limitations acknowledged by the authors: the paper is a concise pilot report presenting preliminary insights and reflections rather than full evaluation; further detailed evaluation is required to refine the tool and the [[learning-design|learning design]] surrounding AI for teaching and learning.
+Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 students) with authentic writing tasks and co-design with an edtech partner. Limitations acknowledged by the authors: the paper is a concise pilot report presenting preliminary insights and [[reflection|reflections]] rather than full evaluation; further detailed evaluation is required to refine the tool and the [[learning-design|learning design]] surrounding AI for teaching and learning.
 
 ## What this means for practice
 

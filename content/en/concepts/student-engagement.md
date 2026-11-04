@@ -155,6 +155,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[self-report-measures]]
 - [[productive-failure]]
+- [[reflection]]
 
 ## Connected Articles
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)

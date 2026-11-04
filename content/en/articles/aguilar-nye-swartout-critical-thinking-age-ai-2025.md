@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Aguilar, Nye, Swartout and colleagues (2025) report three studies from the USC Center for Generative AI and Society on how students and teachers are adapting to [[generative-ai|generative AI]]. A national survey of over 1,000 U.S. college students separates instrumental [[help-seeking]] (using AI to understand a topic) from executive help-seeking (using AI to get quick answers). A pilot of ABE, an [[llm|LLM]]-based writing coach built from [[scaffolding|scaffolded]] reflection activities, found high [[technology-acceptance-model|technology acceptance]] and reported gains in [[metacognition|metacognitive]] reflection. A survey of 1,505 in-service teachers in five countries finds [[ai-literacy|awareness]] outpacing confident classroom adoption.
+> **Synthesis:** Aguilar, Nye, Swartout and colleagues (2025) report three studies from the USC Center for Generative AI and Society on how students and teachers are adapting to [[generative-ai|generative AI]]. A national survey of over 1,000 U.S. college students separates instrumental [[help-seeking]] (using AI to understand a topic) from executive help-seeking (using AI to get quick answers). A pilot of ABE, an [[llm|LLM]]-based writing coach built from [[scaffolding|scaffolded]] [[reflection]] activities, found high [[technology-acceptance-model|technology acceptance]] and reported gains in [[metacognition|metacognitive]] reflection. A survey of 1,505 in-service teachers in five countries finds [[ai-literacy|awareness]] outpacing confident classroom adoption.
 
 ## Key Findings
 

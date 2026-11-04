@@ -45,7 +45,7 @@ That explains the grain-size gap. Asking for "food" or "sports" is a safe, fast 
 
 ## What the time numbers mean
 
-Four minutes per problem is the study's most quotable figure and also the most conditional one. It was produced by teachers in a research setting, observed while prompting, after specific training and reflection sessions, with 7 participants whose averages ranged from 2.0 to 5.5 minutes. The authors treat the estimate as descriptive and note that an efficiency claim cannot be settled without a comparison — no baseline of how long the same teachers took to personalize problems without AI appears in the design.
+Four minutes per problem is the study's most quotable figure and also the most conditional one. It was produced by teachers in a research setting, observed while prompting, after specific training and [[reflection]] sessions, with 7 participants whose averages ranged from 2.0 to 5.5 minutes. The authors treat the estimate as descriptive and note that an efficiency claim cannot be settled without a comparison — no baseline of how long the same teachers took to personalize problems without AI appears in the design.
 
 The prompt-count analysis is exploratory in the same way: ratings rose to a visual peak around three to five prompts and fell beyond that, with no inferential test, which the authors present as hypothesis-generating rather than as an optimum.
 

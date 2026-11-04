@@ -54,7 +54,7 @@ Multigroup analysis found that gender, prior experience and study level altered 
 
 ## What this means for practice
 
-- **Instructors.** Move beyond blanket bans and design guided tasks — having students critique AI-generated outlines or co-create rubrics that reward reflective use — to support agentic engagement, and use structured questioning, verification and reflection rather than assuming that generative AI raises engagement.
+- **Instructors.** Move beyond blanket bans and design guided tasks — having students critique AI-generated outlines or co-create rubrics that reward reflective use — to support agentic engagement, and use structured questioning, verification and [[reflection]] rather than assuming that generative AI raises engagement.
 - **Faculty developers and program leaders.** Because facilitating conditions predicted both intention and use, early-semester prompt-engineering workshops, [[discipline-specific-aied|subject-specific]] prompt libraries and premium tool access may help low-experience students move from intent to sustained use.
 - **Administrators.** Embed generative AI and [[ai-literacy]] support into orientation and academic skills programs for MEIS, and consider device-lending schemes and subsidized account access to close the individual resource gaps that hold some students back.
 - **Policymakers.** Encourage institutions to report generative AI access and engagement data disaggregated by ethnicity and international student status, and consider adding digital access to equity frameworks so resource allocation reflects the technological and cultural adjustment challenges some MEIS face.

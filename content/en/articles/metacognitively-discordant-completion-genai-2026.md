@@ -59,7 +59,7 @@ The border case is a sibling construct. The Absent Cognitive Baseline names the 
 
 ## Limitations
 
-- The work is conceptual and reports no data: the author states the construct's status is conceptual and assigns every empirical question to a planned [[qualitative-research|interpretative phenomenological study]] using interviews and reflective journals with the GenAI-concurrent cohort.
+- The work is conceptual and reports no data: the author states the construct's status is conceptual and assigns every empirical question to a planned [[qualitative-research|interpretative phenomenological study]] using interviews and [[reflection|reflective journals]] with the GenAI-concurrent cohort.
 - Graphicacy and mathematics are the expected empirical domains, not boundaries of the construct, so nothing yet shows that the state arises under the same conditions in other subjects.
 - The lower edge of the awareness gradient is undecided — where a faint unease ends and a codable recognition begins is one of four evidence debts the paper explicitly leaves to future coding, alongside whether deferred completions ever convert into understanding.
 - The justification layer is excluded by design and developed elsewhere, so the paper deliberately does not account for how reasons are assembled around the state and declines to prescribe any assessment redesign until the assigned evidence arrives.

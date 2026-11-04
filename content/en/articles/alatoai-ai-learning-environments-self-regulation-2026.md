@@ -50,7 +50,7 @@ The regression model was significant (F[4, 55] = 31.74, p < 0.001) and explained
 
 ## The network view of self-regulation
 
-Exploratory graph analysis modeled dimensions as nodes in a Gaussian graphical model estimated through the graphical LASSO, with communities detected by Walktrap. Edge weights ranged from approximately 0.40 to 0.64, and no weak or negative associations were retained. The strongest links joined growth mindset endorsement and metacognitive planning (r = 0.64), CTA and ASRL (r = 0.63), ASRL and motivational resilience (r = 0.61), and motivational resilience and self-monitoring and reflection (r = 0.60). [[network-analysis|Network analysis]] serves here as a structural check rather than causal evidence: the dense, positive pattern supports convergent validity and shows that the two instruments capture related but non-redundant aspects of learning with AI.
+Exploratory graph analysis modeled dimensions as nodes in a Gaussian graphical model estimated through the graphical LASSO, with communities detected by Walktrap. Edge weights ranged from approximately 0.40 to 0.64, and no weak or negative associations were retained. The strongest links joined growth mindset endorsement and metacognitive planning (r = 0.64), CTA and ASRL (r = 0.63), ASRL and motivational resilience (r = 0.61), and motivational resilience and self-monitoring and [[reflection]] (r = 0.60). [[network-analysis|Network analysis]] serves here as a structural check rather than causal evidence: the dense, positive pattern supports convergent validity and shows that the two instruments capture related but non-redundant aspects of learning with AI.
 
 ## What this means for practice
 

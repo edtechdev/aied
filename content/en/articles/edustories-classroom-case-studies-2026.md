@@ -35,7 +35,7 @@ The paper is careful about the distance between predicting an outcome and helpin
 ## What this means for practice
 
 - **Teachers.** Write up your classroom interventions in the dataset's five-part structure — situation narrative, student background, the problem, the intervention you applied, and the perceived outcome — so your own cases become comparable practice rather than anecdote.
-- **Teacher educators.** Require short- versus long-term outcome to be labeled in collective reflection sessions, because that is the distinction human experts agree on 82.56% of the time (κ = 0.7356) and the one models fail worst, identifying long-term success only 49.88% of the time against 71.97% for human experts.
+- **Teacher educators.** Require short- versus long-term outcome to be labeled in collective [[reflection]] sessions, because that is the distinction human experts agree on 82.56% of the time (κ = 0.7356) and the one models fail worst, identifying long-term success only 49.88% of the time against 71.97% for human experts.
 - **Administrators.** Do not deploy a language model to decide whether an intervention worked: the best evaluated model (Qwen-3-30B, 0.580) only reaches the lower bound of expert accuracy (0.573–0.587), and 5 of 6 models fall below it.
 - **Researchers.** Build and test teacher-facing feedback interfaces — free-form rationales or conversational systems — instead of more single-label outcome prediction, which the authors treat as a prerequisite capability rather than the assistive product.
 

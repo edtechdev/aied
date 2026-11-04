@@ -25,7 +25,7 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Faculty developers.** Build GenAI literacy training around the study's four design principles: critical reflection on teachers' roles and ethics, active and experiential learning, scaffolding of [[self-regulated-learning|self-regulated learning]], and authentic formative assessment.
+- **Faculty developers.** Build GenAI literacy training around the study's four design principles: critical [[reflection]] on teachers' roles and ethics, active and experiential learning, scaffolding of [[self-regulated-learning|self-regulated learning]], and authentic formative assessment.
 - **Faculty developers.** Pair self-efficacy scales with artifact-based rubrics rather than relying on self-report. The 29 teacher education students reported moderate to high AI pedagogy and assessment competence, yet their TPACK-rubric lesson plans scored lowest on creative GenAI application (M = 1.64 for TPK6 and TPCK7).
 - **Instructors.** Assign discipline-specific, authentic tasks — lesson design, assessment planning, material creation — so students practice critical evaluation of GenAI outputs where they will use them; given hands-on time, the cohort explored an average of 2.67 tools.
 - **Instructors.** Scaffold self-regulation deliberately with metacognitive checklists, guided prompting strategies, and output-evaluation rubrics to counter over-reliance, and model those practices yourself.

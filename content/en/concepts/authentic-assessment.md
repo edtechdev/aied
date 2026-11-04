@@ -115,6 +115,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[feedback]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[arts-design-and-media-education]]
+- [[reflection]]
 
 ## Connected Articles
 - [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate

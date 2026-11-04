@@ -33,7 +33,7 @@ reviewed_by: [editor]
 2. **It drafts six assessment components from a course guide using more than 260 lines of built-in prompts:** Assessment Overview, Assessment Task, Assessment Criteria, Timeline of Activities, Submission Instructions, and Rubrics.
 3. **[[hallucination-risk|Hallucination]] was the hardest failure.** A [[chemistry-education|chemistry]] coordinator's output contained "inaccurate or hallucinated references," and both those references and unrealistic time estimates persisted through multiple iterations, requiring substantial academic revision.
 4. **Disciplinary rigor and context were the recurring gap.** Coordinators reported generic or irrelevant content, ignored topic sequencing — one generated task asked about [[ethics]] before the topic was taught — and a rubric missing for a presentation component.
-5. **The tool modeled practice well enough to build assessment literacy.** Its rubrics, authentic contexts, and structured timelines prompted reflection on design choices, which the authors map onto cognitive [[sociocultural-learning|apprenticeship]]: modeling, coaching, scaffolding, articulation, reflection, and exploration.
+5. **The tool modeled practice well enough to build assessment literacy.** Its rubrics, authentic contexts, and structured timelines prompted [[reflection]] on design choices, which the authors map onto cognitive [[sociocultural-learning|apprenticeship]]: modeling, coaching, scaffolding, articulation, reflection, and exploration.
 6. **Academic time, not capability, is the adoption risk.** Several coordinators said the precise prompting and revision the tool needs could cost more time than developing the assessment directly.
 
 ## Where Authentifire added value

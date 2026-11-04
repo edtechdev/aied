@@ -33,7 +33,7 @@ reviewed_by: [editor]
 
 ## What the study is, and how it was done
 
-This is reflective inquiry, not an empirical study: a focused review of policy and scholarly literature combined with [[metacognition|reflection-on-action]] over a completed teaching cycle, grounded in Dewey and Schön via Greenberger's account of reflective practice. The setting is a specialized master's program in legal education in Estonia; from 2023–25 the author used [[generative-ai|GenAI]] tools for course design, assignments and assessment, and from 2024–25 made the human rights implications of AI an explicit curriculum component. The paper presents itself as practitioner-informed scholarship in a thin field and states plainly that its insights come from one educator in one program.
+This is reflective inquiry, not an empirical study: a focused review of policy and scholarly literature combined with [[reflection|reflection-on-action]] over a completed teaching cycle, grounded in Dewey and Schön via Greenberger's account of reflective practice. The setting is a specialized master's program in legal education in Estonia; from 2023–25 the author used [[generative-ai|GenAI]] tools for course design, assignments and assessment, and from 2024–25 made the human rights implications of AI an explicit curriculum component. The paper presents itself as practitioner-informed scholarship in a thin field and states plainly that its insights come from one educator in one program.
 
 ## About, through, for: how each dimension behaves under AI
 

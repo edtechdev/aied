@@ -30,7 +30,7 @@ page_kind: [evaluation]
 - **Instructional designers.** Design AI literacy courses around authentic PBL projects — collaboration, hands-on artifact creation, real-world problem contexts — over isolated AI tasks, allocating roughly 4–6 weeks per project cycle so students can define problems, revise ideas, and reflect on outcomes.
 - **Instructional designers.** Prioritize student empowerment over pure technical skill by giving learners meaningful choices, encouraging comparison of alternative AI tools or outputs, and asking them to justify how and why AI is used at each project stage.
 - **Instructional designers.** Build empowerment in AI problem-solving as a measured course objective rather than an assumed by-product: it carried an indirect effect on course satisfaction of β = 0.393 against β = 0.029 for ethical awareness, and it predicted ethical awareness itself (β = 0.668).
-- **Educators.** Embed ethical awareness throughout the project process rather than as a separate topic — for example, using prompts such as "What bias may exist in this AI output?" or "Who might be disadvantaged?" in proposals, peer discussions, reflection journals, and final presentations.
+- **Educators.** Embed ethical awareness throughout the project process rather than as a separate topic — for example, using prompts such as "What bias may exist in this AI output?" or "Who might be disadvantaged?" in proposals, peer discussions, [[reflection]] journals, and final presentations.
 - **Administrators.** Promote guidelines for responsible and equitable AI use and invest in professional development for teachers implementing PBL-based AI instruction.
 
 ## Limitations

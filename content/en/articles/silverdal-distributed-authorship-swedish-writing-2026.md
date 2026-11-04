@@ -50,7 +50,7 @@ Authorship, meanwhile, emerges as distributed across students, model, interface,
 
 - **Instructors.** Do not infer a student's writing ability from whether they used AI. The weakest-looking event here still contained task interpretation, negotiation and genre direction, and the same lesson produced a critically engaged co-writer.
 - **Instructors.** Teach the interrogation of output explicitly, because the students who most need it are the least likely to do it unprompted. Leaving guidance implicit rewards prior writing strength.
-- **Instructors.** Make the assignment's constraints do pedagogical work. Here the word count and genre became relations the student manipulated — visible handles for a teacher to attach reflection to.
+- **Instructors.** Make the assignment's constraints do pedagogical work. Here the word count and genre became relations the student manipulated — visible handles for a teacher to attach [[reflection]] to.
 - **Researchers.** Treat pauses, reformulations and hesitation as data rather than noise. Most of what distinguished the assemblages was in the moments between prompts, which a chat log alone would not record.
 
 ## Limitations

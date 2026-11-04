@@ -52,7 +52,7 @@ The **positive affective pathway** (students felt more encouraged) was **complet
 This study challenges the prevailing intuition that more scaffolded, autonomy-supportive feedback is always better. Key takeaways for AI feedback system design:
 
 1. **Engagement ≠ learning**: User satisfaction and behavioral engagement are not reliable proxies for learning gains — designers must measure learning outcomes directly
-2. **Limit resubmission loops**: Systems should cap hint requests or require reflection between attempts to prevent trial-and-error gaming
+2. **Limit resubmission loops**: Systems should cap hint requests or require [[reflection]] between attempts to prevent trial-and-error gaming
 3. **Strategic blending**: Consider providing direct corrective feedback first, with optional encouragement and hints available on demand rather than as a mandatory sequence
 4. **[[cognitive-offloading|Cognitive load]] management**: The higher mental effort induced by sequenced feedback did not aid learning — design should channel effort toward understanding rather than navigation
 

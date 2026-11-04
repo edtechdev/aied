@@ -64,7 +64,7 @@ The argument is ultimately one of social investment. Successful GenAI integratio
 
 ## Limitations
 
-- The framework is propositional rather than empirically tested, developed through a single practitioner's member-checked reflective journals in one Irish Youthreach setting.
+- The framework is propositional rather than empirically tested, developed through a single practitioner's member-checked [[reflection|reflective journals]] in one Irish Youthreach setting.
 - No formal institutional ethics committee or IRB was in place at the time of the study; oversight rested on management approval, informed consent, self-chosen pseudonyms, and retrospective member checking.
 - Several supporting arguments rest on unresolved evidence: the legal cases discussed (including Kato v. Palo Alto Unified School District) were ongoing at the time of writing, and the Norway and Denmark policy positions were still being implemented and evaluated.
 - The high relational intensity of the model may be difficult to sustain in larger classrooms without additional staffing or revised scheduling, and transferability to other FET contexts, jurisdictions, and educator populations remains untested.

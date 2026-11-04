@@ -51,7 +51,7 @@ The editors distill five recurring tensions from the special issue:
 
 ## What this means for practice
 
-- **Instructors.** Design assessment sequences in which GenAI and human input are deliberately sequenced — drafting, GenAI-supported reflection, and revision cycles that require students to interpret and decide rather than simply accept generated output.
+- **Instructors.** Design assessment sequences in which GenAI and human input are deliberately sequenced — drafting, GenAI-supported [[reflection]], and revision cycles that require students to interpret and decide rather than simply accept generated output.
 - **Instructors.** Teach students to orchestrate feedback across human, GenAI, and artifactual sources that differ in credibility, and to extend [[feedback-literacy|feedback literacy]] with evaluative judgment, metacognitive monitoring, and [[ethics|ethical]] decision-making about when GenAI use substitutes for their own work.
 - **Faculty developers.** Build professional development around the design, relational, and pragmatic dimensions of teacher feedback literacy, which this editorial finds remain less well theorized in GenAI contexts than student feedback literacy.
 - **Administrators.** Supply clear institutional direction on what GenAI support is acceptable, rather than leaving ambiguous policy to migrate downward and individualize the challenge for individual teachers.

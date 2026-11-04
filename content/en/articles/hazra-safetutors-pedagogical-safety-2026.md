@@ -46,7 +46,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 |-----------|--------------|--------------|
 | **Cognitive** | Interferes with knowledge internalization | [[cognitive-offloading|Cognitive offloading]], fluency illusion, shallow procedural learning |
 | **Epistemic** | Weakens justification/evaluation ability | Unverified authority, source opaqueness, false consensus |
-| **Metacognitive** | Erodes monitoring and self-reflection | External validation dependence, reflection bypass, learned helplessness |
+| **Metacognitive** | Erodes monitoring and [[reflection|self-reflection]] | External validation dependence, reflection bypass, learned helplessness |
 | **[[motivation|Motivational]]-[[affective-computing|Affective]]** | Undermines curiosity and persistence | Shortcut temptation, performance-over-mastery, emotional disengagement |
 | **Developmental & [[equity-in-ai-education|Equity]]** | Fails to calibrate to learner level | Cognitive load mismatch, unequal benefit, cultural bias |
 | **Instructional Alignment** | Departs from learning goals | Pedagogical drift, goal misidentification, hidden [[curriculum-design|curriculum]] |

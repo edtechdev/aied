@@ -55,7 +55,7 @@ The grade analysis is where the headline claim weakens. Top and middle tier stud
 
 ## What this means for practice
 
-- **Instructors.** Give students feedback on their actual AI use patterns rather than banning the tools; the authors' recommendation is to make delegation visible and [[metacognition|reflective]], not to prohibit it.
+- **Instructors.** Give students feedback on their actual AI use patterns rather than banning the tools; the authors' recommendation is to make delegation visible and [[reflection|reflective]], not to prohibit it.
 - **Instructors.** Design [[assessment|assessments]] that make process visible - for example asking students to articulate their own thinking before consulting AI to protect [[self-regulated-learning|self-regulation]] and higher-order thinking - because the logs capture what students asked, not what they reasoned.
 - **Learning analytics designers.** Build real-time feedback on chat logs that prompts students to name what they are delegating, and target it where heavy offloading clusters: 16 of the 20 heavy-offloading dialogues (80%) were Create requests.
 - **Learning analytics designers.** Score [[cognitive-offloading|offloading]] with the paper's rubric (no, light, heavy, judged by who produces the first draft and the core argument) alongside Bloom level, since Apply dialogues split across all three offloading categories and the two dimensions are not interchangeable.

@@ -40,7 +40,7 @@ methods: [meta-analysis-systematic-review]
 - **Instructors.** Design AI-supported activities that mediate disciplinary boundaries rather than substitute for human thinking, keeping AI in the assistant role it played in 43 of the 59 reviewed studies and promoting interdisciplinary [[problem-solving]].
 - **Administrators.** Establish policies on AI ethics, bias, transparency and student data privacy before scaling AI across programs, so integration is institutionally guided rather than technology-driven.
 - **Administrators.** Fund sustained professional development and target access gaps explicitly, since the evidence base comes mostly from technologically advanced regions and educators need to move from passive users to active co-designers.
-- **Instructors.** Connect AI-supported interdisciplinary work to sustainability and global citizenship goals, embedding ethical reflection alongside technical training.
+- **Instructors.** Connect AI-supported interdisciplinary work to sustainability and global citizenship goals, embedding ethical [[reflection]] alongside technical training.
 - **Researchers.** Adopt longer interventions, larger samples and validated assessment instruments and report effect sizes, given the field's reliance on short, context-specific designs.
 
 ## Limitations

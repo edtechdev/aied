@@ -102,6 +102,7 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Connected Articles
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)

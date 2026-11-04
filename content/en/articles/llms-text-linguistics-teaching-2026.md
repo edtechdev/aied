@@ -38,7 +38,7 @@ audience: [instructors, faculty developers]
 ## Limitations
 
 - Ten students (nine women), aged 19–29 (M = 21.3, SD = 3.2), all native Italian speakers in one Italian-language linguistics seminar at a single Swiss university; the authors state this small, demographically unbalanced sample restricts external validity and prevents statistical comparison across gender or age.
-- Evidence about perceptions and learning comes from self-reports and guided written reflections, which the authors concede may introduce response bias, with confirmation bias a risk in the qualitative coding; behavioral prompt logs covered only the first research question.
+- Evidence about perceptions and learning comes from self-reports and guided [[reflection|written reflections]], which the authors concede may introduce response bias, with confirmation bias a risk in the qualitative coding; behavioral prompt logs covered only the first research question.
 - Prior knowledge of text linguistics was never assessed before the intervention, so the authors cannot rule out that differences in disciplinary knowledge shaped how the pairs evaluated LLM output.
 - The intervention ran with no preliminary prompt-engineering introduction, and the authors note the rapid pace of model development may limit long-term generalizability and reproducibility.
 

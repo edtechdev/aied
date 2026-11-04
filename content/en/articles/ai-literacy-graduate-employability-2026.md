@@ -43,7 +43,7 @@ All four constructs — AI literacy, career adaptability, perceived employabilit
 
 The paper's substantive move is to refuse to treat AI literacy as a credential that employers simply reward. Instead it models career adaptability as the mechanism: AI literacy raises students' capacity to adjust goals, plans and self-presentation to a changing labor market, and that adaptive capacity is what converts into perceived employability. The numbers support this ordering, with all three direct paths significant at p < 0.001 and the indirect effect significant at β = 0.173.
 
-The practical reading is that employability work aimed at AI should not stop at tool training. If adaptability is doing part of the work, programs that build it — articulation of transferable skills, rehearsal of career pivots, structured reflection on how a changing task mix affects one's plans — are part of AI readiness rather than a separate careers service function.
+The practical reading is that employability work aimed at AI should not stop at tool training. If adaptability is doing part of the work, programs that build it — articulation of transferable skills, rehearsal of career pivots, structured [[reflection]] on how a changing task mix affects one's plans — are part of AI readiness rather than a separate careers service function.
 
 ## The moderator that did nothing
 

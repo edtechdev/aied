@@ -32,7 +32,7 @@ This full [[research-methods-aied|research]] paper investigates how students int
 - **Learners.** Use GenAI for explanation seeking and debugging rather than code generation: students reached for those purposes significantly more often, and the profile with the lowest code-generation reliance reported the strongest conceptual support.
 - **Learners.** Do not read heavy tool use as progress — the higher-usage profiles reported more trust in AI-generated code alongside greater perceived assignment difficulty and lower self-assessed understanding.
 - **Learners.** Expect self-directed use alone to move no grades: no significant assessment-performance difference appeared across the five interaction profiles, so treat the tool as support for reasoning rather than a substitute for working problems through.
-- **Learners.** Justify AI-assisted solutions and compare AI-generated code against your own, since the study ties deeper engagement to [[self-directed-learning|active]] explanation seeking, critical evaluation of outputs, and reflection on process rather than to unguided task completion.
+- **Learners.** Justify AI-assisted solutions and compare AI-generated code against your own, since the study ties deeper engagement to [[self-directed-learning|active]] explanation seeking, critical evaluation of outputs, and [[reflection]] on process rather than to unguided task completion.
 
 ## Limitations
 

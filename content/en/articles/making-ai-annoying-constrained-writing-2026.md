@@ -27,7 +27,7 @@ methods: [design-based-research]
 
 - **Teachers.** Deploy question-asking, teacher-delimited chatbots that refuse to generate student prose, keeping learners inside the effortful parts of argumentative composing.
 - **Instructional designers.** Sequence constraints progressively across a unit rather than granting unrestricted [[generative-ai|GenAI]] access, so the tool creates productive friction instead of completing students' thinking.
-- **Teachers.** Protect time for weekly reflections and targeted mini-lessons, the mechanisms through which students turned pushback on AI output into counterargument and evidence-integration gains.
+- **Teachers.** Protect time for weekly [[reflection|reflections]] and targeted mini-lessons, the mechanisms through which students turned pushback on AI output into counterargument and evidence-integration gains.
 - **Researchers.** Pair interaction logs with writing samples and interviews when studying constraint-based design, since the evidence here is qualitative and process-oriented rather than outcome measurement.
 
 ## Limitations

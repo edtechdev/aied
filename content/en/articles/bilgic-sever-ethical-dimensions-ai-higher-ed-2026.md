@@ -25,7 +25,7 @@ Faculty survey responses scored highest on the Equality, inclusiveness, and just
 
 ## Student Perspectives
 
-Students scored highest on Ethical awareness and responsible use (M=3.95) and lowest on Academic integrity (M=3.72). Their top item was recognizing AI results as recommendations with ultimate responsibility belonging to oneself (M=4.20), yet they were less likely to actively check whether tools had ethical guidelines. Students tended to interpret ethics through flexible, individual frameworks — contextual responsibility and subjective truths — attributing output ownership or errors to AI, a reflection of legal uncertainties that leave room for their own ethical reasoning. This is better read as a conflict between ethical paradigms than a simple ethical deficiency, pointing to the need for clear institutional policies.
+Students scored highest on Ethical awareness and responsible use (M=3.95) and lowest on Academic integrity (M=3.72). Their top item was recognizing AI results as recommendations with ultimate responsibility belonging to oneself (M=4.20), yet they were less likely to actively check whether tools had ethical guidelines. Students tended to interpret ethics through flexible, individual frameworks — contextual responsibility and subjective truths — attributing output ownership or errors to AI, a [[reflection]] of legal uncertainties that leave room for their own ethical reasoning. This is better read as a conflict between ethical paradigms than a simple ethical deficiency, pointing to the need for clear institutional policies.
 
 ## A Multidimensional Ethical Structure
 

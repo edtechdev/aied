@@ -32,7 +32,7 @@ source_depth: full text
 4. Interaction gains concentrated in depth and attribution (η2p = 0.293), theory and perspective taking (η2p = 0.271), and strategy generation and transfer (η2p = 0.179), not in description or report structure.
 5. Study 2 coded 487 prompts (254 from trained users, 233 from placebo users): trained participants produced 44.1% higher-order prompts versus 12.2% for placebo peers, t(28) = 7.14, p < 0.001, d = 2.61.
 6. The interaction survived Cook's D exclusion (F = 10.41, p = 0.002), HC3 heteroskedasticity-robust inference (p = 0.004), and per-protocol analysis (N = 53; F = 11.34, p = 0.002).
-7. Post-test rubric quality correlated moderately with the Reflective Practice Questionnaire dimensions for understanding, reflection, and critical reflection, r = 0.451, p < 0.001.
+7. Post-test rubric quality correlated moderately with the [[reflection|Reflective Practice]] Questionnaire dimensions for understanding, reflection, and critical reflection, r = 0.451, p < 0.001.
 
 ## Separating learner preparation from tool access
 

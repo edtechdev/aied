@@ -41,7 +41,7 @@ The mechanisms are what the article's proposals generalize from. A computer-base
 
 The prescriptions follow from the motivational analysis rather than from detection. Universities should raise the perceived purpose of assessment, build self-efficacy, and increase the perceived social cost of cheating, and the authors warn that addressing only one or two of these will fail because the model needs all three. Dawson et al.'s (2024) validity framework is presented as the structured route to aligning assessment with [[motivation|intrinsic motivation]], and the article offers five [[discipline-specific-aied|discipline-specific]] redesigns:
 
-- **STEM:** timed problem-solving exams become open-book [[problem-solving|problem solving]] with a written reflection on the student's own process.
+- **STEM:** timed problem-solving exams become open-book [[problem-solving|problem solving]] with a written [[reflection]] on the student's own process.
 - **[[humanities-education|Humanities]]:** [[summative-assessment|summative]] essays become [[collaborative-learning|collaborative]] research projects using primary and secondary sources, such as a group digital exhibit built on archival research.
 - **Business:** case study analysis becomes real-world simulation with peer-reviewed presentations, such as a market strategy pitched to peers and instructors.
 - **Social Sciences:** theoretical essays become community-based action research with local partner organizations.

@@ -47,7 +47,7 @@ EduGage contributes **real-time sensor fusion** for momentary assessment during 
 ### Technical Approach
 - **Sensors:** Webcam (eye tracking), interaction logs, and wearable devices capturing PPG, ECG, EDA, EEG, IMU, heart rate, and temperature
 - **Assessment:** Momentary (in-the-moment) vs. retrospective, aligned to ~44-second probe-aligned windows
-- **Feedback loop:** Real-time reflection prompts based on engagement state
+- **Feedback loop:** Real-time [[reflection]] prompts based on engagement state
 
 ## Study Design and the EduGage Dataset
 

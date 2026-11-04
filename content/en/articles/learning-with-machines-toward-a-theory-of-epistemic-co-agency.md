@@ -32,7 +32,7 @@ This is a conceptual/theoretical paper proposing a framework, not an empirical s
 
 - **Instructors.** Make the epistemic configuration visible: help learners recognize whether they are in augmentation, integration, or co-agency, and design transitions deliberately rather than assuming uniform critical engagement.
 - **Instructors.** Embed epistemic friction — prompt templates that require learners to justify why an output is appropriate or flawed, multiple-output displays of divergent responses, confidence visualizations or traceable sources, and critique scaffolds such as "What's missing?" and "Whose perspective is absent?"
-- **Instructors.** Assess the reasoning trajectory, not just the artifact: use reflective prompts, process explanations, and evidence of revision, and avoid "[[ai-detection|AI detection]]" measures that reduce engagement to surveillance.
+- **Instructors.** Assess the reasoning trajectory, not just the artifact: use [[reflection|reflective prompts]], process explanations, and evidence of revision, and avoid "[[ai-detection|AI detection]]" measures that reduce engagement to surveillance.
 - **Faculty developers.** Embed epistemic ethics, source reliability, and knowledge construction in disciplinary curricula rather than standalone AI literacy modules, and build faculty capacity to teach in AI-mediated environments where disciplinary validation norms differ.
 - **Designers.** Treat GenAI as an object of inquiry rather than an assistant, so learners can see its limitations and the values encoded in its design.
 

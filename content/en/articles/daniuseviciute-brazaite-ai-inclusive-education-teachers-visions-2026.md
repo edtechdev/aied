@@ -56,7 +56,7 @@ Teachers' sense of their own role was more measured than their vision. They repo
 
 ## What this means for practice
 - The practitioner value of this study lies in what teachers' imagined futures reveal about their assumptions, not in evidence about what AI will do in inclusive classrooms.
-- Because the essays describe desired 2040 scenarios rather than tested practice, they are best read as a prompt for reflection.
+- Because the essays describe desired 2040 scenarios rather than tested practice, they are best read as a prompt for [[reflection]].
 - Read against a school's own context, the visions suggest questions worth asking.
 - Where would [[personalized-learning|adaptive support]] actually reduce barriers for learners who currently receive only part of the support they need, and where would it widen the gap for students without reliable access?
 - The essays also show that teachers want [[ai-technologies|AI]] to carry organizing work while instruction and professional judgment stay with them, and that over-reliance is their central worry. That concern argues for teaching critical evaluation of AI output within subjects, rather than assuming learners will acquire it on their own. The futures-thinking markers matter for professional learning too: teachers who can already imagine several possible futures are better placed to treat AI as a choice to be [[teacher-role|negotiated]] with [[agency|collective]] voice than as a change to be absorbed.

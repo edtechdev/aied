@@ -80,6 +80,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 - [[student-engagement]]
 - [[language-learning]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Connected Articles
 

@@ -21,7 +21,7 @@ GenAI systems are designed for single-user interaction, yet they are increasingl
 
 ## Method
 
-- **Observation study:** 18 students in six groups of three, working synchronously (3 in-person, 3 online via Microsoft Teams) on designing a cultural educational game with a single shared ChatGPT-4 interface over ~45 minutes, followed by reflection.
+- **Observation study:** 18 students in six groups of three, working synchronously (3 in-person, 3 online via Microsoft Teams) on designing a cultural educational game with a single shared ChatGPT-4 interface over ~45 minutes, followed by [[reflection]].
 - **Interviews:** 9 additional semi-structured interviews (~45 min) capturing asynchronous, everyday GenAI use in teamwork.
 - **Analysis:** Qualitative thematic coding across three collaborative-dynamics dimensions — information flow, role negotiation, decision-making — plus GenAI as a collaborative space.
 

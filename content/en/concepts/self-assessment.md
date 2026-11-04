@@ -117,6 +117,7 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 - [[learning-gains]]
 - [[educational-measurement]]
 - [[ai-literacy]]
+- [[reflection]]
 
 ## Connected Articles
 

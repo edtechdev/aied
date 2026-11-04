@@ -32,7 +32,7 @@ This is an **empirical synthesis** applying a comparative and interpretive desig
 
 ## What this means for practice
 
-- **Instructors.** Demonstrate AI use in class rather than only mentioning it, and attach structured feedback to it: the study recorded AI mentioned in only 10.9% of class sessions and demonstrated in fewer than 6%, while students reported learning about AI informally and on their own. Evaluate ethical AI use through process, reflection, and judgment rather than detection alone.
+- **Instructors.** Demonstrate AI use in class rather than only mentioning it, and attach structured feedback to it: the study recorded AI mentioned in only 10.9% of class sessions and demonstrated in fewer than 6%, while students reported learning about AI informally and on their own. Evaluate ethical AI use through process, [[reflection]], and judgment rather than detection alone.
 - **Learners.** Build competence through peer collaboration and practice, since students' willingness correlated with [[self-efficacy]] (r = .730) and collaboration (r = .653) far more than with formal instruction.
 - **Administrators.** Publish clear, context-sensitive guidance on AI use with named points of contact, because instructors' [[ethics|ethical]] awareness tracked facilitating conditions (r = .322) and the largest gap in the study was students rating support low (M = 2.19).
 - **Faculty developers.** Tier professional development to the three instructor profiles the cluster analysis found (Beginner 24%, Intermediate 56%, Advanced 20%) and lead with [[ethics]], the scale that discriminated most strongly between them (F = 124.073, p < .001), instead of running uniform workshops.

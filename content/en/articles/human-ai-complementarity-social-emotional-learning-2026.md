@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation, framework]
 ---
 
-> **Synthesis:** Raave, Colasante, Roldan Roa, Ramos Martinez, Li, and colleagues (2026) run a controlled comparison of a [[generative-ai]] [[pedagogy|pedagogical]] [[conversational-ai|conversational agent]] (PCA) and human [[teacher-role|educators]] independently facilitating story-based social-emotional learning activities with a static AI child, using 18 [[simulation|simulations]] per facilitator across three activities (108 observations) rated by expert coders blind to facilitator type. The PCA showed strengths in basic relational and instructional domains — maintaining a respectful tone and routinely providing procedural [[scaffolding]] — while educators showed strengths in deeper SEL instruction, guiding reflection and promoting social-emotional knowledge.
+> **Synthesis:** Raave, Colasante, Roldan Roa, Ramos Martinez, Li, and colleagues (2026) run a controlled comparison of a [[generative-ai]] [[pedagogy|pedagogical]] [[conversational-ai|conversational agent]] (PCA) and human [[teacher-role|educators]] independently facilitating story-based social-emotional learning activities with a static AI child, using 18 [[simulation|simulations]] per facilitator across three activities (108 observations) rated by expert coders blind to facilitator type. The PCA showed strengths in basic relational and instructional domains — maintaining a respectful tone and routinely providing procedural [[scaffolding]] — while educators showed strengths in deeper SEL instruction, guiding [[reflection]] and promoting social-emotional knowledge.
 
 ## Key Findings
 

@@ -26,7 +26,7 @@ technology: [edtech-platform]
 
 ## Study Design & Method
 
-A cybersecurity tabletop exercise is a conversation between participants responsible for fulfilling a variety of roles during a cybersecurity incident. The paper describes the design, delivery, and evaluation of 25 TTXs using the IXP platform from October 2024 to March 2026. The exercise lifecycle — planning, development, delivery, and post-exercise reflection — structures the lessons learned, which include recommendations for realistic, well-thought-out scenarios and for instructor support during the exercise. Although the recommendations are grounded in cybersecurity, the authors argue they are not [[discipline-specific-aied|domain-specific]] and can be used for digital TTXs in other areas.
+A cybersecurity tabletop exercise is a conversation between participants responsible for fulfilling a variety of roles during a cybersecurity incident. The paper describes the design, delivery, and evaluation of 25 TTXs using the IXP platform from October 2024 to March 2026. The exercise lifecycle — planning, development, delivery, and post-exercise [[reflection]] — structures the lessons learned, which include recommendations for realistic, well-thought-out scenarios and for instructor support during the exercise. Although the recommendations are grounded in cybersecurity, the authors argue they are not [[discipline-specific-aied|domain-specific]] and can be used for digital TTXs in other areas.
 
 ## What this means for practice
 

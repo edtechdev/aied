@@ -32,7 +32,7 @@ verified: [citation, numbers, links]
 3. **The structure survived a second task.** Confirmatory fit was adequate for the maze data (CFI = .89, RMSEA = .06, SRMR = .06) and the policy-drafting data (CFI = .91, RMSEA = .06, SRMR = .06).
 4. **Reliance shifted with the task.** Reflective (M = 4.01 vs. 3.76), thoughtless (M = 3.61 vs. 3.15) and collaborative use (M = 3.92 vs. 3.74) were all significantly higher in the maze week than in the policy week.
 5. **Cautious use did not move at all.** It was the rarest behavior and statistically identical across the two activities (M = 3.46 in both, t = .19), holding near the midpoint of the frequency scale.
-6. **Reflection and thoughtlessness coexisted.** Thoughtless use correlated .28 with reflective use and only .16 with cautious use, so the students most likely to revise prompts were also somewhat likely to paste an answer unchanged.
+6. **[[reflection]] and thoughtlessness coexisted.** Thoughtless use correlated .28 with reflective use and only .16 with cautious use, so the students most likely to revise prompts were also somewhat likely to paste an answer unchanged.
 7. **Chat logs partly corroborated the reports.** In 8 transcripts from high-scoring groups, reflective students re-prompted ("I think you misunderstood my request"), while thoughtless groups pasted course example prompts without replacing the placeholders.
 
 ## Why outcome-based reliance measures did not fit

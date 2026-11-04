@@ -73,7 +73,7 @@ Governance is where it bites. Perceived ownership fell only in Group A; Groups P
 
 ## What this means for practice
 
-- **Instructors.** Assess [[process-oriented-assessment|process]], not only product. The trace separates a student who asked for a paragraph from one who asked for the essay and then edited it, and the second is hard to see in the submitted file. Query histories, drafts or a short reflection on use recover what the text does not carry.
+- **Instructors.** Assess [[process-oriented-assessment|process]], not only product. The trace separates a student who asked for a paragraph from one who asked for the essay and then edited it, and the second is hard to see in the submitted file. Query histories, drafts or a short [[reflection]] on use recover what the text does not carry.
 - **Writing program designers.** Treat whole-essay delegation as its own category, not an extreme of editing help. It has different predictors (perceived usefulness, age) and consequences (lower ownership) than Planning or Reviewing use, so one policy line covering all "AI use" will misdescribe what students do.
 - **Tool builders.** Classification at the point of use is feasible: the six personas came from a four-feature vector. A writing environment can label a request as Planning, Translating, Reviewing or All before answering, and respond differently without blocking the student.
 - **Researchers.** Ownership and creativity here are self-report scores taken once, after one essay: evidence about how students felt, not about what they learned, with no learning outcome or human quality rating to anchor them.

@@ -62,7 +62,7 @@ The framework was evaluated on nine real-world benchmarks (Spanish, ASSISTments1
 - **Developers.** Model the data-generating process, not just the observed log: standard knowledge-tracing training fits the selection policy because students strategically skip questions, and TSDR improved AUC across six backbones on nine datasets.
 - **Developers.** Add the temporal smoothness term with defaults rather than tuning it: the coefficient λ had a stable sweet spot in [0.3, 1.0] and outperformed vanilla doubly robust training (λ = 0).
 - **Developers.** Expect the largest gains where missingness is systematic: AKT improved 5.06% on Prob and SparseKT 4.76% on Assist17, while EdNet, whose mandatory bundle policy makes missingness closer to random, gained only about 1%.
-- **Learners.** Treat skipped questions as a signal rather than missing data, since the bias comes from learners avoiding items they judge too hard, too easy, or boring — a reflection of genuine [[agency|learner agency]].
+- **Learners.** Treat skipped questions as a signal rather than missing data, since the bias comes from learners avoiding items they judge too hard, too easy, or boring — a [[reflection]] of genuine [[agency|learner agency]].
 
 ## Limitations
 

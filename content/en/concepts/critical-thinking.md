@@ -109,6 +109,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[cognitive-surrender]]
+- [[reflection]]
 
 ## Connected Articles
 - [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Critical thinking runs through division of labor and reworking output, not exposure

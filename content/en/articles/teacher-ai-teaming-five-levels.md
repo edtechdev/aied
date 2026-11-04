@@ -41,7 +41,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - **Instructors.** Keep professional judgment in the loop at the lower levels: the framework positions the teacher as the primary decision-maker in transactional and situational teaming and warns that full task offloading risks [[cognitive-offloading|cognitive atrophy]] and deprofessionalization.
 - **Faculty developers.** Align [[teacher-ai-competency|professional development]] with an AI literacy framework (the chapter points to UNESCO's AI competency framework for teachers) so teachers build the metacognitive and critical skills that praxical and synergistic teaming demand.
 - **Administrators.** Treat implementation as staged capacity building: audit existing teacher–AI interactions to find the baseline, then upgrade transactional tools toward situational or operational teaming by connecting classroom data streams and goal-setting interfaces.
-- **Designers.** Co-design prompts, interaction protocols, and decision-support flows with teachers, and run evaluation cycles on process analytics and teacher reflection rather than deployment metrics alone.
+- **Designers.** Co-design prompts, interaction protocols, and decision-support flows with teachers, and run evaluation cycles on process analytics and teacher [[reflection]] rather than deployment metrics alone.
 
 ## Limitations
 

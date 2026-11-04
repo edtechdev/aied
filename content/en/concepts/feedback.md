@@ -159,6 +159,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-literacy]]
 - [[scaffolding]]
 - [[writing-education]]
+- [[reflection]]
 
 ## Connected Articles
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)

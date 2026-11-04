@@ -17,7 +17,7 @@ audience: [instructors, instructional designers, institutions]
 
 ## Key Findings
 
-- **A coherent theoretical framework is essential:** The authors argue AI adoption must move beyond ad hoc implementation; the CoI framework, a [[constructivist|collaborative-constructivist]] process model grounded in critical reflection and discourse, is well suited to guide responsible integration of [[generative-ai|generative AI]] (Stenbom & Garrison, 2026).
+- **A coherent theoretical framework is essential:** The authors argue AI adoption must move beyond ad hoc implementation; the CoI framework, a [[constructivist|collaborative-constructivist]] process model grounded in critical [[reflection]] and discourse, is well suited to guide responsible integration of [[generative-ai|generative AI]] (Stenbom & Garrison, 2026).
 - **AI is a sociotechnical actor, not a neutral tool:** Within a [[community-of-inquiry|community of inquiry]], AI intersects with [[teacher-role|Teaching]], Social, and Cognitive Presence in different ways, and may assume multiple, coexisting roles depending on design and positioning.
 - **Five roles for AI in a community of inquiry:** (i) support for [[learning-design|learning design]], (ii) independent resource for learners, (iii) support function and guide for instructors via analytics, (iv) [[agentic-ai|AI agent]] as a member of the community, and (v) sustained dialogical relationship of inquiry between human and AI agent.
 - **Risks of uncritical adoption:** If reflective inquiry is bypassed, learners may become passive recipients of AI-generated information, accept outputs uncritically, and forfeit the cognitive [[student-engagement|engagement]] and authenticity essential to deep learning.

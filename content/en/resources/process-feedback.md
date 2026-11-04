@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-A teacher can view a report for one student or load hundreds at once from a teacher dashboard, and students can view their own reports and [[metacognition|reflect]] on them. It works in Google Docs through a browser extension, in the project's own writing space, and in LMS editors such as Canvas, with LTI integration available; a report can also be downloaded as a PDF and uploaded to any platform. The project publishes reflection prompts for guiding student self-review, guidance on reading AI-use patterns, and teacher guides.
+A teacher can view a report for one student or load hundreds at once from a teacher dashboard, and students can view their own reports and [[reflection|reflect]] on them. It works in Google Docs through a browser extension, in the project's own writing space, and in LMS editors such as Canvas, with LTI integration available; a report can also be downloaded as a PDF and uploaded to any platform. The project publishes reflection prompts for guiding student self-review, guidance on reading AI-use patterns, and teacher guides.
 
 ## Who it is for
 

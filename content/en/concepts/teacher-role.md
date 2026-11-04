@@ -195,6 +195,7 @@ The evidence supports a specific order of operations for an instructor adopting 
 - [[academic-integrity]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[reflection]]
 
 ## Connected Articles
 

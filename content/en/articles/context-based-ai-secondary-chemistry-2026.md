@@ -20,7 +20,7 @@ audience: [instructors, curriculum designers, policymakers]
 - **Sample:** 93 Grade 10 secondary students, three groups: context-based 7E + AI tools (experimental), 7E without context/AI (comparison), conventional teaching (control).
 - **Duration:** 12 weeks.
 - **AI tools:** PhET interactive simulations and ChatGPT-based tutoring embedded within the 7E inquiry phases.
-- **Measures:** pre-/post-tests and engagement scales ([[quantitative-research|quantitative]]); observation checklists, reflection forms, and AI usage logs ([[qualitative-research|qualitative]]).
+- **Measures:** pre-/post-tests and engagement scales ([[quantitative-research|quantitative]]); observation checklists, [[reflection]] forms, and AI usage logs ([[qualitative-research|qualitative]]).
 
 ## Findings
 

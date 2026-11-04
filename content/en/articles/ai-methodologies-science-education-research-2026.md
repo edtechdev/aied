@@ -67,7 +67,7 @@ The authors are explicit that the analogy has limits. Students are not randomly 
 
 - **Researchers.** The seven phases work as a checklist for interrogating an AI-based study: what construct is being quantified, how the measurement function is justified, which evidence the analysis produces, and how findings hold across student populations.
 - **Methodologists and journal editors.** The article argues for dedicated space to negotiate epistemic implications, methodological limitations, and the standards by which AI-generated knowledge claims are evaluated.
-- **Study-program designers and supervisors.** It calls for undergraduate and graduate training in AI methodologies that pairs technical skill with critical reflection on epistemological assumptions and educational constructs.
+- **Study-program designers and supervisors.** It calls for undergraduate and graduate training in AI methodologies that pairs technical skill with critical [[reflection]] on epistemological assumptions and educational constructs.
 - **The research community.** It recommends open science — shared coding rubrics, datasets, and ML architectures — and interdisciplinary collaboration, and it notes the need for domain-specific, not only domain-general, norms.
 
 ## Limitations

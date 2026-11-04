@@ -30,7 +30,7 @@ page_kind: [framework]
 
 - **Instructors.** Teach strategic offloading explicitly with think-alouds and structured reflection prompts aligned to the three SRL phases — forethought ("What's the learning goal?"), performance ("Is AI supporting or replacing my thinking?"), and reflection ("Could I do this with less support next time?").
 - **Instructors.** Sequence mastery experiences so SWLDs succeed through their own effort before using GenAI selectively as a scaffold, counteracting the dependence feedback loop that erodes academic [[self-efficacy]].
-- **Designers.** Build guardrails that sustain cognitive engagement rather than simply permitting or restricting use, and make that engagement visible through planning notes, prompt design, revisions, and reflections.
+- **Designers.** Build guardrails that sustain cognitive engagement rather than simply permitting or restricting use, and make that engagement visible through planning notes, prompt design, revisions, and [[reflection|reflections]].
 - **Instructors.** Assess process rather than product, aligning evaluation with IEP goals that prioritize skill development over substitution for SWLDs.
 - **Learners.** Calibrate trust in GenAI by learning its strengths and limits — [[hallucination-risk|hallucinations]], oversimplified logic, embedded biases — and practice [[prompt-engineering|prompt engineering]] before delegating higher-order tasks.
 

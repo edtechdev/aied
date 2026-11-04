@@ -58,7 +58,7 @@ Verification was the norm, not the exception: 93%–100% of LLM users reported a
 
 ## Limitations
 
-- All measures come from [[self-report-measures|self-reported]] post-assignment reflections subject to recall bias, greatest for heavier users who had to distinguish adjacent prompt-count ranges such as 3–5 versus 6–10; the authors propose validating counts against server-side logs.
+- All measures come from [[self-report-measures|self-reported]] post-assignment [[reflection|reflections]] subject to recall bias, greatest for heavier users who had to distinguish adjacent prompt-count ranges such as 3–5 versus 6–10; the authors propose validating counts against server-side logs.
 - The role labels (Assistant, Peer, Expert, None) were presented without in-survey definitions and the instrument was not formally piloted, so a student's reported role may reflect label interpretation rather than a genuine difference in how the LLM was used.
 - Approximately 36% of consenting participants were excluded for not completing all seven reflection surveys, and non-completion may itself track assignment difficulty or attitudes toward LLM use; the final sample was 211 students in one course at one R1 university in Fall 2025.
 - The study documents associations between assignment characteristics and LLM usage but does not establish causality; assignment clarity, testability, and open-endedness were not measured directly.

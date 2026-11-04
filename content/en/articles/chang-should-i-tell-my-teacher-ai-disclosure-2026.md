@@ -27,7 +27,7 @@ audience: [instructors, administrators]
 
 ## What this means for practice
 
-- **Instructors.** Replace behavior-only declaration requirements with low-barrier disclosure touchpoints — in-assignment reflection prompts, opt-in consultations, or embedded AI-use reflection tools — so students surface AI use as learning [[regulation]] rather than as confession.
+- **Instructors.** Replace behavior-only declaration requirements with low-barrier disclosure touchpoints — in-assignment [[reflection]] prompts, opt-in consultations, or embedded AI-use reflection tools — so students surface AI use as learning [[regulation]] rather than as confession.
 - **Instructors.** Normalize AI use in class with instructor-led examples and an explicit statement that disclosure will not automatically be penalized, lowering the social cost of transparency that drove concealment in this study.
 - **Administrators.** Scaffold disclosure norms deliberately from the first year instead of assuming transparency develops with academic progression: years of study did not predict disclosure to teachers here (β = −0.12, p = .303).
 - **Instructors.** Give the heaviest AI users direct instructional attention: students who frequently uploaded drafts for AI review reported the highest Worry Index scores (r = .477) and more complete secrecy (r = .305) with no detectable increase in disclosure to teachers (r = –.146).

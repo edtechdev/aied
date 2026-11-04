@@ -34,7 +34,7 @@ level: [higher ed]
 - Students self-selected into modality and few chose voice (44 voice-only users of 919), limiting generalizability, and causality cannot be established — whether modality influences outcomes or student characteristics drive modality choice.
 - Only 62 students attempted both prompting approaches, so the within-problem persistence analysis never attained sufficient sample sizes.
 - Some students, including non-native English speakers, reported transcription issues, so evaluations may reflect technology performance rather than the modality itself, and transcription delay was not measured.
-- The three problems were relatively simple and short, and modality preference rests on two self-report reflection questions rather than a validated technology-acceptance instrument.
+- The three problems were relatively simple and short, and modality preference rests on two self-report [[reflection]] questions rather than a validated technology-acceptance instrument.
 
 ## Citation
 

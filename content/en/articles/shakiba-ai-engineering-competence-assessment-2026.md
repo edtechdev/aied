@@ -38,7 +38,7 @@ ai_assist:
 3. **Six evidence channels support different inferences and carry different limits.** Product, process/origin, verification, explanation, reflection and individual assurance are distributed across the course, and none is treated as sufficient on its own.
 4. **AI shifts evidential weight within the rubric.** Criteria acting as quality floors — installability, repository organization, basic structural separation — became easier to satisfy, while integration, failure diagnosis and trade-off justification still separated students.
 5. **Some channels carried less evidence than designed.** The demonstration's two-minute Q&A usually allowed one student to answer, yielding team-level explanation rather than individual assurance, and cross-channel triage rested on assessor judgment.
-6. **Evidence channels were partly correlated.** Students could use AI for code, journal entries, reflective writing and prepared explanations, so six channels did not yield six independent sources; independence requires genuinely different capabilities.
+6. **Evidence channels were partly correlated.** Students could use AI for code, journal entries, [[reflection|reflective writing]] and prepared explanations, so six channels did not yield six independent sources; independence requires genuinely different capabilities.
 
 ## The redesign, and why it inverts the usual response
 

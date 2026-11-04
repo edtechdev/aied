@@ -19,7 +19,7 @@ methods: [design-based-research]
 
 ## Key Findings
 
-- **Rubric engineering drives LLM–human convergence.** Initial LLM–human agreement was poor (Cronbach's Alpha = 0.393; Kappa −0.06 to 0.18), but after iterative rubric refinement — clarifying performance descriptors and explicitly accepting implicit indicators of learning — mean agreement rose from 54.75% to 81.25%, with the largest gains in the cognitively demanding Iteration & Reflection category. Final rubric-tuned LLM ratings reached Alpha = 0.798 and Kappa 0.40–0.55, evidencing convergence toward shared evaluative reasoning.
+- **Rubric engineering drives LLM–human convergence.** Initial LLM–human agreement was poor (Cronbach's Alpha = 0.393; Kappa −0.06 to 0.18), but after iterative rubric refinement — clarifying performance descriptors and explicitly accepting implicit indicators of learning — mean agreement rose from 54.75% to 81.25%, with the largest gains in the cognitively demanding Iteration & [[reflection]] category. Final rubric-tuned LLM ratings reached Alpha = 0.798 and Kappa 0.40–0.55, evidencing convergence toward shared evaluative reasoning.
 
 - **Rubrics as semantic interfaces for AI.** The study treats assessment criteria as revisable design artifacts rather than fixed instruments, positioning the rubric as a mediating interface between human pedagogical intent and machine inference. Rubrics engineered for LLMs must balance precision and flexibility — too vague invites free interpretation, too rigid reduces the model to pattern-matching.
 

@@ -59,7 +59,7 @@ Participants described each role as demanding a distinct way of thinking. The Ca
 ## Limitations
 - The authors are explicit that the intervention ran in one university over eight weeks, with neither pre-post competence measures nor a comparison group.
 - The patterns therefore document engagement in competence-related learning, not developmental gains.
-- Four design principles are offered for future work: explicit role guidance and facilitation, deliberate exposure to multiple professional perspectives, structured [[metacognition|collaborative reflection]] on AI-supported information, and authentic professional cases as the context for AI-supported activity.
+- Four design principles are offered for future work: explicit role guidance and facilitation, deliberate exposure to multiple professional perspectives, structured [[reflection|collaborative reflection]] on AI-supported information, and authentic professional cases as the context for AI-supported activity.
 - The model was adapted iteratively during the intervention, with role descriptions and reflection prompts revised as difficulties surfaced. The authors call for multi-institutional, longitudinal, and mixed-methods studies, and for comparisons between rotating and stable role structures, to test whether rotation adds distinctive benefits for perspective-taking, collaborative accountability, and critical evaluation of AI outputs.
 
 ## Citation

@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ## Key Findings
 
-The review's first question was how [[critical-thinking]] is defined. Only 23 of the 80 papers (29%) offer an explicit definition, and those definitions do not converge. Where theory is cited, the sources vary: Kahneman's dual-system theory (three studies), Bloom's taxonomy (two), Facione's six critical thinking skills (two), and Schön's reflection-in-action (two). Judging both by cited theory and by the way each study measured the construct, the authors could not assign a theoretical position for 46 papers (57%) at all.
+The review's first question was how [[critical-thinking]] is defined. Only 23 of the 80 papers (29%) offer an explicit definition, and those definitions do not converge. Where theory is cited, the sources vary: Kahneman's dual-system theory (three studies), Bloom's taxonomy (two), Facione's six critical thinking skills (two), and Schön's [[reflection]]-in-action (two). Judging both by cited theory and by the way each study measured the construct, the authors could not assign a theoretical position for 46 papers (57%) at all.
 
 The second question was measurement. Forty-nine studies (61%) appraise critical thinking through self-report, often on fewer than five survey items. Thirty-nine studies claim an observed effect, 29 on participants' process and 10 on a product or outcome, yet only 10 of those explain what would count as evidence of critical thinking. Forty-two studies (52%) used no control group, and only 24 (30%) compared against another system or human assistance. Sixty-two percent of studies rest on interventions shorter than four hours; twelve ran longer than nine weeks, and one collected a follow-up measurement.
 

@@ -30,7 +30,7 @@ page_kind: [evaluation]
 - **Pedagogically filtered tuning lifts the pedagogical dimensions.** Pedagogy-R1-7B beats its instruction-tuned baseline by 6.49 points in pedagogical knowledge, 8.75 in essay scoring, and 31.34 in decision-making.
 - **Subject knowledge is the trade-off.** The same model falls 2.49 points in subject knowledge, and both tuned sizes sit near 24 to 27 percent against 45.96 for o4-mini.
 - **Reasoning models still trail knowledge tracing specialists.** DKT and AKT reach 77.55 and 79.31 AUC, while every language model tested lands between roughly 49 and 65.
-- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy reflection falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
+- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy [[reflection]] falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
 - **Without CoP, metacognition is absent.** No self-questioning or meta-evaluation codes appeared across any of the 42 baseline traces, and both surfaced only sparsely once pedagogical prompting was applied.
 - **Most reasoning tokens were filler.** About 65 percent were coded as noise, mainly repeated item stems and generic remarks, and underthinking ran high in essay scoring and pedagogy.
 

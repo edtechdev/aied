@@ -69,7 +69,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 ### vs. Agentic Workflows
 - TeachBench operationalizes the **"teacher agent"** paradigm in agentic education
 - Reveals current LLMs struggle with *structured [[pedagogy|pedagogical]] planning* (vs. reactive Q&A)
-- Aligns with: agentic reflection, planning, and tool use in educational contexts
+- Aligns with: agentic [[reflection]], planning, and tool use in educational contexts
 
 ## What this means for practice
 

@@ -144,6 +144,7 @@ Observability can be designed for without surveillance: it is the evidence an as
 - [[intelligent-tutoring]]
 - [[ai-ed-evaluation]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
+- [[reflection]]
 
 ## Connected Articles
 - [[llm-multi-agent-conversation-assessment-2025]] — A four-agent architecture for conversation-based assessment whose assessor hedges toward the middle category (Hou et al. 2025)

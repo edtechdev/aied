@@ -47,7 +47,7 @@ The paper's most distinctive move is its refusal to claim evidence of effectiven
 
 - **Designers.** Engineer AI tools as thought partners, not solution engines: frame every response as an option to weigh, make the reasoning against a published framework visible, and point back to the authoritative source.
 - **Designers.** Make privacy and accessibility architectural commitments — no account, no cookies, no server-side chat storage, no data used for training, and conformance to WCAG 2.2 Level AA with keyboard-only operation and screen reader support — and treat the substance of replies, such as register and length, as an [[accessibility]] question rather than a matter of tone.
-- **Instructors.** Use a structured cycle such as the Four T's and complete the Transfer step by reflecting on how reducing a barrier deepened learning; an exchange that stops before that reflection is not yet full thought-partner use.
+- **Instructors.** Use a structured cycle such as the Four T's and complete the Transfer step by reflecting on how reducing a barrier deepened learning; an exchange that stops before that [[reflection]] is not yet full thought-partner use.
 - **Instructors.** Keep your own knowledge of your learners as the decisive check on every output and treat the tool as one option among several, because automation bias means the educator who trusts the tool most is the least likely to catch a poor suggestion.
 - **Institutions.** Organize evidence for early-stage public-good tools by the purpose it serves rather than methodological prestige, and specify in advance what counts as "proof of trust"; never treat the tool as a safeguarding route, since a privacy architecture that holds nothing cannot act on a disclosure.
 

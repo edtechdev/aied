@@ -43,7 +43,7 @@ confidence: high
 |--------------|---------|----------------------|
 | **[[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS)** | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
 | **Adaptive Platforms** | Deep RL-based systems | Enhance metacognitive outcomes via adaptive scaffolds |
-| **[[learning-analytics|Learning Analytics]]** | Dashboards, tracking tools | Externalize metacognitive processes, support reflection |
+| **[[learning-analytics|Learning Analytics]]** | Dashboards, tracking tools | Externalize metacognitive processes, support [[reflection]] |
 | **[[generative-ai|Generative AI]]** | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |
 
 **Core shift:** From **individual reflection** → **system-level [[regulation]] and [[distributed-cognition|distributed cognition]]**.

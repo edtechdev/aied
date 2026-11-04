@@ -49,7 +49,7 @@ At the nominal level, students preferring a chatbot that initiates guided inquir
 
 - **Learners.** Choose a chatbot mode that makes you attempt the reasoning first and supplies direct answers only when you are stuck: 52% of students preferred this 'Combination' behavior, and their total EBAPS scores were higher than those of students who wanted answers immediately (p = 0.029).
 - **Learners.** Ask for an alternative representation, a smaller first step, or a prompt to revisit a concept before requesting the worked solution, so that chatbot support develops [[self-efficacy|competence]] instead of replacing your own thinking.
-- **Learners.** Use error and effort as information: the Axis 5 finding links beliefs about the source of learning ability to effort, strategy use, [[feedback]], and reflection, so review which strategy failed rather than treating a wrong answer as evidence of fixed ability.
+- **Learners.** Use error and effort as information: the Axis 5 finding links beliefs about the source of learning ability to effort, strategy use, [[feedback]], and [[reflection]], so review which strategy failed rather than treating a wrong answer as evidence of fixed ability.
 - **Researchers.** Test whether sustained use of [[socratic-method|Socratic-dialogue]] chatbots shifts students' [[metacognition|epistemological]] beliefs in either direction, and how it shapes their approaches to scientific inquiry, since this survey captured beliefs at a single point in one course.
 
 ## Limitations

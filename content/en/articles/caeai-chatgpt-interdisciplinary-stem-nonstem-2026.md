@@ -58,7 +58,7 @@ Effects were estimated with robust ANOVA and robust two-way ANOVA using 20% trim
 
 - **Instructors.** Expect that a tool introduced to help everyone will land differently across disciplines, and plan targeted support for the students it disadvantages. If non-STEM students disengage physically when ChatGPT is present, pair the tool with explicit guidance so it functions as a collaborative partner rather than an answer provider.
 - **Course and program designers.** Build scaffolds into AI-supported interdisciplinary tasks so students generate and integrate ideas across fields instead of outsourcing that integration to the model.
-- **[[educational-technology-developers|Educational technology developers]].** Consider surfacing disciplinary context and [[prompt-engineering|prompting]] reflection, since the study ties the quality drop to reduced critical thinking and to cognitive load imposed by the interface itself.
+- **[[educational-technology-developers|Educational technology developers]].** Consider surfacing disciplinary context and [[prompt-engineering|prompting]] [[reflection]], since the study ties the quality drop to reduced critical thinking and to cognitive load imposed by the interface itself.
 - **Researchers.** Treat disciplinary background as a variable in AI-in-education studies, not just a control, and measure it directly rather than through program enrollment.
 
 ## Limitations

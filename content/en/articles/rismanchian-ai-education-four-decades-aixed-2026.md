@@ -27,7 +27,7 @@ methods: [research-methods-aied]
 
 **Human-inspired evaluation and learning from LLMs.** The paper argues that LLMs' natural-language flexibility requires human-inspired evaluation approaches (e.g., simulated students, AI teacher tests, behavioral analysis) rather than technical metrics alone, and suggests that studying LLMs — cautiously — can generate insight into human learning, a research direction largely absent from AIED 2024.
 
-**Future directions beyond generative AI.** The authors propose reviving bottom-half research through renewed [[ai-literacy]] work that encourages reflection on learning, applications of [[machine-learning|machine teaching]] to human instruction, and agent-based models / complex-systems methodology (e.g., their own computational model of the [[icap-framework|ICAP framework]]) that bridge contemporary [[learning-theories|learning theory]] and computational modeling.
+**Future directions beyond generative AI.** The authors propose reviving bottom-half research through renewed [[ai-literacy]] work that encourages [[reflection]] on learning, applications of [[machine-learning|machine teaching]] to human instruction, and agent-based models / complex-systems methodology (e.g., their own computational model of the [[icap-framework|ICAP framework]]) that bridge contemporary [[learning-theories|learning theory]] and computational modeling.
 
 **Methodological transparency.** The paper locates each paper in AI×Ed based on author judgment of abstracts and full texts, acknowledges this is not a systematic or scalable data-driven categorization, and makes its full dataset publicly available as supplementary material for replication.
 

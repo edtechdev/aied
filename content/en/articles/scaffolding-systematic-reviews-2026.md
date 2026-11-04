@@ -33,7 +33,7 @@ Because LDT spans education, instructional design, psychology, information scien
 
 ## Mentoring as emotional and methodological scaffolding
 
-Mentoring functioned as an integrated support system combining methodological guidance with emotional scaffolding. It normalized uncertainty, created spaces for co-reflection with experienced researchers, and made expert reasoning visible through discussion — supporting both technical competence and confidence. When one-on-one mentoring was not feasible, peer-based discussion groups offered mutual support. This is a strong example of [[scaffolding]] applied to a professional research process, and of [[human-ai-collaboration|human–AI collaboration]] where people remain the interpretive center.
+Mentoring functioned as an integrated support system combining methodological guidance with emotional scaffolding. It normalized uncertainty, created spaces for co-[[reflection]] with experienced researchers, and made expert reasoning visible through discussion — supporting both technical competence and confidence. When one-on-one mentoring was not feasible, peer-based discussion groups offered mutual support. This is a strong example of [[scaffolding]] applied to a professional research process, and of [[human-ai-collaboration|human–AI collaboration]] where people remain the interpretive center.
 
 ## Balancing automation with human judgment
 

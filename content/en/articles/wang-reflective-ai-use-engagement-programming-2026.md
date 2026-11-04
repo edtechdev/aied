@@ -51,7 +51,7 @@ The Copilot branch coded 66 nonblank Critical Engagement responses on a four-lev
 ## What this means for practice
 
 - **Instructors.** Treat tool acceptance as a starting condition, not evidence of learning: acceptance and reflective use behaved as separate constructs, so a satisfied class is not a reflective one.
-- **Instructional designers.** Build reflection prompts into AI programming tools instead of assuming students will evaluate suggestions spontaneously; the authors call for experimental tests.
+- **Instructional designers.** Build [[reflection]] prompts into AI programming tools instead of assuming students will evaluate suggestions spontaneously; the authors call for experimental tests.
 - **Researchers.** Read the three strands separately: the survey is strongest, the text module is exploratory, and the log model is a boundary test, not a replication.
 - **Researchers.** Treat recovery and persistence log indicators as approximations, not validated self-efficacy measures.
 

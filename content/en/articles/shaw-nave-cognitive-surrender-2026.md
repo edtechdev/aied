@@ -35,7 +35,7 @@ Dual-process theories (System 1 = fast, intuitive, [[affective-computing|affecti
 
 ## Experimental findings
 
-Three preregistered experiments used an adapted Cognitive Reflection Test with AI accuracy randomized via hidden seed prompts (N = 1,372; 9,593 trials):
+Three preregistered experiments used an adapted Cognitive [[reflection]] Test with AI accuracy randomized via hidden seed prompts (N = 1,372; 9,593 trials):
 - Participants consulted the AI on a majority of trials (>50%).
 - Trial-level synthesis: correct responding was over 16× greater when System 3 was correct (OR = 16.07); Cohen's h values were large (0.83, 0.86, 0.78).
 - Time pressure reduced accuracy across conditions; incentives + feedback improved it. Neither eliminated cognitive surrender (the AI-Accurate vs. AI-Faulty gap persisted).

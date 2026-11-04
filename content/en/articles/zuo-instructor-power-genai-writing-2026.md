@@ -20,7 +20,7 @@ confidence: high
 
 1. **Four polycentric power centers shape instructor perceptions.** Instructors' views and practices are not uniform but shaped by their orientation to four centers of authority: the global impact of GenAI, the university/department, colleagues, and students — each explored in detail below.
 2. **The global trend is seen as inescapable.** All instructors recognized GenAI as "the reality" — inevitable and "never going away" — motivating them to adjust teaching and "stay a step ahead" of students, though views differed on its effectiveness and ethics.
-3. **Instructors updated practices to retain authority and promote accountability.** Across the four centers, instructors responded by emphasizing the writing process over the final product (reflections, more conferences, multiple revisions), holding open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
+3. **Instructors updated practices to retain authority and promote accountability.** Across the four centers, instructors responded by emphasizing the writing process over the final product ([[reflection|reflections]], more conferences, multiple revisions), holding open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
 4. **The shift is from detection toward teaching acceptable use.** Rather than relying on detection, instructors moved toward guiding responsible GenAI use and promoting student accountability — while flagging persistent equity concerns (the digital divide).
 
 ## Theoretical framing: scale and polycentricity

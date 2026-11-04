@@ -33,7 +33,7 @@ Adapting Zimmerman's (2000) self-[[regulation]] phases, the proposed pathway com
 
 1. **Feedback forethought** — setting feedback goals and planning strategically, based on learning needs and understanding of GenAI's capabilities/limitations.
 2. **Feedback control** — self-observation and self-monitoring of one's prompts and GenAI's responses, assessing prompt and information quality, and refining interaction.
-3. **Feedback retrospect** — self-reflection on the feedback received, interaction quality, strategies used and outcomes, feeding insights back into the next cycle's forethought phase.
+3. **Feedback retrospect** — [[reflection|self-reflection]] on the feedback received, interaction quality, strategies used and outcomes, feeding insights back into the next cycle's forethought phase.
 
 These phases are interwoven with the eliciting/processing/enacting stages of the feedback process.
 

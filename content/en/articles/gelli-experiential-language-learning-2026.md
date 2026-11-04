@@ -69,7 +69,7 @@ Learners could steer the conversation and the narrative followed, testing the sy
 - Participants were 47 recruited adults in one area learning Japanese, and results may differ for other populations, proficiency levels, or languages; Japanese required specific handling of its writing system, furigana, and register.
 - The analysis used N = 40 for [[quantitative-research|quantitative]] analysis and N = 43 for [[qualitative-research|qualitative]] analysis; five of the 47 were excluded (two pilots, three who did not complete, two with missing data).
 - Log coding was reconciled to consensus between two researchers rather than independently rated, so the paper reports no inter-rater reliability for those codes.
-- Reflections had no required content and reading of generated lessons was not measured, so the reflection and abstraction phases cannot be confirmed as having occurred as intended.
+- [[reflection|Reflections]] had no required content and reading of generated lessons was not measured, so the reflection and abstraction phases cannot be confirmed as having occurred as intended.
 
 ## Citation
 

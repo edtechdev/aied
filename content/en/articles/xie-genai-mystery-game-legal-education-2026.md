@@ -33,7 +33,7 @@ source_depth: full text
 3. Gemini 3 Pro, accessed through the [[conversational-ai|chatbot]] interface, was used only during development: the team prompted it with the case facts, objectives and character specifications to draft character profiles, role information and narrative material.
 4. After controlling for pre-test scores, the game group's post-test performance was significantly higher, *F*(1, 81) = 105.61, *p* < .001, partial *η*² = 0.566 — a large effect for a single-unit intervention.
 5. Both pre- and post-tests combined knowledge items on legal concepts, principles and rules with logical-reasoning items requiring application of legal principles to concrete scenarios, scored against the course syllabus and objectives.
-6. Interviews with 24 students described reasoning scenarios and role interaction as producing immersion, greater willingness to participate, opportunities to mobilise and apply knowledge, sustained [[motivation]], and [[metacognition|reflection]] on their own gaps in legal terminology and knowledge.
+6. Interviews with 24 students described reasoning scenarios and role interaction as producing immersion, greater willingness to participate, opportunities to mobilise and apply knowledge, sustained [[motivation]], and [[reflection]] on their own gaps in legal terminology and knowledge.
 7. The authors state plainly that the study did not isolate GenAI's independent contribution from the game format itself, and propose comparing otherwise equivalent games built with and without GenAI assistance.
 
 ## What was built, and where the model actually sat

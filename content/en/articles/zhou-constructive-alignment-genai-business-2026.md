@@ -31,7 +31,7 @@ institutions: [change-management]
 - **Qualitative case study** of GenAI adoption at a UK Russell Group university during its first year of implementation, part of a funded project supporting staff integration of [[ai-literacy|AI literacy]] into curricula.
 - **17 academic staff participants** (lecturers, teaching-focused academics, and program directors) selected via purposive sampling based on GenAI teaching experience and involvement in business-related modules; the unit of analysis was the individual educator and their pedagogical approach.
 - **24 business modules** spanning undergraduate and postgraduate levels (Levels 3–7) across areas such as strategic management, marketing, [[sustainability]], consumer behavior, financial reporting, and data analytics.
-- **Data collection:** Semi-structured interviews via Microsoft Teams covering module context, implementation approaches, perceived impacts, barriers and enablers, and reflections.
+- **Data collection:** Semi-structured interviews via Microsoft Teams covering module context, implementation approaches, perceived impacts, barriers and enablers, and [[reflection|reflections]].
 - **Analysis:** Inductive thematic coding with parent themes (use of GenAI, enablers, barriers, benefits, challenges) and iterative cross-case comparison to develop the integration typology.
 
 ## What this means for practice

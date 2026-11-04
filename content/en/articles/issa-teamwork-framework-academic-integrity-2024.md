@@ -39,7 +39,7 @@ methods: [mixed-methods-research]
 
 ## What the framework actually does
 
-The design turns the assessment into a supervised process with several observable checkpoints. The team project plan carries 40% of the unit and runs 12 weeks from orientation to submission, with the rubric, self/peer forms and presentation criteria released on day one. The 30-minute team meeting on the work breakdown and organizational breakdown structures is where formative feedback is given, and it is also where the integrity question is asked member by member. Requiring the presentation content — including the [[group-work|group-work]] artifacts such as the RACI matrix, critical path and risk register — means each student has to speak to their own role.
+The design turns the assessment into a supervised process with several observable checkpoints. The team project plan carries 40% of the unit and runs 12 weeks from orientation to submission, with the rubric, self/peer forms and presentation criteria released on day one. The 30-minute team meeting on the work breakdown and organizational breakdown structures is where formative feedback is given, and it is also where the integrity question is asked member by member. Requiring the presentation content — including the [[group-work]] artifacts such as the RACI matrix, critical path and risk register — means each student has to speak to their own role.
 
 That is the paper's real argument: the assessment asks for something a model cannot hand over intact, because the student has to explain and defend a share of the work in front of the instructor who assigned it. Whether or not AI was used, the meeting is where the instructor finds out what the student knows.
 

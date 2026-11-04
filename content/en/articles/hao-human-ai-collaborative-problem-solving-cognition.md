@@ -38,7 +38,7 @@ The authors caution that efficient semantic coupling does not equal deep learnin
 
 ## Design implications
 
-Drawing on the tension between system efficiency and regulatory engagement, the authors propose four design principles for educational AI: prioritize **dialogic tension** over seamless efficiency (e.g., strategic decoupling, counterexamples); enable **proactive co-regulation** (AI that monitors for premature consensus and prompts reflection); embed **metacognitive diagnostics and [[scaffolding]]** to keep the "mind-in-the-loop"; and cultivate a **synergistic co-constructive ecology** where AI manages an inner loop of questioning while instructors steer an outer loop of value and strategy.
+Drawing on the tension between system efficiency and regulatory engagement, the authors propose four design principles for educational AI: prioritize **dialogic tension** over seamless efficiency (e.g., strategic decoupling, counterexamples); enable **proactive co-regulation** (AI that monitors for premature consensus and prompts [[reflection]]); embed **metacognitive diagnostics and [[scaffolding]]** to keep the "mind-in-the-loop"; and cultivate a **synergistic co-constructive ecology** where AI manages an inner loop of questioning while instructors steer an outer loop of value and strategy.
 
 ## Key Findings
 

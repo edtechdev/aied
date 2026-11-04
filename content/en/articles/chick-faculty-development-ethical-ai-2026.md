@@ -29,7 +29,7 @@ confidence: high
 
 ## What the institute was, and how it was studied
 
-The design refused to treat AI as tool training: UDL as the inclusion frame, Bloom's Taxonomy to locate where AI helps and where it displaces a learning objective, design thinking as the route from theory to [[learning-design|course design]], plus [[tpack]] as the basis for the authors' "AIPACK" and Mezirow's transformative learning. Methodologically it is a [[qualitative-research|qualitative]] case study with survey components, framed as pragmatic [[constructivist|constructivism]] and analyzed with Braun and Clarke's thematic analysis. Evidence came from pre and post surveys, design worksheets, asynchronous [[metacognition|reflections]], capstone submissions and facilitator field notes. The lead authors were themselves the facilitators and kept a reflexive journal about that dual role.
+The design refused to treat AI as tool training: UDL as the inclusion frame, Bloom's Taxonomy to locate where AI helps and where it displaces a learning objective, design thinking as the route from theory to [[learning-design|course design]], plus [[tpack]] as the basis for the authors' "AIPACK" and Mezirow's transformative learning. Methodologically it is a [[qualitative-research|qualitative]] case study with survey components, framed as pragmatic [[constructivist|constructivism]] and analyzed with Braun and Clarke's thematic analysis. Evidence came from pre and post surveys, design worksheets, asynchronous [[reflection|reflections]], capstone submissions and facilitator field notes. The lead authors were themselves the facilitators and kept a reflexive journal about that dual role.
 
 ## What changed over six weeks
 

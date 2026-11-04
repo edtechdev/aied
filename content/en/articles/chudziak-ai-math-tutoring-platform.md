@@ -19,7 +19,7 @@ page_kind: [framework]
 
 ## Motivation
 
-The authors identify a core gap: current AI tutoring systems, particularly LLM-based tutors, tend to provide direct answers without encouraging deep reflection or incorporating structured [[pedagogy|pedagogical]] tools and strategies. This "reactive nature" is most problematic in [[math-education|mathematics]], where AI tutoring systems remain underdeveloped. The [[research-methods-aied|research]] question is: *How can AI tutoring systems move beyond reactive assistance to enable structured, individualized, and tool-assisted learning experiences?*
+The authors identify a core gap: current AI tutoring systems, particularly LLM-based tutors, tend to provide direct answers without encouraging deep [[reflection]] or incorporating structured [[pedagogy|pedagogical]] tools and strategies. This "reactive nature" is most problematic in [[math-education|mathematics]], where AI tutoring systems remain underdeveloped. The [[research-methods-aied|research]] question is: *How can AI tutoring systems move beyond reactive assistance to enable structured, individualized, and tool-assisted learning experiences?*
 
 ## System Architecture
 
