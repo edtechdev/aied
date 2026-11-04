@@ -1,7 +1,7 @@
 ---
 title: "Dear Gemini: Agency, Peer Review, and Critical AI Literacies in Student Writing Ecologies"
 created: "2026-11-04T17:21:00-05:00"
-updated: "2026-11-04T17:21:00-05:00"
+updated: "2026-11-04T18:11:18-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/stillman-dear-gemini-pairr-critical-ai-literacies-2026.md']
@@ -33,7 +33,7 @@ verified: [citation, numbers, links]
 
 1. **Students mostly put the chatbot at the periphery of their writing process.** The authors' central pattern — consistent across courses and student backgrounds — is that students treated chatbot feedback as advisory and supplementary rather than authoritative, a positioning the paper reads through van Lier's writing ecology and Cooper's ecology of writing. Feedback remained a triangulated practice among peers, instructors, and self-review.
 
-2. **The role vocabulary splits, and the split is the evidence.** In the 2024 reflections, tutor (28.6 percent) and collaborator (23.1 percent) accounted for most of those who accepted the prompt's anthropomorphic options; 9.9 percent called it a tool or resource, 7.7 percent compared it to friends or peers, 7.7 percent to a robot or computer, 6.6 percent to instructors, 3.3 percent invented a critic/writer schema, 2.2 percent to mentors or advisors, 2.2 percent to an assistant, 1.1 percent to a "friendly expert," and 7.7 percent fell under other.
+2. **The role vocabulary splits, and the split is the evidence.** In the 2024 [[reflection|reflections]], tutor (28.6 percent) and collaborator (23.1 percent) accounted for most of those who accepted the prompt's anthropomorphic options; 9.9 percent called it a tool or resource, 7.7 percent compared it to friends or peers, 7.7 percent to a robot or computer, 6.6 percent to instructors, 3.3 percent invented a critic/writer schema, 2.2 percent to mentors or advisors, 2.2 percent to an assistant, 1.1 percent to a "friendly expert," and 7.7 percent fell under other.
 
 3. **Naming the machine as a machine is treated as a literacy outcome, not a deficit.** Students who called the chatbot "still just a program" or "a computer giving me advice" are read as holding the more developed position, and the authors note that low-stakes, nonjudgmental machine feedback can be a benefit for students anxious about human readers.
 
@@ -43,7 +43,7 @@ verified: [citation, numbers, links]
 
 6. **The academic-integrity results are modest and honestly bounded.** In the small writing-intensive courses four of the authors taught in 2024 and 2025 there were no cases of suspected AI-related violations that required formal reporting, and the few incidents resolved in office-hour conversations. The authors state plainly that PAIRR does not eliminate dishonesty and that they have not formally assessed misuse.
 
-7. **The 2025 wave switched to Claude and produced signs of transfer.** The authors cite one student who arrived trusting Claude more than peers, then found the trust fading as peer reviewers demonstrated competence, and another who concluded that AI "removes the voice from my paper" and could be used for feedback instead of editing.
+7. **The 2025 wave switched to Claude and produced signs of [[transfer-of-learning|transfer]].** The authors cite one student who arrived [[trust-calibration|trusting]] Claude more than peers, then found the trust fading as peer reviewers demonstrated competence, and another who concluded that AI "removes the voice from my paper" and could be used for feedback instead of editing.
 
 ## What PAIRR actually is, procedurally
 
@@ -67,7 +67,7 @@ The paper's second analytic move is to read the role students choose against the
 
 ## Limitations
 
-- The analysis is qualitative and interpretive: thematic coding of reflections with a collaboratively built codebook in MaxQDA, with no comparison condition, no pre/post measure of writing quality, and no measure of AI literacy as an outcome.
+- The analysis is [[qualitative-research|qualitative]] and interpretive: thematic coding of reflections with a collaboratively built codebook in MaxQDA, with no comparison condition, no pre/post measure of writing quality, and no measure of AI literacy as an outcome.
 - The role percentages come from a single reflection question that offered anthropomorphic options, so they describe uptake of the prompt's vocabulary as much as students' independent conceptions; the authors say so.
 - The sample is described in aggregate — 13 sections, 10 courses, 654 students — with quoted reflections drawn from a small number of courses and no per-course or per-population breakdown, so the pattern's generality across disciplines, language backgrounds, and skill levels is asserted rather than tested.
 - Whether PAIRR reduced [[ai-misuse-learning-harm|AI misuse]] was never formally assessed; the integrity claim rests on the absence of formal reports in four authors' own small courses, which the authors present as the weak evidence it is.

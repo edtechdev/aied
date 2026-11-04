@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Education and the Erosion of Critical Democratic Citizenship"
 created: "2026-11-04T17:17:13-05:00"
-updated: "2026-11-04T17:17:13-05:00"
+updated: "2026-11-04T18:11:18-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026.md']
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Muñiz and Castro Samayoa (2026) argue that the rapid uptake of [[generative-ai]] in education threatens [[civic-and-political-education|democratic citizenship]], not because students cheat but because the tools remove the practice that [[critical-thinking]] requires. Drawing on Dewey's account of thinking as an "active, persistent and careful consideration" that improves only through exercise, and on Burbules's claim that democracies become "vulnerable to demagoguery and outright deception" when citizens stop practicing critical evaluation, they name three mechanisms of erosion: the disappearance of productive friction from learning, automation bias, and an efficiency frame that treats the point of education as task completion. Their remedy is a pair of literacies and a design commitment — critical AI and media literacies, and learning practices that prioritize process over product — so that the student, rather than a [[conversational-ai|chatbot]], remains "the chief epistemic authority and creative agent." The essay reports no empirical data.
+> **Synthesis:** Muñiz and Castro Samayoa (2026) argue that the rapid uptake of [[generative-ai]] in education threatens [[civic-and-political-education|democratic citizenship]], not because students cheat but because the tools remove the practice that [[critical-thinking]] requires. Drawing on Dewey's account of thinking as an "active, persistent and careful consideration" that improves only through exercise, and on Burbules's claim that democracies become "vulnerable to demagoguery and outright deception" when citizens stop practicing critical evaluation, they name three mechanisms of erosion: the disappearance of productive friction from learning, automation bias, and an efficiency frame that treats the point of education as task completion. Their remedy is a pair of literacies and a design commitment — critical AI and media literacies, and learning practices that prioritize process over product — so that the student, rather than a [[conversational-ai|chatbot]], remains "the chief epistemic authority and creative [[agency|agent]]." The essay reports no empirical data.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ verified: [citation, numbers, links]
 
 6. **The political stakes are argued, not measured.** Authoritarian governments, the authors write, flourish when people cannot evaluate truth claims, and regimes have historically suppressed literacy to that end. They marshal evidence from elsewhere — a correlation between generative AI use and weaker critical thinking, strongest among participants aged 17–25; cognitive debt among learners writing with a model; consultants "falling asleep at the wheel" with high-quality automation; and workers with higher confidence in the tools exerting less critical thinking effort — alongside surveillance and manipulation findings from Feldstein and Coeckelbergh's account of technofascism.
 
-7. **The remedy is two literacies and a change in how learning is judged.** Media and information literacy, a [[ai-literacy|critical AI literacy]] that teaches how these models work and why they fail, and assessment that rewards visible process: probe the tools as a researcher rather than use them as a customer, keep the student as the author of the thinking, and treat the technology as something to be overseen rather than trusted.
+7. **The remedy is two literacies and a change in how learning is judged.** Media and information literacy, a [[ai-literacy|critical AI literacy]] that teaches how these models work and why they fail, and [[assessment|assessment]] that rewards visible process: probe the tools as a researcher rather than use them as a customer, keep the student as the author of the thinking, and treat the technology as something to be overseen rather than trusted.
 
 ## Why critical thinking is treated as democratic infrastructure
 
@@ -53,7 +53,7 @@ Their honest concession matters for how the page should be read. They do not arg
 
 ## How the erosion actually works
 
-Three causal stories are braided together, and separating them is useful because each implies a different remedy. The friction story says difficulty is productive and its removal is a cost, not a saving; the remedy is designing for effort. The automation story says people over-trust automated output, including fluent output; the remedy is teaching the tool's failure modes explicitly. The framing story says the vocabulary of efficiency redefines what education is for; the remedy is assessment and institutional messaging that value the process.
+Three causal stories are braided together, and separating them is useful because each implies a different remedy. The friction story says difficulty is productive and its removal is a cost, not a saving; the remedy is designing for effort. The automation story says people [[trust-calibration|over-trust]] automated output, including fluent output; the remedy is teaching the tool's failure modes explicitly. The framing story says the vocabulary of efficiency redefines what education is for; the remedy is assessment and institutional messaging that value the process.
 
 A fourth story sits underneath: the capacities Aoun calls robot-proof — critical thinking, systems thinking, and cultural agility — are exactly the ones that practice builds and delegation does not. The authors treat that as a reason developmentally appropriate sequencing matters, not as a reason to ban tools.
 

@@ -1,7 +1,7 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T17:37:01-05:00"
-updated: "2026-11-04T17:37:01-05:00"
+updated: "2026-11-04T18:11:18-05:00"
 type: resource
 summary: "Open AI infrastructure from Mark Zuckerberg and Priscilla Chan's education initiative: a knowledge graph of standards, curricula and learning science data, evaluators for judging LLM output, and model-agnostic agent skills for teacher workflows."
 url: https://learningcommons.org/
@@ -25,11 +25,11 @@ ai_assist:
     agent: hermes-agent
 ---
 
-**Learning Commons** is Mark Zuckerberg and Priscilla Chan's education initiative, launched in 2025 to carry the Chan Zuckerberg Initiative's learning-science work into the infrastructure that edtech products are actually built on. Its argument is infrastructural rather than pedagogical: research exists, academic standards exist, and high-quality curricula exist, but they sit in separate systems, so developers build on whatever is easiest to reach. The organization publishes three open tools on GitHub — a Knowledge Graph, a set of Evaluators, and Agent Skills — and operates a platform that adds Curriculum Sync for loading curricula into a learning management system.
+**Learning Commons** is Mark Zuckerberg and Priscilla Chan's education initiative, launched in 2025 to carry the Chan Zuckerberg Initiative's learning-science work into the infrastructure that edtech products are actually built on. Its argument is infrastructural rather than pedagogical: research exists, academic standards exist, and high-quality curricula exist, but they sit in separate systems, so developers build on whatever is easiest to reach. The organization publishes three open tools on GitHub — a Knowledge Graph, a set of Evaluators, and [[agentic-ai|Agent Skills]] — and operates a platform that adds Curriculum Sync for loading curricula into a [[edtech-platform|learning management system]].
 
 ## What you can do with it
 
-The **Knowledge Graph** models academic standards, curricula and learning-science research as entities and relationships under one shared schema, so a tool can align generated content to a standard without building its own data pipeline. The **Evaluators** measure attributes of LLM output through a learning-science lens — text complexity, [[feedback]], academic standards alignment and durable skills — and ship with Python and TypeScript SDKs, published on npm and PyPI, for scoring generated content or comparing candidate models. **Agent Skills** package instructions, references and guardrails for common teacher workflows in an open, model-agnostic format: a check for understanding, tiered lesson differentiation, standards-aligned lesson plans, and lesson preparation. In practice the graph is what makes the other two credible: content alignment is the claim, and the graph is the reference it is checked against.
+The **Knowledge Graph** models academic standards, curricula and learning-science research as entities and relationships under one shared schema, so a tool can align generated content to a standard without building its own data pipeline. The **Evaluators** measure attributes of [[llm|LLM output]] through a learning-science lens — text complexity, [[feedback]], academic standards alignment and durable skills — and ship with Python and TypeScript SDKs, published on npm and PyPI, for scoring generated content or comparing candidate models. **Agent Skills** package instructions, references and guardrails for common teacher workflows in an open, model-agnostic format: a check for understanding, tiered lesson differentiation, standards-aligned lesson plans, and lesson preparation. In practice the graph is what makes the other two credible: content alignment is the claim, and the graph is the reference it is checked against.
 
 ## Who it is for
 
@@ -43,5 +43,7 @@ Being open in [[open-source|source]] does not make the data open. The Knowledge 
 
 - [[curriculum-design]] — the graph exists to align generated content to standards and curricula
 - [[open-source]] — MIT and Apache-2.0 code with per-dataset data licensing
-- [[educational-nlp]] — evaluators as a measurement layer over LLM output
+- [[educational-nlp]] — the evaluators are a text-measurement layer over LLM output
+- [[agentic-ai]] — skills that package a workflow for a model to carry out
+- [[edtech-platform]] — Curriculum Sync loads curricula into a learning management system
 - [[llm]] — the target of the evaluation and the consumer of the skills
