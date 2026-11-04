@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 223 concepts, 2003 articles, and 42 FAQs.
+> Complete text of 223 concepts, 2011 articles, and 42 FAQs.
 
 # Concepts
 
@@ -1197,6 +1197,8 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 
 The concept rests on the evidence that AI misuse actively harms durable learning — the performance–learning gap documented in [[ai-misuse-learning-harm]] — even while inflating immediate performance. Interventions therefore target the mechanisms of that harm: answer-copying, [[cognitive-offloading]], motivation erosion, and learning displacement. They are not mutually exclusive; a robust approach combines a structural floor with educative capacity-building.
 
+The mechanism by which misuse forms now has a measured chain behind it. [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] surveyed 600 undergraduates and found perceived cognitive load predicting cognitive offloading at β = 0.844 in the low-monitoring group and β = 0.840 in the high one. Offloading then predicted overreliance on AI feedback at β = 0.396 and β = 0.506 respectively, with indirect effects of 0.335 [0.069, 0.611] and 0.426 [0.149, 0.648]. Load also predicted overreliance directly (β = 0.560 and 0.419), so offloading is a partial mediator, and the antecedent a structural lever can attack is the load itself.
+
 ### Why structural levers matter most
 
 Interventions can be sorted by **causal evidence × structural reach × scalability × [[sustainability]]**. On this basis, the two *structural* levers rank highest because they work whether or not students choose the right behavior — they constrain the environment rather than depending on internal motivation. The *educative* levers are essential but only effective when students buy in, so they are treated as the second tier despite their conceptual promise. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] push the structural argument up a level, treating governance rather than student behavior as the binding constraint and proposing a 130-item integrity indicator framework so that academic governors can see whether assessment is authentic, whether students are known individually by the teachers who assess them, and whether integrity features in induction and orientation. Their reforms target governance architectures, people, and [[ai-technologies|technologies and resources]], and they propose borrowing [[guardrails|red teaming]] from cyber security to expose assessment vulnerabilities before students find them — a reminder that the structural floor is maintained by institutions that need both the information and the will to maintain it.
@@ -1312,6 +1314,7 @@ Educative levers look different again once integrity is treated as a practice to
 
 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps
+- [[guo-overreliance-genai-feedback-2026]] — Cognitive load runs through offloading into overreliance, with monitoring changing the route
 
 ---
 
@@ -8135,6 +8138,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] gives the suppression account a preregistered causal test (N = 317) against worksheets. Disorganization rose by 0.84 (95% credible interval 0.47 to 1.21) and was the clearest effect in the model, while deep processing fell through a chain running from offloading to critical thinking rather than directly. The author names the state cognitive dormancy, in which monitoring and strategy selection go quiet while processing continues, and locates its cause in the affordances of the environment rather than in the learner.
 
+**Monitoring changes the route more than it blocks the path.** [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] split 600 undergraduates by a monitoring item and estimated each group separately: load predicted cognitive offloading at β = 0.844 for low monitors and β = 0.840 for high, effectively the same. Offloading predicted overreliance at 0.396 and 0.506, and the direct load path ran 0.560 and 0.419. Dependence among stronger monitors therefore traveled more through offloading and less directly. These are separate models, not a formal multi-group test.
+
 ## The Engagement–Motivation Distinction
 
 Scheu et al. (2026) found a critical split:
@@ -8253,6 +8258,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: an experimental account of suspended metacognitive engagement and rising disorganization (Braun 2026)
 - [[ai-metacognition-three-level-meta-analysis-2026]] — Three-level meta-analysis: pooled g = 0.624, falling to non-significance for accuracy-rated monitoring (Li et al. 2026)
 - [[fan-metacognitive-offloading-sync-model-2026]] — SYNC model: metacognitive offloading vs. onloading, and task performance decoupled from durable learning (Fan et al. 2026)
+- [[guo-overreliance-genai-feedback-2026]] — Monitoring does not block the offloading path so much as reroute it
 
 ---
 
@@ -10898,6 +10904,7 @@ As AI transforms occupations, education's role in career development has broaden
 
 - **Readiness tracked engagement, not threat level.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], the most AI-anxious profile still reported the highest career crafting (4.222) and self-perceived employability (3.964), alongside the favorable profile that did not differ significantly — so anxiety level did not index career readiness.
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes. [[ai-literacy-graduate-employability-2026|Hendrawan and Lestari (2026)]] test it quantitatively with 455 final-year students in Jakarta: career adaptability carries a significant indirect effect (β = 0.173), and growth mindset does not moderate the path at all, so adaptability rather than mindset does the work.
+- **A construct map, not a measured pathway.** [[kong-ai-employability-cognitive-engagement-2026|Kong and Zhang (2026)]] read 46 publications as a critical narrative review and place three learning processes between AI-supported learning and employability: cognitive engagement with self-regulation, self-efficacy with motivational regulation, and career adaptability as the bridge to career exploration. They classify career adaptability as a career-development resource, not an employment outcome. Because the synthesis collects no data of its own, it offers testable propositions rather than an effect size, and every figure it reports belongs to an included study. A twelve-week UK module with 120 non-STEM students, for instance, associated AI capital with employment status six months after graduation, which a non-randomized single-course design cannot attribute to the course.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
 - **Employers respond to the signal, not only to the skill list.** [[boyd-swan-employer-responses-genai-2026|Boyd-Swan and Reynolds (2026)]] randomized about 1,750 US hiring professionals across two framings of [[student-ai-interaction|student AI use]] before they rated otherwise similar resumes. Framing AI as an assistive tool raised concern only modestly and did not penalize applicants; framing it as a substitute for student effort and ability lowered interview likelihood and, more sharply, willingness to negotiate salary, with high-GPA applicants taking the larger penalties. Both treatment groups named in-person testing as the remedy that reassured them, which makes readiness depend on whether a credential still carries evidence employers will accept.
 - **AI-free hiring screens stop certifying what the work requires.** In interviews with 23 Indian engineering students and recent graduates, all but one used AI to prepare for placement screens that excluded it while graduates described workplaces that expected AI from the first day, so on signaling theory a CGPA produced with AI help no longer separates candidates by cost ([[ai-free-gates-engineering-students-india-2026|Goutham & Gu (2026)]]).
@@ -10950,6 +10957,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
 - [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment
+- [[kong-ai-employability-cognitive-engagement-2026]] — A narrative review's construct map from AI-supported learning to employability
 
 ---
 
@@ -11647,6 +11655,8 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
+
+- **Prompt literacy is a perceived capability, and it still predicts engagement.** In 829 design students across 40 intact classes, self-reported prompt literacy — six adapted self-report items, not observed prompting — predicted learning [[student-engagement|engagement]] at β = 0.539, 95% CI [0.473, 0.595] ([[han-prompt-literacy-ai-dependence-design-2026|Han and Cao, 2026]]). The association held regardless of functional dependence (p = 0.396) or emotional dependence (p = 0.941). Only cognitive dependence, substituting AI judgment for one's own, clearly thinned it.
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
 - **Vague prompts leave a trace in the dialogue.** The lower-quality group's signature was a self-repeating clarification loop (IC→IC, Z = 3.25), traced to vague prompts and AI misreadings, and carrying the study's largest frustration gap (2.12 vs 3.82); prompt debugging on authentic logs targets it as it happens ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
@@ -11747,6 +11757,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vague prompts produced self-repeating clarification loops with the largest frustration gap
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Prompt engineering competence as an equity pathway, with a cross-model scaffolding experiment (Li et al. 2026)
+- [[han-prompt-literacy-ai-dependence-design-2026]] — Prompt literacy as a perceived capability that still predicts engagement
 
 ---
 
@@ -15033,6 +15044,10 @@ Task characteristics fed fit at β = 0.322 and technology characteristics at β 
 
 The methodological addition is the more transferable part. A multilayer-perceptron network reproduced the PLS-SEM importance ranking in all four models. Necessary condition analysis then found only two floors: self-efficacy for usefulness (d = 0.125, p = 0.015) and attitude for intention (d = 0.132, p < 0.001). Attitude at 22.1%, 34.3% and 46.4% of its scale was required for intention at 80%, 90% and 100%, so attitude behaves as a gate rather than a weight, which is a different claim from a path coefficient of 0.388. The caution sits in the outcome: R² = 0.150 and Q² = 0.011 for intention say the ten hypothesized paths leave most of the variance elsewhere.
 
+**Design features upstream of the beliefs, and importance that is not necessity.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin and Qing (2026)]] put six system features in front of the two TAM beliefs for 301 Chinese university students, borrowing a stimulus–organism–response frame. Personalization and interactivity moved perceived usefulness alone, while intelligence and content completeness moved ease of use alone. Responsiveness moved both; anthropomorphism moved neither. The model explained R² = 0.244 of intention (SRMR = 0.033), with ease of use ahead of usefulness on intention (β = 0.340 against 0.265). Ten-fold cross-validated network importance agreed, ranking ease of use at 100% against 84.70% for usefulness.
+
+Necessary condition analysis then separated influence from requirement. Ease of use, the top-ranked predictor, failed outright (d = 0, p = 0.592). Usefulness was necessary but small (d = 0.027, p = 0.011). The authors read the split as a caution against treating a path coefficient as a floor. A strong coefficient says a unit of ease buys intention on average; only necessity says whether the other belief can be absent.
+
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -15093,6 +15108,7 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
 
 ---
 
@@ -17412,6 +17428,8 @@ Stage and performance technology is where AI-assisted instruction has been desig
 
 Text-to-image tools are the case where the studio's iterative workflow is most directly at stake, and the evidence is not a simple story of gain or loss. [[t2i-competence-paradox-2026|Liu, Meng and Zhang (2026)]] surveyed 417 art and design students alongside instructor focus groups and interviews, finding that performance expectancy, social influence, novelty value and creative competence all positively predicted intention to use text-to-image tools, while effort expectancy and facilitating conditions predicted negatively — which they read as shortcut-oriented use in coursework where ease and availability enable quick output rather than sustained engagement. Their competence paradox is the notable result: creative competence supports intention but also predicts more selective, restrained actual use, as students weigh authorship, originality and skill preservation against efficiency. They argue for pedagogy addressing [[ai-literacy|AI literacy]] around creative process, prompt crafting and output evaluation, with studio process and effort as the assessed object.
 
+The adoption question has a discipline-specific answer in [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]], who surveyed 450 art majors at eight Zhejiang institutions with a UTAUT model extended by [[trust]]. Trust was the strongest path to behavioral intention (β = 0.425), ahead of social influence (0.155), while metacognitive control ran more directly to intention (β = 0.146) than to trust (β = 0.099). The authors read that as this discipline's stake: art's stopping rules are unclear, so holding creative agency means deciding repeatedly what to keep, revise or discard. A randomized follow-up with 80 students had blinded experts rate generated images, and prompted students scored higher on semantic content (d = 0.67), visual style (d = 1.30) and spatial composition (d = 0.63).
+
 [[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]] turns critique into a replicable method: three epistemic games — Interpret, Interrogate and Expose — move studio discussion from impressionistic reaction to warranted bias hypotheses, with a BiasSlot rule varying one bias cue while a constant motif stays fixed.
 
 Digital media production shows what a structured process can do. [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] studied a 15-week project-based digital storytelling capstone, "Creative Shanzhou", in which 426 final-year undergraduates, guided by 48 mentors at roughly a 1:9 ratio, translated local cultural heritage into [[multimodal]] narratives. Expert ratings of the 92 resulting works were strongest on novelty (M = 4.21, SD = 0.72), followed by effectiveness (3.96) and wholeness (3.68), with 43% of projects scoring below 3.5 on wholeness — students generated original ideas more successfully than they integrated them. In a 31-student Animation subgroup, figural creative-thinking scores rose from 77.23 to 94.68 (mean difference 17.45, t(30) = 4.55, p < .001, Cohen's d = 0.82). Across the analyzed projects AI served as information organizer, visual reference, ideation aid and editing tool, while students retained topic selection, narrative interpretation, cultural meaning-making and final decisions; the highest-scoring example attributed its coherence to sustained human engagement with source material rather than AI polish. The project ended in a three-day public exhibition, and 31 works were taken up by the local Cultural and Tourism Bureau.
@@ -17488,6 +17506,7 @@ Two other findings complicate any simple story of generative tools as an equalis
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Disability-led design of tactile and kinesthetic string instruction for blind and low-vision musicians (Shi et al. 2026)
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-assisted VR instruction for stage lighting, and the gap between expert and novice representations (Liang et al. 2026)
 - [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemic Games for Interpreting Text-to-Image Models (Foka 2026)
+- [[zhu-creative-agency-trust-genai-art-2026]] — Art students' creative agency, trust and expert-rated output quality
 
 ---
 
@@ -17521,6 +17540,8 @@ It is also distinct from [[design-thinking]], a human-centered [[problem-solving
 - **Adoption is frequent, uneven across the process, and suspicious.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] surveyed 280 Politecnico di Milano design students and read 100 Masters AI-use journals: 71% used GenAI daily or weekly, 65% distrusted it, 85% modified its output. Use clustered in research and writing — editing writing 77.5%, finding information 74.5%, brainstorming 68.0% — with whole-assignment use rare (18.6%). Ownership largely survived: 31% reported lost ownership or creative agency, and only prototype generation was significantly associated with it. Planning and interpreting primary research stayed with students, which the authors read as evidence that students may not count research as part of the creative process.
 
 - **Intention is gated by attitude and shaped by task fit.** A survey of 405 design graduate students at Chinese universities modeled intention with an integrated [[technology-acceptance-model|TAM]]–Task–Technology Fit framework ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]). Attitude was the necessary condition for intention (d = 0.132, p < 0.001), with 22.1% of the attitude scale required for intention at 80%. Fit fed attitude at β = 0.224, beside perceived usefulness (0.376) and ease of use (0.185). The characteristics of the studio task drove fit most (β = 0.322), which is the measured form of what the bullets above describe qualitatively: what students judge is whether the tool matches the work in front of them. Perceived enjoyment raised ease of use but not usefulness (β = −0.033, p = 0.483), and the model left R² = 0.150 of intention explained.
+
+- **Dependence type decides whether prompting capability becomes engagement.** [[han-prompt-literacy-ai-dependence-design-2026|Han and Cao (2026)]] surveyed 829 design students in 40 intact classes: self-reported prompt literacy predicted [[student-engagement|learning engagement]] (β = 0.539), and engagement predicted [[self-efficacy|creative self-efficacy]] (0.618) more strongly than creative personal identity (0.474). The literacy–engagement link weakened only under cognitive dependence (B = −0.155), with simple slopes of 0.607 and 0.297; functional (p = 0.396) and emotional (p = 0.941) dependence did not moderate it.
 
 - **The net effect is divergence rather than uplift.** [[ai-mediated-cognitive-divergence-2026|Crolla, Xia & Jiang (2026)]] drew on 24 interviews and a 32-instructor survey in a built-environment faculty to describe *cognitive divergence*: AI amplifies prior differences, letting stronger students extend reasoning while weaker ones delegate formative work and produce coherent outputs without understanding — a "false sense of capability" that collapses under questioning. Loss of process visibility, in a field that relied on visible process as its primary evidence of learning, and erosion of the frictional stages that act as [[desirable-difficulties]] compound it. Faculty positivity tracked [[pedagogy|pedagogical]] relevance (β = 0.534, p = .004), not seniority, and the faculty's mitigations do not scale past studio-sized cohorts — which argues for institutionalized process-evidence requirements. Limits: single institution, n = 32, faculty perception.
 - **Disruption awareness is not simply demoralizing.** Among 568 Chinese design students, awareness that AI may replace parts of design work was positively associated with self-rated innovation competence (β = 0.375), through a promotion-focus path of 0.0929 and a prevention-focus path of -0.0884 that nearly canceled each other ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]). Every measure came from a single [[self-report-measures|self-report]] wave.
@@ -17588,6 +17609,7 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 
 - [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — attitude as the necessary gate on design students' intention to use AI agents, with task–technology fit as a second path (Chu & Liu 2026)
+- [[han-prompt-literacy-ai-dependence-design-2026]] — Dependence type decides whether prompt literacy becomes engagement
 
 ---
 
@@ -21730,6 +21752,8 @@ A 2026 appraisal of 33 teacher AI literacy instruments shows where instrument de
 
 Automated item selection can shorten an instrument without reshaping it: ant colony optimization over a merged two-wave sample (N = 305, 342) yielded a 12-item short form correlating r = 0.910–0.944 with the full scale on each dimension, though two items per dimension cover a narrower content range ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
+- **Validating a scale for an AI-specific construct.** [[chang-ai-cognitive-offloading-scale-2026|Chang (2026)]] walks the sequence for [[cognitive-offloading]]: 26 candidate items reduced to 20 across three functions (5 memory, 10 assistive, 5 thinking), with Study 1 on N = 665 reporting KMO = 0.965 and χ²(325) = 8904.89 before extraction. Study 2 on N = 1,123 fitted a second-order model at CFI = 0.951, TLI = 0.944, RMSEA = 0.047 and SRMR = 0.036, with CR 0.840–0.906, AVE 0.501–0.570, α = 0.944 and one-month retest 0.937 (n = 99). Full scalar invariance across gender held, with ΔCFI ≤ 0.001. The limits belong to the same account: no CVI, no HTMT and no latent-factor correlations were reported, so discriminant and content validity are asserted rather than demonstrated. The first-order three-factor model also posted SRMR = 0.158 against 0.051 for the one-factor model, and several items index attitudes toward reliance rather than behavior.
+
 ## Issues and limitations: what measurement can miss or get wrong
 
 Educational measurement is powerful but fallible. Understanding its failure modes is essential to reading AI-in-education evidence critically — and to recognizing where an apparent learning gain or construct claim may be an artifact of measurement rather than a real effect.
@@ -21834,6 +21858,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[llm-benchmark-secondary-science-topics-2026]] — A synthetic benchmark's measurement quality rests on its generation pipeline
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Difficulty without discrimination
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Same-construct pairs disagree in 41.2% of cases, and performance measures need their own validity argument (Fan et al. 2026)
+- [[chang-ai-cognitive-offloading-scale-2026]] — Validation of the AI Cognitive Offloading Scale, with the validity checks it omits
 
 ---
 
@@ -21992,6 +22017,8 @@ A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-
 
 A two-phase systematic review puts a rate on that divergence at the level of conclusions: of 51 same-construct pairs from 47 reports, 30 agreed, 11 disagreed and 10 were mixed. Disagreement ran both ways: five contrasts paired a null self-report result with a positive performance result, against two the reverse ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
+One university library put both streams against the same propositions and found them pointing apart. Annual print loans fell from 406,120 in 2017 to 46,339 in 2025 and unique borrowers from 30,033 to 7,278, but the decline began before the GenAI period, and the January 2023 breakpoint showed no level or slope change. The survey put the explanatory weight on constructs: deep-reading demand predicted print continuance intention at H1 β = 0.908, while the hypothesized substitution path was near zero (H4 β = 0.038, *p* = 0.631), and platform AI features were 0.53% of operations in the first half of 2026. Respondents could not be linked to the loan records under data-governance rules, so the divergence can be read only at the population level, not person by person ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
+
 The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one this page keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
 
 Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and [[community-of-inquiry|social presence]] to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study. Their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or [[learning-analytics|learning analytics]]. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
@@ -22117,6 +22144,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership separated whole-essay delegation from everything else, while the trace separated much more (Jelson et al. 2026)
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] - perceptions reported in 32 of 66 studies against 8 that measured inquiry skills
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence
+- [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions
 
 ---
 
@@ -25060,6 +25088,8 @@ Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management
 
 **Most institutions cannot name who owns AI.** Among 387 students and staff at institutions in 13 countries, only 17% knew of a designated AI-management responsibility, while 71% of the remainder wanted one and expected it to combine training, ethical oversight, data security and strategy ([[kaze-ai-management-higher-ed-2026|Kaže et al. (2026)]]).
 
+**A proposed path from clarity to conduct.** [[li-su-teacher-genai-decision-making-2026|Li and Su (2026)]] model how institutional clarity might reach the classroom. Governance clarity, meaning rule clarity plus role clarity, is proposed as the contextual antecedent; perceived accountability as the state it works through; and decision uncertainty as the condition it acts on, reducible in its procedural form but not in genuine case uncertainty. AI literacy is proposed as a moderator, and the authors offer five testable propositions and one configurational expectation. This is a Hypothesis-and-Theory paper that collects no data, and its authors describe the paths as propositions, not empirically established effects.
+
 ### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to [[change-management|institutional change]] and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
@@ -25142,6 +25172,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegation, evidence and access: what agentic AI changes in university assessment governance (Wong & Sun 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI prototypes and school pilots as governance machinery that prefigures a chosen future (Williamson et al
+- [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
 
 ---
 
@@ -27661,6 +27692,10 @@ Trust in AI behaves as a pathway from appraisal to reliance rather than a single
 
 A structural model gives that bridging role an empirical test. In [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]]'s survey of 642 university students, contextual support predicted trust calibration (β = 0.56), trust calibration predicted [[collaborative-learning|collaborative]] [[regulation]] (β = 0.49) and perceived [[transfer-of-learning|transfer]] gains (β = 0.22), and the direct path from contextual support to gains was not significant.
 
+**Trust ahead of every classic acceptance path.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] added trust to UTAUT in a survey of 450 art-and-design students in Zhejiang and found it the strongest direct predictor of intention to use [[generative-ai|generative AI]] (β = 0.425). Social influence (0.155), metacognitive control (0.146) and performance expectancy (0.128) followed it. Social influence also carried the largest path into trust (β = 0.262), and 42.1% of its total association with intention ran through trust.
+
+The construct is thinner than the coefficient implies. It measures instrumental technology trust with an art-value supplement — stated confidence rather than calibrated reliability — and the two authorship items were dropped after forming their own factor in a 121-student pilot. A student can trust this model appropriately or indiscriminately, and the instrument cannot tell the two apart.
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their skepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
 
@@ -27771,6 +27806,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised switching to an incorrect AI position; withholding a recommendation suppressed it
 - [[trust-calibration-genai-collaborative-regulation-2026]] — A structural model gives that bridging role an empirical test
+- [[zhu-creative-agency-trust-genai-art-2026]] — Instrumental trust as the strongest predictor of GenAI intention for art students
 
 ---
 
@@ -54077,6 +54113,67 @@ Chan, C. K. Y. (2026). [*Cheating or not cheating? Rethinking AI-giarism and aca
 
 ---
 
+## [Development and Validation of the AI Cognitive Offloading Scale for Chinese College Students](https://edtechdev.github.io/aied/articles/chang-ai-cognitive-offloading-scale-2026/)
+
+> **Synthesis:** The AI Cognitive Offloading Scale (AI-COS) turns [[cognitive-offloading|cognitive offloading]] into a 20-item [[self-report-measures|self-report]] instrument for Chinese [[higher-ed|undergraduates]], organized by the cognitive function students hand to [[generative-ai|generative AI]] rather than by how often they use it. Two independent samples — 665 for exploration, 1,123 for confirmation — support a second-order model in which memory, assistive and thinking offloading are distinguishable functions of one general tendency, with CFI = 0.951, RMSEA = 0.047 and α = 0.944. The contribution is an operationalization, not a new theory: the three dimensions sit alongside existing demand-level and agency-based measures, and the paper states plainly that strict discriminant validity among them was never tested.
+
+## Key Findings
+
+1. The item pool began at 26 items, generated from literature review, theoretical analysis and review by five experts, and ended at 20. Three items (W16, W23, W25) were dropped for loadings below the 0.40 retention threshold and three (W8, W9, W10) for semantic redundancy.
+2. The final scale allocates 5 items to memory offloading (Items 1–5), 10 to assistive offloading (Items 6–15) and 5 to thinking offloading (Items 16–20), each rated on a 5-point Likert scale.
+3. Study 1 (N = 665; 312 male, 353 female; 11 incomplete responses excluded) produced KMO = 0.965 and a significant Bartlett test, χ²(325) = 8904.89, *p* < 0.001. Principal axis factoring with direct oblimin rotation retained three factors explaining 54.68% of cumulative variance, with loadings from 0.447 to 0.750.
+4. Study 2 (N = 1,123; 58 incomplete responses excluded) compared three models. The second-order model fitted best — CFI = 0.951, TLI = 0.944, RMSEA = 0.047, SRMR = 0.036 — against CFI = 0.886, TLI = 0.873, RMSEA = 0.071, SRMR = 0.051 for the one-factor model and CFI = 0.940, TLI = 0.932, RMSEA = 0.052, SRMR = 0.158 for the first-order three-factor model.
+5. The three dimensions loaded on the higher-order construct at 0.868 (memory), 0.964 (assistive) and 0.866 (thinking), all *p* < 0.001. Composite reliability was 0.840, 0.906 and 0.869, and average variance extracted was 0.501, 0.507 and 0.570.
+6. Total-scale reliability was α = 0.944, split-half = 0.932 and test-retest = 0.937 over a one-month interval (n = 99). Subscale alphas ranged from 0.834 to 0.912, split-half coefficients from 0.845 to 0.910 and retest coefficients from 0.833 to 0.899.
+7. Criterion correlations ran in the expected directions. Total scores correlated 0.619 with AI dependence and −0.234 with metacognitive monitoring, with subscale values of 0.489, 0.593 and 0.567 and −0.245, −0.211 and −0.180 (all *p* < 0.001).
+8. Need for cognition separated the dimensions. The total score correlated −0.076 (*p* = 0.011) and assistive offloading −0.121 (*p* < 0.001), while memory (−0.046, *p* = 0.120) and thinking (0.006, *p* = 0.841) were not significantly related.
+9. Full scalar invariance across gender held. Configural fit was CFI = 0.940, TLI = 0.932, RMSEA = 0.063, SRMR = 0.040; metric constraints moved CFI by 0.001 and RMSEA by −0.008, and scalar constraints moved CFI by −0.001 and RMSEA by 0.005.
+
+## Where the instrument sits among existing offloading measures
+
+The paper's framing is unusually careful about precedence. Its introduction names two prior operationalizations — the AIBCO Scale of Jiang and Chen (2026), which splits offloading by cognitive-demand level into lower-order and higher-order forms, and Zhu et al. (2026), which splits it by whether students delegate core thinking or keep it as a scaffold — and declines to claim priority. The AI-COS instead classifies by the function delegated: storing and retrieving information, executing and organizing academic tasks, and judging or deciding.
+
+That choice has a practical payoff. A demand-level measure can tell you a student offloaded an *analyze* task; a function-based measure can tell you whether the AI did the analyzing or merely formatted the output. The assistive dimension is where this bites. It holds 10 of the 20 items and carries the highest second-order loading (0.964), so it is both the broadest domain and the one least sharply separated from the general tendency. Its items run from "let AI analyze complex logic for me" to "moderate reliance on AI is an inevitable trend" — analytical delegation and evaluative belief in the same subscale. A researcher treating assistive offloading as a clean behavioral measure should read Table 3 first.
+
+## What the factor structure does and does not establish
+
+The model comparison is the strongest part of the [[educational-measurement|psychometrics]], and also the part with an unremarked wrinkle. The second-order model wins on every index, which justifies reporting a total score while keeping dimension scores interpretable. But the first-order three-factor model's SRMR of 0.158 is worse than the one-factor model's 0.051, a pattern the paper does not discuss and one that makes the fit hierarchy less tidy than the summary implies. The second-order specification earns its place on theory as much as on fit.
+
+Two conventional validity steps are missing, and the authors say so rather than papering over them. No item-level or scale-level content validity index was computed during expert review, so [[assessment-validity|content validity]] rests on five reviewers' judgments plus the factor solution. No heterotrait-monotrait ratio and no latent-factor correlation matrix were reported, so the three dimensions' statistical distinctness is asserted from AVE values and the higher-order structure, not demonstrated against a discriminant-validity criterion. The conclusion states directly that "strict statistical discriminant validity among the three highly related dimensions should be examined further."
+
+The reliability coefficients are high enough to invite a second look rather than a doubt. An alpha of 0.944 across 20 items, with a first factor absorbing 44.394% of variance, is what a strong general factor looks like; that is consistent with the second-order model and also means the total score is mostly measuring one thing. The dimension scores are where the differentiated information lives.
+
+## What the criterion correlations say about the three functions
+
+The pattern is more interesting than "offloading is bad." All three dimensions tracked AI dependence positively and metacognitive monitoring negatively, with assistive offloading the strongest on dependence (0.593) and memory offloading the strongest on monitoring (−0.245). Effect sizes are modest for monitoring — between −0.180 and −0.245 — so the [[metacognition|metacognitive]] story is a consistent signal, not a strong one.
+
+Need for cognition is the discriminating variable, and the null results carry the argument. Students who enjoy effortful thinking reported less assistive offloading but not less memory or thinking offloading. The authors read this as evidence that willingness to invest cognitive effort attaches to particular functions rather than to offloading in general, which is exactly the claim a function-based instrument needs to support. They also refuse the causal reading: the design cannot say whether low need for cognition produces delegation or delegation erodes tolerance for difficulty.
+
+What the instrument adds to the [[cognitive-offloading]] literature, then, is measurability. Prior work in this knowledge base establishes that offloading can be compensatory or substitutive and that its meaning depends on regulation; the AI-COS supplies a scored way to ask *which* function a student has delegated, at a level of specificity that a usage-frequency or technology-acceptance survey cannot reach.
+
+## What this means for practice
+
+- **Researchers.** Treat the AI-COS as one lens, not the lens. If you need to compare function-level, demand-level and agency-based accounts in the same study, administer the AI-COS alongside the AIBCO or a dependent/autonomous measure, and report latent-factor correlations and HTMT that this validation did not.
+- **Researchers.** Use the total score for a general tendency and the three subscale scores when the question is about a specific function. Reporting only the total discards the differentiated pattern with need for cognition, which is the scale's most distinctive empirical result.
+- **Instructors.** The three dimensions imply three different conversations. Memory offloading is largely a study-strategy question; assistive offloading is a task-design question about how much of an assignment AI may execute; thinking offloading is where [[agency|intellectual agency]] is most directly at stake.
+- **Instructional designers.** Write assignment guidance that names the function, not the tool. "You may use AI to organise your sources but not to generate your argument" is a rule the scale's structure can actually evaluate.
+- **Institutions.** Survey results from this instrument are descriptive of self-reported tendency among Chinese undergraduates and should not be used for individual diagnosis, placement or misconduct findings; the paper makes no such claim and the validation would not support one.
+
+## Limitations
+
+- **Population.** Both samples were convenience samples of undergraduates at several Chinese universities, recruited through student and class groups. Graduate students, other national systems, vocational and part-time students, and students outside China were not validated, so cross-context use requires its own invariance testing.
+- **Design.** Both studies are cross-sectional. The factor structure cannot show that students move from memory to assistive to thinking offloading, and the criterion correlations cannot establish whether offloading changes monitoring, dependence or need for cognition, or the reverse.
+- **Self-report only.** Every item asks students what they do or believe. No learning logs, task performance, or behavioral trace data were collected, so the scale measures reported delegation rather than observed delegation, and shares the general gap between what students say about AI use and what they do.
+- **Discriminant validity.** With no HTMT and no latent-factor correlations reported, the three dimensions are empirically differentiated by AVE and second-order loadings alone. They correlate strongly enough that a stricter test could compress them.
+- **Content validity.** No CVI was computed, and item generation used literature, theory and expert review without interviews or focus groups, so the item pool reflects researchers' and experts' framing of offloading rather than students' own descriptions of it.
+- **Construct drift.** Several items index attitudes toward reliance ("an inevitable trend", "a smart strategy") rather than behavior, and the item set is tied to the generative AI tools and study norms of 2025–2026. Model capability and campus norms changing would date specific items.
+
+## Citation
+
+Chang, H. (2026). [Development and validation of the AI cognitive offloading scale for Chinese college students](https://doi.org/10.3389/fpsyg.2026.1884676). *Frontiers in Psychology, 17*, 1884676.
+
+---
+
 ## [Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework](https://edtechdev.github.io/aied/articles/chang-co-designing-ai-youth-relational-privacy-2025/)
 
 > **Synthesis:** Chang et al. (2025) argue that designers carry an [[ethics|ethical]] responsibility to engage youth — especially historically minoritized [[k-12]] students — as [[pedagogical-partnerships|design partners]] in AI tools from conception, and demonstrate this through the Learning Futures Workshop, a participatory [[qualitative-research|study]] that brought 30 historically minoritized youth into conversation with education and technology experts. The workshop surfaced students' hopes for expansive, [[collaborative-learning|collaborative]] possibilities with [[generative-ai|AI]] in classrooms, alongside a central tension around the data collected when [[agentic-ai|AI agents]] mediate collaboration. Analyzing workshop findings through [[privacy|Nissenbaum's]] contextual integrity framework, the authors identify three ethical commitments and derive a novel AI Relational Privacy ethical framework to guide the equitable design of AI-supported [[human-ai-collaboration|collaboration]] tools. The framework is operationalized in Community Builder (CoBi), a tool supporting students in building customized, ideal collaborative relationships. The paper argues that tools designed without students as partners risk being untrustworthy and [[equity-in-ai-education|inequitable]].
@@ -75661,6 +75758,61 @@ Guo, S., Chi, M., Qiao, F., & Patwardhan, V. (2026). [*Beyond Response Scoring: 
 
 ---
 
+## [Cognitive pressure, not AI access, drives undergraduates' overreliance on generative AI feedback](https://edtechdev.github.io/aied/articles/guo-overreliance-genai-feedback-2026/)
+
+> **Synthesis:** A survey of 600 undergraduates at one Chinese university models overreliance on [[generative-ai|generative AI]] feedback as a cognitive-resource pathway rather than a technology-acceptance one. Perceived cognitive load predicts [[cognitive-offloading]], offloading predicts overreliance, and load predicts overreliance directly as well. Splitting the sample by [[metacognition|metacognitive monitoring]] changes the mix of those pathways, not their existence: the load-to-offloading path is nearly identical in both groups, while the direct path is stronger for weaker monitors and the offloading path is stronger for stronger ones.
+
+## Key Findings
+
+1. The team distributed 760 questionnaires through the Credamo platform and retained 600 valid responses, a valid response rate of 78.95%. Participants were undergraduates at Ningbo University with prior experience using a generative AI tool for study, and data were collected between August 1 and August 25, 2026.
+2. The sample was 286 male students (47.67%) and 314 female students (52.33%), spread evenly across the four academic years. On the metacognitive monitoring item, 309 students (51.50%) formed the high group and 291 (48.50%) the low group.
+3. Students reported considerable load and considerable reliance. Perceived cognitive load items averaged 3.828 to 3.853 on the five-point scale, cognitive offloading items 3.575 to 3.832, and overreliance items 3.788 to 3.987; the highest single mean was OGF1 at 3.987 (SD = 0.845), the item about accepting AI feedback without checking it.
+4. Perceived cognitive load strongly predicted cognitive offloading in both groups, at β = 0.844 in the low-monitoring group and β = 0.840 in the high-monitoring group, both p < 0.001. This is the most stable relationship in the model, and the authors read it as evidence that task difficulty pushes students toward external support regardless of monitoring skill.
+5. Cognitive offloading predicted overreliance at β = 0.396 (p = 0.008) in the low-monitoring group and β = 0.506 (p < 0.001) in the high-monitoring group, so the offloading-to-dependence link was stronger among students who monitor themselves more.
+6. Perceived cognitive load also predicted overreliance directly, at β = 0.560 (p < 0.001) for low monitors and β = 0.419 (p < 0.001) for high monitors. The ordering reverses: students with weaker monitoring appear to move from pressure to dependence with less mediation.
+7. Bootstrap mediation with 2,000 samples confirmed the indirect path in both groups: 0.335 with a bias-corrected interval of 0.069 to 0.611 for low monitors, and 0.426 with an interval of 0.149 to 0.648 for high monitors. Neither interval includes zero, and offloading is a partial rather than full mediator.
+8. Measurement was adequate but not clean. Cronbach's alpha was 0.772 for perceived cognitive load, 0.803 for cognitive offloading and 0.805 for overreliance; the KMO value was 0.940 and the three factors explained 65.057% of variance. In the low-monitoring group, however, the average variance extracted values were 0.487, 0.481 and 0.470, all below the conventional 0.50 threshold.
+
+## How the model converts "cognitive pressure" into a testable chain
+
+The framework joins Cognitive Load Theory to Cognitive Offloading Theory. Load explains why a student wants relief from mental effort; offloading explains the act of handing part of the work to an external system. Neither alone accounts for the full sequence, because load does not say why the relief takes the form of AI and offloading does not say why pressure triggers it.
+
+The authors argue that generative AI changes the character of offloading. A calendar or a search engine stores and retrieves; a language model explains, evaluates and recommends. That difference lets students transfer not just peripheral memory work but the comprehension, judgment and feedback-appraisal steps that higher education is supposed to build. The outcome variable is defined accordingly, as the tendency to accept, follow or judge one's work mainly by AI feedback rather than by one's own analysis.
+
+All four constructs were measured with purpose-built items on a five-point Likert scale, since the authors judged existing scales tied to traditional tools or general technology use. Overreliance is captured by four items covering verification, decision dependence, independent thinking and external evaluation. That choice keeps the constructs close to the proposed mechanism, and it also means the dependent variable is a self-described habit rather than an observed behavior.
+
+## What the two-group split does and does not establish
+
+The comparison is the paper's most interesting move and its weakest inference. Students were divided by a single item asking whether they evaluate whether AI feedback matches their own understanding before accepting it, with responses of 1 or 2 labeled low and 3, 4 or 5 labeled high. A one-item grouping variable cannot represent monitoring's several components, and the authors say so.
+
+More importantly, the groups were not compared with a formal multi-group test. The paper reports separate structural models and reads differences in path coefficients as differences between groups, while acknowledging that these are patterns rather than confirmed contrasts. The low group's offloading path, at p = 0.008, is also the least precise estimate in either model. Treat the interaction as a hypothesis about where to look, not as an established moderation.
+
+A reporting slip makes the results harder to follow than they need to be. The hypotheses label load-to-overreliance as H1 and load-to-offloading as H3, but the results section attaches those labels the other way around. The coefficients themselves are consistent across text, tables and discussion, so the substantive story survives; the numbering does not.
+
+One control is worth noting. Gender predicted overreliance only in the high-monitoring group, at β = 0.089 (p = 0.028), and age and self-reported use frequency were not significant in either model. Use frequency failing to predict dependence is consistent with the paper's central claim that how students use AI matters more than how often.
+
+## What this means for practice
+
+- **Instructors.** Read dependence as a signal about task design before reading it as a character flaw. In this model the strongest path runs from perceived load to offloading, so a task that floods working memory will push students toward the tool whatever their monitoring habits. Sequencing complex work, or supplying partial structure, attacks the antecedent rather than the symptom.
+- **Instructional designers.** Build the evaluation step into the workflow instead of assuming it. The items that define overreliance describe students accepting feedback without checking it, so a required comparison between AI commentary and the student's own draft does more than a policy statement about critical use.
+- **Tool builders.** Offloading is the mechanism to instrument. A system that shows what it changed and why, and that asks the student to commit to a judgment before revealing its own, targets the mediating path rather than the direct one. That matters most for the students who monitor themselves well, since their dependence runs through offloading.
+- **Researchers.** Test the moderation properly. Separate models with different coefficients are not a group comparison, and a single-item grouping variable cannot carry a claim about metacognitive skill. A validated multi-item scale plus a formal multi-group model would turn this promising pattern into a finding.
+
+## Limitations
+
+- The design is cross-sectional, so the model's directional chain is a set of associations; students whose load, offloading and reliance reinforce each other over a term are not observed here.
+- All measures are self-reported on purpose-built items, leaving recall bias, social desirability and common-method variance unaddressed; no interaction logs, task performance or behavioral indicators were collected.
+- Metacognitive monitoring is a single item used to split the sample, which cannot capture monitoring's multiple components and may misclassify students near the cut.
+- The group comparison rests on differences in coefficients across separately estimated models rather than a formal test of between-group differences.
+- The sample comes from one comprehensive university in Zhejiang Province, recruited through one online panel with prior AI experience as an eligibility condition; disciplinary mix, institutional context and prior achievement are not modeled.
+- The hypothesis numbering in the results section does not match the hypotheses as stated, which complicates replication checks even though the reported coefficients agree with each other.
+
+## Citation
+
+Guo, Y., & Dong, P. (2026). [University students' overreliance on generative AI feedback in the learning process: the effects of perceived cognitive load, cognitive offloading, and metacognitive monitoring](https://doi.org/10.3389/fpsyg.2026.1998976). *Frontiers in Psychology, 17*, 1998976.
+
+---
+
 ## [When college students perceive GAI feedback as credible: the role of perceived GAI feedback credibility in promoting deep learning through cognitive engagement](https://edtechdev.github.io/aied/articles/guo-ren-gai-feedback-credibility-deep-learning-2026/)
 
 > **Synthesis:** Guo and Ren (2026) asked whether students' judgment that [[generative-ai|generative AI]] [[feedback]] is credible reaches deeper learning through cognitive engagement. The design is a cross-sectional survey: 506 undergraduates at 10 universities in Jinan, China, completed self-report scales once, and a structural equation model was fitted to that single wave. Credibility predicted engagement at β = 0.428, engagement predicted deep learning at β = 0.394, and a direct path of β = 0.356 remained, with an indirect effect of β = 0.168 (95% CI [0.115, 0.232]) that was 32.1% of a total effect of β = 0.524. The authors concede that the structural model was saturated and that its fit indices do not support the proposed ordering, and both mediator and outcome are self-reports. The study establishes a pattern of association at one moment, not a mechanism or change.
@@ -76155,6 +76307,62 @@ The review's most policy-relevant finding is a silence: across the ten most-cite
 ## Citation
 
 Hallström, J., Chiu, T. K. F., Ding, M., Koretsky, M. D., & Li, Y. (2026). [*AI Literacy and STEM Education: Emerging Frontiers and Research Priorities*](https://doi.org/10.1186/s40594-026-00653-8). *International Journal of STEM Education*, 13, 63.
+
+---
+
+## [Permission to Think: Prompt Literacy, Engagement, and the Creative Self in AI-Supported Design Studio](https://edtechdev.github.io/aied/articles/han-prompt-literacy-ai-dependence-design-2026/)
+
+> **Synthesis:** Han and Cao surveyed 829 undergraduate art and design students in 40 intact classes at two Chinese institutions about how well they feel they can [[prompt-engineering|prompt]] [[generative-ai|generative AI]], how engaged they are in [[design-education|design coursework]], and how creative they believe themselves to be. Students' self-reported prompt literacy was associated with [[student-engagement|learning engagement]] (β = 0.54), and engagement was associated with both [[self-efficacy|creative self-efficacy]] (β = 0.62) and creative personal identity (β = 0.47). The novel move is dimensional: when four forms of AI dependence entered one model together, only cognitive dependence — letting AI think and judge in one's place — clearly weakened the literacy–engagement link, and every interaction was small.
+
+## Key Findings
+
+1. **The sample is intact classes, not volunteers.** Of 863 returned questionnaires, 34 were removed by a prespecified screening sequence, leaving 829 valid responses (96.1%) across 40 classes: 573 students in 28 classes at Institution A and 256 in 12 classes at Institution B. Class size ranged from 17 to 24 (M = 20.7) and mean age was 20.86 years.
+2. **Prompt literacy tracked engagement.** The path from self-reported prompt literacy to learning engagement was β = 0.539, 95% CI [0.473, 0.595], with the model explaining 29.1% of the variance in engagement. Prompt literacy was measured with six adapted items from a workplace GenAI-literacy scale (α = 0.829), not with observed prompting.
+3. **Engagement tracked efficacy more than identity.** Engagement was associated with creative self-efficacy at β = 0.618, 95% CI [0.541, 0.690], and with creative personal identity at β = 0.474, 95% CI [0.383, 0.570]. The standardized difference was 0.144, 95% CI [0.044, 0.235], p = 0.003, and it reproduced in both institutions.
+4. **Identity kept a share of its own.** Engagement remained associated with creative personal identity after efficacy was taken into account (β = 0.21, 95% CI [0.09, 0.32]), and a model forcing the identity path to run entirely through efficacy was rejected, scaled Δχ²(1) = 9.89, p = 0.002. The two beliefs are related but not substitutable.
+5. **Cognitive dependence was the clearest moderator.** In the simultaneous four-dimension model the interaction was B = −0.155, 95% CI [−0.236, −0.069], p < 0.001, with a unique increment of ΔR² = 0.015 (f² = 0.020). The simple slope of prompt literacy on engagement fell from 0.607 at one standard deviation below the cognitive-dependence mean to 0.297 at one above.
+6. **Loss of control was weaker evidence, and the other two were nothing.** The loss-of-control interaction was B = −0.093, 95% CI [−0.174, −0.011], p = 0.021, but it did not survive correction across all four interaction terms (adjusted p = 0.063). Functional dependence (B = −0.034, p = 0.396) and emotional dependence (B = 0.003, p = 0.941) showed no unique moderation.
+7. **Moderation was a slope, not a reversal.** The whole interaction block explained ΔR² = 0.051 (f² = 0.068), and the prompt literacy–engagement association stayed positive at high dependence on both dimensions examined. The total AI-dependence score also interacted negatively (B = −0.202, 95% CI [−0.268, −0.136]) but could not say which dimension carried the effect.
+
+## Two creative self-beliefs that are not interchangeable
+
+The paper's contribution to the [[creativity|creative self]] literature is a separation, not a discovery. Prior work either combined creative self-efficacy and creative personal identity into one composite or placed identity downstream of efficacy. Han and Cao put both beliefs beside engagement in the same model and found that engagement sits closer to the belief about what one can do than to the belief about who one is. Their reading follows [[agency|social cognitive theory]]: studio work supplies enactive mastery experiences, and mastery experiences bear most directly on capability beliefs, whereas identity also draws on how much a student values the discipline and on longer-term self-definition.
+
+That is a difference in degree, and the study is candid about why it might be partly artifactual. Engagement and creative self-efficacy were the least distinct pair in the measurement model: their latent correlation was 0.705 against a square root of average variance extracted of 0.693, so the pair missed the Fornell–Larcker criterion, and self-report overlap cannot be removed by any respecification the authors ran. The comparison held in the composite-score models, after covariate adjustment, in both institutions, and in all 40 leave-one-class-out re-estimations, which is the strongest support available for a claim this shape.
+
+## Dependence is not one thing
+
+[[reducing-ai-misuse|AI dependence]] is usually scored as a total. Han and Cao enter its four dimensions — emotional, functional, cognitive, and loss of control — simultaneously with their interactions, and the pattern that emerges is the reason to keep them apart. Cognitive dependence describes substituting AI judgment for one's own, the form of reliance most directly opposed to personal agency. Students who do that plausibly spend their prompting skill on retrieving ready-made answers rather than on exploring, comparing, and revising, which is why the capability–engagement link thins among them.
+
+Loss of control, the self-regulation failure of failed attempts to cut down, produced a smaller and less stable interaction. Functional delegation for efficiency and emotional comfort from having AI available produced none. The authors are careful not to call those two harmless: their confidence intervals still admit small negative interactions, and the study was powered for neither.
+
+The magnitudes deserve emphasis. An interaction increment of ΔR² = 0.015 is a real but minor feature of a model that already explains 29.1% of engagement variance. Every dimension interacted negatively with prompt literacy when tested alone, and only two retained unique interactions jointly — consistent with the dimensions sharing variance at r = 0.43 to 0.50. The practical claim the data support is narrow: perceived prompting capability converts into engagement a little less efficiently among students who outsource their thinking, and the fix is pedagogical rather than technological.
+
+## What a cross-sectional dual-outcome model can support
+
+The structural model is just-identified, so its fit statistics are those of the measurement model and cannot adjudicate the ordering of prompt literacy, engagement, and the creative self. The authors state this, and they note that models placing identity before efficacy, or running efficacy into identity, fit identically. The indirect associations of 0.333 for efficacy and 0.255 for identity are therefore partitions of one cross-section, not mechanisms.
+
+Two further constraints bound the reading. All five constructs came from the same respondents in one sitting, and although Harman's single-factor test put the first factor at 18.8% of variance, shared method variance and general self-evaluation can still inflate associations among self-reports. And average variance extracted fell below 0.50 for prompt literacy, AI dependence, and both creative-self measures, so reliability was adequate while convergent validity was thin.
+
+## What this means for practice
+
+- **Instructors.** Treat "let me think first" as a design requirement, not a courtesy. The activities the authors propose — recording an initial idea before consulting AI, justifying why a generated proposal was accepted or rejected, keeping a process log — all target cognitive dependence specifically, which is the dimension with the clearest evidence behind it.
+- **Prompt trainers.** Teach iteration rather than phrasing. Prompt literacy here spans crafting, reviewing, and critically engaging with responses across six items, and the engagement payoff tracks the whole cycle rather than clever wording.
+- **Studio leads.** Evaluate authorship statements and process portfolios as supports for creative identity. Engagement was less closely tied to identity than to efficacy, and the authors suggest that making students' own contribution legible is a plausible way to reach the identity side.
+- **Researchers.** Model dependence dimensions jointly. A total score produced a negative interaction here while concealing that one dimension carried it; separate single-dimension models produced four significant interactions that the joint model did not sustain.
+
+## Limitations
+
+- Cross-sectional and self-reported throughout, so no temporal order, causal effect, or mediating mechanism is established, and reverse paths from engagement to prompt literacy remain open.
+- Prompt literacy is perceived capability measured with adapted self-report items, not demonstrated prompting performance; the measure was never tested against AI self-efficacy or general digital confidence.
+- Average variance extracted fell below 0.50 for four of five constructs, and engagement and creative self-efficacy failed the Fornell–Larcker criterion, qualifying the headline comparison.
+- Interaction effects were small (f² = 0.020 and 0.008), the loss-of-control interaction did not survive correction across four terms, and 40 clusters limit the precision of interaction estimates.
+- Both institutions are in mainland China, institution and sector are fully confounded, and the two subsamples differ in year of study and specialism; the authors describe the cross-institutional result as replication within these sites, not across sectors.
+- Weekly GenAI use was unrelated to engagement (r = −0.02), so nothing here speaks to dosage, and no behavioral logs, objective prompting tasks, or blind ratings of creative work were collected.
+
+## Citation
+
+Han, L., & Cao, Z. (2026). [Learning engagement and creative self-beliefs in generative AI-supported design education: self-reported prompt literacy and dimensions of AI dependence](https://doi.org/10.3389/fpsyg.2026.1957097). *Frontiers in Psychology, 17*, 1957097.
 
 ---
 
@@ -77494,6 +77702,69 @@ Two readings remain open and the design cannot separate them. Anxiety may interf
 ## Citation
 
 Hu, P. (2026). [*Psychological predictors of continued ChatGPT use among university students: the roles of AI literacy, trust, and academic self-efficacy*](https://doi.org/10.3389/fpsyg.2026.1900190).
+
+---
+
+## [Coexistence, Not Replacement: What Library Logs and Student Surveys Say Differently About GenAI](https://edtechdev.github.io/aied/articles/huang-genai-academic-information-resources-2026/)
+
+> **Synthesis:** One Chinese university paired 368 student questionnaires with a nine-year record of 3.2 million print-loan transactions and platform statistics for its digital library. The survey found that [[generative-ai|substitutive GenAI use]] — having AI write whole passages — was weakly negatively associated with intention to keep using print, β = −0.100. The loan logs found no level or trend change at the January 2023 breakpoint. Students' [[self-report-measures|self-reports]] and their borrowing behavior told different stories, and the paper is most useful read as a study of that gap.
+
+## Key Findings
+
+1. The design is a convergent triangulation: 368 valid questionnaires collected in 2026, roughly 3.2 million print-loan records covering 2017–2025, and digital-platform usage statistics from 2021 through the first half of 2026. The three sources were analyzed independently and compared only at the interpretation stage.
+2. Respondents could not be linked to the logs under the institution's data-governance rules, so the behavioral data corroborate the research propositions in aggregate and cannot validate individual-level structural paths.
+3. Annual print loans fell from 406,120 in 2017 to 46,339 in 2025; unique borrowers fell from 30,033 to 7,278, and loans per borrower from 13.5 to 6.4.
+4. The interrupted time-series model (107 months) put the baseline decline at 535.6 books per month before GenAI existed, *p* < 0.001. The pandemic breakpoint produced a level change of −9,248.8, *p* = 0.001, and a slope change of 511.3, *p* = 0.004.
+5. At the January 2023 GenAI breakpoint the level change was 1,167.4, *p* = 0.504, and the slope change −159.6, *p* = 0.300. Re-estimating with March 2023, September 2023 and January 2025 as breakpoints left both estimates non-significant.
+6. In the survey, deep-reading demand predicted print continuance intention at β = 0.908, 95% CI [0.756, 1.136], *f*² = 0.949. Auxiliary GenAI use predicted digital continuance intention at β = 0.844, 95% CI [0.652, 1.026], *f*² = 0.490, but not print continuance intention, β = 0.038, *p* = 0.631.
+7. Substitutive use was negatively associated with print continuance intention, β = −0.100, *p* = 0.024, *f*² = 0.104, and unrelated to digital continuance intention, β = −0.030, *p* = 0.470. Task–channel fit did not moderate anything, β = 0.053, *p* = 0.473.
+8. Platform-embedded AI features recorded 326,449 operations in 2025, 0.10% of the total, and 766,246 in the first half of 2026, 0.53%, while traditional operations rose from 279,834,736 in 2021 to 317,332,412 in 2025.
+
+## A divergence the design was built to find
+
+The paper's contribution is not a number but a comparison. Two bodies of evidence were collected for the same propositions and kept apart until the end. Table 10 sets them side by side across four claims: that AI substitutes for digital resources, that AI substitutes for print, that digital and AI channels are integrating, and that print retains a logic of persistence. The pattern is consistent. Where the survey saw substitution of print, the logs saw nothing. Where the survey saw digital–AI integration, the platform saw embedded features that almost nobody used.
+
+That separation is a methodological argument about [[higher-ed|higher education]] research. Almost all of the existing evidence on whether students are abandoning library resources for chatbots comes from cross-sectional questionnaires, which cannot distinguish a change in attitude from a change in behavior. Logs can, but only at the level of the institution, and only for the behavior the library happens to record. Neither source settles the question alone.
+
+Reading the divergence is therefore the analytic task the reader has to do, and the authors are explicit that the comparison is proposition-level. A survey path and a monthly loan series are not two measurements of one quantity. They are two descriptions of an ecosystem, taken from different heights.
+
+## Why substitution did not reach the circulation desk
+
+The authors offer two explanations, and they are not equally comfortable. The first is social desirability and an attitude–behavior gap: students may overstate how much AI has changed what they actually do. The second is a time lag, in which attitudes move before aggregate behavior and micro-level substitution has not yet accumulated into a visible institutional trend.
+
+The trend data make the second explanation harder to lean on and easier to specify. Print borrowing was already collapsing before ChatGPT existed. The fitted baseline decline of 535.6 loans per month describes a decade-long retreat that no AI narrative explains. The pandemic then cut the level sharply, −9,248.8 loans, and the recovery slope, 511.3 per month, only slowed the fall. The 2025 total, 46,339, sits far below the 2024 total of 80,027 even though the fitted slope change after 2023 was not statistically significant. A single year can sit inside the noise a segmented model absorbs, but it is the number to watch if the lag hypothesis is to be tested rather than asserted.
+
+The digital side is a different shape. AI-feature operations existed only from 2025, and their share, 0.10% then 0.53%, is consistent with a new functional layer being adopted inside an existing platform rather than displacing it. Traditional operations never fell; they rose. At the platform level, this looks less like substitution and more like a channel added on top of a channel.
+
+## Reading the survey paths for what they are
+
+The measurement section is unusually candid, and it changes how the digital-channel numbers should be read. Perceived convenience of digital resources and auxiliary GenAI use correlated at HTMT = 0.968, with a bootstrap interval of [0.912, 1.015]. The Fornell–Larcker criterion failed for the pair, and the first factor in Harman's test explained 64.4% of the variance. The authors say plainly that this sample did not empirically distinguish the two constructs.
+
+The consequence is that β = 0.993 for the convenience-to-auxiliary-use path, and the indirect association of 0.838 through it, measure overlap as much as mechanism. R² = 0.986 for auxiliary use is a symptom rather than a finding. Four constructs — substitutive use, task–channel fit, and both continuance intentions — were measured with single items, so the H4 to H7 paths describe specific behaviors and intentions rather than validated constructs. The structural model itself fits well, χ² = 119.581 on 54 degrees of freedom, CFI = 0.981, RMSEA = 0.058, but fit does not repair discriminant validity.
+
+What survives this scrutiny is the print side, where the constructs separate cleanly. Deep-reading demand is associated with wanting to keep using print at β = 0.908 with a large effect size, and substitutive use is associated with a small reduction at β = −0.100. That is a coherent story about what print is for: sustained reading that a generated paragraph does not replace. It is also the story the [[self-regulated-learning|resource-selection]] framing predicts, with [[cognitive-offloading|cognitive offloading]] explaining why auxiliary use supports existing channels while content generation bypasses them.
+
+The one substantive puzzle is that [[ai-literacy|AI literacy]] never enters the model. The authors recommend it as a practical response and as a variable for future work, and the distinction between auxiliary and substitutive use is exactly the kind of judgment an [[academic-integrity|integrity]]-oriented literacy curriculum would have to teach. The data here can separate the two behaviors in a questionnaire but cannot say whether students know the difference.
+
+## What this means for practice
+
+- **Librarians.** Do not plan collections around an AI-replacement scenario the logs do not show. Print demand is falling, but it is falling on a trend that started before GenAI, and 7,278 borrowers still took out 6.4 books each in 2025. The case for print space rests on the deep-reading association, not on defending a share.
+- **Library and platform managers.** Treat embedded AI features as an evaluation criterion, not yet as a service. At 0.53% of platform operations, the features are a trial layer; instrumenting them properly now is cheaper than retrofitting analytics later.
+- **Teaching and integrity staff.** Target the auxiliary/substitutive boundary explicitly. The survey's one significant negative association with print attaches to generating whole passages, so guidance that distinguishes "use AI to find and understand" from "use AI to produce" maps onto the only substitution signal the study found.
+- **Researchers and institutional analysts.** Do not substitute a survey for a log, or a log for a survey. This design's value came from collecting both, analyzing them separately, and reporting where they disagreed instead of reconciling them into one story.
+
+## Limitations
+
+- Single institution: one research-intensive Chinese university and its own resource environment, so parameter estimates are not benchmarks for other libraries.
+- The survey is cross-sectional and observational; every path is an association, and omitted-variable bias cannot be excluded because student status and discipline were collected but not entered as covariates.
+- Perceived convenience of digital resources and auxiliary GenAI use failed discriminant validity, HTMT = 0.968, and common method bias cannot be ruled out at 64.4% first-factor variance, so the digital-channel paths are within-channel associations rather than mechanisms.
+- Four constructs were single-item measures, which limits any claim about their reliability and validity.
+- The behavioral data are aggregate records that cannot be linked to individual respondents, so the two evidence streams are compared at the level of propositions, not people.
+- The observation window contains the COVID-19 pandemic and its aftermath; the model includes an explicit pandemic interruption, but concurrent policy changes cannot be fully excluded, and January 2023 is a prespecified analytical breakpoint for early GenAI diffusion rather than a measured adoption date.
+
+## Citation
+
+Huang, Z., Song, X., Zhuang, J., & Xiao, S. (2026). [Generative artificial intelligence reshapes university students' sustainable use of academic information resources: mixed evidence from behavioral logs and perceptual survey data](https://doi.org/10.3389/fpsyg.2026.2002741). *Frontiers in Psychology, 17*, 2002741.
 
 ---
 
@@ -82794,6 +83065,66 @@ Kofinas, A. K., Tsay, C. H.-H., & Pike, D. (2025). [*The impact of generative AI
 
 ---
 
+## [AI in higher education and graduate employability: cognitive engagement, self-efficacy, and career adaptability in the AI era](https://edtechdev.github.io/aied/articles/kong-ai-employability-cognitive-engagement-2026/)
+
+> **Synthesis:** Kong and Zhang synthesize 46 publications into an argument rather than a result. They argue that the link between AI-supported learning and [[career-development-and-readiness|graduate employability]] runs through three learning processes: [[student-engagement|cognitive engagement]] and [[self-regulated-learning|self-regulation]], [[self-efficacy]] and motivational regulation, and career adaptability. Three tensions then decide whether AI use builds capability or replaces it: augmentation against [[cognitive-offloading|offloading]], career agency against AI-related insecurity, and resource access against capability stratification. Organizing the literature by outcome level is the review's most useful move, and it produces a deflationary conclusion: nearly everything measured sits at the proximal end. The pathway to employment is a proposal awaiting test, not a demonstrated sequence.
+
+*Critical narrative review: the authors synthesize 46 publications interpretively and collect no data of their own. There is no pooled effect size and no formal risk-of-bias scoring, so every number below is either an attributed claim about an included study or a count of the corpus, never a finding of this paper.*
+
+## What the review argues
+
+The review's target is a habit of inference. AI adoption, access or frequency of use is routinely treated as a proxy for graduate capability, and the authors argue the inference fails in both directions: a student who uses AI constantly may learn less, and one who rarely uses it may learn more. Their alternative is to treat employability as developmental rather than as a labor-market status, following [[career-development-and-readiness|career-development]] accounts in which identity, psychological resources and the capacity to mobilize learning across contexts matter more than a checklist of skills.
+
+On that account AI changes two things at once. It changes how capability forms, by widening access to feedback, explanation, rehearsal and task support. It also changes the environment in which capability is judged, by altering what employers expect a graduate to do unaided. The review treats the first as an empirical question about learning processes and the second as a structural condition that the included studies mostly cannot observe.
+
+Three mechanisms carry the argument. Cognitive engagement and self-regulation determine whether AI-assisted work leaves anything behind after the task ends. Self-efficacy and motivational regulation determine whether students keep investing effort and form accurate beliefs about their own competence. Career adaptability — the concern, control, curiosity and confidence that allow a person to anticipate and respond to occupational change — is the bridge from learning to career exploration and adjustment. Crucially, the authors classify career adaptability as a career-development resource, explicitly not an employment outcome.
+
+Three tensions cut across the mechanisms. AI can augment thinking or host [[cognitive-offloading|offloading]]; it can support career agency or provoke insecurity about replacement; and it can democratize access or widen gaps between students who already have the disciplinary knowledge to judge its output and those who do not. The framework in the paper is a set of theory-informed propositions about how these resolve, drawn as directional arrows with one dashed link to employment outcomes that the authors themselves label untested.
+
+## The outcome ladder, and where the evidence stops
+
+The review's most disciplined contribution is a four-level classification. Direct employment outcomes include employment status, time to employment, job quality, income, retention and employer evaluations. Indirect career indicators include perceived employability, career readiness, career exploration, career decision-making and career adaptability. Proximal outcomes include AI literacy, engagement, self-regulated learning, self-efficacy, motivation, anxiety and course performance. The fourth category is theory.
+
+Claims about employment are then restricted to studies that measured employment. Very few qualify. The review reports a twelve-week AI module with 120 non-STEM students in the United Kingdom, in which AI capital rose and was associated with employment status six months after graduation — a single-course, non-randomized design that cannot show the course caused the difference. It cites a self-reported employment survey of 148 graduates in Peru, cross-sectional in design. It cites a 42-participant study of short-term AI mock-interview training that changed simulated interview performance, which the authors note is not a hiring outcome.
+
+Almost everything else sits one or two rungs down. A Saudi business sample of 652 linked AI tool use with engagement, performance, perceived employability and empowerment. A multinational survey of roughly 9,384 students found ChatGPT use more strongly associated with employment confidence among undergraduates and social science students. A Chinese sample of 460 related AI awareness and career education to employability confidence. None of these follow graduates into work, and none can be read as an employment finding.
+
+## Why the three tensions matter more than any single association
+
+The augmentation–offloading tension has the best evidence in the review, and it is still thin. The authors cite a meta-analysis reporting that [[generative-ai|generative AI]] in active-learning contexts was associated with greater cognitive engagement, with over-reliance linked to disengagement and shallow processing. A four-wave within-subject study in Mongolia (267 enrolled, 211 analyzed) found engagement and self-regulated learning rising during an AI-enhanced flipped phase, particularly agentic engagement and [[metacognition|metacognitive]] regulation — though the fixed sequence means time and order effects cannot be excluded. A quasi-experiment with 68 students found some self-regulation and experience measures improving after metacognitive prompts were added, while the between-group difference in academic performance was not significant. On the other side, the review cites an association between AI dependence and weaker [[critical-thinking|critical thinking]], with cognitive fatigue proposed as one explanation, and a three-wave study linking ChatGPT use to procrastination and memory concerns.
+
+The agency–insecurity tension is where the evidence is most contradictory. A 2 × 2 quasi-experiment with 200 STEM undergraduates found AI-assisted writing associated with higher intrinsic motivation and [[self-efficacy]], with larger gains among lower-achieving students, though performance differences were not significant in every comparison. Against that, a survey of 315 students found AI anxiety negatively associated with career decision-making, with career adaptability mediating, and the hypothesized moderating role of self-efficacy unsupported. Null results appear too: no significant relationship between AI anxiety and career decidedness among English language teaching and literature students, a weak negative association among translation and interpreting students, and no significant prediction of lifelong learning tendency among pre-service teachers. The review's reading is that there is no single role for AI-related confidence.
+
+The stratification tension is the least evidenced and the most consequential. Prior disciplinary knowledge, [[ai-literacy]], language resources, tool access and institutional support plausibly shape what students extract from the same system, and students with weaker foundations may be least able to detect confident-sounding errors. Yet the same review reports structured AI support helping lower-achieving students, and a 2,622-student vocational sample in which the direct association between AI learning support and employability was not significant. Access and benefit are not the same variable, and almost no included study measured access as such.
+
+## What a narrative review can and cannot support
+
+The design is a critical narrative review: an interpretive synthesis with a documented search of Web of Science, Scopus, ERIC and PubMed from inception to 1 July 2026, supplementary searches to 2 October 2026, two-author screening, and 46 included publications. What that design can support is a construct map, a defensible taxonomy of outcome levels, an identification of tensions and boundary conditions, and a set of testable propositions. What it cannot support is an effect size, a causal claim, a temporal order, a prevalence estimate, or a statement about how much AI use changes employment prospects.
+
+The corpus limits interpretation further. Of the 46 publications, 24 were conducted in mainland China and 41 appeared in 2025 or 2026, so the evidence base is recent, geographically concentrated and still moving. Twenty-eight studies were cross-sectional surveys; twelve used intervention, quasi-experimental or longitudinal designs; four were qualitative; two analyzed documents or employment data. Only a small subset reported employment status at all. A synthesis of this material can tell you what the field believes and what it has measured; it cannot tell you what works.
+
+## What this means for practice
+
+- **Instructors.** Design for retained capability, not task output. The review's calibration cycle is the concrete version: students attempt a task, use AI to extend or challenge their reasoning, verify against disciplinary evidence, then complete an unassisted explanation or transfer task. That sequence makes the difference between fluency and understanding visible to both parties.
+- **Curriculum and assessment designers.** Embed AI literacy in disciplinary courses rather than in generic tool workshops. The review specifies what that means per field: validation and debugging in engineering and computing, safety, evidence appraisal and accountability in health professions, source verification and authorship in the humanities. Ask for artifacts of process — revision traces, verification decisions, justifications for what was delegated — which the review treats as evidence of learning rather than as integrity policing.
+- **Career services and administrators.** Pair AI-supported occupational exploration with reflection on which tasks are changing and which capabilities transfer; assisted and unassisted practice side by side gives students a realistic read on what they can do alone. Monitor who actually gets the benefit, since access to tools is not access to guidance, and the equity discussion turns on prior preparation and support rather than on licenses.
+- **Researchers.** Measure employment. The gap the review keeps naming is longitudinal follow-up with career entry, job quality, employer assessment and performance on authentic tasks, with prior achievement, discipline and labor-market conditions as covariates.
+
+## Limitations
+
+- The review design excludes formal risk-of-bias assessment and quantitative pooling by construction, so it cannot weigh studies by quality or estimate any magnitude.
+- The search is English-language and limited to four databases, with no systematic gray-literature search and no formal assessment of publication bias; relevant work in other languages and outside these indexes may be missing.
+- The corpus is concentrated: 24 of 46 studies from mainland China and 41 published in 2025 or 2026, which limits transferability across national and disciplinary contexts and makes the evidence base unstable.
+- Twenty-eight of 46 studies are cross-sectional, so direction of association is unresolved throughout; the review is candid that stronger career adaptability may cause more AI exploration rather than the reverse.
+- Measures are largely self-reported perceptions — perceived employability, confidence, readiness — which the review itself argues are not equivalent to employment outcomes.
+- The framework is a proposal. Its arrows, mediation paths and single dashed link to employment are hypotheses the authors expect future longitudinal work to test.
+
+## Citation
+
+Kong, L., & Zhang, H. (2026). [Artificial intelligence in higher education and graduate employability: cognitive engagement, self-efficacy, and career adaptability in the AI era](https://doi.org/10.3389/fpsyg.2026.1987347). *Frontiers in Psychology, 17*, 1987347.
+
+---
+
 ## [The shifting landscape of assessment in STEM education in the age of generative AI](https://edtechdev.github.io/aied/articles/koretsky-genai-stem-assessment-2026/)
 
 > **Synthesis:** Koretsky, Ding, Chiu, Hallström, and Li review how [[generative-ai|generative AI]] is reshaping [[stem-education|STEM]] assessment through the assessment triangle: cognition (what is assessed), observation (how evidence of learning is elicited), and interpretation (the inferences drawn from that evidence). Their [[meta-analysis-systematic-review|scoping review]] of literature from Scopus, Web of Science, and ERIC organizes the field into three themes: AI's entanglement with assessment systems, including [[assessment-validity|validity]], redesign, and policy on acceptable use; AI as assessment infrastructure that analyzes evidence and generates feedback; and the fidelity of AI-generated assessment materials. The core argument is that ubiquitous GenAI turns assessment into a validity, design, and capability-definition problem rather than a cheating problem, and that the three vertices of the triangle must be realigned together rather than patched one at a time. As an editorial opening an article collection, it maps a research agenda rather than reporting a study.
@@ -85421,6 +85752,68 @@ The predictor is four items: interaction is becoming more frequent, the student 
 ## Citation
 
 Li, J., Xu, E., Li, L., Huang, L., Pu, Y., & Huang, R. (2026). [*Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator*](https://doi.org/10.3389/fpsyg.2026.1864535). *Frontiers in Psychology*, 17, 1864535.
+
+---
+
+## [Psychological Pathways to Responsible GenAI Decision-Making Among Teachers](https://edtechdev.github.io/aied/articles/li-su-teacher-genai-decision-making-2026/)
+
+> **Synthesis:** Li and Su do not ask whether [[teacher-role|teachers]] use [[generative-ai|generative AI]]. They ask how a teacher regulates optional assistance at the moment a judgment about a learner is formed, and they answer with a deliberately thin context–cognition–action model. [[governance|Governance clarity]] — rule clarity plus role clarity — is the contextual cue; perceived accountability and decision uncertainty are the psychological states it works through; [[ai-literacy|AI literacy]] is a person-level regulatory resource; and responsible GenAI decision-making (RADM) is the regulated conduct that follows. RADM is defined as a process, explicitly not as decision accuracy, so a correct answer reached by uncritical copying counts as a failure of the construct and a defensible process can still end in a contestable judgment. The authors state plainly that these outputs are "theoretical propositions, not empirically established effects," and that the model "has not yet been empirically validated."
+
+*This page summarizes a conceptual article, published under the journal's "Hypothesis and Theory" type. It collects no data and tests no model of its own: the five propositions and one configurational expectation below are the authors' proposals, and every figure drawn from another study is attributed to that study rather than reported here as a finding.*
+
+## What the paper argues
+
+1. **Move the outcome from adoption to conduct.** [[teacher-ai-competency|Teacher AI competency]] research and technology-acceptance models can say whether teachers are willing to use a tool; they do not say what a teacher delegates, verifies, overrides, documents, or escalates. RADM is the paper's name for that regulation, defined as "selective, critical, transparent, and accountable use of GenAI input while preserving accountable human authority."
+2. **Separate consultation from reliance.** Eliciting or reading model output is not reliance; reliance occurs when output changes an interpretation, a communication, or a decision. A teacher can consult and reject, or adopt a draft's wording after independently establishing the judgment underneath it.
+3. **Five behavioral dimensions.** Appropriate delegation, verification, calibrated reliance with accountable human authority, traceability, and escalation or override. The authors treat these as non-interchangeable parts of a composite rather than as a reflective scale, and ask future work to compare both specifications.
+4. **P1–P3, the accountability path.** Greater governance clarity is proposed to raise perceived accountability (P1); higher perceived accountability is proposed to raise RADM (P2); and perceived accountability is proposed to mediate the clarity-to-RADM relationship (P3). Felt accountability is defined by anticipated justification to a legitimate, competent audience, not by fear of sanction.
+5. **P4, uncertainty as calibration.** The relationship between subjective uncertainty and RADM is proposed to be calibration-sensitive — recognized, regulable uncertainty should yield more verification and escalation than unwarranted certainty, or than uncertainty that outstrips the teacher's control strategies.
+6. **P5 and CE1, literacy and equifinality.** AI literacy is proposed to moderate uncertainty regulation, so that unwarranted confidence produces less uncritical reliance at higher literacy. A secondary configurational expectation holds that high and low RADM each arise from several combinations of clarity, accountability, uncertainty, and literacy.
+
+## Why "responsible" is defined as a process rather than an outcome
+
+The definitional move is the paper's sharpest decision, and it is what separates it from the compliance literature. If responsible AI meant endorsing the right principles, a survey of attitudes would settle the question. Li and Su instead make the unit of analysis the decision episode: what the model contributed, what the teacher checked, how confident the teacher was, what uncertainty remained, and where accountable human authority sat.
+
+That choice has consequences for measurement. Because the five dimensions are not interchangeable — a teacher can verify without documenting, or protect student data without calibrating reliance — instrument development should compare a formative composite against correlated first-order factors. Validation should use scenario choices and process traces, not self-report endorsement, and convergent validity should be shown against critical evaluation and [[ethics|ethical]] competence. Discriminant validity should be shown against general AI acceptance, trust, and self-efficacy.
+
+The model also keeps the institutional level from doing explanatory work it cannot do. A school can hold an extensive AI policy and a teacher can still not know whether it covers a particular student-related task, or who is meant to check a generated recommendation. Clarity matters psychologically only when it is retrievable at the point of decision and identifies both the boundary and the locus of answerability. The paper therefore declines to propose a direct path from governance clarity to decision uncertainty: clarity can remove avoidable procedural ambiguity, but it cannot remove genuine uncertainty in the learner case.
+
+## Uncertainty is a signal, not a defect
+
+Most responsible-AI writing treats uncertainty as a technical defect to be engineered away, and treats confidence as the mark of a working system. The paper inverts that. [[metacognition|Metacognitive]] research separates confidence from accuracy, and fluent generated prose can raise felt certainty without raising evidential quality — so low subjective uncertainty is the state that should worry a school, not high uncertainty that a teacher can diagnose and act on.
+
+The distinction the authors draw inside uncertainty is the useful part. Some uncertainty belongs to the case: incomplete evidence, contestable criteria, a learner whose history is not fully known. Some is avoidable procedural uncertainty about how output should be handled within the institution. Clear [[governance|governance]] can reduce the second and cannot touch the first, which is why the paper refuses a single "less uncertainty is better" claim. Uncertainty that exceeds the teacher's capacity to diagnose it can produce indecision, undifferentiated distrust, or deference to the model as an external authority.
+
+[[ai-literacy|AI literacy]] enters here as a boundary condition rather than an antecedent of adoption. A literate teacher can tell case uncertainty from model-introduced uncertainty, distinguish plausibility from support, recognize that rephrasing an answer does not validate it, and know when specialist review is required. That is a regulatory repertoire, and it is the mechanism by which monitoring becomes control.
+
+## What the model adds, and what its evidence can carry
+
+The authors' own contribution is integration: they bring felt-accountability research, metacognitive monitoring and confidence calibration, and teacher AI-literacy frameworks into one process model, and they specify what an empirical program would have to measure. They list four contributions — conduct instead of adoption as the outcome, a psychological link between institutional expectations and teacher behavior, the connection of uncertainty to calibration, and the configurational extension.
+
+The evidence they cite is thinner than the framework, and they say so. Steiss et al. (2024) compared ChatGPT feedback with trained human evaluators on secondary writing and found human feedback better on four of the five assessed quality dimensions — which the authors read as support for treating generated text as a fallible draft. Kinder et al. (2025) studied 269 German pre-service teachers and found adaptive ChatGPT feedback improved the quality of written justification without significantly improving decision accuracy; that is a training-setting result and the paper does not stretch it to in-service referral or grading. Henderson et al. (2026) is cited only as background on selective reliance toward algorithmic course recommendations, explicitly not as evidence about conversational GenAI.
+
+The constructive claim is therefore narrow by design. GenAI may help organize information the teacher is already authorized to hold, draft candidate feedback, generate alternative explanations, and propose questions. It cannot turn an unsupported interpretation into evidence about a particular student, and appropriate non-use counts as responsible delegation. [[human-in-the-loop-ai|Human-in-the-loop]] authority, on this account, is not a checkpoint bolted onto a workflow; it is the teacher's retained power to accept, modify, reject, or proceed without the output.
+
+## What this means for practice
+
+- **School leaders.** Write fewer, more usable boundaries. The paper's practical argument is that teachers need a small set of consequential rules they can retrieve mid-decision: which tasks may receive assistance, what student information may not be entered, which outputs require independent checking, and where accountable authority sits.
+- **Anyone designing a workflow.** Answer four questions for the teacher before the tool goes live — what may I delegate, what am I responsible for verifying, where does human authority reside, and whom do I consult when risk exceeds my expertise. Diffuse responsibility across teacher, leader, vendor, and system is the failure mode the model targets.
+- **Professional development.** Train calibration, not prompting. Practice in distinguishing fluency from evidential strength, noticing missing context, protecting student data, and deciding when to escalate transfers better to consequential decisions than productivity training does.
+- **Researchers.** Take the measurement agenda seriously before testing the paths. The paper specifies a validation study, a three-wave temporally separated design, a staged experiment comparing unaided, fixed-advice, and conversational conditions, and fsQCA only after the constructs hold up.
+- **Teachers.** The framework legitimizes refusal. Deciding that a task is unsuitable, that sensitive context cannot be supplied, or that verification costs more than the assistance saves is a competent response, not a gap in [[agency|agency]].
+
+## Limitations
+
+- The model is untested. The authors state that it "has not yet been empirically validated" and that its relationships are propositions rather than established causal effects, so every path here is a hypothesis awaiting data.
+- The calibration-sensitive prediction for decision uncertainty is, by the authors' own account, the most provisional element, and it cannot be evaluated without pairing subjective confidence with objective task ambiguity or evidence quality.
+- The evidence base is secondhand and does not cover the target setting. Direct evidence on GenAI in real, consequential teacher decisions is described as limited; the feedback-quality study and the pre-service experiment inform possible assistance functions without establishing effectiveness in referral, placement, or sustained student support.
+- Task examples and cross-task expectations are theoretical elaborations rather than observations. Nothing in the paper reports how often teachers consult GenAI, what they do with output, or whether any benefit exceeds verification costs.
+- The constructs remain to be discriminated empirically: rule and role clarity may not separate, perceived accountability overlaps with conscientiousness, AI literacy overlaps with self-efficacy and ethical competence, and the higher-order structure of RADM is provisional.
+- The framework is built for in-service K–12 judgment and is offered as a psychological account rather than a governance design. Accountability audiences and the meaning of uncertainty vary across systems and cultures, and the authors treat generalization to higher education or advising as something to test rather than assume. The authors also disclose that ChatGPT and Codex were used to support drafting and revision, which they state was not treated as a source of evidence.
+
+## Citation
+
+Li, W., & Su, Y. (2026). [Psychological pathways to responsible generative AI decision-making among teachers: Governance clarity, perceived accountability, decision uncertainty, and AI literacy](https://doi.org/10.3389/fpsyg.2026.1989652). *Frontiers in Psychology, 17*, 1989652.
 
 ---
 
@@ -122892,6 +123285,71 @@ Zhang, Y., Shi, Y., & Lu, J. (2026). [The relationship between AI anxiety and ac
 
 ---
 
+## [Influence Is Not Necessity: System Features and Student Intention to Use AI-Enhanced Learning Systems](https://edtechdev.github.io/aied/articles/zhang-ai-enhanced-systems-adoption-ann-nca-2026/)
+
+> **Synthesis:** Zhang, Xin and Qing (2026) surveyed 301 Chinese university students who had used an AI-enhanced learning system in the previous 12 months, then ran three analyses on the same data: [[quantitative-research|PLS-SEM]] for average linear paths, a [[machine-learning|neural network]] for predictor importance, and necessary condition analysis for floors. Ease of use was the strongest predictor of intention in both the path model (β = 0.340) and the network (100% normalized importance), yet it was not a necessary condition (d = 0, p = 0.592). Usefulness was necessary (d = 0.027, p = 0.011) but only weakly. Underneath both results sits a feature-level pattern: [[personalized-learning|personalization]], intelligence, content completeness and interactivity each moved exactly one of the two [[technology-acceptance-model|TAM]] beliefs, responsiveness moved both, and anthropomorphism moved neither.
+
+## Key Findings
+
+1. **One sample, three analyses.** Questionnaires went out between November and December 2025 to students at Chinese universities; 19 incomplete responses were dropped, leaving 301 valid cases against a G*Power minimum of 160. The sample was 52.5% female, with 33.6% aged 18–24 and 35.5% aged 25–34, and every item used a 7-point Likert scale.
+2. **Ease of use outweighed usefulness in the path model.** Perceived ease of use → behavioral intention was β = 0.340 (p = 0.000); perceived usefulness → intention was β = 0.265 (p = 0.000). The model explained R² = 0.244 of intention (Q² = 0.196) with SRMR = 0.033.
+3. **The functional features split across the two beliefs.** Personalization raised usefulness (β = 0.197, p = 0.001) but not ease of use (β = 0.090, p = 0.091). Intelligence raised ease of use (β = 0.192, p = 0.000) but not usefulness (β = −0.037, p = 0.464). Content completeness did the same (β = 0.188, p = 0.002; β = 0.080, p = 0.164).
+4. **So did the experiential features, with one exception.** Interactivity raised usefulness (β = 0.156, p = 0.009) and not ease of use (β = 0.062, p = 0.296). Responsiveness raised both (β = 0.155, p = 0.015; β = 0.155, p = 0.002). Anthropomorphism raised neither (β = 0.047, p = 0.362; β = 0.093, p = 0.083). Eight of the fourteen sub-hypotheses were supported.
+5. **The network reproduced the ranking.** Ten-fold cross-validation gave mean RMSE of 0.612 and 0.606 for the usefulness model, 0.606 and 0.629 for ease of use, and 0.620 and 0.628 for intention. Normalized importance put ease of use at 100% against 84.70% for usefulness; personalization led the usefulness model at 100%, content completeness led the ease-of-use model at 100%.
+6. **One necessary condition survived.** Usefulness was the only condition with a significant necessity effect, d = 0.027, p = 0.011. Ease of use recorded d = 0 and p = 0.592, responsiveness d = 0.01, p = 0.145. Every effect size in the table fell inside the 0–0.1 band the authors class as small.
+7. **The bottleneck is staged.** At 30% of the intention scale only responsiveness was required, at 0.3%, and usefulness first appeared at 60% with 1.3%. At the 100% level all six features and both beliefs became conditions: usefulness 12.2%, ease of use 11.3%, content completeness 11.2%, personalization 11.1%, anthropomorphism 10, intelligence 5.2%, responsiveness 2.6%, interactivity 2.2%.
+8. **Measurement was conventional and clean.** Loadings exceeded 0.7, Cronbach's α ran from 0.917 to 0.952, every AVE exceeded 0.5, VIFs stayed below 5, and Harman's first factor explained 31.815% of variance.
+
+## Two beliefs, two separate doors
+
+The study's most useful structural result is negative in form: the six stimuli do not collapse into a single "system quality" factor that lifts both acceptance beliefs together. Four of the six moved exactly one belief, and the split does not follow the obvious content-versus-interface line. Personalization and interactivity changed perceived value; intelligence and content completeness changed perceived effort.
+
+The authors' explanation is that each feature removes a different cost. Personalization aligns content with what a student needs, so it reads as value. Intelligence automates choices in the background, and content completeness removes platform-switching, so both read as reduced effort. Interactivity produces feedback and engagement, which reads as value. That mapping is plausible, but its real lesson is that it could not have been predicted from the feature taxonomy alone — each mapping needed both outcomes measured.
+
+The anthropomorphism null is the sharpest instance. Conversational agents and human-like prompts are widely argued to raise social presence and lower the psychological distance of using a system. Here anthropomorphism moved neither belief, and both coefficients were indistinguishable from zero. The authors offer two readings: students may not attend to human-like design at all, or the implementations they used may not have reached a level where it registers. Either reading is a caution for [[student-ai-interaction|student–AI interaction]] design claims that rest on anthropomorphism alone.
+
+What the design cannot tell us is whether these features behave as separate stimuli in students' heads or whether the survey simply asked about them separately. Six correlated ratings of one platform, collected at one time, will always admit a clean per-construct pattern.
+
+## The strongest driver is not the necessary one
+
+The paper separates two questions that TAM studies usually merge. Which belief moves intention most? Ease of use, by a clear margin, and both the linear model and the network agree. Which belief must be present before high intention is reachable at all? Usefulness, and only usefulness, at d = 0.027.
+
+That inversion is the paper's actual claim, and it is worth stating precisely. A strong path coefficient says that a unit of ease of use buys intention on average. A necessity effect says that below some level of usefulness, high intention is essentially absent regardless of everything else. The two can point at different constructs, and here they do.
+
+The sizes matter for how far the claim travels. An effect of 0.027 sits at the bottom of the small band, and the authors say so, describing the practical constraint as limited. Ease of use, the dominant predictor, produced a necessity effect of exactly zero. So the honest summary is not "usefulness is the gate" but "usefulness is a weak gate and ease of use is no gate at all" — a thinner necessity story than the abstract's framing suggests.
+
+The bottleneck table rescues part of it, because necessity turns out to be level-dependent. At moderate intention only responsiveness binds, and at 0.3% it barely binds. At the top of the scale the structure changes: usefulness becomes the largest single requirement at 12.2%, with ease of use just behind. Necessity, in other words, is a statement about a chosen target level, not a property of a variable.
+
+## A staged bottleneck rather than a single lever
+
+Read as a sequence, the bottleneck table describes a plausible user journey. Responsiveness is the only thing standing between a student and a low-to-moderate intention, which matches what a slow or silent system does to a first session. Usefulness joins the constraint once intention passes the midpoint, and at the ceiling every feature contributes something.
+
+That ordering is more actionable than a ranked list of coefficients, because it implies an order of operations. A team that spends its first cycle on content depth while latency is poor is optimizing the wrong stage. A team that has fixed responsiveness and stops there will plateau around the middle of the scale, where usefulness begins to bind.
+
+The [[technology-acceptance-model|TAM]] layer supplies the two beliefs but not the stimuli; the stimulus–organism–response framing supplies the stimuli but treats the organism as a black box. Bolting them together is what lets the paper place six design features upstream of two cognitions, and it is also why the model explains about a quarter of intention rather than more.
+
+## What this means for practice
+
+- **Instructors and course designers.** Fix responsiveness before depth. It was the only condition required at low and moderate intention levels, and it raised both acceptance beliefs in the path model — the one feature in the study that did.
+- **Platform teams.** Budget features module by module, not evenly. Personalization is the lever for perceived value; intelligence and content structure are the levers for perceived ease of use, and neither substitutes for the other.
+- **Administrators.** Treat latency and feedback speed as an operational commitment rather than a nice-to-have. In this sample it was the earliest binding constraint on whether students formed any intention at all.
+- **Researchers.** Report necessity at a named target level, and do not read a necessity effect size as importance. Here the top-ranked predictor had no necessity effect and the necessary condition was the weaker of the two.
+
+## Limitations
+
+- Cross-sectional [[self-report-measures|self-report]] data with intention as the only outcome; no usage logs, no follow-up, and no experimental manipulation, so every path is an association at one time.
+- Convenience plus snowball sampling of students at Chinese universities, recruited through faculty and social media, with no sampling frame and no test of representativeness.
+- Both the features and the beliefs are perceptions of one unnamed class of systems, so the study cannot separate design quality from students' prior expectations of AI tools.
+- Necessity effects are all small and rest on permutation tests with 10,000 resamples; the authors concede that neural network architecture and NCA threshold choices are partly subjective.
+- R² = 0.244 for intention leaves most of the variance outside the model, and the six features are treated as independent stimuli when real platforms bundle them.
+- Anthropomorphism was measured as a perception of the interface, not manipulated, so the null is a null of association rather than of design effect.
+
+## Citation
+
+Zhang, X., Xin, L., & Qing, Z. (2026). [Symmetrical and asymmetrical insights into student adoption of AI-enhanced digital educational systems](https://doi.org/10.3389/fpsyg.2026.1970854). *Frontiers in Psychology, 17*, 1970854.
+
+---
+
 ## [The relationship between perceived AI replacement threat and employment anxiety among English-major undergraduates](https://edtechdev.github.io/aied/articles/zhang-ai-replacement-threat-employment-anxiety-2026/)
 
 > **Synthesis:** Zhang and Zheng surveyed 711 Chinese [[english-education|English-major]] undergraduates — 94.5% of 752 submitted questionnaires, recruited by convenience sampling from seven universities in six provincial-level regions — to test whether perceived AI replacement threat (PAIRT) travels to [[anxiety-and-stress|employment anxiety]], and through what. Using cognitive appraisal theory and PROCESS Model 7 with 5,000 bootstrap resamples, they found PAIRT positively associated with both career insecurity and employment anxiety, with the indirect path through career insecurity accounting for 48.29% of the estimated total effect (indirect 0.380 of a total 0.787). [[self-efficacy|Career decision-making self-efficacy]] (CDMSE) moderated the first link: the PAIRT–insecurity slope fell from 0.486 at one standard deviation below the CDMSE mean to 0.385 at one above, and the index of moderated mediation was −0.027. The moderation is modest — the interaction added 0.6% of variance in career insecurity — and the authors warn that confidence in career decisions provides only partial attenuation rather than a buffer. Everything is cross-sectional and self-reported, so the paper describes statistical associations, not a causal sequence.
@@ -123703,6 +124161,69 @@ Participants were 120 music majors aged 20 to 24 at one university, each with at
 ## Citation
 
 Zhu, Z., Luo, C., & Li, L. (2026). [*Adaptive teaching assistance model combining generative AI and big data analytics*](https://doi.org/10.3389/fpsyg.2026.1844703).
+
+---
+
+## [Trust Outranks Usefulness: Metacognitive Control and Trust in Art Students' Adoption of Generative AI](https://edtechdev.github.io/aied/articles/zhu-creative-agency-trust-genai-art-2026/)
+
+> **Synthesis:** Zhu (2026) reports two studies on how Chinese art students take up [[generative-ai|generative AI]] in studio work. Study 1 fits a [[technology-acceptance-model|UTAUT]] model with an added [[trust]] construct to cross-sectional survey data from 450 art majors in Zhejiang, and finds trust the strongest direct correlate of behavioral intention (β = 0.425), ahead of every classic acceptance path. Social influence was the strongest correlate of trust (β = 0.262), and 42.1% of its total association with intention ran through trust. [[metacognition|Metacognitive control]] carried a direct path to intention (β = 0.146) and a smaller path to trust (β = 0.099). Study 2 randomized 80 of those students to four-stage metacognitive prompts or a control task and had three blinded experts rate the resulting images: prompted students scored higher on semantic content (*d* = 0.67), visual style (*d* = 1.30) and spatial composition (*d* = 0.63). The studies converge on metacognitive control but test different outcomes, and the trust pathway exists only in the survey.
+
+## Key Findings
+
+1. Study 1 drew 450 valid questionnaires from art-and-design majors at eight [[higher-ed|higher education]] institutions in Zhejiang, collected April 1 to April 29, 2026, for a 98.9% valid response rate after five cases were removed for short completion times or contradictions. All 11 hypotheses were supported.
+2. Trust was the largest coefficient into behavioral intention (β = 0.425, *p* < 0.001), against social influence β = 0.155, metacognitive control β = 0.146, performance expectancy β = 0.128, effort expectancy β = 0.113 and facilitating conditions β = 0.092. The model explained 59.7% of the variance in intention (R² = 0.597).
+3. Every antecedent also fed trust: social influence β = 0.262, facilitating conditions β = 0.219, effort expectancy β = 0.204, performance expectancy β = 0.202, all *p* < 0.001, and metacognitive control β = 0.099, *p* = 0.042. Trust itself had R² = 0.435.
+4. Mediation through trust was partial for all five antecedents, with bias-corrected confidence intervals excluding zero. Social influence's indirect effect was 0.112 of a total 0.266, the 42.1% share; metacognitive control's indirect effect was only 0.042 of 0.188, so most of its association with intention was direct.
+5. Study 2 assigned 80 participants (40 per arm; 32 male, 48 female; ages 18–24, *M* = 20.35, *SD* = 1.27) to metacognitive prompts or standard instructions, then had three blinded experts score one generated image each on a 7-point scale.
+6. Expert means favored the prompted group on all three dimensions and survived false-discovery-rate correction: semantic content 5.02 versus 4.62 (*d* = 0.67), visual style 5.13 versus 4.28 (*d* = 1.30) and spatial composition 4.90 versus 4.52 (*d* = 0.63).
+7. Machine feature distances agreed in direction, with greater within-group dispersion for the prompted group on semantic content (0.510 versus 0.276), visual style (17.142 versus 9.979) and spatial composition (4.773 versus 4.271), permutation *p* < 0.0001, < 0.0001 and 0.001.
+8. Measurement was strong on the survey side — overall α = 0.927, construct α from 0.874 to 0.909, AVE from 0.636 to 0.770, CFI = 0.981, RMSEA = 0.029 — but expert agreement in the experiment was only moderate, ICC from 0.635 to 0.692.
+
+## Two studies, two kinds of claim
+
+The design split matters more than the shared construct. Study 1 is a cross-sectional [[quantitative-research|structural equation model]] of stated intention, so every path in it is an association measured at one time, and the authors say so. Study 2 is a between-subjects experiment with random assignment, blinded raters and a standardized task, which buys causal leverage over one manipulable piece of metacognitive control: the situational prompts given before creation. It does not measure trust, does not test the mediation model, and its outcome is expert-rated aesthetic quality rather than creative ability.
+
+That asymmetry is honest and also limiting. The paper's headline claim — trust as the strongest predictor of adoption — rests entirely on [[self-report-measures|self-reported]] intention from students who had already used generative AI. The experimental half says something narrower: four-stage prompts, delivered once, moved outputs away from what the model would have produced unprompted. Reading the two together as a single mechanism would overstate what was tested; the authors describe complementary triangulation and explicitly decline to claim the full pathway.
+
+The model itself was modified in ways worth noting. Use behavior was dropped because every respondent already used generative AI in coursework, which would have produced restricted variance and ceiling effects. Facilitating conditions were redirected to intention and trust rather than to use, on the argument that hardware and training raise perceived manageability before they produce creative use.
+
+## Why trust, and why social influence, leads
+
+In most educational technology acceptance work, performance expectancy is the primary driver of intention. Here it ranks fourth among the antecedents, behind trust, social influence and metacognitive control. The authors read the reversal as specific to artistic creation: students are not only asking whether the tool is productive but whether it is a legitimate medium for work that carries their authorship.
+
+The construct, however, is thinner than that framing suggests. The trust scale began as an established technology trust instrument with two added authorship items, and a pilot study of 121 students showed those two items loading on a separate factor (0.773 and 0.845) rather than on the five retained trust items. They were removed before the main analysis. Two of the five remaining items — originality and authorship, algorithmic fairness — cover art-specific concerns; the other three are functional reliability, safety and overall reliability. The authors therefore describe what they measured as primarily instrumental trust with an art-value supplement, and they warn against reading β = 0.425 as evidence of a developed art-specific trust dimension.
+
+What the scale captures is stated confidence, not [[trust-calibration|calibration]] — whether that confidence tracks the system's actual reliability on a given task. A student can trust a model appropriately or indiscriminately, and this instrument cannot tell the two apart.
+
+Social influence's prominence gets a more interesting reading. In traditional acceptance research it operates as [[social-norms-ai-use|normative pressure]] or imitation. The authors argue that in [[arts-design-and-media-education|art education]] it carries judgments about legitimacy, because artistic value is constructed through social negotiation and institutional recognition. When teachers and peers treat generative AI as a legitimate medium, students may revise their beliefs about what counts as authentic practice rather than merely conform. That reframes the coefficient as a claim about community standards, and it explains why the effect was larger than in general higher education samples.
+
+## Metacognitive control as a disposition and as a prompt
+
+The construct has four parts: planning interaction strategy before generation, monitoring whether outputs serve the goal, regulating the approach in response to [[feedback]], and maintaining explicit awareness of the human–AI division of labor. The theoretical argument for why art needs more of it is not that creative tasks are harder but that their stopping rules are unclear, so the creator must repeatedly decide what to keep, revise or discard.
+
+Study 1 measured this as an individual difference and found the smallest antecedent path to trust in the model, β = 0.099 at *p* = 0.042, close enough to threshold that it should not carry much weight. Its path to intention, β = 0.146, was more secure and mostly direct. Study 2 manipulated only the situational layer, with prompts aligned to the same four dimensions, and produced the largest effect on visual style. The authors suggest this is where procedural guidance most plausibly moves output, because it pushes against the model's default stylistic tendencies.
+
+The caution they attach is important. Greater within-group feature dispersion means images differed more from one another, which is a statistical property of embeddings and texture statistics, not a measure of creativity. Randomness, generation noise or stylistic drift would inflate the same numbers. Expert ratings are the primary evidence, and expert agreement was moderate, so the visual style effect in particular may shrink under reliability correction. The paper also notes that these magnitudes come from a short laboratory task with fixed keywords, one model and a 15-minute window.
+
+## What this means for practice
+
+- **Instructors.** Teach the process, not just the tool. Structured prompt worksheets that state creative goals before generation, revision logs that record why a prompt changed, and comparative critique of raw versus human-refined outputs all target the four dimensions the paper operationalizes, and the experimental arm suggests a single session of this is enough to shift output.
+- **Curriculum designers.** [[prompt-engineering|Prompt-engineering]] tricks are the wrong unit of instruction on their own. The paper's argument is that passive acceptance of formulaic output is a metacognitive failure, so [[assessment]] should weight planning documents, iteration records and role-boundary reflections alongside the final image.
+- **Program leads.** Legitimacy is a lever. Because social influence was the strongest correlate of trust, how instructors and departments frame generative AI as an acceptable medium is not incidental messaging; in this sample it was the dominant route into trust.
+- **Researchers.** The obvious next instrument is a validated art-specific trust scale. With two of five items carrying value-laden content and the authorship items discarded at the exploratory stage, the field currently has no measure that separates instrumental reliability from judgments about originality, attribution and fairness.
+
+## Limitations
+
+- Study 1 is cross-sectional, so the ordering among metacognitive control, trust and intention is assumed by the model rather than observed. The experiment does not repair this, because it never measured trust.
+- The trust scale is predominantly instrumental. The two authorship items were dropped after forming their own factor in a pilot of 121 students, leaving originality and fairness as the only art-specific content.
+- Participants are art majors at higher education institutions in Zhejiang Province only; the authors flag that regional norms about authorship and institutional AI policy may change the balance between instrumental and value-based trust.
+- Study 2 used 80 students, one model (Nano Banana 2, accessed as a preview build over two days in May 2026), two fixed keywords and a single 15-minute task, so the effect sizes are laboratory estimates.
+- Expert reliability was moderate (ICC 0.635 to 0.692), and the rating scale measures aesthetic quality rather than [[creativity]], which the authors state directly.
+- The design cannot test the collective creativity paradox, since it measured dispersion within groups rather than the distribution of outputs across independent users of one model.
+
+## Citation
+
+Zhu, R. (2026). [Supporting creative agency: Metacognitive control and trust in generative AI art education](https://doi.org/10.3389/fpsyg.2026.1997631). *Frontiers in Psychology, 17*, 1997631.
 
 ---
 

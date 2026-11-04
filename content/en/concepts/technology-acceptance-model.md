@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -84,6 +84,10 @@ Task characteristics fed fit at β = 0.322 and technology characteristics at β 
 
 The methodological addition is the more transferable part. A multilayer-perceptron network reproduced the PLS-SEM importance ranking in all four models. Necessary condition analysis then found only two floors: self-efficacy for usefulness (d = 0.125, p = 0.015) and attitude for intention (d = 0.132, p < 0.001). Attitude at 22.1%, 34.3% and 46.4% of its scale was required for intention at 80%, 90% and 100%, so attitude behaves as a gate rather than a weight, which is a different claim from a path coefficient of 0.388. The caution sits in the outcome: R² = 0.150 and Q² = 0.011 for intention say the ten hypothesized paths leave most of the variance elsewhere.
 
+**Design features upstream of the beliefs, and importance that is not necessity.** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin and Qing (2026)]] put six system features in front of the two TAM beliefs for 301 Chinese university students, borrowing a stimulus–organism–response frame. Personalization and interactivity moved perceived usefulness alone, while intelligence and content completeness moved ease of use alone. Responsiveness moved both; anthropomorphism moved neither. The model explained R² = 0.244 of intention (SRMR = 0.033), with ease of use ahead of usefulness on intention (β = 0.340 against 0.265). Ten-fold cross-validated network importance agreed, ranking ease of use at 100% against 84.70% for usefulness.
+
+Necessary condition analysis then separated influence from requirement. Ease of use, the top-ranked predictor, failed outright (d = 0, p = 0.592). Usefulness was necessary but small (d = 0.027, p = 0.011). The authors read the split as a caution against treating a path coefficient as a floor. A strong coefficient says a unit of ease buys intention on average; only necessity says whether the other belief can be absent.
+
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -144,3 +148,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
+- [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity

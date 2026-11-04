@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -88,6 +88,8 @@ The knowledge base's evidence repeatedly shows that **how** a construct is measu
 A 2026 appraisal of 33 teacher AI literacy instruments shows where instrument development is mature and where it is not. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] graded the instruments against a decision matrix adapted from COSMIN and Terwee et al. (2007) and found internal consistency the strongest domain (28 of 33 at Grade A, 84.8%) and fairness the weakest, with only five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Structural validity was strong, with 24 instruments (72.7%) at Grade A through CFA, PLS-SEM or IRT modeling, yet content validity rested mostly on [[qualitative-research|qualitative]] review, with 21 instruments (63.6%) at Grade B for lacking quantitative expert agreement statistics.
 
 Automated item selection can shorten an instrument without reshaping it: ant colony optimization over a merged two-wave sample (N = 305, 342) yielded a 12-item short form correlating r = 0.910–0.944 with the full scale on each dimension, though two items per dimension cover a narrower content range ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
+
+- **Validating a scale for an AI-specific construct.** [[chang-ai-cognitive-offloading-scale-2026|Chang (2026)]] walks the sequence for [[cognitive-offloading]]: 26 candidate items reduced to 20 across three functions (5 memory, 10 assistive, 5 thinking), with Study 1 on N = 665 reporting KMO = 0.965 and χ²(325) = 8904.89 before extraction. Study 2 on N = 1,123 fitted a second-order model at CFI = 0.951, TLI = 0.944, RMSEA = 0.047 and SRMR = 0.036, with CR 0.840–0.906, AVE 0.501–0.570, α = 0.944 and one-month retest 0.937 (n = 99). Full scalar invariance across gender held, with ΔCFI ≤ 0.001. The limits belong to the same account: no CVI, no HTMT and no latent-factor correlations were reported, so discriminant and content validity are asserted rather than demonstrated. The first-order three-factor model also posted SRMR = 0.158 against 0.051 for the one-factor model, and several items index attitudes toward reliance rather than behavior.
 
 ## Issues and limitations: what measurement can miss or get wrong
 
@@ -193,3 +195,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[llm-benchmark-secondary-science-topics-2026]] — A synthetic benchmark's measurement quality rests on its generation pipeline
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Difficulty without discrimination
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Same-construct pairs disagree in 41.2% of cases, and performance measures need their own validity argument (Fan et al. 2026)
+- [[chang-ai-cognitive-offloading-scale-2026]] — Validation of the AI Cognitive Offloading Scale, with the validity checks it omits

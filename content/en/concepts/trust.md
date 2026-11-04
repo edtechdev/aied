@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -46,6 +46,10 @@ How explainable a system is — and in what terms — also shapes whether teache
 Trust in AI behaves as a pathway from appraisal to reliance rather than a single attitude: perceived AI empowerment and perceived AI threat were near-independent (r=0.030) yet moved trust in opposite directions (β=0.576 and β=−0.328), and trust carried significant indirect associations with GenAI dependence in both directions ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
 A structural model gives that bridging role an empirical test. In [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]]'s survey of 642 university students, contextual support predicted trust calibration (β = 0.56), trust calibration predicted [[collaborative-learning|collaborative]] [[regulation]] (β = 0.49) and perceived [[transfer-of-learning|transfer]] gains (β = 0.22), and the direct path from contextual support to gains was not significant.
+
+**Trust ahead of every classic acceptance path.** [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]] added trust to UTAUT in a survey of 450 art-and-design students in Zhejiang and found it the strongest direct predictor of intention to use [[generative-ai|generative AI]] (β = 0.425). Social influence (0.155), metacognitive control (0.146) and performance expectancy (0.128) followed it. Social influence also carried the largest path into trust (β = 0.262), and 42.1% of its total association with intention ran through trust.
+
+The construct is thinner than the coefficient implies. It measures instrumental technology trust with an art-value supplement — stated confidence rather than calibrated reliability — and the two authorship items were dropped after forming their own factor in a 121-student pilot. A student can trust this model appropriately or indiscriminately, and the instrument cannot tell the two apart.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their skepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
@@ -157,3 +161,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised switching to an incorrect AI position; withholding a recommendation suppressed it
 - [[trust-calibration-genai-collaborative-regulation-2026]] — A structural model gives that bridging role an empirical test
+- [[zhu-creative-agency-trust-genai-art-2026]] — Instrumental trust as the strongest predictor of GenAI intention for art students

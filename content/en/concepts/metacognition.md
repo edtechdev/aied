@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -90,6 +90,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] gives the suppression account a preregistered causal test (N = 317) against worksheets. Disorganization rose by 0.84 (95% credible interval 0.47 to 1.21) and was the clearest effect in the model, while deep processing fell through a chain running from offloading to critical thinking rather than directly. The author names the state cognitive dormancy, in which monitoring and strategy selection go quiet while processing continues, and locates its cause in the affordances of the environment rather than in the learner.
+
+**Monitoring changes the route more than it blocks the path.** [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] split 600 undergraduates by a monitoring item and estimated each group separately: load predicted cognitive offloading at β = 0.844 for low monitors and β = 0.840 for high, effectively the same. Offloading predicted overreliance at 0.396 and 0.506, and the direct load path ran 0.560 and 0.419. Dependence among stronger monitors therefore traveled more through offloading and less directly. These are separate models, not a formal multi-group test.
 
 ## The Engagement–Motivation Distinction
 
@@ -209,3 +211,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: an experimental account of suspended metacognitive engagement and rising disorganization (Braun 2026)
 - [[ai-metacognition-three-level-meta-analysis-2026]] — Three-level meta-analysis: pooled g = 0.624, falling to non-significance for accuracy-rated monitoring (Li et al. 2026)
 - [[fan-metacognitive-offloading-sync-model-2026]] — SYNC model: metacognitive offloading vs. onloading, and task performance decoupled from durable learning (Fan et al. 2026)
+- [[guo-overreliance-genai-feedback-2026]] — Monitoring does not block the offloading path so much as reroute it

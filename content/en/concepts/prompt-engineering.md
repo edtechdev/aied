@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -37,6 +37,8 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
+
+- **Prompt literacy is a perceived capability, and it still predicts engagement.** In 829 design students across 40 intact classes, self-reported prompt literacy — six adapted self-report items, not observed prompting — predicted learning [[student-engagement|engagement]] at β = 0.539, 95% CI [0.473, 0.595] ([[han-prompt-literacy-ai-dependence-design-2026|Han and Cao, 2026]]). The association held regardless of functional dependence (p = 0.396) or emotional dependence (p = 0.941). Only cognitive dependence, substituting AI judgment for one's own, clearly thinned it.
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
 - **Vague prompts leave a trace in the dialogue.** The lower-quality group's signature was a self-repeating clarification loop (IC→IC, Z = 3.25), traced to vague prompts and AI misreadings, and carrying the study's largest frustration gap (2.12 vs 3.82); prompt debugging on authentic logs targets it as it happens ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
@@ -137,4 +139,4 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vague prompts produced self-repeating clarification loops with the largest frustration gap
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Prompt engineering competence as an equity pathway, with a cross-model scaffolding experiment (Li et al. 2026)
-
+- [[han-prompt-literacy-ai-dependence-design-2026]] — Prompt literacy as a perceived capability that still predicts engagement

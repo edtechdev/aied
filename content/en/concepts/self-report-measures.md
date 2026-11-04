@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -75,6 +75,8 @@ Sometimes asking and observing are set up head to head. [[student-llm-interactio
 A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-analysis]] of measures for competent [[generative-ai]] use puts a pooled number on that gap from the other direction: pooling three directly reported same-sample subjective–objective correlations (combined reported N = 2,765) gave r = .055 (Hartung–Knapp 95% CI [−.047, .156]), and adding a fourth study's cross-factor correlations reached only r = .079. All three primary effects came from a single research program, the largest contributor's reported correlation and p-value could not be reconciled, and the review concludes that self-report cannot stand in for objective performance scores — while noting that the performance instruments are themselves narrow, covering foundation knowledge rather than the oversight and reliance behaviors that matter at work ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
 A two-phase systematic review puts a rate on that divergence at the level of conclusions: of 51 same-construct pairs from 47 reports, 30 agreed, 11 disagreed and 10 were mixed. Disagreement ran both ways: five contrasts paired a null self-report result with a positive performance result, against two the reverse ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+
+One university library put both streams against the same propositions and found them pointing apart. Annual print loans fell from 406,120 in 2017 to 46,339 in 2025 and unique borrowers from 30,033 to 7,278, but the decline began before the GenAI period, and the January 2023 breakpoint showed no level or slope change. The survey put the explanatory weight on constructs: deep-reading demand predicted print continuance intention at H1 β = 0.908, while the hypothesized substitution path was near zero (H4 β = 0.038, *p* = 0.631), and platform AI features were 0.53% of operations in the first half of 2026. Respondents could not be linked to the loan records under data-governance rules, so the divergence can be read only at the population level, not person by person ([[huang-genai-academic-information-resources-2026|Huang et al. (2026)]]).
 
 The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one this page keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
 
@@ -201,3 +203,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership separated whole-essay delegation from everything else, while the trace separated much more (Jelson et al. 2026)
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] - perceptions reported in 32 of 66 studies against 8 that measured inquiry skills
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence
+- [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions

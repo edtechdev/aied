@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 ## Introduction
 
 The concept rests on the evidence that AI misuse actively harms durable learning — the performance–learning gap documented in [[ai-misuse-learning-harm]] — even while inflating immediate performance. Interventions therefore target the mechanisms of that harm: answer-copying, [[cognitive-offloading]], motivation erosion, and learning displacement. They are not mutually exclusive; a robust approach combines a structural floor with educative capacity-building.
+
+The mechanism by which misuse forms now has a measured chain behind it. [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] surveyed 600 undergraduates and found perceived cognitive load predicting cognitive offloading at β = 0.844 in the low-monitoring group and β = 0.840 in the high one. Offloading then predicted overreliance on AI feedback at β = 0.396 and β = 0.506 respectively, with indirect effects of 0.335 [0.069, 0.611] and 0.426 [0.149, 0.648]. Load also predicted overreliance directly (β = 0.560 and 0.419), so offloading is a partial mediator, and the antecedent a structural lever can attack is the load itself.
 
 ### Why structural levers matter most
 
@@ -142,3 +144,4 @@ Educative levers look different again once integrity is treated as a practice to
 
 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps
+- [[guo-overreliance-genai-feedback-2026]] — Cognitive load runs through offloading into overreliance, with monitoring changing the route

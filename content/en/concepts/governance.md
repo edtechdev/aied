@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -89,6 +89,8 @@ Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management
 
 **Most institutions cannot name who owns AI.** Among 387 students and staff at institutions in 13 countries, only 17% knew of a designated AI-management responsibility, while 71% of the remainder wanted one and expected it to combine training, ethical oversight, data security and strategy ([[kaze-ai-management-higher-ed-2026|Kaže et al. (2026)]]).
 
+**A proposed path from clarity to conduct.** [[li-su-teacher-genai-decision-making-2026|Li and Su (2026)]] model how institutional clarity might reach the classroom. Governance clarity, meaning rule clarity plus role clarity, is proposed as the contextual antecedent; perceived accountability as the state it works through; and decision uncertainty as the condition it acts on, reducible in its procedural form but not in genuine case uncertainty. AI literacy is proposed as a moderator, and the authors offer five testable propositions and one configurational expectation. This is a Hypothesis-and-Theory paper that collects no data, and its authors describe the paths as propositions, not empirically established effects.
+
 ### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to [[change-management|institutional change]] and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
@@ -171,3 +173,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegation, evidence and access: what agentic AI changes in university assessment governance (Wong & Sun 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI prototypes and school pilots as governance machinery that prefigures a chosen future (Williamson et al
+- [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes

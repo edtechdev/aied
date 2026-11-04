@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T15:40:00-05:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -57,6 +57,8 @@ Stage and performance technology is where AI-assisted instruction has been desig
 ## Visual Arts, Image Generation and Digital Media
 
 Text-to-image tools are the case where the studio's iterative workflow is most directly at stake, and the evidence is not a simple story of gain or loss. [[t2i-competence-paradox-2026|Liu, Meng and Zhang (2026)]] surveyed 417 art and design students alongside instructor focus groups and interviews, finding that performance expectancy, social influence, novelty value and creative competence all positively predicted intention to use text-to-image tools, while effort expectancy and facilitating conditions predicted negatively — which they read as shortcut-oriented use in coursework where ease and availability enable quick output rather than sustained engagement. Their competence paradox is the notable result: creative competence supports intention but also predicts more selective, restrained actual use, as students weigh authorship, originality and skill preservation against efficiency. They argue for pedagogy addressing [[ai-literacy|AI literacy]] around creative process, prompt crafting and output evaluation, with studio process and effort as the assessed object.
+
+The adoption question has a discipline-specific answer in [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]], who surveyed 450 art majors at eight Zhejiang institutions with a UTAUT model extended by [[trust]]. Trust was the strongest path to behavioral intention (β = 0.425), ahead of social influence (0.155), while metacognitive control ran more directly to intention (β = 0.146) than to trust (β = 0.099). The authors read that as this discipline's stake: art's stopping rules are unclear, so holding creative agency means deciding repeatedly what to keep, revise or discard. A randomized follow-up with 80 students had blinded experts rate generated images, and prompted students scored higher on semantic content (d = 0.67), visual style (d = 1.30) and spatial composition (d = 0.63).
 
 [[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]] turns critique into a replicable method: three epistemic games — Interpret, Interrogate and Expose — move studio discussion from impressionistic reaction to warranted bias hypotheses, with a BiasSlot rule varying one bias cue while a constant motif stays fixed.
 
@@ -134,3 +136,4 @@ Two other findings complicate any simple story of generative tools as an equalis
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Disability-led design of tactile and kinesthetic string instruction for blind and low-vision musicians (Shi et al. 2026)
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-assisted VR instruction for stage lighting, and the gap between expert and novice representations (Liang et al. 2026)
 - [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemic Games for Interpreting Text-to-Image Models (Foka 2026)
+- [[zhu-creative-agency-trust-genai-art-2026]] — Art students' creative agency, trust and expert-rated output quality
