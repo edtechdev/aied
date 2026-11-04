@@ -1,5 +1,5 @@
 ---
-title: "The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education"
+title: "The AI literacy heptagon: A structured approach to AI literacy in higher education"
 created: "2026-08-13T11:50:33-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

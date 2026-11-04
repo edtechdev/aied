@@ -1,5 +1,5 @@
 ---
-title: "AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake"
+title: "AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake"
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

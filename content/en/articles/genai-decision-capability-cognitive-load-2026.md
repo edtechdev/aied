@@ -1,5 +1,5 @@
 ---
-title: "Modelling Generative AI's Influence on Students' Perceived Decision Capability: A Cognitive Load and Decision Augmentation Approach"
+title: "Modelling generative AI's influence on students' perceived decision capability: A cognitive load and decision augmentation approach"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

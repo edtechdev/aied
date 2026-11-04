@@ -1,5 +1,5 @@
 ---
-title: "The Competence Paradox: Negotiating Ease, Risk, and Creative Identity in Text-to-Image Generative AI Use Among Art and Design Students"
+title: "The competence paradox: Negotiating ease, risk, and creative identity in text-to-image generative AI use among art and design students"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

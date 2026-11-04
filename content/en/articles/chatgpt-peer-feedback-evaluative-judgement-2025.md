@@ -1,5 +1,5 @@
 ---
-title: "Comparing ChatGPT Feedback and Peer Feedback in Shaping Students’ Evaluative Judgement of Statistical Analysis: A Case Study"
+title: "Comparing ChatGPT Feedback and Peer Feedback in Shaping Students' Evaluative Judgement of Statistical Analysis: A Case Study"
 created: "2026-09-30T12:06:47-04:00"
 updated: "2026-09-30T12:06:47-04:00"
 type: article

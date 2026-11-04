@@ -1,5 +1,5 @@
 ---
-title: "Family-school autonomy support for children's responsible use of generative artificial intelligence"
+title: "Family-school autonomy support for children's responsible use of generative artificial intelligence: a self-determination theory synthesis and developmental research agenda"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [motivation, self-determination-theory]

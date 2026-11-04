@@ -1,5 +1,5 @@
 ---
-title: "Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment"
+title: "Making AI tutoring productive: Evidence from a mastery-based math practice experiment"
 created: "2026-08-17T17:56:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

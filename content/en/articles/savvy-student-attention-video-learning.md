@@ -1,7 +1,7 @@
 ---
-title: "SAVVY: Student Attention Visualization for Video-based Learning Analysis"
+title: "SAVVY: Student attention visualization for video-based learning analysis"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal, visualization, edtech-platform]
@@ -27,7 +27,7 @@ SAVVY is an interactive visual analytics system for video-based learning that in
 - **Instructors.** Check pilot-cohort attention data before releasing an instructional video, so that revisions target the segments where attention actually drops rather than relying on subjective impressions of pacing and slides.
 - **Instructors.** Read attention against the material: because the system links visual and auditory attention to information density and slide transitions, it can show whether a near-blank or low-density slide is worth keeping (in the reported case, the expert shortened time on a near-blank slide rather than removing content).
 - **Designers.** Structure the tool for top-down exploration — course concept, then group, then individual trajectory — because a single aggregate heatmap or stacked-area view obscures the channel comparisons and level transitions that drive a revision decision.
-- **Designers.** Reserve multimodal brain sensing (EEG plus fNIRS) for settings that need stable real-world tracking: the combined model outperformed single-modality variants in the reported evaluation, and the ablation confirms each modality contributes.
+- **Designers.** Reserve multimodal brain sensing ([[sensor-and-gaze-analytics|EEG]] plus fNIRS) for settings that need stable real-world tracking: the combined model outperformed single-modality variants in the reported evaluation, and the ablation confirms each modality contributes.
 
 ## Limitations
 

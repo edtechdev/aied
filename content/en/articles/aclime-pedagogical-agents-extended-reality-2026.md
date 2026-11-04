@@ -1,7 +1,7 @@
 ---
 title: "Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [scaffolding, learning-theories, situated-learning, embodied-learning]
 technology: [pedagogical-agent, virtual-and-augmented-reality]
@@ -37,7 +37,7 @@ Instructional design principles are the moderators between that foundation and t
 
 Two interaction modes come from the literature: the tutor, supporting [[learners]] through guidance, reflective questioning and explanations, and the role-playing partner, taking a defined role for realistic, situated dialogue — a local in a climate-change field trip, a negotiating counterpart in corporate training where [[feedback]] improves communication.
 
-Agent characteristics are expressed through body and behavior: appearance and physical features on one side, AI-controlled or rule-based behavior on the other, with [[llm|large language models]] enabling more flexible verbal communication; output is speech or visible text, plus gestures, gaze, posture and proxemics (Hall). Realism is visual or behavioral, and the behavioral form must carry the interaction when perceived virtual human agency is low, though more realism is not always better: the uncanny valley can cause sudden rejection.
+Agent characteristics are expressed through body and behavior: appearance and physical features on one side, AI-controlled or rule-based behavior on the other, with [[llm|large language models]] enabling more flexible verbal communication; output is speech or visible text, plus gestures, [[sensor-and-gaze-analytics|gaze]], posture and proxemics (Hall). Realism is visual or behavioral, and the behavioral form must carry the interaction when perceived virtual human agency is low, though more realism is not always better: the uncanny valley can cause sudden rejection.
 
 ## Theoretical grounding: presence, embodiment and social agency
 

@@ -1,5 +1,5 @@
 ---
-title: Faculty Orientations Shape Adoption of AI in Research and Teaching
+title: "Faculty orientations shape adoption of AI in research and teaching"
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

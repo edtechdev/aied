@@ -1,5 +1,5 @@
 ---
-title: "The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap"
+title: "The eight-mode AI engagement typology: Differential cognitive signatures and a self-report–behavior gap"
 created: "2026-09-18T15:20:00-04:00"
 updated: "2026-09-21T04:33:06-04:00"
 type: article

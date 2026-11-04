@@ -55,4 +55,4 @@ methods: [rct]
 
 ## Citation
 
-Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access is Not Enough: Human Support Improves Engagement with AI Tutoring. EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University. DOI](https://doi.org/10.26300/pz7p-p388)
+Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access is Not Enough: Human Support Improves Engagement with AI Tutoring](https://doi.org/10.26300/pz7p-p388). EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University.

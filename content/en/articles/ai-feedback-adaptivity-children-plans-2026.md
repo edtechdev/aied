@@ -1,5 +1,5 @@
 ---
-title: "Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans"
+title: "Adaptivity makes feedback effective: Evidence from AI-generated feedback on children's plans"
 created: "2026-09-18T13:20:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

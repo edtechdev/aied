@@ -1,5 +1,5 @@
 ---
-title: "Teacher or Artificial Intelligence? The Effect of Decision-Making Agent on Junior High School Students’ Decision Acceptance: A Moderated Mediation Model"
+title: "Teacher or Artificial Intelligence? The Effect of Decision-Making Agent on Junior High School Students' Decision Acceptance: A Moderated Mediation Model"
 created: "2026-09-30T13:47:09-04:00"
 updated: "2026-09-30T13:47:09-04:00"
 type: article

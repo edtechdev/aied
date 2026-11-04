@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review"
+title: "Artificial intelligence agents in computer-supported collaborative learning: a systematic literature review"
 created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

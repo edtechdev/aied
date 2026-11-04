@@ -1,5 +1,5 @@
 ---
-title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines"
+title: "Game-based and gamified robotics education: A comparative systematic review and design guidelines"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

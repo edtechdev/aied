@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Impact of Generative AI-Driven Adaptive Assessment Frameworks on Critical Thinking and Academic Integrity"
+title: "Evaluating the Impact of Generative AI-Driven Adaptive Assessment Frameworks on Critical Thinking and Academic Integrity in Higher Education"
 created: "2026-10-05T10:00:00-04:00"
 updated: "2026-10-05T10:00:00-04:00"
 type: article

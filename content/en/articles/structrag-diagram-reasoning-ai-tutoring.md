@@ -1,5 +1,5 @@
 ---
-title: "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education"
+title: "Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:59:12-04:00"
 type: article

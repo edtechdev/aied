@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning Measurement Model
+title: "Reinforcement learning measurement model"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

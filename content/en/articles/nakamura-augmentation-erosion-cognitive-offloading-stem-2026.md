@@ -1,5 +1,5 @@
 ---
-title: "Augmentation or Erosion? Regulating Cognitive Offloading in Generative AI-Supported STEM Learning"
+title: "Augmentation or erosion? Regulating cognitive offloading in generative AI-supported STEM learning"
 created: "2026-10-25T10:05:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Preservice mathematics teachers’ noticing in AI-based simulations: transitions among attending, interpreting, and shaping"
+title: "Preservice mathematics teachers' noticing in AI-based simulations: transitions among attending, interpreting, and shaping"
 created: "2026-09-25T11:42:33-04:00"
 updated: "2026-09-25T12:56:00-04:00"
 type: article

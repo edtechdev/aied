@@ -1,5 +1,5 @@
 ---
-title: "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students"
+title: "The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback"
+title: "Benefit or Bottleneck? Assessing the impact of structured reflection on learning from AI-driven explanatory feedback"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article

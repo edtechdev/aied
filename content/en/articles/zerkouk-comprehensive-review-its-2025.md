@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of Intelligent Tutoring Systems
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-20T04:00:38-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogical-agent, llm-training-and-fine-tuning]
@@ -36,7 +36,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠[[teacher-role|teaching]] quality) | — |
 | NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[hazra-safetutors-pedagogical-safety-2026]] (emotional risks, parasocial dependency) |
-| [[agentic-ai|Multi-agent]] architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[golrang-propact-pair-programming-2026|ProPACT]] (effective but requires eye-tracking hardware) |
+| [[agentic-ai|Multi-agent]] architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[golrang-propact-pair-programming-2026|ProPACT]] (effective but requires [[sensor-and-gaze-analytics|eye-track]]ing hardware) |
 
 ## Key Implications for the Field
 

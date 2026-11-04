@@ -1,5 +1,5 @@
 ---
-title: "Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines"
+title: "Unpacking the heterogeneity of pre-service teachers' ChatGPT acceptance: a latent profile analysis across STEM and non-STEM disciplines"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

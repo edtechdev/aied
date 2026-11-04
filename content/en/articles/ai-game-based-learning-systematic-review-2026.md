@@ -1,7 +1,7 @@
 ---
 title: "Effectiveness of AI-Supported Game-Based Learning: A Systematic Review of Outcomes, Challenges, and Future Directions"
 created: "2026-09-30T12:34:39-04:00"
-updated: "2026-09-30T12:34:39-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/10.3390_bs16071050.md']
 confidence: high
@@ -34,7 +34,7 @@ reviewed_by: [editor]
 - **LLM and [[generative-ai|generative AI]] mechanisms were the most common.** LLM/generative AI mechanisms appeared in 24 of 55 studies (44%) and [[adaptive-learning|adaptive difficulty adjustment]] in 15 (27%). [[language-learning|Language learning]]/EFL/CFL contexts and [[science-education|science education]] were each the domain of 8 studies (15%), and quasi-experimental designs with control groups predominated (25 studies, 45%).
 - **The evidence base is methodologically thin.** Quality appraisal rated 4 studies (7%) High, 31 (57%) Moderate and 20 (36%) Low (mean = 16.1, SD = 2.9, range = 9–21); true experiments were rare, with 4 [[rct|RCTs]] (7%).
 - **Reported effects are positive but scattered.** Kulkarni et al. (2025) reported a 6.03-point arithmetic gain among primary children; a generative AI financial literacy game produced a 58% increase in performance and a 37% reduction in maladaptive gambling behaviors (Santos et al., 2026, n = 134); a generative AI leadership [[simulation]] added 16 percentage points over control (t = 9.13, p < 0.001, Daniels et al., 2025, n = 160); and rule-based adaptive difficulty raised creative [[self-efficacy]] (η2p = 0.349, Guo et al., 2026).
-- **Motivation moved more consistently than knowledge.** Damastuti et al. (2024) reported 35% longer play sessions and 28% better player effectiveness; emotion-, gaze- and context-aware adaptation cut negative emotional responses by 50% and raised quiz scores by 15% (Ayyal Awwad, 2025).
+- **Motivation moved more consistently than knowledge.** Damastuti et al. (2024) reported 35% longer play sessions and 28% better player effectiveness; emotion-, [[sensor-and-gaze-analytics|gaze]]- and context-aware adaptation cut negative emotional responses by 50% and raised quiz scores by 15% (Ayyal Awwad, 2025).
 - **Scaffolding can reduce load and invite dependence.** [[llm|LLM scaffolding]] reduced [[cognitive-offloading|cognitive load]] and improved achievement, but Fang et al. (2025) found that positive perceptions of an LLM tutor did not necessarily translate into [[learning-gains|learning gains]], with content-relevant AI responses associated with more superficial engagement.
 - **Adaptation direction and interaction quality matter more than AI presence.** Rule-based dynamic difficulty outperformed progressive difficulty in a VR task (Ahmed et al., 2025, n = 50); low-frequency goal-directed NPC interactions outperformed high-frequency exploratory ones (M. Wang et al., 2025); and Gaurav et al. (2022) and G. Tao et al. (2026) both found AI conditions that did not significantly outperform conventional game-based learning on knowledge.
 - **Stealth assessment works; equity auditing does not yet.** [[machine-learning|Machine learning]] and deep learning models predicted learner states from gameplay with AUCs of 0.848–0.913, and one debiased model kept its accuracy. Of the 55 studies, only two explicitly conducted bias audits, and one examined differential outcomes by learner ability level.

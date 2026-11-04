@@ -1,7 +1,7 @@
 ---
 title: "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-09-16T15:50:31-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, knowledge-tracing, learning-analytics, llm, rag, visualization, edtech-platform]
@@ -26,7 +26,7 @@ audience: [learning analytics designers, instructors, researchers]
 
 ## Background: Collaboration Literacy and Assessment
 
-[[collaborative-learning|Collaboration literacy]] — the capacity to adapt to the evolving demands of [[group-work|group work]] — remains a persistent challenge for [[learning-analytics]]. Because concepts evolve and are negotiated through in-depth discussion, collaboration quality is difficult to assess through behavioral signals alone. Traditional analytics metrics capture behavioral indicators such as verbal participation rates and [[multimodal]] gesture/gaze patterns, yet they miss the semantic dimensions of discourse: how ideas are proposed, built upon, and integrated. The 7C framework, derived directly from the construct of collaboration literacy rather than task-specific process behaviors, characterizes discussions along seven dimensions — Climate, Communication, Compatibility, Conflict, Context, Contribution, and Constructive — but applying it relies on labor-intensive manual analysis that limits scalability. CLARA motivates using [[llm|large language models]] to automate this [[qualitative-research|qualitative]] [[assessment]].
+[[collaborative-learning|Collaboration literacy]] — the capacity to adapt to the evolving demands of [[group-work|group work]] — remains a persistent challenge for [[learning-analytics]]. Because concepts evolve and are negotiated through in-depth discussion, collaboration quality is difficult to assess through behavioral signals alone. Traditional analytics metrics capture behavioral indicators such as verbal participation rates and [[multimodal]] gesture/[[sensor-and-gaze-analytics|gaze]] patterns, yet they miss the semantic dimensions of discourse: how ideas are proposed, built upon, and integrated. The 7C framework, derived directly from the construct of collaboration literacy rather than task-specific process behaviors, characterizes discussions along seven dimensions — Climate, Communication, Compatibility, Conflict, Context, Contribution, and Constructive — but applying it relies on labor-intensive manual analysis that limits scalability. CLARA motivates using [[llm|large language models]] to automate this [[qualitative-research|qualitative]] [[assessment]].
 
 ## System Design: Artifacts and the Agentic Workflow
 

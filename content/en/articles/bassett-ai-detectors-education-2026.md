@@ -1,5 +1,5 @@
 ---
-title: "Heads We Win, Tails You Lose: AI Detectors in Education"
+title: "Heads we win, tails you lose: AI detectors in education"
 created: "2026-08-22T19:50:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

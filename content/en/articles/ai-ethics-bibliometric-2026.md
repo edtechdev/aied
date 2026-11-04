@@ -1,5 +1,5 @@
 ---
-title: "From Abstract Ethics to Situated Practice: A Bibliometric Analysis of AI Ethics and Professional Judgement"
+title: "From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

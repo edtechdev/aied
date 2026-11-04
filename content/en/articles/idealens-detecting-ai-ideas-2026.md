@@ -1,5 +1,5 @@
 ---
-title: "IdeaLens: Detecting AI Ideas in Long-form Writing"
+title: "IdeaLens: Detecting AI ideas in long-form writing"
 created: "2026-10-09T00:23:28-04:00"
 updated: "2026-10-09T01:16:31-04:00"
 type: article

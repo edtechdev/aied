@@ -1,7 +1,7 @@
 ---
 title: "Voice-Based AI Feedback in Higher Education: A Field Study on Quality and Actionability"
 created: "2026-10-22T18:31:57-04:00"
-updated: "2026-10-22T18:31:57-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/2610.25560.md']
 confidence: low
@@ -38,7 +38,7 @@ The empirical basis for that expectation is genuinely mixed, and the proposal is
 
 ## Why a talking agent should change what students say
 
-The theoretical frame is the Computers As Social Actors paradigm: people apply social rules to machines even knowing they are machines. The lineage the proposal leans on is direct — computers eliciting intimate self-disclosure through reciprocal exchange (Moon, 2000), politeness toward a computer that asks about its own performance (Nass et al., 1997), and virtual humans increasing willingness to disclose sensitive information because a non-human interviewer feels less judgmental (Lucas et al., 2014). Recent work on agent self-disclosure, [[community-of-inquiry|social presence]] and trust in [[human-ai-collaboration|human-AI interaction]] extends the same mechanism.
+The theoretical frame is the Computers As Social Actors paradigm: people apply social rules to machines even knowing they are machines. The lineage the proposal leans on is direct — computers eliciting intimate self-disclosure through reciprocal exchange (Moon, 2000), politeness toward a computer that asks about its own performance (Nass et al., 1997), and [[ai-avatars-and-synthetic-instructors|virtual human]]s increasing willingness to disclose sensitive information because a non-human interviewer feels less judgmental (Lucas et al., 2014). Recent work on agent self-disclosure, [[community-of-inquiry|social presence]] and trust in [[human-ai-collaboration|human-AI interaction]] extends the same mechanism.
 
 That literature supports two opposite predictions for this setting, which is the interesting part of the proposal. Social presence could increase elaboration, because a conversational partner invites narrative and the agent's follow-up probes reward detail. It could equally increase social desirability bias, because a voice that sounds like a person is harder to criticize than a blank form. The proposal's three hypotheses take the first path — elaboration, candid disclosure, then actionability — but its own measurement plan includes the instructor's independent rating, which is what would catch the second.
 

@@ -1,5 +1,5 @@
 ---
-title: "Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation"
+title: "Mathematics Teachers' Interactions with a Multi-Agent System for Personalized Problem Generation"
 created: "2026-09-24T02:21:10-04:00"
 updated: "2026-09-24T02:21:10-04:00"
 type: article

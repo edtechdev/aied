@@ -1,5 +1,5 @@
 ---
-title: "Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education"
+title: "Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education"
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

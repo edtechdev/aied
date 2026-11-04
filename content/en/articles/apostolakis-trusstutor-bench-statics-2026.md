@@ -1,5 +1,5 @@
 ---
-title: "TrussTutor-Bench: Benchmarking Large Language Models on Solution Accuracy, Sycophancy, and Error Detection in Statics"
+title: "TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics"
 created: "2026-10-30T09:31:00-04:00"
 updated: "2026-10-30T09:31:00-04:00"
 type: article

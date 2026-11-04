@@ -1,5 +1,5 @@
 ---
-title: "Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading"
+title: "Thumb on the scale: Using traditional wargaming adjudication practices to improve AI-judged evaluations and grading"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"
 type: article

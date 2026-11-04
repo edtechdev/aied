@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context"
+title: "The impact of generative AI on academic integrity of authentic assessments within a higher education context"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

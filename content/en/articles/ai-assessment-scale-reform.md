@@ -1,5 +1,5 @@
 ---
-title: 'A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform'
+title: "'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform"
 created: "2026-06-26T04:33:04-04:00"
 updated: "2026-09-19T07:48:34-04:00"
 type: article

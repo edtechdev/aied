@@ -1,5 +1,5 @@
 ---
-title: "Conceptualizations of GenAI and Students' Professionalization: Within the Multi-Layered Environment of Learning for Higher Education"
+title: "Conceptualizations of GenAI and students' professionalization: Within the multi-layered environment of learning for higher education"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

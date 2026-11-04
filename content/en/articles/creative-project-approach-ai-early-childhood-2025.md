@@ -1,5 +1,5 @@
 ---
-title: "Tailoring AI Agents for Early Learning: The Creative Project Approach"
+title: "Tailoring AI agents for early learning: The Creative Project Approach"
 created: "2026-09-05T00:20:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

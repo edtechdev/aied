@@ -1,5 +1,5 @@
 ---
-title: "From AI Intuition to AI Literacy: A Dual Framework for K-12 Education"
+title: "From AI intuition to AI literacy: A dual framework for K-12 education"
 created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article

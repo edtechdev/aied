@@ -1,5 +1,5 @@
 ---
-title: "From tool to scaffold: Structured human–AI collaboration and its effects on academic writing and digital critical thinking"
+title: "From tool to scaffold: Structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners"
 created: "2026-09-25T11:42:33-04:00"
 updated: "2026-09-25T12:56:00-04:00"
 type: article

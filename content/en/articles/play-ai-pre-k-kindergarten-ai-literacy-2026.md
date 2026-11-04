@@ -1,5 +1,5 @@
 ---
-title: "Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten"
+title: "Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

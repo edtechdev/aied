@@ -1,5 +1,5 @@
 ---
-title: "AI refusal in higher education: the right to refuse, the duty to understand and the diagnostic value of non-use"
+title: "AI refusal in higher education: The right to refuse, the duty to understand and the diagnostic value of non-use"
 created: "2026-09-21T07:58:39-04:00"
 updated: "2026-09-21T07:58:39-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education"
+title: "Learning context: A unified framework and roadmap for context-aware AI in education"
 created: "2026-08-24T17:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

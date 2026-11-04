@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Online Learning: Using BERTopic to Track Research Topics and Their Evolutions"
 created: "2026-09-29T20:05:00-04:00"
-updated: "2026-09-29T20:05:00-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 published: "2026-08-07"
 page_kind: [synthesis]
@@ -28,7 +28,7 @@ ai_assist:
 ## Key Findings
 1. **Eleven topics from 1,048 publications.** A BERTopic model of AIOL research published 2010–2023 in Web of Science SCI/SSCI journals yielded 11 topics, the largest being [[machine-learning|machine learning]] for online predictive analytics at 17.50% of the corpus.
 2. **Two topics decline significantly.** [[adaptive-learning|Intelligent adaptive online learning systems]] (12.77%) and optimization algorithm-based [[personalized-learning|personalized online learning]] (6.37%) are the only topics whose trends decrease significantly (p = 1.954e-05 and p = 0.0004589).
-3. **Five topics grow significantly.** Machine learning for predictive analytics, MOOC forum and review analysis, [[self-regulated-learning|self-regulated learning]], online learning in COVID-19, and EEG-based online [[learning-analytics|learning analytics]] all rise significantly (p < 0.05 or smaller).
+3. **Five topics grow significantly.** Machine learning for predictive analytics, MOOC forum and review analysis, [[self-regulated-learning|self-regulated learning]], online learning in COVID-19, and [[sensor-and-gaze-analytics|EEG]]-based online [[learning-analytics|learning analytics]] all rise significantly (p < 0.05 or smaller).
 4. **Early machine learning expands into specialized subtopics.** A Sankey comparison of topic vectors shows the 2010–2016 topic machine learning for online education flowing into data-driven decision systems, predictive analytics, MOOC dropout prediction, clustering and data mining, and deep learning analytics.
 5. **Multimodal and physiological data mark the emerging edge.** Emotion recognition with deep learning and EEG-based learning analytics point to affective and physiological signals, extending AIOL beyond clickstream and quiz-score modeling toward [[affective-computing|emotion-aware]] adaptation.
 6. **A conceptual model, not a tested one.** The authors propose four components — data, AI processing, adaptive learning, learner development — and insert [[explainable-ai]] as a cross-cutting design principle that never emerged as an independent empirical topic.

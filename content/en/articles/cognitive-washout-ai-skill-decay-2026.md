@@ -1,7 +1,7 @@
 ---
-title: "After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay"
+title: "After the assistant leaves: Cognitive washout dynamics and the reversibility of AI-induced skill decay"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
@@ -18,7 +18,7 @@ sources: ['raw/papers/cognitive-washout-ai-skill-decay-2026.md']
 
 ## The gap: measurement stops when assistance ends
 
-A large and consistent literature documents what AI does to cognition *during* use: surveys link heavier reliance with reduced [[self-report-measures|self-reported]] [[critical-thinking|critical thinking]]; cross-sectional work finds offloading statistically mediates the association between tool use and weaker critical thinking; EEG studies of essay writers using an [[llm]] show weaker neural connectivity and poorer recall of their own submitted texts; and randomized trials ([[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Bastani et al.]], Liu et al.) give causal evidence that brief assistance depresses subsequent unassisted performance and erodes persistence. The two studies closest to the question captured **immediate post-test snapshots hours** after assistance ended and explicitly flagged the longitudinal gap.
+A large and consistent literature documents what AI does to cognition *during* use: surveys link heavier reliance with reduced [[self-report-measures|self-reported]] [[critical-thinking|critical thinking]]; cross-sectional work finds offloading statistically mediates the association between tool use and weaker critical thinking; [[sensor-and-gaze-analytics|EEG]] studies of essay writers using an [[llm]] show weaker neural connectivity and poorer recall of their own submitted texts; and randomized trials ([[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Bastani et al.]], Liu et al.) give causal evidence that brief assistance depresses subsequent unassisted performance and erodes persistence. The two studies closest to the question captured **immediate post-test snapshots hours** after assistance ended and explicitly flagged the longitudinal gap.
 
 What is almost never measured is the period *after* exposure ends. Yet that is where the practically important questions live — a student who used an answer-giving tutor all semester sits an exam with no tutor; a developer whose code-review partner was a model goes on-call during an outage; an organization migrating off an assistant inherits a workforce measured only under assistance. Whether people rebound, plateau, or fail in ways nobody tested is currently unknowable because the experiment has not been run. A 2024 theoretical analysis predicted the phenomenon and called for withholding studies; none has appeared.
 

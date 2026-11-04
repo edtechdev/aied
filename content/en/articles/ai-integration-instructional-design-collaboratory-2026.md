@@ -1,5 +1,5 @@
 ---
-title: "AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation"
+title: "AI integration as instructional design: Lessons from a cross-institutional faculty collaboratory in teacher preparation"
 created: "2026-09-21T04:50:18-04:00"
 updated: "2026-09-21T04:50:18-04:00"
 type: article

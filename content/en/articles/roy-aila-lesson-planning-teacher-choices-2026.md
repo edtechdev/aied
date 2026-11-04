@@ -76,4 +76,4 @@ The workload finding is also about planning time, not about learning. Nothing in
 
 ## Citation
 
-Roy, P., Poet, H., Staunton, R., Aston, K., Thomas, D. and Styles, B. (2026). [*Lesson planning using AI lesson assistant, Aila - A Teacher Choices Trial: Evaluation report*](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial). London: Education Endowment Foundation. Published under the Open Government Licence v3.0.
+Roy, P., Poet, H., Staunton, R., Aston, K., Thomas, D. and Styles, B. (2026). [Lesson planning using AI lesson assistant, Aila - A Teacher Choices Trial: Evaluation report](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial). London: Education Endowment Foundation. Published under the Open Government Licence v3.0.

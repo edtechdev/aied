@@ -1,5 +1,5 @@
 ---
-title: "Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry"
+title: "Reimagining the philosophy of experimentation in chemistry education: Embracing AI as a tool for scientific inquiry"
 created: "2026-08-19T12:50:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

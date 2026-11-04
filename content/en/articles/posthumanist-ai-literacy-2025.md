@@ -1,5 +1,5 @@
 ---
-title: "A Posthumanist Approach to AI Literacy"
+title: "A posthumanist approach to AI literacy"
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

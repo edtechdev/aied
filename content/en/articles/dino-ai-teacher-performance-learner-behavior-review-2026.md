@@ -1,5 +1,5 @@
 ---
-title: "Twenty-One Studies, Two Separate Targets: AI Assessment of Teacher Performance and Learner Behavior in Higher Education"
+title: "Assessment of teacher performance and learner behavior using artificial intelligence in higher education: an integrative review of literature"
 created: "2026-11-04T19:30:00-05:00"
 updated: "2026-11-04T19:30:00-05:00"
 type: article
@@ -30,8 +30,8 @@ source_depth: full text
 1. All 21 included studies were empirical and were published between 2018 and 2026, with activity concentrated in 2025 (*n* = 7; 33.33%) and 2024 (*n* = 6; 28.57%).
 2. Teacher performance was the most frequently assessed dimension (*n* = 11; 52.38%), followed by learner behavior (*n* = 4; 19.05%) and learner performance (*n* = 3; 14.29%). No study assessed teacher behavior as a standalone dimension.
 3. Only 2 of the 21 studies (9.52%) assessed teacher performance and learner behavior concurrently, and 3 of 21 combined any two dimensions — learner behavior with teacher performance, learner behavior with learner performance, or learner performance with teacher behavior.
-4. Machine learning (*n* = 6; 28.57%) and natural language processing (*n* = 6; 28.57%) were the most common approaches. Computer vision and multimodal or speech recognition appeared in 3 studies each (14.29%), and 3 studies did not name a technology.
-5. Data sources split along the assessment target: teacher-focused studies worked mainly from student-written feedback, survey responses and learning management system records, while learner-focused studies drew on classroom video, activity logs and facial-expression analysis.
+4. [[machine-learning|Machine learning]] (*n* = 6; 28.57%) and [[educational-nlp|natural language processing]] (*n* = 6; 28.57%) were the most common approaches. Computer vision and [[multimodal]] or [[speech-and-voice-technologies|speech recognition]] appeared in 3 studies each (14.29%), and 3 studies did not name a technology.
+5. Data sources split along the assessment target: teacher-focused studies worked mainly from student-written feedback, survey responses and [[edtech-platform|learning management system]] records, while learner-focused studies drew on classroom video, activity logs and facial-expression analysis.
 6. Four thematic domains organize the corpus: Evaluation (*n* = 8), Engagement (*n* = 6), Expression (*n* = 5) and Experience (*n* = 5). Three studies sit in two domains because their stated purposes spanned both.
 7. Keyword network mapping produced eight clusters, but only one of them — Data-Driven Performance Assessment — spans teacher and learner targets together.
 
@@ -47,9 +47,9 @@ Two labeling details are worth recording. The journal's type line calls the pape
 
 Under **Evaluation**, machine learning, NLP and large language model systems scored or predicted teacher performance from student-derived data, with high accuracy where a figure was reported. One study in this group, Zion et al. (2025), found that AI-generated scores aligned only moderately with student perceptions of teaching — a limit the authors return to in the discussion.
 
-Under **Engagement**, AI tools sorted students by engagement level in online, on-site and hybrid settings. The review records a specific failure mode: an image-only approach was constrained by privacy requirements and by insufficient visual context, which the authors attribute to Spivakovskiy et al. (2025).
+Under **Engagement**, AI tools sorted students by engagement level in online, on-site and hybrid settings. The review records a specific failure mode: an image-only approach was constrained by [[privacy]] requirements and by insufficient visual context, which the authors attribute to Spivakovskiy et al. (2025).
 
-Under **Expression**, NLP and sentiment models classified written student feedback by sentiment, topic or rating, again with high accuracy where reported. One included study found that the models reproduced biases already present in student ratings (Rybinski and Kopciuszewska, 2021).
+Under **Expression**, NLP and sentiment models classified written student feedback by sentiment, topic or rating, again with high accuracy where reported. One included study found that the models reproduced [[bias-mitigation|biases]] already present in student ratings (Rybinski and Kopciuszewska, 2021).
 
 Under **Experience**, machine learning, deep learning and sensor-based tools captured observable classroom behavior, including in physical education settings.
 
@@ -63,7 +63,7 @@ That matters for how the paper should be read. Statements such as "performance w
 
 ## Quality and coverage
 
-The design mix was 10 quantitative non-randomized studies, 5 mixed methods, 4 quantitative descriptive and 2 qualitative. No randomized controlled trial was included. Of 105 criterion-level MMAT judgments, 89 were rated Yes, 8 No and 8 Can't Tell; 13 studies met all five criteria and 16 met at least four. All qualitative and mixed-methods studies met every applicable criterion.
+The design mix was 10 quantitative non-randomized studies, 5 [[mixed-methods-research|mixed methods]], 4 quantitative descriptive and 2 [[qualitative-research|qualitative]]. No [[rct|randomized controlled trial]] was included. Of 105 criterion-level MMAT judgments, 89 were rated Yes, 8 No and 8 Can't Tell; 13 studies met all five criteria and 16 met at least four. All qualitative and mixed-methods studies met every applicable criterion.
 
 Weakness concentrated in sampling. Among non-randomized studies, all 10 met the outcome-measurement and outcome-completeness criteria, but only 6 were rated Yes on participant representativeness and 7 on confounder control. Descriptive studies were the weakest group, with 1 of 4 rated Yes on low nonresponse bias and 2 of 4 on sample representativeness. Most Can't Tell ratings fell on sampling items, which the authors read as incomplete reporting rather than demonstrated design failure. The three lowest-rated studies met two of five criteria.
 
@@ -71,14 +71,14 @@ Coverage is uneven in ways that constrain the map. The Western Pacific Region su
 
 ## What this means for practice
 
-- **Institutions.** Treat vendor and pilot accuracy claims as single-context results. The review found no pooled evidence that AI assessment generalizes, and 7 of 21 studies drew on 100 or fewer participants.
+- **Institutions.** Treat vendor and pilot accuracy claims as single-context results. The review found no pooled evidence that [[automated-assessment|AI assessment]] generalizes, and 7 of 21 studies drew on 100 or fewer participants.
 - **Quality-assurance offices.** Do not substitute algorithmic scores for student evaluations of teaching. The one included study that compared the two found only moderate alignment, and another found sentiment models reproducing the biases already in rating data.
 - **Researchers.** The open question is the paired one: only 2 of 21 studies measured teacher performance and learner behavior together. A design that captures both, with synchronized data, addresses the gap the review identifies rather than adding another single-target study.
 - **Tool builders.** Text-based approaches dominated because the data already exists in [[feedback|feedback]] forms and LMS logs; [[learning-analytics|learning analytics]] infrastructure makes them cheaper to deploy than video or sensor pipelines. The review's account of image-only engagement detection suggests the cheaper route is also the more privacy-defensible one.
 
 ## Limitations
 
-- The search covered only Scopus, Web of Science and ERIC, omitting IEEE Xplore and the ACM Digital Library, which likely underrepresents computer science work on system design and technical implementation.
+- The search covered only Scopus, Web of Science and ERIC, omitting IEEE Xplore and the ACM Digital Library, which likely underrepresents [[cs-education|computer science]] work on system design and technical implementation.
 - Only peer-reviewed English-language journal articles were eligible, so conference proceedings, dissertations and technical reports were excluded — a publication and language bias that may cut off the newest technical work.
 - The evidence base is 21 studies, and no meta-analysis was possible because of methodological and outcome heterogeneity, so the synthesis carries no pooled estimate and limited generalizability.
 - Inter-rater agreement was not calculated, the keyword map used a minimum occurrence of one and is exploratory, and MMAT is not designed for algorithm-development studies, so the quality ratings should be read cautiously.

@@ -2,7 +2,7 @@
 title: "Look Over There! Dynamic Visual Guidance for AI-Narrated Slides"
 published: "2026-10-30"
 created: "2026-11-02T09:28:00-05:00"
-updated: "2026-11-02T09:28:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/lian-guideslide-narrated-slides-visual-guidance-2026.md']
 source_url: "https://arxiv.org/abs/2610.41645"
@@ -57,7 +57,7 @@ Twenty-four participants (16 female, 8 male, aged 18–29, M = 22.1) watched two
 ## Limitations
 
 - Twenty-four [[higher-ed|university students]] (aged 18–29, M = 22.1) at one institution, each viewing two four-page decks of 5 minutes 28 seconds — one brief exposure.
-- Split-attention evidence rests on [[self-report-measures|self-reported]] workload, attentional-guidance ratings, and a nine-point test; no eye-tracking was run, so fixation dispersion and time-on-target are unconfirmed.
+- Split-attention evidence rests on [[self-report-measures|self-reported]] workload, attentional-guidance ratings, and a nine-point test; no [[sensor-and-gaze-analytics|eye-track]]ing was run, so fixation dispersion and time-on-target are unconfirmed.
 - Playback controls were disabled to isolate guidance, and four participants asked for the interactive Q&A already built but switched off, so the tested condition is narrower than the system.
 - Some static-condition participants read the subtitle transcript to compensate, which the authors say may make that gain an underestimate.
 

@@ -1,5 +1,5 @@
 ---
-title: "Adult Learners' Perspectives of AI Applications in Supporting Andragogy"
+title: "Adult learners' perspectives of AI applications in supporting andragogy"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

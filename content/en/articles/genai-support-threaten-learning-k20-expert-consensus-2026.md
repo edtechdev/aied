@@ -1,5 +1,5 @@
 ---
-title: "Ways Generative AI Can Support and Threaten Learning in K–20 US Education"
+title: "Ways generative AI can support and threaten learning in K-20 US education"
 created: "2026-10-07T15:10:00-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article

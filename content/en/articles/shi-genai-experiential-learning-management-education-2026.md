@@ -1,5 +1,5 @@
 ---
-title: "From Memorization to Experiential Learning: Reconfiguring Classroom Pedagogy in Management Education through Generative AI"
+title: "From memorization to experiential learning: Reconfiguring classroom pedagogy in management education through generative AI"
 created: "2026-09-22T21:26:39-04:00"
 updated: "2026-09-22T21:26:39-04:00"
 type: article

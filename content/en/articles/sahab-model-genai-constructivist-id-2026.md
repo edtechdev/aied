@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Effectiveness of Generative Artificial Intelligence in Empowering Teachers for Constructivist"
+title: "Evaluating the Effectiveness of Generative Artificial Intelligence in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model"
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

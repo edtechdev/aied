@@ -1,5 +1,5 @@
 ---
-title: "From Traditional Classroom to AI-Enhanced Flipped Classroom: A Three-Year Pedagogical Evolution for International Students in Pharmacology"
+title: "From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology"
 created: "2026-09-25T11:42:33-04:00"
 updated: "2026-09-25T12:56:00-04:00"
 type: article

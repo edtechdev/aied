@@ -1,5 +1,5 @@
 ---
-title: "The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors"
+title: "The aftermath of DrawEduMath: Vision language models underperform with struggling students and misdiagnose errors"
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: 'Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics'
+title: "Artificial intelligence in distance education: a systematic review of emerging pedagogical, cognitive and institutional dynamics"
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
@@ -44,4 +44,4 @@ The review used a systematic synthesis approach. Initial searches were run in th
 - Most reviewed studies used short-term interventions or cross-sectional data, so the review cannot assess sustained effects on learning, motivation or institutional practice.
 
 ## Citation
-Corry, M. (2026). [*Artificial intelligence in distance education: a systematic review*](https://doi.org/10.1108/QRDE-12-2025-0027). *Quarterly Review of Distance Education*, 27(1).
+Corry, M. (2026). [*Artificial intelligence in distance education: a systematic review of emerging pedagogical, cognitive and institutional dynamics*](https://doi.org/10.1108/QRDE-12-2025-0027). *Quarterly Review of Distance Education*, 27(1).

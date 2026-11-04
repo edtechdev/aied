@@ -1,5 +1,5 @@
 ---
-title: "The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education"
+title: "The impact of an LLM-based educational agent on learning achievement, cognitive dynamics, and student perceptions in computer science education"
 created: "2026-08-22T05:20:54-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

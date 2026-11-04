@@ -1,7 +1,7 @@
 ---
 title: "Typology of Generative AI Tools for Education"
 created: "2026-09-22T02:52:00-04:00"
-updated: "2026-09-22T04:10:00-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 published: "2026-01-30"
 foundations: [ai-education, ai-literacy, agency]
@@ -56,7 +56,7 @@ Two filters were then applied: a tool had to be reported by more than one educat
 - **General-purpose [[llm|large language models]]** — ChatGPT, Microsoft Copilot, Google Gemini (formerly Bard), Claude, Perplexity, DeepSeek. Conversational systems for [[learning-design|lesson planning]], content creation, explanation, question answering and dialogue.
 - **Image creation tools** — Canva AI tools, Adobe Firefly, DALL·E, Midjourney, ChatGPT's DALL·E integration, Copilot, Stable Diffusion. Text-to-image generation for materials, posters and illustrations, including one [[open-source]] model that can run locally.
 - **Audio and music generation tools** — Suno, ElevenLabs, Audiobox, Udio, Stable Audio. Song and music generation, [[speech-and-voice-technologies|voice synthesis]] and sound effects for videos, podcasts and language work.
-- **Video generation tools** — Sora, Veo, FlexClip, HeyGen, Fliki, Clipchamp. Text-to-video generation alongside editors and avatar tools that assemble [[video-education|instructional video]].
+- **Video generation tools** — Sora, Veo, FlexClip, HeyGen, Fliki, Clipchamp. Text-to-video generation alongside editors and [[ai-avatars-and-synthetic-instructors|avatar]] tools that assemble [[video-education|instructional video]].
 - **Presentation generation tools** — Gamma, Presentations.AI, Beautiful.AI, Canva, Designer in PowerPoint, Storyd, Chalkie, ChatGPT, Curipod, Prezi. The largest category in the typology, spanning prompt-to-deck generators, educator-specific slide makers and AI design features inside existing software.
 - **Research and study tools** — NotebookLM, Elicit, SciSpace, Humata, Heuristi, Research Rabbit. Document-grounded question answering, summarization and literature discovery.
 - **AI tutoring and chatbot tools** — Khanmigo, Cogniti, TutorAI, Class Companion, Trellis, MathGPT. [[intelligent-tutoring|Tutoring]] and classroom support systems, several of them [[socratic-method|Socratic]] in design.

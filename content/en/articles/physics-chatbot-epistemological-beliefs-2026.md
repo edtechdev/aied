@@ -1,5 +1,5 @@
 ---
-title: "Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning"
+title: "Students' epistemological beliefs and their chatbot preferences in AI-mediated physics learning"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

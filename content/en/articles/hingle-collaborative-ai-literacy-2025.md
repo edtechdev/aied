@@ -1,5 +1,5 @@
 ---
-title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
+title: "Systematic review of collaborative learning activities for promoting AI literacy"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

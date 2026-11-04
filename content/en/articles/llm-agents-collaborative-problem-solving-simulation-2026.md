@@ -1,5 +1,5 @@
 ---
-title: "Modelling Individual Participants as LLM Agents in Collaborative Problem Solving Simulations"
+title: "Modelling individual participants as LLM agents in collaborative problem solving simulations"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

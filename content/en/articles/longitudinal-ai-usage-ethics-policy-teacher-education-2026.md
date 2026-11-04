@@ -1,5 +1,5 @@
 ---
-title: "Longitudinal Insights into AI in Education: Usage, Ethics, and Policy Development in Higher Education"
+title: "Longitudinal insights into AI in education: Usage, ethics, and policy development in higher education"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

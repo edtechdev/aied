@@ -1,5 +1,5 @@
 ---
-title: "Structured Questioning with Generative AI: Question Chains, Self-Regulated Learning, Metacognition, and Achievement in a Quasi-Experiment"
+title: "Effects of question-chain prompting on self-regulated learning, metacognition, and achievement in a generative AI environment"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

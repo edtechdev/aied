@@ -1,5 +1,5 @@
 ---
-title: "The association between generative AI use and university students’ critical thinking: a moderated mediation model of GenAI feedback literacy and reflective thinking"
+title: "The association between generative AI use and university students' critical thinking: a moderated mediation model of GenAI feedback literacy and reflective thinking"
 created: "2026-09-30T10:34:08-04:00"
 updated: "2026-09-30T10:34:08-04:00"
 type: article

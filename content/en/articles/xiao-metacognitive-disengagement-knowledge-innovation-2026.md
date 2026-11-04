@@ -1,5 +1,5 @@
 ---
-title: "Offloading Thought: Metacognitive Disengagement and Innovation Quality in Human–AI Collaboration"
+title: "Metacognitive disengagement and knowledge innovation quality in human–AI collaboration: the mediating role of cognitive offloading and the moderating roles of task complexity and AI literacy"
 created: "2026-11-04T16:20:00-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Four randomized between-subjects experiments tested whether [[generative-ai|generative AI]] assistance erodes the [[metacognition|metacognitive]] work that [[creativity|creative]] tasks demand in [[human-ai-collaboration|human–AI collaboration]]. Together they enrolled 728 adults recruited through an online panel, not students in a course and not identified employees, who completed simulated innovation proposals in product design, community services, public-space renewal and employee benefits. Higher AI assistance raised task-level metacognitive disengagement (*d* = 0.67), [[cognitive-offloading|cognitive offloading]] carried 58.0% of that effect, and experimentally raising delegation lowered expert-rated innovation quality from 4.78 to 3.95 (*d* = 0.75), with 57.8% of that drop running through disengagement. Task complexity amplified the damage; [[ai-literacy|AI literacy]] absorbed it.
+> **Synthesis:** Four [[rct|randomized between-subjects experiments]] tested whether [[generative-ai|generative AI]] assistance erodes the [[metacognition|metacognitive]] work that [[creativity|creative]] tasks demand in [[human-ai-collaboration|human–AI collaboration]]. Together they enrolled 728 adults recruited through an online panel, not students in a course and not identified employees, who completed simulated innovation proposals in product design, community services, public-space renewal and employee benefits. Higher AI assistance raised task-level metacognitive disengagement (*d* = 0.67), [[cognitive-offloading|cognitive offloading]] carried 58.0% of that effect, and experimentally raising delegation lowered expert-rated innovation quality from 4.78 to 3.95 (*d* = 0.75), with 57.8% of that drop running through disengagement. Task complexity amplified the damage; [[ai-literacy|AI literacy]] absorbed it.
 
 ## Key Findings
 
@@ -48,7 +48,7 @@ Task selection was deliberately broad — product, service, spatial and organiza
 
 ## Offloading versus disengagement: the distinction that carries the argument
 
-The paper's conceptual contribution is separating a behavior from a state. [[cognitive-offloading|Cognitive offloading]] is the act of delegating cognitive work to a tool. Task-level metacognitive disengagement is the reduction of planning, monitoring and reflection over one's own thinking inside a specific AI-assisted task. A person can delegate heavily and still audit the output, or delegate moderately and stop overseeing their own reasoning. The authors measure the second with a new nine-item scale, validated on the pooled 728 cases: three-factor fit *χ*²(24) = 98.42, CFI = 0.95, RMSEA = 0.06, and an HTMT ratio of 0.61 against the offloading scale. Because the three dimensions come from [[self-regulated-learning|self-regulated learning]] research, the scale reads as a withdrawal of regulation rather than a loss of ability.
+The paper's conceptual contribution is separating a behavior from a state. [[cognitive-offloading|Cognitive offloading]] is the act of delegating cognitive work to a tool. Task-level metacognitive disengagement is the reduction of planning, monitoring and [[reflection]] over one's own thinking inside a specific AI-assisted task. A person can delegate heavily and still audit the output, or delegate moderately and stop overseeing their own reasoning. The authors measure the second with a new nine-item scale, validated on the pooled 728 cases: three-factor fit *χ*²(24) = 98.42, CFI = 0.95, RMSEA = 0.06, and an HTMT ratio of 0.61 against the offloading scale. Because the three dimensions come from [[self-regulated-learning|self-regulated learning]] research, the scale reads as a withdrawal of regulation rather than a loss of ability.
 
 Their mechanism is a dual erosion. Offloading removes the raw material that monitoring would otherwise inspect, because the person no longer filters, structures or generates the intermediate content. It also removes the felt need to monitor, because a fluent system appears reliable enough to skip checking. Both effects point the same way, which is why the pathway is robust across four tasks.
 
@@ -58,7 +58,7 @@ The mediation is partial in both links: offloading carried 58.0% of the assistan
 
 The AI in these experiments was not a live model responding freely. Its replies came from researcher-configured prompt templates and a task-domain knowledge base, so everyone in a condition met the same interaction. The high-assistance version produced user profiles, feature directions and commentary on drafts; the low-assistance version answered factual queries briefly and offered no creative content.
 
-That choice buys internal validity and costs ecological validity. The independent variable is the *level of assistance*, not the capability of any system. A study of GPT-class or agentic tools, which volunteer framings, push back or ask clarifying questions, tests something this design cannot reach. These effect sizes are not estimates of what a current chatbot does to a team.
+That choice buys internal validity and costs ecological validity. The independent variable is the *level of assistance*, not the capability of any system. A study of GPT-class or [[agentic-ai|agentic tools]], which volunteer framings, push back or ask clarifying questions, tests something this design cannot reach. These effect sizes are not estimates of what a current [[conversational-ai|chatbot]] does to a team.
 
 Experiments 3 and 4 have a second attribution problem the authors flag themselves. The high- and low-delegation workflows differed in delegation, in the detail of AI replies, in how much independent effort was requested, and in who was assigned responsibility for the core content. The reported effect therefore belongs to a compound workflow with delegation at its center, not to delegation alone.
 
@@ -66,7 +66,7 @@ Experiments 3 and 4 have a second attribution problem the authors flag themselve
 
 The moderated mediation result is the most usable part of the paper, because the harm is conditional, not universal. Disengagement arose at similar rates whether tasks were simple or complex — the first-stage interactions were null — but its cost to quality depended on the task and the person.
 
-Under high complexity the indirect effect was nearly double that under low complexity (−0.87 versus −0.48), which fits the intuition that hard problems need the very monitoring that disengagement suspends. Under high AI literacy the indirect effect shrank to −0.14 and lost significance — a claim about critical distance, not technical skill. High-literacy participants did not necessarily offload less; they kept questioning assumptions and comparing alternatives while doing it.
+Under high complexity the indirect effect was nearly double that under low complexity (−0.87 versus −0.48), which fits the intuition that hard problems need the very monitoring that disengagement suspends. Under high AI literacy the indirect effect shrank to −0.14 and lost significance — a claim about [[critical-thinking|critical distance]], not technical skill. High-literacy participants did not necessarily offload less; they kept questioning assumptions and comparing alternatives while doing it.
 
 The Johnson-Neyman bounds give that buffer a range. Below 2.87 on the seven-point literacy scale the negative conditional effect was significant, above 4.63 it was not. Between those values the interval straddled zero while the estimate stayed negative — a gradient, not a threshold.
 
@@ -74,7 +74,7 @@ The Johnson-Neyman bounds give that buffer a range. Below 2.87 on the seven-poin
 
 - **Tool designers.** Build metacognitive triggers rather than seamless substitution: state assumptions before generation, flag what needs verification afterward, name which judgments stay human.
 - **[[professional-training|Workflow and training]] designers.** Segment complex work: independent human ideation, AI-assisted expansion, then critical human integration. For simple tasks a higher share of AI generation is defensible, because the measured cost of disengagement is smaller.
-- **AI literacy programs.** Teach critique, not operation. The buffer came from evaluating outputs and holding distance from them, which is trainable: identify assumptions and biases, require an alternative before accepting a solution, debrief what should stay under human judgment.
+- **AI literacy programs.** Teach critique, not operation. The buffer came from evaluating outputs and holding distance from them, which is trainable: identify assumptions and [[bias-mitigation|biases]], require an alternative before accepting a solution, debrief what should stay under human judgment.
 - **Educators assigning AI-supported projects.** A polished, complete deliverable can coexist with abandoned planning and reflection. Assess the process — drafts, alternatives considered, a reflection memo — rather than only the artifact.
 
 ## Limitations

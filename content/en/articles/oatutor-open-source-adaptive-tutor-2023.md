@@ -1,5 +1,5 @@
 ---
-title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research"
+title: "OATutor: An open-source adaptive tutoring system and curated content library for learning sciences research"
 created: "2026-08-12T21:26:01-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

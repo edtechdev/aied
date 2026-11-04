@@ -1,5 +1,5 @@
 ---
-title: "A principled way to think about AI in education: guidance for educators and policy makers based on goals, models"
+title: "A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-19T12:04:28-04:00"
 type: article

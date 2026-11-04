@@ -1,5 +1,5 @@
 ---
-title: "Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence"
+title: "Reconceptualizing community of inquiry in the age of generative artificial intelligence"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

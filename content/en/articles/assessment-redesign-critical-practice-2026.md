@@ -1,5 +1,5 @@
 ---
-title: Supporting assessment redesign in the age of AI - a critical practice-based framework for equitable change
+title: "Supporting assessment redesign in the age of AI: a critical practice-based framework for equitable change"
 created: "2026-10-10T14:05:00-04:00"
 updated: "2026-10-10T14:05:00-04:00"
 type: article

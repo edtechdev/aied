@@ -58,4 +58,4 @@ AI also transforms classical under-investment in general human capital into a *r
 
 ## Citation
 
-Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. *Human Resource Development Review*, advance online publication](https://doi.org/10.1177/15344843261470602).
+Lovett, N. (2026). [The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise](https://doi.org/10.1177/15344843261470602). *Human Resource Development Review*, advance online publication.

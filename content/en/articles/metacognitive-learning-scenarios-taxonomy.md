@@ -1,5 +1,5 @@
 ---
-title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"
+title: "A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -166,7 +166,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
 - [[dura-llm-cs2]] — DURA: LLM assistants for CS2
 - [[reshaping-cs-education-genai]] — reshaping undergraduate CS curricula for GenAI

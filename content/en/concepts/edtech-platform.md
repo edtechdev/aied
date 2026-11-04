@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -71,6 +71,10 @@ The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course)
 ### Interest-based and context-aware platform features
 
 Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-powered platform that generates college assignments based on students' **extracurricular interests and cultural contexts**, aligning with [[culturally-relevant-pedagogy]] and shifting from one-size-fits-all assignments toward interest-driven engagement.([[taklif-ai-interest-based-personalized-assignments]])
+
+### Purpose-built layers over general models
+
+The platform's contribution is often the structure a general model lacks. [[learnmate2-llm-adaptive-learning|LearnMate^2]] wraps an LLM in study planning, in-context help and performance-responsive activities, and in a 16-participant comparison it beat Khan Academy paired with Gemini 2.5 Pro on both quizzes (M = 13.375 vs 10.875, p = .0126; 7.875 vs 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] translates natural-language instructions into CoppeliaSim robot behavior for beginners, succeeding on 100% of simple tasks but 88.9% of complex ones across 108 cases.
 
 ## Implications for design and research
 

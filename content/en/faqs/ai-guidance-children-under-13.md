@@ -1,7 +1,7 @@
 ---
 title: "How Should Parents and Teachers Approach AI with Children Under 13?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-10-28T11:21:07-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -110,7 +110,7 @@ When a child says the companion "understood" them, that is the conversation to h
 
 Fluency buys belief, which is the mechanism to watch. [[lu-ai-multimodal-writing-critical-thinking-2026|A Grade 5 multimodal writing study]] found that visualizing children's stories produced sustained gains in interpretation, analysis, evaluation and explanation, with no gain in inference: once images made meaning explicit, children reported less need to infer it. A fluent AI answer does the same work, supplying the inference the child would otherwise have made for themselves.
 
-Some of the hardest conversations have a vehicle. [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] uses robot-mediated applied drama for anti-bullying bystander intervention: children watch a bullying scenario enacted by social robots and rehearse defense strategies by puppeteering a robotic avatar. In a [[mixed-methods-research|mixed-methods]] play-test with 18 children aged 9 to 10 it supported self-efficacy, perspective-taking and understanding the outcomes of defending. Robots and role-play carry a difficult subject with an adult in the room.
+Some of the hardest conversations have a vehicle. [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] uses robot-mediated applied drama for anti-bullying bystander intervention: children watch a bullying scenario enacted by social robots and rehearse defense strategies by puppeteering a robotic [[ai-avatars-and-synthetic-instructors|avatar]]. In a [[mixed-methods-research|mixed-methods]] play-test with 18 children aged 9 to 10 it supported self-efficacy, perspective-taking and understanding the outcomes of defending. Robots and role-play carry a difficult subject with an adult in the room.
 
 None of this is a tested intervention for teaching a child to check an AI answer. It is what the evidence on fluency, belief and role-play implies, and staff should treat it as practice rather than proof.
 

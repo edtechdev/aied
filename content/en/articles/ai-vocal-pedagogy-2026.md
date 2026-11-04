@@ -1,5 +1,5 @@
 ---
-title: "Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Human Learning and Educational Value"
+title: "Beyond output metrics: Reframing AI-assisted vocal pedagogy through human learning and educational value"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

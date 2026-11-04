@@ -1,5 +1,5 @@
 ---
-title: "MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory"
+title: "MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

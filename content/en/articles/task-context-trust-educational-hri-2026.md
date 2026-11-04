@@ -1,5 +1,5 @@
 ---
-title: "What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI"
+title: "What robots do matters more than what they look like: Task context shapes trust in educational HRI"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

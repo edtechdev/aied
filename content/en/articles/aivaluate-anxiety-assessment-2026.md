@@ -1,5 +1,5 @@
 ---
-title: "Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally"
+title: "Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally intelligent pedagogical AI conversational agent"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-23T08:37:10-04:00"
 type: article

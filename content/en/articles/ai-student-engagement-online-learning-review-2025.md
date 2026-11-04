@@ -1,7 +1,7 @@
 ---
-title: "Artificial Intelligence and Student Engagement in Online Learning: A Literature Review"
+title: "Artificial intelligence and student engagement in online learning: a literature review"
 created: "2026-08-20T05:30:00-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [affective-computing, conversational-ai, learning-analytics]
@@ -13,7 +13,7 @@ audience: [instructional designers, instructors, learning analytics designers]
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** Zhou (2025) [[meta-analysis-systematic-review|systematically reviews]] 24 studies from the Web of Science database on how AI enhances [[student-engagement|student engagement]] in [[online-teaching-and-learning|online learning]]. Six key applications emerge: AI chatbots in [[learning-design|course design]], emotion/facial/voice recognition and eye tracking, [[machine-learning|machine learning]] for data analysis, [[teacher-role|teacher]]–student interaction support, [[personalized-learning|personalized]] feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
+> **Synthesis:** Zhou (2025) [[meta-analysis-systematic-review|systematically reviews]] 24 studies from the Web of Science database on how AI enhances [[student-engagement|student engagement]] in [[online-teaching-and-learning|online learning]]. Six key applications emerge: AI chatbots in [[learning-design|course design]], emotion/facial/voice recognition and [[sensor-and-gaze-analytics|eye track]]ing, [[machine-learning|machine learning]] for data analysis, [[teacher-role|teacher]]–student interaction support, [[personalized-learning|personalized]] feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
 
 ## Key Findings
 

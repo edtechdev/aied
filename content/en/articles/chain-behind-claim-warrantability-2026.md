@@ -1,5 +1,5 @@
 ---
-title: "The Chain Behind the Claim: Warrantability in AI-Assisted Qualitative Research"
+title: "The chain behind the claim: Warrantability in AI-assisted qualitative research"
 created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

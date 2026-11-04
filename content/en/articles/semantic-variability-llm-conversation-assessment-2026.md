@@ -1,5 +1,5 @@
 ---
-title: "Semantic Variability of LLM-Generated Replies Across LLMs: Implications for Designing Conversation-Based Assessment"
+title: "Semantic variability of LLM-generated replies across LLMs: Implications for designing conversation-based assessment"
 created: "2026-08-28T09:07:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

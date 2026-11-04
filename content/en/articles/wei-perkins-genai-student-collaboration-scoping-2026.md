@@ -1,5 +1,5 @@
 ---
-title: "Generative AI and Student Collaboration: A Scoping Review of Group Work Processes, Outcomes, and Risks"
+title: "Generative AI and student collaboration: A scoping review of group work processes, outcomes, and risks"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

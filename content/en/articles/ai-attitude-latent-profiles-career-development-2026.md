@@ -1,5 +1,5 @@
 ---
-title: "Beyond Positive or Negative: Latent Profiles of University Students’ AI Attitude and Their Career-Development Correlates"
+title: "Beyond Positive or Negative: Latent Profiles of University Students' AI Attitude and Their Career-Development Correlates"
 created: "2026-09-30T12:06:45-04:00"
 updated: "2026-09-30T12:06:45-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "It Takes a Village... Program-Wide Approaches to Redesigning Assessment in a Time of Generative Artificial Intelligence (GenAI)"
+title: "It takes a village. Program-wide approaches to redesigning assessment in a time of generative artificial intelligence (GenAI)"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

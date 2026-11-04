@@ -1,5 +1,5 @@
 ---
-title: "Making AI-Generated Feedback Matter: From Provision to Student Enactment"
+title: "Making AI-generated feedback matter: From provision to student enactment"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-21T11:30:46-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric-Systematic Review"
+title: "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)"
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
@@ -124,4 +124,4 @@ Teacher ↔ AI System ↔ Student
 
 ## Citation
 
-Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach*](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.
+Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.

@@ -1,5 +1,5 @@
 ---
-title: "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents"
+title: "Embracing imperfection: Simulating students with diverse cognitive levels using LLM-based agents"
 created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

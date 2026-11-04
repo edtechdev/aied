@@ -1,5 +1,5 @@
 ---
-title: "Factors Associated with Students' Adoption of Artificial Intelligence Technology in Tertiary Education: A Meta-Analytic Review"
+title: "Factors associated with students' adoption of artificial intelligence technology in tertiary education: A meta-analytic review"
 created: "2026-08-24T12:33:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

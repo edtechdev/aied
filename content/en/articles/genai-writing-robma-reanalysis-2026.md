@@ -1,5 +1,5 @@
 ---
-title: "Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)"
+title: "Is GenAI helpful for writing? A re-analysis using robust Bayesian meta-analysis (RoBMA)"
 created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

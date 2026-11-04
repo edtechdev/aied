@@ -1,5 +1,5 @@
 ---
-title: "Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Analyses"
+title: "Computational thinking: A meta-review of systematic reviews and meta-analyses"
 created: "2026-08-24T12:30:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge-Based Design Requirements for Generative Social Robots in Higher Education"
+title: "Knowledge-based design requirements for generative social robots in higher education"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

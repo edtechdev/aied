@@ -1,5 +1,5 @@
 ---
-title: Understanding Student Effort Using Response-Time Propensities During Problem Solving
+title: "Understanding student effort using response-time propensities during problem solving"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

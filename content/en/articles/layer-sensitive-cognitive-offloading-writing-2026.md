@@ -1,5 +1,5 @@
 ---
-title: "Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing: Supported Performance and Independent No-AI Outcomes"
+title: "Layer-sensitive cognitive offloading in generative AI-assisted writing: Supported performance and independent no-AI outcomes"
 created: "2026-08-30T16:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

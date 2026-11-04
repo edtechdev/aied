@@ -1,5 +1,5 @@
 ---
-title: "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators"
+title: "INSIDE the student's mind: Jointly modeling latent reasoning and action in LLM student simulators"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-10-02T07:31:21-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collaboration"
+title: "Principal Trait Analysis: Towards Deriving \"Skills\" in Human-AI Collaboration"
 created: "2026-08-16T17:49:40-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

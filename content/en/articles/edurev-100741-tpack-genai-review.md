@@ -1,5 +1,5 @@
 ---
-title: "Integrating Generative Artificial Intelligence into Student Learning: A Systematic Review from a TPACK Perspective"
+title: "Integrating generative Artificial Intelligence into student learning: A systematic review from a TPACK perspective"
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

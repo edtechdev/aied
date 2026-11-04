@@ -1,5 +1,5 @@
 ---
-title: "GLAT: The Generative AI Literacy Assessment Test"
+title: "GLAT: The generative AI literacy assessment test"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

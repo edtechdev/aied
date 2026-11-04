@@ -1,5 +1,5 @@
 ---
-title: "Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design"
+title: "Supporting undergraduate students' learning in practical chemistry courses through AI-supported experimental design"
 created: "2026-08-19T12:46:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

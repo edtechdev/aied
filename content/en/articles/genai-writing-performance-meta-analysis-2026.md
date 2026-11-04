@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of GenAI in Enhancing Writing Performance: A Meta-Analysis"
+title: "Effectiveness of GenAI in enhancing writing performance: a meta-analysis"
 created: "2026-09-25T11:42:38-04:00"
 updated: "2026-09-25T12:56:00-04:00"
 type: article

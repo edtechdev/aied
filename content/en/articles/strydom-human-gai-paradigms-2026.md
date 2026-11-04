@@ -62,4 +62,4 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 
 ## Citation
 
-Strydom, S. (2026). [Framing human-AI dynamics: An epistemological perspective on generative AI practices. *Journal of Applied Learning & Teaching*, 9(2)](https://doi.org/10.37074/jalt.2026.9.2.11).
+Strydom, S. (2026). [Framing human-AI dynamics: An epistemological perspective on generative AI practices](https://doi.org/10.37074/jalt.2026.9.2.11). *Journal of Applied Learning & Teaching*, 9(2).

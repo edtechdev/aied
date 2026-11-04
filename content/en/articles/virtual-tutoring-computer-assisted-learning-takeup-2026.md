@@ -1,5 +1,5 @@
 ---
-title: "Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning"
+title: "Virtual tutoring with computer-assisted learning: An experiment in take-up and learning"
 created: "2026-08-17T17:55:00-04:00"
 updated: "2026-10-01T20:36:14-04:00"
 type: article

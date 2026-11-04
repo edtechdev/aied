@@ -1,5 +1,5 @@
 ---
-title: "From Literature to Research-Based Learning: An AI-Powered Information Extraction System to Enhance Undergraduate Thesis Completion"
+title: "From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

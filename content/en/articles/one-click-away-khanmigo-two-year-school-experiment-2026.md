@@ -1,5 +1,5 @@
 ---
-title: "One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment"
+title: "One click away: AI tutoring with Khanmigo in a two-year school experiment"
 created: "2026-08-17T17:57:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

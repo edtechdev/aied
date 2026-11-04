@@ -1,5 +1,5 @@
 ---
-title: "AI Humanizers and the Political Economy of Academic Integrity in Higher Education"
+title: "AI humanizers and the political economy of academic integrity in higher education"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-11-02T02:42:18-05:00"
 type: article

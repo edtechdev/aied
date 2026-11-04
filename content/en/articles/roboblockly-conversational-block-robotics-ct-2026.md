@@ -1,5 +1,5 @@
 ---
-title: "RoboBlockly Studio: Conversational Block Programming With Embodied Robot Feedback for Computational Thinking"
+title: "RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

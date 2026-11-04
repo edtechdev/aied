@@ -1,5 +1,5 @@
 ---
-title: "Exploring Conversational Agents for Novice Programmers: A Scoping Review"
+title: "Exploring conversational agents for novice programmers: a scoping review"
 created: "2026-08-22T04:52:33-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

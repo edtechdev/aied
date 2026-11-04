@@ -1,5 +1,5 @@
 ---
-title: "AI-Supported Lecturer Decision-Making in Higher Education: A Socio-Technical Perspective"
+title: "AI-Supported lecturer decision-making in higher education: a socio-technical perspective"
 type: article
 foundations: [learning-design, teacher-role]
 technology: [learning-analytics]

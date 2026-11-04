@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Hype: How Higher Education Stakeholders View the Benefits and Concerns of Generative AI for Teaching, Research, and Administration"
+title: "Beyond the hype – How higher education stakeholders view the benefits and concerns of generative AI for teaching, research, and administration"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

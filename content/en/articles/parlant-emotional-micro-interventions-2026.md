@@ -1,5 +1,5 @@
 ---
-title: "Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers"
+title: "Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others)"
 created: "2026-09-26T08:11:14-04:00"
 updated: "2026-09-26T08:11:14-04:00"
 type: article

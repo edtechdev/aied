@@ -1,5 +1,5 @@
 ---
-title: Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
+title: "Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-10-02T07:31:21-04:00"
 type: article

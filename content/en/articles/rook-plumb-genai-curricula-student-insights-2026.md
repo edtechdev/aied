@@ -1,5 +1,5 @@
 ---
-title: "Integrating Generative Artificial Intelligence into University Curricula: Student Insights"
+title: "Integrating generative artificial intelligence into university curricula: Student insights"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

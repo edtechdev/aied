@@ -1,5 +1,5 @@
 ---
-title: "Is a Random Human Peer Better than a Highly Supportive Chatbot in Reducing Loneliness over Time?"
+title: "Is a random human peer better than a highly supportive chatbot in reducing loneliness over time?"
 created: "2026-11-02T04:10:00-05:00"
 updated: "2026-11-02T04:10:00-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences"
+title: "Thoughtless use of generative artificial intelligence and college students' self-directed learning: a multi-group SEM analysis of gender differences"
 created: "2026-08-20T06:30:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

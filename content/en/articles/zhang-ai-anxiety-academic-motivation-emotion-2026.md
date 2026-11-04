@@ -1,5 +1,5 @@
 ---
-title: "The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender"
+title: "The relationship between AI anxiety and academic motivation among university students: The mediating role of emotion regulation and the moderating role of gender"
 created: "2026-09-06T08:16:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

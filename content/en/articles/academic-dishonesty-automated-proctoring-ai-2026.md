@@ -1,7 +1,7 @@
 ---
-title: "A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence"
+title: "A comprehensive review of the changing landscape of academic dishonesty in automated proctoring in the era of artificial intelligence"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -34,7 +34,7 @@ A comprehensive thematic review of proctoring systems (conventional, online, aut
 
 - **Administrators.** Pair any AI monitoring with accessible alternatives and a plan for test-taker anxiety, because the review documents false malpractice accusations when proctor and test-taker proficiency diverge, and infrastructure demands (webcam, microphone, reliable connection) that not all students can meet.
 - **Assessment professionals.** Weigh surveillance against assessment redesign: the review's own conclusion is that remote and [[remote-proctoring|automated proctoring]] addresses the integrity needs of online assessment but is bounded by cost, [[digital-divide|infrastructure equity]], and psychological burden.
-- **Administrators.** Budget for the full infrastructure rather than the license: AI/ML proctoring that reads facial expressions and emotions through imaging raises both cost and hardware requirements, and real-time video storage plus CNN inference for gaze, head pose, and expression detection create latency and storage pressure.
+- **Administrators.** Budget for the full infrastructure rather than the license: AI/ML proctoring that reads facial expressions and emotions through imaging raises both cost and hardware requirements, and real-time video storage plus CNN inference for [[sensor-and-gaze-analytics|gaze]], head pose, and expression detection create latency and storage pressure.
 - **Instructors.** Tell students in advance what the system records and why, since readiness, hardware and software requirements, and security and privacy concerns were the challenges students reported most in the review's case study, alongside the faculty role in the transition.
 - **Researchers.** Treat gaze, head-pose, and activity recognition as unsolved in unconstrained settings: the review notes that deep-learning multi-user gaze estimation remains largely unexplored for lack of generic, publicly available datasets.
 

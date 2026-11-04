@@ -1,5 +1,5 @@
 ---
-title: "Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation"
+title: "Co-creating custom GPTs: An autoethnographic study of undergraduate students as partners in generative AI innovation"
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
+title: "Examining the impact of generative AI on student motivation and engagement: The mediating role of autonomy-support and autonomous motivation in education"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

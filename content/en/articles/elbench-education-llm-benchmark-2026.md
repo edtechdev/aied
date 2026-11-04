@@ -1,5 +1,5 @@
 ---
-title: "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models"
+title: "ELBench: A multi-dimensional benchmark for education-facing large language models"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

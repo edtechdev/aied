@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 pedagogy: [active-learning]
@@ -28,7 +28,7 @@ sources: ['raw/papers/2606.09831.md']
 
 - The data come from 36 recorded sessions in one undergraduate and postgraduate database course at a single institution over four consecutive weeks, a single institutional and language context the authors identify as limiting generalizability.
 - Only 34 sessions entered the analysis: a microphone placement issue made one instructor's audio unusable in two sessions.
-- Acoustic measures were derived from classroom audio alone, with no gaze, gesture, or spatial positioning data, so explanations of why loudness variation occurs remain inferential.
+- Acoustic measures were derived from classroom audio alone, with no [[sensor-and-gaze-analytics|gaze]], gesture, or spatial positioning data, so explanations of why loudness variation occurs remain inferential.
 - The unit of analysis was the individual teacher, which the authors note limits inferences about team-level coordination even though it establishes that experience-related acoustic differences are detectable.
 
 ## Citation

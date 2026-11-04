@@ -1,5 +1,5 @@
 ---
-title: "Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals"
+title: "Translating UNESCO artificial intelligence guidelines to chemical education and its intersection with sustainable development goals"
 created: "2026-08-19T12:42:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

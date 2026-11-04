@@ -1,5 +1,5 @@
 ---
-title: How AI Is Changing Teaching Workflows
+title: "How AI Is Changing Teaching Workflows."
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

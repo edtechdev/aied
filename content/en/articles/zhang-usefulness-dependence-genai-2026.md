@@ -1,5 +1,5 @@
 ---
-title: "From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors"
+title: "From \"usefulness\" to \"dependence\": the dynamic evolution mechanism of generative AI use behaviors"
 created: "2026-11-04T12:00:00-05:00"
 updated: "2026-11-04T12:00:00-05:00"
 type: article

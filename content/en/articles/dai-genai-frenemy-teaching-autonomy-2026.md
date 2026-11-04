@@ -1,5 +1,5 @@
 ---
-title: "GenAI as a Frenemy in Teaching: Perceived Autonomy and Risks"
+title: "GenAI as a frenemy in teaching: Perceived autonomy and risks"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-19T10:14:00-04:00"
 type: article

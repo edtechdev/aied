@@ -1,5 +1,5 @@
 ---
-title: "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education"
+title: "TutorTrace: A dataset and taxonomy for classifying learner behavioral states during AI-assisted programming education"
 created: "2026-08-28T09:06:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

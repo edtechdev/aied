@@ -1,5 +1,5 @@
 ---
-title: "HAIML: A Human-Centered AI Metacognitive Learning Model — A Framework for Human Agency and Reflective Learning in the Age of Artificial Intelligence"
+title: "HAIML: A human-centered AI metacognitive learning model — A framework for human agency and reflective learning in the age of artificial intelligence"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

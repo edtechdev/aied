@@ -1,5 +1,5 @@
 ---
-title: "Generative AI as a Team Moderator in CSCL: Adaptive Scaffolding for Shared Regulation"
+title: "Generative AI as a team moderator in CSCL: Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning"
 created: "2026-10-25T10:05:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

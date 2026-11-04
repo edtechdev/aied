@@ -1,5 +1,5 @@
 ---
-title: 'Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI'
+title: "Advancing problem-based learning in biomedical engineering in the era of generative AI"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

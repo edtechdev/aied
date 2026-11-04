@@ -1,5 +1,5 @@
 ---
-title: "How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?"
+title: "How does students' perception of ChatGPT shape online learning engagement and performance?"
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

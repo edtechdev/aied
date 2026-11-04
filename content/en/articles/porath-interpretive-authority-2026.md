@@ -1,5 +1,5 @@
 ---
-title: "Who Makes the Meaning? Interpretive Authority in AI-Mediated Education"
+title: "Who makes the meaning? Interpretive authority in AI-mediated education"
 created: "2026-10-12T10:33:55-04:00"
 updated: "2026-10-12T10:33:55-04:00"
 type: article

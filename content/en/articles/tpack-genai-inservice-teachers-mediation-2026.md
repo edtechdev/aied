@@ -1,5 +1,5 @@
 ---
-title: "From Proficiency to Pedagogy: A Mixed-Methods Study of In-Service Teachers' TPACK-GenAI and the Mediating Role of Pedagogical Knowledge"
+title: "From proficiency to pedagogy: A mixed-methods study of in-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

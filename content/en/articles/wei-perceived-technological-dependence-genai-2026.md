@@ -1,5 +1,5 @@
 ---
-title: "Perceived Technological Dependence on Generative AI: Knowledge, Trust, Anxiety and Self-Efficacy"
+title: "Psychological mechanisms of perceived technological dependence on generative artificial intelligence tools: perceived knowledge, trust, anxiety, and self-efficacy"
 created: "2026-10-25T10:05:00-04:00"
 updated: "2026-10-25T10:05:00-04:00"
 type: article

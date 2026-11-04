@@ -1,5 +1,5 @@
 ---
-title: "Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning"
+title: "Ontology-based layered hybrid AI-driven knowledge model for personalized e-learning"
 created: "2026-08-17T18:20:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

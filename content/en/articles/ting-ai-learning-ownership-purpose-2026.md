@@ -1,5 +1,5 @@
 ---
-title: "“What Am I Really Doing with My Own Brain?”: College Students on Learning, Ownership, and AI"
+title: "\"What Am I Really Doing with My Own Brain?\": College students on learning, ownership, and AI"
 created: "2026-11-02T03:05:00-05:00"
 updated: "2026-11-02T03:05:00-05:00"
 type: article

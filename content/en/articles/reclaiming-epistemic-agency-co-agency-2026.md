@@ -1,5 +1,5 @@
 ---
-title: "Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education"
+title: "Reclaiming epistemic agency: A critical framework for human-generative AI co-agency in education"
 created: "2026-08-28T09:05:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

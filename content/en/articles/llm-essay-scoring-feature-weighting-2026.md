@@ -1,5 +1,5 @@
 ---
-title: "Opening the Blackbox of LLM-Based Automated Essay Scoring: Insights into Feature Weighting Patterns and Score Validity"
+title: "Opening the blackbox of LLM-based automated essay scoring: Insights into feature weighting patterns and score validity"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

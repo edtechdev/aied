@@ -1,5 +1,5 @@
 ---
-title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
+title: "Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

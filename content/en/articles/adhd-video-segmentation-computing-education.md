@@ -1,7 +1,7 @@
 ---
 title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [learning-design]
 technology: [llm]
@@ -33,7 +33,7 @@ level: [special education]
 ## Limitations
 
 - The sample is 27 participants (17 with ADHD, 10 without) recruited through campus flyers and non-computer-science faculty email at one university, all with no prior programming experience; the authors state that the sample and the Scratch block-coding environment may limit generalizability.
-- Cognitive load was operationalized behaviorally only — errors and hesitations, where a hesitation is a 3-second pause or a verbal expression of confusion — with no physiological or dual-task measures (pupillometry, EEG, secondary-task interference) and no standardized working-memory assessment such as an n-back test.
+- Cognitive load was operationalized behaviorally only — errors and hesitations, where a hesitation is a 3-second pause or a verbal expression of confusion — with no physiological or dual-task measures (pupillometry, [[sensor-and-gaze-analytics|EEG]], secondary-task interference) and no standardized working-memory assessment such as an n-back test.
 - The segmentation-by-ADHD interaction terms were not statistically significant (errors p = .232; hesitations p = .242), and the authors state the study was underpowered to distinguish the groups statistically, so the equalizing claim rests on effect-size magnitude (ADHD d = 1.14 vs control d = 0.72).
 - The 4-second pause is a fixed, pilot-derived parameter from a 13-participant pilot, and the segments were added manually in Final Cut Pro and agreed on by the authors, not generated automatically.
 

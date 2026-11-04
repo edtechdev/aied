@@ -62,4 +62,4 @@ The most theoretically interesting result concerns [[ai-literacy|AI verification
 
 ## Citation
 
-Davor, I., Larbi, E., & Boateng, F. O. (2026). [*Artificial intelligence-supported learning and higher-order cognitive outcomes*](https://doi.org/10.3389/feduc.2026.1855869). Frontiers in Education, 11.
+Davor, I., Larbi, E., & Boateng, F. O. (2026). [*Artificial intelligence-supported learning and higher-order cognitive outcomes: the mediating role of metacognitive self-regulation*](https://doi.org/10.3389/feduc.2026.1855869). Frontiers in Education, 11.

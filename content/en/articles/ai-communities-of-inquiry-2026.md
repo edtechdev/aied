@@ -1,5 +1,5 @@
 ---
-title: 'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
+title: "Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences"
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-24T06:37:39-04:00"
 type: article

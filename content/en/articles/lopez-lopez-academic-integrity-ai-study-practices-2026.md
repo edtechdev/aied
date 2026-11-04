@@ -1,5 +1,5 @@
 ---
-title: "Academic Integrity in the Age of AI: University Students' Study Practices and Ethical Judgments"
+title: "Academic integrity in the age of AI: University students' study practices and ethical judgments"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"
 type: article

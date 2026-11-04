@@ -59,4 +59,4 @@ Perceived usefulness and perceived ease of use both increased significantly, sup
 
 ## Citation
 
-Mesenhöller, J., & Böhme, K. (2026). [*Empowering teachers to use AI for differentiation*](https://doi.org/10.3389/feduc.2026.1875856).
+Mesenhöller, J., & Böhme, K. (2026). [*Empowering teachers to use AI for differentiation: changes in teachers’ acceptance of AI-based technologies following participation in a short professional development training session*](https://doi.org/10.3389/feduc.2026.1875856).

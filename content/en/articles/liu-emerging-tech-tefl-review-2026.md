@@ -1,5 +1,5 @@
 ---
-title: "A Systematic Review of Emerging Technology Applications for Teaching English as a Foreign Language Across Different Educational Levels"
+title: "A systematic review of emerging technology applications for teaching English as a foreign language across different educational levels"
 created: "2026-08-24T12:36:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

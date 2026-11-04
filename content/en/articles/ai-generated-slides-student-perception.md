@@ -1,5 +1,5 @@
 ---
-title: "AI-Generated Slides: Are They Good? Can Students Tell?"
+title: "AI-generated slides: Are they good? Can students tell?"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
+title: "Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments"
 created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

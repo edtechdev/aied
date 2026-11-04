@@ -1,5 +1,5 @@
 ---
-title: How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+title: "How Students (Mis)understand Conditionals and Loops – A Taxonomy"
 created: "2026-05-27T07:38:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article

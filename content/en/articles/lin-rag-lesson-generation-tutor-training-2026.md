@@ -1,5 +1,5 @@
 ---
-title: "Retrieval-Augmented Lesson Generation With Large Language Models for Scenario-Based Tutor Training"
+title: "Retrieval-augmented lesson generation with large language models for scenario-based tutor training"
 created: "2026-10-12T11:05:00-04:00"
 updated: "2026-10-28T01:06:31-04:00"
 type: article

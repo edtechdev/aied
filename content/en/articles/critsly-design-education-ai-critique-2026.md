@@ -1,5 +1,5 @@
 ---
-title: "Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study"
+title: "Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education"
 created: "2026-10-02T11:30:00-04:00"
 updated: "2026-10-02T11:30:00-04:00"
 type: article

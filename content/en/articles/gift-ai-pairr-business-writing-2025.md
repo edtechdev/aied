@@ -1,5 +1,5 @@
 ---
-title: "GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course"
+title: "GIFT-AI: Teaching the game and leveling the field: Peer and AI Review + Reflection in a business writing course"
 created: "2026-08-13T17:57:54-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

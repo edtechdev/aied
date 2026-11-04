@@ -1,5 +1,5 @@
 ---
-title: "Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing"
+title: "Academic erasure: The disappearance of complexity under AI-supported writing"
 created: "2026-08-26T05:52:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

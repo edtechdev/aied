@@ -1,5 +1,5 @@
 ---
-title: "From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance"
+title: "From enhancement to over-reliance: A mixed-method study of generative AI and sustainable learning performance"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education"
+title: "Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications"
+title: "Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications and AI system design principles"
 created: "2026-08-23T08:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

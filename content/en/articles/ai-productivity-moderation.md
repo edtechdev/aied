@@ -1,5 +1,5 @@
 ---
-title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost"
+title: "Position: Adopting AI in practice does not guarantee the productivity boost"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

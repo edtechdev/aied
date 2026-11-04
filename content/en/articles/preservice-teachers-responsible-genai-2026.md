@@ -1,5 +1,5 @@
 ---
-title: "Preparing Pre-Service Teachers for Responsible Generative AI Use: Curriculum Implications for Ethics, Privacy, and AI Literacy"
+title: "Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

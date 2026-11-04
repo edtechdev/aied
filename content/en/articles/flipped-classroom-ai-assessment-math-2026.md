@@ -1,5 +1,5 @@
 ---
-title: "From Flipped Classroom to AI-Enhanced Assessment: Sustained Pedagogical Innovations in Undergraduate Mathematics"
+title: "From flipped classroom to AI-enhanced assessment: Sustained pedagogical innovations in undergraduate mathematics education"
 created: "2026-10-09T09:30:00-04:00"
 updated: "2026-10-09T09:30:00-04:00"
 type: article

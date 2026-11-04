@@ -1,5 +1,5 @@
 ---
-title: "Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when"
+title: "Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when using AI coding assistants"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

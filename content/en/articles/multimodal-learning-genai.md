@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [ai-education]
 pedagogy: [active-learning, scaffolding, self-regulated-learning]
@@ -116,7 +116,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 ## Case Study Themes from the Guide
 
 The guide includes 15+ educator case studies spanning:
-- **Healthcare**: AI avatars for patient communication training (H5P interactive scenarios)
+- **Healthcare**: AI [[ai-avatars-and-synthetic-instructors|avatar]]s for patient communication training (H5P interactive scenarios)
 - **Bioscience**: Multimodal groupwork designing organisms for future Earth scenarios
 - **Business/HR**: Peer conflict resolution with AI-generated scenarios and video avatars
 - **Education/[[teacher-education|Teacher training]]**: AI visual metaphors for reflective practice

@@ -1,5 +1,5 @@
 ---
-title: "From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools"
+title: "From prompt to embodied simulation: Using generative AI to create AR physics learning tools"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today’s Classrooms to Five Different Types of Robots"
+title: "Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots"
 created: "2026-09-16T08:12:20-04:00"
 updated: "2026-09-19T07:32:15-04:00"
 type: article

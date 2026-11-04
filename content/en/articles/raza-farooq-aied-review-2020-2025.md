@@ -1,7 +1,7 @@
 ---
 title: "Review of Artificial Intelligence in Education from 2020 to 2025"
 created: "2026-08-09T08:44:33-04:00"
-updated: "2026-09-19T10:56:42-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [ai-education, ai-literacy]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, personalized-learning]
@@ -45,7 +45,7 @@ Early algorithmic work is best read as proof-of-possibility that supports, rathe
 
 At the cognitive tier, AI stops being background plumbing and starts shaping day-to-day instructional decisions. A useful reading is a **measure–model–adapt** loop: schools make learning visible, model risk or progress, then adapt instruction or supports. Prediction can turn [[assessment]] from a few high-stakes snapshots into ongoing support — Yuan's CTQAS gives teachers real-time monitoring, Pallathadka et al. predict grades (SVM reaching 88% accuracy), and early-warning work (Villegas-Ch et al.; da Conceição et al. with interpretable ML) surfaces practical [[student-modeling|dropout predictors]] like GPA, age, and attendance. Interpretable models are not "nice to have"; they are what let leaders justify and target support.
 
-Models embedded in teaching workflows tailor content, pace, and feedback. Sun et al.'s DL-OIET improves online English via personalized recommendations; Ma et al. pair hybrid optimization with [[student-modeling|student clustering]]; Li proposes a [[agentic-ai|multi-agent]] architecture; Han et al. use fog computing and hierarchical Q-learning for lower latency. In physical education, Li and Wang use wearable sensors for real-time feedback. The wins come from short [[feedback|feedback cycles]] and proximity: sensing, deciding, and responding near the learner reduces lag and keeps adaptations meaningful.
+Models embedded in teaching workflows tailor content, pace, and feedback. Sun et al.'s DL-OIET improves online English via personalized recommendations; Ma et al. pair hybrid optimization with [[student-modeling|student clustering]]; Li proposes a [[agentic-ai|multi-agent]] architecture; Han et al. use fog computing and hierarchical Q-learning for lower latency. In physical education, Li and Wang use [[sensor-and-gaze-analytics|wearable]] sensors for real-time feedback. The wins come from short [[feedback|feedback cycles]] and proximity: sensing, deciding, and responding near the learner reduces lag and keeps adaptations meaningful.
 
 Without good signals, [[personalized-learning|personalization]] guesses. Chu et al. extract discourse indicators from video and find content similarity predicts dissatisfaction; Liu and Zou model live classroom interactions; Zhao and Yu's ANN supports classroom [[affective-computing|emotion recognition]]; Kim et al. show AI can especially boost [[creativity]] for lower-skill students in collaborative art. Intention matters too — using the [[technology-acceptance-model|Theory of Planned Behavior]], Chai et al. find [[self-efficacy]] is a strong predictor of intention to learn AI. Better sensing is not surveillance; it is context that lets you adapt earlier and more precisely, especially for the learners who benefit most.
 

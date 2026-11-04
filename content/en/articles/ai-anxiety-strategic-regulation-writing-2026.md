@@ -1,5 +1,5 @@
 ---
-title: "From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource"
+title: "From AI anxiety to strategic regulation: How university students transform generative AI into a strategic learning resource"
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

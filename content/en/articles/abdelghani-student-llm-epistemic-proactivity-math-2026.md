@@ -1,5 +1,5 @@
 ---
-title: "Student-LLM Interactions During Math Learning: Limited Epistemic Proactivity"
+title: "Student-LLM Interactions During Math Learning: Limited Epistemic Proactivity Overall, but Within-Chat Change Predicts Performance Without AI"
 created: "2026-10-30T09:20:00-04:00"
 updated: "2026-10-30T09:20:00-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering"
+title: "Giving mechanical engineers intelligent tools: A project-based AI education curriculum in thermal engineering"
 created: "2026-08-27T09:10:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

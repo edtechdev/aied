@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T21:00:00-05:00"
-updated: "2026-11-04T21:00:00-05:00"
+updated: "2026-11-04T16:09:41-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -25,8 +25,8 @@ ai_assist:
 
 ## Questions to Consider
 
-- If a lecture video is presented by a face you later learn was synthesized from your instructor's likeness, what changes for you — the content, your sense of who taught it, or nothing at all?
-- A simulated student that is fluent, cooperative and never derails the lesson is easy to talk to. What has that rehearsal prepared you for, and what has it quietly left out?
+- If a [[video-education|lecture video]] is presented by a face you later learn was synthesized from your instructor's likeness, what changes for you — the content, your sense of who taught it, or nothing at all?
+- A [[simulating-students|simulated student]] that is fluent, cooperative and never derails the lesson is easy to talk to. What has that rehearsal prepared you for, and what has it quietly left out?
 - Would you want to be told before an encounter that the patient was generated? How would finding out afterward change what you take from the session?
 - Which is the greater integrity risk: a learner deceiving an AI examiner, or an AI examiner misreading a learner?
 - [[collaborative-learning|Peer role-play]] is free, familiar and socially demanding. What would an avatar have to add for you to choose it instead?
@@ -45,11 +45,11 @@ This page is organized by role: which role the synthetic human occupies, what ev
 
 **Simulated patient or client.** [[sophie-clinical-communication-ai-assessment-2026|SOPHIE 2.0]] offers 24 browser-based clinical scenarios with a talking avatar patient. [[ai-psychotherapy-training-avatars|Riachi et al. (2026)]] apply the pattern to Acceptance and Commitment Therapy, scoring trainee fidelity turn by turn.
 
-**Simulated student.** [[hauk-student-avatars-dialogue-teacher-education-2026|Hauk et al. (2026)]] gave 21 preservice teachers a ten-minute voice conversation with "Marco", a lower-secondary student who makes a disparaging remark about immigrants.
+**Simulated student.** [[hauk-student-avatars-dialogue-teacher-education-2026|Hauk et al. (2026)]] gave 21 [[teacher-education|preservice teachers]] a ten-minute voice conversation with "Marco", a lower-secondary student who makes a disparaging remark about immigrants.
 
 **Role-play partner.** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] has children puppeteer a robotic avatar to rehearse bystander intervention. ACLIME calls this the second interaction mode: an agent holding a defined role for [[situated-learning|situated]] dialogue.
 
-**Assessment interlocutor.** The SOPHIE judge scores transcripts against a communication rubric. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propose a voice agent that interviews students about a course instead of administering a written survey.
+**Assessment interlocutor.** The SOPHIE judge scores transcripts against a communication rubric. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al. (2026)]] propose a voice agent that interviews students about a course instead of administering a [[self-report-measures|written survey]].
 
 ## What the evidence supports, role by role
 
@@ -59,9 +59,9 @@ For recorded instruction, the outcome measured is preference, not achievement. A
 
 For tutoring, the evidence is engineering feasibility. ELEVATE reached roughly five to six seconds to first audio on consumer hardware by streaming speech, which masked most perceived latency. No controlled user study was run, so effects on learning and [[help-seeking]] remain open.([[elevate-genai-virtual-tutors]])
 
-For clinical communication, the evidence is the most developed and still stops short of transfer. SOPHIE's judge, reading transcripts alone, reached Pearson 0.759 and ICC(A,1) 0.746 against the consensus of human raters — inside the spread of individual humans rather than outside it. In a remote study of 59 clinicians and students, 92% found it engaging and 83% judged it clinically relevant. Scores rose between two encounters, but with no control arm that rise cannot be attributed to the training.([[sophie-clinical-communication-ai-assessment-2026]])
+For clinical communication, the evidence is the most developed and still stops short of [[transfer-of-learning|transfer]]. SOPHIE's judge, reading transcripts alone, reached Pearson 0.759 and ICC(A,1) 0.746 against the consensus of human raters — inside the spread of individual humans rather than outside it. In a remote study of 59 clinicians and students, 92% found it engaging and 83% judged it clinically relevant. Scores rose between two encounters, but with no control arm that rise cannot be attributed to the training.([[sophie-clinical-communication-ai-assessment-2026]])
 
-For simulated students, the evidence concerns interaction quality rather than outcomes. Hauk's participants rated the dialogue clearly functional (M = 5.37) and only moderately authentic (M = 3.71), a split the transcripts reproduced at 87.1% versus 37.4% coverage. The avatar carried the challenge work, at 51.1% of its text, while teachers elaborated and justified. Twenty-one volunteers in one program, one session, no comparison with live role-play.([[hauk-student-avatars-dialogue-teacher-education-2026]])
+For [[simulating-students|simulated students]], the evidence concerns interaction quality rather than outcomes. Hauk's participants rated the dialogue clearly functional (M = 5.37) and only moderately authentic (M = 3.71), a split the transcripts reproduced at 87.1% versus 37.4% coverage. The avatar carried the challenge work, at 51.1% of its text, while teachers elaborated and justified. Twenty-one volunteers in one program, one session, no comparison with live role-play.([[hauk-student-avatars-dialogue-teacher-education-2026]])
 
 For role-play, REMind reports a significant pre-to-post gain in children's perceived [[self-efficacy]] for defending, with better-calibrated beliefs about whether confronting a bully stops it. That is 18 children aged nine to ten in a play-testing context, which supports promise rather than sustained behavior change.([[remind-robot-mediated-roleplay-antibullying-2026]])
 
@@ -69,7 +69,7 @@ For assessment, the SOPHIE judge is the clearest result and the voice interviewe
 
 ## Trust travels through the face
 
-A face is not a neutral container for pedagogical content. In two experiments totaling 396 participants, [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis and Kyriakidou-Zacharoudiou (2026)]] found that avatar identity cues shaped both evaluation and enacted uptake. White avatars, and Asian male avatars in STEM contexts, were rated more credible and competent. Older Black female avatars faced compounded penalties across every measure. Participants adopted guidance more readily from avatars matching their racial ingroup or their stereotype of expertise.
+A face is not a neutral container for [[pedagogy|pedagogical content]]. In two experiments totaling 396 participants, [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis and Kyriakidou-Zacharoudiou (2026)]] found that avatar identity cues shaped both evaluation and enacted uptake. White avatars, and Asian male avatars in STEM contexts, were rated more credible and competent. Older Black female avatars faced compounded penalties across every measure. Participants adopted guidance more readily from avatars matching their racial ingroup or their stereotype of expertise.
 
 Two details make this a design problem. Domain moderated the effect: STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it. And the bias operated on behavior, not only on stated attitudes, which means self-reported [[trust-calibration|trust]] would have missed it. The authors recommend stylized or less anthropomorphic avatars, rotating diverse avatars across tasks, and evaluating uptake rather than satisfaction.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]])
 
@@ -77,7 +77,7 @@ Authority also arrives through the body. ELEVATE's designers warn that body and 
 
 ## Presence, realism and the uncanny
 
-Realism is not a ladder. [[aclime-pedagogical-agents-extended-reality-2026|ACLIME]] treats behavioral realism as the decisive predictor of social presence and warns that higher visual fidelity risks the uncanny valley, where a nearly human agent triggers sudden rejection. It also prices the trade-off: immersion and agent realism raise extraneous cognitive load, while interaction can lower intrinsic load through collective working memory. Its headline caution is blunt — roughly 42% of VR headset users report cybersickness, and after-effects run from about ten minutes to several hours.([[aclime-pedagogical-agents-extended-reality-2026]])
+Realism is not a ladder. [[aclime-pedagogical-agents-extended-reality-2026|ACLIME]] treats behavioral realism as the decisive predictor of [[community-of-inquiry|social presence]] and warns that higher visual fidelity risks the uncanny valley, where a nearly human agent triggers sudden rejection. It also prices the trade-off: immersion and agent realism raise extraneous cognitive load, while interaction can lower intrinsic load through collective working memory. Its headline caution is blunt — roughly 42% of VR headset users report cybersickness, and after-effects run from about ten minutes to several hours.([[aclime-pedagogical-agents-extended-reality-2026]])
 
 Practice studies mostly support the modest version of this claim. Hauk's authors read moderate authenticity as fidelity fit for function. A dyadic, voice-only rehearsal stabilizes routines for novices, and peer dynamics and nonverbal cues can be added later.([[hauk-student-avatars-dialogue-teacher-education-2026]]) In SOPHIE, 47% of participants still found it hard to feel real empathy toward an AI patient, even though 66% found talking to one less stressful than talking to a person.([[sophie-clinical-communication-ai-assessment-2026]])
 
@@ -85,7 +85,7 @@ Learners do not uniformly want more realism. In [[trikonet-trivalence-co-creativ
 
 ## Consent, disclosure and deepfake risk
 
-Across these accounts, disclosure appears as a design decision rather than a measured variable. Hauk's scenario sat on the edge of hate speech, and its safeguards were procedural. The design included orientation, moderation guidelines, continuous instructor monitoring, an option to stop immediately, structured debriefing, and pseudonymized aggregate analysis.([[hauk-student-avatars-dialogue-teacher-education-2026]]) Theelen's framework asks that learners and teacher educators know which parts of a simulation are controlled by people, scripts or AI, and treats that transparency as a condition of defensible adaptation.([[theelen-classroom-simulations-four-layer-framework-2026]])
+Across these accounts, disclosure appears as a design decision rather than a measured variable. Hauk's scenario sat on the edge of hate speech, and its safeguards were procedural. The design included orientation, moderation guidelines, continuous instructor monitoring, an option to stop immediately, structured debriefing, and pseudonymized aggregate analysis.([[hauk-student-avatars-dialogue-teacher-education-2026]]) Theelen's framework asks that learners and teacher educators know which parts of a [[simulation|simulation]] are controlled by people, scripts or AI, and treats that transparency as a condition of defensible adaptation.([[theelen-classroom-simulations-four-layer-framework-2026]])
 
 The harder question is whether simulating a person is itself a small deception. A learner who believes a struggling patient is real may invest care a disclosed simulation would not elicit, then feel misled once told. Hauk's moderate authenticity ratings suggest participants were not fooled about the avatar's nature; SOPHIE's 47% empathy finding suggests some were engaged despite knowing. Neither study tests disclosure directly.
 
@@ -99,7 +99,7 @@ Almost every study here is small and short. Hauk has 21 volunteers and one sessi
 
 The large samples concern attitudes and preferences — 396 participants on avatar identity, 493 respondents on video preference — and both are convenience or single-course populations. No study in this set demonstrates that a synthetic instructor produces better learning than a human one. The defensible claim is narrower: these systems can approximate a practice encounter, can be scored against human raters with acceptable agreement in one domain, and can shift how learners evaluate the source of instruction.
 
-That narrowness matters. Theelen's authors put it directly: fluency and a sense of presence are not validity evidence.([[theelen-classroom-simulations-four-layer-framework-2026]]) Sounding like a teacher clears the easiest bar in the room.
+That narrowness matters. Theelen's authors put it directly: fluency and a sense of presence are not [[assessment-validity|validity evidence]].([[theelen-classroom-simulations-four-layer-framework-2026]]) Sounding like a teacher clears the easiest bar in the room.
 
 ## Common Misconceptions
 

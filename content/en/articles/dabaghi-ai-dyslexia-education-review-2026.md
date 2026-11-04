@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence to help people with dyslexia in education: An interdisciplinary literature review"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 technology: [generative-ai, personalized-learning]
 ethics: [accessibility, assistive-technology, inclusive-learning, neurodiversity]
@@ -20,7 +20,7 @@ methods: [meta-analysis-systematic-review]
 - **AI spans detection, assistive support, and personalized learning for dyslexia**, but these strands evolve in parallel rather than in integration; the field is driven more by technological opportunity than by consolidated educational theory, with technical sophistication rarely matched by [[pedagogy|pedagogical]] embedding or validated instructional impact.
 - **Generative AI is under-utilized in this domain.** GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-education|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent.
 - **ML-based help-education tools** fall into five areas — specific applications (e.g., music, numbers), [[student-engagement|engagement]], personalization, recommendation, and generic support — but studies emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment.
-- **Detection research** (EEG, eye-tracking, ML models) prioritizes early intervention and shows diagnostic promise, yet these tools often require specialized equipment and controlled environments, limiting scalability and [[accessibility]] in typical school settings.
+- **Detection research** ([[sensor-and-gaze-analytics|EEG]], eye-tracking, ML models) prioritizes early intervention and shows diagnostic promise, yet these tools often require specialized equipment and controlled environments, limiting scalability and [[accessibility]] in typical school settings.
 - **Open challenges** include limited experimental validation, scalability and accessibility of diagnostic tools, [[ethics|ethical]] and [[privacy]] concerns with sensitive student data, limited [[teacher-role|teacher]] support and training, and language/cultural barriers (most research targets English-speaking populations).
 - **Future trends** point to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral [[learning-analytics|analytics]], NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, educator-facing support tools, and interdisciplinary collaboration across AI, education, cognitive science, and psychology.
 - **[[research-methods-aied|Methodological]] limitations** of the review itself include interpretative classification bias, exclusion of non-English studies, heterogeneous evaluation protocols that prevent [[quantitative-research|quantitative]] synthesis, and a rapidly evolving GAI evidence base that remains preliminary.

@@ -1,5 +1,5 @@
 ---
-title: 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
+title: "\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning"
 created: "2026-05-25T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article

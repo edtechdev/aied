@@ -1,5 +1,5 @@
 ---
-title: "AI disclosure labels, perceived authenticity, and trust in AI-generated instructional videos"
+title: "From AI labels to trust: cognitive pathways linking authenticity judgments, risk perception, and trust in AI-generated videos"
 published: "2026-10-20"
 created: "2026-10-28T12:40:58-04:00"
 updated: "2026-11-02T06:45:00-05:00"

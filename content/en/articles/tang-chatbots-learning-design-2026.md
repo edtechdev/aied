@@ -1,5 +1,5 @@
 ---
-title: "Investigating the Role of Chatbots in Facilitating Learning Design"
+title: "Investigating the role of chatbots in facilitating learning design"
 created: "2026-09-21T04:46:58-04:00"
 updated: "2026-09-21T04:46:58-04:00"
 type: article

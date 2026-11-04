@@ -1,5 +1,5 @@
 ---
-title: "Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights From Postgraduate Students"
+title: "Shaping responsible GenAI use in research through AI literacy-oriented guidelines: Insights from postgraduate students"
 created: "2026-09-06T08:12:00-04:00"
 updated: "2026-09-19T10:14:00-04:00"
 type: article

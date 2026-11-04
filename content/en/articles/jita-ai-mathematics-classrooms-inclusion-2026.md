@@ -1,5 +1,5 @@
 ---
-title: "AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity"
+title: "AI in mathematics classrooms: A synergistic strategy for diversity and inclusivity"
 published: "2026-11-01"
 created: "2026-11-02T09:20:00-05:00"
 updated: "2026-11-02T10:15:00-05:00"

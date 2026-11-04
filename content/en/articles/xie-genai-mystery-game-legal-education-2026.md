@@ -1,5 +1,5 @@
 ---
-title: "A GenAI-Assisted Mystery Role-Play Game Beat Lecture in a Legal-Education Randomized Trial"
+title: "GenAI-enabled educational game development: the effects of a scripted mystery role-playing game on students’ learning experience and learning outcomes in legal education"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article
@@ -78,4 +78,4 @@ For [[student-engagement|engagement]], the practical lesson is narrower than "ga
 
 ## Citation
 
-Xie, Z., Zhao, S., Hong, F., & Duan, Z. (2026). [GenAI-enabled educational game development: The effects of a scripted mystery role-playing game on students' learning experience and learning outcomes in legal education](https://doi.org/10.1186/s41239-026-00634-5). *International Journal of Educational Technology in Higher Education, 23*(1), 59.
+Xie, Z., Zhao, S., Hong, F., & Duan, Z. (2026). [GenAI-enabled educational game development: the effects of a scripted mystery role-playing game on students’ learning experience and learning outcomes in legal education](https://doi.org/10.1186/s41239-026-00634-5). *International Journal of Educational Technology in Higher Education, 23*(1), 59.

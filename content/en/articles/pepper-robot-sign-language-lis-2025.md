@@ -1,5 +1,5 @@
 ---
-title: "Using the Pepper Robot to Support Sign Language Communication"
+title: "Using the Pepper robot to support sign language communication"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

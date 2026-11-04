@@ -1,5 +1,5 @@
 ---
-title: "The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World"
+title: "The Devil is in the Details: AI agents, ghost students, and the crisis of verified presence in an agentic AI world"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

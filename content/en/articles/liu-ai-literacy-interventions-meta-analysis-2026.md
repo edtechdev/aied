@@ -1,5 +1,5 @@
 ---
-title: "AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators"
+title: "AI literacy interventions in education: A meta-analysis of effects and moderators"
 created: "2026-08-24T12:34:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs"
+title: "A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs"
 created: "2026-09-06T08:20:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
+title: "Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

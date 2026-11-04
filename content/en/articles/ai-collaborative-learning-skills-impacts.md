@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving"
+title: "Artificial intelligence and collaborative learning: Impacts on creativity, critical thinking, and problem-solving"
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

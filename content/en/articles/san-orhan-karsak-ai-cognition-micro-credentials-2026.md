@@ -1,5 +1,5 @@
 ---
-title: "Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education"
+title: "Knowing its name, not its nature: Word association mapping of student AI cognition and evidence-based micro-credential design in Turkish higher education"
 created: "2026-09-06T08:10:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

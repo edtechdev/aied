@@ -1,5 +1,5 @@
 ---
-title: "Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes"
+title: "Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes"
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
@@ -42,4 +42,4 @@ Question-part analysis provided a stricter test: across 7,058 official question 
 
 ## Citation
 
-Pathak, P., Tiwary, S., Kadolkar, C., Singh, V., Rakestraw, D., Pathare, S., & Mazumdar, A. (2026). [*Large Scale AI Grading of Handwritten Physics Assessments*](https://arxiv.org/abs/2608.20521).
+Pathak, P., Tiwary, S., Kadolkar, C., Singh, V., Rakestraw, D., Pathare, S., & Mazumdar, A. (2026). [*Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes*](https://arxiv.org/abs/2608.20521).

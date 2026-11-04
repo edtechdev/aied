@@ -1,7 +1,7 @@
 ---
-title: "The crisis of critical thinking in higher education: rethinking what universities should teach in an age of information abundance and generative AI"
+title: "The crisis of critical thinking in higher education: rethinking what universities should teach in an age of information abundance and generative AI — a critical narrative review of international evidence"
 created: "2026-10-29T10:30:00-04:00"
-updated: "2026-11-02T06:45:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 authors: ["Salameh, W."]
 published: "2026-10-27"
@@ -43,7 +43,7 @@ ai_assist:
 
 ## What the review did, and what it deliberately did not
 
-The design is a critical narrative review with thematic synthesis, chosen over a systematic or [[meta-analysis-systematic-review|scoping review]] because the purpose is conceptual integration across [[cognitive-psychology|cognitive psychology]], information literacy, educational technology and assessment rather than a pooled estimate. The evidence is methodologically heterogeneous — EEG experiments, randomized trials, surveys, phenomenological studies, tool evaluations and conceptual analyses — which precludes meta-analysis, and every candidate record was checked against the publisher's platform. Sources came from citation chaining from the foundational cognitive-science literature plus targeted searches combining GenAI and [[llm|large language model]] terms with critical thinking, offloading, engagement, metacognition and cognitive load, and with [[higher-ed|higher education]] and student terms. The synthesis is anchored in an integrative framework that combines cognitive load and dual-process theory, offloading, scaffolding, [[self-regulated-learning]] and epistemic cognition. One widely cited meta-analysis reporting positive effects of ChatGPT on higher-order thinking was identified and excluded because it was retracted in 2026.
+The design is a critical narrative review with thematic synthesis, chosen over a systematic or [[meta-analysis-systematic-review|scoping review]] because the purpose is conceptual integration across [[cognitive-psychology|cognitive psychology]], information literacy, educational technology and assessment rather than a pooled estimate. The evidence is methodologically heterogeneous — [[sensor-and-gaze-analytics|EEG]] experiments, randomized trials, surveys, phenomenological studies, tool evaluations and conceptual analyses — which precludes meta-analysis, and every candidate record was checked against the publisher's platform. Sources came from citation chaining from the foundational cognitive-science literature plus targeted searches combining GenAI and [[llm|large language model]] terms with critical thinking, offloading, engagement, metacognition and cognitive load, and with [[higher-ed|higher education]] and student terms. The synthesis is anchored in an integrative framework that combines cognitive load and dual-process theory, offloading, scaffolding, [[self-regulated-learning]] and epistemic cognition. One widely cited meta-analysis reporting positive effects of ChatGPT on higher-order thinking was identified and excluded because it was retracted in 2026.
 
 ## Why offloading is the mechanism and not the villain
 

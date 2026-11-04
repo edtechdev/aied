@@ -1,5 +1,5 @@
 ---
-title: "Ethical Generative AI Use in Higher Education: An Action Research Study Using the Think Aloud Method"
+title: "Ethical generative AI use in higher education: An action research study using the Think Aloud method"
 created: "2026-10-12T11:05:00-04:00"
 updated: "2026-10-12T11:05:00-04:00"
 type: article

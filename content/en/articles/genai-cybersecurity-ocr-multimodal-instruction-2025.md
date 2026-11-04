@@ -1,5 +1,5 @@
 ---
-title: "Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction"
+title: "Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

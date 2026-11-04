@@ -1,5 +1,5 @@
 ---
-title: "Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale"
+title: "Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network"
+title: "Augmenting knowledge tracing through modeling dynamic higher-order concept interactions: A temporal hypergraph memory network"
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

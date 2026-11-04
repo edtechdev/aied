@@ -1,5 +1,5 @@
 ---
-title: "From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments"
+title: "From cognitive outsourcing to reallocation: A 3P analysis of student–generative AI engagement in unsupervised assessments"
 created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-19T07:32:15-04:00"
 type: article

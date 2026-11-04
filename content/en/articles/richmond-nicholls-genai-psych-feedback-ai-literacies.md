@@ -1,5 +1,5 @@
 ---
-title: "Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology"
+title: "Using generative AI to promote psychological, feedback, and artificial intelligence literacies in undergraduate psychology"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

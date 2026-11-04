@@ -1,5 +1,5 @@
 ---
-title: "Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning"
+title: "Profiles and transitions of psychological adaptation in AI-assisted Japanese language learning"
 created: "2026-09-06T08:18:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

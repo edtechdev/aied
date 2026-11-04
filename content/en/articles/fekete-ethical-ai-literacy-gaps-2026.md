@@ -1,5 +1,5 @@
 ---
-title: "Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy"
+title: "Between promise and practice: Bridging ethical artificial intelligence literacy gaps across students, educators, and policy"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

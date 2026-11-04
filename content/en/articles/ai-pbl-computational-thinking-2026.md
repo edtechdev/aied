@@ -1,5 +1,5 @@
 ---
-title: 'AI-Supported Problem-Based Learning for Enhancing Computational Thinking'
+title: "AI-supported problem-based learning for enhancing computational thinking"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

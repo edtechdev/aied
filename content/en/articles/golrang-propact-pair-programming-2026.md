@@ -1,7 +1,7 @@
 ---
 title: "ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-20T03:43:02-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [collaborative-learning, metacognition, scaffolding, sociocultural-learning]
 technology: [adaptive-learning, intelligent-tutoring, rag, affective-tutoring, learning-analytics]
@@ -19,7 +19,7 @@ level: [higher ed]
 ## Key Findings
 
 1. **Proactive feedback lifts performance.** Dyads receiving ProPACT feedback achieved higher debugging success (*t*[49.96] = −13.51, *p* < .0001) and finished debugging faster (*t*[44.70] = 4.39, *p* < .0001) than the no-feedback control.
-2. **Dyadic sensing enables prediction.** JVA (gaze-distribution cosine similarity over 30-second windows), JME (cross-recurrence of pupil signals), and ME (Index of Pupillary Activity) feed one model that forecasts sub-optimal states 30 seconds ahead.
+2. **Dyadic sensing enables prediction.** JVA ([[sensor-and-gaze-analytics|gaze]]-distribution cosine similarity over 30-second windows), JME (cross-recurrence of pupil signals), and ME (Index of Pupillary Activity) feed one model that forecasts sub-optimal states 30 seconds ahead.
 3. **A five-tier hierarchy delivers minimally intrusive help.** Escalation runs A1 (do nothing), A2 (GitHub Copilot), A3 (gaze-awareness cue), A4 (dialogue prompt), A5 (directive hint), used only when signals show rising breakdown risk.
 4. **Collaborative skill gains persist.** Beyond immediate task outcomes, dyads showed post-intervention increases in JVA and JME, indicating that the system scaffolded durable collaborative [[regulation]] rather than providing momentary assistance.
 5. **Support is graduated, not answer-giving.** ProPACT mimics a skilled pair-programming mentor, structuring collaboration within each pair's [[sociocultural-learning|zone of proximal development]] rather than giving solutions, and partners must monitor their own [[metacognition]].

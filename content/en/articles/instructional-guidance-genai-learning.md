@@ -1,5 +1,5 @@
 ---
-title: "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering"
+title: "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education"
 created: "2026-06-09T04:33:04-04:00"
 updated: "2026-10-28T01:06:31-04:00"
 type: article

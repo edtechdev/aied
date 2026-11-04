@@ -1,5 +1,5 @@
 ---
-title: "CAFE-AI: a synergistic approach to integrating pedagogy and technology for AI literacy and growth mindset"
+title: "CAFE-AI: A synergistic approach to integrating pedagogy and technology for AI literacy and growth mindset"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-10-25T00:00:00-04:00"
 type: article

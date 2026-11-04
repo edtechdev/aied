@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework"
+title: "The evolution of research on AI and education across four decades: Insights from the AIxEd framework"
 created: "2026-09-03T12:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

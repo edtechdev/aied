@@ -1,5 +1,5 @@
 ---
-title: "Taming the Black Box: Design Principles for Rule-Integrated LLM Tutoring Systems in Primary School Mathematical Problem Solving"
+title: "Taming the black box: Design principles for rule-integrated LLM tutoring systems in primary school mathematical problem solving"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

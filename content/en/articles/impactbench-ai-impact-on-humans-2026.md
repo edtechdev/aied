@@ -1,5 +1,5 @@
 ---
-title: "Open Benchmark of AI Impact on Humans (ImpactBench): An Expert-Guided, Open Platform for the Holistic Evaluation of AI Impact on Humans"
+title: "Open Benchmark of AI Impact on Humans (ImpactBench): An expert-guided, open platform for the holistic evaluation of AI impact on humans"
 created: "2026-10-09T00:49:28-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article

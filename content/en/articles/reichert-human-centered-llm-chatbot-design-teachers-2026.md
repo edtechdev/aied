@@ -1,5 +1,5 @@
 ---
-title: "Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers"
+title: "Human-centered design of LLM-powered educational chatbots: A study with secondary teachers"
 created: "2026-09-14T06:10:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

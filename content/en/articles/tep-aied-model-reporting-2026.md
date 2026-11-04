@@ -1,5 +1,5 @@
 ---
-title: "Presenting Your AI in Education Research with Rigor: The TEP-AIED Model"
+title: "Presenting your AI in education research with rigor: The TEP-AIED model"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

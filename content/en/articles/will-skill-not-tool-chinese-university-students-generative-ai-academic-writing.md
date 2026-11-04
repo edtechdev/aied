@@ -1,5 +1,5 @@
 ---
-title: "Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings"
+title: "Will, skill, not tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings"
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

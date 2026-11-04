@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade"
 created: "2026-08-11T06:15:03-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, learning-analytics]
@@ -31,7 +31,7 @@ The review synthesizes a decade (2014–2024) of research on AI-enhanced collabo
 ## Key Results
 
 - **[[learning-gains|Academic performance]]:** predictive analytics and [[machine-learning|machine learning]] support early identification of at-risk students and continuous [[feedback|feedback loops]] that improve collaborative performance and satisfaction; AI-driven feedback systems appear across the reviewed studies as a core intervention type.
-- **Engagement and motivation:** [[multimodal|multimodal AI]] approaches that track emotional and physiological responses (e.g., heart rate, facial expressions, electrodermal activity) give instructors real-time insight into engagement, supporting timely interventions to maintain motivation.
+- **Engagement and motivation:** [[multimodal|multimodal AI]] approaches that track emotional and physiological responses (e.g., heart rate, facial expressions, [[sensor-and-gaze-analytics|electrodermal]] activity) give instructors real-time insight into engagement, supporting timely interventions to maintain motivation.
 - **Task design and assessment:** effective tasks balance challenge and accessibility; AI can dynamically adjust task difficulty based on group performance, monitor participation, and enforce [[equity-in-ai-education|equitable]] contribution so dominant members cannot take over and reserved students are not left behind.
 - **Social presence and emotion:** AI tools that increase social presence and emotional engagement make learners feel more connected to the learning process, improving collaborative outcomes.
 - **Remote and [[online-teaching-and-learning|virtual learning]]:** AI-powered virtual laboratories simulate physical lab environments, allowing distance students to collaborate on complex projects with engagement comparable to on-campus settings.

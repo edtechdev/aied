@@ -1,5 +1,5 @@
 ---
-title: "\"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison"
+title: "\"It is a temptation to get it to do the work…\" Student experiences of navigating the generative AI landscape in UK higher education: A cross-institutional survey with international comparison"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

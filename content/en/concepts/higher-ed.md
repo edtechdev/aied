@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -73,7 +73,7 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 ## Implications for higher-education instructors
 
 - **Design assessment for an AI-capable student body.** Detection-centered integrity approaches are giving way to [[authentic-assessment|authentic]] and process-based evaluation ([[beyond-detection-authentic-assessment-ai-2025|beyond detection]], [[ai-assessment-scale-reform|assessment reform]]) — redesign what you assess, not just how you police it.
-- **Stop treating an in-room ban as assurance.** Smart glasses and AI-enabled hearing aids are dually transparent — no gaze drop or posture shift to detect — so an invigilated exam or oral can no longer purchase evidential confidence by physical separation ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Stop treating an in-room ban as assurance.** Smart glasses and AI-enabled hearing aids are dually transparent — no [[sensor-and-gaze-analytics|gaze]] drop or posture shift to detect — so an invigilated exam or oral can no longer purchase evidential confidence by physical separation ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Redesign the "what should students still learn by hand?" question.** Just as in computing, decide which skills must be preserved (verification, judgment, process) and make those the assessed core, rather than assuming AI skills transfer automatically.
 - **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your [[pedagogy|teaching practice]] with institutional governance, not just tool fluency.
 - **Fund AI literacy, not just tool confidence, for faculty.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] found that social and organizational support reached university faculty AI well-being only indirectly, through AI literacy (β = 0.713), so programs that build conceptual, ethical and pedagogical understanding do more for faculty than hands-on fluency alone.

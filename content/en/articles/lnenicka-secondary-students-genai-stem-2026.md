@@ -1,5 +1,5 @@
 ---
-title: "Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools"
+title: "Navigating AI in STEM: what secondary students actually do with generative AI-driven tools"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

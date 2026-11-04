@@ -1,5 +1,5 @@
 ---
-title: "Development and validation of the generative AI assessment literacy scale for higher education students"
+title: "Development and Validation of the Generative AI Assessment Literacy Scale for Higher Education Students: Psychometric Evidence and Associations with Feedback Engagement and Academic Integrity"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
 type: article

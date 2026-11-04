@@ -1,5 +1,5 @@
 ---
-title: "Value-Sensitive Design in Action: Designing Student-Centered Intelligent Tutoring Systems with Community College Students and Instructors"
+title: "Value-sensitive design in action: Designing student-centered intelligent tutoring systems with community college students and instructors"
 created: "2026-09-08T13:29:19-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article

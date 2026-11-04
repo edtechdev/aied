@@ -1,5 +1,5 @@
 ---
-title: "More externalization, but less inference? Exploring changes in young learners' critical thinking during conversational"
+title: "More externalization, but less inference? Exploring changes in young learners' critical thinking during conversational AI bot-supported multimodal writing practice"
 created: "2026-09-09T01:46:17-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article

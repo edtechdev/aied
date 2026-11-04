@@ -1,5 +1,5 @@
 ---
-title: "Ethical Conditions for University Students' Adoption of Large Language Models in Exam Preparation Contexts"
+title: "Ethical conditions for university students' adoption of large language models in exam preparation contexts"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

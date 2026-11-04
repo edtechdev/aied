@@ -1,5 +1,5 @@
 ---
-title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive"
+title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
@@ -51,5 +51,5 @@ institutions: [change-management]
 
 ## Citation
 
-Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment*](https://doi.org/10.53761/pc04tp05). *Journal of University Teaching and Learning Practice*, 23(2).
+Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment*](https://doi.org/10.53761/pc04tp05). *Journal of University Teaching and Learning Practice*, 23(2).
 

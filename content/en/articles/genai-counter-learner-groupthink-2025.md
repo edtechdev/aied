@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings"
+title: "Utilizing generative AI to counter learner groupthink by introducing controversy in collaborative problem based learning settings"
 created: "2026-08-20T06:20:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing"
+title: "Evaluating feedback focus and pedagogical adaptivity in LLM-generated feedback on student writing"
 created: "2026-09-24T09:11:53-04:00"
 updated: "2026-09-24T09:11:53-04:00"
 type: article

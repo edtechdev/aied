@@ -1,5 +1,5 @@
 ---
-title: "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments"
+title: "ResidencyRL: Reinforcement learning in simulated clinical environments"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
+title: "Exploring students' perceptions of using generative AI-assisted problem posing"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

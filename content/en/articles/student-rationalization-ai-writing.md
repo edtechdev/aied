@@ -1,5 +1,5 @@
 ---
-title: 'It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing'
+title: "\"It's OK Because.\": The Wild West of Student Rationalization of AI Use in Academic Writing"
 created: "2026-05-29T04:33:04-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article

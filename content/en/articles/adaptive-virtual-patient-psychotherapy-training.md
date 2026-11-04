@@ -1,5 +1,5 @@
 ---
-title: "The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist"
+title: "The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills"
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

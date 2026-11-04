@@ -1,5 +1,5 @@
 ---
-title: "Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity"
+title: "Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity"
 created: "2026-08-19T11:30:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

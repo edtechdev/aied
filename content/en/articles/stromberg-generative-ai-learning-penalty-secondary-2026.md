@@ -1,5 +1,5 @@
 ---
-title: "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education"
+title: "The generative AI learning penalty: Evidence from Chinese secondary education"
 created: "2026-08-19T17:12:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

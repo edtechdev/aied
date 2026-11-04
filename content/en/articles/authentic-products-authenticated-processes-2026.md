@@ -1,5 +1,5 @@
 ---
-title: "From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich"
+title: "From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich higher education"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

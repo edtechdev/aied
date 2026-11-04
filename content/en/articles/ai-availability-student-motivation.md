@@ -1,5 +1,5 @@
 ---
-title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
+title: "\"Why Put in This Much Effort?\": How AI Availability Shapes Students' Motivation in Introductory Programming"
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-19T08:04:44-04:00"
 type: article

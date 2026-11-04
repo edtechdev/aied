@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System"
+title: "Adaptive scaffolding for cognitive engagement in an intelligent tutoring system"
 created: "2026-08-24T05:30:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

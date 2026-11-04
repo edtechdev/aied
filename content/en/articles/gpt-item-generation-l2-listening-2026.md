@@ -1,5 +1,5 @@
 ---
-title: "How to Train Your Dragon: Evaluating Prompting and Fine-Tuning for GPT-Based Item Generation in L2 Listening Assessment"
+title: "How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-10-02T07:31:21-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China"
+title: "Motivation to shape the future of education with artificial intelligence: An international comparison between Switzerland and China"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

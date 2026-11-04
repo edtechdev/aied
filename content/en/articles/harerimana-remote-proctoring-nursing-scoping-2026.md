@@ -1,5 +1,5 @@
 ---
-title: "Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review"
+title: "Under surveillance: Mapping remote proctoring practices in the assessment of nursing students—a scoping review"
 created: "2026-09-18T04:11:33-04:00"
 updated: "2026-09-23T09:52:53-04:00"
 type: article

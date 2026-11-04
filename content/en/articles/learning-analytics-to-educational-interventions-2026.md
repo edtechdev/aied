@@ -1,5 +1,5 @@
 ---
-title: "From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design"
+title: "From learning analytics to educational interventions: Enhancing decision-making and learning design"
 created: "2026-08-30T16:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

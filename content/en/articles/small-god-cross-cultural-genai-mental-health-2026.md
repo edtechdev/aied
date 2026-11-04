@@ -1,5 +1,5 @@
 ---
-title: "“It feels like a small God”: A Thematic Analysis of Cross-Cultural Imaginations of Generative AI Among Users Seeking Emotional and Mental Health Support"
+title: "“It feels like a small God”: A thematic analysis of cross-cultural imaginations of generative AI among users seeking emotional and mental health support"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-24T12:21:53-04:00"
 type: article

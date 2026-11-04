@@ -1,5 +1,5 @@
 ---
-title: "AI for Education: The Digital Transformation of a Liberal Arts Institution — Implementation at Lingnan University"
+title: "AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

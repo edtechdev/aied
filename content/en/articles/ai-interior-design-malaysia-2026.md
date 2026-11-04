@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia"
+title: "Artificial intelligence as catalyst and contested terrain: Transforming interior design practice, pedagogy, and professional regulation in Malaysia"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

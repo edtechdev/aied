@@ -1,5 +1,5 @@
 ---
-title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning"
+title: "From AI use to critical thinking among medical students: A moderated mediation perspective on cognitive load and self-regulated learning"
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

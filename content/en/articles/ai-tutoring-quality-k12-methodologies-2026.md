@@ -1,5 +1,5 @@
 ---
-title: "Methodologies for Improving the Quality of AI Tutoring in K-12 Education"
+title: "Methodologies for improving the quality of AI tutoring in K-12 education"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

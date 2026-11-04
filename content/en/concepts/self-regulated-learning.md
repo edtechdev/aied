@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T13:20:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -180,7 +180,7 @@ Which support is in play decides which mediator carries the association: among 3
 - **Shallow cues over-attribute regulation in [[curriculum-design|curriculum]] mapping.** Given assessment descriptions, GPT-o3-mini read mentions of deadlines or scheduling as evidence of a self-regulatory skill; Self-Management was over-identified this way, its agreement with expert weights ranging from 0.53 to -0.03 ([[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al., 2026]]).
 - **Structured question chains turn prompting into regulation.** In a quasi-experiment with 83 undergraduates, both question-chain conditions produced more learning-strategy and monitoring behavior than free-form questioning (χ² = 6.551, p = .038) and scored higher on metacognitive awareness and achievement (F = 3.406, p = .038; F = 3.807, p = .035), with no difference between the chain forms ([[question-chain-prompting-srl-metacognition-2026|Lin et al., 2026]]). Sequencing is what does the work.
 - **Group-level detection follows the same split, and talk carries more than logs.** In dyads modeling a truck's motion in C2STEM, 394 task-context segments from 36 high schoolers were labeled with seven socially shared regulation codes and predicted from LLM summaries of each segment: text-only embeddings reached mean AUC 0.650 while log-derived features alone reached 0.526, near chance for a construct that is largely social. Planning was invisible within a single segment (0.5036) and became detectable once the two segments on either side were concatenated (0.6711), whereas reflecting was best once the logs were added (0.5862), the same hint-reading-versus-plan ambiguity this section records for individual learners ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
-- **Automated SRL labels hold for enacting and fail for planning.** In a fourth-grade mixed-reality science class, a pipeline fusing gaze, gesture, speech and game logs labeled 75 human-checked segments at 74.67% overall, from 93.3% for enacting and interacting down to 46.7% for planning ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **Automated SRL labels hold for enacting and fail for planning.** In a fourth-grade mixed-reality science class, a pipeline fusing [[sensor-and-gaze-analytics|gaze]], gesture, speech and game logs labeled 75 human-checked segments at 74.67% overall, from 93.3% for enacting and interacting down to 46.7% for planning ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
 ## Common Misconceptions
 

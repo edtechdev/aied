@@ -1,5 +1,5 @@
 ---
-title: "Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement"
+title: "Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance: A mixed methods study"
 created: "2026-09-12T08:35:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

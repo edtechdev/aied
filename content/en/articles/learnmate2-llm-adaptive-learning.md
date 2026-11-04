@@ -1,5 +1,5 @@
 ---
-title: "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning"
+title: "LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning"
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article

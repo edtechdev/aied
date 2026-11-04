@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Large Language Models on Programming Education and Student Learning Outcomes"
+title: "The impact of large language models on programming education and student learning outcomes"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

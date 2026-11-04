@@ -1,5 +1,5 @@
 ---
-title: "Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration"
+title: "Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

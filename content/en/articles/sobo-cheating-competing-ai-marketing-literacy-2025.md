@@ -1,5 +1,5 @@
 ---
-title: "Cheating or Competing? University Students' Experience of AI Marketing and What It Means for AI Literacy Programming"
+title: "Cheating or competing? University students' experience of AI marketing and what it means for AI literacy programming"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-23T09:52:53-04:00"
 type: article

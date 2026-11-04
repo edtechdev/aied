@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in the Age of AI: Output as Evidence of Learning"
 created: "2026-08-27T09:16:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [desirable-difficulties]
@@ -20,7 +20,7 @@ audience: [instructors, administrators, assessment designers]
 ## Key Findings
 
 1. The "output-as-evidence" model — assuming the artifact reflects cognitive labor — has been fundamentally disrupted by LLMs, creating a verification problem institutional frameworks are not equipped to resolve.
-2. Institutional focus on "cheating" and [[ai-detection|AI detection]] is insufficient and introduces harms of surveillance (lockdown browsers, eye-tracking), including privacy violations and [[anxiety-and-stress|anxiety]]-inducing testing conditions.
+2. Institutional focus on "cheating" and [[ai-detection|AI detection]] is insufficient and introduces harms of surveillance (lockdown browsers, [[sensor-and-gaze-analytics|eye-track]]ing), including privacy violations and [[anxiety-and-stress|anxiety]]-inducing testing conditions.
 3. A "Performance Gap" emerged: roughly 45% of faculty respondents noted students using paid/"Pro" [[llm]] tiers produced work with higher stylistic clarity and fewer [[hallucination-risk|hallucinations]], suggesting assessment may inadvertently grade socioeconomic status rather than ability.
 4. The "Disclosure Trap": students fear [[ai-use-disclosure|declaring AI use]] will lower marks even when permitted, driving ethical AI use underground and making it less reflective and transparent.
 5. Faculty reported "[[pedagogy|pedagogical]] burnout" — displacement of [[teacher-role|teaching]] by policing, with educators becoming "Digital Prosecutors" in an escalating detection/evasion arms race.

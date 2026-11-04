@@ -1,5 +1,5 @@
 ---
-title: "GenAI dependence and graduate students’ research creativity: the roles of critical thinking and human–AI collaboration quality"
+title: "GenAI dependence and graduate students' research creativity: the roles of critical thinking and human-AI collaboration quality"
 created: "2026-09-30T12:30:00-04:00"
 updated: "2026-09-30T12:30:00-04:00"
 type: article

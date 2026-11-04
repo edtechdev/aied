@@ -1,5 +1,5 @@
 ---
-title: "Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education"
+title: "Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

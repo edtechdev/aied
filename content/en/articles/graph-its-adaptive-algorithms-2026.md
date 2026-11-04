@@ -1,5 +1,5 @@
 ---
-title: "Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms"
+title: "Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

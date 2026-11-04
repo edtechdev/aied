@@ -1,5 +1,5 @@
 ---
-title: "Making AI Annoying on Purpose: When Helpful Tools Don't Always Help"
+title: "Making AI annoying on purpose: when helpful tools don't always help"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

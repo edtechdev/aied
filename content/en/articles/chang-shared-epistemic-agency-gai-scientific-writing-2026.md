@@ -1,5 +1,5 @@
 ---
-title: "Investigating Secondary School Students’ Shared Epistemic Agency with GAI in Online Scientific Explanation Writing"
+title: "Investigating Secondary School Students' Shared Epistemic Agency with GAI in Online Scientific Explanation Writing"
 created: "2026-10-16T07:00:00-04:00"
 updated: "2026-10-16T13:16:04-04:00"
 type: article

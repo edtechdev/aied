@@ -1,5 +1,5 @@
 ---
-title: "Teachers' basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in [[educational-development|professional development]]"
+title: "Teachers' basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development"
 published: "2026-11-02"
 created: "2026-11-03T09:20:00-05:00"
 updated: "2026-11-03T09:20:00-05:00"

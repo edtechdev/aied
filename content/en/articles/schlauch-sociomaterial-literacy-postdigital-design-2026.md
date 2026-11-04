@@ -1,5 +1,5 @@
 ---
-title: "Foregrounded by AI: What a Sociomaterial Account of Literacy Implies for Postdigital Design Orientations"
+title: "Foregrounded by AI: What a sociomaterial account of literacy implies for postdigital design orientations"
 created: "2026-11-02T05:05:00-05:00"
 updated: "2026-11-02T05:05:00-05:00"
 type: article

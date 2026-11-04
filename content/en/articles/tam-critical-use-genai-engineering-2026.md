@@ -1,5 +1,5 @@
 ---
-title: "Factors influencing university students' intention to use and reliance on generative artificial intelligence"
+title: "Factors influencing university students' intention to use and reliance on generative artificial intelligence: An extended technology acceptance model with critical use"
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

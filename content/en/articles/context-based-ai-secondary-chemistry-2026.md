@@ -1,5 +1,5 @@
 ---
-title: "Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education"
+title: "Using context-based and AI-enhanced approaches to improve student engagement and achievement in secondary chemistry education"
 created: "2026-08-19T12:44:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, problem-solving, self-regulated-learning]
@@ -58,7 +58,7 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 ## Limitations
 
 - The analysis is cross-sectional and single-session: 213 students recruited from universities in Beijing completed one 45-minute human-AI problem-solving task, with 173 retained after screening for missing dialogue records or incomplete [[self-report-measures|questionnaires]].
-- Self-regulation, co-regulation and socially-shared regulation were measured by post-task self-report questionnaire rather than behavioral or physiological trace data — the gap the authors' own call for [[multimodal]] fusion (eye-tracking, [[affective-computing|affective computing]]) concedes.
+- Self-regulation, co-regulation and socially-shared regulation were measured by post-task self-report questionnaire rather than behavioral or physiological trace data — the gap the authors' own call for [[multimodal]] fusion ([[sensor-and-gaze-analytics|eye-track]]ing, [[affective-computing|affective computing]]) concedes.
 - The three profiles were derived by agglomerative clustering of dialogue codes (Cohen's κ = 0.81); clustering is descriptive, so the design cannot show that a profile causes the performance or regulation differences.
 - Generalizability is bounded by the task — an AGI-themed argumentation problem on the MAIC platform, done by volunteers compensated with 200 RMB.
 

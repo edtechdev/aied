@@ -1,5 +1,5 @@
 ---
-title: "Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology"
+title: "Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology"
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

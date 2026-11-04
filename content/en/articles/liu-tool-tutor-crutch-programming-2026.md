@@ -1,5 +1,5 @@
 ---
-title: "Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education"
+title: "Tool, tutor, or crutch?: a grounded theory of cognitive scaffolding and offloading in AI-assisted programming education"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

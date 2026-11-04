@@ -1,5 +1,5 @@
 ---
-title: "Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education"
+title: "Atmospheric regulation in the age of generative AI: The sovereign hive and the tutor-in-the-loop (TITL) framework for equity in further education"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

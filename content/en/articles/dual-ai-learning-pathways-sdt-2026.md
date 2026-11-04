@@ -1,5 +1,5 @@
 ---
-title: "How High-School Pressure and Autonomy Support Are Linked to Dual AI Learning Pathways: A Cross-Contextual SEM Analysis"
+title: "How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

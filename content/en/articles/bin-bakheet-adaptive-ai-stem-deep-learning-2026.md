@@ -1,5 +1,5 @@
 ---
-title: "Developing Deep Learning in Science Through an Adaptive AI-Based STEM Instructional Program: Evidence From Sixth-Grade Classrooms"
+title: "Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

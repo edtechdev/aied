@@ -1,5 +1,5 @@
 ---
-title: "The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives"
+title: "The use and usefulness of GenAI in higher education: Student experience and perspectives"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

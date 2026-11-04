@@ -1,5 +1,5 @@
 ---
-title: "Can AI Help Teachers? Experimental Evidence on Generative AI and Lesson Preparation"
+title: "Can AI help teachers? Experimental evidence on the effects of generative AI use and AI training on teachers' lesson preparation"
 created: "2026-10-25T10:05:00-04:00"
 updated: "2026-10-25T10:05:00-04:00"
 type: article

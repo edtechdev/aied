@@ -1,5 +1,5 @@
 ---
-title: "Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos"
+title: "Students prefer personalized, AI-generated educational videos over non-personalized, human-recorded videos"
 created: "2026-09-05T00:55:00-04:00"
 updated: "2026-11-04T22:20:00-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review"
+title: "Exploring the implementation of the Pepper social robot in formal education: A scoping review"
 created: "2026-08-13T19:01:35-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

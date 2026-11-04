@@ -1,5 +1,5 @@
 ---
-title: "How Does Generative AI Support Inquiry-Based Learning? A Systematic Review"
+title: "How does generative AI support inquiry-based learning? A systematic review"
 created: "2026-11-01T09:08:21-05:00"
 updated: "2026-11-01T09:08:21-05:00"
 type: article

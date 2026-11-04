@@ -1,5 +1,5 @@
 ---
-title: "Mapping the Integration of AI into Business Education: Insights from a Decade of Research"
+title: "Mapping the integration of AI into business education: Insights from a decade of research"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"
 type: article

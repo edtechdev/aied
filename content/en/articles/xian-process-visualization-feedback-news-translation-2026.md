@@ -1,7 +1,7 @@
 ---
 title: "Process visualization feedback in news translation: a controlled intervention study of human-AI interaction using multimodal process data"
 created: "2026-11-01T09:05:46-05:00"
-updated: "2026-11-01T09:05:46-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/xian-process-visualization-feedback-news-translation-2026.md']
 confidence: low
@@ -47,7 +47,7 @@ Instrumentation was Inputlog 8.0 at a 2-second pause threshold, recording action
 
 Two senior news editors with more than ten years of experience rated every translation on a single holistic 0-100 scale of editorial readiness, blind to group, time point and identity. They calibrated on five T1 scripts to an intraclass correlation of 0.86 and rated all 44 translations to 0.89 [95% CI 0.84, 0.93]; each score is the mean of two ratings. The [[qualitative-research|qualitative]] strand drew on journals of about 15,000 words and transcripts of about 30,000 words from six students chosen across high, mid and low gain strata, double-coded at a kappa of .86.
 
-Three things stayed invisible: no eye-tracking, so attention was inferred from pauses and screen state; a 2-second threshold that merges planning with being stuck; and no control-group log at T2.
+Three things stayed invisible: no [[sensor-and-gaze-analytics|eye-track]]ing, so attention was inferred from pauses and screen state; a 2-second threshold that merges planning with being stuck; and no control-group log at T2.
 
 ## A product score cannot show where the revision effort went
 

@@ -1,5 +1,5 @@
 ---
-title: "An Experimental Study Exploring Human–AI Complementarity in Early Social-Emotional Learning"
+title: "An experimental study exploring human–AI complementarity in early social-emotional learning"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

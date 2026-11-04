@@ -1,5 +1,5 @@
 ---
-title: "An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design"
+title: "An activity-theoretical approach to teacher professional development in pedagogical AI agent design"
 created: "2026-08-26T08:15:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

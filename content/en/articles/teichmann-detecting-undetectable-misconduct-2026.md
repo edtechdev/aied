@@ -1,5 +1,5 @@
 ---
-title: "Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI"
+title: "Detecting the undetectable? Reassessing academic misconduct procedures in the era of generative AI"
 created: "2026-09-10T05:52:45-04:00"
 updated: "2026-09-23T09:52:53-04:00"
 type: article

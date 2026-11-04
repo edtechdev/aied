@@ -1,5 +1,5 @@
 ---
-title: "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning"
+title: "ConnectED: A curriculum-aligned AI system for Vietnamese instructional lesson planning and student learning"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

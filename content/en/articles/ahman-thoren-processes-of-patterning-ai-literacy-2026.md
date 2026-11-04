@@ -1,5 +1,5 @@
 ---
-title: "Processes of Patterning: AI, Literacy, and the Epistemological Challenge"
+title: "Processes of patterning: AI, literacy, and the epistemological challenge"
 created: "2026-11-02T04:25:00-05:00"
 updated: "2026-11-02T04:25:00-05:00"
 type: article

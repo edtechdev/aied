@@ -1,5 +1,5 @@
 ---
-title: "Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review"
+title: "Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: A narrative review"
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: 'Problem-Based Learning and the Structural Conditions for Productive AI Integration'
+title: "Problem-based learning and the structural conditions for productive AI integration"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

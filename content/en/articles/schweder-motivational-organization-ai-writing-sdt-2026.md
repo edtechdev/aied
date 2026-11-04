@@ -1,5 +1,5 @@
 ---
-title: "AI Availability Reshaped Students' Writing Motivation Profiles Without Moving the Average"
+title: "Motivational organization in AI-supported writing: A self-determination perspective"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-01T08:06:18-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Early Evidence on Employer Responses to College Student Use of Generative AI"
+title: "Early evidence on employer responses to college student use of generative AI"
 created: "2026-10-12T10:33:55-04:00"
 updated: "2026-10-12T10:33:55-04:00"
 type: article

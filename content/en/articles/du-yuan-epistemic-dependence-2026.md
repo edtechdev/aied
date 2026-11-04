@@ -1,5 +1,5 @@
 ---
-title: "Epistemic Dependence in AI-Mediated Learning"
+title: "Epistemic dependence in AI-mediated learning"
 created: "2026-09-03T09:10:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

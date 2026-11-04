@@ -1,5 +1,5 @@
 ---
-title: "A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic"
+title: "A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic integration in AI literacy education"
 created: "2026-08-26T08:10:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

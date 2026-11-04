@@ -1,5 +1,5 @@
 ---
-title: "Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”"
+title: "Reorienting Critical AI Literacy: A Community-Rooted Praxis of \"Resisting AI\""
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

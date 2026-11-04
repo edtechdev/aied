@@ -1,5 +1,5 @@
 ---
-title: "Development and Validation of the AI Cognitive Offloading Scale for Chinese College Students"
+title: "Development and validation of the AI cognitive offloading scale for Chinese college students"
 created: "2026-11-04T15:00:00-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
@@ -33,7 +33,7 @@ ai_assist:
 4. Study 2 (N = 1,123; 58 incomplete responses excluded) compared three models. The second-order model fitted best — CFI = 0.951, TLI = 0.944, RMSEA = 0.047, SRMR = 0.036 — against CFI = 0.886, TLI = 0.873, RMSEA = 0.071, SRMR = 0.051 for the one-factor model and CFI = 0.940, TLI = 0.932, RMSEA = 0.052, SRMR = 0.158 for the first-order three-factor model.
 5. The three dimensions loaded on the higher-order construct at 0.868 (memory), 0.964 (assistive) and 0.866 (thinking), all *p* < 0.001. Composite reliability was 0.840, 0.906 and 0.869, and average variance extracted was 0.501, 0.507 and 0.570.
 6. Total-scale reliability was α = 0.944, split-half = 0.932 and test-retest = 0.937 over a one-month interval (n = 99). Subscale alphas ranged from 0.834 to 0.912, split-half coefficients from 0.845 to 0.910 and retest coefficients from 0.833 to 0.899.
-7. Criterion correlations ran in the expected directions. Total scores correlated 0.619 with AI dependence and −0.234 with metacognitive monitoring, with subscale values of 0.489, 0.593 and 0.567 and −0.245, −0.211 and −0.180 (all *p* < 0.001).
+7. Criterion correlations ran in the expected directions. Total scores correlated 0.619 with [[reducing-ai-misuse|AI dependence]] and −0.234 with metacognitive monitoring, with subscale values of 0.489, 0.593 and 0.567 and −0.245, −0.211 and −0.180 (all *p* < 0.001).
 8. Need for cognition separated the dimensions. The total score correlated −0.076 (*p* = 0.011) and assistive offloading −0.121 (*p* < 0.001), while memory (−0.046, *p* = 0.120) and thinking (0.006, *p* = 0.841) were not significantly related.
 9. Full scalar invariance across gender held. Configural fit was CFI = 0.940, TLI = 0.932, RMSEA = 0.063, SRMR = 0.040; metric constraints moved CFI by 0.001 and RMSEA by −0.008, and scalar constraints moved CFI by −0.001 and RMSEA by 0.005.
 
@@ -57,13 +57,13 @@ The pattern is more interesting than "offloading is bad." All three dimensions t
 
 Need for cognition is the discriminating variable, and the null results carry the argument. Students who enjoy effortful thinking reported less assistive offloading but not less memory or thinking offloading. The authors read this as evidence that willingness to invest cognitive effort attaches to particular functions rather than to offloading in general, which is exactly the claim a function-based instrument needs to support. They also refuse the causal reading: the design cannot say whether low need for cognition produces delegation or delegation erodes tolerance for difficulty.
 
-What the instrument adds to the [[cognitive-offloading]] literature, then, is measurability. Prior work in this knowledge base establishes that offloading can be compensatory or substitutive and that its meaning depends on regulation; the AI-COS supplies a scored way to ask *which* function a student has delegated, at a level of specificity that a usage-frequency or technology-acceptance survey cannot reach.
+What the instrument adds to the [[cognitive-offloading]] literature, then, is measurability. Prior work in this knowledge base establishes that offloading can be compensatory or substitutive and that its meaning depends on regulation; the AI-COS supplies a scored way to ask *which* function a student has delegated, at a level of specificity that a usage-frequency or [[technology-acceptance-model|technology-acceptance]] survey cannot reach.
 
 ## What this means for practice
 
 - **Researchers.** Treat the AI-COS as one lens, not the lens. If you need to compare function-level, demand-level and agency-based accounts in the same study, administer the AI-COS alongside the AIBCO or a dependent/autonomous measure, and report latent-factor correlations and HTMT that this validation did not.
 - **Researchers.** Use the total score for a general tendency and the three subscale scores when the question is about a specific function. Reporting only the total discards the differentiated pattern with need for cognition, which is the scale's most distinctive empirical result.
-- **Instructors.** The three dimensions imply three different conversations. Memory offloading is largely a study-strategy question; assistive offloading is a task-design question about how much of an assignment AI may execute; thinking offloading is where [[agency|intellectual agency]] is most directly at stake.
+- **[[teacher-role|Instructors]].** The three dimensions imply three different conversations. Memory offloading is largely a study-strategy question; assistive offloading is a task-design question about how much of an assignment AI may execute; thinking offloading is where [[agency|intellectual agency]] is most directly at stake.
 - **Instructional designers.** Write assignment guidance that names the function, not the tool. "You may use AI to organise your sources but not to generate your argument" is a rule the scale's structure can actually evaluate.
 - **Institutions.** Survey results from this instrument are descriptive of self-reported tendency among Chinese undergraduates and should not be used for individual diagnosis, placement or misconduct findings; the paper makes no such claim and the validation would not support one.
 

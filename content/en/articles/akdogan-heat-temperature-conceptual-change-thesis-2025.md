@@ -1,5 +1,5 @@
 ---
-title: "Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students'"
+title: "Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students' conceptual understanding of heat and temperature"
 created: "2026-08-26T10:10:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning"
+title: "Who is solving the challenge? The use of ChatGPT in mathematics and biology courses using challenge-based learning"
 created: "2026-08-19T13:00:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

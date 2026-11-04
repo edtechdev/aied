@@ -1,5 +1,5 @@
 ---
-title: "DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation"
+title: "DiagramIR: An automatic pipeline for educational math diagram evaluation"
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

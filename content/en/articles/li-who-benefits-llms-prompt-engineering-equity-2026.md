@@ -1,5 +1,5 @@
 ---
-title: "Who Benefits from LLMs? Prompt Engineering Competence as an Equity Pathway"
+title: "Who benefits from LLMs? Prompt engineering competence and equity in higher education"
 created: "2026-11-01T08:06:18-05:00"
 updated: "2026-11-01T08:06:18-05:00"
 type: article

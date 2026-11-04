@@ -1,5 +1,5 @@
 ---
-title: "A Framework for Evaluation of Large Language Models in Essay Assessment: Reliability, Alignment, and Causal Reasoning"
+title: "A framework for evaluation of large language models in essay assessment: Reliability, alignment, and causal reasoning"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

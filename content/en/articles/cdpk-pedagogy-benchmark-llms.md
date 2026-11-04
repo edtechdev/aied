@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
+title: "Benchmarking the pedagogical knowledge of large language models"
 created: "2026-08-15T15:31:07-04:00"
 updated: "2026-09-24T06:37:39-04:00"
 type: article

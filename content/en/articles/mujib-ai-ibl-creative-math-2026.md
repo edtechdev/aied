@@ -1,5 +1,5 @@
 ---
-title: "Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics"
+title: "Evaluating the impact of AI-supported inquiry-based learning on students' creative mathematical performance, critical problem-solving skills, and attitudes toward mathematics"
 created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

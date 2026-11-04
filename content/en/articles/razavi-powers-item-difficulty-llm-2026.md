@@ -1,5 +1,5 @@
 ---
-title: "Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms"
+title: "Estimating item difficulty using large language models and tree-based machine learning algorithms"
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

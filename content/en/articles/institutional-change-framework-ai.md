@@ -1,5 +1,5 @@
 ---
-title: A Framework for Institutional Change in the Age of AI
+title: "A framework for institutional change in the age of AI"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-10-01T15:03:14-04:00"
 type: article

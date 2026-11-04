@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Teachers' AI Competency: A Professional Development Intervention Study Based on Intelligent-TPACK Framework"
+title: "Enhancing teachers' AI competency: A professional development intervention study based on intelligent-TPACK framework"
 created: "2026-10-07T13:20:00-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article

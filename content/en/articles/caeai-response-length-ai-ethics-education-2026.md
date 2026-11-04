@@ -1,5 +1,5 @@
 ---
-title: "Response-length confounding in participant-morpheme networks: A length-controlled test in AI ethics education"
+title: "Response-Length Confounding in Participant–Morpheme Networks: A Length-Controlled Test in AI Ethics Education"
 created: "2026-10-04T10:39:01-04:00"
 updated: "2026-10-04T10:39:01-04:00"
 type: article

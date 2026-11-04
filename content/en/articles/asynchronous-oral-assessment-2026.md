@@ -1,5 +1,5 @@
 ---
-title: "Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era"
+title: "Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-23T08:37:10-04:00"
 type: article

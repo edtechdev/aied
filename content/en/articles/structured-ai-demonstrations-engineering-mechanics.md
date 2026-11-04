@@ -1,5 +1,5 @@
 ---
-title: "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results"
+title: "Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

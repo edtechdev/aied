@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums"
+title: "Enhancing peer exposure and creating opportunities for bridging social capital through an AI-generated summary-driven learning design in online discussion forums"
 created: "2026-09-06T12:48:50-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

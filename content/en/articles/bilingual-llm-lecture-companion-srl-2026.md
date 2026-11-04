@@ -1,5 +1,5 @@
 ---
-title: "A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol"
+title: "A bilingual, LLM-mediated lecture companion for self-regulated learning: Architecture, theoretical framework, comparative and usability evaluation, and a pre-registered outcomes protocol"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-10-28T00:58:16-04:00"
 type: article

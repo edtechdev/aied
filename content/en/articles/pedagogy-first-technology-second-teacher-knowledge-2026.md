@@ -1,5 +1,5 @@
 ---
-title: "Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student"
+title: "Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

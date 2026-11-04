@@ -1,7 +1,7 @@
 ---
 title: Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, human-in-the-loop-ai]
@@ -96,7 +96,7 @@ This paper directly informs several threads in the knowledge base:
 - The final dataset is 199 U.S. college students recruited through Prolific (100 layered, 99 non-layered, mean age 32) after attention-check screening of 215 — a convenience sample of online learners.
 - The study ran in a single course context and is a single-session design with no delayed post-test, so long-term retention and transfer were not measured.
 - The learning-by-doing tasks were relatively low-level by the authors' own account and may not have engaged [[critical-thinking|higher-order thinking]].
-- Process data came mainly from log traces; there was no direct measure of how learners attended to or processed the feedback, and the authors call for richer instruments such as eye-tracking.
+- Process data came mainly from log traces; there was no direct measure of how learners attended to or processed the feedback, and the authors call for richer instruments such as [[sensor-and-gaze-analytics|eye-track]]ing.
 
 ## Citation
 

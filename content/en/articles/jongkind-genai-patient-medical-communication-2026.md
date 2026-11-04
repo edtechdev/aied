@@ -1,5 +1,5 @@
 ---
-title: "Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study"
+title: "Use of a GenAI-patient for medical communication training for undergraduate medical students: a quasi-experimental study"
 published: "2026-10-19"
 created: "2026-10-28T12:23:31-04:00"
 updated: "2026-10-28T12:23:31-04:00"

@@ -1,5 +1,5 @@
 ---
-title: "Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)"
+title: "Transforming nursing education with artificial intelligence: A systematic review (2010–2025)"
 created: "2026-08-15T09:23:09-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

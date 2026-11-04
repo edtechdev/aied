@@ -1,5 +1,5 @@
 ---
-title: "Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies"
+title: "Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies"
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

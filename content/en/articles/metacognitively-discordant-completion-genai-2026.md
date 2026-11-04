@@ -1,5 +1,5 @@
 ---
-title: "Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning"
+title: "Metacognitively discordant completion and the aware pass-through of non-understanding in generative AI learning"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

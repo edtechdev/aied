@@ -1,5 +1,5 @@
 ---
-title: "Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported"
+title: "Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported contexts"
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

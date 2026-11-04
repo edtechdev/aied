@@ -1,5 +1,5 @@
 ---
-title: "Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment"
+title: "Harnessing generative artificial intelligence in computer science education: Pedagogical innovation, ethical responsibility, and the future of assessment"
 created: "2026-08-20T08:50:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

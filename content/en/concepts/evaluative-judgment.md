@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -60,6 +60,8 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 - **Comparison-based training measurably builds it.** In a 14-week study with 28 pre-service [[teacher-role|teachers]], [[ai-internal-feedback-evaluative-judgments|AI-generated strong, average, and weak exemplars]] anchored iterative comparison of students' drafts against reference points; evaluation focus expanded from surface language features to content, organization, and coherence — but the reasoning stayed thin, with example-based justification doubling while the most sophisticated comparative reasoning remained rare. Judgment can be scaffolded into existence; it does not appear on demand, and the quality of the reference points matters.
 - **Feedback design decides whether agency survives.** A multisite, cluster-randomized field experiment with 1,176 first-year undergraduates across 48 sections [[genai-feedback-design-multisite-experiment|compared four feedback conditions]] for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluate then critique), and hybrid (self-evaluate + peer + GenAI). The **hybrid condition produced the largest argument-quality gain**; direct GenAI feedback risked passive uptake — students outsourcing evaluative judgment to the system — while reflective and hybrid designs preserved [[agency|epistemic agency]] by forcing the student to evaluate their own work first. The authors' core finding is that GenAI's educational value depends less on AI access than on whether the feedback environment preserves agency, judgment, and ownership during revision.
 
+
+- **A feedback tool can scaffold judgment while teachers keep the relational part.** With 21 higher-education teachers using PolyFeed, the model surfaced omitted components (20 of 21 had skipped "Meeting Learning Objective") and 12 rewrote the ChatGPT text, clustering in the student–teacher relationship dimension ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
 - **Feedback source shapes which judgment dimension develops.** In a doctoral statistics case study, ChatGPT-4o gave procedural guidance but could not flag a wrong data file or a misapplied test, while peer dialogue caught the erroneous data in real time and forced justification of the method choice ([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]]).
 - **Structured peer-and-AI review scales calibration.** The PAIRR model [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] combines peer review with AI review and structured reflection, and was tested in the largest study of students' use of AI feedback to date (654 students, ten writing courses). It treats the *comparison* between one's own judgment, peers', and AI's as the training ground, positioning evaluative judgment as an explicit learning outcome rather than an implicit by-product.

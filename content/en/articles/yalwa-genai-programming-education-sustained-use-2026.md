@@ -1,5 +1,5 @@
 ---
-title: "Sustained Use of Generative Artificial Intelligence (GenAI) in Programming Education: A Systematic Review"
+title: "Sustained use of generative artificial intelligence (GenAI) in programming education: A systematic review of empirical evidence on adoption, learning outcomes, and continuance intention"
 published: "2026-10-31"
 created: "2026-11-02T09:20:00-05:00"
 updated: "2026-11-02T10:15:00-05:00"

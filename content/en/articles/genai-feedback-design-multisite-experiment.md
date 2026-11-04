@@ -1,5 +1,5 @@
 ---
-title: "Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
+title: "Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

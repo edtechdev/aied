@@ -1,5 +1,5 @@
 ---
-title: "The Rented Self: How AI-Enabled Tools Decouple Performance From Becoming"
+title: "The rented self: How AI-enabled tools decouple performance from becoming"
 created: "2026-10-07T14:05:00-04:00"
 updated: "2026-10-09T00:49:28-04:00"
 type: article

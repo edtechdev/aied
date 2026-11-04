@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions"
+title: "Artificial intelligence in education: a systematic review of personalized learning trends and future directions"
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

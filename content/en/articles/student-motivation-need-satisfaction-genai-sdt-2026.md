@@ -1,5 +1,5 @@
 ---
-title: "Student Motivation and Need Satisfaction in GenAI-Supported Classrooms: A Self-Determination Theory Perspective"
+title: "Student motivation and need satisfaction in GenAI-supported classrooms: A self-determination theory perspective"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

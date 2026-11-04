@@ -1,7 +1,7 @@
 ---
-title: "Socrates Went Nuclear: Comparing Interaction Strategies for AI Systems in a Learning Context Using Brain Sensing"
+title: "Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [cognitive-psychology, socratic-method, student-engagement]
 technology: [affective-computing, generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructional designers, researchers]
 ---
 
-> **Synthesis:** A randomized study of 50 participants comparing three designs for user-[[generative-ai|AI]] interaction in a learning context using [[affective-computing|brain sensing]] (a Muse EEG headband): (1) an unrestricted conversational bot like ChatGPT, (2) a pedagogically constrained [[socratic-method|Socratic]]-mode bot that guides through hints without giving final answers, and (3) an adaptive mode that limits the number of questions the user can ask.
+> **Synthesis:** A randomized study of 50 participants comparing three designs for user-[[generative-ai|AI]] interaction in a learning context using [[affective-computing|brain sensing]] (a Muse [[sensor-and-gaze-analytics|EEG]] headband): (1) an unrestricted conversational bot like ChatGPT, (2) a pedagogically constrained [[socratic-method|Socratic]]-mode bot that guides through hints without giving final answers, and (3) an adaptive mode that limits the number of questions the user can ask.
 
 ### Learning outcomes
 

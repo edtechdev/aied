@@ -1,5 +1,5 @@
 ---
-title: "Institutional Structures, Digital Inequality, and AI Integration in Higher Education"
+title: "Institutional structures, digital inequality, and AI integration in higher education"
 created: "2026-09-07T08:45:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

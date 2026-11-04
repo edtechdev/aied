@@ -1,7 +1,7 @@
 ---
 title: "Classroom simulations for social-emotional learning and inclusive teacher education: a four-layer conceptual framework in the age of AI"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 published: "2026"
 source_url: "https://doi.org/10.3390/educsci16111813"
@@ -60,7 +60,7 @@ Layer four is learning orchestration, the coordination of mediation across roles
 
 Generative systems do not add a simulation category; they redistribute authorship among the teacher educator, the prospective teacher, and the computational system. The design problem shifts from writing every line to governing a space of possible behaviors, which buys variability and responsiveness at the cost of predictability. Emerging evaluations already report logical inconsistency, implausible attentiveness, and weak emotional and linguistic authenticity in LLM-[[simulating-students|simulated learners]]. The authors conclude that fluency and a sense of presence are not validity evidence.
 
-Three consequences follow. Adaptation must be transparent, with learners and teacher educators knowing what information drives a decision and which parts of the simulation are controlled by people, scripts, or AI; [[human-in-the-loop-ai|human-in-the-loop]] design should be treated as a principled distribution of expertise rather than a stage on the way to automation. [[multimodal]] signals such as voice, gaze, and movement may extend reflection, but nonverbal meaning is context dependent, automated affect recognition remains contested, and measurement can undermine [[pedagogical-safety|psychological safety]] by implying that competence is a behavioral score. [[personalized-learning|Personalization]] raises questions the framework cannot settle alone: which learner characteristics are pedagogically relevant, who sets the desired challenge, and whether participants can see and contest the model behind an adaptation.
+Three consequences follow. Adaptation must be transparent, with learners and teacher educators knowing what information drives a decision and which parts of the simulation are controlled by people, scripts, or AI; [[human-in-the-loop-ai|human-in-the-loop]] design should be treated as a principled distribution of expertise rather than a stage on the way to automation. [[multimodal]] signals such as voice, [[sensor-and-gaze-analytics|gaze]], and movement may extend reflection, but nonverbal meaning is context dependent, automated affect recognition remains contested, and measurement can undermine [[pedagogical-safety|psychological safety]] by implying that competence is a behavioral score. [[personalized-learning|Personalization]] raises questions the framework cannot settle alone: which learner characteristics are pedagogically relevant, who sets the desired challenge, and whether participants can see and contest the model behind an adaptation.
 
 ## Inclusion as a design property
 

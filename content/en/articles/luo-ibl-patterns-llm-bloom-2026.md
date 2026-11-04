@@ -1,5 +1,5 @@
 ---
-title: "Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective"
+title: "Inquiry-based learning patterns in large language model-driven learning environments: an exploratory study from Bloom's perspective"
 created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Teacher-Mediated Multimodal Platform and Math Achievement: Evidence from Goblins' Yearlong District Implementation"
+title: "Teacher-mediated multimodal platform and math achievement: Evidence from Goblins' yearlong district implementation"
 created: "2026-10-12T10:33:55-04:00"
 updated: "2026-10-12T10:33:55-04:00"
 type: article

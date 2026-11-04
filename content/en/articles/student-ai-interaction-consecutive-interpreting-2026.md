@@ -1,5 +1,5 @@
 ---
-title: "Student-AI Interaction in Computer-Assisted Consecutive Interpreting: Patterns and Performance"
+title: "Student-AI interaction in computer-assisted consecutive interpreting: patterns and performance"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, student-engagement]
@@ -13,10 +13,10 @@ audience: [instructors, researchers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:21-04:00"
-updated: "2026-09-19T10:56:42-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 ---
 
-> **Synthesis:** Twenty-two Chinese-native interpreting trainees completed bidirectional computer-assisted consecutive interpreting (CACI) tasks in AI-enabled systems built on [[speech-and-voice-technologies|automatic speech recognition]] and machine translation, while eye-tracking, pen-recording and voice-recording captured how they actually divided attention between the AI output and their own note-taking. Cluster analysis of 264 stage-level observations produced four interaction profiles — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and 58.3% of observations shifted profile between the comprehension and production stages of the same task. Comprehension-stage patterns, but not production-stage patterns, were significantly associated with [[language-learning|interpreting quality]], and the AI-heaviest profile consistently scored lowest. The study shows that [[student-ai-interaction|student-AI interaction]] in a demanding bilingual task is heterogeneous, unstable across task phases, and not automatically beneficial.
+> **Synthesis:** Twenty-two Chinese-native interpreting trainees completed bidirectional computer-assisted consecutive interpreting (CACI) tasks in AI-enabled systems built on [[speech-and-voice-technologies|automatic speech recognition]] and machine translation, while [[sensor-and-gaze-analytics|eye-track]]ing, pen-recording and voice-recording captured how they actually divided attention between the AI output and their own note-taking. Cluster analysis of 264 stage-level observations produced four interaction profiles — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and 58.3% of observations shifted profile between the comprehension and production stages of the same task. Comprehension-stage patterns, but not production-stage patterns, were significantly associated with [[language-learning|interpreting quality]], and the AI-heaviest profile consistently scored lowest. The study shows that [[student-ai-interaction|student-AI interaction]] in a demanding bilingual task is heterogeneous, unstable across task phases, and not automatically beneficial.
 
 ## Key Findings
 1. Four interpretable interaction profiles emerged from the eye-tracking, note-taking and switching measures: Intensive Engagers (heavy AI reliance, AI reading proportion 0.83), Fast Scanners (scanning-based processing, reading proportion 0.27, highest fixation frequency at 218.6), Traditionalists (minimal AI reliance, reading proportion 0.12, deep fixation proportion 0.56) and Frequent Switchers (shifts between AI support and handwritten notes, switch count 36.03 against 3.30 to 7.65 in the other clusters).

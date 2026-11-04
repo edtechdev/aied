@@ -1,5 +1,5 @@
 ---
-title: "Co-Constructing AI Boundaries: Agency, Judgment, and Ethical Literacy in AI-Mediated Meaning-Making"
+title: "Co-constructing AI boundaries: Agency, judgment, and ethical literacy in AI-mediated meaning-making"
 created: "2026-09-22T21:26:59-04:00"
 updated: "2026-09-22T21:26:59-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology"
+title: "ChatGPT as a virtual laboratory teaching assistant in undergraduate biology"
 created: "2026-08-19T13:04:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

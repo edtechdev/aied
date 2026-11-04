@@ -1,5 +1,5 @@
 ---
-title: "Translating AI and peer feedback in sustainability-oriented STEM teacher education: pre-service mathematics teachers"
+title: "Translating AI and peer feedback in sustainability-oriented STEM teacher education: pre-service mathematics teachers' uptake, revision, and modeling task-design quality"
 created: "2026-10-08T09:15:00-04:00"
 updated: "2026-10-08T09:15:00-04:00"
 type: article

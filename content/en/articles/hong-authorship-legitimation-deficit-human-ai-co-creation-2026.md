@@ -1,5 +1,5 @@
 ---
-title: "Owning What One Did Not Make: The Authorship Legitimation Deficit in Human–AI Co-Creation"
+title: "Owning what one did not make: psychological ownership, agency, and the authorship legitimation deficit in human–AI co-creation"
 created: "2026-11-04T16:20:00-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
@@ -46,7 +46,7 @@ Responsibility splits further. A person can feel little ownership of an output a
 
 ## Diagnosing a deficit without turning it into a feeling
 
-The authors' worked example is a personal-essay workshop whose brief, agreed before composition, distinguishes an editorial contributor from the author of a personally endorsed self-expressive essay. Both roles require substantive direction, selection, and revision. Only the second additionally asserts that the writer experiences the finished essay as their own. A writer who shaped the text, feels clear agency over the changes, and reports that the essay does not feel like theirs has adequate contribution-based warrant, intact agency, and one experiential shortfall. The same record supports editorial credit.
+The authors' worked example is a personal-essay workshop whose brief, agreed before [[writing-education|composition]], distinguishes an editorial contributor from the author of a personally endorsed self-expressive essay. Both roles require substantive direction, selection, and revision. Only the second additionally asserts that the writer experiences the finished essay as their own. A writer who shaped the text, feels clear agency over the changes, and reports that the essay does not feel like theirs has adequate contribution-based warrant, intact agency, and one experiential shortfall. The same record supports editorial credit.
 
 Three features follow. First, the construct sits at the interface of individual experience and social-normative structure. An experiential expectation counts only when it forms part of the role claim and is accepted in advance. Second, the deficit is multidimensional, and its facets need not move together: strong ownership cannot repair insufficient contribution-based warrant, and adequate warrant supplies no experiential deficit. Third, diagnosing a deficit under a community's standards is not endorsing those standards. A recognized role can rest on unjust criteria, and an unsupported claim can arise without deception.
 
@@ -64,7 +64,7 @@ Six conditions bound these predictions. Visible effort makes low-execution claim
 
 The authors contribute three things. The first is the construct itself: a domain-relative mismatch between a designated role and the grounds that role requires, defined so it can be diagnosed without measuring a feeling. The second is the decomposition into separately assessable routes, so a profile rather than a score carries the analysis. The third is the role-relative classification, which separates a supported editorial role from an unsupported sole-creator claim when contribution and experience are unchanged.
 
-What remains untested is nearly everything empirical, and the authors say so. Existing findings establish task-specific relations among output evaluation, ownership, creative self-efficacy, and agency, but they do not jointly validate the deficit or its consequences. Doshi and Hauser found that access to generative ideas raised evaluated [[creativity|creativity]] in short-story writing, with larger gains for less creative writers, while reducing collective diversity — a result about evaluated output and group variety, not about ownership. McGuire and colleagues compared editing an AI-generated poem with iterative co-creation and measured creativity and creative self-efficacy; the authors note it does not establish recovery of psychological ownership. Bellaiche and colleagues varied purported human versus AI origin while holding artworks constant, and judgments moved with the source label, appraisal criterion, and perceived effort — audience evaluations, not creators' reports.
+What remains untested is nearly everything empirical, and the authors say so. Existing findings establish task-specific relations among output evaluation, ownership, [[self-efficacy|creative self-efficacy]], and agency, but they do not jointly validate the deficit or its consequences. Doshi and Hauser found that access to generative ideas raised evaluated [[creativity|creativity]] in short-story writing, with larger gains for less creative writers, while reducing collective diversity — a result about evaluated output and group variety, not about ownership. McGuire and colleagues compared editing an [[generative-ai|AI-generated poem]] with iterative co-creation and measured creativity and creative self-efficacy; the authors note it does not establish recovery of psychological ownership. Bellaiche and colleagues varied purported human versus AI origin while holding artworks constant, and judgments moved with the source label, appraisal criterion, and perceived effort — audience evaluations, not creators' reports.
 
 The account's explanatory reach rests on P4 and P6 surviving tests against separate component effects and stigma-based alternatives. If relational comparisons add no predictive value, the classification still clarifies which claims are supported.
 
@@ -84,4 +84,4 @@ The account's explanatory reach rests on P4 and P6 surviving tests against separ
 
 ## Citation
 
-Hong, S., Li, Q., Zhou, Z., Dong, Y., Hsiao, Y.-C., & Cao, Q. (2026). [Owning what one did not make: psychological ownership, agency, and the authorship legitimation deficit in human-AI co-creation](https://doi.org/10.3389/fpsyg.2026.1928186). *Frontiers in Psychology, 17*, 1928186.
+Hong, S., Li, Q., Zhou, Z., Dong, Y., Hsiao, Y.-C., & Cao, Q. (2026). [Owning what one did not make: psychological ownership, agency, and the authorship legitimation deficit in human–AI co-creation](https://doi.org/10.3389/fpsyg.2026.1928186). *Frontiers in Psychology, 17*, 1928186.

@@ -1,5 +1,5 @@
 ---
-title: "Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment"
+title: "Peer and AI review + reflection (PAIRR): A human-centered approach to formative assessment"
 created: "2026-08-13T17:54:24-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "AI-Assisted Assessment and Instruction in Higher Education: Foundations, Applications, and Implications for Exam Design"
+title: "AI-assisted assessment and instruction in higher education: Foundations, applications, and implications for exam design"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article

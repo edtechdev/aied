@@ -1,5 +1,5 @@
 ---
-title: 'The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning'
+title: "The LEARN framework for responsible use of generative AI in education: a neuroscience-informed model for problem-based learning"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"
 type: article

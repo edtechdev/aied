@@ -1,5 +1,5 @@
 ---
-title: "Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance"
+title: "Purpose before policy: Academic integrity, generative AI, and rhetorical stance"
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

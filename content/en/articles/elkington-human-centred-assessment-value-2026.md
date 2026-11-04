@@ -1,5 +1,5 @@
 ---
-title: "Assessing What Matters Most: The Shifting Value Proposition of Human-Centred Work in Assessment Practice"
+title: "Assessing what matters most – the shifting value proposition of human-centred work in assessment practice"
 created: "2026-10-27T07:21:08-04:00"
 updated: "2026-10-27T07:21:08-04:00"
 type: article

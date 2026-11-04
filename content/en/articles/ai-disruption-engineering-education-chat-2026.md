@@ -1,5 +1,5 @@
 ---
-title: "The AI disruption in engineering education: an analysis of changing student norms through cultural historical activity"
+title: "The AI disruption in engineering education: An analysis of changing student norms through cultural historical activity theory"
 created: "2026-08-26T08:13:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

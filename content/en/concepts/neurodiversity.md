@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -34,7 +34,7 @@ Two reviews define the shape of the field, and both describe fragmentation rathe
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|A PRISMA-ScR scoping review (Rempel et al., 2026)]] searched five databases and a decade of publication (2015–2025), screening 766 records down to 40 empirical studies of digital assistive technologies for neurodivergent students in [[higher-ed|higher education]]. The field has reorganized around [[generative-ai|generative AI]] — 15 of the 40 studies — with immersive formats second at 11. Its central critique is a design critique: individual accommodation and neurotype-specific tools organized around formal diagnosis cannot address functional differences that cut across neurotypes, so it recommends universal design and participatory development instead. It also notes that the most immersive tools are the least scalable.
 
-[[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers 2018–2024 across 72 studies and finds AI used for detection, assistive support, and [[personalized-learning|personalization]], with those strands evolving in parallel rather than in integration, and the field driven more by technological opportunity than by consolidated educational theory. Its detection research (EEG, eye-tracking, [[machine-learning]] models) shows diagnostic promise for early intervention but often needs specialized equipment and controlled conditions, which limits use in ordinary classrooms. That is the practical test this whole strand keeps failing: support has to be embedded in the course a student is actually taking.
+[[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers 2018–2024 across 72 studies and finds AI used for detection, assistive support, and [[personalized-learning|personalization]], with those strands evolving in parallel rather than in integration, and the field driven more by technological opportunity than by consolidated educational theory. Its detection research ([[sensor-and-gaze-analytics|EEG]], eye-tracking, [[machine-learning]] models) shows diagnostic promise for early intervention but often needs specialized equipment and controlled conditions, which limits use in ordinary classrooms. That is the practical test this whole strand keeps failing: support has to be embedded in the course a student is actually taking.
 
 ## Autism and ADHD in the classroom
 

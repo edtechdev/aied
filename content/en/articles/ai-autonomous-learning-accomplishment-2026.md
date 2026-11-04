@@ -1,5 +1,5 @@
 ---
-title: "AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness"
+title: "AI-assisted autonomous learning and reduced academic accomplishment in vocational higher education: The mediating role of hardiness"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning"
+title: "The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-10-31T15:37:04-04:00"
 type: article

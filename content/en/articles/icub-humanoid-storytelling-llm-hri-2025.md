@@ -1,5 +1,5 @@
 ---
-title: "Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction"
+title: "Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

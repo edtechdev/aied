@@ -1,5 +1,5 @@
 ---
-title: "Students' Perceptions of Multiliteracies Development Using AI-Assisted Portfolio Assessment"
+title: "Students' perceptions of multiliteracies development using AI-assisted portfolio assessment"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
+title: "What remains self-directed? Revisiting andragogy through cognitive delegation in generative AI-mediated adult learning"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

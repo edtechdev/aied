@@ -1,5 +1,5 @@
 ---
-title: "ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring"
+title: "ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming"
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

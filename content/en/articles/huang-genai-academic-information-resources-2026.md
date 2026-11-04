@@ -1,5 +1,5 @@
 ---
-title: "Coexistence, Not Replacement: What Library Logs and Student Surveys Say Differently About GenAI"
+title: "Generative artificial intelligence reshapes university students’ sustainable use of academic information resources: mixed evidence from behavioral logs and perceptual survey data"
 created: "2026-11-04T15:00:00-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
@@ -28,7 +28,7 @@ source_depth: full text
 
 ## Key Findings
 
-1. The design is a convergent triangulation: 368 valid questionnaires collected in 2026, roughly 3.2 million print-loan records covering 2017–2025, and digital-platform usage statistics from 2021 through the first half of 2026. The three sources were analyzed independently and compared only at the interpretation stage.
+1. The design is a convergent [[mixed-methods-research|triangulation]]: 368 valid questionnaires collected in 2026, roughly 3.2 million print-loan records covering 2017–2025, and digital-platform usage statistics from 2021 through the first half of 2026. The three sources were analyzed independently and compared only at the interpretation stage.
 2. Respondents could not be linked to the logs under the institution's data-governance rules, so the behavioral data corroborate the research propositions in aggregate and cannot validate individual-level structural paths.
 3. Annual print loans fell from 406,120 in 2017 to 46,339 in 2025; unique borrowers fell from 30,033 to 7,278, and loans per borrower from 13.5 to 6.4.
 4. The interrupted time-series model (107 months) put the baseline decline at 535.6 books per month before GenAI existed, *p* < 0.001. The pandemic breakpoint produced a level change of −9,248.8, *p* = 0.001, and a slope change of 511.3, *p* = 0.004.
@@ -41,7 +41,7 @@ source_depth: full text
 
 The paper's contribution is not a number but a comparison. Two bodies of evidence were collected for the same propositions and kept apart until the end. Table 10 sets them side by side across four claims: that AI substitutes for digital resources, that AI substitutes for print, that digital and AI channels are integrating, and that print retains a logic of persistence. The pattern is consistent. Where the survey saw substitution of print, the logs saw nothing. Where the survey saw digital–AI integration, the platform saw embedded features that almost nobody used.
 
-That separation is a methodological argument about [[higher-ed|higher education]] research. Almost all of the existing evidence on whether students are abandoning library resources for chatbots comes from cross-sectional questionnaires, which cannot distinguish a change in attitude from a change in behavior. Logs can, but only at the level of the institution, and only for the behavior the library happens to record. Neither source settles the question alone.
+That separation is a methodological argument about [[higher-ed|higher education]] research. Almost all of the existing evidence on whether students are abandoning library resources for [[conversational-ai|chatbots]] comes from cross-sectional questionnaires, which cannot distinguish a change in attitude from a change in behavior. Logs can, but only at the level of the institution, and only for the behavior the library happens to record. Neither source settles the question alone.
 
 Reading the divergence is therefore the analytic task the reader has to do, and the authors are explicit that the comparison is proposition-level. A survey path and a monthly loan series are not two measurements of one quantity. They are two descriptions of an ecosystem, taken from different heights.
 
@@ -55,17 +55,17 @@ The digital side is a different shape. AI-feature operations existed only from 2
 
 ## Reading the survey paths for what they are
 
-The measurement section is unusually candid, and it changes how the digital-channel numbers should be read. Perceived convenience of digital resources and auxiliary GenAI use correlated at HTMT = 0.968, with a bootstrap interval of [0.912, 1.015]. The Fornell–Larcker criterion failed for the pair, and the first factor in Harman's test explained 64.4% of the variance. The authors say plainly that this sample did not empirically distinguish the two constructs.
+The [[educational-measurement|measurement]] section is unusually candid, and it changes how the digital-channel numbers should be read. Perceived convenience of digital resources and auxiliary GenAI use correlated at HTMT = 0.968, with a bootstrap interval of [0.912, 1.015]. The Fornell–Larcker criterion failed for the pair, and the first factor in Harman's test explained 64.4% of the variance. The authors say plainly that this sample did not empirically distinguish the two constructs.
 
-The consequence is that β = 0.993 for the convenience-to-auxiliary-use path, and the indirect association of 0.838 through it, measure overlap as much as mechanism. R² = 0.986 for auxiliary use is a symptom rather than a finding. Four constructs — substitutive use, task–channel fit, and both continuance intentions — were measured with single items, so the H4 to H7 paths describe specific behaviors and intentions rather than validated constructs. The structural model itself fits well, χ² = 119.581 on 54 degrees of freedom, CFI = 0.981, RMSEA = 0.058, but fit does not repair discriminant validity.
+The consequence is that β = 0.993 for the convenience-to-auxiliary-use path, and the indirect association of 0.838 through it, measure overlap as much as mechanism. R² = 0.986 for auxiliary use is a symptom rather than a finding. Four constructs — substitutive use, task–channel fit, and both continuance intentions — were measured with single items, so the H4 to H7 paths describe specific behaviors and intentions rather than validated constructs. The structural model itself fits well, χ² = 119.581 on 54 degrees of freedom, CFI = 0.981, RMSEA = 0.058, but fit does not repair [[assessment-validity|discriminant validity]].
 
 What survives this scrutiny is the print side, where the constructs separate cleanly. Deep-reading demand is associated with wanting to keep using print at β = 0.908 with a large effect size, and substitutive use is associated with a small reduction at β = −0.100. That is a coherent story about what print is for: sustained reading that a generated paragraph does not replace. It is also the story the [[self-regulated-learning|resource-selection]] framing predicts, with [[cognitive-offloading|cognitive offloading]] explaining why auxiliary use supports existing channels while content generation bypasses them.
 
-The one substantive puzzle is that [[ai-literacy|AI literacy]] never enters the model. The authors recommend it as a practical response and as a variable for future work, and the distinction between auxiliary and substitutive use is exactly the kind of judgment an [[academic-integrity|integrity]]-oriented literacy curriculum would have to teach. The data here can separate the two behaviors in a questionnaire but cannot say whether students know the difference.
+The one substantive puzzle is that [[ai-literacy|AI literacy]] never enters the model. The authors recommend it as a practical response and as a variable for future work, and the distinction between auxiliary and substitutive use is exactly the kind of judgment an [[academic-integrity|integrity]]-oriented literacy [[curriculum-design|curriculum]] would have to teach. The data here can separate the two behaviors in a questionnaire but cannot say whether students know the difference.
 
 ## What this means for practice
 
-- **Librarians.** Do not plan collections around an AI-replacement scenario the logs do not show. Print demand is falling, but it is falling on a trend that started before GenAI, and 7,278 borrowers still took out 6.4 books each in 2025. The case for print space rests on the deep-reading association, not on defending a share.
+- **[[librarians|Librarians]].** Do not plan collections around an AI-replacement scenario the logs do not show. Print demand is falling, but it is falling on a trend that started before GenAI, and 7,278 borrowers still took out 6.4 books each in 2025. The case for print space rests on the deep-reading association, not on defending a share.
 - **Library and platform managers.** Treat embedded AI features as an evaluation criterion, not yet as a service. At 0.53% of platform operations, the features are a trial layer; instrumenting them properly now is cheaper than retrofitting analytics later.
 - **Teaching and integrity staff.** Target the auxiliary/substitutive boundary explicitly. The survey's one significant negative association with print attaches to generating whole passages, so guidance that distinguishes "use AI to find and understand" from "use AI to produce" maps onto the only substitution signal the study found.
 - **Researchers and institutional analysts.** Do not substitute a survey for a log, or a log for a survey. This design's value came from collecting both, analyzing them separately, and reporting where they disagreed instead of reconciling them into one story.
@@ -81,4 +81,4 @@ The one substantive puzzle is that [[ai-literacy|AI literacy]] never enters the 
 
 ## Citation
 
-Huang, Z., Song, X., Zhuang, J., & Xiao, S. (2026). [Generative artificial intelligence reshapes university students' sustainable use of academic information resources: mixed evidence from behavioral logs and perceptual survey data](https://doi.org/10.3389/fpsyg.2026.2002741). *Frontiers in Psychology, 17*, 2002741.
+Huang, Z., Song, X., Zhuang, J., & Xiao, S. (2026). [Generative artificial intelligence reshapes university students’ sustainable use of academic information resources: mixed evidence from behavioral logs and perceptual survey data](https://doi.org/10.3389/fpsyg.2026.2002741). *Frontiers in Psychology, 17*, 2002741.

@@ -1,7 +1,7 @@
 ---
-title: "Task Structure and AI-Use Instructions Decide What a GenAI-Era Assignment Can Show"
+title: "Making argumentative work visible in GenAI-mediated assessment: An exploratory LLM simulation and questionnaire study in university ideological and political education"
 created: "2026-11-01T08:06:18-05:00"
-updated: "2026-11-01T08:06:18-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/liu-argumentative-work-visible-genai-assessment-2026.md']
 confidence: medium
@@ -72,7 +72,7 @@ The complementary move is the one the paper ends on: build assessment around the
 
 - The texts are model-generated under controlled prompts, not student writing, so the study speaks to what tasks elicit from a model rather than to what students learn or produce.
 - One model (DeepSeek-V3.1) at one configuration generated every text, so the artifact profiles are specific to that model's behavior in March 2026.
-- The evidence comes from one disciplinary and national setting — university ideological and political education in China — and three thematic domains within it.
+- The evidence comes from one disciplinary and national setting — university ideological and [[civic-and-political-education|political education]] in China — and three thematic domains within it.
 - TRASI is an author-developed five-dimension rubric; two raters with roughly two hours of training scored the corpus, so the construct is new rather than established.
 - The questionnaire sample was recruited from one university's course, year-level, graduate-student and faculty groups, with each respondent evaluating a single artifact.
 - The study does not test detection accuracy, so nothing here supports claims about identifying AI-assisted work in practice.

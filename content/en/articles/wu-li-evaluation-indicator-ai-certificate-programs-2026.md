@@ -1,5 +1,5 @@
 ---
-title: "Evaluation Indicator System for AI Certificate Programs"
+title: "Evaluation indicator system for AI certificate programs"
 created: "2026-09-06T08:14:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

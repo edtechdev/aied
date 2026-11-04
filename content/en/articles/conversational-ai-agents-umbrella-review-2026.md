@@ -1,5 +1,5 @@
 ---
-title: "Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions"
+title: "Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions for ethical and responsible use"
 created: "2026-08-22T04:44:37-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

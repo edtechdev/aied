@@ -1,5 +1,5 @@
 ---
-title: "\"Young Scholar[s] on the Beat\": Multimodal Composition as a Form of Critical AI Literacy Pedagogy"
+title: "\"Young Scholar[s] on the Beat\": Multimodal composition as a form of critical AI literacy pedagogy"
 created: "2026-09-14T06:10:00-04:00"
 updated: "2026-10-23T22:25:56-04:00"
 type: article

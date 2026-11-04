@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence in Embodied Learning: A Systematic Literature Review"
+title: "Artificial intelligence in embodied learning: A systematic literature review"
 created: "2026-11-02T12:45:00-05:00"
 updated: "2026-11-04T22:20:00-05:00"
 type: article

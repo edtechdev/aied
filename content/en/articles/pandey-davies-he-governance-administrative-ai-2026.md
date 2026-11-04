@@ -1,5 +1,5 @@
 ---
-title: "Higher Education Governance Under AI and Geopolitical Disruption: A Socio-Technical Framework for Administrative AI"
+title: "Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence"
 created: "2026-11-04T19:30:00-05:00"
 updated: "2026-11-04T19:30:00-05:00"
 type: article
@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Pandey and Davies argue that administrative AI — [[conversational-ai|chatbots]], predictive analytics and automated screening applied to recruitment, admissions and student services — has reached the administrative core of [[higher-ed|universities]] at a moment when geopolitical disruption is making international enrollment volatile. Their conceptual framework names five drivers of adoption, reads them through socio-technical systems theory, and works the reading against institutional cases and documented episodes of failure. The central claim is that administrative AI poses a [[governance|governance]] question rather than a technical one: whether it produces resilience or dependency turns on procurement terms, contestability, participation and what gets audited.
+> **Synthesis:** Pandey and Davies argue that administrative AI — [[conversational-ai|chatbots]], predictive analytics and automated screening applied to recruitment, admissions and [[student-support-and-success|student services]] — has reached the administrative core of [[higher-ed|universities]] at a moment when geopolitical disruption is making international enrollment volatile. Their conceptual framework names five drivers of adoption, reads them through socio-technical systems theory, and works the reading against institutional cases and documented episodes of failure. The central claim is that administrative AI poses a [[governance|governance]] question rather than a technical one: whether it produces resilience or dependency turns on procurement terms, contestability, participation and what gets audited.
 
 *Conceptual paper: the authors present a framework and three propositions, not data. No systems were evaluated, no institutions surveyed and no model tested. Every figure below is attributed to the study or agency that produced it, and the governance conditions are implications derived from the analysis rather than findings from institutional evidence.*
 
@@ -31,7 +31,7 @@ source_depth: full text
 1. **Administrative AI is a defined object, not a general label.** The authors mean AI applied to administrative services rather than to teaching, learning or research, concentrated on front-office work: recruitment and admissions, enrollment, student records, advising, housing, welfare and careers.
 2. **The boundary with teaching is analytical, and the paper says so.** Administrative systems reach academic work by shaping cohort composition, sending risk flags to academic desks as requests to intervene, and fixing the data environment through procurement.
 3. **Three propositions carry the socio-technical reading.** Joint optimization holds that altering technology without redesigning roles, skills and accountability impairs performance. The politics of artifacts holds that assumptions enter through training data, categories, optimization targets and thresholds. Globally shaped infrastructure holds that whatever makes the technology feasible also makes the institution dependent.
-4. **Five drivers explain adoption, each with a mechanism, actors and a characteristic risk.** They are infrastructural readiness, competitive positioning under enrollment volatility, regulatory and mobility mandates, commercial platform ecosystems, and sustainability legitimacy. The first and fourth enable and steer adoption; the second, third and fifth motivate it.
+4. **Five drivers explain adoption, each with a mechanism, actors and a characteristic risk.** They are infrastructural readiness, competitive positioning under enrollment volatility, regulatory and mobility mandates, commercial platform ecosystems, and [[sustainability]] legitimacy. The first and fourth enable and steer adoption; the second, third and fifth motivate it.
 5. **Combinations, not single drivers, predict the pathway.** Mandate without infrastructure yields symbolic adoption; infrastructure and vendor push without a mandate yield product roadmaps; volatility under acute pressure yields systems that are brittle when resilience is most needed.
 6. **Governance conditions and leadership capabilities are the payoff.** Conditions are attached to the actor able to act on them, and four capabilities are named: contractual literacy, interrogating the objective, restraint under pressure and standing participation.
 
@@ -49,7 +49,7 @@ The theoretical contribution is a coupling the authors claim neither tradition p
 
 Administrative AI covers conversational agents answering applicant inquiries, predictive analytics forecasting enrollment or flagging students at risk, and automated or assisted screening in recruitment, admissions and progression. Teaching, research and the back office sit outside the scope.
 
-A model settling which applicants look promising also settles the composition of the cohort a curriculum is designed for. Risk flags arrive on academic desks as requests to intervene, changing what advising asks of teaching staff. Procurement carries furthest, because the platform holding student records sets the data environment in which research ethics, institutional research and learning analytics all operate. Administrative AI reaches teaching through consequences, not through any classroom tool.
+A model settling which applicants look promising also settles the composition of the cohort a curriculum is designed for. Risk flags arrive on academic desks as requests to intervene, changing what advising asks of teaching staff. Procurement carries furthest, because the [[edtech-platform|platform]] holding student records sets the data environment in which research ethics, institutional research and [[learning-analytics|learning analytics]] all operate. Administrative AI reaches teaching through consequences, not through any classroom tool.
 
 A single risk-based instrument could govern both halves, as Temper et al.'s teaching-life-cycle framework would, so the boundary is an analytical convenience rather than a firewall.
 
@@ -77,9 +77,9 @@ Mapped onto the drivers, the cases sort by mechanism. Ofqual and the visa tool a
 
 ## What this means for practice
 
-- **Institutional leaders.** Require an equity impact assessment before any AI enters an admissions, recruitment or progression decision, testing outputs against [[bias-mitigation|biases]] already in the training data, and publish a register of algorithmic systems used in decisions affecting students.
+- **Institutional leaders.** Require an [[equity-in-ai-education|equity]] impact assessment before any AI enters an admissions, recruitment or progression decision, testing outputs against [[bias-mitigation|biases]] already in the training data, and publish a register of algorithmic systems used in decisions affecting students.
 - **Procurement.** Treat the contract as the governance instrument. Data sovereignty, audit rights, exit and portability terms decide whether the institution bought resilience or dependency.
-- **Sector bodies and policymakers.** Release model procurement terms no single institution could negotiate alone, fund shared regional and open-source infrastructure, and extend accountability across the mobility pipeline so appeal rights do not depend on whether a university or a state agency decided.
+- **Sector bodies and policymakers.** Release model procurement terms no single institution could negotiate alone, fund shared regional and [[open-source]] infrastructure, and extend accountability across the mobility pipeline so appeal rights do not depend on whether a university or a state agency decided.
 - **Ranking and reporting bodies.** Require any SDG-linked claim about administrative AI to report distributional outcomes by the groups SDG 10 names, and decline deployment counts in their place.
 - **Researchers.** The two gaps forcing hedging throughout — administrative AI in lower-income institutions, and systematic documentation of counter-cases — are the comparative work the framework is offered to support.
 
@@ -88,7 +88,7 @@ Mapped onto the drivers, the cases sort by mechanism. Ofqual and the visa tool a
 - This is a conceptual analysis and an interpretive review, not a systematic one; the authors state that it stands or falls on coherence, and no data were collected to test it.
 - The literature base is mostly Anglophone and skewed toward well-resourced institutions, so claims about lower-resource systems and emerging hubs are explicitly provisional.
 - The three propositions are stated in testable form but remain untested; no causal claim about adoption, resilience or equity is established.
-- Counter-case selection rested on three stated conditions, and remote proctoring is retained with a scope caveat because it sits at the edge of the paper's own definition.
+- Counter-case selection rested on three stated conditions, and [[remote-proctoring|remote proctoring]] is retained with a scope caveat because it sits at the edge of the paper's own definition.
 - The governance conditions, leadership capabilities and SDG alignments are implications derived from the analysis rather than findings from institutional data.
 
 ## Citation

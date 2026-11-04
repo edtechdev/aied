@@ -1,5 +1,5 @@
 ---
-title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"
+title: "AI adoption among teachers: Insights on concerns, support, confidence, and attitudes"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article

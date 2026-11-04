@@ -1,5 +1,5 @@
 ---
-title: "Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education"
+title: "Young people, learning, and generative AI: A rapid literature review and implications for PreK-12 education"
 created: "2026-08-19T12:00:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

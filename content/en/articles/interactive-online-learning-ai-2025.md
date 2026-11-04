@@ -1,5 +1,5 @@
 ---
-title: 'Interactive Online Learning Method for Students Based on Artificial Intelligence'
+title: "Interactive online learning method for students based on artificial intelligence"
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

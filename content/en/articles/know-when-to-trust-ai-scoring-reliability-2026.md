@@ -1,5 +1,5 @@
 ---
-title: "Know When to Trust: Making AI Scoring More Reliable for Educational Assessment"
+title: "Know when to trust: Making AI scoring more reliable for educational assessment"
 created: "2026-09-18T12:05:00-04:00"
 updated: "2026-10-02T07:31:21-04:00"
 type: article

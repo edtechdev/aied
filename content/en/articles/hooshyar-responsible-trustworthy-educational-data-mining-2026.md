@@ -1,5 +1,5 @@
 ---
-title: "Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods"
+title: "Towards responsible and trustworthy educational data mining: Comparing symbolic, sub-symbolic, and neural-symbolic AI methods"
 created: "2026-11-01T09:08:04-05:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

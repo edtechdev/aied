@@ -1,5 +1,5 @@
 ---
-title: "The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review"
+title: "The intersection of artificial intelligence and instructional design practice: A systematic review"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

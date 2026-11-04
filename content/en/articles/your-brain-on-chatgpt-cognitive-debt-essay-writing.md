@@ -1,7 +1,7 @@
 ---
 title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"
 created: "2026-08-25T07:50:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading]
 pedagogy: [metacognition, student-engagement]
@@ -14,7 +14,7 @@ audience: [researchers, instructors]
 level: [higher ed]
 ---
 
-> **Synthesis:** Kosmyna et al. (2025) use electroencephalography (EEG) to probe the neural and behavioral consequences of [[generative-ai|LLM-assisted]] essay writing. Across three sessions, 54 participants wrote essays under three conditions — **[[llm]] (ChatGPT), Search Engine, and Brain-only (no tools)** — then in a fourth session a crossover reassigned LLM users to no-tools (LLM-to-Brain) and Brain-only users to LLM (Brain-to-LLM). EEG revealed that **brain connectivity systematically scaled down with the amount of external support**: Brain-only participants showed the strongest, most distributed [[machine-learning|neural networks]]; Search Engine users moderate engagement; and LLM users the weakest connectivity. Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels — the study frames this as an **accumulation of cognitive debt**. LLM users reported the lowest essay ownership and struggled to accurately quote their own work.
+> **Synthesis:** Kosmyna et al. (2025) use electroencephalography ([[sensor-and-gaze-analytics|EEG]]) to probe the neural and behavioral consequences of [[generative-ai|LLM-assisted]] essay writing. Across three sessions, 54 participants wrote essays under three conditions — **[[llm]] (ChatGPT), Search Engine, and Brain-only (no tools)** — then in a fourth session a crossover reassigned LLM users to no-tools (LLM-to-Brain) and Brain-only users to LLM (Brain-to-LLM). EEG revealed that **brain connectivity systematically scaled down with the amount of external support**: Brain-only participants showed the strongest, most distributed [[machine-learning|neural networks]]; Search Engine users moderate engagement; and LLM users the weakest connectivity. Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels — the study frames this as an **accumulation of cognitive debt**. LLM users reported the lowest essay ownership and struggled to accurately quote their own work.
 
 ## Key Findings
 
@@ -39,6 +39,7 @@ level: [higher ed]
 - Only 18 of the 54 participants attended Session 4, the crossover that carries the study's central claim, because it was optional and depended on scheduling.
 - Essays were written under a 20-minute time limit with 32-channel EEG hardware, so the writing task and context are not typical of coursework, and the study reports a preprint under review rather than a peer-reviewed article.
 - The central outcomes are proxies: EEG connectivity differences and participants' self-reported ownership stand in for learning and engagement, and no delayed test of essay knowledge or writing skill was reported.
+- One instrument carries the whole design: EEG is a single channel among the [[sensor-and-gaze-analytics|sensing measures]] used in engagement research, and no gaze, heart-rate or behavioral stream was recorded alongside it.
 
 ## Citation
 

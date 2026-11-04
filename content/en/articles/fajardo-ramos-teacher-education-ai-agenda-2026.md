@@ -1,5 +1,5 @@
 ---
-title: "Can education set the agenda for AI? Simulated innovation and pedagogical directionsetting in teacher education"
+title: "Can education set the agenda for AI? Simulated innovation and pedagogical direction-setting in teacher education"
 published: "2026-10-23"
 created: "2026-10-28T12:32:11-04:00"
 updated: "2026-11-02T06:45:00-05:00"

@@ -1,5 +1,5 @@
 ---
-title: "Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach"
+title: "Clarifying the conceptual landscape in AI literacy measurement: A large language model based approach"
 created: "2026-09-18T12:05:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education"
+title: "Social and cognitive drivers of generative AI adoption: A unified socio-cognitive model for engineering education"
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

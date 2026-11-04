@@ -1,5 +1,5 @@
 ---
-title: "Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities"
+title: "Technology, education and critical media literacy: potential, challenges, and opportunities"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-11-04T22:20:00-05:00"
 type: article

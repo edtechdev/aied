@@ -1,7 +1,7 @@
 ---
 title: "A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 
 foundations: [teacher-role]
@@ -41,7 +41,7 @@ methods: [design-based-research]
 - No efficacy evidence by design: the authors state the goal was buy-in, technical feasibility, and implementation integrity rather than efficacy, and that randomized controlled trials remain future work — there is no control condition and no measure of whether students' collaboration skills improved.
 - Consent sharply bounded the samples: study 2 analyzed 24 fully consented students and study 3 analyzed 37 of 97 enrolled students, three classrooms each in one school district, while study 1 drew on 3 STEM/Science middle school teachers and 12 seventh graders recruited opportunistically from two schools.
 - The discourse classifiers were trained on data from a single [[curriculum-design|curriculum]] unit, cover only three of the four Community Agreement categories, and lose accuracy on Whisper ASR transcripts (AUROCs of 0.71, 0.67, and 0.71) relative to human transcripts (0.84, 0.77, and 0.82).
-- CoBi processes speech only: the authors state it cannot attend to non-verbal cues such as gaze and head movement that carry conversational feedback, with [[multimodal]] support slated for a future version.
+- CoBi processes speech only: the authors state it cannot attend to non-verbal cues such as [[sensor-and-gaze-analytics|gaze]] and head movement that carry conversational feedback, with [[multimodal]] support slated for a future version.
 
 ## Citation
 

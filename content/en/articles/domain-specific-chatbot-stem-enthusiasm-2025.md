@@ -1,5 +1,5 @@
 ---
-title: "Enhancing enthusiasm for STEM education with AI: Domain-specific chatbot as personalized learning assistant"
+title: "Enhancing Enthusiasm for STEM Education with AI: Domain-Specific Chatbot as Personalized Learning Assistant"
 created: "2026-09-16T09:14:31-04:00"
 updated: "2026-09-19T10:40:23-04:00"
 type: article

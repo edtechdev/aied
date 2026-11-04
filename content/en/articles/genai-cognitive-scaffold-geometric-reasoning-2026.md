@@ -1,5 +1,5 @@
 ---
-title: "Generative AI-supported instruction as a cognitive scaffold: effects on senior high school students' geometric reasoning and proof construction"
+title: "Generative AI-supported instruction as a cognitive scaffold: Effects on senior high school students' geometric reasoning and proof construction"
 created: "2026-09-25T11:42:33-04:00"
 updated: "2026-09-25T12:56:00-04:00"
 type: article

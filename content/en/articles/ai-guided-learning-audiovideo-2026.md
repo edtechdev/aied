@@ -1,5 +1,5 @@
 ---
-title: "AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques"
+title: "AI-guided learning: Research on knowledge and skill acquisition support methods using deep learning audio-video processing techniques"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

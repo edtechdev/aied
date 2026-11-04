@@ -1,5 +1,5 @@
 ---
-title: '"Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"'
+title: "Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

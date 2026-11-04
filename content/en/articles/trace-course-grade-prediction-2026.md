@@ -1,5 +1,5 @@
 ---
-title: Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)
+title: "Jointly predicting courses and grades using a transformer-based model"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-10-01T20:35:19-04:00"
 type: article

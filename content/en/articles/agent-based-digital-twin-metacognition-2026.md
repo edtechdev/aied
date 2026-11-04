@@ -1,5 +1,5 @@
 ---
-title: "Design and Evaluation of an Agent-Based Digital-Twin-Inspired Simulation for Metacognition Research in Higher Education"
+title: "Design and evaluation of an agent-based digital-twin-inspired simulation for metacognition research in higher education"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

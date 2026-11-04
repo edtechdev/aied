@@ -1,5 +1,5 @@
 ---
-title: "Embodied Inquiry with AI as Facilitator: An Exploratory Case Study"
+title: "Embodied inquiry with AI as facilitator: An exploratory case study"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

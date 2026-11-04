@@ -1,7 +1,7 @@
 ---
 title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [active-learning, professional-training]
 technology: [generative-ai, llm, simulation]
@@ -15,7 +15,7 @@ audience: [medical educators, instructors]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Riachi et al. (2026) introduce AI-driven interactive patient avatars for psychotherapy training, providing accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Because opportunities for safe, standardized training are limited by [[ethics|ethical]], logistical and resource constraints, the system enables trainees to practice evidence-based interventions such as Acceptance and Commitment Therapy (ACT) with meaningful [[feedback]] and measurable skill gains — extending [[simulation|simulated]] [[professional-training|professional training]] to psychotherapy.
+> **Synthesis:** Riachi et al. (2026) introduce AI-driven interactive patient [[ai-avatars-and-synthetic-instructors|avatar]]s for psychotherapy training, providing accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Because opportunities for safe, standardized training are limited by [[ethics|ethical]], logistical and resource constraints, the system enables trainees to practice evidence-based interventions such as Acceptance and Commitment Therapy (ACT) with meaningful [[feedback]] and measurable skill gains — extending [[simulation|simulated]] [[professional-training|professional training]] to psychotherapy.
 
 AI-driven interactive patient avatars for psychotherapy training provide accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Training psychotherapists in evidence-based interventions such as Acceptance and Commitment Therapy (ACT) requires repeated practice with meaningful feedback, yet opportunities for safe, standardized training are limited by ethical, logistical, and resource constraints. The system introduces interactive patient avatars that give trainees accessible, repeatable [[active-learning|practice]] with measurable improvement, supporting [[affective-tutoring|affective]] and [[formative-assessment|formative]] dimensions of [[higher-ed|professional]] [[feedback|training feedback]].
 

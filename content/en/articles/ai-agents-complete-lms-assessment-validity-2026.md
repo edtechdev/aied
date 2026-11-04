@@ -1,5 +1,5 @@
 ---
-title: "AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation"
+title: "AI agents can now navigate and complete LMS tasks: A call for pedagogical innovation"
 created: "2026-09-05T01:20:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

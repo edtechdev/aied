@@ -1,5 +1,5 @@
 ---
-title: "Bots and Blocks: Presenting a Project-Based Approach for Robotics Education"
+title: "Bots and blocks: Presenting a project-based approach for robotics education"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

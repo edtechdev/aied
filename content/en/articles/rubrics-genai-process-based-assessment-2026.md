@@ -63,4 +63,4 @@ Human agency and critical supervision is the dimension that asks whether the stu
 
 ## Citation
 
-Oviedo, S. E., & Díaz, D. (2026). [Rúbricas e IA generativa: hacia una evaluación por procesos](https://revistas.unlp.edu.ar/JAIIO/article/view/22299). *JAIIO, Jornadas Argentinas de Informática*.
+Oviedo, S. E., & Díaz, D. (2026). [Rubrics and Generative AI: Towards Process-Based Assessment](https://revistas.unlp.edu.ar/JAIIO/article/view/22299). *JAIIO, Jornadas Argentinas de Informática*.

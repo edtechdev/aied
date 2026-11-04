@@ -1,5 +1,5 @@
 ---
-title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
+title: "Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

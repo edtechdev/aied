@@ -1,5 +1,5 @@
 ---
-title: "Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents"
+title: "Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

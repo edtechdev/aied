@@ -1,5 +1,5 @@
 ---
-title: "A motivational-meaning model of AI feedback in university physical education"
+title: "AI feedback does not motivate by itself: a motivational-meaning model for university physical education"
 published: "2026-10-19"
 created: "2026-10-28T12:40:58-04:00"
 updated: "2026-11-02T07:05:00-05:00"

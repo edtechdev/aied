@@ -1,5 +1,5 @@
 ---
-title: "Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment"
+title: "Instructor and AI roles in the chemistry classroom: Future science teachers' perceptions in a ChatGPT-enhanced formative assessment"
 created: "2026-08-19T12:48:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

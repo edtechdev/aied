@@ -1,5 +1,5 @@
 ---
-title: "What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data"
+title: "What fidelity metrics miss: A structural check on synthetic educational data"
 created: "2026-09-24T09:35:21-04:00"
 updated: "2026-09-24T09:35:21-04:00"
 type: article

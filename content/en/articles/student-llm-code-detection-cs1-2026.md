@@ -1,5 +1,5 @@
 ---
-title: "Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code"
+title: "Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming"
 created: "2026-10-02T11:30:00-04:00"
 updated: "2026-10-02T11:30:00-04:00"
 type: article

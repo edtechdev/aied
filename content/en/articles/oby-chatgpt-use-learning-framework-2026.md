@@ -1,5 +1,5 @@
 ---
-title: "Beyond Task Completion: A Theoretical Integration and Framework for Guiding Students' ChatGPT Use for Learning"
+title: "Beyond task completion: A theoretical integration and framework for guiding students' ChatGPT use for learning"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

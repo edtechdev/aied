@@ -1,5 +1,5 @@
 ---
-title: "Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use"
+title: "Toward convergence in student-LLM interactions: A rapid scoping review and taxonomy for learning-oriented use"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-23T16:29:16-04:00"
 type: article

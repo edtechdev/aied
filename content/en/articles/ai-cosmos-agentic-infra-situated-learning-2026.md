@@ -1,5 +1,5 @@
 ---
-title: "AI Cosmos: An Agentic Infra for Situated Learning"
+title: "AI Cosmos: An agentic infra for situated learning"
 created: "2026-11-02T05:25:00-05:00"
 updated: "2026-11-02T05:25:00-05:00"
 type: article

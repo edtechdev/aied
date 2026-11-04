@@ -1,5 +1,5 @@
 ---
-title: "Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality"
+title: "Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:04:44-04:00"
 type: article

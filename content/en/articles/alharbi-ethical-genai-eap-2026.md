@@ -1,5 +1,5 @@
 ---
-title: "Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study"
+title: "Ethical Generative AI integration in English for Academic Purposes within higher education: A mixed-methods study"
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

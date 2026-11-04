@@ -1,5 +1,5 @@
 ---
-title: "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
+title: "Tutor CoPilot: A human-AI approach for scaling real-time expertise"
 created: "2026-09-07T10:00:00-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article

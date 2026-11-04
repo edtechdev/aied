@@ -1,5 +1,5 @@
 ---
-title: "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education"
+title: "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: The case of disability"
 created: "2026-05-27T07:38:00-04:00"
 updated: "2026-09-20T08:15:54-04:00"
 type: article

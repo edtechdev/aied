@@ -1,5 +1,5 @@
 ---
-title: "Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy"
+title: "Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy of Delta State Secondary School Students, Nigeria"
 created: "2026-10-05T10:00:00-04:00"
 updated: "2026-10-05T10:00:00-04:00"
 type: article

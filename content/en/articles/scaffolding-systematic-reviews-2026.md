@@ -1,5 +1,5 @@
 ---
-title: "Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration"
+title: "Scaffolding systematic reviews in learning design and technology through mentoring and AI integration"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

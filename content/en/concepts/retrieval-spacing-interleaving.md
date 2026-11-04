@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-25T22:20:00-04:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -44,6 +44,8 @@ The same logic runs through the cheating-sheet study: [[student-cheat-sheets-mak
 The spacing effect — that the same total practice produces more durable learning when distributed across sessions than massed into one — is the most algorithmically exploited of the three techniques, and the corpus's applied systems are built around it.
 
 [[memdora-ai-spaced-repetition|Memdora]] is the clearest example of spacing treated as an engineering problem. It grounds scheduling in the Ebbinghaus forgetting curve, cites the figure that roughly **70% of newly learned material is forgotten within 24 hours** without review, and integrates **FSRS-6**, described as the current state-of-the-art spaced-repetition algorithm. Its argument is that scheduling alone is not enough: existing tools reduce flashcard interaction to a single binary gesture, "flip and self-rate", which the authors call an impoverished model that fails to exploit cognitive-science evidence on retrieval practice. Memdora's contribution is therefore a **taxonomy of 17 cognitively-grounded interaction types** across Language, By Heart and Exam categories, each mapped to peer-reviewed evidence displayed on the card, plus an effort-based reward system that compensates actual cognitive engagement rather than app presence, a unified generation pipeline that creates cards at the point of reading, and a classroom layer that reports [[learning-gains|learning outcomes]] at the individual card level.
+
+[[bilingual-llm-lecture-companion-srl-2026|Malhotra's (2026) bilingual lecture companion]] attacks that authoring cost from the other end: it transcribes English–Hindi lectures in the browser and generates flashcards on-device, built for Indian classrooms where UDISE+ data put internet access at about 54% of schools.
 
 [[adaptive-pretesting-retention|Akgun and Toker (2026)]] supply the corpus's strongest experimental evidence on how spacing is *structured*. In a three-arm randomized study of 89 undergraduates in an applied statistics course, all three groups practiced in spaced sessions with identical number and timing over seven weeks; only the interaction structure differed. Adaptive spaced retrieval (G1) reached the highest posttest score (M = 78.19) and the highest observed practice effort (M = 0.85); fixed spaced retrieval (G2) followed (M = 74.55, effort 0.74); learner-directed AI study with no enforced retrieval came last on both (M = 67.28, effort 0.49). The multivariate effect was significant (Wilks' Λ = .664, partial η² = .185), with G1 ahead of G3 on retention at d = 0.92 (p = .003). The detail that matters pedagogically is that G1's agent was configured to *withhold*: response-contingent probes for [[misconceptions]], requests for elaboration after superficial answers, advancement only on adequate conceptual engagement, and direct solutions explicitly excluded from its allowed outputs. The authors' own reading is that pretesting is a front-loaded catalyst rather than a standalone intervention whose benefits survive open-ended AI access.
 

@@ -1,5 +1,5 @@
 ---
-title: "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages"
+title: "Structural silence: When AI infrastructure fails speakers of underrepresented languages"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

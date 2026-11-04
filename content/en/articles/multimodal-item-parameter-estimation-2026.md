@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Item Parameter Estimation using Simulated Response Probabilities"
+title: "Multimodal item parameter estimation using simulated response probabilities"
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-10-02T07:31:21-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking"
+title: "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking in upper secondary education"
 published: "2026-10-30"
 created: "2026-11-02T09:28:00-05:00"
 updated: "2026-11-02T10:15:00-05:00"

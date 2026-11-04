@@ -1,5 +1,5 @@
 ---
-title: "Predictors of the ethical use of generative artificial intelligence in higher education"
+title: "Predictors of the Ethical Use of Generative Artificial Intelligence in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
 type: article

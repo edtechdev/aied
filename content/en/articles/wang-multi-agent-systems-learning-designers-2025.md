@@ -1,5 +1,5 @@
 ---
-title: "Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design"
+title: "Enabling multi-agent systems as learning designers: applying learning sciences to AI instructional design"
 created: "2026-09-24T02:23:32-04:00"
 updated: "2026-09-24T05:17:09-04:00"
 type: article

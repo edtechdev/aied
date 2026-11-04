@@ -1,5 +1,5 @@
 ---
-title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
+title: "Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

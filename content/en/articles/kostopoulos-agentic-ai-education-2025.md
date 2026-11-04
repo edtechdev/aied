@@ -1,5 +1,5 @@
 ---
-title: "Agentic AI in Education: State of the Art and Future Directions"
+title: "Agentic AI in education: State of the art and future directions"
 created: "2026-09-04T14:03:07-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

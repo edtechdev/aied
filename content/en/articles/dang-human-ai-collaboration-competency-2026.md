@@ -1,5 +1,5 @@
 ---
-title: "Conceptualising Human–AI Collaboration Competency for hybrid intelligence: towards learner agency"
+title: "Conceptualising Human–AI Collaboration Competency for hybrid intelligence: towards learner agency through a metacognitive perspective"
 created: "2026-09-29T09:21:42-04:00"
 updated: "2026-09-29T09:26:59-04:00"
 type: article

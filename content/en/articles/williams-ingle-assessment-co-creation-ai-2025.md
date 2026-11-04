@@ -1,5 +1,5 @@
 ---
-title: "Assessment Design Through Co-Creation: Student-Staff Partnership in Evaluating the Impact of Artificial Intelligence"
+title: "Assessment design through co-creation: Student-staff partnership in evaluating the impact of artificial intelligence"
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Feedback Without the Wait: Piloting a Generative AI Practice Platform in a Large Maths Class"
+title: "Feedback without the wait: Piloting a generative AI practice platform in a large maths class"
 created: "2026-10-02T11:30:00-04:00"
 updated: "2026-10-02T11:30:00-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations"
+title: "The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-23T08:37:10-04:00"
 type: article

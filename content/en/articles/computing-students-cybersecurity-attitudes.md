@@ -1,5 +1,5 @@
 ---
-title: "Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity"
+title: "Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity"
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

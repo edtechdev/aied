@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education"
+title: "Beyond the agent label: Evidence maturity, human monitoring, and governance of agentic AI in higher education"
 created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

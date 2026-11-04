@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -27,7 +27,7 @@ LPA assumes the sample is drawn from a mixture of subgroups, each with its own m
 
 - **LCA — categorical indicators.** Becker and colleagues converted coded response categories from 1,189 physics students' open answers into indicator variables and retained two classes: Pragmatic Users (70 percent) and Skeptical Non-Users (30 percent); because an unmentioned topic counts as "no endorsement," the authors flag zero-inflation in the analysis dataframe.
 - **LPA — continuous indicators** such as scale scores and construct means. Chen and colleagues profiled 128 Taiwanese pre-service teachers on five [[technology-acceptance-model|TAM]]/UTAUT2 constructs; Acquah and colleagues profiled 509 Ghanaian undergraduates on three ethical-awareness dimensions; Schweder and colleagues profiled 2,464 students on [[motivation|motivational]] need satisfaction.
-- **Latent (profile) transition analysis** extends the family over time, estimating profiles per wave and the probability of moving between them. Liang and colleagues tracked 2,086 students' AI learning motivation across a year; Wu followed 457 Japanese-language learners over three waves, the maladaptive profile shrinking from 26.48 to 17.74 percent.
+- **Latent (profile) transition analysis** extends the family over time, estimating profiles per wave and the probability of moving between them. Liang and colleagues tracked 2,086 students' AI learning motivation across a year; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] followed 457 Japanese-language learners over three waves, the maladaptive profile shrinking from 26.48 to 17.74 percent.
 
 Ordinary clustering ([[machine-learning|k-means]] and hierarchical) pursues the same person-centered intent but partitions cases by geometric distance rather than estimating a probability model. Reach for LPA or LCA when the question concerns subgroups — whether "the learner" is a fiction at your sample's level of aggregation, and whether subgroups differ in shape as well as level. Do not reach for it when you need an average treatment effect: a five-profile solution inside a [[rct|randomized trial]] of an [[intelligent-tutoring|adaptive tutor]] predicted posttest differences (partial η² = .27) but found no condition × profile interaction (ps ≥ .198).
 

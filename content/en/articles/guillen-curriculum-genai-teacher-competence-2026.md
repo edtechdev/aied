@@ -1,5 +1,5 @@
 ---
-title: "Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence"
+title: "Transforming curriculum design with generative AI: a model for assessing teacher digital competence"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming"
+title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026"
 created: "2026-08-18T09:20:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

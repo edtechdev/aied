@@ -1,5 +1,5 @@
 ---
-title: "Selective Use, Favorable Perceptions: AI in Professionally Oriented Physics Education for Future Engineers"
+title: "Artificial intelligence in professionally oriented physics education: patterns of use and perceived learning support among future engineers"
 created: "2026-11-04T16:20:00-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A cross-sectional anonymous survey of 209 engineering students at six universities in Kazakhstan asked how often they use AI while studying [[physics-education|physics]] and specialized disciplines, and how much support they believe it gives them. Among 208 valid responses, 36.1% reported regular use and 31.7% occasional use; activity-level use ranged from 43.5% for written assignments to 55.1% for clarifying difficult topics. Perceived support for [[problem-solving|independent problem solving]] was reported by 44.0% and for [[engineering-education|engineering thinking]] by 61.1%. More frequent use was associated with more favorable ratings on all six perception items (ρ = 0.451–0.605), but this is a [[self-report-measures|self-report]] pattern, not evidence that AI improved physics learning.
+> **Synthesis:** A cross-sectional anonymous survey of 209 engineering students at six [[higher-ed|universities]] in Kazakhstan asked how often they use AI while studying [[physics-education|physics]] and specialized disciplines, and how much support they believe it gives them. Among 208 valid responses, 36.1% reported regular use and 31.7% occasional use; activity-level use ranged from 43.5% for written assignments to 55.1% for clarifying difficult topics. Perceived support for [[problem-solving|independent problem solving]] was reported by 44.0% and for [[engineering-education|engineering thinking]] by 61.1%. More frequent use was associated with more favorable ratings on all six perception items (ρ = 0.451–0.605), but this is a [[self-report-measures|self-report]] pattern, not evidence that AI improved physics learning.
 
 ## Key Findings
 
@@ -39,7 +39,7 @@ source_depth: full text
 
 ## What the survey measured, and what it deliberately did not
 
-The instrument was built for this study and consists of closed and semi-closed items in three blocks: general AI-use frequency, use across seven named academic activities, and six separate perception items. It was not designed as a psychometric scale, the six perception items were never combined into a composite score, and the authors state plainly that no piloting, independent expert review or construct-validation evidence is documented. Each percentage below is therefore an item-level description, not a subscale score with an established reliability coefficient.
+The instrument was built for this study and consists of closed and semi-closed items in three blocks: general AI-use frequency, use across seven named academic activities, and six separate perception items. It was not designed as a psychometric scale, the six perception items were never combined into a composite score, and the authors state plainly that no piloting, independent expert review or [[assessment-validity|construct-validation]] evidence is documented. Each percentage below is therefore an item-level description, not a subscale score with an established reliability coefficient.
 
 The design is a single cross-sectional sweep, with administrative distribution through one coordinating institution and a fixed analytical dataset of 209. Because institution and specialty were not recorded per respondent, the responses are pooled and no university-level or program-level comparison is possible — a deliberate scoping choice that also removes any check on whether one campus drives the pattern. The ethics approval (IRB–A1634, 15 May 2025) covers the overarching doctoral project and does not name this questionnaire, which the authors disclose rather than gloss.
 
@@ -59,12 +59,12 @@ All six associations are positive and survive correction, with the strongest for
 
 The sensitivity analysis is the clearest evidence that the coefficients are partly an artifact of who was in the sample. Dropping the 43 non-users cuts the engineering-thinking correlation from 0.478 to 0.234 and the overall-influence correlation from 0.451 to 0.339, while the data-interpretation association falls only to 0.471. The authors interpret this correctly: part of the original strength came from the contrast between users and non-users, and non-users answering questions about AI support are reporting an impression rather than an experience. What survives among users is real variation in perceived support, but its magnitude is roughly half what the headline figures suggest for two of the six items.
 
-The paper is also candid about direction. Students who already hold favorable views may simply use AI more, which would produce the same coefficients without any effect of use on perception. Frequency of use, the specific tools, and relevant respondent characteristics such as prior achievement or [[ai-literacy|AI literacy]] were not measured, so no adjustment is possible. The authors' framing — AI complementing rather than replacing fundamental physics knowledge — is consistent with the data, but the data do not select it over reverse causation.
+The paper is also candid about direction. Students who already hold favorable views may simply use AI more, which would produce the same coefficients without any effect of use on perception. Frequency of use, the specific tools, and relevant respondent characteristics such as [[learning-gains|prior achievement]] or [[ai-literacy|AI literacy]] were not measured, so no adjustment is possible. The authors' framing — AI complementing rather than replacing fundamental physics knowledge — is consistent with the data, but the data do not select it over reverse causation.
 
 ## What this means for practice
 
 - **Physics instructors.** The activities where students report most use are explanation-seeking (55.1% for clarifying difficult topics), not answer-seeking. Design for that: ask students to bring an AI explanation of a physical law to class and defend or correct it, rather than trying to police a tool they already use for homework at 51.4%.
-- **Laboratory and data-analysis teaching.** Interpretation of computational and experimental data drew both the highest correlation and a substantial dissent (30.3% saw no support). Treat AI-generated interpretation as an object of critique — units, assumptions, limiting cases — instead of assuming students can already judge it.
+- **Laboratory and data-analysis teaching.** Interpretation of computational and experimental data drew both the highest correlation and a substantial dissent (30.3% saw no support). Treat [[generative-ai|AI-generated interpretation]] as an object of critique — units, assumptions, limiting cases — instead of assuming students can already judge it.
 - **Program designers.** The 22.0% who judged AI inappropriate for professional preparation and the 34.8% who saw no support for independent problem solving are a real constituency, not noise. A program that mandates AI use in every course will meet resistance grounded in disciplinary judgment, and that judgment deserves an answer.
 - **Researchers.** Perceived support is not a learning outcome. The next study in this line needs an objective measure — a problem-solving or interpretation task scored blind — because no amount of additional perception data will close that gap. 
 

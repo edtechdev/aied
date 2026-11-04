@@ -1,5 +1,5 @@
 ---
-title: "Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students"
+title: "Integrating AI into computational thinking: development and validation of an assessment tool for higher education students"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

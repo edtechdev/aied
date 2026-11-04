@@ -1,5 +1,5 @@
 ---
-title: "Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science"
+title: "Inquiry-based learning in STEM education: the impact of generative AI-based chatbots on primary school students' problem posing ability in science"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

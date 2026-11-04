@@ -1,7 +1,7 @@
 ---
 title: Civic and Political Education
 created: "2026-11-04T21:00:00-05:00"
-updated: "2026-11-04T21:00:00-05:00"
+updated: "2026-11-04T16:09:41-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -38,7 +38,7 @@ Civic and political education covers how schools prepare people for public life:
 
 The domain is broader than a civics course. It includes institutional knowledge, public reasoning, a disposition to participate, and judgment about information used in argument. [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] show the breadth from another discipline. Their Vision II covers science in everyday and civic life; Vision III covers action at community and societal levels, tied to democracy and issues such as vaccination and climate. They note that Vision III is the least served by standards and assessments.
 
-The largest civic-specific study here is a content analysis, not a learning study. Trust et al. analyzed 310 AI-generated lesson plans containing 2,230 activities for all 53 Massachusetts eighth-grade civics standards. Three chatbots each received a basic prompt and a "highly interactive" variant. Ninety percent of activities sat at Remember, Understand, or Apply; Analyze was 4%, Evaluate 2%, and Create 4%.
+The largest civic-specific study here is a content analysis, not a learning study. Trust et al. analyzed 310 AI-generated lesson plans containing 2,230 activities for all 53 Massachusetts eighth-grade civics standards. Three [[conversational-ai|chatbots]] each received a basic prompt and a "highly interactive" variant. Ninety percent of activities sat at Remember, Understand, or Apply; Analyze was 4%, Evaluate 2%, and Create 4%.
 
 The cultural result is starker. Using Banks' levels of multicultural integration, 94% of activities contained no discernible multicultural content. Of the rest, 137 were Additive, four Contributions, one Transformation, and none Social Action. Every chatbot returned the same structure whatever the standard covered.
 
@@ -52,7 +52,7 @@ Three mechanisms recur. First, fabricated evidence: a model can produce a plausi
 
 The learner is also a producer, writing to officials and circulating evidence. The civic question is not whether AI assisted the text. It is whether the student can stand behind the claim and answer objections.
 
-[[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] adds a mechanism integrity framing misses. From South Africa's AI-mediated border regime the paper derives five civic digital literacy demands: algorithmic transparency, data rights, bias recognition, rights contestation, and participatory governance. Someone who cannot recognize that a decision was algorithmic, or find the appeal route, has lost a civic capacity rather than a technical skill.
+[[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] adds a mechanism integrity framing misses. From South Africa's AI-mediated border regime the paper derives five civic digital literacy demands: algorithmic transparency, data rights, bias recognition, rights contestation, and [[governance|participatory governance]]. Someone who cannot recognize that a decision was algorithmic, or find the appeal route, has lost a civic capacity rather than a technical skill.
 
 ## Where media literacy ends and civic education begins
 
@@ -64,23 +64,23 @@ Frameworks cover the first half better. Nkalanga finds DigComp 2.1 includes data
 
 ## What the knowledge base holds, and what it does not
 
-The eight relevant sources are heterogeneous. Trust et al. provide the only large civic-content analysis. Nkalanga synthesized 53 documents with no primary data. Santos-Albardía et al. interviewed seven experts and surveyed 141 students at one university. [[fagerlund-competency-agency-purposes-ai-education-2026|A Finnish interview study]] with 13 teachers found qualification dominating accounts of AI education, while subjectification lacked concrete strategies. Zhai et al. offer a framework and Rudolph et al. an editorial. [[ai-lifelong-learning-policy|Theodora and Tselios (2026)]] ask whether adult learning serves economic needs or civic participation. [[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]] find democracy and rule of law named in 92 of 160 governance documents, but legal force in four.
+The eight relevant sources are heterogeneous. Trust et al. provide the only large civic-content analysis. Nkalanga synthesized 53 documents with no primary data. Santos-Albardía et al. interviewed seven experts and surveyed 141 students at one university. [[fagerlund-competency-agency-purposes-ai-education-2026|A Finnish interview study]] with 13 teachers found qualification dominating accounts of [[ai-education|AI education]], while subjectification lacked concrete strategies. Zhai et al. offer a framework and Rudolph et al. an editorial. [[ai-lifelong-learning-policy|Theodora and Tselios (2026)]] ask whether [[adult-learning|adult learning]] serves economic needs or civic participation. [[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]] find democracy and rule of law named in 92 of 160 governance documents, but legal force in four.
 
 The corpus holds eight sources that touch civic and political education, and none of them measures civic learning: no study in this knowledge base tests whether students exposed to AI-mediated civic instruction become better informed, more participatory, or more resistant to manipulation.
 
-The gap is specific. Nothing measures whether students can verify a generated claim against a primary source, identify an algorithmic decision and find an appeal route, or produce public writing that survives scrutiny. The media literacy survey's readiness figures are self-assessed, so they describe confidence rather than competence.
+The gap is specific. Nothing measures whether students can verify a generated claim against a primary source, identify an algorithmic decision and find an appeal route, or produce public writing that survives scrutiny. The media literacy survey's readiness figures are [[self-report-measures|self-assessed]], so they describe confidence rather than competence.
 
-A research program would need baseline and post measures of civic knowledge, public reasoning, and source verification, using tasks with planted fabrications. It would need behavioral measures of participation, production tasks scored for claim accuracy and attribution, and tests of whether learners can contest a decision rather than describe one. It would need classroom conditions, teacher preparation, and equity data, especially in South Africa, where Nkalanga reports roughly 16,000 schools without computer laboratories and frames the shortfall as a [[global-south|Global South]] equity problem. Until then, this page is a map of a gap.
+A research program would need baseline and post measures of civic knowledge, public reasoning, and source verification, using tasks with planted fabrications. It would need behavioral measures of participation, production tasks scored for claim accuracy and attribution, and tests of whether learners can contest a decision rather than describe one. It would need classroom conditions, [[teacher-education|teacher preparation]], and equity data, especially in South Africa, where Nkalanga reports roughly 16,000 schools without computer laboratories and frames the shortfall as a [[global-south|Global South]] equity problem. Until then, this page is a map of a gap.
 
 ## Common Misconceptions
 
-**"AI literacy already covers citizenship."** Functional AI literacy teaches people to use tools. Algorithmic accountability asks who decides, on what basis, and how that decision can be challenged. Nkalanga shows mainstream competence frameworks omit this layer.
+**"AI literacy already covers citizenship."** Functional [[ai-literacy|AI literacy]] teaches people to use tools. Algorithmic accountability asks who decides, on what basis, and how that decision can be challenged. Nkalanga shows mainstream competence frameworks omit this layer.
 
 **"The problem is students cheating."** Integrity framing asks who wrote the text. Civic framing asks whether the claim is true and whether the student can defend it. Trust et al. show the supply side fails first: AI-generated civic lessons were lower-order and monocultural before any student used them.
 
 **"Better prompts will produce better civic lessons."** The interactive variant made minimal difference, and all three chatbots produced the same structure across 53 standards. Prompt quality did not restore disciplinary texture.
 
-**"There is enough evidence to guide practice."** There is enough to justify caution. One content analysis, one documentary synthesis, one small mixed-methods study, and several conceptual or policy pieces do not establish what works.
+**"There is enough evidence to guide practice."** There is enough to justify caution. One content analysis, one documentary synthesis, one small [[mixed-methods-research|mixed-methods study]], and several conceptual or policy pieces do not establish what works.
 
 ## Connected Concepts
 

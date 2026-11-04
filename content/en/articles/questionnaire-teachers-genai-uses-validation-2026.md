@@ -1,5 +1,5 @@
 ---
-title: "Design and Validation of a Questionnaire on Teachers' Uses of Generative Artificial Intelligence"
+title: "Design and validation of a questionnaire on teachers' uses of generative artificial intelligence"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

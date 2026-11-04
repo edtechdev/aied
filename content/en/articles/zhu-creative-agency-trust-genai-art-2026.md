@@ -1,5 +1,5 @@
 ---
-title: "Trust Outranks Usefulness: Metacognitive Control and Trust in Art Students' Adoption of Generative AI"
+title: "Supporting creative agency: metacognitive control and trust in generative AI art education"
 published: "2026-10-29"
 created: "2026-11-04T15:00:00-05:00"
 updated: "2026-11-04T15:00:00-05:00"
@@ -37,7 +37,7 @@ source_depth: full text
 5. Study 2 assigned 80 participants (40 per arm; 32 male, 48 female; ages 18–24, *M* = 20.35, *SD* = 1.27) to metacognitive prompts or standard instructions, then had three blinded experts score one generated image each on a 7-point scale.
 6. Expert means favored the prompted group on all three dimensions and survived false-discovery-rate correction: semantic content 5.02 versus 4.62 (*d* = 0.67), visual style 5.13 versus 4.28 (*d* = 1.30) and spatial composition 4.90 versus 4.52 (*d* = 0.63).
 7. Machine feature distances agreed in direction, with greater within-group dispersion for the prompted group on semantic content (0.510 versus 0.276), visual style (17.142 versus 9.979) and spatial composition (4.773 versus 4.271), permutation *p* < 0.0001, < 0.0001 and 0.001.
-8. Measurement was strong on the survey side — overall α = 0.927, construct α from 0.874 to 0.909, AVE from 0.636 to 0.770, CFI = 0.981, RMSEA = 0.029 — but expert agreement in the experiment was only moderate, ICC from 0.635 to 0.692.
+8. [[educational-measurement|Measurement]] was strong on the survey side — overall α = 0.927, construct α from 0.874 to 0.909, AVE from 0.636 to 0.770, CFI = 0.981, RMSEA = 0.029 — but expert agreement in the experiment was only moderate, ICC from 0.635 to 0.692.
 
 ## Two studies, two kinds of claim
 
@@ -51,7 +51,7 @@ The model itself was modified in ways worth noting. Use behavior was dropped bec
 
 In most educational technology acceptance work, performance expectancy is the primary driver of intention. Here it ranks fourth among the antecedents, behind trust, social influence and metacognitive control. The authors read the reversal as specific to artistic creation: students are not only asking whether the tool is productive but whether it is a legitimate medium for work that carries their authorship.
 
-The construct, however, is thinner than that framing suggests. The trust scale began as an established technology trust instrument with two added authorship items, and a pilot study of 121 students showed those two items loading on a separate factor (0.773 and 0.845) rather than on the five retained trust items. They were removed before the main analysis. Two of the five remaining items — originality and authorship, algorithmic fairness — cover art-specific concerns; the other three are functional reliability, safety and overall reliability. The authors therefore describe what they measured as primarily instrumental trust with an art-value supplement, and they warn against reading β = 0.425 as evidence of a developed art-specific trust dimension.
+The construct, however, is thinner than that framing suggests. The trust scale began as an established technology trust instrument with two added authorship items, and a pilot study of 121 students showed those two items loading on a separate factor (0.773 and 0.845) rather than on the five retained trust items. They were removed before the main analysis. Two of the five remaining items — originality and authorship, [[bias-mitigation|algorithmic fairness]] — cover art-specific concerns; the other three are functional reliability, safety and overall reliability. The authors therefore describe what they measured as primarily instrumental trust with an art-value supplement, and they warn against reading β = 0.425 as evidence of a developed art-specific trust dimension.
 
 What the scale captures is stated confidence, not [[trust-calibration|calibration]] — whether that confidence tracks the system's actual reliability on a given task. A student can trust a model appropriately or indiscriminately, and this instrument cannot tell the two apart.
 
@@ -67,8 +67,8 @@ The caution they attach is important. Greater within-group feature dispersion me
 
 ## What this means for practice
 
-- **Instructors.** Teach the process, not just the tool. Structured prompt worksheets that state creative goals before generation, revision logs that record why a prompt changed, and comparative critique of raw versus human-refined outputs all target the four dimensions the paper operationalizes, and the experimental arm suggests a single session of this is enough to shift output.
-- **Curriculum designers.** [[prompt-engineering|Prompt-engineering]] tricks are the wrong unit of instruction on their own. The paper's argument is that passive acceptance of formulaic output is a metacognitive failure, so [[assessment]] should weight planning documents, iteration records and role-boundary reflections alongside the final image.
+- **[[teacher-role|Instructors]].** Teach the process, not just the tool. Structured prompt worksheets that state creative goals before generation, revision logs that record why a prompt changed, and comparative critique of raw versus human-refined outputs all target the four dimensions the paper operationalizes, and the experimental arm suggests a single session of this is enough to shift output.
+- **[[curriculum-design|Curriculum designers]].** [[prompt-engineering|Prompt-engineering]] tricks are the wrong unit of instruction on their own. The paper's argument is that passive acceptance of formulaic output is a metacognitive failure, so [[assessment]] should weight planning documents, iteration records and role-boundary [[reflection|reflections]] alongside the final image.
 - **Program leads.** Legitimacy is a lever. Because social influence was the strongest correlate of trust, how instructors and departments frame generative AI as an acceptable medium is not incidental messaging; in this sample it was the dominant route into trust.
 - **Researchers.** The obvious next instrument is a validated art-specific trust scale. With two of five items carrying value-laden content and the authorship items discarded at the exploratory stage, the field currently has no measure that separates instrumental reliability from judgments about originality, attribution and fairness.
 
@@ -76,11 +76,11 @@ The caution they attach is important. Greater within-group feature dispersion me
 
 - Study 1 is cross-sectional, so the ordering among metacognitive control, trust and intention is assumed by the model rather than observed. The experiment does not repair this, because it never measured trust.
 - The trust scale is predominantly instrumental. The two authorship items were dropped after forming their own factor in a pilot of 121 students, leaving originality and fairness as the only art-specific content.
-- Participants are art majors at higher education institutions in Zhejiang Province only; the authors flag that regional norms about authorship and institutional AI policy may change the balance between instrumental and value-based trust.
+- Participants are art majors at higher education institutions in Zhejiang Province only; the authors flag that regional norms about authorship and institutional [[educational-policy-ai|AI policy]] may change the balance between instrumental and value-based trust.
 - Study 2 used 80 students, one model (Nano Banana 2, accessed as a preview build over two days in May 2026), two fixed keywords and a single 15-minute task, so the effect sizes are laboratory estimates.
 - Expert reliability was moderate (ICC 0.635 to 0.692), and the rating scale measures aesthetic quality rather than [[creativity]], which the authors state directly.
 - The design cannot test the collective creativity paradox, since it measured dispersion within groups rather than the distribution of outputs across independent users of one model.
 
 ## Citation
 
-Zhu, R. (2026). [Supporting creative agency: Metacognitive control and trust in generative AI art education](https://doi.org/10.3389/fpsyg.2026.1997631). *Frontiers in Psychology, 17*, 1997631.
+Zhu, R. (2026). [Supporting creative agency: metacognitive control and trust in generative AI art education](https://doi.org/10.3389/fpsyg.2026.1997631). *Frontiers in Psychology, 17*, 1997631.

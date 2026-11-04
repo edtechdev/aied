@@ -1,5 +1,5 @@
 ---
-title: "Designing Teaching Materials with GenAI: Perceptions of Cognitive Load and Learner Competencies in Higher Education"
+title: "Designing teaching materials with GenAI: Perceptions of cognitive load and learner competencies in higher education"
 created: "2026-10-25T00:00:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Constructing Selves in AI-Mediated Apprenticeship Learning: Students of Colour's Narratives of Agency, Recognition and Negotiation"
+title: "Constructing selves in AI-mediated apprenticeship learning: Students of colour's narratives of agency, recognition and negotiation"
 created: "2026-10-12T11:05:00-04:00"
 updated: "2026-10-12T11:05:00-04:00"
 type: article

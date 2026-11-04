@@ -1,5 +1,5 @@
 ---
-title: "Metacognitive Training Facilitates Optimal Cognitive Offloading"
+title: "Metacognitive training facilitates optimal cognitive offloading"
 created: "2026-08-16T21:20:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

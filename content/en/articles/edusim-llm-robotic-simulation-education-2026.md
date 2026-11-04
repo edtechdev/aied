@@ -1,5 +1,5 @@
 ---
-title: "EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners"
+title: "EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

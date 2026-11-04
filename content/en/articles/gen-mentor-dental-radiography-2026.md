@@ -1,5 +1,5 @@
 ---
-title: "Gen-Mentor: A Human-in-the-Loop Instructional Framework for Dental Radiography Using Generative AI"
+title: "Gen-Mentor: A human-in-the-loop instructional framework for dental radiography using generative AI"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

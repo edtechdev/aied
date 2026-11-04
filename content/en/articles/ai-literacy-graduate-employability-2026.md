@@ -1,5 +1,5 @@
 ---
-title: "AI literacy and graduate employability in the age of artificial intelligence"
+title: "AI literacy and graduate employability in the age of artificial intelligence: The mediating role of career adaptability and the moderating role of growth mindset"
 created: "2026-10-04T05:35:00-04:00"
 updated: "2026-10-04T05:35:00-04:00"
 type: article

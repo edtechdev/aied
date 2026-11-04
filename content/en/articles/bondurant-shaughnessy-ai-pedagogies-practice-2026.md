@@ -1,7 +1,7 @@
 ---
-title: "Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education"
+title: "Responsible integration of artificial intelligence into pedagogies of practice in mathematics teacher education"
 created: "2026-09-21T04:44:21-04:00"
-updated: "2026-09-21T04:44:21-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/bondurant-shaughnessy-ai-pedagogies-practice-2026.md']
 confidence: medium
@@ -36,7 +36,7 @@ Representations of practice are the artifacts that make teaching visible: video,
 
 ## What AI adds to decompositions and approximations
 
-Decomposition breaks complex teaching into learnable elements, and the commentary points to AI that classifies teacher moves by function, surfaces missed opportunities for student talk, and could eventually give feedback on a rehearsal as it unfolds. The evidence for that last step is thin, and the accuracy caution applies most sharply here: an analysis that is wrong in a plausible way is harder to notice than a missing one. Approximations of practice are where the empirical work has accumulated. Peer and coached rehearsals, microteaching and tutoring now sit beside digital [[simulation]] platforms such as Teacher Moments and mixed-reality environments where a [[human-in-the-loop-ai|human in the loop]] controls the student avatars. The reported outcomes are specific: a chatbot acting as virtual student and mentor yielded four questioning profiles, ChatGPT-assisted question generation plus a custom student bot improved candidates' perceptions as their [[prompt-engineering|prompting]] improved, and [[ai-feedback-quality|automated feedback]] after repeated rehearsal cycles raised the use of probing questions. Cognitive load and interface constraints recur as design limits.
+Decomposition breaks complex teaching into learnable elements, and the commentary points to AI that classifies teacher moves by function, surfaces missed opportunities for student talk, and could eventually give feedback on a rehearsal as it unfolds. The evidence for that last step is thin, and the accuracy caution applies most sharply here: an analysis that is wrong in a plausible way is harder to notice than a missing one. Approximations of practice are where the empirical work has accumulated. Peer and coached rehearsals, microteaching and tutoring now sit beside digital [[simulation]] platforms such as Teacher Moments and mixed-reality environments where a [[human-in-the-loop-ai|human in the loop]] controls the student [[ai-avatars-and-synthetic-instructors|avatar]]s. The reported outcomes are specific: a chatbot acting as virtual student and mentor yielded four questioning profiles, ChatGPT-assisted question generation plus a custom student bot improved candidates' perceptions as their [[prompt-engineering|prompting]] improved, and [[ai-feedback-quality|automated feedback]] after repeated rehearsal cycles raised the use of probing questions. Cognitive load and interface constraints recur as design limits.
 
 ## What this means for practice
 

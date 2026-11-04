@@ -1,5 +1,5 @@
 ---
-title: "Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling"
+title: "Preferred scaffolding does not lead to better learning performance: Empirical evidence from AI-supported mathematical modelling"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Bridging implementation gaps: the critical role of institutional ecosystems in AI integration for nursing education"
+title: "Bridging implementation gaps: The critical role of institutional ecosystems in AI integration for nursing education"
 created: "2026-10-31T15:05:00-04:00"
 updated: "2026-10-31T15:05:00-04:00"
 type: article

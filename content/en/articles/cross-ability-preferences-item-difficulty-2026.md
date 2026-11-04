@@ -1,6 +1,6 @@
 ---
 
-title: CAP - Cross-Ability Preferences to Align Student Simulators for Item Difficulty Prediction
+title: "CAP: Cross-Ability Preferences to Align Student Simulators for Item Difficulty Prediction"
 created: "2026-10-10T13:45:00-04:00"
 updated: "2026-10-10T13:45:00-04:00"
 type: article

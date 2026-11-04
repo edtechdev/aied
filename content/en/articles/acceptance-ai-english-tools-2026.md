@@ -1,5 +1,5 @@
 ---
-title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups"
+title: "Acceptance of AI-assisted English language learning tools in higher education: Psychological correlates across disciplinary and proficiency groups"
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

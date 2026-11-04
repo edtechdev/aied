@@ -1,5 +1,5 @@
 ---
-title: "Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse"
+title: "Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
@@ -42,4 +42,4 @@ Results indicate [[pedagogy|pedagogical]] [[scaffolding]] can transform how mino
 
 ## Citation
 
-Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026](https://arxiv.org/abs/2607.28630).
+Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks](https://arxiv.org/abs/2607.28630).

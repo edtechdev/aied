@@ -1,5 +1,5 @@
 ---
-title: Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
+title: "Probing AI-generated physics solutions and preparing students to critique them"
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "The Best Response to Student AI Use Is Not Detection, It Is Dialog"
+title: "The best response to student AI use is not detection, it is dialog"
 created: "2026-08-20T05:40:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

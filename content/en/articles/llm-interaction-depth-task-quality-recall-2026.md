@@ -1,5 +1,5 @@
 ---
-title: "What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education"
+title: "What students ask matters: LLM interaction depth, task quality, and immediate recall in higher education"
 created: "2026-08-30T16:50:00-04:00"
 updated: "2026-10-28T00:58:16-04:00"
 type: article

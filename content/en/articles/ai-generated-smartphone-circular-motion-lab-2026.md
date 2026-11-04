@@ -1,5 +1,5 @@
 ---
-title: "Studying Circular Motion with an AI-Generated Smartphone Physics Lab"
+title: "Studying circular motion with an AI-generated smartphone physics lab"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

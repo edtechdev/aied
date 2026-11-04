@@ -1,5 +1,5 @@
 ---
-title: "Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions"
+title: "Federated and explainable learning analytics for privacy-preserving academic risk modeling across heterogeneous educational institutions"
 created: "2026-09-07T08:25:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

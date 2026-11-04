@@ -1,5 +1,5 @@
 ---
-title: "Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender"
+title: "Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender"
 created: "2026-08-22T18:45:00-04:00"
 updated: "2026-09-20T15:41:34-04:00"
 type: article

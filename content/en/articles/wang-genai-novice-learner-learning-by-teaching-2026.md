@@ -1,7 +1,7 @@
 ---
 title: "The Contribution of Generative Artificial Intelligence as a Novice Learner to Students in the Learning by Teaching Model"
 created: "2026-09-25T21:06:17-04:00"
-updated: "2026-09-25T21:52:24-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 published: "2026"
 foundations: [ai-education, human-ai-collaboration]
@@ -40,7 +40,7 @@ The intervention turns [[learning-by-teaching]] into a human-AI arrangement. Stu
 
 ## Method: a quasi-experiment with preservice teachers
 
-The study used a [[mixed-methods-research|mixed-methods]] design with 68 preservice teachers majoring in Political Education in a Modern Educational Technology course in eastern China: 33 in the experimental group and 35 in the control group. Both groups attended the same lecture and five-stage procedure; only the interaction mode differed. The experimental group prepared, explained and responded to GAI-NL questions, while the control group asked questions of a GAI teacher built on the same model. Measurement combined an eight-item knowledge understanding test with a problem-generation task scored out of 19.5 points, a self-efficacy scale (Cronbach's alpha 0.93), a metacognitive strategy questionnaire (alphas 0.66 and 0.89) and semi-structured interviews. Inter-coder reliability was Spearman's rho 0.964 (p<0.001).
+The study used a [[mixed-methods-research|mixed-methods]] design with 68 preservice teachers majoring in [[civic-and-political-education|Political Education]] in a Modern Educational Technology course in eastern China: 33 in the experimental group and 35 in the control group. Both groups attended the same lecture and five-stage procedure; only the interaction mode differed. The experimental group prepared, explained and responded to GAI-NL questions, while the control group asked questions of a GAI teacher built on the same model. Measurement combined an eight-item knowledge understanding test with a problem-generation task scored out of 19.5 points, a self-efficacy scale (Cronbach's alpha 0.93), a metacognitive strategy questionnaire (alphas 0.66 and 0.89) and semi-structured interviews. Inter-coder reliability was Spearman's rho 0.964 (p<0.001).
 
 ## What the experiment found
 

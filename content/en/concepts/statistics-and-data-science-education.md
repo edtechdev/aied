@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -40,6 +40,8 @@ The articles here share a pattern that follows from the discipline's artifact-ce
 Treating the two as one page would obscure the distinction that the evidence keeps returning to. The corpus's data science studies are about **generated material and its calibration**: an R tutor's adoption curve, practice questions whose metadata does not match student performance, datasets whose relationships are asserted rather than observed, charts whose design parameters are derived from perception research. None of those is a mathematics-education problem.
 
 The boundary is not clean at the edges. Statistical programming sits inside [[cs-education]] in most institutions, and several articles here are filed there; accessibility work on statistical graphics overlaps [[special-education]] and [[accessibility|accessible]] design; responsible data science overlaps [[cs-education]] and [[ethics]]. The page is a home for the cluster, not a claim that the cluster is sealed.
+
+[[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]] mark that overlap from the curriculum side: four accountability pillars (answerability, responsibility, enforcement, reflexivity) crossed with four [[explainable-ai|XAI]] dimensions, taught through graded model cards, LIME and SHAP explanation audits, and impact assessments, with the authors conceding that explanation is not accountability.
 
 ## Generated artifacts and the validity question
 

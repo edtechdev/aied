@@ -1,5 +1,5 @@
 ---
-title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High"
+title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond"
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

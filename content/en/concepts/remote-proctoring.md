@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -39,7 +39,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 
 - **Harms to trust and the student-instructor relationship.** The most consequential cost of remote proctoring is often relational. Continuous surveillance communicates that students are presumed dishonest, which can erode [[trust]], corrode the student–instructor relationship, and undermine the sense of shared purpose that supports academic integrity. Monitoring-as-enforcement can crowd out the trust-based, educative approach to integrity that builds responsible use.
 - **Academic surveillance.** Remote proctoring is a form of academic surveillance that extends institutional monitoring into the student's private home environment. Beyond the exam itself, these systems capture the student's living space, face, voice, and behavior continuously — a level of scrutiny with few precedents in [[higher-ed|higher education]]. Critics argue this normalizes a surveillance culture in which students are presumed guilty until proven honest, reshaping the relationship between institutions and learners and raising questions about proportionality: whether the integrity gains justify subjecting every student to pervasive monitoring for the misdeeds of a few.([[privacy]]), [[trust]]
-- **Privacy and consent.** AIPS continuously access facial imagery, voice patterns, gaze, and keystroke dynamics, often through persistent audiovisual surveillance. Data handling must comply with frameworks like GDPR and India's PDP Bill, and requires clear consent and secure biometric-data handling. Students often have little choice but to accept monitoring if they wish to take an exam, raising questions about whether consent is genuinely voluntary.([[privacy]])
+- **Privacy and consent.** AIPS continuously access facial imagery, voice patterns, [[sensor-and-gaze-analytics|gaze]], and keystroke dynamics, often through persistent audiovisual surveillance. Data handling must comply with frameworks like GDPR and India's PDP Bill, and requires clear consent and secure biometric-data handling. Students often have little choice but to accept monitoring if they wish to take an exam, raising questions about whether consent is genuinely voluntary.([[privacy]])
 - **False positives, false accusations, and anxiety.** Systems may flag benign behavior (looking away, adjusting posture) as suspicious, eroding student trust and producing false malpractice accusations — especially where proctors or test-takers lack proficiency.
 - **Stress and test anxiety.** Taking a proctored exam is itself a source of significant stress and anxiety. Continuous surveillance, fear of being falsely flagged, and the pressure of being watched can raise test anxiety and impair performance — and, per the evidence, stressed students may be *more* likely to resort to dishonest behavior, meaning the monitoring can be counterproductive. Being monitored is stressful and can itself induce the unethical behavior it aims to prevent.
 - **The integrity rationale did not survive the largest test.** Across four waves and 1,760 students in 105 courses, proctoring raised test anxiety (β = 0.60, p < 0.001) but had no effect on the temptation to cheat, perceived difficulty, or grades, so the surveillance cost was not offset by deterrence ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
@@ -91,7 +91,6 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment

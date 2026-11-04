@@ -1,5 +1,5 @@
 ---
-title: "What Does It Mean to Be AI Literate? Psychometric Validation of the Critical 3wAI Literacy Scale"
+title: "What does it mean to be AI literate? Psychometric validation of the Critical 3wAI Literacy Scale"
 created: "2026-10-12T10:22:19-04:00"
 updated: "2026-10-12T10:22:19-04:00"
 type: article

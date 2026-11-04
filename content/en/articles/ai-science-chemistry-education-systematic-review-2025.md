@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence in Science and Chemistry Education: A Systematic Review"
+title: "Artificial intelligence in science and chemistry education: A systematic review"
 created: "2026-08-19T12:40:00-04:00"
 updated: "2026-09-19T06:55:23-04:00"
 type: article

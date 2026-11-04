@@ -1,5 +1,5 @@
 ---
-title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective"
+title: "Students' agency in GenAI-mediated group assessment: An ecological-emergent perspective"
 created: "2026-09-10T05:34:38-04:00"
 updated: "2026-09-23T09:52:53-04:00"
 type: article

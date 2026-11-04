@@ -1,5 +1,5 @@
 ---
-title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
+title: "The safety gap: restoring productive struggle through pedagogically aligned generative AI"
 created: "2026-08-23T08:15:00-04:00"
 updated: "2026-09-26T07:13:32-04:00"
 type: article

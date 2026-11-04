@@ -1,7 +1,7 @@
 ---
-title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review"
+title: "Human autonomy and sense of agency in human-robot interaction: A systematic literature review"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T11:24:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [agency]
 pedagogy: [well-being]
@@ -30,7 +30,7 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 
 ## What this means for practice
 
-- **Designers.** Design for the factors the evidence supports and treat dependence as a risk: non-controlling communication and meaningful choice are backed by the reviewed studies, with gaze direction and robot anthropomorphism flagged as additions to current [[educational-robotics|educational robotics]] guidance, while over-attachment, disrupted routines, and growing dependence appear as life-sphere threats.
+- **Designers.** Design for the factors the evidence supports and treat dependence as a risk: non-controlling communication and meaningful choice are backed by the reviewed studies, with [[sensor-and-gaze-analytics|gaze]] direction and robot anthropomorphism flagged as additions to current [[educational-robotics|educational robotics]] guidance, while over-attachment, disrupted routines, and growing dependence appear as life-sphere threats.
 - **Designers.** Evaluate beyond the interface and task spheres: the 22 studies cluster there, and behavior- and life-sphere effects such as declining skills, increased dependence, and routine disruption surfaced mainly in [[qualitative-research|qualitative]] work, so long-term, real-world evaluation is the missing piece.
 - **Researchers.** Measure both constructs in the same study: the corpus splits into [[self-determination-theory|SDT]]-based psychometric measures of autonomy and intentional-binding measures of sense of agency, and none of the 22 articles linked sense of agency to autonomy satisfaction.
 - **Researchers.** Standardize definitions and instruments so results become comparable — the review could not run a meta-analysis because conceptual and methodological heterogeneity across the 22 studies was too pronounced.

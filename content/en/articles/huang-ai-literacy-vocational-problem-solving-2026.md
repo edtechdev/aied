@@ -1,5 +1,5 @@
 ---
-title: "AI Literacy and Vocational Students' Complex Problem-Solving: A Moderated Mediation Model"
+title: "AI literacy and vocational students’ complex problem-solving skills: a moderated mediation model of systematic thinking, cognitive load, and perceived school ICT support"
 created: "2026-11-04T16:20:00-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A three-wave survey of 784 students at six Chinese higher vocational colleges tested whether [[ai-literacy|AI literacy]] is associated with self-reported [[problem-solving|complex problem-solving]] through two cognitive routes — systematic thinking and cognitive load — and whether perceived school ICT support conditions those routes. Total association was 0.480; the direct path was 0.248 and the indirect paths 0.151 (systematic thinking) and 0.081 (cognitive load). Both interactions pointed the same way: at higher perceived ICT support, AI literacy was more strongly tied to systematic thinking and more strongly tied to *lower* cognitive load, so the conditional indirect effects grew from 0.117 to 0.176 and from 0.038 to 0.127 across the moderator's range.
+> **Synthesis:** A three-wave survey of 784 students at six Chinese higher [[vocational-education|vocational colleges]] tested whether [[ai-literacy|AI literacy]] is associated with self-reported [[problem-solving|complex problem-solving]] through two cognitive routes — systematic thinking and cognitive load — and whether perceived school ICT support conditions those routes. Total association was 0.480; the direct path was 0.248 and the indirect paths 0.151 (systematic thinking) and 0.081 (cognitive load). Both interactions pointed the same way: at higher perceived ICT support, AI literacy was more strongly tied to systematic thinking and more strongly tied to *lower* cognitive load, so the conditional indirect effects grew from 0.117 to 0.176 and from 0.038 to 0.127 across the moderator's range.
 
 ## Key Findings
 
@@ -76,8 +76,8 @@ One caution belongs with that story. The moderator is a three-item student perce
 - Students were nested in six colleges, but class and college identifiers were unavailable, so clustering was not modeled and the standard errors may be understated.
 - The cognitive-load composite excludes germane load by design, and the authors caution against generalizing to cognitive load as a whole.
 - Attrition from 920 to 784 (136 cases) could not be tested against baseline characteristics, since nonretained cases had no individual records; selective attrition remains possible.
-- The sample is confined to higher vocational colleges in one Chinese province, and self-efficacy, though discussed as theoretical background, was not measured, so it cannot be ruled out as an alternative mechanism.
+- The sample is confined to higher vocational colleges in one Chinese province, and [[self-efficacy]], though discussed as theoretical background, was not measured, so it cannot be ruled out as an alternative mechanism.
 
 ## Citation
 
-Huang, M., Huang, M., He, T., Yi, X., & Deng, W. (2026). [AI literacy and vocational students' complex problem-solving skills: a moderated mediation model of systematic thinking, cognitive load, and perceived school ICT support](https://doi.org/10.3389/fpsyg.2026.1971672). *Frontiers in Psychology, 17*, 1971672.
+Huang, M., Huang, M., He, T., Yi, X., & Deng, W. (2026). [AI literacy and vocational students’ complex problem-solving skills: a moderated mediation model of systematic thinking, cognitive load, and perceived school ICT support](https://doi.org/10.3389/fpsyg.2026.1971672). *Frontiers in Psychology, 17*, 1971672.

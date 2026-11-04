@@ -1,5 +1,5 @@
 ---
-title: "Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication"
+title: "Deceptive overgeneralization: When adaptive learning enables systematic misapplication"
 created: "2026-08-30T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Mapping moral reasoning research among college students: a bibliometric analysis of traditional foundations"
+title: "Mapping moral reasoning research among college students: a bibliometric analysis of traditional foundations and emerging digital ethics"
 published: "2026-10-31"
 created: "2026-11-02T09:24:00-05:00"
 updated: "2026-11-02T09:24:00-05:00"

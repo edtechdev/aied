@@ -1,5 +1,5 @@
 ---
-title: "“Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI"
+title: "\"Will AI steal my glory?\": Power relations perceived by college instructors when grappling with Generative AI"
 created: "2026-08-22T17:45:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article
@@ -54,4 +54,4 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 
 ## Citation
 
-Zuo, Y., Xu, X., & Dunning, L. A. (2026). ["Will AI steal my glory?": Power relations perceived by college instructors when grappling with Generative AI. *Journal of Applied Learning & Teaching*, 9(1)](https://doi.org/10.37074/jalt.2026.9.1.8).
+Zuo, Y., Xu, X., & Dunning, L. A. (2026). ["Will AI steal my glory?": Power relations perceived by college instructors when grappling with Generative AI](https://doi.org/10.37074/jalt.2026.9.1.8). *Journal of Applied Learning & Teaching*, 9(1).

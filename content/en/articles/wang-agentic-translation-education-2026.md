@@ -1,5 +1,5 @@
 ---
-title: "Beyond Agentic Translation: A Design-Based Framework for Human-AI Collaboration in Translator Education"
+title: "Beyond agentic translation: A design-based framework for human-AI collaboration in translator education"
 created: "2026-10-12T10:33:55-04:00"
 updated: "2026-10-12T10:33:55-04:00"
 type: article

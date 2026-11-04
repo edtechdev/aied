@@ -1,5 +1,5 @@
 ---
-title: "Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education"
+title: "Promoting critical thinking in biological sciences in the era of artificial intelligence: The role of higher education"
 created: "2026-08-19T13:02:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

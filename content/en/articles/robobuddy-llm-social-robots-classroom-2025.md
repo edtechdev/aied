@@ -1,5 +1,5 @@
 ---
-title: "RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities"
+title: "RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities"
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

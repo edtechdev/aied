@@ -1,5 +1,5 @@
 ---
-title: "Fear and Awe: Making Sense of Generative AI Through Metaphor"
+title: "Fear and awe: Making sense of generative AI through metaphor"
 created: "2026-08-26T05:58:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

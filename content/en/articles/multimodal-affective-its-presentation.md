@@ -1,7 +1,7 @@
 ---
 title: An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-09-16T15:51:16-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 technology: [affective-computing, intelligent-tutoring, learning-analytics, llm, multimodal, rag]
 pedagogy: [professional-training]
@@ -32,7 +32,7 @@ The system operationalizes oral-presentation quality through a Behaviorally Anch
 
 ## Multimodal Scoring with XGBoost
 
-Four categories of speaker features — facial dynamics, oculomotor signals, acoustic prosody, and semantic content — are extracted from each 2-second speech-active video segment (10,360 segments via a sliding window, after voice-activity detection removed non-speech pauses). Facial features use MediaPipe FaceMesh's 478 three-dimensional landmarks grouped into seven anatomical regions, yielding a 3,780-dimensional dynamic vector; seven oculomotor indicators capture gaze stability, fixation dispersion, and directional variability; 203 prosodic and spectral acoustic descriptors (MFCCs, fundamental frequency, spectral statistics) are augmented by a speaker-level prosodic signature; and Whisper ASR transcripts are embedded with a sentence-transformer ([[educational-nlp]]) to produce 384-dimensional semantic representations. These are concatenated (early fusion) into a 4,374-dimensional representation fed to seven independent XGBoost regression models — one per BARS dimension. Hyperparameters are tuned by Bayesian optimization, and robustness is evaluated under speaker-independent cross-validation to avoid identity leakage. The authors justify interpretability as a pedagogical requirement rather than a modeling nicety: gradient-boosting trees yield direct feature-importance mappings that deep networks obscure.
+Four categories of speaker features — facial dynamics, oculomotor signals, acoustic prosody, and semantic content — are extracted from each 2-second speech-active video segment (10,360 segments via a sliding window, after voice-activity detection removed non-speech pauses). Facial features use MediaPipe FaceMesh's 478 three-dimensional landmarks grouped into seven anatomical regions, yielding a 3,780-dimensional dynamic vector; seven oculomotor indicators capture [[sensor-and-gaze-analytics|gaze]] stability, fixation dispersion, and directional variability; 203 prosodic and spectral acoustic descriptors (MFCCs, fundamental frequency, spectral statistics) are augmented by a speaker-level prosodic signature; and Whisper ASR transcripts are embedded with a sentence-transformer ([[educational-nlp]]) to produce 384-dimensional semantic representations. These are concatenated (early fusion) into a 4,374-dimensional representation fed to seven independent XGBoost regression models — one per BARS dimension. Hyperparameters are tuned by Bayesian optimization, and robustness is evaluated under speaker-independent cross-validation to avoid identity leakage. The authors justify interpretability as a pedagogical requirement rather than a modeling nicety: gradient-boosting trees yield direct feature-importance mappings that deep networks obscure.
 
 ## Three-Layer Feedback Architecture
 

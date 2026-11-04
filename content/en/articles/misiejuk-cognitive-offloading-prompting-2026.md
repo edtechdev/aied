@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies"
+title: "Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies"
 created: "2026-08-09T20:37:26-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

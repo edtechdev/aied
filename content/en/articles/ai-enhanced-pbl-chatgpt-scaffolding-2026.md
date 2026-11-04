@@ -1,5 +1,5 @@
 ---
-title: "AI-Enhanced Problem-Based Learning Framework: Integrating ChatGPT as Adaptive Scaffolding to Improve Critical Thinking and Personalized Learning"
+title: "AI-enhanced problem-based learning framework: integrating ChatGPT as adaptive scaffolding to improve critical thinking and personalized learning"
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

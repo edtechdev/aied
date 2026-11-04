@@ -1,5 +1,5 @@
 ---
-title: "Patterns of Student Cognitive Offloading to AI in Higher Education"
+title: "Patterns of student cognitive offloading to AI in higher education"
 created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Design of a Science-Integrated Secondary School AI Literacy Curriculum: A Youth & AI Expert Guided Design-Based Research Approach"
+title: "Design of a science integrated secondary school AI literacy curriculum: A youth & AI expert guided design-based research approach"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

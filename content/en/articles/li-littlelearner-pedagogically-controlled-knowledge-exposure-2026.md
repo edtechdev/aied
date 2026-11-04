@@ -1,5 +1,5 @@
 ---
-title: "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure"
+title: "LittleLearner: Language models under pedagogically controlled knowledge exposure"
 created: "2026-09-23T08:09:25-04:00"
 updated: "2026-09-23T08:09:25-04:00"
 type: article

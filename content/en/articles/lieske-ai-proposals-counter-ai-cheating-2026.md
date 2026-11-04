@@ -1,5 +1,5 @@
 ---
-title: "AI Proposals to Counter AI Cheating by Students in Non-Invigilated Assessment"
+title: "Artificial intelligence (AI) proposals to counter AI cheating by students in non-invigilated assessment"
 created: "2026-10-30T06:07:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

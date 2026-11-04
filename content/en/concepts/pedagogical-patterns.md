@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -135,7 +135,7 @@ A quasi-experiment with 68 preservice teachers found explaining to a GAI novice 
 
 **Evidence: tested, but in controlled or uncontrolled settings rather than ordinary classrooms.** Two learners share one AI and are assigned explicit roles with rotation rules; the AI is configured to take a role as needed and its output goes to the whole group. In a pair-programming variant the shared AI models the dyad's joint attention and effort, forecasts a breakdown up to 30 seconds ahead, and escalates scaffolds in tiers from doing nothing to a directive hint.
 
-A within-subjects experiment with 26 dyads found the feedback condition achieved higher debugging success (t[49.96] = −13.51, p < .0001) and finished faster (t[44.70] = 4.39, p < .0001), though it required dual eye-tracking and pupillometry hardware and did not test transfer to unsupervised pair work ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). A quasi-experiment with 58 graduate students in 16 groups found role design raised mind-map content scores from 3.65 to 4.59 on a 1–5 SOLO scale (z = 3.771, p < 0.001) while node and branch counts stayed flat — but with no control group, practice effects cannot be ruled out ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
+A within-subjects experiment with 26 dyads found the feedback condition achieved higher debugging success (t[49.96] = −13.51, p < .0001) and finished faster (t[44.70] = 4.39, p < .0001), though it required dual [[sensor-and-gaze-analytics|eye-track]]ing and pupillometry hardware and did not test transfer to unsupervised pair work ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). A quasi-experiment with 58 graduate students in 16 groups found role design raised mind-map content scores from 3.65 to 4.59 on a 1–5 SOLO scale (z = 3.771, p < 0.001) while node and branch counts stayed flat — but with no control group, practice effects cannot be ruled out ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
 ### AI-assisted discussion
 

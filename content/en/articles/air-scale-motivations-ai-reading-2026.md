@@ -1,5 +1,5 @@
 ---
-title: "The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading"
+title: "The AIR Scale: Development and validation of a measure of motivations for using AI during reading"
 created: "2026-09-18T12:05:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

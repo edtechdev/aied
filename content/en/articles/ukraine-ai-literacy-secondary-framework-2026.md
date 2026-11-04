@@ -1,5 +1,5 @@
 ---
-title: "AI Literacy in Secondary Education: Framework, Assessment, and Professional Development in the Ukrainian Context"
+title: "AI literacy in secondary education: Framework, assessment, and professional development in the Ukrainian context"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

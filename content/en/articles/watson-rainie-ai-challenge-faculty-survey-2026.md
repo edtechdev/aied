@@ -1,5 +1,5 @@
 ---
-title: "The AI Challenge: How college faculty assess the present and future of higher education in the age of AI"
+title: "The AI challenge: How college faculty assess the present and future of higher education in the age of AI"
 created: "2026-09-18T08:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article

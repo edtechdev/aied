@@ -1,5 +1,5 @@
 ---
-title: "Metacognitive AI literacy: going beyond the AI skills gap agenda"
+title: "Metacognitive AI literacy: Going beyond the AI skills gap agenda"
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

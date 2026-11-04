@@ -1,5 +1,5 @@
 ---
-title: "AI technological disruption awareness, design thinking mindset, and design innovation competence among design students"
+title: "The double-edged sword effect of AI technological disruption awareness on design innovation competence: the mediating role of regulatory focus and the moderating role of AI critical thinking"
 published: "2026-10-20"
 created: "2026-10-28T12:21:37-04:00"
 updated: "2026-10-28T12:21:37-04:00"

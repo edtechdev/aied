@@ -1,5 +1,5 @@
 ---
-title: "Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis"
+title: "Can artificial intelligence promote metacognition? Evidence from a three-level meta-analysis"
 created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-24T12:26:00-04:00"
 type: article

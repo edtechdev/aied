@@ -1,5 +1,5 @@
 ---
-title: "Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies"
+title: "Writing the rules for generative machines: Tensions and entanglements in preservice teachers' classroom AI policies"
 created: "2026-09-14T06:10:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article

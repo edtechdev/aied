@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T13:20:00-05:00"
+updated: "2026-11-05T00:10:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -41,6 +41,8 @@ Three related constructs describe the zone in which desirable difficulties opera
 - **Productive struggle** — the effortful phase of [[problem-solving|problem solving]] in which a learner wrestles with a challenge before (or while) receiving support. The knowledge base's evidence base documents both its value and its cost: [[generative-ai-reduced-study-time-math]] shows removing struggle reduced study time but impaired learning, while [[curiobot-llm-tutoring-exploratory-learning]] and [[rethinking-scaffolding-llm-tutors]] explore how tutors can keep learners in the productive-struggle zone rather than collapsing to answer-giving.
 
 Productive failure is the structured, theory-driven version of this idea: [[productive-failure|Kapur's productive failure]] (PF) formalizes productive struggle as a two-phase design (generation & exploration *before* instruction, then consolidation & knowledge assembly). The AI-era PF literature gives the knowledge base a concrete design vocabulary for preserving desirable difficulty — [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles ([[human-ai-collaboration|human-AI collaboration]], reflective design, non-directive support) that keep AI from erasing the struggle; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be steered to withhold solutions and elicit multiple attempts; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the "Safety Gap" — the divergence between AI-assisted performance and unassisted capability — as the cost of removing struggle; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to lower the burden of designing PF problems. These show that desirable-difficulty principles translate into concrete AI design choices.
+
+Constraint can carry the same design logic inside a writing classroom. In a nine-week argumentative-writing unit, [[making-ai-annoying-constrained-writing-2026|Konradt, Boote and Taub (2026)]] gave four high-school students teacher-delimited chatbots that asked questions instead of generating prose; students pushed back on AI output instead of consuming it, developing prompt literacy alongside counterargument and evidence-integration gains.
 
 ## Desirable Difficulties vs. Cognitive Friction vs. Productive Friction
 

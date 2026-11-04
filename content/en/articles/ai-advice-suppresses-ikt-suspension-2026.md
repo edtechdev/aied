@@ -1,5 +1,5 @@
 ---
-title: "AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized"
+title: "AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized"
 created: "2026-08-21T13:30:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

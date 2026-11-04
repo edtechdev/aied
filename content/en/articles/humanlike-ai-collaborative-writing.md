@@ -1,5 +1,5 @@
 ---
-title: 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
+title: "\"It felt a bit eerie\": Exploring humanlike interactions during collaborative writing with an artificial agent"
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

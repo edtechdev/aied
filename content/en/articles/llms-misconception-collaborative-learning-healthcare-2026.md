@@ -1,5 +1,5 @@
 ---
-title: "Implementing Large Language Models to Support Misconception-Based Collaborative Learning in Health Care Education"
+title: "Implementing large language models to support misconception-based collaborative learning in health care education"
 created: "2026-08-26T10:07:00-04:00"
 updated: "2026-09-19T08:58:00-04:00"
 type: article

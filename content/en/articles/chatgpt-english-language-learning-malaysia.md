@@ -1,5 +1,5 @@
 ---
-title: "Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution"
+title: "Students' experiences of using ChatGPT for English language learning: A qualitative study in a Malaysian higher education institution"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Exploring Factors Influencing Preschool Teachers' Behavioral Intention to Use AI Technologies in Early Childhood Settings"
+title: "Exploring factors influencing preschool teachers' behavioral intention to use AI technologies in early childhood settings"
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

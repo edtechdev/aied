@@ -1,7 +1,7 @@
 ---
 title: "Supporting creativity education in the age of AI: The role of perceived exemplar source"
 created: "2026-10-15T09:15:00-04:00"
-updated: "2026-10-15T09:15:00-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/ai-exemplar-attribution-creativity-education-2026.md']
 confidence: high
@@ -65,7 +65,7 @@ Attributing an exemplar to a person appears to reframe it as an intentional cont
 - Sex composition was skewed: 76.10% of dyads were female-female and only 11 were mixed-sex, so the moderating role of pair composition remains unclear.
 - Only realistic presented problem tasks were used, which supports focus but limits generalization to other creative domains such as artistic or scientific production.
 - Neural recording covered only the bilateral frontal and parietal regions the montage reached, so effects outside that coverage were not observed.
-- No peripheral physiological measures such as heart-rate variability or electrodermal activity were collected, leaving autonomic coordination untested.
+- No peripheral physiological measures such as heart-rate variability or [[sensor-and-gaze-analytics|electrodermal]] activity were collected, leaving autonomic coordination untested.
 - Behavioral effects were short term, so the study cannot speak to whether source attribution influences durable creative capacity.
 
 ## Citation

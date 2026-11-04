@@ -1,5 +1,5 @@
 ---
-title: "TeachArena: Are Language Agents Ready for Realistic Teaching Work?"
+title: "TeachArena: Are language agents ready for realistic teaching work?"
 created: "2026-09-24T02:29:46-04:00"
 updated: "2026-09-24T05:16:25-04:00"
 type: article

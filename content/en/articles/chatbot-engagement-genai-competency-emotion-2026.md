@@ -1,5 +1,5 @@
 ---
-title: "Engagement in LLM Chatbot-Supported Learning: The Pivotal Roles of GenAI Competency and Emotion"
+title: "Engagement in LLM chatbot-supported learning: The pivotal roles of GenAI competency and emotion"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

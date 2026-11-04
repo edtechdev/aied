@@ -1,5 +1,5 @@
 ---
-title: "Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review"
+title: "Bias and representation in AI generated text-to-image in education: A systematic review"
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

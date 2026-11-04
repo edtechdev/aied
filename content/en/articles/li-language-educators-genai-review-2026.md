@@ -1,5 +1,5 @@
 ---
-title: "A Systematic Review of Language Educators' Practices and Development with GenAI"
+title: "A systematic review of language educators' practices and development with GenAI"
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

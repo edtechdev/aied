@@ -1,5 +1,5 @@
 ---
-title: "Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback"
+title: "Bounded reliance: A source credibility perspective on EFL students' engagement with AI-generated writing feedback"
 created: "2026-09-22T07:26:00-04:00"
 updated: "2026-09-22T07:26:00-04:00"
 type: article

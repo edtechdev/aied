@@ -1,5 +1,5 @@
 ---
-title: "Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study"
+title: "Generating a student-informed teaching and learning conceptual framework for GenAI in business schools: a case study"
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

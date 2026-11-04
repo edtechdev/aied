@@ -1,5 +1,5 @@
 ---
-title: "A metacognitive approach to learning and performance in human-AI interaction: the SYNC model"
+title: "A metacognitive approach to learning and performance in human-AI interaction"
 published: "2026-10-30"
 created: "2026-11-03T09:20:00-05:00"
 updated: "2026-11-03T09:20:00-05:00"

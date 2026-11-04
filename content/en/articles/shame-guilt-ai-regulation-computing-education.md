@@ -1,5 +1,5 @@
 ---
-title: 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
+title: "\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education"
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-23T09:52:53-04:00"
 type: article

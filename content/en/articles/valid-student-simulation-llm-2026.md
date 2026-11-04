@@ -1,5 +1,5 @@
 ---
-title: "Towards Valid Student Simulation with Large Language Models"
+title: "Towards valid student simulation with large language models"
 created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article

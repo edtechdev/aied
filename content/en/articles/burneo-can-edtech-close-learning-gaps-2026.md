@@ -1,5 +1,5 @@
 ---
-title: "Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions"
+title: "Can EdTech close learning gaps? Global evidence from digital interventions"
 created: "2026-08-24T11:55:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

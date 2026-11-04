@@ -1,5 +1,5 @@
 ---
-title: "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff"
+title: "The AI adaptation gap in higher education: Students, faculty, and administrative staff"
 created: "2026-08-27T09:12:00-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article

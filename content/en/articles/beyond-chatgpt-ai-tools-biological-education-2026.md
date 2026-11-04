@@ -1,5 +1,5 @@
 ---
-title: "Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education"
+title: "Beyond ChatGPT: A review of the use of AI tools in biological education"
 created: "2026-08-19T13:06:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [creativity]
@@ -39,7 +39,7 @@ One included study (Kwon et al., 2023) examined a chatbot-based system for writi
 
 ## AI for Creative and Multimodal Writing
 
-Generative AI models can produce images, text, and other digital media artifacts that serve as stimuli for [[storytelling-in-education|storytelling]] and narrative development, expanding writing beyond traditional text-based practice through [[multimodal|multimodal composition]]. Kaskaya and Ates (2025) found that AI-supported [[visualization]] applications improved fourth-grade students' writing disposition — including confidence, persistence, and enthusiasm — and stimulated idea generation and imagination. Gultekin et al. (2025) similarly found that generative AI-assisted picture books enhanced motivation to participate in literacy activities and supported early literacy development such as phonemic awareness and reading fluency, while cautioning that teachers must critically evaluate the quality and instructional appropriateness of AI-generated materials, especially for students with reading or writing difficulties. The review also draws on eye-tracking work suggesting that young learners employ distinct cognitive strategies — prioritizing planning and rereading versus rapid action and visual feedback loops — which can inform how AI environments accommodate diverse student processing during multimodal composition.
+Generative AI models can produce images, text, and other digital media artifacts that serve as stimuli for [[storytelling-in-education|storytelling]] and narrative development, expanding writing beyond traditional text-based practice through [[multimodal|multimodal composition]]. Kaskaya and Ates (2025) found that AI-supported [[visualization]] applications improved fourth-grade students' writing disposition — including confidence, persistence, and enthusiasm — and stimulated idea generation and imagination. Gultekin et al. (2025) similarly found that generative AI-assisted picture books enhanced motivation to participate in literacy activities and supported early literacy development such as phonemic awareness and reading fluency, while cautioning that teachers must critically evaluate the quality and instructional appropriateness of AI-generated materials, especially for students with reading or writing difficulties. The review also draws on [[sensor-and-gaze-analytics|eye-track]]ing work suggesting that young learners employ distinct cognitive strategies — prioritizing planning and rereading versus rapid action and visual feedback loops — which can inform how AI environments accommodate diverse student processing during multimodal composition.
 
 ## AI as Instructional Scaffolding
 

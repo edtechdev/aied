@@ -1,5 +1,5 @@
 ---
-title: "Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy"
+title: "Associations between generative AI–based pronunciation feedback and willingness to communicate in English: The mediating role of English pronunciation self-efficacy"
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article

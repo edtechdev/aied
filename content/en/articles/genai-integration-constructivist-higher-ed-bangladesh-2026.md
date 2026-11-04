@@ -1,5 +1,5 @@
 ---
-title: "Generative Artificial Intelligence Integration in Higher Education: A Constructivist Learning Theory Approach"
+title: "Generative Artificial Intelligence integration in higher education: A constructivist learning theory approach"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article

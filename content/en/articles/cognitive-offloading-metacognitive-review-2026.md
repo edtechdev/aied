@@ -1,5 +1,5 @@
 ---
-title: "Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications"
+title: "Meta-cognitive insights into cognitive offloading: Mechanisms, interventions, and educational implications"
 created: "2026-08-16T20:47:13-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article

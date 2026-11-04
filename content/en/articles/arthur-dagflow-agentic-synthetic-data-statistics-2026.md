@@ -1,5 +1,5 @@
 ---
-title: "DagFlow-AI: Agentic Synthetic Data Generation for Personalized Statistics Learning"
+title: "DagFlow-AI: Agentic synthetic data generation for personalized statistics learning"
 created: "2026-10-25T11:05:00-04:00"
 updated: "2026-11-02T06:45:00-05:00"
 type: article

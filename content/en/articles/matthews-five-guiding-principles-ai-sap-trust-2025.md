@@ -1,5 +1,5 @@
 ---
-title: "Five Guiding Principles for Navigating Artificial Intelligence in Students as Partners Practice to Preserve Pedagogical Trust"
+title: "Five guiding principles for navigating artificial intelligence in students as partners practice to preserve pedagogical trust"
 created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

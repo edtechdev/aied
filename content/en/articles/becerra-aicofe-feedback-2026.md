@@ -50,4 +50,4 @@ The system treats AI as a **draft generator**, not a final deliverer — educato
 
 ## Citation
 
-Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740).
+Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740).

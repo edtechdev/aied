@@ -1,7 +1,7 @@
 ---
-title: "Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review"
+title: "Ensuring academic integrity through automated online exam proctoring: a decade long systematic review"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -24,7 +24,7 @@ methods: [meta-analysis-systematic-review]
 - **Four core AIPS features.** Effective systems combine (1) authentication (e.g., camera face verification), (2) browsing tolerance/restrictions, (3) remote authorization and control (start/stop/resume exams, flag live suspicious activity), and (4) report generation from recorded exam sessions.
 - **Systematic quality-assessment gaps.** Across the 80 studies: 35% did not fully disclose their dataset; 40% evaluated only a single model; 30% could not be fully reproduced; only 25% explicitly addressed [[ethics|ethical]] issues; 20% did not report standard metrics (precision, recall, F1, specificity, AUC).
 - **False positives/negatives undermine trust.** Systems may flag normal behavior (looking away, adjusting posture) as suspicious while missing subtle cheating — a key reliability and acceptance barrier.
-- **Privacy and [[equity-in-ai-education|equity]] are persistent barriers.** Continuous audiovisual surveillance, facial/voice/gaze/keystroke data, GDPR/PDP-Bill compliance, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
+- **Privacy and [[equity-in-ai-education|equity]] are persistent barriers.** Continuous audiovisual surveillance, facial/voice/[[sensor-and-gaze-analytics|gaze]]/keystroke data, GDPR/PDP-Bill compliance, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
 - **Recommended directions.** Hybrid AI models combining deep learning with rule-based logic to cut false positives, diverse geographically-inclusive datasets, privacy-preserving architectures (edge processing, anonymization, on-device handling), lightweight models for low-resource environments, and [[multimodal]] behavioral input integration.
 
 ## Study Design & Method

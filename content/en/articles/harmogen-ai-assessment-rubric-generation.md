@@ -1,5 +1,5 @@
 ---
-title: "A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course"
+title: "A hybrid reasoning framework for artificial intelligence assessment rubric generation in human and automated contexts: Evidence from an undergraduate programming course"
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "EFL learners' emotional engagement in GenAI-assisted writing: a longitudinal multiple-case study"
+title: "Engagement or disengagement: understanding the emotional dynamics of EFL learners in GenAI-assisted writing from the sociocultural perspective"
 published: "2026-10-21"
 created: "2026-10-28T12:21:37-04:00"
 updated: "2026-10-28T12:21:37-04:00"

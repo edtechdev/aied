@@ -1,7 +1,7 @@
 ---
 title: "Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations"
 created: "2026-06-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 pedagogy: [active-learning, scaffolding]
 technology: [personalized-learning, visualization]
@@ -15,7 +15,7 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** Students spent ~47% of gaze time on code despite [[scaffolding|visual scaffolds]]. Three factors shape selective engagement with multi-representational tools: **[[agency|Agency]]** (students want control over cognitive effort), **Representational Fit** (the same design feels helpful to some and overwhelming to others), and **Legitimacy** (metaphorical scaffolds are perceived as childish at university level).
+> **Synthesis:** Students spent ~47% of [[sensor-and-gaze-analytics|gaze]] time on code despite [[scaffolding|visual scaffolds]]. Three factors shape selective engagement with multi-representational tools: **[[agency|Agency]]** (students want control over cognitive effort), **Representational Fit** (the same design feels helpful to some and overwhelming to others), and **Legitimacy** (metaphorical scaffolds are perceived as childish at university level).
 
 ## Key Findings
 

@@ -1,5 +1,5 @@
 ---
-title: "Influence Is Not Necessity: System Features and Student Intention to Use AI-Enhanced Learning Systems"
+title: "Symmetrical and asymmetrical insights into student adoption of AI-enhanced digital educational systems"
 created: "2026-11-04T15:00:00-05:00"
 updated: "2026-11-04T15:00:00-05:00"
 type: article
@@ -21,7 +21,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Zhang, Xin and Qing (2026) surveyed 301 Chinese university students who had used an AI-enhanced learning system in the previous 12 months, then ran three analyses on the same data: [[quantitative-research|PLS-SEM]] for average linear paths, a [[machine-learning|neural network]] for predictor importance, and necessary condition analysis for floors. Ease of use was the strongest predictor of intention in both the path model (β = 0.340) and the network (100% normalized importance), yet it was not a necessary condition (d = 0, p = 0.592). Usefulness was necessary (d = 0.027, p = 0.011) but only weakly. Underneath both results sits a feature-level pattern: [[personalized-learning|personalization]], intelligence, content completeness and interactivity each moved exactly one of the two [[technology-acceptance-model|TAM]] beliefs, responsiveness moved both, and anthropomorphism moved neither.
+> **Synthesis:** Zhang, Xin and Qing (2026) surveyed 301 Chinese [[higher-ed|university]] students who had used an AI-enhanced learning system in the previous 12 months, then ran three analyses on the same data: [[quantitative-research|PLS-SEM]] for average linear paths, a [[machine-learning|neural network]] for predictor importance, and necessary condition analysis for floors. Ease of use was the strongest predictor of intention in both the path model (β = 0.340) and the network (100% normalized importance), yet it was not a necessary condition (d = 0, p = 0.592). Usefulness was necessary (d = 0.027, p = 0.011) but only weakly. Underneath both results sits a feature-level pattern: [[personalized-learning|personalization]], intelligence, content completeness and interactivity each moved exactly one of the two [[technology-acceptance-model|TAM]] beliefs, responsiveness moved both, and anthropomorphism moved neither.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ source_depth: full text
 5. **The network reproduced the ranking.** Ten-fold cross-validation gave mean RMSE of 0.612 and 0.606 for the usefulness model, 0.606 and 0.629 for ease of use, and 0.620 and 0.628 for intention. Normalized importance put ease of use at 100% against 84.70% for usefulness; personalization led the usefulness model at 100%, content completeness led the ease-of-use model at 100%.
 6. **One necessary condition survived.** Usefulness was the only condition with a significant necessity effect, d = 0.027, p = 0.011. Ease of use recorded d = 0 and p = 0.592, responsiveness d = 0.01, p = 0.145. Every effect size in the table fell inside the 0–0.1 band the authors class as small.
 7. **The bottleneck is staged.** At 30% of the intention scale only responsiveness was required, at 0.3%, and usefulness first appeared at 60% with 1.3%. At the 100% level all six features and both beliefs became conditions: usefulness 12.2%, ease of use 11.3%, content completeness 11.2%, personalization 11.1%, anthropomorphism 10, intelligence 5.2%, responsiveness 2.6%, interactivity 2.2%.
-8. **Measurement was conventional and clean.** Loadings exceeded 0.7, Cronbach's α ran from 0.917 to 0.952, every AVE exceeded 0.5, VIFs stayed below 5, and Harman's first factor explained 31.815% of variance.
+8. **[[educational-measurement|Measurement]] was conventional and clean.** Loadings exceeded 0.7, Cronbach's α ran from 0.917 to 0.952, every AVE exceeded 0.5, VIFs stayed below 5, and Harman's first factor explained 31.815% of variance.
 
 ## Two beliefs, two separate doors
 
@@ -40,7 +40,7 @@ The study's most useful structural result is negative in form: the six stimuli d
 
 The authors' explanation is that each feature removes a different cost. Personalization aligns content with what a student needs, so it reads as value. Intelligence automates choices in the background, and content completeness removes platform-switching, so both read as reduced effort. Interactivity produces feedback and engagement, which reads as value. That mapping is plausible, but its real lesson is that it could not have been predicted from the feature taxonomy alone — each mapping needed both outcomes measured.
 
-The anthropomorphism null is the sharpest instance. Conversational agents and human-like prompts are widely argued to raise social presence and lower the psychological distance of using a system. Here anthropomorphism moved neither belief, and both coefficients were indistinguishable from zero. The authors offer two readings: students may not attend to human-like design at all, or the implementations they used may not have reached a level where it registers. Either reading is a caution for [[student-ai-interaction|student–AI interaction]] design claims that rest on anthropomorphism alone.
+The anthropomorphism null is the sharpest instance. [[conversational-ai|Conversational agents]] and human-like prompts are widely argued to raise [[community-of-inquiry|social presence]] and lower the psychological distance of using a system. Here anthropomorphism moved neither belief, and both coefficients were indistinguishable from zero. The authors offer two readings: students may not attend to human-like design at all, or the implementations they used may not have reached a level where it registers. Either reading is a caution for [[student-ai-interaction|student–AI interaction]] design claims that rest on anthropomorphism alone.
 
 What the design cannot tell us is whether these features behave as separate stimuli in students' heads or whether the survey simply asked about them separately. Six correlated ratings of one platform, collected at one time, will always admit a clean per-construct pattern.
 
@@ -64,9 +64,9 @@ The [[technology-acceptance-model|TAM]] layer supplies the two beliefs but not t
 
 ## What this means for practice
 
-- **Instructors and course designers.** Fix responsiveness before depth. It was the only condition required at low and moderate intention levels, and it raised both acceptance beliefs in the path model — the one feature in the study that did.
+- **[[teacher-role|Instructors]] and [[curriculum-design|course designers]].** Fix responsiveness before depth. It was the only condition required at low and moderate intention levels, and it raised both acceptance beliefs in the path model — the one feature in the study that did.
 - **Platform teams.** Budget features module by module, not evenly. Personalization is the lever for perceived value; intelligence and content structure are the levers for perceived ease of use, and neither substitutes for the other.
-- **Administrators.** Treat latency and feedback speed as an operational commitment rather than a nice-to-have. In this sample it was the earliest binding constraint on whether students formed any intention at all.
+- **[[administrator|Administrators]].** Treat latency and feedback speed as an operational commitment rather than a nice-to-have. In this sample it was the earliest binding constraint on whether students formed any intention at all.
 - **Researchers.** Report necessity at a named target level, and do not read a necessity effect size as importance. Here the top-ranked predictor had no necessity effect and the necessary condition was the weaker of the two.
 
 ## Limitations

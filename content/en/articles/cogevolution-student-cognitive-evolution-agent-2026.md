@@ -1,5 +1,5 @@
 ---
-title: "CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution"
+title: "CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution"
 created: "2026-08-24T05:31:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article

@@ -42,4 +42,4 @@ Between-groups, [[mixed-methods-research|mixed-methods]] pilot at a small commun
 - With only two groups per condition, group effects on the quiz and survey could not be statistically controlled, and the observational analysis used audio recordings only.
 
 ## Citation
-Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based learning tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.
+Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.

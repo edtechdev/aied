@@ -1,5 +1,5 @@
 ---
-title: "Generative AI assisted grammar instruction and Ethiopian EFL learners' self-efficacy and metalinguistic awareness"
+title: "Effects of generative AI assisted grammar instruction on Ethiopian EFL learners' self-efficacy, metalinguistic awareness, and writing performance"
 published: "2026-10-31"
 created: "2026-11-02T09:22:00-05:00"
 updated: "2026-11-02T09:22:00-05:00"

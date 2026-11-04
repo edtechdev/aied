@@ -1,5 +1,5 @@
 ---
-title: 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
+title: "\"Why SuaCode?\": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course"
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"
 type: article

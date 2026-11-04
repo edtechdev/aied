@@ -1,5 +1,5 @@
 ---
-title: "Pre-service teachers' agency during their interactions with generative AI while designing for learning - a process view"
+title: "Pre-service teachers' agency during their interactions with generative AI while designing for learning – a process view on Intelligent-TPACK"
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article

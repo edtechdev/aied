@@ -1,5 +1,5 @@
 ---
-title: "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude"
+title: "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet"
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-20T08:08:49-04:00"
 type: article

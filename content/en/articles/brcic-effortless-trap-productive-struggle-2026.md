@@ -1,7 +1,7 @@
 ---
-title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"
+title: "The effortless trap: Productive struggle, AI, and the illusion of learning"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]
@@ -36,7 +36,7 @@ page_kind: [framework]
 
 - The paper is a practical synthesis with no new empirical results: its argumentative weight rests on established cognitive and social science, while the AI-specific layer (2023–2026) is fast-moving, heterogeneous, and partly made of preprints.
 - The frame covers one idea, on first encounter, in a single pass; durable retention through spacing and review is a layer above it, and the assessment architecture, AI-use contracts, syllabus templates, and per-course blueprints are explicitly out of scope.
-- Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the [[cognitive-offloading]] EEG work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
+- Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the [[cognitive-offloading]] [[sensor-and-gaze-analytics|EEG]] work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
 - The motivating master-[[teacher-role|teacher]] cases (Aristotle, Keller, Rátz, Szubartowski) illustrate what one-to-one mentoring can achieve but cannot establish causation — selection and survivorship effects dominate and the figures are non-peer-reviewed — and the model assumes the motivated, engaged student it cannot itself supply.
 
 ## Citation

@@ -1,5 +1,5 @@
 ---
-title: "Habit Beats Usefulness: A UTAUT2 Survey of GenAI Adoption Among 310 Marketing Students"
+title: "Adoption of generative artificial intelligence by university marketing students"
 created: "2026-11-04T19:30:00-05:00"
 updated: "2026-11-04T19:30:00-05:00"
 type: article
@@ -50,7 +50,7 @@ Sampling compounds the issue. Non-probability purposive sampling of marketing st
 
 The finding that habit dominates is the paper's contribution and also its softest point. Habit is defined in Table 1 as "the extent to which students use GenAI tools automatically and frequently", and use is defined as "level of use of GenAI tools in academic activities". Those definitions sit close together, and the items follow them. A construct built from frequency and automaticity predicting a construct built from frequency is not a tautology, but it is close enough that the β = 0.412 path should be read as partial overlap rather than pure explanation.
 
-The discriminant-validity table carries the warning. The heterotrait-monotrait ratio for habit against use is 0.824 and for intention against use 0.829, both just under the 0.85 threshold the authors adopt. Performance expectancy against hedonic motivation is 0.825. These pass, but they pass narrowly, and the two pairs that matter most to the argument — habit with use, and intention with use — are the two closest to failing. A stricter threshold of 0.80 would have forced a different model.
+The [[educational-measurement|discriminant-validity]] table carries the warning. The heterotrait-monotrait ratio for habit against use is 0.824 and for intention against use 0.829, both just under the 0.85 threshold the authors adopt. Performance expectancy against hedonic motivation is 0.825. These pass, but they pass narrowly, and the two pairs that matter most to the argument — habit with use, and intention with use — are the two closest to failing. A stricter threshold of 0.80 would have forced a different model.
 
 That does not void the result. The habit path survives at a moderate effect size while the performance-expectancy path sits at f² = 0.001, and that contrast is too large to be an artifact of shared item wording. The defensible reading is narrower than the abstract's: among students who already use these tools often, the frequency of that use is a better predictor of continued use than any belief about usefulness. Whether habit *causes* adoption, or is simply the trace of adoption that already happened, is not something this design can separate.
 
@@ -65,7 +65,7 @@ The moderation results add a caution about the "university" moderator. The two i
 ## What this means for practice
 
 - **Instructors.** Do not build a case for GenAI on demonstrated usefulness. In this sample, usefulness beliefs did not predict intention. Build on routine instead: scheduled, repeated, low-stakes use inside existing assignments creates the habit that the model finds predictive, and hedonic motivation suggests the experience should be engaging rather than merely efficient.
-- **Program designers.** Treat [[ai-literacy|AI literacy]] as a separate objective from adoption. Students in this sample had already adopted; what they lacked, on the authors' account, was critical validation of outputs, awareness of limits, and [[motivation|deliberate]] rather than automatic use. A curriculum that only teaches tool operation addresses a problem these students no longer have.
+- **Program designers.** Treat [[ai-literacy|AI literacy]] as a separate objective from adoption. Students in this sample had already adopted; what they lacked, on the authors' account, was critical validation of outputs, awareness of limits, and [[motivation|deliberate]] rather than automatic use. A [[curriculum-design|curriculum]] that only teaches tool operation addresses a problem these students no longer have.
 - **Administrators.** Facilitating conditions had a real, if small, effect on use (β = 0.219, f² = 0.096), and price value a small effect on intention (β = 0.187). Access, licensing and technical support remain levers, but they are second-order compared with whether use has become normal in the program's daily work.
 - **Researchers.** Report the discriminant-validity ratios for intention and use when both are in the model, and consider whether self-reported frequency can carry the weight a habit construct places on it. The [[technology-acceptance-model|adoption-model]] literature needs measures of use that are not themselves self-reported habit.
 
@@ -76,7 +76,7 @@ The moderation results add a caution about the "university" moderator. The two i
 - All constructs are [[self-report-measures|self-reported]] at the same sitting; no marker variable, Harman test or other common-method check is reported.
 - Habit and use are conceptually and empirically close (HTMT = 0.824), and intention and use are closer still (0.829); both pairs pass the 0.85 threshold only narrowly.
 - The "university" moderator is perfectly confounded with country, and the sample size of 310 across 18 moderation tests leaves the four significant moderators vulnerable to chance.
-- No learning outcome, grade or performance measure was collected, so the study says nothing about whether GenAI use helps students learn [[business-education|marketing]].
+- No [[learning-gains|learning outcome]], grade or performance measure was collected, so the study says nothing about whether GenAI use helps students learn [[business-education|marketing]].
 
 ## Citation
 

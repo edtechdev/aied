@@ -1,5 +1,5 @@
 ---
-title: "Assistive Generative AI for Visually Impaired Learners: Personalization and Inclusion in Higher Education"
+title: "Assistive generative AI for visually impaired learners: Personalization and inclusion in higher education"
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article

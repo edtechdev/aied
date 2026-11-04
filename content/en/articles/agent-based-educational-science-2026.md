@@ -1,5 +1,5 @@
 ---
-title: "Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI"
+title: "Toward agent-based educational science: Rethinking educational research in the age of AI"
 created: "2026-09-18T12:35:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article

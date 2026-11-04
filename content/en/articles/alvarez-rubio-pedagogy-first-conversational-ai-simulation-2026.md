@@ -1,5 +1,5 @@
 ---
-title: "What a Teacher Cannot Delegate: A Pedagogy-First Framework for Conversational AI Across the Simulation Cycle"
+title: "What a teacher cannot delegate: a pedagogy-first framework for integrating conversational AI agents across the simulation cycle"
 created: "2026-11-04T16:20:00-05:00"
 updated: "2026-11-04T16:20:00-05:00"
 type: article
@@ -37,7 +37,7 @@ source_depth: full text
 1. **Pedagogical primacy.** The teacher's reading of each phase's demand decides what is deployed, where, when, and whether. No catalogue of agents substitutes for it.
 2. **Stance-function fit.** Each agent holds the stance its function requires and draws on the knowledge of the course it serves. The stances divide by relation to knowledge, not to the learner.
 3. **Delegation boundary.** The functions that constitute the safe container are not candidates for integration at all. This is the contribution, and it is normative rather than empirical.
-4. **Structural responsibility.** Agents operate inside the institutional environment, under supervision visible to students, with interaction data under institutional governance.
+4. **Structural responsibility.** Agents operate inside the institutional environment, under supervision visible to students, with interaction data under institutional [[governance|governance]].
 5. **Teacher empowerment.** The framework exists so that teachers can do deliberately, on their own authority, what the tools now permit.
 
 ## Where the boundary falls, and why it falls there
@@ -54,27 +54,27 @@ The test travels as three questions: what would pass to the agent; whether the t
 
 ## The cycle, and the smaller cycles inside it
 
-The phases are constituted by demands rather than content, which is why the prebriefing standard travels from healthcare simulation into teacher education without carrying clinical assumptions. Preparation establishes the grounding the scenario requires, enactment requires a counterpart that sustains a role, and debriefing depends on the learner articulating what occurred, the [[reflection|reflective practice]] tradition the phase inherits. The phases also recur at smaller scales within a nominally single phase, which is why preparation here holds two agents of different stances.
+The phases are constituted by demands rather than content, which is why the prebriefing standard travels from healthcare simulation into [[teacher-education|teacher education]] without carrying clinical assumptions. Preparation establishes the grounding the scenario requires, enactment requires a counterpart that sustains a role, and debriefing depends on the learner articulating what occurred, the [[reflection|reflective practice]] tradition the phase inherits. The phases also recur at smaller scales within a nominally single phase, which is why preparation here holds two agents of different stances.
 
 ## Stances: expert, character, maieutic
 
 An Expert agent holds knowledge the learner does not: it may explain, supply worked examples, and press toward application, but not withhold what the learner needs in order to elicit it. A Character agent holds a role rather than knowledge, and may respond in character, resist, and react, but not step outside the role to instruct or evaluate. A Maieutic agent holds no position on the content: it may question and return a formulation for confirmation, but not interpret, advise, or answer.
 
-A preceding course tested the distinction. A Maieutic agent built to teach by never answering did not work: students were frustrated, because discovering what one does not know is difficult and a course is short. The scaffolding evidence predicts the same failure: low prior knowledge needs examples, while high prior knowledge benefits from reflection.
+A preceding course tested the distinction. A Maieutic agent built to teach by never answering did not work: students were frustrated, because discovering what one does not know is difficult and a course is short. The [[scaffolding]] evidence predicts the same failure: low prior knowledge needs examples, while high prior knowledge benefits from reflection.
 
 ## The simulation that assesses
 
-Here the simulation carries summative weight, which the paper treats as the hardest test of its own framework. The prebriefing literature describes preparation as a context where error can be explored without consequence, presuming a formative frame. Where the simulation also grades, the student risks a grade, and [[nursing-education|nursing education]] reports lower satisfaction and more anxiety under summative than under formative simulation assessment.
+Here the simulation carries summative weight, which the paper treats as the hardest test of its own framework. The prebriefing literature describes preparation as a context where error can be explored without consequence, presuming a [[formative-assessment|formative]] frame. Where the simulation also grades, the student risks a grade, and [[nursing-education|nursing education]] reports lower satisfaction and more [[anxiety-and-stress|anxiety]] under summative than under formative simulation assessment.
 
 The tension belongs to the combination, not to any implementation, and it bears on what preceding-phase agents may say: the Briefer declines the terms of the simulation, refusing to reanswer what the course guide had settled.
 
 ## The deployment: five agents in one course
 
-The case is a third-year course, Teaching ESL and Children's Literature, in a Primary Education degree at a Spanish university. Thirty-three students took part in the 2025–2026 second semester, from February to the end of May 2026: 30 women and three men, including one mature student and five exchange students.
+The case is a third-year course, Teaching ESL and Children's Literature, in a [[early-childhood-elementary-ai-education|Primary Education]] degree at a Spanish [[higher-ed|university]]. Thirty-three students took part in the 2025–2026 second semester, from February to the end of May 2026: 30 women and three men, including one mature student and five exchange students.
 
-The simulation is a think tank, a school teaching team meeting on classroom management, English learning, lesson study, and storytelling. Four students hold differentiated roles composed so that sustaining one position requires arguing from the course theory, and a fifth participant, the School Director, is an agent. The Briefer, Interview Director, Pupil, School Director, and Debriefer cover the cycle, each holding one of the three stances set out above.
+The simulation is a think tank, a school teaching team meeting on classroom management, [[language-learning|English learning]], lesson study, and [[storytelling-in-education|storytelling]]. Four students hold differentiated roles composed so that sustaining one position requires arguing from the course theory, and a fifth participant, the School Director, is an agent. The Briefer, Interview Director, Pupil, School Director, and Debriefer cover the cycle, each holding one of the three stances set out above.
 
-All five were authored by the teacher in natural language without programming, inside the institution's existing Teams tenancy. That is a condition of the argument: if alignment depends on reading what a phase demands, nobody who does not know the course can settle it. [[human-in-the-loop-ai|Supervision]] is visible through conversation membership, so a student can see who is present rather than taking anyone's word for it.
+All five were authored by the [[teacher-role|teacher]] in natural language without programming, inside the institution's existing Teams tenancy. That is a condition of the argument: if alignment depends on reading what a phase demands, nobody who does not know the course can settle it. [[human-in-the-loop-ai|Supervision]] is visible through conversation membership, so a student can see who is present rather than taking anyone's word for it.
 
 What the architecture does not settle is what the platform retains. Transcripts were written to a data table, and the teacher's not reading them is an undertaking she holds rather than a fact the architecture establishes.
 
@@ -97,7 +97,7 @@ A chatbot that debriefs as well as a human does not thereby become answerable, a
 - **Teachers authoring agents.** Apply the test per function, not per phase. Ask what passes to the agent, whether you could correct a failure, and who could be asked to stand behind what it said.
 - **Teacher educators.** Teach refusal as a feature. An agent that declines to speak to grading or psychological safety is doing what the framework asks, if the teacher has answered on the record.
 - **Program leaders.** Expect the boundary to matter more where a simulation carries assessment weight, and specify in advance an equivalent route for a student who declines to work with an agent.
-- **Administrators.** Inspect what the platform retains before accepting a promise about it. Architecture narrows what must be promised; it does not close the boundary.
+- **[[administrator|Administrators]].** Inspect what the platform retains before accepting a promise about it. Architecture narrows what must be promised; it does not close the boundary.
 - **Researchers.** Test whether stance-to-phase alignment changes what students learn. The comparison between agent-led and paper-based reflection is the strongest observation and most in need of measurement.
 
 ## Limitations

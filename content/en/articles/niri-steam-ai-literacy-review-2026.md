@@ -1,5 +1,5 @@
 ---
-title: "STEAM Education for AI Literacy: A Systematic Literature Review"
+title: "STEAM education for AI literacy: a systematic literature review"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

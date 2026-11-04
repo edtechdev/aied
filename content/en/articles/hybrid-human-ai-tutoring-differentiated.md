@@ -1,5 +1,5 @@
 ---
-title: Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
+title: "Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs"
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article

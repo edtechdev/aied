@@ -1,5 +1,5 @@
 ---
-title: "A Case Study of Integrating AI Literacy Education in a Biology Class"
+title: "A case study of integrating AI literacy education in a biology class"
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

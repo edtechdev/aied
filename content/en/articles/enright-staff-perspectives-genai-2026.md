@@ -1,5 +1,5 @@
 ---
-title: "'AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education"
+title: "\"AI should help them learn, not learn for them\": University staff perspectives on the role of Generative AI in education"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

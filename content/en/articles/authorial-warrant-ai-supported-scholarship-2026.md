@@ -1,5 +1,5 @@
 ---
-title: "When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship"
+title: "When disclosure rules are not enough: authorial warrant and judgment in AI-supported scholarship"
 created: "2026-10-26T09:30:00-04:00"
 updated: "2026-10-26T09:30:00-04:00"
 type: article

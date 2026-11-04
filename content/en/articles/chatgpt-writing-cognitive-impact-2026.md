@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT Making our Minds Dull? The Cognitive Impact of Using ChatGPT in the Writing Process"
+title: "ChatGPT making our minds dull? The cognitive impact of using ChatGPT in the writing process"
 created: "2026-09-18T12:35:00-04:00"
 updated: "2026-09-21T03:45:00-04:00"
 type: article

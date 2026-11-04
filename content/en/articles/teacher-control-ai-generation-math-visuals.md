@@ -1,5 +1,5 @@
 ---
-title: When Should Teachers Control AI Generation for Mathematics Visuals?
+title: "When should teachers control AI generation for mathematics visuals?"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-20T08:50:26-04:00"
 type: article

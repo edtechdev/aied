@@ -1,5 +1,5 @@
 ---
-title: "Development and validation of the AI-empowered teacher visualization teaching competency scale"
+title: "Development and validation of the AI-empowered visualization teaching competency scale"
 published: "2026-10-21"
 created: "2026-10-28T12:21:37-04:00"
 updated: "2026-11-02T06:45:00-05:00"

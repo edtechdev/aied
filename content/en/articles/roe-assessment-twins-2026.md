@@ -57,4 +57,4 @@ The approach is distinct from traditional protocols like the [[oral-assessment|o
 
 ## Citation
 
-Roe, J., Perkins, M., & Giray, L. (2026). [Assessment twins: An approach for strengthening assessment validity in the age of generative AI. *Journal of Applied Learning & Teaching*, 9(2)](https://doi.org/10.37074/jalt.2026.9.2.3).
+Roe, J., Perkins, M., & Giray, L. (2026). [Assessment twins: An approach for strengthening assessment validity in the age of generative AI](https://doi.org/10.37074/jalt.2026.9.2.3). *Journal of Applied Learning & Teaching*, 9(2).

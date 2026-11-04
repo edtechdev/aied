@@ -1,5 +1,5 @@
 ---
-title: "Summarize, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing"
+title: "Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing"
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article

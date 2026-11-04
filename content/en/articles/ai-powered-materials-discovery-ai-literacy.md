@@ -1,5 +1,5 @@
 ---
-title: "Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment"
+title: "Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment"
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article

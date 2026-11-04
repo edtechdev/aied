@@ -1,5 +1,5 @@
 ---
-title: "From Design to Classroom Adoption: Teachers' Perspectives on AI-powered Writing Analytics in Resource-Constrained Contexts"
+title: "From design to classroom adoption: Teachers' perspectives on AI-powered writing analytics in resource-constrained contexts"
 created: "2026-11-02T13:35:00-05:00"
 updated: "2026-11-02T13:35:00-05:00"
 type: article

@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs"
+title: "Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs"
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-20T08:50:39-04:00"
 type: article

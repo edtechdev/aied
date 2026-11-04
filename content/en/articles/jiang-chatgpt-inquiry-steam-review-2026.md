@@ -1,5 +1,5 @@
 ---
-title: "The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education"
+title: "The AI-powered co-inquirer: a systematic review of ChatGPT for inquiry-based learning in STEAM education"
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article

@@ -1,7 +1,7 @@
 ---
 title: "Many hands make light work? Individual and collaborative interaction with a GenAI-powered multi-agent system: Effects on learning performance and critical thinking"
 created: "2026-10-04T10:42:00-04:00"
-updated: "2026-10-04T10:42:00-04:00"
+updated: "2026-11-04T23:05:00-05:00"
 type: article
 sources: ['raw/papers/bjet-many-hands-make-light-work-2026.md']
 confidence: medium
@@ -55,7 +55,7 @@ Lag sequential analysis and epistemic network analysis read the divergence as tw
 
 ## Limitations
 
-- The system ran on the Coze AI multi-agent framework with the DeepSeek [[llm|large language model]] at temperature 0.8, using four role-specialized agents with 3D avatars and [[speech-and-voice-technologies|text-to-speech]]. The eight-week intervention was administered under IRB approval recorded as Zhejiang University [2025-17] and the paper was received in February 2026; the paper does not state the calendar dates of data collection. Both the model and the multi-agent tooling are tied to that window and have since moved on.
+- The system ran on the Coze AI multi-agent framework with the DeepSeek [[llm|large language model]] at temperature 0.8, using four role-specialized agents with 3D [[ai-avatars-and-synthetic-instructors|avatar]]s and [[speech-and-voice-technologies|text-to-speech]]. The eight-week intervention was administered under IRB approval recorded as Zhejiang University [2025-17] and the paper was received in February 2026; the paper does not state the calendar dates of data collection. Both the model and the multi-agent tooling are tied to that window and have since moved on.
 - The quasi-experimental design assigned by intact class, producing baseline imbalances in gender (χ²(2) = 13.51, p = 0.001) and major (χ²(12) = 150.87, p < 0.001). AI presence and collaboration structure varied together, and prior collaborative experience and prior course performance were not measured as covariates.
 - The study sits in a single context — 87 undergraduates in one micro-course design course at one public university in eastern China — which the authors say limits generalizability across disciplines, educational levels and collaborative arrangements.
 - Measurement was narrow: the knowledge test was short, only overall project scores were available rather than rubric dimensions, critical thinking awareness was four self-reported items, and the process analysis relied solely on dialogue data.
