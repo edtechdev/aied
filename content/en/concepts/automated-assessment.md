@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T19:45:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -91,6 +91,12 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Fairness and defensibility:** flagging low-confidence cases for review reduces the risk of confidently wrong scores, especially for atypical or underrepresented responses.
 
 - **Rubric generation and instructor-supervised grading pipelines:** [[harmogen-ai-assessment-rubric-generation|Mendonça et al. (2026)]] show that LLM-generated assessment rubrics (HARMOGEN-R) can match human-created rubrics for technical content within a ±5-point equivalence margin, with structured generation giving greater cross-model consistency. [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluate an end-to-end GPT-4o grading pipeline where AI grades fell within 0.5 points of the instructor in 83% of 362 submissions (MAE 0.31) — best framed as a scalable supplement to, not a replacement for, instructor judgment.
+
+## Assessing teaching rather than work
+
+Automated assessment usually scores what students produce, leaving the [[teacher-role|teacher's own performance]] to human observation. A 2026 integrative review turns the tools on teaching itself, mapping 21 studies drawn from 367 records in Scopus, Web of Science and ERIC ([[dino-ai-teacher-performance-learner-behavior-review-2026|Dino et al., 2026]]). It followed Whittemore and Knafl's five-stage design with PRISMA reporting, appraised quality with MMAT 2018 — 89 of 105 criteria rated Yes — and built its keyword map in VOSviewer.
+
+Four themes organize the corpus: **Evaluation**, models scoring teachers from student feedback and survey data; **Engagement**, tools sorting students by engagement level in online, on-site and hybrid settings; **Expression**, sentiment and topic coding of written student feedback; and **Experience**, sensor and video capture of observable classroom behavior. Teacher performance was the most common target, at 11 of 21 studies. The authors ran no [[meta-analysis-systematic-review|meta-analysis]], because methodological and outcome heterogeneity ruled out pooling, and 7 of the 21 studies had 100 participants or fewer — so the review maps a fragmented field rather than estimating how well AI judges teaching.
 
 ## Quality and fairness
 
@@ -209,3 +215,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution
 - [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading (Epstein 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Assessing teaching rather than student work, without pooling

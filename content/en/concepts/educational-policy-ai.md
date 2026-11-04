@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T19:45:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -103,6 +103,8 @@ Policy and governance are closely related but distinct, and keeping them apart m
 - **Governance is the *machinery* — how it is decided, implemented, and enforced.** Governance encompasses the institutional structures, norms, and accountability mechanisms that produce, carry out, and monitor policy: who sets the rules, how they are communicated and resourced, how compliance is enforced and challenged, and how they are revised as AI evolves. It answers *"who decides, and how do the rules actually take effect?"*
 - **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The knowledge base's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without [[bias-mitigation|fairness]] (see [[governance|AI governance]]).
 
+**Procurement sets the data environment before any pedagogy is decided.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey and Davies (2026)]] treat platform dependency as a governance risk rather than a cost line, since the contract decides [[privacy|data sovereignty]], audit rights and exit terms. They argue this as a conceptual proposition from an interpretive review, not from institutional evidence.
+
 Senior AI leadership is rare relative to strategic ambition. A scoping review of 19 sources found only 7% of institutions had created senior AI leadership roles though 49% treated AI as a strategic priority, with most included studies conceptual or cross-sectional, so no causal effect of anticipatory governance could be established ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
 The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the knowledge base treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
@@ -180,3 +182,4 @@ The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-e
 - [[genai-use-changing-institutional-policy-physics-2026]] — Policy tier versus task design: what students used GenAI for across three physics assessments (Quince & Faulconer 2026)
 - [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — England's EdTech Impact Testbed as anticipatory governance: pilots that produce promissory evidence (Williamson et al
+- [[pandey-davies-he-governance-administrative-ai-2026]] — Procurement sets the data environment before pedagogy

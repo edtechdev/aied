@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-04T15:40:00-05:00"
+updated: "2026-11-04T19:45:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -35,6 +35,8 @@ Proposed by Davis (1989), TAM explains adoption through two core beliefs — **P
 
 ### UTAUT / UTAUT2 / UTAUT3
 The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
+
+**In an already-adopted sample, habit carries the model and the expectancies go quiet.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] tested UTAUT2 on 310 [[business-education|marketing students]] at two Latin American universities: habit predicted intention at β = 0.426 and use at β = 0.412, and intention predicted use at 0.324. Performance expectancy (0.037), effort expectancy (0.054) and social influence (0.048) were not significant, in a model explaining R² = 0.665 of intention and 0.707 of use. The authors read the null paths as variance restriction in a population that had already adopted the tool; the outcome is [[self-report-measures|self-reported]] use, not logged behavior.
 
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
@@ -149,3 +151,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
+- [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population

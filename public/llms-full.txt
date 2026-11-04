@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 223 concepts, 2019 articles, and 42 FAQs.
+> Complete text of 223 concepts, 2023 articles, and 42 FAQs.
 
 # Concepts
 
@@ -11108,6 +11108,7 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - **Instructor and employer priorities diverge.** A survey of 500 US instructors and an employer panel agreed on the importance of only one of 26 AI skills — setting realistic expectations for AI-augmented work — and only three of the 26 were taught by half or more instructors ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
 - **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured [[educational-development|professional development]], yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
 - **Teacher educator professional development as model-building:** [[adaptive-ai-model-teacher-educators-2025|Eyal (2025)]] ran a year-long 180-hour course in which 22 higher-education teacher educators co-designed the Adaptive Artificial-Intelligence-Literacy Model, replacing fixed competency ladders with three inter-related axes (context fit, professional needs, dynamic development) and a 20-item reflective [[self-assessment]] questionnaire. The design premise is that AI literacy is situational: a pre-service teacher in a resource-limited setting, a subject teacher, and a principal need different competencies, so professional development should target role-specific judgment rather than a standardized rubric.
+- **A technical profession's AI practice can outrun its teaching pathway.** In a 560-record review (Scopus 426, PubMed 1, IEEE 133), [[morales-cevallos-ai-forensic-science-education-2026|Morales-Cevallos et al. (2026)]] found 21 empirical studies, 18 technical and only 3 educational. Their [[curriculum-design|curriculum]] argument rests on the apprentice model's limits, [[ai-literacy|algorithmic literacy]] as a foundational requirement, and [[explainable-ai|explainability]] under cross-examination; yet their six-pillar framework was not prespecified or validated, and the only student sample, a K-12 program in Korea, tested no training intervention with forensic professionals.
 - **What training should target:** the field's measurement base lags the technology it describes. In a [[meta-analysis-systematic-review|systematic review]] of 33 teacher AI literacy instruments, [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] found that 29 (87.9%) targeted general AI concepts while only four (12.1%), all published in 2025, addressed generative AI. If instruments track what training is meant to build, that distribution marks generative-AI competence in teaching as the least measured and most urgent target for professional development.
 - **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. gray literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that [[higher-ed|higher education]] prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered work in an automated economy.
 - **Skill-sustaining designs lose under throughput metrics.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] argues that reflective interaction contradicts the faster-decisions, higher-throughput promise driving AI adoption in professional work: a controlled study can absorb the friction, an environment measuring performance by speed or quantity cannot, and where rivals offer equivalent support without friction, skill-sustaining designs become a competitive disadvantage — a problem the paper says may belong to organizational policy or government rather than interaction design.
@@ -11186,6 +11187,7 @@ Professional training differs from academic education in its focus on applied sk
 
 - [[jongkind-genai-patient-medical-communication-2026]] — Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study
 - [[cowhitt-deliberative-instructional-agents-2026]] — Deliberative instructional agents for teacher professional learning, with responsibility conditions for AI-mediated PD
+- [[morales-cevallos-ai-forensic-science-education-2026]] — When a technical profession's AI practice outruns its teaching pathway
 
 ---
 
@@ -15047,6 +15049,8 @@ Proposed by Davis (1989), TAM explains adoption through two core beliefs — **P
 ### UTAUT / UTAUT2 / UTAUT3
 The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[pre-service-science-teachers-ai-perceptions-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] extend UTAUT2 with explainable AI (Random Forest, SHAP, NCA, IPMA, K-Means) for 522 university students, finding **habit** the strongest predictor of ChatGPT intention and showing that **effort expectancy is a necessary condition rather than a linear driver** — a result only visible when XAI complements the regression.
 
+**In an already-adopted sample, habit carries the model and the expectancies go quiet.** [[pinedo-genai-adoption-marketing-students-2026|Pinedo et al. (2026)]] tested UTAUT2 on 310 [[business-education|marketing students]] at two Latin American universities: habit predicted intention at β = 0.426 and use at β = 0.412, and intention predicted use at 0.324. Performance expectancy (0.037), effort expectancy (0.054) and social influence (0.048) were not significant, in a model explaining R² = 0.665 of intention and 0.707 of use. The authors read the null paths as variance restriction in a population that had already adopted the tool; the outcome is [[self-report-measures|self-reported]] use, not logged behavior.
+
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
 
@@ -15160,6 +15164,7 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
+- [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
 
 ---
 
@@ -21127,6 +21132,12 @@ A central design goal within automated assessment is **confidence awareness**: A
 
 - **Rubric generation and instructor-supervised grading pipelines:** [[harmogen-ai-assessment-rubric-generation|Mendonça et al. (2026)]] show that LLM-generated assessment rubrics (HARMOGEN-R) can match human-created rubrics for technical content within a ±5-point equivalence margin, with structured generation giving greater cross-model consistency. [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluate an end-to-end GPT-4o grading pipeline where AI grades fell within 0.5 points of the instructor in 83% of 362 submissions (MAE 0.31) — best framed as a scalable supplement to, not a replacement for, instructor judgment.
 
+## Assessing teaching rather than work
+
+Automated assessment usually scores what students produce, leaving the [[teacher-role|teacher's own performance]] to human observation. A 2026 integrative review turns the tools on teaching itself, mapping 21 studies drawn from 367 records in Scopus, Web of Science and ERIC ([[dino-ai-teacher-performance-learner-behavior-review-2026|Dino et al., 2026]]). It followed Whittemore and Knafl's five-stage design with PRISMA reporting, appraised quality with MMAT 2018 — 89 of 105 criteria rated Yes — and built its keyword map in VOSviewer.
+
+Four themes organize the corpus: **Evaluation**, models scoring teachers from student feedback and survey data; **Engagement**, tools sorting students by engagement level in online, on-site and hybrid settings; **Expression**, sentiment and topic coding of written student feedback; and **Experience**, sensor and video capture of observable classroom behavior. Teacher performance was the most common target, at 11 of 21 studies. The authors ran no [[meta-analysis-systematic-review|meta-analysis]], because methodological and outcome heterogeneity ruled out pooling, and 7 of the 21 studies had 100 participants or fewer — so the review maps a fragmented field rather than estimating how well AI judges teaching.
+
 ## Quality and fairness
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
@@ -21244,6 +21255,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution
 - [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading (Epstein 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Assessing teaching rather than student work, without pooling
 
 ---
 
@@ -25003,6 +25015,8 @@ Policy and governance are closely related but distinct, and keeping them apart m
 - **Governance is the *machinery* — how it is decided, implemented, and enforced.** Governance encompasses the institutional structures, norms, and accountability mechanisms that produce, carry out, and monitor policy: who sets the rules, how they are communicated and resourced, how compliance is enforced and challenged, and how they are revised as AI evolves. It answers *"who decides, and how do the rules actually take effect?"*
 - **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The knowledge base's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without [[bias-mitigation|fairness]] (see [[governance|AI governance]]).
 
+**Procurement sets the data environment before any pedagogy is decided.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey and Davies (2026)]] treat platform dependency as a governance risk rather than a cost line, since the contract decides [[privacy|data sovereignty]], audit rights and exit terms. They argue this as a conceptual proposition from an interpretive review, not from institutional evidence.
+
 Senior AI leadership is rare relative to strategic ambition. A scoping review of 19 sources found only 7% of institutions had created senior AI leadership roles though 49% treated AI as a strategic priority, with most included studies conceptual or cross-sectional, so no causal effect of anticipatory governance could be established ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
 The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the knowledge base treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
@@ -25080,6 +25094,7 @@ The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-e
 - [[genai-use-changing-institutional-policy-physics-2026]] — Policy tier versus task design: what students used GenAI for across three physics assessments (Quince & Faulconer 2026)
 - [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — England's EdTech Impact Testbed as anticipatory governance: pilots that produce promissory evidence (Williamson et al
+- [[pandey-davies-he-governance-administrative-ai-2026]] — Procurement sets the data environment before pedagogy
 
 ---
 
@@ -25121,6 +25136,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen [[sustainability|Sustainable Development Goals]]. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires [[stakeholders|policymakers]] and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
 - **Most education governance is guidance, not law.** Across 160 English-language documents, only 4 took formal legal or regulatory form while 92 were guidance, frameworks or toolkits, and accountability appeared in 146 documents but paired with a named oversight actor in 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
+
+- **Administrative AI makes governance a service-operations question, not a classroom one.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey and Davies (2026)]] scope administrative AI to recruitment, admissions, enrollment, records, advising, housing, welfare and careers, and exclude teaching, learning and research by definition. Their socio-technical framework offers three testable propositions: joint optimization of technology with roles and accountability, the politics of artifacts, and globally shaped infrastructure. Five drivers explain adoption: infrastructural readiness and commercial platform ecosystems enable and steer it, while competitive positioning under enrollment volatility, regulatory and mobility mandates, and sustainability legitimacy motivate it. Four leadership capabilities follow — contractual literacy, interrogating the objective, restraint under pressure and standing participation. This is a conceptual analysis and interpretive review, so the propositions are offered for testing rather than established.
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 - **Redesign runs on three dimensions at once.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] frames AI-era assessment redesign through cultural-discursive (language and assumptions), material-economic (resources), and social-political (governance and power) dimensions, and names the resource-power intersection as both the greatest leverage point and the greatest risk: resources flowing through existing power structures amplify inequities.
@@ -25246,6 +25263,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegation, evidence and access: what agentic AI changes in university assessment governance (Wong & Sun 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI prototypes and school pilots as governance machinery that prefigures a chosen future (Williamson et al
 - [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
+- [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
 
 ---
 
@@ -63229,6 +63247,76 @@ Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, 
 
 ---
 
+## [Twenty-One Studies, Two Separate Targets: AI Assessment of Teacher Performance and Learner Behavior in Higher Education](https://edtechdev.github.io/aied/articles/dino-ai-teacher-performance-learner-behavior-review-2026/)
+
+> **Synthesis:** An integrative review of 21 studies, drawn from 367 records in Scopus, Web of Science and ERIC, maps how AI is used to assess teaching and learning in [[higher-ed|higher education]] between 2018 and 2026. Its organizing result is a split: 11 of the 21 studies assess teacher performance and only 4 assess learner behavior, with just 2 examining both at once. The authors report no pooled effect — they state explicitly that heterogeneity ruled out [[meta-analysis-systematic-review|meta-analysis]] — so the contribution is a descriptive and thematic map of a fragmented field rather than an estimate of how well AI judges teaching.
+
+## What the review finds
+
+1. All 21 included studies were empirical and were published between 2018 and 2026, with activity concentrated in 2025 (*n* = 7; 33.33%) and 2024 (*n* = 6; 28.57%).
+2. Teacher performance was the most frequently assessed dimension (*n* = 11; 52.38%), followed by learner behavior (*n* = 4; 19.05%) and learner performance (*n* = 3; 14.29%). No study assessed teacher behavior as a standalone dimension.
+3. Only 2 of the 21 studies (9.52%) assessed teacher performance and learner behavior concurrently, and 3 of 21 combined any two dimensions — learner behavior with teacher performance, learner behavior with learner performance, or learner performance with teacher behavior.
+4. Machine learning (*n* = 6; 28.57%) and natural language processing (*n* = 6; 28.57%) were the most common approaches. Computer vision and multimodal or speech recognition appeared in 3 studies each (14.29%), and 3 studies did not name a technology.
+5. Data sources split along the assessment target: teacher-focused studies worked mainly from student-written feedback, survey responses and learning management system records, while learner-focused studies drew on classroom video, activity logs and facial-expression analysis.
+6. Four thematic domains organize the corpus: Evaluation (*n* = 8), Engagement (*n* = 6), Expression (*n* = 5) and Experience (*n* = 5). Three studies sit in two domains because their stated purposes spanned both.
+7. Keyword network mapping produced eight clusters, but only one of them — Data-Driven Performance Assessment — spans teacher and learner targets together.
+
+## How the review was assembled
+
+The authors followed the five-stage integrative review framework of Whittemore and Knafl and reported identification and selection against PRISMA. Three databases supplied the records: Scopus (172), Web of Science (102) and ERIC through EBSCO (93), for 367 in total. Covidence removed 103 duplicates (4 manually, 99 automatically), leaving 264 records for title and abstract screening. Of those, 198 were excluded; 66 full texts were assessed, and 45 were excluded — 27 for the wrong study outcome, 13 for the wrong intervention, 3 for the wrong study characteristics, 1 for the wrong population and 1 because the full text was unavailable.
+
+Eligibility was set with the PICo framework rather than PICO, and no comparator was required, which is what lets a corpus of single-group system descriptions and prediction studies into the same synthesis. Two reviewers screened independently and the principal investigator settled conflicts. Quality was appraised with the Mixed Methods Appraisal Tool, version 2018, reported criterion by criterion because MMAT guidance discourages a single summed score; no study was excluded on quality grounds. The keyword map came from VOSviewer 1.6.20, using 46 keywords, 141 links, full counting and a minimum occurrence threshold of one.
+
+Two labeling details are worth recording. The journal's type line calls the paper a systematic review while the title and abstract call it an integrative review, and the protocol is registered on the Open Science Framework. The review was also corrected on 30 October 2026, with the note that the correction does not affect the scientific content.
+
+## What the four themes actually claim
+
+Under **Evaluation**, machine learning, NLP and large language model systems scored or predicted teacher performance from student-derived data, with high accuracy where a figure was reported. One study in this group, Zion et al. (2025), found that AI-generated scores aligned only moderately with student perceptions of teaching — a limit the authors return to in the discussion.
+
+Under **Engagement**, AI tools sorted students by engagement level in online, on-site and hybrid settings. The review records a specific failure mode: an image-only approach was constrained by privacy requirements and by insufficient visual context, which the authors attribute to Spivakovskiy et al. (2025).
+
+Under **Expression**, NLP and sentiment models classified written student feedback by sentiment, topic or rating, again with high accuracy where reported. One included study found that the models reproduced biases already present in student ratings (Rybinski and Kopciuszewska, 2021).
+
+Under **Experience**, machine learning, deep learning and sensor-based tools captured observable classroom behavior, including in physical education settings.
+
+These are the authors' summaries of what individual included studies reported. They are not pooled quantities, and the review does not convert them into a shared metric.
+
+## Why there is no pooled estimate
+
+The review contains no meta-analysis, and the authors say so directly: the included studies were too heterogeneous in method and outcome to combine. Every number in the paper is therefore either a count of studies or a percentage of the 21-study corpus, or a result attributed to a named source article.
+
+That matters for how the paper should be read. Statements such as "performance was high where quantified" describe a pattern across studies that each used their own model, dataset and accuracy definition. The authors themselves flag that the evidence rested largely on student-derived ratings and on small or single-context studies, and they call the findings indicative rather than conclusive. The discussion also separates patterns found in the 21 studies from external references used only as context — a distinction worth preserving, because several of the more striking figures quoted in that discussion come from outside the review corpus.
+
+## Quality and coverage
+
+The design mix was 10 quantitative non-randomized studies, 5 mixed methods, 4 quantitative descriptive and 2 qualitative. No randomized controlled trial was included. Of 105 criterion-level MMAT judgments, 89 were rated Yes, 8 No and 8 Can't Tell; 13 studies met all five criteria and 16 met at least four. All qualitative and mixed-methods studies met every applicable criterion.
+
+Weakness concentrated in sampling. Among non-randomized studies, all 10 met the outcome-measurement and outcome-completeness criteria, but only 6 were rated Yes on participant representativeness and 7 on confounder control. Descriptive studies were the weakest group, with 1 of 4 rated Yes on low nonresponse bias and 2 of 4 on sample representativeness. Most Can't Tell ratings fell on sampling items, which the authors read as incomplete reporting rather than demonstrated design failure. The three lowest-rated studies met two of five criteria.
+
+Coverage is uneven in ways that constrain the map. The Western Pacific Region supplied 8 studies (38.10%), Europe 5 (23.81%) and South-East Asia 4 (19.05%), while the Americas and the Eastern Mediterranean supplied 2 each and no study came from the African Region. On-site delivery was the most common mode (7 studies; 33.33%), followed by online synchronous (5; 23.81%). Seven of the 21 studies had 100 or fewer participants.
+
+## What this means for practice
+
+- **Institutions.** Treat vendor and pilot accuracy claims as single-context results. The review found no pooled evidence that AI assessment generalizes, and 7 of 21 studies drew on 100 or fewer participants.
+- **Quality-assurance offices.** Do not substitute algorithmic scores for student evaluations of teaching. The one included study that compared the two found only moderate alignment, and another found sentiment models reproducing the biases already in rating data.
+- **Researchers.** The open question is the paired one: only 2 of 21 studies measured teacher performance and learner behavior together. A design that captures both, with synchronized data, addresses the gap the review identifies rather than adding another single-target study.
+- **Tool builders.** Text-based approaches dominated because the data already exists in [[feedback|feedback]] forms and LMS logs; [[learning-analytics|learning analytics]] infrastructure makes them cheaper to deploy than video or sensor pipelines. The review's account of image-only engagement detection suggests the cheaper route is also the more privacy-defensible one.
+
+## Limitations
+
+- The search covered only Scopus, Web of Science and ERIC, omitting IEEE Xplore and the ACM Digital Library, which likely underrepresents computer science work on system design and technical implementation.
+- Only peer-reviewed English-language journal articles were eligible, so conference proceedings, dissertations and technical reports were excluded — a publication and language bias that may cut off the newest technical work.
+- The evidence base is 21 studies, and no meta-analysis was possible because of methodological and outcome heterogeneity, so the synthesis carries no pooled estimate and limited generalizability.
+- Inter-rater agreement was not calculated, the keyword map used a minimum occurrence of one and is exploratory, and MMAT is not designed for algorithm-development studies, so the quality ratings should be read cautiously.
+- [[educational-measurement|Measurement]] practice varied across studies — different models, datasets and accuracy definitions — and nearly one-third of studies had 100 or fewer participants, with sample units ranging from individuals to reviews and comments.
+- Geographic representation is uneven, with the largest share from the Western Pacific and none from the African Region, which limits claims about institutional applicability elsewhere.
+
+## Citation
+
+Dino, M. J., Bahaynon, P. S., Beniopa, J., Villaluz, M. F., Maravillas, S. M., Cruz, L. E., Zou, J., Lanuza, E., Maroma, P., & Shattell, M. (2026). [Assessment of teacher performance and learner behavior using artificial intelligence in higher education: an integrative review of literature](https://doi.org/10.3389/feduc.2026.1949516). *Frontiers in Education, 11*, 1949516.
+
+---
+
 ## [Prompt-based emotional scaffolding in generative AI: Effects on self-regulated learning and socio-emotional outcomes](https://edtechdev.github.io/aied/articles/diordiev-emotional-scaffolding-genai-srl-2026/)
 
 > **Synthesis:** Diordiev, Stenberdt and Makransky (2026) ran a preregistered randomized experiment with 144 Danish high school students in a regular psychology lesson, giving each a 25-minute [[conversational-ai|chatbot]] session on the multi-store memory model in one of three conditions: plain [[generative-ai|ChatGPT]], an SRLbot built to scaffold the forethought, performance and [[reflection|self-reflection]] phases of [[self-regulated-learning|self-regulated learning]], and an Emotional SRLbot that added control-value-theory-driven emotional support, asking students how they felt at three points and adapting tone, challenge and affective scaffolding in response. The learning results were null in the way that matters: conceptual knowledge and transfer rose in every condition with large within-group effects, and the time-by-condition interaction was flat (η2 < 0.001 for knowledge, 0.001 for transfer), so the designed bots did not produce more learning than plain ChatGPT in 25 minutes. What did separate the conditions was behavior and emotion, and the two sources of evidence disagreed in an instructive way. [[self-regulated-learning|Self-reports]] showed a condition effect only in the performance phase. Trace coding of the dialogue showed large condition effects in all three phases (ε2 of 0.44, 0.34 and 0.34), with the emotional layer adding significantly more performance-phase and self-reflection activity on top of SRL scaffolding alone. Enjoyment rose and boredom fell under both scaffolded bots but not under plain ChatGPT, hopelessness fell everywhere, and [[self-efficacy]] and [[trust]] did not move at all. The study's honest contribution is a phase-level account of what a prompt can do: [[scaffolding|cognitive scaffolding]] buys forethought, and the emotional layer buys the later phases.
@@ -94199,6 +94287,72 @@ Krebsbach, J. M., & Cross, V. L. (2026). [*Navigating the moral panic: encouragi
 
 ---
 
+## [Forensic AI Is Ahead of Forensic Teaching: A Systematic Review That Says So](https://edtechdev.github.io/aied/articles/morales-cevallos-ai-forensic-science-education-2026/)
+
+> **Synthesis:** A PRISMA [[meta-analysis-systematic-review|systematic review]] searched 560 records from Scopus, PubMed and IEEE Xplore for work published between 2020 and 2025 on AI in forensic science. Of the 21 empirical studies it retained, three carried direct educational or training evidence and 18 were technical studies of AI performance. No study tested an AI teaching intervention with forensic students or measured learning in a forensic curriculum. The review's curriculum argument — a six-pillar competency framework — is the authors' inference from technical applications, and they say so explicitly.
+
+## Key Findings
+
+1. The search, run on 16 July 2026, returned 560 records: 426 from Scopus, 1 from PubMed and 133 from IEEE Xplore, covering publications from 2020 to 2025.
+2. Screening removed 171 records at identification and 361 more at title and abstract review, leaving 28 for full-text assessment; seven review articles were then excluded for carrying no original data, leaving 21 empirical studies.
+3. Three of those 21 met at least one educational criterion and were labeled direct educational evidence. The other 18 evaluated technical performance and were analyzed separately, expressly not as evidence that AI improves learning.
+4. The three educational studies involved 596 Korean school students in an AI and creativity program, 10 retired forensic experts rating AI crime-scene reports, and 53 digital-forensics professionals surveyed in the MENA region. None involved forensic students or a forensic curriculum.
+5. Across the technical corpus, 52.4% of applications were coded at the applied stage, 42.9% at development and 4.7% at the initial stage. Performance was the primary variable in 85.7% of studies and skill development in 14.3%.
+6. The proposed framework has six pillars: computational foundations, interdisciplinary collaboration, [[experiential-learning|experiential learning]], statistical reasoning and data literacy, embedded [[ethics]], and faculty development, with human oversight as a cross-cutting principle.
+
+## What the review counted, and what it deliberately did not
+
+The design is unusually candid about its own limits. Studies were split into two streams before synthesis. Direct educational evidence required an identifiable educational or training context, an AI-supported teaching or learning intervention, or a measured educational outcome. Everything else was held back as contextual technical evidence, used only to infer which competencies future practitioners might need. The authors repeat that boundary in the methods, the results, the discussion and the limitations, which is more discipline than most reviews of this kind show.
+
+That split is also why the headline number matters. Twenty-one studies sounds like a corpus. Three studies is an evidence base, and the review says as much: direct empirical support for AI-enhanced forensic education "remains limited," and the scarcity is described as an important evidence gap rather than a finding to be worked around.
+
+The imbalance is the paper's real result. Technical work on segmentation, age estimation, diatom detection, malware classification and generated-image attribution is advancing quickly and is often validated on real case material. Work on how any of it should be taught is close to absent. The authors read that gap as a curriculum problem: the field is producing tools faster than it is producing practitioners who can interrogate them.
+
+## Three educational studies, none of them in a forensic classroom
+
+The label "direct educational evidence" is doing less work than it appears to. The inclusion rule accepts any one of three conditions — a training context, an intervention, or a measured outcome — so a study of professionals rating tool outputs can qualify without ever measuring learning.
+
+Farber (2025) asked 10 retired forensic experts with at least five years of crime-scene experience to judge AI-generated reports on 30 images. The models reached an overall reliability rating of 7.4 out of 10 and produced an analysis in under two minutes against 42.5 minutes for human review on average. That is a workflow study with expert raters, not a test of what novices learn.
+
+Natsheh (2025) surveyed 53 digital-forensics professionals across the MENA region and reported faster evidence review, better attribution and roughly one-third lower breach-response costs, alongside substantial skills and governance gaps. The training need is inferred from practitioners describing their work, not from a training program.
+
+Only Hwang et al. (2022) worked with students: 596 elementary, middle and high school students across 23 Korean schools in a creativity-oriented program that touched coding, AI humanities and digital-forensic concepts. Satisfaction averaged 4.18 on a five-point scale (SD 0.48) and creativity scores 4.05 (SD 0.38), with no control group and no pretest. It is a K-12 enrichment program, not [[professional-training|professional training]] in forensic science.
+
+Read together, the three studies support a claim about workforce readiness and almost nothing about [[higher-ed|university]] teaching. There is no comparison of AI-supported and conventional instruction, no pre/post measurement of forensic reasoning, and no follow-up on whether any skill persisted.
+
+## The six pillars are an inference, and the paper is honest about it
+
+Section 2.7 is the most important paragraph for anyone citing this work. The framework was not prespecified, was not developed through a formal framework-development or validation procedure, and was generated by a narrative, competency-oriented reading of recurring themes. The authors state that it should be read as a proposed conceptual synthesis rather than an empirically validated educational model.
+
+What the technical studies can legitimately supply is a list of failure modes that graduates should recognize. Qin et al. (2024) trained a model on living-person CT and saw performance drop on cadaver scans — textbook domain shift. Farber's models produced incomplete or unreliable interpretations that varied by scene type. Sessa et al. (2025) found strong recognition of intact skin but weak exit-wound classification. Each pillar can be traced to observations like these rather than to a learning study, and that is the correct direction of inference: the technology shows what can go wrong, so the curriculum should teach students to notice it.
+
+The pedagogical proposals themselves are conventional and defensible. Teach model provenance and validation, not just tool operation. Put [[simulation|simulated]] casework and comparative human–AI assessment into laboratory courses. Teach confidence intervals, sensitivity and false discovery rates alongside forensic measurement. Embed [[ai-literacy|algorithmic literacy]] and bias review in subject courses rather than in a standalone ethics module. Require [[explainable-ai|explainability]] as a courtroom skill, since an expert who cannot describe how a system reached a conclusion cannot defend it under cross-examination.
+
+None of that is tested here. It is a well-argued syllabus written from the failure modes of 18 technical papers, and the review's own conclusion asks for exactly the evaluation it could not find.
+
+## What this means for practice
+
+- **Curriculum designers.** Treat the six pillars as a hypothesis list with named outcome measures, not as an adoptable standard. The paper supplies no evidence that any pillar improves learning, and its own authors say the framework needs content-validity and feasibility testing.
+- **Forensic program leads.** The teachable content is concrete even where the pedagogy is not. Domain shift, class imbalance, hallucination and automation bias are documented in the included studies, so case-based exercises can be built from real reported failures without waiting for an RCT.
+- **Faculty developers.** The review's faculty-development pillar rests on the observation that many forensic educators were trained before AI entered practice. That is a plausible need, but the review found no study of faculty development, so any program should measure its own effect.
+- **Researchers.** Three studies, no learner sample in a forensic program, and no validated instrument. The obvious next study is a controlled comparison of AI-supported and conventional forensic instruction with pre/post reasoning measures.
+- **Policymakers and administrators.** Do not cite this review as evidence that AI improves forensic education. Cite it as evidence that the field has not yet asked the question, which is a different and more useful claim.
+
+## Limitations
+
+- Only three of 21 included studies carried direct educational evidence, and the evidence was too heterogeneous in design, population and outcome measure for quantitative synthesis; the review is a mapping exercise, not an effect estimate.
+- The PubMed search returned a single record, which the authors attribute to the restrictive intersection of forensic, AI and education terms; the disciplinary map therefore reflects Scopus coverage and may under-represent medical-education literature.
+- Two of the three educational studies used professionals rating or reporting on tools rather than learners in a course, and the third was a K-12 program outside forensic science, so the education stream is thinner than its label suggests.
+- The six-pillar framework was not prespecified and underwent no formal development or validation procedure; no content-validity, feasibility or implementation study of the framework is reported.
+- The stage and outcome distributions (52.4%, 42.9%, 4.7%; 85.7% performance, 14.3% skill development) rest on the authors' own coding, and the review reports no inter-rater reliability for those judgments.
+- The review is a synthesis of published abstracts and full texts only; no program documents, accreditation standards or graduate outcome data were examined, so curriculum claims rest entirely on the research literature.
+
+## Citation
+
+Morales-Cevallos, M. B., Ma Lam, C. B., Dickens Guerrero, K. D., & Vique Lopez, D. F. (2026). [Artificial intelligence applications in forensic science and their implications for education and training](https://doi.org/10.3389/feduc.2026.1956809). *Frontiers in Education, 11*, 1956809.
+
+---
+
 ## [MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory](https://edtechdev.github.io/aied/articles/motibo-digital-storytelling-robots-motivation-2026/)
 
 > **Synthesis:** Fung and Lui (2026) examine the impact of MotiBo, an interactive [[storytelling-in-education|digital storytelling]] system incorporating a human-like robot, on [[student-engagement|student engagement]] and [[creativity]]. Recognizing that storytelling can enhance motivation and engagement but that conventional methods often lack interactive elements, the study compares engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling. Using a quasi-experimental design with three groups of students over a five-day learning period, the study finds that students using MotiBo exhibit statistically significant improvements in behavioral and cognitive engagement compared with traditional methods.
@@ -98106,6 +98260,83 @@ Panda, S. (2026). [*Editorial: Digital transformation in open and flexible educa
 
 ---
 
+## [Higher Education Governance Under AI and Geopolitical Disruption: A Socio-Technical Framework for Administrative AI](https://edtechdev.github.io/aied/articles/pandey-davies-he-governance-administrative-ai-2026/)
+
+> **Synthesis:** Pandey and Davies argue that administrative AI — [[conversational-ai|chatbots]], predictive analytics and automated screening applied to recruitment, admissions and student services — has reached the administrative core of [[higher-ed|universities]] at a moment when geopolitical disruption is making international enrollment volatile. Their conceptual framework names five drivers of adoption, reads them through socio-technical systems theory, and works the reading against institutional cases and documented episodes of failure. The central claim is that administrative AI poses a [[governance|governance]] question rather than a technical one: whether it produces resilience or dependency turns on procurement terms, contestability, participation and what gets audited.
+
+*Conceptual paper: the authors present a framework and three propositions, not data. No systems were evaluated, no institutions surveyed and no model tested. Every figure below is attributed to the study or agency that produced it, and the governance conditions are implications derived from the analysis rather than findings from institutional evidence.*
+
+## What the framework argues
+
+1. **Administrative AI is a defined object, not a general label.** The authors mean AI applied to administrative services rather than to teaching, learning or research, concentrated on front-office work: recruitment and admissions, enrollment, student records, advising, housing, welfare and careers.
+2. **The boundary with teaching is analytical, and the paper says so.** Administrative systems reach academic work by shaping cohort composition, sending risk flags to academic desks as requests to intervene, and fixing the data environment through procurement.
+3. **Three propositions carry the socio-technical reading.** Joint optimization holds that altering technology without redesigning roles, skills and accountability impairs performance. The politics of artifacts holds that assumptions enter through training data, categories, optimization targets and thresholds. Globally shaped infrastructure holds that whatever makes the technology feasible also makes the institution dependent.
+4. **Five drivers explain adoption, each with a mechanism, actors and a characteristic risk.** They are infrastructural readiness, competitive positioning under enrollment volatility, regulatory and mobility mandates, commercial platform ecosystems, and sustainability legitimacy. The first and fourth enable and steer adoption; the second, third and fifth motivate it.
+5. **Combinations, not single drivers, predict the pathway.** Mandate without infrastructure yields symbolic adoption; infrastructure and vendor push without a mandate yield product roadmaps; volatility under acute pressure yields systems that are brittle when resilience is most needed.
+6. **Governance conditions and leadership capabilities are the payoff.** Conditions are attached to the actor able to act on them, and four capabilities are named: contractual literacy, interrogating the objective, restraint under pressure and standing participation.
+
+## Why an efficiency framing misses the governance question
+
+If administrative AI is classified as routine efficiency, the authors argue, three things disappear: that it moves work around, that it converts values into procedures, and that it ties a university to data infrastructures governed elsewhere.
+
+The discretion argument is borrowed from public administration and applied where it is rarely asked. Bovens and Zouridis traced how information technology moved discretion from frontline staff to system designers, producing screen-level and then system-level bureaucracies. Their question was constitutional: where has discretion gone, and who answers for it now? The authors put it to admissions, progression and student support, where a threshold stands in for a judgment a person used to make.
+
+Surveillance is defined in Lyon's technical sense as focused, systematic, routine attention to personal details in order to influence, manage or control someone. Much administrative AI qualifies regardless of intent, and whether it is objectionable depends on proportionality and on whether anyone can challenge it.
+
+The theoretical contribution is a coupling the authors claim neither tradition predicts alone. Volatility supplies the reason to automate and shortens the time available to absorb the system. The technology bought to absorb the shock is then procured from outside the jurisdiction whose policy produced it. Exposure and remedy run through one channel, so the institution most exposed to a mobility shock is least able to govern the system it buys to manage that shock.
+
+## Where the administration and learning boundary sits
+
+Administrative AI covers conversational agents answering applicant inquiries, predictive analytics forecasting enrollment or flagging students at risk, and automated or assisted screening in recruitment, admissions and progression. Teaching, research and the back office sit outside the scope.
+
+A model settling which applicants look promising also settles the composition of the cohort a curriculum is designed for. Risk flags arrive on academic desks as requests to intervene, changing what advising asks of teaching staff. Procurement carries furthest, because the platform holding student records sets the data environment in which research ethics, institutional research and learning analytics all operate. Administrative AI reaches teaching through consequences, not through any classroom tool.
+
+A single risk-based instrument could govern both halves, as Temper et al.'s teaching-life-cycle framework would, so the boundary is an analytical convenience rather than a firewall.
+
+## The five drivers, and the paths they send institutions down
+
+Infrastructural readiness works by enablement. Cloud storage, fast processors and reliable data pipelines lower the threshold at which adoption becomes practicable. Dependency arrives packaged with feasibility.
+
+Competitive positioning works through advantage-seeking and risk anticipation in markets exposed to migration policy. The illustration is Canada's January 2024 cap on new international study permits, intended to cut admissions by 35 percent against 2023. Just under 268,000 permits were granted that year, a fall of 48 percent that left the government roughly 100,000 permits short of its own target, and program suspensions followed, on the ICEF Monitor account the authors cite. For institutions dependent on international enrollment, analytics stops being an instrument of advantage and becomes an early-warning system. The risk is that yield, conversion and ranking position quietly define which applicants count.
+
+Regulatory and mobility mandates arrive through two channels the literature keeps apart. [[educational-policy-ai|Education policy]] constrains as it pushes, through mandates, grant conditions and sector strategies. Migration compliance pushes without constraining, through visa regulation, attendance monitoring and right-to-study checks. Intrusive monitoring is then imposed on institutions rather than chosen by them, and some of the most intrusive data practices in higher education are not chosen by universities at all.
+
+Commercial ecosystems work on the supply side. Universities rarely build these systems, and regional hubs build quickly with no legacy platforms to work around. Administrative AI arrives bundled inside customer relationship management suites, enrollment platforms and student information systems already in use, and vendors settle what an AI-enabled admissions office should look like before local discussion begins. Lock-in, lost data sovereignty and eroding autonomy follow, hardest on institutions with the least in-house legal and technical capacity.
+
+Sustainability legitimacy works through audiences that judge institutions against development agendas. Leadership teams invoke SDG 4 on quality education and SDG 9 on infrastructure when arguing for investment, and the risk is symbolic alignment: deployment reported as contribution while distributional effects go unmeasured.
+
+Mandate without infrastructure produces stalled or symbolic adoption. Infrastructure and vendor push without a mandate produce adoption defined by product roadmaps, the pattern the authors find in many institutions with limited resources. Volatility under acute pressure produces systems bought but never absorbed. Institutional isomorphism explains why the same tools arrive in institutions with little else in common, and leaves open why they do not converge on the same exposure.
+
+## What the counter-cases add
+
+A literature written only about adoption acquires survivor bias, so the paper turns to failure. Five episodes are tabulated. At St George's Hospital Medical School, a screening program reproduced its staff's discrimination, as the Commission for Racial Equality found in 1988. Ofqual withdrew its 2020 standardization of teacher-assessed A-level grades within days, and the Home Office suspended its visa streaming tool in 2020 before a judicial review. DUO halted fraud-risk profiling with a ministerial apology and compensation, and India's National Scholarship Portal shows biometric failures falling hardest on manual workers.
+
+In each case a system took a high-stakes decision whose workings stayed invisible to the people affected, each was calibrated against a historical record, and none offered an effective route of appeal. Four of the five involved students at the boundary of an institution or a state — the population volatility makes both larger and more vulnerable. The correction came from outside every time.
+
+Mapped onto the drivers, the cases sort by mechanism. Ofqual and the visa tool are mandate cases, imposed at speed with no organizational absorption behind them. DUO and the scholarship portal combine mandate and infrastructure. St George's is the outlier, a competitive-positioning case with no external mandate that failed anyway. Failure follows wherever a driver supplies motive or requirement without the redesign joint optimization demands.
+
+## What this means for practice
+
+- **Institutional leaders.** Require an equity impact assessment before any AI enters an admissions, recruitment or progression decision, testing outputs against [[bias-mitigation|biases]] already in the training data, and publish a register of algorithmic systems used in decisions affecting students.
+- **Procurement.** Treat the contract as the governance instrument. Data sovereignty, audit rights, exit and portability terms decide whether the institution bought resilience or dependency.
+- **Sector bodies and policymakers.** Release model procurement terms no single institution could negotiate alone, fund shared regional and open-source infrastructure, and extend accountability across the mobility pipeline so appeal rights do not depend on whether a university or a state agency decided.
+- **Ranking and reporting bodies.** Require any SDG-linked claim about administrative AI to report distributional outcomes by the groups SDG 10 names, and decline deployment counts in their place.
+- **Researchers.** The two gaps forcing hedging throughout — administrative AI in lower-income institutions, and systematic documentation of counter-cases — are the comparative work the framework is offered to support.
+
+## Limitations
+
+- This is a conceptual analysis and an interpretive review, not a systematic one; the authors state that it stands or falls on coherence, and no data were collected to test it.
+- The literature base is mostly Anglophone and skewed toward well-resourced institutions, so claims about lower-resource systems and emerging hubs are explicitly provisional.
+- The three propositions are stated in testable form but remain untested; no causal claim about adoption, resilience or equity is established.
+- Counter-case selection rested on three stated conditions, and remote proctoring is retained with a scope caveat because it sits at the edge of the paper's own definition.
+- The governance conditions, leadership capabilities and SDG alignments are implications derived from the analysis rather than findings from institutional data.
+
+## Citation
+
+Pandey, N., & Davies, D. (2026). [Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence](https://doi.org/10.3389/feduc.2026.1997227). *Frontiers in Education, 11*, 1997227.
+
+---
+
 ## [ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding](https://edtechdev.github.io/aied/articles/paratutor-parent-child-tutoring/)
 
 > **Synthesis:** - Effective parent–child tutoring depends on preserving distinct, asymmetric roles: [[parents-and-families|parents]] guide the learning process while children remain actively engaged in understanding and reasoning.
@@ -99996,6 +100227,68 @@ Physiological stress indicators — electrodermal activity, heart rate, and skin
 ## Citation
 
 Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://arxiv.org/abs/2606.14960). arXiv preprint.
+
+---
+
+## [Habit Beats Usefulness: A UTAUT2 Survey of GenAI Adoption Among 310 Marketing Students](https://edtechdev.github.io/aied/articles/pinedo-genai-adoption-marketing-students-2026/)
+
+> **Synthesis:** A cross-sectional [[quantitative-research|survey]] of 310 marketing students at two private Latin American universities tested a [[technology-acceptance-model|UTAUT2]] model of [[generative-ai|GenAI]] adoption with PLS-SEM. Habit was the strongest predictor of both behavioral intention (β = 0.426) and self-reported use (β = 0.412), while performance expectancy, effort expectancy and social influence were statistically indistinguishable from zero. The authors read that pattern as evidence that GenAI has passed the novelty stage and settled into routine academic practice.
+
+## Key Findings
+
+1. The sample was 310 marketing students at two private universities, 201 in Peru and 109 in Costa Rica, recruited by non-probability purposive sampling in the first academic semester of 2026; 62% were female and mean age was 23 years (SD = 7).
+2. The instrument was a structured questionnaire adapted from five prior instruments — Mistry et al. (2025), Tang et al. (2025), Cabero-Almenara et al. (2025), Grassini et al. (2024) and Ren et al. (2026) — administered online through Google Forms between March and June 2026 on a five-point Likert scale.
+3. It began with 57 items and ended with 53: four indicators (EE4, EE5, FC3, SI7) were dropped for loading below 0.708, leaving retained loadings from 0.715 to 0.938, Cronbach's alpha from 0.864 to 0.946, composite reliability from 0.901 to 0.956 and AVE from 0.566 to 0.789.
+4. The model explained a large share of both endogenous constructs: *R*² = 0.665 (adjusted 0.659) for behavioral intention and *R*² = 0.707 (adjusted 0.705) for use, with Q²_predict values from 0.373 to 0.601 and PLS-SEM prediction errors below the linear-model benchmark in most indicators.
+5. Habit drove behavioral intention at β = 0.426 (*t* = 5.522, *p* < 0.001) and use at β = 0.412 (*t* = 5.920, *p* < 0.001). Hedonic motivation reached β = 0.196 (*p* = 0.008), price value β = 0.187 (*p* = 0.009), facilitating conditions on use β = 0.219 (*p* < 0.001), and intention on use β = 0.324 (*p* < 0.001).
+6. The three classic acceptance paths failed: performance expectancy β = 0.037 (*p* = 0.610), effort expectancy β = 0.054 (*p* = 0.277) and social influence β = 0.048 (*p* = 0.338), so hypotheses H1–H3 were rejected.
+7. Effect sizes told the same story. Habit was moderate on both outcomes (f² = 0.254 on intention, f² = 0.250 on use), intention and facilitating conditions were small (f² = 0.125 and 0.096), and performance expectancy, social influence and effort expectancy were effectively nil (f² = 0.001, 0.003 and 0.005).
+8. Only four of eighteen moderation hypotheses held: age on the hedonic-motivation path (β = 0.131, *p* = 0.023) and on the habit path (β = −0.130, *p* = 0.006), gender on the hedonic-motivation path (β = 0.299, *p* = 0.012), and university on the intention-to-use path (β = −0.238, *p* = 0.011).
+9. ChatGPT was the most frequently named tool, followed by Gemini and Copilot, with Perplexity, Canva, Claude and DeepSeek mentioned at lower frequency in the open-ended responses.
+
+## What the design can and cannot establish
+
+The outcome variable matters more than the headline. "Use" here (UI) is a self-reported level of GenAI use in academic activities, collected at one sitting alongside the predictors. Nothing in the study observes actual behavior, logs sessions, or follows students over time. The paper is therefore a model of *stated* adoption and *stated* use, and the authors' own limitation section concedes the point about self-report and social desirability.
+
+The design is a cross-sectional explanatory survey analyzed with partial least squares structural equation modeling in SmartPLS 4.1.1.8, using 5,000 bootstrap subsamples and the two-stage measurement-then-structure sequence. PLS-SEM estimates path coefficients under a causal diagram; it does not identify causal effects from cross-sectional data. A path from habit to use that fits well is consistent with habit causing use, with use causing habit, and with both being reflections of the same underlying routine.
+
+Sampling compounds the issue. Non-probability purposive sampling of marketing students at two private universities cannot support a population claim about Latin American [[higher-ed|higher education]], let alone about students elsewhere. The authors are careful to describe the context as underrepresented rather than to generalize, and the restriction is honest. It still bounds what a reader can take away: this is a well-measured description of one configured population.
+
+## Habit, and the risk of measuring use twice
+
+The finding that habit dominates is the paper's contribution and also its softest point. Habit is defined in Table 1 as "the extent to which students use GenAI tools automatically and frequently", and use is defined as "level of use of GenAI tools in academic activities". Those definitions sit close together, and the items follow them. A construct built from frequency and automaticity predicting a construct built from frequency is not a tautology, but it is close enough that the β = 0.412 path should be read as partial overlap rather than pure explanation.
+
+The discriminant-validity table carries the warning. The heterotrait-monotrait ratio for habit against use is 0.824 and for intention against use 0.829, both just under the 0.85 threshold the authors adopt. Performance expectancy against hedonic motivation is 0.825. These pass, but they pass narrowly, and the two pairs that matter most to the argument — habit with use, and intention with use — are the two closest to failing. A stricter threshold of 0.80 would have forced a different model.
+
+That does not void the result. The habit path survives at a moderate effect size while the performance-expectancy path sits at f² = 0.001, and that contrast is too large to be an artifact of shared item wording. The defensible reading is narrower than the abstract's: among students who already use these tools often, the frequency of that use is a better predictor of continued use than any belief about usefulness. Whether habit *causes* adoption, or is simply the trace of adoption that already happened, is not something this design can separate.
+
+## Why the null acceptance paths may be a maturity signal
+
+The three rejected hypotheses are the most interesting departure from the literature the paper cites. Grassini et al. (2024) found performance expectancy to be the strongest predictor of ChatGPT intention among European students; Acikgul and Sad (2026) found performance expectancy, hedonic motivation and habit all significant among 280 Turkish educators. Here performance expectancy is flat.
+
+The authors' explanation is plausible and worth taking seriously: when a tool is already embedded in daily coursework, beliefs about how useful or easy it is stop discriminating between users, because almost everyone holds them. Variance restriction of that kind produces exactly this pattern — high means, low spread, near-zero slopes. It is also the pattern that a sample of marketing students, a group with unusually high exposure, would generate first. The study cannot demonstrate the mechanism, since it reports no spread statistics for the expectancy items.
+
+The moderation results add a caution about the "university" moderator. The two institutions are in different countries, so the significant university effect on the intention-to-use path (β = −0.238) confounds institution with national context, curriculum, language of instruction and platform access. Calling it institutional context, as the discussion does, is one interpretation among several.
+
+## What this means for practice
+
+- **Instructors.** Do not build a case for GenAI on demonstrated usefulness. In this sample, usefulness beliefs did not predict intention. Build on routine instead: scheduled, repeated, low-stakes use inside existing assignments creates the habit that the model finds predictive, and hedonic motivation suggests the experience should be engaging rather than merely efficient.
+- **Program designers.** Treat [[ai-literacy|AI literacy]] as a separate objective from adoption. Students in this sample had already adopted; what they lacked, on the authors' account, was critical validation of outputs, awareness of limits, and [[motivation|deliberate]] rather than automatic use. A curriculum that only teaches tool operation addresses a problem these students no longer have.
+- **Administrators.** Facilitating conditions had a real, if small, effect on use (β = 0.219, f² = 0.096), and price value a small effect on intention (β = 0.187). Access, licensing and technical support remain levers, but they are second-order compared with whether use has become normal in the program's daily work.
+- **Researchers.** Report the discriminant-validity ratios for intention and use when both are in the model, and consider whether self-reported frequency can carry the weight a habit construct places on it. The [[technology-acceptance-model|adoption-model]] literature needs measures of use that are not themselves self-reported habit.
+
+## Limitations
+
+- Two private universities in two countries, marketing students only, recruited by non-probability purposive sampling; no claim about Latin American or global [[higher-ed|higher education]] follows from it.
+- Cross-sectional and single-occasion, so the direction of every path is assumed by the model rather than established, including the central habit-to-use relationship.
+- All constructs are [[self-report-measures|self-reported]] at the same sitting; no marker variable, Harman test or other common-method check is reported.
+- Habit and use are conceptually and empirically close (HTMT = 0.824), and intention and use are closer still (0.829); both pairs pass the 0.85 threshold only narrowly.
+- The "university" moderator is perfectly confounded with country, and the sample size of 310 across 18 moderation tests leaves the four significant moderators vulnerable to chance.
+- No learning outcome, grade or performance measure was collected, so the study says nothing about whether GenAI use helps students learn [[business-education|marketing]].
+
+## Citation
+
+Pinedo, L., Chang-Tam, R., Vidaurrazaga-Sferrazza, S., Garcia-Huamantumba, E., Zevallos-Cordova, P., & Jaque-Reategui, S. (2026). [Adoption of generative artificial intelligence by university marketing students](https://doi.org/10.3389/feduc.2026.1892057). *Frontiers in Education, 11*, 1892057.
 
 ---
 
