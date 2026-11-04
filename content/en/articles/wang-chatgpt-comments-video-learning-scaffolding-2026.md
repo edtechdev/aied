@@ -56,7 +56,7 @@ A four-condition ablation (P0 full prompt; P1 without comment-type definition; P
 ## What the work contributes
 
 - **Scaffolding can be distributed and faded automatically.** Knowledge and emotional support are generated as distinct categories and knowledge support thins over the timeline, showing how fading scaffolding and distributed scaffolding can be operationalized at scale rather than planned by hand.
-- **The path forward is multi-agent and individualized.** The individual-information component was deliberately not activated here, so [[personalized-learning|personalization]] remains untested; the proposed monitoring–decision–support–validation agent architecture is the authors' route to real-time adaptivity.
+- **The path forward is multi-agent and individualized.** The individual-information component was deliberately not activated here, so [[personalized-learning|personalization]] remains untested; the proposed monitoring–decision–support–validation agent architecture is the authors' route to real-time [[adaptive-learning|adaptivity]].
 
 ## What this means for practice
 
@@ -71,7 +71,7 @@ A four-condition ablation (P0 full prompt; P1 without comment-type definition; P
 - Both studies rest on one six-minute NHK Japanese-history video in a single domain, with comment generation run across 20 sessions for that clip.
 - Study 1 compares 1,000 GPT-3.5-generated comments against 120 comments written in real time by experienced instructors, and its perception sample was 40 undergraduates and graduate students aged 19–23.
 - Study 2's four-condition ablation ran on 20 newly recruited participants with a newer model (GPT-5.4), making the model comparison a single-family contrast rather than a controlled benchmark.
-- Outcomes are perceived quality on Likert ratings rather than learning gains, and the ZPD-based individual information setting was specified but not activated, leaving personalization untested.
+- Outcomes are perceived quality on Likert ratings rather than [[learning-gains|learning gains]], and the ZPD-based individual information setting was specified but not activated, leaving personalization untested.
 
 ## Citation
 

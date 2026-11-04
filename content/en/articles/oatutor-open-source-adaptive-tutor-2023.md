@@ -56,7 +56,7 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 
 ## Limitations
 
-- The deployment evidence is one community college instructor teaching seven algebra classes over six terms, with participation voluntary and ungraded; the paper reports usability and continued uptake rather than any [[learning-gains|learning-gain]] comparison, and there is no control condition.
+- The deployment evidence is one community college instructor teaching seven algebra classes over six terms, with participation voluntary and ungraded; the paper reports [[usability-research|usability]] and continued uptake rather than any [[learning-gains|learning-gain]] comparison, and there is no control condition.
 - Students who used the tutor were self-selected — the pilot teacher observed that they were the more motivated students seeking extra practice — and usage declined across the term precisely because students received no credit for using the system.
 - The authoring figures come from a survey sent to 25 former editor-team members that drew 16 responses, one excluded as incomplete (N = 15 measured), with training time self-estimated to the nearest hour and problem-creation time to the nearest minute.
 - Scope is bounded to algebra content from three OpenStax textbooks: the authors' own extension interview (R4) found that adapting the platform for collaborative VR/AR training would take significant effort, and content bugs caused the worst student frustration in the first pilots.

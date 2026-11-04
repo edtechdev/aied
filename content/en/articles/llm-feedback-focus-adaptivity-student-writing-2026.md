@@ -59,7 +59,7 @@ Both adaptivity questions were restricted to the composition course, because the
 
 - The adaptivity analysis rests on one composition course taught by a single instructor, so the teacher's adaptive pattern is a narrow reference that may not generalize to other instructors or writing contexts.
 - Only paragraph-level feedback was studied; holistic essay-level comments, also common in expert practice, were not annotated.
-- Three prompting strategies were compared and no fine-tuning was attempted, so fine-tuned or pedagogically instructed models may align differently.
+- Three prompting strategies were compared and no [[llm-training-and-fine-tuning|fine-tuning]] was attempted, so fine-tuned or pedagogically instructed models may align differently.
 - LLM annotations came from a single model, Gemini 2.0 Flash, validated against human labels.
 
 ## Citation

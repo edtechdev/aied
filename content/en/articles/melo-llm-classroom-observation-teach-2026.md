@@ -36,7 +36,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 - The validation corpus is 12 primary classroom videos rated on one framework (the World Bank's TEACH Primary), so the reliability and agreement estimates rest on a small, single-instrument sample.
 - The accuracy reference is consensus rating by certified TEACH experts rather than an independent gold standard, and even the best model reached only 0.55 exact agreement with those experts.
-- Inputs were transcripts, which the authors state is a structural limitation of the current text-based pipeline rather than something prompt design can fix — non-verbal evidence is simply absent.
+- Inputs were transcripts, which the authors state is a structural limitation of the current text-based pipeline rather than something [[prompt-engineering|prompt design]] can fix — non-verbal evidence is simply absent.
 - Reliability was not general: three framework elements had no model reaching ICC ≥ 0.75, so a single global claim about LLM observation quality would misstate what the 8,618 evaluations show.
 
 ## Citation

@@ -10,7 +10,7 @@ confidence: high
 audience: [researchers, learning analytics designers]
 ---
 
-> **Synthesis:** Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered [[network-analysis|Network Analysis]] to trace how epistemic emotions such as confusion and frustration persist and transition during co-[[situated-learning|situated]] collaborative [[problem-solving|problem solving]]. The work advances affect-aware [[learning-analytics|learning analytics]] by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring]] systems and [[multimodal]] detectors like [[multimodal-affective-its-presentation]]. It grounds affect dynamics in [[collaborative-learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health]] and video-based [[engagement-assessment-video]].
+> **Synthesis:** Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered [[network-analysis|Network Analysis]] to trace how epistemic emotions such as confusion and frustration persist and transition during co-[[situated-learning|situated]] collaborative [[problem-solving|problem solving]]. The work advances affect-aware [[learning-analytics|learning analytics]] by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring]] systems and [[multimodal]] detectors like [[multimodal-affective-its-presentation]]. It grounds affect dynamics in [[collaborative-learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health]] and [[video-education|video-based]] [[engagement-assessment-video]].
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ audience: [researchers, learning analytics designers]
 ## What this means for practice
 
 - **Designers.** Trigger affect-aware responses on ordered trajectories of confusion and frustration rather than isolated signals or summary frequencies, because the models show short-range persistence and directional transitions instead of instantaneous states.
-- Distinguish productive struggle from disengagement in collaborative tasks: slower groups showed sustained confused–conflicted connections, while faster groups showed frequent but fleeting disengagement that may indicate one or two members carrying the work.
+- Distinguish [[desirable-difficulties|productive struggle]] from disengagement in collaborative tasks: slower groups showed sustained confused–conflicted connections, while faster groups showed frequent but fleeting disengagement that may indicate one or two members carrying the work.
 - Treat probe-caught and self-caught reports as different measurements — probe-caught networks showed stronger self-loops around curiosity, optimism, and confusion, whereas self-caught reports clustered around frustration, surprise, and conflict — and log which mechanism produced each report.
 - Timestamp every affect report and preserve the raw event sequence, since the analysis depends on ordering within a moving window rather than on totals.
 - **Researchers.** Triangulate retrospective cued-recall reports with physiological or behavioral signals, because recall bias and temporal imprecision feed directly into the modeled ordering of affective states.

@@ -49,7 +49,7 @@ The article cautions against **over-reliance** on AI in chemical experimentation
 
 - This is a philosophical/conceptual analysis, not an empirical study: the authors position it as proposing "a foundational framework to map the landscape of change" rather than resolving the questions it raises, and they explicitly bracket issues such as whether AI requires redefining empirical knowledge.
 - The concrete cases — the three simultaneous titration representations and the worked synthesis of a new compound — are illustrations, not findings from a classroom intervention, so the paper reports no measured effect on student learning.
-- Its scope is chemistry education rather than professional chemistry practice, framed through curriculum, instruction, engagement, and assessment; the claims about epistemology in research settings are argued rather than tested.
+- Its scope is chemistry education rather than professional chemistry practice, framed through [[curriculum-design|curriculum]], instruction, engagement, and assessment; the claims about epistemology in research settings are argued rather than tested.
 
 ## Citation
 

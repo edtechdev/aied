@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-03T09:42:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 - **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the knowledge base. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
 - **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation]].
-- **Robots and embodied systems.** [[educational-robotics|Robots in education]] add an embodied and often social presence — programmable kits for computational thinking and humanoid/social robots for tutoring, storytelling, and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
+- **Robots and [[embodied-learning|embodied]] systems.** [[educational-robotics|Robots in education]] add an embodied and often [[community-of-inquiry|social presence]] — programmable kits for [[computational-thinking|computational thinking]] and humanoid/social robots for tutoring, [[storytelling-in-education|storytelling]], and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
 
 ## Techniques and methods
@@ -45,9 +45,9 @@ The technical strand is inseparable from the knowledge base's other themes:
 
 - **Pedagogy:** technical choices embody pedagogical assumptions — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
-- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, guardrails, [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, [[guardrails]], [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
 
-**Research attention is concentrated on a narrow slice of the tool ecosystem.** Mapping 85 AI tools against the STEM and engineering literature, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] found only 36 research-visible at all and conversational AI/LLMs accounting for 73.7% of 927 paper–tool connections, with 23 publications in an established laboratory context.
+**Research attention is concentrated on a narrow slice of the tool ecosystem.** Mapping 85 AI tools against the STEM and engineering literature, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] found only 36 research-visible at all and [[conversational-ai|conversational AI]]/LLMs accounting for 73.7% of 927 paper–tool connections, with 23 publications in an established laboratory context.
 
 ## Implications for AI in education
 

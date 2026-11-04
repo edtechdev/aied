@@ -23,7 +23,7 @@ page_kind: [evaluation, framework]
 - **Public belief in the crutch intuition.** In the Gallup survey (N = 2,472, ages 18–28), 73% scored above the midpoint on negative AI-impact attitudes: 79% agreed AI makes people lazier, 63% that it makes people less smart, 62% that it reduces ability to learn.
 - **Practice with AI beat practice without AI.** Random-assignment experiment: those who practiced cover letters with an AI tool wrote better no-AI cover letters than those who practiced on their own.
 - **AI beat Google Search and human editors.** Practicing with AI improved writing more than googling examples/tips (test d = 0.46) and more than personalized feedback from experienced human editors (test d = 0.20).
-- **No illusion-of-mastery effect.** AI-practice participants did not over-report learning or skill vs. editor-feedback participants, mitigating concern that gains reflect inflated self-assessment.
+- **No illusion-of-mastery effect.** AI-practice participants did not over-report learning or skill vs. editor-feedback participants, mitigating concern that gains reflect inflated [[self-assessment]].
 - **AI teaches by example.** Participants who only viewed an AI-revised cover letter improved as much as those who practiced with the AI tool — the [[scaffolding]]/example function, not just practice, drives the gain.
 - **Two-channel framework.** AI simultaneously (a) reduces effort (crutch risk) and (b) improves the learning environment (coach benefit, e.g., worked examples). Skill outcomes hinge on the net effect.
 

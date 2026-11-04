@@ -40,7 +40,7 @@ The study extends the [[tpack|TPACK]] framework — originally developed for pre
 
 ## Limitations
 
-- Self-report measurement: self-perceived knowledge may not reflect actual GenAI integration knowledge, and faculty who were more engaged with GenAI may have been more likely to complete the survey, introducing selection bias.
+- [[self-report-measures|Self-report]] measurement: self-perceived knowledge may not reflect actual GenAI integration knowledge, and faculty who were more engaged with GenAI may have been more likely to complete the survey, introducing selection bias.
 - Single institution and single region: 127 faculty at one large public research university in the Southern U.S. (180 responses collected between April 5 and June 30, 2024), so findings may not transfer to liberal arts colleges, community colleges, minority-serving institutions, or other regions.
 - The cross-sectional design precludes causal inference; the interpretation of technological knowledge as a gateway cannot be distinguished from reverse directionality.
 - The sample overrepresents Academic Professional Track faculty (62.20% vs. 37.80% tenured or tenure-track), and the instrument, though adapted for GenAI, has not undergone independent psychometric validation for this population — no formal expert panel review was conducted, and the near-ceiling reliabilities raise a discriminant-validity question about whether the three technology-integrated domains are empirically distinct.

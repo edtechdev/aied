@@ -19,15 +19,15 @@ Computing students show inconsistencies between confidence in cybersecurity know
 
 ## What this means for practice
 
-- **Instructors.** Teach cybersecurity as practiced behavior, not as knowledge transfer: among 236 computing students, confidence in cybersecurity knowledge did not consistently translate into safe practices.
+- **Instructors.** Teach cybersecurity as practiced behavior, not as [[transfer-of-learning|knowledge transfer]]: among 236 computing students, confidence in cybersecurity knowledge did not consistently translate into safe practices.
 - **Instructors.** Build phishing-specific exercises rather than general awareness content, because this population is the most immersed in technology yet particularly susceptible to phishing attacks.
 - **Learners.** Do not read confidence as competence: participants reported confidence in their own knowledge while also reporting powerlessness in managing online [[privacy]] across platforms.
 - **Instructors.** Assess attitudes and behavior separately in [[cs-education|computing courses]], since the attitude clusters the study recovered did not map cleanly onto safe practice.
 
 ## Limitations
 
-- Self-report measures: the SeBIS and GSE instruments and the open-ended questions capture reported behavior and attitudes, which the authors note are subject to social desirability bias, overconfidence, and limited self-awareness.
-- Single institution: all 236 participants came from undergraduate Human-Computer Interaction courses at one university in New Zealand, so institutional culture, teaching practices, and resources may limit generalization to computing students elsewhere.
+- [[self-report-measures|Self-report measures]]: the SeBIS and GSE instruments and the open-ended questions capture reported behavior and attitudes, which the authors note are subject to social desirability bias, overconfidence, and limited self-awareness.
+- Single institution: all 236 participants came from undergraduate [[human-ai-collaboration|Human-Computer Interaction]] courses at one university in New Zealand, so institutional culture, [[pedagogy|teaching practices]], and resources may limit generalization to computing students elsewhere.
 - Course-skewed sample: because participants were drawn from an HCI course, participation (about 69% of eligible students) was likely skewed toward students interested in HCI, and 93% were aged 16 to 24.
 - The attitude structure is exploratory: pre-analysis metrics suggested two clusters, which the survey refined through a 20-participant pilot after validation by five cybersecurity experts, and the survey itself took an estimated 28 minutes to complete.
 

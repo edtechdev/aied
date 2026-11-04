@@ -40,8 +40,8 @@ The review's theoretical contribution is its critique of the field's reliance on
 
 - Heterogeneity was extreme (I² > 98%) and the authors report likely publication bias, so they caution that the weighted average effect for each construct category must be interpreted carefully.
 - The statistically significant advantage of individual over technological factors was small in magnitude; the authors attribute it to high statistical power rather than a meaningful practical distinction.
-- The evidence base is dominated by quantitative self-report surveys and cross-sectional designs — only one included study was longitudinal — so it cannot trace how students' perceptions and adoption behaviors evolve over time.
-- Primary studies concentrated on large language model chatbots, making the synthesis most representative of conversational AI adoption, and their limited granularity prevented analysis of how adoption varies with specific technological functions; average study size was 530.5 participants but ranged from 64 to 2,240 (SD = 492.9, Mdn = 376), and only construct type and students' AI experience explained heterogeneity.
+- The evidence base is dominated by [[quantitative-research|quantitative]] [[self-report-measures|self-report]] surveys and cross-sectional designs — only one included study was longitudinal — so it cannot trace how students' perceptions and adoption behaviors evolve over time.
+- Primary studies concentrated on [[llm|large language model]] chatbots, making the synthesis most representative of [[conversational-ai|conversational AI]] adoption, and their limited granularity prevented analysis of how adoption varies with specific technological functions; average study size was 530.5 participants but ranged from 64 to 2,240 (SD = 492.9, Mdn = 376), and only construct type and students' AI experience explained heterogeneity.
 
 ## Citation
 

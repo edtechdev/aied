@@ -27,7 +27,7 @@ The authors synthesize recent (2024–2025) research into four pillars:
 
 ## Translating UNESCO guidance to chemistry
 
-UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; *Harnessing AI in Higher Education*; *ChatGPT and Higher Education*) establish global standards for [[bias-mitigation|fairness]], transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
+UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; *Harnessing AI in [[higher-ed|Higher Education]]*; *ChatGPT and Higher Education*) establish global standards for [[bias-mitigation|fairness]], transparency, and [[human-in-the-loop-ai|human oversight]]. The authors translate these into chemistry-specific action:
 
 - **Human-centered [[pedagogy]]** — AI should serve learning and human reasoning, not replace scientific judgment.
 - **Teacher training** — STEM/chemistry [[teacher-role|educators]] must be equipped to use AI effectively in teaching.
@@ -50,17 +50,17 @@ The authors demonstrate [[prompt-engineering|prompt engineering]] techniques for
 ## What this means for practice
 
 - **Instructors.** Assign students to interrogate AI output against chemical principles — finding inaccuracies, checking citations, judging whether an explanation is causally sound — instead of accepting it passively; the article reports that students asked to review LLM output engaged deeply and valued the exercise.
-- **Instructors.** Design [[assessment|assessments]] that prioritize human reasoning over algorithmic output, because frontier models already match or beat average chemists on general knowledge while failing spatial reasoning (NMR) and rigorous quantitative benchmarks (ChemBench, QCBench).
+- **Instructors.** Design [[assessment|assessments]] that prioritize human reasoning over algorithmic output, because frontier models already match or beat average chemists on general knowledge while failing spatial reasoning (NMR) and rigorous quantitative [[benchmark|benchmarks]] (ChemBench, QCBench).
 - **Instructors.** Pair LLM use with [[visualization]] and hands-on representation work: text-only interaction is error-prone for molecular representation, so have students sketch or build what the model describes and interrogate AI-generated figures rather than trusting them.
-- **Faculty developers.** Equip STEM and chemistry educators to teach with AI, including structured [[prompt-engineering|prompt frameworks]] for students who struggle to write effective prompts at first, and build critical AI chemical literacy into the curriculum rather than leaving it to chance.
-- **Administrators.** Close the policy gap: most institutions lack clear rules while high-income institutions had adopted AI-driven tools by 2025 and low-income regions remain constrained, so publish explicit guidance on permitted use, academic integrity, and equitable access and infrastructure.
+- **Faculty developers.** Equip STEM and chemistry educators to teach with AI, including structured [[prompt-engineering|prompt frameworks]] for students who struggle to write effective prompts at first, and build critical AI chemical literacy into the [[curriculum-design|curriculum]] rather than leaving it to chance.
+- **Administrators.** Close the policy gap: most institutions lack clear rules while high-income institutions had adopted AI-driven tools by 2025 and low-income regions remain constrained, so publish explicit guidance on permitted use, [[academic-integrity|academic integrity]], and equitable access and infrastructure.
 
 ## Limitations
 
 - This is a *Perspective*, not an empirical study: it reports no new sample, intervention, or outcome data, so its four pillars and UNESCO translation are a synthesis of 2024–2025 literature and policy documents.
 - The prompt-engineering demonstrations are illustrative figure prompts (sulfuric acid dissolution; lignin nanoparticle emulsions), not a controlled test of visualization accuracy or bias; the authors name accuracy and representational-bias limits without quantifying them.
 - Claims about global disparity (most high-income institutions implementing AI-driven tools by 2025 while low-income access stays constrained) rest on cited reports rather than measurement by the authors, so scope and magnitude cannot be verified from the article.
-- The discipline-specific claim that chemistry, more than mathematics or programming, resists text-only teaching of content such as molecular representation is argued from disciplinary reasoning rather than a tested cross-discipline comparison.
+- The [[discipline-specific-aied|discipline-specific]] claim that chemistry, more than mathematics or programming, resists text-only teaching of content such as molecular representation is argued from disciplinary reasoning rather than a tested cross-discipline comparison.
 
 ## Citation
 

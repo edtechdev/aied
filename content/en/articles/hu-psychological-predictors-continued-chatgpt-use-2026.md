@@ -61,10 +61,10 @@ Two readings remain open and the design cannot separate them. Anxiety may interf
 - **Researchers and administrators.** These implications concern students who already use the tool; the study offers no basis for recommendations about encouraging first-time uptake.
 
 ## Limitations
-- The design is cross-sectional, and all five constructs were measured by self-report in one questionnaire on one occasion, so temporal precedence is imposed by the model rather than observed, and the better-fitting ordering rules out one rival specification rather than the class of them.
+- The design is cross-sectional, and all five constructs were measured by [[self-report-measures|self-report]] in one questionnaire on one occasion, so temporal precedence is imposed by the model rather than observed, and the better-fitting ordering rules out one rival specification rather than the class of them.
 - Eligibility restricted the sample to students who already use ChatGPT, a strongly self-selected group, so the findings describe sustained use among existing users and not the initial decision to adopt.
 - Intention and current use were not empirically separable here (latent correlation 0.98), and the general efficacy measure narrows what the trust to efficacy link can show.
-- Other candidate correlates, including perceived usefulness, social influence, and institutional policy, were left out of the model.
+- Other candidate correlates, including perceived usefulness, social influence, and [[educational-policy-ai|institutional policy]], were left out of the model.
 
 ## Citation
 

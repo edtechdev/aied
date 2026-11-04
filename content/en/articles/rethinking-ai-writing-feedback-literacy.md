@@ -25,7 +25,7 @@ confidence: high
 
 ## The Two Interventions
 
-FRAC is a **Feedback Literacy Script** targeting the processing of external feedback. Its four steps are Filter (identify the problem type addressed), Reason (judge validity and relevance to the task), Act (implement the feedback as a specific revision), and Check (review whether the revision achieved the intended result). APCA is an **Assessment-Performance Calibration Activity** targeting internal monitoring, organized around "self-assessment–comparison–adjustment" with four stages: Anchor (review sample texts at different quality levels), Predict (estimate one's own score and confidence), Compare (detect bias against teacher ratings), and Adjust (revise evaluation strategies across rounds). FRAC is grounded in feedback literacy [[research-methods-aied|research]] (Carless & Boud), APCA in calibration and self-regulated learning research (Panadero et al., Kostons et al.).
+FRAC is a **Feedback Literacy Script** targeting the processing of external feedback. Its four steps are Filter (identify the problem type addressed), Reason (judge validity and relevance to the task), Act (implement the feedback as a specific revision), and Check (review whether the revision achieved the intended result). APCA is an **Assessment-Performance Calibration Activity** targeting internal monitoring, organized around "self-assessment–comparison–adjustment" with four stages: Anchor (review sample texts at different quality levels), Predict (estimate one's own score and confidence), Compare (detect bias against [[teacher-role|teacher]] ratings), and Adjust (revise evaluation strategies across rounds). FRAC is grounded in feedback literacy [[research-methods-aied|research]] (Carless & Boud), APCA in calibration and self-regulated learning research (Panadero et al., Kostons et al.).
 
 ## Results
 
@@ -40,7 +40,7 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 - **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
 - **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalizes a structured feedback–revision loop.
 - **[[self-regulated-learning]] / [[metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
-- **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in higher education.
+- **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in [[higher-ed|higher education]].
 - **[[writing-education]] / [[ai-literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.
 
 ## Methodological Notes

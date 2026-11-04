@@ -60,7 +60,7 @@ The limits are stated plainly. The work is interpretive, not empirical, and does
 ## What this means for practice
 
 - **Educators.** Position AI as an instrumental adjunct rather than a cognitive surrogate: assign the drafting, interpretation and revision work to students and place the tool alongside it, consistent with the paper's claim that self-cultivation labor "cannot be outsourced to external devices."
-- **Educators.** Have students interrogate the categories dashboards assign them. The Zhenren is proposed as a counter-ideal to the algorithmically managed learner, so treat classifications of ability, risk and potential as constructed artifacts rather than settled descriptions.
+- **Educators.** Have students interrogate the categories [[visualization|dashboards]] assign them. The Zhenren is proposed as a counter-ideal to the algorithmically managed learner, so treat classifications of ability, risk and potential as constructed artifacts rather than settled descriptions.
 - **Curriculum designers.** Keep aims that resist measurement in the design: schedule open-ended inquiry where students pursue understanding of a phenomenon they cannot fully specify, instead of stating every outcome as fixed-content acquisition.
 - **Researchers.** Extend the comparative method to other non-Western traditions (Ubuntu, Buddhist epistemology) and test whether Daoist-inspired framings shift measurable learning outcomes, not only the vocabulary educators use.
 

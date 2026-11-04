@@ -35,7 +35,7 @@ confidence: high
 
 - Respondents were N = 8021 students who completed the full survey, drawn from 10,132 volunteers (5% of roughly 192,000 invited students) distributed as 3859 from Monash University, 2582 from University of Queensland, 997 from University of Technology Sydney, and 583 from Deakin University.
 - Recruitment was restricted to the researchers' respective universities, producing a convenience sample, and each institution applied its own distribution process.
-- The design is a single cross-sectional online survey; frequency and purpose of use are self-reported rather than observed, and a further 826 students completed only part of the survey.
+- The design is a single cross-sectional online survey; frequency and purpose of use are [[self-report-measures|self-reported]] rather than observed, and a further 826 students completed only part of the survey.
 - Findings come only from four Australian universities, so the demographic and equity patterns cannot be assumed to transfer to other national systems or institution types.
 
 ## Citation

@@ -37,7 +37,7 @@ The framework is grounded in an exploratory [[qualitative-research|qualitative]]
 - **41%** endorsed effortful [[desirable-difficulties|retrieval or effort]] as valuable ("retrieving information from memory, even imperfectly, strengthens understanding").
 - **88% (43/49)** raised agency, most often as erosion of independent effort.
 - **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, [[prompt-engineering|prompting]] active recall, offering alternative explanations.
-- Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the AI students say they need is not the AI they typically encounter.
+- Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the [[simulating-students|AI students]] say they need is not the AI they typically encounter.
 
 This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed [[feedback]], and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
 
@@ -60,7 +60,7 @@ The framework integrates and extends themes already present in the knowledge bas
 ## What this means for practice
 
 - **Instructors.** Require an unaided first attempt before any AI use on a task: 48 of 49 essays framed AI in terms of replacement rather than scaffolding and 80% (39/49) linked reliance to reduced thinking, so the pre-AI draft is where the effort that produces learning happens.
-- **Instructors.** Configure the tools you assign to scaffold rather than solve — withholding the answer, prompting recall, asking critical questions, offering alternative explanations — since 53% (26/49) of students named exactly those behaviors as the AI they want, and their preferences match retrieval practice and delayed [[feedback]].
+- **Instructors.** Configure the tools you assign to scaffold rather than solve — withholding the answer, prompting recall, asking critical questions, offering alternative explanations — since 53% (26/49) of students named exactly those behaviors as the AI they want, and their preferences match [[retrieval-spacing-interleaving|retrieval practice]] and delayed [[feedback]].
 - **Learners.** Ask AI for questions instead of answers and treat an unearned answer as a warning sign: 41% of the essays endorsed effortful retrieval as valuable ("retrieving information from memory, even imperfectly, strengthens understanding").
 - **Designers.** Build [[scaffolding]] as a designed capability with explicit rules for when to withhold an answer, surface uncertainty, or present alternative perspectives, rather than layering a policy on top of a system that answers on demand.
 - **Administrators.** Write the conditions for productive struggle, reflection, and intellectual agency into procurement and [[assessment]] policy, because substitution risk is set by task design and tool choice, not by access alone.

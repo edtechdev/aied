@@ -14,7 +14,7 @@ discipline: [math education]
 audience: [instructional designers, instructors]
 ---
 
-> **Synthesis:** Mejeh and Fromm investigate how differentiated feedback types — **directive, informative, and transformative** — delivered through an [[adaptive-learning|adaptive learning technology (ALT)]] and taken up by learners relate to [[self-regulated-learning|self-regulated learning (SRL)]] across its pre-actional, actional, and post-actional phases. In a study of 194 students in a stochastics course using an ALT over eight weeks, analyzed with self-report + trace data via hierarchical linear modeling, they find that task value, [[self-efficacy]], goal orientation, and positive emotions in the pre-actional phase positively influence regulatory behavior in the actional phase, while negative emotions hinder it. However, adaptive feedback's moderating effects were **limited and sometimes negative** — transformative feedback may contribute to [[cognitive-offloading|cognitive overload]] — underscoring that feedback effectiveness is context-dependent and must be tailored to learners' needs.
+> **Synthesis:** Mejeh and Fromm investigate how differentiated feedback types — **directive, informative, and transformative** — delivered through an [[adaptive-learning|adaptive learning technology (ALT)]] and taken up by learners relate to [[self-regulated-learning|self-regulated learning (SRL)]] across its pre-actional, actional, and post-actional phases. In a study of 194 students in a stochastics course using an ALT over eight weeks, analyzed with self-report + trace data via hierarchical linear modeling, they find that task value, [[self-efficacy]], [[motivation|goal orientation]], and positive emotions in the pre-actional phase positively influence regulatory behavior in the actional phase, while negative emotions hinder it. However, adaptive feedback's moderating effects were **limited and sometimes negative** — transformative feedback may contribute to [[cognitive-offloading|cognitive overload]] — underscoring that feedback effectiveness is context-dependent and must be tailored to learners' needs.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ audience: [instructional designers, instructors]
 
 - **Designers.** Tailor [[adaptive-learning|adaptive]] feedback to learners' regulatory needs and to the phase they are in instead of maximizing feedback density: directive, informative, and transformative feedback were taken up differently, and transformative feedback was associated with [[cognitive-offloading|cognitive overload]] rather than better [[self-regulated-learning|regulation]].
 - **Designers.** Instrument an ALT to record uptake rather than delivery: the study logged only whether a learner encountered each feedback affordance at least once in a week, not how often, so frequency and dosage went unmeasured.
-- **Instructors.** Prime the pre-actional phase before learners start work — task value, [[self-efficacy]], goal orientation, and positive emotions predicted actional regulation, while negative emotions such as anxiety hindered it — so address motivation and affect before content.
+- **Instructors.** Prime the pre-actional phase before learners start work — task value, [[self-efficacy]], goal orientation, and positive emotions predicted actional regulation, while negative emotions such as [[anxiety-and-stress|anxiety]] hindered it — so address motivation and affect before content.
 - **Instructors.** Build end-of-task reflection into the design: post-actional satisfaction predicted motivation, [[metacognition|metacognitive]] activity, and positive emotions in the following week's pre-actional phase, which is the cyclical mechanism the study documents.
 - **Instructors.** Combine self-report with trace data when studying [[self-regulated-learning]] in a technology-mediated course, since the study paired weekly questionnaire responses with log data on dashboard use and neither source alone would have shown how feedback was engaged.
 
@@ -37,7 +37,7 @@ audience: [instructional designers, instructors]
 - The sample was 194 students in a single stochastics course over eight weeks; many observed effects were only marginally significant, and the authors state the sample size, while acceptable, may have limited statistical power for detecting subtle interaction effects.
 - Feedback was operationalized as weekly dummy-coded indicators of whether a learner encountered each variant at least once in a week, not how often, so feedback frequency and dosage are not measured.
 - Adaptivity was primarily rule-based and threshold-triggered, engagement with feedback resources was voluntary, and the dashboard served an informational function; regulatory behaviors were assessed only after task completion rather than in real time.
-- Self-report data were used to prompt the directive feedback, which the authors note introduces potential bias from inaccuracies in learners' self-assessments.
+- [[self-report-measures|Self-report data]] were used to prompt the directive feedback, which the authors note introduces potential bias from inaccuracies in learners' [[self-assessment|self-assessments]].
 
 ## Citation
 

@@ -30,7 +30,7 @@ Across 220k production requests, CogEvol completes a slide in a median of 17 sec
 
 The paper emphasizes that reliability is enforced rather than hoped for, via three mechanisms:
 
-1. **Production-grounded data pipeline** — real deployment failures are turned into 53,687 verified SFT (supervised fine-tuning) samples, so the model learns from actual error patterns rather than synthetic idealizations.
+1. **Production-grounded data pipeline** — real deployment failures are turned into 53,687 verified SFT (supervised [[llm-training-and-fine-tuning|fine-tuning]]) samples, so the model learns from actual error patterns rather than synthetic idealizations.
 2. **Hybrid reward** — a rule-plus-VLM (vision-language model) reward drives GRPO-based [[reinforcement-learning|reinforcement learning]], combining objective checks with visual assessment.
 3. **Reward-hacking hardening** — the team caught and fixed a reward-hacking episode that produced visually convincing but unplayable [[game-based-learning|games]], illustrating the fragility of purely visual quality signals for interactive educational content.
 
@@ -40,7 +40,7 @@ On quality [[benchmark|benchmarks]], CogEvol-27B scores 83.7 on a slide suite an
 
 ## What this means for practice
 
-- **Edtech designers.** Treat visual polish as insufficient evidence of quality and score interactivity with executable probes, because a checkpoint that scored highest on code produced unplayable [[game-based-learning|games]] under a screenshot-only judge.
+- **[[educational-technology-developers|Edtech designers]].** Treat visual polish as insufficient evidence of quality and score interactivity with executable probes, because a checkpoint that scored highest on code produced unplayable [[game-based-learning|games]] under a screenshot-only judge.
 - **Software developers.** Follow the three-stage recipe — mix SFT, then slide RL, then interactive-HTML RL under the hardened reward — instead of one combined training round: the serial recipe won on HTML (61.7 vs. 59.0).
 - **Instructional designers.** Expect a finished artifact in one pass — a slide in a median of 17 seconds and an interactive page in 59 seconds across 220k production requests — and invest in improving the course brief rather than in multi-turn [[scaffolding|scaffolded]] editing.
 - **Instructional designers.** Use scaffold editing when a request resembles an accumulated template: it cuts interactive-page generation cost by roughly 76% in tokens, but per-type gains span −37% for games to −88% for vis3d, so check corpus coverage first.

@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Wang and Wang (2025) argue for a posthumanist reframing of AI literacy, moving beyond the humanistic view of AI as a discrete "tool" used by autonomous human agents toward understanding AI literacy as an understanding of how meaning emerges through the entanglement of human and AI agencies. Through a case study of two [[multilingual-learning|multilingual]] undergraduate students (Zhimo and Asuka) in US writing courses, they document a productive tension between students' experiments with posthumanist literacy and their entrenched humanistic assumptions, showing how posthumanism offers a relational approach to cultivating AI literacy in language and literacy education.
+> **Synthesis:** Wang and Wang (2025) argue for a posthumanist reframing of [[ai-literacy|AI literacy]], moving beyond the humanistic view of AI as a discrete "tool" used by autonomous human agents toward understanding AI literacy as an understanding of how meaning emerges through the entanglement of human and AI agencies. Through a case study of two [[multilingual-learning|multilingual]] undergraduate students (Zhimo and Asuka) in US writing courses, they document a productive tension between students' experiments with posthumanist literacy and their entrenched humanistic assumptions, showing how posthumanism offers a relational approach to cultivating AI literacy in language and literacy education.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ page_kind: [framework]
 
 ## Study Design & Method
 
-The study is a [[qualitative-research|qualitative]] case study of two multilingual undergraduate students — Zhimo (a first-year student from China in an academic writing course) and Asuka (a Japanese student in an elective writing-intensive course on generative AI and writing) — at a private US college. Data were collected in Spring 2024 through 1.5–2 hour semi-structured interviews, students' AI-assisted writing artifacts, and guided [[reflection|reflections]]. A thematic analysis examined the students' AI-mediated literacy practices through both Wang and Wang's (2025) critical AI literacy model (awareness, positionality, human-AI interactions, [[ai-ed-evaluation|evaluation of AI]] affordances) and posthumanist theory, triangulating data sources to understand how the students conceptualized, positioned themselves with, intra-acted with, and evaluated AI.
+The study is a [[qualitative-research|qualitative]] case study of two multilingual undergraduate students — Zhimo (a first-year student from China in an [[writing-education|academic writing]] course) and Asuka (a Japanese student in an elective writing-intensive course on [[generative-ai|generative AI]] and writing) — at a private US college. Data were collected in Spring 2024 through 1.5–2 hour semi-structured interviews, students' AI-assisted writing artifacts, and guided [[reflection|reflections]]. A thematic analysis examined the students' AI-mediated literacy practices through both Wang and Wang's (2025) critical AI literacy model (awareness, positionality, human-AI interactions, [[ai-ed-evaluation|evaluation of AI]] affordances) and posthumanist theory, triangulating data sources to understand how the students conceptualized, positioned themselves with, intra-acted with, and evaluated AI.
 
 ## What this means for practice
 

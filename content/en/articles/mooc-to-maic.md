@@ -17,7 +17,7 @@ level: [higher ed]
 
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
-**Published version:** [Journal of Computer Science and Technology (2026)](https://doi.org/10.1007/s11390-025-6000-0)
+**Published version:** [Journal of [[cs-education|Computer Science]] and Technology (2026)](https://doi.org/10.1007/s11390-025-6000-0)
 **Source code (OpenMAIC):** https://github.com/THU-MAIC/OpenMAIC
 
 ### Overview
@@ -65,7 +65,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 ## Limitations
 
 - The Tsinghua pilot covers two courses and 500+ students over three months with no control group; conclusions about engagement rest on initial observation compared with traditional MOOC formats rather than a controlled comparison.
-- Higher-order thinking outcomes were measured only as students' perceived impact on pre- and post-course questionnaires (abstract thinking t = 2.32, p = 0.02; critical thinking t = 2.37, p = 0.02), and the authors state that the abilities themselves were not estimated.
+- [[critical-thinking|Higher-order thinking]] outcomes were measured only as students' perceived impact on pre- and post-course [[self-report-measures|questionnaires]] (abstract thinking t = 2.32, p = 0.02; critical thinking t = 2.37, p = 0.02), and the authors state that the abilities themselves were not estimated.
 - Cost and speed figures for course production come from the team's own generation pipeline in this deployment, not from independent measurement, and the paper notes that some inaccuracies in automatically generated content are expected at scale.
 
 ## Citation

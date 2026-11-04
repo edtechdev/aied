@@ -54,7 +54,7 @@ The same simple setup allows both uniform and uniformly accelerated circular mot
 
 ## Limitations
 
-- **Instrument validation, not an efficacy study:** the paper reports measurements from a single low-friction rotating platform driven first by hand and then by a hanging mass, so it establishes measurement agreement rather than learning gains.
+- **Instrument validation, not an efficacy study:** the paper reports measurements from a single low-friction rotating platform driven first by hand and then by a hanging mass, so it establishes measurement agreement rather than [[learning-gains|learning gains]].
 - **No human participants:** no students or teachers used the lab in this study, so claims about focused attention, engagement, and reduced development time are argued from the design rather than measured in a classroom.
 - **Device and sensor dependence:** accuracy rests on the browser's sensor-fusion pipeline and on one device's orientation API and gyroscope readings, so the sub-1% agreement figures cannot be assumed for every handset or browser.
 - **The prompt template is validated only for this lab:** it is supplied as supplementary material and proposed as adaptable to other sensor experiments, but no second experiment is evaluated here.

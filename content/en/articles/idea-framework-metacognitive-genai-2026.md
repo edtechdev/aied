@@ -41,7 +41,7 @@ page_kind: [framework]
 
 - An exploratory quasi-experimental pilot with 42 undergraduates at a single site, 21 per condition, and no randomization, so the IDEA advantage may reflect pre-existing differences rather than the scaffold.
 - The framework cannot substitute for disciplinary knowledge: judging output plausibility during Adaptation depends on domain expertise learners may lack, and the authors state IDEA is not a comprehensive [[ai-literacy]] framework.
-- The measures were task-specific prompt and output scores, not conceptual understanding, retention or independent problem solving, so claims about learning transfer remain unverified.
+- The measures were task-specific prompt and output scores, not conceptual understanding, retention or independent [[problem-solving|problem solving]], so claims about [[transfer-of-learning|learning transfer]] remain unverified.
 - Transfer evidence rests on unaided tasks completed only five days after instruction, with the authors calling for longer-term and cross-disciplinary replication.
 
 ## Citation

@@ -46,8 +46,8 @@ The consolidated theme (T-B, 24 studies) joins behavioral taxonomies of passive 
 ### Assessment and integrity (RQ3)
 
 - **Detection is the thinnest area in the review (3 studies).** [[ai-detection]] mechanisms are substantially under-investigated relative to their prominence in [[governance|institutional]] debate, and the review's overall posture favors redesign over detection.
-- **[[educational-policy-ai|Institutional policy]] has moved faster than practice.** Most instructors operate at a *tolerance* rather than *transformation* level of integration; most institutions have updated policy documents without redesigning assessments; a majority of faculty report no structured [[educational-development|professional development]], with 70% of one national sample explicitly requesting training on AI-resistant assessment design.
-- **Redesign is feasible and highest-leverage.** Oral defense and iterative [[eportfolio|portfolio]] templates were rated implementable by faculty in workshops, and the review singles out adding an oral or process-visible element to at least one high-stakes assessment per course as the single most effective intervention.
+- **[[educational-policy-ai|Institutional policy]] has moved faster than practice.** Most instructors operate at a *tolerance* rather than *transformation* level of integration; most institutions have updated policy documents without redesigning assessments; a majority of faculty report no structured [[educational-development|professional development]], with 70% of one national sample explicitly requesting training on AI-resistant [[assessment|assessment design]].
+- **Redesign is feasible and highest-leverage.** [[oral-assessment|Oral defense]] and iterative [[eportfolio|portfolio]] templates were rated implementable by faculty in workshops, and the review singles out adding an oral or process-visible element to at least one high-stakes assessment per course as the single most effective intervention.
 
 ### Pedagogy (RQ4)
 

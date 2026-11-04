@@ -13,7 +13,7 @@ confidence: high
 page_kind: [synthesis, framework]
 ---
 
-> **Synthesis:** This umbrella review (34 review articles, PRISMA 2020) maps how [[conversational-ai|conversational AI (CAI) agents]] are used across education — concentrated in teaching, psychological, and [[metacognition|metacognitive]] support while administrative and [[research-methods-aied|research]] functions lag — and documents that [[human-ai-collaboration|human–AI relationship]] concerns persist across all CAI generations while [[academic-integrity]] and data [[privacy]] emerge as newer [[ethics|ethical]] issues. It surfaces gaps in CAI frameworks (no end-to-end design guidance, weak CAI-specific [[usability-research|usability]], unclear classroom implementation) and proposes an ethical-and-responsible-use roadmap grounded in [[ai-literacy]], participatory design, and continuous evaluation.
+> **Synthesis:** This umbrella review (34 review articles, [[meta-analysis-systematic-review|PRISMA]] 2020) maps how [[conversational-ai|conversational AI (CAI) agents]] are used across education — concentrated in teaching, psychological, and [[metacognition|metacognitive]] support while administrative and [[research-methods-aied|research]] functions lag — and documents that [[human-ai-collaboration|human–AI relationship]] concerns persist across all CAI generations while [[academic-integrity]] and data [[privacy]] emerge as newer [[ethics|ethical]] issues. It surfaces gaps in CAI frameworks (no end-to-end design guidance, weak CAI-specific [[usability-research|usability]], unclear classroom implementation) and proposes an ethical-and-responsible-use roadmap grounded in [[ai-literacy]], participatory design, and continuous evaluation.
 
 ## Key Findings
 
@@ -28,14 +28,14 @@ page_kind: [synthesis, framework]
 - **Instructors.** Use conversational agents where the evidence is strongest — teaching and learning support, psychological and motivational support, and metacognitive development — rather than for administrative or research tasks, which the 34 reviews mention far less often.
 - **Instructors.** Deploy with an explicit plan for the [[human-ai-collaboration|human–AI relationship]]: over-reliance, social isolation, depersonalization, transparency, and accountability are the most frequently discussed [[ethics|ethical]] concerns across every CAI generation, so set expectations and monitoring for them before rollout.
 - **Designers.** Design for classroom orchestration, not just conversation: the review finds no end-to-end design guidance and unclear [[teacher-role]] and implementation strategies, so specify how the instructor's role changes and document the workflow.
-- **Researchers.** Evaluate beyond short-term engagement: the roadmap calls for continuous assessment of cognitive impact, and the review flags long-term effects on critical thinking, [[self-regulated-learning|self-regulated learning]], and knowledge transfer as unresolved.
+- **Researchers.** Evaluate beyond short-term engagement: the roadmap calls for continuous assessment of cognitive impact, and the review flags long-term effects on [[critical-thinking|critical thinking]], [[self-regulated-learning|self-regulated learning]], and [[transfer-of-learning|knowledge transfer]] as unresolved.
 - **Administrators.** Adopt the four-pillar roadmap — [[ai-literacy]] assessment, participatory HCI-grounded design, ethical-use guidelines, and continuous evaluation — as a governance checklist when approving a conversational agent for a course or institution.
 
 ## Limitations
 
 - The evidence base is 34 review articles rather than primary studies, so findings inherit the limitations and selection criteria of those reviews and cannot establish effects not already synthesized.
 - Reported figures are frequencies of mention across reviews (teaching support 97.1%, technical limitations 97.1%, academic integrity 35.3%), which measure how often a topic appears, not its magnitude or direction of effect.
-- Coverage is bounded by the search across five databases and the eligibility criteria, and the review itself reports the field skews toward higher education and language learning, leaving K-12, STEM, and administrative contexts underrepresented.
+- Coverage is bounded by the search across five databases and the eligibility criteria, and the review itself reports the field skews toward [[higher-ed|higher education]] and [[language-learning|language learning]], leaving [[k-12]], STEM, and administrative contexts underrepresented.
 - The proposed roadmap is not validated: the review offers it as guidance, and no implementation study tests whether its four pillars improve outcomes.
 
 ## Citation

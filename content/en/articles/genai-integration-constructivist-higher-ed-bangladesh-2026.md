@@ -34,9 +34,9 @@ institutions: [educational-policy-ai]
 
 ## Limitations
 
-- The quantitative sample is 255 valid faculty responses drawn from four Bangladeshi universities, from 268 returned questionnaires, so the findings are bound to one national higher-education system.
+- The [[quantitative-research|quantitative]] sample is 255 valid faculty responses drawn from four Bangladeshi universities, from 268 returned [[self-report-measures|questionnaires]], so the findings are bound to one national higher-education system.
 - Although sampling began with proportional stratification across ranks and institutions, the survey link was circulated through teachers' social media groups during the final week to counter non-response, so the achieved sample is partly a convenience one.
-- The qualitative component rested on four focus group discussions of six faculty members each across four selected universities, with transcripts translated from Bangla to English before thematic analysis.
+- The [[qualitative-research|qualitative]] component rested on four focus group discussions of six faculty members each across four selected universities, with transcripts translated from Bangla to English before thematic analysis.
 - All adoption constructs are self-reported in a single cross-sectional survey; the authors call for future research on longitudinal effects that the design cannot support.
 
 ## Citation

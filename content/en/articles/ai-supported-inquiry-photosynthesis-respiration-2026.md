@@ -23,7 +23,7 @@ page_kind: [evaluation]
 2. The eight-week experimental program combined [[inquiry-based-learning|guided inquiry]], [[problem-based-learning|problem-based learning]], and design-based learning, with [[generative-ai|AI tools]] (ChatGPT, Consensus, NotebookLM, Elicit, Canva, Runway, Animaker) used as scaffolding for question formulation, experiment design, literature synthesis, and digital product creation; the control received conventional instruction with verification-focused labs.
 3. Mixed-design ANOVA yielded significant time×group interactions for conceptual understanding of photosynthesis, F(1,41)=22.79, p<0.001, ηp²=0.357, and cellular respiration, F(1,44)=25.70, p<0.001, ηp²=0.369; both remained significant after Holm correction, with adjusted post-test differences of 8.12 and 8.71 points, respectively.
 4. No significant group-by-time differences emerged for AI literacy (F(1,42)=0.740, p=0.395) or self-perceived computational thinking skills (F(1,35)=2.384, p=0.132); the AIL scale's low post-test reliability (α=0.557) constrained measurement sensitivity.
-5. Qualitative self-evaluation forms reported perceived gains in [[misconceptions|correcting misconceptions]], digital content creation, critical evaluation of AI outputs, collaboration, and [[student-engagement|engagement]], providing contextual but not confirmatory evidence.
+5. Qualitative [[self-assessment|self-evaluation]] forms reported perceived gains in [[misconceptions|correcting misconceptions]], digital content creation, critical [[ai-ed-evaluation|evaluation of AI]] outputs, collaboration, and [[student-engagement|engagement]], providing contextual but not confirmatory evidence.
 
 ## Design and Context
 
@@ -51,7 +51,7 @@ Qualitatively, participants reported that the activities helped them understand 
 ## Limitations
 
 - The study used two intact classes of 48 second-year [[teacher-education|pre-service science teachers]] (25 control, 23 experimental) with purposive rather than random assignment; the higher-achieving section was assigned to the control group deliberately, so class membership, prior achievement, and intervention effects cannot be fully separated.
-- The eight-week window is too short for standardized self-report measures to register change in broader competencies, which the authors give as a reason the AI literacy and self-perceived computational thinking null results should not be read as evidence of no effect.
+- The eight-week window is too short for standardized [[self-report-measures|self-report measures]] to register change in broader competencies, which the authors give as a reason the AI literacy and self-perceived computational thinking null results should not be read as evidence of no effect.
 - The AI literacy scale's post-test reliability was poor (α = 0.557) and complete-case analysis shrank the analytic samples (degrees of freedom of 41, 44, 42, and 35 rather than the full roster), reducing measurement sensitivity and statistical power.
 - The qualitative component relied on reflective self-evaluation forms and therefore captures perceived engagement rather than measured skill, and the sustainability competencies the framing invokes were not directly measured at all.
 

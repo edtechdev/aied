@@ -19,7 +19,7 @@ level: [secondary, k 12]
 ## Key Findings
 
 - **IKS-Instruct** contains **24,795 instruction-response pairs** for teaching language models to deliver educational content grounded in Indian Knowledge Systems (IKS), spanning **seven languages** (English, Hindi, Sanskrit, Tamil, Telugu, Kannada, Malayalam).
-- The dataset covers **41 pedagogical techniques** from Vedic oral and mathematical traditions and is aligned with the **Central Board of Secondary Education (CBSE) [[curriculum-design|curriculum]] for classes 6 through 12**.
+- The dataset covers **41 pedagogical techniques** from Vedic oral and mathematical traditions and is aligned with the **Central Board of [[k-12|Secondary Education]] (CBSE) [[curriculum-design|curriculum]] for classes 6 through 12**.
 - Pairs derive from **six source types**: classical text corpora (Bhagavad Gita, Thirukkural, Sangam literature, Vedic texts), curriculum-aligned pedagogical templates, Vedic mathematical sutra demonstrations, bilingual instruction pairs, technique-grounded multi-turn dialogues, and cross-tradition comparative analyses.
 - Quality is assessed through a **multi-judge evaluation framework** in which independent language models score responses on **12 dimensions**, including technique fidelity, pedagogical quality, factual accuracy, and IKS cultural depth.
 - Under a uniform five-judge external panel (median aggregation over 1,201 stratified items), the strongest IKS-Instruct fine-tune of a compact **7B model reaches a median judge score of 6.39**, within 0.15 of a strong general-purpose reference model (Nemotron-Nano at 6.54) at a fraction of its deployment cost.
@@ -41,7 +41,7 @@ IKS-Instruct targets a gap in instruction tuning: existing datasets such as Alpa
 - The language distribution is imbalanced — English at 36.1% against Malayalam at 6.3% — and fine-tuned models show weaker IKS capability in Telugu and Malayalam than in English and Hindi.
 - Quality rests on LLM judges, which favor longer responses, formal academic language, and their own generation patterns; the panel includes Llama-family judges while the fine-tunes are LoRA adapters on the Llama-based Airavata backbone, so residual self-preference cannot be excluded and human expert calibration is left to future work.
 - 67% of auto-generated Vedic mathematics pairs were erroneous before filtering, subtle errors may persist in retained pairs, and the manually verified v2.1 reduced coverage of mathematical techniques.
-- Coverage stops at the CBSE classes 6-12 alignment — no primary (classes 1-5) or higher education — and oral guru-shishya traditions and manuscript-only texts are structurally absent because the dataset is built from digitally available sources.
+- Coverage stops at the CBSE classes 6-12 alignment — no primary (classes 1-5) or [[higher-ed|higher education]] — and oral guru-shishya traditions and manuscript-only texts are structurally absent because the dataset is built from digitally available sources.
 
 ## Citation
 

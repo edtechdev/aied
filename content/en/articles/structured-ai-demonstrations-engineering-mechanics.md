@@ -16,7 +16,7 @@ confidence: high
 
 > **Synthesis:** This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
 
-The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open [[research-methods-aied|methodological]] framework for other instructors.
+The authors contribute a reproducible [[self-report-measures|survey instrument]] capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open [[research-methods-aied|methodological]] framework for other instructors.
 
 A deployable sequence of nine structured, instructor-led AI demonstrations models strategic LLM delegation and evaluation for students, treating AI use as a taught skill rather than an assumed behavior.
 
@@ -35,7 +35,7 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 - The design is quasi-experimental and confounded: of 196 enrolled students, 105 consented, assignment to the intervention section came from registration choices, the intervention section was taught by the Principal Investigator, and the intervention applied to a single section (n = 1 at the section level). No covariate for prior academic ability is available under FERPA constraints.
 - All behavioral, attitudinal, and usage data are self-reported, and AI use frequency was recorded on a coarse 5-point ordinal scale that cannot distinguish one prolonged, sophisticated session from several brief queries; students' independent access to consumer AI platforms was not tracked.
 - At n = 105 the analysis is strictly descriptive, with no significance tests and no causal claims, and the authors treat the between-section grade comparison as uninformative because of unreportable section-level context.
-- The qualitative coding used a multi-model LLM pipeline with high inter-model reliability but no human-coded validation sample, so reported frequencies are machine-coded rather than human-verified.
+- The [[qualitative-research|qualitative]] coding used a multi-model LLM pipeline with high inter-model reliability but no human-coded validation sample, so reported frequencies are machine-coded rather than human-verified.
 
 ## Citation
 

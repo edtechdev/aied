@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-25T19:20:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -31,7 +31,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **What is the learner?** Posthumanist philosophy reconceptualizes the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) This challenges the assumption that the learner is a bounded, autonomous individual mind.
 - **Embodiment and the limits of disembodied AI.** [[embodied-learning|Embodied]] and post-cognitivist philosophy critiques the dominance of symbolic, disembodied AI models, arguing that cognition is grounded in situationality, emergence, and sensorimotor coupling that current [[generative-ai|generative AI]] lacks.([[videla-embodied-ai-education-choreography]])
 - **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **The ontology of AI-generated scientific objects.** In chemistry, AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
+- **The ontology of AI-generated scientific objects.** In [[chemistry-education|chemistry]], AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Cognitive passivity as an epistemic harm.** Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which supplies the work does not merely offload thinking but forecloses it, with Bourdieu's field and habitus locating the risk in institutional structures ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.([[avraamidou-ai-colonization-science-education]]) This connects to [[critical-pedagogy]] and [[ethics]].
 - **'Human-centered' as an anthropocentric discourse, not a neutral ethic.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] read UNESCO, OECD and Montréal Declaration documents to argue that human-centered AIED inherits Enlightenment humanism's exclusions, that transhumanism preserves them, and that the label can legitimize commercial infrastructure.

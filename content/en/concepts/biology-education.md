@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-26T08:20:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -17,7 +17,7 @@ reviewed_by: [editor]
 - Biology makes distinctive demands on learners — specialized terminology, visual-spatial and systems thinking, hands-on lab work. Before reading, how do you think these features change what AI can genuinely help with in biology versus what it might undermine?
 - A virtual lab teaching assistant study found human TAs more accurate and effective than ChatGPT, yet students preferred the AI response 40% of the time and could only detect AI output 45% of the time. Why might students prefer a less accurate AI answer — and what does that say about the 'safety net' needed in lab teaching?
 - AI has revolutionized biology research (AlphaFold, computational biology) while its adoption in biology education has been cautious, amid concerns about cheating and erosion of critical thinking. Why do you think the same tools that power scientific discovery are treated with such caution in the classroom?
-- One study embedded machine-learning concepts into a high-school biology course and found the biology context actually supported AI learning — evidence for embedding AI literacy in the curriculum rather than making it an add-on. Where in a biology course would AI concepts naturally arise?
+- One study embedded [[machine-learning]] concepts into a high-school biology course and found the biology context actually supported AI learning — evidence for embedding AI literacy in the [[curriculum-design|curriculum]] rather than making it an add-on. Where in a biology course would AI concepts naturally arise?
 - Researchers argue that as AI reshapes biological research, critical thinking — skepticism, contextual understanding, ethical reasoning — must be deliberately cultivated with human oversight. If AI can now identify species, interpret images, and predict outcomes, what intellectual work is left that students must learn to do themselves?
 
 ## Introduction
@@ -34,8 +34,8 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 
 **Socratic AI argumentation practice in teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 [[socratic-method|Socratic tutor]] on socio-scientific issues raised argumentation quality over offline peer discussion (adjusted 3.91 vs. 3.21, F(1,121) = 14.23, p < .001), with the largest gains in rebuttal and counter-evidence skills ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
-**Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
-- **LLMs answer better than they mark.** Across 1,344 answers to 336 open-ended biological-statistics questions spanning Bloom's levels, [[llm-open-ended-questions-biology-statistics-2026|Nguyen et al. (2026)]] found three models rated above a 20-student group, yet a single LLM marker agreed with an experienced instructor so poorly that no student reached fair agreement.
+**Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of [[generative-ai|generative AI]].
+- **LLMs answer better than they mark.** Across 1,344 answers to 336 open-ended biological-statistics questions spanning Bloom's levels, [[llm-open-ended-questions-biology-statistics-2026|Nguyen et al. (2026)]] found three models rated above a 20-student group, yet a single [[llm]] marker agreed with an experienced instructor so poorly that no student reached fair agreement.
 
 **How much of the grade is actually exposed.** Weighting each graded category of one department's 38 core-course syllabi by instructor-rated vulnerability put 33% of course points at high exposure and 81% at least somewhat exposed - 41% and 100% online - with only in-person proctored exams rated minimally vulnerable ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -49,7 +49,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - **Embed AI literacy in the biology curriculum, not as an add-on.** [[zha-ai-literacy-biology-case-study|Zha et al.]] show biology context supports AI learning; integrate ML/neural-network concepts into coursework where they naturally arise.
 - **Deliberately cultivate critical thinking in the AI era.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]] argue skepticism, contextual understanding, and ethical reasoning must be taught explicitly, with human oversight to validate AI outputs and prevent bias.
 - **Teach responsible use alongside challenge-based learning.** [[chatgpt-math-biology-challenge-based-learning-2025|CBL studies]] find students value immediacy but worry about veracity and skill erosion — update academic-integrity codes and AI-use ethics in parallel with adoption.
-- **Survey the specialized tool landscape.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] map tools (iNaturalist, Google Lens, bioimaging, at-risk prediction) that instructors can deploy for fieldwork, species ID, and student support — choose purpose-built tools over general chatbots where they fit.
+- **Survey the specialized tool landscape.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] map tools (iNaturalist, Google Lens, bioimaging, at-risk prediction) that instructors can deploy for fieldwork, species ID, and [[student-support-and-success|student support]] — choose purpose-built tools over general [[conversational-ai|chatbots]] where they fit.
 
 ## Common Misconceptions
 

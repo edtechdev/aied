@@ -18,7 +18,7 @@ confidence: high
 - **Process over product:** Surfaces the hidden debugging workflow, moving assessment beyond final artifacts toward [[formative-assessment]] of process.
 - **Coached vs uncoached modes:** Distinguishes Training from Evaluation traces, enabling differentiation of guidance effects in [[programming-its]].
 - **Lightweight, language-agnostic capture:** VS Code-standard mechanisms reduce instructor setup burden, supporting [[cs-education]] at scale.
-- **AI-assisted practice feedback:** Optional automated feedback loops tie into [[feedback|Feedback Loop]] [[research-methods-aied|research]].
+- **AI-assisted practice feedback:** Optional [[ai-feedback-quality|automated feedback]] loops tie into [[feedback|Feedback Loop]] [[research-methods-aied|research]].
 - **Learning analytics:** Append-only event logs feed [[learning-analytics]] on how students debug, informing [[student-experience]] design.
 
 ## What this means for practice

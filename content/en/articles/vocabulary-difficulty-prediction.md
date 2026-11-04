@@ -14,7 +14,7 @@ audience: [researchers, instructional designers, assessment designers]
 methods: [benchmark]
 ---
 
-> **Synthesis:** This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.
+> **Synthesis:** This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and [[explainable-ai|explainability]] of NLP systems for educational applications.
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ methods: [benchmark]
 2. **Explainable model** → r > 0.77, outperforming fine-tuned encoder baselines while providing interpretable feature-level insights
 
 **What makes words hard?** Beyond genuine production difficulty (word frequency, length, concreteness), the analysis reveals that:
-- **Spelling difficulty** significantly impacts vocabulary item difficulty
+- **Spelling difficulty** significantly impacts vocabulary [[item-response-theory|item difficulty]]
 - **Test item construction** (how items are presented) affects measured difficulty independent of the words themselves
 - These factors are particularly pronounced in the British Council's Knowledge-based Vocabulary Lists (KVL)
 
@@ -38,7 +38,7 @@ This connects to [[llm-children-reading-story-generation]], which uses LLMs for 
 
 ## Technical Innovation
 
-The **soft-target loss function** for LLM fine-tuning on rating (regression) tasks is notable. Traditional fine-tuning uses hard classification targets; adapting LLMs to predict continuous difficulty scores required a custom loss. This technique may generalize to other [[educational-nlp|educational NLP]] tasks requiring nuanced ordinal or continuous predictions, relevant to [[self-referential-l2-writing-llm-assessment]] and [[cyberscholar-genai-writing-feedback]].
+The **soft-target loss function** for [[llm-training-and-fine-tuning|LLM fine-tuning]] on rating (regression) tasks is notable. Traditional fine-tuning uses hard classification targets; adapting LLMs to predict continuous difficulty scores required a custom loss. This technique may generalize to other [[educational-nlp|educational NLP]] tasks requiring nuanced ordinal or continuous predictions, relevant to [[self-referential-l2-writing-llm-assessment]] and [[cyberscholar-genai-writing-feedback]].
 
 ## Benchmark Context
 

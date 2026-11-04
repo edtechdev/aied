@@ -39,7 +39,7 @@ Across the six capability dimensions analyzed:
 This maps closely to the four-paradigm framework in [[agentic-workflows-education]] ([[reflection]], planning, tool use, multi-agent collaboration), where the reviewed systems tend to cluster in the first two paradigms while falling short on the more advanced ones.
 
 ### 4. Theoretical Grounding is Limited
-Only **138 of 474 studies** (29%) explicitly drew on [[learning-theories|educational theory]], revealing a **clear disciplinary divide** between technically oriented research (CS/engineering) and pedagogically oriented work (education/learning sciences). This echoes broader concerns about the gap between technological capability and [[pedagogy|pedagogical]] intentionality.
+Only **138 of 474 studies** (29%) explicitly drew on [[learning-theories|educational theory]], revealing a **clear disciplinary divide** between technically oriented research (CS/engineering) and pedagogically oriented work (education/[[learning-sciences|learning sciences]]). This echoes broader concerns about the gap between technological capability and [[pedagogy|pedagogical]] intentionality.
 
 ### 5. Methodological Limitations
 Most studies rely on **small-scale, short-term designs**. Longitudinal and real-world validation studies are rare, limiting the evidence base for claims about effectiveness. The review calls for more rigorous [[ai-ed-evaluation|efficacy-study]] designs and attention to [[student-experience]] beyond immediate performance metrics.
@@ -81,7 +81,7 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 ## Limitations
 
 - As a scoping review, the study conducted no meta-analysis and did not assess risk of bias in individual studies, so it maps the field's shape but cannot establish effectiveness.
-- The search was restricted to titles, abstracts, and keywords, and screening used an LLM-assisted strategy with two human reviewers, leaving relevant studies retrievable only through full-text indexing outside the corpus.
+- The search was restricted to titles, abstracts, and keywords, and screening used an [[llm]]-assisted strategy with two human reviewers, leaving relevant studies retrievable only through full-text indexing outside the corpus.
 - The evidence base itself is dominated by small-scale, short-term designs and post-2025 publication (278 of 474 studies in 2025, 146 in January–May 2026), limiting the maturity of any cumulative claim.
 - First authors are heavily concentrated in China (150, 31.6%) and the United States (93, 19.6%) — 51.2% combined — which the authors flag as a threat to generalizability across educational systems.
 

@@ -26,7 +26,7 @@ The article's organizing framework separates two facets of our cognitive systems
 
 ## Evidence cited
 
-- **Math learning (high school) [6]:** Students with an AI that let them *fully offload* solving practice problems scored higher on practice but **performed worse on a later no-AI test** than students who never had AI. A *third* condition — a custom AI **tutor** that probed knowledge and filled gaps (rather than giving answers) — performed **no worse** than no-AI students, indicating the targeted skill was still acquired.
+- **Math learning (high school) [6]:** Students with an AI that let them *fully offload* solving practice problems scored higher on practice but **performed worse on a later no-AI test** than students who never had AI. A *third* condition — a custom AI **tutor** that probed knowledge and filled gaps (rather than giving answers) — performed **no worse** than no-[[simulating-students|AI students]], indicating the targeted skill was still acquired.
 - **Endoscopy skill decay [8]:** After an [[ai-detection|AI detection]] tool was introduced, adenoma detection rates fell from **28.4% → 22.4%** in cases where the AI was unavailable — evidence of deskilling when the tool was withdrawn.
 - **Knowledge acquisition (Box 1) [2,3]:** Offloading to an external store during learning reduces later retrieval; an AI-summary study found advice was "briefer, less unique, and rated less helpful," with learners spending less time and feeling less ownership — shallower depth of learning than web search.
 

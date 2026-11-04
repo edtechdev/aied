@@ -17,9 +17,9 @@ level: [adult learning]
 
 ## Key Findings
 
-- In a large-scale survey of 776 German participants conducted in February 2025 — the third year following the breakthrough launch of ChatGPT — 87% of respondents reported already incorporating LLMs into their everyday learning routines for a wide variety of learning tasks (11% used LLMs but not for learning, and 2% did not use them at all).
+- In a large-scale survey of 776 German participants conducted in February 2025 — the third year following the breakthrough launch of [[generative-ai|ChatGPT]] — 87% of respondents reported already incorporating LLMs into their everyday learning routines for a wide variety of learning tasks (11% used LLMs but not for learning, and 2% did not use them at all).
 - Young adults among German-based, digitally engaged users are at the forefront of adopting LLMs, primarily to enhance their learning experiences independently of time and space: LLM learners averaged 31 years versus 35 for non-learners (F = 6.68, p < .01), men were more likely to adopt (53% of LLM learners were male, while 64% of avoiders were female; χ² = 15.5, p < .001), and ChatGPT dominated, with 93% (n = 632) of LLM learners reporting its use.
-- Four types of learners emerge across learning contexts, distinguished by the tasks they perform with LLMs and the devices they use to access them: Structured Knowledge Builders (22.9%), Self-Guided Explorers (26.5%), Analytical Problem Solvers, and Adaptive Power Users, identified via latent class analysis with balanced class shares (23.8–25.7%).
+- Four types of learners emerge across learning contexts, distinguished by the tasks they perform with LLMs and the devices they use to access them: Structured Knowledge Builders (22.9%), Self-Guided Explorers (26.5%), Analytical Problem Solvers, and Adaptive Power Users, identified via [[latent-profile-analysis|latent class analysis]] with balanced class shares (23.8–25.7%).
 - Respondents exhibit paradoxical trust behaviors: they rely on LLMs while simultaneously distrusting their accuracy and privacy protection measures — 88% (n = 601) perceived improved learning or productivity, yet misinformation was the most commonly cited challenge (68%, n = 460) and the majority (n = 543) reported taking no privacy measures.
 - The study's implications emphasize the importance of including different media types for learning, enabling [[collaborative-learning]], providing sources, and meeting the needs of different types of learners — "learning by design."
 
@@ -32,13 +32,13 @@ The study addresses who is embracing LLMs for [[self-directed-learning|self-dire
 - **Learners.** Notice that your LLM learning is already a routine, not a novelty: the median learner spent about 20 minutes per weekday on it, 63.5% had used LLMs for more than six months, 58% (n = 395) said they were extremely likely to keep using them for learning, and 72% would recommend them to friends.
 - **Learners.** Calibrate trust rather than switching it on or off: reported reliance came alongside distrust of accuracy and privacy, so check outputs and check what a tool does with what you tell it.
 - **Designers.** Support that calibration directly with source provision and transparency features, and build for varied task-device combinations instead of one interface for everyone — the four learner types the study identifies argue against a single design.
-- **Designers.** Consider multimodal and collaborative features for self-regulated, informal use, since so much AI-mediated learning now happens outside formal curricula and the shape of that learning differs from classroom study.
+- **Designers.** Consider [[multimodal]] and collaborative features for self-regulated, informal use, since so much AI-mediated learning now happens outside formal curricula and the shape of that learning differs from classroom study.
 
 ## Limitations
 
 - **Single-country, self-selected sample.** Recruited exclusively from Germany via Prolific, the sample may overrepresent tech-savvy, English-fluent individuals (mean [[ai-literacy|AI literacy]] score = 3.06), and cultural attitudes toward AI vary, so findings may not generalize to non-Western or less tech-savvy populations.
 - **Small non-user subsample.** The subgroup of non-users was small, so results for that group should be treated as exploratory and descriptive.
-- **Self-reported use with no outcome measures.** The study measured self-reported LLM use and perceived purposes without measuring concrete [[learning-gains|learning outcomes]], so no claims can be made about whether more frequent or highly satisfactory LLM use translates into deeper conceptual learning.
+- **[[self-report-measures|Self-reported]] use with no outcome measures.** The study measured self-reported LLM use and perceived purposes without measuring concrete [[learning-gains|learning outcomes]], so no claims can be made about whether more frequent or highly satisfactory LLM use translates into deeper conceptual learning.
 
 ## Citation
 

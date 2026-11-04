@@ -21,16 +21,16 @@ discipline: [biology education, learning sciences]
 audience: [researchers, software developers]
 page_kind: [framework]
 ---
-> **Synthesis:** Moon, Rosé, and Stamper (2026) propose Cognitive Agent Compilation (CAC), in which a strong teacher language model compiles problem-solving knowledge into an explicit target agent rather than leaving it latent in weights. The agent attempts a problem using only its declared knowledge base, the teacher inspects the trace for missing knowledge components or misapplied strategies, then injects corrective knowledge as inspectable artifacts before the agent retries until both answers and process constraints hold. CAC separates knowledge representation, problem-solving policy, and verification and update rules so that behavior can be attributed to declared structure. The proof of concept uses small, zero-shot models throughout. On 27 biology problems the agent accumulated 188 declarative memory entries at a mean of 3.1 iterations per problem, then stalled on the 28th after 150 iterations. CAC is offered as a bounded, inspectable problem-solving model, not a validated learner model.
+> **Synthesis:** Moon, Rosé, and Stamper (2026) propose Cognitive Agent Compilation (CAC), in which a strong [[teacher-role|teacher]] [[llm|language model]] compiles problem-solving knowledge into an explicit target agent rather than leaving it latent in weights. The agent attempts a problem using only its declared knowledge base, the teacher inspects the trace for missing knowledge components or misapplied strategies, then injects corrective knowledge as inspectable artifacts before the agent retries until both answers and process constraints hold. CAC separates knowledge representation, problem-solving policy, and verification and update rules so that behavior can be attributed to declared structure. The proof of concept uses small, zero-shot models throughout. On 27 [[biology-education|biology]] problems the agent accumulated 188 declarative memory entries at a mean of 3.1 iterations per problem, then stalled on the 28th after 150 iterations. CAC is offered as a bounded, inspectable problem-solving model, not a validated [[student-modeling|learner model]].
 
 ## Key Findings
 
 - **A teacher model compiles knowledge rather than tutoring directly.** It reads the target-agent specification, current knowledge base, and failed trace, then authors new declarative memory items in the required format.
-- **The cycle is failure driven.** Corrective knowledge is injected against diagnosed missing knowledge components or misconception triggers, and the agent retries until answers and process constraints are satisfied.
+- **The cycle is failure driven.** Corrective knowledge is injected against diagnosed missing knowledge components or [[misconceptions|misconception]] triggers, and the agent retries until answers and process constraints are satisfied.
 - **LLMs cannot simulate not knowing.** Models struggle to suppress knowledge generation, making them poor proxies for student learners, and expertise alone does not confer teaching skill. CAC declares what the system assumes a learner knows.
-- **Everything in the prototype is small and untuned.** The executor, the retrieval model, and the teacher all ran zero-shot without fine-tuning.
+- **Everything in the prototype is small and untuned.** The executor, the retrieval model, and the teacher all ran zero-shot without [[llm-training-and-fine-tuning|fine-tuning]].
 - **Retrieval broke down after 27 compiled problems.** The knowledge base reached 188 declarative memory entries at 3.1 iterations per problem before the run ended at problem 28.
-- **Two failure modes dominate the discussion.** Prior knowledge lets a capable executor answer without the compiled structure, and the fan effect degrades retrieval as items share overlapping cues.
+- **Two failure modes dominate the discussion.** [[prior-knowledge|Prior knowledge]] lets a capable executor answer without the compiled structure, and the fan effect degrades retrieval as items share overlapping cues.
 
 ## Three separated parts, and the teacher that compiles them
 
@@ -38,7 +38,7 @@ The framework's central claim is that a problem-solving agent should not be one 
 
 ## An early proof of concept built from small models
 
-The authors call this an early proof of concept, not a validated system. The cognitive agent uses Qwen2.5-2B as its executor, embedding-gemma at 300M parameters for similarity retrieval, and gemma-3-27b-it run locally at 4-bit quantization as the teacher, all under zero-shot prompting. Problems came from OLI_Biology in the CMU DataShop, chosen for its dependence on declarative memory and its logged student interactions. A fully deterministic controller, such as ACT-R style production rules, would be predictable but hard to extend beyond a narrow problem space, while a small language model widens the reachable space and reintroduces a residual black-box component whose prior knowledge cannot be fully inspected. Fewer parameters do not make the executor explainable; they change how much latent capacity remains.
+The authors call this an early proof of concept, not a validated system. The cognitive agent uses Qwen2.5-2B as its executor, embedding-gemma at 300M parameters for similarity retrieval, and gemma-3-27b-it run locally at 4-bit quantization as the teacher, all under zero-shot [[prompt-engineering|prompting]]. Problems came from OLI_Biology in the CMU DataShop, chosen for its dependence on declarative memory and its logged student interactions. A fully deterministic controller, such as ACT-R style production rules, would be predictable but hard to extend beyond a narrow problem space, while a small language model widens the reachable space and reintroduces a residual black-box component whose prior knowledge cannot be fully inspected. Fewer parameters do not make the executor explainable; they change how much latent capacity remains.
 
 ## What the prototype failure modes show
 
@@ -53,9 +53,9 @@ Three problems surfaced. First, prior knowledge works against the framework: a m
 
 ## Limitations
 
-- **No validation against students.** Design targets such as simulating problem solving under restricted knowledge are criteria, not established capabilities.
+- **No validation against students.** Design targets such as simulating [[problem-solving|problem solving]] under restricted knowledge are criteria, not established capabilities.
 - **Dependence on the specific models.** Six sub-1B models could not follow the structured instructions, so the prototype settled on a single 2B executor.
-- **An unresolved black-box remainder.** Knowledge ablation against answer persistence and downstream knowledge tracing are proposed tests, not evidence that what stays latent is small enough for educational use.
+- **An unresolved black-box remainder.** Knowledge ablation against answer persistence and downstream [[knowledge-tracing|knowledge tracing]] are proposed tests, not evidence that what stays latent is small enough for educational use.
 
 ## Citation
 

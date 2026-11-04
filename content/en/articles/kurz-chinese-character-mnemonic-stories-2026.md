@@ -41,7 +41,7 @@ The design isolates the story as far as a pilot can. Every participant chose eig
 
 ## What the story actually did
 
-Participants did not credit the story as a retrieval cue. They credited the attention it forced. One put it plainly: you really have to focus on the radicals, and at test imagined the story less but did think "that was that radical and that was that radical." That is a levels-of-processing account, and it fits desirable difficulties: a step that feels costly while learning pays later. The [[scaffolding]] in the tool is part of the treatment rather than a neutral wrapper — the live coverage check makes the component checklist impossible to skip.
+Participants did not credit the story as a retrieval cue. They credited the attention it forced. One put it plainly: you really have to focus on the radicals, and at test imagined the story less but did think "that was that radical and that was that radical." That is a levels-of-processing account, and it fits [[desirable-difficulties|desirable difficulties]]: a step that feels costly while learning pays later. The [[scaffolding]] in the tool is part of the treatment rather than a neutral wrapper — the live coverage check makes the component checklist impossible to skip.
 
 The design cannot separate the ingredients. The mnemonic condition took 1.69 times as long, so generating the story, having a narrative at all, the extra attention and the extra time are entangled. The authors say so directly, and the honest reading is that this pilot establishes feasibility and direction, not a mechanism.
 

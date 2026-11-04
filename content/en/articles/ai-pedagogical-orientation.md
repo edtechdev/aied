@@ -60,7 +60,7 @@ These are not resolvable by more information or better tools — they require di
 - How stable is AI pedagogical orientation over time? Does it change with experience?
 - Are there discipline-specific differences in the content of orientations (physics vs. [[chemistry-education|chemistry]] vs. [[biology-education|biology]])?
 - Can faculty development interventions shift orientation, or is it a stable trait?
-- How does orientation relate to actual classroom practice (not just self-reported use)?
+- How does orientation relate to actual classroom practice (not just [[self-report-measures|self-reported]] use)?
 
 ## What this means for practice
 

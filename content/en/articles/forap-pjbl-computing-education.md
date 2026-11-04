@@ -27,8 +27,8 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 
 ## Limitations
 
-- The paper reports no controlled quantitative evaluation of student outcomes or instructor workload — a limitation the authors state explicitly — presenting FORAP, the 14-package portfolio, and implementation lessons from classroom trials instead.
-- Outcome evidence is deferred rather than reported: the authors plan to analyze pre-/post-survey data and instructor-facing measures such as project preparation time in future work, so no claim about learning gains is supported here.
+- The paper reports no controlled [[quantitative-research|quantitative]] evaluation of student outcomes or instructor workload — a limitation the authors state explicitly — presenting FORAP, the 14-package portfolio, and implementation lessons from classroom trials instead.
+- Outcome evidence is deferred rather than reported: the authors plan to analyze pre-/post-survey data and instructor-facing measures such as project preparation time in future work, so no claim about [[learning-gains|learning gains]] is supported here.
 - Durability is an acknowledged threat to adoption: installation and configuration materials can become outdated quickly as dependencies, versions, and platforms change, so reuse depends on sustained maintenance.
 - The authors note that the effect of different support materials on student outcomes is not yet isolated, and that broader surveys and interviews with instructors are still needed to understand how FORAP supports adoption and adaptation across computing courses.
 

@@ -42,7 +42,7 @@ Short answer to give a colleague: generated questions are candidates, not an ass
 
 Generation is cheap enough that the output format quietly becomes the specification. If your notes produce tidy multiple-choice items, you will end up measuring whether students can choose among plausible statements, whatever outcome the syllabus claims.
 
-Specify the outcome first, then the evidence a satisfactory response would supply, then the knowledge students are expected to bring. Include the course materials, the misconceptions you expect, any permitted tools and the response format. If you want students interpreting evidence, the item has to require interpretation, and adding the word to a definition question does not do it. A long scenario can still be answerable through one familiar phrase that gives the game away.
+Specify the outcome first, then the evidence a satisfactory response would supply, then the knowledge students are expected to bring. Include the course materials, the [[misconceptions]] you expect, any permitted tools and the response format. If you want students interpreting evidence, the item has to require interpretation, and adding the word to a definition question does not do it. A long scenario can still be answerable through one familiar phrase that gives the game away.
 
 An assessment blueprint is a table of outcomes against items, and its value is that it exposes gaps before students do. It also makes the trade-off visible: every item you generate from the easiest material is an item you did not spend on the outcome you care about most.
 
@@ -64,7 +64,7 @@ A second model can help you spot problems, and agreement between two models is n
 
 ## Do not let the difficulty label decide
 
-The [[automated-question-generation|question-generation]] literature is more useful on the failure of labels than on the success of generation. [[student-llm-use-ai-question-difficulty-data-science-2026|An and Wang (2026)]] examined 378 authored questions in data-science courses, of which 311 were deployed to 54 students across 7,888 responses. The model's easy, medium and hard labels correlated with its own co-generated Bloom's levels at ρ = 0.90 and with empirical item difficulty at ρ = 0.06. Roughly 70% of the deployed items were answered correctly by every student, which left almost no variation for a difficulty label to track even in principle.
+The [[automated-question-generation|question-generation]] literature is more useful on the failure of labels than on the success of generation. [[student-llm-use-ai-question-difficulty-data-science-2026|An and Wang (2026)]] examined 378 authored questions in data-science courses, of which 311 were deployed to 54 students across 7,888 responses. The model's easy, medium and hard labels correlated with its own co-generated Bloom's levels at ρ = 0.90 and with empirical [[item-response-theory|item difficulty]] at ρ = 0.06. Roughly 70% of the deployed items were answered correctly by every student, which left almost no variation for a difficulty label to track even in principle.
 
 Two lessons follow. First, difficulty is a property of the interaction between an item and a population, so no label produced before administering the item can be trusted as a measured value. Second, a bank of items everyone answers correctly is not an easy assessment, it is a useless one: it carries almost no information about who knows what.
 

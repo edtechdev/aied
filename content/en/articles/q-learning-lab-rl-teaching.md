@@ -39,8 +39,8 @@ The tool was validated without human-subject data through three complementary ev
 
 ## Limitations
 
-- The tool was validated entirely without human-subject data — correctness against value-iteration ground truth on the identical MDP, hyperparameter sweeps over α, γ, and ε, and a reward-editing study at 10 seeds per regime — so the evaluation establishes algorithmic fidelity and reproducibility but no student learning gains, and the classroom study with a pre/post concept inventory is deferred.
-- Scope is deliberately narrow: tabular Q-learning on a deterministic, fully observable, single-agent 5×5 gridworld, with stochastic transitions, function approximation, continuing tasks, and multi-agent settings out of scope by design.
+- The tool was validated entirely without human-subject data — correctness against value-iteration ground truth on the identical MDP, hyperparameter sweeps over α, γ, and ε, and a reward-editing study at 10 seeds per regime — so the evaluation establishes algorithmic fidelity and reproducibility but no student [[learning-gains|learning gains]], and the classroom study with a pre/post concept inventory is deferred.
+- Scope is deliberately narrow: tabular Q-learning on a deterministic, fully observable, single-agent 5×5 gridworld, with stochastic transitions, function approximation, continuing tasks, and [[agentic-ai|multi-agent]] settings out of scope by design.
 - The small MDP produces ceiling effects — most hyperparameter settings, including all tested α values, converge — so the tool should not be presented as evidence that hyperparameters do not matter.
 - The on-screen trace keeps only the latest 500 steps and fast-training mode skips logging, so long training runs are only partially traced.
 

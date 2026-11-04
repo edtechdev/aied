@@ -29,8 +29,8 @@ level: [higher ed]
 
 - **Researchers.** Treat student prompts as measurable process evidence of cognitive engagement, alongside outcome measures, but hold the line that a higher-order prompt is necessary and not sufficient evidence of learning.
 - **Researchers.** Benchmark a course and its students against the discipline norm and the course, not against the platform mean: course-level variance (σcourse ≈ 0.96) substantially exceeded student-level variance (σstudent ≈ 0.41).
-- **Designers.** Configure assistants by discipline: procedural scaffolding and worked-example progression in STEM settings, argument scaffolding and perspective-taking prompts in Social Science settings.
-- **Designers.** Treat course-level features — system prompt configuration, assessment structure, instructor pedagogy — as the primary design lever, since they carried more weight than individual student differences.
+- **Designers.** Configure assistants by discipline: procedural [[scaffolding]] and worked-example progression in STEM settings, argument scaffolding and perspective-taking prompts in Social Science settings.
+- **Designers.** Treat course-level features — system prompt configuration, assessment structure, instructor [[pedagogy]] — as the primary design lever, since they carried more weight than individual student differences.
 - **Researchers.** Release the classifier specification, the human-rated validation set, and analytic scripts with published results so that Bloom classifications can be independently audited.
 
 ## Limitations

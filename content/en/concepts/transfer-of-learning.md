@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-01T09:06:43-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 Transfer of learning is a foundational concern in education [[research-methods-aied|research]], and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
 
 
-Readiness is not transfer: AI-assisted spoken practice was associated with lower speaking anxiety and higher willingness to communicate with humans, yet neither study observed human speaking, leaving the route from AI rehearsal to human communicative ability an untested pedagogical proposal ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+Readiness is not transfer: AI-assisted spoken practice was associated with lower speaking [[anxiety-and-stress|anxiety]] and higher willingness to communicate with humans, yet neither study observed human speaking, leaving the route from AI rehearsal to human communicative ability an untested pedagogical proposal ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### The transfer paradox
 
@@ -60,7 +60,7 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 **Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
 
 
-A protected classroom can also teach the wrong habit: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] warn that simulations with rules fixed in advance filter out uncertainty and reinforce rule-following, so decision habits formed inside them can become a cognitive liability once students meet competing interests and incomplete information in real settings.
+A protected classroom can also teach the wrong habit: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] warn that [[simulation|simulations]] with rules fixed in advance filter out uncertainty and reinforce rule-following, so decision habits formed inside them can become a cognitive liability once students meet competing interests and incomplete information in real settings.
 **Layer-sensitive offloading and transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] directly tests Salomon, Perkins & Globerson's "effects with vs. effects of technology" distinction in [[generative-ai|GenAI]]-assisted writing: an eight-week quasi-experiment found open AI collaboration maximized supported-writing performance but produced the *lowest* independent no-AI near-transfer outcomes, while bounded support with reflection preserved independent competence. Deeper offloading layers (reasoning, structure) predicted worse transfer than surface layers (grammar). This is direct classroom evidence that AI's *with*-support performance gains do not transfer to *of*-support independent performance — and that the depth of delegation, not just whether AI is used, shapes transfer.
 
 A complementary, if confounded, instance comes from [[physics-education|physics]]: the Ruhr University Bochum redesign of an introductory nuclear and particle physics course ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) had students successfully complete collaborative, resource-rich research problems with AI assistance, yet those same students averaged 20.6/80 on a conventional unaided written exam, with several serious attempts unable to complete standard calculations. The authors read this as evidence that assisted performance does not automatically transfer to unprompted performance, and their remedy is deliberate design: making the written exam the sole grade determinant, releasing tutorial problems in advance so class time becomes prepared discussion, and adding prerequisite preparation, worked examples and consolidation around the exploratory AI-permitted work.

@@ -14,7 +14,7 @@ confidence: medium
 level: [k 12]
 ---
 
-> **Synthesis:** Tozadore, Ertug, Chaker, and Abderrahim (2025) present RoboBuddy, an intuitive interface that lets teachers create scenario-based storytelling activities from their regular [[curriculum-design|curriculum]] using LLMs and social robots. The system addresses two practical classroom challenges: the significant planning time required to create improvised scenarios for content delivery (intensified when using complex [[ai-technologies|technologies]] like social robots), and the need to embed multicultural integration into an already tight curriculum. The authors co-designed activity frameworks with four teachers and deployed the system in a week-long study with 27 students.
+> **Synthesis:** Tozadore, Ertug, Chaker, and Abderrahim (2025) present RoboBuddy, an intuitive interface that lets teachers create scenario-based [[storytelling-in-education|storytelling]] activities from their regular [[curriculum-design|curriculum]] using LLMs and social robots. The system addresses two practical classroom challenges: the significant planning time required to create improvised scenarios for content delivery (intensified when using complex [[ai-technologies|technologies]] like social robots), and the need to embed multicultural integration into an already tight curriculum. The authors co-designed activity frameworks with four teachers and deployed the system in a week-long study with 27 students.
 
 ## Key Findings
 
@@ -25,12 +25,12 @@ level: [k 12]
 
 ## Study Design & Method
 
-This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an LLM-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering scenario-based learning content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
+This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an [[llm]]-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering [[simulation|scenario-based learning]] content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
 
 ## What this means for practice
 
 - **Instructors.** Generate scenario-based activities from the curriculum content you already teach instead of authoring improvised scenarios from scratch: co-design with four teachers produced frameworks the teachers judged accurate and offered without extra planning time, which they named as decisive for adopting the system.
-- **Instructors.** Deliver content through a storytelling frame rather than an expository explanation — students exposed to the scenario-based strategy reported higher self-reported enjoyment across both the activity and language sessions.
+- **Instructors.** Deliver content through a storytelling frame rather than an expository explanation — students exposed to the scenario-based strategy reported higher [[self-report-measures|self-reported]] enjoyment across both the activity and language sessions.
 - **Instructors.** Keep a human approval step between the LLM output and the robot: the interface's validation stage screened content for sensitive or inaccurate material before it reached the class, which is how the study mitigated LLM pitfalls.
 - **Instructors.** Embed integration elements inside ordinary activities rather than adding separate [[culturally-relevant-pedagogy|multicultural]] sessions, since most children identified the embedded integration elements in their drawings without being prompted.
 

@@ -35,10 +35,10 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 
 ## Limitations
 
-- Evaluation covers one dataset and one genre — 480 TOEFL Independent Writing essays written to two prompts by adult L2 English learners under test conditions — and its score distribution is thin at the extremes, with only 8 essays below 2.0 and 39 essays at 5.0, where the small bin sizes make the reported RMSE and bias estimates noisy. Narrative, expository, and research writing, K–12 and L1 writers, other languages, and longer compositions are unestablished.
+- Evaluation covers one dataset and one genre — 480 TOEFL Independent Writing essays written to two prompts by adult L2 [[multilingual-learning|English learners]] under test conditions — and its score distribution is thin at the extremes, with only 8 essays below 2.0 and 39 essays at 5.0, where the small bin sizes make the reported RMSE and bias estimates noisy. Narrative, expository, and research writing, K–12 and L1 writers, other languages, and longer compositions are unestablished.
 - The model deployed on the live platform was trained on all 480 essays and has no held-out evaluation set, so the authors can report scoring-quality point estimates only for the 120-train/360-test variant.
 - Two results rest on partial evidence: the LoRA rank-sensitivity finding comes from pilot observations rather than a systematic rank sweep, and adapters trained at full precision were applied to 4-bit Q4_K_M weights with no comparison across quantization schemes.
-- No fairness analysis (L1 group, demographic, or writing style) and no user study: the platform is in classroom use, but no pedagogical impact or formative-feedback efficacy is reported — only scoring accuracy.
+- No fairness analysis (L1 group, demographic, or writing style) and no user study: the platform is in classroom use, but no [[pedagogy|pedagogical]] impact or formative-feedback efficacy is reported — only scoring accuracy.
 
 ## Citation
 

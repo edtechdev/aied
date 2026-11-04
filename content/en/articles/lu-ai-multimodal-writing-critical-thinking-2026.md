@@ -39,8 +39,8 @@ The study contributes a rare upper-primary, multimodal test of conversational AI
 
 - The study followed 60 Grade 5 students in one Chinese primary school and included no control group by design, so the observed changes cannot be separated from maturation or ordinary instruction.
 - AI-bot multimodal composing and structured peer collaboration were delivered together inside the same lessons, so neither component's contribution can be isolated.
-- Critical thinking was measured by a self-report questionnaire adapted from Wei (2025) and piloted with only 10 students, never independently validated for this population; with 10–11-year-olds answering in the same classroom as the intervention, social desirability and demand characteristics are plausible.
-- The one-month follow-up supports only short-term maintenance rather than durable development, and the qualitative evidence rests on a purposive subsample of nine students working with a single China-based tool (Doubao).
+- Critical thinking was measured by a [[self-report-measures|self-report]] questionnaire adapted from Wei (2025) and piloted with only 10 students, never independently validated for this population; with 10–11-year-olds answering in the same classroom as the intervention, social desirability and demand characteristics are plausible.
+- The one-month follow-up supports only short-term maintenance rather than durable development, and the [[qualitative-research|qualitative]] evidence rests on a purposive subsample of nine students working with a single China-based tool (Doubao).
 
 ## Citation
 

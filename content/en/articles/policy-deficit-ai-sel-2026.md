@@ -48,7 +48,7 @@ Rather than treating policy as a generic ethical horizon, the authors argue AI�
 
 - **Researchers.** Build implication articulation into the research process itself, specifying for each finding who should act, what action is recommended, why, in which context, and how strongly it is framed.
 - **Administrators.** Require actor-specific implications in review, funding, and publication processes — of 65 reviewed papers, only 15 stated explicit policy implications and a further three contained implicit ones.
-- **Researchers.** Specify the institutional safeguards a tool needs — [[privacy]], teacher preparation, resource equity — before framing AI-for-SEL deployment as ready for practice, to avoid the techno-solutionist trap.
+- **Researchers.** Specify the institutional safeguards a tool needs — [[privacy]], teacher preparation, resource [[equity-in-ai-education|equity]] — before framing AI-for-SEL deployment as ready for practice, to avoid the techno-solutionist trap.
 - **Administrators.** Treat venue and incentive structure as levers: policy engagement correlated with publication venue, so journal and program expectations can materially change whether research informs [[governance]].
 
 ## Limitations

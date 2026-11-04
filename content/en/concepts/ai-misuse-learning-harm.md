@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-25T16:25:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the knowledge base's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 
-Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] found 51% of participants (n = 106) worried that genAI use could hamper individual development, naming losses to [[critical-thinking|critical thinking]], creativity and autonomy rather than rule-breaking.
+Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report the same fear from Swedish data: 51% of participants (n = 106) thought genAI use could stunt individual development, pointing to erosion of [[critical-thinking|critical thinking]], [[creativity]] and autonomy rather than to rule-breaking.
 
 ### The performance–learning gap
 
@@ -75,11 +75,11 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ### Conversational disengagement in the LLM era
 
-The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in student-AI dialogue, and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
+The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in [[student-ai-interaction|student-AI dialogue]], and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
 
 ## Common Misconceptions
 
-**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **students in the harmed group did not perceive that they learned less.** Self-report is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
+**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **those in the harmed group reported no sense of having gained less.** [[self-report-measures|Self-report]] is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
 
 **"The risk is how much AI a student uses."** The risk is what the AI is substituted for. Misuse here means delegating the drafting, recall or analysis that builds durable understanding — substitution rather than complement, and a student can substitute heavily in one task and complement productively in the next. Volume of use is the wrong variable; the division of cognitive labor is the right one.
 

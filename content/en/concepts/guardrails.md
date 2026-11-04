@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-28T19:28:52-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -70,8 +70,8 @@ Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-educat
 
 The two are closely coupled: almost every guardrail technique is a way of achieving [[pedagogy|pedagogical]] safety, and pedagogical safety is almost entirely delivered through guardrails. Guardrails is therefore best understood as the **design and engineering layer** beneath the pedagogical-safety principle, and is also the broader term used across general AI safety (content moderation, jailbreak resistance) before it is specialized for education.
 
-**Guardrails as a distribution of authority.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] treats guardrails as allocations across six separable dimensions — pedagogical grounding, AI instructional authority, human accountability, learner agency, context boundaries, and evaluation visibility — rather than points on a strict-to-permissive line, so tools sharing a model can distribute authority very differently. At course scale the boundary must cover the request space, the response space, and educator visibility, not only generated content.
-**Guardrails can redirect learners rather than stop them.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomized 132 students in an introductory programming course across four AI teaching assistants that varied pedagogical style (Socratic versus direct instruction) and context awareness. Students rated the Socratic assistant with full context least favorably, and that same condition descriptively showed the highest interaction stress, the highest rate of external general-purpose LLM use, and the lowest share of post-task explanations demonstrating full comprehension — differences the study reports as descriptive rather than statistically significant. Friction does not remove the demand for help; it can relocate that demand to tools the course cannot see, which makes calibration a pedagogical-safety question and not only a design one.
+**Guardrails as a distribution of authority.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] treats guardrails as allocations across six separable dimensions — pedagogical grounding, AI instructional authority, human accountability, [[agency|learner agency]], context boundaries, and evaluation visibility — rather than points on a strict-to-permissive line, so tools sharing a model can distribute authority very differently. At course scale the boundary must cover the request space, the response space, and educator visibility, not only generated content.
+**Guardrails can redirect learners rather than stop them.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomized 132 students in an [[cs-education|introductory programming]] course across four AI teaching assistants that varied pedagogical style (Socratic versus direct instruction) and context awareness. Students rated the Socratic assistant with full context least favorably, and that same condition descriptively showed the highest interaction stress, the highest rate of external general-purpose LLM use, and the lowest share of post-task explanations demonstrating full comprehension — differences the study reports as descriptive rather than statistically significant. Friction does not remove the demand for help; it can relocate that demand to tools the course cannot see, which makes calibration a pedagogical-safety question and not only a design one.
 
 ## Design Principles
 
@@ -87,7 +87,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 
 **For instructors**
 
-- Judge a tutor by unassisted performance, not practice performance. In the field RCT an unguarded GPT-4 tutor raised practice performance **+48%** while *reducing* later unassisted exam scores by **17%**, and the "hint-not-answer" version eliminated the harm. Every classroom signal that is generated with the tool present is the inflated one.
+- Judge a tutor by what learners can do unsupported, not by their in-session performance. In the field [[rct]], a GPT-4 tutor left practice accuracy **+48%** higher yet cost students **17%** on the later unsupervised exam, and the "hint-not-answer" build wiped out that loss. Every classroom signal that is generated with the tool present is the inflated one.
 - When you cannot change the tool, change what is graded without it. The unassisted measure is what makes the guardrail question visible at all.
 - Treat "kindness" as a design parameter with a failure mode: a tutor that never pushes back or corrects may satisfy students while removing the corrective [[feedback]] that learning needs.
 
@@ -105,7 +105,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 
 ## Common Misconceptions
 
-**"A guardrail is a filter you attach to a model."** Guardrails are a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA and ongoing auditing, and the layers are not interchangeable. A content filter sits on the output; the "hint-not-answer" pattern sits in the prompt and shapes what the system is willing to do at all. In the field RCT the guardrailed version eliminated the learning harm the unguarded version created, which is a property of the interaction design rather than of the filter.
+**"A guardrail is a filter you attach to a model."** Guardrails are a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA and ongoing auditing, and the layers are not interchangeable. A content filter sits on the output; the "hint-not-answer" pattern sits in the prompt and shapes what the system is willing to do at all. In the field RCT the guardrailed version eliminated the [[ai-misuse-learning-harm|learning harm]] the unguarded version created, which is a property of the interaction design rather than of the filter.
 
 **"If the model does not produce harmful content, the system is safe for learners."** Harm is often quiet. The most damaging tutoring failures are not toxic outputs but tutors that answer correctly and erode learning, or that refuse evenly and entrench inequality — failures a toxicity screen is structurally blind to, because nothing in them is offensive. Passing a content audit is a necessary condition reported as if it were sufficient.
 

@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.16626.md']
 confidence: high
 ---
 
-> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, overreliance, and [[academic-integrity|academic integrity]]. Analyzes two dominant metaphors — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
+> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, [[cognitive-offloading|overreliance]], and [[academic-integrity|academic integrity]]. Analyzes two dominant metaphors — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
 
 ## Key Findings
 
@@ -21,8 +21,8 @@ confidence: high
 - Students simultaneously expressed concerns about inaccuracies, bias, overreliance, academic integrity, and the burden of verification imposed by AI-generated output.
 - Two dominant metaphors — the LLM as "oracle" and as "tutor" — cultivate expectations of authority, expertise, and [[personalized-learning|personalized learning]] that exceed what probabilistic text generators can actually deliver.
 - Students' attachment to the promises of efficiency and personalized support reflects a form of "cruel optimism": the perceived benefits depend on the very skills, vigilance, and expertise that students are still developing.
-- Student respondents who offered suggestions (N=27) called for assessment redesign — in-person essays, grading shifted from memorization to analysis, oral exams, and presentations with personalized questions — pointing beyond the reproducibility of knowledge.
-- The chapter argues for a purpose-driven, context-sensitive approach to AI integration in [[engineering-education|engineering education]], emphasizing critical AI literacy, reflective assessment design, [[pedagogy|pedagogical]] caution, and consideration of broader [[ethics|ethical]] and environmental impacts.
+- Student respondents who offered suggestions (N=27) called for assessment redesign — in-person essays, grading shifted from memorization to analysis, [[oral-assessment|oral exams]], and presentations with personalized questions — pointing beyond the reproducibility of knowledge.
+- The chapter argues for a purpose-driven, context-sensitive approach to AI integration in [[engineering-education|engineering education]], emphasizing critical AI literacy, reflective [[assessment|assessment design]], [[pedagogy|pedagogical]] caution, and consideration of broader [[ethics|ethical]] and environmental impacts.
 
 ## Assessment Design
 
@@ -30,7 +30,7 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 
 ## What this means for practice
 
-- **Instructors.** Gate every adoption decision on purpose: ask why GenAI is needed for this course or assignment and what added value it delivers before adding it, which is the chapter's own proposed approach.
+- **Instructors.** Gate every adoption decision on purpose: ask why [[generative-ai|GenAI]] is needed for this course or assignment and what added value it delivers before adding it, which is the chapter's own proposed approach.
 - **Instructors.** Make [[ai-literacy]] and verification capacity prerequisites rather than extras, because the efficiency gains students prize are only realized by learners who already have the [[critical-thinking]] and domain expertise to judge AI output — the skills they are there to build.
 - **Learners.** Stop treating the [[llm]] as an oracle or a tutor: it is a probabilistic text generator whose fluent authority exceeds its reliability, and the verification burden lands on you and on your knowledge of the domain.
 - **Instructors.** Redesign assessment toward contextualization, in-class engagement, and oral or supervised formats for lower-order tasks, which is both the AAA framework reviewed in the chapter and what students themselves proposed (N=27).

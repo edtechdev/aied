@@ -54,7 +54,7 @@ Five interdisciplinary cases — psychology theory, educational statistics, [[cs
 - PEARLS is a conceptual framework that has not yet been psychometrically validated or shown to improve learning; the paper reports no data collection, sample, or field implementation.
 - The author acknowledges that the six dimensions overlap — Source is a form of Evidence, Access enables Reproducibility, and Legitimacy constrains the others — which is theoretically intentional but may complicate measurement, and the mnemonic may encourage superficial box-ticking when detached from disciplinary standards.
 - The literature synthesis is integrative rather than exhaustive, and the five cases (psychology theory, educational statistics, computer science, history, and health sciences) are illustrative rather than empirically tested.
-- The cases reflect selected Anglophone scholarly traditions and may not capture how knowledge, authority, access, and legitimacy are understood across cultures and institutions; the author states that co-design with students, educators, librarians, disability specialists, and disciplinary communities is necessary before broad implementation.
+- The cases reflect selected Anglophone scholarly traditions and may not capture how knowledge, authority, access, and legitimacy are understood across cultures and institutions; the author states that co-design with students, educators, [[librarians]], disability specialists, and disciplinary communities is necessary before broad implementation.
 
 ## Citation
 Wang, Z. (2026). [*From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education*](https://osf.io/preprints/edarxiv/9mvpa_v1/). EdArXiv preprint.

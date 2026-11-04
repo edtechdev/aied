@@ -12,7 +12,7 @@ audience: [researchers, instructional designers, learning analytics designers]
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
+> **Synthesis:** A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the [[simulation|simulator]] matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
 
 ### Two-stage pooled-then-specialized pipeline
 
@@ -34,7 +34,7 @@ Behavioral fidelity and guidance responsiveness capture a student's state and it
 
 - **Researchers.** Score simulators on fidelity and guidance responsiveness together on held-out per-student records, not on average behavior; the two are separable capabilities, and a faithful but unresponsive simulator or a responsive but unfaithful one fails the target corner (StudentSim reaches F = 0.51 and R = 0.91 in chess, against 0.23 and 0.72 for GPT-5.4).
 - **Researchers.** Do not train one simulator end-to-end per student from a small record: pool behavioral patterns across a domain first, then specialize a lightweight per-student adapter, because per-student data are sparse (median three essays in the second-language writing corpus, more than two thirds of learners writing five or fewer).
-- **Designers.** Use a frozen trained simulator as the reward when human feedback is too sparse to shape a tutor: expert chess players rated the resulting tutor higher on accuracy (90.5% vs 75.7% with no RL), guidance (3.31 vs 2.99), and personalization (3.93 vs 2.80).
+- **Designers.** Use a frozen trained simulator as the reward when human feedback is too sparse to shape a tutor: expert chess players rated the resulting tutor higher on accuracy (90.5% vs 75.7% with no RL), guidance (3.31 vs 2.99), and [[personalized-learning|personalization]] (3.93 vs 2.80).
 - **Designers.** Keep simulator and reward heads small, open, and locally servable so the head set can be customized to the student role being optimized; a closed frontier-model API exposes no backbone to probe.
 
 ## Limitations

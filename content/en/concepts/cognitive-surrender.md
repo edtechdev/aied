@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -59,7 +59,7 @@ Three preregistered experiments adapted the Cognitive Reflection Test and random
 
 The practical reading is that surrender is a **discrimination failure** rather than a motivation failure. The participants who surrendered were not trying to avoid work; they could not tell good advice from bad, and the interface gave them no reason to try.
 
-A preregistered experiment by [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] supplies a contrasting configuration. With the assistant fenced by retrieval augmentation to the assigned worksheet, the AI condition lowered cognitive offloading (median −0.27) instead of raising it, and no offloading path carried the rise in disorganization (0.84). Surrender needs an assistant whose advice can be adopted wholesale; a system that answers only from the present material gives the learner less to adopt and more to reconcile.
+A preregistered experiment by [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] supplies a contrasting configuration. With the assistant fenced by [[rag|retrieval augmentation]] to the assigned worksheet, the AI condition lowered cognitive offloading (median −0.27) instead of raising it, and no offloading path carried the rise in disorganization (0.84). Surrender needs an assistant whose advice can be adopted wholesale; a system that answers only from the present material gives the learner less to adopt and more to reconcile.
 
 ## Surrender outside the lab
 

@@ -39,7 +39,7 @@ source_depth: full text
 
 ## Simulating the task instead of the student
 
-This is a task-pretesting design, not a learning study, and reading it as the latter would be a mistake. The texts are model outputs under controlled prompts, so the paper cannot say what students learn; it can say what a given assignment format and a given set of AI-use instructions will cause a capable model to produce, and therefore what the resulting artifact can and cannot evidence.
+This is a task-[[retrieval-spacing-interleaving|pretesting]] design, not a learning study, and reading it as the latter would be a mistake. The texts are model outputs under controlled prompts, so the paper cannot say what students learn; it can say what a given assignment format and a given set of AI-use instructions will cause a capable model to produce, and therefore what the resulting artifact can and cannot evidence.
 
 That is a useful thing to know before an assignment is set. If a format's output looks the same whether or not the writer did the argumentative work, the format cannot distinguish the two, and no [[ai-detection|detection]] tool repairs a design flaw. The TRASI rubric operationalises the distinction into five features so the comparison is about argumentation rather than about how convincing the prose reads.
 

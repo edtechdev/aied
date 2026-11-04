@@ -24,7 +24,7 @@ Historically, a developer encountering a problem would search, read explanations
 
 ## Key Findings
 
-- **[[cognitive-offloading|Over-reliance]] erodes expertise.** Delegating coding to autonomous agents short-circuits the problem-solving pathway that traditionally built software engineering expertise, risking silent skill atrophy and accruing a developer-level analogue of Technical Debt.
+- **[[cognitive-offloading|Over-reliance]] erodes expertise.** Delegating coding to [[agentic-ai|autonomous agents]] short-circuits the problem-solving pathway that traditionally built software engineering expertise, risking silent skill atrophy and accruing a developer-level analogue of Technical Debt.
 - **Knowledge Debt is a novel framing.** The concept extends Technical Debt to the developer's understanding gap when agent-generated changes outpace comprehension; like Technical Debt, it compounds silently and surfaces only when independent capability is required, at which point repayment through relearning is costly.
 - **Incidental learning must be designed back in.** The authors argue it will not re-emerge on its own and must be consciously engineered into developer–agent interactions so that Knowledge Debt is continuously repaid rather than allowed to accumulate.
 - **Six design principles guide the effort.** Contextual, Grounded, Ambient, Selective, Adaptive, and Closed-Loop define what any learning-aware development system must do.

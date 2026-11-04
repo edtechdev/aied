@@ -22,7 +22,7 @@ page_kind: [framework]
 
 | Concept | Focus | LLM Fallacy |
 |---|---|---|
-| **Hallucination** | System produces incorrect information | How the user *interprets* any output as self-generated competence |
+| **[[hallucination-risk|Hallucination]]** | System produces incorrect information | How the user *interprets* any output as self-generated competence |
 | **Automation bias** | Over-reliance on system during decisions | Self-perception of *personal* capability derived from outputs |
 | **[[cognitive-offloading|Cognitive offloading]]** | Delegating mental effort to tools | Integration of outputs into user's *identity and self-evaluation* |
 | **Dunning-Kruger** | Internal miscalibration of skill | Specifically AI-mediated; requires tool interaction to emerge |
@@ -38,7 +38,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 **Cognitive Mediators:**
 - **Attribution ambiguity** — In iterative interactions, the boundary between user contribution and system generation becomes impossible to delineate; authorship is inferred from outcomes
-- **Cognitive outsourcing** — As the system assumes more workload, users engage less with underlying reasoning, weakening self-assessment accuracy
+- **Cognitive outsourcing** — As the system assumes more workload, users engage less with underlying reasoning, weakening [[self-assessment|self-assessment accuracy]]
 
 > "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."
 
@@ -70,7 +70,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 - The framework is conceptual and reports no dataset of its own: the authors present its cross-domain patterns as conceptual and cross-contextual rather than controlled empirical validation, so capability divergence (∆C) is defined rather than measured.
 - Its evidence base is secondhand. The mechanisms draw on prior studies (e.g., Nam et al., 2024; Karny et al., 2024), so the framework inherits those samples, designs, and domain limits without adding new observations of learners.
-- The paper itself was drafted through a human–AI collaborative workflow, with LLMs used for drafting support, structural refinement, language optimization, and iterative conceptual exploration under the NLD-P prompting framework — a disclosed method that leaves the interpretive analysis non-independent of the technology being theorized.
+- The paper itself was drafted through a human–AI collaborative workflow, with LLMs used for drafting support, structural refinement, language optimization, and iterative conceptual exploration under the NLD-P [[prompt-engineering|prompting]] framework — a disclosed method that leaves the interpretive analysis non-independent of the technology being theorized.
 - The domain illustrations (computational, linguistic, analytical, creative, professional signaling) are assembled from existing literature as cross-contextual patterns; none is tested against unaided performance in a controlled setting.
 
 ## Citation

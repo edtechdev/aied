@@ -51,7 +51,7 @@ This paper anchors the knowledge base's [[productive-failure]] concept with an A
 - **Instructors.** Surface [[misconceptions]] before instruction by having chatbots generate failure-based quiz questions, keeping the space low-stakes so learners trace root causes of ill-structured problems rather than avoid error.
 - **Designers.** Preserve the struggle: use AI to help learners identify areas for improvement and make the final decision themselves rather than to hand over an answer, which is the paper's core design message.
 - **Designers.** Specify graceful error handling and ambiguity resolution (ask clarifying questions, admit uncertainty instead of fabricating) plus visual cues that distinguish learner input from AI contribution.
-- **Instructors.** Treat adult learners' stakes realistically: they work on more open-ended, abstract problems than structured K-12 tasks and need AI support aligned with andragogy rather than teacher-led pedagogy.
+- **Instructors.** Treat adult learners' stakes realistically: they work on more open-ended, abstract problems than structured [[k-12]] tasks and need AI support aligned with andragogy rather than [[teacher-role|teacher]]-led pedagogy.
 
 ## Limitations
 

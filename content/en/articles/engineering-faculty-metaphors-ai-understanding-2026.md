@@ -49,7 +49,7 @@ The key finding is that engineering instructors do **not** hold a unified mental
 - The analysis uses instructors' responses to a single interview question ("if you had to think of an analogy or metaphor to describe GAI to someone, what would you say?"); the rest of each hour-long interview was not analyzed.
 - The reported results cover 57 engineering instructors from 17 disciplines at seven universities, collected in Spring 2025, drawn from a larger project of nearly 170 instructors at 18 universities.
 - Instructors who could not produce an analogy were not described because of space constraints, so the taxonomy does not represent the struggling cases, and comparisons across disciplines were left to future work.
-- This is self-reported figurative language in an interview; the study does not measure whether an instructor's metaphor predicts their actual classroom AI practice.
+- This is [[self-report-measures|self-reported]] figurative language in an interview; the study does not measure whether an instructor's metaphor predicts their actual classroom AI practice.
 
 ## Citation
 

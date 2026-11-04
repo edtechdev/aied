@@ -14,7 +14,7 @@ audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Akdoğan (2025) empirically investigates whether Generative AI improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature misconceptions: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.
+> **Synthesis:** Akdoğan (2025) empirically investigates whether [[generative-ai|Generative AI]] improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature misconceptions: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.
 
 ## Key Findings
 
@@ -29,14 +29,14 @@ page_kind: [evaluation]
 - **Instructors.** For science misconception correction, have AI generate a structured [[refutation-text|conceptual change text]] rather than running a freeform AI dialogue — expert-written and AI-generated CCTs both significantly reduced misconceptions, while the interactive ChatGPT dialogue showed no advantage over the control group.
 - **Instructors.** Check AI-generated refutation content against the four conditions of conceptual change (dissatisfaction, intelligibility, plausibility, fruitfulness) before class use, since an unmodified AI-generated text performed as well as the expert-written one.
 - **Instructional designers.** Design against the failure modes seen in the AI dialogues: the model opened with "Yes" to misconception-laden questions, introduced terms such as latent heat and mass-energy equivalence above students' level, and re-explained rather than asking diagnostic questions.
-- **Instructors.** Plan for achievement stratification: because gains were almost exclusively limited to high-LGS students, pair AI-mediated conceptual change with extra scaffolding for lower-achieving learners, who carried significantly more misconceptions in every condition.
+- **Instructors.** Plan for achievement stratification: because gains were almost exclusively limited to high-LGS students, pair AI-mediated conceptual change with extra [[scaffolding]] for lower-achieving learners, who carried significantly more misconceptions in every condition.
 - **Researchers.** Measure personal epistemology (especially changeability of knowledge) and metacognitive reading strategies as moderators, not covariates — both significantly moderated the intervention effects.
 
 ## Limitations
 
 - The analytical sample was 413 of 1,780 tenth-graders at nine Anatolian High Schools in the Çankaya district of Ankara: parental consent was documented for 650 students, only 584 engaged with any study component, and 20 were excluded listwise for missing LGS data.
 - Each intervention was a single short exposure — one conceptual change text or one scripted ChatGPT prompt session — measured by an immediate posttest, with no delayed retention or transfer measure reported.
-- Two moderator instruments rested on self-report with modest reliability: the MARSI-R problem-solving subscale had α = .406 and the PPEQ structure-of-knowledge-coherence subscale α = .591, and the author states that findings on them are interpreted with considerable caution.
+- Two moderator instruments rested on [[self-report-measures|self-report]] with modest reliability: the MARSI-R [[problem-solving]] subscale had α = .406 and the PPEQ structure-of-knowledge-coherence subscale α = .591, and the author states that findings on them are interpreted with considerable caution.
 - The author cautions against generalizing beyond Anatolian High Schools in this urban context — vocational, Imam-Hatip, private, and rural schools were not studied — and consent-based recruitment may have introduced self-selection.
 
 ## Citation

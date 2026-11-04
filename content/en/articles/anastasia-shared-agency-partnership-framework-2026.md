@@ -50,14 +50,14 @@ A central argument distinguishes self-direction from isolation. Anastasia propos
 - **Instructors.** Do not equate offering choice with creating autonomy: give students the information, confidence, and psychological safety they need to act on choices before expecting self-direction.
 - **Instructors.** Ask students to explain why they accepted, revised, or rejected an AI recommendation, so that AI-expanded capacity to act is paired with the disciplinary [[evaluative-judgment|judgment]] to judge how, when, and why to act.
 - **Instructors.** Treat meaningful feedback as an ongoing conversational cycle rather than one-way transmission, because polished AI output can be mistaken for defensible disciplinary reasoning.
-- **Faculty developers.** Use the eight framework components — Instructor Presence, Trust, Psychological Safety, Dialogue, Voice and Choice, Meaningful Feedback, Reflection, and Shared Responsibility — as a diagnostic for redesigning instructor–student interaction in face-to-face, hybrid, and online courses.
+- **Faculty developers.** Use the eight framework components — Instructor Presence, Trust, Psychological Safety, Dialogue, Voice and Choice, Meaningful Feedback, Reflection, and Shared Responsibility — as a diagnostic for redesigning instructor–student interaction in face-to-face, hybrid, and [[online-teaching-and-learning|online courses]].
 - **Administrators.** Treat the quality of the instructor–student relationship as a central student-support mechanism, since teaching excellence depends on the conditions enabling responsive teaching rather than on individual faculty performance alone.
 
 ## Limitations
 
 - The paper is a conceptual synthesis of Students as Partners, relational agency, Self-Determination Theory, Self-Efficacy Theory, andragogy, and transformative learning; it reports no data and offers no empirical test of its eight components.
 - The author states it was written "as a scholarly piece to present a conceptual work derived from educational theory, inviting academic readers to further discussion and empirical research," so the claim that these conditions produce transformative learning is a proposition rather than a demonstrated effect.
-- The framework is grounded in the author's own practice as a faculty member, dissertation chair, and researcher in higher education rather than in systematic observation, participant data, or a validated instrument.
+- The framework is grounded in the author's own practice as a faculty member, dissertation chair, and researcher in [[higher-ed|higher education]] rather than in systematic observation, participant data, or a validated instrument.
 - The paper does not specify how the eight conditions would be measured or distinguished operationally, leaving their relative weighting and ordering untested.
 
 ## Citation

@@ -36,8 +36,8 @@ The central insight is that skill and confidence pull in opposite directions in 
 
 ## Limitations
 
-- Cross-sectional, self-report online survey of 478 students at Israeli higher-education institutions recruited through a commercial panel (Panel4All); the design supports associations, not the causal reading of the proposed "compensatory" mechanism.
-- Every construct was measured with self-report Likert items, and the ethics and emotional-regulation [[ai-literacy]] subscale had internal consistency of α = 0.64, below the conventional 0.70 threshold.
+- Cross-sectional, [[self-report-measures|self-report]] online survey of 478 students at Israeli higher-education institutions recruited through a commercial panel (Panel4All); the design supports associations, not the causal reading of the proposed "compensatory" mechanism.
+- Every construct was measured with self-report Likert items, and the [[ethics]] and emotional-regulation [[ai-literacy]] subscale had internal consistency of α = 0.64, below the conventional 0.70 threshold.
 - The sample is confined to a single country (Israel) and one data-collection window (August–September 2025), so the profiles may not transfer to other national or institutional contexts.
 
 ## Citation

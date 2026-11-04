@@ -12,7 +12,7 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** This study develops and validates the Generative AI Assessment Literacy Scale (GAA-LS), an 18-item measure of how well higher education students can use [[generative-ai|generative AI]] responsibly in assessed work. Validation across two samples supports its five-dimension structure, its reliability, and its [[assessment-validity|construct validity]]. GAA-LS scores rise with feedback engagement, academic integrity intention, and responsible AI use intention, and the association with academic integrity intention runs partly through feedback engagement.
+> **Synthesis:** This study develops and validates the Generative AI Assessment Literacy Scale (GAA-LS), an 18-item measure of how well higher education students can use [[generative-ai|generative AI]] responsibly in assessed work. Validation across two samples supports its five-dimension structure, its reliability, and its [[assessment-validity|construct validity]]. GAA-LS scores rise with feedback engagement, academic integrity intention, and [[ethics|responsible AI]] use intention, and the association with academic integrity intention runs partly through feedback engagement.
 
 ## Key Findings
 
@@ -37,11 +37,11 @@ Questionnaires were returned by students at six higher education institutions in
 - **Instructors.** Make the expectation set explicit in assessment briefs: criteria, permitted and prohibited AI support, output-checking expectations, acknowledgment rules, and how feedback feeds revision.
 - **Administrators.** Use the instrument when introducing disclosure rules or redesigning tasks to test whether students actually understand how to comply, rather than assuming a published rule is enough.
 - **Designers.** Score evidence checking and disclosure as elements of the task, since students reporting course-level disclosure rules and prior AI training scored higher on [[ai-literacy|assessment literacy]] than their counterparts.
-- **Designers.** Treat assessment literacy, feedback literacy, and academic integrity as one integrated framework grounded in [[self-regulated-learning]] and [[evaluative-judgment|evaluative judgment]], since understanding criteria, monitoring the quality of one's own work, and acting responsibly on feedback are jointly required where AI-supported assessment in [[higher-ed]] is most exposed.
+- **Designers.** Treat assessment literacy, [[feedback-literacy|feedback literacy]], and academic integrity as one integrated framework grounded in [[self-regulated-learning]] and [[evaluative-judgment|evaluative judgment]], since understanding criteria, monitoring the quality of one's own work, and acting responsibly on feedback are jointly required where AI-supported assessment in [[higher-ed]] is most exposed.
 
 ## Limitations
 
-- Cross-sectional and self-reported, so the associations are not causal; longitudinal and experimental work is needed to test whether GenAI assessment literacy predicts later feedback behavior, disclosure, and assessment outcomes; self-report measures are open to social desirability and common-method variance; the statistical checks found no dominant method factor, but they cannot rule bias out.
+- Cross-sectional and self-reported, so the associations are not causal; longitudinal and experimental work is needed to test whether GenAI assessment literacy predicts later feedback behavior, disclosure, and assessment outcomes; [[self-report-measures|self-report measures]] are open to social desirability and common-method variance; the statistical checks found no dominant method factor, but they cannot rule bias out.
 
 - Academic integrity intention may not fully predict actual behavior, and the ethical-attribution subscale is conceptually close to that criterion, so those correlations are better read as proximal validity evidence than as proof of construct separation.
 - The sample came from one national context and was not designed to be nationally representative; cross-cultural and cross-institution invariance, test-retest reliability, and invariance across separately sampled undergraduate and postgraduate groups remain untested.

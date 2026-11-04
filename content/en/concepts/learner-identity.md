@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-02T03:09:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -76,7 +76,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 **"AI assistance lowers barriers and therefore widens participation."** It can lower the barrier to producing work while narrowing the barrier to claiming authorship. A student who submits a fluent artifact they did not author has been given access to the outcome and denied the recognition that builds the identity behind it.
 
-**"Recognising a learner's identity is a matter of representation in content."** Representation matters and recognition is enacted in practice: whose questions get taken up, whose contribution is credited, and who is treated as capable. A curriculum can be representative and still withhold the recognition that identity formation requires.
+**"Recognising a learner's identity is a matter of representation in content."** Representation matters and recognition is enacted in practice: whose questions get taken up, whose contribution is credited, and who is treated as capable. A [[curriculum-design|curriculum]] can be representative and still withhold the recognition that identity formation requires.
 
 ## Connected Concepts
 

@@ -13,7 +13,7 @@ sources: ['raw/papers/best-response-student-ai-dialog-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best [[governance|institutional]] response to student AI use is **learning verification through dialog — not [[ai-detection|detection]]**. Because [[ai-detection|AI detectors]] are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes [[trust]]. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an [[assessment]] approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
+> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best [[governance|institutional]] response to [[student-ai-interaction|student AI use]] is **learning verification through dialog — not [[ai-detection|detection]]**. Because [[ai-detection|AI detectors]] are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes [[trust]]. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an [[assessment]] approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ confidence: high
 ## Limitations
 
 - This is a practitioner account from one institution, Grand Canyon University, where learning verification was implemented institution-wide in fall 2025; no comparison group, pre/post measure, or student outcome data are reported.
-- The author states that formal, systematic evaluation is still in development — the mechanisms under exploration are supplemental questions on end-of-course student evaluations and a dedicated faculty survey — so the reported effects on faculty authority and student engagement rest on unsolicited faculty feedback rather than measurement.
+- The author states that formal, systematic evaluation is still in development — the mechanisms under exploration are supplemental questions on end-of-course student evaluations and a dedicated faculty survey — so the reported effects on faculty authority and [[student-engagement|student engagement]] rest on unsolicited faculty feedback rather than measurement.
 - The account identifies a problem the framework does not yet solve: [[teacher-role|faculty]] who are philosophically unwilling to treat verified AI use as neutral, which the author describes as the place where implementation "is most honestly still in progress" and which is being addressed through brown-bag conversation rather than policy.
 - The policy was launched with the expectation that it would need revision after its first full year, and no first-year implementation data or student [[learning-gains|outcome]] evidence are presented.
 

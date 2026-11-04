@@ -12,7 +12,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1918525.md']
 confidence: high
 ---
 
-> **Synthesis:** Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether AI anxiety constitutes a psychological barrier to university students' motivational adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analyzed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organization, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.
+> **Synthesis:** Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether [[anxiety-and-stress|AI anxiety]] constitutes a psychological barrier to university students' [[motivation|motivational]] adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analyzed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organization, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ confidence: high
 
 - The design is cross-sectional, so it cannot establish causal direction or temporal ordering among AI anxiety, emotion regulation, and academic motivation; reverse relationships remain possible.
 - Participants were 1,484 Chinese university students recruited by convenience sampling through an online platform, so the single-country, non-probability sample limits generalization.
-- All three measures are self-report and PROCESS models them as observed composite scores without accounting for measurement error, leaving the results open to common method bias.
+- All three measures are [[self-report-measures|self-report]] and PROCESS models them as observed composite scores without accounting for measurement error, leaving the results open to common method bias.
 - The three instruments were administered in a fixed order — emotion regulation, then academic motivation, then AI anxiety — so order, priming, and fatigue effects cannot be excluded, and students' pre-existing AI literacy was never measured or controlled.
 
 ## Citation

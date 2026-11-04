@@ -59,7 +59,7 @@ The measurement model was checked properly for a survey of this kind (seven fact
 - **Watch dependency, not minutes.** Use frequency alone told the authors little once dependency entered the model, so an instructor's warning sign is a student who cannot start or continue without the tool, not a student who uses it often.
 - **Design for the effort you want to keep.** Ask for reasoning records, revision histories or short justifications of AI-assisted work, so the effort regulation the model rewards is visible in what students submit.
 - **Assess process, not only product.** Process evidence such as drafts and reflective accounts of human–AI collaboration is the assessment change that follows from the meditational finding; final-product grading leaves the pathway unmeasured.
-- **Treat dependency as an AI literacy topic.** The authors place effort regulation and responsible reliance alongside verification and ethics in literacy instruction, rather than treating literacy as technical competence alone.
+- **Treat dependency as an [[ai-literacy|AI literacy]] topic.** The authors place effort regulation and responsible reliance alongside verification and [[ethics]] in literacy instruction, rather than treating literacy as technical competence alone.
 
 ## Limitations
 

@@ -21,7 +21,7 @@ reviewed_by: [editor]
 
 ## Key Findings
 
-1. **Isolated difficulty adaptation gave no learning advantage.** With prior knowledge controlled, condition had no significant effect on posttest scores (F(1, 124) = 0.32, p = .574, η²p = .00).
+1. **Isolated difficulty adaptation gave no learning advantage.** With [[prior-knowledge|prior knowledge]] controlled, condition had no significant effect on posttest scores (F(1, 124) = 0.32, p = .574, η²p = .00).
 2. **Subjective experience was unchanged.** Mental effort (p = .938), subjective difficulty (p = .210), and enjoyment (p = .525) showed no condition effects.
 3. **Non-adaptive students progressed further.** Log data showed higher mastery probabilities in the non-adaptive condition (M = 0.67 vs. M = 0.58; F(1, 128) = 7.85, p = .006).
 4. **Prior knowledge dominated posttest performance.** Prior knowledge predicted posttest scores (F(1, 124) = 206.99, p < .001, η²p = .63), and the condition × prior knowledge interaction was not significant (p = .802).
@@ -30,15 +30,15 @@ reviewed_by: [editor]
 
 ## What was compared, and how
 
-Both groups used the same tutor, developed by the research team on the CTAT+TutorShop platform, with identical tasks, correctness feedback, and graduated spoken hints across 13 arithmetic skills ordered by complexity. Only task selection differed: a [[knowledge-tracing|Bayesian Knowledge Tracing]] model with default parameters (P(known) = .25, P(learn) = .20, P(guess) = .20, P(slip) = .10) drove a "Sequential Mastery Learning – Easier First" algorithm presenting only unmastered skills, while the non-adaptive version followed a fixed, textbook-like order. N = 132 second-grade students (mean age 7.66 years) from 11 Swiss classes were randomly assigned and practiced for 30 min; posttest means were 10.30 (SD = 3.86) adaptive versus 9.98 (SD = 3.99) non-adaptive on a 0–15 scale.
+Both groups used the same tutor, developed by the research team on the CTAT+TutorShop platform, with identical tasks, correctness feedback, and graduated spoken hints across 13 arithmetic skills ordered by complexity. Only task selection differed: a [[knowledge-tracing|Bayesian Knowledge Tracing]] model with default parameters (P(known) = .25, P(learn) = .20, P(guess) = .20, P(slip) = .10) drove a "Sequential [[mastery-learning|Mastery Learning]] – Easier First" algorithm presenting only unmastered skills, while the non-adaptive version followed a fixed, textbook-like order. N = 132 second-grade students (mean age 7.66 years) from 11 Swiss classes were randomly assigned and practiced for 30 min; posttest means were 10.30 (SD = 3.86) adaptive versus 9.98 (SD = 3.99) non-adaptive on a 0–15 scale.
 
 ## Why isolated difficulty adaptation may not have helped
 
-Three explanations deserve separating. The first is developmental: younger students possess limited [[self-regulated-learning|self-regulation]] and metacognitive monitoring, while adaptive systems presuppose that learners can engage with feedback, regulate effort, and stay focused. The second is the comparison itself: contrasting the adaptive tutor with a structurally equivalent non-adaptive one isolates difficulty adaptation but narrows the expected effect, since the added value of adaptivity shrinks against an equivalent digital environment. The third is exposure: 30 min may be too brief for a learner model to converge. The authors do not conclude that adaptivity is useless; they argue that lowering task complexity is the wrong lever for young learners and that adjusting instructional support instead — more [[scaffolding]], guidance, or hints — is more promising.
+Three explanations deserve separating. The first is developmental: younger students possess limited [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] monitoring, while [[adaptive-learning|adaptive systems]] presuppose that learners can engage with feedback, regulate effort, and stay focused. The second is the comparison itself: contrasting the [[intelligent-tutoring|adaptive tutor]] with a structurally equivalent non-adaptive one isolates difficulty adaptation but narrows the expected effect, since the added value of adaptivity shrinks against an equivalent digital environment. The third is exposure: 30 min may be too brief for a [[student-modeling|learner model]] to converge. The authors do not conclude that adaptivity is useless; they argue that lowering task complexity is the wrong lever for young learners and that adjusting instructional support instead — more [[scaffolding]], guidance, or hints — is more promising.
 
 ## Progression, measurement, and what the trial cannot show
 
-Two exploratory analyses complicate the null result. Mastery-gated progression kept adaptive students on unsolved skills while the fixed sequence let everyone move on; adding mastery probability as a covariate produced a condition effect on posttest scores (F(1, 122) = 5.42, p = .022, d = 0.46). A five-profile latent profile analysis — Disengaged, Motivated Low-, Balanced, Overstraining, and Confident High-Performers — predicted posttest differences (η²p = .27) but found no condition × profile interaction (ps ≥ .198). [[learning-gains|Learning gains]] were measured as posttest performance on a parallel arithmetic test, not as [[transfer-of-learning|transfer]], and no delayed posttest was administered.
+Two exploratory analyses complicate the null result. Mastery-gated progression kept adaptive students on unsolved skills while the fixed sequence let everyone move on; adding mastery probability as a covariate produced a condition effect on posttest scores (F(1, 122) = 5.42, p = .022, d = 0.46). A five-profile [[latent-profile-analysis|latent profile analysis]] — Disengaged, Motivated Low-, Balanced, Overstraining, and Confident High-Performers — predicted posttest differences (η²p = .27) but found no condition × profile interaction (ps ≥ .198). [[learning-gains|Learning gains]] were measured as posttest performance on a parallel arithmetic test, not as [[transfer-of-learning|transfer]], and no delayed posttest was administered.
 
 ## What this means for practice
 
@@ -51,7 +51,7 @@ Two exploratory analyses complicate the null result. Mastery-gated progression k
 
 - The intervention lasted only 30 min; the authors state that the short duration and the field-based design may have constrained observable effects, and no delayed posttest was run.
 - The non-adaptive comparison was equivalent in interface, content, and feedback, which isolates difficulty adaptation but likely narrows the expected effect size.
-- No data-collection year or preregistration identifier is reported, and the tutor is rule-based (CTAT+TutorShop, default BKT parameters), so the null result may not extend to LLM tutors.
+- No data-collection year or preregistration identifier is reported, and the tutor is rule-based (CTAT+TutorShop, default BKT parameters), so the null result may not extend to [[llm]] tutors.
 
 ## Citation
 

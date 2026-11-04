@@ -33,7 +33,7 @@ audience: [instructors]
 
 - **Instructors.** Pair in-class AI writing with an unaided follow-up task: quality gains persisted when students wrote again without ChatGPT (total text scores d = 1.12), which is the evidence that the AI supported skill and not only the product.
 - **Instructors.** Name the authorship question during the task rather than after it — students rated "AI was writing, I was assisting" (M = 3.43) above "I was writing, AI was assisting" (M = 2.76), and perceived ownership dipped while ChatGPT was in use (d = −0.52).
-- **Faculty developers.** Design short supervised writing cycles (students spent 35–50 minutes per text) around a fixed source set as the unit of AI-writing professional development, since a single three-hour session moved quality, experience, and ownership.
+- **Faculty developers.** Design short supervised writing cycles (students spent 35–50 minutes per text) around a fixed source set as the unit of AI-writing [[educational-development|professional development]], since a single three-hour session moved quality, experience, and ownership.
 - **Designers.** Restrict the source pool for AI-assisted writing tasks — students worked from three preselected articles per topic — so tool use supports synthesis rather than substituting for the search and selection work.
 
 ## Limitations

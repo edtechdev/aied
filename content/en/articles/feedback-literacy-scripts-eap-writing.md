@@ -33,7 +33,7 @@ As [[generative-ai|generative AI]] floods EAP classrooms with instant, abundant 
 
 ## Key Results
 
-- **Script effect is stage-specific.** The script's effect was concentrated in Task 1 — the first encounter with AI feedback — and weakened in Task 2 (Script × Task 2 interaction negative, e.g. −8.88 in the pooled gain model). The authors interpret this as a shift from externally guided revision to partially internalized evaluative logic.
+- **Script effect is stage-specific.** The script's effect was concentrated in Task 1 — the first encounter with [[ai-feedback-quality|AI feedback]] — and weakened in Task 2 (Script × Task 2 interaction negative, e.g. −8.88 in the pooled gain model). The authors interpret this as a shift from externally guided revision to partially internalized evaluative logic.
 - **Script changed revision depth, not uptake.** Effective uptake rates were comparable across groups (~41.7–55.1%). But argument-level revision reached 53.3% of G2's Task 1 revision (vs 61.0% sentence-level in G1) and stayed higher in Task 2 (64.3% vs 49.3% G1, 11.0% G4). Argument-level revision was the correlate of score gain.
 - **Second-review mechanism did not help.** Adding a second feedback source produced imprecise, unstable estimates (large standard errors) and no reliable outcome improvement — consistent with the idea that multi-source feedback raises comparison and prioritization load.
 - **Delayed retention is only directional.** The scripted group scored higher on Task 3 (76.00 vs 72.67), but the permutation test (p = 0.4000) did not support a stable retention effect.

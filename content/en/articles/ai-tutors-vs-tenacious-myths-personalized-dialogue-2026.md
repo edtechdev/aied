@@ -12,7 +12,7 @@ confidence: high
 audience: [instructors, instructional designers, researchers]
 ---
 
-> **Synthesis:** Corbett & Tangen (2026) test whether personalized AI dialogue can correct deeply held misconceptions ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalized **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a refutation text), or **Neutral AI Dialogue** (control). Personalized Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.
+> **Synthesis:** Corbett & Tangen (2026) test whether personalized AI dialogue can correct deeply held [[misconceptions]] ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalized **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a refutation text), or **Neutral AI Dialogue** (control). Personalized Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.
 
 ## Key Findings
 
@@ -27,14 +27,14 @@ audience: [instructors, instructional designers, researchers]
 - **Designers.** Build spaced reinforcement into the program rather than scheduling one-off chats, because the dialogue advantage persisted at 10 days but converged with textbook refutation by the 2-month follow-up.
 - **Designers.** Keep the [[refutation-text|refutation text]] in the toolkit — it beat the neutral control at every time point — and choose dialogue where engagement and confidence matter, since both AI conditions generated significantly higher engagement and confidence than reading did.
 - **Instructors.** Target the specific belief the learner holds: the dialogue condition addressed each participant's highest-rated misconception, and no intervention changed misconceptions it did not address.
-- **Researchers.** Check the domain before generalizing: this experiment tested everyday psychology and education myths with adults, and the comparison reversed in at least one science-education study (Akdoğan 2025).
+- **Researchers.** Check the domain before generalizing: this experiment tested everyday psychology and education myths with adults, and the comparison reversed in at least one [[science-education]] study (Akdoğan 2025).
 
 ## Limitations
 
 - The experiment used N = 375 volunteer participants aged 19–78 (M = 40.25), 60.8% of them in the United Kingdom — not a classroom sample of the students these interventions would serve.
 - The intervention was a single three-round dialogue with Claude 3.5 Sonnet; dropout by the 10-day follow-up was 5.6% for the dialogue condition, 6.4% for the neutral control, and 0.8% for the textbook condition.
 - No process measures were collected during the intervention (response times, think-aloud protocols, linguistic analysis of responses), so the authors cannot distinguish reasoning-based from fluency-based mechanisms.
-- The exploratory measures — confidence and trust in AI — were collected post-intervention only, with no pre-intervention baseline, and measurement invariance across time points and demographic groups was not established for the misconception scale.
+- The exploratory measures — confidence and [[trust|trust in AI]] — were collected post-intervention only, with no pre-intervention baseline, and measurement invariance across time points and demographic groups was not established for the misconception scale.
 
 ## Citation
 Corbett, B. J., & Tangen, J. M. (2026). [*AI tutors vs. tenacious myths: Evidence from personalised dialogue interventions in education*](https://doi.org/10.1016/j.chb.2025.108828). Computers in Human Behavior, 175, 108828.

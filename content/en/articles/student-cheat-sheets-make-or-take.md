@@ -32,7 +32,7 @@ audience: [instructors, assessment designers]
 
 ## Limitations
 
-- Single course and single term: one senior-level undergraduate software-requirements course taught by one instructor under one cheat-sheet policy, so the choices observed may not transfer to introductory programming, other exam structures, or online and hybrid delivery.
+- Single course and single term: one senior-level undergraduate software-requirements course taught by one instructor under one cheat-sheet policy, so the choices observed may not transfer to [[cs-education|introductory programming]], other exam structures, or online and hybrid delivery.
 - Small survey waves: 53, 50, and 44 responses across the three waves, with only 41 students completing all three and forming the longitudinal cohort used for the over-time analysis.
 - No artifact-level comparison: the study recorded how students reasoned about the options, not what the two sheet types actually contained, so overlap in content, organization, information density, and exam alignment is unknown.
 - AI-supported cheat-sheet creation was not examined, and no student in the data identified AI as a reason for choosing instructor-provided over self-created sheets.

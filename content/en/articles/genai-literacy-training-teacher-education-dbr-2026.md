@@ -25,17 +25,17 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Faculty developers.** Build GenAI literacy training around the study's four design principles: critical [[reflection]] on teachers' roles and ethics, active and experiential learning, scaffolding of [[self-regulated-learning|self-regulated learning]], and authentic formative assessment.
-- **Faculty developers.** Pair self-efficacy scales with artifact-based rubrics rather than relying on self-report. The 29 teacher education students reported moderate to high AI pedagogy and assessment competence, yet their TPACK-rubric lesson plans scored lowest on creative GenAI application (M = 1.64 for TPK6 and TPCK7).
-- **Instructors.** Assign discipline-specific, authentic tasks — lesson design, assessment planning, material creation — so students practice critical evaluation of GenAI outputs where they will use them; given hands-on time, the cohort explored an average of 2.67 tools.
-- **Instructors.** Scaffold self-regulation deliberately with metacognitive checklists, guided prompting strategies, and output-evaluation rubrics to counter over-reliance, and model those practices yourself.
-- **Administrators.** Treat AI competency as an ongoing, cross-disciplinary curriculum effort rather than one-time certification: a single short workshop raised overall self-efficacy (median 3.79 to 4.42 on a 1–5 scale) but not AI pedagogy or assessment competence.
+- **Faculty developers.** Build GenAI literacy training around the study's four design principles: critical [[reflection]] on teachers' roles and ethics, active and [[experiential-learning|experiential learning]], [[scaffolding]] of [[self-regulated-learning|self-regulated learning]], and authentic [[formative-assessment|formative assessment]].
+- **Faculty developers.** Pair self-efficacy scales with artifact-based rubrics rather than relying on self-report. The 29 teacher education students reported moderate to high AI pedagogy and assessment competence, yet their [[tpack]]-rubric lesson plans scored lowest on creative GenAI application (M = 1.64 for TPK6 and TPCK7).
+- **Instructors.** Assign [[discipline-specific-aied|discipline-specific]], [[authentic-assessment|authentic tasks]] — lesson design, assessment planning, material creation — so students practice [[critical-thinking|critical evaluation]] of GenAI outputs where they will use them; given hands-on time, the cohort explored an average of 2.67 tools.
+- **Instructors.** Scaffold self-regulation deliberately with [[metacognition|metacognitive]] checklists, guided [[prompt-engineering|prompting strategies]], and output-evaluation rubrics to counter over-reliance, and model those practices yourself.
+- **Administrators.** Treat AI competency as an ongoing, cross-disciplinary [[curriculum-design|curriculum]] effort rather than one-time certification: a single short workshop raised overall self-efficacy (median 3.79 to 4.42 on a 1–5 scale) but not AI pedagogy or assessment competence.
 
 ## Limitations
 
 - Small, single-site samples: 14 master's students in the pilot and 29 final-year teacher education students at one university in the evaluation, with only 27 completing both pre- and post-surveys and 24 submitting lesson-plan artifacts.
 - Short intervention: a single workshop, which the authors name as a limit on generalizability and which may explain why AI pedagogy and assessment competencies needed longer-term or more targeted development.
-- Self-report measurement: the primary outcome was the TAICS self-efficacy scale, and self-reported pedagogy competence did not match the rubric-scored lesson plans; the AI ethics gain fell from significant to marginally significant after Benjamini–Hochberg correction.
+- Self-report measurement: the primary outcome was the TAICS self-efficacy scale, and [[self-report-measures|self-reported]] pedagogy competence did not match the rubric-scored lesson plans; the AI ethics gain fell from significant to marginally significant after Benjamini–Hochberg correction.
 - No control group: the [[design-based-research|design-based research]] design compared pre–post scores within one cohort, and voluntary participation in the first iteration may have over-represented students already interested in AI.
 
 ## Citation

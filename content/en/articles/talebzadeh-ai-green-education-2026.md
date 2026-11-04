@@ -14,7 +14,7 @@ confidence: medium
 
 ---
 
-> **Synthesis:** Talebzadeh (2026) conducts a quasi-experimental study with 28 pre-service teacher teams, finding that AI-assisted Sustainable Development Pedagogy constraints significantly improve instructional design quality (t(27) = 13.78, p < 0.001, Cohen's d = 2.80). The intervention transformed teachers from conventional designers into strategic educational managers.
+> **Synthesis:** Talebzadeh (2026) conducts a quasi-experimental study with 28 pre-service teacher teams, finding that AI-assisted [[sustainability|Sustainable Development]] Pedagogy constraints significantly improve [[learning-design|instructional design]] quality (t(27) = 13.78, p < 0.001, Cohen's d = 2.80). The intervention transformed teachers from conventional designers into strategic educational managers.
 
 ## Key Findings
 

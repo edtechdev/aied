@@ -31,7 +31,7 @@ Writing is positioned as a cognitive process that reconstructs implicit thought 
 
 ## The WISE Agent Intervention
 
-The Writing Improvement and Smart Evaluation Agent (WISE Agent) is an AI feedback tool built on the Coze platform and powered by a DeepSeek [[llm|Large Language Model]]. It operates in a closed-loop workflow: handwritten manuscripts are processed through standardized OCR and image-stitching, the model acts as a "Senior Primary Teacher" delivering [[qualitative-research|qualitative]], tier-based assessments with actionable scaffolds (e.g., [[prompt-engineering|prompting]] sensory details or counterarguments), and students revise independently before teacher review. With an average correction cycle of 40 seconds, the system sharply improves feedback timeliness relative to manual methods while maintaining reliability through predefined rubrics and standardized prompts refined in pilot testing (N=120).
+The Writing Improvement and Smart Evaluation Agent (WISE Agent) is an AI feedback tool built on the Coze platform and powered by a DeepSeek [[llm|Large Language Model]]. It operates in a closed-loop workflow: handwritten manuscripts are processed through standardized OCR and image-stitching, the model acts as a "Senior Primary [[teacher-role|Teacher]]" delivering [[qualitative-research|qualitative]], tier-based assessments with actionable scaffolds (e.g., [[prompt-engineering|prompting]] sensory details or counterarguments), and students revise independently before teacher review. With an average correction cycle of 40 seconds, the system sharply improves feedback timeliness relative to manual methods while maintaining reliability through predefined rubrics and standardized prompts refined in pilot testing (N=120).
 
 ## Methods and Measures
 
@@ -51,7 +51,7 @@ Paired-sample t-tests and effect-size calculations in SPSS 26.0 confirmed homoge
 
 ## Limitations
 
-- No randomized control group: the authors state curriculum constraints precluded it, leaving a three-month intervention with 260 sixth-grade students (aged 11–13) at a single public primary school in China.
+- No randomized control group: the authors state [[curriculum-design|curriculum]] constraints precluded it, leaving a three-month intervention with 260 sixth-grade students (aged 11–13) at a single public primary school in China.
 - The headline aggregate result is null — no statistically significant gain in total critical thinking disposition scores — so the study's claims rest on sub-dimension shifts.
 - The authors state the three-month duration was short for internalizing complex cognitive habits and recommend quasi-experimental designs to test long-term scalability.
 - Proficiency cohorts were assigned from pre-test scores alone (High 27%, n=70; Middle 46%, n=119; Low 27%, n=71), and the tool's rubrics and prompts were refined in a pilot of N=120 in the same setting.

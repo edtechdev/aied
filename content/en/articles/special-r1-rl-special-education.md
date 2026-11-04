@@ -56,7 +56,7 @@ ring systems?
 
 ## Limitations
 
-- Every student in the evaluation was a disability-conditioned LLM simulator; validating that judge-based gains transfer to real learners would require an IRB-approved study with special-education teachers.
+- Every student in the evaluation was a disability-conditioned [[llm]] [[simulation|simulator]]; validating that judge-based gains transfer to real learners would require an IRB-approved study with special-education teachers.
 - All main rewards and evaluation scores come from GPT-4o-mini, with judge bias bounded only by a 10% Gemma-3-27B cross-judge check.
 - The accept/reject judge saturates in the Normal and SPED-static conditions, leaving the GRPO run little usable gradient outside the adaptive setting.
 - All tutors are 7-8B models, so behavior at larger scales is untested, and only five disability profiles are modeled.

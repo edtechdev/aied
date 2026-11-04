@@ -13,11 +13,11 @@ audience: [assessment designers, assessment professionals, instructors]
 level: [higher ed]
 ---
 
-> **Synthesis:** The paper reframes [[ai-detection]] as a [[assessment-validity]] question: when authorship is uncertain, the evidentiary basis for every other validity source is compromised. Coauthorship Integrity asks whether the student is the epistemic agent behind the submitted ideas, a proposition the authors argue is logically prior to the five AERA sources, which assume the test taker authored the response. The AI Viva is a proof-of-concept mechanism for eliciting response-process evidence at scale, not a summative solution.
+> **Synthesis:** The paper reframes [[ai-detection]] as a [[assessment-validity]] question: when authorship is uncertain, the evidentiary basis for every other validity source is compromised. Coauthorship Integrity asks whether the student is the epistemic agent behind the submitted ideas, a proposition the authors argue is logically prior to the five AERA sources, which assume the test taker authored the response. The AI Viva is a proof-of-concept mechanism for eliciting response-process evidence at scale, not a [[summative-assessment|summative]] solution.
 
 Ebrahimzadeh, Shibani, and Buckingham Shum argue that when AI support for academic work is ubiquitous and often undetectable, assessment integrity must be reframed from a provenance problem (who wrote the text?) to a validity problem (what can justifiably be inferred from the evidence?). Written artifacts were trusted as proxies for the cognitive processes behind them; capable [[llm]]s break that link.
 
-Using the assessment validity framework of the *Standards for Educational and Psychological Testing* (AERA et al., 2014), the authors show that [[generative-ai|GenAI]] undermines multiple forms of validity evidence, then propose **Coauthorship Integrity** — violated when students submit AI-generated content they do not understand — as a new conceptual source of validity evidence. Their **"AI Viva"** prototype, a [[conversational-ai|conversational agent]], combines elements of a viva voce with comprehension questions of controllable type and complexity, quantitative and dialogic [[feedback]], and an open-ended closing dialogue.
+Using the assessment validity framework of the *Standards for Educational and Psychological Testing* (AERA et al., 2014), the authors show that [[generative-ai|GenAI]] undermines multiple forms of validity evidence, then propose **Coauthorship Integrity** — violated when students submit AI-generated content they do not understand — as a new conceptual source of validity evidence. Their **"AI Viva"** prototype, a [[conversational-ai|conversational agent]], combines elements of a [[oral-assessment|viva voce]] with comprehension questions of controllable type and complexity, [[quantitative-research|quantitative]] and dialogic [[feedback]], and an open-ended closing dialogue.
 
 
 ## Key Findings
@@ -25,14 +25,14 @@ Using the assessment validity framework of the *Standards for Educational and Ps
 1. **GenAI breaks the written-artifact proxy.** Fluent text can now be produced with little visible evidence of the cognitive work behind it.
 2. **All five validity sources are threatened.** Test content, response processes, internal structure, relations to other variables, and consequences each lose evidentiary force in non-proctored contexts.
 3. **Coauthorship Integrity as a new source of validity evidence.** It asks whether the student is the epistemic agent behind the ideas and reasoning in the submitted work.
-4. **Two exemplar evidence strands.** Dialogic Interaction (this paper's focus, via viva voce/interactive orals) and Embodied Performance (work samples, simulations, OSCE-style testing).
+4. **Two exemplar evidence strands.** Dialogic Interaction (this paper's focus, via viva voce/interactive orals) and [[embodied-learning|Embodied]] Performance (work samples, [[simulation|simulations]], OSCE-style testing).
 5. **The AI Viva prototype.** Five item types with 30 variations covering all the six levels of the revised Bloom's taxonomy, generated from the student's own text.
 6. **Preliminary expert validation (n = 8).** Experts rated comprehension, difficulty, scoring accuracy and feedback on a 0-10 scale; open-ended items averaged 8.38-9.00 for comprehension.
 7. **Positioned as formative, for now.** The authors state the work is not a summative solution; the planned next phase tests it with students.
 
 ## From provenance to validity
 
-For each of the five sources the paper gives a definition, the GenAI threat, and a higher education example. Test content is threatened when AI embellishment obscures whether an artifact reflects the intended construct. Response-process evidence weakens because behavioral traces no longer represent unaided reasoning but a human/AI "pragmatic system". Internal structure blurs as AI homogenises style across tasks and students, flattening variation between subskills. Relations to other variables suffer when inflated scores distort correlations with later performance, and consequential validity is implicated when decisions such as certification rest on evidence not originating from the student.
+For each of the five sources the paper gives a definition, the GenAI threat, and a [[higher-ed|higher education]] example. Test content is threatened when AI embellishment obscures whether an artifact reflects the intended construct. Response-process evidence weakens because behavioral traces no longer represent unaided reasoning but a human/AI "pragmatic system". Internal structure blurs as AI homogenises style across tasks and students, flattening variation between subskills. Relations to other variables suffer when inflated scores distort correlations with later performance, and consequential validity is implicated when decisions such as certification rest on evidence not originating from the student.
 
 ## Coauthorship Integrity as an evidentiary strand
 
@@ -53,7 +53,7 @@ Deployed through Microsoft Azure using GPT-4-1106, the prototype's prompt compri
 
 - The text-centric prototype cannot probe reasoning in fields requiring audio-visual data or mathematical formulae, and it does not simulate the social dynamics of an oral interview.
 - The expert evaluation (n = 8) used high-quality texts authored by the participants themselves in 7 of 8 cases — an optimal scenario. It shows technical feasibility, not readiness for summative deployment, which the authors say needs testing with student-authored texts of varying quality and length.
-- Because the submitted text may itself contain misunderstandings and responses are scored for consistency with it, scoring and feedback risk reinforcing those misconceptions; mitigations are proposed but not yet verified.
+- Because the submitted text may itself contain misunderstandings and responses are scored for consistency with it, scoring and feedback risk reinforcing those [[misconceptions]]; mitigations are proposed but not yet verified.
 - The contribution is a validity-framework extension plus a proof-of-concept: no students had used the tool, and items at the Evaluate and Create levels of Bloom's taxonomy were not evaluated because answering them exceeded the time available.
 
 ## Citation

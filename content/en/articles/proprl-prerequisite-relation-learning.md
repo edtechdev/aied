@@ -17,14 +17,14 @@ page_kind: [framework]
 
 ## Key Findings
 
-1. ProPRL achieves state-of-the-art prerequisite relation learning, ranking first on all nine dataset–metric combinations (ACC, F1, AUC) across MOOC, LectureBank, and University Course (UCD), with relative improvements from 1.96% to 6.11% over the strongest baseline (DGCPL in most cases).
+1. ProPRL achieves state-of-the-art prerequisite relation learning, ranking first on all nine dataset–metric combinations (ACC, F1, AUC) across [[online-teaching-and-learning|MOOC]], LectureBank, and University Course (UCD), with relative improvements from 1.96% to 6.11% over the strongest baseline (DGCPL in most cases).
 2. The Irreversibility Constraint — an anti-symmetry regularizer penalizing high confidence in both directions of a concept pair — sharply reduces contradictory bidirectional predictions, raising the proportion of correctly ordered relations from 88.0% to 90.0% and widening the forward–reverse confidence margin from 0.605 to 0.695.
 3. Direction-preserving personalized multi-hop propagation over the learning-behavior graph is the single most impactful component: removing it degrades F1 on UCD from 0.8788 to 0.7831, the largest ablation drop across all three datasets.
 4. The Pair-conditioned Gate, which learns pair-specific weighting of resource-aware versus behavior-aware evidence, outperforms fixed uniform fusion, with dataset-dependent benefits (largest on MOOC).
 
 ## Background: Why Conventional Link Prediction Fails
 
-Prerequisite relation learning is central to [[adaptive-learning|adaptive instruction]] and [[personalized-learning]], which depend on accurate domain knowledge structures. Yet real-world modeling is hampered by scarce expert annotations and noisy automated extraction. Existing methods typically reduce the task to conventional [[network-analysis|link prediction]] over node embeddings, which fails on three properties the authors identify as intrinsic to prerequisite relations:
+Prerequisite relation learning is central to [[adaptive-learning|adaptive instruction]] and [[personalized-learning]], which depend on accurate domain knowledge structures. Yet real-world modeling is hampered by scarce expert annotations and noisy automated extraction. Existing methods typically reduce the task to conventional [[network-analysis|link prediction]] over node embeddings, which fails on three properties the authors identify as intrinsic to [[recommender-systems-and-learning-paths|prerequisite relations]]:
 
 - **Directional asymmetry:** prerequisite relations are irreversible (if *ci* is a prerequisite of *cj*, assigning high confidence to *cj* → *ci* is a directional contradiction), yet conventional models score directed pairs independently.
 - **Multi-hop behavioral evidence:** prerequisites often surface as latent dependencies (*ci* → *ck* → *cj*) rather than explicit one-step learner transitions, which local transition heuristics miss.
@@ -38,7 +38,7 @@ ProPRL combines three components over an [[knowledge-graph|educational knowledge
 
 **Pair-conditioned Gate.** Because the same concept can be a prerequisite in one pair and a target in another, ProPRL composes role-specific pair representations (concatenation, signed difference, and Hadamard compatibility) for each view, then learns a gate that adaptively weights and fuses the resource-aware and behavior-aware views per candidate ordered pair — rather than relying on a fixed node-level fusion.
 
-**Irreversibility Constraint.** An anti-symmetry regularizer evaluates each positive pair's reverse direction with the same scoring function and penalizes simultaneously high probabilities in both directions via a co-activation margin. A teacher-detached multi-view consistency loss aligns the two single-view branches with the stronger fused prediction.
+**Irreversibility Constraint.** An anti-symmetry regularizer evaluates each positive pair's reverse direction with the same scoring function and penalizes simultaneously high probabilities in both directions via a co-activation margin. A [[teacher-role|teacher]]-detached multi-view consistency loss aligns the two single-view branches with the stronger fused prediction.
 
 ## Experiments and Results
 

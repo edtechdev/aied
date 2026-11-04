@@ -21,7 +21,7 @@ methods: [quantitative-research]
 - **Dual pathways emerge** linking learning climate to GenAI use: one toward constructive, autonomous use and another toward compulsive dependence.
 - **High-school pressure vs. autonomy support** differentially predict which pathway students follow into university.
 - Findings are **consistent across cross-contextual groups** (China vs. non-China high-school backgrounds; China vs. Thailand university contexts), supporting the framework's generalizability.
-- The results link SDT-based motivational processes and behavioral mechanisms (Hook-model engagement) to perceived quality of AI-supported learning.
+- The results link SDT-based [[motivation|motivational]] processes and behavioral mechanisms (Hook-model engagement) to perceived quality of AI-supported learning.
 
 ## What this means for practice
 
@@ -35,7 +35,7 @@ methods: [quantitative-research]
 
 - The evidence is cross-sectional survey data from 508 university students in China- and Thailand-linked contexts (China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), so the SEM associations cannot establish that high-school climate causes later use pathways.
 - High-school learning climate was measured through retrospective reports from university students rather than observed or concurrent measures.
-- Outcomes such as perceived AI-supported learning quality, [[well-being]], and academic performance are self-reported perceptions rather than objective records of use or attainment.
+- Outcomes such as perceived AI-supported learning quality, [[well-being]], and [[learning-gains|academic performance]] are [[self-report-measures|self-reported]] perceptions rather than objective records of use or attainment.
 - Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
 
 ## Citation

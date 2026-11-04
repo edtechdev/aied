@@ -28,10 +28,10 @@ Drawing on economic and labor-market forecasts, the review surfaces a range of p
 
 - **Bureau of Labor Statistics (2023–2033)** projections now account for AI exposure across several computer and engineering occupations, acknowledging heightened automation risk.
 - **MIT's Shaping Work Project** estimates 1.6–3.2 million U.S. jobs could be displaced by AI-driven automation over two decades; more ambitious projections suggest up to 30% of jobs may be automatable by the mid-2030s.
-- **Four scenarios for 2030** (after Ellis 2025): *supercharged progress* (exponential AI advance outpacing governance), *age of displacement* (automation outpacing reskilling, generating social fractures), *co-pilot economy* (gradual AI-augmented work through human–AI collaboration), and *stalled progress* (uneven skill diffusion widening adoption gaps).
+- **Four scenarios for 2030** (after Ellis 2025): *supercharged progress* (exponential AI advance outpacing governance), *age of displacement* (automation outpacing reskilling, generating social fractures), *[[human-ai-collaboration|co-pilot]] economy* (gradual AI-augmented work through human–AI collaboration), and *stalled progress* (uneven skill diffusion widening adoption gaps).
 - **Microsoft (2025)** finds skills in [[critical-thinking|analytical thinking]], resilience, [[ethics]], and digital literacy are twice as likely to be required in job postings.
 
-The review's central conclusion from these projections is that engineering and computing face a **transformation** — some growth in selected fields, but AI replacing tasks and reducing jobs and working hours, alongside the emergence of new AI-oriented roles requiring [[generative-ai|generative AI]] upskilling.
+The review's central conclusion from these projections is that engineering and computing face a **transformation** — some growth in selected fields, but AI replacing tasks and reducing jobs and working hours, alongside the emergence of new AI-oriented roles requiring [[generative-ai|generative AI]] [[lifelong-learning|upskilling]].
 
 ## What this means for practice
 
@@ -44,7 +44,7 @@ The review's central conclusion from these projections is that engineering and c
 ## Limitations
 
 - The corpus is 22 reports, narrowed from 2,320 Google Search results through PRISMA-style screening; searches ran through Google rather than a bibliographic database because the target was gray literature.
-- Scope is deliberately narrow: only U.S.-based sources published 2020–2025 that contained specific projections for engineering and computer science fields, so the authors caution that findings should be interpreted as representative of those two fields only.
+- Scope is deliberately narrow: only U.S.-based sources published 2020–2025 that contained specific projections for engineering and [[cs-education|computer science]] fields, so the authors caution that findings should be interpreted as representative of those two fields only.
 - The authors state that the recommendations and curricular interventions proposed for institutions have not yet been empirically tested and call for longitudinal work on their feasibility and effectiveness.
 - The analysis is bounded by the scope of the existing reports and their forecasts, which may not project the full extent of AI-driven change in engineering and computing roles.
 

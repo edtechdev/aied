@@ -13,11 +13,11 @@ level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2505.08083.md']
 ---
-> **Synthesis:** Explores LLMs to support K-12 teachers in designing culturally relevant pedagogy. An exploratory pilot with four K-12 teachers found the CulturAIEd tool enhanced teachers' confidence in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities. Addresses [[equity-in-ai-education|equity]] gaps in AI educational tools by centering culturally relevant content.
+> **Synthesis:** Explores LLMs to support [[k-12]] teachers in designing culturally relevant pedagogy. An exploratory pilot with four K-12 teachers found the CulturAIEd tool enhanced teachers' confidence in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities. Addresses [[equity-in-ai-education|equity]] gaps in AI educational tools by centering culturally relevant content.
 
 ## Key Findings
 
-- **CulturAIEd** is an [[llm]]-powered system designed to help teachers contextualize **AI literacy activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with rubric-driven guidance in the generative process.
+- **CulturAIEd** is an [[llm]]-powered system designed to help teachers contextualize **[[ai-literacy|AI literacy]] activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with rubric-driven guidance in the generative process.
 - Teachers struggle to implement CRP due to **time, training, and resource gaps**; the study asks whether LLMs can lower these barriers (RQ1: influence on teachers' ability to design culturally responsive AI literacy activities; RQ2: perceived strengths and opportunities of such tools).
 - In an **exploratory pilot with four K-12 teachers**, CulturAIEd **enhanced teachers' confidence** in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities.
 - Teachers **valued the streamlined integration of student demographic information and immediate actionable feedback**, which they associated with high implementation efficiency.
@@ -25,7 +25,7 @@ sources: ['raw/papers/2505.08083.md']
 
 ## Study Design & Method
 
-The study combines a design component — building CulturAIEd around CRP/CRT frameworks, including a CRT checklist and demographic customization layered into the LLM's generative process — with an exploratory pilot conducted in preparation for a future [[mixed-methods-research|mixed-methods]] study. The pilot with four K-12 teachers examined how the tool influenced their confidence, efficiency, and [[pedagogy|pedagogical]] strategies in making learning activities culturally responsive. The authors situate the work against Ladson-Billings' CRP framework (academic success, cultural competence, sociopolitical consciousness) and Geneva Gay's Culturally Responsive Teaching.
+The study combines a design component — building CulturAIEd around CRP/CRT frameworks, including a CRT checklist and demographic customization layered into the LLM's generative process — with an exploratory pilot conducted in preparation for a future [[mixed-methods-research|mixed-methods]] study. The pilot with four K-12 teachers examined how the tool influenced their confidence, efficiency, and [[pedagogy|pedagogical]] strategies in making learning activities culturally responsive. The authors situate the work against Ladson-Billings' CRP framework (academic success, cultural competence, sociopolitical consciousness) and Geneva Gay's [[culturally-relevant-pedagogy|Culturally Responsive Teaching]].
 
 ## What this means for practice
 
@@ -38,7 +38,7 @@ The study combines a design component — building CulturAIEd around CRP/CRT fra
 
 - The pilot involved four K-12 teachers (N = 4) and is framed as exploratory; the authors state that the confidence and efficiency improvements should be interpreted as promising trends rather than conclusive evidence of efficacy.
 - Each participant took part in a single 90-120 minute semi-structured one-on-one Zoom session (pre-survey, adaptation tasks, post-survey, interviews), so there is no follow-up evidence about whether their classroom practice changed afterward.
-- The outcomes are self-reported confidence and perceived efficiency with no control comparison and no measure of student learning; the authors state that larger-scale studies with control comparisons are needed.
+- The outcomes are [[self-report-measures|self-reported]] confidence and perceived efficiency with no control comparison and no measure of student learning; the authors state that larger-scale studies with control comparisons are needed.
 - The tool was a demo built on gpt-4o-mini-2024-07-18, and the authors flag stereotype reproduction and the risk of "routinizing" CRP as unresolved risks rather than risks their design eliminated.
 
 ## Citation

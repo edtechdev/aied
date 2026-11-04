@@ -13,7 +13,7 @@ confidence: high
 discipline: [stem education]
 ---
 
-> **Synthesis:** Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using [[llm]]-tagged questions and constrained optimization. Applied to 9 years of NEET questions (n=1,496) and JEE Advanced questions. Finds NEET latent skill distribution is stable within syllabus regimes (KL 0.004-0.032) but shifts significantly after syllabus rationalization (KL=0.040, p=0.0005). JEE Advanced is dominated by multi-concept integration (80.9%). Formulates study planning as a knapsack-variant optimization with Bayesian Knowledge Tracing.
+> **Synthesis:** Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using [[llm]]-tagged questions and constrained optimization. Applied to 9 years of NEET questions (n=1,496) and JEE Advanced questions. Finds NEET latent skill distribution is stable within syllabus regimes (KL 0.004-0.032) but shifts significantly after syllabus rationalization (KL=0.040, p=0.0005). JEE Advanced is dominated by multi-concept integration (80.9%). Formulates study planning as a knapsack-variant optimization with [[knowledge-tracing|Bayesian Knowledge Tracing]].
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ LearnOpt treats standardized examinations not as uniform syllabus coverage probl
 
 ## Limitations
 
-- Mastery vectors are initialized from self-report, which introduces subjective bias into the optimization.
+- Mastery vectors are initialized from [[self-report-measures|self-report]], which introduces subjective bias into the optimization.
 - Optimization was evaluated in simulation with one real and two synthetic mastery profiles, so real student outcomes were not measured.
 - LLM tagging introduces noise that propagates through the graph and the optimizer; the measured inter-model agreement (Cohen's kappa on a 74-question common subset) quantifies but does not eliminate it.
 - Validation is narrow: the framework was validated on MCQ exams (1,496 NEET questions from 2016-2024, with 2022 underrepresented at n=32), and the JEE Advanced analysis rests on a small benchmark subset (n=110) that excludes three of four JEEBench response types.

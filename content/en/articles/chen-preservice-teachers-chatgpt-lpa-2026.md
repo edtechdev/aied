@@ -16,7 +16,7 @@ page_kind: [framework]
 institutions: [change-management]
 ---
 
-> **Synthesis:** This person-centered latent profile analysis (LPA) of N = 128 Taiwanese pre-service teachers (68 [[stem-education|STEM]], 60 non-STEM) identifies four distinct ChatGPT-acceptance profiles — Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%) — and shows that disciplinary background strongly shapes profile membership (Cramer's V = 0.532). Critically, Resistant Skeptics report high perceived ease of use but very low behavioral intention, proving technical ease does not guarantee adoption. The study proposes a differentiated [[ai-literacy]] training framework for [[teacher-education|teacher education]].
+> **Synthesis:** This person-centered [[latent-profile-analysis|latent profile analysis]] (LPA) of N = 128 Taiwanese pre-service teachers (68 [[stem-education|STEM]], 60 non-STEM) identifies four distinct ChatGPT-acceptance profiles — Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%) — and shows that disciplinary background strongly shapes profile membership (Cramer's V = 0.532). Critically, Resistant Skeptics report high perceived ease of use but very low behavioral intention, proving technical ease does not guarantee adoption. The study proposes a differentiated [[ai-literacy]] training framework for [[teacher-education|teacher education]].
 
 ## Key Findings
 
@@ -32,13 +32,13 @@ institutions: [change-management]
 - **Faculty developers.** Stop treating operational fluency as adoption: the Resistant Skeptics reported relatively high perceived ease of use but very low behavioral intention, so pair every skills module with work on trust, values, and professional stance.
 - **Faculty developers.** Set different expectations by discipline: [[stem-education|STEM]] pre-service teachers concentrated in Technology Pioneers (47.1%), while non-STEM teachers were overrepresented among Environmental Observers and Resistant Skeptics (Cramer's V = 0.532), so a single cross-faculty workshop will underserve both groups.
 - **Faculty developers.** Diagnose both perceived usefulness and ease of use — the profiles rest on five [[technology-acceptance-model|TAM]]/UTAUT2 constructs (PU, PEOU, AT, SI, FC) — and read a high ease-of-use score as no evidence of readiness to adopt [[generative-ai|generative AI]].
-- **Faculty developers.** Treat the proposed profile-specific training framework as a design hypothesis to test locally, not a validated curriculum: the typology-based interventions it recommends have not yet been implemented or evaluated.
+- **Faculty developers.** Treat the proposed profile-specific training framework as a design hypothesis to test locally, not a validated [[curriculum-design|curriculum]]: the typology-based interventions it recommends have not yet been implemented or evaluated.
 
 ## Limitations
 
 - N = 128 pre-service teachers recruited by convenience sampling from a single region of Taiwan; the authors note the size may destabilize the smallest profile (Resistant Skeptics, 14.06%) and limit more complex statistical models.
 - The sample is culturally bounded: all participants were Taiwanese pre-service teachers, and the authors state the four-profile structure and the disciplinary differences may not hold in Western individualist or other non-Western educational systems.
-- Data are entirely self-report questionnaire responses, so social desirability is uncontrolled and the psychological motivations behind each profile cannot be triangulated with behavioral evidence such as usage logs or practicum observation.
+- Data are entirely [[self-report-measures|self-report]] questionnaire responses, so social desirability is uncontrolled and the psychological motivations behind each profile cannot be triangulated with behavioral evidence such as usage logs or practicum observation.
 - The cross-sectional design cannot show profile stability or movement, and the study tested none of its own recommendations — the differentiated training strategies are theory-driven and were not empirically evaluated, and only five of the six TAM/UTAUT2 constructs served as LPA indicators.
 
 ## Citation

@@ -36,7 +36,7 @@ The work extends [[special-education]] and special-education-ai by centering dis
 - Four advanced BLV string musicians (violin and viola, ages 25-34) and three instructors took part; the population of advanced BLV upper-string players is inherently small, and the authors state that broad statistical generalizability was not a goal, prioritizing depth, diversity of perspective and triangulation instead.
 - Design iteration engaged only one musician with BLV for feedback, because international locations, performance commitments, health issues and one atypical learning pathway made broader participant iteration infeasible.
 - Recruitment combined public recruitment with snowball sampling through disability communities and personal networks, so the sample is not population-representative.
-- The evidence is qualitative (practice-video analysis, lesson observation and reflected expert accounts), so it documents embodied learning strategies rather than measuring learning outcomes; prototype development and empirical evaluation remain future work.
+- The evidence is [[qualitative-research|qualitative]] (practice-video analysis, lesson observation and reflected expert accounts), so it documents embodied learning strategies rather than measuring learning outcomes; prototype development and empirical evaluation remain future work.
 
 ## Citation
 

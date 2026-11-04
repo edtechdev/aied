@@ -19,7 +19,7 @@ confidence: medium
 ## Key Findings
 
 1. **Substantial subject-matter learning gains.** On seven identical pre/post questions, mean performance rose from 4.25 to 6.83 out of 7 (*t*(12)≈5.10, *p*<.001), with a large effect size (Cohen's *d*=1.49) — a practically as well as statistically meaningful gain in [[learning-gains|database competency]].
-2. **[[teacher-ai-competency|AI competency]] does not track perceived AI literacy.** Objective AI competency varied by domain (conceptual knowledge 75%, prompt engineering 62.5%, model adaptation 75%), while self-reported AI literacy correlated weakly and negatively with objective scores (*r*=−0.39, *p*≈0.21) — evidence of a [[trust-calibration|calibration gap]] in which students may overestimate their own AI abilities.
+2. **[[teacher-ai-competency|AI competency]] does not track perceived AI literacy.** Objective AI competency varied by domain (conceptual knowledge 75%, prompt engineering 62.5%, [[llm-training-and-fine-tuning|model adaptation]] 75%), while [[self-report-measures|self-reported]] AI literacy correlated weakly and negatively with objective scores (*r*=−0.39, *p*≈0.21) — evidence of a [[trust-calibration|calibration gap]] in which students may overestimate their own AI abilities.
 3. **Critique of erroneous AI output drove metacognitive engagement.** [[qualitative-research|Qualitative]] evidence showed students inspecting AI outputs, diagnosing errors, and revising designs against database principles — [[metacognition|metacognitive monitoring]] rather than passive acceptance of AI suggestions.
 4. **The result is a design-based rather than causal claim.** The absence of a control group and the small single-section cohort (n=13) position the study as evidence of instructional feasibility and directional effects, not comparative efficacy.
 
@@ -96,7 +96,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 - **Instructors.** Design AI exercises around the model's fallibility rather than around its answers: hand students erroneous outputs — a schema that violates referential integrity, a query that drops a join — and require them to diagnose and repair the failure before proposing a corrected design.
 - **Instructors.** Use the What/Why/How lesson framing and a weekly critique-refinement cycle so that AI use moves students up [[critical-thinking|Bloom's taxonomy]] from application to analysis, evaluation, and creation instead of stopping at generation.
-- **Instructors.** Pair any self-report AI literacy survey with objective, domain-level competency checks; here students' self-assessments diverged from measured competency, which is the [[trust-calibration|calibration]] gap a short knowledge quiz makes visible to them.
+- **Instructors.** Pair any self-report AI literacy survey with objective, domain-level competency checks; here students' [[self-assessment|self-assessments]] diverged from measured competency, which is the [[trust-calibration|calibration]] gap a short knowledge quiz makes visible to them.
 - **Learners.** Treat each AI output as a draft to be interrogated: ask the model to justify a schema or normalization choice, then test that justification against the rules you were taught.
 - **Instructors.** Concentrate [[scaffolding|scaffolds]] where confidence was lowest — database system use and SQL design — and assess evaluative skill alongside conceptual recall, since the seven pre/post items tested ER modeling, normalization, schema design, and basic queries only.
 

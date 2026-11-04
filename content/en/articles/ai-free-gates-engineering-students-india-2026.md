@@ -64,7 +64,7 @@ The burden of defining readiness fell on students. AI became the first response 
 - Only two participants were women, so the accounts largely reflect men's experience.
 - All accounts are [[self-report-measures|self-reported]] recollections of AI use, and graduates' descriptions of college were retrospective; no placement outcome, recruiter decision or employer assessment was observed.
 - No faculty, administrators, recruiters or managers were interviewed, so institutional positions appear only through students' perceptions, and the claim that screens "do not hold" rests partly on participants' own estimates rather than on proctoring data.
-- The first author graduated in computer science in 2024 from one of the institutions represented and works as an AI consultant; she conducted all interviews and coded the transcripts, with reflexive memos and regular consultation with the second author as the stated check.
+- The first author graduated in [[cs-education|computer science]] in 2024 from one of the institutions represented and works as an AI consultant; she conducted all interviews and coded the transcripts, with reflexive memos and regular consultation with the second author as the stated check.
 - Interviews ran September to October 2026, most lasting 30 to 45 minutes (some Tamil–English ones about 20), six partly or mainly in Tamil and translated by the first author, who notes that some nuance may have been lost; the themes are interpretive constructs, not frequency counts.
 
 ## Citation

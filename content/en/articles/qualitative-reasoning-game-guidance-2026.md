@@ -37,7 +37,7 @@ The paper is a modeling contribution, so questions of learning gain remain unans
 
 - **Designers.** Use the model as a hint engine rather than a solution generator: because the same symbolic representation that decides whether a bridge holds can be verbalized, guidance can be tailored to the player's current attempt instead of revealing the optimal move.
 - **Designers.** Instrument the solver's structural metrics — placement options, inventory count, orientation and pruning efficiency — to calibrate level difficulty to a learner rather than fixing it by level design.
-- **Instructors.** Pair the puzzle with explainable, human-like hints of this kind when the instructional goal is spatial-skill training in stability and path visualization rather than game mastery.
+- **Instructors.** Pair the puzzle with explainable, human-like hints of this kind when the instructional goal is spatial-skill training in stability and path [[visualization]] rather than game mastery.
 - **Researchers.** Extend the hybrid qualitative-plus-center-of-mass approach to other physical puzzle games before assuming it generalizes, since the model encodes Camelot Jr.'s specific rules (fixed towers, a limited block inventory, every block used).
 
 ## Limitations

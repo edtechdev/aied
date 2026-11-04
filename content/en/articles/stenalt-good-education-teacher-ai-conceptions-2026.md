@@ -12,7 +12,7 @@ confidence: high
 methods: [qualitative-research]
 ---
 
-> **Synthesis:** **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish higher education to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labor**.
+> **Synthesis:** **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish [[higher-ed|higher education]] to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labor**.
 
 Stenalt (2026) shifts focus from students and tools to **teachers' conceptions** of AI — what teachers believe counts as good education in an AI-integrated context. Rather than prescribing how AI should be used, it surfaces the variation in how educators themselves conceptualize AI's role, which shapes how they design AI into learning experiences.
 
@@ -32,16 +32,16 @@ Stenalt (2026) shifts focus from students and tools to **teachers' conceptions**
 
 ## What this means for practice
 
-- **Instructors.** Name the conception of AI your course design assumes — correct-tool knowledge, a resource for individual sense-making, or a disciplinary collaborator — because the four design approaches this study identified assign students different roles, from recipients of information to collaborators.
+- **Instructors.** Name the conception of AI your [[learning-design|course design]] assumes — correct-tool knowledge, a resource for individual sense-making, or a disciplinary collaborator — because the four design approaches this study identified assign students different roles, from recipients of information to collaborators.
 - **Instructors.** Build tasks that require judgment about when *not* to use AI: the interviewees overwhelmingly framed [[ai-literacy]] as "how to do it" and rarely voiced opting out of AI activities or prioritizing differently.
 - **Instructors.** Use the four design approaches as shared vocabulary in course teams, so that design discussions surface which elements (purpose, context, values, method, technology) are being prioritized rather than assuming one correct use of AI.
-- **Faculty developers.** Design professional development around teachers' existing conceptions instead of tool training: the 16 interviewees held three conceptions of teaching-with-AI and three of learning-with-AI, so a single workshop model reaches only part of any faculty group.
+- **Faculty developers.** Design [[educational-development|professional development]] around teachers' existing conceptions instead of tool training: the 16 interviewees held three conceptions of teaching-with-AI and three of learning-with-AI, so a single workshop model reaches only part of any faculty group.
 - **Administrators.** Treat AI-related concern as a considered position rather than a competence deficit: these teachers, positioned as actively developing their practice, did not adopt AI uncritically, and the study ties [[teacher-role|teacher agency]] and the labor of integration to how AI actually enters teaching.
 
 ## Limitations
 
 - 16 teachers from 2 of Denmark's 8 universities, recruited by snowballing through university teachers and academic developers who were already adopting AI in teaching — the outcome spaces therefore over-represent engaged adopters, and the authors state that including teachers with less interest in AI would allow more extensive exploration.
-- The evidence is single semi-structured interviews of 45–60 minutes each; participants' course details and profiles were self-reported during the interviews rather than verified against institutional records.
+- The evidence is single semi-structured interviews of 45–60 minutes each; participants' course details and profiles were [[self-report-measures|self-reported]] during the interviews rather than verified against institutional records.
 - Conceptions and approaches are interpreted as situated responses to context, and the authors state the analysis does not provide in-depth insight into teachers' agentic will and power — the study maps variation, not its causes.
 - No longitudinal component: the authors call for further investigation of how the identified positions develop and whether they remain robust over time.
 

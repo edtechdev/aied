@@ -51,7 +51,7 @@ Faculty raised assessment concerns in almost every session, and the fifth addres
 - **Faculty developers.** Anchor each session on a durable disciplinary practice — checking units, reflecting on a wrong solution — rather than on a tool or platform that will be obsolete before the series ends.
 - **Administrators.** Expect a repository, not a policy document, as the first concrete output, and fund the facilitation time that turns individual course fixes into shared departmental resources.
 - **Instructors.** Model productive AI use in class before assigning AI-integrated tasks, because students in this department tended to prompt shallowly and modify generated content superficially on their own.
-- **Instructors.** Consider a short oral defense of one randomly selected homework problem if you need an assessment that a [[conversational-ai|chatbot]] cannot complete for the student.
+- **Instructors.** Consider a short [[oral-assessment|oral defense]] of one randomly selected homework problem if you need an assessment that a [[conversational-ai|chatbot]] cannot complete for the student.
 
 ## Limitations
 - The report covers one physics department at a large public R1 institution, with nineteen participants across the series and about ten at any meeting.

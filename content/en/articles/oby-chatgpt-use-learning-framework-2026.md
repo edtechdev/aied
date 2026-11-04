@@ -28,7 +28,7 @@ page_kind: [framework]
 ## What this means for practice
 
 - **Instructors.** Sequence academic tasks with gradually increasing element interactivity so [[cognitive-offloading|intrinsic load]] stays aligned with learner expertise, because ChatGPT's value flips between scaffold and shortcut depending on task complexity.
-- **Instructors.** Frame generative AI explicitly in course design and classroom communication, discussing when it supports reasoning and when it replaces it, instead of leaving guidance to reactive academic-integrity policy.
+- **Instructors.** Frame generative AI explicitly in course design and classroom communication, discussing when it supports reasoning and when it replaces it, instead of leaving guidance to reactive [[academic-integrity]] policy.
 - **Instructors.** Break complex activities into incremental steps so students experience manageable successes and attribute progress to their own strategies, strengthening [[self-efficacy]] and sustaining engagement with core reasoning.
 - **Designers.** Treat ChatGPT as a cognitive tool for exploring ideas and refining reasoning — structured much as established [[metacognition|metacognitive]] supports are — and shape the motivational climate, since achievement goals respond to contextual cues.
 - **Faculty developers.** Position AI literacy as pedagogical knowledge grounded in learning theory, so instructors can design conditions that manage cognitive load rather than only policing AI use.
@@ -36,7 +36,7 @@ page_kind: [framework]
 ## Limitations
 
 - This is a conceptual, theory-driven synthesis, and the author states that the proposed relationships among cognitive load, goal orientation, self-efficacy, and task relevance require systematic empirical investigation; the framework is not an empirically validated intervention.
-- No sample, intervention, or outcome data are reported, so the design can support hypothesis generation and instructional design but not causal claims or effect sizes for the scaffold-versus-shortcut pathway.
+- No sample, intervention, or outcome data are reported, so the design can support hypothesis generation and [[learning-design|instructional design]] but not causal claims or effect sizes for the scaffold-versus-shortcut pathway.
 - No measurement instrument or validation is specified for the mediating constructs, so the framework cannot yet be used to measure whether a given course pushed students toward scaffolding or task completion.
 - The author reports using ChatGPT for grammar, text flow, and APA alignment and Perplexity AI to assess the framework, making part of the synthesis itself AI-assisted.
 

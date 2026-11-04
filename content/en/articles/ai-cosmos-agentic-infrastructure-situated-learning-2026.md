@@ -32,8 +32,8 @@ verified: [citation, quotes, links]
 
 ## Key Findings
 1. **The design separates practice from the artifact.** A scenario is defined by an objective, participant roles, knowledge resources and workbench operations; an asset is a typed unit — role specification, scenario specification, knowledge artifact, process record or experience trace — that keeps its provenance and its dependencies on earlier assets.
-2. **Legal reasoning improved against a plain chatbot.** Across 131 students in three arms, AI Cosmos gained 22.8 percentage points against 15.7 for the vanilla assistant, a 7.0-point advantage (Welch t(71.8) = 2.42, p = 0.018, d = 0.56).
-3. **A teacher persona alone did not help.** LLM-as-Teacher gained 2.8 points over vanilla, p = 0.121, and trailed AI Cosmos by 4.2 points, p = 0.146, so prompting the same model to behave like a tutor produced no detectable benefit.
+2. **Legal reasoning improved against a plain [[conversational-ai|chatbot]].** Across 131 students in three arms, AI Cosmos gained 22.8 percentage points against 15.7 for the vanilla assistant, a 7.0-point advantage (Welch t(71.8) = 2.42, p = 0.018, d = 0.56).
+3. **A [[teacher-role|teacher]] persona alone did not help.** LLM-as-Teacher gained 2.8 points over vanilla, p = 0.121, and trailed AI Cosmos by 4.2 points, p = 0.146, so [[prompt-engineering|prompting]] the same model to behave like a tutor produced no detectable benefit.
 4. **The gain sat in structured items, not in argument.** On objective scenario-based items AI Cosmos exceeded vanilla by 8.3 points, 95% CI [1.8, 14.9], p = 0.018, while open-response gains of 5.6 to 7.8 points did not differ across arms (p = 0.80).
 5. **The interaction looked different, not just longer.** Total student input was indistinguishable across arms, yet AI Cosmos elicited 51.0 turns on average against 29.6 and 29.2 (F(2, 108) = 21.8, p = 1.1 × 10−8), and about 40% fewer characters per turn (162 versus 259 and 276).
 6. **Programming mastery separated where test-case scores did not.** In the second trial, criterion mastery at grade G4 or better reached 68% under AI Cosmos against 45% for vanilla and 32% for LLM-as-Teacher, even though successful online-judge submissions were comparable at 82% and 85%.
@@ -59,7 +59,7 @@ The durability result should be read as a question left open. Eighteen participa
 
 ## What this means for practice
 
-- **Instructional designers.** Treat the workbench as the curriculum. The measurable difference here came from giving students a stateful environment to act in and an objective to act toward, not from better explanations, which the teacher-persona arm showed to be inert.
+- **Instructional designers.** Treat the workbench as the [[curriculum-design|curriculum]]. The measurable difference here came from giving students a stateful environment to act in and an objective to act toward, not from better explanations, which the teacher-persona arm showed to be inert.
 - **Educational technology developers.** Keep the process record. The asset model's value is that a later task inherits the conditions and revisions of an earlier one, which requires recording provenance at the moment of practice rather than reconstructing it.
 - **Instructors.** Expect more turns and shorter messages. The interaction signature here was iterative and terse; a student writing 40% fewer characters per turn but twice as many turns is working differently, not less.
 - **Assessment designers.** Choose the measure before the trial. The programming result appeared only under expert mastery scoring, which suggests that binary correctness will understate structured-practice effects.

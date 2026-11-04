@@ -62,7 +62,7 @@ This is a strong result for AI feedback systems:
 ## Methodological Notes
 
 - Online crowdsourcing experiment — participants recruited via a platform, not classroom students
-- Compared against **fixed** educator feedback (not live, not adaptive) — the AI system's adaptivity may partly explain its perceptual advantage
+- Compared against **fixed** educator feedback (not live, not adaptive) — the AI system's [[adaptive-learning|adaptivity]] may partly explain its perceptual advantage
 - Single-session design — long-term effects unknown
 
 ## Open Questions

@@ -26,17 +26,17 @@ institutions: [governance, educational-policy-ai, regulation]
 methods: [qualitative-research]
 ---
 
-> **Synthesis:** Bursic and colleagues interviewed twelve physicians who lead AI work in postgraduate medical education across Canada and the United States, and report five barriers to putting [[ai-literacy|AI literacy]] into residency curricula: [[curriculum-design|curricula]] that cannot keep pace with the tools, thin [[teacher-ai-competency|faculty expertise]], institutional and regulatory [[governance]] that has not caught up, no national competency standards, and cultural resistance tied to professional identity. Their recommendation is not more content but durable competencies — frameworks for appraising AI output, [[bias-mitigation|bias awareness]], and [[ethics]] — around which programs attach modular, locally available tool work. [[professional-training|Faculty development]] and co-learning with residents carry the load, because participants expected trainees to become more fluent than the educators. No curriculum or learner outcome was measured: this is a [[qualitative-research|qualitative]] account of expert perception from a small, self-selected sample that excluded residents.
+> **Synthesis:** Bursic and colleagues interviewed twelve physicians who lead AI work in postgraduate [[medical-education|medical education]] across Canada and the United States, and report five barriers to putting [[ai-literacy|AI literacy]] into residency curricula: [[curriculum-design|curricula]] that cannot keep pace with the tools, thin [[teacher-ai-competency|faculty expertise]], institutional and regulatory [[governance]] that has not caught up, no national competency standards, and cultural resistance tied to professional identity. Their recommendation is not more content but durable competencies — frameworks for appraising AI output, [[bias-mitigation|bias awareness]], and [[ethics]] — around which programs attach modular, locally available tool work. [[professional-training|Faculty development]] and co-learning with residents carry the load, because participants expected trainees to become more fluent than the educators. No curriculum or learner outcome was measured: this is a [[qualitative-research|qualitative]] account of expert perception from a small, self-selected sample that excluded residents.
 
 ## Key Findings
 
 1. Participants described AI's pace as faster than any previous medical curriculum cycle, and argued that teaching durable frameworks for evaluating a tool beats teaching content about any single tool.
-2. Faculty expertise was described as thin beyond a few known experts, with informatics units not yet mature enough to lead curriculum development; upskilling, co-teaching, and co-learning were the proposed remedies.
+2. Faculty expertise was described as thin beyond a few known experts, with informatics units not yet mature enough to lead curriculum development; [[lifelong-learning|upskilling]], co-teaching, and co-learning were the proposed remedies.
 3. Most participants reported no institutional AI policy, or an incomplete one, and said data ownership, consent, and privacy remained unresolved; US institutions were described as ahead of Canadian ones.
 4. No nationally endorsed AI competency standards existed. The Royal College of Physicians and Surgeons of Canada was seen as well positioned to convene and standardize, yet currently behind.
 5. Access to AI tools, including widely adopted ones such as AI scribes, varied by health system and hospital, so what a resident could learn depended on their site's approvals and budget.
 6. Professional identity and responsibility were described as unsettled by AI, and participants proposed ethics, bias mitigation, and patient safety as the ground on which trust is built.
-7. The proposed structure is a modular curriculum: a core of AI and machine-learning literacy, critical appraisal, bias detection, metacognition for [[human-ai-collaboration|human-AI interaction]], and ethics, with specialty and local-tool content reviewed every six to twelve months.
+7. The proposed structure is a modular curriculum: a core of AI and [[machine-learning]] literacy, critical appraisal, bias detection, [[metacognition]] for [[human-ai-collaboration|human-AI interaction]], and ethics, with specialty and local-tool content reviewed every six to twelve months.
 
 ## Curricular agility and durable competencies
 
@@ -58,8 +58,8 @@ The cultural theme is the least tractable. Participants described colleagues who
 
 - Teach frameworks for appraising AI output rather than product-specific skills, and schedule a review of any tool-specific content at least annually.
 - Build a core module on AI literacy, critical appraisal, bias, and human-AI metacognition, then attach specialty and local-tool elements to it.
-- Fund faculty development and co-teaching explicitly; treat resident fluency as a teaching resource rather than a gap.
-- Ask for institutional policy on data handling and patient privacy before designing clinical AI exercises, and record what a site's approvals permit.
+- Fund [[educational-development|faculty development]] and co-teaching explicitly; treat resident fluency as a teaching resource rather than a gap.
+- Ask for [[educational-policy-ai|institutional policy]] on data handling and patient privacy before designing clinical AI exercises, and record what a site's approvals permit.
 - Involve ethicists and medico-legal experts in curriculum design, not only in incident review.
 
 ## Limitations

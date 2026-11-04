@@ -33,7 +33,7 @@ methods: [qualitative-research]
 ## Limitations
 
 - Exploratory technology probe and co-design workshop with 12 students aged 18–25, recruited through the researchers' personal networks, working through a single predefined virtual discussion session.
-- No control group and no quantitative measures: the findings rest on participants' subjective perceptions, and the boundary-detection goal went unevaluated, with no measure of detection accuracy or intervention timing.
+- No control group and no [[quantitative-research|quantitative]] measures: the findings rest on participants' subjective perceptions, and the boundary-detection goal went unevaluated, with no measure of detection accuracy or intervention timing.
 - The roles and the product-pitch scenario were predefined and limited to technology, business, and design boundaries, so the findings do not yet generalize to other disciplinary configurations or to the concrete stakes of authentic projects.
 
 ## Citation

@@ -17,7 +17,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-You are using AI for coursework and doing fine, except that the closed-book exam felt like reading someone else's notes. Or a friend says they wrote nothing and still got an A, and you are wondering what that means for you. Or you have started asking a chatbot more questions than you ask your instructor.
+You are using AI for coursework and doing fine, except that the [[summative-assessment|closed-book exam]] felt like reading someone else's notes. Or a friend says they wrote nothing and still got an A, and you are wondering what that means for you. Or you have started asking a chatbot more questions than you ask your instructor.
 
 The short answer, in a form you can repeat to a friend: AI is useful where you need feedback and unhelpful where you need practice. Keep the thinking step for yourself, test yourself without the tool before you submit, and be straight about what you used. The rest of this page is why that holds and what it looks like on a Tuesday night.
 

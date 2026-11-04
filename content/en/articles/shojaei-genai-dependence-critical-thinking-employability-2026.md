@@ -52,10 +52,10 @@ The moderation results read best as a boundary condition on GenAI use, not as ev
 - **Instructors.** Require [[metacognition|verification and comparison]] of AI output, since gains here track reflective engagement rather than frequency.
 - **Instructors.** Treat critical-thinking disposition as a pathway to [[career-development-and-readiness|employability]] (β = 0.437) and frame coursework around judgment tasks rather than output production.
 - **Program leaders.** Because dependence tracks lower outcomes while use tracks higher employability, [[reducing-ai-misuse|misuse prevention]] should target habitual and substitutive patterns rather than discourage use.
-- **Institutions.** The authors point to clear [[educational-policy-ai|institutional AI policies]], AI literacy training, and instructor preparation as practical levers.
+- **Institutions.** The authors point to clear [[educational-policy-ai|institutional AI policies]], [[ai-literacy|AI literacy]] training, and instructor preparation as practical levers.
 
 ## Limitations
-- The cross-sectional design cannot show that GenAI use causes dependence or that students move from augmentation to substitution over time; reverse explanations remain open, including that students with weaker confidence in independent problem solving report both greater dependence and weaker disposition.
+- The cross-sectional design cannot show that GenAI use causes dependence or that students move from augmentation to substitution over time; reverse explanations remain open, including that students with weaker confidence in independent [[problem-solving|problem solving]] report both greater dependence and weaker disposition.
 - All constructs come from one questionnaire, so common method bias is reduced but not eliminated (Harman's single-factor test explained 33.3% of variance; maximum full-collinearity VIF was 1.78), and self-perceived employability reflects student belief rather than employer assessment.
 - Convenience sampling at three Omani universities limits generalization.
 - GenAI dependence is an emerging construct spanning habitual reliance, reduced verification, and perceived loss of cognitive autonomy; one dominant factor emerged (first eigenvalue 3.49, 69.8% of variance, Cronbach's α = 0.892).

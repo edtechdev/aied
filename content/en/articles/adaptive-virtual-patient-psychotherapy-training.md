@@ -20,7 +20,7 @@ sources: ['raw/papers/2606.10051.md']
 
 - **Learners.** Sustain empathic and exploratory responding rather than landing one good opening question: across 1,033 turns from 20 clinicians and trainees the adaptive virtual patient's disclosure climbed steadily in response to therapist empathy and exploration, while a prompt-only baseline using the same LLM and persona stayed flat.
 - **Learners.** Treat exploratory questioning as the primary lever. In the underlying psychotherapy corpus, exploration did roughly 78 times the work of empathy in driving disclosure change, even though the system's deployed weighting treated it as only 3 times as important.
-- **Learners.** Do not judge a guarded patient's responsiveness from a short exchange. With the guarded Sam persona, perceived adaptivity reversed even though trajectory coherence held, because calibrated slow disclosure is psychologically correct but perceptually subtle; the authors call for longer sessions before such judgments are made.
+- **Learners.** Do not judge a guarded patient's responsiveness from a short exchange. With the guarded Sam persona, perceived [[adaptive-learning|adaptivity]] reversed even though trajectory coherence held, because calibrated slow disclosure is psychologically correct but perceptually subtle; the authors call for longer sessions before such judgments are made.
 - **Learners.** Pair simulated practice with human supervision and varied case formats, since the system's authors warn that a virtual patient rewarding empathy and exploration implicitly teaches trainees that those are the skills that matter, and that trainees may optimize for what the system rewards rather than for broader clinical judgment.
 
 ## Limitations

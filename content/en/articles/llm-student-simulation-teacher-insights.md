@@ -80,7 +80,7 @@ onal contexts
 - The study interviewed 12 teachers, most based in the UK and the majority female; the authors acknowledge possible gender effects on how personas are perceived and call for larger, more diverse samples.
 - All simulations analyzed came from one dataset (MathDial) built with an older GPT-3.5-turbo model, so behavior may differ with other [[llm|LLMs]] — and the authors note more capable models can sometimes simulate less convincingly.
 - Scope was limited to [[k-12|K–12]] [[math-education|mathematics]] dialogue; real student behavior varies by subject and was never tested elsewhere.
-- Realism judgments are teacher self-report in interviews, with no measured learning outcomes and no comparison against real students.
+- Realism judgments are teacher [[self-report-measures|self-report]] in interviews, with no measured learning outcomes and no comparison against real students.
 
 ## Citation
 

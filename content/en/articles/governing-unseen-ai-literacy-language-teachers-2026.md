@@ -15,7 +15,7 @@ methods: [meta-analysis-systematic-review]
 institutions: [governance]
 ---
 
-> **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance]] rather than individual upskilling.
+> **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance]] rather than individual [[lifelong-learning|upskilling]].
 
 ## Key Findings
 
@@ -40,9 +40,9 @@ institutions: [governance]
 
 ## Limitations
 
-- The synthesis rests on 32 studies (Dec 2022 – Mar 2026), 24 of which rely on self-report measures and few of which use validated domain-specific instruments, so assessed literacy reflects perception more than performance.
+- The synthesis rests on 32 studies (Dec 2022 – Mar 2026), 24 of which rely on [[self-report-measures|self-report measures]] and few of which use validated domain-specific instruments, so assessed literacy reflects perception more than performance.
 - The search covered three databases (ERIC, British Educational Index, Web of Science) and was restricted to English-language publications, excluding non-Anglophone research and introducing language and publication bias; no Gray literature or conference abstracts were searched.
-- The qualitative-dominant corpus allowed no meta-analysis or formal GRADE assessment; confidence was rated theme by theme using GRADE-CERQual, leaving certainty lower than a quantitative synthesis would give.
+- The [[qualitative-research|qualitative]]-dominant corpus allowed no meta-analysis or formal GRADE assessment; confidence was rated theme by theme using GRADE-CERQual, leaving certainty lower than a [[quantitative-research|quantitative]] synthesis would give.
 - Methodological quality was judged with a 0–8 composite checklist, and the authors flag self-report bias in survey studies, researcher–participant familiarity in case studies and confirmation bias in conceptual reviews as risks that were noted rather than eliminated.
 
 ## Citation

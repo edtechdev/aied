@@ -47,7 +47,7 @@ The framework is evaluated **offline on the OULAD dataset**, using snapshots con
 - **Designers.** Use a calibrated logistic regression as the reference predictor (AUC 0.884 at the d−14 snapshot and 0.889 at d−7) rather than reaching automatically for nonlinear models — XGBoost and the TabTransformer-style model reached only 0.898 on the same d−14 split, a modest gain over the calibrated baseline.
 - **Designers.** Generate recourse over discrete action variables rather than feature-space perturbations, so each recommendation is a set of deliverable actions the institution can actually schedule and check.
 - **Administrators.** Present validated plans as decision support for instructors, advisors, and learning-support staff rather than as automated decisions; the framework's stated value is structuring and validating candidate plans before any practical use.
-- **Researchers.** Test the framework on richer pedagogical interaction data and report robustness across retrained models, since the current action vocabulary is simplified and retrain stability was the weaker robustness indicator.
+- **Researchers.** Test the framework on richer [[pedagogy|pedagogical]] interaction data and report robustness across retrained models, since the current action vocabulary is simplified and retrain stability was the weaker robustness indicator.
 
 ## Limitations
 

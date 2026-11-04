@@ -31,11 +31,11 @@ This is a concrete, empirical illustration of **AI for sustainability** in the k
 - **Instructors.** Anchor sustainability tasks in authentic stakeholder decision-making, the practice-integrated pillar the study associates with the pilot group's behavioral engagement across personal, academic, professional, and social levels.
 - **Instructors.** Require students to communicate sustainability reasoning beyond the classroom: study participants acted as communicators within families and peer networks, evidence of social diffusion the framework treats as part of the outcome.
 - **Curriculum designers.** Repair the fragmentation problem directly by connecting sustainability content to real engineering decisions; the control group acquired sustainability knowledge mainly through disconnected coursework.
-- **Researchers.** Measure sustainability consciousness with triangulated outcomes — surveys, [[learning-analytics|learning analytics]], or behavioral indicators — rather than self-reported accounts collected at graduation.
+- **Researchers.** Measure sustainability consciousness with triangulated outcomes — surveys, [[learning-analytics|learning analytics]], or behavioral indicators — rather than [[self-report-measures|self-reported]] accounts collected at graduation.
 
 ## Limitations
 
-- Single-institution, single-discipline qualitative case: 144 transportation engineering undergraduates (pilot n = 74, control n = 70) from one application-oriented university in China, so generalization across disciplines, institution types, or cultures is cautioned.
+- Single-institution, single-discipline [[qualitative-research|qualitative]] case: 144 transportation engineering undergraduates (pilot n = 74, control n = 70) from one application-oriented university in China, so generalization across disciplines, institution types, or cultures is cautioned.
 - Data are primarily self-reported semi-structured interviews collected at a single time point at the end of the eighth semester, subject to recall bias and social desirability effects.
 - No multiple informants — instructors, curriculum designers, and workplace supervisors were not interviewed — so findings reflect students' subjective perceptions rather than triangulated learning outcomes.
 - No longitudinal follow-up, so the study cannot show whether the reported changes in sustainability knowledge, attitudes, and behavior persist into professional practice.

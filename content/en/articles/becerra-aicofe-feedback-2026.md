@@ -14,14 +14,14 @@ confidence: medium
 methods: [ai-ed-evaluation]
 ---
 
-> **Synthesis:** **AICoFE** (AI-based Collaborative Feedback) is a multi-[[llm]] feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving [[pedagogy|pedagogical]] authority through Learning Analytics dashboards.
+> **Synthesis:** **AICoFE** (AI-based Collaborative Feedback) is a multi-[[llm]] feedback generation system for [[higher-ed|higher education]] that combines independently fine-tuned language models with **[[teacher-role|teacher]]-in-the-loop mediation**, producing diverse feedback perspectives while preserving [[pedagogy|pedagogical]] authority through [[learning-analytics|Learning Analytics]] dashboards.
 
 ## Key Findings
 
-1. **Multi-LLM diversity improves feedback quality.** AICoFE uses three independently fine-tuned LLMs (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse feedback perspectives from the same input data — [[quantitative-research|quantitative]] rubric scores, validated [[qualitative-research|qualitative]] observations, rubric level descriptions, and instructional materials. Each model produces independent drafts that the teacher can inspect and curate.
+1. **Multi-LLM diversity improves [[ai-feedback-quality|feedback quality]].** AICoFE uses three independently fine-tuned LLMs (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse feedback perspectives from the same input data — [[quantitative-research|quantitative]] rubric scores, validated [[qualitative-research|qualitative]] observations, rubric level descriptions, and instructional materials. Each model produces independent drafts that the teacher can inspect and curate.
 2. **Teacher mediation is central, not an afterthought.** Rather than automating feedback end-to-end, the system positions educators as active curators. The teacher dashboard enables instructors to compose final feedback by **selecting individual sentences or paragraphs** from AI outputs, with a visual legend indicating the proportion of content contributed by each LLM. This preserves pedagogical judgment while reducing feedback workload.
 3. **Dual-purpose transparency supports both practice and [[research-methods-aied|research]].** The system tracks the extent of teacher modification and curation, serving simultaneously as (a) a [[reflection]] tool for individual instructors examining their curation patterns, and (b) a dataset for large-scale analysis of the teacher mediation role in AI-assisted feedback.
-4. **Role-specific dashboards close the [[feedback|feedback loop]].** The student dashboard provides access to video recordings of presentations, self-evaluation rubrics, visual comparisons of self vs. external evaluations, teacher-curated AI feedback, and the ability to rate perceived agreement and usefulness — completing a full assessment-for-learning cycle.
+4. **Role-specific dashboards close the [[feedback|feedback loop]].** The student dashboard provides access to video recordings of presentations, [[self-assessment|self-evaluation]] rubrics, visual comparisons of self vs. external evaluations, teacher-curated AI feedback, and the ability to rate perceived agreement and usefulness — completing a full assessment-for-learning cycle.
 
 ## System Architecture
 
@@ -44,7 +44,7 @@ The system treats AI as a **draft generator**, not a final deliverer — educato
 ## Limitations
 
 - The reported deployment involves approximately 80 students and 5 teachers across one undergraduate and one master's course at Universidad Autónoma de Madrid.
-- Evaluation evidence is student-perceived coherence and usefulness of the feedback plus system usability scores; effects on feedback quality, reflective learning, or presentation performance are stated as future analyses.
+- Evaluation evidence is student-perceived coherence and usefulness of the feedback plus system [[usability-research|usability]] scores; effects on feedback quality, reflective learning, or presentation performance are stated as future analyses.
 - Comparison between AI-mediated and traditional manual feedback is also deferred, so the paper cannot yet show that AICoFe improves on existing practice.
 - Presentation recording is opt-in and GDPR-compliant, so only consenting participants' data enter the pipeline.
 

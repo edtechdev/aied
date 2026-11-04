@@ -39,17 +39,17 @@ source_depth: full text
 
 Data came from an online questionnaire fielded between January 20 and February 25, 2025, distributed by snowball sampling; 291 valid responses were analyzed. The sample was 170 female (58%) and 121 male (42%) students, 221 of them aged 18-24. All items used a seven-point scale from 1 (totally disagree) to 7 (totally agree). Self-efficacy for independent learning was modeled as a second-order formative construct built from four first-order dimensions — mastery experience, vicarious experience, verbal persuasion, and emotional state — using a disjoint two-stage approach. Analysis used SmartPLS 4, with bootstrapping over 5000 subsamples.
 
-Two measurement choices shape how the results should be read. The AI-use construct captured general reliance on AI tools such as ChatGPT and adaptive learning platforms, not distinct forms of use; and internal locus of control was measured with only two items, a deliberately narrow internal-control orientation rather than the full multidimensional locus-of-control construct.
+Two measurement choices shape how the results should be read. The AI-use construct captured general reliance on AI tools such as [[generative-ai|ChatGPT]] and [[adaptive-learning|adaptive learning]] platforms, not distinct forms of use; and internal locus of control was measured with only two items, a deliberately narrow internal-control orientation rather than the full multidimensional locus-of-control construct.
 
 ## What the "confident but absent" pattern does and does not show
 
 The AI-use construct is unidimensional and mixes support-oriented items with one more substitution-oriented item ("AI tools provide me all the information I need," which loaded at 0.759 against 0.931 and 0.953 for the other two). Because of that, the authors state plainly that the results are not direct evidence that AI functions as either a complement to or a substitute for in-person learning. The paper's own explanation of a mechanism — perceived substitutability, perceived value of attending, and affective engagement — was not measured in this design and is offered as an interpretive avenue for future research.
 
-The paper is equally explicit about direction. Because the data are cross-sectional and self-reported, it cannot establish whether AI use increases absenteeism or whether students who are already disengaged rely more on AI; both are described as plausible. The association may also be confounded by unmeasured factors the authors name: illness, commuting difficulties, employment obligations, access to lecture recordings, course engagement, and perceived instructional quality.
+The paper is equally explicit about direction. Because the data are cross-sectional and [[self-report-measures|self-reported]], it cannot establish whether AI use increases absenteeism or whether students who are already disengaged rely more on AI; both are described as plausible. The association may also be confounded by unmeasured factors the authors name: illness, commuting difficulties, employment obligations, access to lecture recordings, course engagement, and perceived instructional quality.
 
 ## Gender comparisons are exploratory
 
-The multigroup analysis used the MICOM procedure and established only partial measurement invariance, which permits comparing path coefficients but not construct means and variances. At a 10% threshold four relationships differed by gender, but only the AI-use–self-efficacy path reached the 5% level (Δβ = −0.289, p = 0.013; a permutation test gave p = 0.026). The remaining differences — including internal locus of control, peer influence, and time management — are described as preliminary patterns rather than confirmed subgroup effects.
+The multigroup analysis used the MICOM procedure and established only partial measurement invariance, which permits comparing path coefficients but not construct means and variances. At a 10% threshold four relationships differed by gender, but only the AI-use–self-efficacy path reached the 5% level (Δβ = −0.289, p = 0.013; a permutation test gave p = 0.026). The remaining differences — including internal locus of control, peer influence, and time management — are described as preliminary patterns rather than confirmed [[differential-effects-across-learner-groups|subgroup effects]].
 
 ## What this means for practice
 
@@ -62,7 +62,7 @@ The multigroup analysis used the MICOM procedure and established only partial me
 ## Limitations
 
 - The data are cross-sectional and self-reported, so no causal or directional claim holds; the authors note the association could run either way and call for longitudinal or time-lagged designs and objective attendance or usage records.
-- The sample is 291 university students in Portugal only, so differences in digital infrastructure, academic culture, and institutional policy limit generalization to other contexts.
+- The sample is 291 university students in Portugal only, so differences in digital infrastructure, academic culture, and [[educational-policy-ai|institutional policy]] limit generalization to other contexts.
 - Internal locus of control was measured with two items, a narrow internal-control orientation that does not capture the full multidimensional locus-of-control construct.
 - The AI-use construct measures general perceived reliance and mixes one substitution-oriented item with two support-oriented items, so the study cannot distinguish complementary from substitutive AI use.
 - The gender multigroup analysis rests on partial, not full, measurement invariance and modest subgroups; only one path reached the 5% threshold and the rest are exploratory.

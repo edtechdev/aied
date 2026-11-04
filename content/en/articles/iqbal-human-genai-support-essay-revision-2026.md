@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** A laboratory study at a research-oriented university between July and September 2023 examined how 87 EFL students chose [[self-regulated-learning|self-regulated learning]] strategies during an essay revision task, and whether those choices tracked learning conditions or essay performance. Participants wrote an essay unaided, then were randomly assigned to revise it with ChatGPT 4.0, an experienced academic writing instructor, or no support. Mixture Markov Models combined with Expectation-Maximization clustering produced four revision strategies from trace data. Prior strategy use (Cramér's V = 0.333) and the available support (Cramér's V = 0.668) were associated with strategy choice, whereas [[motivation]], writing skills and metacognitive judgment accuracy were not, except in the no-support condition. No revision strategy was associated with essay score change, yet students with [[generative-ai|GenAI]] support improved their scores significantly more than the other two groups. The authors read the pattern as evidence that external support can bypass a learner's own [[metacognition|metacognitive]] judgment.
+> **Synthesis:** A laboratory study at a research-oriented university between July and September 2023 examined how 87 EFL students chose [[self-regulated-learning|self-regulated learning]] strategies during an essay revision task, and whether those choices tracked learning conditions or essay performance. Participants wrote an essay unaided, then were randomly assigned to revise it with ChatGPT 4.0, an experienced [[writing-education|academic writing]] instructor, or no support. Mixture Markov Models combined with Expectation-Maximization clustering produced four revision strategies from trace data. Prior strategy use (Cramér's V = 0.333) and the available support (Cramér's V = 0.668) were associated with strategy choice, whereas [[motivation]], writing skills and metacognitive judgment accuracy were not, except in the no-support condition. No revision strategy was associated with essay score change, yet students with [[generative-ai|GenAI]] support improved their scores significantly more than the other two groups. The authors read the pattern as evidence that external support can bypass a learner's own [[metacognition|metacognitive]] judgment.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## Study design and the four revision strategies
 
-The study used a two-stage design with 87 non-native English speakers (first language Mandarin). Stage 1 was a 2-hour essay-writing task completed by everyone in the same environment with reading materials and a dictionary, without support. After a 10-minute break, participants watched a condition-specific tutorial and revised for 1 hour. The [[generative-ai|GenAI]] condition used ChatGPT 4.0 through the OpenAI API inside the platform, restricted to task topics and framed as a chat offering advice rather than generated text. The human-expert condition gave real-time guidance from an experienced academic writing instructor. Clickstreams, keystrokes and mouse movements were mapped to SRL processes (reading, re-reading, elaboration, monitoring, evaluation, [[help-seeking]]) and analyzed with [[learning-analytics]] methods. Randomization held (prior knowledge p = 0.827, [[motivation|learning motivation]] p = 0.321, CET-4 p = 0.628, CET-6 p = 0.514).
+The study used a two-stage design with 87 non-native English speakers (first language Mandarin). Stage 1 was a 2-hour essay-writing task completed by everyone in the same environment with reading materials and a dictionary, without support. After a 10-minute break, participants watched a condition-specific tutorial and revised for 1 hour. The [[generative-ai|GenAI]] condition used ChatGPT 4.0 through the OpenAI API inside the platform, restricted to task topics and framed as a chat offering advice rather than generated text. The human-expert condition gave real-time guidance from an experienced academic writing instructor. Clickstreams, keystrokes and mouse movements were mapped to SRL processes (reading, re-reading, elaboration, monitoring, evaluation, [[help-seeking]]) and analyzed with [[learning-analytics]] methods. Randomization held ([[prior-knowledge|prior knowledge]] p = 0.827, [[motivation|learning motivation]] p = 0.321, CET-4 p = 0.628, CET-6 p = 0.514).
 
 ## What shaped strategy choice
 
@@ -50,7 +50,7 @@ Revision strategies were not associated with learning performance: neither score
 
 ## What this means for practice
 
-- Target revision scaffolds using the strategy a student adopted during the writing task, the strongest internal predictor of revision choice.
+- Target revision [[scaffolding|scaffolds]] using the strategy a student adopted during the writing task, the strongest internal predictor of revision choice.
 - Leave room for self-evaluation: metacognitive judgment accuracy was linked to strategy choice only when no external support was available.
 - Instruct GenAI to prompt reflection on writing and revision strategies instead of supplying direct help, to counter over-reliance.
 - Treat GenAI score gains as provisional: revision strategies were unrelated to performance, so higher scores did not come from better self-regulation.
@@ -58,7 +58,7 @@ Revision strategies were not associated with learning performance: neither score
 ## Limitations
 
 - Students received no feedback on their essays or strategies before revising, which may have silenced the internal conditions and let external support dominate.
-- Metacognitive judgment accuracy was operationalized as the self-assessment versus expert score gap, a narrow measure of the construct.
+- Metacognitive judgment accuracy was operationalized as the [[self-assessment]] versus expert score gap, a narrow measure of the construct.
 - The laboratory setting and a single 1-hour revision session leave the persistence of strategy adaptation unknown.
 - Support dosage was unmatched, since ChatGPT gave longer responses than the human expert, and the fragmented-processes group held only 5 students; sensitivity analyses excluding it confirmed the main findings.
 

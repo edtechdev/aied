@@ -19,7 +19,7 @@ page_kind: [evaluation]
 ## Key Findings
 
 - Among students with lower baseline self-efficacy, greater favorability toward the tutor was associated with greater learning gains during tutor practice, whereas the pattern differed in paper-based practice.
-- Intelligent Tutoring System (ITS)-based practice did not significantly improve post-training self-efficacy relative to paper-based methods.
+- [[intelligent-tutoring|Intelligent Tutoring System]] (ITS)-based practice did not significantly improve [[llm-training-and-fine-tuning|post-training]] self-efficacy relative to paper-based methods.
 - The benefits of tutor- and paper-based practice varied with baseline self-efficacy and favorability, so no single format dominated for all learners.
 - The findings underscore the potential value of tailoring practice format to students' [[motivation|motivational]] profiles.
 
@@ -39,7 +39,7 @@ The study examined how self-efficacy and favorability toward practice shape lear
 - Missing performance and survey data left 54 of the 97 participants (55.67%) in the final analytic sample, a loss the authors say limited statistical power and may have made subtler effects and interactions harder to detect.
 - Favorability was measured after the posttest; the authors note that collecting it earlier, ideally before the pretest, would be more informative, though their mediation analysis found no significant link between learning gains and favorability.
 - The study spanned five days with two approximately 40-minute practice sessions per student, which the authors say limited their ability to observe meaningful change in self-efficacy, a relatively stable construct.
-- The sample came from seven ninth-grade mathematics classes at a single suburban middle school and from one intelligent tutoring system covering linear algebra topics; the authors could not rule out carryover effects between the two practice units, and generalization to other subjects or ITS designs remains untested.
+- The sample came from seven ninth-grade mathematics classes at a single suburban [[k-12|middle school]] and from one intelligent tutoring system covering linear algebra topics; the authors could not rule out carryover effects between the two practice units, and generalization to other subjects or ITS designs remains untested.
 
 ## Citation
 

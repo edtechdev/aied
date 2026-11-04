@@ -29,7 +29,7 @@ institutions: [regulation]
 - Echoes Fan et al.'s (2025) *metacognitive laziness*: ChatGPT may boost short-term task performance while impeding [[self-regulated-learning|self-regulation]] and [[transfer-of-learning|knowledge transfer]]. Most revisions targeted **local** aspects of L2 writing (grammar, vocabulary, sentence structure), which may not transfer to future writing tasks.
 
 ### Affective engagement — calm, but selectively trusting
-- Majority (n = 13) described interactions as calm, relaxed, stress-free — minimal emotional resistance (unlike typical teacher-feedback contexts).
+- Majority (n = 13) described interactions as calm, relaxed, stress-free — minimal emotional resistance (unlike typical [[teacher-role|teacher]]-feedback contexts).
 - **Trust split:** trusted ChatGPT on **language forms** (n = 11) but doubted its **examples/evidence** (n = 12); some doubted its legitimacy as an IELTS examiner.
 - Negative affect arose when ChatGPT misunderstood prompts or repeated similar suggestions.
 
@@ -41,7 +41,7 @@ institutions: [regulation]
 ## Five capacities for student feedback literacy in a GenAI context
 
 1. **[[prompt-engineering|Prompt engineering]]** — the quality of GenAI feedback is largely determined by prompt clarity (e.g. the CLEAR framework; Lo 2023).
-2. **Evaluative judgment** — discerning useful feedback from plausible-but-unreliable output.
+2. **[[evaluative-judgment|Evaluative judgment]]** — discerning useful feedback from plausible-but-unreliable output.
 3. **Emotional reflexivity** — balancing trust and doubt by understanding GenAI's capabilities and limits (Bearman & Ajjawi 2023).
 4. **[[ethics|Ethical]] decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic ([[academic-integrity|academic integrity]]).
 5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.
@@ -58,7 +58,7 @@ institutions: [regulation]
 
 - Sixteen undergraduates were recruited by convenience sampling from a single elective course at one Hong Kong teacher-education university, all using ChatGPT 3.5, so the four-dimensional model rests on one small, self-selected group.
 - Each participant wrote one IELTS Writing Task 2 and revised it in a single sitting of 23 minutes to 1 hour 17 minutes; the study measures no later writing performance, so transfer claims are inferred rather than tested.
-- No control or comparison condition with human feedback was used, and the trust, affect, and metacognition findings come from stimulated-recall interviews held a day after the task — self-report about one's own thinking, not directly observed mental process.
+- No control or comparison condition with human feedback was used, and the trust, affect, and metacognition findings come from stimulated-recall interviews held a day after the task — [[self-report-measures|self-report]] about one's own thinking, not directly observed mental process.
 - None of the 16 participants had previously taken the IELTS test, so the revision behavior observed may not represent more experienced or higher-proficiency writers.
 
 ## Citation

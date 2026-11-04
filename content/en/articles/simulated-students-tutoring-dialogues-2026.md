@@ -53,16 +53,16 @@ Training separate models on single-metric rewards showed that optimizing one asp
 
 ## What this means for practice
 
-- **Researchers.** Measure the simulator before trusting it. The paper supplies a task definition, seven metrics, and released code and annotations ([[benchmark]]), so a claim that a simulated student is realistic can now be tested rather than asserted.
+- **Researchers.** Measure the [[simulation|simulator]] before trusting it. The paper supplies a task definition, seven metrics, and released code and annotations ([[benchmark]]), so a claim that a simulated student is realistic can now be tested rather than asserted.
 - **[[educational-technology-developers|Educational technology developers]].** Do not assume a prompted [[llm]] is a usable student proxy. Prompting underperformed substantially, and even an oracle prompt with leaked error information failed to beat small fine-tuned models on most metrics.
-- **Instructors and faculty developers.** Treat simulation as a way to pre-test tutor behavior under low stakes, not as evidence that a tutor works. The authors' own ethics section recommends A/B testing with real students before deployment and evaluating any simulator across demographic groups first ([[bias-mitigation]], [[differential-effects-across-learner-groups]]).
+- **Instructors and faculty developers.** Treat simulation as a way to pre-test tutor behavior under low stakes, not as evidence that a tutor works. The authors' own [[ethics]] section recommends A/B testing with real students before deployment and evaluating any simulator across demographic groups first ([[bias-mitigation]], [[differential-effects-across-learner-groups]]).
 - **Researchers planning to use simulated students.** Expect the ceiling to be low for now. Fine-tuning and [[reinforcement-learning|RL]] both outperform prompting, but the best method tested still misses the errors students actually make, which is precisely the behavior a tutor must learn to handle.
 
 ## Limitations
 
 - **One dataset, one domain.** All experiments use a single math dialogue corpus, so generalization to other subjects or dialogue settings is untested.
 - **The metrics cover less than they appear to.** Every metric is reference-based, so it needs a ground-truth student turn and cannot evaluate simulation where no real dialogues exist; affect and emotional state are not measured at all; and two metrics, knowledge acquisition and inducing tutor responses, were excluded from the human study as too subjective, leaving them without agreement evidence.
-- **Proprietary models sit in the measurement loop.** The annotations and the correctness and errors metrics rely on proprietary [[llm|LLMs]]; smaller open-source models proved significantly less reliable in preliminary experiments.
+- **Proprietary models sit in the measurement loop.** The annotations and the correctness and errors metrics rely on proprietary [[llm|LLMs]]; smaller [[open-source]] models proved significantly less reliable in preliminary experiments.
 - **The RL result is not explained.** That preference optimization beats supervised fine-tuning only slightly is attributed to task difficulty, but the authors state that verifying this needs more advanced RL methods ([[limitations-in-aied-research]]).
 
 ## Citation

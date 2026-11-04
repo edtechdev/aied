@@ -46,7 +46,7 @@ That is reallocation rather than reduction: what you gain from [[generative-ai|g
 
 Quality is uneven in a pattern stable enough to plan around. Blind reviewers preferred AI versions of lesson conclusions and exit tickets 59.7% of the time over materials designed by professionals, and preferred AI material for high school content 59.2% of the time. The saving also grows where your confidence is lowest: teaching outside your own subject is the case with the widest gap between what the tool hands you and what you would have written alone.
 
-Two categories run the other way. On elementary-level material, humans were preferred about 65% of the time for developmental appropriateness. Targeted [[scaffolding|scaffolds]] for [[multilingual-learning|multilingual]] learners and students in [[special-education]] came back neutral rather than wrong, which is worse than it sounds, since a neutral scaffold is one you rebuild from the start.
+Two categories run the other way. On elementary-level material, humans were preferred about 65% of the time for developmental appropriateness. Targeted [[scaffolding|scaffolds]] for [[multilingual-learning|multilingual]] [[learners|learners and students]] in [[special-education]] came back neutral rather than wrong, which is worse than it sounds, since a neutral scaffold is one you rebuild from the start.
 
 The test that predicts this before you spend an evening on it: can you state the specification precisely enough to check the output? An exit ticket on one objective, yes. Whether a paragraph suits a particular nine-year-old who reads two years behind her class, no.
 
@@ -76,7 +76,7 @@ You can use [[automated-essay-scoring|automated essay scoring]] if you validate 
 
 ## What instructors get wrong
 
-**"The 31% is my number."** It is 259 K-12 [[science-education|science]] teachers on lesson preparation. The direction travels; the size does not. A seminar built on discussion may save less, and a lab course with safety constraints may save nothing on the part you most wanted help with.
+**"The 31% is my number."** It is 259 [[k-12]] [[science-education|science]] teachers on lesson preparation. The direction travels; the size does not. A seminar built on discussion may save less, and a lab course with safety constraints may save nothing on the part you most wanted help with.
 
 **"Saving time is the goal."** The Brazil experiment is the counterexample. Hours came free and the bottom quartile gained nothing. The goal is what the hours buy.
 

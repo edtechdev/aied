@@ -14,7 +14,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']
 confidence: high
 ---
 
-> **Synthesis:** Wu et al. (2026) examined how learning motivation, self-efficacy, anxiety, and risk perception relate to acceptance of AI-assisted English language learning in a Chinese higher-education context, building on the [[technology-acceptance-model|Technology Acceptance Model]] (TAM). Drawing on survey data from 210 undergraduates ([[stem-education|STEM]] = 91, [[humanities-education|Humanities]] = 119; English proficiency Low = 77, Intermediate = 103, High = 30), they found that learning motivation and self-efficacy were consistently and positively associated with acceptance-related indicators (perceived usefulness, perceived ease of use, behavioral intention, and satisfaction), while anxiety and risk perception showed more nuanced, generally weaker patterns that must be interpreted cautiously. The study provides a learner-centered account emphasizing psychological correlates and descriptive group-level differences rather than causal claims.
+> **Synthesis:** Wu et al. (2026) examined how learning motivation, [[self-efficacy]], [[anxiety-and-stress|anxiety]], and risk perception relate to acceptance of AI-assisted English [[language-learning|language learning]] in a Chinese higher-education context, building on the [[technology-acceptance-model|Technology Acceptance Model]] (TAM). Drawing on survey data from 210 undergraduates ([[stem-education|STEM]] = 91, [[humanities-education|Humanities]] = 119; English proficiency Low = 77, Intermediate = 103, High = 30), they found that learning motivation and self-efficacy were consistently and positively associated with acceptance-related indicators (perceived usefulness, perceived ease of use, behavioral intention, and satisfaction), while anxiety and risk perception showed more nuanced, generally weaker patterns that must be interpreted cautiously. The study provides a learner-centered account emphasizing psychological correlates and descriptive group-level differences rather than causal claims.
 
 ## Key Findings
 
@@ -30,10 +30,10 @@ The study surveyed 210 undergraduates from a Chinese university, with balanced d
 
 ## What this means for practice
 
-- **Instructors.** Build learner confidence and motivation alongside usability: self-efficacy (β = 0.614) and learning motivation (β = 0.625) were the strongest correlates of perceived usefulness, in models adjusted for gender, discipline, CET-4 score, and use frequency.
+- **Instructors.** Build learner confidence and motivation alongside [[usability-research|usability]]: self-efficacy (β = 0.614) and learning motivation (β = 0.625) were the strongest correlates of perceived usefulness, in models adjusted for gender, discipline, CET-4 score, and use frequency.
 - **Instructors.** Do not read anxiety or risk perception as automatic barriers: anxiety's associations with acceptance outcomes were positive but exploratory, and risk perception's were positive though weaker, so neither supports withholding the tool on affective grounds.
 - **Instructors.** Expect descriptive differences across learner groups rather than one uniform learner: mean-level acceptance outcomes varied by discipline (STEM vs. humanities) and English proficiency (low, intermediate, high), estimated in within-group regressions rather than tests of between-group differences.
-- **Designers.** Support the tasks self-efficacy depends on — interpreting automated feedback, revising language output, and pacing AI-supported practice — rather than optimizing perceived ease of use alone.
+- **Designers.** Support the tasks self-efficacy depends on — interpreting [[ai-feedback-quality|automated feedback]], revising language output, and pacing AI-supported practice — rather than optimizing perceived ease of use alone.
 - **Researchers.** Replicate before treating the subgroup patterns as guidance, because the design is cross-sectional and the authors state the associations are not causal.
 
 ## Limitations

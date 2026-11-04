@@ -32,7 +32,7 @@ source_depth: full text
 2. Simulated ideas matched lesson ideas at mean cosine similarity 0.52 (SD = 0.07), inside the 0.42–0.70 band prior work accepts; every model beat Mistral-7B (0.47), Gemini-2.5-Flash highest (0.55).
 3. Overall 69% of ideas sat at or below the target grade's reading level; Llama-4 best (over 80%), GPT-5-mini worst, exceeding it 0.41 more often (OR = 153, 95% CI [21.2, 1103], p < .001).
 4. Overall 91% of ideas stayed within expected knowledge scope, GPT-4o and Llama-4 strongest; GPT-5-mini exceeded grade-level boundaries 0.27 more often than either (Δ proportion = −0.27).
-5. Grade level, not subject, drove most gaps: elementary and middle school ideas matched lesson ideas more closely than high school ideas (β = 0.05, p = .01 both), though within-scope proportions were lower for middle school (OR = 0.14) and elementary (OR = 0.07).
+5. Grade level, not subject, drove most gaps: elementary and [[k-12|middle school]] ideas matched lesson ideas more closely than high school ideas (β = 0.05, p = .01 both), though within-scope proportions were lower for middle school (OR = 0.14) and elementary (OR = 0.07).
 6. Divergence coding found 60.54% of ideas reasoned broadly from lesson contexts, 35.71% used more technical vocabulary, 14.63% carried fewer uncertainty markers, 7.48% used analogies.
 7. Six teachers found the ideas realistic and aligned with lesson objectives, most useful when they sparked sensemaking, but flagged advanced vocabulary and leading prompts.
 
@@ -47,17 +47,17 @@ Language level was weakest: 69% fell at or below target grade (χ²(5) = 57.44, 
 Knowledge scope was strongest, with GPT-4o and Llama-4 best; GPT-5-mini exceeded scope 0.27 more often than either and 0.22 more than Gemini-2.5-Flash. Domain did not matter (χ² = 0.06, p = .97), grade did (χ² = 17.18, p < .001): against high school, within-scope proportions fell 0.09 for middle school (OR = 0.14, 95% CI [0.03, 0.68], p = .02) and 0.16 for elementary (OR = 0.07, 95% CI [0.02, 0.33], p < .001); only GPT-5-mini showed a within-model grade effect (χ² = 9.18, p = .01). Models could not represent younger students' reasoning: a fourth-grade lesson drew "atoms move but we couldn't see shape change."
 
 ## Where simulated ideas diverged from classroom ideas
-Ideas overlapped lesson concepts but reasoned less specifically from lesson contexts, evidence, and mechanisms (60.54%, by model 51.02–75.51%). Misconception substance diverged in 17.69% of ideas, technical vocabulary in 35.71%, uncertainty markers fewer than in lesson ideas (14.63%; Llama-4 24.49%, Claude 4 22.45%), analogies more common (7.48%). Table 2 reports n = 294, 49 per model.
+Ideas overlapped lesson concepts but reasoned less specifically from lesson contexts, evidence, and mechanisms (60.54%, by model 51.02–75.51%). [[misconceptions|Misconception]] substance diverged in 17.69% of ideas, technical vocabulary in 35.71%, uncertainty markers fewer than in lesson ideas (14.63%; Llama-4 24.49%, Claude 4 22.45%), analogies more common (7.48%). Table 2 reports n = 294, 49 per model.
 
 ## What teachers saw in the simulated ideas
 Teachers judged outputs on authenticity and usefulness: realistic, aligned with lesson objectives, most useful when they prompted sensemaking; they valued [[scaffolding|instructional scaffolds]] for surfacing unexpected [[prior-knowledge|student ideas]]. Two found vocabulary too advanced, Sam and Alyssa found prompts overly leading, and Jan asked for "how/why, not yes/no questions."
 
 ## What this means for practice
 - **Instructors.** Treat simulated ideas as a rehearsal aid, not a script; correct vocabulary and certainty before use.
-- **Curriculum and instructional designers.** Validate lower-grade output against NGSS grade-band expectations: readability and scope slipped for elementary and middle school.
+- **[[curriculum-design|Curriculum]] and instructional designers.** Validate lower-grade output against NGSS grade-band expectations: readability and scope slipped for elementary and middle school.
 - **Model selection is not one-dimensional.** [[llm|Models]] strong on similarity can still overshoot grade level; Llama-4, Gemini-2.5-Flash, and GPT-4o were most balanced, GPT-5-mini weak on level and scope.
-- **Teacher educators.** Pair deployment with professional development on [[human-in-the-loop-ai|refining]] [[generative-ai|AI-generated]] ideas through iterative re-prompting.
-- **Administrators.** Set data-privacy rules for student information fed to [[llm|LLMs]]; over-reliance on inaccurate simulations can narrow responsiveness.
+- **Teacher educators.** Pair deployment with [[educational-development|professional development]] on [[human-in-the-loop-ai|refining]] [[generative-ai|AI-generated]] ideas through iterative re-prompting.
+- **Administrators.** Set data-privacy rules for student information fed to [[llm|LLMs]]; over-reliance on inaccurate [[simulation|simulations]] can narrow responsiveness.
 
 ## Limitations
 - Simulated ideas were never tested in real classrooms, so instructional impact is unmeasured.

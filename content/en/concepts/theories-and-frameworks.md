@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-25T18:35:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -31,7 +31,7 @@ Every AI tutor, feedback system, and dashboard embeds assumptions about how peop
 These explain mechanisms: they name the parts that do the work and predict what follows when those parts change. In the AI literature they are mostly borrowed from psychology and the [[learning-sciences|learning sciences]], and used as interpretive frames around a new tool.
 
 - **[[learning-theories|Learning theories (umbrella)]]** — the family as a whole, including the classical poles of [[behaviorism]] and [[constructivist|constructivism]] and the "constructivism in name, behaviorism in practice" gap that recurs in AI implementations. Connectivism and cognitive load theory are covered here too.
-- **[[constructivist|Constructivism]]** — learning as active knowledge construction. It underwrites project-based work, dialogue-based AI tutoring, and the critique that drill-and-feedback systems violate their own stated pedagogy.
+- **[[constructivist|Constructivism]]** — learning as active knowledge construction. It underwrites [[project-based-learning|project-based]] work, dialogue-based [[intelligent-tutoring|AI tutoring]], and the critique that drill-and-feedback systems violate their own stated pedagogy.
 - **[[sociocultural-learning|Sociocultural theory]]** — learning as mediated by tools and social interaction, which is why AI gets theorized as a mediating artifact rather than a mere aid.
 - **[[activity-theory-aied|Activity theory]]** — takes the whole activity system, contradictions included, as the unit of analysis. Common in teacher-facing AI studies, where the interesting finding is usually the tension among tools, rules, and community.
 - **[[situated-learning|Situated learning]]** and **[[embodied-learning|Embodied learning]]** — learning as tied to context and to the body, the counterweight to treating AI as a purely linguistic medium.
@@ -39,8 +39,8 @@ These explain mechanisms: they name the parts that do the work and predict what 
 - **[[community-of-inquiry|Community of inquiry]]** — the social, cognitive, and teaching presences that make an online experience work; a theory of the experience and a design frame at once.
 - **[[self-determination-theory|Self-determination theory]]** — autonomy, competence, and relatedness as motivational preconditions. Often the explanation offered when AI use raises engagement without raising learning.
 - **[[cognitive-psychology|Cognitivism]]** — information processing, working memory, and the divergence between the feeling of learning and actual learning.
-- **Social perception theory (warmth and competence)** — imported from social cognition and service-robot research, it frames how users judge an AI agent's credibility: perceived competence predicted ChatGPT's feedback credibility directly while warmth worked only through human-like empathy (SEM, 230 students; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **A fourth affordance category was proposed, not tested.** Coding 24 studies against a three-part affordance scheme, the reviewers found engagement, safety and self-efficacy did not fit the technological, pedagogical or social categories, and proposed emotional affordances grounded in Bandura's reciprocal determinism ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+- **Social perception theory (warmth and competence)** — imported from social cognition and service-robot research, it frames how users judge an [[agentic-ai|AI agent]]'s credibility: perceived competence predicted ChatGPT's feedback credibility directly while warmth worked only through human-like empathy (SEM, 230 students; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **A fourth affordance category was proposed, not tested.** Coding 24 studies against a three-part affordance scheme, the reviewers found engagement, safety and self-efficacy did not fit the technological, [[pedagogy|pedagogical]] or social categories, and proposed emotional affordances grounded in Bandura's reciprocal determinism ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Models of the learner and of the learning process
 
@@ -56,16 +56,16 @@ These explain mechanisms: they name the parts that do the work and predict what 
 
 - **[[tpack|TPACK]]** — the teacher knowledge that blends technology, pedagogy, and content; the default framework for teacher-facing AI studies.
 - **[[technology-acceptance-model|Adoption models]]** — intention as a function of perceived usefulness and ease of use. Used widely enough that the field's reliance on intention rather than behavior is a standing critique.
-- **[[icap-framework|ICAP]]** — ranks engagement as passive, active, constructive, interactive; useful for asking what mode an AI interaction actually affords.
+- **[[icap-framework|ICAP]]** — ranks engagement as passive, active, constructive, interactive; useful for asking what mode an [[student-ai-interaction|AI interaction]] actually affords.
 - **[[samr-model|SAMR]]** — substitution through redefinition. Popular as a maturity story, weak as a measurement instrument.
-- **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and equity work.
+- **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and [[equity-in-ai-education|equity]] work.
 - **[[learning-design|Learning design]]**, **[[curriculum-design|Curriculum design]]**, and **[[design-thinking|Design thinking]]** — how tasks, sequences, and programs are structured before any tool is chosen.
 - **[[change-management|Change management]]** — whether a system is taken up at all, which is usually an institutional question rather than a pedagogical one.
 
 ## Measurement and computational models
 
 - **[[item-response-theory|Item response theory]]** — item and ability estimation, and the model that makes a test's numbers interpretable.
-- **[[educational-measurement|Educational measurement]]** — the instrument landscape, including the measures built specifically for AI literacy.
+- **[[educational-measurement|Educational measurement]]** — the instrument landscape, including the measures built specifically for [[ai-literacy|AI literacy]].
 - **[[assessment-validity|Validity]]** — whether an instrument measures the construct it claims, which decides whether a reported outcome supports the theoretical claim attached to it.
 - **[[self-report-measures|Self-report measures]]** — the dominant and most fragile source of evidence in this literature; several constructs above are known to diverge sharply between self-report and performance.
 - **[[knowledge-tracing|Knowledge tracing]]** and **[[student-modeling|Student modeling]]** — estimating a learner's state over time from interaction data.
@@ -77,7 +77,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 
 Four proposals in the knowledge base build theory rather than borrow it. They are article pages rather than concept nodes, because each one is a single argument:
 
-- **[[generativism-learning-theory|Generativism]]** — a new learning theory arguing that the classical four show significant conceptual limitations as generative AI proliferates.
+- **[[generativism-learning-theory|Generativism]]** — a new learning theory arguing that the classical four show significant conceptual limitations as [[generative-ai|generative AI]] proliferates.
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemic co-agency]]** — a model of how learners and AI systems jointly produce knowledge and understanding.
 - **[[absent-cognitive-baseline-2026|The absent cognitive baseline]]** — theorizes why AI-native students overestimate their own learning when AI inflates performance.
 - **[[yan-agentivism-learning-theory-ai-2026|Agentivism]]** — a mid-range theory naming four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support) and stating six testable propositions.
@@ -93,7 +93,7 @@ The words are used loosely in the literature, and the difference is worth one pa
 
 ## Related layers
 
-Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much AIED work applies existing theory rather than testing it. This page is the inventory; theory development is about producing and revising the inventory.
+Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much [[ai-education|AIED]] work applies existing theory rather than testing it. This page is the inventory; theory development is about producing and revising the inventory.
 
 ## Choosing a lens when the question is practical
 
@@ -107,7 +107,7 @@ Two neighbouring pages are deliberately about something else. [[philosophy-of-ai
 Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and localized by whoever applies them, they can function as branding, and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims resting on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
 
 
-Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis of 55 AI-supported game-based learning studies found effectiveness turned on whether the AI mechanism enacted the pedagogy it was meant to serve rather than on algorithmic sophistication ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
+Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis of 55 AI-supported [[game-based-learning|game-based learning]] studies found effectiveness turned on whether the AI mechanism enacted the pedagogy it was meant to serve rather than on algorithmic sophistication ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
 ## Common Misconceptions
 

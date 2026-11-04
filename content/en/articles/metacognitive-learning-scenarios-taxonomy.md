@@ -13,7 +13,7 @@ level: [adult learning]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
+> **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major [[theories-and-frameworks|theoretical frameworks]] into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
 
 ## Systems Model & Scenario Generation
 The six-node open systems model (Environment, Input, Processes, Structures, Output, Feedback) was used for combinatorial enumeration, generating 216 mathematically possible learning scenarios. Four sequential constraint-based filters — psychological plausibility, educational relevance, measurement feasibility, and intervention potential — reduced this to **24 priority scenarios**.
@@ -31,7 +31,7 @@ The taxonomy enables targeted, scenario-specific professional development interv
 
 ## What this means for practice
 - **Designers.** Place a learner in one of the three developmental tiers (novice, 6 scenarios; developing, 10; expert/adaptive, 8) and select the intervention for that tier instead of one generic metacognitive prompt.
-- **Designers.** Track the directionality of monitoring and control in the learner model, since unidirectional processing (Processes→Structures or Structures→Processes) defines the novice tier while bidirectional integration marks the transition to developing.
+- **Designers.** Track the directionality of monitoring and control in the [[student-modeling|learner model]], since unidirectional processing (Processes→Structures or Structures→Processes) defines the novice tier while bidirectional integration marks the transition to developing.
 - **Instructors.** Build professional-development activities that deliberately add external links, such as an output-to-input self-monitoring loop, so learners move from relying on performance feedback to monitoring their own work.
 - **Researchers.** Turn the 24 priority scenarios into testable predictions and check them against validated workplace learning instruments, which the taxonomy is explicitly constrained to be measurable by.
 
@@ -39,7 +39,7 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - The taxonomy is derived analytically: a six-node open systems model yields 216 mathematically possible scenarios, which four constraint filters reduce to 24 priority scenarios, with no learner data collected or analyzed.
 - The scenario notation is ordinal. The authors note that in the fully integrated P⇄S arrangement both nodes influence each other over time, so directionality and precedence cannot be separated, which they state limits what causal modeling the representation supports.
 - Priority status rests on published meta-analyses of effective metacognitive interventions and on the capabilities of existing workplace instruments rather than on measurements the authors took, so the taxonomy generates predictions it does not test.
-- Scope is confined to professional learning contexts in adult learners; the implications for lifelong learning trajectories are acknowledged rather than established, and no professional-development intervention was implemented to validate the tier progression.
+- Scope is confined to professional learning contexts in [[adult-learning|adult learners]]; the implications for lifelong learning trajectories are acknowledged rather than established, and no professional-development intervention was implemented to validate the tier progression.
 
 ## Citation
 

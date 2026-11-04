@@ -37,7 +37,7 @@ confidence: high
 
 ## Why psychological and cognitive readiness diverge
 
-- Psychological readiness is **more immediately responsive** to structured instruction (self-report of confidence, motivation, ethical orientation)
+- Psychological readiness is **more immediately responsive** to structured instruction ([[self-report-measures|self-report]] of confidence, motivation, ethical orientation)
 - Objective AI literacy requires **cumulative exposure and sustained self-initiated exploration** — perceived gains do not automatically translate into objective understanding
 - The authors argue school AI education works **synergistically** with prior agency-related learning rather than replacing it: curricula provide access/guidance, while self-initiated [[student-engagement|engagement]] helps learners interpret and extend those affordances
 

@@ -28,7 +28,7 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 1. **AI reliably automates technically grounded dimensions.** Human-validated success rates are high where correctness maps to computational verification and explicit criteria: concept alignment 98.6%, question [[stem-education|stem]] clarity 97.9%, code validity 95.5%, correct answer validity 92.0%, and correct-answer feedback 92.4%.
 2. **Human expertise remains essential for pedagogical judgment.** Distractor quality (79.9% success, 15.6% failure) and distractor [[ai-feedback-quality|feedback quality]] (86.1%) are the weakest dimensions, because assessing whether distractors target common [[misconceptions]] and whether feedback elaborates underlying concepts requires instructional judgment, not just computational correctness.
 3. **Tool augmentation works.** An Arithmetic Expression Evaluator and a Sandboxed Python Runner substantially enhance both generation quality and validation reliability for computationally grounded dimensions.
-4. **Automated evaluators must be validated, not assumed.** [[llm]]-based critique agents exhibit hallucination, bias, and inconsistent judgment; CODE-GEN explicitly compares the Validator against human SMEs, showing that without such validation, errors at the evaluation stage risk being amplified rather than corrected.
+4. **Automated evaluators must be validated, not assumed.** [[llm]]-based critique agents exhibit [[hallucination-risk|hallucination]], bias, and inconsistent judgment; CODE-GEN explicitly compares the Validator against human SMEs, showing that without such validation, errors at the evaluation stage risk being amplified rather than corrected.
 5. **Systematic failure patterns.** False positives (approving syntactically valid but instructionally shallow distractors and surface-mechanics feedback) and false negatives (misinterpreting answer schemas, confusing answer value with option position) reveal where the Validator's judgment breaks down.
 6. **SME–Validator agreement is consistent.** Agreement rates across all dimensions range 82.5%–98.4%, with five of seven dimensions showing standard deviations ≤3.8%, indicating SMEs applied comparable standards despite reviewing different question sets.
 
@@ -87,7 +87,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 
 ## Limitations
 
-- Six SMEs (three men, three women) rated 288 generated questions, yielding 2,016 human–AI rating pairs; the rater pool is small and all of them taught introductory programming.
+- Six SMEs (three men, three women) rated 288 generated questions, yielding 2,016 human–AI rating pairs; the rater pool is small and all of them taught [[cs-education|introductory programming]].
 - The study is confined to introductory Python: the authors note the architecture is not domain-specific, but no other subject area was tested.
 - Items were rated by experts rather than deployed in a course, so effects on student learning or [[assessment-validity|assessment validity]] in authentic settings are unmeasured.
 - The Generator (GPT-4.1) and Validator (GPT-5-mini) are specific commercial models, so dimension-level success rates may not transfer to other backbones.

@@ -61,7 +61,7 @@ Averages conceal exactly the variation that decides an equity question. Effects 
 
 ### "They reported that they learned a lot."
 
-Self-report measures perception, acceptance, anxiety, and [[self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. The wiki's synthesis of teacher AI-literacy research reports a substantial gap between self-assessment and measured performance, and the instructors in it overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
+[[self-report-measures|Self-report measures]] perception, acceptance, [[anxiety-and-stress|anxiety]], and [[self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. The wiki's synthesis of teacher AI-literacy research reports a substantial gap between [[self-assessment]] and measured performance, and the instructors in it overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
 
 ### "A simulated student is a cheap stand-in for a real one."
 
@@ -179,7 +179,7 @@ Oversight depends on the expertise that heavy automation discourages people from
 
 ### "Teaching critical and ethical AI use costs productivity."
 
-Unverified automation produces rework, security incidents, discriminatory decisions, legal exposure, reputational damage, and false confidence, and every one of those is a cost the productivity figure did not count. The employee worth hiring is the one who allocates work between people and tools while holding quality, confidentiality, accountability, and professional judgment. That is a productivity argument, made in the direction the balance sheet usually misses ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
+Unverified automation produces rework, security incidents, discriminatory decisions, [[legal-issues-and-risks|legal exposure]], reputational damage, and false confidence, and every one of those is a cost the productivity figure did not count. The employee worth hiring is the one who allocates work between people and tools while holding quality, confidentiality, accountability, and professional judgment. That is a productivity argument, made in the direction the balance sheet usually misses ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
 
 ## Answer what students believe
 
@@ -243,7 +243,7 @@ Policy text does not create shared understanding. Students and staff read expect
 
 ### "Faculty reluctance is a training gap."
 
-Sometimes it is. Readiness is also workload, [[learner-identity|professional identity]], disciplinary values, doubts about assessment validity, thin institutional support, privacy uncertainty, and a reasoned judgment that a particular application does not serve students. Development therefore has to cover practical competence, pedagogical integration, purpose and identity, time, policy, [[discipline-specific-aied|discipline-specific]] use, and the option of principled non-adoption. A one-time feature demonstration does not resolve a professional and organizational change ([[educational-development|Educational Development]]).
+Sometimes it is. Readiness is also workload, [[learner-identity|professional identity]], disciplinary values, doubts about assessment validity, thin institutional support, privacy uncertainty, and a reasoned judgment that a particular application does not serve students. Development therefore has to cover practical competence, pedagogical integration, purpose and identity, time, policy, [[discipline-specific-aied|discipline-specific]] use, and the option of principled non-adoption. A one-time feature demonstration does not resolve a professional and [[change-management|organizational change]] ([[educational-development|Educational Development]]).
 
 ### "Telling people the correct facts is enough."
 
@@ -262,7 +262,7 @@ The worked version, which you can adapt to any item on this page:
 > **Misconception:** "A good AI-generated assignment shows that the student learned."
 > **Refutation:** "That is not necessarily true. The product shows what the student and AI produced together, but it does not reveal which reasoning the student performed."
 > **Replacement:** "Learning is better demonstrated when the student can explain, transfer, adapt, and reproduce the capability."
-> **Application:** "Follow AI-assisted work with an explanation, oral defense, process record, or unaided application."
+> **Application:** "Follow AI-assisted work with an explanation, [[oral-assessment|oral defense]], process record, or unaided application."
 
 The replacement carries the weight. Removing a misconception without supplying a better explanation leaves the person with nothing to think with, and the old belief returns the next time the experience confirms it.
 
@@ -288,7 +288,7 @@ Teachers substantially overestimated their AI competence when self-report met pe
 
 ### "Parents will accept nothing but a ban."
 
-Parents are asking whether the thing in front of their child is safe and whether the credential means anything. Answer those two directly, with the pedagogical safety questions rather than the content filter, and the ban argument loses its force. The board question is narrower than the headline and easier to defend.
+[[parents-and-families|Parents]] are asking whether the thing in front of their child is safe and whether the credential means anything. Answer those two directly, with the pedagogical safety questions rather than the content filter, and the ban argument loses its force. The board question is narrower than the headline and easier to defend.
 
 ### "We cannot run oral defenses for a lecture course this size."
 

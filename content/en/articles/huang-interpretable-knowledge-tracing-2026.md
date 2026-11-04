@@ -13,7 +13,7 @@ page_kind: [framework, evaluation]
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
+> **Synthesis:** **Interpretable [[knowledge-tracing|Knowledge Tracing]]** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
 
 **Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan** (UMass Amherst) — arXiv:2605.01097, May 2026.
 
@@ -36,16 +36,16 @@ The key insight is that both student knowledge and task difficulty are explicitl
 ## What this means for practice
 
 - **Instructors.** Read the two reported quantities rather than the bare prediction: student ability θ = z^GOOD − z^BAD and tutor-turn difficulty d = z^HARD − z^EASY are exposed at every dialogue turn, so a low θ is not mistaken for weak knowledge when the tutor has simply asked a harder question.
-- **Instructors.** Use the difficulty estimate to choose the next move: because d is estimated independently of student ability, scaffolding can be raised or lowered on evidence rather than on how the last answer felt.
-- **Designers.** Build threshold alerts on θ and longitudinal θ trajectories into [[intelligent-tutoring]] dashboards and use d to author tutor turns, since a human tutor can inspect both quantities at any turn and act on them.
+- **Instructors.** Use the difficulty estimate to choose the next move: because d is estimated independently of student ability, [[scaffolding]] can be raised or lowered on evidence rather than on how the last answer felt.
+- **Designers.** Build threshold alerts on θ and longitudinal θ trajectories into [[intelligent-tutoring]] [[visualization|dashboards]] and use d to author tutor turns, since a human tutor can inspect both quantities at any turn and act on them.
 - **Designers.** Reuse the model's own next-token probabilities for cognitive signals instead of training separate classifiers, and budget compute accordingly: the framework adds only a 1PL (Rasch) predictor p(correct) = 1 / (1 + exp(−α(θ − d))) on top of Llama-3.1-8B-Instruct.
 - **Researchers.** Validate interpretability with real tutors before deployment — accuracy was established on QATD2k (64.29% accuracy, 65.25 AUC) and MathDial (68.82% accuracy, 76.59 AUC), but no study has yet asked tutors whether θ and d change their decisions, and single-ability [[student-modeling]] may not hold in multi-skill settings.
 
 ## Limitations
 
 - There are no existing difficulty-prediction baselines to compare d against, because this is the first work to explicitly estimate the difficulty of tutor turns in dialogues; the comparison is limited to five deep-learning KT baselines (DKT, DKVMN, SAINT, AKT, simpleKT) and LLMKT at the prediction level.
-- Evaluation covers math dialogues only — QATD2k (Eedi platform; 1,573 train / 393 test) and MathDial (2,235 train / 588 test) — with no investigation of other domains such as language learning or computer science.
-- MathDial's student turns come from GPT-3.5-simulated students and crowd-sourced tutors rather than real learners, and the framework was not deployed in a live tutoring setting with real tutor feedback on interpretability.
+- Evaluation covers math dialogues only — QATD2k (Eedi platform; 1,573 train / 393 test) and MathDial (2,235 train / 588 test) — with no investigation of other domains such as [[language-learning|language learning]] or [[cs-education|computer science]].
+- MathDial's student turns come from GPT-3.5-[[simulating-students|simulated students]] and crowd-sourced tutors rather than real learners, and the framework was not deployed in a live tutoring setting with real tutor feedback on interpretability.
 - LLM-based knowledge tracing is much more computationally expensive than the traditional models it slightly outperforms, and the authors note the standing bias risk that students from populations less represented in the training data may receive less accurate assessments.
 
 ## Citation

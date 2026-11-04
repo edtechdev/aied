@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same curriculum with only collective teacher feedback. The automated group improved more overall (d = 1.03), but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains (r = 0.42) while planning and emotional motivation stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with anxiety, avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
+> **Synthesis:** Chen and Liu (2026) ask what automated scoring does inside a real interpreting classroom. Over 14 weeks, 46 English Translation and Interpreting sophomores either submitted weekly renditions to the Yunyi system, which returned an immediate score, transcript, marked errors, and a reference rendition, or followed the same [[curriculum-design|curriculum]] with only collective [[teacher-role|teacher]] feedback. The automated group improved more overall (d = 1.03), but the gain stayed on the surface of language: [[automated-assessment|linguistic accuracy]] and logical coherence rose, while information fidelity and delivery fluency did not move. [[self-regulated-learning|Self-regulated learning]] was uneven in a matching way, with monitoring during practice correlating with score gains (r = 0.42) while planning and emotional motivation stayed near the scale midpoint. Interviews with seven students show learners comparing scores without analyzing causes, setting goals from the previous score, and meeting low scores with [[anxiety-and-stress|anxiety]], avoidance, or deferral. The tool reached the performance phase of the cycle, not the planning that precedes it.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ reviewed_by: [editor]
 - **Gains were confined to two of the four rubric dimensions**: linguistic accuracy rose from 21.04 to 24.25 of 25 and logical coherence from 7.00 to 9.08 of 10, while fidelity and fluency stayed flat.
 - **Automated and human ratings agreed unevenly** in a 40-recording pilot: coherence r = 0.79 and accuracy r = 0.63, but information fidelity only r = 0.12.
 - **Only execution and monitoring correlated with score gains** (r = 0.42, 95% CI [0.02, 0.70], p = 0.041); planning, reflection, and emotional motivation showed no significant association.
-- **High self-reported reflection was not productive reflection**: evaluation and reflection carried the second-highest mean (3.87 of 5) yet a near-zero link to gains (r = 0.10).
+- **High [[self-report-measures|self-reported]] reflection was not productive reflection**: evaluation and reflection carried the second-highest mean (3.87 of 5) yet a near-zero link to gains (r = 0.10).
 - **Students compared scores but rarely analyzed causes**, and their affect split: some felt more exposed by visible submissions, others less pressure, and three deferred engagement after low scores.
 
 ## Study Design & Method

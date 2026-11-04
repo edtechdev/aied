@@ -40,14 +40,14 @@ The study's principal contribution is an **Achievement-Based Instructor–AI Syn
 ## What this means for practice
 
 - **Instructors.** Match the AI workflow to achievement level instead of running one procedure for the whole class: low-achievers in this study wanted step-by-step detail from ChatGPT ("show the detailed calculation, because I'm the type of person who wants to know where the numbers come from"), medium-achievers wanted guided practice and feedback, and high-achievers wanted their ideas challenged.
-- **Instructors.** Keep the final explanation of difficult content yourself: high-achievers preferred the instructor on hard topics because AI explanations did not connect to what they had already learned, and students became confused when ChatGPT used a problem-solving strategy that diverged from the one taught in class.
+- **Instructors.** Keep the final explanation of difficult content yourself: high-achievers preferred the instructor on hard topics because AI explanations did not connect to what they had already learned, and students became confused when ChatGPT used a [[problem-solving]] strategy that diverged from the one taught in class.
 - **Instructors.** Standardize the prompt every student must submit with their answers and require the generated feedback to be handed in, so the [[formative-assessment|formative assessment]] record is comparable across the class.
 - **Instructors.** Use the AI layer as the always-available first pass for routine checking and [[self-regulated-learning|self-regulated practice]], and reserve your own time for the adaptive, context-aware feedback that matters most.
 - **Faculty developers.** Use the Achievement-Based Instructor–AI Synergistic Learning Ecosystem model as a blueprint in teacher preparation: have pre-service teachers design an AI-enhanced assessment activity and state explicitly which role the AI plays for which group of learners.
 
 ## Limitations
 
-The findings are context-specific (13 pre-service teachers, single university, stoichiometry with ChatGPT); perceptions relied on self-reported descriptions rather than full interaction logs; and the model lacks a developmental/longitudinal dimension.
+The findings are context-specific (13 pre-service teachers, single university, stoichiometry with ChatGPT); perceptions relied on [[self-report-measures|self-reported]] descriptions rather than full interaction logs; and the model lacks a developmental/longitudinal dimension.
 
 ## Citation
 

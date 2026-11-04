@@ -15,7 +15,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Read your course's AI interaction profile as a design signal: across 15,887 turns from 821 students in six courses, use concentrated in a small set of recurring patterns, with mathematically oriented courses dominated by task-focused requests at the understand and apply levels and writing-heavy courses showing more references to students' own work and more evaluate and create activity.
+- **Instructors.** Read your course's [[student-ai-interaction|AI interaction]] profile as a design signal: across 15,887 turns from 821 students in six courses, use concentrated in a small set of recurring patterns, with mathematically oriented courses dominated by task-focused requests at the understand and apply levels and writing-heavy courses showing more references to students' own work and more evaluate and create activity.
 - **Instructors.** Build assignments that require students to bring their own draft, data, or solution into the AI conversation rather than only asking about the task — references to students' own work were the interaction context most often paired with higher-level cognitive intent.
 - **Instructors.** Teach explicit strategies for interrogating AI output: about 30% of turns were directed at prior AI output, and only a small share of all turns reached the analyze level.
 - **Designers.** Instrument authentic, voluntary use in coursework (this study collected chat logs students submitted for minor course credit against an alternative assignment) instead of relying on surveys and lab tasks, so profiles reflect real task demands.

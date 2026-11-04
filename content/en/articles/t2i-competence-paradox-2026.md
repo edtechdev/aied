@@ -17,7 +17,7 @@ confidence: high
 discipline: [design education]
 ---
 
-> **Synthesis:** Liu, Meng, and Zhang (2026) examined technology acceptance of text-to-image (T2I) generative AI in art and design education from both educators' and students' perspectives, using a modified exploratory sequential [[mixed-methods-research|mixed-methods]] design (QUAL-QUAN-qual). Based on instructor focus groups, a survey of 417 college students, and semi-structured interviews, they found that performance expectancy, social influence, novelty value, and creative competence positively influence behavioral intention, while the negative effects of effort expectancy and facilitating conditions reflect students' shortcut-oriented use in coursework. They identify a competence paradox: although creative competence supports behavioral intention, it may also lead to more selective or restrained actual use as students negotiate authorship, originality, and skill preservation.
+> **Synthesis:** Liu, Meng, and Zhang (2026) examined [[technology-acceptance-model|technology acceptance]] of text-to-image (T2I) [[generative-ai|generative AI]] in art and [[design-education|design education]] from both educators' and students' perspectives, using a modified exploratory sequential [[mixed-methods-research|mixed-methods]] design (QUAL-QUAN-qual). Based on instructor focus groups, a survey of 417 college students, and semi-structured interviews, they found that performance expectancy, social influence, novelty value, and creative competence positively influence behavioral intention, while the negative effects of effort expectancy and facilitating conditions reflect students' shortcut-oriented use in coursework. They identify a competence paradox: although creative competence supports behavioral intention, it may also lead to more selective or restrained actual use as students negotiate authorship, originality, and skill preservation.
 
 ## Key Findings
 
@@ -40,7 +40,7 @@ The study used a three-phase sequential mixed-methods design (QUAL-QUAN-qual). I
 
 ## Limitations
 
-The study draws on a single institution's art and design students and faculty, bounding generalizability to other creative disciplines and contexts. The mixed-methods design, while rich, relies on self-report for acceptance and intention constructs, and the explanatory [[qualitative-research|qualitative]] phase is limited to explaining quantitative results rather than independently establishing mechanisms. The dynamic, evolving nature of T2I technology means findings may not fully generalize to future tool capabilities.
+The study draws on a single institution's art and design students and faculty, bounding generalizability to other creative disciplines and contexts. The mixed-methods design, while rich, relies on [[self-report-measures|self-report]] for acceptance and intention constructs, and the explanatory [[qualitative-research|qualitative]] phase is limited to explaining quantitative results rather than independently establishing mechanisms. The dynamic, evolving nature of T2I technology means findings may not fully generalize to future tool capabilities.
 
 ## Citation
 

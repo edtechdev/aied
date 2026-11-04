@@ -12,7 +12,7 @@ audience: [assessment professionals, assessment designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Schmucker and Moore examine whether **Item-Writing Flaw (IWF) rubrics** — a domain-general, textual approach to evaluating test items without student data — have predictive validity for empirical Item Response Theory (IRT) parameters. Traditional validation relies on resource-intensive pilot testing; IWF rubrics offer a scalable pre-deployment alternative. The study analyzes **7,126 multiple-choice questions across [[stem-education|STEM]] subjects** (physical science, [[math-education|mathematics]], life/earth sciences), using an automated approach (including LLM-based coding) to annotate items.
+> **Synthesis:** Schmucker and Moore examine whether **Item-Writing Flaw (IWF) rubrics** — a domain-general, textual approach to evaluating test items without student data — have predictive validity for empirical Item Response Theory (IRT) parameters. Traditional validation relies on resource-intensive pilot testing; IWF rubrics offer a scalable pre-deployment alternative. The study analyzes **7,126 multiple-choice questions across [[stem-education|STEM]] subjects** (physical science, [[math-education|mathematics]], life/earth sciences), using an automated approach (including [[llm]]-based coding) to annotate items.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ page_kind: [evaluation]
 - **Assessment designers.** Prioritize the three structural flaws with the strongest negative associations across both parameters — "more than one correct," "longest option correct," and "all of the above" — since these cue guessing without engaging the intended knowledge.
 - **Assessment professionals.** Keep student data in the workflow: IWF rubrics are only moderate predictors of IRT parameters and cannot replace data-dependent validation.
 - **Assessment professionals.** Customize screening thresholds by subject area, because predictive strength varied across life/earth science, physical science, and mathematics.
-- **Researchers.** Retain human oversight in final item validation while using automated IWF annotation as the scalable pre-screening layer.
+- **Researchers.** Retain [[human-in-the-loop-ai|human oversight]] in final item validation while using automated IWF annotation as the scalable pre-screening layer.
 
 ## Limitations
 

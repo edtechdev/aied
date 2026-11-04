@@ -40,17 +40,17 @@ This paper directly extends the knowledge base's coverage of [[technology-accept
 
 ## What this means for practice
 
-- **Instructors.** Do not stop at usefulness arguments. Cognitive beliefs predicted intention, but motivational dimensions (attention, relevance, confidence, satisfaction) were the stronger determinants of actual use, so design GenAI activities that build confidence and visibly connect to academic achievement.
+- **Instructors.** Do not stop at usefulness arguments. Cognitive beliefs predicted intention, but motivational dimensions (attention, relevance, confidence, satisfaction) were the stronger determinants of actual use, so design GenAI activities that build confidence and visibly connect to [[learning-gains|academic achievement]].
 - **Instructors.** Routinize GenAI in a small number of recurring, authentic course tasks. Habit was the highest-importance antecedent of intention but scored only moderate performance on the importance-performance map, which is where the authors locate the largest practical gains.
-- **Administrators.** Do not assume enthusiasm will diffuse on its own: personal innovativeness had only limited influence on adoption, so lecturers, academic support units, and peer networks must actively model and support GenAI practice.
+- **Administrators.** Do not assume enthusiasm will diffuse on its own: personal innovativeness had only limited influence on adoption, so lecturers, [[student-support-and-success|academic support]] units, and peer networks must actively model and support GenAI practice.
 - **Administrators.** Fix the basics before scaling. Unreliable connectivity, limited device access, and unclear institutional policy were the facilitating conditions that determine whether intention turns into sustained use in this resource-constrained context.
-- **Policymakers.** Embed GenAI in curriculum standards and assessment guidelines so it becomes a legitimate learning partner rather than a contested tool, and pair access with guidance to avoid unregulated use.
+- **Policymakers.** Embed GenAI in [[curriculum-design|curriculum]] standards and assessment guidelines so it becomes a legitimate [[pedagogical-agent|learning partner]] rather than a contested tool, and pair access with guidance to avoid unregulated use.
 
 ## Limitations
 
 - The study surveyed 842 students at higher education institutions in a single country (Lesotho), recruited through non-probability, multi-site convenience sampling via institutional email lists, learning management systems, and student messaging groups, with non-users screened out at the start.
 - The design is cross-sectional, which the authors state limits causal inference; structural paths are interpreted as theory-consistent associations and say nothing about how motivation and habit develop over time.
-- All outcomes are self-reported measures of intention and use, leaving room for social desirability bias; no learning analytics or system logs were used to verify behavior.
+- All outcomes are [[self-report-measures|self-reported]] measures of intention and use, leaving room for social desirability bias; no [[learning-analytics|learning analytics]] or system logs were used to verify behavior.
 - The single-country focus limits generalizability, and personal innovativeness and motivational moderation effects came out weak, so the authors call for comparison across African higher education systems before the configurational model is assumed to transfer.
 
 ## Citation

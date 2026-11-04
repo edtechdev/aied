@@ -13,11 +13,11 @@ level: [k 12]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Nguyen and colleagues present a system-level innovation for **emotion-aware classroom quality assessment** using IoT-based, real-time student monitoring. The work emphasizes real-time deployment constraints, multi-agent coordination, and edge-based scalability in authentic classrooms, leveraging established deep-learning models. The system was evaluated on the **Classroom Emotion Dataset** — 1,500 labeled images and 300 classroom detection videos from real-world Vietnamese K–12 classrooms — focusing on multi-person, in-the-wild affective interactions. It is tailored for IoT devices, addressing load balancing and latency.
+> **Synthesis:** Nguyen and colleagues present a system-level innovation for **[[affective-tutoring|emotion-aware]] classroom quality assessment** using IoT-based, real-time student monitoring. The work emphasizes real-time deployment constraints, [[agentic-ai|multi-agent]] coordination, and edge-based scalability in authentic classrooms, leveraging established deep-learning models. The system was evaluated on the **Classroom Emotion Dataset** — 1,500 labeled images and 300 classroom detection videos from real-world Vietnamese K–12 classrooms — focusing on multi-person, in-the-wild affective interactions. It is tailored for IoT devices, addressing load balancing and latency.
 
 ## Key Findings
 
-- The system captures **students' emotional and [[student-engagement|engagement]] patterns in real time**, addressing large classroom sizes and limited teacher–student interaction.
+- The system captures **students' emotional and [[student-engagement|engagement]] patterns in real time**, addressing large classroom sizes and limited [[teacher-role|teacher]]–student interaction.
 - It is **tailored for IoT/edge devices**, handling load balancing and latency challenges for scalable real-time deployment.
 - **Multi-agent coordination** enables classroom-wide affective monitoring in authentic, in-the-wild settings.
 - Evaluation on [[discipline-specific-aied|domain-specific]] Vietnamese K–12 classroom data supports real-world feasibility of emotion-aware classroom quality assessment.
@@ -25,8 +25,8 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Educators.** Use the group-level affective signal as a navigation aid rather than a verdict: a spike in "Disengaged" states after a concept introduction is a pulse check, and the authors explicitly frame the system as non-evaluative.
-- **Educators.** Avoid high-stakes individual inference from facial affect, because "Anger" or "Sadness" can reflect productive struggle or deep concentration and the system cannot distinguish those states.
-- **Edtech designers.** Design to edge constraints from the outset: the frame-wise MobileNetV2 pipeline sustained 25 FPS with ULFG version-RFB (0.02 s), whereas RetinaFace's higher mAP (0.95) was too slow for a real-time feedback loop.
+- **Educators.** Avoid high-stakes individual inference from facial affect, because "Anger" or "Sadness" can reflect [[desirable-difficulties|productive struggle]] or deep concentration and the system cannot distinguish those states.
+- **[[educational-technology-developers|Edtech designers]].** Design to edge constraints from the outset: the frame-wise MobileNetV2 pipeline sustained 25 FPS with ULFG version-RFB (0.02 s), whereas RetinaFace's higher mAP (0.95) was too slow for a real-time [[feedback|feedback loop]].
 - **Edtech designers.** Combine confidence-score filtering with temporal stabilization rather than relying on raw frame output, since frame-level predictions oscillate between adjacent emotion classes under low-intensity expressions.
 - **Researchers.** Budget for dataset composition and the annotation ceiling when validating classroom affect models: 40% of the Classroom Emotion Dataset is ages 6–10 versus 25% ages 15–18, and expert annotators reached only κ = 0.83 on the Passive Presence versus Attentive Listening boundary.
 

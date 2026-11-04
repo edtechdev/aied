@@ -27,7 +27,7 @@ ASTRA uses autonomous AI sim-pilots for scalable air traffic control training, r
 
 ## Limitations
 
-- Automatic speech recognition was fine-tuned exclusively on Singapore ATC data, so generalization to other airspaces, accents, and languages is untested; error rates rose on the out-of-domain ATCOSIM and MNSC datasets.
+- [[speech-and-voice-technologies|Automatic speech recognition]] was fine-tuned exclusively on Singapore ATC data, so generalization to other airspaces, accents, and languages is untested; error rates rose on the out-of-domain ATCOSIM and MNSC datasets.
 - The human mean-opinion-score study of text-to-speech used 21 raters evaluating 9 clips each, a sample the authors state limits the statistical robustness of the results.
 - The simulator supports only predefined scenarios; instructor live-editing of scenarios and adaptive scenario generation are described as future work rather than evaluated.
 - All reported evaluations are component-level (word error rate, mean opinion score, evaluator alignment) — no trainee cohort was run, so gains in learning or transfer, and comparison against a human simpilot baseline, remain open.

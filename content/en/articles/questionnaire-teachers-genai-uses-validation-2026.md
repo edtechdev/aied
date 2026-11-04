@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation, framework]
 ---
 
-> **Synthesis:** Pérez-Montesdeoca, Rodríguez-Rodríguez, Stendardi, and Fernández-Sogorb (2026) design and validate a questionnaire measuring secondary-school teachers' educational uses of [[generative-ai|generative AI]]. After expert judgment on an initial item pool, they administered the instrument to 486 secondary-school teachers in Spain, and confirmatory factor analysis supported a six-dimension structure — teacher management, creation of [[teacher-role|teaching]] materials, student assessment, student empowerment, attention to diversity, and student [[motivation]] — with high internal consistency and adequate convergent and discriminant validity.
+> **Synthesis:** Pérez-Montesdeoca, Rodríguez-Rodríguez, Stendardi, and Fernández-Sogorb (2026) design and validate a questionnaire measuring secondary-school teachers' educational uses of [[generative-ai|generative AI]]. After expert judgment on an initial item pool, they administered the instrument to 486 secondary-school teachers in Spain, and confirmatory factor analysis supported a six-dimension structure — teacher management, creation of [[teacher-role|teaching]] materials, [[assessment|student assessment]], student empowerment, attention to diversity, and student [[motivation]] — with high internal consistency and adequate convergent and discriminant validity.
 
 ## Key Findings
 
@@ -32,8 +32,8 @@ page_kind: [evaluation, framework]
 ## Limitations
 
 - The sample is 486 secondary teachers in Spain recruited by non-probability convenience sampling driven by institutional access and timetabling; the authors note this can over-represent institutions open to innovation and differentially include more motivated teachers.
-- All GAI use is self-reported, so social desirability and reference-frame effects mean responses may not capture actual classroom practices or the effectiveness of those uses.
-- The study was cross-sectional and confined to psychometric validation; it did not examine the relationship between reported GAI use and educational outcomes such as academic performance or student engagement.
+- All GAI use is [[self-report-measures|self-reported]], so social desirability and reference-frame effects mean responses may not capture actual classroom practices or the effectiveness of those uses.
+- The study was cross-sectional and confined to psychometric validation; it did not examine the relationship between reported GAI use and educational outcomes such as [[learning-gains|academic performance]] or [[student-engagement|student engagement]].
 - The authors caution against generalizing the six-dimension structure to teachers in other countries or educational levels without further cross-cultural validation.
 
 ## Citation

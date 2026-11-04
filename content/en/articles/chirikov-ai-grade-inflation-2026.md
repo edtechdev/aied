@@ -44,7 +44,7 @@ Grades summarize student performance and signal skill to students, graduate prog
 
 - The analysis covers a single institution — a balanced panel of 319 courses across 84 departments at one large selective research university in Texas — which the author states limits external generalizability.
 - The panel is restricted to courses large enough to appear in public grade distributions, which may underrepresent small seminars and upper-division courses, although varying the enrollment threshold between 15 and 40 students left results unchanged.
-- AI exposure is inferred from course task composition in Fall 2022 syllabi; the study does not directly measure student AI use at the course level.
+- AI exposure is inferred from course task composition in Fall 2022 syllabi; the study does not directly measure [[student-ai-interaction|student AI use]] at the course level.
 - The design identifies an average effect only: heterogeneity in how individual students engage with AI within a course remains unobserved, so the distribution of displacement versus augmentation across students is not identified.
 
 ## Citation

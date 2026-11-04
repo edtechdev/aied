@@ -16,7 +16,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
+> **Synthesis:** Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/[[information-technology|IT education]].
 
 ## Key Findings
 
@@ -29,14 +29,14 @@ page_kind: [framework]
 ## What this means for practice
 
 - **Instructors.** Teach critical use directly — students who interrogate, validate, and cross-check GenAI outputs were more motivated to use the tools, and this practice is the mechanism that guards against [[cognitive-offloading|over-reliance]].
-- **Instructors.** Set task-specific expectations instead of one blanket rule: students relied most on GenAI for understanding-related tasks and programming, and least for full assessment writing, so policies and scaffolds should vary by task type.
+- **Instructors.** Set task-specific expectations instead of one blanket rule: students relied most on GenAI for understanding-related tasks and programming, and least for full assessment writing, so policies and [[scaffolding|scaffolds]] should vary by task type.
 - **Faculty developers.** Adopt the paper's three-tiered [[ai-literacy]] approach for engineering and CS/IT programs — evidence-based training for all students, mentoring or small-group support for those needing more, and intensive one-to-one support for students showing persistent difficulty or over-dependence.
-- **Administrators.** Supply approved platforms, monitored environments, and clear acceptable-use guidelines, and use self-assessments or discipline-specific AI literacy checks to identify students at risk of uncritical use early.
+- **Administrators.** Supply approved platforms, monitored environments, and clear acceptable-use guidelines, and use [[self-assessment|self-assessments]] or [[discipline-specific-aied|discipline-specific]] AI literacy checks to identify students at risk of uncritical use early.
 
 ## Limitations
 
 - The sample is small and single-site: 126 students from one Australian university, just above the minimum of 124 cases the authors calculated for this PLS-SEM model (power = 0.8, significance level = 0.05).
-- Reliance and intention are measured by self-report survey, which risks response bias; students may have underreported GenAI use they saw as academically inappropriate because of social desirability.
+- Reliance and intention are measured by [[self-report-measures|self-report]] survey, which risks response bias; students may have underreported GenAI use they saw as academically inappropriate because of social desirability.
 - The institutional and disciplinary specificity of the sample limits generalizability to other disciplines, institutions, or national contexts.
 - Data are cross-sectional, so the study cannot show how critical use and reliance evolve as GenAI tools change; the authors call for interviews, focus groups, or classroom observation to triangulate the survey.
 

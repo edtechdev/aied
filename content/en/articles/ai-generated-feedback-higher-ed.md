@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This quasi-experimental study directly compares **AI-generated feedback** (two LLMs: **GPT-o4-mini** and **DeepSeek R1**) with **expert human-teacher feedback** in a project-based university course (Assessment & Learning, third-year Primary [[teacher-education|Teacher Education]], University of Padua). The central question is not "is AI feedback worse?" but *under what [[pedagogy|pedagogical]] conditions* AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: **feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded** — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.
+> **Synthesis:** This quasi-experimental study directly compares **AI-generated feedback** (two LLMs: **GPT-o4-mini** and **DeepSeek R1**) with **expert human-[[teacher-role|teacher]] feedback** in a project-based university course (Assessment & Learning, third-year Primary [[teacher-education|Teacher Education]], University of Padua). The central question is not "is AI feedback worse?" but *under what [[pedagogy|pedagogical]] conditions* AI feedback can be a credible, educationally meaningful component of [[formative-assessment|formative assessment]]. The answer the authors land on: **feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded** — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.
 
 ## Method (key parameters)
 - **Design:** 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence.
@@ -60,12 +60,12 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - **Instructors.** Use AI feedback to scale timeliness and consistency while retaining teacher oversight: [[generative-ai|generative AI]] in this study is support for teachers with strong assessment literacy, not an autonomous replacement.
 - **Faculty developers.** Train assessors to make criteria explicit before introducing AI feedback — the calibration device was the rubric and exemplar, not the model, which is why the same architecture worked with two different LLMs.
 - **Instructors.** Tell students when feedback is machine-generated and prompt them to engage critically with it; students were blind to source yet rated AI and teacher feedback comparably, and the authors flag over-reliance and unequal access as risks even in a positive-result study.
-- **Researchers.** Treat this as a well-controlled data point (randomized, blind, equivalence-tested) that AI-generated feedback can match expert teacher feedback for [[project-based-learning|project-based learning]] when criteria and assessment literacy are high, complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work and bracketing [[ai-education|AIED]] design-dependence alongside the PNAS [[rct]] on unguarded AI tutoring.
+- **Researchers.** Treat this as a well-controlled data point (randomized, blind, equivalence-tested) that AI-generated feedback can match expert teacher feedback for [[project-based-learning|project-based learning]] when criteria and assessment literacy are high, complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work and bracketing [[ai-education|AIED]] design-dependence alongside the PNAS [[rct]] on unguarded [[intelligent-tutoring|AI tutoring]].
 
 ## Limitations
 - **Ceiling effect:** 91% of groups scored ≥27/30 (SD = 0.95) — limits sensitivity of post-test comparisons; equivalence rests mainly on adjusted-gain analyses.
 - **Small group-level N = 47** → wide CIs; modest source differences can't be fully ruled out.
-- **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
+- **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **[[assessment|student assessment]] literacy not measured** (treated as a hypothesis, not tested).
 
 ## Citation
 

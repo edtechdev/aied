@@ -27,7 +27,7 @@ Specifies six interdependent pillars: Technical Fluency, [[critical-thinking|Cri
 
 Developmental: a three-level rubric (Emerging, Competent, Advanced) describes how each pillar matures across the [[k-12|K-12]] [[teacher-education|teacher-preparation]] continuum.
 
-Dialectical: the same generative affordance can deepen or displace [[self-regulated-learning|learning]] depending on teacher literacy, making [[ai-literacy|literacy cultivation]] — not tool adoption — the object of design.
+Dialectical: the same generative affordance can deepen or displace [[self-regulated-learning|learning]] depending on [[teacher-role|teacher]] literacy, making [[ai-literacy|literacy cultivation]] — not tool adoption — the object of design.
 
 Aligned with the UNESCO [[teacher-ai-competency|AI Competency Framework for Teachers]] and the OECD/European Commission AILit Framework; advances falsifiable propositions for empirical validation.
 
@@ -36,14 +36,14 @@ Aligned with the UNESCO [[teacher-ai-competency|AI Competency Framework for Teac
 - **Instructors.** Treat [[ai-literacy|literacy]] cultivation rather than tool adoption as the object of design: the same generative affordance can deepen or displace learning depending on the teacher's literacy, so plan the pedagogical purpose before choosing the tool.
 - **Faculty developers.** Build preparation across all six pillars instead of [[prompt-engineering|prompting]] and tool skills alone, since the framework holds that the absence of any single pillar produces a characteristic pedagogical failure.
 - **Faculty developers.** Use the three-level maturity rubric (Emerging, Competent, Advanced) to place teacher candidates and sequence development across the K-12 preparation continuum, including field placements.
-- **Instructors.** Locate local curriculum and assessment against the Contextual Awareness and Ethical Reasoning pillars, so GenAI use is anchored to the discipline being taught rather than presented as generic technique.
-- **Researchers.** Study evidence of AI-assisted learning — how teachers verify information, revise AI-generated text, and decide when not to use AI — instead of measuring acceptance, frequency of use, or perceived usefulness.
+- **Instructors.** Locate local [[curriculum-design|curriculum]] and assessment against the Contextual Awareness and Ethical Reasoning pillars, so GenAI use is anchored to the discipline being taught rather than presented as generic technique.
+- **Researchers.** Study evidence of AI-assisted learning — how teachers verify information, revise AI-generated text, and decide when not to use AI — instead of measuring acceptance, frequency of use, or [[technology-acceptance-model|perceived usefulness]].
 
 ## Limitations
 
 - The framework is conceptually oriented and bounded: it synthesizes critical, pragmatist, sociocultural, and human-centered traditions but does not exhaust them, and its six pillars sit at an abstraction that requires interpretive translation into specific disciplines, grade levels, and institutional cultures.
 - It rests on a systematic review and qualitative framework analysis of 67 studies (2023-2025) and prescribes no instructional methods or assessment instruments, offering falsifiable propositions for validation rather than demonstrated effects.
-- Key constructs, including the three-tier ethical reasoning model and the reliance-negotiation account behind its integrity pedagogy, derive from the lead author's mixed-methods research at a single minority-serving institution and are not yet independently replicated or peer reviewed.
+- Key constructs, including the three-tier ethical reasoning model and the reliance-negotiation account behind its integrity pedagogy, derive from the lead author's [[mixed-methods-research|mixed-methods research]] at a single minority-serving institution and are not yet independently replicated or peer reviewed.
 - The authors explicitly do not claim universal applicability: instantiation is expected to vary across national, cultural, and policy contexts, leaving the framework untested across grade levels and populations.
 
 ## Citation

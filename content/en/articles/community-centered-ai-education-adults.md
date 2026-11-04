@@ -32,7 +32,7 @@ The study contributes design considerations for [[edtech-platform|educational te
 ## Limitations
 
 - Single-site case study: one [[educational-development|education]] session in a predominantly African American community on the east side of one Midwestern city, with 54 attendees (48 in person and 6 virtual), so no claim about other communities or about repetition over time is supported.
-- Response coverage was partial and self-reported: 37 of the 54 attendees completed the pre-survey and roughly 22-25 completed the post-survey depending on the question, and only 25 participants provided demographic information.
+- Response coverage was partial and [[self-report-measures|self-reported]]: 37 of the 54 attendees completed the pre-survey and roughly 22-25 completed the post-survey depending on the question, and only 25 participants provided demographic information.
 - The sample skews older than typical adult learners: 22 participants reported ages, and 17 of them were 55 or above; prior schooling ranged from 10 with college-level education and 8 with some college to 6 with a high school education or less.
 - Interpretations may reflect the research team's own commitments: the authors acknowledge their commitments, expertise and relationships shaped the analysis, and the senior author, who also served as PI, has maintained decade-long collaborative relationships with both community partners.
 

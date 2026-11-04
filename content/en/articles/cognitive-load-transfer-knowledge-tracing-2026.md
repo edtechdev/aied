@@ -24,9 +24,9 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Designers.** Model cognitive load explicitly in multi-domain [[knowledge-tracing|knowledge tracing]] — question difficulty, domain transition, and domain coverage — instead of optimizing only for single-domain sequences.
-- **Designers.** Use LLM-constructed multi-domain hierarchical graphs to link otherwise isolated domains, so that cross-domain [[transfer-of-learning|knowledge transfer]] informs each student's estimated knowledge state.
+- **Designers.** Use [[llm]]-constructed multi-domain hierarchical graphs to link otherwise isolated domains, so that cross-domain [[transfer-of-learning|knowledge transfer]] informs each student's estimated knowledge state.
 - **Designers.** Expect returns from stronger LLM backbones: graph-construction quality, and with it tracing performance, improved as the backbone model improved.
-- **Researchers.** Benchmark multi-domain models against cross-domain baselines — students switched domains frequently (average cross-domain interactions of 8.72–14.26 per learner across datasets), so single-domain [[knowledge-tracing|KT]] benchmarks understate the problem.
+- **Researchers.** Benchmark multi-domain models against cross-domain baselines — students switched domains frequently (average cross-domain interactions of 8.72–14.26 per learner across datasets), so single-domain [[knowledge-tracing|KT]] [[benchmark|benchmarks]] understate the problem.
 - **Researchers.** Treat the three load proxies (difficulty, transition, coverage) as an initial set, since the authors explicitly leave other contributors to cognitive load for future work.
 
 ## Limitations

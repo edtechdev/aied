@@ -17,7 +17,7 @@ page_kind: [evaluation]
 
 - **Beyond within-dialogue simulation:** Duan et al. introduce history-conditioned student simulation, a task where LLM-based student simulators are grounded in past question-answering and dialogue interactions. This moves beyond prior work that [[simulating-students|simulated students]] only within a single dialogue context.
 - **Two-component RL framework:** A profile generator summarizes a student's learning history into a compact profile, and a simulator predicts student dialogue turns conditioned on that profile. Both components are jointly trained via [[reinforcement-learning]] (if that page exists) to optimize for faithful simulation.
-- **Real-world math tutoring dataset:** The paper collects and evaluates on the first-of-its-kind dataset of real student dialogues and question responses from a math learning platform, grounding the work in authentic [[student-experience]] data rather than synthetic proxies.
+- **Real-world math tutoring dataset:** The paper collects and evaluates on the first-of-its-kind dataset of real student dialogues and question responses from a math [[edtech-platform|learning platform]], grounding the work in authentic [[student-experience]] data rather than synthetic proxies.
 - **Significant implications for tutor evaluation:** History-aware student simulation enables more realistic evaluation of [[intelligent-tutoring]] systems, allowing developers to test tutor responses against diverse student profiles without requiring live students. This connects to [[kt4eqg-personalized-question-generation]] which also leverages [[student-modeling|student modeling]] for [[personalized-learning|personalized learning]].
 - **RL-optimized profiles** ensure that the compressed student representation captures information most relevant to dialogue prediction, rather than using generic summary metrics. This approach could generalize to other [[learning-analytics]] tasks where student state compression is needed.
 
@@ -34,7 +34,7 @@ page_kind: [evaluation]
 - The evaluation rests on one private math dataset: 1,775 dialogues and 66,705 question-answering records from 670 students on a single learning platform, so cross-domain generalizability is untested.
 - Histories are trimmed heuristically to the most recent question-answering records and dialogues because of memory limitations in training; more advanced interaction selection or longer context is left to future work.
 - Only turn-level simulation is evaluated. The authors state that assessing how learning histories affect the faithfulness of fully simulated dialogues will require new metrics, and it remains unexamined.
-- The authors note a substantial lack of publicly available data containing student learning histories and dialogues, which limits testing the method in other domains such as programming and language learning.
+- The authors note a substantial lack of publicly available data containing student learning histories and dialogues, which limits testing the method in other domains such as programming and [[language-learning|language learning]].
 
 ## Citation
 

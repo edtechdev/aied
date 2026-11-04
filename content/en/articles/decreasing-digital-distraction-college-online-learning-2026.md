@@ -31,14 +31,14 @@ The proliferation of digital tools in education has intensified distraction — 
 
 - **Instructors.** Teach and require the specific [[self-regulated-learning]] routines that co-occurred with lower distraction — goal setting, environment structuring, and time management — which appeared in at least 67% of the 42 paired association rules.
 - **Instructors.** Invest in instructor-facing clarity rather than peer activity alone: learner-instructor and learner-content [[student-engagement|engagement]] strategies such as clear instructions, grading rubrics, timely feedback, and optional depth resources appeared alongside lower distraction, while reliance on peer [[help-seeking]] and learner-learner engagement appeared less often.
-- **Instructional designers.** Add short technical-competency and ICT self-efficacy training to online courses, since confidence in using technology for learning characterized the lowest-distraction group in the quartile sensitivity analysis as well as the main sample.
+- **Instructional designers.** Add short technical-competency and ICT [[self-efficacy]] training to online courses, since confidence in using technology for learning characterized the lowest-distraction group in the quartile sensitivity analysis as well as the main sample.
 - **Instructional designers.** Design peer collaboration deliberately, with structured tasks and a visible purpose, because the study links unconsidered peer interaction to perceived inefficiency among students reporting low distraction.
 - **Instructors.** Profile which strategies your students actually report rather than assuming one route: the four rule clusters showed distinct paths to low distraction, from time management paired with structured environments to content engagement paired with SRL.
 
 ## Limitations
 
 - The sample is a convenience sample at one public university in southeastern America: 530 valid responses from 764 surveys, 74.0% female, 68.9% White, mean age 21.63 years, which the authors acknowledge may not represent the broader population.
-- Digital distraction is self-reported on a 4-item questionnaire, and the authors note that participants' perceptions and recall may not reflect their behavior, calling for objective measures such as screen-time tracking or behavioral observation.
+- Digital distraction is [[self-report-measures|self-reported]] on a 4-item questionnaire, and the authors note that participants' perceptions and recall may not reflect their behavior, calling for objective measures such as screen-time tracking or behavioral observation.
 - Distraction was dichotomized by median split into high (n = 314) and low (n = 216) groups, and the association-rule mining and clustering identify co-occurrence rather than causal effect.
 - No intervention is tested: findings describe which strategies co-occur with low distraction in a single cross-sectional survey, so the instructional implications remain hypotheses awaiting trial.
 

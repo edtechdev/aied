@@ -48,7 +48,7 @@ Hingle and Johri's [[meta-analysis-systematic-review|systematic review]] sorts A
 
 The NC State **AI Literacy Continuum** describes a progression from *Not Yet Engaged* and *Uncritical Use* through *Informed Use*, *[[critical-thinking|Critical Evaluation]]*, and *Improvement*, and was implemented with more than 330 participants across courses and workshops ([[ai-literacy-continuum-higher-education]]). Its observations suggest a split: brief experiences moved students toward informed use, while critical evaluation and improvement showed up mainly in sustained, discipline-embedded work. There was no validated pre/post measure and no comparison group, so this is practice-based evidence.
 
-Teacher education shows the same ceiling from a different angle. Le et al.'s [[design-based-research|design-based]] intervention was piloted with 14 master's students and evaluated with 29 [[teacher-education]] students. Reported AI-competency [[self-efficacy]] rose and students shifted toward more critical [[pedagogy|pedagogical]] consideration of GenAI, while ethics gains reached only marginal significance. A small design-based study of that shape cannot establish competence ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Teacher]] education shows the same ceiling from a different angle. Le et al.'s [[design-based-research|design-based]] intervention was piloted with 14 master's students and evaluated with 29 [[teacher-education]] students. Reported AI-competency [[self-efficacy]] rose and students shifted toward more critical [[pedagogy|pedagogical]] consideration of GenAI, while ethics gains reached only marginal significance. A small design-based study of that shape cannot establish competence ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Measure what students can do
 
@@ -82,7 +82,7 @@ The question that follows is the one to put to your own program: does the creden
 
 ## What this audience gets wrong
 
-A workshop is a curriculum. The Continuum's observations put critical evaluation and improvement in sustained, discipline-embedded work, and Le et al. moved self-efficacy without establishing competence.
+A workshop is a [[curriculum-design|curriculum]]. The Continuum's observations put critical evaluation and improvement in sustained, discipline-embedded work, and Le et al. moved self-efficacy without establishing competence.
 
 Confidence is a proxy for literacy. The GLAT result is direct: a performance test predicted task performance and a self-report measure did not.
 

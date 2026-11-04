@@ -39,7 +39,7 @@ A central design principle: procedural execution (running an integration, genera
 2. **Inquire (during AI): guided delegation.** Computational and representational tasks are delegated to AI, but students compare AI output against their own predictions, annotate discrepancies, and question assumptions (fitting ranges, smoothing choices). AI is an epistemic partner, not an answer generator.
 3. **Reflect (after AI): epistemic responsibility.** Students explain the physical meaning of results, check consistency across representations, diagnose uncertainty and errors, and write a [[reflection]] making explicit what the AI contributed versus what they contributed.
 
-The teacher's role shifts to that of designer and guardian of the task structure: selecting tasks that require genuine [[prior-knowledge]] activation, monitoring whether students critically compare AI output, and orchestrating reflection. AIRIS adapts existing inquiry cycles (5E, Predict–Observe–Explain) for AI, adding the Inquire phase's AI partnership and a Reflect phase that makes the human–AI division of cognitive work explicit.
+The [[teacher-role|teacher]]'s role shifts to that of designer and guardian of the task structure: selecting tasks that require genuine [[prior-knowledge]] activation, monitoring whether students critically compare AI output, and orchestrating reflection. AIRIS adapts existing inquiry cycles (5E, Predict–Observe–Explain) for AI, adding the Inquire phase's AI partnership and a Reflect phase that makes the human–AI division of cognitive work explicit.
 
 ## Classroom example: elevator ride in the Shard
 
@@ -54,7 +54,7 @@ AIRIS is presented as a classroom-level response to the boiling frog problem: it
 - **Instructors.** Open every AI-supported investigation with prediction: have students sketch expected a-t, v-t, and s-t diagrams, identify variables, and estimate magnitudes before any tool is opened, so they hold a reference point against which AI output can be judged.
 - **Instructors.** Delegate only procedural work during the AI phase — numerical integration, generating a standard plot — and require students to compare the output against their own predictions, annotate discrepancies, and interrogate choices such as fitting ranges or smoothing.
 - **Instructors.** Close the task with an explicit accounting: a written reflection on what the AI contributed and what remained the student's, cross-representation consistency checks, and diagnosis of sensor offset, noise, and drift.
-- **Designers.** Treat prediction, interpretation, and evaluation as non-delegable in the task structure, and adapt existing inquiry cycles (5E, Predict–Observe–Explain) rather than replacing them — AIRIS is an extension of those formats, not a new pedagogy.
+- **Designers.** Treat prediction, interpretation, and evaluation as non-delegable in the task structure, and adapt existing inquiry cycles (5E, Predict–Observe–Explain) rather than replacing them — AIRIS is an extension of those formats, not a new [[pedagogy]].
 - **Administrators.** Fund the teacher capability the framework assumes: selecting tasks that require genuine [[prior-knowledge]] activation, monitoring whether students critically compare AI output, and designing tasks that resist AI completion. The authors note current teacher preparation programs have not systematically addressed these competencies.
 
 ## Limitations

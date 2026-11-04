@@ -44,14 +44,14 @@ Plausible feedback paths connect the dimensions: sustained absence of struggle m
 
 ## Empirical indicators and methodological implications
 
-While ACB cannot be reduced to a single score, the paper identifies indicators: students who cannot describe their own writing or reasoning ability absent AI; who conflate AI-assisted output quality with their own competence; who respond to no-AI tasks with disproportionate uncertainty, anxiety, or surprise; and who interpret cognitive struggle as inefficiency or failure. These are entry points for inquiry, not diagnostic criteria.
+While ACB cannot be reduced to a single score, the paper identifies indicators: students who cannot describe their own writing or reasoning ability absent AI; who conflate AI-assisted output quality with their own competence; who respond to no-AI tasks with disproportionate uncertainty, [[anxiety-and-stress|anxiety]], or surprise; and who interpret cognitive struggle as inefficiency or failure. These are entry points for inquiry, not diagnostic criteria.
 
 Methodologically, the paper argues that existing frameworks reach "ACB's door but do not enter" — performance-focused studies document what happens to *outcomes* under AI but not what learning *feels* like from the learner's perspective. It proposes **interpretative phenomenological analysis (IPA)** as a methodologically coherent path into the subjective layer ACB theorizes, clarifying whether the construct corresponds to something real in learners' lived experience. The moderating-variable model yields separately falsifiable predictive claims (e.g., cross-cohort comparisons of calibration error), designed to be refined or refuted by empirical encounter.
 
 ## What this means for practice
 
 - **Learners.** Treat a felt sense of understanding after reading fluent AI output as unreliable evidence of your own grasp, because that fluency is a property of the generated text rather than of your cognitive representation.
-- **Instructors.** Create structured opportunities for sustained independent cognitive work — the pedagogical response the paper names if the missing reference point is the problem — rather than treating AI-assisted and independent work as interchangeable.
+- **Instructors.** Create structured opportunities for sustained independent cognitive work — the [[pedagogy|pedagogical]] response the paper names if the missing reference point is the problem — rather than treating AI-assisted and independent work as interchangeable.
 - **Instructors.** Separate availability from substitution: a student who used AI to check grammar while doing the thinking independently accumulated cognitive experience, while one who prompted AI for finished work may not have.
 - **Researchers.** Adopt interpretative phenomenological analysis with purposively sampled learners, because performance-focused studies document what happens to outcomes but not what learning feels like from the learner's perspective.
 - **Administrators.** Resist blanket indictment and blanket endorsement alike: the construct is proposed for a definable subset — sustained substitutive use during formative years in systems with unrestricted AI access — and the paper deliberately prescribes no fixes before the phenomenon is understood.

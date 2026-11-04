@@ -34,7 +34,7 @@ The authors draw a clear design agenda for adversarial agents in [[ai-education|
 
 ## What this means for practice
 
-- **Instructors.** Replace agreeable AI brainstorming partners with a deliberately antagonistic reviewer for novice design work: in this study the unsupported self-review group never revised or deleted an idea at all, while the agent condition made roughly 3.6× more edits.
+- **Instructors.** Replace [[ai-sycophancy|agreeable AI]] brainstorming partners with a deliberately antagonistic reviewer for novice design work: in this study the unsupported self-review group never revised or deleted an idea at all, while the agent condition made roughly 3.6× more edits.
 - **Instructors.** Aim the pushback at stakeholder costs — [[accessibility]], [[privacy]], resistance to automation, alternative reporting channels — so students see why an idea must be constrained or dropped, not only what else they could add.
 - **Instructors.** Require students to verify every agent-raised concern against real evidence or real stakeholders; participants rated the pushback as contributing to their design (M = 5.33) but one felt discouraged ("they criticize me in every aspect I think of"), and the synthetic perspectives carry none of the weight of lived experience.
 - **Designers.** Make conflict steerable rather than terminal: let designers accept, revise, or discard each point so disagreement reads as a navigable space instead of a verdict, and give them room to reframe the problem rather than answer comment-by-comment.

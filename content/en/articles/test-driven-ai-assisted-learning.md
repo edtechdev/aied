@@ -22,12 +22,12 @@ audience: [instructors, instructional designers, administrators]
 - **Instructors.** Replace lecture time with a strict weekly closed-book gate only after providing an explicit preparation path: across all 251 recorded student-test observations, 201 (80.1%) scored at least 100 raw points, and students averaged 5.61 on a seven-point item for fit with the subject.
 - **Instructional designers.** Build the harness before the content. The authors state that without one, twelve weekly bundles and twelve graded tests are not realistic for one person; their reusable template bundles document and website templates, build commands, a GitHub Pages workflow, and named AI-assisted skills.
 - **Administrators.** Fund instructor review rather than assuming AI removes it — the model keeps a human in the loop over AI-written material and grading, and one 13-week run indicates a workable design, not proven effectiveness.
-- Add self-regulation scaffolds alongside the gate: Nine of 18 students said they rarely or only sometimes thought first before asking AI, and Seven of 18 said they could rarely or only sometimes tell when an AI explanation was wrong.
+- Add [[self-regulated-learning|self-regulation]] scaffolds alongside the gate: Nine of 18 students said they rarely or only sometimes thought first before asking AI, and Seven of 18 said they could rarely or only sometimes tell when an AI explanation was wrong.
 - Preserve targeted teaching even in a lecture-free design. Students ranked the self-paced plus AI block first among components (mean rank 2.56) and the 30-minute closed-book test second (3.22), yet still asked for short recorded videos and mini-lectures on the hardest topics.
 
 ## Limitations
 
-- This is a single-course experience report, and the evidence is bounded accordingly: the survey has N = 18 and is self-reported and self-selected, measuring perception rather than learning, with no control group and no pre/post instrument, so no causal or effectiveness claim is made.
+- This is a single-course experience report, and the evidence is bounded accordingly: the survey has N = 18 and is [[self-report-measures|self-reported]] and self-selected, measuring perception rather than learning, with no control group and no pre/post instrument, so no causal or effectiveness claim is made.
 - Per-test scores are not linked across weeks and there is no final-exam outcome data, so weekly performance cannot be related to final attainment.
 - The workload figures are planning estimates rather than time logs, and the git-history audit uses an author-defined notion of a "semantic repair" and is descriptive, not a benchmark.
 - The instructor was also an author, which can bias material design and interpretation, and the subject is small and proof-heavy, so transfer to large or non-proof courses remains a hypothesis for future offerings.

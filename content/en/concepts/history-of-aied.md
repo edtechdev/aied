@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-10-25T13:10:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -10,7 +10,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **History of AI in Education** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. creativity, automation vs. augmentation — that have structured AI in education since its origins.
+> **History of [[ai-education|AI in Education]]** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. [[creativity]], automation vs. augmentation — that have structured AI in education since its origins.
 
 ## Questions to Consider
 
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 - The page frames AIED history as a tension between control (Anderson's cognitive tutors optimizing instruction) and agency (Papert's constructionism empowering learners). Where do your own AI-in-education choices fall on that spectrum — and why?
 - Personalization, the page argues, has two meanings: varying the path to the same outcome, or enabling diverse, learner-directed outcomes. Which kind of personalization does your institution actually pursue, and which do you think it should?
 - If today's GenAI debates 'mirror' these historical tensions, what past mistakes might we be repeating — and what might we avoid by remembering them?
-- The page claims technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over learner agency — or vice versa?
+- The page claims technical design choices embed value judgments about learning's purpose. Can you identify a design decision in an AI education tool you've used that quietly favored standardization over [[agency|learner agency]] — or vice versa?
 
 ## Introduction
 
@@ -31,11 +31,11 @@ The field's history is not a linear progression but a series of contingent decis
 
 **The cognitive revolution and the roots of ITS.** Early pioneers — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — were not merely modeling cognition; they were investigating fundamental questions about learning and instruction. Their work produced information-processing models of human cognition that became foundational to educational psychology, and led to [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], rooted in the heuristic-search and expert-systems paradigms of 1960s–70s AI. These systems aligned naturally with existing structures of assessment and standardization, and eventually coalesced into the AIED community.
 
-**Control vs. agency: Anderson and Papert.** Two competing visions emerged, embodied in John Anderson and Seymour Papert. **Anderson's** [[intelligent-tutoring|cognitive tutors]] (ACT/ACT-R theory) decomposed knowledge into production rules, provided precise individualized feedback, and reinforced traditional educational structures — a vision of AI as a tool for optimizing instruction. **Papert's** [[constructivist|constructionism]] (Logo, "microworlds," debugging-as-learning) saw computers as environments where children construct knowledge through creative experimentation — a vision of AI as an instrument of intellectual empowerment that challenged institutional hierarchies. This "essential tension" between control and agency is the through-line of the field's history.
+**Control vs. agency: Anderson and Papert.** Two competing visions emerged, [[embodied-learning|embodied]] in John Anderson and Seymour Papert. **Anderson's** [[intelligent-tutoring|cognitive tutors]] (ACT/ACT-R theory) decomposed knowledge into production rules, provided precise individualized feedback, and reinforced traditional educational structures — a vision of AI as a tool for optimizing instruction. **Papert's** [[constructivist|constructionism]] (Logo, "microworlds," debugging-as-learning) saw computers as environments where children construct knowledge through creative experimentation — a vision of AI as an instrument of intellectual empowerment that challenged institutional hierarchies. This "essential tension" between control and agency is the through-line of the field's history.
 
-**Two forms of personalization.** [[personalized-learning|Personalization]] has two distinct interpretations that map onto these visions. The first maintains uniform outcomes while varying the path (rooted in Skinner's teaching machines; the Khan Academy vision of tutoring to mastery). The second embraces diverse outcomes — learners pursuing individual interests and talents, unconstrained by standard curriculum boundaries (Zhao, 2024). The ITS model supports the former; constructionism the latter.
+**Two forms of personalization.** [[personalized-learning|Personalization]] has two distinct interpretations that map onto these visions. The first maintains uniform outcomes while varying the path (rooted in Skinner's teaching machines; the Khan Academy vision of tutoring to mastery). The second embraces diverse outcomes — learners pursuing individual interests and talents, unconstrained by standard [[curriculum-design|curriculum]] boundaries (Zhao, 2024). The ITS model supports the former; constructionism the latter.
 
-**Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed framework]] gives this intuition empirical grounding: locating papers from AIED proceedings (1985, 1993, 2021, 2024) and IJAIED (2004, 2014, 2021) along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user — they trace a field that moved from a diverse mix, including substantial early research using AI as an analogy to human intelligence (computational models of learning, Papert's microworlds, agent-based models of knowledge acquisition), toward a near-exclusive focus on applied, instrumental uses by the 2000s. Notably, the generative-AI era appears to partially reverse that trajectory: at AIED 2024, three of the four papers in the field's "AI-as-analogy" quadrant were LLM-based, including best-paper work on LLM-based teachable agents.
+**Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed framework]] gives this intuition empirical grounding: locating papers from AIED proceedings (1985, 1993, 2021, 2024) and IJAIED (2004, 2014, 2021) along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user — they trace a field that moved from a diverse mix, including substantial early research using AI as an analogy to human intelligence (computational models of learning, Papert's microworlds, agent-based models of knowledge acquisition), toward a near-exclusive focus on applied, instrumental uses by the 2000s. Notably, the generative-AI era appears to partially reverse that trajectory: by AIED 2024, three of the four slots in the "AI-as-analogy" quadrant were LLM-built, and one of those took a best-paper award for LLM-powered [[learning-by-teaching|teachable agents]].
 
 ## The recent impact of generative AI
 
@@ -45,7 +45,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 **A new kind of capability.** Earlier AIED systems modeled cognition and delivered structured instruction (the Anderson tradition). LLMs perform open-ended generation — producing essays, explanations, code, and dialogue — which foregrounds learner agency and creativity (the Papert tradition) in ways earlier ITS could not. This is why the current moment re-ignites the control-vs-agency tension so sharply: the same tool can be deployed as a next-generation intelligent tutor (controlling outcomes) or as a creative co-writer and thinking partner (amplifying agency).
 
-**A reversal of the access equation.** Historically, personalized tutoring was scarce and expensive; GenAI made adaptive one-on-one support nearly free and universal — dramatically lowering the accessibility and cost barriers that shaped earlier AIED. But it also introduced new risks: algorithmic bias, hallucination, surveillance, data collection, and the de-skilling of educators.
+**A reversal of the access equation.** Historically, personalized tutoring was scarce and expensive; GenAI made adaptive one-on-one support nearly free and universal — dramatically lowering the accessibility and cost barriers that shaped earlier AIED. But it also introduced new risks: [[bias-mitigation|algorithmic bias]], [[hallucination-risk|hallucination]], surveillance, data collection, and the de-skilling of educators.
 
 **Renewed concern about AI literacy and misuse.** The generative-AI era made [[ai-literacy]] urgent and reframed [[academic-integrity]] debates (detection vs. dialog), while reviving long-standing concerns about automation, standardization, and epistemic dependence. These are the modern expressions of the field's original tensions.
 
@@ -72,14 +72,14 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 **For instructors and instructional designers**
 
-- Name the tradition your tool belongs to before adopting it. Ask whether it optimizes toward fixed outcomes or opens learner direction, because that answer, not the feature list, determines what it will do to your assessment design.
+- Name the tradition your tool belongs to before adopting it. Ask whether it optimizes toward fixed outcomes or opens learner direction, because that answer, not the feature list, determines what it will do to your [[assessment|assessment design]].
 - Interrogate the word "personalized" in every vendor claim, and get an answer in terms of the two senses above. A product that varies pacing toward a common standard and one that lets students diverge are not substitutes.
 - When students present GenAI as unprecedented, the history is teachable content in its own right. The Anderson-Papert framing gives them a vocabulary for arguing about AI rather than only using it.
 
 **For developers**
 
 - Interface language is a design decision with a lineage. Calling your system an "AI tutor" inherits Anderson's framing and the expectation of optimizing toward standard outcomes; calling it a "microworld" or "learning environment" inherits Papert's. Neither is neutral, so choose deliberately.
-- If you are building in the analogy tradition (models of learning, teachable agents, simulations of knowledge acquisition), say so. That quadrant was nearly empty for two decades and is repopulating; the positioning is a differentiator and the evaluation criteria are different.
+- If you are building in the analogy tradition (models of learning, teachable agents, [[simulation|simulations]] of knowledge acquisition), say so. That quadrant was nearly empty for two decades and is repopulating; the positioning is a differentiator and the evaluation criteria are different.
 
 **For researchers**
 

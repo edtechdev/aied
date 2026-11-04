@@ -16,7 +16,7 @@ discipline: [cs education]
 methods: [rct]
 ---
 
-> **Synthesis:** > AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level [[machine-learning|machine learning]] course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable scaffolds that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.
+> **Synthesis:** > AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level [[machine-learning|machine learning]] course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable [[scaffolding|scaffolds]] that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.
 
 ## Key Findings
 
@@ -48,7 +48,7 @@ The behavioral results were consistent with the two headline effects: a +10.81pp
 
 ### RQ2 — Usage Patterns
 
-Interviews with all 11 TAs revealed that drafts functioned as **editable scaffolds**. TAs frequently struggled to *articulate* feedback even when they could identify an issue; the personalized, specific drafts helped translate implicit judgments into clear comments and made it easier to phrase feedback they already wanted to give (e.g., T1: "I wouldn't know how to give them the feedback the right way... and the templates would do it in such a good way"). Drafts also supported **verification** — helping TAs confirm their interpretation of a student response and refine tone or specificity. TAs therefore treated the AI output as an intermediate artifact to be shaped, not as an authoritative final product, reflecting a human-in-the-loop relationship rather than delegation to an autonomous agent.
+Interviews with all 11 TAs revealed that drafts functioned as **editable scaffolds**. TAs frequently struggled to *articulate* feedback even when they could identify an issue; the personalized, specific drafts helped translate implicit judgments into clear comments and made it easier to phrase feedback they already wanted to give (e.g., T1: "I wouldn't know how to give them the feedback the right way... and the templates would do it in such a good way"). Drafts also supported **verification** — helping TAs confirm their interpretation of a student response and refine tone or specificity. TAs therefore treated the AI output as an intermediate artifact to be shaped, not as an authoritative final product, reflecting a [[human-in-the-loop-ai|human-in-the-loop]] relationship rather than delegation to an autonomous agent.
 
 ### RQ3 — Student Experience
 
@@ -59,7 +59,7 @@ The increased provision did not degrade downstream outcomes. Students rated AI-a
 - **Instructors.** Target the AI at discretionary work rather than required work: with nothing else changed, showing TAs a draft lifted feedback provision by 10.81 percentage points (SE = 1.10, p < 0.001) in a course where giving feedback was optional.
 - **Instructors.** Surface the draft only after grading is finished, so the AI supports articulating and verifying a judgment the TA has already made instead of substituting for it — the two-stage design that limited [[trust-calibration|over-reliance]].
 - **Instructors.** Keep drafts use-or-edit-or-ignore: the flat time-per-character result (0.29 s/char) shows the design buys task initiation, not the removal of review effort, and TAs should keep spending that effort.
-- **Instructors.** Deploy the pattern where personalized [[feedback]] is pedagogically important but TA time is scarce — large-enrollment courses — and judge it on participation and perceived usefulness, not on efficiency alone.
+- **Instructors.** Deploy the pattern where personalized [[feedback]] is pedagogically important but TA time is scarce — large-enrollment courses — and judge it on participation and [[technology-acceptance-model|perceived usefulness]], not on efficiency alone.
 - **Instructors.** Treat human oversight as a fixed constraint, not an efficiency to optimize away; the authors are explicit that preserving review caps the possible effort savings relative to an autonomous pipeline.
 
 ## Limitations

@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for [[student-support-and-success|student support]] at scale.
+> **Synthesis:** **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current [[llm|large language models]] can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for [[student-support-and-success|student support]] at scale.
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ page_kind: [evaluation]
 2. **Support was frequently allocated without regard to who needed it most.** Recommendations were often offered to both at-risk and thriving students, sometimes favoring those already well-resourced — contradicting the Multi-Tiered System of Supports (MTSS) assumption that the greatest needs should receive the most intensive, individualized support.
 3. **Large cross-model inconsistency.** The three LLMs diverged sharply in what they recommended. GPT favored resource-based/self-paced support (mean support level 3.96, duration 7.86h); Mistral mostly prescribed individualized or hybrid support (mean level 6.77, duration 6.70h); Qwen favored instructor/advisor-led and peer-based support (mean level 4.77, longest duration 9.00h). The same student profile can therefore yield very different prescriptions depending on the model used.
 4. **Model-specific behavioral biases surfaced in the synthetic data.** GPT generated more Global North profiles and used they/them pronouns; Qwen generated more [[global-south|Global South]] profiles; Mistral skewed toward she/her. These downstream demographic distributions indicate the models carry regional and gendered tendencies into the profiles they construct, with implications for [[equity-in-ai-education]].
-5. **LLMs are not yet reliable as prescriptive models at scale.** The authors conclude that current models cannot ethically, consistently, and reliably deliver student-support prescriptions, and argue that extensive evaluation, fine-tuning, and [[reinforcement-learning|reinforcement learning]] — plus a **human in the loop** — remain necessary before deployment.
+5. **LLMs are not yet reliable as prescriptive models at scale.** The authors conclude that current models cannot ethically, consistently, and reliably deliver student-support prescriptions, and argue that extensive evaluation, [[llm-training-and-fine-tuning|fine-tuning]], and [[reinforcement-learning|reinforcement learning]] — plus a **[[human-in-the-loop-ai|human in the loop]]** — remain necessary before deployment.
 
 ## What this means for practice
 

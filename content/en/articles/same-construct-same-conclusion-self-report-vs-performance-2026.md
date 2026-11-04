@@ -32,7 +32,7 @@ source_depth: full text
 3. **The observability hypothesis did not reach significance.** LOW-labeled entries were discordant or mixed in 14/31 cases against 6/17 for HIGH-labeled ones (p = 0.555); a stricter paired subset of nine entries gave p = 0.524.
 4. **The direction reversed between the two analyses**, from 14/31 versus 6/17 in the complete synthesis to 1/4 versus 3/5 in the restricted subset, so the review declines to claim any stable ordering.
 5. **Discordance is not mainly self-report inflation.** Among the contrasts carrying a clear direction, five paired a non-significant self-report result with a positive performance result, against only two showing the reverse.
-6. **Constructs behaved very unevenly.** Critical- and computational-thinking entries were discordant or mixed in 13/23 cases, while engagement (0/4), [[self-regulated-learning|self-regulated learning]] (0/2) and [[collaborative-learning|collaboration]] (0/1) were concordant throughout.
+6. **Constructs behaved very unevenly.** Critical- and [[computational-thinking]] entries were discordant or mixed in 13/23 cases, while engagement (0/4), [[self-regulated-learning|self-regulated learning]] (0/2) and [[collaborative-learning|collaboration]] (0/1) were concordant throughout.
 7. **Authors mostly explained disagreement in study-specific terms.** Construct complexity (43%) and instrument features (24%) dominated their accounts, and three quarters of the 21 explanations sat far or moderate from the review's own framework.
 
 ## The assumption underneath a self-report item

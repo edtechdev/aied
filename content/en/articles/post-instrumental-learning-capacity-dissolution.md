@@ -16,7 +16,7 @@ confidence: high
 
 ## Key Findings
 
-- If the case for learning rests only on current AI failures — bias, opacity, hallucination, labor extraction, privacy risk, and weak accountability — then each technical improvement appears to weaken it.
+- If the case for learning rests only on current AI failures — bias, opacity, [[hallucination-risk|hallucination]], labor extraction, privacy risk, and weak accountability — then each technical improvement appears to weaken it.
 - The article develops an idealization of AI that executes specified tasks flawlessly while lacking authority over purposes, legitimacy, and responsibility, and argues for post-instrumental learning that preserves the capacities people and institutions need when many useful outputs can be delegated.
 - Five capacities are analyzed — end-setting, reason-giving, contestability, refusal/revision, and participation — and their erosion is named capacity dissolution.
 - The central case is [[assessment]] under [[generative-ai|generative AI]]: when a polished artifact no longer reliably evidences understanding, institutions must assess the learner's accountable relation to AI-mediated work rather than the artifact alone.
@@ -33,8 +33,8 @@ The article translates the argument into a deployment-review question: what will
 ## What this means for practice
 
 - **Instructors.** Ask of every assessment, "what will this student stop learning if the AI does this work?" and require students to defend source selection, explain revisions, and answer for the claims in their artifacts.
-- **Instructors.** Build at least one task per course around the four limits that perfect execution cannot remove — end-setting, reason-giving, contestability, and participation — rather than adding AI-detection rules.
-- **Researchers.** Treat validity as the first question of an AI policy rather than cheating: measure whether an assignment still evidences the capacity it claims to assess.
+- **Instructors.** Build at least one task per course around the four limits that perfect execution cannot remove — end-setting, reason-giving, contestability, and participation — rather than adding [[ai-detection]] rules.
+- **Researchers.** Treat validity as the first question of an [[educational-policy-ai|AI policy]] rather than cheating: measure whether an assignment still evidences the capacity it claims to assess.
 - **Administrators.** Guarantee a contestability path — records, trained intermediaries, meaningful appeal, and public settings where reasons can be tested — so that AI-mediated decisions remain answerable.
 - **Researchers.** Test the dissolution claim directly by tracking which capacities decline once a delegated task is automated, instead of only whether outputs improve.
 

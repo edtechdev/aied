@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- If you were a student who used generative AI for an assignment, would you tell your instructor? This page suggests the honest answer is heavily shaped by fear — research finds disclosure is rare, driven by 'penalty anxiety' and worries about self-incrimination. What assumptions about your own disclosure behavior might you need to question?
+- If you were a student who used generative AI for an assignment, would you tell your instructor? This page suggests the honest answer is heavily shaped by fear — research finds disclosure is rare, driven by 'penalty [[anxiety-and-stress|anxiety]]' and worries about self-incrimination. What assumptions about your own disclosure behavior might you need to question?
 - The central design question here is whether disclosure functions as surveillance or as a scaffold for ethical engagement. Before reading, which did you assume a disclosure form was trying to do — and can you think of a way the same form could serve the opposite purpose?
 - One striking finding is that students who always disclosed had over three times the odds of being accused of cheating — transparency invited suspicion. If honesty can increase suspicion, what does that say about how we should design trust between students and instructors?
 - This page distinguishes mandatory compliance mechanisms from formative disclosure practices that build AI literacy and self-regulation. Which of these do you think your own institution's approach most resembles, and what would have to change for it to become the other?
@@ -58,7 +58,7 @@ The modeling work of [[mohamed-temimi-assessment-imperfect-information-disclosur
 
 Surveying the GenAI guidance of the 50 US universities ranked most innovative, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] locates disclosure at the boundary between assistance and misrepresentation: where AI is permitted, institutions instruct students to acknowledge, cite or otherwise document AI assistance rather than present outputs as entirely their own, with libraries — not integrity offices — holding authority over citation and provenance standards. MIT Libraries' framing that AI is not an author, leaving authors responsible for documenting how tools contributed, exemplifies the pattern, and Qian reads disclosure simultaneously as an integrity norm, a design principle that reduces ambiguity before submission, and one of four integrity pillars alongside accountability, [[equity-in-ai-education|equity]] and [[privacy]]. This is the same non-forensic use the section describes, and it is why Qian recommends institutionalizing libraries as the citation authority rather than expanding detection.
 
-- **Disclosure carries a trust penalty, and legitimacy is the argued mechanism.** In thirteen experiments, mostly with United States online panelists and pooled at 4,093 observations (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), an actor who disclosed AI use was trusted less than one who stayed silent ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]). The effect survived six disclosure framings, an evaluator who already knew AI had been used, and both mandatory and voluntary regimes. It is the experimental counterpart to the survey finding above that always-disclosing students faced over three times the odds of an accusation: transparency itself can cost the discloser. The paper's one student-facing result is that students trusted a professor less when she disclosed AI grading.
+- **Disclosure carries a trust penalty, and legitimacy is the argued mechanism.** In thirteen experiments, mostly with United States online panelists and pooled at 4,093 observations (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), an actor who disclosed AI use was trusted less than one who stayed silent ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]). The effect survived six disclosure framings, an evaluator who already knew AI had been used, and both mandatory and voluntary regimes. It is the experimental counterpart to the survey finding above that always-disclosing students faced over three times the odds of an accusation: transparency itself can cost the discloser. The paper's one student-facing result is that students trusted a professor less when she disclosed [[automated-assessment|AI grading]].
 - **A content label changes the description, not the verdict.** With 617 adults randomly assigned to see or not see an "AI-Generated Content/Synthetic Video" label, the label lowered perceived authenticity (means of 4.92 without and 4.21 with) but left trust (B = -0.130, p = 0.216), risk, adoption and sharing unchanged ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang and Zhang (2026)]]).
 
 ## Designing effective disclosure
@@ -79,7 +79,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - **"Mandatory declaration policies produce disclosure."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at a business school. The requirement did not produce the behavior it mandated.
 - **"Students hide AI use because they are dishonest."** The drivers are documented and specific: only **about 34% of economics students admitted AI use** with disclosure rarer, driven by **penalty anxiety**, while another study found **66% never or rarely disclosed** with **fear of academic penalty the top reason**. The policy design, not character, is what the data implicate.
 - **"A disclosure requirement is a low-cost control."** A **74% non-compliance rate** makes the resulting record worse than no record: it is a dataset that appears complete and is not, so the institution is making decisions on a sample it cannot trust.
-- **"Disclosing how the model was used is enough."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argues disclosure documents model use while responsible use requires claim-level authorial warrant — the contributor's capacity to understand, justify and defend the claims — separating cognitive delegation, where outputs shape substantive choices, from routine delegation, which does not.
+- **"Disclosing how the model was used is enough."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argues disclosure documents model use while responsible use requires claim-level authorial warrant — the contributor's capacity to understand, justify and defend the claims — separating [[cognitive-offloading|cognitive delegation]], where outputs shape substantive choices, from routine delegation, which does not.
 
 ## Connected Concepts
 

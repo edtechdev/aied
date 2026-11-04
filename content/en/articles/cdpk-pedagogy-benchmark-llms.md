@@ -40,7 +40,7 @@ methods: [ai-ed-evaluation, benchmark]
 - Rank order is not resolvable at the top: with bootstrap confidence intervals and repeated runs, the difference between the first- and second-place models is less than 1%, though differences across the full range are robust.
 - Every question comes from a single source — the Chilean Ministry of Education's teacher-development exams — and all items were translated from Spanish into English, so pedagogical priorities valued elsewhere and translation nuance may be misrepresented; comparable exams from other countries were not openly licensed.
 - One standardized few-shot prompt (three fixed examples) was used for all 97 models, a setting the authors note may handicap reasoning models, which have a separate output space.
-- The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or scaffolding a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
+- The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or [[scaffolding]] a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
 
 ## Citation
 

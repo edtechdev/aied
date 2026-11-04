@@ -28,7 +28,7 @@ confidence: high
 
 ## Agenda for the future — four respects
 
-- **Respect for scholarship:** design GenAI integration starting from known feedback challenges (e.g. ipsative feedback across modules) rather than from comment generation; [[research-methods-aied|research]] beyond self-report.
+- **Respect for scholarship:** design GenAI integration starting from known feedback challenges (e.g. ipsative feedback across modules) rather than from comment generation; [[research-methods-aied|research]] beyond [[self-report-measures|self-report]].
 - **Respect for equity:** [[equity-in-ai-education|equitable]] access to meaningful feedback encounters; [[scaffolding|scaffold]] feedback literacies and evaluative judgment to avoid amplifying Matthew effects; respect conscientious objectors to GenAI.
 - **Respect for professional craft:** distinguish what GenAI cannot replicate (relationship-rich, multimodal, dialogic feedback); protect against de-prioritizing care-full feedback because it is labor-intensive.
 - **Respect for human connection:** preserve [[situated-learning|situated]], meaningful, care-full elements of feedback encounters; study how trust, connection, and [[student-engagement|engagement]] evolve as GenAI enters the ecosystem.
@@ -38,7 +38,7 @@ confidence: high
 - **Instructors.** Treat generated text as feedback information rather than feedback: design the sense-making step — a dialogic follow-up, a comparison task, an explicit action plan — because "bits and bytes" without uptake do not constitute feedback.
 - **Instructors.** Start GenAI integration from a known feedback challenge (for example, ipsative feedback that shows progress across modules) instead of from comment generation, which is where mass-produced speed invites the same weaknesses as comment banks and quick marks.
 - **Instructors.** Keep the dialogic and [[multimodal]] encounters human-led and [[human-in-the-loop-ai|in the loop]]: [[generative-ai|GenAI]] lacks genuine dialogue, and outsourcing comment production risks eroding the craft even when a human approves the output.
-- **Instructors.** Coach epistemic vigilance rather than blanket trust or distrust: students ascribe less trust to AI feedback than to human feedback and algorithm aversion makes that trust fall sharply after errors, so pair AI comments with human feedback and [[evaluative-judgment|evaluative judgment]] tasks.
+- **Instructors.** Coach epistemic vigilance rather than blanket trust or distrust: students ascribe less trust to [[ai-feedback-quality|AI feedback]] than to human feedback and algorithm aversion makes that trust fall sharply after errors, so pair AI comments with human feedback and [[evaluative-judgment|evaluative judgment]] tasks.
 - **Instructors.** Protect care-full feedback from being de-prioritized because it is labor-intensive, and respect students who conscientiously object to using GenAI at all.
 
 ## Limitations

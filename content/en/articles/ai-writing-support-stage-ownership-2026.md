@@ -40,7 +40,7 @@ level: [higher ed]
 ## Limitations
 
 - The study ran remotely on Prolific with 253 paid participants (mean age 38; 99% native English speakers), and 18% of submissions were rejected before analysis for using unapproved external AI tools; the authors state that controlled studies cannot replicate authentic in-the-wild engagement.
-- Participants wrote a 200–300 word argumentative essay with no real stakes, in a genre AI handles well, and the authors note the grading rubric may be biased toward the stylistic fluency their human and LLM graders share.
+- Participants wrote a 200–300 word argumentative essay with no real stakes, in a genre AI handles well, and the authors note the grading rubric may be biased toward the stylistic fluency their human and [[llm]] graders share.
 - Writing was forced into a linear outline → draft → revise sequence that the authors call "somewhat artificial," with AI drafting allowed only once and no multi-turn conversation, unlike the looping real writing process.
 - Ownership was measured post-task with a single 7-point Likert item ("I feel this piece of writing is truly mine"), and the sample consists of amateur writers, whom the authors expect to respond differently from professionals.
 

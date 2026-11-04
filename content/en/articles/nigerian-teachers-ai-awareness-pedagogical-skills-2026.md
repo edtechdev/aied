@@ -52,7 +52,7 @@ The subgroup results are small but consistent. Male teachers reported slightly h
 ## What this means for practice
 
 - **Instructors.** Do not assume that colleagues who can describe generative AI can also teach with it. The study separates awareness from pedagogical skill, so self-assessed familiarity is a poor guide to who needs support with lesson design.
-- **Faculty developers.** Build training around enactment rather than explanation. Since awareness ran well ahead of skill and experience did not close the gap, a program of tool demonstrations will leave the reported deficit in place; design for planning, prompting and assessment tasks instead.
+- **Faculty developers.** Build training around enactment rather than explanation. Since awareness ran well ahead of skill and experience did not close the gap, a program of tool demonstrations will leave the reported deficit in place; design for planning, [[prompt-engineering|prompting]] and assessment tasks instead.
 - **Policymakers and administrators.** Target professional development at the awareness-skill gap and watch for the subgroup pattern. Small gender differences and a skill advantage among early-career teachers suggest provision should be differentiated rather than uniform.
 - **Researchers.** Treat the awareness-skill distinction as the default measurement choice. A single readiness score would have concealed the central finding here, and replication across other Sub-Saharan systems would test whether the gap is regional or general.
 

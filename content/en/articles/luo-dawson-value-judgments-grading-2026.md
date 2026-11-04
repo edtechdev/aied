@@ -16,7 +16,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading GenAI-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge: person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust) and justice-oriented (fairness, beneficence), across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
+> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading [[generative-ai|GenAI]]-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge: person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust) and justice-oriented (fairness, beneficence), across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
 
 Luo and Dawson (2026) ask the question students keep asking: will I get lower grades if I use GenAI? Their answer is that there may never be a definitive one. Drawing on scenario-based interviews with 33 university teachers across the Greater Bay Area of China, the study shows that grading GenAI-assisted work is not a technical application of criteria but an exercise in value judgment — teachers conjecture about who the student is, what they are capable of, how they relate to others and whether the decision does good.
 
@@ -28,14 +28,14 @@ The sample skews toward junior and teaching-track staff (25 of 33 had 0–5 year
 1. Grading is a value judgment, not neutral measurement: teachers prioritize often-implicit values, and many here were unaware of the orientations behind their own grading.
 2. Person-oriented values (22 instances) turn on honesty and diligence: concealed use was read as dishonesty, use as laziness, but failure to engage with GenAI as a lack of diligence.
 3. Capability-oriented values (33 instances) were most frequent, but what counts as capability became murky: independence emerged as the key marker, implicitly ranking "completely human" work above AI-assisted work.
-4. The same teacher can hold competing values: one industrial design teaching assistant graded on acknowledged quality, then instinctively ranked the AI-free student higher, then conceded equal grades were fairest.
+4. The same [[teacher-role|teacher]] can hold competing values: one industrial design teaching assistant graded on acknowledged quality, then instinctively ranked the AI-free student higher, then conceded equal grades were fairest.
 5. Relation-oriented values (7 instances) center on trust — built over time, and threatened when honest disclosure is penalized despite policies permitting GenAI use.
-6. Justice-oriented values (4 instances) cover fairness (resentment among independent students, incentives to game the system) and beneficence (avoiding harm from false accusation).
+6. Justice-oriented values (4 instances) cover fairness (resentment among independent students, incentives to game the system) and beneficence (avoiding harm from [[legal-issues-and-risks|false accusation]]).
 7. Validity is the proposed pathway forward, paired with two-way transparency about whether GenAI use is acceptable and how it will affect grades.
 
 ## Four value clusters, one messy space
 
-Person- (22) and capability-oriented (33) values were invoked far more often than relation- (7) and justice-oriented (4) ones. Ethics cuts across all of them, since fairness, honesty and trust are morally loaded, though the authors make ethics no standalone cluster to avoid overlap; they also note that perceived diligence could tip borderline cases. The practical result is inconsistency: a teacher may reward skillful GenAI use as evidence of critical thinking in one scenario and penalize declared use in the next, while perceived diligence could tip borderline cases. The authors call this a "messy grading space full of tension and inconsistency," warning that leaving it unaddressed invites student distrust, biased grading and weakened credibility of academic certification.
+Person- (22) and capability-oriented (33) values were invoked far more often than relation- (7) and justice-oriented (4) ones. [[ethics]] cuts across all of them, since fairness, honesty and trust are morally loaded, though the authors make ethics no standalone cluster to avoid overlap; they also note that perceived diligence could tip borderline cases. The practical result is inconsistency: a teacher may reward skillful GenAI use as evidence of [[critical-thinking|critical thinking]] in one scenario and penalize declared use in the next, while perceived diligence could tip borderline cases. The authors call this a "messy grading space full of tension and inconsistency," warning that leaving it unaddressed invites student distrust, biased grading and weakened credibility of academic certification.
 
 ## Explaining the variation
 
@@ -48,8 +48,8 @@ Validity — the degree to which grades represent what they are meant to — is 
 ## What this means for practice
 
 - **Instructors.** Examine the value judgments behind your grades — honesty, effort, trust — and decide whether your course rewards skillful GenAI use or independent work; left implicit, this costs grades their validity.
-- **Faculty development.** Workshops should build evaluativist reasoning: whether critical thinking must be demonstrated unaided or with GenAI.
-- **Assessment design.** Review rubrics against what the assessment is meant to assess; at minimum, state your stance on GenAI in assignments and its grading consequences.
+- **[[educational-development|Faculty development]].** Workshops should build evaluativist reasoning: whether critical thinking must be demonstrated unaided or with GenAI.
+- **[[assessment|Assessment design]].** Review rubrics against what the assessment is meant to assess; at minimum, state your stance on GenAI in assignments and its grading consequences.
 - **Program leaders.** Where teaching assistants carry major grading responsibility (16 of 33 participants), instructors and graders need clear communication to grade consistently.
 - **Researchers.** Triangulate — observe real grading with think-aloud protocols, and analyze policies, rubrics and work samples.
 

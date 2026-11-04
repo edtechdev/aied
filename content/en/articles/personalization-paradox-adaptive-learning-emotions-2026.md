@@ -13,12 +13,12 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** This three-wave longitudinal study of 486 Chinese [[higher-ed|undergraduates]] found that perceiving one's [[adaptive-learning|AI-adaptive learning environment]] as highly personalized was negatively associated with [[self-regulated-learning|self-regulated learning]], evidencing the "[[personalized-learning|personalization]] paradox." Changes in academic emotions—reduced enjoyment and increased anxiety and boredom—mediated more than half of this effect, while [[ai-literacy|AI literacy]] buffered the emotional harm, moderating the first stage of the pathway.
+> **Synthesis:** This three-wave longitudinal study of 486 Chinese [[higher-ed|undergraduates]] found that perceiving one's [[adaptive-learning|AI-adaptive learning environment]] as highly personalized was negatively associated with [[self-regulated-learning|self-regulated learning]], evidencing the "[[personalized-learning|personalization]] paradox." Changes in academic emotions—reduced enjoyment and increased [[anxiety-and-stress|anxiety]] and boredom—mediated more than half of this effect, while [[ai-literacy|AI literacy]] buffered the emotional harm, moderating the first stage of the pathway.
 
 ## Key Findings
 
 - **The personalization paradox is empirically supported.** Students who perceived their AI-adaptive environment as more personalized reported weaker self-regulated learning, and this negative association held even after accounting for the emotional pathways.
-- **Academic emotions carry much of the mechanism.** Reduced enjoyment together with heightened anxiety and boredom explained more than half of the total effect linking perceived personalization to weaker self-regulation. Because a direct effect remained after accounting for these routes, the mediation is partial rather than full, suggesting other cognitive or motivational mechanisms also contribute.
+- **Academic emotions carry much of the mechanism.** Reduced enjoyment together with heightened anxiety and boredom explained more than half of the total effect linking perceived personalization to weaker self-regulation. Because a direct effect remained after accounting for these routes, the mediation is partial rather than full, suggesting other cognitive or [[motivation|motivational]] mechanisms also contribute.
 - **Adaptive environments reshape the emotional profile.** Perceiving greater personalization was tied to less enjoyment and more anxiety and boredom; enjoyment in turn supported self-regulated learning, while anxiety and boredom impaired it.
 - **AI literacy is a protective moderator.** The negative emotional associations with adaptive environments were pronounced among students low in AI literacy but weakened substantially—in several cases to statistical non-significance—among those with high AI literacy. This buffering was strongest on the environment-to-emotion links, consistent with the view that literacy shapes how learners appraise the system rather than how they regulate afterward.
 
@@ -26,20 +26,20 @@ level: [higher ed]
 
 A three-wave longitudinal survey was administered across one semester to 486 undergraduates recruited via stratified cluster sampling from 28 classes at four Chinese universities. At T1 (weeks 2–3) students reported their perception of the AI-adaptive environment, their AI literacy, and demographics; at T2 (weeks 9–10) they reported academic emotions (enjoyment, anxiety, boredom) via a Chinese adaptation of the Achievement Emotions Questionnaire; at T3 (weeks 16–17) they reported self-regulated learning using an adaptation of the Self-Regulated Learning Interview Schedule. Retention was high, and the modest attrition appeared random.
 
-Integrating control-value theory and self-regulated learning theory, the researchers estimated a moderated mediation structural equation model with latent interaction terms, cluster-robust standard errors to account for students nested in classes, and full-information maximum likelihood for missing data. AI literacy was modeled as a moderator of only the first-stage (environment → emotion) pathways, since emotions were theorized to influence self-regulated learning largely automatically. Analyses controlled for gender, academic year, discipline, weekly AI use hours, and primary AI tool type.
+Integrating control-value theory and self-regulated [[learning-theories|learning theory]], the researchers estimated a moderated mediation structural equation model with latent interaction terms, cluster-robust standard errors to account for students nested in classes, and full-information maximum likelihood for missing data. AI literacy was modeled as a moderator of only the first-stage (environment → emotion) pathways, since emotions were theorized to influence self-regulated learning largely automatically. Analyses controlled for gender, academic year, discipline, weekly AI use hours, and primary AI tool type.
 
 ## What this means for practice
 
 - **Instructors.** Turn reflective use into an assessed routine: have students record when an algorithmic recommendation displaced their own plan and tutor them to interrogate recommendations instead of accepting the default path.
 - **Instructors.** Read the emotional signal as a design warning: reduced enjoyment and increased anxiety and boredom carried 54.8% of the total association between perceived personalization and weaker self-regulated learning.
 - **Designers.** Build learner autonomy into the interface so students can adjust or reject recommendations, and surface the rationale behind a recommendation, because the negative environment-to-emotion paths weakened to statistical non-significance among students high in AI literacy.
-- **Administrators.** Fund AI literacy as a credit-bearing component of digital citizenship and emotional well-being rather than a one-off workshop, and pair it with faculty professional development.
+- **Administrators.** Fund AI literacy as a credit-bearing component of digital citizenship and emotional [[well-being]] rather than a one-off workshop, and pair it with faculty [[educational-development|professional development]].
 - **Researchers.** Put the mechanism to an experimental test: the three waves separate measurement occasions but do not establish causality, so an RCT or cross-lagged panel design is what the emotional pathway claim still needs; the authors also call for studying AI literacy interventions and cross-cultural variation rather than assuming AI efficiency benefits learning by default.
 
 ## Limitations
 
 - **Observational design** — despite temporal separation of waves, causal inference is limited; [[rct|RCTs]] or cross-lagged panel designs are needed.
-- **Self-reported measures** — potential bias; future work should add behavioral logs, eye-tracking, or physiological indices; **Common method bias** — assessed and found minimal, but not fully ruled out without multi-method designs.
+- **[[self-report-measures|Self-reported]] measures** — potential bias; future work should add behavioral logs, eye-tracking, or physiological indices; **Common method bias** — assessed and found minimal, but not fully ruled out without multi-method designs.
 - **Restricted generalizability** — the Chinese undergraduate sample limits cross-cultural conclusions, given that AI acceptance and trust vary by context.
 - **Aggregated AI tool measure** — diverse tools were collapsed into a single composite, possibly masking tool-specific effects.
 

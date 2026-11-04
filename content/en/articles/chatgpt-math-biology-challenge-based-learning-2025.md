@@ -14,14 +14,14 @@ sources: ['raw/papers/chatgpt-math-biology-challenge-based-learning-2025.md']
 confidence: high
 audience: [instructors, administrators]
 ---
-> **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **ChatGPT within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of [[biology-education|Biological]] Systems* (biology) and *[[math-education|Mathematics]] and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and [[accessibility]]** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use ethics**, and note that [[teacher-role|teachers]] should be prepared to use AI and that AI-text detectors should be available for evaluation. 
+> **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **[[generative-ai|ChatGPT]] within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of [[biology-education|Biological]] Systems* (biology) and *[[math-education|Mathematics]] and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and [[accessibility]]** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use [[ethics]]**, and note that [[teacher-role|teachers]] should be prepared to use AI and that AI-text detectors should be available for evaluation. 
 
 ## Design and context
 
 - **Setting:** Tecnológico de Monterrey, two digital (distance-learning) higher-education courses: biology (Fundamentals of Biological Systems) and mathematics/data science.
 - **[[pedagogy]]:** challenge-based learning (CBL) under the Tec21 educational model — students address real challenges, here using ChatGPT to solve assigned activities.
 - **Verification step:** students were explicitly instructed to validate ChatGPT's outputs against formal, high-academic-quality sources.
-- **Method:** surveys (Likert-scale items) plus NLP analysis of open-ended responses — sentiment analysis, Latent Dirichlet Allocation (LDA), and Latent Semantic Analysis (LSA) topic modeling.
+- **Method:** surveys (Likert-scale items) plus NLP analysis of open-ended responses — [[affective-computing|sentiment analysis]], Latent Dirichlet Allocation (LDA), and Latent Semantic Analysis (LSA) topic modeling.
 
 ## Student perceptions (findings)
 
@@ -43,7 +43,7 @@ audience: [instructors, administrators]
 - The study is a pilot that measures perceptions — a concluding Likert survey plus NLP of open-ended responses — with no measure of [[learning-gains|learning outcomes]] or skill development.
 - The two courses differ sharply in size — 94 biology students across six campuses versus 392 mathematics/data-science students — and the authors attribute some cross-course variation to the smaller biology sample.
 - Sentiment analysis returned 90% neutral responses, which the authors read as limited familiarity with ChatGPT, so the thematic evidence is dominated by undifferentiated sentiment.
-- All data come from two distance-learning courses at a single institution, Tecnológico de Monterrey, so curriculum and context effects cannot be separated from the tool.
+- All data come from two distance-learning courses at a single institution, Tecnológico de Monterrey, so [[curriculum-design|curriculum]] and context effects cannot be separated from the tool.
 
 ## Citation
 

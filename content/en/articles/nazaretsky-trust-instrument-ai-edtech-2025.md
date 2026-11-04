@@ -33,7 +33,7 @@ reviewed_by: [editor]
 3. **Perceived obstacles did not reduce trust or readiness.** The hypothesized negative paths were not significant (H-OT standardized -0.09, p = .43; H-OR -0.13, p = .14), so the authors rejected both hypotheses.
 4. **Students trusted AI-EdTech only slightly above neutral.** Across all 665 students, Perceived Trust averaged 3.31 (σ = 0.66) on a 5-point scale, below Perceived Usefulness at 3.62 (σ = 0.68) and Perceived Readiness at 3.74 (σ = 0.86).
 5. **Demographics explained little of the variation.** Regression R² values were 8% for Perceived Usefulness, 5% for Obstacles, 2% for Readiness, and 1% for Trust, though male students reported lower obstacles (p < .001).
-6. **Students preferred teacher judgment over AI recommendations.** On item PT6, which asks whether they rely on an AI tool as much as on their teacher, the mean was 2.60 (σ = 1.13) on a 5-point scale.
+6. **Students preferred [[teacher-role|teacher]] judgment over AI recommendations.** On item PT6, which asks whether they rely on an AI tool as much as on their teacher, the mean was 2.60 (σ = 1.13) on a 5-point scale.
 
 ## What the four factors measure
 

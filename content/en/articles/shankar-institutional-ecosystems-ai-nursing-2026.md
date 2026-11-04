@@ -31,14 +31,14 @@ verified: [citation, numbers, links]
 
 > **Synthesis:** A published letter to the editor responding to [[rony-nursing-educators-ai-tpack-2025]], this piece grants that study's [[tpack]] framing and argues it stops one level too low: where Rony and colleagues reported what nursing educators in Bangladesh said, Shankar asks what institutions should do. "No training" and tools handed over "without a manual" become an implementation-infrastructure gap rather than a skills deficit, and four moves follow: a readiness checklist built on the Consolidated Framework for Implementation Research, an oversight committee with a register of approved tools, a warning about a two-tiered system, and consortium licensing.
 
-*This is a three-page letter, not a study: no data, no results. Its checklist, committee, and equity measures are recommendations, supported only by the literature it cites.*
+*This is a three-page letter, not a study: no data, no results. Its checklist, committee, and [[equity-in-ai-education|equity]] measures are recommendations, supported only by the literature it cites.*
 
 ## Key Findings
 
 1. The educators' reports of "no training" and of tools arriving "without a manual" are reread as a systemic infrastructure gap, not individual skill deficits.
 2. TPACK, on this reading, captures individual-level factors and misses the institutional, governance, and equity structures that decide whether AI is adopted safely and equitably.
 3. Proposal one is a readiness checklist built on the Consolidated Framework for Implementation Research, spanning the innovation, inner-setting determinants such as leadership and faculty capacity, outer-setting policy drivers, and educator preparedness.
-4. Proposal two is a standing oversight committee modeled on human-subjects review, with educators, students, IT staff, clinical partners, and ethics committees keeping a register of tools re-reviewed against data-protection, bias, and academic-integrity criteria.
+4. Proposal two is a standing oversight committee modeled on human-subjects review, with educators, students, IT staff, clinical partners, and [[ethics]] committees keeping a register of tools re-reviewed against data-protection, bias, and [[academic-integrity]] criteria.
 5. The equity warning: the study sampled institutions with advanced technological facilities, and infrastructure, broadband, and faculty-capacity gaps risk a two-tiered system favoring already-advantaged programs.
 6. The countermeasures are policy-level: government funding, public-private partnerships, and resource sharing through consortium licensing and shared cloud teaching resources.
 
@@ -48,7 +48,7 @@ Read as a skills problem, "no training" points to workshops; read as an infrastr
 
 ## What an oversight register would have to decide
 
-The committee borrows its form from research ethics review, appraising tools before and during deployment. The second half matters more: a register reviewed on a defined cycle implies surveillance of tools already in classrooms, not one procurement approval. Criteria are pedagogical effectiveness plus alignment with nursing's values of patient-centered care, equity, and professional integrity. Two principles are imported rather than derived: that AI augments rather than replaces expert judgment, and that tools be judged against international guidance on AI for health. Neither was written for teaching, and the letter does not say how benefit is weighed against data protection.
+The committee borrows its form from research ethics review, appraising tools before and during deployment. The second half matters more: a register reviewed on a defined cycle implies surveillance of tools already in classrooms, not one procurement approval. Criteria are [[pedagogy|pedagogical]] effectiveness plus alignment with nursing's values of patient-centered care, equity, and professional integrity. Two principles are imported rather than derived: that AI augments rather than replaces expert judgment, and that tools be judged against international guidance on AI for health. Neither was written for teaching, and the letter does not say how benefit is weighed against [[privacy|data protection]].
 
 ## The equity claim and what the sample can bear
 

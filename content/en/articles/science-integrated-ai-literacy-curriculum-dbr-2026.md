@@ -20,22 +20,22 @@ methods: [design-based-research, mixed-methods-research]
 - A two-year DBR process designed an informal science-integrated ML curriculum for high school youth, informed by a youth and AI-expert advisory board.
 - Participants in both cohorts gained ML knowledge, with Cohort 2 gains (M2-M1=0.175) exceeding Cohort 1 (M2-M1=0.076).
 - Participants who identified as female and non-White tended to show greater learning gains than their White male counterparts.
-- The project exemplifies a participatory curriculum design process that centers youth voices in an advisory capacity.
+- The project exemplifies a participatory [[curriculum-design|curriculum design]] process that centers youth voices in an advisory capacity.
 - Findings have implications for educational designers seeking to integrate AI/ML into existing curricula.
 
 ## What this means for practice
 
 - **Educators.** Teach machine learning through authentic science datasets and tools rather than as standalone computing content, so learners see how the technique serves a disciplinary question.
-- **Educators.** Use unplugged and online simulations alongside media such as *Coded Bias* to make ML's limitations and societal bias concrete: youth reported these activities as the clearest route to understanding what models get wrong.
-- **Curriculum designers.** Run explicit design-based research cycles with an advisory board of program alumni and industry experts, and revise the curriculum from interview, item-distractor, and survey evidence at each cycle.
-- **Curriculum designers.** Analyze wrong answers item by item to find the misconception behind each distractor, then rebuild the activity around it — the practice that drove the second iteration here.
-- **Researchers.** Report equity outcomes by subgroup rather than only as aggregate pre-post gains: the Cycle 2 revisions narrowed a persistent gender gap in ML general knowledge.
+- **Educators.** Use unplugged and online [[simulation|simulations]] alongside media such as *Coded Bias* to make ML's limitations and societal bias concrete: youth reported these activities as the clearest route to understanding what models get wrong.
+- **Curriculum designers.** Run explicit [[design-based-research|design-based research]] cycles with an advisory board of program alumni and industry experts, and revise the curriculum from interview, item-distractor, and survey evidence at each cycle.
+- **Curriculum designers.** Analyze wrong answers item by item to find the [[misconceptions|misconception]] behind each distractor, then rebuild the activity around it — the practice that drove the second iteration here.
+- **Researchers.** Report [[equity-in-ai-education|equity]] outcomes by subgroup rather than only as aggregate pre-post gains: the Cycle 2 revisions narrowed a persistent gender gap in ML general knowledge.
 
 ## Limitations
 
 - Both cohorts are small and non-random within one informal four-week summer program with no control group: Cohort 1 n = 35 and Cohort 2 n = 42, so gains (Cohort 2 M2−M1 = 0.175) cannot be attributed to the curriculum rather than to the program or to cohort composition.
 - Learning is indexed by pre- and post-institute survey responses rather than a standardized ML assessment, and the authors acknowledge the small sample may have reduced test power (for example, a gender comparison at p = 0.318).
-- Subgroup findings rest on self-reported gender and ethnicity, and interview data are retrospective accounts collected at the end of the program.
+- Subgroup findings rest on [[self-report-measures|self-reported]] gender and ethnicity, and interview data are retrospective accounts collected at the end of the program.
 - The authors name two unresolved limits: the long-term influence of the curriculum on students' AI knowledge, skills, attitudes, and career interests is unexamined, and the materials are not yet scaffolded for science educators in varied contexts.
 
 ## Citation

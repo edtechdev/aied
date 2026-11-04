@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Pan, Lai, Guo and Lin (2026) ask what changes when a conversational agent joins a shared reading text. In a quasi-experimental design, 63 Chinese undergraduate students from two classes worked through five reading tasks in five consecutive weeks on the social annotation platform CollaboRead. One class (N = 33) annotated with a [[generative-ai|GenAI]] chatbot (GPT-4o mini) that scaffolded both cognitive presence and social presence; the other (N = 30) annotated without it. The GenAI-assisted class reported higher cognitive engagement and emotional engagement and scored higher on reading performance, with no significant difference in behavioral engagement. Epistemic network analysis of the logs showed the assisted class tying social presence to integration and resolution, yet the benefit was uneven: high-achieving groups wove the scaffolding into their discourse far more than low-achieving groups, which stayed in a self-referential loop.
+> **Synthesis:** Pan, Lai, Guo and Lin (2026) ask what changes when a [[conversational-ai|conversational agent]] joins a shared reading text. In a quasi-experimental design, 63 Chinese undergraduate students from two classes worked through five reading tasks in five consecutive weeks on the social annotation platform CollaboRead. One class (N = 33) annotated with a [[generative-ai|GenAI]] chatbot (GPT-4o mini) that scaffolded both cognitive presence and social presence; the other (N = 30) annotated without it. The GenAI-assisted class reported higher cognitive engagement and emotional engagement and scored higher on reading performance, with no significant difference in [[student-engagement|behavioral engagement]]. Epistemic network analysis of the logs showed the assisted class tying social presence to integration and resolution, yet the benefit was uneven: high-achieving groups wove the [[scaffolding]] into their discourse far more than low-achieving groups, which stayed in a self-referential loop.
 
 ## Key Findings
 
@@ -42,7 +42,7 @@ Two intact classes of Chinese undergraduate English majors took part, 63 student
 
 ## What the network analysis showed
 
-Epistemic network analysis renders each group's discourse as a graph of co-occurring codes. The experimental class's network pulled social presence together with integration and resolution; the control class linked social presence more to triggering and exploration. The X-axis separated the classes significantly (U = 25.00, p = 0.01, r = 1.00; medians 0.16 and -0.15) while the Y-axis did not (U = 13.00, p = 1.00, r = 0.04; medians 0.06 and 0.00). The authors read this as GenAI elevating collaborative learning beyond initial ideation toward deeper synthesis and problem solving, attributing it to idea-oriented feedback that prompts evaluation and refinement rather than offering solutions, which they argue counters [[metacognition|metacognitive laziness]].
+Epistemic network analysis renders each group's discourse as a graph of co-occurring codes. The experimental class's network pulled social presence together with integration and resolution; the control class linked social presence more to triggering and exploration. The X-axis separated the classes significantly (U = 25.00, p = 0.01, r = 1.00; medians 0.16 and -0.15) while the Y-axis did not (U = 13.00, p = 1.00, r = 0.04; medians 0.06 and 0.00). The authors read this as GenAI elevating [[collaborative-learning|collaborative learning]] beyond initial ideation toward deeper synthesis and [[problem-solving|problem solving]], attributing it to idea-oriented feedback that prompts evaluation and refinement rather than offering solutions, which they argue counters [[metacognition|metacognitive laziness]].
 
 ## Who benefited, and who did not
 
@@ -52,14 +52,14 @@ The aggregate gains hide a split inside the experimental class. High-achieving g
 
 - **Instructors.** Decide which presence the assistant is meant to support: the class that had scaffolding for both reported higher cognitive engagement and emotional engagement.
 - **Instructors.** Configure GenAI feedback to prompt evaluation and refinement of students' own annotations rather than to hand over solutions.
-- **Instructors.** Track equity inside groups. The 60.7% against 34.0% gap in feedback requests shows a scaffold can sit unused by the students who need it most.
+- **Instructors.** Track [[equity-in-ai-education|equity]] inside groups. The 60.7% against 34.0% gap in feedback requests shows a scaffold can sit unused by the students who need it most.
 - **Designers and administrators.** Build the surrounding supports, not just the assistant: learner agency and [[ai-literacy|AI literacy]] shape whether GenAI suggestions are acted on.
 - **Designers.** If behavioral engagement is a target, instrument for it: the platform did not monitor annotation or response frequency, and no behavioral engagement difference was found.
 
 ## Limitations
 
 - The sample was 63 predominantly female English majors at the intermediate proficiency level, so generalizability is limited; gender and disciplinary background are documented moderators of students' engagement with AI tools.
-- Collaborative engagement was measured by self-report, which is open to subjective bias and insufficient to capture actual interaction patterns.
+- Collaborative engagement was measured by [[self-report-measures|self-report]], which is open to subjective bias and insufficient to capture actual interaction patterns.
 - The intervention consisted of five reading tasks in five consecutive weeks: an intense design that may have boosted the observed effects and introduced a novelty effect.
 - The coding scheme permitted multiple social presence indicators per annotation but at most one cognitive presence code, and because network edge weights come from co-occurrence frequencies this may produce relatively stronger social presence connections. The high and low performer comparison also used a median split over few groups, and teaching presence was not measured.
 

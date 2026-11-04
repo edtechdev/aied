@@ -20,7 +20,7 @@ methods: [meta-analysis-systematic-review]
 - **Mixed student perceptions:** Student attitudes toward AI use are neutral and context-dependent—ranging from viewing it as a valid learning assistance resource to considering it a cheating method—shaped by task type, transparency, and how the assessment is designed. Students commonly frame AI tools as productivity aids comparable to search engines or grammar checkers.
 - **Student–faculty perception gap:** Students tend to perceive AI as acceptable help (idea generation, language improvement), while faculty weight originality and independent thinking and are more likely to treat certain uses as [[academic-integrity]] misconduct. Perceptions also vary by discipline: [[stem-education|STEM]] students show stronger agreement that AI improves performance (+42% net agreement), whereas [[humanities-education|humanities]] students show the highest net agreement that AI usage constitutes cheating (+44%) and raises ethical concerns (+58%).
 - **Correlation structure:** A pairwise analysis (N = 320) found AI usage negatively correlated with perceived cheating (r ≈ −0.51) and positively correlated with [[learning-gains|academic performance]] (r ≈ +0.44), while ethical concern tracked closely with perceived cheating.
-- **Cognitive offloading risk:** Evidence indicates over-dependence on AI and [[adaptive-learning|adaptive systems]] can drive [[cognitive-offloading]], decreased independent reasoning, and altered academic behavior, threatening [[critical-thinking]]—though guided, transparent AI use can support higher-order thinking.
+- **Cognitive offloading risk:** Evidence indicates over-dependence on AI and [[adaptive-learning|adaptive systems]] can drive [[cognitive-offloading]], decreased independent reasoning, and altered academic behavior, threatening [[critical-thinking]]—though guided, [[explainable-ai|transparent AI]] use can support higher-order thinking.
 - **Detection limits and AI literacy:** Conventional [[ai-detection]] struggles with generative text (false positives/negatives), pushing institutions toward [[process-oriented-assessment|process-based assessment]]. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
 
 ## Study Design & Method
@@ -39,7 +39,7 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 
 - The review synthesizes 89 studies screened from 2,847 records across Scopus, Web of Science, IEEE Xplore, and PubMed, and presents a thematic synthesis rather than a meta-analysis, so it reports correlations (e.g., r ≈ −0.51 between AI usage and perceived cheating) but no pooled effect of AI use on learning.
 - The correlational evidence comes from a secondary pairwise analysis of N = 320 rather than a purpose-designed study, and the review covers literature published from January 2019 to December 2025.
-- Included studies are heterogeneous in design, and most measure perceptions through self-report instruments rather than observed AI use or demonstrated learning, so the student–faculty gap and the cognitive-offloading risk are the most reported, and least measured, findings.
+- Included studies are heterogeneous in design, and most measure perceptions through [[self-report-measures|self-report]] instruments rather than observed AI use or demonstrated learning, so the student–faculty gap and the cognitive-offloading risk are the most reported, and least measured, findings.
 
 ## Citation
 

@@ -20,9 +20,9 @@ page_kind: [evaluation]
 
 - **Learners.** Check whether the assistant is even offered in your course before reading your usage as a preference: adoption tracked course coverage, and usage was lowest in Architecture & Construction and Design & Media and highest in Education & Psychology and Marketing & Communication.
 - **Learners.** Put AI-assisted study into the windows in which you already work. Activity peaked in the late morning around 11:00 and on Monday through Wednesday, while part-time students shifted their use to weekends and later hours — aligning tool use with real study rhythms fits it into the routine rather than adding a separate task.
-- **Instructors.** Extend assistant coverage into seminars, project-based courses, and thesis contexts, where use was structurally low because the tool was unavailable rather than unwanted; Master's students' lower rate (54.25% vs. 58.17% for Bachelor's) largely reflects their longer thesis phase.
+- **Instructors.** Extend assistant coverage into seminars, [[project-based-learning|project-based]] courses, and thesis contexts, where use was structurally low because the tool was unavailable rather than unwanted; Master's students' lower rate (54.25% vs. 58.17% for Bachelor's) largely reflects their longer thesis phase.
 - **Administrators.** Read group differences as access conditions first. Female students used the assistant more than male students (59.05% vs. 54.94%) and Gen Z most of all (63.66%), patterns the authors tie to unequal course integration rather than individual disposition.
-- **Designers.** Add multimodal capabilities for disciplines whose learning is visual or practice-based, since text-centered support fits those programs least well.
+- **Designers.** Add [[multimodal]] capabilities for disciplines whose learning is visual or practice-based, since text-centered support fits those programs least well.
 
 ## Limitations
 

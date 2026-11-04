@@ -38,7 +38,7 @@ A Hidden Markov Model tracked the dynamic evolution of knowledge states, computi
 ## Limitations
 
 - The validation experiment used 120 students, and the Hidden Markov Model analysis drew on only the 60 students in the experimental sample (1,428 learning steps).
-- Cognitive load was measured with an adapted self-report NASA-TLX rather than objective indicators, so the authors describe the mediation findings as preliminary rather than definitive causal proof.
+- Cognitive load was measured with an adapted [[self-report-measures|self-report]] NASA-TLX rather than objective indicators, so the authors describe the mediation findings as preliminary rather than definitive causal proof.
 - Efficiency gains were cross-validated across two different content domains rather than replicated within the same one, so the paper reports cross-domain generalization rather than direct replication.
 - The three mediators left 13.4% of the total effect unexplained, indicating unmeasured pathways such as engagement or emotional states.
 

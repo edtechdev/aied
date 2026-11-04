@@ -12,7 +12,7 @@ confidence: high
 methods: [benchmark]
 ---
 
-> **Synthesis:** This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps [[llm]] reasoning traces into cognitively grounded episode sequences for predicting human item difficulty in [[assessment|educational assessment]]. The authors argue that difficulty should be viewed not only as a property of item text but also as an observable consequence of [[problem-solving]] burden. By analyzing reasoning traces from large reasoning models (LRMs), Epi2Diff extracts compact cognitive episodes that capture reasoning scale, effort allocation, and state transitions — enabling interpretable [[student-modeling|student modeling]] without costly human calibration.
+> **Synthesis:** This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps [[llm]] reasoning traces into cognitively grounded episode sequences for predicting human [[item-response-theory|item difficulty]] in [[assessment|educational assessment]]. The authors argue that difficulty should be viewed not only as a property of item text but also as an observable consequence of [[problem-solving]] burden. By analyzing reasoning traces from large reasoning models (LRMs), Epi2Diff extracts compact cognitive episodes that capture reasoning scale, effort allocation, and state transitions — enabling interpretable [[student-modeling|student modeling]] without costly human calibration.
 
 The work connects to [[huang-interpretable-knowledge-tracing-2026|knowledge tracing and IRT]] by offering a process-level view of item difficulty that complements traditional outcome-based models. It has implications for [[adaptive-learning|adaptive learning systems]], where more precise difficulty estimates enable better [[personalized-learning|personalized item selection]], and for [[learning-analytics|learning analytics]], where reasoning trace analysis can provide instructors with fine-grained diagnostic information about which cognitive steps students find challenging.
 
@@ -20,11 +20,11 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 
 ## What this means for practice
 
-- **Software developers.** Feed reasoning-process features into the difficulty model alongside item text rather than relying on embeddings alone: Epi2Diff achieved an 8.1% average relative gain over LLM supervised fine-tuning on the SAT-derived classification benchmarks.
+- **Software developers.** Feed reasoning-process features into the difficulty model alongside item text rather than relying on embeddings alone: Epi2Diff achieved an 8.1% average relative gain over LLM supervised [[llm-training-and-fine-tuning|fine-tuning]] on the SAT-derived classification [[benchmark|benchmarks]].
 - Do not reach for a larger model first. The authors report that simply scaling model capacity does not reliably improve difficulty prediction, while combining episode features with semantic item representations produced the best result on all four test sets.
 - Log episode composition and transition counts, not just trace length, in your item-review tooling: harder SAT Math items were associated with more intermediate work and implementation-centered effort with stronger analysis-to-implementation transitions, not with longer traces.
 - Reuse calibration you already own: the Cambridge regression target was rescaled IRT b-parameters and the USMLE target came from 667 items of a high-stakes medical assessment, but validate any transferred predictor on your own population before using it.
-- Gate predictions behind human review in the product: the authors state automated predictions must not be the sole basis for test construction, item approval, placement, or licensure decisions, and ask for subgroup fairness analysis and monitoring for distribution shift.
+- Gate predictions behind [[human-in-the-loop-ai|human review]] in the product: the authors state automated predictions must not be the sole basis for test construction, item approval, placement, or licensure decisions, and ask for subgroup fairness analysis and monitoring for distribution shift.
 
 ## Limitations
 

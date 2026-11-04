@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
+> **Synthesis:** Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting [[generative-ai|ChatGPT]] answers with explanations did NOT generally improve student performance.
 
 ## Key Findings
 
@@ -30,17 +30,17 @@ The evaluation proceeded in two phases. First, a technical [[benchmark]]: multip
 
 ## What this means for practice
 
-- **Learners.** Attempt the questions unaided before opening a chatbot's answer key: presenting ChatGPT answers together with an explanation did not improve performance in general, and in the computer vision course the results for students with higher prior knowledge indicate that the output may negatively affect performance.
+- **Learners.** Attempt the questions unaided before opening a chatbot's answer key: presenting ChatGPT answers together with an explanation did not improve performance in general, and in the computer vision course the results for students with higher [[prior-knowledge|prior knowledge]] indicate that the output may negatively affect performance.
 - **Learners.** Compare a model's per-option labels against your own reasoning instead of deferring to them — the study found only limited agreement between models and students about which questions were easiest and hardest.
 - **Software developers.** Do not treat frontier-model accuracy as evidence that a study tool works: GPT-4o and GPT-5 clearly outperformed smaller models on the 70 MCQs, yet exposing their answers and explanations to students produced no significant effect at α = 0.05.
-- **Software developers.** Integrate model output into the exercise and its feedback rather than shipping it as a ready-made answer key, and keep visible that GPT-based models still make errors — the authors conclude that models require fine-tuning to course-specific material for educational use.
+- **Software developers.** Integrate model output into the exercise and its feedback rather than shipping it as a ready-made answer key, and keep visible that GPT-based models still make errors — the authors conclude that models require [[llm-training-and-fine-tuning|fine-tuning]] to course-specific material for educational use.
 
 ## Limitations
 
 - Participants were recruited from two Master-level lectures at a single German university, and only approximately 30% of the students in those courses consented to take part.
 - Group sizes were small — 15, 10, and 11 participants in the IVDA setting and 16, 9, and 9 in the CV setting — and the authors cite the limited sample size and the small group of participants as grounds for larger studies.
 - No fixed effect was significant at α = 0.05; the closest result, the IVDA group × attempt interaction, only approached significance at p = 0.058, so the effect of chatbot output is a tendency rather than a conclusive finding.
-- Perceptions came from a self-report questionnaire — most questions used five-point Likert scales ranging from 1 (strongly disagree) to 5 (strongly agree) — and the benchmark itself is 70 MCQs written for one interactive visual data analysis lecture plus additional computer vision items.
+- Perceptions came from a [[self-report-measures|self-report]] questionnaire — most questions used five-point Likert scales ranging from 1 (strongly disagree) to 5 (strongly agree) — and the benchmark itself is 70 MCQs written for one interactive visual data analysis lecture plus additional computer vision items.
 
 ## Citation
 

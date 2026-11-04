@@ -30,7 +30,7 @@ audience: [researchers, instructors, instructional designers]
 - **Instructors.** Match the level of embodiment to the AI's generative capacity and the creative goal: robot embodiment boosted originality in the high-creativity condition, while human and text-based collaboration produced stronger imagery and voice.
 - Choose the medium by the outcome you want — use an embodied, high-creativity setup when originality is the target and text-based interaction when stylistic refinement is, since writers in the text condition could disengage socially and focus on crafting language.
 - **Designers.** Treat embodiment as compensatory rather than universally better: with low-creativity AI the robot sustained engagement, whereas with high-creativity AI engagement plateaued and embodiment mainly amplified the AI's own output.
-- **Researchers.** Add self-report, interview, or physiological measures in future designs, since this study captured only behavioral indicators of engagement (AI suggestion adoption rate and interaction duration).
+- **Researchers.** Add [[self-report-measures|self-report]], interview, or physiological measures in future designs, since this study captured only behavioral indicators of engagement (AI suggestion adoption rate and interaction duration).
 
 ## Limitations
 

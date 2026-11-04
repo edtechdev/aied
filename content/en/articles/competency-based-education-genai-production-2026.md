@@ -13,7 +13,7 @@ confidence: medium
 audience: [assessment designers, institutions, curriculum designers]
 ---
 
-> **Synthesis:** This conceptual paper proposes adding *production* — the capability to deliver professional-standard work by directing tools and other people — as a fourth attribute of competency-based education (CBE), alongside knowledge, skills, and attitudes/values. The proposal responds to a construct-validity problem: generative AI has severed the inference from a student-produced artifact to the student's own knowledge and skill, and production supplies the missing interpretation for the "open lane" of two-lane assessment architectures.
+> **Synthesis:** This conceptual paper proposes adding *production* — the capability to deliver professional-standard work by directing tools and other people — as a fourth attribute of competency-based education (CBE), alongside knowledge, skills, and attitudes/values. The proposal responds to a construct-validity problem: [[generative-ai|generative AI]] has severed the inference from a student-produced artifact to the student's own knowledge and skill, and production supplies the missing interpretation for the "open lane" of two-lane assessment architectures.
 
 ## Key Findings
 
@@ -50,10 +50,10 @@ Production supplies that missing interpretation: the open lane certifies product
 The author argues the framework requires no new infrastructure, only three steps that relabel and attribute what programs already collect:
 
 1. **Record the conditions.** Every assessment should state what tools were available when it was produced; secure conditions certify knowledge and some skills, open conditions certify production.
-2. **Add a warranting step.** With appropriate consent and safeguards, a verification step or short oral defense can surface errors the student did not detect and convert an artifact of uncertain provenance into attributable evidence; if oral defenses are not scalable, a supplementary secure-condition assessment can substitute.
+2. **Add a warranting step.** With appropriate consent and safeguards, a verification step or short [[oral-assessment|oral defense]] can surface errors the student did not detect and convert an artifact of uncertain provenance into attributable evidence; if oral defenses are not scalable, a supplementary secure-condition assessment can substitute.
 3. **Sort existing assessments.** Mark what each instrument in use actually certifies — an exercise that may reveal instruments certifying two or three things at once, while production probably has no dedicated evidence anywhere in the program.
 
-This resonates with critiques of weak [[governance|institutional]] [[assessment]] practice — "language as camouflage," where outcomes are defined and mapped to curriculum without checking whether the underlying data mean anything — and with the prescription to measure fewer things more carefully. The [[eportfolio]] and capstone tradition already contains much of this activity; the proposal simply names it as an attribute.
+This resonates with critiques of weak [[governance|institutional]] [[assessment]] practice — "language as camouflage," where outcomes are defined and mapped to [[curriculum-design|curriculum]] without checking whether the underlying data mean anything — and with the prescription to measure fewer things more carefully. The [[eportfolio]] and capstone tradition already contains much of this activity; the proposal simply names it as an attribute.
 
 ## What this means for practice
 
@@ -68,7 +68,7 @@ This resonates with critiques of weak [[governance|institutional]] [[assessment]
 - This is a conceptual proposal, not an empirical study: classroom-scored production has not been shown to predict GenAI-integrated product quality or early-career performance, so the attribute rests on argument rather than evidence.
 - The paper states an unresolved objection — production may be merely knowledge and skill exercised under a tools-permitted condition, an evidence class rather than an attribute — and notes it cannot be settled without further supportive or disconfirming research.
 - Scoring circularity is unaddressed: raters who see the artifact cannot score direction, evaluation, and warranting independently of finished-product quality, and a minimum knowledge floor would have to be measured rather than asserted.
-- Assessing a new category partly by oral defense could disadvantage non-native English speakers and students with disabilities, and a production rubric can itself degrade into "language as camouflage."
+- Assessing a new category partly by oral defense could disadvantage non-native English speakers and [[special-education|students with disabilities]], and a production rubric can itself degrade into "language as camouflage."
 
 ## Citation
 

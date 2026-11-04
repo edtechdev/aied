@@ -82,7 +82,7 @@ The purpose matters as much as the mechanics. [[ai-agents-joyful-assessment-thir
 
 **"Accreditation and program approval will not move that fast."** The study above names long lead times and large-cohort accreditation constraints as the central friction. A single course can change what happens inside an existing assessment without changing its name, its weight or its learning outcomes, and that is usually enough to start.
 
-**"This penalizes anxious students and students with disabilities."** It can. Live oral components need accommodations planned in advance, a choice of format where the construct allows it, and attention to linguistic difference and assessor bias. Verify the capability, not the performance conditions.
+**"This penalizes anxious students and [[special-education|students with disabilities]]."** It can. Live oral components need accommodations planned in advance, a choice of format where the construct allows it, and attention to linguistic difference and assessor bias. Verify the capability, not the performance conditions.
 
 **"We should just buy a detector."** The discrimination result argues against it as the spine of the design: if false positives rise faster than true positives, stronger monitoring makes concealment relatively more attractive. Detection may have a place in a response that also redesigns the task, and [[should-we-use-ai-detectors]] covers that argument.
 

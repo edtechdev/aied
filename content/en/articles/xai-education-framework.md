@@ -19,7 +19,7 @@ page_kind: [framework]
 ## The XAI-ED Framework — Six Aspects
 
 ### 1. Stakeholders
-XAI in education must serve multiple audiences — learners, teachers, administrators, parents, [[research-methods-aied|researchers]], developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role]] and [[student-experience]] research on multi-stakeholder design.
+XAI in education must serve multiple audiences — learners, teachers, administrators, [[parents-and-families|parents]], [[research-methods-aied|researchers]], developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role]] and [[student-experience]] research on multi-stakeholder design.
 
 ### 2. Benefits
 Explanations serve multiple purposes in educational contexts:
@@ -37,7 +37,7 @@ The paper catalogs multiple explanation modalities: visual (heatmaps, decision t
 ### 4. Classes of AI Models
 The framework maps explanation approaches to model types:
 - **White-box** (decision trees, linear models, rule-based systems) — inherently interpretable
-- **Black-box** (neural networks, ensemble methods) — require post-hoc explanation methods
+- **Black-box** ([[machine-learning|neural networks]], ensemble methods) — require [[explainable-ai|post-hoc explanation]] methods
 - **Glass-box** — newer approaches that balance accuracy with transparency
 
 This taxonomy connects to the [[adaptive-learning]] literature's ongoing tension between model complexity and interpretability.

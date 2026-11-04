@@ -35,7 +35,7 @@ Participants rated the tracer positively for building intuition about query eval
 ## Limitations
 
 - The evaluation involved 14 participants from a single university knowledge-graph course at varying levels of involvement rather than the full target group, and the authors call for evaluations that invite more participants sampling both experts and students.
-- No baseline condition (for example a command-line interface) was included, so the positive technology-acceptance and user-experience scores are evidence of subjective support only and cannot support quantitative claims about learning benefit.
+- No baseline condition (for example a command-line interface) was included, so the positive technology-acceptance and user-experience scores are evidence of subjective support only and cannot support [[quantitative-research|quantitative]] claims about learning benefit.
 - Sessions were conducted in interviews with hints from the interviewers rather than unsupervised use, and no comprehension, grade or other learning-outcome measure was collected.
 - The study surfaced tool bugs (request queuing under rapid pagination, the replace-symbol interaction in the editor) and only discussed scalability, leaving node grouping, focus+context techniques and indicators for infinite recursion to future versions.
 

@@ -27,7 +27,7 @@ The study used programming tests (T1, T2) and a final examination from an introd
 
 ## Key findings
 
-- **Above-average overall performance:** All evaluated systems except M365 Copilot scored higher than the historical student cohort average on the programming tests (e.g., test 1 average ~14.61 points vs. student 13.76; test 2 ~14.87 vs. 13.39). The final exam showed all AI assistants performing nearly flawlessly on objects-and-classes items.
+- **Above-average overall performance:** All evaluated systems except M365 Copilot scored higher than the historical student cohort average on the programming tests (e.g., test 1 average ~14.61 points vs. student 13.76; test 2 ~14.87 vs. 13.39). The [[summative-assessment|final exam]] showed all AI assistants performing nearly flawlessly on objects-and-classes items.
 - **Full marks on longer tasks:** Systems frequently obtained full marks on longer programming tasks, and ChatGPT and DeepSeek showed the strongest and most consistent performance.
 - **Persistent conceptual gaps:** Models still struggled with interfaces, abstract classes, and certain inheritance-related tasks — repeatedly, e.g., "the abstract class must implement the interface methods," "subclass cannot widen superclass method access," and marking methods `public` instead of `private`.
 - **Non-compiling code:** Systems occasionally produced code that did not compile (e.g., `a=a` causing non-compilation; confusion with list indexes).
@@ -38,7 +38,7 @@ The study used programming tests (T1, T2) and a final examination from an introd
 
 - **Instructors.** Stop treating take-home or exam coding tasks as certification of individual ability: every system except M365 Copilot beat the average student cohort on the programming tests (14.61 vs 13.76 points on test 1; 14.87 vs 13.39 on test 2) and often earned full marks on longer tasks.
 - **Instructors.** Weight assessment toward what the models still fail — interfaces, abstract classes, inheritance-related tasks, and graphics-based questions requiring image interpretation — rather than adding more of the routine work they already solve.
-- **Assessment designers.** Require human review of AI-generated solutions on advanced [[computational-thinking|OOP]] tasks: the systems repeatedly marked methods `public` instead of `private`, mishandled abstract-class and interface rules, and occasionally produced non-compiling code.
+- **Assessment designers.** Require [[human-in-the-loop-ai|human review]] of AI-generated solutions on advanced [[computational-thinking|OOP]] tasks: the systems repeatedly marked methods `public` instead of `private`, mishandled abstract-class and interface rules, and occasionally produced non-compiling code.
 - **Assessment designers.** Treat detection as a dead end and redesign what counts as evidence — code review interviews, in-person explanation, process artifacts — since models that reliably exceed the average student make the origin of a solution unverifiable by exam score alone.
 - **Researchers.** Repeat the comparison year over year against authentic assessments using the course rubric: the paired runs are what separated genuine improvement from error patterns (e.g., ChatGPT again marking methods `public`) that persist across model generations.
 

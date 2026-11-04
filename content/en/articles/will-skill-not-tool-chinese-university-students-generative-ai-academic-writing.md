@@ -28,16 +28,16 @@ institutions: [educational-policy-ai]
 ## What this means for practice
 
 - **Instructors.** Build students' positive attitudes toward GenAI for academic writing by showing how it addresses both disciplinary content and language problems, since attitude was the strongest predictor of intention (β = 0.455).
-- **Instructors.** Teach AI literacy explicitly — critical evaluation of outputs, responsible use, and risk appraisal — because AI literacy predicted intention (β = 0.318) and worked in part by raising attitudes (β = 0.418) and lowering perceived risks (β = −0.241).
+- **Instructors.** Teach AI literacy explicitly — [[critical-thinking|critical evaluation]] of outputs, responsible use, and risk appraisal — because AI literacy predicted intention (β = 0.318) and worked in part by raising attitudes (β = 0.418) and lowering perceived risks (β = −0.241).
 - **Learners.** Treat your own willingness and capability, not the availability of tools, as the limiting factor: facilitating conditions were not a significant predictor of intention (β = 0.031, p = 0.431).
 - **Administrators.** Publish clear, unified guidance on ethical GenAI use in academic writing: perceived importance of policy predicted intention directly (β = 0.271) and indirectly through both attitudes (β = 0.348) and perceived risks (β = −0.413).
 
 ## Limitations
 
 - Single EMI university in China, with 512 respondents drawn from Humanities, Social Sciences, and Business through convenience sampling of an anonymous Qualtrics link distributed on WeChat; the authors state the sample may not represent diverse EMI students and call for other disciplines and institutional contexts.
-- Self-report only: every construct was measured on a 5-point Likert scale, so the dependent variable is behavioral intention (56.0% of the variance explained), not observed use — the authors propose usage logs, interviews, and stimulated recall to triangulate.
+- [[self-report-measures|Self-report]] only: every construct was measured on a 5-point Likert scale, so the dependent variable is behavioral intention (56.0% of the variance explained), not observed use — the authors propose usage logs, interviews, and stimulated recall to triangulate.
 - Cross-sectional, so it supports no causal claims and says nothing about how will, skill, and tool develop over time; the authors call for a longitudinal design.
-- Writing was treated as one general activity rather than specific tasks (idea generation, language polishing, drafting, literature review), leaving open whether risk appraisal and policy salience behave the same way on higher-stakes writing.
+- Writing was treated as one general activity rather than specific tasks (idea generation, language polishing, drafting, [[meta-analysis-systematic-review|literature review]]), leaving open whether risk appraisal and policy salience behave the same way on higher-stakes writing.
 
 ## Citation
 

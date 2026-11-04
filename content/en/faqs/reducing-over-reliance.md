@@ -37,7 +37,7 @@ The bottom line: over-reliance is mostly a placement problem. The designs that r
 
 **5.** Time the reflection prompt to the phase of the task it can still change.
 
-**6.** Look at who your design leaves behind, by prior knowledge rather than by average.
+**6.** Look at who your design leaves behind, by [[prior-knowledge|prior knowledge]] rather than by average.
 
 ## Decide whether you have a problem, or just heavy use
 
@@ -55,7 +55,7 @@ Behavioral instruments are thinner. [[pause-ai-cognitive-offloading-self-reflect
 
 ## Put the student's attempt in front of the tool
 
-The clearest tested sequence is "think first, ChatGPT later." [[think-first-chatgpt-later-2026|Wong and Qiu (2026)]] assigned N = 196 students to work independently, to use ChatGPT freely, or to work in a regulated condition: generate your own ideas, collaborate with ChatGPT to improve and evaluate them, then independently refine and submit one solution. The free-use group produced more creative work on the assisted task and fell back to human-only levels on a later, harder task done without ChatGPT. The regulated group showed no immediate advantage and outperformed both other groups on independent creativity afterward.
+The clearest tested sequence is "think first, [[generative-ai|ChatGPT]] later." [[think-first-chatgpt-later-2026|Wong and Qiu (2026)]] assigned N = 196 students to work independently, to use ChatGPT freely, or to work in a regulated condition: generate your own ideas, collaborate with ChatGPT to improve and evaluate them, then independently refine and submit one solution. The free-use group produced more creative work on the assisted task and fell back to human-only levels on a later, harder task done without ChatGPT. The regulated group showed no immediate advantage and outperformed both other groups on independent [[creativity]] afterward.
 
 Prompt data explains the gap. In the regulated group, 88.6% of prompts were collaborative, and that was the only prompt type significantly correlated with later independent originality. In the free-use group, 70.9% of prompts were non-collaborative and 59.6% simply asked ChatGPT to generate ideas outright. The same tool, asked two different ways, produced two different learners.
 
@@ -71,7 +71,7 @@ Two classroom details decide whether the sequence holds. The first is time. If t
 
 Practically, that means guarded AI in the middle of the task, where hints, worked examples, and practice items do the work, and a secured check at the end. It also turns an AI-use policy into a per-skill placement rule, which is easier to write and easier to defend than a list of prohibitions.
 
-A hint is a question about the student's next step, a worked example of a similar problem, or a pointer to the relevant passage. An answer is a finished sentence the student can paste. Most general-purpose chatbots produce the second by default, in fluent prose that reads like help, which is why the configuration matters more than the student's intentions.
+A hint is a question about the student's next step, a worked example of a similar problem, or a pointer to the relevant passage. An answer is a finished sentence the student can paste. Most general-purpose [[conversational-ai|chatbots]] produce the second by default, in fluent prose that reads like help, which is why the configuration matters more than the student's intentions.
 
 ## Require the check, and make it visible
 
@@ -93,7 +93,7 @@ Choose a failure that is modest and checkable, such as a citation that does not 
 
 The assisted product is a poor proxy for capability, so at least one graded moment has to happen without the tool. [[think-first-chatgpt-later-2026|Wong and Qiu's (2026)]] later unassisted task is that measurement. Their human-only group also declined on the harder follow-up, which rules out the simple version of the fix: removing the tool without supporting the learner is not an intervention.
 
-Alternating modes has support. PAUSE reports Kosmyna et al.'s (2025) session-four result, where brain-only participants who later used ChatGPT outperformed sustained LLM users. Accountability works through explanation as well: Makransky et al. (2025) found that a tutoring chatbot which prompted students to connect ideas and explain their reasoning produced better assessment performance than traditional instruction.
+Alternating modes has support. PAUSE reports Kosmyna et al.'s (2025) session-four result, where brain-only participants who later used ChatGPT outperformed sustained [[llm]] users. Accountability works through explanation as well: Makransky et al. (2025) found that a tutoring chatbot which prompted students to connect ideas and explain their reasoning produced better assessment performance than traditional instruction.
 
 For a course, alternate: assisted work in practice, unassisted work where it counts. Read the assisted piece as a record of performance under good conditions, and the unassisted piece as the evidence about learning. Comparing them is also the most useful conversation you can have with a student who cannot understand a mark.
 
@@ -123,7 +123,7 @@ The wording of the prompt matters less than its position. Before a unit, ask wha
 
 ## Expect the risk to cluster
 
-[[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] locate the risk in prior knowledge and self-regulation and name a **metacognitive equity gap**: using AI well requires resources that novices lack, so the students who most need the practice are the likeliest to delegate the learning itself. They report that 80% of Australian students already use AI and that two-thirds of early secondary teachers do (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] locate the risk in prior knowledge and self-regulation and name a **metacognitive [[equity-in-ai-education|equity]] gap**: using AI well requires resources that novices lack, so the students who most need the practice are the likeliest to delegate the learning itself. They report that 80% of Australian students already use AI and that two-thirds of early secondary teachers do (OECD 2025).
 
 Age and habit correlate with the same pattern. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] found participants aged 17-25 showed higher AI dependence and offloading and lower critical thinking than those aged 46 and over, and that attainment predicted better critical thinking regardless of AI use (r = +0.34), with a significant interaction indicating that attainment mitigates the negative effect. [[genai-over-reliance-learning-2026|Gao, Sun and Khan (2026)]] found polychronicity, a tendency to multitask, moderates the pathway, with high-polychronicity students at greater risk.
 
@@ -135,27 +135,27 @@ Context matters as much as person, and your course controls part of the context.
 
 Nothing in this corpus tests whether a specific over-reliance intervention holds across settings or semesters. Think-first rests on one experiment with N = 196. The withholding result comes from [[brcic-effortless-trap-productive-struggle-2026|Brcic and Frljic's (2026)]] synthesis rather than from a trial of its own. The friction argument is a conceptual comment with no new data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] states the limits of the model: exogenous stationary AI quality, a fixed network, stylized verification. Estimating the real values would need longitudinal traces of per-task verification rates, social-proof strength, and how trust updates after verified as against unverified use.
 
-Measurement remains the weakest link. Survey designs dominate, and both [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] and [[genai-over-reliance-learning-2026|Gao, Sun and Khan (2026)]] call for longitudinal and experimental follow-up. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] has no psychometrics and was built for adults. Whether the equity gap can be closed by instruction is theorized rather than demonstrated.
+Measurement remains the weakest link. Survey designs dominate, and both [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] and [[genai-over-reliance-learning-2026|Gao, Sun and Khan (2026)]] call for longitudinal and experimental follow-up. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] has no [[educational-measurement|psychometrics]] and was built for adults. Whether the equity gap can be closed by instruction is theorized rather than demonstrated.
 
 That leaves you with a reasonable bet, made cheaply. Change one assignment, keep the unaided measure, and check whether the gap between assisted and unassisted work narrows. Do not rebuild a course on the strength of these numbers.
 
 ## What instructors get wrong about this
 
-**The students who use it most are the ones in trouble.** Frequency is what surveys capture and dashboards display, and it is not the construct. A student who checks every answer and cites your materials can use AI daily and be fine. A student who submits the first output once a week has the problem.
+**The students who use it most are the ones in trouble.** Frequency is what surveys capture and [[visualization|dashboards]] display, and it is not the construct. A student who checks every answer and cites your materials can use AI daily and be fine. A student who submits the first output once a week has the problem.
 
 **A ban removes the risk.** The strongest results here come from placement, and the human-only arm of Wong and Qiu's experiment also declined on the harder follow-up. Removing the tool without supporting the learner leaves the difficulty where it was.
 
-**Cheaper checking will fix verification.** Making the check easier was the weakest lever in Biswas's model, because the obstacle is social. A better plagiarism checker does not make a student read the source.
+**Cheaper checking will fix verification.** Making the check easier was the weakest lever in Biswas's model, because the obstacle is social. A better [[academic-integrity|plagiarism]] checker does not make a student read the source.
 
 **A usage dashboard tells me who is offloading.** PAUSE's items record when and how often AI enters a workflow, and the authors flag the validity problem themselves. A careful scaffolder scores as an offloader, so acting on those numbers punishes the students you want to keep.
 
 **Fluency and satisfaction show the design is working.** That is the illusion [[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] describe in their performance paradox: work feels fluent and students perform well in the moment while retaining less. Unaided performance and delayed [[transfer-of-learning|transfer]] are the measures that answer the question.
 
-**Teach AI literacy to students and the problem goes away.** [[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] caution that over-investing in student-facing AI literacy may be the wrong allocation, given what novices lack.
+**Teach [[ai-literacy|AI literacy]] to students and the problem goes away.** [[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] caution that over-investing in student-facing AI literacy may be the wrong allocation, given what novices lack.
 
 ## What will come back at you
 
-**"This is just good pedagogy with a new name."** Partly. Scaffolding, formative feedback, and productive struggle are old ideas. What is newer is the ordering: visible verification beat cheaper verification, and the two moments worth protecting are the first hard attempt and the final unaided check. Do the familiar things in the new order.
+**"This is just good [[pedagogy]] with a new name."** Partly. [[scaffolding]], formative feedback, and productive struggle are old ideas. What is newer is the ordering: visible verification beat cheaper verification, and the two moments worth protecting are the first hard attempt and the final unaided check. Do the familiar things in the new order.
 
 **"I cannot police it."** You cannot, and the evidence says not to try. Placement produced the strongest result. Design the task so that using the tool at the wrong moment shows up in the work itself, as an answer the student cannot explain or a verification step that is missing.
 

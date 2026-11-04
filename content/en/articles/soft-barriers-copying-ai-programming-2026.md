@@ -35,7 +35,7 @@ The paper's conceptual contribution is to broaden how we evaluate AI coding assi
 - Copy-Paste Resistance measures a proximate behavioral property — whether functionally correct solutions become syntactically invalid after perturbation — not comprehension, learning, or retention, which remain untested.
 - The barriers are easily bypassed by requesting clean output, running a text normalizer, or retyping the code; they change the default path for ordinary use but provide no security.
 - The behavioral evidence is an exploratory pilot with only 18 participants.
-- Evaluation is limited to Python benchmarks — HumanEval (164 problems) and MBPP (974 tasks) — with four LLMs, and the authors position Unicode perturbation as a minimal probe rather than a deployment-ready solution.
+- Evaluation is limited to Python [[benchmark|benchmarks]] — HumanEval (164 problems) and MBPP (974 tasks) — with four LLMs, and the authors position Unicode perturbation as a minimal probe rather than a deployment-ready solution.
 
 ## Citation
 

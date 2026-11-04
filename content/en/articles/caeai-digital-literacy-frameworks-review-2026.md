@@ -29,7 +29,7 @@ source_depth: full text
 ## Key Findings
 
 1. The review analyzes 80 validated frameworks — 69 digital literacy (67 database-derived plus two reports) and 11 AI literacy — from a PRISMA screen of 35,036 without-AI and 441 with-AI records, covering publications from January 2014 to February 2025.
-2. Of the 69 digital literacy frameworks, 28 target students or citizens and 42 target educators (one counted in both roles); student frameworks most often carry information and data literacy (n = 40), communication and collaboration (n = 20), and safety and ethics (n = 19).
+2. Of the 69 digital literacy frameworks, 28 target students or citizens and 42 target educators (one counted in both roles); student frameworks most often carry information and [[statistics-and-data-science-education|data literacy]] (n = 40), communication and collaboration (n = 20), and safety and ethics (n = 19).
 3. Educator frameworks distribute differently, with teaching, learning and pedagogy (n = 38), empowering learners (n = 25) and [[curriculum-design|curriculum]] and assessment (n = 25) leading, and information and data literacy (n = 31) and technology literacy (n = 28) the prominent competencies.
 4. Mapped onto DigComp 2.2, framework coverage concentrates on information and data literacy (frameworks n = 24), communication and collaboration (n = 19) and safety (n = 19), and less on digital content creation (n = 16) and problem solving (n = 15).
 5. Across economies, communication and collaboration was covered by 83.3% (n = 10) of developed-region frameworks against 60.0% (n = 9) of developing-region frameworks, while problem solving was slightly more frequent in developing (60.0%, n = 9) than developed (50.0%, n = 6) regions.

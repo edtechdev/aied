@@ -16,7 +16,7 @@ sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
 ---
 
-> **Synthesis:** **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**
+> **Synthesis:** **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether [[generative-ai|ChatGPT]] acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**
 
 ## Core Finding
 
@@ -27,7 +27,7 @@ In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong a
 - **Sample**: 211 secondary students (Grades 7–9, ages 12–15; 51% female; 102 G7, 49 G8, 60 G9) from a government-funded Hong Kong school running [[ai-literacy|AI literacy]] initiatives. Data collected October 2023 via online survey; nine of 220 initial respondents excluded for suspicious patterns/outliers.
 - **Acceptance**: 25-item ChatGPT Technology Acceptance instrument (adapted from Davis, 1989; reliabilities .90–.95), measuring Perceived Usefulness (PU), Perceived Ease of Use (PEOU), Attitude (ATT), Intention to Use (ITU), and Actual Use (AU).
 - **Moderator**: 4-item Making Sense of Feedback subscale from Dawson et al.'s (2024) Feedback Literacy Behavior Scale, adapted to reference ChatGPT (α=.94) — capturing credibility assessment, decision to use, judgment of conflicting comments, and standards alignment.
-- **Outcome**: 7-item self-reflection subscale from Yan's (2018) Self-assessment Practice Scale (α=.93).
+- **Outcome**: 7-item self-reflection subscale from Yan's (2018) [[self-assessment]] Practice Scale (α=.93).
 - **Analysis**: Hierarchical multiple regression (demographics controls → main effects → interaction), Johnson-Neyman technique, and simple-slope analyses at low/moderate/high sense-making. >90% power for medium effects; VIFs <3.5.
 
 ## Results
@@ -56,7 +56,7 @@ Feedback sense-making significantly moderated each link (interactions β=.11–.
 ## Methodological Strengths & Caveats
 
 - **Strengths**: strong reliability across all scales, power analysis for regression, assumption checks, and Johnson-Neyman analyses that map where effects turn significant.
-- **Caveats**: cross-sectional design (no causal inference), self-report measures rather than observed behaviors or objective outcomes, single educational system, and data collected during the early-positive-coverage adoption period of ChatGPT.
+- **Caveats**: cross-sectional design (no causal inference), [[self-report-measures|self-report measures]] rather than observed behaviors or objective outcomes, single educational system, and data collected during the early-positive-coverage adoption period of ChatGPT.
 
 ## What this means for practice
 

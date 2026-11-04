@@ -14,7 +14,7 @@ audience: [researchers, faculty developers]
 level: [k 12, higher ed]
 ---
 
-> **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role]]*: the uncritical uptake of [[generative-ai]] in science education amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
+> **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role]]*: the uncritical uptake of [[generative-ai]] in [[science-education|science education]] amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
 
 Lucy Avraamidou (2024) writes an explicitly critical **COMMENT** arguing that science education is being *colonized* by the generative AI industry. She contends that educational institutions are "buying into generative AI promises and [[hallucination-risk|hallucinations]]" as a **silver bullet**, and that this uncritical momentum reproduces colonial patterns of exploitation and extraction. The piece is a techno-utopia critique grounded in [[equity-in-ai-education]], accountability, and feminist values, aimed at the science education research community.
 
@@ -37,11 +37,11 @@ This is the mechanism by which generative AI can **dehumanize learning** — a d
 
 ## The imperative of a feminist AI
 
-Avraamidou's constructive alternative is a **feminist and human-centered AI** that prioritizes justice over profit. [[higher-ed]] institutions should develop visions for **critical AI literacy framed within feminist [[pedagogy|pedagogies]]**, rather than acting as consumers of what the AI industry offers. She poses six critical questions:
+Avraamidou's constructive alternative is a **feminist and human-centered AI** that prioritizes justice over profit. [[higher-ed]] institutions should develop visions for **critical [[ai-literacy|AI literacy]] framed within feminist [[pedagogy|pedagogies]]**, rather than acting as consumers of what the AI industry offers. She poses six critical questions:
 
 1. What is the nature of knowledge produced through generative and predictive AI?
 2. Whose knowledge is it?
-3. Who benefits from AI?
+3. [[differential-effects-across-learner-groups|Who benefits from AI]]?
 4. Based on what data are algorithms made available?
 5. Can we afford the environmental impact of AI?
 6. Who is held accountable when AI systems fail?
@@ -55,7 +55,7 @@ The essay closes with an affirmative: *"Can we disrupt the momentum of the AI co
 - **Researchers.** Move AI research in science education beyond cognitive-only outcomes and study the social, relational, and embodied dimensions of learning that AI-driven tools leave unaddressed, including their socio-emotional effects.
 - **Teacher educators.** Teach critical AI literacy inside feminist [[pedagogy|pedagogies]], using Avraamidou's six questions — whose knowledge, who benefits, built on what data, who is accountable — as routine prompts for evaluating any AI tool before it enters a classroom.
 - **Administrators.** Write an institutional vision for AI instead of consuming what the industry offers, and require consent, bias, and environmental-impact review before adoption.
-- **Designers.** Build AI-supported curriculum around learners' identities, subjectivities, values, and cultures rather than around a prescribed "ideal" learning path that standardizes thinking.
+- **Designers.** Build AI-supported [[curriculum-design|curriculum]] around learners' identities, subjectivities, values, and cultures rather than around a prescribed "ideal" [[recommender-systems-and-learning-paths|learning path]] that standardizes thinking.
 
 ## Limitations
 

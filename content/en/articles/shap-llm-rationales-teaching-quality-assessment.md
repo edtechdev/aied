@@ -17,7 +17,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 ## Key Findings
 
-- **Explainability matters for high-stakes rubric scoring.** Opaque scores are insufficient where teachers must understand, [[trust]], and contest automated judgments — a requirement now reflected in frameworks like the EU AI Act.
+- **[[explainable-ai|Explainability]] matters for high-stakes rubric scoring.** Opaque scores are insufficient where teachers must understand, [[trust]], and contest automated judgments — a requirement now reflected in frameworks like the EU AI Act.
 - **PLMs beat LLMs on scoring accuracy but compress toward mid-scale.** Fine-tuned transformer-based models (BERT, ALBERT, RoBERTa, DeBERTa variants) outperform prompted instruction-tuned LLMs on QoF prediction (e.g., lower MAE/MSE), but their scores concentrate in the 3–5 mid-range rather than using the full 1–7 scale.
 - **SHAP is more faithful than LLM rationales.** Under deletion-based tests (progressively removing the top-10 sentences each method ranks as most influential), SHAP-selected sentences produce larger and more coherent prediction shifts than LLM-generated rationales — meaning SHAP better identifies the text the model actually relies on.
 - **SHAP explanations transfer across architectures; LLM rationales do not.** Cross-model analysis (removing sentences ranked by one model family and re-scoring with the other) shows SHAP attributions generalize robustly, while LLM rationales exert limited, inconsistent influence on other models.

@@ -32,10 +32,10 @@ methods: [meta-analysis-systematic-review]
 1. **The tool both supports and impedes engagement on every dimension.** The same studies report motivation, [[reflection]], and revision alongside over-reliance, inaccurate output, and emotional distance; the balance depends on learner characteristics, task design, and teacher guidance.
 2. **The split is close to even.** Six studies (46.15%) were classified as predominantly positive and seven (53.85%) as dual-effect — an unweighted count the authors decline to treat as a pooled effect estimate.
 3. **Behavioral engagement shows in planning and revision, and frays in uptake.** Learners planned, drafted, monitored, and revised in response to feedback, but also accepted suggestions uncritically or skimmed inaccurate feedback.
-4. **Cognitive engagement turns on evaluation.** Recursive thinking, critical evaluation, and [[self-regulated-learning|self-regulation]] appeared in some studies; overload, reduced effort, difficulty spotting wrong feedback, and heavier demands on lower-proficiency learners in others.
+4. **Cognitive engagement turns on evaluation.** Recursive thinking, [[critical-thinking|critical evaluation]], and [[self-regulated-learning|self-regulation]] appeared in some studies; overload, reduced effort, difficulty spotting wrong feedback, and heavier demands on lower-proficiency learners in others.
 5. **Affect is mixed and partly relational.** Gains include [[motivation]], confidence, satisfaction, and reduced writing [[anxiety-and-stress|anxiety]]; costs include frustration at inaccurate feedback, diminished motivation under monotonous feedback, and missing emotional support.
 6. **Students preferred AI for negative feedback.** One study found learners favored critical feedback from the tool over the same feedback from a person, calling the environment less threatening — a "fun adventure."
-7. **Methods are spread thin.** Five studies were mixed-methods (38%), four qualitative (31%), and four quantitative (31%); two comparisons found no significant cognitive-engagement difference between feedback conditions, one found greater improvement over time.
+7. **Methods are spread thin.** Five studies were [[mixed-methods-research|mixed-methods]] (38%), four [[qualitative-research|qualitative]] (31%), and four [[quantitative-research|quantitative]] (31%); two comparisons found no significant cognitive-engagement difference between feedback conditions, one found greater improvement over time.
 
 ## Behavioral and cognitive engagement
 
@@ -43,7 +43,7 @@ Behavioral findings cluster around process visibility. Learners who used ChatGPT
 
 ## Affective engagement and the low-threat environment
 
-Affect runs both ways, and much of it is relational. Gains include motivation, confidence, appreciation, satisfaction, and reduced writing anxiety, with learners describing ChatGPT as a tutor, a "writing buddy" that carries them past writer's block, and a partner in building meaning. Costs include frustration and confusion at inaccurate feedback, overload and mental stress, diminished motivation under monotonous feedback, and the missing emotional nuance of human response, alongside educators' worries about plagiarism and [[academic-integrity]]. The comparative case is pointed: students preferred negative feedback from the AI to the same feedback from a person, reporting affirmative emotions and direct involvement in a less threatening space. The review reads this as a low-threat feedback environment rather than proof that [[ai-feedback-quality|AI feedback]] is better, since the same studies document apathy in students who wanted the personalization a teacher or peer supplies. What separates reflective use from passive reliance, the authors argue, is [[feedback-literacy]].
+Affect runs both ways, and much of it is relational. Gains include motivation, confidence, appreciation, satisfaction, and reduced writing anxiety, with learners describing ChatGPT as a tutor, a "writing buddy" that carries them past writer's block, and a partner in building meaning. Costs include frustration and confusion at inaccurate feedback, overload and mental stress, diminished motivation under monotonous feedback, and the missing emotional nuance of human response, alongside educators' worries about plagiarism and [[academic-integrity]]. The comparative case is pointed: students preferred negative feedback from the AI to the same feedback from a person, reporting affirmative emotions and direct involvement in a less threatening space. The review reads this as a low-threat feedback environment rather than proof that [[ai-feedback-quality|AI feedback]] is better, since the same studies document apathy in students who wanted the [[personalized-learning|personalization]] a teacher or peer supplies. What separates reflective use from passive reliance, the authors argue, is [[feedback-literacy]].
 
 ## The CESLE framework
 
@@ -59,7 +59,7 @@ The constructive output is a conceptual framework, not a tested model. CESLE res
 
 - The base is 13 studies: 471 records from Scopus and Web of Science yielded 128 abstracts, 27 full texts to assess, 10 inclusions, and three snowball additions. Only English-language peer-reviewed articles from January 2023 onward were eligible, so dissertations, conference papers, and non-English work are absent.
 - Those study-level percentages are unweighted counts of study-level classifications, not pooled effects, implying nothing about equivalence in design, sample size, or evidential strength.
-- Several included studies rely on self-reported engagement, and positive views may reflect the technology's newness rather than sustained involvement; appraisal also found unclear allocation concealment, infeasible blinding, potential confounding, and one unreported ethical approval.
+- Several included studies rely on [[self-report-measures|self-reported]] engagement, and positive views may reflect the technology's newness rather than sustained involvement; appraisal also found unclear allocation concealment, infeasible blinding, potential confounding, and one unreported ethical approval.
 
 ## Citation
 

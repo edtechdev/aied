@@ -37,7 +37,7 @@ institutions: [educational-policy-ai]
 
 - The survey covers 560 undergraduates at four institutions in the Northeastern U.S.; the authors state this institutional profile limits generalizability to other regions and types of institution.
 - The study was advertised as a GenAI survey, so volunteers were likely those already familiar with ChatGPT and Gemini — students anxious about or inexperienced with the tools probably under-responded, which likely inflates the reported non-use rate.
-- All variables are self-report on sensitive, misconduct-adjacent behavior: despite anonymity assurances, some respondents may not have fully reported their GenAI use, and gift-card incentives may have encouraged fast completion.
+- All variables are [[self-report-measures|self-report]] on sensitive, misconduct-adjacent behavior: despite anonymity assurances, some respondents may not have fully reported their GenAI use, and gift-card incentives may have encouraged fast completion.
 - The disclosure–accusation findings are observational and statistically weak (Cramer's V = .13–.22 across the reported chi-square tests), so they establish association rather than a causal effect of transparency on accusation.
 
 ## Citation

@@ -14,17 +14,17 @@ audience: [instructional designers, instructors]
 methods: [qualitative-research, usability-research]
 ---
 
-> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning [[ai-technologies|technologies]]. The guidelines span cognitive, social, and [[teacher-role|teaching]] presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
+> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and [[online-teaching-and-learning|Online Education]] (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning [[ai-technologies|technologies]]. The guidelines span cognitive, social, and [[teacher-role|teaching]] presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
 
 ## Context and Motivation
 
-AI-powered educational technologies have demonstrated benefits but are predominantly designed and evaluated in [[k-12|K-12]] contexts. Adult learners differ motivationally and contextually: they are often [[self-directed-learning|self-directed]], goal-oriented (career advancement, reskilling), and must balance education with employment and family responsibilities. Existing systems inherit design patterns from K-12 that are poorly aligned with [[adult-learning|adult learning]] constraints.
+AI-powered educational technologies have demonstrated benefits but are predominantly designed and evaluated in [[k-12|K-12]] contexts. Adult learners differ motivationally and contextually: they are often [[self-directed-learning|self-directed]], goal-oriented (career advancement, [[professional-training|reskilling]]), and must balance education with employment and family responsibilities. Existing systems inherit design patterns from K-12 that are poorly aligned with [[adult-learning|adult learning]] constraints.
 
 This paper examines seven AI-powered technologies deployed within **AI-ALOE**, a US National AI Institute:
 
 - **Apprentice Tutors** — web-based [[intelligent-tutoring|ITS]] for adult math/[[stem-education|STEM]] practice
 - **iTELL** — Intelligent Texts for Enhanced [[lifelong-learning|Lifelong Learning]]
-- **Ivy** — interactive video-based AI coaching for procedural skills
+- **Ivy** — interactive [[video-education|video-based]] AI coaching for procedural skills
 - **Jill Watson** — [[rag|RAG]]-powered Q&A agent for online courses
 - **SAMI** — social agent for online discussion forums
 - **SMART** — Student Mental Model Analyzer for Research and Teaching

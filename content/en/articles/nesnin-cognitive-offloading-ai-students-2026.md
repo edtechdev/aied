@@ -32,7 +32,7 @@ confidence: medium
 
 ## Limitations
 
-- Analytical literature review only: the paper is based entirely on secondary data from published academic sources — gathered from Google Scholar, ScienceDirect, SpringerLink, IEEE Xplore, MDPI, and PubMed — with no surveys, interviews, or experiments, and the whole analysis rests on 8 references.
+- Analytical [[meta-analysis-systematic-review|literature review]] only: the paper is based entirely on secondary data from published academic sources — gathered from Google Scholar, ScienceDirect, SpringerLink, IEEE Xplore, MDPI, and PubMed — with no surveys, interviews, or experiments, and the whole analysis rests on 8 references.
 - No search protocol, screening criteria, date window, or count of included studies is reported, so the evidence base behind the balanced conclusion cannot be audited or reproduced.
 - The paper's stated purpose is to compare two contrasting perspectives rather than test them, and it acknowledges that analytical work critically comparing these viewpoints remains limited.
 - Claims about memory and cognition, such as the Google effect extended to reasoning, are carried over from cited studies rather than measured in learners here, so effect sizes for AI-assisted study remain unquantified.

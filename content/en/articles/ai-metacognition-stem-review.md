@@ -24,7 +24,7 @@ confidence: high
 - **Dataset:** 135 peer-reviewed articles (2005–2025) from Scopus and Web of Science
 - **Core studies:** 24 studies selected via PRISMA 2020 protocols for in-depth review
 - **Methods:** Bibliometric mapping (Biblioshiny, VOSviewer) + qualitative thematic synthesis
-- **Theoretical frameworks:** Flavell's metacognition theory, General Systems Theory, Human-Centered vs. Posthumanist paradigms
+- **[[theories-and-frameworks|Theoretical frameworks]]:** Flavell's metacognition theory, General Systems Theory, Human-Centered vs. Posthumanist paradigms
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ confidence: high
 
 | Paradigm | Core Idea | AI Role |
 |-----------|-----------|---------|
-| **Human-Centered** (traditional) | AI supports human agency with [[ethics|ethical]] oversight | Supportive tool under teacher control |
+| **Human-Centered** (traditional) | AI supports human agency with [[ethics|ethical]] oversight | Supportive tool under [[teacher-role|teacher]] control |
 | **Posthumanist** (emerging) | Learning = co-regulated process distributed between humans and AI | AI as co-agent in reflective processes |
 
 **Finding:** While most [[research-methods-aied|research]] remains grounded in **human-centered conceptualizations**, there are emerging indications of **posthumanist framings** where AI systems are positioned as **co-regulators of learning**.
@@ -43,7 +43,7 @@ confidence: high
 |--------------|---------|----------------------|
 | **[[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS)** | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
 | **Adaptive Platforms** | Deep RL-based systems | Enhance metacognitive outcomes via adaptive scaffolds |
-| **[[learning-analytics|Learning Analytics]]** | Dashboards, tracking tools | Externalize metacognitive processes, support [[reflection]] |
+| **[[learning-analytics|Learning Analytics]]** | [[visualization|Dashboards]], tracking tools | Externalize metacognitive processes, support [[reflection]] |
 | **[[generative-ai|Generative AI]]** | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |
 
 **Core shift:** From **individual reflection** → **system-level [[regulation]] and [[distributed-cognition|distributed cognition]]**.
@@ -119,7 +119,7 @@ Teacher ↔ AI System ↔ Student
 
 - The in-depth synthesis rests on 24 studies selected through PRISMA 2020 screening of a 135-article corpus (2005–2025) drawn from Scopus and Web of Science, so work outside those indexes is absent.
 - The authors state that few included studies used longitudinal or experimental designs capable of identifying causal or sustained effects of AI-mediated metacognitive interventions.
-- Coverage is uneven across STEM: reviewed studies concentrate in mathematics and science education, with limited representation in technology and engineering education and in early-childhood and teacher-education contexts.
+- Coverage is uneven across STEM: reviewed studies concentrate in mathematics and [[science-education|science education]], with limited representation in technology and [[engineering-education|engineering education]] and in early-childhood and [[teacher-education]] contexts.
 - Measurement is inconsistent across the reviewed studies — the review's own stated barrier — because metacognitive outcomes were assessed with differing instruments, so reported benefits cannot be pooled or compared directly.
 
 ## Citation

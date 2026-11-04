@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Wang and colleagues (2026) name a failure mode that runs through most LLM [[simulating-students|student simulation]]: **competency bias**, where a model optimizes for efficient correctness instead of the erratic, iterative struggle that characterizes a novice. Their answer is architectural rather than rhetorical. BEAGLE is a neuro-symbolic framework that imposes [[self-regulated-learning]] theory on the generator — a semi-Markov model controls when cognitive and metacognitive behaviors occur, [[knowledge-tracing|Bayesian knowledge tracing]] with explicit flaw injection creates realistic gaps and "unknown unknowns", and a decoupled Strategist/Executor split stops the model from silently fixing the errors it was supposed to make. On Python problem-solving tasks it reproduces authentic trajectories better than prompting, rule-based, and agentic baselines (DKL = 0.31 against a best baseline of 0.53), and in a human Turing test 71 raters could not tell its traces from real student data (52.8% accuracy, d′ = 0.15). The paper's sharpest result is an ablation: injecting BEAGLE's own metacognitive vocabulary into baselines never beat DKL = 0.63, and removing the symbolic controller while keeping the prompts pushed DKL to 6.81 — sequence-level student simulation, they argue, cannot be recovered by context engineering alone.
+> **Synthesis:** Wang and colleagues (2026) name a failure mode that runs through most [[llm]] [[simulating-students|student simulation]]: **competency bias**, where a model optimizes for efficient correctness instead of the erratic, iterative struggle that characterizes a novice. Their answer is architectural rather than rhetorical. BEAGLE is a neuro-symbolic framework that imposes [[self-regulated-learning]] theory on the generator — a semi-Markov model controls when cognitive and [[metacognition|metacognitive]] behaviors occur, [[knowledge-tracing|Bayesian knowledge tracing]] with explicit flaw injection creates realistic gaps and "unknown unknowns", and a decoupled Strategist/Executor split stops the model from silently fixing the errors it was supposed to make. On Python [[problem-solving]] tasks it reproduces authentic trajectories better than [[prompt-engineering|prompting]], rule-based, and agentic baselines (DKL = 0.31 against a best baseline of 0.53), and in a human Turing test 71 raters could not tell its traces from real student data (52.8% accuracy, d′ = 0.15). The paper's sharpest result is an ablation: injecting BEAGLE's own metacognitive vocabulary into baselines never beat DKL = 0.63, and removing the symbolic controller while keeping the prompts pushed DKL to 6.81 — sequence-level student simulation, they argue, cannot be recovered by context engineering alone.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ source_depth: full text
 5. In a human Turing test with 71 raters, classification accuracy between BEAGLE traces and real student traces was 52.8% — statistically equivalent to chance (d′ = 0.15, pTOST = 0.038).
 6. Prompt-level fixes do not close the gap: baselines given BEAGLE's own metacognitive prompt never beat DKL = 0.63 or realism 1.64, and removing the semi-Markov controller while preserving the prompts pushed DKL to 6.81.
 7. The evaluation spans four tasks — Particle Simulator (projectile motion with gravity and drag), Bouncing Ball, Inclined Plane, and an out-of-distribution Gradient Descent task — sharing 24 knowledge components (11 coding, 8 physics, 5 math), with 11 to 14 invoked per problem.
-8. Results hold across six frontier backbones (Gemini 2.0/2.5/3 Flash, GPT-4o-mini, GPT-4.1-mini, Claude Haiku 4.5), with the main table run at N = 50 simulations and T = 30 steps on Gemini 2.0 Flash.
+8. Results hold across six frontier backbones (Gemini 2.0/2.5/3 Flash, GPT-4o-mini, GPT-4.1-mini, Claude Haiku 4.5), with the main table run at N = 50 [[simulation|simulations]] and T = 30 steps on Gemini 2.0 Flash.
 
 ## Three mechanisms, and why the architecture matters
 
@@ -50,7 +50,7 @@ Each of the three components addresses a different way a simulator drifts. The s
 
 - **Residual competency bias on the strongest backbones.** The authors report that the bias is reduced rather than eliminated, and that capability-adaptive symbolic-control gain is the natural next step.
 - **A knowledge–fluency trade-off.** Enforcing realistic knowledge gaps costs fluency, which the authors say calls for richer mastery representations rather than a better prompt.
-- **Single-agent scope, and a narrow task family.** BEAGLE simulates one learner in Python programming tasks spanning physics and applied math; multi-agent classrooms and adaptive tutoring policies trained on synthetic trajectories are left to future work ([[limitations-in-aied-research]]).
+- **Single-agent scope, and a narrow task family.** BEAGLE simulates one learner in Python programming tasks spanning physics and applied math; [[agentic-ai|multi-agent]] classrooms and adaptive tutoring policies trained on synthetic trajectories are left to future work ([[limitations-in-aied-research]]).
 
 ## Citation
 

@@ -36,7 +36,7 @@ page_kind: [evaluation]
 - The design is quasi-experimental: the 120 Grade 8 students (mean age = 12.79 years, SD = 0.68) were assigned as intact classes, not randomly, and no baseline covariate adjustment was made, so residual selection bias may persist and causality should be read with caution.
 - The intervention ran for one academic term, so longer-term effects and sustainability remain unknown.
 - Participants came from a single grade level, limiting generalization to other grades, school settings, and demographic backgrounds.
-- Attitudes and self-perceptions were captured through a questionnaire using Likert-type items, so those measures are self-report and the critical problem-solving null result rests on the study's own tasks.
+- Attitudes and self-perceptions were captured through a questionnaire using Likert-type items, so those measures are [[self-report-measures|self-report]] and the critical problem-solving null result rests on the study's own tasks.
 
 ## Citation
 

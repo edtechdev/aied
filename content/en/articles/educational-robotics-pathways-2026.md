@@ -33,7 +33,7 @@ This theme reflects learning through **empirical engagement with material system
 
 ## Learning Through Designing
 
-Students designed, built, and iteratively refined costumes for their robots (e.g., a Star character from Disney's *Wish*, a SpongeBob figure). The design process became a way of reasoning about robot structure and motion planning.
+Students designed, built, and iteratively refined costumes for their robots (e.g., a Star character from Disney's *Wish*, a SpongeBob figure). The [[design-thinking|design process]] became a way of reasoning about robot structure and motion planning.
 
 - Students learned to treat form, weight, placement, and mobility as **mutually constitutive within a functioning system** — not as mere decoration.
 - E.g., Mike's SpongeBob costume sat on the wheels and was too heavy; he iteratively cut material around the wheels and swapped tape/glue for lighter hot glue; Luna connected costume weight to the robot's inability to turn exactly 90 degrees.
@@ -60,7 +60,7 @@ Notably, the study is **qualitative** — it deliberately does not report quanti
 - **Curriculum designers.** Treat designing, play, and real-world troubleshooting as legitimate endpoints in robotics and AI curricula, not stepping stones toward real coding.
 - **Instructors.** Build material variability (wheel calibration, battery level, lighting, surface reflectivity) into the curriculum as intended content, since it drove students' reasoning about sensor and data limits.
 - Give students room to personalize code and explore features beyond the assignment; one student's sensor experiment produced the insight that the robot can only sense, not see.
-- Extend robotics activities into explicit AI-literacy discussion, for example why background clutter and lighting degrade an image-recognition model.
+- Extend robotics activities into explicit [[ai-literacy]] discussion, for example why background clutter and lighting degrade an image-recognition model.
 
 ## Limitations
 

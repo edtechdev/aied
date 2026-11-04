@@ -12,11 +12,11 @@ discipline: [language learning]
 audience: [instructional designers, institutions]
 ---
 
-> **Synthesis:** Nwogo et al. (2026) build and evaluate an AI-based [[adaptive-learning|adaptive learning]] platform for [[multilingual-learning|multilingual]] and low-resource educational contexts, with a case study on Nigerian Pidgin English. The system integrates fine-tuned large language models (LLMs) within a personalized-and-adaptive-learning (PAL) framework, using a curated Nigerian Pidgin corpus to fine-tune an instruction-tuned model. The study systematically investigates model optimization through multi-level quantization (4-bit, 5-bit, 8-bit), showing that higher-bit quantization improves semantic preservation and structural coherence while lower-bit models offer reduced inference latency with minimal degradation in instructional quality. This yields a deployable, resource-aware intelligent learning system that balances semantic robustness, cultural relevance, and computational efficiency — an experimentally validated framework for adapting LLMs to low-resource languages at practical scale.
+> **Synthesis:** Nwogo et al. (2026) build and evaluate an AI-based [[adaptive-learning|adaptive learning]] platform for [[multilingual-learning|multilingual]] and low-resource educational contexts, with a case study on Nigerian Pidgin English. The system integrates fine-tuned [[llm|large language models (LLMs)]] within a personalized-and-adaptive-learning (PAL) framework, using a curated Nigerian Pidgin corpus to fine-tune an instruction-tuned model. The study systematically investigates model optimization through multi-level quantization (4-bit, 5-bit, 8-bit), showing that higher-bit quantization improves semantic preservation and structural coherence while lower-bit models offer reduced inference latency with minimal degradation in instructional quality. This yields a deployable, resource-aware intelligent learning system that balances semantic robustness, cultural relevance, and computational efficiency — an experimentally validated framework for adapting LLMs to low-resource languages at practical scale.
 
 ## The low-resource multilingual problem
 
-Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited [[personalized-learning|personalization]], inadequate language support, and weak [[curriculum-design|curriculum]] internationalization — reducing [[student-engagement|learner engagement]] and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the knowledge base's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
+Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited [[personalized-learning|personalization]], inadequate language support, and weak [[curriculum-design|curriculum]] internationalization — reducing [[student-engagement|learner engagement]] and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but [[llm-training-and-fine-tuning|fine-tuning]] and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the knowledge base's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
 
 ## Platform design and the Nigerian Pidgin corpus
 
@@ -33,7 +33,7 @@ Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perple
 
 ## What this means for practice
 
-- **Edtech designers.** Choose the quantization level deliberately: 8-bit preserved semantic structure and coherence best, while the 4- and 5-bit models cut inference latency with only minimal degradation in instructional quality, so match bit width to the deployment hardware.
+- **[[educational-technology-developers|Edtech designers]].** Choose the quantization level deliberately: 8-bit preserved semantic structure and coherence best, while the 4- and 5-bit models cut inference latency with only minimal degradation in instructional quality, so match bit width to the deployment hardware.
 - **Edtech designers.** Validate cultural acceptability with native speakers rather than relying on automatic metrics alone — the study paired BLEU, ROUGE-L, BERTScore, perplexity, and lexical diversity with human cultural assessment by native speakers.
 - **Institutions.** Treat the locally curated corpus as the unit of investment: fine-tuning used a 416,343-entry Nigerian Pidgin corpus scraped from BBC Pidgin and Prime9ja, showing that a low-resource language can be served without massive cloud infrastructure.
 - **Institutions.** Plan for constrained connectivity, since offline and low-bandwidth functionality is named as necessary to reach learners in under-resourced settings.
@@ -41,9 +41,9 @@ Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perple
 ## Limitations
 
 - Controlled setting, no field deployment: the evaluation ran in a controlled experimental setting, and large-scale longitudinal deployment in formal institutions was out of scope.
-- Proxy outcomes: learner engagement and learning outcomes were assessed through short-term interactions and proxy measures rather than extended academic performance over time.
+- Proxy outcomes: learner engagement and learning outcomes were assessed through short-term interactions and proxy measures rather than extended [[learning-gains|academic performance]] over time.
 - One language only: Nigerian Pidgin English was the single representative low-resource language tested, so generalization to Nigeria's more than 520 indigenous languages is untested.
-- Small evaluation set: the quantitative comparison used 14 sample prompts, which the authors describe as a baseline for comparative analysis rather than an absolute ground truth, and the fine-tuning corpus was scraped from news platforms rather than classroom material.
+- Small evaluation set: the [[quantitative-research|quantitative]] comparison used 14 sample prompts, which the authors describe as a baseline for comparative analysis rather than an absolute ground truth, and the fine-tuning corpus was scraped from news platforms rather than classroom material.
 
 ## Citation
 

@@ -17,7 +17,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Separate the three framings before you assign AI use: conceptual scaffold, retrieval practice, and productivity substitute are not interchangeable, and the analysis found three structurally distinct discourse groups across 52 videos and 557 coded transcript chunks.
+- **Instructors.** Separate the three framings before you assign AI use: conceptual scaffold, [[retrieval-spacing-interleaving|retrieval practice]], and productivity substitute are not interchangeable, and the analysis found three structurally distinct discourse groups across 52 videos and 557 coded transcript chunks.
 - **Instructors.** Teach with the retrieval-practice framing, which aligned with active cognitive engagement, rather than the productivity framing, which positioned ChatGPT as a substitute for effort.
 - **Learners.** Read "use ChatGPT to finish faster" videos as advice about output, not about learning: productivity-framed content framed the tool as replacing effort yet reached engagement comparable to skill-oriented content.
 - **Learners.** Seek out learning-aligned videos deliberately rather than trusting popularity as a quality signal, since the most learning-aligned content had the lowest visibility while skill- and productivity-oriented content reached substantially more learners.

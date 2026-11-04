@@ -15,7 +15,7 @@ audience: [instructors, researchers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Hyoung (2026) revisits Knowles's six andragogical assumptions under AI-mediated cognitive delegation. Because generative AI can participate in identifying needs, setting goals, interpreting information, solving problems, producing outputs, and evaluating performance, the paper argues that behavioral independence is insufficient evidence of meaningful self-direction. Five analytical dimensions are derived — need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and motivational autonomy — to assess whether learners remain genuinely self-directed. The work bridges [[adult-learning]] with [[cognitive-offloading]], [[self-regulated-learning]], and appropriate-reliance [[research-methods-aied|research]] for [[adult-learning]] in the [[generative-ai]] era.
+> **Synthesis:** Hyoung (2026) revisits Knowles's six andragogical assumptions under AI-mediated cognitive delegation. Because generative AI can participate in identifying needs, setting goals, interpreting information, solving problems, producing outputs, and evaluating performance, the paper argues that behavioral independence is insufficient evidence of meaningful self-direction. Five analytical dimensions are derived — need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and [[motivation|motivational]] autonomy — to assess whether learners remain genuinely self-directed. The work bridges [[adult-learning]] with [[cognitive-offloading]], [[self-regulated-learning]], and appropriate-reliance [[research-methods-aied|research]] for [[adult-learning]] in the [[generative-ai]] era.
 
 ## Key Findings
 
@@ -51,7 +51,7 @@ The paper integrates [[adult-learning]] theory with [[cognitive-offloading]], ex
 ## Limitations
 
 - This is a conceptual paper with no primary data: the five analytical dimensions are derived by reanalyzing Knowles's six andragogical assumptions against the literature, so the framework is a set of claims awaiting test, as its own falsifiability statement concedes.
-- Its strongest empirical anchor is a single study — Bassner et al.'s three-arm randomized controlled trial with 275 introductory-programming students — which the paper itself says is context-specific and "should not be generalized to all adult learning."
+- Its strongest empirical anchor is a single study — Bassner et al.'s three-arm [[rct|randomized controlled trial]] with 275 introductory-programming students — which the paper itself says is context-specific and "should not be generalized to all adult learning."
 - The framework's applicability is explicitly gated (task consequentiality, learner discretion), and where goals, methods and AI functions are entirely imposed by an institution it has, in the author's words, reduced explanatory leverage for self-direction.
 - The paper is an EdArXiv preprint and has not been peer reviewed.
 

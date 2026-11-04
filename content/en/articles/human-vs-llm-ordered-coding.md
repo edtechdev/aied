@@ -26,7 +26,7 @@ page_kind: [evaluation]
 - Frequency discrepancies were large: the LLM over-assigned **Reaction (2,107 vs. 823 human codes)** and **Discussion (1,092 vs. 756)**, while humans produced far more **Monitoring (1,185 vs. 283)** and **CoRegulation (1,352 vs. 770)**; only Coordination (2,591 vs. 2,439) and Socializing (1,329 vs. 1,182) aligned within chance.
 - Binary agreement was modest: overall accuracy ranged **0.693–0.888**, recall was very low for **Feedback (0.131)** and **Monitoring (0.100)**, and Cohen's kappa ranged **0.090–0.539** with most categories below 0.400.
 - The LLM detected multi-step transition patterns far more often than humans (e.g., **Coordination→Socializing: 46 vs. 378 occurrences**; **Discussion→Coordination: 19 vs. 268**), and its detection was position-dependent — Discussion and Monitoring found early in messages, socio-emotional codes late — whereas human coding was more evenly distributed across message positions.
-- Because classification errors can propagate through automated feedback systems, **relying on LLM outputs risks amplifying inaccuracies** and producing misleading interpretations of learning processes.
+- Because classification errors can propagate through [[ai-feedback-quality|automated feedback]] systems, **relying on LLM outputs risks amplifying inaccuracies** and producing misleading interpretations of learning processes.
 
 ## Study Design & Method
 
@@ -35,7 +35,7 @@ The researchers treat coding quality not as a single accuracy number but along m
 ## What this means for practice
 
 - **Researchers.** Treat LLM coding as a **[[human-in-the-loop-ai|human-in-the-loop]]** proposition: validate its output with the proposed evaluation metrics before feeding it into automated feedback, which matters for [[automated-assessment]], [[educational-nlp]] and any [[learning-analytics]] analysis built on LLM-coded transcripts.
-- **Learning analytics designers.** Expect systematic rather than random deviation: the model foregrounded surface-level social exchange (Socializing, Reaction) and under-represented regulatory and collaborative processes (Coordination, CoRegulation, Monitoring), which risks painting a more rigid, socially-driven picture of group learning than human coders would produce.
+- **Learning analytics designers.** Expect systematic rather than random deviation: the model foregrounded surface-level social exchange (Socializing, Reaction) and under-represented regulatory and collaborative processes (Coordination, CoRegulation, Monitoring), which risks painting a more rigid, socially-driven picture of [[collaborative-learning|group learning]] than human coders would produce.
 - **Learning analytics designers.** Protect the temporal analyses downstream: plausible-looking coding can cascade its deviations into later results, so the size of the disagreement matters more than how fluent the coding looks.
 - **Researchers.** Reconsider what counts as ground truth: human coding is treated as the reference here even though coding is interpretive and, in an ordered scheme, disagreement can come from where the text is segmented as much as from which code applies.
 

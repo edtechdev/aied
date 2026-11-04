@@ -20,7 +20,7 @@ page_kind: [framework]
 
 - **Placement, not allow-or-ban, is the design question:** AI belongs wherever it increases feedback, practice density, or realism without obscuring evidence that the student can think and perform unaided.
 - **Causal evidence flips on design:** unguarded AI helper → ~17% worse on an unaided exam; same model withholding answers → harm erased; well-engineered tutor → roughly doubled learning.
-- **The six moves** (Prime, Probe, Point, Attach, Strengthen, Test) model how one idea takes root, unifying [[productive-failure]]/problem-before-instruction, [[scaffolding|worked-example]], [[socratic-method|Socratic]]/cognitive-apprenticeship, deliberate-practice, and retrieval/self-explanation literatures.
+- **The six moves** (Prime, Probe, Point, Attach, Strengthen, Test) model how one idea takes root, unifying [[productive-failure]]/problem-before-instruction, [[scaffolding|worked-example]], [[socratic-method|Socratic]]/cognitive-[[sociocultural-learning|apprenticeship]], deliberate-practice, and retrieval/self-explanation literatures.
 - **Protected moments:** Probe (first hard attempt) and Test (final unaided check) are AI-out; Point/Attach/Strengthen allow guarded AI (hints, examples, practice); Prime is low-risk.
 - **Diagnostic:** "If letting AI in makes the task feel effortless, it is in the wrong place" — but effort on the skill itself matters; AI should clear away the busywork that is not the skill (looking up, formatting, dead ends).
 - **Placement as [[governance]]:** an AI-use policy becomes a per-skill design principle rather than a blanket prohibition list; the secured final check is the load-bearing point for grade and credential integrity.
@@ -36,8 +36,8 @@ page_kind: [framework]
 
 - The paper is a practical synthesis with no new empirical results: its argumentative weight rests on established cognitive and social science, while the AI-specific layer (2023–2026) is fast-moving, heterogeneous, and partly made of preprints.
 - The frame covers one idea, on first encounter, in a single pass; durable retention through spacing and review is a layer above it, and the assessment architecture, AI-use contracts, syllabus templates, and per-course blueprints are explicitly out of scope.
-- Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the cognitive-offloading EEG work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
-- The motivating master-teacher cases (Aristotle, Keller, Rátz, Szubartowski) illustrate what one-to-one mentoring can achieve but cannot establish causation — selection and survivorship effects dominate and the figures are non-peer-reviewed — and the model assumes the motivated, engaged student it cannot itself supply.
+- Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the [[cognitive-offloading]] EEG work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
+- The motivating master-[[teacher-role|teacher]] cases (Aristotle, Keller, Rátz, Szubartowski) illustrate what one-to-one mentoring can achieve but cannot establish causation — selection and survivorship effects dominate and the figures are non-peer-reviewed — and the model assumes the motivated, engaged student it cannot itself supply.
 
 ## Citation
 

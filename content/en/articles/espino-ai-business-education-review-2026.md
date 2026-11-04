@@ -17,7 +17,7 @@ methods: [meta-analysis-systematic-review]
 
 ## Key Findings
 
-- **Four dominant research clusters emerge from bibliographic coupling.** Cluster 1 (business education transformation in the AI era) foregrounds AI's role in [[curriculum-design|curriculum]] and knowledge construction; Cluster 2 (innovative digital pedagogies) ties AI to [[active-learning|active]] and [[experiential-learning|experiential]] learning approaches like [[simulation]]; Cluster 3 (AI-driven personalization) centers on [[personalized-learning|personalized learning]] via [[conversational-ai|chatbots]], avatars, and [[learning-analytics|learning analytics]]; Cluster 4 (transformation for the digital economy) links AI to entrepreneurship education and workforce readiness. Together they show research shifting from discrete tool experiments to systemic, pedagogically grounded concerns.
+- **Four dominant research clusters emerge from bibliographic coupling.** Cluster 1 (business education transformation in the AI era) foregrounds AI's role in [[curriculum-design|curriculum]] and knowledge construction; Cluster 2 (innovative digital pedagogies) ties AI to [[active-learning|active]] and [[experiential-learning|experiential]] learning approaches like [[simulation]]; Cluster 3 (AI-driven personalization) centers on [[personalized-learning|personalized learning]] via [[conversational-ai|chatbots]], avatars, and [[learning-analytics|learning analytics]]; Cluster 4 (transformation for the digital economy) links AI to entrepreneurship education and [[career-development-and-readiness|workforce readiness]]. Together they show research shifting from discrete tool experiments to systemic, pedagogically grounded concerns.
 
 - **Co-word analysis reveals three conceptual trends.** From 6,731 extracted keywords (65 meeting a ≥10-occurrence threshold), three clusters form: (1) technological transformation in business education, (2) [[curriculum-design|curriculum]] integration of [[generative-ai|generative AI]] tools (ChatGPT, chatbots), and (3) advancing quality in business education through AI. The field's most co-occurring terms — artificial intelligence (119), education (110), student (106) — underscore both its technological foundations and its learner-centered orientation.
 
@@ -27,7 +27,7 @@ methods: [meta-analysis-systematic-review]
 
 - **Generative AI demands authentic, process-oriented assessment.** The co-occurrence of generative-AI themes with [[assessment]] and integrity terminology signals an emerging tension: instead of misconduct prevention, the literature increasingly stresses [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-visible]] assessment aligned with intended [[learning-gains|learning outcomes]] — tasks requiring interpretation, contextual application, and iterative refinement that resist automation.
 
-- **Bibliometric synthesis complements narrative reviews.** Because the dataset is large (213 articles), longitudinal (2015–2024), and methodologically replicable, the review offers a system-level map that narrative literature reviews miss, providing an empirical foundation for future research agendas and strategic educational reform.
+- **Bibliometric synthesis complements narrative reviews.** Because the dataset is large (213 articles), longitudinal (2015–2024), and methodologically replicable, the review offers a system-level map that narrative literature reviews miss, providing an empirical foundation for future research agendas and strategic [[change-management|educational reform]].
 
 ## Study Design & Method
 
@@ -43,7 +43,7 @@ methods: [meta-analysis-systematic-review]
 
 - **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[process-oriented-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
 - **Administrators.** Fund sustained [[educational-development|educator development]] in pedagogical competence, ethical judgment, and assessment literacy ahead of tool procurement, because educator readiness recurs as an unresolved gap in every cluster rather than a one-off training need.
-- **Researchers.** Build next studies on the four bibliographic-coupling clusters and three co-word trends, targeting the curriculum-coherence, educator-readiness, and assessment-validity gaps instead of adding another single-tool case.
+- **Researchers.** Build next studies on the four bibliographic-coupling clusters and three co-word trends, targeting the curriculum-coherence, educator-readiness, and [[assessment-validity]] gaps instead of adding another single-tool case.
 
 ## Limitations
 

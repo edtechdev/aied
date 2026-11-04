@@ -22,13 +22,13 @@ confidence: high
 - **Instructors.** Teach constraint specification as a syllabus item, not an incidental skill: 675 students in the first batch and 821 in the second generated at least one initially incorrect prompt that required clarification.
 - **Instructors.** Teach a repair vocabulary for wrong generated code — reframe the task, clarify a constraint, update a signature, add an edge case — so students do not respond to failure by simply re-asking the same prompt.
 - **Instructors.** Build in [[reflection]] on the debugging process, since perceived difficulty and frustration tracked the model's difficulty in interpreting intent rather than the task itself.
-- **Researchers.** Analyze iterative prompt refinement against students' self-reported strategies; the study stopped short of linking the two, which is the open question for advanced courses where test cases are not provided.
+- **Researchers.** Analyze iterative prompt refinement against students' [[self-report-measures|self-reported]] strategies; the study stopped short of linking the two, which is the open question for advanced courses where test cases are not provided.
 - **Administrators.** Fund [[scaffolding]] around [[prompt-engineering|prompt construction]] for CS1 at scale: with more than 900 students attempting these tasks, prompt-level mistakes are the common case, not the exception.
 
 ## Limitations
 
 - The study is confined to an introductory C programming course and its relatively simple problems, so findings may not generalize to other languages or to realistic, advanced programming scenarios.
-- Student demographic data could not be collected under the terms of the ethics approval, so whether the approach is equitable across student populations remains untested.
+- Student demographic data could not be collected under the terms of the ethics approval, so whether the approach is [[equity-in-ai-education|equitable]] across student populations remains untested.
 - Cognitive load was not measured, leaving the alignment with cognitive load theory theoretical rather than empirical.
 - The analysis describes prompt mistakes and reported debugging strategies without an in-depth study of how students iteratively refine prompts or whether that refinement improves outcomes.
 

@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Boos, Eder, and Lachner (2026) test whether a scaffolded utility-value intervention improves pre-service teachers' integration of technological, [[pedagogy|pedagogical]], and [[ethics|ethical]] knowledge ([[generative-ai|GenAI]]-TPEK) for responsible AI use in [[teacher-role|teaching]], in an experimental field study of 158 pre-service teachers assigned to a utility-value intervention, a scaffolded utility-value intervention, or control. The interventions produced no general effects on knowledge acquisition or integration, but exploratory moderation analyses showed the utility-value intervention was actually detrimental to knowledge integration for learners who already began with high perceived utility-value.
+> **Synthesis:** Boos, Eder, and Lachner (2026) test whether a scaffolded utility-value intervention improves pre-service teachers' integration of technological, [[pedagogy|pedagogical]], and [[ethics|ethical]] knowledge ([[generative-ai|GenAI]]-TPEK) for [[ai-literacy|responsible AI use]] in [[teacher-role|teaching]], in an experimental field study of 158 pre-service teachers assigned to a utility-value intervention, a scaffolded utility-value intervention, or control. The interventions produced no general effects on knowledge acquisition or integration, but exploratory moderation analyses showed the utility-value intervention was actually detrimental to knowledge integration for learners who already began with high perceived utility-value.
 
 ## Key Findings
 

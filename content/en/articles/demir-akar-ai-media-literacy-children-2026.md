@@ -35,7 +35,7 @@ methods: [mixed-methods-research]
 
 - Thirty-six fourth-grade students (18 experimental, 18 control) in a single public primary school in Turkey's Aegean region, assigned to condition by purposive sampling based on availability and the school's infrastructural readiness rather than at random.
 - The intervention lasted 18 hours, which the authors state may not capture long-term cognitive or behavioral change.
-- Media literacy was measured with a 12-item, 3-point Likert self-report disposition scale (Never/Sometimes/Always), and the qualitative evidence came from student reflections, posters, and observations, so response bias is possible.
+- Media literacy was measured with a 12-item, 3-point Likert [[self-report-measures|self-report]] disposition scale (Never/Sometimes/Always), and the qualitative evidence came from student reflections, posters, and observations, so response bias is possible.
 - The tools presuppose devices, connectivity, and digital-literacy support that the participating school already had; the authors flag that these disparities were not tested for scalability.
 
 ## Citation

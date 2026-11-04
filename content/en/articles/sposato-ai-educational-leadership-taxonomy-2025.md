@@ -18,7 +18,7 @@ institutions: [change-management, educational-policy-ai, governance]
 
 ## Core Finding
 
-**Educational leaders lack a comprehensive, structured framework for categorizing, evaluating, and implementing AI in their institutions, and this study supplies one: a validated ten-domain taxonomy of AI applications in educational leadership.** Because AI adoption in higher education is fragmented and poorly understood at the leadership level, leaders need a conceptual map that spans operational automation through ethical governance. The taxonomy is grounded in three theoretical frameworks — transformative leadership theory, the adaptive organizational framework, and an ethical AI implementation framework — and is designed to apply across [[k-12]], [[higher-ed]], vocational, and continuing education contexts. The study explicitly argues for a balanced approach that leverages technological advances while actively managing [[ethics]] and [[accessibility|equity]] concerns.
+**Educational leaders lack a comprehensive, structured framework for categorizing, evaluating, and implementing AI in their institutions, and this study supplies one: a validated ten-domain taxonomy of AI applications in educational leadership.** Because AI adoption in higher education is fragmented and poorly understood at the leadership level, leaders need a conceptual map that spans operational automation through ethical governance. The taxonomy is grounded in three [[theories-and-frameworks|theoretical frameworks]] — transformative leadership theory, the adaptive organizational framework, and an ethical AI implementation framework — and is designed to apply across [[k-12]], [[higher-ed]], vocational, and [[adult-learning|continuing education]] contexts. The study explicitly argues for a balanced approach that leverages technological advances while actively managing [[ethics]] and [[accessibility|equity]] concerns.
 
 ## The Ten-Domain Taxonomy
 
@@ -27,12 +27,12 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 - **Administrative Efficiency** — automated scheduling, data-driven decision support, HR/enrollment analytics, budget forecasting, dropout-risk prediction. AI scheduling has been reported to cut administrative workload by up to 40%, and enrollment systems to predict patterns with >85% accuracy.
 - **Personalized Learning** — [[adaptive-learning]] platforms, [[intelligent-tutoring]] systems, [[learning-analytics]], virtual tutors that adjust content difficulty in real time.
 - **Enhancing [[teacher-role|Teaching]] Practices** — AI in [[curriculum-design]], teacher professional development, intelligent classroom management, and real-time [[feedback]] on classroom dynamics.
-- **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[ai-detection|detection]], supporting [[educational-policy-ai]].
-- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[conversational-ai|chatbots]].
+- **Decision-Making and Policy Formulation** — predictive analytics, [[affective-computing|sentiment analysis]], ethical/equity decision support, and bias [[ai-detection|detection]], supporting [[educational-policy-ai]].
+- **Student Support Services** — AI-based career counseling, [[well-being|mental health]] analytics, early warning systems, and 24/7 AI [[conversational-ai|chatbots]].
 - **Organizational Leadership and Strategic Planning** — strategic resource allocation, trend forecasting, and risk/crisis management.
 - **Governance and Compliance** — [[regulation|regulatory]] compliance monitoring, fraud detection, and data integrity, tied to [[governance]].
 - **Community Engagement and Communication** — communication tools, feedback analytics, and social media monitoring.
-- **Ethical AI Leadership and Governance** — [[bias-mitigation|bias mitigation]], [[privacy]]/data security, and transparent AI-use policies.
+- **Ethical AI Leadership and Governance** — [[bias-mitigation|bias mitigation]], [[privacy]]/data security, and [[explainable-ai|transparent AI]]-use policies.
 - **Diversity, Equity, and Inclusion (DEI) Initiatives** — AI-driven equity audits, inclusive curriculum design, and [[special-education]] support.
 
 ## Methodological Approach

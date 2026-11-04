@@ -35,11 +35,11 @@ This is an **empirical synthesis** applying a comparative and interpretive desig
 - **Instructors.** Demonstrate AI use in class rather than only mentioning it, and attach structured feedback to it: the study recorded AI mentioned in only 10.9% of class sessions and demonstrated in fewer than 6%, while students reported learning about AI informally and on their own. Evaluate ethical AI use through process, [[reflection]], and judgment rather than detection alone.
 - **Learners.** Build competence through peer collaboration and practice, since students' willingness correlated with [[self-efficacy]] (r = .730) and collaboration (r = .653) far more than with formal instruction.
 - **Administrators.** Publish clear, context-sensitive guidance on AI use with named points of contact, because instructors' [[ethics|ethical]] awareness tracked facilitating conditions (r = .322) and the largest gap in the study was students rating support low (M = 2.19).
-- **Faculty developers.** Tier professional development to the three instructor profiles the cluster analysis found (Beginner 24%, Intermediate 56%, Advanced 20%) and lead with [[ethics]], the scale that discriminated most strongly between them (F = 124.073, p < .001), instead of running uniform workshops.
+- **Faculty developers.** Tier [[educational-development|professional development]] to the three instructor profiles the cluster analysis found (Beginner 24%, Intermediate 56%, Advanced 20%) and lead with [[ethics]], the scale that discriminated most strongly between them (F = 124.073, p < .001), instead of running uniform workshops.
 
 ## Limitations
 
-- Both questionnaires used non-representative convenience samples (n = 226 students, n = 256 instructors) drawn largely from Hungary (56.6%) and Austria (25.5%), so the group differences cannot be generalized to European or global [[higher-ed|higher education]].
+- Both [[self-report-measures|questionnaires]] used non-representative convenience samples (n = 226 students, n = 256 instructors) drawn largely from Hungary (56.6%) and Austria (25.5%), so the group differences cannot be generalized to European or global [[higher-ed|higher education]].
 - All measures are self-report on five-point Likert scales, which the author notes may not capture the full complexity of actual practice.
 - The two datasets were collected separately in 2024 and combined as an empirical synthesis, so student and instructor responses are not paired within the same institutions or courses.
 - The comparative design captures group differences at a single time point and cannot show how ethical literacy develops through instruction, mentorship, or institutional reform.

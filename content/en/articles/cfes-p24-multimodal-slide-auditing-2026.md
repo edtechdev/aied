@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether [[multimodal]] large language models (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. 
+> **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether [[multimodal]] [[llm|large language models]] (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. 
 
 ## The problem with holistic ratings
 
@@ -70,7 +70,7 @@ Both sham calls were correctly classified as having **no material difference**. 
 - Only 21 of the 504 registered counterfactual pairs were generated, so the registry is a design specification rather than a completed dataset.
 - The frozen pilot gate has five pairs and 10 model calls; its Wilson intervals are wide and do not support model ranking, and no frozen result exists for the coherence or segmenting principles.
 - Prompt and schema development was adaptive before the gate was frozen, so the reported boundary is a development-stage validation rather than an independent confirmatory test.
-- The lessons are author-created and Chinese-language, and neither [[teacher-role|teachers]] nor students used the system and no authentic classroom files were analyzed, leaving usability, workload, adoption, and [[learning-gains|learning outcomes]] outside the evidence.
+- The lessons are author-created and Chinese-language, and neither [[teacher-role|teachers]] nor students used the system and no authentic classroom files were analyzed, leaving [[usability-research|usability]], workload, adoption, and [[learning-gains|learning outcomes]] outside the evidence.
 
 ## Citation
 

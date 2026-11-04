@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T17:35:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 - One study found AI-segmented videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners. How might designing for one group's needs improve learning for everyone?
 - AI systems are described as risking new accessibility gaps even as they remove old ones. What kind of learner might a text-based, visual, always-online AI tool silently exclude?
 - Inclusive assessment research exposes a tension between anti-cheating measures and accommodating learners with visual-processing needs. When security and accessibility conflict, how should the trade-off be decided — and by whom?
-- Several tools invert the assumption that [[edtech-platform|edtech]] must be visual — e.g., voice-first companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
+- Several tools invert the assumption that [[edtech-platform|edtech]] must be visual — e.g., [[speech-and-voice-technologies|voice-first]] companions for visually impaired learners. What assumptions about the 'default' learner might your own tools or materials be making?
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 
 | Concept | Core question it answers | Typical focus |
 |---|---|---|
-| **Inclusive Learning** *(this page)* | How do we design education so all learners can meaningfully participate? | The broad design of instruction across learner variability |
+| **Inclusive Learning** *(this page)* | How do we [[design-education|design education]] so all learners can meaningfully participate? | The broad design of instruction across learner variability |
 | **[[accessibility]]** | Can everyone perceive and operate the *format/medium*? | Captions, alt text, transcripts, contrast, keyboard/screen-reader compat, WCAG |
 | **[[assistive-technology]]** | What tools/equipment bridge an individual's access gap? | Screen readers, TTS/STT, braille/tactile, captioning, AI accommodations |
 | **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring — **primarily a [[k-12]] term (IDEA/entitlement)** |
@@ -85,7 +85,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 **"Supplying assistive technology supplies agency."** The two are distinct, and the page's own framing says so: assistive tech does not guarantee meaningful agency. A tool that lets a learner complete the required task can also route them toward the narrowest version of it, and the difference between a scaffold and a ceiling is invisible in an adoption metric.
 
-**"Students who struggle should simply learn to prompt better."** That converts a system defect into a learner deficit. With the underlying task held fixed, model accuracy rose only from **82.4% for low-literacy wording to 83.4% for expert phrasing** — a one-point difference — while requiring better prompting adds a new exclusion on top of the existing one. The leverage is in the system-side handling of language variation, not in remedial prompt training.
+**"Students who struggle should simply learn to prompt better."** That converts a system defect into a learner deficit. With the underlying task held fixed, model accuracy rose only from **82.4% for low-literacy wording to 83.4% for expert phrasing** — a one-point difference — while requiring better [[prompt-engineering|prompting]] adds a new exclusion on top of the existing one. The leverage is in the system-side handling of language variation, not in remedial prompt training.
 
 **"A tool built for well-resourced classrooms will serve low-resource contexts once translated."** Context changes the design constraint. [[suacode-african-students-motivations|SuaCode]] reached students in low-resource African contexts where **fewer than 1% have coding skills** by building for smartphones rather than desktop lab machines, which is a different design, not a smaller version of the same one.
 

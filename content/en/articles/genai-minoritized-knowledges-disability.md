@@ -15,11 +15,11 @@ confidence: high
 sources: ['raw/papers/genai-minoritized-knowledges-disability.md']
 ---
 
-> **Synthesis:** This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
+> **Synthesis:** This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the [[design-thinking|design process]] entirely.
 
 ## Double Marginalization
 
-The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
+The paper identifies a **double marginalization** for [[special-education|disabled learners]]: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
 
 ## Epistemic Coloniality
 

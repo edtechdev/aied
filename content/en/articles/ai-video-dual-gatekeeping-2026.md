@@ -42,7 +42,7 @@ The authors surface three tensions: negotiating [[agency]] when automated flags 
 ## Limitations
 
 - The human evaluation is a within-subject study of 23 educators across 3 topics, with no control group and no comparison against an unassisted authoring baseline, so improvements are measured against the participants' own pre-review drafts.
-- The educator evidence is self-report on 13 rating items covering the 12 CTML principles; the objective automated layer covered only 14 videos (7 topics × 2 conditions), and three of its five metrics were near ceiling and showed no significant change.
+- The educator evidence is [[self-report-measures|self-report]] on 13 rating items covering the 12 CTML principles; the objective automated layer covered only 14 videos (7 topics × 2 conditions), and three of its five metrics were near ceiling and showed no significant change.
 - The authors describe the results as *early evidence* and state that proxy metrics cannot establish causal impact on student [[learning-gains|learning outcomes]] — no student outcome data were collected.
 
 ## Citation

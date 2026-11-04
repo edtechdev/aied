@@ -57,8 +57,8 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 
 ## Limitations
 
-- The analysis is cross-sectional and single-session: 213 students recruited from universities in Beijing completed one 45-minute human-AI problem-solving task, with 173 retained after screening for missing dialogue records or incomplete questionnaires.
-- Self-regulation, co-regulation and socially-shared regulation were measured by post-task self-report questionnaire rather than behavioral or physiological trace data — the gap the authors' own call for multimodal fusion (eye-tracking, affective computing) concedes.
+- The analysis is cross-sectional and single-session: 213 students recruited from universities in Beijing completed one 45-minute human-AI problem-solving task, with 173 retained after screening for missing dialogue records or incomplete [[self-report-measures|questionnaires]].
+- Self-regulation, co-regulation and socially-shared regulation were measured by post-task self-report questionnaire rather than behavioral or physiological trace data — the gap the authors' own call for [[multimodal]] fusion (eye-tracking, [[affective-computing|affective computing]]) concedes.
 - The three profiles were derived by agglomerative clustering of dialogue codes (Cohen's κ = 0.81); clustering is descriptive, so the design cannot show that a profile causes the performance or regulation differences.
 - Generalizability is bounded by the task — an AGI-themed argumentation problem on the MAIC platform, done by volunteers compensated with 200 RMB.
 

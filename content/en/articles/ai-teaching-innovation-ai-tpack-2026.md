@@ -13,17 +13,17 @@ page_kind: [framework]
 technology: [technology-acceptance-model]
 ---
 
-> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around generative AI while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].
+> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around [[generative-ai|generative AI]] while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].
 
 ## Key Findings
 
-- **Isolated technical AI knowledge did not predict innovation.** Teachers who understood how GenAI tools work, or who could use them functionally, were no more likely to report generating and implementing new teaching practices than those who did not. Competence anchored in pedagogy and subject matter — knowing how to bring AI into one's discipline and how to align it with instructional strategy — is what showed up as innovation.
+- **Isolated technical AI knowledge did not predict innovation.** Teachers who understood how GenAI tools work, or who could use them functionally, were no more likely to report generating and implementing new [[pedagogy|teaching practices]] than those who did not. Competence anchored in pedagogy and subject matter — knowing how to bring AI into one's discipline and how to align it with instructional strategy — is what showed up as innovation.
 
 - **Integrative AI-TPACK worked only indirectly.** The overarching integration construct had no direct link to innovative behavior at all. Whatever influence it carried ran entirely through [[ai-literacy]], teaching [[self-efficacy]], and [[learner-identity|professional identity]].
 
 - **AI literacy was the strongest psychological route.** Of the three mediators, AI literacy carried the largest share of the association between competence and innovation, and it also fed the other two: teachers with stronger AI literacy reported both greater instructional confidence and a stronger sense of professional identity.
 
-- **Professional identity acts as a motivational mechanism.** Teachers who saw AI integration as part of their professional role rather than a threat to it were more likely to innovate, and identity mediated the competence-to-innovation link for every AI-TPACK dimension measured.
+- **Professional identity acts as a [[motivation|motivational]] mechanism.** Teachers who saw AI integration as part of their professional role rather than a threat to it were more likely to innovate, and identity mediated the competence-to-innovation link for every AI-TPACK dimension measured.
 
 - **Teaching self-efficacy helped, but only partly.** Confidence in managing AI-supported instruction mediated the pathway for most competence dimensions — but not for technical AI knowledge, where knowing the technology did nothing to make teachers feel more capable.
 
@@ -44,7 +44,7 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 
 ## Limitations
 
-- **Convenience sample and self-selection.** Voluntary participation likely attracted teachers already interested in AI and more positively disposed toward innovation, and the sample is drawn from eight Chinese universities only, limiting transferability to other higher education systems; **The multi-group finding is borderline and the grouping is coarse.** The high/low usage split lumps "several times a month" together with "never," which may both weaken real group differences and, where they appear, rest on only one marginally significant path coefficient.
+- **Convenience sample and self-selection.** Voluntary participation likely attracted teachers already interested in AI and more positively disposed toward innovation, and the sample is drawn from eight Chinese universities only, limiting transferability to other [[higher-ed|higher education]] systems; **The multi-group finding is borderline and the grouping is coarse.** The high/low usage split lumps "several times a month" together with "never," which may both weaken real group differences and, where they appear, rest on only one marginally significant path coefficient.
 - **Cross-sectional design.** The data cannot establish causal ordering; the authors note that teachers who already innovate may simply report higher competence, identity, and efficacy, so the paths may run in both directions.
 - **[[self-report-measures|Self-reported]] data only.** All focal constructs came from the same respondents at the same time, and the innovation scale retained the wording of a general innovation measure, so some responses may reflect innovative teaching in general rather than AI-specific innovation.
 - **No institutional-level controls.** University policy support, digital infrastructure, AI training provision, and organizational climate were not measured, though they plausibly shape whether competence becomes practice, and respondents were nested within universities.

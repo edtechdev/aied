@@ -27,7 +27,7 @@ page_kind: [evaluation]
 
 ## Study Design & Method
 
-The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one [[teacher-role|teaching]] Python and one teaching Java. Immediate learning performance and [[student-experience|learner experience]] were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. [[student-engagement|Learner engagement]] profiles were derived from the data and used as moderators, allowing the authors to detect differential effects that aggregate analyses could mask. The framing draws on program-[[visualization]] [[research-methods-aied|research]] and [[cognitive-offloading|cognitive load]] theory, in which the effectiveness of visualizations depends on design and context.
+The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one [[teacher-role|teaching]] Python and one teaching Java. Immediate learning performance and [[student-experience|learner experience]] were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. [[student-engagement|Learner engagement]] profiles were derived from the data and used as moderators, allowing the authors to detect [[differential-effects-across-learner-groups|differential effects]] that aggregate analyses could mask. The framing draws on program-[[visualization]] [[research-methods-aied|research]] and [[cognitive-offloading|cognitive load]] theory, in which the effectiveness of visualizations depends on design and context.
 
 ## What this means for practice
 
@@ -41,7 +41,7 @@ The multi-institutional study compared GATs with textual explanations in introdu
 
 - **Two non-comparable deployments:** the Python and Java courses differed in programming language, participation incentives, and topic coverage, so the authors do not pool the data or draw cross-institutional conclusions.
 - **Narrow topic coverage and no long-term transfer:** interventions addressed a limited set of topics, and the immediate effects did not transfer to final-exam performance.
-- **The moderation finding is exploratory and self-reported:** engagement profiles came from k-means clustering on self-report CAP instruments, and cognitive load, frustration, and situational interest were Likert items, so the learner-difference results are suggestive rather than confirmatory.
+- **The moderation finding is exploratory and [[self-report-measures|self-reported]]:** engagement profiles came from k-means clustering on self-report CAP instruments, and cognitive load, frustration, and situational interest were Likert items, so the learner-difference results are suggestive rather than confirmatory.
 
 ## Citation
 

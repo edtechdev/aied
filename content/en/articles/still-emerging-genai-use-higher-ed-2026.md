@@ -26,7 +26,7 @@ level: [higher ed]
 
 ## Study Design & Method
 
-The research design was a case study that drew on survey research methods within a School of Social Science disciplines at a research-intensive UK university (University of Manchester). Two original online questionnaires — one for students, one for academic staff — were distributed through Qualtrics between April and June 2024 via social media, e-newsletters, email and flyers. The instruments were built primarily on the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, adapted for GAI with elements from the AIDUA and IAAAM models, and content-validated by a panel of experts, with both questionnaires using Likert scales.
+The research design was a case study that drew on survey [[research-methods-aied|research methods]] within a School of Social Science disciplines at a research-intensive UK university (University of Manchester). Two original online [[self-report-measures|questionnaires]] — one for students, one for academic staff — were distributed through Qualtrics between April and June 2024 via social media, e-newsletters, email and flyers. The instruments were built primarily on the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, adapted for GAI with elements from the AIDUA and IAAAM models, and content-validated by a panel of experts, with both questionnaires using Likert scales.
 
 The study collected 45 complete staff responses from a population of 318 academics, alongside a further set of partial staff responses, and 86 complete student responses from a population of around 3,400. The authors analyzed the data by testing the internal consistency of the scales and comparing staff and student responses on the scales both groups shared. Ethics approval was granted by the University of Manchester Research Ethics Committee.
 
@@ -44,7 +44,7 @@ The study collected 45 complete staff responses from a population of 318 academi
 
 - Cross-sectional design cannot track adoption over time, and perceptions are by nature impressionistic, risking conflation of personal and technological factors in a rapidly changing tool landscape.
 - Several scales failed validation and were excluded from the findings; datasets were not released because of ethics constraints.
-- The authors recommend larger and more balanced samples, and qualitative research that richly describes students' perspectives on purpose, trust and affectivity in LLM use.
+- The authors recommend larger and more balanced samples, and [[qualitative-research|qualitative research]] that richly describes students' perspectives on purpose, trust and affectivity in LLM use.
 
 ## Citation
 

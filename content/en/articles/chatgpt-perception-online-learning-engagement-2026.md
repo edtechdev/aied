@@ -16,7 +16,7 @@ audience: [instructors, administrators]
 
 ## Key Findings
 
-- **Sample:** Self-reported survey data from 305 graduate students (master's and doctoral) at Shiraz University, Iran (2024–2025 academic year), drawn from a population of ~7,382 and exceeding the 251 required by power analysis.
+- **Sample:** [[self-report-measures|Self-reported]] survey data from 305 graduate students (master's and doctoral) at Shiraz University, Iran (2024–2025 academic year), drawn from a population of ~7,382 and exceeding the 251 required by power analysis.
 - **Model fit:** PLS-SEM showed students' perception of ChatGPT explains **19.2%** of the variance in online learning engagement; combining ChatGPT perception and online engagement explains **40.4%** of variance in academic performance.
 - **Direct paths:** ChatGPT perception had significant direct effects on online learning engagement (**β = 0.438**) and on academic performance (**β = 0.268**).
 - **Mediation:** Online learning engagement significantly mediated the perception–performance relationship, with a significant indirect effect of **β = 0.206** — confirming engagement as a crucial mediator (Hypothesis 4 supported).

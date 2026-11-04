@@ -35,7 +35,7 @@ methods: [quantitative-research]
 4. **Abductive reasoning and creative confidence showed the largest estimates.** The authors note that no formal contrast between dimension-specific differences was tested, so the ranking is descriptive.
 5. **Observed-score tests converged with the latent model.** Welch t tests on observed means were significant across all five dimensions after Holm adjustment, with Cohen's d from 0.594 to 0.719.
 6. **University membership did not explain the year difference.** A sensitivity analysis adjusting for university shifted the year coefficients by roughly 1.3–3.5%, and all five remained significant.
-7. **The sample was balanced and clean.** 411 questionnaires yielded 409 usable cases after excluding two straight-lined responses; 201 first-year and 208 third-year students, with no missing values on the 16 items.
+7. **The sample was balanced and clean.** 411 [[self-report-measures|questionnaires]] yielded 409 usable cases after excluding two straight-lined responses; 201 first-year and 208 third-year students, with no missing values on the 16 items.
 
 ## Generation is not judgment
 
@@ -45,7 +45,7 @@ That reframes what an AIGC-heavy studio course is assessing. If the deliverable 
 
 ## What a year-group difference can and cannot mean
 
-Third-year students scoring higher on all five dimensions is consistent with a design education that develops these orientations over time, and it is equally consistent with selection — students who lacked them leaving the program, or a cohort difference unrelated to teaching. The design is cross-sectional with two year groups, so the paper cannot separate development from selection, and the authors say so.
+Third-year students scoring higher on all five dimensions is consistent with a [[design-education|design education]] that develops these orientations over time, and it is equally consistent with selection — students who lacked them leaving the program, or a cohort difference unrelated to teaching. The design is cross-sectional with two year groups, so the paper cannot separate development from selection, and the authors say so.
 
 The measurement work is what earns the comparison. Invariance testing across year groups is the step that makes a latent mean difference meaningful rather than an artifact of students interpreting items differently as they advance, and the authors report it for the five focal dimensions rather than asserting comparability.
 
@@ -60,7 +60,7 @@ The questionnaire measures self-reported tendencies, not observed design behavio
 - **Assess selection and justification, not output volume.** Generated alternatives are cheap now, so the gradeable work is the reasoning that picks among them and the audience reasoning behind the pick.
 - **Teach tolerance for uncertainty explicitly.** It was the dimension with one of the larger year differences (0.718), and it is coachable through briefs that leave the right answer genuinely open.
 - **Build abductive reasoning into studio critique.** The largest year difference was in forming plausible creative directions (0.865), which suggests critique time spent on "what could this become and why" rather than on execution quality.
-- **Do not read year differences as proof of curriculum effect.** The design compares two cohorts at one time point; use a within-cohort pre/post or a longitudinal design to test whether the program causes the change.
+- **Do not read year differences as proof of [[curriculum-design|curriculum]] effect.** The design compares two cohorts at one time point; use a within-cohort pre/post or a longitudinal design to test whether the program causes the change.
 
 ## Limitations
 

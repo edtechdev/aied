@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-11-04T09:55:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -28,7 +28,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 ## How inquiry-based learning appears in the knowledge base
 
-**AI as co-inquirer.** A [[meta-analysis-systematic-review|systematic review]] of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) found ChatGPT used mainly in the conceptualization, investigation, and discussion phases — as learning tool, tutor, learning peer, domain expert, and [[teacher-role|teaching]] assistant — improving performance, [[critical-thinking|critical thinking]], [[student-engagement|engagement]], and motivation, while posing risks of over-reliance, hallucination, and superficial conclusions when output is treated as authoritative.
+**AI as co-inquirer.** A [[meta-analysis-systematic-review|systematic review]] of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) found ChatGPT used mainly in the conceptualization, investigation, and discussion phases — as learning tool, tutor, learning peer, domain expert, and [[teacher-role|teaching]] assistant. That use improved performance, [[critical-thinking|critical thinking]], [[student-engagement|engagement]], and motivation, while posing risks of over-reliance, [[hallucination-risk|hallucination]], and superficial conclusions when output is treated as authoritative.
 
 **Problem posing as the starting point.** A quasi-experiment with 97 third-graders ([[dai-chatbots-problem-posing-primary-2026]]) showed GenAI [[conversational-ai|chatbots]] significantly outperformed search engines for science problem posing, improving question quality and producing more integrated epistemic [[network-analysis|networks]] while lowering cognitive load.
 
@@ -38,7 +38,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] isolated the AI contribution from the inquiry itself in a three-group climate study: AI-assisted inquiry outgained inquiry-only peers on decision-making (d = 0.69), with the largest gains in monitoring and adaptive management (d = 1.37), while basic data collection improved equally across all conditions.
 
-**[[equity-in-ai-education|Equity]] and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, [[multilingual-learning|multilingual]], contextually relevant [[simulation|simulations]].
+**[[equity-in-ai-education|Equity]] and context.** A conceptual framework bridges generative-AI co-design with [[open-education|open educational practices]] to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, [[multilingual-learning|multilingual]], contextually relevant [[simulation|simulations]].
 
 **AI-scaffolded evidence comparison.** [[ai-information-extraction-undergraduate-thesis-2026|An and colleagues (2026)]] show how an AI-powered information-extraction system shifts the undergraduate literature review from summarization toward **evidence organization and comparison** — students moving from isolated reading to cross-study comparison and evidence-based justification in support of research-based learning and thesis completion. This concretizes how [[generative-ai|AI]] can scaffold inquiry processes in [[stem-education|STEM]] undergraduate research.
 
@@ -46,7 +46,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The knowledge base's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
 
-One study substitutes the facilitator rather than adding a tool beside them. In a four-week pharmacology course, 136 second-year medical students were split between facilitator-led and AI-led problem-based learning. Both arms gained significantly on pre/post multiple-choice tests and the between-group difference was not significant (p = 0.474), but facilitator-led groups scored higher on critical thinking (14.75 against 13.09, p < 0.001) and on the group assessment rubric (26.51 against 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty and Rao, 2026]]). Inquiry outcomes split by kind: content knowledge survived the substitution and the reasoning process did not, which is what it means to say the facilitator is the lever.
+One study substitutes the facilitator rather than adding a tool beside them. In a four-week pharmacology course, 136 second-year medical students were split between facilitator-led and AI-led problem-based learning. Both arms gained significantly on pre/post multiple-choice tests and the between-group difference was not significant (p = 0.474), but facilitator-led groups scored higher on critical thinking (14.75 against 13.09, p < 0.001) and on the [[group-work|group assessment]] rubric (26.51 against 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty and Rao, 2026]]). Inquiry outcomes split by kind: content knowledge survived the substitution and the reasoning process did not, which is what it means to say the facilitator is the lever.
 
 ### Productive failure and inquiry
 

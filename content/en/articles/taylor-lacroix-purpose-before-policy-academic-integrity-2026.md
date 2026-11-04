@@ -20,7 +20,7 @@ institutions: [educational-policy-ai, governance]
 ## Key Findings
 
 1. **Purpose precedes policy.** Whether GenAI use is misconduct cannot be settled in isolation; it depends on an institution's purpose, ranging from knowledge creation and transfer to community/values and societal [[student-engagement|engagement]].
-2. **Structural incoherence drives misconduct.** Apparent rises in GenAI misconduct reflect misalignment among stated ideals, incentive structures, assessment design, and administrative practice—treating it as individual behavior misdiagnoses the problem.
+2. **Structural incoherence drives misconduct.** Apparent rises in GenAI misconduct reflect misalignment among stated ideals, incentive structures, [[assessment|assessment design]], and administrative practice—treating it as individual behavior misdiagnoses the problem.
 3. **Mission statements are strikingly uniform.** A [[qualitative-research|qualitative]] rhetorical analysis of the Canadian U15, UK Russell Group, and US Ivy League found a shared vocabulary of "[[research-methods-aied|research]]," "students," "[[teacher-role|teaching]]," "community," "knowledge," "learning," and "commitment," organized around three functions: knowledge creation/transfer, community and values, and societal/global engagement.
 4. **Ethos overwhelms logos and pathos.** Mission statements evidence Booth's "Entertainer's" and "Advertiser's" stances—institutions define value by their own existence or appeal to multiple audiences at once—obscuring structural constraints such as financial precarity and inequitable access.
 5. **Use is widespread while policy lags.** A 2024 Global AI Student Survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate.
@@ -39,8 +39,8 @@ institutions: [educational-policy-ai, governance]
 ## Limitations
 
 - The mission-statement analysis is illustrative rather than comprehensive: it covers three Anglo-American networks (the Canadian U15, the UK Russell Group, and the US Ivy League), and the authors state that a more comprehensive analysis across cultural contexts is needed.
-- It is a rhetorical and historical argument, not a measurement study; the authors explicitly do not assume that mission statements provide operational guidance or directly determine institutional policy.
-- The prevalence figures the paper relies on are secondary — a 2024 Global AI Student Survey reporting 86% student AI use and 80% describing institutional policies as unclear or inadequate — not data collected for this study.
+- It is a rhetorical and historical argument, not a measurement study; the authors explicitly do not assume that mission statements provide operational guidance or directly determine [[educational-policy-ai|institutional policy]].
+- The prevalence figures the paper relies on are secondary — a 2024 Global AI Student Survey reporting 86% [[student-ai-interaction|student AI use]] and 80% describing institutional policies as unclear or inadequate — not data collected for this study.
 - The claim that rising GenAI misconduct reflects structural incoherence is advanced by argument, without institutional or student-level data against which it could be tested.
 
 ## Citation

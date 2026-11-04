@@ -15,22 +15,22 @@ confidence: high
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** Marienko, Markova, and Semerikov (2026) investigate [[ai-literacy]] among Ukrainian secondary educators through a sequential explanatory [[mixed-methods-research|mixed-methods]] design spanning a national survey (n = 2018), targeted educator surveys (n = 116), professional-development evaluation (n = 1130), and systematic mapping of European Open Science Cloud (EOSC) services. They find that while 84% of surveyed educators report using AI in professional practice, only 11% can identify specialized services beyond ChatGPT — a pattern of high adoption coupled with limited specialized awareness. The study proposes a five-level AI literacy framework (Awareness, Application, Evaluation, Creation, [[ethics]]) integrated with three paradigms of [[ai-education|AI in education]] (AI-directed, AI-supported, AI-empowered), and shows a professional-development intervention yields a 24% improvement in AI competence.
+> **Synthesis:** Marienko, Markova, and Semerikov (2026) investigate [[ai-literacy]] among Ukrainian secondary educators through a sequential explanatory [[mixed-methods-research|mixed-methods]] design spanning a national survey (n = 2018), targeted educator surveys (n = 116), professional-development evaluation (n = 1130), and systematic mapping of European Open Science Cloud (EOSC) services. They find that while 84% of surveyed educators report using AI in professional practice, only 11% can identify specialized services beyond [[generative-ai|ChatGPT]] — a pattern of high adoption coupled with limited specialized awareness. The study proposes a five-level AI literacy framework (Awareness, Application, Evaluation, Creation, [[ethics]]) integrated with three paradigms of [[ai-education|AI in education]] (AI-directed, AI-supported, AI-empowered), and shows a professional-development intervention yields a 24% improvement in AI competence.
 
 ## Key Findings
 
 - 84% of Ukrainian secondary educators report using AI in professional practice, but only 11% can identify specialized AI services beyond ChatGPT — high adoption with limited specialized awareness.
 - A five-level AI literacy framework (Awareness, Application, Evaluation, Creation, Ethics) is proposed, integrated with three paradigms of AI in education (AI-directed, AI-supported, AI-empowered).
 - A professional-development intervention produced a 24% improvement in AI competence, with the largest gains in practical application (+27%) and [[critical-thinking|critical evaluation]] (+26%).
-- Systematic analysis identified 22 EOSC AI services applicable to secondary education, particularly in [[biology-education|biology]] and geography.
+- Systematic analysis identified 22 EOSC AI services applicable to [[k-12|secondary education]], particularly in [[biology-education|biology]] and geography.
 - The crisis-affected Ukrainian context accelerates digital adoption while highlighting infrastructure gaps.
 
 ## What this means for practice
 
-- **Teacher educators.** Move professional development beyond ChatGPT: 84% of surveyed educators report using AI, but only 11% could name a specialized alternative.
+- **[[teacher-role|Teacher]] educators.** Move [[educational-development|professional development]] beyond ChatGPT: 84% of surveyed educators report using AI, but only 11% could name a specialized alternative.
 - **Teacher educators.** Sequence training through the five levels (Awareness, Application, Evaluation, Creation, Ethics) and route educators to hands-on modules when assessment shows high ethical awareness paired with low practical application.
 - **Policymakers.** Pair adoption policy with infrastructure and security support, since crisis-driven acceleration exposed connectivity and equipment gaps alongside competence gaps.
-- **Policymakers.** Provision subject-specific tools rather than leaving educators to general-purpose chatbots: 22 EOSC AI services were mapped as applicable to secondary education, notably for biology and geography.
+- **Policymakers.** Provision [[discipline-specific-aied|subject-specific]] tools rather than leaving educators to general-purpose [[conversational-ai|chatbots]]: 22 EOSC AI services were mapped as applicable to secondary education, notably for biology and geography.
 - **Researchers.** Re-evaluate the professional-development intervention against a control or waitlist group, because the pre-post design leaves maturation and testing effects as alternative explanations for the 24% gain.
 
 ## Limitations
@@ -38,7 +38,7 @@ page_kind: [framework, evaluation]
 - Studies 2 and 3 used convenience and purposive sampling through technology-focused venues (the AISE conference and the Prometheus platform), so self-selection likely inflates estimates of AI adoption, awareness, and training responsiveness relative to the wider educator population.
 - Study 3's pre-post design had no control group, so the 24% competence improvement cannot be causally attributed to the intervention.
 - Only 36 paired observations remained from 1,130 registrations—60% attrition from 450 active participants—which limits statistical power, precluded analysis of moderating variables, and risks survivor bias.
-- Competence was self-reported, and the high baseline ethical awareness (67%) with the smallest gains (+18%) may reflect ceiling effects and social desirability rather than advanced ethical reasoning.
+- Competence was [[self-report-measures|self-reported]], and the high baseline ethical awareness (67%) with the smallest gains (+18%) may reflect ceiling effects and social desirability rather than advanced ethical reasoning.
 
 ## Citation
 Marienko, M. V., Markova, O. M., & Semerikov, S. O. (2026). [AI literacy in secondary education: Framework, assessment, and professional development in the Ukrainian context](https://doi.org/10.1016/j.caeai.2026.100605). *Computers and Education: Artificial Intelligence, 10*, 100605.

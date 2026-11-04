@@ -16,13 +16,13 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of [[generative-ai]]-based pronunciation feedback relate to their willingness to communicate (WTC) in English, with English pronunciation [[self-efficacy]] as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation feedback were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.
+> **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of [[generative-ai]]-based [[speech-and-voice-technologies|pronunciation feedback]] relate to their willingness to communicate (WTC) in English, with English pronunciation [[self-efficacy]] as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation feedback were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.
 
 ## Key Findings
 
 - Positive perceptions of generative-AI-based pronunciation feedback were significantly associated with greater willingness to communicate in English among Chinese EFL learners.
 - English pronunciation self-efficacy partially mediated the association: the indirect effect accounted for 69.9% of the total effect, while the direct effect of GenAI feedback perception on WTC remained significant.
-- The results suggest pronunciation self-efficacy is an important but not exclusive mechanism — GenAI feedback may also relate to WTC through other routes such as reduced communication anxiety and enhanced psychological safety.
+- The results suggest pronunciation self-efficacy is an important but not exclusive mechanism — GenAI feedback may also relate to WTC through other routes such as reduced communication [[anxiety-and-stress|anxiety]] and enhanced psychological safety.
 - The study conceptualizes GenAI feedback as a technology-mediated environmental influence and pronunciation self-efficacy as a personal cognitive factor within [[self-regulated-learning|Bandura's Social Cognitive Theory]], extending the framework to the Chinese EFL context and to intelligent feedback [[ai-technologies|technologies]].
 
 ## Study Design & Method
@@ -34,14 +34,14 @@ The authors used a cross-sectional survey design with a convenience sample of 1,
 - **Instructors.** Add [[generative-ai|GenAI]] pronunciation feedback as a low-stakes supplement to classroom speaking practice: positive perceptions of that feedback were associated with greater willingness to communicate in English (total β = 0.574).
 - **Instructors.** Use the tools to build confidence, not only accuracy: the path through English pronunciation [[self-efficacy]] carried about 69.9% of the total effect (indirect β = 0.401) against a modest direct effect (β = 0.173), and self-efficacy strongly predicted willingness to communicate (β = 0.661).
 - **Designers.** Design feedback that encourages as well as corrects — learners' perceptions of the feedback (β = 0.607 on self-efficacy) rather than its measured accuracy drove the association — so favor encouraging language, actionable guidance, and adaptation to proficiency.
-- **Instructors.** Keep teacher and [[peer-assessment|peer feedback]] in place: self-efficacy mediated only part of the association, so routes such as reduced communication anxiety and psychological safety still matter alongside the technology.
+- **Instructors.** Keep [[teacher-role|teacher]] and [[peer-assessment|peer feedback]] in place: self-efficacy mediated only part of the association, so routes such as reduced communication anxiety and psychological safety still matter alongside the technology.
 - **Instructors.** Target the learners who avoid speaking, since private, immediate, and repeatable practice suits students whose pronunciation anxiety keeps them silent in class.
 
 ## Limitations
 
 - The cross-sectional design precludes causal inference.
 - The convenience sample of Chinese university EFL learners bounds generalizability to other populations and contexts.
-- All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are self-report measures collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated.
+- All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are [[self-report-measures|self-report measures]] collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated.
 - The study focuses on perceptions of GenAI feedback rather than objective [[ai-feedback-quality|feedback quality]] or its actual behavioral effects on speaking performance.
 
 ## Citation

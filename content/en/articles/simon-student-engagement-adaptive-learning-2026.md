@@ -42,7 +42,7 @@ The authors interpret the social-interaction findings through [[self-determinati
 
 ## What this means for practice
 
-- **Instructors.** Audit platform usability before you commit to it. Complicated layouts, browser and operating-system incompatibilities, missing automatic feedback, and hard penalties for minor mistakes were among the disengagement triggers students reported most often.
+- **Instructors.** Audit platform [[usability-research|usability]] before you commit to it. Complicated layouts, browser and operating-system incompatibilities, missing automatic feedback, and hard penalties for minor mistakes were among the disengagement triggers students reported most often.
 - **Instructors.** Orient students to platform features at the start of a course and give them ways to act on the system — preference settings, customization, and a visible help button — because [[agency|agentic engagement]] was the least-studied and least-supported type in this literature.
 - **Instructors.** Plan for the novelty effect. Engagement declined over time in longitudinal studies of ALEKS and W-Pal, so build in refreshers, new task types, and check-ins rather than assuming initial motivation holds.
 - **Designers.** Design the practice loop, not just the content: interactive questions answered until correct, immediate elaborated [[feedback]], and progressive difficulty were the information-quality features linked to engagement, and most factors that look like learner characteristics trace back to system design.
@@ -52,7 +52,7 @@ The authors interpret the social-interaction findings through [[self-determinati
 
 - The review retained 44 studies drawn from six databases for 2012–2022; gray (non-peer-reviewed) literature and non-English manuscripts were deliberately excluded, which the authors acknowledge may have removed national literatures published in other languages.
 - The database search used only "adaptive learning" and "student engagement" as keywords, so studies using terms such as artificial intelligence or [[intelligent-tutoring|intelligent tutoring systems]] instead may have been missed.
-- Engagement measurement was uneven across the evidence base: of the 44 studies appraised, only 10 reported both reliability and validity data for their instruments and 17 reported no psychometric information at all, while just eight were randomized controlled trials (12 non-randomized, eight descriptive, 15 mixed-method, one qualitative).
+- Engagement measurement was uneven across the evidence base: of the 44 studies appraised, only 10 reported both reliability and validity data for their instruments and 17 reported no psychometric information at all, while just eight were randomized controlled trials (12 non-randomized, eight descriptive, 15 mixed-method, one [[qualitative-research|qualitative]]).
 - Effect sizes were out of scope, so the review names factors without giving any of them relative weight; the authors recommend meta-analysis to establish relative impact and experience sampling methods (ESM) for more ecologically valid engagement measurement.
 
 ## Citation

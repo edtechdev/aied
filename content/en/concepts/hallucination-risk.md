@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T07:30:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -38,7 +38,7 @@ In an assessment-design pilot, [[authentic-assessments-generative-ai-pilot-2026|
 
 **Manipulated rather than fabricated evidence.** A related failure mode in [[automated-assessment|automated grading]] is output moved from the outside. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamed a routine AI grading workflow and found that instructions hidden inside the submitted file raised a failing essay's grade with no visible warning in 9 of 9 iterations for one strategy and 17 of 18 for another. Two details bear on [[trust-calibration|trust]]: a detected injection was blocked by silently disabling the chat and never reported to the user, and on one run where the tool announced it would follow only the official assignment instructions, six re-runs of the same file still raised the grade. A mark obtained this way carries no [[assessment-validity|validity]] claim, and because the manipulation leaves no durable trace, the [[human-in-the-loop-ai|instructor]] remains the only real check on output designed not to be visible.
 
-Defenses against such manipulation carry their own trade-off: a multi-layer guardrail pipeline left 46.34% of injections successful and Prompt Guard 38.48%, while NeMo Guardrails blocked every attack but flagged 16.22% of benign student queries — a false-positive rate that is itself pedagogical harm in a tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Defenses against such manipulation carry their own trade-off: a multi-layer guardrail pipeline left 46.34% of injections successful and Prompt Guard 38.48%, while NeMo [[guardrails]] blocked every attack but flagged 16.22% of benign student queries — a false-positive rate that is itself [[pedagogy|pedagogical]] harm in a tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 **Tutoring hallucination** affects learning directly. **[[yasir-llm-tutoring-agents-2026]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
@@ -50,7 +50,7 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 
 ## Common Misconceptions
 
-- **"Students will notice errors."** A **125-study review** puts hallucination rates at **10-40%**, with **medical students — among the most carefully selected learners in higher education — detecting AI errors only 44-55% of the time**. Detection rates well below chance-level reliability mean the burden cannot sit with the reader.
+- **"Students will notice errors."** A **125-study review** puts hallucination rates at **10-40%**, with **medical students — among the most carefully selected learners in [[higher-ed|higher education]] — detecting AI errors only 44-55% of the time**. Detection rates well below chance-level reliability mean the burden cannot sit with the reader.
 - **"Errors are obvious when they appear."** An AI diagnosing handwritten math could **fabricate evidence quotes that weren't there while claiming confidence**. The failure was not a plausible-but-wrong answer; it was invented support presented with certainty, which is the hardest kind to catch because it reads as precisely the evidence a careful reader would want.
 - **"Citation-less output is a formatting problem."** In a graduate course that replaced its commercial textbook with AI-generated readings, only **about 0.80% of 4,487 logged pages carried an APA-style in-text citation**. That is a corpus-level absence of provenance, not an occasional omission, and it means verification has no starting point.
 - **"Hallucination is a model-generation problem that newer models solve."** The rate range spans 10-40% across 125 studies, which is a property of the task and the deployment as much as the model. Rate reduction is real progress and does not change that a reader must be able to check.

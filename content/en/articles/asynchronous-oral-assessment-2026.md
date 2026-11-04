@@ -21,7 +21,7 @@ AOAs offer a scalable, [[authentic-assessment|authentic]] alternative that perfo
 
 ## Asynchronous oral assessments as a scalable assessment format
 
-Traditional oral assessments offer authentic measurement, deeper engagement, and professional communication development, but are underutilized because of logistical demands (scheduling, instructor time, space). [[authentic-assessment|Authentic]] AOAs remove these constraints by delivering questions just-in-time and collecting time-limited, non-revisitable recorded responses via standard webcams, graded against embedded rubrics with auto-generated transcripts. Both studies were administered to all enrolled students by a single instructor without scheduling constraints. The delivery mirrors asynchronous video interviews (AVIs) used in personnel selection, drawing on high-structure interviewing principles (randomized questions, short prep windows ~30 s, brief 2–3 min responses) that support reliability and reduce bias.
+Traditional [[oral-assessment|oral assessments]] offer authentic measurement, deeper engagement, and professional communication development, but are underutilized because of logistical demands (scheduling, instructor time, space). [[authentic-assessment|Authentic]] AOAs remove these constraints by delivering questions just-in-time and collecting time-limited, non-revisitable recorded responses via standard webcams, graded against embedded rubrics with auto-generated transcripts. Both studies were administered to all enrolled students by a single instructor without scheduling constraints. The delivery mirrors asynchronous video interviews (AVIs) used in personnel selection, drawing on high-structure interviewing principles (randomized questions, short prep windows ~30 s, brief 2–3 min responses) that support reliability and reduce bias.
 
 ## Authenticity, professional communication, and engagement
 
@@ -45,8 +45,8 @@ This paper is a significant empirical contribution to the knowledge base's [[ass
 
 ## What this means for practice
 
-- **Instructors.** Offer an optional, ungraded practice AOA with feedback before the graded version; practice participation was moderate (42–57%) but appeared to build familiarity and reduce anxiety when the format was new.
-- **Instructors.** Randomize prompt selection and hold the timing to roughly 30 s of preparation and 2–3 min of response, aligning prompts with exam content — in Study 2 AOAs ran one week before each exam and counted 7.5% of the course grade, serving as graded assessment and retrieval practice at once.
+- **Instructors.** Offer an optional, ungraded practice AOA with feedback before the graded version; practice participation was moderate (42–57%) but appeared to build familiarity and reduce [[anxiety-and-stress|anxiety]] when the format was new.
+- **Instructors.** Randomize prompt selection and hold the timing to roughly 30 s of preparation and 2–3 min of response, aligning prompts with exam content — in Study 2 AOAs ran one week before each exam and counted 7.5% of the course grade, serving as graded assessment and [[retrieval-spacing-interleaving|retrieval practice]] at once.
 - **Assessment designers.** Grade with criterion-referenced rubrics that specify performance levels and descriptive anchors; instructor and LLM scores showed ICC = 0.73 (midterm) and 0.60 (final) despite the instructor scoring systematically higher.
 - **Assessment designers.** Build in accessibility features such as audio presentation of question prompts, since time-limited text displays can disadvantage students with reading-related disabilities.
 - **Instructors.** Position AOAs as a complement to written work rather than a replacement, and do not treat the higher AOA scores as evidence of [[learning-gains|learning gains]].

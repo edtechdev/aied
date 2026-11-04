@@ -23,7 +23,7 @@ page_kind: [framework]
 2. **Two recurrent loops: Scaffolding and Offloading.** The tension model centers on a Scaffolding Loop (AI support that preserves learning) and an Offloading Loop (routine delegation that reduces germane processing), with boundary conditions (time pressure, task complexity/familiarity, scaffolding design) shaping movement between them.
 3. **Trust-but-Can't-Verify and a Boilerplate Blindspot.** Novices struggle to verify AI output; more experienced students develop a blindspot for boilerplate/generic code — two distinct evaluation challenges.
 4. **Attenuated metacognitive calibration.** A mismatch between perceived readiness and independent capability co-occurs with sustained [[cognitive-offloading|offloading]], echoing [[ai-making-us-stupid|overconfidence]] [[research-methods-aied|research]].
-5. **Concrete instructional strategies.** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive [[prompt-engineering|prompting]] — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
+5. **Concrete [[pedagogy|instructional strategies]].** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive [[prompt-engineering|prompting]] — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
 
 ## What this means for practice
 
@@ -37,7 +37,7 @@ page_kind: [framework]
 
 - The 41 participants (24 AI-enabled, 17 contrast) were recruited by voluntary response at a single Chinese public university, and the two sections differed in instructor, time, and peer norms — an ecology-specific design not built for controlled contrasts, so the authors claim transferability through thick description rather than statistical generalization.
 - The study spans one 16-week semester, so its categories are theoretically sufficient for this context rather than maximally elaborated across the multi-year span of some grounded-theory traditions.
-- Dyadic interviews can invite peer influence and social desirability, and because interviews occurred near high-stakes exams, elevated anxiety is confounded with metacognitive calibration — the individual follow-ups and think-alouds that could separate them were not run.
+- Dyadic interviews can invite peer influence and social desirability, and because interviews occurred near high-stakes exams, elevated [[anxiety-and-stress|anxiety]] is confounded with metacognitive calibration — the individual follow-ups and think-alouds that could separate them were not run.
 - Concept maps give a narrow indicator of integrative structure and may not align with all forms of programming expertise.
 
 ## Citation

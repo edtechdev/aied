@@ -65,9 +65,9 @@ The authors draw several practitioner lessons. Offline evals are best reserved a
 
 ## Limitations
 
-- These are internal platform experiments rather than a controlled trial: conditions are thread-diverted, so one user can appear in different conditions across threads, and there is no external comparison group.
+- These are internal platform experiments rather than a [[rct|controlled trial]]: conditions are thread-diverted, so one user can appear in different conditions across threads, and there is no external comparison group.
 - The headline metrics are platform-internal and short-horizon — next-item correctness measures near transfer on a new item in the same session, and the link from skill acquisition to standardized assessment rests on external work (Eames et al., 2026), not on the experiments reported here.
-- The reported gains are confounded by user mix: primary metrics rose during US Thanksgiving and Christmas because holiday users are voluntary and more motivated, while in-school use is teacher-obligated.
+- The reported gains are confounded by user mix: primary metrics rose during US Thanksgiving and Christmas because holiday users are voluntary and more motivated, while in-school use is [[teacher-role|teacher]]-obligated.
 - Three reported metrics depend on LLM judges — cognitive engagement at F1 0.83, math error at F1 0.61, and giving away the final answer at F1 0.77 — and the authors note that students' counter-strategies erode gains after a change ships.
 
 ## Citation

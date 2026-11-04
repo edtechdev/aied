@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A learner model shared with a grader looks like context and behaves like a bias. Told only that the same answer came from a high- or a low-attaining student, every model tested marked the high description higher: 0.28 to 0.75 points on a ten-point scale, more on whole programs, and double that when one model's reasoning was minimal. Whether the shift moved marks toward the teacher depended on the model, and rater agreement did not register it.
+> **Synthesis:** A [[student-modeling|learner model]] shared with a grader looks like context and behaves like a bias. Told only that the same answer came from a high- or a low-attaining student, every model tested marked the high description higher: 0.28 to 0.75 points on a ten-point scale, more on whole programs, and double that when one model's reasoning was minimal. Whether the shift moved marks toward the [[teacher-role|teacher]] depended on the model, and rater agreement did not register it.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ source_depth: full text
 6. Under RQ3, three graded examples moved Gemini's marks by the level at which they were marked: correct marks took 0.34 points off, shuffling them kept 37% of that shift, and shifting the shown marks two points moved the grade 0.39 points per point.
 7. Under RQ4, grades feeding back into the learner model that supplies the label multiplied its spread by 1.066 to 1.167 over a simulated 40-item term, on fitted effects of 0.093, 0.100, 0.140 and 0.199 marks per point of label. Runaway would take 5.9 to 12.6 times each model's effect.
 8. Under RQ5 the direction held across models, reasoning settings and item types, but the size did not transfer. Claude Fable 5.1, unreachable by API, graded a 100-answer subset in Claude Code on byte-identical prompts and showed the same effect, +0.31.
-9. Under RQ6, on 3,000 ASAP 2.0 essays graded by two models, the high-low gap was the same for every group, every difference within 0.045 of a level. On Qwen the low label took 0.06 to 0.08 points more off English learners, economically disadvantaged and disability-identified students than off peers, a [[differential-effects-across-learner-groups|group difference]] the ablation can size.
+9. Under RQ6, on 3,000 ASAP 2.0 essays graded by two models, the high-low gap was the same for every group, every difference within 0.045 of a level. On Qwen the low label took 0.06 to 0.08 points more off [[multilingual-learning|English learners]], economically disadvantaged and disability-identified students than off peers, a [[differential-effects-across-learner-groups|group difference]] the ablation can size.
 10. With no label, both models still marked English learners and disability-identified students below peers at equal human score (−0.21 to −0.32 of a level), and 68 to 87% of that gap survived correction for noise in the human score.
 
 ## How the study was built
@@ -45,7 +45,7 @@ Arms: a control; a previous attempt with a low or high mark, and the same attemp
 
 All five are public and CC BY 4.0, with location, license and SHA-256 in the release file and no corpus text shipped. JorGPT: 3,041 answers (3,031 non-empty) to 50 questions from 79 [[higher-ed|undergraduates]], 0 to 10, the only corpus with a student identifier on every answer. Mohler: 2,273 answers to 80 questions, 0 to 5, 1,727 analyzed. Menagerie: 279 Java programs on four rubric dimensions, from a [[cs-education|computer science course]], supplying the 60 complete programs. ASAP 2.0: 24,728 [[writing-education|secondary-school essays]] in grades 6, 8, 9 and 10, 1 to 6. HARMOGEN-R supplied only published marks, for the ceiling.
 
-The models are Gemini 3.5 Flash Lite, GPT-4.1-mini, GPT-5-mini, Qwen3-235B-A22B-2507, Llama 4 Maverick and Claude Opus 5.5, from five developers, two open weights. Runs used each vendor's kit with provider defaults, and reasoning varied on two models. Claude Fable 5.1 could not be reached on OpenRouter under the account's [[privacy|zero-data-retention]] setting, so 20 Claude Code subagents graded batches of ten from the 100-answer subset, never both arms of one answer, on byte-identical prompts.
+The models are Gemini 3.5 Flash Lite, GPT-4.1-mini, GPT-5-mini, Qwen3-235B-A22B-2507, Llama 4 Maverick and Claude Opus 5.5, from five developers, two [[open-source|open weights]]. Runs used each vendor's kit with provider defaults, and reasoning varied on two models. Claude Fable 5.1 could not be reached on OpenRouter under the account's [[privacy|zero-data-retention]] setting, so 20 Claude Code subagents graded batches of ten from the 100-answer subset, never both arms of one answer, on byte-identical prompts.
 
 Each printed result ties to a committed analysis: the report is generated from the article's Markdown and the release's outputs, so every number links to the file and field it came from and is recomputed. Re-run panels recompute each finding from the 14,260 per-case outputs, which carry no answer text, and compare the result with the printed value as formatted text.
 
@@ -65,7 +65,7 @@ On complete programs the effect ran from 0.4 to 2.8 times its short-answer size 
 
 ## The bias runs through the student description, not through the work
 
-Every primary comparison holds the text fixed, so the difference cannot come from who wrote the answer or from item difficulty, and the effect grows with the label's value: the pooled relative slope was ρ = +0.84, excluding a fixed step. Context about the task moved the grade with the level at which examples were marked, 0.39 points per point, rather than correcting an offset.
+Every primary comparison holds the text fixed, so the difference cannot come from who wrote the answer or from [[item-response-theory|item difficulty]], and the effect grows with the label's value: the pooled relative slope was ρ = +0.84, excluding a fixed step. Context about the task moved the grade with the level at which examples were marked, 0.39 points per point, rather than correcting an offset.
 
 [[assessment-validity|Agreement with a human rater]] detected none of this. On three runs the true label raised QWK by 0.029 to 0.046, no change in Pearson r was resolved, and a rescaling fitted without the label matched the label's gain at 0.038 QWK on average, consistent with marks landing nearer where the teacher puts them rather than better judgment. Withholding learner context is the equivalent of anonymous grading.
 

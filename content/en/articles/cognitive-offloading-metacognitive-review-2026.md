@@ -68,7 +68,7 @@ This review strengthens the theoretical foundation of the knowledge base's [[cog
 - This is a narrative review with no systematic search protocol or PRISMA reporting: it presents no new data and cannot claim exhaustive coverage of the offloading literature.
 - The empirical basis for its central timing principle is a small set of lab experiments (Gilbert et al., 2020; Grinschgl et al., 2020) on reminders and ranking feedback, not classroom AI use.
 - Its evidence on ability damage comes from contexts far from AI-supported study — the "Google Effect" for search engines and instrument overreliance in aviation — and its AI-specific warning is drawn from a single commentary (Skulmowski, 2023), not an AI study.
-- The behavioral findings it leans on are stimulus-specific and modest: incentives reduce offloading bias but do not eliminate it, and a cited meta-analysis (Baars et al., 2020) reports a negative correlation of r = −0.35.
+- The behavioral findings it leans on are stimulus-specific and modest: incentives reduce offloading bias but do not eliminate it, and a cited [[meta-analysis-systematic-review|meta-analysis]] (Baars et al., 2020) reports a negative correlation of r = −0.35.
 
 ## Citation
 

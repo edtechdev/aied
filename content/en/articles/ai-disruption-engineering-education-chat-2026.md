@@ -17,7 +17,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Leino Lindell & Stöhr (2026) use Cultural-Historical Activity Theory (CHAT) to analyze how [[generative-ai|generative AI]] disrupts and transforms established norms and practices in [[engineering-education|engineering education]] from a student perspective. Thematic analysis of interviews with 25 students at a technical university in Northern Europe identifies four themes of challenge/transformation: (1) the self-directiveness of students, (2) the objectives of learning, (3) the role of the teacher, and (4) ethical aspects. Students are developing new implicit rules for using GenAI to enhance skills and understanding, driven by contradictions between traditional academic tools and new expectations for [[self-directed-learning|self-directed]], AI-mediated learning.
+> **Synthesis:** Leino Lindell & Stöhr (2026) use [[sociocultural-learning|Cultural-Historical Activity Theory]] (CHAT) to analyze how [[generative-ai|generative AI]] disrupts and transforms established norms and practices in [[engineering-education|engineering education]] from a student perspective. Thematic analysis of interviews with 25 students at a technical university in Northern Europe identifies four themes of challenge/transformation: (1) the self-directiveness of students, (2) the objectives of learning, (3) the role of the [[teacher-role|teacher]], and (4) ethical aspects. Students are developing new [[social-norms-ai-use|implicit rules]] for using GenAI to enhance skills and understanding, driven by contradictions between traditional academic tools and new expectations for [[self-directed-learning|self-directed]], AI-mediated learning.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ page_kind: [framework]
 
 ## Limitations
 
-- The study draws on qualitative interviews with 25 engineering students at a single Northern European technical university, and only the student perspective is represented — educators, program heads and educational administrators were not interviewed, and the authors state the findings may not fully translate to other contexts.
+- The study draws on [[qualitative-research|qualitative]] interviews with 25 engineering students at a single Northern European technical university, and only the student perspective is represented — educators, program heads and educational administrators were not interviewed, and the authors state the findings may not fully translate to other contexts.
 - It captures perceptions, not learning: because GenAI was used informally and outside institutional design, the authors state they cannot determine whether students' learning was actually enhanced.
 - The theoretical frame is bounded: [[activity-theory-aied|CHAT]] offers no conceptual tools for explaining why students select one tool over another, and the analysis did not examine cases where implicit and formal rules align.
 - The temporal scope is a snapshot, so behaviors and tensions may shift quickly as AI tools develop.

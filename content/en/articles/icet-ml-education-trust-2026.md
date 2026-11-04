@@ -47,8 +47,8 @@ The central proposal is normative: [[trust-calibration|trust calibration]] shoul
 
 - The central link between ICE-T and trust calibration is theoretical: the authors state the framework "has not itself been evaluated," and no classroom study with validated trust measures is reported.
 - Its empirical grounding is limited to the K-12 landscape and to supervised learning; the authors call for testing across age groups and ML paradigms beyond supervised learning.
-- The supporting tool analysis was a qualitative evaluation of a selected representative set of tools, platforms, and games against the three facets, not a systematic census of the field.
-- The motivating quantitative patterns — roughly 60% of coded supervised-learning activities at the lowest abstraction levels, and technical and societal perspectives on the same algorithm co-occurring in only about 3% of activities — come from two other systematic reviews (126 and 133 activities), so the framework rests on secondary coding of others' corpora.
+- The supporting tool analysis was a [[qualitative-research|qualitative]] evaluation of a selected representative set of tools, platforms, and games against the three facets, not a systematic census of the field.
+- The motivating [[quantitative-research|quantitative]] patterns — roughly 60% of coded supervised-learning activities at the lowest abstraction levels, and technical and societal perspectives on the same algorithm co-occurring in only about 3% of activities — come from two other systematic reviews (126 and 133 activities), so the framework rests on secondary coding of others' corpora.
 
 ## Citation
 Haritz, P., Krone, H., & Liebig, T. (2026). [*Addressing Trust in AI Systems through Education: A Didactic Perspective*](https://arxiv.org/abs/2609.02453). arXiv preprint arXiv:2609.02453.

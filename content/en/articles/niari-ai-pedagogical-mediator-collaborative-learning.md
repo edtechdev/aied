@@ -21,7 +21,7 @@ page_kind: [framework]
 - **Three layers of AI mediation.** (1) **Interactional mediation** shapes the organization and flow of collaborative discourse ([[prompt-engineering|prompting]] participation, foregrounding underrepresented contributions, highlighting convergence/divergence); (2) **epistemic mediation** influences the construction, evaluation, and circulation of knowledge — generating explanations, modeling reasoning, summarizing ideas — *without* adjudicating correctness; (3) **regulatory mediation** supports planning, monitoring, and evaluation of joint activity, contributing to socially shared regulation without centralizing control.
 - **Redistribution, not displacement, of agency.** AI mediation entails a dynamic renegotiation of agency and epistemic authority across sociotechnical systems rather than a zero-sum transfer; AI participates asymmetrically and does not claim epistemic parity with learners.
 - **Boundary work against slippage.** Unlike tutors (individualized instruction), peers/teammates (epistemic parity), coaches (individual optimization), or orchestrators (centralized control), mediators emphasize participation, relationality, and shared responsibility, keeping AI subordinate to teacher professional judgment.
-- **Ethics and [[governance]] as constitutive.** Equity/epistemic [[inclusive-learning|inclusion]], transparency and pedagogical interpretability, teacher professional agency vs. technocratic governance, and responsible data stewardship are framed as integral to design — calling for "pedagogical governance" rather than regulatory compliance alone.
+- **Ethics and [[governance]] as constitutive.** [[equity-in-ai-education|Equity]]/epistemic [[inclusive-learning|inclusion]], transparency and pedagogical interpretability, teacher professional agency vs. technocratic governance, and responsible data stewardship are framed as integral to design — calling for "pedagogical governance" rather than regulatory compliance alone.
 
 ## Conceptual Contribution
 
@@ -31,14 +31,14 @@ The paper positions AI as an active participant in the orchestration of interact
 
 - **Designers.** Build AI as a mediator of collaborative discourse rather than an orchestrator of it: prompt participation, foreground underrepresented contributions, and flag convergence and divergence instead of managing turn-taking centrally.
 - **Designers.** Let AI generate explanations, model reasoning, and summarize ideas without adjudicating correctness, and make that pedagogical reasoning visible so teachers can interpret and adjust it.
-- **Designers.** Support planning, monitoring, and evaluation of joint activity without centralizing control — keep shared regulation from collapsing into dashboards, alerts, and nudges that substitute algorithmic authority for student co-regulation.
+- **Designers.** Support planning, monitoring, and evaluation of joint activity without centralizing control — keep shared regulation from collapsing into [[visualization|dashboards]], alerts, and nudges that substitute algorithmic authority for student co-regulation.
 - **Designers.** Treat equity, transparency, and responsible data stewardship as design requirements rather than compliance afterthoughts — scaffold [[inclusive-learning|equitable]] participation in the discourse the AI mediates and disclose what learner data the system collects.
 - **Researchers.** Study mediation as redistribution rather than delegation: measure where [[agency]] and epistemic authority move among learners, teachers, and AI, and test empirically whether teacher judgment and learner epistemic sovereignty survive the shift across the interactional, epistemic, and regulatory layers.
 
 ## Limitations
 
 - This is a conceptual synthesis with no sample, intervention, or comparison group, so the three mediation layers — interactional, epistemic, and regulatory — remain theoretical constructs awaiting operationalization and measurement.
-- Its critique of teammate and peer framings leans on one cited design-based case (Lee et al., 2025, embedding AI speakers in Jigsaw groups) rather than a systematic review of outcomes, and that study itself reported student ambivalence about accountability, epistemic parity, and trust.
+- Its critique of teammate and peer framings leans on one cited design-based case (Lee et al., 2025, embedding AI speakers in Jigsaw groups) rather than a [[meta-analysis-systematic-review|systematic review]] of outcomes, and that study itself reported student ambivalence about accountability, epistemic parity, and trust.
 - The boundary distinctions between mediator and tutor, peer, coach, or orchestrator are argued conceptually; nothing in the paper shows that these roles are separable in deployed systems or that teachers and students can recognize which one they are working with.
 - The framework's theoretical bases (sociocultural theory, distributed cognition, connectivism, and sociomaterial/posthuman accounts) differ in their commitments about where agency resides, so the central claim that AI redistributes rather than displaces authority remains contested rather than demonstrated.
 

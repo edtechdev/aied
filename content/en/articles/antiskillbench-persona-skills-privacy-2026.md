@@ -31,7 +31,7 @@ Persona skills distill personal interaction histories into portable and executab
 
 ## Limitations
 
-- The 2,500 dialogue traces (7,500 persona-grounded user turns) are LLM-simulated from 50 behaviorally rich profiles rather than real user interaction histories, so the reported leakage and impersonation rates come from a controlled construction.
+- The 2,500 dialogue traces (7,500 persona-grounded user turns) are [[llm]]-simulated from 50 behaviorally rich profiles rather than real user interaction histories, so the reported leakage and impersonation rates come from a controlled construction.
 - Every personal trace is only a three-round user–assistant dialogue, which is short relative to the histories real [[personalized-learning|personalized]] skills are distilled from.
 - The defense suite covers four configurations spanning online and post-hoc interventions, so untested defense and distillation combinations may behave differently.
 

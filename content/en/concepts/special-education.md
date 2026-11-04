@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T08:20:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -40,7 +40,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 **AI-generated intervention content needs pre-generation controls, not only review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] found practitioners rated the co-designed Social Story tool highly usable (SUS 86.8) yet called its images generically Western and its behavior tracker mismatched to goal-linked clinical judgment — constraints they would have set before generation.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] starts from the materials rather than from conversation: a vision-language model reads photographs of Shoebox Tasks — designed so the goal is visible in the objects — and turns them into a plan a Nao humanoid executes or demonstrates, reporting plan accuracy across six tasks and no learner data.
-- **Challenging behavior is where tutor benchmarks stop.** Of 923 case-grounded dialogues drawn from special-education and educational-psychology literature, the best of 11 models satisfied a documented intervention in 55.8% of open-ended cases and 43.3% of long-term plans ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **Challenging behavior is where tutor [[benchmark|benchmarks]] stop.** Of 923 case-grounded dialogues drawn from special-education and educational-psychology literature, the best of 11 models satisfied a documented intervention in 55.8% of open-ended cases and 43.3% of long-term plans ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implications for special-education instructors
 
@@ -53,8 +53,8 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 ## Common Misconceptions
 
-- **"Usability ratings validate an assistive tool."** Practitioners rated a co-designed Social Story tool **highly usable (SUS 86.8)** yet called its **images generically Western** and its **behavior tracker mismatched to goal-linked clinical judgment**. High usability coexisted with substantive failures, so a SUS score is not an endorsement of fit.
-- **"Generic benchmarks tell you how a tutor handles special-education cases."** Of **923 case-grounded dialogues** drawn from special-education and educational-psychology literature, **the best of 11 models** satisfied a documented criterion — and **challenging behavior is where tutor benchmarks stop**. Standard evaluations do not reach the cases practitioners most need help with.
+- **"[[usability-research|Usability]] ratings validate an assistive tool."** Practitioners gave a Social Story tool they had co-designed a usability pass (SUS 86.8) while faulting its stock Western imagery and a behavior tracker that missed goal-linked clinical judgment. High usability coexisted with substantive failures, so a SUS score is not an endorsement of fit.
+- **"Generic benchmarks tell you how a tutor handles special-education cases."** Of **923 case-grounded dialogues** drawn from special-education and educational-psychology literature, **the best of 11 models** satisfied a documented criterion — and **that is the edge of what a tutor benchmark covers**. Standard evaluations do not reach the cases practitioners most need help with.
 - **"Neurodivergent learners need accommodations, not design requirements."** [[neurodivergent-computing-students|Zastudil et al.]] found neurodivergent computing students need **structured assignments, small consistent teams and explicit role definitions** — general design requirements that benefit everyone, not individual adjustments granted after diagnosis.
 
 ## Connected Concepts

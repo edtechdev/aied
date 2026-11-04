@@ -47,7 +47,7 @@ audience: [instructors]
 
 - A quasi-experimental single-group pre–post design with no control group, so the writing performance rise (77.13 → 81.40) cannot be separated from practice effects, novelty, or the camp format itself.
 - Forty students from one junior high in northern Taiwan, after four of the 44 recruits were excluded—a single-site, three-day intervention that is far shorter than a normal instructional cycle.
-- [[motivation]], flow, and self-efficacy were measured by self-report questionnaires; general motivation showed no significant change (2.93 → 3.00, t = −0.59, p = .560) with a pre–post correlation of 0.00, so those scales may not have been sensitive in this design.
+- [[motivation]], flow, and self-efficacy were measured by self-report [[self-report-measures|questionnaires]]; general motivation showed no significant change (2.93 → 3.00, t = −0.59, p = .560) with a pre–post correlation of 0.00, so those scales may not have been sensitive in this design.
 - The design cannot isolate the literary-character simulation from GAI use in general, and does not test whether the gains hold once the novelty of the camp fades.
 
 ## Citation

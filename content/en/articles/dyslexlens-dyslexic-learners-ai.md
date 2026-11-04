@@ -34,7 +34,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - The evidence base is 319 filtered posts from 27 subreddits, cut down from an initial corpus of 23,480 posts and comments (1,663,250 words) across 45 subreddit communities; the authors state that Reddit discussions do not represent all dyslexic learners.
 - Retrieval precision and claim-level grounding remained the pipeline's main weaknesses: across 30 responses the mean Context Relevancy was 0.40 and Response Groundedness 0.43, RQ3 scored zero Response Groundedness, and RQ5 scored zero Context Relevancy.
 - The human audit of 100 claims found 39 fully verifiable, 55 partially verifiable and 6 not verifiable, with follow-up rows far weaker than main responses (56 of 89 only partially verifiable, mostly because rows exported the full retrieved chunk instead of a short exact evidence phrase).
-- Both knowledge-graph construction and every generated response used gpt-4o-mini, and the authors note that LLM-based triple extraction and retrieval may introduce noise, so the graph should be treated as an interpretive aid rather than a complete representation of learner experience.
+- Both knowledge-graph construction and every generated response used gpt-4o-mini, and the authors note that LLM-based triple extraction and retrieval may introduce noise, so the graph should be treated as an interpretive aid rather than a complete representation of [[student-experience|learner experience]].
 
 ## Citation
 

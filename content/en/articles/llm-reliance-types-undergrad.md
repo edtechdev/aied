@@ -17,7 +17,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Learners.** Treat verification as part of drafting, not an optional cleanup step: all 14 interviewees and 22 of 35 open-ended respondents reported encountering fabricated citations, and verification habits arose mainly from self-directed experimentation rather than instruction. Check that each source exists before it enters a draft.
+- **Learners.** Treat verification as part of drafting, not an optional cleanup step: all 14 interviewees and 22 of 35 open-ended respondents reported encountering fabricated citations, and verification habits arose mainly from [[self-directed-learning|self-directed]] experimentation rather than instruction. Check that each source exists before it enters a draft.
 - **Learners.** Target the mode of your AI use rather than its volume. [[ai-literacy]] predicted which reliance type a student occupied (OR = 0.11, Dependent vs. Strategic, p < .001) while expectancy-value beliefs drove intensity, and the sample's Strategic mean (M = 4.33, SD = 1.08) far exceeded Dependent (M = 2.64, SD = 1.50). Keep planning, drafting, and revising yourself and delegate bounded tasks such as [[cognitive-offloading|idea generation]] and structural outlines.
 - **Instructors.** State your [[educational-policy-ai|AI policy]] per course in writing and discuss it in class: 11 of 14 interviewees and 18 of 35 survey respondents named their instructor's policy as the primary factor in deciding how to use an LLM for that course. Silence leaves the decision to individual students.
 - **Instructors.** Address students' expectancy-value beliefs explicitly, not just tool mechanics: these beliefs were the strongest predictor of reliance intensity (β = .630, ΔR² = .256, total R² = .722), explaining more variance than demographics, prior exposure, and AI literacy combined, while AI literacy shaped reliance type (M = 4.48, SD = 0.91). Pair skills instruction with discussion of how AI use aligns with students' goals and its perceived time cost.
@@ -26,7 +26,7 @@ confidence: high
 ## Limitations
 
 - Cross-sectional design: the author states explicitly that it "precludes any claims of causal inference," leaving the direction of the AI literacy–reliance type association indeterminate without longitudinal data; no formal item-level content validity indices were computed either, and the author recommends future work use Lynn's method with at least five expert raters and an I-CVI threshold of .78.
-- Self-report measurement with social desirability pressure: participants attributed dependent use to their past selves or to other students during interviews, which the author reads as a systematic underreporting of habituated reliance.
+- [[self-report-measures|Self-report]] measurement with social desirability pressure: participants attributed dependent use to their past selves or to other students during interviews, which the author reads as a systematic underreporting of habituated reliance.
 - Single-institution sample (N = 382 analyzable, 14 interviews, 35 open-ended responses) drawn from one public R1 AANAPISI in an urban mid-Atlantic setting; its demographics, R1 status, and AI policies may not represent other MSI contexts.
 - Power shortfall on moderation: a priori analysis required at least 395 participants to detect small interaction effects (f² = .02) and the sample of 382 fell marginally short, so non-significant moderation results are inconclusive rather than null.
 

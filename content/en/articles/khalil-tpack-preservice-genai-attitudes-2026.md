@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Can [[tpack|TPACK]] — teacher knowledge as an integration of technology, pedagogy, and content — be specified for [[generative-ai|generative AI]], and does that integrated knowledge travel with pre-service teachers' attitudes? This [[quantitative-research|survey]] of 988 pre-service teachers in Egypt and Oman answers both questions with a four-factor structural model, and the answer is qualified: the model fits acceptably (CFI = 0.952, RMSEA = 0.059) and integrated TPACK predicts a single attitude item at β = 0.75 (R² = 0.563), yet the four knowledge constructs refuse to separate empirically (HTMT = 0.92–0.99). Technological knowledge alone does not predict integrated TPACK (β = -0.10, p = 0.066), while technological pedagogical and content knowledge do, which the authors read as support for [[teacher-ai-competency|teacher AI competency]] built through subject-specific pedagogy. Read it as a measurement caution for [[ai-literacy|AI literacy]] work in [[teacher-education|teacher education]]: near-ceiling self-ratings may reflect one general confidence factor, not four competences.
+> **Synthesis:** Can [[tpack|TPACK]] — [[teacher-role|teacher]] knowledge as an integration of technology, pedagogy, and content — be specified for [[generative-ai|generative AI]], and does that integrated knowledge travel with pre-service teachers' attitudes? This [[quantitative-research|survey]] of 988 pre-service teachers in Egypt and Oman answers both questions with a four-factor structural model, and the answer is qualified: the model fits acceptably (CFI = 0.952, RMSEA = 0.059) and integrated TPACK predicts a single attitude item at β = 0.75 (R² = 0.563), yet the four knowledge constructs refuse to separate empirically (HTMT = 0.92–0.99). Technological knowledge alone does not predict integrated TPACK (β = -0.10, p = 0.066), while technological [[pedagogy|pedagogical]] and content knowledge do, which the authors read as support for [[teacher-ai-competency|teacher AI competency]] built through [[discipline-specific-aied|subject-specific]] pedagogy. Read it as a measurement caution for [[ai-literacy|AI literacy]] work in [[teacher-education|teacher education]]: near-ceiling self-ratings may reflect one general confidence factor, not four competences.
 
 ## Key Findings
 1. In a cross-sectional survey of 988 pre-service teachers in Egypt and Oman, the four-factor AI-integrated TPACK model fit acceptably (χ²/df = 4.47, CFI = 0.952, RMSEA = 0.059; loadings 0.65 to 0.87).
@@ -38,7 +38,7 @@ The paper asks two questions that TPACK research usually answers separately: whe
 
 ## Study Design and Method
 
-The instrument began as a pool of 50 items across seven TPACK domains, lost 11 on expert recommendation and six more as redundant, and ended as 33 items: four demographics plus 32 knowledge items on a five-point Likert scale. Those items were assigned to TK (5), TPK (11), TCK (8), and AI-integrated TPACK (8); attitude was one statement, the belief that generative AI can make one a more innovative and reflective teacher. Every knowledge item is a first-person self-report of the "I can" or "I know" type, measuring perceived confidence rather than demonstrated competence. Sampling adequacy was high (KMO = 0.988). A supplementary check trained five algorithms on the three antecedent composites; linear regression performed best (test R² = 0.884), suggesting linear relationships.
+The instrument began as a pool of 50 items across seven TPACK domains, lost 11 on expert recommendation and six more as redundant, and ended as 33 items: four demographics plus 32 knowledge items on a five-point Likert scale. Those items were assigned to TK (5), TPK (11), TCK (8), and AI-integrated TPACK (8); attitude was one statement, the belief that generative AI can make one a more innovative and reflective teacher. Every knowledge item is a first-person [[self-report-measures|self-report]] of the "I can" or "I know" type, measuring perceived confidence rather than demonstrated competence. Sampling adequacy was high (KMO = 0.988). A supplementary check trained five algorithms on the three antecedent composites; linear regression performed best (test R² = 0.884), suggesting linear relationships.
 
 ## Where the four domains blur
 
@@ -59,7 +59,7 @@ The attitude path is the paper's cleanest finding and its most limited one. Inte
 ## Limitations
 
 - The sample is 92.7% female and 69.3% second-year students, with only 72 men, so gender comparisons rest on a small, imprecise group.
-- Attitude was one item, which cannot capture perceived usefulness, trust, or concerns, and no reliability indices could be computed for it.
+- Attitude was one item, which cannot capture [[technology-acceptance-model|perceived usefulness]], trust, or concerns, and no reliability indices could be computed for it.
 - With discriminant validity unsupported, individual path coefficients — including the non-significant TK path — reflect small unique portions of shared variance.
 - The design is cross-sectional and correlational with a convenience sample from two countries; it cannot support causal claims.
 

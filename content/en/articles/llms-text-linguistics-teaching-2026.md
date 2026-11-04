@@ -31,14 +31,14 @@ audience: [instructors, faculty developers]
 
 - **Instructors.** Teach prompt design explicitly before the task: with no instruction, the ten novices in this study defaulted to a teacher–student dialogue format, refined prompts by trial and error, and rarely reached for in-context examples or few-shot prompting.
 - **Instructors.** Treat a failed output as the next design problem rather than a verdict on the model: six of the eight students who commented on output evaluation stopped refining prompts after concluding the model could not detect anaphors, a conclusion the authors call overgeneralization from a single prompting experience.
-- **Instructors.** Require students to compare their own manual analysis with the LLM's output on the same text; in this study that comparison produced perceived competence gains, reduced replacement anxiety, and was named by six of eight students as improved output-evaluation skill.
-- **Instructors.** Front-load the disciplinary knowledge the activity depends on and assess it beforehand, since students reflected metacognitively only where subject knowledge was already consolidated and prior knowledge was never checked across the pairs.
+- **Instructors.** Require students to compare their own manual analysis with the LLM's output on the same text; in this study that comparison produced perceived competence gains, reduced replacement [[anxiety-and-stress|anxiety]], and was named by six of eight students as improved output-evaluation skill.
+- **Instructors.** Front-load the disciplinary knowledge the activity depends on and assess it beforehand, since students reflected metacognitively only where subject knowledge was already consolidated and [[prior-knowledge|prior knowledge]] was never checked across the pairs.
 - **Teacher educators.** Make attribution of failure an explicit debrief question in methods courses: here novices overwhelmingly blamed the LLM rather than their own prompt formulation, and only one of the eight students attributed unsatisfactory results to prompt strategy.
 
 ## Limitations
 
 - Ten students (nine women), aged 19–29 (M = 21.3, SD = 3.2), all native Italian speakers in one Italian-language linguistics seminar at a single Swiss university; the authors state this small, demographically unbalanced sample restricts external validity and prevents statistical comparison across gender or age.
-- Evidence about perceptions and learning comes from self-reports and guided [[reflection|written reflections]], which the authors concede may introduce response bias, with confirmation bias a risk in the qualitative coding; behavioral prompt logs covered only the first research question.
+- Evidence about perceptions and learning comes from self-reports and guided [[reflection|written reflections]], which the authors concede may introduce response bias, with confirmation bias a risk in the [[qualitative-research|qualitative]] coding; behavioral prompt logs covered only the first research question.
 - Prior knowledge of text linguistics was never assessed before the intervention, so the authors cannot rule out that differences in disciplinary knowledge shaped how the pairs evaluated LLM output.
 - The intervention ran with no preliminary prompt-engineering introduction, and the authors note the rapid pace of model development may limit long-term generalizability and reproducibility.
 

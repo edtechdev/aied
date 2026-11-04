@@ -49,7 +49,7 @@ ai_assist:
 ### Emotional responses and feedback literacy
 
 - **Enjoyment rose, anxiety fell.** Controlling for pre-test scores, the experimental group scored higher on task enjoyment [F(1, 58) = 5.931, p = 0.018, η² = 0.094] and lower on [[anxiety-and-stress|task anxiety]] [F(1, 58) = 5.705, p = 0.020, η² = 0.091], both medium effects. Means moved from 16.76 to 20.43 (enjoyment) and 22.26 to 18.70 (anxiety) in the experimental group, against 18.56 to 19.43 and 22.93 to 21.60 in the control group.
-- **Every feedback literacy dimension improved.** Feedback-related knowledge and abilities [F(1, 58) = 9.780, p = 0.003, η² = 0.146], willingness to participate [F(1, 58) = 27.434, p < 0.001, η² = 0.325], cooperative learning ability [F(1, 58) = 4.673, p = 0.035, η² = 0.076], and appreciation of peer feedback [F(1, 58) = 7.936, p = 0.007, η² = 0.122] all significantly favored the experimental group, with willingness to participate showing the largest effect.
+- **Every feedback literacy dimension improved.** Feedback-related knowledge and abilities [F(1, 58) = 9.780, p = 0.003, η² = 0.146], willingness to participate [F(1, 58) = 27.434, p < 0.001, η² = 0.325], [[collaborative-learning|cooperative learning]] ability [F(1, 58) = 4.673, p = 0.035, η² = 0.076], and appreciation of peer feedback [F(1, 58) = 7.936, p = 0.007, η² = 0.122] all significantly favored the experimental group, with willingness to participate showing the largest effect.
 
 ## Study Design
 
@@ -68,17 +68,17 @@ ai_assist:
 
 ### Instruments and analysis
 
-- **TAEQ:** Task enjoyment (5 items) and task anxiety (6 items) on six-point scales, adapted from L2 task emotion questionnaires; Cronbach's alpha 0.85 and 0.83 respectively.
+- **TAEQ:** Task enjoyment (5 items) and task anxiety (6 items) on six-point scales, adapted from L2 task emotion [[self-report-measures|questionnaires]]; Cronbach's alpha 0.85 and 0.83 respectively.
 - **PFPLQ:** 14 items from Dong et al.'s Peer Feedback Literacy Scale covering only the provision side, across four dimensions (FKA 5 items, WP 3, CLA 3, APF 3) on a six-point scale; alphas 0.83, 0.83, 0.81, and 0.82 respectively.
 - **Analysis:** Thematic open coding of chat histories in NVivo12 by one researcher, with a second researcher coding half the data (kappa = 0.86). RQ2 to RQ4 were analyzed by ANCOVA controlling for pre-test scores. Cohen's (1988) partial eta squared thresholds (0.01 small, 0.06 medium, 0.14 large) were used to interpret effect sizes.
-- **Ethics:** Institutional Research Ethics Committee approval, informed consent from all participants, and anonymized peer review throughout.
+- **[[ethics]]:** Institutional Research Ethics Committee approval, informed consent from all participants, and anonymized peer review throughout.
 
 ## What this means for practice
 
-- **Treat linguistic over-focus as the thing to correct.** Students defaulted to using AI as a [[conversational-ai|language editor]] rather than as a feedback partner, which the authors attribute partly to form-related anxiety common among L2 learners and partly to a pre-existing schema of AI as a linguistic aid. Targeted [[ai-literacy|AI literacy]] work, covering capabilities, ethics, and dispositions, is what shifts that perception, since demonstration alone did not.
+- **Treat linguistic over-focus as the thing to correct.** Students defaulted to using AI as a [[conversational-ai|language editor]] rather than as a feedback partner, which the authors attribute partly to form-related anxiety common among [[multilingual-learning|L2 learners]] and partly to a pre-existing schema of AI as a linguistic aid. Targeted [[ai-literacy|AI literacy]] work, covering capabilities, ethics, and dispositions, is what shifts that perception, since demonstration alone did not.
 - **Build in repetition, not a single session.** Nothing measurable appeared after cycle 1; the gains accumulated over three cycles. Plan multi-session, semester-long peer review programs rather than one-off AI-supported tasks.
 - **Sequence the skills.** Supportive tone and clear description moved first, justification and constructiveness later. Scaffold the foundational dimensions early and introduce the higher-order ones as students gain experience.
-- **Position AI as a non-judgmental intermediary.** The authors argue AI lowers [[anxiety-and-stress|anxiety]] by acting as a neutral third party and reduces [[cognitive-offloading|load]] on a task that is cognitively and emotionally demanding in a second language, with competence gains feeding [[motivation|intrinsic motivation]] and [[motivation|engagement]].
+- **Position AI as a non-judgmental intermediary.** The authors argue AI lowers [[anxiety-and-stress|anxiety]] by acting as a neutral third party and reduces [[cognitive-offloading|load]] on a task that is cognitively and emotionally demanding in a [[language-learning|second language]], with competence gains feeding [[motivation|intrinsic motivation]] and [[motivation|engagement]].
 - **Protect evaluative ownership.** Simple prompting worked here, and the authors suggest some students may have deliberately kept content evaluation for themselves. Frame training around AI as a [[scaffolding|scaffold]] rather than a substitute, and keep the boundary between AI-assisted refinement and independent judgment an explicit topic rather than an assumption.
 
 ## Limitations
@@ -86,7 +86,7 @@ ai_assist:
 - **Self-reported outcomes.** Task enjoyment, anxiety, and [[feedback-literacy|feedback literacy]] came from questionnaires, which are vulnerable to social desirability and recall bias; no objective measures were collected.
 - **Both groups were novices.** Over 60% of participants had little prior peer feedback experience, so the experimental gains reflect AI support plus ordinary skill development together. The design cannot separate AI's effect for novices from its effect for experienced reviewers.
 - **Short window and no withdrawal test.** Three structured cycles over nine weeks cannot show whether engagement with AI changes with prolonged use, and because AI support was never withdrawn, the study cannot distinguish durable skill development from temporary reliance on the scaffold. The authors call for longitudinal work with post-scaffolding assessment.
-- **No qualitative voice.** The quantitative design left the reasons for the flat first cycle unexplained; interviews, focus groups, or [[reflection|reflective journals]] would be needed to capture students' perceptions and adaptive strategies during the acclimation phase.
+- **No [[qualitative-research|qualitative]] voice.** The [[quantitative-research|quantitative]] design left the reasons for the flat first cycle unexplained; interviews, focus groups, or [[reflection|reflective journals]] would be needed to capture students' perceptions and adaptive strategies during the acclimation phase.
 - **Interpretations of restraint are speculative.** The proposed explanations for students' narrow prompting (form-focused anxiety, seeing AI as a language editor, deliberate preservation of [[agency|intellectual ownership]]) are inferences from interaction logs rather than evidence from students themselves.
 - **No [[prompt-engineering|prompt engineering]] training and an open boundary.** Students achieved significant gains without systematic prompt training, so the study leaves open whether such training would add anything, and it did not test where students and instructors should draw the line between AI-assisted refinement and independent judgment.
 

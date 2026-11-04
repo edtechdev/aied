@@ -53,8 +53,8 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Limitations
 
-- The sample (n = 72) is small and self-selected, skewed toward highly engaged AI users in higher-education instructional roles; K-12 educators and student support professionals are underrepresented.
-- Self-report data allow social desirability bias, particularly on the items about critical evaluation and oversight of AI outputs.
+- The sample (n = 72) is small and self-selected, skewed toward highly engaged AI users in higher-education instructional roles; [[k-12]] educators and [[student-support-and-success|student support]] professionals are underrepresented.
+- [[self-report-measures|Self-report data]] allow social desirability bias, particularly on the items about critical evaluation and oversight of AI outputs.
 - The cross-sectional design cannot capture the iterative design, prototype, test, and revise processes the DOT Framework treats as central.
 - The three-factor solution is exploratory and hypothesis-generating, ceiling effects in the Oversight and Governance items reduced discriminative power, and some items did not load cleanly onto any factor.
 

@@ -41,11 +41,11 @@ The diagnosis is what makes the paper useful: viewer search has two tiers — fi
 
 ## From a PDF deck to synchronized guidance, without annotation
 
-The pipeline needs no human markup. PyMuPDF renders pages to images; Gemini 3 Pro segments the deck into sections, then emits a per-page ordered region plan in which each region carries a zoom bounding box, two to three sentences of narration in a teacher's voice, and character-level highlight triggers. Five constraints are enforced — an overview-first full-page region, highlights nested inside their parent zoom box, the 30% padding, valid trigger ranges, and distinct elements per region — with a full-page fallback when a zoom box fails validation. Azure AI Speech pregenerates audio for latency-free playback, and at runtime each region zooms, plays, and highlights in parallel, sentence timing allocated by character share. Grounding, not sequencing, is the weak link.
+The pipeline needs no human markup. PyMuPDF renders pages to images; Gemini 3 Pro segments the deck into sections, then emits a per-page ordered region plan in which each region carries a zoom bounding box, two to three sentences of narration in a [[teacher-role|teacher]]'s voice, and character-level highlight triggers. Five constraints are enforced — an overview-first full-page region, highlights nested inside their parent zoom box, the 30% padding, valid trigger ranges, and distinct elements per region — with a full-page fallback when a zoom box fails validation. Azure AI Speech pregenerates audio for latency-free playback, and at runtime each region zooms, plays, and highlights in parallel, sentence timing allocated by character share. Grounding, not sequencing, is the weak link.
 
 ## What the phone-sized study showed
 
-Twenty-four participants (16 female, 8 male, aged 18–29, M = 22.1) watched two researcher-built four-page decks — MRI principles and noise-canceling headphones — counterbalanced on their own 6.1–6.7-inch phones. Guidance cut frustration (d = 0.73) and lifted performance self-assessment (d = 0.62) while leaving effort unchanged (p = .205) — the [[cognitive-psychology|cognitive-load]] signature of relief from locating content, not from effortful processing. Interviews explain the rest: 23 of 24 said guidance eliminated visual search (62 mentions), 20 described losing track under static slides (41 mentions), and 23 invoked a teacher pointing at a board (43 references). Thirteen found the advantage amplified on phones. The top drawback was losing global context while zoomed (32 mentions, 15 participants).
+Twenty-four participants (16 female, 8 male, aged 18–29, M = 22.1) watched two researcher-built four-page decks — MRI principles and noise-canceling headphones — counterbalanced on their own 6.1–6.7-inch phones. Guidance cut frustration (d = 0.73) and lifted performance [[self-assessment]] (d = 0.62) while leaving effort unchanged (p = .205) — the [[cognitive-psychology|cognitive-load]] signature of relief from locating content, not from effortful processing. Interviews explain the rest: 23 of 24 said guidance eliminated visual search (62 mentions), 20 described losing track under static slides (41 mentions), and 23 invoked a teacher pointing at a board (43 references). Thirteen found the advantage amplified on phones. The top drawback was losing global context while zoomed (32 mentions, 15 participants).
 
 ## What this means for practice
 
@@ -57,7 +57,7 @@ Twenty-four participants (16 female, 8 male, aged 18–29, M = 22.1) watched two
 ## Limitations
 
 - Twenty-four [[higher-ed|university students]] (aged 18–29, M = 22.1) at one institution, each viewing two four-page decks of 5 minutes 28 seconds — one brief exposure.
-- Split-attention evidence rests on self-reported workload, attentional-guidance ratings, and a nine-point test; no eye-tracking was run, so fixation dispersion and time-on-target are unconfirmed.
+- Split-attention evidence rests on [[self-report-measures|self-reported]] workload, attentional-guidance ratings, and a nine-point test; no eye-tracking was run, so fixation dispersion and time-on-target are unconfirmed.
 - Playback controls were disabled to isolate guidance, and four participants asked for the interactive Q&A already built but switched off, so the tested condition is narrower than the system.
 - Some static-condition participants read the subtitle transcript to compensate, which the authors say may make that gain an underestimate.
 

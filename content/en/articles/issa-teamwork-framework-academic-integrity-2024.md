@@ -35,7 +35,7 @@ methods: [mixed-methods-research]
 4. **End-of-semester evaluation ran well above university averages.** Unit versus university on the eVALUate items: learning experience 100 versus 85 and later 89, 95, 94, 98; assessments 95 versus 86 and later 89, 90, 97, 92; feedback 90 versus 81 and later 95, 90, 100, 98.
 5. **Participation was modest and voluntary.** Of 408 enrolled students, 146 completed the informal feedback survey and 129 responded to the voluntary eVALUate instrument, with per-semester response rates between 29% and 36%.
 6. **The cohort was mostly international.** 25% of the BPM cohort were Australian students and 75% were international students from China, Indonesia, India, Iran, Japan, Malaysia, Mongolia, Pakistan, Singapore, Sri Lanka, Taiwan, Thailand and Vietnam, which the authors treat as material to the group work itself.
-7. **Mixed methods with light instrumentation.** Anonymous formal and informal student comments manually coded into themes, quantitative analysis in Excel and Qualtrics, single unit, single institution, ethics approval HRE2019-0389.
+7. **[[mixed-methods-research|Mixed methods]] with light instrumentation.** Anonymous formal and informal student comments manually coded into themes, [[quantitative-research|quantitative]] analysis in Excel and Qualtrics, single unit, single institution, ethics approval HRE2019-0389.
 
 ## What the framework actually does
 
@@ -51,9 +51,9 @@ The mark series has its own confound, which the authors state plainly. A new lec
 
 ## What the evaluation scores can and cannot show
 
-The unit-level eVALUate items reached 100 on learning experience against a university average of 85, which is a striking gap and also a self-selected one: response rates were 29% to 36%, giving 19 to 50 responses per semester out of cohorts of 55 to 166, and the instrument is voluntary, anonymous and about the student experience rather than about learning. The university comparison is a same-institution average for whatever mix of units the students took, not a matched control, and the paper loses the university average entirely from Semester 2 2022 because the platform changed.
+The unit-level eVALUate items reached 100 on learning experience against a university average of 85, which is a striking gap and also a self-selected one: response rates were 29% to 36%, giving 19 to 50 responses per semester out of cohorts of 55 to 166, and the instrument is voluntary, anonymous and about the [[student-experience|student experience]] rather than about learning. The university comparison is a same-institution average for whatever mix of units the students took, not a matched control, and the paper loses the university average entirely from Semester 2 2022 because the platform changed.
 
-The qualitative material is the strongest part of the evaluation and the weakest evidence of integrity: students describe learning project management software, gaining presentation skill and gaining confidence as team members, which supports the [[collaborative-learning]] claim and says nothing directly about whether AI use fell.
+The [[qualitative-research|qualitative]] material is the strongest part of the evaluation and the weakest evidence of integrity: students describe learning project management software, gaining presentation skill and gaining confidence as team members, which supports the [[collaborative-learning]] claim and says nothing directly about whether AI use fell.
 
 ## What this means for practice
 
@@ -68,7 +68,7 @@ The qualitative material is the strongest part of the evaluation and the weakest
 - **One unit, one institution, one assessment task.** A postgraduate Business Project Management unit at a single Australian university, with the teamwork assessment as the only object of study; the authors name this and defer generalization to future work.
 - **No integrity counts.** Misconduct and extension-request reductions are asserted rather than measured, so the framework's central promise is unevidenced in its own data.
 - **Confounded mark series.** A new lecturer and a redesigned assessment arrived together in Semester 1 2021, and the authors credit three changes jointly.
-- **Voluntary, low-response, experience-focused evaluation.** 129 eVALUate responses out of 408 enrolled, response rates of 29% to 36%, and items about learning experience and feedback rather than about learning gains or AI use.
+- **Voluntary, low-response, experience-focused evaluation.** 129 eVALUate responses out of 408 enrolled, response rates of 29% to 36%, and items about learning experience and feedback rather than about [[learning-gains|learning gains]] or AI use.
 - **Manual coding without reported agreement.** Comments were coded into themes manually, with no inter-coder reliability figure, and the quantitative analysis was run in Excel on reporting-platform output.
 - **2024 data predating current models.** The study spans Semester 1 2021 to Semester 1 2023, so the generative tools its framework was designed against are earlier ones than those now in use.
 

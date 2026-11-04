@@ -15,7 +15,7 @@ discipline: [design education]
 audience: [instructors, faculty developers]
 ---
 
-> **Synthesis:** [[mixed-methods-research|Mixed-methods]] analysis of 112 student [[reflection|reflections]] from a 12-week course examining how [[generative-ai]] tools (ChatGPT, DALL·E) operate across [[design-thinking]]'s five stages. Four themes emerged: Perceived Benefits (enhanced [[creativity]] and [[accessibility]]), Ethical Concerns (bias and authorship ambiguity), Hesitance & Acceptance (evolution from skepticism to strategic adoption), and Critical Validation (development of epistemic vigilance). Sentiment analysis showed 86% positive responses, while [[ethics|ethical]] concerns generated significant negative sentiment (62%). The authors conclude that [[generative-ai]], when pedagogically [[scaffolding|scaffolded]], augments rather than replaces [[human-in-the-loop-ai|human judgment]] — students evolved from passive users to critical evaluators. Published in JUTLP, DOI https://doi.org/10.53761/tjse2f36.
+> **Synthesis:** [[mixed-methods-research|Mixed-methods]] analysis of 112 student [[reflection|reflections]] from a 12-week course examining how [[generative-ai]] tools (ChatGPT, DALL·E) operate across [[design-thinking]]'s five stages. Four themes emerged: Perceived Benefits (enhanced [[creativity]] and [[accessibility]]), Ethical Concerns (bias and authorship ambiguity), Hesitance & Acceptance (evolution from skepticism to strategic adoption), and Critical Validation (development of epistemic vigilance). [[affective-computing|Sentiment analysis]] showed 86% positive responses, while [[ethics|ethical]] concerns generated significant negative sentiment (62%). The authors conclude that [[generative-ai]], when pedagogically [[scaffolding|scaffolded]], augments rather than replaces [[human-in-the-loop-ai|human judgment]] — students evolved from passive users to critical evaluators. Published in JUTLP, DOI https://doi.org/10.53761/tjse2f36.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ audience: [instructors, faculty developers]
 
 ## Study Design & Method
 
-The study was conducted across a 12-week undergraduate [[design-thinking]] course at a metropolitan Australian university, with 112 students drawn from business (60%), education (19%), law (12%), and interdisciplinary programs (9%). None had prior formal training in [[design-thinking]] or [[generative-ai]], providing a consistent baseline. GenAI tools were embedded at each of the five design stages: ChatGPT for empathise (persona [[simulation]]), AI summarization for define, DALL·E and ChatGPT for ideate, DALL·E for prototype, and AI analytics for test.
+The study was conducted across a 12-week undergraduate [[design-thinking]] course at a metropolitan Australian university, with 112 students drawn from business (60%), education (19%), law (12%), and interdisciplinary programs (9%). None had prior formal training in [[design-thinking]] or [[generative-ai]], providing a consistent baseline. GenAI tools were embedded at each of the five design stages: ChatGPT for empathise (persona [[simulation]]), AI summarization for define, DALL·E and ChatGPT for ideate, DALL·E for prototype, and AI [[learning-analytics|analytics]] for test.
 
 The study adopted a mixed-methods paradigm guided by a [[constructivist]] epistemology grounded in [[experiential-learning]], Vygotsky's [[sociocultural-learning|sociocultural]] theory, and Dewey's pragmatism. [[qualitative-research|Qualitative]] analysis used Braun and Clarke's six-phase thematic analysis framework with NVivo 14, achieving high intercoder reliability (Cohen's κ = 0.82 on a 20% subsample). Sentiment analysis was implemented via a fine-tuned DistilBERT model (validated at 89% accuracy, F1 = 0.85), cross-checked with manual coding (88% concordance) and the VADER lexicon.
 
@@ -40,10 +40,10 @@ The study adopted a mixed-methods paradigm guided by a [[constructivist]] episte
 - **Designers.** Position GenAI as a co-creator within [[human-ai-collaboration]] and use [[scaffolding|scaffolds]] that keep human judgment at the center, countering [[cognitive-offloading]] and automation bias.
 
 ## Limitations
-- The four themes were derived primarily from 112 student reflections, and the authors state that self-report methods carry social desirability, retrospective-reconstruction, and weak-correlation-with-learning risks.
+- The four themes were derived primarily from 112 student reflections, and the authors state that [[self-report-measures|self-report]] methods carry social desirability, retrospective-reconstruction, and weak-correlation-with-learning risks.
 - The study ran in a single 12-week undergraduate design course at one metropolitan Australian university, so institutional variables such as faculty attitudes, digital infrastructure, and curricular autonomy may limit generalizability.
 - No objective outcome measure was used, so the reported gains in [[creativity]] and [[ethics|ethical reasoning]] remain student claims; the authors note the absence of pre/post achievement or cognitive-load testing.
-- Sentiment analysis (a fine-tuned DistilBERT validated at 89% accuracy) surfaced affective trends, but the study did not examine how emotions such as anxiety or confusion shape [[student-engagement|engagement]] with GenAI.
+- Sentiment analysis (a fine-tuned DistilBERT validated at 89% accuracy) surfaced affective trends, but the study did not examine how emotions such as [[anxiety-and-stress|anxiety]] or confusion shape [[student-engagement|engagement]] with GenAI.
 
 ## Citation
 

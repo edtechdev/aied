@@ -46,7 +46,7 @@ The model responds by treating the workflow as a design problem, decomposed into
 
 ## What the pilot looked like
 
-The Spring 2026 program ran from January to early May with a full-day bootcamp, bi-weekly cohort meetings, weekly intern studio hours, individualized faculty support and a public showcase where 13 teams presented. Within teams, the dominant collaboration pattern was a Translator model, with several pairs reaching a more equal Co-Pilot partnership: interns taught tools while absorbing disciplinary context, and faculty taught one another through peer-led tool demonstrations and shared troubleshooting.
+The Spring 2026 program ran from January to early May with a full-day bootcamp, bi-weekly cohort meetings, weekly intern studio hours, individualized faculty support and a public showcase where 13 teams presented. Within teams, the dominant collaboration pattern was a Translator model, with several pairs reaching a more equal [[human-ai-collaboration|Co-Pilot]] partnership: interns taught tools while absorbing disciplinary context, and faculty taught one another through peer-led tool demonstrations and shared troubleshooting.
 
 Evidence came from end-of-semester faculty and intern reviews, weekly research reflections, project status surveys and a department-leader survey. Faculty rated the fellowship's effect on their professional network and community positively (n = 12) and rated bi-weekly cohort meetings as a meaningful source of connection (n = 13). The reflections give the program its useful diagnostic: progress and contact moved together, which suggests that [[pedagogical-partnerships|reciprocal mentoring]] needs a rhythm rather than an orientation session.
 
@@ -54,7 +54,7 @@ Evidence came from end-of-semester faculty and intern reviews, weekly research r
 
 The author is explicit that the analysis is descriptive. Participants self-selected, faculty reviews were anonymous and unmatched to baseline responses, and the weekly reflections are [[self-report-measures|self-report]]. No comparison group exists, so the reported growth in faculty confidence and intern competence cannot be attributed to the model rather than to the cohort, the novelty of the program or the semester's support.
 
-What survives that caution is the structural argument, which does not depend on the pilot's effect size: if AI absorbs execution, mentorship has to be re-specified around judgment, and the people best placed to teach tool fluency may be the trainees. For graduate programs and centers for teaching and learning, the transferable pieces are the four capacities, the workflow-decomposition exercise, and the pairing of a disciplinary expert with a tool-fluent partner. The [[ai-literacy]] implication is that [[educational-development|faculty development]] is not a one-time upskilling, because the tools and the workflow both keep moving.
+What survives that caution is the structural argument, which does not depend on the pilot's effect size: if AI absorbs execution, mentorship has to be re-specified around judgment, and the people best placed to teach tool fluency may be the trainees. For graduate programs and centers for teaching and learning, the transferable pieces are the four capacities, the workflow-decomposition exercise, and the pairing of a disciplinary expert with a tool-fluent partner. The [[ai-literacy]] implication is that [[educational-development|faculty development]] is not a one-time [[lifelong-learning|upskilling]], because the tools and the workflow both keep moving.
 
 ## What this means for practice
 

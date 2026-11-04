@@ -15,7 +15,7 @@ page_kind: [framework]
 ---
 > **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalization]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *[[cognitive-surrender]]*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization.
 
-> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization** — is a principled guardrail for the knowledge base's agentic-education literature.
+> Woollaston, Flanagan, Wijerathne & Ogata (2026, [[ai-education|AIED]] HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization** — is a principled guardrail for the knowledge base's agentic-education literature.
 
 ## The tension: automation vs. learning
 
@@ -50,9 +50,9 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 ## What this means for practice
 
 - **Instructional designers.** Design [[desirable-difficulties|friction]] into the agent's task loop rather than optimizing for smoothness — for example, have it ask the learner to explain how a known hobby connects to a new concept instead of drawing the connection for them.
-- **Instructional designers.** Specify fading rules before deployment, requiring real-time analytics that distinguish temporary task completion from durable mastery so [[scaffolding|scaffolds]] are withdrawn rather than persisting.
-- **Designers.** Put the teacher inside the agent's execution loop via escalation protocols, adjustable purpose and guardrails, and mid-session state interruptibility, instead of relegating educators to passive observers of chat logs.
-- **Designers.** Apply the SAMR model feature by feature: avoid agent support that only substitutes or augments an existing task and reserve the capability for tasks it genuinely modifies or redefines.
+- **Instructional designers.** Specify fading rules before deployment, requiring real-time [[learning-analytics|analytics]] that distinguish temporary task completion from durable mastery so [[scaffolding|scaffolds]] are withdrawn rather than persisting.
+- **Designers.** Put the teacher inside the agent's execution loop via escalation protocols, adjustable purpose and [[guardrails]], and mid-session state interruptibility, instead of relegating educators to passive observers of chat logs.
+- **Designers.** Apply the [[samr-model|SAMR model]] feature by feature: avoid agent support that only substitutes or augments an existing task and reserve the capability for tasks it genuinely modifies or redefines.
 
 ## Limitations
 

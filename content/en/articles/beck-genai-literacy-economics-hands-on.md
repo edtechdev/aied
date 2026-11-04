@@ -35,12 +35,12 @@ This paper addresses the reality that students use [[generative-ai]] tools like 
 - **Instructors.** Run the five-step sequence — independent analysis, standardized ChatGPT prompt, critical evaluation of the output, reflection and refinement, collaborative discussion — and reuse it across topics, proficiency levels, and in-person, online, or hybrid formats.
 - **Instructors.** Design activities around AI's mistakes rather than banning the tool: the price-elasticity exercise works because ChatGPT mislabels the inelastic demand in the song lyrics as "perfectly elastic," so the discrepancy itself teaches validation.
 - **Instructors.** Embed AI use transparently in active tasks; making the use visible and assessed reduced the incentive for covert misuse that arises when AI is prohibited.
-- **Learners.** Answer the guided questions independently before prompting, then compare the AI response against your own work for accuracy, clarity, and depth, and revise accordingly.
+- **Learners.** Answer the guided questions independently before [[prompt-engineering|prompting]], then compare the AI response against your own work for accuracy, clarity, and depth, and revise accordingly.
 - **Faculty developers.** Budget for the significant course-redesign effort the approach requires and support instructors in writing standardized prompts and evaluation criteria.
 
 ## Limitations
 
-- The paper is a teaching-practice case description, not a controlled study: there is no comparison group and no pre/post measure of learning gains.
+- The paper is a teaching-practice case description, not a controlled study: there is no comparison group and no pre/post measure of [[learning-gains|learning gains]].
 - Evidence for its effects is instructor-reported student feedback and engagement ("overwhelmingly positive") rather than assessed performance data.
 - The activities were developed in the authors' own introductory and graduate economics courses at two universities and rely on a single tool (ChatGPT), so transferability beyond that discipline and tool is untested.
 

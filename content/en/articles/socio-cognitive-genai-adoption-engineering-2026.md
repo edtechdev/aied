@@ -30,16 +30,16 @@ institutions: [change-management]
 
 - **Instructors.** Show students where GenAI fits real engineering work: job relevance and result demonstrability shaped intention and use in this model, so tie AI activities to concrete professional tasks and make expected outputs visible.
 - **Instructors.** Scaffold tool access for students newer to English-medium instruction — domestic students reported higher ease of use than international peers, and the pattern reversed for students' image when interacting with GenAI.
-- **Faculty developers.** Build [[inclusive-learning|inclusive]] onboarding and usability support into AI rollouts, since perceived usefulness and ease of use act as the mediators linking cognitive, social, and attitudinal factors to actual use.
+- **Faculty developers.** Build [[inclusive-learning|inclusive]] onboarding and [[usability-research|usability]] support into AI rollouts, since perceived usefulness and ease of use act as the mediators linking cognitive, social, and attitudinal factors to actual use.
 - **Administrators.** Treat adoption as a socially mediated practice: infuse AI guidance with the social norms and [[equity-in-ai-education|equitable access]] conditions of a resource-constrained, multicultural campus rather than presenting it as a purely technical upgrade.
 - **Researchers.** Extend this model across cultures and time — cross-cultural, longitudinal designs are needed to test whether the 64% of variance explained here holds as students' technical proficiency grows.
 
 ## Limitations
 
 - The design is cross-sectional, so the PLS-SEM associations cannot support causal claims about what drives adoption over time.
-- All measures are self-reported survey items, which the authors note introduces a risk of common method bias.
+- All measures are [[self-report-measures|self-reported]] survey items, which the authors note introduces a risk of common method bias.
 - The 378 respondents come from a single engineering university in Bangladesh (IUT), recruited through purposive then convenience sampling, so the findings are contextually situated rather than universally generalizable; cross-institutional and cross-disciplinary replication is required.
-- The model omits salient constructs such as trust, ethical perception, and anxiety, and did not measure digital literacy, year of study, or enrollment type; heterogeneity was tested through multi-group analysis rather than continuous moderation.
+- The model omits salient constructs such as trust, ethical perception, and [[anxiety-and-stress|anxiety]], and did not measure digital literacy, year of study, or enrollment type; heterogeneity was tested through multi-group analysis rather than continuous moderation.
 
 ## Citation
 

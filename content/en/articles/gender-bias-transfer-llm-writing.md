@@ -32,14 +32,14 @@ The [[research-methods-aied|researchers]] first verified that a gender-biased pr
 - **Instructors.** Treat perceived influence as a poor proxy for actual influence. Biased-condition participants reported lower perceived influence on their career recommendations (Q2: 3.50 ± 1.33 vs. 3.71 ± 1.23) while producing the largest agency gap, so debrief on undetected transfer rather than asking whether the tool felt influential.
 - **Instructors.** Target the female side of the gap when reviewing assignments and tooling. Female-target agency fell from 0.591 with the neutral assistant to 0.288 with the biased one, a 51% relative reduction, while male agency held steady — a correction aimed only at male over-representation would leave this effect intact.
 - **Learners.** Check your own draft for gendered attributions before submitting. Students with the biased assistant were nearly four times more likely to suggest a gender-congruent occupation than those with the neutral assistant, and the shift affected how the subject was described, not just which job was named.
-- **Instructors.** Fold the values an AI tool transmits into [[academic-integrity]] and assessment policy rather than treating it as a separate ethics question. The neutral condition produced the lowest stereotype congruence rate of all three groups, below even the no-AI control, so whether an assistant amplifies or attenuates baseline stereotyping is a configuration choice, not a given.
+- **Instructors.** Fold the values an AI tool transmits into [[academic-integrity]] and assessment policy rather than treating it as a separate [[ethics]] question. The neutral condition produced the lowest stereotype congruence rate of all three groups, below even the no-AI control, so whether an assistant amplifies or attenuates baseline stereotyping is a configuration choice, not a given.
 
 ## Limitations
 
 - The participant sample was gender-skewed — 89 male (72.4%) and 34 female (27.6%) of N = 123 — which prevented the authors from analyzing whether participant gender moderates bias transfer.
 - All 123 participants came from a single English-medium university course, with 40–42 participants per condition each writing one career-plan essay in a controlled lab session that blocked access to external AI tools.
 - Stereotype labels rest on U.S. Bureau of Labor Statistics occupational gender distributions rather than local labor-market data, because the study's country of deployment offers no publicly accessible detailed occupational gender data.
-- The analysis covered one open-source model (llama-3.3-70b-instruct); proprietary models such as GPT-4 and Claude were unavailable on the authors' resources, so the boundary conditions of the transfer effect across model families remain unknown.
+- The analysis covered one [[open-source]] model (llama-3.3-70b-instruct); proprietary models such as GPT-4 and Claude were unavailable on the authors' resources, so the boundary conditions of the transfer effect across model families remain unknown.
 
 ## Citation
 

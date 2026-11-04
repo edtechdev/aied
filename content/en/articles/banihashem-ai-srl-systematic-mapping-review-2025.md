@@ -15,7 +15,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to primary education and educators. AI is implemented primarily as an intervention — through adaptive systems and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.
+> **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to [[early-childhood-elementary-ai-education|primary education]] and educators. AI is implemented primarily as an intervention — through adaptive systems and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.
 
 ## Key Findings
 
@@ -36,10 +36,10 @@ methods: [meta-analysis-systematic-review]
 
 ## Limitations
 
-- The 84 mapped studies were found with a search string limited to permutations of "self-regulation" and requiring the term in the title or abstract, and the authors state the protocol was not pre-registered because of the project's timeline; work using other terms for goal-setting, self-monitoring, or mastery learning may have been excluded.
+- The 84 mapped studies were found with a search string limited to permutations of "self-regulation" and requiring the term in the title or abstract, and the authors state the protocol was not pre-registered because of the project's timeline; work using other terms for goal-setting, self-monitoring, or [[mastery-learning|mastery learning]] may have been excluded.
 - The search strategy carries a Global North and linguistic bias that the authors name: while authors came from 30 countries, 48% were from North America, and other academic platforms were not searched.
-- No formal quality appraisal of included studies was performed, as systematic mapping reviews do not require one; the authors recommend a full appraisal in any future systematic review.
-- The mapped evidence is mostly short-term — only about one-third of studies extended beyond two months — and 71% quantitative (N = 60), so long-term effects and the qualitative experience of learners are thinly evidenced.
+- No formal quality appraisal of included studies was performed, as systematic mapping reviews do not require one; the authors recommend a full appraisal in any future [[meta-analysis-systematic-review|systematic review]].
+- The mapped evidence is mostly short-term — only about one-third of studies extended beyond two months — and 71% [[quantitative-research|quantitative]] (N = 60), so long-term effects and the [[qualitative-research|qualitative]] experience of learners are thinly evidenced.
 
 ## Citation
 

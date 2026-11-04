@@ -23,7 +23,7 @@ A [[mixed-methods-research|mixed-methods]] survey of 81 introductory [[physics-e
 - 40% spontaneously identified AI failure modes: visual-spatial reasoning, circuits, abstract physics
 - Student [[trust-calibration|trust calibration]] tracks [[ai-literacy|AI competence]] boundaries (consistent with Kortemeyer benchmarks)
 - 65% prefer optional over mandatory AI integration
-- Verification gap identified: self-reported vs actual verification behavior
+- Verification gap identified: [[self-report-measures|self-reported]] vs actual verification behavior
 
 ## What this means for practice
 

@@ -32,7 +32,7 @@ audience: [instructional designers, instructors]
 
 ## Limitations
 
-- Thirty students from a single university seminar on social science research methods (M age = 25.70, SD = 2.88) completed one 45-minute reading-and-essay task, so the findings are exploratory and tied to that setting.
+- Thirty students from a single university seminar on social science [[research-methods-aied|research methods]] (M age = 25.70, SD = 2.88) completed one 45-minute reading-and-essay task, so the findings are exploratory and tied to that setting.
 - Chatbot use was voluntary rather than assigned, making the comparison between users (73%) and non-users self-selected rather than randomized.
 - SRL was inferred from trace-based event analysis and coded chatbot query logs, not from direct measurement of students' planning, monitoring, or strategy use.
 - All participants reported prior experience with genAI tools, so the sample does not represent novice users, who may offload differently or less skillfully.

@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-25T16:25:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -36,8 +36,8 @@ AI can support teachers in making instruction culturally responsive, but its def
 
 Beyond lesson generation, CRP connects to a deeper critique: AI training data and design processes encode Western, Anglophone epistemic frameworks that marginalize other ways of knowing.
 
-- **Epistemic coloniality:** Tali-Otmani (2026) argues that GenAI systems are not epistemically neutral — predominantly Western-centric training data **actively marginalizes minoritized knowledges**, producing a "double marginalization" for disabled learners whose epistemologies are both underrepresented in training data and excluded from design. This extends the [[equity-in-ai-education|equity]] conversation from *access* to *whose knowledge is validated*.
-- **Redistributing epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] propose **community-based AI learning**, a framework that repositions learners' lived and community-based epistemologies as the evaluative standard over AI outputs. Its three commitments — **epistemic fine-tuning**, **redistribution of authority**, and **[[situated-learning|situated]] discernment** — calibrate trust against local histories and community expertise, treating refusal and strategic non-use as valid CRP responses to AI.
+- **Epistemic coloniality:** Tali-Otmani (2026) argues that GenAI systems are not epistemically neutral — predominantly Western-centric training data **actively marginalizes minoritized knowledges**, producing a "double marginalization" for [[special-education|disabled learners]] whose epistemologies are both underrepresented in training data and excluded from design. This extends the [[equity-in-ai-education|equity]] conversation from *access* to *whose knowledge is validated*.
+- **Redistributing epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] propose **community-based AI learning**, a framework that repositions learners' lived and community-based epistemologies as the evaluative standard over AI outputs. Its three commitments — **epistemic [[llm-training-and-fine-tuning|fine-tuning]]**, **redistribution of authority**, and **[[situated-learning|situated]] discernment** — calibrate trust against local histories and community expertise, treating refusal and strategic non-use as valid CRP responses to AI.
 
 ### Culturally Grounded Data and Evaluation
 
@@ -61,7 +61,7 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 
 ## Common Misconceptions
 
-**"AI outputs are culturally neutral unless you prompt for culture."** The default is not neutral, it is dominant. An analysis of **310 AI-generated civics lesson plans (2,230 activities)** found **94% contained no discernible multicultural content** — and of the 144 activities that did, **137 sat at the lowest "Additive" level, only one reached "Transformation", and none reached "Social Action."** Left unprompted, the models reproduced a non-diverse default, so prompting for culture is not a bias mitigation, it is the only reason any of it appears.
+**"AI outputs are culturally neutral unless you prompt for culture."** The default is not neutral, it is dominant. Of the **310 AI-generated civics lesson plans** analyzed (**2,230 activities**), **94% offered nothing discernibly multicultural**. Of the 144 activities that did, **137 sat at the lowest "Additive" level, only one reached "Transformation", and none reached "Social Action."** Left unprompted, the models reproduced a non-diverse default, so [[prompt-engineering|prompting]] for culture is not a [[bias-mitigation|bias mitigation]], it is the only reason any of it appears.
 
 **"Adding multicultural examples constitutes culturally relevant pedagogy."** The framework's own hierarchy says otherwise, and the generated output shows why the distinction is operationally important. Additive content leaves the structure and the unit's assumptions untouched; Transformation changes how the content is framed; Social Action asks learners to act on it. Conflating representation with transformation is how a corpus can be 6% non-empty on diversity and still be nowhere near culturally responsive.
 

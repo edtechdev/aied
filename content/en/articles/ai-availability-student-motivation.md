@@ -18,7 +18,7 @@ discipline: [cs education]
 
 ## The motivational paradox
 
-Introductory programming is effort-intensive: learning to code requires sustained practice, debugging, and tolerance for failure. When an AI tool can complete an assignment in seconds, the perceived *value* of that effort collapses. Drawing on [[self-determination-theory]], the authors argue this shifts students from **autonomous motivation** (learning for its own sake, driven by interest and mastery) toward a **transactional orientation** in which work is completed for the grade, not the skill. The availability of an effortless shortcut doesn't just make cheating easier — it makes the *honest* path feel pointless.
+[[cs-education|Introductory programming]] is effort-intensive: learning to code requires sustained practice, debugging, and tolerance for failure. When an AI tool can complete an assignment in seconds, the perceived *value* of that effort collapses. Drawing on [[self-determination-theory]], the authors argue this shifts students from **autonomous motivation** (learning for its own sake, driven by interest and mastery) toward a **transactional orientation** in which work is completed for the grade, not the skill. The availability of an effortless shortcut doesn't just make cheating easier — it makes the *honest* path feel pointless.
 
 ## How AI availability shapes motivation
 

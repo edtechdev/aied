@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-10-25T20:20:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -76,11 +76,11 @@ A second line of research treats AI as a participant rather than a tool, and its
 
 ### The epistemic risk of polished output
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts — automation bias on the social-cognitive side and epistemic closure induced by the finished artifact on the other. The remedy is to structure AI as an argumentative partner or challenger that preserves conflict. The counterpoint comes from [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], who found that when LLMs act as critique partners and students actively rebut their claims, learners behave as critical consumers who preserve rather than surrender the cognitive conflict of critique. The difference between an answer-giving teammate and a challenging partner is what determines whether group work with AI builds or bypasses thinking.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts — automation bias on the social-cognitive side and epistemic closure induced by the finished artifact on the other. The remedy is to structure AI as an argumentative partner or challenger that preserves conflict. The counterpoint comes from [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], who found that when LLMs act as critique partners and students actively rebut their claims, learners behave as critical consumers who preserve rather than [[cognitive-surrender|surrender]] the cognitive conflict of critique. The difference between an answer-giving teammate and a challenging partner is what determines whether group work with AI builds or bypasses thinking.
 
 ### Classroom-level, non-evaluative support
 
-[[breideband-community-builder-cobi-2026|CoBi]] detects "uplifting" small-group discourse (respect, equity, community, moving thinking forward) and returns non-evaluative, classroom-level visualizations — deliberately withholding student- or group-level feedback to protect [[privacy]] and [[trust]]. Students preferred [[qualitative-research|qualitative]] visualizations (an organic tree) over [[quantitative-research|quantitative]] ones (a radar chart). For the relational dimension of group work, class-level aggregated feedback supports community building where individual scoring would feel surveilled.
+[[breideband-community-builder-cobi-2026|CoBi]] detects "uplifting" small-group discourse (respect, equity, community, moving thinking forward) and returns non-evaluative, classroom-level [[visualization|visualizations]] — deliberately withholding student- or group-level feedback to protect [[privacy]] and [[trust]]. Students preferred [[qualitative-research|qualitative]] visualizations (an organic tree) over [[quantitative-research|quantitative]] ones (a radar chart). For the relational dimension of group work, class-level aggregated feedback supports community building where individual scoring would feel surveilled.
 
 ## Design implications
 

@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a [[meta-analysis-systematic-review|systematic review]], [[quantitative-research|quantitative]] study (N=120), and [[qualitative-research|qualitative]] teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and [[student-engagement|engagement]]. Teachers reported AI tools helped differentiate instruction but required [[educational-development|professional development]] for effective integration. [[adaptive-learning]], [[personalized-learning]], [[k-12]], [[math-education]], and [[generative-ai]].
+> **Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a [[meta-analysis-systematic-review|systematic review]], [[quantitative-research|quantitative]] study (N=120), and [[qualitative-research|qualitative]] [[teacher-role|teacher]] interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and [[student-engagement|engagement]]. Teachers reported AI tools helped differentiate instruction but required [[educational-development|professional development]] for effective integration. [[adaptive-learning]], [[personalized-learning]], [[k-12]], [[math-education]], and [[generative-ai]].
 Examines AI-powered personalized [[learning-gains|learning]] in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration.
 
 ## What this means for practice
@@ -27,9 +27,9 @@ Examines AI-powered personalized [[learning-gains|learning]] in elementary fract
 ## Limitations
 
 - The final analytic sample was 22 students (13 Mathbot, 9 business-as-usual) after recruitment of 43 fell to 29 through attrition and 7 outliers were removed — below the 29 participants the power analysis had targeted.
-- The intervention lasted five consecutive school days in 40-minute sessions, far short of the 9–12 weeks the authors note is recommended for evaluating special education technology, so long-term retention was not observed.
+- The intervention lasted five consecutive school days in 40-minute sessions, far short of the 9–12 weeks the authors note is recommended for evaluating [[special-education|special education]] technology, so long-term retention was not observed.
 - The comparison group was fourth graders while the Mathbot group was fifth graders, so developmental differences in mathematical reasoning confound the group comparison.
-- Situational interest was self-reported, with social desirability and recall bias possible, and Mathbot's black-box design prevents identifying which of its features produced any effect; the study also ran in one suburban southeastern U.S. school with a single AI tool.
+- Situational interest was [[self-report-measures|self-reported]], with social desirability and recall bias possible, and Mathbot's black-box design prevents identifying which of its features produced any effect; the study also ran in one suburban southeastern U.S. school with a single AI tool.
 
 ## Citation
 

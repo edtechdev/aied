@@ -21,7 +21,7 @@ confidence: high
 - **A four-category taxonomy of GenAI metaphors.** Participant metaphors clustered into *Functions* (practical, tool-like: Swiss army knife, ideas generator, grammar checker), *Roles* (human-like relationships: helper, study buddy, personal tutor, frenemy), *Qualities* (unknowable, unreliable, or magical: black box, tip of the iceberg, slippery slope, genie in a computer), and *Agency* (volition and threat: competitor, invader, Frankenstein, sinister robot, HAL).
 - **Two recurring tensions shape sensemaking:** human versus machine **[[agency]]** (is GenAI a tool we use or an autonomous actor that may replace us?), and the known versus the unknowable (opacity/"black box" versus magical-seeming capability). Both map closely onto prevailing literature on GenAI metaphors.
 - **Metaphors reveal deep ambivalence.** The most striking pattern was "friend/foe" dualities — *double-edged sword, friendly terminator, frenemy, feeding the beast* — reflecting participants' inability to take a definitive stance. Anthropomorphic *Roles* metaphors risk misplaced trust and over-attributed agency, masking the human, material dimensions of AI.
-- **Cognitive offloading via tool metaphors is seductive but unsettling.** Framing GenAI as a neutral "tool" (hammer, calculator) emphasizes utility and control while downplaying its embedded values and biases — and participants were uneasy about offloading tasks requiring [[human-in-the-loop-ai|human judgment]] and [[creativity]].
+- **[[cognitive-offloading|Cognitive offloading]] via tool metaphors is seductive but unsettling.** Framing GenAI as a neutral "tool" (hammer, calculator) emphasizes utility and control while downplaying its embedded values and biases — and participants were uneasy about offloading tasks requiring [[human-in-the-loop-ai|human judgment]] and [[creativity]].
 - **The workshop itself was a validated sensemaking method.** Grounded in material, [[collaborative-learning|collaborative]], no-tech activities (sticky notes, a "gallery" of metaphors), the workshops helped participants surface assumptions, connect across roles and cultures, feel "not alone," and think about the [[ethics]] of GenAI — without requiring technical expertise.
 
 ## What this means for practice
@@ -33,7 +33,7 @@ confidence: high
 
 ## Limitations
 
-- Three workshops were held at a single business school in one metropolitan Australian university, so the metaphor categories reflect one organizational and disciplinary setting.
+- Three workshops were held at a single [[business-education|business school]] in one metropolitan Australian university, so the metaphor categories reflect one organizational and disciplinary setting.
 - The workshop groups were uneven — 15 educational support staff and 10 academics but only 3 business students — and the authors state that running more workshops with students would be helpful.
 - The authors acknowledge that the workshop-based elicitation, prompts, and facilitation may have shaped which metaphors were produced, so the categories may reflect the workshop design as well as participants' natural conceptualizations.
 - Time constraints limited how fully the metaphors could be analyzed and discussed with participants, and no follow-up measured whether the workshops changed later teaching or policy practice.

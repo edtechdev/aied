@@ -15,7 +15,7 @@ audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Yang, Weng, and Yang investigate how LLM-based agents can support English as a Second Language (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English teacher** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for inquiry-based learning. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
+> **Synthesis:** Yang, Weng, and Yang investigate how [[llm]]-based agents can support English as a [[language-learning|Second Language]] (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English [[teacher-role|teacher]]** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for [[inquiry-based-learning|inquiry-based learning]]. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
 
 ## Key Findings
 

@@ -20,7 +20,7 @@ page_kind: [evaluation]
 
 ## Overview
 
-Grading command-line examinations by hand does not scale to rising enrollments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an LLM's scores be treated as interchangeable with expert judgment, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment]] literature.
+Grading command-line examinations by hand does not scale to rising enrollments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an [[llm]]'s scores be treated as interchangeable with expert judgment, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment]] literature.
 
 ## Study Design & Method
 
@@ -46,7 +46,7 @@ Grading command-line examinations by hand does not scale to rising enrollments i
 - **Instructors.** Write the rubric before choosing a model: adding the full rubric plus a reference answer lifted every model (Gemini 0.829→0.888, Claude 0.809→0.863, GLM 0.793→0.844, GPT 0.779→0.847), a larger effect than switching vendor.
 - **Instructors.** Do not grade sequential, task-based examinations item by item with an LLM: models penalized answers whose paths or filenames differed from the reference solution even when the student had correctly created those artifacts in an earlier question, so a single surface discrepancy can cascade into a categorically invalid grade.
 - **Administrators.** Keep [[human-in-the-loop-ai|human oversight]] mandatory wherever grading requires interpreting student intent, because no frontier model matched the instructors' own agreement (ICC 0.888 for Gemini 3.0 Pro with the rubric against a human ceiling of 0.949).
-- **Researchers.** Treat automated-grading agreement as a function of question cognitive level: report results stratified by taxonomy level, since baseline variants collapsed at L3 (GPT V1 ICC = 0.728) while L4 resisted even rubric-guided prompting (GPT's variants converged at 0.820).
+- **Researchers.** Treat automated-grading agreement as a function of question cognitive level: report results stratified by taxonomy level, since baseline variants collapsed at L3 (GPT V1 ICC = 0.728) while L4 resisted even rubric-guided [[prompt-engineering|prompting]] (GPT's variants converged at 0.820).
 
 ## Limitations
 

@@ -15,7 +15,7 @@ confidence: high
 audience: [instructors, administrators]
 ---
 
-> **Synthesis:** **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
+> **Synthesis:** **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 [[higher-ed|undergraduates]], find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **[[anxiety-and-stress|anxiety]] does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor [[feedback]] that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
 
 ## Key Findings
 
@@ -31,11 +31,11 @@ audience: [instructors, administrators]
 - **Instructors.** Normalize AI use in class with instructor-led examples and an explicit statement that disclosure will not automatically be penalized, lowering the social cost of transparency that drove concealment in this study.
 - **Administrators.** Scaffold disclosure norms deliberately from the first year instead of assuming transparency develops with academic progression: years of study did not predict disclosure to teachers here (β = −0.12, p = .303).
 - **Instructors.** Give the heaviest AI users direct instructional attention: students who frequently uploaded drafts for AI review reported the highest Worry Index scores (r = .477) and more complete secrecy (r = .305) with no detectable increase in disclosure to teachers (r = –.146).
-- **Faculty developers.** Build discipline-specific disclosure guidance: academic discipline was the largest unique predictor of disclosure to teachers (partial r = .36), so one cross-campus declaration policy will not fit Education, Business, and Humanities programs equally.
+- **Faculty developers.** Build [[discipline-specific-aied|discipline-specific]] disclosure guidance: academic discipline was the largest unique predictor of disclosure to teachers (partial r = .36), so one cross-campus declaration policy will not fit Education, Business, and Humanities programs equally.
 
 ## Limitations
 
-- Single online education course at one Western Canadian university, housed in an Education department — a context the authors note may have been more favorable to disclosure than other academic settings, strongly limiting external validity.
+- Single [[online-teaching-and-learning|online education]] course at one Western Canadian university, housed in an Education department — a context the authors note may have been more favorable to disclosure than other academic settings, strongly limiting external validity.
 - Participation was voluntary and incentivized with up to two percent of the course grade, tied to depth of response; students already comfortable discussing AI use may have self-selected, inflating reported transparent disclosure.
 - Modest sample (N = 78) with an underpowered regression: the Business reference group held n ≈ 5 and the language-status effect was marginal (B = –0.51, p = .053), so the demographic findings are hypothesis-generating only.
 - The 11-item instrument is newly developed without full psychometric validation: the proposed Disclosure to Peers (α = .34) and AI Usage (α = –.30) composites failed reliability and were analyzed item by item, and the cross-sectional design precludes causal claims about worry and concealment.

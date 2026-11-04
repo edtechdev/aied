@@ -21,7 +21,7 @@ discipline: [stem education]
 audience: [researchers, instructors, educational technology developers]
 page_kind: [evaluation]
 ---
-> **Synthesis:** Chen and colleagues ask whether language agents are ready for realistic teaching work, not for answering questions about teaching. TeachArena holds 354 audited tasks across three surfaces: professional pedagogical judgment under packaged evidence, situated multi-turn tutoring with a simulated learner, and end-to-end workflows in a Canvas-style learning management system. The tasks span six teacher-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating. Success means satisfying an evidence-to-trace contract, not matching a preferred answer style, and across 17 frontier models bounded judgment is largely manageable (mean 0.893) while situated tutoring and institutional action are not: rankings reshuffle and workflow scores top out at 0.704. The authors name this the knowing, teaching, and acting gap.
+> **Synthesis:** Chen and colleagues ask whether language agents are ready for realistic teaching work, not for answering questions about teaching. TeachArena holds 354 audited tasks across three surfaces: professional [[pedagogy|pedagogical]] judgment under packaged evidence, situated multi-turn tutoring with a simulated learner, and end-to-end workflows in a Canvas-style [[edtech-platform|learning management system]]. The tasks span six [[teacher-role|teacher]]-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating. Success means satisfying an evidence-to-trace contract, not matching a preferred answer style, and across 17 frontier models bounded judgment is largely manageable (mean 0.893) while situated tutoring and institutional action are not: rankings reshuffle and workflow scores top out at 0.704. The authors name this the knowing, teaching, and acting gap.
 
 ## Key Findings
 
@@ -52,7 +52,7 @@ Two failure modes recur. The strategic surface learner is the lowest-scoring of 
 
 ## Limitations
 
-- **Simulated learners and a synthetic LMS.** Controlled comparison excludes any link to real classrooms or longitudinal learning outcomes.
+- **[[simulating-students|Simulated learners]] and a synthetic LMS.** Controlled comparison excludes any link to real classrooms or longitudinal learning outcomes.
 - **Coverage is weighted toward STEM** even though tutoring spans 13 disciplines, so findings may not transfer to other subjects or learner populations.
 - **Task-level contracts, not learning.** Success means satisfying an evidence-to-trace contract, and the transfer probe uses one fixed weak model with zero headline weight.
 - **Frontier models only.** The board summarizes 17 frontier overlays, so these profiles say nothing about smaller or self-hosted systems.

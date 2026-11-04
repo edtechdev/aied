@@ -14,7 +14,7 @@ confidence: high
 discipline: [writing education]
 ---
 
-> **Synthesis:** Dierickx, Bjerknes, Opdahl, & Lindén (2026) develop a **task-based taxonomy** for integrating [[llm|large language models (LLMs)]] into journalism education, organized around the four stages of the news workflow — newsgathering, sensemaking, editing, and publication/distribution. Drawing on task definitions from [[machine-learning|machine learning]] and [[educational-nlp|natural language processing]] alongside journalism studies, the taxonomy translates journalistic activities into computationally-informed tasks, each linked to a baseline [[prompt-engineering|prompt]] and an explicit risk-and-mitigation strategy. By framing prompting as a [[situated-learning|situated]], reflexive professional practice rather than a technical skill, the paper advances [[ai-literacy|critical AI literacy]] — foregrounding bias, hallucination, [[cognitive-offloading|overreliance]], and the enduring need for [[human-in-the-loop-ai|human editorial oversight]].
+> **Synthesis:** Dierickx, Bjerknes, Opdahl, & Lindén (2026) develop a **task-based taxonomy** for integrating [[llm|large language models (LLMs)]] into journalism education, organized around the four stages of the news workflow — newsgathering, sensemaking, editing, and publication/distribution. Drawing on task definitions from [[machine-learning|machine learning]] and [[educational-nlp|natural language processing]] alongside journalism studies, the taxonomy translates journalistic activities into computationally-informed tasks, each linked to a baseline [[prompt-engineering|prompt]] and an explicit risk-and-mitigation strategy. By framing prompting as a [[situated-learning|situated]], reflexive professional practice rather than a technical skill, the paper advances [[ai-literacy|critical AI literacy]] — foregrounding bias, [[hallucination-risk|hallucination]], [[cognitive-offloading|overreliance]], and the enduring need for [[human-in-the-loop-ai|human editorial oversight]].
 
 Dierickx, Bjerknes, Opdahl, & Lindén (2026) address a gap in journalism education: prompting is increasingly recognized as an educational tool but remains underdeveloped there, with existing work focusing on AI use in newsrooms rather than translating journalistic work into structured [[pedagogy|pedagogical]] tasks. They ask: *How can prompting be structured as a pedagogical practice in journalism education, drawing on task definitions from natural language processing and [[machine-learning|machine learning]]?*
 
@@ -27,7 +27,7 @@ The paper organizes journalistic work into four stages that mirror the news prod
 | **Newsgathering** (collecting/structuring information) | Classification/clustering, detection/discovery, extraction, linking, summarization |
 | **Sensemaking** (analyzing/interpreting to guide editorial decisions) | Comparison, evaluation, exploration, prediction, prioritization |
 | **Editing** (revising/enriching/correcting content) | Augmentation, correction, generation, segmentation, simplification |
-| **Publication/distribution** (adapting/disseminating content) | Adaptation, conversion/translation, generation, personalization, reformulation |
+| **Publication/distribution** (adapting/disseminating content) | Adaptation, conversion/translation, generation, [[personalized-learning|personalization]], reformulation |
 
 Each task is defined, given a model-agnostic **baseline prompt**, and paired with a **risk-and-mitigation strategy** (e.g. linking's risk of over-interpretation, false authority, hallucination and confirmation bias is mitigated through source citation, cross-checking with primary sources, and human validation). The same computational operation (e.g. generation) recurs across stages because it serves different editorial objects with different risks.
 
@@ -41,7 +41,7 @@ A central contribution is reframing prompting. Rather than treating it as a neut
 
 ## Addressing the four challenges of GenAI in postdigital education
 
-The taxonomy practically addresses Jandrić's (2026) four challenges of generative AI in postdigital education:
+The taxonomy practically addresses Jandrić's (2026) four challenges of [[generative-ai|generative AI]] in postdigital education:
 
 - **Detection** — exposing students to the possibilities and limitations of LLMs through repeated task formulation and output evaluation
 - **Sourcing** — grounding outputs in evidence, highlighting that LLM output is based on probabilistic patterns rather than verified knowledge
@@ -64,7 +64,7 @@ While grounded in journalism, the taxonomy's underlying logic is transferable to
 
 ## Limitations
 
-- This is a conceptual, task-based taxonomy built from literature review and theoretical analysis; the authors state that empirical work — classroom interventions, comparative studies, or think-aloud protocols — is needed to validate, refine, or challenge it.
+- This is a conceptual, task-based taxonomy built from [[meta-analysis-systematic-review|literature review]] and theoretical analysis; the authors state that empirical work — classroom interventions, comparative studies, or think-aloud protocols — is needed to validate, refine, or challenge it.
 - It was developed for journalism education and grounded in journalism's verification and editorial norms; its extension to law, medicine, and public policy is argued by analogy, not tested.
 - The baseline prompts and risk-and-mitigation strategies are model-agnostic examples, not evaluated interventions: the paper reports no classroom study, student sample, or learning outcome.
 - Its four-stage news-workflow frame simplifies journalistic practice, which the authors note varies across organizations, genres, and contingent circumstances, so some tasks span stages.

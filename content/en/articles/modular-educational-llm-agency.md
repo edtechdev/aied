@@ -34,7 +34,7 @@ page_kind: [framework]
 - The empirical evidence comes from one observational deployment: the final three weeks of a single statistics lecture for undergraduate computer scientists, covering 62 distinct usernames and 128 initiated conversations on one GPT-4o-based prototype.
 - There is no control group. The authors explain that withholding a potentially beneficial tool to create one raises fairness concerns, forcing observational designs, and that voluntary participation introduces self-selection bias.
 - Engagement, not learning, is what was measured: 95 of the conversations were judged genuine learning attempts by automated GPT-5 analysis and 63% were resolved or partially resolved, but only 97 chats were multi-turn and no relationship to course performance is established.
-- Linking interaction logs to exam data required explicit informed consent, which the authors state can significantly limit the sample size and demographic representativeness, and they describe the deployment as promising qualitative evidence needing larger-scale evaluation that accounts for motivational biases.
+- Linking interaction logs to exam data required explicit informed consent, which the authors state can significantly limit the sample size and demographic representativeness, and they describe the deployment as promising [[qualitative-research|qualitative]] evidence needing larger-scale evaluation that accounts for [[motivation|motivational]] biases.
 
 ## Citation
 

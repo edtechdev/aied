@@ -13,14 +13,14 @@ sources: ['raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
+> **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of [[generative-ai|ChatGPT]] are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
 
 Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[ai-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
 
 ## Method
 
 - **Sample:** 468 undergraduate students who completed an online survey.
-- **Constructs:** Perception of Academic Dishonesty (PAD), perceived risk of ChatGPT use, self-reported use frequency, and intention to use ChatGPT in the future.
+- **Constructs:** Perception of Academic Dishonesty (PAD), perceived risk of ChatGPT use, [[self-report-measures|self-reported]] use frequency, and intention to use ChatGPT in the future.
 - **Analysis:** Regression examining direct effects of perceived risk on usage, plus mediation testing whether perceived risk transmits the effect of PAD on usage.
 
 ## Key Findings

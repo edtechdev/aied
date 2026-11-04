@@ -29,7 +29,7 @@ institutions: [regulation]
 ## Limitations
 
 - Thirty-two intelligence analysts were recruited from a single site — the North Carolina State Laboratory for Analytic Sciences — all government employees completing the study inside a professional research engagement, which bounds generalizability to other workforces.
-- Only immediate post-training performance was measured. There was no retention check days or weeks later, each phase allowed up to 30 minutes for 40 images, and analysts averaged about 27 seconds per image.
+- Only immediate [[llm-training-and-fine-tuning|post-training]] performance was measured. There was no retention check days or weeks later, each phase allowed up to 30 minutes for 40 images, and analysts averaged about 27 seconds per image.
 - The study deviates from its pre-registration in two ways: participants judged 40 images before and after training instead of 50 and 50, and the final stimulus set contained 97 images rather than 100. Both changes were applied uniformly before data collection began.
 - The stimulus set is limited to images from contemporary diffusion models balanced on three dimensions, and the training itself was asymmetric — 50 AI-generated images against only 7 real ones. The training effect on AI-generated images was positive but not statistically significant (β = 0.331, p = 0.330), so the measured gain rests largely on improved performance on real photographs.
 

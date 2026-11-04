@@ -68,7 +68,7 @@ The paper is explicit about its limits. The quantitative evidence is a pilot, no
 
 - The quantitative evidence is a pilot: data came from the expert consultation plus small-scale application by the five case-study universities and a further small sample, and the authors state it was not designed to be representative or generalizable, educationally or statistically, with sector comparisons shifting on covariates such as institution type at that sample size.
 - Expert confirmation rests on a small purposive panel: the instrument was sent by email invitation during 2022 and 2023 to 60 experts across six world regions, 56 gave online feedback and nine were interviewed in depth, so the item revisions reflect that group's judgment rather than a validated consensus procedure.
-- The 130 items are self-reported institutional disclosures awaiting validation — the authors call for more [[quantitative-research|quantitative]] data subjected to psychometric validation before the indicators are used for [[educational-measurement|measurement]] or benchmarking.
+- The 130 items are [[self-report-measures|self-reported]] institutional disclosures awaiting validation — the authors call for more [[quantitative-research|quantitative]] data subjected to psychometric validation before the indicators are used for [[educational-measurement|measurement]] or benchmarking.
 - The framework was designed before the technology it now governs was public: the program began in 2021, predating the late-2022 release of GenAI, and the institution-level case study evidence comes from five Australian universities in three states belonging to one national quality network.
 
 ## Citation

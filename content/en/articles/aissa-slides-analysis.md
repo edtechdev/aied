@@ -58,7 +58,7 @@ To assess perceived usability, the [[usability-research|System Usability Scale (
 ## Limitations
 
 - Single-site, single-course pilot: 46 final-year telecommunication engineering students at Universidad Autónoma de Madrid over one trimester, so the 90 presentations processed, the per-submission turnaround, and the cost estimates are not evidence of what another course, level, or discipline would see.
-- The usability evidence is self-report from a partial sample — the System Usability Scale was administered to all 46 students but only 30 returned responses, and the qualitative findings come from 20 purposefully sampled interviews.
+- The usability evidence is [[self-report-measures|self-report]] from a partial sample — the System Usability Scale was administered to all 46 students but only 30 returned responses, and the qualitative findings come from 20 purposefully sampled interviews.
 - The study measured technical performance and perceived usability, not learning: no comparison against human teacher scores was run, and there is no evidence that iterative revision raised slide quality or presentation performance.
 - One model and one extraction pipeline were tested (GPT 5.2 through the OpenAI API, on features extracted from `.pptx` files), so how scores and feedback shift with other models or slide formats is unknown.
 

@@ -23,11 +23,11 @@ pedagogy: [self-regulated-learning]
 methods: [ai-ed-evaluation]
 ---
 
-> **Synthesis:** Radmehr, Tran, Shved, Güreş, Singla and Käser built ClickSight, a staged [[llm|LLM]] pipeline that reads a student's [[learning-analytics|clickstream]] and reports adherence to learning strategies defined in the literature, with the evidence for each judgment preserved. Evaluated across two learning environments, 365 students and 12 model backbones, the best configuration produced complete and comprehensible interpretations every time and overall quality of 0.945 in PharmaSim and 0.735 in Beer's Law Lab. Reasoning-tuned models were more consistent than instruction-tuned ones, and feeding the pipeline quantitative guidance extracted from the trace improved the strategies that depend on exact counts.
+> **Synthesis:** Radmehr, Tran, Shved, Güreş, Singla and Käser built ClickSight, a staged [[llm|LLM]] pipeline that reads a student's [[learning-analytics|clickstream]] and reports adherence to learning strategies defined in the literature, with the evidence for each judgment preserved. Evaluated across two learning environments, 365 students and 12 model backbones, the best configuration produced complete and comprehensible interpretations every time and overall quality of 0.945 in PharmaSim and 0.735 in Beer's Law Lab. Reasoning-tuned models were more consistent than instruction-tuned ones, and feeding the pipeline [[quantitative-research|quantitative]] guidance extracted from the trace improved the strategies that depend on exact counts.
 
 ## Key Findings
 
-1. **Interpretations were always complete and clear.** Across both environments and all three prompting methods, completeness and comprehensibility scored 1.000; differences concentrated in correctness and justifiedness.
+1. **Interpretations were always complete and clear.** Across both environments and all three [[prompt-engineering|prompting]] methods, completeness and comprehensibility scored 1.000; differences concentrated in correctness and justifiedness.
 2. **A staged pipeline beat simple prompting where the data were harder.** In Beer's Law Lab, Chain-of-Prompts reached an overall score of 0.735 against 0.704 for zero-shot and 0.702 for chain-of-thought, and both gaps were significant.
 3. **The easy environment left little room for improvement.** In PharmaSim all three methods scored above 0.92 overall (0.938, 0.924, 0.945), with no criterion differing significantly by prompting method.
 4. **Reasoning configurations were more consistent than instruction-tuned ones.** Across 12 model backbones spanning Qwen3, GPT-OSS and GPT families, thinking variants held quality more reliably within family comparisons.
@@ -39,7 +39,7 @@ methods: [ai-ed-evaluation]
 
 ClickSight does not classify behavior with a bespoke feature set. It takes a set of learning strategies specified from the literature, finds strategy-relevant evidence in the clickstream, assesses adherence for each strategy–aspect pair, and generates an interpretation grounded in the actions it cited. That structure is the paper's answer to the transfer problem in [[learning-analytics|learning analytics]]: hand-built features for one environment do not move to another, while a literature-defined strategy plus trace evidence is at least portable in principle.
 
-Keeping the evidence attached to each judgment is what makes the output auditable. An instructor can see which actions supported a claim about, say, help-seeking or systematic exploration, rather than receiving a label with no provenance.
+Keeping the evidence attached to each judgment is what makes the output auditable. An instructor can see which actions supported a claim about, say, [[help-seeking]] or systematic exploration, rather than receiving a label with no provenance.
 
 ## Where the quality difference comes from
 
@@ -62,7 +62,7 @@ Coverage of model families is unusually broad for this literature — 12 backbon
 
 ## Limitations
 
-- **Two simulation environments.** PharmaSim and Beer's Law Lab are both structured simulations; transfer to open-ended or LMS-scale clickstreams is untested.
+- **Two simulation environments.** PharmaSim and Beer's Law Lab are both structured [[simulation|simulations]]; transfer to open-ended or LMS-scale clickstreams is untested.
 - **LLM-judged quality.** The rubric is scored by a judge calibrated against human ratings, not by expert labeling of every strategy–aspect pair.
 - **Author-defined strategy set.** Strategies and aspects were specified in advance from the literature, so the framework's coverage is bounded by that choice.
 - **Justifiedness and correctness were scored against different references.** An interpretation can be judged well-justified while assigning the wrong adherence level, which limits what the overall score means.

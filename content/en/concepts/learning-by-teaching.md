@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-25T22:50:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -58,7 +58,7 @@ Two further affordances recur across the knowledge base:
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|scaffolds]] self-[[regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
-- **What predicts tutor learning is knowledge-building, not prior knowledge.** Across 23 middle-school tutors, the share of responses that built knowledge rather than restated it predicted conceptual post-test scores (β = .138, p < 0.05) while prior test scores did not predict who produced them, and low-prior tutors who built knowledge finished level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **What predicts tutor learning is knowledge-building, not [[prior-knowledge|prior knowledge]].** Across 23 middle-school tutors, the share of responses that built knowledge rather than restated it predicted conceptual post-test scores (β = .138, p < 0.05) while prior test scores did not predict who produced them, and low-prior tutors who built knowledge finished level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Why It Matters in AI Education
 

@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-26T02:00:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -63,7 +63,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 **"Giving every stakeholder group a voice resolves the conflict."** Consultation is not weighting. The page's own framing puts the design question at how to give each concern **genuine weight rather than letting the loudest voice win**, which is a procedure problem — who decides, with what evidence, and with what appeal — not a communications problem.
 
-**"Stakeholder analysis is an early-phase exercise."** The tensions persist into operation, because the roles keep interpreting the same system differently. A student-facing personalization layer and a faculty-facing integrity dashboard are the same data viewed from two positions, and the conflict recurs whenever one is adjusted.
+**"Stakeholder analysis is an early-phase exercise."** The tensions persist into operation, because the roles keep interpreting the same system differently. A student-facing [[personalized-learning|personalization]] layer and a faculty-facing integrity dashboard are the same data viewed from two positions, and the conflict recurs whenever one is adjusted.
 
 **"An identity across audiences means one message can serve them all."** Communicating across audiences requires translating the same decision into different terms without misrepresenting it, which is more than rewriting one message four ways.
 

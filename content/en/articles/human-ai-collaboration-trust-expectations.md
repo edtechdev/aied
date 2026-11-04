@@ -37,7 +37,7 @@ The authors administered an online survey to higher education students who use G
 ## Limitations
 
 - **Expectations and first impressions cannot be separated.** The authors note that the rapid evolution of GenAI makes initial expectations and early experiences occur simultaneously, and this study could not measure them apart.
-- **One institution's students, one country.** The findings come from 245 students at a single Danish university and cannot be assumed to generalize to the global student population; multi-institutional and cross-national samples are needed.
+- **One institution's students, one country.** The findings come from 245 students at a single Danish university and cannot be assumed to generalize to the global [[learners|student population]]; multi-institutional and cross-national samples are needed.
 - **Trust measured with two items.** The distrust construct rested on two items only, capturing skepticism toward the technology and lack of trust in its outputs.
 - **Two moderation paths left unresolved.** Hypotheses H6c and H6e returned positive but non-significant coefficients, which the authors say warrant [[qualitative-research|qualitative]] work, larger samples or experimental designs.
 

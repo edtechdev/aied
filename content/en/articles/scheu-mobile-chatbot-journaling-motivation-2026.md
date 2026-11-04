@@ -12,7 +12,7 @@ sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile [[conversational-ai|chatbot]]-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
+> **Synthesis:** A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile [[conversational-ai|chatbot]]-based [[self-regulated-learning|learning journaling]] system** aimed at keeping students motivated to maintain reflective [[reflection|learning journals]] — a known pain point (rapid decline in [[motivation]]/[[student-engagement|engagement]] after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **[[llm|LLM]]-based journaling assistant** (GPT-3.5-turbo-1106) that [[scaffolding|scaffolds]] entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
 
 ## Design & method
 
@@ -28,7 +28,7 @@ confidence: high
 
 ### Behavioral engagement (H3/H4)
 - **Both features SUPPORTED.** Regression on characters written: Assistant B = 18.32***, Course B = 22.95***, with a significant **negative interaction** (Course×Assistant B = −15.21***) — mean message lengths B 51.21 → A 71.25 / C 79.26 / CA 83.04.
-- **Distinct mechanisms:** the course's effect was *constant* (unrelated to course days completed), while the **assistant formed a positive [[feedback]] loop** — more assistant use predicted longer messages over time (B = 6.20 per assistant day, p < .001), echoing the social-cognitive modeling account (Schunk): the assistant's model adapts, the course's static examples do not.
+- **Distinct mechanisms:** the course's effect was *constant* (unrelated to course days completed), while the **assistant formed a positive [[feedback]] loop** — more assistant use predicted longer messages over time (B = 6.20 per assistant day, p < .001), echoing the social-[[cognitive-diagnosis|cognitive modeling]] account (Schunk): the assistant's model adapts, the course's static examples do not.
 
 ### Course benefit is temporary
 - Course users were far more likely to be "early" writers (OR = 3.45, p < .001) — less reliant on the 9 PM notification — but **significantly fewer reached 10+ journal days** (OR = 0.38, p < .001): most completed the 7-day course, journaled one more day, then stopped. Static one-off [[scaffolding]] stimulates early activity but does not sustain it.

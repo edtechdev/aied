@@ -31,7 +31,7 @@ The authors used a cross-sectional survey design with 480 undergraduate medical 
 ## What this means for practice
 
 - **Instructors.** Design AI-supported tasks so students must verify, reflect on, and judge what the tool produces rather than accepting answers wholesale; the mediation analysis shows part of AI's effect on [[critical-thinking]] runs through the [[cognitive-offloading|cognitive load]] it imposes.
-- **Instructors.** Teach planning, monitoring, and evaluation of AI-assisted work explicitly. [[self-regulated-learning]] was the moderator that weakened the negative load→thinking pathway, so regulatory skill is the lever students can actually practice.
+- **Instructors.** Teach planning, monitoring, and [[ai-ed-evaluation|evaluation of AI]]-assisted work explicitly. [[self-regulated-learning]] was the moderator that weakened the negative load→thinking pathway, so regulatory skill is the lever students can actually practice.
 - **Faculty developers.** Audit AI activities for how much mental work they remove. Summarizing and organizing can cut extraneous load, but large volumes of AI-generated content add evaluation and validation burden of their own.
 - **Administrators.** Do not adopt AI tools on efficiency, performance, or [[student-engagement|engagement]] metrics alone. This study modeled the cognitive processes underneath outcomes and connects AI use to [[academic-integrity|academic integrity]] and dependency concerns in [[medical-education|medical education]].
 - **Researchers.** Treat the field's emphasis on efficiency and short-term [[learning-gains|performance]] as a gap to correct; measure the higher-order thinking and load processes through which AI effects travel.
@@ -39,7 +39,7 @@ The authors used a cross-sectional survey design with 480 undergraduate medical 
 ## Limitations
 
 - The cross-sectional, non-experimental design limits causal inference despite theory-consistent directional modeling.
-- Data are self-report measures collected at a single time point, which raises common-method-bias concerns, and the moderated mediation effects are estimated from that single snapshot.
+- Data are [[self-report-measures|self-report measures]] collected at a single time point, which raises common-method-bias concerns, and the moderated mediation effects are estimated from that single snapshot.
 - The sample is drawn from medical students in one national context (Pakistan), bounding generalizability to other disciplines, institutions and educational systems.
 - AI usage, cognitive load and self-regulated learning are all operationalized via standardized self-report instruments rather than objective behavioral measures.
 

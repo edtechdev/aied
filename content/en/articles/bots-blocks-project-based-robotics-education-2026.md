@@ -14,7 +14,7 @@ discipline: [cs education]
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** Geger, Briechle, and Rausch (2026) propose a project-based learning approach for [[teacher-role|teaching]] robotics in higher education, arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied computer science degree program "Digital [[ai-technologies|Technologies]]." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.
+> **Synthesis:** Geger, Briechle, and Rausch (2026) propose a [[project-based-learning|project-based learning]] approach for [[teacher-role|teaching]] robotics in [[higher-ed|higher education]], arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied [[cs-education|computer science]] degree program "Digital [[ai-technologies|Technologies]]." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ This is a **design/case presentation** of a project-based learning framework for
 - **Educators.** Run robotics as an agile, semester-spanning project rather than a single course, using two-week Sprints, twice-weekly Daily meetings, and a Review Party one week into each Sprint.
 - **Educators.** Staff the Scrum roles for teaching: a scientific staff member as Product Owner, a senior student as Scrum Master, and all students as the Development Team that self-manages the user stories.
 - **Instructors.** Front-load theory in short "schools" — a roughly 60-minute lecture, a live demonstration, and a matching exercise — then taper them from week three onward as independent project work takes over.
-- **Instructional designers.** Assess understanding of AI-assisted work through intermediate exams that make students defend and explain their own ROS-based solutions, rather than banning tools like ChatGPT and Copilot.
+- **Instructional designers.** Assess understanding of AI-assisted work through intermediate exams that make students defend and explain their own ROS-based solutions, rather than banning tools like [[generative-ai|ChatGPT]] and Copilot.
 - **Faculty developers.** Give project courses real curricular weight — 60 of the 180 ECTS points here — and mix cohorts across bachelor's and master's levels so junior students work alongside more advanced peers.
 
 ## Limitations

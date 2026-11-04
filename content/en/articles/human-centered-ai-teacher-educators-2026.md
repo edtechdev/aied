@@ -28,7 +28,7 @@ level: [teacher education, adult learning]
 
 **Reforming [[assessment]] and pedagogy.** Educators called for AI-resistant, process-based assessments prioritizing justification and [[reflection]] over AI-generated output, replacing [[summative-assessment|summative]] essays with smaller scaffolded tasks that invite critical engagement with AI at multiple stages.
 
-**Five-module curriculum and seven activities.** Findings were operationalized into five online modules (foundational AI knowledge; ethics and algorithmic bias; pedagogical integration; implementation, guidelines, and policy; human-centered AI in education) delivered through seven HCAI-informed activities, including educator-in-the-loop and student-in-the-loop tasks that foreground professional judgment, transparency, explainability, value-sensitive design, and equity-oriented decision-making.
+**Five-module curriculum and seven activities.** Findings were operationalized into five online modules (foundational AI knowledge; ethics and algorithmic bias; pedagogical integration; implementation, guidelines, and policy; human-centered AI in education) delivered through seven HCAI-informed activities, including educator-in-the-loop and student-in-the-loop tasks that foreground professional judgment, transparency, [[explainable-ai|explainability]], value-sensitive design, and equity-oriented decision-making.
 
 **Teacher educators as pivotal nexus.** Teacher educators shape how preservice teachers first understand, evaluate, and integrate AI, yet rarely receive systematic preparation to lead this work; the study reframes AI literacy as a design practice and positions teacher educators as designers and ethical stewards of AI integration — directly supporting the knowledge base's [[teacher-education]] and [[teacher-role]] concepts.
 
@@ -44,7 +44,7 @@ level: [teacher education, adult learning]
 - [[design-based-research|Design-based research]] with only seven teacher educators at a single Midwestern US teacher-preparation program; DBR is intended to develop design knowledge, not to establish generalizable effects.
 - Participation was purposive and required "some experience with or interest in AI integration," so the sample skews toward already-motivated educators rather than the full faculty population.
 - Evidence comes from interviews and design activities across three cycles over 13 months; there was no comparison group, no pre/post outcome measure and no student-level learning data.
-- The program had no formal, program-wide AI integration at the time, so the three identified design needs are anchored to one institutional context and may not transfer to programs with existing AI policies.
+- The program had no formal, program-wide AI integration at the time, so the three identified design needs are anchored to one institutional context and may not transfer to programs with existing [[educational-policy-ai|AI policies]].
 
 ## Citation
 

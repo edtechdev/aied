@@ -41,7 +41,7 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 ## Limitations
 
 - Items were refined after inspecting the initial factor solution, and the factor structure and outcome associations were tested in the same sample of 157 undergraduates, so both require independent replication.
-- Evaluative integration may capture conscientiousness or general self-regulated academic behavior rather than a GenAI-specific pattern; discriminant validity from self-regulation and conscientiousness was not established.
+- Evaluative integration may capture conscientiousness or general self-regulated academic behavior rather than a GenAI-specific pattern; discriminant validity from [[self-regulated-learning|self-regulation]] and conscientiousness was not established.
 - Social desirability may have inflated evaluative-integration reports and suppressed low-verification-uptake reports, and the restricted high-GPA distribution may have attenuated associations with performance.
 - Excluding non-users restricts variation at the low end of frequency and limits findings to students with some academic GenAI use, and the modest single-institution sample limits generalizability.
 

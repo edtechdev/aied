@@ -60,7 +60,7 @@ The consequence for offloading is that one artifact can sit on top of two very d
 
 ## Limitations
 
-- One course, one teacher education college in Israel, and 23 consenting students from a class of prospective secondary mathematics teachers, 15 of whom submitted chatlogs for all three tasks.
+- One course, one [[teacher-role|teacher]] education college in Israel, and 23 consenting students from a class of prospective secondary mathematics teachers, 15 of whom submitted chatlogs for all three tasks.
 - Students were future mathematics teachers, so their prompting may reflect a professional interest in explanation that other undergraduates do not share.
 - Chatlogs were a required part of the submission that the teacher would read, so they may have been curated; the authors note that "Solve this problem" appearing in most chatlogs argues against heavy curation but cannot rule it out.
 - The three tasks ran in a fixed order and differed in content, so variation attributed to task design may reflect when in the semester each task fell and what it covered; the authors offer those readings as hypotheses.

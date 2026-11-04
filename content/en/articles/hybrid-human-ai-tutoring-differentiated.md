@@ -14,8 +14,8 @@ confidence: high
 audience: [administrators, instructors, researchers]
 ---
 
-> **Synthesis:** In a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skill proficiency, and +61% standardized academic growth.
-> The study's core innovation was a **differentiated tutoring policy**: students below the grade median received proactive human-initiated support, while those above received reactive, on-demand support. Proactive tutoring showed marginally higher growth (+75%, p = .065) and was particularly beneficial for students farthest below the cutoff, helping narrow achievement gaps.
+> **Synthesis:** In a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-[[intelligent-tutoring|AI tutoring]] produced substantial gains over AI-only tutoring: +25% time on task, +36% skill proficiency, and +61% standardized academic growth.
+> The study's core innovation was a **differentiated tutoring policy**: students below the grade median received proactive human-initiated support, while those above received reactive, on-demand support. Proactive tutoring showed marginally higher growth (+75%, p = .065) and was particularly beneficial for students farthest below the cutoff, helping narrow [[learning-gains|achievement gaps]].
 
 ## Connection to Broader AIED Research
 
@@ -31,7 +31,7 @@ This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by sho
 
 ## Limitations
 
-- **Quasi-experimental evidence from one school.** The findings come from a difference-in-discontinuities design in a single middle school in a Mid-Atlantic U.S. state during the 2024-2025 school year, with 635 of approximately 1,000 eligible students opting in through informed consent.
+- **Quasi-experimental evidence from one school.** The findings come from a difference-in-discontinuities design in a single [[k-12|middle school]] in a Mid-Atlantic U.S. state during the 2024-2025 school year, with 635 of approximately 1,000 eligible students opting in through informed consent.
 - **Part of the sample lacks prior scores.** Prior-year state test scores were available for 557 of the 635 students; the remaining 78 were newly enrolled, so the cutoff placement rested on less information for them.
 - **The headline differentiation effect is marginal, and null at the cutoff.** Proactive tutoring's advantage over reactive tutoring was 75% on average but at p = .065, and the full-sample trend of a 26% improvement was likewise not significant (p = .086).
 - **A dichotomous median split.** Assigning support at the median may oversimplify the relationship between student need and optimal tutoring intensity, as the authors state — the students farthest below the cutoff are precisely the ones the design cannot distinguish.

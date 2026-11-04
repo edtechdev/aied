@@ -22,7 +22,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 
 - **Sample:** Four waves of survey data across one year of pandemic-era [[teacher-role|teaching]] at a Dutch university; 1,760 students within 105 courses.
 - **Design:** Multi-level analyses with crossed random effects of student and course, comparing on-campus, online non-proctored, and online proctored exams.
-- **Outcomes:** Self-reported temptation to cheat, test anxiety, perceived exam difficulty, and performance; plus student characteristics (learning strategies, internet literacy, study-space access, reliable technology, financial stress, gender).
+- **Outcomes:** [[self-report-measures|Self-reported]] temptation to cheat, test anxiety, perceived exam difficulty, and performance; plus student characteristics (learning strategies, internet literacy, study-space access, reliable technology, financial stress, gender).
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 - **Assessment professionals.** Prefer less intrusive integrity assurance — limiting exam time, restricting access to already-completed questions, and randomizing question and answer order — over [[remote-proctoring]], which raised test anxiety (β = 0.60, p < 0.001) while showing no effect on the temptation to cheat.
 - **Administrators.** Open on-campus study spaces with reliable internet during proctored exams and route support to the students carrying the highest anxiety burden — those with financial stress, low internet literacy, and weaker home study environments — since proctoring widens rather than narrows [[equity-in-ai-education|inequity]].
 - **Instructors.** Teach time management and environmental structuring explicitly and give students practice with the exam platform, because these learning strategies and skills are the ones associated with lower [[anxiety-and-stress|test anxiety]].
-- **Designers.** Build the alternative to surveillance into the assessment design itself, treating [[authentic-assessment|authentic assessment]] as the default where the integrity case for proctoring remains unproven.
+- **Designers.** Build the alternative to surveillance into the [[assessment|assessment design]] itself, treating [[authentic-assessment|authentic assessment]] as the default where the integrity case for proctoring remains unproven.
 
 ## Limitations
 

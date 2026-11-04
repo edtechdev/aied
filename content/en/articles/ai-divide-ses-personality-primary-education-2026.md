@@ -12,7 +12,7 @@ audience: [policymakers, instructors, researchers]
 level: [primary education]
 ---
 
-> **Synthesis:** Wang and colleagues investigate whether integrating AI into primary education deepens the digital divide and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].
+> **Synthesis:** Wang and colleagues investigate whether integrating AI into [[early-childhood-elementary-ai-education|primary education]] deepens the [[digital-divide|digital divide]] and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].
 
 ## Key Findings
 
@@ -30,7 +30,7 @@ level: [primary education]
 ## Limitations
 
 - The data are cross-sectional, drawn from the 2022–2023 wave of a regional monitor: the mediation from personality traits through digital literacy to achievement describes associations at a single point in time, so the authors cannot establish temporal precedence or rule out bidirectional relationships and common antecedents.
-- The sample covers one Dutch province — 4,497 Grade 6 students in Limburg, from a monitor reaching about 90% of regional schools — so the near-flat link between family socioeconomic status (SES) and [[ai-literacy|digital literacy]] may reflect the Netherlands' comparatively equitable digital infrastructure and school-choice system; systems with wider access disparities may show stronger SES-driven divides.
+- The sample covers one Dutch province — 4,497 Grade 6 students in Limburg, from a monitor reaching about 90% of regional schools — so the near-flat link between family socioeconomic status (SES) and [[ai-literacy|digital literacy]] may reflect the Netherlands' comparatively [[equity-in-ai-education|equitable]] digital infrastructure and school-choice system; systems with wider access disparities may show stronger SES-driven divides.
 - The measures predate the spread of generative AI: the survey was collected in 2022–2023, before tools like [[generative-ai|ChatGPT]] entered classrooms, so the AI usage it captures is of an earlier generation of educational tools.
 - AI usage was teacher-reported and digital literacy came from the monitor's items rather than a performance-based assessment; teacher reports capture institutionally sanctioned school tools but miss autonomous, out-of-school use of general-purpose AI, and the authors call for performance-based digital literacy measures and independent teacher ratings in future work.
 

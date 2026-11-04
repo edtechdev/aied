@@ -14,7 +14,7 @@ sources: ['raw/papers/2605.14330.md']
 confidence: high
 ---
 
-> **Synthesis:** This mixed-methods study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
+> **Synthesis:** This [[mixed-methods-research|mixed-methods]] study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day [[agentic-ai|AI agent]] creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
 
 **Key [[quantitative-research|quantitative]] findings:**
 - **Abstract thinking:** significant improvement (d = 0.71)
@@ -32,7 +32,7 @@ These findings challenge linear learning assumptions in [[k-12]] and provide dir
 
 - **Instructors.** Differentiate the task, not just the tool. Moderate-CT students gained most from open-ended challenges, high-CT students needed constraint-based tasks to curb over-engineering, and low-CT students needed structured pathways with agent modification tasks.
 - **Instructors.** Reward iterative testing over first-try polish. Iterative testing engagement predicted [[self-efficacy]] gains (β = 0.20, p = .050) after controlling for initial self-efficacy, so the quality of interaction with the AI system mattered more than initial design accuracy.
-- **Learners.** Build in the test loop yourself — the real-time chat simulator that let you try a design and see it fail is the behavior tied to confidence gains, and complexity added before testing does not pay off.
+- **Learners.** Build in the test loop yourself — the real-time chat [[simulation|simulator]] that let you try a design and see it fail is the behavior tied to confidence gains, and complexity added before testing does not pay off.
 - **Instructors.** Do not assume a no-code platform removes the need for decomposition support. Low-CT students' primary struggle was breaking problems into manageable parts, not operating the tool.
 
 ## Limitations

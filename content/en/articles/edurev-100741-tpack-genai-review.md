@@ -43,7 +43,7 @@ The review applies the [[tpack|TPACK]] framework to identify what knowledge teac
 ## Limitations
 
 - The review's scope is deliberately narrow: only empirical studies using GenAI with student participants and reporting learning outcomes were included, all published after ChatGPT's release on November 30, 2022, so teacher-facing studies, reviews and theoretical work were excluded by design and the evidence base is young.
-- The meta-analysis pools 71 papers (47 journal articles, 74 effect sizes) that are dominated by quasi-experimental designs of uneven rigor; the authors' own quality appraisal flagged recurring problems such as short duration, small sample sizes and non-disclosure of research limitations.
+- The meta-analysis pools 71 papers (47 journal articles, 74 effect sizes) that are dominated by quasi-experimental designs of uneven rigor; the authors' own quality appraisal flagged recurring problems such as short duration, small sample sizes and non-disclosure of [[limitations-in-aied-research|research limitations]].
 - The behavioral-engagement finding is a null result (SMD = 0.057, p = 0.828) and is much weaker evidence than the cognitive (g = 0.831) and affective (g = 0.729) effects, so the overall g = 0.752 should not be read as a uniform treatment effect.
 - Instructional-design variables (learning content, tool, strategy, assessment, outcome) significantly moderated outcomes, so pooled effect sizes conceal substantial variation between interventions.
 

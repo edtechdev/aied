@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, faculty developers]
 level: [preschool, primary education]
 ---
 
-> **Synthesis:** **Title:** Luo and Tahir (2025) present an experimental study comparing traditional teacher-generated lesson plans with [[generative-ai|ChatGPT]]-assisted plans in children's STEAM arts education, finding that AI-assisted plans were evaluated as significantly higher quality (median 20.5 vs. 17.6, p = .002, large effect) by six expert professors. The study maps three methods of teacher–AI [[human-ai-collaboration|collaboration]], documents the benefits and challenges of AI-assisted [[curriculum-design|lesson planning]], and contributes an iteratively refined prompt framework built on a "Role–Instructions–End Goal (RIE)" template plus a "four points and one line" optimization rubric.
+> **Synthesis:** **Title:** Luo and Tahir (2025) present an experimental study comparing traditional teacher-generated lesson plans with [[generative-ai|ChatGPT]]-assisted plans in children's STEAM [[arts-design-and-media-education|arts education]], finding that AI-assisted plans were evaluated as significantly higher quality (median 20.5 vs. 17.6, p = .002, large effect) by six expert professors. The study maps three methods of teacher–AI [[human-ai-collaboration|collaboration]], documents the benefits and challenges of AI-assisted [[curriculum-design|lesson planning]], and contributes an iteratively refined prompt framework built on a "Role–Instructions–End Goal (RIE)" template plus a "four points and one line" optimization rubric.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ level: [preschool, primary education]
 
 ## What this means for practice
 
-- **Instructors.** Outline the lesson yourself first and use ChatGPT to fill content gaps (the study's Method A), rather than generating a full plan to adapt afterwards; teachers who worked this way kept pedagogical control while saving the most time on topic selection and content drafting.
+- **Instructors.** Outline the lesson yourself first and use ChatGPT to fill content gaps (the study's Method A), rather than generating a full plan to adapt afterwards; teachers who worked this way kept [[pedagogy|pedagogical]] control while saving the most time on topic selection and content drafting.
 - **Instructors.** Screen generated activities against child-safety constraints before use — teachers reported outputs that were unsuitable for young children, for example practical suggestions involving carving knives.
 - **Instructors.** Concentrate AI use at the two stages teachers reported as most valuable and most time-consuming: generating the plan itself and searching for or generating [[multimodal|multimedia]] resources, and validate image outputs, which were sometimes logically flawed or irrelevant to the topic.
 - **Designers.** Build the RIE (Role–Instructions–End Goal) prompt template and the "four points and one line" criteria (standardized, practical, engaging, complete, plus an extension dimension) into the tool's interface, since teachers rated their acceptance of the refined framework above 4 on a 5-point scale.
@@ -39,7 +39,7 @@ level: [preschool, primary education]
 - Thirteen children's art teachers and six professors participated, all from China with experience in Chinese children's art education, so both the planning and the rating reflect a single national and cultural context — one the authors note ChatGPT itself handles poorly, since its predominantly Western training data produces internationalized content with little grasp of local custom.
 - Only two of the 13 teachers had STEAM-related backgrounds, so the sample cannot support strong claims about STEAM arts education specifically, even though that is the study's stated setting.
 - The lesson-plan sample is 25 plans (12 traditional, 13 ChatGPT-assisted): one teacher used ChatGPT daily and submitted only a single plan, leaving 12 usable pairs for the Wilcoxon comparison.
-- Benefits and challenges rest mainly on self-reported questionnaires and interviews, which the authors acknowledge may reflect socially desirable responding; evaluation was limited to professor rubric scores, and no student data were collected — the study never measured how the plans affected learners.
+- Benefits and challenges rest mainly on self-reported [[self-report-measures|questionnaires]] and interviews, which the authors acknowledge may reflect socially desirable responding; evaluation was limited to professor rubric scores, and no student data were collected — the study never measured how the plans affected learners.
 
 ## Citation
 

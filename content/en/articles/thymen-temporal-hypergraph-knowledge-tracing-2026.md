@@ -26,7 +26,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Designers.** Build [[adaptive-learning|adaptive]] and [[formative-assessment|formative]] features on composition-aware mastery estimates: tracking which concepts co-occur in a question, rather than treating concepts as independent, improved prediction over memory-only models such as DKVMN.
-- **Designers.** Feed the model's knowledge-evolution trajectories into [[learning-analytics]] dashboards for intervention design — THyMeN produced smoother, pedagogically plausible trajectories than its baselines, which is what makes mastery estimates usable for [[student-modeling|student models]].
+- **Designers.** Feed the model's knowledge-evolution trajectories into [[learning-analytics]] [[visualization|dashboards]] for intervention design — THyMeN produced smoother, pedagogically plausible trajectories than its baselines, which is what makes mastery estimates usable for [[student-modeling|student models]].
 - **Instructors.** Vary the composition of practice deliberately: the model's adaptive scaling rewards practice diversity, aligning adaptive sequencing with evidence that cognitively demanding, varied practice strengthens retention.
 - **Researchers.** Operationalize the temporal hypergraph's structural signals — centrality, community detection, temporal motifs — so that latent representations become explicit instructional guidance, which the authors flag as the next step for [[knowledge-tracing]].
 
@@ -34,7 +34,7 @@ page_kind: [evaluation]
 
 - Evaluation is confined to four offline benchmark datasets — Statics2011, Kddcup2010, Synthetic-5, and ASSISTments2009 — one of which is simulated rather than drawn from real learners, so there is no classroom deployment evidence.
 - The model is predictive only: it estimates learning states but cannot simulate or evaluate the effects of alternative instructional interventions on future mastery trajectories.
-- The paper itself notes that the hypergraph's pedagogical richness is only partially operationalized — structural signals such as bridging concepts, concept clusters, and temporal motifs are encoded but not yet translated into instructional guidance.
+- The paper itself notes that the hypergraph's [[pedagogy|pedagogical]] richness is only partially operationalized — structural signals such as bridging concepts, concept clusters, and temporal motifs are encoded but not yet translated into instructional guidance.
 - Performance is judged by next-response prediction metrics such as AUC against seven baselines; the claim that trajectories are pedagogically plausible and stable is argued qualitatively rather than validated against learning outcomes.
 
 ## Citation

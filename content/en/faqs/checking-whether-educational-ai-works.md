@@ -58,7 +58,7 @@ The Linear Control Systems course assistant reports this the right way. Its best
 
 ## Score every output separately
 
-In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for grading. The same project's model trained to write feedback produced output that was truncated and unparseable, while simply prompting a different model produced feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for grading. The same project's model trained to write feedback produced output that was truncated and unparseable, while simply [[prompt-engineering|prompting]] a different model produced feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 The knowledge base carries the same failure in a second form: a deployment whose grading module scored well and whose feedback arrived cut off mid-sentence and unreadable. Nothing in the headline number said so.
 
@@ -84,13 +84,13 @@ Practical version: take a sample of about fifty outputs, have a person rate them
 
 The cleanest fix is to train the model on the same quantity you intend to measure. A fine-tuned model was trained to reproduce the statistical properties of test questions: how hard each item is, how well it separates stronger from weaker students. It learned those patterns rather than being told them ([[multimodal-item-parameter-estimation-2026]]). Because the target was a property of the assessment itself, the evaluation could be about that property instead of about wording.
 
-Report the progression as well as the endpoint. SWIM's writing simulator published each stage's score side by side: rubric-based prompting **0.577**, fine-tuning **0.474 ± 0.023**, reinforcement learning **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). A reader can see from that table whether the training did anything. A single final number cannot tell them, and it hides a stage where the fine-tuned model did worse than the prompt.
+Report the progression as well as the endpoint. SWIM's writing [[simulation|simulator]] published each stage's score side by side: rubric-based prompting **0.577**, fine-tuning **0.474 ± 0.023**, [[reinforcement-learning|reinforcement learning]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). A reader can see from that table whether the training did anything. A single final number cannot tell them, and it hides a stage where the fine-tuned model did worse than the prompt.
 
 ## Compare against something outside your project
 
 Get a baseline first, including a cheap one. The course assistant's model with no grounding scored below a plain keyword search, which is the sort of result that changes the roadmap and costs a day to find.
 
-An outside benchmark then tells you whether your number is any good at all. On the CDPK pedagogy benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). The Pedagogy Benchmark, built from real teacher professional-development exams and covering **97 models**, found accuracy ranging from **28% to 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+An outside benchmark then tells you whether your number is any good at all. On the CDPK [[pedagogy]] benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). The Pedagogy Benchmark, built from real [[teacher-role|teacher]] professional-development exams and covering **97 models**, found accuracy ranging from **28% to 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 On a task about teaching, models ranged from poor to good, so a benchmark result places your system somewhere inside a wide range.
 
@@ -102,7 +102,7 @@ Run the check across complete conversations, and write the test turns deliberate
 
 ## Check the simulated student before you trust it
 
-Generating simulated students instead of recruiting real ones makes evaluation far cheaper. A simulated student is also a measuring instrument, and it can be wrong in the ways instruments are wrong: too cooperative, too fluent, too quick to accept a hint.
+Generating [[simulating-students|simulated students]] instead of recruiting real ones makes evaluation far cheaper. A simulated student is also a measuring instrument, and it can be wrong in the ways instruments are wrong: too cooperative, too fluent, too quick to accept a hint.
 
 The most direct test in the knowledge base benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student-tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both act and think like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation]]).
 

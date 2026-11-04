@@ -16,7 +16,7 @@ level: [higher ed]
 institutions: [governance]
 ---
 
-> **Synthesis:** İsmail Şan and Hakan Orhan Karsak (2026) used the psycholinguistic Word Association Test (WAT) to map the cognitive representations of AI held by 436 Turkish university undergraduates, producing a needs assessment for designing [[ai-literacy]] [[higher-ed|micro-credential]] programs grounded in learners' actual knowledge structures. Across a seven-stage analytical protocol (1376 coded responses, inter-rater reliability κ=0.87), the authors found students' associative networks were dominated by utilitarian concepts — convenience, speed, and technology — while algorithmic transparency, ethical governance, and technical mechanisms were structurally absent. [[network-analysis|Network analysis]] revealed strong polarisation between a positive-utility cluster and a negative-risk cluster (τ=−0.819), indicating a pervasive "black-box" orientation toward AI. The findings ground an Ethical AI and Workforce Readiness micro-credential framework that deliberately bridges students' experiential, instrumental knowledge of AI and the [[ethics|ethical]] and [[governance]] frameworks needed for responsible use.
+> **Synthesis:** İsmail Şan and Hakan Orhan Karsak (2026) used the psycholinguistic Word Association Test (WAT) to map the cognitive representations of AI held by 436 Turkish university undergraduates, producing a needs assessment for designing [[ai-literacy]] [[higher-ed|micro-credential]] programs grounded in learners' actual knowledge structures. Across a seven-stage analytical protocol (1376 coded responses, inter-rater reliability κ=0.87), the authors found students' associative networks were dominated by utilitarian concepts — convenience, speed, and technology — while algorithmic transparency, ethical governance, and technical mechanisms were structurally absent. [[network-analysis|Network analysis]] revealed strong polarisation between a positive-utility cluster and a negative-risk cluster (τ=−0.819), indicating a pervasive "black-box" orientation toward AI. The findings ground an Ethical AI and [[career-development-and-readiness|Workforce Readiness]] micro-credential framework that deliberately bridges students' experiential, instrumental knowledge of AI and the [[ethics|ethical]] and [[governance]] frameworks needed for responsible use.
 
 ## Key Findings
 
@@ -28,10 +28,10 @@ institutions: [governance]
 
 ## What this means for practice
 
-- **Curriculum designers.** Open AI literacy content with the experiential situations students already associate with AI — convenience, speed, efficiency at work — then build outward to how that convenience is produced, who pays the costs, and what governance makes it fair, rather than starting from abstract definitions of machine learning.
+- **Curriculum designers.** Open AI literacy content with the experiential situations students already associate with AI — convenience, speed, efficiency at work — then build outward to how that convenience is produced, who pays the costs, and what governance makes it fair, rather than starting from abstract definitions of [[machine-learning|machine learning]].
 - Do not run ethics as an isolated module: the associative data show utilitarian and risk/governance concepts as structurally segregated frames (τ = −0.819), so the credential must construct the bridges between tool experience and transparency, privacy, and governance.
 - **Educators.** Administer an associative diagnostic such as the word association test at course entry to surface the actual structure of learners' [[prior-knowledge|prior knowledge]] instead of assuming a content deficit.
-- Require a structured ethical impact assessment of an AI application in the student's own field — algorithmic bias and fairness, data privacy and consent, accountability and audit mechanisms, and the regulatory landscape — with a written recommendation to a named decision-maker.
+- Require a structured ethical impact assessment of an AI application in the student's own field — [[bias-mitigation|algorithmic bias]] and fairness, data privacy and consent, accountability and audit mechanisms, and the regulatory landscape — with a written recommendation to a named decision-maker.
 
 ## Limitations
 

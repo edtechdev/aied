@@ -17,7 +17,7 @@ page_kind: [evaluation]
 
 ## Key Findings
 
-- **Format matters greatly.** The binary checklist produced high overall agreement (ChatGPT-5 = 87%, Copilot Pro = 89%) because its simple decision structure limits disagreement; the more nuanced rubric produced far lower agreement (44% and 50%) and revealed much larger divergences. The only major checklist failure was Use of Results on the weak report, where both models credited intent rather than evidence.
+- **Format matters greatly.** The binary checklist produced high overall agreement ([[generative-ai|ChatGPT]]-5 = 87%, Copilot Pro = 89%) because its simple decision structure limits disagreement; the more nuanced rubric produced far lower agreement (44% and 50%) and revealed much larger divergences. The only major checklist failure was Use of Results on the weak report, where both models credited intent rather than evidence.
 - **AI is better on high-quality reports.** Agreement was strongest for the strong report across both formats, and declined as quality fell. On weaker reports, AI frequently **inflated** scores and failed to penalize missing or misclassified evidence (e.g., Copilot consistently scored the weak report's Improvement element a perfect 1 in the checklist).
 - **Measurement is the hardest element.** Use of Results had the highest agreement (68%), followed by SLOs (61%) and Measures (54%) — but this understates the problem: AI had consistent difficulty judging outcome–measure alignment and distinguishing direct from indirect evidence, errors that cascaded into other ratings.
 - **Four recurring error types:** (1) **[[hallucination-risk|hallucinations]]** (fabricated SLOs — two true instances), (2) **misses** (failing to detect missing/low-quality evidence on weaker reports), (3) **misplaced attention** (e.g., Copilot basing an Interpretation of Results rating on the Use of Results section), and (4) **misapplication of criteria** (faulty judgment applied to correctly identified content). These often intersected.
@@ -29,15 +29,15 @@ page_kind: [evaluation]
 - **Assessment professionals.** Use AI as a supplement, not a replacement, where the format is simple and the report is strong: the binary checklist yielded 87% (ChatGPT-5) and 89% (Copilot Pro) agreement, while the nuanced rubric fell to 44% and 50%.
 - **Assessment professionals.** Keep human judgment on [[educational-measurement|measurement quality]] and on weak reports, where AI was least reliable — it inflated scores and missed missing or misclassified evidence — and use a hybrid model (AI for initial screens, humans for nuanced elements) to offset staffing limits in assessment offices.
 - **Assessment professionals.** Verify AI verdicts against the evidence rather than the report's labels, because both models accepted an "exit interview" as a direct measure and read any mention of "change" as proof of data-informed improvement.
-- **Institutions.** Set explicit guidelines for [[human-in-the-loop-ai|human oversight]], disclosure of AI use in feedback, and data-privacy handling (what is stored or reused) before turning real institutional reports over to a model — this study ran only on fictional data.
-- **Assessment designers.** Treat prompting AI and asking it to justify ratings as professional development: articulating criteria to a model led reviewers to reflect on their own [[assessment|meta-assessment]] rationale.
+- **Institutions.** Set explicit guidelines for [[human-in-the-loop-ai|human oversight]], [[ai-use-disclosure|disclosure of AI use]] in feedback, and data-privacy handling (what is stored or reused) before turning real institutional reports over to a model — this study ran only on fictional data.
+- **Assessment designers.** Treat [[prompt-engineering|prompting]] AI and asking it to justify ratings as [[educational-development|professional development]]: articulating criteria to a model led reviewers to reflect on their own [[assessment|meta-assessment]] rationale.
 
 ## Limitations
 
 - The evidence is a snapshot of LLM behavior on a single fictitious assessment report manipulated into strong, moderate, and weak versions, not real institutional reports.
 - Only two general-purpose platforms were tested, and Copilot Pro frequently runs on the same GPT models as ChatGPT; both were evaluated in their default configurations.
 - Ratings came from a single human expert, which ensured consistency but limited the diversity of perspectives against which AI agreement was judged.
-- LLM outputs vary between prompts, and the design deliberately held prompt wording constant rather than iterating as practitioners would; the rationales AI gave were compared to expert feedback only informally, not through formal qualitative analysis.
+- LLM outputs vary between prompts, and the design deliberately held prompt wording constant rather than iterating as practitioners would; the rationales AI gave were compared to expert feedback only informally, not through formal [[qualitative-research|qualitative]] analysis.
 
 ## Citation
 

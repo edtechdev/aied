@@ -27,7 +27,7 @@ The proposed test reframes [[assessment]] around three questions: what must a st
 ## What this means for practice
 
 - **Instructors.** Answer the test's three questions for every learning outcome before writing the assignment: what must students demonstrate independently, what may AI augment, and what must they verify, defend, and take responsibility for.
-- **Instructors.** Require multiple forms of evidence rather than one AI-assisted submission — an oral defense, supervised problem formulation, laboratory decision, or transfer problem each contributes, and no single format is the test.
+- **Instructors.** Require multiple forms of evidence rather than one AI-assisted submission — an [[oral-assessment|oral defense]], supervised problem formulation, laboratory decision, or transfer problem each contributes, and no single format is the test.
 - **Assessment designers.** Distribute the balance across the program: more independent demonstration in foundational courses, deliberate AI-supported synthesis and transfer in intermediate courses, and defended consequential judgments in advanced courses.
 - **Assessment designers.** Use the test at program level for assurance of learning, mapping each outcome's independent, augmented, and accountable conditions against accreditation requirements such as ABET's expectation that students solve complex engineering problems.
 
@@ -35,7 +35,7 @@ The proposed test reframes [[assessment]] around three questions: what must a st
 
 - This is a conceptual proposal, not an empirical study: no students, courses, or assessment data are reported, so the test's reliability and validity are untested.
 - The framework is illustrated with a single example, an engineering material-balance problem, and the author states it is intentionally non-prescriptive, leaving no scoring rules or validated instrument for others to reuse.
-- The argument rests on institutional policy reports from MIT, Brown, and the University of Toronto plus the ABET criteria, not on evidence about whether the proposed evidence formats actually distinguish independent from AI-augmented capability.
+- The argument rests on [[educational-policy-ai|institutional policy]] reports from MIT, Brown, and the University of Toronto plus the ABET criteria, not on evidence about whether the proposed evidence formats actually distinguish independent from AI-augmented capability.
 
 ## Citation
 Saleh, N. B. (2026). [*A Human Capability Test for Learning Outcomes in the AI Era*](https://osf.io/preprints/edarxiv/gjrb9). EdArXiv preprint.

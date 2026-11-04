@@ -40,7 +40,7 @@ Measurement quality was high by conventional standards — factor loadings 0.891
 
 ## Limitations
 
-- The quantitative data come from one cross-sectional survey collected in October–November 2024 in a single private undergraduate institution in Guangzhou: 1,000 questionnaires distributed through the institution's LMS produced 689 valid responses (68.9%), and the authors state that cross-sectional data preclude strong causal claims about the serial mediation.
+- The [[quantitative-research|quantitative]] data come from one cross-sectional survey collected in October–November 2024 in a single private undergraduate institution in Guangzhou: 1,000 questionnaires distributed through the institution's LMS produced 689 valid responses (68.9%), and the authors state that cross-sectional data preclude strong causal claims about the serial mediation.
 - Every construct was [[self-report-measures|self-reported]] on seven-point Likert items, so the affordance, self-efficacy, motivation and self-regulation paths share method variance.
 - Reverse causality remains plausible on the authors' own account — high self-regulated learners may selectively perceive AIGC affordances, and self-efficacy and motivation may reciprocally reinforce each other.
 - The qualitative strand consists of 8 instructors (enterprise mentors and academic supervisors, interviews of roughly 30 minutes) rather than students, and it documents curriculum–industry misalignment, limited project diversity and weak enterprise engagement rather than student-level mechanisms.

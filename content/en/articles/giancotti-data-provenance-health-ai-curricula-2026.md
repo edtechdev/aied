@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, quotes, links]
 ---
 
-> **Synthesis:** Giancotti and colleagues (2026) ask whether the programs that train the health AI workforce teach practitioners to interrogate where training data come from. Their answer, from a structured census of publicly advertised U.S. curricula, is that [[medical-education|health AI education]] teaches ethics without teaching provenance. Of 36 programs at 25 institutional units in 21 universities, 29 (80.6%) covered ethics and only 8 (22.2%) covered data provenance at the level the authors set as the primary outcome — structural sources or dataset limitations — with 6 (16.7%) reaching the structural level. No program addressed the environmental cost of computation, and of 92 named instructors, 76.1% came from computational disciplines against 3.3% from the social sciences or humanities. The paper reads the curriculum as the upstream cause of a downstream failure: models fail for reasons fixed long before deployment.
+> **Synthesis:** Giancotti and colleagues (2026) ask whether the programs that train the health AI workforce teach practitioners to interrogate where training data come from. Their answer, from a structured census of publicly advertised U.S. curricula, is that [[medical-education|health AI education]] teaches [[ethics]] without teaching provenance. Of 36 programs at 25 institutional units in 21 universities, 29 (80.6%) covered ethics and only 8 (22.2%) covered data provenance at the level the authors set as the primary outcome — structural sources or dataset limitations — with 6 (16.7%) reaching the structural level. No program addressed the environmental cost of computation, and of 92 named instructors, 76.1% came from computational disciplines against 3.3% from the social sciences or humanities. The paper reads the curriculum as the upstream cause of a downstream failure: models fail for reasons fixed long before deployment.
 
 ## Key Findings
 1. **Ethics is taught; provenance is not.** Ethics appeared in 29 of 36 programs (80.6%, 95% CI 65.0 to 90.2), against 8 programs (22.2%, 95% CI 11.7 to 38.1) at the primary-outcome level for data provenance and 6 (16.7%, 95% CI 7.9 to 31.9) at the structural level.
@@ -60,7 +60,7 @@ That is a hiring and curriculum-design problem rather than a content problem, an
 ## What this means for practice
 
 - **Curriculum designers.** Add provenance as a required competency with its own assessment, not as a subsection of ethics. The census shows ethics coverage does not carry provenance coverage: 22 of 29 ethics-covering programs missed it.
-- **Medical educators.** Teach the label, not just the model. The cost-as-proxy case is the canonical example, and it can be taught without any machine-learning prerequisite.
+- **Medical educators.** Teach the label, not just the model. The cost-as-proxy case is the canonical example, and it can be taught without any [[machine-learning]] prerequisite.
 - **Administrators.** Count the disciplinary mix of the faculty before counting the courses. A program staffed almost entirely from computing will reproduce the computing curriculum's blind spots regardless of what the syllabus says.
 - **Curriculum designers.** Put sustainability on the syllabus. No program in the census addressed the environmental cost of computation, so there is no peer model to copy and no excuse for the omission.
 

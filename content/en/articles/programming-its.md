@@ -59,7 +59,7 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 
 - **Authoring interface** — a component letting teachers edit tasks directly instead of manually uploading task files.
 - **Pedagogical model** — testing different next-task recommendation methods, intervention techniques for struggling learners, and validating variations empirically.
-- **Learner Model** — a dashboard surfacing learner-model findings, plus improved explainability and interpretability.
+- **Learner Model** — a dashboard surfacing learner-model findings, plus improved [[explainable-ai|explainability]] and interpretability.
 - **Evaluation** — A/B testing with pre/post-tests to compare skill gains across pedagogical models once deployed course-long.
 - **Open source** — the alpha-stage code is released at the project's GitLab; the authors do not yet recommend it for deployment, only research use.
 
@@ -76,7 +76,7 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - The system is at alpha stage and only part of the architecture in the paper's Figures 3 and 4 is implemented; the authors state plainly that it cannot yet be recommended for deployment and is offered for research use.
 - The adaptive outer loop is largely future work: the next-step and feedback modules already use task-contextual information, but learner-model context and revision of generated feedback through a certainty metric are described as planned rather than built.
 - Data privacy shaped the design and capped the evidence: the authors could not yet implement the system for mandatory task submissions, because coupling submissions to individual student identities would have raised the privacy risks they set out to avoid.
-- It is described only for a narrow setting — advanced undergraduate computer science courses in which Python is a new language, focused on data science — and the paper reports no student evaluation or learning-outcome data.
+- It is described only for a narrow setting — advanced undergraduate [[cs-education|computer science]] courses in which Python is a new language, focused on data science — and the paper reports no student evaluation or learning-outcome data.
 
 ## Citation
 

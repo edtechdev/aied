@@ -57,11 +57,11 @@ GenAI supports [[collaborative-learning]] in four roles: information hub, person
 
 ## System-Level and Assessment Applications
 
-At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardized assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education [[research-methods-aied|research]] (Chs. 11–13).
+At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance [[learning-analytics|analytics]], standardized assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education [[research-methods-aied|research]] (Chs. 11–13).
 
 ## Policy Recommendations
 
-Four pillars: (1) human-centered teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in [[learning-theories|learning science]]; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) [[equity-in-ai-education|equitable]] digital infrastructure including offline small language models for low-connectivity settings.
+Four pillars: (1) human-centered teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in [[learning-theories|learning science]]; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) [[equity-in-ai-education|equitable]] digital infrastructure including offline small [[llm|language models]] for low-connectivity settings.
 
 ## Equity: AI Unplugged
 
@@ -72,15 +72,15 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 - **Instructors.** Build GenAI into tasks with an explicit pedagogical purpose rather than leaving it as an answer service: general-purpose chatbots improved the quality of student output, but the advantage disappeared and sometimes reversed once AI access was removed.
 - **Faculty developers.** Train staff toward augmentation — teachers and AI critiquing and refining each other's output — rather than replacement, which the report associates with deskilling.
 - **Administrators.** Target AI support where it moves outcomes most: low-experience tutors gained 9 percentage points in student pass rates with AI support, with smaller gains for experienced tutors, and secondary science teachers in England cut lesson and resource planning time by 31 percent.
-- **Administrators.** Assume students will use GenAI regardless and redesign accordingly — assignments that cannot be completed directly by a chatbot, oral defense in lab time, and conceptual paper exams produced comparable [[learning-gains|outcomes]] for groups with and without GenAI access in one reported course redesign.
-- **Researchers.** Measure retention, not task performance: in a randomized trial with about 1,600 students, AI-supported gains in peer feedback quality were not sustained after the tool was withdrawn.
+- **Administrators.** Assume students will use GenAI regardless and redesign accordingly — assignments that cannot be completed directly by a chatbot, [[oral-assessment|oral defense]] in lab time, and conceptual paper exams produced comparable [[learning-gains|outcomes]] for groups with and without GenAI access in one reported course redesign.
+- **Researchers.** Measure retention, not task performance: in a [[rct|randomized trial]] with about 1,600 students, AI-supported gains in peer [[ai-feedback-quality|feedback quality]] were not sustained after the tool was withdrawn.
 
 ## Limitations
 
 - The Outlook is a secondary synthesis of existing empirical studies and expert input rather than new primary data collection, so its conclusions inherit the designs, samples, and settings of the studies reviewed.
 - Several headline figures come from single studies in specific settings — the 9-percentage-point pass-rate gain and the 31 percent planning-time reduction — and are reported without replication across systems.
 - The TALIS-based finding that 37 percent of teachers use GenAI for work-related tasks is flagged in the report itself as carrying a higher risk of non-response bias and should be interpreted with caution.
-- Evidence on synergy is mixed: a meta-analysis of 106 experimental studies of human-AI collaboration found that, on average, human-AI combinations performed worse than the best of either humans or AI alone, particularly on decision-making tasks.
+- Evidence on synergy is mixed: a [[meta-analysis-systematic-review|meta-analysis]] of 106 experimental studies of [[human-ai-collaboration|human-AI collaboration]] found that, on average, human-AI combinations performed worse than the best of either humans or AI alone, particularly on decision-making tasks.
 
 ## Citation
 

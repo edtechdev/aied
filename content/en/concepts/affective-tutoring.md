@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-29T06:19:06-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -46,13 +46,13 @@ Favero et al. (2025) warn that emotional [[student-engagement|engagement]] with 
 | Affective tutoring benefit | Corresponding risk |
 |---|---|
 | Emotionally-aware responses feel supportive | Students may form **parasocial dependencies** on the tutor |
-| Empathy reduces anxiety | Reduced anxiety may mask **metacognitive disengagement** |
+| Empathy reduces [[anxiety-and-stress|anxiety]] | Reduced anxiety may mask **metacognitive disengagement** |
 | Affective calibration personalizes pacing | Deep [[personalized-learning|personalization]] can **reduce transfer** to non-adaptive contexts |
 | Facial monitoring signals attentiveness | Continuous video capture raises **privacy concerns** |
 
 The authors argue that emotional risks are part of a broader pattern of **erosion of [[self-efficacy]], [[agency]], and [[well-being]]** when AI use is unchecked.
 
-**The risk also falls on people who never open the tutor.** [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] found that willingness to provide emotional support yourself declines as you believe a system can provide it, and that belief was causal in their second experiment: reading ordinary news coverage about empathic AI was enough to raise offloading, entirely through perceived capacity. Their fourth study adds a social cost the individual-level framing misses. Told that a student had gone to a chatbot for support, participants said they would offload less than if the student had gone to a friend. They then wrote fewer empathy words and more indifference words about that student, and rated them as stranger and more desperate. [[social-emotional-learning|Social-emotional]] provision can therefore thin out around the tutor even when nobody using it reports a change.
+**The risk also falls on people who never open the tutor.** [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] found that willingness to provide emotional support yourself declines as you believe a system can provide it, and that belief was causal in their second experiment: reading ordinary news coverage about empathic AI was enough to raise offloading, entirely through perceived capacity. Their fourth study adds a social cost the individual-level framing misses. Told that a student had gone to a [[conversational-ai|chatbot]] for support, participants said they would offload less than if the student had gone to a friend. They then wrote fewer empathy words and more indifference words about that student, and rated them as stranger and more desperate. [[social-emotional-learning|Social-emotional]] provision can therefore thin out around the tutor even when nobody using it reports a change.
 
 ## Design Principles
 

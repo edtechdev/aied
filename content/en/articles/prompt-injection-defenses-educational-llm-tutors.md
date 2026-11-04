@@ -14,7 +14,7 @@ page_kind: [evaluation, framework]
 institutions: [regulation]
 ---
 
-> **Synthesis:** This paper addresses a fundamental tension in educational LLM deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.
+> **Synthesis:** This paper addresses a fundamental tension in educational [[llm]] deployment: tutors must be both **secure** (resist prompt injection attacks) and **usable** (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a **480-query benchmark** (369 injection, 111 benign) with statistically rigorous comparison.
 
 **Defense methods compared:**
 
@@ -24,7 +24,7 @@ institutions: [regulation]
 | Prompt Guard (Meta) | 38.48% | 3.60% | — |
 | NeMo [[guardrails]] (NVIDIA) | **0.0%** | 16.22% | 1.5s |
 
-**The proposed pipeline** combines deterministic pattern filters, structural validation, contextual sandboxing, and session-level behavioral checks. Its design prioritizes **[[pedagogy|pedagogical]] usability** — zero false positives means no legitimate student queries get blocked, an essential requirement for [[intelligent-tutoring]] systems where interruptions harm learning.
+**The proposed pipeline** combines deterministic pattern filters, structural validation, contextual sandboxing, and session-level behavioral checks. Its design prioritizes **[[pedagogy|pedagogical]] [[usability-research|usability]]** — zero false positives means no legitimate student queries get blocked, an essential requirement for [[intelligent-tutoring]] systems where interruptions harm learning.
 
 **NeMo Guardrails** blocks all attacks but incorrectly flags ~16% of benign requests — a rate that would seriously degrade the [[student-experience]] in real tutoring sessions. **Prompt Guard** provides middle-ground performance.
 
@@ -44,7 +44,7 @@ The paper highlights that **educational settings have unique requirements**: fal
 - The benchmark is 480 synthetic queries (369 injection, 111 benign) produced by an LLM-assisted pipeline, so real student interactions may show different textual distributions and obfuscation strategies.
 - Evaluation used an offline single-turn protocol, so the Layer 4 session-level behavioral heuristics register zero blocks by design and could not be measured directly.
 - It targets one deployment context, a programming tutor in English and Portuguese, leaving transfer to subjects such as math and science unverified.
-- No user-centric outcomes were measured (perceived helpfulness, trust, or learning gains) because no live student or educator study was run, and the robustness sweep covered only 10 seeds.
+- No user-centric outcomes were measured (perceived helpfulness, trust, or [[learning-gains|learning gains]]) because no live student or educator study was run, and the robustness sweep covered only 10 seeds.
 
 ## Citation
 

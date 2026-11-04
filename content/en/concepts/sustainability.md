@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-28T18:53:18-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - The page distinguishes two pathways: 'AI for sustainability' (using AI to advance sustainability outcomes) and 'sustainable AI' (reducing AI's own environmental and ethical footprint). Can you think of a way an AI tool could advance one goal while undermining the other?
-- Training and running large language models carries a real carbon and water footprint. When an institution promotes sustainability as a value while deploying energy-intensive AI, what tensions arise — and who should weigh them?
+- Training and running [[llm|large language models]] carries a real carbon and water footprint. When an institution promotes sustainability as a value while deploying energy-intensive AI, what tensions arise — and who should weigh them?
 - Before you read on, how would you define 'sustainable education'? The page treats it as a value-based, human-centered project distinct from using education as an instrument for sustainability — how do those differ?
 - If education is expected to build learners' 'sustainability consciousness,' what role might AI play in that — and could AI integration in the curriculum teach sustainability while its own footprint quietly contradicts the lesson?
 - What would it mean for an educational institution to be genuinely sustainable in its AI use, and which of its decisions (procurement, deployment, teaching) do you think matter most?
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
 
-The environmental pathway has a documented gap: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report that genAI's environmental consequences were not discussed in the university's policy documents at the study site, and argue that institutional guidance omitting them fails to address the concerns teachers and students hold.
+The environmental pathway has a documented gap: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report that [[generative-ai|genAI]]'s environmental consequences were not discussed in the university's policy documents at the study site, and argue that institutional guidance omitting them fails to address the concerns teachers and students hold.
 
 ## The two-part taxonomy
 
@@ -36,7 +36,7 @@ The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-re
 
 ## Using AI for sustainability in education
 
-A growing body of work treats AI as a tool *for* sustainability education and outcomes:
+A growing body of work treats AI as a tool *for* [[environmental-education|sustainability education]] and outcomes:
 
 - **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
 - **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].

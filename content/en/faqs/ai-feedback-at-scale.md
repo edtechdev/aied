@@ -26,7 +26,7 @@ ai_assist:
 
 It is week six. You have a stack of drafts, a rubric you believe in, and a growing suspicion that a third of your comments get skimmed and forgotten. A colleague mentions that a tool now comments on every draft within the hour. The department meeting needs an answer: is this an upgrade, or a faster way to produce text nobody reads?
 
-Short answer to give a colleague: AI feedback earns its place on coverage, timeliness and consistency, inside a narrow band. Copy-editing-scale language work and rubric-guided first-pass comments are worth automating. Reach is the cheap part. In a cluster-randomized experiment with 1,176 first-year undergraduates, reflective and hybrid designs beat direct AI critique on delayed, AI-free [[transfer-of-learning|transfer]]. In a randomized essay experiment with 70 students, better-rated AI feedback produced no better revisions than an experienced teacher's. What a student does with a comment decides the outcome, and [[feedback-literacy|feedback literacy]] separates the students who gain from the ones who copy.
+Short answer to give a colleague: AI feedback earns its place on coverage, timeliness and consistency, inside a narrow band. Copy-editing-scale language work and rubric-guided first-pass comments are worth automating. Reach is the cheap part. In a cluster-randomized experiment with 1,176 first-year undergraduates, reflective and hybrid designs beat direct AI critique on delayed, AI-free [[transfer-of-learning|transfer]]. In a randomized essay experiment with 70 students, better-rated AI feedback produced no better revisions than an experienced [[teacher-role|teacher]]'s. What a student does with a comment decides the outcome, and [[feedback-literacy|feedback literacy]] separates the students who gain from the ones who copy.
 
 ## The short version
 
@@ -34,7 +34,7 @@ Short answer to give a colleague: AI feedback earns its place on coverage, timel
 
 **2.** Sort your own comments into language-level fixes and judgment-level calls. Only the first category is a candidate for automation.
 
-**3.** Stage the sources. Self-evaluation first, peer feedback second, AI critique third. Two sources placed side by side produce passive uptake.
+**3.** Stage the sources. Self-evaluation first, [[peer-assessment|peer feedback]] second, AI critique third. Two sources placed side by side produce passive uptake.
 
 **4.** Hand the model your rubric and make it reason step by step. A bare instruction produces generic output.
 
@@ -46,7 +46,7 @@ Short answer to give a colleague: AI feedback earns its place on coverage, timel
 
 The tempting metric is the quality of what the model writes. It is also the metric that misleads.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomized 70 students writing argumentative essays in Persian into three groups. Chain-of-thought prompting produced significantly higher-rated feedback (M = 12.90) than zero-shot prompting (M = 11.25, p = .01) and than an experienced human teacher (M = 11.20, p = .008). The chain-of-thought group did not revise its essays significantly more than the teacher-feedback group, which achieved comparable gains. Better comments, the same revisions. If your success criterion is comment quality, that study reads as a win. If it is what changed in the essay, it does not.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomized 70 students writing argumentative essays in Persian into three groups. Chain-of-thought [[prompt-engineering|prompting]] produced significantly higher-rated feedback (M = 12.90) than zero-shot prompting (M = 11.25, p = .01) and than an experienced human teacher (M = 11.20, p = .008). The chain-of-thought group did not revise its essays significantly more than the teacher-feedback group, which achieved comparable gains. Better comments, the same revisions. If your success criterion is comment quality, that study reads as a win. If it is what changed in the essay, it does not.
 
 Two other signals flatter a pilot that is going badly, so fix them in advance. Student satisfaction is one. In the university-wide Deakin pilot reported by [[tubino-adachi-ai-automated-feedback-literacy|Tubino and Adachi (2022)]], positive average ratings coexisted with student-flagged errors, so a smiley-face survey is not accuracy evidence. Usage is the other. The Deakin tool was optional, and usage averaged roughly 13% of undergraduates and 12% of postgraduates despite almost 4,000 students having access. Proactive, high-achieving students used it more. That is what making a tool available buys you.
 
@@ -68,7 +68,7 @@ The reflective condition required self-evaluation before AI critique. The hybrid
 
 The mechanism explains why sequencing matters more than the tool. Direct critique invites passive uptake: the student reads a verdict and applies it. Reflective and hybrid designs force the student to interpret the comment, compare it against criteria, judge its relevance and then revise. Educational value depends less on AI access than on whether the feedback environment preserves [[agency|learner agency]] and [[evaluative-judgment|evaluative judgment]] during revision.
 
-Peer feedback earns its own place in the sequence. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen and Yan (2026)]] ran two parallel English classes (N = 118 first-year undergraduates in China; GenAI n = 56, peer n = 62) through three self-assessment cycles over one semester. GenAI scaffolding improved feedback literacy slightly but significantly over human peer review (ANCOVA p = 0.049, ηp² = 0.03). GenAI students refined prompts iteratively and verified or challenged inaccurate output. Peer-group students chose sources by social convenience and had their evaluative judgment distorted by friendship bias. Peer review kept a distinct value for audience awareness, which is why the authors propose multi-stage designs with anonymous peer feedback rather than a replacement.
+Peer feedback earns its own place in the sequence. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen and Yan (2026)]] ran two parallel English classes (N = 118 first-year undergraduates in China; GenAI n = 56, peer n = 62) through three [[self-assessment]] cycles over one semester. GenAI [[scaffolding]] improved feedback literacy slightly but significantly over human peer review (ANCOVA p = 0.049, ηp² = 0.03). GenAI students refined prompts iteratively and verified or challenged inaccurate output. Peer-group students chose sources by social convenience and had their evaluative judgment distorted by friendship bias. Peer review kept a distinct value for audience awareness, which is why the authors propose multi-stage designs with anonymous peer feedback rather than a replacement.
 
 Gu et al.'s advantage was small, and they read it as real but not transformative on its own. Teacher scaffolding, prompt guidelines and worksheets did the supporting work.
 
@@ -76,15 +76,15 @@ Gu et al.'s advantage was small, and they read it as real but not transformative
 
 Rubric-referenced generation is the automatable part.
 
-Farrokhnia et al.'s quality gain came from a chain-of-thought prompt that walked the model through a step-by-step evaluation against an argumentation rubric, not from a bare instruction to give feedback. Gu et al. gave their GenAI group ChatGPT-4o with pre-trained rubrics and prompt guidelines, which is what made the output checkable against stated criteria. In both cases, the prompt is where your criteria enter the system, and the reasoning trace is what lets you see whether the model applied them.
+Farrokhnia et al.'s quality gain came from a chain-of-thought prompt that walked the model through a step-by-step evaluation against an argumentation rubric, not from a bare instruction to give feedback. Gu et al. gave their GenAI group [[generative-ai|ChatGPT]]-4o with pre-trained rubrics and prompt guidelines, which is what made the output checkable against stated criteria. In both cases, the prompt is where your criteria enter the system, and the reasoning trace is what lets you see whether the model applied them.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson and Yan (2025)]] make prompt quality the hinge of the whole process. Vague prompts yield generic, useless output, and generated comments can be hallucinated, biased or overlapping, which pushes evaluative judgment back onto the reader. Calibration is sharper still. In Farrokhnia et al., GenAI feedback quality was significantly associated with the strength of a student's initial draft, while teacher feedback quality was not. The teacher calibrated more consistently. Volume scales. Calibration does not.
 
 ## Keep the last word and the record human
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma and Cobos (2026)]] describe AICoFE, which runs three independently fine-tuned models (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubric scores and qualitative observations to produce independent draft comments. The instructor then composes the final message by selecting sentences or paragraphs, with a legend showing which model contributed what. The model drafts. The instructor delivers, and the deliverable is signed by one person who read the draft.
+[[becerra-aicofe-feedback-2026|Becerra, Palma and Cobos (2026)]] describe AICoFE, which runs three independently fine-tuned models (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubric scores and [[qualitative-research|qualitative]] observations to produce independent draft comments. The instructor then composes the final message by selecting sentences or paragraphs, with a legend showing which model contributed what. The model drafts. The instructor delivers, and the deliverable is signed by one person who read the draft.
 
-Aldino et al. find the same assist-then-verify pattern in ordinary practice. The machine-learning component most often flagged "Meeting Learning Objective" as missing (20 of 21 teachers had omitted it; 16 accepted the flag) and "Student-Teacher Relationship" (14 omitted; 12 accepted). Teachers decided each suggestion on professional judgment, which is the point of putting them in the loop.
+Aldino et al. find the same assist-then-verify pattern in ordinary practice. The [[machine-learning]] component most often flagged "Meeting Learning Objective" as missing (20 of 21 teachers had omitted it; 16 accepted the flag) and "Student-Teacher Relationship" (14 omitted; 12 accepted). Teachers decided each suggestion on professional judgment, which is the point of putting them in the loop.
 
 Twelve of Aldino et al.'s 21 teachers made further sentence-level revisions, and the dominant pattern was calibrating tone: editing praise down (f = 11), removing suggestions (f = 9), removing encouragement (f = 8). Revisions clustered in the relational dimension, especially Student-Teacher Relationship (f = 24). They were protecting authenticity and professional voice, and that work does not automate.
 
@@ -114,7 +114,7 @@ Satisfaction ratings tell you the comments are accurate. In the Deakin pilot, po
 
 ## What will come back at you
 
-**"AI feedback is not personal."** Often true, and it is the reason to keep the last word human. AICoFE exists because generic model prose is not what a student should receive: the instructor selects, edits and signs the final message. The 21 teachers in Aldino et al. rewrote tone for the same reason. Personalization is your job in this design, and the model is doing the setup work.
+**"AI feedback is not personal."** Often true, and it is the reason to keep the last word human. AICoFE exists because generic model prose is not what a student should receive: the instructor selects, edits and signs the final message. The 21 teachers in Aldino et al. rewrote tone for the same reason. [[personalized-learning|Personalization]] is your job in this design, and the model is doing the setup work.
 
 **"My students will not read feedback anyway."** They read less than we hope, and the evidence says the fix is design rather than volume. Uptake in the Deakin pilot ran at roughly 13% and 12%. Farrokhnia et al.'s higher-rated comments produced no extra revision. What moved the needle was sequencing that forces engagement, self-evaluation then peer feedback then AI critique, plus three revision cycles across a semester that produced measurable feedback-literacy differences.
 

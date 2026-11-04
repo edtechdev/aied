@@ -17,7 +17,7 @@ methods: [benchmark]
 
 ## Key Findings
 
-- The paper introduces an evaluation pipeline around two metrics — Chatbot Scaffolding and Student Uptake — applied across nine datasets of 9,490 chats spanning AI tutor benchmarks and real-world deployments of educational chatbots.
+- The paper introduces an evaluation pipeline around two metrics — Chatbot Scaffolding and Student Uptake — applied across nine datasets of 9,490 chats spanning [[intelligent-tutoring|AI tutor]] [[benchmark|benchmarks]] and real-world deployments of educational chatbots.
 - While benchmarks assume a high-scaffolding, high-student-uptake environment, students in real-world settings exhibit lower levels of uptake overall, frequently bypassing the chatbot's [[pedagogy|pedagogical]] framing to drive the interaction toward their own learning goals at little interpersonal cost.
 - Bypassing scaffolding is not necessarily detrimental; it frequently highlights a mismatch between a chatbot's pedagogical framing and the student's learning goals.
 - Future benchmarks must move beyond the assumption that students will simply take up the scaffolding, and instead evaluate how chatbots navigate diverse learning contexts and student-driven interaction patterns.

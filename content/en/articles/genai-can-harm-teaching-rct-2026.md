@@ -52,7 +52,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - There was no baseline survey for student motivation or confidence, so those outcomes are measured at endline only and cannot be read as change scores.
 - The exam showed severe ceiling compression — control mean 89.2/100, 47% of control scores ≥ 95, 12% exactly 100 — which limits statistical power on the achievement outcome.
 - The trial ran in one country (24 Turkish K-12 schools); 538 teachers were randomized but the analytical sample was 193 teachers and 2,816 students, so attrition shaped the analysis.
-- Teacher usage patterns come from the treatment arms' own interaction logs, and teachers' beliefs about AI's effect on learning were self-reported.
+- Teacher usage patterns come from the treatment arms' own interaction logs, and teachers' beliefs about AI's effect on learning were [[self-report-measures|self-reported]].
 
 ## Citation
 

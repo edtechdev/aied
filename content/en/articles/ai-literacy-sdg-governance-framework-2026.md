@@ -32,7 +32,7 @@ The study's central contribution is the **AIRE Taxonomy**, a six-level model ext
 5. **Integrate – Ethical Synthesis**: combine ethical judgment with technical understanding.
 6. **Govern – Strategic Foresight**: align AI use with institutional and societal goals.
 
-The **AI–SDG Nexus Framework** systematically maps these AI-literacy competencies onto all seventeen SDGs, and the authors describe AI literacy as an integrative, cross-cutting "18th SDG" heuristic — a cognitive and ethical bridge that channels learning into governance and sustainable development. They distinguish foundational literacy (Recognize–Apply) from advanced competency (Analyze–Govern), preserving the conventional meaning of literacy while extending it into a structured developmental pathway that supports [[curriculum-design]] and institutional policy.
+The **AI–SDG Nexus Framework** systematically maps these AI-literacy competencies onto all seventeen SDGs, and the authors describe AI literacy as an integrative, cross-cutting "18th SDG" heuristic — a cognitive and ethical bridge that channels learning into governance and sustainable development. They distinguish foundational literacy (Recognize–Apply) from advanced competency (Analyze–Govern), preserving the conventional meaning of literacy while extending it into a structured developmental pathway that supports [[curriculum-design]] and [[educational-policy-ai|institutional policy]].
 
 ## Empirical Findings
 
@@ -44,7 +44,7 @@ A survey of 300 participants from diverse professional backgrounds within a nati
 - Governance literacy showed the strongest association with Nexus Awareness (r = 0.67, p < 0.01).
 - [[stakeholders|Stakeholders]] prioritized actions aligned with SDG 16 (public awareness 24.5%, government policy 18.8%), SDG 4 (curriculum training 21.5%), and SDG 9 (industry partnerships and innovation labs).
 
-The authors conclude that literacy-based competencies should be embedded into [[curriculum-design|curricula]], institutional policies, and governance mechanisms to accelerate equitable and responsible progress toward the [[sustainability|Sustainable Development Goals]].
+The authors conclude that literacy-based competencies should be embedded into [[curriculum-design|curricula]], institutional policies, and governance mechanisms to accelerate [[equity-in-ai-education|equitable]] and responsible progress toward the [[sustainability|Sustainable Development Goals]].
 
 ## What this means for practice
 
@@ -58,7 +58,7 @@ The authors conclude that literacy-based competencies should be embedded into [[
 
 - The sample is 300 respondents from a single national context (Bangladesh); the authors state the findings should be interpreted as indicative rather than globally representative.
 - The design is cross-sectional and captures perceptions at one point in time, so the authors caution that the correlational findings "do not imply causal relationships" — the regression "predictors" describe association only.
-- All domain scores and nexus awareness are self-reported 1–5 Likert means (governance 3.21, technical 3.87), so they measure perceived readiness rather than observed capability.
+- All domain scores and nexus awareness are [[self-report-measures|self-reported]] 1–5 Likert means (governance 3.21, technical 3.87), so they measure perceived readiness rather than observed capability.
 - Policymakers are only 15% of the sample (students 40%, educators 25%, professionals 20%), which the authors say limits how far governance-specific conclusions can be generalized; no IRB review was required for the minimal-risk survey.
 
 ## Citation

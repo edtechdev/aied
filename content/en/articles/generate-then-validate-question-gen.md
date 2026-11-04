@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces [[llm]] hallucination by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.
+> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces [[llm]] [[hallucination-risk|hallucination]] by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.
 
 ## Approach
 
@@ -46,7 +46,7 @@ Automated question generation reduces manual authoring burden for educators and 
 ## Limitations
 
 - Small human evaluation: seven middle-school science teachers judged the 64 MCQs, and those items came from only 8 of the 41 learning objectives available.
-- Single subject area: the candidate pool was drawn from 41 Advanced Placement Environmental Science learning objectives, so the pipeline's behavior in other subjects is untested.
+- Single subject area: the candidate pool was drawn from 41 Advanced Placement Environmental [[science-education|Science learning]] objectives, so the pipeline's behavior in other subjects is untested.
 - Surrogate judgment at scale: the ten-run ablation relied on Gemini-2.5-Pro as an LLM judge rather than human raters, so its quality estimates inherit that model's biases.
 - One small generator: both generation and validation used a single small language model (Phi-2), so the results may not transfer to other generators or model families.
 

@@ -28,7 +28,7 @@ source_depth: full text
 > **Synthesis:** [[generative-ai|Generative AI]] has made fluent academic prose cheap, and with it the assumption that an unsupervised written submission is evidence of the student's own reasoning. Thapa and Lewis argue that the answer is not better detection but better design. Drawing on [[authentic-assessment]] and [[formative-assessment]], they set out [[process-oriented-assessment|process-oriented assessment]]: tasks that make interpretation, justification, and knowledge construction visible over time rather than only at the endpoint. Their organizing idea is epistemic authenticity — the extent to which assessment captures a learner's genuine engagement with reasoning and [[evaluative-judgment]] — and they propose four design commitments: reflective justification, staged task design, dialogic engagement, and evaluative transparency. They are candid that such designs intensify educator labor and can widen [[equity-in-ai-education|equity]] gaps unless deliberately scaffolded.
 
 ## Key Findings
-1. **Detection cannot carry the assessment burden.** Tools risk false positives and inconsistent outcomes across writing styles and contexts, raise procedural fairness problems in high-stakes decisions, and trail increasingly capable models.
+1. **Detection cannot carry the assessment burden.** Tools risk false positives and inconsistent outcomes across writing styles and contexts, raise [[legal-issues-and-risks|procedural fairness]] problems in high-stakes decisions, and trail increasingly capable models.
 2. **Reactive monitoring crowds out learning.** Detection identifies misuse only after it occurs, and relying on it pulls institutional culture toward verification and policing rather than intellectual and ethical engagement with knowledge.
 3. **The pivotal question is evidential, not technological.** The central issue is no longer whether AI-generated work can be caught, but whether assessment can still yield meaningful evidence of reasoning, judgment, and disciplinary engagement.
 4. **Epistemic authenticity is the paper's central conceptual contribution.** It names the extent to which assessment captures genuine engagement with interpretation, [[evaluative-judgment|evaluative judgment]], reasoning, and knowledge construction — a property polished output no longer reliably signals.
@@ -57,7 +57,7 @@ Four principles carry the argument into design: reflective justification, staged
 - **Instructors.** Convert one high-stakes unsupervised written task into a staged sequence with reflective justification at each checkpoint, so students explain decisions instead of submitting only a finished product.
 - **Assessment designers.** Write the four principles into the task brief: checkpoints with reasoning artifacts, a dialogic or oral exchange, and criteria students can apply to their own drafts.
 - **Administrators.** Resource the redesign before mandating it — dialogic, feedback-intensive assessment needs staffing, time, and workload recognition, and detection spending does not remove that obligation.
-- **Faculty developers.** Provide scaffolding so reflective and dialogic tasks do not reward verbal confidence learners were never taught, and treat the shift as curriculum change rather than a task swap.
+- **Faculty developers.** Provide scaffolding so reflective and dialogic tasks do not reward verbal confidence learners were never taught, and treat the shift as [[curriculum-design|curriculum]] change rather than a task swap.
 
 ## Limitations
 

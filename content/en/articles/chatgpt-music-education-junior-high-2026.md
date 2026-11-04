@@ -17,20 +17,20 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Weng and Chiang asked 508 Taiwanese junior high school students what shaped their attitude toward using [[generative-ai|ChatGPT]] for lyric learning, and answered by welding experiential marketing (XM) — Sense, Feel, Think, Act and Relate — onto the [[technology-acceptance-model|Technology Acceptance Model]]. Structural equation modeling shows the integrated model explaining 53% of the variance in attitude toward use and 63.4% in perceived enjoyment, with XM → PEOU the strongest path (Std. β = 0.630, p < 0.001). Enjoyment mediated the link from experience to attitude (PE → ATU, Std. β = 0.369, p < 0.001), and intention to use followed attitude (b = 0.716, p < 0.001). The paper argues that rational acceptance constructs under-explain emotion-driven coursework, so emotional involvement and [[prompt-engineering|prompt design]] are instructional variables rather than backdrop. It is cross-sectional and single-region, and never names the ChatGPT model version students used, so the emotional mechanism is well-evidenced while causal and technical claims stay modest.
+> **Synthesis:** Weng and Chiang asked 508 Taiwanese [[k-12|junior high]] school students what shaped their attitude toward using [[generative-ai|ChatGPT]] for lyric learning, and answered by welding experiential marketing (XM) — Sense, Feel, Think, Act and Relate — onto the [[technology-acceptance-model|Technology Acceptance Model]]. Structural equation modeling shows the integrated model explaining 53% of the variance in attitude toward use and 63.4% in perceived enjoyment, with XM → PEOU the strongest path (Std. β = 0.630, p < 0.001). Enjoyment mediated the link from experience to attitude (PE → ATU, Std. β = 0.369, p < 0.001), and intention to use followed attitude (b = 0.716, p < 0.001). The paper argues that rational acceptance constructs under-explain emotion-driven coursework, so emotional involvement and [[prompt-engineering|prompt design]] are instructional variables rather than backdrop. It is cross-sectional and single-region, and never names the ChatGPT model version students used, so the emotional mechanism is well-evidenced while causal and technical claims stay modest.
 
 ## Key Findings
 
 1. The integrated XM–TAM model explains 53% of the variance in students' attitudes toward adopting ChatGPT for lyric learning, with XM → PEOU the strongest path (Std. β = 0.630, p < 0.001).
 2. XM and PEOU jointly explain 63.4% of the variance in perceived enjoyment, and PE predicts attitude toward use (Std. β = 0.369, p < 0.001).
 3. PU, jointly explained by XM and PEOU with R² = 0.384, significantly affects ATU (b = 0.318, p < 0.001); ATU then predicts intention to use (b = 0.716, p < 0.001).
-4. The intervention was four procedures over 150 min — prompt demonstration, generation and comparison, rewriting and personalization, sharing and feedback — mapping onto Feel, Think, Sense/Act and Relate.
-5. Data came from 508 valid responses to 550 questionnaires (92.36%); female students were 59.06% of the sample and most respondents were 15 years old (322, 63.39%).
+4. The intervention was four procedures over 150 min — prompt demonstration, generation and comparison, rewriting and [[personalized-learning|personalization]], sharing and feedback — mapping onto Feel, Think, Sense/Act and Relate.
+5. Data came from 508 valid responses to 550 [[self-report-measures|questionnaires]] (92.36%); female students were 59.06% of the sample and most respondents were 15 years old (322, 63.39%).
 6. Most respondents used the free version of ChatGPT (414, 81.5%) while 94 (18.50%) used the paid version; the highest item mean was 4.42 and the lowest 3.58.
 
 ## Acceptance as an affective process
 
-The paper's move is to argue that the [[technology-acceptance-model|Technology Acceptance Model]] is a rational account of adoption, emphasizing perceived usefulness and ease of use, while music coursework is grounded in emotional resonance. Experiential marketing supplies the complement: Sense, Feel, Think, Act and Relate operationalize "learning experience" as something measurable, grounded in Kolb's experiential learning cycle. The argument rests on mediation, not a direct effect. The study reports the direct XM → ATU path as non-significant (p = 0.191), concluding that experiential appeal works through enjoyment and usefulness. One inconsistency deserves note: the paper also reports ATU as significantly affected by XM (b = 0.125, p = 0.046), so mediation is the headline but the coefficients do not fully agree with it.
+The paper's move is to argue that the [[technology-acceptance-model|Technology Acceptance Model]] is a rational account of adoption, emphasizing perceived usefulness and ease of use, while music coursework is grounded in emotional resonance. Experiential marketing supplies the complement: Sense, Feel, Think, Act and Relate operationalize "learning experience" as something measurable, grounded in Kolb's [[experiential-learning|experiential learning]] cycle. The argument rests on mediation, not a direct effect. The study reports the direct XM → ATU path as non-significant (p = 0.191), concluding that experiential appeal works through enjoyment and usefulness. One inconsistency deserves note: the paper also reports ATU as significantly affected by XM (b = 0.125, p = 0.046), so mediation is the headline but the coefficients do not fully agree with it.
 
 ## Designing the lyric-learning session
 
@@ -45,7 +45,7 @@ Confirmatory factor analysis under maximum likelihood estimation, followed by a 
 - **Instructors.** Design the emotional arc of the lesson before the technical demonstration: the strongest path (XM → PEOU, β = 0.630) links experiential appeal to ease of use.
 - **Instructors.** Run the session as staged work rather than open access, since the paper credits each stage with a distinct experiential dimension.
 - **Instructors.** Treat enjoyment as a learning signal, not a distraction: PE carried the strongest mediation to attitude.
-- **Curriculum designers.** Budget for access equity, because 81.5% of this sample was on the free tier.
+- **Curriculum designers.** Budget for access [[equity-in-ai-education|equity]], because 81.5% of this sample was on the free tier.
 - **Researchers.** Record the model and version, session dates, and access tier, none recoverable here.
 
 ## Limitations

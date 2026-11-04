@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-25T16:25:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -60,7 +60,7 @@ If you remember one thing from this page, remember that the headline number is u
 - **The field's own reviews do not survive audit.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for the claims it advanced, and among 46 randomly selected primary studies, **61%** presented validity concerns. The problem is not one bad paper; it is a reporting culture.
 - **A review can quantify the reporting skew in its own corpus.** A systematic review of 155 higher-education studies found 117 (75.5%) reported successful implementation, 124 (80.0%) covered short-term impact only, and just 23 (14.8%) reported on [[ethics]], equity or governance failures — the imbalance the checks above describe, measured on the review's own evidence base ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Self-reports flatter everyone.** People rate their own [[ai-literacy|AI skills]] about **40%** higher than performance measures show, which is why satisfaction and confidence surveys are the weakest evidence you can act on ([[self-report-measures|Self-Report Measures]], [[educational-measurement|Educational Measurement]]).
-- **Most products already in classrooms have no independent evidence at all.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]] profiled 20 student-facing AI products and found that, of the 16 with complete profiles, only seven had an independent review examining student achievement across student groups in the US; two were studied only abroad, four had studies underway and three relied on internal data alone. The authors argue that independent causal studies covering priority groups should be the expectation for all student-facing products — not yet the norm for tools schools are already using.
+- **Most products already in classrooms have no independent evidence at all.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]] profiled 20 student-facing AI products and found that, of the 16 with complete profiles, only seven had an independent review examining [[learning-gains|student achievement]] across student groups in the US; two were studied only abroad, four had studies underway and three relied on internal data alone. The authors argue that independent causal studies covering priority groups should be the expectation for all student-facing products — not yet the norm for tools schools are already using.
 
 ## Turning a finding into a decision
 

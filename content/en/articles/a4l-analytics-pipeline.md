@@ -28,7 +28,7 @@ page_kind: [framework, evaluation]
 - **Instructors.** Check who the assistant reaches, not only whether use tracks with outcomes — the Jill Watson analysis of Fall 2023 and Spring 2024 data was framed around whether demographic factors influenced adoption and whether adoption affected course performance.
 - **Researchers.** Re-run one statistical option across new datasets by changing configuration values rather than code: a Welch's t-test was configured separately for JW, VERA, and SAMI, and a power calculation first applied to VERA was extended to SAMI through a new analysis payload.
 - **Software developers.** Add capability through analysis options and configuration payloads, and rely on the daily scheduled job that re-runs only the payloads whose datasets changed.
-- **Administrators.** Fund shared analytics infrastructure instead of per-course analysis scripts: one modular platform reproduced published findings from three different [[learning-analytics|learning analytics]] deployments, each collected in a single graduate-level computer science course.
+- **Administrators.** Fund shared analytics infrastructure instead of per-course analysis scripts: one modular platform reproduced published findings from three different [[learning-analytics|learning analytics]] deployments, each collected in a single graduate-level [[cs-education|computer science]] course.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -14,7 +14,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- 'Students who use an AI tutor score higher' — before you read, is this a claim about causation or correlation, and what single piece of evidence would convert one into the other?
+- 'Students who use an [[intelligent-tutoring|AI tutor]] score higher' — before you read, is this a claim about causation or correlation, and what single piece of evidence would convert one into the other?
 - A cross-sectional survey can test a complex mediational model yet never establish causation. Why might two variables be correlated in a survey even when neither causes the other? Can you think of a way to be genuinely misled by such a correlation in education?
 - Quantitative instruments are only as good as what they measure — and the page notes instruments can measure the wrong construct. When you fill out a self-report survey about 'confidence' or 'engagement,' what could it actually be capturing instead, and how would you find out?
 - An RCT randomly assigns learners to conditions to estimate a causal effect. What makes random assignment powerful, and what practical and ethical problems arise when the 'treatment' is a possibly-helpful AI tool that some students are being denied?
@@ -32,13 +32,13 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
-- **A saturated mediation model cannot test its own ordering.** A single-wave survey of 1,020 nursing students split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through self-regulated learning, 32.35% of the total, with a model that has as many free parameters as observed covariances and so reproduces the data by construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+- **A saturated mediation model cannot test its own ordering.** A single-wave survey of 1,020 nursing students split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through [[self-regulated-learning|self-regulated learning]], 32.35% of the total, with a model that has as many free parameters as observed covariances and so reproduces the data by construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 **A near-zero total indirect effect can hide two live paths.** In one self-report wave of 568 design students, the indirect association ran 0.0929 through promotion focus and -0.0884 through prevention focus, summing to 0.0045 while the direct path carried 98.7% of the total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class active-learning lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class [[active-learning]] lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.

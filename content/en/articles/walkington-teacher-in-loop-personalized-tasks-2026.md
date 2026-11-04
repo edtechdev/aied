@@ -25,11 +25,11 @@ foundations: [teacher-role, teacher-ai-competency]
 methods: [qualitative-research]
 ---
 
-> **Synthesis:** Walkington, Feng, Pruitt-Britton, Beauchamp and Lan watched 7 middle school mathematics teachers use ChatGPT to rewrite 143 curriculum problems as [[personalized-learning|context-personalized tasks]] for their seventh graders, and analyzed the 558 prompts they wrote, the students' ratings, and three open-ended feedback questions (454, 449 and 446 responses). Personalization with a [[human-in-the-loop-ai|teacher in the loop]] happened at a broad grain size — a popular-culture topic area rather than a specific reference the student would recognize — while students asked for finer-grained, specific references. Teachers averaged 3.9 prompts (SD = 2.6) and about 4 minutes per problem, and their prompting was largely [[teacher-ai-competency|epistemic monitoring]]: fixing realism, age-appropriateness, readability and math structure, and catching inappropriate or biased outputs.
+> **Synthesis:** Walkington, Feng, Pruitt-Britton, Beauchamp and Lan watched 7 [[k-12|middle school]] mathematics teachers use [[generative-ai|ChatGPT]] to rewrite 143 [[curriculum-design|curriculum]] problems as [[personalized-learning|context-personalized tasks]] for their seventh graders, and analyzed the 558 prompts they wrote, the students' ratings, and three open-ended feedback questions (454, 449 and 446 responses). Personalization with a [[human-in-the-loop-ai|teacher in the loop]] happened at a broad grain size — a popular-culture topic area rather than a specific reference the student would recognize — while students asked for finer-grained, specific references. Teachers averaged 3.9 prompts (SD = 2.6) and about 4 minutes per problem, and their [[prompt-engineering|prompting]] was largely [[teacher-ai-competency|epistemic monitoring]]: fixing realism, age-appropriateness, readability and math structure, and catching inappropriate or biased outputs.
 
 ## Key Findings
 
-1. **Teacher-in-the-loop personalization landed at a broad grain size.** Of 415 follow-up prompts, 19 gave only a general popular-culture topic area and 105 swapped in a specific reference the teacher chose, while 56 asked the model to choose a brand or reference itself.
+1. **[[teacher-role|Teacher]]-in-the-loop personalization landed at a broad grain size.** Of 415 follow-up prompts, 19 gave only a general popular-culture topic area and 105 swapped in a specific reference the teacher chose, while 56 asked the model to choose a brand or reference itself.
 2. **Students wanted finer grain than their teachers supplied.** Of the open-ended feedback, 103 students said the problem needed no change and 30 said it should change without saying how; many of the rest asked for a specific reference swap rather than a new topic area.
 3. **Cost was about four minutes per problem.** Teachers used 558 prompts to write 143 problems, 3.9 prompts per problem (SD = 2.6), averaging 246 s (SD = 165.7 s), with teacher means from 2.0 to 5.5 minutes and 2.7 to 6.6 prompts.
 4. **Students were lukewarm on the results.** Mean interestingness was 2.46 (SD = 1.24) and mean rated closeness to their interests 2.53 (SD = 1.28) on the study's scale, with ratings peaking visually around 3–5 prompts and declining at higher prompt counts.
@@ -66,7 +66,7 @@ For [[math-education|mathematics education]] specifically, the repair prompts ab
 
 - **Seven teachers, one grade, one curriculum.** All taught seventh-grade mathematics using IM through ASSISTments, and each contributed multiple problems across two design sessions.
 - **Observation changed the setting.** Teachers were observed while prompting and had received specific training and reflection sessions, so behavior may differ from naturalistic planning.
-- **Descriptive and exploratory analysis.** Prompt counts are qualitative coding reported for transparency, and the prompt-count-to-rating relationship was examined visually without inferential tests.
+- **Descriptive and exploratory analysis.** Prompt counts are [[qualitative-research|qualitative]] coding reported for transparency, and the prompt-count-to-rating relationship was examined visually without inferential tests.
 - **No performance outcome.** The study measures student interest and perceived closeness, not learning, which the authors name as the important next step.
 - **Small feedback counts in places.** 13 responses named an inaccurate context and 5 named inaccurate numbers, so the student realism comparison is thin.
 

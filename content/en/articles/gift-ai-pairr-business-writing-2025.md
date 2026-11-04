@@ -20,7 +20,7 @@ level: [higher ed]
 ## Key Findings
 
 - The PAIRR model guides students in limited, guided use of chatbot feedback on drafts, requiring them to critically assess and reflect on both peer and [[ai-feedback-quality|AI feedback]] before revising — combining human-centered peer review with AI feedback in a way that protects writerly agency and builds [[ai-literacy]].
-- Students valued AI feedback for both higher-order and sentence-level comments but sometimes found it too general or "surface-level"; they appreciated peers' contextual and situational knowledge — e.g., "my peers looked at it from the employer's perspective… ChatGPT did not do that as much."
+- Students valued AI feedback for both higher-order and sentence-level comments but sometimes found it too general or "surface-level"; they appreciated peers' contextual and situational knowledge — e.g., "my peers looked at it from the employer's perspective… [[generative-ai|ChatGPT]] did not do that as much."
 - Students did not simply trust AI's fluent prose: one quarter of coded reflections in the larger study expressed skepticism about or noted inaccuracies in AI feedback, a sign of developing AI literacy.
 - For multilingual international students, the model addresses challenges of linguistic inadequacy, pressure to conform to standard language norms, and unfamiliarity with U.S. source-use norms — positioning AI as "an additional, supportive perspective" rather than a tool to "correct" deficient writing or a get-out-of-writing-free card.
 - Three student profiles (Pengxi, high [[self-efficacy]]; Haoyu, low self-efficacy who initially over-relied on AI; Thuy, high-achieving first-generation student) illustrate how PAIRR encourages [[critical-thinking|critical evaluation]] of AI feedback, recognition of peer-AI agreement, and preservation of students' own voices.
@@ -35,7 +35,7 @@ This is a Brief [[research-methods-aied|Research]] Report presenting the PAIRR m
 - **Instructors.** Assign the chatbot a supportive peer-reviewer role with explicit criteria and tell students it can be wrong: in the thematic coding of 131 reflections from the larger 654-student study, one quarter expressed skepticism about or noted inaccuracies in [[ai-feedback-quality|AI feedback]].
 - **Instructors.** Have students weigh both sources instead of picking one: when peer and AI feedback agreed, students found it reassuring, and when they differed, each source usually supplied complementary advice.
 - **Instructors.** Route context-heavy judgment to people and sentence-level work to the tool: students reported that peers understood assignment and course context better, while AI feedback was constructive and actionable.
-- **Instructors.** Treat guided AI use as an equity measure and keep it opt-in: underprepared students appear less likely to use AI and more likely to misuse it, so teach the criteria explicitly and let students who decline work with peer review alone.
+- **Instructors.** Treat guided AI use as an [[equity-in-ai-education|equity]] measure and keep it opt-in: underprepared students appear less likely to use AI and more likely to misuse it, so teach the criteria explicitly and let students who decline work with peer review alone.
 
 ## Limitations
 

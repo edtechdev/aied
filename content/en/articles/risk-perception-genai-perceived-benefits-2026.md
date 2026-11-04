@@ -18,11 +18,11 @@ page_kind: [framework]
 
 ## Key Findings
 
-- **Risk perception is multidimensional, not uniformly harmful.** Students reported high concern about information, security, and legal risk but relatively low concern about technical and ethical risk. Different dimensions showed markedly different — and even opposite — associations with perceived benefits, so "risk perception" cannot be treated as a single negative force.
+- **Risk perception is multidimensional, not uniformly harmful.** Students reported high concern about information, security, and [[legal-issues-and-risks|legal risk]] but relatively low concern about technical and ethical risk. Different dimensions showed markedly different — and even opposite — associations with perceived benefits, so "risk perception" cannot be treated as a single negative force.
 
 - **Security risk concern predicted higher academic and skill benefits.** Because privacy threats can be managed through practices like cautious disclosure and reviewing policies, students appraise this risk as controllable, which triggers deliberate, problem-focused engagement with the tool rather than avoidance.
 
-- **Information risk concern eroded non-academic benefits.** Content-accuracy worries are hard for students to verify, so this risk is low in controllability. Where the stakes are emotional — psychological support, daily life, leisure — such concern fostered anxiety and withdrawal, dampening the benefits students perceived.
+- **Information risk concern eroded non-academic benefits.** Content-accuracy worries are hard for students to verify, so this risk is low in controllability. Where the stakes are emotional — psychological support, daily life, leisure — such concern fostered [[anxiety-and-stress|anxiety]] and withdrawal, dampening the benefits students perceived.
 
 - **Longer usage experience amplified benefits across most domains.** Students with over a year of generative AI use reported higher benefits across academic, skill, emotional, and daily-life dimensions than those with less than six months, with leisure being the only dimension where experience made no difference.
 
@@ -41,7 +41,7 @@ Analysis proceeded through three-layer hierarchical [[research-methods-aied|hier
 ## What this means for practice
 
 - **Instructors.** Convert security-risk awareness into deliberate practice rather than avoidance by teaching cautious disclosure and review of data policies, since students who appraised privacy risk as controllable showed higher academic and skill benefits.
-- **Instructors.** Supply the verification scaffolding that information risk removes — source attribution, fact-checking indicators, and confidence information — because accuracy worries students cannot resolve on their own were associated with lower psychological, daily-life, and leisure benefits.
+- **Instructors.** Supply the verification [[scaffolding]] that information risk removes — source attribution, fact-checking indicators, and confidence information — because accuracy worries students cannot resolve on their own were associated with lower psychological, daily-life, and leisure benefits.
 - **Administrators.** Drop uniform risk minimization and allocate effort by dimension: information quality, [[privacy|data protection]], and ethical oversight each call for a different institutional response, and technical risk calls for a threshold-based "zone of productive risk" strategy — structured exposure, cognitive reappraisal training and collaborative skill-building workshops that help students cross the activation threshold without provoking disengagement — rather than warnings, since the sign of the association flips above a critical level.
 - **Administrators.** Fund introductory AI-literacy provision early in students' programs, since respondents with more than a year of use reported significantly higher academic assistance benefits than those with less than six months (β = 0.612).
 
@@ -49,7 +49,7 @@ Analysis proceeded through three-layer hierarchical [[research-methods-aied|hier
 
 - **Cross-sectional design** precludes causal inference; all relationships are statistical associations, and directionality remains unclear without longitudinal or experimental data.
 - **Sample limited to Chinese university students**, restricting generalizability to other populations and cultural contexts.
-- **Limited control variables** — AI literacy, digital competence, frequency of use, academic discipline, and prior training were not included as potential confounders.
+- **Limited control variables** — [[ai-literacy|AI literacy]], digital competence, frequency of use, academic discipline, and prior training were not included as potential confounders.
 - **Composite scores treated as observed indicators** rather than latent factors; no confirmatory factor analysis was reported, so measurement error is unmodeled and construct-level validity claims are limited; **Common method bias risk** from single-time-point [[self-report-measures|self-report data]]; the single-factor diagnostic used is low in sensitivity, and marker-variable or common latent factor analyses were not performed.
 
 ## Citation

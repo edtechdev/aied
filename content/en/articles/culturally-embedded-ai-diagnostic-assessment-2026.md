@@ -56,7 +56,7 @@ MDAF runs through five connected stages: culturally embedded task input, student
 - **Instructors.** Check that students actually perceive the cultural context as authentic and meaningful, since that perception is part of the pathway to both [[student-engagement|engagement]] and symbolic performance.
 - **Assessment designers.** Build open-ended tasks around local artifacts and practices so the mathematical relationships come from the context instead of being bolted onto a generic problem.
 - **Assessment designers.** Validate AI-generated diagnostic profiles against expert judgment using agreement statistics (such as ICC and Cohen's Kappa) before trusting them for consequential decisions.
-- **Researchers.** Replicate the framework across mathematical topics, education levels, and cultural settings before assuming its elements transfer, because cultural relevance depends on local familiarity.
+- **Researchers.** Replicate the framework across mathematical topics, [[education-levels|education levels]], and cultural settings before assuming its elements transfer, because cultural relevance depends on local familiarity.
 
 ## Limitations
 

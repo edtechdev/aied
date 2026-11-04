@@ -27,7 +27,7 @@ methods: [ai-ed-evaluation]
 
 ## Methods in Brief
 
-The framework formulates academic risk as a multitask problem with targets for both performance and dropout. Each institution's data stays local; a global server aggregates model parameters via sample-size-weighted FedAvg (with a proximal FedProx variant). Institutional heterogeneity is *parameterized* — Dirichlet (α) label skew, dropout-class imbalance (β), temporal drift, and structural missingness (γ) — rather than imposed as ad-hoc non-IID partitions. Explainability uses SHAP-based feature attributions compared as vectors: each institution's mean attribution profile is measured against a sample-size-weighted global reference via a Euclidean divergence metric (Δ), plus the RankStab rank-stability measure.
+The framework formulates academic risk as a multitask problem with targets for both performance and dropout. Each institution's data stays local; a global server aggregates model parameters via sample-size-weighted FedAvg (with a proximal FedProx variant). Institutional heterogeneity is *parameterized* — Dirichlet (α) label skew, dropout-class imbalance (β), temporal drift, and structural missingness (γ) — rather than imposed as ad-hoc non-IID partitions. [[explainable-ai|Explainability]] uses SHAP-based feature attributions compared as vectors: each institution's mean attribution profile is measured against a sample-size-weighted global reference via a Euclidean divergence metric (Δ), plus the RankStab rank-stability measure.
 
 ## What this means for practice
 

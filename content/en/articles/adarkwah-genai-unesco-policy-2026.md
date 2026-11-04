@@ -38,7 +38,7 @@ A total of **159 documents** (policy texts, institutional announcements, webpage
 - **Administrators.** Replace declarative statements with assurance structures: the analyzed policies were largely public-facing and anchored in misconduct prevention and originality concerns, so add the monitoring, validation, and review mechanisms that would make commitments enforceable.
 - **Administrators.** Do not read national AI readiness or ranking as evidence of institutional policy strength: Nordic countries and New Zealand covered the UNESCO elements more fully than higher-ranked AI Preparedness Index countries such as the Netherlands and Germany, and no publicly accessible policy was found for the German universities or Tallinn University of Technology.
 - **Faculty developers.** Build educator and learner GenAI competency programs as a named policy element. The UNESCO framework includes educator and researcher capacity, and the analysis found competency development weakly covered relative to ethics and [[academic-integrity|academic integrity]].
-- **Administrators.** Write inclusion and sustainability into the policy text itself: internet access, gender parity in AI, reskilling for older and non-traditional learners, and environmental impact were among the weakest-covered elements, so moving beyond checklist compliance means naming them explicitly.
+- **Administrators.** Write inclusion and sustainability into the policy text itself: internet access, gender parity in AI, [[professional-training|reskilling]] for older and non-traditional learners, and environmental impact were among the weakest-covered elements, so moving beyond checklist compliance means naming them explicitly.
 
 ## Limitations
 

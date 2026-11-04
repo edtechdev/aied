@@ -13,14 +13,14 @@ sources: ['raw/papers/2608.10818.md']
 confidence: medium
 ---
 
-> **Synthesis:** This pilot study (N = 22 [[stem-education|STEM]] higher-education students) evaluates AI-generated interactive fiction as an educational medium. Narrative clarity and length acceptance rated positively, engagement hovered near neutral, and story-content coherence was the weakest dimension — with quiz integration emerging as the main usability bottleneck. The authors derive concrete design implications for interactive, narrative learning experiences.
+> **Synthesis:** This pilot study (N = 22 [[stem-education|STEM]] higher-education students) evaluates AI-generated interactive fiction as an educational medium. Narrative clarity and length acceptance rated positively, engagement hovered near neutral, and story-content coherence was the weakest dimension — with quiz integration emerging as the main [[usability-research|usability]] bottleneck. The authors derive concrete design implications for interactive, narrative learning experiences.
 
 ## Key Findings
 
-1. **Generation is not enough.** Generative AI can produce interactive narrative content at scale, but scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice — quality must be validated with users, not assumed.
+1. **Generation is not enough.** [[generative-ai|Generative AI]] can produce interactive narrative content at scale, but scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice — quality must be validated with users, not assumed.
 2. **Mixed user ratings.** Participants rated narrative clarity (M = 4.11) and length acceptance (M = 4.14) positively, engagement sat near the neutral midpoint (M = 3.08, 95% CI straddling it), and story-content coherence was the weakest dimension by a clear margin (M = 2.92, with three of four items below the mid-point).
 3. **Quiz integration is the bottleneck.** [[qualitative-research|Qualitative]] feedback identified artificial in-fiction motivation for quiz prompts (six of ten responses), abrupt setting/character changes that coincided with the lowest coherence scores (≤ 1.75), and the absence of story-level consequences for wrong answers as the main friction points.
-4. **Self-report is decoupled from performance.** Correlations between sub-dimension scores and gameplay metrics were all small-to-moderate (|ρ| ≤ 0.38, none significant), so low coherence ratings are not explained by frustration over quiz performance or by the English-language stimulus (negligible language-barrier correlations).
+4. **[[self-report-measures|Self-report]] is decoupled from performance.** Correlations between sub-dimension scores and gameplay metrics were all small-to-moderate (|ρ| ≤ 0.38, none significant), so low coherence ratings are not explained by frustration over quiz performance or by the English-language stimulus (negligible language-barrier correlations).
 
 ## Background and Motivation
 

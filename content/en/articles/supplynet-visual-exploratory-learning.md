@@ -13,7 +13,7 @@ audience: [instructional designers]
 level: [adult learning]
 ---
 
-> **Synthesis:** SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
+> **Synthesis:** SupplyNet is a [[game-based-learning|gamified]] visual simulation system that uses a contextual graph-based [[llm]] [[agentic-ai|multi-agent]] framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract [[simulation|simulations]] with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
 
 ## Key Features
 
@@ -33,8 +33,8 @@ level: [adult learning]
 
 ## Limitations
 
-- The user study recruited 14 participants (4 female, 10 male, aged 21–28) via university platforms, all with foundational supply chain knowledge, so the findings concern perceived usability, engagement, and learning support in a student sample rather than measured learning outcomes.
-- Evaluation rests on self-report: a five-point Likert questionnaire and semi-structured interviews after two roughly 90-minute sessions, with no delayed post-test of what participants retained or transferred.
+- The user study recruited 14 participants (4 female, 10 male, aged 21–28) via university platforms, all with foundational supply chain knowledge, so the findings concern perceived [[usability-research|usability]], engagement, and learning support in a student sample rather than measured learning outcomes.
+- Evaluation rests on [[self-report-measures|self-report]]: a five-point Likert questionnaire and semi-structured interviews after two roughly 90-minute sessions, with no delayed post-test of what participants retained or transferred.
 - The comparison covers one domain and a single baseline simulation (the HBS Beer Game), and the authors state cross-subject deployment still needs domain-specific graph schemas, agent heuristics, and performance metrics to be defined with instructors.
 - Computational cost scales with the agent count, and the authors note that while simulation cost at the current scale is acceptable, it could become a concern in custom mode as network size grows.
 

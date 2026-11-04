@@ -19,7 +19,7 @@ methods: [qualitative-research]
 
 ## Key Findings
 
-- **A layered help-seeking ecosystem.** LLMs do not displace peers and instructors; they become a low-barrier first step (e.g., "first ChatGPT, then classmates, and lastly teachers"). [[higher-ed|Peers]] remain important for conceptual negotiation and [[affective-computing|affective]] support, and instructors for complex, high-stakes issues.
+- **A layered help-seeking ecosystem.** LLMs do not displace peers and instructors; they become a low-barrier first step (e.g., "first [[generative-ai|ChatGPT]], then classmates, and lastly teachers"). [[higher-ed|Peers]] remain important for conceptual negotiation and [[affective-computing|affective]] support, and instructors for complex, high-stakes issues.
 - **Four-stage LLM-mediated help-seeking process** (adapted from Karabenick & Berger's model): (1) deciding whether help is needed — students try tasks independently first to preserve learning value; (2) choosing a source — ChatGPT as immediate first step, then peers, then instructors; (3) determining the type of help — hints, explanations, [[scaffolding]], routine-work streamlining, or extending learning; (4) judging the help — exercising [[trust|selective trust]], verifying AI outputs against coursework or with humans.
 - **Instrumental over executive help-seeking.** Students favored instrumental help-seeking (hints, step-by-step guidance, concept explanations) over executive help-seeking (direct solutions), deliberately using ChatGPT as "a hint, an assisting tool, but not the standalone solution."
 - **Selective trust and verification.** Students verify LLM outputs with peers, course materials, or instructors when accuracy is uncertain — e.g., "I only go to the TA if we can't tell whether ChatGPT is making things up."
@@ -34,7 +34,7 @@ methods: [qualitative-research]
 ## Limitations
 
 - The study interviewed 20 students (14 female, 6 male) at a single large Swedish STEM university, recruited by course announcements on Canvas, so volunteers likely over-represent students already using LLM chatbots.
-- Data are 30–40 minute semi-structured interviews conducted between mid-May and July 2024 — self-reported accounts of study habits rather than observed help-seeking behavior or learning outcomes.
+- Data are 30–40 minute semi-structured interviews conducted between mid-May and July 2024 — [[self-report-measures|self-reported]] accounts of study habits rather than observed help-seeking behavior or learning outcomes.
 - There is no comparison or control condition and no performance measure; the findings describe students' stated intentions and reasoning, not what they actually did when studying.
 - The findings sit in contrast to studies reporting over-reliance on LLM output, and the authors do not establish whether the difference stems from the population, the tasks, or the interview prompts used to elicit responses.
 

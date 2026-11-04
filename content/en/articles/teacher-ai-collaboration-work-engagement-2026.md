@@ -55,7 +55,7 @@ The paper's contribution is treating [[human-ai-collaboration]] as more than too
 
 - The sample came from university teachers in one Chinese province, so regional and cultural context may limit generalizability; the authors call for replication in other provinces, countries and [[higher-ed|higher education]] systems.
 - All measures were self-reported, and although the time-lagged design reduces common method bias, social desirability and subjective perception may still shape the responses.
-- Teacher–AI collaboration was measured as a single overall construct, so the study cannot separate how AI use in lesson preparation, feedback, assessment or student support produces different outcomes.
+- Teacher–AI collaboration was measured as a single overall construct, so the study cannot separate how AI use in lesson preparation, feedback, assessment or [[student-support-and-success|student support]] produces different outcomes.
 - The design is non-experimental and observational, so no causal direction is established between collaboration, the two mediators and engagement.
 
 ## Citation

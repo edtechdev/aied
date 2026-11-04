@@ -18,7 +18,7 @@ AdaPT uses transformers to adapt lesson plans across regional and differentiated
 
 ## What this means for practice
 
-- **Instructors.** Adapt a proven lesson plan to your class instead of prompting for a new one: AdaPT is built on the premise that adapting an existing plan preserves alignment with local curricula, while generating from scratch adds workload, and its teacher participants reported that the system reduced their perceived preparation workload and fit their natural workflow.
+- **Instructors.** Adapt a proven lesson plan to your class instead of [[prompt-engineering|prompting]] for a new one: AdaPT is built on the premise that adapting an existing plan preserves alignment with local curricula, while generating from scratch adds workload, and its teacher participants reported that the system reduced their perceived preparation workload and fit their natural workflow.
 - **Instructors.** Write down what you already know about your students — readiness, interests, and learning gaps — as an explicit profile before transforming a plan, because the formative study found teachers lacked systematic student profile data and relied on personal experience, which made adaptation inconsistent.
 - **Instructors.** Budget for multi-round refinement rather than one-shot acceptance: all six formative-study teachers post-edited AI output, and one generated with one AI and rewrote with another, so build an inspect-and-revise pass into your [[curriculum-design|curriculum]] planning.
 - **Designers.** Ship multi-level versions of a single plan, a standardized format for quick comprehension, and plug-and-play export — the specific features participants said would lower adoption barriers and counter teacher reluctance.

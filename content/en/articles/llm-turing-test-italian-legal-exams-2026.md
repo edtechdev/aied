@@ -23,8 +23,8 @@ The article reports on a blind Turing Test experiment, assessing the performance
 
 - **Assessment professionals.** Separate tasks before judging capability: with the same out-of-the-box models and blind protocol, bar-exam cumulative scores ranged from 26 to 79 out of 100, and every model failed the notary exam.
 - **Assessment professionals.** Keep the official grids and formal-requirement checks in place: a paper can fail on form while reading well — only the human candidate met all mandatory requirements on the inter vivos notary assignment, while the best model, Gemini 2.5 Pro, failed 9 of 12.
-- **Assessment professionals.** Report the comparison conditions alongside the scores: the models had internet access, thinking mode, and no legal fine-tuning, while candidates under exam conditions work from a very limited set of materials.
-- **Researchers.** Test for gullibility, not only accuracy: models were misled by deliberate tricks and snares embedded in the notary assignment, which the authors read as a caution for deploying agentic AI in legal work.
+- **Assessment professionals.** Report the comparison conditions alongside the scores: the models had internet access, thinking mode, and no legal [[llm-training-and-fine-tuning|fine-tuning]], while candidates under exam conditions work from a very limited set of materials.
+- **Researchers.** Test for gullibility, not only accuracy: models were misled by deliberate tricks and snares embedded in the notary assignment, which the authors read as a caution for deploying [[agentic-ai|agentic AI]] in legal work.
 - **Researchers.** Look for task-specific profiles instead of a leaderboard: Gemini 2.5 Pro reached 21 out of 24 on the judges' exam and exceeded the human benchmark on the bar exam, yet goal-directed drafting under formal constraints defeated all models.
 
 ## Limitations

@@ -60,7 +60,7 @@ The [[meta-analysis-systematic-review|literature review]] is candid about uneven
 
 - **Assessment professionals.** Compile the assessment artifact base before deploying AI: program learning outcomes, course syllabi, prior alignment matrices, and accreditation or program review frameworks in one persistent project environment, so the model can reason across the full corpus rather than treating each query as independent.
 - **Assessment professionals.** Use AI for synthesis and reserve human judgment for interpretation — treat the first-pass matrix or draft as a starting point, then correct errors and make the interpretive and improvement decisions yourself.
-- **[[teacher-role]]** Redesign assignments so reasoning is visible — iterative drafts, annotated sources, reflective commentaries — because that evidence is both more resistant to AI substitution and more useful for developmental formative assessment.
+- **[[teacher-role]]** Redesign assignments so reasoning is visible — iterative drafts, annotated sources, reflective commentaries — because that evidence is both more resistant to AI substitution and more useful for developmental [[formative-assessment|formative assessment]].
 - **Faculty developers.** Treat AI assessment literacy as professional expertise requiring deliberate cultivation, and put the development investment before rather than after the technology deployment.
 - **Administrators.** Ask the validity question at the level of outcome data rather than adjudicating individual students, and pair any pre- and post-2022 comparison with an AIAS classification of the assignment.
 

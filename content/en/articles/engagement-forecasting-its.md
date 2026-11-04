@@ -19,7 +19,7 @@ methods: [benchmark]
 ## Overview
 
 **Benchmarking 15 predictors on 425 middle-school students:**
-- Feature-based models (regressions, decision trees, neural networks) reduce **MAE by 22–33%** compared to heuristic baselines
+- Feature-based models (regressions, decision trees, [[machine-learning|neural networks]]) reduce **MAE by 22–33%** compared to heuristic baselines
 - Percentile heuristics (adapted from prior behavioral domains) systematically **overpredict** — they assume past behavior continues, missing disengagement signals
 - Feature-based models better track actual practice trajectories week-to-week
 
@@ -27,13 +27,13 @@ methods: [benchmark]
 - **Effort forecasting** driven primarily by **recent activity features** (how much the student practiced recently)
 - **Progress forecasting** depends more on **learner-state** and **content difficulty** signals (what the student knows and how hard the material is)
 
-**Human validation:** Semi-structured interviews with 8 college tutors confirmed that tutors reason differently about effort goals vs. progress goals, mirroring the model's feature importance patterns. This strengthens the case for practical deployment.
+**Human validation:** Semi-structured interviews with 8 college tutors confirmed that tutors reason differently about effort goals vs. progress goals, mirroring the model's [[explainable-ai|feature importance]] patterns. This strengthens the case for practical deployment.
 
 ## Connections to the ITS Research Landscape
 
 This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[golrang-propact-pair-programming-2026]].
 
-The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
+The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within [[learning-analytics|educational data mining]].
 
 ## Methodological Contribution
 
@@ -47,7 +47,7 @@ The paper establishes a **reproducible [[benchmark]]** for engagement forecastin
 
 ## Limitations
 - The study is confined to a single ITS, subject domain and platform-specific logging, and features such as opportunity counters, fine-grained timestamps and skill tags for AFM are not universal and may need proxies or simplified learner-state estimates elsewhere.
-- The analysis does not distinguish classes that assign homework from those that do not, though the authors note these contexts differ in how student agency and self-regulated learning operate.
+- The analysis does not distinguish classes that assign homework from those that do not, though the authors note these contexts differ in how [[agency|student agency]] and [[self-regulated-learning|self-regulated learning]] operate.
 - Both prediction targets are imperfect proxies for effort and learning progress, and alternative proxies such as problem attempts, session frequency and active-versus-idle time were not compared in this work.
 - Human validation came from interviews with only 8 college tutors, while the forecasting evaluation used 425 middle-school students, so the tutor reasoning evidence rests on a different population and a much smaller sample than the predictive benchmark.
 

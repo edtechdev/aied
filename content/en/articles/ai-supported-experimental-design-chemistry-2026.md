@@ -35,14 +35,14 @@ This complements the knowledge base's framing of [[ai-literacy|critical AI use]]
 - **Instructors.** Have students design their own lab manual with AI support and then implement it themselves: in this upper-division analytical chemistry course the design-then-implement sequence raised confidence in experimental design from a median of 3 with 52% neutral (n = 29) before the project to a median of 4 with 60% agreeing or strongly agreeing (n = 32) afterward.
 - **Instructors.** Route AI-generated manuals through independent testing and certification professionals — students cited that external validation, alongside successful completion of their own experiment, as a main reason for their confidence gains.
 - **Instructors.** Plan for the staff role shift from demonstrating "cookbook" experiments to guiding and advising students through unexpected problems, and budget for the significant workload increase staff reported, which varied with experiment complexity.
-- **Learners.** Use AI for ideation, scoping, and language-related tasks while verifying critical details against your own literature review — the students in this course were wary of inaccuracies in chemical calculations and advanced chemistry content and checked them independently.
+- **Learners.** Use AI for ideation, scoping, and language-related tasks while verifying critical details against your own [[meta-analysis-systematic-review|literature review]] — the students in this course were wary of inaccuracies in chemical calculations and advanced chemistry content and checked them independently.
 
 ## Limitations
 
 - The evaluation rests on 31 students and 3 staff who volunteered for pre/post surveys and focus groups in a single upper-division laboratory course run once, so students who declined may hold different views.
 - Interview coverage was partial: data came from 7 of the 8 laboratory groups, one group did not attend at all, and two groups were represented by only a single member.
-- Groups of 4–5 students, forced by laboratory space and equipment limits, meant individuals took part only in assigned steps — as one student put it, during standard solution preparation "only two students could participate, while the others simply waited behind them" — so self-reported confidence may rest on incomplete understanding.
-- All outcomes are self-assessments and focus group perceptions, with no comparison group and no objective measure of experimental design skill.
+- Groups of 4–5 students, forced by laboratory space and equipment limits, meant individuals took part only in assigned steps — as one student put it, during standard solution preparation "only two students could participate, while the others simply waited behind them" — so [[self-report-measures|self-reported]] confidence may rest on incomplete understanding.
+- All outcomes are [[self-assessment|self-assessments]] and focus group perceptions, with no comparison group and no objective measure of experimental design skill.
 
 ## Citation
 

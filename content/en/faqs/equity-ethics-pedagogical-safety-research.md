@@ -43,7 +43,7 @@ Two design implications follow. Target newer institutions and underserved region
 
 ## Put disabled learners in the design room
 
-Include learners with disabilities in design and evaluation, test actual interfaces against accessibility requirements, and provide equivalent routes to participate and to demonstrate learning. Technical compliance and inclusive teaching are separate tests, and [[accessibility|Accessibility]] covers both.
+Include [[special-education|learners with disabilities]] in design and evaluation, test actual interfaces against accessibility requirements, and provide equivalent routes to participate and to demonstrate learning. Technical compliance and [[inclusive-learning|inclusive teaching]] are separate tests, and [[accessibility|Accessibility]] covers both.
 
 A [[ko-hughes-vsd-student-centered-its-2026|value-sensitive design study]] with community college students, instructors, and developers shows the work in practice. It produced 16 value-aligned features across [[explainable-ai|explainability]] (E1-E5), [[human-in-the-loop-ai|human-in-the-loop]] control (H1-H9), and [[privacy]] (P1-P4), and surfaced tensions rather than tidy answers: transparency against interpretability, privacy against instructional insight, learner [[agency]] against system-guided [[scaffolding]]. Expect to adjudicate those, and record which way you went.
 
@@ -61,7 +61,7 @@ Practitioners converge on a compatible design. In a [[reichert-human-centered-ll
 
 ## Combine methods, and show the path from data to claim
 
-Disaggregated [[quantitative-research|quantitative]] outcomes can reveal [[differential-effects-across-learner-groups|differential effects]]. Interviews, observations, focus groups, and co-design surface barriers, harms, cultural assumptions, and learner experience that aggregate scores miss. The [[research-methods-aied|Research Methods in AIED]] synthesis treats triangulation as necessary because no single [[qualitative-research|qualitative]] or quantitative method maximizes causal inference, ecological validity, contextual understanding, and generalizability at once.
+Disaggregated [[quantitative-research|quantitative]] outcomes can reveal [[differential-effects-across-learner-groups|differential effects]]. Interviews, observations, focus groups, and co-design surface barriers, harms, cultural assumptions, and [[student-experience|learner experience]] that aggregate scores miss. The [[research-methods-aied|Research Methods in AIED]] synthesis treats triangulation as necessary because no single [[qualitative-research|qualitative]] or quantitative method maximizes causal inference, ecological validity, contextual understanding, and generalizability at once.
 
 Your own analysis needs the same discipline. [[chain-behind-claim-warrantability-2026|The warrantability proposal]] argues that an AI-assisted interpretation stays inspectable, contestable, and revisable when it ships with artifacts such as source-linked topic tables, lens stacks, and evidence rivers. A fluent summary should not hide the pathway that produced it.
 

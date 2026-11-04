@@ -13,7 +13,7 @@ sources: ['raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md']
 confidence: high
 page_kind: [synthesis]
 ---
-> **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *[[research-methods-aied|research]]* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about [[generative-ai|generative AI]] (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced [[student-engagement|student engagement]] and subject knowledge, support for coding skills, assistive [[ai-technologies|technologies]] for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **[[machine-learning]] tools for bioimaging**. Evidence suggests tools like iNaturalist can improve [[learning-gains|learning outcomes]], promote engagement, and foster environmental stewardship. Challenges include **[[academic-integrity|academic integrity]], assessment design, misinformation, and the potential erosion of [[critical-thinking|critical thinking]] and independent research skills**, requiring [[educational-development|professional development]] for [[teacher-role|educators]] and clear guidance for students. 
+> **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *[[research-methods-aied|research]]* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about [[generative-ai|generative AI]] (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced [[student-engagement|student engagement]] and subject knowledge, support for coding skills, assistive [[ai-technologies|technologies]] for [[special-education|students with disabilities]], and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **[[machine-learning]] tools for bioimaging**. Evidence suggests tools like iNaturalist can improve [[learning-gains|learning outcomes]], promote engagement, and foster environmental stewardship. Challenges include **[[academic-integrity|academic integrity]], [[assessment|assessment design]], misinformation, and the potential erosion of [[critical-thinking|critical thinking]] and independent research skills**, requiring [[educational-development|professional development]] for [[teacher-role|educators]] and clear guidance for students. 
 
 ## The context
 
@@ -38,7 +38,7 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 
 ## What this means for practice
 
-- **Instructors.** Reach for specialized, evidence-backed tools as well as chatbots — image-based species identification (iNaturalist, Google Lens), [[machine-learning]] bioimaging tools, and predictive modeling to flag at-risk students — rather than treating [[generative-ai|GAI]] as the only option.
+- **Instructors.** Reach for specialized, evidence-backed tools as well as [[conversational-ai|chatbots]] — image-based species identification (iNaturalist, Google Lens), [[machine-learning]] bioimaging tools, and predictive modeling to flag at-risk students — rather than treating [[generative-ai|GAI]] as the only option.
 - **Instructors.** Stop relying on detection: GAI completes traditional assessments easily and detection remains imperfect, so redesign tasks that AI cannot trivially complete and assess understanding through them.
 - **Instructors.** Teach students to check AI output for [[hallucination-risk|misinformation and hallucination]] explicitly, so that [[cognitive-offloading|overreliance]] does not erode [[critical-thinking|critical thinking]] and independent research skills.
 - **Instructors.** Put [[ai-technologies|assistive AI supports]] in place for students with disabilities and build coding support into biology courses, both of which the reviewed evidence ties to engagement and subject knowledge.
@@ -47,8 +47,8 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 
 - The review covers research published between 2020 and 2024 and adds no new primary data, so it can map the field but cannot test any intervention.
 - The reviewed corpus is dominated by individual case studies with varied levels and quality of evaluation; the authors find a dearth of large-scale, national or international studies.
-- Longitudinal evidence is scarce: the review reports limited research on AI's long-term impact on student retention, comprehension, and career outcomes in biology.
-- Several included studies lacked a control group (for example, an AI-enhanced e-book study), and the authors identify fieldwork, authentic assessment, and the environmental cost of AI as gaps in the literature they reviewed.
+- Longitudinal evidence is scarce: the review reports limited research on AI's long-term impact on [[student-support-and-success|student retention]], comprehension, and career outcomes in biology.
+- Several included studies lacked a control group (for example, an AI-enhanced e-book study), and the authors identify fieldwork, [[authentic-assessment|authentic assessment]], and the environmental cost of AI as gaps in the literature they reviewed.
 
 ## Citation
 

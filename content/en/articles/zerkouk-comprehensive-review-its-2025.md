@@ -26,7 +26,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 **Student modeling challenges.** [[student-modeling]] remains both the foundation and the bottleneck for ITS. While [[knowledge-tracing]] techniques (including Bayesian approaches like [[stanbkt-bayesian-knowledge-tracing]] and deep learning variants) have improved, the review identifies persistent gaps in modeling higher-order cognitive processes, metacognition, and [[motivation|motivational]] states. This connects to the [[engagement-intensity-learner-modeling]] and [[metacognition]] literatures.
 
-**Scientific rigor deficit.** One of the review's most important contributions is its [[research-methods-aied|methodological]] critique. Many ITS studies suffer from weak experimental designs — small sample sizes, absence of control groups, short intervention durations, and inadequate statistical analyses. The authors call for greater scientific rigor, including [[rct]] where feasible, pre-registration of study designs, and transparent reporting aligned with educational research standards. This methodological critique connects to broader concerns in [[ai-ed-evaluation]] about the quality of evidence in AI education research.
+**Scientific rigor deficit.** One of the review's most important contributions is its [[research-methods-aied|methodological]] critique. Many ITS studies suffer from weak experimental designs — small sample sizes, absence of control groups, short intervention durations, and inadequate statistical analyses. The authors call for greater scientific rigor, including [[rct]] where feasible, pre-registration of study designs, and transparent reporting aligned with educational research standards. This methodological critique connects to broader concerns in [[ai-ed-evaluation]] about the quality of evidence in [[ai-education|AI education]] research.
 
 ## Synthesis with Current Knowledge Base Evidence
 
@@ -36,7 +36,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠[[teacher-role|teaching]] quality) | — |
 | NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[hazra-safetutors-pedagogical-safety-2026]] (emotional risks, parasocial dependency) |
-| Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[golrang-propact-pair-programming-2026|ProPACT]] (effective but requires eye-tracking hardware) |
+| [[agentic-ai|Multi-agent]] architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[golrang-propact-pair-programming-2026|ProPACT]] (effective but requires eye-tracking hardware) |
 
 ## Key Implications for the Field
 
@@ -51,14 +51,14 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 - **Researchers.** State the tutoring principles a system is meant to enact before evaluating it, because the review finds many implementations driven by technical capability rather than pedagogical grounding, which leaves their behavior untraceable to any stated theory.
 - Design [[rct|RCT-quality]] studies that separate the effect of a specific ITS feature from confounds such as novelty, instructor quality, and student self-selection, and run them in real educational settings rather than laboratories.
 - Pre-register the design and report a unified set of key performance indicators, since evaluation methods ranging from user surveys to pre/post testing currently block comparison and reproducibility across studies.
-- Disaggregate outcomes by gender, socioeconomic background, and prior-knowledge level; the review finds demographic disaggregation consistently absent from reported results.
-- **Designers.** Model metacognition, motivation, and affect alongside domain knowledge and embed [[learning-analytics]] from the first deployment, then treat benchmark scores as a starting point rather than evidence of classroom effectiveness and plan explicitly for [[curriculum-design|curriculum]] alignment, teacher training, and LMS integration.
+- Disaggregate outcomes by gender, socioeconomic background, and [[prior-knowledge]] level; the review finds demographic disaggregation consistently absent from reported results.
+- **Designers.** Model metacognition, motivation, and affect alongside domain knowledge and embed [[learning-analytics]] from the first deployment, then treat benchmark scores as a starting point rather than evidence of classroom effectiveness and plan explicitly for [[curriculum-design|curriculum]] alignment, [[teacher-education|teacher training]], and LMS integration.
 
 ## Limitations
 
 - Inclusion required a sample of at least 100 participants and a validation period of at least 6 weeks, so smaller but well-controlled studies are systematically excluded from the 127 articles reviewed.
 - The review screened 37,617 records down to 127 articles plus 26 web reports, restricted to English-language, peer-reviewed work indexed in Web of Science, Scopus, IEEE Xplore, and Springer.
-- Its effectiveness conclusions rest on studies the review itself judges to be mostly short-term and controlled, measured in part by self-reported engagement and satisfaction that may not correlate with measured learning.
+- Its effectiveness conclusions rest on studies the review itself judges to be mostly short-term and controlled, measured in part by [[self-report-measures|self-reported]] engagement and satisfaction that may not correlate with measured learning.
 - The headline figures — roughly 20% improvement for ITS and up to 98% for individual human tutoring — are drawn from heterogeneous evaluations with inconsistent outcome measures, so they are not a common effect size.
 
 ## Citation

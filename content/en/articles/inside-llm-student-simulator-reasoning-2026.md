@@ -20,7 +20,7 @@ page_kind: [framework, evaluation]
 ## Key Findings
 
 1. LLM-based student simulators reproduce observable actions but fail to model the latent reasoning behind them; two students can submit identical code for entirely different reasons, so action alone is a partial view of student cognition.
-2. INSIDE fine-tunes models to generate internal dialogue grounded in [[learning-theories|Bloom's Taxonomy]] across cognitive, affective, and action dimensions, trained on paired think traces and actions that are reconstructed via retrospective inference with a teacher model.
+2. INSIDE fine-tunes models to generate internal dialogue grounded in [[learning-theories|Bloom's Taxonomy]] across cognitive, affective, and action dimensions, trained on paired think traces and actions that are reconstructed via retrospective inference with a [[teacher-role|teacher]] model.
 3. On action fidelity, fine-tuned INSIDE models produce code distributions closest to real students (lowest Wasserstein distance) on familiar problems and match plain fine-tuning on unseen problems, while prompting baselines maintain artificially high pass rates.
 4. On reasoning quality, INSIDE achieves the highest alignment between generated internal dialogue and ground-truth code edits (up to 57.9%), and—unlike prompting baselines—does so without sacrificing action fidelity, bridging explanation and behavior.
 
@@ -63,7 +63,7 @@ On reasoning quality, INSIDE achieves the highest alignment across both settings
 - **Designers.** Surface the internal dialogue, not just the predicted action: INSIDE reached 51.8% (test_OP) and 57.9% (test_NP) alignment between generated reasoning and real code edits without losing action fidelity, so the traces can expose likely misconceptions.
 - **Researchers.** Evaluate tutors against reconstructed student reasoning before deployment, using the think traces to test whether feedback resolves a misconception rather than only whether the next submission passes.
 - **Designers.** Score simulators on the pass-rate trajectory, not raw accuracy: prompting baselines held ~80% pass rates from the first attempt while real students started low and rose late, and INSIDE's best mean absolute error was 0.094.
-- **Designers.** Prefer fine-tuned open models over larger prompted ones for student-like reasoning — GPT-5-BloomCoT reached only 45.5% alignment versus 51.8% for Qwen2.5-7B-INSIDE — and reuse the traces for reasoning-based clustering instead of surface behavior.
+- **Designers.** Prefer fine-tuned [[open-source|open models]] over larger prompted ones for student-like reasoning — GPT-5-BloomCoT reached only 45.5% alignment versus 51.8% for Qwen2.5-7B-INSIDE — and reuse the traces for reasoning-based clustering instead of surface behavior.
 - **Researchers.** Validate the LLM judge before trusting alignment scores: it was checked against teacher traces (95.2% coverage) and human annotations (88.0% agreement, κ = 0.754).
 
 ## Limitations

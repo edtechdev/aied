@@ -26,7 +26,7 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Assessment designers.** Position the LLM as a secondary rater rather than a substitute — appropriate for first-round [[automated-essay-scoring|essay scoring]] in low-stakes contexts, with borderline essays flagged and routed to teachers.
+- **Assessment designers.** Position the [[llm]] as a secondary rater rather than a substitute — appropriate for first-round [[automated-essay-scoring|essay scoring]] in low-stakes contexts, with borderline essays flagged and routed to teachers.
 - **Instructors.** Constrain prompts to state acceptable error tolerance and to suppress automatic rewards for syntactic complexity, protecting low-proficiency writers from over-penalization.
 - **Assessment designers.** Score content fulfillment and language quality through separate channels so that surface accuracy does not dictate the final judgment.
 - **Researchers.** Audit feature-weighting patterns by proficiency group before reusing a model across student populations, because LLM weights shifted more across groups than human raters' weights did.

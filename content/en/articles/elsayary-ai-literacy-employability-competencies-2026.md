@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This cross-sectional survey examined how self-reported AI literacy relates to perceived employability competencies in 380 university students recruited through Prolific, pooled into Middle East (n=284; 74.7%) and Gulf (n=96; 25.3%) residence codes. The contextually compiled SAILEC-2025 questionnaire retained four self-reported AI literacy dimensions (Understand & Knowledge, Analyze & Evaluate, Attitudes & Mindsets, and a combined Use & Application/Create & Innovate composite) and eight perceived employability composites after exploratory factor analysis. Mean self-ratings were high in both domains. Hierarchical regression showed that the four AI literacy dimensions added ΔR2=0.554 to a model explaining 60.8% of the variance in overall perceived employability readiness, with Analyze & Evaluate strongest. In PLS-SEM, Attitudes & Mindsets was statistically involved in theory-ordered indirect associations linking Understand & Knowledge and Use & Application/Create & Innovate to all eight employability outcomes. Every measure was a single-session student self-assessment, so no causal, objectively assessed competence, employer-rated, or employment-outcome claims follow.
+> **Synthesis:** This cross-sectional survey examined how [[self-report-measures|self-reported]] AI literacy relates to perceived employability competencies in 380 university students recruited through Prolific, pooled into Middle East (n=284; 74.7%) and Gulf (n=96; 25.3%) residence codes. The contextually compiled SAILEC-2025 questionnaire retained four self-reported AI literacy dimensions (Understand & Knowledge, Analyze & Evaluate, Attitudes & Mindsets, and a combined Use & Application/Create & Innovate composite) and eight perceived employability composites after exploratory factor analysis. Mean self-ratings were high in both domains. Hierarchical regression showed that the four AI literacy dimensions added ΔR2=0.554 to a model explaining 60.8% of the variance in overall perceived employability readiness, with Analyze & Evaluate strongest. In PLS-SEM, Attitudes & Mindsets was statistically involved in theory-ordered indirect associations linking Understand & Knowledge and Use & Application/Create & Innovate to all eight employability outcomes. Every measure was a single-session student [[self-assessment]], so no causal, objectively assessed competence, employer-rated, or employment-outcome claims follow.
 
 ## Key Findings
 
@@ -50,7 +50,7 @@ Two hierarchical regressions tested the dimensions against overall perceived emp
 ## What this means for practice
 
 - Treat AI literacy as multidimensional: the evaluative (Analyze & Evaluate) and affective (Attitudes & Mindsets) dimensions behaved differently from foundational knowledge in this sample.
-- Where programs target perceived career readiness, attend to critical evaluation of AI outputs and students' orientation towards AI; knowledge and hands-on use were weaker there.
+- Where programs target perceived career readiness, attend to critical [[ai-ed-evaluation|evaluation of AI]] outputs and students' orientation towards AI; knowledge and hands-on use were weaker there.
 - Do not read high self-ratings as competence: pair self-report instruments with objective knowledge tests and authentic AI-task performance assessments, and report sample composition alongside results, before drawing program conclusions.
 
 ## Limitations

@@ -40,7 +40,7 @@ reviewed_by: [editor]
 
 Mata, Russell, and Page trace durability to organizational choices rather than to the technology. Because the channel is centrally operated rather than distributive like email, where to house it mattered: the Office of the Registrar, which tracks matriculation and enrollment and already contacts newly admitted students, sat at the center of the collaboration and data-flow diagram — a [[change-management]] decision as much as a technical one. One communication specialist wrote every campaign to hold a consistent voice, and other team members monitored responses to shape later outreach and the knowledge base.
 
-Cross-unit coordination supplied the targeting. Because student data is not centralized at CSUN, a FAFSA reminder required Financial Aid to identify non-filers and the Registrar to pass that subset to the chatbot team. The same friction explains the drift toward broad campaigns: customization demanded interoffice data sharing that was burdensome to sustain. Human labor stayed inside the loop — the non-generative AI answered questions matched to a pre-programmed, university-approved knowledge base and flagged the rest for an administrator, whose reply was added back into the knowledge base. The authors argue this human component is what reaches students who are hard to engage by email or phone, a point they tie to [[equity-in-ai-education]].
+Cross-unit coordination supplied the targeting. Because student data is not centralized at CSUN, a FAFSA reminder required Financial Aid to identify non-filers and the Registrar to pass that subset to the chatbot team. The same friction explains the drift toward broad campaigns: customization demanded interoffice data sharing that was burdensome to sustain. Human labor stayed inside the loop — the non-generative AI answered questions matched to a pre-programmed, university-approved knowledge base and flagged the rest for an [[administrator]], whose reply was added back into the knowledge base. The authors argue this human component is what reaches students who are hard to engage by email or phone, a point they tie to [[equity-in-ai-education]].
 
 ## Why task completion moves while performance and persistence do not
 
@@ -60,7 +60,7 @@ The nulls are precise rather than underpowered, which pushes against a sample-si
 
 - Data silos blocked evaluation of most targeted campaigns: the team could not readily access certain data elements, so the authors could not report effects for FAFSA filing reminders or most other targeted outreach.
 - Spillover cannot be tested or adjusted for. During the pandemic, treated students may have shared chatbot messages with control-group peers, and the design does not let the authors correct estimates for any resulting attenuation.
-- The setting is one institution. CSUN's student population may differ from others', though the authors argue the coordination, data-sharing and sustainability challenges are likely to apply more widely.
+- The setting is one institution. CSUN's [[learners|student population]] may differ from others', though the authors argue the coordination, data-sharing and sustainability challenges are likely to apply more widely.
 - The technology is non-generative. Lessons about coordination, data governance and engagement are offered as likely relevant to generative AI tools, but no generative system was tested.
 
 ## Citation

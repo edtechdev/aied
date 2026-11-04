@@ -63,7 +63,7 @@ The remaining gap is about trajectories of capability, and one added posttest do
 
 "AI-supported learning" usually bundles several changes: new feedback, added reflection, peer discussion, different task sequences, altered assessment incentives. A package that succeeds does not tell you which components were necessary.
 
-[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] is a real advance on that question. Among 1,176 first-year undergraduates, reflective and hybrid designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined self-evaluation, [[peer-assessment|peer feedback]], and AI critique. That separates how feedback is organized and used from whether students have access to feedback at all.
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] is a real advance on that question. Among 1,176 first-year undergraduates, reflective and hybrid designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined [[self-assessment|self-evaluation]], [[peer-assessment|peer feedback]], and AI critique. That separates how feedback is organized and used from whether students have access to feedback at all.
 
 Still open: the contribution and timing of initial independent attempts, self-explanation, peer input, corrective feedback, hints, and fading assistance, and how each interacts with [[prior-knowledge|prior knowledge]] and task difficulty.
 
@@ -83,7 +83,7 @@ AI creates two connected assessment problems: it helps produce the work being as
 
 The knowledge base's [[ai-agents-complete-lms-assessment-validity-2026|study of AI agents completing assessed LMS tasks]] documents agents navigating a live undergraduate course and finishing assessed activities. That demonstrates a capability which challenges assumptions about student-produced evidence. It does not establish how common such use is, and it does not invalidate asynchronous assessment as a category.
 
-The research question is which designs still support defensible conclusions about the learner. [[eportfolio|Portfolios]], reflections, staged submissions, and activity logs need validation as evidence rather than being assumed to establish authorship or understanding. Studies should test combinations of evidence against independently observed competence while accounting for accessibility, workload, privacy, and student anxiety. [[assessment-validity|Assessment Validity]] holds the detail.
+The research question is which designs still support defensible conclusions about the learner. [[eportfolio|Portfolios]], reflections, staged submissions, and activity logs need validation as evidence rather than being assumed to establish authorship or understanding. Studies should test combinations of evidence against independently observed competence while accounting for accessibility, workload, privacy, and [[anxiety-and-stress|student anxiety]]. [[assessment-validity|Assessment Validity]] holds the detail.
 
 For [[automated-assessment|automated scoring]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] reports systematic disagreement between out-of-the-box models and human raters. The findings are configuration-specific, and they show why internal consistency cannot carry a validity claim.
 
@@ -101,11 +101,11 @@ Settling this needs performance-based assessment combined with observation of ac
 
 ## Report who the finding leaves out
 
-Findings from one course, institution, language, or learner population rarely license decisions elsewhere, a problem the [[limitations-in-aied-research|Limitations in AIEd Research]] synthesis treats as recurring. How effects vary across developmental stage, discipline, prior knowledge, disability, language, and resource conditions remains largely unmeasured.
+Findings from one course, institution, language, or [[learners|learner population]] rarely license decisions elsewhere, a problem the [[limitations-in-aied-research|Limitations in AIEd Research]] synthesis treats as recurring. How effects vary across developmental stage, discipline, prior knowledge, disability, language, and resource conditions remains largely unmeasured.
 
 Equity research also has to separate access, skills, and outcomes. The [[digital-divide|Digital Divide]] synthesis is clear that devices and tool access do not establish equal capacity to benefit. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] followed 752 Hong Kong junior-secondary students: psychological readiness gaps narrowed while differences on an objective AI-literacy test persisted. Every group improved, and inequality did not close. Prior-learning profiles were not randomly assigned, so their causal role stays unknown.
 
-Coverage is thin in specific places. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] counts the literature by population: second-language and multilingual learners and students with disabilities are the deepest strands, gender and neurodiversity come next, first-generation and international students have one study each in this corpus, gifted and high-achieving students are effectively unstudied, and refugee, immigrant, and displaced learners appear in none. An evidence base with that shape cannot answer an equity question by aggregation.
+Coverage is thin in specific places. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] counts the literature by population: second-language and [[multilingual-learning|multilingual learners]] and [[special-education|students with disabilities]] are the deepest strands, gender and [[neurodiversity]] come next, first-generation and international students have one study each in this corpus, gifted and high-achieving students are effectively unstudied, and refugee, immigrant, and displaced learners appear in none. An evidence base with that shape cannot answer an equity question by aggregation.
 
 Capacity varies inside a single national system too. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scored AI integration at 45 Nigerian universities and found moderate overall adoption (M = 4.79, range 1.83-7.83 on a 10-point scale), with institution type failing to predict integration once age and geography were controlled (age β = 0.43; South-West location β = 0.31). Internal capabilities intercorrelated at r = 0.79-0.80 and international collaborations with industry partnerships at r = 0.74, so connected institutions accumulate compounding advantages. Which capacity-building designs change outcomes at newer, less-connected institutions is untested.
 
@@ -179,7 +179,7 @@ Instructors who want the classroom-level version can follow [[evaluating-ai-inte
 
 **"The pooled effect size already tells me what works."** The 14 audited meta-analyses defined the treatment as a tool, pooled incompatible outcomes, and reported I² above 80% in 12 of 13 analyses that gave it. The pooled number describes a set of studies with a construct problem.
 
-**"Simulated students are cheaper, so validating them can wait."** In the sycophancy study, simulated students dropped misconceptions whether or not the feedback addressed them, which is the failure mode that makes an ineffective tutor look effective.
+**"Simulated students are cheaper, so validating them can wait."** In the [[ai-sycophancy|sycophancy]] study, simulated students dropped misconceptions whether or not the feedback addressed them, which is the failure mode that makes an ineffective tutor look effective.
 
 ## What to do this week
 

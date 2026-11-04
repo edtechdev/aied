@@ -29,7 +29,7 @@ The finding that full automation reduces cognitive engagement echoes the [[cogni
 ## Limitations
 
 - The study had 48 high school students (24 male, 24 female, ages 14–18) from a single large public high school in Texas, and all participants in the final volunteer sample self-identified as Asian.
-- The sample was deliberately narrow: an academically uniform cohort with weighted GPA of 4.0+, at least one AP/IB class, bilingual from birth, and self-reported daily AI use for at least two years — so these are experienced, high-achieving AI users, not typical learners.
+- The sample was deliberately narrow: an academically uniform cohort with weighted GPA of 4.0+, at least one AP/IB class, bilingual from birth, and [[self-report-measures|self-reported]] daily AI use for at least two years — so these are experienced, high-achieving AI users, not typical learners.
 - The EEG data did not reach statistical significance (p > 0.29 for neural differences across modes) and the headset had limited spatial coverage, so the neural results are descriptive trends only.
 - Fatigue accumulated across the quiz (descriptive increases in delta activity), and the authors recommend larger samples and separated task blocks to address participant-level variation in focus.
 

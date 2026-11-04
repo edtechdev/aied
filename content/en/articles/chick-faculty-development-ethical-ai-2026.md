@@ -43,7 +43,7 @@ The vocabulary shift is the clearest marker: early descriptions of AI as a "chea
 
 - **Instructors.** Open with the professional-identity question rather than tool demos; that is what moved this cohort. Test each AI use against the learning objective it serves, and reuse the paper's own bias exercise — one prompt, different demographic markers, critique the difference.
 - **Faculty developers.** Six weekly two-hour sessions with a required capstone redesign moved a purposive, not enthusiast-only, cohort. Stipends and individual facilitator feedback were part of the treatment, so budget both.
-- **Administrators.** The barriers that survived were structural, not attitudinal: contradictory policy signals, personally funded tool access, unrecognized redesign time and [[assessment]] built for pre-AI work. Unless [[educational-development|promotion criteria]] recognize pedagogical scholarship alongside the paper's five support domains, individual enthusiasm is wasted.
+- **Administrators.** The barriers that survived were structural, not attitudinal: contradictory policy signals, personally funded tool access, unrecognized redesign time and [[assessment]] built for pre-AI work. Unless [[educational-development|promotion criteria]] recognize [[pedagogy|pedagogical]] scholarship alongside the paper's five support domains, individual enthusiasm is wasted.
 - **Researchers.** The design is replicable: pre and post [[self-report-measures|surveys]] plus artifact analysis of the redesigns, with a reflexive journal covering the dual facilitator role.
 
 ## Limitations

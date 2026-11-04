@@ -41,7 +41,7 @@ This is an **empirical mixed-methods study** using a convergent design within a 
 
 - The program ran at a single multicultural Global South institution with 97 educators in the quantitative strand and 15 interview participants, so the authors claim analytical generalizability rather than statistical generalizability.
 - Self-selection may have favored educators already predisposed toward innovation, and the absence of longitudinal follow-up means sustained classroom transformation and student-level impact are unmeasured.
-- Outcomes rest on self-reported instruments — an adapted 24-item Likert survey (α = 0.81–0.87) and rubric-scored artifacts — rather than on observed changes in teaching or learning.
+- Outcomes rest on [[self-report-measures|self-reported]] instruments — an adapted 24-item Likert survey (α = 0.81–0.87) and rubric-scored artifacts — rather than on observed changes in teaching or learning.
 
 ## Citation
 

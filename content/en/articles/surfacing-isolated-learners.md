@@ -25,7 +25,7 @@ Three signals feed into a topic priority score:
 
 1. **Gap prevalence (Rₜ)**: Fraction of students showing difficulty with topic t, detected from Jill Watson interaction traces
 2. **Survey disagreement (Dₜ)**: Difference between observed difficulty and student self-reports — captures blind spots
-3. **Teacher friction (F)**: Unresolved instructor concerns coded from semi-structured interviews
+3. **[[teacher-role|Teacher]] friction (F)**: Unresolved instructor concerns coded from semi-structured interviews
 
 Topic priority: `Pₜ = 0.70·Rₜ + 0.20·Dₜ + 0.10·F`
 
@@ -46,7 +46,7 @@ This is one of the first systems to operationalize **[[human-ai-collaboration|hu
 
 - **Instructors.** Combine several weak process signals instead of acting on one: multi-signal integration separated isolated learners at AUC = 0.96 versus 0.91 for gap prevalence alone, and it surfaced 2 learners that no single signal flagged.
 - **Instructors.** Read the per-topic decision records before acting on the ranking: the top five mediated topics overlapped instructor concerns on 3/5 topics, with rank agreement of ρ = 0.80.
-- **Instructors.** Treat a mismatch between observed difficulty and student self-reports as a prompt to check in with the class, since agreement between mediated priorities and self-reported topic difficulty was modest (ρ = 0.46, p = .048).
+- **Instructors.** Treat a mismatch between observed difficulty and student self-reports as a prompt to check in with the class, since agreement between mediated priorities and [[self-report-measures|self-reported]] topic difficulty was modest (ρ = 0.46, p = .048).
 - **Instructors.** Revisit the [[learning-analytics|signal]] weights with the teaching team rather than treating them as tuned parameters: recommendations held across alternative profiles, with the top-10 topics overlapping 10/10 and removing the disagreement term leaving the top five unchanged (ρ = 0.96).
 
 ## Limitations

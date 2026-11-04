@@ -1,7 +1,7 @@
 ---
 title: "Learners"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-25T15:20:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -71,7 +71,7 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 
 ## Common Misconceptions
 
-**"Learners and students are the same population."** They are not interchangeable in a useful way: *students* names an institutional role, *learners* names an activity, and a person can be one without the other — an employee in [[professional-training|workplace training]] is a learner but not a student. Confiating them narrows the evidence base to people with enrollment records and silently drops exactly the adults, professionals and self-directed learners that [[lifelong-learning|lifelong learning]] research is about.
+**"Learners and students are the same population."** They are not interchangeable in a useful way: *students* names an institutional role, *learners* names an activity, and a person can be one without the other — someone in [[professional-training|workplace training]] is doing the activity, not holding the role. Confiating them narrows the evidence base to people with enrollment records and silently drops exactly the adults, professionals and [[self-directed-learning|self-directed]] learners that [[lifelong-learning|lifelong learning]] research is about.
 
 **"Learners report AI improves their understanding, so it saves them time."** The two claims separate in the survey data. In work on study productivity, **92.3%** said AI improved their understanding, while only **38.5%** said it reduced their overall study time. The headline number describes felt comprehension; the gap beneath it shows that improved understanding and recovered time are different outcomes, and the widely repeated "AI saves time" claim is carried by the smaller figure.
 

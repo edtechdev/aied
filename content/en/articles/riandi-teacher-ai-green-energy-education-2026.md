@@ -22,13 +22,13 @@ discipline: [science education]
 4. **Teacher involvement matters for ESD.** Engaging teachers in developing ESD-aligned materials is a concrete pathway to building their capacity to integrate AI meaningfully.
 
 ## Relevance
-This is a teacher-education perspective on the knowledge base's [[sustainability]] concept page, showing how to build the educator capacity needed for AI-integrated [[environmental-education|sustainability education]]. It connects to [[teacher-role]], [[tpack]], and the practical dimension of using AI *for* sustainability education in [[k-12]] and green energy contexts.
+This is a [[teacher-education]] perspective on the knowledge base's [[sustainability]] concept page, showing how to build the educator capacity needed for AI-integrated [[environmental-education|sustainability education]]. It connects to [[teacher-role]], [[tpack]], and the practical dimension of using AI *for* sustainability education in [[k-12]] and green energy contexts.
 
 ## What this means for practice
 
 - **Instructors.** Build AI-integration capability by using AI on science and green energy tasks rather than by studying it: actual use of AI in science and green energy significantly predicted integration capability, while abstract AI knowledge did not.
 - **Instructors.** Co-develop the materials you will teach, since involvement in developing ESD-aligned teaching materials was the second significant predictor of integration capability.
-- **Faculty developers.** Organize professional development around producing ESD-based resources with AI in the loop, treating teacher involvement in material development as the capacity-building mechanism rather than a byproduct of training.
+- **Faculty developers.** Organize [[educational-development|professional development]] around producing ESD-based resources with AI in the loop, treating teacher involvement in material development as the capacity-building mechanism rather than a byproduct of training.
 - **Administrators.** Do not expect attitude-improvement campaigns to shift integration capability: attitudes toward AI showed no significant effect in the model.
 
 ## Limitations

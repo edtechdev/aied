@@ -13,7 +13,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
+> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered collaborative learning in [[higher-ed|higher education]]: Trends and outcomes from the last decade
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ The review synthesizes a decade (2014–2024) of research on AI-enhanced collabo
 
 - **Instructors.** Invest in task design before tooling: the review names challenge calibrated to group ability and collaboration requirements embedded in the task structure as success factors, along with emotional engagement and [[community-of-inquiry|social presence]] rather than cognitive outcomes alone.
 - **Instructors.** Configure AI to protect equal participation — monitoring contribution and adjusting task difficulty as group performance changes — so that dominant members cannot take over and reserved students are not left behind.
-- **Administrators.** Fund predictive and multimodal analytics for early disengagement detection (the reviewed systems use [[learning-analytics|learning analytics]] and emotional or physiological signals for timely intervention), and fund the [[governance]] and teacher upskilling the same studies identify as unmet needs.
+- **Administrators.** Fund predictive and multimodal analytics for early disengagement detection (the reviewed systems use [[learning-analytics|learning analytics]] and emotional or physiological signals for timely intervention), and fund the [[governance]] and teacher [[lifelong-learning|upskilling]] the same studies identify as unmet needs.
 - **Administrators.** Treat bias, over-reliance, transparency, and [[privacy|data protection]] as deployment requirements rather than research caveats: they appear as recurring challenges across the decade of studies and as conditions for using AI in [[collaborative-learning]] at all.
 - **Researchers.** Prioritize what the review finds thin: AI's role in collaborative rather than individual learning is understudied, and group cohesion, equal participation, and effective collective collaboration are the open ground it names.
 

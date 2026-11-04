@@ -18,7 +18,7 @@ audience: [assessment designers, assessment professionals]
 
 The grading architecture is non-compensatory and additive, prioritizing mastery over penalty: success at harder levels outweighs failures at easier ones, which the author argues reduces the penalty on ambition and restores diagnostic [[formative-assessment|feedback]] value lost in subtractive scoring.
 
-A stated goal is human-AI alignment for [[assessment-validity|measurement reliability]]: the conversational format is designed to avoid construct-irrelevant variance from performative anxiety and the power imbalances of face-to-face oral examinations, though the paper is a theoretical foundation with implementation and validation left to future work.
+A stated goal is human-AI alignment for [[assessment-validity|measurement reliability]]: the conversational format is designed to avoid construct-irrelevant variance from performative [[anxiety-and-stress|anxiety]] and the power imbalances of face-to-face [[oral-assessment|oral examinations]], though the paper is a theoretical foundation with implementation and validation left to future work.
 
 ## What this means for practice
 
@@ -31,7 +31,7 @@ A stated goal is human-AI alignment for [[assessment-validity|measurement reliab
 ## Limitations
 
 - This is a theoretical foundation paper: the architectures and grading mathematics (Shadow Ledger, oversampled Evidence Buffer, vertical gate, dual proctoring modalities) are proposed and argued for, with implementation and validation explicitly left to future work.
-- Its only empirical evidence is a Spring 2026 pilot deployment across three university courses with a self-report perception survey of 98 students, so figures such as 80.6% agreeing the AI scaffolded effectively and 52% reporting lower stress than traditional exams measure acceptance, not learning gains.
+- Its only empirical evidence is a Spring 2026 pilot deployment across three university courses with a [[self-report-measures|self-report]] perception survey of 98 students, so figures such as 80.6% agreeing the AI scaffolded effectively and 52% reporting lower stress than traditional exams measure acceptance, not [[learning-gains|learning gains]].
 - No controlled comparison was run against the alternatives the paper criticizes — students were not randomized against face-to-face oral exams or static written exams, which the authors acknowledge is required to isolate the variables driving acceptance.
 - The claim that the format resolves the fairness critique of oral exams (different questions for different students to map their knowledge bounds) rests on structural argument and pilot perceptions rather than demonstrated equivalence across students.
 

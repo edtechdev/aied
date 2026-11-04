@@ -23,13 +23,13 @@ pedagogy: [inquiry-based-learning, self-regulated-learning]
 methods: [ai-ed-evaluation]
 ---
 
-> **Synthesis:** Radmehr, Zhao, Güreş, Singla and Käser built ALPS, a hierarchical [[simulating-students|simulated student]] that plans profile-aligned task segments and then generates individual actions, rather than choosing each action independently from a behavior profile. Tested in an inquiry-based [[physics-education|physics]] game and a pharmacy simulation, under both data-sufficient supervision and a data-scarce setting where only three real trajectories per profile were available, ALPS beat turn-level generation on behavioral density and on judge-rated profile consistency while coverage stayed lower. The authors' claim is narrow and useful: hierarchical planning holds a [[llm|LLM]] simulator to an assigned profile over long horizons, which turn-level prompting does not, even when real data are scarce.
+> **Synthesis:** Radmehr, Zhao, Güreş, Singla and Käser built ALPS, a hierarchical [[simulating-students|simulated student]] that plans profile-aligned task segments and then generates individual actions, rather than choosing each action independently from a behavior profile. Tested in an inquiry-based [[physics-education|physics]] game and a pharmacy simulation, under both data-sufficient supervision and a data-scarce setting where only three real trajectories per profile were available, ALPS beat turn-level generation on behavioral density and on judge-rated profile consistency while coverage stayed lower. The authors' claim is narrow and useful: hierarchical planning holds a [[llm|LLM]] simulator to an assigned profile over long horizons, which turn-level [[prompt-engineering|prompting]] does not, even when real data are scarce.
 
 ## Key Findings
 
 1. **Hierarchical planning beat turn-level generation in both data settings.** ALPS consistently outperformed turn-level generation on density and judge pass rates, with comparable judge agreement under scarce supervision.
 2. **Coverage remained the weak metric.** The paper reports coverage as lower than turn-level generation's in places, and names it the metric that SFT adaptation most improves.
-3. **Prompted ALPS roughly tripled judge pass rates for GPT-OSS.** Without fine-tuning, ALPS significantly improved density and judge pass rate over turn-level generation in both environments for that backbone.
+3. **Prompted ALPS roughly tripled judge pass rates for GPT-OSS.** Without [[llm-training-and-fine-tuning|fine-tuning]], ALPS significantly improved density and judge pass rate over turn-level generation in both environments for that backbone.
 4. **Turn-level simulators collapsed on hard profiles.** Turn-level GPT-OSS failed completely on at least one difficult or long-horizon profile in each environment, driving worst-profile scores to zero.
 5. **Supervised fine-tuning was the adaptation that worked.** Every improvement surviving correction came from adding SFT; no comparison involving reward-ranked fine-tuning (RAFT) was significantly positive.
 6. **The planner and generator do different jobs.** Ablating the planner returned prompted-level density and coverage, while ablating the generator reduced coverage — the planner maintains alignment, the generator broadens coverage.
@@ -43,7 +43,7 @@ The fix is a hierarchy that mirrors how the profile is described: plan a segment
 
 ## Data scarcity is the point
 
-The scarce setting is the one practitioners face. Three real trajectories per profile plus a teacher LLM for the rest of the supervision is a realistic budget for a classroom-scale study, and ALPS holding comparable judge pass rates under it is the result that matters for anyone who cannot collect thousands of logged sessions.
+The scarce setting is the one practitioners face. Three real trajectories per profile plus a [[teacher-role|teacher]] LLM for the rest of the supervision is a realistic budget for a classroom-scale study, and ALPS holding comparable judge pass rates under it is the result that matters for anyone who cannot collect thousands of logged sessions.
 
 The caveat the paper reports honestly is coverage: a simulator that behaves consistently like the profile it was assigned may still not represent the spread of real students within that profile, which is what coverage measures and what the generator ablation addresses.
 
@@ -62,7 +62,7 @@ That asymmetry is a deployment constraint rather than a footnote: a small model 
 
 ## Limitations
 
-- **Two environments, both simulations.** An inquiry-based physics game and a pharmacy simulation; transfer to other platforms is untested.
+- **Two environments, both [[simulation|simulations]].** An inquiry-based physics game and a pharmacy simulation; transfer to other platforms is untested.
 - **Coverage stayed below turn-level generation in places.** The authors report it as the metric the approach does not fully recover, and SFT mainly addresses it.
 - **Three seeds per condition.** Results are reported as means over three seeds, which limits how finely differences can be resolved.
 - **Scarce-setting supervision is partly synthetic.** In the data-scarce condition a teacher LLM supplied supervision beyond three real trajectories per profile, so the simulator is partly trained on model-generated behavior.

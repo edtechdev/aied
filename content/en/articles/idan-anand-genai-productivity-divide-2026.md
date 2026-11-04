@@ -54,7 +54,7 @@ The findings reframe the educational and organizational stakes of GenAI. Because
 - **Single institution, students standing in for workers.** 179 participants recruited mainly from engineering programs at one university, studied as an approximation of early-career knowledge workers; the population is not the workforce the framing invokes.
 - **Short intervention, immediate outcome.** Three consecutive days of self-study with a post-intervention exam normalized to the unit interval and no delayed measure of retention or transfer.
 - **Weakly significant scaffolding effects.** The scaffolded-versus-unguided difference and the scaffolding × AIC interaction were only weakly significant (p > .05, p < .10), and the authors note that subgroup contrasts had limited statistical power.
-- **Self-reported AIC and preferences.** Interaction competence is measured from self-assessments whose alignment with measured performance varied by domain (ρ = .71 for general machine-learning knowledge), so the decisive moderator may partly reflect self-perception.
+- **[[self-report-measures|Self-reported]] AIC and preferences.** Interaction competence is measured from self-assessments whose alignment with measured performance varied by domain (ρ = .71 for general machine-learning knowledge), so the decisive moderator may partly reflect self-perception.
 
 ## Citation
 

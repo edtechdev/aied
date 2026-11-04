@@ -52,7 +52,7 @@ Choice of LLM and prompting strategy accounts for only ~15% of misalignment; the
 
 1. **Stop benchmarking alone** — High scores on MMLU or even pedagogy-specific [[benchmark|benchmarks]] do not predict beneficial educational impact. See [[teachbench-llm-teaching-evaluation]] for syllabus-grounded alternatives.
 2. **Ensembles are not a safety net** — When models share the same flawed pretraining priors, voting and weighting make things worse.
-3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment (RLHF, prompting) misses that shared pretraining corpora embed the core misalignment. See [[llm-training-and-fine-tuning]] for training approaches.
+3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment ([[reinforcement-learning|RLHF]], prompting) misses that shared pretraining corpora embed the core misalignment. See [[llm-training-and-fine-tuning]] for training approaches.
 4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026]] demands for causal evidence.
 
 This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026]] finding that general-purpose AI underperforms pedagogically-designed systems.

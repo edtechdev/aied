@@ -35,7 +35,7 @@ ISD-Agent-Bench operationalizes [[learning-design|instructional design theory]] 
 ## Limitations
 
 - All 25,795 scenarios are synthetically generated with GPT-4o from 8,842 seed papers plus 16,953 augmented cases, and no human subjects were involved, so stakeholder negotiation, mid-project budget constraints, and organizational politics are absent by construction.
-- The benchmark is English-only, and the authors note that instructional design is not culturally neutral, so results may not carry to educational systems with different pedagogical traditions.
+- The benchmark is English-only, and the authors note that instructional design is not culturally neutral, so results may not carry to educational systems with different [[pedagogy|pedagogical]] traditions.
 - Only 1,017 scenarios were scored for reliability, and no human expert has validated the rubric or the scores; the authors call for expert review and correlation analysis between LLM scores and expert judgments as future work.
 - Evaluation is static and single-pass, so it cannot measure whether an agent can refine a design from formative feedback, and domain coverage excludes performing arts, physical education, and trades training, where psychomotor learning falls outside the scenario specification.
 

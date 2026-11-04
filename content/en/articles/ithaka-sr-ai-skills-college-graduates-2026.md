@@ -20,7 +20,7 @@ confidence: high
 The report is one of the first major efforts to vet a comprehensive AI-skills framework with college instructors. The framework, developed by HiBob (a multinational HR technology company) to understand which AI skills employers seek and pay a premium for, spans **seven categories and 26 skills**:
 
 1. **AI literacy** — understanding human vs. AI capabilities, selecting appropriate tools, setting realistic expectations
-2. **Continuous learning orientation** — iterating on AI tools, peer coaching
+2. **[[lifelong-learning|Continuous learning]] orientation** — iterating on AI tools, peer coaching
 3. **[[prompt-engineering|Prompting]] and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal]] prompting
 4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting [[ai-sycophancy|sycophantic]] AI, bias & [[bias-mitigation|fairness]] awareness
 5. **AI safety, [[ethics]], and [[governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution

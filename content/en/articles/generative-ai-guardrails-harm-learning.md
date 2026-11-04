@@ -16,7 +16,7 @@ page_kind: [evaluation]
 methods: [rct]
 ---
 
-> **Synthesis:** This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-AI tutoring can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with teacher-designed [[guardrails]] — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.
+> **Synthesis:** This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-[[intelligent-tutoring|AI tutoring]] can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with [[teacher-role|teacher]]-designed [[guardrails]] — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted [[summative-assessment|closed-book exam]] on conceptually similar problems.
 
 The core finding: access to [[generative-ai|generative AI]] sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
 
@@ -29,7 +29,7 @@ Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
 | **GPT Tutor** | **+127%** (β = 0.361\*\*) | ≈ 0 (β = −0.004, n.s.) |
 
 - GPT Base significantly **improves** practice performance but **significantly worsens** later unassisted exam performance — students who never had AI access actually outperformed them.
-- GPT Tutor's guardrails **largely eliminate the learning harm** (point estimate near zero), though they do not produce a positive learning effect either.
+- GPT Tutor's guardrails **largely eliminate the [[ai-misuse-learning-harm|learning harm]]** (point estimate near zero), though they do not produce a positive learning effect either.
 
 ### Mechanism: Students Use GPT Base as a Crutch
 Two candidate explanations for the harm were tested — (1) GPT Base's errors mislead students, and (2) students offload thinking by copying answers. The evidence strongly favors the second:
@@ -42,11 +42,11 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 
 ### Secondary Results
 - **Skill-gap narrowing is temporary:** Both AI arms reduced grade dispersion (HHI) during practice (biggest help to weakest students), but the effect **does not persist** on the unassisted exam.
-- **Limited heterogeneity:** Little evidence of differential effects by student ability, resources, or effort on exam performance.
+- **Limited heterogeneity:** Little evidence of [[differential-effects-across-learner-groups|differential effects]] by student ability, resources, or effort on exam performance.
 - **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.
 
 ## Design Lesson: What the Guardrails Did
-GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "[[human-ai-collaboration|co-pilot]]" models that assist human tutors rather than replace them.
 
 ## What this means for practice
 
@@ -60,7 +60,7 @@ GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **
 - One topic, one site, one snapshot: the field experiment ran on mathematics in a single high school in Turkey across Fall 2023-2024, in the early GPT-4 era, so replication with newer models and other contexts is required.
 - Outcomes are short-term only: the unassisted closed-book exam came after each 90-minute session, and the authors note that writing and other subjects lack the objective grading used here.
 - Study arms were assigned at the classroom level rather than individually, so treatment is clustered by class even though intention-to-treat, alternative specifications and absenteeism checks support the pattern.
-- Perceptions of learning were miscalibrated against measured exam performance in both AI arms, so self-reported learning or performance cannot serve as a gauge of the intervention's effect.
+- Perceptions of learning were miscalibrated against measured exam performance in both AI arms, so [[self-report-measures|self-reported]] learning or performance cannot serve as a gauge of the intervention's effect.
 
 ## Citation
 

@@ -34,7 +34,7 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 
 - Data come from eight classroom deployments of step-based mathematics tutors across six U.S. schools, totaling 794 students with about 30-60 minutes of practice each (roughly 1-2 class sessions), so the findings are bounded to short step-based math interactions.
 - Response time is an inherently ambiguous trace: longer delays can reflect deliberation but also classroom interruptions, off-task behavior, or time spent reading, none of which log data alone can distinguish.
-- The analyses are correlational; the moderation by prior proficiency and practice timing is consistent with theories of productive struggle and effort regulation, but the authors state causal interpretations are not warranted.
+- The analyses are correlational; the moderation by prior proficiency and practice timing is consistent with theories of [[desirable-difficulties|productive struggle]] and effort regulation, but the authors state causal interpretations are not warranted.
 - The authors note the results may not transfer to domains with heavier reading load, open-ended responses, or different classroom norms, and call for replication across domains and populations before use in adaptive decisions at scale.
 
 ## Citation

@@ -21,7 +21,7 @@ confidence: high
 3. **Ethical reasoning beyond rules.** Students judged acceptability through academic norms/conventions (48.1%), comparison with other tools like Google (31.6%), and accountability/consequences including fairness (23.3%).
 4. **Intent as the moral boundary.** Students consistently framed intent—learning-oriented [[help-seeking]] versus effort-avoiding substitution—as the decisive factor distinguishing legitimate support from dishonesty.
 5. **AI as a moral agent, not a fixed category.** Roughly 9% of the sample rejected all AI use as undermining independent thinking; the majority treated academic misconduct as a *negotiated moral space* shaped by intent and condition rather than a fixed category.
-6. **Fairness and [[equity-in-ai-education|equity concerns]].** Students worried AI could "trick the teacher" into overestimating understanding, disadvantage capable peers, or—alternatively—democratize access to help often unavailable without private tutoring.
+6. **Fairness and [[equity-in-ai-education|equity concerns]].** Students worried AI could "trick the [[teacher-role|teacher]]" into overestimating understanding, disadvantage capable peers, or—alternatively—democratize access to help often unavailable without private tutoring.
 7. **Emerging norms of transparency.** Several students proposed disclosing AI use through footnotes or references, suggesting their ethical reasoning may run ahead of existing [[governance|institutional]] policy.
 
 ## What this means for practice
@@ -29,7 +29,7 @@ confidence: high
 - **Instructors.** Write school-level [[educational-policy-ai|AI policy]] around the conditions students themselves weigh — purpose of use (62.4%), impact on learning (54.1%), and student intent (51.9%) — instead of rigid bans or binary cheating definitions.
 - **Instructors.** Teach ethical reasoning and [[self-regulated-learning|self-regulation]] rather than compliance: students already reasoned conditionally, so the work is helping them articulate why a particular use is problematic.
 - **Instructors.** Do not rely on detection-led responses to [[ai-detection|AI-giarism]]: ethical status depends on intent and use, not on observable output.
-- **Instructors.** Move assessment toward process-visible, reflective, AI-resilient formats that require justification of choices and evaluative judgment, and involve students in integrity policy development so commitment and [[trust]] are shared rather than imposed.
+- **Instructors.** Move assessment toward process-visible, reflective, AI-resilient formats that require justification of choices and [[evaluative-judgment|evaluative judgment]], and involve students in integrity policy development so commitment and [[trust]] are shared rather than imposed.
 - **Learners.** Push for transparency norms: several students proposed disclosing AI use in footnotes or references, and roughly 9% rejected all AI use outright — positions that run ahead of existing institutional policy.
 
 ## Limitations

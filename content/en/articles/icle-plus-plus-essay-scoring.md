@@ -18,7 +18,7 @@ methods: [benchmark]
 ## Key Contributions
 
 - **New annotated corpus:** ICLE++ provides persuasive student essays annotated with holistic scores and multiple trait-specific scores, filling a gap left by the field's [[cognitive-offloading|over-reliance]] on ASAP
-- **Cross-corpus generalization:** Models trained on ASAP often fail to generalize to other corpora (e.g., TOEFL essays by English learners, essays written without time constraints) — ICLE++ enables systematic evaluation of this transfer
+- **Cross-corpus generalization:** Models trained on ASAP often fail to generalize to other corpora (e.g., TOEFL essays by [[multilingual-learning|English learners]], essays written without time constraints) — ICLE++ enables systematic evaluation of this transfer
 - **Trait-level scoring advances:** Fine-grained trait annotations support multi-trait scoring and cross-prompt scoring, moving AES beyond single holistic score prediction
 - **Addresses ASAP limitations:** ASAP's confounding variables — essay length as a proxy for quality in timed settings, native-speaker-only population — are well-documented; ICLE++ provides a complementary benchmark
 
@@ -27,7 +27,7 @@ methods: [benchmark]
 - **Software developers.** Test cross-corpus generalization before trusting an [[automated-essay-scoring|AES]] model: models trained on ASAP often fail on other corpora, which is an [[assessment-validity]] problem — a score that does not transfer is not a valid measure of [[writing-education|writing quality]].
 - **Software developers.** Report holistic and the 10 trait-level scores separately and per corpus, because trait scoring on ICLE++ was weaker than on ASAP and traits depressed within-prompt holistic scoring there while slightly improving cross-prompt scoring.
 - **Software developers.** Move reporting beyond a single holistic number: the trait annotations support per-dimension strengths and weaknesses, which is what makes an AES output usable for [[formative-assessment]] and for psychometric framing such as [[item-response-theory]].
-- **Software developers.** Benchmark against ICLE++ alongside existing evidence — psychometrically aware scoring as in [[psyscore-essay-scoring-zpd-feedback]], prompting-based results such as [[choi-anchor-aes-prompting-2025]], and the validity gaps documented for linguistically diverse writers in [[ai-scoring-language-bias-physics]] and [[self-referential-l2-writing-llm-assessment]].
+- **Software developers.** Benchmark against ICLE++ alongside existing evidence — [[psychometrically-aware-ai|psychometrically aware]] scoring as in [[psyscore-essay-scoring-zpd-feedback]], [[prompt-engineering|prompting]]-based results such as [[choi-anchor-aes-prompting-2025]], and the validity gaps documented for linguistically diverse writers in [[ai-scoring-language-bias-physics]] and [[self-referential-l2-writing-llm-assessment]].
 
 ## Limitations
 

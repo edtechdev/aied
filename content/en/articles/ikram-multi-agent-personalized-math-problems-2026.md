@@ -23,7 +23,7 @@ page_kind: [evaluation]
 level: [middle school]
 ---
 
-> **Synthesis:** Ikram, Ashok Kumar, Lu, McNichols, Walkington, Heffernan, and Lan (2026) treat personalization of math word problems as an iterative generate, validate, and revise process run by cooperating agents rather than as one generation step. A conversion agent rewrites an existing problem against a student interest topic, four validator agents judge solvability, realism, readability, and authenticity, and refinement agents turn that feedback into the next candidate. The authors compare three ways of coordinating that feedback across 600 ASSISTments problems personalized to 20 interest topics: centralized refinement, centralized refinement with planning, and decentralized refinement, in which each validator pairs with its own reviser. Authenticity and realism fail most often in first drafts, yet one refinement iteration removes much of the damage. Which strategy wins depends on the criterion: decentralized refinement converges fastest on realism and readability, planning-based centralization fastest on authenticity. In a study of 45 problems, validator agents agreed fairly with human annotators on realism, less on readability, and only slightly on authenticity.
+> **Synthesis:** Ikram, Ashok Kumar, Lu, McNichols, Walkington, Heffernan, and Lan (2026) treat [[personalized-learning|personalization]] of math word problems as an iterative generate, validate, and revise process run by cooperating agents rather than as one generation step. A conversion agent rewrites an existing problem against a student interest topic, four validator agents judge solvability, realism, readability, and authenticity, and refinement agents turn that feedback into the next candidate. The authors compare three ways of coordinating that feedback across 600 ASSISTments problems personalized to 20 interest topics: centralized refinement, centralized refinement with planning, and decentralized refinement, in which each validator pairs with its own reviser. Authenticity and realism fail most often in first drafts, yet one refinement iteration removes much of the damage. Which strategy wins depends on the criterion: decentralized refinement converges fastest on realism and readability, planning-based centralization fastest on authenticity. In a study of 45 problems, validator agents agreed fairly with human annotators on realism, less on readability, and only slightly on authenticity.
 
 ## Key Findings
 
@@ -32,11 +32,11 @@ level: [middle school]
 - **Most repair happens in a single iteration.** Failure counts drop sharply after one generate, validate, revise cycle, and solvability failures, rare at the start, approach zero after one pass.
 - **Strategy strength is criterion dependent.** Decentralized refinement, where each validator has a dedicated reviser, reaches low realism and readability failure counts fastest, while planning-based centralization converges fastest on authenticity.
 - **Validator reliability tracks how objective the criterion is.** Against three annotators on 45 problems, realism agreement was fair, readability accuracy high, and authenticity agreement only slight.
-- **Failure patterns vary by topic and curriculum unit.** Media topics such as Twitter and TikTok attracted authenticity failures, while sports, games, and measurement units concentrated realism and readability failures.
+- **Failure patterns vary by topic and [[curriculum-design|curriculum]] unit.** Media topics such as Twitter and TikTok attracted authenticity failures, while sports, games, and measurement units concentrated realism and readability failures.
 
 ## The task and the four validator agents
 
-The system adapts an existing problem to a target topic while holding on to its mathematical structure, its solutions, and its grade-appropriate language. A conversion agent takes the original problem, the topic, and a target grade reading level computed with the Flesch-Kincaid metric, and produces a candidate. Four validators then return a binary pass or fail plus short diagnostic feedback. The solvability agent solves the problem to check consistency with the original. The realism agent asks whether quantities, units, and contextual details are plausible within the topic. The readability agent compares vocabulary and sentence complexity against the original and the grade level. The authenticity agent asks whether the personalized context is age-appropriate and relatable to middle school learners.
+The system adapts an existing problem to a target topic while holding on to its mathematical structure, its solutions, and its grade-appropriate language. A conversion agent takes the original problem, the topic, and a target grade reading level computed with the Flesch-Kincaid metric, and produces a candidate. Four validators then return a binary pass or fail plus short diagnostic feedback. The solvability agent solves the problem to check consistency with the original. The realism agent asks whether quantities, units, and contextual details are plausible within the topic. The readability agent compares vocabulary and sentence complexity against the original and the grade level. The authenticity agent asks whether the personalized context is age-appropriate and relatable to [[k-12|middle school]] learners.
 
 ## Coordinating feedback: three refinement strategies
 
@@ -50,7 +50,7 @@ Three annotators with college-level mathematics backgrounds labeled 45 sampled Z
 
 - Treat generated personalization as a draft to be checked, not a finished item, and budget one validation and revision pass before students see it.
 - Match the coordination pattern to the criterion: localized realism and readability fixes respond well to dedicated revisers, while authenticity needs holistic, planned revision.
-- Keep mathematical structure and pedagogical intent under review, since a more realistic scenario can silently change what the problem is practicing.
+- Keep mathematical structure and [[pedagogy|pedagogical]] intent under review, since a more realistic scenario can silently change what the problem is practicing.
 - Ask teachers or students to confirm authenticity, because validators and annotators both struggle to judge relatability without topic familiarity.
 
 ## Limitations

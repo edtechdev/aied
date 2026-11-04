@@ -12,7 +12,7 @@ audience: [assessment designers, instructors]
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — teacher and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm]] prompts across iterations
+> **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — [[teacher-role|teacher]] and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm]] prompts across iterations
 
 > Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalizes across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-assessment|Automated Grading]].
 
@@ -27,7 +27,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Up to +38.9% scoring performance** over a non-prompt-engineered baseline (no labeled examples, no CoT, no iterative refinement)
 - Gains demonstrated **across domains**: science, computing, engineering (the generalization question most grading papers ignore)
 - **Teachers and students rate CoTAL effective** at scoring and explaining responses
-- Their feedback yields insights that improve grading accuracy and explanation quality
+- Their feedback yields insights that improve grading accuracy and [[explainable-ai|explanation quality]]
 
 ## What this means for practice
 

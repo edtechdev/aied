@@ -43,15 +43,15 @@ Cognitive offloading varied with teaching experience, school level, school type,
 ## What this means for practice
 
 - **Instructors.** Treat [[ai-literacy|AI literacy]] as reflective judgment rather than tool fluency: work through explicit reflection cycles — recognizing a cognitive demand, evaluating GenAI as an external resource, delegating, observing consequences, re-engaging — around the GenAI tasks you already use.
-- **Instructors.** Build pedagogical data literacy alongside technical fluency. Interrogate how AI and LMS analytics are generated, notice what they highlight or obscure about student learning, and make the instructional call yourself instead of deferring to automated indicators.
+- **Instructors.** Build pedagogical [[statistics-and-data-science-education|data literacy]] alongside technical fluency. Interrogate how AI and LMS [[learning-analytics|analytics]] are generated, notice what they highlight or obscure about student learning, and make the instructional call yourself instead of deferring to automated indicators.
 - **Instructors.** Watch the threshold where convenience becomes drift. When you hand over deep epistemic work — designing tasks, generating examples, writing rubrics — check which professional judgment you have stopped exercising and deliberately pull some of it back in-house.
 - **Administrators.** Cultivate reflective ecosystems: collaborative design labs and professional learning communities where teachers examine their AI interactions together, since reflection depth tracked collegial and institutional support rather than intensity of AI use.
-- **Administrators.** Balance efficiency with cognitive wellbeing. Mandated reflection sessions, workload reviews, and continuous ethical training are the measures the authors propose so that AI governance monitors cognitive dependence, not just usage rates.
+- **Administrators.** Balance efficiency with cognitive [[well-being|wellbeing]]. Mandated reflection sessions, workload reviews, and continuous ethical training are the measures the authors propose so that AI governance monitors cognitive dependence, not just usage rates.
 
 ## Limitations
 
 - The study is a multiple case study of 18 in-service teachers recruited purposively and through snowball sampling across mainland Chinese and Hong Kong settings because they already used GenAI in teaching or administration; the authors state the findings are not statistically generalizable.
-- Data come from semi-structured interviews only — teachers' self-reported accounts of their own GenAI use — with no classroom observation, artifact analysis, or prompt histories to corroborate them.
+- Data come from semi-structured interviews only — teachers' [[self-report-measures|self-reported]] accounts of their own GenAI use — with no classroom observation, artifact analysis, or prompt histories to corroborate them.
 - Participants worked in a heterogeneous tool ecosystem (ChatGPT, Gemini, Copilot, Claude, and MagicSchool.ai alongside Doubao, Kimi, Ernie Bot, and SparkDesk) that the study did not systematically compare, so it cannot attribute any pattern to specific platform features or governance arrangements.
 - The six-stage offloading operationalization that guided data collection and coding is the authors' own heuristic built on Risko and Gilbert's framework, so the three-part thematic structure reflects that single analytic lens rather than a pre-validated instrument.
 

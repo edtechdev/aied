@@ -21,14 +21,14 @@ The paper is a systems contribution rather than an efficacy study — no [[learn
 ## What this means for practice
 
 - **Software developers.** Make audio the sole required modality when building for visually-impaired learners instead of adding a screen-reader layer to a visual interface; the system completes the whole learning loop through spoken conversation and spoken feedback.
-- **Software developers.** Detect struggle from cheap behavioral signals rather than a full learner model: fuse response latency, wrong-attempt counts, and keyword-based hesitation to decide when to hint or simplify, as the prototype does with a 2.5-second pause threshold and a two-attempt limit.
+- **Software developers.** Detect struggle from cheap behavioral signals rather than a full [[student-modeling|learner model]]: fuse response latency, wrong-attempt counts, and keyword-based hesitation to decide when to hint or simplify, as the prototype does with a 2.5-second pause threshold and a two-attempt limit.
 - **Software developers.** Judge spoken answers tolerantly so code-switching and pronunciation variation are not penalized, combining language-aware translation and transliteration, Levenshtein fuzzy matching, and text normalization on top of on-device [[speech-and-voice-technologies]].
 - **Software developers.** Ship offline-first, since an on-device ASR pipeline removes the connectivity requirement that makes cloud-dependent tutors unusable in low-resource settings.
 - **Software developers.** Plan to personalize the fixed thresholds, because the authors flag the 2.5-second pause limit, the two-attempt cap, and the 0.6 similarity threshold as constants that should become adaptive.
 
 ## Limitations
 
-- No evaluation with the target users: the paper reports feasibility and qualitative impressions, not measured learning or usability outcomes with visually-impaired children.
+- No evaluation with the target users: the paper reports feasibility and [[qualitative-research|qualitative]] impressions, not measured learning or [[usability-research|usability]] outcomes with visually-impaired children.
 - Prototype scale: built during a hackathon and demonstrated only for English and Tamil, with struggle-detection thresholds and the similarity cutoff set by hand rather than validated against observed learner behavior.
 - No learning-gains evidence is reported, so the pedagogical claims remain design hypotheses pending classroom trials with children and their educators.
 - Hesitation detection is keyword-based, a coarse proxy for confusion that the authors say could be extended toward prosodic or acoustic analysis.

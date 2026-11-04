@@ -23,7 +23,7 @@ institutions: [governance]
 
 1. **Seven enablers of LA-based educational interventions.** A preliminary list of seven enablers was developed from the literature, validated and refined through a two-round international Delphi study (18 experts), and prioritized via SNAP group decision-making: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance.
 2. **Institutional strategic orientation is the central enabler.** It ranked highest in overall SNAP priority (0.2072) and, crucially, was the most influential on *other* enablers (PageRank 0.2430) — strategic planning and leadership commitment position it as the enabler that most enables the rest.
-3. **Available resources ranked second** (SNAP 0.1800) and highest on direct influence on intervention implementation (AHP 0.1753), pointing to the need for systematic investment in (AI-supported) LA systems, dashboards, and infrastructure.
+3. **Available resources ranked second** (SNAP 0.1800) and highest on direct influence on intervention implementation (AHP 0.1753), pointing to the need for systematic investment in (AI-supported) LA systems, [[visualization|dashboards]], and infrastructure.
 4. **Stakeholder perspectives differ systematically.** Cluster analysis revealed that senior LA experts prioritized available resources, junior/technical experts prioritized ethics & data governance, and intermediate experts prioritized strategic orientation or stakeholder engagement — underlining the value of heterogeneous expert groups in LA decision-making.
 5. **Trustworthiness is the prerequisite, not an enabler dimension.** The enablers are conditions enabling LA-based interventions, whereas trustworthiness ([[ethics|ethical]] compliance, data security, transparent and unbiased algorithms, pedagogical validity) is the precondition without which LA-informed interventions are not meaningful.
 
@@ -53,7 +53,7 @@ The authors argue all enablers should increasingly be considered in light of AI'
 
 ## Limitations
 
-- The expert base was small and narrow: a two-round international Delphi with 18 experts, and while participants came from multiple countries, the majority were affiliated with higher education institutions in four European countries.
+- The expert base was small and narrow: a two-round international Delphi with 18 experts, and while participants came from multiple countries, the majority were affiliated with [[higher-ed|higher education]] institutions in four European countries.
 - The preliminary survey covered a restricted range and profile of educators; a broader range of educational backgrounds and contexts could have surfaced additional perspectives.
 - The seven enablers remain high-level categories with no operational indicators or measures attached, which limits how directly they can be audited or compared across institutions.
 - The group decision-making model was never tested in real-life educational decision-making, so no concrete intervention was prioritized in an actual institutional setting.

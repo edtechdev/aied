@@ -20,11 +20,11 @@ page_kind: [evaluation]
 
 ### Behavioral findings: what precedes attrition
 
-The behavioral analysis confirmed that true attrition is preceded by an **83.71% reduction in contest participation** and consistent underperformance on skill-related metrics. The authors also validate a **Skill-Application Paradox**: students who stop report higher theoretical confidence than their active peers yet exhibit significantly weaker practice habits (significant at *p* < .001 for upsolving habit and peer circle density). This disconnect between self-reported confidence and actual practice behavior is a distinctive [[self-efficacy]] signal for [[learning-analytics|early-warning]].
+The behavioral analysis confirmed that true attrition is preceded by an **83.71% reduction in contest participation** and consistent underperformance on skill-related metrics. The authors also validate a **Skill-Application Paradox**: students who stop report higher theoretical confidence than their active peers yet exhibit significantly weaker practice habits (significant at *p* < .001 for upsolving habit and peer circle density). This disconnect between [[self-report-measures|self-reported]] confidence and actual practice behavior is a distinctive [[self-efficacy]] signal for [[learning-analytics|early-warning]].
 
 ### Predictive modeling
 
-Machine learning benchmarks demonstrated that a **Soft-Voting Ensemble** achieved the strongest performance on the behavioral dataset (CV F1 = 0.737, Test Recall = 0.769), while **Random Forest** led on the survey dataset (CV F1 = 0.924, interpreted as a localized exploratory pilot). An engineered **Intensity Ratio** ranked as the third most predictive Codeforces feature, capturing independent practice effort beyond raw activity counts.
+[[machine-learning|Machine learning]] [[benchmark|benchmarks]] demonstrated that a **Soft-Voting Ensemble** achieved the strongest performance on the behavioral dataset (CV F1 = 0.737, Test Recall = 0.769), while **Random Forest** led on the survey dataset (CV F1 = 0.924, interpreted as a localized exploratory pilot). An engineered **Intensity Ratio** ranked as the third most predictive Codeforces feature, capturing independent practice effort beyond raw activity counts.
 
 ### Early Warning System proof of concept
 
@@ -34,7 +34,7 @@ Applied as a proof-of-concept Early Warning System, the survey-trained model ide
 
 - **Instructors.** Track practice habits rather than stated confidence. Students who stopped reported higher theoretical confidence than their active peers while their upsolving habit and peer-circle density were significantly weaker (*p* < .001), so a [[self-efficacy|confidence]] signal alone will mislead you.
 - **Instructors.** Act on abrupt drops in contest participation — true attrition was preceded by an 83.71% reduction — and pair experienced with newer participants while monitoring students who show irregular engagement after extended breaks.
-- **Designers.** Build early-warning dashboards on behavioral telemetry, including engineered indicators such as the Intensity Ratio, rather than survey responses alone: the survey model's CV F1 = 0.924 was trained on only 64 students and overstates generalizability.
+- **Designers.** Build early-warning [[visualization|dashboards]] on behavioral telemetry, including engineered indicators such as the Intensity Ratio, rather than survey responses alone: the survey model's CV F1 = 0.924 was trained on only 64 students and overstates generalizability.
 - **Administrators.** Treat the four flagged students as a proof of concept, not a deployment. Fund longitudinal validation over a 2–3 month window before such [[learning-analytics|risk flags]] inform high-stakes decisions about real students.
 
 ## Limitations

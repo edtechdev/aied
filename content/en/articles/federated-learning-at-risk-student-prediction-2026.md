@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** At-risk prediction usually needs shared student data, which privacy rules forbid across institutions. This study simulates that constraint by partitioning the Open University Learning Analytics Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
+> **Synthesis:** At-risk prediction usually needs shared student data, which privacy rules forbid across institutions. This study simulates that constraint by partitioning the Open University [[learning-analytics|Learning Analytics]] Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
 
 ## Key Findings
 

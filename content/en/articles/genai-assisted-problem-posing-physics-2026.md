@@ -33,7 +33,7 @@ The authors adapt their prior [[transfer-of-learning]] framework, derived from J
 
 ## Training Shapes AI Interactions
 
-Students were introduced to GenAI-assisted problem posing as a self-study technique and received training on [[prompt-engineering]] techniques drawn from prior work. A phenomenological analysis of N = 49 students' open-ended [[reflection|reflections]] found that students perceived a positive change in their interactions with GenAI after training. Those with little or no prior prompting experience reported that their pre-training interactions were unfocused, lacked detail, or produced too little change in the problem to be useful, whereas post-training interactions felt more conversational and aligned with the prompt. This suggests that how students are trained to interact with AI shapes both the quality of interaction and their confidence.
+Students were introduced to GenAI-assisted problem posing as a self-study technique and received training on [[prompt-engineering]] techniques drawn from prior work. A phenomenological analysis of N = 49 students' open-ended [[reflection|reflections]] found that students perceived a positive change in their interactions with GenAI after training. Those with little or no prior prompting experience reported that their pre-training interactions were unfocused, lacked detail, or produced too little change in the problem to be useful, whereas [[llm-training-and-fine-tuning|post-training]] interactions felt more conversational and aligned with the prompt. This suggests that how students are trained to interact with AI shapes both the quality of interaction and their confidence.
 
 ## Attitudes Toward Problem Posing with GenAI
 

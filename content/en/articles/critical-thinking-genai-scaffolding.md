@@ -14,7 +14,7 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[agency|epistemic agency]].
+> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into [[higher-ed|higher education]] in ways that strengthen rather than displace [[critical-thinking|critical thinking]]. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured [[llm]] use leads to [[cognitive-offloading|cognitive offloading]], [[metacognition|metacognitive]] disengagement, and reduced [[agency|epistemic agency]].
 
 ## The Problem: Unstructured LLM Use
 
@@ -38,7 +38,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 |---------|------------|
 | **1. Conceptual interpretation** | Actively constructing meaning by selecting, organizing, and integrating information; distinguishing core ideas from peripheral details. Aligned with Bloom's "Understand" and "Analyze" levels. |
 | **2. Inferential reasoning** | Generating warranted conclusions from evidence; identifying assumptions, discerning logical relationships, and predicting implications. The cognitive bridge between information and action. |
-| **3. Evaluative judgment** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
+| **3. [[evaluative-judgment|Evaluative judgment]]** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
 | **4. Metacognitive [[regulation]]** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, [[self-directed-learning|self-directed]] practice. |
 | **5. Intellectual curiosity** | The [[motivation|motivational]] disposition to explore ideas, ask questions, and pursue knowledge beyond instrumental goals. Fuels cognitive persistence and epistemic openness. |
 | **6. Epistemic integrity** | The [[ethics|ethical]] orientation to seek truth, evaluate claims fairly, and engage with complexity conscientiously. Combines intellectual honesty with critical reflexivity. |
@@ -50,7 +50,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 | **P1. Preserve [[desirable-difficulties|cognitive friction]]** | Require independent thinking before AI; use AI to generate counterarguments | Conceptual interpretation, Inferential reasoning |
 | **P2. Scaffold LLMs as thinking partners** | Position LLMs as provisional collaborators, not authoritative sources | Inferential reasoning, Curiosity, Epistemic integrity |
 | **P3. Embed evaluation as standard practice** | Structured checkpoints for cross-referencing and criteria-based assessment | Inferential reasoning, Evaluative judgment |
-| **P4. Activate metacognitive self-regulation** | Planning templates, reflective journals, AI prompt logs | Metacognitive regulation |
+| **P4. Activate metacognitive self-regulation** | Planning templates, [[reflection|reflective journals]], AI prompt logs | Metacognitive regulation |
 | **P5. Encourage intellectual humility and curiosity** | Examine AI limitations, explore alternative perspectives, identify omissions | Curiosity, Epistemic integrity |
 | **P6. Foster epistemic integrity** | Require justification of claims, multiple perspectives, reasoning under uncertainty | Epistemic integrity |
 | **P7. Align assessment with intended cognition** | Reward reasoning quality over surface fluency; assess how students interpret, question, and integrate AI content | Evaluative judgment, Metacognitive regulation |
@@ -86,15 +86,15 @@ Both scenarios emphasize the critical sequence: *independent thinking first, [[s
 - **Instructors.** Preserve [[desirable-difficulties|cognitive friction]]: require independent thinking and a first draft before any AI consultation, then use the LLM to generate counterarguments rather than answers (P1).
 - **Instructors.** Embed evaluation as standard practice rather than an optional add-on, with structured checkpoints where students ask which perspectives an AI output prioritizes, what is absent, and which claims lack justification.
 - **Instructors.** Align assessment with the cognition you intend: reward reasoning quality over surface fluency and assess how students interpret, question, and integrate AI-generated content rather than how polished the output reads (P7).
-- **Faculty developers.** Prepare educators for the shift from facilitator to "cognitive orchestrator" (UNESCO, 2023), covering how LLMs work, how to sequence AI-free and AI-mediated phases, and ethical sensitivity to data provenance, algorithmic bias, and platform dependency.
-- **Faculty developers.** Plan for systemic constraints rather than assuming good design spreads on its own: reported barriers include ethical concerns, fragmented curricula, inadequate infrastructure, and limited faculty training, and institutional policy frameworks remain uneven on data privacy, equity, and continuous evaluation.
+- **Faculty developers.** Prepare educators for the shift from facilitator to "cognitive orchestrator" (UNESCO, 2023), covering how LLMs work, how to sequence AI-free and AI-mediated phases, and ethical sensitivity to data provenance, [[bias-mitigation|algorithmic bias]], and platform dependency.
+- **Faculty developers.** Plan for systemic constraints rather than assuming good design spreads on its own: reported barriers include ethical concerns, fragmented curricula, inadequate infrastructure, and limited faculty training, and [[educational-policy-ai|institutional policy]] frameworks remain uneven on [[privacy|data privacy]], [[equity-in-ai-education|equity]], and continuous evaluation.
 
 ## Limitations
 
 - The study is conceptual and theoretical: it reports no human participants, no dataset, and no empirical validation of the framework's effectiveness.
 - The design principles rest on established theory and recent research but are untested in classrooms; the authors call for classroom-based interventions, design-based research, or comparative studies before efficacy claims are made.
 - The authors state that effectiveness and applicability may vary across disciplines, institutional contexts, and learner populations, since higher education systems differ in technological infrastructure, faculty expertise, and policy environments.
-- The analytics indicators the framework proposes — prompt formulation and revision patterns, draft modification sequences, transitions between AI-free and AI-mediated phases — are not directly observable measures of learning and are described as requiring pedagogical interpretation rather than automated classification.
+- The [[learning-analytics|analytics]] indicators the framework proposes — prompt formulation and revision patterns, draft modification sequences, transitions between AI-free and AI-mediated phases — are not directly observable measures of learning and are described as requiring pedagogical interpretation rather than automated classification.
 
 ## Citation
 

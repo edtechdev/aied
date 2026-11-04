@@ -26,7 +26,7 @@ Two features of the evidence base sharply limit what these estimates can justify
 
 - **Adaptive and AI-enabled EdTech raises learning by ~0.125 sd** on average across 191 effect sizes from 14 RCTs in ten economies — above the median (0.10 sd) for education interventions evaluated by [[rct|randomized trial]], and within the range Kraft (2020) reads as large for broad-achievement field experiments.
 - **Generative AI shows no advantage over earlier adaptive software.** The differential for second-generation tools is 0.022 sd (SE 0.075), an interval [−0.15, 0.19] wide enough to bound the comparison rather than resolve it; the experimental record to date shows no advantage for the newer technology.
-- **Effects are consistent across education levels and income contexts** — primary (0.137 sd) and secondary (0.135 sd) are nearly identical, and high- vs. middle-income differences are not statistically significant.
+- **Effects are consistent across [[education-levels|education levels]] and income contexts** — primary (0.137 sd) and secondary (0.135 sd) are nearly identical, and high- vs. middle-income differences are not statistically significant.
 - **AI-powered tutoring averages 0.12 sd**, below the 0.288 sd pooled effect for human tutoring (Nickow et al., 2024) but at a small fraction of its cost; the strongest results come from tutoring embedded in a broader instructional strategy with clear objectives, [[curriculum-design|curriculum]] alignment, and safeguards against misuse.
 - **Gains do not extend equally to other outcomes:** socio-emotional/behavioral effects are ~0.029 sd (a quarter of the learning effect, five papers), and teaching-practice effects are indistinguishable from zero (three studies).
 - **The evidence base is narrow and [[educational-policy-ai|policy]]-relevant gaps remain:** no low-income-country study, researcher-heavy implementation, no government-alone implementation, and cost data in only ~2–3 of 14 studies.
@@ -34,11 +34,11 @@ Two features of the evidence base sharply limit what these estimates can justify
 
 ## What this means for practice
 
-- **Administrators.** Choose the instructional design before the product: the review attributes gains less to which technology is used than to whether it sits inside a sound instructional strategy with clear objectives and [[curriculum-design|curriculum]] alignment, and dosage alone does not order the estimates.
+- **Administrators.** Choose the [[learning-design|instructional design]] before the product: the review attributes gains less to which technology is used than to whether it sits inside a sound instructional strategy with clear objectives and [[curriculum-design|curriculum]] alignment, and dosage alone does not order the estimates.
 - **Policymakers.** Do not procure on the promise of novelty — the differential for second-generation [[generative-ai|generative AI]] over first-generation [[adaptive-learning|adaptive software]] is 0.022 sd (SE 0.075), an interval wide enough only to bound the comparison — and fund the model that fits the local delivery capacity.
 - **Policymakers.** Require per-student cost reporting alongside effect estimates in every publicly funded trial: comparable cost data appear in only about two or three of the 14 included studies, so the claim that [[personalized-learning|personalization]] is cheap at scale is largely unmeasured.
-- **Administrators.** Attach misuse safeguards to any AI tutoring rollout and evaluate them on their own terms: in the Türkiye study guardrails removed the harm without improving scores, and socio-emotional gains averaged only 0.029 sd.
-- **Researchers.** Study public delivery directly, since 16 of 19 interventions were researcher-implemented and none by a government alone, and recruit sites in low-income countries, where no included trial took place.
+- **Administrators.** Attach misuse safeguards to any AI tutoring rollout and evaluate them on their own terms: in the Türkiye study [[guardrails]] removed the harm without improving scores, and socio-emotional gains averaged only 0.029 sd.
+- **Researchers.** Study public delivery directly, since 16 of 19 interventions were researcher-implemented and none by a government alone, and recruit sites in [[global-south|low-income countries]], where no included trial took place.
 
 ## Limitations
 

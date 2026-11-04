@@ -40,7 +40,7 @@ verified: [citation, numbers, links]
 
 ## Two dimensions, one questionnaire
 
-The design treats positive and negative evaluations as distinct rather than opposite, following work in which the positive side reflects perceived utility and the negative side reflects anxiety and concern. Three Turkish adaptations were used: a 12-item AI literacy scale covering awareness, usage, evaluation, and ethics on a 7-point metric, a 16-item AI anxiety scale on 5 points, and a 12-item attitude scale with separate positive and negative subdimensions. Internal consistency was good for anxiety (α = 0.919) and negative attitudes (α = 0.849), acceptable for positive attitudes (α = 0.753), and weaker for literacy (α = 0.744; ω = 0.795), with two weak reverse items. With anxiety and negative attitudes correlated 0.667, the authors report HTMT = 0.746, 95% CI [0.667, 0.817], below the 0.85 criterion but sitting near it.
+The design treats positive and negative evaluations as distinct rather than opposite, following work in which the positive side reflects perceived utility and the negative side reflects anxiety and concern. Three Turkish adaptations were used: a 12-item AI literacy scale covering awareness, usage, evaluation, and [[ethics]] on a 7-point metric, a 16-item AI anxiety scale on 5 points, and a 12-item attitude scale with separate positive and negative subdimensions. Internal consistency was good for anxiety (α = 0.919) and negative attitudes (α = 0.849), acceptable for positive attitudes (α = 0.753), and weaker for literacy (α = 0.744; ω = 0.795), with two weak reverse items. With anxiety and negative attitudes correlated 0.667, the authors report HTMT = 0.746, 95% CI [0.667, 0.817], below the 0.85 criterion but sitting near it.
 
 ## What a one-wave indirect effect can carry
 
@@ -59,7 +59,7 @@ For instructors in [[teacher-education|teacher education]], literacy content and
 - A volunteer sample from one faculty of education in Turkey; the number of students approached was not recorded, so no response rate can be calculated, and generalization beyond similar programs is untested.
 - All focal variables are [[self-report-measures|self-reports]] in a single instrument, and both anxiety and negative attitudes capture negatively valenced responses to AI, with the HTMT confidence interval reaching 0.817.
 - The AI literacy composite reached only α = 0.744 with two weak reverse-worded items, and the total association with negative attitudes did not survive the nine-item rescoring.
-- Prior AI training was binary, and the instruments measured general AI literacy, anxiety, and attitudes rather than pedagogical AI attitudes, integration intentions, or classroom use.
+- Prior AI training was binary, and the instruments measured general AI literacy, anxiety, and attitudes rather than [[pedagogy|pedagogical]] AI attitudes, integration intentions, or classroom use.
 
 ## Citation
 

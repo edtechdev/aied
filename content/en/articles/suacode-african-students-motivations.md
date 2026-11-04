@@ -27,14 +27,14 @@ level: [secondary, higher ed]
 ## What this means for practice
 
 - **Learners.** Enroll with intrinsic goals you actually care about, such as improving yourself, learning alongside like-minded people, and gaining skills to address societal problems, because free and accessible content was not a strong enough motivator on its own while 68.7% of coded responses named intrinsic reasons.
-- **Learners.** Treat the peer community as part of the course rather than a side effect: learning with like-minded individuals was one of the intrinsic motives students named, so build study connections early in a [[cs-education]] MOOC.
+- **Learners.** Treat the peer community as part of the course rather than a side effect: learning with like-minded individuals was one of the intrinsic motives students named, so build study connections early in a [[cs-education]] [[online-teaching-and-learning|MOOC]].
 - **Learners.** Take the smartphone route seriously when desktop access is out of reach, since the course is delivered entirely on phones and offers an entry point where the [[digital-divide]] would otherwise exclude learners.
 
 ## Limitations
 
 - Preliminary analysis: the study codes a random sample of 450 of the 3,000+ open-ended survey responses, and the authors expect the full set to surface additional codes.
 - Single instrument and single course: an open-ended response survey administered to self-identified African students already enrolled in SuaCode, with no comparison group, no follow-up, and no learning outcome measured.
-- Motivations are not yet linked to outcomes: persistence and learning-gains analyses remained in progress, and subgroup differences by gender, region, and age had not been examined.
+- Motivations are not yet linked to outcomes: persistence and [[learning-gains]] analyses remained in progress, and subgroup differences by gender, region, and age had not been examined.
 - Respondents are self-selected enrollees who chose to answer, so the findings speak for learners who both enrolled and responded in a context where less than 1% of African secondary-school leavers possess fundamental coding skills.
 
 ## Citation

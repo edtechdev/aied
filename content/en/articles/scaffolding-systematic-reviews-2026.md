@@ -22,7 +22,7 @@ Conducting a [[meta-analysis-systematic-review|systematic review]] is an inheren
 
 ## The challenge of interdisciplinary synthesis in LDT
 
-Because LDT spans education, instructional design, psychology, information science, [[cs-education|computer science]], media studies, and more, its literature varies widely in terminology, theory, and reporting conventions. This complicates locating, integrating, and interpreting studies. The authors frame SRs as a way to reduce conceptual ambiguity and build a shared language across disciplines — an inherently [[collaborative-learning|collaborative]] undertaking that benefits from [[educational-development|developmental]] support for novice researchers.
+Because LDT spans education, instructional design, psychology, [[librarians|information science]], [[cs-education|computer science]], media studies, and more, its literature varies widely in terminology, theory, and reporting conventions. This complicates locating, integrating, and interpreting studies. The authors frame SRs as a way to reduce conceptual ambiguity and build a shared language across disciplines — an inherently [[collaborative-learning|collaborative]] undertaking that benefits from [[educational-development|developmental]] support for novice researchers.
 
 ## Navigating ambiguity at each SR stage
 
@@ -41,7 +41,7 @@ While ML and [[llm]] tools (e.g., ASReview, SWIFT-Review, Covidence, AIScreenR, 
 
 ## Relevance to the knowledge base
 
-This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[learning-design]] and AI-assisted research practice.
+This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[learning-design]] and [[ai-assisted-educational-research|AI-assisted research]] practice.
 
 ## What this means for practice
 

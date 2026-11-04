@@ -22,7 +22,7 @@ page_kind: [evaluation]
 
 ## Study Design
 
-- **Explique platform** built on GPT-4o, with the agent in the role of an **Algorithm Apprentice** (a novice student, explicitly *not* a tutor) integrated into the EPFL digital learning platform.
+- **Explique platform** built on GPT-4o, with the agent in the role of an **Algorithm Apprentice** (a novice student, explicitly *not* a tutor) integrated into the EPFL digital [[edtech-platform|learning platform]].
 - **Three engineered prompt constraints** govern the apprentice: (a) always maintain the stance of a novice, (b) persistently request questions/clarifications until the student gives a satisfactory, accurate explanation, and (c) **never reveal, hint at, or generate the target explanation** — students who tried to have the apprentice explain the algorithm back were met with resistance.
 - **Weekly after-class exercise** covering a course-aligned algorithm (e.g., Insertion Sort, DFS, Bellman–Ford), co-designed with the instructor and followed by a 3–5 item MCQ quiz.
 - **Quiz-gatekeeper design:** completing the LBT exercise unlocks the quiz; quizzes were autograded and counted for an optional 5% of the grade ([[motivation|extrinsic motivation]]), with unlimited attempts and a one-minute lockout after incorrect submissions.
@@ -43,7 +43,7 @@ page_kind: [evaluation]
 - **Instructional designers.** Prompt explicitly for elaboration and reasoning — each additional deep learning act was associated with a 2.7% decrease in expected quiz attempts — and keep the apprentice's refusal to reveal or hint at the target explanation in place.
 - **Instructional designers.** Monitor for circumvention as the semester progresses: detailed interaction fell from roughly 75% in Week 1 to 45–55% later, while direct reuse of external content rose to about 30–35% by Weeks 10–11.
 - **Instructors.** Use platform logs to connect interaction quality to quiz performance, since dialogue coding plus autograded attempts made LBT behavior measurable in an authentic high-enrollment course.
-- **Instructional designers.** Counterbalance conditions across weeks when comparing teaching with reading, so that every student experiences both activities rather than one group carrying the baseline.
+- **Instructional designers.** Counterbalance conditions across weeks when comparing teaching with reading, so that every [[student-experience|student experiences]] both activities rather than one group carrying the baseline.
 
 ## Limitations
 

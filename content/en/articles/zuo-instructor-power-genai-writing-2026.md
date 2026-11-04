@@ -21,7 +21,7 @@ confidence: high
 1. **Four polycentric power centers shape instructor perceptions.** Instructors' views and practices are not uniform but shaped by their orientation to four centers of authority: the global impact of GenAI, the university/department, colleagues, and students — each explored in detail below.
 2. **The global trend is seen as inescapable.** All instructors recognized GenAI as "the reality" — inevitable and "never going away" — motivating them to adjust teaching and "stay a step ahead" of students, though views differed on its effectiveness and ethics.
 3. **Instructors updated practices to retain authority and promote accountability.** Across the four centers, instructors responded by emphasizing the writing process over the final product ([[reflection|reflections]], more conferences, multiple revisions), holding open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
-4. **The shift is from detection toward teaching acceptable use.** Rather than relying on detection, instructors moved toward guiding responsible GenAI use and promoting student accountability — while flagging persistent equity concerns (the digital divide).
+4. **The shift is from detection toward teaching acceptable use.** Rather than relying on detection, instructors moved toward guiding responsible GenAI use and promoting student accountability — while flagging persistent [[equity-in-ai-education|equity concerns]] (the digital divide).
 
 ## Theoretical framing: scale and polycentricity
 
@@ -49,7 +49,7 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 
 - Single-site instrumental case study at one four-year U.S. liberal-arts university ("Palm Tree University") that had already formed a GenAI task force and a Quality Enhancement Plan, so the four power centers may look different where no such institutional support exists.
 - Questionnaire response was low (33 of 265 faculty), and the in-depth analysis rests on only 10 interviews, so the themes describe a small, self-selected group rather than the faculty as a whole.
-- All evidence is instructors' self-reported perceptions gathered at a single time point in Fall 2024; the study documents what instructors say they do, not observed classroom practice or student learning.
+- All evidence is instructors' [[self-report-measures|self-reported]] perceptions gathered at a single time point in Fall 2024; the study documents what instructors say they do, not observed classroom practice or student learning.
 - The 10 interviewees came from a fixed set of disciplines (English, Psychology, Education, Management, Biology, Medicine) with 3-27 years of teaching experience, leaving other fields and career stages unrepresented.
 
 ## Citation

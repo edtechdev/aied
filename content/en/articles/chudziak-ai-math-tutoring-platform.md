@@ -15,15 +15,15 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** Chudziak and Kostka (2025) propose a multi-agent AI math tutoring platform that moves beyond the reactive answer-giving of current [[llm]] tutors toward structured, individualized, tool-assisted learning. It combines adaptive Socratic tutoring agents, dual-memory (long-term + working) [[personalized-learning|personalization]], GraphRAG-based textbook retrieval, and Directed Acyclic Graph (DAG) course planning, letting students learn new topics, target their weaknesses, revise for exams, and practice on unlimited personalized exercises. On the MathDial [[benchmark]], a pedagogically informed "Tutor Prompt" significantly beat a base prompt on guided tutoring (higher Success@N, lower Telling@N), and o3-mini(high) was selected for task creation.
+> **Synthesis:** Chudziak and Kostka (2025) propose a [[agentic-ai|multi-agent]] AI math tutoring platform that moves beyond the reactive answer-giving of current [[llm]] tutors toward structured, individualized, tool-assisted learning. It combines adaptive Socratic tutoring agents, dual-memory (long-term + working) [[personalized-learning|personalization]], GraphRAG-based textbook retrieval, and Directed Acyclic Graph (DAG) course planning, letting students learn new topics, target their weaknesses, revise for exams, and practice on unlimited personalized exercises. On the MathDial [[benchmark]], a pedagogically informed "Tutor Prompt" significantly beat a base prompt on guided tutoring (higher Success@N, lower Telling@N), and o3-mini(high) was selected for task creation.
 
 ## Motivation
 
-The authors identify a core gap: current AI tutoring systems, particularly LLM-based tutors, tend to provide direct answers without encouraging deep [[reflection]] or incorporating structured [[pedagogy|pedagogical]] tools and strategies. This "reactive nature" is most problematic in [[math-education|mathematics]], where AI tutoring systems remain underdeveloped. The [[research-methods-aied|research]] question is: *How can AI tutoring systems move beyond reactive assistance to enable structured, individualized, and tool-assisted learning experiences?*
+The authors identify a core gap: current AI [[intelligent-tutoring|tutoring systems]], particularly LLM-based tutors, tend to provide direct answers without encouraging deep [[reflection]] or incorporating structured [[pedagogy|pedagogical]] tools and strategies. This "reactive nature" is most problematic in [[math-education|mathematics]], where AI tutoring systems remain underdeveloped. The [[research-methods-aied|research]] question is: *How can AI tutoring systems move beyond reactive assistance to enable structured, individualized, and tool-assisted learning experiences?*
 
 ## System Architecture
 
-Built on LangGraph, the multi-agent system's main interaction loop centers on a Tutor Agent (GPT-4o, chosen for conversational ability, tool use, and low latency) that orchestrates components via a ReAct-style framework. A Memory Dispatcher oversees personalization:
+Built on LangGraph, the multi-agent system's main interaction loop centers on a [[pedagogical-agent|Tutor Agent]] (GPT-4o, chosen for conversational ability, tool use, and low latency) that orchestrates components via a ReAct-style framework. A Memory Dispatcher oversees personalization:
 
 - **Dual-memory framework.** Long-Term Memory (LTM) stores persistent student data ([[prior-knowledge|prior knowledge]], [[misconceptions]], learning preferences, goals); Working Memory (WM) holds current-session context (topic, problem state, recent interactions).
 - **Guided tutoring.** Instead of solving problems directly, the Tutor Agent uses [[socratic-method|Socratic questioning]] that promotes self-explanation and [[metacognition|metacognitive]] skills, dynamically adjusting support based on memory-tracked progress and grounding responses in textbook data.
@@ -55,7 +55,7 @@ Built on LangGraph, the multi-agent system's main interaction loop centers on a 
 
 ## Future Work
 
-Real-world user studies to assess [[learning-gains|learning gains]], [[usability-research|user experience]], and practical utility of generated courses; advanced [[student-modeling|student modeling]] (e.g., [[affective-computing|affective]] state detection); spaced repetition; exploring different LLMs and RAG architectures; adaptability to other [[stem-education|STEM]] domains, [[accessibility]], and explainability.
+Real-world user studies to assess [[learning-gains|learning gains]], [[usability-research|user experience]], and practical utility of generated courses; advanced [[student-modeling|student modeling]] (e.g., [[affective-computing|affective]] state detection); [[retrieval-spacing-interleaving|spaced repetition]]; exploring different LLMs and RAG architectures; adaptability to other [[stem-education|STEM]] domains, [[accessibility]], and [[explainable-ai|explainability]].
 
 ## Citation
 

@@ -32,7 +32,7 @@ Between-groups, [[mixed-methods-research|mixed-methods]] pilot at a small commun
 - **Instructors.** Coach students to probe the avatar's humanlike capabilities and to recognize and adapt to its deviations — the AI reported symptoms "on and off for a few months" where the ePBLM returned "Only on occasion," and its rapport-building tone varied between groups.
 - **Curriculum designers.** Introduce genAI-enabled patients early, even in the first year, because rising third-year students brought an established keyword-querying framework from the legacy ePBLM into the encounter.
 - **Medical educators.** Budget tutorial time for slower history-taking: genAI groups spent 55–65 min versus 36–39 min for ePBLM, about 10 min of it extra history-taking, though only the genAI groups closed the case by giving the patient a diagnosis and initial management plan.
-- **Instructional designers.** Manage the reality–accuracy trade-off deliberately: tightening guardrails to prevent deviation risks making the LLM robotic, while loosening them admits bias, inaccuracy, and unpredictability — decide how much deviation the [[problem-based-learning|PBL]] case can absorb.
+- **Instructional designers.** Manage the reality–accuracy trade-off deliberately: tightening guardrails to prevent deviation risks making the [[llm]] robotic, while loosening them admits bias, inaccuracy, and unpredictability — decide how much deviation the [[problem-based-learning|PBL]] case can absorb.
 
 ## Limitations
 

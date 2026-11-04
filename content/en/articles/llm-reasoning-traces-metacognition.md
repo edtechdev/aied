@@ -17,7 +17,7 @@ confidence: high
 ## Key Findings
 - **Summary traces** preserved task performance at the no-trace baseline while elevating trust and hedonic appeal — changing how users *feel* without helping them perform.
 - **Full traces** from a verbose open-weight model actually *impaired* performance relative to answer-only baselines.
-- **No trace format** supported calibrated self-evaluation — metacognitive overestimation was universal.
+- **No trace format** supported calibrated [[self-assessment|self-evaluation]] — metacognitive overestimation was universal.
 - **Hedonic appeal**, not trust, carried the indirect path to overestimation, consistent with a processing-fluency account: the pleasant experience of reading traces inflates confidence without improving understanding.
 
 ## Connection to AIED
@@ -29,7 +29,7 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 ## What this means for practice
 - **Instructors.** Ask students to write down their own approach or tentative answer while the model is generating, rather than exposing them to longer model reasoning traces; the format of the trace did not support calibrated self-evaluation.
 - **Designers.** Stop framing a visible reasoning trace as evidence that the answer is correct: participants overestimated their performance regardless of trace format, and summary traces raised trust and hedonic appeal without improving task performance.
-- **Designers.** Prefer contrastive explanations that expose divergences between the user's and the model's reasoning, which the qualitative data identify as the promising direction, over refinements to longer traces.
+- **Designers.** Prefer contrastive explanations that expose divergences between the user's and the model's reasoning, which the [[qualitative-research|qualitative]] data identify as the promising direction, over refinements to longer traces.
 - **Instructors.** Build a calibration step into AI-assisted tasks — have students predict their own score or confidence before seeing the result — because overestimation was universal across all trace conditions.
 
 ## Limitations

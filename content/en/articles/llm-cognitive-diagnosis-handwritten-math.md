@@ -15,7 +15,7 @@ sources: ['raw/papers/llm-cognitive-diagnosis-handwritten-math.md']
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** **MathCog** [[benchmark]] (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
+> **Synthesis:** **MathCog** [[benchmark]] (3,036 [[teacher-role|teacher]]-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
 
 ## Summary
 

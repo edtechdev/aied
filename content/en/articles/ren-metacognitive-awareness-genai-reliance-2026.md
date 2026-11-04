@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Ren (2026) asks whether college students notice how much generative AI shapes their own judgments. In a three-condition randomized experiment, 342 undergraduates at one Chinese university completed 24 analytical reasoning, data interpretation, and information credibility tasks under no AI, open multi-turn ChatGPT support, or the same ChatGPT support plus a brief metacognitive [[reflection]] prompt. Open ChatGPT support raised final confidence and carried 62.4% acceptance of incorrect AI advice. Reflection cut that acceptance to 39.7% (OR = 0.40), improved [[trust-calibration|awareness calibration]] between perceived and behavioral reliance (0.59 vs. 0.41), and weakened the attribution bias index (0.21 vs. 0.42), without reducing recommendation accuracy or triggering blanket rejection of useful advice. The paper frames reliance as a monitoring problem rather than a frequency-of-use problem, and treats "metacognitive dependence" as an organizing label rather than a validated trait.
+> **Synthesis:** Ren (2026) asks whether college students notice how much [[generative-ai|generative AI]] shapes their own judgments. In a three-condition randomized experiment, 342 undergraduates at one Chinese university completed 24 analytical reasoning, data interpretation, and information credibility tasks under no AI, open multi-turn ChatGPT support, or the same ChatGPT support plus a brief metacognitive [[reflection]] prompt. Open ChatGPT support raised final confidence and carried 62.4% acceptance of incorrect AI advice. Reflection cut that acceptance to 39.7% (OR = 0.40), improved [[trust-calibration|awareness calibration]] between perceived and behavioral reliance (0.59 vs. 0.41), and weakened the attribution bias index (0.21 vs. 0.42), without reducing recommendation accuracy or triggering blanket rejection of useful advice. The paper frames reliance as a monitoring problem rather than a frequency-of-use problem, and treats "metacognitive dependence" as an organizing label rather than a validated trait.
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ reviewed_by: [editor]
 
 ## Study Design and Method
 
-Participants were 342 undergraduates at Anhui University of Science and Technology (18 excluded from 360 recruited) and took part online in Spring 2026. Each of the 24 tasks required an initial answer and a 0 to 100 confidence rating before any AI interaction; the two AI conditions then used a browser-based ChatGPT interface (model label GPT-5.4) with a standardized starter prompt and at most two follow-up questions. The reflection condition answered three prompts about its own reasoning, the evidential basis of the AI explanation, and what would justify rejection, before finalizing answers. Two coders extracted each final ChatGPT recommendation and scored its correctness (Cohen's kappa = 0.91).
+Participants were 342 undergraduates at Anhui University of Science and Technology (18 excluded from 360 recruited) and took part online in Spring 2026. Each of the 24 tasks required an initial answer and a 0 to 100 confidence rating before any [[student-ai-interaction|AI interaction]]; the two AI conditions then used a browser-based ChatGPT interface (model label GPT-5.4) with a standardized starter prompt and at most two follow-up questions. The reflection condition answered three prompts about its own reasoning, the evidential basis of the AI explanation, and what would justify rejection, before finalizing answers. Two coders extracted each final ChatGPT recommendation and scored its correctness (Cohen's kappa = 0.91).
 
 ## Condition Effects on Confidence and Advice Use
 
@@ -49,7 +49,7 @@ After feedback, participants rated whether outcomes stemmed from their own abili
 
 - **Instructors.** Add a short pre-submission reflection prompt asking for the student's own reasoning, which parts of an AI explanation rest on evidence rather than fluency, and what would change their mind.
 - **Instructors.** Expect confidence to rise with AI help regardless of accuracy, and build tasks where students compare their initial answer with the AI response explicitly.
-- **Program designers.** Pair AI-literacy teaching with monitoring practice, since knowing about model limits did not stop students from accepting plausible wrong advice.
+- **Program designers.** Pair [[ai-literacy]] teaching with monitoring practice, since knowing about model limits did not stop students from accepting plausible wrong advice.
 - **Assessment leads.** Keep some work unassisted where independent mastery is the target, because assisted performance and understanding can diverge.
 
 ## Limitations

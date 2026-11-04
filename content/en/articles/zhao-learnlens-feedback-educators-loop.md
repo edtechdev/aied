@@ -14,7 +14,7 @@ confidence: high
 level: [secondary]
 ---
 
-> **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalized, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost (\$0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
+> **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalized, curriculum-aligned feedback in [[science-education|science education]] by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost (\$0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
 
 ## Core Finding
 
@@ -23,16 +23,16 @@ level: [secondary]
 LearnLens is designed as a dual-interface system serving both teachers and students, built around three components that each target a shortcoming of prior AI-feedback systems.
 
 ### 1. Error-Aware Assessment Module
-The "Assessor" maps each student answer onto a curriculum-aligned mark scheme of weighted key concepts, awarding **partial credit** when a concept is detected even if the final answer is wrong. It **decouples conceptual understanding from [[writing-education|writing quality]]**: grammatical and typographical issues are captured by a separate expression-quality flag and excluded from the numerical grade. A self-reflection mechanism is triggered when a direct "grade-this-answer" prompt score diverges from the concept-matching score, and the transparent weighting of concepts is said to ease disputes and remove the "black box" impression.
+The "Assessor" maps each student answer onto a curriculum-aligned mark scheme of weighted key concepts, awarding **partial credit** when a concept is detected even if the final answer is wrong. It **decouples conceptual understanding from [[writing-education|writing quality]]**: grammatical and typographical issues are captured by a separate expression-quality flag and excluded from the numerical grade. A [[reflection|self-reflection]] mechanism is triggered when a direct "grade-this-answer" prompt score diverges from the concept-matching score, and the transparent weighting of concepts is said to ease disputes and remove the "black box" impression.
 
 ### 2. Curriculum-Grounded Generation (Chain-of-Concept)
 Rather than similarity-based retrieval, the system organizes past assessments by curriculum topics into a **topic graph** and confines retrieval to the topic subgraph for a query — an explicit departure from traditional RAG. Each question is decomposed into sub-question nodes labeled with curriculum topics; retrieval is confined to the topic subgraph and ranked by a FAISS-based ranker. The authors argue this reduces cross-topic noise and improves relevance, producing pedagogically coherent feedback aligned to learning objectives. A safety-aligned model filters harmful, biased, or otherwise inappropriate language post-generation.
 
 ### 3. Educator-in-the-Loop Interface
-Teachers can monitor student performance, review and revise feedback through a conversational interface, propagate edits across an entire quiz, and select embedded **verifiers** that score feedback on Scientific Accuracy, Clarity (accessible to GCSE-level students), and Specificity. A verification-and-revision loop iterates until all criteria meet a threshold (min_i r_i ≥ τ) or the iteration limit is reached, returning the highest-scoring feedback; verification uses a *separate* foundation model from the generator to mitigate model-family bias. Importantly, teacher intervention is treated as a signal of dissatisfaction that triggers allocation of additional computational resources for deeper reflection — prioritizing feedback quality and user trust over speed.
+Teachers can monitor student performance, review and revise feedback through a conversational interface, propagate edits across an entire quiz, and select embedded **verifiers** that score feedback on Scientific Accuracy, Clarity (accessible to GCSE-level students), and Specificity. A verification-and-revision loop iterates until all criteria meet a threshold (min_i r_i ≥ τ) or the iteration limit is reached, returning the highest-scoring feedback; verification uses a *separate* [[llm|foundation model]] from the generator to mitigate model-family bias. Importantly, [[teacher-role|teacher]] intervention is treated as a signal of dissatisfaction that triggers allocation of additional computational resources for deeper reflection — prioritizing feedback quality and user trust over speed.
 
 ### 4. Student-Facing Interface (Assessor–Planner–Generator)
-The student side combines three modules: the **Assessor** delivers consistent, fine-grained, partial-credit scoring (weighted sum of concept matches, robust to surface errors); the **Planner** retrieves curriculum-grounded evidence from the topic graph and analyses pupil errors and [[prior-knowledge|prior knowledge]] to select the most effective feedback strategy; and the **Generator** produces feedback via an LLM self-reflection mechanism (reasoning over the student's response and mark scheme), with a safety-aligned filter applied post-generation. This delivers timely, tailored feedback that promotes continuous learning.
+The student side combines three modules: the **Assessor** delivers consistent, fine-grained, partial-credit scoring (weighted sum of concept matches, robust to surface errors); the **Planner** retrieves curriculum-grounded evidence from the topic graph and analyses pupil errors and [[prior-knowledge|prior knowledge]] to select the most effective feedback strategy; and the **Generator** produces feedback via an LLM self-reflection mechanism (reasoning over the student's response and mark scheme), with a safety-aligned filter applied post-generation. This delivers timely, tailored feedback that promotes [[lifelong-learning|continuous learning]].
 
 ## Evaluation Results
 
@@ -64,8 +64,8 @@ Strengths include a modular, component-level evaluation on authentic student ans
 
 ## Limitations
 
-- Evaluation covers teachers, not students: the 30-teacher usability study (N = 30) reports perceptions only, and the authors explicitly acknowledge the lack of student evaluation, so no claim about student learning gains is supported.
-- Teacher evidence is self-report Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education]] GCSE science context, which limits generalization to other subjects and year groups.
+- Evaluation covers teachers, not students: the 30-teacher usability study (N = 30) reports perceptions only, and the authors explicitly acknowledge the lack of student evaluation, so no claim about student [[learning-gains|learning gains]] is supported.
+- Teacher evidence is [[self-report-measures|self-report]] Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education]] GCSE science context, which limits generalization to other subjects and year groups.
 - Scoring performance rests on 100 authentic student answers, and all experiments ran under local deployment with three models (Llama-3-8B, Qwen2.5-32B, QwQ-32B), so the reported MSE, latency and cost figures may not transfer to other model stacks or cloud settings.
 
 ## Citation

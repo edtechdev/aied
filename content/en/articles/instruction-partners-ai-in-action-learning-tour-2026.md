@@ -23,7 +23,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Instruction Partners spent the 2025–26 school year studying 20 student-facing [[ai-education|AI-powered instructional products]] already in use across at least 1,000 school systems, observing 32 classrooms in 16 school systems across seven states and interviewing 50+ teachers, 25+ school and system leaders and 100+ students. This is a report, not a peer-reviewed study: its judgments come from fieldwork rather than measured effect sizes. Three product categories emerged: three general-purpose chatbots, five education-focused multipurpose platforms and 13 targeted instructional tools. The report's sharpest claim is that the chatbots pose the clearest threat to student thinking, because they make it easy to bypass the reasoning and [[productive-failure|productive struggle]] learning requires while appearing to complete the work. Its procurement number is sobering: seven products have independent reviews that examine student achievement across student groups in the US. Teachers stayed central, implementation mattered as much as design, and the recommended actions are the authors' proposals rather than findings.
+> **Synthesis:** Instruction Partners spent the 2025–26 school year studying 20 student-facing [[ai-education|AI-powered instructional products]] already in use across at least 1,000 school systems, observing 32 classrooms in 16 school systems across seven states and interviewing 50+ teachers, 25+ school and system leaders and 100+ students. This is a report, not a peer-reviewed study: its judgments come from fieldwork rather than measured effect sizes. Three product categories emerged: three general-purpose [[conversational-ai|chatbots]], five education-focused multipurpose platforms and 13 targeted instructional tools. The report's sharpest claim is that the chatbots pose the clearest threat to student thinking, because they make it easy to bypass the reasoning and [[productive-failure|productive struggle]] learning requires while appearing to complete the work. Its procurement number is sobering: seven products have independent reviews that examine [[learning-gains|student achievement]] across student groups in the US. Teachers stayed central, implementation mattered as much as design, and the recommended actions are the authors' proposals rather than findings.
 
 ## Key Findings
 
@@ -44,7 +44,7 @@ The report is emphatic that implementation matters as much as design. The same p
 
 ## What the evidence base does and does not support
 
-Of the 16 products with complete profiles, seven have independent reviews that examine student achievement across student groups in the US, two have conducted studies outside the US, four have external studies underway and three look only at internal data. The authors argue that independently evaluated causal studies, covering priority groups, should be the expectation for all student-facing products, which puts [[interpreting-and-applying-aied-research|interpreting the evidence]] in adoption decisions. In literacy, benefits included more writing practice with faster feedback and precise diagnosis of letter sound combinations, while risks included practice disconnected from any text and easy text releveling that lowers cognitive demand. In math, products that captured reasoning rather than only final answers let teachers see thinking, but misdiagnosed misconceptions sent students back to relearn material they already knew.
+Of the 16 products with complete profiles, seven have independent reviews that examine student achievement across student groups in the US, two have conducted studies outside the US, four have external studies underway and three look only at internal data. The authors argue that independently evaluated causal studies, covering priority groups, should be the expectation for all student-facing products, which puts [[interpreting-and-applying-aied-research|interpreting the evidence]] in adoption decisions. In literacy, benefits included more writing practice with faster feedback and precise diagnosis of letter sound combinations, while risks included practice disconnected from any text and easy text releveling that lowers cognitive demand. In math, products that captured reasoning rather than only final answers let teachers see thinking, but misdiagnosed [[misconceptions]] sent students back to relearn material they already knew.
 
 ## What this means for practice
 
@@ -55,10 +55,10 @@ Of the 16 products with complete profiles, seven have independent reviews that e
 
 ## Limitations
 
-- This is a report, not peer-reviewed research: it is qualitative and reports no control conditions, effect sizes or standardized outcome measures.
+- This is a report, not peer-reviewed research: it is [[qualitative-research|qualitative]] and reports no control conditions, effect sizes or standardized outcome measures.
 - The sample was not selected scientifically: products came from what partner systems were already using plus a market scan built to vary grade levels, subjects and designs.
 - Several counts describe the 16 products with complete profiles rather than all 20, and the authors plan to revise the analysis as the tour continues.
-- The report states that it did not analyze data privacy, technical integration, pricing, how products promote [[ai-literacy]], or environmental impact.
+- The report states that it did not analyze [[privacy|data privacy]], technical integration, pricing, how products promote [[ai-literacy]], or environmental impact.
 
 ## Citation
 

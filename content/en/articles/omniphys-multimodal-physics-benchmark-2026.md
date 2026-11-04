@@ -44,10 +44,10 @@ OmniPhys matters to the knowledge base for three reasons. First, it extends the 
 
 ## Limitations
 
-- The corpus is predominantly Chinese educational material, and the cross-lingual prompting protocol (English instructions, Chinese problems) leaves physics reasoning ability confounded with Chinese multimodal alignment; the authors plan A-Level and IPhO material to separate the two.
+- The corpus is predominantly Chinese educational material, and the cross-lingual [[prompt-engineering|prompting]] protocol (English instructions, Chinese problems) leaves physics reasoning ability confounded with Chinese multimodal alignment; the authors plan A-Level and IPhO material to separate the two.
 - Multimodal output evaluation remains underexplored and no fully scalable solution exists: MLLM-based judges overestimated the quality of generated content and missed subtle physical inconsistencies, necessitating costly human evaluation.
 - The ablation study ran on a Test-Mini subset of 10% of the data, selected by consensus of five state-of-the-art models for a 75% empirical failure rate, not on the full benchmark.
-- Failure analysis is limited to qualitative observations of representative error patterns; the authors state they still lack an error-attribution study at scale that would separate visual perception failures from logical reasoning errors.
+- Failure analysis is limited to [[qualitative-research|qualitative]] observations of representative error patterns; the authors state they still lack an error-attribution study at scale that would separate visual perception failures from logical reasoning errors.
 
 ## Citation
 

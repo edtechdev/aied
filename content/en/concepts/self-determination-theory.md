@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-01T09:13:47-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -47,9 +47,9 @@ A configurational test sharpens the point: among 498 medical undergraduates, GAI
 
 For teachers themselves, AI collaboration cuts both ways: a three-wave study of 468 university teachers found it raised work engagement through psychological availability while lowering it through work alienation, and [[teacher-ai-competency|digital competency]] strengthened the first path and weakened the second ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-A co-agency framework bounds SDT's reach in AI-mediated education: it changes the circumstances under which autonomy, competence, and relatedness arise but leaves equity of power, data ownership, and accountability unaddressed, which is why its authors set human epistemic accountability as a non-negotiable condition outside the theory ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+A co-agency framework bounds SDT's reach in AI-mediated education: it changes the circumstances under which autonomy, competence, and relatedness arise but leaves [[equity-in-ai-education|equity]] of power, data ownership, and accountability unaddressed, which is why its authors set human epistemic accountability as a non-negotiable condition outside the theory ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Autonomy support as the frame for children's GenAI use.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] relocate the question of responsible use from restriction to need support, arguing that the distinction that matters is whether adults around a child support autonomy rather than control it, and distinguishing dependent from autonomous [[cognitive-offloading]] within SDT terms: dependent offloading transfers [[agency]] and lowers intrinsic motivation, autonomous offloading scaffolds while the learner retains epistemic control. Two features of the review are directly relevant to SDT application: it insists that autonomy support is not permissiveness, and it treats the family-school coordination that current guidance assumes as an untested hypothesis, formalizing additive, synergistic and compensatory versions that only a factorial trial contrasting family-only, school-only, coordinated and usual-practice guidance could discriminate.
+**Autonomy support as the frame for children's GenAI use.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] relocate the question of responsible use from restriction to need support, arguing that the distinction that matters is whether adults around a child support autonomy rather than control it, and distinguishing dependent from autonomous [[cognitive-offloading]] within SDT terms. Dependent offloading transfers [[agency]] and lowers intrinsic motivation; autonomous offloading [[scaffolding|scaffolds]] while the learner retains epistemic control. Two features of the review are directly relevant to SDT application: it insists that autonomy support is not permissiveness, and it treats the family-school coordination that current guidance assumes as an untested hypothesis, formalizing additive, synergistic and compensatory versions that only a factorial trial contrasting family-only, school-only, coordinated and usual-practice guidance could discriminate.
 
 ## Connections to related concepts
 
@@ -62,7 +62,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 
 - **"Motivation type matters less than motivation amount."** A year-long study found **three motivational profiles — Disengaged, Developing, Self-Determined — stable over time**, and students who reached the **Self-Determined** profile showed the **greatest [[ai-literacy]] gains**. The quality of motivation predicted the learning, and the profiles did not simply drift upward.
 - **"Autonomy support means removing structure."** The SDT mechanism is autonomy, competence and relatedness together, and the longitudinal evidence shows that satisfying them predicted gains rather than merely accompanying them. Autonomy without competence support is permissiveness, and it does not satisfy the theory's conditions.
-- **"A chatbot can supply the three needs automatically."** A study found ChatGPT could support autonomy, relatedness and competence in language learning — a possibility, not a property. Whether a given interaction supports them is an empirical question about how it is used.
+- **"A [[conversational-ai|chatbot]] can supply the three needs automatically."** A study found ChatGPT could support autonomy, relatedness and competence in language learning — a possibility, not a property. Whether a given interaction supports them is an empirical question about how it is used.
 
 ## Connected Concepts
 

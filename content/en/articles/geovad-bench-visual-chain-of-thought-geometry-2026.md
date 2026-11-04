@@ -58,10 +58,10 @@ Against open-source peers on GeoVAD-Bench, GeoWeave-8B posts the highest answer 
 
 ## Limitations
 
-- **Scope stops at geometry.** GeoVAD-Bench is 600 problems that strictly require auxiliary constructions, evenly split into 200 Easy, 200 Medium and 200 Hard items, in Chinese and English; whether the gains transfer beyond geometric problem solving is left to future validation.
+- **Scope stops at geometry.** GeoVAD-Bench is 600 problems that strictly require auxiliary constructions, evenly split into 200 Easy, 200 Medium and 200 Hard items, in Chinese and English; whether the gains transfer beyond geometric [[problem-solving|problem solving]] is left to future validation.
 - **Error attribution rests on two models.** The 93.1% and 89.7% error shares come from MathCanvas-7B (n = 306) and CodePlot-CoT-32B (n = 300), so the process-failure profile is model-specific rather than a property of visual chain-of-thought in general.
 - **Model-generated and model-verified training data.** The 400K perception pairs, 200K editing samples and 100K interleaved solutions were produced with Gemini-3.5-Flash and Qwen3.7-Max and filtered by re-executing the drawing code to discard failures, not by expert review.
-- **Unresolved scale and infrastructure costs.** The authors state that scaling behavior for training data and model parameters is unexplored, that the interleaved reinforcement learning infrastructure incurs substantial computational overhead, and that it does not yet accommodate joint policy updates across the visual generation and text understanding branches.
+- **Unresolved scale and infrastructure costs.** The authors state that scaling behavior for training data and model parameters is unexplored, that the interleaved [[reinforcement-learning|reinforcement learning]] infrastructure incurs substantial computational overhead, and that it does not yet accommodate joint policy updates across the visual generation and text understanding branches.
 
 ## Citation
 

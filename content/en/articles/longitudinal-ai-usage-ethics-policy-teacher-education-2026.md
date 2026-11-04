@@ -32,8 +32,8 @@ institutions: [educational-policy-ai]
 
 ## Limitations
 
-- The study ran at a single public research-intensive university in the Midwestern United States, using purposive and convenience sampling from one teacher education program, which the authors say limits generalizability.
-- All measures come from an 11-question self-report survey vulnerable to social desirability bias, and some of the research team also taught the surveyed classes.
+- The study ran at a single public research-intensive university in the Midwestern United States, using purposive and convenience sampling from one [[teacher-role|teacher]] education program, which the authors say limits generalizability.
+- All measures come from an 11-question [[self-report-measures|self-report]] survey vulnerable to social desirability bias, and some of the research team also taught the surveyed classes.
 - Of 423 eligible students, 319 completed the survey (about 75%), leaving only 65, 60, 96, and 98 responses across the four waves — small counts for comparing subgroups.
 - Some survey items changed across the four waves, and external factors such as specific course requirements and disciplinary norms were not accounted for.
 

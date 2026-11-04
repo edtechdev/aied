@@ -18,7 +18,7 @@ methods: [ai-ed-evaluation]
 
 ## Key Findings
 
-1. **AI pass rate tracks student performance.** In a synchronous eight-problem final exam where ten models solved alongside 120 students, AI pass rate correlated positively with student pass rate (Spearman *rho* = 0.866), and a solving-based composite difficulty index correlated negatively with it (*rho* = −0.905).
+1. **AI pass rate tracks student performance.** In a synchronous eight-problem [[summative-assessment|final exam]] where ten models solved alongside 120 students, AI pass rate correlated positively with student pass rate (Spearman *rho* = 0.866), and a solving-based composite difficulty index correlated negatively with it (*rho* = −0.905).
 2. **Strong problem-level calibration across exams.** Across 79 problems from 11 parallel-class final exams, AI overall difficulty correlated with problem-level pass rate at *rho* = −0.871 and with non-attempt rate at *rho* = 0.800; a 26-problem longitudinal data-structures sample gave −0.829 and 0.883.
 3. **Boundary condition in introductory courses.** A 106-problem CS101 sample marked the limit: problem-level correlation weakened to *rho* = −0.552 and exam-level correlation across 16 exams was near zero, with cohort [[writing-education|composition]] dominating exam-level outcomes. Exposure-discount and duplicate-problem perturbation tests did not change the direction of findings.
 4. **Explicit use-and-abstention boundaries.** The single-reviewer design, unverifiable model identity, and review-output instability mean AI difficulty scales are suitable for problem validation, parallel-class [[bias-mitigation|fairness]] discussion, and longitudinal quality tracking — but must not drive individual student evaluation or automatic grade adjustment.
@@ -28,7 +28,7 @@ methods: [ai-ed-evaluation]
 - **Instructors.** Use AI difficulty estimates to flag mis-calibrated problems for item-setting review, not to grade individual students — problem-level AI difficulty tracked student pass rate at rho = -0.871 across 79 problems, but the same evidence is explicitly unsuitable for individual student evaluation.
 - Feed AI results into course-group discussion as risk markers (high difficulty, high time-limit risk, high non-attempt warning) rather than precise scores, and keep the instructor's judgment as the final word.
 - Annotate each exam problem with its exposure type, item-bank visibility, and training coverage before comparing parallel classes; changing the exposure discount from 0.00 to 0.40 left the correlation direction unchanged.
-- **Researchers.** Combine solving-based and review-based calibration — use multi-model answering experiments to establish the ruler's credibility and review-based runs to expand exam coverage — then validate both against student-group performance and teacher judgment.
+- **Researchers.** Combine solving-based and review-based calibration — use multi-model answering experiments to establish the ruler's credibility and review-based runs to expand exam coverage — then validate both against student-group performance and [[teacher-role|teacher]] judgment.
 - Shift assessment objectives toward problem modeling, algorithm selection, debugging strategy, and human-AI collaborative programming, since models already solve routine coding and template implementation reliably.
 
 ## Limitations
@@ -36,7 +36,7 @@ methods: [ai-ed-evaluation]
 - The solving-based experiment covered only 8 problems and 10 AI models, so its ranking correlation with student pass rate (rho = 0.866) rests on a small problem set.
 - All review-based evidence came from a single reviewer run through a third-party OpenAI-compatible endpoint whose model label (gpt-5.6-sol) cannot authenticate an official OpenAI model.
 - The exam-level sample is 11 exams that mix two scoring calibers (problems passed and score), so exam-level correlations are exploratory; the 106-problem CS101 sample showed the problem-level correlation weakening to rho = -0.552 and the exam-level correlation across its 16 exams near zero.
-- Public OpenJudge problems and their solutions may sit in the reviewer's pretraining corpus, and the third-party endpoint makes the degree of training-data overlap harder to assess; the authors call for de-contamination validation.
+- Public OpenJudge problems and their solutions may sit in the reviewer's [[llm-training-and-fine-tuning|pretraining]] corpus, and the third-party endpoint makes the degree of training-data overlap harder to assess; the authors call for de-contamination validation.
 
 ## Citation
 

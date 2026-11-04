@@ -65,7 +65,7 @@ The real-world validation uses the complete public school network of Calabria, I
 - The synthetic instances at n ∈ {250, 500, 750, 1000} abstract away geography: inter-school travel time is computed as Euclidean distance divided by a fixed speed (v = 1), so no synthetic instance exercises a real road network.
 - The hybrid quantum campaign covers only the n = 500 instance; the authors restricted it because available hybrid quantum resources cannot efficiently solve substantially larger sizes, making it a single-size proof of concept.
 - No public benchmark dataset exists for school dimensioning under territorial constraints, and the real-world validation is a single region (Calabria, Italy, 190 binary decision variables) in a single school year (2025/2026); the model optimizes a policy-weighted proxy objective, not measured learning or [[equity-in-ai-education|equity]] outcomes.
-- The territorial-protection coefficient C4 was never exercised: the Calabrian dataset contains no institutions classified as at risk of dimensioning under the adopted regulatory framework, so that penalty term remained inactive.
+- The territorial-protection coefficient C4 was never exercised: the Calabrian dataset contains no institutions classified as at risk of dimensioning under the adopted [[regulation|regulatory framework]], so that penalty term remained inactive.
 
 ## Citation
 

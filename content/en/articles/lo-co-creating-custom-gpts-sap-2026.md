@@ -40,10 +40,10 @@ The central argument is that co-creation with GenAI can extend the SaP paradigm 
 ## What this means for practice
 
 - **Educators.** Partner students in building unit-specific AI tools rather than only teaching about them, since this project moved undergraduates from consumers of educational technology to co-producers who understood the technology critically.
-- **Educators.** Provide scaffolding for [[generative-ai]] co-creation — critique triggers, clear strategies for iterative testing, checkpoints for reflection, and explicit discussion of coping with failure or unexpected outcomes.
-- **Designers.** Keep technical and pedagogical training inseparable: have student partners frame prompt and design choices around learning purposes, as the Socratic cGPTs did by responding to queries with questions rather than answers.
+- **Educators.** Provide [[scaffolding]] for [[generative-ai]] co-creation — critique triggers, clear strategies for iterative testing, checkpoints for reflection, and explicit discussion of coping with failure or unexpected outcomes.
+- **Designers.** Keep technical and [[llm-training-and-fine-tuning|pedagogical training]] inseparable: have student partners frame prompt and design choices around learning purposes, as the [[socratic-method|Socratic]] cGPTs did by responding to queries with questions rather than answers.
 - **Designers.** Budget for the iterative, unpredictable nature of the work, including repeated cycles of design, tailoring, testing, and optimization before a tool becomes unit-appropriate.
-- **Educators.** Recruit with equity in mind — offer student-partnership roles through more than one route (scholarship and for-credit placement) so that co-creation does not reproduce the "usual suspects" of already confident and well-connected students.
+- **Educators.** Recruit with [[equity-in-ai-education|equity]] in mind — offer student-partnership roles through more than one route (scholarship and for-credit placement) so that co-creation does not reproduce the "usual suspects" of already confident and well-connected students.
 
 ## Limitations
 

@@ -19,7 +19,7 @@ level: [higher ed]
 
 ## Key Findings
 
-- **Problem:** Students often ignore well-designed program visualizations; existing cognitive design principles don't explain [[student-engagement|learner engagement]]/disengagement.
+- **Problem:** Students often ignore well-designed program [[visualization|visualizations]]; existing cognitive design principles don't explain [[student-engagement|learner engagement]]/disengagement.
 - **Method:** Within-subjects study (N=19 undergraduates, post-CS1/CS2) using think-aloud, interviews, and webcam gaze tracking with a multi-representational probe.
 - **Gaze finding:** ~47% of time on code despite visual scaffolds; students without prior experience anchored more in code and ignored metaphor views.
 - **Three engagement themes:** [[agency|Agency]] (control over cognitive effort), Representational Fit (wide individual variation), Legitimacy (metaphors seen as childish at university level).

@@ -65,7 +65,7 @@ A pre/post gain shows the intervention worked. It shows scores rose. Whether the
 
 Published effect sizes transfer to my class. O'Neill's 14 meta-analyses could not support the claims built on them, and both reported prediction intervals included zero.
 
-Platform analytics measure teaching quality. Zhang's third-ranked agent was last on an expert rubric.
+Platform [[learning-analytics|analytics]] measure teaching quality. Zhang's third-ranked agent was last on an expert rubric.
 
 ## What will come back at you
 

@@ -29,7 +29,7 @@ methods: [design-based-research]
 
 ## Key Findings
 
-1. **Feasible, but unevenly appraised.** The build ran for eight 60-minute sessions with the teacher as facilitator; 37 of 47 criteria cleared IOC 0.50 — content M = 1.00, media-technology M = 0.758 (7 of 11 met), instructional design 0.845 (20 of 26).
+1. **Feasible, but unevenly appraised.** The build ran for eight 60-minute sessions with the [[teacher-role|teacher]] as facilitator; 37 of 47 criteria cleared IOC 0.50 — content M = 1.00, media-technology M = 0.758 (7 of 11 met), [[learning-design|instructional design]] 0.845 (20 of 26).
 2. **CT total rose 3.07 points.** Scores went from M = 15.73 (SD = 1.48) to M = 18.80 (SD = 0.71), Z = 4.73, r = .86, d_av = 2.79, bootstrap 95% CI [2.30, 3.56].
 3. **Four of five dimensions moved; algorithm design did not.** Decomposition (r = .60), pattern recognition (.71), abstraction (.80), and evaluation (.72) survived Holm correction; algorithm design gave Z = 1.13, p = .260, d_av = 0.30.
 4. **Achievement gains were larger and coarser.** Scores rose from M = 7.27 (SD = 2.64) to M = 13.17 (SD = 1.02), a 5.90-point gain and d_av = 3.23 on an instrument with pilot KR-20 = 0.60.
@@ -38,7 +38,7 @@ methods: [design-based-research]
 
 ## Six components and a two-role AI
 
-The transferable design idea is that "AI support" becomes two operationally distinct roles rather than one chatbot. The coach is learner-initiated and dialogic: a GPT-4 [[pedagogical-agent|non-player character]] reached through an API, with messages routed to an intermediary server where tokenization and intent classification extract problem context. A prompt of roughly 150–300 Thai words forbids direct answers, requires hints mapped to the five CT dimensions, and caps replies at two to three sentences, with temperature at 0.2–0.4 and history at three or four turns. The second role is system-initiated and behavioral — a rule-based engine with a basic [[machine-learning|machine learning]] component that calibrates difficulty from time-to-solution, logical-error rate, and hint-request frequency. That split makes the environment genuinely adaptive, and it operationalizes [[constructivist]] contingent tutoring instead of answer dispensing.
+The transferable design idea is that "AI support" becomes two operationally distinct roles rather than one [[conversational-ai|chatbot]]. The coach is learner-initiated and dialogic: a GPT-4 [[pedagogical-agent|non-player character]] reached through an API, with messages routed to an intermediary server where tokenization and intent classification extract problem context. A prompt of roughly 150–300 Thai words forbids direct answers, requires hints mapped to the five CT dimensions, and caps replies at two to three sentences, with temperature at 0.2–0.4 and history at three or four turns. The second role is system-initiated and behavioral — a rule-based engine with a basic [[machine-learning|machine learning]] component that calibrates difficulty from time-to-solution, logical-error rate, and hint-request frequency. That split makes the environment genuinely adaptive, and it operationalizes [[constructivist]] contingent tutoring instead of answer dispensing.
 
 ## Where the gains appeared, and where the instrument ran out
 

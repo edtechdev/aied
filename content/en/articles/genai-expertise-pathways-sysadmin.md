@@ -29,13 +29,13 @@ Drawing on 14 semi-structured interviews with IT professionals, this study explo
 - **Instructors.** Preserve the build-fail-debug cycles that build technical intuition: participants reported GenAI handling 60–70% of a task, removing the repetitive training ground on which professional judgment rests.
 - **Instructors.** Train novices to audit AI output line by line rather than accept it, since participants warned that the tool can "very confidently" give a wrong answer and that new users tend to "take it as is."
 - **Designers.** Treat verification as a required competency in [[professional-training]] and [[lifelong-learning]] programs rather than an afterthought; experienced participants positioned human expertise around context, verification, and judgment.
-- **Administrators.** Make productivity metrics context-aware by counting the invisible labor of iterative prompting and output "babysitting," so a two-speed culture does not penalize staff without AI access or push them toward shadow AI use.
+- **Administrators.** Make productivity metrics context-aware by counting the invisible labor of iterative [[prompt-engineering|prompting]] and output "babysitting," so a two-speed culture does not penalize staff without AI access or push them toward shadow AI use.
 
 ## Limitations
 
 - Fourteen semi-structured 45-minute interviews with IT professionals; the authors frame the findings as exploratory rather than generalizable.
 - Participants all had 2–15 years of experience and prior GenAI use, so the study does not follow novices over time and cannot confirm that the predicted "learning debt" materializes.
-- Accounts are self-reported; the claimed time savings (for example a "70, 80 percent time saving," or a two-month task compressed to two weeks) are participants' own estimates, not measured.
+- Accounts are [[self-report-measures|self-reported]]; the claimed time savings (for example a "70, 80 percent time saving," or a two-month task compressed to two weeks) are participants' own estimates, not measured.
 - The account rests on one interview study, with no control condition and no observation of actual task performance.
 
 ## Citation

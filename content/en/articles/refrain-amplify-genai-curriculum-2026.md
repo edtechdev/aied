@@ -54,7 +54,7 @@ This positions sequencing as a [[curriculum-design]] and [[governance]] decision
 ## Limitations
 
 - The framework is a conceptual proposal, and the assumption that a capacity formed unaided and then amplified under supervision leaves a graduate able to judge when to refrain in work no program observes is a claim about transfer for which the authors state they have no direct evidence.
-- The experimental support it cites for keeping the student's own thinking in the loop comes from single sessions, with ownership self-reported.
+- The experimental support it cites for keeping the student's own thinking in the loop comes from single sessions, with ownership [[self-report-measures|self-reported]].
 - The recurring checkpoint that makes the floor enforceable is expensive in time, and recurring probes invite coaching — an acute problem for the adversarial-defense case in writing — with the mitigations left to each program to design.
 - The design asks instructors to teach a practice many are still learning themselves, and the authors warn that a floor is easy to read as a ceiling and an invariant easy to convert into a form to be filled in, leaving a program with the apparatus but not the design.
 

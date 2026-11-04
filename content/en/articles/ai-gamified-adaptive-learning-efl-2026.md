@@ -26,7 +26,7 @@ page_kind: [evaluation]
 
 - **The model was not identifiable under ordinal estimation**, consistent with very weak specific factors. An S-1 diagnostic that omitted the effectiveness facet converged and fitted well, implicating that facet as a major contributor to the non-identification.
 
-- **The general factor may be partly method-induced.** Every item was positively worded, self-reported on a single occasion, and showed a pronounced ceiling effect, and a Harman-style screen loaded much of the variance onto one factor. Learner characteristics explained little of the variance in acceptance, and the only significant predictor — frequency of use — is itself a self-report conceptually close to acceptance.
+- **The general factor may be partly method-induced.** Every item was positively worded, [[self-report-measures|self-reported]] on a single occasion, and showed a pronounced ceiling effect, and a Harman-style screen loaded much of the variance onto one factor. Learner characteristics explained little of the variance in acceptance, and the only significant predictor — frequency of use — is itself a self-report conceptually close to acceptance.
 
 ## Study Design & Method
 

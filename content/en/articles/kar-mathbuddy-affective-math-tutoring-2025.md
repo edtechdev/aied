@@ -16,7 +16,7 @@ confidence: medium
 
 ## Key Findings
 
-MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most AI math tutors respond to the *content* of student answers but ignore the *emotional state* of the learner. This is problematic because mathematics learning is deeply affective — frustration, confusion, anxiety, and confidence all shape how students engage with mathematical problems and whether they persist through difficulty.
+MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most AI math tutors respond to the *content* of student answers but ignore the *emotional state* of the learner. This is problematic because mathematics learning is deeply affective — frustration, confusion, [[anxiety-and-stress|anxiety]], and confidence all shape how students engage with mathematical problems and whether they persist through difficulty.
 
 **Multimodal emotion modeling.** MathBuddy captures student affect through two complementary channels: (1) conversational [[educational-nlp|text analysis]], which detects emotional signals in the linguistic content of student responses (e.g., expressions of frustration, confusion, or confidence), and (2) facial expression analysis, which captures moment-to-moment emotional reactions through computer vision. These modalities are aggregated to produce a unified affective state assessment that is more robust than either modality alone — a design principle consistent with the broader [[syal-multimodal-dialogue-stem-2026]] literature.
 
@@ -38,7 +38,7 @@ MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most
 - The user study ran with 30 participants aged 15–55, recruited almost entirely from the authors' own university, so the sample includes no children — a gap the authors flag because younger learners' idea of ideal tutoring may differ substantially.
 - Each participant completed only two tutoring sessions of roughly 10 minutes, and learning was measured with a 6-question multiple-choice test, so any learning effect is measured at a very coarse grain.
 - Multimodal emotion aggregation reached just 60% accuracy against participants' own gold annotations, with Neutral recall of 0.15 and Positive recall of 0.41 — the system's read of affect is the weakest link in the pipeline.
-- The authors state the field lacks a golden standard for tutoring quality, and their qualitative ratings rely on users who may rate user experience rather than educational prowess.
+- The authors state the field lacks a golden standard for tutoring quality, and their [[qualitative-research|qualitative]] ratings rely on users who may rate [[usability-research|user experience]] rather than educational prowess.
 
 ## Citation
 

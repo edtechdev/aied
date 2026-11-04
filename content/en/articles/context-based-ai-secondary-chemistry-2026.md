@@ -13,7 +13,7 @@ sources: ['raw/papers/context-based-ai-secondary-chemistry-2026.md']
 confidence: high
 audience: [instructors, curriculum designers, policymakers]
 ---
-> **Synthesis:** Abdikayumova and Madybekova (2026) use a [[mixed-methods-research|mixed-methods]], quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary [[chemistry-education|chemistry]]. The experimental group, using **PhET interactive [[simulation|simulations]] and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. 
+> **Synthesis:** Abdikayumova and Madybekova (2026) use a [[mixed-methods-research|mixed-methods]], quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary [[chemistry-education|chemistry]]. The experimental group, using **PhET interactive [[simulation|simulations]] and [[generative-ai|ChatGPT]] tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. 
 
 ## Design and intervention
 
@@ -27,20 +27,20 @@ audience: [instructors, curriculum designers, policymakers]
 - **[[learning-gains|Achievement]]:** ANCOVA showed the experimental group scored **significantly higher** than both comparison and control groups, with a **large effect size**.
 - **Engagement:** experimental-group students reported the highest levels of interest and participation.
 - **Synergy of components:** the three elements — contextualization, inquiry (7E), and adaptive AI — functioned synergistically. Contextual activities increased relevance and [[motivation|intrinsic motivation]]; the 7E cycle structured exploratory reasoning; AI provided real-time clarification and tailored explanations, reduced [[misconceptions]], and supported self-paced learning.
-- **Teacher dependence:** qualitative data showed the benefits relied on teacher guidance and careful lesson planning, not on the tools alone.
+- **[[teacher-role|Teacher]] dependence:** qualitative data showed the benefits relied on teacher guidance and careful lesson planning, not on the tools alone.
 
 ## What this means for practice
 
 - **Teachers.** Combine context-based activities with the 7E cycle and adaptive AI rather than adopting any one alone; the integrated group outscored both the 7E-only and conventional groups with a large effect size.
-- **Teachers.** Expect to do the pedagogical work: qualitative evidence showed the gains depended on teacher guidance and careful lesson planning, not on the tools alone.
-- **Curriculum designers.** Anchor chemistry in real-world contexts and embed [[simulation|simulations]] and AI tutoring in the inquiry phases, since contextual activities raised relevance and intrinsic [[motivation]] while AI supplied real-time clarification.
+- **Teachers.** Expect to do the [[pedagogy|pedagogical]] work: qualitative evidence showed the gains depended on teacher guidance and careful lesson planning, not on the tools alone.
+- **Curriculum designers.** Anchor chemistry in real-world contexts and embed [[simulation|simulations]] and [[intelligent-tutoring|AI tutoring]] in the inquiry phases, since contextual activities raised relevance and intrinsic [[motivation]] while AI supplied real-time clarification.
 - **Policymakers.** Guarantee [[equity-in-ai-education|equitable]] access to AI tools and issue clear ethical-use guidance covering privacy and transparency of AI responses.
 - **Teachers.** Use AI as a conceptual scaffold — usage logs showed students sought explanations of mechanisms rather than final answers — and confirm it reduces [[misconceptions]] instead of replacing student reasoning.
 
 ## Limitations
 
 - The sample is 93 Grade 10 students in a single, region-specific setting over 12 weeks, so the small sample limits broader generalization.
-- Engagement was measured partly through a five-point self-report scale (Cronbach's α = 0.84); the authors note students often overestimate engagement, though observation checklists and AI-usage logs were added to triangulate it.
+- Engagement was measured partly through a five-point [[self-report-measures|self-report]] scale (Cronbach's α = 0.84); the authors note students often overestimate engagement, though observation checklists and AI-usage logs were added to triangulate it.
 - Variability in teacher implementation, despite fidelity checks, may also have influenced outcomes.
 - The authors flag potential novelty effects of the AI tools, so the gains may not persist once the novelty fades.
 

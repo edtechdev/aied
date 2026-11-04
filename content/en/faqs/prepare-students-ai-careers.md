@@ -21,9 +21,9 @@ ai_assist:
     agent: hermes-agent
 ---
 
-A student asks why they should learn to do something a chatbot already does. A program advisory group says employers want graduates who can use AI at work. Your syllabus has to satisfy both, and neither of them has said what the graduate should be able to do unaided.
+A student asks why they should learn to do something a [[conversational-ai|chatbot]] already does. A program advisory group says employers want graduates who can use AI at work. Your syllabus has to satisfy both, and neither of them has said what the graduate should be able to do unaided.
 
-Short answer to give a colleague: teach the whole professional task, not the tool operation, and assess both the supported product and the student's independent capability. The evidence supports treating readiness as disciplinary knowledge plus judgment plus verification plus transfer, and it does not support any list of skills as a guarantee of employment. A survey of 500 US college instructors against an employer panel found the two groups agreeing on the importance of exactly one of 26 AI-related skills, *setting realistic expectations for AI-augmented work*; instructors weighted critical and responsible use while employers weighted workflow, automation and human-AI teaming ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Those are reported priorities, not hiring evidence. The sharper finding for a curriculum is elsewhere: in a survey of 455 final-year students, AI literacy reached perceived employability mostly by raising [[career-development-and-readiness|career adaptability]], with an indirect effect of β = 0.173 alongside a direct β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan and Lestari, 2026]]). Adaptability is a capability you can teach. A tool tip is not.
+Short answer to give a colleague: teach the whole professional task, not the tool operation, and assess both the supported product and the student's independent capability. The evidence supports treating readiness as disciplinary knowledge plus judgment plus verification plus transfer, and it does not support any list of skills as a guarantee of employment. A survey of 500 US college instructors against an employer panel found the two groups agreeing on the importance of exactly one of 26 AI-related skills, *setting realistic expectations for AI-augmented work*; instructors weighted critical and responsible use while employers weighted workflow, automation and [[human-ai-collaboration|human-AI teaming]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Those are reported priorities, not hiring evidence. The sharper finding for a [[curriculum-design|curriculum]] is elsewhere: in a survey of 455 final-year students, AI literacy reached perceived employability mostly by raising [[career-development-and-readiness|career adaptability]], with an indirect effect of β = 0.173 alongside a direct β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan and Lestari, 2026]]). Adaptability is a capability you can teach. A tool tip is not.
 
 ## The short version
 
@@ -69,13 +69,13 @@ These are adaptations of the research themes, not tested employment intervention
 
 Composition and business communication: have students critique and revise an AI-drafted reply to a customer complaint. The evidence of capability is naming the unsupported promises, explaining the audience choices, and defending the final wording.
 
-A quantitative course can do the same with an AI-produced estimate for a realistic planning problem, where students construct their own estimate, state the assumptions and test plausibility.
+A [[quantitative-research|quantitative]] course can do the same with an AI-produced estimate for a realistic planning problem, where students construct their own estimate, state the assumptions and test plausibility.
 
 For a spreadsheet or computing course, hand out a generated formula and synthetic data, then ask for test cases, an explanation of the references, and one failure condition.
 
-Health professions: students evaluate a generated explanation for a fictional case against approved sources, name its limitations, and state when a qualified professional must decide.
+[[medical-education|Health professions]]: students evaluate a generated explanation for a fictional case against approved sources, name its limitations, and state when a qualified professional must decide.
 
-Career exploration has its own version: compare the task composition of two occupations using credible occupational information, then plan one concrete skill-development or help-seeking step.
+Career exploration has its own version: compare the task composition of two occupations using credible occupational information, then plan one concrete skill-development or [[help-seeking]] step.
 
 For asynchronous delivery, ask for an initial attempt, a short verification record and a two-sentence note on one consequential decision. In a lab or seminar, the explanation can happen in conversation. Use synthetic or authorized materials whenever the alternative is confidential workplace or student data.
 
@@ -85,19 +85,19 @@ A polished artifact tells you what was produced under the permitted conditions. 
 
 Choose those requirements because they support a stated capability, and say which one each assessment is measuring. Students accept independent practice when it is connected to the thing they are being prepared for; "you will need this someday" does less work than showing how the calculation is what lets them catch a wrong estimate later.
 
-The support side has its own risk. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] found GenAI use positively associated with GenAI dependence, and dependence negatively associated with both critical thinking and employability in their survey model. That is an association rather than a causal claim, and it points at the design question: a course that only ever assesses supported performance may be training the dependence it reports.
+The support side has its own risk. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] found [[generative-ai|GenAI]] use positively associated with GenAI dependence, and dependence negatively associated with both [[critical-thinking|critical thinking]] and employability in their survey model. That is an association rather than a causal claim, and it points at the design question: a course that only ever assesses supported performance may be training the dependence it reports.
 
 For program review, separate the measures. Course performance, demonstrated AI literacy, internship-supervisor evaluation, employment status and job quality are different outcomes with different time horizons, and a single intervention cannot establish all of them. [[ai-literacy-evidence|The AI literacy evidence]] page is the honest inventory of what intervention studies actually support.
 
 ## Address career anxiety without promising certainty
 
-Students arrive with real fears, and the survey literature on them is a description of the fears rather than a forecast of the labor market. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] found AI anxiety directly and negatively predicting career decisions, which is a finding about decision paralysis, not about jobs. [[ai-anxiety-wellbeing|The wellbeing picture]] covers the wider evidence.
+Students arrive with real fears, and the survey literature on them is a description of the fears rather than a forecast of the labor market. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] found [[anxiety-and-stress|AI anxiety]] directly and negatively predicting career decisions, which is a finding about decision paralysis, not about jobs. [[ai-anxiety-wellbeing|The wellbeing picture]] covers the wider evidence.
 
 What helps is investigation at the scale a student can act on: which tasks does this role actually contain, what does a week look like, what would I need to be able to do, who can tell me. Career services, alumni and placement staff hold that information. A tool demonstration, an instructor's impression or a vendor's presentation is not a labor-market forecast, and presenting one as a forecast is how programs lose their credibility with students who then check.
 
 ## What will come back at you
 
-**"Students just need better prompting."** Prompting is one clause of one of the six parts. A well-specified request does not supply the knowledge needed to recognize a bad result, and the employers in the Ithaka panel were not ranking prompt craft first either.
+**"Students just need better [[prompt-engineering|prompting]]."** Prompting is one clause of one of the six parts. A well-specified request does not supply the knowledge needed to recognize a bad result, and the employers in the Ithaka panel were not ranking prompt craft first either.
 
 **"If workplaces allow AI, coursework should allow it."** A course also builds the capability that makes responsible use possible. Say which of the two you are assessing in each task, and the objection becomes a design question rather than a contradiction.
 
@@ -121,4 +121,4 @@ What helps is investigation at the scale a student can act on: which tasks does 
 
 [[career-development-and-readiness]] is the concept page for employability, adaptability and workforce evidence, and [[ai-literacy]] covers what literacy means beyond tool operation. For building it into a specific course, see [[incorporating-ai-literacy|incorporating AI literacy]] and [[faculty-ai-competencies|what competencies faculty need]].
 
-For the assessment design that makes supported and independent performance distinguishable, see [[redesign-assessment-ai-era|redesigning assessment in the AI era]] and [[ai-grading-fairness-reliability|AI grading]]. For how to keep support from becoming dependence, see [[reducing-over-reliance|reducing over-reliance]].
+For the [[assessment|assessment design]] that makes supported and independent performance distinguishable, see [[redesign-assessment-ai-era|redesigning assessment in the AI era]] and [[ai-grading-fairness-reliability|AI grading]]. For how to keep support from becoming dependence, see [[reducing-over-reliance|reducing over-reliance]].

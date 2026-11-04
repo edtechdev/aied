@@ -27,7 +27,7 @@ page_kind: [framework]
 ## Limitations
 
 - The evaluation covers ten generated videos from five in-corpus topics and a single learner persona, so it cannot establish robustness across learner profiles or topic types; out-of-corpus topics fall back to placeholder slides and lose the course-grounding benefit entirely.
-- No human learners were measured. The authors state this limits any claim about learning effectiveness and describe a planned within-subjects study with n=20 undergraduate biomedical-engineering students, Latin-square topic ordering, and 5-point Likert ratings per PCK dimension as the next step.
+- No human learners were measured. The authors state this limits any claim about [[learning-gains|learning effectiveness]] and describe a planned within-subjects study with n=20 undergraduate biomedical-engineering students, Latin-square topic ordering, and 5-point Likert ratings per PCK dimension as the next step.
 - The judge is drawn from the same model family as the generator, which raises self-preference risk; the reported within-judge variance is small (σ̄=0.063, α≈0.97), but that does not establish agreement across model families.
 - The ablation isolates only the engagement module, with scaffolding-off and adaptive-off conditions left to future work, so the results are a focused contrast between the full system and a no-engagement variant rather than a causal decomposition of all four components.
 

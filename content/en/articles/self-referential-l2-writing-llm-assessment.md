@@ -31,16 +31,16 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 ## What this means for practice
 
 - **Software developers.** Score each learner against their own profile instead of a cohort rank: classify every analytic aspect as a relative strength or weakness against that learner's mean, and report F0.5 for both feedback directions rather than a Spearman correlation against human scores, since high rank correlations can mask poor [[automated-essay-scoring|diagnostic]] behavior through intercorrelation and halo effects.
-- **Software developers.** Split the labor between model and teacher along the measured asymmetry — GPT-4.1 attained the highest average F0.5 for negative feedback (relative weaknesses) while the operational rater outperformed all three models on most Language aspects (Intelligibility, Accuracy, and Fluency) plus Comprehensibility and Purposefulness, so a model is best used to flag weaknesses and a teacher to confirm strengths.
+- **Software developers.** Split the labor between model and [[teacher-role|teacher]] along the measured asymmetry — GPT-4.1 attained the highest average F0.5 for negative feedback (relative weaknesses) while the operational rater outperformed all three models on most Language aspects (Intelligibility, Accuracy, and Fluency) plus Comprehensibility and Purposefulness, so a model is best used to flag weaknesses and a teacher to confirm strengths.
 - **Software developers.** Budget for ensembles, not single raters: on Logicality it took an ensemble of three raters to outperform the best-performing models (GPT-4.1 on negative feedback and Llama 3.1 on positive feedback).
 - **Researchers.** Test the framework on a second corpus before trusting it. This is the first self-referential framework for analytic assessment, implemented zero-shot on one dataset, so treat profile-level outputs as diagnostic hypotheses rather than settled [[educational-measurement|measurement]].
 
 ## Limitations
 
 - Everything rests on a single dataset — ICNALE GRA with N = 140 unique essays, four of them written by L1 speakers and kept rather than discarded — and the authors name that single-dataset reliance as their first caution.
-- The learner population is narrow: the data focuses on Asian learners within an English as a Lingua Franca framework, and generalization to other L1 backgrounds or other second languages is untested.
+- The [[learners|learner population]] is narrow: the data focuses on Asian learners within an English as a Lingua Franca framework, and generalization to other L1 backgrounds or other second languages is untested.
 - The strength/weakness split uses a one-standard-deviation threshold, which the authors describe as a heuristic choice rather than a psychometrically derived cutoff, and the Attitude aspects (Willingness and Involvement) show lower inter-rater agreement — so model-versus-human differences there likely reflect noise in the reference labels.
-- The model comparison is zero-shot and limited to three LLMs — GPT-4.1, Qwen 2.5 72B, and Llama 3.1 70B, the latter two 4-bit quantized — so quantization and prompt design are uncontrolled.
+- The model comparison is zero-shot and limited to three LLMs — GPT-4.1, Qwen 2.5 72B, and Llama 3.1 70B, the latter two 4-bit quantized — so quantization and [[prompt-engineering|prompt design]] are uncontrolled.
 
 ## Citation
 Bannò, S., Knill, K., & Gales, M. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298).

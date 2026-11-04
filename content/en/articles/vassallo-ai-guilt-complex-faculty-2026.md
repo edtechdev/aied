@@ -16,7 +16,7 @@ sources: ['raw/papers/vassallo-ai-guilt-complex-faculty-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Vassallo surveyed all 3,100 academic staff at a comprehensive public university in Malta in 2025; 109 completed the survey, a 3.5% response rate the paper treats as data about the state of [[ethics|ethical]] debate in academia rather than only as a limitation. On a four-item AI Guilt Index (Cronbach's α = 0.88) anticipatory guilt about professional standing substantially exceeded remorse reported after use, and k-means clustering produced four moral response profiles from Comfortable Adopters to Morally Distressed Avoiders. The guilt paradox is the counterintuitive result: non-users reported higher guilt than users, which the paper reads as anticipatory distress preventing the experience that might resolve it. It argues that AI integration in [[higher-ed]] needs emotional and identity work alongside technical training and policy.
+> **Synthesis:** Vassallo surveyed all 3,100 academic staff at a comprehensive public university in Malta in 2025; 109 completed the survey, a 3.5% response rate the paper treats as data about the state of [[ethics|ethical]] debate in academia rather than only as a limitation. On a four-item AI Guilt Index (Cronbach's α = 0.88) anticipatory guilt about professional standing substantially exceeded remorse reported after use, and k-means clustering produced four moral response profiles from Comfortable Adopters to Morally Distressed Avoiders. The guilt paradox is the counterintuitive result: non-users reported higher guilt than users, which the paper reads as anticipatory distress preventing the experience that might resolve it. It argues that AI integration in [[higher-ed]] needs emotional and [[learner-identity|identity work]] alongside technical training and policy.
 
 ## Key Findings
 
@@ -54,7 +54,7 @@ Five reconciliation strategies appeared: tool framing, comparing AI to calculato
 
 - **Academic developers.** Technical training and usage policy will not resolve a problem that is partly emotional and identity-based: only 34 respondents (31.2%) saw clear guidelines at their institution, and clarity correlated only weakly with lower guilt (r = −.25).
 - **Institutions.** Create spaces for open discussion of moral concerns and collective boundary-setting rather than relying on top-down mandates, since a mandate addresses behavior while anticipatory guilt sits upstream of it.
-- **Academic development programs.** Treat guilt and identity concern as normal transitional responses rather than faults to correct: a temporal trajectory in which remembered guilt diminished with continued use runs through the open-ended responses.
+- **[[educational-development|Academic development]] programs.** Treat guilt and identity concern as normal transitional responses rather than faults to correct: a temporal trajectory in which remembered guilt diminished with continued use runs through the open-ended responses.
 - **Mentors and senior colleagues.** Consider mentorship by senior academics who have integrated AI, because guilt fell with career stage (early-career M = 2.71, mid-career M = 2.50, senior M = 2.03; the early-to-senior difference was 0.68, p = .037) and falls hardest on those facing the greatest professional pressure.
 - **Individuals weighing AI use.** Structure low-stakes experimentation as the route through anticipatory anxiety, since the guilt paradox suggests discomfort fades with use rather than before it.
 

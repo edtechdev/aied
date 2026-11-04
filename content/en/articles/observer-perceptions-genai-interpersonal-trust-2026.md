@@ -51,7 +51,7 @@ The paper's story is that GenAI use is read socially: observers see a heavy user
 
 - **Treat AI use as a social signal, not only an integrity question.** In this sample, peer trust tracked perceived warmth (β = 0.47) and perceived competence (β = 0.32) more strongly than GenAI use itself, so how a class frames AI use may matter as much as whether it is permitted.
 - **Make reasoning about AI visible.** The negative association between use and trust was significant at low perceived AI literacy (β = −0.23) but not at high (β = 0.03, p = 0.57), which suggests work that surfaces how a student evaluates and checks AI output can shape peers' reading of that student.
-- **Do not expect a literacy framing to change the character judgment.** Perceived AI literacy did not moderate the warmth or competence paths, so presentations about "responsible AI use" address the direct trust concern, not the impression of the user's warmth.
+- **Do not expect a literacy framing to change the character judgment.** Perceived AI literacy did not moderate the warmth or competence paths, so presentations about "[[ethics|responsible AI]] use" address the direct trust concern, not the impression of the user's warmth.
 - **Watch peer-rating contexts.** Because students judge one another partly through AI use, [[peer-assessment]] and [[group-work]] routines that make AI use salient without context risk importing that penalty into evaluations of the person.
 
 ## Limitations

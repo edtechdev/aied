@@ -59,13 +59,13 @@ The T3 result carries the most interpretive weight. Constraints were taught thro
 
 - **Instructors.** Read a tier profile against the phase it came from: 48.1% T5 during requirements and 17.9% T4 during verification is appropriate, while a flat profile is the signal worth investigating.
 - **Instructors.** Treat constraint writing as domain knowledge, not prompting technique. Students who cannot say what properties a good artifact has will not produce T3 prompts however well output formats are taught.
-- **Assessment designers.** Keep the reflective journal unmarked and say so, as this course did. Once tiers carry marks, the record stops describing what students actually do with AI.
+- **Assessment designers.** Keep the [[reflection|reflective journal]] unmarked and say so, as this course did. Once tiers carry marks, the record stops describing what students actually do with AI.
 - **Curriculum designers.** Place a checkpoint on platform fundamentals where lookup spikes: T1 reached 53.0% of prompts in Week 9 as students moved into an unfamiliar low-code environment.
 
 ## Limitations
 
 - Coding is confined to prompt text: attachments were not recorded, other journal fields were not consulted, and context retained from earlier turns earns no credit, so conversation-level agency is under-counted.
-- The AI Journal is self-reported and unmarked, and delegated interactions are the likeliest to go unrecorded, so 15.8% should not be read as the true prevalence of delegation; submissions fell from 187 prompts in Week 4 to 58-75 per week from Week 8.
+- The AI Journal is [[self-report-measures|self-reported]] and unmarked, and delegated interactions are the likeliest to go unrecorded, so 15.8% should not be read as the true prevalence of delegation; submissions fell from 187 prompts in Week 4 to 58-75 per week from Week 8.
 - The lifecycle phases are confounded with lecture topics, AI instruction and assessment demands that changed on the same schedule, so phase effects cannot be separated from teaching.
 - Evidence comes from one first-year course in one semester at one university, with a 27-student longitudinal subset.
 

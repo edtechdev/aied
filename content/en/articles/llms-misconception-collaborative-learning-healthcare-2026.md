@@ -13,7 +13,7 @@ audience: [medical educators, instructors]
 level: [higher ed]
 ---
 
-> **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate misconceptions as a tool for misconception-based collaborative learning in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term [[research-methods-aied|research]] on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.
+> **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate misconceptions as a tool for misconception-based [[collaborative-learning|collaborative learning]] in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term [[research-methods-aied|research]] on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.
 
 ## Key Findings
 
@@ -25,16 +25,16 @@ level: [higher ed]
 ## What this means for practice
 
 - **Instructors.** Generate misconception texts with an LLM instead of authoring them by hand: input lecture slides or textbook chapters, set the model's role (for example, a junior medical student), and deploy the output as the object of student refutation.
-- **Instructors.** Review every generated misconception before class — LLMs such as ChatGPT-4o may occasionally provide misconceptions based on content errors rather than the intended conceptual target — and keep statements that isolate a single concept.
-- **Instructors.** Run short group presentations in which students identify and explain each LLM-generated misconception, then have groups converse in a Socratic role-play to work through it.
+- **Instructors.** Review every generated misconception before class — LLMs such as [[generative-ai|ChatGPT]]-4o may occasionally provide misconceptions based on content errors rather than the intended conceptual target — and keep statements that isolate a single concept.
+- **Instructors.** Run short group presentations in which students identify and explain each LLM-generated misconception, then have groups converse in a [[socratic-method|Socratic]] role-play to work through it.
 - **Instructors.** Assess afterward by re-uploading anonymized student examination answers and lecture notes, using the comparison to judge whether the discussion changed students' [[misconceptions|understanding]].
 - **Instructors.** Teach students to flag absolute qualifiers such as "all" or "every" inside LLM-generated misconceptions, building the [[critical-thinking]] and misinformation-literacy skill the framework is designed to cultivate.
 
 ## Limitations
 
-- The paper is conceptual and reports no outcome data; the authors note that only 2 quantitative studies have been conducted on misconception-based reasoning in health care education, so the method's efficacy in this field is untested.
+- The paper is conceptual and reports no outcome data; the authors note that only 2 [[quantitative-research|quantitative]] studies have been conducted on misconception-based reasoning in health care education, so the method's efficacy in this field is untested.
 - More than half of the existing misconception-based learning studies come from other fields (Newtonian physics, genetically modified organisms, evolution); the authors caution that generalizing its efficacy to health care education may not be fully applicable.
-- Implementation depends on an institutional pre-trained LLM chatbot and on uploading anonymized student examination answers and lecture notes, which adds data-governance requirements to the workflow.
+- Implementation depends on an institutional pre-trained LLM [[conversational-ai|chatbot]] and on uploading anonymized student examination answers and lecture notes, which adds data-governance requirements to the workflow.
 - The authors flag LLM vulnerabilities as a key limitation of the pedagogical method, noting that adversarial-attack testing or encryption specific to LLM modalities has yet to be explored.
 
 ## Citation

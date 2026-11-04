@@ -13,7 +13,7 @@ discipline: [medical education, nursing education]
 audience: [instructors, faculty developers, instructional designers]
 ---
 
-> **Synthesis:** Wiss et al. (2025) describe a [[mixed-methods-research|mixed-methods]] study that introduced a [[generative-ai|generative AI]] agent — **CALIE** (Collaborative Agent for Learning and Interprofessional Exploration) — into twelve newly formed interprofessional student teams in a virtual [[problem-based-learning|problem-based learning]] session, intentionally prompted to inject controversial viewpoints and counter groupthink. Across 158 survey respondents from seven health-professions graduate programs, the genAI agent positively influenced group dynamics, stimulated [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and limited groupthink's potential. The faculty facilitator's stance toward the AI significantly shaped students' acceptance of it, and students' perceptions of the AI as useful, helpful, and part of the team differed significantly and were positively intercorrelated.
+> **Synthesis:** Wiss et al. (2025) describe a [[mixed-methods-research|mixed-methods]] study that introduced a [[generative-ai|generative AI]] agent — **CALIE** (Collaborative Agent for Learning and [[collaborative-learning|Interprofessional]] Exploration) — into twelve newly formed interprofessional student teams in a virtual [[problem-based-learning|problem-based learning]] session, intentionally prompted to inject controversial viewpoints and counter groupthink. Across 158 survey respondents from seven health-professions graduate programs, the genAI agent positively influenced group dynamics, stimulated [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and limited groupthink's potential. The faculty facilitator's stance toward the AI significantly shaped students' acceptance of it, and students' perceptions of the AI as useful, helpful, and part of the team differed significantly and were positively intercorrelated.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ A mixed-methods study under Yale IRB. 165 graduate health-professions learners (
 
 - The genAI output was pre-generated and read aloud at three fixed points, so students interacted with the agent only in brief interjections rather than a participant in the team's ongoing discussion.
 - Teams spent about 60 minutes together, a window the authors judge too short for the novelty of the agent to fade and for genuine groupthink effects to appear; longitudinal follow-up was left to future work.
-- Data are self-reported perceptions from 158 of the 165 participating learners, with the qualitative strand drawn solely from open-response survey comments.
+- Data are [[self-report-measures|self-reported]] perceptions from 158 of the 165 participating learners, with the qualitative strand drawn solely from open-response survey comments.
 - Learners came from seven health-professions graduate programs at a single institution, so other professions (e.g., social work, addiction sciences) and non-health disciplines are unrepresented.
 
 ## Citation

@@ -29,8 +29,8 @@ page_kind: [framework, evaluation]
 
 - The evaluation covers two models only — Qwen3-Next-80B-A3B-Instruct (general) and Qwen3-Coder-Next (coder) — chosen because they share a 48-layer architecture and tokenizer; the authors state that validation across additional model families, scales, and training recipes remains an important next step.
 - Bloom's Taxonomy serves as a structural proxy, so the framework measures task-level cognitive demand and says nothing about multi-turn tutoring dynamics or learner-specific adaptation.
-- The benchmark suite is English-language and Python-centric (2,520 tasks drawn from three code benchmarks), leaving other programming languages and non-programming learning tasks unexamined.
-- Augmented tasks were produced with a zero-shot prompting protocol and no human audit of the generated mutations, and the Bloom judge, even with its reported agreement against a 150-question human-validated subset, may not hold on mutations that shift away from that validation distribution.
+- The [[benchmark|benchmark suite]] is English-language and Python-centric (2,520 tasks drawn from three code benchmarks), leaving other programming languages and non-programming learning tasks unexamined.
+- Augmented tasks were produced with a zero-shot [[prompt-engineering|prompting]] protocol and no human audit of the generated mutations, and the Bloom judge, even with its reported agreement against a 150-question human-validated subset, may not hold on mutations that shift away from that validation distribution.
 
 ## Citation
 

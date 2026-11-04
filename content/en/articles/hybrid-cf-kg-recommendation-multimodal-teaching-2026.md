@@ -40,7 +40,7 @@ The authors construct a knowledge graph whose entities are teaching resources, l
 - **Offline evaluation only.** All results are on historical interaction logs with ranking metrics (NDCG, HR, coverage, CDA); the authors state explicitly that reported improvements reflect recommendation quality, not [[learning-gains|learning effectiveness]], and call for [[teacher-role|teacher]] assessments, learner studies, and outcome-based experiments as future work.
 - **English-subset scope.** Evaluation uses the English subset of MARS, so generalization to other languages, domains, or datasets is untested.
 - **Model-learned vs. empirically fixed weights.** IPI aggregation weights and fusion parameters are tuned on a validation split and held fixed; no sensitivity analysis is reported for them.
-- **No online/cold-start deployment test.** Robustness is tested by removing modalities, not by evaluating truly cold-start users or live personalization.
+- **No online/cold-start deployment test.** Robustness is tested by removing modalities, not by evaluating truly cold-start users or live [[personalized-learning|personalization]].
 
 ## Citation
 

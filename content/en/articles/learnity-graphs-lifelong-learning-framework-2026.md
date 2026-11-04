@@ -13,12 +13,12 @@ confidence: high
 audience: [curriculum designers, administrators, instructional designers]
 ---
 
-> **Synthesis:** Szekely, Gal-Ezer & Harel (2026) argue that AI-mediated knowledge access warrants rethinking fixed higher-education curricula, proposing "learnity graphs" — structured representations of learning as interconnected units of knowledge, skills, experience, and artifacts — as a lifelong-learning framework that integrates academic, professional, and personal learning.
+> **Synthesis:** Szekely, Gal-Ezer & Harel (2026) argue that AI-mediated knowledge access warrants rethinking fixed higher-education curricula, proposing "learnity graphs" — structured representations of learning as interconnected units of knowledge, skills, experience, and artifacts — as a [[lifelong-learning]] framework that integrates academic, professional, and personal learning.
 
 ## Key Findings
 
 1. **The value proposition of universities persists.** The authors emphasize that universities remain essential for foundational knowledge, theoretical depth, and conceptual grounding; the goal is not to replace academic study but to extend it.
-2. **AI mediation changes the calculus.** In an era where knowledge is increasingly AI-mediated and accessible, the fixed-sequential-curriculum model is open to reconsideration, shifting emphasis toward [[creativity]], interdisciplinary integration, hands-on experience, and long-term development.
+2. **AI mediation changes the calculus.** In an era where knowledge is increasingly AI-mediated and accessible, the fixed-sequential-[[curriculum-design|curriculum]] model is open to reconsideration, shifting emphasis toward [[creativity]], interdisciplinary integration, hands-on experience, and long-term development.
 3. **Learnity graphs as the core construct.** The paper introduces *learnity graphs*, a structured representation of learning as interconnected units of knowledge, skills, experience, and actual artifacts, together with a method for presenting and leveraging the representation.
 4. **Lifelong integration across domains.** The framework integrates academic, professional, and personal learning, positioning learning as a continuous, graph-structured activity rather than a bounded curricular sequence.
 
@@ -33,7 +33,7 @@ audience: [curriculum designers, administrators, instructional designers]
 ## Limitations
 
 - This is a conceptual framework paper: the authors state that implementation is left for future work, so no learning-outcome claim is tested or testable from this text.
-- The only demonstrated artifact is a prototype system (learnity-graph.vercel.app), which shows representation, personalization, development tracking, and recommendation — there is no sample, comparison condition, or measured effect.
+- The only demonstrated artifact is a prototype system (learnity-graph.vercel.app), which shows representation, [[personalized-learning|personalization]], development tracking, and recommendation — there is no sample, comparison condition, or measured effect.
 - The conditions under which the framework could be evaluated are themselves unresolved: knowledge representation, evaluation mechanisms, technological scalability, and governance for cross-institutional recognition.
 - No criteria are given for granularity — when a learnity becomes a distinct node in the graph — which the authors acknowledge is required to avoid graph inflation and preserve interpretability.
 

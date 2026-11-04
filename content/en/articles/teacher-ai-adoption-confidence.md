@@ -13,17 +13,17 @@ page_kind: [framework]
 institutions: [change-management]
 ---
 
-> **Synthesis:** A survey of 260 teachers in Pampanga, the Philippines, finds that [[governance|institutional]] support predicts both teacher confidence and positive attitudes toward AI adoption, and that confidence *fully mediates* the support–attitude link: support shapes attitudes mainly by building confidence rather than directly. Teacher concerns neither moderated nor directly predicted either outcome.
+> **Synthesis:** A survey of 260 teachers in Pampanga, the Philippines, finds that [[governance|institutional]] support predicts both [[teacher-role|teacher]] confidence and positive attitudes toward AI adoption, and that confidence *fully mediates* the support–attitude link: support shapes attitudes mainly by building confidence rather than directly. Teacher concerns neither moderated nor directly predicted either outcome.
 
 ## Overview
 
-AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology (UTAUT), it treats institutional support as a facilitating condition, confidence as self-efficacy, concerns as inhibitors, and attitudes as behavioral intention.
+AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology ([[technology-acceptance-model|UTAUT]]), it treats institutional support as a facilitating condition, confidence as [[self-efficacy]], concerns as inhibitors, and attitudes as behavioral intention.
 
-The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about ethics and data privacy, yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
+The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about [[ethics]] and [[privacy|data privacy]], yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
 
 ## Study Design & Method
 
-- **Design.** Quantitative, cross-sectional survey analyzed with moderated multiple regression, followed by a mediation analysis using the Baron and Kenny method and the Sobel test to evaluate the indirect effect. Analysis was conducted in Python and Jupyter Notebook.
+- **Design.** [[quantitative-research|Quantitative]], cross-sectional survey analyzed with moderated multiple regression, followed by a mediation analysis using the Baron and Kenny method and the Sobel test to evaluate the indirect effect. Analysis was conducted in Python and Jupyter Notebook.
 - **Sample.** Purposive sampling produced 260 teachers from Pampanga, Philippines: 52 elementary, 161 secondary and 47 college educators, spanning educational levels and teaching disciplines. Over 75% of participants were female and approximately 80% were licensed professional teachers; ages ranged from 22 to 59 years and teaching experience from 1 to 36 years.
 - **Instrument.** A 35-item survey measured the four constructs on a five-point Likert scale (1 = strongly disagree to 5 = strongly agree). Two educational technology experts assessed content validity against the theoretical constructs, and reliability analysis confirmed strong internal consistency across all constructs (α > 0.70).
 - **Procedure.** Data were collected through pen-and-paper surveys and Google Forms, with permissions secured from school heads and supervisors beforehand.
@@ -40,13 +40,13 @@ The problem: many teachers struggle with adoption because of limited training, u
 ## What this means for practice
 
 - **Instructors.** Build fluency through hands-on use rather than reassurance: confidence had a strong positive effect on attitudes (β = 0.855, p < 0.001), while concerns neither predicted attitudes (β = 0.220, p = 0.151) nor moderated the support–attitude relationship (β = −0.047, p = 0.173).
-- **Faculty developers.** Treat institutional support as necessary but not sufficient: it improved attitudes chiefly by raising confidence (indirect effect a × b = 0.4961, z = 12.63, p < .001), while its direct effect on attitudes was non-significant (β = 0.128, p = 0.106), so structured professional development, mentoring and technical assistance matter more than tool provision.
+- **Faculty developers.** Treat institutional support as necessary but not sufficient: it improved attitudes chiefly by raising confidence (indirect effect a × b = 0.4961, z = 12.63, p < .001), while its direct effect on attitudes was non-significant (β = 0.128, p = 0.106), so structured [[educational-development|professional development]], mentoring and technical assistance matter more than tool provision.
 - **Faculty developers.** Target the weakest confidence area directly, since confidence in handling technical issues was comparatively lower than general confidence in using AI tools.
 - **Administrators.** Embed [[ai-literacy]] in [[teacher-education]] programs, because resistance more often reflects systemic support gaps than individual reluctance: support had a strong effect on confidence (β = 0.537, p < 0.001; R² = 0.476), while support for internet reliability and infrastructure was only moderate.
 
 ## Limitations
 
-- The study is a cross-sectional self-report survey of 260 teachers recruited by purposive sampling from Pampanga, Philippines; the authors note that generalization beyond that province is a hypothesis rather than a result.
+- The study is a cross-sectional [[self-report-measures|self-report]] survey of 260 teachers recruited by purposive sampling from Pampanga, Philippines; the authors note that generalization beyond that province is a hypothesis rather than a result.
 - All four constructs were measured with a single 35-item, five-point Likert instrument administered once, so the support → confidence → attitude pathway rests on a statistical mediation model rather than on any manipulation.
 - Mediation was tested with the Baron and Kenny method and the Sobel test rather than bootstrapped or structural-equation approaches, so the indirect effect depends on a lower-power procedure.
 - The sample tilts toward secondary educators — 161 of 260 were secondary against 52 elementary and 47 college teachers, with over 75% of participants female — so estimates reflect that distribution.

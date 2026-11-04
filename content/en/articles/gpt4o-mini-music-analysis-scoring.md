@@ -14,7 +14,7 @@ confidence: high
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought [[prompt-engineering|prompting]] agreeing most strongly with teacher means while [[rag]] systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
+> **Synthesis:** **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought [[prompt-engineering|prompting]] agreeing most strongly with [[teacher-role|teacher]] means while [[rag]] systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
 
 **Baicheng Lin, Lingxi Jin, Kyung-Seok Min** — arXiv (cs.HC / cs.SD) preprint, 2026 (Sejong University, Ewha Womans University).
 

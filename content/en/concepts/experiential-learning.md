@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T09:07:05-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -33,11 +33,11 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 - **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
 
-- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a metacognitive knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and self-reported AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
+- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
 
 ### Two forms of hands-on learning in an AI-supported curriculum
 
-A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported design education
+A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported [[design-education|design education]]
 ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) argues that AI reorganizes rather than replaces
 experiential learning, and draws a distinction the knowledge base's other sources tend to collapse: *Embodied Hands-on*, which
 depends on bodily action, tools, and materials, and *Cognitive Hands-on*, which develops through continued operation, judgment,
@@ -51,7 +51,7 @@ educative. Consistent with this, [[prompt-engineering|prompting]] alone did not 
 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
-Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from Workforce Readiness Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from [[career-development-and-readiness|Workforce Readiness]] Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
 ## Common Misconceptions
 
@@ -59,9 +59,9 @@ Work-integrated experience can be the binding condition for advanced competence:
 
 **"AI can substitute for the experience in experiential learning."** It can simulate some systems and cannot supply the experience that forms competence in applied domains such as AI, cybersecurity and robotics, where students develop skill by working with the real tools and systems. A simulated security environment teaches procedure; a working system teaches the consequence of a misconfiguration.
 
-**"More authentic tasks are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
+**"More [[authentic-assessment|authentic tasks]] are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
 
-**"AI tutoring fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this pedagogy is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
+**"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
 
 ## Implications for Practice
 
@@ -74,7 +74,7 @@ Work-integrated experience can be the binding condition for advanced competence:
 **For developers**
 
 - Build reflection prompts and a record of what the learner did, so the sense-making stage has material and the evidence is auditable.
-- Do not present a simulation as a substitute for operating a real system in domains where the consequence of error is the curriculum.
+- Do not present a simulation as a substitute for operating a real system in domains where the consequence of error is the [[curriculum-design|curriculum]].
 
 **For programme designers**
 

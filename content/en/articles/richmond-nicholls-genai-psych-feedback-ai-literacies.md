@@ -21,7 +21,7 @@ confidence: high
 - **Rubric-based critique of genAI output:** Students graded a ChatGPT-drafted media release against the marking rubric; 92% rated the output at pass or above on "Style," but 94% rated it at credit level or lower on "Aims/Methods/Results" — recognizing strong style alongside inaccurate coverage of aims, methods, and results (χ²(4) = 317.48, p < .001; Cramer's V = 0.66).
 - **Early rubric [[student-engagement|engagement]] helped later performance:** The 2023 AI-critique cohort scored higher than the 2022 peer-review cohort on the script revision task (t(733.05) = 4.93, p < .001, d = 0.36); no significant difference on the final video (t(732.48) = 1.52, p = .129). The authors caution the gain could [[stem-education|stem]] from starting from stylistically strong ChatGPT output rather than rubric engagement.
 - **Scaffolding gap:** A small number of students failed to catch coverage inaccuracies (awarding ChatGPT High Distinction/Distinction on "Aims/Methods/Results"), indicating some need more [[scaffolding]] of the [[critical-thinking]] process for evaluating genAI veracity.
-- **Three literacies at once:** Psychological literacy (translating research for a lay audience), [[feedback-literacy|feedback literacy]] (early rubric engagement, candid critique without peer-reaction concerns, self-evaluation), and [[ai-literacy|AI literacy]] (understanding, working with, and critically evaluating AI) are promoted by one integrated assessment.
+- **Three literacies at once:** Psychological literacy (translating research for a lay audience), [[feedback-literacy|feedback literacy]] (early rubric engagement, candid critique without peer-reaction concerns, [[self-assessment|self-evaluation]]), and [[ai-literacy|AI literacy]] (understanding, working with, and critically evaluating AI) are promoted by one integrated assessment.
 - **Process over artifact:** The authors argue genAI's ability to mimic human artifacts pushes [[teacher-role|educators]] to assess the learning process, not the final product, and to use AI to outsource initial creation so students practice higher-order evaluation and analysis.
 
 ## What this means for practice
@@ -33,7 +33,7 @@ confidence: high
 
 ## Limitations
 
-- The evidence is a quasi-experimental comparison of two year cohorts in one second-year psychology course at a single university (2022 peer review vs. 2023 AI critique), not a randomized trial.
+- The evidence is a quasi-experimental comparison of two year cohorts in one second-year psychology course at a single university (2022 peer review vs. 2023 AI critique), not a [[rct|randomized trial]].
 - The authors cannot separate rubric engagement from the head start of beginning with stylistically strong ChatGPT output, so the source of the revision-task gain is unresolved.
 - The benefit did not extend to the final video (t(732.48) = 1.52, p = .129), so it is limited to one task within a three-phase assignment.
 - Outcomes are course grades rather than direct measures of feedback or AI literacy.

@@ -19,7 +19,7 @@ sources: ['raw/papers/tibetcpr-ai-training-feedback.md']
 
 ## What this means for practice
 
-- **Learners.** Use self-guided systems whose feedback you can act on without translation or explanation: participants received only a brief orientation, with no instructor mediation and no demonstration, and still reached substantial post-training performance with an overall SUS of 84.3.
+- **Learners.** Use self-guided systems whose feedback you can act on without translation or explanation: participants received only a brief orientation, with no instructor mediation and no demonstration, and still reached substantial [[llm-training-and-fine-tuning|post-training]] performance with an overall SUS of 84.3.
 - **Instructors.** Expect skill gains to build across a session rather than from first exposure — rhythm and depth stabilized progressively over the 10-minute intervention and transferred to an unscaffolded one-minute post-test conducted with feedback removed.
 - **Instructors.** Match feedback modality to the temporal structure of the skill: continuous, low-cost visual cues for rhythm (a continuous control variable) and discrete, salient tactile alerts for depth (an in-range/out-of-range judgment).
 - **Instructors.** Calibrate tactile intensity and allow learners to adjust it, because a subset of participants reported physical discomfort or anticipatory unease and several called for adjustable intensity.

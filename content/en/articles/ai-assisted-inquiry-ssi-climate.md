@@ -28,7 +28,7 @@ Students' decision-making was scored against a rubric anchored in the structured
 
 ### Motivation and rationale
 
-The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in action competence and education for sustainable development, which hold that the aim is to help learners deliberate and act, not merely to know. They designed the tasks, instruments, and rubric so that students recognized the climate problem as their own, directly addressing recurring obstacles in climate education: [[misconceptions]], a sense that the problem is distant, and low feelings of [[agency]].
+The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in action competence and [[sustainability|education for sustainable development]], which hold that the aim is to help learners deliberate and act, not merely to know. They designed the tasks, instruments, and rubric so that students recognized the climate problem as their own, directly addressing recurring obstacles in [[environmental-education|climate education]]: [[misconceptions]], a sense that the problem is distant, and low feelings of [[agency]].
 
 ## What this means for practice
 

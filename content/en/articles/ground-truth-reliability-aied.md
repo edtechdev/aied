@@ -93,7 +93,7 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 
 - This is a position and theoretical analysis paper with no new dataset and no experiment, so it argues the four shifts should improve reliability and validity rather than showing that they do.
 - Its concrete illustrations come from multimodal tutoring case examples, such as a transcript coded for student math errors through explicit visual and implicit verbal lenses; the prevalence of κ-threshold misuse is evidenced by cited cases rather than a systematic sample of AIED papers.
-- The paper sets no quantitative bar for sufficiency: it leaves the "minimum viable validity evidence" for different AIED use cases as an open question and does not resolve how the four shifts apply to fully automated pipelines with no human raters.
+- The paper sets no [[quantitative-research|quantitative]] bar for sufficiency: it leaves the "minimum viable validity evidence" for different AIED use cases as an open question and does not resolve how the four shifts apply to fully automated pipelines with no human raters.
 - The automation-bias and LLM-annotation risks it raises are drawn from other researchers' studies, so those claims are not tested in this work.
 
 ## Citation

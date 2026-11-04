@@ -26,7 +26,7 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 ## Limitations
 
 - Evidence comes from a single fourth-year undergraduate (Daniel) using GPT-4o on authentic bugs in his own coursework; the authors state that more participants are needed to improve the validity of the results.
-- Outcomes were his self-reported debugging confidence and time spent debugging, not a measured gain in debugging skill, and there was no control or comparison condition.
+- Outcomes were his [[self-report-measures|self-reported]] debugging confidence and time spent debugging, not a measured gain in debugging skill, and there was no control or comparison condition.
 - It is a work-in-progress conference paper with an open-ended protocol and no standardized bug set; the authors report a planned follow-up that gives multiple students researcher-created bugs and scores final circuit performance and time quantitatively.
 
 ## Citation

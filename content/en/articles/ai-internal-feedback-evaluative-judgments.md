@@ -14,7 +14,7 @@ discipline: [writing education]
 audience: [instructors, faculty developers]
 ---
 
-> **Synthesis:** Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback
+> **Synthesis:** Unravelling undergraduates' development of [[evaluative-judgment|evaluative judgments]] through AI-supported internal feedback
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ The study is grounded in the internal feedback paradigm: students generate feedb
 - **Educators.** Treat the self-reflection forms as scaffold and record at once: articulating internal feedback reduces cognitive load for students and gives you a running account of what they notice in their own work.
 - **Educators.** Customize reflection prompts to the evaluative orientation you observe instead of issuing one prompt to the class — the reconstructive (N = 8), language-focused (N = 9), and criteria-compliance (N = 11) groups developed along different pathways in this study.
 - **Educators.** Demand evidence-based comparison explicitly: example-based justification rose from 15% to 30.5% across the three tasks, but the most sophisticated form, comparative analysis, did not emerge on its own.
-- **Teacher educators.** Use this design as a model for assessment-literacy work in initial teacher education, and prepare teachers to comment on AI feedback quality rather than let students treat it as authoritative — participants sought external feedback mainly from AI, and one language-focused student only accepted DeepSeek's exam-band advice after the instructor confirmed it.
+- **[[teacher-role|Teacher]] educators.** Use this design as a model for assessment-literacy work in initial [[teacher-education|teacher education]], and prepare teachers to comment on AI feedback quality rather than let students treat it as authoritative — participants sought external feedback mainly from AI, and one language-focused student only accepted DeepSeek's exam-band advice after the instructor confirmed it.
 
 ## Limitations
 

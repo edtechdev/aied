@@ -39,7 +39,7 @@ A [[quantitative-research|quantitative]] study grounded in Social Cognitive Theo
 
 - The 487 undergraduates were surveyed in Henan Province, China, and the sample was 78.4% female, so the gender comparison rests on 105 male respondents and findings are bounded to that context.
 - The design is cross-sectional; the authors caution that the bootstrap mediation is statistical, not causal, and that developmental trajectories of thoughtless use cannot be observed.
-- All measures are self-report, and only self-efficacy and motivation were modeled as mediators — learning strategies, metacognitive skills, and social support were unmodeled, with motivation treated as a single undifferentiated construct.
+- All measures are [[self-report-measures|self-report]], and only self-efficacy and motivation were modeled as mediators — learning strategies, [[metacognition|metacognitive]] skills, and social support were unmodeled, with motivation treated as a single undifferentiated construct.
 
 ## Citation
 

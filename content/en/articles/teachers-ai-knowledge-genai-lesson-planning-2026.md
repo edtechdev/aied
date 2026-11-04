@@ -35,7 +35,7 @@ level: [k 12, teacher education]
 ## What this means for practice
 
 - **Instructors.** Move from delegating to the model toward negotiating with it: task delegation dominated 54.8% of coded teacher turns and 68.8% of prompts showed low interactional [[agency]], so state your own pedagogical intent and constraints before prompting rather than asking GenAI to generate a whole lesson element.
-- **Instructors.** Use GenAI as a sounding board for differentiation and planning while reviewing every output — teachers valued it as a time saver but flagged inaccuracies, hallucinations, and the review time they demand.
+- **Instructors.** Use GenAI as a sounding board for differentiation and planning while reviewing every output — teachers valued it as a time saver but flagged inaccuracies, [[hallucination-risk|hallucinations]], and the review time they demand.
 - **Faculty developers.** Design professional learning that closes the articulated–enacted gap: teachers described competence in technological (n = 22) and technological-pedagogical (n = 16) terms while enacting delegation, so use practice-based, [[prompt-engineering|log-based]] reflection rather than knowledge transmission.
 - **Faculty developers.** Make ethical reasoning explicit, since it surfaced in only n = 3 questionnaire responses, covering [[academic-integrity]], unreliability, bias, and [[cognitive-offloading|over-reliance]] — concerns teachers raised mainly as threats rather than as knowledge they claimed.
 - **Administrators.** Fund structured AI training rather than relying on incidental learning: most teachers reported acquiring AI knowledge from news and social media, and 32% reported using AI in teaching.

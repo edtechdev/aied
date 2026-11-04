@@ -18,7 +18,7 @@ sources: ['raw/papers/2606.07545.md']
 
 This white paper reports two international NUS-Google Workshops in Singapore, organized by the AI4SG Lab at the NUS School of Computing with Google. A three-day faculty workshop in November 2025 drew 30 attendees — CS faculty and industry practitioners from North America, Asia, Europe, and Oceania — and a one-day student workshop in January 2026 drew 60 participants, including students and recent graduates, in eight working groups. The authors frame the report as a strategic response rather than an empirical study.
 
-The central argument is that post-secondary [[cs-education]] was built on an assumption of code scarcity, which [[generative-ai]] dissolves. If AI occupies the functional role of a junior engineer, the apprenticeship in which graduates built expertise by doing exactly those tasks is disrupted; the proposed shift is toward specifying and verifying AI-generated artifacts.
+The central argument is that [[higher-ed|post-secondary]] [[cs-education]] was built on an assumption of code scarcity, which [[generative-ai]] dissolves. If AI occupies the functional role of a junior engineer, the [[sociocultural-learning|apprenticeship]] in which graduates built expertise by doing exactly those tasks is disrupted; the proposed shift is toward specifying and verifying AI-generated artifacts.
 
 
 ## Key Findings
@@ -26,9 +26,9 @@ The central argument is that post-secondary [[cs-education]] was built on an ass
 1. AI tools now handle the well-scoped work of a junior engineer — simple bugs, boilerplate, test cases, build maintenance — but fall short on architecture, verification, security reasoning, and maintainability.
 2. Productivity evidence is mixed: Peng et al. found Copilot users completed an experimental HTTP server task approximately 55% faster, while Becker et al. found experienced developers took 19% longer despite believing they were 20% faster.
 3. Brynjolfsson et al.'s analysis of ADP payroll data covering millions of U.S. workers found employment for software developers aged 22–25 declined approximately 16% relative to less AI-exposed occupations since late 2022.
-4. He et al.'s difference-in-differences study of Cursor adoption in open-source projects found a statistically significant but transient velocity increase alongside a persistent rise in static analysis warnings and code complexity.
-5. Bastani et al.'s randomized controlled trial with nearly 1,000 students found unrestricted GPT-4 access improved practice performance by 48% but led to a 17% decline in exam scores once AI was removed; a hint-based guardrail mitigated the effect.
-6. Both workshops converged on moving from syntax memorization toward abstraction, theoretical foundations, meta-skills, and dual AI-free and AI-allowed assessment; faculty stressed professional liability, students employability.
+4. He et al.'s difference-in-differences study of Cursor adoption in [[open-source]] projects found a statistically significant but transient velocity increase alongside a persistent rise in static analysis warnings and code complexity.
+5. Bastani et al.'s [[rct|randomized controlled trial]] with nearly 1,000 students found unrestricted GPT-4 access improved practice performance by 48% but led to a 17% decline in exam scores once AI was removed; a hint-based guardrail mitigated the effect.
+6. Both workshops converged on moving from syntax memorization toward abstraction, theoretical foundations, meta-skills, and dual AI-free and AI-allowed assessment; faculty stressed professional liability, students [[career-development-and-readiness|employability]].
 
 ## Mixed evidence on labor-market and learning effects
 
@@ -40,18 +40,18 @@ The dual-workshop design is the report's methodological contribution, capturing 
 
 ## Assessment and institutional preconditions
 
-Assessment reform is where the report is most concrete — and most aware of its scalability problem. Take-home assignments no longer reliably demonstrate a student's own work, while invigilated examinations expose a widening gap in which stronger students use AI as an accelerator and weaker students develop an illusion of competence. Proposed formats include presentations, "paper-like" authorship, submissions of the student's history of AI interactions, and tool-assisted assessment where students submit specifications, tests, or formal properties alongside code; the Prompt Programming platform is cited as a working instance. The institutional preconditions are demanding: protected instructor-to-student ratios, funding for AI tools, dedicated staff, ethics consulting, rethought academic concessions, and shared repositories.
+Assessment reform is where the report is most concrete — and most aware of its scalability problem. Take-home assignments no longer reliably demonstrate a student's own work, while invigilated examinations expose a widening gap in which stronger students use AI as an accelerator and weaker students develop an illusion of competence. Proposed formats include presentations, "paper-like" authorship, submissions of the student's history of AI interactions, and tool-assisted assessment where students submit specifications, tests, or formal properties alongside code; the Prompt Programming platform is cited as a working instance. The institutional preconditions are demanding: protected instructor-to-student ratios, funding for AI tools, dedicated staff, [[ethics]] consulting, rethought academic concessions, and shared repositories.
 
 ## What this means for practice
 
 - **Instructors.** Treat specification and verification as teachable content rather than advanced electives: pair AI code generation with static analysis, property-based testing, or type-driven specification so students practice the senior-engineer workflow.
-- **Learners.** Expect assessment of process as well as product, and recognize that abstraction and decomposition are exactly the skills AI assistance can quietly substitute for.
+- **Learners.** Expect [[process-oriented-assessment|assessment of process]] as well as product, and recognize that abstraction and decomposition are exactly the skills AI assistance can quietly substitute for.
 - Sequence AI-native skills as Breadcrumbs across all four years rather than isolating them in one course, and state which level of the verification spectrum each course teaches and assesses.
 
 ## Limitations
 
-- This is a position and curriculum-design report, not an empirical study: findings reflect participants' perceptions, the proposed solutions "remain to be tested," and no outcome measures exist for the recommendations.
-- Participants were self-selected and likely already engaged with AI in education, introducing selection bias, and the student workshop drew roughly half its cohort from Singapore-based institutions, limiting geographic generalizability.
+- This is a position and [[curriculum-design]] report, not an empirical study: findings reflect participants' perceptions, the proposed solutions "remain to be tested," and no outcome measures exist for the recommendations.
+- Participants were self-selected and likely already engaged with [[ai-education|AI in education]], introducing selection bias, and the student workshop drew roughly half its cohort from Singapore-based institutions, limiting geographic generalizability.
 - Industry perspective comes through individual practitioners rather than employer surveys, so claims about workforce demand rest on secondary sources assembled by the authors.
 
 ## Citation

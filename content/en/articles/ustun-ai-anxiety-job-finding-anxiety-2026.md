@@ -34,14 +34,14 @@ technology: [technology-acceptance-model]
 - **Instructors.** Do not treat anxiety as uniform across a cohort — female students, social-science majors, and second-year students reported the highest levels, so check which groups in your class are carrying the most concern.
 - **Administrators.** Target support where the data point: prioritize [[career-development-and-readiness|career counseling]], psychosocial assistance, and skills-based training for female and social-science students rather than allocating services evenly.
 - **Administrators.** Schedule career-orientation, digital-adaptation, and labor-market preparation initiatives early, since second-year students reported higher [[anxiety-and-stress|anxiety]] than the overall sample pattern would suggest.
-- **Administrators.** Expand internships, project-based learning, and structured mentoring for social-science students, for whom AI-supported employability tools can open routes that technical training alone does not.
+- **Administrators.** Expand internships, [[project-based-learning|project-based learning]], and structured mentoring for social-science students, for whom AI-supported employability tools can open routes that technical training alone does not.
 
 ## Limitations
 
 - Correlational and cross-sectional: the participants' views were collected through three scales with no experimental procedures or interventions, and the authors state the design cannot reveal causal relationships between job-finding anxiety, AI anxiety, and AI attitudes.
 - Convenience plus snowball sampling through online forms between February 15 and April 15, 2025, beginning with 232 students at the researchers' own university — participation was voluntary, so the 1,057 respondents self-selected.
-- All three constructs were measured by self-report scales, leaving shared method variance and social desirability as possible explanations for part of the association.
-- The 35-university sample improves on the single-site study the authors cite as their motivation, but it remains a non-probability sample drawn from one national context, and the authors recommend structural equation modeling or mixed methods before causal claims.
+- All three constructs were measured by [[self-report-measures|self-report]] scales, leaving shared method variance and social desirability as possible explanations for part of the association.
+- The 35-university sample improves on the single-site study the authors cite as their motivation, but it remains a non-probability sample drawn from one national context, and the authors recommend structural equation modeling or [[mixed-methods-research|mixed methods]] before causal claims.
 
 ## Citation
 

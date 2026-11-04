@@ -25,7 +25,7 @@ confidence: medium
 
 ## The Paradox in AI Coding Education
 
-Naboulsi (2026) opens with a [[curriculum-design|curriculum]] paradox: **agentic AI coding tools have proliferated rapidly, yet structured pedagogical frameworks for learning them remain scarce.** Developers face a widening gap between the availability of powerful AI agents and the learning pathways needed to use them effectively.
+Naboulsi (2026) opens with a [[curriculum-design|curriculum]] paradox: **agentic AI coding tools have proliferated rapidly, yet structured pedagogical frameworks for learning them remain scarce.** Developers face a widening gap between the availability of powerful AI agents and the [[recommender-systems-and-learning-paths|learning pathways]] needed to use them effectively.
 
 ### Fragmented and perishable resources
 The prevailing approach to learning AI coding tools is ad hoc and, critically, perishable:
@@ -58,7 +58,7 @@ A recurring mismatch in AI-mediated instruction is that a static tone either und
 - **Peer** (Modules 7–9): a terse senior colleague that points to docs and lets the learner debug first, reinterpreting "[[collaborative-learning|collaborative learning]]" for a single-learner context.
 - **Launcher** (Module 10): states the goal and steps back, mapping to "independent learning."
 
-Persona boundaries are set at onboarding based on self-reported experience (beginner, intermediate, and advanced schedules) and can shift dynamically as the [[adaptive-learning|adaptive learning]] system observes behavior. A second, orthogonal dimension controls explanation depth within the active persona, so a beginner in Module 7 still receives the Peer tone but with more thorough background, while an advanced user in Module 1 receives the Guide tone but skips basic definitions.
+Persona boundaries are set at onboarding based on [[self-report-measures|self-reported]] experience (beginner, intermediate, and advanced schedules) and can shift dynamically as the [[adaptive-learning|adaptive learning]] system observes behavior. A second, orthogonal dimension controls explanation depth within the active persona, so a beginner in Module 7 still receives the Peer tone but with more thorough background, while an advanced user in Module 1 receives the Guide tone but skips basic definitions.
 
 ## Adaptive Learning System
 

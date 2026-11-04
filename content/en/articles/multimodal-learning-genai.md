@@ -30,7 +30,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 
 | Cost Domain | Key Concern | Educational Response |
 |-------------|-------------|---------------------|
-| **Individual** | Privacy, data protection, [[equity-in-ai-education|equity]] of access, mental health, over-reliance | Transparent authorship; approved tools list; scaffolded critical [[student-engagement|engagement]] |
+| **Individual** | Privacy, data protection, [[equity-in-ai-education|equity]] of access, [[well-being|mental health]], over-reliance | Transparent authorship; approved tools list; scaffolded critical [[student-engagement|engagement]] |
 | **Environment** | Image/video/audio generation uses significantly more energy than text | Mindful use; limit iterations; group demonstrations; digital decluttering |
 | **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive [[scaffolding]] |
 | **Future Jobs** | Entry-level white-collar roles vulnerable to automation | Focus on human strengths: contextual reasoning, ethical judgment, craftsmanship |
@@ -90,13 +90,13 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 ### Learning (Student-Created Content)
 - Students transform lecture notes into multimodal artifacts (visuals, podcasts, videos)
-- Collaborative group projects using GenAI for brainstorming and prototyping
+- Collaborative [[group-work|group projects]] using GenAI for brainstorming and prototyping
 - [[critical-thinking|Critical evaluation]]: students annotate AI-generated outputs for accuracy, bias, coherence
 - Ethical protocols establishing clear boundaries (e.g., "do not use AI to write reflections; do use it for brainstorming visuals")
 
 ### Assessment and Feedback
 - Multimodal assessment: students submit artifacts combining text, image, audio, video
-- AI-assisted peer and self-assessment with structured rubrics
+- AI-assisted peer and [[self-assessment]] with structured rubrics
 - Educators use GenAI to generate formative feedback at scale, then verify and personalize
 - Transparent: assessment briefs explicitly state when and how GenAI may be used
 
@@ -120,8 +120,8 @@ The guide includes 15+ educator case studies spanning:
 - **Bioscience**: Multimodal groupwork designing organisms for future Earth scenarios
 - **Business/HR**: Peer conflict resolution with AI-generated scenarios and video avatars
 - **Education/[[teacher-education|Teacher training]]**: AI visual metaphors for reflective practice
-- **[[chemistry-education|Chemistry]]**: AI-generated molecular visualizations and 3D models
-- **Languages**: Text-to-speech and avatar creation for pronunciation practice
+- **[[chemistry-education|Chemistry]]**: AI-generated molecular [[visualization|visualizations]] and 3D models
+- **Languages**: [[speech-and-voice-technologies|Text-to-speech]] and avatar creation for pronunciation practice
 - **General**: Explainer videos, digital posters, podcast scripts, interactive quizzes
 
 ## Open Questions
@@ -141,7 +141,7 @@ The guide includes 15+ educator case studies spanning:
 
 ## Limitations
 
-- The guide is a synthesis, not an empirical study: it reports data from a literature review, a case-study collection exercise, a survey, and focus groups with educational developers, educators, and students from a 2024/25 SEDA Small Grants project, and measures no learning outcome of its own.
+- The guide is a synthesis, not an empirical study: it reports data from a [[meta-analysis-systematic-review|literature review]], a case-study collection exercise, a survey, and focus groups with educational developers, educators, and students from a 2024/25 SEDA Small Grants project, and measures no learning outcome of its own.
 - Its case studies are practitioner submissions reproduced in full in an appendix rather than controlled comparisons — one describes 198 students in a single marketing module across three stages — and none is tested against a no-GenAI condition.
 - The environmental argument cannot be quantified: the guide notes precise energy costs for different GenAI platforms are very difficult to extract from their producers and suppliers, so it demonstrates only that multimodal generation uses substantially more energy than text, not how much.
 - The evidence base ages quickly and the guide says so: GenAI advanced even during final editing (it reports GPT-5's release in that window), and its cases were gathered from self-selected practitioners already using GenAI, so they document early adopters rather than typical practice.

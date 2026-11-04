@@ -37,17 +37,17 @@ The paper's central argument is that AI literacy education should move beyond kn
 
 ## What this means for practice
 
-- **Instructors.** Pair every concept lesson with sustained practice: AI knowledge gains (g = 0.965) far outpaced skills (g = 0.672), attitudes (g = 0.676), and ethics (g = 0.635), so build in problem-solving, critical output evaluation, and ethics discussion rather than single-shot content delivery.
-- **Instructors.** Assess with performance tasks where feasible — they captured the descriptively larger effect (g = 0.901) than self-reported data (g = 0.774), which are more prone to overstating learning.
-- **Faculty developers.** Fit programs to local conditions instead of importing a standard model: Europe (g = 0.960) and East Asia (g = 0.782) outperformed North America (g = 0.658), indicating that [[culturally-relevant-pedagogy|culturally relevant]] design — curriculum, access, and policy context — shapes what works.
+- **Instructors.** Pair every concept lesson with sustained practice: AI knowledge gains (g = 0.965) far outpaced skills (g = 0.672), attitudes (g = 0.676), and ethics (g = 0.635), so build in [[problem-solving]], critical output evaluation, and ethics discussion rather than single-shot content delivery.
+- **Instructors.** Assess with performance tasks where feasible — they captured the descriptively larger effect (g = 0.901) than [[self-report-measures|self-reported]] data (g = 0.774), which are more prone to overstating learning.
+- **Faculty developers.** Fit programs to local conditions instead of importing a standard model: Europe (g = 0.960) and East Asia (g = 0.782) outperformed North America (g = 0.658), indicating that [[culturally-relevant-pedagogy|culturally relevant]] design — [[curriculum-design|curriculum]], access, and policy context — shapes what works.
 - **Researchers.** Pilot before scaling: with a 95% prediction interval from −0.292 to 1.966, no [[ai-literacy]] intervention is guaranteed to transfer to a given classroom.
 
 ## Limitations
 
 - The synthesis rests on 59 studies, 172 effect sizes, and 7,211 participants, with 71.361% of the variance sitting between studies, so g = 0.837 is an average across heterogeneous studies rather than a common effect.
-- Several moderator cells were tiny — Southeast Asia (k = 4), quantified qualitative instruments (k = 3), mixed educational levels (k = 9) — and the authors caution that subgroups with fewer than 10 effect sizes are statistically unreliable.
+- Several moderator cells were tiny — Southeast Asia (k = 4), quantified [[qualitative-research|qualitative]] instruments (k = 3), mixed educational levels (k = 9) — and the authors caution that subgroups with fewer than 10 effect sizes are statistically unreliable.
 - Study quality was not incorporated into the weighting, even though the pool combined (quasi-)experimental designs of varying internal validity.
-- Residual heterogeneity was left unmodeled: intervention duration, study design, and disciplinary background were not tested as moderators, and eight effect sizes were dropped as outliers.
+- Residual heterogeneity was left unmodeled: intervention duration, [[research-methods-aied|study design]], and disciplinary background were not tested as moderators, and eight effect sizes were dropped as outliers.
 
 ## Citation
 

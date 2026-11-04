@@ -22,10 +22,10 @@ page_kind: [framework]
 
 **Iterative development and evaluation:**
 - **Preliminary study (n=24)** assessed effectiveness, informed system refinements
-- **Comparative evaluation (n=16)** against a state-of-the-art online learning platform plus an LLM
+- **Comparative evaluation (n=16)** against a state-of-the-art online [[edtech-platform|learning platform]] plus an [[llm]]
 - **Results:** LearnMate^2 improved both [[learning-gains|learning outcomes]] and [[usability-research|user experience]] vs. the baseline
 
-The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
+The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open [[online-teaching-and-learning|online education]]. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
 
 The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on [[metacognition|metacognitive]] support tools.
 

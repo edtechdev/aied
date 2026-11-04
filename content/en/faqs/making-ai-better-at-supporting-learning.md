@@ -52,7 +52,7 @@ Training is real and sometimes necessary. It is the third or fourth thing to try
 
 Before changing anything, log what a plain prompt returns. Then log what a trivial method returns.
 
-The [[shen-sustainable-ai-knowledge-base-cs-education-2026|course knowledge-base assistant]] study is worth reading for this alone. A local LLM with no retrieval reached **52.3%** accuracy. A TF-IDF baseline, a lexical method decades old, reached **55.4%**. The model was worse than the classical method.
+The [[shen-sustainable-ai-knowledge-base-cs-education-2026|course knowledge-base assistant]] study is worth reading for this alone. A local [[llm]] with no retrieval reached **52.3%** accuracy. A TF-IDF baseline, a lexical method decades old, reached **55.4%**. The model was worse than the classical method.
 
 Skip this step and you cannot tell whether your fine-tune helped. Worse, you can ship a system that a keyword search beats and only find out when a teaching assistant mentions it. Two numbers on a spreadsheet, taken in an afternoon, protect the rest of the budget.
 
@@ -60,9 +60,9 @@ Skip this step and you cannot tell whether your fine-tune helped. Worse, you can
 
 Adding [[rag|retrieval-augmented generation]] over the course materials, with no fine-tuning at all, lifted that same system from 52.3% to **66.6%**. That gain came from an index, and it comes with a property a training run does not have: when your documents change, you re-index.
 
-Two other results point the same way. A PRISMA review of 23 empirical studies on customizing AI for [[writing-education|writing instruction]] found **prompt engineering dominant (N = 13), ahead of fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Where a knowledge base has to stay current, retrieval is the only lever that stays current without re-running a training job.
+Two other results point the same way. A [[meta-analysis-systematic-review|PRISMA]] review of 23 empirical studies on customizing AI for [[writing-education|writing instruction]] found **[[prompt-engineering|prompt engineering]] dominant (N = 13), ahead of fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Where a knowledge base has to stay current, retrieval is the only lever that stays current without re-running a training job.
 
-Retrieval also has a pedagogical form. Grounding a model in your own worked examples and rubrics is how it stays inside the [[scaffolding|scaffold]] you designed, answering at the level you set instead of drifting into generic advice. That drift is the most common complaint about off-the-shelf tutors, and it is a retrieval problem more often than a weights problem.
+Retrieval also has a [[pedagogy|pedagogical]] form. Grounding a model in your own worked examples and rubrics is how it stays inside the [[scaffolding|scaffold]] you designed, answering at the level you set instead of drifting into generic advice. That drift is the most common complaint about off-the-shelf tutors, and it is a retrieval problem more often than a weights problem.
 
 ## Write the prompt against your rubric, and watch for the plateau
 
@@ -79,9 +79,9 @@ Note what the item-generation result implies about sequencing. The fine-tune was
 
 Adaptation pays when you need the model to hold a property reliably: a reading level, an output format, a domain it lacks. The recurring result is that **targeting beats size**.
 
-- Three **8B** models fine-tuned on an expert-designed children's reading curriculum outperformed zero-shot GPT-4o and Llama 3.3 70B on difficulty-related metrics, with negligible safety issues. The authors frame this as **controllability over scale** ([[llm-children-reading-story-generation]]).
+- Three **8B** models fine-tuned on an expert-designed children's reading [[curriculum-design|curriculum]] outperformed zero-shot GPT-4o and Llama 3.3 70B on difficulty-related metrics, with negligible safety issues. The authors frame this as **controllability over scale** ([[llm-children-reading-story-generation]]).
 - A **24,795-example** instruction dataset grounded in Indian Knowledge Systems produced a **7B** fine-tune scoring **6.39** on a five-judge external panel, within **0.15** of a strong general reference model at a fraction of the deployment cost. The same base model scored **near zero on domain-specific dimensions** without the fine-tune ([[iks-instruct-dataset-indian-knowledge]]). That gap between competent generally and competent here is the whole case for domain adaptation.
-- A single [[llm-training-and-fine-tuning|LoRA]] adapter trained on roughly **3,900** pooled graded examples brought five small open models (4B to 30B) to parity or better with a human grader across two computer-science exams ([[llm-graders-computer-science-exams-2026]]). One adapter, one dataset, several base models: that is the shape of deployment a small team can run.
+- A single [[llm-training-and-fine-tuning|LoRA]] adapter trained on roughly **3,900** pooled graded examples brought five small [[open-source|open models]] (4B to 30B) to parity or better with a human grader across two computer-science exams ([[llm-graders-computer-science-exams-2026]]). One adapter, one dataset, several base models: that is the shape of deployment a small team can run.
 
 The word *stable* in the heading carries the weight. Format, rubric, reading level and domain vocabulary are stable targets. Judgment-laden prose has no such target, and that is where adaptation fails, as the next two sections show.
 
@@ -89,7 +89,7 @@ The word *stable* in the heading carries the weight. Format, rubric, reading lev
 
 Adaptation teaches a model *what to produce*. Post-training teaches it *how to behave*. For tutoring that distinction is the whole problem: general models are post-trained on human preference for helpfulness, which means answering promptly, and teaching requires withholding the answer.
 
-The strongest educational results in this corpus live here. EduQwen's reward model explicitly prioritized **guiding responses over direct answers**, and its three-stage pipeline reached **96.52%** on the CDPK benchmark against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM's writing simulator moved from rubric-grounded prompting (best QWK **0.577**) to supervised fine-tuning (**0.474 ± 0.023**) to reinforcement learning (**0.618 ± 0.005**) across every trait and prompt ([[swim-student-writing-simulation-2026]]).
+The strongest educational results in this corpus live here. EduQwen's reward model explicitly prioritized **guiding responses over direct answers**, and its three-stage pipeline reached **96.52%** on the CDPK benchmark against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM's writing [[simulation|simulator]] moved from rubric-grounded prompting (best QWK **0.577**) to supervised fine-tuning (**0.474 ± 0.023**) to [[reinforcement-learning|reinforcement learning]] (**0.618 ± 0.005**) across every trait and prompt ([[swim-student-writing-simulation-2026]]).
 
 Read the SWIM numbers carefully, because the middle step went backwards. Supervised fine-tuning on demonstrations made the simulator worse than the prompt it started from, and only the reward signal recovered the loss and then beat the baseline. If your plan stops at supervised fine-tuning, the plan may be a detour.
 
@@ -125,7 +125,7 @@ The cost that is easy to underestimate is the evaluation, which is larger than t
 
 ## Calibrate what you expect
 
-Model and prompt choice together account for only about **15%** of the misalignment between LLMs and student learning gains, and in that study benchmark-weighting and unanimous-voting ensembles made alignment *worse* ([[educational-llm-alignment]]). Pretraining data is the dominant lever on how a model behaves, and it is the one lever you cannot pull.
+Model and prompt choice together account for only about **15%** of the misalignment between LLMs and student [[learning-gains|learning gains]], and in that study benchmark-weighting and unanimous-voting ensembles made alignment *worse* ([[educational-llm-alignment]]). Pretraining data is the dominant lever on how a model behaves, and it is the one lever you cannot pull.
 
 None of that argues against the work above. It argues against expecting a fine-tune to fix a design problem. If the issue is that your tutor answers too readily, training may address it. If the issue is that your learners do not engage with it, training will not, and the 15% figure says the money is better spent elsewhere.
 

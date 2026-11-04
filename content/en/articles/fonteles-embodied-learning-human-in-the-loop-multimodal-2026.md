@@ -33,7 +33,7 @@ verified: [citation, numbers, links]
 - **Duration runs opposite to frequency:** Reflecting episodes were the longest on average (M = 9.07 s) and Interacting the shortest (M = 0.27 s). Summed with overlaps counted, the labels covered 43 min 41 s, more than the 40 min of video, because behaviors co-occur.
 - **Overall agreement with human coders:** 74.67% accuracy over 75 stratified, consensus-coded segments (95% confidence interval [63.8%, 83.1%]).
 - **Agreement splits sharply by category:** Enacting 93.3% and Interacting 93.3%, Monitoring 80%, Reflecting 60%, and Planning 46.7%. The framework is reliable for high-frequency, concrete behaviors and unreliable for categories that are conceptually nuanced or thinly evidenced in the data.
-- **Two coder communities converged:** Cohen's κ = 0.703 between the learning-sciences coders and the computer-science coders on a balanced 20-segment subset, substantial agreement despite different expertise.
+- **Two coder communities converged:** Cohen's κ = 0.703 between the [[learning-sciences]] coders and the computer-science coders on a balanced 20-segment subset, substantial agreement despite different expertise.
 - **Where the errors came from:** thematic coding of the 19 segments rated false or maybe produced six themes, led by timing and segmentation errors (8 cases) and mislabeling (6, most often Planning against Reflecting), then insufficient evidence (5), transcript and audio quality (3), diarization errors (2), and other (2).
 - **The domain experts' own audit:** the learning-science researchers' SWOT credited automated tracking of multimodal data and surfacing of learning moments, faulted Planning and Interacting confusions and error propagation from a single modality such as speech-transcript timing, and flagged two threats: over-reliance on AI without human validation, and [[privacy]] lapses in de-identification.
 - **Two students, two regulatory strategies:** on Day 1 Rose produced 40 enactments totaling 602 s against DaPaw's 20 totaling 104 s; on Day 2 DaPaw's 46 enactments ran 387 s while Rose's 97 ran 446 s, the difference between few-and-long and many-and-short engagement. Interacting behaviors rose on Day 2.
@@ -41,12 +41,12 @@ verified: [citation, numbers, links]
 ## Study Design & Method
 
 - **Setting:** a two-month study in a fourth-grade science classroom of 43 students, focused on embodied activities about matter rearrangement and energy transfer. Four fully consented students supplied the analyzed data.
-- **The environment:** students wore motion-tracking tags on a Pozyx indoor positioning system that sent their coordinates to a projection screen, where agents representing them moved through a [[simulation]]. Groups of 6 to 8 worked at a time, half enacting and half observing and advising, then switching roles; the teacher and facilitators guided with questions and prompts to reflect.
+- **The environment:** students wore motion-tracking tags on a Pozyx indoor positioning system that sent their coordinates to a projection screen, where agents representing them moved through a [[simulation]]. Groups of 6 to 8 worked at a time, half enacting and half observing and advising, then switching roles; the [[teacher-role|teacher]] and facilitators guided with questions and prompts to reflect.
 - **The task:** a photosynthesis game in mixed reality, in which students navigated a model and manipulated its objects with their bodies.
 - **The codebook:** the team adapted SRL and SSRL definitions, mapped modalities onto them in a table of features, and refined the categories through iterative coding in MaxQDA before any model ran.
 - **The pipeline:** computer-vision analysis of video, audio processing into diarized transcripts, and processing of in-game logs fed a late-fusion LLM that segmented the timeline, classified each segment into one of the five behaviors, and wrote a justification naming the multimodal cues behind the label.
 - **The human loop:** a timeline tool synchronized video, color-coded labels and justifications. Two learning-science researchers who co-developed the codebook evaluated a balanced 20-segment subset; two computer-science researchers coded the same 20 (κ = 0.703), and the evaluation was then expanded to 75 segments sampled 15 per behavior.
-- **Ethics:** IRB approval with student assent and guardian consent; students chose their own pseudonyms, which the research artifacts use throughout.
+- **[[ethics]]:** IRB approval with student assent and guardian consent; students chose their own pseudonyms, which the research artifacts use throughout.
 
 ## How far the labels hold
 

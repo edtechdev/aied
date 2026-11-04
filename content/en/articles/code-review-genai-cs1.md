@@ -39,7 +39,7 @@ The design builds directly on evidence that students who [[help-seeking|over-rel
 
 ## The Flipped Classroom Component
 
-To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted an [[active-learning|flipped classroom]] model: students watch [[video-education|lecture videos]] outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited oral assessment in large courses.
+To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted an [[active-learning|flipped classroom]] model: students watch [[video-education|lecture videos]] outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited [[oral-assessment|oral assessment]] in large courses.
 
 ## Methods & Evidence
 
@@ -59,8 +59,8 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 
 - No control group is possible in this design: because code reviews add contact time between students and teaching assistants, the authors state it is not clear how to construct a true control condition, making the Fall 2023, Fall 2024 and Fall 2025 comparison quasi-experimental.
 - Single course at a single institution: the Fall 2025 CS1-CR section enrolled 96 students with one instructor, and the end-of-semester survey covers the same N = 96.
-- Keystroke logs cannot identify AI use: pastes from outside the IDE are excluded to protect student privacy, so the authors cannot infer that all pasted text was AI-generated, and their analysis does not connect types of AI usage to performance on particular questions.
-- Student sentiment is self-reported: 90% reported the reviews motivated them to understand their code better and 65% that reviews helped them avoid over-reliance on AI tools, but these are survey responses paired only with exam scores, not an independent measure of understanding.
+- Keystroke logs cannot identify AI use: pastes from outside the IDE are excluded to protect [[privacy|student privacy]], so the authors cannot infer that all pasted text was AI-generated, and their analysis does not connect types of AI usage to performance on particular questions.
+- Student sentiment is [[self-report-measures|self-reported]]: 90% reported the reviews motivated them to understand their code better and 65% that reviews helped them avoid over-reliance on AI tools, but these are survey responses paired only with exam scores, not an independent measure of understanding.
 
 ## Citation
 

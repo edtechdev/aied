@@ -43,7 +43,7 @@ The design situates the question in authentic practice: an AI-supported collabor
 
 ## Using logs without equating activity with over-reliance
 
-A distinctive finding concerns how AI-use intensity is interpreted. Backend logs confirmed that students' self-reported reliance corresponded to how intensely they used AI. Yet the authors caution that high log-based AI-use intensity is not the same as over-reliance, because log indicators cannot distinguish strategic consultation from cognitive offloading or deference. The implication for [[learning-analytics|learning analytics]] is direct: dashboards should not equate high AI-use intensity with over-reliance unless log data are interpreted alongside discourse, [[reflection]], revision, or decision-making evidence. This matters for how the field measures dependence, since the same behavior can signal thoughtful use or outsourcing depending on the context.
+A distinctive finding concerns how AI-use intensity is interpreted. Backend logs confirmed that students' self-reported reliance corresponded to how intensely they used AI. Yet the authors caution that high log-based AI-use intensity is not the same as over-reliance, because log indicators cannot distinguish strategic consultation from cognitive offloading or deference. The implication for [[learning-analytics|learning analytics]] is direct: [[visualization|dashboards]] should not equate high AI-use intensity with over-reliance unless log data are interpreted alongside discourse, [[reflection]], revision, or decision-making evidence. This matters for how the field measures dependence, since the same behavior can signal thoughtful use or outsourcing depending on the context.
 
 ## What this means for practice
 

@@ -26,7 +26,7 @@ confidence: high
 
 - **Value matters more than cost.** Perceived value was a stronger predictor of uptake than perceived cost, aligning with self-determination theory accounts in which value appraisals connect to autonomous motivation; the authors argue for designing feedback experiences that raise perceived relevance and learning value.
 
-- **AIFL is shaped by use, not demographics.** Only frequency of AI tool use significantly predicted AIFL (β = 0.29, p < 0.001); neither academic major nor year of study mattered. This shifts the equity conversation from individual disposition to structural access, warning that integration of AI feedback could widen [[ai-literacy|digital literacy]] gaps for students with less exposure.
+- **AIFL is shaped by use, not demographics.** Only frequency of AI tool use significantly predicted AIFL (β = 0.29, p < 0.001); neither academic major nor year of study mattered. This shifts the equity conversation from individual disposition to structural access, warning that integration of [[ai-feedback-quality|AI feedback]] could widen [[ai-literacy|digital literacy]] gaps for students with less exposure.
 
 - **High-AIFL students differ meaningfully.** Median-split comparisons showed high-AIFL students had significantly higher uptake (d = 0.80), higher perceived value (d = 0.64), and lower perceived cost (d = 0.60) than low-AIFL peers.
 
@@ -39,9 +39,9 @@ confidence: high
 
 ## Limitations
 
-- The design is cross-sectional and entirely self-reported: 486 undergraduate EFL students at four Chinese universities, recruited by convenience and snowball sampling, so no causal claim about AI feedback literacy and uptake follows and generalization beyond this context is limited.
+- The design is cross-sectional and entirely [[self-report-measures|self-reported]]: 486 undergraduate EFL students at four Chinese universities, recruited by convenience and snowball sampling, so no causal claim about AI feedback literacy and uptake follows and generalization beyond this context is limited.
 - The AIFL construct covers attitudes and practices only; the authors state it does not address emotional, ethical, or relational dimensions of feedback literacy.
-- Only student perspectives were measured, so the teacher-mediation role the paper recommends is untested in the data.
+- Only student perspectives were measured, so the [[teacher-role|teacher]]-mediation role the paper recommends is untested in the data.
 
 ## Citation
 

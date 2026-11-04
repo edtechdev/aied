@@ -40,7 +40,7 @@ reviewed_by: [editor]
 
 ## How the detection pipeline was built
 
-The data come from two C2STEM studies, 2021 and 2022, with 36 high school sophomores working in pairs through an eight-week and a six-week kinematics and computing curriculum. Audio and screen capture produced roughly 189 hours of collaborative discourse and 5,575 transcribed utterances; actions in the block-based model were logged as abstract syntax tree changes and mapped onto five low-level actions, of which adjusting (32%) and executing (32%) dominated, followed by building (18%), visualizing (9%) and drafting (9%). Segments, 394 of them, were cut at shifts between task-context categories rather than at fixed time windows, so each segment stays inside one part of the model: initializing variables, updating variables each simulation step, updating them under conditions, or conditional statements.
+The data come from two C2STEM studies, 2021 and 2022, with 36 high school sophomores working in pairs through an eight-week and a six-week kinematics and computing [[curriculum-design|curriculum]]. Audio and screen capture produced roughly 189 hours of collaborative discourse and 5,575 transcribed utterances; actions in the block-based model were logged as abstract syntax tree changes and mapped onto five low-level actions, of which adjusting (32%) and executing (32%) dominated, followed by building (18%), visualizing (9%) and drafting (9%). Segments, 394 of them, were cut at shifts between task-context categories rather than at fixed time windows, so each segment stays inside one part of the model: initializing variables, updating variables each simulation step, updating them under conditions, or conditional statements.
 
 GPT-3.5-Turbo, chosen for cost and performance, summarized each segment from its discourse plus its task context, and every summary was checked by a researcher against the underlying actions and talk. A seven-code scheme from earlier work (planning, enacting, reflecting, enacting-and-planning, enacting-and-monitoring, assistance, off-topic) was applied to the summaries, with two researchers reaching Cohen's kappa of at least 0.7 before one labeled the rest; the codes ranged from 7% to 22% of segments. Utterances were embedded with all-MiniLM-L6-v2, models were feed-forward networks in TensorFlow with two hidden layers, and evaluation used nested three-fold cross-validation with GroupKFold so no session's segments appeared on both sides of a split.
 
@@ -56,9 +56,9 @@ GPT-3.5-Turbo, chosen for cost and performance, summarized each segment from its
 - The models were trained on a single task in a single environment with 36 students. Transfer across domains, tasks and populations is untested, and the authors list it first.
 - Accuracy is modest in absolute terms: apart from off-topic talk, no code cleared 0.73, and three codes sat between 0.50 and 0.63 in their best configuration.
 - Each segment carries one label, though the authors note that regulation behaviors often co-occur; that choice simplifies training and, as one teacher pointed out, complicates interpretation.
-- Teacher feedback came from four teachers reviewing one segment by email, in a study designed for modeling rather than evaluation, so it is a usability signal, not evidence of classroom impact.
-- The label set itself was applied to LLM summaries rather than to raw transcripts, so an error in summarization is inherited by everything downstream.
-- No real-time intervention was tested. The paper argues the detectors could support adaptive scaffolding; it does not show one.
+- Teacher feedback came from four teachers reviewing one segment by email, in a study designed for modeling rather than evaluation, so it is a [[usability-research|usability]] signal, not evidence of classroom impact.
+- The label set itself was applied to [[llm]] summaries rather than to raw transcripts, so an error in summarization is inherited by everything downstream.
+- No real-time intervention was tested. The paper argues the detectors could support [[scaffolding|adaptive scaffolding]]; it does not show one.
 
 ## Citation
 

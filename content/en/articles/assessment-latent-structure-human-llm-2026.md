@@ -51,7 +51,7 @@ This paper contributes a *validity-oriented framework* for comparing latent stru
 - Case-study scope: two instruments (a high-school chemistry diagnostic taken by 931 students, and a quantitative-reasoning section from a high-stakes university entrance exam) and six multimodal LLMs (GPT-4o/GPT-5.2, Gemini 1.5 Pro/3 Pro, Claude 3.5 Sonnet/4.5); the authors state external validity is limited by this small number of instruments and tools.
 - Comparisons used resampled sets of 120 human respondents and 120 LLM responses per dataset, and the LLM sample is relatively small compared with the human sample; models from different families were pooled as a single population despite undisclosed architectural differences.
 - Non-public datasets and proprietary systems constrain replication and leave an unresolved contamination risk: the private assessment instrument had to be uploaded to proprietary tools, data are available only on request, and the authors cannot rule out that the instrument influenced later model versions.
-- Only the internal-structure aspect of validity is tested; generalization to related tasks that measure the same underlying abilities is left untested, and prompting strategies, generation parameters, and interfaces can bias LLM response patterns even when standardized.
+- Only the internal-structure aspect of validity is tested; generalization to related tasks that measure the same underlying abilities is left untested, and [[prompt-engineering|prompting strategies]], generation parameters, and interfaces can bias LLM response patterns even when standardized.
 
 ## Citation
 

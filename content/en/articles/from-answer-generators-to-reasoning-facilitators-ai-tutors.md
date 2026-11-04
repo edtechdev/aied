@@ -43,7 +43,7 @@ The study contributes a broader framework for educational AI called the **Reason
 - The field deployment lasted only 12 calendar days, so novelty or Hawthorne effects may explain some usage rather than stable learning behavior.
 - Only 12 junior-high students participated: all 12 contributed telemetry, 10 completed interviews, and 8 completed contextual observations — enough for formative analysis, not for population-level claims.
 - A system-reliability incident on May 20 and 21 left no started solve completed, depressing the 56.4% solve-completion funnel, so that figure mixes user behavior with system stability.
-- The evidence covers interaction behavior and perceived reasoning support, not measured learning gains; the authors call for pre/post assessments and delayed transfer tasks.
+- The evidence covers interaction behavior and perceived reasoning support, not measured [[learning-gains|learning gains]]; the authors call for pre/post assessments and delayed transfer tasks.
 
 ## Citation
 

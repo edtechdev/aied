@@ -39,7 +39,7 @@ This paper contributes directly to the knowledge base's understanding of [[stude
 
 - **Instructors.** Front-load chatbot support into deadline weeks and demonstrate its use yourself: the 2,819 logged StatBot interactions clustered in weeks with intensive coursework, and participation peaked when the instructor modeled effective usage.
 - **Instructors.** Teach the follow-up moves explicitly — Check, Doubt, and Extend — rather than stopping at question entry. Initial inquiry made up 70.3% of interactions (mostly Definition and Copy), while follow-up inquiry accounted for only 26.4%, so most learners never reached iterative verification or conceptual extension.
-- **Instructional designers.** Build meta-prompting and pedagogical nudges into the chatbot so it pushes learners to clarify their questions, evaluate responses, and formulate their own follow-ups instead of defaulting to answer delivery.
+- **Instructional designers.** Build meta-[[prompt-engineering|prompting]] and [[pedagogy|pedagogical]] nudges into the chatbot so it pushes learners to clarify their questions, evaluate responses, and formulate their own follow-ups instead of defaulting to answer delivery.
 - **Instructional designers.** Preserve a private, low-stakes inquiry channel. Female students used StatBot significantly more often than male students (total frequency, and initial queries at W = 679.5, p = .015), which the authors read as conversational AI reducing the perceived social risk of asking questions in a STEM course.
 - **Designers.** Instrument non-use and motivational readiness rather than assuming adoption: 27% of the 97 enrolled students never used the chatbot, and autonomous [[motivation]] predicted both higher use and membership in the Growing Achievers profile.
 
@@ -47,7 +47,7 @@ This paper contributes directly to the knowledge base's understanding of [[stude
 
 - The study used no control–experimental design, so it cannot support causal claims about the chatbot's effect on learning; the authors frame the achievement-profile comparisons as exploratory.
 - It is a single site and a single course: 97 graduate students in one statistics course at one institution, which the authors state limits generalizability across disciplines, educational levels, and learning environments.
-- The analysis relied on chatbot interaction logs, which cannot capture learners' cognitive engagement, metacognitive regulation, or epistemic reasoning beyond the chat interface.
+- The analysis relied on chatbot interaction logs, which cannot capture learners' cognitive engagement, [[metacognition|metacognitive]] regulation, or epistemic reasoning beyond the chat interface.
 - N = 97 was adequate for zero-inflated negative binomial modeling, but the authors note limited statistical power for subtler follow-up behaviors — the cluster difference in follow-up inquiry reached only p = .052 — and the design did not model how inquiry patterns unfold over time.
 
 ## Citation

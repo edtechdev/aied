@@ -1,7 +1,7 @@
 ---
 title: "Environmental Education"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -47,7 +47,7 @@ This half is where the corpus is thinnest. A review of all 396 AIED 2025 proceed
 
 On the learner side, an eco-feedback interface exposing the latency–carbon trade-off during live LLM use was studied with 89 computer science undergraduates in a computing ethics course: students chose the lower-carbon mode in roughly 45% of low-latency interactions but under 5% at high latency, and sustainability awareness significantly raised that choice. The sample is small and unusually technically informed, but it is the only direct evidence in the corpus that footprint information moves learners at all — and it suggests the binding constraint is patience, not values.([[llm-environmental-impact-student-usage-2026]])
 
-Mitigation evidence comes from an on-premise [[cs-education|CS]] knowledge-base assistant on a single consumer GPU (12 GB VRAM) with openly licensed content: 1.8 mWh per query at best — about 0.54 Wh for a class of 30 students submitting ten queries each — with quantization-aware fine-tuning containing both the accuracy loss and the [[hallucination-risk|hallucination]] rise that compression alone caused. It is an engineering benchmark, not a learning study, but it shows the footprint question has design levers (grounding, quantization, deployment location), not only usage-discipline levers.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Mitigation evidence comes from an on-premise [[cs-education|CS]] knowledge-base assistant on a single consumer GPU (12 GB VRAM) with openly licensed content: 1.8 mWh per query at best — about 0.54 Wh for a class of 30 students submitting ten queries each — with quantization-aware [[llm-training-and-fine-tuning|fine-tuning]] containing both the accuracy loss and the [[hallucination-risk|hallucination]] rise that compression alone caused. It is an engineering benchmark, not a learning study, but it shows the footprint question has design levers (grounding, quantization, deployment location), not only usage-discipline levers.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Green skills, sustainability consciousness, and teacher capacity
 

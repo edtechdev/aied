@@ -28,8 +28,8 @@ audience: [instructional designers, researchers]
 
 - **Designers.** Calibrate avatar design by domain instead of fixing it globally: bias was amplified on STEM and procedural items — where the largest competence gap appeared between young White and older Black female avatars — and attenuated on reflective and interpersonal tasks.
 - Reduce the salience of demographic cues by using stylized or less anthropomorphic avatars and rotating diverse avatars across tasks, while pairing those changes with consistent behavioral reliability so engagement does not drop.
-- Evaluate avatar interventions by their effect on enacted guidance uptake, not just attitudes or self-reported trust, because identity bias operated at the level of action as well as evaluation.
-- **Administrators.** Treat default avatar configurations, representation policies, and deployment contexts as pedagogical and ethical decisions, and build in design guidelines, reliance monitoring, and vendor accountability for AI tutor procurement.
+- Evaluate avatar interventions by their effect on enacted guidance uptake, not just attitudes or [[self-report-measures|self-reported]] trust, because identity bias operated at the level of action as well as evaluation.
+- **Administrators.** Treat default avatar configurations, representation policies, and deployment contexts as [[pedagogy|pedagogical]] and ethical decisions, and build in design guidelines, reliance monitoring, and vendor accountability for AI tutor procurement.
 - **Researchers.** Model trust dynamically, since this study modeled trust and epistemic uptake as static outcomes and could not show whether the measured dimensions are causal intermediaries or co-occurring correlates of behavior.
 
 ## Limitations

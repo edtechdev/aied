@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Brisson, Segarra and Smits present a didactically-driven [[llm]] teacher assistant for a university dimensional modeling (data warehousing) course. Unlike most educational [[conversational-ai|chatbots]] that delegate [[pedagogy|pedagogical]] decisions implicitly to the LLM, their system makes content selection and didactic structuring explicit and traceable: tutoring strategy is encoded in an external didactic layer that the LLM executes, so tutoring behavior can be evaluated and reproduced. The design responds directly to the opacity critique raised in [[rethinking-scaffolding-llm-tutors]] and complements retrieval-grounded designs such as [[retrieval-augmented-tutoring-algorithm-kite]] and safety-layered tutors like [[eduguard-safe-rag-llm-tutor]]. As an instructor-facing [[pedagogical-agent|pedagogical agent]] it sits alongside [[teachingcoach-chatbot-instructor-guidance]], and its explicit didactic structuring exemplifies principled [[learning-design]] applied to LLM tutoring in [[cs-education]].
+> **Synthesis:** Brisson, Segarra and Smits present a didactically-driven [[llm]] [[teacher-role|teacher]] assistant for a university dimensional modeling (data warehousing) course. Unlike most educational [[conversational-ai|chatbots]] that delegate [[pedagogy|pedagogical]] decisions implicitly to the LLM, their system makes content selection and didactic structuring explicit and traceable: tutoring strategy is encoded in an external didactic layer that the LLM executes, so tutoring behavior can be evaluated and reproduced. The design responds directly to the opacity critique raised in [[rethinking-scaffolding-llm-tutors]] and complements retrieval-grounded designs such as [[retrieval-augmented-tutoring-algorithm-kite]] and safety-layered tutors like [[eduguard-safe-rag-llm-tutor]]. As an instructor-facing [[pedagogical-agent|pedagogical agent]] it sits alongside [[teachingcoach-chatbot-instructor-guidance]], and its explicit didactic structuring exemplifies principled [[learning-design]] applied to LLM tutoring in [[cs-education]].
 
 ## What this means for practice
 
@@ -26,10 +26,10 @@ page_kind: [framework]
 
 ## Limitations
 
-- Evaluation is technical only: 195 authentic student questions gathered from 24 students in a single French-language dimensional modeling course, with no measure of response quality, perceived usefulness, or learning outcomes.
+- Evaluation is technical only: 195 authentic student questions gathered from 24 students in a single French-language dimensional modeling course, with no measure of response quality, [[technology-acceptance-model|perceived usefulness]], or learning outcomes.
 - The pattern detector reached only 32% coverage on the real corpus, and the combined pattern+Gemini configuration scored a pair F1 of 63.50, significantly below Gemini-2.0-flash alone at 67.81 (p = 0.005) — the pattern introduced errors on queries the LLM handled correctly.
 - The retrieval corpus is mono-authored, drawn entirely from one instructor's teaching notes, so system coverage is bounded by that single source.
-- The system is reactive and atomistic, with no learner model, no awareness of the course timeline, and no capacity to initiate interaction, and its transfer to courses built on theorem derivation, algorithmic processes, or code production is untested.
+- The system is reactive and atomistic, with no [[student-modeling|learner model]], no awareness of the course timeline, and no capacity to initiate interaction, and its transfer to courses built on theorem derivation, algorithmic processes, or code production is untested.
 
 ## Citation
 

@@ -37,7 +37,7 @@ reviewed_by: [editor]
 
 ## Study Design and Method
 
-The design was a 2 (instructional approach: skills-based versus thinking-based) × 2 (task type: structured versus open-ended) between-subjects experiment. A total of 320 undergraduates from one Chinese university (mean age 20.1, SD = 1.3) were assigned by permuted-block randomization to four groups of 80. Each group watched a standardized six-minute Mandarin video, contrasting procedural prompt techniques with model limitations, critical evaluation, and ethics. Participants then completed a constrained or open-ended brief for a [[generative-ai|generative image]] task, submitting a final image, [[prompt-engineering|prompt]], process statement, and selection rationale. Two blind raters scored the work with a four-to-twelve-point rubric covering practical application, critical evaluation, and responsible use; agreement was high (ICC = 0.89).
+The design was a 2 (instructional approach: skills-based versus thinking-based) × 2 (task type: structured versus open-ended) between-subjects experiment. A total of 320 undergraduates from one Chinese university (mean age 20.1, SD = 1.3) were assigned by permuted-block randomization to four groups of 80. Each group watched a standardized six-minute Mandarin video, contrasting procedural prompt techniques with model limitations, [[critical-thinking|critical evaluation]], and [[ethics]]. Participants then completed a constrained or open-ended brief for a [[generative-ai|generative image]] task, submitting a final image, [[prompt-engineering|prompt]], process statement, and selection rationale. Two blind raters scored the work with a four-to-twelve-point rubric covering practical application, critical evaluation, and responsible use; agreement was high (ICC = 0.89).
 
 ## Psychological Mechanisms
 
@@ -59,7 +59,7 @@ The fuzzy-set analysis asked which combinations of conditions were sufficient fo
 - Participants came from one university and all had prior experience with AIGC image tools, so findings may not extend to other institutions, disciplines, levels, or complete beginners.
 - The intervention was brief and outcomes were measured immediately after a single 20 to 25 minute activity, leaving persistence and transfer untested.
 - The open-ended task allowed more interpretive freedom while the rubric rewarded prompt complexity, iterative optimization, and ethical [[reflection]], so higher scores there may partly reflect alignment between task affordances and the scoring criteria.
-- The psychological needs were self-reported after completion, leaving reverse causality possible, and the configurational results depend on the chosen calibration anchors.
+- The psychological needs were [[self-report-measures|self-reported]] after completion, leaving reverse causality possible, and the configurational results depend on the chosen calibration anchors.
 
 ## Citation
 

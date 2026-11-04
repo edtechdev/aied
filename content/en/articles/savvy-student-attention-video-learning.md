@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.29413.md']
 confidence: high
 ---
 
-> **Synthesis:** SAVVY is an interactive visual analytics system for [[video-education|video-based learning]] that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
+> **Synthesis:** SAVVY is an interactive [[visualization|visual analytics]] system for [[video-education|video-based learning]] that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
 
 ## Key Findings
 

@@ -54,7 +54,7 @@ At the nominal level, students preferring a chatbot that initiates guided inquir
 
 ## Limitations
 
-- Chatbot preferences were forced into three fixed options (Direct Answers, Guided Q&A, Combination) and beliefs came from one EBAPS administration; the authors note that qualitative interviews about beliefs and preferences are needed for deeper insight.
+- Chatbot preferences were forced into three fixed options (Direct Answers, Guided Q&A, Combination) and beliefs came from one EBAPS administration; the authors note that [[qualitative-research|qualitative]] interviews about beliefs and preferences are needed for deeper insight.
 - Internal consistency was low, particularly on Axis 4, and effect sizes were small: the total-score and Axis 4/Axis 5 differences disappeared under the Bonferroni-adjusted threshold (α = 0.0083 across six omnibus tests).
 - All data came from one extra-credit activity in a single large calculus-based physics course at one midwestern land-grant R1 (roughly 1,800 enrolled; 1,191 activity responses, 1,408 EBAPS responses, 1,048 overlapping), covering waves content not taught in the course.
 - The design is correlational: preferences and beliefs were measured in the same week with no control group, so no causal direction between them can be established.

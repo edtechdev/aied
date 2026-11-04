@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Oviedo and Díaz (2026) argue that [[generative-ai|generative AI]] invalidates [[assessment]] instruments whose validity rested on the final product, and propose a shift to a pedagogy of the process. Grounding the proposal in Biggs's 3P model, they identify three dimensions for rubric design: human agency and critical supervision, dialogic [[scaffolding]] tied to [[prompt-engineering|prompt engineering]], and cognitive sovereignty grounded in [[academic-integrity|integrity]] and transparency. The contribution is a design framework for capturing the cognitive interaction between student and technology, not an empirical test of it.
+> **Synthesis:** Oviedo and Díaz (2026) argue that [[generative-ai|generative AI]] invalidates [[assessment]] instruments whose validity rested on the final product, and propose a shift to a [[pedagogy]] of the process. Grounding the proposal in Biggs's 3P model, they identify three dimensions for rubric design: human agency and critical supervision, dialogic [[scaffolding]] tied to [[prompt-engineering|prompt engineering]], and cognitive sovereignty grounded in [[academic-integrity|integrity]] and transparency. The contribution is a design framework for capturing the cognitive interaction between student and technology, not an empirical test of it.
 
 ## Key Findings
 

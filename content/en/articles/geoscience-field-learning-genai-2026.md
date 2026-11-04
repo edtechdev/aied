@@ -33,7 +33,7 @@ ai_assist:
 4. **Support, mediation, substitution.** The model classifies a use by who performs the observation, initial interpretation, and adjudication; substitution is flagged when any one of three task-level criteria is met, and a single lesson may contain all three modes.
 5. **The six-stage model.** Preparation, evidence recording, initial interpretation, dialogic challenger, human evidence-based adjudication, and reflective synthesis with epistemic accounting — Stages 4 and 5 form a recursive challenger–adjudication loop rather than a fixed line.
 6. **Six propositions with disconfirmation conditions.** P1–P6 each specify a comparison condition, an observable indicator, and a finding that would challenge the claim; the six operational constructs include observation specificity, field-evidence use, AI anchoring, epistemic agency, adjudication quality, and epistemic accounting.
-7. **The Auraji thought experiment.** Ten [[k-12|middle school]] learners and one teacher at a basalt outcrop; Stages 2–5 fit within a single class period of about 50 min, with adjudication occupying about 15 min, comparable to the time the earlier teacher-explanation lesson spent at the same outcrop.
+7. **The Auraji thought experiment.** Ten [[k-12|middle school]] learners and one [[teacher-role|teacher]] at a basalt outcrop; Stages 2–5 fit within a single class period of about 50 min, with adjudication occupying about 15 min, comparable to the time the earlier teacher-explanation lesson spent at the same outcrop.
 
 ## From tool novelty to epistemic reorganization
 

@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T17:00:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -14,7 +14,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and [[online-teaching-and-learning|online learning]] environments through which AI is delivered to learners and educators. In [[ai-education|AI in education]], the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Questions to Consider
 
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 - One study found that nearly half of students never used a well-designed AI tutoring platform, and heavy users skewed toward higher-achieving students. If a tool is effective 'in principle' but students don't use it, is the capability or the platform the real problem? What would that mean for how you evaluate edtech?
 - Proprietary AI platforms can confine researchers to a handful of closed systems, while open platforms like OATutor let anyone fork, experiment, and publish. What might be lost — for research, equity, and institutional autonomy — when AI education is delivered through closed, opaque platforms?
 - How much does a platform's business model — who pays, who owns the data, what gets optimized — shape the learning that actually happens on it? Where would you look to see that influence?
-- Some new 'AI-native' platforms replace the one-video-for-many-students MOOC model with a multi-agent classroom built around each learner. Before reading on, what would you worry about losing when instruction becomes one-to-one with agents instead of one-to-many with instructors?
+- Some new 'AI-native' platforms replace the one-video-for-many-students MOOC model with a [[agentic-ai|multi-agent]] classroom built around each learner. Before reading on, what would you worry about losing when instruction becomes one-to-one with agents instead of one-to-many with instructors?
 
 ## Introduction
 
@@ -52,7 +52,7 @@ The binding constraint is where the AI sits inside the platform: in a 6,000-stud
 
 ### Which tools educators report using, and what gates access
 
-A rare census of educator-reported platform choice comes from a 2026 typology built from 211 educators across nine countries: the tools that reach classrooms are disproportionately the ones with a free tier, because a publicly available free version was an inclusion criterion, and the most-nominated entries are general-purpose assistants and media generators rather than purpose-built platforms. Roughly half of the fifty tools listed produce images, audio, video or slide decks, while document-grounded assistants (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) form the most coherent cluster in the research category. Dedicated [[intelligent-tutoring|tutoring]] systems appear as a small, subject-specific group rather than the center of reported use — which frames the take-up problem above in a wider setting, where a platform competes for attention against general-purpose tools that students and instructors already have open.([[typology-generative-ai-tools-education-2026]])
+A rare census of educator-reported platform choice comes from a 2026 typology built from 211 educators across nine countries. The tools that reach classrooms are disproportionately the ones with a free tier, because a publicly available free version was an inclusion criterion, and the most-nominated entries are general-purpose assistants and media generators rather than purpose-built platforms. Roughly half of the fifty tools listed produce images, audio, video or slide decks, while document-grounded assistants (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) form the most coherent cluster in the research category. Dedicated [[intelligent-tutoring|tutoring]] systems appear as a small, [[discipline-specific-aied|subject-specific]] group rather than the center of reported use — which frames the take-up problem above in a wider setting, where a platform competes for attention against general-purpose tools that students and instructors already have open.([[typology-generative-ai-tools-education-2026]])
 
 ### The platform model matters: open vs. proprietary
 
@@ -66,7 +66,7 @@ A rare census of educator-reported platform choice comes from a 2026 typology bu
 
 ### AI-native platforms are reshaping online education
 
-The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~\$25K/60 hours to under \$2/30 minutes.([[mooc-to-maic]]) Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.([[ai-lms-middle-school-longitudinal]]) At the other end of the deployment spectrum, classroom-embedded AI must prove feasible in live physical environments. The Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — a classroom-wide platform that uses speech recognition and language understanding to visualize small-group collaborative discourse — was successfully deployed across noisy middle-school classrooms using commodity microphones and a scalable cloud pipeline, showing that real-time speech-AI infrastructure can function in authentic K-12 settings even as interface mismatches (teacher vs. student views of whether feedback was group- or class-level) created deployment friction.
+The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an [[llm]]-driven multi-agent classroom — "N agents for 1 student" — using specialized [[teacher-role|Teacher]], Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale. It reduces course production from ~\$25K/60 hours to under \$2/30 minutes.([[mooc-to-maic]]) Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher [[visualization|dashboards]].([[ai-lms-middle-school-longitudinal]]) At the other end of the deployment spectrum, classroom-embedded AI must prove feasible in live physical environments. The Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — a classroom-wide platform that uses [[speech-and-voice-technologies|speech recognition]] and language understanding to visualize small-group collaborative discourse — was successfully deployed across noisy middle-school classrooms using commodity microphones and a scalable cloud pipeline, showing that real-time speech-AI infrastructure can function in authentic [[k-12]] settings even as interface mismatches (teacher vs. student views of whether feedback was group- or class-level) created deployment friction.
 
 ### Interest-based and context-aware platform features
 
@@ -89,7 +89,7 @@ Privacy can be built into the pipeline rather than the policy: a classroom incid
 
 **"Adoption is measured by logins."** The informative gap is at message level, not account level. In that same trial only **~14.5% of messages carried a genuine mathematical question**. Ninety-six percent of students created the access event; roughly one in seven of their interactions did the intellectual work. Reporting a logins figure here would have described a success that did not exist.
 
-**"Open versus proprietary is a licensing detail that does not affect outcomes."** The platform model shapes what institutions can do with the system: [[open-source|open]] platforms such as OATutor — an MIT-licensed adaptive tutor with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation and built-in A/B testing — let a department instrument and modify its own pedagogy, which a closed platform cannot. The license determines who may conduct the experiment.
+**"Open versus proprietary is a licensing detail that does not affect outcomes."** The platform model shapes what institutions can do with the system: [[open-source|open]] platforms such as OATutor — an MIT-licensed adaptive tutor with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation and built-in A/B testing — let a department instrument and modify its own [[pedagogy]], which a closed platform cannot. The license determines who may conduct the experiment.
 
 **"A platform that works at one institution will work as adopted."** Platform effects run through local governance: privacy-first architecture, data minimisation, auditable logs and role-based access are what make an AI-integrated platform deployable at all, and they are institutional decisions rather than features you can infer from a vendor demonstration.
 

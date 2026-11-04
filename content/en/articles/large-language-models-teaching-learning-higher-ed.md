@@ -52,7 +52,7 @@ The blockchain contribution addresses a problem the other papers leave open: onc
 ## What this means for practice
 
 - **Instructors.** The collection's most transferable lesson is architectural: integrate LLM capability at specific points in an existing workflow rather than replacing the workflow. LLM-CR's offline-processing design is the template.
-- **Assessment designers.** Treat automated scoring as auxiliary until repeated-scoring consistency, paraphrase robustness and subgroup fairness have been tested. RACES's own authors identify those as open priorities, and the benchmark result does not cover them.
+- **Assessment designers.** Treat [[automated-assessment|automated scoring]] as auxiliary until repeated-scoring consistency, paraphrase robustness and subgroup fairness have been tested. RACES's own authors identify those as open priorities, and the benchmark result does not cover them.
 - **Educational technology developers.** Design for fading. ARPG+'s explicit goal of withdrawing hints is a more demanding specification than maximizing support, and it is the one that aligns with developing learner capability.
 - **Institutional leaders.** Provenance and human-approval mechanisms are governance requirements, not features. If AI touches grading or certification, plan how a decision can be reconstructed and who is accountable for confirming it.
 - **Researchers.** Report model versions, prompts, retrieval sources and interaction histories. The editorial's critique of the field is that these are routinely under-specified, which prevents cumulative evidence.

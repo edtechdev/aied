@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **Bridging technology and education: The use of ChatGPT in grading pharmacy student exams** — This mixed-format study evaluates ChatGPT-5 against human faculty (gold standard) grading of a 21-item pharmacy exam completed by 16 students across multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay questions, testing two rubric conditions and two submission formats. It finds near-perfect [[automated-assessment]] agreement for objective items but unreliable agreement for subjective open-ended responses, and shows that providing a rubric did not consistently improve [[llm]] grading. The work advances understanding of when generative AI can substitute for human grading in [[higher-ed]] assessment versus where [[human-in-the-loop-ai|human oversight]] remains necessary.
+> **Synthesis:** **Bridging technology and education: The use of ChatGPT in grading pharmacy student exams** — This mixed-format study evaluates ChatGPT-5 against human faculty (gold standard) grading of a 21-item pharmacy exam completed by 16 students across multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay questions, testing two rubric conditions and two submission formats. It finds near-perfect [[automated-assessment]] agreement for objective items but unreliable agreement for subjective open-ended responses, and shows that providing a rubric did not consistently improve [[llm]] grading. The work advances understanding of when [[generative-ai|generative AI]] can substitute for human grading in [[higher-ed]] assessment versus where [[human-in-the-loop-ai|human oversight]] remains necessary.
 
 ## Key Findings
 

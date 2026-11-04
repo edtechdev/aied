@@ -17,7 +17,7 @@ confidence: high
 
 ## Key Findings
 
-- **Problem:** Static-prompt LLM tutoring systems fail to adapt across diverse academic disciplines.
+- **Problem:** Static-prompt LLM [[intelligent-tutoring|tutoring systems]] fail to adapt across diverse academic disciplines.
 - **Solution:** Subject-aware prompt routing using 14 pedagogical features extracted from transcripts; contextual bandit formulation with 20 pedagogical prompts.
 - **Simulation:** Router achieves 0.694 vs 0.647/0.64 static baselines (p<0.001).
 - **Real-world A/B test:** N=656 conversations, 359 Dutch high-school students. Stochastic router achieves 28.1% exercise conversion rate vs 19.6% baseline.
@@ -35,7 +35,7 @@ confidence: high
 
 - The live A/B test covers 656 valid conversations (sessions filtered to turns > 1) with 359 Dutch high-school students, and the higher 28.1% conversion rate did not reach statistical significance.
 - Many students did not proceed to formal exercises right after tutoring, so immediate knowledge gain could not be measured through test results.
-- The router developed a bias toward strategies that perform well across the most common subjects, and real-world data sparsity in long-tail subjects (e.g., Economics or Physics) made it hard for the policy to converge on subject-specific strategies within a limited live-deployment window.
+- The router developed a bias toward strategies that perform well across the most common subjects, and real-world data sparsity in long-tail subjects (e.g., Economics or Physics) made it hard for the policy to converge on [[discipline-specific-aied|subject-specific]] strategies within a limited live-deployment window.
 - The framework relies on a discrete pool of 20 pedagogical prompts, which prevents novel or hybrid instruction strategies, and data sparsity in the deployment constrains the statistical power of the downstream analyses and slows online convergence.
 
 ## Citation

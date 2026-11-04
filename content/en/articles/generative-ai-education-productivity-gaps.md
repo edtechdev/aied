@@ -23,7 +23,7 @@ The study employed a [[rct|randomized online experiment]] with 1,174 [[adult-lea
 - **Control group:** No AI assistance
 - **Follow-up module:** Both groups completed an unassisted module to measure learning retention
 
-Access was randomized across education-defined groups (high school versus [[higher-ed|postsecondary]]), holding the task fixed to identify how [[generative-ai|AI]] changes the productivity advantage associated with formal education. Responses were scored by an [[automated-essay-scoring|AI-assisted grading]] procedure validated against independent human graders. Chat logs were analyzed to understand differential AI usage patterns across education levels.
+Access was randomized across education-defined groups (high school versus [[higher-ed|postsecondary]]), holding the task fixed to identify how [[generative-ai|AI]] changes the productivity advantage associated with formal education. Responses were scored by an [[automated-essay-scoring|AI-assisted grading]] procedure validated against independent human graders. Chat logs were analyzed to understand differential AI usage patterns across [[education-levels|education levels]].
 
 ## Key Findings
 

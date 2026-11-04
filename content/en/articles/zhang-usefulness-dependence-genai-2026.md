@@ -29,7 +29,7 @@ source_depth: full text
 
 ## Key Findings
 
-1. **Eighteen months, four waves, no attrition.** Of 600 questionnaires distributed in June 2024, 524 were valid (87.3%), and all 524 completed every later wave, covering 12 constructs and 35 items.
+1. **Eighteen months, four waves, no attrition.** Of 600 [[self-report-measures|questionnaires]] distributed in June 2024, 524 were valid (87.3%), and all 524 completed every later wave, covering 12 constructs and 35 items.
 2. **Usefulness traced a U, not the predicted inverted U.** Means ran 5.24, 4.12, 4.14 and 4.65, F(2.31, 1208.13) = 223.12, partial η2 = 0.30: the baseline was already the peak, with a 12.3% T3-to-T4 rebound.
 3. **Trust dipped, then overshot.** It fell 4.38, 3.96, 3.92, then 4.49, F(2.52, 1317.96) = 36.11, partial η2 = 0.07, with T4 above T1 (p = 0.024).
 4. **The two risk perceptions diverged.** Technology concerns dropped 6.08 to 4.02 (F = 655.01, partial η2 = 0.56); ethical concerns fell 5.36 to 4.18, then rose to 5.28 (F = 346.27, partial η2 = 0.40).

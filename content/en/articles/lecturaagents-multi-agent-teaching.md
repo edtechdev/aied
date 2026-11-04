@@ -16,7 +16,7 @@ page_kind: [framework]
 
 ## Key Findings
 
-- Hierarchical multi-agent framework (ProfessorAgent + subordinate agents) enables end-to-end adaptive [[embodied-learning|embodied]] [[teacher-role|teaching]].
+- Hierarchical [[agentic-ai|multi-agent]] framework (ProfessorAgent + subordinate agents) enables end-to-end adaptive [[embodied-learning|embodied]] [[teacher-role|teaching]].
 - TASA algorithm aligns teaching actions with learner profiles.
 - Outperforms baselines on lecture quality, embodiment, assessment, and personalization.
 - Given a lecture prompt or learning materials plus a learner profile, a **ProfessorAgent leads a collaborative team of specialized agents** through [[research-methods-aied|research]], planning, design, evaluation, and embodied delivery of lecture and study content that adapts to the individual learner.
@@ -32,13 +32,13 @@ At its core, LecturaAgents mirrors a professor–student relationship: a Profess
 - **Developers.** Ship the embodied teaching layer, not just content generation: the gains over baselines came from visible, pedagogically motivated actions (handwriting, highlighting, underlining) aligned to learner profiles by the Teaching Action-Speech Alignment algorithm.
 - **Developers.** Budget for orchestration cost, because the authors report that multi-agent orchestration can introduce latency and compute overhead.
 - **Developers.** Constrain the teaching-action set deliberately: action-speech alignment relies on offline heuristics with a limited set of supported actions, which constrains embodied instruction across different slide layouts.
-- **Instructors.** Keep expert review in the loop, since the framework can inherit LLM failure modes such as factual errors, inconsistent reasoning, and prompt or tool sensitivity. The study's own material was validated for high school, undergraduate, and master's levels, but that rubric scoring rested on five expert educators, so plan for expert capacity rather than assuming the framework self-certifies.
+- **Instructors.** Keep expert review in the loop, since the framework can inherit [[llm]] failure modes such as factual errors, inconsistent reasoning, and prompt or tool sensitivity. The study's own material was validated for high school, undergraduate, and master's levels, but that rubric scoring rested on five expert educators, so plan for expert capacity rather than assuming the framework self-certifies.
 
 ## Limitations
 
 - Small efficacy study: 45 students were divided equally across three systems (15 per system, five from each of high school, undergraduate, and master's levels, ages 15-25), so the comparative learning-experience results are preliminary.
 - Heuristic alignment: the teaching action-speech module uses offline heuristics and a limited action taxonomy, and its robustness across diverse slide layouts is untested.
-- Expert-judged evaluation: pedagogical and comparative scoring depended on five expert educators validating rubric criteria, a labor-intensive protocol that limits how broadly the results scale.
+- Expert-judged evaluation: [[pedagogy|pedagogical]] and comparative scoring depended on five expert educators validating rubric criteria, a labor-intensive protocol that limits how broadly the results scale.
 - Inherited LLM failure modes: the framework can produce factual errors, inconsistent reasoning, and prompt- or tool-sensitive outputs.
 
 ## Citation

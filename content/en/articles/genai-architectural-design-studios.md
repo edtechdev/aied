@@ -14,12 +14,12 @@ confidence: medium
 discipline: [design education]
 ---
 
-> **Synthesis:** Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
+> **Synthesis:** Examines the integration of deep generative models into [[arts-design-and-media-education|architectural design education]]. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
 
 ## Key Findings
 
 - A longitudinal study in architectural design studios led to the development of the **GAI-A platform**, a user-friendly GenAI interface refined through a cyclical process of experimentation, feedback collection, and evaluation.
-- Students used GenAI as **visual stimuli and inspirational resources**, supporting exploration of the unknown in the early stages of the design process.
+- Students used GenAI as **visual stimuli and inspirational resources**, supporting exploration of the unknown in the early stages of the [[design-thinking|design process]].
 - A second, combinatorial pattern of use (analogous to Boden's 'combinatorial' method) was effective as **solution space enhancement**: generating alternatives that expand the solution space during the design and development phase, with students using GenAI to advance their preliminary solution ideas.
 - The authors stress that avoiding **design fixation** requires competencies and discernment to differentiate between GenAI models and use them effectively.
 - The study also cites evidence (Wadinambiarachchi et al., 2024) that exposure to GenAI images can narrow designers' focus by tying them to specific aesthetics, and notes that several of its own findings require further [[research-methods-aied|research]].
@@ -38,9 +38,9 @@ The research combined the development of a GenAI interface with its implementati
 
 ## Limitations
 
-- The qualitative evidence rests on focus-group interviews with six participants (N = 6), each roughly 30 minutes, conducted at week 6 and week 13 of one part of a multi-semester study; the authors state that the small sample and the participants' limited experience preclude broad generalization.
+- The [[qualitative-research|qualitative]] evidence rests on focus-group interviews with six participants (N = 6), each roughly 30 minutes, conducted at week 6 and week 13 of one part of a multi-semester study; the authors state that the small sample and the participants' limited experience preclude broad generalization.
 - Survey data came from a single cohort in the third semester (Case-III: 24 students enrolled, N = 18 at week 6 and N = 24 at week 13), and the study reports students' views and studio observations rather than a controlled comparison, so the documented patterns cannot establish that GenAI caused the reported creative gains.
-- Creativity itself is inherently subjective and resists objective evaluation, which the authors name as a central limitation: what one observer judges creative another may find banal, and the coded design processes map reported steps rather than measured originality.
+- [[creativity]] itself is inherently subjective and resists objective evaluation, which the authors name as a central limitation: what one observer judges creative another may find banal, and the coded design processes map reported steps rather than measured originality.
 - Several findings are flagged by the authors as needing further research, including the claim that relinquishing control to GenAI establishes a new focal point for exploring creativity.
 
 ## Citation

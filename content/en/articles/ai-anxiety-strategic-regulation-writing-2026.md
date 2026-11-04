@@ -22,7 +22,7 @@ discipline: [writing education]
 - **AI anxiety is productive, not just a barrier:** Higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01). Students worried about [[ai-detection|plagiarism]] or accuracy were more likely to question every AI sentence, cross-check sources, and revise rather than accept output uncritically.
 - **Evaluative capacity drives active [[student-engagement|engagement]]:** Evaluative capacity predicted revision and selective integration (β=.46, p<.001), while [[ethics|ethical]] awareness strengthened the translation of evaluation into active, responsible AI use (interaction β=.41, p<.01).
 - **Four regulatory types (N=107):** Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%). Effective AI use depended not on willingness to use the tool but on the capacity to question outputs, revise selectively, and maintain authorship responsibility. Uncritical reliance risks [[cognitive-offloading|cognitive offloading]], while the other modes reflect active [[self-regulated-learning|self-regulated]] engagement.
-- **AI literacy as regulatory competence:** The study frames [[ai-literacy]] in [[higher-ed|higher education]] less as technology acceptance and more as a form of regulatory competence grounded in evaluative judgment and ethical responsibility.
+- **AI literacy as regulatory competence:** The study frames [[ai-literacy]] in [[higher-ed|higher education]] less as [[technology-acceptance-model|technology acceptance]] and more as a form of regulatory competence grounded in [[evaluative-judgment|evaluative judgment]] and ethical responsibility.
 
 ## What this means for practice
 
@@ -34,9 +34,9 @@ discipline: [writing education]
 
 ## Limitations
 
-- All 107 undergraduates came from a single general education English course at one South Korean university where generative AI was not formally embedded in the curriculum, so transfer to other disciplines, levels, or instructional designs is untested.
-- The writing tasks were relatively short, which limits what the study can say about sustained or discipline-specific academic writing.
-- The four regulatory types and the behavioral findings rest on self-reported survey scales and post-task written reflections — attitudinal and retrospective accounts — not on observed behavior.
+- All 107 undergraduates came from a single general education English course at one South Korean university where generative AI was not formally embedded in the [[curriculum-design|curriculum]], so transfer to other disciplines, levels, or instructional designs is untested.
+- The writing tasks were relatively short, which limits what the study can say about sustained or [[discipline-specific-aied|discipline-specific]] academic writing.
+- The four regulatory types and the behavioral findings rest on [[self-report-measures|self-reported]] survey scales and post-task written reflections — attitudinal and retrospective accounts — not on observed behavior.
 - The paper reports cross-sectional associations from a hierarchical regression, so the β values establish relationships among anxiety, evaluative capacity, ethical awareness, and regulatory engagement, not that any of them causes the others.
 
 ## Citation

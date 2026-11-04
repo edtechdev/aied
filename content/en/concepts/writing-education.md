@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -63,13 +63,13 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 
 Because writing is a cognitive process, AI-in-writing research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve [[self-assessment]]?), [[self-regulated-learning]] (do students regulate their use of AI feedback?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?). The [[critical-thinking-genai-scaffolding|critical-thinking scaffolding]] and [[ai-feedback-critical-thinking-writing-2026|AI feedback for critical thinking]] research show that the [[pedagogy|pedagogical]] value of AI in writing depends on whether it prompts reflection and judgment rather than answer-replacement.
 
-Essay authorship tracked prompt volume in a synthesis task — 80% of the text written by the learner in the minimal-prompting cluster against 2% in the heaviest — while connective density correlated negatively with prior knowledge rather than prompt count (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
+Essay authorship tracked prompt volume in a synthesis task — 80% of the text written by the learner in the minimal-prompting cluster against 2% in the heaviest — while connective density correlated negatively with [[prior-knowledge|prior knowledge]] rather than prompt count (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 A two-wave validation with Chinese EFL learners (EFA N = 305; CFA N = 342) separates six regulatory dimensions and adds *environmental regulation* — checking generated content, filtering suggested resources, and limiting reliance — a facet existing L2 writing scales had not carried ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
-- **Gating AI output on prior engagement moves effort back to the writer.** With 398 participants, [[engage-to-unlock-productive-friction-genai-2026|Su et al. (2026)]] found writers composed for 28.02 minutes against 23.26 with an open chatbot, then evaluated passages faster (17.41 vs 22.21 minutes) at equal accuracy and no extra task time. Where Chen locates the cost in *which layer* is delegated, this design decides *when* the model may speak at all.
+- **Gating AI output on prior engagement moves effort back to the writer.** With 398 participants, [[engage-to-unlock-productive-friction-genai-2026|Su et al. (2026)]] found writers composed for 28.02 minutes against 23.26 with an open [[conversational-ai|chatbot]], then evaluated passages faster (17.41 vs 22.21 minutes) at equal accuracy and no extra task time. Where Chen locates the cost in *which layer* is delegated, this design decides *when* the model may speak at all.
 
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained [[self-report-measures|self-reported]] gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-assessment|feedback]].
 
@@ -133,7 +133,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 **"AI feedback and peer feedback are substitutes."** They combine. In a 10-week Chinese EFL course, adding ChatGPT feedback *before* peer review lifted behavioral, affective and cognitive engagement (partial η² of **0.28 to 0.32**) and improved writing scores across the board. The sequencing is doing work — the AI pass readied students for the peer pass rather than replacing it.
 
-**"Students act on AI feedback when it is offered."** Uptake is selective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] tracked two undergraduate biology teams revising a proposal introduction against instructor-built AI feedback: 10 of 22 comments were addressed, deletions outnumbered additions, and the comments requiring students to judge coherence or claim support were ignored entirely.
+**"Students act on AI feedback when it is offered."** Uptake is selective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] tracked two undergraduate [[biology-education|biology]] teams revising a proposal introduction against instructor-built AI feedback: 10 of 22 comments were addressed, deletions outnumbered additions, and the comments requiring students to judge coherence or claim support were ignored entirely.
 
 **"A model can stand in for the teacher's feedback pattern."** It has not done so in the evidence. Tracking one teacher across draft stages found significant movement on **five** feedback focus types — with *Praise* rising from **26.9%** in initial drafts to **84.9%** in final ones — while the closest model moved on three and the smallest on none, and no model replicated the pattern. Teacher feedback reallocates emphasis by draft stage; model feedback tends to hold its distribution. Treating the second as equivalent loses the trajectory.
 

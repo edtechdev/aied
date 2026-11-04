@@ -38,7 +38,7 @@ These findings highlight a significant gap between [[regulation|institutional re
 
 - Single-site cross-sectional survey: 151 valid responses (93 BIS, 58 EGOV) collected at the University of Applied Sciences and Arts Hannover, covering two computer-science–related programs, so the authors caution that institutional policies, communication practices, and educational cultures may differ elsewhere.
 - Participation was voluntary, so self-selection effects may have occurred, and students in the fourth term were comparatively underrepresented because many were on mandatory off-campus internships during the winter semester 2024/2025 survey window.
-- Both regulatory awareness and perceived rule-compliant use were measured through self-reported survey responses, which may be affected by social desirability bias, and respondents may have interpreted the still-evolving constructs differently.
+- Both regulatory awareness and perceived rule-compliant use were measured through [[self-report-measures|self-reported]] survey responses, which may be affected by social desirability bias, and respondents may have interpreted the still-evolving constructs differently.
 - The analysis relies on descriptive statistics and exploratory cross-tabulation, which identify associations but do not permit causal conclusions or strong statistical generalization beyond the investigated population.
 
 ## Citation

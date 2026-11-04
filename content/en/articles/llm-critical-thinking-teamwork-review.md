@@ -14,7 +14,7 @@ audience: [instructors, administrators, policymakers]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and [[problem-solving]] Skills in Higher Education?: A [[meta-analysis-systematic-review|Literature Review]]
+> **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and [[problem-solving]] Skills in [[higher-ed|Higher Education]]?: A [[meta-analysis-systematic-review|Literature Review]]
 
 ## Key Findings
 
@@ -34,9 +34,9 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 - **Critical thinking:** students learn to evaluate the accuracy, consistency, and [[trust|trustworthiness]] of [[llm]]-generated content; effectively framing prompts improves their understanding and analytical skills, engaging them in comparison, synthesis, and assessment.
 - **Collaboration:** LLMs enrich teamwork by aiding idea generation and peer feedback, simulating expert or peer roles from various fields, and lowering participation barriers in large and diverse classes.
 - **Theory–practice gap:** [[simulation|simulations]], hands-on project work, and instant alternative solutions on error accelerate learning cycles and support self-management and independent learning via anytime/anywhere access.
-- **Feedback at scale:** LLM-supported feedback extends beyond one-way correction to become a social, iterative process, and enables students to generate practice tests and self-assessments that strengthen [[metacognition|metacognitive]] skills.
+- **Feedback at scale:** LLM-supported feedback extends beyond one-way correction to become a social, iterative process, and enables students to generate practice tests and [[self-assessment|self-assessments]] that strengthen [[metacognition|metacognitive]] skills.
 - **Assessment:** scenario-based and problem-focused evaluation lets students demonstrate applied skills in realistic settings (engineering, health care, business), shifting the assessment culture from knowledge reproduction to applied understanding.
-- **Systemic implications:** the authors argue LLMs can transform curricula, feedback, and assessment at [[governance|institutional]] and policy levels — improving [[equity-in-ai-education|educational equity]], workforce readiness, and innovation — provided institutions establish ethical, equitable, and sustainable adoption frameworks.
+- **Systemic implications:** the authors argue LLMs can transform curricula, feedback, and assessment at [[governance|institutional]] and policy levels — improving [[equity-in-ai-education|educational equity]], [[career-development-and-readiness|workforce readiness]], and innovation — provided institutions establish ethical, equitable, and sustainable adoption frameworks.
 
 ## What this means for practice
 

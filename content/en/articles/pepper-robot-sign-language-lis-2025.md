@@ -17,7 +17,7 @@ audience: [instructional designers, instructors]
 - Social robots are increasingly used in public and assistive settings, but their **accessibility for Deaf users remains underexplored**.
 - Italian Sign Language (LIS) is a fully-fledged natural language with complex **manual and non-manual components**, posing a challenge for robot communication.
 - The team **co-designed and implemented 52 LIS signs on Pepper** using manual animation techniques or a MATLAB-based inverse kinematics solver.
-- An exploratory user study with **12 participants proficient in LIS (Deaf and hearing)** assessed sign intelligibility, with the aim of fostering more inclusive human-robot interaction in social environments (hospitals, airports, educational settings).
+- An exploratory user study with **12 participants proficient in LIS (Deaf and hearing)** assessed sign intelligibility, with the aim of fostering more inclusive [[educational-robotics|human-robot]] interaction in social environments (hospitals, airports, educational settings).
 
 ## Study Design & Method
 This is an **exploratory design and user-study** in human-robot interaction. The [[research-methods-aied|researchers]] co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.

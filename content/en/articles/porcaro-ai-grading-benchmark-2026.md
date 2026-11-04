@@ -63,7 +63,7 @@ Fourteen carry a disqualifying flag, all gamed by more than 5% of the scale; sev
 
 The fixes are partial and model-specific. In a single run, high reasoning effort fixed two models and a guard sentence fixed three, four of the 14; the guard made three others more gameable beyond the spread between repeated runs. Rewording the prompt moved more grades than asking again for 11 of the 22. That conclusion is about this sentence: marking student text as untrusted data was not tested.
 
-[[student-ai-interaction|Pushback]] has a subtlety worth keeping. The control condition, a request for a second look, is itself a prompt to reconsider, and it lowered grades for ten of the 17 models that yield, so the effect is not the objection's raw effect. The feedback test is cleaner: each model was told a grade that mirrored the teacher's, so an answer scored 5 was said to have scored 0, on identical work. Every tone followed the told grade, and for eight the shift per point was at least as large as the shift with the work's quality.
+[[student-ai-interaction|Pushback]] has a subtlety worth keeping. The control condition, a request for a second look, is itself a prompt to reconsider, and it lowered grades for ten of the 17 models that yield, so the effect is not the objection's raw effect. The feedback test is cleaner: each model was told a grade that mirrored the [[teacher-role|teacher]]'s, so an answer scored 5 was said to have scored 0, on identical work. Every tone followed the told grade, and for eight the shift per point was at least as large as the shift with the work's quality.
 
 ## Silent recordings, invisible speakers and a gap nobody can attribute
 
@@ -84,7 +84,7 @@ The fairness results are deliberately modest. On economic status every model's g
 - Nothing here shows that [[automated-assessment|AI grading]] helps learning, and feedback was measured by rules with only tone validated.
 - The benchmark makes no claim of fairness by group beyond its own contrasts; the attainment label is a controlled test of a label effect, not a measure of bias.
 - The text corpora are English and US-heavy, from one undergraduate course, one programming course and US school essays.
-- Energy was measured on one GPU for open models and estimated for closed ones; the figures are a lower bound for a deployed grader.
+- Energy was measured on one GPU for [[open-source|open models]] and estimated for closed ones; the figures are a lower bound for a deployed grader.
 - One model ran outside zero retention on public corpora.
 
 ## Citation

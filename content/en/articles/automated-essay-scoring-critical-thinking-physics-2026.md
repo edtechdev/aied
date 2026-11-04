@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Automated essay scoring has mostly been trained to predict one overall quality score, not the reasoning dimensions a science teacher wants feedback on. Firdausi and colleagues build a dimension-aware scorer for Indonesian high school physics: 106 eleventh-grade students answered six essay sub-questions on the environmental impact of greenhouse gases, three physics teachers scored every response from 1 to 4 on the six criteria of Ennis's FRISCO framework (Focus, Reason, Inference, Situation, Clarity, Overview), and a hybrid IndoBERT-BiLSTM classifier was trained per criterion against an IndoBERT-SVM baseline and a fine-tuned IndoBERT. Agreement is uneven: [[automated-essay-scoring|AES]] reached strong quadratic weighted kappa for Situation (0.728) and Clarity (0.763), but only fair agreement for Focus (0.374), Reason (0.332) and Inference (0.227). The most useful result is negative: the ordinal signal came mostly from a synthetic generation and paraphrase pipeline built to repair a training set of 83 students where one score level supplied 54% of samples.
+> **Synthesis:** Automated essay scoring has mostly been trained to predict one overall quality score, not the reasoning dimensions a science [[teacher-role|teacher]] wants feedback on. Firdausi and colleagues build a dimension-aware scorer for Indonesian high school physics: 106 eleventh-grade students answered six essay sub-questions on the environmental impact of greenhouse gases, three physics teachers scored every response from 1 to 4 on the six criteria of Ennis's FRISCO framework (Focus, Reason, Inference, Situation, Clarity, Overview), and a hybrid IndoBERT-BiLSTM classifier was trained per criterion against an IndoBERT-SVM baseline and a fine-tuned IndoBERT. Agreement is uneven: [[automated-essay-scoring|AES]] reached strong quadratic weighted kappa for Situation (0.728) and Clarity (0.763), but only fair agreement for Focus (0.374), Reason (0.332) and Inference (0.227). The most useful result is negative: the ordinal signal came mostly from a synthetic generation and paraphrase pipeline built to repair a training set of 83 students where one score level supplied 54% of samples.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ reviewed_by: [editor]
 
 ## How the scoring task was built
 
-The instrument was a case description followed by six essay sub-questions on the environmental impact of greenhouse gases, one per FRISCO dimension, answered by 106 eleventh-grade students at Senior High School 1 Menganti in Indonesia. Three expert validators in [[physics-education]] had already checked the rubric, giving a content and construct validity score of 3.95 and an instrument reliability of 85.7% percentage of agreement. Labeling then ran independently across three high school physics teachers, with disagreements exceeding one score point resolved through structured discussion and a third rater as arbiter. Dimension-level agreement was strong throughout: mean kappa from 0.78 to 0.84, and mean percentage of agreement above 75% in all six dimensions, from 87.1% for Situation to 84.3% for Clarity.
+The instrument was a case description followed by six essay sub-questions on the environmental impact of greenhouse gases, one per FRISCO dimension, answered by 106 eleventh-grade students at Senior High School 1 Menganti in Indonesia. Three expert validators in [[physics-education]] had already checked the rubric, giving a content and [[assessment-validity|construct validity]] score of 3.95 and an instrument reliability of 85.7% percentage of agreement. Labeling then ran independently across three high school physics teachers, with disagreements exceeding one score point resolved through structured discussion and a third rater as arbiter. Dimension-level agreement was strong throughout: mean kappa from 0.78 to 0.84, and mean percentage of agreement above 75% in all six dimensions, from 87.1% for Situation to 84.3% for Clarity.
 
 ## Where the models succeed and where they fail
 
@@ -49,8 +49,8 @@ The training partition was severely imbalanced: score level 3 accounted for 54% 
 ## What this means for practice
 
 - **Instructors.** Ask for dimension-level output, not a total score, and use the model as a second reader on Situation and Clarity only.
-- **Instructors.** Expect the least help where critical thinking is hardest to see: Inference reached 0.227 QWK while its macro-F1 was 0.500, so its categories were classified without being ordered correctly.
-- **Administrators and assessment designers.** Treat 106 students at one school as feasibility evidence, not validation, and keep summative use behind human raters whose kappa runs 0.78 to 0.84.
+- **Instructors.** Expect the least help where [[critical-thinking|critical thinking]] is hardest to see: Inference reached 0.227 QWK while its macro-F1 was 0.500, so its categories were classified without being ordered correctly.
+- **Administrators and assessment designers.** Treat 106 students at one school as feasibility evidence, not validation, and keep [[summative-assessment|summative]] use behind human raters whose kappa runs 0.78 to 0.84.
 - **Educational technology developers.** Never select a model by accuracy in ordinal scoring: IB-BiLSTM-C's 0.652 accuracy came with near-zero or negative QWK.
 - **Researchers.** Report the score distribution and augmentation provenance with every QWK: the +0.346 Focus gain came from synthetic level-1 essays, not more student writing.
 

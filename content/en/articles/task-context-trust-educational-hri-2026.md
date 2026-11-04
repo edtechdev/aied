@@ -14,7 +14,7 @@ audience: [instructional designers, instructors]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence trust in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects video-based experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.
+> **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence trust in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects [[video-education|video-based]] experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ This is a **within-subjects experimental study**. The [[research-methods-aied|re
 - **Designers.** Choose the robot's role and behavior for the task rather than optimizing embodiment, since trust was highest during procedural instruction and teaching and lowest during personal-information discussion across all three robots, with appearance exerting only limited influence.
 - **Designers.** Match deployment to that trust profile — assign procedural and instructional roles first and treat personal-information discussion as the task needing the most safeguards and explanation.
 - **Educators.** Tell learners what the robot has been tasked to do before deployment, because their trust tracks the perceived risk and expected competence of the task rather than the robot's looks.
-- **Educators.** Revisit trust after real classroom use: this study captured first impressions under strictly scripted robot behavior, and trust in human-robot interaction shifts through repeated encounters.
+- **Educators.** Revisit trust after real classroom use: this study captured first impressions under strictly scripted robot behavior, and trust in [[educational-robotics|human-robot]] interaction shifts through repeated encounters.
 
 ## Limitations
 

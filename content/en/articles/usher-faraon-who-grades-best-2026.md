@@ -12,7 +12,7 @@ sources: ['raw/papers/usher-faraon-who-grades-best-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** **Who grades best?** A [[mixed-methods-research|mixed-methods]] study by Usher & Faraon (2026) comparing how ChatGPT, peers, and a course instructor grade the **same undergraduate group projects** across **varying levels of project quality**. With 184 students (52 groups), the study found ChatGPT's alignment with instructor grading **improved as project quality increased** — with its largest overestimation (+14 points) for low-quality work — while peer–instructor alignment was **strongest for lower-quality work**. Students' reflections revealed how they interpreted ChatGPT's grading leniency, grade–feedback alignment, algorithmic versus human judgment, and ChatGPT's dialogic interactivity.
+> **Synthesis:** **Who grades best?** A [[mixed-methods-research|mixed-methods]] study by Usher & Faraon (2026) comparing how ChatGPT, peers, and a course instructor grade the **same undergraduate [[group-work|group projects]]** across **varying levels of project quality**. With 184 students (52 groups), the study found ChatGPT's alignment with instructor grading **improved as project quality increased** — with its largest overestimation (+14 points) for low-quality work — while peer–instructor alignment was **strongest for lower-quality work**. Students' reflections revealed how they interpreted ChatGPT's grading leniency, grade–feedback alignment, algorithmic versus human judgment, and ChatGPT's dialogic interactivity.
 
 ## Overview
 
@@ -20,7 +20,7 @@ confidence: high
 
 ## Method
 
-- **Design:** Sequential explanatory mixed-methods — [[quantitative-research|quantitative]] grade comparisons first, then thematic analysis of students' written reflections to contextualize the statistics.
+- **Design:** Sequential explanatory mixed-methods — [[quantitative-research|quantitative]] grade comparisons first, then thematic analysis of students' [[reflection|written reflections]] to contextualize the statistics.
 - **Sample:** 184 undergraduate students (147 female, 37 male) in a mandatory [[research-methods-aied|research]]-methods course, working in 52 self-organized groups to design an original educational questionnaire.
 - **Assessors:** Each project was graded by the course instructor, two anonymous peers (via Moodle), and ChatGPT (with a structured six-criterion prompt), all using the **same standardized rubric** (six criteria, scored 1–100).
 - **Quality tiers:** Projects split into low (≤80), medium (81–86), and high (≥87) quality based on the 33rd/67th percentiles of instructor grades.
@@ -37,10 +37,10 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Do not use ChatGPT as a standalone summative grader: it overestimated low-quality projects by 14.20 points on average, and 85% of students read its grades as more generous than peers' grades.
+- **Instructors.** Do not use ChatGPT as a standalone [[summative-assessment|summative]] grader: it overestimated low-quality projects by 14.20 points on average, and 85% of students read its grades as more generous than peers' grades.
 - **Instructors.** Reserve ChatGPT for formative use where detailed feedback supports iteration, and check for the grade–feedback disconnect that 31% of students reported between high scores and critical comments.
 - **Learning designers.** Combine evaluation sources rather than choosing one: peers caught fundamental issues in lower-quality work (r = 0.51 with the instructor in the low tier) while ChatGPT's alignment rose with project quality.
-- **Learning designers.** Train students in both peer-assessment technique and [[prompt-engineering|prompt engineering]] so they can use ChatGPT's dialogic interactivity while keeping peers' contextual judgment.
+- **Learning designers.** Train students in both [[peer-assessment]] technique and [[prompt-engineering|prompt engineering]] so they can use ChatGPT's dialogic interactivity while keeping peers' contextual judgment.
 - **Researchers.** Analyze grading agreement within quality tiers, because pooled correlations hide the opposite quality gradients for ChatGPT and peers.
 
 ## Limitations
@@ -48,7 +48,7 @@ confidence: high
 - The study ran in a single mandatory undergraduate research-methods course at one institution (184 students working in 52 self-organized groups), so generalizability across disciplines, institutions, and educational levels is untested.
 - Continuous instructor grades were discretized into three quality tiers using the 33rd and 67th percentiles, which reduces granularity and can produce edge effects at the thresholds.
 - ChatGPT graded through one fixed configuration — an initial structured prompt plus six criterion-specific prompts matched to a standardized six-criteria rubric — so the findings describe that configuration rather than ChatGPT grading in general.
-- The study tracked neither learning outcomes nor effects over time, so whether exposure to multiple evaluation sources improves students' evaluative judgment or their later work remains unknown.
+- The study tracked neither learning outcomes nor effects over time, so whether exposure to multiple evaluation sources improves students' [[evaluative-judgment|evaluative judgment]] or their later work remains unknown.
 
 ## Citation
 

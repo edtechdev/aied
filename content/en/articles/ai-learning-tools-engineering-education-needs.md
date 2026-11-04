@@ -33,9 +33,9 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 
 ## Limitations
 
-- The outcomes are self-reported perceptions of AI benefit, not measured learning or need satisfaction: the survey asked students about perceived improvements with a specific tool in their major, so it cannot show that AI relieved competence frustration.
+- The outcomes are [[self-report-measures|self-reported]] perceptions of AI benefit, not measured learning or need satisfaction: the survey asked students about perceived improvements with a specific tool in their major, so it cannot show that AI relieved competence frustration.
 - The analytic sample is 206 engineering students who frequently used AI chatbots, drawn from 228 respondents to a single survey at one large public research university during the last three weeks of a ten-week spring 2025 quarter; most were male (67.5%), Asian (61.7%), and juniors (41.3%), with 78.6% in electrical and computer engineering.
-- The measurement structure did not hold as designed: self-regulated learning and self-efficacy items loaded on a single "personal agency" factor, one self-regulated learning item was dropped for conceptual incoherence, one competence item was removed for a weak .38 loading, and the self-report scales (three items each for autonomy, relatedness, and perceived needs) are brief.
+- The measurement structure did not hold as designed: [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]] items loaded on a single "personal agency" factor, one self-regulated learning item was dropped for conceptual incoherence, one competence item was removed for a weak .38 loading, and the self-report scales (three items each for autonomy, relatedness, and perceived needs) are brief.
 - The design is observational and cross-sectional, with no comparison condition and no follow-up, so it cannot establish that AI use produced the reported need states, and participants differed in AI experience and in the specific tools, versions, and tasks they used even within the chatbot category, leaving unobserved heterogeneity in use intensity and context; the authors present the results as insights for formulating design principles rather than evidence of effect.
 
 ## Citation

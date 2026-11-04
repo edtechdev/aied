@@ -15,7 +15,7 @@ institutions: [regulation]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** First [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training, identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.
+> **Synthesis:** First [[meta-analysis-systematic-review|systematic review]] of AI in [[vocational-education|vocational education and training]], identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.
 
 ## Key Findings
 
@@ -35,14 +35,14 @@ This is a PRISMA-guided systematic review of 26 empirical studies (2015–2026) 
 
 ## The Constructivist Paradox and the Turing Trap
 
-The review documents a notable paradox: constructivist theories are espoused in VET discourse while behaviorist AI implementations dominate in practice. The authors warn against an educational "Turing Trap" — the danger of using AI to replicate human instruction rather than to augment [[human-in-the-loop-ai|human judgment]]. Realizing the transformative potential of AI in VET, they argue, requires learning environments that augment human judgment, strengthen learner agency, and support teachers, rather than systems that merely automate existing instructional patterns.
+The review documents a notable paradox: [[constructivist]] theories are espoused in VET discourse while behaviorist AI implementations dominate in practice. The authors warn against an educational "Turing Trap" — the danger of using AI to replicate human instruction rather than to augment [[human-in-the-loop-ai|human judgment]]. Realizing the transformative potential of AI in VET, they argue, requires learning environments that augment human judgment, strengthen learner agency, and support teachers, rather than systems that merely automate existing [[pedagogical-patterns|instructional patterns]].
 
 ## What this means for practice
 
 - **Researchers.** Study AI where VET actually happens — none of the 26 included studies was conducted in a workplace setting despite VET's work-based character. Add delayed post-tests, objective performance measures, and checks of transfer to job tasks instead of immediate self-report after the intervention.
 - **Administrators.** Demand stronger causal designs before scaling: only 5 of the 26 studies were randomized experiments, while 21 relied on pre-experimental or quasi-experimental designs.
 - **Instructors.** Match the tool to the learning goal the corpus actually supports — intelligent [[virtual-and-augmented-reality|XR]] for procedural and practical skills, [[intelligent-tutoring|intelligent tutoring systems]] for declarative and procedural knowledge, and chatbots for [[self-regulated-learning|self-regulation]] support — and prioritize [[simulation]] and authentic, practice-proximal environments.
-- **Designers.** Build systems that grant learners an active role rather than automating existing instruction. Only 3 of the 26 studies supported AI-empowered designs, and the authors warn of an educational "Turing Trap" when AI replicates a teacher instead of augmenting [[agency|learner agency]] and [[human-in-the-loop-ai|human judgment]].
+- **Designers.** Build systems that grant learners an active role rather than automating existing instruction. Only 3 of the 26 studies supported AI-empowered designs, and the authors warn of an educational "Turing Trap" when AI replicates a [[teacher-role|teacher]] instead of augmenting [[agency|learner agency]] and [[human-in-the-loop-ai|human judgment]].
 - **Researchers.** Report failure cases, contextual moderators, and boundary conditions; the current corpus is dominated by a generalized success narrative that makes differentiated conclusions about effectiveness impossible.
 
 ## Limitations

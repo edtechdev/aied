@@ -59,7 +59,7 @@ In a within-subjects study with 26 pair-programming dyads (52 CS and engineering
 
 ProPACT exemplifies tutoring-specific design in the sense of [[stanford-evidence-base-ai-k12-2026|evidence-based tutoring]]: it withholds answers and instead structures collaboration through graduated [[scaffolding]], positioning the system as a [[pedagogical-agent|pedagogical agent]] rather than a solution dispenser. [[metacognition]] survives because partners must notice and repair their own coordination, and the [[sociocultural-learning|sociocultural]] framing places the zone of proximal development at the level of the dyad.
 
-For [[cs-education]], the study shows that real-time dyadic regulation is tractable and effective, and that eye tracking plus machine-learning forecasting is viable at classroom scale. For [[adaptive-learning|adaptive systems]] more broadly, the "tutoring" unit need not be an individual — collaboration itself can be scaffolded, complementing reviews such as [[ai-collaborative-learning-systematic-review]]. What remains untested is transfer: whether improved dyadic regulation carries into unsupervised pair work, where no tutor is watching.
+For [[cs-education]], the study shows that real-time dyadic regulation is tractable and effective, and that eye tracking plus [[machine-learning]] forecasting is viable at classroom scale. For [[adaptive-learning|adaptive systems]] more broadly, the "tutoring" unit need not be an individual — collaboration itself can be scaffolded, complementing reviews such as [[ai-collaborative-learning-systematic-review]]. What remains untested is transfer: whether improved dyadic regulation carries into unsupervised pair work, where no tutor is watching.
 
 ## What this means for practice
 

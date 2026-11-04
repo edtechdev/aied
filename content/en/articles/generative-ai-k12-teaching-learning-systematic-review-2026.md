@@ -24,7 +24,7 @@ methods: [meta-analysis-systematic-review]
 3. **ChatGPT as the flagship case.** Adoption of [[conversational-ai|ChatGPT]] in educational environments exemplifies GAI's capacity to make learning more engaging and tailored to individual needs.
 4. **Persistent integration challenges.** These center on the need for continuous, targeted [[teacher-education|teacher training]] on ICT and the development of ministerial guidelines that address [[ethics|ethical]] and [[privacy]] concerns.
 5. **A discipline-imbalance gap.** The literature concentrates on [[stem-education|STEM]], neglecting the arts/[[humanities-education|humanities]] and creative subjects where many experiments could be conducted.
-6. **Eight under-explored research gaps.** These include a lack of concrete teaching-unit examples, practical daily training, balanced disciplines, European studies, defined teacher roles and pedagogical frameworks (e.g., [[tpack]], AI4K12), inclusive support for students with disabilities, links to pedagogical theories, and applications of emerging [[ai-technologies|technologies]].
+6. **Eight under-explored research gaps.** These include a lack of concrete teaching-unit examples, practical daily training, balanced disciplines, European studies, defined teacher roles and pedagogical frameworks (e.g., [[tpack]], AI4K12), inclusive support for [[special-education|students with disabilities]], links to pedagogical theories, and applications of emerging [[ai-technologies|technologies]].
 
 ## Background and Method
 

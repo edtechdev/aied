@@ -49,7 +49,7 @@ The representation is deliberately semester-level rather than turn-by-turn: volu
 
 Two properties of the data do most of the explanatory work. The first is the ceiling: with 160 of 175 students above 90, any model is being asked to predict a variable that is nearly constant, so even a genuinely informative feature set would show a tiny increment and a baseline that always predicts the median would already be close. The second is where error lives. Boosting's mistakes are not spread evenly but concentrated in the lowest quartile, which means a model that looks near-equivalent to a baseline on average can be systematically wrong for exactly the students a support system would target.
 
-The ablation results then read as a warning about feature stories. Removing 15 features down to almost none costs about 0.05 grade points, and dropping the follow-up ratio costs nothing measurable. Feature importance narratives built on a dataset shaped like this would describe a model that is mostly fitting noise in a compressed outcome range.
+The ablation results then read as a warning about feature stories. Removing 15 features down to almost none costs about 0.05 grade points, and dropping the follow-up ratio costs nothing measurable. [[explainable-ai|Feature importance]] narratives built on a dataset shaped like this would describe a model that is mostly fitting noise in a compressed outcome range.
 
 ## Reading the result as a design constraint
 

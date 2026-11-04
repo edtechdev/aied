@@ -15,7 +15,7 @@ discipline: [science education]
 audience: [instructors, faculty developers, instructional designers]
 ---
 
-> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four [[feedback]] designs for scientific argumentation: peer-only, direct [[generative-ai|GenAI]], reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free [[transfer-of-learning|transfer]]. Findings suggest that GenAI's educational value depends less on AI access than on preserving student [[agency]], evaluative judgment, and ownership during revision.
+> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four [[feedback]] designs for scientific argumentation: peer-only, direct [[generative-ai|GenAI]], reflective GenAI ([[self-assessment|self-evaluation]] then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free [[transfer-of-learning|transfer]]. Findings suggest that GenAI's educational value depends less on AI access than on preserving student [[agency]], [[evaluative-judgment|evaluative judgment]], and ownership during revision.
 
 ## Study Design
 
@@ -62,7 +62,7 @@ g revision.**
 
 ## What this means for practice
 
-- **Instructors.** Sequence feedback so students evaluate their own work before reading AI critique: the reflective and hybrid conditions produced stronger feedback uptake, stronger [[self-regulated-learning|self-regulated learning]], and better delayed AI-free [[transfer-of-learning|transfer]] than direct AI feedback.
+- **Instructors.** Sequence feedback so students evaluate their own work before reading AI critique: the reflective and hybrid conditions produced stronger feedback uptake, stronger [[self-regulated-learning|self-regulated learning]], and better delayed AI-free [[transfer-of-learning|transfer]] than direct [[ai-feedback-quality|AI feedback]].
 - **Instructors.** Pair AI critique with [[peer-assessment|peer feedback]] instead of substituting it — the hybrid condition (self-evaluation → peer feedback → GenAI critique) showed the highest immediate argument-quality gains and the clearest advantage on conceptual learning.
 - **Instructional designers.** Build the revision process into the task, not just the feedback channel: gains were partially mediated by feedback uptake and self-regulated learning during revision, and the hybrid revision memo was capped at 100–150 words to force judgment rather than transcription.
 - **Faculty developers.** Model and require the four revision steps the paper identifies — interpret critique, compare it against criteria, judge its relevance, then revise — since direct GenAI encourages students to outsource evaluative judgment.
@@ -71,7 +71,7 @@ g revision.**
 ## Limitations
 
 - Of 1,248 enrolled students, 72 were excluded for non-consent, course withdrawal before the first cycle, or absence from both the post-test and delayed-transfer sessions, and because research consent was voluntary the analytic sample may carry consent-based selection.
-- [[self-regulated-learning|Self-regulated learning]] rested substantially on self-report (a 12-item task-specific scale, McDonald's ω = .88) blended with LMS trace indicators, and feedback uptake was a four-indicator construct.
+- [[self-regulated-learning|Self-regulated learning]] rested substantially on [[self-report-measures|self-report]] (a 12-item task-specific scale, McDonald's ω = .88) blended with LMS trace indicators, and feedback uptake was a four-indicator construct.
 - Argument-quality gains faced ceiling-related constraints on dimensions where drafts were already strong, which the authors addressed only through a supplementary baseline-adjusted final-score sensitivity model.
 - The 48-section cluster-randomized design assumed an intraclass correlation of .05 and was powered to detect effects of d = .25 and above, so smaller differences between conditions are not resolvable.
 

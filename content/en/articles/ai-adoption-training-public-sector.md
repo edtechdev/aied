@@ -32,8 +32,8 @@ The paper reports two auditable, third-party-verifiable cases rather than a cont
 ## What this means for practice
 
 - **Instructors.** Sequence training as the paper's four layers — literacy, protocol, [[prompt-engineering|prompt engineering]], and audit — so tool competence is paired with a disciplined, verifiable workflow instead of generic model access.
-- **Instructors.** Keep critical review by a qualified professional as a functioning condition of use, with human review before any output is issued; the method accelerates output but does not replace technical knowledge.
-- **Administrators.** Build the protection layer before deployment — a documented AI governance framework, de-identified inputs, and conversation training disabled on the tools used — since neither unit recorded data leakage, voided decisions, or external compliance challenges.
+- **Instructors.** Keep critical review by a qualified professional as a functioning condition of use, with [[human-in-the-loop-ai|human review]] before any output is issued; the method accelerates output but does not replace technical knowledge.
+- **Administrators.** Build the protection layer before deployment — a documented AI [[governance|governance framework]], de-identified inputs, and conversation training disabled on the tools used — since neither unit recorded data leakage, voided decisions, or external compliance challenges.
 - **Administrators.** Invest in structured training rather than premium models: free, browser-accessible models were already available to every public servant but produced no productivity gain until the pedagogical method was introduced.
 
 ## Limitations

@@ -37,8 +37,8 @@ The design rationale treats the flashcard as a full retrieval-practice instrumen
 ## Limitations
 
 - No controlled user study: the efficacy of the 17 interaction types within Memdora, alone or in combination with FSRS-6 scheduling, has not been empirically evaluated, and a longitudinal comparison of retention across card types is still planned.
-- The classroom features (teacher assignment, per-card outcome tracking, institutional authentication) have not been evaluated in a real educational setting, so unmet teacher-workflow and class-management needs may remain.
-- AI-generated cards may vary in quality in highly specialized domains where the underlying language model has limited training coverage; user editing and one-click regeneration mitigate the variance but do not remove it.
+- The classroom features ([[teacher-role|teacher]] assignment, per-card outcome tracking, institutional authentication) have not been evaluated in a real educational setting, so unmet teacher-workflow and class-management needs may remain.
+- AI-generated cards may vary in quality in highly specialized domains where the underlying [[llm|language model]] has limited training coverage; user editing and one-click regeneration mitigate the variance but do not remove it.
 - The retention and reward claims are design rationale: the effort-reward comparison on 30-day retention and the classroom evaluation against control groups using traditional study methods are planned, not reported.
 
 ## Citation

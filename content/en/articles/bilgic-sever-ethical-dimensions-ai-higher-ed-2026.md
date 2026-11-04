@@ -38,7 +38,7 @@ This paper grounds the knowledge base's treatment of [[ethics]] in [[higher-ed]]
 ## What this means for practice
 
 - **Instructors.** Treat students' stated ethical responsibility as a starting point rather than a guarantee: students scored highest on ethical awareness (M=3.95) but lowest on [[academic-integrity]] (M=3.72), and few checked whether tools had ethical guidelines.
-- Build explicit data-privacy and cultural-inclusivity content into AI professional development, where faculty self-reported their weakest knowledge.
+- Build explicit data-privacy and cultural-inclusivity content into AI professional development, where faculty [[self-report-measures|self-reported]] their weakest knowledge.
 - Pair any institutional guideline with classroom-level [[ethics]] instruction, since faculty rated the need for institutional measures highly (M=4.59) but the adequacy of current guidelines lowest (M=2.99).
 - Require students to document how they verified a tool's guidance, countering their tendency to attribute output ownership or errors to the AI.
 

@@ -15,7 +15,7 @@ page_kind: [evaluation]
 methods: [network-analysis]
 ---
 
-> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning]]. [[conversational-ai|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.
+> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared [[generative-ai|GenAI]]-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning]]. [[conversational-ai|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising [[technology-acceptance-model|technology acceptance]].
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ methods: [network-analysis]
 
 - N = 97 third-grade students from a single school, split by class rather than randomized, so class-level differences and the specific classroom design are confounded with condition.
 - The intervention was brief and measured only problem posing within one science topic; the authors note they did not track conceptual deepening or experimental inquiry, leaving effects on the full inquiry chain untested.
-- Both conditions used specific platforms, and the authors state that differences in platform functions, prompt design, and teacher support may influence how the tools perform, limiting transfer to other configurations.
+- Both conditions used specific platforms, and the authors state that differences in platform functions, [[prompt-engineering|prompt design]], and [[teacher-role|teacher]] support may influence how the tools perform, limiting transfer to other configurations.
 - The sample was third-graders in one school, so applicability to other age groups, school contexts, and longer-term instruction still needs validation.
 
 ## Citation

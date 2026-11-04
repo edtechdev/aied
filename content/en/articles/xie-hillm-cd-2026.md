@@ -14,13 +14,13 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A multi-agent [[llm]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
+> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A [[agentic-ai|multi-agent]] [[llm]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
 
 ## Key Contributions
 
 1. **Hierarchical proficiency modeling:** Represents each student's knowledge as node-wise proficiencies on a concept tree, with a tree-structured encoder-decoder where the encoder infers proficiencies from response history and the decoder predicts responses via a GCN-based cognitive decoder. This enables intuitive coarse-to-fine diagnosis — first assessing broad competence, then drilling into specific concept weaknesses.
 2. **Automated concept tree construction:** A multi-agent LLM pipeline (Concept Elaborator, Concept Tagger, Coarse Concept Generator) automatically builds concept trees and exercise-concept links from educational text, eliminating costly expert annotation. This makes the entire diagnosis pipeline fully automated.
-3. **LLM-guided proficiency learning:** An LLM teacher provides order-based distillation — supervising pairwise proficiency ordering rather than absolute values — yielding more reliable and semantically coherent proficiency estimates than reconstruction-only training.
+3. **LLM-guided proficiency learning:** An LLM [[teacher-role|teacher]] provides order-based distillation — supervising pairwise proficiency ordering rather than absolute values — yielding more reliable and semantically coherent proficiency estimates than reconstruction-only training.
 
 ## Approach
 
@@ -36,7 +36,7 @@ The framework runs in three stages:
 On MOOCCubeX across [[cs-education|Computer Science]], [[math-education|Mathematics]], [[physics-education|Physics]], and [[biology-education|Biology]]:
 - **+11.1% AUC** average improvement in response prediction
 - **+0.597 Kendall's τ** improvement in proficiency alignment with LLM teacher reference
-- **+11.4% AUC** on computerized adaptive testing (CAT)
+- **+11.4% AUC** on computerized [[adaptive-learning|adaptive testing]] (CAT)
 - Ablation confirms both the concept tree structure and order-based distillation are essential
 
 ## What this means for practice
@@ -49,10 +49,10 @@ On MOOCCubeX across [[cs-education|Computer Science]], [[math-education|Mathemat
 
 ## Limitations
 
-- **Single platform.** All four subject datasets are built from one MOOC resource (MOOCCubeX, XuetangX), so the gains are untested against other course structures, assessment formats, or student populations.
+- **Single platform.** All four subject datasets are built from one [[online-teaching-and-learning|MOOC]] resource (MOOCCubeX, XuetangX), so the gains are untested against other course structures, assessment formats, or student populations.
 - **Very uneven subject samples.** Dataset sizes range from 47 students (Biology) and 51 (Mathematics) to 419 (Computer Science) and 571 (Physics), leaving the smallest subjects as the least stable evidence in the four-subject average.
 - **Reference is model-generated.** Proficiency quality is scored by alignment with a GPT-4.1 teacher's reference profile (Kendall's τ, Spearman's ρ, RMSE) rather than a human-verified ground truth, and expert agreement was checked only on the Mathematics subset.
-- **Not every baseline was unannotated.** For a fair comparison, prerequisite relations for one structure-aware baseline were manually annotated on the Mathematics dataset, so the "fully unannotated" setting describes HiLLM-CD's own pipeline rather than the whole experiment.
+- **Not every baseline was unannotated.** For a fair comparison, [[recommender-systems-and-learning-paths|prerequisite relations]] for one structure-aware baseline were manually annotated on the Mathematics dataset, so the "fully unannotated" setting describes HiLLM-CD's own pipeline rather than the whole experiment.
 
 ## Citation
 

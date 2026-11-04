@@ -45,7 +45,7 @@ PC operates as an agent within the developer's IDE, combining an assessment comp
 - The evaluation is a single-arm, within-subjects pre/post design with 15 professional developers recruited from one organization and required to already use AI coding assistants; with no control group, the 13.73% mean gain cannot be separated from practice effects or task familiarity.
 - The learning phase was capped at 60 minutes because of limited participant availability, and each phase used only three APPS benchmark tasks (10 minutes each), so retention and downstream code quality are unmeasured and the post-learning scores rest on a small number of prompts per person.
 - Sessions ran in isolation from any real project codebase on a single benchmark, which removes exactly the project context the tutor is designed to exploit and limits generalizability beyond the APPS task family.
-- Prompt quality was scored by the system's own eight-dimension registry and learner perceptions by 7-point Likert items (means 5.67–6.33); neither measures independently verified code correctness or learning transfer.
+- Prompt quality was scored by the system's own eight-dimension registry and learner perceptions by 7-point Likert items (means 5.67–6.33); neither measures independently verified code correctness or [[transfer-of-learning|learning transfer]].
 
 ## Citation
 

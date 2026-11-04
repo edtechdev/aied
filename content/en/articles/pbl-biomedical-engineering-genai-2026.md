@@ -28,7 +28,7 @@ audience: [curriculum designers, instructors, medical educators]
 ## What this means for practice
 
 - **Instructors.** Position GenAI as a knowledge-summarization and [[scaffolding|coding scaffold]] rather than an answer engine, so teams still assemble baseline knowledge and retain the higher-order synthesis and design work.
-- **Instructors.** Enforce guardrails for technical and clinical courses: institution-approved tools only (the deployment banned DeepSeek), no PII or PHI in prompts, mandatory disclosure and validation logs, source-anchored literature claims, and preserved code-provenance comments.
+- **Instructors.** Enforce [[guardrails]] for technical and clinical courses: institution-approved tools only (the deployment banned DeepSeek), no PII or PHI in prompts, mandatory disclosure and validation logs, source-anchored literature claims, and preserved code-provenance comments.
 - **Designers.** Build the [[problem-based-learning|four-module structure]] — problem formation on authentic briefs with curated deidentified datasets, AI-supported knowledge inquiry, problem-solving with robustness and reproducibility evaluation, and presentation with written reports, demos, and peer assessment — and reuse the portable replication package of syllabi, milestones, rubrics, team procedures, and AI-usage templates.
 - **Instructors.** Require foundational coding readiness before AI-assisted ideation: students with more years of coding experience scored about 1.88 points higher per year in the exploratory model, and coding fluency appears to enable productive use of GenAI for ideation and code assistance.
 - **Instructors.** Protect independent problem-solving time and mitigate accuracy risk — [[hallucination-risk|hallucination]] is a real hazard in biomedical work, addressed here through [[rag|retrieval-augmented generation]] and critical-evaluation training — and account for [[equity-in-ai-education|GenAI bias]] against nonnative speakers and diverse backgrounds when deciding who gets tool access.
@@ -36,7 +36,7 @@ audience: [curriculum designers, instructors, medical educators]
 ## Limitations
 
 - The comparison is historical and non-randomized: intervention cohorts with AI access (2021-2023) were compared against control cohorts without it (2016-2020), and the authors state that attribution remains limited and cause-and-effect relationships are hard to isolate.
-- Outcomes rest on course grades rather than student-level learning measures — A-rates 66.4% vs. 39.1% and low grades 6.1% vs. 22.4%, with mean GPA rising 3.38 to 3.69 but not significant (p = 0.142) — and no pre/post concept or self-efficacy measures were collected in this cycle.
+- Outcomes rest on course grades rather than student-level learning measures — A-rates 66.4% vs. 39.1% and low grades 6.1% vs. 22.4%, with mean GPA rising 3.38 to 3.69 but not significant (p = 0.142) — and no pre/post concept or [[self-efficacy]] measures were collected in this cycle.
 - Legacy enrollments constrained the analysis: enrollment-weighted tests, student-level ordinal mixed models, and rater-reliability estimates (double-rating with quadratic weighted kappa or ICC) were not possible and are listed as future refinements.
 - Tool drift is uncontrolled across the multi-year deployment, which is why the authors recommend standardized AI-usage disclosures with defined version windows.
 

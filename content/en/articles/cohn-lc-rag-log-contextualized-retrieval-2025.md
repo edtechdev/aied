@@ -34,11 +34,11 @@ reviewed_by: [editor]
 - **Log-contextualized summaries beat discourse-only retrieval in four of five embedding models.** Win rates against the baseline were 0.620 for microsoft-e5-large, 0.482 for voyage-3-lite, 0.444 for voyage-3-large and 0.403 for OpenAI text-embedding-3-large, against 0.218 for text-embedding-3-small, where the baseline won.
 - **The retrieval also became more precise.** LC-RAG pulled 167 unique chunks from a knowledge base of 7,386, where the baseline pulled 267, which matters when a wrong chunk becomes a wrong hint.
 - **Gains were largest in the task contexts where talk carries the least.** Averaged across the five models, LC-RAG won 45% of Initializing Variables segments against the baseline's 33%, and 46% against 38% for Updating Variables Each Simulation Step, while Conditional Statements and Updating Under Conditions differed by only one or two points.
-- **One model reversal points at contextual over-fitting.** With OpenAI's small embedding model the summaries were too C2STEM-specific to match a knowledge base of general physics and computing text, so the contextualization that helped elsewhere hurt here; the authors note the qualitative comparison showed both retrievers pulling irrelevant chunks, which locates the problem in an untargeted knowledge base rather than in retrieval.
+- **One model reversal points at contextual over-fitting.** With OpenAI's small embedding model the summaries were too C2STEM-specific to match a knowledge base of general physics and computing text, so the contextualization that helped elsewhere hurt here; the authors note the [[qualitative-research|qualitative]] comparison showed both retrievers pulling irrelevant chunks, which locates the problem in an untargeted knowledge base rather than in retrieval.
 - **Evaluation rested on an LLM judge that was itself checked.** GPT-4o compared 1,080 pairs blind, with chain-of-thought justifications, three prompt templates aggregated by majority vote and randomized chunk order. Two authors then hand-scored 80 sampled pairs, reaching quadratic weighted kappa of 0.49, which the authors report as moderate agreement rather than as validation.
 - **Copa changed two things at once, which weakens the causal claim.** For the agent study the knowledge base shrank to 15 task-specific chunks and the summarization became agentic: the LLM compared the student's model to an expert version, diagnosed the expressed problem, and named what to retrieve. Both changes plausibly contributed to what students then saw.
-- **Students valued the guidance and wanted it to stop being guidance.** All focus group participants said their interactions supported their problem-solving and that its information was accurate, and all said they would trust it in future work. Several were frustrated that it did not give straight answers, and some assumed its suggestions were correct and grew upset when a suggestion made their model worse, reverting to trial and error.
-- **The authors name the design tension rather than resolving it.** A peer agent that offers fallible suggestions protects epistemic agency and invites productive failure, but students who expect a chatbot to answer directly read that design as a malfunction.
+- **Students valued the guidance and wanted it to stop being guidance.** All focus group participants said their interactions supported their [[problem-solving]] and that its information was accurate, and all said they would trust it in future work. Several were frustrated that it did not give straight answers, and some assumed its suggestions were correct and grew upset when a suggestion made their model worse, reverting to trial and error.
+- **The authors name the design tension rather than resolving it.** A peer agent that offers fallible suggestions protects epistemic agency and invites [[productive-failure|productive failure]], but students who expect a [[conversational-ai|chatbot]] to answer directly read that design as a malfunction.
 
 ## How the pipeline worked
 
@@ -48,7 +48,7 @@ The knowledge base was two open high school textbooks, one for physics and one f
 
 ## What this means for practice
 
-- **Teams building tutors on classroom logs.** The cheap version of this intervention is a summarization step between the student and the retriever, and it does not require fine-tuning or a bespoke model.
+- **Teams building tutors on classroom logs.** The cheap version of this intervention is a summarization step between the student and the retriever, and it does not require [[llm-training-and-fine-tuning|fine-tuning]] or a bespoke model.
 - **Anyone choosing an embedding model by benchmark score.** The model that lost here is a strong general-purpose embedding model, and it lost because its queries were well contextualized against a corpus that was not. Corpus scope and query scope have to be matched deliberately.
 - **Designers of peer-style agents.** The frustration students reported is a design signal, not a bug report: an agent that prompts reasoning will be read as broken by students who expect answers, so the framing has to arrive before the first interaction.
 - **Evaluation design.** A single LLM judge with one prompt would have been easy and is demonstrably fragile; three templates, randomized order and a hand-scored subsample at moderate agreement is a floor, not a gold standard.
@@ -57,7 +57,7 @@ The knowledge base was two open high school textbooks, one for physics and one f
 
 - There is no ground truth for retrieval relevance: the primary outcome is an LLM judge's win rate, and the human check reached only 0.49 quadratic weighted kappa on 80 pairs.
 - The agent study is not controlled. Copa combined a smaller knowledge base with agentic summarization, and it was evaluated by classroom discussion, storyboards and focus groups rather than against a comparison condition.
-- The sample is small and narrow: 18 consented students out of 24 for retrieval, 18 students across the agent study and focus groups, one task, one environment, two schools' worth of curriculum.
+- The sample is small and narrow: 18 consented students out of 24 for retrieval, 18 students across the agent study and focus groups, one task, one environment, two schools' worth of [[curriculum-design|curriculum]].
 - LC-RAG needs environment logs in a form an LLM can interpret, which the authors list as a transfer condition rather than an assumption they have tested elsewhere.
 - No learning outcome is reported for any condition, so the case for Copa rests on what students said about it.
 

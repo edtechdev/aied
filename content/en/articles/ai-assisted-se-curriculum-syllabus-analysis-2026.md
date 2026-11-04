@@ -23,7 +23,7 @@ ng knowledge.
 ## What this means for practice
 
 - **Curriculum designers.** Make generative AI central to graded software engineering work rather than documenting it as a policy item — every course in this sample was selected because AI was bound to graded tasks, not merely permitted.
-- **Curriculum designers.** Balance tool fluency against conceptual and evaluative knowledge: the courses emphasized critical evaluation of AI-generated code over generation speed, and documentation, brownfield development, responsible AI, and user-centered design appeared less consistently.
+- **Curriculum designers.** Balance tool fluency against conceptual and evaluative knowledge: the courses emphasized critical [[ai-ed-evaluation|evaluation of AI]]-generated code over generation speed, and documentation, brownfield development, responsible AI, and user-centered design appeared less consistently.
 - **Instructors.** Use the observed assessment mix as a starting template: project or capstone work was the largest component (median 50% of the grade, range 30–85%), followed by coding assignments (median 20%, range 10–60%).
 - **Instructors.** Grade [[reflection]] and review explicitly, since review/reflection and paper presentation each appeared in a minority of the 14 conventional percentage-based courses rather than being standard.
 - **Researchers.** Treat these 23 public syllabi as a documented baseline for studying how the curriculum for AI-assisted software engineering evolves, not as a description of typical practice.

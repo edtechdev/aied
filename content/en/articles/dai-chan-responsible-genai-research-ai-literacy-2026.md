@@ -27,7 +27,7 @@ institutions: [governance]
 - **Policy gap:** Existing institutional GenAI policies focus on teaching, learning, and assessment and remain abstract; research-specific guidance that is practical, task-sensitive, and grounded in researchers' lived experience is largely absent.
 
 ## Connection to the broader knowledge base
-The study contributes an empirical account of how [[ai-literacy]] is enacted as a [[situated-learning|situated]] capacity in research practice, rather than a static set of competencies, with direct implications for [[academic-integrity|integrity]] and [[ethics]] policy in [[higher-ed|graduate education]]. For institutions it argues that responsible GenAI-use guidelines should move beyond binary rules toward practice-oriented support that [[scaffolding|scaffolds]] each AI literacy dimension across the research workflow — a stance that treats [[governance]] and researcher development as mutually reinforcing. For supervisors and research-training programs it signals a need to cultivate evaluative judgment and [[self-regulated-learning|self-regulation]] of GenAI use, echoing calls to embed [[llm|AI]] literacy across the entire scholarly lifecycle rather than only in teaching and assessment contexts.
+The study contributes an empirical account of how [[ai-literacy]] is enacted as a [[situated-learning|situated]] capacity in research practice, rather than a static set of competencies, with direct implications for [[academic-integrity|integrity]] and [[ethics]] policy in [[higher-ed|graduate education]]. For institutions it argues that responsible GenAI-use guidelines should move beyond binary rules toward practice-oriented support that [[scaffolding|scaffolds]] each AI literacy dimension across the research workflow — a stance that treats [[governance]] and researcher development as mutually reinforcing. For supervisors and research-training programs it signals a need to cultivate [[evaluative-judgment|evaluative judgment]] and [[self-regulated-learning|self-regulation]] of GenAI use, echoing calls to embed [[llm|AI]] literacy across the entire scholarly lifecycle rather than only in teaching and assessment contexts.
 
 ## What this means for practice
 
@@ -42,7 +42,7 @@ The study contributes an empirical account of how [[ai-literacy]] is enacted as 
 - A single institution (University of Hong Kong) and 28 PGR students across seven focus groups; participants were not purposively sampled across faculties, giving an uneven disciplinary distribution with a higher share from the social sciences and limited representation from Law.
 - The design did not systematically examine departmental GenAI guidelines or supervisor perspectives, and supervisor references appeared only in passing.
 - Variation by discipline, stage of study, and familiarity with GenAI was not systematically analyzed, limiting the basis for comparative claims.
-- Reliance on self-reported interview data may introduce social desirability or response bias, and students may have underreported use out of integrity concerns.
+- Reliance on [[self-report-measures|self-reported]] interview data may introduce social desirability or response bias, and students may have underreported use out of integrity concerns.
 
 ## Citation
 

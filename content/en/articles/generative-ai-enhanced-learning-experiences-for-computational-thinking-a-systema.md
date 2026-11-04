@@ -38,7 +38,7 @@ methods: [meta-analysis-systematic-review]
 - **Instructors.** For beginners, position GenAI as a tutor that prompts reasoning rather than a coder or debugger that supplies the solution, and explain the over-reliance risk before students touch the tool.
 - **Instructors.** Differentiate [[scaffolding]] by learner level: the same tool needs tutor-style prompting and controlled, limited use for novices and teenagers, and richer open-ended integration for advanced learners, who often under-use it in complex projects.
 - **Instructional designers.** Embed GenAI in open-ended projects that require learners to apply [[computational-thinking|computational thinking]] concepts themselves, since more than 80% of the reviewed learning experiences used simple exercises and most targeted basic programming in introductory courses.
-- **Instructional designers.** Build reflection into GenAI-supported activities with critical-thinking prompts, post-task debriefings, and [[reflection|learning journals]], because only a minority of studies examined how students reflect on their GenAI use or how instructors adapt.
+- **Instructional designers.** Build reflection into GenAI-supported activities with [[critical-thinking]] prompts, post-task debriefings, and [[reflection|learning journals]], because only a minority of studies examined how students reflect on their GenAI use or how instructors adapt.
 - **Researchers.** Measure reflection and instructor adaptation alongside outcomes using new scales that separate over-reliance risk from the conditions for success, since the review found outcome measurement often weak.
 
 ## Limitations

@@ -37,7 +37,7 @@ The authors are explicit that the system is meant to support rather than replace
 - **Educators.** Decompose the learning objective into progressive leveled goals whose completion requires active inquiry, hypothesis testing and variable manipulation before generating anything, because the paper attributes quality to that structure rather than to model scale.
 - **Instructors.** Keep orchestration with the teacher - initiate the request, approve the learning objective and select among candidate simulations - so generated artifacts serve your [[learning-design|instructional intent]].
 - **Edtech designers.** Embed pedagogical guardrails and critique-and-revision loops inside the generation pipeline instead of relying on teacher vigilance afterward; unguided generative UI produced pedagogically shallow artifacts, especially for complex constructs.
-- **Edtech designers.** Plan for topic-level quality variance: biology simulations rated lowest, particularly on aesthetics and UX, because topics that require memorizing detail (such as the cell cycle) yield textbook-sequenced rather than manipulable interactives.
+- **Edtech designers.** Plan for topic-level quality variance: [[biology-education|biology]] simulations rated lowest, particularly on aesthetics and UX, because topics that require memorizing detail (such as the cell cycle) yield textbook-sequenced rather than manipulable interactives.
 
 ## Limitations
 

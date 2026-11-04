@@ -13,7 +13,7 @@ confidence: high
 institutions: [change-management]
 ---
 
-> **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of ChatGPT for academic tasks. By integrating the [[bias-mitigation|Fairness]], Accountability, Transparency & [[ethics]] in AI (FATE) framework with the [[technology-acceptance-model|Technology Acceptance Model]] (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model with 17 constructs and 23 hypotheses using Partial Least Squares Structural Equation Modeling (PLS-SEM) on survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings reveal that explainability and [[privacy]] are the strongest predictors of [[trust]] in ChatGPT, yet trust does not directly influence intention to use it — instead trust operates indirectly through perceived performance. Meanwhile, social influence from university professors and perceived behavioral control emerge as the strongest behavioral drivers of adoption, highlighting that ChatGPT must be both user-friendly and ethically sound in [[higher-ed]].
+> **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of [[generative-ai|ChatGPT]] for academic tasks. By integrating the [[bias-mitigation|Fairness]], Accountability, Transparency & [[ethics]] in AI (FATE) framework with the [[technology-acceptance-model|Technology Acceptance Model]] (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model with 17 constructs and 23 hypotheses using Partial Least Squares Structural Equation Modeling (PLS-SEM) on survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings reveal that [[explainable-ai|explainability]] and [[privacy]] are the strongest predictors of [[trust]] in ChatGPT, yet trust does not directly influence intention to use it — instead trust operates indirectly through perceived performance. Meanwhile, social influence from university professors and perceived behavioral control emerge as the strongest behavioral drivers of adoption, highlighting that ChatGPT must be both user-friendly and ethically sound in [[higher-ed]].
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ institutions: [change-management]
 
 **Multifaceted adoption.** The findings emphasize the multifaceted nature of AI-enabled adoption, arguing that ChatGPT must be not only user-friendly but also ethically sound, with ethical risk perception moderating the usefulness–intention pathway. The authors call for institutions to design ChatGPT integration that addresses [[usability-research|usability]], behavior, and ethics together.
 
-**Implication.** Institutions should design ChatGPT integration that addresses usability, behavior, and ethics together to support responsible [[student-experience]] in [[higher-ed]]. The study provides practical insights for educators and policymakers on promoting adoption by addressing opportunities, associated risks, and typical student usage patterns, while noting limitations of self-reported cross-sectional survey data and the diversity of national digitalization contexts (Estonia's and Germany's high digitalization vs. Poland's and Romania's more gradual adoption).
+**Implication.** Institutions should design ChatGPT integration that addresses usability, behavior, and ethics together to support responsible [[student-experience]] in [[higher-ed]]. The study provides practical insights for educators and policymakers on promoting adoption by addressing opportunities, associated risks, and typical student usage patterns, while noting limitations of [[self-report-measures|self-reported]] cross-sectional survey data and the diversity of national digitalization contexts (Estonia's and Germany's high digitalization vs. Poland's and Romania's more gradual adoption).
 
 ## What this means for practice
 
@@ -42,7 +42,7 @@ institutions: [change-management]
 - The evidence is a self-reported, cross-sectional survey of 344 students measured at a single time point, so the path model establishes associations among intentions rather than causal effects or observed use.
 - Of the initial 528 responses, 185 were removed—177 for not reporting university-related ChatGPT use and 8 for being over 40 years old—so about a third of the sample was excluded and the retained students are users by construction.
 - The outcome is intention to use (and, downstream, intention to purchase a subscription), not actual adoption behavior.
-- The four countries differ in digitalization—Estonia and Germany adopted AI in education early while Poland and Romania are progressing more gradually—so cross-national equivalence of the 17-construct model is not fully established.
+- The four countries differ in digitalization—Estonia and Germany adopted [[ai-education|AI in education]] early while Poland and Romania are progressing more gradually—so cross-national equivalence of the 17-construct model is not fully established.
 
 ## Citation
 

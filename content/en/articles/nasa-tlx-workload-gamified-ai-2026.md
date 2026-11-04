@@ -13,7 +13,7 @@ sources: ['raw/papers/nasa-tlx-workload-gamified-ai-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Speranza (2026) compares perceived workload across three conditions in a [[higher-ed|university]] experiment — traditional individual study, conventional gamification, and gamification with conditioned progression supported by [[generative-ai|artificial intelligence]] functions — using the NASA Task Load Index (NASA-TLX). Welch ANOVAs found no statistically significant differences between the groups on any of the six workload dimensions: mental demand was high across all conditions while physical demand remained low, as expected for a study-based digital task. An exploratory pairwise-weighting analysis revealed two significant differences (mental demand versus perceived performance, and temporal demand versus perceived performance). The author concludes that neither [[game-based-learning|gamification]] nor AI-supported progression simply increases or reduces workload; rather, cognitive [[sustainability]] depends on how the learning path is designed, paced, explained, and supervised.
+> **Synthesis:** Speranza (2026) compares perceived workload across three conditions in a [[higher-ed|university]] experiment — traditional individual study, conventional gamification, and gamification with conditioned progression supported by [[generative-ai|artificial intelligence]] functions — using the NASA Task Load Index (NASA-TLX). Welch ANOVAs found no statistically significant differences between the groups on any of the six workload dimensions: mental demand was high across all conditions while physical demand remained low, as expected for a study-based digital task. An exploratory pairwise-weighting analysis revealed two significant differences (mental demand versus perceived performance, and temporal demand versus perceived performance). The author concludes that neither [[game-based-learning|gamification]] nor AI-supported progression simply increases or reduces workload; rather, cognitive [[sustainability]] depends on how the [[recommender-systems-and-learning-paths|learning path]] is designed, paced, explained, and supervised.
 
 ## Key Findings
 1. No statistically significant differences in perceived workload (NASA-TLX) were found across traditional, gamified, and AI-supported learning conditions on any of the six dimensions.
@@ -33,7 +33,7 @@ The paper contributes a measured, null-result perspective to the often-overenthu
 
 ## Limitations
 - Single-site university sample of 142 students split across three conditions (traditional n = 41; conventional gamification n = 49; AI-supported conditioned progression n = 52), with no claim to generalization beyond this context.
-- NASA-TLX is a self-report instrument: it captures perceived workload, not objective cognitive load.
+- NASA-TLX is a [[self-report-measures|self-report]] instrument: it captures perceived workload, not objective cognitive load.
 - The analysis isolates the NASA-TLX data from a broader project, so learning outcomes, motivational data, and platform traces are not examined here.
 - All six primary comparisons were non-significant, so the interpretation rests on descriptive separations and two exploratory pairwise salience results that were not corrected for multiple comparisons.
 

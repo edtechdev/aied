@@ -13,7 +13,7 @@ audience: [instructional designers, instructors]
 methods: [design-based-research]
 ---
 
-> **Synthesis:** AI chatbot design principles to enhance the collective efficacy in collaborative learning
+> **Synthesis:** AI chatbot design principles to enhance the collective efficacy in [[collaborative-learning|collaborative learning]]
 
 ## Key Findings
 
@@ -39,14 +39,14 @@ The study used Design and Development Research Method Type 2, proceeding through
 
 - **Instructors.** Give the chatbot the monitoring job a single instructor cannot do: have it read team conversation logs and deliver team-specific feedback, immediate [[scaffolding]], and social [[regulation]] support continuously rather than at the end of a session.
 - **Instructional designers.** Treat affective cohesion as a design requirement equal to cognitive support, building belongingness formation, interdependence, a positive atmosphere, empathy formation, and personification into the four design elements rather than leaving them to chance.
-- **Designers.** Give non-participating members their own prompt stream: the usability test's one flagged weakness was limited feedback for learners who were not contributing, so specify personalization that reaches inactive team members.
+- **Designers.** Give non-participating members their own prompt stream: the usability test's one flagged weakness was limited feedback for learners who were not contributing, so specify [[personalized-learning|personalization]] that reaches inactive team members.
 - **Instructors.** Adopt the framework as a specification you can implement without coding expertise — its 46 sub-guidelines are written for educators — while treating classroom effect as untested until a chatbot built from them is evaluated in a real course.
 - **Administrators.** Settle informed consent for conversation-log data, algorithmic [[bias-mitigation|bias]] mitigation, and institutional [[governance|data-governance]] policy before deployment, since the chatbot collects sensitive team discourse and the validation flagged culturally or emotionally inappropriate responses.
 
 ## Limitations
 
 - The design principles have not yet been implemented in and evaluated against real educational settings; the authors call for studies that build chatbots from the principles and test their effect on collaborative [[learning-gains|learning outcomes]] to assess generalizability.
-- The principles are general rather than context-specific; project-based, maker, and discussion-based learning each have distinct characteristics that may require optimized or additional design principles.
+- The principles are general rather than context-specific; [[project-based-learning|project-based]], maker, and discussion-based learning each have distinct characteristics that may require optimized or additional design principles.
 - The usability test used a small, relatively homogeneous sample of eight participants, and expert validation involved a small expert group with limited diversity of perspectives, potentially biasing the results; broader stakeholder samples and iterative testing cycles are recommended.
 
 ## Citation

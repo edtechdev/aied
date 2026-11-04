@@ -31,13 +31,13 @@ This scoping review is the **defining survey** for the knowledge base's [[sustai
 - **Institutions.** Move green-campus, energy-management, and climate-monitoring applications beyond limited pilots and attach explicit ethical and environmental guidelines to each one.
 - **Policymakers.** Regulate universities as dual actors — both users and developers of AI — and require evidence on both sides of the ledger rather than treating adoption as inherently sustainable.
 - **Administrators.** Commission evaluations of implemented initiatives instead of assuming benefit: most research in this field remains conceptual or based on small-scale pilots.
-- **Administrators.** Fill the evidence gap for the Global South, where almost no research shows how institutions employ and adapt AI for sustainability, rather than importing findings from North American and European contexts.
+- **Administrators.** Fill the evidence gap for the [[global-south|Global South]], where almost no research shows how institutions employ and adapt AI for sustainability, rather than importing findings from North American and European contexts.
 
 ## Limitations
 
 - A scoping review maps the literature without appraising study quality, so this synthesis cannot rank or validate the evidence it reports — the authors state the review is intentionally broad and identifies gaps rather than adjudicating findings.
 - Coverage is geographically skewed: most research on AI for sustainability in higher education comes from the Global North, mainly North America and Europe, with little from the Global South apart from a few South African studies.
-- Database coverage had to be expanded across Google Scholar, IEEE Xplore, Scopus, ERIC, Web of Science, Environment Complete, and Business Source Complete; the authors acknowledge that no set of databases fully encompasses a field spanning computer science, environmental studies, education, and policy.
+- Database coverage had to be expanded across Google Scholar, IEEE Xplore, Scopus, ERIC, Web of Science, Environment Complete, and Business Source Complete; the authors acknowledge that no set of databases fully encompasses a field spanning [[cs-education|computer science]], environmental studies, education, and policy.
 - The concepts themselves are emergent and inconsistent across sources, so the definitions mapped here may not stabilize as the field develops.
 
 ## Citation

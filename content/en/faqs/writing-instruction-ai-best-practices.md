@@ -18,7 +18,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-You are rewriting an assignment sheet and the sentence in front of you says AI is permitted with acknowledgment, which tells a student nothing about whether the tool may supply the argument. A colleague has proposed a course-wide ban and you suspect it lands hardest on the multilingual writers in the room. Or a batch of essays came back smoother than the seminar discussion behind them, and you need a rule you can defend at the next curriculum meeting.
+You are rewriting an assignment sheet and the sentence in front of you says AI is permitted with acknowledgment, which tells a student nothing about whether the tool may supply the argument. A colleague has proposed a course-wide ban and you suspect it lands hardest on the multilingual writers in the room. Or a batch of essays came back smoother than the seminar discussion behind them, and you need a rule you can defend at the next [[curriculum-design|curriculum]] meeting.
 
 The bottom line: name the intellectual work the assignment exists to produce, keep that step with the student, and give the tool jobs that return something the student has to judge. A rule written that way tells a student which step it protects.
 
@@ -74,7 +74,7 @@ A sequence worth borrowing keeps AI in a consulting role and puts the reasoning 
 | **8. Revise** | Make and justify substantive changes | Test clarity, offer alternatives | Revision |
 | **9. Verify** | Check every factual or source-dependent claim | Cannot verify its own output | Sources and evidence |
 | **10. Reflect and disclose** | Explain AI's role and what changed in their thinking | Nothing | Brief process reflection |
-| **11. Independent check** | Explain or apply the reasoning without AI | Nothing | Oral defense, quick write, new case |
+| **11. Independent check** | Explain or apply the reasoning without AI | Nothing | [[oral-assessment|Oral defense]], quick write, new case |
 
 This is [[pairr-ai-peer-review-2025|PAIRR]] extended: draft, human feedback, AI feedback, comparison, revision, reflection, with an independent baseline and a tighter boundary around reasoning. Use the middle column as the assignment and the right column as what a grade can rest on.
 

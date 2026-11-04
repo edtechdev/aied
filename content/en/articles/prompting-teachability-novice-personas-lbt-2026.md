@@ -40,7 +40,7 @@ audience: [researchers, instructional designers]
 
 ## Limitations
 
-- The findings are exploratory: the study measures simulated novice behavior and uses automated scoring for large-scale comparison rather than direct measurement of human learning outcomes.
+- The findings are exploratory: the study measures simulated novice behavior and uses [[automated-assessment|automated scoring]] for large-scale comparison rather than direct measurement of human learning outcomes.
 - Only three models (Qwen3-235B, Llama 4, Kimi-K2) and five writing-related domains were tested, and each model generated and scored its own outputs.
 - AI-judge calibration rested on just 24 essays, each scored by one human rater; the AI judge's mean score ran higher than the human's (72.1 vs 63.3) even though the ranks correlated (Pearson's r = 0.943).
 - Prompts were run as 30,720 synthetic combinations producing short quiz answers and essays, so the durability of the prompt effects in longer, more realistic LbT interactions is untested.

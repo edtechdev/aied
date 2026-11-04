@@ -21,7 +21,7 @@ methods: [ai-ed-evaluation]
 
 ## The Five-Stage Pipeline
 
-The Crew Scaler framework organizes rapid upskilling as an end-to-end AI-accelerated pipeline:
+The Crew Scaler framework organizes rapid [[lifelong-learning|upskilling]] as an end-to-end AI-accelerated pipeline:
 
 | Stage | AI Acceleration | Learning Efficiency | Quality Control |
 |---|---|---|---|
@@ -63,7 +63,7 @@ The paper identifies four gaps in existing frameworks:
 - **Curriculum designers.** Order content along strict prerequisite dependencies across all four hierarchy levels and schedule spaced review, then tag every item to the blueprint — the 530-question bank is keyed to a 10-domain, 53-skill map.
 - **Instructional designers.** Engineer distractors from documented atomic [[misconceptions]] instead of inventing them ad hoc, so an incorrect response diagnoses the misconception rather than only marking the learner wrong.
 - **Curriculum designers.** Automate volume work and reserve human effort for blueprint design, SME review, misconception authoring, and item rating; the framework's claim is that keeping judgment tasks human is what keeps the verification stages meaningful.
-- **Administrators.** Seek an external standard rather than self-reported success: the program's strongest claims are a NASBA [[professional-training|CPE]] accreditation review and a vendor certification exam, not internally defined measures.
+- **Administrators.** Seek an external standard rather than [[self-report-measures|self-reported]] success: the program's strongest claims are a NASBA [[professional-training|CPE]] accreditation review and a vendor certification exam, not internally defined measures.
 
 ## Limitations
 

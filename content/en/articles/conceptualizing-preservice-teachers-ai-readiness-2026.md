@@ -30,8 +30,8 @@ confidence: high
 
 - **Faculty developers.** Use the validated Spanish instrument (27 items, 3 dropped, five domains retained) to diagnose pre-service readiness before designing AI training, and begin with the ETHICS domain, which correlated most strongly with integrated iTPACK (ρ = 0.833).
 - **Faculty developers.** Front-load AI integration for underclassmen: upperclassmen reported higher readiness than underclassmen (ETHICS 4.77 vs. 4.12, p = 0.001).
-- **Instructors.** Teach AI through pedagogical and ethical integration rather than technological properties, since the ETHICS factor tracked iTPACK more closely than technical knowledge.
-- **Administrators.** Treat the public–private gap as an equity problem: public-university students scored higher on all five dimensions (e.g., ETHICS F = 35.38; iTK F = 13.87), so private institutions need targeted support.
+- **Instructors.** Teach AI through [[pedagogy|pedagogical]] and ethical integration rather than technological properties, since the ETHICS factor tracked iTPACK more closely than technical knowledge.
+- **Administrators.** Treat the public–private gap as an [[equity-in-ai-education|equity]] problem: public-university students scored higher on all five dimensions (e.g., ETHICS F = 35.38; iTK F = 13.87), so private institutions need targeted support.
 
 ## Limitations
 

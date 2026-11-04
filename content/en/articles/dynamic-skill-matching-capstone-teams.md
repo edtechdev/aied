@@ -27,8 +27,8 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 
 ## Limitations
 
-- Evaluation covers two semesters of one program — the UC Merced computer science capstone — with Fall 2023 at 16 projects and 68 students and Spring 2024 at 22 unique projects, some of them shared by two teams.
-- The satisfaction evidence is a brief survey of only 22 previous capstone students, self-reported on seven Likert and multi-select items.
+- Evaluation covers two semesters of one program — the UC Merced [[cs-education|computer science]] capstone — with Fall 2023 at 16 projects and 68 students and Spring 2024 at 22 unique projects, some of them shared by two teams.
+- The satisfaction evidence is a brief survey of only 22 previous capstone students, [[self-report-measures|self-reported]] on seven Likert and multi-select items.
 - The algorithm depends on self-reported skills and preferences, leaving it vulnerable to misrepresentation, and the preference weight α requires manual tuning.
 - All skills are treated equally, with fulfillment resting on a single student's intermediate-level rating, so projects with many required skills can be favored over those with rare but critical skills.
 

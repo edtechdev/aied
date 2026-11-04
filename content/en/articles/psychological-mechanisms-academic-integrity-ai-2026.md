@@ -14,14 +14,14 @@ confidence: high
 audience: [instructors, administrators]
 ---
 
-> **Synthesis:** Yilmaz (2026) tested an integrated moderated-mediation model with 1,045 Turkish undergraduates to explain AI-assisted academic dishonesty. The study found that academic [[motivation|procrastination]] and learned helplessness positively predicted a cheating tendency, while [[self-efficacy|academic self-efficacy]] negatively predicted it; cheating tendency in turn predicted AI-assisted dishonesty, with the link **amplified at higher levels of AI use**. Social and contextual factors (e.g., social norms, peer behavior, insufficient sanctions, high expectations) predicted dishonesty, whereas ethical and moral education emerged as a protective negative predictor.
+> **Synthesis:** Yilmaz (2026) tested an integrated moderated-mediation model with 1,045 Turkish undergraduates to explain AI-assisted [[academic-integrity|academic dishonesty]]. The study found that academic [[motivation|procrastination]] and learned helplessness positively predicted a cheating tendency, while [[self-efficacy|academic self-efficacy]] negatively predicted it; cheating tendency in turn predicted AI-assisted dishonesty, with the link **amplified at higher levels of AI use**. Social and contextual factors (e.g., social norms, peer behavior, insufficient sanctions, high expectations) predicted dishonesty, whereas ethical and moral education emerged as a protective negative predictor.
 
 ## Key Findings
 
 1. **Psychological vulnerabilities predict cheating tendency.** Academic procrastination and learned helplessness positively predicted students' cheating tendency, whereas academic self-efficacy negatively predicted it.
 2. **Cheating tendency predicts AI-assisted academic dishonesty** and mediates the effects of procrastination, learned helplessness, and self-efficacy on dishonesty.
 3. **AI use amplifies the tendency–behavior link.** The association between cheating tendency and AI-assisted dishonesty was stronger at higher levels of AI use (interaction effect), and conditional indirect effects strengthened with higher AI use—AI does not merely accompany dishonesty but amplifies its translation into behavior.
-4. **Socio-contextual factors matter.** Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions significantly predicted AI-assisted academic dishonesty.
+4. **Socio-contextual factors matter.** Social norms, peer behaviors, family attitudes, insufficient sanctions, [[teacher-role|teacher]] attitude, high expectations, and adverse conditions significantly predicted AI-assisted academic dishonesty.
 5. **Ethical and moral education is protective.** It emerged as a negative predictor of AI-assisted academic dishonesty, suggesting a promising intervention lever.
 6. **AI-assisted dishonesty is multilevel.** The authors conceptualize it as a transformed, technologically mediated form of academic misconduct shaped by the interaction of psychological vulnerabilities, cognitive tendencies, technological affordances, and socio-contextual influences.
 
@@ -36,9 +36,9 @@ audience: [instructors, administrators]
 ## Limitations
 
 - Cross-sectional design with 1,045 Turkish undergraduates: the relationships are associations, not causal, and the authors call for longitudinal or experimental designs to test the temporal dynamics.
-- Every variable came from self-report, which is vulnerable to social desirability, recall bias, and underreporting on an ethically sensitive topic; the authors propose behavioral indicators, scenario measures, or digital trace data instead.
+- Every variable came from [[self-report-measures|self-report]], which is vulnerable to social desirability, recall bias, and underreporting on an ethically sensitive topic; the authors propose behavioral indicators, scenario measures, or digital trace data instead.
 - Cheating tendency, AI use, and the social and contextual factors were measured with researcher-developed instruments whose psychometric properties were examined only within this sample, so further validation in independent samples is still needed.
-- The sample came from one national higher education context (Türkiye), so the authors caution against generalizing to other cultural, institutional, and disciplinary settings, and note that the rapid pace of change in generative AI dates the patterns observed.
+- The sample came from one national [[higher-ed|higher education]] context (Türkiye), so the authors caution against generalizing to other cultural, institutional, and disciplinary settings, and note that the rapid pace of change in [[generative-ai|generative AI]] dates the patterns observed.
 
 ## Citation
 

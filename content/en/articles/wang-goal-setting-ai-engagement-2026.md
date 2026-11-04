@@ -16,7 +16,7 @@ page_kind: [framework]
 
 > **Synthesis:** **Explaining learning engagement in AI-assisted learning** — a structural equation modeling study of **758 Chinese university students** in AI-assisted English learning. Guided by **goal-setting theory**, Wang & Wang (2026) show how **teacher support** drives [[student-engagement|learning engagement]] through four achievement goal orientations, extending goal-setting theory to AI contexts.
 
-Wang & Wang (2026) address an under-explored question: not just *whether* AI helps language learning, but the **psychological mechanisms** that drive students' engagement in AI-assisted environments. The study integrates teacher support, achievement goals, and engagement into one framework, and tests which goal orientations mediate the teacher-support → engagement link.
+Wang & Wang (2026) address an under-explored question: not just *whether* AI helps [[language-learning|language learning]], but the **psychological mechanisms** that drive students' engagement in AI-assisted environments. The study integrates teacher support, [[motivation|achievement goals]], and engagement into one framework, and tests which goal orientations mediate the teacher-support → engagement link.
 
 ## Method
 
@@ -32,15 +32,15 @@ Wang & Wang (2026) address an under-explored question: not just *whether* AI hel
 
 ## What this means for practice
 
-- **Instructors.** Keep [[teacher-role|teacher support]] central in AI-assisted courses: it directly enhanced engagement in this 758-student model, so AI feedback complements rather than replaces the instructor's motivational role.
+- **Instructors.** Keep [[teacher-role|teacher support]] central in AI-assisted courses: it directly enhanced engagement in this 758-[[student-modeling|student model]], so [[ai-feedback-quality|AI feedback]] complements rather than replaces the instructor's motivational role.
 - **Instructors.** Frame AI-assisted work with approach goals — mastery-oriented goals about understanding the material and performance-oriented goals about reaching a target standard — because only mastery-approach and performance-approach goals mediated the link between teacher support and [[student-engagement|engagement]].
 - **Instructors.** Check which goals your [[assessment|assessments]] and tasks reward: performance-avoidance goals also predicted engagement but were not the channel through which teacher support operated, so encourage approach goals rather than relying on students' fear of falling behind.
 - **Designers.** Instrument AI platforms to capture behavioral log data, not only survey responses, so courses can separate the quantity from the quality of engagement and detect superficial, avoidance-driven AI use.
-- **Administrators.** Fund professional development that strengthens teachers' support behaviors in AI-assisted classes, since that is the pathway the study identifies to students' approach goals and engagement.
+- **Administrators.** Fund [[educational-development|professional development]] that strengthens teachers' support behaviors in AI-assisted classes, since that is the pathway the study identifies to students' approach goals and engagement.
 
 ## Limitations
 
-- All data came from self-report questionnaires collected in October 2025 through convenience sampling, with English instructors circulating the survey link to their classes; the authors note the responses may be subject to social desirability bias and may not capture actual behavior with AI tools.
+- All data came from self-report [[self-report-measures|questionnaires]] collected in October 2025 through convenience sampling, with English instructors circulating the survey link to their classes; the authors note the responses may be subject to social desirability bias and may not capture actual behavior with AI tools.
 - The cross-sectional design prevents causal inference and cannot show how motivational processes evolve, so the authors call for longitudinal or experimental designs.
 - The final sample of 758 came from 813 submitted questionnaires, with 55 cases (6.77%) dropped for implausibly short response times; eligibility required prior experience with AI-assisted English learning, so students with no such exposure are absent.
 - Engagement quality was not measured: the authors state the study cannot distinguish quantity from quality of engagement, including whether avoidance-driven AI use produces more superficial learning outcomes.

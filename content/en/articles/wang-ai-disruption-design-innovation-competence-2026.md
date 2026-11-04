@@ -41,7 +41,7 @@ verified: [citation, numbers, links]
 
 The 28 items cover five constructs on a 7-point scale, piloted on 102 design students and trimmed for weak loadings. Reliability was high (alpha 0.897 to 0.932), average variance extracted ran 0.636 to 0.687, and the five-factor model fit well (χ²/df = 1.46, CFI = 0.986, TLI = 0.984, RMSEA = 0.028) against one- to four-factor alternatives, all with CFI and TLI below 0.90. Sampling was convenience plus snowball, covering design students in comprehensive universities and art and design institutions across regions of China: 632 returns, 568 valid (89.87%).
 
-The design point matters more than the psychometrics. All measures were [[self-report-measures|self-reports]] taken in one sitting, so the four equations re-describe a single covariance matrix. The paper concedes this in its abstract, then writes as though ordering had been seen, with "mediating" in the title and "mechanism" throughout. A path model on one wave can show the association is not fully shared with either focus; it cannot show that awareness came first.
+The design point matters more than the [[educational-measurement|psychometrics]]. All measures were [[self-report-measures|self-reports]] taken in one sitting, so the four equations re-describe a single covariance matrix. The paper concedes this in its abstract, then writes as though ordering had been seen, with "mediating" in the title and "mechanism" throughout. A path model on one wave can show the association is not fully shared with either focus; it cannot show that awareness came first.
 
 ## Two paths that cancel
 
@@ -55,7 +55,7 @@ The expectation was a buffer: [[critical-thinking|critical thinking]] should wea
 
 ## What this means for practice
 
-For instructors, the usable claim concerns appraisal, not exposure. On the paper's reading, raising or lowering awareness is the wrong lever, since both motivational routes are live in one classroom; the lever is how students are taught to read what they notice. That points to verification of AI output, ethical reasoning about bias and authorship, and integration with domain knowledge, differentiated by profile: low-threat tasks for students who hear disruption as a personal verdict, ethics and quality-assurance work for students whose caution is already reasoned. One subgroup result: the awareness to prevention association was weaker among students with formal AI training (β = 0.186, p < 0.01) than without it (β = 0.300, p < 0.001).
+For instructors, the usable claim concerns appraisal, not exposure. On the paper's reading, raising or lowering awareness is the wrong lever, since both [[motivation|motivational]] routes are live in one classroom; the lever is how students are taught to read what they notice. That points to verification of AI output, ethical reasoning about bias and authorship, and integration with domain knowledge, differentiated by profile: low-threat tasks for students who hear disruption as a personal verdict, [[ethics]] and quality-assurance work for students whose caution is already reasoned. One subgroup result: the awareness to prevention association was weaker among students with formal AI training (β = 0.186, p < 0.01) than without it (β = 0.300, p < 0.001).
 
 ## Limitations
 

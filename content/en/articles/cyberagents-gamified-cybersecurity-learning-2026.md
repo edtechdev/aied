@@ -75,14 +75,14 @@ CyberAGENTS was implemented as a web-based interactive system (React frontend, P
 
 - **Instructional designers.** Bound generative flexibility through *structured autonomy* rather than scripting it away or leaving it unconstrained: layer behavioral schemas that regulate instructional conduct over ontology validation that constrains domain reasoning, so [[agentic-ai|agentic learning systems]] stay in role and domain-aware in high-stakes technical domains.
 - **Instructional designers.** Anchor evaluation and [[feedback]] to explicit schema-defined criteria and return short, structured responses, so learners can interpret and act on [[formative-assessment|formative feedback]] instead of trusting an opaque generative judgment.
-- **Edtech designers.** Decompose the learning loop into specialized, schema-governed agents (challenge, support, evaluation, reward) rather than letting one model improvise across every instructional function, which keeps instructional dynamics interpretable and stable.
+- **[[educational-technology-developers|Edtech designers]].** Decompose the learning loop into specialized, schema-governed agents (challenge, support, evaluation, reward) rather than letting one model improvise across every instructional function, which keeps instructional dynamics interpretable and stable.
 - **Edtech designers.** Treat pre-display ontology validation and schema-bounded behavior as safeguards requiring continued [[human-in-the-loop-ai|human oversight]], because cybersecurity is adversarial and a learner may act on generated procedural guidance.
 - **Researchers.** Reuse the mixed-methods plus LLM-as-judge ablation design to test whether the structural components, rather than the model, produce the gains, since the ablation here was run only descriptively.
 
 ## Limitations
 
 - The human study rests on 24 undergraduates in a single within-subjects session of roughly 5–15 minutes with no control condition, so the positive ratings describe one short novice-level interaction rather than a learning effect.
-- Every learner measure is a self-reported post-study survey item (plus one open-ended question); the item means range from scenario authenticity at 4.21 down to challenge difficulty alignment at 3.12, and perceptions are not a measure of learning or retention.
+- Every learner measure is a [[self-report-measures|self-reported]] post-study survey item (plus one open-ended question); the item means range from scenario authenticity at 4.21 down to challenge difficulty alignment at 3.12, and perceptions are not a measure of learning or retention.
 - The LLM-as-judge results are single-model judgments of transcripts, and the ablated configuration received less traffic than the full system, so the authors read the ablation descriptively rather than as a controlled comparison.
 - Evaluation used one novice difficulty level and Llama-based models served through a single commercial API, so performance may not transfer to other models, difficulty levels, or longer curricula.
 

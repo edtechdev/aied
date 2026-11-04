@@ -14,15 +14,15 @@ level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---
-> **Synthesis:** Compares parallel self-report and objective-based measures of [[ai-literacy|AI literacy]] built inside the same Concept, Use, Evaluate, Ethics framework for 288 K-12 teachers, and finds the two barely agree. Correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24, and latent profile analysis found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the opposite pattern, and the rest clustered near the mean or split by prior AI literacy experience.
+> **Synthesis:** Compares parallel self-report and objective-based measures of [[ai-literacy|AI literacy]] built inside the same Concept, Use, Evaluate, Ethics framework for 288 K-12 teachers, and finds the two barely agree. Correlations between the objective and [[self-report-measures|self-reported]] factors ranged from r = 0.07 to r = 0.24, and [[latent-profile-analysis|latent profile analysis]] found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the opposite pattern, and the rest clustered near the mean or split by prior AI literacy experience.
 
 ## Key Findings
 
-- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of teacher AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
-- Confirmatory factor analyses supported construct validity with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
+- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of [[teacher-role|teacher]] AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
+- Confirmatory factor analyses supported [[assessment-validity|construct validity]] with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
 - Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR ≈ OB), and a unique low-SR/low-OB profile concentrated among teachers without prior AI literacy experience.
-- The divergence between perceived and demonstrated competence has direct implications for professional development: [[self-assessment]] alone is an unreliable basis for planning AI training.
-- The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable learning-analytics interventions tailored to teacher subgroups.
+- The divergence between perceived and demonstrated competence has direct implications for [[educational-development|professional development]]: [[self-assessment]] alone is an unreliable basis for planning AI training.
+- The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable [[learning-analytics]] interventions tailored to teacher subgroups.
 
 ## Study Design & Method
 
@@ -40,8 +40,8 @@ The [[research-methods-aied|research]] responds to the widespread adoption of AI
 
 - Of 358 teachers who completed the survey, 70 did not finish the self-report portion, leaving an analytic sample of 288 — so the self-report and objective analyses rest on a non-random subset of the original respondents.
 - The analysis does not separate pre-service from in-service teachers or model years of teaching experience, which the authors identify as a limit on examining how profiles differ across those groups; 46.5% of the analytic sample were pre-service teachers.
-- The objective measure was scenario-based but not tailored to subject area or grade level, so it does not capture the subject-specific AI integration that the framework treats as central.
-- The authors note that recent additions to AI literacy frameworks (Detect AI, generative AI literacy) are not covered, and that many existing items are overly technical for K–12 educators — the measure may reward familiarity with terminology rather than the capacity to integrate AI into teaching.
+- The objective measure was scenario-based but not tailored to subject area or grade level, so it does not capture the [[discipline-specific-aied|subject-specific]] AI integration that the framework treats as central.
+- The authors note that recent additions to AI literacy frameworks (Detect AI, [[generative-ai|generative AI]] literacy) are not covered, and that many existing items are overly technical for K–12 educators — the measure may reward familiarity with terminology rather than the capacity to integrate AI into teaching.
 
 ## Citation
 

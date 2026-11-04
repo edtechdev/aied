@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-04T11:20:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -23,7 +23,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* AI in education: the designs used to study whether AI helps learners belong to [[research-methods-aied]], the appraisal of AI systems belongs to [[ai-ed-evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research]]. This page covers the researcher's own workflow and the practitioner-researcher's inquiry — the scholarship of teaching and learning and classroom research — and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
+> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* [[ai-education|AI in education]]: the designs used to study whether AI helps learners belong to [[research-methods-aied]], the appraisal of AI systems belongs to [[ai-ed-evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research]]. This page covers the researcher's own workflow and the practitioner-researcher's inquiry — the scholarship of teaching and learning and classroom research — and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
 
 ## Questions to Consider
 
@@ -36,21 +36,21 @@ ai_assist:
 
 ## Introduction
 
-AI-assisted educational research is the field turning AI tools on its own work. The object of study is not a learner using an AI tutor but a researcher using a model to search, screen, extract, code, analyze, or write. What changes is the researcher's workflow and, more quietly, the criteria by which its output counts as evidence.
+AI-assisted educational research is the field turning AI tools on its own work. The object of study is not a learner using an [[intelligent-tutoring|AI tutor]] but a researcher using a model to search, screen, extract, code, analyze, or write. What changes is the researcher's workflow and, more quietly, the criteria by which its output counts as evidence.
 
 This page is deliberately not about research *on* AI in education. Questions about whether an AI tutor improves learning are addressed by [[research-methods-aied]], the appraisal of AI systems by [[ai-ed-evaluation]], and the cautious reading of a single study by [[interpreting-and-applying-aied-research]] and [[limitations-in-aied-research]]. The two literatures are often conflated, and the tooling claims of the second are frequently borrowed to support the first.
 
-The scope runs from literature search through screening, coding, analysis, and writing, and includes the epistemological reflection that asks what automation does to the knowledge a field produces. It also includes practitioner research: the scholarship of teaching and learning and classroom inquiry, where a teacher studies their own practice. That strand is the weakest part of this page, and the sections below say so rather than smoothing it over.
+The scope runs from literature search through screening, coding, analysis, and writing, and includes the epistemological reflection that asks what automation does to the knowledge a field produces. It also includes practitioner research: the scholarship of teaching and learning and classroom inquiry, where a [[teacher-role|teacher]] studies their own practice. That strand is the weakest part of this page, and the sections below say so rather than smoothing it over.
 
 ## How AI enters the research workflow
 
-Accounts of use are more consistent than the evidence for effect. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan (2026)]] interviewed 28 postgraduate research students in seven focus groups at one institution and found that 27 of the 28 used generative AI somewhere in their research: ideation, literature review, explanation, data processing, programming, academic writing, editing, and translation.
+Accounts of use are more consistent than the evidence for effect. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan (2026)]] interviewed 28 postgraduate research students in seven focus groups at one institution and found that 27 of the 28 used [[generative-ai|generative AI]] somewhere in their research: ideation, [[meta-analysis-systematic-review|literature review]], explanation, data processing, programming, [[writing-education|academic writing]], editing, and translation.
 
-Their participants were calibrated rather than credulous. They matched tools to tasks by perceived stakes and intellectual demands, used AI more heavily in low-stakes procedural work, and stayed cautious where the scholarly contribution was central. They also kept human oversight throughout, treating the model as an assistant that could be "misleading" or "totally wrong."
+Their participants were calibrated rather than credulous. They matched tools to tasks by perceived stakes and intellectual demands, used AI more heavily in low-stakes procedural work, and stayed cautious where the scholarly contribution was central. They also kept [[human-in-the-loop-ai|human oversight]] throughout, treating the model as an assistant that could be "misleading" or "totally wrong."
 
-The policy finding is the practical one. Existing institutional guidance addressed teaching, learning, and assessment, and participants experienced it as abstract and misaligned with research practice. The authors propose researcher-oriented guidelines, built on a four-dimensional AI literacy framework, as a developmental scaffold rather than a rulebook.
+The policy finding is the practical one. Existing institutional guidance addressed teaching, learning, and assessment, and participants experienced it as abstract and misaligned with research practice. The authors propose researcher-oriented guidelines, built on a four-dimensional [[ai-literacy|AI literacy]] framework, as a developmental scaffold rather than a rulebook.
 
-The study covers a single institution, a self-selected group of 28, and self-reported accounts; students may have under-reported use for integrity reasons. It describes how a capable group uses these tools, not what the use produces.
+The study covers a single institution, a self-selected group of 28, and [[self-report-measures|self-reported]] accounts; students may have under-reported use for integrity reasons. It describes how a capable group uses these tools, not what the use produces.
 
 ## Literature search and retrieval
 
@@ -58,7 +58,7 @@ A workshop report maps an agenda rather than measuring it. The CHIIR 2026 Worksh
 
 One lightning talk tested how models reconstruct scholars. Against OpenAlex and Google Scholar ground truth for 1,596 seed authors across 10 disciplines and 8 global regions, highly cited researchers were reconstructed at approximately twice the rate of lower-cited peers, testing DeepSeek R1, Llama 4 Scout, and Mixtral 8×7B.
 
-A librarian reported a "trust gap": students often over-trusted generative search while faculty distrusted it, and single-session workshops were judged insufficient for durable literacy. The design thread participants returned to most was "friction" — keeping users engaged with the critical, sometimes uncomfortable work from which learning comes.
+A [[librarians|librarian]] reported a "trust gap": students often over-trusted generative search while faculty distrusted it, and single-session workshops were judged insufficient for durable literacy. The design thread participants returned to most was "friction" — keeping users engaged with the critical, sometimes uncomfortable work from which learning comes.
 
 The report covers a single, self-selected event and largely records opinions, design principles, and research questions. Its figures belong to individual talks rather than to the workshop, and nothing in it shows that AI academic search improves or harms learning.
 
@@ -68,7 +68,7 @@ Systematic reviews are where automation has advanced furthest, and where its lim
 
 Their conclusion is a division of labor rather than a handover: assign automation to procedural load, verify every output, and keep interpretive decisions human. The account is one team's reflection with no comparison condition, so its strategies are described rather than tested.
 
-[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] quantify the reporting problem across 888 review-automation papers carrying 14,726 annotation items. Since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers. The gap survives stratification: in screening and selection, software papers averaged 3.2 substantive evaluation items with 39.3% reporting none, while LLM papers averaged 7.3 items with a 3.8% no-evaluation rate.
+[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] quantify the reporting problem across 888 review-automation papers carrying 14,726 annotation items. From 2023 onward, 38.0% of software and product work carried no evaluation at all, against 9.3% of [[llm]] papers. In screening and selection the pattern holds: software papers averaged 3.2 substantive evaluation items with 39.3% reporting none, while LLM papers averaged 7.3 items and a 3.8% no-evaluation rate.
 
 Favorable assessment did not imply fitness for delegation. Among 118 LLM papers with positive-only evaluations, 52% still reported at least one concern that the workflow fell below the bar required for its role. Model access was overwhelmingly proprietary: 84.1% of LLM usage relied on proprietary or hosted systems, 11.0% was mixed, and only 4.9% was open-weight.
 
@@ -78,9 +78,9 @@ From these patterns the authors derive PRISMA-LLM, a three-layer framework whose
 
 Qualitative analysis is the stage where interpretation is the product, which makes delegation harder to defend. The [[qualitative-research|Qualitative Research]] page gathers the corpus evidence on AI-assisted coding, including studies showing that human–model agreement is not the same as coding quality and that errors can cascade through temporal analysis. That literature treats the model as a scaling aid whose outputs require verification against human judgment.
 
-[[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] describe the role shift directly. As automated coding models are applied, the researcher moves from coding student data to validating the model's outputs; when unsupervised models cluster reasoning, the algorithm performs the initial exploratory analysis. Researchers, they argue, increasingly need data science skills alongside qualitative, quantitative, and theoretical expertise.
+[[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] describe the role shift directly. As automated coding models are applied, the researcher moves from coding student data to validating the model's outputs; when unsupervised models cluster reasoning, the algorithm performs the initial exploratory analysis. Researchers, they argue, increasingly need data science skills alongside qualitative, [[quantitative-research|quantitative]], and theoretical expertise.
 
-Their framework also supplies the check that matters here: explainable AI can reveal whether automated coding tracks semantic understanding or only keywords. A coding pipeline that agrees with human labels may still be reading the wrong thing.
+Their framework also supplies the check that matters here: [[explainable-ai|explainable AI]] can reveal whether automated coding tracks semantic understanding or only keywords. A coding pipeline that agrees with human labels may still be reading the wrong thing.
 
 ## Data analysis and the epistemic stakes
 
@@ -90,9 +90,9 @@ Their central worry is epistemic rather than technical. Chang's nomic-measuremen
 
 The framework has seven phases: problem framing; instrumentation and measurement; experimentation and evidence-based inference; comparisons and replication; building norms and consensus; implementation and its consequences; and continuous refinement. The authors present these as analytical dimensions that may repeat, overlap, or be absent, not as a validated sequence.
 
-Comparability is the phase with the sharpest equity edge. Regnault's principle requires that an instrument give the same reading under the same conditions and that instruments of a type agree — but comparability must extend across student populations, and machine learning tends to code canonical ideas better than the diverse ways students express weaker ones.
+Comparability is the phase with the sharpest [[equity-in-ai-education|equity]] edge. Regnault's principle requires that an instrument give the same reading under the same conditions and that instruments of a type agree — but comparability must extend across student populations, and [[machine-learning|machine learning]] tends to code canonical ideas better than the diverse ways students express weaker ones.
 
-They also name an accountability problem. Researchers use pre-trained models whose training data, fine-tuning, and objectives they may not know, adding a layer of epistemic dependence; because these systems emerge from socio-technical networks, responsibility becomes hard to allocate — a "many-hands problem."
+They also name an accountability problem. Researchers use pre-trained models whose training data, [[llm-training-and-fine-tuning|fine-tuning]], and objectives they may not know, adding a layer of epistemic dependence; because these systems emerge from socio-technical networks, responsibility becomes hard to allocate — a "many-hands problem."
 
 The necessary honesty is that the article reports no data and establishes no learning effects. It does not show that AI methodologies improve research or yield more valid conclusions; that comparison is posed as future work, and the authors allow that their hypothesis "may well prove incorrect."
 
@@ -114,7 +114,7 @@ Beyond single prompts, persistent agents are being embedded in the research work
 
 The descriptive outcomes are large. Recoverable main-agent telemetry held 75,671 de-duplicated records across 96 active days, an active-day fraction of 0.835; the workspace held 502 memory-related files, 17 configured agent directories, and 57 skill files. A strict 25-day May subset held 627 model-completed events and 73,950,305 recorded tokens, of which 82.9% were cache reads, with approximately US\$1,961 in observed system spending.
 
-The study's main contribution is a measurement frame — PARE-M — built because the outcomes a persistent agent is meant to support, such as governance and cost per artifact, are invisible to episodic benchmarks. Its central negative finding is that aggregate interaction volume did not demonstrate reduced human input: as memory and procedures accumulated, the scope of delegated work expanded, so the strongest pattern is capacity expansion rather than proven labor substitution.
+The study's main contribution is a measurement frame — PARE-M — built because the outcomes a persistent agent is meant to support, such as governance and cost per artifact, are invisible to episodic [[benchmark|benchmarks]]. Its central negative finding is that aggregate interaction volume did not demonstrate reduced human input: as memory and procedures accumulated, the scope of delegated work expanded, so the strongest pattern is capacity expansion rather than proven labor substitution.
 
 The limitations are the ones a single self-observed case invites. One researcher was user, designer, data source, analyst, and beneficiary, with no control group, no baseline period, and no independent coder for the governance events.
 
@@ -122,15 +122,15 @@ The limitations are the ones a single self-observed case invites. One researcher
 
 [[simulating-students|Simulating students]] is the knowledge base's page on the technique and the phenomenon: how to build a synthetic learner whose knowledge state and errors are faithful enough to stand in for a person. This page treats the same apparatus as an instrument of research and evaluation — what a synthetic learner is *for* when an intervention, an instrument, a benchmark, or a tutor must be tested at a scale or in conditions real learners cannot supply.
 
-The clearest use is evaluating a tutor over time. [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place an agent tutor in a 30-day relationship with a simulated learner whose mastery, from a knowledge-tracing model trained on real-student data, drives its answers. Evaluating 10 agent adapters, every adapter plateaued within 5–10 days far below an ideal-learning reference, a result single-session evaluation cannot reach. A calibration check against observed probe accuracy hugs the diagonal (ECE 0.049, Brier 0.033 over 1.19 million attempts).
+The clearest use is evaluating a tutor over time. [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place an agent tutor in a 30-day relationship with a simulated learner whose mastery, from a [[knowledge-tracing]] model trained on real-student data, drives its answers. Evaluating 10 agent adapters, every adapter plateaued within 5–10 days far below an ideal-learning reference, a result single-session evaluation cannot reach. A calibration check against observed probe accuracy hugs the diagonal (ECE 0.049, Brier 0.033 over 1.19 million attempts).
 
 Fidelity is the precondition, and it is measurable. [[beagle-grounded-learner-emulation-2026|Wang et al. (2026)]] report behavioral divergence from real student traces of DKL = 0.31 against 0.53 for the best baseline, and in a 71-rater Turing test its traces were statistically indistinguishable from real student data (52.8% accuracy, d′ = 0.15). The failure to avoid is competency bias: prompted models solve the task too well to stand in for novices.
 
-The belief state is the part that is easy to fake. [[llm-student-simulation-misconception-faithfulness|Do, Sonkar and Sachan (2026)]] showed that across seven models from 4B to 120B parameters, simulators abandoned an assigned misconception and re-solved from internal knowledge at near-uniform rates under targeted, misaligned, and generic feedback. They quantify this with a Selective Flip Score and lift faithfulness by up to +0.56 through training, which is the point: prompting a persona does not build a learner.
+The belief state is the part that is easy to fake. [[llm-student-simulation-misconception-faithfulness|Do, Sonkar and Sachan (2026)]] showed that across seven models from 4B to 120B parameters, simulators abandoned an assigned [[misconceptions|misconception]] and re-solved from internal knowledge at near-uniform rates under targeted, misaligned, and generic feedback. They quantify this with a Selective Flip Score and lift faithfulness by up to +0.56 through training, which is the point: [[prompt-engineering|prompting]] a persona does not build a learner.
 
-Simulated learners also serve as a controlled test bed for evaluation instruments themselves. [[llm-judged-helpfulness-pedagogy-signal|Fan et al. (2026)]] paired each of three tutor bases with one fixed weak simulated learner under a pre-registered protocol and found that general-purpose helpfulness rubrics carry little pedagogical signal, with seven policies spanning 2.3 points of judged pedagogy inside a 0.25-point band of judged helpfulness. Answer-revealing turns were followed by less independent student work on every base.
+Simulated learners also serve as a controlled test bed for evaluation instruments themselves. [[llm-judged-helpfulness-pedagogy-signal|Fan et al. (2026)]] paired each of three tutor bases with one fixed weak simulated learner under a pre-registered protocol and found that general-purpose helpfulness rubrics carry little [[pedagogy|pedagogical]] signal, with seven policies spanning 2.3 points of judged pedagogy inside a 0.25-point band of judged helpfulness. Answer-revealing turns were followed by less independent student work on every base.
 
-The caution belongs on the page. A simulator's verdict is only as good as the simulator, and its coverage tends toward the easiest learners.
+The caution belongs on the page. A [[simulation|simulator]]'s verdict is only as good as the simulator, and its coverage tends toward the easiest learners.
 
 ## Practitioner research: SoTL and classroom inquiry
 
@@ -145,7 +145,7 @@ What can be carried across is a disposition rather than a result: name the AI's 
 ## What the evidence does not yet establish
 
 - **No head-to-head comparison.** Martin et al. pose the comparison between AI-assisted and traditional methods as future work. No anchor article shows that an AI methodology yields more valid conclusions.
-- **Thin designs throughout.** The anchors are a framework proposal, one team's reflective account, a workshop report, a focus-group study, and observational bibliometrics. None is a controlled trial of an AI-assisted method.
+- **Thin designs throughout.** The anchors are a framework proposal, one team's reflective account, a workshop report, a focus-group study, and observational bibliometrics. None is a [[rct|controlled trial]] of an AI-assisted method.
 - **A reporting gap, not an audit of practice.** PRISMA-LLM reads paper-level silence; a workflow with no evaluation in its paper may still be validated elsewhere.
 - **Practitioner research is under-represented.** Only a handful of pages here mention SoTL or classroom research, so the corpus cannot ground claims about teachers studying their own practice.
 - **A moving target.** The tools improve faster than publication, so a finding about a 2025 workflow describes a generation of systems that may no longer exist in that form.

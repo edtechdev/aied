@@ -24,13 +24,13 @@ This construct has significant implications for [[cognitive-offloading|Over-Reli
 - **Instructors.** Design assignments around the verification load, not only around AI output: Verification Strain was one of the two indicators of Cognitive Overload in participant accounts ("I feel mentally exhausted after checking so many outputs").
 - **Instructors.** Protect unassisted thinking time, since Motivational Disengagement showed up as Initiative Loss ("I ask AI before I even try to think") and as impatience with slower materials once AI had set the pace.
 - **Faculty developers.** Teach [[ai-literacy]] with explicit attention to affective and motivational cost, because the model implies that training students to use AI well is incomplete without strategies for managing the strain that sustained use produces.
-- **Administrators.** Treat sustained AI use as a workload and wellbeing issue in program design, since the five dimensions accumulate and reinforce one another across a six-stage progression rather than appearing once.
+- **Administrators.** Treat sustained AI use as a workload and [[well-being|wellbeing]] issue in program design, since the five dimensions accumulate and reinforce one another across a six-stage progression rather than appearing once.
 - **Administrators.** Fund instrument development and validation before adopting AI-fatigue measures institutionally: the construct is new and the model is exploratory.
 
 ## Limitations
 
-- The study is exploratory grounded theory on open-ended responses from 1,054 students at three universities in Pampanga, Philippines (mean age 19.21), drawn from one academic region and relying on self-reported data.
-- Participants were students who had already used AI chatbots for academic activities and were recruited through teacher invitations and campus administrator distribution of a Google Forms link — so there is no comparison with non-users and no probability sampling.
+- The study is exploratory grounded theory on open-ended responses from 1,054 students at three universities in Pampanga, Philippines (mean age 19.21), drawn from one academic region and relying on [[self-report-measures|self-reported]] data.
+- Participants were students who had already used AI [[conversational-ai|chatbots]] for academic activities and were recruited through teacher invitations and campus [[administrator]] distribution of a Google Forms link — so there is no comparison with non-users and no probability sampling.
 - Evidence for the five dimensions is uneven: coded responses range from 310 (Cognitive Overload) to 120 (Physical Strain) and 125 (Attentional Drift), so the later stages of the model rest on thinner participant accounts.
 - The authors state the model requires empirical validation, including confirmatory factor analysis, before broader application, and cannot yet be assumed to generalize beyond this context.
 

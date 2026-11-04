@@ -32,7 +32,7 @@ Three trained [[research-methods-aied|researchers]] conducted a comparative cont
 ## What this means for practice
 
 - **Administrators.** Audit your institution against all six dimensions before setting AI priorities: curriculum led at M = 5.73 while policy frameworks trailed at M = 4.09, so the weakest area is usually formal strategy, not the teaching program.
-- **Institutions.** Fund infrastructure, faculty AI pedagogy training, and research support as one package, since those three internal capabilities intercorrelate at r = 0.79–0.80 and single-dimension investment leaves the others unsupported.
+- **Institutions.** Fund infrastructure, faculty AI [[pedagogy]] training, and research support as one package, since those three internal capabilities intercorrelate at r = 0.79–0.80 and single-dimension investment leaves the others unsupported.
 - **Policymakers.** Target benchmarking and incentive mechanisms at newer and non-South-West universities, because institution age (β = 0.43, p = 0.016) and South-West location (β = 0.31, p = 0.029) — not governance type — predicted integration.
 - **Researchers.** Report the evidential basis for every score when adapting the instrument for another system, since external validation rates differ by source type (academic publications 78%, news 67%).
 - **Partnership leads.** Treat international and industry partnerships as complementary rather than competing, and choose partners by history, geography, networks and dimensional strengths rather than by institutional category; deliberately include less-connected institutions to counter compounding advantage, and diversify funding to avoid the dependency risk the authors tie to the 2025 USAID funding freeze.

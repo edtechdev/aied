@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-01T09:07:05-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -15,7 +15,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Think about the last new skill you learned outside formal schooling — on the job, online, or self-taught. Who decided what to learn, how to learn it, and when you were 'done'? How would AI change that picture?
-- A central question in the page is autonomy: as AI participates in identifying your learning needs, setting your goals, and even producing content, what remains genuinely self-directed in your own learning?
+- A central question in the page is autonomy: as AI participates in identifying your learning needs, setting your goals, and even producing content, what remains genuinely [[self-directed-learning|self-directed]] in your own learning?
 - Formal education treats time as fixed and curricula as sequential. The page proposes 'Learnity graphs' — interconnected units of knowledge learners navigate flexibly across a lifetime. What do you gain, and what do you risk losing, by freeing learning from a fixed sequence?
 - AI can both support adult learners and change which skills adults must continuously update. If AI keeps reshaping your field, what capabilities would you invest in that no tool can simply give you?
 - Lifelong learning is often framed as an individual's responsibility. But access across the lifespan is also an equity question. Who gets the time, resources, and support to keep learning as an adult — and how might AI widen or narrow that gap?
@@ -29,8 +29,8 @@ Lifelong learning refers to continuous education throughout life — upskilling,
 - **Design guidelines for adult learning:** [[ai-adult-learning-guidelines-dis2026|Research from the AI-ALOE institute]] synthesizes empirically grounded design guidelines for AI-powered adult-learning technologies, emphasizing practical, context-sensitive support.
 - **AI-guided skill acquisition:** [[ai-guided-learning-audiovideo-2026|AI-guided audio/video learning]] shows how AI can scaffold the consume–understand–imitate stages of skill acquisition, adapting media to the learner.
 - **From fixed curricula to adaptive structures:** [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] propose rethinking fixed higher-education curricula as interconnected units of knowledge that learners can navigate flexibly across a lifetime.
-- **Autonomy and self-direction:** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] revisits adult-learning theory under AI-mediated cognitive delegation, asking what remains self-directed when AI participates in identifying needs, setting goals, and producing content.
-- **What adults want from that delegation.** In interviews with 20 of 60 screened adult learners at three US universities, learners described AI as a collaborative learning agent they learn from and with, not an answer-giving oracle. They said they did not want a perfect, zero-error system so much as one that stays in the loop and adapts to them ([[kim-ai-andragogy-2026|Kim et al., 2026]]). Self-direction, on this evidence, is something adults expect to keep inside the interaction rather than hand over to it, which is the design target the autonomy question needs.
+- **Autonomy and self-direction:** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] revisits adult-[[learning-theories|learning theory]] under AI-mediated cognitive delegation, asking what remains self-directed when AI participates in identifying needs, setting goals, and producing content.
+- **What adults want from that delegation.** In interviews with 20 of 60 screened adult learners at three US universities, learners described AI as a [[collaborative-learning|collaborative learning]] agent they learn from and with, not an answer-giving oracle. They said they did not want a perfect, zero-error system so much as one that stays in the loop and adapts to them ([[kim-ai-andragogy-2026|Kim et al., 2026]]). Self-direction, on this evidence, is something adults expect to keep inside the interaction rather than hand over to it, which is the design target the autonomy question needs.
 - **Policy and community:** [[ai-lifelong-learning-policy|AI in lifelong-learning policy]] and [[community-centered-ai-education-adults|community-centered AI education]] address the institutional and equity dimensions of adult AI learning.
 - **Expertise regeneration is itself at risk.** In the most AI-exposed US occupations, workers aged 22–25 saw a 16% relative employment decline (Oct 2022–Sep 2025) while those 35–49 grew over 8%, and the deep expertise needed to validate AI outputs depends on the entry-level roles that decline removes ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 

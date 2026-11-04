@@ -54,7 +54,7 @@ The authors' proposed mechanism is perceptual and cognitive rather than stylisti
 - **Educators.** Deploy [[ai-feedback-quality|automated feedback]] to support strategy use rather than marking answers at the [[k-12|elementary]] and lower-secondary levels, because children aged around twelve in ordinary classrooms acted on the adaptive feedback.
 - **Learning designers.** Do not build a system that only automates delivery of static guidance — it will plateau at the generic median — since the value of an [[llm|LLM]] here comes precisely from contingent diagnosis of the child's own attempt.
 - **Learning designers.** Use adaptivity as a concrete operationalization of contingency, the property that distinguishes [[scaffolding]] from static support, on a task where the quality criteria are explicit and the response is one sentence long.
-- **Learning designers.** Design feedback that provokes self-evaluation rather than transferring the answer, because the adaptive condition places [[metacognition]] in the path and serves the process-focused, self-regulatory function that [[ai-feedback-quality|feedback quality]] frameworks urge.
+- **Learning designers.** Design feedback that provokes [[self-assessment|self-evaluation]] rather than transferring the answer, because the adaptive condition places [[metacognition]] in the path and serves the process-focused, self-regulatory function that [[ai-feedback-quality|feedback quality]] frameworks urge.
 
 ## Limitations
 

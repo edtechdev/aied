@@ -26,7 +26,7 @@ confidence: high
 
 ## Limitations
 
-- All 971 first-year computing students came from a single course taught by the same instructor, and prior knowledge of recursion was not measured, so condition differences may reflect unmeasured preparation.
+- All 971 first-year computing students came from a single course taught by the same instructor, and [[prior-knowledge|prior knowledge]] of recursion was not measured, so condition differences may reflect unmeasured preparation.
 - Students received only two short programming exercises (sumArray plus either randomizeString or countChar) and were tested immediately, which limits the magnitude of any observable effect and may capture short-term rather than durable learning.
 - High overall scores point to a plausible ceiling effect in which small improvements are hard to detect.
 - The study cannot verify whether or how thoroughly students engaged with the explanations, the three explanation dimensions were never compared individually, and students had no chance to ask follow-up questions — closer to an instructor distributing curated written explanations than to a live [[llm|LLM]] deployment.

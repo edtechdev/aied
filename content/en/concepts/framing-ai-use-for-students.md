@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-25T18:05:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Simply making AI available to students was associated with ineffective or even unethical use, while explicitly framing and embedding appropriate use improved outcomes. If the presence of the tool matters less than how it's framed, what does that suggest about the emphasis on simply 'giving students AI'?
-- Most students use generative AI, many are unsure whether their use complies, and they lean on privately accessed tools rather than institutionally provided ones. If knowing the rules barely changes what students do, what might persuade instead of just inform?
+- Most students now use [[generative-ai|generative AI]], few of them are sure whether their own use complies, and they favor tools they access privately over institutional ones. If knowing the rules barely changes what students do, what might persuade instead of just inform?
 - When institutions respond to AI with fear and condemnation, students may hide or rationalize their use rather than learn to use it well. Have you seen a 'moral panic' response push students into secrecy? What would a reframed, opportunity-focused approach look like?
 - Anxiety about AI isn't purely a barrier: students who worried about accuracy and plagiarism were *more* likely to verify and revise AI output rather than accept it uncritically. How might productive anxiety be channeled into evaluative competence instead of being suppressed?
 - Students construct their own sense of what's acceptable through 'sites' — faculty intentions, course documents, peer norms, and institutional messages — that often diverge. When those messages conflict, which one do you think actually wins, and how does framing close that gap?
@@ -31,7 +31,7 @@ The concept sits between two more familiar ones. Where [[technology-acceptance-m
 
 Framing matters because **policy and rules do not reliably change behavior on their own**. Survey [[research-methods-aied|research]] on [[regulation|regulatory]] awareness finds that students' knowledge of institutional GenAI rules shows only weak-to-moderate associations with what they actually do ([[student-regulatory-awareness-genai]]). Knowing the rules is necessary but not sufficient; the message has to *persuade*, not just inform.
 
-Differentiated framing can originate inside a single policy rather than only across sites: a sentiment analysis of 36 university policies found teaching statements positively framed while GenAI and ethics statements were negatively framed, so students met encouragement and restraint in one document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+Differentiated framing can originate inside a single policy rather than only across sites: a [[affective-computing|sentiment analysis]] of 36 university policies found teaching statements positively framed while GenAI and ethics statements were negatively framed, so students met encouragement and restraint in one document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 The frame also shapes whether students experience AI as a **threat to be avoided or evaded** versus a **resource to be used deliberately**. When institutions respond to AI with fear and condemnation — what one line of work calls a recurring "moral panic" — they push students into hiding or rationalizing their use rather than learning to use it well.([[moral-panic-genai-classroom]]) Reframing anxiety and condemnation into structured opportunity changes the whole dynamic of [[student-engagement|student engagement]] with AI.
 
@@ -51,7 +51,7 @@ The most direct framing lever in the knowledge base is supplying the *reason* fo
 
 ### Reframe anxiety and uncertainty into evaluative competence
 
-A [[mixed-methods-research|mixed-methods]] study of academic [[writing-education|writing]] found that AI anxiety is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than accept it uncritically. The study frames [[ai-literacy|AI literacy]] less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.([[ai-anxiety-strategic-regulation-writing-2026]]) Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
+A [[mixed-methods-research|mixed-methods]] study of academic [[writing-education|writing]] found that [[anxiety-and-stress|AI anxiety]] is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than take it at face value. The study frames [[ai-literacy|AI literacy]] less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.([[ai-anxiety-strategic-regulation-writing-2026]]) Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
 
 ### Use targeted messages to shape specific behaviors
 

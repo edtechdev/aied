@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-26T07:55:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 - Most AI models are trained primarily on high-resource languages like English. If you think, study, or are assessed in a different language, how might that systematically disadvantage you — even if the tool seems to 'work' in English?
 - The page warns that unaddressed monolingual bias in AI deepens the digital divide and undermines equity, especially across the Global South. What does genuine equity require beyond simply translating AI content into another language?
 - Automated assessment can exhibit language bias, penalizing non-native speakers even for the same reasoning. If you were implementing AI scoring, what would you check to ensure it is fair across languages rather than just accurate in one?
-- The page shows low-resource languages can be served by fine-tuning models on curated corpora, even under practical hardware constraints. What trade-offs would you expect between efficiency and how faithfully the model handles a low-resource language?
+- The page shows low-resource languages can be served by [[llm-training-and-fine-tuning|fine-tuning]] models on curated corpora, even under practical hardware constraints. What trade-offs would you expect between efficiency and how faithfully the model handles a low-resource language?
 - Multilingual AI must go beyond translation to reflect culturally relevant pedagogy — content that is linguistically *and* contextually appropriate. How might content that is perfectly translated still fail a learner if it ignores local context and culture?
 
 ## Introduction
@@ -33,13 +33,13 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 
 - **Fine-tuning for low-resource languages:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|fine-tuned an instruction-tuned LLM on a curated Nigerian Pidgin corpus]] within an [[adaptive-learning]] platform, and systematically analyzed quantization (4/5/8-bit) trade-offs between semantic fidelity and computational efficiency — showing that low-resource languages can be served with practical hardware constraints. See also the [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companion]] for [[self-regulated-learning|self-regulated learning]].
 - **Corpus and data equity:** building curated corpora (e.g., Nigerian Pidgin, Indian knowledge systems via [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) is a recurring strategy for enabling model output in learners' own languages.
-- **Voice-first and oral contexts:** [[kutti-ai-voice-first-learning-companion|voice-first companions]] and [[structural-silence-underrepresented-language-ai-2026|structural-silence analyses]] address contexts where text-based AI fails speakers of underrepresented languages.
+- **[[speech-and-voice-technologies|Voice-first]] and oral contexts:** [[kutti-ai-voice-first-learning-companion|voice-first companions]] and [[structural-silence-underrepresented-language-ai-2026|structural-silence analyses]] address contexts where text-based AI fails speakers of underrepresented languages.
 
 ## Equity and pedagogy
 
 Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
 
-Translanguaging is an affordance generative chatbots add that earlier language tools lacked. In a systematic review of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+Translanguaging is an affordance generative [[conversational-ai|chatbots]] add that earlier language tools lacked. In a [[meta-analysis-systematic-review|systematic review]] of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Assessment bias
 
@@ -57,7 +57,7 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 
 ## Common Misconceptions
 
-- **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualized phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as scaffolding, not as avoidance.
+- **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualized phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as [[scaffolding]], not as avoidance.
 - **"AI language assessment is biased against multilingual writers."** Here the bias tracked the **human baseline rather than the model**: LLM-based comparative judgment on **Grades 3-6 informational writing converged with researcher rubrics (r = .59-.73)** and showed the same pattern the human raters did. That is not evidence of fairness in absolute terms — it is evidence that the model did not introduce a new distortion on top of the existing one.
 - **"Translation-quality output is the useful part."** The bridge use is explanatory and situated, not substitutive. A tool that replaces the learner's own production removes the practice that the bridging was meant to enable.
 

@@ -54,7 +54,7 @@ Slicing learners by interaction count (0–10, 10–20, above 20) reveals that M
 
 ## Limitations
 
-- Evidence is offline prediction only: three benchmark datasets (ASSISTments2009, EdNet-KT1, XES3G5M) scored with AUC, ACC, RMSE, and F1, with no classroom deployment and no measure of whether sharper mastery estimates change learner or teacher decisions.
+- Evidence is offline prediction only: three benchmark datasets (ASSISTments2009, EdNet-KT1, XES3G5M) scored with AUC, ACC, RMSE, and F1, with no classroom deployment and no measure of whether sharper mastery estimates change learner or [[teacher-role|teacher]] decisions.
 - The authors state that effectiveness "is not very significant in scenarios with a large number of KCs and sparse interaction records," and the pattern is visible in the results: gains on XES3G5M, the dataset with the most knowledge concepts, lagged those on ASSISTments2009 and EdNet-KT1.
 - Preprocessing constrains the headline claim about low-activity learners: sequences with fewer than 5 interactions were filtered out before training and trajectories were segmented to a maximum length of 30, so the 0–10 interaction group contains only learners who already logged at least 5 interactions.
 - The collaborative signal is deliberately coarse: three content-agnostic operators paired with binary correctness, window size N and sequence length K left as hyperparameters that need sensitivity analysis, and time, effort, and affect absent from the behavioral vocabulary.

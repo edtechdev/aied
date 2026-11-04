@@ -25,7 +25,7 @@ The central [[research-methods-aied|methodological]] contribution is the contras
 
 ## Neural biomarkers and feature importance
 
-Beyond classification performance, the authors use feature importance and SHAP analysis to identify temporal and frontal Gamma and Beta oscillations as the most critical biomarkers for familiarity. This connects the benchmarking to the underlying [[learning-analytics|neural signatures of learning]] and suggests which brain signals carry the most information about whether a learner recognizes familiar content.
+Beyond classification performance, the authors use [[explainable-ai|feature importance]] and SHAP analysis to identify temporal and frontal Gamma and Beta oscillations as the most critical biomarkers for familiarity. This connects the benchmarking to the underlying [[learning-analytics|neural signatures of learning]] and suggests which brain signals carry the most information about whether a learner recognizes familiar content.
 
 ## What this means for practice
 

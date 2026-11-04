@@ -58,7 +58,7 @@ If the first three themes describe what to build, the fourth describes where it 
 - **Faculty developers.** Design early childhood professional development as co-design, not tool training: the reviewed educators gained agency and confidence when they shaped the intervention, and technical training alone did not move practice.
 - **Administrators.** Write [[educational-policy-ai|policy]] for the youngest children as its own case: child-specific data rules, transparency requirements, and a stance on robot and character-based tools that anticipates over-trust rather than banning the category.
 - **Policymakers.** Fund [[parents-and-families|family]]-school alignment and participatory research together. The review locates the leverage in the mesosystem, where consistent guidance on [[ethics|ethical AI]] use either reinforces or undermines what happens in the classroom.
-- **Researchers.** Move from mapping to empirical and design-based work across diverse sociocultural contexts, including low- and middle-income settings. That is the review's own recommendation for strengthening the evidence base.
+- **Researchers.** Move from mapping to empirical and design-based work across diverse [[sociocultural-learning|sociocultural]] contexts, including low- and middle-income settings. That is the review's own recommendation for strengthening the evidence base.
 
 ## Limitations
 

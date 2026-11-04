@@ -27,7 +27,7 @@ audience: [instructors, researchers]
 
 **AI-first vs. human-first drafts.** Whether the first draft came from Gen-AI or from students shaped the group workflow: AI-generated drafts served as writing samples and topic familiarization, while human-first drafts were fed to Gen-AI for refinement and expansion. Students also generated multiple AI drafts and selected the highest-quality one.
 
-**Benefits and limitations.** Students reported that Gen-AI reduced preparation time, improved product quality (eloquence, grammatical correctness, coherence), accelerated learning, overcame writer's block, and built transferable academic writing skills. However, they emphasized limitations including AI "hallucination" and fabricated or outdated information, the risk of offloading important cognitive work, and the need for effortful interaction (e.g., asking AI to explain its changes) to actually learn — central considerations for the knowledge base's [[agency]] and [[writing-education]] concepts.
+**Benefits and limitations.** Students reported that Gen-AI reduced preparation time, improved product quality (eloquence, grammatical correctness, coherence), accelerated learning, overcame writer's block, and built transferable academic writing skills. However, they emphasized limitations including AI "[[hallucination-risk|hallucination]]" and fabricated or outdated information, the risk of offloading important cognitive work, and the need for effortful interaction (e.g., asking AI to explain its changes) to actually learn — central considerations for the knowledge base's [[agency]] and [[writing-education]] concepts.
 
 **[[ethics|Ethical considerations]].** Students imposed constraints even within "open" strategies (e.g., no generating or writing false information) and weighed ethical aspects of Gen-AI use in the group context. The authors caution that the findings reflect a small, AI-expert graduate sample and should be interpreted as context-specific rather than a comprehensive taxonomy, but they offer insights into more advanced patterns of Gen-AI use in collaborative writing in [[higher-ed]].
 
@@ -43,7 +43,7 @@ audience: [instructors, researchers]
 
 - Ten postgraduate students (aged 23–39, M = 27.7, SD = 5.4) majoring in AI research volunteered out of 143 students invited from one scientific writing course at a single large Korean university, so the authors caution the findings may not generalize to broader student populations.
 - The sample is AI-expert by design, which the authors say gives insight into advanced patterns of Gen-AI use that may not yet be observable among less experienced users.
-- Data are 30-minute interview accounts plus written reflections, which conflicted on at least one occasion, so reported strategies are self-report and the motivation behind AI use is, by the authors' own observation, more complex than students articulate.
+- Data are 30-minute interview accounts plus written reflections, which conflicted on at least one occasion, so reported strategies are [[self-report-measures|self-report]] and the motivation behind AI use is, by the authors' own observation, more complex than students articulate.
 - Three themes from exploratory thematic coding of one assignment are context-specific rather than a comprehensive taxonomy of collaborative Gen-AI use.
 
 ## Citation

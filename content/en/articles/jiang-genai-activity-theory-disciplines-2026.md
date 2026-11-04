@@ -33,13 +33,13 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 - **Instructors.** State GenAI disclosure expectations explicitly in each course, because disclosure varied significantly by discipline and by course-level policy rather than following a general [[higher-ed|institutional]] norm.
 - **Administrators.** Write discipline-aware GenAI and [[academic-integrity]] guidance instead of one uniform rule; identical policy language lands differently in fields whose course policies, instructor roles, and disciplinary norms diverge.
 - **Faculty developers.** Help instructors align stated course policy with actual classroom practice, since the contradiction between written rules and tolerated use is itself what shapes students' [[student-engagement|use and disclosure]].
-- **Researchers.** Treat disciplinary activity systems — not individual ethics — as the unit of analysis when studying GenAI disclosure, which is a socially situated practice.
+- **Researchers.** Treat disciplinary activity systems — not individual [[ethics]] — as the unit of analysis when studying GenAI disclosure, which is a socially situated practice.
 
 ## Limitations
 
 - All four institutions sit in the northeastern United States and enroll mainly white, middle-class students, so generalization across geographic locations and institutional types is limited.
 - The survey was advertised as one about GenAI, which likely recruited students already familiar with the tools; the most anxious or least experienced students probably did not respond, so reported non-use is understated.
-- Responses were self-reported in a single wave with a gift card incentive, which may have encouraged quick completion, and some students may have underreported use despite anonymity assurances.
+- Responses were [[self-report-measures|self-reported]] in a single wave with a gift card incentive, which may have encouraged quick completion, and some students may have underreported use despite anonymity assurances.
 - Only 560 undergraduates at four institutions were surveyed, graduate students were excluded, and limited demographic data were collected.
 
 ## Citation

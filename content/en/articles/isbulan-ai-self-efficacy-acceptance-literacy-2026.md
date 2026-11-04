@@ -24,7 +24,7 @@ technology: [technology-acceptance-model]
 methods: [quantitative-research]
 ---
 
-> **Synthesis:** İşbulan, Uysal, Caylan Ergene and Ergene surveyed 622 undergraduates at a public university in Türkiye and tested a sequence in which motivational belief comes first, [[ai-literacy|AI literacy]] carries part of the effect, and [[technology-acceptance-model|AI acceptance]] follows: [[self-efficacy|AI self-efficacy]] predicted acceptance directly (B = 0.43, R² = 0.29) and indirectly through literacy (indirect effect B = 0.15, 95% CI [0.12, 0.19]), and acceptance was in turn negatively associated with [[anxiety-and-stress|AI anxiety]] (B = −0.34, R² = 0.05). The design is cross-sectional and self-report, so the authors read the paths as associations rather than causes — they say the acceptance–anxiety link may run either way. Gender and academic year were not entered as controls, and the sample was 79.6% female and drawn from one institution; the authors name each of these as a limit rather than adjusting for it.
+> **Synthesis:** İşbulan, Uysal, Caylan Ergene and Ergene surveyed 622 undergraduates at a public university in Türkiye and tested a sequence in which [[motivation|motivational]] belief comes first, [[ai-literacy|AI literacy]] carries part of the effect, and [[technology-acceptance-model|AI acceptance]] follows: [[self-efficacy|AI self-efficacy]] predicted acceptance directly (B = 0.43, R² = 0.29) and indirectly through literacy (indirect effect B = 0.15, 95% CI [0.12, 0.19]), and acceptance was in turn negatively associated with [[anxiety-and-stress|AI anxiety]] (B = −0.34, R² = 0.05). The design is cross-sectional and [[self-report-measures|self-report]], so the authors read the paths as associations rather than causes — they say the acceptance–anxiety link may run either way. Gender and academic year were not entered as controls, and the sample was 79.6% female and drawn from one institution; the authors name each of these as a limit rather than adjusting for it.
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ methods: [quantitative-research]
 
 ## What this means for practice
 
-The contribution is a *sequence* rather than a single correlation: motivational belief, then knowledge, then acceptance, then affect. That ordering is the part a curriculum can act on, because confidence-building and literacy instruction are separate design choices the model links into one chain.
+The contribution is a *sequence* rather than a single correlation: motivational belief, then knowledge, then acceptance, then affect. That ordering is the part a [[curriculum-design|curriculum]] can act on, because confidence-building and literacy instruction are separate design choices the model links into one chain.
 
 - **Build confidence with scaffolded practice, not with encouragement alone.** The self-efficacy path is the strongest in the model, and the authors' recommendation is mastery-oriented demonstration and guided practice rather than messaging about AI's value.
 - **Treat literacy as the bridge, not the substitute.** Because the mediation is partial, literacy instruction moves acceptance while leaving a direct path that literacy does not explain — a course that only teaches concepts leaves the confidence route untouched, and one that only builds confidence leaves knowledge out.

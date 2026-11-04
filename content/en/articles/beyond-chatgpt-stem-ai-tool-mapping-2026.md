@@ -24,7 +24,7 @@ methods: [meta-analysis-systematic-review]
 foundations: [ai-education]
 ---
 
-> **Synthesis:** Terkowsky, Kaufhold, Meimers, Göring, Boettcher and Wilkesmann mapped the research visibility of 85 curated [[ai-technologies|AI tools]] against the wider tool ecosystem in STEM and engineering education, using 340 standardized searches and semantic screening of titles and abstracts. Of the 85 tools, only 36 appeared anywhere in the literature, and [[conversational-ai|Conversational AI and LLMs]] accounted for 73.7% of the 927 positive paper–tool connections across 592 publications, while only 23 publications had an established laboratory context. The authors call the mismatch a complexity gap: the tool ecosystem is functionally diverse and the research literature is not, and [[ai-education|AI in education]] research is therefore studying a narrow slice of what students and laboratories could use.
+> **Synthesis:** Terkowsky, Kaufhold, Meimers, Göring, Boettcher and Wilkesmann mapped the research visibility of 85 curated [[ai-technologies|AI tools]] against the wider tool ecosystem in STEM and [[engineering-education|engineering education]], using 340 standardized searches and semantic screening of titles and abstracts. Of the 85 tools, only 36 appeared anywhere in the literature, and [[conversational-ai|Conversational AI and LLMs]] accounted for 73.7% of the 927 positive paper–tool connections across 592 publications, while only 23 publications had an established laboratory context. The authors call the mismatch a complexity gap: the tool ecosystem is functionally diverse and the research literature is not, and [[ai-education|AI in education]] research is therefore studying a narrow slice of what students and laboratories could use.
 
 ## Key Findings
 
@@ -55,7 +55,7 @@ The ecosystem is also a snapshot: the curated set represents the tool landscape 
 
 ## What this means for practice
 
-- **Look past the chatbot when choosing what to study or adopt.** 73.7% of research attention went to conversational AI, so an absence of evidence about a simulation, instrument or analytics tool is a gap in the literature, not evidence that the tool does not work.
+- **Look past the chatbot when choosing what to study or adopt.** 73.7% of research attention went to conversational AI, so an absence of evidence about a simulation, instrument or [[learning-analytics|analytics]] tool is a gap in the literature, not evidence that the tool does not work.
 - **Fund and study laboratory-context AI explicitly.** With 23 laboratory publications in the dataset, engineering programs evaluating AI for lab work have almost no comparative base to draw on.
 - **Read a mapping review as a map of attention.** The 36-of-85 figure describes what researchers studied, not what institutions deployed or what students used.
 - **Ask function questions in local evaluations.** "What support does this task need" is answerable within an institution even where the published literature is silent.

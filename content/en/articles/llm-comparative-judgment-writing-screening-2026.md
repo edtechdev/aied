@@ -45,7 +45,7 @@ Predictive-bias patterns for multilingual learners were similar across the LLM-b
 ## Limitations
 
 - All 1,208 students in Grades 3–6 came from a single Midwestern US district of roughly 27,000 students, and the analyzed sample shrank at each wave because of missing or invalid administrations (fall n = 817, winter n = 966, spring n = 1,059).
-- The criterion measures are imperfect indicators of writing: the ELA scale score combined reading and writing, and the state writing rubric scores came from a single composition and were themselves generated with automated writing evaluation.
+- The criterion measures are imperfect indicators of writing: the ELA scale score combined reading and writing, and the state writing rubric scores came from a single composition and were themselves generated with [[automated-essay-scoring|automated writing evaluation]].
 - Only one writing sample per student was collected at each screening wave, so the study cannot separate the benefit of averaging more samples from the benefit of sampling across occasions.
 - The study never compared LLM-based comparative judgment with human-performed comparative judgment on the same essays, and the authors warn that rapid LLM development limits generalization from these specific model rankings and cost comparisons.
 

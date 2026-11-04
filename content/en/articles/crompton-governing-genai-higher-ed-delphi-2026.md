@@ -42,7 +42,7 @@ This paper provides the knowledge base's most authoritative, globally consensus-
 - **Administrators.** Build governance around the eight consensus areas, academic integrity, ethical use, privacy, equitable access, GenAI literacy, integration strategy, human oversight, and institutional support, rather than issuing a standalone integrity rule.
 - Establish a standing multidisciplinary GenAI committee and scheduled policy review cycles; each was recommended by more than half the panel.
 - Keep a human in the loop: half the panel insisted that significant GenAI outputs be reviewed and validated by a person, with accountability never abdicated to an algorithm.
-- Prefer process-focused and oral assessments that evaluate higher-order skills over outputs a model could readily generate.
+- Prefer process-focused and [[oral-assessment|oral assessments]] that evaluate higher-order skills over outputs a model could readily generate.
 
 ## Limitations
 

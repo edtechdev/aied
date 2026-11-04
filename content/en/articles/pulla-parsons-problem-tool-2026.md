@@ -83,7 +83,7 @@ For [[learning-design|instructional design]] and [[assessment]] practice, the pa
 - The cross-deployment comparison was constrained to exception handling, the only topic common to both curricula, and may not generalize to other domains.
 - The Aalto cohort was small (n = 36) and its students worked online at their own pace without institutional authentication, which limits the weight of the cross-deployment comparison.
 - The dashboard's value depends on instructor engagement: AI-assisted analysis runs only on demand, and the instructor evidence comes from two instructors, one per site.
-- The tool was deployed in two courses, which the authors state is insufficient to support strong generalizability claims; the control-flow ordering pattern is confounded with the differences in language, course level and student population between the two sites.
+- The tool was deployed in two courses, which the authors state is insufficient to support strong generalizability claims; the control-flow ordering pattern is confounded with the differences in language, course level and [[learners|student population]] between the two sites.
 
 ## Citation
 

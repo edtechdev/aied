@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-26T09:10:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -50,11 +50,11 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 
 ## Executive function and reliance
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff and Daukantaitė (2026)]] define reliance narrowly — preferring generative AI over one's own effort or teacher support, plus difficulty initiating schoolwork without it — and test it in two Swedish community samples of adolescents (849 lower-secondary students, analytic n = 735, and 898 upper-secondary students, analytic n = 839). Executive-functioning difficulties ran through perceived usefulness and habitual use to reliance in both samples, with small indirect effects (β = .10, 95% CI [.06, .14] in the lower-secondary sample; β = .08, 95% CI [.04, .12] in the upper-secondary sample). The practical reading: the students who most need support with initiation are the ones for whom a convenient tool most easily becomes the default route rather than one option — and the effect sizes here are small enough that this is a design concern, not a diagnosis.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff and Daukantaitė (2026)]] define reliance narrowly — preferring generative AI over one's own effort or [[teacher-role|teacher]] support, plus difficulty initiating schoolwork without it — and test it in two Swedish community samples of adolescents (849 lower-secondary students, analytic n = 735, and 898 upper-secondary students, analytic n = 839). Executive-functioning difficulties ran through [[technology-acceptance-model|perceived usefulness]] and habitual use to reliance in both samples, with small indirect effects (β = .10, 95% CI [.06, .14] in the lower-secondary sample; β = .08, 95% CI [.04, .12] in the upper-secondary sample). The practical reading: the students who most need support with initiation are the ones for whom a convenient tool most easily becomes the default route rather than one option — and the effect sizes here are small enough that this is a design concern, not a diagnosis.
 
 ## Design cautions
 
-- **Diagnosis-gated support excludes the learners it does not name.** The scoping review's critique applies directly to how AI features are deployed: if a feature is unlocked by an accommodation letter, learners with functional differences but no diagnosis never see it.
+- **Diagnosis-gated support excludes the learners it does not name.** The [[meta-analysis-systematic-review|scoping review]]'s critique applies directly to how AI features are deployed: if a feature is unlocked by an accommodation letter, learners with functional differences but no diagnosis never see it.
 - **Detector-driven processes can deter legitimate accommodation use.** Where a language technology functions as an effective accommodation for a neurodivergent learner, a blanket prohibition or a detector-driven process that deters its legitimate use raises equality considerations — the annulled misconduct case the [[ai-detection|detection]] literature documents involved a student in an autism-spectrum support program ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Tools can exclude epistemically, not just poorly.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argues that Anglophone, Western-centric training data marginalizes non-hegemonic ways of knowing, and puts the situation of disabled learners at the center of that critique — a warning that "inclusive" AI can still encode whose knowledge counts.
 - **Behavior signals are read by systems that do not know the learner.** Interpretation of [[student-engagement|engagement]], struggle or attention in [[learning-analytics]] and [[student-modeling]] assumes a normative pattern of response; see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] for the fairness evidence on that assumption.
@@ -73,7 +73,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 
 ## Common Misconceptions
 
-- **"Neurodiversity research is a niche corner of AIED."** The field has **reorganised around [[generative-ai|generative AI]] — 15 of the 40 studies** — with immersive formats second at 11. The literature moved with the technology rather than accumulating around stable questions.
+- **"Neurodiversity research is a niche corner of [[ai-education|AIED]]."** The field has **reorganised around [[generative-ai|generative AI]] — 15 of the 40 studies** — with immersive formats second at 11. The literature moved with the technology rather than accumulating around stable questions.
 - **"More AI for dyslexia means better support."** [[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers **72 studies across 2018-2024** and finds AI used across a wide span of purposes. Breadth of application is not evidence of effectiveness for any one of them.
 - **"Accommodations are the right frame for neurodivergent learners."** [[neurodivergent-computing-students|A survey of 24 neurodivergent computing students and 20 neurotypical peers]] with four in-depth interviews found needs that are **general design requirements** — structured assignments, small consistent teams, explicit roles — rather than individual adjustments granted after a diagnosis.
 

@@ -99,7 +99,7 @@ Content experts will work out the integration themselves. Content knowledge did 
 
 One framework will cover everyone. The six-role standard exists because TPACK, SAMR and the major educator standards cover K-12 teachers or the teaching dimension alone.
 
-Resistance is a knowledge gap to be filled. Risk aversion predicted intention negatively, and the identity work describes faculty reasoning from pedagogical values. Some of what looks like reluctance is a defensible position about student overreliance.
+Resistance is a knowledge gap to be filled. Risk aversion predicted intention negatively, and the [[learner-identity|identity work]] describes faculty reasoning from pedagogical values. Some of what looks like reluctance is a defensible position about student overreliance.
 
 ## What will come back at you
 

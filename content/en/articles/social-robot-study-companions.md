@@ -24,7 +24,7 @@ confidence: high
 
 ## Study Design & Method
 
-Open-source social robots offer [[accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing hands-on learning, or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
+[[open-source]] social robots offer [[accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing [[experiential-learning|hands-on learning]], or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
 
 ## What this means for practice
 
@@ -36,7 +36,7 @@ Open-source social robots offer [[accessibility]], repairability, and student em
 
 ## Limitations
 
-- Study 1 benchmarked the RSC development team itself: four developers, two of them senior, evaluating a redesign they had worked on, which the authors flag as self-evaluation bias.
+- Study 1 benchmarked the RSC development team itself: four developers, two of them senior, evaluating a redesign they had worked on, which the authors flag as [[self-assessment|self-evaluation]] bias.
 - Study 2 validated only v4.1 with seven students from two partner universities (Guyana n = 4, Tartu n = 3), so user-side gains cannot be quantified as a within-subjects delta.
 - Study 1's task order may have inflated v4 performance through practice transfer, and the deliberately thinned alpha-stage v4.1 documentation means the cross-version documentation clarity scores do not fully reflect documentation quality.
 - Thematic coding lacked inter-rater reliability checks, and the single-session design cannot capture long-term attachment or perceived agency.

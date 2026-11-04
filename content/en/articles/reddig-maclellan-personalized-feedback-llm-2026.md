@@ -27,11 +27,11 @@ level: [higher ed]
 
 ## What this means for practice
 
-- **EdTech designers.** Put the LLM inside the tutor's structured context: supplying the interface structure and the Bayesian [[knowledge-tracing]] skill estimate raised logical-error identification on factoring problems from 40% to 81%.
+- **[[educational-technology-developers|EdTech designers]].** Put the LLM inside the tutor's structured context: supplying the interface structure and the Bayesian [[knowledge-tracing]] skill estimate raised logical-error identification on factoring problems from 40% to 81%.
 - **EdTech designers.** Route multi-step problems and responses containing more than one error to human or rule-based review, since diagnosis accuracy fell sharply there even though it averaged 87.8% overall.
 - **Instructors.** Ask for the answer, not the whole argument, when time is short: 66% of generated hints targeted the student's specific mistake and only 4.8% contained factually incorrect directions, but 35% were too general, incorrect, or gave the answer away.
 - **EdTech designers.** Do not let a model certify its own hints: the automated checks passed only 30% of targeted feedback and favored hints that gave away the answer, so [[ai-feedback-quality|feedback quality]] needs human or independently validated review.
-- **Researchers.** Pair hint-quality audits with outcome measures before scaling: the quality evidence here comes from transaction logs and coder ratings, leaving any claim about learning gains untested.
+- **Researchers.** Pair hint-quality audits with outcome measures before scaling: the quality evidence here comes from transaction logs and coder ratings, leaving any claim about [[learning-gains|learning gains]] untested.
 
 ## Limitations
 

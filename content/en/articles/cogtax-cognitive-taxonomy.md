@@ -15,7 +15,7 @@ audience: [instructors, assessment designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Proposes CogTax, a four-level cognitive taxonomy for command-line computing education that integrates Bloom's Revised Taxonomy with operational impact dimensions, achieving 89% accuracy in automated classification.
+> **Synthesis:** Proposes CogTax, a four-level cognitive taxonomy for command-line [[cs-education|computing education]] that integrates Bloom's Revised Taxonomy with operational impact dimensions, achieving 89% accuracy in automated classification.
 
 ## Key Contributions
 
@@ -25,9 +25,9 @@ page_kind: [framework]
 
 - **Instructors.** Audit an existing command bank for level distribution before teaching with it, so the cognitive depth of the assessment is explicit rather than assumed.
 - **Instructors.** Give students immediate feedback on the complexity level of commands they meet in documentation or online resources, and flag higher-level commands for additional [[scaffolding]].
-- **Assessment designers.** Calibrate item difficulty across the four levels instead of treating all command-line tasks as comparable; the classifier agrees with expert labels on 89% of held-out commands.
+- **Assessment designers.** Calibrate [[item-response-theory|item difficulty]] across the four levels instead of treating all command-line tasks as comparable; the classifier agrees with expert labels on 89% of held-out commands.
 - **Assessment designers.** Graduate accommodations by taxonomy level — for example, longer time extensions for higher-level commands — rather than granting one blanket extension.
-- **Instructors.** Keep pedagogical oversight of whatever the classifier automates, using its level labels to sequence content and target support rather than as a substitute for instructional judgment.
+- **Instructors.** Keep [[pedagogy|pedagogical]] oversight of whatever the classifier automates, using its level labels to sequence content and target support rather than as a substitute for instructional judgment.
 
 ## Limitations
 

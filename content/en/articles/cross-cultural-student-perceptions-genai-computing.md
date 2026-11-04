@@ -29,7 +29,7 @@ The result complicates the knowledge base's [[academic-integrity]] thread: polic
 
 - Two universities only, one in Canada and one in South Korea, so variation within each country across regions, disciplines and institution types is not captured.
 - Sample sizes were disproportionate: 262 students at the Canadian institution (62% of a 420-student course) against 48 at the Korean institution (74% of 65); expanding the Korean sample was not feasible without breaking comparability.
-- Judgments were self-reported responses to hypothetical scenarios, so they may differ from real coursework behavior and are subject to social desirability bias and differing item interpretation across cultures.
+- Judgments were [[self-report-measures|self-reported]] responses to hypothetical scenarios, so they may differ from real coursework behavior and are subject to social desirability bias and differing item interpretation across cultures.
 - Scenario-level contrasts may partly reflect cross-cultural response-style differences such as neutral-category use, so the Mann-Whitney U results should not be read as pure median shifts.
 
 ## Citation

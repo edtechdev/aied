@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This embedded case study followed eight in-service teachers from rural and under-resourced districts through a [[generative-ai|generative AI]]-guided professional development program of ten interactive modules, asking how teachers engaged with mathematical [[creativity]] (MC), content knowledge (CK), and pedagogical content knowledge (PCK), and which AI features shaped that engagement. Teachers worked on proportional reasoning, interpreted simulated student thinking, and revised instructional decisions; dialogue logs, mathematical artifacts and interviews were analyzed through iterative thematic analysis. The authors report three cross-case themes: creative mathematical exploration, conceptual deepening of proportional reasoning, and expansion of pedagogical reasoning. They name six core AI-mediated mechanisms (adaptive and personalized prompting, real-time feedback, progressive scaffold fading, simulated student reasoning, conversational nonjudgmental tone, flexible pacing) plus two cross-cutting mechanisms, representational nudges and cycles of creative challenge and [[reflection]]. Teachers described the AI as a thinking partner rather than a content-delivery tool and credited it with enabling productive struggle in a psychologically safe environment. The study reports engagement patterns, not measurable gains in teacher knowledge or student learning.
+> **Synthesis:** This embedded case study followed eight in-service teachers from rural and under-resourced districts through a [[generative-ai|generative AI]]-guided [[educational-development|professional development]] program of ten interactive modules, asking how teachers engaged with mathematical [[creativity]] (MC), content knowledge (CK), and [[pedagogy|pedagogical]] content knowledge (PCK), and which AI features shaped that engagement. Teachers worked on proportional reasoning, interpreted simulated student thinking, and revised instructional decisions; dialogue logs, mathematical artifacts and interviews were analyzed through iterative thematic analysis. The authors report three cross-case themes: creative mathematical exploration, conceptual deepening of proportional reasoning, and expansion of pedagogical reasoning. They name six core AI-mediated mechanisms (adaptive and personalized [[prompt-engineering|prompting]], real-time feedback, progressive scaffold fading, simulated student reasoning, conversational nonjudgmental tone, flexible pacing) plus two cross-cutting mechanisms, representational nudges and cycles of creative challenge and [[reflection]]. Teachers described the AI as a thinking partner rather than a content-delivery tool and credited it with enabling [[desirable-difficulties|productive struggle]] in a psychologically safe environment. The study reports engagement patterns, not measurable gains in [[teacher-role|teacher]] knowledge or student learning.
 
 ## Key Findings
 
@@ -33,8 +33,8 @@ reviewed_by: [editor]
 2. **Three cross-case themes.** Engagement centered on creative mathematical exploration, conceptual deepening of proportional reasoning, and expansion of pedagogical reasoning, which the authors treat as trajectories unfolding across the modules.
 3. **MC, CK, and PCK moved together.** The authors report that teachers engaged with mathematical creativity, content knowledge, and pedagogical content knowledge as interconnected forms of reasoning rather than as isolated domains.
 4. **Six core mechanisms, two cutting across.** The abstract names six core AI-mediated mechanisms and adds two cross-cutting ones, representational nudges and cycles of creative challenge and reflection, that supported movement among the three domains.
-5. **Simulated student reasoning anchored PCK.** Across Modules 6-10 the AI presented hypothetical student responses or misconceptions and asked teachers to diagnose the reasoning behind them, moving teachers from correcting errors to interpreting students' logic.
-6. **A nonjudgmental tone enabled productive struggle.** Teachers called the AI "patient," "neutral," and "encouraging," saying its non-evaluative conversational feedback reduced performance anxiety and positioned the system as a thinking partner.
+5. **Simulated student reasoning anchored PCK.** Across Modules 6-10 the AI presented hypothetical student responses or [[misconceptions]] and asked teachers to diagnose the reasoning behind them, moving teachers from correcting errors to interpreting students' logic.
+6. **A nonjudgmental tone enabled productive struggle.** Teachers called the AI "patient," "neutral," and "encouraging," saying its non-evaluative conversational feedback reduced performance [[anxiety-and-stress|anxiety]] and positioned the system as a thinking partner.
 
 ## What the professional development looked like
 
@@ -60,8 +60,8 @@ Adaptive prompting kept teachers from "slipping into teacher autopilot"; Teacher
 
 - The design is an embedded case study of eight teachers who completed all ten modules, so it identifies engagement patterns rather than causal effects and uses no comparison group.
 - There were no pre/post measures, classroom observations or student outcomes, so findings are not evidence of measurable gains or of transfer to practice.
-- Teachers reported design constraints including repetition, notation or formatting glitches, hallucination risk, limited visualization tools, and lack of peer learning.
-- The evidence base is qualitative logs, artifacts and interviews from a purposeful sample; the authors call for larger and comparative samples to test transfer.
+- Teachers reported design constraints including repetition, notation or formatting glitches, [[hallucination-risk|hallucination risk]], limited [[visualization]] tools, and lack of [[collaborative-learning|peer learning]].
+- The evidence base is [[qualitative-research|qualitative]] logs, artifacts and interviews from a purposeful sample; the authors call for larger and comparative samples to test transfer.
 
 ## Citation
 

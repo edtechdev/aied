@@ -27,7 +27,7 @@ ai_assist:
 ## Key Findings
 
 1. **The boundary is about what gets handed over, not whether AI is used.** Students described AI as acceptable for organizing, explaining, translating, summarizing and critiquing their own work, and unacceptable when it produced the work itself: "use AI to enhance, not to create."
-2. **Their reasons for keeping work their own are distinct motives.** Worries about losing critical-thinking and writing skill differ from wanting to feel pride in authorship, which differs again from moral objections about environmental cost, plagiarism and originality; the authors argue research should examine these separately.
+2. **Their reasons for keeping work their own are distinct motives.** Worries about losing critical-thinking and writing skill differ from wanting to feel pride in authorship, which differs again from moral objections about environmental cost, [[academic-integrity|plagiarism]] and originality; the authors argue research should examine these separately.
 3. **Purpose explains less than the field assumes.** Of 14 participants, one directly tied an AI refusal to her purpose, one worried AI would erode skills her purpose depends on, three had future professional goals shape their thinking, and several others described purposes without connecting them to any AI choice.
 4. **The same student can reason both ways.** Participant 2 said the grade should reflect her own work and then, under deadline pressure, that "there's no time to hold on to my pride right now. I need to just use AI to get it done."
 5. **Task interest shifts use within a person.** Participant 7 wanted his own thoughts in academic work but said of an uninteresting field, "I would just let AI do it," which the authors read as evidence against a fixed per-student AI-use style.
@@ -72,7 +72,7 @@ The authors draw an institutional rather than an individual conclusion. If grade
 - The sample skews toward psychology, applied psychology, neuroscience and related majors, and most participants reporting class year were juniors or seniors, which may have shaped which concerns surfaced.
 - The interviews were not recruited iteratively and the authors explicitly decline to claim thematic or meaning saturation, particularly for purpose; the protocol was designed for a broader study of AI experiences, so 35–45 minute interviews constrained depth on any one topic, and participants varied in what they understood "purpose" to mean.
 - All accounts are retrospective self-reports, so consistency between stated values and actual behavior across situations cannot be established, and no causal claim about reasons, circumstances and AI-use patterns is supported.
-- Nothing links students' worries about losing skills to measured change in their writing, critical thinking or other abilities; the paper states this plainly rather than implying the concerns are calibrated.
+- Nothing links students' worries about losing skills to measured change in their writing, [[critical-thinking|critical thinking]] or other abilities; the paper states this plainly rather than implying the concerns are calibrated.
 - One of the undergraduate interviewers later joined the analysis, and the authors disclose that his own experience may have made him more likely to notice purpose–AI connections, describing the counterexample checks they used in response.
 
 ## Citation

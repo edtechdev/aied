@@ -53,7 +53,7 @@ Three features distinguish it from generic [[higher-ed|higher education]] govern
 - **Administrators.** Involve students, faculty and staff fully in drafting those guidelines, both to prevent backlash and to produce well-rounded rules.
 - **Administrators.** Be well informed about impact, enforceability and adaptability before acting, build governance designed to be flexible because the technology changes continuously, and schedule periodic review on the authors’ view that policy generation is not a one-time event.
 - **Instructors.** Deliver and take part in proactive training for students and faculty, which the authors place alongside the rules themselves.
-- **Administrators.** Prefer institutional self-regulation: schools should not wait for the ABA to dictate policy but should share what works and govern collaboratively, a call to action and a commitment to integrity that concedes reasonable minds can differ on the substance.
+- **Administrators.** Prefer institutional [[self-regulated-learning|self-regulation]]: schools should not wait for the ABA to dictate policy but should share what works and govern collaboratively, a call to action and a commitment to integrity that concedes reasonable minds can differ on the substance.
 
 ## Limitations
 

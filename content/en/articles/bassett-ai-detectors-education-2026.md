@@ -16,7 +16,7 @@ audience: [policymakers, administrators]
 institutions: [educational-policy-ai, governance]
 ---
 
-> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: [[research-methods-aied|methodological]] imperfection (unverifiable probabilistic estimates), violation of [[legal-issues-and-risks|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorizing text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognizes AI's role in learning.
+> **Synthesis:** Bassett et al. (2026) argue that [[generative-ai|generative AI]] detection should not be used in education, on three grounds: [[research-methods-aied|methodological]] imperfection (unverifiable probabilistic estimates), violation of [[legal-issues-and-risks|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorizing text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognizes AI's role in learning.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ Generative AI detectors analyze a text's statistical and linguistic features and
 
 ## The false dichotomy and the boundaries of assessment
 
-The paper argues that the binary human-or-AI classification is conceptually flawed: students' work is frequently created *with*, not *by*, AI, via a hybrid process in which AI assistance is incorporated in various ways and at various stages. It also examines the undefined boundaries of assessment — policies using phrases like "in assessment" fail to specify when an assessment begins, so AI-assisted research, planning, or editing may or may not be a violation depending on interpretation. AI use exists along a continuum (citing Molenaar's hybrid human–AI intelligence model), making enforcement dependent on subjective judgment rather than principled criteria.
+The paper argues that the binary human-or-AI classification is conceptually flawed: students' work is frequently created *with*, not *by*, AI, via a hybrid process in which AI assistance is incorporated in various ways and at various stages. It also examines the undefined boundaries of assessment — policies using phrases like "in assessment" fail to specify when an assessment begins, so [[ai-assisted-educational-research|AI-assisted research]], planning, or editing may or may not be a violation depending on interpretation. AI use exists along a continuum (citing Molenaar's hybrid human–AI intelligence model), making enforcement dependent on subjective judgment rather than principled criteria.
 
 ## Procedural fairness and security
 
@@ -49,9 +49,9 @@ AI detection raises security concerns around data storage and retention (includi
 ## Limitations
 
 - This is a conceptual and normative argument, not an empirical study: it reports no detector-accuracy experiments of its own, so its claims about methodological failure rest on reasoning and prior literature, including others' evaluations such as Turnitin's test on 700,000 pre-2019 papers.
-- The procedural-fairness argument is built on the balance-of-probabilities evidentiary standard used in the authors' own higher education misconduct procedures, so its transfer to other jurisdictions, sectors, or legal frameworks is argued rather than demonstrated.
+- The procedural-fairness argument is built on the balance-of-probabilities evidentiary standard used in the authors' own [[higher-ed|higher education]] misconduct procedures, so its transfer to other jurisdictions, sectors, or legal frameworks is argued rather than demonstrated.
 - The central premise — that real-world text origin is unknowable, so detector output cannot be independently verified — is framed so that no available empirical test could settle it, leaving the paper's core claim unfalsifiable within the setting it critiques.
-- The authors write from a shared institutional position across Australian universities and one secondary school, and their recommendations for assessment redesign are proposals rather than tested interventions.
+- The authors write from a shared institutional position across Australian universities and one [[k-12|secondary school]], and their recommendations for assessment redesign are proposals rather than tested interventions.
 
 ## Citation
 

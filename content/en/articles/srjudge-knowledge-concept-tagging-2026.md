@@ -30,7 +30,7 @@ source_depth: full text
 3. Adding the [[reinforcement-learning|GRPO-trained]] Reasoner lifts F1 by 2.02%, 0.96%, and 1.92% on S Math, S Bio, and S Phy compared with the Selector alone.
 4. A dynamic position reward that scales with the training step and the pruning rate beats both no reward and a static reward, reaching F1 0.7491 on S Math.
 5. Pruning low-advantage completions at a rate of 0.5 raises F1 slightly while cutting training time on S Math from 14.1 to 7.2 hours.
-6. Zero-shot chain-of-thought prompting is far weaker than supervised fine-tuning: GPT-4.1 scores F1 0.5047 on S Math and 0.3664 on S Phy.
+6. Zero-shot chain-of-thought prompting is far weaker than supervised [[llm-training-and-fine-tuning|fine-tuning]]: GPT-4.1 scores F1 0.5047 on S Math and 0.3664 on S Phy.
 
 ## The Select–Reason–Judge pipeline
 

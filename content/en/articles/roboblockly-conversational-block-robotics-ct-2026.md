@@ -15,7 +15,7 @@ audience: [instructors, instructional designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Li, Du, Sun, and colleagues (2026) design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a [[conversational-ai|conversational AI]] [[teacher-role|teaching]] agent, and [[embodied-learning|embodied]] robot execution to support computational thinking. Recognizing that learners and teachers face challenges connecting abstract program logic to meaningful outcomes, the system creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: preserving [[agency|learner agency]], making program behavior transparent, grounding programming in embodied classroom-aligned tasks, and [[scaffolding]] [[reflection]] through AI dialogue. It was deployed with 32 high school students.
+> **Synthesis:** Li, Du, Sun, and colleagues (2026) design and evaluate RoboBlockly Studio, an integrated interactive system that combines [[cs-education|block-based programming]], a [[conversational-ai|conversational AI]] [[teacher-role|teaching]] agent, and [[embodied-learning|embodied]] robot execution to support computational thinking. Recognizing that learners and teachers face challenges connecting abstract program logic to meaningful outcomes, the system creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: preserving [[agency|learner agency]], making program behavior transparent, grounding programming in embodied classroom-aligned tasks, and [[scaffolding]] [[reflection]] through AI dialogue. It was deployed with 32 high school students.
 
 ## Key Findings
 
@@ -31,9 +31,9 @@ This is a **design-based development and deployment study**. The [[research-meth
 ## What this means for practice
 
 - **Teachers.** Make program behavior visible during debugging: students used robot collisions and unintended detours as perceptual cues to localize failure, then corrected the specific block — as when P10 traced execution step by step and found a misplaced turn block rather than the end of the program.
-- **Teachers.** Pair an embodied run with Execution Trace and Step-by-Step supports when the robot is unavailable, because learners then relied on stepwise inspection plus AI feedback to find where their reasoning diverged from expected behavior.
-- **Instructional designers.** Route student errors into an AI Hint or Error Feedback loop that points to the program segment to revise, so learners treat mistakes as actionable signals for refining both code and strategy instead of receiving the corrected program.
-- **Instructional designers.** Harden LLM-based checking before classroom use: the checker occasionally flagged functionally correct but unconventional block sequences as incorrect, so verify flagged solutions before they discourage valid [[computational-thinking|CT]] strategies.
+- **Teachers.** Pair an embodied run with Execution Trace and Step-by-Step supports when the robot is unavailable, because learners then relied on stepwise inspection plus [[ai-feedback-quality|AI feedback]] to find where their reasoning diverged from expected behavior.
+- **Instructional designers.** Route student errors into an AI Hint or Error [[feedback|Feedback loop]] that points to the program segment to revise, so learners treat mistakes as actionable signals for refining both code and strategy instead of receiving the corrected program.
+- **Instructional designers.** Harden [[llm]]-based checking before classroom use: the checker occasionally flagged functionally correct but unconventional block sequences as incorrect, so verify flagged solutions before they discourage valid [[computational-thinking|CT]] strategies.
 
 ## Limitations
 

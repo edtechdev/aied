@@ -55,7 +55,7 @@ Asked about instructors using AI to produce feedback on their work, most partici
 
 ## What this means for practice
 
-- **Instructors.** Write feedback that names the exact sentence, paragraph or move that needs work and the specific revision that would fix it, since specificity was the only predictor that survived in the student model and the idea the focus groups returned to throughout.
+- **Instructors.** Write feedback that names the exact sentence, paragraph or move that needs work and the specific revision that would fix it, since specificity was the only predictor that survived in the [[student-modeling|student model]] and the idea the focus groups returned to throughout.
 - **Instructors.** Do not treat a model's ranking of feedback quality as a proxy for student judgment, because the two orderings in Study 1 shared approximately 11% of their variance even though the model's own definition named the same criteria students used.
 - **Instructors.** If you generate a first pass, read the student's work and add substantive comments before sending it, and say that you did, because students accepted [[human-in-the-loop-ai]] feedback only when the instructor's own reading was visibly part of it.
 - **Faculty developers.** Build the disclosure conversation into [[feedback-literacy]] programming for staff as well as students, since participants wanted to know when AI was involved and one admitted preferring ignorance.

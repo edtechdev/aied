@@ -13,7 +13,7 @@ page_kind: [synthesis, evaluation]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** **Reinforcement Learning in Education: A Systematic Literature Review** — A PRISMA-standard systematic literature review of [[reinforcement-learning]] (RL) applications in education, synthesizing 89 manuscripts published 2000–2024 across IEEE Xplore, Google Scholar, and ACM. The authors map the educational contexts, evaluation strategies, RL algorithms, and adaptation mechanisms used in the field, finding promising but methodologically uneven evidence that RL can support [[adaptive-learning]] and [[personalized-learning]] in contexts such as [[intelligent-tutoring]] and [[math-education]]. They report that while over half of studies conducted no statistical testing, those that did frequently showed RL policies outperforming baselines, and they distill a set of best practices for implementing RL in educational practice.
+> **Synthesis:** **Reinforcement Learning in Education: A Systematic [[meta-analysis-systematic-review|Literature Review]]** — A PRISMA-standard systematic literature review of [[reinforcement-learning]] (RL) applications in education, synthesizing 89 manuscripts published 2000–2024 across IEEE Xplore, Google Scholar, and ACM. The authors map the educational contexts, evaluation strategies, RL algorithms, and adaptation mechanisms used in the field, finding promising but methodologically uneven evidence that RL can support [[adaptive-learning]] and [[personalized-learning]] in contexts such as [[intelligent-tutoring]] and [[math-education]]. They report that while over half of studies conducted no statistical testing, those that did frequently showed RL policies outperforming baselines, and they distill a set of best practices for implementing RL in educational practice.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ methods: [meta-analysis-systematic-review]
 - **Designers.** Prefer classical model-free [[reinforcement-learning|RL]] (Q-learning was the most frequently used algorithm, n = 28) before reaching for deep RL: significantly more classical RL papers (61%) than DRL papers (36%) achieved superiority over their baselines.
 - **Designers.** Target guidance before content scheduling — hints, [[feedback]], and activity selection — since RL showed statistically significant superiority more often for guidance-related adaptation than for instructional sequencing.
 - **Researchers.** Design the comparison properly: RL policies outperformed only about half of expert-designed and non-adaptive baselines, so report non-adaptive and expert baselines alongside algorithmic ones instead of comparing only against weaker or random policies.
-- **Researchers.** Evaluate with real learners and over time, because roughly half of the reviewed papers evaluated live (n = 41) while others used interaction datasets or simulated students, and the field lacks longitudinal evidence that short-term interaction produces sustained learning.
+- **Researchers.** Evaluate with real learners and over time, because roughly half of the reviewed papers evaluated live (n = 41) while others used interaction datasets or [[simulating-students|simulated students]], and the field lacks longitudinal evidence that short-term interaction produces sustained learning.
 
 ## Limitations
 

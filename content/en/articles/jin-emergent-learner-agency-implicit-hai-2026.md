@@ -29,7 +29,7 @@ level: [higher ed]
 - **Instructors.** Deploy contrarian or challenging AI personas sparingly, or late once group norms are established: contrarian personas reduced teamwork satisfaction (ε² = .062) and psychological safety (ε² = .114) without producing creative performance gains.
 - **Instructional designers.** Use supportive personas to hold cohesion and momentum — the Safe Convergence motif (Idea→Agreement→Integration) appeared in 45.5% of supportive groups.
 - **Instructional designers.** Bound friction where you do introduce it: constrain critique frequency and intensity, pair challenges with integrative prompts, and add repair moves such as acknowledgment, summarizing, and option generation.
-- **Instructors.** Teach meta-collaborative literacy — how to interpret, accept or reject, and retain ownership of AI suggestions — because AI reshaped discourse even when learners did not know a teammate was AI, as with writing assistants and recommender systems.
+- **Instructors.** Teach meta-collaborative literacy — how to interpret, accept or reject, and retain ownership of AI suggestions — because AI reshaped discourse even when learners did not know a teammate was AI, as with writing assistants and [[recommender-systems-and-learning-paths|recommender systems]].
 - **Researchers.** Read structural markers of productive discourse alongside their affective consequences rather than as proxies for [[learning-gains|learning]]: the Productive Friction motif appeared in 38.2% of contrarian groups yet did not raise creative performance.
 
 ## Limitations

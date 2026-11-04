@@ -33,16 +33,16 @@ The paper connects the [[cognitive-diagnosis]] [[research-methods-aied|research]
 
 ## What this means for practice
 
-- **Learning analytics designers.** Aggregate at the prediction level rather than centralizing response records: the framework keeps student data local and shares only model predictions to LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku.
+- **[[learning-analytics|Learning analytics]] designers.** Aggregate at the prediction level rather than centralizing response records: the framework keeps student data local and shares only model predictions to LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku.
 - **Learning analytics designers.** Price the privacy budget before ruling it out as impractical: ε = 2.0 local differential privacy cost roughly 0.40% MAE on ASSIST09 while the improvements stayed statistically significant (p < 0.001, Cohen's d = 0.85).
 - **Researchers.** Keep residual-based correction when federating heterogeneous LLMs — ablations show aggregation is the primary performance driver and residual correction is essential, with gains varying by domain (14.21% on ASSIST09, 7.39% on GSM8K, 14.40% on UCI).
-- **Administrators.** Recognize what local differential privacy does not cover: it shields published diagnostic vectors from re-identification, but not provider logging of submitted queries, so end-to-end privacy requires locally hosted open-source models and prompt data minimization.
+- **Administrators.** Recognize what local differential privacy does not cover: it shields published diagnostic vectors from re-identification, but not provider logging of submitted queries, so end-to-end privacy requires locally hosted [[open-source]] models and prompt data minimization.
 
 ## Limitations
 
 - The privacy guarantee rests on an honest-but-curious assumption: local differential privacy protects published diagnostic outputs from the aggregator and downstream observers, but does not prevent commercial API providers from logging submitted queries.
 - All three federation members are commercial foundation models accessed through APIs, so the system inherits provider behavior — the authors note model updates may shift performance and that residual correction may require periodic recalibration.
-- Evaluation is limited to three structured educational benchmarks (ASSIST09's top four concepts, GSM8K's five extracted concepts, and UCI's 649 students), and the authors state that extending the framework to open-ended assessment tasks may require adapted prompt engineering.
+- Evaluation is limited to three structured educational benchmarks (ASSIST09's top four concepts, GSM8K's five extracted concepts, and UCI's 649 students), and the authors state that extending the framework to open-ended assessment tasks may require adapted [[prompt-engineering|prompt engineering]].
 - The benchmark knowledge states are heuristically derived rather than expert-annotated — proportions of correct answers per Q-matrix concept for ASSIST09, keyword-extracted success rates for GSM8K with GPT-4o-mini generating the concept tags, and normalized attribute groupings for UCI.
 
 ## Citation

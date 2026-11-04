@@ -57,12 +57,12 @@ The grade analysis is where the headline claim weakens. Top and middle tier stud
 
 - **Instructors.** Give students feedback on their actual AI use patterns rather than banning the tools; the authors' recommendation is to make delegation visible and [[reflection|reflective]], not to prohibit it.
 - **Instructors.** Design [[assessment|assessments]] that make process visible - for example asking students to articulate their own thinking before consulting AI to protect [[self-regulated-learning|self-regulation]] and higher-order thinking - because the logs capture what students asked, not what they reasoned.
-- **Learning analytics designers.** Build real-time feedback on chat logs that prompts students to name what they are delegating, and target it where heavy offloading clusters: 16 of the 20 heavy-offloading dialogues (80%) were Create requests.
+- **[[learning-analytics|Learning analytics]] designers.** Build real-time feedback on chat logs that prompts students to name what they are delegating, and target it where heavy offloading clusters: 16 of the 20 heavy-offloading dialogues (80%) were Create requests.
 - **Learning analytics designers.** Score [[cognitive-offloading|offloading]] with the paper's rubric (no, light, heavy, judged by who produces the first draft and the core argument) alongside Bloom level, since Apply dialogues split across all three offloading categories and the two dimensions are not interchangeable.
 
 ## Limitations
 
-- Study 1 is a convenience sample of 46 undergraduates (32 women, 14 men, aged 18-24) at one European university, so institutional norms, course design and AI policy bound the findings.
+- Study 1 is a convenience sample of 46 undergraduates (32 women, 14 men, aged 18-24) at one European university, so institutional norms, [[learning-design|course design]] and [[educational-policy-ai|AI policy]] bound the findings.
 - In Study 1, groups of four students shared a single ChatGPT-4 account, which the authors say likely filtered out personal, naive or sensitive questions.
 - Study 2's 16 students self-selected into grade-sharing and skew female (15 of 16), leaving low statistical power and a subsample that is non-random relative to the full cohort; its 1,140 messages were labeled by a single rater, so no inter-rater reliability could be established.
 - The grade pattern is correlational and non-significant (chi-square = 5.80, df = 4, p = 0.215), and the top tier's 17.6% heavy-offloading rate rests largely on one programming-focused student (7 of 12 dialogues; excluding them the rate falls to 8.9%); the labels describe prompts, not learning, so an "Analyse" label means the request was analytical in form, not that the student performed the analysis, and the performance-tier patterns remain hypotheses for confirmatory, longitudinal or experimental work rather than findings.

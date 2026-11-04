@@ -13,7 +13,7 @@ sources: ['raw/papers/caeai-multimodal-prompting.md']
 confidence: medium
 ---
 
-> **Synthesis:** Students' multimodal prompting practices as epistemic work in AI literacy development
+> **Synthesis:** Students' [[multimodal]] prompting practices as epistemic work in AI literacy development
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ The study was conducted as an exploratory workshop with 28 postgraduate students
 - **Instructors.** Design prompting tasks as iterative, dialogic work rather than one-shot formula practice: students' approaches ranged across Input-Output, Role-Play, Chain-of-Thought, and Generated Knowledge, and refinement came through repeated attempts.
 - Build image generation into the task alongside text so students confront the translation problem directly: text prompting yielded satisfactory results with fewer attempts than image prompting, and groups needed a precise visual vocabulary to keep outputs aligned with their intended vision.
 - Require students to document and interrogate their [[prompt-engineering|prompting]] histories — the eight groups produced 109 pages of self-documented reports — so the interpretive choices behind each prompt become visible and discussable rather than invisible.
-- Teach the [[ethics|ethical]] dimensions of [[ai-literacy]] as explicit curriculum content: students' reflections focused on functionality and alignment rather than [[bias-mitigation|fairness]], transparency, privacy, or responsible use.
+- Teach the [[ethics|ethical]] dimensions of [[ai-literacy]] as explicit [[curriculum-design|curriculum]] content: students' reflections focused on functionality and alignment rather than [[bias-mitigation|fairness]], transparency, privacy, or responsible use.
 - **Learners.** Evaluate tools on performance and output quality and be ready to switch: groups judged Copilot's image generation less effective than ChatGPT or DALL·E and changed tools after copyright-related refusals.
 
 ## Limitations

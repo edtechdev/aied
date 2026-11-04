@@ -23,7 +23,7 @@ discipline: [statistics and data science education]
 - The guided condition used the **same LLM platform** as the unrestricted condition, but students received explicit training and rules intended to promote reasoning-focused [[help-seeking]], stepwise hints, verification, and [[ethics|ethical]] use.
 - Guided use was associated with a **clearer [[learning-gains|learning]]-oriented interaction pattern** than unrestricted access, especially in prioritizing reasoning over final answers and requesting stepwise support.
 - Guided-LLM students showed a **promising pattern of stronger no-help quiz performance** during the intervention phase, while unrestricted access appeared more useful for assisted practice completion than for consistently improving independent performance.
-- All quizzes and the delayed final exam were completed **without LLM or external assistance**, separating AI-supported practice performance from independent learning; available time measures did not support a simple duration-based explanation, and **self-assessment calibration** suggested better alignment between perceived and demonstrated understanding in the guided condition.
+- All quizzes and the delayed [[summative-assessment|final exam]] were completed **without LLM or external assistance**, separating AI-supported practice performance from independent learning; available time measures did not support a simple duration-based explanation, and **self-assessment calibration** suggested better alignment between perceived and demonstrated understanding in the guided condition.
 
 ## Study Design & Method
 
@@ -34,14 +34,14 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 - **Instructors.** Scaffold how students use the model rather than simply granting access: the guided and unrestricted groups shared the same platform, and the guided group showed higher rule-following compliance (2.43/6 vs. 3.21/6, d = 0.81, p = .025) driven mainly by process-oriented [[help-seeking]] and stepwise hints, while conceptual explanation was common in both groups.
 - **Instructors.** Keep high-stakes assessment LLM-free so assisted practice is not mistaken for learning: every quiz and the delayed final exam in this design was completed without LLM or external assistance, and unrestricted access supported practice-task completion more than independent no-help performance.
 - **Learners.** Preserve the reasoning work by asking for stepwise hints rather than final answers and by working in more turns: guided sessions contained more user turns on average (17.21 vs. 10.54) and more user text (2,645 vs. 1,410 characters).
-- **Designers.** Build [[prompt-engineering|prompt]] starters, hint-first workflows, [[reflection]] checkpoints, and verification checklists into the platform, since active-learning and verification behaviors were only partially adopted even after training — higher-agency strategies require stronger [[scaffolding]].
-- **Instructors.** Teach calibrated trust explicitly — when to rely on, question, or verify a model explanation — because the guided group had the highest well-calibrated rate (43%) and the strongest self-assessment–performance correlations, an [[ai-literacy|AI literacy]] gain rather than mere confidence.
+- **Designers.** Build [[prompt-engineering|prompt]] starters, hint-first workflows, [[reflection]] checkpoints, and verification checklists into the platform, since [[active-learning]] and verification behaviors were only partially adopted even after training — higher-agency strategies require stronger [[scaffolding]].
+- **Instructors.** Teach [[trust-calibration|calibrated trust]] explicitly — when to rely on, question, or verify a [[explainable-ai|model explanation]] — because the guided group had the highest well-calibrated rate (43%) and the strongest self-assessment–performance correlations, an [[ai-literacy|AI literacy]] gain rather than mere confidence.
 
 ## Limitations
 
 - The final analytic sample was 37 of the 57 students who began the program (No-LLM 13, Unrestricted-LLM 12, Guided-LLM 12), after excluding students who missed two or more topic cycles, limiting statistical power.
 - Groups were balanced after Week 1 on prior Practice and Quiz scores rather than randomized, so the outcome findings are promising associations rather than definitive causal estimates, the final-exam comparison was directional rather than statistically confirmatory, and behavior-based regrouping moved two students in each LLM condition between guided and unguided categories.
-- Practice time was self-reported and transcript coding required human judgment despite five graders, and the Guided-LLM group received additional training and reminders that may have introduced attention, expectancy, or demand effects.
+- Practice time was [[self-report-measures|self-reported]] and transcript coding required human judgment despite five graders, and the Guided-LLM group received additional training and reminders that may have introduced attention, expectancy, or demand effects.
 - The study ran as a single four-week summer program in one undergraduate Probability and Statistics course at one university, so transfer to full-semester courses and other disciplines is untested.
 
 ## Citation

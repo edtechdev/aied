@@ -57,7 +57,7 @@ The authors are careful about scope. CSEBench measures receptive multiple-choice
 - **Assessment designers and test developers.** The construction sequence is the transferable method: take an existing proficiency framework with can-do descriptors, annotate items against it by expert judgment, calibrate with real learner responses, then run a standard-setting study to fix the cut scores. Model evaluation is then interpretable in the same terms as learner results.
 - **Institutions considering open models.** The subskill diagnosis is the part to act on. A persistent phonology deficit is diagnosable rather than terminal, and the paper's enhanced variants show targeted data or retrieval narrows it — so the question for procurement is which subskill the deployment needs, not whether the model is open or closed.
 - **Researchers and developers.** Treat flagged prompting sensitivity as a reporting obligation. If subskill estimates move with few-shot exemplar choice, publish the prompt configuration alongside the score, because an unreported prompt is an unreproducible result.
-- **Curriculum and program leads.** Note the ceiling effect before quoting these levels: the scale tops out where the strongest models sit, so a Level 6 result means "at least 6" on this instrument rather than a fine-grained ranking of the leading models.
+- **[[curriculum-design|Curriculum]] and program leads.** Note the ceiling effect before quoting these levels: the scale tops out where the strongest models sit, so a Level 6 result means "at least 6" on this instrument rather than a fine-grained ranking of the leading models.
 
 ## Limitations
 

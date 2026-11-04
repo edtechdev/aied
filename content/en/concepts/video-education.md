@@ -1,7 +1,7 @@
 ---
 title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-11-02T09:55:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -72,7 +72,7 @@ Producing effective AI video requires pedagogical structure and human oversight,
 **For researchers**
 
 - Report preference and outcome measures together, and state plainly when a study has only the first.
-- Report temporal alignment explicitly, given that misalignment between video content and cognitive processing shows up in the neural data.
+- Report temporal alignment explicitly, given that misalignment between video content and [[cognitive-psychology|cognitive processing]] shows up in the neural data.
 
 ## Connected Concepts
 

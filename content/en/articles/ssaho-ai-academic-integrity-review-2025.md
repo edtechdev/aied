@@ -33,11 +33,11 @@ The review used a PICO-framed research question ("What is the role of AI in infl
 The review documents AI's **dual role**:
 
 - **As a threat:** Students use generative AI (ChatGPT, Google Bard, Writesonic, Jasper, Wordtune, automated paraphrasing tools) to complete assignments, reducing originality and risking the credibility of qualifications. Non-native English speakers show a high tendency to breach integrity when struggling to write in English.
-- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that ai-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
+- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; [[remote-proctoring|online proctoring]] systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that ai-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
 
 ### Detection is an industry, not a solution
 
-Academic cheating and detection have become "thriving industries" — companies sell both AI-writing/humanizing software and detection software. The review argues institutions can develop their own manual detection procedures and train lecture panels, and that **multiple assessment methods** (oral exams, traditional writing tests, essays) should be used to detect AI misconduct rather than software alone (citing Bozkurt 2024).
+Academic cheating and detection have become "thriving industries" — companies sell both AI-writing/humanizing software and detection software. The review argues institutions can develop their own manual detection procedures and train lecture panels, and that **multiple assessment methods** ([[oral-assessment|oral exams]], traditional writing tests, essays) should be used to detect AI misconduct rather than software alone (citing Bozkurt 2024).
 
 ### Culture of integrity over policing
 
@@ -45,7 +45,7 @@ Across the included studies, the dominant recommendation is **preventive and cul
 
 - Clearly define what constitutes academic misconduct (plagiarism, AI writing, cheating) and establish **explicit policies and expectations**.
 - Develop an **honor code** agreed by students and faculty, and a jointly-developed campus AI-use policy, formally documented and distributed.
-- Build a **culture of academic integrity** from orientation onward, with regular workshops and training on citation practices, academic ethics, plagiarism, and AI detection tools.
+- Build a **culture of academic integrity** from orientation onward, with regular workshops and training on citation practices, academic ethics, plagiarism, and [[ai-detection|AI detection]] tools.
 - **Redefine academic integrity** for the technology-based era — the old definition no longer fits.
 - Balance detection with **assessment redesign** (some institutions have returned to pen-and-paper exams), while recognizing that banning AI is difficult to enforce (ChatGPT is hard to prevent, per Sharples 2022).
 
@@ -63,7 +63,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Limitations
 
-- The evidence base is small and heterogeneous: 25 studies were included from 1,443 records, the total participant pool across them is 2,134, and the corpus mixes quantitative studies with review papers.
+- The evidence base is small and heterogeneous: 25 studies were included from 1,443 records, the total participant pool across them is 2,134, and the corpus mixes [[quantitative-research|quantitative]] studies with review papers.
 - The risk-of-bias assessment flagged participant selection as the most significant problem — nine studies fell in that domain, including Maphoto et al. (2024), which sampled 70 participants from a population of 14,000 — and four studies raised concerns about selective reporting of results.
 - The database search was run across the entire publication period with no year filter, 11 of 89 full-text reports could not be retrieved, and several included entries report no information about their participants.
 - The evidence is recent and fast-moving: the most-cited sources are 2023–2024 responses to ChatGPT's November 2022 release, so the findings may not extend to later tools and policies.

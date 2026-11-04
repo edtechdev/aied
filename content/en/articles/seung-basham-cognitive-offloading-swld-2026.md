@@ -29,7 +29,7 @@ page_kind: [framework]
 ## What this means for practice
 
 - **Instructors.** Teach strategic offloading explicitly with think-alouds and structured reflection prompts aligned to the three SRL phases — forethought ("What's the learning goal?"), performance ("Is AI supporting or replacing my thinking?"), and reflection ("Could I do this with less support next time?").
-- **Instructors.** Sequence mastery experiences so SWLDs succeed through their own effort before using GenAI selectively as a scaffold, counteracting the dependence feedback loop that erodes academic [[self-efficacy]].
+- **Instructors.** Sequence mastery experiences so SWLDs succeed through their own effort before using GenAI selectively as a scaffold, counteracting the dependence [[feedback|feedback loop]] that erodes academic [[self-efficacy]].
 - **Designers.** Build guardrails that sustain cognitive engagement rather than simply permitting or restricting use, and make that engagement visible through planning notes, prompt design, revisions, and [[reflection|reflections]].
 - **Instructors.** Assess process rather than product, aligning evaluation with IEP goals that prioritize skill development over substitution for SWLDs.
 - **Learners.** Calibrate trust in GenAI by learning its strengths and limits — [[hallucination-risk|hallucinations]], oversimplified logic, embedded biases — and practice [[prompt-engineering|prompt engineering]] before delegating higher-order tasks.
@@ -38,7 +38,7 @@ page_kind: [framework]
 
 - Conceptual review, not an empirical study: the paper offers an initial conceptual model, and its authors state that future research should empirically test and refine the framework.
 - No participants or data from students with learning disabilities: the synthesis covers the cognitive challenges SWLDs experience, GenAI as a compensatory aid, and offloading decisions without collecting new evidence from that population.
-- SWLDs are treated as one group defined by executive-function, working-memory, and attention challenges, with no disaggregation by disability type, age, or setting, and the cited empirical base spans K-12 and higher education.
+- SWLDs are treated as one group defined by executive-function, working-memory, and attention challenges, with no disaggregation by disability type, age, or setting, and the cited empirical base spans [[k-12]] and [[higher-ed|higher education]].
 - The model's four offloading factors — performance goals, task difficulty, academic self-efficacy, and perceptions of the tool — remain directionally unresolved; the authors note it is unclear whether these are merely correlated with offloading, exert directional influence, or operate reciprocally.
 
 ## Citation

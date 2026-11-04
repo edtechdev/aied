@@ -32,8 +32,8 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 
 ## What this means for practice
 
-- **Instructors.** Treat the one-day workshop as an equity lever but schedule follow-up: female students showed significant gains in AI and computer science career interest while male interest remained static, yet neither group's average response reached the "interested" level across all three career domains.
-- **Instructors.** Aim deepfake safety education explicitly at male students and cover the ethics of sharing synthetic media: males were more likely to have shared deepfake content (23.2% vs. 10.0%), while female students were more likely to have reported deepfakes (14.1% vs 24.0%).
+- **Instructors.** Treat the one-day workshop as an [[equity-in-ai-education|equity]] lever but schedule follow-up: female students showed significant gains in AI and computer science career interest while male interest remained static, yet neither group's average response reached the "interested" level across all three career domains.
+- **Instructors.** Aim deepfake safety education explicitly at male students and cover the [[ethics]] of sharing synthetic media: males were more likely to have shared deepfake content (23.2% vs. 10.0%), while female students were more likely to have reported deepfakes (14.1% vs 24.0%).
 - **Instructors.** Differentiate the workshop instead of delivering it uniformly, because entry behavior already diverges: female students were significantly more likely to use AI for schoolwork and to seek advice from AI tools, and male students reported significantly higher STEM career interest.
 - **Researchers.** Disaggregate workshop outcomes by gender in [[k-12]] [[ai-literacy]] evaluations: results that are not disaggregated hide the gender-differentiated pattern found here.
 

@@ -23,7 +23,7 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 
 - **Sample:** 409 undergraduates at a Singaporean university who reported using GenAI tools for academic purposes.
 - **Theory:** Bandura's Social Cognitive Theory — how cognitive, social, and emotional factors jointly shape disclosure willingness.
-- **Design:** Mixed-methods. [[quantitative-research|Quantitative]] hierarchical regression tested the effects of moral disengagement, perceived peer disclosure, and relational comfort with peers/instructors on self-reported disclosure likelihood. [[qualitative-research|Qualitative]] thematic analysis of open-text responses explored students' interpersonal reasoning and perceived risks.
+- **Design:** Mixed-methods. [[quantitative-research|Quantitative]] hierarchical regression tested the effects of moral disengagement, perceived peer disclosure, and relational comfort with peers/instructors on [[self-report-measures|self-reported]] disclosure likelihood. [[qualitative-research|Qualitative]] thematic analysis of open-text responses explored students' interpersonal reasoning and perceived risks.
 
 ## Key Findings
 
@@ -35,14 +35,14 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 ## What this means for practice
 
 - **Instructors.** Invest in relational safety: comfort with instructors was among the strongest predictors of disclosure, so make one-to-one conversations about GenAI use routine and non-punitive.
-- **Instructors.** Frame disclosure as a metacognitive explanation of how the work was done rather than a confession of wrongdoing, which lowers interpretive risk without adding grading burden.
+- **Instructors.** Frame disclosure as a [[metacognition|metacognitive]] explanation of how the work was done rather than a confession of wrongdoing, which lowers interpretive risk without adding grading burden.
 - **Instructors.** Run structured peer discussions about GenAI use to make private uncertainty visible — perceived peer disclosure was the strongest predictor, and students overestimate how much their peers conceal.
 - **Administrators.** Embed routine declaration mechanisms in assessment workflows and keep policy communication consistent across departments, since variability amplifies uncertainty and avoidance; detection-and-punishment approaches alone are unlikely to work.
 - **Instructors.** Recognize the "to disclose or not" dilemma as a real source of student [[anxiety-and-stress|stress]] and [[trust]] pressure rather than evidence of moral negligence.
 
 ## Limitations
 
-- Conducted at a single Asian university with high technological adoption and an evolving GenAI policy, where strong academic pressure and emphasis on authority may intensify relational caution; comparative work in lower-power-distance contexts is needed.
+- Conducted at a single Asian university with high technological adoption and an evolving [[educational-policy-ai|GenAI policy]], where strong academic pressure and emphasis on authority may intensify relational caution; comparative work in lower-power-distance contexts is needed.
 - Several constructs were measured with single-item indicators, which precludes estimates of internal consistency reliability and may inflate measurement error, attenuating effect sizes.
 - The sample of 409 undergraduates was determined by practical constraints rather than a priori power planning, and post-hoc registration weakens confirmatory inference.
 - The cross-sectional design captures disclosure intentions at one point in time and cannot establish the temporal ordering of norms, moral disengagement, and relational trust.

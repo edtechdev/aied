@@ -41,7 +41,7 @@ Assessment is the decisive readiness frontier. Global faculty evidence shows 54%
 
 ## The Readiness Misalignment Pathway
 
-EPIQ interprets readiness unevenness as a predictable consequence of misalignment: faculty willingness to experiment coexists with institutional underinvestment in guidelines, training, and assessment redesign, producing uncertainty and prohibition as rational defensive responses. Institutional expansion pressures, support deficits, uneven faculty response, and assessment stress combine to escalate pressure for [[governance|governance redesign]]. Where policy clarity and training are missing, faculty may rationally restrict student AI use to preserve assessment credibility, and weak support capacity creates downstream risk for online quality assurance.
+EPIQ interprets readiness unevenness as a predictable consequence of misalignment: faculty willingness to experiment coexists with institutional underinvestment in guidelines, training, and assessment redesign, producing uncertainty and prohibition as rational defensive responses. Institutional expansion pressures, support deficits, uneven faculty response, and assessment stress combine to escalate pressure for [[governance|governance redesign]]. Where policy clarity and training are missing, faculty may rationally restrict [[student-ai-interaction|student AI use]] to preserve assessment credibility, and weak support capacity creates downstream risk for online quality assurance.
 
 ## Operationalizing Readiness
 

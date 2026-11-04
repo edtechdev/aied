@@ -19,7 +19,7 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Instructors.** Adopt a rubric-aligned [[automated-assessment|grading]] model where grades must be defensible: REC-CBM reached the best task accuracy and macro-F1 within every backbone block across three benchmarks and the best concept F1 in 14 of 15 model–dataset cells, while exposing every rubric dimension it used.
+- **Instructors.** Adopt a rubric-aligned [[automated-assessment|grading]] model where grades must be defensible: REC-CBM reached the best task accuracy and macro-F1 within every backbone block across three [[benchmark|benchmarks]] and the best concept F1 in 14 of 15 model–dataset cells, while exposing every rubric dimension it used.
 - **Instructors.** Audit at the dimension level, not the whole grade: substituting lower-confidence concept labels moved the predicted grade downward (wrong and random labels cost 30–45 accuracy points at the largest k), while oracle labels preserved or improved it, so a single rubric judgment can be inspected and overridden.
 - **Instructors.** State your rubric as explicit numbered dimensions with ordinal levels before deployment — the concept encoder learns one head per dimension, and the paper's rubrics use 7–8 concepts on three- or five-level ordinal scales.
 - **Researchers.** Expect the concept-supervision signal to be load-bearing: removing the rubric-aware concept encoder was the most damaging single ablation, and grading quality saturates by roughly four concepts and encoder width of 384 or more.

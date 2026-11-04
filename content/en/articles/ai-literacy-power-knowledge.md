@@ -14,7 +14,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Argues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epistemic agency. Draws on Foucault's power-knowledge framework to propose a critical AI literacy that empowers learners to shape and challenge AI systems rather than merely use them.
+> **Synthesis:** Argues existing [[ai-literacy|AI literacy]] frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epistemic agency. Draws on Foucault's power-knowledge framework to propose a critical AI literacy that empowers learners to shape and challenge AI systems rather than merely use them.
 
 ## Key Findings
 
@@ -30,11 +30,11 @@ page_kind: [framework]
 
 ## What this means for practice
 
-- **Instructors.** Teach generative prompting before you teach answer retrieval: have learners use AI in iterative dialogue to develop and refine their own knowledge rather than to outsource it.
+- **Instructors.** Teach generative [[prompt-engineering|prompting]] before you teach answer retrieval: have learners use AI in iterative dialogue to develop and refine their own knowledge rather than to outsource it.
 - Assign counter-prompting as an exercise. Students ask a system for the dominant view on a contested question, then a dissenting view, then ask which perspectives are absent from its training data, and write up what the system could not see.
 - Treat critical interrogation of AI as curricular content in its own right rather than a distraction from efficient tool use; the framework positions learners as epistemic agents whose questioning of a system's structuring assumptions belongs in the syllabus.
 - Audit who can actually access which AI tools in your setting before assuming a skills-based intervention will close gaps: [[equity-in-ai-education|inequity]] here is structural, not individual, because unequal access recapitulates epistemic injustice.
-- Give learners a real route into [[governance]] — co-designing course or institutional AI policy, for example — since participatory governance is the dimension the paper identifies as the most neglected in existing AI literacy frameworks.
+- Give learners a real route into [[governance]] — co-designing course or institutional [[educational-policy-ai|AI policy]], for example — since participatory governance is the dimension the paper identifies as the most neglected in existing AI literacy frameworks.
 
 ## Limitations
 

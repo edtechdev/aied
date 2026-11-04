@@ -35,7 +35,7 @@ ai_assist:
 - **Integration, not addition.** AI tools are woven through the agile ceremonies themselves, and students must also specify what remains a human responsibility: acceptance criteria, [[ethics|ethics trade-offs]], and accountability.
 - **Project work is a structural commitment.** About one third of the program's workload is project-based, distributed across semesters so that agile practice and AI use are repeated rather than demonstrated once.
 - **The German higher-education market under-delivers on practice.** Of 47 AI-centered engineering programs surveyed as of November 2025, only three require project work exceeding 12 ECTS, and none recognizes software engineering as a primary application domain.
-- **Completion improved sharply across cohorts.** Average missing ECTS dropped from 25% in WS 2021 to 3% in WS 2024, the authors' main quantitative signal that the format works.
+- **Completion improved sharply across cohorts.** Average missing ECTS dropped from 25% in WS 2021 to 3% in WS 2024, the authors' main [[quantitative-research|quantitative]] signal that the format works.
 - **Assessment had to become individual and oral.** Three runs convinced the authors that oral examinations are essential to check that students grasp foundational concepts rather than deferring to AI.
 - **Students personify the tools.** Teams began describing ChatGPT as an additional team member, which the authors flag as a dynamic future work must track.
 
@@ -43,7 +43,7 @@ ai_assist:
 
 The AI Engineering program combines a shared core, [[cs-education|programming]] and software foundations, [[ai-literacy]] and data skills, and agile development practices, with [[discipline-specific-aied]] such as AI Software Engineering, AI Mechanical Engineering and AI Material Engineering. The design intent is that AI is treated as a tool for engineering rather than only as a product being built, so students in each track use AI within their own domain's constraints.
 
-Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; project-based learning; agility and [[reflection]]; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
+Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; [[project-based-learning|project-based learning]]; agility and [[reflection]]; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
 
 ## Seven sprints, and where the AI sits
 

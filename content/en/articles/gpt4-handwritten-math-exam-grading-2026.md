@@ -60,7 +60,7 @@ Fourth, the authors report preliminary follow-up evidence that GPT-4o interprets
 - The exam was a voluntary mock, so students may not have applied themselves fully, and their handwriting may differ from that in a compulsory assessment; only 54 of 105 students consented to their answers being used.
 - Three problems had too few correct answers to be evaluated, and the analysis reports results on the remaining subset, so per-problem statistics rest on small samples.
 - The study evaluates one model generation, GPT-4 and GPT-4V, and the authors' own follow-up suggests GPT-4o is better at handwritten mathematics, so the absolute numbers are already dated; handwriting detection and recognition of mathematical expressions remain an active research problem, and the paper does not attempt a specialized recognition pipeline.
-- The overall picture is a snapshot of a single university exam in one discipline and one national grading culture, the authors do not claim the thresholds transfer, and no comparison is made against alternatives such as selective automation by item difficulty, ensemble grading, or investing the same effort in better human-marking logistics.
+- The overall picture is a snapshot of a single university exam in one discipline and one national grading culture, the authors do not claim the thresholds transfer, and no comparison is made against alternatives such as selective automation by [[item-response-theory|item difficulty]], ensemble grading, or investing the same effort in better human-marking logistics.
 
 ## Citation
 

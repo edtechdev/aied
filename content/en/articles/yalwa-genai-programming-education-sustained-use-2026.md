@@ -34,15 +34,15 @@ methods: [meta-analysis-systematic-review]
 2. Publication peaked in 2024 with 24 studies (53.3%), against 18 in 2023 (40.0%) and only three in 2025 (6.7%), leaving continuance evidence thin.
 3. ChatGPT and ChatGPT-based applications dominated the corpus at 23 studies (51.1%); GPT-3 or GPT-4 models appeared in 8 (17.8%), and Copilot or Codex in 6 (13.3%).
 4. Research concentrated in the United States (12 studies, 26.7%) and in the United Kingdom and New Zealand (5 each, 11.1%), with developing regions barely represented.
-5. Studies most often examined assessment, feedback, debugging, and code explanation (12, 26.7%), followed by perceptions, trust, and ethics (10, 22.2%).
+5. Studies most often examined assessment, feedback, debugging, and code explanation (12, 26.7%), followed by perceptions, trust, and [[ethics]] (10, 22.2%).
 6. Improved task completion was widely reported, but several studies found students accepting generated solutions without verification, creating dependency and weaker independent reasoning.
-7. Coding agreement reached 92%; the corpus split into 19 quantitative (42.22%), 13 qualitative, and 13 mixed-method studies.
+7. Coding agreement reached 92%; the corpus split into 19 [[quantitative-research|quantitative]] (42.22%), 13 [[qualitative-research|qualitative]], and 13 mixed-method studies.
 
 ## What the 45 studies actually cover
 
 The corpus is recent and lopsided. Twenty-four studies appeared in 2024, eighteen in 2023, three in 2025: the first wave documented what tools could do, not what sustained use looks like. Geographically, the United States contributed 12 studies, the United Kingdom and New Zealand five each, and Australia, China, Finland, and India two each; the remaining countries appeared once apiece.
 
-Tool coverage is narrower still: ChatGPT and ChatGPT-based applications account for 23 studies, GPT-3, GPT-4, and text-davinci models for eight, GitHub Copilot or OpenAI Codex for six, and Gemini with Google Colab and multimodal OpenAI tools once each. The authors read this as a validity problem: conclusions about GenAI in programming rest mostly on one conversational interface, and evidence about reliability may not transfer to other assistants.
+Tool coverage is narrower still: ChatGPT and ChatGPT-based applications account for 23 studies, GPT-3, GPT-4, and text-davinci models for eight, GitHub Copilot or OpenAI Codex for six, and Gemini with Google Colab and [[multimodal]] OpenAI tools once each. The authors read this as a validity problem: conclusions about GenAI in programming rest mostly on one conversational interface, and evidence about reliability may not transfer to other assistants.
 
 ## Assistance is not understanding
 
@@ -58,7 +58,7 @@ Institutional conditions do the remaining work. Students and lecturers reported 
 
 ## Integrity, access, and what redesign requires
 
-Academic integrity was the most frequently reported concern. Tools can generate submittable solutions, and detection studies — machine-learning classifiers, code-anomaly analysis — were reviewed alongside claims that detection alone is not a durable response. The authors' preferred direction is assessment redesign toward explanation, [[reflection]], and process evidence rather than final code output, which places [[scaffolding]] and dialogue at the center of [[assessment-validity]].
+Academic integrity was the most frequently reported concern. Tools can generate submittable solutions, and detection studies — [[machine-learning]] classifiers, code-anomaly analysis — were reviewed alongside claims that detection alone is not a durable response. The authors' preferred direction is assessment redesign toward explanation, [[reflection]], and process evidence rather than final code output, which places [[scaffolding]] and dialogue at the center of [[assessment-validity]].
 
 Access cuts the other way. Adoption depended on reliable internet, computing resources, digital literacy, and language availability, and the research itself is concentrated in well-resourced systems, so the evidence cannot say much about constrained institutions. Students with stronger digital skills extracted more benefit — the familiar pattern by which a free tool widens gaps.
 
@@ -72,7 +72,7 @@ Access cuts the other way. Adoption depended on reliable internet, computing res
 ## Limitations
 
 - The corpus is 45 peer-reviewed English-language studies from January 2023 to November 2025, so gray literature, preprints, and non-English work were excluded.
-- Heterogeneity in design, platform, and outcome measures prevented meta-analysis; findings were synthesized narratively, and the authors concede interpretive subjectivity.
+- Heterogeneity in design, platform, and outcome measures prevented [[meta-analysis-systematic-review|meta-analysis]]; findings were synthesized narratively, and the authors concede interpretive subjectivity.
 - Evidence is concentrated in the United States, United Kingdom, and New Zealand, with developing regions represented by single studies, so [[equity-in-ai-education|equity]] conclusions rest on thin coverage.
 - Most included studies examined short-term interventions and initial perceptions, which limits what it can say about long-term learning or sustained use.
 

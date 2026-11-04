@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Yao and Fan compared two pre-existing intact classes of 48 students each in one university English writing course across three writing-feedback-revision cycles. Control received AI score and standard feedback with routine teacher checking; Diagnostic Review received DeepSeek-R1 issue-level diagnoses, an interpretation sheet before independent revision, structured teacher review, reassessment and a reflection. Measures tracked [[formative-assessment]]: diagnostic accuracy, feedback actionability and comprehension, [[self-assessment]] accuracy, revision quality, [[reflection|reflection quality]] and review workload, analyzed with mixed-effects models with student random intercepts. Diagnostic Review scored higher on every process measure and gained 5.92 writing points against 3.58 for Control, and group by cycle interactions were significant for all outcomes except actionability.
+> **Synthesis:** Yao and Fan compared two pre-existing intact classes of 48 students each in one university English writing course across three writing-feedback-revision cycles. Control received AI score and standard feedback with routine [[teacher-role|teacher]] checking; Diagnostic Review received DeepSeek-R1 issue-level diagnoses, an interpretation sheet before independent revision, structured teacher review, reassessment and a reflection. Measures tracked [[formative-assessment]]: diagnostic accuracy, feedback actionability and comprehension, [[self-assessment]] accuracy, revision quality, [[reflection|reflection quality]] and review workload, analyzed with mixed-effects models with student random intercepts. Diagnostic Review scored higher on every process measure and gained 5.92 writing points against 3.58 for Control, and group by cycle interactions were significant for all outcomes except actionability.
 
 ## Key Findings
 
@@ -50,7 +50,7 @@ The exploratory indirect analysis linked diagnostic accuracy to revision quality
 
 ## Where the human work remained
 
-Teacher review records documented confirmation, correction, supplementation and re-explanation of AI feedback, with higher workload in Diagnostic Review. Added teacher instruction averaged 1.27, 1.25 and 1.42 comments per record in Control against 2.60, 2.85 and 3.08 in Diagnostic Review (Hedges' g = 1.42, 1.50, 1.61), and review intensity ran 1.69 to 1.88 against 2.61 to 2.94 (g = 2.61, 2.67, 2.73). Agreement was strongest for locally cued issues such as grammar and vocabulary and weakest for source use, where evidence has to function in relation to a claim.
+Teacher review records documented confirmation, correction, supplementation and re-explanation of [[ai-feedback-quality|AI feedback]], with higher workload in Diagnostic Review. Added teacher instruction averaged 1.27, 1.25 and 1.42 comments per record in Control against 2.60, 2.85 and 3.08 in Diagnostic Review (Hedges' g = 1.42, 1.50, 1.61), and review intensity ran 1.69 to 1.88 against 2.61 to 2.94 (g = 2.61, 2.67, 2.73). Agreement was strongest for locally cued issues such as grammar and vocabulary and weakest for source use, where evidence has to function in relation to a claim.
 
 Diagnostic Review reflections contained no coded misunderstanding in 84.0% of records, against 77.8% of the 135 available Control follow-up records, while Control records showed more accepting AI without judgment (6.9%) and ignored feedback (4.2%). Reflection quality was 2.96 (SD = 0.56) in Cycle 1 in Diagnostic Review against 2.59 (SD = 0.60) in Control.
 

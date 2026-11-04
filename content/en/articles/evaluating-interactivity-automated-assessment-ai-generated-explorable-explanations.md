@@ -34,13 +34,13 @@ Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction 
 - **Instructors.** Ask whether interaction logic serves the learning goal rather than whether the artifact merely runs: modeling interaction as a state machine correlated with human interactivity judgments at r = 0.728, while unit testing correlated negatively (r = −0.600).
 - **Designers.** Specify the intended learner-controllable states and transitions as an "ideal" FSM before generating content, so the extracted graph can be compared against pedagogical intent instead of judged on appearance.
 - **Designers.** Read the extracted FSM as a defect list — missing states, state-action pairs without feedback, unreachable transitions — and fix those before publishing an activity built from any of the 6 models tested.
-- **Researchers.** Pair interaction-level signals with outcome measures, because the framework captures pedagogical coherence at the interaction level and not learning gains.
+- **Researchers.** Pair interaction-level signals with outcome measures, because the framework captures pedagogical coherence at the interaction level and not [[learning-gains|learning gains]].
 - **Instructors.** Do not screen generated [[active-learning]] materials on visual or code-execution checks alone; those baselines track surface appearance rather than interaction behavior.
 
 ## Limitations
 
 - Finite state machines are an abstraction that may not capture highly continuous or emergent interaction patterns, potentially simplifying rich user experiences into discrete transitions.
-- Evaluation quality depends on the accuracy of automated FSM extraction from generated artifacts, which may introduce noise or bias despite few-shot prompting.
+- Evaluation quality depends on the accuracy of automated FSM extraction from generated artifacts, which may introduce noise or bias despite few-shot [[prompt-engineering|prompting]].
 - The "ideal FSMs" encode domain assumptions about effective interaction design that may not generalize across topics or pedagogical contexts.
 - EE-Eval assesses interaction structure only; it does not evaluate content correctness, visual clarity, or actual learning outcomes.
 

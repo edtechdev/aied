@@ -14,7 +14,7 @@ level: [k 12, higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an educational platform that integrates large language models with robot [[simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility]].
+> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an [[edtech-platform|educational platform]] that integrates [[llm|large language models]] with robot [[simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility]].
 
 ## Key Findings
 

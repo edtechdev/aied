@@ -38,7 +38,7 @@ level: [secondary]
 
 ## Verification, design principles, and the evidence audit
 
-**Design for withdrawal.** Six principles operationalize it: problem or concept first, student as specifier, glass-box prompting, verification against the world (only where [[prior-knowledge|prior knowledge]] lets students tell correct from flawed output apart), [[desirable-difficulties|productive friction]], and scaffold fading with [[reflection]]. They run through five phases (Frame, Specify, Co-construct, Validate, Reflect and Share), as in a ninth-grade hydrangea-color [[simulation]] the [[llm|model]] coded. The audit of twenty-four studies (2021–2026, Scopus) is gap-locating, not a [[meta-analysis-systematic-review|systematic review]]; its dominant [[research-methods-aied|research]] question has been the tool: the same setup lowered achievement and [[self-efficacy]] (Yang et al., 2025) while error-reflection modules raised [[critical-thinking|higher-order thinking]] and a [[socratic-method|Socratic]] chatbot beat a no-chatbot control (Zhang et al., 2025; Kholis et al., 2026).
+**Design for withdrawal.** Six principles operationalize it: problem or concept first, student as specifier, [[explainable-ai|glass-box]] prompting, verification against the world (only where [[prior-knowledge|prior knowledge]] lets students tell correct from flawed output apart), [[desirable-difficulties|productive friction]], and scaffold fading with [[reflection]]. They run through five phases (Frame, Specify, Co-construct, Validate, Reflect and Share), as in a ninth-grade hydrangea-color [[simulation]] the [[llm|model]] coded. The audit of twenty-four studies (2021–2026, Scopus) is gap-locating, not a [[meta-analysis-systematic-review|systematic review]]; its dominant [[research-methods-aied|research]] question has been the tool: the same setup lowered achievement and [[self-efficacy]] (Yang et al., 2025) while error-reflection modules raised [[critical-thinking|higher-order thinking]] and a [[socratic-method|Socratic]] chatbot beat a no-chatbot control (Zhang et al., 2025; Kholis et al., 2026).
 
 ## What this means for practice
 
@@ -53,7 +53,7 @@ level: [secondary]
 - The paper is a theoretical proposal: none of its six hypotheses has been tested as stated, and its partial-credit model is specified but not calibrated (two raters, 20% of cases, kappa ≥ 0.70).
 - The audit of 24 studies (2021–2026) is gap-locating, not a systematic review: one database (Scopus), conference proceedings excluded, 20% double-screened, no quality appraisal.
 - The dissociation rests on three randomized studies (nearly a thousand Turkish mathematics students, Bastani et al., 2025; 117 writers, Fan et al., 2025; 1,222 participants, Liu et al., 2026), none using construction tasks.
-- The author's boundary conditions narrow the scope: domains must supply an external criterion (physics, chemistry, ecology and epidemiology do; history, literature and ethics largely do not).
+- The author's boundary conditions narrow the scope: domains must supply an external criterion (physics, chemistry, ecology and epidemiology do; history, literature and [[ethics]] largely do not).
 
 ## Citation
 

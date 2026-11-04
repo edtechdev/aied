@@ -23,7 +23,7 @@ level: [k 12, middle school]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Walkington and colleagues studied the Persona Problem Builder (PPB), a teacher-in-the-loop [[human-in-the-loop-ai|multi-agent]] system that rewrites middle school mathematics problems around students' interests. A teacher supplies an ASSISTments problem and a topic, GPT-4o writes a personalized version, and four [[pedagogical-agent|specialized agents]] judge it for authenticity, realism, readability, and [[hallucination-risk|mathematical accuracy]]; failed checks go to a refinement agent, for up to five rounds. Eight seventh grade teachers produced 212 problems and assigned them to students. The result is uneven. [[motivation|Interest]] fit was the weak point: students' interests were so fine-grained that teachers and students alike wanted to edit the real-world details, and students rejected problem topics almost twice as often as they welcomed them. Realism fared better, with the agents catching implausibilities while the problems were being written. Readability and mathematical errors were rare. The authors argue that teacher judgment is not replaceable, and that authenticity remains the dimension personalization cannot guarantee.
+> **Synthesis:** Walkington and colleagues studied the Persona Problem Builder (PPB), a [[teacher-role|teacher]]-in-the-loop [[human-in-the-loop-ai|multi-agent]] system that rewrites [[k-12|middle school]] mathematics problems around students' interests. A teacher supplies an ASSISTments problem and a topic, GPT-4o writes a personalized version, and four [[pedagogical-agent|specialized agents]] judge it for authenticity, realism, readability, and [[hallucination-risk|mathematical accuracy]]; failed checks go to a refinement agent, for up to five rounds. Eight seventh grade teachers produced 212 problems and assigned them to students. The result is uneven. [[motivation|Interest]] fit was the weak point: students' interests were so fine-grained that teachers and students alike wanted to edit the real-world details, and students rejected problem topics almost twice as often as they welcomed them. Realism fared better, with the agents catching implausibilities while the problems were being written. Readability and mathematical errors were rare. The authors argue that teacher judgment is not replaceable, and that authenticity remains the dimension personalization cannot guarantee.
 
 ## Key Findings
 
@@ -57,7 +57,7 @@ Realism was the dimension the agents handled best, and it shows how easily a mod
 
 - **There is no comparison condition.** The study reports reactions to one system, with no contrast against human-written or single-agent problems.
 - **Realism effects are not isolated.** No clear experimental studies separate realism from other task features, so its effect on learning remains untested.
-- **Feedback is narrow and curriculum-bound.** The student data cover three open-ended questions about 47 personalized problems from one Illustrative Mathematics unit.
+- **Feedback is narrow and [[curriculum-design|curriculum]]-bound.** The student data cover three open-ended questions about 47 personalized problems from one Illustrative Mathematics unit.
 
 ## Citation
 

@@ -32,7 +32,7 @@ The paper shifts the question from whether students use GenAI to how they judge 
 
 ## Reconstructing judgment from traces
 
-The methodological contribution is the scroll-back interview, borrowed from social media research (Robards and Lincoln 2017). Students brought historical GenAI interactions and scrolled back through them with the interviewer, who asked situated questions such as what changed here and why they stopped. Data collection was online via Zoom, with audio and screen recording. **Seven interviewees** did not bring historical interactions and used completed artifacts or recreated interactions instead; **three students** sent supplementary material afterwards and **three students** provided examples of actual GenAI interactions. Participants spanned Psychology, Arts, Education, Nursing, Optometry, Biomedical Science, Law, Business, Sociology and Computer Science.
+The methodological contribution is the scroll-back interview, borrowed from social media research (Robards and Lincoln 2017). Students brought historical GenAI interactions and scrolled back through them with the interviewer, who asked situated questions such as what changed here and why they stopped. Data collection was online via Zoom, with audio and screen recording. **Seven interviewees** did not bring historical interactions and used completed artifacts or recreated interactions instead; **three students** sent supplementary material afterwards and **three students** provided examples of actual GenAI interactions. Participants spanned Psychology, Arts, Education, Nursing, Optometry, Biomedical Science, Law, Business, Sociology and [[cs-education|Computer Science]].
 
 ## From recruitment to six categories
 
@@ -40,13 +40,13 @@ Participants were self-identified motivated GenAI users recruited from one large
 
 ## Contradiction between what students said and did
 
-The most striking insight is the gap between students' accounts and their artifacts. Two students who both identified as having learning disabilities described relying on GenAI to cover similar capability gaps, yet the team interpreted one as learning to become less reliant over time and the other as not noticing their reliance. GenAI can therefore enhance or hinder learning depending on circumstance, and students' own views cannot distinguish the two. Connecting this to Urban et al. (2024), whose experiment found GenAI use can raise self-efficacy while interfering with performance estimation, the authors argue the deeper risk is misjudging oneself rather than misjudging AI output.
+The most striking insight is the gap between students' accounts and their artifacts. Two students who both identified as having learning disabilities described relying on GenAI to cover similar capability gaps, yet the team interpreted one as learning to become less reliant over time and the other as not noticing their reliance. GenAI can therefore enhance or hinder learning depending on circumstance, and students' own views cannot distinguish the two. Connecting this to Urban et al. (2024), whose experiment found GenAI use can raise [[self-efficacy]] while interfering with performance estimation, the authors argue the deeper risk is misjudging oneself rather than misjudging AI output.
 
 ## What this means for practice
 
 - **Instructors.** If tasks can be completed with GenAI in ways that circumvent the intended learning — the online quizzes described by Samantha and Rashid — copy-and-paste should not be a surprise; the authors argue the prevailing focus on cheating is more usefully reframed as a challenge for learning.
 - **Students.** Learners need support not only to know about GenAI and how it might be used, but to understand and reflect on their relationships with knowledge, with technology, and with themselves.
-- Design assessments that include evaluative judgment of the student's own contribution, not only of the GenAI contribution; interim submission steps are proposed to counter what Fan et al. (2025) call "metacognitive laziness."
+- Design assessments that include [[evaluative-judgment|evaluative judgment]] of the student's own contribution, not only of the GenAI contribution; interim submission steps are proposed to counter what Fan et al. (2025) call "[[metacognition|metacognitive]] laziness."
 - Attend to how assessment positions knowledge — whether tasks reinforce a separation between content and process acquisition, or bring the two together through explicit teaching tied to task design.
 
 ## Limitations

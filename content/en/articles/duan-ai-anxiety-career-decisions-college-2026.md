@@ -38,7 +38,7 @@ Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-relat
 
 ## Limitations
 
-- The 315 valid questionnaires (65.6% response rate) came from three universities in a single city (Baise City, Guangxi), so the findings generalize cautiously to elite institutions or economically developed coastal regions.
+- The 315 valid [[self-report-measures|questionnaires]] (65.6% response rate) came from three universities in a single city (Baise City, Guangxi), so the findings generalize cautiously to elite institutions or economically developed coastal regions.
 - The cross-sectional survey supports no causal claim and captured no external behavioral criteria; career preparedness and goal clarity were measured, not actual job search behavior or employment.
 - Career adaptability and career decision self-efficacy showed insufficient discriminant validity (HTMT = 0.92), so the null moderation finding may reflect overlapping measurement rather than a genuinely absent effect.
 - Reliance on self-reported, partly short-form scales — including an adapted measure of AI-triggered anxiety rather than a validated AI anxiety inventory — may have underestimated the true relationships.

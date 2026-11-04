@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Wang and Wang (2026) ask why the same AI movement [[feedback]] reads as evidence to one student and as a demand to another, and answer with a model, not a study. It is a Hypothesis and Theory article with no sample, no data and no measured effect. Its contribution is a motivational-meaning model for university physical education that joins [[self-determination-theory|self-determination theory]], [[feedback-literacy]], [[self-regulated-learning]] and motor-learning research around one claim: an output has no fixed motivational function apart from the framing a teacher gives it, the audience that can see it, and the evidence a learner can bring against it. Blocked translation is a temporary failure to find a defensible basis for the next attempt, not a third meaning; appropriation is the shift to independent monitoring. Seven proposition groups carry the predictions; whether appropriation is distinct from established self-regulation constructs is, by the authors' account, an empirical question.
+> **Synthesis:** Wang and Wang (2026) ask why the same AI movement [[feedback]] reads as evidence to one student and as a demand to another, and answer with a model, not a study. It is a Hypothesis and Theory article with no sample, no data and no measured effect. Its contribution is a [[motivation|motivational]]-meaning model for university physical education that joins [[self-determination-theory|self-determination theory]], [[feedback-literacy]], [[self-regulated-learning]] and motor-learning research around one claim: an output has no fixed motivational function apart from the framing a [[teacher-role|teacher]] gives it, the audience that can see it, and the evidence a learner can bring against it. Blocked translation is a temporary failure to find a defensible basis for the next attempt, not a third meaning; appropriation is the shift to independent monitoring. Seven proposition groups carry the predictions; whether appropriation is distinct from established self-regulation constructs is, by the authors' account, an empirical question.
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ The paper reports no data; these are its propositions, none tested.
 
 ## Why a movement cue is not a written comment
 
-In written feedback the learner meets a representation of the work; in PE the learner also has the movement, its felt timing and balance, and its visible consequence, so an output enters a relation among four fallible sources rather than standing as the record. Performance is also public, though the paper is careful: voluntary sharing in a cooperative climate differs from a named leaderboard rather than being a milder version of it. The output arrives inside pedagogical authority as well, where the same number can be introduced as fallible evidence or as machine-certified fact. AI changes the scale of these properties rather than creating them, and the five outcome domains stay apart because they diverge: a learner can consult a system daily and practice badly.
+In written feedback the learner meets a representation of the work; in PE the learner also has the movement, its felt timing and balance, and its visible consequence, so an output enters a relation among four fallible sources rather than standing as the record. Performance is also public, though the paper is careful: voluntary sharing in a cooperative climate differs from a named leaderboard rather than being a milder version of it. The output arrives inside [[pedagogy|pedagogical]] authority as well, where the same number can be introduced as fallible evidence or as machine-certified fact. AI changes the scale of these properties rather than creating them, and the five outcome domains stay apart because they diverge: a learner can consult a system daily and practice badly.
 
 ## Two meanings, and a state that is neither
 
@@ -53,7 +53,7 @@ Blocked translation names the state where conflicting evidence leaves no defensi
 
 Appropriation is where the model stakes its claim and where it is most exposed. The proposal is a within-person transition: criterion generation, discrepancy checking, cue selection and revision, and evidence seeking that begin as externally prompted and become independent. Indicators must be process measures taken before the retention test; scoring transfer as evidence of appropriation would be circular. The authors name the competitor: the guidance hypothesis holds that frequent external feedback can support practice while retarding independent error detection. If scheduling explains the difference after withdrawal, the motivational account is unnecessary, so tests must match frequency, fading and error-contingent thresholds.
 
-The proposition-to-test map is the most useful part: interviews and stimulated recall first, then content review and separate exploratory and confirmatory samples, then experiments isolating one contrast at a time, analyzed at the class level where disclosure reaches classmates. Ethics too: minimum necessary deception, low-risk task, no grade effect, and repair that can correct the system as well as the learner.
+The proposition-to-test map is the most useful part: interviews and stimulated recall first, then content review and separate exploratory and confirmatory samples, then experiments isolating one contrast at a time, analyzed at the class level where disclosure reaches classmates. [[ethics]] too: minimum necessary deception, low-risk task, no grade effect, and repair that can correct the system as well as the learner.
 
 ## What this means for practice
 
@@ -62,7 +62,7 @@ Instructors can use the model as a design checklist. Say what the output is for,
 ## Limitations
 
 - There is no empirical test of any kind. Construct definitions, candidate items and falsification criteria are proposals, not a validated scale.
-- The evidence is borrowed. Written feedback, consumer quantification and tracker research suggest possibilities that may not reproduce in embodied PE.
+- The evidence is borrowed. Written feedback, consumer quantification and tracker research suggest possibilities that may not reproduce in [[embodied-learning|embodied]] PE.
 - Both novel labels may collapse into existing ones: blocked translation into confusion, appropriation into feedback literacy. Each should be merged if it adds no prospective prediction.
 - Continued participation is distal and contingent on prior activity, health, habit, identity, access and opportunity, so a null there says little about the event-level account.
 

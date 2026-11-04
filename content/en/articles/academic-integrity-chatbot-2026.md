@@ -52,7 +52,7 @@ For institutions considering a similar assistant, the more transferable finding 
 
 A three-rater panel rating 84 fixed outputs yields 252 judgments, which is enough to describe upper-tail consensus and not enough to estimate generalizable accuracy. The weighted coefficient's size is partly an artifact of clustering: when nearly all ratings sit at 4 or 5, an ordinal weight makes disagreement look small, which is why the authors report exact agreement beside it.
 
-Because the raters helped build the scenarios, the benchmark tests whether the tool matches the panel's own expectations rather than whether it matches institutional policy as written. An independent, blinded panel reading the same outputs against the same policy document is the obvious next step, and the paper says so.
+Because the raters helped build the scenarios, the benchmark tests whether the tool matches the panel's own expectations rather than whether it matches [[educational-policy-ai|institutional policy]] as written. An independent, blinded panel reading the same outputs against the same policy document is the obvious next step, and the paper says so.
 
 ## What this means for practice
 

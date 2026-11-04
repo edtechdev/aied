@@ -27,9 +27,9 @@ AARC defines the capacity to conduct inquiry with AI without relinquishing [[age
 ## What this means for practice
 
 - **Instructors.** Grade the research process, not only the product: the analytic rubric scores observable behaviors — tool selection, interaction design, verification, synthesis and argument, authorship and disclosure — because a polished submission cannot show whether the student did the cognitive work.
-- **Instructors.** Teach **verify**, **cite**, and **reflect** as three recurring commitments that apply at every phase of inquiry, and require students to defend their choices in reflective defense rather than merely declaring AI use.
-- **Curriculum designers.** Sequence the competency deliberately, from a guided foundation through cross-domain transfer to autonomous inquiry, so students face escalating epistemic demands instead of a single AI policy at intake.
-- **Instructors.** Hold learners to the rubric's top band in assessment — comparing AI and non-AI alternatives, detecting fabrication and bias, and defending an argument against objections — so that competent AI-assisted research means exercising judgment.
+- **Instructors.** Teach **verify**, **cite**, and **reflect** as three recurring commitments that apply at every phase of inquiry, and require students to defend their choices in reflective defense rather than merely [[ai-use-disclosure|declaring AI use]].
+- **Curriculum designers.** Sequence the competency deliberately, from a guided foundation through cross-domain transfer to autonomous inquiry, so students face escalating epistemic demands instead of a single [[educational-policy-ai|AI policy]] at intake.
+- **Instructors.** Hold learners to the rubric's top band in assessment — comparing AI and non-AI alternatives, detecting fabrication and bias, and defending an argument against objections — so that competent [[ai-assisted-educational-research|AI-assisted research]] means exercising judgment.
 - **Curriculum designers.** Anchor the progression to tool-independent criteria (the seven dimensions and the verify–cite–reflect commitments) so the curriculum does not need rewriting with each model release.
 
 ## Limitations

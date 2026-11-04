@@ -39,7 +39,7 @@ Automating facilitation has been attempted with encoder-only classifiers, and LL
 - **Instructors.** Decide when to intervene, not only what to say: in MOOC-style forums and classroom discussion spaces the timing of an intervention matters as much as its content, since stepping in during a discussion that is going well can irritate participants while staying out when it is not can let a topic derail or escalate.
 - **Instructors.** Keep moderation human for now — expert facilitators in this study were cautious about intervening, while LLM judges were excessively eager, so an uncalibrated model will interject where a person would hold back.
 - **Designers.** Calibrate automated facilitation toward human caution before treating a model as an autonomous agent, and treat the intervene/hold decision as a first-class design parameter of [[human-in-the-loop-ai]] features in [[collaborative-learning]] platforms.
-- **Researchers.** Invest in annotation infrastructure and larger professional facilitation datasets rather than better prompting: trained ModernBert classifiers were the most reliable approach tested, yet the aggregated PEFK corpus imposed a relatively low performance ceiling.
+- **Researchers.** Invest in annotation infrastructure and larger professional facilitation datasets rather than better [[prompt-engineering|prompting]]: trained ModernBert classifiers were the most reliable approach tested, yet the aggregated PEFK corpus imposed a relatively low performance ceiling.
 
 ## Limitations
 

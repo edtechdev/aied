@@ -26,7 +26,7 @@ Indiana shows it: FLL participation fell sharply in the 2020 remote season; urba
 
 ARC's unit is the workshop: hands-on, mentor-led, several teams at once, each with a small group of mentors and its own game arena. Mentors target the skills a team needs to progress in the game, so motor control, sensors, planning and logic follow; FLL teams get foundational programming, while FTC and FRC teams can require [[agency|autonomy]], computer vision and AI.
 
-Primary hubs are colleges or other STEM institutions running the ARC course, training undergraduate mentors and hosting workshops. The trial course was a three-credit offering meeting weekly: four preparation weeks (kits, a mobile robot, programming, teaching methods), the first K–12 workshop in week five, then weekly supervised mentoring with a 30-minute seminar. Seminars covered safety, [[ethics]], [[ai-literacy|AI literacy]], autonomous systems and [[explainable-ai|explainability]]; mentoring and participation were 70% of the grade, plus a 4–8 page essay (20%) and an 8–10 minute presentation (10%).
+Primary hubs are colleges or other STEM institutions running the ARC course, training undergraduate mentors and hosting workshops. The trial course was a three-credit offering meeting weekly: four preparation weeks (kits, a mobile robot, programming, [[pedagogy|teaching methods]]), the first K–12 workshop in week five, then weekly supervised mentoring with a 30-minute seminar. Seminars covered safety, [[ethics]], [[ai-literacy|AI literacy]], autonomous systems and [[explainable-ai|explainability]]; mentoring and participation were 70% of the grade, plus a 4–8 page essay (20%) and an 8–10 minute presentation (10%).
 
 Secondary hubs are what makes it scale: a mature school with a self-sustaining program hosts workshops for nearby teams, with experienced K–12 students as peer mentors under a teacher or a few undergraduates — extending [[learning-by-teaching|near-peer mentoring]] into K–12. Each new hub can help nearby teams mature into further hubs, so reach spreads past any university's catchment. The components that matter are not the lecture plan: mentor preparation, recurring supervised workshops, and an experienced mentor who can answer what fixed material cannot.
 
@@ -61,7 +61,7 @@ Growth is modeled as a discrete-time, spatially explicit Markov process over sch
 ## Limitations
 
 - The trial ran at one Indiana university over a single semester with three FIRST LEGO League teams from one rural elementary school in its first year, so it shows feasibility and perceived benefit, not program effects.
-- Mentor results rest on seven of the nine enrolled undergraduates and K–12 results on four parents, all from anonymous surveys using retrospective pre-then-post ratings the authors call self-assessments subject to recall bias.
+- Mentor results rest on seven of the nine enrolled undergraduates and K–12 results on four parents, all from anonymous surveys using retrospective pre-then-post ratings the authors call [[self-assessment|self-assessments]] subject to recall bias.
 - The children themselves were never surveyed: their outcomes are parent-proxy reports, and one parent had discussed the survey with the child while two had not.
 - There was no control condition, and every ARC-specific parameter in the [[simulation]] had to be varied across 12 optimism levels instead.
 

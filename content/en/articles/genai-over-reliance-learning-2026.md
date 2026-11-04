@@ -14,7 +14,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']
 confidence: high
 ---
 
-> **Synthesis:** Gao, Sun, and Khan (2026) developed a dual-pathway model examining both the positive and negative effects of [[generative-ai|generative AI]] use on sustainable learning performance, integrating AI literacy, self-regulated learning, cognitive offloading, and individual differences. Using a mixed-method design with three-wave time-lagged survey data from 623 Chinese university students plus educator interviews, they found that AI literacy significantly enhances critical [[ai-ed-evaluation|AI evaluation]], which — along with self-regulated learning — promotes effective AI use. Effective AI use positively influences sustainable learning performance but also increases AI over-reliance, which negatively affects [[learning-gains|learning outcomes]], with polychronicity moderating key relationships.
+> **Synthesis:** Gao, Sun, and Khan (2026) developed a dual-pathway model examining both the positive and negative effects of [[generative-ai|generative AI]] use on sustainable learning performance, integrating AI literacy, self-regulated learning, [[cognitive-offloading|cognitive offloading]], and individual differences. Using a mixed-method design with three-wave time-lagged survey data from 623 Chinese university students plus educator interviews, they found that AI literacy significantly enhances critical [[ai-ed-evaluation|AI evaluation]], which — along with self-regulated learning — promotes effective AI use. Effective AI use positively influences sustainable learning performance but also increases AI over-reliance, which negatively affects [[learning-gains|learning outcomes]], with polychronicity moderating key relationships.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ The study employed a mixed-method design combining three-wave time-lagged survey
 
 ## Limitations
 
-- The cross-sectional, self-report survey design limits causal inference despite the time-lagged structure.
+- The cross-sectional, [[self-report-measures|self-report]] survey design limits causal inference despite the time-lagged structure.
 - The sample is drawn from Chinese university students, bounding generalizability.
 - Polychronicity and the AI-literacy/AI-evaluation constructs rely on self-report operationalizations.
 - The qualitative strand, while informative, is limited to educator perspectives and does not directly capture students' behavioral mechanisms.

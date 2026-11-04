@@ -24,7 +24,7 @@ The framework also touches on [[metacognition]] — students need to develop jud
 
 ## What this means for practice
 
-- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 rubric scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and ethics/equity awareness instead of asking only whether the notebook runs.
+- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 rubric scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and [[ethics]]/equity awareness instead of asking only whether the notebook runs.
 - **Instructors.** Have students build a leaky benchmark and then repair it — the framework's Assignment B has them construct a naive random split that inflates performance, expose the leakage from near-duplicate compositions, and re-evaluate with grouped splits justified by chemical system.
 - **Learners.** Document where every dataset came from and why a representation is physically meaningful before reporting a model result; in materials informatics the scarce competence is judgment about AI predictions and their uncertainty, not the predictions themselves.
 - **Instructors.** Adopt the eight-week materials-informatics module sequence incrementally inside existing courses, bootcamps, or workshop formats rather than waiting for program-level reform.
@@ -32,7 +32,7 @@ The framework also touches on [[metacognition]] — students need to develop jud
 
 ## Limitations
 
-- The paper is a synthesis and presents no empirical data from an implemented curriculum, so the framework's effect on student learning remains untested.
+- The paper is a synthesis and presents no empirical data from an implemented [[curriculum-design|curriculum]], so the framework's effect on student learning remains untested.
 - Its evidence base mixes peer-reviewed studies and meta-analyses with surveys, policy documents, workshop contributions, and professional guidance; the authors themselves caution that the survey sources describe adoption and concern rather than learning impact.
 - Subgroup-sensitive evaluation, which carries the paper's [[equity-in-ai-education|equity]] argument, is acknowledged as methodologically demanding: small samples, missing demographic data, and privacy constraints limit what can be responsibly inferred.
 - The eight-week module sequence, assignments, and rubric are offered as adaptable templates; the authors note implementation will vary by institutional resources, student preparation, faculty expertise, and local data infrastructure.

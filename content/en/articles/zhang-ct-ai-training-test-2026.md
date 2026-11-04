@@ -27,7 +27,7 @@ audience: [assessment designers, researchers]
 
 - **Instructors.** Target the three item families students failed most — identifying appropriate data representation, applying logical operators in the correct sequence, and differentiating loop structures — with explicit worked examples, rather than distributing time evenly across the introductory text-based programming syllabus.
 - **Instructors.** Use the diagnostic profile, not just the total score: [[computational-thinking|CT]] item difficulty rose sharply on items needing complex logical reasoning (e.g., Item 13, b = 1.566), so reteach the specific concepts that response patterns expose.
-- **Designers.** Pair a multiple-choice conceptual instrument with project-based tasks when assessing CT in AI contexts: the format measures conceptual understanding reliably but cannot evidence students' competence in creating AI models.
+- **Designers.** Pair a multiple-choice conceptual instrument with [[project-based-learning|project-based]] tasks when assessing CT in AI contexts: the format measures conceptual understanding reliably but cannot evidence students' competence in creating AI models.
 - **Researchers.** Replicate the item-difficulty findings with learners outside CS and AI majors, since all 461 field-test participants had completed or were completing AI fundamentals or Python programming courses.
 
 ## Limitations

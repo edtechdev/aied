@@ -13,7 +13,7 @@ confidence: medium
 audience: [instructional designers, instructors]
 ---
 
-> **Synthesis:** Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.
+> **Synthesis:** Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a [[cognitive-offloading|cognitive offloading]] tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.
 
 ## Key Findings
 
@@ -31,13 +31,13 @@ Instead of bypassing cognition, the Maieutic Interaction Framework returns cogni
 
 - **Designers.** Treat refusal as a designed mechanic rather than a missing feature: wherever the labor of articulation is the point of the activity, have the tool return [[scaffolding|scaffolded]] questions instead of drafts, as Actor's Note does with three rehearsal-stage-specific questions per entry, so the constructive thought process AI would otherwise bypass is protected against generative efficiency.
 - **Instructors.** Evaluate such tools by internalization rather than output speed — after assistance was removed, participants recalled or self-generated the AI's questioning style at M = 4.87 on a 7-point scale — and build a post-tool performance check into any AI-supported learning task.
-- **Edtech designers.** Match friction to the workflow phase as the 14-day crossover deployment found: low-friction prompts to break early inertia, harder challenging questions later to counter fixation, since the early-AI group showed a momentum effect while the late-AI group gained Narrative Transportation (p = .0128).
-- **Instructors.** Frame AI reflection spaces as non-judgmental sandboxes so students disclose unpolished thinking, then route that material back into human feedback loops instead of letting private AI work replace them.
+- **[[educational-technology-developers|Edtech designers]].** Match friction to the workflow phase as the 14-day crossover deployment found: low-friction prompts to break early inertia, harder challenging questions later to counter fixation, since the early-AI group showed a momentum effect while the late-AI group gained Narrative Transportation (p = .0128).
+- **Instructors.** Frame AI reflection spaces as non-judgmental sandboxes so students disclose unpolished thinking, then route that material back into human [[feedback|feedback loops]] instead of letting private AI work replace them.
 
 ## Limitations
 
 - The empirical core is one 14-day in-the-wild study with 29 professional and student actors in a single discipline (actor training), and it compares AI-assisted with unassisted journaling rather than with a text-generating tool.
-- Primary outcomes are self-reported daily surveys of cognitive burden, intrinsic motivation, and acting confidence plus post-study interviews, so the reported effects rest on subjective measures.
+- Primary outcomes are [[self-report-measures|self-reported]] daily surveys of cognitive burden, [[motivation|intrinsic motivation]], and acting confidence plus post-study interviews, so the reported effects rest on subjective measures.
 - The internalization finding (M = 4.87 of 7) is a single post-study self-report with no delayed follow-up, and the log measures (lexical diversity, emotion words) describe written output rather than assessed learning.
 - Extension beyond theater is argued by analogy: the paper raises coding and academic writing as workshop discussion questions rather than testing refusal designs there, and its four design implications are proposals from a 4-page position paper rather than validated interventions.
 

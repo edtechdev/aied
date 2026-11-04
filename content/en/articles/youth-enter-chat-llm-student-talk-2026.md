@@ -30,7 +30,7 @@ audience: [researchers, learning analytics designers, assessment designers]
 - **Researchers.** Treat F1 agreement with adult expert annotations as necessary but not sufficient: re-contextualizing talk-move definitions raised F1 for the Claim code by +0.104 and for the Question code by +0.23.
 - **Researchers.** Bring youth into validation through member checks — participant observation, interviews, and focus groups — because students' interpretations of their own talk diverged from adult and LLM framings.
 - **Designers.** Re-examine coding schemes against the local classroom context before classification; the annotation team found that disambiguating certain talk moves required context that transcripts alone did not supply.
-- **Designers.** Do not expect better prompting to fix misalignment; the authors describe it as a structural limitation of applying text-based classification to complex social interaction, not a data-size problem.
+- **Designers.** Do not expect better [[prompt-engineering|prompting]] to fix misalignment; the authors describe it as a structural limitation of applying text-based classification to complex social interaction, not a data-size problem.
 - **Researchers.** Account for the environmental cost of measurement: the two annotation runs used large API-served models, so weigh smaller, locally runnable alternatives.
 
 ## Limitations

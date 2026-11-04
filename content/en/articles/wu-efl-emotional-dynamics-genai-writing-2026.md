@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Wu, Yang and Lin (2026) traced how three Chinese EFL learners' [[student-engagement|emotional engagement]] with GenAI-assisted writing moved across three tasks in a 14-week first-year medical English course, asking which individual and environmental factors shaped it. The focal students came from 14 volunteers drawn from a survey of 241 students in seven classes, followed through three rounds of stimulated-recall interviews (7 h and 5 min in total), reflective reports, chatlogs and drafts. The authors name three trajectories: positive-resilient for Leo, pragmatic-transformative for Grace, and vulnerable-contingent for Sarah, whose path ended in a breakdown that included leaving the classroom mid-task. With three participants, the study can show these trajectories are possible and describe what produced them in these three learners. It cannot estimate how common any is, and it supports no claim about EFL learners as a population.
+> **Synthesis:** Wu, Yang and Lin (2026) traced how three Chinese EFL learners' [[student-engagement|emotional engagement]] with [[generative-ai|GenAI]]-assisted writing moved across three tasks in a 14-week first-year medical English course, asking which individual and environmental factors shaped it. The focal students came from 14 volunteers drawn from a survey of 241 students in seven classes, followed through three rounds of stimulated-recall interviews (7 h and 5 min in total), reflective reports, chatlogs and drafts. The authors name three trajectories: positive-resilient for Leo, pragmatic-transformative for Grace, and vulnerable-contingent for Sarah, whose path ended in a breakdown that included leaving the classroom mid-task. With three participants, the study can show these trajectories are possible and describe what produced them in these three learners. It cannot estimate how common any is, and it supports no claim about EFL learners as a population.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ verified: [citation, numbers, links]
 3. Leo's positive-resilient path included real dips: shaken by the errors GenAI surfaced, restored by a 95 on his first draft, frustrated by the group task yet scoring 85 there and 89 on argumentation.
 4. Grace's pragmatic-transformative path began with a 92 on her first draft alongside insecurity about her English, moved through peer-mediated group writing she found helpful (80), and turned on finding grammatical errors in GenAI's own text, after which she verified sources and reached 90.
 5. Sarah's vulnerable-contingent path began at 76 with a note explaining her Japanese-language background that went unread because only paper drafts were graded, rose to 84 in the group task, then broke down: she left the classroom during argumentation and submitted after class for 78.
-6. Identical features cut opposite ways: group writing lowered anxiety for Grace and Sarah but frustrated Leo, and English-medium workshops served Leo and Grace and blocked Sarah.
+6. Identical features cut opposite ways: group writing lowered [[anxiety-and-stress|anxiety]] for Grace and Sarah but frustrated Leo, and English-medium workshops served Leo and Grace and blocked Sarah.
 
 ## Three students out of two hundred and forty-one
 
@@ -44,7 +44,7 @@ After the survey of 241 students, 14 were chosen for willingness, proficiency ba
 
 ## The three trajectories, as the authors name them
 
-Positive-resilient describes Leo: sustained positive affect with temporary fluctuation, and his dips are not disengagement because his resources let him reframe frustration as information. Pragmatic-transformative describes Grace: practical disengagement giving way to critical engagement. Her first stage was efficiency-driven, prompting DeepSeek for definitions and examples because she was "too lazy to think," which produced relaxation and few original ideas; by the third she was verifying whether GenAI's cited example sources held up. Vulnerable-contingent describes Sarah: moderate disengagement, tentative peer-mediated improvement, then breakdown and intensified disengagement, her second-stage engagement contingent on support that never restructured her underlying beliefs.
+Positive-resilient describes Leo: sustained positive affect with temporary fluctuation, and his dips are not disengagement because his resources let him reframe frustration as information. Pragmatic-transformative describes Grace: practical disengagement giving way to critical engagement. Her first stage was efficiency-driven, [[prompt-engineering|prompting]] DeepSeek for definitions and examples because she was "too lazy to think," which produced relaxation and few original ideas; by the third she was verifying whether GenAI's cited example sources held up. Vulnerable-contingent describes Sarah: moderate disengagement, tentative peer-mediated improvement, then breakdown and intensified disengagement, her second-stage engagement contingent on support that never restructured her underlying beliefs.
 
 Disengagement is defined only where negative descriptors predominated in frequency, intensity and persistence rather than being recovered from, which lets Leo's frustration count as engagement and Sarah's as its opposite.
 
@@ -58,7 +58,7 @@ A [[qualitative-research|multiple-case design]] can show that divergent trajecto
 
 ## What this means for practice
 
-For instructors, the practical task is routing support by profile, not choosing a tool. Advanced learners need agency-preserving challenge rather than more [[scaffolding]]. Efficiency-driven learners need tasks that make their GenAI use visible and accountable, since the multi-step requirements were what turned Grace's annoyance into scrutiny. Vulnerable learners need affective support plus foundational language and GenAI literacy, delivered in a language they can process: Sarah's exclusion began with workshops she could not follow. Teacher attention is what no tool replaces; the costliest failure here was an unread note.
+For instructors, the practical task is routing support by profile, not choosing a tool. Advanced learners need agency-preserving challenge rather than more [[scaffolding]]. Efficiency-driven learners need tasks that make their GenAI use visible and accountable, since the multi-step requirements were what turned Grace's annoyance into scrutiny. Vulnerable learners need affective support plus foundational language and GenAI literacy, delivered in a language they can process: Sarah's exclusion began with workshops she could not follow. [[teacher-role|Teacher]] attention is what no tool replaces; the costliest failure here was an unread note.
 
 ## Limitations
 

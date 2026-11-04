@@ -31,7 +31,7 @@ As [[generative-ai|GenAI]] becomes integrated into education, AI-generated conte
 
 ## What this means for practice
 
-- **Instructors.** Have discipline-specific groups review AI-generated questions against stated criteria — scientific accuracy, linguistic clarity, and curriculum alignment — before they reach students. Teachers in this study caught subtle errors in items that read as scientifically correct, such as attributing a swing's behavior on the International Space Station to air resistance rather than microgravity.
+- **Instructors.** Have [[discipline-specific-aied|discipline-specific]] groups review AI-generated questions against stated criteria — scientific accuracy, linguistic clarity, and curriculum alignment — before they reach students. Teachers in this study caught subtle errors in items that read as scientifically correct, such as attributing a swing's behavior on the International Space Station to air resistance rather than microgravity.
 - **Instructors.** Treat AI output as a draft for revision: teachers rated higher-order questions lowest on curriculum alignment (M = 3.47, SD = 0.92) and described them as conceptually ambiguous, so plan to rewrite or replace those items rather than assigning them as generated.
 - **Instructors.** Screen for syntactic accessibility separately from factual accuracy: teachers rated a question 4 out of 5 for clarity while still warning that embedded clauses and abstract phrasing would challenge middle-school readers.
 - **Faculty developers.** Make the evaluation a structured workshop task rather than a demonstration: mixed groups of three to four novice and veteran teachers, working from a disciplinary text and a fixed prompt with a shared rating form, produced specific and shared critiques.

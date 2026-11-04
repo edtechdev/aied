@@ -27,9 +27,9 @@ methods: [ai-ed-evaluation, benchmark]
 ## What this means for practice
 
 - **Designers.** Treat the engagement signal as weak: on the CASED test set most configurations produced validation CCC below 0.02 and F1-macro no higher than 0.52, so do not ship these predictions as standalone judgments of student engagement.
-- **Designers.** Report calibrated uncertainty with every prediction and route near-midpoint, low-confidence clips to human review, because the dominant failure mode is the "not-engaged" class sitting on an annotation boundary.
+- **Designers.** Report calibrated uncertainty with every prediction and route near-midpoint, low-confidence clips to [[human-in-the-loop-ai|human review]], because the dominant failure mode is the "not-engaged" class sitting on an annotation boundary.
 - **Designers.** Add finer-grained temporal supervision: a single label per clip while the Perceiver IO layer mean-pools over 64 frames hides the small engagement cues the model is meant to catch.
-- **Designers.** Constrain personalization deliberately — keep student and instructor embeddings tied to the population prior — since identity-discriminative representations otherwise lead the model to fit appearance rather than engagement dynamics.
+- **Designers.** Constrain [[personalized-learning|personalization]] deliberately — keep student and instructor embeddings tied to the population prior — since identity-discriminative representations otherwise lead the model to fit appearance rather than engagement dynamics.
 
 ## Limitations
 

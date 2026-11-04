@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:13:23-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -47,7 +47,7 @@ Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approa
 A three-level meta-analysis of 22 studies finds GenAI-supported problem- and [[project-based-learning|project-based learning]] producing a large pooled effect on learner-internal outcomes (g = 0.819), though a PET-PEESE correction reduces it to g = 0.378; embedding mattered too, with general chatbots pooling at g = 0.970 against g = 0.455 for custom or API systems ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 
-A separate 42-study meta-analysis of motivation alone puts the pooled effect lower (g = 0.764) and reports a 95% prediction interval spanning [−0.689, 2.217], so the motivational advantage is not reliably positive for a new setting ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+A separate 42-study meta-analysis of motivation alone puts the pooled effect lower (g = 0.764) and reports a 95% prediction interval spanning [−0.689, 2.217], so the [[motivation|motivational]] advantage is not reliably positive for a new setting ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 Generative UI is the newest capability in this thread: models that emit a working interactive artifact — sliders, manipulable simulations — rather than prose. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], a Google Research team, report that off-the-shelf generative UI is not yet pedagogically precise enough for complex constructs, but that decomposing a learning objective into progressive leveled goals and wrapping generation in critique and self-improvement loops yields interactives expert teachers rate as acceptable. Theirs is an orchestration design: teachers state objectives, approve them and select among candidate simulations, so the binding constraint on bespoke [[simulation|interactive learning material]] shifts from production to specification, and [[guardrails|pedagogical guardrails]] are embedded in the generation pipeline rather than left to teacher vigilance afterwards.
 

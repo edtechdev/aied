@@ -20,9 +20,9 @@ institutions: [change-management]
 ## Key Findings
 
 - **Three patterns of GenAI integration emerged:** Cross-case comparison of frequency, breadth, and pedagogical [[scaffolding]] produced a typology of *ad hoc* (sporadic, unaligned use), *blended* (inconsistent incorporation across some activities or [[assessment|assessments]]), and *constructive* integration (GenAI systematically embedded across [[teacher-role|teaching]], learning, and evaluative tasks with structured student guidance). Two of 17 cases were ad hoc, nine blended, and six constructive.
-- **Constructive integration yielded the strongest benefits:** Cases with deeper, coherent embedding reported enhanced student engagement, capability development, curriculum relevance, confidence, and employability outcomes. Constructively integrated modules demonstrated a more favorable benefit-to-risk profile in the study's trade-off analysis.
+- **Constructive integration yielded the strongest benefits:** Cases with deeper, coherent embedding reported enhanced student engagement, capability development, curriculum relevance, confidence, and [[career-development-and-readiness|employability]] outcomes. Constructively integrated modules demonstrated a more favorable benefit-to-risk profile in the study's trade-off analysis.
 - **Ad hoc use amplified risks:** Sporadic, unscaffolded GenAI use was more vulnerable to challenges including ethical and [[academic-integrity|academic integrity]] concerns, student overreliance, inequality (e.g., access to premium tool versions), and ineffective or inappropriate outputs.
-- **GenAI enhanced existing pedagogies rather than replacing them:** Successful integration commonly occurred within established frameworks — simulation-based, project-based, or [[experiential-learning|experiential learning]] — positioning AI as a complementary enhancement and reducing the burden of curriculum redesign.
+- **GenAI enhanced existing pedagogies rather than replacing them:** Successful integration commonly occurred within established frameworks — simulation-based, [[project-based-learning|project-based]], or [[experiential-learning|experiential learning]] — positioning AI as a complementary enhancement and reducing the burden of curriculum redesign.
 - **External, industry-oriented motivation drove adoption:** Business educators were strongly motivated by industry expectations and employability demands, extending prior [[research-methods-aied|research]] that emphasized internal motivations; disciplinary relevance shaped how readily educators viewed GenAI as a natural extension of their teaching.
 - **[[governance|Institutional]] support was the critical enabler and barrier:** A lack of structured training, clear policy guidance, and adequate infrastructure constrained educators from progressing beyond experimentation toward sustained, comprehensive integration, reinforcing the need for coordinated institutional investment.
 
@@ -36,7 +36,7 @@ institutions: [change-management]
 
 ## What this means for practice
 
-- **Instructors.** Embed [[generative-ai|GenAI]] inside established pedagogies — simulations, projects, [[experiential-learning|experiential learning]] — rather than pursuing full module redesign; the constructive cases reported the strongest engagement, confidence, and employability outcomes at the lowest workload barrier.
+- **Instructors.** Embed [[generative-ai|GenAI]] inside established pedagogies — [[simulation|simulations]], projects, [[experiential-learning|experiential learning]] — rather than pursuing full module redesign; the constructive cases reported the strongest engagement, confidence, and employability outcomes at the lowest workload barrier.
 - **Curriculum designers.** Align GenAI use explicitly with intended [[learning-gains|learning outcomes]], activities, and [[assessment]], since the ad hoc cases were the most exposed to ethical concerns and student [[cognitive-offloading|overreliance]].
 - **Instructors.** Make evaluation the lever that shapes student use: the constructive cases required students to critically evaluate and co-create with AI in evaluative tasks, which separated purposeful use from sporadic use.
 - **Faculty developers.** Provide structured training and clear policy guidance; the lack of both was the barrier that kept educators from moving beyond individual experimentation.
@@ -45,7 +45,7 @@ institutions: [change-management]
 ## Limitations
 
 - The analysis rests solely on educator perspectives — 17 academic staff — so reported impacts on learning experiences and outcomes are second-hand and never measured from students.
-- It is a single-institution case study at one UK Russell Group university during the first year of adoption, so findings may not be generalizable across institutional policy, digital readiness, or disciplinary norms.
+- It is a single-institution case study at one UK Russell Group university during the first year of adoption, so findings may not be generalizable across [[educational-policy-ai|institutional policy]], digital readiness, or disciplinary norms.
 - Participants were purposively sampled for existing GenAI teaching experience and their 24 modules, so the sample skews toward motivated early adopters.
 - Given the rapid evolution of GenAI, the cross-sectional first-year data cannot show how integration strategies or institutional support change over time.
 

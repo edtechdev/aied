@@ -30,10 +30,10 @@ The overall effect is small-to-moderate (g = 0.38) with substantial heterogeneit
 
 ## What this means for practice
 
-- **Teachers.** Select technology against the five practices this review synthesized — personalization, authentic contexts, collaborative learning, multimodal integration, and cultural responsiveness — rather than against novelty.
+- **Teachers.** Select technology against the five practices this review synthesized — [[personalized-learning|personalization]], authentic contexts, [[collaborative-learning|collaborative learning]], [[multimodal]] integration, and cultural responsiveness — rather than against novelty.
 - **Teachers.** Weight [[language-learning|language learning]] technology toward production: productive skills (speaking and writing) gained more than receptive skills (reading and listening), and vocabulary and grammar also improved significantly.
 - **Instructional designers.** Scaffold more for younger learners: effects rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), reflecting younger students' greater need for adaptation support.
-- **Instructional designers.** Plan for the implementation barriers this review documented — infrastructure gaps, hardware and licensing costs, and insufficient teacher technological pedagogical training — not just the technology itself.
+- **Instructional designers.** Plan for the implementation barriers this review documented — infrastructure gaps, hardware and licensing costs, and insufficient teacher technological [[llm-training-and-fine-tuning|pedagogical training]] — not just the technology itself.
 
 ## Limitations
 

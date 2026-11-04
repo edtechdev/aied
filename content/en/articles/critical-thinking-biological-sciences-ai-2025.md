@@ -52,7 +52,7 @@ The conclusion is emphatic: incorporating AI **should not diminish [[teacher-rol
 
 - Narrative review, not a systematic one: the authors acknowledge relying on "a broad but not an exhaustive systematic set of sources" with no formal protocol or defined inclusion/exclusion criteria, creating potential selection bias and incomplete coverage of the literature.
 - Fixed search window: the review's own source checks are dated 2 March 2025, and the authors note that rapid AI advances may have produced new tools or findings after that window that the paper does not cover.
-- The seven recommendations the paper proposes (data-analysis tools, virtual labs, adaptive systems, collaborative projects, critical evaluation, curricular integration, professional development) are proposals only — no implementation or outcome data is reported for any of them.
+- The seven recommendations the paper proposes (data-analysis tools, virtual labs, [[adaptive-learning|adaptive systems]], collaborative projects, critical evaluation, curricular integration, [[educational-development|professional development]]) are proposals only — no implementation or outcome data is reported for any of them.
 
 ## Citation
 

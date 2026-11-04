@@ -34,11 +34,11 @@ Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory
 - **Instructors.** Treat [[motivation]] as changeable and design for competence, relatedness, and autonomy throughout the year, because only the students who reached or held the Self-Determined profile showed the largest [[ai-literacy|AI literacy]] gains.
 - **Instructors.** Watch for downward transitions and support students who start lower — especially those with less prior AI learning experience — rather than assuming a year of AI instruction will lift everyone.
 - **Designers.** Sustain psychological-need support across the whole [[curriculum-design|curriculum]] instead of front-loading a short AI-literacy unit, since profiles shifted over a full year, not within a single lesson.
-- **Researchers.** Extend [[self-determination-theory|SDT]] measurement into AI learning with behavioral indicators, because the profiles replicated in this domain and predicted learning gains but were captured only by self-report.
+- **Researchers.** Extend [[self-determination-theory|SDT]] measurement into AI learning with behavioral indicators, because the profiles replicated in this domain and predicted learning gains but were captured only by [[self-report-measures|self-report]].
 
 ## Limitations
 
-- Motivation was measured only by self-report, subject to social desirability bias and students' own metacognitive limits; no behavioral or computer-log data on AI use were collected.
+- Motivation was measured only by self-report, subject to social desirability bias and students' own [[metacognition|metacognitive]] limits; no behavioral or computer-log data on AI use were collected.
 - Grade 9 students made up 53.2% of the sample, so the findings may not generalize to other grade levels even though grade level was included as a covariate.
 - Curriculum fidelity and exact instructional methods were not systematically observed across the 53 schools, and no school-level contextual indicators (socioeconomic composition, academic performance, infrastructure) were collected.
 - There was no control or comparison group, so the AI literacy gains cannot be attributed causally to the AI curriculum.

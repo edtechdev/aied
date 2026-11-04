@@ -33,9 +33,9 @@ This paper connects [[productive-failure]] to [[teacher-role|teacher]] support a
 ## What this means for practice
 
 - **Instructors.** Generate candidate PF problems with GPT-4o and then edit them before class: the seven teachers rated AI-generated problems as high quality (M = 17.19, SD = 3.07), close to human-generated problems (M = 17.43, SD = 3.49), but flagged vague information, excessive length, and demands on advanced literacy.
-- **Instructors.** Check curriculum alignment yourself before assigning a generated problem — teachers rated AI-generated problems lower on Curriculum Alignment (M = 2.57, SD = 1.43) than human-generated problems (M = 3.29, SD = 0.49).
+- **Instructors.** Check [[curriculum-design|curriculum alignment]] yourself before assigning a generated problem — teachers rated AI-generated problems lower on Curriculum Alignment (M = 2.57, SD = 1.43) than human-generated problems (M = 3.29, SD = 0.49).
 - **Instructors.** Apply the fixes teachers asked for most when adapting generated text: visual enhancements (100% of interviewees), better formatting (71%), simplified text (57%), and reading-level adjustments (42%), with visuals placed at the top and text segmented and bolded.
-- **Instructors.** Screen generated problems against the five rubric dimensions — prior knowledge activation, affective engagement, sweet spot calibration, open-endedness, and multiple representations, each rated 1–5 with a maximum total of 25 — since AI problems scored well on Sweet Spot Calibration and Affective Engagement but varied elsewhere.
+- **Instructors.** Screen generated problems against the five rubric dimensions — [[prior-knowledge|prior knowledge activation]], affective engagement, sweet spot calibration, open-endedness, and multiple representations, each rated 1–5 with a maximum total of 25 — since AI problems scored well on Sweet Spot Calibration and Affective Engagement but varied elsewhere.
 - **Instructors.** Use ProductiveMath problems as warm-ups or small-group activities, the uses the interviewed teachers identified as the best fit for the tool.
 
 ## Limitations

@@ -35,7 +35,7 @@ The authors leveraged **concept mapping** as a primary elicitation technique, tr
 
 Hierarchical clustering of the concept maps revealed **five recurring categories** of student mental models:
 
-1. **Technical-process based** — Students connect [[machine-learning|machine learning]], neural networks, and large language models to capabilities like content creation and [[multimodal]] output, and to developers/companies. The underlying technology and its generative capacity are seen as inseparable. These students "know how GenAI works" but may lack the human and societal context.
+1. **Technical-process based** — Students connect [[machine-learning|machine learning]], neural networks, and [[llm|large language models]] to capabilities like content creation and [[multimodal]] output, and to developers/companies. The underlying technology and its generative capacity are seen as inseparable. These students "know how GenAI works" but may lack the human and societal context.
 2. **Educational-tool based** — Students group [[personalized-learning|personalized learning]], administrative support, and [[accessibility]] together, perceiving GenAI primarily as something that lowers barriers, adapts to individual needs, and makes education more inclusive. Notably, this cluster sits at a **moderate distance** from the technical cluster — students who think about GenAI's educational benefits often do not connect those benefits to its technical foundations.
 3. **Transitional** — Students pair productivity and efficiency with policymakers and government, beginning to move beyond individual tool use toward recognizing GenAI as a technology that needs governance. The **small size** of this cluster suggests this [[regulation|regulatory]] awareness is still limited.
 4. **Consequence-aware** — Students associate [[academic-integrity|academic integrity]] (plagiarism, cheating) with long-term impacts, recognizing that decisions about GenAI use today carry implications far into the future.
@@ -45,7 +45,7 @@ Hierarchical clustering of the concept maps revealed **five recurring categories
 
 Every concept map reflected **declarative** knowledge ("what GenAI is"), but far fewer showed **procedural** knowledge ("how it works", 25 maps) or **conditional** knowledge ("when and why to use it", 17 maps). The co-occurrence pattern is more revealing than the raw counts:
 
-- **Declarative only (31 maps)** — the most common profile: rich lists of tools and categories with little process reasoning or evaluative judgment. The authors characterize this as a "wide but shallow" mental model — knowing names and applications without understanding mechanisms or appropriate-use boundaries.
+- **Declarative only (31 maps)** — the most common profile: rich lists of tools and categories with little process reasoning or [[evaluative-judgment|evaluative judgment]]. The authors characterize this as a "wide but shallow" mental model — knowing names and applications without understanding mechanisms or appropriate-use boundaries.
 - **Declarative + procedural (16 maps)** — technically oriented but not critically oriented: students can trace how GenAI works around concepts but show no evaluative or ethical judgment.
 - **Declarative + conditional (8 maps)** — students can name what GenAI is and hold judgments about when/why it should be used, but cannot trace how the technology actually works.
 - **All three, integrated (9 maps)** — the most sophisticated, multilayered mental models.

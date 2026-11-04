@@ -15,7 +15,7 @@ sources: ['raw/papers/2607.01506.md']
 confidence: high
 ---
 
-> **Synthesis:** As AI technologies enter [[k-12]] classrooms, understanding how different stakeholders perceive these tools is critical. This paper identifies a significant trust gap between [[teacher-role]] and [[student-experience]] perspectives on control and agency in classroom AI systems. Students generally desire greater autonomy and flexibility when interacting with AI tools, while teachers prioritize oversight, monitoring, and structured control to maintain pedagogical alignment. These misalignments have direct implications for [[ai-literacy]] programs that must address both stakeholder perspectives to build effective [[student-experience]] in learning environments.
+> **Synthesis:** As [[ai-technologies|AI technologies]] enter [[k-12]] classrooms, understanding how different stakeholders perceive these tools is critical. This paper identifies a significant trust gap between [[teacher-role]] and [[student-experience]] perspectives on control and agency in classroom AI systems. Students generally desire greater autonomy and flexibility when interacting with AI tools, while teachers prioritize oversight, monitoring, and structured control to maintain [[pedagogy|pedagogical]] alignment. These misalignments have direct implications for [[ai-literacy]] programs that must address both stakeholder perspectives to build effective [[student-experience]] in learning environments.
 
 ## Key Findings
 
@@ -39,7 +39,7 @@ The speed-dating study paired participants with a series of storyboard scenarios
 
 ## Limitations
 
-- Storyboards directed participants' thinking toward the classroom situations depicted, and the study used [[intelligent-tutoring|intelligent tutoring systems]] as its example, so views on other AI tools such as generative AI could differ.
+- Storyboards directed participants' thinking toward the classroom situations depicted, and the study used [[intelligent-tutoring|intelligent tutoring systems]] as its example, so views on other AI tools such as [[generative-ai|generative AI]] could differ.
 - Data were collected in Germany, where AI-based tools are not yet fully realized in schools; the authors expect views to shift once teachers and students experience AI systems in classrooms.
 - The samples were small and mismatched: two participating teachers taught only students younger than 12 while the student sample was 12 and above, and participants were compensated, which may have influenced what they shared.
 - Older students generally shared more thoughts than younger students, which the authors suspect masked details that only younger students had considered.

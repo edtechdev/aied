@@ -32,7 +32,7 @@ source_depth: full text
 3. Australia is the only jurisdiction with any alignment to the five-component AI literacy model, and that alignment is limited, uneven and found only in the non-mandated Early Childhood Australia statement.
 4. Australia's strongest alignment is "Interacting with AI Agents"; alignment is weakest on "Understanding Human-AI Relationships," which is absent from every document reviewed.
 5. All curriculum-guiding documents analyzed were developed before OpenAI's 2022 release of ChatGPT, so their silence on AI partly reflects timing rather than deliberate policy omission.
-6. With no curriculum mandate, young children's AI literacy development remains contingent on the home learning environment, amplifying existing inequities as AI becomes mainstream in society.
+6. With no curriculum mandate, young children's AI literacy development remains contingent on the [[parents-and-families|home learning]] environment, amplifying existing inequities as AI becomes mainstream in society.
 7. The authors call for explicit AI literacy learning priorities, developmental expectations and culturally responsive resources to equip educators to facilitate equitable learning.
 
 ## How the four countries position AI in early childhood curricula

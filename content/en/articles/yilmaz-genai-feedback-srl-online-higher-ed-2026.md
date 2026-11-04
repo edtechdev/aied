@@ -26,7 +26,7 @@ Feedback is widely recognized as critical to learning, but providing timely, per
 
 ## Self-Regulated Learning in Online Contexts
 
-Online learning increases learner autonomy while reducing direct [[teacher-role|instructor]] presence, demanding advanced self-regulated learning skills. The study operationalizes SRL using the Ye and Pennisi (2022) evidence-centered framework, mapping roughly 48,000 MOODLE trace records to six proxies — goal setting, task strategies, environment structuring, time management, [[help-seeking]], and self-evaluation. The GenAI treatment group showed significant improvement in Task Strategies, while the control group showed a lowered trend in Task Strategies and Time Management, consistent with prior findings that lower-SRL students are more prone to disengagement under inconsistent support. This demonstrates the value of trace-based indicators explicitly aligned to SRL constructs, rather than raw click counts.
+Online learning increases learner autonomy while reducing direct [[teacher-role|instructor]] presence, demanding advanced self-regulated learning skills. The study operationalizes SRL using the Ye and Pennisi (2022) evidence-centered framework, mapping roughly 48,000 MOODLE trace records to six proxies — goal setting, task strategies, environment structuring, time management, [[help-seeking]], and [[self-assessment|self-evaluation]]. The GenAI treatment group showed significant improvement in Task Strategies, while the control group showed a lowered trend in Task Strategies and Time Management, consistent with prior findings that lower-SRL students are more prone to disengagement under inconsistent support. This demonstrates the value of trace-based indicators explicitly aligned to SRL constructs, rather than raw click counts.
 
 ## Feedback Source Awareness
 
@@ -47,7 +47,7 @@ This paper contributes empirical, ecologically valid evidence on how [[generativ
 
 - The sample is 46 students (23 per group) from a single online Basic Statistics module over nine weeks; the authors state this limits statistical power and generalizability and that the results should be read as context-specific.
 - Only the Task Strategies dimension improved significantly; goal setting, time management, help-seeking, and self-evaluation did not, and none of the perception dimensions except Genuineness differed significantly — a pattern the authors tie to the small sample and to the granularity of the trace indicators.
-- Outcomes are perception scores and behavioral traces rather than learning gains: the authors note that whether the feedback accurately and comprehensively addressed students' targeted needs was beyond the study's scope, and that the first author reviewed every GenAI comment before delivery — a workload that was never measured.
+- Outcomes are perception scores and behavioral traces rather than [[learning-gains|learning gains]]: the authors note that whether the feedback accurately and comprehensively addressed students' targeted needs was beyond the study's scope, and that the first author reviewed every GenAI comment before delivery — a workload that was never measured.
 - The tutor knew the GenAI condition existed, which the authors concede may have prompted greater deliberation or altered usual feedback practice in unquantifiable ways.
 
 ## Citation

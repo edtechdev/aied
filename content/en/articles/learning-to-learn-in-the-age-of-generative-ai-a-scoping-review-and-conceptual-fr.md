@@ -25,16 +25,16 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Instructors.** Embed GenAI support in evidence-informed instructional routines that target learning processes rather than deliver answers — for example, prompting self-explanations before supplying hints.
+- **Instructors.** Embed GenAI support in evidence-informed instructional routines that target learning processes rather than deliver answers — for example, [[prompt-engineering|prompting]] self-explanations before supplying hints.
 - **Instructors.** Distinguish the three layers when designing an intervention: work on goals and beliefs at the Dimensions layer, strategy selection and monitoring at the Processes layer, and concrete learning strategies at the Tools layer.
-- **Instructors.** Foster critical awareness of GenAI use with confidence-estimation visualizations, ethical reflection, and prompts that surface the risk of [[cognitive-offloading|over-reliance]].
-- **Instructional designers.** Design GenAI systems to assist rather than replace self-regulation — Socratic or decision-tree dialogue structures and Open Learner Models — preserving [[agency|learner agency]] and independence.
-- **Researchers.** Address the social dimension explicitly: current AI systems cannot replicate the interpersonal dynamics of human interaction, so investigate how GenAI complements rather than substitutes for human collaboration.
+- **Instructors.** Foster critical awareness of GenAI use with confidence-estimation [[visualization|visualizations]], ethical reflection, and prompts that surface the risk of [[cognitive-offloading|over-reliance]].
+- **Instructional designers.** Design GenAI systems to assist rather than replace self-regulation — [[socratic-method|Socratic]] or decision-tree dialogue structures and Open Learner Models — preserving [[agency|learner agency]] and independence.
+- **Researchers.** Address the social dimension explicitly: current AI systems cannot replicate the interpersonal dynamics of human interaction, so investigate how GenAI complements rather than substitutes for [[human-ai-collaboration|human collaboration]].
 
 ## Limitations
 
 - Only 21 studies met the PRISMA-ScR criteria from 787 records (searched May 16, 2025), and roughly 43% (n = 9) were empirical; their sample sizes ranged from 67 to 13,500.
-- English-language only, and the Scopus and Web of Science searches deliberately excluded computer science and engineering subject areas, a decision the authors concede may have omitted interdisciplinary work.
+- English-language only, and the Scopus and Web of Science searches deliberately excluded [[cs-education|computer science]] and engineering subject areas, a decision the authors concede may have omitted interdisciplinary work.
 - Screening, extraction, and coding were handled by the first and second authors, with the first author reading each paper multiple times; no multiple independent encoders were involved.
 - L2L remains difficult to measure reliably as a complex, multidimensional construct, and the review captures literature only up to its search date in a fast-moving field.
 

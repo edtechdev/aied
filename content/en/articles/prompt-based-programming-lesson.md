@@ -26,7 +26,7 @@ confidence: high
 ## Limitations
 
 - The intervention lasts 45 minutes — a single class period — and the comparison is a business-as-usual CS lab activity (code tracing) rather than a no-instruction condition.
-- All sessions were led by the first author, who also designed the curriculum, introducing potential experimenter expectancy bias even with structured slides and facilitator notes.
+- All sessions were led by the first author, who also designed the [[curriculum-design|curriculum]], introducing potential experimenter expectancy bias even with structured slides and facilitator notes.
 - The performance effect was not statistically significant (B = 0.756, 95% CI [−0.020, 1.533], p = 0.056) and less than one additional problem solved on average, with the model fitted to 106 observations across 53 participants.
 - Sessions ran in both in-person and online formats (experimental: 2 in-person, 5 online; control: 2 in-person, 6 online), and only short-term pre-to-post gains were measured, so persistence and transfer of prompting skill remain untested.
 

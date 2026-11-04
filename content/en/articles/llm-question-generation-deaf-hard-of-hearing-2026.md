@@ -40,9 +40,9 @@ The study highlights the importance of considering **[[language-learning|languag
 ## Limitations
 
 - A single 15-minute instructional video on one topic underpins the study; the authors state this limits generalizability across subject domains, video formats, and instructional styles.
-- The user study is qualitative with N=16 DHH participants (ten identified as Deaf and six as Hard of Hearing, recruited by word of mouth), and the authors say the small number limits statistical power and stronger comparison across question-generation strategies.
+- The user study is [[qualitative-research|qualitative]] with N=16 DHH participants (ten identified as Deaf and six as Hard of Hearing, recruited by word of mouth), and the authors say the small number limits statistical power and stronger comparison across question-generation strategies.
 - Emotion questions depend on sensitive learner data collected for only one video (aggregated facial-expression data from 20 learners), so extending the system creates a cold-start problem and requires longitudinal, transparent data collection.
-- Strategy-level findings rest on few respondents and self-report: only eight participants chose a single strategy, the visual-question comparison rests on five Deaf versus one Hard of Hearing learner, and ratings come from 7-point Likert items with interview themes coded from 5–10 transcripts each.
+- Strategy-level findings rest on few respondents and [[self-report-measures|self-report]]: only eight participants chose a single strategy, the visual-question comparison rests on five Deaf versus one Hard of Hearing learner, and ratings come from 7-point Likert items with interview themes coded from 5–10 transcripts each.
 
 ## Citation
 

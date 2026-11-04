@@ -35,7 +35,7 @@ ai_assist:
 3. **Institutional trust has no AI counterpart.** In 2026 Denmark led on trust in government (59% against 31%), parliament (67% against 25%) and the legal system (90% against 45%) but not on trust in AI.
 4. **Governance confidence moves with trust.** 47% of Romanians and 36% of Danes called current laws and safeguards adequate, and KPMG's pooled model makes confidence in AI governance the strongest driver (B = .62).
 5. **Wider relative gaps in Romania.** Youngest-to-oldest use ratio 11.5 against 3.2, high-to-low education ratio 16.2 against 2.4 among 25–64-year-olds, where 2.6% of low-educated Romanians used generative AI.
-6. **Skills indicators contradict each other.** 89% of Danes and 56% of Romanians rate their digital skills sufficient, yet AI knowledge is identical (2.5 of 5) and self-efficacy higher in Romania (4.7 against 4.1).
+6. **Skills indicators contradict each other.** 89% of Danes and 56% of Romanians rate their digital skills sufficient, yet AI knowledge is identical (2.5 of 5) and [[self-efficacy]] higher in Romania (4.7 against 4.1).
 7. **Sources disagree on Romanian use.** Eurostat gives 17.8%, KPMG 62% reporting regular or semi-regular AI use (57% in Denmark, reversing the ranking), AtlasIntel 83% using AI in at least one context.
 
 ## Two cases chosen for contrast

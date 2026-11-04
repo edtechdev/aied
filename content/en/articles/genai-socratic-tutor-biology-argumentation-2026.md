@@ -65,7 +65,7 @@ Supporting measures suggest the tutoring demanded effort without overwhelming st
 - The tutor was ChatGPT-4 (GPT-4, a 2023-era model) used through the consumer interface, so temperature, token limits, and other API-level parameters were unavailable and the model snapshot could change with platform updates.
 - Eight-week horizon with no follow-up, which the authors say may not be long enough for stable, transferable argumentative practice.
 - Outcomes were measured on Toulmin-pattern scores, and the design cannot isolate the AI medium from the structured pedagogical protocol it delivered.
-- Fidelity monitoring was asymmetric: 15% of AI-condition dialogues were audited, while control-group peer discussions received no equivalent structured check, and control-group non-use of generative AI rested on self-report.
+- Fidelity monitoring was asymmetric: 15% of AI-condition dialogues were audited, while control-group peer discussions received no equivalent structured check, and control-group non-use of generative AI rested on [[self-report-measures|self-report]].
 
 ## Citation
 

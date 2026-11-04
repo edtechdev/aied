@@ -12,7 +12,7 @@ sources: ['raw/papers/talebzadeh-ai-group-activity-roles-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** **The architecture of roles in AI-designed group activities.** A comparative qualitative study by Hossein Talebzadeh (2026) analyzing how **89 Iranian teachers (38 novice, 51 experienced)** assigned roles in **178 AI-designed group activities** within the Integrated AI Triad (IAT) framework. Using reflexive thematic analysis, the study introduces three constructs — **Role Richness, Role Synergy, and Level-Role Alignment** — and finds experienced teachers produced significantly richer, more interdependent, and more precisely ZPD-aligned role architectures, while novices often collapsed integrated projects into conventional assessments lacking product integration. The paper introduces **"pedagogical prompt literacy"** as a portable construct: AI output quality is fundamentally contingent on teachers' capacity to encode pedagogical intentions through Pedagogical Content Knowledge.
+> **Synthesis:** **The architecture of roles in AI-designed group activities.** A comparative [[qualitative-research|qualitative]] study by Hossein Talebzadeh (2026) analyzing how **89 Iranian teachers (38 novice, 51 experienced)** assigned roles in **178 AI-designed group activities** within the Integrated AI Triad (IAT) framework. Using reflexive thematic analysis, the study introduces three constructs — **Role Richness, Role Synergy, and Level-Role Alignment** — and finds experienced teachers produced significantly richer, more interdependent, and more precisely ZPD-aligned role architectures, while novices often collapsed integrated projects into conventional assessments lacking product integration. The paper introduces **"[[pedagogy|pedagogical]] [[prompt-engineering|prompt literacy]]"** as a portable construct: AI output quality is fundamentally contingent on teachers' capacity to encode pedagogical intentions through Pedagogical Content Knowledge.
 
 ## Overview
 
@@ -29,9 +29,9 @@ Designing effective [[collaborative-learning|cooperative group activities]] that
 
 - **Experienced teachers design richer role architectures.** 85% of experienced designs had detailed role descriptions (43/51) versus 30% of novice designs (11/38); 78% vs. 30% had 3+ distinct role types. (Percentages reflect relative thematic prevalence, not inferential claims.)
 - **The largest gap is Role Synergy.** 90% of experienced designs showed role interdependence (46/51) versus 35% of novice designs; novices frequently produced parallel tasks completable in isolation.
-- **Precise Level-Role Alignment.** Experienced teachers calibrated tasks to readiness — 88% had appropriately challenging advanced tasks and 90% appropriate basic tasks, with 65% explicit ZPD-calibration versus 15% for novices. Novices often used quantitative differentiation (more questions) rather than qualitative variation in cognitive demand.
+- **Precise Level-Role Alignment.** Experienced teachers calibrated tasks to readiness — 88% had appropriately challenging advanced tasks and 90% appropriate basic tasks, with 65% explicit ZPD-calibration versus 15% for novices. Novices often used [[quantitative-research|quantitative]] differentiation (more questions) rather than qualitative variation in cognitive demand.
 - **The novice–expert paradox.** Experienced teachers, despite less AI familiarity, produced superior designs — evidence that pedagogical expertise, not technical proficiency, drives effective AI integration. "Smart drunk intern" framing: AI output needs constant expert evaluation.
-- **Pedagogical prompt literacy.** Experienced teachers encoded PCK into prompts (e.g., the R.A.F. — Role + Audience + Format — framework) with greater precision. AI amplifies teacher judgment rather than replacing it.
+- **Pedagogical prompt literacy.** Experienced teachers encoded PCK into prompts (e.g., the R.A.F. — Role + Audience + Format — framework) with greater precision. AI amplifies [[teacher-role|teacher]] judgment rather than replacing it.
 - **Experience alone is insufficient.** A negative-case analysis showed one experienced teacher (19 years) produced low-synergy, non-integrated roles — experience must be paired with professional learning on integrating differentiated contributions.
 
 ## What this means for practice
@@ -47,7 +47,7 @@ Designing effective [[collaborative-learning|cooperative group activities]] that
 - Participants were 89 Iranian teachers (38 novice, 51 experienced) across four cohorts, and the authors state that the cultural and institutional context limits generalizability to other educational systems.
 - Data are 178 activity designs produced in an IAT workshop: they reflect design intentions, not classroom implementation, so the study does not show whether the designs were used or influenced student learning.
 - A single AI tool (ChatGPT-4) and specific prompt templates were used, so findings may not generalize to other generative AI systems.
-- The researcher was both framework developer and analyst, creating potential confirmation bias despite mitigation, and self-report elements may involve social desirability; double-coding covered ~20% of designs (overall Cohen's κ = 0.82).
+- The researcher was both framework developer and analyst, creating potential confirmation bias despite mitigation, and [[self-report-measures|self-report]] elements may involve social desirability; double-coding covered ~20% of designs (overall Cohen's κ = 0.82).
 
 ## Citation
 

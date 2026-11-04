@@ -13,11 +13,11 @@ sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high
 ---
 
-> **Synthesis:** An [[llm]]-based interactive module teaches [[k-12]] students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
+> **Synthesis:** An [[llm]]-based interactive module teaches [[k-12]] students [[prompt-engineering|prompting]] literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
 
 ## Study Design
 
-Xiao et al. designed and deployed a web-based interactive instructional system to teach **prompting literacy** to secondary-education students. The module was grounded in two learning sciences principles: **learning-by-doing** and **elaborated immediate feedback**. Students practiced prompt writing in three hypothetical learning scenarios ([[biology-education|biology]], geography, math), each paired with a unique instructional activity (extending knowledge, quiz preparation, homework struggle).
+Xiao et al. designed and deployed a web-based interactive instructional system to teach **prompting literacy** to secondary-education students. The module was grounded in two [[learning-sciences|learning sciences]] principles: **learning-by-doing** and **elaborated immediate feedback**. Students practiced prompt writing in three hypothetical learning scenarios ([[biology-education|biology]], geography, math), each paired with a unique instructional activity (extending knowledge, quiz preparation, homework struggle).
 
 After a student writes a prompt, an **LLM-based auto-grader** (GPT-4o) evaluates it across preset dimensions and delivers immediate, detailed feedback. The pipeline mirrors authentic AI [[conversational-ai|chatbot]] interaction: write prompt → receive AI response → get graded feedback.
 
@@ -48,13 +48,13 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 - **Prior AI usage frequency was positively correlated with initial prompt quality** (r = 0.27, p = .017), suggesting an [[equity-in-ai-education|equity]] concern
 
 ### Confidence and Perception
-- Self-reported confidence in using AI for learning **increased by 10.4%** (p < .001)
+- [[self-report-measures|Self-reported]] confidence in using AI for learning **increased by 10.4%** (p < .001)
 - **87% of students** reported learning AI-related knowledge (how to use AI for learning, how to ask effective questions, AI's capabilities)
 - Students valued: direct [[student-ai-interaction|AI interaction]], scenario-based design, immediate comprehensive feedback, and visual elements
 
 ### Assessment Design Lessons
 - **MCQs suffered from ceiling effects** — students could identify good prompts conceptually but couldn't write them effectively
-- **True/False + open-ended questions** demonstrated better item difficulty and discrimination than MCQs
+- **True/False + open-ended questions** demonstrated better [[item-response-theory|item difficulty]] and discrimination than MCQs
 - None of the original MCQ items fell into the desired difficulty range [0.3, 0.7], while 60% of OE and 30% of TF questions did
 
 ## Challenges Identified
@@ -74,7 +74,7 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 
 ## Limitations
 
-- Two classroom iterations in East Asian secondary schools with no comparison condition: the authors state the study did not compare this approach with other AI literacy instructional methods and propose using it as a benchmark for later comparisons.
+- Two classroom iterations in East Asian secondary schools with no comparison condition: the authors state the study did not compare this approach with other [[ai-literacy|AI literacy]] instructional methods and propose using it as a benchmark for later comparisons.
 - The auto-grader's accuracy is validated against human labels on 483 student-written prompts, and its weakest dimensions were Clarity of Purpose (0.85) and No Direct Answer (0.88), where it over-generated keywords and conflated Purpose with the No Direct Answer criterion.
 - Effects rest on self-report and short pre/post measures: confidence rose 10.4% (p < .001), but the 98 students who completed both pre- and post-test showed no significant change (p = .377) because of a pre-test ceiling (Mean = 4.4, SD = 1.04).
 - Reliability fell below the conventional benchmark and the assessment iteration rests on a small item pool: Cronbach's α was 0.68 for the original and 0.58 for the iterated version, which the authors attribute to small sample size and few items and flag for larger-scale administration.

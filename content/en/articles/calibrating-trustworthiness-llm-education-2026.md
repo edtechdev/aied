@@ -13,13 +13,13 @@ audience: [instructional designers, researchers]
 methods: [ai-ed-evaluation, design-based-research]
 ---
 
-> **Synthesis:** **Calibrating [[trust|Trustworthiness]]: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to [[pedagogy|pedagogical]] use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[learning-design]] [[edtech-platform]]
+> **Synthesis:** **Calibrating [[trust|Trustworthiness]]: Co-Designing Metrics and [[visualization|Visualizations]] for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to [[pedagogy|pedagogical]] use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[learning-design]] [[edtech-platform]]
 
 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM responses. Making trustworthiness explicit increased inter-rater reliability and helped learning engineers resolve conflicting objectives and produce more consistent judgments. Proposes design guidelines for future LLM evaluation tools that enable pedagogically-aligned learning tools.
 
 ## Abstract
 
-LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. Through a longitudinal co-design process with learning engineers developing an LLM-powered digital textbook, we co-constructed five trustworthiness metrics comprising 20 measures tailored to pedagogical use; designed visualizations that map trustworthiness violations onto LLM responses; and evaluated how these tools help learning engineers make A/B comparisons of LLM responses.
+LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. Through a longitudinal co-[[design-thinking|design process]] with learning engineers developing an LLM-powered digital textbook, we co-constructed five trustworthiness metrics comprising 20 measures tailored to pedagogical use; designed visualizations that map trustworthiness violations onto LLM responses; and evaluated how these tools help learning engineers make A/B comparisons of LLM responses.
 
 ## What this means for practice
 
@@ -31,7 +31,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 ## Limitations
 
 - Twelve learning engineer collaborators, all previously experienced with LLM-based educational technology and four of them also in the earlier co-design phases; no instructors or students took part.
-- Only LLaMa3 was evaluated, selected to match the partner textbook framework, and the measures adapted from the machine learning literature were not validated for educational contexts.
+- Only LLaMa3 was evaluated, selected to match the partner textbook framework, and the measures adapted from the [[machine-learning|machine learning]] literature were not validated for educational contexts.
 - Pooled decision agreement reached only Krippendorff's alpha = 0.4344, below the conventional 0.67 threshold, with each participant asked to complete all 30 match-ups within one hour.
 - The evaluation used a prompt tournament under a co-designed rubric rather than classroom practice, so whether the metrics improve real teaching decisions is untested.
 

@@ -24,7 +24,7 @@ audience: [researchers, instructional designers]
 
 - All 45 participants were students recruited from the authors' own institution (64.10% male, 35.90% female, mostly aged 24–26 and enrolled in postgraduate programs), so the sample is one site and not representative of broader learner populations.
 - Learner-side constructs such as productive struggle and curiosity were scored by an LLM-as-a-judge pipeline across three frontier models, not by independent human raters, and the authors state that text-only evaluation cannot capture the physiological arousal central to Berlyne's framework.
-- Every interaction ran through a text-only interface with self-reported moderate English proficiency (reading 3.26±0.12, writing 3.16±0.13 on a 5-point scale), so learners who communicate in technical rather than verbose markers may be systematically underscored.
+- Every interaction ran through a text-only interface with [[self-report-measures|self-reported]] moderate English proficiency (reading 3.26±0.12, writing 3.16±0.13 on a 5-point scale), so learners who communicate in technical rather than verbose markers may be systematically underscored.
 - The operator-selection policy is a fixed prompted decision rule mapping engagement signals to operators, and the authors describe it as unoptimized, leaving learned controllers such as a contextual bandit over the five-operator action space as future work.
 
 ## Citation

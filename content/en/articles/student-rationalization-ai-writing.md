@@ -24,7 +24,7 @@ institutions: [educational-policy-ai]
 
 For any given course, the paper finds at least five distinct sites that house concepts of appropriate AI use, which often diverge from one another:
 
-1. **Faculty Intention** — instructors' expectations of student AI use (often not clearly expressed).
+1. **Faculty Intention** — instructors' expectations of [[student-ai-interaction|student AI use]] (often not clearly expressed).
 2. **Formal Policy** — the explicit written rules in syllabi or assignment instructions.
 3. **Student Interpretation** — a student's own understanding, recall, and/or interpretation of the formal policy.
 4. **Student Self-Policy** — a student's own normative views about appropriate AI use.
@@ -65,7 +65,7 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 
 - The sample is 20 undergraduate students from 12 U.S. universities (15 female, 5 male), all self-reporting AI use at "sometimes" or higher on a screening survey, so students who avoid AI and broader populations are not represented.
 - Instructors were never interviewed, so the authors cannot determine how faculty intended students to interpret or apply classroom AI policies — the "faculty intention" site is inferred rather than measured.
-- The behavioral evidence is self-report plus uneven documentation: not all participants supplied their syllabi, submitted assignments, and AI logs, which the authors say may limit the ability to fully capture their practices.
+- The behavioral evidence is [[self-report-measures|self-report]] plus uneven documentation: not all participants supplied their syllabi, submitted assignments, and AI logs, which the authors say may limit the ability to fully capture their practices.
 - The findings describe a U.S. undergraduate writing context, and the authors interpret the rationalization taxonomy as a starting point requiring study in other writing-centered populations.
 
 ## Citation

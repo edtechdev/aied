@@ -14,11 +14,11 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** In a cross-sectional survey of 276 Chinese [[higher-ed|undergraduates]], both [[self-efficacy|academic self-efficacy]] and teacher support were negatively associated with AI dependency, while AI dependency was positively associated with learning burnout. AI dependency fully mediated both relationships, meaning the effect of each resource on burnout ran almost entirely through how dependent students had become on AI. The study frames [[ai-misuse-learning-harm|excessive AI reliance]] as a resource-depletion process that links individual and contextual resources to students' [[well-being|emotional exhaustion]] and disengagement.
+> **Synthesis:** In a cross-sectional survey of 276 Chinese [[higher-ed|undergraduates]], both [[self-efficacy|academic self-efficacy]] and [[teacher-role|teacher]] support were negatively associated with AI dependency, while AI dependency was positively associated with learning burnout. AI dependency fully mediated both relationships, meaning the effect of each resource on burnout ran almost entirely through how dependent students had become on AI. The study frames [[ai-misuse-learning-harm|excessive AI reliance]] as a resource-depletion process that links individual and contextual resources to students' [[well-being|emotional exhaustion]] and disengagement.
 
 ## Key Findings
 
-- **Academic self-efficacy lowers AI dependency.** Students who felt more confident about completing learning tasks on their own were markedly less likely to depend on AI. The authors read this through Cognitive Offloading Theory: low-confidence students delegate demanding tasks to AI, which habitual delegation then reinforces.
+- **Academic self-efficacy lowers AI dependency.** Students who felt more confident about completing learning tasks on their own were markedly less likely to depend on AI. The authors read this through [[cognitive-offloading|Cognitive Offloading]] Theory: low-confidence students delegate demanding tasks to AI, which habitual delegation then reinforces.
 
 - **Teacher support also reduces AI dependency, but only weakly.** Students who received clearer guidance, involvement, and autonomy support from teachers showed less AI dependency, yet teacher support explained only a small share of the variance in AI dependency. The authors take this as a sign that their model captures only part of what drives dependency — other individual and contextual factors matter too.
 
@@ -47,7 +47,7 @@ Four instruments were used: an eight-item Academic Self-Efficacy Scale adapted f
 ## Limitations
 
 - The cross-sectional design cannot establish causality or capture change over time; reciprocal relationships are plausible (burnout may itself drive dependency), and longitudinal or experimental designs are needed.
-- All measures were self-report, inviting social desirability and subjective bias; the adapted AI Dependency Scale showed satisfactory reliability and construct validity but its content validity was not assessed via expert review or pilot testing; pROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modeling with bootstrapped indirect effects is recommended.
+- All measures were self-report, inviting social desirability and subjective bias; the adapted AI Dependency Scale showed satisfactory reliability and [[assessment-validity|construct validity]] but its content validity was not assessed via expert review or pilot testing; pROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modeling with bootstrapped indirect effects is recommended.
 - The sample was limited to undergraduates at a few comprehensive universities in Chengdu, China, using convenience sampling — limiting external validity, since AI dependency may vary with [[curriculum-design|curriculum]], assessment practices, technology access, institutional [[educational-policy-ai|AI policy]], and teacher–student relationships across contexts.
 
 - Other relevant antecedents (self-regulated learning, [[motivation|intrinsic motivation]], [[critical-thinking|critical thinking]], academic engagement) and boundary conditions (AI literacy, digital competence, usage frequency, discipline, personality, achievement) were not modeled; the observed group differences are not formal moderation effects.

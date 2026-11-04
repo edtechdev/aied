@@ -41,7 +41,7 @@ The comparison was built inside courses rather than a lab. Six EPFL courses supp
 
 ## The cues students used to read the source
 
-Of 447 usable responses to the open-ended question, 355 (79.4%) referenced pedagogical features and 250 (56%) referenced surface ones. Objectivity dominated: 177 students discussed it, and among the 95 who commented on precision only 18 attributed imprecise feedback to humans. Accuracy was another tell, with 61 of 64 students who judged feedback inaccurate attributing it to AI. Genuineness was the most lopsided, where 94 of 99 students attributed a warm communication style to humans and all 45 who found feedback overly praising attributed it to AI. Grammatically flawless feedback (n = 91) was attributed to AI with no exceptions, while typos and poor formatting (n = 34) were always assigned to humans.
+Of 447 usable responses to the open-ended question, 355 (79.4%) referenced [[pedagogy|pedagogical]] features and 250 (56%) referenced surface ones. Objectivity dominated: 177 students discussed it, and among the 95 who commented on precision only 18 attributed imprecise feedback to humans. Accuracy was another tell, with 61 of 64 students who judged feedback inaccurate attributing it to AI. Genuineness was the most lopsided, where 94 of 99 students attributed a warm communication style to humans and all 45 who found feedback overly praising attributed it to AI. Grammatically flawless feedback (n = 91) was attributed to AI with no exceptions, while typos and poor formatting (n = 34) were always assigned to humans.
 
 ## The bias is about the provider, not the text
 

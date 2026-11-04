@@ -31,13 +31,13 @@ confidence: high
 - **Instructors.** Replace detection-centered enforcement with authorship-centered guidance: state at assignment level which AI uses are permissible and require disclosure of the tasks delegated to AI, rather than relying on a general prohibition.
 - **Instructors.** Teach non-substitutive, self-regulated use directly, because more frequent AI use (OR = 0.669) and stronger perceived learning support (OR = 0.581) each lowered the odds of students labeling AI use as fraud, while perceived dependence rather than frequency tracked reported academic failure.
 - **Learners.** Treat unresolved disagreement as a reason to ask rather than to guess: 135 of 357 respondents were undecided about the fraud framing while most of them used AI almost always.
-- **Administrators.** Publish assignment-level boundaries, fund [[ai-literacy|AI literacy]] work around authorship and dependence, and address inequitable access to academic support; read the creativity concern behind stricter judgments (OR = 1.498, p < 0.001) as a teaching topic rather than grounds for a ban.
+- **Administrators.** Publish assignment-level boundaries, fund [[ai-literacy|AI literacy]] work around authorship and dependence, and address inequitable access to [[student-support-and-success|academic support]]; read the creativity concern behind stricter judgments (OR = 1.498, p < 0.001) as a teaching topic rather than grounds for a ban.
 - **Researchers.** Test whether disclosure templates, oral defenses, or [[process-oriented-assessment|process-based assessment]] reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
 
 ## Limitations
 
 - Single site: the 357 undergraduates came from 14 programs at the Manizales campus of one Colombian public university, and the authors present the findings as context-sensitive rather than a universal model of student ethics.
-- All measures are self-reported and the design is cross-sectional, so the results are associations rather than causal effects; social desirability may have led some students to underreport practices they consider questionable.
+- All measures are [[self-report-measures|self-reported]] and the design is cross-sectional, so the results are associations rather than causal effects; social desirability may have led some students to underreport practices they consider questionable.
 - Integrity was measured with a small number of direct perception items rather than a validated questionnaire, including a single item on whether AI use is fraud, and the dataset held no scenario-based AI cases or disclosure-practice items.
 - The survey captured declared perceptions, not observed AI behavior, so the study cannot show how stated judgments correspond to students' actual AI-use practices.
 

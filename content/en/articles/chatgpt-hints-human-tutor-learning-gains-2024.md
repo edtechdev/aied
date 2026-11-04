@@ -16,7 +16,7 @@ level: [adult learning]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
+> **Synthesis:** Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing [[generative-ai|ChatGPT]]-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
 
 Authoring help content for educational [[ai-technologies|technologies]] is labor-intensive and costly — a full-time employee may take a year to produce a textbook's worth of material. If LLMs can generate hints with sufficiently low error and sufficient learning efficacy, they could alleviate the most time- and cost-intensive component of tutoring-system development and enable scaling to many domains. This study evaluates whether ChatGPT-generated worked-solution hints can do so.
 
@@ -49,7 +49,7 @@ A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk work
 
 ## Limitations
 
-- Participants were 274 crowdsourced Mechanical Turk workers (all MTurk Masters with at least a high-school degree), not in-situ secondary or post-secondary students.
+- Participants were 274 crowdsourced Mechanical Turk workers (all MTurk Masters with at least a high-school degree), not in-situ secondary or [[higher-ed|post-secondary]] students.
 - Problems containing graphical figures were excluded because the ChatGPT version available at the time could not accept image input, so the corpus covers text-only problems only.
 - The study relied on a closed-source model (ChatGPT 3.5) whose weights are not public, leaving the generation pipeline unreproducible with open alternatives.
 - Attrition was high at 30%, though roughly even across conditions (36–43 excluded participants per condition), and the scope was limited to secondary and early post-secondary mathematics.

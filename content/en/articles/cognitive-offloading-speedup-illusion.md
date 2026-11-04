@@ -20,7 +20,7 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 
 - **Learners.** Time yourself on a short task both with and without AI before assuming the tool saves time: participants predicted AI would cut completion times by 68.5 seconds (β = 68.5, SE = 3.37, p < 0.001), but their actual AI-assisted times were significantly longer than their predictions while independent estimates were accurate.
 - Judge a tool on two separate questions — "was it faster?" and "did it feel easier?" — because AI assistance reduced NASA-TLX effort by 0.61 points on a 7-point scale while speeding up only three of the 24 tasks.
-- Budget time for reading and checking model output: on the logic problem, post-response processing took 113.9 seconds longer than prompting, and AI-assisted completion of that task was slower.
+- Budget time for reading and checking model output: on the logic problem, post-response processing took 113.9 seconds longer than [[prompt-engineering|prompting]], and AI-assisted completion of that task was slower.
 - Write your own prompts rather than pasting the assignment text; 18.5% of prompts were copied directly from the instructions, and copying did not significantly reduce completion time.
 - Compare AI against a competent human peer before delegating: participants expected AI to be 51.4 seconds faster than assistance from another participant.
 

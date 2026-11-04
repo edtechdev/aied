@@ -57,7 +57,7 @@ Three instruments anchor the results. External feedback was measured with a 31-i
 
 ## Limitations
 - 200 seventh-grade students (aged 12–13) from four intact classes at one public [[k-12|secondary school]] in Shenzhen were assigned by class rather than randomization, so causal claims rest on a quasi-experimental design.
-- Group 1's Chinese language instructors were replaced by two computer science teachers offering only technical support, while Group 2 kept Chinese teachers with master's degrees and fewer than five years of teaching experience; teacher effects are confounded with the feedback condition.
+- Group 1's Chinese language instructors were replaced by two [[cs-education|computer science]] teachers offering only technical support, while Group 2 kept Chinese teachers with master's degrees and fewer than five years of teaching experience; teacher effects are confounded with the feedback condition.
 - The intervention ran for two months (September 2025 to late 2025) with no follow-up measurement, so whether the feedback-orientation gains persist is untested.
 - The pre-test SFPQ was psychometrically weak (Cronbach's α of .505 for Group 1 Dimension 2 and .413 for Group 2 Dimension 2), which limits how far baseline comparisons can be trusted.
 - Feedback, feedback orientation and perceived feedback quality are [[self-report-measures|self-reported]] on Likert scales, so the stalled pathway could reflect changed response habits rather than changed reading practice.

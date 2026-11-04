@@ -30,7 +30,7 @@ methods: [ai-ed-evaluation]
 2. **Terminology is now an input channel.** When a tool accepts natural language, every choice a vague specification leaves open is silently ceded to the tool — "integrate this ODE with adaptive Runge–Kutta and verify energy conservation" and "make the ball bounce right" yield categorically different artifacts.
 3. **Tool operation has inverted shape.** Operating NumPy required narrow, deep skill; directing an agent requires broad, shallow "interactional expertise" (conversing, judging plausibility, directing work) across many ecosystems.
 4. **Verification is newly load-bearing.** A library FFT is opaque but *socially validated*; an AI simulation is opaque and *bespoke* — a population-of-one artifact whose failures arrive disguised as successes. The verification burden ecosystems amortized now lands on each student, for each artifact, every time.
-5. **Principle of validation authority.** *Delegation is safe exactly where the delegator retains the ability to validate the outputs.* "Anyone can build software with AI" holds only where correctness is observable in use (dashboards, apps); a [[physics-education|physics]] simulation's correctness must be *established* by disciplinary checks.
+5. **Principle of validation authority.** *Delegation is safe exactly where the delegator retains the ability to validate the outputs.* "Anyone can build software with AI" holds only where correctness is observable in use ([[visualization|dashboards]], apps); a [[physics-education|physics]] simulation's correctness must be *established* by disciplinary checks.
 6. **Two-instrument assessment.** AI-free in-class coding quizzes (white-box residue) plus ten-minute oral defenses of comment-stripped AI-assisted work, scored on a five-dimension rubric with a verification gate that must reach "functional" regardless of total.
 
 ## The five pillars (tool-invariant)
@@ -65,7 +65,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 - **White-box, then black-box** (Buchberger): study a method transparently (hand-code the 15-line Euler integrator, watch it fail at large dt) *before* delegating. Dissolves the "must code vs. need not code" debate — both true at different rungs, tied to [[scaffolding]] theory.
 - **Error injection:** give students subtly-wrong agent output (sign error, dt too large, wrong potential); grade the *diagnosis*. Trains reading code one didn't write — a core response to [[ai-misuse-learning-harm|over-reliance]].
-- **Motivation over prohibition:** a guardrailed tutor helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation]], not bans — echoing [[self-regulated-learning]] and [[help-seeking]] theory.
+- **Motivation over prohibition:** a [[guardrails|guardrailed tutor]] helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation]], not bans — echoing [[self-regulated-learning]] and [[help-seeking]] theory.
 - Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production, connecting to [[cognitive-offloading]].
 
 ## What this means for practice

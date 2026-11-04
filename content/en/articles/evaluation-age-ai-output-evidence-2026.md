@@ -15,14 +15,14 @@ confidence: high
 audience: [instructors, administrators, assessment designers]
 ---
 
-> **Synthesis:** Chowdhury and Khan (2026) examine the [[ethics|ethical]] challenges of [[assessment|educational evaluation]] in the age of [[generative-ai]], arguing that the core problem extends beyond academic dishonesty to a deeper misalignment between assessment practices and the [[learning-gains|learning outcomes]] they are meant to measure. When tasks that once served as proxies for understanding (essays, problem sets, code) can now be generated superficially by LLMs, evaluation regimes that rely on artificial constraints risk measuring compliance, access, or concealment rather than genuine understanding, reasoning, or judgment. Drawing on analysis of [[governance|institutional]] responses and original survey data on faculty perceptions, they advocate shifting from "output-as-evidence" to process-based evaluation models that preserve [[agency|student agency]] and accountability.
+> **Synthesis:** Chowdhury and Khan (2026) examine the [[ethics|ethical]] challenges of [[assessment|educational evaluation]] in the age of [[generative-ai]], arguing that the core problem extends beyond [[academic-integrity|academic dishonesty]] to a deeper misalignment between assessment practices and the [[learning-gains|learning outcomes]] they are meant to measure. When tasks that once served as proxies for understanding (essays, problem sets, code) can now be generated superficially by LLMs, evaluation regimes that rely on artificial constraints risk measuring compliance, access, or concealment rather than genuine understanding, reasoning, or judgment. Drawing on analysis of [[governance|institutional]] responses and original survey data on faculty perceptions, they advocate shifting from "output-as-evidence" to process-based evaluation models that preserve [[agency|student agency]] and accountability.
 
 ## Key Findings
 
 1. The "output-as-evidence" model — assuming the artifact reflects cognitive labor — has been fundamentally disrupted by LLMs, creating a verification problem institutional frameworks are not equipped to resolve.
-2. Institutional focus on "cheating" and AI detection is insufficient and introduces harms of surveillance (lockdown browsers, eye-tracking), including privacy violations and anxiety-inducing testing conditions.
+2. Institutional focus on "cheating" and [[ai-detection|AI detection]] is insufficient and introduces harms of surveillance (lockdown browsers, eye-tracking), including privacy violations and [[anxiety-and-stress|anxiety]]-inducing testing conditions.
 3. A "Performance Gap" emerged: roughly 45% of faculty respondents noted students using paid/"Pro" [[llm]] tiers produced work with higher stylistic clarity and fewer [[hallucination-risk|hallucinations]], suggesting assessment may inadvertently grade socioeconomic status rather than ability.
-4. The "Disclosure Trap": students fear declaring AI use will lower marks even when permitted, driving ethical AI use underground and making it less reflective and transparent.
+4. The "Disclosure Trap": students fear [[ai-use-disclosure|declaring AI use]] will lower marks even when permitted, driving ethical AI use underground and making it less reflective and transparent.
 5. Faculty reported "[[pedagogy|pedagogical]] burnout" — displacement of [[teacher-role|teaching]] by policing, with educators becoming "Digital Prosecutors" in an escalating detection/evasion arms race.
 
 ## Alternative Assessment Models
@@ -32,17 +32,17 @@ The authors argue evaluation must shift from certifying a final artifact to docu
 ## What this means for practice
 
 - **Assessment designers.** Replace output-as-evidence checks with documentation of the process — in-class resource-restricted [[problem-solving]], think-aloud protocols, annotated drafts, and iterative revision logs — so reasoning rather than the artifact is graded.
-- **Administrators.** Deprioritize detection: 15 of 20 respondents reported heavy institutional reliance on AI detection software while only 4 of 20 expressed confidence in it, leaving faculty to enforce a process they distrust and adding false-positive, privacy, and equity harms without protecting the integrity of the judgment.
+- **Administrators.** Deprioritize detection: 15 of 20 respondents reported heavy institutional reliance on AI detection software while only 4 of 20 expressed confidence in it, leaving faculty to enforce a process they distrust and adding false-positive, privacy, and [[equity-in-ai-education|equity]] harms without protecting the integrity of the judgment.
 - **Educators.** Adopt a bounded-involvement framework such as the FACT framework or the AI Assessment Scale so AI use is explicitly permitted, disclosed, and critically evaluated within each task instead of prohibited wholesale.
-- **Administrators.** Treat policing as an instructional cost: respondents described "pedagogical burnout" and acting as "Digital Prosecutors," with time diverted from instructional design and student mentorship.
+- **Administrators.** Treat policing as an instructional cost: respondents described "pedagogical burnout" and acting as "Digital Prosecutors," with time diverted from [[learning-design|instructional design]] and student mentorship.
 - **Assessment designers.** Check the payment gap: roughly 45% of respondents saw higher stylistic clarity and fewer [[hallucination-risk|hallucinations]] from students on paid "Pro" LLM tiers, so unmodified tasks can end up grading ability to pay.
 
 ## Limitations
 
-- The empirical base is a mixed-method survey distributed to 20 higher education professionals and students in North America and Bangladesh in the Fall of 2025; the authors describe the findings as exploratory and illustrative rather than broadly generalizable.
-- The discipline comparison rests on agreement counts out of those same 20 respondents (Computer Science 19/20 versus 16/20 in Humanities and Professional degrees), not on per-discipline samples, so the reported "discipline divide" is unweighted.
-- All quantitative figures are self-reported attitudes — faculty confidence in detection tools, perceived task vulnerability, perceived institutional support on a 5-point Likert scale — with no student work, detector accuracy, or grading outcome measured.
-- The survey was fielded once with no control or comparison condition, and the qualitative material comes from inductive thematic coding of open-ended responses, so no causal claims about detection or assessment redesign follow.
+- The empirical base is a mixed-method survey distributed to 20 [[higher-ed|higher education]] professionals and students in North America and Bangladesh in the Fall of 2025; the authors describe the findings as exploratory and illustrative rather than broadly generalizable.
+- The discipline comparison rests on agreement counts out of those same 20 respondents ([[cs-education|Computer Science]] 19/20 versus 16/20 in Humanities and Professional degrees), not on per-discipline samples, so the reported "discipline divide" is unweighted.
+- All [[quantitative-research|quantitative]] figures are [[self-report-measures|self-reported]] attitudes — faculty confidence in detection tools, perceived task vulnerability, perceived institutional support on a 5-point Likert scale — with no student work, detector accuracy, or grading outcome measured.
+- The survey was fielded once with no control or comparison condition, and the [[qualitative-research|qualitative]] material comes from inductive thematic coding of open-ended responses, so no causal claims about detection or assessment redesign follow.
 
 ## Citation
 

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-25T14:15:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -13,7 +13,7 @@ discipline: [cs education, writing education]
 reviewed_by: [editor]
 ---
 
-> **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms in this knowledge base — in which prose becomes the primary programming interface.
+> **Vibe coding** — building software by iteratively prompting a [[llm|large language model]] and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms in this knowledge base — in which prose becomes the primary programming interface.
 
 ## Questions to Consider
 
@@ -39,7 +39,7 @@ A preregistered cross-sectional study (N = 100 tertiary students) provides the f
 
 ### Vibe coding as end-user development and teacher tooling
 
-A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed K-12 teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In higher education, an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
+A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed [[k-12]] teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In [[higher-ed|higher education]], an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
 
 ### Design homogenization: access without diversity
 
@@ -49,7 +49,7 @@ Vibe coding's end-user-development promise is about who can build, not what gets
 
 Vibe coding reopens core questions about what is learned when AI automates implementation. Because the user does not read code, they must trust the model's behavior — which makes vibe coding a high-stakes case of the tension between [[agency]] and [[cognitive-offloading|over-reliance]] that runs through AI-assisted programming. Curricula are responding by shifting from teaching implementation toward teaching how to direct, verify, and audit AI-generated artifacts (see [[reshaping-cs-education-genai|reshaping undergraduate CS]] and [[agentic-ai|agentic software engineering]]). Vibe coding also changes the learner's epistemic position: success depends less on writing code than on expressing intent precisely and evaluating behavior against goals, competencies closer to [[computational-thinking|computational thinking]] and structured writing than to traditional syntax mastery.
 
-A second limit shows up in the building itself: removing the coding barrier can leave the diagnosis burden untouched. Two engineering case studies had an instructor build working web simulations of a battery thermal management system and three ARQ protocols by prompting Gemini in plain language within a few hours ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). A duplicate-packet error then survived repeated prompts, including one that stated the required behavior. It was fixed only when the instructor reasoned from protocol behavior to an insufficient timeout interval, a parameter the interface never exposed. Neither simulation's effect on learning was measured, so the account establishes feasibility rather than effectiveness.
+A second limit shows up in the building itself: removing the coding barrier can leave the diagnosis burden untouched. Two engineering case studies had an instructor build working web [[simulation|simulations]] of a battery thermal management system and three ARQ protocols by prompting Gemini in plain language within a few hours ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). A duplicate-packet error then survived repeated prompts, including one that stated the required behavior. It was fixed only when the instructor reasoned from protocol behavior to an insufficient timeout interval, a parameter the interface never exposed. Neither simulation's effect on learning was measured, so the account establishes feasibility rather than effectiveness.
 
 ### Connections to related concepts
 
@@ -71,7 +71,7 @@ A faculty-level case study in this knowledge base supplies the organizational la
 
 **For instructors and teacher educators**
 
-- Teach the difference between pure and code-visible vibe coding explicitly, and require the second for anything that will handle student data. The distinction is a teachable habit, not a philosophical nicety.
+- Teach the difference between pure and code-visible vibe coding explicitly, and require the second for anything that will handle student data. The distinction is a teachable habit, not a [[philosophy-of-ai-in-education|philosophical]] nicety.
 - Keep a real programming thread alongside vibe-coding work, because CS achievement carried about twice the unique predictive variance. Treating natural-language specification as a full substitute discards the stronger predictor.
 - Have students evaluate the artifact behaviorally *and* inspect the source of anything they deploy. Reading generated code is a review skill, and it is not automatic for students who can prompt.
 
@@ -83,7 +83,7 @@ A faculty-level case study in this knowledge base supplies the organizational la
 
 **For researchers**
 
-- Report the vibe-coding condition (pure versus code-visible) alongside outcomes, and use expert-vetted, GUI-oriented tasks rather than self-reported success, so results are comparable across studies.
+- Report the vibe-coding condition (pure versus code-visible) alongside outcomes, and use expert-vetted, GUI-oriented tasks rather than [[self-report-measures|self-reported]] success, so results are comparable across studies.
 - Measure artifact diversity, not only artifact count or builder count, if the access argument is being tested.
 
 ## Connected Concepts

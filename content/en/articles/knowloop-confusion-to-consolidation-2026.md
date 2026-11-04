@@ -39,7 +39,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 ### Tensions
 - The Teaching Assistant sometimes redirected questions back to lecture content when learners wanted broader exploration
 - Responses could be too long and text-heavy
-- The transition into teach-back felt abrupt and anxiety-inducing
+- The transition into teach-back felt abrupt and [[anxiety-and-stress|anxiety]]-inducing
 - Participants wanted the ability to switch between Resolve and Consolidate fluidly
 
 ## What this means for practice
@@ -54,8 +54,8 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 - The user study had 22 participants, all with [[stem-education|STEM]] backgrounds and low [[prior-knowledge|prior knowledge]] of the material, working through a single 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture — the authors call generalizability limited.
 - Only short-term review interactions were studied; no long-term learning outcomes were measured, so [[retrieval-spacing-interleaving|retention effects]] are unknown.
-- This is an exploratory qualitative experience study, not a controlled comparison against a no-AI condition or a general-purpose chatbot.
-- Individual differences in metacognitive ability were not assessed, though the authors expect them to shape confusion-marking behavior and workflow engagement.
+- This is an exploratory [[qualitative-research|qualitative]] experience study, not a controlled comparison against a no-AI condition or a general-purpose [[conversational-ai|chatbot]].
+- Individual differences in [[metacognition|metacognitive]] ability were not assessed, though the authors expect them to shape confusion-marking behavior and workflow engagement.
 
 ## Citation
 

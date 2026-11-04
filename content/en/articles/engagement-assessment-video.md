@@ -47,7 +47,7 @@ EduGage contributes **real-time sensor fusion** for momentary assessment during 
 ### Technical Approach
 - **Sensors:** Webcam (eye tracking), interaction logs, and wearable devices capturing PPG, ECG, EDA, EEG, IMU, heart rate, and temperature
 - **Assessment:** Momentary (in-the-moment) vs. retrospective, aligned to ~44-second probe-aligned windows
-- **Feedback loop:** Real-time [[reflection]] prompts based on engagement state
+- **[[feedback|Feedback loop]]:** Real-time [[reflection]] prompts based on engagement state
 
 ## Study Design and the EduGage Dataset
 
@@ -83,7 +83,7 @@ This aligns with [[adaptive-learning]] principles: real-time learner modeling â†
 
 - The study recruited 16 college students from one university through mailing lists and online postings, so the cohort is small, single-site, and not representative of other learner populations.
 - Data were collected in a controlled laboratory session using four instructional videos from the MIT Open Learning Library; the authors state that extending the approach to larger, longer-term, and more naturalistic environments such as homes and libraries remains future work.
-- The prediction target is a single self-report item ("How difficult was it to pay attention during the last part of the lecture?") on a 5-point Likert scale that captures only the attentional dimension of engagement, and the authors note that exact self-reported scores remain difficult to predict.
+- The prediction target is a single self-report item ("How difficult was it to pay attention during the last part of the lecture?") on a 5-point Likert scale that captures only the attentional dimension of engagement, and the authors note that exact [[self-report-measures|self-reported]] scores remain difficult to predict.
 - All results come from participant-based 4-fold cross-validation over 715 probe-aligned windows of 44 seconds each rather than a deployed system; an LLM few-shot baseline reaches only 46.86% binary accuracy on the same task, showing how little signal a text-only approach extracts.
 
 ## Citation

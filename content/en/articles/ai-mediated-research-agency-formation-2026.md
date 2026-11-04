@@ -20,7 +20,7 @@ reviewed_by: [editor]
 3. **The autonomy pathway is stronger.** In the item-level latent model, β = −.137 through autonomy versus β = −.085 through self-efficacy: perceived ownership of the research process is the principal route from dependence to innovation.
 4. **Supervisory support buffers selectively.** The interaction was significant for autonomy (B = .077, p = .020) and innovative behavior (B = .092, p = .005) but not for self-efficacy (B = .066, p = .064).
 5. **Conditional indirect effects shrink under support.** The autonomy-mediated association fell from −.149 at low support to −.077 at high support; the total indirect association fell from −.238 to −.125, about 47.5% in absolute magnitude.
-6. **Split-sample psychometrics.** Parallel analysis retained one AI-dependence factor in one random half (n = 210) and one-factor CFA fitted the other (χ2(35) = 43.33, CFI = .990, RMSEA = .034); the five-factor item-level model fitted the full sample (χ2 = 818.95 (655), CFI = .979, RMSEA = .024).
+6. **Split-sample [[educational-measurement|psychometrics]].** Parallel analysis retained one AI-dependence factor in one random half (n = 210) and one-factor CFA fitted the other (χ2(35) = 43.33, CFI = .990, RMSEA = .034); the five-factor item-level model fitted the full sample (χ2 = 818.95 (655), CFI = .979, RMSEA = .024).
 
 ## AI Dependence as Epistemic Delegation
 

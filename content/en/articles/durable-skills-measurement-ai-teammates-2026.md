@@ -59,7 +59,7 @@ The boundaries are equally clear. Participants were US-based English-native adul
 - **Assessment designers.** Treat ratable evidence as a design variable: skill-matched Executive steering produced ratable evidence in 92.4% of project-management conversations and 85% of conflict-resolution conversations, significantly more than unconstrained independent agents.
 - **Assessment designers.** Do not count on priming or task redesign to raise evidence — telling participants to attend to a skill had no significant effect (all p > 0.6), and a science versus debate task made no difference (p = 0.18 for conflict resolution, p = 0.9 for project management).
 - **Designers.** Build one steering model that holds the rubric and manufactures occasions for evidence — for example a teammate who initiates a conflict and sustains it until resolution has been observed — instead of several unconstrained agents that collaborate smoothly and surface nothing to score.
-- **Edtech designers.** Steer per skill and plan for multiple conversations per learner: matched [[collaborative-learning|collaboration]] steering raised evidence for its target skill but lowered the other's, so one conversation cannot carry a whole-profile judgment.
+- **[[educational-technology-developers|Edtech designers]].** Steer per skill and plan for multiple conversations per learner: matched [[collaborative-learning|collaboration]] steering raised evidence for its target skill but lowered the other's, so one conversation cannot carry a whole-profile judgment.
 - **Researchers.** Report the reliability ceiling next to any automated score: two trained raters agreed at Cohen's Kappa of 0.45–0.64, and the LLM evaluator falls in the same band.
 
 ## Limitations

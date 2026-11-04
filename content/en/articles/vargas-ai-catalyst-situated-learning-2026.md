@@ -13,7 +13,7 @@ sources: ['raw/papers/vargas-ai-catalyst-situated-learning-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Vargas, Chiappe & Fontán de Bedout (2026) argue that AI can act as a **catalyst for [[situated-learning|situated learning]]** by connecting education to authentic, real-world contexts. Drawing on Lave & Wenger's (1991) communities of practice and Dewey's (1926) "learning by doing," the essay positions AI — through [[personalized-learning|personalization]], data [[learning-analytics|analytics]], and realistic simulation environments — as the mechanism to overcome the [[curriculum-design|curricular]] rigidity, resource scarcity, and lack of [[virtual-and-augmented-reality|immersive]] tools that block situated learning in "Education 4.0." The teacher's role is reframed from information transmitter to facilitator, and AI is framed as a complement to, not a substitute for, human interaction, with explicit cautions about [[cognitive-offloading|over-reliance]], equity, and data [[ethics]].
+> **Synthesis:** Vargas, Chiappe & Fontán de Bedout (2026) argue that AI can act as a **catalyst for [[situated-learning|situated learning]]** by connecting education to authentic, real-world contexts. Drawing on Lave & Wenger's (1991) communities of practice and Dewey's (1926) "[[experiential-learning|learning by doing]]," the essay positions AI — through [[personalized-learning|personalization]], data [[learning-analytics|analytics]], and realistic simulation environments — as the mechanism to overcome the [[curriculum-design|curricular]] rigidity, resource scarcity, and lack of [[virtual-and-augmented-reality|immersive]] tools that block situated learning in "Education 4.0." The teacher's role is reframed from information transmitter to facilitator, and AI is framed as a complement to, not a substitute for, human interaction, with explicit cautions about [[cognitive-offloading|over-reliance]], equity, and data [[ethics]].
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ confidence: high
 ## What this means for practice
 
 - **Instructors.** Anchor activities in real or simulated professional contexts instead of abstract exercises, and use AI analytics to match task difficulty to each learner's readiness.
-- **Instructors.** Keep AI in a supporting role: reserve it for scaffolding, dashboards, and feedback, and protect the human interaction and real-world placement that simulations cannot replace.
+- **Instructors.** Keep AI in a supporting role: reserve it for [[scaffolding]], dashboards, and feedback, and protect the human interaction and real-world placement that simulations cannot replace.
 - **Designers.** Pair every immersive scenario with graduated difficulty so students build competence before working under pressure, since a wholly risk-free environment can leave performance-under-pressure skills undeveloped.
 - **Administrators.** Budget for the development, maintenance, and technical support that AI simulation environments require, and plan for [[equity-in-ai-education|equitable access]] so cost does not confine situated learning to well-resourced institutions.
 

@@ -35,7 +35,7 @@ A total of 162 university students (M_age = 20.1) participated in a GenAI-assist
 - **Instructors.** Ask students to draft their own summary first and request critique of it, then to refine iteratively: high-literacy networks linked AI Improvement Commands with Clarification Questions and Meta-Commands, an iterative sense-making-then-refinement cycle, whereas low-literacy students paired broad generation commands with basic fact retrieval.
 - **Designers.** Use interaction constraints that force synthesis rather than adoption: the study's custom platform imposed a 30-word limit per prompt and disabled copy-pasting, a directly reproducible lever for other tools.
 - **Instructors.** Treat low-literacy challenge questions as a teaching opening: the challenging-question link appeared in the low-literacy network mainly as a reaction to confusion or [[hallucination-risk|hallucinations]] rather than strategic critique, so make explicit how to question a model's logic.
-- **Designers.** Build [[learning-analytics]] dashboards around the observed behavioral markers — the shift from direct generation commands toward iterative refinement — to trigger real-time support instead of end-of-course [[self-report-measures|self-report]].
+- **Designers.** Build [[learning-analytics]] [[visualization|dashboards]] around the observed behavioral markers — the shift from direct generation commands toward iterative refinement — to trigger real-time support instead of end-of-course [[self-report-measures|self-report]].
 
 ## Limitations
 

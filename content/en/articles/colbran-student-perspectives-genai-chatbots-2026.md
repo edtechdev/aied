@@ -13,7 +13,7 @@ sources: ['raw/papers/colbran-student-perspectives-genai-chatbots-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a [[mixed-methods-research|mixed-methods]] survey (n=121) around the "Jordan Chatbot," a human-centered [[pedagogical-agent|pedagogical agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centered design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
+> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system [[learning-analytics|analytics]] with a [[mixed-methods-research|mixed-methods]] survey (n=121) around the "Jordan Chatbot," a human-centered [[pedagogical-agent|pedagogical agent]] built on GPT-4o within a [[edtech-platform|learning management system]]. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centered design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
 
 ## Core Finding
 
@@ -29,7 +29,7 @@ Students reported generally positive attitudes toward chatbots and perceived gai
 
 ## Barriers and User Experience
 
-Five significant reasons for non-use emerged: lack of training, concerns about trusted/accurate/safe/helpful responses, a preference for asking [[teacher-role|teaching]] staff, fear of breaching academic integrity, and no interest. [[qualitative-research|Qualitative]] analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of perceived usefulness, AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and [[discipline-specific-aied|subject-specific]] learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
+Five significant reasons for non-use emerged: lack of training, concerns about trusted/accurate/safe/helpful responses, a preference for asking [[teacher-role|teaching]] staff, fear of breaching academic integrity, and no interest. [[qualitative-research|Qualitative]] analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of [[technology-acceptance-model|perceived usefulness]], AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and [[discipline-specific-aied|subject-specific]] learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
 
 ## Relevance to the knowledge base
 
@@ -45,7 +45,7 @@ This paper gives the knowledge base rich, real-world evidence on [[student-ai-in
 ## Limitations
 
 - Survey sample of 121 students at a single institution using one chatbot in one disciplinary context (Australian criminal law).
-- Survey data are self-reported and may be influenced by recall bias or social desirability, though the separate system analytics were accurate.
+- Survey data are [[self-report-measures|self-reported]] and may be influenced by recall bias or social desirability, though the separate system analytics were accurate.
 - No longitudinal data were collected, so changes in perception over time could not be tracked, and the chatbot technology was relatively new at the time of measurement.
 - Students received no training beyond a limited set of starter prompts, and the study did not analyze the types or themes of student prompts.
 

@@ -59,7 +59,7 @@ Almost no teachers used follow-up prompts to iteratively refine AI output — th
 Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying rubrics or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation]] concern directly relevant to [[automated-assessment|Automated Grading]] systems.
 
 ### 3. Equity Divides
-- **Student level:** AI materials lack targeted supports for multilingual learners and students with disabilities — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
+- **Student level:** AI materials lack targeted supports for multilingual learners and [[special-education|students with disabilities]] — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
 - **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[equity-in-ai-education]] within the teaching profession itself
 
 ## What's Next: Agentic AI
@@ -70,9 +70,9 @@ The shift from single-prompt [[conversational-ai|chatbots]] to [[agentic-ai|agen
 
 - **Instructors.** Reallocate the time AI saves rather than banking it: ChatGPT-using teachers in the EEF trial spent 69% of the control group's preparation time (about 25 minutes a week), and the ones who gained most redirected that time to planning, grading, and student-facing work.
 - **Instructors.** Never send AI assessment to students without criteria and rubrics: nearly half of educator conversations involved assessment tasks, and some teachers requested evaluations of student work without specifying criteria, which risks inconsistent and biased judgments in [[automated-assessment|automated grading]].
-- **Faculty developers.** Teach iterative prompting rather than first-draft generation, because almost no teachers in the transcript analysis used follow-up prompts to refine output and prompt quality determined output quality — the teachers who need AI most (early career, under-resourced, outside their expertise) were the least equipped to prompt it.
+- **Faculty developers.** Teach iterative [[prompt-engineering|prompting]] rather than first-draft generation, because almost no teachers in the transcript analysis used follow-up prompts to refine output and prompt quality determined output quality — the teachers who need AI most (early career, under-resourced, outside their expertise) were the least equipped to prompt it.
 - **Administrators.** Protect freed time for relational work instead of absorbing it into new duties: in the Brazil RCT, AI-supported classrooms saw roughly 35% more one-on-one conversations about writing and a 20% drop in teacher at-home hours, with the share reporting time as "very insufficient" falling from 23% to 9%.
-- **Instructors.** Check AI lesson materials for the scaffolds human designers add: AI plans were rated "neutral" on support for multilingual learners and students with disabilities, and human plans were preferred about 65% of the time at the elementary level.
+- **Instructors.** Check AI lesson materials for the scaffolds human designers add: AI plans were rated "neutral" on support for multilingual [[learners|learners and students]] with disabilities, and human plans were preferred about 65% of the time at the elementary level.
 
 ## Limitations
 

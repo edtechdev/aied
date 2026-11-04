@@ -18,7 +18,7 @@ methods: [benchmark, mixed-methods-research]
 
 > **Synthesis:** Rather than treating every wrong answer as one undifferentiated error, this paper splits novice difficulties with conditionals and loops by the concept students fail to grasp and by how they fail to grasp it. The hierarchy, 5 error categories for selection and 7 for iteration, gives [[cs-education]] researchers and tool builders a shared vocabulary for [[misconceptions]], and shows how one visible error can mask distinct mental models.
 
-Eckert and Kautz (Hamburg University of Technology) present a fine-grained taxonomy of novice programmers' difficulties reading and understanding two control-flow constructs: selection and iteration. It was built through the Extended Taxonomy Design Process (ETDP), which alternates between existing literature and the authors' own data — semi-structured interviews and written tests in introductory programming courses — and aims to give a harmonized framework for classifying student errors and judging whether a discovered error is new or a known facet.
+Eckert and Kautz (Hamburg University of Technology) present a fine-grained taxonomy of novice programmers' difficulties reading and understanding two control-flow constructs: selection and iteration. It was built through the Extended Taxonomy [[design-thinking|Design Process]] (ETDP), which alternates between existing literature and the authors' own data — semi-structured interviews and written tests in introductory programming courses — and aims to give a harmonized framework for classifying student errors and judging whether a discovered error is new or a known facet.
 
 The scope is narrow: reading and understanding code only, and conceptual rather than syntactic or strategic knowledge. Syntactic and lexical errors are excluded as "fundamentally different in nature." The literature and the authors' own research concern imperative languages (C, C++, Python, Java) plus block-based languages like Scratch, and target computing education researchers.
 
@@ -56,7 +56,7 @@ The discussion works through a single loop-tracing item: students were given a s
 ## Limitations
 
 - Generated from errors in a subset of the literature plus the authors' own interviews and written tests, and not yet tested on samples outside that generating set — which the authors say is needed to show it is not "overfitted to the sample of errors that we looked at."
-- No evaluation yet: the plan is a field test where researchers not involved in the design categorize student answers to exam questions requiring them to read small programs and predict output. No agreement or usability results exist.
+- No evaluation yet: the plan is a field test where researchers not involved in the design categorize student answers to exam questions requiring them to read small programs and predict output. No agreement or [[usability-research|usability]] results exist.
 - Intelligibility is unverified — inviting researchers and teachers to apply it in their own contexts is future work, so how reliably raters reach the same category is unknown.
 - Context is bounded: imperative languages (C, C++, Python, Java), block-based languages like Scratch, and constructs such as break and continue that are not taught in every introductory programming class.
 

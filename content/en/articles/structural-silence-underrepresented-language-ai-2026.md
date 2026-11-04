@@ -55,7 +55,7 @@ The authors recommend treating **offline-first design** as an equity-oriented in
 ## Limitations
 
 - The paper is a theoretical analysis built on a single-language case, and the authors describe its contribution as explicitly "not a new benchmark or deployment system," so it cannot support claims about learning outcomes for Bengali-speaking students.
-- Its quantitative claims come from secondary sources rather than collected data: the web-presence gap (under 0.5% of content for roughly 4% of the global population), the 67:1 token deficit, and the connectivity figures (36.5% rural vs 71.4% urban) rest on corpus statistics and national survey reports that date.
+- Its [[quantitative-research|quantitative]] claims come from secondary sources rather than collected data: the web-presence gap (under 0.5% of content for roughly 4% of the global population), the 67:1 token deficit, and the connectivity figures (36.5% rural vs 71.4% urban) rest on corpus statistics and national survey reports that date.
 - Bengali is a favorable case because of its demographic scale, literary history, and active NLP research community; the authors state that smaller and less-resourced languages face considerably more severe structural challenges, so the four-failure account is a framework to test, not a cross-linguistic finding.
 
 ## Citation

@@ -20,7 +20,7 @@ page_kind: [framework]
 ## Key Findings
 
 - **High extraction coverage.** Across the 80 uploaded documents, over 90% of the targeted experimental parameters and performance entries were successfully extracted and standardized (system log analysis).
-- **Reduced [[meta-analysis-systematic-review|literature review]] time.** Students' self-reported literature review time decreased by approximately 65%.
+- **Reduced [[meta-analysis-systematic-review|literature review]] time.** Students' [[self-report-measures|self-reported]] literature review time decreased by approximately 65%.
 - **Improved variable identification.** Among the 16 junior students, the proportion able to identify at least three influential variables in experimental designs rose from 37.5% (6/16) to 87.5% (14/16) in a pre/post variable-identification prompt.
 - **Positive student perceptions.** Over 90% of students agreed the system improved the efficiency and clarity of their literature review; ~85% said the structured tables and visual filters helped identify key experimental variables and performance trends; more than 80% found the interface intuitive.
 - **Reduced supervisory burden.** All four supervisors reported a reduced need for repeated instruction and improved transparency of students' research logic, and 75% said the platform facilitated differentiated guidance by letting students present filtered data before consultation.
@@ -31,9 +31,9 @@ page_kind: [framework]
 
 - **Instructors.** Embed the extraction system in source-verification routines rather than releasing it as an answer source: normalized tables and comparison views can create a sense of completeness, so require students to check boundary conditions and verify the entries they intend to cite.
 - **Instructors.** Use the traceable intermediate artifacts — extracted variables, comparison tables, source links, and workflow traces — to shift supervision from explaining basics toward [[formative-assessment|formative]], differentiated, data-informed guidance; all four supervisors reported less repeated instruction and 75% reported improved differentiated guidance.
-- **Instructors.** Add scaffold-fading, reflective prompts, and check-the-source practice while the system offloads search, transcription, and unit standardization, so that epistemic [[agency]] survives the efficiency gain of roughly 65% self-reported [[meta-analysis-systematic-review|literature review]] time saved.
+- **Instructors.** Add scaffold-fading, [[reflection|reflective prompts]], and check-the-source practice while the system offloads search, transcription, and unit standardization, so that epistemic [[agency]] survives the efficiency gain of roughly 65% self-reported [[meta-analysis-systematic-review|literature review]] time saved.
 - **Designers.** Recalibrate entity templates, field definitions, and domain ontologies, and validate them, before porting the pipeline to another [[higher-ed|STEM domain]] where parameter-based comparison is central.
-- **Researchers.** Treat the pilot's quantitative results as descriptive process evidence rather than effects: with 20 undergraduates the study deliberately ran no inferential hypothesis testing.
+- **Researchers.** Treat the pilot's [[quantitative-research|quantitative]] results as descriptive process evidence rather than effects: with 20 undergraduates the study deliberately ran no inferential hypothesis testing.
 
 ## Limitations
 

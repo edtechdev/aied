@@ -16,7 +16,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Malhotra & Chhabra (2026) synthesize 80 peer-reviewed articles (2014–2024) on AI-based automated proctoring systems (AIPS) for online examinations in [[higher-ed|higher education]]. They find that advanced machine- and deep-learning techniques (CNNs, RNNs, LSTMs) detect cheating more reliably than traditional methods by analyzing visual cues — eye movements, head posture, facial expressions — yet the field is marked by dataset limitations, limited generalizability, reproducibility gaps, and persistent privacy and [[bias-mitigation|fairness]] concerns. The review advocates integrating IoT and biometric [[ai-technologies|technologies]] and building hybrid, privacy-preserving, context-aware frameworks.
+> **Synthesis:** Malhotra & Chhabra (2026) synthesize 80 peer-reviewed articles (2014–2024) on AI-based [[remote-proctoring|automated proctoring]] systems (AIPS) for online examinations in [[higher-ed|higher education]]. They find that advanced machine- and deep-learning techniques (CNNs, RNNs, LSTMs) detect cheating more reliably than traditional methods by analyzing visual cues — eye movements, head posture, facial expressions — yet the field is marked by dataset limitations, limited generalizability, reproducibility gaps, and persistent privacy and [[bias-mitigation|fairness]] concerns. The review advocates integrating IoT and biometric [[ai-technologies|technologies]] and building hybrid, privacy-preserving, context-aware frameworks.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ methods: [meta-analysis-systematic-review]
 - **Four core AIPS features.** Effective systems combine (1) authentication (e.g., camera face verification), (2) browsing tolerance/restrictions, (3) remote authorization and control (start/stop/resume exams, flag live suspicious activity), and (4) report generation from recorded exam sessions.
 - **Systematic quality-assessment gaps.** Across the 80 studies: 35% did not fully disclose their dataset; 40% evaluated only a single model; 30% could not be fully reproduced; only 25% explicitly addressed [[ethics|ethical]] issues; 20% did not report standard metrics (precision, recall, F1, specificity, AUC).
 - **False positives/negatives undermine trust.** Systems may flag normal behavior (looking away, adjusting posture) as suspicious while missing subtle cheating — a key reliability and acceptance barrier.
-- **Privacy and equity are persistent barriers.** Continuous audiovisual surveillance, facial/voice/gaze/keystroke data, GDPR/PDP-Bill compliance, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
+- **Privacy and [[equity-in-ai-education|equity]] are persistent barriers.** Continuous audiovisual surveillance, facial/voice/gaze/keystroke data, GDPR/PDP-Bill compliance, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
 - **Recommended directions.** Hybrid AI models combining deep learning with rule-based logic to cut false positives, diverse geographically-inclusive datasets, privacy-preserving architectures (edge processing, anonymization, on-device handling), lightweight models for low-resource environments, and [[multimodal]] behavioral input integration.
 
 ## Study Design & Method
@@ -36,7 +36,7 @@ A [[meta-analysis-systematic-review|systematic review]] following [[inclusive-le
 - **Administrators.** Deploy automated proctoring only where detection accuracy is balanced against [[privacy]], fairness, and student [[trust]]: it can preserve the integrity of online [[summative-assessment|summative assessment]] where in-person invigilation is unfeasible, but unvalidated, single-model systems risk false accusations and inequitable outcomes.
 - **Administrators.** Require hybrid, privacy-preserving, context-aware design coupled with transparent consent and [[regulation|regulatory]] compliance before rollout, rather than adopting a vendor system on accuracy claims alone.
 - **Institutions.** Plan for the equity cost of surveillance: continuous audiovisual monitoring, facial and gaze data, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
-- **Assessment professionals.** Judge a proctoring system by its false-positive and false-negative behavior on your own student population, since flagging normal behavior such as looking away can penalize students without any misconduct.
+- **Assessment professionals.** Judge a proctoring system by its false-positive and false-negative behavior on your own [[learners|student population]], since flagging normal behavior such as looking away can penalize students without any misconduct.
 
 ## Limitations
 

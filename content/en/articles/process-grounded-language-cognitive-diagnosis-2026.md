@@ -21,7 +21,7 @@ page_kind: [evaluation]
 ## Key Findings
 
 1. PLCD attains 80.81% ACC / 84.52% AUC on Junyi, 83.51% ACC / 85.37% AUC on XES3G5M, and 87.16% ACC / 88.33% AUC on MOOC, beating every baseline including DMC-CDM's 83.81% ACC on MOOC under a two-sided paired t-test over ten runs (p < 0.05).
-2. Removing structured evidence causes the largest ablation collapse — Junyi ACC falls from 80.81% to 76.52% and MOOC from 87.16% to 78.95% — showing raw exercise text cannot expose prerequisite relations or process-level operations.
+2. Removing structured evidence causes the largest ablation collapse — Junyi ACC falls from 80.81% to 76.52% and MOOC from 87.16% to 78.95% — showing raw exercise text cannot expose [[recommender-systems-and-learning-paths|prerequisite relations]] or process-level operations.
 3. In cold-start evaluation on XES3G5M, PLCD exceeds KCD by 4.60 ACC points for new concepts (75.58% vs 70.98%) and 4.00 points for new exercises (73.09% vs 69.09%).
 4. With the entire Q-matrix masked, PLCD still reaches 80.46% ACC and 82.37% AUC, 4.52 ACC points above KCD's 75.94%, though below the Oracle upper bound of 83.51% ACC.
 5. Memory strategy matters: Semantic+Q retrieval (PLCD) scores 83.51% ACC versus 79.96% for a static learner summary, 78.72% for random retrieval, and 80.21% when retrieved correctness labels are shuffled.
@@ -49,7 +49,7 @@ The grounding analysis shows the DA-MoE gate increasingly matching the LLM-deriv
 
 ## What this means for practice
 
-- **Instructors.** Read diagnostic output as model-based evidence to be checked rather than an automated verdict: the authors state results are conditioned on available response records and exercise content and should be used with human oversight, not for high-stakes decisions.
+- **Instructors.** Read diagnostic output as model-based evidence to be checked rather than an automated verdict: the authors state results are conditioned on available response records and exercise content and should be used with [[human-in-the-loop-ai|human oversight]], not for high-stakes decisions.
 - **Instructors.** Interrogate the process behind a wrong answer rather than the concept label alone, and verify error types before acting on them — the model separates translation errors from procedural failures, but teacher raters scored misconception plausibility lowest of the generated graph attributes (4.23 ± 0.48).
 - **Designers.** Base retrieval on the learner's own correctness on cognitively similar items instead of one static profile: semantic-plus-Q retrieval reached 83.51% ACC on XES3G5M against 79.96% for a static learner summary and 78.72% for random retrieval.
 - **Designers.** Target cold start explicitly, where ID-based models have no history to draw on: PLCD exceeded KCD by 4.60 ACC points for new concepts (75.58% vs 70.98%) and 4.00 points for new exercises (73.09% vs 69.09%), and still reached 80.46% ACC with the whole Q-matrix masked.

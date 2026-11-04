@@ -54,7 +54,7 @@ The causal claim is bounded, though, and the paper is explicit about how far it 
 ## What this means for practice
 
 - **Benchmark designers and assessment designers.** The hypotheses are concrete, testable properties — "requires ordering five or more entities," "requires deriving a rate or ratio" — that can be used to generate harder or easier variants deliberately, and the causal analysis gives evidence that such edits move measured difficulty rather than merely correlating with it.
-- **Instructors.** Treat this as a window onto how AI difficulty works, not on how your students learn. The difficulty values come from model responses, so nothing here licenses a claim about human item difficulty, learning gains, or classroom outcomes.
+- **Instructors.** Treat this as a window onto how AI difficulty works, not on how your students learn. The difficulty values come from model responses, so nothing here licenses a claim about human item difficulty, [[learning-gains|learning gains]], or classroom outcomes.
 - **Assessment professionals.** The pipeline is a useful demonstration that psychometric measurement and natural-language interpretation can be combined: IRT supplies the latent quantity, and the hypotheses are scored by how much of it they explain. It is not a validated calibration procedure for human tests.
 - **Researchers and evaluators.** Reuse the design — contrastive sampling by latent difficulty, selection by regularized regression on held-out items, and question editing as a causal probe — rather than the specific numbers, which are tied to particular benchmark versions and a particular set of open and frontier models.
 
@@ -62,7 +62,7 @@ The causal claim is bounded, though, and the paper is explicit about how far it 
 
 - Every difficulty estimate is inferred from LLM responses, not from human test-takers, so the study speaks to how hard items are for models. It does not measure learning outcomes, effect sizes, or item difficulty for human learners.
 - The causal analysis could not re-estimate IRT difficulty and fell back on accuracy as a proxy, re-ran only models under 30B, used 50 questions per dataset, and validated only the paper's own hypotheses against no baseline. WinoGrande was excluded because its difficulty signal is inherently weak.
-- The whole pipeline is LLM-driven — Gemini-3.1-pro-preview proposes, Gemini-3.7-Flash labels, Qwen3-Embedding-4B deduplicates, and Gemini and Astra verify edits — and the paper reports no human review of the hypotheses or the match labels.
+- The whole pipeline is LLM-driven — Gemini-3.1-pro-preview proposes, Gemini-3.7-Flash labels, Qwen3-Embedding-4B deduplicates, and Gemini and Astra verify edits — and the paper reports no [[human-in-the-loop-ai|human review]] of the hypotheses or the match labels.
 - Predictive performance is uneven: R² = 0.090 on WinoGrande with all baselines near or below zero. The authors note that human annotators agree with the IRT ordering on only 73.4% of item pairs, which implies an R² ceiling near 0.45 on that benchmark.
 - The method is tied to its configuration — the named model checkpoints, the RouterEval response pools, and the benchmark versions used. The results describe that setup, not current practice, and the frontier models cited have since been superseded.
 

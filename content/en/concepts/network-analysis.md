@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-26T13:35:09-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -39,8 +39,8 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[conversational-ai|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how [[metacognition]] co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development. ([[tracing-genai-literacy-interaction-patterns]])
-- **Analyze discourse and framing.** ENA is applied to [[qualitative-research|qualitative]] and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse. ([[youtube-frames-chatgpt-education]])
-- **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the knowledge base's feedback-uptake literature.
+- **Analyze discourse and framing.** ENA is applied to [[qualitative-research|qualitative]] and [[multimodal]] data (e.g., YouTube frames of [[generative-ai|ChatGPT]] in education) to reveal the structure of public or disciplinary discourse. ([[youtube-frames-chatgpt-education]])
+- **Complement [[self-report-measures|self-report]] and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the knowledge base's feedback-uptake literature.
 
 - **Graph structure as a validation quantity, not a descriptive summary.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] track β0 - the number of connected components of a weekly proximity graph over learners at a fixed Euclidean threshold - to test whether synthetic cohorts reproduce the real ones, preferring it because it is fixed by the graph alone, needs no optimization or random seed unlike modularity maximization, and stays defined when a seventh to a third of learners sit alone in a component.
 
@@ -69,7 +69,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 
 ## Common Misconceptions
 
-- **"Network analysis is objective because it is computational."** **Coding is the foundation**: all network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes, and automated coding inherits its definitions from whoever set them. The visualization looks like an emergent structure and its nodes are interpretive choices.
+- **"Network analysis is objective because it is computational."** **Coding is the foundation**: all network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes, and automated coding inherits its definitions from whoever set them. The [[visualization]] looks like an emergent structure and its nodes are interpretive choices.
 - **"A shift in network structure is automatically a learning gain in itself."** In a case discussion with **twenty mixed-discipline graduate students**, the **size-3 shared-term share rose from 5.2% to 8.0%** while **content tokens fell to roughly 0.65× their post-r**ate. Two structural measures moved in opposite directions, so "the network changed" is not a finding until you say along which measure and why it matters.
 - **"Sharing more terms means better collaboration."** Rising shared-term share alongside falling content-token diversity is consistent with convergence on a smaller vocabulary. Consensus and narrowing are structurally similar, which is why the measure needs the content it was computed from.
 

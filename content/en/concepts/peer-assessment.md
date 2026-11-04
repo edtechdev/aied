@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -30,7 +30,7 @@ Peer assessment is an assessment design choice in which students take on part of
 
 The research base agrees that peer assessment produces learning and disagrees about how much depends on design. It gives students an authentic audience, develops evaluative judgment through criteria-based responding, and builds the social context that supports [[student-engagement|engagement]] and [[motivation]]. Its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students get clear criteria and training. That dependency is where AI enters, as a consistent, rubric-driven complement to the specific, context-aware feedback peers give, and increasingly as a scaffold built into the peer-assessment process itself.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] find that EFL students who reviewed peers' writing through open-ended dialogue with a generative AI produced feedback that recipients rated higher in quality, with gains in emotional response and feedback literacy that varied by the quality of the dialogue.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] find that EFL students who reviewed peers' writing through open-ended dialogue with a [[generative-ai|generative AI]] produced feedback that recipients rated higher in quality, with gains in emotional response and feedback literacy that varied by the quality of the dialogue.
 
 ## What students learn from assessing peers
 
@@ -86,7 +86,7 @@ The open questions are about the strength of the evidence, not only about design
 ## Common Misconceptions
 
 - **"Oral defence stops AI-assisted work."** Pasted-to-total characters **rose from 61.0% to 68.1% (p < 0.0001)** after every CS1 submission became subject to a **15-minute oral code review worth 70% of the grade**. The behavior it targeted increased — and **exam scores did not decline and time-on-task held steady**, while **90% of students said the reviews motivated** them. The intervention worked on understanding, not on pasting.
-- **"Cheating detection is what oral assessment is for."** The measured outcomes were understanding and motivation, not reduction of pasted text. Judging the design by its detection rate misreads what it achieved.
+- **"Cheating detection is what [[oral-assessment|oral assessment]] is for."** The measured outcomes were understanding and motivation, not reduction of pasted text. Judging the design by its detection rate misreads what it achieved.
 - **"Peer review is a cheaper substitute for instructor feedback."** [[learning-by-teaching|Learning by teaching]] is the mechanism, and it shows up even among machines: peer-learning-like discourse among over **2.4 million AI agents** was mostly **assertion rather than inquiry**. Producing critique is a different act from receiving it.
 
 - **Reflective peer and self forms as the record behind a group grade.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] used one peer-reflective form per teammate plus one self-reflective form per student in a postgraduate Business Project Management unit, alongside a 30-minute meeting with each team in which members were asked whether their contribution was original. The forms were not graded as feedback exchange. They were the per-person evidence that let the instructor defend an individual mark inside a 40% team assessment. The framework's mark rise from 27/40 to 31/40 is confounded with a new lecturer and its integrity claim is unquantified, so the transferable part is the record-keeping structure, not the effect size.

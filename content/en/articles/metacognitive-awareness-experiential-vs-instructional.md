@@ -21,13 +21,13 @@ The study speaks to the [[cognitive-offloading]] and [[cognitive-offloading|Over
 ## What this means for practice
 
 - **Learners.** Work through productive and unproductive GenAI use cases hands-on rather than hearing them described: the experiential condition had students attempt two productive and two unproductive collaboration scenarios in roughly 5-10 minute cycles followed by structured [[reflection]].
-- **Learners.** Do not treat one session as sufficient: both conditions reached comparable levels of self-reported AI engagement by the five-week follow-up (M = 3.93), so schedule repeated cycles of independent GenAI use with reflection across a term.
+- **Learners.** Do not treat one session as sufficient: both conditions reached comparable levels of [[self-report-measures|self-reported]] AI engagement by the five-week follow-up (M = 3.93), so schedule repeated cycles of independent GenAI use with reflection across a term.
 - **Learners.** Attend to [[regulation]] of cognition separately from knowledge of cognition, as the study measured them: knowing which AI-use strategies work and actually applying them during a task were distinct components of metacognitive awareness.
 - **Learners.** Judge progress against what you can do unaided rather than against how the session felt, because the intervention asked participants to reconstruct their pre-task understanding after the activity rather than measuring it at baseline.
 
 ## Limitations
 
-- Metacognition was assessed only through repeated self-report administrations of the same questionnaire (MAI-AI), which the authors note carries social-desirability bias, varying accuracy of self-assessment, possible familiarity effects from repeated exposure, and a still-pending validation.
+- Metacognition was assessed only through repeated self-report administrations of the same questionnaire (MAI-AI), which the authors note carries social-desirability bias, varying accuracy of [[self-assessment]], possible familiarity effects from repeated exposure, and a still-pending validation.
 - The final analyzed sample of N = 126 (61 in the instructional group, 65 in the experiential group) fell short of the 128 participants required by the a priori power analysis for a medium effect, so the non-significant five-week difference may reflect limited power rather than a true absence of difference.
 - All participants were first-year engineering students in one course at Universitat Pompeu Fabra, Barcelona, and no demographic data were collected, so the authors warn that generalization to other disciplines, educational levels and cultural contexts is unestablished.
 - The design is quasi-experimental, with conditions assigned by class schedule rather than individually randomized, and students could use GenAI as they personally saw fit between the initial session and the five-week measurement, leaving that independent use uncontrolled.

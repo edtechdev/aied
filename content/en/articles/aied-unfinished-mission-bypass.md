@@ -22,7 +22,7 @@ This work connects to core knowledge base themes: [[cognitive-offloading|Over-Re
 ## What this means for practice
 
 - **Instructors.** Assess the process, not only the product. When grading looks solely at output, bypass is the rational strategy for a performance-oriented student; process-based assessment and feedback tied to how students work shift the incentive toward mastery.
-- **Instructors.** Calibrate [[agency]] instead of maximizing it: in the game-based learning study the paper cites, students given a moderate degree of agency achieved better learning outcomes than peers with either no agency or high agency.
+- **Instructors.** Calibrate [[agency]] instead of maximizing it: in the [[game-based-learning|game-based learning]] study the paper cites, students given a moderate degree of agency achieved better learning outcomes than peers with either no agency or high agency.
 - **Instructors.** Embed [[metacognition|metacognitive]] prompts inside AI interactions. Fan et al. found that free ChatGPT use collapsed the transitions among orientation, planning, monitoring, and evaluation, and Xu et al. showed prompts could restore those processes.
 - **Designers.** Structure AI use to reward hints and clarifications over direct solutions: in the randomized studies cited, persistence costs after AI access was withdrawn were concentrated among learners who used AI to obtain answers, while hint users showed no impairment.
 - **Administrators.** Count voluntary [[student-engagement|engagement]] alongside [[learning-gains|learning gains]] and expect credentialing to follow. Gains produced only under compulsory use are not evidence of success, and institution-level adoption stalls while transcripts reward polished final artifacts.

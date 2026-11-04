@@ -14,7 +14,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Liu, Ye, and Yan (2026) present a comparative analysis of five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2.5 Flash, Claude Sonnet 4, and DeepSeek R1) in the assessment of long [[language-learning|English]] essays authored by non-native speakers in [[higher-ed|higher education]]. Drawing on LLM-generated scores for 60 essays, the analysis examines (a) intra-model reliability across repeated scoring runs, (b) the degree of alignment between model outputs and expert human ratings, and (c) causal feature dependencies that clarify how linguistic characteristics influence model scoring behavior. Findings reveal substantial variation: some models achieved near-perfect reproducibility and strong alignment with human raters, whereas others displayed inconsistency, score compression, or systematic underestimation. Causal discovery analysis uncovered distinct evaluative heuristics, with most models prioritizing lexical precision and fluency, while others emphasized syntactic complexity or cross-domain integration.
+> **Synthesis:** Liu, Ye, and Yan (2026) present a comparative analysis of five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2.5 Flash, Claude Sonnet 4, and DeepSeek R1) in the assessment of long [[language-learning|English]] essays authored by non-native speakers in [[higher-ed|higher education]]. Drawing on [[llm]]-generated scores for 60 essays, the analysis examines (a) intra-model reliability across repeated scoring runs, (b) the degree of alignment between model outputs and expert human ratings, and (c) causal feature dependencies that clarify how linguistic characteristics influence model scoring behavior. Findings reveal substantial variation: some models achieved near-perfect reproducibility and strong alignment with human raters, whereas others displayed inconsistency, score compression, or systematic underestimation. Causal discovery analysis uncovered distinct evaluative heuristics, with most models prioritizing lexical precision and fluency, while others emphasized syntactic complexity or cross-domain integration.
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ methods: [benchmark]
 - Substantial variation across models: some achieved near-perfect reproducibility and strong human alignment, while others showed inconsistency, score compression, or systematic underestimation.
 - Causal discovery analysis uncovered distinct evaluative heuristics, with most models prioritizing lexical precision and fluency, while others emphasized syntactic complexity or cross-domain integration.
 - The study establishes model-specific reliability profiles and application contexts.
-- Findings provide empirical benchmarks and practical guidance for the responsible use of LLMs in educational writing assessment.
+- Findings provide empirical [[benchmark|benchmarks]] and practical guidance for the responsible use of LLMs in educational writing assessment.
 
 ## What this means for practice
 
@@ -34,7 +34,7 @@ methods: [benchmark]
 ## Limitations
 
 - The dataset contained only 60 essays (1,500–2,500 words, M = 1,941, SD = 324) from non-native English speakers, a scope the authors state may limit generalizability.
-- A single standardized rubric and one fixed prompting template were applied to all five models, so prompt-induced variability was deliberately controlled rather than measured, leaving the influence of prompt wording untested.
+- A single standardized rubric and one fixed [[prompt-engineering|prompting]] template were applied to all five models, so prompt-induced variability was deliberately controlled rather than measured, leaving the influence of prompt wording untested.
 - The comparison covers a fixed set of five models evaluated at one point in time, so the reported reliability profiles may not hold as model versions change.
 
 ## Citation

@@ -26,8 +26,8 @@ Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[
 
 - **Instructors.** Teach students how to work with the assistant, not merely that they may use it: in this trial, proactive and critical use — trying problems first, verifying and correcting AI output — tracked higher exam scores, while limited engagement produced little benefit over the no-AI control group.
 - **Instructors.** Require an attempt before consultation and make verification a graded step, so that [[help-seeking]] becomes a deliberate strategy rather than a way to avoid effort.
-- **Designers.** Build [[self-regulated-learning]] support into the tool itself, because equal access produced unequal returns: students with stronger prior knowledge or higher university ranking were the ones who adopted the proactive behavior.
-- **Administrators.** Fund AI-literacy guidance as educational support rather than buying more access — background-related exam-score differences in the Python course attenuated once learning behavior was accounted for, which makes guidance the lever for [[equity-in-ai-education]].
+- **Designers.** Build [[self-regulated-learning]] support into the tool itself, because equal access produced unequal returns: students with stronger [[prior-knowledge|prior knowledge]] or higher university ranking were the ones who adopted the proactive behavior.
+- **Administrators.** Fund [[ai-literacy]] guidance as educational support rather than buying more access — background-related exam-score differences in the Python course attenuated once learning behavior was accounted for, which makes guidance the lever for [[equity-in-ai-education]].
 - **Researchers.** Log how students use the assistant, not just whether they had it: the differential benefit here was visible only in the behavioral pathways linking tool use to outcomes.
 
 ## Limitations

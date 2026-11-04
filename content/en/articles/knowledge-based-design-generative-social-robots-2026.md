@@ -14,12 +14,12 @@ confidence: high
 audience: [instructional designers]
 ---
 
-> **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in higher education. Recognizing that GSRs powered by large language models enable adaptive, conversational tutoring but introduce risks such as misinformation, [[cognitive-offloading|overreliance]], and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).
+> **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in [[higher-ed|higher education]]. Recognizing that GSRs powered by [[llm|large language models]] enable adaptive, conversational tutoring but introduce risks such as misinformation, [[cognitive-offloading|overreliance]], and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).
 
 ## Key Findings
 
 - **Generative social robots (GSRs) powered by LLMs enable adaptive, conversational tutoring** but introduce risks such as **misinformation, overreliance, and privacy violations**.
-- Existing frameworks for educational [[ai-technologies|technologies]] and responsible AI define desired behaviors but **rarely specify the knowledge prerequisites** that enable generative agents to express those behaviors reliably.
+- Existing frameworks for educational [[ai-technologies|technologies]] and [[ethics|responsible AI]] define desired behaviors but **rarely specify the knowledge prerequisites** that enable generative agents to express those behaviors reliably.
 - Based on **twelve semi-structured interviews** with university students and lecturers, the study identified **twelve design requirements across three knowledge types** (self-knowledge, user-knowledge, and domain/context knowledge).
 - The findings offer a **knowledge-based design perspective** for building responsible, effective tutoring GSRs in higher education.
 
@@ -32,8 +32,8 @@ This is a **[[qualitative-research|qualitative]] interview study**. The [[resear
 - **Designers.** Specify a tutoring robot's self-, user-, and context-knowledge as separate components rather than one prompt: the 12 interviews produced twelve requirements and 642 coded segments across those three knowledge types.
 - **Designers.** Make assertiveness a configurable, adaptive setting instead of a fixed persona: most participants wanted a study-buddy role, but desired strictness varied with learning goals, motivation type, and upcoming deadlines.
 - **Designers.** Ground explanations in the actual course corpus — slides, exercises, literature, timetables — through retrieval rather than the base model, so tutoring stays course-specific instead of generic.
-- **Administrators.** Adopt privacy-by-design defaults before piloting: require informed consent, keep personal data out of model training, let students control what the robot may perceive, and prefer locally deployable models in strict data-protection settings.
-- **Researchers.** Test the requirements in an implementation study: the twelve requirements were identified but not yet empirically validated, so their contribution relative to embodiment and adaptivity remains unmeasured.
+- **Administrators.** Adopt privacy-by-design defaults before piloting: require informed consent, keep personal data out of [[llm-training-and-fine-tuning|model training]], let students control what the robot may perceive, and prefer locally deployable models in strict data-protection settings.
+- **Researchers.** Test the requirements in an implementation study: the twelve requirements were identified but not yet empirically validated, so their contribution relative to embodiment and [[adaptive-learning|adaptivity]] remains unmeasured.
 
 ## Limitations
 

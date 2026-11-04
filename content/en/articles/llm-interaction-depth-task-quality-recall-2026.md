@@ -31,8 +31,8 @@ The central theoretical contribution is separating comprehension from retention 
 
 ## What this means for practice
 
-- **Instructors.** Embed retrieval demands immediately after LLM use — short-answer questions, from-memory concept maps, or teach-back explanations produced without the tool — because explanation-seeking depth predicted task quality (β = 6.27, p = .006) but not immediate recall (β = −0.014, p = .728).
-- **Instructors.** Separate scaffolding from checking: allow the LLM for clarification and feedback during learning, then set distinct checkpoints where learners demonstrate independent recall unaided.
+- **Instructors.** Embed retrieval demands immediately after LLM use — short-answer questions, from-memory concept maps, or [[learning-by-teaching|teach-back]] explanations produced without the tool — because explanation-seeking depth predicted task quality (β = 6.27, p = .006) but not immediate recall (β = −0.014, p = .728).
+- **Instructors.** Separate [[scaffolding]] from checking: allow the LLM for clarification and feedback during learning, then set distinct checkpoints where learners demonstrate independent recall unaided.
 - **Instructional designers.** Design [[prompt-engineering|prompt]] tasks that require learner-generated reasoning — asking the model to pose questions, generate counterexamples or [[misconceptions]], or critique the student's own explanation — instead of producing finished answers.
 - **Researchers.** Instrument turn-level interaction logs so Depth, Volume, and Pacing are coded separately; only this separation shows that the composition of interaction, not its amount, tracks applied task quality.
 

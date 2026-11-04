@@ -29,7 +29,7 @@ The answer is narrower than most product specs assume. Educational AI works as a
 
 **1.** Write down what the system decides and what a teacher decides. That boundary becomes the architecture.
 
-**2.** Evaluate multi-turn, discipline-aware interaction against real curriculum, not single prompts against a general safety rubric.
+**2.** Evaluate multi-turn, discipline-aware interaction against real [[curriculum-design|curriculum]], not single prompts against a general safety rubric.
 
 **3.** Ground responses in approved content, and keep the verifying component separate from the conversational one.
 
@@ -65,7 +65,7 @@ The transferable part is the separation: the components that verify do not conve
 
 ## Treat student work as untrusted input
 
-The threat model most design advice omits sits inside the artifact being assessed. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) adversarial red-team evaluation]] tested whether students could manipulate an LLM-based grader through prompt injection in their submissions, and the manipulation worked: injections that instruct, reframe or role-play the grader shift the score without changing the work.
+The threat model most design advice omits sits inside the artifact being assessed. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) adversarial red-team evaluation]] tested whether students could manipulate an [[llm]]-based grader through prompt injection in their submissions, and the manipulation worked: injections that instruct, reframe or role-play the grader shift the score without changing the work.
 
 Keep the rubric and instructions outside the student-controlled context window, strip or flag instruction-like content, never let a submission set its own criteria, and keep a human decision on any consequential grade. A grader that reads its instructions from the text it judges has handed the rubric to the candidate.
 
@@ -97,7 +97,7 @@ A good retrieval index means the content is handled. EduGuard pairs retrieval wi
 
 The teacher is the fallback. All six teachers in the design study asked for logging, alerts and override as a condition of professional responsibility. A support ticket is not an override.
 
-Enjoyment is a substitute for fit. In a 405-student survey of design graduate students ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), task–technology fit carried its own path into attitude (β = 0.224) beside perceived usefulness, and the characteristics of the task drove fit more than the characteristics of the tool (β = 0.322 versus 0.266). Perceived enjoyment raised ease of use and did nothing for usefulness (β = −0.033, p = 0.483). Delight is worth building, but it does not stand in for matching the functions to the steps of the assignment.
+Enjoyment is a substitute for fit. In a 405-student survey of design graduate students ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), task–technology fit carried its own path into attitude (β = 0.224) beside [[technology-acceptance-model|perceived usefulness]], and the characteristics of the task drove fit more than the characteristics of the tool (β = 0.322 versus 0.266). Perceived enjoyment raised ease of use and did nothing for usefulness (β = −0.033, p = 0.483). Delight is worth building, but it does not stand in for matching the functions to the steps of the assignment.
 
 Accessibility is a later ticket. It sits in the spec or it becomes a rewrite, and generated alt text and captions still need a human check.
 

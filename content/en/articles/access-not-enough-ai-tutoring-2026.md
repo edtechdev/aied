@@ -44,7 +44,7 @@ methods: [rct]
 - **Instructors.** Give the AI time a person whose job is engagement, not instruction: a 10-minute check-in, 15 minutes on the platform, and a 2–5 minute reflection raised usage by 1 minute per week in District A and 4.4 in District B, and engagement by 71% and 80%.
 - **Instructors.** Do not expect engagement support to buy achievement: neither district showed significant reading gains, and the estimated spring ELA effects were negative and non-significant, consistent with the dosage actually achieved.
 - **Administrators.** Check take-up before renewing a platform, especially for the students who need it most: users skewed higher-achieving and less likely to receive [[special-education|special education]] services, so access alone may widen participation gaps.
-- **Administrators.** Fund and staff the human layer: the tutors here were after-school program staff in District A and middle school students in District B, and the authors note that human-intensive models require additional personnel, training, and coordination.
+- **Administrators.** Fund and staff the human layer: the tutors here were after-school program staff in District A and [[k-12|middle school]] students in District B, and the authors note that human-intensive models require additional personnel, training, and coordination.
 
 ## Limitations
 

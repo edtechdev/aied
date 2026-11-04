@@ -60,7 +60,7 @@ For practice, the framework points at a division of labor that fits [[intelligen
 
 ## Limitations
 
-- **K-12 mathematics only.** All four datasets are elementary and secondary math benchmarks (XES-500, XES-1600, MATH-Algebra, XES-1500, plus TIMSS19/23), so the framework is untested on other subjects or on higher education items.
+- **K-12 mathematics only.** All four datasets are elementary and secondary math benchmarks (XES-500, XES-1600, MATH-Algebra, XES-1500, plus TIMSS19/23), so the framework is untested on other subjects or on [[higher-ed|higher education]] items.
 - **Pre-estimated labels and missing stems.** Concept subsets were randomly sampled from XES3G5M (500 and 1,600 items) because of computational constraints, and XES-1500 difficulty labels were pre-estimated by a 2PL IRT fit rather than being authentic expert annotations; no dataset supplies concepts, difficulty, competency and stems together.
 - **The competency result bypasses the architecture.** On the TIMSS benchmarks no stems were available, so the state-of-the-art competency accuracy came from a process-only variant with no tree construction and no graph network — it validates solution-text encoding, not the full framework.
 - **Baselines and label noise.** Comparison rests on a zero-shot LLM (Deepseek-V3.2) and two supervised encoders the authors note were not applicable to the stem-less datasets, and the authors acknowledge some apparent errors trace to inconsistent benchmark labels or to mathematically valid alternative solution routes.

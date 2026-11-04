@@ -18,7 +18,7 @@ audience: [instructional designers, instructors]
 
 ## Key Findings
 
-- **Consistently positive perceptions across all five dimensions.** In the five-week [[simulation|field study]] (n = 112 users), students rated [[conversational-ai|Lara]]'s [[community-of-inquiry|cognitive presence]], support for [[self-regulated-learning|self-regulated learning]], [[community-of-inquiry|social presence]], perceived ease of use, and behavioral intention all significantly above the theoretical midpoint.
+- **Consistently positive perceptions across all five dimensions.** In the five-week [[simulation|field study]] (n = 112 users), students rated [[conversational-ai|Lara]]'s [[community-of-inquiry|cognitive presence]], support for [[self-regulated-learning|self-regulated learning]], [[community-of-inquiry|social presence]], [[technology-acceptance-model|perceived ease of use]], and behavioral intention all significantly above the theoretical midpoint.
 - **Perceptions evolved over time.** Social presence and perceived support for [[self-regulated-learning|self-regulated learning]] increased significantly across the five BSG rounds (e.g., self-regulated learning rose from β = 0.254 in round 2 to β = 0.470 in round 5), while [[community-of-inquiry|cognitive presence]] stayed stably high, ease of use declined slightly, and [[student-engagement|engagement]] peaked during the simulated crisis in week 3.
 - **Dispositions, not demographics, shape acceptance.** Gender, age, and [[prior-knowledge|prior knowledge]] did not significantly predict CA perceptions, whereas AI attitude and the "Socialiser" [[game-based-learning|player type]] positively predicted social presence, cognitive presence, and support for self-regulated learning; the "Achiever" type showed no significant effects.
 - **A needs analysis revealed mostly cognitive hurdles.** Of 61 reported hurdles across the BSG, 68.9% were cognitive — shifting from information selection early on to organization/integration for strategic decisions as the game progressed — highlighting demand for [[formative-assessment|formative]] feedback and on-demand guidance.
@@ -36,7 +36,7 @@ audience: [instructional designers, instructors]
 ## Limitations
 
 - No comparison group: the authors state they cannot isolate Lara's added value relative to using the business simulation game without the agent, so incremental impact on learning processes remains unestimated.
-- All five perception dimensions are self-reported, and the beta analysis rests on the 83 of 122 invited students who completed all five questionnaires; attrition across the multi-week study reduced statistical power and constrained model complexity.
+- All five perception dimensions are self-reported, and the beta analysis rests on the 83 of 122 invited students who completed all five [[self-report-measures|questionnaires]]; attrition across the multi-week study reduced statistical power and constrained model complexity.
 - Adaptive support was driven mainly by group-level performance, so it may not accurately reflect individual knowledge or behavior.
 - The evaluation sits in a single institution and two courses with a relatively homogeneous age range (M = 23.0, SD = 2.59), and the needs analysis drew on n = 100 students in one course, limiting generalizability.
 

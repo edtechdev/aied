@@ -28,7 +28,7 @@ The paper argues that developmental psychology has lacked a theoretical framewor
 
 ## Developmental stages and co-regulation
 
-The framework is stage-sensitive: it is most directly applicable to middle childhood, adolescence, and adulthood, where metacognitive and self-regulatory capacities are developed enough for meaningful [[human-ai-collaboration|human-AI collaboration]]. In early childhood, AI's role is limited to structured external regulation of behavior. Across later stages, AI shifts from metacognitive partner (middle childhood and adolescence) to collaborator in complex cognition (adulthood).
+The framework is stage-sensitive: it is most directly applicable to middle childhood, adolescence, and adulthood, where metacognitive and self-regulatory capacities are developed enough for meaningful [[human-ai-collaboration|human-AI collaboration]]. In [[early-childhood-elementary-ai-education|early childhood]], AI's role is limited to structured external regulation of behavior. Across later stages, AI shifts from metacognitive partner (middle childhood and adolescence) to collaborator in complex cognition (adulthood).
 
 ## Benefits and risks
 
@@ -46,7 +46,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 ## What this means for practice
 
 - **Instructors.** Make support fade against demonstrated performance instead of holding it constant: intelligent tutors should give fewer hints as learners improve and ask learners to justify an answer before supplying it.
-- **Instructors.** Divide the curriculum by what AI may carry: let it handle information processing, feedback provision, scaffolding, and routine problem solving, while critical thinking, ethical reasoning, decision making under uncertainty, and [[self-regulated-learning|self-regulation]] stay sustained human work.
+- **Instructors.** Divide the [[curriculum-design|curriculum]] by what AI may carry: let it handle information processing, feedback provision, scaffolding, and routine problem solving, while critical thinking, ethical reasoning, decision making under uncertainty, and [[self-regulated-learning|self-regulation]] stay sustained human work.
 - **Instructors.** Match the AI role to the developmental stage the framework assigns: structured external regulation of behavior in early childhood, a [[metacognition|metacognitive]] partner in middle childhood and adolescence, and a collaborator on complex cognition in adulthood.
 - **Researchers.** Treat co-regulation with an intelligent system as a measurable construct: the paper's own call is for longitudinal work and common conceptual definitions before the four roles can be tested rather than asserted.
 

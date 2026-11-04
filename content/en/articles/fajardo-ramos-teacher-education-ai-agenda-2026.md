@@ -23,22 +23,22 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Fajardo-Ramos, Chiappe and Martínez-Pérez ask whether education can set the agenda for AI rather than keep adapting to it, and answer with two concepts rather than data. It is a Conceptual Analysis: no sample, no instrument, no cases, no test. The argument runs from a diagnosis, that educational technology repeatedly produces simulated innovation, defined by four characteristics (symbolic modernization, pedagogical continuity, evidentiary displacement, externalized directionality), to a counter-mechanism, pedagogical primacy, which asks educational communities to define purposes and limits before selecting tools, and then to [[teacher-education|teacher education]] as the site where four capacities would form. [[generative-ai|Generative AI]] matters for an evidential reason: it produces the essays and feedback that institutions treat as proxies for thinking, loosening the link between product, process, authorship and evidence. It offers a vocabulary and explicit refutation conditions, but cannot show how often simulated innovation occurs or what a pedagogy-led program changes.
+> **Synthesis:** Fajardo-Ramos, Chiappe and Martínez-Pérez ask whether education can set the agenda for AI rather than keep adapting to it, and answer with two concepts rather than data. It is a Conceptual Analysis: no sample, no instrument, no cases, no test. The argument runs from a diagnosis, that educational technology repeatedly produces simulated innovation, defined by four characteristics (symbolic modernization, [[pedagogy|pedagogical]] continuity, evidentiary displacement, externalized directionality), to a counter-mechanism, pedagogical primacy, which asks educational communities to define purposes and limits before selecting tools, and then to [[teacher-education|teacher education]] as the site where four capacities would form. [[generative-ai|Generative AI]] matters for an evidential reason: it produces the essays and feedback that institutions treat as proxies for thinking, loosening the link between product, process, authorship and evidence. It offers a vocabulary and explicit refutation conditions, but cannot show how often simulated innovation occurs or what a pedagogy-led program changes.
 
 ## Key Findings
 
 No data are reported. These are conceptual claims, tied to the literature the paper assembles.
 
-1. Simulated innovation is defined by four characteristics held together: symbolic modernization, where tool presence signals progress before value is shown; pedagogical continuity, where teaching and assessment formats stay intact; evidentiary displacement, where adoption rates and dashboards stand in for learning; and externalized directionality, where the technology release cycle sets the direction of change.
+1. Simulated innovation is defined by four characteristics held together: symbolic modernization, where tool presence signals progress before value is shown; pedagogical continuity, where teaching and assessment formats stay intact; evidentiary displacement, where adoption rates and [[visualization|dashboards]] stand in for learning; and externalized directionality, where the technology release cycle sets the direction of change.
 2. It is separated from four neighbours: technological determinism, which claims technology drives change by its own logic; digital transformation, of which it is one failure mode; technology adoption, which records only uptake; and technological solutionism, of which it is the institutional outcome.
 3. Generative AI's distinguishing property is evidential: models produce explanations, arguments and feedback that resemble evidence of understanding, so pressure falls on the relation between product, process, authorship and learning.
-4. Pedagogical primacy mirrors the diagnosis: justify use through an explicit learning problem, reconsider roles and tasks before choosing a tool, privilege process evidence such as drafts and oral defense, and deliberate publicly about the futures AI should serve.
+4. Pedagogical primacy mirrors the diagnosis: justify use through an explicit learning problem, reconsider roles and tasks before choosing a tool, privilege process evidence such as drafts and [[oral-assessment|oral defense]], and deliberate publicly about the futures AI should serve.
 5. Pedagogically substantive integration is given four conditions: it answers an explicitly formulated problem, makes reasoning more visible, strengthens [[agency]] rather than dependence on automation, and answers to fairness, privacy and [[assessment-validity|assessment validity]].
 6. Teacher education is assigned four capacities: diagnostic (does this use address a defined problem), design-oriented, ethical and epistemic (bias and authorship as pedagogical matters), and ecological (shared norms with students and colleagues).
 
 ## A diagnostic, not a theory of technology
 
-The four characteristics are relational, not absolute: none says technology is bad or adoption fake; each names a gap between what an institution displays and what it changed. Drawing on Foucault and Althusser, the authors add that standardized assessment long predates learning analytics, so technology-led innovation intensifies tendencies schooling already had rather than corrupting a pure field.
+The four characteristics are relational, not absolute: none says technology is bad or adoption fake; each names a gap between what an institution displays and what it changed. Drawing on Foucault and Althusser, the authors add that standardized assessment long predates [[learning-analytics|learning analytics]], so technology-led innovation intensifies tendencies schooling already had rather than corrupting a pure field.
 
 ## Why generative AI is treated as an inflection point
 
@@ -54,7 +54,7 @@ Nothing here operationalizes the constructs. There are no indicators, thresholds
 
 ## What this means for practice
 
-Instructors should begin from the problem rather than the tool: write down what learning or judgment problem is being addressed. The paper's routines make process visible, requiring students to critique AI output, compare it with disciplinary sources and defend a revision. Faculty developers should treat prompt training as insufficient and build repeated cycles of design, consequence analysis and peer review. Administrators should write policies that define criteria for validity, equity and teacher judgment rather than lists of permitted tools.
+Instructors should begin from the problem rather than the tool: write down what learning or judgment problem is being addressed. The paper's routines make process visible, requiring students to critique AI output, compare it with disciplinary sources and defend a revision. Faculty developers should treat prompt training as insufficient and build repeated cycles of design, consequence analysis and peer review. Administrators should write policies that define criteria for validity, [[equity-in-ai-education|equity]] and teacher judgment rather than lists of permitted tools.
 
 ## Limitations
 

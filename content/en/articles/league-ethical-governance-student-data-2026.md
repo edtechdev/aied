@@ -24,10 +24,10 @@ The rapid growth of learning analytics (LA) in higher education has expanded [[g
 
 ## What this means for practice
 
-- **Administrators.** Run every [[learning-analytics|learning analytics]] initiative — including LLM, agentic, and generative student-facing systems — through the same six-pillar review (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) before deciding whether to approve, revise, pilot, or pause it.
+- **Administrators.** Run every [[learning-analytics|learning analytics]] initiative — including [[llm]], agentic, and generative student-facing systems — through the same six-pillar review (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) before deciding whether to approve, revise, pilot, or pause it.
 - **Administrators.** Schedule reassessment rather than treating approval as final, covering model performance and drift as well as the original educational rationale.
 - **Policymakers.** Treat FERPA and GDPR compliance as the floor for such review: the framework adds equity, student [[agency]], institutional accountability, and educational utility to a compliance check.
-- **Researchers.** Build the quantitative governance-maturity rubric the framework still lacks, so institutions can score and track ethical governance over time instead of judging it case by case.
+- **Researchers.** Build the [[quantitative-research|quantitative]] governance-maturity rubric the framework still lacks, so institutions can score and track ethical governance over time instead of judging it case by case.
 
 ## Limitations
 

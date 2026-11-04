@@ -29,7 +29,7 @@ The findings have implications for [[educational-development|faculty development
 
 ## Limitations
 
-- The evidence comes from 30 academic staff in five focus groups at two institutions (n = 17 in three groups at a private international university in Vietnam; n = 13 in two groups at a single UK business school), and the authors explicitly make no causal or comparative claims between sites.
+- The evidence comes from 30 academic staff in five focus groups at two institutions (n = 17 in three groups at a private international university in Vietnam; n = 13 in two groups at a single UK [[business-education|business school]]), and the authors explicitly make no causal or comparative claims between sites.
 - Sampling differed by institution — purposive at one, self-selection at the other — which limits comparability and under-represents disciplines outside the participating school.
 - Primary coding was done by one member of the research team, so no inter-rater statistics were available; the authors mitigated this with an external reviewer and cross-team discussion of divergent codes.
 - Focus groups are shaped by group dynamics and social desirability, which the authors note constrains what staff disclose about their assessment practice.

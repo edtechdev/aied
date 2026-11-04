@@ -23,7 +23,7 @@ level: [higher ed]
 
 ## What this means for practice
 
-- **Learners.** Type your first prompt when the wording has to be exact, and reserve voice for rough drafting: compared with text prompting, unedited voice prompts had lower odds of immediate success on two of the three problems (OR = 0.50, 95% CI [0.27, 0.89]; OR = 0.43, 95% CI [0.23, 0.83]).
+- **Learners.** Type your first prompt when the wording has to be exact, and reserve voice for rough drafting: compared with text [[prompt-engineering|prompting]], unedited voice prompts had lower odds of immediate success on two of the three problems (OR = 0.50, 95% CI [0.27, 0.89]; OR = 0.43, 95% CI [0.23, 0.83]).
 - **Learners.** Read and fix the transcript before submitting if you do dictate, because students who edited their voice prompts did not differ significantly from typers (OR = 0.57 and OR = 0.72, both n.s.) — editing erased the gap.
 - **Instructors.** Offer voice as an option rather than a default for prompt-based tasks: 813 students used text only (88.5%), 44 used voice only (4.8%), and 62 tried both (6.7%), and those who did use voice were not deterred by it.
 - **Instructors.** Keep a text fallback for non-native English speakers, who cited transcription errors as a reason for preferring typing.
@@ -34,7 +34,7 @@ level: [higher ed]
 - Students self-selected into modality and few chose voice (44 voice-only users of 919), limiting generalizability, and causality cannot be established — whether modality influences outcomes or student characteristics drive modality choice.
 - Only 62 students attempted both prompting approaches, so the within-problem persistence analysis never attained sufficient sample sizes.
 - Some students, including non-native English speakers, reported transcription issues, so evaluations may reflect technology performance rather than the modality itself, and transcription delay was not measured.
-- The three problems were relatively simple and short, and modality preference rests on two self-report [[reflection]] questions rather than a validated technology-acceptance instrument.
+- The three problems were relatively simple and short, and modality preference rests on two [[self-report-measures|self-report]] [[reflection]] questions rather than a validated technology-acceptance instrument.
 
 ## Citation
 

@@ -14,16 +14,16 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This quasi-experimental pretest-posttest study of an intensive 8-hour generative-AI professional development program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36, *p* < 0.001), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033). The Assessment Rubrics component (the lowest pretest area) recorded the largest effect size (*d* = 2.19), identifying assessment tools rather than [[teacher-role|teaching]] methods as the sharpest gap in teachers' knowledge for an AI era.
+> **Synthesis:** This quasi-experimental pretest-posttest study of an intensive 8-hour generative-AI [[educational-development|professional development]] program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36, *p* < 0.001), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033). The Assessment Rubrics component (the lowest pretest area) recorded the largest effect size (*d* = 2.19), identifying assessment tools rather than [[teacher-role|teaching]] methods as the sharpest gap in teachers' knowledge for an AI era.
 
 ## Key Findings
 1. **Very large overall effect.** The intensive 8-hour program produced significant gains across all five AI-PCK components (*p* < 0.001) with an overall effect size of *d* = 2.36, confirming the efficacy of short-format, skills-focused professional development.
 2. **Rubrics showed the largest gain.** The Assessment Rubrics component — which had the lowest pretest mean — recorded the highest effect size (*d* = 2.19), pointing to assessment tools as the most acute area of teacher deficiency.
 3. **Pre-service teachers gained more.** Pre-service teachers showed a significantly higher overall learning gain than experienced teachers (*p* = 0.033), driven chiefly by the scenario-based task-design (*p* = 0.024) and rubric (*p* = 0.044) components.
-4. **[[qualitative-research|Qualitative]] convergence.** Participants reported transforming theoretical knowledge into procedural knowledge, reduced cheating anxiety, and a shift from viewing AI as a threat to a process-management assistant; experienced teachers reported needing longer, sustained support.
+4. **[[qualitative-research|Qualitative]] convergence.** Participants reported transforming theoretical knowledge into procedural knowledge, reduced cheating [[anxiety-and-stress|anxiety]], and a shift from viewing AI as a threat to a process-management assistant; experienced teachers reported needing longer, sustained support.
 
 ## Background: From PCK to AI-PCK
-Shulman's (1986) [[tpack|Pedagogical Content Knowledge]] (PCK) captured how teachers transform subject matter into accessible learning experiences. With the arrival of educational technology this was extended into the [[tpack]] framework by Koehler and Mishra (2009), which stresses the intersection of content, pedagogy, and technological knowledge. The authors argue that Generative AI represents a paradigmatic shift: rather than a static supplementary tool, it enters the teaching-learning process as an active, generative, and automating agent, challenging TPACK and motivating a move toward AI-PCK (Mishra et al., 2023; Sarabi, 2024).
+Shulman's (1986) [[tpack|Pedagogical Content Knowledge]] (PCK) captured how teachers transform subject matter into [[accessibility|accessible learning]] experiences. With the arrival of educational technology this was extended into the [[tpack]] framework by Koehler and Mishra (2009), which stresses the intersection of content, pedagogy, and technological knowledge. The authors argue that [[generative-ai|Generative AI]] represents a paradigmatic shift: rather than a static supplementary tool, it enters the teaching-learning process as an active, generative, and automating agent, challenging TPACK and motivating a move toward AI-PCK (Mishra et al., 2023; Sarabi, 2024).
 
 ## The Five AI-PCK Components
 The study focuses on five components of [[teacher-ai-competency]] most directly impacted by Generative AI:
@@ -65,7 +65,7 @@ The authors interpret the large effects through the lens of focus on immediate, 
 
 - The design is quasi-experimental: a pretest-posttest with a non-equivalent control group and no full random assignment across 163 participants (112 experienced teachers, 51 pre-service), which the authors state limits generalization to a broader population.
 - No follow-up measurement was taken after the 8-hour program, so the study cannot say whether gains persist after 6 months or a year — the sustainability question its own authors raise.
-- Every AI-PCK outcome is self-reported on a researcher-developed 5-point Likert questionnaire (10 items per component, total range 50–250; [[educational-measurement|Cronbach's alpha]] = 0.88), with no classroom observation or student-outcome measure.
+- Every AI-PCK outcome is [[self-report-measures|self-reported]] on a researcher-developed 5-point Likert questionnaire (10 items per component, total range 50–250; [[educational-measurement|Cronbach's alpha]] = 0.88), with no classroom observation or student-outcome measure.
 - Teachers from all disciplines were pooled and analyzed together, with no [[discipline-specific-aied|discipline-specific]] breakdown of AI-PCK needs.
 
 ## Citation

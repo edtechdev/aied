@@ -24,7 +24,7 @@ The paper is a theoretical synthesis (deductive reasoning, four steps: literatur
 ### GenAI as an enabler at each feedback stage
 
 - **Eliciting (seeking feedback).** GenAI is on-demand, always accessible, and less intimidating than human instructors — helpful in large classes, time-poor contexts and power-hierarchical cultures. But effectiveness hinges on **prompt quality**; vague prompts yield generic, useless output. Constraints include version/access divides (subscriptions worsen the [[digital-divide]]), English-centric training data, and data-privacy/intellectual-property concerns.
-- **Processing (making sense).** GenAI reduces cognitive barriers (immediate clarification of academic jargon) and emotional barriers (less anxiety than human interaction). But output can be hallucinated, biased or general/overlapping, so students must exercise **evaluative judgment** and emotional reflexivity rather than blindly trusting GenAI (see [[ai-feedback-quality]]).
+- **Processing (making sense).** GenAI reduces cognitive barriers (immediate clarification of academic jargon) and emotional barriers (less [[anxiety-and-stress|anxiety]] than human interaction). But output can be hallucinated, biased or general/overlapping, so students must exercise **[[evaluative-judgment|evaluative judgment]]** and emotional reflexivity rather than blindly trusting GenAI (see [[ai-feedback-quality]]).
 - **Enacting (using feedback).** GenAI enables iterative, cyclical [[feedback|feedback loops]], self-monitoring toward self-defined goals and personalized non-judgmental suggestions. The risk is **uncritical over-reliance** and boundary confusion over what constitutes acceptable academic-integrity use.
 
 ### The cyclical self-regulation feedback model

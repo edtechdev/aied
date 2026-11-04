@@ -37,10 +37,10 @@ The authors argue that organization is not incidental. On the generation side, a
 
 ## Limitations
 
-- Each condition was trained once, so training-run variance remains unmeasured; the authors note that the aggregate gains are not driven by outlier benchmarks but do not estimate run-to-run variation.
+- Each condition was trained once, so training-run variance remains unmeasured; the authors note that the aggregate gains are not driven by outlier [[benchmark|benchmarks]] but do not estimate run-to-run variation.
 - Gains are averaged over 28 benchmarks (+1.09 overall, winning on 19/28), with the comparison against natural books at p = 0.044 on a one-sided sign test — a real but modest margin, evaluated on benchmark scores only, with no human or learning-outcome evaluation.
 - The benefit is demonstrated for mid-training of LMs, not for classroom use, and the pipeline depends on a searchable pre-training corpus index, adding preprocessing and retrieval overhead not available to users without a suitably indexed corpus.
-- Component ablations rely on a fixed LLM judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
+- Component ablations rely on a fixed [[llm]] judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
 
 ## Citation
 

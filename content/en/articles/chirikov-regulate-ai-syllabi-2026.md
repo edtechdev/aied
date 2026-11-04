@@ -47,7 +47,7 @@ institutions: [educational-policy-ai, governance, regulation]
 ## Limitations
 
 - Syllabi capture stated policies, not classroom enforcement or student compliance, and some instructors regulate AI through verbal instructions or assignment prompts, so the analysis likely underestimates total regulation.
-- The study cannot observe actual student AI use or learning outcomes: whether task-level restrictions protect skill formation remains untested, and students may use AI regardless of stated policies.
+- The study cannot observe actual [[student-ai-interaction|student AI use]] or learning outcomes: whether task-level restrictions protect skill formation remains untested, and students may use AI regardless of stated policies.
 - All syllabi come from a single large selective public research university in Texas (31,000+ syllabi, 2021–2025); the author calls for replication at community colleges, elite private universities, and international settings, since other contexts may show different patterns.
 - The computational classification reached 96% agreement with human coding but not every expanded classification dimension received full human validation, classifications require judgment where policies fall ambiguously between categories, and model updates can classify identical content differently, complicating exact replication.
 

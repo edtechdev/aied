@@ -37,7 +37,7 @@ source_depth: full text
 
 ## What the corpus contains
 
-The data come from a self-paced, nine-week online professional development program on [[ai-education|AI in education]] for higher-education educators, offered to 114 cohorts between February 2025 and July 2026. Building at least one chatbot was a required activity, and educators could share their bots with students, colleagues, or the public through Playlab links. Before preprocessing, 87 educators created 224 chatbots that logged 1,744 conversations; removing test activity and empty records leaves 217 chatbots built by 85 educators and 1,726 conversations.
+The data come from a self-paced, nine-week online [[educational-development|professional development]] program on [[ai-education|AI in education]] for higher-education educators, offered to 114 cohorts between February 2025 and July 2026. Building at least one chatbot was a required activity, and educators could share their bots with students, colleagues, or the public through Playlab links. Before preprocessing, 87 educators created 224 chatbots that logged 1,744 conversations; removing test activity and empty records leaves 217 chatbots built by 85 educators and 1,726 conversations.
 
 Each bot arrives with its system prompt, attached files, model, and platform settings. Prompts are moderately long (Mdn = 296 words), deployed bots carry longer ones (Mdn = 500), and 70% attach at least one reference file, rising to 91% among deployed bots. Most bots target students (59%), but the largest single subject is teaching and [[learning-design|course design]] (30%); supporting tasks are the most common function (45%).
 
@@ -69,7 +69,7 @@ Mean distinct target codes per conversation went from 1.406 to 0.489, and across
 
 ## Limitations
 
-- The corpus comes from adult learners on one platform, Playlab, inside a single nine-week professional development program.
+- The corpus comes from [[adult-learning|adult learners]] on one platform, Playlab, inside a single nine-week professional development program.
 - The participant study covers only the ten most frequently used bots, so the harness estimates do not represent the long tail of low-traffic bots.
 - Participants role-played an intended user from a one-sentence scenario card rather than pursuing their own coursework, so their motivation may differ from real students in the corpus.
 - Annotation relies on a human-calibrated LLM judge; codes such as cognitive overload and pedagogical mismatch require judgment about task demands, and only 45 conversations calibrated the judge against human consensus.

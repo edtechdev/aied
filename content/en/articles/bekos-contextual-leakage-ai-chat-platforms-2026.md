@@ -65,7 +65,7 @@ The education prompts were deliberately ordinary: a request for academic referen
 
 Multiple platforms disclose that analytics frameworks record page views, clicks and session duration, and several state that data is not sold or shared for targeted advertising, yet the pixels operate and collect. Whether that is a disclosure failure or an unexamined default, the effect for a [[higher-ed|university]] or [[k-12|school]] buyer is the same: the assessment must cover the page, not only the model, and [[regulation|rules]] aimed only at the model vendor leave the installed tag untouched.
 
-The remediation path is modest and demonstrated. ChatGPT and Grok removed the trackers collecting conversation context before the paper was submitted, and TheLawGPT reconfigured the offending tracker after notification. Two design directions follow: generate less revealing titles, and build analytics that measure usage without reading content.
+The remediation path is modest and demonstrated. [[generative-ai|ChatGPT]] and Grok removed the trackers collecting conversation context before the paper was submitted, and TheLawGPT reconfigured the offending tracker after notification. Two design directions follow: generate less revealing titles, and build analytics that measure usage without reading content.
 
 ## What this means for practice
 

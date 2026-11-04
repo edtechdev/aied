@@ -15,7 +15,7 @@ confidence: high
 methods: [mixed-methods-research]
 ---
 
-> **Synthesis:** **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and self-evaluation, or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.
+> **Synthesis:** **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and [[self-assessment|self-evaluation]], or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ methods: [mixed-methods-research]
 ## Limitations
 
 - 267 students in a single postgraduate IT subject at one large Australian university; the authors state the findings are limited to one subject.
-- The evidence rests on self-report: three custom surveys across a 12-week collection window (Week 1, Week 9, and a Week 10 reflection) plus interview data from two students, so the scaffold-versus-shortcut distinction reflects reported orientations rather than observed AI behavior.
+- The evidence rests on [[self-report-measures|self-report]]: three custom surveys across a 12-week collection window (Week 1, Week 9, and a Week 10 reflection) plus interview data from two students, so the scaffold-versus-shortcut distinction reflects reported orientations rather than observed AI behavior.
 - The 12-week span captures one semester only, so the movement from hesitant to confident regular user cannot be separated from ordinary course progression.
 - The study is a single-subject mixed-methods design with no comparison condition, so the differentiated profiles are descriptive rather than evidence of an instructional effect.
 

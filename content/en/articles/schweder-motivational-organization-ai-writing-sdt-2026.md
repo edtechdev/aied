@@ -42,7 +42,7 @@ This is the methodological argument of the paper, and it is worth taking serious
 
 The person-centered reading tells a different story. The same five configurations describe both occasions, but their relative sizes shift, and students do not stay put: the transition matrix shows a majority remaining in an equivalent profile while meaningful minorities move. Whether that movement reflects the writing task, the AI's presence, the passage of time or simply a different prompt cannot be settled by this design, which is why the authors interpret the pattern descriptively instead of as latent-state transition.
 
-For [[writing-education|writing education]] the practical translation is that averaging over a class will report stability while individuals are reorganising. A teacher who sees no change in "motivation" on a class survey may still be teaching a room in which a third of students have rearranged how they regulate the work.
+For [[writing-education|writing education]] the practical translation is that averaging over a class will report stability while individuals are reorganising. A [[teacher-role|teacher]] who sees no change in "motivation" on a class survey may still be teaching a room in which a third of students have rearranged how they regulate the work.
 
 ## Autonomy was the need that moved
 

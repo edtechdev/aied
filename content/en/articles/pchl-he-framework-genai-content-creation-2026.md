@@ -14,14 +14,14 @@ confidence: medium
 methods: [ai-ed-evaluation]
 ---
 
-> **Synthesis:** This conceptual preprint develops the Prompt-Context-Harness-Loop Framework for Higher Education (PCHL-HE), a pedagogically grounded vocabulary that differentiates four increasingly complex configurations of generative-[[student-ai-interaction|AI interaction]] — prompt, context, harness, and verified loop — across eight dimensions of control, grounding, orchestration, and oversight. It introduces the **minimally sufficient layer principle** (use the least complex configuration capable of a verifiable result), a four-part verification architecture (output, evidence, process, and human-decision validity), parallel taxonomies for educational and [[research-methods-aied|research]] content, and eight testable propositions with a staged empirical research agenda.
+> **Synthesis:** This conceptual preprint develops the Prompt-Context-Harness-Loop Framework for [[higher-ed|Higher Education]] (PCHL-HE), a pedagogically grounded vocabulary that differentiates four increasingly complex configurations of generative-[[student-ai-interaction|AI interaction]] — prompt, context, harness, and verified loop — across eight dimensions of control, grounding, orchestration, and oversight. It introduces the **minimally sufficient layer principle** (use the least complex configuration capable of a verifiable result), a four-part verification architecture (output, evidence, process, and human-decision validity), parallel taxonomies for educational and [[research-methods-aied|research]] content, and eight testable propositions with a staged empirical research agenda.
 
 ## Key Findings
 
 1. **Higher education lacks a vocabulary for complex AI interaction.** [[generative-ai|GenAI]] is moving beyond isolated prompt-response exchanges toward systems that curate information, call tools, retain state, verify intermediate products, and repeat actions under explicit control, yet HE lacks a pedagogically grounded way to select among these increasingly complex forms.
 2. **Four task configurations.** PCHL-HE differentiates four configurations: *prompt* engineering designs a bounded instruction; *context* engineering designs the information environment available to the model; *harness* engineering designs a complete, multi-step, tool-mediated working pass; *loop* engineering closes a verified, repeatable loop.
-3. **Eight differentiating dimensions.** The framework spans unit of control, information grounding, workflow complexity, temporal horizon, tool orchestration, feedback and iteration, verification, and human oversight.
-4. **Integrative construction.** The framework is built through synthesis of research on prompting, retrieval and context management, agentic systems, human interaction with automation, AI in HE, assessment, feedback, academic integrity, and design science — anchored in constructive alignment, [[self-regulated-learning]], [[feedback-literacy|feedback literacy]], and human-centered automation theory.
+3. **Eight differentiating dimensions.** The framework spans unit of control, information grounding, workflow complexity, temporal horizon, tool orchestration, feedback and iteration, verification, and [[human-in-the-loop-ai|human oversight]].
+4. **Integrative construction.** The framework is built through synthesis of research on [[prompt-engineering|prompting]], retrieval and context management, agentic systems, human interaction with automation, AI in HE, assessment, feedback, [[academic-integrity|academic integrity]], and design science — anchored in constructive alignment, [[self-regulated-learning]], [[feedback-literacy|feedback literacy]], and human-centered automation theory.
 
 ## The minimally sufficient layer principle
 
@@ -29,7 +29,7 @@ PCHL-HE emphasizes that the four layers — prompt, context, harness, and loop �
 
 ## Mapping layers to content and roles
 
-The framework maps the four layers onto six categories of educational content and six categories of research content, and it differentiates teacher from student responsibilities at each layer. This provides institutions and instructors a concrete vocabulary for designing assignments that match task complexity to an appropriate AI configuration — for example, reserving verified loops for contexts where intermediate products, evidence, and human oversight genuinely matter, while keeping routine content generation at the prompt or context layer. Selection begins from the task's epistemic and [[pedagogy|pedagogical]] requirements, and consequence, data sensitivity, and learning purpose can justify a *lower* level of automation even when a more complex system is available.
+The framework maps the four layers onto six categories of educational content and six categories of research content, and it differentiates [[teacher-role|teacher]] from student responsibilities at each layer. This provides institutions and instructors a concrete vocabulary for designing assignments that match task complexity to an appropriate AI configuration — for example, reserving verified loops for contexts where intermediate products, evidence, and human oversight genuinely matter, while keeping routine content generation at the prompt or context layer. Selection begins from the task's epistemic and [[pedagogy|pedagogical]] requirements, and consequence, data sensitivity, and learning purpose can justify a *lower* level of automation even when a more complex system is available.
 
 ## The verification architecture
 
@@ -41,7 +41,7 @@ A distinctive contribution is the four-part verification architecture covering *
 - Require students to disclose the PCHL-HE layer, evidence set, tools, iterations, and human decisions with any AI-assisted submission — this yields richer process evidence than a binary AI-permitted declaration.
 - Judge AI-assisted workflows by the cost of obtaining a trustworthy, pedagogically valid result rather than by generation speed, since agentic systems can cut production effort while raising provenance, monitoring, and oversight burden.
 - **Administrators.** Adopt the eight dimensions and the four-part verification architecture (output, evidence, process, and human decision validity) as shared vocabulary for tool selection and policy, and keep high-stakes decisions such as grading, misconduct judgments, and admissions out of autonomous loops.
-- **Researchers.** Treat the eight propositions as a staged research agenda (scoping review, expert validation, comparative pilots) and test whether users can classify tasks reliably by layer.
+- **Researchers.** Treat the eight propositions as a staged research agenda ([[meta-analysis-systematic-review|scoping review]], expert validation, comparative pilots) and test whether users can classify tasks reliably by layer.
 
 ## Limitations
 

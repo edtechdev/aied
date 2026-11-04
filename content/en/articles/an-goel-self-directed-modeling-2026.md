@@ -13,7 +13,7 @@ audience: [learning analytics designers, researchers, instructional designers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis** — An, Hammock & Goel (2025) analyze the clickstreams of 315 self-directed [[online-teaching-and-learning|online learners]] across 822 models built in VERA, an ecological [[simulation|modeling]] tool. Using [[learning-analytics]] techniques — activity sequence analysis, hierarchical clustering, and [[machine-learning|Markov chain]] models — they identify three behavioral patterns: Observation, Construction, and Exploration. Learners tend to progress from construction-focused behavior toward more active, hypothesis-driven Exploration, with Observation consistently present across all learning phases.
+> **Synthesis:** **How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis** — An, Hammock & Goel (2025) analyze the clickstreams of 315 self-directed [[online-teaching-and-learning|online learners]] across 822 models built in VERA, an ecological [[simulation|modeling]] tool. Using [[learning-analytics]] techniques — [[pedagogical-patterns|activity sequence]] analysis, hierarchical clustering, and [[machine-learning|Markov chain]] models — they identify three behavioral patterns: Observation, Construction, and Exploration. Learners tend to progress from construction-focused behavior toward more active, hypothesis-driven Exploration, with Observation consistently present across all learning phases.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ page_kind: [evaluation]
 
 ## Limitations
 
-- Single-platform snapshot: the analysis covers 315 learners and 822 models in VERA as of November 2021, with no demographic or achievement data collected, so behavior patterns cannot be tied to grade level, prior knowledge, or [[learning-gains|learning outcomes]].
+- Single-platform snapshot: the analysis covers 315 learners and 822 models in VERA as of November 2021, with no demographic or achievement data collected, so behavior patterns cannot be tied to grade level, [[prior-knowledge|prior knowledge]], or [[learning-gains|learning outcomes]].
 - Learners self-selected into an informal platform and are therefore likely motivated; the authors state directly that the log data leave learner context unknown and limit the generalizability of the findings.
 - The clickstream contains no time durations, and 33 outlier sequences beyond mean ± 2 SD were removed before segmentation, so session pacing and extreme engagement patterns are invisible in the results.
 - The evidence is behavioral only — no surveys or interviews were used to verify that the inferred Observation, Construction, and Exploration labels match what learners intended, which the authors name as the main gap to close.

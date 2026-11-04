@@ -23,7 +23,7 @@ audience: [instructors, instructional designers]
 
 ## What this means for practice
 
-- **Instructors.** Map AI support to the academic calendar rather than the student's baseline profile: reduce unsolicited help during deadline weeks so students keep the productive struggle, and raise support after assessments to rebuild self-efficacy and interest.
+- **Instructors.** Map AI support to the academic calendar rather than the student's baseline profile: reduce unsolicited help during deadline weeks so students keep the [[desirable-difficulties|productive struggle]], and raise support after assessments to rebuild self-efficacy and interest.
 - **Instructors.** Keep measurement and interpretation separate — score SRL with validated instruments (MAI_K, MAI_R, WEMWBS) and let the model only translate those results into support directions, so advice stays anchored in theory rather than inferred from chat history.
 - **Instructional designers.** Feed the system each learner's personal, temporal, and contextual data (baseline, week-by-week fluctuations, course context) instead of a one-time-fits-all [[personalized-learning|personalization]] built only on baseline aptitude.
 - **Instructional designers.** Design for SRL as a state, not a trait: instrument [[metacognition]] and well-being across the whole term, since both declined systemically while metacognitive regulation held steady.
@@ -31,7 +31,7 @@ audience: [instructors, instructional designers]
 ## Limitations
 
 - Although 75 students consented, only 54 completed both pre- and post-semester surveys, and the week-by-week analysis narrowed further to a 38-student cohort in a single computing subject at one Australian university.
-- Every measure is self-report (MAI_K, MAI_R, WEMWBS, and single-item interest and self-efficacy scales), so the reported declines reflect perceived rather than demonstrated [[self-regulated-learning|self-regulation]] or learning.
+- Every measure is [[self-report-measures|self-report]] (MAI_K, MAI_R, WEMWBS, and single-item interest and self-efficacy scales), so the reported declines reflect perceived rather than demonstrated [[self-regulated-learning|self-regulation]] or learning.
 - Daily surveys ran only in weeks 4, 6, 8, and 9 (246 responses), so the "week-by-week" trajectory rests on four sampled weeks of the 12-week term.
 - The [[generative-ai|GenAI]] component is a proof-of-concept on two illustrative student cases whose output was judged appropriate by two members of the research team; there was no control group and no measured effect of the tailored support on learning.
 

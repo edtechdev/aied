@@ -22,7 +22,7 @@ page_kind: [evaluation]
 
 - **Rule-guided scaffolding outperformed ad-hoc scaffolding** on interactional consistency: in 36 of 40 (90%) real-student sessions both the tutor and students followed the intended turn-taking script, and the tutor guided key concepts/rules in the same 36 sessions, even under fragmented, ambiguous classroom input.
 - **The three-layer architecture reduced premature answer-giving and early closure** via anti-spoiler boundaries and a completion-only goodbye gate; the tutor's diagnostic layer identified and responded to clear student deviations in all sessions where they occurred, validating the granularity of its assessment codes.
-- **[[simulation]] surfaced architectural failure modes with high recall** — arithmetic verification misjudgment, over-explanation, answer-giving boundary violations, and premature goodbye were all identified and remediated through an "evidence–diagnosis–revision–retest" cycle using an LLM-as-Student, dual-model configuration (DeepSeek as student, ChatGPT as tutor).
+- **[[simulation]] surfaced architectural failure modes with high recall** — arithmetic verification misjudgment, over-explanation, answer-giving boundary violations, and premature goodbye were all identified and remediated through an "evidence–diagnosis–revision–retest" cycle using an LLM-as-Student, dual-model configuration (DeepSeek as student, [[generative-ai|ChatGPT]] as tutor).
 - **The classroom pilot with 40 Grade 5 students (mean age 10.8 years) revealed complexities not captured in simulation**: attentional fragility requiring pause/resume, engagement costs of pedagogical verbosity, trust sensitivity to arithmetic disagreements, and need for explicit locking of high-risk procedural rules (units, rounding, billing conventions).
 - **Even a highly structured prompt cannot fully eliminate stochastic variability** — the tutor produced incorrect information (arithmetic [[hallucination-risk|hallucinations]]) in 4 of 40 sessions (10%), motivating strengthened uncertainty guardrails and an "epistemic humility" design in which all computation is returned to the student.
 - **Simulation and classroom validation are complementary, not interchangeable**: every Phase 1 failure mode reappeared in Phase 2, yet simulation systematically underestimates interactional failure modes (fragmented inputs, off-task behavior, trust sensitivity), warning against "ecological overconfidence."
@@ -38,7 +38,7 @@ page_kind: [evaluation]
 ## Limitations
 
 - The empirical evidence is a single classroom pilot with 40 Grade 5 students (22 female, 18 male, mean age 10.8 years) in one Shenzhen school computer laboratory working on unit-conversion and rounding word problems, so scalability to other populations and content such as fractions or proportional reasoning is untested.
-- There was no controlled comparison condition, so learning effects cannot be attributed causally; facilitator influence, peer effects, and variable student motivation were uncontrolled classroom variables.
+- There was no controlled comparison condition, so learning effects cannot be attributed causally; facilitator influence, peer effects, and variable [[motivation|student motivation]] were uncontrolled classroom variables.
 - The tutor gave incorrect arithmetic information in 4 of 40 sessions (10%), and LLM version updates may shift prompt performance, requiring ongoing monitoring and periodic re-validation.
 
 ## Citation

@@ -21,7 +21,7 @@ The study surfaces the central tension in [[cognitive-offloading|Over-Reliance]]
 
 ## What this means for practice
 
-- **Learners.** Evaluate the feedback instead of accepting it: appraisals shifted over the semester from general acceptance to identifying generic advice, mismatch with the essay and misreadings, so judge each comment for relevance, trustworthiness and usability.
+- **Learners.** Evaluate the feedback instead of accepting it: appraisals shifted over the semester from general acceptance to identifying generic advice, mismatch with the essay and misreadings, so judge each comment for relevance, trustworthiness and [[usability-research|usability]].
 - **Learners.** Give the tool the essay context that makes advice specific: prompt-level grounding reduced generic-advice complaints but did not settle judgments about accuracy, tone or actionability, so test advice against your own text.
 - **Learners.** Record which feedback you accept or reject and why: the study captured cohort-level appraisals, not whether individual students became better evaluators, and the completion-oriented rubric made full credit easy to obtain without revision.
 - **Learners.** Do the reflective work yourself: descriptive reflection depth did not change across the semester, and roughly a third of essays were classified as likely generated writing - including 51% of those coded as dialogic or critical reflection.
@@ -29,8 +29,8 @@ The study surfaces the central tension in [[cognitive-offloading|Over-Reliance]]
 ## Limitations
 
 - One course and one assignment format: 2,988 appraisal instances from 283 Estonian bachelor students, and the authors state they cannot determine whether growing negativity and AI overuse came from general semester fatigue rather than the task or course.
-- Students chose their own chatbots and provider labels were derived from URLs rather than exact model settings, so the specific tool behind each appraisal is uncontrolled.
-- Appraisals were a short feedback-appraisal slot within reflective essays and were analyzed with LLM-assisted coding, which remains an approximation of students' judgment.
+- Students chose their own [[conversational-ai|chatbots]] and provider labels were derived from URLs rather than exact model settings, so the specific tool behind each appraisal is uncontrolled.
+- Appraisals were a short feedback-appraisal slot within reflective essays and were analyzed with [[llm]]-assisted coding, which remains an approximation of students' judgment.
 - The AI-text classifier used to estimate essay groundedness does not officially support Estonian and was assessed on a small test set, and the authors note a large share of the corpus likely cannot be treated as purely unaided student writing.
 
 ## Citation

@@ -31,7 +31,7 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 - **Learners.** Study a manageable number of words per session — learners who entered more words per interaction achieved higher outcomes, while one who overloaded himself reported the system as "stressful" and scored 60% lower than with the baseline.
 - **Instructors.** Let an LLM act as a teachable student generating contextually relevant questions instead of building rigid template-based question sets, which are expensive to construct.
 - **Designers.** Avoid the repetitive question loops observed here by raising output diversity (the model was run at temperature zero) and adapting the prompt to the learner's responses.
-- **Researchers.** Target the learner traits linked to stronger outcomes to build adaptive learning-by-teaching that adjusts to a learner's input style and cognitive capacity.
+- **Researchers.** Target the learner traits linked to stronger outcomes to build [[adaptive-learning|adaptive learning]]-by-teaching that adjusts to a learner's input style and cognitive capacity.
 
 ## Limitations
 

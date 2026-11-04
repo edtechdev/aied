@@ -40,7 +40,7 @@ The study addresses a gap in computing education research, which has focused lar
 - **Descriptive post-test survey with no comparison condition:** 170 consenting students (143 at institution 1, 27 at institution 2) watched three 3-minute videos and reported perceptions afterward, so the design cannot show the videos were more effective than other instructional materials.
 - **The knowledge measure was brief and incidental:** the 86% average on the five-question post-survey Markdown quiz reflects immediate acquisition only, not retention or transfer.
 - **Easy content, experienced learners:** the stimulus covered Markdown in three-minute clips and most participants reported little or no prior Markdown familiarity but came from higher-level CS courses, limiting generalization to novices and to more complex content.
-- **Qualitative coding is open to multiple interpretations:** the authors report their coding process and representative quotes rather than an inter-rater reliability statistic.
+- **[[qualitative-research|Qualitative]] coding is open to multiple interpretations:** the authors report their coding process and representative quotes rather than an inter-rater reliability statistic.
 
 ## Citation
 

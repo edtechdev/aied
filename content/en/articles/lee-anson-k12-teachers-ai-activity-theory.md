@@ -18,16 +18,16 @@ methods: [qualitative-research]
 
 ## Key Findings
 
-- **Six themes of teacher perception.** Teachers characterized AI as *unsuitable* (for their context), *impersonal* (lacking relational warmth), *imperfect* (error-prone/unreliable), *uncertain* (opaque/unpredictable), *assisting* (useful for routine tasks), and *inevitable* (a force to be reckoned with).
+- **Six themes of [[teacher-role|teacher]] perception.** Teachers characterized AI as *unsuitable* (for their context), *impersonal* (lacking relational warmth), *imperfect* (error-prone/unreliable), *uncertain* (opaque/unpredictable), *assisting* (useful for routine tasks), and *inevitable* (a force to be reckoned with).
 - **Activity theory as a framing.** The study conceptualizes AI as a tool/mediator within the school activity system (subject, tools, object, rules, community, division of labor), arguing that digital tools — AI included — do not force action but mediate goal-directed activity; humans (not tools) retain agency.
 - **Contradictory, nuanced sentiments.** Teachers' views were simultaneously favorable (assisting) and skeptical (unsuitable, impersonal, imperfect, uncertain), and resigned (inevitable) — a complexity that individual-belief models may flatten.
 - **Context sensitivity.** AI as a mediating tool interacts with the specific learning environment (tools, activities, community), so its adoption and meaning vary by school context.
 
 ## What this means for practice
 
-- **Instructors.** Audit your own digital competency and preferred pedagogical approach before adopting AI, and map where it adds value across students' self-study, teacher-led learning, peer learning, and learning with AI.
+- **Instructors.** Audit your own digital competency and preferred [[pedagogy|pedagogical]] approach before adopting AI, and map where it adds value across students' self-study, teacher-led learning, [[collaborative-learning|peer learning]], and learning with AI.
 - **Instructors.** Define the division of labor with AI for your own work and for students, and judge which domains in your subject benefit most from innovation and which are most vulnerable to technological threats (e.g., mathematics, reading, [[critical-thinking|critical thinking]]).
-- **Instructors.** Build your own AI literacy so you can recognize when AI output is unsuitable, impersonal, imperfect, or uncertain, and model that judgment for students.
+- **Instructors.** Build your own [[ai-literacy|AI literacy]] so you can recognize when AI output is unsuitable, impersonal, imperfect, or uncertain, and model that judgment for students.
 - **Instructors.** When AI adoption stalls, treat it as a property of the whole school activity system: examine the tools, rules, community, and division of labor rather than pressing harder on training individual teachers.
 - **Instructors.** Use the six-theme vocabulary (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable) to move AI conversations with colleagues and students past a simple for/against binary.
 

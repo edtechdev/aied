@@ -14,7 +14,7 @@ confidence: medium
 discipline: [cs education]
 ---
 
-> **Synthesis:** Fostering machine learning literacy in senior primary education: Evaluating a structured [[pedagogy|pedagogical]] course design
+> **Synthesis:** Fostering [[machine-learning|machine learning]] literacy in senior [[early-childhood-elementary-ai-education|primary education]]: Evaluating a structured [[pedagogy|pedagogical]] [[learning-design|course design]]
 
 ## Key Findings
 
@@ -26,11 +26,11 @@ discipline: [cs education]
 
 ## Study Design & Method
 
-The course design responds to a gap in K-12 AI literacy education, which the authors argue emphasizes tool usage over fundamental concepts even though AI literacy requires understanding how and why AI works. The structured approach combines guided worksheets with hands-on robot interaction, letting students experience the ML pipeline directly: they adjust data processing, tune parameters, and iteratively train models within the robots' software. The [[mixed-methods-research|mixed-methods]] evaluation paired a pre/post concept test administered to the full cohort (Npre = 696; Npost = 727; 679 matched pairs analyzed with the non-parametric Wilcoxon signed-rank test) with 15 semi-structured focus group interviews (three to five students each, conducted via Zoom for about 30 minutes, with a course-content recap to mitigate recall bias) analyzed thematically using a codebook approach. There was no significant gender difference in initial knowledge (p = .270), with only a non-significant post-test trend (p = .051).
+The course design responds to a gap in [[k-12]] AI literacy education, which the authors argue emphasizes tool usage over fundamental concepts even though AI literacy requires understanding how and why AI works. The structured approach combines guided worksheets with hands-on robot interaction, letting students experience the ML pipeline directly: they adjust data processing, tune parameters, and iteratively train models within the robots' software. The [[mixed-methods-research|mixed-methods]] evaluation paired a pre/post concept test administered to the full cohort (Npre = 696; Npost = 727; 679 matched pairs analyzed with the non-parametric Wilcoxon signed-rank test) with 15 semi-structured focus group interviews (three to five students each, conducted via Zoom for about 30 minutes, with a course-content recap to mitigate recall bias) analyzed thematically using a codebook approach. There was no significant gender difference in initial knowledge (p = .270), with only a non-significant post-test trend (p = .051).
 
 ## What this means for practice
 
-- **Instructors.** Allocate curriculum time to a short, structured ML unit: a six-to-eight-hour robotics-based course produced significant gains in ML understanding across 679 matched pairs (concept-test mean 4.57 → 7.53, Wilcoxon r = 0.55, p < .001).
+- **Instructors.** Allocate [[curriculum-design|curriculum]] time to a short, structured ML unit: a six-to-eight-hour robotics-based course produced significant gains in ML understanding across 679 matched pairs (concept-test mean 4.57 → 7.53, Wilcoxon r = 0.55, p < .001).
 - Pair hands-on training tasks with structured [[scaffolding]] instead of teaching concepts through screen-based tools alone, and use [[visualization|real-time algorithm visualization]] so the unit serves [[computational-thinking]] and [[ai-literacy]] goals rather than tool familiarity.
 - Spend the hours on cross-concept work, since item-level effect sizes ran from 0.24 to 0.48 with the largest gains on ML paradigms, the ML workflow, and ANN structure (correctness rising from below 30% to nearly 60%).
 - Target the hardest objective explicitly — selecting optimal ML approaches for novel problems under resource trade-offs reached only 36% correctness — and extend toward an eight-to-10-h intervention when the goal is deeper differentiation of methods.

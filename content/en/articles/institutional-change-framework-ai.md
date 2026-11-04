@@ -15,7 +15,7 @@ page_kind: [framework]
 institutions: [change-management]
 ---
 
-> **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
+> **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of [[generative-ai|generative AI]]. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before [[pedagogy|pedagogical]] evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
 > Central insight: "Institutions cannot wait for best practices, but cannot responsibly scale unjustified innovations. Neither banning nor uncritical embrace is tenable."
 
 ## Six Dimensions of Reconsideration
@@ -61,8 +61,8 @@ The framework was piloted through a faculty workshop series in a university [[ph
 
 - **Faculty developers.** Anchor workshop design in pedagogical approaches and the department's own teaching problems rather than in specific AI tools: the framework's tools dimension argues that AI changes on timescales of months, so tool-anchored reform risks obsolescence before evidence accumulates.
 - **Faculty developers.** Reposition the center for teaching and learning as a facilitator of collective inquiry rather than a broker of best practices — the physics workshop series surfaced what was happening in participants' courses instead of prescribing approved tools.
-- **Administrators.** Invest in sustained spaces for faculty inquiry and in dedicated expert support rather than in tool procurement, following the paper's Science Teaching Fellows precedent of funding discipline-based partners in course transformation, and build capacity for continuous adaptation rather than one-time adoption.
-- **Administrators.** Treat students as partners in the change process rather than its recipients: the framework holds that students are often ahead of faculty in AI use, so their existing practices are evidence about what is already happening in courses.
+- **Administrators.** Invest in sustained spaces for faculty inquiry and in dedicated expert support rather than in tool procurement, following the paper's [[science-education|Science Teaching]] Fellows precedent of funding discipline-based partners in course transformation, and build capacity for continuous adaptation rather than one-time adoption.
+- **Administrators.** Treat [[pedagogical-partnerships|students as partners]] in the change process rather than its recipients: the framework holds that students are often ahead of faculty in AI use, so their existing practices are evidence about what is already happening in courses.
 - **Instructors.** Document and share local experiments with their limits stated and refuse to generalize them; the framework's answer to an absent evidence base is humble, local inquiry.
 
 ## Limitations

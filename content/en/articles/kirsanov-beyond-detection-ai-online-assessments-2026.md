@@ -21,7 +21,7 @@ audience: [instructors, assessment designers, administrators]
 ## Key Findings
 
 - **Reported AI use is moderate, and disclosure is rare.** Only ~34% of respondents acknowledged AI use; most uses were supportive (proofreading, rewording, brainstorming), and no student reported submitting a full AI-generated answer. Many opted out of reporting AI use early in the survey — interpreted as **strategic self-presentation** rather than proof of non-use.
-- **Fear of penalties is the dominant barrier to disclosure.** About three-quarters of respondents worried about being penalized for AI use, even when use was moderate or constructive ("penalty anxiety"). This is consistent with broader UK/international survey evidence.
+- **Fear of penalties is the dominant barrier to disclosure.** About three-quarters of respondents worried about being penalized for AI use, even when use was moderate or constructive ("penalty [[anxiety-and-stress|anxiety]]"). This is consistent with broader UK/international survey evidence.
 - **[[ethics|Ethical]] anxiety predicts lower disclosure.** Logistic regression found students with greater ethical anxiety (fear of penalties, unfair access, undermining learning) were less likely to disclose AI use. Notably, UK nationals disclosed significantly more than international students.
 - **Students want guidance, not bans.** Most agreed AI is acceptable when used supportively, and many welcomed clearer citation rules and institutional guidance. Views on a blanket ban were divided.
 - **Authentic, data-rich tasks are the promising lever.** Students widely supported real-world, data-based tasks as reducing [[cognitive-offloading|over-reliance]] on AI — by design rather than deterrence.
@@ -38,7 +38,7 @@ audience: [instructors, assessment designers, administrators]
 
 - Small single-program sample: 31 respondents, about 18% of the cohort (31/174), at one UK economics program, with potential self-selection bias; the authors state that the findings are exploratory and not generalizable beyond this setting.
 - Female and international students were somewhat over-represented among respondents relative to the cohort as a whole, which may also have shaped the patterns observed.
-- All measures are self-reported, so social desirability bias is a live risk — students may have underreported AI use or overstated ethical caution despite the survey's anonymity.
+- All measures are [[self-report-measures|self-reported]], so social desirability bias is a live risk — students may have underreported AI use or overstated ethical caution despite the survey's anonymity.
 - Perceptions were captured at a single point in time, before the release of more advanced AI tools and detection systems, and the small sample size limits the strength of any statistical claims from the exploratory regression.
 
 ## Citation

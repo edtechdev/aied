@@ -33,7 +33,7 @@ reviewed_by: [editor]
 3. **Affirmation stabilized without reframing.** An alert for Dema drew supportive words rather than a new task framing: her engagement structure held, while the affective tone shifted briefly toward reassurance.
 4. **Three simultaneous alerts prompted a collective move.** With three simultaneous red-framed rectangles displayed, the teacher addressed the whole class, moving from a numerical outcome to the geometric characterization of point D.
 5. **Repeated alerts changed the teacher's strategy, not the student's.** After continued alerts for Rusol, a second intervention asking "What are you looking for, Rusol?" surfaced her intention to find the angle bisectors' intersection points.
-6. **Non-intervention was a pedagogical decision.** Later, with fewer negative and more positive alerts, the teacher said students were working with less stress; he did not intervene.
+6. **Non-intervention was a [[pedagogy|pedagogical]] decision.** Later, with fewer negative and more positive alerts, the teacher said students were working with less stress; he did not intervene.
 
 ## How the study was conducted
 

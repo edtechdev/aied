@@ -24,8 +24,8 @@ The paper positions AI not as an existential threat to universities but as a **c
 
 The paper's central framework describes four stages of institutional response, ranging from defensive restriction to full integration, noting that many institutions presently operate around **Level 0 or Level 1**:
 
-1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to [[academic-integrity|academic integrity]]. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread student AI use.
-2. **Level 1 — Informal or Peripheral Adoption:** Experimentation happens largely at the level of individual educators rather than through institutional strategy, with limited or inconsistent guidance for students, no formal recognition in workload or promotion, and uneven adoption across units. Innovation thus depends on motivated individuals and can burden those leading change.
+1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to [[academic-integrity|academic integrity]]. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread [[student-ai-interaction|student AI use]].
+2. **Level 1 — Informal or Peripheral Adoption:** Experimentation happens largely at the level of individual educators rather than through institutional strategy, with limited or inconsistent guidance for students, no formal recognition in workload or promotion, and uneven adoption across units. Innovation thus depends on motivated individuals and can burden those [[change-management|leading change]].
 3. **Level 2 — Strategic Integration:** Universities begin embedding AI into [[teacher-role|teaching]] policy and [[curriculum-design|curriculum design]], with clear institutional principles, curriculum redesign for AI-rich environments, professional AI development for educators, and recognition of innovation in workload or funding. Teaching increasingly focuses on reasoning, interpretation, and responsible use.
 4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centered on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving]].
 
@@ -39,7 +39,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
 - The workload-and-recognition emphasis speaks to [[educational-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
-- Relevant to [[regulation]] discussions about higher-education policy and [[finkelstein-principled-ai-education-2025]] frameworks
+- Relevant to [[regulation]] discussions about higher-[[educational-policy-ai|education policy]] and [[finkelstein-principled-ai-education-2025]] frameworks
 
 ## Open Questions
 
@@ -52,7 +52,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 
 - **Administrators.** Locate your institution on the four-level framework before funding more tools: many institutions currently operate around Level 0 or Level 1, where experimentation depends on motivated individual educators and is unrecognized in workload or promotion structures.
 - **Administrators.** Recognize AI-driven curriculum redesign in workload models and embed AI-enabled teaching innovation in promotion and teaching award criteria, so that scaling does not depend on unrecognized effort by individual educators.
-- **Instructors.** Redesign assessment toward reasoning and justification rather than trying to contain AI: the case units use live pitches, reflective [[eportfolio|portfolios]], and viva voce to make students justify, explain, and adapt their thinking in real time.
+- **Instructors.** Redesign assessment toward reasoning and justification rather than trying to contain AI: the case units use live pitches, reflective [[eportfolio|portfolios]], and [[oral-assessment|viva voce]] to make students justify, explain, and adapt their thinking in real time.
 - **Faculty developers.** Build shared sensemaking about change rather than assuming that new tools or individual experimentation will suffice; the paper cites Kezar (2018) on change efforts that falter under implicit and overly simplistic theories of change.
 - **Administrators.** Create institutional pilots or funded initiatives that scale successful teaching innovations beyond individual courses, since isolated innovations otherwise remain unrecognized and unable to spread.
 

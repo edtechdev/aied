@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This quantitative experiment compares how university students rate educational debates moderated by a human, by an AI chatbot, or by each in turn. Thirty-two STEM students from several US universities joined 32 debate sessions across four moderator conditions (Human-Human, Bot-Bot, Human-Bot, Bot-Human), yielding 64 post-debate observations on five-point scales. No statistically significant difference emerged between human and AI moderation on effectiveness, enjoyment, satisfaction, perceived utility or intention to use. What did differ was the route to reuse: under AI moderation, perceived utility was the strong driver of intention to use, whereas under human moderation satisfaction mattered more, and the effect of moderation quality itself ran only through utility. The authors read the null comparison as a signal that [[human-ai-collaboration]] in structured, rule-bound discussion is becoming normalized, not as proof that the two moderator types are equivalent, and they argue for AI moderation as scalable support for [[collaborative-learning]] under human oversight.
+> **Synthesis:** This [[quantitative-research|quantitative]] experiment compares how university students rate educational debates moderated by a human, by an AI [[conversational-ai|chatbot]], or by each in turn. Thirty-two STEM students from several US universities joined 32 debate sessions across four moderator conditions (Human-Human, Bot-Bot, Human-Bot, Bot-Human), yielding 64 post-debate observations on five-point scales. No statistically significant difference emerged between human and AI moderation on effectiveness, enjoyment, satisfaction, perceived utility or intention to use. What did differ was the route to reuse: under AI moderation, perceived utility was the strong driver of intention to use, whereas under [[human-in-the-loop-ai|human moderation]] satisfaction mattered more, and the effect of moderation quality itself ran only through utility. The authors read the null comparison as a signal that [[human-ai-collaboration]] in structured, rule-bound discussion is becoming normalized, not as proof that the two moderator types are equivalent, and they argue for AI moderation as scalable support for [[collaborative-learning]] under human oversight.
 
 ## Key Findings
 
@@ -48,19 +48,19 @@ Independent-sample t-tests tested the five hypotheses, and none was supported; t
 
 ## What drives intention to return
 
-The research model draws on the Technology Acceptance Model and UTAUT2 to trace how moderation effectiveness and hedonic motivation feed satisfaction, perceived utility, [[student-engagement|engagement]] and intention to use. Moderation effectiveness predicted perceived utility in all groups, while its effect on satisfaction was significant in the full sample (0.279, p = 0.013), marginal in the bot group (0.261, p = 0.050) and not significant in the human group (0.308, p = 0.108).
+The research model draws on the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT2 to trace how moderation effectiveness and hedonic motivation feed satisfaction, perceived utility, [[student-engagement|engagement]] and intention to use. Moderation effectiveness predicted perceived utility in all groups, while its effect on satisfaction was significant in the full sample (0.279, p = 0.013), marginal in the bot group (0.261, p = 0.050) and not significant in the human group (0.308, p = 0.108).
 
 Behavioral intention then split by moderator type: satisfaction carried intention to use for human-moderated debates but not in the bot group, where perceived utility carried it instead (0.806, p = 0.004). Mediation matched this pattern in the full sample and the bot group, where moderation quality and hedonic motivation influenced usage intention indirectly through satisfaction and utility, all indirect effects significant at p < 0.01. In the human group, moderation quality showed no such indirect effects (p = 0.164 and 0.084), leaving its influence to unmeasured factors such as empathy, tone or [[trust]].
 
 ## Reading the null result
 
-The authors read the flat comparison through three lenses: growing familiarity with AI may have reduced novelty effects, the tightly structured text-based format may have masked differences in social presence and emotional responsiveness, and STEM students may judge a platform functionally, caring more about clear prompts, consistent turn-taking and relevant topics than about who moderates.
+The authors read the flat comparison through three lenses: growing familiarity with AI may have reduced novelty effects, the tightly structured text-based format may have masked differences in [[community-of-inquiry|social presence]] and emotional responsiveness, and STEM students may judge a platform functionally, caring more about clear prompts, consistent turn-taking and relevant topics than about who moderates.
 
-The paper also flags what the design cannot show: language models struggle with sarcasm and indirect language, leaving [[equity-in-ai-education|equitable participation]] open, and AI moderation is positioned as support for human facilitators rather than a replacement.
+The paper also flags what the design cannot show: [[llm|language models]] struggle with sarcasm and indirect language, leaving [[equity-in-ai-education|equitable participation]] open, and AI moderation is positioned as support for human facilitators rather than a replacement.
 
 ## What this means for practice
 
-- Treat AI debate moderators as a scaling aid for large or lightly staffed courses rather than a replacement, keeping human oversight for ethical, relational and pedagogical reasons.
+- Treat AI debate moderators as a scaling aid for large or lightly staffed courses rather than a replacement, keeping human oversight for ethical, relational and [[pedagogy|pedagogical]] reasons.
 - Design the moderator prompt around the behaviors expected of faculty: neutrality, equal speaking time, short directions, on-topic enforcement, follow-up questions and de-escalation.
 - For AI-moderated activities, make usefulness visible rather than relying on enjoyment; perceived utility, not satisfaction, drove reuse in the bot condition.
 - Evaluate deployments for equity before scaling, because the study did not test handling of sarcasm, indirect language or minority communication styles.
@@ -68,9 +68,9 @@ The paper also flags what the design cannot show: language models struggle with 
 ## Limitations
 
 - The sample was small and exploratory: 32 students from several US universities, limiting generalization to other cultural, linguistic and educational contexts.
-- Only perceptions and acceptance were measured; critical thinking, reasoning and argumentation were not assessed, so no claim is made about [[learning-gains|learning outcomes]].
+- Only perceptions and acceptance were measured; [[critical-thinking|critical thinking]], reasoning and argumentation were not assessed, so no claim is made about [[learning-gains|learning outcomes]].
 - Data came solely from quantitative self-reports, so the reasons behind the similar ratings, including trust and novelty, remain unexplained.
-- The AI moderator used GPT-4 and the debates were text-only, so findings do not extend to other models or to multimodal cues such as tone and body language.
+- The AI moderator used GPT-4 and the debates were text-only, so findings do not extend to other models or to [[multimodal]] cues such as tone and body language.
 
 ## Citation
 

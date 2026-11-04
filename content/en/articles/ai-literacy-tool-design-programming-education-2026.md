@@ -53,7 +53,7 @@ The central negative result is unambiguous. The two conditions did not differ in
 
 Confidence moved in the expected direction but decoupled from performance. In post-session surveys, Coach-condition students reported higher confidence in their own competence than unrestricted-condition students, and the gain in reported confidence across the seven weeks was larger in the Coach condition. Students in both conditions credited AI with helping them understand analytic output, debug code and clarify unfamiliar concepts, and Coach students rated its explanations positively for concept clarification.
 
-This dissociation between felt competence and demonstrated competence is the pattern the learning-sciences literature predicts: scaffolding reduces the cognitive load of individual tasks and raises confidence, which is what [[scaffolding]] is designed to do, while building the capacity to govern the tool is a different outcome entirely. Equal scores, the paper warns, concealed unequal understanding — the same structure Fan et al. report in a larger randomized study, where ChatGPT access raised essay quality without improving knowledge gain or transfer, a pattern the authors name [[cognitive-offloading|metacognitive laziness]].
+This dissociation between felt competence and demonstrated competence is the pattern the [[learning-sciences]] literature predicts: scaffolding reduces the cognitive load of individual tasks and raises confidence, which is what [[scaffolding]] is designed to do, while building the capacity to govern the tool is a different outcome entirely. Equal scores, the paper warns, concealed unequal understanding — the same structure Fan et al. report in a larger randomized study, where ChatGPT access raised essay quality without improving knowledge gain or transfer, a pattern the authors name [[cognitive-offloading|metacognitive laziness]].
 
 ## How Students Spent the Hint Budget
 
@@ -85,7 +85,7 @@ The rules the strongest students set for themselves can be taught, and students 
 
 - **Instructors.** Have every student write, test and revise a personal rule for AI use at the start of the term — build the solution first and use AI only to check it, delegate syntax while writing the logic yourself, withhold part of the problem — because students who had set themselves a rule performed better on the assignments regardless of assigned condition.
 - **Instructors.** Teach how the language models actually work instead of assuming prior exposure: the students with the deepest model understanding (in every case self-taught) wrote more effective prompts, used the tools more deliberately and earned the highest assignment scores.
-- **Instructors.** Grade the process, not only the product, by keeping the required notebook tags on AI-sourced code and the end-of-session reflection; the rubric already covered error diagnosis, reasoning and responsible AI use, and that is the evidence that makes how a student worked visible.
+- **Instructors.** Grade the process, not only the product, by keeping the required notebook tags on AI-sourced code and the end-of-session reflection; the rubric already covered error diagnosis, reasoning and [[ethics|responsible AI]] use, and that is the evidence that makes how a student worked visible.
 - **Researchers.** Measure students' use strategies (rules, hint timing, self-regulation) alongside performance, because equivalent assignment and inventory scores between the two conditions concealed differences in regulation that did track scores.
 
 ## Limitations

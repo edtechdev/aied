@@ -33,7 +33,7 @@ The bounded question budget per slide forces the system to make pedagogical deci
 - **Instructors.** Run an existing deck through the pipeline before rebuilding your question bank: the system zero-budgeted administrative and transition slides in the "Self-Attention and Transformers" deck, so non-instructional slides are filtered rather than quizzed.
 - **Instructors.** Review the generated items against your own learning goals before deploying them — the three metrics (Coverage, Fidelity, Scaffolding) are scored on a 1-5 scale by the pipeline itself, and scaffolding scores ranged from 3 to 5 rather than uniformly high.
 - **Software developers.** Build deck-level reasoning into question generation rather than generating slide by slide: the reconciliation stage is what reduces redundancy and balances coverage across the presentation.
-- **Instructors.** Keep the multimodal path — text plus rendered images — for mechanism-heavy slides, since the system grounded questions on visual evidence such as "horizontal arrows pointing left and right between the boxes" that text-only pipelines miss.
+- **Instructors.** Keep the [[multimodal]] path — text plus rendered images — for mechanism-heavy slides, since the system grounded questions on visual evidence such as "horizontal arrows pointing left and right between the boxes" that text-only pipelines miss.
 - **Learners.** Expect generated questions to work best as foundational comprehension checks on complex material; the evaluated items functioned as prerequisites that progress logically through a deck rather than as exam-level assessment.
 
 ## Limitations

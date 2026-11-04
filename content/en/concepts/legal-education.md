@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-01T08:10:00-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -40,7 +40,7 @@ Experimental evidence is beginning to arrive: [[xie-genai-mystery-game-legal-edu
 - **Study and bar preparation.** Generating practice questions, fact patterns, and "hypotheticals" for timed practice, and tutoring on recurring weaknesses. Gutowski and Hurley pair this with the observation that generative AI now passes both the Bar Exam and the Multistate Professional Responsibility Exam, which they read as saying more about the minimal-competency bar than about the model.
 
 - **Task-specific profiles, not a leaderboard.** Under a blind protocol, the same out-of-the-box models that reached human bar-exam levels (cumulative scores 26–79 of 100) all failed the notary exam, which requires goal-directed legal planning under strict formal constraints — and were misled by deliberate traps embedded in it ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
-- **Journals, moot court and advising.** Screening submissions, preparing advocacy, and academic support programs using custom models trained on past exams, model answers and course materials.
+- **Journals, moot court and advising.** Screening submissions, preparing advocacy, and [[student-support-and-success|academic support]] programs using custom models trained on past exams, model answers and course materials.
 - **Assessment and integrity.** The recurring problem cases: undisclosed drafting, citation to non-existent authority, and exams that no longer measure unaided analysis.
 
 ## What the policy evidence shows
@@ -54,7 +54,7 @@ Two further points shape their recommendations:
 - **Faculty governance is a law-school-specific complication.** Law faculties, individually and collectively, hold unusually direct authority over curriculum and course standards, so policy has to be built with them rather than announced to them.
 - **Clinical education raises a [[pedagogy|pedagogical]] objection, not a technical one.** Citing Karr and Schultz, they report the position that AI tools designed to mimic human responses do not develop the original judgment, client interaction and [[ethics|ethical]] decision-making that clinics exist to produce, and therefore should not be used in clinical courses at all.
 
-The recommendations are procedural: clear and comprehensive guidelines whatever the institutional stance, full stakeholder involvement in drafting, proactive training for students and faculty, flexible governance reviewed periodically, and self-regulation through information sharing rather than waiting for the ABA to dictate policy.
+The recommendations are procedural: clear and comprehensive guidelines whatever the institutional stance, full stakeholder involvement in drafting, proactive training for students and faculty, flexible governance reviewed periodically, and [[self-regulated-learning|self-regulation]] through information sharing rather than waiting for the ABA to dictate policy.
 
 ## Why the discipline is distinctive
 

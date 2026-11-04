@@ -35,7 +35,7 @@ verified: [citation, numbers, links]
 4. Systematic processing was positively associated with trust (coef = 0.478, p < 0.001) and heuristic processing negatively associated with it (coef = -0.112, p = 0.003).
 5. Perceived authenticity was positively associated with trust (coef = 0.535, p < 0.001) and negatively with risk (coef = -0.330, p < 0.001); risk was negatively associated with trust (coef = -0.186, p < 0.001), and the indirect authenticity to risk to trust path was 0.061, 95% CI [0.038, 0.079].
 6. Trust predicted adoption intention (coef = 0.548, p < 0.001, R2 = 0.469) and sharing intention (coef = 0.617, p < 0.001, R2 = 0.502), with risk negative in both (coef = -0.152, -0.130).
-7. Literacy moderated two paths only: label by AI literacy on trust (coef = 0.160, p = 0.036), label by media literacy on adoption intention (coef = 0.168, p = 0.024).
+7. Literacy moderated two paths only: label by [[ai-literacy|AI literacy]] on trust (coef = 0.160, p = 0.036), label by media literacy on adoption intention (coef = 0.168, p = 0.024).
 
 ## Who judged what, and what the design carries
 
@@ -55,11 +55,11 @@ Every variable between label and intention was measured at one post-exposure mom
 
 ## What this means for practice
 
-Instructors should not treat a disclosure label as doing pedagogical work. It tells students about origin and nothing about accuracy, and this study suggests it will not by itself make them more skeptical or more trusting. Pair it with a task that requires evaluating a specific claim, since systematic processing was the construct most associated with trust. For faculty developers and platform designers, the moderation points the same way: the label's effect on trust depended on AI literacy, and on adoption intention on media literacy.
+Instructors should not treat a disclosure label as doing [[pedagogy|pedagogical]] work. It tells students about origin and nothing about accuracy, and this study suggests it will not by itself make them more skeptical or more trusting. Pair it with a task that requires evaluating a specific claim, since systematic processing was the construct most associated with trust. For faculty developers and platform designers, the moderation points the same way: the label's effect on trust depended on AI literacy, and on adoption intention on media literacy.
 
 ## Limitations
 
-- One stimulus, one topic, one exposure, with every outcome self-reported at a single post-exposure point. A neutral five-minute study-skills video says nothing about repeated viewing, contested content or real sharing, and the cognitive pathway cannot establish order or learning.
+- One stimulus, one topic, one exposure, with every outcome [[self-report-measures|self-reported]] at a single post-exposure point. A neutral five-minute study-skills video says nothing about repeated viewing, contested content or real sharing, and the cognitive pathway cannot establish order or learning.
 - Authenticity and trust were trimmed to three and two items after their overlap became visible, with HTMT at 0.895; both literacy scales had low average variance extracted.
 - The 617 respondents were panel members aged 18 to 25, and 8 were excluded for failing to recognize their condition after randomization; section 2.2 also describes a 60-person pretest that limitation seven contradicts.
 

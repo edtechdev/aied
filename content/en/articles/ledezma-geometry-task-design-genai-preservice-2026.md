@@ -28,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Ledezma, Valderrama and Díez-Palomar (2026) analyze what 13 prospective primary school teachers at a Spanish [[higher-ed|university]] prioritized when designing geometry tasks with [[generative-ai|generative AI]], coding 158 text units from their written reports and their chat logs against the Didactic Suitability Criteria and six indicators of task-instruction quality. The three groups reached for epistemic and cognitive goals — rich mathematical processes, representative objects, high cognitive demand — and attached them to interactional, mediational and ecological concerns such as cooperative work, teacher mediation, manipulatives and real-life contexts. The tool proved genuinely useful for broadening ideas and sequencing activities and unreliable in the same breath: it produced formulaic and ambiguous output, and in one exchange a stated scale that was arithmetically wrong (4 real meters drawn as 8 centimeters described as 1 m = 4 cm, where the correspondence is 1:50). The study's practical finding is that intentions for [[agency|autonomy]] and argumentation frequently failed to reach the task instructions students would actually read.
+> **Synthesis:** Ledezma, Valderrama and Díez-Palomar (2026) analyze what 13 prospective primary school teachers at a Spanish [[higher-ed|university]] prioritized when designing geometry tasks with [[generative-ai|generative AI]], coding 158 text units from their written reports and their chat logs against the Didactic Suitability Criteria and six indicators of task-instruction quality. The three groups reached for epistemic and cognitive goals — rich mathematical processes, representative objects, high cognitive demand — and attached them to interactional, mediational and ecological concerns such as cooperative work, [[teacher-role|teacher]] mediation, manipulatives and real-life contexts. The tool proved genuinely useful for broadening ideas and sequencing activities and unreliable in the same breath: it produced formulaic and ambiguous output, and in one exchange a stated scale that was arithmetically wrong (4 real meters drawn as 8 centimeters described as 1 m = 4 cm, where the correspondence is 1:50). The study's practical finding is that intentions for [[agency|autonomy]] and argumentation frequently failed to reach the task instructions students would actually read.
 
 ## Key Findings
 
@@ -54,7 +54,7 @@ The second finding is subtler and harder to fix. Analysis against the instructio
 
 ## What this means for practice
 
-- **Faculty developers.** Have pre-service teachers submit the chat log alongside the lesson plan. Every error in this study was visible in the conversation, and the log is what makes the evaluation of AI output teachable rather than assumed.
+- **Faculty developers.** Have pre-service teachers submit the chat log alongside the lesson plan. Every error in this study was visible in the conversation, and the log is what makes the [[ai-ed-evaluation|evaluation of AI]] output teachable rather than assumed.
 - **Faculty developers.** Assess the task instruction separately from the activity. These groups designed strong mathematics and then wrote closed instructions, and only a separate criterion catches the second.
 - **Instructors.** Check every number GenAI writes into a task — scale, units, conversions — before it reaches students; the arithmetic is embedded in prose that reads correctly.
 - **Curriculum designers.** Teach [[teacher-ai-competency|AI use in planning]] as a didactic skill measured against a design framework, not as prompt technique; competent prompting produced a wrong scale here.
@@ -66,7 +66,7 @@ The second finding is subtler and harder to fix. Analysis against the instructio
 - No classroom implementation is reported: the outcome analyzed is the design conversation and the written report, not pupil learning or enacted teaching.
 - The GenAI application, its version and the prompt history are not identified in the analyzed excerpts, so the outputs cannot be reproduced or compared across tools.
 - Coding was done by the authors within a single framework whose components are themselves an interpretive lens, and the 158 units are distributed very unevenly across the three groups.
-- The conclusions about what pre-service teachers prioritize describe one task-design episode in one course, which the intrinsic case-study design does not generalize beyond.
+- The conclusions about what pre-service teachers prioritize describe one task-design episode in one course, which the intrinsic case-[[research-methods-aied|study design]] does not generalize beyond.
 
 ## Citation
 

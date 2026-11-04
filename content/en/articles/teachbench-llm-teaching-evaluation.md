@@ -84,7 +84,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - Teaching is measured with LLM-based student agents standing in as proxies for human learners; the authors state this controlled setting may not fully reflect the diversity and complexity of human learning behaviors.
 - No human teachers were included as a baseline, so the experiments rank models against one another rather than against human instructional performance.
 - The study of example-based teaching is limited to a specific interaction design; the authors note that alternative instructional protocols may produce different outcomes.
-- The benchmark is built from Gaokao (Chinese National College Entrance Examination) syllabi and questions across seven subjects — Mathematics, Physics, Chemistry, Biology, History, Geography, and Politics — so the domain rankings are tied to that exam's knowledge structure.
+- The benchmark is built from Gaokao (Chinese National College Entrance Examination) syllabi and questions across seven subjects — Mathematics, Physics, Chemistry, [[biology-education|Biology]], History, Geography, and Politics — so the domain rankings are tied to that exam's knowledge structure.
 
 ## Citation
 

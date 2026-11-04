@@ -27,7 +27,7 @@ page_kind: [framework]
 
 - **Researchers.** Treat regulation, integration, and positioning as a proposed integrative account to operationalize and test, not as an established model: the paper advances theory across SRL, complex systems science, and Freirean critical pedagogy without collecting data.
 - **Learning analytics designers.** Design for cross-scale movement rather than optimizing behavior at one scale, using the scaffold's four functions — surface patterns across scales, open conditions to critique, return interpretation to action, and center the learner as the agent of connection.
-- **Learning analytics designers.** Give learners access to their own data together with interpretive support, so dashboards expose what the metrics measure and what they leave out instead of positioning the learner as the subject of the system's intelligence.
+- **Learning analytics designers.** Give learners access to their own data together with interpretive support, so [[visualization|dashboards]] expose what the metrics measure and what they leave out instead of positioning the learner as the subject of the system's intelligence.
 - **Instructional designers.** Do not read behavioral proxies such as session frequency, resource access, or submission timing as evidence of [[self-regulated-learning|self-regulation]]; extend designs from "agency within conditions" to "agency over conditions" by having learners question the purposes those conditions encode.
 
 ## Limitations

@@ -36,7 +36,7 @@ verified: [citation, numbers, links]
 4. The bootstrapped indirect effect through engagement was β = 0.168 (p = 0.001, 95% CI [0.115, 0.232]) over 2,000 resamples, 32.1% of the total effect of β = 0.524.
 5. The measurement model fit well, χ2(132) = 141.245, χ2/df = 1.070, CFI = 0.998, RMSEA = 0.012, SRMR = 0.028, with Cronbach's alpha of 0.893 for credibility, 0.898 for engagement, and 0.840 for deep learning.
 6. Every item mean sat above the scale midpoint, from 3.438 to 3.866; deep learning items were highest (M = 3.714 to 3.866) and continued use of earlier feedback was weakest (M = 3.438).
-7. Of 700 questionnaires, 550 were returned (78.57%); 44 invalid responses were removed, leaving 506 (92.00%), of whom 352 (69.6%) had used ChatGPT and 356 (70.4%) had used GAI for feedback on assignments.
+7. Of 700 [[self-report-measures|questionnaires]], 550 were returned (78.57%); 44 invalid responses were removed, leaving 506 (92.00%), of whom 352 (69.6%) had used ChatGPT and 356 (70.4%) had used GAI for feedback on assignments.
 
 ## One wave, and a model with nothing left to test
 
@@ -50,7 +50,7 @@ The direction of the engagement path is also less settled than the coefficient s
 
 ## What the deep learning scale actually measures
 
-Every deep learning item is written from the feedback's point of view: GAI feedback helps me understand the underlying meaning, connect concepts, build an overall framework, apply what I learned, transfer it to other situations. The outcome is students' belief that AI feedback helped them learn, not a measure of learning. No grades, drafts, or work samples were collected. Convergent validity for deep learning is weakest, with an average variance extracted of 0.467, below the conventional 0.50 threshold, and the common-method check is Harman's single-factor test, where the first factor took 39.002% of variance, just under the 40% line it treats as a pass.
+Every deep learning item is written from the feedback's point of view: GAI feedback helps me understand the underlying meaning, connect concepts, build an overall framework, apply what I learned, transfer it to other situations. The outcome is students' belief that [[ai-feedback-quality|AI feedback]] helped them learn, not a measure of learning. No grades, drafts, or work samples were collected. Convergent validity for deep learning is weakest, with an average variance extracted of 0.467, below the conventional 0.50 threshold, and the common-method check is Harman's single-factor test, where the first factor took 39.002% of variance, just under the 40% line it treats as a pass.
 
 ## The direct path is bigger than the mediated one
 

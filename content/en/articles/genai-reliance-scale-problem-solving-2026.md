@@ -55,7 +55,7 @@ A [[self-report-measures|self-report]] instrument records the story students tel
 
 - **Instructors.** Run the 16 items right after a problem-solving activity and read the profile, not the total: a class can be high on reflective and thoughtless use at once, and the thoughtless items name moves (copying the task description, adopting output unchanged) you can correct next session.
 - **Instructional designers.** Build in something to check the model against. Cautious use was the rarest behavior in both weeks (M = 3.46), and it is the factor with the weakest internal consistency (alpha = .65), so a course that wants verification behaviors has to design tasks that reward them.
-- **Faculty developers.** Treat reliance as task-shaped when coaching course teams: the same students behaved differently in a programming game and a policy draft, so a fixed program-wide AI policy assumes the wrong thing.
+- **Faculty developers.** Treat reliance as task-shaped when coaching course teams: the same students behaved differently in a programming game and a policy draft, so a fixed program-wide [[educational-policy-ai|AI policy]] assumes the wrong thing.
 - **Researchers.** Use the four subscales as separable outcomes rather than one reliance score, and test them against performance measures the original study did not collect.
 
 ## Limitations

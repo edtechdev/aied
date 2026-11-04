@@ -15,7 +15,7 @@ level: [higher ed]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive systematic review of empirical AI applications in nursing education (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — personalized learning, simulation-based training, automated assessment, and [[governance|institutional]] [[curriculum-design|curriculum]] management/predictive analytics — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.
+> **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive [[meta-analysis-systematic-review|systematic review]] of empirical AI applications in [[nursing-education|nursing education]] (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — [[personalized-learning|personalized learning]], simulation-based training, [[automated-assessment|automated assessment]], and [[governance|institutional]] [[curriculum-design|curriculum]] management/[[learning-analytics|predictive analytics]] — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ methods: [meta-analysis-systematic-review]
 
 ## Limitations
 
-- As a qualitative systematic review of 28 studies (January 2010–April 2025), its findings reflect the quality and heterogeneity of those primary studies rather than any new primary data.
+- As a [[qualitative-research|qualitative]] systematic review of 28 studies (January 2010–April 2025), its findings reflect the quality and heterogeneity of those primary studies rather than any new primary data.
 - Coverage is bounded by the search period and by four databases (PubMed, CINAHL, IEEE Xplore, Scopus), and the review is restricted to empirical AI applications — conceptual and Gray-literature sources are excluded.
 - The included studies vary in design and setting and were appraised with the CASP checklist rather than pooled, so the recommendations — including the 6–12 month multi-site pilots — are forward-looking proposals rather than demonstrated effects.
 

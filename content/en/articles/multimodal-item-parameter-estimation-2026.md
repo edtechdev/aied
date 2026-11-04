@@ -57,7 +57,7 @@ Recovery is uneven across parameters, and this is informative. The guessing para
 - The 4,848 items were generated from 970 item models and split by item model, so the held-out set tests new items of known kinds rather than item types the corpus never contained; the reported difficulty RMSE of 0.55 is also quoted only after a linear development-set correction.
 - Each respondent's ability level was derived independently from a larger calibrated dataset rather than from the study's own sample of examinees, so the whole reconstruction rests on how well that reference ability distribution matches any new population.
 - The tuning touched only part of the model and the reconstruction only part of the curve: LoRA was applied to the Gated Attention components (about a quarter of the layers a conventional transformer would expose), the Gated DeltaNet layers were left untouched after known training instabilities, and ability was discretized into intervals rather than treated as continuous, which the authors link to weak recovery of the discrimination parameter a at 0.31.
-- The work is presented as a technical proof-of-concept on [[math-education|mathematics]] items with image-and-text stimuli; no other subject, item format, or student population is tested, and the authors call for broader validation rather than claiming general transfer.
+- The work is presented as a technical proof-of-concept on [[math-education|mathematics]] items with image-and-text stimuli; no other subject, item format, or [[learners|student population]] is tested, and the authors call for broader validation rather than claiming general transfer.
 
 ## Citation
 

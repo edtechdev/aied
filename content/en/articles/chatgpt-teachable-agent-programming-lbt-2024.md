@@ -14,20 +14,20 @@ audience: [instructors, instructional designers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Chen et al. (2024) investigate whether ChatGPT can serve as a **teachable agent** to support [[learning-by-teaching]] in [[cs-education|programming education]]. In a randomized experiment on an eight-queens/backtracking programming task, interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]], but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice. The study's key design choice was to keep ChatGPT deliberately fallible (un-augmented) so that its mistakes become opportunities for students to teach.
+> **Synthesis:** Chen et al. (2024) investigate whether [[generative-ai|ChatGPT]] can serve as a **teachable agent** to support [[learning-by-teaching]] in [[cs-education|programming education]]. In a randomized experiment on an eight-queens/backtracking programming task, interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted [[self-regulated-learning|self-regulated learning]] and [[self-efficacy]], but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice. The study's key design choice was to keep ChatGPT deliberately fallible (un-augmented) so that its mistakes become opportunities for students to teach.
 
 ## The Problem with Traditional Teachable Agents
 
-Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based tutoring systems like Betty's Brain or SimStudent) have limitations — notably an inability to engage in natural-language dialogue, high development cost (1,200–2,300 lines of Java per task), and rigid predefined interaction paths. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct, supporting the "socialized" nature of learning by teaching.
+Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strategy, but traditional teachable agents (e.g., rule-based [[intelligent-tutoring|tutoring systems]] like Betty's Brain or SimStudent) have limitations — notably an inability to engage in natural-language dialogue, high development cost (1,200–2,300 lines of Java per task), and rigid predefined interaction paths. ChatGPT's conversational ability offers a way to make the teachable agent a natural interlocutor that students must explain concepts to and correct, supporting the "socialized" nature of learning by teaching.
 
 ## Study Design
 
-- **41 university students** (20 experimental, 21 control) with self-reported C++ coding ability, average age 21.2.
+- **41 university students** (20 experimental, 21 control) with [[self-report-measures|self-reported]] C++ coding ability, average age 21.2.
 - **Task:** solve the classic "eight queens" puzzle using a backtracking algorithm, coded in C++, assessed on an auto-judging platform.
 - **Teachable-agent [[prompt-engineering|prompt design]]** grounded in Gall's (1981) five-stage [[help-seeking]] model (awareness of need, decision to seek help, identifying a help source, eliciting help, reacting to help), so ChatGPT behaves as a realistic help-seeking tutee.
 - **Deliberate fallibility:** the [[research-methods-aied|researchers]] deliberately used un-augmented GPT-4 and did not chase answer accuracy — an agent that makes mistakes gives students more opportunities to teach and correct, and any "[[hallucination-risk|hallucinations]]" read like a beginner's errors.
 - **Procedure:** pre-test → watch three [[video-education|instructional videos]] (30 min) → experimental group guides ChatGPT to produce correct code while the control writes code alone (1 hour, screen-shared/supervised) → post-test. Both groups had to pass the auto-judging platform.
-- **Measures:** 15-item knowledge test (5 easy/5 medium/5 hard); pseudocode test scored on clearness, correctness, and readability; and a 20-item adapted MSLQ self-regulated-learning questionnaire (test anxiety, self-efficacy, cognitive strategies).
+- **Measures:** 15-item knowledge test (5 easy/5 medium/5 hard); pseudocode test scored on clearness, correctness, and readability; and a 20-item adapted MSLQ self-regulated-learning questionnaire ([[anxiety-and-stress|test anxiety]], self-efficacy, cognitive strategies).
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 
 ## What this means for practice
 
-- **Instructors.** Cast students as the teacher of a deliberately un-augmented LLM tutee and hold them accountable to an external success criterion — the experimental group had to make the ChatGPT-generated code pass the auto-judging platform, which drove sustained effort and forced plain-language articulation of the backtracking algorithm.
+- **Instructors.** Cast students as the teacher of a deliberately un-augmented [[llm]] tutee and hold them accountable to an external success criterion — the experimental group had to make the ChatGPT-generated code pass the auto-judging platform, which drove sustained effort and forced plain-language articulation of the backtracking algorithm.
 - **Instructional designers.** Keep the teachable agent fallible: an agent that is always correct removes the error-correction practice learning-by-teaching depends on, and the control group made more submission attempts (2.90 vs. 1.95) without any correctness penalty.
 - **Instructional designers.** Seed the interaction with errors rather than relying on natural ones, since ChatGPT's tendency to produce correct code meant the intervention produced no significant gain in code correctness.
 - **Instructors.** Add explicit [[metacognition|metacognitive]] prompts to the teaching dialogue to sustain the self-regulated learning and [[self-efficacy]] gains the intervention produced, and watch for [[cognitive-offloading|over-reliance]].
@@ -49,7 +49,7 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 - The sample is small and single-site: 41 university students (20 experimental, 21 control), average age 21.2, from one institution, which the authors note may bias the results.
 - The intervention is short and single-task: a one-hour session on the classic eight-queens/backtracking problem in C++, so it captures short-term outcomes only and says nothing about retention.
 - The self-regulation and self-efficacy measures are self-report, taken from a 20-item adapted MSLQ, and the study did not collect or analyze the students' teaching conversations — so the quality of students' teaching messages and of the agent's replies went unmeasured.
-- Findings are not broken down by student demographics (age, educational background, gender), which the authors flag as a limitation on understanding differential effects.
+- Findings are not broken down by student demographics (age, educational background, gender), which the authors flag as a limitation on understanding [[differential-effects-across-learner-groups|differential effects]].
 
 ## Citation
 

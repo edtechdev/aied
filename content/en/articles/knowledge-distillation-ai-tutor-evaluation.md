@@ -21,7 +21,7 @@ Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment
 
 - Introduces **FATE (FLC AI Tutor Evaluator)**, a specialized **8B-parameter language model** designed to evaluate AI tutors, aligned with the four core evaluation tracks of the **BEA 2025 Shared Task**: Mistake Identification, Mistake Location, Guidance, and Actionability.
 - Because pedagogical evaluation is a specialized task with limited labeled data, the authors use **knowledge distillation from a frontier LLM** to generate additional supervision, yielding **absolute performance gains up to 22.63 percentage points**.
-- FATE is demonstrated as an automated evaluator by benchmarking instructional responses from popular commercial models: **Gemini 2.5 Flash performed best on average (82.88%)**, followed by ChatGPT 5.5 Instant (80.75%), DeepSeek V4 Flash (80.13%), and Claude Sonnet 4.6 (74.00%).
+- FATE is demonstrated as an automated evaluator by benchmarking instructional responses from popular commercial models: **Gemini 2.5 Flash performed best on average (82.88%)**, followed by [[generative-ai|ChatGPT]] 5.5 Instant (80.75%), DeepSeek V4 Flash (80.13%), and Claude Sonnet 4.6 (74.00%).
 - The work responds to the rapid integration of LLMs into K-12 and higher education, which has outpaced the development of reliable methods for evaluating their pedagogical quality.
 
 ## Method: Distillation of Pedagogical Judgment

@@ -23,7 +23,7 @@ institutions: [educational-policy-ai, governance]
 - Weaknesses centered on inaccuracies ([[hallucination-risk|hallucinations]], made-up references), lack of system transparency ('black box'), and user dependency.
 - Opportunities included supportive roles, outsourcing repetitive tasks, and partnering with AI for innovative [[pedagogy|teaching practices]].
 - Threats included destabilization of educational norms, ethical issues around data privacy and copyright, and organizational challenges such as workforce adaptation.
-- Stakeholders requested clear institutional guidelines, targeted professional development, and allocation of time and resources for responsible adoption.
+- Stakeholders requested clear institutional guidelines, targeted [[educational-development|professional development]], and allocation of time and resources for responsible adoption.
 
 ## What this means for practice
 
@@ -38,7 +38,7 @@ institutions: [educational-policy-ai, governance]
 - The analysis rests on 167 Padlet contributions from 152 higher-education personnel at two Swedish universities, and the authors state the findings are context-specific insights rather than a globally representative picture.
 - Fully anonymous Padlet collection prevented follow-up questions and made stakeholder roles unidentifiable, so the study could not test whether teachers, researchers, and administrators hold different views, as planned.
 - Padlet participation was not mandatory and attendance dropped part way through the webinars, so staff who left or declined to post are absent from the data.
-- The Balanced Scorecard is conceptual and built from qualitative SWOT themes rather than validated indicators; reliability coefficients, subgroup contrasts, and content-validity checks were not feasible with anonymous qualitative data.
+- The Balanced Scorecard is conceptual and built from [[qualitative-research|qualitative]] SWOT themes rather than validated indicators; reliability coefficients, subgroup contrasts, and content-validity checks were not feasible with anonymous qualitative data.
 
 ## Citation
 Humble, N., & Mozelius, P. (2026). [Beyond the hype – How higher education stakeholders view the benefits and concerns of generative AI for teaching, research, and administration](https://doi.org/10.1016/j.caeo.2026.100381). *Computers and Education Open, 10*, 100381.

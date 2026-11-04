@@ -27,7 +27,7 @@ For [[writing-education]], this represents a paradigm shift. Traditional [[autom
 
 ## Limitations
 
-- The offline evaluation substitutes a human simulator: user feedback is abstracted into behavioral proxies grounded in observed co-writing patterns, so HAR and KED approximate acceptance behavior rather than measuring it.
+- The offline evaluation substitutes a human [[simulation|simulator]]: user feedback is abstracted into behavioral proxies grounded in observed co-writing patterns, so HAR and KED approximate acceptance behavior rather than measuring it.
 - The validation user study rests on 30 participants recruited from universities and technology companies, using a single unified LLM backend (GPT-5.1).
 - The framework covers one instantiation of co-writing — proactive suggestion-based completion; the authors state that generalization to other collaborative forms, such as outlining assistance or structural critiquing, remains an open question.
 - The controlled dataset contains 60 human-authored articles across 16 domains and 1,688 continuation queries, and the authors note the absence of the longitudinal user studies needed to show how writing preferences evolve.

@@ -23,7 +23,7 @@ technology: [technology-acceptance-model]
 - **Innovation attributes are the pivotal catalyst:** Perceived innovation attributes directly drive both intention to use AI-based DSS and actual AI adoption — the mediating bridge between technology perception and uptake.
 - **Social drivers shape both adoption and policy:** Social drivers positively influence intention to use AI-based DSS and also influence government [[regulation|regulatory]] frameworks, which in turn feed back into adoption.
 - **Regulatory environment is an external enabler:** Government regulations and policy incentives facilitate institutional readiness and adoption, reducing legal and [[ethics|ethical]] uncertainty for institutions.
-- **Educational benefits follow adoption:** In the higher education context, adoption was associated with improved [[pedagogy|teaching practices]], enhanced learner engagement, and curriculum innovation.
+- **Educational benefits follow adoption:** In the [[higher-ed|higher education]] context, adoption was associated with improved [[pedagogy|teaching practices]], enhanced learner engagement, and curriculum innovation.
 
 ## Study Design & Method
 
@@ -35,15 +35,15 @@ technology: [technology-acceptance-model]
 
 ## What this means for practice
 
-- **Administrators.** Treat AI adoption as organizational change, not a technical upgrade: align institutional culture, infrastructure readiness, and external policy before scaling, since the study's model ties internal social drivers to both intention and actual adoption.
+- **Administrators.** Treat AI adoption as [[change-management|organizational change]], not a technical upgrade: align institutional culture, infrastructure readiness, and external policy before scaling, since the study's model ties internal social drivers to both intention and actual adoption.
 - **Administrators.** Invest in [[technology-acceptance-model|compatibility]] and demonstrable relative advantage and reduce perceived complexity, because perceived innovation attributes are the pivotal catalyst driving intention to use AI-based decision support systems and adoption itself.
-- **Administrators.** Build educator capacity and clear [[regulation|regulatory]] frameworks covering data privacy, transparency, and quality assurance, which reduce the legal and ethical uncertainty that slows institutional readiness.
+- **Administrators.** Build educator capacity and clear [[regulation|regulatory]] frameworks covering [[privacy|data privacy]], transparency, and quality assurance, which reduce the legal and ethical uncertainty that slows institutional readiness.
 - **Administrators.** Recognize that organizational culture, sustainability, and waste-management practices strengthen the internal social drivers of change — culture work is adoption work, not a soft add-on to procurement.
 - **Administrators.** Develop context-sensitive frameworks for emerging regions rather than importing developed-country models, because the study argues adoption in Saudi Arabia differs in culture, policy, and resources.
 
 ## Limitations
 
-- Data come from a cross-sectional self-report survey: 348 usable responses from an initial 370, collected between 5 January and 20 March 2024 at Saudi Arabian higher-education institutions, so the model tests perceptions and intentions rather than observed adoption outcomes.
+- Data come from a cross-sectional [[self-report-measures|self-report]] survey: 348 usable responses from an initial 370, collected between 5 January and 20 March 2024 at Saudi Arabian higher-education institutions, so the model tests perceptions and intentions rather than observed adoption outcomes.
 - Respondents were reached by email invitation and by sharing the link through professional WhatsApp and LinkedIn groups, a non-probability convenience approach that leaves room for self-selection bias.
 - The single-country sample limits generalization to other national and institutional contexts, a point the study itself makes about differences between emerging and developed-country settings.
 - Educational benefits such as improved teaching, learner engagement, and [[curriculum-design|curriculum]] innovation are reported as associations within the same survey, not as measured effects of adoption.

@@ -35,9 +35,9 @@ page_kind: [framework]
 ## Limitations
 
 - The randomized user study ran with N = 33 participants, about 11 per coaching condition, so the between-group contrasts favoring the adaptive coach (Hedges' g between 0.60 and 0.76) carried p-values of 0.09 to 0.16; only the within-subject tests reached significance.
-- All measurement happened in a high-fidelity first-person-view drone-racing simulator over a single 15-lap session of roughly 40 minutes, with human control limited to yaw and roll rate while pitch and thrust were automated.
-- The coaching policy was trained against simulated learners whose skill evolution followed a probabilistic automaton, and the authors acknowledge that simulated learners may not capture the full variability of real human learning in more complex motor-skill training settings.
-- Only the assistance modulation was learned: verbal instructions and visual cues were predefined and triggered by fixed rules, so the results say nothing about jointly optimized multimodal coaching.
+- All measurement happened in a high-fidelity first-person-view drone-racing [[simulation|simulator]] over a single 15-lap session of roughly 40 minutes, with human control limited to yaw and roll rate while pitch and thrust were automated.
+- The coaching policy was trained against [[simulating-students|simulated learners]] whose skill evolution followed a probabilistic automaton, and the authors acknowledge that simulated learners may not capture the full variability of real human learning in more complex motor-skill training settings.
+- Only the assistance modulation was learned: verbal instructions and visual cues were predefined and triggered by fixed rules, so the results say nothing about jointly optimized [[multimodal]] coaching.
 
 ## Citation
 

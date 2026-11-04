@@ -31,7 +31,7 @@ Lag Sequential Analysis revealed sharply distinct interaction trajectories. High
 
 ## Cognitive Regulation: Self-Regulated Learning Coherence
 
-Epistemic Network Analysis of reflection journals showed significant group differences in task strategies (χ²=11.226, p=.001), elaboration (χ²=18.281, p<.001), and self-assessment (χ²=7.239, p=.007), all favoring high-CT students. The high-CT cognitive network was dense and balanced across all three SRL phases (planning, execution, self-reflection), evidencing continuous cognitive adjustment and self-monitoring. The low-CT network was sparse, dominated by help-seeking (SH), with weak connections among planning and self-reflection. This empirically models the reciprocal CT–SRL relationship and contributes to [[self-regulated-learning]] by showing that CT supports connected, reflective [[regulation]] in AI-augmented environments.
+Epistemic Network Analysis of reflection journals showed significant group differences in task strategies (χ²=11.226, p=.001), elaboration (χ²=18.281, p<.001), and [[self-assessment]] (χ²=7.239, p=.007), all favoring high-CT students. The high-CT cognitive network was dense and balanced across all three SRL phases (planning, execution, self-reflection), evidencing continuous cognitive adjustment and self-monitoring. The low-CT network was sparse, dominated by help-seeking (SH), with weak connections among planning and self-reflection. This empirically models the reciprocal CT–SRL relationship and contributes to [[self-regulated-learning]] by showing that CT supports connected, reflective [[regulation]] in AI-augmented environments.
 
 ## Differentiated Instruction for AI-Assisted Coding
 

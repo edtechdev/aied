@@ -14,7 +14,7 @@ confidence: high
 discipline: [science education]
 ---
 
-> **Synthesis:** Argues that epistemic vigilance — the human [[ai-ed-evaluation|evaluation of AI]] output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
+> **Synthesis:** Argues that epistemic vigilance — the human [[ai-ed-evaluation|evaluation of AI]] output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening [[learning-gains|achievement gaps]].
 
 ## Key Findings
 
@@ -40,10 +40,10 @@ The paper specifies the components of vigilance, the mechanism that ties it to l
 
 ## Limitations
 
-- This is a theoretical account, not a study: there is no sample, no intervention, and no data — the argument is developed from existing cognitive and science-education literature.
+- This is a theoretical account, not a study: there is no sample, no intervention, and no data — the argument is developed from existing cognitive and [[science-education]] literature.
 - The author states that what remains untested is vigilance as a measured disposition, above all in the regime where the AI is confidently wrong; the proposed way to measure vigilance without soliciting the very evaluation it is meant to detect is offered, not validated.
 - Only one half of the claim is anchored in existing evidence — that vigilance governs how deeply a claim is processed — while the causal claim that vigilance is the binding constraint on productive augmentation rests on argument.
-- The equity prediction that uniform AI integration widens achievement gaps follows from the argued uneven distribution of the disposition rather than from any measurement of it.
+- The [[equity-in-ai-education|equity]] prediction that uniform AI integration widens achievement gaps follows from the argued uneven distribution of the disposition rather than from any measurement of it.
 
 ## Citation
 

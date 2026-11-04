@@ -39,7 +39,7 @@ Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between [[autom
 ## Limitations
 
 - Evaluation used the ASAP and DREsS benchmark datasets with pre-existing human-assigned scores, and the LLM-generated feedback was never shown to students, so whether it is useful or actionable for revision remains untested.
-- A single prompt template was used for all six GPT and Llama models, and prompt design is known to shift automated essay scoring performance.
+- A single prompt template was used for all six GPT and Llama models, and [[prompt-engineering|prompt design]] is known to shift automated essay scoring performance.
 - Feedback analysis depended on an ABSA model with a confidence threshold and majority voting, trait extraction used manually defined vocabularies, and the SHAP analysis relies on a proxy model of LLM scoring — each can miss or misclassify signals.
 - Model scores were compared only against human grades on two datasets, so the systematic biases documented here may not generalize to other essay types or rubrics.
 

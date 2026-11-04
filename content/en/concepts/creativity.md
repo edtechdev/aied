@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-01T09:12:42-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -41,7 +41,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Developmental implementation, not capacity, separates children's AI-assisted creativity.** In the first neuroimaging comparison of children and adults co-creating with ChatGPT, 6–7-year-olds and adults held the same five-minute spoken conversation inside an MRI scanner. Creativity measured outside the scanner did not differ between groups. Yet adults showed significantly stronger within-network connectivity in the frontoparietal control, salience and dorsal attention networks, and higher creativity predicted stronger frontoparietal–salience coupling in adults but not children. The authors read this as a difference in how creative cognition is *implemented* during AI dialog, not in baseline capacity. It also raises a question the scaffolding advice on this page has not had to answer: when does the control machinery AI-assisted creative work recruits actually mature? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 
 
-A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with self-reported research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
+A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with [[self-report-measures|self-reported]] research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
 
 A national survey complicates that pattern: across 5,764 Chinese university students, AI dependence correlated negatively with self-reported creativity (r = −0.17), with escape and social motivations carrying negative indirect paths and instrumental and entertainment motivations positive ones ([[ai-dependence-creativity-motivation-literacy-2026|Hou et al. (2026)]]).

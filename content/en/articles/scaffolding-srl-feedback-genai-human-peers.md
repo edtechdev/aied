@@ -16,7 +16,7 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** **In a [[mixed-methods-research|mixed-methods]] quasi-experiment, scaffolding self-regulated feedback with [[generative-ai|GenAI]] (ChatGPT-4o) produced a small but statistically significant improvement in first-year undergraduates' [[feedback-literacy|feedback literacy]] compared to scaffolding with human peer review (ANCOVA group effect p = 0.049, η²p = 0.03).** Gu, Chen, and Yan (2026) argue the advantage operates through self-regulated [[learning-gains|learning]]: GenAI supported students' goal setting, planning, [[critical-thinking|critical evaluation]], and immediate [[reflection|self-reflection]] across the forethought, control, and retrospect phases, while peer interaction retained distinct value for evaluative judgment — suggesting the two sources are complementary rather than competing.
+> **Synthesis:** **In a [[mixed-methods-research|mixed-methods]] quasi-experiment, scaffolding self-regulated feedback with [[generative-ai|GenAI]] (ChatGPT-4o) produced a small but statistically significant improvement in first-year undergraduates' [[feedback-literacy|feedback literacy]] compared to scaffolding with human peer review (ANCOVA group effect p = 0.049, η²p = 0.03).** Gu, Chen, and Yan (2026) argue the advantage operates through self-regulated [[learning-gains|learning]]: GenAI supported students' goal setting, planning, [[critical-thinking|critical evaluation]], and immediate [[reflection|self-reflection]] across the forethought, control, and retrospect phases, while peer interaction retained distinct value for [[evaluative-judgment|evaluative judgment]] — suggesting the two sources are complementary rather than competing.
 
 ## Core Finding
 
@@ -26,7 +26,7 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 
 ## Findings Across the SRL Phases
 
-- **Forethought:** GenAI students proactively designed and iteratively refined prompts aligned with their learning goals, engaging in a psychologically safe environment. Peer-group students largely selected feedback sources by social convenience (nearby peers, same-major peers, roommates), rarely had specific feedback goals, and faced interpersonal barriers and social anxiety about seeking feedback.
+- **Forethought:** GenAI students proactively designed and iteratively refined prompts aligned with their learning goals, engaging in a psychologically safe environment. Peer-group students largely selected feedback sources by social convenience (nearby peers, same-major peers, roommates), rarely had specific feedback goals, and faced interpersonal barriers and social [[anxiety-and-stress|anxiety]] about seeking feedback.
 - **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[sociocultural-learning]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
 - **Retrospect:** GenAI's immediate, iterative feedback enabled rapid confirmation of improvement and immediate self-reflection, helping students adjust feedback goals in subsequent cycles. Peer-group reflection was often delayed until later exams or assignments. Both groups recognized [[agency|learner agency]] as central to effective feedback use.
 
@@ -40,11 +40,11 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 
 ## Methodological Notes
 
-Strengths include the mixed-methods design pairing a controlled quasi-experiment with fine-grained qualitative analysis across SRL phases. Limitations acknowledged by the authors: non-random assignment and small effect size may threaten internal validity; limited generalizability beyond the specific context; a short intervention (three cycles) that risks a novelty effect; and reliance on self-reported surveys and retrospective interviews, suggesting a need for more objective measures such as stimulated recall and [[learning-analytics|learning analytics]].
+Strengths include the mixed-methods design pairing a controlled quasi-experiment with fine-grained qualitative analysis across SRL phases. Limitations acknowledged by the authors: non-random assignment and small effect size may threaten internal validity; limited generalizability beyond the specific context; a short intervention (three cycles) that risks a novelty effect; and reliance on [[self-report-measures|self-reported]] surveys and retrospective interviews, suggesting a need for more objective measures such as stimulated recall and [[learning-analytics|learning analytics]].
 
 ## What this means for practice
 
-- **Instructors.** Scaffold GenAI self-assessment rather than assigning it bare: supply pre-trained rubrics, prompt guidelines, and worksheets, since the GenAI group's edge over peers was only 0.17 scale points (η²p = 0.03) and teacher scaffolding is what guards against [[cognitive-offloading]].
+- **Instructors.** Scaffold GenAI self-assessment rather than assigning it bare: supply pre-trained rubrics, prompt guidelines, and worksheets, since the GenAI group's edge over peers was only 0.17 scale points (η²p = 0.03) and [[teacher-role|teacher]] scaffolding is what guards against [[cognitive-offloading]].
 - **Instructors.** Have the GenAI group set explicit feedback goals and refine prompts iteratively across cycles — goal setting, planning, and immediate self-reflection in the forethought and retrospect phases were the behaviors that distinguished it from the peer group.
 - **Instructors.** Sequence GenAI and peer review in a multi-stage design — ChatGPT-4o for immediate, psychologically safe processing support and peer interaction for the audience awareness and evaluative judgment that only giving feedback builds.
 - **Instructors.** Make peer feedback anonymous where viable: peer-group judgment was distorted by friendship bias and perceived peer proficiency, and peer students often chose partners by social convenience rather than feedback need.

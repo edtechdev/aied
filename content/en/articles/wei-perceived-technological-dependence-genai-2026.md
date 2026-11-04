@@ -56,7 +56,7 @@ There is also a construct-validity question worth naming. Perceived knowledge wa
 
 ## What this means for practice
 
-- **Instructors.** Teach evaluation of AI output rather than operation of AI tools, because perceived ease of use did not distinguish students once they were already users, while perceived knowledge did.
+- **Instructors.** Teach [[ai-ed-evaluation|evaluation of AI]] output rather than operation of AI tools, because perceived ease of use did not distinguish students once they were already users, while perceived knowledge did.
 - **Instructional designers.** Build the checking step into the task, since the model puts self-efficacy and trust on the pathway from knowledge to intention, and a task that supplies an evaluation criterion exercises both.
 - **Researchers.** Treat perceived knowledge as belief rather than competence and measure the two separately, because the model's strongest predictor is a self-report and the paper says so.
 - **[[teacher-role]]** Do not read reported dependence as evidence of harm; measure outcomes such as retention or unaided performance if the question is whether reliance has become costly.
@@ -69,7 +69,7 @@ There is also a construct-validity question worth naming. Perceived knowledge wa
 - Perceived technological dependence is a self-report of functional reliance; the study reports no behavioral usage data and does not show that the reported dependence reflects harmful overuse.
 - Prior formal training in generative AI was not recorded in the questionnaire, so it cannot be ruled out as a confounder of the knowledge, anxiety and self-efficacy pathways.
 - Participants were design students with prior AIGC use in design work, recruited through a questionnaire circulated between June and August 2025, so the model describes one discipline, one national context and one self-selected population already past the access threshold.
-- Of 537 submitted questionnaires 11 were excluded for reporting no AIGC design experience, leaving 526, and the excluded cases are too few to affect the estimates but mean the sample is defined by prior use rather than by assignment.
+- Of 537 submitted [[self-report-measures|questionnaires]] 11 were excluded for reporting no AIGC design experience, leaving 526, and the excluded cases are too few to affect the estimates but mean the sample is defined by prior use rather than by assignment.
 
 ## Citation
 

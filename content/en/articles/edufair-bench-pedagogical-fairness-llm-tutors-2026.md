@@ -51,7 +51,7 @@ The Opposite condition asks whether the residual gender signal is tutor-driven o
 
 ## What this means for practice
 
-- **Designers.** Audit each tutor for demographic bias before classroom deployment, because capability does not predict fairness — one model exceeded the |r| ≥ 0.10 threshold in 7 of 12 domain–dimension cells while another exceeded it only once — and passing the benchmark's thresholds is not a certificate of equitable treatment.
+- **Designers.** Audit each tutor for demographic bias before classroom deployment, because capability does not predict fairness — one model exceeded the |r| ≥ 0.10 threshold in 7 of 12 domain–dimension cells while another exceeded it only once — and passing the benchmark's thresholds is not a certificate of [[equity-in-ai-education|equitable]] treatment.
 - **Designers.** Treat pedagogy-specific RL as redistributing bias rather than removing it: TutorRL-7B reduced corrective_tone bias (chemistry 0.159 → 0.104) but increased mistake_recognize bias (mathematics 0.102 → 0.165).
 - **Designers.** Test tutors with name-only demographic cues as well as explicit statements, since names alone produced a mean pedagogical effect of about 0.142 in physics, and score the audit with paired contrasts that hold question difficulty constant — at least 15 paired questions per contrast — recording a fairness violation when the confidence interval excludes zero at |r| ≥ 0.10.
 - **Instructors.** Attend first to language and immigration fairness, where the largest gaps appeared (First Language 0.281 and Immigration 0.216 for DeepSeek-R1-70B), rather than to gender or SES alone.

@@ -17,13 +17,13 @@ page_kind: [evaluation]
 
 > **Synthesis:** Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
-> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable [[student-modeling|learner modeling]] in [[intelligent-tutoring|intelligent tutoring systems]].
+> Combining [[machine-learning|neural networks]] with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable [[student-modeling|learner modeling]] in [[intelligent-tutoring|intelligent tutoring systems]].
 
 ## The Problem with Pure Neural Approaches
 
 **Hooshyar et al. (2026)** identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
-- **Limited adaptivity:** LLMs struggle to model learners' *evolving knowledge over time* — they respond to individual turns rather than tracking skill mastery across sessions.
+- **Limited [[adaptive-learning|adaptivity]]:** LLMs struggle to model learners' *evolving knowledge over time* — they respond to individual turns rather than tracking skill mastery across sessions.
 - **Black-box opacity:** Deep learning models (LSTM/Transformer-based DKT) lack interpretable learner state representations, making it impossible to audit *why* a student is flagged as struggling.
 - **Spurious correlations:** Purely data-driven models can latch onto surface patterns (session length, interaction frequency) rather than genuine learning signals.
 - **Temporal instability:** Conventional DKT produces **prediction inconsistency rates of 0.43–0.48**, meaning predictions frequently "flip-flop" between correct/incorrect as new responses arrive — undermining trust.
@@ -106,7 +106,7 @@ This contrasts with opaque LLM-based approaches in [[llm-training-and-fine-tunin
 
 - **Learners.** Ask the tutor to show why it flagged you as struggling: Responsible-DKT exposes a computation graph with learned rule weights, so a prediction can be traced to the mastery or non-mastery rule that drove it instead of being taken on trust.
 - **Developers.** Encode pedagogical assumptions explicitly rather than hoping they emerge from data: the reference implementation uses a mastered rule (two consecutive correct responses on a skill), a not_mastered rule (three incorrect responses), and a historical average-embedding rule, each with a learnable weight that modulates rather than overrides the neural prediction.
-- **Developers.** Weight repeated failure more heavily than repeated success in [[mastery-learning|mastery]] rules — the paper found the non-mastery rule dominates prediction updates, an asymmetry that would be invisible in a black-box model.
+- **Developers.** Weight repeated failure more heavily than repeated success in [[mastery-learning|mastery]] rules — the paper found the non-mastery rule dominates prediction updates, an asymmetry that would be invisible in a [[explainable-ai|black-box model]].
 - **Developers.** Design for sparse-data settings: the model reaches over 0.80 AUC with only 10% of training data and up to 0.90 AUC with the full set, so cold-start [[intelligent-tutoring|tutoring]] can precede a large interaction history.
 - **Developers.** Report temporal stability alongside accuracy: the evaluation measures prediction volatility and inconsistency across sequence lengths, and the rule-augmented model was the most consistent, with inconsistency decreasing further as learning histories grew longer.
 
@@ -114,7 +114,7 @@ This contrasts with opaque LLM-based approaches in [[llm-training-and-fine-tunin
 
 - The evaluation rests on a single real-world dataset — 6th-grade mathematics from Opiq with 167 students, 21,471 interactions, 13 skills, and 1,058 quizzes — with scores binarized at a first-quartile threshold of 37/100, so generalization across grades, subjects, and populations is untested.
 - The symbolic rule set is limited to three simple rules and, by the authors' account, does not reflect the broader capabilities of neural-symbolic approaches or capture richer forms of domain knowledge.
-- Comparisons cover a classic DKT baseline and a neural-symbolic variant without rule injection only; attention-based and graph-based knowledge tracing models remain untested against it.
+- Comparisons cover a classic DKT baseline and a neural-symbolic variant without rule injection only; attention-based and [[knowledge-graph|graph-based knowledge]] tracing models remain untested against it.
 - The injected rules are pedagogically motivated but do not operationalize ethical principles, fairness constraints, or privacy-preserving mechanisms; the authors describe the work as a partial, methodological contribution to responsible AI rather than a comprehensive realization of it.
 
 ## Citation

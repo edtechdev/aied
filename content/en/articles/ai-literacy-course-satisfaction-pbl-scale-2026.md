@@ -31,12 +31,12 @@ page_kind: [evaluation]
 - **Instructional designers.** Prioritize student empowerment over pure technical skill by giving learners meaningful choices, encouraging comparison of alternative AI tools or outputs, and asking them to justify how and why AI is used at each project stage.
 - **Instructional designers.** Build empowerment in AI problem-solving as a measured course objective rather than an assumed by-product: it carried an indirect effect on course satisfaction of β = 0.393 against β = 0.029 for ethical awareness, and it predicted ethical awareness itself (β = 0.668).
 - **Educators.** Embed ethical awareness throughout the project process rather than as a separate topic — for example, using prompts such as "What bias may exist in this AI output?" or "Who might be disadvantaged?" in proposals, peer discussions, [[reflection]] journals, and final presentations.
-- **Administrators.** Promote guidelines for responsible and equitable AI use and invest in professional development for teachers implementing PBL-based AI instruction.
+- **Administrators.** Promote guidelines for responsible and [[equity-in-ai-education|equitable]] AI use and invest in [[educational-development|professional development]] for teachers implementing PBL-based AI instruction.
 
 ## Limitations
 
 - The design is cross-sectional, so the associations between perceived PBL, empowerment, ethical awareness, and course satisfaction cannot be read as causal; the authors propose longitudinal data as the next step.
-- All measures are self-reported, which the authors identify as a possible source of method bias and which captures perceptions rather than the dynamic development of empowerment or ethical awareness; Harman's single-factor test showed four factors with eigenvalues above 1, so common-method variance did not explain the pattern, but no behavioral or achievement data were collected.
+- All measures are [[self-report-measures|self-reported]], which the authors identify as a possible source of method bias and which captures perceptions rather than the dynamic development of empowerment or ethical awareness; Harman's single-factor test showed four factors with eigenvalues above 1, so common-method variance did not explain the pattern, but no behavioral or achievement data were collected.
 - The AI-PBLS was not subjected to formal expert validation or cognitive interviews, so its content validity is described as preliminary; the "AI" element is defined by the instructional context rather than item wording, which means the scale assumes every respondent has completed AI-based problem-solving activities in the same course.
 - Of 1,027 participating Hong Kong secondary and university students, only 446 provided complete data for the SEM, and the sample sits within a Confucian heritage culture emphasizing teacher authority, achievement, and collectivism, so the mediation estimates may not transfer to other settings.
 

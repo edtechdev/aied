@@ -29,9 +29,9 @@ reviewed_by: [editor]
 
 1. **A large pooled effect on learner-internal outcomes.** Across 52 effect sizes and 20 studies, GenAI-supported PBL/PjBL produced g = 0.819, 95% CI [0.655, 0.983], prediction interval [0.166, 1.472].
 2. **Sensitivity analysis shrinks the estimate.** Standard error predicted effect size (β = 3.057, p = .009), the PET intercept was not significant (g = 0.004), and PEESE reduced the estimate to g = 0.378.
-3. **Outcome domains differed in size.** Learning achievement and skill performance led (g = 0.950), ahead of affective and motivational outcomes (g = 0.762), higher-order thinking (g = 0.635), and collaboration and communication (g = 0.594).
+3. **Outcome domains differed in size.** [[learning-gains|Learning achievement]] and skill performance led (g = 0.950), ahead of affective and motivational outcomes (g = 0.762), [[critical-thinking|higher-order thinking]] (g = 0.635), and collaboration and communication (g = 0.594).
 4. **Product quality showed the largest effect, with wide uncertainty.** Product and solution performance pooled at g = 1.958, but rested on six studies and produced an approximate 95% prediction interval of [− 0.740, 4.656].
-5. **GenAI tool type moderated effects significantly.** General chatbots (g = 0.970) outperformed custom or API systems (g = 0.455), QM = 14.301, p < .001, so how a tool is embedded appears to matter.
+5. **GenAI tool type moderated effects significantly.** General [[conversational-ai|chatbots]] (g = 0.970) outperformed custom or API systems (g = 0.455), QM = 14.301, p < .001, so how a tool is embedded appears to matter.
 6. **Participant number moderated effects.** Groups of ≤60 students pooled highest (g = 0.984), against g = 0.694 for 61–110 and g = 0.518 for >110, QM = 6.717, p = 0.035.
 7. **Peer collaboration showed only a marginal trend.** [[collaborative-learning]] interventions pooled at g = 0.885 against g = 0.416 for individual work, QM = 3.675, p = 0.055, a trend the authors call marginal.
 
@@ -41,7 +41,7 @@ The authors searched eight databases, including Web of Science, Scopus, EBSCO/ER
 
 ## Four roles for GenAI in the PBL/PjBL cycle
 
-The paper treats [[problem-based-learning]] and [[project-based-learning]] as overlapping rather than distinct: both start from authentic problems, but PBL asks learners to understand and solve the problem while PjBL asks them to build something that solves it. Because GenAI enters both cycles in comparable places, the authors pool them and propose a provisional four-role framework: GenAI as Problem Framer in problem understanding, Knowledge Scaffold in inquiry and knowledge building, Production Partner in artifact production, and Reflective Critic in evaluation and [[reflection]]. The roles draw on mediated action, the zone of proximal development, cognitive load theory, distributed cognition, and [[self-regulated-learning]], while measured outcomes such as learning [[motivation]], engagement, and self-efficacy were grouped pragmatically into one affective domain. The framework is hedged as interpretive rather than validated, casting GenAI as a [[scaffolding]] resource within [[human-ai-collaboration]] rather than an autonomous tutor, and leaving [[problem-solving]] judgment with the learner.
+The paper treats [[problem-based-learning]] and [[project-based-learning]] as overlapping rather than distinct: both start from authentic problems, but PBL asks learners to understand and solve the problem while PjBL asks them to build something that solves it. Because GenAI enters both cycles in comparable places, the authors pool them and propose a provisional four-role framework: GenAI as Problem Framer in problem understanding, Knowledge Scaffold in inquiry and knowledge building, Production Partner in artifact production, and Reflective Critic in evaluation and [[reflection]]. The roles draw on mediated action, the [[sociocultural-learning|zone of proximal development]], cognitive load theory, [[distributed-cognition|distributed cognition]], and [[self-regulated-learning]], while measured outcomes such as learning [[motivation]], engagement, and [[self-efficacy]] were grouped pragmatically into one affective domain. The framework is hedged as interpretive rather than validated, casting GenAI as a [[scaffolding]] resource within [[human-ai-collaboration]] rather than an autonomous tutor, and leaving [[problem-solving]] judgment with the learner.
 
 ## What the moderator analyses suggest
 
@@ -53,14 +53,14 @@ Only two moderators reached significance: participant number and GenAI tool type
 - Choose and embed the GenAI tool deliberately, since general chatbots pooled higher (g = 0.970) than custom or API systems (g = 0.455).
 - Build in peer collaboration, which pooled at g = 0.885 against g = 0.416 for individual work, though the difference was marginal.
 - Keep cohorts small where feasible, since groups of ≤60 students showed the largest pooled estimate (g = 0.984).
-- Assess twice: AI-restricted tasks for internalized knowledge and independent reasoning, and AI-permitted authentic tasks for responsible AI-augmented production.
+- Assess twice: AI-restricted tasks for internalized knowledge and independent reasoning, and AI-permitted [[authentic-assessment|authentic tasks]] for [[ethics|responsible AI]]-augmented production.
 
 ## Limitations
 
 - The evidence base is small: 22 studies, with the product model resting on six studies and the individual peer-collaboration subgroup on two.
 - PET-PEESE estimates may be unstable at this study count, so g = 0.378 is presented as a sensitivity estimate rather than a precise effect.
 - Heterogeneity is high (Total I2 = 56.31% learner-internal, 92.93% for product performance), and the product prediction interval crossed zero.
-- AI literacy could not be modeled as a separate outcome domain because its measures were too heterogeneous.
+- [[ai-literacy|AI literacy]] could not be modeled as a separate outcome domain because its measures were too heterogeneous.
 
 ## Citation
 

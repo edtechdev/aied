@@ -16,7 +16,7 @@ audience: [instructional designers, learning analytics designers]
 
 ## Key Findings
 
-- **Adaptive scaffolding is needed but rarely process-dynamic.** Most adaptive-scaffold designs are informed by student choice or aggregated behavioral/performance measures, rather than the dynamic, individual-level process sequences of students during CPS.
+- **[[scaffolding|Adaptive scaffolding]] is needed but rarely process-dynamic.** Most adaptive-scaffold designs are informed by student choice or aggregated behavioral/performance measures, rather than the dynamic, individual-level process sequences of students during CPS.
 - **Sample & task.** 78 students aged 14–15 from a public school worked in triads on a mathematics collaborative [[problem-solving]] task through online video conferencing.
 - **Method: sequential patterning mining.** The adaptive scaffold design was derived using sequential patterning mining with independent-effects logistic regression to identify sequence-based patterns associated with students' performance improvements on a mathematics problem similar to the CPS task.
 - **Maximal vs minimal scaffold.** Students with the maximal scaffold had greater performance improvements and were significantly more on-task than those with the minimal scaffold — but they also engaged in more scripting behaviors.
@@ -36,7 +36,7 @@ audience: [instructional designers, learning analytics designers]
 - Of 78 students recruited from a single mathematics class in one public school (aged 14–15), 4 control and 9 treatment students were excluded for incomplete post-tests, leaving an analysis sample of 65 (35 control, 30 treatment).
 - Only 14 of 65 students (21.5%) showed any post-test improvement, and when the minimal scaffold was used as the baseline a mixed model found no statistically significant maximal-scaffold effect (p = 0.322) — the authors read this as the Mann–Whitney U test (U = 626.0, p = .0327, r = 0.192) having overestimated the effect.
 - The pre-test used to assign students to triads had a Cronbach's alpha of 0.443, and 18.9% of the variance in performance improvement was attributable to triad membership (ICC = 0.189), which the authors cite alongside the small sample as a constraint on the significance tests.
-- The adaptive scaffold is a conceptual design, not a tested intervention: the authors state that real-time automatic classification of utterances and a design-based research evaluation of learning gains remain future work, and they note that sequential pattern mining does not specify the time interval between indicators in a sequence.
+- The adaptive scaffold is a conceptual design, not a tested intervention: the authors state that real-time automatic classification of utterances and a [[design-based-research|design-based research]] evaluation of [[learning-gains|learning gains]] remain future work, and they note that sequential pattern mining does not specify the time interval between indicators in a sequence.
 
 ## Citation
 

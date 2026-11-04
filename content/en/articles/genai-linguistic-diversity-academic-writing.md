@@ -14,13 +14,13 @@ audience: [instructors, researchers, policymakers]
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
+> **Synthesis:** Structured scholarly dialogue among five sociolinguists examining how [[generative-ai|GenAI]] tools influence [[writing-education|academic writing]] practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
 
 ## Key Findings
 
 - The article is a **structured scholarly dialogue** among five sociolinguists from World Englishes and adjacent fields, organized around **five guiding questions** covering GenAI's broad influence in academic writing and publishing (AWP), its potential biases toward dominant Englishes, [[governance|institutional]] responsibilities, [[peer-assessment|peer assessment]] practices, and [[ethics|ethical]] frameworks.
 - Contributors see potential for GenAI to **democratize writing processes**, while raising concerns that it may **homogenize linguistic styles, privilege dominant English varieties, and flatten nuance** in scholarly writing.
-- The dialogue foregrounds themes of **linguistic (in)justice, [[research-methods-aied|researcher]] agency, and institutional responsibility**, with contributors calling for equity-informed policies, critical AI literacy, and inclusive co-design in GenAI development.
+- The dialogue foregrounds themes of **linguistic (in)justice, [[research-methods-aied|researcher]] agency, and institutional responsibility**, with contributors calling for [[equity-in-ai-education|equity]]-informed policies, critical AI literacy, and inclusive co-design in GenAI development.
 - Drawing on Blommaert's notion of "orders of indexicality," contributors argue that language varieties are evaluated through hierarchies of value, and that GenAI **reinforces these hierarchies by automating what counts as 'good' writing** — so apparent improvements in quality may conceal the algorithmic enforcement of standardized norms.
 - The authors conclude that while GenAI may reinforce existing hierarchies, it **can also serve as a site of resistance**, depending on how it is designed, governed, and used within scholarly communities committed to linguistic diversity.
 
@@ -32,16 +32,16 @@ Rather than an empirical study, the piece is a dialogic scholarly intervention: 
 
 - **Instructors.** Teach GenAI as linguistically non-neutral. Rather than banning or ignoring it, make the standards it enforces an object of study, since the contributors argue the tools automate what counts as "good" writing and can conceal the enforcement of standardized norms behind apparent quality gains.
 - **Instructors.** Resist letting language polishing become the only sanctioned use. The interview evidence the dialogue cites shows applied-linguistics editors largely restricted acceptable GenAI use to polishing while demanding transparency, and students and supervisors will inherit that norm unless instruction widens it.
-- **Researchers.** Edit rather than accept generated text: one contributor's position is that scholars can "edit or completely rewrite GenAI-generated outputs" in ways that reflect their own linguistic identity, and prompting experiments reported here found models perform poorly at producing national standard varieties other than US English.
+- **Researchers.** Edit rather than accept generated text: one contributor's position is that scholars can "edit or completely rewrite GenAI-generated outputs" in ways that reflect their own linguistic identity, and [[prompt-engineering|prompting]] experiments reported here found models perform poorly at producing national standard varieties other than US English.
 - **Administrators.** Develop equity-informed guidelines for writers, reviewers, and editors, and equip reviewers to read World Englishes variation as difference rather than error — the dialogue notes reviewers using GenAI are exposed to the same normative bias as the models.
 - **Researchers.** Pair critical [[ai-literacy]] with inclusive co-design: the conclusion is that whether GenAI reinforces or disrupts linguistic hierarchies depends on who trains it, who uses it, and under what [[governance|institutional]] conditions, which makes design participation a research question rather than an afterthought.
 
 ## Limitations
 
 - The paper is a structured scholarly dialogue in which five sociolinguists answer five guiding questions. It collects no new empirical data — no sample, no intervention, no coding of user behavior — so its claims are analytical positions about linguistic hierarchy rather than tested effects of GenAI use.
-- Its discussion of model behavior rests on illustrative one-shot prompts (such as the Nigerian English ChatGPT output) and contributors' own prompting experiments; the authors explicitly set aside "the limitations of LLM output generated in response to one-shot prompts" rather than benchmarking models systematically.
+- Its discussion of model behavior rests on illustrative one-shot prompts (such as the Nigerian English ChatGPT output) and contributors' own prompting experiments; the authors explicitly set aside "the limitations of [[llm]] output generated in response to one-shot prompts" rather than benchmarking models systematically.
 - Evidence about editorial policy comes from another team's interview study of applied-linguistics journal editors (Moorhouse et al., 2025), so the dialogue reports institutional practice at second hand.
-- The contributors state their discussion is "not exhaustive" and reflects the continuing concentration of scholarship in the Global North; the discussants did not meet in person and call for future dialogues that include scholars and editors based in the Global South.
+- The contributors state their discussion is "not exhaustive" and reflects the continuing concentration of scholarship in the Global North; the discussants did not meet in person and call for future dialogues that include scholars and editors based in the [[global-south|Global South]].
 
 ## Citation
 

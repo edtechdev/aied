@@ -14,7 +14,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same [[learning-gains|learning outcomes]], scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step design process (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, [[pedagogy]]-first design strategy for [[ai-education|AI-mediated assessment]].
+> **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same [[learning-gains|learning outcomes]], scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step [[design-thinking|design process]] (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, [[pedagogy]]-first design strategy for [[ai-education|AI-mediated assessment]].
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ GenAI's advanced capability to produce extended works leads to GenAI-assisted [[
 
 An **assessment twin** comprises two deliberately designed, interdependent components that (a) address the same intended learning outcomes, (b) require different modes of evidence or production, and (c) are scheduled so performance on each can be cross-checked to mitigate a known vulnerability, thereby enhancing construct validity compared to either component alone.
 
-The approach is distinct from traditional protocols like the oral viva voce in its core organizing logic: it is fundamentally a validity-driven response to a GenAI vulnerability from the outset. The distinction between [[formative-assessment|formative]] and [[summative-assessment|summative]] assessment is central — GenAI-vulnerable tasks are retained for their formative value (the process of completing them is itself meaningful learning) while the twin provides reliable summative evidence of the same outcomes.
+The approach is distinct from traditional protocols like the [[oral-assessment|oral viva]] voce in its core organizing logic: it is fundamentally a validity-driven response to a GenAI vulnerability from the outset. The distinction between [[formative-assessment|formative]] and [[summative-assessment|summative]] assessment is central — GenAI-vulnerable tasks are retained for their formative value (the process of completing them is itself meaningful learning) while the twin provides reliable summative evidence of the same outcomes.
 
 ## The design process in practice
 

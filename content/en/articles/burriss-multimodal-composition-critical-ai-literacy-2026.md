@@ -41,8 +41,8 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Assign low-stakes multimodal composition — a short video PSA on an AI ethics issue students choose and address to a real audience — because 15 of the 18 end-of-unit survey responses said making the video deepened their understanding of AI ethics; the work needs teacher openness rather than AI expertise, since joint investigation of a specific system surfaced and addressed [[misconceptions]].
-- **Instructors.** Anchor the unit in students' own encounters with AI, such as school surveillance, electronic hall passes and plagiarism detection, which is where this class located the ethical stakes.
+- **Instructors.** Assign low-stakes multimodal composition — a short video PSA on an AI ethics issue students choose and address to a real audience — because 15 of the 18 end-of-unit survey responses said making the video deepened their understanding of AI ethics; the work needs [[teacher-role|teacher]] openness rather than AI expertise, since joint investigation of a specific system surfaced and addressed [[misconceptions]].
+- **Instructors.** Anchor the unit in students' own encounters with AI, such as school surveillance, electronic hall passes and [[ai-detection|plagiarism detection]], which is where this class located the ethical stakes.
 - **Instructors.** Develop collaboration norms and inventory student expertise in videography and editing at the outset, since this class already had both and classrooms without them will need to [[scaffolding|scaffold]] them deliberately.
 - **Instructors.** Substitute lower-overhead products — infographics, short presentations, graphic-novel panels or mini-podcasts — when time or materials make live-action film impractical.
 - **Researchers.** Assess AI literacy with collaborative and multimodal evidence such as reflections, artifacts and civic discourse, since existing AI literacy scales assume individually measurable performance.
@@ -51,7 +51,7 @@ confidence: high
 
 - The study rests on a single cohort of 22 eleventh-grade students in one urban district's application-based STEM research program, with no formal summative assessment of what they learned.
 - The classroom already had strong collaboration norms and substantial student video expertise, so the unit's feasibility in ordinary classrooms is untested.
-- The evidence is small and largely self-reported: 7 groups' final videos, 18 end-of-unit survey responses and 12 daily reflections.
+- The evidence is small and largely [[self-report-measures|self-reported]]: 7 groups' final videos, 18 end-of-unit survey responses and 12 daily reflections.
 - The researchers' own instruction shaped what students made — the AI Bill of Rights discussion and the PSA genre study influenced topic choices — and some technical terms (e.g., "failsafe") were never explained, which the authors concede.
 
 ## Citation

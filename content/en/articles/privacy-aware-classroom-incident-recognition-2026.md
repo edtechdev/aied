@@ -28,8 +28,8 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 ## Limitations
 
 - Pilot-scale data: 1,296 synthetic and 574 real-world samples, with real-world data drawn from Singapore preschools and a limited set of incident classes.
-- The real-world evaluation is zero-shot only, with no target-domain fine-tuning, and the leading result is 63.41% accuracy — nearly two in five real incidents are missed at this stage.
-- Synthetic videos are model-generated and filtered through author review plus teacher validation, so realism and label accuracy rest on those judgments, which the authors themselves flag as a risk for biased incident representations.
+- The real-world evaluation is zero-shot only, with no target-domain [[llm-training-and-fine-tuning|fine-tuning]], and the leading result is 63.41% accuracy — nearly two in five real incidents are missed at this stage.
+- Synthetic videos are model-generated and filtered through author review plus [[teacher-role|teacher]] validation, so realism and label accuracy rest on those judgments, which the authors themselves flag as a risk for biased incident representations.
 - The privacy guarantee is architectural rather than end-to-end: it assumes the recognition system receives only pose trajectories, so identifiability depends on the upstream extraction and retention pipeline, not on the model.
 
 ## Citation

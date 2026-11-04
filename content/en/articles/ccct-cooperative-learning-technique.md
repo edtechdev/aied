@@ -12,16 +12,16 @@ audience: [faculty developers, instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 
-> **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for higher education
+> **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for [[higher-ed|higher education]]
 
 ## Key Findings
 
 - A [[mixed-methods-research|mixed-methods]] explanatory sequential study with **67 sophomore prospective teachers** at Hakkari University (Turkey) in the spring 2024–2025 semester: an experimental group of **31** Guidance and Psychological Counseling students (19 female, 12 male) versus a control group of **36** Primary School [[math-education|Mathematics]] [[teacher-role|Teaching]] students, in a theoretical "[[curriculum-design|Curriculum]] Development in Education" course.
-- The intervention was designed by [[prompt-engineering|prompting]] **five AI [[conversational-ai|chatbots]] (ChatGPT, Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the [[research-methods-aied|researcher]] selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion rubric (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
+- The intervention was designed by [[prompt-engineering|prompting]] **five AI [[conversational-ai|chatbots]] ([[generative-ai|ChatGPT]], Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the [[research-methods-aied|researcher]] selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion rubric (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
 - CCCT has students collaboratively map curriculum concepts as "stars" into visual "constellations," working in heterogeneous teams of 4–6 with assigned roles (Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, Navigator) across a two-week cycle ending in a gallery walk and group [[reflection]].
-- **Academic achievement:** the experimental group's post-test (M = 51.45, SD = 6.08) significantly outperformed the control (M = 43.89, SD = 10.76), p = 0.001, **g = 0.839**; only the experimental group improved significantly from pre-test (p = 0.005, g = 0.738) while the control showed a weak effect (g = 0.119).
+- **[[learning-gains|Academic achievement]]:** the experimental group's post-test (M = 51.45, SD = 6.08) significantly outperformed the control (M = 43.89, SD = 10.76), p = 0.001, **g = 0.839**; only the experimental group improved significantly from pre-test (p = 0.005, g = 0.738) while the control showed a weak effect (g = 0.119).
 - **Co-[[regulation]]:** experimental group rose from M = 61.32 to 65.45 (p = 0.043, **g = 0.512**); **attitudes toward cooperativeness** rose from M = 68.03 to 75.19 (p = 0.007, **g = 0.751**).
-- [[qualitative-research|Qualitative]] analysis yielded five themes — fostering [[agency|student agency]] and accountability, social cohesion and interpersonal growth, cognitive and [[pedagogy|pedagogical]] [[student-engagement|engagement]], collaborative learning dynamics, and structural/logistical challenges (unequal participation, time constraints).
+- [[qualitative-research|Qualitative]] analysis yielded five themes — fostering [[agency|student agency]] and accountability, social cohesion and interpersonal growth, cognitive and [[pedagogy|pedagogical]] [[student-engagement|engagement]], [[collaborative-learning|collaborative learning]] dynamics, and structural/logistical challenges (unequal participation, time constraints).
 
 ## Study Design & Method
 
@@ -46,7 +46,7 @@ The study used an explanatory sequential mixed-methods design in three phases. P
 - Small sample from two departments of a single university limits generalizability; unmeasured disciplinary differences between intact classes (counseling students' possible inclination toward metaphorical, reflective thinking vs. mathematics students' logical, sequential orientation) may partly explain effects.
 - The control condition was traditional lecture-based instruction rather than an established cooperative learning technique, so the study does not show CCCT is superior to existing cooperative learning methods.
 - The two-week intervention duration makes a novelty effect ("more fun," "more enjoyable") impossible to rule out; longitudinal studies are needed.
-- No formal [[meta-analysis-systematic-review|systematic review]] (e.g., PRISMA) or bibliometric analysis was used to establish the pedagogical gap motivating the new technique, and qualitative data relied on self-report, which may be subject to social desirability bias.
+- No formal [[meta-analysis-systematic-review|systematic review]] (e.g., PRISMA) or bibliometric analysis was used to establish the pedagogical gap motivating the new technique, and qualitative data relied on [[self-report-measures|self-report]], which may be subject to social desirability bias.
 
 ## Citation
 

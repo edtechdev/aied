@@ -18,14 +18,14 @@ methods: [qualitative-research]
 ## Study Design
 
 - **Context:** Undergraduate students debugging predetermined buggy analog circuits on breadboards and PCBs
-- **Conditions:** Lab final exam in ECEN 3314 (Electronic Devices and Applications) at Oklahoma State University, Spring and Fall 2025, under 30-minute time pressure
+- **Conditions:** Lab [[summative-assessment|final exam]] in ECEN 3314 (Electronic Devices and Applications) at Oklahoma State University, Spring and Fall 2025, under 30-minute time pressure
 - **Data:** 17 voluntarily shared chat logs from student-LLM conversations plus written answer sheets
 - **Analysis:** Inductive [[qualitative-research|thematic analysis]] of interaction patterns at both technology and psychological levels
 
 ## Key Findings
 
 1. Students overwhelmingly preferred **image-based debugging**, uploading photos of circuits and exam questions to capture full context — a pattern that grew from 2/5 chat logs in Spring 2025 to 5/12 in Fall 2025.
-2. Without any [[discipline-specific-aied|domain-specific]] fine-tuning, off-the-shelf [[llm|LLMs]] were able to **suggest true root causes** among their zero-shot debugging recommendations, at times demonstrating [[student-ai-interaction|chain-of-thought reasoning]].
+2. Without any [[discipline-specific-aied|domain-specific]] [[llm-training-and-fine-tuning|fine-tuning]], off-the-shelf [[llm|LLMs]] were able to **suggest true root causes** among their zero-shot debugging recommendations, at times demonstrating [[student-ai-interaction|chain-of-thought reasoning]].
 3. LLMs' **3D spatial and visual reasoning was unreliable**: nearly all factual errors followed image inputs, as models could not correctly infer wiring and structural relationships from breadboard or PCB photos.
 4. LLMs displayed **unjustified confidence** in wrong diagnoses, while students showed **deficits in fundamental circuit concepts** and offloaded critical thinking to the AI.
 
@@ -37,7 +37,7 @@ Against these pain points, the authors position LLM collaboration as a potential
 
 ## Research Questions & Methodology
 
-The study poses three [[research-methods-aied|research]] questions: (1) What are students' usage patterns when debugging with LLMs? (2) What strengths do LLMs show in guiding debugging? (3) What gaps exist in LLM [[ai-technologies|technologies]] or student skills? To answer them, the authors analyzed chat logs from a timed 30-minute lab final exam in which students debugged randomly assigned buggy circuits on breadboards and PCBs, shared their full [[conversational-ai|chat logs]] afterward, and completed a written worksheet on symptoms, root causes, and fixes. Analysis followed an inductive thematic analysis capturing both factual correctness and underlying trust in AI suggestions.
+The study poses three [[research-methods-aied|research]] questions: (1) What are students' usage patterns when debugging with LLMs? (2) What strengths do LLMs show in guiding debugging? (3) What gaps exist in LLM [[ai-technologies|technologies]] or student skills? To answer them, the authors analyzed chat logs from a timed 30-minute lab final exam in which students debugged randomly assigned buggy circuits on breadboards and PCBs, shared their full [[conversational-ai|chat logs]] afterward, and completed a written worksheet on symptoms, root causes, and fixes. Analysis followed an inductive thematic analysis capturing both factual correctness and underlying [[trust|trust in AI]] suggestions.
 
 ## Findings: Students' Usage Patterns
 
@@ -45,7 +45,7 @@ The study poses three [[research-methods-aied|research]] questions: (1) What are
 
 ## Findings: LLM Strengths
 
-**Theme 2 — LLMs suggested true root causes at zero-shot.** In a representative exchange, ChatGPT listed four potential issues for a common-emitter amplifier and its fourth hypothesis pointed directly to the actual bug (improper biasing). The model then demonstrated chain-of-thought reasoning, correctly locating the transistor package (TO-92) and reasoning about the relative emitter/base/collector positions. Notably, the student still failed to finish in time — evidence that a good suggestion alone does not guarantee successful debugging.
+**Theme 2 — LLMs suggested true root causes at zero-shot.** In a representative exchange, [[generative-ai|ChatGPT]] listed four potential issues for a common-emitter amplifier and its fourth hypothesis pointed directly to the actual bug (improper biasing). The model then demonstrated chain-of-thought reasoning, correctly locating the transistor package (TO-92) and reasoning about the relative emitter/base/collector positions. Notably, the student still failed to finish in time — evidence that a good suggestion alone does not guarantee successful debugging.
 
 ## Findings: LLM and Student Gaps
 

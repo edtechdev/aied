@@ -18,7 +18,7 @@ methods: [ai-ed-evaluation]
 ## Key Findings
 
 1. Jointly predicting courses *and* grades sharply outperforms a grades-only architecture: TRACE's grade mean absolute error of 0.1339 is a 46.4% reduction over the OnlyGradesTransformer's 0.2496, with mean squared error 3.5 times lower — showing that the auxiliary course task forces the model to learn richer course representations.
-2. The Transformer beats sequence and relational baselines: its MSE is roughly 30% lower than the encoder-decoder and unidirectional LSTM models (MAE ~15% lower), and 15–20% lower than a graph neural network, while tree-based XGBoost performs far worse (MAE 0.8818) on the sequential task.
+2. The Transformer beats sequence and relational baselines: its MSE is roughly 30% lower than the encoder-decoder and unidirectional LSTM models (MAE ~15% lower), and 15–20% lower than a graph [[machine-learning|neural network]], while tree-based XGBoost performs far worse (MAE 0.8818) on the sequential task.
 3. Modeling course concurrency as a per-semester unit matters: sharing the same positional encoding across all courses in a term yields a permutation-invariant representation of unordered course baskets, a structural choice that matters as much as the underlying architecture.
 4. A set-based loss — KL divergence over the predicted course distribution plus MSE for grade regression — avoids the order artifacts of token-level cross-entropy while naturally encoding course load and inter-course dependencies.
 5. The course-prediction auxiliary task is a regularizer, not a recommendation goal: even imperfect course predictions (P = 0.5076, F1 = 0.4432 against a random-selection baseline of ~0.014) are what drive the large grade-prediction gains.

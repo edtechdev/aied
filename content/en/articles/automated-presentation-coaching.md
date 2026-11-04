@@ -32,7 +32,7 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 ## Limitations
 
 - As a survey, coverage is deliberately not exhaustive: the authors emphasize work that informs pronunciation, prosody, pacing, and comprehensibility for slide-based L2 English presentations, and map 15 representative systems onto the taxonomy.
-- English-only scope and a single genre: applicability to other languages and to presentation styles such as storytelling or persuasive speaking requires further investigation.
+- English-only scope and a single genre: applicability to other languages and to presentation styles such as [[storytelling-in-education|storytelling]] or persuasive speaking requires further investigation.
 - The taxonomy and metrics were derived from existing literature and may not capture all dimensions relevant to real-world coaching; the datasets curated and recommended are limited in scale, since most CAPT corpora cover isolated words or short sentences without slide structure, domain terminology, or discourse-level features.
 - No empirical comparison is provided between clone-and-compare references and expert references across speaker populations, the practical implementation of accent-fair thresholds and privacy-preserving systems still needs validation in deployed settings, and cross-system comparison is constrained because commercial platforms (ELSA Speak, Speechling, Yoodli, Orai) typically address only one or two taxonomy dimensions and rarely publish their technical approaches.
 

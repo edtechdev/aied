@@ -28,7 +28,7 @@ AI-driven assessment of human tutor training performance correlates with real-li
 
 - Lesson and transcript scores frequently hit ceiling effects (pretest means from 0.70 to 0.98, with only 66–76 tutors per lesson across 433 pooled attempts), which the authors say constrained the evidence of transfer from lessons to practice.
 - Tutors uploaded their own tutoring sessions, creating a selection bias toward more confident tutors who submitted more data.
-- Gemini-2.5-pro's inter-rater reliability varied widely across tutor moves, so the LLM-based evaluation is described as not a perfect process.
+- Gemini-2.5-pro's inter-rater reliability varied widely across tutor moves, so the [[llm]]-based evaluation is described as not a perfect process.
 - Growth was inferred from a design in which the authors found no significant immediate performance change at the point of intervention and no evidence that opportunities to apply skills explained the observed trend.
 
 ## Citation

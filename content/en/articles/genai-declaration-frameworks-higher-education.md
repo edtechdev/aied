@@ -24,7 +24,7 @@ This [[discipline-specific-aied|domain-specific]] approach is proposed as a foun
 
 - **Instructors.** Replace the generic binary declaration with the paper's task-specific structures — one for writing-focused activities and one for coding assessments — so students name the cognitive stage the tool touched (for example, structural planning versus textual content generation, or code improvement versus code generation).
 - **Instructors.** Ask for extent, explanation, and example prompts, using the framework's three-point scale, so the declaration becomes a reflective instrument that supports [[academic-integrity]] rather than a compliance artifact.
-- **Instructors.** Read cohort-level declarations pedagogically: a class declaring Extensive use in Code Generation but Minor use in Understanding & Learning tells a different story from the reverse pattern, and should inform scaffolding and assessment redesign in the next task.
+- **Instructors.** Read cohort-level declarations pedagogically: a class declaring Extensive use in Code Generation but Minor use in Understanding & Learning tells a different story from the reverse pattern, and should inform [[scaffolding]] and assessment redesign in the next task.
 - **Administrators.** Pair the framework with explicit institutional guidance on which tools are in scope, because IDE autocomplete, browser-based writing assistants, and search engines with AI-generated summaries sit on a spectrum with conversational tools like ChatGPT.
 - **Administrators.** Position the framework as complementary to policy-level instruments such as the AIAS rather than a substitute — it supplies the granular disclosure layer those instruments do not specify — and do not market it as a misconduct detector.
 

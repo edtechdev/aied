@@ -38,7 +38,7 @@ source_depth: full text
 
 ## Two stages, two kinds of evidence, one argument
 
-The design is deliberately asymmetric. Stage 1 is a cross-sectional survey and can only show association; the authors are candid that all its constructs were self-reported by the same respondents at one time point, which is the classic common-method-variance setup. Stage 2 is a within-subject experiment over 400 matched prompt pairs, which can show that changing one thing — prompt structure — changes rated output quality.
+The design is deliberately asymmetric. Stage 1 is a cross-sectional survey and can only show association; the authors are candid that all its constructs were [[self-report-measures|self-reported]] by the same respondents at one time point, which is the classic common-method-variance setup. Stage 2 is a within-subject experiment over 400 matched prompt pairs, which can show that changing one thing — prompt structure — changes rated output quality.
 
 Put together, the two stages argue that the variable which converts access into benefit is a competence, and that the competence has a trainable core. The survey supplies the equity framing: if PEC is what turns an account into a learning gain, then a population that differs in PEC differs in what the same free tool is worth to them. The experiment supplies the leverage: a [[scaffolding|scaffold]] that specifies role, goal, inputs, process constraints and output format reliably lifts output quality, including on models that start weaker.
 

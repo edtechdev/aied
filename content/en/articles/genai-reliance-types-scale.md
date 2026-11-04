@@ -28,7 +28,7 @@ Validation follows the multi-source framework of the *Standards for Educational 
 
 ## Limitations
 
-- Every measure is self-report from a single cross-sectional survey. The authors note the study lacks the AI interaction logs that would anchor response-process claims, and that the criterion variables covered self-reported AI-assisted writing behaviors rather than independently assessed writing quality.
+- Every measure is self-report from a single cross-sectional survey. The authors note the study lacks the [[student-ai-interaction|AI interaction]] logs that would anchor response-process claims, and that the criterion variables covered [[self-report-measures|self-reported]] AI-assisted writing behaviors rather than independently assessed writing quality.
 - The structural evidence rests on one validation sample: N = 382 undergraduates at a single U.S. R1 Minority-Serving Institution, recruited over six weeks with an estimated 26% response rate from roughly 1,500 students reached, and the five-factor structure still needs replication in an independent sample.
 - No formal content-validity indices were computed; expert review of item content was informal, and the non-binary, genderqueer, and transgender subgroup (n = 25) was too small for full measurement-invariance testing, so only two-group comparisons were possible.
 - Test-retest temporal stability of the GenAI-RTS has not been established, and the interview accounts of movement from dependent toward strategic reliance are retrospective and cannot establish developmental change.

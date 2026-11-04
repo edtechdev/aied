@@ -31,7 +31,7 @@ This study provides a cognitive mechanism for the [[cognitive-offloading|Over-Re
 
 - **Learners.** Treat your own estimate of how much you use AI as unreliable evidence: participants predicted they would use AI in 33% of tasks but the actual rate was 47%, and they expected AI to save 55.7 seconds on a task where it saved 7.5 seconds.
 - **Learners.** Judge AI by measured results rather than by how easy it felt to use, because prior AI use made participants more likely to opt for AI again (β = 0.54, p < 0.001) rather than better calibrated.
-- **Instructors.** Log behavior instead of asking students to self-report AI use: the actual usage rate exceeded the stated rate by 14 percentage points, and on easy task variants there was an 18% difference between the 20% predicted rate and the 38% actual rate.
+- **Instructors.** Log behavior instead of asking students to [[self-report-measures|self-report]] AI use: the actual usage rate exceeded the stated rate by 14 percentage points, and on easy task variants there was an 18% difference between the 20% predicted rate and the 38% actual rate.
 - **Instructors.** Set explicit expectations for simple tasks, since 21-54% of participants used AI on tasks where the average predicted rate was only 2.3%.
 - **Instructors.** Teach [[metacognition|metacognitive]] calibration about AI use as part of [[ai-literacy|AI literacy]]: users need more than technical knowledge of [[generative-ai|AI]] capabilities and limitations, because simply telling people that AI may not save time does not correct an illusion that is perceptual and self-reinforcing.
 

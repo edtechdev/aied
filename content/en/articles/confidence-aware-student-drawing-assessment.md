@@ -13,7 +13,7 @@ audience: [instructors, assessment designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** A Vision Transformer (ViT) with LoRA adaptation for [[automated-assessment|automated scoring]] of student-drawn scientific models on six NGSS-aligned middle school [[k-12|assessment]] items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling **selective automation**: high-confidence responses are auto-scored, uncertain cases are deferred for human review. Improves [[assessment-validity|scoring reliability]] while supporting a practical trade-off between automated coverage and scoring risk.
+> **Synthesis:** A Vision Transformer (ViT) with [[llm-training-and-fine-tuning|LoRA]] adaptation for [[automated-assessment|automated scoring]] of student-drawn scientific models on six NGSS-aligned middle school [[k-12|assessment]] items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling **selective automation**: high-confidence responses are auto-scored, uncertain cases are deferred for human review. Improves [[assessment-validity|scoring reliability]] while supporting a practical trade-off between automated coverage and scoring risk.
 
 ## Key Findings
 
@@ -21,19 +21,19 @@ page_kind: [evaluation]
 - **Method:** Vision Transformer (ViT) with LoRA + confidence-aware framework using test-time perturbations.
 - **Dataset:** Six NGSS-aligned middle school [[k-12|assessment]] items (477-816 responses each, scored Beginning/Developing/Proficient).
 - **Key innovation:** Response-level confidence enables selective automation — high-confidence auto-scored, uncertain cases deferred for human review.
-- **Implication:** confidence-aware [[formative-assessment|assessment]] enables practical triage between automation and [[human-in-the-loop-ai|human oversight]] in educational assessment.
+- **Implication:** confidence-aware [[formative-assessment|assessment]] enables practical triage between automation and [[human-in-the-loop-ai|human oversight]] in [[assessment|educational assessment]].
 
 ## What this means for practice
 
-- **Instructors.** Auto-score only the drawings the model is confident about and route the rest to review: the selective strategy defers low-confidence responses to human graders, so teacher time goes to the visually ambiguous or unconventional drawings that automated scoring handles worst.
+- **Instructors.** Auto-score only the drawings the model is confident about and route the rest to review: the selective strategy defers low-confidence responses to human graders, so [[teacher-role|teacher]] time goes to the visually ambiguous or unconventional drawings that automated scoring handles worst.
 - **Teachers.** Report a confidence value alongside every score instead of a bare proficiency label. Mean confidence correlated positively with scoring accuracy (r = 0.649, p < 0.01), which is what makes a score actionable for deciding when to trust it.
-- **Assessment designers.** Budget for per-item models: the ViT + LoRA scorer trains 0.6M parameters on an 86.4M backbone and scores a response in 1.0355 ms, while the confidence-aware variants take 20.532 ms — all far below LLM-based scoring approaches.
+- **Assessment designers.** Budget for per-item models: the ViT + LoRA scorer trains 0.6M parameters on an 86.4M backbone and scores a response in 1.0355 ms, while the confidence-aware variants take 20.532 ms — all far below [[llm]]-based scoring approaches.
 - **Assessment designers.** Tune the confidence threshold to the risk you can absorb rather than maximizing coverage, since varying it controls the trade-off between automated coverage and scoring risk in [[automated-assessment|automated scoring]].
-- **Researchers.** Demand confidence-accuracy evidence before calling a scorer classroom-ready: the authors were still conducting expert review to verify the qualitative validity of the confidence results.
+- **Researchers.** Demand confidence-accuracy evidence before calling a scorer classroom-ready: the authors were still conducting expert review to verify the [[qualitative-research|qualitative]] validity of the confidence results.
 
 ## Limitations
 
-- Six NGSS-aligned middle school items with 477, 538, 520, 772, 453, and 816 responses respectively, all collected from science classrooms in one region of the United States, so students' representational practices may reflect local curricular and classroom contexts.
+- Six NGSS-aligned middle school items with 477, 538, 520, 772, 453, and 816 responses respectively, all collected from [[science-education|science classrooms]] in one region of the United States, so students' representational practices may reflect local curricular and classroom contexts.
 - Expert-provided rubric scores serve as the reference, so any systematic tendencies in human scoring may also be reflected in model performance.
 - Models are trained independently for each assessment item, so nothing here shows a single scorer transferring across items or subjects.
 - The confidence metric is validated by a correlation with accuracy (r = 0.649) with expert review still under way, and the zero-shot comparison against Qwen3-VL-8B-Instruct is summarized only as lower agreement with details kept in the project repository.

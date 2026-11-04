@@ -14,7 +14,7 @@ page_kind: [evaluation]
 technology: [edtech-platform]
 ---
 
-> **Synthesis:** Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.
+> **Synthesis:** Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in [[cs-education|computing education]] contexts.
 
 ## Key Findings
 
@@ -33,12 +33,12 @@ A cybersecurity tabletop exercise is a conversation between participants respons
 - **Instructors.** Instrument the exercise before the first run so milestone timing, team decisions, scoring, and communication are captured as a byproduct of delivery rather than reconstructed afterward.
 - **Instructors.** Protect a structured debrief as a required phase: trainees in these exercises consistently wanted more debrief time than the schedule allowed, and the authors warn that the collected data goes unused without a facilitator who surfaces disagreement.
 - **Designers.** Start from realistic, well-thought-out scenarios and plan for instructor support during delivery — the two lessons the authors single out as decisive across the exercise lifecycle.
-- **Designers.** Accept the automation trade-off: on-demand exercises scale to hundreds of participants only if every evaluated element can be scored automatically, which pushes scenarios toward multiple-choice questionnaires and away from open-ended artifacts.
+- **Designers.** Accept the automation trade-off: on-demand exercises scale to hundreds of participants only if every evaluated element can be scored automatically, which pushes scenarios toward multiple-choice [[self-report-measures|questionnaires]] and away from open-ended artifacts.
 - **Instructors.** Reuse the platform and existing trainee accounts across successive exercises so team performance can be compared between runs instead of rebuilding materials each term.
 
 ## Limitations
 
-- The evidence is 25 exercises with 743 participants delivered on the authors' own IXP platform, so platform effects cannot be separated from instructional design.
+- The evidence is 25 exercises with 743 participants delivered on the authors' own IXP platform, so platform effects cannot be separated from [[learning-design|instructional design]].
 - The study is a system development and case study paper: feedback came from post-exercise questionnaires and instructor observations, with no comparison against paper-based tabletop exercises and no measured learning outcome.
 - The courses span many local contexts, including one course run over two years, a summer school, and a remote two-country exercise, so the 24 lessons learned are practitioner experience rather than a controlled comparison.
 - The digital format changes the comparison standard, since trainees judge a digital exercise against polished applications rather than against other tabletop exercises.

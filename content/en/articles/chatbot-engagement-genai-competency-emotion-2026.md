@@ -13,13 +13,13 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Huang and Zhang (2026) propose and test a theoretically grounded model of student engagement in [[llm]] chatbot-supported learning, guided by appraisal theory. Unlike prior studies that focus on isolated antecedents, the model integrates learners' capacity appraisals ([[generative-ai|GenAI]] competency and academic self-efficacy), in-situ cognitive appraisals (perceived usefulness and ease of use of the chatbot), and affective appraisals (emotions experienced when using the chatbot). Based on 234 responses analyzed with structural equation modeling and mediation analyses, the study finds that GenAI competency had the strongest relationship with student engagement, emotion fully mediated the effect of perceived usefulness on engagement, and academic self-efficacy showed no significant direct association after accounting for other variables.
+> **Synthesis:** Huang and Zhang (2026) propose and test a theoretically grounded model of student engagement in [[llm]] [[conversational-ai|chatbot]]-supported learning, guided by appraisal theory. Unlike prior studies that focus on isolated antecedents, the model integrates learners' capacity appraisals ([[generative-ai|GenAI]] competency and [[self-efficacy|academic self-efficacy]]), in-situ cognitive appraisals (perceived usefulness and ease of use of the chatbot), and affective appraisals (emotions experienced when using the chatbot). Based on 234 responses analyzed with structural equation modeling and mediation analyses, the study finds that GenAI competency had the strongest relationship with student engagement, emotion fully mediated the effect of perceived usefulness on engagement, and academic self-efficacy showed no significant direct association after accounting for other variables.
 
 ## Key Findings
 
 - GenAI competency had the strongest relationship with student engagement in chatbot-supported learning.
 - Emotion fully mediated the effect of perceived usefulness on engagement.
-- Perceived usefulness partially mediated the effect of perceived ease of use.
+- Perceived usefulness partially mediated the effect of [[technology-acceptance-model|perceived ease of use]].
 - Academic self-efficacy showed no significant direct association with engagement after accounting for other variables.
 - The findings highlight the critical role of GenAI competency and positive emotions in chatbot-supported learning.
 
@@ -32,8 +32,8 @@ page_kind: [framework]
 
 ## Limitations
 
-- The model was tested on 234 self-reported survey responses collected at a single time point, so no temporal dynamics or causal pathways between appraisals and engagement can be established.
-- All measures are self-report and subject to social desirability and inaccurate self-assessment; the authors used Harman's single-factor test to check common method variance but did not add observational or multi-source data.
+- The model was tested on 234 [[self-report-measures|self-reported]] survey responses collected at a single time point, so no temporal dynamics or causal pathways between appraisals and engagement can be established.
+- All measures are self-report and subject to social desirability and inaccurate [[self-assessment]]; the authors used Harman's single-factor test to check common method variance but did not add observational or multi-source data.
 - The model covers individual-level factors only, leaving contextual conditions and chatbot design features outside the analysis.
 - Task-embedded survey responses were analyzed as independent units rather than as data nested within individuals, so within- versus between-person effects remain untested.
 

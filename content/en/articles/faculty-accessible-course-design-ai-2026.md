@@ -20,7 +20,7 @@ reviewed_by: [editor]
 
 ## Key Findings
 1. **Awareness was high, implementation uneven.** 77% of 69 respondents were aware of UDL while 21% were unaware, and of 20 commonly used accessibility techniques, four were unfamiliar to more than 20% of respondents.
-2. **Self-assessment ran ahead of practice.** 87% agreed they actively consider accessibility when designing a course and 90% believed they create an accessible learning environment, yet seven of the 20 techniques showed no uptake even among faculty who knew them.
+2. **[[self-assessment]] ran ahead of practice.** 87% agreed they actively consider accessibility when designing a course and 90% believed they create an accessible learning environment, yet seven of the 20 techniques showed no uptake even among faculty who knew them.
 3. **Support was the missing piece.** Just 46% agreed the university offers sufficient resources on making courses more accessible, with 25% disagreeing and 29% neutral.
 4. **Assessment variety and pre-posted materials led implementation.** 88.41% actively offered varied assessment forms and 88.41% posted slideshows before the lecture, while 13 of 20 techniques reached at least 66.7% active or beginning implementation.
 5. **The blind spots are concrete and cheap to fix.** 30.43% had never heard of OCR-readable PDFs, 26.09% of high-contrast slides, and 20.29% of not relying on color alone to distinguish links or text.

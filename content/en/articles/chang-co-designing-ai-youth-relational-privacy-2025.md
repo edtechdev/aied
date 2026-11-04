@@ -21,7 +21,7 @@ page_kind: [framework]
 
 Much of the design of AI-based educational tools has been driven by [[research-methods-aied|researchers]] projecting their own expertise and perspectives, leaving [[agency|youth agency]] limited. This paper contends that designers have a significant ethical responsibility to bring students' dreams and concerns into the design of AI tools starting at conception — a need made urgent as applications like AI-supported collaboration introduce new surveillance vectors into [[k-12]] classroom spaces. Rather than designing *at* students, the authors position youth as co-designers who imagine ideal classroom relationships that AI could support.
 
-The work draws on [[pedagogical-partnerships|youth participatory design]] (Druin), [[human-in-the-loop-ai|human-centered design]], and relational approaches from the learning sciences. Key to their framing is *re-mediation* rather than remediation: shifting youth from a "delegitimized stakeholder" position to a meaningful design partner, and re-imagining the relationships that exist in the institutions being designed for. The workshop, run by the Institute for Student-AI Teaming (iSAT), explicitly communicated the tension between youth's expansive hopes and existing technical expertise.
+The work draws on [[pedagogical-partnerships|youth participatory design]] (Druin), [[human-in-the-loop-ai|human-centered design]], and relational approaches from [[learning-sciences|the learning sciences]]. Key to their framing is *re-mediation* rather than remediation: shifting youth from a "delegitimized stakeholder" position to a meaningful design partner, and re-imagining the relationships that exist in the institutions being designed for. The workshop, run by the Institute for Student-AI Teaming (iSAT), explicitly communicated the tension between youth's expansive hopes and existing technical expertise.
 
 ## The Learning Futures Workshop
 
@@ -29,7 +29,7 @@ The Learning Futures Workshop was held remotely over five days during summer 202
 
 - **Day 3 (Dreaming):** Youth imagined ideal collaboration and how AI might realize it. They surfaced hopes for friendship finders, collaboration matchers based on shared interests, AI that keeps disruptive peers accountable, and an emphasis on "equity not equality" in collaboration.
 - **Day 4 (Data):** Using a custom privacy worksheet, youth considered the embodiment, actions, inferences, and raw data required by their proposed agents — and explicitly what they hoped the AI would *not* do. Discussions revealed discomfort with AI collecting personal data beyond school boundaries and preferences that varied by context and over time.
-- **Day 5 (Enacting):** A modified Theatro activity grounded AI in familiar collaborative scenarios. Youth discovered that some AI possibilities require sharing data with authoritative others (teachers, administrators, parents) to work effectively, even when that violates their privacy preferences.
+- **Day 5 (Enacting):** A modified Theatro activity grounded AI in familiar collaborative scenarios. Youth discovered that some AI possibilities require sharing data with authoritative others (teachers, administrators, [[parents-and-families|parents]]) to work effectively, even when that violates their privacy preferences.
 
 ## Contextual Integrity and Relational Privacy
 
@@ -55,7 +55,7 @@ The framework is instantiated in the Community Builder (CoBi), an AI tool develo
 
 - The participatory workshop worked with a relatively small group of 30 high-school youth (grades 9–12) in a single five-day remote summer 2021 workshop, which the authors describe as a starting point that still requires empirical testing and refinement at greater scale.
 - The authors state the outcomes were focused specifically on extracting factors for collaborative AI systems, and that other AI designs such as personal agents or orchestration agents may require different framings during participatory workshops.
-- The analysis is qualitative, and the authors call for quantitative, large-scale studies as CoBi is implemented across a variety of K-12 contexts.
+- The analysis is qualitative, and the authors call for [[quantitative-research|quantitative]], large-scale studies as CoBi is implemented across a variety of K-12 contexts.
 - Youth privacy preferences were elicited through a custom worksheet and facilitated discussion rather than observed behavior, so the findings rest on what participants said they wanted, not on how they acted.
 
 ## Citation

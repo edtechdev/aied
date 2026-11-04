@@ -22,14 +22,14 @@ page_kind: [framework]
 
 1. Students positioned as active co-creators—providing feedback to improve AI systems—engaged more meaningfully with both the learning task and the underlying technology, with several thanking the AI for helpful feedback and requesting further explanations.
 2. Rubric-based, criterion-by-criterion AI feedback motivated students to revise; one student added five more sentences and sought a second round of feedback to track her improvement, linking [[formative-assessment]] directly to revision effort.
-3. Students valued the interactive, conversational quality of the feedback ("the feedback is like a friend talking to me") and the star-rating system tied to teacher rubric criteria, which scaffolded [[self-regulated-learning]] and motivation.
+3. Students valued the interactive, conversational quality of the feedback ("the feedback is like a friend talking to me") and the star-rating system tied to [[teacher-role|teacher]] rubric criteria, which scaffolded [[self-regulated-learning]] and motivation.
 4. Usability gaps surfaced through think-aloud sessions—challenging vocabulary, delays in feedback generation, and interface issues—demonstrating how [[human-in-the-loop-ai|human-in-the-loop]] methods reveal concrete refinements for AI writing tools.
 
 ## The Thinking Through AI Framework
 
 The framework integrates principles of cyber-social research with cognitive labs and think-aloud protocols to create continuous [[feedback|feedback loops]] in the development and implementation of [[ai-education|AI-driven educational tools]]. It is structured around three core dimensions. The first emphasizes students' [[student-engagement|cognitive engagement]] with AI, encouraging them to think critically about AI processes and provide feedback that refines the system. The second centers on educators' [[learning-design|instructional strategies]], integrating rubrics and knowledge bases so AI tools align with specific learning objectives. The third advances beyond traditional [[usability-research|user experience research (UXR)]] through Learning Experience Research (LXR), promoting the concurrent design of AI tools and learning experiences in collaboration between students, teachers, and developers.
 
-At its heart, the framework treats AI-mediated learning as a [[human-ai-collaboration]] rather than a one-way consumption of outputs, directly addressing concerns about [[cognitive-offloading]] by designing for active engagement instead of passive reliance. The authors position [[ai-literacy]] as a co-design process, where learners and educators shape the very tools they use.
+At its heart, the framework treats AI-mediated learning as a [[human-ai-collaboration]] rather than a one-way consumption of outputs, directly addressing concerns about [[cognitive-offloading]] by designing for active engagement instead of passive reliance. The authors position [[ai-literacy]] as a co-[[design-thinking|design process]], where learners and educators shape the very tools they use.
 
 ## Cognitive Labs and Think-Aloud Protocols
 
@@ -63,13 +63,13 @@ The framework bridges [[usability-research|user experience]] and educational des
 - **Instructors.** Frame the tool as something students critique as well as use — the study attributes deeper engagement to students knowing their feedback would refine the system.
 - **Learners.** Use the comment boxes beneath each rubric criterion to ask the AI to simplify or explain its suggestion; the vocabulary of AI feedback was the recurring usability complaint in this pilot.
 - **Instructors.** Run short think-aloud or over-the-shoulder sessions before wider rollout. These surfaced the vocabulary, feedback-delay, and text-recognition problems the authors then had fixed, and cost far less than a full evaluation.
-- **Instructors.** Pair the rollout with [[educational-development|professional development]] and built-in scaffolding: some students needed extra guidance to navigate the tool, and the authors call for support for learners at different levels of technological proficiency.
+- **Instructors.** Pair the rollout with [[educational-development|professional development]] and built-in [[scaffolding]]: some students needed extra guidance to navigate the tool, and the authors call for support for learners at different levels of technological proficiency.
 
 ## Limitations
 
 - The implementation was a one-time case study at a single rural Alaska middle school of roughly 64 students in grades 6–8; 17 students initially expressed interest, 4 took part in the think-aloud sessions, and 8 completed all data-collection phases, so the analysis rests on 8 students.
 - The four think-aloud participants were selected by the classroom teacher rather than sampled, and the data are students' oral reflections and observations — the study reports no measured writing gains and no comparison condition.
-- The authors state the setting limits generalization: a small and relatively homogeneous rural population, with unclear transfer to urban schools or higher education.
+- The authors state the setting limits generalization: a small and relatively homogeneous rural population, with unclear transfer to urban schools or [[higher-ed|higher education]].
 
 ## Citation
 

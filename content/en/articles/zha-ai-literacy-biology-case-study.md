@@ -42,7 +42,7 @@ This study addresses a persistent gap in [[k-12]] [[ai-education|AI education]]:
 
 ## Limitations
 
-- 37 students in one honors biology class at a single public high school in the southern US, with only 29 submitting both pre- and post-assessments; the authors withhold the data publicly because of the small sample and student privacy.
+- 37 students in one honors biology class at a single public high school in the southern US, with only 29 submitting both pre- and post-assessments; the authors withhold the data publicly because of the small sample and [[privacy|student privacy]].
 - There is no control group — every student received the four AI lessons — and the quantitative results were inconclusive in Lessons 3 and 4, so the context effect rests on interpretation through semantic wave theory.
 - Biology knowledge gains were not statistically significant (p = 0.21), and the transfer–explanation link came from qualitative analysis of 76 worksheet answers (κ = 0.88) that the authors say needs further quantitative testing.
 - A single instructor with over ten years of biology teaching experience and six weeks of summer AI training delivered all four lessons, so instructor effects cannot be separated from the design.

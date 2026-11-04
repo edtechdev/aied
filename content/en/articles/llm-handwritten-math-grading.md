@@ -31,7 +31,7 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 - Student work came from two courses at one large Midwestern research university — a numerical methods course (Course 1, n = 440) and an introductory dynamics course (Course 2, n = 245) — across five open-ended problems, so generalization beyond these contexts is untested.
 - Accuracy depended on both model and question: Gemini-3-flash ranged from 89% rubric-item accuracy on Course 2 to over 99% on Course 1, while GPT-5.1 fell to 87% on a single question (C1-Q1) where students had to handle global sign reversals.
 - The study measures agreement with instructor-defined rubric items, not learning outcomes; students were not exposed to any AI-generated grading during the study, so effects on learning or trust are unknown.
-- Image capture conditions varied by course, and the qualitative error analysis rests on a small number of representative examples (Figure 3) rather than a systematic sample of failures.
+- Image capture conditions varied by course, and the [[qualitative-research|qualitative]] error analysis rests on a small number of representative examples (Figure 3) rather than a systematic sample of failures.
 
 ## Citation
 

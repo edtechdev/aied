@@ -14,7 +14,7 @@ sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high
 ---
 
-> **Synthesis:** The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines [[quantitative-research|quantitative]] comparison of perceived helpfulness/[[trust|trustworthiness]] of [[generative-ai|GenAI]] vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
+> **Synthesis:** The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines [[quantitative-research|quantitative]] comparison of perceived helpfulness/[[trust|trustworthiness]] of [[generative-ai|GenAI]] vs [[teacher-role|teacher]] feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
 
 ## Quantitative findings
 
@@ -40,7 +40,7 @@ The two most frequent comparison themes were the nature of the feedback **inform
 ## What this means for practice
 
 - **Instructors.** Assign GenAI and teacher feedback complementary roles: GenAI for accessible, low-stakes sense-making before submission, and teacher feedback for the contextual, beyond-the-task guidance students say it uniquely provides.
-- **Instructors.** Develop students' evaluative judgment so they can tell whether GenAI comments are trustworthy; only 60.1% rated AI feedback trustworthy versus 90.5% for teacher feedback, and the authors stress this judgment cannot rest on an uninformed impression.
+- **Instructors.** Develop students' [[evaluative-judgment|evaluative judgment]] so they can tell whether GenAI comments are trustworthy; only 60.1% rated AI feedback trustworthy versus 90.5% for teacher feedback, and the authors stress this judgment cannot rest on an uninformed impression.
 - **Instructors.** Close the awareness gap: 28.1% of students who did not use GenAI for feedback did not know it was possible or how to do it, even though 83.9% of those who used it found it helpful.
 - **Administrators.** Support how students engage with GenAI feedback, since 49.7% already self-initiate it, and address the negative tone students associate with teacher feedback (85.3% of negativity codes).
 - **Learners.** Use GenAI feedback to make sense of your work before submission while keeping teacher feedback as the source of course-specific expert judgment — the two are complementary but not interchangeable.
@@ -48,9 +48,9 @@ The two most frequent comparison themes were the nature of the feedback **inform
 ## Limitations
 
 - Cross-sectional survey with an optional response: roughly 8,000 respondents from over 200,000 invited students, which the authors state cannot claim to be representative; 6,960 students answered the feedback items.
-- Helpfulness and trustworthiness are self-reported perceptions, not observed feedback use or measured learning outcomes.
-- All respondents came from four Australian universities, and Australian higher education may differ from other contexts.
-- The survey ran before most students had experienced GenAI feedback grounded in their curriculum or assignment resources, a development the authors expect could change perceptions significantly.
+- Helpfulness and trustworthiness are [[self-report-measures|self-reported]] perceptions, not observed feedback use or measured learning outcomes.
+- All respondents came from four Australian universities, and Australian [[higher-ed|higher education]] may differ from other contexts.
+- The survey ran before most students had experienced GenAI feedback grounded in their [[curriculum-design|curriculum]] or assignment resources, a development the authors expect could change perceptions significantly.
 
 ## Citation
 

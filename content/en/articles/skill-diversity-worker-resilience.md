@@ -63,7 +63,7 @@ Demographically, specialization shows clearer stratification than diversity: men
 
 ## Limitations
 
-The analysis relies on LinkedIn profiles that over-represent digitally engaged and highly skilled occupations; listed skills are self-reported and may capture signaling as well as actual capabilities; the skill network depends on modeling choices including pruning, community detection, and the measurement of hierarchy through local reaching centrality; and the results remain associational rather than causal despite lagged explanatory variables and extensive controls. The diversity frontier should be interpreted as a relative measure of portfolio structure rather than an independent dimension of human capital.
+The analysis relies on LinkedIn profiles that over-represent digitally engaged and highly skilled occupations; listed skills are [[self-report-measures|self-reported]] and may capture signaling as well as actual capabilities; the skill network depends on modeling choices including pruning, community detection, and the measurement of hierarchy through local reaching centrality; and the results remain associational rather than causal despite lagged explanatory variables and extensive controls. The diversity frontier should be interpreted as a relative measure of portfolio structure rather than an independent dimension of human capital.
 
 ## Citation
 

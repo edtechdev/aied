@@ -38,7 +38,7 @@ The review deliberately separates what the studies found from what the authors r
 
 - The evidence base is small and uneven: several categories rest on very few studies (agentic AI systems, n = 4; image and biological data, n = 1 each), so the reported frequencies are indicative rather than representative.
 - Publication bias applies, since studies reporting successful implementations are more likely to be published, and the exclusion of preprints and non-English publications further limits coverage.
-- AI in education is developing rapidly and the search was completed in October 2025, so the distribution reported is a snapshot of the literature at that point rather than a stable characterization of the field.
+- [[ai-education|AI in education]] is developing rapidly and the search was completed in October 2025, so the distribution reported is a snapshot of the literature at that point rather than a stable characterization of the field.
 - The review synthesizes how systems were designed and described by their authors, not how lecturers used them; its socio-technical reading therefore concerns the informational conditions these systems create, not their effects on decision-making. The taxonomy describes how the literature is distributed, not causal relationships established by the included studies.
 
 ## Citation

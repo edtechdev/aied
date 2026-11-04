@@ -52,9 +52,9 @@ Then change the artifact. A 72-study [[meta-analysis-systematic-review|systemati
 
 The menu, roughly in order of how well each option survives a large class.
 
-Unassisted, in class, closed book: proctored exams, quizzes, timed writing. Weight these more heavily than you used to, because homework is the artifact AI inflates. Oral examinations and defenses work for the same reason, since real-time dialogue is hard to outsource ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Unassisted, in class, closed book: proctored exams, quizzes, timed writing. Weight these more heavily than you used to, because homework is the artifact AI inflates. [[oral-assessment|Oral examinations]] and defenses work for the same reason, since real-time dialogue is hard to outsource ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Process artifacts: drafts, reasoning traces, annotated "show your thinking," revision logs, so the *process* is visible instead of only the product ([[authentic-products-authenticated-processes-2026]]). Authentic tasks work alongside them: local cases, internship material, the student's own data, anything hard to delegate ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Process artifacts: drafts, reasoning traces, annotated "show your thinking," revision logs, so the *process* is visible instead of only the product ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Authentic tasks]] work alongside them: local cases, internship material, the student's own data, anything hard to delegate ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Per-student task variation, where each student gets a surface-distinct but construct-equivalent version, makes copying structurally useless. Treat the guarantee as capability-conditional: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] found frontier generators reaching only 0.81-0.88 on a joint integrity score while non-frontier models collapse to 0.50-0.55. If your variants are not equivalent, you have bought protection against sharing with unfairness between students.
 
@@ -92,7 +92,7 @@ Write the rule precisely too. [[wright-transcription-not-generation-2026|Wright 
 
 Banning the tool and permitting it without structure produce the same outcome, which is students standing outside the cognitive work.
 
-The Reducing AI Misuse synthesis sets out eight design principles for the permitted version, including: preserve [[desirable-difficulties|cognitive friction]], position AI as a provisional thinking partner rather than an authority, embed evaluation checkpoints, and require [[metacognition|metacognitive]] journaling and prompt logs.
+The Reducing AI Misuse synthesis sets out eight design principles for the permitted version, including: preserve [[desirable-difficulties|cognitive friction]], position AI as a provisional thinking partner rather than an authority, embed evaluation checkpoints, and require [[metacognition|metacognitive]] [[reflection|journaling]] and prompt logs.
 
 The sequence that carries those principles is short enough to print on an assignment sheet:
 
@@ -118,7 +118,7 @@ The measured example is a [[k-12]] module using scenario-based prompt practice w
 
 What students actually believe is less cynical than the panic suggests. Among 504 sociology students, 65% had used generative AI for coursework, but only 3% to generate assignment text and 2% to generate a full draft. 81% had received some AI guidance and only 46% found it very clear ([[student-genai-use-views-writing]]). Ambiguity, not defiance, is the practical problem, which is why a clear rule plus a taught sequence shifts more behavior than a warning does. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] describe students asking whether generative AI is a tool that facilitates cheating or a partner that supports learning, and that question is what your expectations should answer.
 
-The harm worth teaching explicitly is the [[ai-misuse-learning-harm|performance-learning gap]]: performance rises now, learning falls later, and the student experiences only the first. [[ai-tools-academic-work-cheating-2026]] and [[student-rationalization-ai-writing]] cover the peer-norm and rationalization side, including the "everyone is doing it" defense that a clear norm deflates. For how strong this base is, see [[ai-literacy-evidence]] and [[top-10-findings-ai-education-instructors]].
+The harm worth teaching explicitly is the [[ai-misuse-learning-harm|performance-learning gap]]: performance rises now, learning falls later, and the [[student-experience|student experiences]] only the first. [[ai-tools-academic-work-cheating-2026]] and [[student-rationalization-ai-writing]] cover the peer-norm and rationalization side, including the "everyone is doing it" defense that a clear norm deflates. For how strong this base is, see [[ai-literacy-evidence]] and [[top-10-findings-ai-education-instructors]].
 
 ## What instructors get wrong about this
 

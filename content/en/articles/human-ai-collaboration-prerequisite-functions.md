@@ -21,7 +21,7 @@ page_kind: [framework]
 ## Key Findings
 
 - The chapter reconstructs the requirements that a situation, an interaction, and a set of cognitive processes have historically had to meet before being called collaborative, returning to longstanding accounts of [[collaborative-learning]].
-- **True human-AI collaboration** requires a partly symmetric and negotiated relationship, shared and negotiable goals, a low and shifting division of labor, interactive and synchronous exchange, and mutual modeling, grounding, and socially shared [[regulation]].
+- **True [[human-ai-collaboration|human-AI collaboration]]** requires a partly symmetric and negotiated relationship, shared and negotiable goals, a low and shifting division of labor, interactive and synchronous exchange, and mutual modeling, grounding, and socially shared [[regulation]].
 - Reviewing process-sensitive empirical studies of writing and [[problem-solving|problem solving]], the author shows that **most current human-AI interaction is better described as consultation, governance, delegation, or instruction** rather than collaboration.
 - The chapter introduces a **five-level diagnostic taxonomy of human-AI teaming — transactional, situational, operational, praxical, and synergistic** — defined by the affordances an AI system exhibits, with only the highest level beginning to satisfy the conditions the tradition places on collaboration.
 - The author argues that most of the **prerequisite functions** an AI must possess for collaboration are present-day engineering choices rather than capabilities to be awaited.
@@ -32,15 +32,15 @@ The taxonomy runs from **transactional** interactions (discrete, affordance-poor
 
 ## What this means for practice
 
-- **Instructors.** Check which affordance you are actually claiming before calling a tool a collaborator: the levels are coded from observable behavior ("does the system do X?"), so a one-shot lesson-plan chatbot is transactional while a system that adapts to your enacted practice is praxical — different interaction types with different evaluative criteria.
-- **Instructors.** Escalate deliberately rather than by default, and warn against inflating the construct into a slogan: co-reasoning costs attention, time, and trust, and a randomized controlled trial of situational-level real-time tutor guidance raised students' topic mastery by four percentage points overall and by nine for the students of lower-rated tutors — many routine tasks rightly belong at the transactional or operational level.
+- **Instructors.** Check which affordance you are actually claiming before calling a tool a collaborator: the levels are coded from observable behavior ("does the system do X?"), so a one-shot lesson-plan [[conversational-ai|chatbot]] is transactional while a system that adapts to your enacted practice is praxical — different interaction types with different evaluative criteria.
+- **Instructors.** Escalate deliberately rather than by default, and warn against inflating the construct into a slogan: co-reasoning costs attention, time, and trust, and a [[rct|randomized controlled trial]] of situational-level real-time tutor guidance raised students' topic mastery by four percentage points overall and by nine for the students of lower-rated tutors — many routine tasks rightly belong at the transactional or operational level.
 - **Learners.** Reserve "collaboration" for interactions in which the AI can offer reasons of its own and revise only when the argument warrants; a system that asks why you acted but always defers has the surface of reason-eliciting dialogue without revision authority.
 - **Designers.** Treat the prerequisite functions — shared and negotiable goals, mutual modeling, grounding, and shared [[regulation]] — as present-day engineering choices rather than capabilities to be awaited, and use the taxonomy as a specification of design targets for [[intelligent-tutoring|AI tutoring]] and [[collaborative-learning]] environments.
-- **Researchers.** Measure collaboration in the trajectory of the human–AI unit rather than in output quality or user satisfaction: a systematic review of 105 empirical studies of AI-assisted decision-making found the observed interactions dominated by simplistic accept-or-reject paradigms.
+- **Researchers.** Measure collaboration in the trajectory of the human–AI unit rather than in output quality or user satisfaction: a [[meta-analysis-systematic-review|systematic review]] of 105 empirical studies of AI-assisted decision-making found the observed interactions dominated by simplistic accept-or-reject paradigms.
 
 ## Limitations
 
-- This is a conceptual chapter built from longstanding learning-sciences accounts of collaboration, process-sensitive empirical studies of writing and problem solving, and prior systematic reviews; it reports no new sample, intervention, or dataset of its own.
+- This is a conceptual chapter built from longstanding [[learning-sciences]] accounts of collaboration, process-sensitive empirical studies of writing and problem solving, and prior systematic reviews; it reports no new sample, intervention, or dataset of its own.
 - The five-level taxonomy is a proposal advanced with colleagues and defined by observable affordances, and the chapter reports no inter-rater reliability, external validation, or empirical test of the level boundaries it argues over.
 - The taxonomy is explicitly a map of affordances rather than a quality ranking — higher is not uniformly better — so it cannot be used to score systems on a single quality scale.
 - Claims about what current AI can do rest on published studies of particular systems and on observable behavior, because architectural claims about proprietary models often cannot be verified.

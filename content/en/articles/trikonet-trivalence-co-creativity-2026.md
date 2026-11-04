@@ -39,7 +39,7 @@ TriKoNet allows diagnosing the extent to which technical artifacts stabilize, de
 - The empirical base is small and exploratory: 18 recruited students formed into 9 pairs, one pair dissolved before analysis, leaving n = 8 groups.
 - Recruitment ran through invitations to subject representatives and active student registration rather than randomization, and the sought balance of humanities, social-science, and natural-science students was not enforced.
 - The triadic Dreamer–Critic–Realist structure is analytically constructed, and the paper states its validity for natural creativity processes still requires investigation.
-- Qualitative evidence comes from single sessions of about 90 minutes plus 132 pages of interview transcripts and Miro boards, and the paper notes that the framework organizing its own analysis stayed implicit while other actants were reconstructed explicitly.
+- [[qualitative-research|Qualitative]] evidence comes from single sessions of about 90 minutes plus 132 pages of interview transcripts and Miro boards, and the paper notes that the framework organizing its own analysis stayed implicit while other actants were reconstructed explicitly.
 
 ## Citation
 Ruhland, C. (2026). [*TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks*](https://osf.io/preprints/edarxiv/bfv2d). EdArXiv preprint.

@@ -14,7 +14,7 @@ sources: ['raw/papers/rook-plumb-genai-curricula-student-insights-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University [[teacher-role|Teaching]] and Learning Practice* 23(2). A [[qualitative-research|qualitative]] survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds student voice on the role of [[generative-ai|generative AI]] in academic learning and career readiness, finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimizing GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability.
+> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University [[teacher-role|Teaching]] and Learning Practice* 23(2). A [[qualitative-research|qualitative]] survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds [[student-experience|student voice]] on the role of [[generative-ai|generative AI]] in academic learning and [[career-development-and-readiness|career readiness]], finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimizing GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ confidence: medium
 
 ## Study Design & Method
 
-- **Sample & context.** Anonymous qualitative survey (Qualtrics) administered in 2024 to a final-year undergraduate capstone unit (222 enrolled) in the business school of a regional Australian university, covering HRM, finance, marketing, international business, economics, management, public relations, law, and accounting. Open-ended responses from **166 students** (of 222) were analyzed; the university had not yet implemented specific GenAI teaching policies.
+- **Sample & context.** Anonymous qualitative survey (Qualtrics) administered in 2024 to a final-year undergraduate capstone unit (222 enrolled) in the [[business-education|business school]] of a regional Australian university, covering HRM, finance, marketing, international business, economics, management, public relations, law, and accounting. Open-ended responses from **166 students** (of 222) were analyzed; the university had not yet implemented specific GenAI teaching policies.
 
 - **Purposive sampling & ethics.** Purposive sampling was used to select participants able to illuminate GenAI perceptions; ethics approval from University of Wollongong (Approval No. 2023/286). To preserve anonymity, the first author (also unit coordinator) had no access to identifiable data; the second author de-identified all responses prior to analysis.
 

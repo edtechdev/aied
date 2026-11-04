@@ -27,7 +27,7 @@ institutions: [governance]
 The framework organizes student-facing guidance around three jointly necessary pillars:
 
 1. **Learning and Growth** — guidelines that help students use AI to deepen learning rather than bypass it, supporting [[self-regulated-learning]] and [[metacognition]].
-2. **Ethics and Integrity** — guidelines addressing [[academic-integrity]], attribution, and the honest disclosure of AI use.
+2. **Ethics and Integrity** — guidelines addressing [[academic-integrity]], attribution, and the honest [[ai-use-disclosure|disclosure of AI use]].
 3. **Awareness and Safety** — guidelines covering [[critical-thinking|critical evaluation]] of AI output, privacy, and awareness of the limits and risks of generative tools.
 
 The argument is that the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode of unguided AI use. Because unguided use can weaken the [[metacognition|metacognitive]] prompts that support responsible decisions, the portable set of guidelines works by externalizing those prompts into explicit, actionable checks at the point of decision.
@@ -42,7 +42,7 @@ Compared with policy guidance, institutional frameworks, assessment scales, and 
 - **Learners.** Have a route to human help when a task's acceptability is genuinely ambiguous — Guideline 7 assumes an instructor who can be asked — rather than resolving the ambiguity alone.
 - **Educators.** Circulate student-facing guidance alongside institutional policy, since existing policy speaks to administrators, instructors, and assessment designers while students make the frequent, independent decisions.
 - **Instructional designers.** Embed the guidelines as a course-agnostic decision aid and expect the largest benefit for students with the least prior AI exposure, testing that directly rather than assuming it.
-- **Instructional designers.** Evaluate the framework with behavioral or artifact-based measures wherever both are available, because self-reported AI use is vulnerable to social desirability bias.
+- **Instructional designers.** Evaluate the framework with behavioral or artifact-based measures wherever both are available, because [[self-report-measures|self-reported]] AI use is vulnerable to social desirability bias.
 
 ## Limitations
 

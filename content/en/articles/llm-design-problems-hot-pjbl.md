@@ -38,7 +38,7 @@ The study triangulates three perspectives: instructor perceptions (surveys with 
 - **Instructors.** Frame DPs as transfer tasks in novel scenarios and say how much scope is expected, because open-ended demand creates a student-expert feasibility gap: students rated Feasibility lowest of the five criteria (M = 3.63, 14% disagreeing) while experts rated the same prompts at 0.94 or above.
 - **Instructors.** Administer DPs on screen rather than on paper when the rubric rewards justification: the paper-based course averaged 44.80 words and 3.93/8, against 126.04 words and 6.64/8 and 154.80 words and 7.60/8 in the two web-based courses, and word count correlated with DP grade (ρ = 0.67).
 - **Designers.** Budget instructor review into any generation pipeline instead of shipping model output as final: only 40/80 generated DPs (50%) drew perfect scores from both raters, and the rest included 13/80 too close to the original project, 16/80 ambiguous in scope, and 4/80 that lowered cognitive demand with an obvious solution path.
-- **Designers.** Prompt a reasoning-oriented model by default — it beat the standard model on scenario quality (0.97 vs. 0.77, p < 0.001, d = 0.88) and feasibility (1.00 vs. 0.94, p = 0.018) — but keep human review in the loop, since students rated the two model types identically and student–expert agreement on the 39 shared DPs was κ = −0.11.
+- **Designers.** Prompt a reasoning-oriented model by default — it beat the standard model on scenario quality (0.97 vs. 0.77, p < 0.001, d = 0.88) and feasibility (1.00 vs. 0.94, p = 0.018) — but keep [[human-in-the-loop-ai|human review]] in the loop, since students rated the two model types identically and student–expert agreement on the 39 shared DPs was κ = −0.11.
 
 ## Limitations
 

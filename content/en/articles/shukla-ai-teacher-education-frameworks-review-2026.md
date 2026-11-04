@@ -35,11 +35,11 @@ ai_assist:
 
 1. **The corpus holds seven sources, not seven studies.** Three framework or guidance documents and five empirical studies make the corpus, with Prilop et al. (2025) counted twice because it also reports survey data.
 2. **Frameworks converge on ethics and diverge on instruction.** TPACK extensions, the UNESCO framework's 15 competencies and the triadic account all treat AI knowledge as more than technical operation, but none specifies instruction.
-3. **Adoption is uneven and narrow.** In a Finnish pilot (N = 77), 27 percent of pre-service teachers had never used generative AI, and users concentrated on ideation rather than adaptive or self-regulated learning uses.
+3. **Adoption is uneven and narrow.** In a Finnish pilot (N = 77), 27 percent of pre-service teachers had never used generative AI, and users concentrated on ideation rather than adaptive or [[self-regulated-learning|self-regulated learning]] uses.
 4. **Guided critique recalibrates confidence.** Among 59 pre-service teachers, confidence that ChatGPT could write complete, sufficiently detailed lesson plans fell significantly after guided analysis, and participants then treated it as a starting point needing revision.
 5. **Personal use does not produce pedagogical thinking.** In the Irish study, personal and academic use of generative AI was more frequent than lesson-planning use and showed no significant correlation with perceived educational opportunities.
-6. **Teacher educators' own use shapes their views.** A Danish survey (n = 91) found generative AI use mediated the link between motivation and confidence and perceived potential, and educators requested formal and informal development.
-7. **No study measured learning.** Dependent variables across the five empirical studies were perceptions, intentions, readiness and self-reported use; none assessed lesson-plan quality, pupil learning, or change in practice over time.
+6. **[[teacher-role|Teacher]] educators' own use shapes their views.** A Danish survey (n = 91) found generative AI use mediated the link between motivation and confidence and perceived potential, and educators requested formal and informal development.
+7. **No study measured learning.** Dependent variables across the five empirical studies were perceptions, intentions, readiness and [[self-report-measures|self-reported]] use; none assessed lesson-plan quality, pupil learning, or change in practice over time.
 
 ## What the reviewer searched and what it produced
 

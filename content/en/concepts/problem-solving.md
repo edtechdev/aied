@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-01T09:12:59-05:00"
+updated: "2026-11-04T12:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -37,7 +37,7 @@ On the measurement side, [[llm-computational-thinking-physics-2026|LLMs can mirr
 
 ### How AI both helps and hinders
 
-The dual character of AI for problem solving is consistent across studies. On the helping side, [[conversational-ai|chatbots]] outperform search engines for problem posing by improving question quality and integrating cognitive networks; adaptive scaffolds improve performance; and collaborative AI designs raise both [[critical-thinking|critical thinking]] and problem-solving scores while students remain primary decision-makers. On the hindering side, over-delegation reduces regulatory engagement, direct feedback without reflection encourages passive uptake, and heavy reliance on AI to build consensus threatens interpersonal skill development and [[motivation|intrinsic motivation]]. Notably, [[genai-feedback-design-multisite-experiment|a multisite randomized experiment]] found that reflective and hybrid feedback designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed, AI-free transfer — evidence that AI's educational value depends less on access than on preserving [[agency|student agency]], evaluative judgment, and ownership during revision. Design principles emerging from the literature include prioritizing dialogic tension over seamless efficiency, enabling proactive co-regulation, and keeping metacognitive scaffolding and "mind-in-the-loop" oversight.
+The dual character of AI for problem solving is consistent across studies. On the helping side, [[conversational-ai|chatbots]] outperform search engines for problem posing by improving question quality and integrating cognitive networks; adaptive scaffolds improve performance; and collaborative AI designs raise both [[critical-thinking|critical thinking]] and problem-solving scores while students remain primary decision-makers. On the hindering side, over-delegation reduces regulatory engagement, direct feedback without reflection encourages passive uptake, and heavy reliance on AI to build consensus threatens interpersonal skill development and [[motivation|intrinsic motivation]]. Notably, [[genai-feedback-design-multisite-experiment|a multisite randomized experiment]] found that reflective and hybrid feedback designs beat direct [[ai-feedback-quality|AI feedback]] on transfer measured later and without AI — evidence that AI's educational value depends less on access than on preserving [[agency|student agency]], [[evaluative-judgment|evaluative judgment]], and ownership during revision. Design principles emerging from the literature include prioritizing dialogic tension over seamless efficiency, enabling proactive co-regulation, and keeping metacognitive scaffolding and "mind-in-the-loop" oversight.
 
 ### Implications
 
@@ -60,7 +60,7 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 
 **"AI that helps students explore perspectives is helping them think."** The same behavior supports two very different outcomes: AI tools help students explore multiple perspectives and generate their own problems, and they can also encourage metacognitive laziness. The distinguishing question is whether the student is doing the framing or receiving it — a system that supplies candidate perspectives has performed the generative step the exercise existed to demand.
 
-**"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A curriculum that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
+**"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A [[curriculum-design|curriculum]] that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
 
 **"Simulation of collaborative problem solving is a substitute for the collaboration."** A simulation reproduces the interaction pattern, and the skill being developed is the regulation of a joint problem by participants who are actually present. Participant-specific agents that model real collaborators are a research instrument for studying that regulation — useful for what they reveal about the process, not a way to give students the practice without the peers.
 

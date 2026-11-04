@@ -43,7 +43,7 @@ confidence: high
 
 - The study draws on 33 semi-structured interviews—21 students and 12 academic staff—recruited through a conference group of the Jiangxi Provincial University Alliance, with no demographic criteria beyond prior Gen-AI experience, so the sample is self-selected.
 - All participants came from one province (Jiangxi), chosen partly because it is a researcher's home region with convenient local contacts, and the interviews ran only from December 2024 to January 2025.
-- The evidence is participants' accounts of their own thinking and conduct rather than any measured change in critical thinking or integrity, so the cognitive-inertia finding is perceptual rather than demonstrated.
+- The evidence is participants' accounts of their own thinking and conduct rather than any measured change in [[critical-thinking|critical thinking]] or integrity, so the cognitive-inertia finding is perceptual rather than demonstrated.
 
 ## Citation
 

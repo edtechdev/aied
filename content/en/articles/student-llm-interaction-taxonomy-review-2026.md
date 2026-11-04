@@ -19,7 +19,7 @@ methods: [research-methods-aied, meta-analysis-systematic-review]
 
 1. Across 46 categorizations extracted from 33 studies, the literature shows no shared meta-characteristic (Nickerson et al.'s term) for what student–LLM interaction categories describe — studies variously classify outputs, intentions, activities, dialogue moves, and strategies, so similar labels often name different phenomena and vice versa.
 2. Four recurring taxonomy types emerge: **Type A** (output/product), **Type B** (function/activity), **Type C** (dialogue move), and **Type D** (strategy/pattern). Type B dominates the corpus while Type D is least common, indicating most research abstracts away from concrete interaction sequences.
-3. Category construction is heterogeneous: roughly 43.5% of taxonomies were built inductively, 32.6% ad hoc, and 23.9% deductively, split about evenly between self-report and interaction-log data — so categories often reflect the measurement approach as much as the interaction itself.
+3. Category construction is heterogeneous: roughly 43.5% of taxonomies were built inductively, 32.6% ad hoc, and 23.9% deductively, split about evenly between [[self-report-measures|self-report]] and interaction-log data — so categories often reflect the measurement approach as much as the interaction itself.
 4. The authors propose a hierarchical taxonomy of *interaction episodes* — goal-directed, temporally bounded sequences of observable exchange between student and system — with six broad classes: knowledge acquisition, evaluative feedback, strategic guidance, dialogic inquiry, artifact refinement, and co-[[regulation]].
 5. The episode-level unit occupies an intermediate level between isolated dialogue moves and broad cross-task strategies, connecting observable [[student-ai-interaction]] behavior to established learning processes and enabling future integration with [[learning-analytics]] and [[adaptive-learning|adaptive systems]].
 
@@ -41,7 +41,7 @@ To integrate these divergent categorizations, the review adopts the *interaction
 
 ## Toward a Shared Taxonomy
 
-The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The authors situate these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM [[student-engagement|engagement]] produces learning rather than mere completion. They position the taxonomy as complementary to other pathways toward convergence: meta-theoretical frameworks distinguishing learning- versus performance-oriented engagement, application of established theories such as ICAP and Bloom, and new AI-specific theories like [[yan-agentivism-learning-theory-ai-2026|Agentivism]]. Integrating interaction taxonomies with [[learning-analytics]] and adaptive educational systems is identified as a promising direction for correlating instructional dialogue acts with rates of skill acquisition and [[learning-gains]].
+The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The authors situate these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM [[student-engagement|engagement]] produces learning rather than mere completion. They position the taxonomy as complementary to other pathways toward convergence: meta-[[theories-and-frameworks|theoretical frameworks]] distinguishing learning- versus performance-oriented engagement, application of established theories such as ICAP and Bloom, and new AI-specific theories like [[yan-agentivism-learning-theory-ai-2026|Agentivism]]. Integrating interaction taxonomies with [[learning-analytics]] and adaptive educational systems is identified as a promising direction for correlating instructional dialogue acts with rates of skill acquisition and [[learning-gains]].
 
 ## What this means for practice
 
@@ -54,7 +54,7 @@ The lack of shared terminology motivates a convergent taxonomy of learning-orien
 ## Limitations
 
 - The rapid design relied on a single database (Scopus), pragmatically screened the 200 highest-ranked of 326 records, and supplemented the search with four author-identified studies, yielding 33 studies and 46 categorizations that should be read as selective rather than exhaustive.
-- The reviewed literature was concentrated in higher education and drawn from a rapidly changing period (2021–2025).
+- The reviewed literature was concentrated in [[higher-ed|higher education]] and drawn from a rapidly changing period (2021–2025).
 - The proposed taxonomy was synthesized from reported categorizations and grounded in established frameworks rather than validated against an independent corpus of learner–LLM dialogues, so its coverage, episode boundaries, and coding reliability still require empirical examination.
 
 ## Citation

@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Yuan, Yang, Zhao and Li test a [[self-determination-theory|self-determination]] account of why teachers adopt [[generative-ai|generative AI]], surveying 146 teachers who had just finished a GenAI learning program and modeling competence, autonomy and relatedness as antecedents of [[motivation|intrinsic motivation]], with engagement in professional development as the bridge to intention. Only competence survives: it predicts intrinsic motivation at β = 0.308, while autonomy (β = 0.177, p = 0.544) and relatedness (β = 0.392, p = 0.256) do not, nulls the authors attribute partly to a 146-person sample and to careers long on experience. Motivation then carries the model, predicting engagement at β = 0.720 and intention at β = 0.444, with a significant indirect path through engagement (0.233 [0.025, 0.591]) and 50.9% of intention variance explained. Read against [[teacher-ai-competency|teacher AI competency]] work, the practical reading is that [[teacher-role|teacher role]] confidence, not permission or collegiality, is the lever this sample responds to, and that [[student-engagement|engagement]] in training is where motivation becomes adoption.
+> **Synthesis:** Yuan, Yang, Zhao and Li test a [[self-determination-theory|self-determination]] account of why teachers adopt [[generative-ai|generative AI]], surveying 146 teachers who had just finished a GenAI learning program and modeling competence, autonomy and relatedness as antecedents of [[motivation|intrinsic motivation]], with engagement in [[educational-development|professional development]] as the bridge to intention. Only competence survives: it predicts intrinsic motivation at β = 0.308, while autonomy (β = 0.177, p = 0.544) and relatedness (β = 0.392, p = 0.256) do not, nulls the authors attribute partly to a 146-person sample and to careers long on experience. Motivation then carries the model, predicting engagement at β = 0.720 and intention at β = 0.444, with a significant indirect path through engagement (0.233 [0.025, 0.591]) and 50.9% of intention variance explained. Read against [[teacher-ai-competency|teacher AI competency]] work, the practical reading is that [[teacher-role|teacher role]] confidence, not permission or collegiality, is the lever this sample responds to, and that [[student-engagement|engagement]] in training is where motivation becomes adoption.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ source_depth: full text
 
 ## Summary
 
-The study asks a narrow question with a wide literature behind it: which internal conditions make teachers want to use [[generative-ai|GenAI]], and does that wanting travel through professional learning? Yuan and colleagues answer with a cross-sectional survey of teachers enrolled in MindMate, a conversational AI module inside the MindGraph platform that the research team itself developed and operates. Participants used the tool to generate instructional activities and revise designs, then completed a questionnaire after the program. The framework is [[self-determination-theory|SDT]]: competence, autonomy and relatedness, each operationalized for GenAI use, feeding [[motivation|intrinsic motivation]], which feeds engagement and intention to use. Twenty-two items measured six constructs on five-point scales, reduced to 18 after factor analysis; paths were estimated in R with 5,000 bootstrap resamples.
+The study asks a narrow question with a wide literature behind it: which internal conditions make teachers want to use [[generative-ai|GenAI]], and does that wanting travel through professional learning? Yuan and colleagues answer with a cross-sectional survey of teachers enrolled in MindMate, a [[conversational-ai|conversational AI]] module inside the MindGraph platform that the research team itself developed and operates. Participants used the tool to generate instructional activities and revise designs, then completed a questionnaire after the program. The framework is [[self-determination-theory|SDT]]: competence, autonomy and relatedness, each operationalized for GenAI use, feeding [[motivation|intrinsic motivation]], which feeds engagement and intention to use. Twenty-two items measured six constructs on five-point scales, reduced to 18 after factor analysis; paths were estimated in R with 5,000 bootstrap resamples.
 
 ## Study Design and Method
 
@@ -50,19 +50,19 @@ The headline is the asymmetry. Competence carried the motivational load, fitting
 
 ## Why engagement is the interesting mediator
 
-The mediation result is the paper's more practical contribution. Intrinsic motivation predicts engagement strongly (β = 0.720) and engagement predicts intention (β = 0.324), with a direct path of 0.444 still present, so engagement partly carries and partly supplements the motivational effect. Engagement is also the one variable a school can design for: training content, collaborative tasks and expert guidance are levers; competence beliefs are not. The authors recommend training differentiated by technological literacy, plus communities that move beyond atmosphere to joint exploration of pedagogical value. Causal ordering is untested: all three were measured once, so the reverse reading, that teachers who intend to use GenAI engage more in training, is not excluded.
+The mediation result is the paper's more practical contribution. Intrinsic motivation predicts engagement strongly (β = 0.720) and engagement predicts intention (β = 0.324), with a direct path of 0.444 still present, so engagement partly carries and partly supplements the motivational effect. Engagement is also the one variable a school can design for: training content, collaborative tasks and expert guidance are levers; competence beliefs are not. The authors recommend training differentiated by technological literacy, plus communities that move beyond atmosphere to joint exploration of [[pedagogy|pedagogical]] value. Causal ordering is untested: all three were measured once, so the reverse reading, that teachers who intend to use GenAI engage more in training, is not excluded.
 
 ## What this means for practice
 
 - **Instructors.** Treat your own engagement in training as the operative variable: intention ran through engagement (β = 0.233 indirect), so a passively attended program is unlikely to change [[teacher-role|practice]].
-- **Faculty developers.** Build competence first: only perceived competence moved intrinsic motivation, so hands-on mastery of specific GenAI tasks for lesson planning beats philosophical framing or autonomy rhetoric.
+- **Faculty developers.** Build competence first: only perceived competence moved intrinsic motivation, so hands-on mastery of specific GenAI tasks for lesson planning beats [[philosophy-of-ai-in-education|philosophical]] framing or autonomy rhetoric.
 - **Administrators.** Do not assume collegial support substitutes for capability: relatedness did not predict motivation here, and 90.4% of these teachers were in public schools where autonomy is already high.
 - **Researchers.** Replicate the need paths with samples that can distinguish autonomy from relatedness (HTMT = 0.905), and add a pre-post or longitudinal design before treating engagement as causal.
 
 ## Limitations
 
 - The sample is 146 teachers from one MindMate program, 69.9% men and 63.7% with over ten years of experience, so power to detect smaller need effects is limited and the nulls ambiguous.
-- Motivation, engagement and intention were self-reported at one post-program occasion, with no behavioral measure of GenAI use in teaching.
+- Motivation, engagement and intention were [[self-report-measures|self-reported]] at one post-program occasion, with no behavioral measure of GenAI use in teaching.
 - Autonomy and relatedness were barely distinguishable (HTMT = 0.905), so their separate null paths rest on a distinction the data do not strongly support.
 - Engagement was measured with two items (Spearman-Brown 0.874), which limits construct coverage for the variable carrying the mediation.
 

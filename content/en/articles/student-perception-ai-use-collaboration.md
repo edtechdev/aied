@@ -17,7 +17,7 @@ confidence: medium
 
 ## What this means for practice
 
-- **Learners.** Treat your sense of a partner's AI use as a hypothesis rather than knowledge: the median correlation between a perceiver's estimates and their own self-reported usage profile was r = .73 at both waves, so most apparent awareness was projection.
+- **Learners.** Treat your sense of a partner's AI use as a hypothesis rather than knowledge: the median correlation between a perceiver's estimates and their own [[self-report-measures|self-reported]] usage profile was r = .73 at both waves, so most apparent awareness was projection.
 - Make AI use discussable at the start of a project. Greater misalignment in the first wave was associated with lower final project scores, and later alignment did not offset that association.
 - Do not count on sitting side by side to correct the picture: alignment improved significantly only across the whole project (W = 2292, p = .003), 25% of teams became worse at judging their teammates, and rank accuracy for AI use type was r = 0.34 at t2 and r = .27 at t3.
 - If your [[cs-education|programming]] background is thinner, be especially explicit about your AI reliance — the misalignment–performance association was substantially stronger for teams with lower prior programming performance and negligible for high-performing teams.

@@ -14,7 +14,7 @@ sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high
 ---
 
-> **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualization in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
+> **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *[[visualization|Data Visualization]] in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty [[anxiety-and-stress|anxiety]] about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
 > - **pre-GenAI** (2019–2020, n = 3 cohorts)
 > - **GenAI-available** (2023–2024, n = 3) — GenAI present but no [[pedagogy|pedagogical]] adaptation; some students used it, often ineffectively/unethically
 > - **GenAI-integrated** (2025, n = 2) — explicit instruction + encouragement to use GenAI on the *applied* portion; GenAI banned on the *knowledge* portion (paper quiz)

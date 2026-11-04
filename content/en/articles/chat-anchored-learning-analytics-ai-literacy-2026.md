@@ -14,7 +14,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Moon (2026) develops a Cultural-Historical Activity Theory (CHAT)-anchored [[learning-analytics|learning analytics]] pipeline that couples three facets — temporal participation, discourse quality, and concept sophistication — each mapped to CHAT activity-system elements, to support early detection and social-epistemic integration in small discussion-based [[ai-literacy|AI literacy]] classes. Deployed in a five-week AI literacy course (n = 25; 438 posts), DTW-based k-medoids clustering identified two stable participation archetypes (validated via bootstrap silhouette analysis); discourse quality showed modest lexical gains while reasoning depth stagnated and overall concept sophistication declined (Δz = –1.24). An Isolation-Forest detector flagged Week 2 volatility two weeks before participation decline, and automated discourse-quality scores converged with human-coded [[icap-framework|ICAP]] levels. The study demonstrates how a theory-aware, effect-size-centered workflow delivers interpretable insights and early warnings in a single small class without network-reconstruction overhead.
+> **Synthesis:** Moon (2026) develops a [[sociocultural-learning|Cultural-Historical Activity Theory]] (CHAT)-anchored [[learning-analytics|learning analytics]] pipeline that couples three facets — temporal participation, discourse quality, and concept sophistication — each mapped to CHAT activity-system elements, to support early detection and social-epistemic integration in small discussion-based [[ai-literacy|AI literacy]] classes. Deployed in a five-week AI literacy course (n = 25; 438 posts), DTW-based k-medoids clustering identified two stable participation archetypes (validated via bootstrap silhouette analysis); discourse quality showed modest lexical gains while reasoning depth stagnated and overall concept sophistication declined (Δz = –1.24). An Isolation-Forest detector flagged Week 2 volatility two weeks before participation decline, and automated discourse-quality scores converged with human-coded [[icap-framework|ICAP]] levels. The study demonstrates how a theory-aware, effect-size-centered workflow delivers interpretable insights and early warnings in a single small class without network-reconstruction overhead.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ page_kind: [framework]
 ## What this means for practice
 
 - **Instructors.** Track concept sophistication alongside participation, not instead of it: volume and depth were only loosely coupled, and discourse showed modest lexical improvement while reasoning depth stagnated and concept sophistication declined (Δz = –1.24).
-- **Instructors.** Treat the Week 2 volatility flag as a trigger to intervene, since the Isolation-Forest detector signaled the drop two weeks before participation fell — enough lead time to add just-in-time scaffolding.
+- **Instructors.** Treat the Week 2 volatility flag as a trigger to intervene, since the Isolation-Forest detector signaled the drop two weeks before participation fell — enough lead time to add just-in-time [[scaffolding]].
 - **Instructors.** Re-read "Reserved Observers" as a Subject–Community tension rather than disengagement: this archetype posted consistently but showed persistent behavior–episteme mismatches.
 - **Researchers.** Adopt the CHAT-anchored, effect-size-centered workflow for small courses — it yields interpretable indices without large-sample statistics or full network reconstruction — but treat it as proof-of-concept rather than a generalizable model.
 - **Researchers.** Re-weight discourse-quality indices toward reasoning depth over surface lexis if AI-assisted polish is suspected, rather than accepting lexical gains as evidence of learning.
@@ -35,8 +35,8 @@ page_kind: [framework]
 ## Limitations
 
 - The pipeline was deployed in a single five-week AI literacy course with 25 undergraduates; the authors present it as a proof-of-concept and call for replication with different noise models and platforms.
-- All data are text and platform logs (438 posts, 7,033 time-stamped events); the authors note that multimodal evidence could yield richer cognitive-engagement indicators than text alone.
-- Students were not directed to use AI writing assistants, so LLM-augmented surface polish remains an uncontrolled confound, and only 30% of posts (n = 132) were hand-coded for [[icap-framework|ICAP]] to check automated indices.
+- All data are text and platform logs (438 posts, 7,033 time-stamped events); the authors note that [[multimodal]] evidence could yield richer cognitive-engagement indicators than text alone.
+- Students were not directed to use AI writing assistants, so [[llm]]-augmented surface polish remains an uncontrolled confound, and only 30% of posts (n = 132) were hand-coded for [[icap-framework|ICAP]] to check automated indices.
 - The pipeline operates only at the descriptive-diagnostic level; the early-warning signal was not coupled to any automated or instructor scaffold, so the study measured no effect of the analytics on learning.
 
 ## Citation

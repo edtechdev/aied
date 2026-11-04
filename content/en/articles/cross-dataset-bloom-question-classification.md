@@ -28,7 +28,7 @@ page_kind: [evaluation]
 
 ## Study Design & Method
 
-The motivation is practical: Bloom's taxonomy supports the systematic design, analysis, and alignment of instructional activities and assessments, but manually classifying assessment questions is time-consuming, especially for large item banks or repeated course offerings. The study compares two families of approaches — supervised ML/DL models and prompted LLMs — under cross-dataset conditions, moving beyond the within-dataset evaluations that dominated prior work. Because labeling is subjective and teacher-dependent, the authors also assessed how prompting strategies could be tailored (in-context examples, course-specific action verbs), and they validated the instructor-facing tooling with a usability study.
+The motivation is practical: Bloom's taxonomy supports the systematic design, analysis, and alignment of instructional activities and assessments, but manually classifying assessment questions is time-consuming, especially for large item banks or repeated course offerings. The study compares two families of approaches — supervised ML/DL models and prompted LLMs — under cross-dataset conditions, moving beyond the within-dataset evaluations that dominated prior work. Because labeling is subjective and [[teacher-role|teacher]]-dependent, the authors also assessed how prompting strategies could be tailored (in-context examples, course-specific action verbs), and they validated the instructor-facing tooling with a usability study.
 
 ## What this means for practice
 
@@ -40,7 +40,7 @@ The motivation is practical: Bloom's taxonomy supports the systematic design, an
 ## Limitations
 
 - The usability study drew N = 50 participants recruited via Prolific who used the interface for 10 minutes on one of their real courses; the authors state that feedback from real instructors is still needed for practical deployment.
-- The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly open-source alternatives, to assess robustness and cost-effectiveness.
+- The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly [[open-source]] alternatives, to assess robustness and cost-effectiveness.
 - Five datasets are the entire evidence base, and transfer depends on direction: one dataset pair lost only 0.04 weighted F1 against an average cross-dataset decrease of 0.28.
 
 ## Citation

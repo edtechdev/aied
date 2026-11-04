@@ -48,7 +48,7 @@ A former science teacher with 10 years of experience teaching grades 7–12 — 
 ## What this means for practice
 - **Instructors.** Treat model choice as a decision, not a default: OSS-20b and Nemotron 3 Nano 30b a3 matched larger models, so pilot a candidate on the science unit you teach.
 - **Administrators and institutions.** Favor open-weight models sized for local hosting; the best accuracy-per-token performers run under 100b parameters and keep student data local.
-- **Developers.** Use these NGSS-aligned sets as a fixed baseline when fine-tuning or building item-generation pipelines; above 90% is the floor.
+- **Developers.** Use these NGSS-aligned sets as a fixed baseline when [[llm-training-and-fine-tuning|fine-tuning]] or building item-generation pipelines; above 90% is the floor.
 - **Researchers.** Move beyond single-turn recall and conceptual items toward multi-turn, evidence-based feedback, which the authors call the missing standard.
 
 ## Limitations

@@ -19,7 +19,7 @@ confidence: medium
 
 ## Key Findings
 
-- **High [[student-engagement|student engagement]] and perceived career relevance:** 96% of students recognized the importance of learning about GenAI within their studies, and 71% believed they would continue using it in both academic and future professional life, reflecting the perceived necessity of GenAI skills for employability in [[higher-ed|higher education]] and beyond.
+- **High [[student-engagement|student engagement]] and perceived career relevance:** 96% of students recognized the importance of learning about GenAI within their studies, and 71% believed they would continue using it in both academic and future professional life, reflecting the perceived necessity of GenAI skills for [[career-development-and-readiness|employability]] in [[higher-ed|higher education]] and beyond.
 - **Prior exposure was substantial:** 70% of respondents had already used some form of GenAI tool before the module (for idea generation, [[research-methods-aied|research]], improving [[writing-education|academic writing]], and generating answers), with 42% describing themselves as familiar or very familiar with AI before instruction.
 - **Academic misconduct clarity emerged as the top concern:** Students identified the provision of information on [[academic-integrity|academic misconduct]] as the most useful element of the learning, yet only just over half fully understood how to use GenAI in line with university standards — revealing a need for clearer [[governance|institutional]] guidelines on acceptable GenAI use.
 - **Curiosity spans ethics, applications, and the future:** Students were keen to learn about business applications of AI, its use in future career paths, ethical use, and the ability to critically assess GenAI outputs; [[qualitative-research|qualitative]] themes clustered around understanding GenAI, using it for academic success, [[ai-literacy|job security]], and business application.
@@ -37,7 +37,7 @@ confidence: medium
 ## Limitations
 
 - A single case study: one first-year module in one UK business school, with the conceptual framework derived from that setting and existing literature rather than tested; the authors assert its transferability, but no evaluation in a second institution or program is presented.
-- The survey drew 149 responses, a 28% participation rate, from first-year undergraduates — voluntary, self-selected, self-report data, with no comparison group and no measure of learning or attainment.
+- The survey drew 149 responses, a 28% participation rate, from first-year undergraduates — voluntary, self-selected, [[self-report-measures|self-report data]], with no comparison group and no measure of learning or attainment.
 - The question set was non-validated, piloted with colleagues and amended before dissemination; three open-ended prompts were analyzed by reflexive thematic analysis in NVivo, so the themes come from brief written answers to self-defined questions.
 - No student outcome or employability data were collected, so the framework's claimed contribution to [[ai-literacy|AI literacy]], employability, and ethical conduct remains a design proposal rather than a demonstrated effect.
 

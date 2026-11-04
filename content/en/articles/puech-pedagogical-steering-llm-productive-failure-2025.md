@@ -14,7 +14,7 @@ audience: [instructional designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between learning effectiveness and user satisfaction.
+> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between [[learning-gains|learning effectiveness]] and user satisfaction.
 
 ## The Pedagogical Steering problem
 
@@ -36,10 +36,10 @@ This paper is the key technical anchor connecting LLM-based [[intelligent-tutori
 
 ## What this means for practice
 
-- **EdTech designers.** Control the tutoring strategy explicitly instead of relying on the base model's assistant behavior: the unsteered baseline never elicited multiple solution attempts, while the StratL tutor produced an average of 2.6 student solution attempts (RSMs) per session (p = .05).
+- **[[educational-technology-developers|EdTech designers]].** Control the tutoring strategy explicitly instead of relying on the base model's assistant behavior: the unsteered baseline never elicited multiple solution attempts, while the StratL tutor produced an average of 2.6 student solution attempts (RSMs) per session (p = .05).
 - **EdTech designers.** Build the plan with learning scientists as a transition graph of per-turn tutoring intents, so the pedagogical strategy — not the model's default helpfulness — determines each response.
 - **EdTech designers.** Plan for the perceived-helpfulness penalty and explain it in the interface. StratL had no significant effect on coherence or empathy but was rated less helpful than the baseline, because the PF tutor gives help only when strictly necessary and students spend longer stuck.
-- **Instructors.** Frame stuck time as intended productive struggle in student-facing language; the StratL condition reached higher PF fidelity (significant for problem Consistency, p = .046) precisely by withholding the solutions students would immediately have preferred.
+- **Instructors.** Frame stuck time as intended [[desirable-difficulties|productive struggle]] in student-facing language; the StratL condition reached higher PF fidelity (significant for problem Consistency, p = .046) precisely by withholding the solutions students would immediately have preferred.
 - **Researchers.** Evaluate LLM tutors on multi-turn pedagogical fidelity — strategy scores and the number of solution attempts elicited — rather than single-turn satisfaction, and report a no-intents baseline for comparison.
 
 ## Limitations

@@ -18,7 +18,7 @@ page_kind: [evaluation]
 ## Key Findings
 
 - **Iterative prompt refinement yields measurable but plateauing improvements** in item quality; outputs can remain inconsistent or construct-misaligned.
-- **Fine-tuning GPT-4.1 on the optimized prompt** improves item generation beyond prompting alone, isolating model adaptation (not prompt design) as the driver of gains.
+- **Fine-tuning GPT-4.1 on the optimized prompt** improves item generation beyond prompting alone, isolating model adaptation (not [[prompt-engineering|prompt design]]) as the driver of gains.
 - The study provides a practical evaluation of AIG for L2 listening assessment, with implications for item quality, consistency, and construct alignment.
 - Findings inform when assessment developers should invest in fine-tuning vs. prompt refinement.
 

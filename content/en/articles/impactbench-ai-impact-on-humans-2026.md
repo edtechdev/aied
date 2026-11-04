@@ -48,7 +48,7 @@ The paper is unusually explicit that these are behavioral proxies, not outcomes.
 
 ## What this means for practice
 
-- **Instructors evaluating AI tutors.** Ask what the tool does after a student asks for the answer, since the measured weak spot is not refusal but substitution for the learner's reasoning, and the metrics that fail are specifically about [[scaffolding]] and preserving control.
+- **Instructors evaluating [[intelligent-tutoring|AI tutors]].** Ask what the tool does after a student asks for the answer, since the measured weak spot is not refusal but substitution for the learner's reasoning, and the metrics that fail are specifically about [[scaffolding]] and preserving control.
 - **Administrators and procurement.** A capability score or a task-accuracy number says nothing about this; the asymmetry between helping and harm avoidance is the thing to test, and learning-related risk was the area models handled least well.
 - **Researchers.** The suite publishes metrics, transcripts, and polarities so a claim can be traced to the conversations behind it, which is the check that a single aggregate score cannot support.
 - **Anyone reading model comparisons.** Re-rankings across benchmarks, age contexts, and weighting are reported rather than resolved, so a headline ranking should be read as one weighting's answer.

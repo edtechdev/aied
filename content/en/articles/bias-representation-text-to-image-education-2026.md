@@ -26,7 +26,7 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Designers.** Build guided critique into every [[multimodal|text-to-image]] activity — comparison against authoritative sources, identifying where an image functions as evidence versus illustration, and reflective discussion — because learners without scaffolding treated generated images as realistic depictions.
+- **Designers.** Build guided critique into every [[multimodal|text-to-image]] activity — comparison against authoritative sources, identifying where an image functions as evidence versus illustration, and reflective discussion — because learners without [[scaffolding]] treated generated images as realistic depictions.
 - **Designers.** Treat age, body, and (dis)ability as first-class representation targets: they were the least examined dimensions across the 31 reviewed studies and consistently underrepresented in outputs.
 - **Researchers.** Move from image audits to intervention-based designs with comparable tasks, prompts, and evaluation criteria, since few experimental or intervention studies exist and developmental comparisons remain unsupported.
 - **Researchers.** Report prompts, tool settings, sampling procedures, and model versions in every audit, and favor longitudinal or repeated-prompt designs, because model updates make documented outputs non-reproducible.

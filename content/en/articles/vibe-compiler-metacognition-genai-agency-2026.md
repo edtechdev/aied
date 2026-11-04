@@ -22,14 +22,14 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 ## What this means for practice
 - **Researchers.** Supply a structured content artifact — here a prose paper ontology of background, problem, solution, evaluation and findings — instead of tuning prompts; the authors report that the system's behavior was driven by the supplied structure rather than the inference engine.
 - **Designers.** Have the support system return questions about unfilled slots rather than proposed corrections, because the authors hold that handing over answers is what produces the cognitive offloading the tool is meant to prevent.
-- **Instructors.** Keep the self-assessment step with the learner: the model explains that problem posing promotes learning because it imposes composing the problem and assessing one's own artifact on the same person at once, so delegating the assessment to the AI removes the mechanism.
-- **Designers.** Keep a route of rebuttal open by offering several candidate problems for the user to choose among rather than a single verdict, so users exercise evaluative judgment instead of accepting the system's evaluation.
+- **Instructors.** Keep the [[self-assessment]] step with the learner: the model explains that problem posing promotes learning because it imposes composing the problem and assessing one's own artifact on the same person at once, so delegating the assessment to the AI removes the mechanism.
+- **Designers.** Keep a route of rebuttal open by offering several candidate problems for the user to choose among rather than a single verdict, so users exercise [[evaluative-judgment|evaluative judgment]] instead of accepting the system's evaluation.
 - **Administrators.** Write AI-use policy quadrant by quadrant — for example "combining components is permitted, and self-assessment must be carried out by the person concerned and recorded" — rather than as a blanket permit-or-ban rule.
 
 ## Limitations
 - It is a single case and the authors are themselves the users: the researcher-layer record comes from building this one paper, and the design includes no device for excluding confirmation bias or self-assessment bias.
-- No quantitative data for the learner layer exist and no controlled experiment was conducted, so changes in the four indicators (Epred, Scov, Lref, Aepi), transfer effects, and the rate at which the system evaluates wrongly are all unverified predictions.
-- The prototype is assembled from off-the-shelf services (NotebookLM) and parameter computation depends on large language model generation, so behavior can change when those services change and identical inputs are not guaranteed to yield identical outputs.
+- No [[quantitative-research|quantitative]] data for the learner layer exist and no controlled experiment was conducted, so changes in the four indicators (Epred, Scov, Lref, Aepi), transfer effects, and the rate at which the system evaluates wrongly are all unverified predictions.
+- The prototype is assembled from off-the-shelf services (NotebookLM) and parameter computation depends on [[llm|large language model]] generation, so behavior can change when those services change and identical inputs are not guaranteed to yield identical outputs.
 - The study is confined to a single language, Japanese: indicators such as the vocabulary-substitution difficulty Vmap depend strongly on linguistic structure and their viability elsewhere is unconfirmed, and the domain-specific Analysis parameters were defined by hand by a domain expert with no validation procedure in place.
 
 ## Citation

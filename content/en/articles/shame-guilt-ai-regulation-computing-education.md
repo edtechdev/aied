@@ -36,9 +36,9 @@ The study interviewed 19 computing students and analyzed their relationships wit
 - **Instructors.** Treat addiction-like language and nihilism about academic futures as signals that a student's relationship with AI needs support rather than sanction, since the emotional valence of AI use is itself consequential for persistence in computing.
 
 ## Limitations
-- The study is a qualitative, exploratory investigation of 19 semi-structured interviews with computing students in North America, intended to surface experience rather than test hypotheses; the authors state the sample is not representative of all students, cultures or institutional contexts.
-- All accounts are self-reported, and the authors note that because shame and guilt are sensitive, participants may have underreported, reframed or unevenly disclosed their behavior despite assurances of confidentiality.
-- The study deliberately collected no academic performance data, which the authors state limits any examination of how shame, guilt or AI reliance vary with students' academic standing.
+- The study is a [[qualitative-research|qualitative]], exploratory investigation of 19 semi-structured interviews with computing students in North America, intended to surface experience rather than test hypotheses; the authors state the sample is not representative of all students, cultures or institutional contexts.
+- All accounts are [[self-report-measures|self-reported]], and the authors note that because shame and guilt are sensitive, participants may have underreported, reframed or unevenly disclosed their behavior despite assurances of confidentiality.
+- The study deliberately collected no [[learning-gains|academic performance]] data, which the authors state limits any examination of how shame, guilt or AI reliance vary with students' academic standing.
 - Interviews were held by trained peer interviewers to mitigate power dynamics such as being questioned by faculty, so the accounts are participants' interpretations reported as illustrative and preliminary, and the functionalist lens may not capture identity judgments such as being "not real programmers."
 
 ## Citation

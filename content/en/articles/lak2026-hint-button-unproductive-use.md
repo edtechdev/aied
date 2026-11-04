@@ -45,14 +45,14 @@ The authors interpret findings through two lenses:
 
 ## Practical Significance
 
-Unlike prior "gaming the system" detectors requiring complex machine-learned models with 24–40 features per action, these two indicators are simple, interpretable, and computable from standard ITS logs — making them practical for [[learning-analytics]] dashboards and automated real-time interventions across diverse educational settings.
+Unlike prior "gaming the system" detectors requiring complex machine-learned models with 24–40 features per action, these two indicators are simple, interpretable, and computable from standard ITS logs — making them practical for [[learning-analytics]] [[visualization|dashboards]] and automated real-time interventions across diverse educational settings.
 
 ## What this means for practice
 
 - **Learning analytics designers.** Compute the two flags directly from standard ITS logs — a hint request before any solution attempt, and hint advancement faster than the 4 words/second [[benchmark]] — instead of maintaining a 24–40-feature machine-learned gaming detector; both indicators replicated across all three semesters of the 999-student sample.
 - **Instructional designers.** Gate the bottom-out hint behind a minimum [[student-engagement|engagement]] time or a solution attempt; premature hint requests still predicted lower posttest scores (β = −0.14 to −0.28) and lower delayed posttest scores (β = −0.17 to −0.37) after controlling for pretest performance.
 - **Learning analytics designers.** Aim interventions at the students who trigger these behaviors most — both correlated strongly with low pretest scores (ρ = −0.57 to −0.74) — and track delayed posttests, where the negative associations were strongest, rather than immediate posttests alone.
-- **Researchers.** Do not treat improved help-seeking behavior as evidence of learning: the paper cites prior interventions that changed observed behavior without producing matching gains in [[learning-gains|learning]].
+- **Researchers.** Do not treat improved [[help-seeking]] behavior as evidence of learning: the paper cites prior interventions that changed observed behavior without producing matching gains in [[learning-gains|learning]].
 - **Instructional designers.** Reframe the design question from whether to provide hints to how delivery is structured, aligning hint timing with productive-struggle principles rather than removing [[scaffolding|scaffolds]] altogether.
 
 ## Limitations

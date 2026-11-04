@@ -32,7 +32,7 @@ LIA pairs a stable administrative structure with a dynamic portfolio of projects
 
 ## Learning Through Project Organization
 
-Projects such as competition teams and open lectures create [[project-based-learning]] opportunities that develop leadership, scientific production, and community engagement. Study groups form the foundational [[collaborative-learning]] mechanism, letting students investigate [[machine-learning|machine learning]], computer vision, large language models ([[llm]]), and multi-agent systems before engaging in research or development. Knowledge repositories institutionalize what members learn, while AI-powered applications with social impact connect [[computational-thinking]] to real civic problems, embodying [[active-learning]], [[self-directed-learning]], and [[ai-literacy]] in practice.
+Projects such as competition teams and open lectures create [[project-based-learning]] opportunities that develop leadership, scientific production, and community engagement. Study groups form the foundational [[collaborative-learning]] mechanism, letting students investigate [[machine-learning|machine learning]], computer vision, large language models ([[llm]]), and [[agentic-ai|multi-agent]] systems before engaging in research or development. Knowledge repositories institutionalize what members learn, while AI-powered applications with social impact connect [[computational-thinking]] to real civic problems, embodying [[active-learning]], [[self-directed-learning]], and [[ai-literacy]] in practice.
 
 ## Representative Projects
 
@@ -45,15 +45,15 @@ The reported experience offers practical guidance for other academic leagues and
 ## What this means for practice
 
 - **Learners.** Run the organization, not just the projects: LIA's annually elected student board (president, vice-president, secretary, communication coordinator) and project leaders elected by their own members let students set strategic direction while faculty serve as mentors.
-- **Learners.** Turn what you build into persistent artifacts — tutorials, repositories, technical reports, recorded lectures, online courses — because that is what lets later cohorts extend the work instead of recreating it.
-- **Administrators.** Start a league without new infrastructure: none of LIA's representative projects required large financial investment or specialized hardware, with success depending on student engagement, faculty mentorship, and collaborative organization.
+- **Learners.** Turn what you build into persistent artifacts — tutorials, repositories, technical reports, recorded lectures, [[online-teaching-and-learning|online courses]] — because that is what lets later cohorts extend the work instead of recreating it.
+- **Administrators.** Start a league without new infrastructure: none of LIA's representative projects required large financial investment or specialized hardware, with success depending on [[student-engagement|student engagement]], faculty mentorship, and collaborative organization.
 - **Instructors.** Take the mentor role and keep the governance separate from project execution: weekly meetings integrate all active projects and annual elections preserve continuity, and that separation is what sustains [[student-experience|student leadership]].
-- **Researchers.** Document organizational models and then measure them: the paper's own gap statement is that [[cs-education|computer science and engineering]] lacked documented models of this kind, and it calls for multi-institution studies with quantitative learning-outcome measures.
+- **Researchers.** Document organizational models and then measure them: the paper's own gap statement is that [[cs-education|computer science and engineering]] lacked documented models of this kind, and it calls for multi-institution studies with [[quantitative-research|quantitative]] learning-outcome measures.
 
 ## Limitations
 
 - Single case: the reported experience comes from one academic league at one institution — LIA at the Federal University of Santa Catarina — a limitation the authors state directly.
-- The evaluation is primarily qualitative and focused on the framework's organizational aspects; the paper reports no quantitative assessment of student learning, retention, leadership development, or engagement, and names those measures as future work.
+- The evaluation is primarily [[qualitative-research|qualitative]] and focused on the framework's organizational aspects; the paper reports no quantitative assessment of student learning, retention, leadership development, or engagement, and names those measures as future work.
 - Replicability beyond the founding context is argued rather than demonstrated: that the organizational principles are largely independent of the technical domain, and that the model extends beyond Brazil's [[global-south|university context]], is asserted without a second instantiation.
 - No data-collection procedure is described — no participant counts, surveys, or interviews — so the account of representative projects rests on the organizers' own description rather than on independent observation or participant data.
 

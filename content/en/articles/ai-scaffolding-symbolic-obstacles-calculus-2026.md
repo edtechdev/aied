@@ -26,7 +26,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Calculus students often recognize a curve's behavior, the area under it, or a changing slope yet cannot put any of that into limit, integral, or sigma notation. Nursit, Nusantara, and Hidayanto treat that gap as an [[embodied-learning|embodied]]-to-symbolic obstacle rather than a procedural slip, and read it through Tall's Three Worlds of Mathematics. In an intrinsic case study of 12 Indonesian undergraduate mathematics-education students, they combined diagnostic assessments, interviews, eight classroom observations, artifacts, and AI interaction logs to locate where representational meaning breaks down and how [[scaffolding|AI scaffolding]] — dynamic visualization, adaptive feedback, step-by-step guidance, and solution validation — was associated with students repairing it. Graph-to-symbol translation was the dominant obstacle, carrying 38 coded references across all 12 participants, and participant-level comparisons showed 27.4%–53.8% fewer coded symbolic errors after the AI-supported sequence. The authors are explicit that these are descriptive within-case patterns, not a causal effect of AI.
+> **Synthesis:** Calculus students often recognize a curve's behavior, the area under it, or a changing slope yet cannot put any of that into limit, integral, or sigma notation. Nursit, Nusantara, and Hidayanto treat that gap as an [[embodied-learning|embodied]]-to-symbolic obstacle rather than a procedural slip, and read it through Tall's Three Worlds of Mathematics. In an intrinsic case study of 12 Indonesian undergraduate mathematics-education students, they combined diagnostic assessments, interviews, eight classroom observations, artifacts, and [[student-ai-interaction|AI interaction]] logs to locate where representational meaning breaks down and how [[scaffolding|AI scaffolding]] — dynamic visualization, adaptive feedback, step-by-step guidance, and solution validation — was associated with students repairing it. Graph-to-symbol translation was the dominant obstacle, carrying 38 coded references across all 12 participants, and participant-level comparisons showed 27.4%–53.8% fewer coded symbolic errors after the AI-supported sequence. The authors are explicit that these are descriptive within-case patterns, not a causal effect of AI.
 
 ## Key Findings
 
@@ -67,10 +67,10 @@ The AI logs recorded prompts, hint levels, responses, revisions, and outputs, wh
 
 ## Limitations
 
-- The case is 12 students at a single university, and the authors present it as context-specific analysis rather than statistical generalization; replication across institutions, programs, and regions is needed to tell which patterns are stable and which depend on local curriculum, language, technology access, or teaching culture.
+- The case is 12 students at a single university, and the authors present it as context-specific analysis rather than statistical generalization; replication across institutions, programs, and regions is needed to tell which patterns are stable and which depend on local [[curriculum-design|curriculum]], language, technology access, or teaching culture.
 - The diagnostic instrument was oriented toward symbolic representations and transformations only. It did not evaluate proof competence, conceptual understanding across the whole calculus curriculum, or long-term retention.
 - The pre-post descriptive changes cannot separate AI support from practice, repeated practice with the tasks, classroom instruction, peer interaction, or knowledge of the assessment, and the study had no random assignment and no comparison group.
-- Dependency after scaffolding was removed was not investigated in depth; the authors call for comparing fading schedules and for process analyses that distinguish productive help-seeking from answer-seeking.
+- Dependency after scaffolding was removed was not investigated in depth; the authors call for comparing fading schedules and for process analyses that distinguish productive [[help-seeking]] from answer-seeking.
 - Affective responses rested on qualitative reports rather than standardized instruments, so the changes participants described in mathematics anxiety and [[self-efficacy]] should be read as their accounts and not as changes to stable psychological constructs.
 
 ## Citation

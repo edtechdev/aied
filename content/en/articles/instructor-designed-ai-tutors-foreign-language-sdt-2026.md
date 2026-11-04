@@ -26,18 +26,18 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Build course-scoped AI tutors tied to the course objectives, learner proficiency, and a curated knowledge base rather than pointing students at general-purpose chatbots.
-- **Instructors.** Operationalize the noticing hypothesis with a three-stage sequence: activate prior knowledge, have learners deliberately generate errors, then produce context-based sentences and work through the feedback that follows.
-- **Instructors.** Design for affective safety — nonjudgmental, immediately responsive interaction — because the relatedness gains came from instructional design, not from the technology itself.
+- **Instructors.** Build course-scoped AI tutors tied to the course objectives, learner proficiency, and a curated knowledge base rather than pointing students at general-purpose [[conversational-ai|chatbots]].
+- **Instructors.** Operationalize the noticing hypothesis with a three-stage sequence: [[prior-knowledge|activate prior knowledge]], have learners deliberately generate errors, then produce context-based sentences and work through the feedback that follows.
+- **Instructors.** Design for affective safety — nonjudgmental, immediately responsive interaction — because the relatedness gains came from [[learning-design|instructional design]], not from the technology itself.
 - **Instructors.** Deploy the tutor in a complementary role alongside existing methods, since learners cited usage limits and preferences such as handwriting-based study as real constraints.
 - **Faculty developers.** Support instructors in designing AI around autonomy, competence, and relatedness, because effectiveness tracked design quality rather than how often learners used the tool.
 
 ## Limitations
 
 - Single-course scope: 74 consenting students in one general Japanese course at one South Korean university, followed across one semester with no control or comparison condition.
-- All motivation and noticing data came from an end-of-semester self-report survey; autonomy used two single-item indicators and relatedness a multiple-response item, and optional open-ended items had varying numbers of valid responses (n = 54–68 across competence sub-domains).
+- All motivation and noticing data came from an end-of-semester [[self-report-measures|self-report]] survey; autonomy used two single-item indicators and relatedness a multiple-response item, and optional open-ended items had varying numbers of valid responses (n = 54–68 across competence sub-domains).
 - Competence was self-assessed across six sub-domains (means 2.67–2.94), not measured by an objective proficiency test.
-- The design is correlational — out-of-class usage frequency showed no significant correlation with the [[self-determination-theory|SDT]] variables — so no causal claim about motivation or learning gains is supported.
+- The design is correlational — out-of-class usage frequency showed no significant correlation with the [[self-determination-theory|SDT]] variables — so no causal claim about motivation or [[learning-gains|learning gains]] is supported.
 
 ## Citation
 

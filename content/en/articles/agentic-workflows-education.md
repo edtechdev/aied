@@ -58,8 +58,8 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 
 - The MASS proof of concept rests on a single benchmark: roughly 17,000 student-written argumentative essays from ASAP 2.0 scored 1–6 on a holistic rubric, compared against only three stand-alone LLMs (GPT-4o MAE 0.6129, DeepSeek 67B 0.7345, DeepSeek 1.3B 1.6956 vs. MASS 0.5612) — a scoring-accuracy result, not evidence of instructional benefit.
 - The reported consistency advantage is not uniform: Llama 3.3 70B produced a tighter error distribution (SD 0.783) than MASS (0.830), and the significance tests are reported only as p = 0.0 rather than as exact values.
-- The literature synthesis screened 378 unique records down to 93 included studies, and the authors state plainly that sustainability was treated as a follow-up research priority rather than analyzed, so lifecycle cost and equity fall outside its scope.
-- No learner-facing evaluation was conducted: the authors flag that transfer across learner populations and the interplay among instructors, learners, and agents remains unstudied, and the work carries no ethics, consent, or funding declarations because none applied.
+- The literature synthesis screened 378 unique records down to 93 included studies, and the authors state plainly that sustainability was treated as a follow-up research priority rather than analyzed, so lifecycle cost and [[equity-in-ai-education|equity]] fall outside its scope.
+- No learner-facing evaluation was conducted: the authors flag that transfer across learner populations and the interplay among instructors, learners, and agents remains unstudied, and the work carries no [[ethics]], consent, or funding declarations because none applied.
 
 ## Citation
 

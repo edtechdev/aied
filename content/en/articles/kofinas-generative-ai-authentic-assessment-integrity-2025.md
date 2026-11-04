@@ -14,7 +14,7 @@ confidence: high
 audience: [assessment designers, instructors, institutions]
 ---
 
-> **Synthesis:** Kofinas, Tsay, and Pike (2025) ran a series of experiments across two UK universities in which experienced academic markers judged human-authored, [[generative-ai|GenAI]]-modified, and GenAI-generated assessments. They found that markers generally could not distinguish assessments with GenAI input from those without, that the presence of GenAI nonetheless affected how markers approached marking, and that the level of authenticity in an assessment had no impact on the ability to safeguard against or detect GenAI use. The authors conclude that current assessment approaches are susceptible to GenAI manipulation and that **authentic assessments alone cannot protect [[academic-integrity|academic integrity]]**; the focus must shift to assessment design favoring process-based, performative, and synchronous interpersonal forms.
+> **Synthesis:** Kofinas, Tsay, and Pike (2025) ran a series of experiments across two UK universities in which experienced academic markers judged human-authored, [[generative-ai|GenAI]]-modified, and GenAI-generated assessments. They found that markers generally could not distinguish assessments with GenAI input from those without, that the presence of GenAI nonetheless affected how markers approached marking, and that the level of authenticity in an assessment had no impact on the ability to safeguard against or detect GenAI use. The authors conclude that current assessment approaches are susceptible to GenAI manipulation and that **authentic assessments alone cannot protect [[academic-integrity|academic integrity]]**; the focus must shift to [[assessment|assessment design]] favoring process-based, performative, and synchronous interpersonal forms.
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ audience: [assessment designers, instructors, institutions]
 2. **GenAI alters the marking process.** The mere possibility that GenAI was used (and suspicion of tampering) changed markers' behavior and judgment, producing both false positives and false negatives—so students' learning is not assessed correctly.
 3. **Authenticity offers no safeguarding benefit.** The level of authenticity in an assessment had very limited impact on the ease of detecting GenAI usage; AI could generate authentic assessments that passed faculty scrutiny.
 4. **Consequentialist reasoning drives misuse.** Students weigh the benefits (efficiency, ease) against risks of getting caught; when benefits outweigh risks, they may use GenAI in ways that compromise integrity.
-5. **GenAI assessment is cheap and 24/7.** Unlike essay mills or contract cheating, GenAI can produce high-quality, seemingly original work for free or very cheaply, undermining authorship detection and circumventing the effort required to learn.
+5. **GenAI assessment is cheap and 24/7.** Unlike essay mills or contract cheating, GenAI can produce high-quality, seemingly original work for free or very cheaply, undermining [[ai-detection|authorship detection]] and circumventing the effort required to learn.
 6. **Output-based written assessments are vulnerable.** Common written formats—reports, essays, and take-home exams—are susceptible, whereas performative, synchronous, and socially experiential assessment formats are more resistant.
 
 ## What this means for practice

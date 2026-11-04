@@ -22,7 +22,7 @@ A central obstacle to valid student simulation is that LLMs are optimized to gen
 
 1. Current [[llm]]-based agents systematically overestimate the cognitive level of weaker students, producing overly advanced responses that miss the error-prone behaviors expected of real learners.
 2. A training-free framework constructs an interpretable cognitive prototype per student from a [[knowledge-graph]] of past learning records, then maps that prototype onto new tasks to predict behavior at the knowledge-concept level rather than by superficial textual similarity.
-3. Beam search-based self-refinement iteratively scores and selects candidate simulated solutions against the predicted behavior, reproducing realistic, individualized mistakes without fine-tuning on error-rich data.
+3. Beam search-based self-refinement iteratively scores and selects candidate simulated solutions against the predicted behavior, reproducing realistic, individualized mistakes without [[llm-training-and-fine-tuning|fine-tuning]] on error-rich data.
 4. On the new Student_100 dataset (100 students, Python programming, 5,000 learning records), the method consistently outperforms baseline models, achieving a 100% improvement in simulation accuracy and realism, and it generalizes to Java and C++ via the CodeNet metadata.
 
 ## The framework
@@ -39,7 +39,7 @@ Rather than retrieving the most textually similar past task — which can mislea
 
 ### Beam search-based solution simulation
 
-Given the predicted behavior, the model first generates a weak candidate solution, then iteratively refines it. At each step, `B` candidate solutions are sampled, scored by a value model on alignment with the predicted behavior, and the best is carried forward until a threshold is met or the iteration limit is reached. This self-evaluation-guided refinement reproduces the kinds of mistakes a real student at that level would make — the "imperfection" that fidelity requires. The authors find that more powerful models benefit more from self-refinement, and that refinement underperforms when the underlying behavior prediction is low-quality.
+Given the predicted behavior, the model first generates a weak candidate solution, then iteratively refines it. At each step, `B` candidate solutions are sampled, scored by a value model on alignment with the predicted behavior, and the best is carried forward until a threshold is met or the iteration limit is reached. This [[self-assessment|self-evaluation]]-guided refinement reproduces the kinds of mistakes a real student at that level would make — the "imperfection" that fidelity requires. The authors find that more powerful models benefit more from self-refinement, and that refinement underperforms when the underlying behavior prediction is low-quality.
 
 ## The Student_100 dataset
 
@@ -58,7 +58,7 @@ Because existing [[knowledge-tracing]] datasets lack textual task statements and
 - Validation is confined to programming, on 100 students solving Python tasks on one online platform (PTA) with 5,000 annotated records; the authors state that data accessibility bounded the domain and treat extension to subjects such as mathematics as future work.
 - The grid of roughly 100 experimental settings ran on a randomly selected subset of 15 students because simulation costs about 20 minutes per student plus multiple API calls, so most of the analysis rests on a subset — and the cross-language check uses only 5 students each for Java and C++.
 - The backbone of the evaluation is [[llm]]-based scoring, with a human check by 10 undergraduate Python students rating solutions on a 1-5 scale, two independent raters per solution averaged, and the human study comparing the method against only the single second-best setting rather than the full baseline set.
-- The method assumes a stable cognitive state within a one-week window of records and models textual and behavioral patterns only; the authors note that multimodal signals such as visual or auditory cues may also shape students' cognitive processes and are not represented.
+- The method assumes a stable cognitive state within a one-week window of records and models textual and behavioral patterns only; the authors note that [[multimodal]] signals such as visual or auditory cues may also shape students' cognitive processes and are not represented.
 
 ## Citation
 

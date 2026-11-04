@@ -18,7 +18,7 @@ institutions: [change-management]
 
 ## Core Finding
 
-**GenAI chatbot users in higher education are not homogeneous; they cluster into four distinct adoption personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that traditional variable-centered models obscure.** While TAM and UTAUT estimate average structural relationships across an entire population (assuming user homogeneity), the person-centered analysis reveals that perceptual, experiential, contextual, and demographic indicators combine differently across user subgroups. A four-cluster solution was selected as optimal using internal validation indices (Silhouette, Calinski-Harabasz, Davies-Bouldin). These personas matter because attitudes like [[trust]], perceived usefulness, ethical comfort, and satisfaction configure differently across roles and contexts — for instance, an educator concerned with [[academic-integrity]] may assess chatbots very differently than a student focused on task efficiency.
+**GenAI chatbot users in higher education are not homogeneous; they cluster into four distinct adoption personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that traditional variable-centered models obscure.** While TAM and UTAUT estimate average structural relationships across an entire population (assuming user homogeneity), the [[latent-profile-analysis|person-centered analysis]] reveals that perceptual, experiential, contextual, and demographic indicators combine differently across user subgroups. A four-cluster solution was selected as optimal using internal validation indices (Silhouette, Calinski-Harabasz, Davies-Bouldin). These personas matter because attitudes like [[trust]], perceived usefulness, ethical comfort, and satisfaction configure differently across roles and contexts — for instance, an educator concerned with [[academic-integrity]] may assess chatbots very differently than a student focused on task efficiency.
 
 ## From Variable-Centered to Person-Centered Adoption
 
@@ -42,7 +42,7 @@ This article provides an empirical, person-centered complement to the knowledge 
 ## What this means for practice
 
 - **Instructors.** Segment before you assign: establish where your students sit on trust, perceived efficiency, ethical comfort, and satisfaction, then differentiate how you introduce and support the tool instead of running one uniform rollout.
-- **Instructors.** Address the guarded middle directly. Learners who see the efficiency but doubt the ethics or accuracy will not be won over by convenience alone, so pair practical use cases with explicit guidance on data privacy and avoiding [[academic-integrity]] breaches.
+- **Instructors.** Address the guarded middle directly. Learners who see the efficiency but doubt the [[ethics]] or accuracy will not be won over by convenience alone, so pair practical use cases with explicit guidance on data privacy and avoiding [[academic-integrity]] breaches.
 - **Instructors.** Tailor chatbot onboarding, training, and support to specific user segments, using the clustering-derived personas as a data-driven segmentation tool for your own course rather than relying on assumptions about the average learner.
 - **Instructors.** Track digital-readiness and disciplinary differences across your group (tech-savviness, study field, device access). Deploying GenAI without that awareness risks failing to deliver value and widening existing inequalities in [[inclusive-learning|inclusion]].
 
@@ -50,7 +50,7 @@ This article provides an empirical, person-centered complement to the knowledge 
 
 - The segmentation rests on 192 valid survey responses (107 students, 85 educators) collected through purposive and snowball sampling via email invitations and LinkedIn outreach, which the authors state limits representativeness of the wider higher education population.
 - The sample was confined to three academic disciplines — engineering, business, and medical sciences — so the personas may not transfer to humanities and social sciences, where academic cultures are known to shape technology perceptions differently.
-- Data came from a single cross-sectional Qualtrics survey of self-reported perceptions and intentions; the authors note this limits causal inference and leaves the findings open to common method and subjective bias.
+- Data came from a single cross-sectional Qualtrics survey of [[self-report-measures|self-reported]] perceptions and intentions; the authors note this limits causal inference and leaves the findings open to common method and subjective bias.
 - Participants used whichever GenAI chatbot they already used (ChatGPT the most commonly reported), so platform differences in functionality, conversational quality, and interface design are mixed into the cluster structure.
 
 ## Citation

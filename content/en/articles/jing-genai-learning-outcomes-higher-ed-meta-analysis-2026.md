@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This [[meta-analysis-systematic-review|meta-analysis]] pools 35 experimental and quasi-experimental studies published between 2022 and 2024 to estimate how [[generative-ai]] affects undergraduates' learning outcomes across three dimensions: academic performance, professional skills and emotional attitude. Across 175 effect sizes the pooled effect was g=0.53 (95% CI [0.48, 0.64]), largest for professional skills (g=0.72), then academic performance (g=0.46) and emotional attitude (g=0.44). Effects were not uniform: intervention duration moderated all three dimensions, while GenAI interaction method and teaching model moderated academic performance and emotional attitude but not professional skills. Discipline type and learning method were not significant moderators. The very large estimates from short interventions and small subgroups are treated as descriptive rather than generalizable, and the authors caution against reading GenAI as a uniform boost across teaching contexts. They also report that possible publication bias, funnel-plot asymmetry and small-study effects should be considered when interpreting the academic performance and professional skills findings.
+> **Synthesis:** This [[meta-analysis-systematic-review|meta-analysis]] pools 35 experimental and quasi-experimental studies published between 2022 and 2024 to estimate how [[generative-ai]] affects undergraduates' learning outcomes across three dimensions: [[learning-gains|academic performance]], professional skills and emotional attitude. Across 175 effect sizes the pooled effect was g=0.53 (95% CI [0.48, 0.64]), largest for professional skills (g=0.72), then academic performance (g=0.46) and emotional attitude (g=0.44). Effects were not uniform: intervention duration moderated all three dimensions, while GenAI interaction method and teaching model moderated academic performance and emotional attitude but not professional skills. Discipline type and learning method were not significant moderators. The very large estimates from short interventions and small subgroups are treated as descriptive rather than generalizable, and the authors caution against reading GenAI as a uniform boost across teaching contexts. They also report that possible publication bias, funnel-plot asymmetry and small-study effects should be considered when interpreting the academic performance and professional skills findings.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ reviewed_by: [editor]
 
 ## How the evidence base was assembled
 
-The search covered Web of Science Core Collection, EBSCO (ERIC) and Scopus for English-language, peer-reviewed studies published between January 2022 and 30 November 2024. It returned 1656 records; after screening and applying the inclusion criteria, 35 studies remained. Rather than the usual cognitive and non-cognitive split, the authors coded three outcome dimensions for [[higher-ed|higher education]] students: academic performance, professional skills ([[problem-solving]], [[critical-thinking|critical thinking]], design and programming) and emotional attitude. Heterogeneity was high (I2 = 96.67%, 84.15% and 93.62% for the three dimensions), so a random-effects model was used with Hedges' g as the effect size. All included studies were quantitative empirical work with pre- and post-tests or with experimental and control groups, and each provided complete data for effect size calculation.
+The search covered Web of Science Core Collection, EBSCO (ERIC) and Scopus for English-language, peer-reviewed studies published between January 2022 and 30 November 2024. It returned 1656 records; after screening and applying the inclusion criteria, 35 studies remained. Rather than the usual cognitive and non-cognitive split, the authors coded three outcome dimensions for [[higher-ed|higher education]] students: academic performance, professional skills ([[problem-solving]], [[critical-thinking|critical thinking]], design and programming) and emotional attitude. Heterogeneity was high (I2 = 96.67%, 84.15% and 93.62% for the three dimensions), so a random-effects model was used with Hedges' g as the effect size. All included studies were [[quantitative-research|quantitative]] empirical work with pre- and post-tests or with experimental and control groups, and each provided complete data for effect size calculation.
 
 ## What GenAI improves, and by how much
 
@@ -50,14 +50,14 @@ Moderation analysis showed that context, not the tool alone, decides the size of
 
 - Match the tool to the objective: for professional skills, prioritize simulation practice, project tasks and instant feedback; for academic knowledge, use GenAI for [[personalized-learning|personalized tutoring]], concept explanation and resource integration.
 - Plan the timeline deliberately: benefits clustered in interventions of up to 12 weeks, while estimates beyond 12 weeks were g=0.01 for academic performance and g=0.18 for emotional attitude.
-- Keep teacher guidance and peer interaction in the design: self-directed GenAI use without them produced the weakest academic gain (g=0.26) and a negative emotional attitude estimate (g=−0.20).
-- Treat teacher AI instructional competency and ethical governance (privacy, [[academic-integrity|academic integrity]], equitable access) as the policy priority rather than tool procurement alone.
+- Keep [[teacher-role|teacher]] guidance and peer interaction in the design: self-directed GenAI use without them produced the weakest academic gain (g=0.26) and a negative emotional attitude estimate (g=−0.20).
+- Treat teacher AI instructional competency and ethical governance (privacy, [[academic-integrity|academic integrity]], [[equity-in-ai-education|equitable]] access) as the policy priority rather than tool procurement alone.
 
 ## Limitations
 
 - Publication bias diagnostics were mixed: Egger's tests were significant for academic performance (5.42, 95% CI [3.29, 7.55]) and professional skills (6.70, 95% CI [3.00, 10.41]), so funnel-plot asymmetry or small-study effects cannot be ruled out.
-- Outcome measures come from the original studies and are mostly short-term standardized tests, which may miss deeper competencies such as innovative thinking and lifelong learning, and the 2022 to 2024 window captures only early-stage GenAI use.
-- Risks that the effect sizes do not capture, including over-reliance, weakened [[critical-thinking|critical thinking]], hallucinations, data privacy and inequitable access to high-cost tools, fall outside the pooled estimates.
+- Outcome measures come from the original studies and are mostly short-term standardized tests, which may miss deeper competencies such as innovative thinking and [[lifelong-learning|lifelong learning]], and the 2022 to 2024 window captures only early-stage GenAI use.
+- Risks that the effect sizes do not capture, including over-reliance, weakened [[critical-thinking|critical thinking]], [[hallucination-risk|hallucinations]], [[privacy|data privacy]] and inequitable access to high-cost tools, fall outside the pooled estimates.
 
 ## Citation
 

@@ -13,10 +13,10 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** **Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback** — This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) evaluates whether [[llm|large language models]] (LLMs) can replace teachers in [[assessment]] and [[feedback]]. The authors conclude that LLMs match human raters on short, well-structured tasks with detailed rubrics, but cannot fully replace human judgment on complex, open-ended, or subjective work, recommending a [[human-in-the-loop-ai|human-in-the-loop]] hybrid model. Prompt quality, rubric detail, model version, and assessment language are the dominant determinants of [[ai-feedback-quality|grading and feedback quality]].
+> **Synthesis:** **Can [[generative-ai|ChatGPT]] Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback** — This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) evaluates whether [[llm|large language models]] (LLMs) can replace teachers in [[assessment]] and [[feedback]]. The authors conclude that LLMs match human raters on short, well-structured tasks with detailed rubrics, but cannot fully replace human judgment on complex, open-ended, or subjective work, recommending a [[human-in-the-loop-ai|human-in-the-loop]] hybrid model. Prompt quality, rubric detail, model version, and assessment language are the dominant determinants of [[ai-feedback-quality|grading and feedback quality]].
 
 ## Key Findings
-- LLMs perform well on closed-ended tasks and short-answer questions, often achieving accuracy comparable to human evaluators, but struggle with complex, open-ended, or subjective assignments requiring in-depth analysis or creativity ([[automated-assessment]]).
+- LLMs perform well on closed-ended tasks and short-answer questions, often achieving accuracy comparable to human evaluators, but struggle with complex, open-ended, or subjective assignments requiring in-depth analysis or [[creativity]] ([[automated-assessment]]).
 - Prompt quality and the use of detailed scoring rubrics or exemplar answers significantly improve the accuracy and consistency of LLM-generated grades ([[prompt-engineering]]).
 - The highest effectiveness is achieved in hybrid systems that combine AI-driven automatic grading with teacher oversight and verification ([[human-in-the-loop-ai]]).
 - LLMs cannot fully replace [[teacher-role|teachers]]: performance declines for longer, multilingual, or nuanced tasks, and persistent issues include between-run inconsistency, [[hallucination-risk|hallucinations]], and feedback that is too generic or misaligned with the assigned grade.
@@ -34,9 +34,9 @@ methods: [meta-analysis-systematic-review]
 ## Limitations
 
 - The review synthesizes 42 empirical studies published only after ChatGPT's launch (post-2022) and identified through one March 2025 search across four databases (Scopus, Web of Science, PubMed, EBSCO); the authors describe the results as highly heterogeneous with no clear universal trend across studies.
-- The most common quality problem among included studies was small, convenience-based, or otherwise unrepresentative samples, and several lacked sufficient reporting of analytical procedures; the Mixed Methods Appraisal Tool was applied criterion-by-criterion with no quality score computed.
+- The most common quality problem among included studies was small, convenience-based, or otherwise unrepresentative samples, and several lacked sufficient reporting of analytical procedures; the [[mixed-methods-research|Mixed Methods]] Appraisal Tool was applied criterion-by-criterion with no quality score computed.
 - Many included studies did not directly compare GenAI with human raters, so part of the evidence addresses whether model output looks reasonable rather than measured agreement with teacher grades.
-- The evidence is already dated by the technology: the authors note that educational research assesses earlier model versions while industry moves on to reasoning and agentic models, and that grading metrics and benchmarks change quickly.
+- The evidence is already dated by the technology: the authors note that educational research assesses earlier model versions while industry moves on to reasoning and agentic models, and that grading metrics and [[benchmark|benchmarks]] change quickly.
 
 ## Citation
 

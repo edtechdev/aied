@@ -19,7 +19,7 @@ confidence: high
 
 Prezenski separates two families of AI used in learning:
 
-- **Data-driven systems (LLMs):** ChatGPT and similar tools are general-purpose systems built on [[machine-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **hallucination**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
+- **Data-driven systems (LLMs):** [[generative-ai|ChatGPT]] and similar tools are general-purpose systems built on [[machine-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **[[hallucination-risk|hallucination]]**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
 - **Rule-based systems (intelligent tutoring systems):** Designed specifically for learning, these encode the domain as explicit if-then/production rules (e.g., telling a student solving `2x + 3 = 9` to "get rid of the +3 first"). **Cognitive-model tutors** (e.g., Anderson's Cognitive Tutor) embed a theory of human learning like ACT-R, estimate the learner's knowledge state, and deliver finely targeted feedback. By design they scaffold understanding better than opaque statistical models, but they are costly and time-consuming to build.
 
 ## Blended AI: today's landscape
@@ -69,7 +69,7 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - **Instructors.** Audit the reward structure of any gamified tool before adopting it — points, streaks, and leaderboards shift attention to maintaining the game and can dampen [[motivation|intrinsic motivation]] — and keep rewards attached to learning rather than to activity.
 - **Instructors.** Pair AI use with peer work deliberately: heavy reliance on [[conversational-ai|chatbots]] can privatize learning and erode empathy and perspective-taking, so schedule debate, group impasse, and perspective-taking tasks alongside individual AI sessions.
 - **Instructors.** Check equity before deployment at course level: speech and adaptive models trained on unrepresentative data have shown roughly 2× higher word-error rates for African American speakers and weaker adaptive pathways for marginalized students, and granular data logging (clickstreams, facial expressions) suppresses the risk-taking that deep learning requires.
-- **Instructors.** Claim a design seat rather than accepting polished UX as human-centeredness: educators are routinely marginalized in educational AI development and consulted late, so ask for co-designer and evaluator roles, [[ai-literacy]] professional development, and transparency and user control as procurement conditions.
+- **Instructors.** Claim a design seat rather than accepting polished UX as human-centeredness: educators are routinely marginalized in educational AI development and consulted late, so ask for co-designer and evaluator roles, [[ai-literacy]] [[educational-development|professional development]], and transparency and user control as procurement conditions.
 
 ## Limitations
 

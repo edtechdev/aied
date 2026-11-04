@@ -39,7 +39,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 - The practitioner evidence rests on only ten semi-structured interviews, purposively sampled from five institutions in two countries (Australia and Indonesia), and the authors position the framework as an analytical heuristic awaiting empirical validation across diverse higher education contexts.
 - The formal bibliometric corpus and PRISMA-guided review drew on a single database (Scopus, n = 209 records); Web of Science and ProQuest were consulted only in the scoping phase, whose 310 records were not merged into the corpus.
 - The systematic review synthesized 36 English-language peer-reviewed articles published 2023–2025, a narrow window in a rapidly moving field.
-- Interviews lasted 45–75 minutes and captured self-reported pedagogical change; the interview phase triangulated the literature findings rather than testing the framework against student or institutional outcomes.
+- Interviews lasted 45–75 minutes and captured [[self-report-measures|self-reported]] pedagogical change; the interview phase triangulated the literature findings rather than testing the framework against student or institutional outcomes.
 
 ## Citation
 

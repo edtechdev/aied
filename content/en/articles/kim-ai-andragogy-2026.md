@@ -30,7 +30,7 @@ Sixty [[adult-learning|adult learners]] from three universities in the eastern U
 | Involvement | Intentionally motivated to learn | AI tutor offering immediate [[personalized-learning|personalized]] [[feedback]], progress tracking, celebration of achievement | [[intelligent-tutoring]] |
 | Involvement | Intentionally motivated to learn | AI-powered teachable agent that the learner must teach | [[learning-by-teaching|teachable agents]] |
 | Autonomy | Autonomous learning | Monitoring tools giving [[assessment|adaptive assessment]] and data-driven insight into progress | [[learning-analytics]] |
-| Involvement | Self-assessment | Systems that analyze work, generate [[assessment|rubrics]], and track ongoing performance | [[automated-assessment]] |
+| Involvement | [[self-assessment]] | Systems that analyze work, generate [[assessment|rubrics]], and track ongoing performance | [[automated-assessment]] |
 | Experience | Transformative learning | Empathetic chatbot holding emotionally grounded conversations about different perspectives | [[affective-computing]], [[conversational-ai]] |
 | Experience | [[experiential-learning|Experiential learning]] | [[simulation|AI simulations]] (VR/AR) for risk-free practice with complex scenarios | [[intelligent-tutoring]] |
 | Problem-centered | Contextual learning | AI case library that generates and critiques realistic customized case studies | [[problem-based-learning]] |
@@ -59,13 +59,13 @@ For **problem-centered** learning, AI activates [[prior-knowledge|prior knowledg
 
 ### Relevance: goal orientation and career connection
 
-AI supports **relevance** through goal orientation — real-time progress monitoring, personalized recommendations, and breaking larger goals into manageable steps ("AI keeps me on track when I lose focus," P16) — and through personal/professional relevance, where [[pedagogical-agent|AI coaches]] and recommender systems act as career companions and networking hubs. This connects AI support to [[lifelong-learning|lifelong learning]] and [[higher-ed|higher education]] career trajectories.
+AI supports **relevance** through goal orientation — real-time progress monitoring, personalized recommendations, and breaking larger goals into manageable steps ("AI keeps me on track when I lose focus," P16) — and through personal/professional relevance, where [[pedagogical-agent|AI coaches]] and [[recommender-systems-and-learning-paths|recommender systems]] act as career companions and networking hubs. This connects AI support to [[lifelong-learning|lifelong learning]] and [[higher-ed|higher education]] career trajectories.
 
 ## Three design principles for andragogical AI
 
 **Human-in-the-loop (HITL):** Learners want systems that build [[human-in-the-loop-ai|shared mental models]] with them — human-interpretable decision-making so they can understand and anticipate system behavior while the AI continuously learns their expectations, preferences, and goals. They also demand **human-AI co-creation**: *"It's not the system that decides what to offer for my learning journey. I'd like to take part in deciding…"* (P20), letting learners influence generative parameters and model choices as co-creators rather than passive users. This is a direct call to honor [[agency|learner agency]].
 
-**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and anxiety. This emotional attunement supports [[well-being]] and [[self-regulated-learning|self-regulation]] in learning.
+**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and [[anxiety-and-stress|anxiety]]. This emotional attunement supports [[well-being]] and [[self-regulated-learning|self-regulation]] in learning.
 
 **Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed [[problem-solving]] to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
 

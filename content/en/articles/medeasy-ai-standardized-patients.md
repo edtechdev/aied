@@ -15,7 +15,7 @@ discipline: [medical education]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Gao et al. (2026) present MedEasy, a multi-agent system that simulates standardized patients with varying conditions for medical consultation training. By organizing virtual-patient practice through patient dialogue, [[medical-education|clinical]] actions, decision submission, documentation and feedback, it outperforms script-based approaches in realism and adaptability — supporting [[professional-training|clinical]] [[simulation|training]] with [[feedback]]-rich [[active-learning|practice]].
+> **Synthesis:** Gao et al. (2026) present MedEasy, a [[agentic-ai|multi-agent]] system that simulates standardized patients with varying conditions for medical consultation training. By organizing virtual-patient practice through patient dialogue, [[medical-education|clinical]] actions, decision submission, documentation and feedback, it outperforms script-based approaches in realism and adaptability — supporting [[professional-training|clinical]] [[simulation|training]] with [[feedback]]-rich [[active-learning|practice]].
 
 MedEasy multi-agent system simulates standardized patients with varying conditions for medical consultation training, outperforming script-based approaches in realism and adaptability. AI standardized patients are becoming a setting for professional training in clinical consultation. This paper presents MedEasy, a multi-agent system that organizes virtual-patient practice through patient dialogue, clinical actions, decision submission, documentation, and feedback. Its realism and adaptability make it a valuable tool for [[intelligent-tutoring|AI-guided]] [[help-seeking|clinical]] [[lifelong-learning|learning]], connecting to [[affective-tutoring|affective]] and [[equity-in-ai-education|equity]] considerations in [[medical-education|medical education]].
 
@@ -29,7 +29,7 @@ MedEasy multi-agent system simulates standardized patients with varying conditio
 
 ## Limitations
 
-- Qualitative and interpretive: the evaluative study involved 12 clinical-year medical students (P1–P12) in a single individual session of approximately 90–120 minutes, so the study does not estimate learning effects or establish that MedEasy improves clinical competence.
+- [[qualitative-research|Qualitative]] and interpretive: the evaluative study involved 12 clinical-year medical students (P1–P12) in a single individual session of approximately 90–120 minutes, so the study does not estimate learning effects or establish that MedEasy improves clinical competence.
 - Only two cases were used; both received clinical review, but their complete evaluation criteria were not independently validated as competence assessments.
 - MedEasy's predefined intent framework represents mainly history-taking inquiries, maps each utterance to no more than three categories, and collapses ambiguous or unrecognized inputs into a small-talk category.
 - Exposure was individual and time-limited, so repeated course use, educator-led debriefing, and group teaching around system traces were not observed.

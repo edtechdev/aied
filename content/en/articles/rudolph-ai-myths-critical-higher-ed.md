@@ -35,14 +35,14 @@ institutions: [governance, regulation]
 - **Faculty developers.** Embed critical [[ai-literacy]] in curricula and course review as a graduate attribute, teaching how AI systems are actually built — on click workers, data annotators, content moderators, and scraped, often copyrighted, human content — rather than presenting them as autonomous and objective.
 - **Instructors.** Teach the eight myths directly, including that AI is neither artificial nor intelligent and that [[ai-detection|AI detectors]] are unreliable, so learners can challenge techno-optimistic narratives rather than absorb them.
 - **Instructors.** Treat innovative assessment and [[metacognition|metacognitive]] initiatives as the integrity strategy instead of detection software, since model output is increasingly indistinguishable from human work.
-- **Administrators.** Weigh AI adoption against its equity, labor, and environmental costs — rare-mineral extraction in the Global South, energy and water consumption, offshored e-waste — and resist profit-driven Big Tech narratives in procurement and policy.
+- **Administrators.** Weigh AI adoption against its [[equity-in-ai-education|equity]], labor, and environmental costs — rare-mineral extraction in the Global South, energy and water consumption, offshored e-waste — and resist profit-driven Big Tech narratives in procurement and policy.
 - **Researchers.** Carry the geopolitical critique into [[governance]] work: China's ascent (e.g., DeepSeek's low-cost [[open-source]] models) unsettles the single-superpower assumption and raises questions about access, control, and export [[regulation]].
 
 ## Limitations
 
-- The piece is an editorial in *Journal of Applied Learning & Teaching* 8(1), not an empirical study or systematic review: it asserts and counters eight myths using secondary literature and recent-events examples, so it cannot establish how common these beliefs are among educators or what effects they have.
+- The piece is an editorial in *Journal of Applied Learning & Teaching* 8(1), not an empirical study or [[meta-analysis-systematic-review|systematic review]]: it asserts and counters eight myths using secondary literature and recent-events examples, so it cannot establish how common these beliefs are among educators or what effects they have.
 - Its evidence is documentary (e.g., Crawford, 2021, on labor and data extraction) and includes fast-moving examples such as DeepSeek's January 2025 release, so claims about market disruption date quickly.
-- As a normative argument for embedding critical AI literacy, it evaluates no intervention, no curriculum, and no learners; its recommendations remain untested.
+- As a normative argument for embedding critical AI literacy, it evaluates no intervention, no [[curriculum-design|curriculum]], and no learners; its recommendations remain untested.
 
 ## Citation
 
