@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T22:10:00-05:00"
+updated: "2026-11-04T17:25:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -217,6 +217,8 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 **A literacy score can be uncorrelated with the outcome it is meant to protect.** Among 300 university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found AI literacy uncorrelated with AI overtrust at the bivariate level (r = 0.051) while carrying a negative indirect association inside a serial mediation model. Once performance expectancy was in the model, higher AI literacy predicted lower overtrust. Knowing more about AI did not, on its own, change how much students trusted it.
 
+**Literacy as the civic remedy, argued rather than tested.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] treat critical AI and media literacies as the counterweight to cognitive outsourcing, because a literate student can interrogate the mechanism rather than the output. Their concrete prescription is to have students probe models as researchers rather than use them as customers, and to keep the student the chief epistemic authority. The essay reports no data, so it supplies a rationale for the literacy agenda and not evidence that the agenda works.
+
 ## Common Misconceptions
 
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
@@ -306,3 +308,5 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — Literacy reaching problem solving through cognitive moves, not tool access
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+

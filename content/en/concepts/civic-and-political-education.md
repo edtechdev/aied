@@ -1,7 +1,7 @@
 ---
 title: Civic and Political Education
 created: "2026-11-04T21:00:00-05:00"
-updated: "2026-11-04T16:09:41-05:00"
+updated: "2026-11-04T17:25:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -52,6 +52,8 @@ Three mechanisms recur. First, fabricated evidence: a model can produce a plausi
 
 The learner is also a producer, writing to officials and circulating evidence. The civic question is not whether AI assisted the text. It is whether the student can stand behind the claim and answer objections.
 
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] state the civic case in political-theory terms rather than test terms. Their argument is that education's contribution to democracy is the practice of critical evaluation, and that generative AI removes the practice rather than the content. Outsourcing inquiry, analysis, evaluation and synthesis to a model shortens the exercise that builds those capacities in both K–12 and higher education. They name three mechanisms: the disappearance of productive friction, automation bias, and an efficiency frame that treats the point of schoolwork as task completion. The stakes they attach to this are the largest in the corpus, and the least evidenced: authoritarian governments, they write, flourish when citizens cannot evaluate truth claims, and regimes have suppressed literacy to that end. Their remedy is a pair of literacies and a design commitment — critical AI and media literacy, and process over product. The essay supplies the rationale this page otherwise assembles piecemeal, and it supplies no data of its own.
+
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] adds a mechanism integrity framing misses. From South Africa's AI-mediated border regime the paper derives five civic digital literacy demands: algorithmic transparency, data rights, bias recognition, rights contestation, and [[governance|participatory governance]]. Someone who cannot recognize that a decision was algorithmic, or find the appeal route, has lost a civic capacity rather than a technical skill.
 
 ## Where media literacy ends and civic education begins
@@ -64,9 +66,9 @@ Frameworks cover the first half better. Nkalanga finds DigComp 2.1 includes data
 
 ## What the knowledge base holds, and what it does not
 
-The eight relevant sources are heterogeneous. Trust et al. provide the only large civic-content analysis. Nkalanga synthesized 53 documents with no primary data. Santos-Albardía et al. interviewed seven experts and surveyed 141 students at one university. [[fagerlund-competency-agency-purposes-ai-education-2026|A Finnish interview study]] with 13 teachers found qualification dominating accounts of [[ai-education|AI education]], while subjectification lacked concrete strategies. Zhai et al. offer a framework and Rudolph et al. an editorial. [[ai-lifelong-learning-policy|Theodora and Tselios (2026)]] ask whether [[adult-learning|adult learning]] serves economic needs or civic participation. [[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]] find democracy and rule of law named in 92 of 160 governance documents, but legal force in four.
+The nine relevant sources are heterogeneous. Trust et al. provide the only large civic-content analysis. Nkalanga synthesized 53 documents with no primary data. Santos-Albardía et al. interviewed seven experts and surveyed 141 students at one university. [[fagerlund-competency-agency-purposes-ai-education-2026|A Finnish interview study]] with 13 teachers found qualification dominating accounts of [[ai-education|AI education]], while subjectification lacked concrete strategies. Zhai et al. offer a framework and Rudolph et al. an editorial; Muñiz and Castro Samayoa argue the democratic case from political theory. [[ai-lifelong-learning-policy|Theodora and Tselios (2026)]] ask whether [[adult-learning|adult learning]] serves economic needs or civic participation. [[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]] find democracy and rule of law named in 92 of 160 governance documents, but legal force in four.
 
-The corpus holds eight sources that touch civic and political education, and none of them measures civic learning: no study in this knowledge base tests whether students exposed to AI-mediated civic instruction become better informed, more participatory, or more resistant to manipulation.
+The corpus holds nine sources that touch civic and political education, and none of them measures civic learning. The fullest statement of the stakes is an essay rather than a study, and no study in this knowledge base tests whether students exposed to AI-mediated civic instruction become better informed, more participatory, or more resistant to manipulation.
 
 The gap is specific. Nothing measures whether students can verify a generated claim against a primary source, identify an algorithmic decision and find an appeal route, or produce public writing that survives scrutiny. The media literacy survey's readiness figures are [[self-report-measures|self-assessed]], so they describe confidence rather than competence.
 
@@ -105,3 +107,5 @@ A research program would need baseline and post measures of civic knowledge, pub
 - [[rudolph-ai-myths-critical-higher-ed]] — Editorial naming deepfakes and automated disinformation as democratic threats (Rudolph et al. 2025)
 - [[ai-lifelong-learning-policy]] — Adult education policy and the civic purpose of lifelong learning (Theodora & Tselios 2026)
 - [[generative-ai-governance-education-scoping-review-2026]] — 160 governance documents; democracy and rule of law named in 92, legal force in four (Elmahjub et al. 2026)
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+

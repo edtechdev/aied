@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T17:25:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -177,6 +177,8 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 
 **Over-reliance shows up as a named challenge across disciplines, not as a single study's anomaly.** In a 66-study review of generative AI in [[inquiry-based-learning|inquiry learning]], [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found over-reliance or cognitive offloading reported in 16 studies (24.2%), behind inaccuracy at 31.8%. The pattern is reported by the primary studies rather than measured by the review, whose authors appraised neither study quality nor reporting bias.
 
+**The bypass configuration has a civic price the learning studies do not bill.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] argue that willed offloading of inquiry, analysis, evaluation and synthesis atrophies the practice democratic citizenship depends on. Their sequencing rule is the bypass/scaffold distinction stated developmentally: arithmetic before calculators, citation conventions before reference managers, and a chatbot introduced after the skill rather than in place of it. They also name the frame that makes bypass attractive, which is the efficiency premise that the point of schoolwork is to finish quickly.
+
 ## Common Misconceptions
 
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
@@ -257,3 +259,5 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[fan-metacognitive-offloading-sync-model-2026]] - SYNC quadrants and the recalibration loop: delegating the regulator, not just the work (Fan et al. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Withdrawing the regulator raises offloading and lowers output quality
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+
