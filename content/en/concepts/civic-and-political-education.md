@@ -107,5 +107,5 @@ A research program would need baseline and post measures of civic knowledge, pub
 - [[rudolph-ai-myths-critical-higher-ed]] — Editorial naming deepfakes and automated disinformation as democratic threats (Rudolph et al. 2025)
 - [[ai-lifelong-learning-policy]] — Adult education policy and the civic purpose of lifelong learning (Theodora & Tselios 2026)
 - [[generative-ai-governance-education-scoping-review-2026]] — 160 governance documents; democracy and rule of law named in 92, legal force in four (Elmahjub et al. 2026)
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The democratic case in political-theory terms: practice erodes, mechanisms, and authoritarianism stakes
 

@@ -310,6 +310,6 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — Literacy reaching problem solving through cognitive moves, not tool access
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Critical AI and media literacies as the civic counterweight to cognitive outsourcing
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implemented across 13 sections: readings, peer feedback, rubric-driven AI feedback, reflection
 

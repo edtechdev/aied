@@ -133,5 +133,5 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking ran through GenAI feedback literacy, strengthening with reflective thinking
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Comprehension, not actionability, carried the revision payoff
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Assessing peer and chatbot feedback on the same draft inside one reflection task
 

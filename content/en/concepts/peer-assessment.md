@@ -137,5 +137,5 @@ The open questions are about the strength of the evidence, not only about design
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
 - [[issa-teamwork-framework-academic-integrity-2024]] — self/peer reflective forms as per-person evidence behind a group grade (Issa & Hall 2024)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Role vocabulary from 654 students: tutor 28.6%, collaborator 23.1%, tool 9.9%, robot 7.7%
 

@@ -144,5 +144,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 - [[genai-dependence-research-creativity-2026]] — GenAI dependence positively associated with critical thinking in 1,157 graduate students
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The pessimistic reading of the moderation evidence: friction loss, automation bias, efficiency frame
 

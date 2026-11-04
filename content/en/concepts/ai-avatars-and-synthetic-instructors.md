@@ -157,5 +157,5 @@ That narrowness matters. Theelen's authors put it directly: fluency and a sense 
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating representation from agency in classroom simulation
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A proposed conversational voice agent for course feedback interviews
 - [[trikonet-trivalence-co-creativity-2026]] — Co-creative pedagogical avatars in socio-technical networks (TriKoNet)
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Only 51.7% of 654 students took the offered anthropomorphic roles; one called it a vending machine of feedback
 

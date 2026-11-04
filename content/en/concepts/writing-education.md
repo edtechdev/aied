@@ -218,5 +218,5 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement
-- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 courses, 654 students: the flagship PAIRR deployment and its feedback-only prompt
 

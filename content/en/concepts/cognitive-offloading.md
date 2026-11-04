@@ -259,5 +259,5 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[fan-metacognitive-offloading-sync-model-2026]] - SYNC quadrants and the recalibration loop: delegating the regulator, not just the work (Fan et al. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Withdrawing the regulator raises offloading and lowers output quality
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]]
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Sequencing rule applied developmentally: arithmetic before calculators, citations before reference managers
 
