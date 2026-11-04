@@ -279,3 +279,9 @@
   - agentic-ai
   - intelligent-tutoring
   reason: The app is an agent harness that plans and teaches a lesson from a probed picture of the learner's understanding, so agentic-ai (which already hosts deeptutor) and intelligent-tutoring are the two concept pages whose narrative it serves; both list it in connected_resources.
+
+- resource: learning-commons
+  reviewed: '2026-11-04'
+  hosts:
+  - curriculum-design
+  reason: The Knowledge Graph aligns generated content to academic standards and curricula, which is what the curriculum-design page argues a product has to get right; the page now lists it in connected_resources. Not listed on educational-nlp (the evaluators are a measurement layer the prose links, not an NLP method the page documents) or on open-source (the data is gated per dataset, so the page would overstate openness).
