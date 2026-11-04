@@ -71,6 +71,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - **Confidence reaches adoption partly through literacy.** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] tested a sequence on 622 undergraduates in Türkiye. AI self-efficacy predicted AI acceptance (B = 0.43, R² = 0.29), and [[ai-literacy|AI literacy]] carried part of that link (indirect B = 0.15, 95% CI [0.12, 0.19]) without absorbing it all. Confidence also has to be accounted for as a predictor of uptake, not only of capability. The design is cross-sectional with no demographic controls, so direction and mediated share are associations rather than effects.
 
+- **Necessary for usefulness, not merely correlated with it.** [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]] placed AI self-efficacy in front of the two acceptance beliefs for 405 design graduate students and found it the strongest antecedent of both: β = 0.458 on perceived usefulness and β = 0.394 on perceived ease of use. Their necessary condition analysis adds a stronger form of claim than the path above. Efficacy was the only condition identified as necessary for perceived usefulness (d = 0.125, p = 0.015). Usefulness at 80%, 90% and 100% of its scale required efficacy at 10.0%, 30.0% and 50.0%. Confidence therefore sits as a floor under the instrumental judgment rather than as one contributor among several. The design is cross-sectional and the model explains R² = 0.150 of intention, so treat the thresholds as within-sample.
+
 - **Behavioral traces can carry the signal, but the labels set the ceiling.** A two-university pipeline detected low self-efficacy from interaction traces; survey-occasion labels beat a mid-term split, and the MSLQ subscale alone labeled as well as the full instrument ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Common Misconceptions
@@ -122,3 +124,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[kim-overtrust-ai-literacy-2026]] - academic self-efficacy predicted higher AI overtrust rather than lower
 - [[somny-ml-self-efficacy-interaction-traces-2026]] — Using Machine Learning to Measure Self-Efficacy Belief Through Learners' Interaction Traces in Technology-Enhanced Learning
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI self-efficacy -> AI literacy -> AI acceptance, with the knowledge-mediated share measured (İşbulan et al. 2026)
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — self-efficacy as the necessary condition for perceived usefulness, with bottleneck thresholds (Chu & Liu 2026)

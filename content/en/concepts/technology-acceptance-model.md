@@ -78,6 +78,12 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 
 A recent extension inverts the usual direction, placing subject-specific motivational beliefs upstream of the TAM perceptions rather than beside them. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] report utility value predicting perceived usefulness at β = 0.43 and expectancy for success predicting ease of use at β = 0.39, while core TAM paths attenuate but stay significant.
 
+**Task–technology fit as a parallel path, and necessity as a separate question.** Most extensions above add constructs *inside* the belief model. One sibling framework that TAM studies rarely carry is Task–Technology Fit, which asks whether a tool's capabilities match the demands of the specific task. [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]] joined the two in 405 design graduate students at Chinese universities, and fit acted as a second route into attitude rather than a determinant of usefulness.
+
+Task characteristics fed fit at β = 0.322 and technology characteristics at β = 0.266. Fit then fed attitude at β = 0.224, beside perceived usefulness (0.376) and perceived ease of use (0.185), and attitude fed intention at β = 0.388. Self-efficacy carried the largest upstream coefficients, 0.458 on usefulness and 0.394 on ease of use. Perceived enjoyment raised ease of use (0.220) and left usefulness untouched (−0.033, p = 0.483) — an instrumental/affective split the classic model does not draw.
+
+The methodological addition is the more transferable part. A multilayer-perceptron network reproduced the PLS-SEM importance ranking in all four models. Necessary condition analysis then found only two floors: self-efficacy for usefulness (d = 0.125, p = 0.015) and attitude for intention (d = 0.132, p < 0.001). Attitude at 22.1%, 34.3% and 46.4% of its scale was required for intention at 80%, 90% and 100%, so attitude behaves as a gate rather than a weight, which is a different claim from a path coefficient of 0.388. The caution sits in the outcome: R² = 0.150 and Q² = 0.011 for intention say the ten hypothesized paths leave most of the variance elsewhere.
+
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -137,3 +143,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
 - [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust
 - [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] - AI literacy as the mediator between self-efficacy and acceptance, with an uncorrected anxiety association (İşbulan et al. 2026)
+- [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)

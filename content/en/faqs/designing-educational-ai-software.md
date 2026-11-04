@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices and Tips for Designing Effective Educational AI Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:39:29-04:00"
+updated: "2026-11-04T09:40:00-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
@@ -14,6 +14,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-04"
     agent: hermes-agent
 ---
 
@@ -93,6 +97,8 @@ A good retrieval index means the content is handled. EduGuard pairs retrieval wi
 
 The teacher is the fallback. All six teachers in the design study asked for logging, alerts and override as a condition of professional responsibility. A support ticket is not an override.
 
+Enjoyment is a substitute for fit. In a 405-student survey of design graduate students ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), task–technology fit carried its own path into attitude (β = 0.224) beside perceived usefulness, and the characteristics of the task drove fit more than the characteristics of the tool (β = 0.322 versus 0.266). Perceived enjoyment raised ease of use and did nothing for usefulness (β = −0.033, p = 0.483). Delight is worth building, but it does not stand in for matching the functions to the steps of the assignment.
+
 Accessibility is a later ticket. It sits in the spec or it becomes a rewrite, and generated alt text and captions still need a human check.
 
 ## What will come back at you
@@ -120,3 +126,7 @@ Accessibility is a later ticket. It sits in the spec or it becomes a rewrite, an
 ## Where to go next
 
 [[developing-ai-tutor]] covers the build, and [[designing-ai-into-learning]] covers the pedagogical defaults around it. For whether the thing works once deployed, see [[checking-whether-educational-ai-works]]; for the safety concepts behind the test plan, [[pedagogical-safety]] and [[hallucination-risk]]; for the procurement context, [[legal-issues-and-risks]].
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-04"
+    agent: hermes-agent
