@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-31T10:35:00-04:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -80,6 +80,8 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 
 - **Entanglement types differ in what they demand of the student, and that is why some stay rare.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classify 102 higher-education studies by how epistemic work is shared between student and system (Assistant, Enabler, Synthesizer, Generator, Reimaginator) and find the two forms that keep competence attributable to the individual student accounting for 42.16% of the corpus each, while the forms that distribute authorship remain marginal. Their explanation is institutional rather than technical: the rare types ask students to take epistemic responsibility for outputs they did not produce while still being assessed as individual authors, and it is that contradiction — not the division of labor itself — that keeps them out of practice. The design response is to make the distribution of epistemic work explicit, sequence activities across the spectrum, and build reflection on how responsibility was shared.
 
+- **Owning a work is not the same as authoring it.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] name an *authorship legitimation deficit*: a person can experience an output as their own yet be unable to warrant the author role, because psychological ownership, the sense of [[agency]], and answerability for releasing the work are separate routes that need not align. Their labor nexus of authorship classifies contributions role by role, so one record can support an editorial claim and fail a sole-creator claim at once. The account is a conceptual analysis with no data and no tested model, so the deficit is a proposed construct whose predictions remain untested.
+
 - **Guiding, not telling, needs its own criterion for judging an agent.** A design case that set out to mirror teacher facilitation found that a knowledge agent bounded to a curated base could be judged on accuracy, while an agent meant to lead students toward their own answers could not ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ### Connections
@@ -156,3 +158,4 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[teacher-ai-collaboration-work-engagement-2026]] — Teacher–AI collaboration's opposing pathways to work engagement via psychological availability and work alienation, bounded by digital competency
 - [[wang-agentic-translation-education-2026]] — Design protocol redirecting translator education toward AI orchestration, strategic judgment, and critical evaluation competences (no empirical data yet)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — An affective alert is a cue the teacher interprets, not an instruction to obey
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — The authorship legitimation deficit in human–AI co-creation

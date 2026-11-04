@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -60,6 +60,10 @@ Where generated materials fall short is curriculum fit: seven math teachers rate
 ### Connections to related concepts
 
 Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. Design work ultimately resolves into an *order of activity*: [[pedagogical-patterns|pedagogical patterns]] catalogue the tested orders of moves, so a designer can decide where in a lesson AI belongs rather than only what to include. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, [[motivation|motivational]] and social principles that learning design then operationalizes.
+
+### Co-design and what must stay human
+
+Co-design is the part of design practice where the relational work is least substitutable. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] treat [[generative-ai|GenAI]] as an unreliable collaborator rather than a drafting tool, and build a three-phase sequence around that unreliability: the model provokes, pluralises and facilitates, while the group interrogates its framings, generates counter-narratives and holds the deliberation itself. What stays human is the negotiation — which voices are missing, which framing the group adopts, and what the shared understanding will be. The article is a collective forum of nineteen authors with no experiment, so the sequence is a proposal about practice rather than a tested method.
 
 ### How learning design determines learning gains
 
@@ -166,3 +170,4 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design

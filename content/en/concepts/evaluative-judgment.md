@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -79,6 +79,8 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 
 The clearest risk is displacement, and it is evidenced in the feedback literature rather than only theorized. When the tool supplies the rubric, the feedback, and the monitoring, the learner's [[metacognition|metacognitive]] and evaluative practice is displaced rather than supported — the assessment becomes a performance of judgment the student never exercised, the same failure mode as [[cognitive-offloading|cognitive offloading]] expressed in the assessment register. Direct GenAI feedback in the multisite experiment pushed toward exactly this passive outsourcing. Grading pressure compounds it: where self-assessment or reflection on AI use is itself graded, students can produce the reflection the rubric wants rather than the reasoning, so genuine judgment requires making the exercise consequential — a decision that shows up in later work, an oral explanation, or a documented rationale that is itself examined.
 
+The same reasoning admits a structural version. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman and Thorén (2026)]] name **patterning** as the developmental work of organizing complexity into structures a learner finds meaningful, and argue that a system which pre-sorts relevance removes the conditions that work requires. Their term for the result is **borrowed judgment**: the learner appraises material the system already structured, so judgment is performed but never earned. The paper is a theoretical analysis with no data of its own — the Tentaklar platform illustrates the mechanism rather than testing it — so the failure mode is argued from design, not observed in learners.
+
 Displacement has a teacher-side version, and it is what turned several writing professors against outsourcing marking entirely. Five of the twenty-four said marking is how a teacher comes to understand their learners, so delegating it costs that understanding rather than only the hours ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Eighteen of the twenty-four treated human judgment as what catches the tool's errors and owns the accountability for them.
 
 ## Implications for practice
@@ -146,3 +148,4 @@ Displacement has a teacher-side version, and it is what turned several writing p
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
 - [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Instructors' revisions became reusable validation criteria (Tang et al. 2026)
+- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning removed from the task, and the judgment that gets borrowed

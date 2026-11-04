@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -85,6 +85,10 @@ The distinction is not academic. [[pramod-agentic-ai-motivational-pathways-2026|
 ### Pedagogy mediates AI's effect on engagement
 
 A systematic synthesis of [[higher-ed|AI in higher education]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **[[teacher-role|teaching]] method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, [[project-based-learning|project-based learning]], and scaffolded [[feedback|feedback loops]] — rather than as standalone tools. The review formalizes this as the **PMAISE model** ([[pedagogy|Pedagogical]] Mediation of AI for Student Engagement), mapping the alignment between AI [[ai-technologies|technologies]], pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding [[learning-design|instructional design]]: the same AI can amplify engagement in one pedagogy and inhibit it in another.
+
+A two-dimensional account makes the same point from the instructional side. Al Nafjan's Rigor–Commitment Alignment Framework treats engagement under GenAI as jointly determined by how demanding the task is and how committed the teacher is to students' learning, and it predicts four configurations ([[al-nafjan-genai-eap-writing-engagement-2026]]). Weak rigor with weak commitment (Neglectful) and weak rigor with strong commitment (Indulgent) both settle into surface use, since nothing obliges the student to evaluate or justify what the tool produced. High rigor with thin support (Punitive) is predicted to push students toward concealment rather than responsible use, and only high rigor with high support is predicted to yield deep, agentic engagement.
+
+The framework's load-bearing claim is amplification rather than causation. Differences between the four configurations should widen as GenAI becomes readily available, as assessment rewards the final product, and as composing processes stay invisible, so the tool magnifies conditions the task and the teacher already set instead of creating engagement patterns on its own. Al Nafjan states that the framework is propositional and untested, which makes the four profiles expectations awaiting empirical test rather than observed effects.
 
 ### Connections to related concepts
 
@@ -195,3 +199,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
 - [[eight-mode-ai-engagement-typology-2026]] — Self-reported and observed AI engagement profiles failed to correspond, and only behavior tracked quiz scores (Keith, Wood & Posey 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — Four predicted engagement configurations under GenAI, and why the tool amplifies them

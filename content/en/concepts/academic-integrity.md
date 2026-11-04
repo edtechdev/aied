@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -55,6 +55,8 @@ The enforcement machinery that sits on top of integrity policy is itself a desig
 A second failure is one of scope rather than proof. [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions written at the level of platform identity rather than function capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — alongside the generative drafting they mean to bar, even though the peer-reviewed computer science literature treats recognition and generation as distinct operations. The cost lands unevenly: students with conditions affecting fine motor control, handwriting legibility or typing accuracy have relied on exactly those tools, and as standalone voice-to-text products are discontinued or degraded, AI-powered transcription is filling the functional gap, so an over-inclusive rule removes a primary means of producing legible work, making the dispute an [[accessibility]] and [[equity-in-ai-education|equity]] one before it is an integrity one. Wright's remedy is a function-based definition of generative AI plus four operational criteria — fidelity, non-augmentation, traceability and attestation — that give a student a structured route to rebut a transcription-only allegation while leaving the burden of proof with the institution.
 
 Detection's evidentiary problem is also a validity problem. Because AI assistance is iterative and interwoven with drafting rather than outsourced wholesale, authorship and ownership of meaning come apart, and a sound submitted product may not establish that the student exercised the judgment the task was meant to target. Detector performance varies across tasks, disciplines and model versions, and disclosed or suspected AI use can act as a biasing cue for markers, so a detection response adds construct-irrelevant variance rather than removing it. Where integrity debates ask who produced the words, a validity account asks what claim about the student the performance warrants.
+
+**Integrity rules are applied to a phenomenon they do not model.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] locate the problem in answerability rather than in how much of the text a machine wrote: an authorship legitimation deficit appears when a designation outruns the grounds the person can offer for the contribution they made. A rule that measures the proportion of generated text therefore cannot see the mismatch it means to catch, and a disclosure that AI was used says nothing about what the human contributed.
 
 ### The rationalization problem
 
@@ -239,3 +241,4 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 - [[boyd-swan-employer-responses-genai-2026]] — Survey experiment: the substitution framing of student AI use penalizes high-GPA applicants on hiring and salary; in-person testing is the only remedy both groups chose
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — teamwork assessment with per-member verification as an authentication design (Issa & Hall 2024)
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem

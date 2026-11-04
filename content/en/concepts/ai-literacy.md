@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -199,6 +199,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Verification habits pay off only through regulation.** In [[davor-ai-supported-learning-higher-order-outcomes-2026|Davor, Larbi and Boateng (2026)]]'s survey of 533 university students in Ghana, AI verification literacy had no significant direct effect on [[critical-thinking|critical thinking]] (beta = .076, p = .090) or technical [[problem-solving]] (beta = .043, p = .385) and mattered only through [[metacognition|metacognitive self-regulation]] (beta = .167, p < .001), a full mediation the authors call metacognitive activation. AI task scaffolding predicted both outcomes (beta = .185 and .170), while [[cognitive-offloading|cognitive offloading]] tendency predicted them negatively (beta = -.240 and -.312) and depressed regulation as well (beta = -.294). Teaching students to check AI output is therefore not enough on its own: evaluative habits need planning, monitoring and reflection built into the task.
 
+- **Literacy reaches problem solving through cognitive moves, not through tool access.** A time-separated three-wave survey of 784 students at six Guangdong higher vocational colleges put AI literacy's total association with self-rated [[problem-solving|complex problem solving]] at 0.480: 0.248 direct and 0.232 indirect, split 0.151 through systematic thinking and 0.081 through cognitive load ([[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]]). Perceived school ICT support moderated both routes (interactions 0.128 and −0.352), carrying the conditional indirect effects from 0.117 to 0.176 and from 0.038 to 0.127 in a [[self-report-measures|self-report]] survey, not a trial.
+
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
@@ -300,4 +302,4 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
-
+- [[huang-ai-literacy-vocational-problem-solving-2026]] — Literacy reaching problem solving through cognitive moves, not tool access

@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -91,6 +91,14 @@ A fourth axis is the *audience* rather than the individual learner: [[bespoke-in
 
 Personalization can outweigh a human presenter: in a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded ones (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first, against 73.8% for human-recorded ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
+## How strong is the evidence
+
+The only pooled estimate available here comes from a [[meta-analysis-systematic-review|meta-analysis]] of four controlled studies covering 420 students, all in computing and engineering higher education ([[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor & García Ortiz, 2026]]). The random-effects pooled effect is large, *g* = 1.01 (95% CI 0.33–1.68), and that number should be read as a caution rather than a headline. With four studies, the Hartung-Knapp adjustment widens the interval to −0.10 to 2.11 (*p* = .063), which includes no effect.
+
+Heterogeneity is severe: *Q*(3) = 25.20, I² = 88.8%, τ² = 0.41. The 95% prediction interval, −0.42 to 2.43, means a new implementation could plausibly yield a null or negative result. Two of the four studies were at serious risk of bias and carried 53% of the weight. Publication bias was not assessable, because the usual tests need at least ten studies.
+
+GRADE certainty was rated very low. The honest reading is that the point estimate is large and the interval is too uncertain to act on. The pooled outcome was academic performance in computing and engineering courses, not learning broadly. Claims that AI personalization works should carry that qualifier, since this is the thinnest base on which the page's evidence rests.
+
 ## Prompt-conditioned micro-personalization
 
 [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm]]/[[rag]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
@@ -168,3 +176,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)
+- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Four studies, a large pooled effect, and very low certainty

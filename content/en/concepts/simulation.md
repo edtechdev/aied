@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -61,6 +61,12 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagogical-agent]]. It is a mechanism for experiential and [[constructivist]] learning and is amplified by AI's ability to generate adaptive, realistic practice environments.
 
+## What cannot be delegated
+
+Most work on simulated conversation asks how faithfully an agent plays its part. [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026|Álvarez-Rubio (2026)]] asks the prior question: what a [[teacher-role|teacher]] cannot hand over at all across the simulation cycle of briefing, scenario, and debrief. The paper separates four delegation operations: execution, conveyance, facilitation, and the undertaking of a commitment. Execution and conveyance let the teacher correct a failure afterward; facilitation hands over judgment about an activity's structure. The fourth fails differently, because a commitment's essential condition is answerability as a relation to those who may demand reasons. An agent can perform a debriefing function; it cannot be the party who answers for it. On this account a chatbot that debriefs as well as a human never becomes answerable, so stronger debriefing evidence cannot move the line.
+
+The framework travels as a test rather than a catalog. Three questions decide any function: what would pass to the agent, whether the teacher could correct a failure, and who could be asked to stand behind the agent's words. A function with no answer to the third is not a candidate. Applied to preparation, the test yields six verdicts — diagnosis and logistics delegable, stated objectives partly delegable, and the fiction contract, psychological safety, and assessment terms refused. In the debrief the paper sets out three stances an agent might hold, expert, character, and Maieutic, and reports the Maieutic failure mode: an agent built to teach by never answering left students frustrated. It is a design framework, not an outcome study. The authors state that no data were collected for research, and the deployment reported is a pilot read through the teacher's own observations.
+
 ## Common Misconceptions
 
 - **"Simulation is cheaper and therefore second-best."** Autonomous [[llm|LLM]] sim-pilots **replace the specialist human role-players who staff air-traffic-control simulations, removing a training-capacity bottleneck** — the constraint was staffing, not fidelity. Where human role-players are scarce, the LLM simulation is not a substitute but the only available option.
@@ -105,3 +111,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating the practice represented, the simulated situation, agency and adaptation, and orchestration
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — From technology adoption to curricular coherence: technology-enhanced simulation as a bridge in health professions education
+- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — What a teacher cannot delegate to a conversational agent across the simulation cycle

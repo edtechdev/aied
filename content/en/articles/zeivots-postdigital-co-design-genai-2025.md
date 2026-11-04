@@ -21,9 +21,9 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*This page summarizes a collective forum article rather than a study. It reports no experiment and collects no data: the evidence it offers is nineteen authors' practice-based accounts, plus three open reviews published alongside them.*
-
 > **Synthesis:** Nineteen authors and three open reviewers ask what happens to co-design — the inclusive, iterative, relational practice of designing curricula, environments and institutions together — when [[generative-ai|GenAI]] is treated not as a tool but as a collaborator in the [[design-thinking|design process]]. The article is structured in three parts: a [[meta-analysis-systematic-review|literature review]] of co-design, GenAI and postdigital theory; eleven situated contributions from educators, researchers and designers in ten countries; and a discussion of implications for [[higher-ed|higher education]]'s design futures. Its central move is to [[agency|distribute agency]]: where most AI-in-education work asks whether the technology helps or harms, this asks what [[learning-design|design practice]] becomes when knowledge production, narrative construction and iterative [[reflection]] are co-produced with a non-human participant. Two claims run through it — that GenAI simultaneously pluralises perspectives and defers to normative ones, so language fluency must not be read as breadth of knowing, and that the entanglement intensifies rather than removes the need for human interpretation and care.
+
+*This page summarizes a collective forum article rather than a study. It reports no experiment and collects no data: the evidence it offers is nineteen authors' practice-based accounts, plus three open reviews published alongside them.*
 
 ## How the Article Is Built
 

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -97,6 +97,12 @@ This coaching-not-composing stance is the writing-domain expression of the knowl
 ### Connections
 
 Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-assessment]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
+
+## What GenAI demands of the task
+
+Al Nafjan (2026) proposes the Rigor–Commitment Alignment Framework (RCAF), which locates engagement in the writing task and the teaching around it rather than in the tool ([[al-nafjan-genai-eap-writing-engagement-2026]]). Academic rigor is the demand a task places on sustained cognitive effort and disciplinary reasoning, and the framework splits it into cognitive demand, epistemic authenticity, and performance accountability. Teacher commitment is defined narrowly, as commitment to students' learning enacted through instructional responsiveness, relational support, and [[scaffolding|critical scaffolding]], not as a trait a teacher has or lacks. The author is explicit that the RCAF is propositional and has not been empirically validated, so it is a design vocabulary for writing programs rather than a tested effect.
+
+For task design the claim is that rigor and commitment interact rather than add. High demand with thin support is predicted to push students toward concealment and detection games, while warmth without demand lets fluent output pass for learning. Only the high-demand, high-support configuration is predicted to produce deep engagement, with [[evaluative-judgment|evaluative judgment]] doing the work of deciding when output is useful, insufficient, or misleading. Because GenAI can produce acceptable academic prose, the framework gives writing assessment a specific obligation: require visible drafting and revision so that performance stays tied to the thinking it is supposed to represent.
 
 ## Implications for writing instructors
 
@@ -209,3 +215,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement

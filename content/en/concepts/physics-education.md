@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -39,6 +39,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 **Socratic AI tutoring in physics** is the most developed theme, with three articles deploying [[llm]]-powered Socratic dialogue in real physics courses. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et al.]]** demonstrated that sustained Socratic interaction with an AI chatbot dramatically improves question specificity in introductory mechanics, with 150 STEM majors in a live course. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi & Rebello]]** built a bottom-up taxonomy of 357 student discourse categories from the same deployment, revealing that meta-procedural turns — where students cede strategic control to the tutor — dominate student interactions. Both contribute to broader [[socratic-method]] research and connect to [[intelligent-tutoring|AI Tutoring]] and [[intelligent-tutoring]] frameworks.
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
+
+**Use is selective, and approval outruns it.** In a survey of 209 engineering students at six Kazakh universities, 36.1% reported regular general AI use, but only 20.2% used it very frequently in physics and specialized disciplines ([[nauryzbayeva-ai-physics-education-future-engineers-2026|Nauryzbayeva et al. (2026)]]). Use concentrated on explanation-seeking tasks — 55.1% for clarifying difficult topics and 51.4% for homework — ahead of written assignments at 43.5%. Engineering thinking drew the strongest perceived contribution at 61.1%, yet the instrument measured only use patterns and [[self-report-measures|perceived support]], not learning. Nothing here shows that AI improved physics learning, and the authors say so.
 
 **Structured use, not merely adoption.** The adoption studies above describe who uses AI and how much they trust it. A separate strand asks what instructional design should do with that use, and multi-institutional evidence on it has been scarce. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** ran the four-step Physics AI-Replication protocol in 11 algebra- and calculus-based sections at four institutions: identify a hard problem, get an AI explanation and solution, request similar practice problems, then solve them independently before checking.
 
@@ -158,3 +160,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — A well-engineered tutor beat in-class active learning
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Energy preconceptions decided where AI query negotiation sat in the group network: an integration hub when members disagreed, a linear query-then-read path when they agreed (Wang et al. 2026)
+- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Use patterns and perceived support among future engineers

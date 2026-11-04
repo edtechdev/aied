@@ -20,9 +20,9 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*This page summarizes a theoretical article. It reports no study, collects no data, and its three design orientations are proposals derived from theory rather than tested interventions.*
-
 > **Synthesis:** Schlauch inverts the usual question about AI and literacy. Instead of asking what new literacies [[generative-ai|GenAI]] demands, he asks what [[llm|LLMs]] reveal about literacy itself — namely that it was never housed in the individual learner but constituted within more-than-human assemblages of people, texts, technologies, practices and infrastructures. That condition was easy to ignore while nonhuman contributors could be absorbed into the background; LLMs make the absorption untenable. Drawing on the sociomaterial tradition in science and technology studies, actor-network theory and postdigital literacy research, he argues that competence frameworks, by centring the individual, structurally cannot register the distributed, infrastructural and nonhuman dimensions of literacy this shift makes visible. The constructive payoff is three design orientations for postdigital literacy environments — making assemblages visible, sustaining fluid literacy spaces, and preserving conditions for critical reflexivity — each described as a disposition to cultivate rather than a technique to deliver, and each carrying political as well as [[pedagogy|pedagogical]] stakes.
+
+*This page summarizes a theoretical article. It reports no study, collects no data, and its three design orientations are proposals derived from theory rather than tested interventions.*
 
 ## Why the Individual Learner Is the Wrong Unit
 

@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 223 concepts, 2011 articles, and 42 FAQs.
+> Complete text of 223 concepts, 2019 articles, and 42 FAQs.
 
 # Concepts
 
@@ -376,6 +376,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Verification habits pay off only through regulation.** In [[davor-ai-supported-learning-higher-order-outcomes-2026|Davor, Larbi and Boateng (2026)]]'s survey of 533 university students in Ghana, AI verification literacy had no significant direct effect on [[critical-thinking|critical thinking]] (beta = .076, p = .090) or technical [[problem-solving]] (beta = .043, p = .385) and mattered only through [[metacognition|metacognitive self-regulation]] (beta = .167, p < .001), a full mediation the authors call metacognitive activation. AI task scaffolding predicted both outcomes (beta = .185 and .170), while [[cognitive-offloading|cognitive offloading]] tendency predicted them negatively (beta = -.240 and -.312) and depressed regulation as well (beta = -.294). Teaching students to check AI output is therefore not enough on its own: evaluative habits need planning, monitoring and reflection built into the task.
 
+- **Literacy reaches problem solving through cognitive moves, not through tool access.** A time-separated three-wave survey of 784 students at six Guangdong higher vocational colleges put AI literacy's total association with self-rated [[problem-solving|complex problem solving]] at 0.480: 0.248 direct and 0.232 indirect, split 0.151 through systematic thinking and 0.081 through cognitive load ([[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]]). Perceived school ICT support moderated both routes (interactions 0.128 and −0.352), carrying the conditional indirect effects from 0.117 to 0.176 and from 0.038 to 0.127 in a [[self-report-measures|self-report]] survey, not a trial.
+
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
@@ -477,6 +479,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
 - [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
+- [[huang-ai-literacy-vocational-problem-solving-2026]] — Literacy reaching problem solving through cognitive moves, not tool access
 
 ---
 
@@ -793,6 +796,9 @@ The same bargain applies to emotional labor, and there the evidence is newer. [[
 
 The ladder this page tracks has three rungs, and only the first two belong here. **Offloading** is delegating mental work, which is often productive; **over-reliance** is doing it chronically and without calibration, which is the behavioral failure this section documents; **[[cognitive-surrender]]** is a different failure — the evaluative step never happens, so the learner adopts the AI's answer without any judgment of its quality. The boundary is visible in what the AI is asked to supply: [[du-yuan-epistemic-dependence-2026|Du and Yuan's]] *instrumental* assistance produces output, while *judgment-bearing* assistance supplies the standard by which output is judged, and it is the second kind that displaces the work expertise depends on. [[young-people-learning-generative-ai-rapid-review-2026|The Sydney rapid review]] draws the same three-way split across 271 papers. Surrender therefore has its own experimental signature and its own page; over-reliance remains the frequency-and-calibration problem, and the two are separable outcomes in the same task — in [[shaw-nave-cognitive-surrender-2026|Shaw and Nave's]] trials, 73.2% of incorrect-AI trials ended in surrender while 19.7% ended in strategic offloading.
 **The step past offloading is offloading the regulator.** [[fan-metacognitive-offloading-sync-model-2026]] restate Risko and Gilbert's sequence — activate beliefs about the tool, judge one's own capacity against it, choose a strategy, recalibrate from the outcome — and name the failure *metacognitive* offloading: the loop is skipped, strategy evaluation is handed to the AI, or fluent success biases the next round of delegation. Their counterpart term is metacognitive onloading, scaffolding that makes the learner responsible for goals, monitoring and strategy judgment. Both sit on two axes, performance and durable learning, so a rise in output quality stops counting as evidence about the learner. The framework is conceptual and untested.
+
+**Withdrawing the regulator raises offloading and lowers output quality.** Across four experiments with 728 adults, experimentally induced [[metacognition|metacognitive]] disengagement raised cognitive offloading (indirect effect 0.51, 58.0% of the total) and cut expert-rated innovation quality from 4.78 to 3.95, with 57.8% of that drop running through offloading ([[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao, Men & Zhang (2026)]]). Task complexity strengthened that path and [[ai-literacy|AI literacy]] weakened it. Two limits bound the claim: the assistant was a researcher-scripted response bank rather than a live model, and occupation and student status went unreported, so this is neither a classroom nor a workplace finding.
+
 **Dependence has a trajectory, and it is not monotonic.** Across four waves over 18 months (n = 524), [[technology-acceptance-model|perceived usefulness]] predicted *lower* later academic dependence rather than more, so an escalation story keyed to how useful students find the tool gets the direction wrong ([[zhang-usefulness-dependence-genai-2026|Zhang, 2026]]).
 
 **A benchmark external to any one study measures the same failure and finds it common.** ImpactBench scored ten models on 48,540 simulated conversations: its Cognitive Offloading Asymmetry metric averaged 51.9% and Planning-Related Cognitive Intrusion 47.1%. Its education case has Claude Sonnet 5 hand over a thesis, an outline, and a complete essay "ready to paste in" once a simulated student presses for a finished draft, while still refusing to fabricate citations ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Learning & Skill Development was the weakest of 14 subareas on both polarities, at 45.9% and 16.3%.
@@ -938,6 +944,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] - over-reliance or cognitive offloading named as a challenge in 16 of 66 inquiry studies
 - [[fan-metacognitive-offloading-sync-model-2026]] - SYNC quadrants and the recalibration loop: delegating the regulator, not just the work (Fan et al. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Withdrawing the regulator raises offloading and lowers output quality
 
 ---
 
@@ -1363,6 +1370,8 @@ A second failure is one of scope rather than proof. [[wright-transcription-not-g
 
 Detection's evidentiary problem is also a validity problem. Because AI assistance is iterative and interwoven with drafting rather than outsourced wholesale, authorship and ownership of meaning come apart, and a sound submitted product may not establish that the student exercised the judgment the task was meant to target. Detector performance varies across tasks, disciplines and model versions, and disclosed or suspected AI use can act as a biasing cue for markers, so a detection response adds construct-irrelevant variance rather than removing it. Where integrity debates ask who produced the words, a validity account asks what claim about the student the performance warrants.
 
+**Integrity rules are applied to a phenomenon they do not model.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] locate the problem in answerability rather than in how much of the text a machine wrote: an authorship legitimation deficit appears when a designation outruns the grounds the person can offer for the contribution they made. A rule that measures the proportion of generated text therefore cannot see the mismatch it means to catch, and a disclosure that AI was used says nothing about what the human contributed.
+
 ### The rationalization problem
 
 Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[misconceptions|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
@@ -1546,6 +1555,7 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 - [[boyd-swan-employer-responses-genai-2026]] — Survey experiment: the substitution framing of student AI use penalizes high-GPA applicants on hiring and salary; in-person testing is the only remedy both groups chose
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — teamwork assessment with per-member verification as an authentication design (Issa & Hall 2024)
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem
 
 ---
 
@@ -2042,6 +2052,10 @@ Where generated materials fall short is curriculum fit: seven math teachers rate
 
 Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. Design work ultimately resolves into an *order of activity*: [[pedagogical-patterns|pedagogical patterns]] catalogue the tested orders of moves, so a designer can decide where in a lesson AI belongs rather than only what to include. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, [[motivation|motivational]] and social principles that learning design then operationalizes.
 
+### Co-design and what must stay human
+
+Co-design is the part of design practice where the relational work is least substitutable. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] treat [[generative-ai|GenAI]] as an unreliable collaborator rather than a drafting tool, and build a three-phase sequence around that unreliability: the model provokes, pluralises and facilitates, while the group interrogates its framings, generates counter-narratives and holds the deliberation itself. What stays human is the negotiation — which voices are missing, which framing the group adopts, and what the shared understanding will be. The article is a collective forum of nineteen authors with no experiment, so the sequence is a proposal about practice rather than a tested method.
+
 ### How learning design determines learning gains
 
 Learning design is the lever that decides whether AI produces [[learning-gains|learning gains]] or merely AI-inflated performance. The knowledge base's evidence is consistent on this: **the same AI tool yields large gains or net harm depending on how the learning experience is designed around it.** [[instructional-guidance-genai-learning|Hou et al.]] showed that a five-step prompting framework grounded in learning theory significantly improved higher-order cognitive outcomes, while access to AI alone did not; [[genai-mindtool-generative-learning|mindtool]] and [[airis-cognitively-activated-ai-physics-2026|AIRIS]] frameworks preserve the learner's cognitive work so that durable gains (rather than task-efficiency) result. Design choices that protect [[learning-gains]] — scaffolding that requires a student attempt, [[formative-assessment]] with unassisted outcome measures, and pedagogical structure that keeps the learner the agent — mirror the field's finding (see [[learning-gains]]) that AI is a strong gain when it coaches and a harm when it answers. Conversely, poorly designed AI-integrated lessons fall prey to the [[cognitive-offloading|performance-learning gap]], where apparent success masks no learning.
@@ -2147,6 +2161,7 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design
 
 ---
 
@@ -3208,6 +3223,8 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 
 - **Entanglement types differ in what they demand of the student, and that is why some stay rare.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classify 102 higher-education studies by how epistemic work is shared between student and system (Assistant, Enabler, Synthesizer, Generator, Reimaginator) and find the two forms that keep competence attributable to the individual student accounting for 42.16% of the corpus each, while the forms that distribute authorship remain marginal. Their explanation is institutional rather than technical: the rare types ask students to take epistemic responsibility for outputs they did not produce while still being assessed as individual authors, and it is that contradiction — not the division of labor itself — that keeps them out of practice. The design response is to make the distribution of epistemic work explicit, sequence activities across the spectrum, and build reflection on how responsibility was shared.
 
+- **Owning a work is not the same as authoring it.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] name an *authorship legitimation deficit*: a person can experience an output as their own yet be unable to warrant the author role, because psychological ownership, the sense of [[agency]], and answerability for releasing the work are separate routes that need not align. Their labor nexus of authorship classifies contributions role by role, so one record can support an editorial claim and fail a sole-creator claim at once. The account is a conceptual analysis with no data and no tested model, so the deficit is a proposed construct whose predictions remain untested.
+
 - **Guiding, not telling, needs its own criterion for judging an agent.** A design case that set out to mirror teacher facilitation found that a knowledge agent bounded to a curated base could be judged on accuracy, while an agent meant to lead students toward their own answers could not ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ### Connections
@@ -3284,6 +3301,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[teacher-ai-collaboration-work-engagement-2026]] — Teacher–AI collaboration's opposing pathways to work engagement via psychological availability and work alienation, bounded by digital competency
 - [[wang-agentic-translation-education-2026]] — Design protocol redirecting translator education toward AI orchestration, strategic judgment, and critical evaluation competences (no empirical data yet)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — An affective alert is a cue the teacher interprets, not an instruction to obey
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — The authorship legitimation deficit in human–AI co-creation
 
 ---
 
@@ -7119,6 +7137,10 @@ The knowledge base treats distributed cognition alongside its neighboring theore
 - **[[cognitive-offloading]]** is the practical mechanism by which cognitive work is handed off to external systems (including AI), and is the risk-laden counterpart to DCog's descriptive account.
 - **Extended cognition / the extended mind thesis** (used in posthumanist work) holds that external artifacts can be *constitutive* parts of a cognitive system, not merely instruments — a stronger claim that AI is part of the learner's mind itself.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
+### Whose cognition? The unit-of-analysis problem
+
+[[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] pushes that unit-of-analysis question harder than most work in this tradition. His claim is that literacy is not an individual possession but something enacted with materials and machines, which makes the individual learner the wrong unit of analysis. A competence framework centered on the person therefore cannot register infrastructural or nonhuman contributions, so the field keeps naming distribution and then resolving it back onto the learner. The equity edge is his difficulty argument: reflexivity depends on lived experience and relations of power, so students whose language or writing practices sit furthest from the encoded norm carry the largest cost. The argument is theoretical and reports no dataset, and its design orientations remain untested proposals.
+
 ### Why it matters for AI design and evaluation
 
 Distributed cognition provides both a design lens and an evaluation lens. For design, it asks how to apportion cognitive work between learners and AI to preserve (not erode) the human learner's agency, [[metacognition]], and self-regulation. For evaluation, it reframes success metrics: instead of asking only "did performance improve?", DCog asks whether the distribution of cognition supports durable learning, epistemic agency, and educational justice — a perspective that connects to the knowledge base's [[ai-ed-evaluation]] and [[learning-theories]] concerns.
@@ -7160,6 +7182,7 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
 - [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
 - [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Transactive memory with GenAI: division of labor and reflective transformation mediate critical thinking (Akgun & Toker 2026)
+- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Why the individual learner is the wrong unit of analysis
 
 ---
 
@@ -8140,6 +8163,12 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 **Monitoring changes the route more than it blocks the path.** [[guo-overreliance-genai-feedback-2026|Guo and Dong (2026)]] split 600 undergraduates by a monitoring item and estimated each group separately: load predicted cognitive offloading at β = 0.844 for low monitors and β = 0.840 for high, effectively the same. Offloading predicted overreliance at 0.396 and 0.506, and the direct load path ran 0.560 and 0.419. Dependence among stronger monitors therefore traveled more through offloading and less directly. These are separate models, not a formal multi-group test.
 
+## When monitoring is skipped
+
+[[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao et al. (2026)]] turned the suppression risk into a measured quantity across four experiments with 728 adults. Higher AI assistance raised task-level disengagement to 4.82 from 3.96 (*d* = 0.67), and [[cognitive-offloading|offloading]] carried 58.0% of the effect (indirect 0.51, 95% CI [0.32, 0.72]). Expert raters then scored the delegated proposals lower: quality fell from 4.78 to 3.95 (*d* = 0.75), with 57.8% of that drop running through disengagement (indirect -0.48, 95% CI [-0.68, -0.30]).
+
+The cost is conditional. Task complexity strengthened that path (index -0.39, 95% CI [-0.62, -0.16]) while [[ai-literacy|AI literacy]] weakened it (index 0.30, 95% CI [0.09, 0.52]). So monitoring is not only a capacity that predicts better use; skipping it is a step whose absence is visible in output quality through an offloading route. Two limits bound the claim. The AI was a researcher-scripted response bank, not a live model, and occupation and student status went unreported, so this is neither a classroom nor a workplace study.
+
 ## The Engagement–Motivation Distinction
 
 Scheu et al. (2026) found a critical split:
@@ -8259,6 +8288,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[ai-metacognition-three-level-meta-analysis-2026]] — Three-level meta-analysis: pooled g = 0.624, falling to non-significance for accuracy-rated monitoring (Li et al. 2026)
 - [[fan-metacognitive-offloading-sync-model-2026]] — SYNC model: metacognitive offloading vs. onloading, and task performance decoupled from durable learning (Fan et al. 2026)
 - [[guo-overreliance-genai-feedback-2026]] — Monitoring does not block the offloading path so much as reroute it
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — When monitoring is skipped, and what it costs
 
 ---
 
@@ -9387,6 +9417,10 @@ The distinction is not academic. [[pramod-agentic-ai-motivational-pathways-2026|
 
 A systematic synthesis of [[higher-ed|AI in higher education]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **[[teacher-role|teaching]] method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, [[project-based-learning|project-based learning]], and scaffolded [[feedback|feedback loops]] — rather than as standalone tools. The review formalizes this as the **PMAISE model** ([[pedagogy|Pedagogical]] Mediation of AI for Student Engagement), mapping the alignment between AI [[ai-technologies|technologies]], pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding [[learning-design|instructional design]]: the same AI can amplify engagement in one pedagogy and inhibit it in another.
 
+A two-dimensional account makes the same point from the instructional side. Al Nafjan's Rigor–Commitment Alignment Framework treats engagement under GenAI as jointly determined by how demanding the task is and how committed the teacher is to students' learning, and it predicts four configurations ([[al-nafjan-genai-eap-writing-engagement-2026]]). Weak rigor with weak commitment (Neglectful) and weak rigor with strong commitment (Indulgent) both settle into surface use, since nothing obliges the student to evaluate or justify what the tool produced. High rigor with thin support (Punitive) is predicted to push students toward concealment rather than responsible use, and only high rigor with high support is predicted to yield deep, agentic engagement.
+
+The framework's load-bearing claim is amplification rather than causation. Differences between the four configurations should widen as GenAI becomes readily available, as assessment rewards the final product, and as composing processes stay invisible, so the tool magnifies conditions the task and the teacher already set instead of creating engagement patterns on its own. Al Nafjan states that the framework is propositional and untested, which makes the four profiles expectations awaiting empirical test rather than observed effects.
+
 ### Connections to related concepts
 
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the [[quantitative-research|quantitative]] tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
@@ -9496,6 +9530,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
 - [[eight-mode-ai-engagement-typology-2026]] — Self-reported and observed AI engagement profiles failed to correspond, and only behavior tracked quiz scores (Keith, Wood & Posey 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — Four predicted engagement configurations under GenAI, and why the tool amplifies them
 
 ---
 
@@ -12974,6 +13009,12 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagogical-agent]]. It is a mechanism for experiential and [[constructivist]] learning and is amplified by AI's ability to generate adaptive, realistic practice environments.
 
+## What cannot be delegated
+
+Most work on simulated conversation asks how faithfully an agent plays its part. [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026|Álvarez-Rubio (2026)]] asks the prior question: what a [[teacher-role|teacher]] cannot hand over at all across the simulation cycle of briefing, scenario, and debrief. The paper separates four delegation operations: execution, conveyance, facilitation, and the undertaking of a commitment. Execution and conveyance let the teacher correct a failure afterward; facilitation hands over judgment about an activity's structure. The fourth fails differently, because a commitment's essential condition is answerability as a relation to those who may demand reasons. An agent can perform a debriefing function; it cannot be the party who answers for it. On this account a chatbot that debriefs as well as a human never becomes answerable, so stronger debriefing evidence cannot move the line.
+
+The framework travels as a test rather than a catalog. Three questions decide any function: what would pass to the agent, whether the teacher could correct a failure, and who could be asked to stand behind the agent's words. A function with no answer to the third is not a candidate. Applied to preparation, the test yields six verdicts — diagnosis and logistics delegable, stated objectives partly delegable, and the fiction contract, psychological safety, and assessment terms refused. In the debrief the paper sets out three stances an agent might hold, expert, character, and Maieutic, and reports the Maieutic failure mode: an agent built to teach by never answering left students frustrated. It is a design framework, not an outcome study. The authors state that no data were collected for research, and the deployment reported is a pilot read through the teacher's own observations.
+
 ## Common Misconceptions
 
 - **"Simulation is cheaper and therefore second-best."** Autonomous [[llm|LLM]] sim-pilots **replace the specialist human role-players who staff air-traffic-control simulations, removing a training-capacity bottleneck** — the constraint was staffing, not fidelity. Where human role-players are scarce, the LLM simulation is not a substitute but the only available option.
@@ -13018,6 +13059,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating the practice represented, the simulated situation, agency and adaptation, and orchestration
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — From technology adoption to curricular coherence: technology-enhanced simulation as a bridge in health professions education
+- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — What a teacher cannot delegate to a conversational agent across the simulation cycle
 
 ---
 
@@ -14120,6 +14162,14 @@ A fourth axis is the *audience* rather than the individual learner: [[bespoke-in
 
 Personalization can outweigh a human presenter: in a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded ones (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first, against 73.8% for human-recorded ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
+## How strong is the evidence
+
+The only pooled estimate available here comes from a [[meta-analysis-systematic-review|meta-analysis]] of four controlled studies covering 420 students, all in computing and engineering higher education ([[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor & García Ortiz, 2026]]). The random-effects pooled effect is large, *g* = 1.01 (95% CI 0.33–1.68), and that number should be read as a caution rather than a headline. With four studies, the Hartung-Knapp adjustment widens the interval to −0.10 to 2.11 (*p* = .063), which includes no effect.
+
+Heterogeneity is severe: *Q*(3) = 25.20, I² = 88.8%, τ² = 0.41. The 95% prediction interval, −0.42 to 2.43, means a new implementation could plausibly yield a null or negative result. Two of the four studies were at serious risk of bias and carried 53% of the weight. Publication bias was not assessable, because the usual tests need at least ten studies.
+
+GRADE certainty was rated very low. The honest reading is that the point estimate is large and the interval is too uncertain to act on. The pooled outcome was academic performance in computing and engineering courses, not learning broadly. Claims that AI personalization works should carry that qualifier, since this is the thinnest base on which the page's evidence rests.
+
 ## Prompt-conditioned micro-personalization
 
 [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm]]/[[rag]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
@@ -14197,6 +14247,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)
+- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Four studies, a large pooled effect, and very low certainty
 
 ---
 
@@ -15857,6 +15908,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
 
+**Use is selective, and approval outruns it.** In a survey of 209 engineering students at six Kazakh universities, 36.1% reported regular general AI use, but only 20.2% used it very frequently in physics and specialized disciplines ([[nauryzbayeva-ai-physics-education-future-engineers-2026|Nauryzbayeva et al. (2026)]]). Use concentrated on explanation-seeking tasks — 55.1% for clarifying difficult topics and 51.4% for homework — ahead of written assignments at 43.5%. Engineering thinking drew the strongest perceived contribution at 61.1%, yet the instrument measured only use patterns and [[self-report-measures|perceived support]], not learning. Nothing here shows that AI improved physics learning, and the authors say so.
+
 **Structured use, not merely adoption.** The adoption studies above describe who uses AI and how much they trust it. A separate strand asks what instructional design should do with that use, and multi-institutional evidence on it has been scarce. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** ran the four-step Physics AI-Replication protocol in 11 algebra- and calculus-based sections at four institutions: identify a hard problem, get an AI explanation and solution, request similar practice problems, then solve them independently before checking.
 
 Perceptions were consistent across campuses. Of 358 enrolled students, 235 were surveyed (65.6%); 90.9% credited improved conceptual understanding and 97.7% found the replicated practice helpful; post-engagement confidence averaged 7.18 on a 1–10 scale with institutional means from 6.86 to 7.52; and the dominant [[qualitative-research|qualitative]] theme held between 60.6% and 67.6% at every site. Confidence tracked those two protocol benefits (r_s = 0.37 and 0.35) but not AI usage frequency (r_s = 0.02) — the variable the adoption literature usually measures.
@@ -15975,6 +16028,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — A well-engineered tutor beat in-class active learning
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Energy preconceptions decided where AI query negotiation sat in the group network: an integration hub when members disagreed, a linear query-then-read path when they agreed (Wang et al. 2026)
+- [[nauryzbayeva-ai-physics-education-future-engineers-2026]] — Use patterns and perceived support among future engineers
 
 ---
 
@@ -16619,6 +16673,8 @@ AI grading is advancing rapidly on high-stakes work. [[ai-grading-handwritten-ph
 
 Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]] found Ghanaian pre-service science teachers hold positive attitudes and strong intentions toward AI but only moderate actual classroom use — an intention–use gap pointing to [[teacher-ai-competency]] and [[governance|institutional]] support as the real levers. [[becker-chatgpt-typology-physics-2026|Becker et al.]] and [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] document that physics students are domain-calibrated skeptics, not uncritical adopters: a 50-point trust-utility gap (91% use, 41% trust) and two distinct user profiles (Pragmatic Users vs. Skeptical Non-Users) that challenge one-size-fits-all policies. Counterbalancing the techno-optimism, [[avraamidou-ai-colonization-science-education|Avraamidou]] warns of an "AI colonization" of science education — extraction without consent, algorithmic monoculture, and dehumanized, profit-centered reform — and calls for a feminist, human-centered AI prioritizing justice over profit, while [[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]'s systematic review of 18 studies emphasizes [[ethics|ethical]] risks (bias, hallucination, [[academic-integrity|plagiarism]], erosion of independent thinking) and the need for [[teacher-education|teacher training]] and conscious use. The collective lesson across all thirteen articles is that AI in science education delivers gains when embedded in sound inquiry, [[scaffolding]], and [[assessment]] design — and undercuts learning when it displaces the epistemic work students must do themselves.
 
+**General AI comfort did not transfer to the discipline's own tools.** Among 100 geography students at one Kazakh university, readiness to teach with AI and GIS tracked GIS familiarity (ρ = 0.508) and GeoAI knowledge (ρ = 0.425) but not general AI familiarity (ρ = 0.071, p = 0.485) — a lesson for [[teacher-education|teacher preparation]] in any tool-shaped discipline ([[laiskhanov-ai-gis-geography-education-2026|Laiskhanov et al. (2026)]]). Sixty-seven percent called themselves ready in some form, yet only 6% had used the combination in practice and 43% judged available instruction adequate. The evaluation is [[self-report-measures|self-reported]] and unvalidated, so it describes what these students say about themselves.
+
 [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] ask how well general models handle the science content itself: on NGSS-aligned item sets for middle school (1,078 items) and high school (1,150 items), nine open-weight models mostly exceeded 90%, with model size unrelated to accuracy. A science teacher judged 236 of 240 sampled items (98.3%) aligned while flagging the absence of diagrams, data interpretation, and mathematical representation — text-only items cannot exercise every NGSS performance expectation. The high [[item-response-theory|item difficulty]] and low discrimination leave open whether the items need improvement or secondary science has become tractable for this class of models, and the authors call multi-turn, evidence-based feedback the missing standard.
 
 In a 42-study meta-analysis of GenAI and motivation, the smallest subject-domain effect was in science (g = 0.109, 95% CI [−0.107, 0.325], k = 3), the only domain whose interval crossed zero, so the pooled evidence does not support a [[motivation|motivational]] case for GenAI specifically in science ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
@@ -16663,6 +16719,7 @@ As a framework rather than a study, [[zhai-science-literacy-generative-ai-cohere
 - [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
 - [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review
 - [[genai-learning-motivation-meta-analysis-2026]] — The only domain whose motivational interval crosses zero (g = 0.109, k = 3)
+- [[laiskhanov-ai-gis-geography-education-2026]] — General AI comfort did not transfer to GeoAI readiness
 
 ---
 
@@ -16751,6 +16808,12 @@ This coaching-not-composing stance is the writing-domain expression of the knowl
 ### Connections
 
 Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-assessment]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
+
+## What GenAI demands of the task
+
+Al Nafjan (2026) proposes the Rigor–Commitment Alignment Framework (RCAF), which locates engagement in the writing task and the teaching around it rather than in the tool ([[al-nafjan-genai-eap-writing-engagement-2026]]). Academic rigor is the demand a task places on sustained cognitive effort and disciplinary reasoning, and the framework splits it into cognitive demand, epistemic authenticity, and performance accountability. Teacher commitment is defined narrowly, as commitment to students' learning enacted through instructional responsiveness, relational support, and [[scaffolding|critical scaffolding]], not as a trait a teacher has or lacks. The author is explicit that the RCAF is propositional and has not been empirically validated, so it is a design vocabulary for writing programs rather than a tested effect.
+
+For task design the claim is that rigor and commitment interact rather than add. High demand with thin support is predicted to push students toward concealment and detection games, while warmth without demand lets fluent output pass for learning. Only the high-demand, high-support configuration is predicted to produce deep engagement, with [[evaluative-judgment|evaluative judgment]] doing the work of deciding when output is useful, insufficient, or misleading. Because GenAI can produce acceptable academic prose, the framework gives writing assessment a specific obligation: require visible drafting and revision so that performance stays tied to the thinking it is supposed to represent.
 
 ## Implications for writing instructors
 
@@ -16863,6 +16926,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement
 
 ---
 
@@ -18710,6 +18774,8 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 
 - **Accelerating [[curriculum-design|curriculum]] production without surrendering verification.** [[crewscaler-ai-upskilling-framework]] applies AI across all five stages of professional upskilling — knowledge acquisition, content development, review and verification, [[intelligent-tutoring|tutor coaching]] and assessment development — while keeping blueprint design, subject-matter review and [[misconceptions|misconception]] authoring with humans. Its external validation includes NASBA CPE accreditation, three of three learners passing an NVIDIA certification exam using only the framework's knowledge base, and a 530-question bank tagged to a 53-skill blueprint. It belongs here because it treats verification as a first-class stage: [[hallucination-risk|hallucination]] detection is largely absent from education pipelines, and the paper reports default LLM tutoring reaching only 52–70% correct pedagogical actions.
 
+- **Perceived support is an institutional lever, not a student deficit.** Among 784 students at six Chinese higher vocational colleges, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] found [[ai-literacy|AI literacy]]'s link to self-reported [[problem-solving|complex problem solving]] (total 0.480) strengthened with perceived school ICT support: conditional indirect effects rose from 0.117 to 0.176 and 0.038 to 0.127.
+
 - **Curriculum renewal as a continuing obligation, not a periodic review.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifies five interacting renewal dimensions, occupational transformation, curriculum currency, faculty capability alignment, program architecture and external alignment, and six leadership tests for deciding whether a course should be retained, revised, integrated, replaced or retired.
 
 ## Common Misconceptions
@@ -18763,6 +18829,7 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
 - [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
 - [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
+- [[huang-ai-literacy-vocational-problem-solving-2026]] — Perceived ICT support as an institutional lever in vocational colleges
 
 ---
 
@@ -19298,6 +19365,8 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 
 The clearest risk is displacement, and it is evidenced in the feedback literature rather than only theorized. When the tool supplies the rubric, the feedback, and the monitoring, the learner's [[metacognition|metacognitive]] and evaluative practice is displaced rather than supported — the assessment becomes a performance of judgment the student never exercised, the same failure mode as [[cognitive-offloading|cognitive offloading]] expressed in the assessment register. Direct GenAI feedback in the multisite experiment pushed toward exactly this passive outsourcing. Grading pressure compounds it: where self-assessment or reflection on AI use is itself graded, students can produce the reflection the rubric wants rather than the reasoning, so genuine judgment requires making the exercise consequential — a decision that shows up in later work, an oral explanation, or a documented rationale that is itself examined.
 
+The same reasoning admits a structural version. [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman and Thorén (2026)]] name **patterning** as the developmental work of organizing complexity into structures a learner finds meaningful, and argue that a system which pre-sorts relevance removes the conditions that work requires. Their term for the result is **borrowed judgment**: the learner appraises material the system already structured, so judgment is performed but never earned. The paper is a theoretical analysis with no data of its own — the Tentaklar platform illustrates the mechanism rather than testing it — so the failure mode is argued from design, not observed in learners.
+
 Displacement has a teacher-side version, and it is what turned several writing professors against outsourcing marking entirely. Five of the twenty-four said marking is how a teacher comes to understand their learners, so delegating it costs that understanding rather than only the hours ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Eighteen of the twenty-four treated human judgment as what catches the tool's errors and owns the accountability for them.
 
 ## Implications for practice
@@ -19365,6 +19434,7 @@ Displacement has a teacher-side version, and it is what turned several writing p
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
 - [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Instructors' revisions became reusable validation criteria (Tang et al. 2026)
+- [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning removed from the task, and the judgment that gets borrowed
 
 ---
 
@@ -23669,6 +23739,8 @@ The same artifact shows up in the time dimension. [[jing-genai-learning-outcomes
 - **Rapid obsolescence** — the AI tool landscape changes quickly, so reviews can date fast
 - **Scope constraints** — single-database or English-only searches may miss relevant work.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
+A four-study meta-analysis shows the same lesson from the small-sample side. [[govea-sotomayor-personalized-learning-meta-analysis-2026|Govea Sotomayor and García Ortiz (2026)]] pooled 420 students across four controlled studies of AI-based personalized learning in computing and engineering and reported *g* = 1.01, 95% CI 0.33 to 1.68. The Hartung-Knapp adjustment, which is the defensible correction at that few studies, widened the interval to −0.10 to 2.11 (*p* = .063), so the pooled estimate no longer excluded no effect. With *k* = 4, publication-bias tests cannot run at all, and GRADE certainty was rated very low. Pooling four studies produces an estimate that cannot carry an adoption decision, however large it looks.
+
 **Meta-research warns the AIED synthesis base is currently weak.** A growing set of critiques documents that the field's headline AI-effect sizes — especially from early meta-analyses — are inflated by publication bias, construct incoherence, and methodological shortcuts. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], meta-analyzing 1,840 effect sizes from 67 meta-analyses, estimate the publication-bias-adjusted AI effect at roughly one-third the reported magnitude (SMD ≈ 0.196), with extreme heterogeneity. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audits 14 high-impact AIED meta-analyses and finds none had a coherent construct, valid publication-bias assessment, or resolved heterogeneity; twelve treated dependent effect sizes as independent. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] show most primary comparisons lack a well-defined treatment, control, and learning measure. This means readers should treat pooled AIED effect sizes as upper bounds until synthesis quality improves — see [[limitations-in-aied-research|Limitations in AIEd Research]] for the full analysis.
 - **Reporting standards have not kept pace with automation.** PRISMA-LLM analyses SciLitBench, a corpus of 888 review-automation papers with 14,726 annotations, and documents a growth rate near 4.7% per month alongside an accountability gap: since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers, and 52% of positive-only LLM evaluations reported an unmet high-bar concern. Because LLM and software pipelines now participate in stages that can alter the evidence base, the framework requires disclosure of where in the review workflow automation operated, what was evaluated, and which limitations were checked — a direct extension of the transparency problem that [[limitations-in-aied-research|AIED review critiques]] have documented for meta-analyses of learning effects. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
 - **A worked example of a review that deliberately declined to pool.** [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou and Kameas (2026)]] synthesized 78 studies of AI-supported [[learning-design|instructional design]] (2022-2026) and judged quantitative synthesis **inappropriate** because the corpus mixed practitioner reports, small-sample case studies and mixed-methods designs. Instead of forcing a pooled effect, they ran a qualitative thematic synthesis and were explicit that evidential strength is weighted throughout rather than assumed. That is the correct call far more often than the literature reflects: where a corpus cannot support pooling, declining to pool is a finding about the field rather than a methodological shortfall of the review.
@@ -23754,6 +23826,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps
 - [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
+- [[govea-sotomayor-personalized-learning-meta-analysis-2026]] — Why four studies cannot carry an adoption decision
 
 ---
 
@@ -36676,9 +36749,9 @@ Ahmadfard, M. (2026). [*Advancing open learning through interactive open educati
 
 ## [Processes of Patterning: AI, Literacy, and the Epistemological Challenge](https://edtechdev.github.io/aied/articles/ahman-thoren-processes-of-patterning-ai-literacy-2026/)
 
-*This page summarizes a theoretical article. The paper presents no data of its own; figures and findings mentioned below belong to the studies it cites, and the case it discusses (the Tentaklar platform) is used as an illustration rather than evaluated.*
-
 > **Synthesis:** Åhman and Thorén ask what is lost when literacy — practices of cognitive, cultural and ethical formation — is externalized to [[generative-ai|GenAI]] systems. Their answer is built on a distinction the AI-in-education literature tends to skip: GenAI does not merely support the production or transmission of knowledge, it participates in and can substitute for the cognitive operations through which knowledge is formed. Drawing on Aristotle's *phronesis*, Vygotsky's tool-mediated learning and postdigital theory, they introduce **patterning** — the developmental process through which a person reasons about complexity and organizes it into meaningful structures — and argue that AI study tools risk undermining the conditions under which patterning occurs, producing **borrowed judgment**: students served the products of reasoning without going through the interpretive struggle of reasoning. The Swedish exam tool Tentaklar is the illustrative case, and the paper closes with three design principles meant to keep a system from replacing judgment with its output.
+
+*This page summarizes a theoretical article. The paper presents no data of its own; figures and findings mentioned below belong to the studies it cites, and the case it discusses (the Tentaklar platform) is used as an illustration rather than evaluated.*
 
 ## The Argument in Three Frameworks
 
@@ -47036,6 +47109,66 @@ Akgun, M., & Toker, S. (2026). [*When Does GenAI Use Support Critical Thinking? 
 
 ---
 
+## [Rigor, commitment, and generative AI: a conceptual framework for student engagement in EAP writing](https://edtechdev.github.io/aied/articles/al-nafjan-genai-eap-writing-engagement-2026/)
+
+> **Synthesis:** Al Nafjan argues that whether [[generative-ai|generative AI]] strengthens or hollows out an EAP writing course depends less on the tool than on two features of the classroom: how demanding the writing tasks are, and how committed the teacher is to students' learning. Crossing those dimensions yields four configurations — Neglectful, Indulgent, Punitive, and Rigor with Support — linked by explicit propositions to four [[student-engagement|engagement profiles]]. On this account GenAI does not make teacher involvement less necessary. It makes it more necessary, because fluent prose stops being evidence that thinking happened.
+
+*Conceptual paper: the author synthesizes prior theory and empirical work into a framework and a set of testable propositions. No data were collected or analyzed, so the propositions are expectations awaiting empirical test. Every figure below is a count of the framework's own components or an attributed claim about another study, not a finding of this one.*
+
+## What the framework argues
+
+The paper starts from a split in the literature rather than from a gap in evidence. Work on GenAI in [[writing-education|writing instruction]] tends to argue either for its affordances or against its risks, and both sides keep their eyes on the technology or on student conduct. Al Nafjan's complaint, following Jiang and Hyland (2026), is that this leaves the instructional conditions under which particular kinds of AI use emerge largely unexamined. The problem is sharp in EAP because GenAI can produce acceptable academic prose while reducing the visibility of the cognitive, rhetorical, and epistemic work that prose is supposed to represent — a decoupling of performance from learning.
+
+Her answer is the Rigor–Commitment Alignment Framework (RCAF), a two-dimensional model of the pedagogical environment. Academic rigor is the extent to which tasks require sustained cognitive effort and disciplinary reasoning. It is operationalized through three subdimensions. Cognitive demand is the degree to which tasks require higher-order processes beyond recall (Webb, 2002). Epistemic authenticity is the degree to which tasks approximate disciplinary practice rather than decontextualized school activity (Lea and Street, 2006). Performance accountability is the requirement that students show their own reasoning through visible drafting and revision (Bearman et al., 2024).
+
+Teacher commitment is defined narrowly and deliberately. Al Nafjan sets aside the organizational and occupational senses of the term and means commitment to students' learning, enacted through instructional responsiveness, relational support, and [[scaffolding|critical scaffolding]]. She treats it as a task- and context-specific pedagogical presence rather than a stable classification of a teacher. A teacher may be deeply committed to the profession and still enact support unevenly across tasks. That distinction matters for the AI argument: a model can supply assistance, but it cannot supply situated attention, professional judgment, or sustained responsibility for a student's development.
+
+The framework's central claim is interaction rather than addition. Rigor sets the demands students meet; commitment shapes how they meet them. Proposition 1 therefore predicts that rigor will be more strongly associated with deep-agentic engagement when commitment is high, and more strongly associated with strategic-defensive use or disengagement when commitment is low.
+
+The architecture comes from Bandura's (1986) triadic reciprocal causation. Rigor and commitment jointly make up the environmental vertex; goal orientation, self-efficacy, proficiency, and GenAI literacy make up personal factors; drafting, delegating, verifying, and avoiding make up behavior. The relationships run in both directions, and Proposition 4 formalizes the loop: students' engagement and AI-use practices give teachers signals that may prompt them to raise process accountability, tighten surveillance, or withdraw support.
+
+## What the four configurations predict
+
+The intersection of the two dimensions gives four positions, borrowed in structure from Baumrind's (1991) demandingness-by-responsiveness account of parenting and from Aelterman et al.'s (2019) circumplex model of motivating teaching. In the Neglectful configuration both dimensions are weak, and the paper's illustration is a literature-review paragraph assigned with no models, no interim checkpoints, and feedback limited to a grade — conditions in which a student can paste the prompt into a chatbot, lightly edit the output, and lose nothing.
+
+Indulgent environments pair weak rigor with strong commitment. Warmth is present, but nothing obliges the student to evaluate, revise, or justify what the tool produced, so support without demand settles into surface engagement. Punitive environments invert this: high standards with thin support, where AI is encountered mainly through detection and penalty. Al Nafjan's reading is that this pushes students toward concealment rather than responsible use, teaching them to evade scrutiny instead of to write.
+
+Rigor with Support combines high demand with high support and carries the greatest predicted probability of deep-agentic engagement. GenAI there is used to generate alternatives, test clarity, probe counterarguments, and check disciplinary appropriateness, with the teacher's role expanding rather than shrinking because judging when output is useful, insufficient, or misleading is itself [[evaluative-judgment|evaluative judgment]].
+
+The four engagement profiles — deep-agentic ("Driver"), strategic ("Optimizer"), surface ("Glider"), and disengaged or withdrawn — are built from the same four features: [[motivation|motivational purpose]], cognitive investment, form of agency, and orientation toward GenAI. Al Nafjan is explicit that these are prototypes, not learner types, and that the propositions describe shifts in relative probability rather than one-to-one correspondences.
+
+## Why GenAI amplifies the differences
+
+The framework's load-bearing proposition is the third one. Al Nafjan argues that differences among configurations will be larger when GenAI is readily available, when assessment rewards the final product, and when composing processes stay invisible. Earlier writing technologies touched wording, grammar, and fluency. GenAI reaches planning, reasoning, source integration, and revision, so a student can hand over the parts of composing that used to leave traces.
+
+She cites empirical work to support the surrounding claims rather than the framework itself. Farrokhnia et al. (2026) reportedly found that AI-generated feedback can be judged technically superior while producing no better revision outcomes, which points to learner uptake, the concern of [[feedback-literacy|feedback literacy]] research, as the mediating variable. Lin and Crosthwaite (2024) reportedly found GPT-assisted corrective feedback insensitive to proficiency and task context in ways teacher feedback is not. Zhou et al. (2026) reportedly showed that student engagement predicts later changes in teacher practice, and that controlling practices predict later disengagement — the empirical warrant for the reciprocal loop.
+
+The framework also draws a line between strategic and surface engagement that is easy to blur. Both reduce effort, but strategic use is deliberate and responsive to assessment criteria, while surface use is passive compliance with uncritical reliance on output. The distinction matters for [[academic-integrity|academic integrity]] policy, because only one of the two looks like a violation from the outside.
+
+Al Nafjan concedes that crossing two pedagogical dimensions is not new. The claimed contribution is the mechanism: a demand-support model built for ordinary instruction does not explain why identical tool access supports critical evaluation in one classroom and cognitive substitution in another. GenAI enters as a contextual affordance that changes the pathways between effort and performance, not as an independent axis or a cause.
+
+## What this means for practice
+
+- **Instructors.** Diagnose before adopting. The framework asks which dimension is weak in a given task, so a warm course with undemanding writing needs higher cognitive demand rather than more encouragement, and a demanding course with thin support needs conferences and scaffolding rather than lower standards.
+- **Writing program designers.** Make process visible. Because the amplification argument turns on assessment design, requiring drafts, revision memos, and justification of source choices does more to preserve the link between text and thinking than any rule about tool use.
+- **Teacher educators.** Use the configurations as case-analysis material. The labels are offered as practitioner shorthand for professional discussion, not as a way to sort colleagues into types.
+- **Administrators.** Write policy that is pedagogically contingent. A blanket prohibition in a Punitive environment may intensify covert use, while the same rule in a Rigor with Support environment may forbid a productive practice; institutional guidance should specify the conditions under which AI use is likely to support learning.
+
+## Limitations
+
+- The framework is conceptual and unvalidated. Al Nafjan states that it is propositional, that its diagnostic value is heuristic, and that using it as an assessment or professional development instrument requires operational and empirical testing.
+- Both dimensions are internally complex. Rigor bundles three subdimensions and commitment three more, and the paper does not establish that they vary independently or that the subdimensions carry equal weight.
+- The engagement profiles are prototypes rather than mutually exclusive or exhaustive categories, and their empirical distinctiveness remains untested.
+- The framework is built for English-medium [[higher-ed|higher education]] EAP writing, and it foregrounds teacher-influenced conditions. Institutional assessment regimes, disciplinary conventions, AI access and policy, socioeconomic differences, and students' prior proficiency may constrain or moderate what teachers can enact, and secondary, community-based ESL, and low-access EFL settings stay outside its stated scope.
+- Rigor with Support is not a claim that more demand is always better. Excessively demanding tasks may remain counterproductive despite support, and the same level of rigor can be experienced differently by different students.
+- GenAI tools are changing quickly, so the specific AI practices attached to each profile may shift even if the underlying logic holds.
+
+## Citation
+
+Al Nafjan, E. (2026). [Rigor, commitment, and generative AI: a conceptual framework for student engagement in EAP writing](https://doi.org/10.3389/feduc.2026.1944529). *Frontiers in Education, 11*, 1944529.
+
+---
+
 ## [Teacher-Mediated Multimodal Platform and Math Achievement: Evidence from Goblins' Yearlong District Implementation](https://edtechdev.github.io/aied/articles/alam-goblins-math-platform-2026/)
 
 > **Synthesis:** Alam, Dominguez-Mel, and Liu (2026) evaluate a full-district rollout of Goblins, a [[teacher-role|teacher]]-mediated [[multimodal|multimodal AI]] math platform (type, draw, speak, with personalized feedback), in a large Arizona district during 2025–26 using a weighted propensity design on 6,065 grades 6–8 students. Usage was associated with a **0.11 SD** increase in within-district MAP math scores (0.24 SD on the national Conditional Growth Index), but effects concentrated almost entirely in sustained users: students solving 10–19 and 20+ problems per week gained 0.18 SD and 0.31 SD, while the district's "5 Percent Problem" framing (engagement thresholds met by only ~50% of students here) shows implementation fidelity is the binding constraint on [[intelligent-tutoring|AI tutoring]] effects. Exploratory subgroup analyses show larger associations for students with IEPs (+0.122 SD), Hispanic students (+0.084 SD), and [[multilingual-learning|English learners]] (+0.191 SD) — consistent with multimodal/multilingual supports reducing barriers, though not causal evidence for the accessibility features themselves.
@@ -47650,6 +47783,95 @@ This paper anchors the [[sustainability|sustainable AI in education]] concept pa
 
 ## Citation
 Alsuhami, A. O., & Atallah, F. A. (2026). [*Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach*](https://doi.org/10.3390/su18031257). *Sustainability*, 18(3), 1257.
+
+---
+
+## [What a Teacher Cannot Delegate: A Pedagogy-First Framework for Conversational AI Across the Simulation Cycle](https://edtechdev.github.io/aied/articles/alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026/)
+
+> **Synthesis:** Álvarez-Rubio argues that [[conversational-ai|conversational AI]] agents can carry much of a [[simulation]] cycle and still not all of it, because the line is drawn by what kind of act a function is rather than by what current technology can do. Five commitments follow: the teacher's reading of each phase decides deployment, an agent's stance must fit the phase's demand, three functions are constitutively non-delegable, supervision must be visible to students, and the point is teacher authority rather than replacement. An agent's most valuable move at the boundary is refusal.
+
+*Conceptual paper: this is a practitioner design inquiry, not an empirical study. The author states that "no data were collected or analyzed for research" and that the observations are her own, so the deployment illustrates the framework without testing it.*
+
+## What the framework argues
+
+1. **Pedagogical primacy.** The teacher's reading of each phase's demand decides what is deployed, where, when, and whether. No catalogue of agents substitutes for it.
+2. **Stance-function fit.** Each agent holds the stance its function requires and draws on the knowledge of the course it serves. The stances divide by relation to knowledge, not to the learner.
+3. **Delegation boundary.** The functions that constitute the safe container are not candidates for integration at all. This is the contribution, and it is normative rather than empirical.
+4. **Structural responsibility.** Agents operate inside the institutional environment, under supervision visible to students, with interaction data under institutional governance.
+5. **Teacher empowerment.** The framework exists so that teachers can do deliberately, on their own authority, what the tools now permit.
+
+## Where the boundary falls, and why it falls there
+
+Delegation covers four operations. Execution passes work to the agent, and the test is whether it is done well. Conveyance passes only a message. Facilitation passes judgment over the structure of an activity. The fourth is the undertaking of a commitment, where the agent is positioned as the party to an agreement.
+
+That fourth is where transfer fails. A commitment is an utterance by which a speaker binds himself to a course of action, and its essential condition is the undertaking of an obligation. It misfires where the speaker cannot undertake it, and agents fail twice: they lack an understanding of what a commitment entails and the capacity to realize it. Responsibility for machine speech traces to persons, institutions, or no one.
+
+The decisive move separates performing a function from answering for it. Answerability is a relation to those who may demand reasons, not a property of an utterance, and where nobody holds it the responsibility gap opens. Delegable functions pass execution or conveyance and let the teacher correct a failure. Partly delegable ones let the agent state what it cannot underwrite. Non-delegable ones are where performing the function and answering for it are the same act.
+
+Applied to preparation, that yields six verdicts. Diagnosing what a learner grasps and supplying what is missing is delegable, since collective instruction cannot adapt to individual [[prior-knowledge|prior knowledge]]. Orienting students to logistics is delegable conveyance. Stating objectives is only partly delegable. The fiction contract, the [[pedagogical-safety|psychological safety]] commitment, and the terms of [[summative-assessment|assessment]] are not delegable at all.
+
+The test travels as three questions: what would pass to the agent; whether the teacher could correct a failure; and whether anyone could be asked to stand behind the agent's words. A function with no answer to the third is not a candidate.
+
+## The cycle, and the smaller cycles inside it
+
+The phases are constituted by demands rather than content, which is why the prebriefing standard travels from healthcare simulation into teacher education without carrying clinical assumptions. Preparation establishes the grounding the scenario requires, enactment requires a counterpart that sustains a role, and debriefing depends on the learner articulating what occurred, the [[reflection|reflective practice]] tradition the phase inherits. The phases also recur at smaller scales within a nominally single phase, which is why preparation here holds two agents of different stances.
+
+## Stances: expert, character, maieutic
+
+An Expert agent holds knowledge the learner does not: it may explain, supply worked examples, and press toward application, but not withhold what the learner needs in order to elicit it. A Character agent holds a role rather than knowledge, and may respond in character, resist, and react, but not step outside the role to instruct or evaluate. A Maieutic agent holds no position on the content: it may question and return a formulation for confirmation, but not interpret, advise, or answer.
+
+A preceding course tested the distinction. A Maieutic agent built to teach by never answering did not work: students were frustrated, because discovering what one does not know is difficult and a course is short. The scaffolding evidence predicts the same failure: low prior knowledge needs examples, while high prior knowledge benefits from reflection.
+
+## The simulation that assesses
+
+Here the simulation carries summative weight, which the paper treats as the hardest test of its own framework. The prebriefing literature describes preparation as a context where error can be explored without consequence, presuming a formative frame. Where the simulation also grades, the student risks a grade, and [[nursing-education|nursing education]] reports lower satisfaction and more anxiety under summative than under formative simulation assessment.
+
+The tension belongs to the combination, not to any implementation, and it bears on what preceding-phase agents may say: the Briefer declines the terms of the simulation, refusing to reanswer what the course guide had settled.
+
+## The deployment: five agents in one course
+
+The case is a third-year course, Teaching ESL and Children's Literature, in a Primary Education degree at a Spanish university. Thirty-three students took part in the 2025–2026 second semester, from February to the end of May 2026: 30 women and three men, including one mature student and five exchange students.
+
+The simulation is a think tank, a school teaching team meeting on classroom management, English learning, lesson study, and storytelling. Four students hold differentiated roles composed so that sustaining one position requires arguing from the course theory, and a fifth participant, the School Director, is an agent. The Briefer, Interview Director, Pupil, School Director, and Debriefer cover the cycle, each holding one of the three stances set out above.
+
+All five were authored by the teacher in natural language without programming, inside the institution's existing Teams tenancy. That is a condition of the argument: if alignment depends on reading what a phase demands, nobody who does not know the course can settle it. [[human-in-the-loop-ai|Supervision]] is visible through conversation membership, so a student can see who is present rather than taking anyone's word for it.
+
+What the architecture does not settle is what the platform retains. Transcripts were written to a data table, and the teacher's not reading them is an undertaking she holds rather than a fact the architecture establishes.
+
+## What the deployment showed, and what it could not
+
+Three questions can be asked of any distribution: whether each agent behaved as specified, whether the tasks produced the work the objectives called for, and whether the sequence changed learning. The first two are addressed from what was visible in class and in the teacher's conversations. The third is not addressed: no instrument, comparison group, or coding was used.
+
+The Interview Director put difficult concrete situations to students from the first turn, and some did not reach an adequate response; those cases were taken up in a dialogic lecture where no answer was presented as correct. The Pupil made a narrower failure visible: students marked errors, but seeing symptoms did not produce an adjusted diagnosis.
+
+The School Director is the most interesting negative result. It convenes the meeting on the premise that the students are the experts and then largely listens, holding standing without being the source of what the meeting needs to know. In a multiparticipant conversation it responds only when named, so its participation stays dyadic: in the group without being of it.
+
+On debriefing, the teacher perceived that students drew more from the group session when the individual phase had been the agent's rather than written questions. She marks that as an inference, with the task new and herself the designer of the change. What is observable is narrower: students brought the agent's summary to the group session and used it there.
+
+The Debriefer declares the conversation a space for thinking rather than an evaluation, and its closing summary belongs to the student and is not transmitted to the teacher, who is not a member. That absence is constitutive of the reflective contract. An agent cannot judge whether discomfort is productive or overwhelming, so it refers the student to the teacher.
+
+A chatbot that debriefs as well as a human does not thereby become answerable, and that is what the boundary turns on.
+
+## What this means for practice
+
+- **Teachers authoring agents.** Apply the test per function, not per phase. Ask what passes to the agent, whether you could correct a failure, and who could be asked to stand behind what it said.
+- **Teacher educators.** Teach refusal as a feature. An agent that declines to speak to grading or psychological safety is doing what the framework asks, if the teacher has answered on the record.
+- **Program leaders.** Expect the boundary to matter more where a simulation carries assessment weight, and specify in advance an equivalent route for a student who declines to work with an agent.
+- **Administrators.** Inspect what the platform retains before accepting a promise about it. Architecture narrows what must be promised; it does not close the boundary.
+- **Researchers.** Test whether stance-to-phase alignment changes what students learn. The comparison between agent-led and paper-based reflection is the strongest observation and most in need of measurement.
+
+## Limitations
+
+- One course, one teacher, one institution, and a cohort of 33 students; no data were collected or analyzed, no reflective output was examined, and there was no comparison group.
+- No analysis of agent errors or hallucinations was undertaken, and role drift was checked informally rather than tested.
+- The agents run on a hosted model the vendor updates without notice, so what reproduces is the pedagogical specification rather than the behavior it produced.
+- The Briefer's diagnosis of prior knowledge proceeds through conversation and was not validated against an independent measure.
+- Two ethical arrangements rest on undertakings: the teacher's access to reflective conversations was governed by her promise, and no alternative route was specified in advance.
+- The deployment ran in English; whether summative assessment altered use is unknown.
+
+## Citation
+
+Álvarez-Rubio, M. N. (2026). [What a teacher cannot delegate: a pedagogy-first framework for integrating conversational AI agents across the simulation cycle](https://doi.org/10.3389/feduc.2026.1961346). *Frontiers in Education, 11*, 1961346.
 
 ---
 
@@ -75020,6 +75242,66 @@ González Miy, D. (2026). [*Active learning, mentoring and AI-open educational r
 
 ---
 
+## [A Large Pooled Effect on Very Thin Evidence: AI-Based Personalized Learning in Computing and Engineering Courses](https://edtechdev.github.io/aied/articles/govea-sotomayor-personalized-learning-meta-analysis-2026/)
+
+> **Synthesis:** A PRISMA 2020 [[meta-analysis-systematic-review|systematic review and meta-analysis]] pooled four controlled studies (420 students) of [[personalized-learning|AI-based personalized learning]] in [[cs-education|computing]] and [[engineering-education|engineering]] courses. Across those studies the random-effects pooled estimate is large, Hedges' *g* = 1.01 (95% CI 0.33–1.68), but heterogeneity is substantial (I² = 88.8%, τ² = 0.41). Under the Hartung-Knapp small-sample adjustment the interval widens to −0.10–2.11 and includes no effect, the 95% prediction interval (−0.42–2.43) also includes no effect, two of the four studies were at serious risk of bias, and GRADE certainty is very low. The pooled number summarizes a highly variable set of findings; it does not describe what a given course should expect.
+
+## Key Findings
+
+1. The search of Scopus and Web of Science retrieved 100 records (79 and 21 respectively); 16 duplicates left 84 unique records, 73 were excluded at title and abstract, 11 full texts were assessed, and 7 were excluded, leaving four included studies — all in computing and engineering courses.
+2. The four studies enrolled 420 students (AI groups *n* = 208; comparator groups *n* = 212) and were published in 2024 and 2025 in Egypt, China (two studies) and Morocco.
+3. Design quality was uneven: one cluster-randomized study (27 groups of two or three students, 13 AI and 14 control), one study that described allocation as random without reporting the procedure, one non-randomized concurrent control, and one historical control compared against a cohort from the previous academic year.
+4. The random-effects model (REML) gave a pooled Hedges' *g* = 1.01 (95% CI 0.33–1.68; *z* = 2.93, *p* = .003); with the Hartung-Knapp adjustment the point estimate was unchanged but the interval widened to −0.10–2.11 (*t*(3) = 2.89, *p* = .063).
+5. Heterogeneity was substantial, *Q*(3) = 25.20, *p* < .001; I² = 88.8% (95% CI 63.2–99.3); τ² = 0.41 (95% CI 0.09–6.87); τ = 0.64. The 95% prediction interval was −0.42–2.43.
+6. Study-level effects ran from *g* = 0.20 (95% CI −0.55–0.96; Ouyang et al., analyzed at group level) to *g* = 1.60 (95% CI 1.19–2.01; Atta et al.), with El Fathi et al. at 1.54 (95% CI 1.14–1.95) and Zhou et al. at 0.53 (95% CI 0.18–0.89).
+7. Leave-one-out estimates ranged from *g* = 0.80 (omitting Atta et al.) to *g* = 1.22 (omitting Ouyang et al.), and restricting the analysis to the two studies not at serious risk of bias gave *g* = 0.91 (95% CI −0.40–2.22).
+8. Two studies were at serious risk of bias and carried 53% of the weight; the others were at moderate risk or had some concerns. Formal tests of small-study effects were not performed because fewer than 10 studies were pooled, and the funnel plot is descriptive only.
+9. GRADE certainty was rated very low: down two levels for risk of bias, one for inconsistency (I² = 89%, estimates 0.20 to 1.60 with non-overlapping intervals) and one for imprecision.
+
+## What the four studies actually compared
+
+The review defines [[personalized-learning|personalized learning]] as instruction in which a system adjusts content, pacing, feedback or recommendations to an individual learner or small group from that learner's performance data. Static uses of AI, and retrospective analyses of educational data without an implemented intervention, were excluded. That rule removed most of what the search found: of 11 full texts, three had no comparator and two reported no objective performance outcome.
+
+The four survivors used different technologies. Three deployed large language models — a ChatGPT-based mobile tutoring application for C# programming, ChatGPT-generated feedback on weekly MATLAB group code, and student use of ChatGPT inside a structured prompting framework after prompt-writing training. The fourth was a precision-teaching platform built on a course [[knowledge-graph|knowledge graph]], which diagnosed mastery of individual knowledge points and recommended tiered resources, a design closer to [[mastery-learning|mastery learning]] than to [[intelligent-tutoring|intelligent tutoring]] in the classic sense.
+
+Their comparators were equally varied. Two compared AI-supported instruction with traditional teaching, one with traditional tutorials of equal duration, and one — the only study with an active comparator — with instructor-written [[feedback]] on the same five quality dimensions. Because of that, an "effect" in this review means the contrast between an AI-supported instructional package and whatever its authors chose to compare it with. It is not the isolated contribution of the AI component.
+
+## Reading a pooled 1.01 against its own uncertainty
+
+The gap between the Wald and Hartung-Knapp intervals is the most important number in the paper. With four studies, Wald-type intervals are too narrow, and the adjusted interval crosses zero. The same holds for the prediction interval, which estimates where a new comparable implementation would fall: its lower bound is below zero, so a null or small negative result in a new setting cannot be ruled out. The authors are explicit that with four studies both τ² and the prediction interval are estimated imprecisely, and the τ² confidence interval (0.09–6.87) shows how imprecisely.
+
+The estimate is also larger than the mature literature on earlier adaptive systems. VanLehn (2011) reported an average of about 0.76 standard deviations for step-based [[intelligent-tutoring|intelligent tutoring systems]] against no tutoring, and Kulik and Fletcher (2016) a median of 0.66 across 50 controlled evaluations. The authors treat their higher pooled value as a likely upper bound rather than a better estimate, and name the reasons: small samples, instructor- or researcher-developed measures, two studies at serious risk of bias, and comparators that were sometimes loosely described.
+
+Sensitivity analyses move the estimate but not the conclusion. Re-scoring Zhou et al. on a 100-point scale raised *g* to between 1.09 and 1.12. Using Ouyang et al.'s composite knowledge score instead of the group's programming product raised it to *g* = 1.10 (95% CI 0.52–1.67). Those are the only variants in which the Hartung-Knapp interval excluded zero, and both depend on analytic choices the authors made after seeing the data.
+
+## Why the bundled interventions matter more than the average
+
+Two of the four studies gave the AI group something the control group did not have. In El Fathi et al., students used ChatGPT within a constructivist inquiry-based prompting framework after three hours of prompt-writing training, while the control attended traditional tutorials of equal duration. In Zhou et al., the precision-teaching platform came with differentiated in-class grouping and assignments used only in the AI cohort, and the comparison crossed academic years. Omitting the first study reduced the pooled estimate to *g* = 0.81.
+
+The one study that isolated the AI component found almost nothing. Ouyang et al. compared ChatGPT-generated feedback with instructor-written feedback on the same five dimensions and measured the quality of each group's final programming product: *g* = 0.20 (95% CI −0.55–0.96), consistent with the authors' own non-significant test. That is the cleanest design in the set and the smallest effect in it, which is the pattern a reader should carry away.
+
+## What this means for practice
+
+- **Instructors.** Do not expect uniform gains from adding an AI tool to a computing or engineering course. The two largest effects came from courses where AI use sat inside a deliberate instructional design — structured prompting, guided practice, regular feedback — rather than from making a tool available.
+- **Course designers.** Treat AI-based personalization as one component of a [[personalized-learning|pedagogical design]], not a substitute for one. When the AI arrives bundled with grouping, training or scaffolding, the evaluation cannot tell you which part worked.
+- **Institutions.** Evaluate locally with objective assessments and, where possible, a concurrent comparison group. A historical cohort cannot separate the intervention from everything else that changed between years.
+- **Researchers.** Report post-intervention means, standard deviations, sample sizes and cluster information. Half the analytic difficulty in this review came from values that had to be imputed or reconstructed, and one included report contained an effect size inconsistent with its own descriptives.
+
+## Limitations
+
+- Four studies and 420 students: too few for moderator analysis, and too few for the heterogeneity estimates or the prediction interval to be stable.
+- Only one study used a verifiable randomized design; the others relied on unverifiable, convenience-based or historical allocation, so pre-existing differences and temporal confounding cannot be excluded despite reported baseline equivalence.
+- Post-intervention standard deviations were imputed for one study, and the outcome for another was a group-level instructor rating made by someone aware of the allocation.
+- The search covered only Scopus and Web of Science, with no gray literature, citation searching or subject-specific databases; the protocol was not prospectively registered, and outcome-selection rules and sensitivity analyses were formalized after the data were known.
+- The search strategy was built mainly around computing terms and required personalization vocabulary, so studies in mathematics, physics, chemistry or other engineering fields were unlikely to be retrieved; findings apply to [[cs-education|computing]] and [[engineering-education|engineering]] courses, not to [[stem-education|STEM education]] broadly.
+- All studies came from Egypt, China and Morocco and none lasted longer than one semester, so generalization is limited and nothing is said about retention; with four studies, small-study effects and publication bias could not be assessed at all.
+
+## Citation
+
+Govea Sotomayor, J., & García Ortiz, J. S. (2026). [AI-based personalized learning and academic performance in computing and engineering higher education: a systematic review and meta-analysis of controlled studies](https://doi.org/10.3389/feduc.2026.1970736). *Frontiers in Education, 11*, 1970736.
+
+---
+
 ## [Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education](https://edtechdev.github.io/aied/articles/governing-unseen-ai-literacy-language-teachers-2026/)
 
 > **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance]] rather than individual [[lifelong-learning|upskilling]].
@@ -77434,6 +77716,74 @@ Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, & 
 
 ---
 
+## [Owning What One Did Not Make: The Authorship Legitimation Deficit in Human–AI Co-Creation](https://edtechdev.github.io/aied/articles/hong-authorship-legitimation-deficit-human-ai-co-creation-2026/)
+
+> **Synthesis:** Hong and colleagues argue that [[human-ai-collaboration|human–AI co-creation]] produces a problem that is neither lost productivity nor lost feeling. A person can be named author of a work they did not produce, and of a work they do not experience as their own. Their construct, the *authorship legitimation deficit*, is the mismatch between a particular authorship designation and the experiential or contribution-based grounds that role requires under existing criteria. They call the contingent alignment of making, owning, and being answerable the *labor nexus of authorship*, and decompose it into separate routes to psychological ownership, [[agency|the sense of agency]], and assigned answerability. The contribution is a role-relative classification: one person with one experience can hold a supported editorial role and an unsupported sole-creator claim at once.
+
+*This page summarizes a conceptual article, published under the journal's "Conceptual Analysis" type. It collects no data and tests no model of its own: the propositions P1–P6 and conditions B1–B6 below are the authors' proposals, and every figure or empirical result mentioned is attributed to the study that produced it rather than reported here as a finding.*
+
+## What the analysis argues
+
+1. **Three relations can align in being an author, and they are not the same relation.** Psychological ownership is the felt state of a target as "mine," grown through control, intimate knowing, and investment of self. The sense of agency is the experience of authoring one's actions and, through them, their effects. Responsibility covers attributability, answerability, and accountability, which are distinct questions. Naming their possible alignment the labor nexus flags a contingent configuration, not a second construct.
+2. **P1 and P2: delegation changes the routes, not necessarily the person.** Holding task and target quality comparable, greater delegation of externally specified production steps is predicted to reduce initial-production effort (P1). Meaningful engagement is predicted to support ownership (P2a), shaping control to support task-specific agency (P2b), and knowledge plus release authority to support observers' judgments of reasons owed and, under harm and avoidability conditions, blame (P2c). P2d states only that these routes can align, without required covariance.
+3. **P3 is the diagnosis, not an effect.** A deficit exists where an applicable ground falls short of its prior criterion for the specified role. The authors insist that this is analytic: it is not another causal consequence of weakened ownership, and it cannot be obtained by subtracting a designation from an ownership score.
+4. **P4 and P6 are the relational hypotheses.** A greater role–ground mismatch is predicted to produce more refusal or qualification of the offered designation among people who understand and accept the criteria and have low-cost alternatives (P4). Recurrent, documented mismatches are predicted to precede community recognition of alternative grounds such as direction, selection, substantive editing, and verification (P6).
+5. **P5a and P5b belong to neighboring literatures, not to the deficit.** Experienced agency is predicted to track felt answerability while release duties are held fixed (P5a). For the same approving person, replacing a human delegate with an AI delegate is predicted to reduce creative credit for good outputs more than blame for harmful ones (P5b). The authors state that a deficit diagnosis is not required for either.
+
+## Why the field needs a role-relative account
+
+Ownership theory explains mineness, agency research explains experienced influence, and responsibility research separates grounds of answerability. None compares a *specified role* against the grounds that role requires.
+
+Draxler and colleagues documented a "ghostwriter effect": users of personalized text generation reported little ownership while continuing to declare themselves authors. That dissociation is not itself a deficit. If an editorial role is supported by what the person actually did, and carries no requirement of strong felt ownership, then low ownership undermines nothing.
+
+Agency has the same structure. The experimental literature concentrates on control over bodily movement and immediate sensory effects. Creative work also involves distal decisions about what a work should express, which candidate to select, and how to revise. Agency over those decisions can differ from agency over detailed production, and intentional binding — the perceived compression of time between action and outcome — was validated on discrete action–effect episodes, not on extended texts.
+
+Responsibility splits further. A person can feel little ownership of an output and still owe reasons for releasing it, because they selected, checked, approved, or published it. Observers can hold someone answerable for approval while recognizing limited creative contribution. Neither response is a [[ethics|moral]] verdict, and neither settles an [[academic-integrity|integrity]] question on its own.
+
+## Diagnosing a deficit without turning it into a feeling
+
+The authors' worked example is a personal-essay workshop whose brief, agreed before composition, distinguishes an editorial contributor from the author of a personally endorsed self-expressive essay. Both roles require substantive direction, selection, and revision. Only the second additionally asserts that the writer experiences the finished essay as their own. A writer who shaped the text, feels clear agency over the changes, and reports that the essay does not feel like theirs has adequate contribution-based warrant, intact agency, and one experiential shortfall. The same record supports editorial credit.
+
+Three features follow. First, the construct sits at the interface of individual experience and social-normative structure. An experiential expectation counts only when it forms part of the role claim and is accepted in advance. Second, the deficit is multidimensional, and its facets need not move together: strong ownership cannot repair insufficient contribution-based warrant, and adequate warrant supplies no experiential deficit. Third, diagnosing a deficit under a community's standards is not endorsing those standards. A recognized role can rest on unjust criteria, and an unsupported claim can arise without deception.
+
+## Three outcomes, and the conditions that mute them
+
+*Authorial disavowal* is the observable refusal or qualification of an offered designation. Its mechanism is a collision between a claim and the grounds the person accepts for it, and a narrower label can resolve the mismatch without withholding the work. Low felt ownership, concealment of AI use, and continued unqualified claiming are three different observations, and none counts as hidden disavowal. Draxler's ghostwriter effect limits any inference from non-ownership to refusal, and social penalties for AI use explain concealment without the proposed mechanism.
+
+*Felt answerability and observer judgment* concern the user's experienced obligation and other people's credit and blame. The mechanism is mind perception: a user who reads the system as the source of content may feel less obligation to explain the choices embodied in it. Ciardo and colleagues found that attributing intentional agency to a robot reduced participants' own experienced agency in a joint task, which the authors treat as motivation for a hypothesis, not an established creative-work effect.
+
+*Reorganization of legitimation* is the community-level outcome. When a designation stops communicating who directed, shaped, or checked a work, explicit contribution roles make claims assessable. An editing history can show which passages a person substantially revised and who verified and approved release, so an editorial claim can be judged without assuming sole creation. Records make contribution legible; they cannot supply a contribution that did not occur, nor guarantee that an audience values it.
+
+Six conditions bound these predictions. Visible effort makes low-execution claims harder to warrant (B1). Market dependence suppresses observable disavowal when qualification threatens income (B2). A strong singular-origination norm weakens the warrant for delegated roles (B3). Pre-existing attribution infrastructure conditions later recognition (B4). Workflow configuration precedes the effort and experience predictions (B5). Perceived system agency strengthens the agency-to-answerability association (B6).
+
+## What is contributed, and what remains untested
+
+The authors contribute three things. The first is the construct itself: a domain-relative mismatch between a designated role and the grounds that role requires, defined so it can be diagnosed without measuring a feeling. The second is the decomposition into separately assessable routes, so a profile rather than a score carries the analysis. The third is the role-relative classification, which separates a supported editorial role from an unsupported sole-creator claim when contribution and experience are unchanged.
+
+What remains untested is nearly everything empirical, and the authors say so. Existing findings establish task-specific relations among output evaluation, ownership, creative self-efficacy, and agency, but they do not jointly validate the deficit or its consequences. Doshi and Hauser found that access to generative ideas raised evaluated [[creativity|creativity]] in short-story writing, with larger gains for less creative writers, while reducing collective diversity — a result about evaluated output and group variety, not about ownership. McGuire and colleagues compared editing an AI-generated poem with iterative co-creation and measured creativity and creative self-efficacy; the authors note it does not establish recovery of psychological ownership. Bellaiche and colleagues varied purported human versus AI origin while holding artworks constant, and judgments moved with the source label, appraisal criterion, and perceived effort — audience evaluations, not creators' reports.
+
+The account's explanatory reach rests on P4 and P6 surviving tests against separate component effects and stigma-based alternatives. If relational comparisons add no predictive value, the classification still clarifies which claims are supported.
+
+## What this means for practice
+
+- **Designers and studio leads.** Put consequential shaping in the workflow, not just the prompt. Selection, revision, and verification can support ownership and agency; accepting a first output offers few grounds for either.
+- **Editors and clients.** Ask what a person did, not how much. An editing history naming substantive revisions and the person who approved release supports a narrower role without assuming sole creation.
+- **Instructors.** Separate the role from the feeling. A student who directed and revised AI-assisted work may hold a supported claim and still say the work is not theirs; that is a finding about experience, not misconduct.
+- **Publishers and platforms.** Disclosure that AI was used says nothing about the human contribution. Naming the contribution is what makes a claim assessable.
+
+## Limitations
+
+- The paper reports no data, no participants, and no trial; the workshop and architect–contractor cases are constructed illustrations, not observations. The manuscript discloses Kimi K2.5 for English polishing only, with no role in argumentation.
+- The standards that determine supported authorship are not universal. Conceptions of ownership, agency, and the self vary across cultures, and originality norms and effort visibility vary across fields, so diagnosis must specify the role, evaluator, and criteria.
+- A deficit may be transitional. Communities can narrow a designation, recognize different contributions, or revise workflows, while others preserve unequal credit or intensify [[ai-use-disclosure|disclosure]] penalties.
+- A deficit does not by itself show wrongdoing, and it does not remove a duty to check and stand behind a released work.
+
+## Citation
+
+Hong, S., Li, Q., Zhou, Z., Dong, Y., Hsiao, Y.-C., & Cao, Q. (2026). [Owning what one did not make: psychological ownership, agency, and the authorship legitimation deficit in human-AI co-creation](https://doi.org/10.3389/fpsyg.2026.1928186). *Frontiers in Psychology, 17*, 1928186.
+
+---
+
 ## [Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods](https://edtechdev.github.io/aied/articles/hooshyar-responsible-trustworthy-educational-data-mining-2026/)
 
 > **Synthesis:** There are two ways to read a model's accuracy: how many students it sorts correctly, and which students it can still find once low performers become rare. On balanced labels the three families of [[learning-analytics|educational data mining]] were interchangeable. On labels that look like a real classroom, only the model carrying [[self-regulated-learning|self-regulated learning]] theory inside it kept finding the struggling students, and its reasons looked more like the theory it was given.
@@ -77702,6 +78052,69 @@ Two readings remain open and the design cannot separate them. Anxiety may interf
 ## Citation
 
 Hu, P. (2026). [*Psychological predictors of continued ChatGPT use among university students: the roles of AI literacy, trust, and academic self-efficacy*](https://doi.org/10.3389/fpsyg.2026.1900190).
+
+---
+
+## [AI Literacy and Vocational Students' Complex Problem-Solving: A Moderated Mediation Model](https://edtechdev.github.io/aied/articles/huang-ai-literacy-vocational-problem-solving-2026/)
+
+> **Synthesis:** A three-wave survey of 784 students at six Chinese higher vocational colleges tested whether [[ai-literacy|AI literacy]] is associated with self-reported [[problem-solving|complex problem-solving]] through two cognitive routes — systematic thinking and cognitive load — and whether perceived school ICT support conditions those routes. Total association was 0.480; the direct path was 0.248 and the indirect paths 0.151 (systematic thinking) and 0.081 (cognitive load). Both interactions pointed the same way: at higher perceived ICT support, AI literacy was more strongly tied to systematic thinking and more strongly tied to *lower* cognitive load, so the conditional indirect effects grew from 0.117 to 0.176 and from 0.038 to 0.127 across the moderator's range.
+
+## Key Findings
+
+1. The analytic sample was 784 students from six higher vocational colleges in Guangdong Province (four public, two private), matched across three waves: 920 invited, 878 valid at T1 (95.4%), 827 at T2 (94.2% retention), 784 at T3 (94.8% retention, 85.2% cumulative). Waves ran in March, April and May 2025, about four weeks apart, with no intervention between them.
+2. The sample was 409 male (52.20%) and 375 female (47.80%); 217 first-year (27.70%), 251 second-year (32.00%) and 316 third-year (40.30%) students, and 44.9% studied science, engineering, agriculture or medicine.
+3. AI literacy correlated 0.421 with self-reported CPS, systematic thinking 0.448 with CPS, and AI literacy 0.471 with systematic thinking; cognitive load correlated −0.361 with AI literacy, −0.368 with CPS and −0.271 with systematic thinking. Means were 3.46 (SD 0.60) for AI literacy, 3.70 (0.67) for systematic thinking, 3.23 (0.82) for cognitive load, 3.78 (0.76) for perceived ICT support and 3.40 (0.69) for CPS, all on five-point scales.
+4. The total effect of AI literacy on self-reported CPS was 0.480, SE = 0.036, 95% CI [0.409, 0.550]; the direct effect was 0.248, SE = 0.039, 95% CI [0.172, 0.324]; the total indirect effect was 0.232, BootSE = 0.028, 95% CI [0.181, 0.288].
+5. Path coefficients were *a* = 0.499 (SE = 0.034) from AI literacy to systematic thinking, *a* = −0.487 (SE = 0.046) to cognitive load, *b* = 0.303 (SE = 0.035) from systematic thinking to CPS and *b* = −0.166 (SE = 0.026) from cognitive load to CPS, all *p* < 0.001. The specific indirect effect through systematic thinking was 0.151, BootSE = 0.028, 95% CI [0.097, 0.208]; through cognitive load it was 0.081, BootSE = 0.018, 95% CI [0.049, 0.119]. The model explained R² = 0.260 of systematic thinking, 0.140 of cognitive load and 0.352 of CPS.
+6. Perceived school ICT support moderated the AI literacy → systematic thinking path, interaction *b* = 0.128, SE = 0.034, ΔR² = 0.012. Simple slopes were 0.387 (*t* = 9.549) at one SD below the mean and 0.582 (*t* = 13.913) at one SD above, both *p* < 0.001.
+7. It moderated the AI literacy → cognitive load path in the same direction, interaction *b* = −0.352, SE = 0.046, ΔR² = 0.061. Simple slopes were −0.231 (*t* = −4.154) at low support and −0.769 (*t* = −13.394) at high support.
+8. Conditional indirect effects through systematic thinking were 0.117 [0.053, 0.178] at low support (M − 1 SD = −0.764), 0.147 [0.096, 0.200] at the mean and 0.176 [0.122, 0.240] at high support (M + 1 SD = 0.764); the index of moderated mediation was 0.039, BootSE = 0.021, 95% CI [0.008, 0.089].
+9. Conditional indirect effects through cognitive load were 0.038 [0.016, 0.064] at low support, 0.083 [0.052, 0.117] at the mean and 0.127 [0.082, 0.178] at high support; the index of moderated mediation was 0.058, BootSE = 0.013, 95% CI [0.035, 0.089].
+10. A sensitivity analysis splitting cognitive load into its two dimensions found positive indirect effects through intrinsic load, 0.0487 [0.0232, 0.0785], and extraneous load, 0.0323 [0.0071, 0.0591]; the contrast between them, 0.0164 [−0.0233, 0.0576], was not significant. Both moderation indices stayed positive: 0.0357 [0.0170, 0.0586] and 0.0236 [0.0063, 0.0463].
+
+## What the three waves buy, and what they do not
+
+The design is a [[quantitative-research|three-wave survey]], not a trial. AI literacy, perceived ICT support and demographics were measured at T1; systematic thinking and cognitive load at T2; self-reported CPS at T3. The four-week gaps separate the measures in time but do not establish change, because no construct was measured twice and no baseline levels were collected.
+
+The outcome is the largest interpretive constraint. CPS was measured with an eight-item self-report scale adapted from Promma et al. (2025) covering problem identification, solution generation, iterative testing and stakeholder analysis (α = 0.928). Students rated their own capability, so "complex problem solving" here means perceived [[problem-solving|problem-solving]] capability, and every path above is an association among [[self-report-measures|self-reports]] from the same people.
+
+The instruments are established ones, translated and back-translated: AI literacy from Wang et al. (2023), 12 items across awareness, use, evaluation and ethics (α = 0.870); systematic thinking from Promma et al. (2025), eight items across structuring, reasoning, prioritizing and information integration (α = 0.949); cognitive load from Leppink et al. (2013), six items (α = 0.835); perceived school ICT support from Wang and Zhao (2021), three items (α = 0.840). The five-factor model fitted well (χ² = 542.029, χ²/df = 2.045, CFI = 0.977, RMSEA = 0.037) and beat every collapsed alternative, so the mediators separate.
+
+## Why the cognitive-load pathway is about effort, not difficulty
+
+The negative *a* and negative *b* multiply into a positive indirect effect, which is easy to misread. Students with stronger [[ai-literacy|AI literacy]] reported *lower* scores on the six-item composite of intrinsic and extraneous demands, and lower demands went with higher perceived CPS. Nothing here says AI literacy makes tasks objectively easier. It says familiarity with what a system can do, how prompts are framed and how outputs are checked removes peripheral effort — repeated searches, badly specified prompts, attention to irrelevant output — leaving working memory for problem representation.
+
+The measure is a composite of intrinsic and extraneous items only. The four germane-load items were dropped because germane load indexes constructive processing rather than task or instructional demand, so the finding applies to those six items and not to cognitive load in all its forms. The item-level CFA nonetheless distinguished the two dimensions (one-factor RMSEA = 0.348; two-factor 0.051), and the sensitivity analysis found positive indirect effects through each separately, with a contrast CI spanning zero.
+
+This is where the study sits closest to [[cognitive-psychology|cognitive load theory]], and furthest from any claim about [[critical-thinking|critical thinking]] as a disposition. Systematic thinking here is a narrow, four-dimension construct — structuring, reasoning, prioritizing, integrating — and the authors explicitly decline to treat it as systems thinking in the broad sense. The 0.303 path from that construct to CPS is the strongest single coefficient in the outcome model.
+
+## The moderator is small in variance and large in interpretation
+
+Perceived school ICT support adds only ΔR² = 0.012 to the systematic-thinking equation, and its own coefficient there is 0.251. What matters is the shape of the interaction, not its size. The AI literacy → systematic thinking slope nearly doubles from 0.387 to 0.582 between one SD below and one SD above the moderator. The AI literacy → cognitive load slope more than triples, from −0.231 to −0.769.
+
+The mechanism the authors propose is opportunity plus relief from friction. Where students perceive accessible resources and timely help, they can test ideas, compare outputs and retry without spending working memory on unstable platforms or unfamiliar interfaces. Where support is thin, the environment itself becomes a demand.
+
+One caution belongs with that story. The moderator is a three-item student perception, not an audit of institutional infrastructure, so the finding cannot underwrite a claim that buying software or staffing a help desk will move cognitive outcomes. Clustering, as noted below, is unmodelled, and the indices of moderated mediation, 0.039 and 0.058, are the results most exposed to that.
+
+## What this means for practice
+
+- **Vocational instructors.** Teach the cognitive moves, not just the tool. The largest coefficient ran through structuring, reasoning, prioritizing and integrating information, so an assignment that has students state the problem, compare two AI outputs with explicit reasons and rank constraints does more than one that merely uses AI.
+- **Curriculum designers.** Build AI literacy as a practical capability across programs rather than a standalone module. The scale spans awareness, use, evaluation and ethics, and the indirect effects assume all four are operating on an industry task.
+- **Administrators.** Treat perceived access as part of the learning environment, and measure it before investing. The moderation is about what students believe they can reach and whom they can ask; a support service nobody knows about will not show up in these pathways.
+- **Researchers.** Report conditional indirect effects at the moderator's actual ±1 SD values, not at arbitrary "high" and "low" points, and model the college level when sampling is institutional.
+
+## Limitations
+
+- All five focal constructs are self-reported by the same respondents at all three waves, and CPS is perceived capability rather than observed performance; shared-method bias cannot be excluded, and the authors' Harman's test (first component 30.07%) and ULMC analysis are post hoc diagnostics only.
+- Each construct was measured once, with no baseline for the mediators or the outcome, and the questionnaire does not establish that T2 and T3 responses referred to the same task; the paths describe between-person associations and cannot support within-person change or causal claims.
+- Students were nested in six colleges, but class and college identifiers were unavailable, so clustering was not modeled and the standard errors may be understated.
+- The cognitive-load composite excludes germane load by design, and the authors caution against generalizing to cognitive load as a whole.
+- Attrition from 920 to 784 (136 cases) could not be tested against baseline characteristics, since nonretained cases had no individual records; selective attrition remains possible.
+- The sample is confined to higher vocational colleges in one Chinese province, and self-efficacy, though discussed as theoretical background, was not measured, so it cannot be ruled out as an alternative mechanism.
+
+## Citation
+
+Huang, M., Huang, M., He, T., Yi, X., & Deng, W. (2026). [AI literacy and vocational students' complex problem-solving skills: a moderated mediation model of systematic thinking, cognitive load, and perceived school ICT support](https://doi.org/10.3389/fpsyg.2026.1971672). *Frontiers in Psychology, 17*, 1971672.
 
 ---
 
@@ -83447,6 +83860,68 @@ Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learn
 ## Citation
 
 Laidlaw, P. (2026). [*When faculty ask, "what's the point of teaching?": GenAI as identity crisis, not skills gap*](https://doi.org/10.1080/1360144X.2026.2680432). *International Journal for Academic Development*. https://doi.org/10.1080/1360144X.2026.2680432
+
+---
+
+## [Ready but Untrained: Geography Students' Self-Reported Readiness for AI-GIS Integration in Kazakhstan](https://edtechdev.github.io/aied/articles/laiskhanov-ai-gis-geography-education-2026/)
+
+> **Synthesis:** A cross-sectional survey of 100 geography students at al-Farabi Kazakh National University found that 67% called themselves ready to use [[ai-technologies|AI]] and GIS together in lessons — 12% fully ready, 55% ready only with further training. Familiarity ran well ahead of capability: 68% knew AI well against 26% for GIS and 8% for GeoAI, and 99% had used ChatGPT or a similar tool, yet 6% had ever applied the combination in teaching practice. The paper's five-component model is built from these self-reports and has not been tested.
+
+## Key Findings
+
+1. The sample was 100 [[higher-ed|university]] geography students — 63% female, 91% aged 20–29, 79% bachelor's (11% first year, 27% second, 15% third, 26% fourth), 13% master's and 8% doctoral — surveyed online in May–June 2026, all taught in Kazakh.
+2. Reported AI familiarity was high (68% extremely, 30% moderately, 2% slightly familiar), GIS familiarity moderate (26% extremely, 52% moderately, 22% slightly) and GeoAI knowledge thin: 8% very familiar, 19% somewhat familiar, 36% had heard the term, 37% never had.
+3. Readiness to use AI-GIS as a future teacher split four ways: 12% fully ready, 55% ready but needing more training, 28% expecting difficulty, 5% seeing no need — the 67% figure the paper reports.
+4. Tool use was broad but shallow. ChatGPT, Gemini or Claude had been used by 99%, alternative [[generative-ai|generative AI]] tools by 35%, Copilot by 26% and Midjourney or DALL-E by 14%; ArcGIS led GIS platforms at 66%, ahead of QGIS (33%), Google Earth (30%), ArcGIS Online (14%) and Sentinel Hub (13%), and 15% had used none.
+5. Readiness correlated with GIS familiarity (*ρ* = 0.508), GIS proficiency (*ρ* = 0.472) and GeoAI knowledge (*ρ* = 0.425), all *p* < 0.001, but not with AI familiarity (*ρ* = 0.071, *p* = 0.485) or computer literacy (*ρ* = 0.093, *p* = 0.355). H1 was rejected; H3 (*ρ* = 0.468) and H4 (*ρ* = 0.478) were supported; H2 was treated as a descriptive expectation rather than tested.
+6. Readiness differed by level of study, *χ*²(3) = 24.56, *p* < 0.001, confirmed by a Monte Carlo permutation test with 20,000 permutations. Among bachelor's students 3 of 79 (4%) were fully ready and 47 (59%) wanted more training; among master's and doctoral students 9 of 21 (43%) were fully ready. Gender made no difference, *χ*²(2) = 1.403, *p* = 0.496.
+7. Practice lagged far behind intention. Only 6% had actively used AI-GIS during teaching practice and 31% partially, while 41% had not yet done practice and 22% had no opportunity. Just 3% could build an AI-GIS lesson plan independently, 37% could with support, 37% only with difficulty and 23% could not. Eighteen percent understood how to combine AI-GIS with project-based, problem-based, case and interdisciplinary teaching; 56% understood partially and 26% not at all.
+8. Ethical awareness was the weakest area. Sixty-seven percent were not familiar with algorithmic bias (4% very, 14% somewhat, 15% had heard of it); for data-privacy risk the figures were 13%, 24%, 29% and 34%. Even so, 88% said AI-GIS integration improves or significantly improves lesson quality, 89% rated the knowledge important for a future geography teacher and 78% said teachers must critically evaluate AI outputs. Only 43% judged the university's instruction in these technologies adequate, 47% partial and 10% inadequate.
+9. The seven-item index reached Cronbach's *α* = 0.78 with corrected item-total correlations of 0.28 to 0.72, but principal component analysis extracted two components (eigenvalues 3.08 and 1.35, explaining 44.0% and 19.4%), so the authors read it as a general indicator with two aspects rather than one construct. A sensitivity analysis excluding two respondents who had not confirmed consent (n = 98) gave *α* = 0.78 and *χ*²(3) = 23.80.
+
+## What the study measured, and what it did not
+
+The design is a single-institution, cross-sectional online questionnaire with convenience sampling. There was no comparison group, no pre-test and post-test, no classroom observation and no measure of what students learned. Item Q16 asked students to recall whether they had used AI-GIS in practice, and item Q19 asked whether they believed integration improves lesson quality. Both are [[self-report-measures|self-reports]] of perception and recollection, and the authors say so explicitly.
+
+The instrument was written by the authors from the literature and the Intelligent-TPACK and TPACK-Place-AI frameworks. It was not adapted from a validated scale, and no expert validation or pilot testing was carried out — a limitation the paper states rather than conceals. The 27 closed items analyzed here sit in three blocks: social and intellectual characteristics (Q1–Q10), experience and integration (Q11–Q20), and professional needs and ethics (Q21–Q27). Three open-ended items, Q28–Q30, are reported separately and are not part of this article.
+
+That combination bounds the claim sharply. A 67% readiness figure from one university describes what these 100 students say about themselves. It does not show that a training program works, that AI-GIS raises achievement, or that readiness predicts classroom behavior. The paper is candid on this point: its model is "informed by" the survey and "has not yet been tested empirically," and the authors call for a quasi-experimental or experimental implementation as the next step.
+
+## Why GIS skill, not AI familiarity, tracked readiness
+
+The most useful result is the near-zero correlation between general AI familiarity and readiness, *ρ* = 0.071. Students who knew AI well were no more likely to say they would teach with it. The authors offer an explanation they did not test: with 99% of the sample already using generative tools, AI familiarity has almost no variance left to explain, while GIS proficiency varies widely and sits closer to the task named in the readiness question.
+
+That reading is consistent with the rest of the correlation matrix. GIS familiarity and GIS proficiency were the strongest pair (*ρ* = 0.650), GeoAI knowledge tracked both, and readiness tracked the GIS-side variables at roughly 0.42 to 0.51. If the explanation holds, "AI literacy" as generic tool familiarity is the wrong target for [[teacher-education|geography teacher preparation]]; the binding constraint is spatial-analytical competence with the software and data.
+
+It also fits the [[tpack|TPACK]] tradition the paper builds on. [[teacher-ai-competency|Teacher AI competency]] here is not knowledge about AI in the abstract but the intersection of tool, subject matter and pedagogy — knowing how to make a GIS layer or a satellite image do instructional work. The [[personalized-learning|personalization]] promise that dominates vendor messaging barely appears; students report needing methodological support for lesson design.
+
+## Confidence without competence
+
+Sixty-seven percent had never encountered algorithmic bias, while 88% expected quality gains from integration and 78% endorsed critical evaluation of AI outputs. Beliefs run ahead of skills, and that is the paper's real finding. Thirty-three percent say AI-generated geographical content always requires verification, yet 2% call it always accurate and 25% mostly accurate.
+
+The practice items show the same gap from the other side. Six percent active use, 3% independent lesson planning, 18% full understanding of how AI-GIS fits established methods. The authors read this through Ertmer's first- and second-order barriers: students recognize the technology, but have not built the pedagogical confidence or the experience of using it in a lesson. Their proposed remedy is a five-component model — content, technological, methodological, integrative and competency — with feedback and assessment blocks added as proposals.
+
+Read carefully, that model is a design argument, not a validated intervention. Each measured component maps to survey items, and the strongest evidence behind it is a correlation of 0.468 and a chi-square of 24.56; the feedback and assessment blocks were never measured at all. Its value is as an organizing scheme for a training program, which is what "informed by survey data" means.
+
+## What this means for practice
+
+- **Geography teacher educators.** Teach GIS seriously before teaching GeoAI. Readiness in this sample moved with GIS proficiency and GeoAI knowledge, not with familiarity with chatbots, so a course that adds an AI module to an unchanged GIS sequence is unlikely to shift students' capacity to plan lessons.
+- **Program designers.** Build the ethics unit around algorithmic bias, not around a general warning. Two-thirds of students had never encountered the concept, and bias in a map or a spatial analysis is exactly the failure mode their future work will meet.
+- **Practicum coordinators.** Give students a real occasion to use the tools. Forty-one percent had not yet done teaching practice and another 22% had no opportunity to use AI-GIS during it; the 6% who used it actively are the only ones with anything like experience to draw on.
+- **[[curriculum-design|Curriculum]] committees.** Differentiate by level. Bachelor's students mostly want foundational training (59% asked for more knowledge), while 43% of master's and doctoral students already felt fully ready — one uniform course serves neither group well.
+- **Researchers.** Treat readiness surveys as scoping work, not as evidence of effect. The instrument here is unvalidated and two-dimensional, and the field still lacks the quasi-experimental test the authors themselves request.
+
+## Limitations
+
+- Single institution and convenience sample of 100 students at one Kazakh university, surveyed once: no control group, no pre-post comparison and no learning-outcome measure, so every construct is self-reported perception.
+- The questionnaire was author-written, with no expert validation, pilot testing or confirmatory factor analysis; the seven-item index is not unidimensional and its two-factor structure is only exploratory.
+- The proposed five-component model has not been implemented or evaluated, and two of its blocks (feedback and assessment) were never measured.
+- Nearly all respondents were instructed in Kazakh and 91% were aged 20–29, leaving language of instruction and older learners unexamined; 41% had not yet completed teaching practice, which limits what the practice items can show.
+- Three open-ended items (Q28–Q30) are reported separately, so the quantitative picture has no qualitative triangulation, and perceived usefulness and institutional support — established readiness drivers — were not measured.
+
+## Citation
+
+Laiskhanov, S., Tabyldina, A., Abdulla, A., Kalimurzina, A., Orynbek, B., & Bisheyeva, B. (2026). [A model for enhancing the quality of geography education based on the integration of Artificial Intelligence and Geographic Information Systems](https://doi.org/10.3389/feduc.2026.1990735). *Frontiers in Education, 11*, 1990735.
 
 ---
 
@@ -95286,6 +95761,68 @@ Muminova, Z. O., Mamatkulov, D. M., Turokulova, R. I., Rakhmonova, N. T., Shavqi
 
 ---
 
+## [Selective Use, Favorable Perceptions: AI in Professionally Oriented Physics Education for Future Engineers](https://edtechdev.github.io/aied/articles/nauryzbayeva-ai-physics-education-future-engineers-2026/)
+
+> **Synthesis:** A cross-sectional anonymous survey of 209 engineering students at six universities in Kazakhstan asked how often they use AI while studying [[physics-education|physics]] and specialized disciplines, and how much support they believe it gives them. Among 208 valid responses, 36.1% reported regular use and 31.7% occasional use; activity-level use ranged from 43.5% for written assignments to 55.1% for clarifying difficult topics. Perceived support for [[problem-solving|independent problem solving]] was reported by 44.0% and for [[engineering-education|engineering thinking]] by 61.1%. More frequent use was associated with more favorable ratings on all six perception items (ρ = 0.451–0.605), but this is a [[self-report-measures|self-report]] pattern, not evidence that AI improved physics learning.
+
+## Key Findings
+
+1. The sample was 209 students from engineering-related programs across six Kazakh universities, recruited by voluntary participation and surveyed online; 208 gave a valid response to the general AI-use item, and valid counts varied by item (n = 203–208) with no imputation.
+2. General academic AI use was common but not dominant: 36.1% regular, 31.7% occasional, 19.2% rare and 12.5% no use, with one open-text "Other" response (0.5%).
+3. Use specific to physics and specialized disciplines skewed toward situational rather than intensive engagement: 20.2% very frequent, 15.4% fairly frequent, 42.8% individual or occasional cases and 20.7% no use, plus two "Other" responses (1.0%).
+4. Reported use by activity was 55.1% for clarifying difficult topics or answering instructors' questions, 51.4% for homework, 50.2% for project activities, 48.3% for examination preparation, 44.7% for laboratory reports and documentation, 44.2% for presentations and 43.5% for written assignments.
+5. Perceived contribution was highest for engineering thinking (61.1% positive, 38.9% no effect) and lowest for applying physical laws, where 42.5% saw a positive contribution, 32.9% a partial one and 24.6% none.
+6. For interpreting computational and experimental data, 42.8% reported positive support, 26.9% partial and 30.3% none; for independent problem solving the split was 44.0% positive, 21.3% partial and 34.8% none.
+7. Overall, 48.3% rated AI's influence on physics learning positively, 36.2% neutral and 15.5% negative; 48.3% judged AI appropriate for professional preparation, 29.8% partially appropriate and 22.0% not appropriate.
+8. AI-use frequency correlated with every perception item: ρ = 0.605 for interpreting computational and experimental data, 0.582 for applying physical laws, 0.543 for professional preparation, 0.533 for independent problem solving, 0.478 for engineering thinking and 0.451 for overall influence on learning, all Holm-adjusted *p* < 0.001.
+9. Excluding the 43 respondents (20.7%) who reported no AI use in physics and specialized disciplines left all six associations significant but smaller (ρ = 0.234–0.490, Holm-adjusted *p* ≤ 0.0027), so the user/non-user contrast inflated the full-sample coefficients.
+
+## What the survey measured, and what it deliberately did not
+
+The instrument was built for this study and consists of closed and semi-closed items in three blocks: general AI-use frequency, use across seven named academic activities, and six separate perception items. It was not designed as a psychometric scale, the six perception items were never combined into a composite score, and the authors state plainly that no piloting, independent expert review or construct-validation evidence is documented. Each percentage below is therefore an item-level description, not a subscale score with an established reliability coefficient.
+
+The design is a single cross-sectional sweep, with administrative distribution through one coordinating institution and a fixed analytical dataset of 209. Because institution and specialty were not recorded per respondent, the responses are pooled and no university-level or program-level comparison is possible — a deliberate scoping choice that also removes any check on whether one campus drives the pattern. The ethics approval (IRB–A1634, 15 May 2025) covers the overarching doctoral project and does not name this questionnaire, which the authors disclose rather than gloss.
+
+The analytical approach is appropriately modest for the data: frequencies and percentages for description, Spearman rank correlations between ordinal use frequency (coded 0–3) and each perception item, Holm–Bonferroni adjustment across the six planned tests, and bootstrap confidence intervals from 10,000 resamples. Non-ordinal "Other" text was kept for description and excluded from the ordinal analyses. Nothing here is a model of mediation, and the paper's own framework section says the concepts "do not constitute a tested temporal or causal pathway."
+
+## Use is selective; approval is broader than use
+
+The most useful descriptive result is the gap between how students use AI and how much of it they endorse. Regular general use sits at 36.1%, but use inside physics and specialized disciplines is thinner at the intensive end: only 20.2% report very frequent use there, against 42.8% who use it in individual or occasional cases. Read together, these figures describe a student body that has adopted AI as a general academic habit more thoroughly than as a standing feature of physics study.
+
+The activity ranking is where the pattern becomes concrete. Clarifying difficult topics leads at 55.1%, with homework at 51.4% — both tasks where a student wants an explanation or a worked step, not a finished product. The lowest figure is written assignments at 43.5%, and presentations sit at 44.2%, both tasks with a visible authored artifact. Laboratory reports land at 44.7%: the activity that most directly involves measurement and interpretation is not where students report the most AI use. The authors caution that these seven percentages were never formally compared, and that confidence intervals for adjacent estimates would overlap, so the ordering is a description of the sample rather than a tested ranking.
+
+Engineering thinking drew the strongest endorsement at 61.1%; applying physical laws and interpreting computational and experimental data sit lower, at 42.5% and 42.8% positive. Roughly a quarter to a third of respondents saw no contribution on those items. That heterogeneity is the honest headline: the pooled distribution is favorable but far from consensus, and 22.0% considered AI inappropriate for professional preparation at all. Any claim that engineering students have collectively embraced AI for physics learning is contradicted by these figures.
+
+## The correlations are about users, not about learning
+
+All six associations are positive and survive correction, with the strongest for interpreting computational and experimental data (ρ = 0.605, 95% CI 0.505–0.696) and the weakest for overall perceived influence on physics learning (ρ = 0.451, 95% CI 0.321–0.569). It would be easy to read that first coefficient as "AI helps students read data." The study cannot support that reading. Both variables came from the same questionnaire at the same moment, so the correlation is between what students say they do and what they say they believe — a shared-method association with at least three live alternative explanations.
+
+The sensitivity analysis is the clearest evidence that the coefficients are partly an artifact of who was in the sample. Dropping the 43 non-users cuts the engineering-thinking correlation from 0.478 to 0.234 and the overall-influence correlation from 0.451 to 0.339, while the data-interpretation association falls only to 0.471. The authors interpret this correctly: part of the original strength came from the contrast between users and non-users, and non-users answering questions about AI support are reporting an impression rather than an experience. What survives among users is real variation in perceived support, but its magnitude is roughly half what the headline figures suggest for two of the six items.
+
+The paper is also candid about direction. Students who already hold favorable views may simply use AI more, which would produce the same coefficients without any effect of use on perception. Frequency of use, the specific tools, and relevant respondent characteristics such as prior achievement or [[ai-literacy|AI literacy]] were not measured, so no adjustment is possible. The authors' framing — AI complementing rather than replacing fundamental physics knowledge — is consistent with the data, but the data do not select it over reverse causation.
+
+## What this means for practice
+
+- **Physics instructors.** The activities where students report most use are explanation-seeking (55.1% for clarifying difficult topics), not answer-seeking. Design for that: ask students to bring an AI explanation of a physical law to class and defend or correct it, rather than trying to police a tool they already use for homework at 51.4%.
+- **Laboratory and data-analysis teaching.** Interpretation of computational and experimental data drew both the highest correlation and a substantial dissent (30.3% saw no support). Treat AI-generated interpretation as an object of critique — units, assumptions, limiting cases — instead of assuming students can already judge it.
+- **Program designers.** The 22.0% who judged AI inappropriate for professional preparation and the 34.8% who saw no support for independent problem solving are a real constituency, not noise. A program that mandates AI use in every course will meet resistance grounded in disciplinary judgment, and that judgment deserves an answer.
+- **Researchers.** Perceived support is not a learning outcome. The next study in this line needs an objective measure — a problem-solving or interpretation task scored blind — because no amount of additional perception data will close that gap. 
+
+## Limitations
+
+- No learning outcome was measured. Every focal variable is self-reported within one questionnaire, so common-method bias, correlated response tendencies and reverse causation all remain open; perceived support cannot establish that AI improved engineering thinking or data interpretation.
+- The instrument was purpose-built and unvalidated, with no piloting, expert review or construct-validation evidence documented and no reliability estimate for the six separately analyzed perception items.
+- Recruitment was voluntary, and the number invited, response rate, institution and specialty were not recorded, so self-selection bias is unquantified and no within-institution analysis is possible.
+- Specific AI tools, depth and style of use, and respondent characteristics such as prior achievement were not measured, preventing adjustment for confounders.
+- Non-users make up 20.7% of the valid physics-use sample and answered about support they may not have experienced; the sensitivity analysis attenuates but does not remove this problem, and it leaves self-selection and shared-method bias intact.
+- The seven activity percentages are descriptive only, with the 43.5%–55.1% spread statistically untested, and the sample is pooled engineering students in Kazakhstan without institutional identifiers, so generalization elsewhere is untested.
+
+## Citation
+
+Nauryzbayeva, G., Turkmenbayev, A., Sakipov, N., Zhussupkaliyeva, G., Yergaliyeva, G., Aldzhambekova, G., Shinikulova, G., & Kuanbayeva, B. (2026). [Artificial intelligence in professionally oriented physics education: patterns of use and perceived learning support among future engineers](https://doi.org/10.3389/feduc.2026.1989485). *Frontiers in Education, 11*, 1989485.
+
+---
+
 ## [Designing Teaching Materials with GenAI: Perceptions of Cognitive Load and Learner Competencies in Higher Education](https://edtechdev.github.io/aied/articles/navas-romero-designing-teaching-materials-genai-2026/)
 
 > **Synthesis:** Navas-Romero, Zakharova-García, Guillén-Gámez and Cebrián-Cifuentes surveyed 451 students in education programs at one public university in southern Spain about what they believe [[generative-ai|generative AI]] demands of them as designers of teaching materials. Framed by [[cognitive-offloading|Cognitive Load Theory]] and [[tpack|TPACK]], the 31-item instrument separated [[technology-acceptance-model|perceived usefulness]] from three learner-related dimensions ([[metacognition|metacognitive skills]], [[prior-knowledge|prior knowledge]], [[problem-solving|problem-solving skills]]) and three load dimensions (intrinsic, extraneous, and germane). Participants endorsed the practices and the tool, with female students scoring significantly higher on the three learner-related dimensions, though effect sizes were small (r = 0.119 to 0.147) and women made up 82% of the sample. No gender difference reached significance on any load dimension, and the only age or admission-grade association that held was a weak negative correlation between age and extraneous load (r = -0.097). The study measures beliefs about practices, not demonstrated competence, and the authors are explicit about that boundary.
@@ -106172,9 +106709,9 @@ Scheu, S., Loeffler, S. N., & Maedche, A. (2026). [*Designing a mobile chatbot-b
 
 ## [Foregrounded by AI: What a Sociomaterial Account of Literacy Implies for Postdigital Design Orientations](https://edtechdev.github.io/aied/articles/schlauch-sociomaterial-literacy-postdigital-design-2026/)
 
-*This page summarizes a theoretical article. It reports no study, collects no data, and its three design orientations are proposals derived from theory rather than tested interventions.*
-
 > **Synthesis:** Schlauch inverts the usual question about AI and literacy. Instead of asking what new literacies [[generative-ai|GenAI]] demands, he asks what [[llm|LLMs]] reveal about literacy itself — namely that it was never housed in the individual learner but constituted within more-than-human assemblages of people, texts, technologies, practices and infrastructures. That condition was easy to ignore while nonhuman contributors could be absorbed into the background; LLMs make the absorption untenable. Drawing on the sociomaterial tradition in science and technology studies, actor-network theory and postdigital literacy research, he argues that competence frameworks, by centring the individual, structurally cannot register the distributed, infrastructural and nonhuman dimensions of literacy this shift makes visible. The constructive payoff is three design orientations for postdigital literacy environments — making assemblages visible, sustaining fluid literacy spaces, and preserving conditions for critical reflexivity — each described as a disposition to cultivate rather than a technique to deliver, and each carrying political as well as [[pedagogy|pedagogical]] stakes.
+
+*This page summarizes a theoretical article. It reports no study, collects no data, and its three design orientations are proposals derived from theory rather than tested interventions.*
 
 ## Why the Individual Learner Is the Wrong Unit
 
@@ -121558,6 +122095,77 @@ Xiao, F., Huang, J., Huang, J.-X., Ren, H., & Li, L. (2026). [*Integrating LLM w
 
 ---
 
+## [Offloading Thought: Metacognitive Disengagement and Innovation Quality in Human–AI Collaboration](https://edtechdev.github.io/aied/articles/xiao-metacognitive-disengagement-knowledge-innovation-2026/)
+
+> **Synthesis:** Four randomized between-subjects experiments tested whether [[generative-ai|generative AI]] assistance erodes the [[metacognition|metacognitive]] work that [[creativity|creative]] tasks demand in [[human-ai-collaboration|human–AI collaboration]]. Together they enrolled 728 adults recruited through an online panel, not students in a course and not identified employees, who completed simulated innovation proposals in product design, community services, public-space renewal and employee benefits. Higher AI assistance raised task-level metacognitive disengagement (*d* = 0.67), [[cognitive-offloading|cognitive offloading]] carried 58.0% of that effect, and experimentally raising delegation lowered expert-rated innovation quality from 4.78 to 3.95 (*d* = 0.75), with 57.8% of that drop running through disengagement. Task complexity amplified the damage; [[ai-literacy|AI literacy]] absorbed it.
+
+## Key Findings
+
+1. The four samples were 150, 162, 176 and 240 valid participants, 728 in total, recruited through Credamo and screened with attention checks. Mean ages ran from 28.64 to 29.41 years, and each experiment randomized participants to conditions. The paper reports sex, age and education but never states occupation or student status.
+2. In Experiment 1, perceived assistance was 5.67 in the high-assistance condition against 3.85 in the low-assistance condition, *t*(148) = 8.94, *p* < 0.001, *d* = 1.46, so the manipulation held.
+3. Overall task-level metacognitive disengagement was 4.82 versus 3.96, *t*(148) = 4.12, *p* < 0.001, *d* = 0.67. All three dimensions moved the same way: planning reduction 4.91 versus 4.02 (*d* = 0.64), monitoring weakening 4.76 versus 3.89 (*d* = 0.64) and reflection absence 4.80 versus 3.97 (*d* = 0.61).
+4. An ANCOVA controlling for gender, age, education and AI familiarity kept the main effect, *F*(1, 144) = 16.85, *p* < 0.001, *η*² = 0.105. AI familiarity independently predicted *lower* disengagement, *F*(1, 144) = 4.32, *p* = 0.039 — the result that motivated testing [[ai-literacy|AI literacy]] as a buffer later.
+5. In Experiment 2, cognitive offloading was 5.12 versus 3.87, *t*(160) = 6.83, *p* < 0.001, *d* = 1.08. The total effect of assistance on disengagement was *c* = 0.88, the indirect effect *a* × *b* = 0.51, 95% CI [0.32, 0.72], and the direct effect *c*′ = 0.37, *p* = 0.012 — partial mediation accounting for 58.0% of the total.
+6. Experiment 3 manipulated delegation directly. Expert-rated innovation quality fell from 4.78 to 3.95, *t*(174) = 4.97, *p* < 0.001, *d* = 0.75, with the same pattern for novelty (4.69 versus 3.82, *d* = 0.70), usefulness (4.85 versus 4.01, *d* = 0.71) and developability (4.80 versus 4.02, *d* = 0.64).
+7. In that experiment the total effect on quality was *c* = −0.83, the indirect effect through disengagement was −0.48, 95% CI [−0.68, −0.30], and the direct effect was −0.35, *p* = 0.015. Disengagement carried 57.8% of the loss, and three blinded raters agreed at ICC = 0.84.
+8. Experiment 4 found no moderation of the first stage: the offloading × complexity interaction was *F*(1, 236) = 0.85, *p* = 0.358, and the offloading × literacy interaction *b* = −0.08, *p* = 0.421. Both moderators act where disengagement turns into quality.
+9. Task complexity strengthened that second stage: interaction *b* = −0.34, *p* = 0.013, index of moderated mediation −0.39, 95% CI [−0.62, −0.16], with conditional indirect effects of −0.48 under low complexity and −0.87 under high complexity. Simple slopes were −0.41 and −0.75.
+10. AI literacy weakened it: interaction *b* = 0.26, *p* = 0.006, index 0.30, 95% CI [0.09, 0.52], with indirect effects of −0.74 at one SD below the mean and −0.14 at one SD above. The high-literacy interval [−0.30, 0.02] includes zero.
+
+## Who the participants were, and what that licenses
+
+This matters before any education claim is drawn. Participants came from Credamo, an online data-collection platform, and were paid for one session. They averaged about 29 years old and roughly 55% were women, and each experiment randomized them to conditions. Nothing in the method section describes a course, a cohort, a curriculum or a workplace. The tasks were simulated proposals — a smart-home product, an urban community service, a public-space micro-renewal, an employee benefits plan — judged by three blinded experts.
+
+So the study is neither a classroom study nor a workplace study. It is an online adult experiment with workplace-shaped tasks. The discussion addresses "knowledge workers" and "organizations", and those implications are reasonable to consider, but the data do not show that employees behave this way under real accountability, deadlines or managers. An education page should say the same: these are adults doing an innovation exercise for pay, and the finding is about task conditions rather than about a cohort of learners or a firm.
+
+Task selection was deliberately broad — product, service, spatial and organizational problems — and raters were matched to each domain: urban planning for Experiment 3, human resource management for Experiment 4. Breadth across tasks, not people.
+
+## Offloading versus disengagement: the distinction that carries the argument
+
+The paper's conceptual contribution is separating a behavior from a state. [[cognitive-offloading|Cognitive offloading]] is the act of delegating cognitive work to a tool. Task-level metacognitive disengagement is the reduction of planning, monitoring and reflection over one's own thinking inside a specific AI-assisted task. A person can delegate heavily and still audit the output, or delegate moderately and stop overseeing their own reasoning. The authors measure the second with a new nine-item scale, validated on the pooled 728 cases: three-factor fit *χ*²(24) = 98.42, CFI = 0.95, RMSEA = 0.06, and an HTMT ratio of 0.61 against the offloading scale. Because the three dimensions come from [[self-regulated-learning|self-regulated learning]] research, the scale reads as a withdrawal of regulation rather than a loss of ability.
+
+Their mechanism is a dual erosion. Offloading removes the raw material that monitoring would otherwise inspect, because the person no longer filters, structures or generates the intermediate content. It also removes the felt need to monitor, because a fluent system appears reliable enough to skip checking. Both effects point the same way, which is why the pathway is robust across four tasks.
+
+The mediation is partial in both links: offloading carried 58.0% of the assistance effect and disengagement 57.8% of the delegation effect. The authors name untested leftovers — shifted [[self-efficacy]], weakened accountability, [[trust-calibration|trust]] — and describe the model as one real mechanism, not the only one.
+
+## A scripted assistant, and what the design can attribute
+
+The AI in these experiments was not a live model responding freely. Its replies came from researcher-configured prompt templates and a task-domain knowledge base, so everyone in a condition met the same interaction. The high-assistance version produced user profiles, feature directions and commentary on drafts; the low-assistance version answered factual queries briefly and offered no creative content.
+
+That choice buys internal validity and costs ecological validity. The independent variable is the *level of assistance*, not the capability of any system. A study of GPT-class or agentic tools, which volunteer framings, push back or ask clarifying questions, tests something this design cannot reach. These effect sizes are not estimates of what a current chatbot does to a team.
+
+Experiments 3 and 4 have a second attribution problem the authors flag themselves. The high- and low-delegation workflows differed in delegation, in the detail of AI replies, in how much independent effort was requested, and in who was assigned responsibility for the core content. The reported effect therefore belongs to a compound workflow with delegation at its center, not to delegation alone.
+
+## Where the damage lands
+
+The moderated mediation result is the most usable part of the paper, because the harm is conditional, not universal. Disengagement arose at similar rates whether tasks were simple or complex — the first-stage interactions were null — but its cost to quality depended on the task and the person.
+
+Under high complexity the indirect effect was nearly double that under low complexity (−0.87 versus −0.48), which fits the intuition that hard problems need the very monitoring that disengagement suspends. Under high AI literacy the indirect effect shrank to −0.14 and lost significance — a claim about critical distance, not technical skill. High-literacy participants did not necessarily offload less; they kept questioning assumptions and comparing alternatives while doing it.
+
+The Johnson-Neyman bounds give that buffer a range. Below 2.87 on the seven-point literacy scale the negative conditional effect was significant, above 4.63 it was not. Between those values the interval straddled zero while the estimate stayed negative — a gradient, not a threshold.
+
+## What this means for practice
+
+- **Tool designers.** Build metacognitive triggers rather than seamless substitution: state assumptions before generation, flag what needs verification afterward, name which judgments stay human.
+- **[[professional-training|Workflow and training]] designers.** Segment complex work: independent human ideation, AI-assisted expansion, then critical human integration. For simple tasks a higher share of AI generation is defensible, because the measured cost of disengagement is smaller.
+- **AI literacy programs.** Teach critique, not operation. The buffer came from evaluating outputs and holding distance from them, which is trainable: identify assumptions and biases, require an alternative before accepting a solution, debrief what should stay under human judgment.
+- **Educators assigning AI-supported projects.** A polished, complete deliverable can coexist with abandoned planning and reflection. Assess the process — drafts, alternatives considered, a reflection memo — rather than only the artifact.
+
+## Limitations
+
+- All measures are task-level and immediate. The nine-item scale captures reduction within one AI-assisted task, not the cumulative decline that would matter over a term or a career; no longitudinal design was run, and participants completed one short simulated task in a single paid session.
+- The AI assistant was scripted from researcher templates and a knowledge base, so findings describe assistance level, not deployed-model behavior.
+- The delegation manipulation in Experiments 3 and 4 was compound, bundling response detail, requested effort and responsibility allocation with delegation itself.
+- Innovation quality rests on expert ratings. Interrater reliability was good (ICC = 0.84, 0.86), but expert judgment remains partly subjective and no downstream implementation outcome was tracked.
+- Offloading and disengagement were self-reported in the same questionnaire, and the authors concede the Harman tests are a weak check on common method variance.
+- Occupation and student status are unreported, so neither a workplace nor a classroom population can be claimed. AI literacy was measured rather than manipulated, and no preregistration statement appears in the paper, so no intervention was tested.
+
+## Citation
+
+Xiao, W., Men, C.-H., & Zhang, J.-C. (2026). [Metacognitive disengagement and knowledge innovation quality in human–AI collaboration: the mediating role of cognitive offloading and the moderating roles of task complexity and AI literacy](https://doi.org/10.3389/fpsyg.2026.1975833). *Frontiers in Psychology, 17*, 1975833.
+
+---
+
 ## [A GenAI-Assisted Mystery Role-Play Game Beat Lecture in a Legal-Education Randomized Trial](https://edtechdev.github.io/aied/articles/xie-genai-mystery-game-legal-education-2026/)
 
 > **Synthesis:** A [[rct|randomized trial]] with 84 undergraduate law students at one Chinese university compared an offline [[game-based-learning|mystery role-playing game]] against the same instructor's lecture on the same content, and the game group scored substantially higher on a post-test of legal knowledge and reasoning, *F*(1, 81) = 105.61, *p* < .001, partial *η*² = 0.566. The design detail that matters most is who the model served: Gemini 3 Pro was used by the research team to draft character scripts, not by students, so this is evidence about [[generative-ai|GenAI]] as an authoring aid for educational games rather than about AI in the student's hands. Interviews with 24 participants describe immersion, knowledge mobilisation and reflection on their own gaps.
@@ -122882,9 +123490,9 @@ Zangari, L. G., Abramson, S. L., Aponte-Archila, E., Hackney, K. A., Muñoz, E.,
 
 ## [Reshaping Higher Education Designs and Futures: Postdigital Co-design with Generative Artificial Intelligence](https://edtechdev.github.io/aied/articles/zeivots-postdigital-co-design-genai-2025/)
 
-*This page summarizes a collective forum article rather than a study. It reports no experiment and collects no data: the evidence it offers is nineteen authors' practice-based accounts, plus three open reviews published alongside them.*
-
 > **Synthesis:** Nineteen authors and three open reviewers ask what happens to co-design — the inclusive, iterative, relational practice of designing curricula, environments and institutions together — when [[generative-ai|GenAI]] is treated not as a tool but as a collaborator in the [[design-thinking|design process]]. The article is structured in three parts: a [[meta-analysis-systematic-review|literature review]] of co-design, GenAI and postdigital theory; eleven situated contributions from educators, researchers and designers in ten countries; and a discussion of implications for [[higher-ed|higher education]]'s design futures. Its central move is to [[agency|distribute agency]]: where most AI-in-education work asks whether the technology helps or harms, this asks what [[learning-design|design practice]] becomes when knowledge production, narrative construction and iterative [[reflection]] are co-produced with a non-human participant. Two claims run through it — that GenAI simultaneously pluralises perspectives and defers to normative ones, so language fluency must not be read as breadth of knowing, and that the entanglement intensifies rather than removes the need for human interpretation and care.
+
+*This page summarizes a collective forum article rather than a study. It reports no experiment and collects no data: the evidence it offers is nineteen authors' practice-based accounts, plus three open reviews published alongside them.*
 
 ## How the Article Is Built
 

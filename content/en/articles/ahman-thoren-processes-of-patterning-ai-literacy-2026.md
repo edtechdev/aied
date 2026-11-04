@@ -21,9 +21,9 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*This page summarizes a theoretical article. The paper presents no data of its own; figures and findings mentioned below belong to the studies it cites, and the case it discusses (the Tentaklar platform) is used as an illustration rather than evaluated.*
-
 > **Synthesis:** Åhman and Thorén ask what is lost when literacy — practices of cognitive, cultural and ethical formation — is externalized to [[generative-ai|GenAI]] systems. Their answer is built on a distinction the AI-in-education literature tends to skip: GenAI does not merely support the production or transmission of knowledge, it participates in and can substitute for the cognitive operations through which knowledge is formed. Drawing on Aristotle's *phronesis*, Vygotsky's tool-mediated learning and postdigital theory, they introduce **patterning** — the developmental process through which a person reasons about complexity and organizes it into meaningful structures — and argue that AI study tools risk undermining the conditions under which patterning occurs, producing **borrowed judgment**: students served the products of reasoning without going through the interpretive struggle of reasoning. The Swedish exam tool Tentaklar is the illustrative case, and the paper closes with three design principles meant to keep a system from replacing judgment with its output.
+
+*This page summarizes a theoretical article. The paper presents no data of its own; figures and findings mentioned below belong to the studies it cites, and the case it discusses (the Tentaklar platform) is used as an illustration rather than evaluated.*
 
 ## The Argument in Three Frameworks
 

@@ -1,7 +1,7 @@
 ---
 title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:10:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -47,6 +47,8 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - **AI-assisted learning carries a psychological cost when it replaces effort.** [[ai-autonomous-learning-accomplishment-2026]] surveyed 1,264 vocational college students in China using structural equation modeling and found AI-assisted autonomous learning negatively associated with hardiness (commitment, control, challenge) and positively associated with reduced academic accomplishment, a burnout dimension of negative [[self-assessment|self-evaluation]]. Hardiness partially mediated the relationship. The design is cross-sectional, self-report and single-institution, so causality is not established, but the framing matters for VET: where confidence is built through repeated practice, AI as a substitute may reduce both the disposition to persist and the felt experience of mastery.
 
 - **Accelerating [[curriculum-design|curriculum]] production without surrendering verification.** [[crewscaler-ai-upskilling-framework]] applies AI across all five stages of professional upskilling — knowledge acquisition, content development, review and verification, [[intelligent-tutoring|tutor coaching]] and assessment development — while keeping blueprint design, subject-matter review and [[misconceptions|misconception]] authoring with humans. Its external validation includes NASBA CPE accreditation, three of three learners passing an NVIDIA certification exam using only the framework's knowledge base, and a 530-question bank tagged to a 53-skill blueprint. It belongs here because it treats verification as a first-class stage: [[hallucination-risk|hallucination]] detection is largely absent from education pipelines, and the paper reports default LLM tutoring reaching only 52–70% correct pedagogical actions.
+
+- **Perceived support is an institutional lever, not a student deficit.** Among 784 students at six Chinese higher vocational colleges, [[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]] found [[ai-literacy|AI literacy]]'s link to self-reported [[problem-solving|complex problem solving]] (total 0.480) strengthened with perceived school ICT support: conditional indirect effects rose from 0.117 to 0.176 and 0.038 to 0.127.
 
 - **Curriculum renewal as a continuing obligation, not a periodic review.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifies five interacting renewal dimensions, occupational transformation, curriculum currency, faculty capability alignment, program architecture and external alignment, and six leadership tests for deciding whether a course should be retained, revised, integrated, replaced or retired.
 
@@ -101,3 +103,4 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
 - [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
 - [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
+- [[huang-ai-literacy-vocational-problem-solving-2026]] — Perceived ICT support as an institutional lever in vocational colleges
