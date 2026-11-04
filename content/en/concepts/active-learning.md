@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T09:08:01-05:00"
+updated: "2026-11-04T02:27:17-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,6 +11,11 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-04"
+    agent: hermes-agent
 ---
 
 > **Active Learning** — instructional approaches that engage students in doing things and thinking about what they are doing, rather than passively receiving information. In AI in education, active learning research examines both how AI tools can support active learning pedagogies and how active engagement with AI tools — rather than passive consumption — affects learning outcomes.
@@ -37,6 +42,8 @@ AI-enabled active learning manifests across multiple forms in this knowledge bas
 - **AI-supported inquiry is not automatically higher-order.** A quasi-experiment with 120 Grade 8 students found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance and attitudes toward mathematics but produced no significant gain in critical [[problem-solving]] — a caution against reading creativity and affect gains as evidence of deeper reasoning ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
 - **Access is not structure.** In a construction-engineering review task, the same retrieval-augmented system scored 12.41 on open-ended items when run through a five-step [[prompt-engineering|prompting]] structure against 10.45 without it, while slide-based study scored 9.68, and multiple-choice recall did not differ ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). Unprompted AI review did not beat slides, so the gain traces to the structure of the interaction rather than to model access.
+
+- **Replication is a distinct active ingredient.** The Physics AI-Replication protocol has students get an AI explanation of a hard problem, request one or two similar problems, then solve those independently before checking. Across 11 introductory physics sections at four U.S. institutions, 90.9% of 231 respondents credited it with better conceptual understanding and 97.7% of 213 found the replicated practice helpful, the two correlating at r_s = 0.58 ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). The learner-side mechanism is what the page lacked: 18.7% of open responses described having to understand a problem's structure in order to generate a similar one. Confidence afterward tracked those two benefits (r_s = 0.37 and 0.35), not usage frequency (r_s = 0.02).
 
 - **Exploratory and simulation-based active learning.** [[supplynet-visual-exploratory-learning|SupplyNet]] uses a contextual multi-agent LLM simulation to support visual exploratory learning in supply-chain education, pairing an interactive network view with a branching "what-if" timeline so learners trace causal dynamics rather than consume abstract content. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] and [[genai-assisted-problem-posing-physics-2026|problem-posing in physics]] similarly foreground learner-driven exploration.
 

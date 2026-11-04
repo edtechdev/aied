@@ -1,7 +1,7 @@
 ---
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-28T11:34:12-04:00"
+updated: "2026-11-04T02:27:56-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -17,6 +17,9 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-04"
     agent: hermes-agent
 ---
 
@@ -79,6 +82,8 @@ Detection answers a different question from the one that matters. Undetected out
 ### "The problem is how often they use it."
 
 Frequency tells you nothing. A student can use AI daily to compare explanations, generate practice problems, and get feedback while staying cognitively active, and another can use it once to produce the argument the assignment existed to elicit. The question that sorts them is which layer of thinking was delegated and whether the student can still perform that layer alone, a distinction [[student-ai-interaction|student-AI interaction]] documents in detail. Grammar correction sits far from the claims, evidence, and counterarguments of an essay. The move is to make the layer explicit in the task: name the thinking the course is teaching, permit help everywhere else, and check the named layer without help.
+
+One study now measures the claim rather than asserting it. In a four-institution evaluation of a four-step protocol — AI explanation, then self-generated practice problems, then an independent attempt — post-engagement confidence in solving problems alone tracked the perceived value of the explanation (r_s = 0.37) and of the replicated practice (r_s = 0.35), while AI usage frequency carried no association at all (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Treat frequency as a variable you cannot act on. What you can specify is the sequence: what the AI does first, what the student must attempt unaided, and what gets checked afterward.
 
 ### "Faster completion means more efficient learning."
 

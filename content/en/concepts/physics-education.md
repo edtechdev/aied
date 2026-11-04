@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T08:00:00-05:00"
+updated: "2026-11-04T02:27:17-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -12,6 +12,11 @@ level: [higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-04"
+    agent: hermes-agent
 ---
 
 > **Physics Education** — the study of how students learn physics and how to teach it more effectively, spanning Socratic [[intelligent-tutoring|AI tutoring]], [[computational-thinking|computational thinking]] assessment, student [[trust]] and AI adoption patterns, automated scoring validity, and teacher preparation. The physics education articles in this knowledge base are notable for their domain-specificity: they explore how AI tools interact with the unique cognitive demands of physics reasoning — visual-spatial thinking, mathematical modeling, abstract systems thinking, and multi-step [[problem-solving]].
@@ -34,6 +39,11 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 **Socratic AI tutoring in physics** is the most developed theme, with three articles deploying [[llm]]-powered Socratic dialogue in real physics courses. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et al.]]** demonstrated that sustained Socratic interaction with an AI chatbot dramatically improves question specificity in introductory mechanics, with 150 STEM majors in a live course. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi & Rebello]]** built a bottom-up taxonomy of 357 student discourse categories from the same deployment, revealing that meta-procedural turns — where students cede strategic control to the tutor — dominate student interactions. Both contribute to broader [[socratic-method]] research and connect to [[intelligent-tutoring|AI Tutoring]] and [[intelligent-tutoring]] frameworks.
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
+
+**Structured use, not merely adoption.** The adoption studies above describe who uses AI and how much they trust it. A separate strand asks what instructional design should do with that use, and multi-institutional evidence on it has been scarce. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** ran the four-step Physics AI-Replication protocol in 11 algebra- and calculus-based sections at four institutions: identify a hard problem, get an AI explanation and solution, request similar practice problems, then solve them independently before checking.
+
+Perceptions were consistent across campuses. Of 358 enrolled students, 235 were surveyed (65.6%); 90.9% credited improved conceptual understanding and 97.7% found the replicated practice helpful; post-engagement confidence averaged 7.18 on a 1–10 scale with institutional means from 6.86 to 7.52; and the dominant qualitative theme held between 60.6% and 67.6% at every site. Confidence tracked those two protocol benefits (r_s = 0.37 and 0.35) but not AI usage frequency (r_s = 0.02) — the variable the adoption literature usually measures.
+
 **Epistemological beliefs track chatbot-behavior preference.** In a large calculus-based course, 52% of students preferred a chatbot beginning with guided inquiry and answering only when asked, and they scored higher on the EBAPS total (p = 0.029) — differences that did not survive a Bonferroni correction, making the association suggestive, not conclusive ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar and Mamidpalliwar (2026)]]).
 
 Acceptance has now been modeled rather than described: a 340-student structural equation study of Grade 10 physics classes in Hangzhou explains 58% of the variance in intention to use DeepSeek. Its notable result is that beliefs about physics — utility value, expectancy, cost — predict how useful and how easy the tool seems, not only whether students intend to use it ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
