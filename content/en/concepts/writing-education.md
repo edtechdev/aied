@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-04T17:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -131,6 +131,8 @@ For task design the claim is that rigor and commitment interact rather than add.
 
 - **"Asking for a paragraph and asking for an essay are the same kind of help."** Trace data separates them. Across **361 logged messages** from **77** college essay writers, requests that handed over planning, drafting and revision at once were the largest category: **137** such queries from more than half the participants. Within it, **20** asked for a whole essay, and **15 of the 77 (19.5%)** submitted essays with no typed words of their own. Asking for a paragraph around an idea was the smallest category, at **10** participants. [[jelson-students-chatgpt-essay-writing-2026|Coding every query against the writing process]] shows what a finished essay cannot.
 
+The most complete classroom account of that redesign is the PAIRR deployment. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] report 13 sections of 10 writing-intensive courses and 654 students in 2024, spanning developmental writing, first-year composition, professional writing and STEM writing courses. Students read about language models first, then exchanged peer feedback, and only then prompted a chatbot for rubric-driven feedback. The prompt said "Do not rewrite my paper for me." The authors' argument for the sequence is what the course can control: a model positioned as one peripheral voice cannot take over the draft without the instructor's rubric noticing.
+
 ## Common Misconceptions
 
 **"AI writing support is just faster writing."** Writing is a cognitive, social and rhetorical process, not merely output, which is why AI can displace the very mental work that makes writing a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
@@ -216,3 +218,5 @@ For task design the claim is that rigor and commitment interact rather than add.
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Rigor and teacher commitment as the two dimensions of GenAI-era writing engagement
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+

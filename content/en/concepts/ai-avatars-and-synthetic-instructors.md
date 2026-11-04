@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T21:00:00-05:00"
-updated: "2026-11-04T16:09:41-05:00"
+updated: "2026-11-04T17:45:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -74,6 +74,8 @@ A face is not a neutral container for [[pedagogy|pedagogical content]]. In two e
 Two details make this a design problem. Domain moderated the effect: STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it. And the bias operated on behavior, not only on stated attitudes, which means self-reported [[trust-calibration|trust]] would have missed it. The authors recommend stylized or less anthropomorphic avatars, rotating diverse avatars across tasks, and evaluating uptake rather than satisfaction.([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]])
 
 Authority also arrives through the body. ELEVATE's designers warn that body and voice amplify a tutor's authority. They recommend that the avatar signal uncertainty and invite verification against notes or textbooks.([[elevate-genai-virtual-tutors]]) SOPHIE adds a complication: behind the same avatar, a model previously judged more human-like lost that advantage, and communication performance was identical across backends (0.437 versus 0.438). Human-likeness belonged to the interaction — voice, latency, turn-taking — not to the model.([[sophie-clinical-communication-ai-assessment-2026]])
+
+The counter-evidence is that students can be taught to withhold the human frame even when a prompt supplies it. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] asked 654 writing students whether the chatbot felt like a tutor, a collaborator or something else, and only about half (51.7%) took either anthropomorphic option. Students named it a tool or a program, compared it to a robot or a computer, or invented metaphors such as a vending machine of feedback that dispenses text for data. The authors treat that refusal of the human frame as the literacy outcome, which dates the effect to instruction rather than to the interface.
 
 ## Presence, realism and the uncanny
 
@@ -155,3 +157,5 @@ That narrowness matters. Theelen's authors put it directly: fluency and a sense 
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating representation from agency in classroom simulation
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A proposed conversational voice agent for course feedback interviews
 - [[trikonet-trivalence-co-creativity-2026]] — Co-creative pedagogical avatars in socio-technical networks (TriKoNet)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+

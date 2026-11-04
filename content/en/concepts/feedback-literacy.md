@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-26T09:10:00-04:00"
+updated: "2026-11-04T17:45:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -80,6 +80,8 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] treat feedback literacy as developable through practice: EFL peer reviewers who worked dialogically with generative AI to generate comments improved their own capacity to judge and use feedback, not merely the comments they delivered.
 
+**Feedback literacy has to cover a machine source as well as a human one.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] ask students to assess peer feedback and chatbot feedback on the same draft in the same reflection, which makes the comparison itself the learning task. Their students downgraded the chatbot's authority relative to an instructor's, and the authors read that downgrading as literacy rather than as reluctance.
+
 ## Common Misconceptions
 
 - **"AI feedback improves critical thinking directly."** In **421 Chinese undergraduates**, GenAI use's association with [[self-report-measures|self-reported]] critical thinking **ran through feedback literacy**. The literacy is the mediator, so an intervention that adds AI feedback without building the capacity to read it addresses the wrong term.
@@ -131,3 +133,5 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking ran through GenAI feedback literacy, strengthening with reflective thinking
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Comprehension, not actionability, carried the revision payoff
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+

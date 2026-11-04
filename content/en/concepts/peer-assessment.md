@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T17:45:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -53,6 +53,8 @@ That constrains what a peer grade should be used for. A mark calibrated in the m
 ## AI-augmented peer assessment: PAIRR and the Trainer/Synthesizer split
 
 The dominant design pattern keeps the peer central and adds AI around them. The Peer and AI Review + Reflection model is the best-documented instance. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] implemented PAIRR across 10 writing courses and three writing-intensive [[stem-education|STEM]] courses, with 654 students (37% first-generation, 13% international, 68% [[multilingual-learning|multilingual]]). Students drafted, exchanged peer review, prompted ChatGPT for rubric-driven feedback on the same draft, critically assessed both, planned revisions, and reflected. 58% preferred combined feedback, 36% peer feedback alone, and only 6% AI feedback alone. The two sources were often similar (75% reported similarities, described as confirming and strengthening each other) and, when they differed, complementary: AI feedback was often called overly general (31%) but gave actionable revision strategies on organization and structure, while peer feedback was more specific and detailed (28%) and drew on contextual knowledge of the assignment. Critically [[ai-ed-evaluation|evaluating AI]] output built [[ai-literacy]], and only 5.3% of students showed overconfidence in it.
+
+The same 2024 implementation has a second write-up that reads the reflections for how students described the tool rather than for how they rated the feedback. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] coded the revision reflections of the 13 sections and 10 courses, and found only about half the students adopted the anthropomorphic roles the prompt offered: tutor (28.6%) and collaborator (23.1%). The rest reached for tool or resource (9.9%), friends or peers (7.7%), robot or computer (7.7%), or schemas of their own. The authors read that placement as the point: students put the chatbot at the periphery of a writing ecology whose center is the student, the peers and the instructor.
 
 The pattern generalizes to professional writing. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] applied PAIRR to an upper-division business writing course where five major assignments each required a draft, audience analysis, peer review by 2–3 peers, and revision (34 of 46 enrolled students participated; 69% multilingual). Students valued AI feedback but sometimes found it too general, and valued peers' contextual knowledge — "my peers looked at it from the employer's perspective… ChatGPT did not do that as much." One quarter of coded reflections in the larger PAIRR study expressed skepticism about AI feedback or noted inaccuracies, which the authors read as developing AI literacy. The study is descriptive and course-specific.
 
@@ -135,3 +137,5 @@ The open questions are about the strength of the evidence, not only about design
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
 - [[issa-teamwork-framework-academic-integrity-2024]] — self/peer reflective forms as per-person evidence behind a group grade (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]]
+
