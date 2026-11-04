@@ -12,8 +12,16 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/paul-pair-framework-genai-active-learning-physics-2026.md']
+source_url: "https://arxiv.org/abs/2611.04148"
 confidence: medium
 page_kind: [evaluation, framework]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-04"
+    agent: hermes-agent
+source_depth: full text
 ---
 
 > **Synthesis:** Paul, Chakraborty, Shrestha, Nainabasti & Paul (2026) evaluated the Physics AI-Replication (P-A.I.R.) framework — a four-step cycle of identify a hard problem, get an AI explanation, request similar practice problems, then solve them independently before checking — in 11 introductory [[physics-education|physics]] sections at four U.S. institutions. Of 235 surveyed students, 90.9% reported improved conceptual understanding and 97.7% found the replicated practice helpful (r_s = 0.58 between the two). Post-engagement confidence (µ = 7.18 on a 1–10 scale) tracked those perceived benefits (r_s = 0.37 and 0.35) but was unrelated to how often students used AI (r_s = 0.02) — evidence that the *structure* of [[student-ai-interaction|AI use]], not its frequency, is what students associate with independent problem solving.
