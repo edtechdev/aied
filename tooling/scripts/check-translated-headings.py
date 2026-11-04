@@ -74,7 +74,7 @@ def main() -> int:
                 # matches: the connected lists are the closing sections of the PAGE BODY.
                 body_tail = list(headings)
                 if body_tail and (body_tail[-1].lower() == 'citation'
-                                  or body_tail[-1] in CITATION_LABELS):
+                                  or body_tail[-1].lower() in CITATION_LABELS):
                     body_tail = body_tail[:-1]
                 tail = body_tail[-len(present):]
                 if present != expected or tail != present:
