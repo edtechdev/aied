@@ -82,7 +82,7 @@ def h2_sections(body):
 CITATION_HEADING = re.compile(
     r'^\s*(?:citation|cita|zitation|citazione|citacao|citação|цитирование|цитування|ציטוט|引用|인용|'
     r'उद्धरण|الاستشهاد|atıf|atıflar|marejeleo|nukuu|nukta|citace|citiranje|citare|citácia|cytau|тын|nimewo|bron|'
-    r'kaynakça|উদ্ধৃতি)\s*$', re.I)
+    r'kaynakça|উদ্ধৃতি|حوالہ جات|حوالہ|مراجع)\s*$', re.I)
 
 
 def drop_citation_sections(text):
