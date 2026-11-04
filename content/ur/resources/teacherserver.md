@@ -38,6 +38,5 @@ K-12 کے لیے: سبق کا منصوبہ، ورک شیٹ، [[special-education
 ## نوٹس
 منصوبہ رفتار کے لیے مقامی طور پر نصب AI سرور کا دعوی کرتا ہے اور یہ کہ ڈیٹا مقامی طور پر پروسیس ہوتا ہے اور کبھی محفوظ نہیں ہوتا، ساتھ Department of Education کی رہنما ہدایات کی تعمیل کا؛ [ٹیم کا صفحہ](https://teacherserver.com/index-team.php) Zafer Unal کو، جو University of South Florida کے پروفیسر ہیں، بانی اور ڈویلپر بتاتا ہے، ساتھ دوسری یونیورسٹیوں کے چار فیکلٹی ممبران کے مشاورتی بورڈ کے۔ یہ دعوے طالب علم کے کام کے ساتھ استعمال سے پہلے جانچنے کے قابل ہیں۔ رسائی کے لیے رجسٹریشن درکار ہے، اور اپنے اوزار بنانے کے لیے ایک ساتھی، بعد میں معاوضہ والا پلیٹ فارم ہے۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 [[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]

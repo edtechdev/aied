@@ -35,7 +35,7 @@ export const CONNECTED_HEADINGS: Record<string, ConnectedHeadings> = {
   tr: { connectedConcepts: 'Bağlı kavramlar', connectedArticles: 'Bağlı makaleler' },
   pl: { connectedConcepts: 'Powiązane pojęcia', connectedArticles: 'Powiązane artykuły' },
   bn: { connectedConcepts: 'সংযুক্ত ধারণা', connectedArticles: 'সংযুক্ত নিবন্ধ' },
-  ur: { connectedConcepts: 'متعلقہ تصورات', connectedArticles: 'متعلقہ مضامین' },
+  ur: { connectedConcepts: 'منسلک تصورات', connectedArticles: 'منسلک مضامین' },
   id: { connectedConcepts: 'Konsep terkait', connectedArticles: 'Artikel terkait' },
   vi: { connectedConcepts: 'Khái niệm liên quan', connectedArticles: 'Bài viết liên quan' },
   nl: { connectedConcepts: 'Gerelateerde concepten', connectedArticles: 'Gerelateerde artikelen' },

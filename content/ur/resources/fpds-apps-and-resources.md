@@ -45,5 +45,5 @@ Hillsborough College کے اساتذہ اور [[educational-development]] عمل
 
 پڑھنے کے لیے کوئی اکاؤنٹ درکار نہیں، اور یہ جس Canvas کورسز اور چیک لسٹس سے جڑتی ہے وہ عوامی ہیں۔ Playlab کے کوچز اور Gemini Gems و نوٹ بکس فریقِ ثالث کی خدمات ہیں جن کے لیے اکاؤنٹ درکار ہے۔ کارڈز `apps.json` سے بنتے ہیں، اس لیے پوری فہرست کے لیے JavaScript چاہیے اور no-script متبادل پندرہ میں سے آٹھ کے نام دیتا ہے؛ مختصر لنک `tinyurl.com/fpdapps` اور ہیڈر کا QR کوڈ اسے فون پر کھولتے ہیں۔ ریپوزٹری MIT لائسنس یافتہ سافٹ ویئر ہے، جبکہ یہ جن رہنماؤں سے جڑتی ہے وہ اپنے لائسنس رکھتی ہیں، جن میں Pressbooks کتاب غیر تجارتی Creative Commons لائسنس کے تحت ہے۔ کوئی اشاعت کا شیڈول نہیں، اس لیے صفحہ بغیر اطلاع کے بدلتا ہے۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

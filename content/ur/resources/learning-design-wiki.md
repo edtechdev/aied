@@ -46,5 +46,5 @@ ai_assist:
 
 ہر صفحے پر trust پینل پڑھیں۔ ویکی کو زبان کے ماڈل ایک انسانی دیکھ بھال کرنے والے کے تحت چلاتے ہیں، کسی شخص نے کوئی صفحہ جانچا نہیں، اور سائٹ صفحے کو نتیجے کے بجائے اچھی طرح ماخذ شدہ اشارہ کہتی ہے۔ دعووں کے ساتھ ڈیزائن کا درجہ، effect size کا کوڈ اور rigour کا کوڈ ہوتا ہے، اور ”کوئی effect size نہیں چھپا“ کا مطلب ہے کہ ماخذ نے کوئی نہیں بتایا، یہ نہیں کہ کوئی موجود ہی نہیں۔ مواد CC BY-SA 4.0 ہے، اس لیے دوبارہ استعمال میں وہی لائسنس لانا ہوگا، اور کوڈ MIT ہے۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[learning-design]], [[pedagogical-patterns]], [[theories-and-frameworks]], [[ai-assisted-educational-research]], [[limitations-in-aied-research]], [[interpreting-and-applying-aied-research]]

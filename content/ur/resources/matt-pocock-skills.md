@@ -39,5 +39,5 @@ ai_assist:
 
 سب کچھ MIT کے تحت [[open-source|اوپن سورس]] ہے اور مقامی [[ai-literacy|AI لٹریسی]] یا [[self-directed-learning|خود رہنمائی کے مطالعے]] کے نقطۂ آغاز کے طور پر لینا مفت ہے۔ اپنانا بڑا اور تیز رفتار ہے: ستمبر 2026 میں جانچے جانے پر تقریباً 270,000 stars اور 23,000 forks، اور تازہ ترین commit 18 ستمبر 2026 کا۔ احتیاط دائرے کی ہے۔ اسکلز [[human-ai-collaboration|انجینئر]] کے کام کے سیاق کو فرض کرتی ہیں، وہ engineering، productivity، deprecated اور in-progress ٹوکریوں میں تقسیم ہیں، اس لیے کچھ اندراجات واضح طور پر ادھورے یا ریٹائر شدہ ہیں، اور README خود ایک نیوز لیٹر کی سبسکرپشن بھی ہے۔ تدریس اور سوال پوچھنے والی اسکلز کو منتقل ہونے والا حصہ سمجھیں، اور توقع رکھیں کہ طلبہ کے سامنے رکھنے سے پہلے آپ کو ان میں سے کوئی بھی دوبارہ لکھنی پڑے گی۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

@@ -38,5 +38,5 @@ ai_assist:
 ## یہ کس کے لیے ہے
 تحقیقی رہنما، کمیٹیاں اور پالیسی کے دفاتر جنہیں یہ تصویر چاہیے کہ تحقیقی ماحول میں AI کیسے استعمال اور [[governance|گورن]] ہوتا ہے، اور وقت کے ساتھ [[change-management|تبدیلی]] پر نظر رکھنے کا طریقہ۔ یہ *Responsible AI in Academic Research: A Competency Framework for Research Training* کے ساتھ چلتا ہے، جو تیاری کے پانچ ابعاد متعین کرتی ہے، اور اسے Michael J. Zyphur نے لکھا، جو Instats کے ڈائریکٹر ہیں۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

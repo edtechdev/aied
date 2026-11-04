@@ -40,5 +40,5 @@ ai_assist:
 
 پلگ ان کی تنصیب کے لیے Claude Code اور bash شیل درکار ہے؛ PowerShell اور cmd سیٹ اپ اسکرپٹ نہیں چلا سکتے، اور اسکور کے رجحانات کے لیے Python 3 تجویز کیا جاتا ہے۔ کورس کا ڈیٹا قاری کی اپنی مشین پر پروجیکٹ فولڈر میں رہتا ہے، اور وہاں سے صرف اس انٹیگریشن سے نکلتا ہے جو صارف خود چلائے، جیسے Canvas API کال۔ Chrome ایکسٹینشن کے live inference کے لیے قاری کی اپنی مفت Google AI Studio API key درکار ہے، البتہ ایک simulation موڈ اس کے بغیر بھی دکھا دیتا ہے۔ منصوبہ خود کو version 3.5.1.0 پر بیٹا کہتا ہے اور minor versions کے درمیان breaking changes کی تنبیہ کرتا ہے، اور یہ کسی نامزد مصنف کے بجائے savvides GitHub اکاؤنٹ سے شائع ہوتا ہے۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[learning-design]], [[design-thinking]], [[online-teaching-and-learning]], [[accessibility]], [[universal-design-for-learning]], [[assessment]], [[generative-ai]], [[open-source]]

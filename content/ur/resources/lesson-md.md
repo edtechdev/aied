@@ -37,6 +37,5 @@ ai_assist:
 ## یہ کس کے لیے ہے
 وہ انسٹرکشنل ڈیزائنرز اور کورس بنانے والے جو چاہتے ہیں کہ ان کا مواد اوزار بدلنے پر بچا رہے، وہ ای لرننگ وینڈرز جو ایسا درآمد و برآمد فارمیٹ چاہتے ہیں جو ان کے صارف پہلے ہی سمجھتے ہوں، اور ہر وہ شخص جو قابلِ مطالعہ فارمیٹ پر AI کی مدد سے لکھائی بناتا ہے۔ شراکت داروں میں LXD Integral کے Dan Bashaw شامل ہیں، اور فارمیٹ کا v1.8 تک عوامی changelog ہے۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 [[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]

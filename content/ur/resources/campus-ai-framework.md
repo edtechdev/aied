@@ -43,8 +43,7 @@ Campus AI Framework اعلیٰ تعلیم کے لیے مخصوص ایک آپری
 
 فریم ورک اور سائٹ **CC BY-NC-SA 4.0** کے تحت لائسنس یافتہ ہیں، اس لیے غیر تجارتی استعمال میں انتساب اور یکساں شراکت کے ساتھ موافقت کی اجازت ہے؛ سائٹ اپنا تجویز کردہ انتساب خود دیتی ہے۔ OECD، NIST، ISO/IEC 42001، EU AI Act، FERPA اور HIPAA کے ساتھ اس کی مطابقت ناشر کا اپنا موازنہ ہے اور اسے اسی طرح پڑھنا چاہیے۔ ہم منصب سائٹس الگ منصوبے ہیں، جن میں سے کئی ایک ہی مصنف کے، اور ایک مجموعے کے طور پر جاننے کے قابل ہیں: [Campus AI Exchange](https://www.campusaiexchange.com/) مرکز ہے، جس میں اداراتی AI پالیسیوں اور کلاس روم رہنمائی کے [انٹرایکٹو نقشے](https://www.campusaiexchange.com/ai-policies-guidelines-map)، [AI گورننس خود جائزہ](https://www.campusaiexchange.com/ai-governance-assessment)، ڈیٹا گورننس اور AI موقف کے نقشے، اور ایک وسائل کی لائبریری ہے۔ اس کے گرد [campusaigovernance.com](https://campusaigovernance.com/) (AI گورننس کے نو میدان)، [campusairisks.com](https://campusairisks.com/) (ان میدانوں پر لاگو NIST AI رسک مینجمنٹ فریم ورک)، [campusaioperations.com](https://campusaioperations.com/)، [campusairegistry.com](https://campusairegistry.com/)، یونٹ کی سطح کا [AI اختیار کرنے کا منصوبہ سانچہ](https://unit-ai-adoption-plan.netlify.app/)، اور [ایگزیکٹوز کے لیے ایجنٹک AI](https://campusaiframework.com/sites) پر ایک بریفنگ موجود ہیں۔ اسٹریٹجک کمپاس ایک مشترکہ Google دستاویز کے طور پر بھی گردش کرتا ہے، جسے کھولنے کے لیے Google اکاؤنٹ درکار ہے۔ داخلے پر کردار اور ادارے کے بارے میں ایک مختصر اختیاری سوال آتا ہے؛ ای میل اختیاری ہے اور پوری سائٹ اس کے بغیر پڑھی جا سکتی ہے۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 - [[educational-policy-ai]]
 - [[change-management]]
 - [[ai-literacy]]

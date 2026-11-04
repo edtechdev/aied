@@ -38,6 +38,5 @@ ai_assist:
 ## یہ کہاں سے آیا
 اس کی شروعات Duke University میں 2024–2025 میں AI Ethics Learning Toolkit کے طور پر ہوئی، جسے Center for Teaching and Learning اور Duke Libraries میں انڈر گریجویٹس، لائبریرینز، اساتذہ اور ٹیکنالوجی ماہرین نے مل کر ڈیزائن کیا، اور رائے اور نئے ڈیزائن کے بعد Hannah Rozear، Remi Kalir اور Aria Chernik نے دوبارہ شروع کیا۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 [[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]

@@ -43,5 +43,5 @@ ai_assist:
 ## نوٹس
 Apache 2.0 کے تحت لائسنس یافتہ، ستمبر 2026 تک version 1.6.9 پر اور تقریباً 40,000 GitHub stars کے ساتھ۔ اس کے پیچھے شائع شدہ جانچ — TutorBench بینچ مارک پر پانچ backbone ماڈلز میں مضبوط بنیادوں کے مقابلے شخصی پیمانوں پر اوسطاً 10.8% بہتری اور 29.4% زیادہ مضبوط عمومی ایجنٹک استدلال — [[zhao-deeptutor-agentic-personalized-tutoring-2026|مضمون کے صفحے]] پر خلاصہ کیا گیا ہے، اور اس کی حدود یہاں بھی لاگو ہوتی ہیں۔ کسی بھی اوپن سورس AI اسٹیک کی طرح، ماڈل فراہم کنندہ کی کلیدیں آپ خود دیتے ہیں، اور ڈیسک ٹاپ یا سرور کی تنصیب Python 3.11 اور Node مانگتی ہے۔
 
-## متعلقہ تصورات
+## منسلک تصورات
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

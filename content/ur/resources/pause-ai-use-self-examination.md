@@ -41,6 +41,5 @@ ai_assist:
 ## نوٹس
 Mahbub Ul Alam (SciLifeLab Data Centre، Uppsala University) کی لکھی ہوئی؛ ڈیزائن کی توجیہہ اور تصدیق کی حدیں ایک ساتھی preprint میں دستاویز ہیں، اور سورس کوڈ عوامی ہے۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 [[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]

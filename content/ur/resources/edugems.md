@@ -37,6 +37,5 @@ ai_assist:
 ## نوٹس
 Eric Curts کی تیار کردہ، جو ساتھ کا ٹیوٹوریل ویڈیو، نیوز لیٹر اور وسیع تر edtech وسائل Control Alt Achieve پر شائع کرتے ہیں۔ Gem کی کاپی بنانے کے لیے Google اکاؤنٹ درکار ہے اور Gemini کی شرائط ساتھ آتی ہیں، اس لیے یہ ایسی لائبریری ہے جسے طلبہ کی طرف اشارہ کرنے سے پہلے جانچنا چاہیے، نہ کہ ایسا اوزار جو گمنام طور پر استعمال ہو سکے۔
 
-## متعلقہ تصورات
-
+## منسلک تصورات
 [[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
