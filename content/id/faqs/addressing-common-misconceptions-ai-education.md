@@ -10,15 +10,19 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-04T02:51:44-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,8 @@ Deteksi menjawab pertanyaan yang berbeda dari yang penting. Outsourcing yang tid
 ### “Masalahnya adalah seberapa sering mereka memakainya.”
 
 Frekuensi tidak memberi tahu Anda apa pun. Seorang siswa dapat memakai AI setiap hari untuk membandingkan penjelasan, membangkitkan soal latihan, dan memperoleh umpan balik sambil tetap aktif secara kognitif, dan siswa lain dapat memakainya sekali untuk menghasilkan argumen yang justru menjadi alasan tugas itu ada. Pertanyaan yang memilah keduanya adalah lapisan pemikiran mana yang didelegasikan dan apakah siswa masih dapat menjalankan lapisan itu sendirian, pembedaan yang didokumentasikan secara terperinci oleh [[student-ai-interaction|interaksi siswa-AI]]. Koreksi tata bahasa berada jauh dari klaim, bukti, dan kontraargumen sebuah esai. Langkahnya adalah membuat lapisan itu eksplisit dalam tugas: sebutkan pemikiran yang diajarkan mata kuliah, izinkan bantuan di semua tempat lain, dan periksa lapisan yang disebutkan itu tanpa bantuan.
+
+Satu penelitian kini mengukur klaim itu alih-alih menyatakannya. Dalam evaluasi empat institusi atas protokol empat langkah — penjelasan AI, lalu soal latihan yang dibuat sendiri, lalu upaya mandiri — kepercayaan diri pasca-keterlibatan dalam menyelesaikan soal seorang diri mengikuti nilai yang dipersepsikan dari penjelasannya (r_s = 0.37) dan dari latihan replikatifnya (r_s = 0.35), sementara frekuensi penggunaan AI tidak berasosiasi sama sekali (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul dkk., 2026]]). Perlakukan frekuensi sebagai variabel yang tidak dapat Anda tindak lanjuti. Yang dapat Anda tetapkan adalah urutannya: apa yang dilakukan AI lebih dulu, apa yang harus diupayakan siswa tanpa bantuan, dan apa yang diperiksa sesudahnya.
 
 ### “Penyelesaian lebih cepat berarti pembelajaran lebih efisien.”
 
