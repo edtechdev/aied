@@ -15,7 +15,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** HAIML is a human-centered framework for learning in AI-supported environments that preserves human agency, metacognitive awareness, ethical reasoning, and personal responsibility. Grounded in self-efficacy, self-regulated learning, experiential learning, metacognition, and automation-bias [[research-methods-aied|research]], the model spans three interconnected layers — Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making — guiding learners from direct [[student-engagement|engagement]] with AI to reflective and responsible use.
+> **Synthesis:** HAIML is a human-centered framework for learning in AI-supported environments that preserves human agency, metacognitive awareness, ethical reasoning, and personal responsibility. Grounded in self-efficacy, [[self-regulated-learning]], experiential learning, [[metacognition]], and automation-bias [[research-methods-aied|research]], the model spans three interconnected layers — Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making — guiding learners from direct [[student-engagement|engagement]] with AI to reflective and responsible use.
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ page_kind: [framework]
 
 [[generative-ai|Generative AI]] now participates in cognitive processes traditionally associated with human reasoning — generating ideas, drafting arguments, summarizing research, and proposing solutions — so the question is no longer whether students will use these tools but how AI shapes their thinking. Reardon argues that learning is fundamentally a cognitive process, and that the central challenge is ensuring students remain [[agency|active participants]] in thinking rather than passive recipients of AI outputs.
 
-A primary concern is [[cognitive-offloading]], where students rely on external tools to reduce mental effort. While beneficial for higher-order focus, generative AI now supports increasingly complex thinking, risking gradual disengagement from the very processes education is intended to develop. A second concern is automation bias — the tendency to place excessive trust in automated systems — made worse because AI outputs appear fluent and authoritative even when [[hallucination-risk|incomplete or incorrect]]. Closely related is the illusion of understanding, where exposure to a polished AI explanation is mistaken for genuine comprehension. The framework also addresses [[academic-integrity|authorship and responsibility]], treating them through reflection and transparency rather than punishment.
+A primary concern is [[cognitive-offloading]], where students rely on external tools to reduce mental effort. While beneficial for higher-order focus, generative AI now supports increasingly complex thinking, risking gradual disengagement from the very processes education is intended to develop. A second concern is [[automation-bias|automation bias]] — the tendency to place excessive trust in automated systems — made worse because AI outputs appear fluent and authoritative even when [[hallucination-risk|incomplete or incorrect]]. Closely related is the illusion of understanding, where exposure to a polished AI explanation is mistaken for genuine comprehension. The framework also addresses [[academic-integrity|authorship and responsibility]], treating them through reflection and transparency rather than punishment.
 
 ## Theoretical Foundations
 

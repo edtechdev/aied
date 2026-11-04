@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T17:25:00-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -36,7 +36,7 @@ The knowledge base's articles explore critical thinking through [[design-based-r
 
 GenAI use's link to self-reported critical thinking ran almost entirely through GenAI [[feedback-literacy]]: in 421 Chinese undergraduates, feedback literacy mediated 71.98% of the total association (β=0.185), and the residual direct path was positive only for less reflective students (β=0.177) and non-significant for more reflective ones ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
-The corpus also carries the pessimistic reading in argument rather than measurement. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] argue that the dominant usage pattern erodes critical thinking, not access to a model. They rest this on Dewey's claim that thinking improves only through exercise, and on three mechanisms: removed friction, automation bias, and an efficiency frame. The tension with Zhao et al. is real and unresolved in the corpus. Their meta-analytic gain of g = 0.609 describes designed interventions, while Muñiz and Castro Samayoa describe typical use. Read together, the two agree that the design variable is what matters, and disagree about what the unmanaged default looks like.
+The corpus also carries the pessimistic reading in argument rather than measurement. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] argue that the dominant usage pattern erodes critical thinking, not access to a model. They rest this on Dewey's claim that thinking improves only through exercise, and on three mechanisms: removed friction, [[automation-bias|automation bias]], and an efficiency frame. The tension with Zhao et al. is real and unresolved in the corpus. Their meta-analytic gain of g = 0.609 describes designed interventions, while Muñiz and Castro Samayoa describe typical use. Read together, the two agree that the design variable is what matters, and disagree about what the unmanaged default looks like.
 
 **A [[meta-analysis-systematic-review|meta-analytic]] anchor for the moderation claim.** Across 29 experiments GenAI raised higher-order thinking moderately (g = 0.609), with critical thinking at ES = 0.691 — below [[problem-solving]] (0.745) and above [[creativity]] (0.444) — strongest for 8–16-week interventions (0.759) and for high-SRL learners (0.863 against 0.284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 

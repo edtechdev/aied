@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -221,6 +221,8 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 **A literacy curriculum that ends in reflection on two feedback sources.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] implement the sequence rather than describe it: readings on how language models work, peer feedback on a draft, rubric-driven chatbot feedback on the same draft, then a revision plan and a reflection on both. Across 654 students in 13 sections, the authors treat students' own labels for the chatbot as the literacy evidence, and they elevate one student's "vending machine of feedback" metaphor over the tutor and collaborator vocabulary.
 
+Verification is the teachable counterweight, and [[automation-bias]] names what it is teaching against. Post-editing, recomputation and source checks are graded skills precisely because fluent output invites acceptance over inspection.
+
 ## Common Misconceptions
 
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
@@ -230,6 +232,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences
 - [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[automation-bias]] — The failure that verification and post-editing instruction is meant to prevent
 - [[generative-ai]] — the technology AI literacy targets
 - [[llm]] — the systems at the heart of AI literacy
 - [[critical-thinking]] — core evaluative disposition

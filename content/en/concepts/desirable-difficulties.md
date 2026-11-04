@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -52,7 +52,7 @@ Because AI is designed to be frictionless — instantly generating summaries, so
 |---|---|---|
 | Primary goal | Maximizing long-term memory and knowledge transfer | Preventing [[cognitive-offloading]] and maintaining [[active-learning|active engagement]] |
 | Scientific root | Cognitive science & psychology (Bjork, 1994) | Human–Computer Interaction (HCI) & UX design |
-| The "threat" | The illusion of competence (thinking you know it because it feels easy now) | Automation bias (letting the machine do the thinking for you) |
+| The "threat" | The illusion of competence (thinking you know it because it feels easy now) | [[automation-bias|Automation bias]] (letting the machine do the thinking for you) |
 | AI implementation | Algorithms that time and structure practice (spacing, interleaving, retrieval) | [[conversational-ai|Chatbot]] guardrails and UI roadblocks that force the learner to do the work |
 
 **Desirable difficulties: the memory optimizer.** Coined by Robert and Elizabeth Bjork (1994), this framework comes from [[cognitive-psychology|cognitive psychology]]. Its core idea is that learning strategies which feel harder and slow initial performance actually produce better long-term retention and [[transfer-of-learning|transfer]]. Desirable difficulties are about *how the brain encodes and retrieves information*: if learning feels too easy or fluent in the moment (like re-reading a highlighted textbook), the brain likely isn't doing the deep processing required to make the memory stick. In AI, a tool using this framework changes the *[[pedagogy]]* of the session — for example, asking the student to retrieve from memory before offering a summary (retrieval practice), scheduling review just before forgetting (spacing), or mixing problem types (interleaving) rather than grouping them by category. Notably, the benefit of these effortful strategies is itself content-dependent: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] show that retrieval practice chiefly strengthens verbatim memory (by delaying forgetting), whereas acquiring a generalizable skill requires integrating worked examples with practice — so the "difficulty" that helps must be matched to the type of knowledge being learned rather than applied uniformly.
@@ -98,6 +98,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[pedagogical-patterns]] — Why the effortful order outperforms the fluent one
 - [[learning-by-teaching]]
 - [[self-regulated-learning]]
+- [[automation-bias]] — The failure productive friction is designed to prevent
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[scaffolding]]

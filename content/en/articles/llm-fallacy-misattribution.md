@@ -23,7 +23,7 @@ page_kind: [framework]
 | Concept | Focus | LLM Fallacy |
 |---|---|---|
 | **[[hallucination-risk|Hallucination]]** | System produces incorrect information | How the user *interprets* any output as self-generated competence |
-| **Automation bias** | Over-reliance on system during decisions | Self-perception of *personal* capability derived from outputs |
+| **[[automation-bias|Automation bias]]** | Over-reliance on system during decisions | Self-perception of *personal* capability derived from outputs |
 | **[[cognitive-offloading|Cognitive offloading]]** | Delegating mental effort to tools | Integration of outputs into user's *identity and self-evaluation* |
 | **Dunning-Kruger** | Internal miscalibration of skill | Specifically AI-mediated; requires tool interaction to emerge |
 

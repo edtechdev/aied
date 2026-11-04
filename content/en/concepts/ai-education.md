@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T15:58:10-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -126,7 +126,7 @@ The institutional layer is where AI decisions are actually made and defended: [[
 Fairness, access, and responsibility are central to AI in education:
 
 - **Equity and access:** [[equity-in-ai-education|Equity]], [[differential-effects-across-learner-groups|differential effects across learner groups]] (the question of who a finding holds for), [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
-- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[legal-issues-and-risks|legal issues and risks]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[pedagogical-safety|pedagogical safety]], [[sustainability]], and [[cognitive-offloading|cognitive offloading]].
+- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[legal-issues-and-risks|legal issues and risks]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust]], [[trust-calibration|trust calibration]], [[automation-bias|automation bias]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[pedagogical-safety|pedagogical safety]], [[sustainability]], and [[cognitive-offloading|cognitive offloading]].
 
 A [[meta-analysis-systematic-review|systematic review]] of the field's ethics literature ([[agarwal-ethical-values-norms-aied-2026|Agarwal et al. 2026]], 25 articles) consolidates AIED ethics into six main ethical values — non-discrimination, data stewardship, human oversight, goodwill, explicability, and educational aptness — and maps the ethical norms onto a stakeholder-by-value matrix. It finds end users largely passive in the ethical literature (student voices essentially absent) and calls for integrating ethics into AIED design and a greater focus on the educational (pedagogical) dimension of AIED ethics.
 
@@ -161,6 +161,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 ## Connected Concepts
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
 - [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
+- [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
 - [[human-ai-collaboration]] — umbrella: how people and AI work together
 - [[pedagogy]] — umbrella: teaching methods and strategies
 - [[learning-theories]] — umbrella: how learning happens

@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -90,6 +90,8 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - **Make systems explainable:** transparency into AI decisions is essential for detecting and correcting bias.
 - **Combine technical and human mitigation:** pair debiasing algorithms with human-in-the-loop oversight, especially for high-stakes or low-confidence cases.
 
+Everything on this page concerns bias inside the system. [[automation-bias]] concerns bias in the person reading its output — accepting a recommendation that a human would have questioned had they reached it alone — and it survives even when the model is accurate.
+
 ## Common Misconceptions
 
 - **"Bias is a scoring and feedback problem."** Bias enters **task classes outside scoring**: three LLMs assigning **28-student software-engineering classes to four teams routed men at least 80% less often than** the reference distribution. Team formation carried bias at a magnitude comparable to grading.
@@ -98,6 +100,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]
+- [[automation-bias]] — the reader-side failure this page does not cover: accepting a recommendation without checking it
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]

@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -130,6 +130,8 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 **The learners who look most resilient are the ones who trusted the tool more.** In a survey of 300 South Korean university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found overtrust correlating with [[self-efficacy|academic self-efficacy]] (r = 0.230), [[motivation|intrinsic motivation]] (r = 0.224) and performance expectancy (r = 0.360), and not with AI literacy (r = 0.051). In the serial model self-efficacy predicted overtrust directly at B = 0.3901 (95% CI [0.2190, 0.5612]), above its total effect of 0.3397, which the authors read as suppression. Calibration cannot be read off a learner's confidence.
 
+Calibration is a state, not an outcome, and the outcome it licenses has its own page. [[automation-bias]] documents the specific error of accepting an automated judgment without checking it: a teacher taking a dashboard flag at face value, or a rater accepting a machine score on a script they did not re-read.
+
 ## Common Misconceptions
 
 **"More trust means better use of the tool."** Trust and calibration diverge, and the correlation runs the wrong way. Among **432 undergraduates** solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted **lower** appropriate reliance (**r = -.42**), and students accepted **86.03%** of the misleading suggestions. Generalized confidence is not the goal; matched confidence is.
@@ -144,6 +146,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 ## Connected Concepts
 
+- [[automation-bias]] — the acceptance error that miscalibrated trust licenses
 - [[explainable-ai]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]

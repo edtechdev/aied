@@ -329,6 +329,13 @@ concepts:
     - benchmarking
     - benchmarks
     - evaluation benchmark
+  automation-bias:
+    title: Automation Bias
+    aliases:
+    - automation bias
+    - automation-bias
+    - complacency bias
+    - blind acceptance of ai output
   bias-mitigation:
     title: Bias Mitigation
     aliases:
@@ -2452,6 +2459,7 @@ sections:
   - label: Ethics and responsibility
     items:
     - ethics
+    - automation-bias
     - ai-misuse-learning-harm
     - legal-issues-and-risks
     - ai-use-disclosure

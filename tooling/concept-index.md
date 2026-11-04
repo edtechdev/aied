@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 226
+**Total concepts:** 227
 
 ## Foundations of AI in education
 
@@ -309,6 +309,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`ai-misuse-learning-harm`** — AI Misuse and Learning Harm — phrases: ai misuse; AI-induced learning harm; harmful AI use; learning harm; misuse of ai
 - **`ai-sycophancy`** — AI Sycophancy — phrases: affirmation bias; agreeable AI; AI sycophancy; flattering AI; sycophancy; sycophantic; sycophantic AI
 - **`ai-use-disclosure`** — AI Use and Disclosure Statements — phrases: AI acknowledgment; AI use disclosure; AI use statement; declaring AI use; disclosure of AI use; transparency about AI use
+- **`automation-bias`** — Automation Bias — phrases: automation bias; automation-bias; complacency bias; blind acceptance of ai output
 - **`ethics`** — Ethics — phrases: AI ethics; AI ethics education; ethical; ethical AI; ethical considerations; ethics; ethics of AI; responsible AI
 - **`explainable-ai`** — Explainable AI — phrases: black-box model; counterfactual explanation; explainability; explainable ai; explainable artificial intelligence; explaining the system; explanation quality; feature importance; glass-box; interpretability; interpretable ai; model explanation; post-hoc explanation; transparency; transparent ai; xai
 - **`guardrails`** — Guardrails — phrases: AI guardrails; content guardrails; guardrailed tutor; guardrails; hint-not-answer; pedagogical guardrails; safety guardrails

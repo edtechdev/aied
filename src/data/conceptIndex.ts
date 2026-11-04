@@ -91,7 +91,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'differential-effects-across-learner-groups', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'multilingual-learning', 'inclusive-learning', 'accessibility', 'assistive-technology', 'neurodiversity', 'universal-design-for-learning', 'global-south'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'legal-issues-and-risks', 'ai-use-disclosure', 'guardrails', 'privacy', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'explainable-ai', 'sustainability', 'pedagogical-safety'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'automation-bias', 'ai-misuse-learning-harm', 'legal-issues-and-risks', 'ai-use-disclosure', 'guardrails', 'privacy', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'explainable-ai', 'sustainability', 'pedagogical-safety'] },
     ],
   },
 ];

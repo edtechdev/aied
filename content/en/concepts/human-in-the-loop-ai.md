@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T18:35:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -107,6 +107,8 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - **Escalation from AI to expert is a human-in-the-loop move.** The SCAN framework assigns tasks to four generative-AI modes by learner distance, and reads passive [[student-engagement|engagement]] inside a correctly assigned AI task as a mis-skilling signal to shift the learner from AI to expert assistance, with a human as epistemic auditor ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
+How strong that safeguard is depends on [[automation-bias]]. A merely formal opportunity to accept or reject does not place the human inside the production of the judgment if they defer to the output, and the corpus has not run the blinded comparison that would show how often they do.
+
 ## Common Misconceptions
 
 - **"Showing the system's recommendation helps the human supervise it."** **Withholding a system's preferred answer is protective rather than corrective**: in a multi-agent debate that **never revealed a recommended position**, detrimental switching to the AI's answer **dropped**. Disclosure invited deference; withholding supported judgment.
@@ -115,6 +117,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
+- [[automation-bias]] — What decides whether the human in the loop actually intervenes
 - [[guardrails]]
 - [[formative-assessment]]
 - [[automated-assessment]]

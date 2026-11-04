@@ -33,7 +33,7 @@ Educational settings present specific challenges that undermine threshold-based 
 ### The LLM Annotation Risk
 The growing use of LLMs as annotators introduces new threats:
 
-- **Automation bias**: Over-trusting [[llm]] output without verification
+- **[[automation-bias|Automation bias]]**: Over-trusting [[llm]] output without verification
 - **Circular validation**: Using the same model to evaluate its own output
 - **Silent degradation**: LLM annotators may produce deceptively consistent but subtly wrong labels
 
