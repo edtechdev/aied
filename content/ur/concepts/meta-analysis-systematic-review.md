@@ -8,7 +8,7 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
-updated: "2026-11-04T00:49:36-05:00"
+updated: "2026-11-04T00:57:08-05:00"
 translation_of: "concepts/meta-analysis-systematic-review"
 source_updated: "2026-11-02T12:58:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

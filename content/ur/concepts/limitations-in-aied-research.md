@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-04T00:49:36-05:00"
+updated: "2026-11-04T00:57:08-05:00"
 translation_of: "concepts/limitations-in-aied-research"
 source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

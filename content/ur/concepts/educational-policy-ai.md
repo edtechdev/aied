@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
-updated: "2026-11-04T00:49:36-05:00"
+updated: "2026-11-04T00:57:08-05:00"
 translation_of: "concepts/educational-policy-ai"
 source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
