@@ -11,13 +11,17 @@ institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: "concepts/educational-development"
 source_updated: "2026-10-28T19:13:23-04:00"
-updated: "2026-11-04T01:21:11-05:00"
+updated: "2026-11-04T01:24:39-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation

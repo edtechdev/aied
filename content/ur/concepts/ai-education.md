@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں مصنوعی ذہانت"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-04T01:21:11-05:00"
+updated: "2026-11-04T01:24:39-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation

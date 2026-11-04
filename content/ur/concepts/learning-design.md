@@ -12,13 +12,17 @@ confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: "concepts/learning-design"
 source_updated: "2026-10-28T00:58:16-04:00"
-updated: "2026-11-04T01:21:11-05:00"
+updated: "2026-11-04T01:24:39-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
