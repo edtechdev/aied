@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-27T18:18:05-04:00"
-updated: "2026-10-27T18:18:05-04:00"
+source_updated: "2026-11-03T09:20:00-05:00"
+updated: "2026-11-04T02:10:49-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -100,10 +105,25 @@ Artikel-artikel dalam basis pengetahuan ini mendokumentasikan offloading kogniti
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] mencatat offloading sebagai pengalaman partisipan sendiri alih-alih risiko teoretis: salah satunya mengatakan genAI "melarang saya untuk benar-benar membaca dan menemukan sendiri apa yang penting dalam teks, untuk mengembangkan keterampilan membaca", dan yang lain khawatir tentang "perkembangan jangka panjang, di mana saya menjadi lebih buruk dalam keterampilan tertentu yang sekarang sangat saya kuasai".
 - **Efeknya terletak pada pembagian kerja, bukan pada alatnya.** Nakamura (2026) berargumen bahwa heterogenitas efek pembelajaran GenAI menghilang begitu unit analisisnya menjadi pembagian kerja kognitif antara pembelajar dan mesin. Offloading mengaugmentasi pembelajaran ketika ia menunaikan operasi yang bersifat periferal terhadap tujuan saat ini, dan berisiko erosi ketika ia melewati pemrosesan yang konstitutif bagi tujuan itu ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Memproses keluaran secara substantif, atau merekonstruksinya kemudian, adalah yang menyelamatkan offload yang sebaliknya bersifat konstitutif.
+- **Apa yang boleh diserahkan seseorang bergantung pada pengalamannya atas tugas.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] menjadikan urutan tugas relatif terhadap orang: apa yang bersifat tingkat lebih tinggi bagi seorang pemula adalah tingkat lebih rendah bagi seseorang yang sudah menguasai prosedurnya, sehingga offloading yang diizinkan seharusnya tumbuh seiring pengalaman dan berhenti di inti pekerjaan.
+
+**Modal kognitif adalah stok yang dikuras oleh offloading.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] membingkai ulang offloading sebagai perubahan pada suatu stok alih-alih suatu tindakan. Modal kognitif adalah pengetahuan, kapabilitas dan praktik yang terakumulasi, terbarukan dan dapat terkuras, yang dipegang oleh individu dan oleh organisasi, serta dijaga terpisah dari kapabilitas sistem manusia-AI sehingga keuntungan kinerja bersama dapat dilihat berdampingan dengan hilangnya kapabilitas manusia. Empat mekanisme mereka — substitusi praktik, penopangan dan umpan balik, kalibrasi metakognitif, dan agregasi organisasional — menghasilkan tujuh prinsip, termasuk bahwa kinerja yang terbantu bukanlah kompetensi yang tertahan dan bahwa meng-offload suatu tugas berbeda dari meng-offload praktik yang membangun keterampilan itu. Statistik yang memotivasinya adalah peluncuran bertahap kepada 5.172 agen dukungan pelanggan di mana sebuah asisten menaikkan masalah yang terselesaikan per jam sebesar 15%; angka itu menggambarkan sistem bersama, dan apakah para agen masih dapat mengerjakan pekerjaan itu tanpa bantuan adalah pengukuran yang tidak dimuat literatur yang ditinjau.
+
+### Ketika offloading turun alih-alih naik
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] melaporkan eksperimen yang dipraregistrasi (N = 317) di mana orang dewasa mempelajari konten baru dari lembar kerja konvensional atau dari asisten serbaguna yang dibatasi pada lembar kerja yang sama. Kondisi AI menurunkan offloading kognitif yang terukur alih-alih menaikkannya (median -0,27, interval kredibel 95% -0,58 hingga 0,04). Pemrosesan mendalam tetap turun, tetapi melalui rantai di mana offloading yang lebih rendah berjalan seiring [[critical-thinking|berpikir kritis]] yang lebih rendah, yang pada gilirannya memprediksi pemrosesan mendalam yang lebih lemah (0,78). Ketidakteraturan naik sebesar 0,84 tanpa mediator yang membawa efek itu. Temuan ini merupakan peringatan bagi akun standar: offloading bukan satu-satunya jalur yang melaluinya lingkungan [[generative-ai|AI]] mengikis pemrosesan, dan suatu kondisi dapat membiarkan offloading tak tersentuh sambil menekan apa yang seharusnya dilindungi oleh offloading.
+
+### Meng-offload empati, bukan hanya kognisi
+
+Tawar-menawar yang sama berlaku bagi kerja emosional, dan di sana buktinya lebih baru. [[shastry-gray-empathy-offloading-2026|Shastry dan Gray (2026)]] menamai offloading empati: ketika sebuah sistem dapat menyediakan dukungan emosional, orang memberikan lebih sedikit dari diri mereka sendiri (N = 2.223 di empat studi). Kesediaan menyerahkan empati kepada sebuah model berjalan seiring keyakinan akan kapasitas model itu untuknya (b = 0,44), dan sebuah eksperimen yang menaikkan keyakinan itu melalui liputan berita biasa menggerakkan offloading melaluinya (jalur tidak langsung 0,73; efek langsung tidak kredibel). Bagian yang instruktif adalah di mana laporan diri dan perilaku berpisah: ketika diberi tahu bahwa seorang siswa memperoleh dukungan dari chatbot, partisipan menilai offloading mereka sendiri lebih rendah daripada untuk seorang teman atau terapis, lalu memilih lebih sedikit kata empati dan lebih banyak kata ketidakpedulian tentang siswa itu.
+
+- **Offloading terbelah menjadi keuntungan yang terlihat dan kerugian yang tak terlihat.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] berargumen bahwa kegagalan kalibrasi yang didokumentasikan halaman ini adalah inferensi *lintas dimensi* alih-alih kepercayaan diri berlebih yang umum. Kompetensi operasional (prompting, mengiterasi, mengintegrasikan) mengembalikan umpan balik segera yang tidak ambigu, sementara kompetensi evaluatif (menilai apakah suatu keluaran akurat) mengembalikan umpan balik yang tertunda, jarang atau tidak ada. Offloading menaikkan pemahaman yang dipersepsikan dan menurunkan pemrosesan mendalam sekaligus, dan hanya yang pertama yang dialami. Itulah sebabnya peringatan tentang keterbatasan AI adalah intervensi yang lemah: peringatan itu menyasar keyakinan tentang sistem sementara ilusi dihasilkan oleh ketiadaan dalam pengalaman pengguna sendiri. Tinjauan itu bersifat konseptual tanpa data sendiri.
 
 ## Ketergantungan berlebih: ketika offloading menjadi merugikan
 
 Tangga yang dilacak halaman ini memiliki tiga anak tangga, dan hanya dua yang pertama yang termasuk di sini. **Offloading** adalah mendelegasikan kerja mental, yang sering kali produktif; **ketergantungan berlebih** adalah melakukannya secara kronis dan tanpa kalibrasi, yang merupakan kegagalan perilaku yang didokumentasikan bagian ini; **[[cognitive-surrender]]** adalah kegagalan yang berbeda: langkah evaluatifnya tidak pernah terjadi, sehingga pembelajar mengadopsi jawaban AI tanpa penilaian apa pun atas kualitasnya. Batasnya terlihat pada apa yang diminta AI untuk disediakan: bantuan *instrumental* [[du-yuan-epistemic-dependence-2026|Du dan Yuan]] menghasilkan keluaran, sementara bantuan *yang membawa penilaian* menyediakan standar yang dengannya keluaran dinilai, dan jenis kedua itulah yang menggusur kerja yang menjadi sandaran keahlian. [[young-people-learning-generative-ai-rapid-review-2026|Tinjauan cepat Sydney]] menarik pembagian tiga arah yang sama pada 271 makalah. Karena itu menyerah memiliki tanda eksperimentalnya sendiri dan halamannya sendiri; ketergantungan berlebih tetap menjadi masalah frekuensi-dan-kalibrasi, dan keduanya merupakan hasil yang dapat dipisahkan dalam tugas yang sama: dalam percobaan [[shaw-nave-cognitive-surrender-2026|Shaw dan Nave]], 73,2% percobaan dengan AI yang salah berakhir dengan menyerah sementara 19,7% berakhir dengan offloading strategis.
+**Langkah melewati offloading adalah meng-offload pengaturnya.** [[fan-metacognitive-offloading-sync-model-2026]] menyatakan ulang urutan Risko dan Gilbert — mengaktifkan keyakinan tentang alat, menilai kapasitas diri terhadapnya, memilih strategi, mengalibrasi ulang dari hasilnya — dan menamai kegagalannya *offloading metakognitif*: lingkarannya dilewati, evaluasi strategi diserahkan kepada AI, atau keberhasilan yang lancar membiaskan putaran delegasi berikutnya. Istilah padanan mereka adalah onloading metakognitif, penopangan yang membuat pembelajar bertanggung jawab atas tujuan, pemantauan dan pertimbangan strategi. Keduanya berada pada dua sumbu, kinerja dan pembelajaran yang bertahan, sehingga kenaikan kualitas keluaran berhenti dihitung sebagai bukti tentang pembelajar. Kerangka itu bersifat konseptual dan belum diuji.
+
 **Tolok ukur eksternal terhadap studi mana pun mengukur kegagalan yang sama dan menemukannya lazim.** ImpactBench memberi skor sepuluh model pada 48.540 percakapan simulasi: metrik Cognitive Offloading Asymmetry-nya rata-rata 51,9% dan Planning-Related Cognitive Intrusion 47,1%. Kasus pendidikannya menampilkan Claude Sonnet 5 menyerahkan sebuah tesis, kerangka, dan esai lengkap "siap tempel" begitu seorang siswa simulasi mendesak agar diberi draf jadi, sambil tetap menolak memfabrikasi sitasi ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Learning & Skill Development adalah subarea terlemah dari 14 subarea pada kedua polaritas, pada 45,9% dan 16,3%.
 
 **Ketergantungan berlebih** adalah ketergantungan yang berlebihan atau tidak terkalibrasi pada alat AI ketika siswa mendelegasikan kerja kognitif yang seharusnya mereka kerjakan sendiri, sehingga menghasilkan berkurangnya pembelajaran, menyusutnya [[agency]], dan tergesernya perkembangan keterampilan. Ini adalah manifestasi perilaku dari offloading kognitif yang berlebihan: ketika offloading menjadi default alih-alih pilihan strategis. Ketergantungan berlebih bukan sekadar soal menggunakan AI terlalu banyak: ini soal menggunakan AI dengan cara yang menggantikan, bukan melengkapi, proses pembelajaran. Kerja konseptual mendesak agar ketergantungan berlebih dalam pendidikan ini dibedakan dari keterikatan relasional dan ketergantungan [[medical-education|klinis]]: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] menunjukkan bahwa kepercayaan, ketergantungan, ketergantungan berlebih, keterikatan, dan penggunaan bermasalah secara rutin dicampuradukkan dalam literatur AI konversasional, dan bahwa delegasi yang sering tidak boleh dilabeli ketergantungan tanpa adanya gangguan kendali atau kerugian.
@@ -165,6 +185,9 @@ Dua studi terkontrol dalam kumpulan terbaru memastikan kedua paruh klaim ini - a
 Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] melatih tutor LLM dengan post-test transfer-dekat bertopeng dan dua gerbang biner, sehingga imbalannya hanya dapat naik melalui apa yang ditulis siswa pada gilirannya sendiri, dan ablasi mereka menunjukkan bahwa gerbangnya, bukan imbalan perolehan pembelajaran mentah, yang mengurangi penyerahan solusi.
 
 
+
+**Ketergantungan berlebih muncul sebagai tantangan bernama lintas disiplin, bukan sebagai anomali satu studi.** Dalam tinjauan 66 studi tentang AI generatif dalam pembelajaran inkuiri, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] menemukan ketergantungan berlebih atau offloading kognitif dilaporkan dalam 16 studi (24,2%), di bawah ketidakakuratan pada 31,8%. Pola itu dilaporkan oleh studi-studi primer alih-alih diukur oleh tinjauan, yang penulisnya tidak menilai kualitas studi maupun bias pelaporan.
+
 ## Miskonsepsi Umum
 
 - **"Volume prompt mengukur offloading."** **97 pembelajar** dikelompokkan berdasarkan volume prompt, dan **klaster volume tidak berbeda secara signifikan dalam prompting lokal-versus-global atau peran aktif**. Menghitung prompt berarti menghitung aktivitas, bukan distribusi kerja kognitif.
@@ -172,6 +195,7 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - **"Jejak prompt mengungkap apakah offloading terjadi."** Apa yang tidak dapat disediakan jejak tingkat prompt datang dari **subsampel 16 siswa dengan nilai yang tertaut, yang 1.140 pesannya dikodekan dengan tangan**: **49,6% dari 125 dialog tidak menunjukkan offloading** sama sekali. Pola jejak melebih-lebihkan offloading relatif terhadap dialog yang dikodekan dengan tangan.
 
 ## Konsep terkait
+
 - [[pedagogical-patterns]] - Risiko yang hendak dihindari setiap urutan usaha-dulu
 - [[learners]] - Pembelajar: payung untuk konsep-konsep sisi pembelajar
 - [[ai-literacy]] - Mengetahui kapan harus meng-offload dan mengenali pola ketergantungan
@@ -192,9 +216,13 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[cognitive-surrender]]
 
 ## Artikel terkait
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Modal kognitif: offloading sebagai penarikan dari stok kapabilitas yang terbarukan
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Miskalibrasi lintas dimensi: kelancaran operasional disalahbaca sebagai kompetensi evaluatif dan domain (tinjauan konseptual)
+- [[akcaoglu-offloading-ladder-experience-2026]] — Tangga Offloading: bagaimana pengalaman mengubah apa yang seharusnya diserahkan pembelajar dan praktisi kepada AI (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Mendukung atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Apa yang tidak ditunjukkan oleh pengumpulan tugas: mengomplekskan offloading kognitif dalam kerja matematika siswa dengan LLM (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar atas 65 proses belajar: offloading di kedua ujung urutan pembelajaran
+- [[shastry-gray-empathy-offloading-2026]] — Orang meng-offload empati ketika mereka pikir AI dapat memberikannya (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — Diri yang disewa: offloading yang merugikan diri-domain pembelajar, bukan hanya keterampilannya
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Kelompok yang mulai sama lalu menyimpang: 74,1% penggunaan model pada satu profil berbanding 80,8% offloading dan jalan buntu pada profil lain (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — Bantuan AI mengurangi kegigihan dan kinerja tanpa bantuan pada tiga RCT (Liu et al. 2026)
@@ -234,3 +262,6 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ketergantungan GenAI sebagai syarat batas bagi disposisi berpikir kritis dan employabilitas yang dipersepsikan sendiri (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Anak-anak menunjukkan konektivitas frontoparietal, salience dan atensi dorsal yang lebih lemah daripada orang dewasa saat berbicara dengan ChatGPT, pada skor kreativitas yang setara
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI dan berpikir kreatif anak: ketergantungan berlebih dan ketergantungan pada prompt dalam tinjauan cakupan (Niu et al. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormansi kognitif: eksperimen yang dipraregistrasi di mana afordansi AI menurunkan pemrosesan mendalam dan menaikkan ketidakteraturan tanpa menaikkan offloading (Braun 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - ketergantungan berlebih atau offloading kognitif disebut sebagai tantangan dalam 16 dari 66 studi inkuiri
+- [[fan-metacognitive-offloading-sync-model-2026]] - Kuadran SYNC dan lingkaran kalibrasi ulang: mendelegasikan pengaturnya, bukan hanya pekerjaannya (Fan et al. 2026)

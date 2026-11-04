@@ -6,7 +6,7 @@ confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
-updated: "2026-11-04T02:04:21-05:00"
+updated: "2026-11-04T02:10:52-05:00"
 translation_of: "concepts/human-ai-collaboration"
 source_updated: "2026-10-31T10:35:00-04:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

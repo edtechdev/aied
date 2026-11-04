@@ -9,8 +9,8 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
-updated: "2026-10-27T17:08:20-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-11-04T02:10:49-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -40,6 +45,7 @@ Konsep ini bersandar pada bukti bahwa penyalahgunaan AI secara aktif merugikan p
 ### Mengapa tuas struktural paling penting
 
 Intervensi dapat diurutkan menurut **bukti kausal x jangkauan struktural x skalabilitas x [[sustainability|keberlanjutan]]**. Atas dasar ini, dua tuas *struktural* menempati peringkat tertinggi karena keduanya bekerja terlepas dari apakah siswa memilih perilaku yang benar - keduanya membatasi lingkungan alih-alih bergantung pada motivasi internal. Tuas *edukatif* penting tetapi hanya efektif ketika siswa menerimanya, sehingga diperlakukan sebagai tingkat kedua meskipun janji konseptualnya besar. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher dan Calderon (2025)]] menaikkan argumen struktural satu tingkat ke atas, memperlakukan tata kelola alih-alih perilaku siswa sebagai kendala pengikat dan mengusulkan kerangka indikator integritas 130 butir agar pengelola akademik dapat melihat apakah penilaian autentik, apakah siswa dikenal secara individual oleh guru yang menilai mereka, dan apakah integritas muncul dalam induksi dan orientasi. Reformasi mereka menyasar arsitektur tata kelola, orang, dan [[ai-technologies|teknologi serta sumber daya]], dan mereka mengusulkan meminjam [[guardrails|uji tim merah]] dari keamanan siber untuk mengekspos kerentanan penilaian sebelum siswa menemukannya - sebuah pengingat bahwa lantai struktural dipelihara oleh institusi yang membutuhkan informasi sekaligus kemauan untuk memeliharanya.
+Literatur penggunaan yang bertanggung jawab itu sendiri jarang menguji rantai yang diasumsikan peringkat ini. Dari 122 catatan pendekatan yang diambil dari 31 studi, 51 diimplementasikan sekaligus dievaluasi, sebagian besar melalui laporan diri, dan hanya empat studi yang menetapkan batas, merancang intervensi di sekitarnya, dan menguji apakah keputusan siswa selaras ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega dan Zhao (2026)]]).
 
 ### Tingkat 1 - Terbukti langsung mengurangi kerugian pembelajaran
 
@@ -103,6 +109,7 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 - Letakkan kendala pengikat di tempat bukti meletakkannya. Indikator dan struktur tata kelola menyasar lingkungan; seruan kepada siswa menyasar orang yang paling tidak mampu mengubah desain institusional.
 
 ## Konsep terkait
+
 - [[ai-misuse-learning-harm]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
@@ -147,3 +154,6 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 - [[li-genai-assessment-language-equity-2026]] — Di mana dukungan bahasa berakhir dan substitusi dimulai bagi penulis EAL (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeksi prompt sebagai vektor penyalahgunaan terhadap penilaian AI (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Tata kelola sebagai kendala pengikat integritas: kerangka indikator 130 butir (Coates, Croucher & Calderon 2025)
+
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Penggunaan AI generatif yang bertanggung jawab oleh siswa dalam penulisan akademik: tinjauan pelingkupan batas, pendekatan pendidikan, dan celah bukti

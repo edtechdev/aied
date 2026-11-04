@@ -1,7 +1,7 @@
 ---
 title: "AI dalam Pendidikan"
 created: "2026-10-15T09:15:00-04:00"
-updated: "2026-10-27T04:16:00-04:00"
+updated: "2026-11-04T02:10:49-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -93,11 +98,13 @@ Halaman [[ai-technologies|Teknologi]] adalah payung untuk lapisan teknis:
 - **Model dan teknik:** [[generative-ai|AI generatif]], [[llm|model bahasa besar]], [[rag|retrieval-augmented generation]], [[multimodal|model multimodal]], [[educational-nlp|NLP pendidikan]], [[reinforcement-learning|pembelajaran penguatan]], [[knowledge-graph|knowledge graph]], [[educational-robotics|robot dalam pendidikan]], [[conversational-ai|AI percakapan]], [[simulation]], dan [[llm-training-and-fine-tuning|pelatihan dan fine-tuning LLM]]. Metode dasarnya juga penting: [[machine-learning|machine learning]] adalah tempat sistem-sistem ini dibangun, [[speech-and-voice-technologies|teknologi suara dan ucapan]] membawa tutoring lisan dan praktik bahasa, [[visualization]] mencakup dasbor dan analitik visual untuk pembelajar dan instruktur, dan [[virtual-and-augmented-reality|realitas virtual dan augmented]] menjadi tuan rumah praktik imersif yang lapisan visualnya kini dapat dihasilkan model. Gaya interaksi yang lebih baru juga termasuk di sini — paling menonjol [[vibe-coding|vibe coding]], alur kerja yang digerakkan bahasa alami di mana pengguna menetapkan program dengan mem-prompt LLM dan menilai perilaku yang dihasilkan alih-alih membaca atau menyunting kode. Itu membingkai ulang [[cs-education|pemrograman]] sebagai tindakan ekspresi dan verifikasi dan menurunkan hambatan bagi [[teacher-role|pengguna akhir]] yang membangun alat mereka sendiri. Kerangka kedalaman integrasi seperti [[samr-model|SAMR]] dan teori adopsi seperti [[technology-acceptance-model|TAM]] mengklasifikasi seberapa dalam AI diadopsi dan seberapa besar ia mengubah tugas.
 - **Pemodelan pembelajar dan sistem adaptif:** sistem teknis yang merepresentasikan dan beradaptasi pada pembelajar dikelompokkan di bawah payung [[student-modeling|Pemodelan Pembelajar dan Instruksi Adaptif]] — [[knowledge-tracing|penelusuran pengetahuan]], [[cognitive-diagnosis|diagnosis kognitif]], [[simulating-students|simulasi siswa]], [[intelligent-tutoring|tutoring cerdas]], [[adaptive-learning|pembelajaran adaptif]], [[personalized-learning|pembelajaran terpersonalisasi]], [[recommender-systems-and-learning-paths|sistem rekomendasi dan jalur pembelajaran]], [[pedagogical-agent|agen pedagogis]], [[affective-tutoring|tutoring afektif]], [[affective-computing|komputasi afektif]], [[human-in-the-loop-ai|AI human-in-the-loop]], dan [[learning-analytics|analitik pembelajaran]]. Ini berada di lapisan teknis karena keduanya adalah sistem AI itu sendiri, berbeda dari pedagogi yang mereka terapkan.
 
+- **Platform, keterbukaan, dan adopsi:** lapisan di sekitar model, tempat sumber daya pengajaran dilisensikan, dihosting, dan dibayar alih-alih dibangun. [[open-education|Pendidikan terbuka]] mencakup pengajaran dengan konten berlisensi terbuka dan pedagogi yang memperlakukan siswa sebagai produsennya, yang menjadi tempat diperdebatkannya pertanyaan lisensi dan adaptasi yang kini dimunculkan oleh materi yang dihasilkan. Ia berada di samping keterbukaan dalam pengertian perangkat lunak, analisis tingkat platform dalam [[edtech-platform|platform edtech]], dan penelitian adopsi yang dibawa oleh [[technology-acceptance-model|TAM]].
+
 ## AI dalam disiplin
 
 AI diterapkan di berbagai disiplin dan tingkat pendidikan. [[discipline-specific-aied|Ikhtisar basis pengetahuan tentang AIEd dalam disiplin]] memetakan cakupan bidang subjek — di samping [[learning-sciences|ilmu pembelajaran]], yang bukan subjek yang diajarkan melainkan bidang penelitian lintas-bidang yang mempelajari pembelajaran itu sendiri dan memperlakukan materi subjek sebagai satu variabel di antara yang lain:
 
-- **Bidang subjek:** [[math-education|matematika]], [[physics-education|fisika]], [[chemistry-education|kimia]], [[biology-education|biologi]], [[cs-education|ilmu komputer]], [[engineering-education|teknik]], [[stem-education|STEM]], [[writing-education|penulisan]], [[language-learning|pembelajaran bahasa]], [[english-education|pendidikan bahasa Inggris (EAP/EFL/ESL)]], [[science-education|pendidikan sains]], [[business-education|bisnis, ekonomi, dan manajemen]], [[humanities-education|humaniora dan ilmu sosial]], [[arts-design-and-media-education|pendidikan seni, desain, dan media]], [[medical-education|profesi medis dan kesehatan]], [[legal-education|pendidikan hukum]], dan untaian profesional dan terapan — [[nursing-education|keperawatan]], [[information-technology|teknologi informasi]], [[vocational-education|pendidikan dan pelatihan vokasional]], dan [[design-education|pendidikan desain]].
+- **Bidang subjek:** [[math-education|matematika]], [[statistics-and-data-science-education|statistika dan ilmu data]], [[physics-education|fisika]], [[chemistry-education|kimia]], [[biology-education|biologi]], [[cs-education|ilmu komputer]], [[engineering-education|teknik]], [[stem-education|STEM]], [[writing-education|penulisan]], [[language-learning|pembelajaran bahasa]], [[english-education|pendidikan bahasa Inggris (EAP/EFL/ESL)]], [[science-education|pendidikan sains]], [[environmental-education|pendidikan lingkungan]], [[business-education|bisnis, ekonomi, dan manajemen]], [[humanities-education|humaniora dan ilmu sosial]], [[arts-design-and-media-education|pendidikan seni, desain, dan media]], [[medical-education|profesi medis dan kesehatan]], [[legal-education|pendidikan hukum]], dan untaian profesional dan terapan — [[nursing-education|keperawatan]], [[information-technology|teknologi informasi]], [[vocational-education|pendidikan dan pelatihan vokasional]], dan [[design-education|pendidikan desain]].
 
 ## Tingkat dan konteks
 

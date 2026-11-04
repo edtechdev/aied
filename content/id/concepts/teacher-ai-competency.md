@@ -12,8 +12,8 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
-updated: "2026-10-27T17:08:20-04:00"
+source_updated: "2026-11-03T09:52:00-05:00"
+updated: "2026-11-04T02:10:49-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -53,6 +58,7 @@ Penelitian dalam basis pengetahuan bertemu pada beberapa dimensi yang saling ter
 - **Literasi penilaian:** mengevaluasi konten yang dihasilkan AI dan keluaran AI siswa, serta memahami bagaimana [[assessment-validity|validitas]] bergeser ketika siswa menggunakan AI. Ini terhubung ke [[automated-assessment]], [[ai-detection]], dan agenda desain ulang [[assessment|penilaian]] yang lebih luas. Untuk sistem rekomendasi, ini meluas sampai menilai apakah penjelasan AI benar-benar dapat dipahami dan bermakna secara pedagogis: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] menemukan guru lebih memercayai rekomendasi pengelompokan AI ketika penjelasannya dibingkai dalam bahasa domain (kurikulum) alih-alih mengekspos fitur model mentah - sebuah keterampilan untuk menuntut dan menilai [[explainable-ai|kualitas penjelasan]] alih-alih menerima keluaran yang buram.
 - **Pemilihan model dan desain prompt sebagai keterampilan yang dapat ditunjukkan:** [[ai-literacy|literasi AI]] instrumental mencakup mengetahui model mana yang harus digunakan dan bagaimana merumuskan tugas. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] meminta tujuan perencanaan pelajaran 153 guru prajabatan dikritik oleh ChatGPT-4, Claude 3, dan Gemini Advanced di bawah empat prompt yang divariasikan secara sistematis (N = 240 umpan balik dalam Studi 1, 345 dalam Studi 2), dengan [[feedback|umpan balik]] dinilai pada sembilan kategori kualitas. Pilihan model saja menjelaskan 26,9% varians kualitas yang dinilai (18,4% dalam Studi 2) dan desain prompt menambahkan 15,9% (5,7%) yang signifikan di atasnya; satu fitur prompt yang menentukan adalah bahasa teknis spesifik domain, yang penghapusannya secara signifikan menurunkan kualitas (β = -0,412), sedangkan menambahkan contoh dan menghapus instruksi rantai pemikiran tidak membuat perbedaan signifikan dalam Studi 1. Pembacaan mereka - bahwa terminologi subjek membuka konten data pelatihan yang relevan sekaligus membingkai permintaan secara profesional, seperti role prompting - ditambah aturan praktis untuk menggunakan model terdepan terkini yang paling mampu, menjadikan pemilihan model sebagai keputusan didaktis alih-alih teknis.
 - **Penggunaan etis dan kritis:** mengenali [[bias-mitigation|bias]] dalam keluaran AI, melindungi data siswa ([[privacy|privasi]]), dan memastikan hasil yang adil ([[equity-in-ai-education|ekuitas]]). [[llm-cultural-relevance-k12|Penggunaan AI yang relevan secara budaya]] menelaah bagaimana guru dapat menggunakan LLM untuk mendiversifikasi materi alih-alih memperkuat norma yang dominan.
+- **Representasi visual adalah dimensi tersendiri yang dapat diukur.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] memvalidasi skala lima dimensi untuk menghasilkan, menilai, dan bertindak atas representasi visual bersama 566 guru di lima provinsi Tiongkok barat, dengan alpha subskala dari 0,911 hingga 0,934; skala ini mengukur kapasitas yang dilaporkan, tanpa uji ulang dan tanpa observasi praktik.
 - **Tanggung jawab etis bersifat terdistribusi, bukan individual.** Di tujuh kasus nasional, guru diposisikan sebagai penjaga moral penggunaan AI sementara mereka kurang mendapat dukungan institusional dan epistemik, sehingga literasi AI etis harus meluas ke agensi kritis dan politis alih-alih keterampilan teknis ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Keyakinan dan sikap:** [[self-efficacy|keyakinan]] guru membentuk adopsi. [[teacher-ai-adoption-confidence|Penelitian adopsi]] menemukan keyakinan, dukungan, dan kegunaan yang dipersepsikan menentukan apakah guru benar-benar menggunakan AI, dan [[ai-pedagogical-orientation|orientasi fakultas]] membentuk adopsi dalam penelitian dan pengajaran.
 
@@ -64,6 +70,8 @@ Kesiapan harus diurutkan dan diukur sesuai dengan itu: Model Kapabilitas-Keputus
 **Kesiapan emosional dan moral adalah dimensi yang berbeda.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] menyurvei staf akademik sebuah [[higher-ed|universitas]] Malta (109 responden) dan membangun Indeks Rasa Bersalah AI (α = 0,88) dari empat butir emosi moral, menemukan bahwa rasa bersalah *antisipatif* melebihi penyesalan yang dialami setelah penggunaan: dukungan terkuat adalah kekhawatiran bahwa penggunaan AI merusak kredibilitas seseorang (34,9% setuju), kemudian perasaan seperti sedang [[academic-integrity|melakukan kecurangan]] saat menggunakannya (25,7%), sementara penyesalan pascapenggunaan hanya meraih 9,2%. Temuan yang penting bagi kerangka kompetensi adalah bahwa bukan pengguna melaporkan rasa bersalah yang *lebih tinggi* daripada pengguna (M = 3,25 berbanding M = 2,32) dan bahwa rasa bersalah menurun seiring naiknya keamanan karier - akademisi awal karier melaporkan paling banyak (M = 2,71) dan akademisi senior paling sedikit (M = 2,03). Kesiapan emosional karena itu tidak tertangkap oleh ukuran keterampilan atau keyakinan, dan makalah itu berargumen kerangka kompetensi harus memperlakukan rasa bersalah dan kekhawatiran identitas sebagai respons transisional yang normal alih-alih sebagai cacat yang harus dikoreksi.
 
 Versi yang lebih kuat dari pembingkaian ulang itu berpendapat bahwa GenAI adalah konsep ambang alih-alih kesenjangan keterampilan: sebuah catatan autoetnografis berargumen bahwa [[anxiety-and-stress|kecemasan]] dan resistensi fakultas merupakan bagian konstitutif dari penyeberangan ambang, sehingga pelatihan berbasis keterampilan gagal dan non-adopsi berprinsip harus dihormati alih-alih dikoreksi ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
+
+**Kompetensi tampak sebagai perbaikan, bukan sekadar prompting.** Dengan 7 guru matematika sekolah menengah yang menulis ulang 143 soal, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] mengodekan 415 prompt lanjutan: sebagian besar mengoreksi realisme, keterbacaan, atau struktur matematis, dan enam menangkap keluaran yang tidak pantas atau berbias - pertimbangan guru yang berfungsi sebagai [[human-in-the-loop-ai|pemantauan]] atas tugas yang dihasilkan alih-alih sebagai kelancaran prompt.
 
 ## Kesenjangan kompetensi
 
@@ -78,6 +86,8 @@ Survei terhadap 132 guru di Indonesia menemukan penerimaan yang hampir universal
 Kesenjangan itu terlihat pada artefaknya maupun pada laporan diri. Sebuah [[ai-integration-instructional-design-collaboratory-2026|kolaboratorium fakultas lintas institusi dalam penyiapan guru]], di mana pendidik guru merancang AI ke dalam mata kuliah metode mereka sendiri, melaporkan bahwa calon guru dapat menghasilkan rencana pelajaran berbantuan AI yang rapi sambil tidak mampu menjelaskan mengapa rencana itu cocok untuk para pembelajar dan standarnya, karena rencana itu sendiri tidak mengatakan apa pun tentang penalaran di baliknya. Menilai pembenarannya alih-alih produknya adalah salah satu respons. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|Kerangka pedagogi praktik]] menyarankan respons lain, memperlakukan gladi sebagai aproksimasi praktik: gladi yang dimediasi AI dengan umpan balik pascagladi yang terstruktur menaikkan penggunaan pertanyaan menggali dan mengeksplorasi oleh calon guru, namun pertimbangan calon guru sendiri atas kinerja mereka masih menyimpang dari apa yang dicatat pengamat.
 
 **Penurunan penilaian diri setelah pelatihan dapat menandakan pembelajaran alih-alih kehilangan.** Dalam program [[tpack|Intelligent-TPACK]] [[educational-development|pengembangan profesional]] enam bulan dengan 64 guru universitas Hong Kong berbanding 61 kontrol, kompetensi AI secara keseluruhan naik sekitar setengah simpangan baku (Cohen's d = -0,521), namun sebagian guru di kedua kelompok mendapat skor lebih rendah pada pascates dibandingkan pratest ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Wawancara mengaitkan penurunan itu dengan pergeseran dari ketidakmampuan tak sadar ke ketidakmampuan sadar - rekalibrasi yang diprediksi efek Dunning-Kruger - alih-alih kehilangan keterampilan. Para penulis menyimpulkan bahwa laporan diri pra-pascates meremehkan suatu intervensi, karena sebagian keuntungan datang sebagai koreksi ke bawah pada instrumen itu sendiri.
+
+**Kesenjangan itu dapat terbalik di sepanjang pipeline.** Dalam pendidikan kedokteran pascasarjana, dua belas dokter yang memimpin pekerjaan kurikulum AI memperkirakan para residen akan menjadi lebih lancar menggunakan AI daripada banyak guru mereka, dan mengusulkan pembelajaran bersama serta pengajaran bersama alih-alih peningkatan keterampilan fakultas secara satu arah ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Wawancara yang sama menggambarkan unit informatika yang belum cukup matang untuk memimpin pengembangan kurikulum, yang menempatkan kendala pada kapasitas institusional sekaligus pada keterampilan individual.
 
 **Kesenjangan itu juga tampak sebagai non-partisipasi.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] menyurvei 1.057 fakultas perguruan tinggi Amerika Serikat pada akhir 2025 dan menemukan 26% sama sekali tidak menggunakan alat [[generative-ai|AI generatif]], dengan sepertiga memilih tidak menggunakannya untuk pengajaran dan non-penggunaan terkonsentrasi di bidang seni dan [[humanities-education|humaniora]] (40%). Sisi institusional dari kesenjangan itu lebih besar daripada sisi individualnya: 68% mengatakan sekolah mereka belum menyiapkan fakultas untuk menggunakan AI generatif dalam pengajaran dan pendampingan, dan fakultas menyebut resistensi kolega (82%) serta ketidakakraban (83%) sebagai hambatan utama bagi adopsi di tingkat departemen - gambaran di mana pembangunan kapabilitas, norma sebaya, dan kebijakan semuanya harus bergerak bersama.
 
@@ -145,6 +155,7 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - **"Keterampilan teknis adalah lapisan penentu."** **Pengetahuan pedagogis adalah lapisan penentu**: sebuah studi lintas jenjang tentang [[ai-education|pendidikan AI]] sekolah menengah [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Kompetensi yang menentukan hasil adalah yang paling kurang diinvestasikan oleh sebagian besar program pelatihan.
 
 ## Konsep terkait
+
 - [[ai-literacy]]
 - [[educational-development]]
 - [[teacher-role]]
@@ -166,6 +177,8 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - [[pedagogy]] - Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
 
 ## Artikel terkait
+- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Personalisasi tugas matematika sekolah menengah dengan guru dalam lingkar menggunakan ChatGPT (Walkington et al. 2026)
+
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Guru mana yang memperoleh waktu perencanaan: keyakinan pengetahuan subjek lebih rendah, pengetahuan pedagogis lebih rendah, lebih baru di profesi, atau keyakinan teknologi tinggi
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Guru menerima AI sambil salah memahami cara kerjanya (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Kesiapan guru dan integrasi teknologis-pedagogis sebagai tantangan yang paling sering dilaporkan di seluruh 54 studi pendidikan matematika (Manto et al. 2026)
@@ -220,3 +233,6 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Empat profil keyakinan guru TALIS 2024 menghubungkan pembelajaran profesional dan hambatan spesifik profil terhadap penggunaan AI
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Merancang Modul Microlearning tentang AI untuk Guru Universitas dalam Pendidikan Guru Vokasional: Studi Penelitian Berbasis Desain
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Bagaimana Chatbot yang Dikonfigurasi Guru Gagal dalam Penggunaan Dunia Nyata dan Cara Memperbaikinya
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Pengembangan dan validasi skala kompetensi pengajaran visualisasi guru yang diberdayakan AI
+- [[bursic-ai-residency-education-curriculum-2026]] — Hambatan integrasi AI ke dalam kurikulum residensi: wawancara kualitatif dengan dua belas pemimpin dokter

@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-updated: "2026-11-04T02:04:21-05:00"
+updated: "2026-11-04T02:10:52-05:00"
 translation_of: "concepts/student-engagement"
 source_updated: "2026-11-01T09:06:35-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

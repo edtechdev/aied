@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
-updated: "2026-10-27T17:07:52-04:00"
+source_updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-04T02:10:49-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -69,18 +74,22 @@ Tiga eksperimen terpreregistrasi mengadaptasi Cognitive Reflection Test dan mera
 
 Pembacaan praktisnya adalah bahwa penyerahan merupakan **kegagalan diskriminasi** dan bukan kegagalan motivasi. Peserta yang menyerah tidak berusaha menghindari kerja; mereka tidak dapat membedakan saran baik dari saran buruk, dan antarmuka tidak memberi mereka alasan untuk mencoba.
 
+Eksperimen terpreregistrasi oleh [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] memasok konfigurasi yang berlawanan. Dengan asisten yang dipagari oleh augmentasi pengambilan pada lembar kerja yang ditugaskan, kondisi AI menurunkan offloading kognitif (median -0,27) alih-alih menaikkannya, dan tidak ada jalur offloading yang membawa kenaikan ketidakteraturan (0,84). Penyerahan membutuhkan asisten yang sarannya dapat diadopsi secara utuh; sistem yang hanya menjawab dari materi yang ada memberi pembelajar lebih sedikit untuk diadopsi dan lebih banyak untuk direkonsiliasi.
+
 ## Penyerahan di luar laboratorium
 
 Temuan laboratorium sejalan dengan kerja lapangan dan observasional yang secara independen mencapai kata yang sama.
 
 - **Pergeseran pada tingkat populasi.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] menganalisis 3,2 juta interaksi belajar ALEKS dan 12,2 juta waktu respons [[assessment|penilaian penempatan]] sepanjang panel sepuluh tahun, dengan soal berbasis grafik sebagai kontrol bagi soal berbasis teks. Siswa menyelesaikan pekerjaan yang rentan AI lebih cepat dan memperoleh skor lebih tinggi padanya, sementara butir retensi yang diproktoring menunjukkan penurunan kumulatif 25% dalam peluang respons yang benar; penulis menyebut pola itu penyerahan kognitif pada skala populasi.
 - **Verifikasi sebagai variabel pembeda.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] menemukan bahwa *bagaimana* siswa menggunakan AI generatif memprediksi [[learning-gains|kinerja]] sementara *seberapa banyak* mereka menggunakannya tidak memprediksi keduanya: penggunaan dengan verifikasi rendah, yaitu menerima keluaran tanpa kritik, berkaitan dengan hasil yang lebih buruk, dan integrasi evaluatif berkaitan dengan hasil yang lebih baik.
-- **Penggunaan tanpa pikir mengikis sumber daya yang dibutuhkan kemandirian.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao dan Gu (2026)]] memodelkan adopsi tanpa evaluasi secara langsung: pada 487 mahasiswa sarjana, penggunaan AI generatif yang tanpa pikir berkaitan dengan [[self-regulated-learning|pembelajaran terarah mandiri]] yang lebih rendah (β = -0,42), sebagian melalui berkurangnya [[motivation|motivasi]] dan [[self-efficacy|efikasi diri]].
+- **Penggunaan tanpa pikir mengikis sumber daya yang dibutuhkan kemandirian.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao dan Gu (2026)]] memodelkan adopsi tanpa evaluasi secara langsung: pada 487 mahasiswa sarjana, penggunaan AI generatif yang tanpa pikir berkaitan dengan [[self-directed-learning|pembelajaran terarah mandiri]] yang lebih rendah (β = -0,42), sebagian melalui berkurangnya [[motivation|motivasi]] dan [[self-efficacy|efikasi diri]].
 - **Jejak neural dan kepengarangan.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|studi EEG utang kognitif]] mengukur [[writing-education|penulisan esai]] dengan [[llm|LLM]], dengan mesin pencari, dan tanpa alat: kelompok LLM menunjukkan konektivitas neural paling lemah, melaporkan kepengarangan terendah atas karya mereka sendiri, dan kesulitan mengutip apa yang telah mereka tulis.
 - **Penyerahan dapat datang tanpa diminta.** [[ai-advice-suppresses-ikt-suspension-2026|Karya tentang penangguhan penilaian]] menemukan bahwa sekadar tersedianya saran AI meruntuhkan kesediaan orang untuk mengatakan "saya tidak tahu" (0,06 versus 0,36, dan 0,03 versus 0,44 pada dua studi), sementara kebenaran turun dan kepercayaan diri naik dari sekitar 30 menjadi 76. Taruhan tidak memulihkan penangguhan, meskipun insentif memperbaiki akurasi dengan mendorong penolakan. Studi keempat menunjukkan efek tersebut tanpa konsultasi sama sekali, pola yang khas autocomplete atau ringkasan pencarian alih-alih prompt obrolan.
 - **Mode dependen dan otonom hanya dapat dibedakan dari konsekuensinya.** [[family-school-autonomy-support-genai-2026|Fan, Li dan Zhang (2026)]] mengikuti 589 siswa dan pekerja awal karier selama tiga gelombang: offloading dependen mendelegasikan pemikiran inti dan berkaitan dengan motivasi intrinsik yang lebih rendah, sementara offloading otonom tidak, dan kinerja langsung tampak identik pada keduanya.
 - **Kontribusi model itu sendiri.** [[sycophantic-ai-social-interaction-2026|Sikofansi]] adalah pelengkap penyerahan: asisten yang menyetujui, berkelit ke arah pembingkaian pengguna, atau menyatakan klaim dengan lancar tidak memberi pembelajar apa pun untuk ditolak.
 - **Penarikan adalah separuh yang belum terselesaikan.** [[cognitive-washout-ai-skill-decay-2026|Karya tentang washout kognitif]] menunjukkan bahwa hampir semua penelitian ini mengukur kognisi *selama* penggunaan AI, dan hampir tidak ada yang mengukur apa yang terjadi ketika asisten diambil, yang justru merupakan pertanyaan yang diajukan ujian, gangguan layanan, atau tinjauan lisensi.
+
+- **"Delegasi esai utuh tetap hipotetis di luar laboratorium."** Itu terjadi dalam studi daring satu sesi tanpa kebijakan dan tanpa dorongan. Dari **77** penulis mahasiswa, **15 (19,5%)** mengumpulkan esai yang **100%** ditulis oleh model, tanpa mengetik sepatah kata pun di editor, dan **20** peserta meminta langsung esai utuh, kode yang paling banyak digunakan dalam skema itu. Pengguna terberat mengirimkan **27** kueri. [[jelson-students-chatgpt-essay-writing-2026|Penyerahan muncul sebagai pola permintaan]], bukan sebagai satu tindakan yang dapat dideteksi.
 
 ## Merancang dan mengajar untuk melawan penyerahan
 
@@ -138,3 +147,5 @@ Bukti bagi penyerahan sebagai konstruk bernama sangat bergantung pada satu progr
 - [[brcic-effortless-trap-productive-struggle-2026]] — menempatkan AI agar tugas tetap menuntut usaha
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — pelatihan kalibrasi
 - [[family-school-autonomy-support-genai-2026]] — offloading dependen versus otonom
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Asisten yang berakar pada lembar kerja menurunkan offloading alih-alih menaikkannya, kondisi batas bagi jejak penyerahan (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Delegasi esai utuh secara naturalistik: 15 dari 77 esai sepenuhnya ditulis model, 20 permintaan esai lengkap (Jelson et al. 2026)

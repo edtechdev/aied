@@ -10,10 +10,10 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor]
+connected_resources: [deeptutor, learnharness]
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
-updated: "2026-10-27T17:07:52-04:00"
+source_updated: "2026-11-02T06:00:00-05:00"
+updated: "2026-11-04T02:10:49-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
+    agent: hermes-agent
+
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,6 +86,9 @@ Satu langkah melampaui mengorkestrasi beberapa agen khusus adalah **ekosistem mu
 - **Agen LLM spesifik partisipan untuk pemecahan masalah kolaboratif.** Fang (2026) menyetel secara halus agen LLM individual pada data dialog partisipan nyata untuk merepresentasikan setiap partisipan dalam simulasi pemecahan masalah kolaboratif, dengan pemilihan pembicara dan kode tematik yang probabilistik serta memori jendela geser plus ringkasan. Divalidasi dengan [[network-analysis|Analisis Jaringan Epistemik]], dialog yang disimulasikan secara statistik tak dapat dibedakan dari yang nyata (jarak ENA 0,17, p permutasi = 0,65), sebuah demonstrasi AI agensik yang mereproduksi wacana kolaboratif autentik.
 - **Tutoring multiagen yang cerdas secara sosial.** Prototipe tutoring multiagen yang cerdas secara sosial seperti ASTRA mempelajari bagaimana pembelajar berkoordinasi dengan AI dalam pasangan, menggunakan agen Tutor dan Fasilitator yang berbeda untuk mendorong koordinasi dan partisipasi yang seimbang. Evaluasi berbasis jejak dalam kerangka itu memungkinkan analisis yang dapat direproduksi atas interaksi, keseimbangan partisipasi, dan verifikasi dalam pemrograman pengantar.
 
+
+
+**Jawaban organisasional: pembelajar sebagai anggota yang berpartisipasi, bukan penerima.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] mewujudkan organisasi multiagen partisipatif-manusia di mana agen-agen khusus memelihara Capability Program yang dapat direvisi, menautkan tujuan pribadi, aktivitas multimodal, dan penilaian berlapis, dengan "Human Node" yang dapat dikoreksi yang membawa bukti dan tantangan pembelajar sendiri ke dalam revisi-revisi berikutnya. Terhadap baseline multiagen terdekat pada 96 kasus pembelajar tersimulasi, keunggulannya terkonsentrasi pada desain penilaian: 19,32 poin lebih tinggi pada Validitas Penilaian (95% CI [17,55, 21,04]) dan 5,89 pada cakupan kemampuan, sementara personalisasi tidak memisahkan diri (1,35 poin, interval melewati nol). Dalam studi acak dengan 32 pembelajar, perolehan pengetahuan pada tes objektif 50 poin adalah 12,19 berbanding 5,61 poin.
 
 ## Ketegangan sentral: otomatisasi versus pembelajaran
 
@@ -178,6 +186,7 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 **"Agen yang mempersonalisasi dan memperdalam pembelajaran adalah keuntungan bersih dibanding chatbot."** Ia membawa pertukaran yang khas: sistem agensik mengancam [[agency|agensi]] dan mengundang [[cognitive-offloading|offloading]] atas usaha kognitif yang menjadi tumpuan pembelajaran, dan dengan melakukan lebih banyak langkah tanpa pengawasan mereka membuat offloading itu lebih sulit disadari. Ketegangan otomatisasi versus pembelajaran adalah masalah analitis sentral kategori ini, bukan catatan tambahan pada manfaatnya.
 
 ## Konsep terkait
+
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
@@ -204,6 +213,9 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 - [[educational-policy-ai]]
 
 ## Artikel terkait
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agen yang diorganisasi di sekitar program kemampuan yang dapat direvisi, dengan pembelajar sebagai anggota
+
 - [[pramod-agentic-ai-motivational-pathways-2026]] — otonomi, kompetensi, keterhubungan, dan kehadiran sosial sebagai jalur dari AI agensik ke keterlibatan (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — agen AI, penilaian yang menyenangkan, dan ruang ketiga
 - [[ilieva-agentic-genai-higher-education-2026]] — kerangka AGAI-HE: GAI agensik yang terbatas dan tersupervisi manusia di pendidikan tinggi (Ilieva et al. 2026)
