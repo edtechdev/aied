@@ -52,7 +52,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 
 - **Administrators.** Locate your institution on the four-level framework before funding more tools: many institutions currently operate around Level 0 or Level 1, where experimentation depends on motivated individual educators and is unrecognized in workload or promotion structures.
 - **Administrators.** Recognize AI-driven curriculum redesign in workload models and embed AI-enabled teaching innovation in promotion and teaching award criteria, so that scaling does not depend on unrecognized effort by individual educators.
-- **Instructors.** Redesign assessment toward reasoning and justification rather than trying to contain AI: the case units use live pitches, reflective portfolios, and viva voce to make students justify, explain, and adapt their thinking in real time.
+- **Instructors.** Redesign assessment toward reasoning and justification rather than trying to contain AI: the case units use live pitches, reflective [[eportfolio|portfolios]], and viva voce to make students justify, explain, and adapt their thinking in real time.
 - **Faculty developers.** Build shared sensemaking about change rather than assuming that new tools or individual experimentation will suffice; the paper cites Kezar (2018) on change efforts that falter under implicit and overly simplistic theories of change.
 - **Administrators.** Create institutional pilots or funded initiatives that scale successful teaching innovations beyond individual courses, since isolated innovations otherwise remain unrecognized and unable to spread.
 

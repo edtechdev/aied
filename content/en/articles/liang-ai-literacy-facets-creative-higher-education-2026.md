@@ -59,7 +59,7 @@ The non-significant ethical-awareness path to performance is the paper's most in
 ## Limitations
 
 - The design is a single cross-sectional self-report survey of 475 design students, with no intervention, so every path is an association.
-- Learning performance was perceived quality, task achievement, and self-evaluation rather than grades, instructor ratings, or portfolio review.
+- Learning performance was perceived quality, task achievement, and self-evaluation rather than grades, instructor ratings, or [[eportfolio|portfolio]] review.
 - Recruitment was non-probabilistic through course channels, mailing lists, and peer forwarding, and the authors limit generalization beyond design-related programs.
 - Several constructs stayed empirically close — the highest heterotrait–monotrait value involved performance and well-being — and NFI at 0.877 missed the 0.90 benchmark.
 

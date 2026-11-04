@@ -27,7 +27,7 @@ level: [teacher education]
 
 - **Teacher educators.** Require trainees to compare multiple AI-generated lesson plans, identify their limitations and biases, and justify their final pedagogical decisions, instead of accepting unmodified AI-generated output.
 - **Teacher educators.** Build AI-resilient assessment into methods and assessment courses: design tasks and rubrics that make GenAI bypassing visible and score the reasoning behind the artifact.
-- **Teacher educators.** Use practicum and capstone portfolios to assess human–AI role judgment by having trainees document when they delegated to AI and how their decisions protected student learning, equity, privacy, and human interaction.
+- **Teacher educators.** Use practicum and capstone [[eportfolio|portfolios]] to assess human–AI role judgment by having trainees document when they delegated to AI and how their decisions protected student learning, equity, privacy, and human interaction.
 - **Curriculum designers.** Distribute GenAI literacy across assessment education, methods courses, practicum supervision, ethics training, and reflective portfolio work rather than adding a standalone module on AI tools.
 - **Curriculum designers.** Give privacy and data governance explicit curricular space, covering how GenAI tools collect, store, and reuse student and teacher data and what teachers can do about it.
 

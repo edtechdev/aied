@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-11-04T11:20:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -104,7 +104,7 @@ They manually verified 828 suspicious records and found 30 references containing
 
 Their count is a deliberate lower bound, and they present the problem as shared rather than solved by software. Authors should verify every cited work, especially when generative AI was used in writing; reviewers cannot audit every reference, so venues adopt targeted checks; publishers should improve metadata. Automated detection inherits the flaws of the metadata it treats as ground truth.
 
-The scale effects of AI writing appear in a second bibliometric study. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analyzed 147,074 publications from PLoS and Nature portfolio journals since 2020 and associated AI-assisted writing with smaller, junior-leaning teams. At the extreme shift from no to full AI assistance, team size was 22.1% smaller in PLoS and 45.5% smaller in Nature (Poisson β = −0.250 and −0.607, both p < 0.01).
+The scale effects of AI writing appear in a second bibliometric study. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analyzed 147,074 publications from PLoS and Nature [[eportfolio|portfolio]] journals since 2020 and associated AI-assisted writing with smaller, junior-leaning teams. At the extreme shift from no to full AI assistance, team size was 22.1% smaller in PLoS and 45.5% smaller in Nature (Poisson β = −0.250 and −0.607, both p < 0.01).
 
 Impact did not obviously suffer. About 7.34% of AI-assisted PLoS papers and 7.40% of Nature ones reached the top 5% of FWCI, above both human-written comparison groups, and matched comparisons showed 3.0% and 2.7% higher probability of top-5% FWCI (both p < 0.01). The data are observational, so the authors decline strong causal claims.
 

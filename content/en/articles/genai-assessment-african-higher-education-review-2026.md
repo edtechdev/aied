@@ -34,7 +34,7 @@ reviewed_by: [editor]
 2. **Faculty attitudes are mixed, not prohibitive.** Acceptance of ChatGPT was generally low among 102 surveyed lecturers, yet greater exposure predicted significantly more favorable perceptions (p = 0.001).
 3. **Institutional guidance is thin.** Only 5 of 26 surveyed higher education institutions in South Africa had publicly available AI policy documents.
 4. **Redesign, not prohibition, is the most recommended response**, with tasks rebuilt to require contextual reasoning generic AI answers cannot supply.
-5. **Process-oriented assessment is the most consistently recommended strategy**, through reflective portfolios, oral examinations, or multi-stage assignments that reward reasoning over final products.
+5. **Process-oriented assessment is the most consistently recommended strategy**, through reflective [[eportfolio|portfolios]], oral examinations, or multi-stage assignments that reward reasoning over final products.
 6. **The evidence base is narrow**: ten studies from 2023 to 2025, mainly Nigeria and South Africa, with small samples, single-institution case studies, and self-reported perceptions.
 
 ## How the review was done

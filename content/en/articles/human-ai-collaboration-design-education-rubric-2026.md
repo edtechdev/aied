@@ -64,7 +64,7 @@ The paper's most specific contribution is a criterion-by-criterion [[transfer-of
 ## Limitations
 
 - The rubric was internally validated by a purposively sampled panel of five senior academics (n = 5), not a larger random sample.
-- It has not been piloted with scored student portfolios, and no inter-rater reliability statistics yet exist for it.
+- It has not been piloted with scored student [[eportfolio|portfolios]], and no inter-rater reliability statistics yet exist for it.
 - The findings re-examine the same interview dataset as two companion papers through a different analytic lens, so the three papers are not independent sources of support.
 - The AI-Validation Knowledge extension is a theoretical contribution derived from a single design case and has not been tested against alternative extensions such as Chiu's (2026) HCAP framework.
 

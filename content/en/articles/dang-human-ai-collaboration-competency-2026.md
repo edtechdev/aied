@@ -48,7 +48,7 @@ The second research question asked how educators connect the dimensions, which [
 ## What this means for practice
 
 - **Instructors.** Keep disciplinary judgment in the loop: design tasks in which students evaluate AI output against disciplinary standards, since educators treated domain competency as the anchor without which AI use becomes shallow.
-- **Instructors.** Make regulatory work visible and consequential through process portfolios, reflective AI-use logs, annotated decision trails, and learning analytics that trace revision, rather than grading the output alone.
+- **Instructors.** Make regulatory work visible and consequential through process [[eportfolio|portfolios]], reflective AI-use logs, annotated decision trails, and learning analytics that trace revision, rather than grading the output alone.
 - **Curriculum designers.** Resist isolating AI in a standalone module; map where each course contributes domain, AI, or metacognitive competency and where the intersections are actually reached, because principal educators saw siloed programs as the problem.
 - **Administrators.** Recognize that students' AI choices are made inside assessment rules and integrity policies; clarify levels of acceptable use, because framing AI mainly as misconduct skews learners' judgment.
 

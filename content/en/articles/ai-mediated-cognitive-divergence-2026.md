@@ -47,7 +47,7 @@ Faculty responded with four overlapping strategies: **[[assessment]] redesign** 
 
 - The survey's n = 32 sets five predictors against only 26 residual degrees of freedom, and the authors caution that the adjusted R² of 0.346 should be read as indicating structural patterns rather than precise effect estimates.
 - Participants were self-selected into a conversation about AI and pedagogy: the authors note that the qualitative and deliberative strands draw on faculty "already actively engaged with questions of AI and pedagogy," so these accounts likely reflect more adaptive and reflective orientations than a random faculty cross-section.
-- Student learning is characterized entirely through faculty perception — an absence of student voice the authors name explicitly — with no student interviews, portfolio analysis, or task-based measures of cognitive engagement.
+- Student learning is characterized entirely through faculty perception — an absence of student voice the authors name explicitly — with no student interviews, [[eportfolio|portfolio]] analysis, or task-based measures of cognitive engagement.
 - It is one built-environment faculty at a single research-intensive university in Hong Kong (24 interviews, 32 survey respondents, five clustered discussions with 31 participants), so whether the amplification mechanism and the scalability constraints hold across other disciplines, resources, and governance cultures is untested.
 
 ## Citation

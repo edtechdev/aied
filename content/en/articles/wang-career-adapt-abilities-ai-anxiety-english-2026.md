@@ -36,7 +36,7 @@ Wang (2026) connects the knowledge base's [[anxiety-and-stress]] and career-read
 - **Instructors.** Teach AI literacy as psychological adaptation, not tool exposure: AI usage habits showed no significant link to AI anxiety in this sample, so pair tool instruction with discussion of AI's limits and case studies of language professionals collaborating with AI.
 - **Instructors.** Treat career adapt-abilities as a cultivable resource and build them into coursework through skill demonstration, positive feedback, and accumulated success experiences, since they negatively predicted [[anxiety-and-stress|AI anxiety]] and the lowest of the three latent profiles had the highest anxiety.
 - **Instructors.** Reinforce [[self-efficacy|core self-evaluations]] deliberately — the mediation analysis shows career readiness lowers anxiety partly by strengthening students' sense of professional worth and competence.
-- **Administrators.** Require AI-aware portfolios (for example bilingual content strategy, localization, terminology management, and AI-assisted editing logs) and strengthen employer partnerships so that training translates into labor-market advantage for English and humanities graduates.
+- **Administrators.** Require AI-aware [[eportfolio|portfolios]] (for example bilingual content strategy, localization, terminology management, and AI-assisted editing logs) and strengthen employer partnerships so that training translates into labor-market advantage for English and humanities graduates.
 - **Administrators.** Offer evidence-based counseling such as cognitive-behavioral therapy for students showing low self-efficacy, high neuroticism, or an external locus of control, the profile most exposed to AI anxiety.
 
 ## Limitations

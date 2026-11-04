@@ -61,7 +61,7 @@ For instructors, the usable claim concerns appraisal, not exposure. On the paper
 
 - One self-report wave cannot separate "awareness raises prevention focus" from "defensive students notice AI more"; the authors concede longitudinal or experimental work is needed before the chain can be called causal.
 - Recruitment was convenience plus snowball from Chinese design programs, with no probability frame, no early-versus-late comparison, and no specialty variation.
-- The outcome is self-rated competence; no portfolio, studio critique or instructor rating was collected. Method variance is reduced but not eliminated: the first unrotated factor took 31.54% of variance, just under the 40% heuristic.
+- The outcome is self-rated competence; no [[eportfolio|portfolio]], studio critique or instructor rating was collected. Method variance is reduced but not eliminated: the first unrotated factor took 31.54% of variance, just under the 40% heuristic.
 
 ## Citation
 

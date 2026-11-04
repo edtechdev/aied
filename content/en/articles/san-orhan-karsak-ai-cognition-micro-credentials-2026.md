@@ -38,7 +38,7 @@ institutions: [governance]
 - The 436 undergraduates were unevenly distributed: 80.3% from social sciences and humanities, 12.2% from natural and applied sciences, and 7.6% from health sciences, with 211 students (48.4%) from Kırklareli University and only nine (2.1%) from Hatay Mustafa Kemal University.
 - The study collected no age, gender, or prior AI-tool-experience data, so the authors report those variables remain unexamined; the WAT also captures spontaneous recall at a single time point, and only longitudinal pre/post WAT designs could attribute cognitive change to a credential.
 - The multidimensional scaling solution returned a stress value of 0.396, and the authors describe spontaneous recall as a measure with inherent limits that require methodological triangulation.
-- The proposed micro-credential framework has not been tested: the authors state its effectiveness is yet to be empirically validated and call for employer surveys to establish whether the portfolio criteria match professional standards.
+- The proposed micro-credential framework has not been tested: the authors state its effectiveness is yet to be empirically validated and call for employer surveys to establish whether the [[eportfolio|portfolio]] criteria match professional standards.
 
 ## Citation
 

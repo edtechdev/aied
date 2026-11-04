@@ -35,7 +35,7 @@ reviewed_by: [editor]
 - **The first four pillars are sequential**: shared institutional values underpin governance structures, governance enables support infrastructure, and that infrastructure allows AI to be integrated into the curriculum.
 - **Pillar five is the Assessment Design Matrix (ADM)**, a tripartite structure in which competencies inform assessment strategies, strategies guide method choice, and methods produce valid evidence of attainment.
 - **The ADM catalogues 10 graduate competencies (GC1 to GC10)**, including prompt engineering, metacognitive skills, ethical intelligence, teamwork, and GenAI literacy and strategic use.
-- **The ADM catalogues 18 assessment strategies (AS1 to AS18) and 19 methods (AM1 to AM19)**, ranging from in-person foundational knowledge checks to hackathons, process portfolios, simulations, and capstone projects.
+- **The ADM catalogues 18 assessment strategies (AS1 to AS18) and 19 methods (AM1 to AM19)**, ranging from in-person foundational knowledge checks to hackathons, process [[eportfolio|portfolios]], simulations, and capstone projects.
 - **Thematic analysis of 80 documents from 2023 to 2025** yielded 7 themes and 70 subthemes from 185 initial codes, with saturation reached after 72 documents, and six sample ICT assessment briefs illustrate the matrix in use.
 
 ## The GENESIS framework
