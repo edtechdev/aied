@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-04T09:16:49-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -40,6 +40,7 @@ The direction of travel is not fixed. [[gillette-partnership-ethics-genai-higher
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] [[research-methods-aied|research]] examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Shared epistemic agency extends to student–GAI interaction.** A 14-category scheme coding 6,788 ChatGPT-assisted turns placed 59% of seventh graders' turns at shared epistemic agency, and the authors argue the construct — previously studied mainly in peer collaboration — must widen to include cognitive and metacognitive dimensions ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
+- **Agency can be graded from the prompt itself.** The Human Agency Depth Taxonomy scores a student's engineering contribution on six tiers independent of the AI's output; across 962 prompts from 105 first-year software engineering students, 84.2% exceeded the lowest tier but only 5.3% specified system constraints ([[shakiba-human-agency-depth-taxonomy-2026|Shakiba & Chaffey, 2026]]).
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 
 **Benchmarked across ten models, supporting agency is where they do worst after learning.** ImpactBench measured Agency & Purpose at 56.0% on positive criteria (95% CI [49.2, 62.5]) and 43.9% on negative ones ([36.9, 50.8]), second-lowest of 14 subareas, and its autonomy-preserving assistance criteria ask whether a model offers context and tradeoffs rather than prescribing a course of action ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Models were also far less consistent at avoiding harm than at being helpful: a 38.6-point spread against 15.9 points.
@@ -153,7 +154,6 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
-
 - [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
@@ -190,3 +190,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[gyekye-selves-apprenticeship-2026]] — Students of color in apprenticeship programs authored themselves through AI via refusal, negotiation, and recognition ("cultural flatness"); Institutional AI Literacy and Recognition Bandwidth
 - [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Shared epistemic agency in 6,788 ChatGPT-assisted turns of secondary-school science writing (Chang et al
 - [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership fell only where the whole essay was delegated; planning and reviewing users matched non-users (Jelson et al. 2026)
+- [[shakiba-human-agency-depth-taxonomy-2026]] — Who Is Doing the Thinking? Characterising Human Agency in First-Year Students’ AI Interactions

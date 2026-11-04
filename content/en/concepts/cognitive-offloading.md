@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-03T09:20:00-05:00"
+updated: "2026-11-04T09:16:49-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -108,6 +108,7 @@ The same bargain applies to emotional labor, and there the evidence is newer. [[
 
 The ladder this page tracks has three rungs, and only the first two belong here. **Offloading** is delegating mental work, which is often productive; **over-reliance** is doing it chronically and without calibration, which is the behavioral failure this section documents; **[[cognitive-surrender]]** is a different failure — the evaluative step never happens, so the learner adopts the AI's answer without any judgment of its quality. The boundary is visible in what the AI is asked to supply: [[du-yuan-epistemic-dependence-2026|Du and Yuan's]] *instrumental* assistance produces output, while *judgment-bearing* assistance supplies the standard by which output is judged, and it is the second kind that displaces the work expertise depends on. [[young-people-learning-generative-ai-rapid-review-2026|The Sydney rapid review]] draws the same three-way split across 271 papers. Surrender therefore has its own experimental signature and its own page; over-reliance remains the frequency-and-calibration problem, and the two are separable outcomes in the same task — in [[shaw-nave-cognitive-surrender-2026|Shaw and Nave's]] trials, 73.2% of incorrect-AI trials ended in surrender while 19.7% ended in strategic offloading.
 **The step past offloading is offloading the regulator.** [[fan-metacognitive-offloading-sync-model-2026]] restate Risko and Gilbert's sequence — activate beliefs about the tool, judge one's own capacity against it, choose a strategy, recalibrate from the outcome — and name the failure *metacognitive* offloading: the loop is skipped, strategy evaluation is handed to the AI, or fluent success biases the next round of delegation. Their counterpart term is metacognitive onloading, scaffolding that makes the learner responsible for goals, monitoring and strategy judgment. Both sit on two axes, performance and durable learning, so a rise in output quality stops counting as evidence about the learner. The framework is conceptual and untested.
+**Dependence has a trajectory, and it is not monotonic.** Across four waves over 18 months (n = 524), perceived usefulness predicted *lower* later academic dependence rather than more, so an escalation story keyed to how useful students find the tool gets the direction wrong ([[zhang-usefulness-dependence-genai-2026|Zhang, 2026]]).
 
 **A benchmark external to any one study measures the same failure and finds it common.** ImpactBench scored ten models on 48,540 simulated conversations: its Cognitive Offloading Asymmetry metric averaged 51.9% and Planning-Related Cognitive Intrusion 47.1%. Its education case has Claude Sonnet 5 hand over a thesis, an outline, and a complete essay "ready to paste in" once a simulated student presses for a finished draft, while still refusing to fabricate citations ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Learning & Skill Development was the weakest of 14 subareas on both polarities, at 45.9% and 16.3%.
 
@@ -199,6 +200,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 - [[retrieval-spacing-interleaving]] — the counter-practice to letting a model retrieve on the learner's behalf
 - [[cognitive-surrender]]
+- [[reflection]]
 
 ## Connected Articles
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Cognitive capital: offloading as a drawdown on a renewable stock of capability
@@ -250,3 +252,4 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: a preregistered experiment in which AI affordances lowered deep processing and raised disorganization without raising offloading (Braun 2026)
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] - over-reliance or cognitive offloading named as a challenge in 16 of 66 inquiry studies
 - [[fan-metacognitive-offloading-sync-model-2026]] - SYNC quadrants and the recalibration loop: delegating the regulator, not just the work (Fan et al. 2026)
+- [[zhang-usefulness-dependence-genai-2026]] — From “usefulness” to “dependence”: the dynamic evolution mechanism of generative AI use behaviors

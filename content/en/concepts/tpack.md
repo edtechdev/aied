@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-03T09:40:00-05:00"
+updated: "2026-11-04T09:16:49-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -85,6 +85,7 @@ the subject is built.
 TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework. The framework is now being extended to evaluate whole programs: [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Wu & Li (2026)]] build an AHP-Fuzzy-AHP evaluation system for AI certificate programs on TPACK dimensions and find that faculty professional competence — not technical infrastructure — is the largest gap between expert priority and current provision, signaling that credentialing should invest in teachers' integrated pedagogical capacity.
 
 **The mediation runs mostly through ease of use.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] tested six indirect paths from [[ai-literacy|AI literacy]] and TPACK to deep learning in 423 pre-service teachers: TPACK through perceived ease of use was largest (0.212) and AI literacy through usefulness smallest (0.033), so integration knowledge worked through usability rather than utility.
+**The components do not weigh equally in the AI case.** Among 988 pre-service teachers, TCK (β = 0.67) and TPK (β = 0.41) predicted integrated AI-TPACK while TK alone did not (β = −0.10, p = 0.066), and integrated TPACK predicted attitude toward GenAI (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]]).
 
 ## Design Implications
 
@@ -143,3 +144,4 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first model of teacher AI readiness and its construct-overlap warning
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review warning that competence-framework dominance partly reflects search descriptors, not field prevalence
+- [[khalil-tpack-preservice-genai-attitudes-2026]] — The Role of Integrated TPACK in Empowering Pre-Service Teachers and Shaping Their Attitudes Toward Generative AI in Teaching

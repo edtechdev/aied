@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-02T10:40:00-05:00"
+updated: "2026-11-04T09:16:49-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -66,6 +66,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 [[wang-safety-gap-productive-struggle-2026|Wang and Shan (2026)]] name the resulting "safety gap" — the divergence between a student's AI-assisted performance and their unassisted ability to verify it — and prescribe withholding solutions, constructive cognitive friction, and Socratic or Adversarial AI architectures for high-stakes clinical training.
 
 - **What the curricula teach about data provenance.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] coded the publicly advertised curricula of 36 U.S. health AI programs and found ethics covered in 29 (80.6%) but data provenance at a structural or dataset-limitation level in only 8 (22.2%), with no program addressing the environmental cost of computation and none of the seven master's degrees meeting the provenance threshold. Of 92 named instructors, 76.1% came from computational disciplines and 3.3% from the social sciences or humanities. The gap is clinically consequential: the deployment failures the paper opens with were introduced upstream, in how training data were generated or labeled, which is a teachable competency the curriculum appears not to carry.
+- **Use has outrun instruction.** Among 310 health science students, 90% had used ChatGPT while 82.6% had received no formal AI instruction; usage frequency tracked higher GPA, and 61% reported [[ethics|ethical]] concerns ([[alshahrani-health-sciences-ai-use-2026|Alshahrani et al., 2026]]).
 
 ## Implications for health-professions educators
 
@@ -129,3 +130,4 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[federated-learning-at-risk-student-prediction-2026]] — Federated at-risk prediction across HPE programs: a negligible privacy cost, and why an imported threshold misfires
 - [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
+- [[alshahrani-health-sciences-ai-use-2026]] — Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula

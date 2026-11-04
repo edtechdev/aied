@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-04T09:16:49-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -81,6 +81,7 @@ A major theoretical shift in the knowledge base is the critique of universalist,
 The knowledge base's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]), from [[ai-ethics-education-public-discourse|public discourse analysis]] to [[adarkwah-genai-unesco-policy-2026|UNESCO policy frameworks]]. Across this range, a consistent practical message emerges: ethics must move from policing misuse toward building [[ai-literacy]] and ethical-use capability, supported by institutional guidance, teacher professional development, and design that preserves rather than displaces learner judgment.
 
 That practical case is reinforced by empirical work on how ethics functions inside AI literacy itself: Zhu and Kong (2026) show that AI ethical awareness — alongside empowerment in AI [[problem-solving]] — mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. Their validated AI-PBLS scale and SEM results (1,027 students) indicate that PBL creates conditions in which students build a personal framework for ethical reasoning about AI, strengthening the case that ethics is not an add-on but a core mechanism of meaningful AI literacy development.
+**Taught, it shifts [[evaluative-judgment|judgment]] rather than only awareness.** In a cluster-randomized trial of sixteen intact classes (n = 240), a four-week information ethics module raised scored ethical judgment by 0.35 scale points (d = 0.75), and 59.9% of that gain survived four weeks, largest among the heaviest GenAI users ([[qi-information-ethics-ai-judgment-2026|Qi, 2026]]).
 
 **The sign of that mechanism depends on what follows it.** Among 584 undergraduates whose AI competence came from self-study, competence raised AI ethical awareness (β = 0.644, p < .001). Ethical awareness then raised AI anxiety (β = 0.439, p < .001) rather than lowering it — indirect-only mediation, read by the authors as awareness awakened without a coping framework ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Their conclusion for ethics teaching is that it cannot stop at the cognitive level. A transparency or privacy concern has to arrive with the governance route that answers it, which is why their proposed module sits inside legal education.
 
@@ -144,3 +145,4 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethical awareness, reflection and reported responsible practice grew largely independently over three annual waves (Ayanwale et al
+- [[qi-information-ethics-ai-judgment-2026]] — Information ethics education and artificial intelligence ethical judgment among university students
