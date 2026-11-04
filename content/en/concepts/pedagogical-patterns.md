@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T18:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -88,6 +88,8 @@ The knowledge base's most replicated finding about AI feedback is that it works 
 **Evidence: mixed (widely implemented, not controlled).** Students read and reflect on how AI and feedback work, draft, give and receive peer review, prompt the AI for criteria-driven feedback on the same draft, critically compare both, write a revision plan, revise, and reflect on which feedback changed what.
 
 The largest study of college students' use of AI feedback to date followed 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses: 58% preferred combined ChatGPT and [[peer-assessment|peer feedback]], 36% peer alone and only 6% AI alone; 75% found the two similar and mutually reinforcing; AI feedback was called "overly general" by 31% while peer feedback was more specific for 28%; and only 5.3% showed overconfidence in AI feedback ([[pairr-ai-peer-review-2025|Sperber et al., 2025]]). The model was also run in an upper-division business writing course with 34 students, where about a quarter of coded reflections expressed skepticism about or noted inaccuracies in AI feedback ([[gift-ai-pairr-business-writing-2025|MacArthur et al., 2025]]). Both report perception data; neither has a control condition, which is why the pattern is *mixed* rather than *tested*.
+
+A third write-up of the same 2024 implementation asks what students call the tool rather than how they rated it. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] describe 13 sections of 10 writing-intensive courses and 654 students, and report that only about half (51.7%) adopted the tutor or collaborator roles the reflection prompt offered. The remainder named a tool, a program, a robot or a computer, or invented metaphors such as a vending machine of feedback. The authors read that vocabulary as the literacy outcome and as evidence of writerly agency, and their data is perceptual in the same way, so the evidence grade above does not move.
 
 ### Combined peer and AI feedback
 
@@ -226,6 +228,7 @@ The guide's own cautions apply: recorded video, reflections and logs can themsel
 
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): the flagship sequence, N = 654 (Sperber et al. 2025)
 - [[gift-ai-pairr-business-writing-2025]] — PAIRR applied in a business writing course (MacArthur et al. 2025)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — What 654 students called the chatbot: 51.7% took the offered tutor or collaborator roles (Stillman et al. 2026)
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Integrated AI-plus-peer feedback raised engagement and all four IELTS dimensions (Liu 2026)
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Prompt-scaffolded GenAI peer feedback in collaborative argumentation (Chang et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy|Dai (2026)]] — Training students to filter and appraise AI feedback: the FRAC and APCA conditions
