@@ -1,7 +1,7 @@
 ---
 title: Civic and Political Education
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-04T17:25:00-05:00"
+updated: "2026-11-04T18:52:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -52,7 +52,7 @@ Three mechanisms recur. First, fabricated evidence: a model can produce a plausi
 
 The learner is also a producer, writing to officials and circulating evidence. The civic question is not whether AI assisted the text. It is whether the student can stand behind the claim and answer objections.
 
-[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] state the civic case in political-theory terms rather than test terms. Their argument is that education's contribution to democracy is the practice of critical evaluation, and that generative AI removes the practice rather than the content. Outsourcing inquiry, analysis, evaluation and synthesis to a model shortens the exercise that builds those capacities in both K–12 and higher education. They name three mechanisms: the disappearance of productive friction, automation bias, and an efficiency frame that treats the point of schoolwork as task completion. The stakes they attach to this are the largest in the corpus, and the least evidenced: authoritarian governments, they write, flourish when citizens cannot evaluate truth claims, and regimes have suppressed literacy to that end. Their remedy is a pair of literacies and a design commitment — critical AI and media literacy, and process over product. The essay supplies the rationale this page otherwise assembles piecemeal, and it supplies no data of its own.
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]] state the civic case in political-theory terms rather than test terms. Their argument is that education's contribution to democracy is the practice of critical evaluation, and that generative AI removes the practice rather than the content. Outsourcing inquiry, analysis, evaluation and synthesis to a model shortens the exercise that builds those capacities in both K–12 and higher education. They name three mechanisms: the disappearance of productive friction, [[automation-bias|automation bias]], and an efficiency frame that treats the point of schoolwork as task completion. The stakes they attach to this are the largest in the corpus, and the least evidenced: authoritarian governments, they write, flourish when citizens cannot evaluate truth claims, and regimes have suppressed literacy to that end. Their remedy is a pair of literacies and a design commitment — critical AI and media literacy, and process over product. The essay supplies the rationale this page otherwise assembles piecemeal, and it supplies no data of its own.
 
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] adds a mechanism integrity framing misses. From South Africa's AI-mediated border regime the paper derives five civic digital literacy demands: algorithmic transparency, data rights, bias recognition, rights contestation, and [[governance|participatory governance]]. Someone who cannot recognize that a decision was algorithmic, or find the appeal route, has lost a civic capacity rather than a technical skill.
 

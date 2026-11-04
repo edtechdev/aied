@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-04T18:52:13-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -86,7 +86,7 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 ### El riesgo epistémico de un producto pulido
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualiza el riesgo de un menor esfuerzo epistémico cuando quienes aprenden usan IA para producir artefactos de conocimiento pulidos: sesgo de automatización en el lado sociocognitivo y cierre epistémico inducido por el artefacto acabado en el otro. El remedio es estructurar la IA como interlocutora argumentativa o cuestionadora que preserve el conflicto. El contrapunto viene de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que encontraron que cuando los LLM actúan como compañeros críticos y el estudiantado refuta activamente sus afirmaciones, quienes aprenden se comportan como consumidores críticos que preservan en lugar de rendir el conflicto cognitivo de la crítica. La diferencia entre un compañero que da respuestas y un interlocutor que desafía es lo que determina si el trabajo en grupo con IA construye el pensamiento o lo elude.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualiza el riesgo de un menor esfuerzo epistémico cuando quienes aprenden usan IA para producir artefactos de conocimiento pulidos: [[automation-bias|sesgo de automatización]] en el lado sociocognitivo y cierre epistémico inducido por el artefacto acabado en el otro. El remedio es estructurar la IA como interlocutora argumentativa o cuestionadora que preserve el conflicto. El contrapunto viene de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que encontraron que cuando los LLM actúan como compañeros críticos y el estudiantado refuta activamente sus afirmaciones, quienes aprenden se comportan como consumidores críticos que preservan en lugar de rendir el conflicto cognitivo de la crítica. La diferencia entre un compañero que da respuestas y un interlocutor que desafía es lo que determina si el trabajo en grupo con IA construye el pensamiento o lo elude.
 
 ### Apoyo a nivel de aula y no evaluativo
 

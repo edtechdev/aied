@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-01T10:20:37-05:00"
+updated: "2026-11-04T18:52:13-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -90,7 +90,7 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 
 ### Le risque épistémique de la production soignée
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualise le risque d'un effort épistémique réduit lorsque les apprenants emploient l'IA pour produire des artefacts de connaissance soignés — biais d'automatisation d'un côté sociocognitif, et fermeture épistémique induite par l'artefact fini de l'autre. Le remède consiste à structurer l'IA comme un partenaire argumentatif ou un provocateur qui préserve le conflit. Le contrepoint vient de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et coll.]], qui ont montré que lorsque les grands modèles de langue agissent comme partenaires de critique et que les étudiants réfutent activement leurs affirmations, les apprenants se comportent comme des consommateurs critiques qui préservent le conflit cognitif de la critique plutôt que de s'y rendre. La différence entre un coéquipier qui donne des réponses et un partenaire qui provoque est ce qui détermine si le travail en groupe avec l'IA construit la pensée ou la contourne.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualise le risque d'un effort épistémique réduit lorsque les apprenants emploient l'IA pour produire des artefacts de connaissance soignés — [[automation-bias|biais d'automatisation]] d'un côté sociocognitif, et fermeture épistémique induite par l'artefact fini de l'autre. Le remède consiste à structurer l'IA comme un partenaire argumentatif ou un provocateur qui préserve le conflit. Le contrepoint vient de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et coll.]], qui ont montré que lorsque les grands modèles de langue agissent comme partenaires de critique et que les étudiants réfutent activement leurs affirmations, les apprenants se comportent comme des consommateurs critiques qui préservent le conflit cognitif de la critique plutôt que de s'y rendre. La différence entre un coéquipier qui donne des réponses et un partenaire qui provoque est ce qui détermine si le travail en groupe avec l'IA construit la pensée ou la contourne.
 
 ### Le soutien de niveau classe, non évaluatif
 

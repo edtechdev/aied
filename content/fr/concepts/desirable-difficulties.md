@@ -1,7 +1,7 @@
 ---
 title: "Les difficultés souhaitables"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-01T10:13:20-05:00"
+updated: "2026-11-04T18:52:13-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -64,7 +64,7 @@ Parce que l'IA est conçue pour être sans friction — générant instantanéme
 |---|---|---|
 | Objectif principal | Maximiser la mémoire à long terme et le transfert des connaissances | Prévenir le [[cognitive-offloading|délestage cognitif]] et maintenir l'[[active-learning|engagement actif]] |
 | Racine scientifique | Sciences cognitives et psychologie (Bjork, 1994) | Interaction humain-machine (IHM) et conception UX |
-| La « menace » | L'illusion de compétence (croire que l'on sait parce que c'est facile maintenant) | Le biais d'automatisation (laisser la machine penser à votre place) |
+| La « menace » | L'illusion de compétence (croire que l'on sait parce que c'est facile maintenant) | Le [[automation-bias|biais d'automatisation]] (laisser la machine penser à votre place) |
 | Mise en œuvre dans l'IA | Des algorithmes qui rythment et structurent la pratique (espacement, entrelacement, rappel) | Des [[conversational-ai|agents conversationnels]] dotés de garde-fous et des obstacles d'interface qui obligent l'apprenant à faire le travail |
 
 **Les difficultés souhaitables : l'optimiseur de mémoire.** Forgé par Robert et Elizabeth Bjork (1994), ce cadre provient de la [[cognitive-psychology|psychologie cognitive]]. Son idée centrale est que des stratégies d'apprentissage qui semblent plus difficiles et qui ralentissent la performance initiale produisent en réalité une meilleure rétention à long terme et un meilleur [[transfer-of-learning|transfert]]. Les difficultés souhaitables portent sur *la manière dont le cerveau encode et retrouve l'information* : si l'apprentissage semble trop facile ou trop fluide sur le moment (comme relire un manuel surligné), le cerveau n'accomplit probablement pas le traitement profond requis pour que le souvenir s'ancre. Dans l'IA, un outil utilisant ce cadre modifie la *[[pedagogy|pédagogie]]* de la séance — par exemple en demandant à l'étudiant de retrouver une information en mémoire avant de proposer un résumé (pratique du rappel), en programmant une révision juste avant l'oubli (espacement), ou en mélangeant les types de problèmes (entrelacement) plutôt qu'en les regroupant par catégorie. Fait notable, le bénéfice de ces stratégies exigeantes est lui-même dépendant du contenu : [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] montrent que la pratique du rappel renforce surtout la mémoire littérale (en retardant l'oubli), tandis que l'acquisition d'une compétence généralisable exige d'intégrer des exemples résolus à la pratique — de sorte que la « difficulté » qui aide doit être accordée au type de savoir visé plutôt qu'appliquée uniformément.

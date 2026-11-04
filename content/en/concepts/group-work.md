@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T18:52:58-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -76,7 +76,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 
 ### The epistemic risk of polished output
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts — automation bias on the social-cognitive side and epistemic closure induced by the finished artifact on the other. The remedy is to structure AI as an argumentative partner or challenger that preserves conflict. The counterpoint comes from [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], who found that when LLMs act as critique partners and students actively rebut their claims, learners behave as critical consumers who preserve rather than [[cognitive-surrender|surrender]] the cognitive conflict of critique. The difference between an answer-giving teammate and a challenging partner is what determines whether group work with AI builds or bypasses thinking.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts — [[automation-bias|automation bias]] on the social-cognitive side and epistemic closure induced by the finished artifact on the other. The remedy is to structure AI as an argumentative partner or challenger that preserves conflict. The counterpoint comes from [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], who found that when LLMs act as critique partners and students actively rebut their claims, learners behave as critical consumers who preserve rather than [[cognitive-surrender|surrender]] the cognitive conflict of critique. The difference between an answer-giving teammate and a challenging partner is what determines whether group work with AI builds or bypasses thinking.
 
 ### Classroom-level, non-evaluative support
 
