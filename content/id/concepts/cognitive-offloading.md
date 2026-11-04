@@ -171,8 +171,7 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - **"Siswa menggunakan AI terutama untuk memahami."** **Analyze memuncaki distribusi pada 27,28% (831 pesan) mendahului Understand pada 23,76%** - bukti rinci pertama bahwa interaksi siswa-AI yang naturalistik lebih condong analitis daripada berorientasi pemahaman.
 - **"Jejak prompt mengungkap apakah offloading terjadi."** Apa yang tidak dapat disediakan jejak tingkat prompt datang dari **subsampel 16 siswa dengan nilai yang tertaut, yang 1.140 pesannya dikodekan dengan tangan**: **49,6% dari 125 dialog tidak menunjukkan offloading** sama sekali. Pola jejak melebih-lebihkan offloading relatif terhadap dialog yang dikodekan dengan tangan.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[pedagogical-patterns]] - Risiko yang hendak dihindari setiap urutan usaha-dulu
 - [[learners]] - Pembelajar: payung untuk konsep-konsep sisi pembelajar
 - [[ai-literacy]] - Mengetahui kapan harus meng-offload dan mengenali pola ketergantungan
@@ -192,7 +191,7 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[retrieval-spacing-interleaving]] - praktik lawan dari membiarkan model mengambil kembali atas nama pembelajar
 - [[cognitive-surrender]]
 
-## Artikel Terkait
+## Artikel terkait
 - [[ai-proof-learning-cognitive-offloading-2026]] — Mendukung atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Apa yang tidak ditunjukkan oleh pengumpulan tugas: mengomplekskan offloading kognitif dalam kerja matematika siswa dengan LLM (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar atas 65 proses belajar: offloading di kedua ujung urutan pembelajaran

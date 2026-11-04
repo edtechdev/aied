@@ -98,8 +98,7 @@ Siswa juga dibingkai oleh media dan wacana publik yang lebih luas tentang [[ai-e
 
 **"Pembingkaian adalah persuasi, jadi ia lebih retorika daripada desain."** Pembingkaian yang digambarkan halaman ini dipasangkan dengan desain: ekspektasi dinyatakan secara jelas dan berulang *sambil merancang dengan berorientasi pada siswa*. Pesan yang disampaikan alih-alih dirancang untuk siswa adalah versi yang gagal, karena siswa membaca perbedaan antara komitmen yang dinyatakan dan yang benar-benar dijalankan.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[reducing-ai-misuse]]
 - [[ai-literacy]]
 - [[student-experience]]
@@ -113,7 +112,7 @@ Siswa juga dibingkai oleh media dan wacana publik yang lebih luas tentang [[ai-e
 - [[student-engagement]]
 - [[misconceptions]]
 
-## Artikel Terkait
+## Artikel terkait
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar tentang urutannya: peroleh tanpa GenAI, konsolidasikan dengannya, lalu berpikir sendiri
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — rasional transparan untuk setiap penggunaan GenAI yang diizinkan dan tidak diizinkan, tugas demi tugas (McCorkle 2025)

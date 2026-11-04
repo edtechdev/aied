@@ -81,8 +81,7 @@ Kualitas perancah penting secara independen dari akses. Perbandingan eksperiment
 - **"Model tanpa batas sama baiknya dengan tutor terpandu."** Perbandingan eksperimental menemukan bahwa **pelatihan eksplisit dalam perancah yang berfokus pada penalaran — petunjuk bertahap, verifikasi — menghasilkan kinerja mandiri yang lebih baik** daripada akses tanpa batas. Panduannya, dan pelatihan tentang cara menggunakannya, yang membawa efek tersebut.
 - **"Menjaga agar tidak memberi jawaban sudah cukup."** Tutor yang dibangun khusus dan dibungkus di sekitar API terkelola, dengan system prompt untuk **membimbing alih-alih menjawab**, diterapkan dalam mata kuliah R selama satu semester untuk mahasiswa S1 psikologi, di mana **76% hingga 84%** siswa menggunakannya pada minggu-minggu yang relevan untuk ujian. Itu adalah adopsi, bukan bukti bahwa penjagaan tersebut menghasilkan pembelajaran: penjagaan pada tingkat prompt adalah satu tuas di antara beberapa dan dengan sendirinya tidak menghasilkan pembelajaran.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[math-education]]
 - [[cs-education]]
 - [[stem-education]]
@@ -95,8 +94,7 @@ Kualitas perancah penting secara independen dari akses. Perbandingan eksperiment
 - [[intelligent-tutoring]]
 - [[explainable-ai]]
 
-## Artikel Terkait
-
+## Artikel terkait
 - [[arthur-dagflow-agentic-synthetic-data-statistics-2026]] — Alat agensik yang menghasilkan kumpulan data sintetis yang dapat diperiksa untuk latihan statistika yang terpersonalisasi
 - [[ai-tutor-statistical-programming-adoption-2026]] — Tutor R yang dibangun khusus; adopsinya mengikuti kalender ujian
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Label kesulitan dari LLM mengikuti tingkat Bloom, bukan kinerja siswa

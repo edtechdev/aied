@@ -109,8 +109,7 @@ Bukti bagi penyerahan sebagai konstruk bernama sangat bergantung pada satu progr
 
 **"Mengajarkan evaluasi kritis sudah cukup."** Itu perlu dan datang terlambat. Begitu jawaban yang masuk akal ada di layar, evaluasi menjadi konfirmasi, itulah sebabnya literatur desain di sini menempatkan upaya siswa sebelum keluaran sistem alih-alih mengauditnya setelahnya.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[critical-thinking]]
@@ -125,8 +124,7 @@ Bukti bagi penyerahan sebagai konstruk bernama sangat bergantung pada satu progr
 - [[theory-development-aied]]
 - [[generative-ai]]
 
-## Artikel Terkait
-
+## Artikel terkait
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory dan jejak eksperimental penyerahan
 - [[generative-ai-reduced-study-time-math]] — pergeseran pada tingkat populasi di ALEKS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — kerangka penyerahan/offloading/agensi di PreK-12

@@ -102,8 +102,7 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 
 - Letakkan kendala pengikat di tempat bukti meletakkannya. Indikator dan struktur tata kelola menyasar lingkungan; seruan kepada siswa menyasar orang yang paling tidak mampu mengubah desain institusional.
 
-## Konsep Terhubung
-
+## Konsep terkait
 - [[ai-misuse-learning-harm]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
@@ -119,7 +118,7 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 - [[framing-ai-use-for-students]]
 - [[cognitive-surrender]]
 
-## Artikel Terhubung
+## Artikel terkait
 - [[ivory-psychology-assessment-integrity-2026]] — Jejak bukti kendali versi dan dokumen analisis yang dapat direproduksi sebagai pencegah penyalahgunaan (Ivory et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Menahan rekomendasi sebagian besar mencegah ketergantungan berlebih tanpa membangun pertimbangan yang dilindunginya
 - [[generative-ai-guardrails-harm-learning]] — GenAI Tanpa Pagar Pengaman Dapat Merugikan Pembelajaran

@@ -183,7 +183,7 @@ Bukti mendukung urutan operasi tertentu bagi instruktur yang mengadopsi AI, buka
 4. **Lindungi waktu penafsiran yang diciptakan pergeseran itu.** Jika perhatian bergerak dari produksi materi ke membaca pembelajar, waktu yang direalokasi itu perlu bertahan saat bersentuhan dengan kalender; jika ia diserap pekerjaan administratif baru, perubahan peran yang dijanjikan tidak terjadi.
 5. **Periksa apakah Anda dilatih tentang alat atau tentang pedagogi.** Mengingat hasil SEM, utamakan pengembangan profesional yang bekerja pada tugas disipliner dan identitas alih-alih tur fitur.
 
-## Konsep Terkait
+## Konsep terkait
 - [[pedagogical-partnerships]] — Kemitraan Pedagogis
 - [[learner-identity]] — identitas pembelajar yang berkembang secara disipliner, profesional, kreatif, dan akademik
 - [[business-education]]
@@ -206,8 +206,7 @@ Bukti mendukung urutan operasi tertentu bagi instruktur yang mengadopsi AI, buka
 - [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
 - [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
-## Artikel Terkait
-
+## Artikel terkait
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Akademisi kasual menanggung kerja integritas tanpa otoritasnya
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoks yang lebih manusiawi: skenario 2030 dari pakar menemukan kejenuhan AI memperkuat alih-alih menggantikan kerja pedagogis manusia (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Enam pelajaran matematika sekolah menengah yang diamati memperluas orkestrasi instrumental dengan tiga tipe baru (Noh & Kim 2026)

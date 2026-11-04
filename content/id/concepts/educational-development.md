@@ -125,8 +125,7 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 
 **"Tingkat respons survei yang rendah berarti fakultas tidak punya perasaan kuat."** Makalah itu membaca **109 responsnya (tingkat 3,5%)** sebagai informatif tentang keadaan debat etis itu sendiri - respons rendah terhadap pertanyaan tentang ketidaknyamanan adalah temuan tentang ketidaknyamanan itu, bukan ketiadaan ketidaknyamanan. Dan integrasi GenAI yang dibingkai semata sebagai peningkatan keterampilan melewatkan pertanyaan identitas yang sebenarnya diajukan sebagian fakultas: apa gunanya mengajar di dunia GenAI.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 - [[ai-literacy]]
@@ -141,7 +140,7 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 - [[educational-technology-developers]]
 - [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
-## Artikel Terkait
+## Artikel terkait
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas nasihat keselarasan GenAI: pengembang diubah menjadi pelatih teknologi
 - [[crompton-faculty-technology-integration-standards-2026]] — Standar fakultas untuk integrasi teknologi (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensi etis AI: pandangan fakultas dan mahasiswa

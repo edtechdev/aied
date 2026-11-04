@@ -221,7 +221,7 @@ Khusus untuk literasi AI kritis, [[solyst-youth-systematic-evaluation-genai-2026
 - **"Literasi AI adalah satu konstruk."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn, dan Rehm (2026)]] mengklasifikasikan **102 studi empiris pendidikan tinggi** dan menemukan konstruk itu tidak tunggal. Program yang membangun satu dimensi membiarkan dimensi lain tanpa penanganan.
 - **"Kelebihan estimasi 40% adalah masalah kalibrasi kecil."** Artinya siswa dan guru yang paling yakin tentang literasi AI mereka mungkin justru yang paling tidak mampu mengevaluasi keluaran — tepat populasi yang harus dijangkau lebih dulu oleh suatu intervensi.
 
-## Konsep Terkait
+## Konsep terkait
 - [[pedagogical-patterns]] — Dikembangkan oleh langkah-langkah penilaian kritis dalam urutan-urutan ini
 - [[learners]] — Pembelajar: payung untuk konsep sisi pembelajar
 - [[generative-ai]] — teknologi yang menjadi sasaran literasi AI
@@ -246,7 +246,7 @@ Khusus untuk literasi AI kritis, [[solyst-youth-systematic-evaluation-genai-2026
 - [[career-development-and-readiness]] — pembayaran employability yang diargumentasikan dibangun literasi AI
 - [[ai-education]] — bidang yang lebih luas
 
-## Artikel Terkait
+## Artikel terkait
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Membentuk anak usia dini di era AI: kompetensi, pedagogi, dan dukungan ekologis (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Literasi Keamanan AI: Kerangka Kompetensi berbasis Ekosistem dan Platform Pembelajaran K-12
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Menaikkan dimensi etis literasi tanpa kerangka penanganan dapat meninggalkan siswa lebih cemas

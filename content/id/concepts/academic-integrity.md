@@ -175,7 +175,7 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 - **"Masalahnya marginal."** Volumenya jauh dari itu: **analisis enam tahun atas kursus CS2 dengan pendaftaran besar** menemukan **45,7% siswa Musim Semi 2026 ditandai**. Hampir setengah kohort, yang menjadikan ini masalah desain arus utama alih-alih kasus pinggiran.
 - **"Pengajar tahu penilaian mana yang rentan."** Di sebuah departemen [[biology-education|biologi]], pengajar **menganggap hanya ujian tatap muka dengan pengawasan yang minim kerentanan**, sementara tugas di luar kelas dianggap terekspos. Persepsi itu cocok dengan kasus yang jelas dan menganggap segala hal lain aman.
 
-## Konsep Terhubung
+## Konsep terkait
 - [[pedagogical-patterns]] - Urutan verifikasi yang diadopsi sebagai respons terhadap AI generatif
 - [[ai-use-disclosure]] - Pernyataan penggunaan dan pengungkapan AI
 - [[assessment-validity]]
@@ -198,8 +198,7 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 - [[legal-issues-and-risks]]
 - [[social-norms-ai-use]] - aturan informal yang berada di bawah kebijakan formal
 
-## Artikel Terhubung
-
+## Artikel terkait
 - [[ivory-psychology-assessment-integrity-2026]] — Seluruh program psikologi dapat dilalui dengan usaha minimal, dan kriteria penilaian yang membiarkannya lolos (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Guru siswa menolak GenAI di bawah kebijakan yang permisif; pembingkaian "jebakan" dan kesenjangan survei-deklarasi
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga

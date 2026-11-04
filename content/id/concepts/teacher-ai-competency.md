@@ -144,8 +144,7 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - **"Ketika guru mengonfigurasi chatbot, kegagalannya adalah kesalahan faktual."** **Ketika guru mengonfigurasi chatbot dalam bahasa alami, kegagalan yang dominan adalah hilangnya maksud alih-alih fakta yang salah** - bot **melewati** langkah yang dimaksudkan guru. Kepatuhan pada instruksi gagal secara struktural alih-alih faktual.
 - **"Keterampilan teknis adalah lapisan penentu."** **Pengetahuan pedagogis adalah lapisan penentu**: sebuah studi lintas jenjang tentang [[ai-education|pendidikan AI]] sekolah menengah [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Kompetensi yang menentukan hasil adalah yang paling kurang diinvestasikan oleh sebagian besar program pelatihan.
 
-## Konsep Terhubung
-
+## Konsep terkait
 - [[ai-literacy]]
 - [[educational-development]]
 - [[teacher-role]]
@@ -166,8 +165,7 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - [[teacher-education]]
 - [[pedagogy]] - Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
 
-## Artikel Terhubung
-
+## Artikel terkait
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Guru mana yang memperoleh waktu perencanaan: keyakinan pengetahuan subjek lebih rendah, pengetahuan pedagogis lebih rendah, lebih baru di profesi, atau keyakinan teknologi tinggi
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Guru menerima AI sambil salah memahami cara kerjanya (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Kesiapan guru dan integrasi teknologis-pedagogis sebagai tantangan yang paling sering dilaporkan di seluruh 54 studi pendidikan matematika (Manto et al. 2026)

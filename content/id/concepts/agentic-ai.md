@@ -177,8 +177,7 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 
 **"Agen yang mempersonalisasi dan memperdalam pembelajaran adalah keuntungan bersih dibanding chatbot."** Ia membawa pertukaran yang khas: sistem agensik mengancam [[agency|agensi]] dan mengundang [[cognitive-offloading|offloading]] atas usaha kognitif yang menjadi tumpuan pembelajaran, dan dengan melakukan lebih banyak langkah tanpa pengawasan mereka membuat offloading itu lebih sulit disadari. Ketegangan otomatisasi versus pembelajaran adalah masalah analitis sentral kategori ini, bukan catatan tambahan pada manfaatnya.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
@@ -204,8 +203,7 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 - [[online-teaching-and-learning]]
 - [[educational-policy-ai]]
 
-## Artikel Terkait
-
+## Artikel terkait
 - [[pramod-agentic-ai-motivational-pathways-2026]] — otonomi, kompetensi, keterhubungan, dan kehadiran sosial sebagai jalur dari AI agensik ke keterlibatan (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — agen AI, penilaian yang menyenangkan, dan ruang ketiga
 - [[ilieva-agentic-genai-higher-education-2026]] — kerangka AGAI-HE: GAI agensik yang terbatas dan tersupervisi manusia di pendidikan tinggi (Ilieva et al. 2026)

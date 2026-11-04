@@ -170,7 +170,7 @@ AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adal
 
 **"Kedewasaan bidang dapat dibaca dari volume publikasinya."** Volume dan kedewasaan menyimpang; untaian metode penelitian mendokumentasikan kelemahan desain yang berulang yang tidak diperbaiki oleh volume, dan kerangka kerja bertambah lebih cepat daripada diuji.
 
-## Konsep Terkait
+## Konsep terkait
 - [[pedagogical-patterns]] — Urutan teruji yang mengoperasionalkan pedagogi bidang tersebut
 - [[ai-literacy]] — payung: memahami, menggunakan, dan mengevaluasi AI
 - [[human-ai-collaboration]] — payung: bagaimana manusia dan AI bekerja sama
@@ -199,8 +199,7 @@ AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adal
 - [[theories-and-frameworks]] — peta node teori dan kerangka
 - [[theory-development-aied]] — membangun dan merevisi teori
 
-## Artikel Terkait
-
+## Artikel terkait
 Tinjauan menyeluruh AI dalam pendidikan — studi yang meninjau seluruh bidang atau seluruh tingkat pendidikan alih-alih satu topik:
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Evolusi penelitian AI-dan-pendidikan di sepanjang empat dekade (kerangka AIxEd)

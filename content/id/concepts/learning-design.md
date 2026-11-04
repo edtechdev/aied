@@ -107,8 +107,7 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - **"Ko-desain dengan AI berbukti baik."** Tinjauan sistematis atas [[wang-teacher-ai-co-design-review-2026|ko-desain tugas belajar oleh guru-AI]] **menegaskan pola itu dalam skala 28 studi**, yang menggambarkan praktik yang konsisten alih-alih menunjukkan hasil yang lebih unggul.
 - **"Rubrik adalah input yang tetap."** Rubrik berfungsi sebagai **antarmuka mediasi antara niat pedagogis manusia dan inferensi mesin**: memperlakukan kriteria penilaian sebagai **dapat direvisi** itulah yang memungkinkan instrumen itu membawa niat pendidik. Rubrik yang tetap memindahkan pembingkaian default mesin ke dalam penilaian.
 
-## Konsep Terkait
-
+## Konsep terkait
 - [[interpreting-and-applying-aied-research]]
 - [[pedagogical-partnerships]] - Kemitraan Pedagogis
 - [[online-teaching-and-learning]] - Pengajaran dan Pembelajaran Daring
@@ -135,8 +134,7 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - [[pedagogy]] - Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
 - [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
-## Artikel Terkait
-
+## Artikel terkait
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Penghematan waktu perencanaan yang terukur bersamaan dengan temuan bahwa guru hanya merencanakan 21% hingga 40% pelajaran dari nol
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
