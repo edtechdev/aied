@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fo
 connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/formative-assessment"
 source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

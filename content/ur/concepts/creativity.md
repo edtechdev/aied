@@ -8,7 +8,7 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/creativity"
 source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

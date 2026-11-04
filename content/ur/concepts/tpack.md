@@ -7,7 +7,7 @@ technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/tpack"
 source_updated: "2026-11-03T09:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

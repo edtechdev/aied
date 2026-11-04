@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/human-in-the-loop-ai"
 source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

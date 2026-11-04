@@ -9,7 +9,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/reinforcement-learning"
 source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

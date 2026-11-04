@@ -7,7 +7,7 @@ connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/teacher-education"
 source_updated: "2026-11-01T08:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

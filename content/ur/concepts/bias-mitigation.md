@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/bias-mitigation"
 source_updated: "2026-11-01T09:13:16-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

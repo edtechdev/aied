@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 connected_resources: [teacher-dev]
-updated: "2026-11-04T00:57:08-05:00"
+updated: "2026-11-04T01:05:55-05:00"
 translation_of: "concepts/physics-education"
 source_updated: "2026-11-01T08:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
