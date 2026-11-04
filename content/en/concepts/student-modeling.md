@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -72,6 +72,8 @@ Models that infer learner state from gameplay reached AUCs of 0.848–0.913, yet
 
 Some intended signals may not be recoverable from dialogue at all: the Learning Context framework's pilot recovered misconceptions at 91.4% and [[anxiety-and-stress|anxiety]] at 100% but conscientiousness at only 68.6% and language proficiency at 60%, so a context-aware model should capture slow-to-surface traits rather than wait for dialogue to expose them ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
+Physiological and gaze signals widen the modeling base: eye tracking, EEG, electrodermal activity and heart rate are now used to infer engagement, attention and cognitive load ([[sensor-and-gaze-analytics]]). The inference from signal to mental state is the weak link, since a body can be recorded without its state being identified.
+
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] expose a circularity in how such synthetic learners are validated: their EduMirror agents administer psychometric [[self-report-measures|questionnaires]] post-hoc and read agreement with the agent's internal value representation as psychological validity, but because the Surveyor measures dimensions already encoded in that value system the check is a consistency check rather than independent validation.
 
 **Correctness is not always a faithful signal.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that a learner model inferring mastery from correct actions can misrepresent a learner's true state: learners who exhibit *deceptive overgeneralization* appear mastered yet omit a critical application constraint, so adaptive systems can stop practice prematurely. Learner models should assess conditional understanding — including whether the learner knows when to withhold an action — not only action correctness.
@@ -128,6 +130,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — the models beneath risk prediction and support targeting
+- [[sensor-and-gaze-analytics]]
 
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)

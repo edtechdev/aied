@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -131,6 +131,8 @@ A distinct strand of the knowledge base treats AI literacy not merely as skills 
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
 
+Literacy for public life is a different target from literacy for coursework. [[civic-and-political-education]] covers the manipulation and verification problem at that target: a learner who must judge a public claim, trace it to an institution, and answer objections to it.
+
 ### AI literacy in STEM education
 
 The most developed disciplinary evidence base for AI literacy comes from [[stem-education|STEM education]], and [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky and Li (2026)]] synthesize its ten most-cited studies (2022–2026) to show both the baseline and its limits. Across the corpus, AI literacy is defined through six overlapping constructs — knowledge/skills/attitudes (Su & Yang 2024), conceptual-procedural-contextual knowledge (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022), and Long & Magerko's use–communication–evaluation framing (Hornberger et al. 2023) — so the field's "conceptual ambiguity" is a measurement problem: two studies can both assess "AI literacy" without assessing the same construct. Only two of the ten offer complete frameworks. The review's sharpest finding is an asymmetry — the corpus almost entirely measures *students'* literacy while nearly nothing develops *teachers'*, a gap that leaves teacher-facing AI literacy interventions resting on assumption rather than evidence, and one the authors connect to the practical requirement that teachers be AI literate themselves to run such interventions.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
@@ -245,6 +247,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[higher-ed]] — university-level literacy
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
+- [[civic-and-political-education]]
 
 ## Connected Articles
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)

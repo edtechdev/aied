@@ -1,7 +1,7 @@
 ---
 title: "Digital borders, algorithmic governance and civic digital literacy: examining the educational implications of AI-driven immigration management in post-apartheid South Africa"
 created: "2026-11-04T12:00:00-05:00"
-updated: "2026-11-04T12:00:00-05:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [critical-pedagogy]
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** South Africa is assembling an AI-mediated border regime — biometric screening, drone surveillance, electronic travel authorisation — and this [[qualitative-research|qualitative]] thematic synthesis of 53 sources asks what that regime demands of citizens as learners. Its answer is a civic form of [[ai-literacy|AI literacy]]: the capacity to interrogate algorithmic risk scores, know one's data rights, recognize reproduced racial bias, contest automated decisions, and join the [[governance]] of the systems themselves. Working through [[critical-pedagogy|critical digital pedagogy]], algorithmic accountability theory and postcolonial education studies, the author argues that frameworks such as DigComp 2.1 and South Africa's CAPS teach functional skills and leave algorithmic accountability untouched, and that the communities most exposed to automated border decisions are also the least connected — a [[global-south|Global South]] [[equity-in-ai-education|equity]] problem rather than a [[digital-divide|skills deficit]]. Geography and Social Sciences education, with [[teacher-role|teacher]] education behind it, is proposed as the vehicle. This is a synthesis of documents, not evidence of classroom effects.
+> **Synthesis:** South Africa is assembling an AI-mediated border regime — biometric screening, drone surveillance, electronic travel authorisation — and this [[qualitative-research|qualitative]] thematic synthesis of 53 sources asks what that regime demands of citizens as learners. Its answer is a [[civic-and-political-education|civic]] form of [[ai-literacy|AI literacy]]: the capacity to interrogate algorithmic risk scores, know one's data rights, recognize reproduced racial bias, contest automated decisions, and join the [[governance]] of the systems themselves. Working through [[critical-pedagogy|critical digital pedagogy]], algorithmic accountability theory and postcolonial education studies, the author argues that frameworks such as DigComp 2.1 and South Africa's CAPS teach functional skills and leave algorithmic accountability untouched, and that the communities most exposed to automated border decisions are also the least connected — a [[global-south|Global South]] [[equity-in-ai-education|equity]] problem rather than a [[digital-divide|skills deficit]]. Geography and Social Sciences education, with [[teacher-role|teacher]] education behind it, is proposed as the vehicle. This is a synthesis of documents, not evidence of classroom effects.
 
 ## Key Findings
 1. The corpus comprised 53 sources — peer-reviewed literature, policy and governance documents, and gray literature — screened through an adapted [[meta-analysis-systematic-review|PRISMA]]-style procedure and analyzed thematically.

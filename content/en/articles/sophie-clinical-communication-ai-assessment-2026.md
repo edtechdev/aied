@@ -1,7 +1,7 @@
 ---
 title: "Scalable AI-based clinical communication training and automated assessment"
 created: "2026-09-22T09:18:32-04:00"
-updated: "2026-10-31T15:46:10-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 published: "2026-09-18"
 sources: ['raw/papers/sophie-clinical-communication-ai-assessment-2026.md']
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** SOPHIE 2.0 turns the authors' earlier single-scenario AI-patient trial into a browser-based, self-service platform: 24 clinical scenarios, an [[embodied-learning|embodied]] talking avatar, immediate personalized feedback, and an LLM judge scoring the 3E communication skills — Empower, Be Explicit, and Empathize. Validated against archived ratings from standardized patients and third-party raters, the selected judge (GPT-5.4 with low reasoning) reached Pearson 0.759 and ICC(A,1) 0.746 against the human consensus, inside the range of individual raters rather than outside it, from transcripts alone. In a remote study of 59 clinicians and students, 92% found it engaging, 86% easy to use, and 83% clinically relevant, and automated scores rose from the first to the second encounter. With no control condition, that rise cannot be attributed to training; what the study establishes is the feasibility of [[automated-assessment]] for [[medical-education|clinical communication training]].
+> **Synthesis:** SOPHIE 2.0 turns the authors' earlier single-scenario AI-patient trial into a browser-based, self-service platform: 24 clinical scenarios, an [[embodied-learning|embodied]] talking [[ai-avatars-and-synthetic-instructors|avatar]], immediate personalized feedback, and an LLM judge scoring the 3E communication skills — Empower, Be Explicit, and Empathize. Validated against archived ratings from standardized patients and third-party raters, the selected judge (GPT-5.4 with low reasoning) reached Pearson 0.759 and ICC(A,1) 0.746 against the human consensus, inside the range of individual raters rather than outside it, from transcripts alone. In a remote study of 59 clinicians and students, 92% found it engaging, 86% easy to use, and 83% clinically relevant, and automated scores rose from the first to the second encounter. With no control condition, that rise cannot be attributed to training; what the study establishes is the feasibility of [[automated-assessment]] for [[medical-education|clinical communication training]].
 
 ## Key Findings
 1. **The LLM judge matched individual human raters.** It reached Pearson 0.759, Spearman 0.720, MAE 0.106, and ICC(A,1) 0.746 (95% CI, 0.640–0.830) against the consensus of all human rating sources.

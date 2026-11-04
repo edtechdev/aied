@@ -1,7 +1,7 @@
 ---
 title: "TutorLoop: Regulating Student Learning Behaviors via Sensor-in-the-Loop Generative Feedback"
 created: "2026-10-08T09:15:00-04:00"
-updated: "2026-10-08T09:15:00-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [online-teaching-and-learning, student-engagement, self-regulated-learning, transfer-of-learning, anxiety-and-stress]
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Reading cognitive states from a webcam
 
-TutorLoop captures cognitive states through web cameras, widely accessible and embedded in personal computers, making it suitable for scalable deployment. It uses the [[open-source]] WebGazer library for eye tracking and face detection, running client-side so that raw gaze never leaves the browser — a decision that keeps [[privacy]] costs low. Gaze samples are normalized to screen size and split into one-second windows. Attention is the percentage of gaze points inside the primary content area, such as slides or video, following prior [[student-modeling|student modeling]] work; workload is gaze entropy, since gaze dispersion tracks cognitive load. Active engagement, measured by slide-switching frequency, is recorded for evaluation only and excluded from model input, because not every task offers comparable button-clicking data. Grounded in the Yerkes–Dodson law, the design treats attention as a proxy for arousal and yields four feedback types: attentive, relief, encouragement, and no feedback.
+TutorLoop captures cognitive states through web cameras, widely accessible and embedded in personal computers, making it suitable for scalable deployment. It uses the [[open-source]] WebGazer library for [[sensor-and-gaze-analytics|eye tracking]] and face detection, running client-side so that raw gaze never leaves the browser — a decision that keeps [[privacy]] costs low. Gaze samples are normalized to screen size and split into one-second windows. Attention is the percentage of gaze points inside the primary content area, such as slides or video, following prior [[student-modeling|student modeling]] work; workload is gaze entropy, since gaze dispersion tracks cognitive load. Active engagement, measured by slide-switching frequency, is recorded for evaluation only and excluded from model input, because not every task offers comparable button-clicking data. Grounded in the Yerkes–Dodson law, the design treats attention as a proxy for arousal and yields four feedback types: attentive, relief, encouragement, and no feedback.
 
 ## A DRL agent choosing feedback over a whole session
 

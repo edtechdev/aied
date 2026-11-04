@@ -1,7 +1,7 @@
 ---
 title: A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
 created: "2026-05-17T04:33:04-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 technology: [affective-computing, affective-tutoring, learning-analytics, llm]
 research_method: [secondary analysis, longitudinal study]
@@ -20,7 +20,7 @@ page_kind: [evaluation]
 2. **Academic concern framing tracks lower physical activity.** Weeks dominated by academic language (Academ_GI) were associated with fewer steps/day and lower active MET, a finding independently recovered by both RoBERTa-base PC1 and MentalRoBERTa PC1, which share the same academic-versus-emotional axis as their leading dimension.
 3. **Emotional-exhaustion language tracks poorer sleep and lower HRV.** Negative-emotion and sadness language was associated with lower sleep efficiency, less deep sleep, and lower heart rate variability (RMSSD), pointing to a psychologically interpretable degradation of autonomic recovery.
 4. **General pretrained embeddings outperform domain-adapted models for most outcomes.** RoBERTa-base explained variance across all nine outcomes; MentalRoBERTa's domain adaptation offered a relative advantage mainly for autonomic measures (dual sleep-efficiency/RMSSD associations not matched by any single general-model dimension).
-5. **Ultra-brief text is a viable, low-burden complement to passive sensing.** Even at a median response length of three words, 21 of 243 dictionary-feature associations and numerous embedding dimensions linked language to concurrent wearable outcomes, establishing that minimal-burden prompts can enrich passive physiological data.
+5. **Ultra-brief text is a viable, low-burden complement to passive sensing.** Even at a median response length of three words, 21 of 243 dictionary-feature associations and numerous embedding dimensions linked language to concurrent [[sensor-and-gaze-analytics|wearable]] outcomes, establishing that minimal-burden prompts can enrich passive physiological data.
 
 ## Background: The Interpretability Gap in Passive Sensing
 

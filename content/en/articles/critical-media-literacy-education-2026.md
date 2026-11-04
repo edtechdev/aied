@@ -1,7 +1,7 @@
 ---
 title: "Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-21T11:30:46-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
 methods: [qualitative-research]
@@ -13,7 +13,7 @@ sources: ['raw/papers/2608.10778.md']
 confidence: medium
 ---
 
-> **Synthesis:** Based on semi-structured in-depth interviews with seven leading experts in critical media literacy and a survey of 141 university students in Communication and Education programs, this study finds that while technology offers real opportunities for teaching and learning, its [[inclusive-learning|inclusion]] in the [[curriculum-design|curriculum]] is limited and often superficial. Teachers are under-trained to manage tools that produce disinformation, deepfakes, and fake news, which hinders students' [[critical-thinking]]. The authors argue for a [[critical-pedagogy]]-grounded critical media literacy that lets students question and evaluate content within an ethical, reflective framework promoting participatory and critical citizenship — positioning educommunication not merely as tool use but as a politically engaged, dialogic practice.
+> **Synthesis:** Based on semi-structured in-depth interviews with seven leading experts in critical media literacy and a survey of 141 university students in Communication and Education programs, this study finds that while technology offers real opportunities for teaching and learning, its [[inclusive-learning|inclusion]] in the [[curriculum-design|curriculum]] is limited and often superficial. Teachers are under-trained to manage tools that produce disinformation, deepfakes, and fake news, which hinders students' [[critical-thinking]]. The authors argue for a [[critical-pedagogy]]-grounded critical media literacy that lets students question and evaluate content within an ethical, reflective framework promoting participatory and critical [[civic-and-political-education|citizenship]] — positioning educommunication not merely as tool use but as a politically engaged, dialogic practice.
 
 ## Key Findings
 

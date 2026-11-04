@@ -1,7 +1,7 @@
 ---
 title: "Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-21T04:34:15-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 pedagogy: [scaffolding, learning-theories, situated-learning, embodied-learning]
 technology: [pedagogical-agent, virtual-and-augmented-reality]
@@ -22,7 +22,7 @@ confidence: high
 1. **The framework names its own parts, and its clusters carry named dimensions.** Immersion, body-based interactivity and agent and learner realism feed three psychological clusters plus immediate learning factors; design principles moderate, and outcomes such as [[transfer-of-learning|transfer]] are factored out. Virtual self-experience: physical presence, self-presence, embodiment, cybersickness. Experience of the agent: social presence, human-agent space (replacing social space in [[collaborative-learning]]), agent awareness. Social interaction: similarity to human-human interaction, task-related versus social-relational direction, intensity, persistence, the proteus effect.
 2. **Two interaction modes define the state of the art.** A tutor (guidance, reflective questioning, explanations) or a role-playing partner holding a defined role for realistic, [[situated-learning]]-style dialogue: a climate-change field trip, a corporate negotiation [[simulation]].
 3. **Immersive media differ technically in three ways.** Immersion (head-mounted displays displace reality along the reality-virtuality continuum from AR through AV to VR), body-based multimodal interactivity, and representation virtualizable along the avatarization continuum.
-4. **Realism cuts both ways.** Behavioral realism is the claimed decisive predictor of social presence; agents are computer-controlled where avatars are person-controlled (virtual human agency), so low perceived agency needs high behavioral realism, and the uncanny valley threatens a sound human-agent space.
+4. **Realism cuts both ways.** Behavioral realism is the claimed decisive predictor of social presence; agents are computer-controlled where avatars are person-controlled ([[ai-avatars-and-synthetic-instructors|virtual human]] agency), so low perceived agency needs high behavioral realism, and the uncanny valley threatens a sound human-agent space.
 5. **Cognitive load is the explicit trade-off.** Immersion and agent realism raise extraneous load, while agent interaction can lower intrinsic load via the collective working-memory effect and cut transaction costs; the net direction is unsettled.
 6. **Temporal dynamics get their own layer.** Presence and enjoyment rise with duration; the human-agent space matures through the four Social Penetration Theory stages; novelty may later depress motivation; the trajectory peaks early, then equilibrates above non-immersive baselines.
 7. **Potentials and risks sit side by side (Table 1), and the research agenda is largely unfilled.** Presence and embodiment are potentials against cybersickness; strong social presence helps social influence but undermines uninhibited exploration and honest self-disclosure; motivation, self-efficacy and cognitive activation against novelty-driven decline and overload. Hardly any empirical work exists, so it is a foundation for studies of mediation and moderation, longitudinal and within-session measurement, design principles, [[agentic-ai|multi-agent]] groupings, and the outcomes it excludes.

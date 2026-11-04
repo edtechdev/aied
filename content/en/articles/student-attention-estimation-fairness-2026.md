@@ -1,7 +1,7 @@
 ---
 title: "Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [ai-education]
 pedagogy: [student-engagement]
@@ -13,7 +13,7 @@ confidence: high
 audience: [learning analytics designers, assessment professionals, researchers]
 ---
 
-> **Synthesis:** Fragkiadakis et al. (2026) evaluate [[bias-mitigation|fairness]]-aware multimodal temporal models for real-time [[student-engagement|student-attention]] estimation on DIPSER, a naturalistic classroom dataset pairing facial images, wearable-sensor signals, attention annotations, and automatically inferred demographic metadata. Across ten training seeds, a Residual Fusion [[multimodal|Transformer]] achieved the best mean test performance (MAE 0.283) and lowest worst-group error, though its edge over a visual-only baseline was modest. Gender- and age-targeted MAE-gap regularization reduced demographic disparities on validation data, but those gains did not consistently transfer to held-out subjects or repeated subject-level splits. The authors conclude that validation-level fairness gains should not be assumed to generalize, and that robust [[equity-in-ai-education|fairness]] assessment in educational AI requires subgroup-aware evaluation, repeated subject-level validation, and larger, better-balanced demographic samples.
+> **Synthesis:** Fragkiadakis et al. (2026) evaluate [[bias-mitigation|fairness]]-aware multimodal temporal models for real-time [[student-engagement|student-attention]] estimation on DIPSER, a naturalistic classroom dataset pairing facial images, [[sensor-and-gaze-analytics|wearable]]-sensor signals, attention annotations, and automatically inferred demographic metadata. Across ten training seeds, a Residual Fusion [[multimodal|Transformer]] achieved the best mean test performance (MAE 0.283) and lowest worst-group error, though its edge over a visual-only baseline was modest. Gender- and age-targeted MAE-gap regularization reduced demographic disparities on validation data, but those gains did not consistently transfer to held-out subjects or repeated subject-level splits. The authors conclude that validation-level fairness gains should not be assumed to generalize, and that robust [[equity-in-ai-education|fairness]] assessment in educational AI requires subgroup-aware evaluation, repeated subject-level validation, and larger, better-balanced demographic samples.
 
 ## Attention Estimation and the Fairness Gap
 

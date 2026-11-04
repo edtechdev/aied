@@ -1,7 +1,7 @@
 ---
 title: Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [ai-literacy]
 technology: [learning-analytics, llm]
@@ -14,7 +14,7 @@ sources: ['raw/papers/2606.14718.md']
 confidence: high
 ---
 
-> **Synthesis:** Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created deepfake content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
+> **Synthesis:** Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created [[ai-avatars-and-synthetic-instructors|deepfake]] content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
 
 - Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education.
 

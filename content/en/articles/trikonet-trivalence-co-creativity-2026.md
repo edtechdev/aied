@@ -1,7 +1,7 @@
 ---
 title: "TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks"
 created: "2026-09-09T09:05:09-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [agency]
 pedagogy: [collaborative-learning, creativity, sociocultural-learning]
@@ -17,7 +17,7 @@ methods: [design-based-research]
 
 ## Co-Creativity as Network Effect
 
-The paper challenges the view of creativity as an individual cognitive trait. Drawing on Actor-Network Theory, it conceptualizes creativity as an emergent effect of socio-technical networks — a processual triadic interplay of stabilization, destabilization, and re-stabilization across human and non-human actors. The study is grounded in an exploratory two-phase investigation in which pedagogical avatars were designed within a creative network, reconstructing how avatar designs emerged through problematization, interessement, enrollment, and mobilization. The findings show the avatar triad concept was not the result of individual creative acts but was constituted through iterative translation processes among students, [[research-methods-aied|researchers]], and technical artifacts such as collaborative design tools and generative AI systems.
+The paper challenges the view of creativity as an individual cognitive trait. Drawing on Actor-Network Theory, it conceptualizes creativity as an emergent effect of socio-technical networks — a processual triadic interplay of stabilization, destabilization, and re-stabilization across human and non-human actors. The study is grounded in an exploratory two-phase investigation in which pedagogical avatars were designed within a creative network, reconstructing how [[ai-avatars-and-synthetic-instructors|avatar]] designs emerged through problematization, interessement, enrollment, and mobilization. The findings show the avatar triad concept was not the result of individual creative acts but was constituted through iterative translation processes among students, [[research-methods-aied|researchers]], and technical artifacts such as collaborative design tools and generative AI systems.
 
 ## The Convenience Trap and Agency
 

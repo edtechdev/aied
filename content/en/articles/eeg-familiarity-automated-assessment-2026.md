@@ -1,7 +1,7 @@
 ---
 title: "Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction"
 created: "2026-08-21T19:02:30-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-modeling]
@@ -17,7 +17,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 ## The promise and pitfalls of neurophysiological assessment
 
-Traditional [[assessment|assessment methods]] such as quizzes and exams are indirect proxies for learning, relying on a learner's ability to articulate knowledge. The paper motivates psychophysiological signals — eye-tracking, skin conductance, and especially [[affective-computing|electroencephalography (EEG)]] — as direct, non-invasive windows into the neural correlates of knowledge acquisition. EEG offers high temporal resolution, making it promising for detecting *familiarity*, a foundational element of learning. The study positions itself as a comprehensive [[benchmark]] filling a gap: prior work often focused on a limited set of models or a single cognitive domain, so this work evaluates fifteen models across two distinct domains.
+Traditional [[assessment|assessment methods]] such as quizzes and exams are indirect proxies for learning, relying on a learner's ability to articulate knowledge. The paper motivates psychophysiological signals — [[sensor-and-gaze-analytics|eye-tracking]], skin conductance, and especially [[affective-computing|electroencephalography (EEG)]] — as direct, non-invasive windows into the neural correlates of knowledge acquisition. EEG offers high temporal resolution, making it promising for detecting *familiarity*, a foundational element of learning. The study positions itself as a comprehensive [[benchmark]] filling a gap: prior work often focused on a limited set of models or a single cognitive domain, so this work evaluates fifteen models across two distinct domains.
 
 ## Methodological rigor: trial-independent evaluation
 

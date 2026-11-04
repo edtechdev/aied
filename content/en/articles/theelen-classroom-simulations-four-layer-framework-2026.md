@@ -1,7 +1,7 @@
 ---
 title: "Classroom simulations for social-emotional learning and inclusive teacher education: a four-layer conceptual framework in the age of AI"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-11-02T06:45:00-05:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 published: "2026"
 source_url: "https://doi.org/10.3390/educsci16111813"
@@ -37,7 +37,7 @@ verified: [citation, numbers, links]
 2. **The definition rests on role and process.** The situation is deliberately designed for a learning purpose; participants take a professional role and must interpret, decide, act, or interact rather than only observe; represented actors include parents and colleagues as well as students; modality is a variable; and enactment is one phase among preparation, briefing, and debriefing.
 3. **Functional and psychological fidelity outrank realism.** What matters is whether perception, action, response, and consequence correspond to the professional task. Purposeful simplification, such as fewer students or one high-leverage practice, is a design decision rather than a deficiency, and the access, prominence, simplicity, and clarity of diagnostic information give designers a principled way to raise complexity beyond adding avatars.
 4. **Four layers answer four questions.** Professional practice asks what is practiced; the simulated situation asks how it is represented; agency and adaptation ask who or what shapes the interaction; orchestration asks how learning is facilitated. The layers are analytical rather than chronological, nested as increasing [[pedagogy|pedagogical]] specification, and a decision at any one constrains the others.
-5. **Agency is not representation.** An avatar is what a participant sees; the actor behind it may be a peer, a simulation specialist, a script, a rule-based model, or an [[agentic-ai|AI agent]], so two identical virtual students can offer different encounters. Distribution of agency also defines an inclusive simulation: students who can only wait to be managed reproduce the hierarchy the design claims to question.
+5. **Agency is not representation.** An [[ai-avatars-and-synthetic-instructors|avatar]] is what a participant sees; the actor behind it may be a peer, a simulation specialist, a script, a rule-based model, or an [[agentic-ai|AI agent]], so two identical virtual students can offer different encounters. Distribution of agency also defines an inclusive simulation: students who can only wait to be managed reproduce the hierarchy the design claims to question.
 6. **AI relocates authorship.** Scripted designs fix the paths before use; agentic designs specify goals, constraints, profiles, memory, and decision policies, and the interaction emerges during use. The authors separate simulated social agents, coaching agents, and orchestration agents, and insist that the coaching role must not be blurred with the simulated student.
 
 ## Why the technology labels fail

@@ -1,7 +1,7 @@
 ---
 title: "Face value: How avatar identity shapes epistemic trust in AI-mediated learning"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [agency, agentic-ai, ai-education, human-ai-collaboration]
 technology: [intelligent-tutoring]
@@ -13,7 +13,7 @@ confidence: high
 audience: [instructional designers, researchers]
 ---
 
-> **Synthesis:** Anthis & Kyriakidou-Zacharoudiou investigate how avatar identity cues (race, gender, age) shape [[trust-calibration|epistemic trust]] and enacted reliance in [[ai-education|AI-mediated learning]]. Two experiments isolated these effects: Study 1 (N=102) used a within-subjects laboratory design with tightly controlled avatars; Study 2 (N=294) used a between-subjects online design across varied instructional domains. Across both studies, social identity cues strongly influenced evaluations and behavior: **White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent**, while **older Black female avatars faced compounded penalties** on all measures. Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise. Domain moderated effects, with **STEM and procedural tasks amplifying bias** while reflective and interpersonal tasks attenuated it.
+> **Synthesis:** Anthis & Kyriakidou-Zacharoudiou investigate how [[ai-avatars-and-synthetic-instructors|avatar]] identity cues (race, gender, age) shape [[trust-calibration|epistemic trust]] and enacted reliance in [[ai-education|AI-mediated learning]]. Two experiments isolated these effects: Study 1 (N=102) used a within-subjects laboratory design with tightly controlled avatars; Study 2 (N=294) used a between-subjects online design across varied instructional domains. Across both studies, social identity cues strongly influenced evaluations and behavior: **White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent**, while **older Black female avatars faced compounded penalties** on all measures. Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise. Domain moderated effects, with **STEM and procedural tasks amplifying bias** while reflective and interpersonal tasks attenuated it.
 
 ## Key Findings
 

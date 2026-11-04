@@ -1,7 +1,7 @@
 ---
 title: "Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program"
 created: "2026-09-20T06:06:47-04:00"
-updated: "2026-09-20T06:30:22-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [teacher-role, theories-and-frameworks, teacher-ai-competency]
 pedagogy: [experiential-learning, professional-training, scaffolding, sociocultural-learning, student-ai-interaction]
@@ -18,7 +18,7 @@ source_url: https://doi.org/10.1111/bjet.70087
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This exploratory case study gives [[simulating-students|simulated student]] practice a quality test rather than a feasibility test: not whether an avatar can be built, but whether the resulting [[student-ai-interaction|teacher-avatar talk]] carries the interactional properties PBTE rehearsal needs. The answer is asymmetric and, the authors argue, design-congruent: participants rated the exchange clearly functional (M = 5.37) and only moderately authentic (M = 3.71), and the transcripts show the same split (87.1% versus 37.4% text coverage). The avatar acts as a responsive counter-voice that challenges and presses for reasons, which is the lever [[scaffolding]] wants novices to work against. Moderate authenticity is read not as a defect but as fit-for-function fidelity for novices, with peer dynamics and [[multimodal]] cues named as levers for later iterations.
+> **Synthesis:** This exploratory case study gives [[simulating-students|simulated student]] practice a quality test rather than a feasibility test: not whether an [[ai-avatars-and-synthetic-instructors|avatar]] can be built, but whether the resulting [[student-ai-interaction|teacher-avatar talk]] carries the interactional properties PBTE rehearsal needs. The answer is asymmetric and, the authors argue, design-congruent: participants rated the exchange clearly functional (M = 5.37) and only moderately authentic (M = 3.71), and the transcripts show the same split (87.1% versus 37.4% text coverage). The avatar acts as a responsive counter-voice that challenges and presses for reasons, which is the lever [[scaffolding]] wants novices to work against. Moderate authenticity is read not as a defect but as fit-for-function fidelity for novices, with peer dynamics and [[multimodal]] cues named as levers for later iterations.
 
 Hauk, Menter and Schorling (2026) tested whether a short rehearsal with an AI-based student avatar gives [[teacher-education|preservice teachers]] a usable opportunity to practice educational dialogue in practice-based teacher education (PBTE). In a Civic Education module at Leipzig University in the winter semester 2024/25, N = 21 preservice teachers each held a 10-minute, one-to-one voice conversation with an avatar named "Marco", a lower-secondary student whose disparaging remark about immigrants and their language skills created a controversy-oriented critical incident. Sessions used the browser-based GPTAvatar-WebGL application — Whisper [[speech-and-voice-technologies|speech recognition]], GPT-4o response generation, GoogleVoice and ElevenLabs speech output — and were followed by a 30-minute guided debriefing.
 

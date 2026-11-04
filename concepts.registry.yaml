@@ -124,6 +124,16 @@ concepts:
     - practitioner inquiry
     - scholarship of teaching and learning
     - SoTL
+  ai-avatars-and-synthetic-instructors:
+    title: AI Avatars and Synthetic Instructors
+    aliases:
+    - AI avatars
+    - avatars
+    - digital humans
+    - deepfakes
+    - synthetic instructors
+    - synthetic media
+    - virtual humans
   ai-detection:
     title: AI Detection
     aliases:
@@ -377,6 +387,14 @@ concepts:
     - chemistry education
     - chemistry laboratory
     - chemistry learning
+  civic-and-political-education:
+    title: Civic and Political Education
+    aliases:
+    - civic education
+    - civics
+    - citizenship education
+    - political education
+    - political science education
   cognitive-diagnosis:
     title: Cognitive Diagnosis
     aliases:
@@ -1762,6 +1780,16 @@ concepts:
     - self-reported
     - survey instrument
     - surveys
+  sensor-and-gaze-analytics:
+    title: Sensor and Gaze Analytics
+    aliases:
+    - biometric sensing
+    - eye tracking
+    - eye-tracking
+    - gaze analytics
+    - physiological signals
+    - sensor-based learning analytics
+    - wearable sensors
   simulating-students:
     title: Simulating Students
     aliases:
@@ -2279,6 +2307,8 @@ sections:
     - pedagogical-agent
     - affective-tutoring
     - affective-computing
+    - sensor-and-gaze-analytics
+    - ai-avatars-and-synthetic-instructors
     - human-in-the-loop-ai
     - learning-analytics
   - label: Platforms, openness and adoption
@@ -2308,6 +2338,7 @@ sections:
     - environmental-education
     - business-education
     - humanities-education
+    - civic-and-political-education
     - arts-design-and-media-education
     - design-education
     - medical-education

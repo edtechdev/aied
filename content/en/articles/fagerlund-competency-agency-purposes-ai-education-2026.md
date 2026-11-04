@@ -1,7 +1,7 @@
 ---
 title: "From Competency to Agency: Teachers' Views of the Purposes of AI Education"
 created: "2026-09-25T20:37:06-04:00"
-updated: "2026-09-25T21:52:24-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 published: "2026"
 foundations: [ai-education, ai-literacy, teacher-role, agency]
@@ -37,7 +37,7 @@ This exploratory study works within an abductive paradigm, aiming at [[theory-de
 
 ## Qualification and Socialization in Teachers' Accounts
 
-Teachers treated qualification, the acquisition of competencies, as the most concrete purpose, and it covered AI as both target and tool. Students were to gain factual comprehension of AI as a sociotechnical phenomenon, from [[machine-learning|machine learning]] basics to AI's covert presence in everyday devices, and to build [[ai-literacy]] through hands-on proficiency with image generation, LLMs such as [[generative-ai|ChatGPT]], and AI-powered robotics kits. Others wanted AI to enhance learning itself, as a writing companion, an information search buddy, or a personal tutor. Socialization then shaped how these skills were justified: teachers cultivated excitement about AI, ascribed a "cool" character to it, and promoted optimism over doom rhetoric, while tying qualifications to future roles, framing students as [[career-development-and-readiness|AI-savvy future workers]] meeting mandatory competency requirements described by one teacher as a civic skill comparable to programming.
+Teachers treated qualification, the acquisition of competencies, as the most concrete purpose, and it covered AI as both target and tool. Students were to gain factual comprehension of AI as a sociotechnical phenomenon, from [[machine-learning|machine learning]] basics to AI's covert presence in everyday devices, and to build [[ai-literacy]] through hands-on proficiency with image generation, LLMs such as [[generative-ai|ChatGPT]], and AI-powered robotics kits. Others wanted AI to enhance learning itself, as a writing companion, an information search buddy, or a personal tutor. Socialization then shaped how these skills were justified: teachers cultivated excitement about AI, ascribed a "cool" character to it, and promoted optimism over doom rhetoric, while tying qualifications to future roles, framing students as [[career-development-and-readiness|AI-savvy future workers]] meeting mandatory competency requirements described by one teacher as a [[civic-and-political-education|civic]] skill comparable to programming.
 
 ## Subjectification and the Proposal of Informed AI Agency
 

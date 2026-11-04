@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -24,6 +24,8 @@ reviewed_by: [editor]
 ## Introduction
 
 SSH education is a distinct subject area in the knowledge base, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM â€” and connect to [[higher-ed]] and [[ai-literacy]] in [[discipline-specific-aied|domain-specific]] ways.
+
+Civic and political education is a sibling subject area to these disciplines rather than a branch of them, and [[civic-and-political-education]] treats it in its own right. The knowledge base's evidence there is thin: eight sources touch the topic and none measures civic learning.
 
 ### How AI appears in humanities and social science education
 
@@ -71,6 +73,7 @@ SSH education foregrounds the very capabilities generative AI most challenges â€
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## Connected Articles
 

@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -61,6 +61,8 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagogical-agent]]. It is a mechanism for experiential and [[constructivist]] learning and is amplified by AI's ability to generate adaptive, realistic practice environments.
 
+Simulation-based learning now includes synthetic patients, students and role-play partners, and [[ai-avatars-and-synthetic-instructors]] argues that their consent, disclosure and person-fidelity questions are not the same as equipment or scenario fidelity.
+
 ## What cannot be delegated
 
 Most work on simulated conversation asks how faithfully an agent plays its part. [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026|Álvarez-Rubio (2026)]] asks the prior question: what a [[teacher-role|teacher]] cannot hand over at all across the simulation cycle of briefing, scenario, and debrief. The paper separates four delegation operations: execution, conveyance, facilitation, and the undertaking of a commitment. Execution and conveyance let the teacher correct a failure afterward; facilitation hands over judgment about an activity's structure. The fourth fails differently, because a commitment's essential condition is answerability as a relation to those who may demand reasons. An agent can perform a debriefing function; it cannot be the party who answers for it. On this account a chatbot that debriefs as well as a human never becomes answerable, so stronger debriefing evidence cannot move the line.
@@ -86,6 +88,7 @@ The framework travels as a test rather than a catalog. Three questions decide an
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[virtual-and-augmented-reality]] — the model, not the modality — immersive environments usually render a simulation
+- [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles
 - [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access

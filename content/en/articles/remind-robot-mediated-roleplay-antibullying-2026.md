@@ -1,7 +1,7 @@
 ---
 title: "Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-23T12:14:30-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]
@@ -13,7 +13,7 @@ confidence: medium
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** Sanoubari, Fernandes, Rebello, Pan, Houston, and Dautenhahn (2026) present REMind, an educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. Evaluated through a [[mixed-methods-research|mixed-methods]] play-testing study with 18 children aged 9–10, the findings suggest the experience supported learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies — highlighting Robot-Mediated Applied Drama (RMAD) as a novel [[pedagogy|pedagogical]] framework for [[social-emotional-learning|social-emotional learning]].
+> **Synthesis:** Sanoubari, Fernandes, Rebello, Pan, Houston, and Dautenhahn (2026) present REMind, an educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic [[ai-avatars-and-synthetic-instructors|avatar]]. Evaluated through a [[mixed-methods-research|mixed-methods]] play-testing study with 18 children aged 9–10, the findings suggest the experience supported learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies — highlighting Robot-Mediated Applied Drama (RMAD) as a novel [[pedagogy|pedagogical]] framework for [[social-emotional-learning|social-emotional learning]].
 
 ## Key Findings
 

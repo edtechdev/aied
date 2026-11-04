@@ -40,7 +40,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring systems built on them.',
     groups: [
       { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'llm-training-and-fine-tuning', 'vibe-coding', 'multimodal', 'speech-and-voice-technologies', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality'] },
-      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
+      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'sensor-and-gaze-analytics', 'ai-avatars-and-synthetic-instructors', 'human-in-the-loop-ai', 'learning-analytics'] },
       { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'open-education', 'open-source', 'edtech-platform'] },
     ],
   },
@@ -48,7 +48,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'civic-and-political-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
       { label: 'Research fields', items: ['learning-sciences'] },
     ],
   },

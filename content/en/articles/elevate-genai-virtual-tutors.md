@@ -1,7 +1,7 @@
 ---
 title: "ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
 ethics: [equity-in-ai-education]
@@ -13,7 +13,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** ELEVATE (Efficient [[llm]] Education with Virtual Avatar Teaching Engine) is a framework for building [[generative-ai|GenAI]]-driven 3D avatar tutors that run entirely on local, consumer-grade hardware rather than cloud APIs. Its three-stratum design separates student-facing avatar interaction, a local GenAI execution core, and a teacher-facing governance layer, so [[pedagogy|pedagogical]] control and privacy stay inside the school. A deployed prototype — a History of [[cs-education|Computer Science]] tutor running Hermes-3B and Coqui TTS on commodity GPUs — reached near real-time spoken interaction while exposing the concrete limits of local-first deployment.
+> **Synthesis:** ELEVATE (Efficient [[llm]] Education with Virtual [[ai-avatars-and-synthetic-instructors|Avatar]] Teaching Engine) is a framework for building [[generative-ai|GenAI]]-driven 3D avatar tutors that run entirely on local, consumer-grade hardware rather than cloud APIs. Its three-stratum design separates student-facing avatar interaction, a local GenAI execution core, and a teacher-facing governance layer, so [[pedagogy|pedagogical]] control and privacy stay inside the school. A deployed prototype — a History of [[cs-education|Computer Science]] tutor running Hermes-3B and Coqui TTS on commodity GPUs — reached near real-time spoken interaction while exposing the concrete limits of local-first deployment.
 
 ## Overview
 

@@ -1,7 +1,7 @@
 ---
 title: "Civic education in the age of AI: Should we trust AI-generated lesson plans"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-09-20T08:26:15-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 foundations: [ai-literacy, teacher-role, teacher-ai-competency]
 technology: [generative-ai, llm-training-and-fine-tuning]
@@ -18,7 +18,7 @@ discipline: [humanities education]
 
 > **Synthesis:** An analysis of 310 AI-generated lesson plans (2,230 individual activities) produced by [[generative-ai|ChatGPT]] (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.
 
-> Large-scale empirical [[ai-ed-evaluation|evaluation of AI]]-generated civics lesson plans reveals that without [[teacher-role|teacher]] revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of civic education.
+> Large-scale empirical [[ai-ed-evaluation|evaluation of AI]]-generated civics lesson plans reveals that without [[teacher-role|teacher]] revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of [[civic-and-political-education|civic]] education.
 
 ## The Study
 

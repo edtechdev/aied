@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -66,6 +66,8 @@ The knowledge base's research increasingly locates ethics in institutions and st
 
 - **Responsibility named without a relationship.** Corpus analysis of 366 GenAI higher-education abstracts shows the field's responsibility vocabulary is largely adjectival: "responsible AI/GenAI" occurs 83 times across 59 documents and "responsible use" 66 times across 44, while "AI responsibility" and "student responsibility" never appear as exact phrases, and grammatical removal is routine - 800 passive constructions, 780 of them without any agent reference, alongside 1,152 responsibility-related nominalizations. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] finds no clause attaching a consequence to a system, so responsibility is recognized as a word without the relational agency that would turn it into action.
 
+Civic framing asks a different question from integrity. [[civic-and-political-education]] treats the collective and democratic consequences of AI-mediated public argument, where the harm is a misinformed public rather than a misattributed essay.
+
 ## Toward situated and ecological AI ethics
 
 A major theoretical shift in the knowledge base is the critique of universalist, principle-based "checklist" ethics in favor of situated, ecological, and transformative accounts:
@@ -114,6 +116,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[civic-and-political-education]]
 
 ## Connected Articles
 

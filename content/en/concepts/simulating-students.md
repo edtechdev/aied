@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -75,6 +75,8 @@ The key distinction is between **representing a real learner** and **generating 
 
 The two are complementary rather than competing. A high-fidelity simulated student typically *contains* a student model (an epistemic state, a misconception set, an [[student-engagement|engagement]] profile) and draws on the same constructs that [[student-modeling]] and [[knowledge-tracing]] formalize. The shared validity challenge is the same in both: the representation must faithfully reflect a learner's true state rather than the system's default behavior. But the *purpose* differs — student modeling diagnoses a real learner to act on them; simulation fabricates learners to test or train. This is why simulated-student research is increasingly used to audit AI (see below) while student-modeling research remains oriented toward live [[adaptive-learning]] and [[personalized-learning]].
 
+The mirror question runs the other way. [[ai-avatars-and-synthetic-instructors]] simulates the person teaching rather than the person learning, so simulated students expose a method to scrutiny while synthetic instructors stand in front of a learner, who is the beneficiary and the judge.
+
 ### Two-axis fidelity: behavioral match and guidance responsiveness
 
 [[studentsim-llm-student-simulators|StudentSim (Yang et al., 2026)]] formalizes the validity problem as two requirements that must hold together: **behavioral fidelity (F)** — how well a simulator matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. Its [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, [[math-education|mathematics]]) into a standardized per-student protocol on which any simulator is fit and scored on held-out records. A two-stage **pooled-then-specialized** pipeline (a shared pool of behavioral patterns plus a per-student adapter) yields a family of simulators strong on both axes, outperforming domain-specific state-tracking (weak on R) and prompt-only LLM role-play (weak on F). This gives the field a concrete, two-axis vocabulary for judging whether a simulated learner is genuinely useful rather than merely plausible — and, as a proof of concept, a frozen StudentSim used as the reward in a chess-tutor [[reinforcement-learning]] loop produced tutors that experts rated as more accurate, better-guided, and more personalized than those trained with a frontier-LLM-simulator reward or no RL at all.
@@ -137,6 +139,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[llm]]
 - [[learning-analytics]]
 - [[teacher-role]]
+- [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles
 - [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: hierarchical planning keeps simulated students on profile over long horizons (Radmehr et al. 2026)

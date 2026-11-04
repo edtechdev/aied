@@ -105,11 +105,12 @@ export const FACET_VOCAB = {
     'video-education',
     'well-being',
   ],
-  // Technologies and techniques (35 concepts) — registry section: Technologies and techniques
+  // Technologies and techniques (37 concepts) — registry section: Technologies and techniques
   technology: [
     'adaptive-learning',
     'affective-computing',
     'affective-tutoring',
+    'ai-avatars-and-synthetic-instructors',
     'ai-technologies',
     'cognitive-diagnosis',
     'conversational-ai',
@@ -134,6 +135,7 @@ export const FACET_VOCAB = {
     'rag',
     'recommender-systems-and-learning-paths',
     'reinforcement-learning',
+    'sensor-and-gaze-analytics',
     'simulating-students',
     'simulation',
     'speech-and-voice-technologies',

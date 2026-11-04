@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -50,6 +50,8 @@ A complementary use of role-based agents targets [[teacher-education|teacher]] p
 **Authoring intent does not guarantee enacted pedagogy.** When 27 middle school teachers configured a teacher-facing chatbot authoring tool, an evaluation of 108 bot-level criterion ratings found generated responses aligned far better with responsiveness (88.9%) and persona (81.5%) than with rules (70.4%) or the stated purpose (59.3%), which the authors frame through pedagogical forms of Norman's Gulf of Execution and Gulf of Evaluation — configurable controls alone did not make the teacher's instructional intent visible in the bot's behavior ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
 
 **Agents in immersive and extended-reality settings.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] extend the concept into [[virtual-and-augmented-reality|extended reality]] (AR, augmented virtuality and VR) with ACLIME, a conceptual framework that — unlike CAMIL, CATLM-VR and TICOL — keeps the agent inside the model. It names two interaction modes drawn from the literature: the tutor, offering guidance, encouragement, reflective questioning and explanations, and the role-playing partner, which occupies a defined role inside a scenario such as a local on a climate-change field trip or a negotiating counterpart in corporate training. The agent's body (head-only through full body) and behavior are treated as design surfaces: visual versus behavioral realism, flexible AI control versus fixed rule-based scripting, synthesized versus pre-recorded speech, and nonverbal channels including gaze, gesture and proxemics. Immersion and body-based interactivity are argued to multiply the social cues behind [[community-of-inquiry|social presence]] — behavioral realism, not visual realism, is proposed as the decisive predictor — while the learner's own virtual body adds an [[embodied-learning|embodiment]] dimension (body ownership, virtual own body agency, self-location) and the proteus effect. The framework's explicit trade-off is cognitive: immersion and the agent's mere presence can raise cognitive load even as social interaction with the agent lowers it through the collective working-memory effect, and a temporal layer (familiarization, maturing human-agent relations, novelty decline, developing cybersickness) is added to the usual design variables. Its status is deliberately provisional: hardly any empirical work yet tests pedagogical agents in immersive media, and long-term [[learning-gains|learning outcomes]] as well as learner characteristics sit outside the model.
+
+The agent's surface is a separate design axis from its pedagogy. [[ai-avatars-and-synthetic-instructors]] treats the avatar's identity cues, presence and trust effects in its face and voice as outcomes worth measuring on their own, whatever the agent's scaffolding does.
 
 **Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
 **Stress-test persona robustness over multiple turns.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] ran six escalating attacks against role-playing agents with an automated Judge: multi-strategy testing cut robustness by 0.17–0.20 versus a single-strategy baseline, and critical failures clustered after turn 5–6, so short or single-turn evaluations overestimate persona stability and ethical adherence.
@@ -101,6 +103,7 @@ Better feedback is not the same as better learning: customizing an agent with kn
 - [[ai-ed-evaluation]]
 - [[socratic-method]]
 - [[teacher-role]]
+- [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)

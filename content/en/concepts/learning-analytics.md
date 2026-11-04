@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -44,6 +44,8 @@ reviewed_by: [editor]
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
 - **A governance review framework for student data.** LEAGUE proposes six pillars — Lawfulness, [[equity-in-ai-education|Equity]], Agency, Governance, Utility, and Ethics by Design — treating FERPA and GDPR compliance as the floor and recommending scheduled reassessment as models drift ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+
+Sensor and gaze analytics is a second instrument family feeding the same learner models, drawing on eye tracking, EEG, electrodermal activity and heart rate to estimate attention, engagement and cognitive load ([[sensor-and-gaze-analytics]]). Its validity and consent problems are steeper than trace data's, because the measurements are biometric and the step from body to mental state is an interpretation.
 
 **Model course concurrency, not just sequence.** TRACE gives every course in a semester the same positional encoding, and jointly predicting courses and grades cut grade-prediction error to 0.1339 MAE — a 46.4% reduction over a grades-only transformer — on ten years of institutional data ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
@@ -135,6 +137,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
+- [[sensor-and-gaze-analytics]]
 
 ## Connected Articles
 - [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: interpreting clickstreams through literature-defined learning strategies (Radmehr et al. 2026)

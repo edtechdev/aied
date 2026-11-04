@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -70,6 +70,8 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 - **Multimodal grading can reproduce a selection outcome even where item-level scoring lags.** Grading 10,364 handwritten Olympiad and university pages, an LLM matched examiner totals at r = 0.93–0.96 and placed the same five students on the Olympiad team, yet part agreement reached 70%: second-reader evidence, not a scorer of record ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Diagram generation is a capability frontier, not a solved one.** On a 15,246-question physics benchmark that scores multimodal output, synthesizing or editing structured physics diagrams proved harder than answering, and leading models stayed below 70% strict mastery — evidence that visual *production* lags visual *comprehension* ([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
+Multimodality has a second sense: fusing signals from the learner's body rather than from content, where eye tracking, EEG, electrodermal activity, heart-rate variability and camera pose feed estimates of attention, engagement and cognitive load. That sensing strand lives at [[sensor-and-gaze-analytics]], and its validity and consent problems are not the ones multimodal content raises.
+
 ## Multimodal AI for language and accessible learning
 
 Multimodal systems also expand access and [[personalized-learning|personalization]]. AI-guided audio-[[video-education|video learning]] tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.([[ai-guided-learning-audiovideo-2026]]) Multimodal knowledge graphs reason across images and text for educational tasks,([[multimodal-knowledge-graph-educational-reasoning]]) and multimodal representations improve [[inclusive-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,([[llm-cognitive-diagnosis-handwritten-math]]) [[affective-tutoring|affective tutoring]] with multimodal signals,([[multimodal-affective-its-presentation]])([[kar-mathbuddy-affective-math-tutoring-2025]]) text-to-image learning in specialized fields,([[nuclear-diffusion-text-to-image-learning-2026]]) and privacy-aware multimodal classroom sensing.([[privacy-aware-classroom-incident-recognition-2026]]) Bird (2026) demonstrates a text-internal form of multimodality: fusing a fine-tuned ELECTRA transformer with computational-linguistics feature analysis to classify English literature by UK Key Stage, where the fused model (F1 0.996) far surpassed every unimodal baseline — evidence that combining representational forms, even within text, can outperform single-model approaches.
@@ -119,6 +121,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+- [[sensor-and-gaze-analytics]]
 
 ## Connected Articles
 - [[elkington-human-centred-assessment-value-2026]] — Human-centred assessment, assemblages and generative constraints (Elkington 2026)

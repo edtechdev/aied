@@ -1,7 +1,7 @@
 ---
 title: Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-20T04:00:38-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 technology: [adaptive-learning, affective-computing, generative-ai, llm, rag]
 research_method: [experiment]
@@ -24,7 +24,7 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 ## What this means for practice
 
 - **Designers.** Ground proactive assistance in the learner's own attention rather than a fixed clock: gaze-triggered narration held children on the narrated region significantly longer (6.48 s vs. 1.67 s in the baseline) and drew them to the adjacent region more often (54.06% vs. 35.48%), with the secondary region chosen closer to current focus (relevance distance 0.43 vs. 0.52).
-- **Designers.** Budget interventions and keep them spaced: in the pilot, children moved on after about three minutes and engagement declined after roughly three assistance instances, so the main study gave three narrated regions per image with a minimum three-second interval between triggers. Treat eye-tracking data as sensitive by default, since the one parent who preferred the non-gaze version did so over privacy and security concerns about eye tracking.
+- **Designers.** Budget interventions and keep them spaced: in the pilot, children moved on after about three minutes and engagement declined after roughly three assistance instances, so the main study gave three narrated regions per image with a minimum three-second interval between triggers. Treat eye-tracking data as sensitive by default, since the one parent who preferred the non-gaze version did so over privacy and security concerns about [[sensor-and-gaze-analytics|eye tracking]].
 - **Instructors.** Use proactive narration as situational support rather than routine practice, as the participating [[early-childhood-elementary-ai-education|kindergarten]] [[teacher-role|teacher]] recommended for rest periods, specific projects and older preschool children, and add question answering before relying on it: [[parents-and-families|parents]] and the teacher identified the inability to answer children's questions as the main limitation.
 - **Researchers.** Do not read stated preference as evidence of learning: 15 of 22 children preferred the gaze condition but 11 of the 22 could not explain why, and only 8 of the 22 usually read with a parent, so preference and comparison data need behavioral and comprehension measures behind them.
 

@@ -1,7 +1,7 @@
 ---
 title: "E3Sense: Head-Confined Multimodal Sensing of Learner Engagement"
 created: "2026-09-23T09:15:59-04:00"
-updated: "2026-09-23T09:15:59-04:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 published: "2026-09-22"
 sources: ['raw/papers/e3sense-multimodal-learner-engagement-sensing-2026.md']
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** E3Sense co-locates three consumer-grade sensors on the head — a dry-electrode EEG headband, eye-tracking glasses, and forehead electrodermal electrodes — and asks whether signals gathered entirely there predict how engaged a learner is during an educational [[video-education|video]]. Thirty [[higher-ed|university]] participants rated five segments per video, yielding 450 segment-level [[student-engagement]] ratings on a five-level ordinal scale. On fifteen held-out forehead participants, AdaBoost over a fused 166-dimensional [[multimodal]] representation reached 75.0% balanced within-one-level accuracy against 63.0% for always predicting the training fold's most common rating. In a separate exploratory analysis, conditioning on learners' own definitions of engagement raised that measure from 64.6% to 71.5% across 18 participants. The paper is a feasibility proof, not deployment: [[self-report-measures|self-reported]] engagement is predictable from head-confined physiological [[affective-computing|sensing]], and what a learner counts as engagement carries information the [[machine-learning|sensor scores]] alone do not.
+> **Synthesis:** E3Sense co-locates three consumer-grade sensors on the head — a dry-electrode EEG headband, [[sensor-and-gaze-analytics|eye-tracking]] glasses, and forehead electrodermal electrodes — and asks whether signals gathered entirely there predict how engaged a learner is during an educational [[video-education|video]]. Thirty [[higher-ed|university]] participants rated five segments per video, yielding 450 segment-level [[student-engagement]] ratings on a five-level ordinal scale. On fifteen held-out forehead participants, AdaBoost over a fused 166-dimensional [[multimodal]] representation reached 75.0% balanced within-one-level accuracy against 63.0% for always predicting the training fold's most common rating. In a separate exploratory analysis, conditioning on learners' own definitions of engagement raised that measure from 64.6% to 71.5% across 18 participants. The paper is a feasibility proof, not deployment: [[self-report-measures|self-reported]] engagement is predictable from head-confined physiological [[affective-computing|sensing]], and what a learner counts as engagement carries information the [[machine-learning|sensor scores]] alone do not.
 
 ## Key Findings
 1. **Head-confined sensing beat every sensor-free reference.** AdaBoost on the fused 166-dimensional representation reached 75.0% ± 7.0 balanced one-off accuracy and 1.043 ± 0.158 macro-MAE, 12.0 percentage points above the 63.0% mode baseline.

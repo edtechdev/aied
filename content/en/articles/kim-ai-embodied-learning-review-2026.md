@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Embodied Learning: A Systematic Literature Review"
 created: "2026-11-02T12:45:00-05:00"
-updated: "2026-11-02T12:45:00-05:00"
+updated: "2026-11-04T22:20:00-05:00"
 type: article
 pedagogy: [embodied-learning]
 technology: [multimodal, learning-analytics, machine-learning]
@@ -36,7 +36,7 @@ verified: [citation, numbers, links]
 - **Police the weak papers and the picture mostly holds:** excluding three Low-rated and four unappraisable papers leaves 16 studies; deep learning stays first (45.5% of 22 tags), multimodal use barely moves (5 of 16, 31.3%), and outcome ranks do not change, no category shifting by more than 2.4 percentage points.
 - **…except where it does not:** interaction drops to 6.7% (two tags) and content creation to 3.3% (one tag), while recognition and detection rises to 26.7% and feedback and coaching to 20.0%. Image data falls from first to fourth (19.0%) and motion data becomes the most frequent modality (28.6%).
 - **Where modalities meet:** the dense cell in the heatmap is sensor data feeding analysis and evaluation (five tags), followed by multimodal data feeding analysis and evaluation and recognition and detection (four tags each). Audio and text used alone connect weakly to every role.
-- **No paper closed the loop:** most multimodal studies collected streams in parallel; one aligned facial affect, gaze and face detection on a shared timeline after the fact; the closest to fusion combined wristband engagement and stress with skeletal fatigue into joint states modeled by a Markov process, and that analysis was carried out after the sessions rather than informing the feedback learners received.
+- **No paper closed the loop:** most multimodal studies collected streams in parallel; one aligned facial affect, [[sensor-and-gaze-analytics|gaze]] and face detection on a shared timeline after the fact; the closest to fusion combined wristband engagement and stress with skeletal fatigue into joint states modeled by a Markov process, and that analysis was carried out after the sessions rather than informing the feedback learners received.
 
 ## Study Design & Method
 

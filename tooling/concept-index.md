@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 223
+**Total concepts:** 226
 
 ## Foundations of AI in education
 
@@ -145,6 +145,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`adaptive-learning`** — Adaptive Learning — phrases: adaptive instruction; adaptive learning; adaptive system; adaptive systems; adaptive testing; adaptivity
 - **`affective-computing`** — Affective Computing — phrases: affective; affective computing; emotion AI; emotion detection; emotion recognition; sentiment analysis
 - **`affective-tutoring`** — Affective Tutoring — phrases: affect-sensitive tutoring; affective tutoring; emotion-aware; emotion-aware AI tutor; emotion-aware tutoring
+- **`ai-avatars-and-synthetic-instructors`** — AI Avatars and Synthetic Instructors — phrases: AI avatars; avatars; digital humans; deepfakes; synthetic instructors; synthetic media; virtual humans
 - **`cognitive-diagnosis`** — Cognitive Diagnosis — phrases: cognitive diagnosis; cognitive diagnostic; cognitive diagnostic assessment; cognitive modeling; cognitive modelling; diagnostic inference; misconception diagnosis
 - **`human-in-the-loop-ai`** — Human-in-the-Loop — phrases: HITL; human in the loop; human judgment; human judgement; human moderation; human oversight; human review; human-in-the-loop; human-in-the-loop AI
 - **`intelligent-tutoring`** — Intelligent Tutoring — phrases: AI tutoring; ITS; adaptive tutor; ai tutor; ai tutors; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; tutoring system; tutoring systems; tutors
@@ -153,6 +154,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`pedagogical-agent`** — Pedagogical Agent — phrases: animated pedagogical agent; learning agent; learning companion; learning partner; pedagogical agent; tutor agent; virtual agent
 - **`personalized-learning`** — Personalized Learning — phrases: adaptive learning path; individualized learning; personalisation; personalised learning; personalization; personalized learning
 - **`recommender-systems-and-learning-paths`** — Recommender Systems and Learning Paths — phrases: course sequencing; curriculum sequencing; learning path; learning paths; learning pathways; prerequisite relations; recommendation engine; recommender system; recommender systems
+- **`sensor-and-gaze-analytics`** — Sensor and Gaze Analytics — phrases: biometric sensing; eye tracking; eye-tracking; gaze analytics; physiological signals; sensor-based learning analytics; wearable sensors
 - **`simulating-students`** — Simulating Students — phrases: AI students; simulate learners; simulated learners; simulated students; simulating students; student simulation; synthetic students
 - **`student-modeling`** — Learner Modeling and Adaptive Instruction — phrases: learner model; learner modeling; learner modelling; learner modeling and adaptive instruction; learner modelling and adaptive instruction; student model; student modeling; student modelling
 
@@ -171,6 +173,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`biology-education`** — Biology Education — phrases: biological; biological education; biology; biology education; biology laboratory; biology learning; life sciences
 - **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
 - **`chemistry-education`** — Chemistry Education — phrases: chemical education; chemistry; chemistry education; chemistry laboratory; chemistry learning
+- **`civic-and-political-education`** — Civic and Political Education — phrases: civic education; civics; citizenship education; political education; political science education
 - **`cs-education`** — CS Education — phrases: block coding; block programming; block-based programming; coding education; computer science; computer science education; computing education; CS education; CS1; introductory programming; programming; programming education; Scratch; visual programming
 - **`design-education`** — Design Education — phrases: design pedagogy; design learning; design studio education; industrial design education
 - **`discipline-specific-aied`** — AIEd in the Disciplines — phrases: AI in the disciplines; disciplinary education; discipline-specific; discipline-specific AIEd; domain-specific; domain-specific AIED; subject-specific; subject-specific AIED

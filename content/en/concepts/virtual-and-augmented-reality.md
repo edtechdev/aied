@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T22:10:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -63,6 +63,8 @@ The clearest negative result in the knowledge base comes from a studio deploymen
 
 Where immersive practice is used for interpersonal and procedural skill, the limiting factor is not visual fidelity but felt authenticity. A [[mixed-methods-research|mixed-methods]] review of AI-powered nursing simulation (19 studies, N = 1,253) found AI effective for cognitive knowledge and affective outcomes but inconsistent for complex psychomotor skills, and named the reason: an **authenticity gap** covering emotional resonance, nonverbal cue recognition, and tactile and physical-[[summative-assessment|examination]] dimensions. Its practical recommendation is a **stepped simulation continuum** — AI is well suited to highly structured objectives such as foundational communication and history taking, while advanced psychomotor and emotionally complex scenarios belong with human-standardized patients and clinical placement. Technical instability compounds the problem: speech-recognition delays inject extraneous [[cognitive-offloading|cognitive load]] and [[anxiety-and-stress|anxiety]], which makes stability and latency design levers rather than implementation details.
 
+Avatars and digital humans are the human face of that layer, and [[ai-avatars-and-synthetic-instructors]] gathers the cases where realism failed to predict effectiveness: SOPHIE scored communication identically behind the same avatar across backends, and TriKoNet's students rejected photorealistic personas outright.
+
 The same logic explains why presence is not automatically good. Motion sickness, UI inconsistency, hardware cost, and uneven device access decide who can use an immersive environment at all, which is why the modality's [[equity-in-ai-education|equity]] questions connect to [[accessibility]] and [[inclusive-learning]] rather than sitting apart from them.
 
 ## Common Misconceptions
@@ -94,6 +96,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[cognitive-offloading]] — latency and instability as extraneous load
 - [[edtech-platform]] — synchronisation, latency and multi-site presence
 - [[arts-design-and-media-education]]
+- [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles
 
