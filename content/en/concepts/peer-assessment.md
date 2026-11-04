@@ -89,6 +89,9 @@ The open questions are about the strength of the evidence, not only about design
 - **"Cheating detection is what oral assessment is for."** The measured outcomes were understanding and motivation, not reduction of pasted text. Judging the design by its detection rate misreads what it achieved.
 - **"Peer review is a cheaper substitute for instructor feedback."** [[learning-by-teaching|Learning by teaching]] is the mechanism, and it shows up even among machines: peer-learning-like discourse among over **2.4 million AI agents** was mostly **assertion rather than inquiry**. Producing critique is a different act from receiving it.
 
+- **Reflective peer and self forms as the record behind a group grade.** [[issa-teamwork-framework-academic-integrity-2024|Issa and Hall (2024)]] used one peer-reflective form per teammate plus one self-reflective form per student in a postgraduate Business Project Management unit, alongside a 30-minute meeting with each team in which members were asked whether their contribution was original. The forms were not graded as feedback exchange. They were the per-person evidence that let the instructor defend an individual mark inside a 40% team assessment. The framework's mark rise from 27/40 to 31/40 is confounded with a new lecturer and its integrity claim is unquantified, so the transferable part is the record-keeping structure, not the effect size.
+
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — PAIRR and combined peer-plus-AI feedback: the sequences and their comparative evidence
@@ -131,3 +134,4 @@ The open questions are about the strength of the evidence, not only about design
 - [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — self/peer reflective forms as per-person evidence behind a group grade (Issa & Hall 2024)
