@@ -1,7 +1,7 @@
 ---
 title: Reflection
 created: "2026-11-04T14:20:00-05:00"
-updated: "2026-11-04T11:20:00-05:00"
+updated: "2026-11-04T13:05:00-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -28,7 +28,7 @@ ai_assist:
 
 - When you finish a difficult task, what is the difference between knowing you found it hard and actually working out *why* you found it hard? Which of those two does an end-of-week journal entry capture?
 - A student submits a thoughtful three-hundred-word reflection that a model wrote for them. Is anything wrong with the document itself — and what exactly has the assessment lost?
-- Several studies here find that adding reflection prompts *reduces* how much practice students complete while making them spend longer on each piece of feedback. If reflection costs volume, when is that trade worth making?
+- Several studies here find that adding reflection prompts *reduces* how much practice students complete while making them spend longer on each piece of [[feedback]]. If reflection costs volume, when is that trade worth making?
 - If a program can score a reflective essay for depth automatically, does that make reflection easier to teach or easier to fake?
 - Teachers with less experience name lack of time as their main obstacle to reflecting; experienced teachers name tracking student performance. What does that imply for a single reflection tool rolled out to a whole school?
 - Reflection is usually required, graded and prompted. What happens to a genuinely reflective habit when it becomes a compliance artifact?
@@ -96,7 +96,7 @@ The construct is usually delivered by three vehicles, and each has its own failu
 
 **Routine journaling** fails to motivation decay. [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al. (2026)]] ran a randomized 2×2 field experiment with 179 German university students over 22 days with a 12-week follow-up, testing an example-based seven-day course and an [[llm]] journaling assistant that summarizes drafts, asks clarifying questions and offers alternative formulations. Sustaining the routine, not designing the prompt, was the hard problem.
 
-**Portfolios** fail when the container substitutes for the act. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni and Lam (2026)]] followed 50 first-year Tourism Management students through 16 weeks of WordPress e-portfolios with GenAI as a feedback provider and a synthesizer of peer and [[teacher-role|teacher]] comment, tracing multiliteracies development across three stages. [[sutama-chatgpt-eportfolio-speaking-2026|Sutama (2026)]] tested ChatGPT aligned with e-portfolio assessment against a control in 60 vocational EFL students and found a large simultaneous effect (Wilks' λ = 0.476, p < .001, partial η² = 0.524), with speaking at 82.733 versus 78.833 and [[feedback-literacy]] at 79.666 versus 71.762.
+**[[eportfolio|Portfolios]]** fail when the container substitutes for the act. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni and Lam (2026)]] followed 50 first-year Tourism Management students through 16 weeks of WordPress e-portfolios with GenAI as a feedback provider and a synthesizer of peer and [[teacher-role|teacher]] comment, tracing multiliteracies development across three stages. [[sutama-chatgpt-eportfolio-speaking-2026|Sutama (2026)]] tested ChatGPT aligned with e-portfolio assessment against a control in 60 vocational EFL students and found a large simultaneous effect (Wilks' λ = 0.476, p < .001, partial η² = 0.524), with speaking at 82.733 versus 78.833 and [[feedback-literacy]] at 79.666 versus 71.762.
 
 **Prompts** fail when they are inserted at the wrong moment, as the Asher study shows.
 

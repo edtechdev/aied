@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T13:20:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -46,7 +46,7 @@ Favero et al. (2025) warn that emotional [[student-engagement|engagement]] with 
 | Affective tutoring benefit | Corresponding risk |
 |---|---|
 | Emotionally-aware responses feel supportive | Students may form **parasocial dependencies** on the tutor |
-| Empathy reduces [[anxiety-and-stress|anxiety]] | Reduced anxiety may mask **metacognitive disengagement** |
+| Empathy reduces [[anxiety-and-stress|anxiety]] | Reduced [[anxiety-and-stress|anxiety]] may mask **metacognitive disengagement** |
 | Affective calibration personalizes pacing | Deep [[personalized-learning|personalization]] can **reduce transfer** to non-adaptive contexts |
 | Facial monitoring signals attentiveness | Continuous video capture raises **privacy concerns** |
 

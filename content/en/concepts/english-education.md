@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T13:20:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -44,7 +44,7 @@ This concept organizes AI [[research-methods-aied|research]] in **English educat
 | Dimension | [[language-learning]] | **English education (this page)** |
 |-----------|----------------------|-----------------------------------|
 | Target language | Any L2 (French, Spanish, Japanese, …) | English specifically |
-| Focus | L2 acquisition generally: spoken dialogue, pronunciation, literacy | English as a target + the academic-English register |
+| Focus | L2 acquisition generally: [[speech-and-voice-technologies|spoken dialogue]], pronunciation, literacy | English as a target + the academic-English register |
 | Signature contexts | Conversation, pronunciation, general fluency | **EAP**: academic writing, reading, feedback, genre |
 | Representative AI | L2 interlocutors, [[speech-and-voice-technologies|pronunciation feedback]], robot-assisted L2 | EAP writing tools, EFL peer-feedback, English academic writing assessment |
 
@@ -74,12 +74,12 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 
 AI's English dominance is a defining feature of this strand. Because models are strongest in English and in standard academic English specifically, English education both benefits disproportionately (powerful EAP scaffolds) and carries distinctive risks (monolingual bias, discrimination against World Englishes and multilingual writers). Research here connects to [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]], and [[academic-integrity|academic integrity]].
 
-A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[limitations-in-aied-research|limitations]] in learner autonomy: [[cognitive-offloading|overreliance]] on AI in 27 studies (50%) and reduced [[critical-thinking|critical thinking]] in 25 (46%), against unreliable AI-generated output in 22 (41%) as the leading technical problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[limitations-in-aied-research|limitations]] in learner [[agency|autonomy]]: [[cognitive-offloading|overreliance]] on AI in 27 studies (50%) and reduced [[critical-thinking|critical thinking]] in 25 (46%), against unreliable AI-generated output in 22 (41%) as the leading technical problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Implications for English / EAP / EFL-ESL instructors
 
 - **Exploit AI's strength for academic English, deliberately.** Because models are strongest in English and standard academic English, EAP instructors can deploy AI for genre-based writing, reading-material differentiation ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]), and revision feedback — but should frame AI as a drafting/feedback partner, not an answer engine.
-- **Protect academic-English register and feedback literacy.** [[feedback-literacy-scripts-eap-writing|EAP writing revision]] shows feedback is only as productive as the learner's feedback literacy — teach students to interpret, judge, and act on AI feedback, and use second-rater mechanisms to check AI quality.
+- **Protect academic-English register and [[feedback-literacy|feedback literacy]].** [[feedback-literacy-scripts-eap-writing|EAP writing revision]] shows feedback is only as productive as the learner's feedback literacy — teach students to interpret, judge, and act on AI feedback, and use second-rater mechanisms to check AI quality.
 - **Watch the English-dominance equity tension.** Models privilege standard academic English, marginalizing World Englishes and multilingual writers ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audit feedback for monolingual bias and lowered expectations.
 - **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in [[higher-ed]] English teaching that preserves academic integrity.
 - **Expect cautious, preparatory-first adoption.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) finds language educators value [[generative-ai|GenAI]] most for behind-the-scenes preparation — lesson planning, materials creation, and writing support/feedback — while hesitating on direct classroom use, with primary concerns centering on [[academic-integrity|academic integrity]] (plagiarism and [[assessment-validity|assessment validity]]). Adoption is shaped by professional-identity, [[pedagogy|pedagogical]], technical, [[governance|institutional]], and integrity factors, and competency gaps map to episteme (understanding AI's capabilities/limits), techne ([[prompt-engineering]], AI-enhanced task/assessment design, detecting AI-generated text), and phronesis ([[ethics|ethical]] judgment, bias/privacy handling) — so EAP/EFL instructors should build these competencies deliberately and plan a "back-end then classroom" implementation.
