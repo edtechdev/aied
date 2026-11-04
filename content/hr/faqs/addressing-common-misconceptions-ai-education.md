@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Otkrivanje odgovara na drugo pitanje od onoga koje je važno. Neotkriveno prepu�
 ### „Problem je koliko često to koriste.“
 
 Učestalost vam ne kaže ništa. Student može svakodnevno koristiti AI za usporedbu objašnjenja, generiranje vježbi i povratne informacije, a ostati kognitivno aktivan, a drugi ga može upotrijebiti jednom da proizvede argument koji je zadatak trebao potaknuti. Pitanje koje ih razvrstava jest koji je sloj mišljenja prepušten i može li student taj sloj još izvesti sam, razlika koju [[student-ai-interaction|interakcija studenta i AI-ja]] dokumentira podrobno. Jezično ispravljanje daleko je od tvrdnji, dokaza i protuargumenata eseja. Potez je učiniti sloj izričitim u zadatku: imenovati mišljenje koje kolegij poučava, dopustiti pomoć svugdje drugdje i provjeriti imenovani sloj bez pomoći.
+
+Jedna studija sada mjeri tu tvrdnju umjesto da je samo iznosi. U evaluaciji protokola u četiri koraka na četiri institucije — objašnjenje AI-ja, zatim samostalno osmišljene vježbe, zatim neovisni pokušaj — samopouzdanje nakon sudjelovanja u samostalnom rješavanju problema pratilo je percipiranu vrijednost objašnjenja (r_s = 0.37) i ponovljene vježbe (r_s = 0.35), dok učestalost upotrebe AI-ja nije nosila nikakvu povezanost (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul i sur., 2026]]). Učestalost tretirajte kao varijablu na koju ne možete utjecati. Ono što možete odrediti jest slijed: što AI čini prvo, što student mora pokušati bez pomoći i što se provjerava poslije.
 
 ### „Brže dovršavanje znači učinkovitije učenje.“
 

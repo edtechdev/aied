@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detektion svarar på en annan fråga än den som spelar roll. Oupptäckt utkontr
 ### ”Problemet är hur ofta de använder det.”
 
 Frekvens säger ingenting. En student kan använda AI dagligen för att jämföra förklaringar, generera övningsproblem och få återkoppling och ändå vara kognitivt aktiv, och en annan kan använda det en gång för att producera det argument som uppgiften fanns för att locka fram. Frågan som skiljer dem åt är vilket lager av tänkande som delegerades och om studenten fortfarande kan utföra det lagret själv, en distinktion som [[student-ai-interaction|student-AI-interaktion]] dokumenterar i detalj. Grammatikrättning ligger långt från en uppsats påståenden, evidens och motargument. Draget är att göra lagret explicit i uppgiften: namnge det tänkande kursen lär ut, tillåt hjälp överallt annars och kontrollera det namngivna lagret utan hjälp.
+
+En studie mäter nu påståendet i stället för att hävda det. I en utvärdering vid fyra lärosäten av ett protokoll i fyra steg — AI-förklaring, sedan självgenererade övningsproblem, sedan ett oberoende försök — följde självförtroendet i att lösa problem på egen hand, mätt efter engagemanget, det upplevda värdet av förklaringen (r_s = 0.37) och av den replikerade övningen (r_s = 0.35), medan AI-användningens frekvens inte bar någon koppling alls (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Behandla frekvensen som en variabel du inte kan agera på. Det du kan specificera är sekvensen: vad AI gör först, vad studenten måste försöka utan stöd och vad som kontrolleras efteråt.
 
 ### ”Snabbare slutförande betyder effektivare lärande.”
 

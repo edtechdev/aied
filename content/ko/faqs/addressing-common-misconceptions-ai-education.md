@@ -1,7 +1,7 @@
 ---
 title: "교육에서 AI에 관한 흔한 오개념을 어떻게 바로잡을 수 있습니까?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ ai_assist:
 ### "문제는 그것을 얼마나 자주 쓰느냐다"
 
 빈도는 아무것도 알려 주지 않습니다. 어떤 학생은 설명을 비교하고 연습 문제를 만들고 피드백을 받기 위해 AI를 매일 쓰면서도 인지적으로 능동인 상태를 유지할 수 있고, 다른 학생은 과제가 끌어내기 위해 존재했던 논증을 만들어 내는 데 한 번 쓸 수 있습니다. 둘을 갈라내는 질문은 어느 사고 층위가 위임되었는지, 그리고 학생이 그 층위를 여전히 혼자 수행할 수 있는지입니다. [[student-ai-interaction|학생-AI 상호작용]]이 이 구분을 상세히 기록합니다. 문법 교정은 글의 주장, 근거, 반론과는 거리가 멉니다. 조치는 그 층위를 과제 안에서 명시적으로 만드는 것입니다. 강좌가 가르치는 사고를 지목하고, 나머지 모든 곳에서는 도움을 허용하고, 지목한 층위는 도움 없이 점검하십시오.
+
+한 연구는 이 주장을 단언하는 대신 측정합니다. 4개 기관에서 4단계 프로토콜—AI 설명, 이어서 스스로 만든 연습 문제, 이어서 도움 없는 시도—을 평가한 결과, 참여 후 혼자서 문제를 풀 수 있다는 자신감은 설명의 지각된 가치 (r_s = 0.37)와 반복한 연습의 가치 (r_s = 0.35)를 따랐지만, AI 사용 빈도는 전혀 관련이 없었습니다 (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul 등, 2026]]). 빈도는 여러분이 작용할 수 없는 변수로 다루십시오. 지정할 수 있는 것은 순서입니다. AI가 먼저 무엇을 하는지, 학생이 도움 없이 무엇을 시도해야 하는지, 그다음에 무엇이 확인되는지.
 
 ### "더 빨리 끝낸다는 것은 더 효율적으로 배운다는 뜻이다"
 

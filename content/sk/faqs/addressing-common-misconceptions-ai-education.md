@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detekcia odpovedá na inú otázku, než je tá, na ktorej záleží. Neodhalen�
 ### „Problém je, ako často to používajú.“
 
 Frekvencia vám nepovie nič. Študent môže používať AI denne na porovnávanie vysvetlení, generovanie cvičných problémov a získavanie spätnej väzby, pričom zostáva kognitívne aktívny, a iný ju môže použiť raz na vytvorenie argumentu, ktorý malo zadanie vyvolať. Rozdeľuje ich otázka, ktorá vrstva myslenia bola delegovaná a či študent dokáže túto vrstvu stále vykonať sám, čo je rozdiel, ktorý [[student-ai-interaction|interakcia medzi študentom a AI]] podrobne dokumentuje. Oprava gramatiky leží ďaleko od tvrdení, dôkazov a protiargumentov eseje. Krok je urobiť vrstvu v úlohe explicitnou: pomenujte myslenie, ktoré kurz učí, povoľte pomoc všade inde a pomenovanú vrstvu overte bez pomoci.
+
+Jedna štúdia teraz toto tvrdenie meria, namiesto toho, aby ho len vyslovila. V hodnotení štvorkrokového protokolu v štyroch inštitúciách — vysvetlenie od AI, potom samostatne vytvorené cvičné problémy, potom nezávislý pokus — sa dôvera v samostatné riešenie problémov meraná po zapojení odvíjala od vnímanej hodnoty vysvetlenia (r_s = 0.37) a replikovanej praxe (r_s = 0.35), zatiaľ čo frekvencia používania AI nenesie žiadnu súvislosť (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul a kol., 2026]]). Berte frekvenciu ako premennú, na ktorú nemôžete pôsobiť. Špecifikovať môžete postupnosť: čo AI robí ako prvé, čo musí študent skúsiť bez pomoci a čo sa overuje potom.
 
 ### „Rýchlejšie dokončenie znamená efektívnejšie učenie.“
 

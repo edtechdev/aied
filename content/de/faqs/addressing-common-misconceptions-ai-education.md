@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir verbreitete Fehlvorstellungen über KI in der Bildung ausräumen?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -12,7 +12,7 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ Erkennung beantwortet eine andere Frage als die, die zählt. Unentdecktes Outsou
 ### „Das Problem ist, wie oft sie es nutzen."
 
 Häufigkeit sagt Ihnen nichts. Ein Studierender kann KI täglich nutzen, um Erklärungen zu vergleichen, Übungsaufgaben zu erzeugen und Feedback zu bekommen, und dabei kognitiv aktiv bleiben, und ein anderer kann sie einmal nutzen, um das Argument zu produzieren, um dessentwillen die Aufgabe existierte. Die Frage, die beide sortiert, ist, welche Denkschicht ausgelagert wurde und ob der Studierende diese Schicht noch allein leisten kann, eine Unterscheidung, die [[student-ai-interaction|Studierende-KI-Interaktion]] im Detail dokumentiert. Grammatikkorrektur liegt weit entfernt von den Behauptungen, Belegen und Gegenargumenten eines Essays. Der Schritt ist, die Schicht in der Aufgabe explizit zu machen: Benennen Sie das Denken, das der Kurs lehrt, erlauben Sie Hilfe überall sonst und prüfen Sie die benannte Schicht ohne Hilfe.
+
+Eine Studie misst die Behauptung jetzt, statt sie nur zu behaupten. In einer Evaluation an vier Einrichtungen eines vierteiligen Protokolls — KI-Erklärung, dann selbst erzeugte Übungsaufgaben, dann ein eigenständiger Versuch — folgte das Selbstvertrauen nach der Teilnahme, Probleme allein lösen zu können, dem wahrgenommenen Wert der Erklärung (r_s = 0.37) und der replizierten Übung (r_s = 0.35), während die Häufigkeit der KI-Nutzung überhaupt keinen Zusammenhang trug (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Behandeln Sie die Häufigkeit als eine Variable, auf die Sie nicht einwirken können. Was Sie festlegen können, ist die Abfolge: was die KI zuerst tut, was der Studierende ohne Hilfe versuchen muss und was danach geprüft wird.
 
 ### „Schnellere Fertigstellung heißt effizienteres Lernen."
 

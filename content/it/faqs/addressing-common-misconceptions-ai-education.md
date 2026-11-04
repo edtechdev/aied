@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: "faqs/addressing-common-misconceptions-ai-education"
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,8 @@ Il rilevamento risponde a una domanda diversa da quella che conta. Un'esternaliz
 ### "Il problema è quanto spesso la usano."
 
 La frequenza non ti dice nulla. Uno studente può usare l'IA ogni giorno per confrontare spiegazioni, generare problemi di pratica e ottenere feedback restando cognitivamente attivo, e un altro può usarla una volta sola per produrre l'argomentazione che il compito esisteva per far emergere. La domanda che li distingue è quale strato di pensiero è stato delegato e se lo studente sa ancora eseguire quello strato da solo, una distinzione che [[student-ai-interaction|student-AI interaction]] documenta in dettaglio. La correzione grammaticale sta molto lontano dalle tesi, dalle prove e dalle controargomentazioni di un saggio. La mossa è rendere esplicito lo strato nel compito: nomina il pensiero che il corso insegna, consenti aiuto in tutto il resto e verifica lo strato nominato senza aiuto.
+
+Uno studio ora misura quell'affermazione invece di limitarsi a sostenerla. In una valutazione su quattro istituzioni di un protocollo in quattro fasi — spiegazione dell'IA, poi problemi di pratica autogenerati, poi un tentativo indipendente — la fiducia dopo il coinvolgimento nel risolvere i problemi da soli seguiva il valore percepito della spiegazione (r_s = 0.37) e della pratica replicata (r_s = 0.35), mentre la frequenza d'uso dell'IA non portava alcuna associazione (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Tratta la frequenza come una variabile su cui non puoi agire. Ciò che puoi specificare è la sequenza: cosa fa l'IA per prima, cosa lo studente deve tentare senza aiuto e cosa viene verificato dopo.
 
 ### "Completare più velocemente significa imparare in modo più efficiente."
 

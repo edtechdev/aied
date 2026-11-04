@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Deteksjon svarer på et annet spørsmål enn det som betyr noe. Uoppdaget utkont
 ### «Problemet er hvor ofte de bruker det.»
 
 Frekvens forteller deg ingenting. En student kan bruke AI daglig til å sammenligne forklaringer, generere øvingsoppgaver og få tilbakemelding mens hen er kognitivt aktiv, og en annen kan bruke det én gang til å produsere argumentet som oppgaven fantes for å fremkalle. Spørsmålet som sorterer dem, er hvilket lag av tenkningen som ble delegert, og om studenten fortsatt kan utføre det laget alene, en distinksjon [[student-ai-interaction|student-AI-interaksjon]] dokumenterer i detalj. Grammatikkorreksjon ligger langt fra påstandene, evidensen og motargumentene i et essay. Grepet er å gjøre laget eksplisitt i oppgaven: navngi tenkningen emnet underviser i, tillat hjelp overalt ellers, og sjekk det navngitte laget uten hjelp.
+
+Én studie måler nå påstanden i stedet for å hevde den. I en evaluering ved fire institusjoner av en protokoll i fire trinn — AI-forklaring, deretter selvlagede øvingsoppgaver, deretter et selvstendig forsøk — fulgte tilliten etter økten til å løse problemer alene den opplevde verdien av forklaringen (r_s = 0.37) og av den gjentatte øvingen (r_s = 0.35), mens bruksfrekvensen av AI ikke hadde noen sammenheng i det hele tatt (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Behandle frekvens som en variabel du ikke kan handle på. Det du kan spesifisere, er rekkefølgen: hva AI-en gjør først, hva studenten må forsøke uten hjelp, og hva som sjekkes etterpå.
 
 ### «Raskere fullføring betyr mer effektiv læring.»
 

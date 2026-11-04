@@ -1,8 +1,8 @@
 ---
 title: "教育におけるAIに関するよくある誤解にどう対処すればよいでしょうか？"
 created: "2026-10-10T22:55:14-04:00"
-updated: "2026-10-29T10:30:04-04:00"
-source_updated: "2026-10-28T11:34:12-04:00"
+updated: "2026-11-04T05:29:47-05:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -86,6 +86,8 @@ ai_assist:
 ### 「問題は使う頻度だ」
 
 頻度は何も教えてくれません。ある学生は説明を比べ、練習問題を作り、フィードバックを得るために毎日AIを使いながら認知的に活発であり続けられますし、別の学生は課題が引き出すために存在した論証を一発で作らせるために一度だけ使うこともできます。両者を選別する問いは、思考のどの層を委ねたか、そして学生がその層を今も独力で遂行できるかであり、この区別は[[student-ai-interaction|学生とAIの相互作用]]が詳細に記録しています。文法の修正は、エッセイの主張、根拠、反論からは遠く離れています。一手は、課題の中でその層を明示することです。この授業が教えている思考を名指しし、それ以外のすべての場所では援助を許し、名指しした層は援助なしで確認するのです。
+
+ある研究は、この主張を断言するのではなく測定しています。4機関で4段階のプロトコル—AIによる説明、次に自分で作る練習問題、次に独力での試行—を評価したところ、関与後の「独力で問題を解ける」という自信は、説明の知覚された価値 (r_s = 0.37) と、反復した練習の価値 (r_s = 0.35) に追随しましたが、AIの使用頻度はまったく関連を持ちませんでした (r_s = 0.02, p = 0.749)（[[paul-pair-framework-genai-active-learning-physics-2026|Paul 等, 2026]]）。頻度は、こちらが働きかけられない変数として扱ってください。指定できるのは順序です。AIが最初に何をするのか、学生が援助なしで何を試みなければならないのか、その後で何が確認されるのか。
 
 ### 「早く終わることは効率的な学習を意味する」
 

@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detectarea răspunde la o altă întrebare decât cea care contează. Externaliz
 ### „Problema este cât de des o folosesc.”
 
 Frecvența nu îți spune nimic. Un student poate folosi IA zilnic ca să compare explicații, să genereze probleme de exersare și să primească feedback rămânând activ cognitiv, iar altul o poate folosi o singură dată ca să producă argumentul pe care sarcina exista ca să îl scoată la iveală. Întrebarea care îi separă este ce strat de gândire a fost delegat și dacă studentul poate încă executa acel strat singur, o distincție pe care [[student-ai-interaction|interacțiunea student-IA]] o documentează în detaliu. Corectarea gramaticală stă departe de afirmațiile, dovezile și contraargumentele unui eseu. Mișcarea este să faci stratul explicit în sarcină: numește gândirea pe care o predă cursul, permite ajutor oriunde altundeva și verifică stratul numit fără ajutor.
+
+Un studiu măsoară acum afirmația în loc să o susțină. Într-o evaluare la patru instituții a unui protocol în patru pași — explicație prin IA, apoi probleme de exersare generate de student, apoi o încercare independentă —, încrederea în rezolvarea singur a problemelor, măsurată după implicare, a urmat valoarea percepută a explicației (r_s = 0.37) și a exersării replicate (r_s = 0.35), în timp ce frecvența utilizării IA nu a purtat nicio asociere (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Tratează frecvența ca pe o variabilă asupra căreia nu poți acționa. Ce poți specifica este secvența: ce face IA mai întâi, ce trebuie să încerce studentul fără ajutor și ce se verifică după aceea.
 
 ### „Finalizarea mai rapidă înseamnă învățare mai eficientă.”
 

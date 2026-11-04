@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,9 @@ Ugunduzi hujibu swali tofauti na lile lenye maana. Uhamishaji kwa mtaalamu wa nj
 ### "Tatizo ni mara ngapi wanaitumia."
 
 Mara ngapi hakuambii kitu. Mwanafunzi anaweza kutumia AI kila siku kulinganisha maelezo, kuzalisha matatizo ya mazoezi, na kupata maoni huku akibaki kiakili akiwa hai, na mwingine anaweza kuitumia mara moja kuzalisha hoja ambayo kazi ilikuwepo ili kuichochea. Swali linalowatenganisha ni tabaka gani la fikra lilihamishwa na kama mwanafunzi bado anaweza kufanya tabaka hilo peke yake, tofauti ambayo [[student-ai-interaction|mwingiliano wa mwanafunzi na AI]] inaieleza kwa kina. Kusahihisha sarufi kuko mbali na madai, ushahidi na hoja pinzani za insha. Hatua ni kufanya tabaka lifafanuliwe wazi katika kazi: taja fikra ambazo kozi inafundisha, ruhusu msaada kila mahali pengine, na hakikisha tabaka lililotajwa bila msaada.
+
+Utafiti mmoja sasa unapima dai hilo badala ya kulidai. Katika tathmini ya taasisi nne kuhusu itifaki ya hatua nne — maelezo ya AI, kisha matatizo ya mazoezi yanayojizalisha mwanafunzi mwenyewe, kisha jaribio huru — kujiamini baada ya kushiriki katika kutatua matatizo peke yake kulifuata thamani inayotambulika ya maelezo (r_s = 0.37) na ya mazoezi yaliyorudiwa (r_s = 0.35), huku kiwango cha matumizi ya AI kikiwa hakina uhusiano wowote (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul dkk., 2026]]). Chukulia kiwango cha matumizi kama kigezo usichoweza kukitenda. Unachoweza kubainisha ni mfululizo: AI hufanya nini kwanza, mwanafunzi anapaswa kujaribu nini bila msaada, na nini hukaguliwa baadaye.
+
 
 ### "Kukamilisha haraka kunamaanisha kujifunza kwa ufanisi zaidi."
 

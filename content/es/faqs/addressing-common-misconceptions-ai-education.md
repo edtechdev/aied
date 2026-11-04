@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-10-28T13:06:12-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -87,6 +87,8 @@ La detección responde a una pregunta distinta de la que importa. La externaliza
 ### "El problema es con qué frecuencia lo usan."
 
 La frecuencia no le dice nada. Un estudiante puede usar la IA a diario para comparar explicaciones, generar problemas de práctica y recibir retroalimentación mientras se mantiene cognitivamente activo, y otro puede usarla una vez para producir el argumento que la tarea existía para elicitar. La pregunta que los distingue es qué capa del pensamiento se delegó y si el estudiante puede seguir realizando esa capa solo, una distinción que [[student-ai-interaction|interacción entre estudiante e IA]] documenta en detalle. La corrección gramatical está muy lejos de las afirmaciones, la evidencia y los contraargumentos de un ensayo. El movimiento consiste en hacer explícita la capa en la tarea: nombre el pensamiento que el curso enseña, permita ayuda en todo lo demás y compruebe la capa nombrada sin ayuda.
+
+Un estudio mide ahora la afirmación en lugar de limitarse a aseverarla. En una evaluación en cuatro instituciones de un protocolo de cuatro pasos — explicación de la IA, luego problemas de práctica generados por el propio estudiante, luego un intento independiente — la confianza posterior a la participación en resolver problemas por cuenta propia siguió al valor percibido de la explicación (r_s = 0.37) y de la práctica replicada (r_s = 0.35), mientras que la frecuencia de uso de la IA no guardó asociación alguna (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Trate la frecuencia como una variable sobre la que no puede actuar. Lo que sí puede especificar es la secuencia: qué hace la IA primero, qué debe intentar el estudiante sin ayuda y qué se comprueba después.
 
 ### "Terminar más rápido significa aprender con más eficiencia."
 

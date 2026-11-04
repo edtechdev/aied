@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T15:22:01-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Wykrywanie odpowiada na inne pytanie niż to, które się liczy. Niewykryte zlec
 ### „Problemem jest to, jak często studenci tego używają.”
 
 Częstotliwość nie mówi nic. Student może używać SI codziennie do porównywania wyjaśnień, generowania zadań ćwiczebnych i uzyskiwania informacji zwrotnej, pozostając poznawczo aktywnym, a inny może użyć jej raz, żeby wyprodukować wywód, po który zadanie w ogóle istniało. Pytanie, które ich rozdziela, dotyczy tego, która warstwa myślenia została zlecona i czy student nadal potrafi tę warstwę wykonać sam, a tę różnicę [[student-ai-interaction|interakcja studenta z SI]] opisuje szczegółowo. Poprawa gramatyki leży daleko od twierdzeń, dowodów i kontrargumentów eseju. Ruchem jest uczynienie tej warstwy wyraźną w zadaniu: nazwać myślenie, którego uczy kurs, pozwolić na pomoc wszędzie indziej i sprawdzić nazwaną warstwę bez pomocy.
+
+Jedno badanie mierzy teraz to twierdzenie, zamiast je głosić. W ewaluacji czteroetapowego protokołu w czterech instytucjach — wyjaśnienie od SI, następnie samodzielnie tworzone zadania ćwiczebne, następnie próba bez pomocy — pewność co do samodzielnego rozwiązywania zadań po zakończeniu pracy podążała za postrzeganą wartością wyjaśnienia (r_s = 0.37) i powtórzonej praktyki (r_s = 0.35), podczas gdy częstotliwość korzystania z SI nie miała żadnego związku (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul i in., 2026]]). Częstotliwość traktować jako zmienną, na którą nie można oddziaływać. Określić można sekwencję: co SI robi najpierw, czego student musi spróbować bez pomocy i co jest sprawdzane potem.
 
 ### „Szybsze ukończenie znaczy efektywniejsze uczenie się.”
 

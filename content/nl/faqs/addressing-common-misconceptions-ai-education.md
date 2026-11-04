@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T14:58:40-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detectie beantwoordt een andere vraag dan degene die ertoe doet. Niet-gedetectee
 ### ‘Het probleem is hoe vaak ze het gebruiken.’
 
 Frequentie vertelt u niets. Een student kan AI dagelijks gebruiken om uitleg te vergelijken, oefenproblemen te genereren en feedback te krijgen en toch cognitief actief blijven, en een ander kan het één keer gebruiken om het argument te produceren dat de opdracht bestond om uit te lokken. De vraag die hen scheidt, is welke laag van het denken is gedelegeerd en of de student die laag nog alleen kan uitvoeren, een onderscheid dat [[student-ai-interaction|student-AI-interactie]] in detail documenteert. Grammaticacorrectie staat ver af van de beweringen, het bewijs en de tegenargumenten van een essay. De stap is om de laag expliciet te maken in de taak: benoem het denken dat de cursus onderwijst, sta hulp overal elders toe, en controleer de genoemde laag zonder hulp.
+
+Eén onderzoek meet de bewering nu in plaats van haar te bevestigen. In een evaluatie bij vier instellingen van een protocol van vier stappen — AI-uitleg, dan zelfgemaakte oefenproblemen, dan een zelfstandige poging — volgde het vertrouwen na de sessie in het alleen oplossen van problemen de ervaren waarde van de uitleg (r_s = 0.37) en van de herhaalde oefening (r_s = 0.35), terwijl de gebruiksfrequentie van AI helemaal geen verband hield (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Behandel frequentie als een variabele waarop u niet kunt sturen. Wat u wel kunt specificeren, is de volgorde: wat de AI eerst doet, wat de student zonder hulp moet proberen, en wat daarna wordt gecontroleerd.
 
 ### ‘Snellere voltooiing betekent efficiënter leren.’
 

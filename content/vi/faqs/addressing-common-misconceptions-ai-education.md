@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T16:56:06-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,9 @@ Phát hiện trả lời một câu hỏi khác với câu hỏi quan trọng. V
 ### “Vấn đề là họ dùng nó thường xuyên đến mức nào.”
 
 Tần suất không nói cho bạn biết gì. Một sinh viên có thể dùng AI hằng ngày để so sánh các cách giải thích, tạo bài luyện và nhận phản hồi mà vẫn hoạt động nhận thức tích cực, còn một sinh viên khác có thể dùng nó một lần để tạo ra đúng cái lập luận mà bài tập tồn tại để khơi ra. Câu hỏi phân loại họ là lớp tư duy nào đã bị khoán và liệu sinh viên có còn tự làm được lớp đó một mình hay không, một phân biệt được [[student-ai-interaction|tương tác giữa sinh viên và AI]] ghi lại chi tiết. Sửa ngữ pháp nằm xa các khẳng định, bằng chứng và phản biện của một bài luận. Động tác là làm lớp đó hiện rõ trong nhiệm vụ: gọi tên phần tư duy mà khóa học đang dạy, cho phép trợ giúp ở mọi chỗ khác, và kiểm tra lớp được gọi tên đó mà không có trợ giúp.
+
+Một nghiên cứu giờ đây đo lường khẳng định đó thay vì chỉ quả quyết nó. Trong một đánh giá tại bốn cơ sở về một quy trình bốn bước — AI giải thích, rồi sinh viên tự tạo các bài luyện, rồi một lần tự thử độc lập — sự tự tin sau khi tham gia vào việc tự giải bài một mình biến thiên theo giá trị được cảm nhận của phần giải thích (r_s = 0.37) và của phần luyện tập được lặp lại (r_s = 0.35), trong khi tần suất sử dụng AI hoàn toàn không có liên hệ nào (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Hãy coi tần suất là một biến bạn không thể tác động tới. Điều bạn có thể quy định là trình tự: AI làm gì trước, sinh viên phải tự thử gì mà không có trợ giúp, và điều gì được kiểm tra sau đó.
+
 
 ### “Hoàn thành nhanh hơn nghĩa là học hiệu quả hơn.”
 

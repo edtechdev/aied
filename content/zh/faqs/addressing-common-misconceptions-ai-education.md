@@ -1,7 +1,7 @@
 ---
 title: "我们应当如何纠正人们对教育中人工智能的常见误解？"
 created: "2026-09-22T19:51:00-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -90,6 +90,9 @@ ai_assist:
 ### “问题在于他们用得有多频繁。”
 
 频率什么也告诉不了你。一个学生可以每天用 AI 比较不同解释、生成练习题、获取反馈，同时保持认知活跃；另一个学生可能只用一次，就让 AI 生产出这项作业本来就想要引出的论证。能把两者区分开的问题是：哪一层思考被外包了，以及学生是否仍能独自完成那一层——[[student-ai-interaction|学生与 AI 的互动]]详细记录了这一区分。语法校对离一篇文章的主张、证据和反驳很远。做法是把这一层在任务中写明：说出这门课在教哪种思考，在其他所有地方允许帮助，并在没有帮助的情况下检查所说的那一层。
+
+有一项研究如今不再只是断言这一主张，而是对它进行测量。在一项针对四步流程——先由 AI 解释，再由学生自行生成练习题，然后进行一次独立尝试——的四所院校评估中，参与之后独自解题的信心随对解释的感知价值（r_s = 0.37）和对重复练习的感知价值（r_s = 0.35）同步变化，而 AI 使用频率则毫无关联（r_s = 0.02, p = 0.749）（[[paul-pair-framework-genai-active-learning-physics-2026|Paul 等，2026]]）。把频率当作一个你无法对其施加影响的变量。你能规定的是顺序：AI 先做什么，学生必须在没有帮助的情况下尝试什么，以及之后检查什么。
+
 
 ### “完成得更快意味着学习更高效。”
 

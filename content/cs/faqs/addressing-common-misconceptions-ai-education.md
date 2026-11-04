@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detekce odpovídá na jinou otázku, než je ta podstatná. Nezachycené přenec
 ### „Problém je v tom, jak často to používají.“
 
 Četnost vám neřekne nic. Student může používat AI denně k porovnávání vysvětlení, generování cvičných úloh a získávání zpětné vazby a zůstat kognitivně činný, jiný ji použije jednou, aby vyrobil argument, kvůli kterému úkol existoval. Otázka, která je roztřídí, zní, která vrstva myšlení byla delegována a zda student tu vrstvu ještě dokáže provést sám; tento rozdíl podrobně dokumentuje [[student-ai-interaction|interakce studenta s AI]]. Jazyková korektura stojí daleko od tvrzení, důkazů a protiargumentů eseje. Krokem je udělat tu vrstvu v úkolu výslovnou: pojmenujte myšlení, které kurz učí, povolte pomoc všude jinde a pojmenovanou vrstvu zkontrolujte bez pomoci.
+
+Jedna studie nyní toto tvrzení měří, místo aby je pouze tvrdila. Ve vyhodnocení čtyřstupňového protokolu ve čtyřech institucích — vysvětlení od AI, poté samostatně generované cvičné úlohy, poté nezávislý pokus — sledovala důvěra po zapojení, že člověk dokáže řešit úlohy sám, vnímanou hodnotu vysvětlení (r_s = 0.37) a zopakovaného procvičení (r_s = 0.35), zatímco četnost používání AI nenesla žádnou souvislost (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Berte četnost jako proměnnou, se kterou nemůžete nic dělat. Co určit můžete, je posloupnost: co AI dělá nejprve, co musí student zkusit bez pomoci a co se následně kontroluje.
 
 ### „Rychlejší dokončení znamená efektivnější učení.“
 

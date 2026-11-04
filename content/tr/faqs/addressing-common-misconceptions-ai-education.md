@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,9 @@ Tespit, önemli olandan farklı bir soruyu yanıtlar. Tespit edilmeyen dışsall
 ### "Sorun, onu ne sıklıkta kullandıkları."
 
 Sıklık size hiçbir şey söylemez. Bir öğrenci YZ'yi açıklamaları karşılaştırmak, alıştırma problemleri üretmek ve geri bildirim almak için her gün bilişsel olarak etkin kalarak kullanabilir; bir diğeri ise ödevin ortaya çıkarmak için var olduğu argümanı üretmek üzere onu bir kez kullanabilir. Onları ayıran soru, düşünmenin hangi katmanının devredildiği ve öğrencinin o katmanı hâlâ tek başına gerçekleştirip gerçekleştiremediğidir; [[student-ai-interaction|öğrenci–YZ etkileşimi]] bu ayrımı ayrıntılı olarak belgeler. Dilbilgisi düzeltmesi, bir denemenin iddialarından, kanıtlarından ve karşı argümanlarından çok uzaktadır. Hamle, katmanı görevde açık kılmaktır: kursun öğrettiği düşünmeyi adlandırın, her yerde yardıma izin verin ve adlandırılan katmanı yardımsız denetleyin.
+
+Bir araştırma artık bu iddiayı ileri sürmek yerine ölçüyor. Dört kurumda dört adımlı bir protokolün — YZ açıklaması, ardından öğrencinin kendi ürettiği alıştırma problemleri, ardından bağımsız bir deneme — değerlendirilmesinde, etkileşim sonrasında problemleri tek başına çözme güveni, açıklamanın algılanan değeriyle (r_s = 0.37) ve yinelenen alıştırmanın algılanan değeriyle (r_s = 0.35) birlikte hareket etti; YZ kullanım sıklığının ise hiçbir ilişkisi yoktu (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul vd., 2026]]). Sıklığı, üzerinde işlem yapamayacağınız bir değişken olarak ele alın. Belirleyebileceğiniz şey dizidir: YZ'nin önce ne yaptığı, öğrencinin neyi yardımsız denemesi gerektiği ve sonrasında neyin denetlendiği.
+
 
 ### "Daha hızlı tamamlama, daha verimli öğrenme demektir."
 

@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T14:13:22-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Havaitseminen vastaa eri kysymykseen kuin se, jolla on väliä. Havaitsematon ul
 ### ”Ongelma on siinä, kuinka usein he käyttävät sitä.”
 
 Tiheys ei kerro mitään. Opiskelija voi käyttää tekoälyä päivittäin selitysten vertailuun, harjoitustehtävien tuottamiseen ja palautteen saamiseen pysyen kognitiivisesti aktiivisena, ja toinen voi käyttää sitä kerran tuottaakseen argumentin, jonka esiin nostaminen oli tehtävän tarkoitus. Heidät erottelee kysymys siitä, mikä ajattelun kerros ulkoistettiin ja pystyykö opiskelija yhä suorittamaan sen kerroksen yksin, erottelu, jonka [[student-ai-interaction|student-AI interaction]] dokumentoi yksityiskohtaisesti. Kieliopin korjaus on kaukana esseen väitteistä, todisteista ja vasta-argumenteista. Liike on tehdä kerros näkyväksi tehtävässä: nimeä ajattelu, jota kurssi opettaa, salli apu kaikkialla muualla ja tarkista nimetty kerros ilman apua.
+
+Yksi tutkimus mittaa väitettä sen sijaan että vain esittäisi sen. Neljän oppilaitoksen arvioinnissa nelivaiheisesta protokollasta — tekoälyn selitys, sitten itse tuotetut harjoitustehtävät, sitten itsenäinen yritys — osallistumisen jälkeinen luottamus siihen, että osaa ratkaista ongelmia yksin, seurasi selityksen (r_s = 0.37) ja toistetun harjoittelun (r_s = 0.35) koettua arvoa, kun taas tekoälyn käytön tiheydellä ei ollut lainkaan yhteyttä (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul ym., 2026]]). Kohtele tiheyttä muuttujana, johon et voi vaikuttaa. Sen sijaan voit määritellä järjestyksen: mitä tekoäly tekee ensin, mitä opiskelijan on yritettävä ilman apua ja mitä tarkistetaan jälkeenpäin.
 
 ### ”Nopeampi valmistuminen tarkoittaa tehokkaampaa oppimista.”
 

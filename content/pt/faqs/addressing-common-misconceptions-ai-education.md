@@ -1,7 +1,7 @@
 ---
 title: "Como podemos abordar as concepções errôneas mais comuns sobre a IA na educação?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ A detecção responde a uma pergunta diferente da que importa. A terceirização
 ### "O problema é a frequência com que eles usam."
 
 A frequência não lhe diz nada. Um estudante pode usar IA diariamente para comparar explicações, gerar problemas de prática e receber feedback permanecendo cognitivamente ativo, e outro pode usá-la uma vez para produzir o argumento que a tarefa existia para eliciar. A pergunta que os separa é qual camada de pensamento foi delegada e se o estudante ainda consegue executar essa camada sozinho, uma distinção que [[student-ai-interaction|interação estudante-IA]] documenta em detalhe. Correção gramatical está muito longe das afirmações, evidências e contra-argumentos de um ensaio. O movimento é tornar a camada explícita na tarefa: nomeie o pensamento que o curso ensina, permita ajuda em todo o resto e verifique a camada nomeada sem ajuda.
+
+Um estudo agora mede a afirmação em vez de apenas afirmá-la. Numa avaliação em quatro instituições de um protocolo de quatro etapas — explicação por IA, depois problemas de prática gerados pelo próprio estudante, depois uma tentativa independente —, a confiança em resolver problemas sozinho, medida após o engajamento, acompanhou o valor percebido da explicação (r_s = 0.37) e da prática replicada (r_s = 0.35), enquanto a frequência de uso de IA não carregou associação alguma (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Trate a frequência como uma variável sobre a qual você não pode agir. O que você pode especificar é a sequência: o que a IA faz primeiro, o que o estudante precisa tentar sem auxílio e o que é verificado depois.
 
 ### "Concluir mais rápido significa aprender com mais eficiência."
 

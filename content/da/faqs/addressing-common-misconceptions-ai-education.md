@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T12:23:32-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Detektion svarer på et andet spørgsmål end det, der betyder noget. Uopdaget u
 ### »Problemet er, hvor ofte de bruger det.«
 
 Hyppighed fortæller dig intet. En studerende kan bruge AI dagligt til at sammenligne forklaringer, generere øvelsesopgaver og få feedback og forblive kognitivt aktiv, og en anden kan bruge det én gang til at producere det argument, som opgaven eksisterede for at fremkalde. Det spørgsmål, der sorterer dem, er, hvilket lag af tænkning der blev uddelegeret, og om den studerende stadig kan udføre det lag alene, en sondring som [[student-ai-interaction|studerende-AI-interaktion]] dokumenterer i detaljen. Grammatikkorrektion ligger langt fra påstande, evidens og modargumenter i en stil. Trækket er at gøre laget eksplicit i opgaven: navngiv den tænkning, kurset underviser i, tillad hjælp alle andre steder, og kontroller det navngivne lag uden hjælp.
+
+Én undersøgelse måler nu påstanden i stedet for at hævde den. I en evaluering på fire institutioner af en protokol i fire trin — AI-forklaring, derefter selvgenererede øvelsesopgaver, derefter et selvstændigt forsøg — fulgte tilliden efter engagementet til at løse opgaver alene den oplevede værdi af forklaringen (r_s = 0.37) og af den gentagne øvelse (r_s = 0.35), mens hyppigheden af AI-brug slet ikke var forbundet med noget (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Behandl hyppighed som en variabel, du ikke kan handle på. Det, du kan fastlægge, er rækkefølgen: hvad AI gør først, hvad den studerende skal forsøge uden hjælp, og hvad der kontrolleres bagefter.
 
 ### »Hurtigere færdiggørelse betyder mere effektiv læring.«
 

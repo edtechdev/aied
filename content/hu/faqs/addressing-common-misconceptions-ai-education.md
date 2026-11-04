@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ A detektálás más kérdésre válaszol, mint amelyik számít. A ki nem mutato
 ### „A probléma az, hogy milyen gyakran használják.”
 
 A gyakoriság semmit nem mond el. Egy diák naponta használhatja a MI-t magyarázatok összehasonlítására, gyakorlófeladatok generálására és visszajelzésre úgy, hogy közben kognitívan aktív marad, egy másik pedig egyszer használhatja arra, hogy előállítsa azt az érvet, amelyért a feladat egyáltalán létezett. A szétválogató kérdés az, hogy a gondolkodás melyik rétege delegálódott, és a diák képes-e még azt a réteget egyedül ellátni, és ezt a megkülönböztetést a [[student-ai-interaction|diák és MI interakciója]] részletesen dokumentálja. A nyelvtani javítás messze esik a fogalmazás állításaitól, bizonyítékaitól és ellenérveitől. A lépés az, hogy tegye a réteget kimondottá a feladatban: nevezze meg a gondolkodást, amelyet a kurzus tanít, mindenhol máshol engedje a segítséget, és a megnevezett réteget ellenőrizze segítség nélkül.
+
+Egy tanulmány most méri ezt az állítást ahelyett, hogy kimondaná. Négy intézményre kiterjedő értékelésben egy négy lépésből álló protokollról — MI-magyarázat, majd önállóan generált gyakorlófeladatok, majd független kísérlet — a részvétel utáni magabiztosság a problémák egyedüli megoldásában a magyarázat észlelt értékét (r_s = 0.37) és a megismételt gyakorlásét (r_s = 0.35) követte, míg a MI használatának gyakorisága semmilyen összefüggést nem hordozott (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul és mtsai, 2026]]). A gyakoriságot olyan változóként kezelje, amelyre nem tud hatni. Amit meg tud határozni, az a sorrend: mit tesz a MI először, mit kell a diáknak segítség nélkül megkísérelnie, és mit ellenőriznek utána.
 
 ### „A gyorsabb befejezés hatékonyabb tanulást jelent.”
 

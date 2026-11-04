@@ -1,7 +1,7 @@
 ---
 title: "Comment aborder les idées fausses courantes sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-04T05:29:47-05:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-04T02:27:56-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -90,6 +90,8 @@ La détection répond à une autre question que celle qui importe. Une externali
 ### « Le problème, c'est la fréquence d'utilisation. »
 
 La fréquence ne vous dit rien. Un étudiant peut utiliser l'IA quotidiennement pour comparer des explications, générer des exercices et obtenir de la rétroaction tout en restant cognitivement actif, et un autre peut l'utiliser une fois pour produire l'argument que le travail existait à susciter. La question qui les départage est la couche de pensée déléguée et le point de savoir si l'étudiant sait encore accomplir cette couche seul, distinction que [[student-ai-interaction|student-AI interaction]] documente en détail. La correction grammaticale est très loin des affirmations, des preuves et des contre-arguments d'une dissertation. Le geste consiste à rendre la couche explicite dans la tâche : nommez la pensée que le cours enseigne, autorisez l'aide partout ailleurs, et vérifiez la couche nommée sans aide.
+
+Une étude mesure désormais cette affirmation au lieu de l'asséner. Dans une évaluation menée dans quatre établissements sur un protocole en quatre étapes — explication par l'IA, puis problèmes d'entraînement générés par l'étudiant lui-même, puis une tentative autonome — la confiance, après l'intervention, dans sa capacité à résoudre seul des problèmes suivait la valeur perçue de l'explication (r_s = 0.37) et de la pratique répliquée (r_s = 0.35), tandis que la fréquence d'utilisation de l'IA n'entretenait aucune association (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Traitez la fréquence comme une variable sur laquelle vous ne pouvez pas agir. Ce que vous pouvez spécifier, c'est la séquence : ce que l'IA fait d'abord, ce que l'étudiant doit tenter sans aide, et ce qui est vérifié ensuite.
 
 ### « Un achèvement plus rapide signifie un apprentissage plus efficace. »
 
