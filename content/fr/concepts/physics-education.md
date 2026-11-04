@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement de la physique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-04T05:36:53-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/physics-education
-source_updated: "2026-11-01T08:00:00-05:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,6 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 ---
-
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'enseignement de la physique (Physics Education)** — l'étude de la manière dont les étudiants apprennent la physique et de la façon de l'enseigner plus efficacement, englobant le tutorat par IA [[intelligent-tutoring|socratique]], l'évaluation de la [[computational-thinking|pensée informatique]], la [[trust|confiance]] des étudiants et les modes d'adoption de l'IA, la validité de la notation automatisée, ainsi que la formation des enseignants. Les articles sur l'enseignement de la physique de cette base de connaissances se distinguent par leur spécificité disciplinaire : ils explorent la manière dont les outils d'IA interagissent avec les exigences cognitives propres au raisonnement physique — la pensée visuo-spatiale, la modélisation mathématique, la pensée abstraite des systèmes et la [[problem-solving|résolution de problèmes]] en plusieurs étapes.
@@ -48,6 +47,11 @@ La [[research-methods-aied|recherche]] en enseignement de la physique est devenu
 **Le tutorat d'IA socratique en physique** est le thème le plus développé, avec trois articles déployant un dialogue socratique propulsé par des [[llm]] dans de véritables cours de physique. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et coll.]]** ont démontré qu'une interaction socratique soutenue avec un chatbot d'IA améliore spectaculairement la spécificité des questions en mécanique introductive, auprès de 150 étudiants de STIM inscrits à un cours en présentiel. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi et Rebello]]** ont construit une taxonomie ascendante de 357 catégories de discours étudiant issues du même déploiement, révélant que les tours métaprocéduraux — où les étudiants cèdent le contrôle stratégique au tuteur — dominent les interactions étudiantes. Ces deux travaux contribuent à la recherche plus large sur la [[socratic-method|méthode socratique]] et se rattachent aux cadres d'[[intelligent-tutoring|IA de tutorat]] et d'[[intelligent-tutoring|tutorat intelligent]].
 
 **L'adoption de l'IA par les étudiants et la confiance** explore la manière dont les étudiants en physique utilisent réellement les outils d'IA. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad et Bentley]]** ont mis en évidence un écart de 50 points entre usage et confiance : 91% utilisent l'IA pour leurs travaux de cours mais seuls 41% lui font confiance, les étudiants identifiant spontanément des modes de défaillance de l'IA dans le raisonnement visuo-spatial et les circuits électriques. **[[becker-chatgpt-typology-physics-2026|Becker et coll.]]** ont élaboré une typologie à deux profils — 70% d'« utilisateurs pragmatiques » et 30% de « non-utilisateurs sceptiques » — à partir de 1 189 réponses à un questionnaire, montrant que les deux groupes effectuent des arbitrages calculés entre risque et utilité. Ces études font progresser la recherche sur l'[[ai-literacy|IA littératie]] et la [[trust-calibration|calibration de la confiance]], et mettent au défi les [[educational-policy-ai|politiques d'IA]] uniformes.
+
+**Un usage structuré, pas seulement une adoption.** Les études d'adoption ci-dessus décrivent qui utilise l'IA et à quel point il lui fait confiance. Un autre courant de recherche demande ce que la conception pédagogique devrait faire de cet usage, et les données probantes multi-établissements à ce sujet étaient rares. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et coll. (2026)]]** ont appliqué le protocole en quatre étapes Physics AI-Replication dans 11 sections d'algèbre et de calcul différentiel de quatre établissements : identifier un problème difficile, obtenir une explication et une solution de l'IA, demander des exercices similaires, puis les résoudre de façon autonome avant de vérifier.
+
+Les perceptions étaient cohérentes d'un campus à l'autre. Sur 358 étudiants inscrits, 235 ont été interrogés (65.6%); 90.9% attribuaient au protocole une meilleure compréhension conceptuelle et 97.7% jugeaient utile la pratique répliquée; la confiance après l'engagement s'élevait en moyenne à 7.18 sur une échelle de 1–10, avec des moyennes par établissement de 6.86 à 7.52; et le thème qualitatif dominant se maintenait entre 60.6% et 67.6% sur chaque site. La confiance suivait ces deux bénéfices du protocole (r_s = 0.37 et 0.35) mais pas la fréquence d'usage de l'IA (r_s = 0.02) — la variable que mesure habituellement la littérature sur l'adoption.
+
 **Les croyances épistémologiques suivent la préférence de comportement du chatbot.** Dans un grand cours de calcul, 52% des étudiants préféraient un chatbot débutant par une enquête guidée et ne répondant que sur demande, et ils obtenaient des scores plus élevés au total EBAPS (p = 0.029) — des différences qui ne résistaient pas à une correction de Bonferroni, ce qui rend l'association suggestive plutôt que concluante ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar et Mamidpalliwar (2026)]]).
 
 L'acceptation est désormais modélisée plutôt que décrite : une étude par équations structurelles portant sur 340 étudiants de classes de physique de dixième année à Hangzhou explique 58% de la variance de l'intention d'utiliser DeepSeek. Son résultat notable est que les croyances sur la physique (valeur d'utilité, attente de réussite, coût) prédisent l'utilité perçue et la facilité perçue de l'outil, et pas seulement l'intention des étudiants de s'en servir ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).

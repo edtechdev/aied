@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage actif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:16:10-05:00"
+updated: "2026-11-04T05:36:53-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-11-01T09:08:01-05:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,6 @@ ai_assist:
     date: "2026-10-15"
     agent: hermes-agent
 ---
-
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'apprentissage actif** — des approches pédagogiques qui amènent les élèves à faire des choses et à réfléchir à ce qu'ils font, plutôt qu'à recevoir passivement de l'information. Dans le domaine de l'IA en éducation, la recherche sur l'apprentissage actif examine à la fois la manière dont les outils d'IA peuvent soutenir les pédagogies actives et la façon dont l'engagement actif avec les outils d'IA — plutôt que la consommation passive — influe sur les résultats d'apprentissage.
@@ -55,6 +54,8 @@ L'apprentissage actif permis par l'IA se manifeste sous de multiples formes dans
 - **L'enquête soutenue par l'IA n'est pas automatiquement de niveau supérieur.** Une quasi-expérimentation menée auprès de 120 élèves de 8e année a montré que l'[[inquiry-based-learning|apprentissage par l'enquête]] soutenu par l'IA améliorait la performance créative en mathématiques et les attitudes envers les mathématiques, mais ne produisait aucun gain significatif en [[problem-solving|résolution de problèmes]] critique — une mise en garde contre la lecture des gains de créativité et d'affect comme des preuves d'un raisonnement plus profond ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
 - **L'accès n'est pas la structure.** Dans une tâche de révision en ingénierie de la construction, le même système augmenté par la recherche documentaire a obtenu 12.41 sur des items ouverts lorsqu'il était déroulé selon une structure d'[[prompt-engineering|sollicitation]] en cinq étapes, contre 10.45 sans elle, tandis qu'une étude par diapositives obtenait 9.68, et le rappel à choix multiples ne différait pas ([[instructional-guidance-genai-learning|Hou et coll. (2026)]]). Une révision par IA non sollicitée ne surpassait pas les diapositives, de sorte que le gain tient à la structure de l'interaction plutôt qu'à l'accès au modèle.
+
+- **La réplication est un ingrédient actif distinct.** Dans le protocole Physics AI-Replication, les étudiants obtiennent une explication de l'IA pour un problème difficile, demandent un ou deux problèmes similaires, puis les résolvent de façon autonome avant de vérifier. Dans 11 sections introductives de physique de quatre établissements américains, 90.9% des 231 répondants attribuaient au protocole une meilleure compréhension conceptuelle et 97.7% des 213 jugeaient utile la pratique répliquée, les deux corrélant à r_s = 0.58 ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et coll., 2026]]). Le mécanisme du côté de l'apprenant est ce qui manquait à la page : 18.7% des réponses ouvertes décrivaient la nécessité de comprendre la structure d'un problème pour en générer un similaire. La confiance ensuite suivait ces deux bénéfices (r_s = 0.37 et 0.35), non la fréquence d'usage (r_s = 0.02).
 
 - **L'apprentissage actif exploratoire et fondé sur la simulation.** [[supplynet-visual-exploratory-learning|SupplyNet]] utilise une simulation multi-agents contextuelle fondée sur un LLM pour soutenir l'apprentissage exploratoire visuel dans l'éducation à la chaîne logistique, associant une vue réseau interactive à une chronologie ramifiée de scénarios « et si » afin que les apprenants suivent la dynamique causale plutôt que de consommer un contenu abstrait. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] et la [[genai-assisted-problem-posing-physics-2026|formulation de problèmes en physique]] mettent pareillement en avant une exploration pilotée par l'apprenant.
 

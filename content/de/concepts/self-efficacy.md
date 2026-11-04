@@ -1,7 +1,7 @@
 ---
 title: Selbstwirksamkeit
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-29T04:19:20-04:00"
+updated: "2026-11-04T05:44:54-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-28T01:06:31-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,6 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 ---
-
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
 > **Selbstwirksamkeit** — die Überzeugung einer lernenden Person, fähig zu sein, eine Aufgabe erfolgreich auszuführen oder ein Ziel zu erreichen. Gestützt auf die sozialkognitive Theorie (Bandura) prägt Selbstwirksamkeit Motivation, Anstrengung, Beharrlichkeit und [[student-engagement|Engagement]] im Lernen. In [[ai-education|KI in der Bildung]] ist Selbstwirksamkeit in zweierlei Hinsicht bedeutsam: KI-Werkzeuge können Vertrauen und Autonomie der Lernenden aufbauen (etwa durch [[feedback|Feedback]] und [[scaffolding|Scaffolding]]), und die KI-Selbstwirksamkeit der Lernenden — ihr Vertrauen im Umgang mit KI-[[ai-technologies|Technologien]] — beeinflusst, wie wirksam sie sich mit KI einlassen, einschließlich wie KI-bezogenes Wissen in berufsrelevante Bereitschaft übersetzt.
@@ -71,10 +70,21 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - **Vertrauen kann sich gegenläufig zum Verhalten bewegen.** Im wettbewerbsorientierten Programmieren berichteten Studierende, die mit dem Wettbewerb aufhörten, *höheres* theoretisches Vertrauen als ihre aktiven Peers, zeigten aber signifikant schwächere Upsolving- und Peer-Kreis-Gewohnheiten (p < .001), sodass ein Selbstwirksamkeitssignal allein ein Frühwarnsystem in die Irre führen wird ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **Vertrauen kann steigen, während die Fähigkeit dahinter sinkt.** Unter Universitätsstudierenden hob häufige generative-KI-Nutzung empfundenes Vertrauen und empfundene Effizienz *und* erhöhte technologische Abhängigkeit bei denselben Lernenden, sodass ein während KI-gestützter Arbeit erhobener Selbstwirksamkeitswert in dem Moment hoch lesen kann, in dem die zugrunde liegende Fähigkeit erodiert ([[genai-performance-vs-learning|Yan et al., 2025]]).
 - **KI-Nutzung ritt mit Vertrauen, aber Vertrauen sagte Anwesenheit nicht vorher.** In einer PLS-SEM-Befragung von 291 portugiesischen Studierenden war allgemeine KI-Nutzung positiv mit Selbstwirksamkeit für unabhängiges Lernen verbunden (β = 0.266, f² = 0.106). Das Konstrukt wurde als formativer zweitordnender Composite der vier Quellen Banduras modelliert — Mastery-Erfahrung, stellvertretende Erfahrung, verbale Überzeugung und emotionaler Zustand. Selbstwirksamkeit sagte ihrerseits Absentismus nicht vorher (β = −0.068, p = 0.276), obwohl KI-Nutzung separat mit höherem Absentismus verbunden war (β = 0.148, f² = 0.029). Der Pfad KI-Nutzung → Selbstwirksamkeit war unter männlichen Studierenden signifikant stärker als unter weiblichen (β = 0.449 gegenüber 0.159; Δβ = −0.289, p = 0.013), unter partieller Messinvarianz ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
+
+- **Vertrauen nach einem strukturierten Protokoll folgte der Struktur, nicht der Dosis.** Das Vertrauen nach dem Protokoll, ähnliche Probleme selbstständig zu lösen, lag im Mittel bei 7.18 auf einer Skala von 1–10 (σ = 1.62, n = 217), wobei die institutionellen Mittelwerte über vier Standorte nur von 6.86 bis 7.52 reichten. Es folgte dem wahrgenommenen Nutzen der KI-Erklärung (r_s = 0.37) und der nachgebauten Übung (r_s = 0.35), schwächer dem früheren KI-Vertrauen (r_s = 0.20), und nicht der Nutzungshäufigkeit (r_s = 0.02, p = 0.749) oder dem selbstberichteten GPA (r_s = 0.13, p = 0.064) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Das ist ein Weg der Beherrschung — erzeugte Schwierigkeit, dann ein eigenständiger Versuch — und nicht mehr Zeit im Werkzeug, eine Unterscheidung, die der Seite fehlte. Die Studie erfasste kein Lernoutcome, begrenzt also, was Studierende glaubten.
+
 - **Offene KI-Designaufgaben sortieren Studierende nach vorher bestehendem Vertrauen.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] fanden, dass Leistungs-Selbstachtung in einem Kurs, in dem 345 Studierende je einen konversationellen Agenten bauen, der eine Peer-Person lehrt, mit Extraversion korrelierte (r = 0.262, p < 0.001), und dass weibliche Studierende signifikant geringere Selbstachtung berichteten als männliche Peers (Kruskal-Wallis H(2) = 9.87, p < .005). Die Designfolgerung, die die Autoren ziehen: Offene, konversationelle kreative Aufgaben begünstigen die bereits Zuversichtlichen, deshalb sollten „offene Designaufgaben ausreichendes Gerüst enthalten, um Leistungsselbstachtung gerecht über alle Persönlichkeitstypen hinweg aufzubauen" —, eine Vorsicht, die besagt, dass von Studierenden geschaffene Artefaktaufgaben Vertrauenslücken weiten statt schließen können, wenn Gerüstbau nicht absichtsvoll ist.
 - **Selbstwirksamkeit interagiert mit Formatpräferenz, nicht nur mit Ergebnissen.** Eine ausgeglichene Within-Subject-Studie (97 Neuntklässlerinnen und Neuntklässler; inhaltsgleiche tutor- gegenüber papierbasierte Übung von Graphinterpretation und -konstruktion) fand, dass tutorbasierte Übung Papier insgesamt besiegte (t(62.30) = 2,38, p = .020), und — kontraintuitiv — geringere Baseline-Selbstwirksamkeit *größere* Zugewinne in beiden Formaten vorhersagte (t(98.40) = −2,14, p = .035). Die interessante Struktur ist eine signifikante Drei-Wege-Interaktion Selbstwirksamkeit × Präferenz × Format (t(99.84) = −2,58, p = .011): Unter Studierenden mit geringer Selbstwirksamkeit sagt Präferenz gegenüber dem Tutor größere Zugewinne *speziell in Tutorübung* vorher. Ein ernüchternder Nullwert für die Annahme, dass Tutorübung sich motivational selbst verstärke: ITS-Übung verbesserte die Selbstwirksamkeit nach dem Training nicht signifikant gegenüber Papier —, zurückgeführt auf die kurze Intervention (zwei ~40-minütige Sitzungen). Das praktische Signal: Baseline-Selbstwirksamkeit und Technologiepräferenz sind günstige, handlungsleitende Eingaben für Formatzuweisung; Tutorübung nutzt bestehende Präferenz, statt sie zu erzeugen. ([[cen-self-efficacy-favorability-2026]])
 
 - **Wissen erreichte Intention über Vertrauen, Angst und Selbstwirksamkeit.** In einem PLS-SEM-Modell mit 526 Designstudierenden war wahrgenommenes AIGC-Wissen positiv mit Vertrauen, Selbstwirksamkeit und Nutzungsintention und negativ mit Angst verbunden, und Vertrauen, Angst und Selbstwirksamkeit trugen jeweils einen signifikanten indirekten Pfad von Wissen zu Intention ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Angst lag auf dem Pfad, statt ihn zu blockieren.
+
+- **„Geringes Vertrauen ins Schreiben zeigt sich als Bitte um Hilfe."** Es zeigt sich als Bitte um Prosa. In einer instrumentierten Essay-Studie sagte die Self-Efficacy for Writing Scale die Gesamtzahl der Anfragen negativ vorher (**-0.258**, SE **0.075**, p < 0.001), und der Zusammenhang lief über Translating (**-0.949**) und Reviewing (**-0.588**) statt über Planning (**-0.204**) oder die Delegation des ganzen Essays (**-0.016**). Studierende, die an ihrem Schreiben zweifelten, baten das Modell, Text zu erzeugen und zu korrigieren; sie fragten es nicht, was sie argumentieren sollten. [[jelson-students-chatgpt-essay-writing-2026|Selbstwirksamkeit sagte die Inanspruchnahme vorher, und die Inanspruchnahme hatte eine bestimmte Form]].
+
+**Vertrauen schützt Lernende nicht davor, einem Werkzeug zu sehr zu vertrauen.** Unter 300 Universitätsstudierenden fanden [[kim-overtrust-ai-literacy-2026|Kim, Kim und Zhang (2026)]] akademische Selbstwirksamkeit mit KI-Übervertrauen assoziiert (r = 0.230) und es in einem seriellen Mediationsmodell vorhersagend bei B = 0.3901 (95%-KI [0.2190, 0.5612]), was die Hypothese der Autorinnen und Autoren umkehrt. Die produktive Form von Vertrauen ist Vertrauen in das eigene Urteil, und genau das fehlt einem hohen Übervertrauenswert zufolge.
+
+- **Vertrauen erreicht Übernahme teilweise über Kompetenz.** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] testete eine Sequenz an 622 Studierenden in der Türkei. KI-Selbstwirksamkeit sagte die Akzeptanz von KI vorher (B = 0.43, R² = 0.29), und [[ai-literacy|KI-Kompetenz]] trug einen Teil dieses Zusammenhangs (indirektes B = 0.15, 95%-KI [0.12, 0.19]), ohne ihn ganz zu absorbieren. Vertrauen muss auch als Prädiktor der Nutzungsaufnahme veranschlagt werden, nicht nur der Fähigkeit. Das Design ist querschnittlich ohne demografische Kontrollen, sodass Richtung und mediierter Anteil Assoziationen statt Effekte sind.
+
+- **Verhaltensspuren können das Signal tragen, aber die Labels setzen die Obergrenze.** Eine Pipeline über zwei Universitäten erkannte geringe Selbstwirksamkeit aus Interaktionsspuren; Labels aus Survey-Anlässen schlugen eine Aufteilung zur Semestermitte, und die MSLQ-Subskala allein labelte so gut wie das vollständige Instrument ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -120,3 +130,7 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - [[ai-speaking-practice-communicative-readiness-2026]] — Sprech-Selbstwirksamkeit kehrt den Angstpfad von KI-gestützter Übung zu Bereitschaft um
 - [[faculty-ai-well-being-social-supports-2026]] — Fakultäts-SEM: technologische Selbstwirksamkeit als schwacher Prädiktor von KI-Wohlbefinden
 - [[cen-self-efficacy-favorability-2026]] — Selbstwirksamkeit und Präferenz prägen das Lernen aus Tutoring-Systemen und Papierübung (Cen et al. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Die Self-Efficacy for Writing Scale sagte mehr Translating- und Reviewing-Anfragen vorher, aber nicht mehr Planning oder Delegation des ganzen Essays (Jelson et al. 2026)
+- [[somny-ml-self-efficacy-interaction-traces-2026]] — Selbstwirksamkeitsüberzeugung mit maschinellem Lernen aus Interaktionsspuren von Lernenden in technologiegestütztem Lernen messen
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — KI-Selbstwirksamkeit → KI-Kompetenz → KI-Akzeptanz, mit gemessenem wissensvermitteltem Anteil (İşbulan et al. 2026)
+- [[kim-overtrust-ai-literacy-2026]] — Akademische Selbstwirksamkeit sagte mehr KI-Übervertrauen voraus statt weniger

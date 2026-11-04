@@ -1,7 +1,7 @@
 ---
 title: 主动学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-04T05:43:55-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,6 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 ---
-
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
 > **主动学习（Active Learning）** — 让学生做事并思考自己所作所为的教学方法，而非被动接收信息。在教育 AI 领域，主动学习研究既考察 AI 工具如何支持主动学习教学法，也考察与 AI 工具的主动参与——而非被动消费——如何影响学习结果。
@@ -50,6 +49,10 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 
 - **AI 支持的探究并非自动是更高阶的。** 一项对 120 名八年级学生的准实验发现，AI 支持的 [[inquiry-based-learning|探究式学习]]提高了创造性数学表现与对数学的态度，但在批判性 [[problem-solving]] 上没有产生显著增益——这是对把创造性与情感增益读作更深层推理证据的告诫（[[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]）。
 
+- **可获得性不等于结构。** 在一项建筑工程审阅任务中，同一套检索增强系统在五步 [[prompt-engineering|提示]]结构下于开放式题目上得分 12.41，而无此结构时为 10.45，基于幻灯片的研习得分 9.68，多选题回忆则无差异（[[instructional-guidance-genai-learning|Hou 等人（2026）]]）。未经该结构的 AI 审阅并未胜过幻灯片，因此增益来自互动的结构，而非模型的可得性。
+
+- **复现是一种独立的活性成分。** 物理 AI 复现协议让学生获得 AI 对一道难题的解释，索取一两道类似的问题，然后在核对之前独立解出它们。在四所美国机构的 11 个入门物理班次中，231 名受访者中的 90.9% 认为它带来了更好的概念理解，213 人中的 97.7% 认为复现的练习有帮助，两者在 r_s = 0.58 上相关（[[paul-pair-framework-genai-active-learning-physics-2026|Paul 等人，2026]]）。学习者一侧的机制正是本页所缺的：18.7% 的开放式回答描述了必须理解一道题的结构才能生成类似题目。此后的信心追踪的是那两项收益（r_s = 0.37 与 0.35），而不是使用频率（r_s = 0.02）。
+
 - **探究与基于模拟的主动学习。** [[supplynet-visual-exploratory-learning|SupplyNet]] 使用情境化多智能体 LLM 模拟支持供应链教育中的视觉探究式学习，将互动式网络视图与分支式的"假如"时间线配对，使学习者追踪因果动力学而非消费抽象内容。[[curiobot-llm-tutoring-exploratory-learning|Curiobot]] 与 [[genai-assisted-problem-posing-physics-2026|物理中的问题提出]]同样把学习者驱动的探究置于前台。
 - **用于主动复习的结构化对话工作流。** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] 把课后复习组织为三个阶段——Recognize（就地标记困惑）、Resolve（澄清）与 Consolidate（教学相长）——表明教学相长促使学习者表达并暴露概念缺口，且情境扎根的 AI 在定向支持上优于通用 AI。教学相长具体体现了 [[learning-by-teaching]]。
 - **主动学习作为项目制、社群结构。** [[academic-league-of-ai-2026|The Academic League of AI]] 围绕竞赛队、学习小组与 AI 促社会公益的项目组织课外 AI 教育，通过民主的学生治理而非自上而下的课程体现主动与 [[project-based-learning|项目制学习]]。
@@ -57,6 +60,8 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 - **把构建辅导者本身当作主动学习的任务。** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]颠倒了惯常的 AI 辅导者安排：在一门 700 名学生的软件课程中，345 名学生各自设计一个对话式智能体，向同伴讲授三种设计模式——于是主动学习的工作就是该智能体的构建：预判用户需求、把抽象概念译成可教的片段。学生珍视开放式设计自由（22.3% 为最高频正面主题），但最高频的抱怨是指示不清（23.7%）；作者告诫，无对照组、志愿者样本的设计只支持关于参与的论断。
 - **围绕模型的错误设计。** 一个五步序列（独立分析、一个标准化的 ChatGPT 提示、对输出的批判性评价、修改、课堂讨论）之所以奏效，是因为 AI 可预见地犯错：ChatGPT 把一首歌歌词中的无弹性需求误标为"完全弹性"，这一差异教会学生验证输出（[[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]）。
 - **一个经过教学法设计的 AI 辅导者可以胜过主动学习课堂本身。** 在哈佛大学入门物理课程中的一项交叉 [[rct]] 把一个定制 AI 辅导者与该课程自身的课堂主动学习课相比——是同一套基于研究的教学法，而非讲座——发现用更少的时间学到显著更多：后测中位数 4.5 对 3.5，线性回归效应量 0.63，任务用时中位数 49 分钟对课堂 60 分钟（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]）。作者把功劳归于设计而非媒介，因为该辅导者被工程化以承载与课堂相同的七项基于研究的实践，只增加了按需的个性化反馈与自主节奏。
+
+- **一次接触可能压制它本应提升的参与。** 在一项针对 759 名 MBA 学生的预注册田野实验中，安排课前与一个就对立观点进行辩论的语音 AI 伙伴演练，在第二次指定使用之后使课堂自愿发言增加约 31%。在其所准备的课次中没有任何变化，而仅第一次使用之后参与反而下降（[[assigned-ai-preclass-student-engagement-2026|Wang 等人（2026）]]）。这里的剂量是设计参数，而非实现细节。
 
 ### ICAP 框架作为组织透镜
 
@@ -129,3 +134,5 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 - [[academic-league-of-ai-2026]] — Academic League of AI：基于项目的主动学习
 - [[mujib-ai-ibl-creative-math-2026]] — AI 支持的探究式学习与创造性数学表现
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征与 TTS 对话形式的交互
+- [[instructional-guidance-genai-learning]] — 有提示与无提示的 AI 复习：推动开放式评分的是结构，而非模型可及性
+- [[assigned-ai-preclass-student-engagement-2026]] — 课前 AI 预演在第二次使用后使课堂参与度提高 31%，而非第一次

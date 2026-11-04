@@ -1,7 +1,7 @@
 ---
 title: 능동적 학습
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-04T05:43:55-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,6 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 ---
-
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
 > **능동적 학습** — 학생이 정보를 수동적으로 받기보다 무언가를 하고 자신이 하는 것에 대해 생각하도록 참여시키는 교수 접근입니다. AI 교육에서 능동적 학습 연구는 AI 도구가 능동적 학습 교수법을 어떻게 뒷받침할 수 있는지, 그리고 AI 도구와의 능동적 참여 — 수동적 소비가 아니라 — 가 학습 결과에 어떻게 영향을 주는지를 모두 살핍니다.
@@ -46,6 +45,10 @@ AI가 가능하게 하는 능동적 학습은 이 문서고에서 여러 형태�
 
 - **AI가 뒷받침하는 탐구가 자동으로 상위 질서인 것은 아니다.** 120명의 8학년 학생을 대상으로 한 준실험은 AI가 뒷받침하는 [[inquiry-based-learning|탐구 기반 학습]]이 창조적 수학 수행과 수학에 대한 태도를 높였으나, 비판적 [[problem-solving]]에서는 유의한 향상을 만들지 못했음을 발견했습니다 — 창의성과 정서적 향상을 더 깊은 추론의 증거로 읽는 것에 대한 경고입니다([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
+- **접근은 구조가 아닙니다.** 건설공학 복습 과제에서, 동일한 검색 증강 시스템은 다섯 단계의 [[prompt-engineering|프롬프팅]] 구조를 거쳤을 때 개방형 문항에서 12.41을 기록했고, 그것이 없을 때는 10.45였으며, 슬라이드 기반 학습은 9.68이었고, 다지선다 회상에서는 차이가 없었습니다([[instructional-guidance-genai-learning|Hou et al. (2026)]]). 프롬프트 없는 AI 복습은 슬라이드를 능가하지 못했으므로, 이득은 모델 접근이 아니라 상호작용의 구조에서 비롯됩니다.
+
+- **복제는 별개의 능동적 구성요소입니다.** Physics AI-Replication 프로토콜은 학생들이 어려운 문제에 대한 AI의 설명을 받고, 유사한 문제를 하나나 둘 요청하고, 확인하기 전에 그것을 독립적으로 해결하게 합니다. 미국의 네 기관에 있는 11개 물리 입문 반에서 231명의 응답자 중 90.9%가 더 나은 개념적 이해를 인정했고 213명 중 97.7%가 복제된 연습이 도움이 되었다고 보았으며, 둘은 r_s = 0.58로 상관되었습니다([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). 학습자 측 기제가 바로 이 문서에 없던 것입니다. 개방형 응답의 18.7%가 유사한 문제를 만들려면 문제의 구조를 이해해야 한다고 기술했습니다. 그 후의 자신감은 그 두 이점(r_s = 0.37 및 0.35)을 따랐고 사용 빈도(r_s = 0.02)는 따르지 않았습니다.
+
 - **탐구적이고 시뮬레이션 기반의 능동적 학습.** [[supplynet-visual-exploratory-learning|SupplyNet]]은 공급망 교육에서 시각적 탐구적 학습을 뒷받침하기 위해 상황 인식 다중 에이전트 LLM 시뮬레이션을 사용하여, 상호작용적 네트워크 뷰와 분기하는 '만약' 타임라인을 짝지어 학습자가 추상적 콘텐츠를 소비하기보다 인과 역학을 추적하게 합니다. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]]와 [[genai-assisted-problem-posing-physics-2026|물리에서의 문제 제기]]는 마찬가지로 학습자 주도 탐구를 전면에 내세웁니다.
 
 - **능동적 복습을 위한 구조화된 대화 워크플로.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]]는 세 단계 — Recognize(제자리에서의 혼란 표시), Resolve(명확화), Consolidate(가르쳐 보기) — 를 중심으로 강의 후 복습을 구조화하여, 가르쳐 보기가 학습자에게 개념적 공백을 드러내게 하고, 표적화된 지원에 대해 맥락 기반 AI가 범용 AI보다 나음을 보여줍니다. 가르쳐 보기는 [[learning-by-teaching]]를 구현합니다.
@@ -57,6 +60,8 @@ AI가 가능하게 하는 능동적 학습은 이 문서고에서 여러 형태�
 
 - **모형의 실수 주변을 설계하라.** 다섯 단계 순서(독립적 분석, 표준화된 ChatGPT 프롬프트, 출력의 비판적 평가, 정제, 학급 토론)는 AI가 예측 가능하게 틀리기 때문에 효과가 있습니다. ChatGPT는 노래 가사에서 비탄력적 수요를 '완전 탄력적'이라고 잘못 표시하고, 그 불일치는 학생들에게 출력을 검증하는 법을 가르칩니다([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 - **교수법적으로 설계된 AI 튜터가 능동적 학습 교실 자체를 능가할 수 있다.** 하버드의 역학 입문 강좌에서 맞춤형 AI 튜터를 그 강좌 자체의 교실 내 능동적 학습 수업과 — 강의가 아니라 동일한 연구 기반 교수법과 — 대비한 교차 [[rct]]는 더 적은 시간에 유의하게 더 많은 학습을 발견했습니다. 사후 검사 중위수 4.5 대 3.5, 선형 회귀에 의한 효과 크기 0.63, 과제 시간 중위수 교실의 60분 대 49분([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). 저자들은 매체가 아니라 설계에 공을 돌립니다. 튜터가 학급과 동일한 일곱 가지 연구 기반 관행을 담도록 설계되었고, 요청에 따른 맞춤형 피드백과 자기 주도 속도만을 더했기 때문입니다.
+
+- **단 한 번의 노출은 높이려던 참여를 억제할 수 있습니다.** MBA 학생 759명을 대상으로 한 사전등록 현장 실험에서, 반대 논거를 펼치는 음성 기반 AI 파트너와의 수업 전 예습을 배정받으면 두 번째 배정 사용 이후 자발적 수업 내 기여가 약 31% 증가했습니다. 그것이 준비한 세션에서는 아무것도 달라지지 않았고, 첫 사용만으로는 참여가 오히려 떨어졌습니다([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). 여기서 용량은 구현 세부가 아니라 설계 매개변수입니다.
 
 ### 조직 렌즈로서의 ICAP 틀
 
@@ -128,3 +133,5 @@ AI가 가능하게 하는 능동적 학습은 이 문서고에서 여러 형태�
 - [[academic-league-of-ai-2026]] — Academic League of AI: 프로젝트 기반 능동적 학습
 - [[mujib-ai-ibl-creative-math-2026]] — AI가 뒷받침하는 IBL과 창조적 수학 수행
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — 학습자 특성 × TTS 대화 형식 상호작용
+- [[instructional-guidance-genai-learning]] — 촉진된 AI 복습 대 촉진되지 않은 AI 복습: 개방형 점수를 움직인 것은 모형 접근이 아니라 구조였다
+- [[assigned-ai-preclass-student-engagement-2026]] — 수업 전 AI 예행연습은 두 번째 사용 후 수업 내 참여를 31% 높였고, 첫 사용 후에는 아니었다

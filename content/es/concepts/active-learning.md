@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje activo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-26T21:37:50-04:00"
+updated: "2026-11-04T05:43:55-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,6 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 ---
-
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Aprendizaje activo** — enfoques didácticos que implican al estudiantado en hacer cosas y en pensar sobre lo que está haciendo, en lugar de recibir información de forma pasiva. En la IA en la educación, la investigación sobre el aprendizaje activo examina tanto cómo las herramientas de IA pueden apoyar las pedagogías de aprendizaje activo como de qué manera la implicación activa con las herramientas de IA —y no el consumo pasivo— afecta a los resultados de aprendizaje.
@@ -50,6 +49,10 @@ El aprendizaje activo habilitado por la IA se manifiesta en múltiples formas en
 
 - **La indagación apoyada por IA no es automáticamente de orden superior.** Un cuasiexperimento con 120 estudiantes de 8.º grado encontró que el [[inquiry-based-learning|aprendizaje basado en la indagación]] apoyado por IA elevó el desempeño matemático creativo y las actitudes hacia las matemáticas, pero no produjo ninguna ganancia significativa en la [[problem-solving]] crítica — una advertencia contra leer las ganancias de creatividad y afecto como evidencia de un razonamiento más profundo ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
+- **El acceso no es la estructura.** En una tarea de repaso de ingeniería de la construcción, el mismo sistema aumentado por recuperación obtuvo 12.41 en los ítems abiertos cuando se ejecutó mediante una estructura de [[prompt-engineering|prompting]] de cinco pasos, frente a 10.45 sin ella, mientras que el estudio basado en diapositivas obtuvo 9.68 y el recuerdo en preguntas de opción múltiple no difirió ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). El repaso con IA sin instrucciones no superó a las diapositivas, así que la ganancia se remonta a la estructura de la interacción y no al acceso al modelo.
+
+- **La replicación es un ingrediente activo distinto.** En el protocolo Physics AI-Replication, el estudiantado obtiene una explicación de la IA sobre un problema difícil, solicita uno o dos problemas similares y después los resuelve de forma independiente antes de comprobar. En 11 secciones introductorias de física de cuatro instituciones estadounidenses, el 90.9% de 231 encuestados atribuyó al protocolo una mejor comprensión conceptual y el 97.7% de 213 consideró útil la práctica replicada, correlacionándose ambas en r_s = 0.58 ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). El mecanismo del lado de quien aprende es lo que le faltaba a la página: el 18.7% de las respuestas abiertas describió tener que entender la estructura de un problema para poder generar uno similar. La confianza posterior siguió a esos dos beneficios (r_s = 0.37 y 0.35), no a la frecuencia de uso (r_s = 0.02).
+
 - **Aprendizaje activo exploratorio y basado en simulación.** [[supplynet-visual-exploratory-learning|SupplyNet]] utiliza una simulación contextual multiagente con LLM para apoyar el aprendizaje exploratorio visual en la educación sobre cadena de suministro, combinando una vista de red interactiva con una línea temporal ramificada de tipo «qué pasaría si», de modo que quien aprende rastrea dinámicas causales en lugar de consumir contenido abstracto. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] y [[genai-assisted-problem-posing-physics-2026|la formulación de problemas en física]] ponen igualmente en primer plano la exploración dirigida por quien aprende.
 
 - **Flujos de trabajo conversacionales estructurados para el repaso activo.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] estructura el repaso posterior a la clase en tres etapas —Reconocer (marcar la confusión in situ), Resolver (aclaración) y Consolidar (teach-back)— y muestra que el teach-back lleva a quien aprende a articular y revelar sus lagunas conceptuales, y que una IA anclada en el contexto supera a una IA de propósito general para el apoyo específico. El teach-back es una instancia del [[learning-by-teaching]].
@@ -63,6 +66,8 @@ El aprendizaje activo habilitado por la IA se manifiesta en múltiples formas en
 - **Diseñar en torno a los errores del modelo.** Una secuencia de cinco pasos (análisis independiente, un prompt estandarizado a ChatGPT, evaluación crítica de la salida, refinamiento y discusión en clase) funciona porque la IA se equivoca de forma predecible: ChatGPT etiqueta erróneamente la demanda inelástica de una letra de canción como «perfectamente elástica», y la discrepancia enseña al estudiantado a validar la salida ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 
 - **Un tutor de IA diseñado pedagógicamente puede superar al propio aula de aprendizaje activo.** Un [[rct]] cruzado en el curso introductorio de física de Harvard enfrentó un tutor de IA hecho a medida con las propias lecciones de aprendizaje activo del curso —la misma pedagogía basada en la investigación, no una clase magistral— y encontró un aprendizaje significativamente mayor en menos tiempo: mediana en la prueba posterior de 4,5 frente a 3,5, tamaño del efecto de 0,63 por regresión lineal, con una mediana de 49 minutos de tarea frente a 60 en clase ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Los autores atribuyen el resultado al diseño y no al medio, ya que el tutor se construyó para incorporar las mismas siete prácticas basadas en la investigación que la clase y solo añadió retroalimentación personalizada a demanda y la posibilidad de avanzar al ritmo propio.
+
+- **Una sola exposición puede suprimir la participación que pretende elevar.** En un experimento de campo prerregistrado con 759 estudiantes de MBA, el ensayo asignado antes de clase con un compañero de IA basado en voz que defendía la postura contraria elevó las contribuciones voluntarias en clase alrededor de un 31% tras un segundo uso asignado. Nada cambió en la sesión para la que preparaba, y la participación cayó tras un primer uso aislado ([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). La dosis es aquí un parámetro de diseño, no un detalle de implementación.
 
 ### El marco ICAP como lente organizadora
 
@@ -135,3 +140,5 @@ El aprendizaje activo es una de las palancas más fuertes sobre las [[learning-g
 - [[academic-league-of-ai-2026]] — Liga Académica de IA: aprendizaje activo basado en proyectos
 - [[mujib-ai-ibl-creative-math-2026]] — Aprendizaje basado en indagación con apoyo de IA y desempeño matemático creativo
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[instructional-guidance-genai-learning]] — Repaso con IA con instrucciones frente a sin instrucciones: la estructura, no el acceso al modelo, movió las puntuaciones en ítems abiertos
+- [[assigned-ai-preclass-student-engagement-2026]] — El ensayo previo a clase con IA elevó la participación en clase un 31% tras un segundo uso, no tras el primero

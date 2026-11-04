@@ -1,7 +1,7 @@
 ---
 title: Educação em física
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-04T05:43:55-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,6 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 ---
-
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Educação em física** — o estudo de como os estudantes aprendem física e de como ensiná-la de forma mais eficaz, abrangendo [[intelligent-tutoring|tutoria por IA]] socrática, avaliação de [[computational-thinking|pensamento computacional]], [[trust|confiança]] dos estudantes e padrões de adoção da IA, validade da correção automatizada e preparação de professores. Os artigos de educação em física desta base de conhecimento são notáveis por sua especificidade de domínio: eles exploram como as ferramentas de IA interagem com as demandas cognitivas únicas do raciocínio físico — pensamento visoespacial, modelagem matemática, pensamento abstrato de sistemas e [[problem-solving|resolução de problemas]] em múltiplos passos.
@@ -47,6 +46,11 @@ A [[research-methods-aied|pesquisa]] em educação em física tornou-se um campo
 **A tutoria socrática por IA em física** é o tema mais desenvolvido, com três artigos implantando diálogo socrático movido por [[llm|LLM]] em cursos reais de física. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et al.]]** demonstraram que a interação socrática sustentada com um chatbot de IA melhora dramaticamente a especificidade das questões em mecânica introdutória, com 150 estudantes de STEM num curso ao vivo. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi & Rebello]]** construíram uma taxonomia bottom-up de 357 categorias de discurso dos estudantes a partir da mesma implantação, revelando que os turnos meta-procedimentais — em que os estudantes cedem o controle estratégico ao tutor — dominam as interações dos estudantes. Ambos contribuem para a pesquisa mais ampla em [[socratic-method|método socrático]] e conectam-se a [[intelligent-tutoring|Tutoria por IA]] e a frameworks de [[intelligent-tutoring|tutoria inteligenta]].
 
 **A adoção da IA e a confiança dos estudantes** exploram como estudantes de física de fato usam as ferramentas de IA. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** encontraram uma lacuna confiança–utilidade de 50 pontos: 91% usam IA para o trabalho do curso, mas apenas 41% confiam nela, com os estudantes identificando espontaneamente modos de falha da IA no raciocínio visoespacial e em circuitos. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** desenvolveram uma tipologia de dois perfis — 70% \"Usuários Pragmáticos\" e 30% \"Não Usuários Céticos\" — a partir de 1.189 respostas de pesquisa, mostrando que ambos os grupos fazem compensações calculadas de risco-utilidade. Esses estudos avançam a pesquisa em [[ai-literacy|letramento em IA]] e [[trust-calibration|calibração da confiança]], e desafiam [[educational-policy-ai|políticas de IA]] de tamanho único.
+
+**Uso estruturado, e não apenas adoção.** Os estudos de adoção acima descrevem quem usa IA e quanto confia nela. Uma linha separada pergunta o que o desenho instrucional deve fazer com esse uso, e evidência multi-institucional sobre isso tem sido escassa. **[[paul-pair-framework-genai-active-learning-physics-2026|Paul et al. (2026)]]** executaram o protocolo Physics AI-Replication de quatro etapas em 11 turmas de álgebra e de cálculo em quatro instituições: identificar um problema difícil, obter uma explicação e uma solução da IA, pedir problemas de prática semelhantes e, em seguida, resolvê-los de forma independente antes de conferir.
+
+As percepções foram consistentes entre os campi. De 358 estudantes matriculados, 235 responderam à pesquisa (65.6%); 90.9% atribuíram melhora na compreensão conceitual e 97.7% consideraram a prática replicada útil; a confiança após a atividade teve média de 7.18 numa escala de 1–10, com médias institucionais de 6.86 a 7.52; e o tema qualitativo dominante ficou entre 60.6% e 67.6% em todos os campi. A confiança acompanhou esses dois benefícios do protocolo (r_s = 0.37 e 0.35), mas não a frequência de uso da IA (r_s = 0.02) — a variável que a literatura de adoção costuma medir.
+
 **Crenças epistemológicas acompanham a preferência por comportamento de chatbot.** Num grande curso de cálculo, 52% dos estudantes preferiram um chatbot que começa com investigação guiada e responde apenas quando solicitado, e eles pontuaram mais alto no total da EBAPS (p = 0,029) — diferenças que não sobreviveram a uma correção de Bonferroni, tornando a associação sugestiva, não conclusiva ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar e Mamidpalliwar (2026)]]).
 
 **A aceitação agora foi modelada, e não apenas descrita.** Um estudo de equações estruturais com 340 estudantes de turmas de física do 10º ano em Hangzhou explica 58% da variância na intenção de usar o DeepSeek. Seu resultado notável é que as crenças sobre física — valor de utilidade, expectativa, custo — predizem o quão útil e o quão fácil a ferramenta parece, e não apenas se os estudantes pretendem usá-la ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
@@ -65,6 +69,8 @@ A formulação de problemas transforma o estudante no autor do problema: 76% de 
 
 **Frameworks de desenho instrucional para a instrução aumentada por IA.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** propõem o framework **AIRIS** (Activate–Inquire–Reflect with Intelligent Support) — uma estrutura de três fases para o uso cognitivamente ativado da IA em física: os estudantes predizem e esboçam os resultados esperados antes da IA (Ativar), delegam à IA os passos computacionais e de representação enquanto comparam criticamente a saída com suas próprias predições (Investigar), e interpretam, verificam a consistência entre representações e refletem sobre o que a IA contribuiu depois (Refletir). Fundamentado em [[self-regulated-learning|aprendizagem autorregulada]], Teoria da [[cognitive-offloading|Carga Cognitiva]], representações externas múltiplas e [[human-ai-collaboration|colaboração humano–IA]], ele enquadra o desafio central como [[learning-design|desenho instrucional]], e não como trapaça ou escolha de ferramenta, e pede experimentos de \"condição de retirada\" que testem se a aprendizagem sobrevive à remoção do apoio da IA.
 - **Ensine a crítica das soluções da IA com uma rubrica.** Vinte e quatro grupos de laboratório de física introdutória que criticaram uma solução de IA com reflexão guiada pela rubrica MAPS identificaram integração numérica pulada, notação indefinida e gráficos qualitativos em vez de quantitativos, enquanto grupos que apenas resolveram um problema relacionado aceitaram a saída polida ou a rejeitaram a partir de suas próprias concepções errôneas ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+
+- **As preconcepções sobre energia decidem se a IA se torna conversa conceitual ou consulta.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] conduziram catorze grupos de professores em formação por formas e conservação de energia no Go-Lab com um chatbot metacognitivo sob demanda. Grupos cujos membros responderam de forma diferente a um pré-teste de energia fizeram os mesmos tipos de perguntas que grupos pareados, mas colocaram a negociação de consultas à IA no centro de sua rede de interação e mantiveram uma avaliação positiva ou neutra de suas respostas, enquanto os grupos pareados seguiram um caminho linear de consultar e depois ler. A confusão conceitual foi de f = 87 contra 36, com 88.9% contra 57.1% de cobertura de casos.
 
 **Vídeo generativo como dados experimentais sintéticos.** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] geram cenários em vídeo com PixVerse, Grok Imagine e Pippit para três regimes de força resistiva — atrito constante, arrasto linear e arrasto quadrático —, extraem a cinemática com a ferramenta [[open-source|Tracker]] e ajustam os modelos analíticos por mínimos quadrados não lineares. Os dados sintéticos concordaram com as equações clássicas do movimento e recuperaram parâmetros fisicamente significativos, e o achado prático recorrente é que a especificidade do prompt governa a coerência física: descrições mais detalhadas produziram dinâmicas mais coerentes. O fluxo de trabalho espelha a prática experimental desde a construção do modelo até a validação [[quantitative-research|quantitativa]], e reformula a [[prompt-engineering|formulação do prompt]] como um estágio do desenho experimental, e não como uma conveniência. O que ele ainda não demonstra é aprendizagem: a validação aqui é a concordância entre o movimento gerado e os modelos dos autores, e não o julgamento de mensuração dos estudantes, de modo que a abordagem herda a questão de [[assessment-validity|validade]] que qualquer dado gerado usado como evidência precisa responder.
 
@@ -158,3 +164,4 @@ A educação em física se situa dentro do domínio mais amplo de [[stem-educati
 - [[ai-university-physics-education-review-2026]] — Inteligência artificial na educação em física universitária: uma revisão sistemática de estudos empíricos
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Treinamento estruturado em GenAI para a revisão de problemas de física: um ensaio controlado randomizado (Huang et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Um tutor bem construído superou a aprendizagem ativa em sala de aula
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — As preconcepções sobre energia decidiram onde a negociação de consultas à IA se situou na rede do grupo: um hub de integração quando os membros discordavam, um caminho linear de consultar e depois ler quando concordavam (Wang et al. 2026)

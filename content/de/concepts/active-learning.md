@@ -1,7 +1,7 @@
 ---
 title: Aktives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T23:30:00-04:00"
+updated: "2026-11-04T05:43:55-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,6 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 ---
-
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
 > **Aktives Lernen** — Unterrichtsansätze, die Lernende einbeziehen, Dinge zu tun und über das nachzudenken, was sie tun, statt passiv Information zu empfangen. In KI in der Bildung untersucht die Forschung zu aktivem Lernen sowohl, wie KI-Werkzeuge aktive Lernpädagogiken unterstützen können, als auch, wie aktives Engagement mit KI-Werkzeugen — statt passiven Konsums — Lernresultate beeinflusst.
@@ -50,6 +49,10 @@ KI-ermöglichtes aktives Lernen tritt in dieser Wissensbasis in mehreren Formen 
 
 - **KI-unterstützte Erkundung ist nicht automatisch höherstufig.** Ein Quasi-Experiment mit 120 Studierenden der 8. Jahrgangsstufe fand, dass KI-unterstütztes [[inquiry-based-learning|forschungsbasiertes Lernen]] kreative mathematische Leistung und Einstellungen zur Mathematik erhöhte, aber keinen signifikanten Zuwachs im kritischen [[problem-solving|Problemlösen]] erzeugte — eine Mahnung, Zuwächse in Kreativität und Affekt nicht als Belege für tieferes Schlussfolgern zu lesen ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026)]]).
 
+- **Zugang ist nicht Struktur.** In einer Wiederholungsaufgabe aus dem Bauingenieurwesen erzielte dasselbe retrieval-augmentierte System 12.41 Punkte bei offenen Aufgaben, wenn es durch eine fünfschrittige [[prompt-engineering|Prompting]]-Struktur geführt wurde, gegenüber 10.45 ohne sie, während slide-basiertes Lernen 9.68 erreichte und sich das Wiedererkennen bei Multiple-Choice-Fragen nicht unterschied ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). Ungepromptete KI-Wiederholung schlug die Folien nicht, sodass der Zugewinn auf die Struktur der Interaktion zurückgeht und nicht auf den Zugang zum Modell.
+
+- **Replikation ist eine eigene aktive Zutat.** Im Physics AI-Replication-Protokoll holen sich Studierende eine KI-Erklärung eines schwierigen Problems, fordern ein oder zwei ähnliche Aufgaben an und lösen diese dann unabhängig, bevor sie prüfen. In 11 einführenden Physikkursen an vier US-Institutionen schrieben 90.9% von 231 Befragten dem Protokoll ein besseres konzeptionelles Verständnis zu und 97.7% von 213 fanden die nachgebaute Übung hilfreich, wobei die beiden mit r_s = 0.58 korrelierten ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Der Mechanismus auf Seiten der Lernenden ist das, was der Seite fehlte: 18.7% der offenen Antworten beschrieben, die Struktur eines Problems verstehen zu müssen, um eine ähnliche Aufgabe zu erzeugen. Das Vertrauen danach folgte diesen beiden Nutzen (r_s = 0.37 und 0.35), nicht der Nutzungshäufigkeit (r_s = 0.02).
+
 - **Exploratives und simulationsbasiertes aktives Lernen.** [[supplynet-visual-exploratory-learning|SupplyNet]] nutzt eine kontextuelle Multi-Agent-LLM-Simulation, um visuelles exploratives Lernen in der Supply-Chain-Bildung zu unterstützen, und koppelt eine interaktive Netzwerkansicht mit einer verzweigten „Was-wäre-wenn"-Zeitleiste, damit Lernende kausale Dynamik verfolgen statt abstrakte Inhalte zu konsumieren. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] und [[genai-assisted-problem-posing-physics-2026|Probleme-Stellen in der Physik]] stellen ebenfalls lernendengerichtete Erkundung in den Vordergrund.
 
 - **Strukturierte konversationelle Abläufe für aktive Wiederholung.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] strukturiert Nachbereitung nach der Vorlesung um drei Stufen — Recognize (Verwirrung vor Ort markieren), Resolve (Klärung) und Consolidate (Teach-back) — und zeigt, dass Teach-back Lernende dazu bringt, konzeptuelle Lücken zu artikulieren und offenzulegen, und dass kontextverankerte KI allgemeine KI für gezielte Unterstützung übertrifft. Teach-back instanziiert [[learning-by-teaching|Lernen durch Lehren]].
@@ -63,6 +66,8 @@ KI-ermöglichtes aktives Lernen tritt in dieser Wissensbasis in mehreren Formen 
 - **Um die Fehler des Modells herum gestalten.** Eine fünfschrittige Sequenz (unabhängige Analyse, ein standardisierter ChatGPT-Prompt, kritische Evaluation der Ausgabe, Verfeinerung und Klassendiskussion) funktioniert, weil die KI vorhersagbar falsch liegt: ChatGPT etikettiert die unelastische Nachfrage in einem Songtext als „perfectly elastic", und die Diskrepanz lehrt Studierende, Ausgaben zu validieren ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 
 - **Ein pädagogisch gestalteter KI-Tutor kann den aktiven Kursraum selbst übertreffen.** Ein Crossover-[[rct|RCT]] im Einführungskurs Physik in Harvard setzte einen eigens entwickelten KI-Tutor gegen die eigenen aktiven Lernstunden des Kurses — dieselbe forschungsbasierte Pädagogik, nicht eine Vorlesung — und fand signifikant mehr Lernen in weniger Zeit: Median im Post-Test 4,5 gegenüber 3,5, Effektstärke 0,63 per linearer Regression, mit einem Median von 49 Minuten Bearbeitungszeit gegenüber 60 im Kursraum ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Die Autoren schreiben das dem Design statt dem Medium zu, da der Tutor konstruiert wurde, um dieselben sieben forschungsbasierten Praktiken zu tragen wie der Kurs, und nur personalisiertes Feedback auf Anfrage und Selbstbestimmung des Tempos hinzufügte.
+
+- **Eine einzige Exposition kann die Beteiligung unterdrücken, die sie steigern soll.** In einem vorregistrierten Feldexperiment mit 759 MBA-Studierenden erhöhte eine zugewiesene Vorbereitung vor dem Unterricht mit einem sprachbasierten KI-Partner, der die Gegenposition vertrat, die freiwilligen Beiträge im Unterricht um etwa 31% nach einer zweiten zugewiesenen Nutzung. In der Stunde, auf die sie vorbereitete, änderte sich nichts, und nach einer ersten Nutzung allein sank die Beteiligung ([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). Die Dosis ist hier ein Designparameter, kein Implementierungsdetail.
 
 ### Das ICAP-Rahmenwerk als organisierende Linse
 
@@ -135,3 +140,5 @@ Aktives Lernen ist einer der stärksten Hebel auf [[learning-gains|Lernzuwächse
 - [[academic-league-of-ai-2026]] — Academic League of AI: projektbasiertes aktives Lernen
 - [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Merkmale der Lernenden × Interaktionen mit TTS-Dialogformat
+- [[instructional-guidance-genai-learning]] — Gepromptete versus ungepromptete KI-Wiederholung: Die Struktur, nicht der Modellzugang, bewegte die Punkte bei offenen Aufgaben
+- [[assigned-ai-preclass-student-engagement-2026]] — Zugewiesene KI-Vorbereitung vor dem Unterricht hob die Beteiligung im Unterricht um 31% nach einer zweiten Nutzung, nicht nach der ersten

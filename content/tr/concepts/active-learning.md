@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,6 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 ---
-
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
 > **Etkin öğrenme** — öğrencileri bilgiyi pasif olarak almaktansa bir şeyler yapmaya ve yaptıkları üzerine düşünmeye dahil eden öğretim yaklaşımları. Eğitimde YZ bağlamında etkin öğrenme araştırması, hem YZ araçlarının etkin öğrenme pedagojilerini nasıl destekleyebileceğini hem de YZ araçlarıyla — pasif tüketim yerine — etkin etkileşimin öğrenme çıktılarını nasıl etkilediğini inceler.
@@ -43,6 +42,11 @@ YZ destekli etkin öğrenme, bu bilgi tabanında çoklu biçimlerde görünür: 
 
 - **Etkileşim yöntemi bilişsel katılımı belirler.** [[ai-assisted-learning-modes-eeg|Lise öğrencileriyle bir EEG çalışması]], Otomatik (YZ bağımsız çözer), Etkileşimli (iskelelemeli öğrenci–YZ iş birliği) ve Manuel (YZ yok) yöntemlerini karşılaştırmıştır: **Etkileşimli en yüksek bilişsel katılımı ve görev doğruluğunu üretmiş**, Otomatik ise katılımı azaltmış ve aşırı güvene risk oluşturmuştur. Bu, YZ’nin öğrencileri izlemek yerine *yapmaya* devam ettirmesi gerektiğine dair savunmaya nörofizyolojik bir boyut kazandırır.
 - **YZ destekli sorgulama kendiliğinden daha üst düzey değildir.** 120 sekizinci sınıf öğrencisiyle yarı-deneysel bir çalışma, YZ destekli [[inquiry-based-learning|sorgulama temelli öğrenmenin]] yaratıcı matematik performansını ve matematiğe ilişkin tutumları yükselttiğini ama eleştirel [[problem-solving]] konusunda anlamlı bir kazanç üretmediğini bulmuştur — yaratıcılık ve duyuş kazanımlarını daha derin muhakemenin kanıtı olarak okumaya karşı bir uyarı ([[mujib-ai-ibl-creative-math-2026|Mujib ve ark., 2026]]).
+
+- **Erişim, yapı değildir.** Bir inşaat mühendisliği inceleme görevinde, aynı geri getirme destekli sistem, beş adımlı bir [[prompt-engineering|istek metni]] yapısıyla çalıştırıldığında açık uçlu maddelerde 12.41 puan alırken bu yapı olmadan 10.45 aldı; slayt temelli çalışma 9.68 puan aldı ve çoktan seçmeli hatırlama farklılaşmadı ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). İstek metni olmadan yapılan YZ incelemesi slaytları geçemedi, dolayısıyla kazanç model erişimine değil etkileşimin yapısına dayanmaktadır.
+
+- **Yineleme ayrı bir etkin bileşendir.** Physics AI-Replication protokolü, öğrencilerin zor bir problem hakkında YZ’den açıklama almasını, bir ya da iki benzer problem istemesini, sonra kontrol etmeden önce bunları bağımsız olarak çözmesini sağlar. ABD’deki dört kurumda 11 giriş düzeyi fizik şubesinde, 231 yanıtlayanın 90.9%’u bunu daha iyi kavramsal anlayışla ilişkilendirdi ve 213 kişiden 97.7%’si yinelenen alıştırmayı yararlı buldu; ikisi r_s = 0.58 düzeyinde ilişkiliydi ([[paul-pair-framework-genai-active-learning-physics-2026|Paul ve ark., 2026]]). Öğrenen tarafındaki mekanizma, sayfanın eksik olduğu şeydi: açık yanıtların 18.7%’si benzer bir problem üretebilmek için bir problemin yapısını anlamak zorunda kalmayı betimledi. Sonraki güven bu iki yararı izledi (r_s = 0.37 ve 0.35), kullanım sıklığını değil (r_s = 0.02).
+
 - **Keşif ve simülasyon temelli etkin öğrenme.** [[supplynet-visual-exploratory-learning|SupplyNet]], tedarik zinciri eğitiminde görsel keşif öğrenmeyi desteklemek için bağlamsal çok etkenli bir LLM simülasyonu kullanır; etkileşimli bir ağ görünümünü dallanan bir “ya şöyle olsaydı” zaman çizgisiyle eşleyerek öğrenenler soyut içerik tüketmek yerine nedensel dinamiği izler. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] ve [[genai-assisted-problem-posing-physics-2026|fizikte problem ortaya koyma]] da benzer biçimde öğrenen kaynaklı keşfi ön plana çıkarır.
 - **Etkin tekrar için yapılandırılmış konuşma iş akışları.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]], ders sonrası tekrarı üç aşama çevresinde yapılandırır — Tanı (yerinde karışıklığı işaretleme), Çöz (açıklık getirme) ve Pekiştir (geri öğretme) — geri öğretmenin öğrenenleri kavramsal boşlukları dile getirmeye ve ortaya çıkarmaya yönlendirdiğini, hedefli destek için bağlam temelli YZ’nin genel amaçlı YZ’yi geride bıraktığını gösterir. Geri öğretme, [[learning-by-teaching]]’i somutlaştırır.
 - **Proje temelli bir topluluk yapısı olarak etkin öğrenme.** [[academic-league-of-ai-2026|YZ Akademik Ligi]], ders dışı YZ eğitimini yarışma takımları, çalışma grupları ve sosyal etki için YZ projeleri çevresinde örgütler; yukarıdan aşağıya müfredat yerine demokratik öğrenci yönetişimi yoluyla etkin ve [[project-based-learning|proje temelli öğrenmeyi]] bedenselleştirir.
@@ -50,6 +54,8 @@ YZ destekli etkin öğrenme, bu bilgi tabanında çoklu biçimlerde görünür: 
 - **Öğretmeni etkin öğrenme görevi olarak inşa etmek.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari ve ark. (2026)]], olağan YZ öğretmeni düzenini tersine çevirmiştir: bir öğretmen kullanmak yerine, 700 öğrencili bir yazılım kursundaki 345 öğrenci her biri bir akrana üç tasarım örüntüsünü öğretmek için konuşmalı bir ajan tasarlamıştır; böylece etkin öğrenme işi ajanın inşası olmuştur — kullanıcı ihtiyaçlarını öngörmek, soyut kavramları öğretilebilir parçalara çevirmek. Öğrenciler açık uçlu tasarım özgürlüğünü değerli bulmuş (%22,3 en olumlu tema) ama en büyük şikayet belirsiz talimatlardır (%23,7) ve yazarlar kontrollü grup olmayan, gönüllü örneklem tasarımının yalnızca katılım iddialarını desteklediğini uyarır.
 - **Modelin hataları çevresinde tasarım.** Beş adımlı bir dizi (bağımsız analiz, standardize bir ChatGPT istek metni, çıktının eleştirel değerlendirmesi, iyileştirme ve sınıf tartışması), YZ öngörülebilir biçimde yanıldığı için işe yarar: ChatGPT, bir şarkı sözündeki esnek olmayan talebi “tamamen esnek” olarak yanlış etiketler ve tutarsızlık öğrencilere çıktıyı doğrulamayı öğretir ([[beck-genai-literacy-economics-hands-on|Beck ve Brodersen, 2025]]).
 - **Pedagojik olarak tasarlanmış bir YZ öğretmeni, etkin öğrenme sınıfının kendisini bile geride bırakabilir.** Harvard’ın giriş fizik kursunda yapılan çaprazlamalı bir [[rct]], özel bir YZ öğretmenini kursun kendi sınıf içi etkin öğrenme derslerine — aynı araştırma temelli pedagojiye, bir derse değil — karşı ölçmüş ve daha az zamanda belirgin biçimde daha fazla öğrenme bulmuştur: sınav sonrası ortanca 3,5’e karşı 4,5, doğrusal regresyonla etki büyüklüğü 0,63, görev üzerinde ortanca 60 dakikaya karşı 49 dakika ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin ve ark., 2025]]). Yazarlar tasarımı öne çıkarır, ortamı değil; çünkü öğretmen sınıfın taşıdığı yedi araştırma temelli uygulamayı aynen taşıyacak biçimde mühendislik yapılmıştır ve yalnızca talep üzerine kişiselleştirilmiş geri bildirim ile kendi hızında ilerleme eklenmiştir.
+
+- **Tek bir maruz kalma, artırmayı amaçladığı katılımı bastırabilir.** 759 MBA öğrencisiyle yürütülen ön kayıtlı bir alan deneyinde, karşı görüşü savunan ses temelli bir YZ ortağıyla ders öncesi olarak atanan prova, ikinci atanmış kullanımdan sonra gönüllü sınıf içi katkıları yaklaşık 31% artırdı. Hazırladığı oturumda hiçbir şey değişmedi ve yalnızca ilk kullanımdan sonra katılım düştü ([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). Doz burada bir tasarım parametresidir, uygulama ayrıntısı değil.
 
 ### Düzenleyici mercek olarak ICAP çerçevesi
 
@@ -122,3 +128,5 @@ Etkin öğrenme, YZ çağında [[learning-gains|öğrenme kazanımları]] üzeri
 - [[academic-league-of-ai-2026]] — YZ Akademik Ligi: proje temelli etkin öğrenme
 - [[mujib-ai-ibl-creative-math-2026]] — YZ destekli SÖ ve yaratıcı matematik performansı
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × TTS diyalog biçimi etkileşimleri
+- [[instructional-guidance-genai-learning]] — İstek metinli ve istek metinsiz YZ incelemesi: açık uçlu puanları model erişimi değil, yapı değiştirdi
+- [[assigned-ai-preclass-student-engagement-2026]] — Ders öncesi YZ provası, sınıf içi katılımı ilk kullanımdan değil, ikinci kullanımdan sonra 31% artırdı

@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,6 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
-
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
 > **Kujifunza kwa Shughuli** — mbinu za mafundisho zinazowashirikisha wanafunzi katika kufanya mambo na kufikiria wanachofanya, badala ya kupokea habari kwa kupitisha. Katika Akili Bandia katika Elimu, utafiti wa kujifunza kwa shughuli huchunguza pia jinsi zana za AI zinaweza kusaidia mbinu za kujifunza kwa shughuli na jinsi ushirikiano hai na zana za AI — badala ya matumizi ya kupitisha — unaathiri matokeo ya kujifunza.
@@ -43,6 +42,11 @@ Kujifunza kwa shughuli kunachoweza kuwezeshwa na AI kinaonekana katika mifumo mi
 
 - **Hali ya mwingiliano huamua ushirikiano wa kikognitivi.** [[ai-assisted-learning-modes-eeg|Somo la EEG la wanafunzi wa shule ya sekondari]] lilinganisha hali za Auto (AI inatatua kwa uhuru), Interactive (ushirikiano wa mwanafunzi–AI na ngazi za msaada), na Manual (hakuna AI): **Interactive ilitoa ushirikiano wa kikognitivi na usahihi wa kazi wa juu zaidi**, wakati Auto ilipunguza ushirikiano na kuhatarisha kutegemea kupita kiasi. Hili hutoa kipengele cha kinevaolojia kwa hoja kuwa AI lazima iweke wanafunzi *wakifanya* badala ya kutazama.
 - **Uchunguzi unaosaidiwa na AI si wa kiwango cha juu kiotomatiki.** Jaribio la nusu-licha na wanafunzi 120 wa Darasa la 8 lilipata kuwa kujifunza kwa uchunguzi [[inquiry-based-learning|kunakosaidiwa na AI]] kuliinua utendaji wa kiuumbaji wa hisabati na mitazamo kuelekea hisabati lakini halikutoa ongezeko lisilo na umuhimu katika [[problem-solving|utatuzi wa matatizo]] mahususi — onyo dhidi ya kusoma mapato ya ubunifu na ya kihisia kama ushahidi wa ufikiri wa kina zaidi ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
+
+- **Ufikiaji si muundo.** Katika kazi ya mapitio ya uhandisi wa ujenzi, mfumo ule ule ulioimarishwa kwa urejeshaji ulipata 12.41 kwenye vipengele vya majibu huru ulipotumika kupitia muundo wa hatua tano wa [[prompt-engineering|kuandaa ilani]] dhidi ya 10.45 bila huo, wakati kusoma kwa slaidi kulipata 9.68, na ukumbusho wa maswali ya chaguo-nyingi haukutofautiana ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). Mapitio ya AI bila ilani hayakushinda slaidi, hivyo faida inatokana na muundo wa mwingiliano badala ya upatikanaji wa mfano.
+
+- **Uigaji ni kiungo hai tofauti.** Itifaki ya Physics AI-Replication huwafanya wanafunzi kupata maelezo ya AI kuhusu tatizo gumu, kuomba tatizo moja au mawili yanayofanana, kisha kuyatatua kwa kujitegemea kabla ya kukagua. Katika madarasa 11 ya utangulizi ya fizikia katika taasisi nne za Marekani, 90.9% ya wahojiwa 231 walihusisha nayo uelewa bora wa dhana na 97.7% ya 213 waliona mazoezi yaliyorejeshwa yakiwa na manufaa, huku mawili hayo yakihusiana kwa r_s = 0.58 ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Utaratibu wa upande wa mwanafunzi ndio ambao ukurasa ulikosa: 18.7% ya majibu ya wazi yalieeleza kulazimika kuelewa muundo wa tatizo ili kuzalisha tatizo linalofanana. Ujasiri baadaye ulifuata manufaa hayo mawili (r_s = 0.37 na 0.35), si mara ngapi AI ilitumika (r_s = 0.02).
+
 - **Kujifunza hai kwa uchunguzi na kwa kuigiza.** [[supplynet-visual-exploratory-learning|SupplyNet]] hutumia mfumo wa LLM wa mawakala wengi wa muktadha kusaidia kujifunza hai la kuona katika elimu ya mlolongo wa ugavi, kwa kuunganisha mwonekano wa mtandao wa mwingiliano na mlolongo wa \"je, ikiwa\" wenye matawi ili wanafunzi wafuate michakato ya sababu badala ya kutumia maudhui ya dhahania. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] na [[genai-assisted-problem-posing-physics-2026|kuunda maswali katika fizikia]] vivyo hivi vinaelekeza uchunguzi unaosukumwa na mwanafunzi.
 - **Mitiririko ya mazungumzo yenye muundo kwa mapitio hai.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] hupanga mapitio ya baada ya mihadhara kuzunguka hatua tatu — Tambua (weka alama ya mkanganyiko wa mahali), Suluhisha (ubainishaji), na Unganisha (kuelimisha kwa kurudia) — ikionyesha kuwa kuelimisha kwa kurudia huwahimiza wanafunzi kutamka na kufichua mapengo ya dhana, na kuwa AI iliyojengwa kwa muktadha hufanya vizuri zaidi kuliko AI ya jumla kwa msaada wa kulengwa. Kuelimisha kwa kurudia hutelekeza [[learning-by-teaching]].
 - **Kujifunza hai kama muundo wa mradi na wa kijamii.** [[academic-league-of-ai-2026|Ligi ya Kitaaluma ya AI]] hupanga elimu ya AI ya nje ya mtaala kuzunguka timu za mashindano, vikundi vya kusoma, na miradi ya AI-kwa-athari-ya-kijamii, ikitekeleza kujifunza hai na [[project-based-learning|kulingana na mradi]] kupitia utawala wa kidemokrasia wa wanafunzi badala ya mtaala kutoka juu.
@@ -50,6 +54,8 @@ Kujifunza kwa shughuli kunachoweza kuwezeshwa na AI kinaonekana katika mifumo mi
 - **Kujenga kocha kama kazi ya kujifunza kwa shughuli.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] walibadilisha mpango wa kawaida wa kocha wa AI: badala ya kutumia kocha, wanafunzi 345 katika kozi ya programu yenye wanafunzi 700 walibuni mawakala ya mazungumzo kila mmoja ili kufundisha mifumo mitatu ya ubunifu kwa mwanafunzi mwenza, hivyo kazi ya kujifunza kwa shughuli ilikuwa ujenzi wa mawakala — kutabiri mahitaji ya mtumiaji na kutafsiri dhana za kiabstrakto kuwa vipengele vinavyofundishika. Wanafunzi walithamini uhuru wa ubini usiojaa mipaka (22.3% mada chanya kuu) lakini lalamiko kuu lilikuwa maelekezo yasiyo wazi (23.7%), na waandishi wanatoa onyo kuwa ubini wa bila-kikundi-cha-dhibiti na sampuli ya kujitolea unategemeza madai ya ushirikiano pekee.
 - **Buni kuzunguka makosa ya mfano.** Mfululizo wa hatua tano (uchanganuzi wa pekee, ilani ya kawaida ya ChatGPT, tathmini mahususi ya matokeo, uboreshaji, na majadiliano ya darasa) hufanya kazi kwa sababu AI ni mbaya kwa uwezekano: ChatGPT huwaita mahali pazima mahitaji yasiyo ya mvuto katika nyimbo kuwa \"ya mvuto kamili,\" na tofauti huwafundisha wanafunzi kuthibitisha matokeo ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 - **Kocha wa AI aliyebuniwa kwa kielimu anaweza kushinda darasa la kujifunza kwa shughuli yenyewe.** [[rct]] ya kuvuka katika kozi ya fizikia ya utangulizi ya Harvard iliwakilisha kocha maalum wa AI dhidi ya masomo hai ya darasa la kozi yenyewe — mbinu ile ile ya utafiti, si mihadhara — na ilipata kujifunza zaidi kwa kiasi kikubwa katika muda mfupi: wastani wa mtihani wa baada ya somo 4.5 dhidi ya 3.5, ukubwa wa athari 0.63 kwa uchanganuzi wa kurudia, na dakika 49 za kazi ya wastani dhidi ya 60 darasani ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Waandishi husifia ubuni badala ya njia, kwani kocha alibuniwa kubeba mbinu saba zile zile za utafiti kama darasa na kuongeza tu maoni yanayofaa mtu binafsi kwa mahitaji na kujipanga mwenyewe.
+
+- **Mfiduo mmoja unaweza kukandamiza ushiriki ambao unakusudiwa kuuongeza.** Katika jaribio la uwandani lililosajiliwa mapema na wanafunzi 759 wa MBA, mazoezi ya kabla ya darasa yaliyopangwa na mshirika wa AI wa sauti aliyetetea upande kinyume yaliongeza michango ya hiari darasani kwa takriban 31% baada ya matumizi ya pili yaliyopangwa. Hakuna kilichobadilika katika kikao alichokiandalia, na ushiriki ulishuka baada ya matumizi ya kwanza peke yake ([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). Kipimo ni kigezo cha ubuni hapa, si maelezo ya utekelezaji.
 
 ### Mfumo wa ICAP kama lenzi ya kupanga
 
@@ -120,3 +126,5 @@ Kujifunza hai ni mojawapo ya mifumo mikubwa zaidi ya [[learning-gains|mapato ya 
 - [[academic-league-of-ai-2026]] — Ligi ya Kitaaluma ya AI: kujifunza hai kulingana na mradi
 - [[mujib-ai-ibl-creative-math-2026]] — IBL inayosaidiwa na AI na utendaji wa kiuumbaji wa hisabati
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Sifa za mwanafunzi × mwingiliano wa mazungumzo ya muundo wa TTS
+- [[instructional-guidance-genai-learning]] — Mapitio ya AI yaliyoagizwa na yasiyoagizwa: muundo, na si upatikanaji wa mfano, ulibadilisha alama za maswali huru
+- [[assigned-ai-preclass-student-engagement-2026]] — Mazoezi ya AI kabla ya darasa yaliongeza ushiriki darasani kwa 31% baada ya matumizi ya pili, si ya kwanza

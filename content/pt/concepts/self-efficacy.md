@@ -1,7 +1,7 @@
 ---
 title: Autoeficácia
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-31T07:30:00-04:00"
+updated: "2026-11-04T05:45:02-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-28T01:06:31-04:00"
+source_updated: "2026-11-04T02:27:17-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,6 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 ---
-
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Autoeficácia** — a crença de quem aprende em sua capacidade de realizar com sucesso uma tarefa ou de alcançar uma meta. Recorrendo à teoria social cognitiva (Bandura), a autoeficácia molda a motivação, o esforço, a persistência e o [[student-engagement|engajamento]] na aprendizagem. Na [[ai-education|IA na educação]], a autoeficácia importa de duas formas: as ferramentas de IA podem construir a confiança e a autonomia de quem aprende (por exemplo, oferecendo [[feedback|feedback]] e [[scaffolding|andaimento]]), e a autoeficácia em IA de quem aprende — sua confiança no uso das [[ai-technologies|tecnologias]] de IA — influencia o quão eficazmente ele engaja com a IA, incluindo como o conhecimento relacionado à IA se traduz em prontidão relevante para a carreira.
@@ -71,9 +70,20 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 - **A confiança pode se mover em sentido oposto ao comportamento.** Na programação competitiva, estudantes que pararam de competir relataram confiança teórica *maior* do que seus pares ativos, e ainda assim mostraram hábitos significativamente mais fracos de resolução pós-prova e de círculo de pares (p < .001), então um sinal de autoeficácia isoladamente enganará um sistema de alerta precoce ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **A confiança pode subir enquanto a capacidade por trás dela cai.** Entre estudantes universitários, o uso frequente de IA generativa elevou a confiança e a eficiência percebidas *e* aumentou a dependência tecnológica nos mesmos aprendentes, então uma pontuação de autoeficácia tomada durante trabalho assistido por IA pode parecer alta no momento em que a habilidade subjacente está se corroendo ([[genai-performance-vs-learning|Yan et al., 2025]]).
 - **O uso da IA andou com a confiança, mas a confiança não previu a frequência.** Em uma pesquisa PLS-SEM com 291 estudantes portugueses, o uso geral da IA foi positivamente associado à autoeficácia para a aprendizagem independente (β = 0,266, f² = 0,106). O construto foi modelado como um composto formativo de segunda ordem das quatro fontes de Bandura — experiência de domínio, experiência vicariante, persuasão verbal e estado emocional. A autoeficácia, por sua vez, não previu o absenteísmo (β = −0,068, p = 0,276), embora o uso da IA estivesse separadamente associado a maior absenteísmo (β = 0,148, f² = 0,029). A trajetória uso da IA → autoeficácia foi significativamente mais forte entre homens do que entre mulheres (β = 0,449 contra 0,159; Δβ = −0,289, p = 0,013), sob invariância de mensuração parcial ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
+
+- **A confiança após um protocolo estruturado acompanhou a estrutura, não a dose.** A confiança pós-protocolo em resolver problemas semelhantes de forma independente teve média de 7.18 numa escala de 1–10 (σ = 1.62, n = 217), com médias institucionais variando apenas de 6.86 a 7.52 em quatro campi. Ela acompanhou o benefício percebido da explicação da IA (r_s = 0.37) e da prática replicada (r_s = 0.35), mais fracamente a confiança prévia na IA (r_s = 0.20), e não a frequência de uso (r_s = 0.02, p = 0.749) nem o GPA autorrelatado (r_s = 0.13, p = 0.064) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Trata-se de uma rota de maestria — dificuldade autoral, depois uma tentativa independente — e não de mais tempo na ferramenta, distinção que faltava à página. O estudo não mediu nenhum resultado de aprendizagem, o que limita o que os estudantes acreditavam.
+
 - **Tarefas abertas de design com IA separam os estudantes pela confiança preexistente.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] encontraram que a autoestima de desempenho se correlacionava com a extroversão (r = 0,262, p < 0,001) em um curso em que 345 estudantes construíram cada um um agente conversacional para ensinar a um colega, e que estudantes do sexo feminino relataram autoestima significativamente menor que os pares do sexo masculino (Kruskal-Wallis H(2) = 9,87, p < .005). A inferência de design que os autores extraem: tarefas criativas abertas e conversacionais favorecem os que já são confiantes, então "tarefas abertas de design [deveriam] incluir andaime suficiente para construir autoestima de desempenho de forma equitativa entre todos os tipos de personalidade" — uma cautela de que trabalhos com artefatos criados por estudantes podem ampliar, e não fechar, lacunas de confiança se o andaime não for deliberado.
 - **A autoeficácia interage com a preferência de formato, e não apenas com os desfechos.** Um estudo contrabalanceado intrassujeitos (97 estudantes do 9º ano; prática de interpretação e construção de gráficos baseada em tutor versus em papel, com conteúdo equiparado) concluiu que a prática baseada em tutor superou o papel no geral (t(62,30) = 2,38, p = ,020) e — contra-intuitivamente — que a autoeficácia basal mais baixa previu ganhos *maiores* em ambos os formatos (t(98,40) = −2,14, p = ,035). A estrutura interessante é uma interação tripla significativa autoeficácia × favorabilidade × formato (t(99,84) = −2,58, p = ,011): entre estudantes de baixa autoeficácia, a favorabilidade em relação ao tutor prevê ganhos maiores *especificamente na prática com tutor*. Um nulo sóbrio para a suposição de que a prática com tutor é motivacionalmente autorreforçadora: a prática com ITS não melhorou significativamente a autoeficácia pós-treinamento em relação ao papel — atribuído à intervenção curta (duas sessões de ~40 minutos). O sinal prático: autoeficácia basal e favorabilidade à tecnologia são insumos baratos e acionáveis para a alocação de formato; a prática com tutor capitaliza a favorabilidade existente em vez de criá-la. ([[cen-self-efficacy-favorability-2026]])
 - **O conhecimento chegou à intenção por meio da confiança, da ansiedade e da autoeficácia.** Em um modelo PLS-SEM com 526 estudantes de design, o conhecimento percebido sobre AIGC foi positivamente associado à confiança, à autoeficácia e à intenção de uso, e negativamente à ansiedade, e confiança, ansiedade e autoeficácia carregaram cada uma um caminho indireto significativo do conhecimento para a intenção ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). A ansiedade ficou sobre a trajetória, em vez de bloqueá-la.
+
+- **"A baixa confiança na escrita aparece como um pedido de ajuda."** Ela aparece como um pedido de prosa. Em um estudo de redação instrumentado, a Escala de Autoeficácia para Escrita previu negativamente o total de consultas (**-0.258**, SE **0.075**, p < 0.001), e a associação passou por Traduzir (**-0.949**) e Revisar (**-0.588**), e não por Planejar (**-0.204**) ou pela delegação da redação inteira (**-0.016**). Estudantes que duvidavam da própria escrita pediram ao modelo que produzisse e corrigisse texto; não lhe pediram o que argumentar. [[jelson-students-chatgpt-essay-writing-2026|A autoeficácia previu a dependência, e a dependência assumiu uma forma específica]].
+
+**A confiança não protege quem aprende de confiar demais em uma ferramenta.** Entre 300 estudantes universitários, [[kim-overtrust-ai-literacy-2026|Kim, Kim e Zhang (2026)]] constataram que a autoeficácia acadêmica estava associada à confiança excessiva na IA (r = 0.230) e a predizia em B = 0.3901 (IC de 95% [0.2190, 0.5612]) em um modelo de mediação serial, invertendo a hipótese dos autores. A versão produtiva da confiança é a confiança no próprio julgamento, que é justamente o que uma pontuação alta de confiança excessiva indica estar ausente.
+
+- **A confiança chega à adoção em parte por meio do letramento.** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] testou uma sequência com 622 estudantes de graduação na Turquia. A autoeficácia em IA previu a aceitação da IA (B = 0.43, R² = 0.29), e o [[ai-literacy|letramento em IA]] carregou parte dessa ligação (B indireto = 0.15, IC de 95% [0.12, 0.19]) sem absorvê-la por completo. A confiança também precisa ser contabilizada como preditora da adoção, e não apenas da capacidade. O desenho é transversal, sem controles demográficos, então direção e parcela mediada são associações, e não efeitos.
+
+- **Rastros comportamentais podem carregar o sinal, mas os rótulos definem o teto.** Um pipeline de duas universidades detectou autoeficácia baixa a partir de rastros de interação; os rótulos da ocasião da pesquisa superaram uma divisão em meio de período, e a subescala MSLQ sozinha rotulou tão bem quanto o instrumento completo ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Ideias equivocadas comuns
 
@@ -120,3 +130,7 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 - [[ai-speaking-practice-communicative-readiness-2026]] — A autoeficácia em fala inverte a rota da ansiedade da prática assistida por IA para a disposição
 - [[faculty-ai-well-being-social-supports-2026]] — SEM com corpo docente: a autoeficácia tecnológica como preditor fraco do bem-estar com IA
 - [[cen-self-efficacy-favorability-2026]] — A autoeficácia e a favorabilidade moldam a aprendizagem com sistemas de tutoria e prática em papel (Cen et al. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — A Escala de Autoeficácia para Escrita previu mais consultas de Traduzir e Revisar, e não mais de Planejar ou de delegação da redação inteira (Jelson et al. 2026)
+- [[somny-ml-self-efficacy-interaction-traces-2026]] — Usando aprendizado de máquina para medir a crença de autoeficácia por meio dos rastros de interação de quem aprende na aprendizagem potencializada por tecnologia
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — Autoeficácia em IA -> letramento em IA -> aceitação da IA, com a parcela mediada pelo conhecimento medida (İşbulan et al. 2026)
+- [[kim-overtrust-ai-literacy-2026]] — A autoeficácia acadêmica previu maior confiança excessiva na IA, e não menor
