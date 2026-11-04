@@ -1,15 +1,15 @@
 ---
 title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
-updated: "2026-10-24T08:37:08-04:00"
+updated: "2026-11-04T17:55:00-05:00"
 type: resource
 summary: "A free browser tool that runs a written, timed version of an oral code defense for every student in a programming course, proposing scores with quoted evidence for the instructor to approve."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
