@@ -11,7 +11,7 @@ level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/learning-sciences"
 source_updated: "2026-11-01T08:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

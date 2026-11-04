@@ -8,7 +8,7 @@ connected_faqs: [reporting-interpreting-aied-research, checking-whether-educatio
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/benchmark"
 source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

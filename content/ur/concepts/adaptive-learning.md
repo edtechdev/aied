@@ -5,7 +5,7 @@ type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/adaptive-learning"
 source_updated: "2026-11-01T09:08:13-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

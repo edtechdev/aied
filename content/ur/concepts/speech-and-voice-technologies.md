@@ -9,7 +9,7 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/speech-and-voice-technologies"
 source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

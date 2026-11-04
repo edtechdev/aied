@@ -11,7 +11,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/curriculum-design"
 source_updated: "2026-11-02T10:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

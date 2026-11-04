@@ -6,7 +6,7 @@ foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T01:05:55-05:00"
+updated: "2026-11-04T01:13:23-05:00"
 translation_of: "concepts/stakeholders"
 source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
