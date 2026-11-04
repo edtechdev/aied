@@ -115,7 +115,6 @@ ai_assist:
 - [[pedagogy]] — Зонтик: педагогики и стратегии преподавания в ИИ-образовании
 
 ## Связанные статьи
-
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — ИИ-тьюторинг превосходит активное обучение в классе: РКИ, вводящий новое научно-обоснованное проектирование в аутентичную образовательную среду (Kestin et al. 2025)
 - [[ai-pbl-computational-thinking-2026]]
 - [[beck-genai-literacy-economics-hands-on]] — Рамка активного обучения GenAI для экономики (Beck и Brodersen 2025)

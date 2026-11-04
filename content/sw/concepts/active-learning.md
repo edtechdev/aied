@@ -83,6 +83,7 @@ Kujifunza hai ni mojawapo ya mifumo mikubwa zaidi ya [[learning-gains|mapato ya 
 - **"Ugunduzi wa mahusiano ni ugunduzi wa kujifunza."** Msingi huo huo wa ushahidi unaonya kuwa ubuni **usio na kikundi cha udhibiti na wenye sampuli ya kujitolea** unasaidia madai ya mahusiano peke yake. Wanafunzi walithamini uhuru wa ubuni usio na mpaka (**asilimia 22.3** mada kuu chanya) na walilalamika zaidi kuhusu maelekezo yasiyo wazi (**asilimia 23.7**), na yote mawili ni kuhusu uzoefu.
 
 ## Dhana Zilizounganishwa
+
 - [[learning-gains]]
 - [[problem-based-learning]]
 - [[learning-by-teaching]]

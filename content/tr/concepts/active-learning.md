@@ -111,7 +111,6 @@ Etkin öğrenme, YZ çağında [[learning-gains|öğrenme kazanımları]] üzeri
 - [[pedagogy]] — Şemsiye: Eğitimde YZ pedagojileri ve öğretim stratejileri
 
 ## Bağlı makaleler
-
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — YZ öğretimi sınıf içi etkin öğrenmeyi geride bırakıyor: otantik bir eğitim ortamında yeni bir araştırma temelli tasarım sunan bir RCT (Kestin ve ark. 2025)
 - [[ai-pbl-computational-thinking-2026]]
 - [[beck-genai-literacy-economics-hands-on]] — Ekonomi için etkin öğrenmeli GenAI çerçevesi (Beck ve Brodersen 2025)

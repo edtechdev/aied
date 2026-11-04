@@ -116,7 +116,6 @@ A aprendizagem ativa é uma das alavancas mais fortes sobre os [[learning-gains|
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
 
 ## Artigos conectados
-
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — A tutoria por IA supera a aprendizagem ativa em sala de aula: um ensaio controlado randomizado que introduz um desenho inovador baseado em pesquisa em um cenário educacional autêntico (Kestin et al. 2025)
 - [[ai-pbl-computational-thinking-2026]]
 - [[beck-genai-literacy-economics-hands-on]] — Framework de IA generativa de aprendizagem ativa para economia (Beck & Brodersen 2025)
