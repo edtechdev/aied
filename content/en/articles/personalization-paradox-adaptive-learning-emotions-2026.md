@@ -1,7 +1,7 @@
 ---
 title: "The personalization paradox: how AI-driven adaptive learning environments are associated with college students' academic emotions and self-regulation learning—a moderated mediation model"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [agency, ai-literacy]
 pedagogy: [metacognition, motivation, self-regulated-learning]

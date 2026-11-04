@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in the Age of AI: Output as Evidence of Learning"
 created: "2026-08-27T09:16:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [desirable-difficulties]

@@ -1,7 +1,7 @@
 ---
 title: "Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership"
 created: "2026-09-21T09:21:46-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/chatgpt-programming-performance-retention-ownership-2026.md']
 confidence: high

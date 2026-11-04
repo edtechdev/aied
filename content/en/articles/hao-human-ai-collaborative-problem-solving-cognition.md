@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, problem-solving, self-regulated-learning]

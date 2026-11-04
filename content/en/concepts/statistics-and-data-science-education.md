@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
-updated: "2026-11-05T00:10:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

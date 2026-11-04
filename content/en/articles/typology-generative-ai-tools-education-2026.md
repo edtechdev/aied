@@ -1,7 +1,7 @@
 ---
 title: "Typology of Generative AI Tools for Education"
 created: "2026-09-22T02:52:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 published: "2026-01-30"
 foundations: [ai-education, ai-literacy, agency]

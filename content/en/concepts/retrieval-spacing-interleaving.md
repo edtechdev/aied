@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-05T00:10:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]

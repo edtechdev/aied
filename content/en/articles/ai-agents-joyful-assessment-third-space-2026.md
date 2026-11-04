@@ -1,7 +1,7 @@
 ---
 title: "AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era"
 created: "2026-09-12T19:15:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [academic-integrity, agency, agentic-ai]
 pedagogy: [scaffolding]

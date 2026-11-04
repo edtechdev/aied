@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence applications in forensic science and their implications for education and training"
-created: "2026-11-04T19:30:00-05:00"
-updated: "2026-11-04T19:30:00-05:00"
+created: "2026-11-04T15:25:17-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/morales-cevallos-ai-forensic-science-education-2026.md']
 confidence: medium

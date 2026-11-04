@@ -1,7 +1,7 @@
 ---
 title: "Cultivating design creativity of vocational students: A model of project-based learning in AI-enabled immersive virtual environments"
 created: "2026-09-16T00:58:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [agentic-ai, design-thinking]
 pedagogy: [collaborative-learning, creativity, embodied-learning, professional-training, project-based-learning, student-engagement]

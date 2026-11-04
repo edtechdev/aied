@@ -1,7 +1,7 @@
 ---
 title: "TutorLoop: Regulating Student Learning Behaviors via Sensor-in-the-Loop Generative Feedback"
 created: "2026-10-08T09:15:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [online-teaching-and-learning, student-engagement, self-regulated-learning, transfer-of-learning, anxiety-and-stress]

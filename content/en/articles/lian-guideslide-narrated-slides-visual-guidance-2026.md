@@ -2,7 +2,7 @@
 title: "Look Over There! Dynamic Visual Guidance for AI-Narrated Slides"
 published: "2026-10-30"
 created: "2026-11-02T09:28:00-05:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/lian-guideslide-narrated-slides-visual-guidance-2026.md']
 source_url: "https://arxiv.org/abs/2610.41645"

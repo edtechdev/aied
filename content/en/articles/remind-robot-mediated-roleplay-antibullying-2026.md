@@ -1,7 +1,7 @@
 ---
 title: "Play-testing REMind: Evaluating an educational robot-mediated role-play game"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]

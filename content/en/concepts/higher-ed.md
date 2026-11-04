@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]

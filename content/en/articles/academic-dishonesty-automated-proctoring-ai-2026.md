@@ -1,7 +1,7 @@
 ---
 title: "A comprehensive review of the changing landscape of academic dishonesty in automated proctoring in the era of artificial intelligence"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]

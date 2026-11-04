@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction"
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [conversational-ai, intelligent-tutoring]

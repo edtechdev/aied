@@ -1,7 +1,7 @@
 ---
 title: "Face value: How avatar identity shapes epistemic trust in AI-mediated learning"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [agency, agentic-ai, ai-education, human-ai-collaboration]
 technology: [intelligent-tutoring]

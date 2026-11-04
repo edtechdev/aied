@@ -1,7 +1,7 @@
 ---
 title: "On AI glasses and wearable AI in assessment"
 created: "2026-10-15T21:30:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 sources: ['raw/papers/10.1080_02602938.2026.2661367.md']
 confidence: high

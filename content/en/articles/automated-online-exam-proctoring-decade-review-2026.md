@@ -1,7 +1,7 @@
 ---
 title: "Ensuring academic integrity through automated online exam proctoring: a decade long systematic review"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [ai-literacy]
 technology: [intelligent-tutoring, learning-analytics]

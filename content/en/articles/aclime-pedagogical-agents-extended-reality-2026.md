@@ -1,7 +1,7 @@
 ---
 title: "Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [scaffolding, learning-theories, situated-learning, embodied-learning]
 technology: [pedagogical-agent, virtual-and-augmented-reality]

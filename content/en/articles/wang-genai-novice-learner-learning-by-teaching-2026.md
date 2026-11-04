@@ -1,7 +1,7 @@
 ---
 title: "The Contribution of Generative Artificial Intelligence as a Novice Learner to Students in the Learning by Teaching Model"
 created: "2026-09-25T21:06:17-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 published: "2026"
 foundations: [ai-education, human-ai-collaboration]

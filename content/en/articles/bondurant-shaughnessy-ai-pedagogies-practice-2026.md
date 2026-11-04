@@ -1,7 +1,7 @@
 ---
 title: "Responsible integration of artificial intelligence into pedagogies of practice in mathematics teacher education"
 created: "2026-09-21T04:44:21-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/bondurant-shaughnessy-ai-pedagogies-practice-2026.md']
 confidence: medium

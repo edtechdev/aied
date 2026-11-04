@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 pedagogy: [active-learning]

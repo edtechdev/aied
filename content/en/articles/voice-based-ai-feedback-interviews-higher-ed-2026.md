@@ -1,7 +1,7 @@
 ---
 title: "Voice-Based AI Feedback in Higher Education: A Field Study on Quality and Actionability"
 created: "2026-10-22T18:31:57-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/2610.25560.md']
 confidence: low

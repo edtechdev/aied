@@ -1,7 +1,7 @@
 ---
 title: "From Competency to Agency: Teachers' Views of the Purposes of AI Education"
 created: "2026-09-25T20:37:06-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 published: "2026"
 foundations: [ai-education, ai-literacy, teacher-role, agency]

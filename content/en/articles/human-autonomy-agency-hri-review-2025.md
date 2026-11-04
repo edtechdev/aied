@@ -1,7 +1,7 @@
 ---
 title: "Human autonomy and sense of agency in human-robot interaction: A systematic literature review"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [agency]
 pedagogy: [well-being]

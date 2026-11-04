@@ -1,7 +1,7 @@
 ---
 title: "The effortless trap: Productive struggle, AI, and the illusion of learning"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]

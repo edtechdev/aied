@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade"
 created: "2026-08-11T06:15:03-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, learning-analytics]

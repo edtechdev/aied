@@ -1,7 +1,7 @@
 ---
 title: "Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, prior-knowledge, productive-failure, scaffolding, transfer-of-learning]

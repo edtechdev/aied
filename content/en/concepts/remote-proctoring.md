@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-05T00:10:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]

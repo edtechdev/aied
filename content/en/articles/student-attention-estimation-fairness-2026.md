@@ -1,7 +1,7 @@
 ---
 title: "Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [ai-education]
 pedagogy: [student-engagement]

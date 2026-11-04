@@ -1,7 +1,7 @@
 ---
 title: "Scalable AI-based clinical communication training and automated assessment"
 created: "2026-09-22T09:18:32-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 published: "2026-09-18"
 sources: ['raw/papers/sophie-clinical-communication-ai-assessment-2026.md']

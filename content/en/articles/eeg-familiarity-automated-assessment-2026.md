@@ -1,7 +1,7 @@
 ---
 title: "Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction"
 created: "2026-08-21T19:02:30-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-modeling]

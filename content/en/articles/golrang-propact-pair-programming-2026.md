@@ -1,7 +1,7 @@
 ---
 title: "ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [collaborative-learning, metacognition, scaffolding, sociocultural-learning]
 technology: [adaptive-learning, intelligent-tutoring, rag, affective-tutoring, learning-analytics]

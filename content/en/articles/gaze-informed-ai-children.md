@@ -1,7 +1,7 @@
 ---
 title: Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 technology: [adaptive-learning, affective-computing, generative-ai, llm, rag]
 research_method: [experiment]

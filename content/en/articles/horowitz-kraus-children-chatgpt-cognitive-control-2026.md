@@ -1,7 +1,7 @@
 ---
 title: "Lower engagement of cognitive control in children on ChatGPT"
 created: "2026-10-13T04:41:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai]

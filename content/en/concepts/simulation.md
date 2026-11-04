@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T22:10:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]

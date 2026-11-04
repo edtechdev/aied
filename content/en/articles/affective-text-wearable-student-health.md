@@ -1,7 +1,7 @@
 ---
 title: "A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring"
 created: "2026-05-17T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 technology: [affective-computing, affective-tutoring, learning-analytics, llm]
 research_method: [secondary analysis, longitudinal study]

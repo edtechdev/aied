@@ -1,7 +1,7 @@
 ---
 title: Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [ai-literacy]
 technology: [learning-analytics, llm]

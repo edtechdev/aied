@@ -13,7 +13,7 @@ audience: [instructors, researchers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:21-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 ---
 
 > **Synthesis:** Twenty-two Chinese-native interpreting trainees completed bidirectional computer-assisted consecutive interpreting (CACI) tasks in AI-enabled systems built on [[speech-and-voice-technologies|automatic speech recognition]] and machine translation, while [[sensor-and-gaze-analytics|eye-track]]ing, pen-recording and voice-recording captured how they actually divided attention between the AI output and their own note-taking. Cluster analysis of 264 stage-level observations produced four interaction profiles — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and 58.3% of observations shifted profile between the comprehension and production stages of the same task. Comprehension-stage patterns, but not production-stage patterns, were significantly associated with [[language-learning|interpreting quality]], and the AI-heaviest profile consistently scored lowest. The study shows that [[student-ai-interaction|student-AI interaction]] in a demanding bilingual task is heterogeneous, unstable across task phases, and not automatically beneficial.

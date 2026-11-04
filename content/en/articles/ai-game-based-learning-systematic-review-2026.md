@@ -1,7 +1,7 @@
 ---
 title: "Effectiveness of AI-Supported Game-Based Learning: A Systematic Review of Outcomes, Challenges, and Future Directions"
 created: "2026-09-30T12:34:39-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/10.3390_bs16071050.md']
 confidence: high

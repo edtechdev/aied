@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-04T19:45:00-05:00"
+updated: "2026-11-04T15:25:17-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]

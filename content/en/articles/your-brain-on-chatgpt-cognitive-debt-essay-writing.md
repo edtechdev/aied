@@ -1,7 +1,7 @@
 ---
 title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"
 created: "2026-08-25T07:50:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading]
 pedagogy: [metacognition, student-engagement]

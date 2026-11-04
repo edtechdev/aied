@@ -1,7 +1,7 @@
 ---
 title: "TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks"
 created: "2026-09-09T09:05:09-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [agency]
 pedagogy: [collaborative-learning, creativity, sociocultural-learning]

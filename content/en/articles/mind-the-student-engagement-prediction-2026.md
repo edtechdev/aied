@@ -1,7 +1,7 @@
 ---
 title: "Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal]

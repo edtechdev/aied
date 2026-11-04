@@ -1,7 +1,7 @@
 ---
 title: Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, human-in-the-loop-ai]

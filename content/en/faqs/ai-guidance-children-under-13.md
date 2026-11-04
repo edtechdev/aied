@@ -1,7 +1,7 @@
 ---
 title: "How Should Parents and Teachers Approach AI with Children Under 13?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq

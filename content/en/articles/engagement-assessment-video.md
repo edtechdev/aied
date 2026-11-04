@@ -1,7 +1,7 @@
 ---
 title: "EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [adaptive-learning, affective-computing, affective-tutoring, learning-analytics]

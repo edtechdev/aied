@@ -1,6 +1,6 @@
 ---
 title: Sensor and Gaze Analytics
-created: "2026-11-04T21:00:00-05:00"
+created: "2026-11-04T15:58:10-05:00"
 updated: "2026-11-04T16:09:41-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]

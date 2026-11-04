@@ -1,7 +1,7 @@
 ---
 title: "An automated online proctoring system with live suspicious activity detection using YOLOv11 pose estimation and multi-model classification"
 created: "2026-10-25T10:05:00-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 published: "2026"
 page_kind: [evaluation]

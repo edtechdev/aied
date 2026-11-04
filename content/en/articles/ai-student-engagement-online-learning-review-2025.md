@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and student engagement in online learning: a literature review"
 created: "2026-08-20T05:30:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [affective-computing, conversational-ai, learning-analytics]

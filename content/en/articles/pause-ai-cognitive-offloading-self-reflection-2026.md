@@ -1,7 +1,7 @@
 ---
 title: "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, reducing-ai-misuse]
 pedagogy: [metacognition, self-regulated-learning]

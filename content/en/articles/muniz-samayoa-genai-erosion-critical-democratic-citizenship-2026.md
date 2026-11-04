@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Education and the Erosion of Critical Democratic Citizenship"
-created: "2026-11-04T17:16:00-05:00"
-updated: "2026-11-04T17:16:00-05:00"
+created: "2026-11-04T17:17:13-05:00"
+updated: "2026-11-04T17:17:13-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: "Process visualization feedback in news translation: a controlled intervention study of human-AI interaction using multimodal process data"
 created: "2026-11-01T09:05:46-05:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/xian-process-visualization-feedback-news-translation-2026.md']
 confidence: low

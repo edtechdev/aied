@@ -1,7 +1,7 @@
 ---
 title: "Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program"
 created: "2026-09-20T06:06:47-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [teacher-role, theories-and-frameworks, teacher-ai-competency]
 pedagogy: [experiential-learning, professional-training, scaffolding, sociocultural-learning, student-ai-interaction]

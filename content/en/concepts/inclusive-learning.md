@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]

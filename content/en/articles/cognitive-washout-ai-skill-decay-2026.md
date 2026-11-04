@@ -1,7 +1,7 @@
 ---
 title: "After the assistant leaves: Cognitive washout dynamics and the reversibility of AI-induced skill decay"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]

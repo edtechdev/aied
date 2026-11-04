@@ -1,7 +1,7 @@
 ---
 title: "A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 
 foundations: [teacher-role]

@@ -1,7 +1,7 @@
 ---
 title: "Dear Gemini: Agency, Peer Review, and Critical AI Literacies in Student Writing Ecologies"
-created: "2026-11-04T17:40:00-05:00"
-updated: "2026-11-04T17:40:00-05:00"
+created: "2026-11-04T17:21:00-05:00"
+updated: "2026-11-04T17:21:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/stillman-dear-gemini-pairr-critical-ai-literacies-2026.md']

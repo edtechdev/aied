@@ -1,7 +1,7 @@
 ---
 title: "Technology, education and critical media literacy: potential, challenges, and opportunities"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
 methods: [qualitative-research]

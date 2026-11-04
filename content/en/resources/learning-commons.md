@@ -1,7 +1,7 @@
 ---
 title: "Learning Commons"
-created: "2026-11-04T18:20:00-05:00"
-updated: "2026-11-04T18:20:00-05:00"
+created: "2026-11-04T17:37:01-05:00"
+updated: "2026-11-04T17:37:01-05:00"
 type: resource
 summary: "Open AI infrastructure from Mark Zuckerberg and Priscilla Chan's education initiative: a knowledge graph of standards, curricula and learning science data, evaluators for judging LLM output, and model-agnostic agent skills for teacher workflows."
 url: https://learningcommons.org/

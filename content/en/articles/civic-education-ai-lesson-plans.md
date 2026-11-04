@@ -1,7 +1,7 @@
 ---
 title: "Civic education in the age of AI: Should we trust AI-generated lesson plans"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 foundations: [ai-literacy, teacher-role, teacher-ai-competency]
 technology: [generative-ai, llm-training-and-fine-tuning]

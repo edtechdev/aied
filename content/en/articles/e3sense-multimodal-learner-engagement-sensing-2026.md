@@ -1,7 +1,7 @@
 ---
 title: "E3Sense: Head-Confined Multimodal Sensing of Learner Engagement"
 created: "2026-09-23T09:15:59-04:00"
-updated: "2026-11-04T22:20:00-05:00"
+updated: "2026-11-04T15:58:10-05:00"
 type: article
 published: "2026-09-22"
 sources: ['raw/papers/e3sense-multimodal-learner-engagement-sensing-2026.md']

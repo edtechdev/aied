@@ -1,7 +1,7 @@
 ---
 title: "Supporting creativity education in the age of AI: The role of perceived exemplar source"
 created: "2026-10-15T09:15:00-04:00"
-updated: "2026-11-04T23:05:00-05:00"
+updated: "2026-11-04T16:51:25-05:00"
 type: article
 sources: ['raw/papers/ai-exemplar-attribution-creativity-education-2026.md']
 confidence: high
