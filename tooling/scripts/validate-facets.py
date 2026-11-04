@@ -52,6 +52,9 @@ COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
 LOCALE_DIRS = tuple(content_paths.TRANSLATED)
 OTHER_FIELDS = ('discipline', 'level', 'audience', 'research_method', 'page_kind')
+# Scalar enums the collection schema enforces (not list-valued, so the facet loop
+# above never sees them). Keep in step with the z.enum() in src/content.config.ts.
+SCALAR_ENUM_FIELDS = ('confidence',)
 
 
 def load_facet_vocab():
@@ -84,6 +87,26 @@ def load_enum_fields():
     return enums
 
 
+def load_scalar_enums():
+    """Scalar enums the build enforces, read from content.config.ts.
+
+    A facet written as a plain scalar (`confidence: high`) is not a list, so the
+    inline-list loop above never looks at it, yet the collection schema rejects a
+    value outside the enum and the whole site build fails on that one page. A
+    'moderate' on an article slipped through every gate and only surfaced when the
+    build ran, so check the scalar enums here too.
+    """
+    src = open(CONTENT_CONFIG_TS, encoding='utf-8').read()
+    enums = {}
+    for field in SCALAR_ENUM_FIELDS:
+        found = set()
+        for m in re.finditer(rf'^\s*{field}: z\.enum\(\[(.*?)\]\)', src, re.S | re.M):
+            found |= set(re.findall(r"'([^']+)'", m.group(1)))
+        if found:
+            enums[field] = found
+    return enums
+
+
 def frontmatter(path):
     text = open(path, encoding='utf-8').read()
     if not text.startswith('---'):
@@ -105,6 +128,7 @@ def main():
     quiet = '--quiet' in sys.argv
     vocab = load_facet_vocab()
     enums = load_enum_fields()
+    scalar_enums = load_scalar_enums()
     errors = []
     warnings = []
     checked = 0
@@ -139,6 +163,14 @@ def main():
                     if value not in enums[field]:
                         errors.append(f'{rel}: {field} value {value!r} is not in the '
                                       f'{field} enum in src/content.config.ts')
+            for field, allowed in scalar_enums.items():
+                m = re.search(rf'^{field}:\s*(\S+)\s*$', fm, re.M)
+                if not m:
+                    continue
+                value = m.group(1).strip().strip('"\'')
+                if value not in allowed:
+                    errors.append(f'{rel}: {field} value {value!r} is not one of '
+                                  f'{sorted(allowed)} in src/content.config.ts')
             if typed == 0:
                 warnings.append(f'{rel}: no typed metadata at all')
 

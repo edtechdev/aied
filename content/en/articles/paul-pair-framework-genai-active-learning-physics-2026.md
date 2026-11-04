@@ -12,7 +12,7 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/paul-pair-framework-genai-active-learning-physics-2026.md']
-confidence: moderate
+confidence: medium
 page_kind: [evaluation, framework]
 ---
 

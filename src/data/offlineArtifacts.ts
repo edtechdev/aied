@@ -297,6 +297,24 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
       "bytes": 6906214
     }
   },
+  "id": {
+    "epub": {
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.id.epub",
+      "bytes": 3018562
+    },
+    "pdf": {
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.id.pdf",
+      "bytes": 8239803
+    },
+    "llms": {
+      "url": "/aied/llms.id.txt",
+      "bytes": 52474
+    },
+    "llmsConcepts": {
+      "url": "/aied/llms.id-concepts.txt",
+      "bytes": 4428081
+    }
+  },
   "sw": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.epub",
