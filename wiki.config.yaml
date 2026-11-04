@@ -406,6 +406,25 @@ scan:
     # (arXiv preprints are cheap to be broad about). Record the rule you want
     # here per source, or leave this as the tie-break for both.
     default_policy: ingest
+    # `default_policy: ingest` is a tie-break between two AI studies, never a
+    # licence to ingest a study with no AI in it. Answer the scope question
+    # before the significance question, and answer it from the paper's own
+    # method section rather than from the library it was filed in:
+    #   Is AI/LLM/ML an object of study, a treatment, or a measured tool here?
+    # If the only AI connection is that a horizon scan mentions AI, a search was
+    # AI-assisted, or the software happens to be web-hosted, the paper is out of
+    # scope -- file it in the private AIED-REJECTED.md and move on. The operative
+    # test is mechanical: if an article page built from this study would contain
+    # no AI term outside its Citation, it does not belong in this knowledge base.
+    # (2026-11-04: an arXiv pilot of learner-composed Chinese-character mnemonics
+    # was ingested and woven into storytelling-in-education this way -- a
+    # rule-checking web tool, no ML, zero AI terms in 3,445 words -- and had to be
+    # withdrawn the same day.)
+    scope_check: |
+      Count AI terms (AI, LLM, large language, GPT, machine learning, generative,
+      chatbot, automatic scoring) in the abstract and method before ingesting.
+      Zero means reject; a single incidental mention in related work means reject.
+
   deduplication: doi_or_arxiv_id
   rate_limiting:
     strategy: exponential_backoff

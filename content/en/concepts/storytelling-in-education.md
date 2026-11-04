@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-04T14:10:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -33,7 +33,6 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
 - **Digital storytelling as a counterweight to AI:** As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and [[design-education|design education]], students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 - **Generated narrative is easy to produce and hard to keep coherent.** With 22 STEM students, AI-generated interactive fiction rated well on narrative clarity (M = 4.11) and length (M = 4.14), but engagement sat at the neutral midpoint (M = 3.08) and story-content coherence was weakest (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Co-creation inherits that weakness at the layer a story is supposed to do its work.
-- **Writing the story yourself may be the active ingredient.** Eight learners of Chinese wrote component-based mnemonic stories for four characters and studied four with a read-only decomposition panel; writing scores averaged 60.9% against 42.2% immediately and stayed 17.9 points apart at a delayed test ([[kurz-chinese-character-mnemonic-stories-2026|Kurz, 2026]]).
 
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
 
@@ -64,4 +63,3 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot
-- [[kurz-chinese-character-mnemonic-stories-2026]] — Supporting Orthographic Recall of Chinese Characters through Self-Generated Compositional Mnemonic Stories: A Mixed-Methods Pilot Study
