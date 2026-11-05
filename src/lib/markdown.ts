@@ -166,6 +166,10 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
           if (!kind) return;
           connectedKind = null;
           ctx.setProperty(node, 'className', ['connected-list']);
+          // The Connected lists are navigation: every title in them is indexed on
+          // its own page, so including them here duplicates text the search
+          // bundle already stores elsewhere.
+          ctx.setProperty(node, 'data-pagefind-ignore', 'true');
           for (const child of node.children as any[]) {
             if (!isElement(child) || child.tagName !== 'li') continue;
             // Put the icon inside the item's own link where there is one (every
@@ -214,9 +218,33 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
     ],
   });
 
+  // The citation line repeats the page title, authors, journal and DOI: all of it
+  // is already in the page header and in the page's metadata, so indexing it
+  // stores the same strings a second time on every article page.
+  let inCitation = false;
+  const citationPlugin = defineHastPlugin({
+    name: 'wiki-citation-index',
+    element: [
+      {
+        filter: ['h2'],
+        visit(node, ctx) {
+          inCitation = ctx.textContent(node).trim().toLowerCase() === 'citation';
+        },
+      },
+      {
+        filter: ['p'],
+        visit(node, ctx) {
+          if (!inCitation) return;
+          inCitation = false;
+          ctx.setProperty(node, 'data-pagefind-ignore', 'true');
+        },
+      },
+    ],
+  });
+
   const { html } = markdownToHtml(md, {
     features: { gfm: true, math: true, frontmatter: true },
-    hastPlugins: [blockquotePlugin, connectedListPlugin, mathPlugin, headingPlugin],
+    hastPlugins: [blockquotePlugin, connectedListPlugin, citationPlugin, mathPlugin, headingPlugin],
   });
 
   return { html, headings };
