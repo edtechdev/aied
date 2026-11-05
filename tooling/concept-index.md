@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 228
+**Total concepts:** 231
 
 ## Foundations of AI in education
 
@@ -17,7 +17,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`cognitive-surrender`** — Cognitive Surrender — phrases: ai surrender; cognitive surrender; surrender; surrender of judgment; surrender of judgement; surrender to ai
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
+- **`information-literacy`** — Information Literacy — phrases: information literacy; information literacy instruction; information skills; information seeking; library instruction; search skills; source evaluation
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design
+- **`media-literacy`** — Media Literacy — phrases: critical media literacy; digital media literacy; media education; media literacy; news literacy
 - **`reducing-ai-misuse`** — Reducing AI Misuse — phrases: ai misuse prevention; AI misuse reduction; mitigating AI misuse; preventing AI misuse; reduce ai misuse; reducing ai misuse
 - **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`teacher-role`** — Teaching — phrases: educator role; educators; faculty; instructor; instructors; role of educators; teacher; teacher agency; teacher role; teachers; teaching role
@@ -184,6 +186,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
 - **`language-learning`** — Language Learning — phrases: efl; english; esl; foreign language; foreign language learning; language acquisition; language education; language learning; second language; second language acquisition; SLA; tefl
 - **`legal-education`** — Legal Education — phrases: law school; law schools; law student; law students; legal education; legal pedagogy; legal training; bar examination; bar exam
+- **`libraries`** — Libraries — phrases: academic libraries; library operations; library services; library systems; public libraries; school libraries
 - **`math-education`** — Math Education — phrases: math education; mathematics; mathematics education
 - **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
 - **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula

@@ -1088,6 +1088,15 @@ concepts:
     - learning theories
     - learning theory
     - theories of learning
+  libraries:
+    title: Libraries
+    aliases:
+    - academic libraries
+    - library operations
+    - library services
+    - library systems
+    - public libraries
+    - school libraries
   librarians:
     title: Librarians
     aliases:
@@ -1231,6 +1240,16 @@ concepts:
     - interpreting and applying aied research
     - research translation
     - research-to-practice
+  information-literacy:
+    title: Information Literacy
+    aliases:
+    - information literacy
+    - information literacy instruction
+    - information skills
+    - information seeking
+    - library instruction
+    - search skills
+    - source evaluation
   information-technology:
     title: Information Technology Education
     aliases:
@@ -1256,6 +1275,14 @@ concepts:
     - TVET
     - technical and vocational education and training
     - vocational colleges
+  media-literacy:
+    title: Media Literacy
+    aliases:
+    - critical media literacy
+    - digital media literacy
+    - media education
+    - media literacy
+    - news literacy
   medical-education:
     title: Medical and Health Professions Education
     aliases:
@@ -2187,6 +2214,8 @@ sections:
     items:
     - ai-education
     - ai-literacy
+    - information-literacy
+    - media-literacy
     - agentic-ai
     - cognitive-offloading
     - cognitive-surrender
@@ -2363,6 +2392,7 @@ sections:
     - nursing-education
     - legal-education
     - information-technology
+    - libraries
   - label: Research fields
     items:
     - learning-sciences
