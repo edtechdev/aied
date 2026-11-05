@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-05T09:35:00-05:00"
+updated: "2026-11-05T14:28:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -38,6 +38,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **AI-free hiring screens stop certifying what the work requires.** In interviews with 23 Indian engineering students and recent graduates, all but one used AI to prepare for placement screens that excluded it while graduates described workplaces that expected AI from the first day, so on signaling theory a CGPA produced with AI help no longer separates candidates by cost ([[ai-free-gates-engineering-students-india-2026|Goutham & Gu (2026)]]).
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, [[speech-and-voice-technologies|text-to-speech]] narration) against the need to assess a foundational skill, and permits AI only where the competency wins. That is a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
 - **AI already mediates career preparation itself.** [[loidl-chatgpt-career-development-2026|Loidl, Cao and Huang (2026)]] surveyed 102 undergraduates at one Midwestern R1 university and found about 81% had used ChatGPT for employability-related activities in the previous 12 months, led by resumes (52.94%), workplace communication (38.24%), and cover letters (35.29%), which the interviews read as tailoring and rehearsal work rather than outsourcing; career readiness therefore has to be built on preparation that the tool already mediates, not only on the capacities this page otherwise describes.
+- **The mode of use reorganizes what students count as employability.** In eight focus groups at one Madrid university (30 students), ChatGPT users credited efficiency, screening of AI suggestions and output refinement, while non-users credited deliberation, originality and teamwork — 8 of the 9 teamwork mentions came from non-users ([[calle-martinez-chatgpt-employability-soft-skills-2026|Calle-Martinez et al. 2026]]). The authors name the two paths assisted autonomy and slow creativity, and caution that neither was measured.
 - **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
 - **What faculty expect AI to displace, and what that is not.** In ten interviews in an AI-focused [[engineering-education|engineering]] department, faculty disagreed about how generative AI would reshape work, naming coding, [[writing-education|writing]] and information work as near-term vulnerable, while offering no labor-market evidence for those expectations ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Workforce transitions.** The [[post-covid-ict-career-aspirations|ICT career aspirations]] study examines how students' career intentions shift in response to technological change.
@@ -75,6 +76,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+- [[calle-martinez-chatgpt-employability-soft-skills-2026]] — Eight focus groups: users credit efficiency and refinement, non-users credit originality and teamwork (assisted autonomy vs slow creativity)
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
