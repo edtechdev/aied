@@ -285,3 +285,8 @@
   hosts:
   - curriculum-design
   reason: The Knowledge Graph aligns generated content to academic standards and curricula, which is what the curriculum-design page argues a product has to get right; the page now lists it in connected_resources. Not listed on educational-nlp (the evaluators are a measurement layer the prose links, not an NLP method the page documents) or on open-source (the data is gated per dataset, so the page would overstate openness).
+- resource: public-ai-libraries
+  reviewed: '2026-11-05'
+  hosts:
+  - digital-divide
+  reason: 'The kiosk is access provisioning in a public building: it gives patrons who cannot buy an AI subscription a staffed place to use one, which is the first-level access argument the digital-divide page makes, and that page lists it in connected_resources. Not listed on ai-literacy: the program ships an interactive guide and library-vetted material, but it is not a curriculum for teaching AI literacy, and the literacy page already curates ten resources aimed at that job.'
