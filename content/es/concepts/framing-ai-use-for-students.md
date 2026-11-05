@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El simple hecho de poner la IA a disposición del estudiantado se asoció con un uso ineficaz o incluso poco ético, mientras que enmarcar e integrar explícitamente su uso apropiado mejoró los resultados. Si la presencia de la herramienta importa menos que cómo se la enmarca, ¿qué sugiere eso sobre el énfasis en simplemente «dar IA al estudiantado»?
-- La mayoría del estudiantado usa IA generativa, muchos no están seguros de si su uso cumple las normas y se apoyan en herramientas de acceso privado en lugar de las que ofrecen las instituciones. Si conocer las reglas apenas cambia lo que hace el alumnado, ¿qué podría persuadir en lugar de solo informar?
+- La mayoría del estudiantado usa ya [[generative-ai|IA generativa]], pocos están seguros de si su propio uso cumple las normas y prefiere las herramientas a las que accede de forma privada frente a las que ofrecen las instituciones. Si conocer las reglas apenas cambia lo que hace el alumnado, ¿qué podría persuadir en lugar de solo informar?
 - Cuando las instituciones responden a la IA con miedo y condena, el estudiantado puede ocultar o racionalizar su uso en lugar de aprender a usarla bien. ¿Ha visto que una respuesta de «pánico moral» empuje al estudiantado hacia el secretismo? ¿Cómo sería un enfoque reencuadrado y centrado en las oportunidades?
 - La ansiedad ante la IA no es solo una barrera: el estudiantado que se preocupaba por la exactitud y el plagio era *más* propenso a verificar y revisar la salida de la IA en lugar de aceptarla sin sentido crítico. ¿Cómo podría canalizarse la ansiedad productiva hacia una competencia evaluativa en lugar de suprimirla?
 - El estudiantado construye su propia idea de lo aceptable a través de «sitios» —las intenciones del profesorado, los documentos del curso, las normas de los pares y los mensajes institucionales— que a menudo divergen. Cuando esos mensajes entran en conflicto, ¿cuál cree que gana en la práctica, y cómo cierra el encuadre esa brecha?
@@ -45,7 +45,7 @@ El concepto se sitúa entre otros dos más familiares. Donde el [[technology-acc
 
 El encuadre importa porque **las políticas y las reglas no cambian la conducta por sí solas de forma fiable**. La [[research-methods-aied|investigación]] con encuestas sobre la conciencia [[regulation|regulatoria]] encuentra que el conocimiento que tiene el estudiantado de las normas institucionales sobre IA generativa muestra solo asociaciones débiles o moderadas con lo que hace en realidad ([[student-regulatory-awareness-genai]]) Conocer las reglas es necesario pero no suficiente; el mensaje tiene que *persuadir*, no solo informar.
 
-El encuadre diferenciado puede originarse dentro de una misma política y no solo entre sitios: un análisis de sentimiento de 36 políticas universitarias encontró que las declaraciones sobre docencia estaban enmarcadas de forma positiva mientras que las declaraciones sobre IA generativa y ética lo estaban de forma negativa, de modo que el estudiantado encontraba en un mismo documento tanto un estímulo como una contención ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+El encuadre diferenciado puede originarse dentro de una misma política y no solo entre sitios: un [[affective-computing|análisis de sentimiento]] de 36 políticas universitarias encontró que las declaraciones sobre docencia estaban enmarcadas de forma positiva mientras que las declaraciones sobre IA generativa y ética lo estaban de forma negativa, de modo que el estudiantado encontraba en un mismo documento tanto un estímulo como una contención ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 El encuadre también determina si el estudiantado vive la IA como una **amenaza que hay que evitar o esquivar** o como un **recurso que hay que usar de forma deliberada**. Cuando las instituciones responden a la IA con miedo y condena —lo que una línea de trabajo llama un «pánico moral» recurrente— empujan al estudiantado a ocultar o racionalizar su uso en lugar de aprender a usarla bien.([[moral-panic-genai-classroom]]) Reencuadrar la ansiedad y la condena como una oportunidad estructurada cambia toda la dinámica de la [[student-engagement|implicación del estudiantado]] con la IA.
 
@@ -65,7 +65,7 @@ La palanca de encuadre más directa de la base de conocimiento es dar la *razón
 
 ### Reencuadrar la ansiedad y la incertidumbre como competencia evaluativa
 
-Un estudio de [[mixed-methods-research|métodos mixtos]] sobre la [[writing-education|escritura académica]] encontró que la ansiedad ante la IA no es simplemente una barrera: el estudiantado que se preocupaba por la exactitud y el plagio era *más* propenso a verificar, contrastar y revisar la salida de la IA en lugar de aceptarla sin sentido crítico. El estudio enmarca la [[ai-literacy|alfabetización en IA]] menos como aceptación y más como **competencia regulatoria**, es decir, la capacidad de cuestionar las salidas, revisarlas de forma selectiva y mantener la responsabilidad de autoría.([[ai-anxiety-strategic-regulation-writing-2026]]) Enmarcar el uso de la IA para el estudiantado significa canalizar la ansiedad productiva hacia la evaluación y no suprimirla.
+Un estudio de [[mixed-methods-research|métodos mixtos]] sobre la [[writing-education|escritura académica]] encontró que la [[anxiety-and-stress|ansiedad ante la IA]] no es simplemente una barrera: el estudiantado que se preocupaba por la exactitud y el plagio era *más* propenso a verificar, contrastar y revisar la salida de la IA en lugar de tomarla al pie de la letra. El estudio enmarca la [[ai-literacy|alfabetización en IA]] menos como aceptación y más como **competencia regulatoria**, es decir, la capacidad de cuestionar las salidas, revisarlas de forma selectiva y mantener la responsabilidad de autoría.([[ai-anxiety-strategic-regulation-writing-2026]]) Enmarcar el uso de la IA para el estudiantado significa canalizar la ansiedad productiva hacia la evaluación y no suprimirla.
 
 ### Usar mensajes específicos para moldear conductas concretas
 

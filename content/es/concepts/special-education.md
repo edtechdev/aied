@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte de los materiales y no de la conversación: un modelo de visión-lenguaje lee fotografías de Shoebox Tasks —diseñadas de modo que el objetivo sea visible en los propios objetos— y las convierte en un plan que un humanoide Nao ejecuta o demuestra, informando de la precisión del plan en seis tareas y sin datos de estudiantado.
 
-- **La conducta desafiante es donde se detienen los puntos de referencia de tutoría.** De 923 diálogos basados en casos extraídos de la literatura de educación especial y de psicología educativa, el mejor de 11 modelos satisfizo una intervención documentada en el 55,8% de los casos abiertos y en el 43,3% de los planes a largo plazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **La conducta desafiante es donde se detienen los [[benchmark|puntos de referencia]] de tutoría.** De 923 diálogos basados en casos extraídos de la literatura de educación especial y de psicología educativa, el mejor de 11 modelos satisfizo una intervención documentada en el 55,8% de los casos abiertos y en el 43,3% de los planes a largo plazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implicaciones para el profesorado de educación especial
 
@@ -64,8 +64,8 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 
 ## Concepciones erróneas
 
-- **«Una valoración de usabilidad valida una herramienta de asistencia.»** Quienes ejercen la práctica valoraron una herramienta codiseñada de Historias Sociales como **muy usable (SUS 86,8)** y, sin embargo, señalaron que sus **imágenes eran genéricamente occidentales** y que su **rastreador de conducta no encajaba con el juicio clínico vinculado a las metas**. Una alta usabilidad coexistió con fallos sustantivos, así que una puntuación SUS no es un aval de idoneidad.
-- **«Los puntos de referencia genéricos dicen cómo maneja un tutor los casos de educación especial.»** De **923 diálogos basados en casos** extraídos de la literatura de educación especial y de psicología educativa, **el mejor de 11 modelos** satisfizo un criterio documentado, y **la conducta desafiante es donde se detienen los puntos de referencia de tutoría**. Las evaluaciones estándar no llegan a los casos en los que quienes ejercen la práctica más necesitan ayuda.
+- **«Una [[usability-research|valoración de usabilidad]] valida una herramienta de asistencia.»** Quienes ejercen la práctica dieron a una herramienta de Historias Sociales que habían codiseñado un aprobado de usabilidad (SUS 86,8) a la vez que criticaban sus imágenes genéricamente occidentales y un rastreador de conducta que no acertaba con el juicio clínico vinculado a las metas. Una alta usabilidad coexistió con fallos sustantivos, así que una puntuación SUS no es un aval de idoneidad.
+- **«Los puntos de referencia genéricos dicen cómo maneja un tutor los casos de educación especial.»** De **923 diálogos basados en casos** extraídos de la literatura de educación especial y de psicología educativa, **el mejor de 11 modelos** satisfizo un criterio documentado, y **ese es el límite de lo que cubre un punto de referencia de tutoría**. Las evaluaciones estándar no llegan a los casos en los que quienes ejercen la práctica más necesitan ayuda.
 - **«El estudiantado neurodivergente necesita adaptaciones, no requisitos de diseño.»** [[neurodivergent-computing-students|Zastudil et al.]] encontraron que el estudiantado neurodivergente de informática necesita **tareas estructuradas, equipos pequeños y consistentes y definiciones de roles explícitas**, requisitos generales de diseño que benefician a todo el mundo y no ajustes individuales concedidos tras un diagnóstico.
 
 ## Conceptos conectados

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje inclusivo
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 - Un estudio encontró que los vídeos segmentados por IA con pausas fijas eliminaban la brecha de rendimiento entre estudiantes con y sin TDAH. ¿Cómo podría el diseño pensado para las necesidades de un grupo mejorar el aprendizaje de todos?
 - Se dice que los sistemas de IA corren el riesgo de crear nuevas brechas de accesibilidad a la vez que eliminan las antiguas. ¿A qué tipo de persona podría excluir silenciosamente una herramienta de IA basada en texto, visual y siempre conectada?
 - La investigación sobre evaluación inclusiva expone una tensión entre las medidas antitrampas y la atención a quienes aprenden con necesidades de procesamiento visual. Cuando la seguridad y la accesibilidad entran en conflicto, ¿cómo debería decidirse el equilibrio, y quién debería decidirlo?
-- Varias herramientas invierten el supuesto de que la [[edtech-platform|tecnología educativa]] debe ser visual, por ejemplo, compañeros que priman la voz para quienes aprenden con discapacidad visual. ¿Qué supuestos sobre la persona «típica» que aprende podrían estar haciendo sus propias herramientas o materiales?
+- Varias herramientas invierten el supuesto de que la [[edtech-platform|tecnología educativa]] debe ser visual, por ejemplo, compañeros [[speech-and-voice-technologies|que priman la voz]] para quienes aprenden con discapacidad visual. ¿Qué supuestos sobre la persona «típica» que aprende podrían estar haciendo sus propias herramientas o materiales?
 
 ## Introducción
 
@@ -43,7 +43,7 @@ El aprendizaje inclusivo es el concepto **paraguas**; las páginas siguientes se
 
 | Concepto | Pregunta central que responde | Foco típico |
 |---|---|---|
-| **Aprendizaje inclusivo** *(esta página)* | ¿Cómo diseñamos la educación para que todo el mundo pueda participar de forma significativa? | El diseño amplio de la enseñanza ante la variabilidad de quienes aprenden |
+| **Aprendizaje inclusivo** *(esta página)* | ¿Cómo [[design-education|diseñamos la educación]] para que todo el mundo pueda participar de forma significativa? | El diseño amplio de la enseñanza ante la variabilidad de quienes aprenden |
 | **[[accessibility]]** · accesibilidad | ¿Puede todo el mundo percibir y operar el *formato o medio*? | Subtítulos, texto alternativo, transcripciones, contraste, compatibilidad con teclado y lectores de pantalla, WCAG |
 | **[[assistive-technology]]** · tecnología de asistencia | ¿Qué herramientas o equipos salvan la brecha de acceso de una persona? | Lectores de pantalla, TTS/STT, braille o táctil, subtitulado, adaptaciones con IA |
 | **[[special-education]]** · educación especial | ¿Cómo impartimos enseñanza a quienes tienen discapacidades diagnosticadas? | PEI, adaptaciones individualizadas, tutoría específica por discapacidad — **es principalmente un término de [[k-12]] (IDEA/derecho a servicios)** |
@@ -67,7 +67,7 @@ Los vídeos con muchas ecuaciones pueden hacerse accesibles en lugar de transcri
 
 **La [[cognitive-offloading|dependencia cognitiva]] y el equilibrio entre acceso y desarrollo.** [[seung-basham-cognitive-offloading-swld-2026|Seung y Basham (2026)]] muestran que, para el estudiantado con dificultades de aprendizaje, la misma IA generativa que rebaja las barreras de acceso a la lectura y la escritura (nivelación de textos, resúmenes, apoyo a la redacción) puede, si no se vigila, sustituir la práctica de comprensión, planificación y monitorización que estas personas necesitan más, una tensión de equidad central para el aprendizaje inclusivo. El diseño inclusivo debe considerar por tanto no solo si una herramienta es *accesible*, sino si preserva la oportunidad de desarrollar precisamente las habilidades que el acceso pretende habilitar.
 
-**La IA para la dislexia: detección, apoyo y [[personalized-learning|aprendizaje personalizado]].** Una [[meta-analysis-systematic-review|revisión sistemática]] interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018–2024, n=72) encuentra que la IA apoya a estudiantes con dislexia en detección, apoyo asistencial y aprendizaje personalizado, pero con estas líneas evolucionando en paralelo y no de forma integrada, impulsadas más por la oportunidad tecnológica que por una teoría educativa consolidada. Las herramientas de ayuda a la educación basadas en aprendizaje automático abarcan cinco áreas (aplicaciones específicas, implicación, personalización, recomendación y apoyo genérico), pero hacen hincapié en el rendimiento técnico y la precisión de clasificación mientras pasan por alto la validez ecológica y el despliegue práctico en el aula. La investigación sobre detección (EEG, seguimiento ocular, modelos de aprendizaje automático) muestra potencial diagnóstico para la intervención temprana, pero a menudo exige equipos especializados y entornos controlados, lo que limita su escalabilidad y accesibilidad en contextos escolares típicos. Entre los retos abiertos están la validación experimental limitada, la escalabilidad, las preocupaciones de [[ethics|ética]] y privacidad con datos sensibles del estudiantado, el limitado apoyo y formación al [[teacher-role|profesorado]] y las barreras lingüísticas y culturales (la mayor parte de la investigación se dirige a poblaciones anglófonas), lo que subraya que el aprendizaje inclusivo debe combinar la capacidad técnica con un despliegue validado, escalable y éticamente fundamentado.
+**Apoyo a la dislexia: detección, asistencia y [[personalized-learning|personalización]].** Una [[meta-analysis-systematic-review|revisión sistemática]] interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018–2024, n=72) encuentra que la IA apoya a estudiantes con dislexia en detección, apoyo asistencial y aprendizaje personalizado, pero con estas líneas evolucionando en paralelo y no de forma integrada, impulsadas más por la oportunidad tecnológica que por una teoría educativa consolidada. Las herramientas de ayuda a la educación basadas en aprendizaje automático abarcan cinco áreas (aplicaciones específicas, [[student-engagement|implicación]], personalización, recomendación y apoyo genérico), pero hacen hincapié en el rendimiento técnico y la precisión de clasificación mientras pasan por alto la validez ecológica y el despliegue práctico en el aula. La investigación sobre detección ([[sensor-and-gaze-analytics|EEG]], seguimiento ocular, modelos de aprendizaje automático) muestra potencial diagnóstico para la intervención temprana, pero a menudo exige equipos especializados y entornos controlados, lo que limita su escalabilidad y accesibilidad en contextos escolares típicos. Entre los retos abiertos están la validación experimental limitada, la escalabilidad, las preocupaciones de [[ethics|ética]] y privacidad con datos sensibles del estudiantado, el limitado apoyo y formación al [[teacher-role|profesorado]] y las barreras lingüísticas y culturales (la mayor parte de la investigación se dirige a poblaciones anglófonas), lo que subraya que el aprendizaje inclusivo debe combinar la capacidad técnica con un despliegue validado, escalable y éticamente fundamentado.
 
 **La crítica de la IA centrada en la discapacidad** examina cómo los sistemas de IA pueden marginar en lugar de incluir. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** sostiene que los sistemas de [[generative-ai|IA generativa]] en la educación superior marginan activamente las formas de conocer centradas en la discapacidad debido a datos de entrenamiento anglófonos y centrados en Occidente, lo que conecta con las preocupaciones de la [[equity-in-ai-education|equidad en la educación con IA]] sobre la justicia epistémica.
 
@@ -95,7 +95,7 @@ El aprendizaje inclusivo está profundamente conectado con la [[equity-in-ai-edu
 
 **«Proporcionar tecnología de asistencia proporciona agencia.»** Son distintas, y el propio encuadre de la página lo dice: la tecnología de asistencia no garantiza una agencia significativa. Una herramienta que permite al estudiantado completar la tarea exigida también puede encaminarlo hacia la versión más estrecha de esa tarea, y la diferencia entre un andamiaje y un techo es invisible en una métrica de adopción.
 
-**«El estudiantado que tiene dificultades debería simplemente aprender a formular mejores prompts.»** Eso convierte un defecto del sistema en un déficit del estudiante. Manteniendo fija la tarea subyacente, la exactitud del modelo subió solo del **82,4% con una redacción de baja alfabetización al 83,4% con una formulación experta** —una diferencia de un punto—, mientras que exigir mejores prompts añade una nueva exclusión sobre la existente. La palanca está en el tratamiento del lado del sistema de la variación lingüística, no en el entrenamiento remedial de prompts.
+**«El estudiantado que tiene dificultades debería simplemente aprender a formular mejores prompts.»** Eso convierte un defecto del sistema en un déficit del estudiante. Manteniendo fija la tarea subyacente, la exactitud del modelo subió solo del **82,4% con una redacción de baja alfabetización al 83,4% con una formulación experta** —una diferencia de un punto—, mientras que exigir mejores [[prompt-engineering|prompts]] añade una nueva exclusión sobre la existente. La palanca está en el tratamiento del lado del sistema de la variación lingüística, no en el entrenamiento remedial de prompts.
 
 **«Una herramienta construida para aulas con buenos recursos servirá en contextos de bajos recursos una vez traducida.»** El contexto cambia la restricción de diseño. [[suacode-african-students-motivations|SuaCode]] llegó a estudiantes de contextos africanos de bajos recursos donde **menos del 1% tiene habilidades de programación** construyendo para teléfonos inteligentes en lugar de ordenadores de laboratorio, lo que es un diseño distinto y no una versión más pequeña del mismo.
 

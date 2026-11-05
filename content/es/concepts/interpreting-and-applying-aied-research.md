@@ -1,7 +1,7 @@
 ---
 title: Interpretar y aplicar la investigación en AIED
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:38-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Si recuerda una sola cosa de esta página, que sea que la cifra titular suele es
 - **Las propias revisiones del campo no superan la auditoría.** La auditoría de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] de **14 metaanálisis revisados por pares** que afirmaban que la IA mejora la educación encontró que **ninguno** ofrecía una base válida para las afirmaciones que sostenía, y entre 46 estudios primarios seleccionados al azar, el **61%** presentaba problemas de validez. El problema no es un artículo malo; es una cultura de reporte.
 - **Una revisión puede cuantificar el sesgo de notificación de su propio corpus.** Una revisión sistemática de 155 estudios de educación superior encontró que 117 (75,5%) informaban de una implementación exitosa, 124 (80,0%) cubrían solo el impacto a corto plazo y únicamente 23 (14,8%) informaban de fallos de [[ethics|ética]], equidad o gobernanza: el desequilibrio que describen las comprobaciones anteriores, medido sobre la propia base de evidencia de la revisión ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Los autoinformes favorecen a todo el mundo.** Las personas califican sus propias [[ai-literacy|competencias en IA]] alrededor de un **40%** por encima de lo que muestran las medidas de rendimiento, y por eso las encuestas de satisfacción y confianza son la evidencia más débil sobre la que se puede actuar ([[self-report-measures|medidas de autoinforme]], [[educational-measurement|medición educativa]]).
-- **La mayoría de los productos que ya están en las aulas no tienen ninguna evidencia independiente.** [[instruction-partners-ai-in-action-learning-tour-2026|el recorrido de aprendizaje de Instruction Partners de 2025–26]] perfiló 20 productos de IA dirigidos al estudiantado y encontró que, de los 16 con perfiles completos, solo siete tenían una revisión independiente que examinara el rendimiento del estudiantado entre grupos en Estados Unidos; dos se estudiaron solo en el extranjero, cuatro tenían estudios en curso y tres se basaban únicamente en datos internos. Los autores sostienen que los estudios causales independientes que cubran los grupos prioritarios deberían ser la expectativa para todos los productos dirigidos al estudiantado, algo que todavía no es la norma para las herramientas que las escuelas ya usan.
+- **La mayoría de los productos que ya están en las aulas no tienen ninguna evidencia independiente.** [[instruction-partners-ai-in-action-learning-tour-2026|el recorrido de aprendizaje de Instruction Partners de 2025–26]] perfiló 20 productos de IA dirigidos al estudiantado y encontró que, de los 16 con perfiles completos, solo siete tenían una revisión independiente que examinara el [[learning-gains|rendimiento del estudiantado]] entre grupos en Estados Unidos; dos se estudiaron solo en el extranjero, cuatro tenían estudios en curso y tres se basaban únicamente en datos internos. Los autores sostienen que los estudios causales independientes que cubran los grupos prioritarios deberían ser la expectativa para todos los productos dirigidos al estudiantado, algo que todavía no es la norma para las herramientas que las escuelas ya usan.
 
 ## Convertir un hallazgo en una decisión
 

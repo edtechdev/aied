@@ -1,7 +1,7 @@
 ---
 title: "¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]
@@ -73,7 +73,7 @@ Una ganancia pre/post muestra que la intervención funcionó. Muestra que las pu
 
 Los tamaños del efecto publicados se trasladan a mi clase. Los 14 metaanálisis de O'Neill no podían sostener las afirmaciones construidas sobre ellos, y ambos intervalos de predicción informados incluían el cero.
 
-La analítica de la plataforma mide la calidad docente. El agente clasificado en tercer lugar por Zhang quedó último en una rúbrica de expertos.
+La [[learning-analytics|analítica]] de la plataforma mide la calidad docente. El agente clasificado en tercer lugar por Zhang quedó último en una rúbrica de expertos.
 
 ## Lo que le van a responder
 

@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: Constructivismo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ El trabajo empírico encuentra una y otra vez una brecha entre los objetivos con
 Este patrón se generaliza en todo el campo:
 
 - Cuando la IA generativa completa la escritura, el razonamiento o el código por el estudiantado, quien aprende pierde el proceso de pensamiento constructivo que la tarea pretendía construir: la preocupación central de la [[cognitive-offloading|descarga cognitiva]] y la [[cognitive-offloading|dependencia excesiva]].([[generative-refusal-ai-tools-for-thought]])
+- **La pérdida ya es medible, y sigue al trabajo y no a la herramienta.** En 26.811 estudiantes chinos de secundaria, la IA generativa elevó las notas de los deberes un 18% y recortó el tiempo de realización un 30%, mientras que las puntuaciones de los [[summative-assessment|exámenes con libros cerrados]] cayeron un 20% en seis meses. El descenso se concentró en el aproximadamente 81% de personas usuarias cuyos tiempos de realización indicaban externalización de los deberes, y quienes mantuvieron un tiempo de deberes comparable al de quienes no usaban IA aprendieron con la misma eficacia ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei y Wu (2026)]]). La variable que predecía el aprendizaje no era el uso de IA, sino si quien aprende seguía realizando la construcción.
 - Las implementaciones de IA que hacen hincapié en la retroalimentación adaptativa y la eficiencia con frecuencia atienden mal los objetivos de agencia de quien aprende, reflexión crítica y decisión autónoma que implica el constructivismo.([[ai-vocational-education-training-review]])
 
 ### La trampa de los nombres: la salida de la IA generativa no es aprendizaje generativo
@@ -81,6 +82,7 @@ Este patrón se generaliza en todo el campo:
 Una confusión recurrente en el campo gira en torno a una colisión de nombres. La **IA generativa** designa una clase de *tecnología*: modelos que generan texto, imágenes o código. El **aprendizaje generativo** (la teoría del aprendizaje generativo de Wittrock) designa una *actividad de quien aprende*: quien aprende construye significado de forma activa estableciendo conexiones entre la información nueva y los conocimientos previos, mediante estrategias como resumir, hacer mapas, dibujar, autoevaluarse y autoexplicarse. No son lo mismo, y confundirlos tiene consecuencias [[pedagogy|pedagógicas]] reales: que una IA *produzca* un resumen o un mapa para el estudiantado es lo contrario de que el estudiantado *realice* el acto de aprendizaje generativo. [[genai-mindtool-generative-learning|Dabbagh y Fake (2026)]] parten directamente de esta distinción y sostienen que una herramienta de pensamiento basada en IA generativa solo apoya el aprendizaje generativo cuando es *quien aprende* quien impulsa la actividad constructiva: generar un mapa mental con ayuda de la IA es aprendizaje generativo; que la IA genere el mapa entero no lo es, por muy fluida o correcta que sea la salida.
 
 La pregunta decisiva es **quién realiza la construcción de significado**:
+
 - ¿El estudiante construye una explicación o se limita a recibirla?
 - ¿La IA incita a quien aprende a conectar ideas o le proporciona las conexiones ya hechas?
 - ¿El artefacto (resumen, mapa, código, modelo) es el *producto* de la construcción de quien aprende o un sustituto de ella?
@@ -164,3 +166,4 @@ El constructivismo también moldea cómo se enseña la propia alfabetización en
 - [[educational-robotics-pathways-2026]] — Caminos hacia el aprendizaje de la robótica educativa impulsada por IA (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agente generativo que simula la evolución cognitiva del estudiantado
 - [[synthetic-position-self-authorship-2026]] — Las contraposiciones simuladas de la IA ensayan la forma del diálogo pero retienen la resistencia que obliga a revisar
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La penalización del aprendizaje: notas de deberes un 18% arriba, exámenes con libros cerrados un 20% abajo, concentrado entre quienes externalizan los deberes

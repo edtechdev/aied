@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:12:38-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,7 +60,7 @@ Agrupada en 53 estudios, la educación asistida por IA generativa superó a los 
 
 Un metaanálisis de tres niveles de 22 estudios encuentra que el aprendizaje basado en problemas y en [[project-based-learning|proyectos]] apoyado por IA generativa produce un efecto agrupado grande sobre los resultados internos de quien aprende (g = 0,819), aunque una corrección PET-PEESE lo reduce a g = 0,378; la forma de incorporación también importó, con los chatbots generales agrupados en g = 0,970 frente a g = 0,455 para sistemas personalizados o de API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
-Un metaanálisis separado de 42 estudios solo sobre motivación sitúa el efecto agrupado más abajo (g = 0,764) e informa de un intervalo de predicción del 95% que abarca [−0,689, 2,217], de modo que la ventaja motivacional no es fiablemente positiva para un entorno nuevo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+Un metaanálisis separado de 42 estudios solo sobre motivación sitúa el efecto agrupado más abajo (g = 0,764) e informa de un intervalo de predicción del 95% que abarca [−0,689, 2,217], de modo que la ventaja [[motivation|motivacional]] no es fiablemente positiva para un entorno nuevo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 La interfaz de usuario generativa es la capacidad más reciente de esta línea: modelos que emiten un artefacto interactivo funcional (controles deslizantes, simulaciones manipulables) en lugar de prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], un equipo de Google Research, informan de que la interfaz generativa disponible comercialmente todavía no es lo bastante precisa desde el punto de vista pedagógico para constructos complejos, pero que descomponer un objetivo de aprendizaje en metas progresivas por niveles y envolver la generación en bucles de crítica y automejora produce materiales interactivos que el profesorado experto considera aceptables. El suyo es un diseño de orquestación: el profesorado declara los objetivos, los aprueba y elige entre simulaciones candidatas, de modo que la restricción vinculante para el [[simulation|material de aprendizaje interactivo]] a medida se desplaza de la producción a la especificación, y las [[guardrails|barreras de seguridad pedagógicas]] quedan integradas en la canalización de generación en lugar de dejarse después a la vigilancia del profesorado.
 
@@ -76,7 +76,7 @@ La generación de contenido también va más allá de las [[math-education|matem
 
 ### La IA generativa en ámbitos especializados: apoyo a la dislexia
 
-Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018-2024, n=72) encuentra que **la IA generativa está infrautilizada en el ámbito de apoyo a la dislexia**. La investigación sobre IA generativa (toda de 2024) se agrupa en [[conversational-ai|chatbots]] inteligentes, apoyo a la [[teacher-education|formación del profesorado]] y estudios exploratorios, y está superando rápidamente al [[machine-learning|aprendizaje automático]] clásico como herramienta de elección, pero la experimentación rigurosa y la validación en el mundo real siguen en gran medida ausentes. El análisis de tendencias futuras de la revisión apunta a materiales personalizados impulsados por IA generativa y retroalimentación adaptativa en tiempo real, modelos de diagnóstico [[multimodal|multimodales]] que integran seguimiento ocular, EEG y [[learning-analytics|analítica]] del comportamiento, [[intelligent-tutoring|sistemas de tutoría inteligente]] y agentes conversacionales impulsados por PLN, y herramientas de apoyo para el profesorado. Esto ilustra tanto la promesa de la IA generativa para la generación de contenido y el apoyo interactivo en un ámbito especializado y de alta necesidad como el riesgo de que su adopción vaya por delante de la base de evidencia.
+Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018-2024, n=72) encuentra que **la IA generativa está infrautilizada en el ámbito de apoyo a la dislexia**. La investigación sobre IA generativa (toda de 2024) se agrupa en [[conversational-ai|chatbots]] inteligentes, apoyo a la [[teacher-education|formación del profesorado]] y estudios exploratorios, y está superando rápidamente al [[machine-learning|aprendizaje automático]] clásico como herramienta de elección, pero la experimentación rigurosa y la validación en el mundo real siguen en gran medida ausentes. El análisis de tendencias futuras de la revisión apunta a materiales personalizados impulsados por IA generativa y retroalimentación adaptativa en tiempo real, modelos de diagnóstico [[multimodal|multimodales]] que integran [[sensor-and-gaze-analytics|seguimiento ocular]], EEG y [[learning-analytics|analítica]] del comportamiento, [[intelligent-tutoring|sistemas de tutoría inteligente]] y agentes conversacionales impulsados por PLN, y herramientas de apoyo para el profesorado. Esto ilustra tanto la promesa de la IA generativa para la generación de contenido y el apoyo interactivo en un ámbito especializado y de alta necesidad como el riesgo de que su adopción vaya por delante de la base de evidencia.
 
 ## Concepciones erróneas comunes
 
@@ -114,6 +114,7 @@ Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone
 - [[ai-technologies]] — el paraguas de las técnicas y los modelos de IA
 - [[higher-ed]] — un contexto de despliegue principal
 - [[k-12]] — un contexto de despliegue principal
+- [[reflection]]
 
 ## Artículos conectados
 - [[genai-learning-motivation-meta-analysis-2026]] — Metaanálisis del efecto de la IA generativa sobre la motivación para aprender, con un intervalo de predicción que abarca del daño al beneficio

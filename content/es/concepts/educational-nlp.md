@@ -1,13 +1,13 @@
 ---
 title: PLN educativo
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T01:53:02-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ El procesamiento de lenguaje natural en educación aplica métodos computacional
 - **Análisis del lenguaje del estudiantado.** [[llm-sentiment-analysis-education-research|La investigación sobre análisis de sentimiento asistido por LLM]] aplica el análisis de sentimiento basado en LLM a la investigación educativa, extrayendo señales emocionales y evaluativas del texto del estudiantado a escala, lo que alimenta la [[learning-analytics|analítica del aprendizaje]] y la [[affective-computing|computación afectiva]].
 - **Predicción y medición.** [[llm-item-difficulty-prediction|La predicción de la dificultad de los ítems con LLM]] y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] usan modelos de lenguaje para estimar la dificultad de ítems y de textos, insumos centrales de la [[educational-measurement|medición educativa]], el [[adaptive-learning|aprendizaje adaptativo]] y los modelos de [[item-response-theory|teoría de respuesta al ítem]].
 - **Legibilidad y alineación con el [[curriculum-design|diseño curricular]].** Bird (2026) combina la clasificación de texto con transformers y características de lingüística computacional para clasificar literatura inglesa por Key Stage del Reino Unido, y alcanza un F1 de 0,996: un complemento basado en datos de [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] y [[llm-item-difficulty-prediction|la predicción de la dificultad de los ítems con LLM]] para la [[educational-measurement|medición educativa]] y la alineación con el nivel de lectura.
+- **El texto generado conlleva su propia [[reading-education|carga de legibilidad]].** Clark et al. (2026) encuentran que los modelos recientes usan en exceso construcciones que la literatura sobre procesamiento asocia con un coste de comprensión —n-gramas de baja frecuencia, sustantivos apilados, verbos denominativos, dependencias largas y relativas de objeto reducidas— en comparación con sus propias paráfrasis que preservan el significado y con líneas base humanas emparejadas por género, y rastrean el patrón hasta un posentrenamiento que premia la densidad de información y no la claridad ([[clark-ai-generated-language-readability-2026]]). Medir la dificultad del texto se aplica por tanto a lo que el modelo escribe, y no solo al texto dirigido a quien aprende que se le pide simplificar.
 - **La similitud semántica es una señal débil para la alineación curricular.** Al cribar 3.837 pares de objetivo–resumen en odontología, la recuperación por embeddings más una comprobación de inferencia en lenguaje natural juzgó neutrales o contradictorios al 22,9% de las coincidencias de alta similitud (coseno 0,90–1,00) y elevó la exactitud etiquetada por expertos de 0,69 a 0,73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **La clasificación a nivel de discurso localiza lo que las características superficiales pasan por alto.** Un modelo BERT ajustado solo en sus últimas cuatro capas de transformer clasifica pares de oraciones adyacentes como causales, contrastivos, progresivos o incoherentes y emite el punto de ruptura como diagnóstico, alcanzando un F1 medio de al menos 0,891 en 28.736 pares de oraciones ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).

@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-28T15:53:28-04:00"
+updated: "2026-11-05T17:02:43-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- Si usted fuera un estudiante que usó IA generativa para una tarea, ¿se lo diría a su docente? Esta página sugiere que la respuesta honesta está fuertemente moldeada por el miedo: la investigación encuentra que la divulgación es poco frecuente y que la impulsan la «ansiedad por las sanciones» y la preocupación por la autoincriminación. ¿Qué suposiciones sobre su propia conducta de divulgación tendría que cuestionar?
+- Si usted fuera un estudiante que usó IA generativa para una tarea, ¿se lo diría a su docente? Esta página sugiere que la respuesta honesta está fuertemente moldeada por el miedo: la investigación encuentra que la divulgación es poco frecuente y que la impulsan la «[[anxiety-and-stress|ansiedad por las sanciones]]» y la preocupación por la autoincriminación. ¿Qué suposiciones sobre su propia conducta de divulgación tendría que cuestionar?
 - La pregunta central de diseño aquí es si la divulgación funciona como vigilancia o como andamiaje para una implicación ética. Antes de leer, ¿qué creía usted que pretendía hacer un formulario de divulgación, y se le ocurre alguna manera de que ese mismo formulario pudiera servir al propósito contrario?
 - Un hallazgo llamativo es que el estudiantado que siempre divulgaba tenía más del triple de probabilidades de ser acusado de copiar: la transparencia invitaba a la sospecha. Si la honestidad puede aumentar la sospecha, ¿qué dice eso sobre cómo deberíamos diseñar la confianza entre el estudiantado y el profesorado?
 - Esta página distingue los mecanismos de cumplimiento obligatorio de las prácticas de divulgación formativas que construyen alfabetización en IA y autorregulación. ¿A cuál de ellas se parece más el enfoque de su propia institución y qué tendría que cambiar para que se convirtiera en la otra?
@@ -75,7 +75,7 @@ El trabajo de modelización de [[mohamed-temimi-assessment-imperfect-information
 
 Al examinar las orientaciones sobre IA generativa de las 50 universidades estadounidenses mejor clasificadas por innovación, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] sitúa la divulgación en la frontera entre la asistencia y la tergiversación: donde se permite la IA, las instituciones indican al estudiantado que reconozca, cite o documente de algún modo la asistencia de la IA, en lugar de presentar los resultados como enteramente propios, y son las bibliotecas —y no las oficinas de integridad— las que ostentan la autoridad sobre las normas de citación y procedencia. El planteamiento de las bibliotecas del MIT, según el cual la IA no es autora y son los autores quienes responden de documentar cómo contribuyeron las herramientas, ejemplifica el patrón, y Qian lee la divulgación simultáneamente como norma de integridad, como principio de diseño que reduce la ambigüedad antes de la entrega y como uno de los cuatro pilares de la integridad, junto con la rendición de cuentas, la [[equity-in-ai-education|equidad]] y la [[privacy|privacidad]]. Es el mismo uso no forense que describe la sección, y es la razón por la que Qian recomienda institucionalizar las bibliotecas como autoridad de citación en lugar de ampliar la detección.
 
-- **La divulgación conlleva una penalización de confianza, y la legitimidad es el mecanismo que se argumenta.** En trece experimentos, en su mayoría con paneles en línea estadounidenses y agrupados en 4.093 observaciones (θ = 0,81, z = 10,52, IC del 95% [0,66, 0,96]), se confió menos en quien divulgaba el uso de IA que en quien permanecía en silencio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke y Reimann (2025)]]). El efecto se mantuvo con seis formulaciones de la divulgación, con un evaluador que ya sabía que se había usado IA y con regímenes tanto obligatorios como voluntarios. Es la contraparte experimental del hallazgo de encuesta anterior de que el estudiantado que siempre divulgaba se enfrentaba a más del triple de probabilidades de ser acusado: la transparencia misma puede costarle a quien divulga. El único resultado del artículo orientado al estudiantado es que este confiaba menos en una profesora cuando ella divulgaba que la IA calificaba.
+- **La divulgación conlleva una penalización de confianza, y la legitimidad es el mecanismo que se argumenta.** En trece experimentos, en su mayoría con paneles en línea estadounidenses y agrupados en 4.093 observaciones (θ = 0,81, z = 10,52, IC del 95% [0,66, 0,96]), se confió menos en quien divulgaba el uso de IA que en quien permanecía en silencio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke y Reimann (2025)]]). El efecto se mantuvo con seis formulaciones de la divulgación, con un evaluador que ya sabía que se había usado IA y con regímenes tanto obligatorios como voluntarios. Es la contraparte experimental del hallazgo de encuesta anterior de que el estudiantado que siempre divulgaba se enfrentaba a más del triple de probabilidades de ser acusado: la transparencia misma puede costarle a quien divulga. El único resultado del artículo orientado al estudiantado es que este confiaba menos en una profesora cuando ella divulgaba que la [[automated-assessment|IA calificaba]].
 - **Una etiqueta de contenido cambia la descripción, no el veredicto.** Con 617 personas adultas asignadas al azar a ver o no ver una etiqueta de "AI-Generated Content/Synthetic Video", la etiqueta redujo la autenticidad percibida (medias de 4,92 sin ella y 4,21 con ella), pero dejó sin cambios la confianza (B = -0,130, p = 0,216), el riesgo, la adopción y el hecho de compartir ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang y Zhang (2026)]]).
 
 ## Diseñar una divulgación eficaz
@@ -96,7 +96,7 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - **«Las políticas de declaración obligatoria producen divulgación.»** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documentó un **74% de incumplimiento** de una declaración obligatoria en una escuela de negocios. El requisito no produjo la conducta que exigía.
 - **«El estudiantado oculta el uso de IA porque es deshonesto.»** Los factores están documentados y son específicos: solo **alrededor del 34% del estudiantado de economía reconocía usar IA**, con una divulgación aún menos frecuente, impulsada por la **ansiedad ante las sanciones**, mientras que otro estudio encontró que el **66% nunca o casi nunca divulgaba** y que el **miedo a una sanción académica era la razón principal**. Lo que los datos implican es el diseño de la política, no el carácter.
 - **«Un requisito de divulgación es un control de bajo coste.»** Una **tasa de incumplimiento del 74%** hace que el registro resultante sea peor que ningún registro: es un conjunto de datos que parece completo y no lo es, así que la institución toma decisiones sobre una muestra en la que no puede confiar.
-- **«Divulgar cómo se usó el modelo es suficiente.»** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] sostiene que la divulgación documenta el uso del modelo mientras que el uso responsable exige una garantía autoral al nivel de la afirmación, es decir, la capacidad de quien contribuye para entender, justificar y defender las afirmaciones, lo que separa la delegación cognitiva, en la que las salidas moldean decisiones sustantivas, de la delegación rutinaria, que no lo hace.
+- **«Divulgar cómo se usó el modelo es suficiente.»** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] sostiene que la divulgación documenta el uso del modelo mientras que el uso responsable exige una garantía autoral al nivel de la afirmación, es decir, la capacidad de quien contribuye para entender, justificar y defender las afirmaciones, lo que separa la [[cognitive-offloading|delegación cognitiva]], en la que las salidas moldean decisiones sustantivas, de la delegación rutinaria, que no lo hace.
 
 ## Conceptos conectados
 
@@ -120,7 +120,7 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[social-norms-ai-use]] — por qué quien aprende elige ocultar en lugar de divulgar
 
 ## Artículos conectados
-- [[fu-ai-label-authenticity-trust-generated-videos-2026] — Etiquetas de divulgación de IA, autenticidad percibida y confianza en vídeos instructivos generados por IA
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Etiquetas de divulgación de IA, autenticidad percibida y confianza en vídeos instructivos generados por IA
 - [[wu-lam-genai-writing-assessment-professors-2026]] — La dirección inversa: decir al estudiantado cuándo la IA califica su trabajo y preguntar antes de subirlo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Más allá de la detección: cómo el estudiantado usa y oculta la IA en las evaluaciones en línea
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgación de la IA por parte del estudiantado, estigma y aprendizaje autorregulado

@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ El LPA supone que la muestra procede de una mezcla de subgrupos, cada uno con su
 
 - **LCA: indicadores categóricos.** Becker y sus colegas convirtieron las categorías de respuesta codificadas a partir de las respuestas abiertas de 1189 estudiantes de física en variables indicadoras y retuvieron dos clases: personas usuarias pragmáticas (70 por ciento) y no usuarias escépticas (30 por ciento); como un tema no mencionado cuenta como «sin respaldo», los autores señalan inflación de ceros en el dataframe de análisis.
 - **LPA: indicadores continuos**, como puntuaciones de escala y medias de constructo. Chen y sus colegas perfilaron a 128 futuros docentes taiwaneses en cinco constructos del [[technology-acceptance-model|TAM]]/UTAUT2; Acquah y sus colegas perfilaron a 509 estudiantes de grado ghaneses en tres dimensiones de conciencia ética; Schweder y sus colegas perfilaron a 2464 estudiantes en la satisfacción de necesidades [[motivation|motivacionales]].
-- **El análisis de transición (de perfiles) latentes** amplía la familia en el tiempo, estimando perfiles por oleada y la probabilidad de pasar de uno a otro. Liang y sus colegas siguieron la motivación para aprender con IA de 2086 estudiantes a lo largo de un año; Wu siguió a 457 estudiantes de japonés durante tres oleadas, y el perfil desadaptativo se redujo del 26,48 al 17,74 por ciento.
+- **El análisis de transición (de perfiles) latentes** amplía la familia en el tiempo, estimando perfiles por oleada y la probabilidad de pasar de uno a otro. Liang y sus colegas siguieron la motivación para aprender con IA de 2086 estudiantes a lo largo de un año; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] siguió a 457 estudiantes de japonés durante tres oleadas, y el perfil desadaptativo se redujo del 26,48 al 17,74 por ciento.
 
 El agrupamiento ordinario ([[machine-learning|k-means]] y jerárquico) persigue la misma intención centrada en las personas, pero divide los casos por distancia geométrica en lugar de estimar un modelo probabilístico. Recurra al LPA o al LCA cuando la pregunta se refiera a subgrupos: si «quien aprende» es una ficción en el nivel de agregación de su muestra y si los subgrupos difieren en forma además de en nivel. No recurra a ellos cuando necesite un efecto medio del tratamiento: una solución de cinco perfiles dentro de un [[rct|ensayo aleatorizado]] de un [[intelligent-tutoring|tutor adaptativo]] predijo diferencias en el postest (η² parcial = 0,27), pero no encontró ninguna interacción condición × perfil (ps ≥ 0,198).
 

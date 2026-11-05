@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo pueden los agentes de IA apoyar a estudiantes y docentes?"
 created: "2026-09-22T18:34:19-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
@@ -44,7 +44,7 @@ Un [[agentic-ai|agente]] planifica, llama a herramientas, mantiene el contexto, 
 
 [[agentic-workflows-education|Flujos de trabajo agénticos en educación]] nombra cuatro capacidades recurrentes: reflexión, planificación, uso de herramientas y colaboración multiagente. Cada una añade un coste junto a la posibilidad, en [[explainable-ai|interpretabilidad]], coordinación, [[trust-calibration|confianza]], latencia y supervisión.
 
-Los roles del lado del estudiante van de la tutoría [[adaptive-learning|adaptativa]] y la planificación del estudio a la retroalimentación [[formative-assessment|formativa]], la [[problem-solving|resolución de problemas]] guiada y la generación de práctica, y de ahí a las recomendaciones de prerrequisitos y a la [[prompt-engineering|formulación de prompts]] [[metacognition|metacognitiva]] reflexiva. Los roles del lado del docente cubren el desarrollo de materiales, la [[automated-question-generation|generación y validación de preguntas]], el triaje de la retroalimentación, la [[learning-analytics|analítica]] del curso, el diseño instruccional, la recuperación de recursos y la orquestación de subagentes especializados.
+Los roles del lado del estudiante van de la tutoría [[adaptive-learning|adaptativa]] y la planificación del estudio a la retroalimentación [[formative-assessment|formativa]], la [[problem-solving|resolución de problemas]] guiada y la generación de práctica, y de ahí a las recomendaciones de prerrequisitos y a la [[prompt-engineering|formulación de prompts]] [[metacognition|metacognitiva]] reflexiva. Los roles del lado del docente cubren el desarrollo de materiales, la [[automated-question-generation|generación y validación de preguntas]], el triaje de la retroalimentación, la [[learning-analytics|analítica]] del curso, el [[learning-design|diseño instruccional]], la recuperación de recursos y la orquestación de subagentes especializados.
 
 Dos de ellos son más seguros al principio, porque ambos producen un artefacto que una persona lee antes que los estudiantes: un generador de preguntas emparejado con un validador, y la redacción de borradores que un docente edita.
 

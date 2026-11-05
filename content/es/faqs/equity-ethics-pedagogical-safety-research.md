@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo debería la investigación sobre IA en educación incorporar la equidad, la accesibilidad, la privacidad, la ética y la seguridad pedagógica?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 audience: [researchers, instructors, instructional designers]
@@ -50,7 +50,7 @@ Se siguen dos implicaciones de diseño. Diríjase a instituciones más nuevas y 
 
 ## Ponga a los estudiantes con discapacidad en la sala de diseño
 
-Incluya a estudiantes con discapacidad en el diseño y la evaluación, pruebe las interfaces reales contra los requisitos de accesibilidad y ofrezca vías equivalentes para participar y para demostrar el aprendizaje. El cumplimiento técnico y la enseñanza inclusiva son pruebas distintas, y [[accessibility|Accesibilidad]] cubre ambas.
+Incluya a [[special-education|estudiantes con discapacidad]] en el diseño y la evaluación, pruebe las interfaces reales contra los requisitos de accesibilidad y ofrezca vías equivalentes para participar y para demostrar el aprendizaje. El cumplimiento técnico y la [[inclusive-learning|enseñanza inclusiva]] son pruebas distintas, y [[accessibility|Accesibilidad]] cubre ambas.
 
 Un [[ko-hughes-vsd-student-centered-its-2026|estudio de diseño sensible a los valores]] con estudiantes, docentes y desarrolladores de un community college muestra el trabajo en la práctica. Produjo 16 funciones alineadas con valores en [[explainable-ai|explicabilidad]] (E1-E5), control [[human-in-the-loop-ai|con el humano en el circuito]] (H1-H9) y [[privacy|privacidad]] (P1-P4), y sacó a la luz tensiones en lugar de respuestas ordenadas: transparencia frente a interpretabilidad, privacidad frente a conocimiento instruccional y [[agency|agencia]] del estudiante frente al [[scaffolding|andamiaje]] guiado por el sistema. Cuente con dirimir esas tensiones y registrar por qué lado se decidió.
 
@@ -68,7 +68,7 @@ Los profesionales convergen en un diseño compatible. En un [[reichert-human-cen
 
 ## Combine métodos y muestre el camino de los datos a la afirmación
 
-Los resultados [[quantitative-research|cuantitativos]] desagregados pueden revelar [[differential-effects-across-learner-groups|efectos diferenciales]]. Las entrevistas, las observaciones, los grupos focales y el codiseño sacan a la luz barreras, daños, supuestos culturales y experiencia del estudiante que las puntuaciones agregadas no ven. La síntesis sobre [[research-methods-aied|métodos de investigación en AIED]] considera la triangulación necesaria porque ningún método [[qualitative-research|cualitativo]] o cuantitativo maximiza a la vez la inferencia causal, la validez ecológica, la comprensión del contexto y la generalizabilidad.
+Los resultados [[quantitative-research|cuantitativos]] desagregados pueden revelar [[differential-effects-across-learner-groups|efectos diferenciales]]. Las entrevistas, las observaciones, los grupos focales y el codiseño sacan a la luz barreras, daños, supuestos culturales y [[student-experience|experiencia del estudiante]] que las puntuaciones agregadas no ven. La síntesis sobre [[research-methods-aied|métodos de investigación en AIED]] considera la triangulación necesaria porque ningún método [[qualitative-research|cualitativo]] o cuantitativo maximiza a la vez la inferencia causal, la validez ecológica, la comprensión del contexto y la generalizabilidad.
 
 Su propio análisis necesita la misma disciplina. [[chain-behind-claim-warrantability-2026|La propuesta de justificabilidad]] sostiene que una interpretación asistida por IA se mantiene inspeccionable, contestable y revisable cuando se entrega con artefactos como tablas de temas vinculadas a las fuentes, pilas de lentes y ríos de evidencia. Un resumen fluido no debería ocultar el camino que lo produjo.
 

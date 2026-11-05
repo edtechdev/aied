@@ -1,14 +1,14 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-31T10:35:00-04:00"
+source_updated: "2026-11-04T17:10:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,8 @@ Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto c
 - **Mitades complementarias de la colaboración en el aula.** Dos estudios de 2026 mapean mitades complementarias de la colaboración humano-IA en las aulas. MeduAI-SP ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]) aboga por una «complementariedad funcional» en la educación [[medical-education|clínica]]: los agentes de IA se encargan del juego de rol repetitivo, la [[simulation|simulación]] de pacientes consistente, el monitoreo de listas de verificación, el [[socratic-method|preguntar socrático]] y la retroalimentación [[formative-assessment|formativa]] preliminar, mientras que el profesorado y los pacientes estandarizados humanos aportan interpretación contextual, respuesta emocional matizada, remediación individualizada, evaluación del profesionalismo y juicios de preparación —la sustitución queda acotada por las consecuencias del error, la incertidumbre de la tarea, la sensibilidad relacional y la disponibilidad de revisión humana, y un sistema de IA queda explícitamente impedido para determinar de forma autónoma la competencia clínica. En la dirección opuesta, una discusión ética mixta de 45 estudiantes con 3 humanos y 3 agentes ([[ethics-training-agents-group-ethics-discussion-2026|Seo et al., 2026]]) documenta un patrón de doble filo: los agentes bajaron las barreras sociales (quienes participaban hablaban con más franqueza porque los agentes carecen de emociones y no sentían obligación de llenar los silencios), pero esa misma comodidad desvió la interacción lejos de las personas —el 79,7% de las preguntas fueron a los agentes frente al 60% que predice su disponibilidad (p = 0,017). Cabe destacar que la presencia de otras personas hizo que quienes participaban trataran a la IA con más respeto, lo que sugiere que la copresencia humana es en sí misma una posibilidad para calibrar la implicación con la IA.
 
 - **Los tipos de entrelazamiento difieren en lo que exigen del estudiante, y por eso algunos siguen siendo raros.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn y Rehm (2026)]] clasifican 102 estudios de educación superior según cómo se reparte el trabajo epistémico entre el estudiante y el sistema (Asistente, Facilitador, Sintetizador, Generador, Reimaginador) y encuentran que las dos formas que mantienen la competencia atribuible a cada estudiante representan el 42,16% del corpus cada una, mientras que las formas que distribuyen la autoría siguen siendo marginales. Su explicación es institucional más que técnica: los tipos raros piden al estudiantado asumir responsabilidad epistémica por resultados que no produjo mientras se le sigue evaluando como autor individual, y es esa contradicción —y no la división del trabajo en sí— la que los mantiene fuera de la práctica. La respuesta de diseño es hacer explícita la distribución del trabajo epistémico, secuenciar actividades a lo largo del espectro y construir reflexión sobre cómo se compartió la responsabilidad.
+
+- **Tener una obra no es lo mismo que ser su autor.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] nombran un *déficit de legitimación de la autoría*: una persona puede vivir un resultado como propio y aun así no poder justificar el papel de autor, porque la propiedad psicológica, el sentido de [[agency|agencia]] y la responsabilidad de dar a conocer el trabajo son rutas separadas que no tienen por qué coincidir. Su nexo de trabajo de la autoría clasifica las contribuciones rol por rol, de modo que un mismo registro puede sostener una pretensión editorial y fallar a la vez una pretensión de creador único. El planteamiento es un análisis conceptual sin datos ni modelo probado, así que el déficit es un constructo propuesto cuyas predicciones siguen sin contrastar.
 
 - **Guiar en lugar de decir exige su propio criterio para juzgar a un agente.** Un caso de diseño que se proponía replicar la facilitación docente encontró que un agente de conocimiento acotado a una base curada podía juzgarse por su exactitud, mientras que un agente pensado para llevar al estudiantado hacia sus propias respuestas no ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
@@ -165,3 +167,4 @@ La colaboración humano-IA conecta con [[human-in-the-loop-ai]] (supervisión), 
 - [[teacher-ai-collaboration-work-engagement-2026]] — Las vías opuestas de la colaboración docente-IA hacia la implicación laboral a través de la disponibilidad psicológica y la alienación laboral, acotadas por la competencia digital
 - [[wang-agentic-translation-education-2026]] — Protocolo de diseño que reorienta la formación de traductores hacia las competencias de orquestación de la IA, juicio estratégico y evaluación crítica de la IA, sin datos empíricos aún
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Una alerta afectiva es una señal que el profesorado interpreta, no una instrucción que obedecer
+- [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — El déficit de legitimación de la autoría en la cocreación humano-IA

@@ -1,7 +1,7 @@
 ---
 title: Pedagogía culturalmente relevante
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,8 +46,8 @@ La IA puede ayudar al profesorado a hacer la enseñanza culturalmente sensible, 
 
 Más allá de la generación de clases, la PCR conecta con una crítica más profunda: los datos de entrenamiento y los procesos de diseño de la IA codifican marcos epistémicos occidentales y anglófonos que marginan otras formas de conocer.
 
-- **Colonialidad epistémica:** Tali-Otmani (2026) sostiene que los sistemas de IA generativa no son epistémicamente neutros: unos datos de entrenamiento predominantemente occidentales **marginan activamente los conocimientos minorizados**, lo que produce una «doble marginación» para el estudiantado con discapacidad, cuyas epistemologías están a la vez infrarrepresentadas en los datos de entrenamiento y excluidas del diseño. Esto extiende la conversación sobre [[equity-in-ai-education|equidad]] del *acceso* a *qué conocimiento se valida*.
-- **Redistribuir la autoridad epistémica:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles y Peppler (2026)]] proponen el **aprendizaje con IA basado en la comunidad**, un marco que reposiciona las epistemologías vividas y comunitarias de quien aprende como estándar evaluativo frente a las salidas de la IA. Sus tres compromisos —el **ajuste fino epistémico**, la **redistribución de la autoridad** y el discernimiento [[situated-learning|situado]]— calibran la confianza frente a las historias locales y la pericia de la comunidad, y tratan el rechazo y el no uso estratégico como respuestas válidas de la PCR ante la IA.
+- **Colonialidad epistémica:** Tali-Otmani (2026) sostiene que los sistemas de IA generativa no son epistémicamente neutros: unos datos de entrenamiento predominantemente occidentales **marginan activamente los conocimientos minorizados**, lo que produce una «doble marginación» para el [[special-education|estudiantado con discapacidad]], cuyas epistemologías están a la vez infrarrepresentadas en los datos de entrenamiento y excluidas del diseño. Esto extiende la conversación sobre [[equity-in-ai-education|equidad]] del *acceso* a *qué conocimiento se valida*.
+- **Redistribuir la autoridad epistémica:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles y Peppler (2026)]] proponen el **aprendizaje con IA basado en la comunidad**, un marco que reposiciona las epistemologías vividas y comunitarias de quien aprende como estándar evaluativo frente a las salidas de la IA. Sus tres compromisos —el **[[llm-training-and-fine-tuning|ajuste fino]] epistémico**, la **redistribución de la autoridad** y el discernimiento [[situated-learning|situado]]— calibran la confianza frente a las historias locales y la pericia de la comunidad, y tratan el rechazo y el no uso estratégico como respuestas válidas de la PCR ante la IA.
 
 ### Datos y evaluación culturalmente fundamentados
 
@@ -71,7 +71,7 @@ A partir de los propios artículos de la base de conocimiento, el profesorado y 
 
 ## Concepciones erróneas
 
-**«Las salidas de la IA son culturalmente neutras a menos que se le pida cultura en el prompt.»** El valor por defecto no es neutro: es dominante. Un análisis de **310 planes de clase de educación cívica generados por IA (2.230 actividades)** encontró que **el 94% no contenía contenido multicultural discernible** —y de las 144 actividades que sí lo contenían, **137 se situaban en el nivel más bajo, «Aditivo», solo una alcanzó la «Transformación» y ninguna llegó a la «Acción social».** Sin indicaciones, los modelos reprodujeron un valor por defecto no diverso, así que pedir cultura en el prompt no es una mitigación del sesgo: es la única razón por la que algo de eso aparece.
+**«Las salidas de la IA son culturalmente neutras a menos que se le pida cultura en el prompt.»** El valor por defecto no es neutro: es dominante. Un análisis de **310 planes de clase de educación cívica generados por IA (2.230 actividades)** encontró que **el 94% no contenía contenido multicultural discernible** —y de las 144 actividades que sí lo contenían, **137 se situaban en el nivel más bajo, «Aditivo», solo una alcanzó la «Transformación» y ninguna llegó a la «Acción social».** Sin indicaciones, los modelos reprodujeron un valor por defecto no diverso, así que [[prompt-engineering|pedir cultura en el prompt]] no es una [[bias-mitigation|mitigación del sesgo]]: es la única razón por la que algo de eso aparece.
 
 **«Añadir ejemplos multiculturales constituye pedagogía culturalmente relevante.»** La propia jerarquía del marco dice lo contrario, y la salida generada muestra por qué la distinción es operativamente importante. El contenido aditivo deja intactas la estructura y los supuestos de la unidad; la Transformación cambia cómo se enmarca el contenido; la Acción social pide al estudiantado que actúe sobre él. Confundir representación con transformación es cómo un corpus puede tener un 6% de contenido no vacío en diversidad y seguir estando muy lejos de ser culturalmente receptivo.
 

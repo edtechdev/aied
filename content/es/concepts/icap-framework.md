@@ -1,7 +1,7 @@
 ---
 title: Marco ICAP
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-10-25T21:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El marco ICAP** (Interactivo–Constructivo–Activo–Pasivo) — una taxonomía de la implicación cognitiva desarrollada por Michelene Chi que clasifica la conducta de quien aprende en cuatro modos de cambio del conocimiento, ordenados de menor a mayor implicación cognitiva: *pasivo*, *activo*, *constructivo* e *interactivo*. En la IA en educación, ICAP proporciona a la vez un objetivo de diseño (construir herramientas que susciten una implicación constructiva e interactiva en lugar de un consumo pasivo) y una lente de evaluación (medir si quienes aprenden y los sistemas de IA están implicados de verdad en los modos superiores).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **El marco ICAP** (Interactivo–Constructivo–Activo–Pasivo) — una taxonomía de la implicación cognitiva desarrollada por Michelene Chi que clasifica la conducta de quien aprende en cuatro modos de cambio del conocimiento, ordenados de menor a mayor implicación cognitiva: *pasivo*, *activo*, *constructivo* e *interactivo*. En la [[ai-education|IA en educación]], ICAP proporciona a la vez un objetivo de diseño (construir herramientas que susciten una implicación constructiva e interactiva en lugar de un consumo pasivo) y una lente de evaluación (medir si quienes aprenden y los sistemas de IA están implicados de verdad en los modos superiores).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
 ## Preguntas para reflexionar
 
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Introducción
 
-ICAP se basa en el supuesto de que *lo que hace quien aprende* determina cuánto y qué aprende. El marco de Chi postula que, a medida que la implicación pasa de pasiva a activa, constructiva e interactiva, la naturaleza del cambio del conocimiento se profundiza: de almacenar, a atender, a integrar el conocimiento nuevo con el previo, a cocrear conocimiento mediante el diálogo. Esto convierte a ICAP en una potente herramienta analítica para la IA en educación, donde la pregunta central de diseño es si la asistencia de la IA apoya o desplaza la implicación cognitiva de quien aprende.
+ICAP se basa en el supuesto de que *lo que hace quien aprende* determina cuánto y qué aprende. El marco de Chi postula que, a medida que la implicación pasa de pasiva a activa, constructiva e interactiva, la naturaleza del cambio del conocimiento se profundiza: de almacenar, a atender, a integrar el conocimiento nuevo con el [[prior-knowledge|previo]], a cocrear conocimiento mediante el diálogo. Esto convierte a ICAP en una potente herramienta analítica para la IA en educación, donde la pregunta central de diseño es si la asistencia de la IA apoya o desplaza la implicación cognitiva de quien aprende.
 
 ## Los cuatro modos
 
@@ -49,11 +49,11 @@ ICAP se basa en el supuesto de que *lo que hace quien aprende* determina cuánto
 
 ### Un objetivo de diseño para las herramientas de IA
 
-ICAP replantea la pregunta central de diseño para la IA en la educación: una herramienta de IA que *responde por* quien aprende lo mantiene en los modos pasivo/activo, mientras que una herramienta que *pide, pregunta y [[scaffolding|andamia]]* puede empujar a quien aprende hacia una implicación constructiva e interactiva. Esto alinea ICAP con la pedagogía [[constructivist|constructivista]] y con la investigación sobre [[active-learning|aprendizaje activo]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP replantea la pregunta central de diseño para la IA en la educación: una herramienta de IA que *responde por* quien aprende lo mantiene en los modos pasivo/activo, mientras que una herramienta que *pide, pregunta y [[scaffolding|andamia]]* puede empujar a quien aprende hacia una implicación constructiva e interactiva. Esto alinea ICAP con el enfoque [[constructivist|constructivista]] de la [[pedagogy|pedagogía]] y con la investigación sobre [[active-learning|aprendizaje activo]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
 
 ### Una lente de evaluación para los agentes de IA
 
-ICAP también sirve como marco de medición. En un estudio, los investigadores ampliaron ICAP a una escala de 7 puntos para caracterizar la implicación cognitiva en el diálogo colaborativo y después compararon anotadores humanos entrenados con el etiquetado basado en LLM (aprendizaje en contexto, prompting de cero ejemplos y agentes reflexivos). La fiabilidad interevaluador humana (kappa = 0,906–0,998) superó con creces la anotación con LLM (kappa = 0,541–0,609), lo que destaca el papel de ICAP —y sus límites actuales— en la medición automatizada de la implicación para flujos de trabajo de [[learning-analytics|analítica del aprendizaje]].([[icap-cognitive-engagement-llm-agents]])
+ICAP también sirve como marco de medición. En un estudio, los investigadores ampliaron ICAP a una escala de 7 puntos para caracterizar la implicación cognitiva en el diálogo colaborativo y después compararon anotadores humanos entrenados con el etiquetado basado en [[llm|LLM]] (aprendizaje en contexto, [[prompt-engineering|prompting]] de cero ejemplos y agentes reflexivos). La fiabilidad interevaluador humana (kappa = 0,906–0,998) superó con creces la anotación con LLM (kappa = 0,541–0,609), lo que destaca el papel de ICAP —y sus límites actuales— en la medición automatizada de la implicación para flujos de trabajo de [[learning-analytics|analítica del aprendizaje]].([[icap-cognitive-engagement-llm-agents]])
 
 ### Guiar la facilitación del diálogo colaborativo
 
@@ -61,19 +61,21 @@ Como la implicación interactiva es el modo más alto de ICAP, el marco ayuda a 
 
 ### ICAP y el diseño de la analítica del aprendizaje
 
-ICAP subyace a las críticas de las métricas superficiales de «implicación»: interactuar con un panel haciendo clic en filtros es una implicación *activa*, no *interactiva*. Los diseños eficaces de analítica del aprendizaje suscitan autoevaluación y diálogo bidireccional en lugar de limitarse a mostrar datos: una implicación extraída directamente del marco de Chi.([[interactive-learning-dashboards-engagement]])
+ICAP subyace a las críticas de las métricas superficiales de «implicación»: interactuar con un panel haciendo clic en filtros es una implicación *activa*, no *interactiva*. Los diseños eficaces de analítica del aprendizaje suscitan [[self-assessment|autoevaluación]] y diálogo bidireccional en lugar de limitarse a mostrar datos: una implicación extraída directamente del marco de Chi.([[interactive-learning-dashboards-engagement]])
 
 ### La transición Activo→Constructivo como paso clave
 
 Aunque ICAP describe una jerarquía, el cambio más trascendental para el aprendizaje es el salto de los modos *Activo* a *Constructivo* (Chi y Boucher, 2023). La implicación activa (aplicar el conocimiento a escenarios parecidos pero no idénticos) prepara a quien aprende, pero es la implicación constructiva —generar explicaciones, resúmenes o artefactos nuevos— la que lo capacita para crear conocimiento nuevo. Aquí está el quid para la IA en la educación: una herramienta que mantiene a quien aprende en el modo Activo (p. ej., hacer clic en una práctica adaptativa) puede parecer productiva pero nunca lo empuja a la generación constructiva que produce una comprensión duradera. Las intervenciones colaborativas y centradas en la alfabetización que andamian deliberadamente el salto Activo→Constructivo tienden a mostrar las ganancias más fuertes.([[hingle-collaborative-ai-literacy-2025]])
 
+La parte de «ganancias más fuertes» de esa afirmación es una inferencia a partir del marco y no una comparación que la revisión realizara. La revisión de nueve estudios que la sustenta (2015–2023) cuenta cuántas intervenciones *incluían* cada modo (9 pasivas, 5 activas, 7 constructivas, 8 interactivas), no informa de ningún tamaño de efecto por modo y señala que ningún estudio incluido se basó en un solo modo, así que nada en ella aísla el salto Activo→Constructivo ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). El ordenamiento es de Chi; lo que la revisión añade es que los profesionales combinan modos en lugar de elegir uno.
+
 ### ICAP como señal de andamiaje adaptativo en un STI
 
-Los modos de ICAP pueden operacionalizarse como *estados objetivo* entre los que un tutor adaptativo elige para andamiar la implicación cognitiva a partir de un modelo del estudiante en evolución. En un STI de lógica, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] eligieron dinámicamente entre un modo *Activo* de ejemplo resuelto «Guiado» y un modo *Constructivo* de ejemplo «Con errores». Al comparar el Seguimiento del Conocimiento Bayesiano (BKT) con el Aprendizaje por Refuerzo Profundo (DRL) y una línea base no adaptativa con 113 estudiantes, ambas políticas adaptativas mejoraron el rendimiento en el postest, pero de forma diferenciada: el BKT dio las mayores ganancias a quienes tenían menos conocimiento previo (ayudándoles a ponerse al día), mientras que el DRL produjo las puntuaciones más altas en el postest entre quienes tenían más conocimiento previo. Es una demostración concreta de que *personalizar* eficazmente el modo ICAP de un tutor inteligente depende de modelar el conocimiento actual de quien aprende, y de que ningún modo ni método adaptativo único sirve para todo el estudiantado. Conecta la jerarquía de ICAP directamente con el diseño de [[adaptive-learning|aprendizaje adaptativo]] y de [[knowledge-tracing|seguimiento del conocimiento]].
+Los modos de ICAP pueden operacionalizarse como *estados objetivo* entre los que un [[intelligent-tutoring|tutor adaptativo]] elige para andamiar la implicación cognitiva a partir de un [[student-modeling|modelo del estudiante]] en evolución. En un STI de lógica, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] eligieron dinámicamente entre un modo *Activo* de ejemplo resuelto «Guiado» y un modo *Constructivo* de ejemplo «Con errores». Al comparar el Seguimiento del Conocimiento Bayesiano (BKT) con el [[reinforcement-learning|Aprendizaje por Refuerzo]] Profundo (DRL) y una línea base no adaptativa con 113 estudiantes, ambas políticas adaptativas mejoraron el rendimiento en el postest, pero de forma diferenciada: el BKT dio las mayores ganancias a quienes tenían menos conocimiento previo (ayudándoles a ponerse al día), mientras que el DRL produjo las puntuaciones más altas en el postest entre quienes tenían más conocimiento previo. Es una demostración concreta de que *personalizar* eficazmente el modo ICAP de un tutor inteligente depende de modelar el conocimiento actual de quien aprende, y de que ningún modo ni método adaptativo único sirve para todo el estudiantado. Conecta la jerarquía de ICAP directamente con el diseño de [[adaptive-learning|aprendizaje adaptativo]] y de [[knowledge-tracing|seguimiento del conocimiento]].
 
 ### ICAP como modelo de estado cognitivo para generar agentes parecidos a los humanos
 
-Más allá de seleccionar modos de tarea, ICAP se ha integrado directamente en el *modelo cognitivo* de un agente educativo generativo. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] construye un «perceptrón de profundidad cognitiva» basado en ICAP que mapea las entradas a una distribución de probabilidad sobre los cuatro niveles de ICAP, y lo fusiona con actualizaciones de estado de inspiración evolutiva y con la recuperación de memoria mediante la teoría de respuesta al ítem para simular la evolución cognitiva de un estudiante (incluidas transiciones como confusión → comprensión). Las ablaciones muestran que eliminar el módulo de percepción de ICAP colapsa la capacidad del agente de distinguir el aprendizaje superficial del profundo, evidencia de que la taxonomía ICAP puede servir como medida interna y de grano fino de la implicación cognitiva para [[simulating-students|simular estudiantes]], y no solo como una lente de evaluación externa.
+Más allá de seleccionar modos de tarea, ICAP se ha integrado directamente en el *modelo cognitivo* de un agente educativo generativo. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] construye un «perceptrón de profundidad cognitiva» basado en ICAP que mapea las entradas a una distribución de probabilidad sobre los cuatro niveles de ICAP, y lo fusiona con actualizaciones de estado de inspiración evolutiva y con la recuperación de memoria mediante la [[item-response-theory|teoría de respuesta al ítem]] para simular la evolución cognitiva de un estudiante (incluidas transiciones como confusión → comprensión). Las ablaciones muestran que eliminar el módulo de percepción de ICAP colapsa la capacidad del agente de distinguir el aprendizaje superficial del profundo, evidencia de que la taxonomía ICAP puede servir como medida interna y de grano fino de la implicación cognitiva para [[simulating-students|simular estudiantes]], y no solo como una lente de evaluación externa.
 
 ### ICAP ancla la evaluación de la interacción reflexiva con IA generativa
 

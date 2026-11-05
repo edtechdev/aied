@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-28T15:53:28-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,14 +44,15 @@ El aprendizaje experiencial está estrechamente relacionado con el [[active-lear
 - **Simulación y aprendizaje corporeizado:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permite a quienes empiezan experimentar con robots simulados, y la interacción [[embodied-learning|corporeizada]] con robots fundamenta el aprendizaje en la experiencia directa.
 - **Un laboratorio virtual puede superar al físico cuando el aparato no es lo importante.** En la ley de Ohm, el estudiantado de 9.º grado obtuvo 23,45, 20,51 y 16,57 sobre 30 en el laboratorio virtual apoyado por IA, el mismo laboratorio sin IA y el laboratorio físico, con todas las comparaciones por pares significativas ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li y Ahmad (2026)]]); los autores reconocen que la desventaja del laboratorio físico puede reducirse cuando manejar el aparato es en sí mismo el objetivo.
 - **La IA como infraestructura para la incertidumbre, no para la eficiencia.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai y Zhang (2026)]] asignan a un rol de IA generativa la tarea de generar eventos disruptivos y consecuencias en cascada en una simulación empresarial, para que los equipos revisen sus planes con información incompleta, y advierten de que las simulaciones protegidas pueden dejar hábitos de decisión que se vuelven una carga fuera del aula.
+- **Hacer frente a que se lo cuenten, medido a lo largo de cinco semanas.** En un cuasiexperimento con 126 estudiantes de primer año de ingeniería, una sesión experiencial de dos horas sobre el aprendizaje con IA generativa produjo una ganancia de conocimiento [[metacognition|metacognitivo]] de +0,25, frente a prácticamente cero en una clase expositiva. Es un efecto medio (d = -0,37) que no alcanzó la significación con p = 0,055 tras la corrección por comparaciones múltiples, y la [[self-report-measures|implicación autodeclarada]] con la IA fue comparable en ambos grupos a las cinco semanas (3,99 y 3,93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). El límite que esto impone a la justificación de la página merece decirse con claridad: una sola sesión práctica mueve el conocimiento metacognitivo en la dirección correcta sin zanjar la comparación, así que la ventaja del hacer tiene que construirse con ciclos repetidos y no darse por supuesta a partir de un único laboratorio.
 
 ### Dos formas de aprendizaje práctico en un currículo apoyado por IA
 
-Una revisión temática de 32 estudios revisados por pares sobre aprendizaje práctico en la educación en diseño apoyada por IA ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu y Zhu, 2026]]) sostiene que la IA reorganiza y no sustituye el aprendizaje experiencial, y traza una distinción que las demás fuentes de la base de conocimiento tienden a colapsar: el *aprendizaje práctico corporeizado*, que depende de la acción corporal, las herramientas y los materiales, y el *aprendizaje práctico cognitivo*, que se desarrolla mediante la operación continuada, el juicio y el ajuste de salidas generadas por IA. Ambos recorren el mismo ciclo de acción–retroalimentación–reflexión–refinamiento, pero obtienen la retroalimentación de fuentes distintas —la resistencia material del mundo real en el primer caso, los resultados lingüísticos y visuales en el segundo—, por lo que no deben tratarse como equivalentes ni como sustitutos. La advertencia de la revisión es que la eficiencia de la generación puede comprimir la fase exploratoria: varios de los estudios incluidos informan de una reducción del bocetado exploratorio y del ensayo y error gradual, de modo que más iteraciones facilitadas por la IA no implican necesariamente mayor profundidad iterativa, y el estudiantado puede perderse los encuentros con el fracaso y con las restricciones materiales que hacen educativa la práctica manual. En consonancia con esto, [[prompt-engineering|la ingeniería de prompts]] por sí sola no elevó la [[creativity|creatividad]] en los trabajos revisados, mientras que las operaciones de varios pasos (generar, modificar, seleccionar) sí lo hicieron, situando de nuevo el aprendizaje en el juicio de quien aprende y no en la generación.
+Una revisión temática de 32 estudios revisados por pares sobre aprendizaje práctico en la [[design-education|educación en diseño]] apoyada por IA ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu y Zhu, 2026]]) sostiene que la IA reorganiza y no sustituye el aprendizaje experiencial, y traza una distinción que las demás fuentes de la base de conocimiento tienden a colapsar: el *aprendizaje práctico corporeizado*, que depende de la acción corporal, las herramientas y los materiales, y el *aprendizaje práctico cognitivo*, que se desarrolla mediante la operación continuada, el juicio y el ajuste de salidas generadas por IA. Ambos recorren el mismo ciclo de acción–retroalimentación–reflexión–refinamiento, pero obtienen la retroalimentación de fuentes distintas —la resistencia material del mundo real en el primer caso, los resultados lingüísticos y visuales en el segundo—, por lo que no deben tratarse como equivalentes ni como sustitutos. La advertencia de la revisión es que la eficiencia de la generación puede comprimir la fase exploratoria: varios de los estudios incluidos informan de una reducción del bocetado exploratorio y del ensayo y error gradual, de modo que más iteraciones facilitadas por la IA no implican necesariamente mayor profundidad iterativa, y el estudiantado puede perderse los encuentros con el fracaso y con las restricciones materiales que hacen educativa la práctica manual. En consonancia con esto, [[prompt-engineering|la ingeniería de prompts]] por sí sola no elevó la [[creativity|creatividad]] en los trabajos revisados, mientras que las operaciones de varios pasos (generar, modificar, seleccionar) sí lo hicieron, situando de nuevo el aprendizaje en el juicio de quien aprende y no en la generación.
 
 El aprendizaje experiencial conecta con el [[active-learning|aprendizaje activo]], el [[project-based-learning|aprendizaje por proyectos]], el [[embodied-learning|aprendizaje corporeizado]], la [[simulation|simulación]], la [[educational-robotics|robótica educativa]] y la formación profesional de [[higher-ed|educación superior]].
 
-La experiencia integrada en el trabajo puede ser la condición vinculante para una competencia avanzada: en 89 proyectos de fin de carrera patrocinados en un laboratorio de fabricación inteligente, el avance del Nivel de Preparación Laboral 6 al 7 estaba condicionado por las colocaciones integradas en la industria y no por cursos adicionales ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+La experiencia integrada en el trabajo puede ser la condición vinculante para una competencia avanzada: en 89 proyectos de fin de carrera patrocinados en un laboratorio de fabricación inteligente, el avance del [[career-development-and-readiness|Nivel de Preparación Laboral]] 6 al 7 estaba condicionado por las colocaciones integradas en la industria y no por cursos adicionales ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
 ## Concepciones erróneas comunes
 
@@ -59,9 +60,9 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 
 **«La IA puede sustituir la experiencia del aprendizaje experiencial.»** Puede simular algunos sistemas y no puede aportar la experiencia que forma la competencia en ámbitos aplicados como la IA, la ciberseguridad y la robótica, donde el estudiantado desarrolla destrezas trabajando con las herramientas y los sistemas reales. Un entorno de seguridad simulado enseña el procedimiento; un sistema en funcionamiento enseña la consecuencia de una mala configuración.
 
-**«Las tareas más auténticas son sencillamente mejores.»** La autenticidad eleva a la vez el valor de transferencia y el problema de la evaluación: los sistemas reales producen evidencia variable y difícil de calificar, y cuanto más auténtica es la tarea, menos se parece el resultado a una puntuación. El diseño tiene que sostener ambas cosas, y por eso la estructura de reflexión pesa tanto como la tarea.
+**«Las [[authentic-assessment|tareas más auténticas]] son sencillamente mejores.»** La autenticidad eleva a la vez el valor de transferencia y el problema de la evaluación: los sistemas reales producen evidencia variable y difícil de calificar, y cuanto más auténtica es la tarea, menos se parece el resultado a una puntuación. El diseño tiene que sostener ambas cosas, y por eso la estructura de reflexión pesa tanto como la tarea.
 
-**«La tutoría con IA encaja en el aprendizaje experiencial igual que en el contenido expositivo.»** El encaje es más débil, porque un tutor puede aportar explicación y no puede aportar el encuentro con el sistema. Su lugar natural en esta pedagogía está en torno a las etapas de reflexión y conceptualización, cuando quien aprende está dando sentido a lo que ocurrió, y no en lugar del hacer. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generan el encuentro en lugar de guionizarlo: a partir de los objetivos de quien aprende, GELLI construye escenas situadas con personajes, apoyo y reflexión en tiempo de ejecución, y en un estudio intrasujetos con 40 estudiantes japoneses superó a vídeos creados por especialistas en recuerdo de vocabulario (d = 0,45) y confianza (d = 0,45), pero no en expresión oral.
+**«[[intelligent-tutoring|La tutoría con IA]] encaja en el aprendizaje experiencial igual que en el contenido expositivo.»** El encaje es más débil, porque un tutor puede aportar explicación y no puede aportar el encuentro con el sistema. Su lugar natural en esta [[pedagogy|pedagogía]] está en torno a las etapas de reflexión y conceptualización, cuando quien aprende está dando sentido a lo que ocurrió, y no en lugar del hacer. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generan el encuentro en lugar de guionizarlo: a partir de los objetivos de quien aprende, GELLI construye escenas situadas con personajes, apoyo y reflexión en tiempo de ejecución, y en un estudio intrasujetos con 40 estudiantes japoneses superó a vídeos creados por especialistas en recuerdo de vocabulario (d = 0,45) y confianza (d = 0,45), pero no en expresión oral.
 
 ## Implicaciones para la práctica
 
@@ -74,7 +75,7 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 **Para quienes desarrollan**
 
 - Cree prompts de reflexión y un registro de lo que hizo quien aprende, para que la etapa de dar sentido tenga material y la evidencia sea auditable.
-- No presente una simulación como sustituto del manejo de un sistema real en ámbitos donde la consecuencia del error es el currículo.
+- No presente una simulación como sustituto del manejo de un sistema real en ámbitos donde la consecuencia del error es el [[curriculum-design|currículo]].
 
 **Para quienes diseñan programas**
 
@@ -90,9 +91,10 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[learning-theories]]
 - [[pedagogy]] — Sombrilla: pedagogías y estrategias de enseñanza en la educación con IA
 - [[virtual-and-augmented-reality]] — la práctica inmersiva como experiencia deliberada
+- [[reflection]]
 
 ## Artículos conectados
-- [[li-ahmad-ai-virtual-lab-flipped-physics-2026] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
+
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Nivel de Preparación Laboral para la fabricación inteligente en la era de la IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)
@@ -106,3 +108,5 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Revisión temática que distingue el aprendizaje práctico corporeizado del cognitivo en la educación en diseño apoyada por IA (Yu, Liu y Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — un curso de dirección estratégica reconfigurado en torno a tres mecanismos de IA generativa
 - [[gelli-experiential-language-learning-2026]] — GELLI: un generador de interacciones para el aprendizaje experiencial de idiomas (Symonette et al. 2026)
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
+- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Sesiones experienciales frente a instruccionales para la conciencia metacognitiva en el aprendizaje asistido por IA (Benazet i Montobbio et al. 2026)

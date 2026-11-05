@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en retroalimentación
 created: "2026-09-28T19:12:31-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ La alfabetización en retroalimentación se enmarca ampliamente como un conjunto
 - **El bucle entre alfabetización e implicación funciona en ambos sentidos.** Un panel de intercepto aleatorio de tres olas con 399 estudiantes universitarios chinos encontró que la alfabetización en retroalimentación con IA predecía la implicación agéntica posterior (β = 0,222) y que la vía inversa era igual de fuerte (β = 0,263), sin que una prueba de Wald pudiera separar sus magnitudes ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 **Una disposición rival: la sensibilidad a la recompensa.** La sensibilidad a la recompensa basada en la nota debilitó el vínculo credibilidad–aprendizaje percibido en [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] (pendientes simples 0,733, 0,607 y 0,483 con sensibilidad baja, media y alta), lo que sitúa la orientación instrumental del estudiantado hacia las calificaciones justo donde la investigación sobre alfabetización en retroalimentación sitúa una disposición cultivable a usar la retroalimentación.
+
 - **La comprensión, y no la accionabilidad, cargó con el rédito de la revisión.** A lo largo de tres ciclos de retroalimentación y revisión de escritura en dos clases intactas de 48 estudiantes cada una, la comprensión fue la dimensión más asociada con la calidad de la revisión (r = 0,501), por delante de la accionabilidad (r = 0,480) y de la precisión diagnóstica (r = 0,445); lo que añadía la condición diagnóstica era una hoja de interpretación leída antes de la revisión independiente ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]]).
 
 - **Marcos para la [[student-engagement|implicación]] del estudiantado con la retroalimentación habilitada por la [[generative-ai|IA generativa]]:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson y Yan (2025)]] (Boud y Dawson son académicos de referencia en alfabetización en retroalimentación) sostienen que la IA generativa puede *habilitar* la implicación del estudiantado con la retroalimentación, trasladando un modelo cíclico de [[regulation|autorregulación]] de la retroalimentación a las fases de provocar, procesar y actuar.
@@ -93,6 +94,8 @@ Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entr
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] tratan la alfabetización en retroalimentación como algo que se desarrolla con la práctica: quienes revisaban entre pares en inglés como lengua extranjera y trabajaron dialógicamente con IA generativa para generar comentarios mejoraron su propia capacidad de juzgar y usar la retroalimentación, y no solo los comentarios que entregaron.
 
+**La alfabetización en retroalimentación tiene que abarcar tanto una fuente máquina como una humana.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman y sus colegas (2026)]] piden al estudiantado que evalúe la retroalimentación de sus pares y la de un chatbot sobre el mismo borrador en una misma reflexión, lo que convierte la comparación misma en la tarea de aprendizaje. Los estudiantes de su estudio rebajaron la autoridad del chatbot frente a la de un docente, y los autores leen esa rebaja como alfabetización y no como reticencia.
+
 ## Concepciones erróneas
 
 - **«La retroalimentación con IA mejora el pensamiento crítico de forma directa.»** En **421 estudiantes universitarios chinos**, la asociación entre el uso de IA generativa y el pensamiento crítico [[self-report-measures|autoinformado]] **pasó por la alfabetización en retroalimentación**. La alfabetización es el mediador, así que una intervención que añade retroalimentación con IA sin desarrollar la capacidad de leerla ataca el término equivocado.
@@ -115,6 +118,7 @@ Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entr
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Artículos conectados
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Alfabetización en retroalimentación con IA e implicación agéntica: un panel de intercepto aleatorio de tres olas (Xu 2026)
@@ -142,4 +146,5 @@ Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entr
 
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa condujo al pensamiento crítico a través de la alfabetización en retroalimentación con IA generativa, fortaleciéndose con el pensamiento reflexivo
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — La comprensión, y no la accionabilidad, cargó con el rédito de la revisión
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Evaluar la retroalimentación de pares y de un chatbot sobre el mismo borrador dentro de una misma tarea de reflexión
 - [[ai-peer-feedback-stem-teacher-education-2026]] — Adopción selectiva sin mejora del artefacto: la brecha de traducción de la retroalimentación (Oh 2026)

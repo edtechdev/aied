@@ -1,7 +1,7 @@
 ---
 title: "Campus AI Framework"
 created: "2026-09-29T03:32:26-04:00"
-updated: "2026-09-29T04:17:57-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: resource
 summary: "Un modelo operativo nativo de la educación superior para la estrategia y la gobernanza de la IA: ocho pilares institucionales, cuatro dominios de aplicación y una Strategic Compass para elegir iniciativas, con un diagrama que cartografía sus sitios complementarios."
 url: https://campusaiframework.com/sites
@@ -44,4 +44,8 @@ Líderes de gabinete, vicerrectores y responsables de sistemas de información q
 El marco y el sitio tienen licencia **CC BY-NC-SA 4.0**, de modo que se permite la adaptación para uso no comercial con atribución y compartir igual; el sitio ofrece su propia atribución sugerida. Su alineación con la OCDE, el NIST, la ISO/IEC 42001, la Ley de IA de la UE, la FERPA y la HIPAA es una comparación del propio editor y debe leerse como tal. Los sitios complementarios son proyectos separados, varios de la misma persona autora, y merece la pena conocerlos como un conjunto: [Campus AI Exchange](https://www.campusaiexchange.com/) es el centro neurálgico, que alberga [mapas interactivos](https://www.campusaiexchange.com/ai-policies-guidelines-map) de políticas institucionales de IA y orientaciones para el aula, una [autoevaluación de la gobernanza de la IA](https://www.campusaiexchange.com/ai-governance-assessment), mapas de gobernanza de datos y de posiciones sobre la IA, y una biblioteca de recursos. A su alrededor están [campusaigovernance.com](https://campusaigovernance.com/) (nueve dominios de gobernanza de la IA), [campusairisks.com](https://campusairisks.com/) (el Marco de Gestión de Riesgos de IA del NIST aplicado a esos dominios), [campusaioperations.com](https://campusaioperations.com/), [campusairegistry.com](https://campusairegistry.com/), una [plantilla de plan de adopción de IA](https://unit-ai-adoption-plan.netlify.app/) a nivel de unidad, y un informe sobre [IA agéntica para directivos](https://campusaiframework.com/sites). La Strategic Compass también circula como documento compartido de Google, que necesita una cuenta de Google para abrirse. Al entrar aparece una breve pregunta opcional de incorporación sobre el rol y la institución; el correo electrónico es opcional y todo el sitio puede leerse sin él.
 
 ## Conceptos conectados
-[[educational-policy-ai]], [[change-management]], [[ai-literacy]], [[governance]]
+
+- [[educational-policy-ai]]
+- [[change-management]]
+- [[ai-literacy]]
+- [[governance]]

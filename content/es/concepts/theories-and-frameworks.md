@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Todo tutor de IA, sistema de retroalimentación y panel de datos incorpora supue
 Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qué sigue cuando esas piezas cambian. En la literatura sobre IA se toman en su mayoría prestadas de la psicología y las [[learning-sciences|ciencias del aprendizaje]], y se usan como marcos interpretativos en torno a una herramienta nueva.
 
 - **[[learning-theories|Teorías del aprendizaje (paraguas)]]** — la familia en su conjunto, incluidos los polos clásicos del [[behaviorism|conductismo]] y el [[constructivist|constructivismo]] y la brecha de «constructivismo de nombre, conductismo de hecho» que reaparece en las implementaciones con IA. El conectivismo y la teoría de la carga cognitiva se cubren aquí también.
-- **[[constructivist|Constructivismo]]** — el aprendizaje como construcción activa de conocimiento. Sustenta el trabajo por proyectos, la tutoría con IA basada en el diálogo y la crítica de que los sistemas de ejercicios y retroalimentación violan su propia pedagogía declarada.
+- **[[constructivist|Constructivismo]]** — el aprendizaje como construcción activa de conocimiento. Sustenta el [[project-based-learning|trabajo por proyectos]], la [[intelligent-tutoring|tutoría con IA]] basada en el diálogo y la crítica de que los sistemas de ejercicios y retroalimentación violan su propia pedagogía declarada.
 - **[[sociocultural-learning|Teoría sociocultural]]** — el aprendizaje como mediado por herramientas e interacción social, que es por lo que la IA se teoriza como artefacto mediador y no como mera ayuda.
 - **[[activity-theory-aied|Teoría de la actividad]]** — toma todo el sistema de actividad, contradicciones incluidas, como unidad de análisis. Común en los estudios sobre IA dirigidos al profesorado, donde el hallazgo interesante suele ser la tensión entre herramientas, reglas y comunidad.
 - **[[situated-learning|Aprendizaje situado]]** y **[[embodied-learning|Aprendizaje encarnado]]** — el aprendizaje como ligado al contexto y al cuerpo, el contrapeso a tratar la IA como un medio puramente lingüístico.
@@ -48,8 +48,8 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 - **[[community-of-inquiry|Comunidad de indagación]]** — las presencias social, cognitiva y docente que hacen funcionar una experiencia en línea; una teoría de la experiencia y a la vez un marco de diseño.
 - **[[self-determination-theory|Teoría de la autodeterminación]]** — autonomía, competencia y relación como precondiciones motivacionales. Suele ser la explicación que se ofrece cuando el uso de IA eleva la implicación sin elevar el aprendizaje.
 - **[[cognitive-psychology|Cognitivismo]]** — procesamiento de información, memoria de trabajo y la divergencia entre la sensación de aprender y el aprendizaje real.
-- **Teoría de la percepción social (calidez y competencia)** — importada de la cognición social y de la investigación en robots de servicio, enmarca cómo juzga quien usa un agente de IA su credibilidad: la competencia percibida predijo directamente la credibilidad de la retroalimentación de ChatGPT, mientras que la calidez operó solo a través de la empatía similar a la humana (SEM, 230 estudiantes; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
-- **Se propuso una cuarta categoría de posibilidades, sin ponerla a prueba.** Al codificar 24 estudios con un esquema de posibilidades de tres partes, quienes revisaron encontraron que la implicación, la seguridad y la autoeficacia no encajaban en las categorías tecnológica, pedagógica o social, y propusieron posibilidades emocionales fundamentadas en el determinismo recíproco de Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
+- **Teoría de la percepción social (calidez y competencia)** — importada de la cognición social y de la investigación en robots de servicio, enmarca cómo juzga quien usa un [[agentic-ai|agente de IA]] su credibilidad: la competencia percibida predijo directamente la credibilidad de la retroalimentación de ChatGPT, mientras que la calidez operó solo a través de la empatía similar a la humana (SEM, 230 estudiantes; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Se propuso una cuarta categoría de posibilidades, sin ponerla a prueba.** Al codificar 24 estudios con un esquema de posibilidades de tres partes, quienes revisaron encontraron que la implicación, la seguridad y la autoeficacia no encajaban en las categorías tecnológica, [[pedagogy|pedagógica]] o social, y propusieron posibilidades emocionales fundamentadas en el determinismo recíproco de Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
 
 ## Modelos de quien aprende y del proceso de aprendizaje
 
@@ -65,16 +65,16 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 
 - **[[tpack|TPACK]]** — el conocimiento docente que combina tecnología, pedagogía y contenido; el marco por defecto de los estudios sobre IA dirigidos al profesorado.
 - **[[technology-acceptance-model|Modelos de adopción]]** — la intención como función de la utilidad percibida y la facilidad de uso. Se usan tanto que la dependencia del campo de la intención y no del comportamiento es una crítica constante.
-- **[[icap-framework|ICAP]]** — clasifica la implicación como pasiva, activa, constructiva o interactiva; útil para preguntar qué modo permite de verdad una interacción con IA.
+- **[[icap-framework|ICAP]]** — clasifica la implicación como pasiva, activa, constructiva o interactiva; útil para preguntar qué modo permite de verdad una [[student-ai-interaction|interacción con IA]].
 - **[[samr-model|SAMR]]** — de la sustitución a la redefinición. Popular como relato de madurez, débil como instrumento de medición.
-- **[[universal-design-for-learning|Diseño universal para el aprendizaje]]**, el **[[inclusive-learning|aprendizaje inclusivo]]** y la **[[accessibility|accesibilidad]]** — marcos de diseño sobre a quién se atiende, y los que más se invocan en el trabajo sobre discapacidad y equidad.
+- **[[universal-design-for-learning|Diseño universal para el aprendizaje]]**, el **[[inclusive-learning|aprendizaje inclusivo]]** y la **[[accessibility|accesibilidad]]** — marcos de diseño sobre a quién se atiende, y los que más se invocan en el trabajo sobre discapacidad y [[equity-in-ai-education|equidad]].
 - **[[learning-design|Diseño del aprendizaje]]**, **[[curriculum-design|diseño curricular]]** y **[[design-thinking|pensamiento de diseño]]** — cómo se estructuran tareas, secuencias y programas antes de elegir ninguna herramienta.
 - **[[change-management|Gestión del cambio]]** — si un sistema llega a adoptarse, lo que suele ser una cuestión institucional y no pedagógica.
 
 ## Medición y modelos computacionales
 
 - **[[item-response-theory|Teoría de respuesta al ítem]]** — estimación de ítems y de la habilidad, y el modelo que hace interpretables los números de una prueba.
-- **[[educational-measurement|Medición educativa]]** — el panorama de instrumentos, incluidas las medidas construidas específicamente para la alfabetización en IA.
+- **[[educational-measurement|Medición educativa]]** — el panorama de instrumentos, incluidas las medidas construidas específicamente para la [[ai-literacy|alfabetización en IA]].
 - **[[assessment-validity|Validez]]** — si un instrumento mide el constructo que afirma medir, lo que decide si un resultado informado sostiene la afirmación teórica que se le asocia.
 - **[[self-report-measures|Medidas de autoinforme]]** — la fuente de evidencia dominante y más frágil de esta literatura; se sabe que varios de los constructos anteriores divergen marcadamente entre el autoinforme y el desempeño.
 - **[[knowledge-tracing|Seguimiento del conocimiento]]** y **[[student-modeling|modelado del estudiante]]** — estimar el estado de quien aprende a lo largo del tiempo a partir de datos de interacción.
@@ -86,7 +86,7 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 
 Cuatro propuestas de la base de conocimiento construyen teoría en lugar de tomarla prestada. Son páginas de artículo y no nodos conceptuales, porque cada una es un único argumento:
 
-- **[[generativism-learning-theory|Generativismo]]** — una nueva teoría del aprendizaje que sostiene que las cuatro clásicas muestran limitaciones conceptuales significativas conforme se generaliza la IA generativa.
+- **[[generativism-learning-theory|Generativismo]]** — una nueva teoría del aprendizaje que sostiene que las cuatro clásicas muestran limitaciones conceptuales significativas conforme se generaliza la [[generative-ai|IA generativa]].
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Coagencia epistémica]]** — un modelo de cómo quienes aprenden y los sistemas de IA producen conjuntamente conocimiento y comprensión.
 - **[[absent-cognitive-baseline-2026|La línea base cognitiva ausente]]** — teoriza por qué el estudiantado nativo digital sobreestima su propio aprendizaje cuando la IA infla el desempeño.
 - **[[yan-agentivism-learning-theory-ai-2026|Agentivismo]]** — una teoría de rango medio que nombra cuatro mecanismos (agencia delegada, monitoreo y verificación epistémicos, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones comprobables.
@@ -102,7 +102,7 @@ Las palabras se usan de forma laxa en la literatura, y la diferencia merece un p
 
 ## Capas relacionadas
 
-Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en AIED aplica teoría existente en lugar de ponerla a prueba. Esta página es el inventario; el desarrollo teórico trata de producir y revisar el inventario.
+Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en [[ai-education|AIED]] aplica teoría existente en lugar de ponerla a prueba. Esta página es el inventario; el desarrollo teórico trata de producir y revisar el inventario.
 
 ## Elegir una lente cuando la pregunta es práctica
 
@@ -115,7 +115,7 @@ Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-
 
 Los marcos no son evidencia. Suelen tomarse prestados de contextos anteriores a los LLM y los localiza quien los aplica, pueden funcionar como marca, y los modelos por etapas invitan a una adopción mecánica que informa de un avance por niveles en lugar de aprendizaje. Las afirmaciones que se apoyan en un marco deben leerse junto a [[limitations-in-aied-research|las limitaciones transversales del campo]], la [[assessment-validity|validez]] de lo que haya medido el resultado y los límites conocidos del [[self-report-measures|autoinforme]].
 
-La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una síntesis temática de 55 estudios sobre aprendizaje basado en juegos apoyado por IA encontró que la eficacia dependía de si el mecanismo de IA ponía en acto la pedagogía a la que debía servir, y no de la sofisticación algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt (2026)]]).
+La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una síntesis temática de 55 estudios sobre [[game-based-learning|aprendizaje basado en juegos]] apoyado por IA encontró que la eficacia dependía de si el mecanismo de IA ponía en acto la pedagogía a la que debía servir, y no de la sofisticación algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt (2026)]]).
 
 ## Concepciones erróneas
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-28T13:06:12-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
@@ -58,7 +58,7 @@ Tres listas, escritas antes de que nadie elija un modelo:
 
 La literatura sobre [[intelligent-tutoring|tutoría inteligente]] señala que la eficacia depende del diseño [[pedagogy|pedagógico]] y no solo de la capacidad del modelo, y el fallo es fácil de construir por accidente. Un tutor optimizado para "terminar el problema" socavará a un tutor optimizado para "aprender a resolver el problema" mientras aprueba todas las pruebas funcionales que escriba, porque ambos producen respuestas finales correctas. La diferencia está en lo que hizo el estudiante entre la pregunta y la respuesta.
 
-La segunda lista es donde los equipos de desarrollo se vuelven concretos. Tome una etiqueta de dominio como "dominio de la derivada" y niéguese a que signifique producir la derivada correcta. Divídela en reconocer cuándo una derivada es apropiada, interpretarla como tasa de cambio instantánea, seleccionar la regla, ejecutar el procedimiento, explicar por qué la elección era correcta, comprobar la razonabilidad y aplicarla a un problema desconocido. Cada uno de esos elementos es algo distinto que registrar, y cada uno implica una respuesta diferente cuando falta. Esta descomposición es también la defensa contra la [[correct-answer-trap-misconceptions|trampa de la respuesta correcta]], en la que un estudiante llega a la respuesta correcta mediante un razonamiento defectuoso y su analítica registra un éxito. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] y [[zhang-tutormoments-2026|When Help is Unhelpful]] describen ambos versiones de ese fallo en producción.
+La segunda lista es donde los equipos de desarrollo se vuelven concretos. Tome una etiqueta de dominio como "dominio de la derivada" y niéguese a que signifique producir la derivada correcta. Divídela en reconocer cuándo una derivada es apropiada, interpretarla como tasa de cambio instantánea, seleccionar la regla, ejecutar el procedimiento, explicar por qué la elección era correcta, comprobar la razonabilidad y aplicarla a un problema desconocido. Cada uno de esos elementos es algo distinto que registrar, y cada uno implica una respuesta diferente cuando falta. Esta descomposición es también la defensa contra la [[correct-answer-trap-misconceptions|trampa de la respuesta correcta]], en la que un estudiante llega a la respuesta correcta mediante un razonamiento defectuoso y su [[learning-analytics|analítica]] registra un éxito. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] y [[zhang-tutormoments-2026|When Help is Unhelpful]] describen ambos versiones de ese fallo en producción.
 
 ## Construya el modelo del estudiante antes de la conversación
 
@@ -118,7 +118,7 @@ Pruebe la filtración de respuestas, el refuerzo de concepciones erróneas, el a
 
 ## Ponga la arquitectura de datos en el mismo documento de diseño
 
-Recoja solo datos del estudiante que sean pedagógicamente necesarios, y sea capaz de decir por qué existe cada campo. Cuando guarde memoria persistente o un [[student-modeling|modelo del estudiante]], haga visible su propósito para el estudiante, dele un control apropiado sobre él, proteja la información sensible, defina la retención y derive las decisiones con consecuencias a un docente u otro punto de control [[human-in-the-loop-ai|humano]]. Un modelo del estudiante que acumula en silencio una estimación de confianza que el estudiante nunca ve es un problema de protección de datos y también un problema pedagógico.
+Recoja solo datos del estudiante que sean pedagógicamente necesarios, y sea capaz de decir por qué existe cada campo. Cuando guarde memoria persistente o un [[student-modeling|modelo del estudiante]], haga visible su propósito para el estudiante, dele un control apropiado sobre él, proteja la información sensible, defina la retención y derive las decisiones con consecuencias a un docente u otro punto de control [[human-in-the-loop-ai|humano]]. Un modelo del estudiante que acumula en silencio una estimación de confianza que el estudiante nunca ve es un problema de [[privacy|protección de datos]] y también un problema pedagógico.
 
 Audite el comportamiento entre orígenes lingüísticos, niveles de habilidad, contextos culturales, necesidades de [[accessibility|accesibilidad]] y niveles de [[prior-knowledge|conocimiento previo]] y de experiencia con la IA. Un desempeño diferencial ante el mismo objetivo es un error con un estudiante adosado, y no aparecerá en su número agregado de precisión.
 
@@ -213,11 +213,11 @@ El compromiso es el objetivo. La duración de la conversación y el número de s
 
 **"A los estudiantes les encanta y la finalización subió."** Ambos hechos son compatibles con un sistema que responde bien las preguntas y no enseña nada. El estudio de 6.000 estudiantes encontró progreso más lento y menos preguntas intentadas junto con mejor precisión, así que una caída en la finalización tampoco es automáticamente una mala noticia. Informe el desempeño sin ayuda junto a los números de compromiso y deje que los dos discrepen en público.
 
-**"No podemos hacer un ensayo aleatorizado."** Puede hacer una comparación intraestudiante sin él: el mismo objetivo, con asistencia durante la unidad, evaluado sin ayuda dos semanas después, con la puntuación asistida informada al lado. Ese diseño responde a la pregunta de producto y no necesita grupo de control. Lo que no puede decirle es el contrafactual de los estudiantes que nunca usaron el tutor.
+**"No podemos hacer un [[rct|ensayo aleatorizado]]."** Puede hacer una comparación intraestudiante sin él: el mismo objetivo, con asistencia durante la unidad, evaluado sin ayuda dos semanas después, con la puntuación asistida informada al lado. Ese diseño responde a la pregunta de producto y no necesita grupo de control. Lo que no puede decirle es el contrafactual de los estudiantes que nunca usaron el tutor.
 
-**"El modelo es una API de un proveedor, así que la conducta de ayuda no está en nuestras manos."** Los peldaños viven en su capa de orquestación, y el resultado del experimento de protecciones vino de cambiar lo que el tutor tenía permitido decir, no de cambiar de modelo. Espera que el postentrenamiento del proveedor empuje hacia responder con prontitud, porque para eso se ajustó, y ponga la contención en su propio código.
+**"El modelo es una API de un proveedor, así que la conducta de ayuda no está en nuestras manos."** Los peldaños viven en su capa de orquestación, y el resultado del experimento de protecciones vino de cambiar lo que el tutor tenía permitido decir, no de cambiar de modelo. Espera que el [[llm-training-and-fine-tuning|postentrenamiento]] del proveedor empuje hacia responder con prontitud, porque para eso se ajustó, y ponga la contención en su propio código.
 
-**"Los docentes no van a usar otro panel."** No usarán uno que emita diagnósticos continuos, que según la revisión de K-12 desviaba su atención de su propia observación. Deles un número pequeño de señales interpretables, una forma de aceptar o rechazar cada recomendación y tiempo en la semana para mirarlas.
+**"Los docentes no van a usar otro panel."** No usarán uno que emita diagnósticos continuos, que según la revisión de [[k-12|K-12]] desviaba su atención de su propia observación. Deles un número pequeño de señales interpretables, una forma de aceptar o rechazar cada recomendación y tiempo en la semana para mirarlas.
 
 **"No tenemos expertos de disciplina en la plantilla."** Entonces el tutor enseñará método genérico y la notación del curso se desviará en un semestre. Un experto de la materia durante dos días en la fase de diseño, escribiendo la lista de concepciones erróneas y la lista de métodos aprobados, es la partida más barata del proyecto y la primera que los equipos recortan.
 

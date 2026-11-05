@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,7 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
 > **Apoyo y éxito estudiantil** — el trabajo del lado institucional para ayudar al estudiantado a permanecer, progresar y terminar: **asesoría académica, asistencia administrativa, contacto proactivo, derivación y asignación de apoyos escasos**. Esta es la página de lo que las instituciones *hacen con* el estudiantado, más que de lo que ocurre *dentro* de un curso. [[higher-ed|Educación superior]] es el paraguas más amplio del sector y [[student-experience]] cubre cómo la IA llega a la propia experiencia del estudiante; [[learning-gains]] mide si hubo aprendizaje. El hallazgo distintivo de esta base de conocimiento es que el apoyo con IA mueve de forma fiable la **finalización de tareas** —una acción fechada y binaria que la persona controla y que la institución puede observar— mientras deja **la persistencia, los créditos y la graduación** prácticamente intactos. Separar esos resultados es el propósito de esta página.
 
 ## Preguntas para reflexionar
@@ -38,7 +39,7 @@ ai_assist:
 
 ## Introducción
 
-El apoyo estudiantil se sitúa en el lado institucional de la relación. Su trabajo es la asesoría académica, el contacto proactivo, la derivación y la asignación de una capacidad humana y financiera finita; su base de evidencia son los registros administrativos, los eventos de matrícula, los créditos obtenidos y si el estudiante regresa. La IA generativa entró en este terreno más tarde que en la enseñanza, y buena parte de la literatura aquí trata sobre sistemas **no generativos** —chatbots de mensajes de texto, modelos de alerta temprana, predicción federada de riesgo— con las herramientas generativas llegando como asesores, asistentes y respondedores de bases de conocimiento.
+El apoyo estudiantil se sitúa en el lado institucional de la relación. Su trabajo es la asesoría académica, el contacto proactivo, la derivación y la asignación de una capacidad humana y financiera finita; su base de evidencia son los registros administrativos, los eventos de matrícula, los créditos obtenidos y si el estudiante regresa. La [[generative-ai|IA generativa]] entró en este terreno más tarde que en la enseñanza, y buena parte de la literatura aquí trata sobre sistemas **no generativos** —[[conversational-ai|chatbots]] de mensajes de texto, modelos de alerta temprana, predicción federada de riesgo— con las herramientas generativas llegando como asesores, asistentes y respondedores de bases de conocimiento.
 
 La distinción que organiza esta página es la que separa **lo que un empujón puede lograr** de **lo que exige una trayectoria**. Las tecnologías de apoyo sobresalen en una decisión fechada y binaria: matricularse antes de esta fecha, completar este formulario, inscribirse en Early Start. Les cuesta mucho más un resultado acumulativo —persistencia, créditos, graduación— que la enseñanza, las finanzas, el empleo, las circunstancias familiares y la preparación previa moldean por igual. La evidencia más sólida de la base de conocimiento sobre esto proviene de una evaluación aleatorizada de cuatro años que movió la matrícula con fuerza y no movió la graduación en absoluto.
 
@@ -52,9 +53,13 @@ La investigación se agrupa en cinco funciones, y los límites entre esos grupos
 
 **Derivación y asignación de apoyos.** La predicción no es un plan, y la brecha entre ambas es donde se sitúa la crítica más aguda del campo. SC2R la formaliza como la **brecha de accionabilidad**: una puntuación de riesgo se convierte en apoyo a la decisión solo cuando sus recomendaciones son semánticamente viables y verificables por máquina —limitadas por el momento, el presupuesto, la inmutabilidad y la disponibilidad, y no solo válidas según el modelo ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel y Laforge, 2026]]). Que los modelos puedan asignar bien el apoyo es algo empíricamente discutido: ante la petición de recomendar planes de apoyo para 4.500 viñetas sintéticas de estudiantes, tres LLM mostraron una sensibilidad limitada a la necesidad del estudiante y una marcada inconsistencia entre modelos ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]).
 
-**Acceso al apoyo académico.** Los sistemas de recuperación específicos de un curso apuntan a los estudiantes con menos probabilidad de preguntar a un humano. Beacon, construido a partir de los materiales aprobados de un único módulo de programación, obtuvo valoraciones altas de relevancia (89%) y la mayoría de los estudiantes consideró que apoyaba su aprendizaje en lugar de reemplazarlo (66,7%), en una evaluación pequeña con 15 estudiantes y 4 académicos ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). La adopción de las tutorías es un problema aparte: un ensayo aleatorizado de dos años sobre una capa de tutoría virtual para estudiantes con dificultades tuvo que evaluar la adopción por separado del aprendizaje, porque llegar a quienes necesitan apoyo no es lo mismo que proporcionarlo ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
+**Acceso al apoyo académico.** Los sistemas de recuperación específicos de un curso apuntan a los estudiantes con menos probabilidad de preguntar a un humano. Beacon, construido a partir de los materiales aprobados de un único módulo de programación, obtuvo valoraciones altas de relevancia (89%) y la mayoría de los estudiantes consideró que apoyaba su aprendizaje en lugar de reemplazarlo (66,7%), en una evaluación pequeña con 15 estudiantes y 4 académicos ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). La adopción de las tutorías es un problema aparte: un [[rct|ensayo aleatorizado]] de dos años sobre una capa de tutoría virtual para estudiantes con dificultades tuvo que evaluar la adopción por separado del aprendizaje, porque llegar a quienes necesitan apoyo no es lo mismo que proporcionarlo ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
 
 **Asistencia administrativa.** El liderazgo y la administración se estudian como un dominio de aplicación propio, con una taxonomía de diez dominios que mapea dónde llega la IA al liderazgo educativo ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Los servicios que gestiona la institución van más allá de la asesoría y llegan a la salud: un marco integrado de bienestar en el campus combina la prevención —mejorar cómo se recopila la retroalimentación— con la intervención mediante la detección de problemas de salud mental ([[ai-campus-wellbeing-tools|Tang, 2026]]). La acreditación queda al lado: cuando un agente puede completar un curso en nombre de un estudiante, una credencial que dice «obtenido» pierde su significado, lo que convierte los registros de finalización en un problema de diseño ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
+
+**Un asistente propio compite con el chatbot público por disponibilidad, no por capacidad.** En cinco estudios de codiseño de la Open University (315 estudiantes y 20 miembros del personal), el punto fuerte del propuesto i-AIDA fue el acceso las 24 horas, respaldado por el 73% de una encuesta de 96 estudiantes, y su uso directo elevó la demanda de 9 de 18 estudiantes a 16 de 18 (d = 0,81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). El estudiantado lo valoró con 7,58 sobre 10 frente a otras herramientas generativas, mientras que en torno al 10-15% se opuso por valores y no por usabilidad, calificando el estudio asistido por IA de dilución del aprendizaje legítimo.
+
+**Lo que desplaza un canal de apoyo con IA merece la misma contabilidad.** En cuatro estudios (N = 249, 494, 743 y 737), la creencia en la capacidad de la IA para ofrecer apoyo emocional elevó la disposición a delegarle ese apoyo, y el efecto pasó íntegramente por la capacidad percibida (efecto total c = 0,83; efecto indirecto ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry y Gray, 2026]]). En una medida conductual, las personas participantes que dijeron que no delegarían eligieron menos palabras de empatía, así que derivar al estudiantado hacia un canal de bienestar con IA puede restar apoyo humano de formas que el [[self-report-measures|autoinforme]] no muestra.
 
 ## De la predicción al apoyo
 
@@ -78,7 +83,7 @@ La explicación que dan los autores de este patrón es la afirmación central de
 
 ## Equidad y los riesgos de actuar sobre una puntuación
 
-Los sistemas de apoyo actúan sobre los estudiantes, lo que hace que sus modos de fallo sean distintos de los de un tutor. Una prueba de estrés de seis intervenciones de equidad post hoc sobre una réplica de un sistema de alerta temprana controlado por un proveedor, construido a partir de 168.550 registros de estudiantes, encontró que las intervenciones no lograban entregar la equidad que prometían ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisión desde la defensa del estudiantado organiza la superficie de riesgo en torno a las admisiones, el reclutamiento y la ayuda financiera, y los **servicios de éxito estudiantil** —las áreas donde la IA institucional incide más directamente sobre los estudiantes ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). La privacidad y la equidad aquí son estructurales y no accesorias: el aprendizaje federado existe porque compartir registros de estudiantes entre instituciones es inaceptable, y el componente humano en el bucle del programa de CSUN —administrativos que responden lo que el chatbot no pudo y luego incorporan esa respuesta a su base de conocimiento— es lo que, según los autores, llega a los estudiantes que ignoran el correo electrónico y el teléfono.
+Los sistemas de apoyo actúan sobre los estudiantes, lo que hace que sus modos de fallo sean distintos de los de un tutor. Una prueba de estrés de seis intervenciones de equidad post hoc sobre una réplica de un sistema de alerta temprana controlado por un proveedor, construido a partir de 168.550 registros de estudiantes, encontró que las intervenciones no lograban entregar la equidad que prometían ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisión desde la defensa del estudiantado organiza la superficie de riesgo en torno a las admisiones, el reclutamiento y la ayuda financiera, y los **servicios de éxito estudiantil** —las áreas donde la IA institucional incide más directamente sobre los estudiantes ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). La privacidad y la equidad aquí son estructurales y no accesorias: el aprendizaje federado existe porque compartir registros de estudiantes entre instituciones es inaceptable, y el componente de [[human-in-the-loop-ai|personas en el bucle]] del programa de CSUN es lo que, según los autores, llega a los estudiantes que ignoran el correo electrónico y el teléfono. Los administrativos responden lo que el chatbot no pudo y luego incorporan esa respuesta a su base de conocimiento.
 
 ## Las condiciones institucionales
 
@@ -141,6 +146,8 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — taxonomía de diez dominios de la IA en el liderazgo educativo
 - [[students-at-stake-ai-deployment-risks-2026]] — superficie de riesgo desde el lado del estudiante: admisiones y ayudas, servicios de éxito estudiantil y enseñanza
 - [[ai-campus-wellbeing-tools]] — apoyo al bienestar en el campus entre la prevención y la intervención
+- [[shastry-gray-empathy-offloading-2026]] — Cuatro estudios sobre la delegación de la empatía: creer que la IA puede ofrecer apoyo emocional reduce lo que las personas aportan por sí mismas (Shastry y Gray 2026)
 - [[coursegraph-cs-course-comparison-2026]] — equivalencia de cursos para el reconocimiento de créditos y la movilidad
 - [[credentials-carry-evidence-ai-agents-2026]] — qué significa un registro de finalización cuando un agente puede hacer el trabajo
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción temprana del riesgo de trampa asistida por IA y el equilibrio de umbrales para la intervención de bajo riesgo
+- [[rienties-institutional-ai-assistant-co-design-2026]] — Cinco estudios de codiseño de un asistente institucional de estudio con IA: la disponibilidad primero y la resistencia por valores al final

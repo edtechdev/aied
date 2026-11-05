@@ -1,7 +1,7 @@
 ---
 title: Pedagogía crítica
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-10-28T19:29:22-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,10 +46,10 @@ La pedagogía crítica es distinta del [[critical-thinking|pensamiento crítico]
 
 - **Crítica de la «colonización por IA» de la educación.** Académicas críticas y feministas sostienen que la [[generative-ai|IA generativa]] está remodelando la educación de formas que repiten patrones de explotación y extracción coloniales —de datos, trabajo y recursos naturales— enriqueciendo a los poderosos a costa de las comunidades marginadas.([[avraamidou-ai-colonization-science-education]]) Este encuadre rechaza la narrativa «tecno-utópica» que presenta la IA como una bala de plata neutral.
 - **Del cumplimiento al florecimiento humano.** Una revisión socialista-humanista reencuadra la alfabetización en IA como transformación y no como cumplimiento, y nombra la «AIgemony» —la IA que refuerza las asimetrías de poder corporativas— y el «trabajo fantasma» de la mano de obra humana invisible de etiquetado, y aboga por el modo «ser» de implicación activa frente al modo «tener» de posesión ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
-- **IA feminista y centrada en la justicia.** Un enfoque feminista de la IA prioriza la justicia sobre el beneficio y plantea preguntas críticas sobre la naturaleza y la propiedad del conocimiento, quién se beneficia de la IA y quién responde cuando los sistemas fallan. Aboga por una alfabetización crítica en IA enmarcada dentro de [[pedagogy|pedagogías]] feministas.([[avraamidou-ai-colonization-science-education]])
+- **IA feminista y centrada en la justicia.** Un enfoque feminista de la IA prioriza la justicia sobre el beneficio y plantea preguntas críticas sobre la naturaleza y la propiedad del conocimiento, [[differential-effects-across-learner-groups|quién se beneficia de la IA]] y quién responde cuando los sistemas fallan. Aboga por una alfabetización crítica en IA enmarcada dentro de [[pedagogy|pedagogías]] feministas.([[avraamidou-ai-colonization-science-education]])
 - **Resistir a la IA como práctica de alfabetización crítica.** La alfabetización crítica en IA (CAIL) puede abarcar «resistir a la IA», una postura que rechaza la inevitabilidad y el tecnosolucionismo del discurso dominante y cultiva en su lugar una [[agency|agencia]] colectiva mediante pedagogías dialógicas y [[collaborative-learning|colaborativas]] que imaginan futuros alternativos.([[li-mroziak-reorienting-critical-ai-literacy]])
 - **La [[multimodal|composición]] [[writing-education|escrita]] como pedagogía de alfabetización crítica en IA.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] documentan una unidad de aula en la que 22 estudiantes de undécimo grado compusieron anuncios de servicio público en vídeo sobre cuestiones de [[ethics|ética]] de la IA elegidas por ellos, traduciendo la vigilancia, el [[privacy|consentimiento de datos]] y la acusación algorítmica en películas de 90 segundos a 3 minutos construidas con sonido, imagen, texto y sus propios cuerpos. Enmarcado en la alfabetización posthumanista crítica, el trabajo muestra la postura política en la práctica: en las siete películas el daño surgía de una responsabilidad humano-máquina enmarañada y no de una herramienta villana, y el estudiantado aun así cerraba con [[agency|agencia]] —«la solución está a nuestro alcance»— aunque una participante disentía diciendo que la juventud «carece por completo de cualquier tipo de credibilidad». Los autores sostienen que la composición creativa y [[collaborative-learning|colaborativa]] es en sí misma una forma de alfabetización crítica en IA, y que las escalas y los marcos de competencia en IA existentes, que dan por supuesto un rendimiento medible individualmente, la excluyen sistemáticamente.
-- **Redistribuir la autoridad epistémica.** El aprendizaje de IA basado en la comunidad ancla la [[student-engagement|implicación]] con la IA en las epistemologías vividas y comunitarias de quienes aprenden, y cuestiona el posicionamiento de los sistemas de IA como fuentes de conocimiento autorizadas.([[ojeda-ramirez-community-based-ai-learning]]) Esto implica un ajuste epistémico fino, una redistribución de la autoridad y un discernimiento [[situated-learning|situado]].
+- **Redistribuir la autoridad epistémica.** El aprendizaje de IA basado en la comunidad ancla la [[student-engagement|implicación]] con la IA en las epistemologías vividas y comunitarias de quienes aprenden, y cuestiona el posicionamiento de los sistemas de IA como fuentes de conocimiento autorizadas.([[ojeda-ramirez-community-based-ai-learning]]) Esto implica un [[llm-training-and-fine-tuning|ajuste epistémico fino]], una redistribución de la autoridad y un discernimiento [[situated-learning|situado]].
 - **La implicación crítica es la excepción, no la norma.** En 42 episodios de aula de un estudio rumano de secundaria inferior, 15 (35,71%) eran dependientes de la IA y 16 (38,10%) mejorados con IA, de modo que solo 11 (26,19%) eran críticos con la IA, lo que motiva el modelo desarrollista-crítico de seis puntos de control de [[voicu-ai-interpretive-cognition-ssh-2026|Voicu (2026)]] para la autonomía interpretativa.
 - **La mediación digital como práctica crítica bajo restricciones de recursos.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] aplica la pedagogía digital crítica con epistemologías decoloniales del Sur al [[educational-development|desarrollo académico]] en instituciones sudafricanas históricamente desfavorecidas, donde quienes desarrollan filtran la retórica institucional sobre IA con la pregunta de qué significa «para nuestro estudiantado de escuelas pobres». Su mediación es intervención y no facilitación: interrogar en lugar de adoptar herramientas, preguntar qué se gana y qué trabajo desaparece, y tratar el contexto como un principio epistémico y no como una preferencia de diseño. La aportación analítica de la autora es separar la [[digital-divide|desigualdad digital]] de la **colonialidad algorítmica** e insistir, siguiendo a Adams, en que los llamados a descolonizar la IA se mantengan materiales y no metafóricos.
 - **Ética situada e histórico-cultural.** Los enfoques críticos sostienen también que la ética de la IA en la educación debe ser *situada*: fundamentada en un contexto histórico-cultural y ecológico y no en principios abstractos.([[raffaghelli-situated-ai-ethics-2026]])
@@ -72,7 +72,7 @@ Bajo la pedagogía crítica, los educadores no son transmisores neutrales de des
 
 **«Usar la IA de forma crítica significa usarla menos.»** La implicación crítica es un modo de uso, no una cantidad de uso. En **42 episodios de aula** de un estudio rumano de secundaria inferior, **15 (35,71%) eran dependientes de la IA** y **16 (38,10%) mejorados con IA**, de modo que solo **11 (26,19%) eran críticos con la IA**; así pues, tanto los episodios mejorados como los críticos implican la herramienta, y la distinción está en si el estudiantado la interrogó. La escasez del modo crítico es un problema de enseñanza, no un problema de uso.
 
-**«La alfabetización en IA es un conjunto de destrezas neutral.»** La pedagogía crítica la trata como una práctica de resistencia y transformación social, lo que convierte el propio encuadre en algo contestable. Un currículo de alfabetización que enseña técnica de prompting y omite a quién sirven los intereses del sistema ha enseñado fluidez en una herramienta mientras adopta su política sin examinarla.
+**«La alfabetización en IA es un conjunto de destrezas neutral.»** La pedagogía crítica la trata como una práctica de resistencia y transformación social, lo que convierte el propio encuadre en algo contestable. Un [[curriculum-design|currículo]] de alfabetización que enseña técnica de prompting y omite a quién sirven los intereses del sistema ha enseñado fluidez en una herramienta mientras adopta su política sin examinarla.
 
 **«La pedagogía crítica es una crítica formulada desde fuera de la práctica.»** Es una postura ante el papel del educador: preguntar a quién beneficia, qué conocimiento se privilegia y cómo la escolarización reproduce o resiste el poder. Aplicada a la adopción de la IA, eso significa interrogar las lógicas corporativas y capitalistas que moldean la contratación de tecnología: preguntas que un docente puede hacerse sobre las decisiones de su propia institución, no solo sobre la tecnología en abstracto.
 
@@ -85,6 +85,7 @@ Bajo la pedagogía crítica, los educadores no son transmisores neutrales de des
 - Cuente sus episodios críticos. Si la cifra del 26,19% describe su práctica, el objetivo es un cambio en el modo de uso y no un uso menor.
 - Convierta la contratación de tecnología en un objeto enseñable: pregunte junto al estudiantado a quién sirve una herramienta elegida y quién carga con el costo de sus errores.
 - Trate la alfabetización en IA como interrogación del sistema, no solo como competencia con él.
+- Haga de la justificación el artefacto evaluable. En una unidad de curso que usó el flujo de redacción, revisión y reflexión de [[benali-genai-academic-writing-2026|Benali y Díaz García (2026)]] con 96 estudiantes de último año en 24 grupos, la IA quedó confinada a dos secciones de una propuesta de investigación y toda sugerencia de la IA aceptada o rechazada debía justificarse por escrito. Los informes reflexivos del estudiantado describen ese trabajo de verificación, y no la redacción, como lo que produjo la postura crítica, y por eso el registro del juicio es lo que hay que calificar.
 
 **Para quienes desarrollan y quienes administran**
 
@@ -114,7 +115,7 @@ Bajo la pedagogía crítica, los educadores no son transmisores neutrales de des
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composición multimodal como pedagogía de alfabetización crítica en IA
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de los consejos tecnosolucionistas sobre alineación constructiva con IA generativa
-- [[benali-genai-academic-writing-2026]]
+- [[benali-genai-academic-writing-2026]] — Revisión forzada por la justificación en un curso de escritura académica: la IA limitada a dos secciones de la propuesta, con cada sugerencia aceptada o rechazada por escrito (Benali y Díaz García 2026)
 - [[avraamidou-ai-colonization-science-education]] — Crítica feminista y crítica de la «colonización por IA» de la educación científica
 - [[li-mroziak-reorienting-critical-ai-literacy]] — «Resistir a la IA» como praxis comunitaria de alfabetización crítica en IA
 - [[ojeda-ramirez-community-based-ai-learning]] — Redistribuir la autoridad epistémica de la IA mediante el aprendizaje basado en la comunidad

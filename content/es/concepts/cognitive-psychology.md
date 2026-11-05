@@ -1,13 +1,13 @@
 ---
 title: Psicología cognitiva
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-01T09:12:21-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ La psicología cognitiva es la tradición teórica del aprendizaje que lo trata 
 - **La metáfora del procesamiento de información (la metáfora computacional).** La mente se trata como un sistema de procesamiento de información con capacidades y cuellos de botella —[[item-response-theory|medición]] de la habilidad latente, límites de la memoria de trabajo, codificación y recuperación—, que es precisamente el modelo que hizo de la tutoría con IA (un programa informático que modela y se adapta a la cognición de quien aprende) un ajuste natural.
 - **La atención y la memoria son limitadas.** La memoria de trabajo tiene capacidad limitada; el aprendizaje duradero exige codificar en la memoria a largo plazo mediante el repaso, la elaboración y la [[retrieval-spacing-interleaving|práctica de recuperación]]. Esto conecta el cognitivismo con la [[research-methods-aied|investigación]] sobre la [[cognitive-offloading]] (delegar la memoria o el procesamiento en herramientas externas) y con la «brecha entre rendimiento y aprendizaje» cuando la IA evita la recuperación y la práctica.
 - **La metacognición regula la cognición.** La [[metacognition]] —supervisar y controlar el propio pensamiento— es un constructo claramente cognitivista, y explica por qué la calibración de cuándo apoyarse en la IA por parte de quien aprende importa para el aprendizaje (véanse [[cognitive-offloading]] y [[self-regulated-learning]]).
-- **El conocimiento es descomponible y rastreable.** La AIED cognitivista supone que el conocimiento de quien aprende puede representarse como componentes y rastrearse a lo largo del tiempo: el fundamento del [[knowledge-tracing]], el [[cognitive-diagnosis]] y la [[item-response-theory]].
+- **El conocimiento es descomponible y rastreable.** La AIED cognitivista supone que el conocimiento de quien aprende puede representarse como componentes y rastrearse a lo largo del tiempo: el fundamento del [[knowledge-tracing]], el [[cognitive-diagnosis]] y la [[item-response-theory]]. La rastreabilidad es también una regla de puntuación. Cuatro reglas de actualización del [[knowledge-tracing]] se aplican sobre las mismas secuencias de eventos de ASSISTments: acreditar cualquier finalización asistida declaró como dominados el 93,9% de los pares estudiante-habilidad, frente al 72,8% cuando las filas asistidas se leen como primeros intentos fallidos. Los pares que la regla indulgente declaró antes llegaron a una precisión sin ayuda de 0,709, frente a 0,857 donde las reglas coincidían ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). El modelo solo rastrea lo que la regla de evidencia le permite contar.
 
 ## El cognitivismo y la IA en educación
 
@@ -112,3 +112,4 @@ La [[generative-ai|IA generativa]] a la vez amplía y cuestiona el cognitivismo.
 - [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo en el aprendizaje corregulado
 - [[ensemble-cognition-philosophy-ai-education]] — Cognición de conjunto: el pensamiento como interacción humano-IA
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — La organización del esfuerzo, no su cantidad, fue lo que siguió a la carga y la frustración
+- [[crediting-assisted-work-inflates-mastery-2026]] — Las afirmaciones de dominio del seguimiento del conocimiento dependen de cómo se acredita el trabajo asistido (Srivastava 2026)

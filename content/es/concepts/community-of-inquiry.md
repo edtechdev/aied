@@ -1,7 +1,7 @@
 ---
 title: Comunidad de indagación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,12 +55,13 @@ La IA generativa desestabiliza el supuesto de que los indicadores de presencia p
 - **Inflar la presencia cognitiva** — las explicaciones fluidas generadas por máquinas aceleran la construcción de sentido, pero corren el riesgo de un cierre prematuro cuando la coherencia se confunde con el respaldo.
 - **Imitar la presencia social** — los enunciados producidos por máquinas pueden parecerse a la empatía y la capacidad de respuesta con una alta credibilidad lingüística, lo que complica la rendición de cuentas relacional.
 - **Redistribuir la presencia docente** — el diseño, la facilitación y la instrucción directa se convierten en logros distribuidos, en los que el profesorado modela cómo interrogar las salidas generadas y detectar citas alucinadas.
+- **Intervenir con demasiada presteza:** en un estudio de debates en línea, las personas expertas en facilitación fueron sistemáticamente más cautas a la hora de intervenir que los jueces LLM, que se mostraban excesivamente deseosos de facilitar; el mejor clasificador entrenado siguió chocando con un techo bajo impuesto por los conjuntos de datos disponibles ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre y Pavlopoulos, 2026]]). La presencia docente redistribuida cambia por tanto el umbral de intervención, y un modelo se entrometerá donde una persona habría esperado, que es el modo de fallo que nota un foro de debate.
 
-Ahora hay evidencia empírica de red bajo estas afirmaciones: en un cuasiexperimento en el que 63 estudiantes universitarios chinos (33 con un chatbot GPT-4o mini y 30 sin él) anotaron lecturas compartidas en CollaboRead a lo largo de cinco tareas semanales, el [[network-analysis|análisis de redes epistémicas]] mostró que la clase asistida vinculaba la presencia social con la integración y la resolución, mientras que la clase de control vinculaba la presencia social con el desencadenamiento y la exploración (eje X U = 25,00, p = 0,01, r = 1,00; eje Y U = 13,00, p = 1,00, r = 0,04), con una mayor implicación cognitiva y emocional autoinformada en la clase asistida. Las presencias se separan entonces dentro de la condición y no entre condiciones: los grupos de alto rendimiento iniciaron 1407 solicitudes de retroalimentación en 2319 anotaciones (60,7%) frente a 737 en 2167 (34,0%) en el grupo de bajo rendimiento, que se quedó en un bucle autorreferencial y aprovechó débilmente el andamiaje.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+Ahora hay evidencia empírica de red bajo estas afirmaciones: en un cuasiexperimento en el que 63 estudiantes universitarios chinos (33 con un chatbot GPT-4o mini y 30 sin él) anotaron lecturas compartidas en CollaboRead a lo largo de cinco tareas semanales, el [[network-analysis|análisis de redes epistémicas]] mostró que la clase asistida vinculaba la presencia social con la integración y la resolución, mientras que la clase de control vinculaba la presencia social con el desencadenamiento y la exploración (eje X U = 25,00, p = 0,01, r = 1,00; eje Y U = 13,00, p = 1,00, r = 0,04), con una mayor [[self-report-measures|implicación]] cognitiva y emocional autoinformada en la clase asistida. Las presencias se separan entonces dentro de la condición y no entre condiciones: los grupos de alto rendimiento iniciaron 1407 solicitudes de retroalimentación en 2319 anotaciones (60,7%) frente a 737 en 2167 (34,0%) en el grupo de bajo rendimiento, que se quedó en un bucle autorreferencial y aprovechó débilmente el andamiaje.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Más que una herramienta, un interlocutor dialógico o una especulativa «cuarta presencia», la IA generativa se entiende mejor como una **condición epistémica**: una influencia omnipresente que reconfigura cómo se ponen en acto, se interpretan, se evidencian y se gobiernan las presencias, tanto a través de las salidas visibles como de lógicas invisibles de datos de entrenamiento, algoritmos y plataformas.
 
-Los propios autores del marco ofrecen una taxonomía de roles para esa condición: [[ai-communities-of-inquiry-2026|Stenbom y Garrison (2026)]] sitúan la IA como apoyo al diseño del aprendizaje, recurso independiente para quien aprende, función de apoyo al profesorado mediante la analítica, miembro de la comunidad e interlocutor dialógico sostenido, y proponen la [[metacognition|metacognición]] compartida —la autorregulación y la corregulación [[self-regulated-learning|regulación]]— como lo que mantiene a quienes aprenden auditando la salida de la IA.
+Los propios autores del marco ofrecen una taxonomía de roles para esa condición: [[ai-communities-of-inquiry-2026|Stenbom y Garrison (2026)]] sitúan la IA como [[learning-design|apoyo al diseño del aprendizaje]], recurso independiente para quien aprende, función de apoyo al profesorado mediante la [[learning-analytics|analítica]], miembro de la comunidad e interlocutor dialógico sostenido, y proponen la [[metacognition|metacognición]] compartida —la autorregulación y la corregulación [[self-regulated-learning|regulación]]— como lo que mantiene a quienes aprenden auditando la salida de la IA.
 
 ## Implicaciones prácticas
 
@@ -100,3 +101,4 @@ Los propios autores del marco ofrecen una taxonomía de roles para esa condició
 - [[ai-communities-of-inquiry-2026]] — La IA en las comunidades de indagación
 - [[ai-online-education-engagement-satisfaction-2026]] — La IA y la implicación y la satisfacción en la educación en línea
 - [[reflective-triangle-model-teacher-ai-2026]] — El modelo del triángulo reflexivo: la IA como mediadora cognitiva
+- [[llm-facilitation-timing-online-discussions]] — Facilitación humana frente a la de LLM: los modelos intervienen con más presteza que las personas expertas (Tsirmpas et al. 2026)

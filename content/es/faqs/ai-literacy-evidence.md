@@ -1,7 +1,7 @@
 ---
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-28T13:39:43-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 audience: [instructors, researchers, administrators]
@@ -56,7 +56,7 @@ La [[meta-analysis-systematic-review|revisión sistemática]] de Hingle y Johri 
 
 El **AI Literacy Continuum** de NC State describe una progresión desde *Not Yet Engaged* y *Uncritical Use* hasta *Informed Use*, *[[critical-thinking|Critical Evaluation]]* e *Improvement*, y se implementó con más de 330 participantes en cursos y talleres ([[ai-literacy-continuum-higher-education]]). Sus observaciones sugieren una división: las experiencias breves movieron al estudiantado hacia el uso informado, mientras que la evaluación crítica y la mejora aparecieron sobre todo en trabajo sostenido e incrustado en la disciplina. No hubo una medida pre/post validada ni un grupo de comparación, así que esto es evidencia basada en la práctica.
 
-La formación del profesorado muestra el mismo techo desde otro ángulo. La intervención de [[design-based-research|investigación basada en diseño]] de Le et al. se pilotó con 14 estudiantes de máster y se evaluó con 29 estudiantes de [[teacher-education|formación docente]]. La [[self-efficacy|autoeficacia]] declarada en competencia con IA aumentó y el estudiantado se desplazó hacia una consideración [[pedagogy|pedagógica]] más crítica de la IA generativa, mientras las ganancias en ética solo alcanzaron significación marginal. Un estudio de diseño pequeño de esa forma no puede establecer competencia ([[genai-literacy-training-teacher-education-dbr-2026]]).
+La [[teacher-role|formación del profesorado]] muestra el mismo techo desde otro ángulo. La intervención de [[design-based-research|investigación basada en diseño]] de Le et al. se pilotó con 14 estudiantes de máster y se evaluó con 29 estudiantes de [[teacher-education|formación docente]]. La [[self-efficacy|autoeficacia]] declarada en competencia con IA aumentó y el estudiantado se desplazó hacia una consideración [[pedagogy|pedagógica]] más crítica de la IA generativa, mientras las ganancias en ética solo alcanzaron significación marginal. Un estudio de diseño pequeño de esa forma no puede establecer competencia ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Mida lo que el estudiantado puede hacer
 
@@ -90,7 +90,7 @@ La pregunta que se sigue es la que hay que plantear a su propio programa: ¿cert
 
 ## En qué se equivoca este público
 
-Un taller es un currículo. Las observaciones del Continuum sitúan la evaluación crítica y la mejora en trabajo sostenido e incrustado en la disciplina, y Le et al. movieron la autoeficacia sin establecer competencia.
+Un taller es un [[curriculum-design|currículo]]. Las observaciones del Continuum sitúan la evaluación crítica y la mejora en trabajo sostenido e incrustado en la disciplina, y Le et al. movieron la autoeficacia sin establecer competencia.
 
 La confianza es un indicador de la alfabetización. El resultado de GLAT es directo: una prueba de desempeño predijo el desempeño en la tarea y una medida autoinformada no.
 

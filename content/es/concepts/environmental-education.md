@@ -1,7 +1,7 @@
 ---
 title: "Educación ambiental"
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:17-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Esta mitad es donde el corpus está más vacío. Una revisión de los 396 artíc
 
 En el lado de quien aprende, se estudió una interfaz de retroalimentación ecológica que expone el compromiso entre latencia y carbono durante el uso de LLM en vivo con 89 estudiantes de grado en informática en un curso de ética computacional: el estudiantado eligió el modo de menor carbono en aproximadamente el 45 % de las interacciones de baja latencia, pero en menos del 5 % con latencia alta, y la conciencia de sostenibilidad elevó significativamente esa elección. La muestra es pequeña y excepcionalmente informada en lo técnico, pero es la única evidencia directa del corpus de que la información sobre la huella mueve a quien aprende, y sugiere que la restricción vinculante es la paciencia, no los valores.([[llm-environmental-impact-student-usage-2026]])
 
-La evidencia de mitigación proviene de un asistente de base de conocimiento de [[cs-education|informática]] en local, sobre una única GPU de consumo (12 GB de VRAM) con contenido de licencia abierta: 1,8 mWh por consulta en el mejor caso —unos 0,54 Wh para una clase de 30 estudiantes que envían diez consultas cada uno— con un ajuste fino consciente de la cuantización que contuvo tanto la pérdida de precisión como el aumento de [[hallucination-risk|alucinaciones]] que provocaba la compresión por sí sola. Es un referente de ingeniería, no un estudio de aprendizaje, pero muestra que la cuestión de la huella tiene palancas de diseño (anclaje, cuantización, ubicación del despliegue), no solo palancas de disciplina de uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+La evidencia de mitigación proviene de un asistente de base de conocimiento de [[cs-education|informática]] en local, sobre una única GPU de consumo (12 GB de VRAM) con contenido de licencia abierta: 1,8 mWh por consulta en el mejor caso —unos 0,54 Wh para una clase de 30 estudiantes que envían diez consultas cada uno— con un [[llm-training-and-fine-tuning|ajuste fino]] consciente de la cuantización que contuvo tanto la pérdida de precisión como el aumento de [[hallucination-risk|alucinaciones]] que provocaba la compresión por sí sola. Es un referente de ingeniería, no un estudio de aprendizaje, pero muestra que la cuestión de la huella tiene palancas de diseño (anclaje, cuantización, ubicación del despliegue), no solo palancas de disciplina de uso.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Competencias verdes, conciencia de sostenibilidad y capacidad docente
 

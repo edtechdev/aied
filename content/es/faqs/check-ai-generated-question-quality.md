@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo compruebo si las preguntas de cuestionario y examen generadas por IA son realmente buenas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -46,7 +46,7 @@ Respuesta breve para dar a un colega: las preguntas generadas son candidatas, no
 
 La generación es lo bastante barata como para que el formato de salida se convierta en la especificación sin que nadie lo decida. Si sus apuntes producen ítems de opción múltiple ordenados, acabará midiendo si los estudiantes saben elegir entre afirmaciones plausibles, sea cual sea el resultado que declare el programa.
 
-Especifique primero el resultado, después la evidencia que aportaría una respuesta satisfactoria y luego el conocimiento que se espera que traigan los estudiantes. Incluya los materiales del curso, las concepciones erróneas que prevé, las herramientas permitidas y el formato de respuesta. Si quiere que los estudiantes interpreten evidencia, el ítem tiene que exigir interpretación, y añadir la palabra a una pregunta de definición no lo consigue. Un escenario largo puede seguir siendo respondible mediante una única frase familiar que lo delata.
+Especifique primero el resultado, después la evidencia que aportaría una respuesta satisfactoria y luego el conocimiento que se espera que traigan los estudiantes. Incluya los materiales del curso, las [[misconceptions|concepciones erróneas]] que prevé, las herramientas permitidas y el formato de respuesta. Si quiere que los estudiantes interpreten evidencia, el ítem tiene que exigir interpretación, y añadir la palabra a una pregunta de definición no lo consigue. Un escenario largo puede seguir siendo respondible mediante una única frase familiar que lo delata.
 
 Un plano de evaluación es una tabla de resultados frente a ítems, y su valor es que expone las lagunas antes que los estudiantes. También hace visible el intercambio: cada ítem que genera a partir del material más fácil es un ítem que no dedicó al resultado que más le importa.
 
@@ -68,7 +68,7 @@ Un segundo modelo puede ayudarle a detectar problemas, y la coincidencia entre d
 
 ## No deje que la etiqueta de dificultad decida
 
-La literatura sobre [[automated-question-generation|generación de preguntas]] es más útil sobre el fracaso de las etiquetas que sobre el éxito de la generación. [[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang (2026)]] examinaron 378 preguntas creadas por autores en cursos de ciencia de datos, de las cuales 311 se desplegaron con 54 estudiantes en 7.888 respuestas. Las etiquetas de fácil, medio y difícil del modelo correlacionaron con sus propios niveles de Bloom cogenerados en ρ = 0,90 y con la dificultad empírica del ítem en ρ = 0,06. Alrededor del 70% de los ítems desplegados fueron respondidos correctamente por todos los estudiantes, lo que dejó casi ninguna variación para que una etiqueta de dificultad la siguiera, ni siquiera en principio.
+La literatura sobre [[automated-question-generation|generación de preguntas]] es más útil sobre el fracaso de las etiquetas que sobre el éxito de la generación. [[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang (2026)]] examinaron 378 preguntas creadas por autores en cursos de ciencia de datos, de las cuales 311 se desplegaron con 54 estudiantes en 7.888 respuestas. Las etiquetas de fácil, medio y difícil del modelo correlacionaron con sus propios niveles de Bloom cogenerados en ρ = 0,90 y con la [[item-response-theory|dificultad empírica del ítem]] en ρ = 0,06. Alrededor del 70% de los ítems desplegados fueron respondidos correctamente por todos los estudiantes, lo que dejó casi ninguna variación para que una etiqueta de dificultad la siguiera, ni siquiera en principio.
 
 De ahí se siguen dos lecciones. Primera, la dificultad es una propiedad de la interacción entre un ítem y una población, así que ninguna etiqueta producida antes de administrar el ítem puede tomarse como un valor medido. Segunda, un banco de ítems que todos responden correctamente no es una evaluación fácil, es una evaluación inútil: apenas aporta información sobre quién sabe qué.
 

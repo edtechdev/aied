@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje por refuerzo
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,35 +22,35 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Aprendizaje por refuerzo**: entrena tutores y agentes de IA mediante señales de recompensa: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] y [[ai-coaching-rl-skill-development]] alinean el aprendizaje por refuerzo con objetivos pedagógicos, incluidos la seguridad y la transferencia de habilidades ([[intelligent-tutoring]], [[agentic-ai]]).
+> **Aprendizaje por refuerzo**: entrena tutores y agentes de IA mediante señales de recompensa: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] y [[ai-coaching-rl-skill-development]] alinean el aprendizaje por refuerzo con [[pedagogy|objetivos pedagógicos]], incluidos la seguridad y la transferencia de habilidades ([[intelligent-tutoring]], [[agentic-ai]]).
 
 ## Preguntas para reflexionar
 
 - Un tutor de aprendizaje por refuerzo «aprende» qué hacer maximizando una señal de recompensa. Antes de leer, ¿qué podría estar mal en una IA que optimiza una recompensa, en concreto si la recompensa es algo como «el estudiante hace clic en continuar» o «respuesta correcta ahora»?
 - La página señala que el diseño de la recompensa codifica valores educativos. Si tuviera que especificar la recompensa que debería maximizar un tutor de IA, ¿qué incluiría, y qué ignoraría o recompensaría incorrectamente su recompensa sin querer?
 - El aprendizaje por refuerzo entrena agentes para tomar secuencias de decisiones de horizonte largo (qué pista dar, cuándo subir la dificultad, cómo marcar el ritmo) en lugar de respuestas únicas. ¿En qué se diferencia eso de la corrección momento a momento que uno recompensaría ingenuamente, y por qué importa esa diferencia para el aprendizaje?
-- Las restricciones de seguridad pueden integrarse en el aprendizaje por refuerzo para que la optimización de la recompensa no vaya a costa del bienestar de quien aprende. Piense en un comportamiento «servicial» que podría exhibir un tutor que optimiza una recompensa y que en realidad sería pedagógicamente dañino (por ejemplo, regalar las respuestas para inflar la finalización). ¿Dónde pondría su línea de seguridad?
-- La optimización de la recompensa puede preservar o destruir el esfuerzo productivo, según el diseño. Según su experiencia, ¿es lo mismo «el estudiante completa la tarea» que «el estudiante aprende»? ¿Dónde ha visto una IA optimizada para lo primero que socava lo segundo?
+- La recompensa de un tutor puede llevar la restricción de seguridad dentro de sí, de modo que aquello por lo que se paga a la política no pueda imponerse al [[well-being|bienestar]] de quien aprende. Piense en un comportamiento «servicial» que podría exhibir un tutor que optimiza una recompensa y que en realidad sería pedagógicamente dañino (por ejemplo, regalar las respuestas para inflar la finalización). ¿Dónde pondría su línea de seguridad?
+- La optimización de la recompensa puede preservar o destruir el [[desirable-difficulties|esfuerzo productivo]], según el diseño. Según su experiencia, ¿es lo mismo «el estudiante completa la tarea» que «el estudiante aprende»? ¿Dónde ha visto una IA optimizada para lo primero que socava lo segundo?
 
 ## Introducción
 
 ### Cómo funciona el aprendizaje por refuerzo en la AIED
 
-El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportamiento deseado: el agente aprende una política que maximiza la recompensa acumulada mediante ensayo y error. En la IA en la educación, el RL se usa para entrenar agentes de tutoría y compañeros de aprendizaje que deben tomar secuencias de decisiones (qué pista dar, cuándo subir la dificultad, cómo marcar el ritmo de la práctica) en lugar de respuestas únicas. Esto hace que el RL encaje bien con el [[adaptive-learning|aprendizaje adaptativo]] y la [[intelligent-tutoring|tutoría inteligente]], donde importan las decisiones pedagógicas de horizonte largo.
+El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportamiento deseado: el agente aprende una política que maximiza la recompensa acumulada mediante ensayo y error. En la [[ai-education|IA en la educación]], el RL se usa para entrenar agentes de tutoría y compañeros de aprendizaje cuyas decisiones se encadenan a lo largo de una sesión —qué pista dar, cuándo subir la dificultad, cómo marcar el ritmo de la práctica— en lugar de resolver una respuesta cada vez. Esto hace que el RL encaje bien con el [[adaptive-learning|aprendizaje adaptativo]] y la [[intelligent-tutoring|tutoría inteligente]], donde importan las decisiones pedagógicas de horizonte largo.
 
 ### Aplicaciones documentadas en la base de conocimiento
 
 - **RL alineado pedagógicamente.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una canalización RL-SFT-RL para entrenar un modelo que *guía* en lugar de responder, alineando la recompensa con objetivos pedagógicos; [[special-r1-rl-special-education]] aplica RL al diseño de tutores para la [[special-education|educación especial]].
 - **El RL supera al ajuste fino supervisado para seguir instrucciones pedagógicas.** El entrenamiento de LearnLM encontró que el RL basado en preferencias era significativamente más eficaz que el SFT por sí solo, porque los juicios de preferencia capturan distinciones dependientes del contexto a lo largo de conversaciones largas que los datos supervisados etiquetados con instrucciones solo manejan en parte ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 - **Seguridad y transferencia de habilidades.** [[pedagogical-safety-rl]] integra restricciones de seguridad en la tutoría basada en RL para que la optimización de la recompensa no vaya a costa del bienestar de quien aprende; [[ai-coaching-rl-skill-development]] muestra un entrenamiento impulsado por RL que apoya el desarrollo y la transferencia genuinos de habilidades.
-- **Lo que una recompensa deja fuera determina quién se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] encontraron que un tutor de RL profundo recompensado por la puntuación en las pruebas y la eficiencia temporal igualó a una heurística BKT en el postest (A = 0,58 en ambos casos, frente a 65,7), pero asignó solo el 4% de los problemas de entrenamiento a la reparación constructiva de ejemplos erróneos y favoreció al estudiantado con más conocimientos previos.
-- **Simulación y práctica.** [[history-aware-student-simulation]] y [[q-learning-lab-rl-teaching]] usan RL y estudiantado simulado para entrenar y evaluar [[pedagogical-agent|agentes pedagógicos]], lo que conecta el RL con el [[student-modeling|modelado del estudiantado]] y la [[learning-analytics|analítica del aprendizaje]].
+- **Lo que una recompensa deja fuera determina quién se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] encontraron que un tutor de RL profundo recompensado por la puntuación en las pruebas y la eficiencia temporal igualó a una heurística BKT en el postest (A = 0,58 en ambos casos, frente a 65,7), pero asignó solo el 4% de los problemas de entrenamiento a la reparación constructiva de ejemplos erróneos y favoreció al estudiantado con más [[prior-knowledge|conocimientos previos]].
+- **Simulación y práctica.** [[history-aware-student-simulation]] y [[q-learning-lab-rl-teaching]] usan RL y [[simulating-students|estudiantado simulado]] para entrenar y evaluar [[pedagogical-agent|agentes pedagógicos]], lo que conecta el RL con el [[student-modeling|modelado del estudiantado]] y la [[learning-analytics|analítica del aprendizaje]].
 
-- **RL de horizonte largo y ponderado por la seguridad.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimiza encuentros clínicos completos de 60 turnos —muy por encima de los horizontes de ≤12 turnos de los sistemas de diálogo concurrentes— y el entrenamiento contra pacientes simulados adversarios con una recompensa alineada con la seguridad elevó la precisión diagnóstica un 7,0% y redujo las tasas de señales de alarma pasadas por alto en aproximadamente un tercio.
+- **RL de horizonte largo y ponderado por la seguridad.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimiza encuentros clínicos completos de 60 turnos —muy por encima de los horizontes de ≤12 turnos de los sistemas de [[conversational-ai|diálogo]] concurrentes— y el entrenamiento contra pacientes simulados adversarios con una recompensa alineada con la seguridad elevó la precisión diagnóstica un 7,0% y redujo las tasas de señales de alarma pasadas por alto en aproximadamente un tercio.
 
 ### Evidencia en el conjunto del campo
 
-Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática del RL en la educación con estándar PRISMA (Riedmann, Schaper y Lugrin, 2025)]] sintetizó 89 estudios (2000–2024) y encontró un crecimiento acusado después de 2016 en aplicaciones de [[adaptive-learning|aprendizaje adaptativo]] y [[intelligent-tutoring|tutoría]], concentradas en STEM (sobre todo en [[math-education|matemática]]). Informa de que el RL sin modelo dominó (n = 72), con Q-learning como algoritmo más común, pero que el RL clásico fue más consistentemente eficaz que el aprendizaje profundo por refuerzo (61% frente a 36% de los artículos que mostraban superioridad significativa); de que la adaptación se dividía en mecanismos de programación de contenidos (n = 53) y relacionados con la guía (n = 36), con el RL superando a las líneas base con más frecuencia en la guía; y de que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue la fuente de recompensa más eficaz. La revisión también advierte de que más de la mitad de los estudios (n = 54) omitieron las pruebas estadísticas, de modo que el crecimiento del campo ha superado su rigor metodológico.
+Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática del RL en la educación con estándar [[meta-analysis-systematic-review|PRISMA]] (Riedmann, Schaper y Lugrin, 2025)]] sintetizó 89 estudios (2000–2024) y encontró un crecimiento acusado después de 2016 en aplicaciones de [[adaptive-learning|aprendizaje adaptativo]] y [[intelligent-tutoring|tutoría]], concentradas en STEM (sobre todo en [[math-education|matemática]]). Informa de que el RL sin modelo dominó (n = 72), con Q-learning como algoritmo más común, pero que el RL clásico fue más consistentemente eficaz que el aprendizaje profundo por refuerzo (61% frente a 36% de los artículos que mostraban superioridad significativa); de que la adaptación se dividía en mecanismos de programación de contenidos (n = 53) y relacionados con la guía (n = 36), con el RL superando a las líneas base con más frecuencia en la guía; y de que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue la fuente de recompensa más eficaz. La revisión también advierte de que más de la mitad de los estudios (n = 54) omitieron las pruebas estadísticas, de modo que el crecimiento del campo ha superado su rigor metodológico.
 
 ### Conexión con la base de conocimiento
 
@@ -60,7 +60,7 @@ El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y 
 
 **«Igualar una línea base significa que la política de RL aprendió algo que vale la pena tener.»** Significa que la recompensa se satisfizo. Un tutor de RL profundo recompensado por la puntuación del test y la eficiencia temporal **igualó a una heurística de BKT en el postest (A = ,58 en ambos)** mientras asignaba solo el **4% de los problemas de entrenamiento a la reparación constructiva de ejemplos defectuosos** y favorecía la interacción más barata. La política optimizó aquello por lo que se le pagaba, y aquello por lo que se le pagaba excluía la actividad productiva.
 
-**«La función de recompensa es un detalle técnico.»** Es la especificación pedagógica. Lo que la recompensa pondera es lo que la política hará, así que elegir entre puntuación, eficiencia temporal, implicación y reparación exige una posición explícita sobre qué es aprender: una decisión curricular codificada como un número.
+**«La función de recompensa es un detalle técnico.»** Es la especificación pedagógica. Lo que la recompensa pondera es lo que la política hará, así que elegir entre puntuación, eficiencia temporal, implicación y reparación exige una posición explícita sobre qué es aprender: una [[curriculum-design|decisión curricular]] codificada como un número.
 
 **«Los horizontes más largos son sencillamente mejores.»** Permiten lo que los horizontes cortos no pueden, y exigen que la recompensa sea correcta a lo largo de toda la secuencia. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimiza **encuentros clínicos completos de 60 turnos**, muy por encima de los horizontes de ≤12 turnos de los sistemas de diálogo concurrentes, lo que eleva el coste de un objetivo mal especificado en lugar de reducirlo.
 

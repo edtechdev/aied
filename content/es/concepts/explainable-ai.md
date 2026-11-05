@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,7 @@ El marco XAI-ED cataloga las principales modalidades de explicación: **visual**
 - Los enfoques de **caja de cristal** intentan equilibrar exactitud y transparencia.
 
 La base de evidencia concreta de AIED abarca todo esto. El **[[knowledge-tracing|rastreo del conocimiento]] interpretable** hace que los modelos de conocimiento del estudiante sean inspeccionables directamente ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). Los **sustitutos autoexplicativos** destilan un modelo de caja negra en un [[llm|modelo de lenguaje]] pequeño e interpretable para la [[learning-analytics|analítica del aprendizaje]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). Las **explicaciones contrafactuales**, "qué tendría que cambiar para obtener un resultado distinto", sustentan la ayuda a la decisión educativa y el recurso o reparación ([[sc2r-counterfactual-recourse-educational-2026]]). La **analítica del aprendizaje federada y explicable** muestra que la calidad de la explicación puede derivar (la calibración se degrada) incluso cuando se mantiene la estabilidad del ranking, lo que subraya que las explicaciones no son una propiedad fija sino una salida del sistema que debe medirse ([[villegas-ch-federated-explainable-learning-analytics-2026]]). Y los **ITS [[affective-computing|afectivos]] interpretables** demuestran explicaciones en tutoría [[affective-tutoring|consciente de las emociones]] ([[multimodal-affective-its-presentation]]).
+
 - **La medición externa esquiva el problema del relato infiel.** Los registros de decisión filtrados reconstruyen las trazas de la herramienta en un árbol de procedencia y clasifican la evidencia con cuatro señales deterministas, de modo que la puntuación de influencia se puede verificar con independencia de la recomendación, y la eliminación contrafactual de herramientas confirmó que el ranking seguía la dependencia ([[filtered-decision-logs-transparency-genai-2026|Anbalagan et al. (2026)]]).
 
 ## Calidad de la explicación, no disponibilidad
@@ -94,6 +95,8 @@ Las citas se comportan como una señal de credibilidad y no como evidencia de co
 Dos advertencias afinan esto aún más, y ambas son centrales en la contribución más reciente de esta wiki sobre el tema. Primero, la maquinaria de explicación no es neutral en sí misma: los métodos a posteriori como LIME y SHAP pueden ser infieles al comportamiento real del modelo, de modo que una explicación técnicamente presente puede engañar en lugar de informar ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], a partir de Chuan et al. 2024). Segundo, **la explicación no es rendición de cuentas**. Un relato de qué características impulsaron una predicción no revela si esas características eran apropiadas de usar, si los datos de entrenamiento eran representativos o si el diseño del sistema reflejaba un juicio sólido; las explicaciones pueden crear la apariencia de transparencia mientras dejan intactas las condiciones estructurales que produjeron una decisión (Mittelstadt et al. 2019). Para la educación esto significa que la pregunta que hay que seguir haciendo no es si se produjo una explicación, sino si la persona que la recibe (un estudiante, un docente, un asesor) pudo entenderla, actuar sobre ella o impugnar la decisión que hay detrás. El mismo fallo de legibilidad aparece en el lado de la seguridad de la [[automated-assessment|evaluación automatizada]]: [[humble-prompt-injection-ai-grading-red-team-2026|el red team de Humble (2026) sobre una herramienta de calificación con IA]] descubrió que desactivaba el chat en silencio tras bloquear una inyección de prompt y, después de haber anunciado que nunca seguiría instrucciones incrustadas, las siguió en seis ejecuciones más sobre el mismo archivo, sin dejar al usuario ninguna señal fiable en la que basar su confianza.
 
 **Explicable por diseño** es una respuesta al problema de la fidelidad a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang y Fang (2025)]] parametrizan un decodificador de explicaciones con la misma representación fusionada y la misma puntuación predicha que deciden la [[assessment|evaluación]], de modo que una puntuación baja en el cuestionamiento [[formative-assessment|formativo]] produce una justificación que nombra preguntas de sondeo insuficientes, y lo emparejan con atención de doble lente sobre los estándares curriculares y los movimientos de rúbrica específicos de la materia. La alineación entre atención y rúbrica alcanza el 78,0% frente al 41,7% de GPT-4 en zero-shot y el 32,1% de BERT, y la fidelidad se sondea mediante la eliminación contrafactual de tramos críticos de la rúbrica junto con valoraciones humanas en una lista de verificación anclada en la rúbrica, lo que da una puntuación de credibilidad de la explicación de 0,78, un aumento de 0,31 sobre BERT-base. La auditoría también muestra dónde se adelgaza la afirmación arquitectónica: ante señales emocionales el modelo asigna el 28,4% del peso de atención frente al 15,2% de un experto (alineación 0,53), con un caso de fallo que asigna el 28% al token "frustrated", que los autores leen como sobreajuste a lo afectivo y no a la pedagogía, y que señalan como un área de refinamiento. Incrustar las explicaciones en la ruta de decisión las hace más fieles que las justificaciones a posteriori; no las hace correctas.
+
+**Lo que un modelo dice haber usado depende de la familia tanto como de los datos.** En siete modelos sobre una misma cohorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] encontraron que los enfoques simbólicos se apoyaban en factores cognitivos y [[motivation|motivacionales]], los modelos subsimbólicos en aspectos cognitivos, el conocimiento aprendido y el género, y ambos pasaban en gran medida por alto los factores metacognitivos, mientras que el modelo neuro-simbólico utilizaba un conjunto más integrado. El mismo estudiantado y los mismos indicadores produjeron relatos distintos de lo que importaba, de modo que la alineación con la [[learning-theories|teoría del aprendizaje]] pasa a ser una afirmación sobre las atribuciones y no sobre la precisión.
 
 ## Enseñar la explicabilidad como práctica de rendición de cuentas
 
@@ -154,3 +157,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisiones de calificación tomadas por docentes frente a las tomadas por la IA: una justificación escrita amplió la brecha de justicia
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las citas y las señales de autoridad elevaron la deferencia hacia salidas incorrectas, con algunas referencias mal atribuidas o ficticias
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — modelos simbólicos, subsimbólicos y neuro-simbólicos sobre una misma cohorte atribuyeron sus predicciones a factores distintos

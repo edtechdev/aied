@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-28T13:39:43-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 weight: 73
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
@@ -62,7 +62,7 @@ El asistente del curso de Sistemas de Control Lineal informa esto de la manera c
 
 ## Puntúe cada salida por separado
 
-En el proyecto WrAFT, un modelo con ajuste fino alcanzó una puntuación de concordancia de **0,84** con evaluadores humanos en 360 ensayos TOEFL reservados. Es un resultado sólido para calificar. El modelo del mismo proyecto entrenado para escribir retroalimentación produjo una salida truncada e imposible de analizar, mientras que dar instrucciones a otro modelo sin más produjo retroalimentación que el profesorado prefirió ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+En el proyecto WrAFT, un modelo con ajuste fino alcanzó una puntuación de concordancia de **0,84** con evaluadores humanos en 360 ensayos TOEFL reservados. Es un resultado sólido para calificar. El modelo del mismo proyecto entrenado para escribir retroalimentación produjo una salida truncada e imposible de analizar, mientras que [[prompt-engineering|dar instrucciones]] a otro modelo sin más produjo retroalimentación que el profesorado prefirió ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 La base de conocimiento recoge el mismo fallo en una segunda forma: un despliegue cuyo módulo de calificación puntuaba bien y cuya retroalimentación llegaba cortada a mitad de frase e ilegible. Nada en el número de titular lo decía.
 
@@ -88,13 +88,13 @@ Versión práctica: tome una muestra de unos cincuenta resultados, haga que una 
 
 La solución más limpia es entrenar el modelo en la misma cantidad que se propone medir. Un modelo con ajuste fino se entrenó para reproducir las propiedades estadísticas de las preguntas de examen: cuán difícil es cada ítem y qué tan bien separa a los estudiantes más fuertes de los más débiles. Aprendió esos patrones en lugar de que se los dijeran ([[multimodal-item-parameter-estimation-2026]]). Como el objetivo era una propiedad de la propia evaluación, la evaluación pudo tratar sobre esa propiedad y no sobre la redacción.
 
-Informe la progresión además del punto final. El simulador de escritura SWIM publicó la puntuación de cada etapa una junto a otra: prompting basado en rúbrica **0,577**, ajuste fino **0,474 ± 0,023**, aprendizaje por refuerzo **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Un lector puede ver en esa tabla si el entrenamiento hizo algo. Un único número final no puede decírselo, y esconde una etapa en la que el modelo con ajuste fino rindió peor que el prompt.
+Informe la progresión además del punto final. El [[simulation|simulador]] de escritura SWIM publicó la puntuación de cada etapa una junto a otra: prompting basado en rúbrica **0,577**, ajuste fino **0,474 ± 0,023**, [[reinforcement-learning|aprendizaje por refuerzo]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Un lector puede ver en esa tabla si el entrenamiento hizo algo. Un único número final no puede decírselo, y esconde una etapa en la que el modelo con ajuste fino rindió peor que el prompt.
 
 ## Compare con algo de fuera de su proyecto
 
 Consiga primero una línea base, incluida una barata. El modelo del asistente del curso sin fundamentación documental puntuó por debajo de una búsqueda simple por palabras clave, que es el tipo de resultado que cambia la hoja de ruta y cuesta un día descubrir.
 
-Un benchmark externo le dice después si su número sirve de algo. En el benchmark de pedagogía CDPK, EduQwen alcanzó **96,52%** frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El Pedagogy Benchmark, construido a partir de exámenes reales de desarrollo profesional docente y que cubre **97 modelos**, encontró una precisión que iba del **28% al 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Un benchmark externo le dice después si su número sirve de algo. En el benchmark de [[pedagogy|pedagogía]] CDPK, EduQwen alcanzó **96,52%** frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El Pedagogy Benchmark, construido a partir de exámenes reales de desarrollo profesional [[teacher-role|docente]] y que cubre **97 modelos**, encontró una precisión que iba del **28% al 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 En una tarea sobre enseñanza, los modelos iban de flojos a buenos, así que un resultado de benchmark sitúa su sistema en algún punto dentro de un rango amplio.
 
@@ -106,7 +106,7 @@ Ejecute la comprobación en conversaciones completas y escriba los turnos de pru
 
 ## Compruebe el estudiante simulado antes de fiarse de él
 
-Generar estudiantes simulados en lugar de reclutar estudiantes reales abarata mucho la evaluación. Un estudiante simulado es también un instrumento de medida, y puede equivocarse en las formas en que se equivocan los instrumentos: demasiado cooperativo, demasiado fluido, demasiado rápido para aceptar una pista.
+Generar [[simulating-students|estudiantes simulados]] en lugar de reclutar estudiantes reales abarata mucho la evaluación. Un estudiante simulado es también un instrumento de medida, y puede equivocarse en las formas en que se equivocan los instrumentos: demasiado cooperativo, demasiado fluido, demasiado rápido para aceptar una pista.
 
 La prueba más directa de la base de conocimiento comparó estudiantes simulados y estudiantes guiados por prompt con **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor, usando siete medidas que cubren lenguaje, comportamiento y pensamiento ([[simulated-students-tutoring-dialogues-2026]]). Otros trabajos presionan el realismo desde ángulos distintos: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entrena modelos para actuar y pensar como estudiantes, y los perfiles conscientes del historial condicionan la simulación al pasado de un estudiante en lugar de a una persona fija ([[history-aware-student-simulation]]).
 

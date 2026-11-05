@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo está impactando la IA al estudiantado?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-28T13:39:43-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Usted usa la IA para el trabajo del curso y le va bien, salvo que el examen a libro cerrado se sintió como leer los apuntes de otra persona. O una amiga dice que no escribió nada y aun así sacó la nota máxima, y usted se pregunta qué significa eso para usted. O ha empezado a hacerle más preguntas a un chatbot que a su docente.
+Usted usa la IA para el trabajo del curso y le va bien, salvo que el [[summative-assessment|examen a libro cerrado]] se sintió como leer los apuntes de otra persona. O una amiga dice que no escribió nada y aun así sacó la nota máxima, y usted se pregunta qué significa eso para usted. O ha empezado a hacerle más preguntas a un chatbot que a su docente.
 
 La respuesta breve, en una forma que puede repetirle a una amiga: la IA es útil donde necesita retroalimentación y no ayuda donde necesita práctica. Quédese con el paso de pensamiento, póngase a prueba sin la herramienta antes de entregar y sea sincero sobre lo que usó. El resto de esta página explica por qué eso se sostiene y cómo se ve un martes por la noche.
 

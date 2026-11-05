@@ -1,7 +1,7 @@
 ---
 title: "Recuperación, espaciado e intercalado"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ La misma lógica recorre el estudio de las chuletas: [[student-cheat-sheets-make
 El efecto del espaciado —que la misma práctica total produce un aprendizaje más duradero cuando se distribuye en varias sesiones que cuando se concentra en una— es la más explotada algorítmicamente de las tres técnicas, y los sistemas aplicados del corpus se construyen en torno a él.
 
 [[memdora-ai-spaced-repetition|Memdora]] es el ejemplo más claro del espaciado tratado como problema de ingeniería. Fundamenta la programación en la curva del olvido de Ebbinghaus, cita la cifra de que aproximadamente el **70% del material recién aprendido se olvida en 24 horas** sin repaso e integra **FSRS-6**, descrito como el algoritmo de repetición espaciada de referencia actual. Su argumento es que programar no basta: las herramientas existentes reducen la interacción con las tarjetas a un único gesto binario, «girar y autoevaluarse», que los autores llaman un modelo empobrecido que no aprovecha la evidencia de la ciencia cognitiva sobre la práctica de recuperación. La aportación de Memdora es, por tanto, una **taxonomía de 17 tipos de interacción con base cognitiva** repartidos en las categorías de Lengua, De memoria y Examen, cada uno asociado a la evidencia revisada por pares que se muestra en la tarjeta, además de un sistema de recompensas basado en el esfuerzo que compensa la implicación cognitiva real y no la presencia en la aplicación, un proceso unificado de generación que crea tarjetas en el momento de la lectura y una capa de aula que informa de los [[learning-gains|resultados de aprendizaje]] a nivel de cada tarjeta.
+
+[[bilingual-llm-lecture-companion-srl-2026|El compañero de clase bilingüe de Malhotra (2026)]] ataca ese coste de autoría desde el otro extremo: transcribe en el navegador clases en inglés e hindi y genera tarjetas en el propio dispositivo, concebido para aulas indias donde los datos de UDISE+ sitúan el acceso a internet en torno al 54% de las escuelas.
 
 [[adaptive-pretesting-retention|Akgun y Toker (2026)]] aportan la evidencia experimental más sólida del corpus sobre cómo se *estructura* el espaciado. En un estudio aleatorizado de tres brazos con 89 estudiantes de grado en un curso de estadística aplicada, los tres grupos practicaron en sesiones espaciadas con el mismo número y el mismo calendario a lo largo de siete semanas; solo difería la estructura de la interacción. La recuperación espaciada adaptativa (G1) alcanzó la puntuación más alta en el postest (M = 78,19) y el mayor esfuerzo de práctica observado (M = 0,85); la recuperación espaciada fija (G2) quedó después (M = 74,55; esfuerzo 0,74); y el estudio con IA dirigido por quien aprende y sin recuperación exigida quedó último en ambas (M = 67,28; esfuerzo 0,49). El efecto multivariante fue significativo (Λ de Wilks = 0,664; η² parcial = 0,185), con G1 por delante de G3 en retención con d = 0,92 (p = 0,003). El detalle que importa pedagógicamente es que el agente de G1 estaba configurado para *retener*: sondas de [[misconceptions|ideas erróneas]] contingentes a la respuesta, peticiones de elaboración tras respuestas superficiales, avance solo con una implicación conceptual adecuada y soluciones directas explícitamente excluidas de sus salidas permitidas. La lectura de los propios autores es que el pretest es un catalizador inicial y no una intervención autónoma cuyos beneficios sobrevivan al acceso abierto a la IA.
 

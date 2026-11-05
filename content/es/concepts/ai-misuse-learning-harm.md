@@ -1,7 +1,7 @@
 ---
 title: Mal uso de la IA y daño al aprendizaje
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-26T21:37:50-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 El mal uso de la IA se distingue del uso de la IA. El uso describe emplear la IA como complemento del aprendizaje —[[feedback|retroalimentación]], lluvia de ideas o ayuda con la revisión— que mantiene el trabajo cognitivo de quien aprende dentro del proceso. El mal uso describe la sustitución: delegar en la IA los propios procesos mentales (redacción, recuerdo, análisis, revisión) que construyen una comprensión duradera. El daño documentado en la base de evidencia de la base de conocimientos no es que el mal uso deje de ayudar; es que el mal uso degrada activamente el logro posterior sin asistencia.
 
-El daño anticipado está documentado en sí mismo: en datos suecos de encuesta y de grupos focales, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] encontraron que el 51% de los participantes (n = 106) temía que el uso de IA generativa pudiera dificultar el desarrollo individual, nombrando pérdidas en [[critical-thinking|pensamiento crítico]], creatividad y autonomía en lugar de infracciones de normas.
+El daño anticipado está documentado en sí mismo: en datos suecos de encuesta y de grupos focales, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] informan del mismo temor desde datos suecos: el 51% de los participantes (n = 106) pensaba que el uso de IA generativa podía atrofiar el desarrollo individual, señalando la erosión del [[critical-thinking|pensamiento crítico]], la [[creativity|creatividad]] y la autonomía y no las infracciones de normas.
 
 ### La brecha entre desempeño y aprendizaje
 
@@ -79,11 +79,11 @@ El matiz práctico más importante es que el daño es **selectivo según el tipo
 
 ### La desvinculación conversacional en la era de los LLM
 
-La literatura sobre el gaming the system (abuso de pistas, adivinación sistemática) tiene su contrapartida en la era del diálogo: la desvinculación conversacional —burlarse del agente, responder deliberadamente mal, desaparecer de la conversación, reflejar su texto o retener las respuestas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dan a este fenómeno su primer tratamiento sistemático en el diálogo entre estudiantes e IA, y su lección central es interpretativa más que alarmista. Un *turno* desvinculado es un movimiento interaccional, no un estado estable de desvinculación. La aparente asociación de la Respuesta Falsa con las puntuaciones de la prueba posterior no sobrevivió a una comprobación de sensibilidad con anotación humana, y los autores la leen como una indagación *dentro* de trayectorias que a menudo vuelven a la implicación (el clúster de mayor rendimiento se recuperó con p = 0,42). La conducta que realmente separó las trayectorias fue la Retención —la negativa a responder, que persistió en lugar de resolverse. Para quienes diseñan, esto invierte la prioridad habitual: la desvinculación ruidosa y visible a menudo se autocorrige, mientras que la retirada silenciosa indica que la interacción se ha roto.
+La literatura sobre el gaming the system (abuso de pistas, adivinación sistemática) tiene su contrapartida en la era del diálogo: la desvinculación conversacional —burlarse del agente, responder deliberadamente mal, desaparecer de la conversación, reflejar su texto o retener las respuestas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dan a este fenómeno su primer tratamiento sistemático en el [[student-ai-interaction|diálogo entre estudiantes e IA]], y su lección central es interpretativa más que alarmista. Un *turno* desvinculado es un movimiento interaccional, no un estado estable de desvinculación. La aparente asociación de la Respuesta Falsa con las puntuaciones de la prueba posterior no sobrevivió a una comprobación de sensibilidad con anotación humana, y los autores la leen como una indagación *dentro* de trayectorias que a menudo vuelven a la implicación (el clúster de mayor rendimiento se recuperó con p = 0,42). La conducta que realmente separó las trayectorias fue la Retención —la negativa a responder, que persistió en lugar de resolverse. Para quienes diseñan, esto invierte la prioridad habitual: la desvinculación ruidosa y visible a menudo se autocorrige, mientras que la retirada silenciosa indica que la interacción se ha roto.
 
 ## Concepciones erróneas
 
-**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la página: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El autoinforme no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
+**«El estudiantado se daría cuenta si la IA estuviera dañando su aprendizaje.»** No se da cuenta, y este es el hecho más consecuente de la página: **el estudiantado del grupo dañado no percibió que aprendiera menos**. El [[self-report-measures|autoinforme]] no es, por tanto, una señal de alerta temprana utilizable. El patrón de un 48% más de práctica y un 17% menos en el examen es invisible para quien lo experimenta, y por eso la detección del daño tiene que basarse en la medición y no en el testimonio.
 
 **«El riesgo es cuánta IA usa un estudiante.»** El riesgo es para qué se sustituye la IA. Aquí el mal uso significa delegar la redacción, el recuerdo o el análisis que construyen una comprensión duradera: sustitución en lugar de complemento, y un estudiante puede sustituir mucho en una tarea y complementar de forma productiva en la siguiente. El volumen de uso es la variable equivocada; la división del trabajo cognitivo es la correcta.
 

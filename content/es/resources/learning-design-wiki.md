@@ -17,7 +17,7 @@ audience: [instructional designers, instructors, researchers]
 level: [k 12, higher ed]
 confidence: high
 created: "2026-10-26T21:38:51-04:00"
-updated: "2026-10-26T21:38:51-04:00"
+updated: "2026-11-05T16:18:46-05:00"
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
@@ -40,7 +40,7 @@ Navegar por tipo de conocimiento en lugar de por palabra clave. Los principios e
 
 ## Para quién es
 
-Para diseñadores instruccionales y docentes que quieren una decisión de diseño con su evidencia adjunta, y para investigadores que quieren un corpus cartografiado de [[theories-and-frameworks|teorías del aprendizaje]] en términos de diseño. Los equipos que construyen asistentes de diseño con [[generative-ai|IA generativa]] pueden usarla como referencia estructurada, ya que el sitio publica un paquete legible por máquina en lugar de un conjunto de páginas web.
+Para diseñadores instruccionales y docentes que quieren una decisión de diseño con su evidencia adjunta, y para investigadores que quieren un corpus cartografiado de [[learning-theories|teorías del aprendizaje]] en términos de diseño. Los equipos que construyen asistentes de diseño con [[generative-ai|IA generativa]] pueden usarla como referencia estructurada, ya que el sitio publica un paquete legible por máquina en lugar de un conjunto de páginas web.
 
 ## Notas y advertencias
 

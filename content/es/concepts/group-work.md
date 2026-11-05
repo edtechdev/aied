@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,11 +86,11 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 ### El riesgo epistémico de un producto pulido
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualiza el riesgo de un menor esfuerzo epistémico cuando quienes aprenden usan IA para producir artefactos de conocimiento pulidos: [[automation-bias|sesgo de automatización]] en el lado sociocognitivo y cierre epistémico inducido por el artefacto acabado en el otro. El remedio es estructurar la IA como interlocutora argumentativa o cuestionadora que preserve el conflicto. El contrapunto viene de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que encontraron que cuando los LLM actúan como compañeros críticos y el estudiantado refuta activamente sus afirmaciones, quienes aprenden se comportan como consumidores críticos que preservan en lugar de rendir el conflicto cognitivo de la crítica. La diferencia entre un compañero que da respuestas y un interlocutor que desafía es lo que determina si el trabajo en grupo con IA construye el pensamiento o lo elude.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualiza el riesgo de un menor esfuerzo epistémico cuando quienes aprenden usan IA para producir artefactos de conocimiento pulidos: [[automation-bias|sesgo de automatización]] en el lado sociocognitivo y cierre epistémico inducido por el artefacto acabado en el otro. El remedio es estructurar la IA como interlocutora argumentativa o cuestionadora que preserve el conflicto. El contrapunto viene de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], que encontraron que cuando los LLM actúan como compañeros críticos y el estudiantado refuta activamente sus afirmaciones, quienes aprenden se comportan como consumidores críticos que preservan en lugar de [[cognitive-surrender|rendir]] el conflicto cognitivo de la crítica. La diferencia entre un compañero que da respuestas y un interlocutor que desafía es lo que determina si el trabajo en grupo con IA construye el pensamiento o lo elude.
 
 ### Apoyo a nivel de aula y no evaluativo
 
-[[breideband-community-builder-cobi-2026|CoBi]] detecta discurso «edificante» en grupos pequeños (respeto, equidad, comunidad, hacer avanzar el pensamiento) y devuelve visualizaciones no evaluativas a nivel de aula, reteniendo deliberadamente la retroalimentación a nivel de estudiante o de grupo para proteger la [[privacy|privacidad]] y la [[trust|confianza]]. El estudiantado prefirió las visualizaciones [[qualitative-research|cualitativas]] (un árbol orgánico) a las [[quantitative-research|cuantitativas]] (un gráfico de radar). Para la dimensión relacional del trabajo en grupo, la retroalimentación agregada a nivel de clase apoya la construcción de comunidad donde la puntuación individual se sentiría como vigilancia.
+[[breideband-community-builder-cobi-2026|CoBi]] detecta discurso «edificante» en grupos pequeños (respeto, equidad, comunidad, hacer avanzar el pensamiento) y devuelve [[visualization|visualizaciones]] no evaluativas a nivel de aula, reteniendo deliberadamente la retroalimentación a nivel de estudiante o de grupo para proteger la [[privacy|privacidad]] y la [[trust|confianza]]. El estudiantado prefirió las visualizaciones [[qualitative-research|cualitativas]] (un árbol orgánico) a las [[quantitative-research|cuantitativas]] (un gráfico de radar). Para la dimensión relacional del trabajo en grupo, la retroalimentación agregada a nivel de clase apoya la construcción de comunidad donde la puntuación individual se sentiría como vigilancia.
 
 ## Implicaciones de diseño
 

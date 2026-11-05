@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecarios"
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introducción
 
-Los bibliotecarios son los profesionales que se sitúan entre la pregunta de quien aprende y el registro académico: bibliotecarios de referencia y de enlace, especialistas temáticos, bibliotecarios docentes que imparten alfabetización informacional y el personal que gestiona colecciones y repositorios. En la [[ai-education|IA en la educación]] se los nombra mucho menos que al [[teacher-role|profesorado]] y a quienes [[administrator|administran]], pero el corpus les asigna un papel específico y comprobable. Son la respuesta humana al problema de credibilidad que crea la [[generative-ai|IA generativa]], los docentes que enseñan el [[evaluative-judgment|juicio evaluativo]] y la estrategia de búsqueda en lugar de limitarse a proporcionar fuentes y —en el caso más sólido de la base de conocimiento— un componente diseñado de un sistema de IA y no un servicio al margen de él.
+Los bibliotecarios son los profesionales que se sitúan entre la pregunta de quien aprende y el registro académico: bibliotecarios de referencia y de enlace, especialistas temáticos, bibliotecarios docentes que imparten [[information-and-media-literacy|alfabetización informacional]] y el personal que gestiona colecciones y repositorios. En la [[ai-education|IA en la educación]] se los nombra mucho menos que al [[teacher-role|profesorado]] y a quienes [[administrator|administran]], pero el corpus les asigna un papel específico y comprobable. Son la respuesta humana al problema de credibilidad que crea la [[generative-ai|IA generativa]], los docentes que enseñan el [[evaluative-judgment|juicio evaluativo]] y la estrategia de búsqueda en lugar de limitarse a proporcionar fuentes y —en el caso más sólido de la base de conocimiento— un componente diseñado de un sistema de IA y no un servicio al margen de él.
 
 Esta página trata el rol como algo distinto de sus vecinos. Quienes [[educational-technology-developers|desarrollan tecnología educativa]] construyen los sistemas de recuperación y recomendación; los bibliotecarios deciden en qué no debe confiarse que concluyan esos sistemas. La [[academic-integrity|integridad académica]] enmarca el uso de la IA como autoría y declaración; el encuadre del bibliotecario —atribución, procedencia, acceso— es adyacente pero más concreto.
 
@@ -78,6 +78,8 @@ Otros dos hilos marcan los límites del rol. [[pearls-epistemic-verification-202
 ## Conceptos conectados
 
 - [[ai-literacy]]
+- [[information-and-media-literacy]]
+- [[libraries]]
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

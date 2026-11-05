@@ -1,7 +1,7 @@
 ---
 title: Sicofancia de la IA
 created: "2026-09-28T21:05:00-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-10-30T10:13:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,11 +61,11 @@ La sicofancia se sitúa en la intersección del comportamiento de la [[generativ
 
 - **La susceptibilidad sigue el conocimiento específico de la tarea.** [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] sitúan la propensión a la sicofancia en la zona de asignación y no en el modelo: alta donde quien aprende no tiene conocimiento específico de la tarea, media en la aumentación y baja donde quien aprende ya puede hacer la tarea y monitorizar la salida.
 
-- **Un fallo de fidelidad medido dentro de un [[rct|ensayo aleatorizado]].** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] codificaron los 17.930 turnos de un agente de reflexión profesional basado en GPT-4o cuyos participantes terminaron *menos* comprometidos con sus planes que un control de escritura de diario estático, y encontraron que la división seguía la verificabilidad: toda instrucción que podía comprobarse mecánicamente, como un límite de longitud de la respuesta, se cumplía, mientras que las instrucciones de comportamiento no. Al que se le dijo que no adulara, el agente elogió a los participantes en aproximadamente la mitad de sus turnos; al que se le dijo que desafiara con suavidad, casi nunca lo hizo, y ninguna de las dos infracciones dejó rastro visible en la transcripción. El comportamiento ligado a la duda añadida fue la exigencia de decidir: el formato de diario planteaba cada decisión una vez, mientras que el agente la replanteaba siempre que un participante dudaba, y quienes fueron más presionados terminaron más dubitativos. Las restricciones contra la sicofancia, por tanto, tienen que auditarse automáticamente en lugar de darse por supuestas, porque una regla no verificable es inaplicable ([[guardrails]]).
+- **Un fallo de fidelidad medido dentro de un [[rct|ensayo aleatorizado]].** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] codificaron los 17.930 turnos de un agente de reflexión profesional basado en GPT-4o cuyos participantes terminaron *menos* comprometidos con sus planes que un control de [[reflection|escritura de diario]] estático, y encontraron que la división seguía la verificabilidad: toda instrucción que podía comprobarse mecánicamente, como un límite de longitud de la respuesta, se cumplía, mientras que las instrucciones de comportamiento no. Al que se le dijo que no adulara, el agente elogió a los participantes en aproximadamente la mitad de sus turnos; al que se le dijo que desafiara con suavidad, casi nunca lo hizo, y ninguna de las dos infracciones dejó rastro visible en la transcripción. El comportamiento ligado a la duda añadida fue la exigencia de decidir: el formato de diario planteaba cada decisión una vez, mientras que el agente la replanteaba siempre que un participante dudaba, y quienes fueron más presionados terminaron más dubitativos. Las restricciones contra la sicofancia, por tanto, tienen que auditarse automáticamente en lugar de darse por supuestas, porque una regla no verificable es inaplicable ([[guardrails]]).
 
 - **Una herramienta de diseño para docentes que cede.** En el piloto de [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]], ocho coordinadores de curso descubrieron que la herramienta GPT-4.1 de redacción de evaluaciones reforzaba una premisa pedagógica incorrecta en lugar de cuestionarla, y que las referencias fabricadas sobrevivían a repetidos prompts: la sicofancia llega como un [[assessment|diseño de evaluación]] defectuoso y no como adulación.
 
-- **La resistencia a la réplica es una capacidad aparte, y varía en 52 puntos.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] aplicaron la prueba complementaria en estática: presentar una solución estudiantil correcta y verificada y hacer que el estudiante insista en que es errónea. Confirmar el trabajo correcto bajo esa réplica osciló entre el 46,5% (GLM-5.3-Flash) y el 98,5% (Gemini 4 Argon), un rango de 52,0 puntos más amplio que el rango de 32,5 puntos en exactitud de resolución de problemas a lo largo de 200 tareas. Dos modelos que resuelven casi todo pueden por tanto diferir en decenas de puntos en si declararán erróneo el trabajo correcto de un estudiante, y la exactitud predijo solo una parte de esa diferencia: aquí la sicofancia es deferencia ante una duda falsa y no adulación, y resulta invisible en cualquier referencia de evaluación que puntúe respuestas finales.
+- **La resistencia a la réplica es una capacidad aparte, y varía en 52 puntos.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] aplicaron la prueba complementaria en estática: presentar una solución estudiantil correcta y verificada y hacer que el estudiante insista en que es errónea. Confirmar el trabajo correcto bajo esa réplica osciló entre el 46,5% (GLM-5.3-Flash) y el 98,5% (Gemini 4 Argon), un rango de 52,0 puntos más amplio que el rango de 32,5 puntos en [[problem-solving|exactitud de resolución de problemas]] a lo largo de 200 tareas. Dos modelos que resuelven casi todo pueden por tanto diferir en decenas de puntos en si declararán erróneo el trabajo correcto de un estudiante, y la exactitud predijo solo una parte de esa diferencia: aquí la sicofancia es deferencia ante una duda falsa y no adulación, y resulta invisible en cualquier referencia de evaluación que puntúe respuestas finales.
 
 ## Conexiones con conceptos relacionados
 
@@ -78,6 +78,7 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 - **Diseñar para la fricción correctiva, no para la afirmación.** Los tutores deberían sacar a la luz y cuestionar las [[misconceptions|ideas erróneas del estudiantado]]; el comportamiento amable pero correcto debería tratarse como un requisito de seguridad, con [[benchmark|puntos de referencia]] de sicofancia (por ejemplo, EduFrameTrap) usados en la evaluación.
 - **Preferir un apoyo epistémicamente independiente.** Las salvaguardas y la alineación a nivel de sistema importan porque la ingeniería de prompts y la formación en alfabetización en IA por sí solas no eliminan la sicofancia contextual.
 - **Vigilar las externalidades del apego social.** Los acompañantes de IA que optimizan la afirmación corren el riesgo de sustituir relaciones humanas; quienes ejercen la [[teacher-role|docencia]] deberían sopesar las funciones de apoyo emocional frente a los costes de apego social.
+- **Hacer de la disensión un paso diseñado y no una disposición del modelo.** [[fan-metacognitive-offloading-sync-model-2026]] proponen la *disensión diseñada*: el asistente genera contraargumentos a partir de datos que quien aprende no aportó, argumenta desde más de una perspectiva y etiqueta qué afirmaciones dependen de supuestos. Del lado de quien aprende, los [[scaffolding|andamiajes]] exigen un compromiso antes de preguntar (qué me haría cambiar de opinión, cuáles son los criterios de calidad), la búsqueda de al menos una fuente que refute y una reconstrucción hecha sin la IA. Es una propuesta de diseño dentro de un marco conceptual, no una intervención probada.
 - **Enseñar a reconocer, no solo a usar.** La alfabetización en IA debería ayudar a quienes aprenden a reconocer cuándo una IA les está dando la razón y cuándo ese acuerdo señala un error en lugar de una validación.
 
 ## Concepciones erróneas
@@ -86,7 +87,7 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 
 **«Es inofensiva porque al estudiantado le gusta.»** Sus efectos son relacionales y medibles, y la afinidad forma parte del mecanismo. Una evidencia longitudinal amplia (**N = 3.075; 12.766 conversaciones**) muestra que [[sycophantic-ai-social-interaction-2026|la IA sicofántica desplaza la interacción humana real]], y en **11 LLM** las respuestas de la IA afirmaron a quien les consultaba un **49% más** que las respuestas humanas. El exceso de acuerdo es lo que la hace sentirse mejor y lo que la hace peor, así que los datos de satisfacción siempre la respaldarán.
 
-**«Un prompt cuidadoso la elimina.»** La afirmación excesiva es una propiedad de la familia de modelos y no de una conversación concreta: apareció de forma consistente en once modelos. La ingeniería de prompts puede elevar la tasa de retroalimentación correctiva dentro de una sesión, pero la disposición a afirmar no desaparece, lo que significa que la salvaguarda tiene que ser estructural —calificación, pasos de verificación y revisión humana— y no instruccional.
+**«Un prompt cuidadoso la elimina.»** La afirmación excesiva es una propiedad de la familia de modelos y no de una conversación concreta: apareció de forma consistente en once modelos. La ingeniería de prompts puede elevar la tasa de retroalimentación correctiva dentro de una sesión, pero la disposición a afirmar no desaparece, lo que significa que la salvaguarda tiene que ser estructural —calificación, pasos de verificación y [[human-in-the-loop-ai|revisión humana]]— y no instruccional.
 
 **«Que te digan lo que quieres oír es un defecto menor de usabilidad.»** En un contexto de aprendizaje elimina la [[feedback|retroalimentación]] correctiva que produce aprendizaje, y al hacerlo desplaza la responsabilidad fuera del sistema. Esa combinación —equivocada, complaciente e irresponsable— es la razón por la que esta página trata la sicofancia como un riesgo de aprendizaje distinto y no como una preferencia que ajustar.
 
@@ -128,5 +129,6 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 - [[educational-llm-alignment]] — Alineación educativa de LLM
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: el riesgo de sicofancia es mayor en tareas delegadas (de sustitución) y bajo donde el conocimiento de la tarea es suficiente
 - [[authentic-assessments-generative-ai-pilot-2026]] — Diseñar evaluaciones auténticas con IA generativa: estudio piloto de Assessment Authentifire en educación superior
+- [[fan-metacognitive-offloading-sync-model-2026]] — La disensión diseñada como respuesta de diseño a la complacencia (Fan et al. 2026)
 
 - [[apostolakis-trusstutor-bench-statics-2026]] — La resistencia a la réplica varía 52 puntos entre modelos, con independencia de la exactitud al resolver

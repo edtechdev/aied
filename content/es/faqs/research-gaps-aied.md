@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las lagunas notables en la literatura de investigación sobre la IA en la educación?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-10-28T13:25:03-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -71,7 +71,7 @@ La laguna que queda tiene que ver con trayectorias de capacidad, y un postest a�
 
 "El aprendizaje apoyado por IA" suele agrupar varios cambios: retroalimentación nueva, reflexión añadida, discusión entre pares, secuencias de tareas distintas, incentivos de evaluación alterados. Un paquete que tiene éxito no le dice qué componentes eran necesarios.
 
-[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] es un avance real sobre esa pregunta. Entre 1.176 estudiantes de primer año de grado, los diseños reflexivos e híbridos superaron a la [[ai-feedback-quality|retroalimentación de IA]] directa en transferencia diferida sin IA. La condición híbrida combinaba autoevaluación, [[peer-assessment|retroalimentación entre pares]] y crítica de la IA. Eso separa cómo se organiza y se usa la retroalimentación de si los estudiantes tienen acceso a ella o no.
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] es un avance real sobre esa pregunta. Entre 1.176 estudiantes de primer año de grado, los diseños reflexivos e híbridos superaron a la [[ai-feedback-quality|retroalimentación de IA]] directa en transferencia diferida sin IA. La condición híbrida combinaba [[self-assessment|autoevaluación]], [[peer-assessment|retroalimentación entre pares]] y crítica de la IA. Eso separa cómo se organiza y se usa la retroalimentación de si los estudiantes tienen acceso a ella o no.
 
 Sigue abierto: la contribución y el momento de los intentos independientes iniciales, la autoexplicación, el aporte de los pares, la retroalimentación correctiva, las pistas y el desvanecimiento de la ayuda, y cómo interactúa cada uno con el [[prior-knowledge|conocimiento previo]] y la dificultad de la tarea.
 
@@ -91,7 +91,7 @@ La IA crea dos problemas de evaluación conectados: ayuda a producir el trabajo 
 
 El [[ai-agents-complete-lms-assessment-validity-2026|estudio de la base de conocimiento sobre agentes de IA que completan tareas evaluadas en un LMS]] documenta agentes que navegan un curso de grado real y terminan actividades evaluadas. Eso demuestra una capacidad que cuestiona los supuestos sobre la evidencia producida por el estudiante. No establece cuán común es ese uso y no invalida la evaluación asíncrona como categoría.
 
-La pregunta de investigación es qué diseños siguen sosteniendo conclusiones defendibles sobre el estudiante. Los [[eportfolio|portafolios]], las reflexiones, las entregas por etapas y los registros de actividad necesitan validarse como evidencia en lugar de darse por sentado que establecen autoría o comprensión. Los estudios deberían probar combinaciones de evidencia contra competencia observada de forma independiente, teniendo en cuenta la accesibilidad, la carga de trabajo, la privacidad y la ansiedad de los estudiantes. [[assessment-validity|Validez de la evaluación]] contiene el detalle.
+La pregunta de investigación es qué diseños siguen sosteniendo conclusiones defendibles sobre el estudiante. Los [[eportfolio|portafolios]], las reflexiones, las entregas por etapas y los registros de actividad necesitan validarse como evidencia en lugar de darse por sentado que establecen autoría o comprensión. Los estudios deberían probar combinaciones de evidencia contra competencia observada de forma independiente, teniendo en cuenta la accesibilidad, la carga de trabajo, la privacidad y [[anxiety-and-stress|la ansiedad de los estudiantes]]. [[assessment-validity|Validez de la evaluación]] contiene el detalle.
 
 Para la [[automated-assessment|puntuación automatizada]], [[llms-do-not-grade-essays-like-humans-2026|Los LLM no califican ensayos como los humanos]] informa de un desacuerdo sistemático entre modelos sin ajuste previo y evaluadores humanos. Los hallazgos son específicos de cada configuración y muestran por qué la consistencia interna no puede sostener una afirmación de validez.
 
@@ -109,11 +109,11 @@ Resolverlo requiere evaluación basada en el desempeño combinada con la observa
 
 ## Informe a quién deja fuera el hallazgo
 
-Los hallazgos de un curso, una institución, una lengua o una población de estudiantes rara vez autorizan decisiones en otro lugar, un problema que la síntesis [[limitations-in-aied-research|Limitaciones de la investigación sobre IA en educación]] trata como recurrente. Cómo varían los efectos según la etapa de desarrollo, la disciplina, el conocimiento previo, la discapacidad, la lengua y las condiciones de recursos sigue en gran medida sin medirse.
+Los hallazgos de un curso, una institución, una lengua o una [[learners|población de estudiantes]] rara vez autorizan decisiones en otro lugar, un problema que la síntesis [[limitations-in-aied-research|Limitaciones de la investigación sobre IA en educación]] trata como recurrente. Cómo varían los efectos según la etapa de desarrollo, la disciplina, el conocimiento previo, la discapacidad, la lengua y las condiciones de recursos sigue en gran medida sin medirse.
 
 La investigación sobre equidad también tiene que separar acceso, habilidades y resultados. La síntesis sobre la [[digital-divide|brecha digital]] deja claro que los dispositivos y el acceso a herramientas no establecen una capacidad igual de beneficiarse. [[school-ai-education-readiness-gaps-agency-2026|¿Reduce la educación escolar en IA las brechas de preparación?]] siguió a 752 estudiantes de secundaria básica de Hong Kong: las brechas de preparación psicológica se estrecharon mientras persistían las diferencias en una prueba objetiva de alfabetización en IA. Todos los grupos mejoraron y la desigualdad no se cerró. Los perfiles de aprendizaje previo no se asignaron al azar, así que su papel causal sigue siendo desconocido.
 
-La cobertura es escasa en lugares concretos. [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de estudiantes]] cuenta la literatura por población: los estudiantes de segunda lengua y multilingües y los estudiantes con discapacidad son los hilos más profundos, el género y la neurodivergencia vienen después, los estudiantes de primera generación e internacionales tienen un estudio cada uno en este corpus, los estudiantes dotados y de alto rendimiento están efectivamente sin estudiar, y los estudiantes refugiados, inmigrantes y desplazados no aparecen en ninguno. Una base de evidencia con esa forma no puede responder a una pregunta de equidad por agregación.
+La cobertura es escasa en lugares concretos. [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de estudiantes]] cuenta la literatura por población: los estudiantes de segunda lengua y [[multilingual-learning|multilingües]] y [[special-education|los estudiantes con discapacidad]] son los hilos más profundos, el género y [[neurodiversity|la neurodivergencia]] vienen después, los estudiantes de primera generación e internacionales tienen un estudio cada uno en este corpus, los estudiantes dotados y de alto rendimiento están efectivamente sin estudiar, y los estudiantes refugiados, inmigrantes y desplazados no aparecen en ninguno. Una base de evidencia con esa forma no puede responder a una pregunta de equidad por agregación.
 
 La capacidad también varía dentro de un mismo sistema nacional. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] puntuaron la integración de la IA en 45 universidades nigerianas y encontraron una adopción general moderada (M = 4,79, rango 1,83-7,83 en una escala de 10 puntos), sin que el tipo de institución predijera la integración una vez controladas la antigüedad y la geografía (antigüedad β = 0,43; ubicación en el suroeste β = 0,31). Las capacidades internas se correlacionaban entre sí en r = 0,79-0,80 y las colaboraciones internacionales con las alianzas industriales en r = 0,74, de modo que las instituciones conectadas acumulan ventajas compuestas. Qué diseños de desarrollo de capacidades cambian los resultados en instituciones más nuevas y menos conectadas no se ha probado.
 
@@ -187,7 +187,7 @@ Los docentes que quieran la versión a nivel de aula pueden seguir [[evaluating-
 
 **"El tamaño del efecto agrupado ya me dice qué funciona."** Los 14 metanálisis auditados definieron el tratamiento como una herramienta, agruparon resultados incompatibles e informaron un I² superior al 80% en 12 de los 13 análisis que lo daban. El número agrupado describe un conjunto de estudios con un problema de constructo.
 
-**"Los estudiantes simulados son más baratos, así que validarlos puede esperar."** En el estudio de adulación, los estudiantes simulados abandonaban las concepciones erróneas abordara o no la retroalimentación esas concepciones, que es el modo de fallo que hace que un tutor ineficaz parezca eficaz.
+**"Los estudiantes simulados son más baratos, así que validarlos puede esperar."** En el estudio de [[ai-sycophancy|adulación]], los estudiantes simulados abandonaban las concepciones erróneas abordara o no la retroalimentación esas concepciones, que es el modo de fallo que hace que un tutor ineficaz parezca eficaz.
 
 ## Qué hacer esta semana
 

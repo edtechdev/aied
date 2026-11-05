@@ -1,7 +1,7 @@
 ---
 title: Tecnología de asistencia
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-26T21:37:50-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
-> **Tecnología de asistencia** — dispositivos, software y servicios que ayudan a las personas con discapacidad a percibir, operar, comunicarse y participar en el aprendizaje y en la vida diaria. En la [[ai-education|IA en la educación]], la tecnología de asistencia abarca lectores de pantalla, conversión de voz a texto y de texto a voz, subtitulación, salida en braille y táctil, herramientas de lengua de signos y, cada vez más, adaptaciones impulsadas por IA que ajustan el contenido y la interacción a las necesidades individuales.
+> **Tecnología de asistencia** — dispositivos, software y servicios que ayudan a las personas con discapacidad a percibir, operar, comunicarse y participar en el aprendizaje y en la vida diaria. En la [[ai-education|IA en la educación]], la tecnología de asistencia abarca lectores de pantalla, conversión de voz a texto y de [[speech-and-voice-technologies|texto a voz]], subtitulación, salida en braille y táctil, herramientas de lengua de signos y, cada vez más, adaptaciones impulsadas por IA que ajustan el contenido y la interacción a las necesidades individuales.
 
 ## Preguntas para reflexionar
 
@@ -56,7 +56,7 @@ Una revisión de alcance de 2026 sobre las [[ai-technologies|tecnologías]] asis
 - **Ajuste la herramienta a quien aprende y a la tarea.** Los lectores de pantalla, los subtítulos, la voz y la salida táctil abordan barreras distintas; elija en función de las necesidades de la persona y del formato del contenido.
 - **Aproveche la IA para abaratar las adaptaciones de asistencia.** La IA puede subtitular automáticamente, simplificar textos y generar alternativas, pero evalúe la calidad de la salida en cuanto a su exactitud pedagógica.
 - **Funde la provisión en la política.** Consulte la Ley de Tecnología de Asistencia, IDEA y las WCAG al adquirir o construir herramientas de IA.
-- **Diga qué función cumple el apoyo y evalúelo en función de esa función.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguen la compensación (evaluada por el acceso y la participación) del andamiaje (decisiones con apoyo) y del desarrollo (uso de estrategias tras la retirada o la transferencia). Añaden una regla dirigida a la cautela de esta página: el apoyo de accesibilidad no es una remediación — si una herramienta es una adaptación, instrucción en estrategias o práctica temporal de apoyo, «debería indicarse en el plan de aprendizaje».
+- **Diga qué función cumple el apoyo y evalúelo en función de esa función.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguen la compensación (evaluada por el acceso y la participación) del [[scaffolding|andamiaje]] (decisiones con apoyo) y del desarrollo (uso de estrategias tras la retirada o la transferencia). Añaden una regla dirigida a la cautela de esta página: el apoyo de accesibilidad no es una remediación — si una herramienta es una adaptación, instrucción en estrategias o práctica temporal de apoyo, «debería indicarse en el plan de aprendizaje».
 
 ## Concepciones erróneas
 

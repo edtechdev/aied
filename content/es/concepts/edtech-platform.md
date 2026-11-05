@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Plataforma edtech
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-25T17:00:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los entornos de aprendizaje en línea a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la IA en la educación, la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación de esta base de conocimiento examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los [[online-teaching-and-learning|entornos de aprendizaje en línea]] a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la [[ai-education|IA en la educación]], la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación de esta base de conocimiento examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Preguntas para reflexionar
 
@@ -32,7 +32,7 @@ ai_assist:
 - Un estudio encontró que casi la mitad del estudiantado nunca usó una plataforma de tutoría con IA bien diseñada, y que el uso intensivo se inclinaba hacia el estudiantado de mayor rendimiento. Si una herramienta es eficaz «en principio» pero el estudiantado no la usa, ¿el problema real es la capacidad o la plataforma? ¿Qué significaría eso para cómo evalúa usted la tecnología educativa?
 - Las plataformas de IA propietarias pueden confinar a quien investiga a un puñado de sistemas cerrados, mientras que plataformas abiertas como OATutor permiten a cualquiera bifurcar, experimentar y publicar. ¿Qué podría perderse —para la investigación, la equidad y la autonomía institucional— cuando la educación con IA se entrega a través de plataformas cerradas y opacas?
 - ¿Cuánto moldea el aprendizaje que realmente ocurre en una plataforma su modelo de negocio —quién paga, quién es dueño de los datos, qué se optimiza—? ¿Dónde buscaría usted para ver esa influencia?
-- Algunas plataformas nuevas «nativas de IA» sustituyen el modelo MOOC de un vídeo para muchos estudiantes por un aula multiagente construida en torno a cada persona que aprende. Antes de seguir leyendo, ¿qué le preocuparía perder cuando la instrucción pasa a ser uno a uno con agentes en lugar de uno a muchos con docentes?
+- Algunas plataformas nuevas «nativas de IA» sustituyen el modelo MOOC de un vídeo para muchos estudiantes por un [[agentic-ai|aula multiagente]] construida en torno a cada persona que aprende. Antes de seguir leyendo, ¿qué le preocuparía perder cuando la instrucción pasa a ser uno a uno con agentes en lugar de uno a muchos con docentes?
 
 ## Introducción
 
@@ -62,7 +62,7 @@ La restricción vinculante es dónde se sitúa la IA dentro de la plataforma: en
 
 ### Qué herramientas dice el profesorado que usa, y qué condiciona el acceso
 
-Un censo poco habitual de la elección de plataforma según el profesorado procede de una tipología de 2026 construida a partir de 211 docentes de nueve países: las herramientas que llegan a las aulas son desproporcionadamente las que tienen un plan gratuito, porque disponer de una versión gratuita públicamente disponible fue un criterio de inclusión, y las entradas más nominadas son asistentes de uso general y generadores de medios, no plataformas creadas a propósito. Aproximadamente la mitad de las cincuenta herramientas listadas producen imágenes, audio, vídeo o presentaciones, mientras que los asistentes fundamentados en documentos (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) forman el grupo más coherente de la categoría de investigación. Los sistemas dedicados de [[intelligent-tutoring|tutoría]] aparecen como un grupo pequeño y específico de una materia, y no como el centro del uso declarado, lo que enmarca el problema de adopción anterior en un entorno más amplio, donde una plataforma compite por la atención con herramientas de uso general que el estudiantado y el profesorado ya tienen abiertas.([[typology-generative-ai-tools-education-2026]])
+Un censo poco habitual de la elección de plataforma según el profesorado procede de una tipología de 2026 construida a partir de 211 docentes de nueve países. Las herramientas que llegan a las aulas son desproporcionadamente las que tienen un plan gratuito, porque disponer de una versión gratuita públicamente disponible fue un criterio de inclusión, y las entradas más nominadas son asistentes de uso general y generadores de medios, no plataformas creadas a propósito. Aproximadamente la mitad de las cincuenta herramientas listadas producen imágenes, audio, vídeo o presentaciones, mientras que los asistentes fundamentados en documentos (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) forman el grupo más coherente de la categoría de investigación. Los sistemas dedicados de [[intelligent-tutoring|tutoría]] aparecen como un grupo pequeño y [[discipline-specific-aied|específico de una materia]], y no como el centro del uso declarado, lo que enmarca el problema de adopción anterior en un entorno más amplio, donde una plataforma compite por la atención con herramientas de uso general que el estudiantado y el profesorado ya tienen abiertas.([[typology-generative-ai-tools-education-2026]])
 
 ### El modelo de plataforma importa: abierta frente a propietaria
 
@@ -76,11 +76,14 @@ Un censo poco habitual de la elección de plataforma según el profesorado proce
 
 ### Las plataformas nativas de IA están reconfigurando la educación en línea
 
-El propio paradigma de plataforma está evolucionando. **MAIC** (Massive AI-empowered Course) sustituye el modelo MOOC de «un vídeo para N estudiantes» por un aula multiagente impulsada por LLM —«N agentes para 1 estudiante»— usando agentes especializados de Docente, Asistente, Compañero de clase y Analizador para ofrecer aprendizaje personalizado y adaptativo a escala, y reduciendo la producción de un curso de ~\$25K/60 horas a menos de 2 \$/30 minutos.([[mooc-to-maic]]) De forma similar, los diseños de LMS integrados con IA proponen ir más allá de las plataformas dedicadas solo al flujo de trabajo, hacia un apoyo instruccional en tiempo real con IA acotada por la política, sugerencias formativas, repaso espaciado y paneles para el profesorado.([[ai-lms-middle-school-longitudinal]]) En el otro extremo del espectro de despliegue, la IA integrada en el aula debe demostrar su viabilidad en entornos físicos reales. El Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) —una plataforma para toda el aula que usa reconocimiento de voz y comprensión del lenguaje para visualizar el discurso colaborativo en grupos pequeños— se desplegó con éxito en aulas ruidosas de secundaria usando micrófonos corrientes y una canalización en la nube escalable, lo que muestra que la infraestructura de IA de voz en tiempo real puede funcionar en entornos auténticos de K-12 incluso cuando los desajustes de interfaz (las vistas del profesorado frente a las del estudiantado sobre si la retroalimentación era de grupo o de clase) generaban fricción en el despliegue.
+El propio paradigma de plataforma está evolucionando. **MAIC** (Massive AI-empowered Course) sustituye el modelo MOOC de «un vídeo para N estudiantes» por un aula multiagente impulsada por [[llm|LLM]] —«N agentes para 1 estudiante»— usando agentes especializados de [[teacher-role|Docente]], Asistente, Compañero de clase y Analizador para ofrecer aprendizaje personalizado y adaptativo a escala, y reduciendo la producción de un curso de ~\$25K/60 horas a menos de 2 \$/30 minutos.([[mooc-to-maic]]) De forma similar, los diseños de LMS integrados con IA proponen ir más allá de las plataformas dedicadas solo al flujo de trabajo, hacia un apoyo instruccional en tiempo real con IA acotada por la política, sugerencias formativas, repaso espaciado y [[visualization|paneles]] para el profesorado.([[ai-lms-middle-school-longitudinal]]) En el otro extremo del espectro de despliegue, la IA integrada en el aula debe demostrar su viabilidad en entornos físicos reales. El Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) —una plataforma para toda el aula que usa [[speech-and-voice-technologies|reconocimiento de voz]] y comprensión del lenguaje para visualizar el discurso colaborativo en grupos pequeños— se desplegó con éxito en aulas ruidosas de secundaria usando micrófonos corrientes y una canalización en la nube escalable, lo que muestra que la infraestructura de IA de voz en tiempo real puede funcionar en entornos auténticos de [[k-12|K-12]] incluso cuando los desajustes de interfaz (las vistas del profesorado frente a las del estudiantado sobre si la retroalimentación era de grupo o de clase) generaban fricción en el despliegue.
 
 ### Funciones de plataforma basadas en intereses y sensibles al contexto
 
 Las plataformas pueden personalizar más allá de los datos de rendimiento. **Taklif.AI** es una plataforma impulsada por LLM que genera tareas universitarias a partir de los **intereses extracurriculares y los contextos culturales** del estudiantado, en línea con la [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]] y alejándose de las tareas idénticas para todos hacia una implicación impulsada por los intereses.([[taklif-ai-interest-based-personalized-assignments]])
+### Capas creadas a propósito sobre modelos generales
+
+El aporte de la plataforma es a menudo la estructura de la que carece un modelo general. [[learnmate2-llm-adaptive-learning|LearnMate^2]] envuelve un LLM en planificación del estudio, ayuda en contexto y actividades que responden al rendimiento, y en una comparación con 16 participantes superó a Khan Academy emparejada con Gemini 2.5 Pro tanto en los cuestionarios (M = 13,375 frente a 10,875, p = 0,0126; 7,875 frente a 5,875, p = 0,0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] traduce instrucciones en lenguaje natural a comportamiento de robots CoppeliaSim para principiantes, con éxito en el 100% de las tareas simples pero en el 88,9% de las complejas en 108 casos.
 
 ## Implicaciones para el diseño y la investigación
 
@@ -99,7 +102,7 @@ La privacidad puede incorporarse a la canalización en lugar de a la política: 
 
 **«La adopción se mide por los inicios de sesión.»** La brecha informativa está en el nivel del mensaje, no en el de la cuenta. En ese mismo ensayo, solo **~14,5% de los mensajes contenían una pregunta matemática genuina**. El noventa y seis por ciento del estudiantado generó el evento de acceso; aproximadamente uno de cada siete de sus interacciones hizo el trabajo intelectual. Informar aquí una cifra de inicios de sesión habría descrito un éxito que no existía.
 
-**«Abierto frente a propietario es un detalle de licencia que no afecta a los resultados.»** El modelo de plataforma condiciona lo que las instituciones pueden hacer con el sistema: las plataformas [[open-source|abiertas]] como OATutor —un tutor adaptativo con licencia MIT, una biblioteca de contenido de álgebra en Creative Commons, estimación de dominio mediante [[knowledge-tracing|seguimiento del conocimiento]] y pruebas A/B integradas— permiten a un departamento instrumentar y modificar su propia pedagogía, algo que una plataforma cerrada no puede. La licencia determina quién puede realizar el experimento.
+**«Abierto frente a propietario es un detalle de licencia que no afecta a los resultados.»** El modelo de plataforma condiciona lo que las instituciones pueden hacer con el sistema: las plataformas [[open-source|abiertas]] como OATutor —un tutor adaptativo con licencia MIT, una biblioteca de contenido de álgebra en Creative Commons, estimación de dominio mediante [[knowledge-tracing|seguimiento del conocimiento]] y pruebas A/B integradas— permiten a un departamento instrumentar y modificar su propia [[pedagogy|pedagogía]], algo que una plataforma cerrada no puede. La licencia determina quién puede realizar el experimento.
 
 **«Una plataforma que funciona en una institución funcionará tal como se adopte.»** Los efectos de una plataforma pasan por la gobernanza local: una arquitectura que priorice la privacidad, la minimización de datos, los registros auditables y el acceso basado en roles es lo que hace que una plataforma integrada con IA sea desplegable siquiera, y son decisiones institucionales y no funciones que se puedan inferir de una demostración comercial.
 

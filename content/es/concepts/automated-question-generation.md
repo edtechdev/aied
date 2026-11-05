@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Generación automática de preguntas
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-10-25T21:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ La investigación de la base de conocimiento ilustra varios enfoques:
 ## Validación y calidad
 
 El reto central de la AQG es el **control de calidad**:
+
 - **Evalúe el proceso de resolución, no el enunciado:** [[proiqa-math-item-quality-assessment-2026|ProIQA]] sostiene que la revisión de la calidad de un ítem debe seguir lo que hace una persona experta —simular la solución— y construye un árbol de razonamiento generado por LLM para cada ítem, verificado en cuanto a corrección matemática en 90,38–97,80%, y después codifica su estructura de dependencias con una [[machine-learning|red neuronal]] de grafos junto a una vista solo del enunciado. Informa de ganancias medias sobre el segundo mejor método de 7,5% en evaluación de conceptos, 6,3% en estimación de dificultad y 19,5% en evaluación de competencias, y su análisis de errores nombra un modo de fallo que conviene vigilar: un árbol de razonamiento lógicamente correcto pero estructuralmente superficial deja un ítem difícil con apariencia de fácil.
 
 - **Riesgo de alucinación:** los LLM pueden generar preguntas factualmente incorrectas. [[generate-then-validate-question-gen|Generate-Then-Validate]] muestra que una fase de validación dedicada reduce esto de forma marcada, y el [[hallucination-risk|riesgo de alucinación]] es una preocupación reconocida en todo el ámbito.
@@ -61,7 +62,7 @@ El reto central de la AQG es el **control de calidad**:
 - **Las etiquetas de dificultad generadas pueden ser un fallo de validez de constructo, no un error de calibración.** En 378 ítems generados, las etiquetas Fácil/Medio/Difícil del modelo seguían el nivel de Bloom cogenerado con ellas (ρ=0,90) y la forma superficial —la longitud media del enunciado subió de 15,9 a 22,1 y a 30,2 palabras—, pero correlacionaban con la dificultad empírica del ítem solo en ρ=0,06 sobre 7.888 respuestas de 54 estudiantes, lo que aboga por calibrar los metadatos generados contra los datos de respuesta en lugar de fiarse de las etiquetas cogeneradas ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang (2026)]]).
 - **Validación psicométrica de campo a gran escala:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] valida una cadena de AQG de refinamiento iterativo (generar→juzgar→revisar, al estilo Self-Refine) en 91 clases universitarias reales (~1.686 estudiantes). El análisis bayesiano jerárquico [[item-response-theory|IRT]] de 2PL muestra que las preguntas generadas por IA rinden a la par que los ítems de exámenes estandarizados escritos por expertos: algo más fáciles (β̄ = −0,45 frente a 0,35) pero ligeramente más discriminativas (ᾱ = 1,3 frente a 1,2), con una información máxima del test más alta (fiabilidad 0,79 frente a 0,72), lo que demuestra que la AQG puede producir evaluaciones adaptadas al curso y psicométricamente sólidas a escala.
 
-- La paridad psicométrica media puede ocultar carencias a nivel de ítem: una revisión de alcance de 153 informes de educación médica encontró que la generación de ítems con IA a veces igualaba la dificultad y la discriminación humanas, pero en una comparación de fisiología solo 9 de 40 ítems de ChatGPT cumplían todos los criterios ideales frente a 19 de 40 ítems del profesorado ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
+- La paridad psicométrica media puede ocultar carencias a nivel de ítem: una [[meta-analysis-systematic-review|revisión de alcance]] de 153 informes de educación médica encontró que la generación de ítems con IA a veces igualaba la dificultad y la discriminación humanas, pero en una comparación de fisiología solo 9 de 40 ítems de ChatGPT cumplían todos los criterios ideales frente a 19 de 40 ítems del profesorado ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 - **Reconocibilidad en un examen real, y lo que la revisión elimina de verdad:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] introdujeron 30 ítems de opción múltiple generados por IA y 30 del Examen Nacional de Licencia en un examen calificado en tableta realizado por 119 [[medical-education|estudiantes de medicina]] de quinto curso, con los ítems de IA redactados a partir de los propios materiales del curso por ChatGPT-4o y Gemini 1.5 Pro mediante un panel de expertos que aceptó el 82% de ellos y eliminó el 18,2% por inutilizables. La atribución de fuente del estudiantado no difirió entre los dos tipos de ítem, y la dificultad del ítem, la distribución de distractores y la alineación curricular percibida fueron estadísticamente indistinguibles: un resultado de *reconocimiento* y no de calidad, y la razón por la que los autores describen el beneficio del flujo de trabajo como un traslado del esfuerzo docente de la redacción a la revisión, y no como su eliminación. Sobrevivió una diferencia exploratoria: los ítems de Gemini eran más difíciles que los del examen de licencia (p = 0,028), mientras que los de ChatGPT no lo eran (p = 0,984).
 - **Dependencia de la tarea:** la fiabilidad de la generación varía según el tipo de ítem. [[cong-confidence-asag-2026|La calificación de respuesta corta]] y [[self-referential-l2-writing-llm-assessment|la evaluación analítica de la escritura]] muestran que los ítems de respuesta abierta y de escritura son más difíciles de generar y calificar de forma fiable que los ítems estructurados.
 - **Calidad cognitiva:** [[llm-educational-question-cognitive-depth|la evaluación de la profundidad cognitiva]] muestra que los ítems generados pueden inclinarse hacia el pensamiento de orden inferior salvo que se diseñen explícitamente para resultados de orden superior.

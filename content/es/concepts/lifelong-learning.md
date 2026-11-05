@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -29,7 +29,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Piense en la última competencia nueva que aprendió fuera de la educación formal, en el trabajo, en línea o por su cuenta. ¿Quién decidió qué aprender, cómo aprenderlo y cuándo había terminado? ¿Cómo cambiaría la IA ese panorama?
-- Una pregunta central de esta página es la autonomía: si la IA participa en identificar sus necesidades de aprendizaje, fijar sus metas e incluso producir contenido, ¿qué queda realmente autodirigido en su propio aprendizaje?
+- Una pregunta central de esta página es la autonomía: si la IA participa en identificar sus necesidades de aprendizaje, fijar sus metas e incluso producir contenido, ¿qué queda realmente [[self-directed-learning|autodirigido]] en su propio aprendizaje?
 - La educación formal trata el tiempo como algo fijo y los planes de estudio como algo secuencial. La página propone los «grafos Learnity»: unidades de conocimiento interconectadas por las que el estudiante transita con flexibilidad a lo largo de toda su vida. ¿Qué gana y qué puede perder al liberar el aprendizaje de una secuencia fija?
 - La IA puede tanto apoyar a quienes aprenden siendo adultos como cambiar qué competencias deben actualizar de forma continua. Si la IA no deja de transformar su campo, ¿en qué capacidades invertiría que ninguna herramienta pueda darle por sí sola?
 - El aprendizaje a lo largo de la vida se plantea a menudo como una responsabilidad individual. Pero el acceso a lo largo de la vida también es una cuestión de equidad. ¿Quién dispone del tiempo, los recursos y el apoyo para seguir aprendiendo siendo adulto, y cómo podría la IA ampliar o reducir esa brecha?
@@ -43,7 +43,8 @@ El aprendizaje a lo largo de la vida se refiere a la educación continua durante
 - **Directrices de diseño para el aprendizaje de personas adultas:** [[ai-adult-learning-guidelines-dis2026|una investigación del instituto AI-ALOE]] sintetiza directrices de diseño con base empírica para tecnologías de aprendizaje de adultos impulsadas por IA, con énfasis en un apoyo práctico y sensible al contexto.
 - **Adquisición de competencias guiada por IA:** [[ai-guided-learning-audiovideo-2026|el aprendizaje con audio y vídeo guiado por IA]] muestra cómo la IA puede ofrecer andamiaje en las etapas de consumir, comprender e imitar de la adquisición de una competencia, adaptando los medios a quien aprende.
 - **De los planes de estudio fijos a las estructuras adaptativas:** [[learnity-graphs-lifelong-learning-framework-2026|los grafos Learnity]] proponen repensar los planes de estudio fijos de la educación superior como unidades de conocimiento interconectadas por las que el estudiante puede transitar con flexibilidad a lo largo de toda su vida.
-- **Autonomía y autodirección:** [[andragogy-cognitive-delegation-genai-2026|la andragogía y la delegación cognitiva]] revisan la teoría del aprendizaje de adultos bajo la delegación cognitiva mediada por IA y se preguntan qué queda autodirigido cuando la IA participa en identificar necesidades, fijar metas y producir contenido.
+- **Autonomía y autodirección:** [[andragogy-cognitive-delegation-genai-2026|la andragogía y la delegación cognitiva]] revisan la [[learning-theories|teoría del aprendizaje]] de adultos bajo la delegación cognitiva mediada por IA y se preguntan qué queda autodirigido cuando la IA participa en identificar necesidades, fijar metas y producir contenido.
+- **Qué quieren los adultos de esa delegación.** En entrevistas con 20 de 60 personas adultas preseleccionadas en tres universidades estadounidenses, quienes aprenden describieron la IA como un [[collaborative-learning|agente de aprendizaje colaborativo]] del que aprenden y con el que aprenden, no como un oráculo que da respuestas. Dijeron no querer un sistema perfecto y sin errores, sino uno que siga en el bucle y se adapte a ellas ([[kim-ai-andragogy-2026|Kim et al., 2026]]). La autodirección, según esta evidencia, es algo que las personas adultas esperan conservar dentro de la interacción y no entregar a ella, que es el objetivo de diseño que la pregunta sobre la autonomía necesita.
 - **Política y comunidad:** [[ai-lifelong-learning-policy|la IA en las políticas de aprendizaje a lo largo de la vida]] y [[community-centered-ai-education-adults|la educación en IA centrada en la comunidad]] abordan las dimensiones institucionales y de equidad del aprendizaje de adultos con IA.
 - **La regeneración de la experiencia está en riesgo.** En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de 22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025), mientras que las de 35 a 49 años crecieron más del 8%, y la experiencia profunda necesaria para validar los resultados de la IA depende de los puestos de entrada que ese descenso elimina ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
@@ -102,3 +103,4 @@ El aprendizaje a lo largo de la vida se relaciona con [[adult-learning|el aprend
 - [[ai-lifelong-learning-policy]] — La IA en el aprendizaje a lo largo de la vida: oportunidades y retos en las políticas de educación de adultos
 - [[community-centered-ai-education-adults]] — Codiseño de una educación en IA centrada en la comunidad para personas adultas
 - [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes comunes cognitivos: la IA y la regeneración de la experiencia
+- [[kim-ai-andragogy-2026]] — Perspectivas del estudiantado adulto sobre la IA como agente de aprendizaje colaborativo en la andragogía (Kim et al. 2026)

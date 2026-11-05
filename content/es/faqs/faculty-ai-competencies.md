@@ -1,7 +1,7 @@
 ---
 title: "¿Qué competencias necesita el profesorado en relación con la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-28T12:58:23-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -86,7 +86,6 @@ Las ganancias de calidad no prueban que la práctica se haya interiorizado. Trec
 ## Cubra las partes del rol más allá de la enseñanza
 
 La competencia es también una cuestión institucional, y la mayoría de los marcos responden solo a una parte. [[crompton-faculty-technology-integration-standards-2026|Una investigación basada en el diseño con 114 participantes de 28 instituciones estadounidenses y 11 países]] produjo seis estándares de tecnología para el profesorado que abarcan el rol académico completo: docente, coordinador, líder, investigador, aprendiz y contribuidor.
-
 La razón por la que sus autores los construyeron es la parte útil. Los marcos existentes ([[tpack]], [[samr-model|SAMR]]) y los estándares para educadores (ISTE, UNESCO, DigCompEdu) se dirigen al profesorado de [[k-12|educación preuniversitaria]] o cubren solo la dimensión de la enseñanza.
 
 Para quien desarrolla al profesorado, eso replantea la petición. Un departamento que pide un taller de IA para su profesorado está preguntando por uno de seis roles. Los coordinadores del mismo departamento toman decisiones a nivel de programa, sus investigadores escriben con estas herramientas y sus líderes aprueban compras. Una sola sesión no puede servir a todos ellos, y fingir lo contrario es la manera en que un programa acaba con alta asistencia y ningún cambio en la práctica.
@@ -109,7 +108,7 @@ Quien domina el contenido resolverá la integración por su cuenta. El conocimie
 
 Un solo marco cubrirá a todo el mundo. El estándar de seis roles existe porque TPACK, SAMR y los principales estándares para educadores cubren al profesorado de K-12 o solo la dimensión de la enseñanza.
 
-La resistencia es una carencia de conocimiento que hay que llenar. La aversión al riesgo predijo la intención de forma negativa, y el trabajo sobre la identidad describe a profesorado que razona desde valores pedagógicos. Parte de lo que parece reticencia es una postura defendible sobre la dependencia excesiva del estudiantado.
+La resistencia es una carencia de conocimiento que hay que llenar. La aversión al riesgo predijo la intención de forma negativa, y el [[learner-identity|trabajo sobre la identidad]] describe a profesorado que razona desde valores pedagógicos. Parte de lo que parece reticencia es una postura defendible sobre la dependencia excesiva del estudiantado.
 
 ## Las objeciones que escuchará
 

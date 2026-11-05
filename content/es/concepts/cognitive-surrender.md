@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ Tres experimentos prerregistrados adaptaron el Test de Reflexión Cognitiva y al
 
 La lectura práctica es que la rendición es un **fallo de discriminación** y no un fallo de motivación. Los participantes que se rindieron no intentaban evitar el trabajo: no sabían distinguir el buen consejo del malo, y la interfaz no les daba ninguna razón para intentarlo.
 
-Un experimento prerregistrado de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] aporta una configuración contrastante. Con el asistente acotado por recuperación aumentada a la hoja de trabajo asignada, la condición de IA redujo la descarga cognitiva (mediana −0,27) en lugar de elevarla, y ninguna vía de descarga canalizó el aumento de la desorganización (0,84). La rendición necesita un asistente cuyo consejo pueda adoptarse en bloque; un sistema que solo responde a partir del material presente da a quien aprende menos que adoptar y más que conciliar.
+Un experimento prerregistrado de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] aporta una configuración contrastante. Con el asistente acotado por [[rag|recuperación aumentada]] a la hoja de trabajo asignada, la condición de IA redujo la descarga cognitiva (mediana −0,27) en lugar de elevarla, y ninguna vía de descarga canalizó el aumento de la desorganización (0,84). La rendición necesita un asistente cuyo consejo pueda adoptarse en bloque; un sistema que solo responde a partir del material presente da a quien aprende menos que adoptar y más que conciliar.
 
 ## La rendición fuera del laboratorio
 
@@ -87,6 +87,7 @@ Los hallazgos de laboratorio coinciden con el trabajo de campo y observacional q
 - **Los modos dependiente y autónomo solo se distinguen en sus consecuencias.** [[family-school-autonomy-support-genai-2026|Fan, Li y Zhang (2026)]] siguen a 589 estudiantes y trabajadores en inicio de carrera a lo largo de tres oleadas: la descarga dependiente delegaba el pensamiento central y se asociaba con menor motivación intrínseca, mientras que la descarga autónoma no lo hacía, y el rendimiento inmediato parecía idéntico en ambos casos.
 - **La aportación del propio modelo.** [[sycophantic-ai-social-interaction-2026|La sicofancia]] es el complemento de la rendición: un asistente que da la razón, que se pliega al encuadre de la persona usuaria o que afirma una tesis con fluidez no le da a quien aprende nada contra lo que empujar.
 - **La retirada es la mitad no resuelta.** [[cognitive-washout-ai-skill-decay-2026|El trabajo sobre el desgaste cognitivo]] señala que casi toda esta investigación mide la cognición *durante* el uso de la IA, y casi ninguna mide qué ocurre cuando se retira el asistente, que es exactamente la pregunta que plantea un examen, una caída del servicio o una revisión de licencia.
+- **«La delegación de un ensayo completo sigue siendo hipotética fuera del laboratorio.»** Ocurrió en un estudio en línea de una sola sesión, sin política ni incentivo alguno. De **77** estudiantes universitarios de escritura, **15 (19,5%)** entregaron ensayos escritos al **100%** por el modelo, sin teclear una sola palabra en el editor, y **20** participantes pidieron directamente un ensayo completo, el código más usado del esquema. La persona que más lo usó envió **27** consultas. [[jelson-students-chatgpt-essay-writing-2026|La rendición apareció como un patrón de solicitudes]], no como un acto único detectable.
 
 ## Diseñar y enseñar contra la rendición
 
@@ -147,3 +148,4 @@ La evidencia de la rendición como constructo con nombre propio se apoya en gran
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Entrenamiento en calibración
 - [[family-school-autonomy-support-genai-2026]] — Descarga dependiente frente a autónoma
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Un asistente anclado a la hoja de trabajo redujo la descarga en lugar de elevarla: una condición límite para la firma de la rendición (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Delegación naturalista de ensayos completos: 15 de 77 ensayos escritos enteramente por el modelo, 20 solicitudes de un ensayo completo (Jelson et al. 2026)

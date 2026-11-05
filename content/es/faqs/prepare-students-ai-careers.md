@@ -1,7 +1,7 @@
 ---
 title: "¿Qué deberían aprender los estudiantes para carreras en las que la IA es habitual?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -25,9 +25,9 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Un estudiante pregunta por qué debería aprender a hacer algo que un chatbot ya hace. Un consejo asesor del programa dice que los empleadores quieren titulados que sepan usar la IA en el trabajo. Su programa tiene que satisfacer a ambos, y ninguno de los dos ha dicho qué debería saber hacer el titulado sin ayuda.
+Un estudiante pregunta por qué debería aprender a hacer algo que un [[conversational-ai|chatbot]] ya hace. Un consejo asesor del programa dice que los empleadores quieren titulados que sepan usar la IA en el trabajo. Su programa tiene que satisfacer a ambos, y ninguno de los dos ha dicho qué debería saber hacer el titulado sin ayuda.
 
-Respuesta breve para dar a un colega: enseñe la tarea profesional completa y no el manejo de la herramienta, y evalúe tanto el producto apoyado como la capacidad independiente del estudiante. La evidencia respalda entender la preparación como conocimiento disciplinar más juicio más verificación más transferencia, y no respalda ninguna lista de destrezas como garantía de empleo. Una encuesta a 500 docentes universitarios estadounidenses contrastada con un panel de empleadores encontró que los dos grupos coincidían en la importancia de exactamente una de 26 destrezas relacionadas con la IA, *fijar expectativas realistas para el trabajo aumentado con IA*; los docentes ponderaban el uso crítico y responsable mientras los empleadores ponderaban el flujo de trabajo, la automatización y el trabajo conjunto entre humanos e IA ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Son prioridades declaradas, no evidencia de contratación. El hallazgo más nítido para un plan de estudios está en otro sitio: en una encuesta a 455 estudiantes de último curso, la alfabetización en IA alcanzó la empleabilidad percibida sobre todo elevando la [[career-development-and-readiness|adaptabilidad profesional]], con un efecto indirecto de β = 0,173 junto a un β directo de 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan y Lestari, 2026]]). La adaptabilidad es una capacidad que se puede enseñar. Un consejo sobre herramientas no lo es.
+Respuesta breve para dar a un colega: enseñe la tarea profesional completa y no el manejo de la herramienta, y evalúe tanto el producto apoyado como la capacidad independiente del estudiante. La evidencia respalda entender la preparación como conocimiento disciplinar más juicio más verificación más transferencia, y no respalda ninguna lista de destrezas como garantía de empleo. Una encuesta a 500 docentes universitarios estadounidenses contrastada con un panel de empleadores encontró que los dos grupos coincidían en la importancia de exactamente una de 26 destrezas relacionadas con la IA, *fijar expectativas realistas para el trabajo aumentado con IA*; los docentes ponderaban el uso crítico y responsable mientras los empleadores ponderaban el flujo de trabajo, la automatización y el [[human-ai-collaboration|trabajo conjunto entre humanos e IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Son prioridades declaradas, no evidencia de contratación. El hallazgo más nítido para un [[curriculum-design|plan de estudios]] está en otro sitio: en una encuesta a 455 estudiantes de último curso, la alfabetización en IA alcanzó la empleabilidad percibida sobre todo elevando la [[career-development-and-readiness|adaptabilidad profesional]], con un efecto indirecto de β = 0,173 junto a un β directo de 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan y Lestari, 2026]]). La adaptabilidad es una capacidad que se puede enseñar. Un consejo sobre herramientas no lo es.
 
 ## La versión breve
 
@@ -73,13 +73,13 @@ Son adaptaciones de los temas de investigación, no intervenciones de empleabili
 
 Composición y comunicación empresarial: haga que los estudiantes critiquen y revisen una respuesta redactada por IA a la queja de un cliente. La evidencia de capacidad es nombrar las promesas sin respaldo, explicar las decisiones de destinatario y defender la redacción final.
 
-Un curso cuantitativo puede hacer lo mismo con una estimación producida por IA para un problema de planificación realista, donde los estudiantes construyan su propia estimación, declaren los supuestos y prueben la plausibilidad.
+Un curso [[quantitative-research|cuantitativo]] puede hacer lo mismo con una estimación producida por IA para un problema de planificación realista, donde los estudiantes construyan su propia estimación, declaren los supuestos y prueben la plausibilidad.
 
 Para un curso de hoja de cálculo o de computación, entregue una fórmula generada y datos sintéticos, y después pida casos de prueba, una explicación de las referencias y una condición de fallo.
 
-Profesiones de la salud: los estudiantes evalúan una explicación generada para un caso ficticio contra fuentes aprobadas, nombran sus limitaciones y dicen cuándo tiene que decidir un profesional cualificado.
+[[medical-education|Profesiones de la salud]]: los estudiantes evalúan una explicación generada para un caso ficticio contra fuentes aprobadas, nombran sus limitaciones y dicen cuándo tiene que decidir un profesional cualificado.
 
-La exploración profesional tiene su propia versión: comparar la composición de tareas de dos ocupaciones con información ocupacional creíble y después planificar un paso concreto de desarrollo de destrezas o de búsqueda de ayuda.
+La exploración profesional tiene su propia versión: comparar la composición de tareas de dos ocupaciones con información ocupacional creíble y después planificar un paso concreto de desarrollo de destrezas o de [[help-seeking|búsqueda de ayuda]].
 
 Para la modalidad asíncrona, pida un intento inicial, un registro breve de verificación y una nota de dos frases sobre una decisión consecuente. En un laboratorio o un seminario, la explicación puede ocurrir en la conversación. Use materiales sintéticos o autorizados siempre que la alternativa sean datos confidenciales de trabajo o de estudiantes.
 
@@ -89,19 +89,19 @@ Un artefacto pulido le dice qué se produjo en las condiciones permitidas. No le
 
 Elija esos requisitos porque respaldan una capacidad declarada, y diga qué mide cada evaluación. Los estudiantes aceptan la práctica independiente cuando está conectada con aquello para lo que se les prepara; «lo necesitarás algún día» hace menos trabajo que mostrar cómo el cálculo es lo que les permite detectar más tarde una estimación errónea.
 
-El lado del apoyo tiene su propio riesgo. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] encontraron que el uso de IA generativa se asociaba positivamente con la dependencia de la IA generativa, y la dependencia negativamente con el pensamiento crítico y con la empleabilidad en su modelo de encuesta. Es una asociación y no una afirmación causal, y apunta a la pregunta de diseño: un curso que solo evalúa rendimiento apoyado puede estar entrenando la dependencia que denuncia.
+El lado del apoyo tiene su propio riesgo. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] encontraron que el uso de [[generative-ai|IA generativa]] se asociaba positivamente con la dependencia de la IA generativa, y la dependencia negativamente con el [[critical-thinking|pensamiento crítico]] y con la empleabilidad en su modelo de encuesta. Es una asociación y no una afirmación causal, y apunta a la pregunta de diseño: un curso que solo evalúa rendimiento apoyado puede estar entrenando la dependencia que denuncia.
 
 Para la revisión del programa, separe las medidas. El rendimiento en el curso, la alfabetización en IA demostrada, la evaluación del supervisor de prácticas, la situación laboral y la calidad del empleo son resultados distintos con horizontes temporales distintos, y una sola intervención no puede establecerlos todos. [[ai-literacy-evidence|La página sobre la evidencia de alfabetización en IA]] es el inventario honesto de lo que respaldan de verdad los estudios de intervención.
 
 ## Aborde la ansiedad profesional sin prometer certeza
 
-Los estudiantes llegan con miedos reales, y la literatura de encuestas sobre ellos es una descripción de los miedos y no un pronóstico del mercado laboral. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] encontraron que la ansiedad ante la IA predecía directa y negativamente las decisiones profesionales, lo que es un hallazgo sobre la parálisis decisoria y no sobre el empleo. [[ai-anxiety-wellbeing|El panorama del bienestar]] cubre la evidencia más amplia.
+Los estudiantes llegan con miedos reales, y la literatura de encuestas sobre ellos es una descripción de los miedos y no un pronóstico del mercado laboral. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] encontraron que la [[anxiety-and-stress|ansiedad ante la IA]] predecía directa y negativamente las decisiones profesionales, lo que es un hallazgo sobre la parálisis decisoria y no sobre el empleo. [[ai-anxiety-wellbeing|El panorama del bienestar]] cubre la evidencia más amplia.
 
 Lo que ayuda es la investigación a la escala en que un estudiante puede actuar: qué tareas contiene de verdad este puesto, cómo es una semana, qué tendría que saber hacer, quién puede decírmelo. Los servicios de carrera, los antiguos alumnos y el personal de inserción laboral tienen esa información. Una demostración de herramienta, la impresión de un docente o la presentación de un proveedor no son un pronóstico del mercado laboral, y presentar uno como pronóstico es cómo los programas pierden credibilidad ante estudiantes que después comprueban.
 
 ## Lo que le van a responder
 
-**«Los estudiantes solo necesitan escribir mejores prompts».** El prompt es una cláusula de una de las seis partes. Una petición bien especificada no aporta el conocimiento necesario para reconocer un mal resultado, y los empleadores del panel de Ithaka tampoco situaban primero el arte de escribir prompts.
+**«Los estudiantes solo necesitan escribir mejores [[prompt-engineering|prompts]]».** El prompt es una cláusula de una de las seis partes. Una petición bien especificada no aporta el conocimiento necesario para reconocer un mal resultado, y los empleadores del panel de Ithaka tampoco situaban primero el arte de escribir prompts.
 
 **«Si los lugares de trabajo permiten la IA, el trabajo de curso debería permitirla».** Un curso también construye la capacidad que hace posible el uso responsable. Diga cuál de las dos está evaluando en cada tarea, y la objeción se convierte en una pregunta de diseño y no en una contradicción.
 
@@ -125,4 +125,4 @@ Lo que ayuda es la investigación a la escala en que un estudiante puede actuar:
 
 [[career-development-and-readiness]] es la página de concepto sobre empleabilidad, adaptabilidad y evidencia del mundo laboral, y [[ai-literacy]] cubre qué significa la alfabetización más allá del manejo de herramientas. Para incorporarla a un curso concreto, consulte [[incorporating-ai-literacy|incorporar la alfabetización en IA]] y [[faculty-ai-competencies|qué competencias necesita el profesorado]].
 
-Para el diseño de evaluación que hace distinguibles el rendimiento apoyado y el independiente, consulte [[redesign-assessment-ai-era|rediseñar la evaluación en la era de la IA]] y [[ai-grading-fairness-reliability|la calificación con IA]]. Para cómo evitar que el apoyo se convierta en dependencia, consulte [[reducing-over-reliance|reducir la dependencia excesiva]].
+Para el [[assessment|diseño de evaluación]] que hace distinguibles el rendimiento apoyado y el independiente, consulte [[redesign-assessment-ai-era|rediseñar la evaluación en la era de la IA]] y [[ai-grading-fairness-reliability|la calificación con IA]]. Para cómo evitar que el apoyo se convierta en dependencia, consulte [[reducing-over-reliance|reducir la dependencia excesiva]].

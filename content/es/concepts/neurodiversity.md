@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Dos revisiones definen la forma del campo, y ambas describen fragmentación y no
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Una revisión de alcance PRISMA-ScR (Rempel et al., 2026)]] buscó en cinco bases de datos y en una década de publicaciones (2015–2025), filtrando 766 registros hasta 40 estudios empíricos sobre tecnologías digitales de asistencia para estudiantes neurodivergentes en la [[higher-ed|educación superior]]. El campo se ha reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—, con los formatos inmersivos en segundo lugar, con 11. Su crítica central es una crítica de diseño: la acomodación individual y las herramientas específicas por neurotipo organizadas en torno a un diagnóstico formal no pueden abordar diferencias funcionales que atraviesan los neurotipos, por lo que recomienda el diseño universal y el desarrollo participativo. También señala que las herramientas más inmersivas son las menos escalables.
 
-[[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] cubre 2018–2024 con 72 estudios y encuentra que la IA se usa para la detección, el apoyo asistencial y la [[personalized-learning|personalización]], con esas líneas evolucionando en paralelo en lugar de integrarse, y el campo impulsado más por la oportunidad tecnológica que por una teoría educativa consolidada. Su investigación sobre detección (EEG, seguimiento ocular, modelos de [[machine-learning|aprendizaje automático]]) muestra potencial diagnóstico para la intervención temprana, pero a menudo necesita equipo especializado y condiciones controladas, lo que limita su uso en aulas ordinarias. Esa es la prueba práctica que esta línea entera no deja de suspender: el apoyo tiene que estar integrado en el curso que el estudiante está cursando de verdad.
+[[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] cubre 2018–2024 con 72 estudios y encuentra que la IA se usa para la detección, el apoyo asistencial y la [[personalized-learning|personalización]], con esas líneas evolucionando en paralelo en lugar de integrarse, y el campo impulsado más por la oportunidad tecnológica que por una teoría educativa consolidada. Su investigación sobre detección ([[sensor-and-gaze-analytics|EEG]], seguimiento ocular, modelos de [[machine-learning|aprendizaje automático]]) muestra potencial diagnóstico para la intervención temprana, pero a menudo necesita equipo especializado y condiciones controladas, lo que limita su uso en aulas ordinarias. Esa es la prueba práctica que esta línea entera no deja de suspender: el apoyo tiene que estar integrado en el curso que el estudiante está cursando de verdad.
 
 ## Autismo y TDAH en el aula
 
@@ -60,11 +60,11 @@ El lado del riesgo tiene su propia literatura. [[seung-basham-cognitive-offloadi
 
 ## Función ejecutiva y dependencia
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff y Daukantaitė (2026)]] definen la dependencia de forma estricta —preferir la IA generativa al propio esfuerzo o al apoyo del profesorado, más la dificultad para iniciar el trabajo escolar sin ella— y la ponen a prueba en dos muestras comunitarias suecas de adolescentes (849 estudiantes de secundaria baja, n analítico = 735, y 898 de secundaria alta, n analítico = 839). Las dificultades de función ejecutiva atravesaban la utilidad percibida y el uso habitual hasta llegar a la dependencia en ambas muestras, con efectos indirectos pequeños (β = 0,10; IC del 95% [0,06, 0,14] en la muestra de secundaria baja; β = 0,08; IC del 95% [0,04, 0,12] en la de secundaria alta). La lectura práctica: el estudiantado que más necesita apoyo para iniciar es aquel para quien una herramienta cómoda se convierte más fácilmente en la ruta por defecto en lugar de una opción, y los tamaños del efecto aquí son lo bastante pequeños como para que esto sea una preocupación de diseño y no un diagnóstico.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff y Daukantaitė (2026)]] definen la dependencia de forma estricta —preferir la IA generativa al propio esfuerzo o al apoyo del [[teacher-role|profesorado]], más la dificultad para iniciar el trabajo escolar sin ella— y la ponen a prueba en dos muestras comunitarias suecas de adolescentes (849 estudiantes de secundaria baja, n analítico = 735, y 898 de secundaria alta, n analítico = 839). Las dificultades de función ejecutiva atravesaban la [[technology-acceptance-model|utilidad percibida]] y el uso habitual hasta llegar a la dependencia en ambas muestras, con efectos indirectos pequeños (β = 0,10; IC del 95% [0,06, 0,14] en la muestra de secundaria baja; β = 0,08; IC del 95% [0,04, 0,12] en la de secundaria alta). La lectura práctica: el estudiantado que más necesita apoyo para iniciar es aquel para quien una herramienta cómoda se convierte más fácilmente en la ruta por defecto en lugar de una opción, y los tamaños del efecto aquí son lo bastante pequeños como para que esto sea una preocupación de diseño y no un diagnóstico.
 
 ## Advertencias de diseño
 
-- **El apoyo condicionado por diagnóstico excluye a quienes no nombra.** La crítica de la revisión de alcance se aplica directamente a cómo se despliegan las funciones de IA: si una función se desbloquea con una carta de adaptación, quienes tienen diferencias funcionales pero ningún diagnóstico nunca la ven.
+- **El apoyo condicionado por diagnóstico excluye a quienes no nombra.** La crítica de la [[meta-analysis-systematic-review|revisión de alcance]] se aplica directamente a cómo se despliegan las funciones de IA: si una función se desbloquea con una carta de adaptación, quienes tienen diferencias funcionales pero ningún diagnóstico nunca la ven.
 - **Los procesos basados en detectores pueden disuadir del uso legítimo de las adaptaciones.** Cuando una tecnología lingüística funciona como una adaptación eficaz para quien aprende de forma neurodivergente, una prohibición general o un proceso basado en detectores que disuada de su uso legítimo plantea consideraciones de igualdad: el caso de mala conducta anulado que documenta la literatura sobre la [[ai-detection|detección]] implicaba a un estudiante de un programa de apoyo al espectro autista ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Las herramientas pueden excluir epistémicamente, no solo funcionar mal.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] sostiene que los datos de entrenamiento anglófonos y centrados en Occidente marginan formas de conocer no hegemónicas, y sitúa la situación de quienes aprenden con discapacidad en el centro de esa crítica: una advertencia de que la IA «inclusiva» puede seguir codificando qué conocimiento cuenta.
 - **Las señales conductuales las leen sistemas que no conocen a quien aprende.** La interpretación de la [[student-engagement|implicación]], la dificultad o la atención en la [[learning-analytics|analítica del aprendizaje]] y el [[student-modeling|modelado del estudiante]] da por supuesto un patrón normativo de respuesta; véase [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de aprendices]] para la evidencia sobre la equidad de ese supuesto.
@@ -83,7 +83,7 @@ La neurodiversidad conecta con la [[special-education|educación especial]], el 
 
 ## Concepciones erróneas
 
-- **«La investigación sobre neurodiversidad es un rincón minoritario de la IAED.»** El campo se ha **reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—**, con los formatos inmersivos en segundo lugar, con 11. La literatura se movió con la tecnología en lugar de acumularse en torno a preguntas estables.
+- **«La investigación sobre neurodiversidad es un rincón minoritario de la [[ai-education|IAED]].»** El campo se ha **reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—**, con los formatos inmersivos en segundo lugar, con 11. La literatura se movió con la tecnología en lugar de acumularse en torno a preguntas estables.
 - **«Más IA para la dislexia significa mejor apoyo.»** [[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] abarca **72 estudios entre 2018 y 2024** y encuentra la IA usada en una amplia gama de propósitos. La amplitud de aplicación no es evidencia de eficacia para ninguno de ellos.
 - **«Las adaptaciones son el marco adecuado para quien aprende de forma neurodivergente.»** [[neurodivergent-computing-students|Una encuesta a 24 estudiantes de informática neurodivergentes y 20 pares neurotípicos]] con cuatro entrevistas en profundidad encontró necesidades que son **requisitos generales de diseño** —tareas estructuradas, equipos pequeños y estables, roles explícitos— y no ajustes individuales concedidos tras un diagnóstico.
 

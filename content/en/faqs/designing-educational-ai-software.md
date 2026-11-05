@@ -126,7 +126,3 @@ Accessibility is a later ticket. It sits in the spec or it becomes a rewrite, an
 ## Where to go next
 
 [[developing-ai-tutor]] covers the build, and [[designing-ai-into-learning]] covers the pedagogical defaults around it. For whether the thing works once deployed, see [[checking-whether-educational-ai-works]]; for the safety concepts behind the test plan, [[pedagogical-safety]] and [[hallucination-risk]]; for the procurement context, [[legal-issues-and-risks]].
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: drafting
-    date: "2026-11-04"
-    agent: hermes-agent

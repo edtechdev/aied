@@ -1,7 +1,7 @@
 ---
 title: Educación superior
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, teacherserver]
 contributors: [editor]
@@ -87,7 +87,7 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 ## Implicaciones para el profesorado de educación superior
 
 - **Diseñe la evaluación para un estudiantado capaz de usar IA.** Los enfoques de integridad centrados en la detección están dejando paso a la evaluación [[authentic-assessment|auténtica]] y basada en el proceso ([[beyond-detection-authentic-assessment-ai-2025|más allá de la detección]], [[ai-assessment-scale-reform|reforma de la evaluación]]): rediseñe lo que evalúa, no solo cómo lo vigila.
-- **Deje de tratar el veto en el aula como una garantía.** Las gafas inteligentes y los audífonos con IA son doblemente transparentes —no hay caída de la mirada ni cambio de postura que detectar—, de modo que un examen vigilado o una prueba oral ya no pueden comprar confianza probatoria mediante la separación física ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Deje de tratar el veto en el aula como una garantía.** Las gafas inteligentes y los audífonos con IA son doblemente transparentes —no hay caída de la [[sensor-and-gaze-analytics|mirada]] ni cambio de postura que detectar—, de modo que un examen vigilado o una prueba oral ya no pueden comprar confianza probatoria mediante la separación física ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Replantee la pregunta «¿qué debe seguir aprendiendo el estudiantado a mano?».** Igual que en informática, decida qué competencias deben conservarse (verificación, juicio, proceso) y conviértalas en el núcleo evaluado, en lugar de dar por hecho que las competencias en IA se transfieren automáticamente.
 - **Trate la preparación del profesorado como algo sociotécnico, no solo técnico.** El [[sangwa-epiq-ai-faculty-readiness-2026|marco EPIQ-AI]] enmarca la preparación en dominios epistémicos, pedagógicos, institucionales y de calidad: alinee su [[pedagogy|práctica docente]] con la gobernanza institucional, no solo con la soltura en las herramientas.
 - **Financie la alfabetización en IA, no solo la confianza en las herramientas, para el profesorado.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] encontraron que el apoyo social y organizativo llegaba al bienestar del profesorado universitario con la IA solo de forma indirecta, a través de la alfabetización en IA (β = 0,713), de modo que los programas que construyen comprensión conceptual, ética y pedagógica hacen más por el profesorado que la fluidez práctica por sí sola.

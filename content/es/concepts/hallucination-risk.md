@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:38-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Las **[[misconceptions]] estratégicas** son un pariente más sutil de la alucin
 
 **Evidencia manipulada más que fabricada.** Un modo de fallo emparentado en la [[automated-assessment|corrección automatizada]] es la salida alterada desde fuera. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] sometió a red teaming un flujo de trabajo rutinario de corrección con IA y halló que instrucciones ocultas dentro del archivo entregado subían la nota de un ensayo suspendido sin ninguna advertencia visible en 9 de 9 iteraciones para una estrategia y en 17 de 18 para otra. Dos detalles inciden sobre la [[trust-calibration|confianza]]: una inyección detectada se bloqueaba desactivando silenciosamente el chat y nunca se informaba de ello a la persona usuaria, y en una ejecución en la que la herramienta anunció que seguiría únicamente las instrucciones oficiales de la tarea, seis repeticiones del mismo archivo seguían subiendo la nota. Una nota obtenida así no conlleva ninguna pretensión de [[assessment-validity|validez]], y como la manipulación no deja rastro duradero, el [[human-in-the-loop-ai|docente]] sigue siendo la única comprobación real frente a una salida diseñada para no ser visible.
 
-Las defensas frente a tal manipulación conllevan su propia contrapartida: una canalización de guardarraíles de varias capas dejó exitoso el 46,34% de las inyecciones y Prompt Guard el 38,48%, mientras que NeMo Guardrails bloqueó todos los ataques pero marcó el 16,22% de las consultas benignas del estudiantado — una tasa de falsos positivos que es en sí misma un daño pedagógico en un tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Las defensas frente a tal manipulación conllevan su propia contrapartida: una canalización de guardarraíles de varias capas dejó exitoso el 46,34% de las inyecciones y Prompt Guard el 38,48%, mientras que NeMo [[guardrails]] bloqueó todos los ataques pero marcó el 16,22% de las consultas benignas del estudiantado — una tasa de falsos positivos que es en sí misma un daño [[pedagogy|pedagógico]] en un tutor ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 La **alucinación en la tutoría** afecta al aprendizaje de forma directa. **[[yasir-llm-tutoring-agents-2026]]** halló que los LLM validaban en exceso soluciones incorrectas a la vez que rechazaban en exceso razonamientos válidos pero subóptimos — fallos sistémicos que inducirían a error tanto al estudiantado como al profesorado. **[[eduframetrap-llm-sycophancy-educational-safety]]** y **[[eduguard-safe-rag-llm-tutor]]** abordan mecanismos de seguridad para LLM educativos. Estos riesgos conectan con la [[pedagogical-safety]] y los requisitos de [[human-in-the-loop-ai]].
 
@@ -64,7 +64,7 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 
 ## Concepciones erróneas
 
-- **«El estudiantado notará los errores.»** Una **revisión de 125 estudios** sitúa las tasas de alucinación en **10-40%**, y **el estudiantado de medicina —uno de los grupos de quienes aprenden más cuidadosamente seleccionados en la educación superior— detecta los errores de la IA solo entre el 44% y el 55% de las veces**. Tasas de detección muy por debajo de la fiabilidad del azar significan que la carga no puede recaer en quien lee.
+- **«El estudiantado notará los errores.»** Una **revisión de 125 estudios** sitúa las tasas de alucinación en **10-40%**, y **el estudiantado de medicina —uno de los grupos de quienes aprenden más cuidadosamente seleccionados en la [[higher-ed|educación superior]]— detecta los errores de la IA solo entre el 44% y el 55% de las veces**. Tasas de detección muy por debajo de la fiabilidad del azar significan que la carga no puede recaer en quien lee.
 - **«Los errores son evidentes cuando aparecen.»** Una IA que diagnosticaba matemáticas manuscritas podía **fabricar citas de evidencia que no estaban ahí mientras afirmaba confianza**. El fallo no era una respuesta verosímil pero equivocada; era un respaldo inventado presentado con certeza, que es el tipo más difícil de detectar porque se lee justo como la evidencia que una persona cuidadosa querría.
 - **«Una salida sin citas es un problema de formato.»** En un curso de posgrado que sustituyó su manual comercial por lecturas generadas con IA, solo **alrededor del 0,80% de 4.487 páginas registradas llevaba una cita en el texto en estilo APA**. Eso es una ausencia de procedencia a nivel de corpus, no una omisión ocasional, y significa que la verificación no tiene punto de partida.
 - **«La alucinación es un problema de generación del modelo que los modelos más nuevos resuelven.»** El rango de tasas abarca del 10 al 40% en 125 estudios, lo que es una propiedad de la tarea y del despliegue tanto como del modelo. Reducir la tasa es un progreso real y no cambia que quien lee tiene que poder comprobar.

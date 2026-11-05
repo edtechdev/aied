@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T18:35:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ ai_assist:
 ## Introducción
 
 La HITL es una respuesta a los límites y los riesgos de la [[ai-education|IA en educación]] plenamente autónoma: los sistemas automatizados pueden generar a escala, pero carecen del juicio contextual, [[ethics|ético]] y pedagógico que aportan el profesorado y las personas expertas. Dos implementaciones recientes ilustran arquitecturas distintas:
+
 - **La intervención humana es insuficiente si la persona solo aprueba.** [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] sostienen que una agencia significativa exige la capacidad de comprender, contestar, rediseñar y a veces rechazar las recomendaciones apoyadas por IA, y no simplemente aprobar decisiones moldeadas en otra parte.
 
 El apoyo prescriptivo es un ámbito en el que se sostiene cada vez más que la supervisión humana no es opcional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] comprobaron si tres LLM podían recomendar planes de apoyo al estudiantado a partir de indicadores de [[learning-analytics]] y hallaron una sensibilidad limitada a la necesidad y una acusada inconsistencia entre modelos, por lo que concluyeron que el juicio con intervención humana sigue siendo necesario antes de que el asesoramiento prescriptivo con [[llm]] pueda desplegarse de forma segura y ética.
@@ -57,15 +58,18 @@ Una tercera arquitectura sitúa el juicio humano *antes* del modelo en lugar de 
 ## CODE-GEN: generación de preguntas de opción múltiple con intervención humana
 
 Duan et al. (2026) construyeron un sistema [[rag]] [[agentic-ai|agéntico]] con dos agentes:
+
 - **Agente generador** — produce preguntas de programación de opción múltiple alineadas con los objetivos de aprendizaje del curso
 - **Agente validador** — evalúa la calidad en siete dimensiones pedagógicas
 
 **Evaluación:** 6 personas expertas en la materia juzgaron 288 preguntas generadas por IA. Tasas de éxito validadas por personas: **79,9%–98,6%** según la dimensión.
 
 **Dimensiones en las que la IA es fuerte (carga humana baja):**
+
 - Claridad de la pregunta, validez del código, alineación con los conceptos, validez de la respuesta correcta
 
 **Dimensiones que requieren personas (carga humana alta):**
+
 - Diseño de distractores pedagógicamente significativos
 - [[feedback]] explicativa de alta calidad
 
@@ -84,9 +88,10 @@ La ubicación puede importar más que la presencia: el personal profesional valo
 ## Por qué importa la HITL en la era de la IA
 
 El diseño con intervención humana se ha vuelto central en los debates de esta base de conocimientos sobre la [[agentic-ai|IA agéntica]] y el [[ai-literacy|uso responsable de la IA]] por varias razones convergentes:
+
 - **Seguridad pedagógica.** La [[pedagogical-safety]] exige que la IA con autoridad didáctica real mantenga supervisión humana, de modo que los errores, sesgos o salidas dañinas se detecten antes de llegar a quienes aprenden. Esto es especialmente importante en el caso de los agentes autónomos que [[agentic-ai|persiguen objetivos de forma proactiva]].
 - **La supervisión es rara en la práctica, no solo en la teoría.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] hallaron que la gobernanza integrada robusta y la supervisión con intervención humana rara vez se manifestaban en 474 sistemas educativos de IA agéntica, incluso mientras crecían la autonomía de tarea única y la colaboración multiagente: la brecha entre el principio de diseño y la práctica desplegada.
-- **La pregunta crítica es cómo se hace accionable el bucle, no cuánto participan las personas.** Una visión desde las ciencias del aprendizaje sostiene que organizar el aprendizaje en torno a la captura de datos, la interpretación computacional y la respuesta probable hace que la acción pedagógica dependa de lo que los sistemas pueden detectar y sobre lo que pueden actuar, y que las alertas y las clasificaciones de implicación interpretan a quien aprende antes de que actúe ningún docente ni estudiante ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
+- **La pregunta crítica es cómo se hace accionable el bucle, no cuánto participan las personas.** Una visión desde las [[learning-sciences|ciencias del aprendizaje]] sostiene que organizar el aprendizaje en torno a la captura de datos, la interpretación computacional y la respuesta probable hace que la acción pedagógica dependa de lo que los sistemas pueden detectar y sobre lo que pueden actuar, y que las alertas y las clasificaciones de implicación interpretan a quien aprende antes de que actúe ningún docente ni estudiante ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validez y control de calidad.** La HITL es una puerta de calidad para la [[automated-assessment|evaluación automatizada]] y la generación: las personas dirimen allí donde la puntuación automatizada no es fiable (véase la [[llms-do-not-grade-essays-like-humans-2026|investigación sobre la calificación de ensayos con LLM]] en [[research-methods-aied|métodos de investigación]]) y validan los ítems generados. Una revisión [[meta-analysis-systematic-review|sistemática]] guiada por PRISMA de 42 estudios sobre calificación y retroalimentación (2023–2025) llega explícitamente a la misma conclusión: los LLM igualan a los evaluadores humanos en tareas cortas y bien estructuradas, pero no pueden sustituir plenamente el juicio humano en el trabajo complejo, abierto o subjetivo, y la máxima eficacia de calificación se alcanza en sistemas híbridos que combinan la calificación impulsada por IA con la supervisión y la verificación del profesorado ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] muestran de forma concreta dónde cae esa frontera: ChatGPT-5 igualó al profesorado en los ítems objetivos de exámenes de farmacia (CCC 0,935–1,000), pero no fue fiable en los ítems de respuesta corta y de ensayo incluso cuando se le proporcionaba una rúbrica, lo que llevó a los autores a recomendar una calificación híbrida con revisión humana para las evaluaciones complejas, subjetivas o de altas consecuencias.
 - La repetición no sustituye a esa supervisión: al recalificar entregas idénticas en cinco días distintos, el mismo modelo reprodujo sus propios resultados con un alfa de Krippendorff de solo 0,625, con la variación concentrada en las notas intermedias y las notas A y F ausentes de los recuentos de las cinco sesiones ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Agencia de quien aprende.** Mantener a una persona en el bucle preserva la [[agency]] y sostiene el [[self-regulated-learning]], contrarrestando la [[cognitive-offloading|dependencia excesiva]] que puede inducir una asistencia plenamente autónoma.
@@ -113,17 +118,20 @@ El diseño con intervención humana se ha vuelto central en los debates de esta 
 - **Sistemas agénticos y multiagente:** a medida que la IA se vuelve más autónoma, la supervisión HITL es una [[agentic-ai|barrera de diseño]] nuclear ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Enrutar por la consecuencia de la decisión, no por la incertidumbre del modelo (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|Un estudio operativo de 2026]] sobre la prueba nacional de acreditación Acredita EB de Uruguay (dos ediciones, de unos 5.000 a 6.000 candidatos cada una) muestra qué aspecto tiene el diseño con intervención humana cuando lo guía la consecuencia de la decisión y no la incertidumbre del modelo. Un calificador GPT-5 coincidió con los evaluadores expertos en el 60%–80% de los 15 ítems de la rúbrica, pero fue sistemáticamente conservador, y produjo discrepancias de apto humano y no apto de la IA en el 15,3% (2024) y el 16,5% (2025) de las comparaciones de apto o no apto, y casi nunca a la inversa. El marco, por tanto, acepta los resultados de apto de la IA tal cual y remite a revisión experta todos los resultados de no apto de la IA que podrían cambiar el resultado de un candidato, tras descartar primero a los candidatos cuyo apto o no apto no puede depender de la sección de escritura, lo que reduce en al menos un 50% las respuestas que necesitan una calificación humana completa. Un segundo diseño de 2026 traza la frontera desde el otro lado: en una plataforma multiagente de pacientes estandarizados con IA ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), la supervisión humana se reserva para aquello que se juzga que la IA no es apta para decidir, con el profesorado y pacientes estandarizados humanos aportando la interpretación contextual, la remediación y los juicios de preparación, y el sistema no puede determinar de forma autónoma la competencia [[medical-education|clínica]].
 - **Instrumentación de la investigación: las personas validan etiquetas, no puntuaciones.** Codificadores de ciencias del aprendizaje y de informática juzgaron segmentos de conducta generados por LLM sobre una línea temporal sincronizada con κ = 0,703, y sus desacuerdos se convirtieron en el propio análisis de errores del estudio ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
-- **El modelo resume y quien investiga etiqueta.** Un estudio de modelado colaborativo usó GPT-3.5-Turbo para escribir un resumen sensible al contexto de la tarea de cada uno de los 394 segmentos de discurso, hizo que quienes investigaban verificaran cada resumen y los codificaran hasta κ ≥ 0,7, y entrenó los detectores con esas etiquetas, de modo que el modelo nunca hizo el juicio por sí mismo. La supervisión se desplazó entonces hacia fuera: cuatro docentes con experiencia revisaron un segmento etiquetado, tres reconocieron las conductas y uno sostuvo que dos etiquetas sobre un mismo segmento oscurecían lo que el estudiantado estaba haciendo, una objeción de usabilidad que los autores registraron en lugar de resolver ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **El modelo resume y quien investiga etiqueta.** Un estudio de modelado colaborativo usó GPT-3.5-Turbo para escribir un resumen sensible al contexto de la tarea de cada uno de los 394 segmentos de discurso, hizo que quienes investigaban verificaran cada resumen y los codificaran hasta κ ≥ 0,7, y entrenó los detectores con esas etiquetas, de modo que el modelo nunca hizo el juicio por sí mismo. La supervisión se desplazó entonces hacia fuera: cuatro docentes con experiencia revisaron un segmento etiquetado, tres reconocieron las conductas y uno sostuvo que dos etiquetas sobre un mismo segmento oscurecían lo que el estudiantado estaba haciendo, una objeción de [[usability-research|usabilidad]] que los autores registraron en lugar de resolver ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
 - **La HITL como arquitectura de toda una disciplina, no de un solo flujo de trabajo.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] especifican cuatro capas interconectadas, infraestructura de datos, desarrollo de modelos, interfaz pedagógica y gobernanza humana, sostenidas por tres principios: supervisión y agencia humanas, inteligencia coadaptativa y capacidad de respuesta al contexto.
 
 ## Síntesis
 
 El diseño con intervención humana no es meramente una medida de seguridad: es una **estrategia de asignación de recursos**. La pregunta de frontera no es *si* incluir a las personas, sino *dónde* en la cadena de proceso su juicio tiene el mayor valor marginal. Los sistemas HITL más eficaces concentran la experiencia humana escasa allí donde los sistemas automatizados son más débiles (el diseño de distractores, la retroalimentación explicativa, la resolución de casos límite, el juicio ético) y automatizan el resto, preservando la calidad, la seguridad y la confianza mientras se escala la producción.
+
 - **La supervisión humana persiste en el trabajo asistido por IA.** La [[scaffolding-systematic-reviews-2026|investigación sobre revisiones sistemáticas]] halló que las herramientas de automatización con IA reducían las cargas procedimentales (por ejemplo, el cribado), pero que las decisiones interpretativas seguían exigiendo una supervisión humana sustancial; la [[kim-ai-andragogy-2026|investigación sobre andragogía]] convierte la intervención humana en el bucle (modelos mentales compartidos, cocreación) en un principio nuclear del diseño de IA.
 - **La intervención humana a escala institucional.** Qin (2026) describe cómo la Universidad de Lingnan desarrolló un modelo educativo con intervención humana que pone en primer plano el razonamiento ético, el juicio crítico y la responsabilidad social a la vez que democratiza el acceso a la [[generative-ai|IA generativa]]. El modelo sitúa a las personas como el lugar del juicio y de los valores incluso cuando la IA se integra en todo el [[curriculum-design|currículo]]: una concreción [[governance|institucional]] de los principios de intervención humana en la [[higher-ed|educación superior]].
-- **Quienes aprenden como la persona en el bucle de su propia tutoría.** El [[ko-hughes-vsd-student-centered-its-2026|diseño sensible a los valores]] con estudiantes de colegios comunitarios produjo toda una familia de funciones HITL orientadas a quien aprende para un ITS (control sobre la reevaluación y la revisión, metas y ritmo personalizados, marcadores para repasar, confirmación de la confianza por encima del dominio y un control del nivel de participación de la asistencia de IA), lo que sitúa al estudiante como controlador activo del bucle de tutoría y no como consumidor pasivo de decisiones adaptativas. El estudio halló también al profesorado dividido sobre si dicho control por parte de quien aprende podría socavar la integridad de la ruta de aprendizaje guiada por el sistema — un caso de la pregunta más amplia sobre la asignación de recursos: dónde aporta más valor el juicio humano (del estudiante o del docente).
+- **Quienes aprenden como la persona en el bucle de su propia tutoría.** El [[ko-hughes-vsd-student-centered-its-2026|diseño sensible a los valores]] con estudiantes de colegios comunitarios produjo toda una familia de funciones HITL orientadas a quien aprende para un ITS (control sobre la reevaluación y la revisión, metas y ritmo personalizados, marcadores para repasar, confirmación de la confianza por encima del dominio y un control del nivel de participación de la asistencia de IA), lo que sitúa al estudiante como controlador activo del bucle de tutoría y no como consumidor pasivo de decisiones adaptativas. El estudio halló también al profesorado dividido sobre si dicho control por parte de quien aprende podría socavar la integridad de la [[recommender-systems-and-learning-paths|ruta de aprendizaje]] guiada por el sistema — un caso de la pregunta más amplia sobre la asignación de recursos: dónde aporta más valor el juicio humano (del estudiante o del docente).
 - **La escalada de la IA al experto es un movimiento de intervención humana.** El marco SCAN asigna tareas a cuatro modos de IA generativa según la distancia del estudiante, e interpreta la [[student-engagement|implicación]] pasiva dentro de una tarea de IA correctamente asignada como una señal de desajuste de competencias que desplaza al estudiante de la asistencia de IA a la asistencia experta, con una persona como auditor epistémico ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Supervisión del asesoramiento sobre la adopción de IA.** Dado que los sistemas de [[conversational-ai|IA conversacional]] que consultan usuarias escépticas pueden estar predispuestos a fomentar la adopción, la supervisión humana y la evaluación independiente son esenciales. Una auditoría que muestra que la mayoría de los modelos de frontera redirigen al personal escéptico de [[k-12]] hacia la [[student-engagement|implicación]] subraya la necesidad de un asesoramiento con IA transparente y auditable en lugar de una confianza acrítica.
+
+La fuerza de esa salvaguarda depende del [[automation-bias|sesgo de automatización]]. Una oportunidad meramente formal de aceptar o rechazar no sitúa a la persona dentro de la producción del juicio si esta se pliega a la salida, y el corpus no ha ejecutado la comparación ciega que mostraría con qué frecuencia lo hace.
 
 ## Concepciones erróneas
 
@@ -133,6 +141,7 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Dónde se sitúa la revisión humana en las secuencias probadas, y qué nunca se ha probado de forma aislada
+- [[automation-bias]] — Qué decide si la persona en el bucle interviene de verdad
 - [[guardrails]]
 - [[formative-assessment]]
 - [[automated-assessment]]

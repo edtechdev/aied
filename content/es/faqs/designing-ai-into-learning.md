@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
@@ -32,7 +32,7 @@ ai_assist:
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
-El esquema del módulo tiene una línea que dice "actividad con IA" y nadie sabe decir qué reemplaza. O un docente ha pedido añadir un chatbot a un curso que ya funciona, y su trabajo consiste en colocarlo sin romper la parte que hacía funcionar el curso.
+El esquema del módulo tiene una línea que dice "actividad con IA" y nadie sabe decir qué reemplaza. O un docente ha pedido añadir un [[conversational-ai|chatbot]] a un curso que ya funciona, y su trabajo consiste en colocarlo sin romper la parte que hacía funcionar el curso.
 
 Empiece por el objetivo de aprendizaje y por la actividad que lo produce. El mismo modelo puede ser un andamio, un compañero [[socratic-method|socrático]], un lector de borradores, una [[simulation|simulación]] o una máquina de respuestas, y cuál de ellos obtiene depende del diseño y no del modelo. Nombre el modo que está construyendo, sitúe el intento del estudiante antes de que aparezca cualquier ayuda, y conserve al menos una ruta por el curso que funcione sin la herramienta.
 
@@ -80,7 +80,7 @@ Dos lecciones se siguen para el diseño con IA. Coloque la herramienta donde la 
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] trata el tiempo como un andamiaje diseñado y no como un rasgo del estudiante: un curso a ritmo propio lleva una asignación semanal de unos 100 minutos con un objetivo cercano a los 20 minutos diarios, recordatorios conscientes del tiempo, un panel de progreso y una breve comprobación al final de cada subcapítulo de 3 a 12 preguntas. La línea base a la que responde ese diseño es dura: casi el 25 por ciento de más de 600 estudiantes empieza solo en la última semana y el 95 por ciento de ese grupo suspende.
 
-Léalo como una indicación de diseño y no como un efecto demostrado. El artículo compara un curso posterior con uno anterior en lugar de realizar un ensayo controlado, así que la mejora no puede separarse del cambio de cohorte y de materia, y unos recordatorios lo bastante fuertes para mover el momento de estudio son también una cuestión de [[privacy|privacidad]] que hay que responder en el programa del curso.
+Léalo como una indicación de diseño y no como un efecto demostrado. El artículo compara un curso posterior con uno anterior en lugar de realizar un [[rct|ensayo controlado]], así que la mejora no puede separarse del cambio de cohorte y de materia, y unos recordatorios lo bastante fuertes para mover el momento de estudio son también una cuestión de [[privacy|privacidad]] que hay que responder en el programa del curso.
 
 ## Decida qué retirar y cuándo restablecerlo
 
@@ -108,7 +108,7 @@ La eficiencia es el objetivo del rediseño. Redactar resultados y rúbricas con 
 
 **"No tenemos tiempo para resecuenciar un curso entero."** Entonces resecuencian un módulo y una evaluación. La bisagra de contener y luego amplificar es un punto de control, y la secuencia de pensar primero son tres instrucciones en una hoja.
 
-**"Nuestra función de IA ya incluye barreras de seguridad."** Las barreras limitan lo que dice el modelo. No deciden si el estudiante intentó primero, si el apoyo se difumina ni si existe una ruta sin IA. Esas son decisiones de diseño en su curso, no ajustes del producto.
+**"Nuestra función de IA ya incluye [[guardrails|barreras de seguridad]]."** Las barreras limitan lo que dice el modelo. No deciden si el estudiante intentó primero, si el apoyo se difumina ni si existe una ruta sin IA. Esas son decisiones de diseño en su curso, no ajustes del producto.
 
 ## Qué hacer esta semana
 

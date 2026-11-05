@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-05T16:12:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ MathBuddy modela dinámicamente el afecto del estudiantado mediante dos modalida
 Las emociones se agregan a partir de ambas modalidades y se asignan a estrategias pedagógicas pertinentes antes de [[prompt-engineering|construir el prompt]] del tutor [[llm]], lo que produce respuestas emocionalmente conscientes.
 
 **Resultados:**
+
 - **+23 puntos de tasa de acierto** de mejora respecto a la línea base no afectiva
 - **+3 puntos de puntuación DAMR** a nivel global
 - Evaluado en **ocho dimensiones pedagógicas** más estudios con usuarios
@@ -56,13 +57,13 @@ Favero et al. (2025) advierten de que la [[student-engagement|implicación]] emo
 | Beneficio de la tutoría afectiva | Riesgo correspondiente |
 |---|---|
 | Las respuestas emocionalmente conscientes se sienten como apoyo | El estudiantado puede desarrollar **dependencias parasociales** hacia el tutor |
-| La empatía reduce la ansiedad | La reducción de la ansiedad puede ocultar una **desconexión metacognitiva** |
+| La empatía reduce la [[anxiety-and-stress|ansiedad]] | La reducción de la [[anxiety-and-stress|ansiedad]] puede ocultar una **desconexión metacognitiva** |
 | La calibración afectiva personaliza el ritmo | La [[personalized-learning|personalización]] profunda puede **reducir la transferencia** a contextos no adaptativos |
 | La monitorización facial indica atención | La captura continua de vídeo plantea **problemas de privacidad** |
 
 Los autores sostienen que los riesgos emocionales forman parte de un patrón más amplio de **erosión de la [[self-efficacy|autoeficacia]], la [[agency|agencia]] y el [[well-being|bienestar]]** cuando el uso de la IA no se controla.
 
-**El riesgo también recae sobre quien nunca abre el tutor.** [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] encontraron que la disposición a ofrecer apoyo emocional por cuenta propia disminuye a medida que se cree que un sistema puede ofrecerlo, y esa creencia fue causal en su segundo experimento: leer cobertura periodística ordinaria sobre IA empática bastó para elevar la descarga, enteramente a través de la capacidad percibida. Su cuarto estudio añade un costo social que el encuadre individual no capta. Al saber que un estudiante había acudido a un chatbot en busca de apoyo, las personas participantes dijeron que descargarían menos que si hubiera acudido a una amistad. Después escribieron menos palabras de empatía y más de indiferencia sobre ese estudiante, y lo valoraron como más ajeno y más desesperado. La provisión de [[social-emotional-learning|aprendizaje socioemocional]] puede por tanto adelgazar en torno al tutor incluso cuando nadie que lo use declara un cambio.
+**El riesgo también recae sobre quien nunca abre el tutor.** [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] encontraron que la disposición a ofrecer apoyo emocional por cuenta propia disminuye a medida que se cree que un sistema puede ofrecerlo, y esa creencia fue causal en su segundo experimento: leer cobertura periodística ordinaria sobre IA empática bastó para elevar la descarga, enteramente a través de la capacidad percibida. Su cuarto estudio añade un costo social que el encuadre individual no capta. Al saber que un estudiante había acudido a un [[conversational-ai|chatbot]] en busca de apoyo, las personas participantes dijeron que descargarían menos que si hubiera acudido a una amistad. Después escribieron menos palabras de empatía y más de indiferencia sobre ese estudiante, y lo valoraron como más ajeno y más desesperado. La provisión de [[social-emotional-learning|aprendizaje socioemocional]] puede por tanto adelgazar en torno al tutor incluso cuando nadie que lo use declara un cambio.
 
 ## Principios de diseño
 

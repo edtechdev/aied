@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje sociocultural
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,18 +44,21 @@ La teoría sociocultural (Vygotsky, 1978; Luria; Leontiev) sostiene que las func
 
 La ZDP (Vygotsky) es el concepto sociocultural más ampliamente aplicado en la [[intelligent-tutoring|tutoría con IA]]: el espacio entre lo que quien aprende puede hacer solo y lo que puede hacer con asistencia. El aprendizaje es más eficaz cuando la enseñanza apunta a esta zona: suficientemente desafiante para impulsar el desarrollo, con suficiente apoyo para permitir avanzar. Es el fundamento teórico del [[scaffolding|andamiaje]]: apoyo temporal y ajustable que se retira a medida que crece la competencia. En la educación con IA, la ZDP enmarca la pregunta central de diseño sobre cuánto apoyo debe ofrecer un [[intelligent-tutoring|tutor de IA]] para que el aprendizaje avance sin que se le regale — véase [[stanford-evidence-base-ai-k12-2026]].
 
+Una ayuda fabricada por una máquina puede situarse dentro de esa zona. En un estudio aleatorizado con 274 [[adult-learning|estudiantes adultos]] en cuatro materias de matemáticas, las pistas generadas por ChatGPT con soluciones desarrolladas produjeron una ganancia del 17,00% entre el pre y el post frente al 1,85% sin pistas, mientras que las pistas redactadas por tutores humanos produjeron un 11,62%; las dos condiciones de ayuda no fueron estadísticamente separables ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos y Bhandari, 2024]]). La tasa de error matiza la equivalencia: el 32% de las pistas generadas fallaron las comprobaciones de calidad hasta que el [[prompt-engineering|prompting]] de autocoherencia la redujo a casi cero en las tres materias de álgebra y al 13% en estadística. Otro más competente que se equivoca una de cada tres veces sigue siendo un agente mediacional, y por eso la contribución de la máquina tiene que verificarse antes de que quien aprende construya sobre ella.
+
 ### El aprendizaje sociocultural en la educación con IA
 
 La teoría sociocultural da forma a la [[research-methods-aied|investigación]] en IAED de varias maneras distintas:
 
 - **La IA como agente mediacional.** La IA generativa complica la distinción sociocultural entre medios mediacionales e interacción social: a la vez media la actividad *y* genera contribuciones sensibles al contexto y contingentes que dan forma a la interacción, sin poseer intencionalidad, pertenencia social ni responsabilidad. Warschauer, Tate y Ritchie (2026) proponen el *agente mediacional* como categoría híbrida y derivan hábitos de participación que priorizan lo humano (primacía de la cognición humana, [[student-engagement|implicación]] con propósito, agencia supervisora, vigilancia epistémica, [[self-regulated-learning|autorregulación]] reflexiva) para preservar la [[agency|agencia de quien aprende]].([[generative-ai-mediational-agent-sociocultural-2026]])
-- **Una explicación sensible a la etapa del papel regulador de la IA.** [[ai-cognitive-partner-co-regulation-learning|Un marco evolutivo de la corregulación entre personas e IA]] otorga a la IA cuatro roles —andamiaje, apoyo metacognitivo, memoria externa y socio de decisión— y los sitúa por etapas: regulación externa estructurada en la primera infancia, un socio [[metacognition|metacognitivo]] en la infancia media y la adolescencia, y un colaborador en la cognición compleja en la edad adulta.
+- **Una explicación sensible a la etapa del papel regulador de la IA.** [[ai-cognitive-partner-co-regulation-learning|Un marco evolutivo de la corregulación entre personas e IA]] otorga a la IA cuatro roles —andamiaje, apoyo metacognitivo, memoria externa y socio de decisión— y los sitúa por etapas: regulación externa estructurada en la [[early-childhood-elementary-ai-education|primera infancia]], un socio [[metacognition|metacognitivo]] en la infancia media y la adolescencia, y un colaborador en la cognición compleja en la edad adulta.
 - **Andamiaje calibrado a la ZDP.** Los [[intelligent-tutoring|tutores de IA]] deberían calibrar dinámicamente la ayuda para situarla dentro de la zona de cada persona. La [[stanford-evidence-base-ai-k12-2026|base de evidencia de Stanford]] muestra cómo los tutores ajustados al nivel de quien aprende superan a la asistencia genérica; el [[adaptive-learning|aprendizaje adaptativo]] y [[golrang-propact-pair-programming-2026|el proyecto PropAct]] operacionalizan la ZDP ajustando la dificultad y las pistas; y marcos fundamentados como [[finkelstein-principled-ai-education-2025|los de Finkelstein]] sostienen que el apoyo debe retirarse a medida que crece la competencia.
+- **La señal para salir de la zona es el objetivo, no la profundidad.** Un tutor que escala y se desvanece por punto de decisión cedió el 65,0% de las veces tras un turno sobre una decisión *distinta*, el doble que en los turnos dirigidos a la decisión bajo apoyo, y la profundidad de la respuesta no ordenó los resultados ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). El retiro supone a alguien que responde: la aceptación cayó del 37,0% tras la primera petición al 21,8% tras la tercera, así que un silencio no es prueba de estar listo.
 - **Una cuarta zona: lo que el modelo sabe.** [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] amplían el diagrama de Vygotsky en lugar del bucle de tutoría, añadiendo una zona *conocida por la [[generative-ai|IA generativa]]* a la ZDP y leyendo de ahí cuatro subzonas que clasifican a qué debe asignarse una tarea: Sustituir (sin conocimiento específico de la tarea, de modo que la competencia general del modelo la cubre), Ayudar (conocimiento parcial, aumentado), Complementar (conocimiento suficiente para supervisar la salida del modelo) y No negociable (suficiente para hacerlo sin ayuda, de modo que delegar aporta poco). El [[scaffolding|andamiaje]] se expresa como asignación de tareas en lugar de entrega de pistas, y un bucle [[metacognition|metacognitivo]] de evaluación en tiempo real, reflexión y aprendizaje es lo que desplaza una tarea entre subzonas con el tiempo.
 - **Aprendizaje y comunidad.** Las ideas socioculturales sustentan el aprendizaje cognitivo, el modelado, el acompañamiento y el desvanecimiento; las comunidades de práctica enmarcan el aprendizaje como un avance hacia una participación más plena en las prácticas de una comunidad.
 - **Contexto cultural e [[governance|institucional]].** La línea sociocultural, cercana al [[constructivist|constructivismo]], insiste en que la dimensión cultural determina qué cuenta como saber, quién es una autoridad y qué significa el esfuerzo — véase el encuadre aprendices–contextos–culturas de la [[young-people-learning-generative-ai-rapid-review-2026|revisión rápida PreK-12 de Sídney]].
 
-- **Validar las medidas del habla exige a la juventud cuyo habla se mide.** Recontextualizar las definiciones de los movimientos del habla con cuatro estudiantes focales elevó la F1 de clasificación del LLM en +0,104 para «Claim» y +0,23 para «Question», y las interpretaciones de los propios estudiantes divergieron de los encuadres adultos y del modelo: un límite estructural de la clasificación basada en texto, no un problema de tamaño de los datos ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
+- **Validar las medidas del habla exige a la juventud cuyo habla se mide.** Recontextualizar las definiciones de los movimientos del habla con cuatro estudiantes focales elevó la F1 de clasificación del [[llm|LLM]] en +0,104 para «Claim» y +0,23 para «Question», y las interpretaciones de los propios estudiantes divergieron de los encuadres adultos y del modelo: un límite estructural de la clasificación basada en texto, no un problema de tamaño de los datos ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
 ### Conexión con la carga cognitiva y la metacognición
 
@@ -99,3 +102,5 @@ La línea sociocultural está estrechamente acoplada a la teoría de la [[cognit
 - [[stanford-evidence-base-ai-k12-2026]] — Base de evidencia de Stanford sobre IA en K-12
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Revisión rápida de Sídney sobre IA generativa en PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo y corregulación
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Las pistas generadas por LLM igualaron a las de tutores humanos en ganancias de aprendizaje de matemáticas (Pardos y Bhandari 2024)
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Desvanecer según aquello a lo que apunta el turno de quien aprende, no según la profundidad de la respuesta

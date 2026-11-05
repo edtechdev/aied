@@ -1,7 +1,7 @@
 ---
 title: "Process Feedback"
 created: "2026-09-27T03:01:03-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 source_updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "Una alternativa gratuita y basada en el proceso frente a la detección de IA: registra cómo se produjo un texto y lo convierte en un informe para una conversación sobre el aprendizaje, más que en un veredicto."
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-El profesorado puede ver el informe de un solo estudiante o cargar cientos a la vez desde un panel docente, y el estudiantado puede consultar sus propios informes y [[metacognition|reflexionar]] sobre ellos. Funciona en Google Docs mediante una extensión del navegador, en el espacio de escritura propio del proyecto y en editores de LMS como Canvas, con integración LTI disponible; un informe también se puede descargar como PDF y subir a cualquier plataforma. El proyecto publica indicaciones de reflexión para guiar la autoevaluación del estudiantado, orientaciones para leer los patrones de uso de la IA y guías para el profesorado.
+El profesorado puede ver el informe de un solo estudiante o cargar cientos a la vez desde un panel docente, y el estudiantado puede consultar sus propios informes y [[reflection|reflexionar]] sobre ellos. Funciona en Google Docs mediante una extensión del navegador, en el espacio de escritura propio del proyecto y en editores de LMS como Canvas, con integración LTI disponible; un informe también se puede descargar como PDF y subir a cualquier plataforma. El proyecto publica indicaciones de reflexión para guiar la autoevaluación del estudiantado, orientaciones para leer los patrones de uso de la IA y guías para el profesorado.
 
 ## Para quién es
 

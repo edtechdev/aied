@@ -1,7 +1,7 @@
 ---
 title: Investigación sobre usabilidad
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,9 +27,9 @@ ai_assist:
 
 - ¿Recuerda alguna herramienta de software —educativa o no— que fuera pedagógicamente sólida o realmente potente, pero que dejó de usar porque era confusa o frustrante? Ese fallo es exactamente lo que la investigación sobre usabilidad intenta explicar antes de que cueste aprendizaje.
 - Un supuesto habitual es que la eficacia educativa de una herramienta puede juzgarse por si mejoran las ganancias de aprendizaje. Pero la página sostiene que una herramienta puede ser inusable y aun así parecer que «funciona» en un ensayo, o ser usable y no conseguir enseñar. ¿Por qué podría un estudio que muestra ganancias de aprendizaje pasar por alto que la herramienta es un fastidio de usar en la práctica?
-- Antes de leer los métodos, ¿cómo averiguaría si un tutor de IA resulta confuso, frustrante o propenso a errores para el estudiantado? ¿Qué haría u observaría realmente, y qué se perdería el propio informe de satisfacción de una persona usuaria que una observación cuidadosa sí captaría?
+- Antes de leer los métodos, ¿cómo averiguaría si un [[intelligent-tutoring|tutor de IA]] resulta confuso, frustrante o propenso a errores para el estudiantado? ¿Qué haría u observaría realmente, y qué se perdería el propio informe de satisfacción de una persona usuaria que una observación cuidadosa sí captaría?
 - El pensamiento en voz alta es un método central: las personas usuarias verbalizan sus pensamientos mientras trabajan, exponiendo confusiones y modelos mentales en tiempo real. Si usted fuera una persona que aprende usando una herramienta de IA, ¿qué podría articular sobre su confusión que una simple encuesta de «¿te gustó?» nunca capturaría?
-- La página señala que la satisfacción autoinformada puede divergir del rendimiento objetivo: la gente puede decir que adora una herramienta que en secreto la frena, o infravalorar una que de verdad ayuda. ¿Dónde ha visto esa brecha entre lo que la gente dice y lo que muestra su conducta?
+- La página señala que la satisfacción [[self-report-measures|autoinformada]] puede divergir del rendimiento objetivo: la gente puede decir que adora una herramienta que en secreto la frena, o infravalorar una que de verdad ayuda. ¿Dónde ha visto esa brecha entre lo que la gente dice y lo que muestra su conducta?
 - La investigación sobre usabilidad le dice si una herramienta es usable, no si enseña. Si está evaluando una herramienta de aprendizaje con IA, ¿cómo combinaría la evidencia de usabilidad con la evidencia de aprendizaje, y qué podría seguir sin lograr una herramienta que supere ambas?
 
 ## Introducción
@@ -39,8 +39,8 @@ La investigación sobre usabilidad y UX responde a preguntas como: ¿puede el es
 ## Métodos centrales
 
 - **Protocolos de pensamiento en voz alta.** Las personas usuarias verbalizan sus pensamientos mientras realizan tareas, revelando comprensión, confusión y modelos mentales en tiempo real. [[code-anchor-multi-view-visualization|Un estudio de visualizaciones de código con múltiples vistas]] y [[learn-framework-responsible-genai-pbl-2026|el marco LEARN]] usan el pensamiento en voz alta para entender cómo el estudiantado da sentido a las herramientas asistidas por IA; [[feedback-futures-genai|el futuro de la retroalimentación]] examina cómo procesa el estudiantado la retroalimentación generada por IA.
-- **Estudios con usuarios.** Las evaluaciones estructuradas basadas en tareas miden la eficiencia, las tasas de error, la satisfacción y la finalización. [[rhaimi-productivemath-2025|ProductiveMath]] evalúa la usabilidad de una aplicación de IA generativa para apoyar la enseñanza por fallo productivo; [[supplynet-visual-exploratory-learning|SupplyNet]] realiza un estudio con usuarios de una herramienta de aprendizaje exploratorio visual; [[llm-chatbots-cs-multiple-choice|los chatbots LLM para preguntas de elección múltiple de informática]] evalúan la calidad de la interacción.
-- **Entrevistas y observación.** Las entrevistas cualitativas de usabilidad y la observación capturan la experiencia, las preferencias y los puntos de dolor de las personas usuarias. [[icub-humanoid-storytelling-llm-hri-2025|Un estudio de usabilidad de un robot humanoide narrador]] usa una evaluación estructurada para preguntar si las familias dejarían que el robot interactuara con un niño; [[genai-architectural-design-studios|la IA en los talleres de diseño]] observa y entrevista al estudiantado que usa IA en trabajo de diseño auténtico.
+- **Estudios con usuarios.** Las evaluaciones estructuradas basadas en tareas miden la eficiencia, las tasas de error, la satisfacción y la finalización. [[rhaimi-productivemath-2025|ProductiveMath]] evalúa la usabilidad de una aplicación de [[generative-ai|IA generativa]] para apoyar la enseñanza por [[productive-failure|fallo productivo]]; [[supplynet-visual-exploratory-learning|SupplyNet]] realiza un estudio con usuarios de una herramienta de aprendizaje exploratorio visual; [[llm-chatbots-cs-multiple-choice|los chatbots LLM para preguntas de elección múltiple de informática]] evalúan la calidad de la interacción.
+- **Entrevistas y observación.** Las entrevistas cualitativas de usabilidad y la observación capturan la experiencia, las preferencias y los puntos de dolor de las personas usuarias. [[icub-humanoid-storytelling-llm-hri-2025|Un estudio de usabilidad de un robot humanoide narrador]] usa una evaluación estructurada para preguntar si [[parents-and-families|las familias]] dejarían que el robot interactuara con un niño; [[genai-architectural-design-studios|la IA en los talleres de diseño]] observa y entrevista al estudiantado que usa IA en trabajo de diseño auténtico.
 - **Evaluación sistemática de la usabilidad.** La evaluación heurística, el recorrido cognitivo y las medidas de UX basadas en cuestionarios (por ejemplo, SUS) evalúan la usabilidad de forma sistemática frente a criterios establecidos.
 
 ## Cómo aparece la investigación sobre usabilidad en la base de conocimiento
@@ -49,7 +49,7 @@ La investigación sobre usabilidad y UX responde a preguntas como: ¿puede el es
 - **Interacción persona-robot y [[conversational-ai|IA conversacional]].** [[icub-humanoid-storytelling-llm-hri-2025|El estudio del humanoide narrador]] es un estudio de usabilidad explícito de la interacción impulsada por [[llm|LLM]]; [[conversational-ai-agents-umbrella-review-2026|una revisión paraguas de agentes de IA conversacional]] identifica la usabilidad y la calidad de la interacción como un tema recurrente.
 - **Diseño y refinamiento.** Los hallazgos de usabilidad alimentan el diseño iterativo (véase el [[design-thinking|pensamiento de diseño]] y el [[learning-design|diseño del aprendizaje]]), mejorando las herramientas antes o junto a las pruebas de eficacia.
 - **Un instrumento en distintos contextos, y el techo que lo limita.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] mantuvieron constantes el dominio, la tarea y el instrumento mientras variaba el nivel educativo, de modo que las valoraciones de 144 estudiantes sobre 893 respuestas de retroalimentación y 237 informes comparan contextos y no disciplinas, y solo la exactitud percibida difirió entre niveles. El estudio también nombra el límite de este tipo de evaluación por personas usuarias: entre el 72,2 y el 86,4 por ciento del estudiantado promedió al menos 4 de 5, y los autores afirman que sus diferencias no significativas no establecen equivalencia porque no se fijó de antemano ningún margen.
-- **El diseño de los evaluadores, informado como parte del hallazgo.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 expertos emparejados por dominio juzgaran 92 clases regeneradas frente a una rúbrica anclada en «la calidad de una clase de MOOC estándar», asignando cada vídeo a un único revisor (k = 1) para repartir el panel entre una mayor parte del corpus en lugar de recoger valoraciones repetidas. El compromiso se modela en lugar de ocultarse: un modelo de intercepto aleatorio atribuye alrededor del 35 por ciento de la varianza residual a quien revisa (ICC = 0,35) y los intervalos se agrupan por revisor, que es como un panel de expertos puede informar «el 87 por ciento en el umbral o por encima» con un rango honesto.
+- **El diseño de los evaluadores, informado como parte del hallazgo.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 expertos emparejados por dominio juzgaran 92 clases regeneradas frente a una rúbrica anclada en «la calidad de una clase de [[online-teaching-and-learning|MOOC]] estándar», asignando cada vídeo a un único revisor (k = 1) para repartir el panel entre una mayor parte del corpus en lugar de recoger valoraciones repetidas. El compromiso se modela en lugar de ocultarse: un modelo de intercepto aleatorio atribuye alrededor del 35 por ciento de la varianza residual a quien revisa (ICC = 0,35) y los intervalos se agrupan por revisor, que es como un panel de expertos puede informar «el 87 por ciento en el umbral o por encima» con un rango honesto.
 
 ## Relación con otras familias de investigación
 
@@ -64,7 +64,7 @@ La investigación sobre usabilidad comparte métodos de recogida de datos con la
 
 **«Un sistema usable es un buen sistema educativo.»** La investigación sobre usabilidad aborda la interacción entre la persona y el sistema, no los resultados de aprendizaje, y ambas cosas se separan en las dos direcciones: una herramienta pedagógicamente potente puede abandonarse por ser frustrante, y una herramienta sin fricción puede no enseñar nada. La facilidad es una precondición para el uso, no la prueba de que el uso mereciera la pena.
 
-**«La usabilidad es una actividad de acabado al final del desarrollo.»** Es una familia de métodos con técnicas centrales —observación, análisis de tareas, pensamiento en voz alta, revisión heurística— que dan forma al diseño en lugar de terminarlo. Descubrir la fricción cuando la pedagogía ya está fijada tiende a producir o un rediseño de la interfaz en torno al problema o el abandono de la herramienta.
+**«La usabilidad es una actividad de acabado al final del desarrollo.»** Es una familia de métodos con técnicas centrales —observación, análisis de tareas, pensamiento en voz alta, revisión heurística— que dan forma al diseño en lugar de terminarlo. Descubrir la fricción cuando la [[pedagogy|pedagogía]] ya está fijada tiende a producir o un rediseño de la interfaz en torno al problema o el abandono de la herramienta.
 
 **«El estudiantado que abandona una herramienta carecía de motivación.»** El abandono suele ser la lectura correcta que hace la persona usuaria de un coste de interacción que quien diseñó nunca midió. Como una herramienta que nadie usa no puede tener efecto, la tasa de abandono es un resultado educativo por derecho propio.
 

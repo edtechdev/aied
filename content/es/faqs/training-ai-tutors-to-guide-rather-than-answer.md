@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-28T13:39:43-04:00"
+updated: "2026-11-05T16:18:46-05:00"
 weight: 72
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
@@ -32,9 +32,9 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Su tutor regala la respuesta. La demostración no lo mostró, porque la pregunta era fácil y el estudiante colaboraba. Los registros del pilotaje sí: un estudiante pregunta dos veces, el modelo reformula el método y luego lo resuelve. Un docente observa una sesión y dice que es un chatbot con voz amable. Ahora usted decide si dedicar un cuarto del tiempo de ingeniería al post-entrenamiento o lanzar el producto con un mejor prompt de sistema.
+Su tutor regala la respuesta. La demostración no lo mostró, porque la pregunta era fácil y el estudiante colaboraba. Los registros del pilotaje sí: un estudiante pregunta dos veces, el modelo reformula el método y luego lo resuelve. Un [[teacher-role|docente]] observa una sesión y dice que es un [[conversational-ai|chatbot]] con voz amable. Ahora usted decide si dedicar un cuarto del tiempo de ingeniería al post-entrenamiento o lanzar el producto con un mejor prompt de sistema.
 
-La respuesta breve: las indicaciones no eliminan el tirón hacia responder, porque la utilidad es lo que el modelo base fue entrenado para producir. Si el comportamiento de guiar es el producto, hay que entrenarlo, y la variable que decide el resultado es la **recompensa**. Escriba la recompensa contra un benchmark, incluya razonamiento a nivel de paso en los datos de entrenamiento y juzgue el entrenamiento por el siguiente movimiento pedagógico que elige el modelo.
+La respuesta breve: las indicaciones no eliminan el tirón hacia responder, porque la utilidad es lo que el modelo base fue entrenado para producir. Si el comportamiento de guiar es el producto, hay que entrenarlo, y la variable que decide el resultado es la **recompensa**. Escriba la recompensa contra un benchmark, incluya razonamiento a nivel de paso en los datos de entrenamiento y juzgue el entrenamiento por el siguiente movimiento [[pedagogy|pedagógico]] que elige el modelo.
 
 ## La versión breve
 
@@ -44,7 +44,7 @@ La respuesta breve: las indicaciones no eliminan el tirón hacia responder, porq
 
 **3.** Entrene con trazas a nivel de paso. Un corpus de pares de pregunta y respuesta correcta no puede enseñar a un modelo a ver dónde se equivocó un estudiante.
 
-**4.** Prefiera el aprendizaje por refuerzo a la imitación cuando importa el juicio, y conserve las puntuaciones de las etapas intermedias.
+**4.** Prefiera el [[reinforcement-learning|aprendizaje por refuerzo]] a la imitación cuando importa el juicio, y conserve las puntuaciones de las etapas intermedias.
 
 **5.** Haga que la recompensa sea lo bastante densa para activarse en la mayoría de las respuestas, y ejecute la evaluación sobre conversaciones completas.
 
@@ -66,13 +66,13 @@ De ahí se siguen dos cosas. Cuente con que la recompensa se exploite, porque es
 
 ## Haga que la recompensa se active con la frecuencia suficiente para enseñar
 
-Una recompensa de coincidencia exacta es demasiado escasa cuando lo que le importa tiene varias dimensiones. El simulador de escritura de SWIM muestra la progresión con claridad: la indicación anclada en rúbrica alcanzó un QWK medio del mejor rasgo de **0,577** con Claude Sonnet y de **0,422** con GPT-5.4, casi cero en un modelo abierto de 7B; el ajuste fino supervisado llegó a **0,474 ± 0,023** con ese modelo de 7B; y GRPO con una recompensa densa de exactitud normalizada por rasgo llegó a **0,618 ± 0,005** en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
+Una recompensa de coincidencia exacta es demasiado escasa cuando lo que le importa tiene varias dimensiones. El [[simulation|simulador]] de escritura de SWIM muestra la progresión con claridad: la indicación anclada en rúbrica alcanzó un QWK medio del mejor rasgo de **0,577** con Claude Sonnet y de **0,422** con GPT-5.4, casi cero en un modelo abierto de 7B; el ajuste fino supervisado llegó a **0,474 ± 0,023** con ese modelo de 7B; y GRPO con una recompensa densa de exactitud normalizada por rasgo llegó a **0,618 ± 0,005** en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
 
 El diseño de la recompensa produjo esa brecha. Una señal densa normalizada por rasgo supera a la coincidencia exacta en un entorno de varios rasgos, y si su recompensa solo se activa con una respuesta perfecta, la mayor parte de su señal de entrenamiento es silencio.
 
 ## Ponga el razonamiento en los ejemplos
 
-El hallazgo más accionable de este ámbito tiene que ver con lo que deben contener los datos de entrenamiento. Los modelos ajustados con instrucciones aprendieron concepciones erróneas de álgebra solo cuando se entrenaron con **trazas de solución a nivel de paso**. Entrenados solo con respuestas finales, la exactitud se mantuvo **por debajo del 30% en todos los tamaños de datos** ([[misconception-acquisition-dynamics-llms-2026]]).
+El hallazgo más accionable de este ámbito tiene que ver con lo que deben contener los datos de entrenamiento. Los modelos ajustados con instrucciones aprendieron [[misconceptions|concepciones erróneas]] de álgebra solo cuando se entrenaron con **trazas de solución a nivel de paso**. Entrenados solo con respuestas finales, la exactitud se mantuvo **por debajo del 30% en todos los tamaños de datos** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Dos detalles de ese estudio importan a quien construye cualquiera de los dos roles de un tutor. El rol de estudiante sobregeneralizó el error aprendido hasta que se mezclaron ejemplos correctos en proporciones tan bajas como **uno de cada cuatro**. El rol de tutor no mostró ese costo y mantuvo una exactitud correcta **del 93% al 98%** en diez concepciones erróneas entrenadas conjuntamente.
 
@@ -88,7 +88,7 @@ La lectura práctica: si su fallo es un tono equivocado o un formato ausente, el
 
 ## Etiquete cada ejemplo con el comportamiento que enseña
 
-Si la supervisión tiene que contener razonamiento, el esquema de etiquetado es una decisión de currículo. Un estudio sobre etiquetas de supervisión encontró que asignar a cada ejemplo de entrenamiento un único comportamiento objetivo, entre competencia en la materia, anclaje curricular, razonamiento diagnóstico y andamiaje, elevó las puntuaciones en todos los tamaños de modelo probados, con las mayores ganancias en andamiaje y en el uso del historial del estudiante. El diagnóstico del estado de conocimiento siguió siendo el comportamiento más débil, con **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). El diagnóstico es el elemento más difícil de esa lista, así que presupueste para él.
+Si la supervisión tiene que contener razonamiento, el esquema de etiquetado es una decisión de [[curriculum-design|currículo]]. Un estudio sobre etiquetas de supervisión encontró que asignar a cada ejemplo de entrenamiento un único comportamiento objetivo, entre competencia en la materia, anclaje curricular, razonamiento diagnóstico y [[scaffolding|andamiaje]], elevó las puntuaciones en todos los tamaños de modelo probados, con las mayores ganancias en andamiaje y en el uso del historial del estudiante. El diagnóstico del estado de conocimiento siguió siendo el comportamiento más débil, con **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). El diagnóstico es el elemento más difícil de esa lista, así que presupueste para él.
 
 La selección de datos es un problema de entrenamiento en sí mismo. Edu-QuRating adapta la destilación de preferencias a la curación de datos educativos y sustituye una única puntuación de "¿esto es educativo?" por **20 dimensiones de rúbrica** que cubren exactitud fáctica, estructura pedagógica e idoneidad de nivel ([[garrod-edu-qurating-educational-data-curation-2026]]). Si usted está reuniendo un corpus a partir de texto web, ese filtro decide cómo va a sonar su modelo.
 
@@ -106,7 +106,7 @@ Una vía más barata es la destilación. Pedagogy-R1, con 1.5B y 7B, se ajustó 
 
 El post-entrenamiento no tiene por qué moldear solo lo que dice el modelo. TACT post-entrenó a un tutor con una taxonomía de 13 estrategias más una taxonomía de movimientos del estudiante de dos ejes y ganó **20,30 puntos** sobre su modelo base Qwen3.5-4B, con un benchmark de diagnóstico que **oculta las etiquetas de estado del estudiante** disponibles durante el entrenamiento, de modo que el modelo tiene que inferir el estado a partir del diálogo ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-La misma lógica recorre la alineación en [[special-education|educación especial]] ([[special-r1-rl-special-education]]) y el trabajo de RL heurístico que alinea modelos como guías socráticos en lugar de respondedores ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Una plataforma va más lejos y entrena la política en lugar de la prosa: un agente de aprendizaje por refuerzo elige el siguiente problema de práctica, de modo que lo que el estudiante hace después lo decide el modelo entrenado ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+La misma lógica recorre la alineación en [[special-education|educación especial]] ([[special-r1-rl-special-education]]) y el trabajo de RL heurístico que alinea modelos como guías [[socratic-method|socráticos]] en lugar de respondedores ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Una plataforma va más lejos y entrena la política en lugar de la prosa: un agente de aprendizaje por refuerzo elige el siguiente problema de práctica, de modo que lo que el estudiante hace después lo decide el modelo entrenado ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Ese último caso es la prueba de si usted ha diseñado un tutor o un generador de texto. Si la única salida del modelo es prosa, la pedagogía vive en su código de orquestación. Si el modelo elige la siguiente tarea, la pedagogía está en los pesos.
 
@@ -116,7 +116,7 @@ El entrenamiento no hace que un modelo sea seguro a lo largo de una conversació
 
 ## En qué se equivocan los equipos de entrenamiento
 
-Más indicaciones acabarán funcionando. La sycophancy persiste después de las indicaciones y de la alineación, y la presión de autoridad reabre el comportamiento que una prueba de cambio de contexto había cerrado. La transcripción de su propia prueba de presión es la evidencia de esto en su producto.
+Más indicaciones acabarán funcionando. La [[ai-sycophancy|sycophancy]] persiste después de las indicaciones y de la alineación, y la presión de autoridad reabre el comportamiento que una prueba de cambio de contexto había cerrado. La transcripción de su propia prueba de presión es la evidencia de esto en su producto.
 
 El número de la tabla de clasificación es el resultado. El 96,52% en CDPK describe el desempeño en las tareas pedagógicas de un benchmark. Sus estudiantes se encuentran con su currículo, su notación y un estudiante que lleva veinte minutos atascado.
 

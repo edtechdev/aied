@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puedo reducir las trampas con IA en mi curso?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-10-28T12:58:23-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
@@ -60,9 +60,9 @@ Después cambie el artefacto. Una [[meta-analysis-systematic-review|revisión si
 
 El menú, en un orden aproximado según lo bien que cada opción sobrevive a un grupo grande.
 
-Sin asistencia, en clase, a libro cerrado: exámenes vigilados, cuestionarios, escritura cronometrada. Deles más peso que antes, porque los deberes son el artefacto que la IA infla. Los exámenes orales y las defensas funcionan por la misma razón, ya que el diálogo en tiempo real es difícil de externalizar ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Sin asistencia, en clase, a libro cerrado: exámenes vigilados, cuestionarios, escritura cronometrada. Deles más peso que antes, porque los deberes son el artefacto que la IA infla. [[oral-assessment|Los exámenes orales]] y las defensas funcionan por la misma razón, ya que el diálogo en tiempo real es difícil de externalizar ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Artefactos de proceso: borradores, trazas de razonamiento, "muestre su pensamiento" anotado, registros de revisión, para que el *proceso* sea visible y no solo el producto ([[authentic-products-authenticated-processes-2026]]). Las tareas auténticas funcionan junto a ellos: casos locales, material de prácticas, los datos del propio estudiante, cualquier cosa difícil de delegar ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Artefactos de proceso: borradores, trazas de razonamiento, "muestre su pensamiento" anotado, registros de revisión, para que el *proceso* sea visible y no solo el producto ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Las tareas auténticas]] funcionan junto a ellos: casos locales, material de prácticas, los datos del propio estudiante, cualquier cosa difícil de delegar ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Variación de la tarea por estudiante, en la que cada uno recibe una versión superficialmente distinta pero equivalente en el constructo, hace que copiar sea estructuralmente inútil. Trate la garantía como condicional a la capacidad: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] encontró que los generadores de frontera solo alcanzaban de 0,81 a 0,88 en una puntuación conjunta de integridad, mientras que los modelos que no son de frontera caen a de 0,50 a 0,55. Si sus variantes no son equivalentes, ha comprado protección contra la copia junto con injusticia entre estudiantes.
 
@@ -100,7 +100,7 @@ Redacte la norma con precisión, también. [[wright-transcription-not-generation
 
 Prohibir la herramienta y permitirla sin estructura producen el mismo resultado: estudiantes fuera del trabajo cognitivo.
 
-La síntesis Reducir el mal uso de la IA expone ocho principios de diseño para la versión permitida, entre ellos: preservar la [[desirable-difficulties|fricción cognitiva]], situar la IA como socio de pensamiento provisional y no como autoridad, incorporar puntos de control evaluativos y exigir un diario [[metacognition|metacognitivo]] y registros de indicaciones.
+La síntesis Reducir el mal uso de la IA expone ocho principios de diseño para la versión permitida, entre ellos: preservar la [[desirable-difficulties|fricción cognitiva]], situar la IA como socio de pensamiento provisional y no como autoridad, incorporar puntos de control evaluativos y exigir [[reflection|un diario]] [[metacognition|metacognitivo]] y registros de indicaciones.
 
 La secuencia que sostiene esos principios es lo bastante corta para imprimirla en la hoja de la tarea:
 
@@ -126,7 +126,7 @@ El ejemplo medido es un módulo de [[k-12]] que usa práctica de indicaciones ba
 
 Lo que los estudiantes creen de verdad es menos cínico de lo que sugiere el pánico. Entre 504 estudiantes de sociología, el 65% había usado IA generativa para el trabajo del curso, pero solo el 3% para generar texto de la tarea y el 2% para generar un borrador completo. El 81% había recibido alguna orientación sobre IA y solo el 46% la encontró muy clara ([[student-genai-use-views-writing]]). El problema práctico es la ambigüedad, no la rebeldía, y por eso una norma clara más una secuencia enseñada cambia más conducta que una advertencia. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa y Mezgebu (2026)]] describen a estudiantes que se preguntan si la IA generativa es una herramienta que facilita las trampas o un socio que apoya el aprendizaje, y esa pregunta es la que sus expectativas deberían responder.
 
-El daño que merece enseñarse explícitamente es la [[ai-misuse-learning-harm|brecha entre rendimiento y aprendizaje]]: el rendimiento sube ahora, el aprendizaje cae después, y el estudiante solo experimenta lo primero. [[ai-tools-academic-work-cheating-2026]] y [[student-rationalization-ai-writing]] cubren el lado de la norma entre pares y la racionalización, incluida la defensa del "todos lo hacen" que una norma clara desinfla. Para ver qué tan sólida es esta base, consulte [[ai-literacy-evidence]] y [[top-10-findings-ai-education-instructors]].
+El daño que merece enseñarse explícitamente es la [[ai-misuse-learning-harm|brecha entre rendimiento y aprendizaje]]: el rendimiento sube ahora, el aprendizaje cae después, y [[student-experience|el estudiante]] solo experimenta lo primero. [[ai-tools-academic-work-cheating-2026]] y [[student-rationalization-ai-writing]] cubren el lado de la norma entre pares y la racionalización, incluida la defensa del "todos lo hacen" que una norma clara desinfla. Para ver qué tan sólida es esta base, consulte [[ai-literacy-evidence]] y [[top-10-findings-ai-education-instructors]].
 
 ## En qué se equivocan los docentes
 

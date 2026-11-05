@@ -1,7 +1,7 @@
 ---
 title: "¿Puedo usar la IA para calificar el trabajo de los estudiantes de forma justa y fiable?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
 weight: 84
@@ -48,7 +48,7 @@ Hay tres arreglos que se llaman "calificación con IA" y conllevan obligaciones 
 
 Un **asistente de retroalimentación** redacta comentarios o señala posibles omisiones para que usted los acepte, reescriba o descarte. El riesgo se limita a la calidad del comentario, y usted lee todo antes de que llegue a un estudiante. Un **segundo lector** propone puntuaciones por criterio o señala desacuerdos para estructurar su propia corrección. Sus errores tienen que ser útiles y no solo equivocados: una señal que le devuelve a un envío que habría corregido con descuido vale la pena. Un **calificador principal** produce puntuaciones que se convierten en notas registradas. Ese es el arreglo que la evidencia de esta base de conocimiento no respalda más allá de casos estrechos y validados localmente.
 
-Elija el peldaño más bajo que atienda su restricción real. Si su carga de corrección viene de comprobar una clave de respuestas fija, una puntuación determinista ordinaria es más transparente y auditable que un modelo de lenguaje, y el estudio de farmacia sugiere que la ventaja del LLM en los ítems objetivos era en parte un artefacto de haberle entregado las respuestas correctas durante la calificación. Reserve el modelo para el trabajo que necesita interpretación y después revise esa interpretación.
+Elija el peldaño más bajo que atienda su restricción real. Si su carga de corrección viene de comprobar una clave de respuestas fija, una puntuación determinista ordinaria es más transparente y auditable que un [[llm|modelo de lenguaje]], y el estudio de farmacia sugiere que la ventaja del LLM en los ítems objetivos era en parte un artefacto de haberle entregado las respuestas correctas durante la calificación. Reserve el modelo para el trabajo que necesita interpretación y después revise esa interpretación.
 
 [[automated-assessment|La evaluación automatizada]] abarca la maquinaria más amplia de puntuación, moderación y generación de retroalimentación. Esta página es la pregunta de juicio que hay debajo.
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -42,7 +42,7 @@ Respuesta breve para dar a un colega: la retroalimentación con IA se gana su lu
 
 **2.** Clasifique sus propios comentarios en correcciones de nivel lingüístico y valoraciones de nivel de juicio. Solo la primera categoría es candidata a automatizarse.
 
-**3.** Escalone las fuentes. Primero la autoevaluación, después la retroalimentación entre pares y por último la crítica de la IA. Dos fuentes puestas una al lado de otra producen una adopción pasiva.
+**3.** Escalone las fuentes. Primero la autoevaluación, después la [[peer-assessment|retroalimentación entre pares]] y por último la crítica de la IA. Dos fuentes puestas una al lado de otra producen una adopción pasiva.
 
 **4.** Entregue la rúbrica al modelo y haga que razone paso a paso. Una instrucción escueta produce una salida genérica.
 
@@ -54,7 +54,7 @@ Respuesta breve para dar a un colega: la retroalimentación con IA se gana su lu
 
 La métrica tentadora es la calidad de lo que escribe el modelo. Es también la métrica que engaña.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] aleatorizaron a 70 estudiantes que escribían ensayos argumentativos en persa en tres grupos. La indicación con cadena de pensamiento produjo una retroalimentación valorada significativamente mejor (M = 12,90) que una indicación zero-shot (M = 11,25, p = 0,01) y que un docente humano experimentado (M = 11,20, p = 0,008). El grupo de cadena de pensamiento no revisó sus ensayos significativamente más que el grupo con retroalimentación del docente, que logró ganancias comparables. Mejores comentarios, las mismas revisiones. Si su criterio de éxito es la calidad del comentario, ese estudio se lee como un éxito. Si es qué cambió en el ensayo, no.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] aleatorizaron a 70 estudiantes que escribían ensayos argumentativos en persa en tres grupos. La [[prompt-engineering|indicación con cadena de pensamiento]] produjo una retroalimentación valorada significativamente mejor (M = 12,90) que una indicación zero-shot (M = 11,25, p = 0,01) y que un [[teacher-role|docente humano experimentado]] (M = 11,20, p = 0,008). El grupo de cadena de pensamiento no revisó sus ensayos significativamente más que el grupo con retroalimentación del docente, que logró ganancias comparables. Mejores comentarios, las mismas revisiones. Si su criterio de éxito es la calidad del comentario, ese estudio se lee como un éxito. Si es qué cambió en el ensayo, no.
 
 Otras dos señales favorecen artificialmente un pilotaje que va mal, así que fíjelas de antemano. La satisfacción del estudiante es una. En el pilotaje de toda la universidad de Deakin que informan [[tubino-adachi-ai-automated-feedback-literacy|Tubino y Adachi (2022)]], las valoraciones medias positivas coexistían con errores señalados por los estudiantes, así que una encuesta de caritas sonrientes no es evidencia de precisión. El uso es la otra. La herramienta de Deakin era opcional, y el uso promedió en torno al 13% del estudiantado de grado y el 12% del de posgrado, pese a que casi 4.000 estudiantes tenían acceso. Los estudiantes proactivos y de alto rendimiento la usaban más. Eso es lo que se compra al poner una herramienta a disposición.
 
@@ -76,7 +76,7 @@ La condición reflexiva exigía autoevaluación antes de la crítica de la IA. L
 
 El mecanismo explica por qué la secuenciación importa más que la herramienta. La crítica directa invita a una adopción pasiva: el estudiante lee un veredicto y lo aplica. Los diseños reflexivos e híbridos obligan al estudiante a interpretar el comentario, compararlo con los criterios, juzgar su relevancia y después revisar. El valor educativo depende menos del acceso a la IA que de si el entorno de retroalimentación preserva la [[agency|agencia]] del que aprende y el [[evaluative-judgment|juicio evaluativo]] durante la revisión.
 
-La retroalimentación entre pares se gana su propio lugar en la secuencia. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen y Yan (2026)]] llevaron dos clases paralelas de inglés (N = 118 estudiantes universitarios de primer año en China; IA generativa n = 56, pares n = 62) por tres ciclos de autoevaluación a lo largo de un semestre. El andamiaje con IA generativa mejoró la alfabetización en retroalimentación de forma ligera pero significativa respecto a la revisión entre pares humanos (ANCOVA p = 0,049, ηp² = 0,03). Los estudiantes con IA generativa refinaron las indicaciones de forma iterativa y verificaron o impugnaron las salidas inexactas. Los del grupo de pares eligieron fuentes por comodidad social y vieron su juicio evaluativo distorsionado por el sesgo de amistad. La revisión entre pares conservó un valor propio para la conciencia del destinatario, y por eso los autores proponen diseños de varias etapas con retroalimentación anónima entre pares en lugar de una sustitución.
+La retroalimentación entre pares se gana su propio lugar en la secuencia. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen y Yan (2026)]] llevaron dos clases paralelas de inglés (N = 118 estudiantes universitarios de primer año en China; IA generativa n = 56, pares n = 62) por tres ciclos de [[self-assessment|autoevaluación]] a lo largo de un semestre. El [[scaffolding|andamiaje]] con IA generativa mejoró la alfabetización en retroalimentación de forma ligera pero significativa respecto a la revisión entre pares humanos (ANCOVA p = 0,049, ηp² = 0,03). Los estudiantes con IA generativa refinaron las indicaciones de forma iterativa y verificaron o impugnaron las salidas inexactas. Los del grupo de pares eligieron fuentes por comodidad social y vieron su juicio evaluativo distorsionado por el sesgo de amistad. La revisión entre pares conservó un valor propio para la conciencia del destinatario, y por eso los autores proponen diseños de varias etapas con retroalimentación anónima entre pares en lugar de una sustitución.
 
 La ventaja de Gu et al. fue pequeña, y la leen como real pero no transformadora por sí sola. El andamiaje del docente, las directrices de indicaciones y las hojas de trabajo hicieron el trabajo de apoyo.
 
@@ -84,15 +84,15 @@ La ventaja de Gu et al. fue pequeña, y la leen como real pero no transformadora
 
 La generación referenciada a la rúbrica es la parte automatizable.
 
-La ganancia de calidad de Farrokhnia et al. vino de una indicación con cadena de pensamiento que guiaba al modelo por una evaluación paso a paso frente a una rúbrica de argumentación, no de una instrucción escueta de dar retroalimentación. Gu et al. dieron a su grupo de IA generativa ChatGPT-4o con rúbricas preentrenadas y directrices de indicaciones, y eso es lo que hizo la salida comprobable frente a criterios declarados. En ambos casos, la indicación es donde entran sus criterios en el sistema, y la traza de razonamiento es lo que le permite ver si el modelo los aplicó.
+La ganancia de calidad de Farrokhnia et al. vino de una indicación con cadena de pensamiento que guiaba al modelo por una evaluación paso a paso frente a una rúbrica de argumentación, no de una instrucción escueta de dar retroalimentación. Gu et al. dieron a su grupo de IA generativa [[generative-ai|ChatGPT-4o]] con rúbricas preentrenadas y directrices de indicaciones, y eso es lo que hizo la salida comprobable frente a criterios declarados. En ambos casos, la indicación es donde entran sus criterios en el sistema, y la traza de razonamiento es lo que le permite ver si el modelo los aplicó.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson y Yan (2025)]] hacen de la calidad de la indicación la bisagra de todo el proceso. Las indicaciones vagas producen salidas genéricas e inútiles, y los comentarios generados pueden estar alucinados, sesgados o solapados, lo que devuelve el juicio evaluativo al lector. La calibración es aún más exigente. En Farrokhnia et al., la calidad de la retroalimentación de la IA generativa se asoció significativamente con la solidez del borrador inicial del estudiante, mientras que la calidad de la retroalimentación del docente no. El docente calibró con más consistencia. El volumen escala. La calibración no.
 
 ## Deje la última palabra y el registro en manos humanas
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma y Cobos (2026)]] describen AICoFE, que ejecuta tres modelos ajustados de forma independiente (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) sobre puntuaciones de rúbrica y observaciones cualitativas para producir comentarios de borrador independientes. El docente compone después el mensaje final seleccionando frases o párrafos, con una leyenda que muestra qué modelo aportó cada cosa. El modelo redacta. El docente entrega, y lo entregado lo firma una persona que leyó el borrador.
+[[becerra-aicofe-feedback-2026|Becerra, Palma y Cobos (2026)]] describen AICoFE, que ejecuta tres modelos ajustados de forma independiente (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) sobre puntuaciones de rúbrica y [[qualitative-research|observaciones cualitativas]] para producir comentarios de borrador independientes. El docente compone después el mensaje final seleccionando frases o párrafos, con una leyenda que muestra qué modelo aportó cada cosa. El modelo redacta. El docente entrega, y lo entregado lo firma una persona que leyó el borrador.
 
-Aldino et al. encuentran el mismo patrón de asistencia y verificación en la práctica ordinaria. El componente de aprendizaje automático señaló con más frecuencia como ausente "Cumple el objetivo de aprendizaje" (20 de 21 docentes lo habían omitido; 16 aceptaron la señal) y "Relación entre estudiante y docente" (14 lo omitieron; 12 aceptaron). Los docentes decidieron cada sugerencia con juicio profesional, que es el sentido de ponerlos en el bucle.
+Aldino et al. encuentran el mismo patrón de asistencia y verificación en la práctica ordinaria. El componente de [[machine-learning|aprendizaje automático]] señaló con más frecuencia como ausente "Cumple el objetivo de aprendizaje" (20 de 21 docentes lo habían omitido; 16 aceptaron la señal) y "Relación entre estudiante y docente" (14 lo omitieron; 12 aceptaron). Los docentes decidieron cada sugerencia con juicio profesional, que es el sentido de ponerlos en el bucle.
 
 Doce de los 21 docentes de Aldino et al. hicieron además revisiones de nivel de frase, y el patrón dominante fue calibrar el tono: rebajar el elogio (f = 11), eliminar sugerencias (f = 9), eliminar ánimos (f = 8). Las revisiones se agruparon en la dimensión relacional, sobre todo en la relación entre estudiante y docente (f = 24). Estaban protegiendo la autenticidad y la voz profesional, y ese trabajo no se automatiza.
 
@@ -122,7 +122,7 @@ Las valoraciones de satisfacción le dicen que los comentarios son precisos. En 
 
 ## Lo que le van a responder
 
-**"La retroalimentación con IA no es personal."** A menudo es cierto, y es la razón para dejar la última palabra en manos humanas. AICoFE existe porque la prosa genérica del modelo no es lo que un estudiante debería recibir: el docente selecciona, edita y firma el mensaje final. Los 21 docentes de Aldino et al. reescribieron el tono por la misma razón. La personalización es su trabajo en este diseño, y el modelo hace el trabajo de preparación.
+**"La retroalimentación con IA no es personal."** A menudo es cierto, y es la razón para dejar la última palabra en manos humanas. AICoFE existe porque la prosa genérica del modelo no es lo que un estudiante debería recibir: el docente selecciona, edita y firma el mensaje final. Los 21 docentes de Aldino et al. reescribieron el tono por la misma razón. La [[personalized-learning|personalización]] es su trabajo en este diseño, y el modelo hace el trabajo de preparación.
 
 **"Mis estudiantes no leerán la retroalimentación de todos modos."** Leen menos de lo que quisiéramos, y la evidencia dice que la solución es de diseño y no de volumen. La adopción en el pilotaje de Deakin fue de en torno al 13% y el 12%. Los comentarios mejor valorados de Farrokhnia et al. no produjeron revisión adicional. Lo que movió la aguja fue una secuenciación que fuerza la implicación, autoevaluación, luego retroalimentación entre pares y por último crítica de la IA, más tres ciclos de revisión a lo largo de un semestre que produjeron diferencias medibles en alfabetización en retroalimentación.
 

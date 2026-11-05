@@ -1,14 +1,14 @@
 ---
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
@@ -33,7 +33,7 @@ La respuesta es más estrecha de lo que suponen la mayoría de las especificacio
 
 **1.** Escriba qué decide el sistema y qué decide un docente. Esa frontera se convierte en la arquitectura.
 
-**2.** Evalúe la interacción de varios turnos y sensible a la disciplina con el currículo real, no prompts sueltos contra una rúbrica general de seguridad.
+**2.** Evalúe la interacción de varios turnos y sensible a la disciplina con el [[curriculum-design|currículo]] real, no prompts sueltos contra una rúbrica general de seguridad.
 
 **3.** Ancle las respuestas en contenido aprobado y mantenga el componente verificador separado del conversacional.
 
@@ -69,7 +69,7 @@ Lo transferible es la separación: los componentes que verifican no conversan, y
 
 ## Trate el trabajo del estudiante como entrada no confiable
 
-El modelo de amenaza que omite la mayoría de los consejos de diseño está dentro del propio artefacto que se evalúa. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación adversarial de equipo rojo de Humble (2026)]] probó si los estudiantes podían manipular a un calificador basado en LLM mediante inyección de prompts en sus entregas, y la manipulación funcionó: las inyecciones que dan instrucciones al calificador, lo reencuadran o lo hacen interpretar un papel desplazan la puntuación sin cambiar el trabajo.
+El modelo de amenaza que omite la mayoría de los consejos de diseño está dentro del propio artefacto que se evalúa. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación adversarial de equipo rojo de Humble (2026)]] probó si los estudiantes podían manipular a un calificador basado en [[llm|LLM]] mediante inyección de prompts en sus entregas, y la manipulación funcionó: las inyecciones que dan instrucciones al calificador, lo reencuadran o lo hacen interpretar un papel desplazan la puntuación sin cambiar el trabajo.
 
 Mantenga la rúbrica y las instrucciones fuera de la ventana de contexto que controla el estudiante, elimine o marque el contenido que parezca una instrucción, no permita nunca que una entrega fije sus propios criterios y conserve una decisión humana en toda calificación consecuente. Un calificador que lee sus instrucciones en el texto que juzga le ha entregado la rúbrica al examinado.
 
@@ -100,6 +100,8 @@ Un modelo más grande arreglará la pedagogía. La escala no mejoró la segurida
 Un buen índice de recuperación significa que el contenido está resuelto. EduGuard combina la recuperación con un verificador separado y prueba prompts adversariales de respuesta directa, porque la recuperación anclada deja todavía una vía a la revelación excesiva.
 
 El docente es el recurso de reserva. Los seis docentes del estudio de diseño pidieron registro, alertas y anulación como condición de responsabilidad profesional. Un ticket de soporte no es una anulación.
+
+El disfrute sustituye al encaje. En una encuesta a 405 estudiantes de posgrado en diseño ([[chu-design-students-ai-agent-tam-ttf-2026|Chu y Liu (2026)]]), el encaje entre tarea y tecnología abrió su propia vía hacia la actitud (β = 0,224) junto a la [[technology-acceptance-model|utilidad percibida]], y las características de la tarea determinaron el encaje más que las características de la herramienta (β = 0,322 frente a 0,266). El disfrute percibido elevó la facilidad de uso y no aportó nada a la utilidad (β = −0,033, p = 0,483). El deleite merece construirse, pero no sustituye el emparejamiento de las funciones con los pasos de la tarea.
 
 La accesibilidad es un ticket para más adelante. O está en la especificación o se convierte en una reescritura, y el texto alternativo y los subtítulos generados siguen necesitando una revisión humana.
 

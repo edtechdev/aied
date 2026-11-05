@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Aprendizaje autodirigido
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,14 +35,15 @@ ai_assist:
 
 ## Introducción
 
-El aprendizaje autodirigido está estrechamente relacionado con el [[self-regulated-learning|aprendizaje autorregulado (SRL)]], pero es distinto. Mientras que el SRL pone el énfasis en la regulación cognitiva, motivacional y conductual del aprendizaje en el momento (planificar, monitorizar, controlar, reflexionar), el SDL pone el énfasis en la responsabilidad general de quien aprende sobre la dirección y la gestión de su propio aprendizaje a lo largo del tiempo, a menudo en contextos informales o elegidos por la propia persona. El SDL es fundamental para el [[adult-learning|aprendizaje de personas adultas]] y el [[lifelong-learning|aprendizaje a lo largo de la vida]], y es una teoría destacada en la educación a distancia y en línea, donde quien aprende debe sostener su autonomía sin un horario de clase fijo. El SDL es también cada vez más *tratable* para el estudio empírico: al analizar los registros de clics de 315 personas que aprendían en línea y construyeron 822 modelos en VERA, [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] identificaron tres firmas conductuales de la autodirección —Observación, Construcción y Exploración— y encontraron que quienes aprendían pasaban de la construcción práctica a una Exploración más plena y guiada por hipótesis mientras la Observación persistía en todas las fases, lo que muestra que el grado y el tipo de autonomía que quien aprende ejerce en una tarea en línea no estructurada pueden distinguirse solo a partir de sus datos de traza.
+El aprendizaje autodirigido es un vecino cercano del [[self-regulated-learning|aprendizaje autorregulado (SRL)]], y no un sinónimo. Mientras que el SRL pone el énfasis en la regulación cognitiva, motivacional y conductual del aprendizaje en el momento (planificar, monitorizar, controlar, reflexionar), el SDL pone el énfasis en la responsabilidad general de quien aprende sobre la dirección y la gestión de su propio aprendizaje a lo largo del tiempo, a menudo en contextos informales o elegidos por la propia persona. El SDL es fundamental para el [[adult-learning|aprendizaje de personas adultas]] y el [[lifelong-learning|aprendizaje a lo largo de la vida]], y es una teoría destacada en la educación a distancia y [[online-teaching-and-learning|en línea]], donde quien aprende debe sostener su autonomía sin un horario de clase fijo. El SDL es también cada vez más *tratable* para el estudio empírico: al analizar los registros de clics de 315 personas que aprendían en línea y construyeron 822 modelos en VERA, [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] identificaron tres firmas conductuales de la autodirección —Observación, Construcción y Exploración—. También encontraron que quienes aprendían pasaban de la construcción práctica a una Exploración más plena y guiada por hipótesis mientras la Observación persistía en todas las fases, lo que muestra que el grado y el tipo de autonomía que quien aprende ejerce en una tarea en línea no estructurada pueden distinguirse solo a partir de sus datos de traza.
 
 ## Cómo la IA generativa remodela el aprendizaje autodirigido
 
 La [[research-methods-aied|investigación]] de la base de conocimiento documenta ambos lados de la relación entre IA generativa y SDL.
 
 - **La IA puede apoyar el SDL.** La [[ai-lifelong-learning-policy|IA y las políticas de aprendizaje a lo largo de la vida]] y el [[self-directed-growth-generative-ai-learning-analytics|crecimiento autodirigido con IA generativa y analítica del aprendizaje]] muestran que las herramientas de IA pueden [[scaffolding|andamiar]] la indagación independiente, ofrecer recursos a demanda y personalizar itinerarios de aprendizaje de formas que refuerzan la autonomía de quien aprende. La [[genai-educational-outcomes-meta-analysis|evidencia metaanalítica]] sobre los resultados educativos de la IA generativa y la [[conversational-ai-informal-learning|IA conversacional en el aprendizaje informal]] sugieren un potencial positivo cuando la IA se usa como un recurso que quien aprende dirige.
-- **Quienes aprenden quieren un compañero de pensamiento, no un oráculo.** El estudiantado adulto entrevistado quería que la IA estimulara la reflexión y verificara en lugar de dar respuestas, y que lo dejara a cargo del itinerario de aprendizaje en lugar de prescribirlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Quienes aprenden quieren un compañero de pensamiento, no un oráculo.** El estudiantado adulto entrevistado quería que la IA estimulara la reflexión y verificara en lugar de dar respuestas, y que lo dejara a cargo del [[recommender-systems-and-learning-paths|itinerario de aprendizaje]] en lugar de prescribirlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Delegar la elección del objetivo no es lo mismo que apoyarla.** La página trata la fijación del objetivo como el acto central de quien aprende, y la evidencia de referencia dice que los modelos lo hacen de otro modo. Frente a 175 personas, GPT-5, Claude Sonnet 4.5 y Qwen3 32B volvieron a seleccionar el objetivo anterior en 0,93, 0,93 y 0,94 de los ensayos, frente a 0,54 ± 0,18 en las personas. La entropía de objetivos fue de 0,12 a 0,20 frente a 1,67 ± 0,14, y las instrucciones de cadena de pensamiento y de persona no cerraron la brecha. Un sistema que propone qué aprender a continuación reproduce una búsqueda más estrecha que la de quien aprende al que sustituye ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
 - **El uso irreflexivo socava el SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa** —adoptar salidas de IA sin evaluación crítica— perjudica significativamente el SDL del estudiantado universitario, tanto directamente como a través de la erosión de la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (el modelo explicó el 75,3% de la varianza del SDL; TUGA β = −0,42). El efecto negativo sobre la motivación fue mayor en los estudiantes varones y sobre la autoeficacia en las estudiantes mujeres. Esto conecta con el riesgo más amplio de [[cognitive-offloading|dependencia excesiva]] documentado en la base de conocimiento.
 
@@ -54,7 +55,7 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 
 ## La IA como andamiaje para el aprendizaje basado en la investigación
 
-- **La extracción con IA como andamiaje para el aprendizaje basado en la investigación.** An y sus colegas (2026) diseñan un sistema de extracción de información impulsado por IA que convierte publicaciones de investigación en conjuntos de datos estructurados y trazables para apoyar la finalización de tesis de grado en [[stem-education|STEM]], planteado como un **andamiaje epistémico** que permite inspeccionar las relaciones entre evidencia y afirmación a la vez que reduce las demandas de manejo de datos de bajo nivel. En un piloto [[mixed-methods-research|de métodos mixtos]] con 20 estudiantes y 80 documentos, el estudiantado extrajo más del 90% de los parámetros objetivo, el tiempo de revisión de literatura autoinformado cayó en torno a un 65% y su capacidad de identificar variables influyentes aumentó un 50%, lo que respalda la idea de que la [[generative-ai|IA]] puede reequilibrar la carga cognitiva hacia un razonamiento de investigación más autodirigido y de orden superior en lugar de hacia el resumen rutinario.
+- **La extracción con IA como andamiaje para el aprendizaje basado en la investigación.** An y sus colegas (2026) diseñan un sistema de extracción de información impulsado por IA que convierte publicaciones de investigación en conjuntos de datos estructurados y trazables para apoyar la finalización de tesis de grado en [[stem-education|STEM]], planteado como un **andamiaje epistémico** que permite inspeccionar las relaciones entre evidencia y afirmación a la vez que reduce las demandas de manejo de datos de bajo nivel. En un piloto [[mixed-methods-research|de métodos mixtos]] con 20 estudiantes y 80 documentos, el estudiantado extrajo más del 90% de los parámetros objetivo, el [[self-report-measures|tiempo de revisión de literatura autoinformado]] cayó en torno a un 65% y su capacidad de identificar variables influyentes aumentó un 50%, lo que respalda la idea de que la [[generative-ai|IA]] puede reequilibrar la carga cognitiva hacia un razonamiento de investigación más autodirigido y de orden superior en lugar de hacia el resumen rutinario.
 
 ## Concepciones erróneas
 
@@ -106,3 +107,4 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogía y delegación cognitiva con IA generativa
 - [[kim-ai-andragogy-2026]] — Aplicaciones de la IA en el apoyo a la andragogía (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+- [[llm-goal-selection-self-directed-learning-2026]] — Los modelos no seleccionan objetivos de aprendizaje como las personas en una tarea de elección libre (Molinaro et al. 2026)

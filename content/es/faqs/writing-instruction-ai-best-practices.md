@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-10-28T13:12:16-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -26,7 +26,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Está reescribiendo una hoja de asignación y la frase que tiene delante dice que se permite la IA con reconocimiento, lo que no le dice al estudiantado nada sobre si la herramienta puede aportar el argumento. Un colega ha propuesto una prohibición para todo el curso y usted sospecha que recae con más fuerza sobre quienes escriben en varias lenguas en esa aula. O un lote de ensayos volvió más pulido que la discusión del seminario que los sustentaba, y necesita una regla que pueda defender en la próxima reunión de plan de estudios.
+Está reescribiendo una hoja de asignación y la frase que tiene delante dice que se permite la IA con reconocimiento, lo que no le dice al estudiantado nada sobre si la herramienta puede aportar el argumento. Un colega ha propuesto una prohibición para todo el curso y usted sospecha que recae con más fuerza sobre quienes escriben en varias lenguas en esa aula. O un lote de ensayos volvió más pulido que la discusión del seminario que los sustentaba, y necesita una regla que pueda defender en la próxima reunión de [[curriculum-design|plan de estudios]].
 
 La conclusión de fondo: nombre el trabajo intelectual que la asignación existe para producir, mantenga ese paso en manos del estudiante y dé a la herramienta encargos que devuelvan algo que el estudiante tenga que juzgar. Una regla escrita así le dice al estudiante qué paso protege.
 
@@ -82,7 +82,7 @@ Una secuencia que vale la pena tomar prestada mantiene a la IA en un papel de co
 | **8. Revisar** | Hacer y justificar cambios sustantivos | Probar la claridad, ofrecer alternativas | Revisión |
 | **9. Verificar** | Comprobar toda afirmación fáctica o dependiente de fuentes | No puede verificar su propia salida | Fuentes y evidencia |
 | **10. Reflexionar y declarar** | Explicar el papel de la IA y qué cambió en su pensamiento | Nada | Breve reflexión sobre el proceso |
-| **11. Comprobación independiente** | Explicar o aplicar el razonamiento sin IA | Nada | Defensa oral, escritura rápida, caso nuevo |
+| **11. Comprobación independiente** | Explicar o aplicar el razonamiento sin IA | Nada | [[oral-assessment|Defensa oral]], escritura rápida, caso nuevo |
 
 Esto es [[pairr-ai-peer-review-2025|PAIRR]] ampliado: borrador, retroalimentación humana, retroalimentación de la IA, comparación, revisión, reflexión, con una línea de base independiente y un límite más ajustado en torno al razonamiento. Use la columna central como la asignación y la columna de la derecha como aquello en lo que puede apoyarse una calificación.
 

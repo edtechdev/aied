@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:37-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ La identidad es un constructo motivacional y de desarrollo distinto de (pero con
 
 
 Una condición de autoría distinta, y no solo una amenaza para la autoría: cuando el diálogo autoformativo se delega habitualmente a un modelo conversacional, los autores sostienen que el trabajo integrador de la autoría queda *delegado* en lugar de no desarrollado o ausente —un yo densamente expresado pero sin autoría—, para el cual dicen que los constructos existentes no tienen hueco ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
+
 - **Vergüenza y uso oculto.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** muestran que el estudiantado de informática experimenta vergüenza y culpa en torno al uso de la IA, que funcionan como reguladores sociales que impulsan el *ocultamiento* y la declaración selectiva, conductas que pueden fragmentar la identidad académica y socavar una implicación honesta con el aprendizaje.
 - **La identidad como algo que la IA puede andamiar.** La IA no tiene por qué limitarse a amenazar la identidad. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** sostiene que un acompañamiento [[pedagogy|pedagógico]] responsable y orientado a las relaciones puede apoyar el desarrollo de la **identidad STEM** de quienes aprenden al ofrecer un apoyo transparente y acotado que deja espacio para que la persona sea dueña de su trayectoria.
 
@@ -57,6 +58,8 @@ Una condición de autoría distinta, y no solo una amenaza para la autoría: cua
 - **Cómo enmarca el estudiantado la herramienta da forma a su devenir profesional.** Quienes presentaban la IA generativa únicamente como compañera socioemocional produjeron reflexiones menos diferenciadas sobre su aprendizaje profesional que quienes también la enmarcaban como una técnica, un material de aprendizaje o una estructura ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
 
 - **Adopción cautelosa: el uso selectivo de la IA como protección de la identidad.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] encuestó a 484 estudiantes de una universidad australiana y encontró que el estudiantado con mejores resultados declaraba una implicación activa *menor* con la [[generative-ai|IA generativa]], menos afecto positivo hacia la IA, un menor impacto en el [[self-report-measures|aprendizaje percibido]] y una menor desconexión relacionada con la IA, con las asociaciones más fuertes en rho = -0,395 para el impacto en el aprendizaje percibido y rho = -0,359 para el afecto positivo. Sus respuestas abiertas describían un uso selectivo (aclaraciones, resúmenes, apoyo al flujo de trabajo), verificado y subordinado a su propio juicio, y los resultados por ítem mostraban un mayor acuerdo con que la dependencia de la IA dificulta el [[critical-thinking|pensamiento crítico]] y la [[problem-solving|resolución de problemas]] independiente. Los autores lo interpretan como trabajo de identidad: para el estudiantado cuyo sentido de sí mismo como persona que aprende con éxito se apoya en su propio esfuerzo y juicio, acotar el uso de la IA defiende la [[agency|agencia epistémica]] de la que depende esa identidad, lo que también significa que el patrón no es ni tecnofobia ni baja implicación.
+
+- **Un propósito declarado no rige necesariamente una decisión sobre IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] entrevistaron a 14 estudiantes de grado y codificaron cada entrevista según la relación entre el [[self-determination-theory|propósito]] del estudiantado —una intención personalmente significativa de contribuir más allá de sí mismo— y sus decisiones sobre la IA. Solo algunos establecieron la conexión: una persona rechazó la IA porque sus costes ambientales y humanos contradecían su propósito, y tres dejaron que la identidad profesional futura moldeara sus decisiones («contribuye a la psicóloga que seré algún día en el mundo»). Otras personas con un sentido del propósito igualmente claro no establecieron ese vínculo y describieron el propósito y la IA como «algo separado», así que tener una identidad que proteger no era lo mismo que recurrir a ella. El artículo también separa las razones que el estudiantado da para mantener el trabajo como propio —desarrollo de habilidades, [[evaluative-judgment|autoría y orgullo]] y objeción moral—, que llegan por mecanismos distintos y no deberían agruparse en un único motivo.
 
 ## Relación con la agencia de quien aprende
 
@@ -85,7 +88,7 @@ La identidad de quien aprende se conecta con la [[agency|agencia]] (la identidad
 
 **«La asistencia de la IA rebaja las barreras y, por tanto, amplía la participación.»** Puede rebajar la barrera para producir trabajo a la vez que estrecha la barrera para reclamar autoría. A un estudiante que entrega un artefacto fluido que no escribió se le ha dado acceso al resultado y se le ha negado el reconocimiento que construye la identidad detrás de él.
 
-**«Reconocer la identidad de quien aprende es una cuestión de representación en los contenidos.»** La representación importa y el reconocimiento se pone en acto en la práctica: a quién se le toman las preguntas, a quién se le acredita la contribución y a quién se trata como capaz. Un currículo puede ser representativo y aun así negar el reconocimiento que exige la formación de la identidad.
+**«Reconocer la identidad de quien aprende es una cuestión de representación en los contenidos.»** La representación importa y el reconocimiento se pone en acto en la práctica: a quién se le toman las preguntas, a quién se le acredita la contribución y a quién se trata como capaz. Un [[curriculum-design|currículo]] puede ser representativo y aun así negar el reconocimiento que exige la formación de la identidad.
 
 ## Conceptos conectados
 
@@ -106,6 +109,7 @@ La identidad de quien aprende se conecta con la [[agency|agencia]] (la identidad
 - [[k-12]]
 
 ## Artículos conectados
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 estudiantes de grado sobre lo que siguen haciendo por sí mismos, y por qué el propósito rara vez lo decide
 - [[guarded-adoption-genai-higher-education-2026]] — Adopción cautelosa de la IA generativa en la educación superior
 - [[t2i-competence-paradox-2026]] — La paradoja de la competencia: identidad creativa en el uso de IA generativa de texto a imagen
 - [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA

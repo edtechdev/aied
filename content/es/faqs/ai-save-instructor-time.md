@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ahorrarme tiempo la IA como docente?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-10-28T13:39:43-04:00"
+updated: "2026-11-05T16:18:46-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -54,7 +54,7 @@ Eso es reasignación y no reducción: lo que usted gana con la [[generative-ai|I
 
 La calidad es desigual siguiendo un patrón lo bastante estable como para planificar con él. Los revisores ciegos prefirieron las versiones de IA de conclusiones de lección y tickets de salida el 59,7% de las veces frente a materiales diseñados por profesionales, y prefirieron material de IA para contenido de secundaria el 59,2% de las veces. El ahorro también crece donde su confianza es más baja: enseñar fuera de su propia materia es el caso con la brecha más amplia entre lo que la herramienta le entrega y lo que usted habría escrito solo.
 
-Dos categorías van en la dirección contraria. En material de nivel de primaria, se prefirió a los humanos alrededor del 65% de las veces por adecuación evolutiva. Los [[scaffolding|andamiajes]] dirigidos a estudiantes [[multilingual-learning|multilingües]] y a estudiantes de [[special-education|educación especial]] volvieron neutros más que erróneos, lo cual es peor de lo que suena, ya que un andamiaje neutro es uno que hay que rehacer desde el principio.
+Dos categorías van en la dirección contraria. En material de nivel de primaria, se prefirió a los humanos alrededor del 65% de las veces por adecuación evolutiva. Los [[scaffolding|andamiajes]] dirigidos a [[learners|estudiantes]] [[multilingual-learning|multilingües]] y a estudiantes de [[special-education|educación especial]] volvieron neutros más que erróneos, lo cual es peor de lo que suena, ya que un andamiaje neutro es uno que hay que rehacer desde el principio.
 
 La prueba que predice esto antes de que gaste una tarde en ello: ¿puede enunciar la especificación con la precisión suficiente para comprobar la salida? Un ticket de salida sobre un objetivo, sí. Si un párrafo le sirve a una niña concreta de nueve años que lee dos cursos por debajo de su clase, no.
 
@@ -84,7 +84,7 @@ Usted puede usar la [[automated-essay-scoring|calificación automatizada de ensa
 
 ## En qué se equivoca el profesorado
 
-**"El 31% es mi número."** Son 259 docentes de [[science-education|ciencias]] de K-12 en preparación de clases. La dirección viaja; el tamaño no. Un seminario construido sobre discusión puede ahorrar menos, y un curso de laboratorio con restricciones de seguridad puede no ahorrar nada en la parte en la que más quería ayuda.
+**"El 31% es mi número."** Son 259 docentes de [[science-education|ciencias]] de [[k-12|K-12]] en preparación de clases. La dirección viaja; el tamaño no. Un seminario construido sobre discusión puede ahorrar menos, y un curso de laboratorio con restricciones de seguridad puede no ahorrar nada en la parte en la que más quería ayuda.
 
 **"Ahorrar tiempo es el objetivo."** El experimento de Brasil es el contraejemplo. Las horas salieron gratis y el cuartil inferior no ganó nada. El objetivo es qué compran las horas.
 

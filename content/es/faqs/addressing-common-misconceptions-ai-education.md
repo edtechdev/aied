@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -66,7 +66,7 @@ Los promedios ocultan precisamente la variación que decide una cuestión de equ
 
 ### "Informaron de que habían aprendido mucho."
 
-Las medidas de autoinforme miden la percepción, la aceptación, la ansiedad y la [[self-efficacy|autoeficacia]], y son buenas en las cuatro. No son una medida de capacidad demostrada, porque las personas pueden estar seguras y equivocarse, o ser competentes y tener poca confianza. La síntesis que hace el wiki de la investigación sobre alfabetización en IA del profesorado informa de una brecha sustancial entre la autoevaluación y el rendimiento medido, y los docentes de esa investigación sobreestimaron su competencia considerablemente ([[ai-literacy-assessment-misalignment|Evaluación de la alfabetización en IA: autoinforme frente a desalineación con el rendimiento]]). Empareje cada autoinforme con una tarea: identificar un error en una respuesta, verificar una fuente, elegir una estrategia de uso, detectar sesgo o adulación, revisar una respuesta defectuosa, calibrar la confianza contra la exactitud. Un solo ítem así en una encuesta convierte una opinión en un resultado.
+[[self-report-measures|Las medidas de autoinforme]] miden la percepción, la aceptación, [[anxiety-and-stress|la ansiedad]] y la [[self-efficacy|autoeficacia]], y son buenas en las cuatro. No son una medida de capacidad demostrada, porque las personas pueden estar seguras y equivocarse, o ser competentes y tener poca confianza. La síntesis que hace el wiki de la investigación sobre alfabetización en IA del profesorado informa de una brecha sustancial entre [[self-assessment|la autoevaluación]] y el rendimiento medido, y los docentes de esa investigación sobreestimaron su competencia considerablemente ([[ai-literacy-assessment-misalignment|Evaluación de la alfabetización en IA: autoinforme frente a desalineación con el rendimiento]]). Empareje cada autoinforme con una tarea: identificar un error en una respuesta, verificar una fuente, elegir una estrategia de uso, detectar sesgo o adulación, revisar una respuesta defectuosa, calibrar la confianza contra la exactitud. Un solo ítem así en una encuesta convierte una opinión en un resultado.
 
 ### "Un estudiante simulado es un sustituto barato de uno real."
 
@@ -184,7 +184,7 @@ La supervisión depende de la pericia que la automatización intensa desanima a 
 
 ### "Enseñar un uso crítico y ético de la IA cuesta productividad."
 
-La automatización no verificada produce retrabajo, incidentes de seguridad, decisiones discriminatorias, exposición legal, daño reputacional y falsa confianza, y cada uno de esos es un costo que la cifra de productividad no contabilizó. El empleado que vale la pena contratar es el que distribuye el trabajo entre personas y herramientas manteniendo la calidad, la confidencialidad, la responsabilidad y el juicio profesional. Ese es un argumento de productividad, formulado en la dirección que el balance suele pasar por alto ([[human-ai-collaboration|Colaboración humano-IA]], [[governance|Gobernanza de la IA]]).
+La automatización no verificada produce retrabajo, incidentes de seguridad, decisiones discriminatorias, [[legal-issues-and-risks|exposición legal]], daño reputacional y falsa confianza, y cada uno de esos es un costo que la cifra de productividad no contabilizó. El empleado que vale la pena contratar es el que distribuye el trabajo entre personas y herramientas manteniendo la calidad, la confidencialidad, la responsabilidad y el juicio profesional. Ese es un argumento de productividad, formulado en la dirección que el balance suele pasar por alto ([[human-ai-collaboration|Colaboración humano-IA]], [[governance|Gobernanza de la IA]]).
 
 ## Responda a lo que creen los estudiantes
 
@@ -248,7 +248,7 @@ El texto de una política no crea entendimiento compartido. Los estudiantes y el
 
 ### "La reticencia del profesorado es una brecha de formación."
 
-A veces lo es. La disposición también es carga de trabajo, [[learner-identity|identidad profesional]], valores disciplinares, dudas sobre la validez de la evaluación, apoyo institucional escaso, incertidumbre sobre la privacidad y un juicio razonado de que una aplicación concreta no sirve a los estudiantes. Por eso el desarrollo tiene que cubrir la competencia práctica, la integración pedagógica, el propósito y la identidad, el tiempo, la política, el uso [[discipline-specific-aied|específico de la disciplina]] y la opción de una no adopción fundamentada. Una demostración única de funciones no resuelve un cambio profesional y organizativo ([[educational-development|Desarrollo educativo]]).
+A veces lo es. La disposición también es carga de trabajo, [[learner-identity|identidad profesional]], valores disciplinares, dudas sobre la validez de la evaluación, apoyo institucional escaso, incertidumbre sobre la privacidad y un juicio razonado de que una aplicación concreta no sirve a los estudiantes. Por eso el desarrollo tiene que cubrir la competencia práctica, la integración pedagógica, el propósito y la identidad, el tiempo, la política, el uso [[discipline-specific-aied|específico de la disciplina]] y la opción de una no adopción fundamentada. Una demostración única de funciones no resuelve un [[change-management|cambio profesional y organizativo]] ([[educational-development|Desarrollo educativo]]).
 
 ### "Basta con decirle a la gente los datos correctos."
 
@@ -267,7 +267,7 @@ La versión resuelta, que puede adaptar a cualquier ítem de esta página:
 > **Concepción errónea:** "Una buena tarea generada por IA demuestra que el estudiante aprendió."
 > **Refutación:** "Eso no es necesariamente cierto. El producto muestra lo que el estudiante y la IA produjeron juntos, pero no revela qué razonamiento realizó el estudiante."
 > **Sustitución:** "El aprendizaje se demuestra mejor cuando el estudiante puede explicar, transferir, adaptar y reproducir la capacidad."
-> **Aplicación:** "Acompañe el trabajo asistido por IA con una explicación, una defensa oral, un registro del proceso o una aplicación sin ayuda."
+> **Aplicación:** "Acompañe el trabajo asistido por IA con una explicación, [[oral-assessment|una defensa oral]], un registro del proceso o una aplicación sin ayuda."
 
 La sustitución es la que sostiene el peso. Eliminar una concepción errónea sin suministrar una explicación mejor deja a la persona sin nada con qué pensar, y la creencia antigua vuelve la próxima vez que la experiencia la confirme.
 
@@ -293,7 +293,7 @@ Los docentes sobreestimaron sustancialmente su competencia en IA cuando el autoi
 
 ### "Los padres no aceptarán nada que no sea una prohibición."
 
-Los padres preguntan si lo que tienen delante sus hijos es seguro y si la credencial significa algo. Responda esas dos cosas directamente, con las preguntas de seguridad pedagógica en lugar del filtro de contenido, y el argumento de la prohibición pierde fuerza. La pregunta del consejo es más estrecha que el titular y más fácil de defender.
+[[parents-and-families|Los padres]] preguntan si lo que tienen delante sus hijos es seguro y si la credencial significa algo. Responda esas dos cosas directamente, con las preguntas de seguridad pedagógica en lugar del filtro de contenido, y el argumento de la prohibición pierde fuerza. La pregunta del consejo es más estrecha que el titular y más fácil de defender.
 
 ### "No podemos hacer defensas orales para un curso magistral de este tamaño."
 

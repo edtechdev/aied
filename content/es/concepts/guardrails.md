@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,8 +84,8 @@ Las salvaguardas no son neutrales: la auditoría de [[paternalistic-filter-llm-h
 
 Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda son una forma de lograr la seguridad [[pedagogy|pedagógica]], y la seguridad pedagógica se entrega casi por completo a través de salvaguardas. Conviene por tanto entender las salvaguardas como la **capa de diseño e ingeniería** que subyace al principio de seguridad pedagógica, y también como el término más amplio que se usa en la seguridad general de la IA (moderación de contenido, resistencia a jailbreaks) antes de especializarse para la educación.
 
-**Las salvaguardas como distribución de autoridad.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata las salvaguardas como asignaciones a lo largo de seis dimensiones separables —anclaje pedagógico, autoridad instruccional de la IA, responsabilidad humana, agencia de quien aprende, límites de contexto y visibilidad de la evaluación— y no como puntos en una línea de estricto a permisivo, de modo que herramientas que comparten un modelo pueden distribuir la autoridad de forma muy distinta. A escala de curso, el límite debe cubrir el espacio de las peticiones, el espacio de las respuestas y la visibilidad para quien educa, y no solo el contenido generado.
-**Las salvaguardas pueden redirigir a quienes aprenden en lugar de detenerlos.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] asignaron al azar a 132 estudiantes de un curso introductorio de programación a cuatro asistentes de enseñanza con IA que variaban en estilo pedagógico (socrático frente a instrucción directa) y en conciencia del contexto. El estudiantado valoró menos favorablemente al asistente socrático con contexto completo, y esa misma condición mostró descriptivamente el mayor estrés de interacción, la mayor tasa de uso externo de LLM de propósito general y la menor proporción de explicaciones posteriores a la tarea que demostraban comprensión plena, diferencias que el estudio reporta como descriptivas y no estadísticamente significativas. La fricción no elimina la demanda de ayuda; puede trasladar esa demanda a herramientas que el curso no puede ver, lo que convierte la calibración en una cuestión de seguridad pedagógica y no solo de diseño.
+**Las salvaguardas como distribución de autoridad.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata las salvaguardas como asignaciones a lo largo de seis dimensiones separables —anclaje pedagógico, autoridad instruccional de la IA, responsabilidad humana, [[agency|agencia de quien aprende]], límites de contexto y visibilidad de la evaluación— y no como puntos en una línea de estricto a permisivo, de modo que herramientas que comparten un modelo pueden distribuir la autoridad de forma muy distinta. A escala de curso, el límite debe cubrir el espacio de las peticiones, el espacio de las respuestas y la visibilidad para quien educa, y no solo el contenido generado.
+**Las salvaguardas pueden redirigir a quienes aprenden en lugar de detenerlos.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] asignaron al azar a 132 estudiantes de un curso [[cs-education|introductorio de programación]] a cuatro asistentes de enseñanza con IA que variaban en estilo pedagógico (socrático frente a instrucción directa) y en conciencia del contexto. El estudiantado valoró menos favorablemente al asistente socrático con contexto completo, y esa misma condición mostró descriptivamente el mayor estrés de interacción, la mayor tasa de uso externo de LLM de propósito general y la menor proporción de explicaciones posteriores a la tarea que demostraban comprensión plena, diferencias que el estudio reporta como descriptivas y no estadísticamente significativas. La fricción no elimina la demanda de ayuda; puede trasladar esa demanda a herramientas que el curso no puede ver, lo que convierte la calibración en una cuestión de seguridad pedagógica y no solo de diseño.
 
 ## Principios de diseño
 
@@ -101,7 +101,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 
 **Para el profesorado**
 
-- Juzgue un tutor por su rendimiento sin ayuda y no por el rendimiento en la práctica. En el ensayo de campo aleatorizado, un tutor GPT-4 sin salvaguardas elevó el rendimiento en la práctica **+48%** mientras *reducía* las puntuaciones posteriores de los exámenes sin ayuda en **17%**, y la versión de «pista, no respuesta» eliminó el daño. Toda señal de aula generada con la herramienta presente es la inflada.
+- Juzgue un tutor por lo que el estudiantado puede hacer sin apoyo y no por su rendimiento en la sesión. En el [[rct|ensayo de campo aleatorizado]], un tutor GPT-4 dejó la exactitud de la práctica **+48%** más alta pero costó al estudiantado **17%** en el examen posterior sin supervisión, y la versión de «pista, no respuesta» eliminó esa pérdida. Toda señal de aula generada con la herramienta presente es la inflada.
 - Cuando no pueda cambiar la herramienta, cambie lo que se califica sin ella. La medida sin ayuda es lo que hace visible la cuestión de las salvaguardas.
 - Trate la «amabilidad» como un parámetro de diseño con un modo de fallo: un tutor que nunca replica ni corrige puede satisfacer al estudiantado mientras elimina la [[feedback|retroalimentación]] correctiva que el aprendizaje necesita.
 
@@ -119,7 +119,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 
 ## Concepciones erróneas
 
-**«Una salvaguarda es un filtro que se acopla a un modelo.»** Las salvaguardas son un conjunto por capas de controles que abarcan el diseño de prompts, el anclaje en conocimiento, la modelización de recompensas, el control de calidad del despliegue y la auditoría continua, y las capas no son intercambiables. Un filtro de contenido se sitúa en la salida; el patrón «pista, no respuesta» se sitúa en el prompt y determina lo que el sistema está dispuesto a hacer en absoluto. En el ensayo de campo aleatorizado, la versión con salvaguardas eliminó el daño al aprendizaje que la versión sin ellas creaba, lo que es una propiedad del diseño de la interacción y no del filtro.
+**«Una salvaguarda es un filtro que se acopla a un modelo.»** Las salvaguardas son un conjunto por capas de controles que abarcan el diseño de prompts, el anclaje en conocimiento, la modelización de recompensas, el control de calidad del despliegue y la auditoría continua, y las capas no son intercambiables. Un filtro de contenido se sitúa en la salida; el patrón «pista, no respuesta» se sitúa en el prompt y determina lo que el sistema está dispuesto a hacer en absoluto. En el ensayo de campo aleatorizado, la versión con salvaguardas eliminó el [[ai-misuse-learning-harm|daño al aprendizaje]] que la versión sin ellas creaba, lo que es una propiedad del diseño de la interacción y no del filtro.
 
 **«Si el modelo no produce contenido dañino, el sistema es seguro para quien aprende.»** El daño suele ser silencioso. Los fallos de tutoría más dañinos no son salidas tóxicas sino tutores que responden correctamente y erosionan el aprendizaje, o que rechazan de forma uniforme y consolidan la desigualdad: fallos ante los que un cribado de toxicidad es estructuralmente ciego, porque nada en ellos es ofensivo. Superar una auditoría de contenido es una condición necesaria que se informa como si fuera suficiente.
 

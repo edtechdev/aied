@@ -1,14 +1,14 @@
 ---
 title: Conocimiento previo
 created: "2026-09-28T21:12:05-04:00"
-updated: "2026-10-28T01:09:26-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,8 +38,9 @@ La activación del conocimiento previo es uno de los hallazgos más sólidos de 
 ## El papel del conocimiento previo
 
 - **Es el predictor más potente del aprendizaje.** Décadas de [[research-methods-aied|investigación]] muestran que lo que quien aprende ya sabe se correlaciona con los [[learning-gains|resultados de aprendizaje]] con más fuerza que casi cualquier otro factor, porque la información nueva se codifica en relación con los modelos mentales existentes. Los sistemas de IA que se adaptan al estado de conocimiento previo de cada persona encierran por tanto una promesa particular de eficiencia y de [[transfer-of-learning|transferencia]].
+- **Cuánto más fuerte, en una comparación aleatorizada.** Dos tutores de matemáticas de segundo grado por lo demás idénticos, que solo diferían en si la selección de tareas seguía una estimación de dominio basada en el rastreo bayesiano del conocimiento, no produjeron ninguna diferencia en las puntuaciones del postest. El conocimiento previo predijo esas puntuaciones con η²p = 0,63 (F(1, 124) = 206,99, p < 0,001), mientras que la secuencia adaptativa explicó η²p = 0,00 ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner y Schmalfeldt (2026)]]). La adaptación reorganiza el orden de la práctica; lo que quien aprende aportaba a ella siguió determinando el resultado.
 - **Importa la activación, no solo la posesión.** Tener conocimiento previo no es suficiente: hay que recuperarlo y conectarlo activamente con el material nuevo. Por eso «activar el conocimiento previo» es un movimiento [[pedagogy|didáctico]] estándar, y por eso la práctica de recuperación (recordar lo que se sabe antes de añadir algo) mejora el aprendizaje más allá de la simple reexposición.
-- **No siempre predice quién hace el trabajo que impulsa el aprendizaje.** En un estudio de cinco días sobre aprender enseñando con 23 tutores de secundaria, las puntuaciones previas de las pruebas no predijeron la proporción de respuestas de construcción de conocimiento que produjo cada tutor, y los tutores con conocimiento previo bajo que construyeron conocimiento terminaron estadísticamente a la par de sus pares con conocimiento previo alto ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **No siempre predice quién hace el trabajo que impulsa el aprendizaje.** En un estudio de cinco días sobre [[learning-by-teaching|aprender enseñando]] con 23 tutores de secundaria, las puntuaciones previas de las pruebas no predijeron la proporción de respuestas de construcción de conocimiento que produjo cada tutor, y los tutores con conocimiento previo bajo que construyeron conocimiento terminaron estadísticamente a la par de sus pares con conocimiento previo alto ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Configura la interpretación.** Quien aprende interpreta la información nueva a través de lo que ya cree. Cuando esas creencias son erróneas ([[misconceptions|ideas erróneas]]), el conocimiento previo puede *interferir* con el aprendizaje, y por eso la enseñanza debe sacar a la luz y abordar las ideas erróneas en lugar de dar por supuesto un punto de partida neutro.
 - **Impulsa el modelado del estudiante.** Para personalizar, un sistema de IA debe estimar el estado de conocimiento previo de quien aprende: la base del [[knowledge-tracing|rastreo del conocimiento]], del modelado del estudiante y del [[scaffolding|andamiaje]] adaptativo. La calidad de esas estimaciones determina si la adaptación es genuinamente útil o engañosa.
 - **El contenido del conocimiento determina qué proceso recluta la práctica.** Que el aprendizaje dependa de la memoria o de la inducción lo fija la estructura de conocimiento previo del objetivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] siguen el marco KLI al distinguir los componentes de conocimiento con condiciones y respuestas constantes (hechos, adquiridos mediante la memoria y la práctica de recuperación) de los que tienen condiciones y respuestas variables (habilidades, adquiridas mediante la inducción y la generalización a entradas nuevas), y por eso la mezcla óptima de ejemplos resueltos y práctica difiere entre el contenido de hechos y el de habilidades.
@@ -101,3 +102,4 @@ La IA generativa ha convertido el conocimiento previo en una consideración de d
 - [[bridging-instructional-design-framework-math]] — Un marco de diseño instruccional para matemáticas
 - [[knowledge-building-tutor-learning-2026]] — La construcción de conocimiento, y no el conocimiento previo, predice el aprendizaje de los tutores, y los tutores con conocimiento previo bajo que construyen conocimiento se ponen al día
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — El conocimiento previo determinó el postest (η²p = 0,63) mientras que la selección adaptativa de tareas no aportó nada (Sibley et al. 2026)

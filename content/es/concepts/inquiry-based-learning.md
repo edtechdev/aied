@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:05:16-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 
 ## Cómo aparece el aprendizaje basado en la indagación en la base de conocimiento
 
-**La IA como coinvestigadora.** Una [[meta-analysis-systematic-review|revisión sistemática]] de ChatGPT para el aprendizaje basado en la indagación en STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudios) encontró que ChatGPT se usaba principalmente en las fases de conceptualización, investigación y discusión —como herramienta de aprendizaje, tutora, par de aprendizaje, experta de dominio y asistente de [[teacher-role|enseñanza]]— mejorando el rendimiento, el [[critical-thinking|pensamiento crítico]], la [[student-engagement|implicación]] y la motivación, a la vez que planteaba riesgos de dependencia excesiva, alucinación y conclusiones superficiales cuando la salida se trata como autoritativa.
+**La IA como coinvestigadora.** Una [[meta-analysis-systematic-review|revisión sistemática]] de ChatGPT para el aprendizaje basado en la indagación en STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudios) encontró que ChatGPT se usaba principalmente en las fases de conceptualización, investigación y discusión —como herramienta de aprendizaje, tutora, par de aprendizaje, experta de dominio y asistente de [[teacher-role|enseñanza]]. Ese uso mejoró el rendimiento, el [[critical-thinking|pensamiento crítico]], la [[student-engagement|implicación]] y la motivación, a la vez que planteaba riesgos de dependencia excesiva, [[hallucination-risk|alucinación]] y conclusiones superficiales cuando la salida se trata como autoritativa.
 
 **El planteamiento de problemas como punto de partida.** Un cuasiexperimento con 97 estudiantes de tercero de primaria ([[dai-chatbots-problem-posing-primary-2026]]) mostró que los [[conversational-ai|chatbots]] de IA generativa superaron significativamente a los motores de búsqueda en el planteamiento de problemas científicos, mejorando la calidad de las preguntas y produciendo [[network-analysis|redes]] epistémicas más integradas, además de reducir la carga cognitiva.
 
@@ -52,19 +52,23 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] aisló la contribución de la IA de la indagación en sí en un estudio climático de tres grupos: la indagación asistida por IA superó a los pares que solo hicieron indagación en la toma de decisiones (d = 0,69), con las mayores ganancias en monitorización y gestión adaptativa (d = 1,37), mientras que la recopilación básica de datos mejoró por igual en todas las condiciones.
 
-**[[equity-in-ai-education|Equidad]] y contexto.** Un marco conceptual conecta el codiseño con IA generativa y las prácticas educativas abiertas para apoyar la enseñanza STEM guiada por la indagación en contextos con pocos recursos, usando [[simulation|simulaciones]] generadas por IA, [[multilingual-learning|multilingües]] y contextualmente relevantes.
+**[[equity-in-ai-education|Equidad]] y contexto.** Un marco conceptual conecta el codiseño con IA generativa y las [[open-education|prácticas educativas abiertas]] para apoyar la enseñanza STEM guiada por la indagación en contextos con pocos recursos, usando [[simulation|simulaciones]] generadas por IA, [[multilingual-learning|multilingües]] y contextualmente relevantes.
 
 **Comparación de evidencia andamiada por IA.** [[ai-information-extraction-undergraduate-thesis-2026|An y sus colegas (2026)]] muestran cómo un sistema de extracción de información impulsado por IA desplaza la revisión de literatura de grado desde el resumen hacia la **organización y comparación de evidencia**: el estudiantado pasa de la lectura aislada a la comparación entre estudios y a la justificación basada en evidencia en apoyo del aprendizaje basado en la investigación y de la finalización de la tesis. Esto concretiza cómo la [[generative-ai|IA]] puede andamiar procesos de indagación en la investigación de grado en [[stem-education|STEM]].
 
 ## Por qué el aprendizaje basado en la indagación importa para la integración de la IA
 
-La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el hogar natural de un uso productivo de la IA: el estudiantado aprende *con* la IA como compañera y no *de* ella como sustituto. La evidencia de la base de conocimiento converge en una tensión central: la IA puede reducir la fricción de la recuperación de información y de la formulación de preguntas (disminuyendo la [[cognitive-offloading|carga cognitiva]] y habilitando una [[metacognition|reflexión]] más profunda), pero sin un andamiaje de diseño arriesga la dependencia excesiva y saltarse la cognición de orden superior. El papel de quien facilita, el diseño de los andamiajes y la enseñanza explícita de habilidades de evaluación son las palancas que determinan si la IA profundiza o desplaza la indagación.
+La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el hogar natural de un uso productivo de la IA: el estudiantado aprende *con* la IA como compañera y no *de* ella como sustituto. La evidencia de la base de conocimiento converge en una tensión central: la IA puede reducir la fricción de la recuperación de información y de la formulación de preguntas (disminuyendo la [[cognitive-offloading|carga cognitiva]] y habilitando una [[reflection|reflexión]] más profunda), pero sin un andamiaje de diseño arriesga la dependencia excesiva y saltarse la cognición de orden superior. El papel de quien facilita, el diseño de los andamiajes y la enseñanza explícita de habilidades de evaluación son las palancas que determinan si la IA profundiza o desplaza la indagación.
+
+Un estudio sustituye a quien facilita en lugar de añadir una herramienta a su lado. En un curso de farmacología de cuatro semanas, 136 estudiantes de segundo año de medicina se dividieron entre aprendizaje basado en problemas dirigido por una persona facilitadora y dirigido por IA. Ambos grupos mejoraron significativamente en las pruebas de opción múltiple previas y posteriores, y la diferencia entre grupos no fue significativa (p = 0,474), pero los grupos dirigidos por una persona facilitadora obtuvieron puntuaciones más altas en pensamiento crítico (14,75 frente a 13,09, p < 0,001) y en la rúbrica de [[group-work|evaluación grupal]] (26,51 frente a 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty y Rao, 2026]]). Los resultados de indagación se dividieron por tipo: el conocimiento de contenido sobrevivió a la sustitución y el proceso de razonamiento no, que es lo que significa decir que quien facilita es la palanca.
 
 ### Fracaso productivo e indagación
 
 El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructurado del aprendizaje basado en la indagación: quienes aprenden exploran problemas y generan soluciones *antes* de la instrucción directa, y después consolidan. Ambos comparten la premisa de que los intentos generados por quien aprende (incluso los fallidos) [[prior-knowledge|activan el conocimiento previo]] y lo preparan para aprender de la instrucción. La [[research-methods-aied|investigación]] sobre FP en la era de la IA afina cómo debería la IA andamiar la indagación sin cortocircuitarla: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan principios de diseño de IA para preservar el esfuerzo a través de la exploración del problema y la generación de soluciones; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en LLM pueden dirigirse para retener respuestas y provocar múltiples intentos; las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]] ejemplifican un andamiaje basado en pistas (frente al directo) que mantiene al estudiantado haciendo el razonamiento. Esto conecta la indagación y el FP con el imperativo más amplio de que la IA no debe eliminar el [[desirable-difficulties|esfuerzo productivo]] mediante el cual se forma un aprendizaje duradero.
 
 En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA generativa puede preestructurar lo que quienes aprenden advierten antes de que se encuentren con la evidencia, así que una secuencia que pone el campo primero y retiene la explicación generada hasta que se registran las observaciones e interpretaciones iniciales protege la indagación ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**Un mapa de 66 estudios sitúa la IA generativa junto a la investigación y menos a menudo en la orientación.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] codificaron el uso de la IA generativa en las cinco fases de la indagación y encontraron que el apoyo se informaba con más frecuencia en la investigación (45 estudios, 68,2%), después en la conclusión (29, 43,9%), la discusión (28, 42,4%) y la conceptualización (27, 40,9%), y por último en la orientación (20, 30,3%). Once estudios abarcaron las cinco fases, 19 abarcaron una y nueve no nombraron ninguna. Solo 8 estudios (12,1%) midieron habilidades de indagación, y 4 de ellos tenían una condición de comparación, así que esto es un mapa de dónde se colocaron las herramientas y no de qué ganó la indagación.
 
 ## Concepciones erróneas
 
@@ -109,3 +113,5 @@ En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información impulsada por IA para apoyar la tesis de grado y el aprendizaje basado en la investigación (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — Indagación asistida por IA en cuestiones sociocientíficas sobre el cambio climático
 - [[geoscience-field-learning-genai-2026]] — Un modelo instruccional que pone el campo primero e impide que la IA generativa preestructure lo que quienes aprenden advierten (Choi 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Persona facilitadora frente a aprendizaje basado en problemas mediado por IA: ganancias de contenido iguales y pensamiento crítico más débil sin ella (Shetty y Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Mapa de 66 estudios sobre IA generativa en las cinco fases de la indagación, con solo 8 estudios que miden habilidades de indagación

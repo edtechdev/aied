@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-28T13:32:35-04:00"
+updated: "2026-11-05T16:18:46-05:00"
 weight: 74
 type: faq
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
@@ -56,7 +56,7 @@ El entrenamiento es real y a veces necesario. Es la tercera o la cuarta cosa que
 
 Antes de cambiar nada, registre qué devuelve un prompt simple. Después registre qué devuelve un método trivial.
 
-El estudio del [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistente de base de conocimiento del curso]] merece leerse solo por esto. Un LLM local sin recuperación alcanzó una exactitud del **52,3%**. Una línea base de TF-IDF, un método léxico de hace décadas, alcanzó el **55,4%**. El modelo era peor que el método clásico.
+El estudio del [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistente de base de conocimiento del curso]] merece leerse solo por esto. Un [[llm|LLM]] local sin recuperación alcanzó una exactitud del **52,3%**. Una línea base de TF-IDF, un método léxico de hace décadas, alcanzó el **55,4%**. El modelo era peor que el método clásico.
 
 Sáltese este paso y no podrá saber si su ajuste fino ayudó. Peor aún, puede poner en producción un sistema al que una búsqueda por palabras clave supera y enterarse solo cuando un ayudante de cátedra lo mencione. Dos números en una hoja de cálculo, tomados en una tarde, protegen el resto del presupuesto.
 
@@ -64,9 +64,9 @@ Sáltese este paso y no podrá saber si su ajuste fino ayudó. Peor aún, puede 
 
 Añadir [[rag|generación aumentada por recuperación]] sobre los materiales del curso, sin ningún ajuste fino, elevó ese mismo sistema del 52,3% al **66,6%**. Esa ganancia vino de un índice, y trae una propiedad que un entrenamiento no tiene: cuando sus documentos cambian, usted reindexa.
 
-Otros dos resultados apuntan en el mismo sentido. Una revisión PRISMA de 23 estudios empíricos sobre la personalización de la IA para la [[writing-education|enseñanza de la escritura]] encontró **dominio de la ingeniería de prompts (N = 13), por delante del ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Cuando una base de conocimiento tiene que mantenerse actualizada, la recuperación es la única palanca que se mantiene actualizada sin volver a ejecutar un entrenamiento.
+Otros dos resultados apuntan en el mismo sentido. Una [[meta-analysis-systematic-review|revisión PRISMA]] de 23 estudios empíricos sobre la personalización de la IA para la [[writing-education|enseñanza de la escritura]] encontró **dominio de la [[prompt-engineering|ingeniería de prompts]] (N = 13), por delante del ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Cuando una base de conocimiento tiene que mantenerse actualizada, la recuperación es la única palanca que se mantiene actualizada sin volver a ejecutar un entrenamiento.
 
-La recuperación también tiene una forma pedagógica. Anclar un modelo en sus propios ejemplos resueltos y rúbricas es lo que lo mantiene dentro del [[scaffolding|andamiaje]] que usted diseñó, respondiendo al nivel que usted fijó en lugar de derivar hacia consejos genéricos. Esa deriva es la queja más común sobre los tutores comerciales, y es un problema de recuperación más a menudo que un problema de pesos.
+La recuperación también tiene una forma [[pedagogy|pedagógica]]. Anclar un modelo en sus propios ejemplos resueltos y rúbricas es lo que lo mantiene dentro del [[scaffolding|andamiaje]] que usted diseñó, respondiendo al nivel que usted fijó en lugar de derivar hacia consejos genéricos. Esa deriva es la queja más común sobre los tutores comerciales, y es un problema de recuperación más a menudo que un problema de pesos.
 
 ## Escriba el prompt contra su rúbrica y vigile la meseta
 
@@ -83,9 +83,9 @@ Fíjese en lo que el resultado de generación de ítems implica sobre la secuenc
 
 La adaptación compensa cuando usted necesita que el modelo mantenga una propiedad de forma fiable: un nivel de lectura, un formato de salida, un dominio que le falta. El resultado recurrente es que **apuntar bien vence al tamaño**.
 
-- Tres modelos de **8B** ajustados con un currículo de lectura infantil diseñado por expertos superaron a GPT-4o y Llama 3.3 70B en modo zero-shot en las métricas relacionadas con la dificultad, con problemas de seguridad insignificantes. Los autores lo enmarcan como **controlabilidad por encima de la escala** ([[llm-children-reading-story-generation]]).
+- Tres modelos de **8B** ajustados con un [[curriculum-design|currículo]] de lectura infantil diseñado por expertos superaron a GPT-4o y Llama 3.3 70B en modo zero-shot en las métricas relacionadas con la dificultad, con problemas de seguridad insignificantes. Los autores lo enmarcan como **controlabilidad por encima de la escala** ([[llm-children-reading-story-generation]]).
 - Un conjunto de datos de instrucciones de **24.795 ejemplos**, anclado en los Sistemas de Conocimiento Indios, produjo un ajuste fino de **7B** que puntuó **6,39** en un panel externo de cinco jueces, a **0,15** de un modelo de referencia general potente y por una fracción del costo de despliegue. El mismo modelo base puntuó **cerca de cero en las dimensiones específicas del dominio** sin el ajuste fino ([[iks-instruct-dataset-indian-knowledge]]). Esa brecha entre ser competente en general y ser competente aquí es todo el argumento a favor de la adaptación al dominio.
-- Un único adaptador de [[llm-training-and-fine-tuning|LoRA]] entrenado con unos **3.900** ejemplos calificados agrupados llevó a cinco modelos abiertos pequeños (de 4B a 30B) a la paridad o a superar a un calificador humano en dos exámenes de informática ([[llm-graders-computer-science-exams-2026]]). Un adaptador, un conjunto de datos, varios modelos base: esa es la forma de despliegue que un equipo pequeño puede sostener.
+- Un único adaptador de [[llm-training-and-fine-tuning|LoRA]] entrenado con unos **3.900** ejemplos calificados agrupados llevó a cinco [[open-source|modelos abiertos]] pequeños (de 4B a 30B) a la paridad o a superar a un calificador humano en dos exámenes de informática ([[llm-graders-computer-science-exams-2026]]). Un adaptador, un conjunto de datos, varios modelos base: esa es la forma de despliegue que un equipo pequeño puede sostener.
 
 La palabra *estable* del encabezado es la que carga el peso. El formato, la rúbrica, el nivel de lectura y el vocabulario del dominio son objetivos estables. La prosa cargada de juicio no tiene un objetivo así, y ahí es donde falla la adaptación, como muestran las dos secciones siguientes.
 
@@ -93,7 +93,7 @@ La palabra *estable* del encabezado es la que carga el peso. El formato, la rúb
 
 La adaptación enseña al modelo *qué producir*. El postentrenamiento le enseña *cómo comportarse*. Para la tutoría esa distinción es todo el problema: los modelos generales se postentrenan con la preferencia humana por la utilidad, lo que significa responder con prontitud, y enseñar exige retener la respuesta.
 
-Los resultados educativos más sólidos de este corpus están aquí. El modelo de recompensa de EduQwen priorizó explícitamente **las respuestas que guían frente a las respuestas directas**, y su canalización de tres etapas alcanzó el **96,52%** en el benchmark CDPK frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El simulador de escritura de SWIM pasó del prompting anclado en rúbrica (mejor QWK **0,577**) al ajuste fino supervisado (**0,474 ± 0,023**) y al aprendizaje por refuerzo (**0,618 ± 0,005**) en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
+Los resultados educativos más sólidos de este corpus están aquí. El modelo de recompensa de EduQwen priorizó explícitamente **las respuestas que guían frente a las respuestas directas**, y su canalización de tres etapas alcanzó el **96,52%** en el benchmark CDPK frente al **90,55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El [[simulation|simulador]] de escritura de SWIM pasó del prompting anclado en rúbrica (mejor QWK **0,577**) al ajuste fino supervisado (**0,474 ± 0,023**) y al [[reinforcement-learning|aprendizaje por refuerzo]] (**0,618 ± 0,005**) en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
 
 Lea con cuidado los números de SWIM, porque el paso intermedio fue hacia atrás. El ajuste fino supervisado con demostraciones empeoró al simulador respecto del prompt con el que partió, y solo la señal de recompensa recuperó la pérdida y luego superó la línea base. Si su plan se detiene en el ajuste fino supervisado, el plan puede ser un desvío.
 
@@ -129,7 +129,7 @@ El costo fácil de subestimar es la evaluación, que es mayor que la factura de 
 
 ## Calibre lo que espera
 
-La elección de modelo y de prompt juntas explican solo alrededor del **15%** del desajuste entre los LLM y las ganancias de aprendizaje del estudiantado, y en ese estudio la ponderación por benchmark y los conjuntos de voto unánime hicieron la alineación *peor* ([[educational-llm-alignment]]). Los datos de preentrenamiento son la palanca dominante sobre cómo se comporta un modelo, y es la única palanca que usted no puede mover.
+La elección de modelo y de prompt juntas explican solo alrededor del **15%** del desajuste entre los LLM y las [[learning-gains|ganancias de aprendizaje]] del estudiantado, y en ese estudio la ponderación por benchmark y los conjuntos de voto unánime hicieron la alineación *peor* ([[educational-llm-alignment]]). Los datos de preentrenamiento son la palanca dominante sobre cómo se comporta un modelo, y es la única palanca que usted no puede mover.
 
 Nada de eso argumenta contra el trabajo anterior. Argumenta contra esperar que un ajuste fino arregle un problema de diseño. Si el problema es que su tutor responde con demasiada facilidad, el entrenamiento puede abordarlo. Si el problema es que sus estudiantes no se implican con él, el entrenamiento no lo hará, y la cifra del 15% dice que el dinero está mejor empleado en otra parte.
 

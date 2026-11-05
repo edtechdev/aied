@@ -1,7 +1,7 @@
 ---
 title: Métodos de investigación en AIED
 created: "2026-09-25T03:54:15-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-05T16:12:38-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ La calidad de la comunicación de resultados de los estudios sobre IA en la educ
 ### Diseños experimentales y cuasi experimentales
 
 Un **estudio de eficacia** evalúa si una intervención produce el efecto de aprendizaje que pretende, normalmente mediante diseños experimentales o cuasi experimentales que comparan los resultados con y sin la intervención. Los experimentos asignan aleatoriamente a quien aprende a distintas condiciones (por ejemplo, tutor de IA frente a tutor humano, o con andamiaje de IA frente a sin asistencia) para estimar efectos causales en resultados como las ganancias de aprendizaje, la [[student-engagement|implicación]] o la motivación. Los **ensayos controlados aleatorizados** son el estándar de referencia para la validez interna. [[access-not-enough-ai-tutoring-2026|Un estudio de campo aleatorizado sobre el apoyo humano junto a la tutoría con IA]] y [[genai-can-harm-teaching-rct-2026|un ensayo controlado aleatorizado sobre la IA generativa en la enseñanza]] usan la asignación para aislar efectos causales. Los diseños **cuasi experimentales** (pre/post, entre sujetos o grupos emparejados sin aleatorización) son más viables en aulas intactas, pero más débiles para las afirmaciones causales.
+
 - **La validación del instrumento y las comprobaciones de línea base preceden a la estimación del efecto.** [[genai-cognitive-scaffold-geometric-reasoning-2026|Davor (2026)]] comparó dos clases intactas de secundaria superior de Ghana (86 estudiantes, 43 por grupo) usando la IA generativa como andamio para la geometría, dimensionando la muestra con un análisis G*Power y pilotando la Geometry Reasoning and Proof Test hasta una fiabilidad de mitades de Spearman-Brown de 0,859 antes del estudio. Los grupos no difirieron significativamente en la preprueba, y un ANCOVA que ajustaba por el rendimiento previo mantuvo el efecto de grupo (F(1, 83) = 50,30, p < 0,001, η² parcial = 0,377). Sin asignación aleatoria, la fiabilidad del piloto y la comprobación de equivalencia de línea base son lo que hace interpretable la comparación ajustada.
 
 - **Fortalezas:** la inferencia causal más sólida; una medición limpia de los resultados; permite estimar tamaños del efecto y sostener afirmaciones de eficacia.
@@ -73,6 +74,7 @@ Las encuestas transversales miden actitudes, percepciones, motivación, [[self-e
 - **Limitaciones:** los datos transversales no pueden establecer causalidad; sesgo de método común y de autoinforme; el muestreo por conveniencia limita la generalizabilidad; los mediadores se infieren de la covarianza y no de una manipulación.
 
 El instrumento mismo merece un examen aparte. Lo que un cuestionario, una entrevista o un diario pueden y no pueden establecer, y la brecha documentada entre lo que la gente informa y lo que hace, se recoge en [[self-report-measures]].
+
 - **Ejemplos:** [[acceptance-ai-english-tools-2026]], [[genai-motivation-engagement-2026]], [[ai-autonomous-learning-accomplishment-2026]], [[genai-over-reliance-learning-2026]], [[ai-use-critical-thinking-medical-students-2026]].
 
 ### Métodos cualitativos
@@ -190,6 +192,8 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] añade una línea bibliométrica que se sitúa aparte de estas cuatro: mapea 407 registros mediante redes de co-palabras y co-autoría para trazar el desarrollo conceptual de un campo. El autor explicita que la lectura DAFO construida sobre ello es un dispositivo interpretativo y no una técnica analítica independiente, lo que marca la frontera entre síntesis y análisis en esta tradición.
 
+- **«Una estadística puede confiarse en cuanto se calcula.»** El punto de referencia somete a prueba primero su propia comprobación. Cada sonda y cada veredicto, salvo seis conjuntos de estadísticas con nombre, se ejecutó sobre calificadores simulados con un efecto implantado y sin él, y una medida cuya comprobación no detectó el efecto implantado se informó como no medida en lugar de como resultado. Sus informes se generan a partir de su propio markdown y su propio código, de modo que cada número impreso enlaza con el archivo y el campo de los que procede y se recalcula en la compilación. [[porcaro-ai-grading-benchmark-2026|Un veredicto es una decisión de diseño que se puede poner a prueba]] antes de leer cualquier resultado real.
+
 ## Concepciones erróneas
 
 **«Una exactitud alta en los puntos de referencia demuestra eficacia educativa.»** No lo hace, y la brecha es el problema de medición central del campo: un sistema puede obtener una exactitud alta sin producir aprendizaje, porque la exactitud en el punto de referencia mide el rendimiento en la tarea en las condiciones que fijó el propio punto de referencia. La eficacia educativa exige un resultado de aprendizaje en condiciones que la tecnología no controla.
@@ -248,3 +252,4 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presuntamente eficaz: auditoría de un metaanálisis de AIED defectuoso
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de datos educativos sintéticos
 - [[ai-methodologies-science-education-research-2026]] — Un marco de iteración epistémica en siete fases para reflexionar sobre cómo las metodologías de IA pueden transformar la investigación en educación científica (Martin et al., 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Más allá del acuerdo: sondas cuya respuesta correcta se conoce, comprobaciones de efecto implantado en calificadores simulados y 22 modelos con prompts (Porcaro 2026)

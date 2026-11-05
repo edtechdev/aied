@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo evito que el estudiantado dependa en exceso de la IA?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-28T13:19:13-04:00"
+updated: "2026-11-05T16:18:45-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -45,7 +45,7 @@ La conclusión: el exceso de dependencia es sobre todo un problema de ubicación
 
 **5.** Ajuste el momento de la consigna de reflexión a la fase de la tarea que todavía puede cambiar.
 
-**6.** Mire a quién deja atrás su diseño, por conocimiento previo y no por promedio.
+**6.** Mire a quién deja atrás su diseño, por [[prior-knowledge|conocimiento previo]] y no por promedio.
 
 ## Decida si tiene un problema o solo un uso intenso
 
@@ -63,7 +63,7 @@ Los instrumentos conductuales son más escasos. [[pause-ai-cognitive-offloading-
 
 ## Ponga el intento del estudiante delante de la herramienta
 
-La secuencia probada más clara es "piense primero, ChatGPT después". [[think-first-chatgpt-later-2026|Wong y Qiu (2026)]] asignaron a N = 196 estudiantes a trabajar de forma independiente, a usar ChatGPT libremente o a trabajar en una condición regulada: generar tus propias ideas, colaborar con ChatGPT para mejorarlas y evaluarlas y, después, refinar y entregar de forma independiente una solución. El grupo de uso libre produjo trabajo más creativo en la tarea asistida y volvió a niveles propios del trabajo sin ayuda en una tarea posterior más difícil hecha sin ChatGPT. El grupo regulado no mostró ventaja inmediata y superó a los otros dos grupos en creatividad independiente después.
+La secuencia probada más clara es "piense primero, [[generative-ai|ChatGPT]] después". [[think-first-chatgpt-later-2026|Wong y Qiu (2026)]] asignaron a N = 196 estudiantes a trabajar de forma independiente, a usar ChatGPT libremente o a trabajar en una condición regulada: generar tus propias ideas, colaborar con ChatGPT para mejorarlas y evaluarlas y, después, refinar y entregar de forma independiente una solución. El grupo de uso libre produjo trabajo más creativo en la tarea asistida y volvió a niveles propios del trabajo sin ayuda en una tarea posterior más difícil hecha sin ChatGPT. El grupo regulado no mostró ventaja inmediata y superó a los otros dos grupos en [[creativity|creatividad]] independiente después.
 
 Los datos de las indicaciones explican la diferencia. En el grupo regulado, el 88,6% de las indicaciones fueron colaborativas, y ese fue el único tipo de indicación correlacionado de forma significativa con la originalidad independiente posterior. En el grupo de uso libre, el 70,9% de las indicaciones fueron no colaborativas y el 59,6% simplemente pedían a ChatGPT que generara ideas sin más. La misma herramienta, formulada de dos maneras distintas, produjo dos tipos distintos de estudiante.
 
@@ -79,7 +79,7 @@ Dos detalles de aula deciden si la secuencia se sostiene. El primero es el tiemp
 
 En la práctica, eso significa una IA con salvaguardas en el centro de la tarea, donde las pistas, los ejemplos resueltos y los ítems de práctica hacen el trabajo, y una comprobación asegurada al final. También convierte una política de uso de IA en una regla de ubicación por habilidad, que es más fácil de escribir y de defender que una lista de prohibiciones.
 
-Una pista es una pregunta sobre el siguiente paso del estudiante, un ejemplo resuelto de un problema similar o una indicación del pasaje relevante. Una respuesta es una oración terminada que el estudiante puede pegar. La mayoría de los chatbots de uso general producen la segunda por defecto, en una prosa fluida que se lee como ayuda, y por eso la configuración importa más que las intenciones del estudiante.
+Una pista es una pregunta sobre el siguiente paso del estudiante, un ejemplo resuelto de un problema similar o una indicación del pasaje relevante. Una respuesta es una oración terminada que el estudiante puede pegar. La mayoría de los [[conversational-ai|chatbots]] de uso general producen la segunda por defecto, en una prosa fluida que se lee como ayuda, y por eso la configuración importa más que las intenciones del estudiante.
 
 ## Exija la comprobación y hágalo visible
 
@@ -101,7 +101,7 @@ Elija un error modesto y comprobable, como una cita que no existe, una fecha equ
 
 El producto asistido es un mal indicador de la capacidad, así que al menos un momento calificado tiene que ocurrir sin la herramienta. La tarea posterior sin asistencia de [[think-first-chatgpt-later-2026|Wong y Qiu (2026)]] es esa medición. Su grupo de solo humanos también bajó en el seguimiento más difícil, lo que descarta la versión simple de la solución: retirar la herramienta sin apoyar al aprendiz no es una intervención.
 
-Alternar modos tiene respaldo. PAUSE cita el resultado de la cuarta sesión de Kosmyna et al. (2025), en el que los participantes que trabajaron solo con el cerebro y después usaron ChatGPT rindieron más que los usuarios sostenidos de LLM. La rendición de cuentas también funciona a través de la explicación: Makransky et al. (2025) encontraron que un chatbot tutor que pedía a los estudiantes conectar ideas y explicar su razonamiento produjo mejor rendimiento en la evaluación que la instrucción tradicional.
+Alternar modos tiene respaldo. PAUSE cita el resultado de la cuarta sesión de Kosmyna et al. (2025), en el que los participantes que trabajaron solo con el cerebro y después usaron ChatGPT rindieron más que los usuarios sostenidos de [[llm|LLM]]. La rendición de cuentas también funciona a través de la explicación: Makransky et al. (2025) encontraron que un chatbot tutor que pedía a los estudiantes conectar ideas y explicar su razonamiento produjo mejor rendimiento en la evaluación que la instrucción tradicional.
 
 Para un curso, alterne: trabajo asistido en la práctica, trabajo sin asistencia donde cuenta. Lea la pieza asistida como un registro del rendimiento en buenas condiciones, y la pieza sin asistencia como la evidencia sobre el aprendizaje. Compararlas es además la conversación más útil que puede tener con un estudiante que no entiende una nota.
 
@@ -131,7 +131,7 @@ La redacción de la consigna importa menos que su posición. Antes de una unidad
 
 ## Espere que el riesgo se concentre
 
-[[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]] sitúan el riesgo en el conocimiento previo y en la autorregulación y nombran una **brecha metacognitiva de equidad**: usar bien la IA exige recursos de los que carecen los novatos, así que los estudiantes que más necesitan la práctica son los más propensos a delegar el aprendizaje mismo. Informan de que el 80% del estudiantado australiano ya usa IA y de que lo hace dos tercios del profesorado de los primeros años de secundaria (OCDE 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]] sitúan el riesgo en el conocimiento previo y en la autorregulación y nombran una **brecha metacognitiva de [[equity-in-ai-education|equidad]]**: usar bien la IA exige recursos de los que carecen los novatos, así que los estudiantes que más necesitan la práctica son los más propensos a delegar el aprendizaje mismo. Informan de que el 80% del estudiantado australiano ya usa IA y de que lo hace dos tercios del profesorado de los primeros años de secundaria (OCDE 2025).
 
 La edad y el hábito se correlacionan con el mismo patrón. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] encontró que los participantes de 17 a 25 años mostraban mayor dependencia de la IA y mayor delegación y menor pensamiento crítico que los de 46 años o más, y que el nivel de estudios predecía un mejor pensamiento crítico con independencia del uso de IA (r = +0,34), con una interacción significativa que indica que el nivel de estudios mitiga el efecto negativo. [[genai-over-reliance-learning-2026|Gao, Sun y Khan (2026)]] encontraron que la policronicidad, la tendencia a hacer varias cosas a la vez, modera la vía, con los estudiantes de alta policronicidad en mayor riesgo.
 
@@ -143,27 +143,27 @@ El contexto importa tanto como la persona, y su curso controla una parte del con
 
 Nada en este corpus pone a prueba si una intervención concreta contra el exceso de dependencia se sostiene en distintos contextos o semestres. Pensar primero se apoya en un experimento con N = 196. El resultado de retener las respuestas viene de la síntesis de [[brcic-effortless-trap-productive-struggle-2026|Brcic y Frljic (2026)]], no de un ensayo propio. El argumento de la fricción es un comentario conceptual sin datos nuevos. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] declara los límites del modelo: calidad de IA exógena y estacionaria, una red fija y una verificación estilizada. Estimar los valores reales exigiría rastros longitudinales de las tasas de verificación por tarea, de la fuerza de la prueba social y de cómo se actualiza la confianza tras un uso verificado frente a uno no verificado.
 
-La medición sigue siendo el eslabón más débil. Dominan los diseños de encuesta, y tanto [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] como [[genai-over-reliance-learning-2026|Gao, Sun y Khan (2026)]] piden seguimientos longitudinales y experimentales. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] no tiene psicometría y se construyó para adultos. Que la brecha de equidad pueda cerrarse con instrucción es una hipótesis teórica y no una demostración.
+La medición sigue siendo el eslabón más débil. Dominan los diseños de encuesta, y tanto [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] como [[genai-over-reliance-learning-2026|Gao, Sun y Khan (2026)]] piden seguimientos longitudinales y experimentales. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] no tiene [[educational-measurement|psicometría]] y se construyó para adultos. Que la brecha de equidad pueda cerrarse con instrucción es una hipótesis teórica y no una demostración.
 
 Eso le deja una apuesta razonable, hecha a bajo costo. Cambie una tarea, conserve la medida sin ayuda y compruebe si se estrecha la brecha entre el trabajo asistido y el no asistido. No reconstruya un curso entero con la fuerza de estas cifras.
 
 ## En qué se equivocan los docentes sobre esto
 
-**Los estudiantes que más la usan son los que están en apuros.** La frecuencia es lo que capturan las encuestas y muestran los paneles, y no es el constructo. Un estudiante que comprueba cada respuesta y cita sus materiales puede usar IA a diario y estar bien. Un estudiante que entrega el primer resultado una vez por semana tiene el problema.
+**Los estudiantes que más la usan son los que están en apuros.** La frecuencia es lo que capturan las encuestas y muestran los [[visualization|paneles]], y no es el constructo. Un estudiante que comprueba cada respuesta y cita sus materiales puede usar IA a diario y estar bien. Un estudiante que entrega el primer resultado una vez por semana tiene el problema.
 
 **Una prohibición elimina el riesgo.** Los resultados más fuertes aquí vienen de la ubicación, y el brazo de solo humanos del experimento de Wong y Qiu también bajó en el seguimiento más difícil. Retirar la herramienta sin apoyar al aprendiz deja la dificultad donde estaba.
 
-**Una comprobación más barata arreglará la verificación.** Hacer más fácil la comprobación fue la palanca más débil en el modelo de Biswas, porque el obstáculo es social. Un mejor detector de plagio no hace que un estudiante lea la fuente.
+**Una comprobación más barata arreglará la verificación.** Hacer más fácil la comprobación fue la palanca más débil en el modelo de Biswas, porque el obstáculo es social. Un mejor detector de [[academic-integrity|plagio]] no hace que un estudiante lea la fuente.
 
 **Un panel de uso me dice quién está delegando.** Los ítems de PAUSE registran cuándo y con qué frecuencia entra la IA en un flujo de trabajo, y los propios autores señalan el problema de validez. Un estudiante que construye andamiajes con cuidado puntúa como delegador, así que actuar sobre esas cifras castiga a los estudiantes que usted quiere conservar.
 
 **La fluidez y la satisfacción muestran que el diseño funciona.** Esa es la ilusión que [[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]] describen en su paradoja del rendimiento: el trabajo se siente fluido y los estudiantes rinden bien en el momento mientras retienen menos. El rendimiento sin ayuda y la [[transfer-of-learning|transferencia]] diferida son las medidas que responden a la pregunta.
 
-**Enseñe alfabetización en IA a los estudiantes y el problema desaparece.** [[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]] advierten que invertir en exceso en una alfabetización en IA dirigida al estudiante puede ser una asignación equivocada, dado lo que les falta a los novatos.
+**Enseñe [[ai-literacy|alfabetización en IA]] a los estudiantes y el problema desaparece.** [[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]] advierten que invertir en exceso en una alfabetización en IA dirigida al estudiante puede ser una asignación equivocada, dado lo que les falta a los novatos.
 
 ## Lo que le van a responder
 
-**"Esto es solo buena pedagogía con un nombre nuevo."** En parte. El andamiaje, la retroalimentación formativa y el esfuerzo productivo son ideas antiguas. Lo más nuevo es el orden: la verificación visible superó a la verificación barata, y los dos momentos que merece la pena proteger son el primer intento difícil y la comprobación final sin ayuda. Haga las cosas conocidas en el orden nuevo.
+**"Esto es solo buena [[pedagogy|pedagogía]] con un nombre nuevo."** En parte. El [[scaffolding|andamiaje]], la retroalimentación formativa y el esfuerzo productivo son ideas antiguas. Lo más nuevo es el orden: la verificación visible superó a la verificación barata, y los dos momentos que merece la pena proteger son el primer intento difícil y la comprobación final sin ayuda. Haga las cosas conocidas en el orden nuevo.
 
 **"No puedo vigilarlo."** No puede, y la evidencia dice que no lo intente. La ubicación produjo el resultado más fuerte. Diseñe la tarea de modo que usar la herramienta en el momento equivocado se vea en el propio trabajo, como una respuesta que el estudiante no puede explicar o un paso de verificación que falta.
 
