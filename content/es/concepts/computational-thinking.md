@@ -1,6 +1,5 @@
 ---
 title: Pensamiento computacional
-creatednal
 created: "2026-09-28T19:11:16-04:00"
 updated: "2026-11-05T16:18:45-05:00"
 type: concept
