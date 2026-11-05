@@ -55,7 +55,7 @@ Staff capacity is the recurring constraint in the survey work: 412 academic libr
 
 ## Public access as an AI question
 
-The library's oldest function — providing access that individuals cannot buy — has acquired a new object. The [[public-ai-libraries|Public AI Libraries]] pilot places a shared AI workstation in public libraries, gives each patron a separate account, and charges participating libraries $1,000 per kiosk per year. Whether or not the model spreads, it names the equity argument precisely: in a [[digital-divide|digital divide]] that now runs through AI capability, the library is the institution that can supply shared, staffed access rather than a subscription per person.
+The library's oldest function — providing access that individuals cannot buy — has acquired a new object. The [[public-ai-libraries|Public AI Libraries]] pilot places a shared AI workstation in public libraries, gives each patron a separate account, and charges participating libraries \$1,000 per kiosk per year. Whether or not the model spreads, it names the equity argument precisely: in a [[digital-divide|digital divide]] that now runs through AI capability, the library is the institution that can supply shared, staffed access rather than a subscription per person.
 
 ## What this means for practice
 

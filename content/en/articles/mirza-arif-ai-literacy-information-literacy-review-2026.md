@@ -55,7 +55,7 @@ Eleven US studies and nine countries contributing a single study each is a descr
 
 ## Limitations
 
-- The review is confined to 32 peer-reviewed English-language articles from seven databases covering 2020 to May 2025; other languages, databases and grey literature may hold relevant work.
+- The review is confined to 32 peer-reviewed English-language articles from seven databases covering 2020 to May 2025; other languages, databases and gray literature may hold relevant work.
 - Books, chapters and practice guidelines were excluded, and the authors single out book chapters as a possible source of foundational theory and extended case studies.
 - Methodological immaturity in the included studies — conceptual work and small self-report samples — limits what can be concluded from the synthesis.
 - The review does not claim conceptual saturation and describes its findings as provisional patterns.

@@ -38,7 +38,7 @@ Public libraries that want to host a kiosk (the program takes applications for p
 
 ## Notes and caveats
 
-- Participating libraries contribute **$1,000 per kiosk deployment per year**; the pilot itself is limited to the sites that applied.
+- Participating libraries contribute **\$1,000 per kiosk deployment per year**; the pilot itself is limited to the sites that applied.
 - The privacy statement is the program's claim, not an audited finding; a library should confirm retention and child-safety terms in its own data-processing agreement.
 - The roadmap's second and third phases, letting libraries ingest local archives and govern the resulting systems, are planned rather than shipped.
 
