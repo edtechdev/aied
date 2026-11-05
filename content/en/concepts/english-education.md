@@ -34,7 +34,7 @@ This concept organizes AI [[research-methods-aied|research]] in **English educat
 - **Academic English (EAP):** AI support for the genre-based, discipline-specific English used in higher-education writing, reading, and feedback — distinct from general writing instruction.
 - **English language teaching (EFL/ESL/L2):** [[intelligent-tutoring|AI tutors]], interlocutors, and [[feedback]] tools for learners acquiring English.
 - **English-specific [[assessment]]:** automated evaluation and feedback on English writing and speaking, including EAP writing revision and L2 writing assessment.
-- **Reading and literature readability:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a scalable, data-driven complement to genre-based EAP reading support and reading-level alignment.
+- **Reading and literature [[reading-education|readability]]:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a scalable, data-driven complement to genre-based EAP reading support and reading-level alignment.
 - **Linguistic equity:** the tension between AI's English dominance and the needs of multilingual and World Englishes writers.
 
 ## How English education differs from Language Learning
@@ -98,6 +98,7 @@ A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[l
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

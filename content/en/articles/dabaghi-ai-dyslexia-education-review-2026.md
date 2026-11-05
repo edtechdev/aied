@@ -27,7 +27,7 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Instructors.** Start with low-infrastructure assistive tools ([[speech-and-voice-technologies|text-to-speech]], NLP-based reading and writing support) rather than detection technologies: EEG and eye-tracking approaches show diagnostic promise but require specialized equipment and controlled environments, which limits their [[accessibility]] in ordinary school settings.
+- **Instructors.** Start with low-infrastructure assistive tools ([[speech-and-voice-technologies|text-to-speech]], NLP-based [[reading-education|reading]] and writing support) rather than detection technologies: EEG and eye-tracking approaches show diagnostic promise but require specialized equipment and controlled environments, which limits their [[accessibility]] in ordinary school settings.
 - **Instructors.** Evaluate any AI tool with your own learners before adopting it. The reviewed studies foreground classification accuracy and technical performance while overlooking ecological validity and classroom deployment, so vendor accuracy figures do not establish that a tool works in a real class.
 - **Researchers.** Prioritize longitudinal, classroom-based evaluations with shared [[benchmark|benchmarks]] and standardized reporting practices; the authors state that heterogeneous methodologies, evaluation protocols, and outcome measures across the 72 studies prevent quantitative synthesis.
 - **Designers.** Localize rather than translate: most research in the corpus targets English-speaking populations, and the review lists language and cultural barriers as an open challenge for learners with [[special-education|specific learning disorders]].

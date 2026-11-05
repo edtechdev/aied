@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 227
+**Total concepts:** 228
 
 ## Foundations of AI in education
 
@@ -188,6 +188,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
 - **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula
 - **`physics-education`** — Physics Education — phrases: physics; physics education; physics teaching
+- **`reading-education`** — Reading Education — phrases: reading assessment; reading comprehension; reading education; reading instruction; reading motivation; readability; text readability
 - **`science-education`** — Science Education — phrases: science classrooms; science education; science inquiry; science learning; science teaching
 - **`statistics-and-data-science-education`** — Statistics and Data Science Education — phrases: data science education; statistics and data science education; statistics education; statistical literacy; data literacy
 - **`stem-education`** — STEM Education — phrases: stem; stem education

@@ -1606,6 +1606,16 @@ concepts:
     - randomized trial
     - rct
     - rcts
+  reading-education:
+    title: Reading Education
+    aliases:
+    - reading assessment
+    - reading comprehension
+    - reading education
+    - reading instruction
+    - reading motivation
+    - readability
+    - text readability
   recommender-systems-and-learning-paths:
     title: Recommender Systems and Learning Paths
     aliases:
@@ -2342,6 +2352,7 @@ sections:
     - writing-education
     - language-learning
     - english-education
+    - reading-education
     - environmental-education
     - business-education
     - humanities-education

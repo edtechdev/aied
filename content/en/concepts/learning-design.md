@@ -47,7 +47,7 @@ What that design work involves in practice is itself an empirical question. [[ta
 
 The Aila trial puts a planning-time number on that pattern. Teachers in its randomized primary schools spent 2.51 hours a week preparing lessons with the tool against 3.32 hours without it, yet the median teacher planned only 21% to 40% of lessons from scratch, which is the case a from-scratch tool addresses ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
-Where generated materials fall short is curriculum fit: seven math teachers rated AI-generated [[productive-failure]] problems close to human ones on overall quality (M = 17.19 vs 17.43 of 25) but lower on curriculum alignment (M = 2.57 vs 3.29), so generated problems still needed editing for length, reading level, and visuals ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
+Where generated materials fall short is curriculum fit: seven math teachers rated AI-generated [[productive-failure]] problems close to human ones on overall quality (M = 17.19 vs 17.43 of 25) but lower on curriculum alignment (M = 2.57 vs 3.29), so generated problems still needed editing for length, [[reading-education|reading level]], and visuals ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
 
 Prose quality is the other shortfall, and it is not the same as reading level. Clark et al. (2026) show that model output over-uses constructions with known comprehension costs — low-frequency n-grams, stacked nouns, denominal verbs, long dependencies, reduced object relatives — compared with meaning-preserving paraphrases and human baselines, so AI-written explanations and readings need an editing pass that a grade-level formula will not catch ([[clark-ai-generated-language-readability-2026]]).
 
