@@ -8,23 +8,23 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub",
-      "bytes": 2869455
+      "bytes": 2960901
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf",
-      "bytes": 7833400
+      "bytes": 8118543
     },
     "llms": {
       "url": "/aied/llms.txt",
-      "bytes": 1282590
+      "bytes": 1329593
     },
     "llmsConcepts": {
       "url": "/aied/llms-concepts.txt",
-      "bytes": 4010173
+      "bytes": 4163403
     },
     "llmsFull": {
       "url": "/aied/llms-full.txt",
-      "bytes": 21002384
+      "bytes": 21945053
     }
   },
   "es": {
@@ -156,11 +156,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "ar": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.epub",
-      "bytes": 3399908
+      "bytes": 3383374
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.pdf",
-      "bytes": 9577097
+      "bytes": 9976294
     },
     "llms": {
       "url": "/aied/llms.ar.txt",
@@ -174,11 +174,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "he": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.epub",
-      "bytes": 3137241
+      "bytes": 3129012
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.pdf",
-      "bytes": 7404904
+      "bytes": 7829481
     },
     "llms": {
       "url": "/aied/llms.he.txt",
@@ -282,11 +282,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "ur": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ur.epub",
-      "bytes": 3451648
+      "bytes": 3455827
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ur.pdf",
-      "bytes": 9175232
+      "bytes": 9627178
     },
     "llms": {
       "url": "/aied/llms.ur.txt",

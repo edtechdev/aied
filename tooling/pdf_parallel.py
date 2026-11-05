@@ -300,7 +300,7 @@ def assemble_body_html(md_path: str, out_html: str, *,
 
 
 def build_pdf_parallel(md_path: str, out_pdf: str, *,
-                       chunks: int = 8, lang: str = 'en',
+                       chunks: int = 8, lang: str = 'en', text_dir: str = 'ltr',
                        title: str = '', css_files: Sequence[str] = (),
                        extra_css: str = '', pre_html: str = '',
                        tmpdir: str = 'dist') -> dict:
@@ -365,9 +365,9 @@ def build_pdf_parallel(md_path: str, out_pdf: str, *,
         css += '\n' + extra_css
     html_path = os.path.join(tmpdir, 'pdf-assembled.html')
     with open(html_path, 'w', encoding='utf-8') as f:
-        f.write('<!DOCTYPE html>\n<html lang="%s">\n<head>\n<meta charset="utf-8">\n'
+        f.write('<!DOCTYPE html>\n<html lang="%s" dir="%s">\n<head>\n<meta charset="utf-8">\n'
                 '<title>%s</title>\n<style>\n%s\n</style>\n</head>\n<body>\n'
-                % (lang, title, css))
+                % (lang, text_dir, title, css))
         f.write('\n'.join(body))
         f.write('\n</body>\n</html>\n')
     timings['assemble'] = time.time() - t0

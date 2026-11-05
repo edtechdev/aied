@@ -107,11 +107,24 @@ OFFLINE_TITLE = LOCALE_ENTRY.get('offlineTitle') or ''
 BOOK_TITLE = (OFFLINE_TITLE if (not IS_DEFAULT and OFFLINE_TITLE)
               else (NAME if IS_DEFAULT else f'{NAME} ({LOCALE_LABEL})'))
 BOOK_LANG = LOCALE
-# The Notice page's own <style>. A translated edition names a CJK fallback so its
-# Chinese does not fall back per-platform; the default edition keeps Georgia alone,
-# so its bytes never move.
-NOTICE_FONT = ("Georgia, 'Noto Serif CJK SC', 'Noto Sans CJK SC', serif"
-               if not IS_DEFAULT else "Georgia, serif")
+# Right-to-left locales. Both offline editions have to carry the direction
+# explicitly: without it an Arabic or Hebrew book pages left-to-right (the spine
+# runs as if it were English) and every paragraph hugs the wrong margin, with
+# leading punctuation landing at the wrong end of the line.
+RTL_LOCALES = {'ar', 'he', 'ur', 'fa', 'yi', 'dv', 'ps', 'sd'}
+IS_RTL = LOCALE in RTL_LOCALES
+# The Notice page's own <style>. A translated edition names a fallback so its
+# script does not resolve per-platform: a CJK stack for the CJK locales, and a
+# Hebrew/Arabic stack for the right-to-left ones, whose scripts the CJK faces do
+# not carry at all. The default edition keeps Georgia alone, so its bytes never
+# move.
+if IS_RTL:
+    NOTICE_FONT = ("Georgia, 'Noto Naskh Arabic', 'Noto Serif Hebrew', 'FreeSans', "
+                   "'Arial Hebrew', serif")
+elif not IS_DEFAULT:
+    NOTICE_FONT = "Georgia, 'Noto Serif CJK SC', 'Noto Sans CJK SC', serif"
+else:
+    NOTICE_FONT = "Georgia, serif"
 
 # The site's name as the locale writes it (the book's own title when the locale
 # has one), so the notice prose reads in the locale throughout rather than
@@ -1416,7 +1429,23 @@ def build_epub():
     # only Georgia — which has no Han glyphs, so readers fall back per-platform and the
     # Chinese renders as boxes on any device without its own CJK fallback. Appending an
     # explicit CJK stack fixes every translated edition at once.
-    script_rule = '' if IS_DEFAULT else """
+    if IS_DEFAULT:
+        script_rule = ''
+    elif IS_RTL:
+        # Arabic and Hebrew resolve through a Naskh/Hebrew face. The CJK stack
+        # below carries no glyphs for either script, so an RTL edition that got
+        # it would fall back per device (and render as boxes where the device
+        # has no Arabic or Hebrew font at all).
+        script_rule = """
+/* ===== Script font stack (right-to-left editions) ===== */
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, li, td, th {
+  font-family: Georgia, 'Noto Naskh Arabic', 'Noto Serif Hebrew', 'FreeSans',
+               'Arial Hebrew', 'Times New Roman', serif;
+}
+"""
+    else:
+        script_rule = """
 /* ===== Script font stack (translated editions) ===== */
 
 /* Latin keeps Georgia; Han glyphs resolve to Noto CJK, which every mainstream reader
@@ -1445,6 +1474,25 @@ nav#toc > ol > li > a {
 /* Second-level (group) labels: medium bold. */
 nav#toc > ol > li > ol > li > a { font-weight: 600; }
 """
+    # Direction comes last so it wins over the left-alignment rule above: an RTL
+    # edition whose TOC hugged the left margin would read as a broken page.
+    rtl_rule = '' if not IS_RTL else """
+/* ===== Reading direction (right-to-left editions) ===== */
+
+/* The direction belongs on the document, not on individual paragraphs. Without
+   it the text still prints right-to-left character by character, but each
+   paragraph starts at the left margin and any punctuation leading the line ends
+   up at the wrong end. */
+html, body { direction: rtl; }
+body, p, li, dd, dt, blockquote, h1, h2, h3, h4, h5, h6, td, th { text-align: right; }
+nav#toc, nav#toc * { text-align: right !important; direction: rtl; }
+
+/* Latin runs — code, URLs, the license sentence — keep their own order. */
+code, pre, samp, kbd, .latin, a[href^="http"] {
+  direction: ltr; unicode-bidi: isolate; text-align: left;
+}
+"""
+    css_rule = css_rule + rtl_rule
 
     def number_toc(nav_html):
         """Inject hard-coded hierarchical numbers (1 / 1.1 / 1.2.1) into every
@@ -1622,6 +1670,21 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                                new_cover, text, flags=_re.S)
                 data = text.encode('utf-8')
             # (no more Back-to-Contents injection into chapter files)
+            # Direction for the RTL editions, applied after the per-file work
+            # above so it also covers the title page, the notice page and the
+            # cover this script generates itself. The OPF spine carries the
+            # paging direction (without it a reader advances left-to-right
+            # through a book that reads right-to-left, so every swipe lands in
+            # the wrong place), and each document carries dir="rtl" so
+            # paragraphs and leading punctuation start at the right margin.
+            if IS_RTL and item.filename.endswith(('.xhtml', '.opf')):
+                text = data.decode('utf-8', errors='ignore')
+                if item.filename.endswith('.opf'):
+                    text = _re.sub(r'<spine(?![^>]*page-progression-direction)([^>]*?)>',
+                                   r'<spine\1 page-progression-direction="rtl">', text, count=1)
+                else:
+                    text = _re.sub(r'<html(?![^>]*\bdir=)', '<html dir="rtl"', text, count=1)
+                data = text.encode('utf-8')
             zout.writestr(item, data)
     shutil.move(tmp, OUT)
     print(f"Built {OUT} ({os.path.getsize(OUT)} bytes)")
@@ -1733,11 +1796,23 @@ def build_pdf():
         # document (front matter + title block + TOC + body fragments) so the
         # TOC, internal links and page numbering stay continuous, then let
         # weasyprint paginate it exactly once.
+        # An RTL edition needs the direction on the document and the page number
+        # on the other margin: the print stylesheet puts it bottom-right, which
+        # in a right-to-left book is the "wrong" side of every page.
+        rtl_css = '' if not IS_RTL else (
+            'html, body { direction: rtl; }\n'
+            'body, p, li, dd, dt, blockquote, h1, h2, h3, h4, h5, h6, td, th { text-align: right; }\n'
+            'code, pre, samp, kbd { direction: ltr; unicode-bidi: isolate; text-align: left; }\n'
+            '@page { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
+            ' @bottom-right { content: none; } }\n'
+            '@page notice { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
+            ' @bottom-right { content: none; } }\n')
         t = pdf_parallel.build_pdf_parallel(
             pdf_md, PDF_OUT, chunks=PARALLEL_CHUNKS, lang=BOOK_LANG,
+            text_dir='rtl' if IS_RTL else 'ltr',
             title=BOOK_TITLE,
             css_files=[PDF_CSS] + [a.split('=', 1)[1] for a in PDF_CSS_ARGS[1:]],
-            extra_css='h3.conceptpage { break-before: page; }\n',
+            extra_css='h3.conceptpage { break-before: page; }\n' + rtl_css,
             pre_html=pre_html, tmpdir=os.path.join(WIKI, 'dist'))
         print('parallel pdf timings: ' +
               ', '.join(f'{k} {v:.1f}s' for k, v in t.items()))
