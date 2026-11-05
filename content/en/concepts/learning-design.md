@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-05T01:53:02-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-05"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,8 @@ What that design work involves in practice is itself an empirical question. [[ta
 The Aila trial puts a planning-time number on that pattern. Teachers in its randomized primary schools spent 2.51 hours a week preparing lessons with the tool against 3.32 hours without it, yet the median teacher planned only 21% to 40% of lessons from scratch, which is the case a from-scratch tool addresses ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 Where generated materials fall short is curriculum fit: seven math teachers rated AI-generated [[productive-failure]] problems close to human ones on overall quality (M = 17.19 vs 17.43 of 25) but lower on curriculum alignment (M = 2.57 vs 3.29), so generated problems still needed editing for length, reading level, and visuals ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
+
+Prose quality is the other shortfall, and it is not the same as reading level. Clark et al. (2026) show that model output over-uses constructions with known comprehension costs — low-frequency n-grams, stacked nouns, denominal verbs, long dependencies, reduced object relatives — compared with meaning-preserving paraphrases and human baselines, so AI-written explanations and readings need an editing pass that a grade-level formula will not catch ([[clark-ai-generated-language-readability-2026]]).
 
 **Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step [[prompt-engineering|prompting]] framework grounded in Generative [[learning-theories|Learning Theory]] significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
 

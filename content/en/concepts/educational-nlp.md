@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-11-05T01:53:02-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -29,6 +29,7 @@ Natural language processing in education applies computational methods to the la
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
 - **Readability and [[curriculum-design|curriculum]] alignment.** Bird (2026) fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a data-driven complement to [[vocabulary-difficulty-prediction]] and [[llm-item-difficulty-prediction]] for [[educational-measurement]] and reading-level alignment.
+- **Generated text carries its own readability burden.** Clark et al. (2026) find that recent models over-use constructions the processing literature associates with comprehension cost — low-frequency n-grams, stacked nouns, denominal verbs, long dependencies, reduced object relatives — relative to their own meaning-preserving paraphrases and to genre-matched human baselines, and trace the pattern to post-training that rewards information density rather than clarity ([[clark-ai-generated-language-readability-2026]]). Measuring text difficulty therefore applies to what the model writes, not only to the learner-facing text it is asked to simplify.
 - **Semantic similarity is a weak signal for curriculum alignment.** Screening 3,837 dental objective–abstract pairs, embedding retrieval plus a natural language inference check judged 22.9% of high-similarity matches (cosine 0.90–1.00) neutral or contradictory and lifted expert-labeled accuracy from 0.69 to 0.73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **Discourse-level classification localizes what surface features miss.** A BERT model fine-tuned on only its last four transformer layers classifies adjacent sentence pairs as causal, contrastive, progressive or incoherent and emits the breakpoint as a diagnostic, reaching a mean F1 of at least 0.891 on 28,736 sentence pairs ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
