@@ -60,6 +60,7 @@ The same batch surfaced the classic subagent artifacts in freshly delegated page
 - broken reference slugs (`[[professional-development]]`, `[[autonomy]]`,
   `[[decision-making]]`) → retarget to nearest real page
   (`faculty-development`, `self-directed-learning`, `human-in-the-loop-ai`).
-- same-text pipes `[[x|x]]` → collapse to `[[x]]`.
+- identity pipes `[[x|x]]` are CORRECT when they hold sentence case (a bare link prints the
+  page's Title Case title); only a label equal to that title is redundant.
 Run the independent sweep (see `delegation-output-verification` skill) over ALL
 delegated files before build; do not trust subagent "verified" claims.

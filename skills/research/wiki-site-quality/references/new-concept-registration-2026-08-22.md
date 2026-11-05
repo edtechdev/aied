@@ -46,11 +46,12 @@ difficulties): `'desirable-difficulties': ['desirable difficulties', 'desirable 
 
 ## Same-text link pitfall when writing new pages
 
-When authoring new narrative body, it's easy to emit `[[slug|slug]]` (same text both sides) —
-the scanner flags it. Common cause: writing a link with an explicit display label that equals the
-slug. Fix to plain `[[slug]]` when the label is identical. Always run the inline-link integrity
-check (self-links, same-text, broken, heading, unbalanced brackets) on newly written pages BEFORE
-build — a green build does not catch structural link defects.
+When authoring new narrative body, it's easy to emit `[[slug|slug]]` (same text both sides) — and
+that is usually CORRECT: the renderer's bare-link fallback is the target's Title Case title, so the
+pipe is how prose keeps a word lowercase. Do not "fix" it by dropping the label; the page then reads
+"Open Source" mid-sentence. The redundant form is a label identical to that title. Always run the
+inline-link integrity check (self-links, broken targets, headings, unbalanced brackets) on newly
+written pages BEFORE build — a green build does not catch structural link defects.
 
 ## Verification
 

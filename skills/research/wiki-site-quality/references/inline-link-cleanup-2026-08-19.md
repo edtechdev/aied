@@ -15,8 +15,9 @@ inline linking, including conceptually-similar phrasing, not just exact-name mat
    (15 article pages had these, e.g. `critical-thinking-biological-sciences-ai-2025`).
    Body self-links also appear (e.g. `[[learning-gains]]` on the learning-gains page,
    `[[educational-policy-ai|policy]]` on the educational-policy-ai page).
-3. **Same-text pipe links** `[[slug|slug]]` (identical anchor and slug) — ugly;
-   simplify to plain `[[slug]]`, and prefer a natural piped display like
+3. **Piped display where the bare form is wrong** — `[[slug|slug]]` is usually deliberate (a bare
+   link prints the target's Title Case title, so the pipe holds a lowercase word); only a label equal
+   to that title is redundant. Prefer a natural piped display when the sentence needs one, like
    `[[active-learning|active-learning methods]]`.
 
 A multi-line body rewrite can also merge the closing frontmatter `---` into the
@@ -46,7 +47,7 @@ synthesis blockquote (dropping the newline), breaking YAML — always split/rewr
 
 ## Post-pass verification (run on every touched file)
 - No `[[]]` inside headings.
-- No `[[slug|slug]]` same-text links.
+- No redundant pipes (a label identical to the target's Title Case title). `[[slug|slug]]` is fine — bare links print the page title.
 - No self-links (regex `[[<own-slug>` anywhere).
 - No nested `[[` `[[`.
 - Balanced `[[`/`]]` counts.

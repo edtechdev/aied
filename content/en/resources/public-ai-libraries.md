@@ -1,7 +1,7 @@
 ---
 title: "Public AI Libraries"
 created: "2026-11-05T02:58:35-05:00"
-updated: "2026-11-05T02:58:35-05:00"
+updated: "2026-11-05T07:06:00-05:00"
 type: resource
 summary: "A 2025–2026 national pilot that puts a shared Public AI workstation in US public libraries — chat, image, music and video generation, a code IDE and an educational guide — with a private account for each patron."
 url: https://libraries.publicai.co/
@@ -26,7 +26,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 ---
-**Public AI Libraries** is a 2025–2026 national pilot that puts a shared AI workstation, called a kiosk, into public libraries across the United States. It is a partnership of the Library of Congress, Metagov and Public Knowledge, joined by the Utah and New Jersey state libraries; eight libraries in five states were running a kiosk when the program page was last read. The premise is provisioning rather than training: the [[digital-divide|library supplies the access]] that individual patrons cannot buy, in a staffed place where someone can help.
+**Public AI Libraries** is a 2025–2026 national pilot that puts a shared AI workstation, called a kiosk, into [[libraries|public libraries]] across the United States. It is a partnership of the Library of Congress, Metagov and Public Knowledge, joined by the Utah and New Jersey state libraries; eight libraries in five states were running a kiosk when the program page was last read. The premise is provisioning rather than training: the [[digital-divide|library supplies the access]] that individual patrons cannot buy, in a staffed place where someone can help.
 
 ## What you can do with it
 
@@ -44,6 +44,7 @@ Public libraries that want to host a kiosk (the program takes applications for p
 
 ## Connected Concepts
 
+- [[libraries]]
 - [[digital-divide]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
