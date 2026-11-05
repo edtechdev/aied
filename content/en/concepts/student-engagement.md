@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-05T09:35:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -55,6 +55,8 @@ That [[scaffolding]] has an institutional counterpart with a dual pathway. [[gai
 - **Reply latency is an engagement lever.** In 1,137 Quantitative [[intelligent-tutoring|AI tutoring]] sessions, faster replies tracked with more student messages and more correct practice (median reply time 1.9 s to 31.0 s across models; lower latency correlating with engagement at Spearman ρ=-0.81, p=.0056). The authors read that chain as explaining how models that score unremarkably on teaching quality still reach human-level gains ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 - **AI use can travel with greater class absenteeism while confidence does not predict it.** A PLS-SEM survey of 291 Portuguese university students found general AI use positively associated with absenteeism (β = 0.148, f² = 0.029) and with [[self-efficacy]] for independent learning, yet self-efficacy itself did not predict absenteeism (β = −0.068, p = 0.276) — the paper's "confident but absent" pattern. The attendance association was modest and secondary to peer influence (β = 0.510, f² = 0.326) and time management (β = −0.163), and because the AI-use construct was unidimensional and mixed support-oriented with substitution-oriented items, the study cannot separate complementary from substitutive use or establish direction ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
+
+- **Engagement, flow and emotional intelligence grew together in AI-assisted music classes.** Five waves across a semester with 850 undergraduates showed mean growth in all three, with slope correlations of 0.39 between engagement and flow and 0.22 between engagement and emotional intelligence; growth in flow carried the link to emotional intelligence ([[zhang-tang-ai-music-classroom-engagement-longitudinal-2026|Zhang & Tang, 2026]]).
 
 ### Measuring engagement: the metric-choice problem
 

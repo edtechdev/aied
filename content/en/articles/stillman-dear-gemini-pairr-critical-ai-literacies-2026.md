@@ -32,17 +32,11 @@ verified: [citation, numbers, links]
 ## Key Findings
 
 1. **Students mostly put the chatbot at the periphery of their writing process.** The authors' central pattern — consistent across courses and student backgrounds — is that students treated chatbot feedback as advisory and supplementary rather than authoritative, a positioning the paper reads through van Lier's writing ecology and Cooper's ecology of writing. Feedback remained a triangulated practice among peers, instructors, and self-review.
-
 2. **The role vocabulary splits, and the split is the evidence.** In the 2024 [[reflection|reflections]], tutor (28.6 percent) and collaborator (23.1 percent) accounted for most of those who accepted the prompt's anthropomorphic options; 9.9 percent called it a tool or resource, 7.7 percent compared it to friends or peers, 7.7 percent to a robot or computer, 6.6 percent to instructors, 3.3 percent invented a critic/writer schema, 2.2 percent to mentors or advisors, 2.2 percent to an assistant, 1.1 percent to a "friendly expert," and 7.7 percent fell under other.
-
 3. **Naming the machine as a machine is treated as a literacy outcome, not a deficit.** Students who called the chatbot "still just a program" or "a computer giving me advice" are read as holding the more developed position, and the authors note that low-stakes, nonjudgmental machine feedback can be a benefit for students anxious about human readers.
-
 4. **One student's invented metaphor does more analytic work than any category.** A student described the chatbot as "somewhere in between a vending machine of feedback and a part-time tutor" — "you slip in a currency note (in this case your data) and out comes your feedback." The authors unpack five features of the analogy (comprehensible, impersonal, transactional, nonagentive, supplemental) and treat it as a lesson in the political economy of "free" tools.
-
 5. **The marketing frame the paper is arguing against is concrete.** The authors open on Google's pulled "Dear Sydney" Olympics ad, in which a father prompts Gemini to write his daughter's fan letter while her voice is never heard, and read it as a model of the domineering relation between text generator and writer that [[writing-education|educational writing instruction]] has to counter.
-
 6. **The academic-integrity results are modest and honestly bounded.** In the small writing-intensive courses four of the authors taught in 2024 and 2025 there were no cases of suspected AI-related violations that required formal reporting, and the few incidents resolved in office-hour conversations. The authors state plainly that PAIRR does not eliminate dishonesty and that they have not formally assessed misuse.
-
 7. **The 2025 wave switched to Claude and produced signs of [[transfer-of-learning|transfer]].** The authors cite one student who arrived [[trust-calibration|trusting]] Claude more than peers, then found the trust fading as peer reviewers demonstrated competence, and another who concluded that AI "removes the voice from my paper" and could be used for feedback instead of editing.
 
 ## What PAIRR actually is, procedurally

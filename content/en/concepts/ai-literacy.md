@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T18:35:00-05:00"
+updated: "2026-11-05T09:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -202,6 +202,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI [[self-efficacy]] and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and [[self-regulated-learning]] scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
 - **Verification habits pay off only through regulation.** In [[davor-ai-supported-learning-higher-order-outcomes-2026|Davor, Larbi and Boateng (2026)]]'s survey of 533 university students in Ghana, AI verification literacy had no significant direct effect on [[critical-thinking|critical thinking]] (beta = .076, p = .090) or technical [[problem-solving]] (beta = .043, p = .385) and mattered only through [[metacognition|metacognitive self-regulation]] (beta = .167, p < .001), a full mediation the authors call metacognitive activation. AI task scaffolding predicted both outcomes (beta = .185 and .170), while [[cognitive-offloading|cognitive offloading]] tendency predicted them negatively (beta = -.240 and -.312) and depressed regulation as well (beta = -.294). Teaching students to check AI output is therefore not enough on its own: evaluative habits need planning, monitoring and reflection built into the task.
+
+- **In engineering tasks, verification frequency tracks performance directly.** [[liu-perceived-demonstrated-genai-literacy-engineering-2026|Liu, Zhang and Pan (2026)]] found reported checking associated with task performance (beta = 0.400) across 1,206 mechanical engineering students. Their self-rating of the same literacy shared about 7% of its variance with a scenario test (r = 0.265), and the students who rated themselves most literate got the least from checking.
 
 - **Literacy reaches problem solving through cognitive moves, not through tool access.** A time-separated three-wave survey of 784 students at six Guangdong higher vocational colleges put AI literacy's total association with self-rated [[problem-solving|complex problem solving]] at 0.480: 0.248 direct and 0.232 indirect, split 0.151 through systematic thinking and 0.081 through cognitive load ([[huang-ai-literacy-vocational-problem-solving-2026|Huang et al. (2026)]]). Perceived school ICT support moderated both routes (interactions 0.128 and −0.352), carrying the conditional indirect effects from 0.117 to 0.176 and from 0.038 to 0.127 in a [[self-report-measures|self-report]] survey, not a trial.
 
