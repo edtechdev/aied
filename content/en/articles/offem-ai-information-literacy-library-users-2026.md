@@ -61,6 +61,7 @@ That asymmetry is worth naming. The paper argues that AI should be folded into i
 - The conclusion contains at least one overreach — that the paper "demonstrates" AI can enhance engagement and learning outcomes — which the design cannot support.
 - No country, institution or library context is specified, so the recommendations are not tied to a setting or a resource level.
 - No DOI is printed; the article is identified by its journal and volume only.
+- The reference list contains at least two verified misattributions: the 2024 review it credits to Long and Magerko is Pinski and Benlian's, and Ng et al.'s "Conceptualizing AI literacy" is dated 2024 in an education-technology journal when it appeared in 2021 in *Computers and Education: Artificial Intelligence*. Several other citations are unrelated to the sentences they support.
 
 ## Connected Concepts
 
