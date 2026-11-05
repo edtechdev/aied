@@ -1240,14 +1240,19 @@ concepts:
     - interpreting and applying aied research
     - research translation
     - research-to-practice
-  information-literacy:
-    title: Information Literacy
+  information-and-media-literacy:
+    title: Information and Media Literacy
     aliases:
+    - critical media literacy
+    - digital media literacy
     - information literacy
     - information literacy instruction
-    - information skills
     - information seeking
+    - information skills
     - library instruction
+    - media education
+    - media literacy
+    - news literacy
     - search skills
     - source evaluation
   information-technology:
@@ -1275,14 +1280,6 @@ concepts:
     - TVET
     - technical and vocational education and training
     - vocational colleges
-  media-literacy:
-    title: Media Literacy
-    aliases:
-    - critical media literacy
-    - digital media literacy
-    - media education
-    - media literacy
-    - news literacy
   medical-education:
     title: Medical and Health Professions Education
     aliases:
@@ -2214,8 +2211,7 @@ sections:
     items:
     - ai-education
     - ai-literacy
-    - information-literacy
-    - media-literacy
+    - information-and-media-literacy
     - agentic-ai
     - cognitive-offloading
     - cognitive-surrender
@@ -2514,6 +2510,8 @@ sections:
     - sustainability
     - pedagogical-safety
 redirects:
+  information-literacy: information-and-media-literacy
+  media-literacy: information-and-media-literacy
   pedagogical-llm-training: llm-training-and-fine-tuning
   evaluative-judgement: evaluative-judgment
   ai-anxiety-and-stress: anxiety-and-stress

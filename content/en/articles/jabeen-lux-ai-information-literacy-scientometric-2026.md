@@ -5,7 +5,7 @@ updated: "2026-11-05T04:05:00-05:00"
 type: article
 published: "2026-03-18"
 discipline: [library and information science]
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm]
 methods: [quantitative-research]
 research_method: [bibliometric]
@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Jabeen and Lux map the literature that joins AI and [[information-literacy|information literacy]] in academic libraries, drawing 1,669 publications from five databases covering 2020 to 2025 and analyzing them with CiteSpace and VOSviewer. The map shows a field anchored on information literacy rather than displaced by it — 811 keyword occurrences against 413 for libraries and 301 for librarians — with AI, ChatGPT and generative AI layered on as the fast-rising terms. Output is concentrated in a small set of library journals and dominated by the United States, with 179 publications against 30 for Australia, 21 for Pakistan and 20 for China. Author co-citation resolves into three discourses with no unified model, and the authors are explicit that citation visibility is not evidence of changed library practice.
+> **Synthesis:** Jabeen and Lux map the literature that joins AI and [[information-and-media-literacy|information literacy]] in academic libraries, drawing 1,669 publications from five databases covering 2020 to 2025 and analyzing them with CiteSpace and VOSviewer. The map shows a field anchored on information literacy rather than displaced by it — 811 keyword occurrences against 413 for libraries and 301 for librarians — with AI, ChatGPT and generative AI layered on as the fast-rising terms. Output is concentrated in a small set of library journals and dominated by the United States, with 179 publications against 30 for Australia, 21 for Pakistan and 20 for China. Author co-citation resolves into three discourses with no unified model, and the authors are explicit that citation visibility is not evidence of changed library practice.
 
 ## Key Findings
 
@@ -63,7 +63,7 @@ Nigeria, South Africa, Pakistan, Bangladesh and Malaysia appear in the top ten b
 
 ## Connected Concepts
 
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[libraries]]
 - [[ai-literacy]]
 - [[librarians]]

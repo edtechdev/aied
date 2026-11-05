@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 231
+**Total concepts:** 230
 
 ## Foundations of AI in education
 
@@ -17,9 +17,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`cognitive-surrender`** — Cognitive Surrender — phrases: ai surrender; cognitive surrender; surrender; surrender of judgment; surrender of judgement; surrender to ai
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
-- **`information-literacy`** — Information Literacy — phrases: information literacy; information literacy instruction; information skills; information seeking; library instruction; search skills; source evaluation
+- **`information-and-media-literacy`** — Information and Media Literacy — phrases: critical media literacy; digital media literacy; information literacy; information literacy instruction; information seeking; information skills; library instruction; media education; media literacy; news literacy; search skills; source evaluation
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design
-- **`media-literacy`** — Media Literacy — phrases: critical media literacy; digital media literacy; media education; media literacy; news literacy
 - **`reducing-ai-misuse`** — Reducing AI Misuse — phrases: ai misuse prevention; AI misuse reduction; mitigating AI misuse; preventing AI misuse; reduce ai misuse; reducing ai misuse
 - **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`teacher-role`** — Teaching — phrases: educator role; educators; faculty; instructor; instructors; role of educators; teacher; teacher agency; teacher role; teachers; teaching role
@@ -342,7 +341,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - `feedback-loop` → **`feedback`**
 - `gamification` → **`game-based-learning`**
 - `human-robot-interaction` → **`educational-robotics`**
+- `information-literacy` → **`information-and-media-literacy`**
 - `instructional-design` → **`learning-design`**
+- `media-literacy` → **`information-and-media-literacy`**
 - `mooc` → **`online-teaching-and-learning`**
 - `over-reliance` → **`cognitive-offloading`**
 - `pedagogical-llm-training` → **`llm-training-and-fine-tuning`**

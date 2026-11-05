@@ -5,7 +5,7 @@ updated: "2026-11-05T04:10:00-05:00"
 type: article
 published: "2026-01-01"
 discipline: [library and information science]
-foundations: [information-literacy]
+foundations: [information-and-media-literacy]
 technology: [generative-ai, llm, conversational-ai]
 methods: [quantitative-research]
 research_method: [survey]
@@ -65,7 +65,7 @@ Within that limit the instrument is unusually transparent. It adapts items from 
 
 ## Connected Concepts
 
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[libraries]]
 - [[librarians]]
 - [[generative-ai]]

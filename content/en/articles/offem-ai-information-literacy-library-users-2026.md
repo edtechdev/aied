@@ -5,7 +5,7 @@ updated: "2026-11-05T04:20:00-05:00"
 type: article
 published: "2026-06-30"
 discipline: [library and information science]
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm]
 research_method: [position paper]
 audience: [librarians, administrators]
@@ -20,7 +20,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Offem and Arikpo argue that [[information-literacy|information literacy]] instruction is no longer sufficient on its own, because users now face machine-generated content at a scale that manual search-and-evaluate skills cannot address, and that [[ai-literacy|AI]] should therefore be treated as an instrument for *delivering* information literacy rather than only as a new topic to teach about. Their proposal runs through intelligent retrieval, personalized and adaptive learning, chatbots and virtual reference, and automated fact-checking, each carrying part of the instructional load and extending support to remote users. The same technologies, they concede, produce fabricated references, dataset bias, privacy loss, a wider [[digital-divide|digital divide]] and passive dependence on machine output. Their resolution is to fold AI literacy into information literacy as a complementary component, with [[librarians|librarians]] rather than technologists leading the integration.
+> **Synthesis:** Offem and Arikpo argue that [[information-and-media-literacy|information literacy]] instruction is no longer sufficient on its own, because users now face machine-generated content at a scale that manual search-and-evaluate skills cannot address, and that [[ai-literacy|AI]] should therefore be treated as an instrument for *delivering* information literacy rather than only as a new topic to teach about. Their proposal runs through intelligent retrieval, personalized and adaptive learning, chatbots and virtual reference, and automated fact-checking, each carrying part of the instructional load and extending support to remote users. The same technologies, they concede, produce fabricated references, dataset bias, privacy loss, a wider [[digital-divide|digital divide]] and passive dependence on machine output. Their resolution is to fold AI literacy into information literacy as a complementary component, with [[librarians|librarians]] rather than technologists leading the integration.
 
 *This page summarizes an opinion paper. It reports no new data: there is no methods section, sample, instrument or result, and every empirical claim in it is cited from other work or asserted.*
 
@@ -65,7 +65,7 @@ That asymmetry is worth naming. The paper argues that AI should be folded into i
 
 ## Connected Concepts
 
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[libraries]]
 - [[librarians]]
 - [[ai-literacy]]

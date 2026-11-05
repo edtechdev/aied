@@ -3,7 +3,7 @@ title: "Libraries"
 created: "2026-11-05T03:45:00-05:00"
 updated: "2026-11-05T03:45:00-05:00"
 type: concept
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
 institutions: [governance, educational-policy-ai]
 ethics: [digital-divide, equity-in-ai-education]
@@ -22,7 +22,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Libraries** — the institutions that provide access to the scholarly and public record, and the operational systems behind that access: catalogues and discovery layers, reference and research services, collections, and the instruction programs that sit on top. In [[ai-education|AI in education]] they matter twice over: as a setting where [[generative-ai|generative AI]] is being deployed in live services, and as the institution that carries [[information-literacy|information-literacy]] instruction while its own search layer is rebuilt underneath it.
+> **Libraries** — the institutions that provide access to the scholarly and public record, and the operational systems behind that access: catalogues and discovery layers, reference and research services, collections, and the instruction programs that sit on top. In [[ai-education|AI in education]] they matter twice over: as a setting where [[generative-ai|generative AI]] is being deployed in live services, and as the institution that carries [[information-and-media-literacy|information-literacy]] instruction while its own search layer is rebuilt underneath it.
 
 ## Questions to Consider
 
@@ -35,7 +35,7 @@ reviewed_by: [editor]
 
 The library is the part of the education system that has always been in the information-access business, which is why AI arrives there less as a novelty than as a change in the supply chain. Two literatures meet on this page. One studies libraries as adopters: what they are doing with AI, what stops them, and how the work is distributed across technical services, reference, collections, circulation, instruction and staff development. The other studies libraries as infrastructure: the place where students and the public meet search at all, and therefore where a shift from search to synthesis is first felt.
 
-The page is deliberately distinct from [[librarians]], which covers the people and their professional role, and from [[information-literacy]], which covers the construct they teach. This page is about the institution: its services, its systems, its staffing model and its public obligation.
+The page is deliberately distinct from [[librarians]], which covers the people and their professional role, and from [[information-and-media-literacy]], which covers the construct they teach. This page is about the institution: its services, its systems, its staffing model and its public obligation.
 
 ## How AI enters library operations
 
@@ -66,7 +66,7 @@ The library's oldest function — providing access that individuals cannot buy �
 
 ## Connected Concepts
 
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[librarians]]
 - [[ai-literacy]]
 - [[digital-divide]]

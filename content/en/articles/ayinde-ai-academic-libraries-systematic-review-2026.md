@@ -5,7 +5,7 @@ updated: "2026-11-05T03:55:00-05:00"
 type: article
 published: "2025-12-11"
 discipline: [library and information science]
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm]
 methods: [meta-analysis-systematic-review]
 research_method: [literature review]
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Ayinde, Ebiefung and Oladokun review 29 studies published between 2020 and 2024 to ask what academic libraries actually do with [[generative-ai|AI]], what stops them, and what should be studied next. The practices sort into six dimensions — technical services, reference and information services, administrative and circulation services, collection development, [[information-literacy|information literacy and user education]], and professional development — and reference is the center of gravity: AI for directional and ready-reference questions appears in 34.48% of the reviewed studies. The barriers are organizational more than technical. Funding is named in 48.28% of studies and technical skill and data-quality gaps in 58.62%, while fear of job loss appears in only 13.79%. The authors read the pattern as a field automating transactional work first and leaving judgment work human, and they call for user-driven research rather than more pilot descriptions.
+> **Synthesis:** Ayinde, Ebiefung and Oladokun review 29 studies published between 2020 and 2024 to ask what academic libraries actually do with [[generative-ai|AI]], what stops them, and what should be studied next. The practices sort into six dimensions — technical services, reference and information services, administrative and circulation services, collection development, [[information-and-media-literacy|information literacy and user education]], and professional development — and reference is the center of gravity: AI for directional and ready-reference questions appears in 34.48% of the reviewed studies. The barriers are organizational more than technical. Funding is named in 48.28% of studies and technical skill and data-quality gaps in 58.62%, while fear of job loss appears in only 13.79%. The authors read the pattern as a field automating transactional work first and leaving judgment work human, and they call for user-driven research rather than more pilot descriptions.
 
 ## Key Findings
 
@@ -67,7 +67,7 @@ For a reader trying to act, that changes the status of every percentage above. T
 ## Connected Concepts
 
 - [[libraries]]
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[librarians]]
 - [[ai-literacy]]
 - [[generative-ai]]

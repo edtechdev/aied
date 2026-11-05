@@ -5,7 +5,7 @@ updated: "2026-11-05T04:00:00-05:00"
 type: article
 published: "2026-06-01"
 discipline: [library and information science]
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm]
 methods: [meta-analysis-systematic-review]
 research_method: [literature review]
@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Mirza and Arif ask how [[ai-literacy|AI literacy]] has been folded into [[information-literacy|information literacy]] instruction in academic libraries, and find a field still at what they call an infancy stage. Their PRISMA review screened 2,126 records across seven databases and kept 32 studies, 30 of which appeared in 2024 or 2025. Integration is lopsided: 11 studies come from the United States, 19 are quantitative surveys with small or self-selected samples, and the actual teaching runs through LibGuides, tutorials, one-off workshops and revised course modules rather than a curriculum. The authors record alignment with information-literacy frameworks as inconsistent and describe their conclusions as provisional patterns rather than settled findings.
+> **Synthesis:** Mirza and Arif ask how [[ai-literacy|AI literacy]] has been folded into [[information-and-media-literacy|information literacy]] instruction in academic libraries, and find a field still at what they call an infancy stage. Their PRISMA review screened 2,126 records across seven databases and kept 32 studies, 30 of which appeared in 2024 or 2025. Integration is lopsided: 11 studies come from the United States, 19 are quantitative surveys with small or self-selected samples, and the actual teaching runs through LibGuides, tutorials, one-off workshops and revised course modules rather than a curriculum. The authors record alignment with information-literacy frameworks as inconsistent and describe their conclusions as provisional patterns rather than settled findings.
 
 ## Key Findings
 
@@ -63,7 +63,7 @@ Eleven US studies and nine countries contributing a single study each is a descr
 
 ## Connected Concepts
 
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[libraries]]
 - [[ai-literacy]]
 - [[librarians]]

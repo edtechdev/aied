@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Librarians are the professionals who sit between a learner's question and the scholarly record: reference and liaison librarians, subject specialists, teaching librarians who deliver information-literacy instruction, and the staff who manage collections and repositories. In [[ai-education|AI in education]] they are named far less often than [[teacher-role|teachers]] and [[administrator|administrators]], yet the corpus gives them a specific, testable role. The human answer to the credibility problem that [[generative-ai]] creates, they teach [[information-literacy|information literacy]] and [[evaluative-judgment]] rather than merely supplying sources, and its instruction depends on them, and — in the strongest case in the knowledge base — a designed component of an AI system rather than a service beside it.
+Librarians are the professionals who sit between a learner's question and the scholarly record: reference and liaison librarians, subject specialists, teaching librarians who deliver information-literacy instruction, and the staff who manage collections and repositories. In [[ai-education|AI in education]] they are named far less often than [[teacher-role|teachers]] and [[administrator|administrators]], yet the corpus gives them a specific, testable role. The human answer to the credibility problem that [[generative-ai]] creates, they teach [[information-and-media-literacy|information literacy]] and [[evaluative-judgment]] rather than merely supplying sources, and its instruction depends on them, and — in the strongest case in the knowledge base — a designed component of an AI system rather than a service beside it.
 
 This page treats the role as distinct from its neighbors. [[educational-technology-developers]] build the retrieval and recommendation systems; librarians decide what those systems should not be trusted to conclude. [[academic-integrity]] frames AI use as authorship and disclosure; the librarian's framing — attribution, provenance, access — is adjacent but more concrete.
 
@@ -68,7 +68,7 @@ Two more strands set the limits of the role. [[pearls-epistemic-verification-202
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[libraries]]
 - [[evaluative-judgment]]
 - [[critical-thinking]]

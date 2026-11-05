@@ -5,7 +5,7 @@ updated: "2026-11-05T04:15:00-05:00"
 type: article
 published: "2026-07-02"
 discipline: [library and information science]
-foundations: [information-literacy, ai-literacy]
+foundations: [information-and-media-literacy, ai-literacy]
 methods: [quantitative-research]
 research_method: [survey]
 institutions: [governance]
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Dada surveys 412 academic librarians across 38 Nigerian universities, polytechnics and colleges of education to ask how they engage students on [[information-literacy|information literacy]] and [[ai-literacy|AI instruction]], how competent they feel, what blocks them and what predicts effectiveness. The pattern is a competence paradox: librarians rate themselves high on traditional information-literacy delivery (M = 4.02) and database instruction (M = 4.07), but their composite AI competency sits below the scale midpoint (M = 2.86), with the weakest items being designing AI literacy objectives (M = 2.70) and assessing AI literacy outcomes (M = 2.62). Face-to-face reference and formal instruction dominate engagement; AI orientation sessions are the least-used mode (M = 2.77), and 50.7% say they rarely run them.
+> **Synthesis:** Dada surveys 412 academic librarians across 38 Nigerian universities, polytechnics and colleges of education to ask how they engage students on [[information-and-media-literacy|information literacy]] and [[ai-literacy|AI instruction]], how competent they feel, what blocks them and what predicts effectiveness. The pattern is a competence paradox: librarians rate themselves high on traditional information-literacy delivery (M = 4.02) and database instruction (M = 4.07), but their composite AI competency sits below the scale midpoint (M = 2.86), with the weakest items being designing AI literacy objectives (M = 2.70) and assessing AI literacy outcomes (M = 2.62). Face-to-face reference and formal instruction dominate engagement; AI orientation sessions are the least-used mode (M = 2.77), and 50.7% say they rarely run them.
 
 ## Key Findings
 
@@ -67,7 +67,7 @@ The study is also silent on sampling and response bias: a 91.6% response rate is
 ## Connected Concepts
 
 - [[libraries]]
-- [[information-literacy]]
+- [[information-and-media-literacy]]
 - [[librarians]]
 - [[ai-literacy]]
 - [[higher-ed]]
