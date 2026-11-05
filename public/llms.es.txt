@@ -5,6 +5,7 @@
 
 - [IA en la educación](https://edtechdev.github.io/aied/concepts/ai-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Alfabetización en IA](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Alfabetización informacional y mediática](https://edtechdev.github.io/aied/concepts/information-and-media-literacy/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [IA agéntica](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Descarga cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Rendición cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -63,6 +64,7 @@
 - [Autoeficacia](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [Aprendizaje autodirigido](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Metacognición](https://edtechdev.github.io/aied/concepts/metacognition/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Reflexión](https://edtechdev.github.io/aied/concepts/reflection/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Dificultades deseables](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Transferencia del aprendizaje](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Conocimiento previo](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -81,7 +83,7 @@
 - [Aprendizaje para el dominio](https://edtechdev.github.io/aied/concepts/mastery-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Ansiedad y estrés](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Experiencia del estudiantado](https://edtechdev.github.io/aied/concepts/student-experience/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-- [Apoyo y éxito estudiantil](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.* **Apoyo y éxito estudiantil** — el trabajo del lado institucional para ayudar al estudiantado a permanecer, progresar y terminar: **asesoría académica, asistencia administrativa, contacto proactivo, derivación y asignación de apoyos escasos**. Esta es la página de lo que las in
+- [Apoyo y éxito estudiantil](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Normas sociales del uso de la IA](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Desarrollo y preparación profesional](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Aprendizaje a lo largo de la vida](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -115,6 +117,8 @@
 - [Agente pedagógico](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Tutoría afectiva](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Computación afectiva](https://edtechdev.github.io/aied/concepts/affective-computing/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Analítica de sensores y de la mirada](https://edtechdev.github.io/aied/concepts/sensor-and-gaze-analytics/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Avatares de IA e instructores sintéticos](https://edtechdev.github.io/aied/concepts/ai-avatars-and-synthetic-instructors/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [IA con intervención humana (HITL)](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [Analítica del aprendizaje](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Modelos de adopción tecnológica](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -134,15 +138,18 @@
 - [Escritura](https://edtechdev.github.io/aied/concepts/writing-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Aprendizaje de lenguas](https://edtechdev.github.io/aied/concepts/language-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Enseñanza del inglés (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Enseñanza de la lectura](https://edtechdev.github.io/aied/concepts/reading-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación ambiental](https://edtechdev.github.io/aied/concepts/environmental-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación empresarial](https://edtechdev.github.io/aied/concepts/business-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación en humanidades y ciencias sociales](https://edtechdev.github.io/aied/concepts/humanities-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Educación cívica y política](https://edtechdev.github.io/aied/concepts/civic-and-political-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación en artes, diseño y medios](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación en diseño](https://edtechdev.github.io/aied/concepts/design-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación médica y en profesiones de la salud](https://edtechdev.github.io/aied/concepts/medical-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación en enfermería](https://edtechdev.github.io/aied/concepts/nursing-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación jurídica](https://edtechdev.github.io/aied/concepts/legal-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación en tecnología de la información](https://edtechdev.github.io/aied/concepts/information-technology/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Bibliotecas](https://edtechdev.github.io/aied/concepts/libraries/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Ciencias del aprendizaje](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación infantil y primaria](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -213,6 +220,7 @@
 - [Diseño universal para el aprendizaje](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Sur global](https://edtechdev.github.io/aied/concepts/global-south/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Ética](https://edtechdev.github.io/aied/concepts/ethics/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Sesgo de automatización](https://edtechdev.github.io/aied/concepts/automation-bias/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Mal uso de la IA y daño al aprendizaje](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [Cuestiones y riesgos legales](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Declaraciones de uso y divulgación de la IA](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
