@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 230 concepts, 2039 articles, and 42 FAQs.
+> Complete text of 230 concepts, 2048 articles, and 42 FAQs.
 
 # Concepts
 
@@ -2468,6 +2468,8 @@ The field's history is not a linear progression but a series of contingent decis
 
 **Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi's AI×Ed framework]] gives this intuition empirical grounding: locating papers from AIED proceedings (1985, 1993, 2021, 2024) and IJAIED (2004, 2014, 2021) along two axes — the role of AI (applied tool vs. analogy to human intelligence) and the end user — they trace a field that moved from a diverse mix, including substantial early research using AI as an analogy to human intelligence (computational models of learning, Papert's microworlds, agent-based models of knowledge acquisition), toward a near-exclusive focus on applied, instrumental uses by the 2000s. Notably, the generative-AI era appears to partially reverse that trajectory: by AIED 2024, three of the four slots in the "AI-as-analogy" quadrant were LLM-built, and one of those took a best-paper award for LLM-powered [[learning-by-teaching|teachable agents]].
 
+**The journal record turns twice.** A structural topic model of 5,387 *Computers & Education* articles (1976–2026) found AI in 390 records (7.2%), across 17 of its 18 topics. The annual odds that an article was AI-related rose 21.8% per year through 1989, fell 3.7% annually until 2018, then climbed 40.1% annually to 2025 ([[wu-fifty-years-ai-reach-computers-education-2026|Wu et al., 2026]]). The 2018 turn precedes ChatGPT by four years, so the generative era accelerated a trend already under way rather than starting one.
+
 ## The recent impact of generative AI
 
 The arrival of [[generative-ai|generative AI]] — a broad family that includes [[llm|large language models]] (text), plus image, audio, and video generators — marks the most consequential inflection point in AIED history since the field's founding. LLMs are the most prominent member of this family and the driver of most classroom impact, but generative AI as a whole (capable of producing novel text, images, sound, and code) is the broader force reshaping education. It is best understood against AIED history rather than as a clean break. Several features make the generative-AI era distinctive:
@@ -2541,6 +2543,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
+- [[wu-fifty-years-ai-reach-computers-education-2026]] — Fifty years of Computers & Education topics: AI prevalence turned upward after 2018, four years before ChatGPT
 
 ---
 
@@ -2893,6 +2896,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **The nature of mind and cognition.** Does thinking require consciousness and a body? Can AI participate in genuinely cognitive processes? Frameworks such as **ensemble cognition** argue that AI exercises *functional agency* — genuine causal efficacy in cognitive processes — without consciousness, and that thinking emerges from dynamic human–[[student-ai-interaction|AI interaction]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Distributed cognition]] and the extended mind thesis make related claims about cognition being spread across systems.
 - **What is the learner?** Posthumanist philosophy reconceptualizes the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) This challenges the assumption that the learner is a bounded, autonomous individual mind.
 - **Embodiment and the limits of disembodied AI.** [[embodied-learning|Embodied]] and post-cognitivist philosophy critiques the dominance of symbolic, disembodied AI models, arguing that cognition is grounded in situationality, emergence, and sensorimotor coupling that current [[generative-ai|generative AI]] lacks.([[videla-embodied-ai-education-choreography]])
+- **Emotional labor as the test case for machinic minds.** The field's arguments about whether AI can teach often turn on whether it can *care*, a question argued long before [[affective-computing|affective computing]] existed. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstructs the 1950–1996 debate, in which Ziff's claim that only living creatures can literally have feelings was answered by Smart's identity theory and Putnam's behavioral criterion, leaving three rival ontologies unresolved. His conclusion is a burden of justification rather than an impossibility claim — representation, simulation and mimicry underdetermine emotional labor — which puts the burden on anyone who would delegate pastoral work to a system.
 - **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **The ontology of AI-generated scientific objects.** In [[chemistry-education|chemistry]], AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Cognitive passivity as an epistemic harm.** Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which supplies the work does not merely offload thinking but forecloses it, with Bourdieu's field and habitus locating the risk in institutional structures ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
@@ -2971,6 +2975,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Human-centered' AIED read as an anthropocentric discourse with commercial uses (Wang & Jin 2026)
+- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care
 
 ---
 
@@ -10833,6 +10838,8 @@ The research clusters into five functions, and the cluster boundaries matter bec
 
 **Administrative assistance.** Leadership and administration are studied as their own application domain, with a ten-domain taxonomy mapping where AI lands in educational leadership ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Institution-run services reach past advising into health: an integrated campus well-being framework pairs prevention — improving how feedback is collected — with intervention through mental-health detection ([[ai-campus-wellbeing-tools|Tang, 2026]]). Credentialing sits adjacent: when an agent can complete a course on a student's behalf, a credential that says "earned" loses its meaning, which turns completion records into a design problem ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
 
+**An in-house assistant competes with the public chatbot on availability, not capability.** In five co-design studies at the Open University (315 students, 20 staff), the proposed i-AIDA's strongest selling point was round-the-clock access, agreed by 73% of a 96-student survey, and direct use moved demand from 9 of 18 students to 16 of 18 (d = .81) ([[rienties-institutional-ai-assistant-co-design-2026|Rienties et al., 2026]]). Students rated it 7.58 out of 10 against other generative tools, while roughly 10–15% objected on values rather than usability, calling AI-assisted study a dilution of legitimate learning.
+
 What an AI support channel displaces deserves the same accounting. Across four studies (N = 249, 494, 743 and 737), belief in AI's capacity to provide emotional support raised willingness to offload that support to it, and the effect travelled entirely through perceived capacity (total effect c = 0.83; indirect effect ab = 0.73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). On a behavioral measure, participants who said they would not offload chose fewer empathy words, so routing students to an AI well-being channel can subtract human support in ways [[self-report-measures|self-report]] does not show.
 
 ## From prediction to support
@@ -10924,6 +10931,7 @@ Student support connects to [[student-experience]] as the student-facing counter
 - [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
+- [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last
 
 ---
 
@@ -69383,6 +69391,56 @@ Vallis, C., Wilson, S., & Casey, A. (2025). [*Fear and awe: Making sense of gene
 
 ---
 
+## [The Ghost Learner Paradox: A Systematic Review of Metacognitive Laziness in the Age of Generative AI](https://edtechdev.github.io/aied/articles/febriyanti-ghost-learner-paradox-metacognitive-laziness-2026/)
+
+> **Synthesis:** Febriyanti, Muntoha and Uminar review post-ChatGPT literature from 2023 to 2026 and name a paradox: grades hold or improve while the cognitive work behind them disappears. The mechanism is [[cognitive-offloading]] escalated into what they call metacognitive laziness — delegating planning, monitoring and evaluation to a model, not merely execution. They separate offloading that frees working memory for higher-order reasoning from substitution that bypasses productive struggle, argue that agentic AI breaks output-centric assessment, and locate the remedy in [[process-oriented-assessment|process-oriented assessment]] and "AI fluency" rather than AI literacy. The review reports no corpus count, so its evidence base cannot be audited from the text.
+
+## Key Findings
+
+1. **The window is the post-ChatGPT era.** The search is bounded to 2023–2026, deliberately capturing the period after ChatGPT's late-2022 release, and uses PRISMA 2020 with Google Scholar Labs supplemented by Scopus and Web of Science for cross-validation.
+2. **Three themes organise the corpus.** Iterative coding produced cognitive engagement and active-learning displacement, memory consolidation and retention deficits, and measurable decline in critical thinking and higher-order reasoning.
+3. **Offloading splits into two kinds.** Preservice teachers in Iqbal et al. (2025) gained achievement when AI worked as shared metacognition, while Georgiou (2025) found significantly lower cognitive engagement among students who used ChatGPT during academic writing.
+4. **Agentic AI defeats the assessment proxy.** Bozkurt et al. (2026) describe surrogates that couple an LLM to an agentic browser to log into institutional portals, read prompts, generate compliant responses and submit them, which similarity tools and synchronous proctoring cannot detect.
+5. **Confidence rises as engagement falls.** Georgiou (2025) reports that heavy ChatGPT users were confident in their outputs and their own competence despite lower cognitive engagement during the task — an amplification of the Dunning-Kruger pattern.
+6. **One synthesis of 21 publications** found a predominantly positive effect of generative AI on critical thinking where it was integrated to promote active reasoning, metacognitive monitoring and critical autonomy (Raitskaya & Tikhonova, 2025).
+
+## Where offloading stops being adaptive
+
+The review's analytical hinge is not tool use but metacognitive agency. Beneficial offloading delegates routine work — formatting, citation, arithmetic — and frees working memory for the reasoning that builds mental models; detrimental offloading delegates the modeling itself. Fan et al. (2025) supply the definition the review leans on: metacognitive laziness is offloading planning, monitoring and evaluation, the processes that constitute learning rather than merely support it. The distinction is empirically visible. Georgiou (2025) describes a "standby mode" in which the brain reduces active processing because an external agent has assumed the inferential workload, and Yan et al. (2025) report diminished epistemic vigilance and superficial learning alongside it. But Exintaris et al. (2023) found that asking chemistry students to critique erroneous ChatGPT solutions, rather than accept correct ones, raised metacognitive engagement substantially — evidence that the task's architecture, not the presence of AI, sets the outcome.
+
+## The ghost learner is an institutional artifact
+
+The review's most consequential move is to treat the ghost learner as a product of assessment design rather than of student character. Digital classrooms were built on the assumption that submitted work is a reliable proxy for the named student's cognitive effort, and [[agentic-ai|agentic AI]] invalidates that assumption at each level: timed quizzes, reflective journals written in an approximate personal voice, asynchronous discussion posts with contextually appropriate replies. Bozkurt et al. (2026) call the accumulated unlearned competency "cognitive debt" — each delegated assignment adds to a balance carried into a credential that attests to competencies never exercised. The institutional record shows nothing, because completion rates do not change when the work is done by a surrogate. Yan et al. (2025) describe the same drift as erosion of epistemic agency, and the review draws the institutional conclusion: the problem is not detection but what verification of presence would require.
+
+## The illusion of competence and the atrophy it hides
+
+Because fluent output is a high-quality artifact, students readily attribute it to their own capability, and the misattribution inflates perceived competence while the underlying skill stays undeveloped. The review traces measurable atrophy across domains: reduced epistemic vigilance and shallow retention (Yan et al., 2025); lower originality, weaker argumentation and a thinner authorial voice in frequent AI users (Tekir, 2026); passive information consumption replacing generative brainstorming (Guo & Lee, 2023); and analytical depth replaced by AI-assisted heuristics, which Suriano et al. (2025) frame as System 2 reasoning giving way to System 1 reliance. The cumulative profile is a graduate fluent in AI-mediated tasks who struggles to perform the same operations unaided — a problem for professional performance and for further learning, not only for the transcript.
+
+## From AI literacy to AI fluency
+
+The review distinguishes AI literacy, competent operation of tools, from AI fluency, the metacognitive capacity to evaluate, selectively deploy and epistemically own an interaction with AI. Its interventions cluster into three: process-oriented assessment that evaluates how students engage with AI; Socratic dialogue that forces students to justify, extend and challenge generated content; and "AI nudges", interface or prompt features that redirect users toward reflection. The most structural proposal is to move from verifying output to verifying presence — oral defenses, in-class critical reflection, think-aloud protocols and portfolios that require students to narrate a process over time. Exintaris et al.'s SMARTCHEMPer workshop is the concrete model: students articulate reasoning while solving and critique AI output in real time, producing evidence no submitted essay can replicate. The review's conclusion is not restriction but redesign of the human role so that it is irreducibly cognitive.
+
+## What this means for practice
+
+- **Instructors.** Require process evidence — a think-aloud, a draft trail, a short oral defense — on any task where the deliverable could be delegated, because the review's own distinction turns on whether the student monitors and critiques the model or merely receives its output.
+- **Program designers and administrators.** Audit assessment regimes for delegation resistance before purchasing detection software: the review finds similarity tools and synchronous proctoring structurally blind to asynchronous agentic submission, and treats output-centric design as the incentive that produces substitution.
+- **Researchers.** Test the proposed countermeasures rather than assuming them: the review itself calls for controlled validation of Socratic frameworks, AI-audit checklists and process-based designs, and for longitudinal tracking of critical thinking in AI-native cohorts.
+
+## Limitations
+
+- No corpus size or PRISMA flow counts are reported. The review claims PRISMA 2020 but prints no identification, screening or inclusion numbers, and its search ran through Google Scholar Labs rather than a fixed database query, so neither the evidence base nor the result set can be reconstructed.
+- No DOI is printed and the journal prints a placeholder ISSN (XXXX-XXXX), so bibliographic verification depends entirely on the publisher's site — a real caveat for citation and for any later meta-analysis.
+- The authors concede that the evidence is largely cross-sectional or short-term, and that long-term or decadal effects of sustained AI reliance remain unsubstantiated.
+- Several load-bearing claims rest on single studies, including a 2025 preprint (Georgiou) and a 2026 study of EFL writing in one national context (Tekir), and the shared-metacognition finding comes from one sample of preservice teachers.
+- The search relied on Google Scholar Labs, which does not produce the fixed, reproducible query result set that a database-only PRISMA search would.
+- The ghost-learner evidence is largely conceptual: Bozkurt et al. (2026) theorize the surrogate and the verification gap, but the review reports no measured prevalence of ghost learners in any institution.
+
+## Citation
+
+Febriyanti, Muntoha, T., & Uminar, A. N. (2026). *The ghost learner paradox: A systematic review of metacognitive laziness in the age of generative AI*. Journal of Socio-Digital Integration, 1(1), 1–13.
+
+---
+
 ## [Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx](https://edtechdev.github.io/aied/articles/federated-learning-at-risk-student-prediction-2026/)
 
 > **Synthesis:** At-risk prediction usually needs shared student data, which privacy rules forbid across institutions. This study simulates that constraint by partitioning the Open University [[learning-analytics|Learning Analytics]] Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
@@ -83902,6 +83960,65 @@ Khalil, H., Al Malki, M., Abdel-Maksoud, N. F., & Yousef, A. M. F. (2026). [The 
 
 ---
 
+## [Can Machines Perform Emotional Labor in Education? Tracing Debates in Early Philosophy of Artificial Intelligence](https://edtechdev.github.io/aied/articles/khan-machines-emotional-labor-education-2026/)
+
+> **Synthesis:** Can an artificial system perform the emotional labor of teaching, or only reproduce its outward signs? Noah Khan argues that the second does not justify the first. Drawing on debates about machinic emotion between 1950 and 1996 — Ziff, Smart, and Putnam on whether feeling requires biological life; Weiss, Scriven, and Danto on whether relation, honesty, or language can evidence it; Dyer, Ortony et al., and Arbib on whether cognition-first computation captures embodied affect — the article reconstructs three justificatory questions about ontology, evidence, and embodiment. Its contribution is a shared vocabulary that separates representation, simulation, and mimicry from warranted claims that a system has emotion and performs emotional labor, and that lets educators state which premise a benchmark, design feature, or classroom exchange actually settles.
+
+## Key Findings
+
+1. The article reconstructs debates on machinic emotion from 1950 to 1996, closing the year before Picard's 1997 *Affective Computing* consolidated the field.
+2. Ziff's nine-premise case that only living creatures can literally have feelings is answered by Smart's identity theory and Putnam's behavioral criterion, leaving three rival ontologies in play.
+3. Weiss, Scriven, and Danto show that love, technically guaranteed honesty, and linguistic compliance each fail on its own to establish inner feeling.
+4. Dyer's three models and Ortony et al.'s 1988 account treat emotion as produced by cognition, while Arbib's 1992 review argues that visceral and precognitive processes shape appraisal.
+5. The conclusion is a burden of justification rather than an impossibility claim: representation, simulation, and mimicry underdetermine emotional labor.
+
+## The gap between convincing performance and emotional labor
+
+Reviews of [[generative-ai|generative AI]] in education report broad skepticism among researchers that systems can care for students or demonstrate emotional understanding, yet the counter-evidence is easy to find: ChatGPT has outperformed humans on an emotional-awareness evaluation, has been rated as an empathetic psychoeducational tool, and has produced responses judged more emotionally engaged than those in a therapist-response dataset. Khan asks what would license the move from the second kind of finding to the first.
+
+His answer turns on a set of distinctions. A model of emotion is a formal representation of selected emotional relations; a simulation runs a process designed to reproduce some of those dynamics; mimicry is observable resemblance in output with no claim about the process behind it. Having emotion means possessing states properly characterized as emotional, and performing emotional labor means regulating such states under institutional feeling rules in order to shape another person's emotional experience. A system can model, simulate, and mimic without doing either.
+
+Hochschild's account of emotional labor includes surface acting, so the argument cannot rest on a demand for perfect sincerity. Even while acting, a teacher is an emotional subject with feelings to manage, occupies a role carrying responsibilities, and remains answerable for how the display shapes a pedagogical relation. Khan adds an authenticity condition drawn from Bialystok and Kukar: the educational value of apparent care can depend on students' reasonable perception that it is not wholly fabricated, which concerns the actor's capacity for emotion and responsible relation rather than congruence of feeling and display.
+
+## Three justificatory questions, 1950–1996
+
+The first question is ontological: what kind of entity could be a bearer of feeling? Paul Ziff's "The Feelings of Robots" (1959) answers with nine premises and the curt conclusion that "a robot would behave like a robot," since only living creatures can literally have feelings. J. J. C. Smart replies within months, invoking Genesis and physicalism to blur the artifact/organism boundary and arguing that sensations simply are brain processes. Hilary Putnam then separates structure from behavior: structural criteria suit plants, but for entities that behave, judgments of life should prioritize the organization of behavior as described by psychological theory. That move, Khan notes, prefigures the behavioral proxies of [[affective-computing|affective computing]].
+
+The second question concerns evidence within a relation. At the 1960 New York University symposium published as *Dimensions of Mind*, Paul Weiss argues that a private self is disclosed through love and sympathy, so that a machine we could love would have to be granted human nature and human powers. Michael Scriven counters with a thought experiment: wire a robot so that lying is impossible, and its avowals of feeling become trustworthy. Arthur Danto attacks the data source itself, showing that whether English changes or not, linguistic compliance establishes no criteria for inner feeling — a dilemma that anticipates emotionally fluent large language models.
+
+The third question is about constitution. Michael Dyer's BORIS, OpEd, and DAYDREAMER models treated emotion as emerging from general cognitive processes of retrieval, planning, and reasoning over goals and beliefs, a stance formalized in Ortony, Clore, and Collins's *The Cognitive Structure of Emotions* (1988). Michael Arbib's review charges that this cognition-first account excludes visceral sensation and facial expression, and that bodily, precognitive, and hormonal processes shape how events are construed in the first place.
+
+## Why a preconsolidation window matters
+
+Khan marks 1950–1996 because 1996 is the last year before Picard's *Affective Computing* (1997) canonized the field and folded disparate arguments into one paradigm. This is not a history of progress, and Khan does not claim that today's researchers inherit these positions consciously. Its value is that incompatible criteria for attributing emotion remained unusually visible before a single paradigm normalized one set of them.
+
+The methodological wager is that a present-day metric may silently presuppose an answer to one of the three questions: an emotion-recognition tool that classifies frustration is already committed to some account of what frustration is, and a generative tutor's reassurance presumes something about whether apt language evidences a subject. Recovering the earlier disagreement makes that presupposition available for scrutiny.
+
+## The frustrated student and the levels of claim
+
+The recurring example is a tutor that responds patiently when a student repeatedly fails a mathematics problem. A Ziffian position rejects emotional attribution at the first step, because the system is not alive. A Smart-style position permits attribution in principle but demands evidence about the processes the system instantiates. A Putnamian position asks about the organization of the tutor's behavior across changing circumstances rather than a single reassuring answer. All three can agree the response is useful while disagreeing about what produced it.
+
+Khan uses that agreement to separate usefulness from warranted attribution and to resist a binary in which rejecting the stronger claim means declaring the system worthless. A tool may support a teacher's emotional work by identifying patterns, preparing alternative explanations, or absorbing repetitive communicative demands. Whether that helps depends on accuracy, context, transparency, and institutional use — questions anthropomorphic claims can obscure. The same distinctions underwrite critical AI literacy: students need vocabulary for asking whether a system detected a pattern, represented an appraisal relation, simulated a process, mimicked an expression, or had and regulated an emotion.
+
+## What this means for practice
+
+- Instructors and designers should describe what a system does at the level the evidence supports — detected a pattern, generated empathic language, simulated an appraisal — and reserve "cared" or "performed emotional labor" for claims that also defend a subject of feeling, evidence for its state, and a form of responsibility the system can bear.
+- Evaluators should ask which dimension of emotion a metric includes and which it treats as dispensable, since adding a camera, microphone, or physiological monitor enlarges the data available to an appraisal model without instantiating the bodily organization an embodied account treats as constitutive.
+- Teacher educators can teach the three questions directly, so students encountering first-person, emotionally fluent systems can distinguish proxy performance from the ontological and ethical claims inferred from it.
+
+## Limitations
+
+- The article is conceptual and historical: it reports no empirical evaluation of any contemporary affective system, no classroom data, and no student or teacher sample.
+- The historical selection is interpretive rather than exhaustive; Khan presents three reconstructed debates and does not claim they exhaust the philosophy of emotion.
+- The article declines to decide whether artificial systems can have emotions, so it identifies the burden of justification without settling whether it can be met.
+- The canonical debates say little about the gendered distribution of emotional labor or the power to define normal emotional expression, an omission Khan flags as serious for any proposal to automate care.
+- The analysis stops at 1996, before affective computing's consolidation, so its categories are not tested against contemporary architectures, benchmarks, or the experiences of students encountering them.
+
+## Citation
+Khan, N. (2026). [*Can Machines Perform Emotional Labor in Education? Tracing Debates in Early Philosophy of Artificial Intelligence*](https://doi.org/10.1111/edth.70110). *Educational Theory*.
+
+---
+
 ## [K-12 AI literacy frameworks after generative AI: A scoping review](https://edtechdev.github.io/aied/articles/kharbach-k12-ai-literacy-frameworks-scoping-review-2026/)
 
 > **Synthesis:** A [[meta-analysis-systematic-review|scoping review]] of 50 K-12 [[ai-literacy|AI literacy]] frameworks published in 2024 and 2025 finds a field producing structure faster than it produces agreement. The frameworks sort into four clusters, lean heavily on self-report scales, and share a five-dimension vocabulary whose labels do not line up. Grade progression is proposed almost everywhere and evidenced nowhere: no study followed the same students across bands. [[generative-ai|Generative AI]], the reason most of this work exists, stays at the edge of the instruments meant to measure it.
@@ -92757,6 +92874,67 @@ Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & A
 
 ---
 
+## [Combining AI and corpus technology in language teaching: Professional development and knowledge co-construction using the CoI framework](https://edtechdev.github.io/aied/articles/ma-ai-corpus-language-teaching-coi-2026/)
+
+> **Synthesis:** As corpus technology and generative AI reshape language education, teachers need evidence-based ways to integrate both. Ma, Mei, Crosthwaite, and Ma report an explanatory sequential mixed-methods study of a 20-week online professional development program in which over 150 pre- and in-service language teachers from 28 countries co-developed AI-empowered TPACK for corpus technology (AI-TPACK-CT) inside a Community of Inquiry. Social network analysis of six discussion threads, CoI coding of the most active workshop, lesson-plan comparisons, and interviews with one central and two peripheral teachers link interaction patterns to design outcomes. The headline result is that posting volume and network centrality did not determine learning: peripheral teachers constructed substantial pedagogical knowledge by reading, reflecting, and revising their designs.
+
+## Key Findings
+
+1. Workshop 1 was the most active of the eight discussion threads, with 51 posts, 6881 words, 15 participants, and 36 connections.
+2. CoI coding of that thread yielded 137 social-presence units against 80 cognitive-presence units, and only 5 resolution instances against 49 exploration units.
+3. Olivia was the central teacher with 23 posts and 20 connections, while Jessica (8 posts, 4 connections) and Tessa (2 posts, 2 connections) were peripheral.
+4. Olivia's 53 coded units concentrated in learning and practice (21/53), Tessa's 53 in pedagogical language knowledge (15/53), and Jessica's 58 in learning and practice (21/58).
+5. Interviews showed that the peripheral teachers learned substantially by reading and revising, so post counts understated their AI-TPACK-CT growth.
+
+## A 20-week design-based community
+
+The program enrolled over 150 pre- and in-service language teachers from 28 countries/regions, who chose their own pathways through synchronous online workshops, self-paced Canvas materials, and asynchronous forum discussion. The 20-week schedule ran eight weekly workshops, draft lesson plans in Weeks 9–10, peer commenting in Week 11, revision in Week 12, assessment of final plans in Weeks 13–14, social network analysis in Weeks 15–16, and interviews of roughly 90 minutes in Weeks 19–20.
+
+Two design features matter most. The first is an ice-breaking activity and an explicitly low-pressure climate intended to make experimentation with unfamiliar corpus and AI tools safe. The second is purposeful cross-tier mixing: pre-service teachers, in-service teachers, and participants with deeper expertise in AI, corpora, or pedagogy were encouraged to work across those boundaries. Tasks were scaffolded in small increments — searching a corpus, testing an AI tool, trying an AI-assisted feedback workflow — and then assembled into a lesson template covering input exploration, guided practice, assessment, and reflection, which the authors say reduces cognitive load and supports classroom transfer.
+
+The knowledge construct is the paper's other contribution. Building on [[tpack|TPACK]] for corpus technology and an earlier five-component account of corpus-based language pedagogy, the authors add an AI knowledge domain and specify AI- and corpus-specific competencies: model awareness and prompt design, data governance and bias mitigation, workflow integration with concordances and analytics, and human–AI task orchestration and verification.
+
+## Engagement: warm social presence, thin resolution
+
+The quantitative phase counted posts and participants across all eight discussion threads and ran social network analysis in NodeXL on six of them, dropping two that generated only two replies each. Workshop 1, "CBLP & AI," was selected for content analysis as the most active and interaction-dense thread: 51 posts, 6881 words, 15 participants, and 36 connections.
+
+Coding adapted from Rourke et al. and Garrison et al. produced 137 social-presence units — 39 affective expression, 51 open communication, 47 group cohesion — against 80 cognitive-presence units. Within cognitive presence, exploration dominated with 49 units, ahead of 14 triggering events, 12 integration, and only 5 resolution. Inter-coder reliability was 0.89 for this pass.
+
+Three excerpts carry the interpretation. An early exchange around Olivia's pet-themed activity contains no cognitive presence but is saturated with affect, appreciation, and inclusive language, which the authors argue lowered the threshold for later risk-taking. Jessica's post reports a concrete struggle — the "scary human hands" problem across six AI image tools — and documents systematic comparison of them. Matthew connects Muse AI to two pedagogical goals and assesses its classroom value, supplying one of the five resolution instances. The thin resolution count is attributed to the short workshop window.
+
+## Three trajectories of AI-TPACK-CT
+
+The case teachers were selected from the Workshop 1 network. Olivia, a university translation instructor with 15 years of tertiary experience, was the most central teacher with 23 posts and 20 connections; Jessica, an early-career EFL teacher with 5 years of experience, was peripheral with 8 posts and 4 connections; Tessa, an MA student in English language education with no formal teaching experience, was peripheral with 2 posts and 2 connections. All three submitted lesson plans combining corpus tools and AI, which was a selection condition.
+
+Coding against the six knowledge domains (reliability 0.85) shows different profiles rather than a single ladder. Olivia's 53 coded units concentrated in learning and practice (21/53), AI knowledge (11/53), and corpus knowledge (9/53), with 6/53 contextual, 5/53 pedagogical, and 1/53 subject knowledge — consistent with an experienced teacher who already commanded pedagogy and content and was acquiring tools. Jessica's 58 units concentrated in learning and practice (21/58), corpus knowledge (11/58), AI knowledge (10/58), and pedagogical language knowledge (10/58), with 5/58 contextual and 1/58 subject. Tessa's 53 units concentrated in pedagogical language knowledge (15/53), with 12/53 each in AI knowledge, corpus knowledge, and learning and practice, and 1/53 each in subject and contextual knowledge.
+
+The lesson plans make the trajectories concrete. Olivia built an English-translation lesson for first-year BA students at B1–B2 using COCA and RhymeZone with a customized Mizou chatbot and image generation. Jessica designed a past-simple "be" grammar lesson for Junior 1 students with Versatext and SKELL plus an AI Foreign Teacher app. Tessa designed a word-stress pronunciation lesson for secondary students using a learner spoken corpus, a native spoken corpus, Youglish, ChatGPT, and Murf. Revisions from draft to final were traced to peer and facilitator comments and coded as contextual or pedagogical gains.
+
+## Peripheral participation and what post counts miss
+
+The interviews complicate the network picture. Tessa checked discussion topics frequently but seldom commented, contributing only when she believed she could add a distinctive voice; she still rearranged her lesson's activity sequence after peers said it better matched discovery learning. Jessica described reading others' posts as the source of perspectives she would not have generated alone, and recalled a reply praising her rapid tool-testing as a source of confidence. Olivia described a polite atmosphere in which every post drew a response.
+
+The authors' interpretation is that social network analysis and presence coding capture visible posting behavior but not reading, private reflection, integration of peers' ideas, or revision of instructional reasoning without a public post. That gap matters for [[community-of-inquiry|CoI]]-based professional development because it can make an equitable program look like a program for the vocal minority. The practical claim is that design-based tasks plus sustained asynchronous discourse gave peripheral participants substantial [[teacher-ai-competency|AI-TPACK]] growth that participation metrics would have missed.
+
+## What this means for practice
+
+- Design online professional development so that a low-stakes ice-breaker and explicit respect norms precede any technical task, because the case data tie early social presence to later willingness to report failures and test tools publicly.
+- Mix pre- and in-service teachers deliberately: the pre-service teacher in this study gained most in pedagogical language knowledge, while the in-service teachers gained most in learning and practice and contextual knowledge, so each group supplies what the other lacks.
+- Do not use post counts or centrality alone to judge participation or award credit; pair network metrics with interviews, lesson-plan revisions, and reflective tasks so reading-only participants are assessed on what they constructed.
+
+## Limitations
+
+- Although over 150 teachers enrolled, only 15 contributed posts in the selected thread, and most limited participation to reviewing materials and reading others' contributions, so the engagement picture rests on a small vocal subgroup.
+- The qualitative findings rest on three teachers chosen because they completed lesson plans and agreed to interviews; the authors describe them as illustrative vignettes, not generalizable cases.
+- The program was short: only 5 resolution instances appeared in the analyzed thread, and classroom implementation of the redesigned lessons was not tracked.
+- Quantitative content analysis drew on a single thread, and the per-teacher counts are descriptive proportions over 53 or 58 units that the authors caution are not statistically significant.
+- Participation was voluntary, with no comparison group, so the study cannot isolate the CoI design from prior motivation.
+
+## Citation
+Ma, Q., Mei, F., Crosthwaite, P., & Ma, X. (2026). [*Combining AI and corpus technology in language teaching: Professional development and knowledge co-construction using the CoI framework*](https://doi.org/10.1016/j.compedu.2026.105728). *Computers & Education*, 256, 105728.
+
+---
+
 ## [Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution](https://edtechdev.github.io/aied/articles/machine-human-marking-agreement-institutions-2026/)
 
 > **Synthesis:** This study tested whether frontier [[llm|large language models]] can mark authentic university coursework by scoring 761 [[higher-ed|undergraduate]] psychology assignments from three UK universities with GPT-5.4, Claude Opus 4.6 and Gemini 3 Flash under a fully crossed 3 × 3 × 3 [[prompt-engineering|prompt design]]. Agreement was only moderate and highly uneven: the strongest method reached a quadratic weighted kappa of 0.616 at Cambridge but only 0.345 at Manchester Met, and no single model or prompt was optimal across institutions. Every model compressed marks toward a common central tendency, overvaluing the weakest assignments and undervaluing the strongest, and because those errors were correlated, combining models did not remove them. Machine marks were also more strongly conditioned than human marks on surface linguistic features. The authors conclude that agreement is a local product of a particular model, prompt and cohort rather than a transferable evaluative capacity, so [[assessment-validity|validating]] a system in one context overstates readiness for [[automated-assessment|deployment]].
@@ -98089,6 +98267,67 @@ The comparison with adjacent work sharpens the gap. [[huang-interpretable-knowle
 ## Citation
 
 Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074).
+
+---
+
+## [What Do They Think? Undergraduate Perceptions of Student-AI Use](https://edtechdev.github.io/aied/articles/niebuhr-undergraduate-perceptions-student-ai-use-2026/)
+
+> **Synthesis:** Niebuhr, Gómez-Franco, Pickus, Finch and Badilla-Quintana report an exploratory survey of 214 undergraduates at two public North American universities, one small Midwestern and one large Western institution, on how they read their peers' use of [[generative-ai|generative AI]]. Two questions organize the study: whether students think AI encourages [[academic-integrity|academic dishonesty]], and whether they see it as conferring an unfair advantage. A majority — 71.6% — said it encourages dishonesty, while 56.6% said it does not confer an unfair advantage, and 86.6% believed most of their peers use AI for university work. Logistic regression tied the dishonesty judgment to clear university guidelines, perceived career value and in-person study, while the open-ended answers locate the real cost in learning rather than in grades.
+
+## Key Findings
+
+1. **Most students read AI as a dishonesty risk.** 141 respondents (71.6%) said AI encourages academic dishonesty, against 56 (28.4%) who said it does not.
+2. **Unfair advantage divided the sample.** 86 respondents (43.4%) saw an unfair advantage for users, while 112 (56.6%) did not.
+3. **Peer use was treated as the norm.** 174 respondents (86.6%) believed most of their peers use AI for university work, and students who used AI themselves were about three times as likely to say so (odds ratio = 3.02).
+4. **Clear guidelines went with less concern.** Students who believed their university had developed clear AI guidelines had lower odds of saying AI encourages dishonesty (b = –0.61, odds ratio = 0.54).
+5. **Career value and modality both mattered.** Believing AI skills would help their career lowered the odds of a dishonesty judgment (odds ratio = 0.39), while students taught mostly in person were 2.5 times more likely than online students to say AI encourages dishonesty (odds ratio = 2.49).
+6. **Two-thirds had used the tools.** 66% reported using AI for school-related work, most commonly for small assignments such as discussion boards (64% of users), while 34% reported no use at all.
+
+## A majority reads AI as a risk to integrity
+
+The headline is unambiguous: 71.6% of respondents said using AI encourages academic dishonesty. The open-ended explanations show what sits behind the number. "Cheating", "plagiarism", missing "attribution" and "laziness" recurred, as did the claim that AI lets students "get away without learning the actual material" and "takes away from the cognitive demand". Some students allowed that the tool helps with brainstorming while describing the temptation to use it for everything as a "slippery slope".
+
+The minority who answered no placed the fault in the user rather than the technology. Keywords there were "user", AI as a "tool", and equal "access"; several noted that citing or crediting AI is the relevant question. The distinction matters for policy: the two groups disagree less about what AI does than about where responsibility for misuse sits, and a rule that targets the tool will read differently to each.
+
+Notably, the paper reports 141 respondents choosing yes and 56 choosing no, but 130 and 51 of those respectively wrote an explanation, so the qualitative material covers a large majority of each camp rather than a self-selected handful.
+
+## Advantage: a split verdict about the short and long run
+
+On unfair advantage the sample divided 86 to 112, and the reasoning on both sides converged on the same distinction between short-term grades and long-term capability. Students who saw an advantage pointed to marks: "they will likely have higher assignment grades, but it will not give advantage when entering the workforce". One described pressure to use AI on binary-answer assignments, since abstaining "can feel like intentionally putting yourself at a potential disadvantage". Another confessed guilt at having relied on it: "I have not put in the effort as others have".
+
+Those who saw no advantage usually argued that users harm themselves. Responses described lower-quality work, failure to "retain or learn", and risk of expulsion, and several noted that everyone has access, so the playing field is level. The authors observe that this convergence is what makes the question worth pursuing: the disagreement is not about whether AI changes outcomes but about which outcomes count.
+
+## Guidelines, modality and career outlook
+
+Three variables were statistically significant in the dishonesty model, which explained 9% of variance. Students who believed their university had clear guidelines were about half as likely to say AI encourages dishonesty (odds ratio = 0.54). Students who thought learning AI would help their career had lower odds again (odds ratio = 0.39). Students taught mainly in person were 2.5 times more likely than online students to see AI as encouraging dishonesty (odds ratio = 2.49).
+
+The peer-use model worked differently. Using AI oneself was the strongest correlate of believing peers do too (odds ratio = 3.02), while in-person students were less than half as likely as online students to think most peers use AI (odds ratio = 0.38). The unfair-advantage model produced no significant predictors and explained 8% of variance.
+
+The guideline finding is the one with the clearest institutional handle, but the survey cannot say which way the arrow runs: students in universities with visible rules may simply be less suspicious, or less suspicious students may be more likely to notice rules. The authors treat the association as a signal for policy rather than as an effect estimate.
+
+## What the open-ended answers add
+
+Two further results frame the discussion. Guidelines were perceived as split almost evenly, with 100 respondents (51%) saying universities were creating clear rules and 96 (49%) saying they were not — a near coin-flip that suggests communication is uneven across programs. And 34% of respondents reported never using AI for schoolwork, a group whose reasons were often principled rather than practical: "doesn't feel very ethical", "atrophying our brains", and 12 respondents (5.6%) citing environmental costs.
+
+The authors close on a legitimacy argument. If enough students operate outside the rules, the rules themselves lose authority, and a cohort that believes most peers are using AI while a majority believes that use is dishonest is precisely the condition in which norms erode. That is why they argue faculty and administrators should treat student perception as evidence about the institution, not merely as an attitude to be corrected.
+
+## What this means for practice
+
+- **Instructors.** State your AI rules in the syllabus and in assignment briefs rather than relying on institutional policy: students who believed their university had clear guidelines were about half as likely to say AI encourages dishonesty (odds ratio = 0.54), and only 51% of respondents thought such guidelines existed.
+- **Administrators.** Audit how AI rules reach students across programs, because perception split 51% to 49% at two institutions in the same system, and publish the reasoning behind permitted and prohibited uses so that the "user not the tool" camp and the "tool" camp can see which rule follows from which premise.
+- **Assessment designers.** Address the long-run argument students already make: with 56.6% saying AI confers no unfair advantage because users learn less, assessment that rewards retained capability rather than polished submission aligns with a belief students already hold.
+
+## Limitations
+
+- The survey is exploratory and deliberately left terms such as "dishonesty" and "unfair" undefined, so respondents interpreted them differently, especially regarding short-term grades versus long-term learning.
+- The sample is 214 undergraduates at two public universities in two United States regions, with 65% from the large institution and 31% majoring in education, so the distribution reflects enrollment patterns rather than a representative national sample.
+- All measures are self-reported and anonymous, with no check on actual AI use; the authors note that answers were not mandatory and that item totals vary.
+- The design is cross-sectional, so no causal direction can be established for the guideline, career and modality associations.
+- The analysis fits separate logistic regressions with modest explained variance (8% in the unfair-advantage model and 9% in the dishonesty model), so unmeasured factors account for most of the variation.
+
+## Citation
+
+Niebuhr, R., Gómez-Franco, L. E., Pickus, D., Finch, H., & Badilla-Quintana, M. G. (2026). [*What Do They Think? Undergraduate Perceptions of Student-AI Use*](https://doi.org/10.55982/openpraxis.18.4.1322). *Open Praxis*, 18(4), 702–719.
 
 ---
 
@@ -104981,6 +105220,62 @@ Raffaghelli, J. E., Vartiainen, H., Bower, M., Ronci, M., Shelton, C., MacCallum
 
 ---
 
+## [Declared, Not Detected: A Blockchain-Anchored, Agentic Framework for Academic Integrity in the Generative AI Era](https://edtechdev.github.io/aied/articles/rahmeh-declared-not-detected-blockchain-integrity-2026/)
+
+> **Synthesis:** Rahmeh and colleagues propose SCRIBE, a conceptual framework that replaces post hoc [[ai-detection|AI detection]] with a declared, process-anchored account of authorship. Students declare an assistance level and attest to their own authorship; an instrumented editor commits process digests to a permissioned ledger; seven smart contracts encode a due-process procedure; four agents prepare cases that a human panel decides. The authors evaluate the design as mechanism verification on 60,000 synthetic submissions whose behavior classes and probe response rates are stated assumptions. Within a 0.5% false-accusation budget their model refers 30.6% of misdeclarations at 97.1% precision. These are outputs of a specified model, not measured performance with real students.
+
+## Key Findings
+1. **The offence is reframed as misdeclaration.** SCRIBE pairs a five-level assistance ladder with a signed attestation of own authorship, so the reportable act is a declaration that does not match how the work was produced rather than the use of a tool.
+2. **The procedure is encoded, not promised.** Seven smart contracts bind the declaration to policy versions, deadlines, panel decisions, and appeals; the authors report that all 59 contract tests pass, each procedural guarantee having a named adverse-path test.
+3. **Within a 0.5% budget, recall is modest and precision high.** In the synthetic test partition SCRIBE refers 30.6% of misdeclarations at 97.1% precision, with a measured false accusation rate of 0.33% — 73 of 22,131 truthful submissions — whereas a simulated detector refers 0.3% at the same budget.
+4. **Process evidence has a hard ceiling.** The process channel's likelihood ratio saturates at 4.29 against prior odds of 0.356, so process evidence alone cannot exceed a posterior of 0.604, below the 0.837 referral threshold; without the oral probe, SCRIBE refers no case at all.
+5. **Evasion splits into two very different threats.** Retyping purchased text leaves referral essentially unchanged at 30.7%, but replaying a plausible writing trace cuts it to 7.2%; bypassing the editor unexpectedly raises referral to 36.4%, though under a 20% oral-capacity limit it falls to 22.9%.
+6. **The equity gain is real but incomplete.** The simulated detector wrongly accuses 61.7% of the least fluent writers at its default threshold, against 0.71% for SCRIBE and 0.44% under a fluency-aware rubric; the residual between-group ratio is 3.9.
+
+## The design: declaration, ledger, adjudication
+
+The framework starts from a claim the authors defend at length: authorship cannot be established from the text itself, and no classifier improvement will change that. Detector evidence is treated as unreliable by design: accuracy collapses under paraphrase, false positives concentrate on writers of English as an additional language, and evasion reduces accuracy to near chance.
+
+The authoring layer runs on the student's device and divides a session into fixed windows. It computes aggregate statistics per window, never transmits raw keystrokes, assembles window digests into a Merkle tree, and sends only the root to the ledger; contents stay encrypted locally and are released selectively for disputed windows. The declaration layer commits a per-segment assistance level, and the ledger seals artifact, trace head, declaration, and policy version into one bundle.
+
+Adjudication separates preparation from decision. A provenance agent estimates whether a passage was composed in the editor; an advocate constructs the strongest innocent account, including accommodation and offline-drafting explanations; a viva agent probes the student on disputed passages; a chair combines the channels and may abstain. No agent can decide a case. The contract layer bars an account holding the agent role from deciding, requires a committed report before any adverse finding, reverts decisions while the response window is open, and prevents the opener from deciding or the decider from hearing the appeal.
+
+## What the synthetic model shows, and what it cannot
+
+The evaluation is explicitly a mechanism-verification exercise. The cohort is 10,000 simulated students with six tasks each, giving 60,000 submissions and 480,000 segments, split by identity into training, calibration, and test partitions. Seven behavior classes carry fixed prevalences, and five evasion tiers are applied to the concealing classes.
+
+The comparison holds false accusation at or below 0.5%, each system choosing its threshold. SCRIBE recovers 30.6% of misdeclarations; a detector recovers 0.3%. At its default threshold the detector recovers 47.5% but wrongly refers 4,703 truthful submissions, and treating the process score as a verdict recovers 67.5% while wrongly referring 4,854.
+
+Because honest offline drafters are numerous among submissions whose text arrived from outside, the process channel cannot carry a referral on its own — the ceiling of 0.604 sits below the 0.837 threshold. Removing the oral probe drives recall to zero. The oral channel is therefore the load-bearing component, and its parameters are assumptions: recall ranges from 5.0% to 52.3% across the original response-rate grid, and from 0.9% to 54.6% on the wider grid. Extending a probe from two questions to twelve raises recall from 19.1% to 45.9%.
+
+## Where the mechanism fails
+
+The authors report their own weak points with unusual directness. Concealed light editing is recovered at only 9.4%, because assisted revision leaves almost no process signature. Honest offline drafters are referred at 1.8%, and honest students who work outside the editor at 2.01%, roughly six times the cohort rate — the clearest inequity the design produces. The advocate, introduced to protect exactly that group, changes nothing at several probe lengths and depends on threshold placement for its effect.
+
+Replay is the structural threat. A student who synthesizes a personal trace from a writing profile defeats the process channel even at crude fidelity, and no refinement of the instrument restores it. Proxy authorship is worse: a paid writer working inside the student's session produces a genuine trace and a consistent declaration, leaving only the oral probe. The proposed continuous authorship verification channel is described but not implemented or evaluated.
+
+The ledger's contribution is also narrower than the framing suggests. For a single institution, the authors' own comparison finds that a witnessed append-only log matches four of the six procedural guarantees at lower complexity; the permissioned ledger earns its place mainly in multi-institution consortia where no party is trusted to operate the record. Deployment costs 6,237,670 gas, an uncontested submission 789,902 gas, and a contested one run to decision 1,351,928 gas. The binding cost is staffing: 31.4% of submissions are probed at the primary operating point, about 79 staff hours per 1,000 submissions.
+
+## What this means for practice
+
+- **Stop treating detector output as evidence.** The paper's policy argument is that a score cannot support an allegation a student has no way to inspect; institutions should say so in published policy and design assessment around declared assistance instead.
+- **Fund oral verification as the primary channel.** Because process evidence cannot exceed a posterior of 0.604 on its own, the probe does the adjudicative work; a 10% to 20% capacity cap captures much of the achievable recall at roughly 25 to 50 staff hours per 1,000 submissions.
+- **Watch who absorbs the errors.** The least fluent writers move from a 61.7% false accusation rate under the simulated detector to 0.71%, but a 3.9 ratio remains; rubrics must assess content understanding rather than fluency, and offline workflows need onboarding rather than suspicion.
+
+## Limitations
+
+- This is a conceptual design proposal, not an outcome study: all 60,000 submissions are synthetic, and every reported rate is an output of the authors' stated model rather than measured performance with real students.
+- The oral channel is simulated and is the largest source of uncertainty; no published source fixes its response rates, recall spans 5.0% to 52.3% across the grid, and a frozen threshold can breach the false-accusation budget when true author accuracy is lower than assumed.
+- The provenance model's near-perfect discrimination is a property of the generator, in which pasting and typing differ by construction; the authors state the figure says nothing about real editor telemetry.
+- Proxy authorship is structurally unaddressed, and the proposed keystroke-dynamics channel is neither implemented nor evaluated; a determined essay mill would attack the remaining oral assumption directly.
+- The detector baseline is a simulation calibrated to published characteristics rather than a real product, results come from a single generator seed, gas was measured on a local Ethereum Virtual Machine without a public testnet, and the registrar role retains unconstrained authority in the prototype.
+
+## Citation
+
+Rahmeh, O. A., Deebajah, M., Siyam, N., Abdul-Rahman, H. S., & Gdeisat, M. (2026). [*Declared, Not Detected: A Blockchain-Anchored, Agentic Framework for Academic Integrity in the Generative AI Era*](https://doi.org/10.3390/info17111094). *Information*, 17(11), 1094.
+
+---
+
 ## [Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education](https://edtechdev.github.io/aied/articles/rail-ed-genai-literacy-teacher-education/)
 
 > **Synthesis:** **RAIL-Ed is an integrative, developmental, and dialectical framework for [[generative-ai|generative AI]] [[ai-literacy|literacy]] in [[k-12|K-12]] [[teacher-education|teacher education]], built from a [[meta-analysis-systematic-review|systematic review]] of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**
@@ -106798,6 +107093,125 @@ Richmond, J. L., & Nicholls, K. (2025). [*Using generative AI to promote psychol
 ## Citation
 
 Riedmann, A., Schaper, P., & Lugrin, B. (2025). [Reinforcement Learning in Education: A Systematic Literature Review](https://doi.org/10.1007/s40593-025-00494-6). *International Journal of Artificial Intelligence in Education*, 35(4), 2669–2723.
+
+---
+
+## [A five-study design-based research approach to co-design an institutional AI digital assistant](https://edtechdev.github.io/aied/articles/rienties-institutional-ai-assistant-co-design-2026/)
+
+> **Synthesis:** Rienties and colleagues report a 13-month design-based research program at The Open University in the UK that co-designed an institutional AI digital assistant (i-AIDA) with 315 students and 20 staff across five consecutive studies. Their central finding is that round-the-clock, immediate feedback tied to the learner's own curriculum mattered more than conversational breadth: in beta testing, students rated flashcards and quizzes above open chat. Attitudes shifted significantly after hands-on use (d = .81), and 16 of 18 beta testers (89%) wanted the assistant for their studies. Around 10–15% of students resisted on values grounds rather than usability grounds. The team distils eight design principles and argues that institutional ownership answers privacy and [[academic-integrity]] worries only when data governance is communicated transparently.
+
+## Key Findings
+
+1. **Five studies, one artifact.** Between December 2023 and January 2025 the team ran five consecutive studies with 315 students and 20 staff, moving from interviews and surveys to alpha testing and a beta test of version 1.1.
+2. **Availability was the most agreed reason for preferring an institutional tool.** In Phase 2 (n = 96), 73% agreed that an i-AIDA would be available round-the-clock for immediate feedback in their academic setting (M = 3.85, SD = 1.15), ahead of ease of use and integration (71%).
+3. **Direct experience moved attitudes.** Before the beta test 9 of 18 students wanted an i-AIDA, 4 were neutral and 5 disagreed; afterwards 16 of 18 (89%) agreed it would be useful for their studies (t = 3.482, p < .01, d = .81).
+4. **Structured study features outperformed chat.** Of 164 feature comments in the beta test, flashcards drew 21 positive and 2 negative comments, quizzes 17 positive and 8 negative, and chat 16 positive and none negative.
+5. **Students compared it favourably with ChatGPT.** On a 1–10 scale against other generative tools, i-AIDA averaged 7.58 (SD = 2.43), with 13 of 18 participants calling it more useful, 1 slightly more useful, 1 similar and 3 inferior.
+6. **Resistance was values-based, not just usability-based.** Across the studies roughly 10–15% of students objected to AI-assisted learning as a dilution of what counts as legitimate study, using words such as "disgraceful" and "dumbing down".
+
+## From three assumptions to eight principles
+
+The study follows the design-based research cycle of focus, understand, define, conceive, build and test, beginning from assumptions rather than fixed principles. An interdisciplinary team of 15 wrote three before collecting data: that embedding an i-AIDA in distance learning would beat public tools, that institutional ownership would address trust and privacy concerns, and that always-available access would improve the student experience.
+
+Phase 1 interviewed ten students after showing them a mock-up with automatic feedback, AI-generated flashcards and a chatbot. Nine thought an i-AIDA would be useful for their studies; six of eight post-survey respondents thought it would be easy to use and five of eight would use it frequently, while two worried their data would be shared or used to train a public model. Four provisional principles followed: usefulness, preference for an in-house solution, ease of use, and privacy.
+
+Phase 2 surveyed 96 students (5% response rate; average age 52.30, SD = 16.61); 58.3% wanted an i-AIDA. Two principles were added — 24/7 availability, and tailoring to academic experience using institution-owned material — and the privacy principle was sharpened to require explicit treatment of academic integrity. Phase 3a put an alpha build before 211 students (11% response rate; average age 45.84, SD = 16.37): 57.3% wanted it, but 8% were strongly negative and around 40 wrote hostile free-text responses. A cluster analysis separated older, highly educated sceptics with little generative AI experience, a middle group with ethical worries, and a larger group of younger, less formally educated heavy AI users who were enthusiastic.
+
+Phase 3b tested the alpha with 20 staff — 7 PhD students and 13 staff, average age 53 (SD = 10.31) — in think-aloud sessions averaging 43 minutes and 56 seconds (SD = 8 min 59 s). All 20 were comfortable with i-AIDA in quizzes, feedback and answer discussion. The sessions exposed a dense layout, chat history that vanished on navigation, two competing "Next" buttons, and feedback that read "very mechanically, like a machine", prompting an accessibility principle.
+
+## What students asked for, and what they worried about
+
+Preference data are consistent across phases. In Phase 2 the six reasons for preferring an institutional assistant ranked: 24/7 availability and immediate feedback (73% agree), ease of use and integration into the module website (71%), personalization (70%), accuracy anchored in institutional content (67%), language and accessibility (65%) and future-oriented guidance (65%).
+
+Concerns were equally stable. Academic integrity drew 80% agreement in Phase 2 (M = 4.16, SD = 1.08), operational challenges 77%, ethical and social implications 76%, the future of education 75% and data privacy and use 71%. Students wanted to know which data would be captured, who would hold it and whether third-party services might harvest it. One asked for "a continual discussion about not just how the [university] will or will not use the data, but also if and how any services you use might harvest the data". Institutional ownership, on this reading, is a claim about governance rather than branding: the walled garden only helps if students can see the walls.
+
+The build reflects the point: retrieval-augmented generation over institution-owned course content, using Microsoft Azure OpenAI text-embedding-ada-002 for ingestion and GPT4o-mini for generation, embedded in the virtual learning environment, with answers signposted back to module materials. That is what participants meant when they said the tool was "more focussed on course material than something like ChatGPT".
+
+## Beta testing: features, tone and the limits of chat
+
+Phase 4 gave 18 students a supervised beta environment and four core tasks — watching an introduction video, chatting, taking a quiz and using flashcards — plus optional dynamic text and role features. All 18 completed the four tasks, 14 explored the dynamic text, and sessions averaged 44 minutes and 16 seconds (SD = 6 min 23 s).
+
+The comment distribution is the most useful design evidence here: of 343 coded comments, 195 (56.9%) concerned the features themselves, 48 engagement and motivation and 26 technical performance, while sentiment ran 169 positive, 135 neutral and 39 negative. Negatives cluster around streaming text — several students wanted the full answer immediately — and around color contrast and dense layouts.
+
+Two principles came out of this phase. The accessibility principle was restated, and an eighth was added: engage students directly in co-design by giving them a functioning system to interact with, because direct experience shifts attitudes and surfaces issues that hypothetical scenarios do not. The authors are careful about what this shows. Low-stakes exposure reduced some skepticism, including among students who arrived hostile, but they refuse to read that as evidence that all resistance can or should be overcome by exposure. Resistance, they argue, is educationally meaningful data about what students believe learning is for.
+
+They are equally careful about the comparative claim: with no experimental comparison against a public assistant, the advantage students report is a perception of curriculum alignment and governance, not a measured learning gain.
+
+## What this means for practice
+
+- **Instructional designers.** Build structured, assessment-oriented features — quizzes generated from course content, flashcards, formative feedback — rather than assuming chat is the product; here those features drew the most positive comment and the least hostility.
+- **Instructors and academic staff.** Position the assistant as complementary to human support and say so explicitly, since the same students who valued 24/7 availability worried about losing tutor relationships and about being "dumbed down".
+- **Institutional decision-makers.** Treat data governance as a precondition rather than a feature: publish what is ingested, where it is held and what is excluded from training, and pilot with volunteer cohorts before scaling, because early consultation did not surface the problems that appeared once people used the system.
+
+## Limitations
+
+- The work took place in one large UK distance-learning institution, with policies, infrastructure and demographics that may not transfer to campus-based or smaller providers.
+- The first three phases rely mainly on self-reported perceptions; process evidence from observed use is concentrated in the last two, resting on 20 staff and 18 students.
+- There is no experimental comparison with a public assistant and no measurement of learning outcomes, retention or performance.
+- Beta testers were a purposive sample of 18 from 27 volunteers, with somewhat more prior generative AI experience than the wider cohort (20.83% versus 10.92%).
+
+## Citation
+
+Rienties, B., Bektik, D., Coughlan, E., Coughlan, T., Domingue, J., Edwards, C., Ekuban, A., Herodotou, C., Kwarteng, J., Sanders, C., Tessarolo, F., & Ullmann, T. (2026). [*A five-study design-based research approach to co-design an institutional AI digital assistant*](https://doi.org/10.1016/j.compedu.2026.105746). *Computers & Education*, *256*, 105746.
+
+---
+
+## [Data and AI Literacy in Geography Education: A Needs Assessment of Pre-Service Geography Teachers](https://edtechdev.github.io/aied/articles/rink-data-ai-literacy-geography-teachers-2026/)
+
+> **Synthesis:** Rink and Peter ask what pre-service geography teachers in Germany believe they need in order to teach with data and with AI. Eighteen advanced trainees — nine university teacher-training students and nine trainee teachers, mean age 26.33 — gave semi-structured interviews of at least 60 minutes, coded in MAXQDA through a deductive-inductive qualitative content analysis that produced 76 categories. Needs clustered overwhelmingly under teacher education rather than school conditions: 18 of 18 named data-related education needs and 17 of 18 named AI-related ones. Data needs were broad and generic — [[ai-literacy|literacy]], handling, visualization, evaluation — while AI needs were more subject-specific, centered on content-related AI knowledge. Ethical and critical dimensions were rarely raised, a gap the authors treat as significant.
+
+## Key Findings
+
+1. **Teacher education absorbed almost all the need.** All 18 participants described data-related needs in teacher education against 4 who mentioned school conditions; for AI the split was 17 against 1.
+2. **Data handling outweighed digitalisation.** Within teacher education, 18 raised data handling and 9 raised digitalisation; data literacy was named by 16, technological pedagogical data knowledge by 12 and pedagogical content data knowledge by 11.
+3. **The data needs were general rather than geographical.** Only 1 participant raised technological content data knowledge, and geography-specific tools such as GIS appeared rarely, though 5 named acquisition and 4 each named visualization and evaluation.
+4. **AI needs were more subject-specific.** Content-related AI knowledge was the largest AI category (n = 11), with 6 wanting to know how AI applies to geography topics, ahead of pedagogical AI knowledge (n = 9) and knowledge of AI tools and their implications (n = 5).
+5. **Handling student AI use was a minority concern.** Pedagogical content AI knowledge drew the fewest mentions, including awareness of students' AI use (n = 3) and data manipulation with AI (n = 1); 2 participants wanted help with AI-generated task solutions.
+6. **Ethics barely surfaced.** The authors report that safe, ethical and critical use of AI was "only marginally referenced, if at all", and that offering students a critical perspective on AI was rarely mentioned.
+
+## Design, sample and coding
+
+This is a qualitative needs assessment set in Hesse, Germany. Participants were recruited through a request to all teacher-training institutes in the federal state and through geography teacher-training students at Marburg University; data were collected in 2025 in 16 online and 2 in-person interviews of at least 60 minutes each. The sample was deliberately balanced: 9 women and 9 men, mean age 26.33, split evenly between university teacher-training students and trainee teachers in the practical phase. The inclusion criterion was advanced training — university students had to have completed a supervised school internship — so that everyone had planned and taught geography lessons and could speak to their own needs.
+
+The guide followed the principle "as open as possible, as structured as necessary" and was refined through three pretests before being split into a data part and an AI part matching the research questions. Analysis used a seven-step structuring qualitative content analysis in MAXQDA 24. Two main categories were derived deductively; subcategories were built both deductively, for instance from Grillenberger and Romeike's data life-cycle, and inductively, producing 76 categories. Two coders worked through the full material with an agreed frame, a third reviewed 15 transcripts, and disagreements were resolved in discussion. Each category was counted once per participant, so frequencies top out at 18.
+
+Two framework choices shape the results. Data categories borrow from the TPACK model, renamed to speak of data rather than technology, and from DPACK for digitalisation. AI categories borrow from AI-PACK, plus an inductively added category for knowledge of AI tools and their implications. The terminology was adjusted because the study asked about needs, not competence gaps.
+
+## Data: strong demand, weak subject specificity
+
+Under teacher education, data handling drew all 18 participants and digitalisation 9. Within data handling the largest single need was general handling (n = 7), followed by acquisition (n = 5), visualization (n = 4), evaluation (n = 4) and an explicit call for data literacy (n = 4). The quotations are practical: where to find usable maps and datasets, how to judge whether a source is appropriate, how to read a data model. One participant asked how to "assess the data I can use"; another said "as a teacher, it can be difficult to determine where to find relevant data".
+
+The geography-specific demand sits in the pedagogical layer, and it is thinner than the general one. Twelve participants raised technological pedagogical data knowledge, and within it 7 wanted to learn how to teach data literacy — helping students critically analyze and evaluate data — while 6 wanted guidance on which data suit which grade levels and levels of complexity. Eleven raised pedagogical content data knowledge, chiefly 8 who wanted examples of how to incorporate data into geography lessons and 5 who wanted general guidance on handling data in lessons. Eight raised content data knowledge, mostly around why data matter and how to connect them to real-world issues.
+
+What is missing is as telling as what is present. Technological content data knowledge drew a single mention, and geospatial technologies, GIS and place-based tools — the discipline's distinctive contribution in the literature — appear mainly as illustrations of a general digital-tools need. The authors read this against Muschaweck's finding that pre-service geography teachers need topic-specific TPACK and Urfan et al.'s result that technological knowledge lags other domains in this group, concluding that the need sits in the pedagogical context rather than the technical content context.
+
+## AI: content knowledge first, critique last
+
+The AI results invert the data pattern. Where data needs were general, AI needs were comparatively subject-specific. Content-related AI knowledge was the largest category (n = 11): 6 participants wanted to understand how AI can be used in a geography-specific context, 3 wanted help designing appropriate tasks, and 3 raised risks attached to content not generally associated with AI tools. Pedagogical AI knowledge followed with 9 participants wanting to see what AI use might look like in a classroom, ideally through demonstration modules. Knowledge of AI tools and their implications drew 5, of whom 4 wanted concrete examples.
+
+One quotation captures the uncertainty: "There's definitely a need for further training because this is all so new and uncertain. We don't even know what it can or can't do or how it can be used." That is a need for orientation as much as for technique, and it sits awkwardly beside the finding that pedagogical content AI knowledge was the smallest category.
+
+The phase findings are small but consistent. Seven participants tied their needs to a stage of teacher education: 3 said AI should be part of university study, while continuing professional development drew 2 calls for mandatory training and 2 for structured exchange with subject colleagues. One participant raised school conditions, noting that many schools lack devices for students as well as teachers.
+
+The authors are explicit about the ethical gap. Measured against AI literacy frameworks that include ethics and critical evaluation, their participants' needs concentrate on knowledge and use. "Understand", in Mills et al.'s sense, referred to how AI can be applied in geography teaching rather than to how it works, and critical evaluation appeared mainly as reflection on impact and data manipulation. Safe and ethical use in schools was, in their words, only marginally referenced. They offer four explanations without choosing among them: lower perceived relevance, career stage, limited awareness of the gap, or the limits of self-report.
+
+## What this means for practice
+
+- **Teacher educators.** Build data content into geography didactics around the data life-cycle — acquisition, visualization, evaluation, archiving — rather than assuming general digital-tools coverage transfers.
+- **Program designers.** Pair AI content with subject examples: participants wanted to see AI applied to geographical phenomena and to practice judging appropriate tasks, which is content knowledge work rather than a generic literacy module.
+- **Faculty and school leaders.** Make ethics and critical evaluation an explicit teaching objective, because participants did not raise them unprompted and a needs assessment cannot surface a gap the respondent does not perceive.
+
+## Limitations
+
+- The sample is 18 pre-service teachers from one German federal state, so findings generalize analytically rather than statistically.
+- Needs are self-reported: participants can only name gaps they are aware of, and the design cannot infer from silence.
+- The study reports needs, not measured competence; frequencies indicate salience, not severity.
+- Only representative quotations appear, and the German-to-English translation adds an interpretive step.
+- University students and trainee teachers were pooled rather than compared.
+
+## Citation
+
+Rink, L. S., & Peter, C. (2026). [*Data and AI Literacy in Geography Education: A Needs Assessment of Pre-Service Geography Teachers*](https://doi.org/10.3390/educsci16111824). *Education Sciences*, *16*(11), 1824.
 
 ---
 
@@ -119835,6 +120249,54 @@ Usher, M., & Faraon, M. (2026). [Who grades best? Comparing ChatGPT, peer, and i
 
 ---
 
+## [Surveillance or Support? A Systematic Literature Review of Artificial Intelligence Supported Proctored Online Exams](https://edtechdev.github.io/aied/articles/ustun-surveillance-or-support-proctored-exams-2026/)
+
+> **Synthesis:** Ustun, Kayali, Yavuz and Bozkurt review 32 studies of artificial intelligence-supported proctored online examinations (AI-SPOE) from Scopus and Web of Science, pairing PRISMA selection with Leximancer text mining of abstracts and keywords. They map a tool stack running from face, voice and iris verification to gaze and posture analytics and lockdown browsers, and the four integrity mechanisms those tools serve. The verdict is split: authentication and behavior analysis do catch impersonation and cheating, but false positives, lighting and bandwidth failures, [[anxiety-and-stress|test anxiety]] and [[privacy]] harms fall hardest on students with the least technical and material margin. The review's recommendation is not more surveillance but [[authentic-assessment|alternative assessment]] alongside human-machine hybrid proctoring.
+
+## Key Findings
+
+1. **Thirty-two studies survived screening.** An unfiltered search returned 127 records, 70 in Web of Science and 57 in Scopus; filters and exclusions left 55, and removing 23 duplicates left 32 articles for analysis.
+2. **Automated proctoring dominates the field.** Of the 32 studies, 59% examined automated proctoring systems, 28% mixed methods, 6% simultaneous surveillance, and 9% adopted a conceptual or literature-based approach with no technical surveillance method.
+3. **Coding reliability was high.** The first two authors pilot-coded five co-authored articles, between 10% and 20% of the sample, and reported 92% internal consistency, above the 80% acceptability threshold they cite.
+4. **"Online" is the corpus's gravitational center.** Leximancer theme hits were 147 for online, 89 for system, 50 for data, 24 for analysis, and 21 for ethical, with face, recognition and academic dishonesty clustering in the smaller themes.
+5. **The harms sort into five categories.** The review groups implementation problems as technical failures, lack of knowledge and skills, psychological problems, access problems, and integration problems.
+
+## What the 32 studies can and cannot show
+
+The search was run in Scopus and Web of Science between October and November 2024, restricted to English-language, open-access articles. Screening moved from 127 records to 84 after type and access filters, to 55 after 29 off-topic exclusions, to 32 after 23 duplicates were removed. The first two authors then analyzed 16 articles each against a standard content-analysis form, coding deductively from the research questions and inductively for codes that emerged from the data, with the third author and a field expert checking the forms. Abstracts and keywords were separately processed through Leximancer and t-SNE. The review is candid that most included studies are single-country or single-institution cases, and that technical papers report laboratory model accuracy without testing user experience or long-term functioning. That matters for how the findings should be read: the corpus establishes what has been built and claimed, not what survives a semester of use.
+
+## The tool stack serves three jobs
+
+The review sorts tools by purpose rather than by model family. Authentication is the largest group: face, voice, eye and fingerprint verification, with RPNow, ExamID, ExamMonitor and TRUSTID among the named systems, the last built on SpeechBrain and PostgreSQL, alongside Real Talk and Deep Speaker for live speaker verification and YOLOv3 and Inception-ResNet for recognition efficiency. Suspicious-behavior analysis is the second group, where Attentive-Net, Proctor Net and FaceNet track eye gaze, mouth movement and head pose, CHEESE extracts multimodal features, and L2-GraftNet with Atom Search Optimization classifies exam behaviors; PyTorch, TensorRT, Celery and RabbitMQ carry the video and audio pipeline. Prevention is the third: Respondus LockDown Browser, Secure Exam Browser and Remote Desktop Protocol restrict what a student's machine can reach, while Kaldi and Gaussian Mixture Models detect voice activity and Turnitin and related tools catch copied text.
+
+## Four mechanisms, and the false positive at the center
+
+Exam integrity in [[remote-proctoring|remote proctoring]] is pursued through authentication mechanisms, real-time monitoring, denial of access to devices, and general exam-security measures such as blockchain records, randomized question ordering and adaptive formats. Each mechanism moves trust away from the student and toward a model's judgment, and the review documents what happens when that judgment errs. Face-recognition errors block legitimate authentication; low light, ambient noise, weak hardware and quota-limited connections raise error rates; and algorithmic bias produces disproportionate false flagging of students with darker skin tones, with the review naming students of color and women as groups affected. Students who did nothing are questioned, reporting is delayed, and the resulting distrust runs between institutions and the students they monitor. The technical literature's accuracy figures do not answer this, because the studies reporting them rarely measure the experience of being wrongly flagged.
+
+## From surveillance to support
+
+The recommendations are organized by audience and converge on the same point. For educational environments, the review asks institutions to pair proctoring with project-based work, oral exams and participation grading, and to let students choose among assessment formats. For developers, it asks for training programs, non-intrusive authentication, larger and more diverse datasets, designs that run on low-capacity hardware, and hybrid models that combine AI detection with human review to weed out false positives. For decision-makers, it asks for explicit ethics and confidentiality rules, transparent management, and access guarantees for students without reliable hardware or connectivity. For researchers, it asks for large-scale, long-term and cross-context studies. Explainable AI, adaptive testing, learning analytics and affect monitoring appear as the likely next layer, on the argument that transparency is what makes a system's decisions contestable.
+
+## What this means for practice
+
+- **Instructors.** Tell students in advance what the system records, what it flags and how a flag is reviewed, then offer at least one assessment route that does not depend on biometric monitoring; the review's evidence for gain rests on detection accuracy, while its evidence for harm rests on the experience of being watched.
+- **Administrators.** Budget for human review and for student-side hardware and bandwidth support, not only for licenses: the review attributes false accusations to recognition error and to environmental conditions, and treats access barriers as a distinct problem category rather than an implementation detail.
+- **Researchers.** Disaggregate detection error by skin tone, lighting and device, and report the experience of flagged students alongside accuracy; the corpus's technical studies otherwise leave the fairness claims of these systems untested in the settings where they are deployed.
+
+## Limitations
+
+- The search covers only English-language, open-access articles in Scopus and Web of Science, run in a single October–November 2024 window, so non-English and non-indexed work is invisible.
+- No DOI is printed in the PDF; the citation therefore rests on volume, issue and article number, and the archived copy is the only stable locator.
+- The 32 included studies are mostly single-country or single-institution case studies, which the authors themselves name as the main threat to generalizability.
+- Text mining was applied to abstracts and keywords only, so the theme hits describe how authors summarize their work rather than what the full texts argue.
+- The distribution figures (59%, 28%, 6%, 9%) are percentages of 32 studies, so a single study moves the result by several points; they describe this corpus rather than estimate the field.
+
+## Citation
+
+Ustun, A. G., Kayali, B., & Yavuz, M. (2026). *Surveillance or support? A systematic literature review of artificial intelligence supported proctored online exams*. Turkish Online Journal of Distance Education, 27(2), Article 1.
+
+---
+
 ## [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://edtechdev.github.io/aied/articles/utility-value-intervention-teach-responsibly-genai-2026/)
 
 > **Synthesis:** Boos, Eder, and Lachner (2026) test whether a scaffolded utility-value intervention improves pre-service teachers' integration of technological, [[pedagogy|pedagogical]], and [[ethics|ethical]] knowledge ([[generative-ai|GenAI]]-TPEK) for [[ai-literacy|responsible AI use]] in [[teacher-role|teaching]], in an experimental field study of 158 pre-service teachers assigned to a utility-value intervention, a scaffolded utility-value intervention, or control. The interventions produced no general effects on knowledge acquisition or integration, but exploratory moderation analyses showed the utility-value intervention was actually detrimental to knowledge integration for learners who already began with high perceived utility-value.
@@ -123581,6 +124043,62 @@ For instructors, the practical task is routing support by profile, not choosing 
 ## Citation
 
 Wu, K., Yang, M., & Lin, C. (2026). [*Engagement or disengagement: understanding the emotional dynamics of EFL learners in GenAI-assisted writing from the sociocultural perspective*](https://doi.org/10.3389/fpsyg.2026.1934782). *Frontiers in Psychology*, 17, 1934782.
+
+---
+
+## [Fifty years of topic development, thematic combination, and AI's evolving reach in Computers & Education](https://edtechdev.github.io/aied/articles/wu-fifty-years-ai-reach-computers-education-2026/)
+
+> **Synthesis:** Wu and colleagues model the first fifty years of *Computers & Education* — 5,739 records assembled, 5,387 eligible articles and reviews — with an eighteen-topic structural topic model, tracing prevalence across five historical periods and the ordered pairing of primary and secondary topics inside each article. The ten most frequent topic pairs fall from 74.4% of documents in 1976–1989 to 16.5% in 2010–2019, a diversification the authors treat as the journal's real intellectual history. A dictionary-based, human-validated AI corpus of 390 records (7.2%) spreads across 17 of the 18 topics, and annual AI prevalence accelerates sharply after 2018. The authors insist this records research attention, not demonstrated effectiveness.
+
+## Key Findings
+1. **A fifty-year corpus, modeled as eighteen topics.** The authors assembled 5,739 records, retained 5,387 eligible articles and reviews, and fitted an eighteen-topic structural topic model over 2,412 terms and 471,226 tokens.
+2. **Four concerns anchor the topic structure.** The four most prevalent topics — learning achievement, teacher integration, computer-assisted learning in engineering and mathematics, and educational tool design — account for 33.9% of modeled text, led by technology interventions and learning achievement at 9.6%.
+3. **Within-article combinations diversified sharply.** The ten most frequent primary–secondary topic pairs represented 74.4% of documents in 1976–1989 but only 16.5% in 2010–2019, while observed ordered pairs rose from 67 to 261.
+4. **The recent period is slightly less diverse, not more concentrated.** In 2020–partial 2026 the archive shows 211 observed pairs and a top-ten share of 18.7%, a modest decline from the 2010s peak that the authors attribute partly to the shorter window.
+5. **AI is distributed across the curriculum of concerns.** The validated AI corpus contains 390 records (7.2%) and appears in 17 of the 18 topics; [[self-regulated-learning|self-regulated learning]] and personalized support carries 85 of 299 records (28.4%), intelligent tutoring 81 of 342 (23.7%), learning analytics 54 of 253 (21.3%), and language learning 23 of 120 (19.2%).
+6. **AI publication prevalence turned upward after 2018.** The annual odds that an article was AI-related rose by 21.8% per year from 1976 to 1989 (OR = 1.218), declined by 3.7% annually through 2018 (OR = .963), then increased by 40.1% annually to 2025 (OR = 1.401), reaching a 30.9% share in 2025 and 52.1% in partial 2026.
+
+## A journal history told through topic mixtures
+
+The corpus covers the journal from its founding through June 16, 2026. Web of Science supplied 5,715 records from 1978 onward; 24 more came from the journal website to cover 1976 and 1977. Eligibility screening left 4,960 articles, 258 records indexed as both article and proceedings paper, and 169 reviews. Titles and abstracts were combined where an abstract existed, and 84 documents remained title-only. The model treats each document as a mixture of eighteen topics rather than assigning it to one, allowing later analysis of co-occurrence.
+
+The eighteen topics are broad but interpretable: computer-assisted learning in engineering and mathematics, educational tool and web resource design, intelligent tutoring and adaptive testing, learning behavior analytics, self-regulated learning and personalized support, and digital literacy and the digital divide. The authors group them into three orientations — technical systems and methods (45.2%), educational activity and experience (26.5%), and the human and social conditions of technology use (28.3%) — and read the balance as evidence that the journal never organized itself around a single technology.
+
+The historical trajectories follow the technology chronology only loosely. Computer-assisted learning exceeded 40% of modeled text in the late 1970s before declining through the 1980s; educational tool and web resource design peaked in the mid-1990s; technology interventions and learning achievement peaked in the mid-2010s; and self-regulated learning and personalized support became the most prominent topic by the end of the series. The authors align these movements with a technology chronology but refuse causal reading.
+
+## Diversification inside the article
+
+The paper's distinctive move is to keep each article's full topic mixture and analyze the ordered pair formed by its largest and second-largest topics. That pair accounts for more than half of modeled text in 64.73% of documents.
+
+Concentration falls steeply and then stabilizes. In 1976–1989, the leading pair T3→T4 alone covered 20.1% of documents and T3→T7 another 15.6%; computer-assisted learning was the primary topic in eight of the ten leading pairs. By 2000–2009 the largest pair was only 2.6%, and in 2010–2019 the largest was 2.3%. Effective diversity, measured with Hill numbers, peaks in 2010–2019 at 177.4 for order 1 and 132.6 for order 2, with normalized entropy of .905. The final period slips to 145.7 and 110.0 but remains far above the early archive.
+
+The authors read this as a change in research problems, not merely vocabulary. Later articles pair technical systems with teacher capacity, learner regulation, analytics, access, and feedback in many more configurations; no single concern organizes the archive the way computer-assisted learning once did. They are careful about what diversity can and cannot show: a broader distribution of topic pairs establishes a wider framing, not greater theoretical integration or better evidence.
+
+## AI as a layered presence rather than a recent arrival
+
+AI-related research is identified with a controlled dictionary of 69 entries in five families, screened automatically then validated by human review, which excluded 21 of 411 candidates. The strict corpus of 390 records is bounded by a title-core count of 208 and an expanded count of 507; its overlapping families are umbrella AI (157), intelligent, adaptive, and agent systems (175), machine learning and perception (118), and generative and foundation models (70).
+
+The distribution is historically legible. Intelligent tutoring and adaptive testing holds 62 intelligent-systems records, or 18.1% of that topic's articles; learning behavior analytics holds 43 machine-learning records (17.0%); self-regulated learning is the convergence point for all four families, with 45 umbrella, 39 intelligent-system, 18 machine-learning, and 30 generative records. Generative and foundation models appear only in the final period. Across the full archive, weighted AI incidence is highest in self-regulated learning (16.8%), intelligent tutoring (15.1%), learning analytics (14.4%), language learning (13.0%), and video lectures and feedback (10.2%).
+
+The temporal pattern is the paper's sharpest correction to prevailing narratives. AI was not absent before [[generative-ai|generative models]]: it grew rapidly in the late 1970s and 1980s around student modeling, expert systems, and intelligent tutoring, declined as a share of a growing archive, and then accelerated after 2018 as generative models joined rather than replaced the older lineages. The authors state plainly that the acceleration measures publication attention and does not establish that AI-supported interventions became more effective.
+
+## What this means for practice
+
+- **Do not read topic growth as evidence of learning benefit.** The paper's own framing separates prevalence from effectiveness; a rise in AI-related articles, including the 30.9% share in 2025, documents what researchers study, not what works for students.
+- **Evaluate AI inside the educational configuration it enters.** Because AI records appear in 17 of 18 topics, the useful question is which function a system performs, for whom, under what pedagogy and assessment regime, and against which outcome — not whether a document mentions AI.
+- **Treat self-regulation and writing as the current pressure points.** The concentration of AI work in self-regulated learning and personalized support (28.4% of that topic's records) and in language learning and higher-order thinking (19.2%) marks where questions about learner agency, evaluation, and authorship are being worked out.
+
+## Limitations
+
+- The model reads titles and abstracts, not full texts, so topics describe stated emphases rather than what studies actually did; 84 records had no retrievable abstract and were represented by title alone.
+- The eighteen-topic solution depends on stemming, vocabulary thresholds, a manual stop list, and model-selection judgments; adjacent solutions could merge or split related topics, so fine distinctions deserve less weight than broad trajectories.
+- The five periods are interpretive windows of unequal length, and the last includes partial 2026; period comparisons, including the diversity decline, remain descriptive rather than tested.
+- Primary–secondary pairs summarize only the two largest topic proportions and fully represent just 64.73% of documents; they are principal configurations, not complete content.
+- AI identification depends on terminology visible in titles and abstracts, so earlier work described in domain-specific language may be missed; the strict count is best read as a transparent lower-bound estimate.
+
+## Citation
+
+Wu, J.-Y., Shih, A.-C., Lee, Y.-H., Chai, C. S., & Tsai, C.-C. (2026). [*Fifty years of topic development, thematic combination, and AI's evolving reach in Computers & Education*](https://doi.org/10.1016/j.compedu.2026.105755). *Computers & Education*, 255, 105755.
 
 ---
 

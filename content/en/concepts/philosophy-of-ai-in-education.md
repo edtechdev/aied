@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T15:16:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -30,6 +30,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **The nature of mind and cognition.** Does thinking require consciousness and a body? Can AI participate in genuinely cognitive processes? Frameworks such as **ensemble cognition** argue that AI exercises *functional agency* — genuine causal efficacy in cognitive processes — without consciousness, and that thinking emerges from dynamic human–[[student-ai-interaction|AI interaction]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Distributed cognition]] and the extended mind thesis make related claims about cognition being spread across systems.
 - **What is the learner?** Posthumanist philosophy reconceptualizes the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) This challenges the assumption that the learner is a bounded, autonomous individual mind.
 - **Embodiment and the limits of disembodied AI.** [[embodied-learning|Embodied]] and post-cognitivist philosophy critiques the dominance of symbolic, disembodied AI models, arguing that cognition is grounded in situationality, emergence, and sensorimotor coupling that current [[generative-ai|generative AI]] lacks.([[videla-embodied-ai-education-choreography]])
+- **Emotional labor as the test case for machinic minds.** The field's arguments about whether AI can teach often turn on whether it can *care*, a question argued long before [[affective-computing|affective computing]] existed. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstructs the 1950–1996 debate, in which Ziff's claim that only living creatures can literally have feelings was answered by Smart's identity theory and Putnam's behavioral criterion, leaving three rival ontologies unresolved. His conclusion is a burden of justification rather than an impossibility claim — representation, simulation and mimicry underdetermine emotional labor — which puts the burden on anyone who would delegate pastoral work to a system.
 - **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **The ontology of AI-generated scientific objects.** In [[chemistry-education|chemistry]], AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Cognitive passivity as an epistemic harm.** Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which supplies the work does not merely offload thinking but forecloses it, with Bourdieu's field and habitus locating the risk in institutional structures ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
@@ -108,3 +109,4 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Human-centered' AIED read as an anthropocentric discourse with commercial uses (Wang & Jin 2026)
+- [[khan-machines-emotional-labor-education-2026]] — Can machines perform emotional labor? The 1950–1996 debate, and why mimicry underdetermines care
