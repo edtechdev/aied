@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T18:35:00-05:00"
+updated: "2026-11-05T08:55:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -59,6 +59,8 @@ The corpus also carries the pessimistic reading in argument rather than measurem
 
 
 A larger cross-sectional survey points the other way: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with critical thinking (β = 0.492), and critical thinking carried roughly 85.0% of the path from functional dependence to research creativity ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
+
+- **Prior knowledge and task timing set the sign of the effect.** Across 108 reviewed documents, GenAI raised critical-thinking performance for experienced researchers (+0.20) and lowered it for novices (−0.13); early access helps under time pressure but impairs critical thinking when deliberation time exists ([[zapata-hernandez-genai-cognitive-infrastructure-review-2026|Zapata-Hernandez et al. 2026]]).
 
 - **A short reflection prompt makes reliance on AI advice more discriminative.** In a three-condition experiment with 342 undergraduates, Ren (2026) found that open ChatGPT support produced acceptance of incorrect AI recommendations on 62.4% of trials, falling to 39.7% with a brief metacognitive reflection prompt (OR = 0.40, 95% CI [0.28, 0.56]); reflection also improved awareness calibration (0.59 vs. 0.41) and cut the AI-specific attribution bias index from 0.42 to 0.21 without reducing recommendation accuracy or triggering blanket rejection of useful advice. ([[ren-metacognitive-awareness-genai-reliance-2026|Ren 2026]])
 
@@ -145,4 +147,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[genai-dependence-research-creativity-2026]] — GenAI dependence positively associated with critical thinking in 1,157 graduate students
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — The pessimistic reading of the moderation evidence: friction loss, automation bias, efficiency frame
+- [[zapata-hernandez-genai-cognitive-infrastructure-review-2026]] — Narrative review of 108 documents: the effect's sign tracks prior knowledge and task timing (AMCIF framework)
 
