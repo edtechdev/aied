@@ -1,9 +1,9 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T17:37:01-05:00"
-updated: "2026-11-04T18:11:18-05:00"
+updated: "2026-11-05T02:05:00-05:00"
 type: resource
-summary: "Open AI infrastructure from Mark Zuckerberg and Priscilla Chan's education initiative: a knowledge graph of standards, curricula and learning science data, evaluators for judging LLM output, and model-agnostic agent skills for teacher workflows."
+summary: "Open AI infrastructure for education products: a knowledge graph of standards and curricula, evaluators for scoring LLM output, model-agnostic agent skills for teacher workflows, and Curriculum Sync for loading curricula into a learning management system."
 url: https://learningcommons.org/
 source_code: https://github.com/learning-commons-org
 author: "Learning Commons"
@@ -25,19 +25,25 @@ ai_assist:
     agent: hermes-agent
 ---
 
-**Learning Commons** is Mark Zuckerberg and Priscilla Chan's education initiative, launched in 2025 to carry the Chan Zuckerberg Initiative's learning-science work into the infrastructure that edtech products are actually built on. Its argument is infrastructural rather than pedagogical: research exists, academic standards exist, and high-quality curricula exist, but they sit in separate systems, so developers build on whatever is easiest to reach. The organization publishes three open tools on GitHub — a Knowledge Graph, a set of Evaluators, and [[agentic-ai|Agent Skills]] — and operates a platform that adds Curriculum Sync for loading curricula into a [[edtech-platform|learning management system]].
+**Learning Commons** publishes three open tools for putting AI features on top of real curriculum content — a **Knowledge Graph** of academic standards, curricula and learning-science research, a library of **Evaluators** for judging generated text, and model-agnostic **Agent Skills** for common teacher workflows — and runs a platform that adds Curriculum Sync for loading curricula into a learning management system.
 
 ## What you can do with it
 
-The **Knowledge Graph** models academic standards, curricula and learning-science research as entities and relationships under one shared schema, so a tool can align generated content to a standard without building its own data pipeline. The **Evaluators** measure attributes of [[llm|LLM output]] through a learning-science lens — text complexity, [[feedback]], academic standards alignment and durable skills — and ship with Python and TypeScript SDKs, published on npm and PyPI, for scoring generated content or comparing candidate models. **Agent Skills** package instructions, references and guardrails for common teacher workflows in an open, model-agnostic format: a check for understanding, tiered lesson differentiation, standards-aligned lesson plans, and lesson preparation. In practice the graph is what makes the other two credible: content alignment is the claim, and the graph is the reference it is checked against.
+**Align generated content to a standard.** The [[knowledge-graph|Knowledge Graph]] models standards, [[curriculum-design|curricula]] and research as entities and relationships under one shared schema. A product can look up the standard an item should target, traverse prerequisite relationships, or ground a tutor's content in the curriculum it is supposed to teach, without building and maintaining its own data pipeline.
+
+**Score generated output before students see it.** The **Evaluators** measure attributes of [[llm|LLM output]] — text complexity, [[feedback]], standards alignment and durable skills — and ship as Python and TypeScript SDKs on npm and PyPI. In practice they work as a regression check when a prompt or model changes, as a comparison across candidate models, or as a filter on generated items and explanations.
+
+**Package a teacher workflow.** **Agent Skills** bundle instructions, references and guardrails in an open, model-agnostic format: a check for understanding, tiered lesson differentiation, a standards-aligned lesson plan, and lesson preparation. They can be dropped into an [[agentic-ai|agent framework]] or read as worked templates for how much structure a reliable classroom workflow needs.
+
+**Move a curriculum into a learning management system.** Curriculum Sync is the platform step that turns a standards map into something a course can actually use ([[edtech-platform|LMS]]).
 
 ## Who it is for
 
-Developers building AI features into [[curriculum-design|curriculum]] and assessment products, and the curriculum or standards teams who supply the data those products align to. Instructors can use the agent skills on their own, but the repository's own framing is infrastructure for people shipping tools.
+Developers building AI features into curriculum and [[assessment|assessment]] products, and the curriculum or standards teams who supply the data those products align to. [[teacher-role|Instructors]] can use the Agent Skills on their own, but the repository's own framing is infrastructure for people shipping tools.
 
 ## Notes and caveats
 
-Being open in [[open-source|source]] does not make the data open. The Knowledge Graph code is MIT, while each dataset carries its own access label — Open, Open + Gated, or Gated — and Gated content is explicitly not covered by the open licenses the repository cites, so check the dataset catalog before assuming reuse rights. Evaluator code is MIT and its prompt content CC BY 4.0, but the annotated CLEAR and PERSUADE 2.0 corpora it uses are CC BY-NC-SA 4.0. The platform and the datasets behind it need an account. Repository activity as read on 2026-11-04: 167 stars for the Knowledge Graph, 88 for Evaluators, 41 for Agent Skills. The initiative is funded by CZI, and its framing of the problem is the funder's own.
+Being [[open-source|open source]] does not make the data open. The Knowledge Graph and Evaluator code is MIT and Agent Skills is Apache-2.0, while each dataset carries its own access label — Open, Open + Gated, or Gated — and Gated content is not covered by the open licenses the repository cites, so check the dataset catalog before assuming reuse rights. Evaluator prompt content is CC BY 4.0, but the annotated CLEAR and PERSUADE 2.0 corpora it uses are CC BY-NC-SA 4.0. The platform and the datasets behind it need an account.
 
 ## Connected Concepts
 
