@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "description": "Internal build-size budgets for the published AIEd static site. These are project policy, not GitHub guarantees. GitHub Pages documents a 1 GB published-site ceiling; the blocking budget leaves at least 250 MB of headroom below a conservative interpretation of that ceiling.",
+  "published": {
+    "warning_bytes": 600000000,
+    "blocking_bytes": 750000000,
+    "hosting_ceiling_bytes": 1000000000,
+    "allow_editions": []
+  },
+  "diagnostics": {
+    "html_page_warning_bytes": 1000000,
+    "shell_share_warning": 0.40,
+    "baseline_growth_warning_bytes": 25000000,
+    "baseline_growth_warning_percent": 5.0
+  },
+  "enforcement": {
+    "active": false,
+    "reason": "Observation mode: the reviewed baseline measured 2,070,889,441 published bytes (2070.89 MB) on 2026-11-06, above the 750 MB blocking budget and the conservative 1 GB hosting marker. Enforcement stays off until a reviewed reduction or an explicit budget decision; do not raise the budget silently."
+  }
+}

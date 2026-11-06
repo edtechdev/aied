@@ -1,6 +1,9 @@
 # Build output
 dist/
 
+# Build-size reports (generated; review baseline is under tooling/)
+reports/
+
 # Dev
 .astro/
 

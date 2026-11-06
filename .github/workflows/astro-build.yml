@@ -6,9 +6,14 @@ on:
   pull_request:
     branches: [main]
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -20,6 +25,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install pyyaml
+      - name: Run build tooling tests
+        run: python3 -m unittest discover -s tooling/tests -p 'test_*.py' -v
       - name: Validate config and concept registry
         run: |
           python3 tooling/scripts/wiki_config.py --check
@@ -36,44 +43,59 @@ jobs:
           # PWA: manifest + service worker must be present
           test -f dist/manifest.webmanifest
           test -f dist/sw.js
-      - name: Check the deploy artifact fits Pages
+      - name: Report build size
+        id: size
+        # Keep the report even when the reporter itself finds an invalid
+        # output tree or (in enforce mode) the blocking budget. A later step
+        # turns a failure into a job failure after the report uploads.
+        continue-on-error: true
         run: |
-          # The offline editions must NOT be in the artifact. They are already
-          # compressed (a PDF and an EPUB are both containers), so GitHub packs
-          # them at full weight: ~161 MB was enough to push the artifact past
-          # its 1 GB limit and towards its 10-minute deploy timeout.
-          if ls dist/*.epub dist/*.pdf >/dev/null 2>&1; then
-            echo "::error::dist/ still contains offline editions - astro.config.mjs stripOfflineEditions() did not run"
-            ls dist/*.epub dist/*.pdf
-            exit 1
-          fi
-          # Report the size GitHub will upload and fail before Pages does.
-          # Measured by gzip-packing dist, the same way upload-pages-artifact does.
-          BYTES=$(tar czf - dist | wc -c)
-          echo "Deploy artifact (gzip): $BYTES bytes"
-          # GitHub's limit is 1 GiB (1073741824). Fail at 1 GB to leave room for
-          # the packer's own overhead, and so a regression is caught here rather
-          # than as a Pages timeout after an 8-minute deploy.
-          if [ "$BYTES" -gt 1000000000 ]; then
-            echo "::error::deploy artifact is $BYTES bytes - over 1 GB, Pages will warn and may time out"
-            exit 1
-          fi
-      - name: Package the built site for the deploy job
-        run: |
-          # One tarball per push; the deploy workflow downloads and publishes
-          # this instead of rebuilding the site a second time.
-          tar czf site.tar.gz dist
-          SIZE=$(stat -c %s site.tar.gz)
-          echo "Packaged site: $SIZE bytes"
-          # Keep headroom under the 1 GiB upload-pages-artifact cap enforced
-          # above; upload-artifact itself permits up to 2 GB per artifact.
-          if [ "$SIZE" -gt 1000000000 ]; then
-            echo "::error::site package is $SIZE bytes - over the 1 GB Pages cap, split or trim before continuing"
-            exit 1
-          fi
-      - uses: actions/upload-artifact@v4
+          rm -rf reports/build-size
+          python3 tooling/scripts/report-build-size.py \
+            --dist dist \
+            --config tooling/build-size-budget.json \
+            --out reports/build-size \
+            --mode report
+      - name: Append build-size summary
+        if: always() && hashFiles('reports/build-size/summary.md') != ''
+        run: cat reports/build-size/summary.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload build-size report
+        if: always() && hashFiles('reports/build-size/report.json') != ''
+        uses: actions/upload-artifact@v4
         with:
-          name: built-site
-          path: site.tar.gz
+          name: build-size-report
+          path: reports/build-size
           retention-days: 7
-          if-no-files-found: error
+      - name: Fail if the build-size report is invalid
+        if: steps.size.outcome == 'failure'
+        run: exit 1
+      # One packaging operation, one Pages artifact. The deploy job only
+      # deploys this named artifact; it never downloads, extracts, or re-tars.
+      - name: Upload Pages artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main' && steps.size.outcome == 'success'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+          name: github-pages
+          retention-days: 1
+
+  deploy:
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages-astro
+      cancel-in-progress: true
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages

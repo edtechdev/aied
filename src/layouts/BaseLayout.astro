@@ -268,7 +268,7 @@ const recentConceptItems = recentConcepts.map(c => {
       <link rel="alternate" hreflang="x-default" href={siteConfig.url + localeHref(pageRoute, siteConfig.i18n.defaultLocale).slice(siteConfig.basePath.length)} />
     </>
   )}
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Embed mode: if the URL carries ?embed (or ?embed=1), mark <html> and force
     // light mode BEFORE first paint so the chromeless page never flashes dark.
     (function () {
@@ -308,11 +308,11 @@ const recentConceptItems = recentConcepts.map(c => {
   <title>{title} — {chrome.siteName}</title>
   <!-- Critical dark background so navigation never flashes white before the
        external stylesheet loads (the site is always dark-themed). -->
-  <style is:inline>
+  <style is:inline data-build-region="inline-style">
     html { background-color: #11191f; }
     html[data-embed] { background-color: #fff; }
   </style>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Apply the saved theme before first paint to avoid flashing the wrong mode.
     (function () {
       try {
@@ -1323,7 +1323,7 @@ const recentConceptItems = recentConcepts.map(c => {
   </style>
 </head>
 <body>
-  <header data-nav-header>
+  <header data-nav-header data-build-region="header">
     <div class="container">
       <div class="header-left">
         <button class="nav-toggle" data-nav-toggle type="button" aria-label={chrome.toggleNavigation} aria-expanded="false">
@@ -1443,7 +1443,7 @@ const recentConceptItems = recentConcepts.map(c => {
     <div class="docs-layout">
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
       <button class="nav-backdrop" data-nav-toggle type="button" aria-label={chrome.closeNavigation}></button>
-      <aside class="sidebar" data-nav-drawer aria-label={chrome.conceptNavigation}>
+      <aside class="sidebar" data-nav-drawer data-build-region="sidebar" aria-label={chrome.conceptNavigation}>
         <!-- Sidebar tabs: Concepts (default), FAQs, Starred -->
         <div class="sidebar-tabs" role="tablist" aria-label={chrome.sidebarSections}>
           <button class="sidebar-tab" role="tab" data-sidebar-tab="concepts" aria-selected="true" aria-controls="sidebar-panel-concepts">
@@ -1515,7 +1515,7 @@ const recentConceptItems = recentConcepts.map(c => {
       <!-- Right: on-this-page TOC (content pages) + recent activity.
            On mobile this rail stacks below the content in the single-column
            grid, so the recent lists also appear below the page there. -->
-      <aside class="right-col" aria-label={toc.length > 0 ? chrome.onThisPage : chrome.recentActivity}>
+      <aside class="right-col" data-build-region="right-rail" aria-label={toc.length > 0 ? chrome.onThisPage : chrome.recentActivity}>
         {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} title={chrome.onThisPage} />}
         <div class="recent-rail">
           <RecentActivity pages={recentPageItems} concepts={recentConceptItems} locale={locale} />
@@ -1524,7 +1524,7 @@ const recentConceptItems = recentConcepts.map(c => {
     </div>
   </main>
 
-  <footer>
+  <footer data-build-region="footer">
     <div class="container">
       <div class="footer-nav">
         <a href={`${siteConfig.basePath}/`}>{chrome.home}</a>{' | '}
@@ -1572,7 +1572,7 @@ const recentConceptItems = recentConcepts.map(c => {
       page is the entry point, so it is the one place that reads the stored choice
       back. Picking English again stores 'en' and stops the redirect. */}
   {pageRoute === '/' && locale === DEFAULT_LOCALE && (
-    <script is:inline define:vars={{ codes: siteConfig.i18n.locales.map((l) => l.code) }}>
+    <script is:inline define:vars={{ codes: siteConfig.i18n.locales.map((l) => l.code) }} data-build-region="inline-script">
       (() => {
         let stored = null;
         try {
@@ -1678,7 +1678,7 @@ const recentConceptItems = recentConcepts.map(c => {
   <script>
     import '../pwa';
   </script>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Mobile nav drawer. Any element with [data-nav-toggle]
     // (hamburger in header, backdrop overlay) opens/closes the drawer by toggling
     // data-nav-open on <html>. The drawer top tracks the header bottom.
@@ -1722,7 +1722,7 @@ const recentConceptItems = recentConcepts.map(c => {
       syncInert();
     })();
   </script>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Persist the open/collapsed state of every collapsible sidebar section
     // (nav sections, starred groups, TOC, recent lists) to localStorage so a
     // visitor's chosen collapse state is restored when they navigate pages.
@@ -1747,7 +1747,7 @@ const recentConceptItems = recentConcepts.map(c => {
       });
     })();
   </script>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Sidebar tabs (Concepts / FAQs / Starred). Concepts is the default; the
     // selected tab is persisted in localStorage so it's restored on navigation.
     (() => {
@@ -1781,7 +1781,7 @@ const recentConceptItems = recentConcepts.map(c => {
       });
     })();
   </script>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Desktop sidebar collapse toggle. Persists the collapsed state in
     // localStorage so a visitor's preference is remembered across pages.
     (() => {
@@ -1810,7 +1810,7 @@ const recentConceptItems = recentConcepts.map(c => {
       });
     })();
   </script>
-  <script is:inline>
+  <script is:inline data-build-region="inline-script">
     // Light/dark mode toggle. Defaults to dark; preference persists in localStorage.
     (() => {
       const KEY = 'aied:theme';

@@ -1,0 +1,337 @@
+{
+  "categories": {
+    "AI exports": {
+      "bytes": 131981697
+    },
+    "CSS": {
+      "bytes": 143974
+    },
+    "Fonts": {
+      "bytes": 1217140
+    },
+    "HTML": {
+      "bytes": 1798456557
+    },
+    "Images": {
+      "bytes": 1310493
+    },
+    "JS": {
+      "bytes": 55110
+    },
+    "Other": {
+      "bytes": 12703263
+    },
+    "Pagefind": {
+      "bytes": 125021207
+    }
+  },
+  "locales": {
+    "ar": {
+      "bytes": 72239879
+    },
+    "bg": {
+      "bytes": 20869326
+    },
+    "bn": {
+      "bytes": 85724771
+    },
+    "cs": {
+      "bytes": 19018397
+    },
+    "da": {
+      "bytes": 18805873
+    },
+    "de": {
+      "bytes": 68023062
+    },
+    "el": {
+      "bytes": 21430034
+    },
+    "en": {
+      "bytes": 356482282
+    },
+    "es": {
+      "bytes": 70654874
+    },
+    "fi": {
+      "bytes": 19208616
+    },
+    "fr": {
+      "bytes": 72131913
+    },
+    "he": {
+      "bytes": 69919986
+    },
+    "hi": {
+      "bytes": 85316080
+    },
+    "hr": {
+      "bytes": 19109312
+    },
+    "hu": {
+      "bytes": 19377963
+    },
+    "id": {
+      "bytes": 67514641
+    },
+    "it": {
+      "bytes": 68322107
+    },
+    "ja": {
+      "bytes": 68178663
+    },
+    "ko": {
+      "bytes": 67663259
+    },
+    "nl": {
+      "bytes": 18876535
+    },
+    "no": {
+      "bytes": 18814989
+    },
+    "pl": {
+      "bytes": 18928832
+    },
+    "pt": {
+      "bytes": 68083710
+    },
+    "ro": {
+      "bytes": 19207825
+    },
+    "ru": {
+      "bytes": 77950189
+    },
+    "shared": {
+      "bytes": 151520148
+    },
+    "sk": {
+      "bytes": 19042057
+    },
+    "sv": {
+      "bytes": 19110042
+    },
+    "sw": {
+      "bytes": 63864356
+    },
+    "tr": {
+      "bytes": 68005075
+    },
+    "uk": {
+      "bytes": 77788018
+    },
+    "ur": {
+      "bytes": 75069384
+    },
+    "vi": {
+      "bytes": 19796982
+    },
+    "zh": {
+      "bytes": 64840261
+    }
+  },
+  "published_bytes": 2070889441,
+  "schema_version": 1,
+  "source_commit": "f07edd3ef1a2b36fea08f26897fe2e18c936ec6a",
+  "top_files": {
+    "ar/concepts/ai-literacy/index.html": 329627,
+    "ar/concepts/cognitive-offloading/index.html": 325734,
+    "ar/concepts/teacher-role/index.html": 311329,
+    "ar/journal/index.html": 1940544,
+    "bg/concepts/academic-integrity/index.html": 318652,
+    "bg/concepts/ai-literacy/index.html": 359615,
+    "bg/concepts/cognitive-offloading/index.html": 314355,
+    "bg/concepts/teacher-role/index.html": 307690,
+    "bg/faqs/addressing-common-misconceptions-ai-education/index.html": 296223,
+    "bg/journal/index.html": 1923932,
+    "bn/concepts/academic-integrity/index.html": 381820,
+    "bn/concepts/agency/index.html": 312631,
+    "bn/concepts/agentic-ai/index.html": 332699,
+    "bn/concepts/ai-literacy/index.html": 451463,
+    "bn/concepts/assessment-validity/index.html": 339321,
+    "bn/concepts/automated-assessment/index.html": 321423,
+    "bn/concepts/cognitive-offloading/index.html": 394430,
+    "bn/concepts/cs-education/index.html": 315601,
+    "bn/concepts/educational-measurement/index.html": 304988,
+    "bn/concepts/educational-policy-ai/index.html": 302364,
+    "bn/concepts/equity-in-ai-education/index.html": 327394,
+    "bn/concepts/feedback/index.html": 328358,
+    "bn/concepts/human-ai-collaboration/index.html": 305598,
+    "bn/concepts/intelligent-tutoring/index.html": 343014,
+    "bn/concepts/llm-training-and-fine-tuning/index.html": 311200,
+    "bn/concepts/meta-analysis-systematic-review/index.html": 302386,
+    "bn/concepts/metacognition/index.html": 301411,
+    "bn/concepts/online-teaching-and-learning/index.html": 296936,
+    "bn/concepts/pedagogical-patterns/index.html": 333870,
+    "bn/concepts/research-methods-aied/index.html": 309328,
+    "bn/concepts/self-regulated-learning/index.html": 330308,
+    "bn/concepts/teacher-ai-competency/index.html": 319648,
+    "bn/concepts/teacher-role/index.html": 360666,
+    "bn/concepts/writing-education/index.html": 307082,
+    "bn/faqs/addressing-common-misconceptions-ai-education/index.html": 353569,
+    "bn/journal/index.html": 1954008,
+    "concepts/ai-literacy/index.html": 310750,
+    "cs/journal/index.html": 1915217,
+    "da/journal/index.html": 1914569,
+    "de/concepts/ai-literacy/index.html": 316359,
+    "de/journal/index.html": 1926697,
+    "el/concepts/academic-integrity/index.html": 337956,
+    "el/concepts/ai-literacy/index.html": 388437,
+    "el/concepts/cognitive-offloading/index.html": 331905,
+    "el/concepts/teacher-role/index.html": 329296,
+    "el/faqs/addressing-common-misconceptions-ai-education/index.html": 306277,
+    "el/journal/index.html": 1926535,
+    "es/concepts/academic-integrity/index.html": 297076,
+    "es/concepts/ai-literacy/index.html": 341253,
+    "es/concepts/cognitive-offloading/index.html": 303564,
+    "es/journal/index.html": 1929315,
+    "fi/concepts/ai-literacy/index.html": 295175,
+    "fi/journal/index.html": 1915739,
+    "fr/concepts/academic-integrity/index.html": 303726,
+    "fr/concepts/ai-literacy/index.html": 347513,
+    "fr/concepts/cognitive-offloading/index.html": 307598,
+    "fr/journal/index.html": 1931054,
+    "he/concepts/ai-literacy/index.html": 303322,
+    "he/concepts/cognitive-offloading/index.html": 308433,
+    "he/journal/index.html": 1935488,
+    "hi/concepts/academic-integrity/index.html": 382052,
+    "hi/concepts/agency/index.html": 311721,
+    "hi/concepts/agentic-ai/index.html": 330207,
+    "hi/concepts/ai-literacy/index.html": 433237,
+    "hi/concepts/assessment-validity/index.html": 326917,
+    "hi/concepts/automated-assessment/index.html": 316658,
+    "hi/concepts/cognitive-offloading/index.html": 389923,
+    "hi/concepts/cs-education/index.html": 309287,
+    "hi/concepts/educational-measurement/index.html": 311519,
+    "hi/concepts/educational-policy-ai/index.html": 299713,
+    "hi/concepts/equity-in-ai-education/index.html": 325810,
+    "hi/concepts/feedback/index.html": 322544,
+    "hi/concepts/human-ai-collaboration/index.html": 302123,
+    "hi/concepts/intelligent-tutoring/index.html": 343637,
+    "hi/concepts/learning-design/index.html": 295919,
+    "hi/concepts/learning-gains/index.html": 294342,
+    "hi/concepts/llm-training-and-fine-tuning/index.html": 314945,
+    "hi/concepts/meta-analysis-systematic-review/index.html": 304712,
+    "hi/concepts/metacognition/index.html": 297058,
+    "hi/concepts/online-teaching-and-learning/index.html": 298800,
+    "hi/concepts/pedagogical-patterns/index.html": 324803,
+    "hi/concepts/research-methods-aied/index.html": 309946,
+    "hi/concepts/self-regulated-learning/index.html": 319248,
+    "hi/concepts/teacher-ai-competency/index.html": 314740,
+    "hi/concepts/teacher-role/index.html": 367331,
+    "hi/concepts/writing-education/index.html": 297854,
+    "hi/faqs/addressing-common-misconceptions-ai-education/index.html": 349465,
+    "hi/journal/index.html": 1953292,
+    "hr/concepts/ai-literacy/index.html": 295934,
+    "hr/journal/index.html": 1916700,
+    "hu/journal/index.html": 1915903,
+    "id/concepts/ai-literacy/index.html": 317984,
+    "id/journal/index.html": 1925918,
+    "it/concepts/ai-literacy/index.html": 320421,
+    "it/journal/index.html": 1928016,
+    "ja/concepts/ai-literacy/index.html": 326271,
+    "ja/journal/index.html": 1929940,
+    "journal/index.html": 1909222,
+    "ko/concepts/ai-literacy/index.html": 317707,
+    "ko/journal/index.html": 1926159,
+    "llms-concepts.txt": 4221456,
+    "llms-full.txt": 22231845,
+    "llms.ar-concepts.txt": 6421624,
+    "llms.bn-concepts.txt": 9267436,
+    "llms.de-concepts.txt": 4568748,
+    "llms.es-concepts.txt": 5110380,
+    "llms.fr-concepts.txt": 5395953,
+    "llms.he-concepts.txt": 5313032,
+    "llms.hi-concepts.txt": 9171410,
+    "llms.id-concepts.txt": 4428081,
+    "llms.it-concepts.txt": 4643345,
+    "llms.ja-concepts.txt": 5407628,
+    "llms.ko-concepts.txt": 4520593,
+    "llms.pt-concepts.txt": 4585596,
+    "llms.ru-concepts.txt": 7460169,
+    "llms.sw-concepts.txt": 4272303,
+    "llms.tr-concepts.txt": 4572889,
+    "llms.txt": 1347066,
+    "llms.uk-concepts.txt": 7045413,
+    "llms.ur-concepts.txt": 6906214,
+    "llms.zh-concepts.txt": 3842333,
+    "nl/journal/index.html": 1915904,
+    "no/journal/index.html": 1914188,
+    "pagefind/index/bn_3757622.pf_index": 647881,
+    "pagefind/index/bn_be9e13d.pf_index": 793945,
+    "pagefind/index/bn_e4f6514.pf_index": 759450,
+    "pagefind/index/hi_a5c8ab4.pf_index": 344445,
+    "pagefind/index/hi_c28dbe7.pf_index": 567253,
+    "pagefind/index/hi_cb2b5c1.pf_index": 547603,
+    "pagefind/index/hi_fcf56b1.pf_index": 586592,
+    "pagefind/index/ko_f353a36.pf_index": 2502410,
+    "pl/journal/index.html": 1915190,
+    "pt/concepts/ai-literacy/index.html": 318571,
+    "pt/journal/index.html": 1927907,
+    "ro/journal/index.html": 1915818,
+    "ru/concepts/academic-integrity/index.html": 340848,
+    "ru/concepts/ai-literacy/index.html": 385712,
+    "ru/concepts/cognitive-offloading/index.html": 354737,
+    "ru/concepts/intelligent-tutoring/index.html": 303112,
+    "ru/concepts/teacher-role/index.html": 324496,
+    "ru/faqs/addressing-common-misconceptions-ai-education/index.html": 311211,
+    "ru/journal/index.html": 1946098,
+    "sitemap-0.xml": 1112227,
+    "sk/journal/index.html": 1915445,
+    "sv/concepts/ai-literacy/index.html": 298051,
+    "sv/journal/index.html": 1914580,
+    "sw/journal/index.html": 1926716,
+    "titles/ar.json": 343043,
+    "titles/bg.json": 339600,
+    "titles/bn.json": 348342,
+    "titles/cs.json": 336886,
+    "titles/da.json": 336804,
+    "titles/de.json": 337604,
+    "titles/el.json": 340560,
+    "titles/en.json": 336520,
+    "titles/es.json": 338455,
+    "titles/fi.json": 337294,
+    "titles/fr.json": 339187,
+    "titles/he.json": 340956,
+    "titles/hi.json": 348104,
+    "titles/hr.json": 337494,
+    "titles/hu.json": 337238,
+    "titles/id.json": 337317,
+    "titles/it.json": 338138,
+    "titles/ja.json": 338816,
+    "titles/ko.json": 337123,
+    "titles/nl.json": 336911,
+    "titles/no.json": 336662,
+    "titles/pl.json": 337074,
+    "titles/pt.json": 337995,
+    "titles/ro.json": 337186,
+    "titles/ru.json": 345393,
+    "titles/sk.json": 336922,
+    "titles/sv.json": 336770,
+    "titles/sw.json": 337652,
+    "titles/tr.json": 337844,
+    "titles/uk.json": 344134,
+    "titles/ur.json": 341041,
+    "titles/vi.json": 337983,
+    "titles/zh.json": 335920,
+    "tr/concepts/ai-literacy/index.html": 317678,
+    "tr/journal/index.html": 1926871,
+    "uk/concepts/academic-integrity/index.html": 341903,
+    "uk/concepts/agentic-ai/index.html": 298449,
+    "uk/concepts/ai-literacy/index.html": 382241,
+    "uk/concepts/assessment-validity/index.html": 297312,
+    "uk/concepts/cognitive-offloading/index.html": 348044,
+    "uk/concepts/equity-in-ai-education/index.html": 295746,
+    "uk/concepts/intelligent-tutoring/index.html": 309282,
+    "uk/concepts/teacher-role/index.html": 329852,
+    "uk/faqs/addressing-common-misconceptions-ai-education/index.html": 302770,
+    "uk/journal/index.html": 1943935,
+    "ur/concepts/academic-integrity/index.html": 324911,
+    "ur/concepts/ai-literacy/index.html": 362482,
+    "ur/concepts/cognitive-offloading/index.html": 329931,
+    "ur/concepts/teacher-role/index.html": 307983,
+    "ur/journal/index.html": 1935599,
+    "vi/concepts/ai-literacy/index.html": 323216,
+    "vi/journal/index.html": 1917681,
+    "zh/journal/index.html": 1923194
+  }
+}
