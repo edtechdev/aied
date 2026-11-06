@@ -157,12 +157,13 @@ if (connectedResources.length > 0) {
     </div>
 
     <div style="line-height:1.8" data-pagefind-body>
-      {doiFromSources(article.data.sources ?? []) && (
+      {(doiFromSources(article.data.sources ?? []) ?? body.match(/doi\.org\/(10\.\d{4,}[^\s)\]'"]+)/)?.[1]) && (
         // Compact identifier metadata for exact DOI lookups: hidden from
         // sight and assistive tech but indexed as searchable text (the
         // Citation section is not indexed). The DOI is derived from the
-        // source filename, so nothing content-side changes.
-        <span aria-hidden="true" style="position:absolute;width:1px;height:1px;clip:rect(0 0 0 0);overflow:hidden;white-space:nowrap;">DOI: {doiFromSources(article.data.sources ?? [])}</span>
+        // source filename when the name encodes one, else from the paper's
+        // doi.org citation link in the body - no content-side change.
+        <span aria-hidden="true" style="position:absolute;width:1px;height:1px;clip:rect(0 0 0 0);overflow:hidden;white-space:nowrap;">DOI: {doiFromSources(article.data.sources ?? []) ?? body.match(/doi\.org\/(10\.\d{4,}[^\s)\]'"]+)/)?.[1]}</span>
       )}
       <Fragment set:html={rendered.html} />
     </div>

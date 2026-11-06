@@ -85,7 +85,7 @@ export class SearchController {
     this.root = root;
     this.chrome = chrome;
     this.input = this.byId<HTMLInputElement>('q');
-    this.form = this.byId<HTMLFormElement>('search-form');
+    this.form = this.byId<HTMLFormElement>('form'); // markup: data-search-form
     this.statusEl = this.byId<HTMLElement>('status');
     this.summaryEl = this.byId<HTMLElement>('summary');
     this.resultsEl = this.byId<HTMLElement>('results');
