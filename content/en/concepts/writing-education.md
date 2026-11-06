@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -45,6 +45,7 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 - **Revision and dialogic positioning:** Where most writing-feedback research asks whether a revision improved the text, [[zhao-ji-appraisal-human-ai-revisions-2026|Zhao and Ji (2026)]] ask what stance the revised text takes. Coding 168 EFL argumentative essays with Appraisal Theory — first drafts, revisions after [[peer-assessment|peer feedback]], and ChatGPT-4 revisions of the same drafts — they found the three conditions statistically indistinguishable in how much Engagement language they used, but differently configured: peer-feedback revisions became more contractive (more Counter and Endorse, less Entertain), while the AI revisions kept a more balanced Contract/Expand mix that combined stronger counter-claiming with continued hedging. Their reading is that an AI revision is most useful as a contrast text students compare against their own revision rather than as a model answer, and that [[ai-feedback-quality|AI feedback]] on argumentation can improve prose while quietly closing down the writer's dialogic space — a dimension no current rubric captures.
 
 - **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency]] is affected when AI participates at different stages.
+- **Reasoning must connect to revision.** Maike, a Socratic chatbot that diagnoses arguments and targets questions without generating essay text, produced more idea-level dialogue (56% vs 44% of turns) than a control chatbot ([[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]]). Transitions from discussed ideas to edits were positively associated with score gains, with about 40% of the 65 secondary students improving their essays.
 
 - **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
@@ -170,6 +171,7 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[reflection]]
 
 ## Connected Articles
+- [[favero-thinking-not-writing-chatbot-2026]] — Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision
 
 - [[gunay-ozden-process-genre-ai-writing-2026]] — A 32-student quasi-experiment: process–genre instruction raised informative, multimodal and AI-assisted writing (Günay & Özden 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 writing professors on grading with AI: benefits for feedback, drift in scores, no institutional rule

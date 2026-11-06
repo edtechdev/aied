@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -41,6 +41,7 @@ reviewed_by: [editor]
 - **[[misconceptions|Misconception]] modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Model-generated strategic misconceptions:** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] built SocraticTrap-CS around 35 concepts from the ACM/IEEE CS2023 curriculum — algorithms, programming languages, databases, networks and operating systems — and asked seven open-weight models for a fluent, authoritative explanation resting on a subtle error. Six of the seven produced an expert-confirmed strategic misconception for 91% or more of prompted concepts (221 of 241 segments, 91.7%), with no significant differences between CS domains; conceptual errors dominated (66.5% conceptual vs. 33.5% factual, and none purely logical), and both persuasiveness and error type varied by domain. The authors therefore recommend domain-sensitive countermeasures — reasoning-focused checks in programming-heavy courses, cross-referencing against protocol specifications in networking — and evaluation of [[automated-question-generation]] and AI-authored explanations on pedagogical [[trust|trustworthiness]] rather than correctness alone.
 - **[[authentic-assessment]] performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 [[generative-ai|GenAI]] systems outscore the average student cohort on authentic introductory OOP [[assessment|assessments]] and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments. A CS1 longitudinal study reinforces the capability side of that finding: [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] measured frontier models at 98.93-99.99% on the labs against 76.37-88.03% for student submissions.
+- **Repository activity is not what it used to be.** Across 260 capstone team repositories (ten semesters, 2021-2025), end-of-semester codebases roughly tripled, from about 3.4 KLOC in 2021-2023 to about 10 KLOC in 2024-2025, with cyclomatic complexity and error-handling density rising while comment density stayed flat ([[shakil-code-commits-complexity-genai-2026|Shakil, Brabrand & Denny (2026)]]). Later cohorts also committed more often and in greater volume with unchanged per-commit edit sizes, a development-rhythm shift project courses should weigh before treating repository activity as evidence of progress.
 - **Predictive modeling for at-risk support:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that intrinsically interpretable decision trees trained on content-interaction log features accurately predict module-level progress in large-scale online programming courses (85–91% accuracy across four K-12 courses) and flag "No submission" dropout outcomes, giving educators a 7–8 day window to [[teacher-role|intervene]] with struggling and disengaged [[learners]] before module deadlines — complementing the automated-grading and attrition-prediction work above.
 - **Retrieval-augmented support for theoretical CS fits asynchronous study only.** AlgoRAG answered all 179 instructor-authored exam questions within a 240-second timeout at a mean 38.0 seconds each, and its BLEU-4 of 0.0000 across the set is a property of n-gram matching on mathematical proofs rather than a system failure ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]]).
 
@@ -162,6 +163,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[assessment-validity]]
 
 ## Connected Articles
+- [[shakil-code-commits-complexity-genai-2026]] — Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based Capstone Projects
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Three deployments, three models, 173k submissions: what hint behaviour looked like in a real course
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)

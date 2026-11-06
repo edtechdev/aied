@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -33,6 +33,7 @@ In the AI era this framing becomes a design test rather than a slogan. [[generat
 Two reviews define the shape of the field, and both describe fragmentation rather than consolidation.
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|A PRISMA-ScR scoping review (Rempel et al., 2026)]] searched five databases and a decade of publication (2015–2025), screening 766 records down to 40 empirical studies of digital assistive technologies for neurodivergent students in [[higher-ed|higher education]]. The field has reorganized around [[generative-ai|generative AI]] — 15 of the 40 studies — with immersive formats second at 11. Its central critique is a design critique: individual accommodation and neurotype-specific tools organized around formal diagnosis cannot address functional differences that cut across neurotypes, so it recommends universal design and participatory development instead. It also notes that the most immersive tools are the least scalable.
+- **Primary classrooms show the same concentration.** A scoping review of EdTech for neuro-inclusive primary classrooms (3,340 records screened, 93 studies) found evidence concentrated on autistic learners and individualized academic and cognitive support, with social, communicative, and peer-interaction outcomes neglected and educational value validated mainly by researchers rather than by classroom users ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
 
 [[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers 2018–2024 across 72 studies and finds AI used for detection, assistive support, and [[personalized-learning|personalization]], with those strands evolving in parallel rather than in integration, and the field driven more by technological opportunity than by consolidated educational theory. Its detection research ([[sensor-and-gaze-analytics|EEG]], eye-tracking, [[machine-learning]] models) shows diagnostic promise for early intervention but often needs specialized equipment and controlled conditions, which limits use in ordinary classrooms. That is the practical test this whole strand keeps failing: support has to be embedded in the course a student is actually taking.
 
@@ -92,6 +93,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[student-modeling]]
 
 ## Connected Articles
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reframing Educational Value in EdTech for Neuro-Inclusive Primary School Classrooms: A Scoping Review
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
