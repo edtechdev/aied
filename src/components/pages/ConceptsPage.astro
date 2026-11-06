@@ -20,7 +20,7 @@ const s = strings(locale).concepts;
 const ui = strings(locale).ui;
 // The copies point at /aied/aied.epub and /aied/aied.pdf in the default locale's
 // terms; this swaps in a locale's own edition where one exists and repoints the
-// editions at the repository, which is where they are actually served.
+// editions at the managed release, which is where they are actually served.
 const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), locale);
 
 const concepts = await getCollection('concepts');

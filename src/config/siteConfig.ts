@@ -18,19 +18,17 @@ export interface SiteConfig {
   repoUrl: string;
   issuesUrl: string;
   /**
-   * Where the offline editions (EPUB/PDF) are served from, as an absolute base.
+   * Where the offline editions and LLM text exports are served from, as an
+   * absolute release-asset base.
    *
-   * They are committed under `public/` but are NOT served by the site: they are
-   * ~161 MB of already-compressed bytes, and GitHub packs them into the Pages
-   * artifact at full weight, which pushed the artifact past its 1 GB limit and
-   * its 10-minute deploy timeout. So the site links them here instead and they
-   * are stripped from the build output (see astro.config.mjs). The llms files
-   * stay on the site - they are plain text, so they compress well.
-   *
-   * This is the raw host for the default branch, so a rebuilt edition is live as
-   * soon as it is pushed.
+   * They are built locally and published to the mutable `offline-latest`
+   * GitHub Release rather than committed to the Pages artifact. The release
+   * tag is recorded separately so the publisher and the site manifest cannot
+   * construct a different URL.
    */
   offlineBaseUrl: string;
+  /** Managed GitHub Release tag used for all offline exports. */
+  offlineReleaseTag: string;
   editor: {
     name: string;
     contactUrl: string;

@@ -1,7 +1,9 @@
 # Offline artifact and release verification
 
-The wiki publishes committed local artifacts beside the site: `public/aied.epub`, `public/aied.pdf`,
-`public/llms*.txt`. They are rebuilt only on explicit request and never by CI or a scan, so every
+The wiki publishes the EPUB/PDF editions and the `llms*.txt` text exports as assets on the managed
+GitHub Release tag `offline-latest`. The tracked catalog `tooling/offline-editions.json` records the
+filenames, sizes and SHA-256 values; `tooling/scripts/publish-offline-editions.py` stages, verifies and
+promotes updates. They are rebuilt only on explicit request and never by CI or a scan, so every
 rebuild is a release step with its own verification. This file is the checklist for that step.
 
 ## Rebuild sequence (do not reorder)
@@ -9,12 +11,14 @@ rebuild is a release step with its own verification. This file is the checklist 
 1. Content edits first. The exporter reads the corpus when it starts, so a page written mid-run is
    missing from the file it produces.
 2. `npm run build` (the site) on its own.
-3. `python3 tooling/build-epub.py` on its own, in the BACKGROUND with a completion notification.
-   It writes `dist/aied-export.md`, then the EPUB, then the PDF from that same markdown; run it
-   concurrently with `astro build` and `dist/` is cleared between the two stages, leaving a fresh
-   EPUB beside a stale PDF.
+3. `python3 tooling/build-epub.py --output-dir .artifacts/offline/<build-id> --work-dir .artifacts/offline/<build-id>/work`
+   on its own, in the BACKGROUND with a completion notification. It writes the export markdown, then
+   the EPUB, then the PDF; run it concurrently with `astro build` and the intermediate is cleared between
+   stages, leaving a fresh EPUB beside a stale PDF.
 4. `python3 tooling/scripts/generate-llms-files.py` (add `--locale` for a translated edition).
-5. Verify (below), then commit the artifacts and push only with explicit approval.
+5. Validate the artifacts and catalog, then run `python3 tooling/scripts/publish-offline-editions.py`
+   first as a dry run and then with `--publish` only when publication is authorized. Commit the catalog
+   and docs, not the binaries. Push only with explicit approval.
 
 Confirm no site build or content edit is in flight before starting; check with `pgrep -af "astro|build-epub"`.
 
@@ -65,10 +69,7 @@ single-pass path if a difference ever needs isolating.
 - **PDF** — `pdfinfo` page count moves with content; `/Lang` is set; compare the on-disk size from
   `stat -c%s` and not the size the builder logs, because pikepdf rewrites the file afterwards to set
   `/Lang` and the committed file is legitimately smaller.
-- **Live files** — after deploy, `curl -o /dev/null -w '%{http_code} %{size_download}'` each artifact
-  URL and match the byte counts against `public/`, then open the SERVED EPUB and confirm the page you
-  added is inside it (`zipfile` plus a string search over members). A 200 says the file is served; it
-  does not say it is the file you built.
+- **Live files** — after publication, `curl -L -o /dev/null -w '%{http_code} %{size_download}'` each stable release URL and match the byte counts against the catalog, then open the SERVED EPUB and confirm the page you added is inside it (`zipfile` plus a string search over members). A 200 says the file is served; it does not say it is the file you built. The release publisher performs the same hash check after promotion.
 
 ## Things that look like defects and are not
 
@@ -85,7 +86,7 @@ single-pass path if a difference ever needs isolating.
 ## Rules that keep the release honest
 
 - **Rebuild the locale you were asked for, and only it.** `generate-llms-files.py` and `build-epub.py`
-  take a locale; the Spanish artifacts are separate committed files and a rebuild of the English set
+  take a locale; the Spanish artifacts are separate release assets and a rebuild of the English set
   must leave them untouched. State in the commit message which edition moved.
 - **Large binary artifacts make a diff unreviewable**, so the pre-push personal-information review
   covers the text artifacts (`llms*.txt`) and the message, and the verification set above stands in for

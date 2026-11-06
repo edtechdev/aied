@@ -1,6 +1,16 @@
 # Build output
 dist/
 
+# Offline exports are built locally and published to the managed GitHub Release;
+# never recommit the binaries or LLM dumps to public/.
+public/aied*.epub
+public/aied*.pdf
+public/llms*.txt
+
+# Isolated offline-edition build/working directories (release assets are published,
+# not committed). Keep cover source art and scripts tracked.
+.artifacts/
+
 # Build-size reports (generated; review baseline is under tooling/)
 reports/
 

@@ -3,7 +3,8 @@
 // The copy modules are written once, in the default locale's terms, and every
 // translation inherits those URLs. Rather than editing eleven copy files, this
 // rewrites each default-locale artifact URL to the locale's own file WHEN THAT FILE
-// EXISTS, and leaves it alone otherwise. So:
+// EXISTS, and leaves it alone otherwise. The manifest generator points every
+// artifact at the managed release, including the LLM text exports. So:
 //
 //   * a locale with its own artifacts links its own files;
 //   * a locale without them keeps linking the default-locale file rather than 404ing;
@@ -65,25 +66,31 @@ export function localizeArtifactLinks(html: string, locale: string): string {
   let out = html;
 
   const base = siteConfig.basePath.replace(/\/+$/, '');
+  const siteBase = siteConfig.url.replace(/\/+$/, '');
+  const replaceAll = (haystack: string, needle: string, replacement: string) =>
+    needle ? haystack.split(needle).join(replacement) : haystack;
 
   for (const kind of Object.keys(DEFAULT_FILENAMES) as ArtifactKind[]) {
     const target = artifactUrl(locale, kind);
     const size = artifactSize(locale, kind);
     if (target) {
-      // The copy modules are written against the DEFAULT locale's filename, as a
-      // path on the site. That path is only what a reader follows for the kinds the
-      // site serves; for the editions the manifest names the repository instead. So
-      // build the token to find from the site path the copy actually contains, and
-      // replace it with whatever the manifest says is served. Matching on the
-      // manifest's own English URL, as this used to, only worked while the manifest
-      // held site paths for every kind.
-      const englishToken = `${base}/${DEFAULT_FILENAMES[kind]}`;
-      out = out.split(englishToken).join(target);
+      // Copy modules write the default locale's filename as a site path: a
+      // relative `/aied/llms.txt` in HTML, or an absolute
+      // `https://edtechdev.github.io/aied/llms.txt` in the copyable AI prompt.
+      // Both have to be replaced by the release URL; the prompt is plain text,
+      // so localizeHtml never sees its links.
+      const englishTokens = [
+        `${siteBase}/${DEFAULT_FILENAMES[kind]}`,
+        `${base}/${DEFAULT_FILENAMES[kind]}`,
+      ];
+      for (const token of englishTokens) out = replaceAll(out, token, target);
 
-      // A locale-specific site path, if some copy ever hardcodes one.
+      // A locale-specific site path, if some copy hardcodes one.
       const ownName = target.split('/').pop();
       if (ownName && ownName !== DEFAULT_FILENAMES[kind]) {
-        out = out.split(`${base}/${ownName}`).join(target);
+        for (const token of [`${siteBase}/${ownName}`, `${base}/${ownName}`]) {
+          out = replaceAll(out, token, target);
+        }
       }
     }
     if (size) {

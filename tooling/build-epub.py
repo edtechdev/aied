@@ -4,9 +4,10 @@ use-with-AI + all concepts (organized into chapters by the umbrella groups) +
 FAQs + a resources chapter.
 
 `--locale <code>` builds a translated edition from that locale's own collections
-and built pages, writing public/aied.<code>.epub, public/aied.<code>.pdf and
-dist/aied-export.<code>.md. The default locale keeps the unprefixed names, the
-English copy written in this file, and its existing notice.
+and built pages, writing aied.<code>.epub, aied.<code>.pdf and
+aied-export.<code>.md. The default locale keeps the unprefixed names, the
+English copy written in this file, and its existing notice. `--output-dir` and
+`--work-dir` keep release binaries and intermediates out of public/ and dist/.
 
 Metadata: title from site.config.json, the editor name from site.config.json
 (never hardcoded here), CC0 public-domain dedication, and the generation date.
@@ -18,6 +19,25 @@ import os
 import sys, re, glob, subprocess, datetime, json, sys
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def _parse_args():
+    ap = argparse.ArgumentParser(
+        description='Build the offline EPUB/PDF edition for one locale.')
+    ap.add_argument('--locale', default=None,
+                    help='locale code (default: the site default locale)')
+    ap.add_argument('--output-dir', default=None,
+                    help='directory for the final EPUB/PDF (default: public/)')
+    ap.add_argument('--work-dir', default=None,
+                    help='directory for export intermediates (default: dist/)')
+    return ap.parse_args()
+
+
+ARGS = _parse_args()
+PUBLIC_DIR = os.path.abspath(ARGS.output_dir or os.path.join(WIKI, 'public'))
+WORK_DIR = os.path.abspath(ARGS.work_dir or os.path.join(WIKI, 'dist'))
+os.makedirs(PUBLIC_DIR, exist_ok=True)
+os.makedirs(WORK_DIR, exist_ok=True)
 
 sys.path.insert(0, os.path.join(WIKI, 'tooling', 'scripts'))
 import content_paths  # noqa: E402
@@ -75,15 +95,7 @@ ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
 # an infix, mirroring the route model and the llms files (llms.es.txt). The
 # chapter copy, the collection content and the front-matter note all follow the
 # requested locale.
-def _parse_args():
-    ap = argparse.ArgumentParser(
-        description='Build the offline EPUB/PDF edition for one locale.')
-    ap.add_argument('--locale', default=None,
-                    help='locale code (default: the site default locale)')
-    return ap.parse_args()
-
-
-LOCALE = _parse_args().locale or content_paths.DEFAULT_DIR
+LOCALE = ARGS.locale or content_paths.DEFAULT_DIR
 IS_DEFAULT = LOCALE == content_paths.DEFAULT_DIR
 if LOCALE not in content_paths.LOCALES:
     raise SystemExit(f'build-epub: unknown locale {LOCALE!r}; configured locales: '
@@ -256,7 +268,7 @@ CONCEPTS_DIR = str(content_paths.collection('concepts', LOCALE))
 FAQS_DIR = str(content_paths.collection('faqs', LOCALE))
 RESOURCES_DIR = str(content_paths.collection('resources', LOCALE))
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
-OUT = os.path.join(WIKI, 'public', f'aied{SUFFIX}.epub')
+OUT = os.path.join(PUBLIC_DIR, f'aied{SUFFIX}.epub')
 
 # --- load slug sets + redirects ---
 concept_slugs = {c[:-3] for c in os.listdir(CONCEPTS_DIR) if c.endswith('.md')}
@@ -543,7 +555,7 @@ def _built_page_html(astro_path, locale=None):
     dist/<locale>/, where the translated copy is resolved."""
     rel = os.path.relpath(astro_path, os.path.join(WIKI, 'src', 'pages'))
     stem = rel[:-len('.astro')] if rel.endswith('.astro') else rel
-    root = os.path.join(WIKI, 'dist')
+    root = WORK_DIR
     if locale and locale != content_paths.DEFAULT_DIR:
         root = os.path.join(root, locale)
     candidates = [
@@ -783,7 +795,7 @@ def built_chapter_intro(stem, default_h1):
     lives on the site page, not in the collection, so a translated edition takes
     its localized heading and intro from that locale's built page instead of
     re-using the English copy written in this file."""
-    path = os.path.join(WIKI, 'dist', LOCALE, stem, 'index.html')
+    path = os.path.join(WORK_DIR, LOCALE, stem, 'index.html')
     region = _export_region(path) if os.path.exists(path) else None
     if region is None:
         return default_h1, None
@@ -793,7 +805,7 @@ def built_chapter_intro(stem, default_h1):
 
 def built_group_headings(stem):
     """The resource group labels, in page order, from this locale's built page."""
-    region = _export_region(os.path.join(WIKI, 'dist', LOCALE, stem, 'index.html'))
+    region = _export_region(os.path.join(WORK_DIR, LOCALE, stem, 'index.html'))
     if not region:
         return []
     out = []
@@ -862,11 +874,11 @@ if IS_DEFAULT:
     AI_H1 = 'Use This Knowledge Base with Your Own AI Assistant'
     AI_ANCHOR = None
 else:
-    _index_region = _export_region(os.path.join(WIKI, 'dist', LOCALE, 'index.html'))
-    _ai_region = _export_region(os.path.join(WIKI, 'dist', LOCALE, 'ai', 'index.html'))
+    _index_region = _export_region(os.path.join(WORK_DIR, LOCALE, 'index.html'))
+    _ai_region = _export_region(os.path.join(WORK_DIR, LOCALE, 'ai', 'index.html'))
     if _index_region is None or _ai_region is None:
         raise SystemExit(
-            f'build-epub: no built {LOCALE} pages under dist/{LOCALE}/. '
+            f'build-epub: no built {LOCALE} pages under {WORK_DIR}/{LOCALE}/. '
             'Run the site build first (npm run build).')
     INDEX_H1 = _first_h1(_index_region) or 'Introduction'
     AI_H1 = _first_h1(_ai_region) or 'Use This Knowledge Base with Your Own AI Assistant'
@@ -1151,7 +1163,7 @@ combined = _disambiguate_repeated_headings(combined)
 # thematic break instead.
 combined = re.sub(r'(?m)^-{3,}[ \t]*$', '***', combined)
 
-md_path = os.path.join(WIKI, 'dist', f'aied-export{SUFFIX}.md')
+md_path = os.path.join(WORK_DIR, f'aied-export{SUFFIX}.md')
 os.makedirs(os.path.dirname(md_path), exist_ok=True)
 with open(md_path, 'w', encoding='utf-8') as f:
     f.write(combined)
@@ -1224,7 +1236,7 @@ def _locale_cover_path():
     default = os.path.join(WIKI, 'public', 'epub-cover.png')
     if IS_DEFAULT:
         return default
-    out = os.path.join(WIKI, 'public', f'epub-cover{SUFFIX}.png')
+    out = os.path.join(PUBLIC_DIR, f'epub-cover{SUFFIX}.png')
     try:
         from PIL import Image, ImageDraw, ImageFont
     except Exception as e:  # pragma: no cover - Pillow is a build dependency
@@ -1400,10 +1412,10 @@ def build_epub():
     # tens of minutes. AIED_PARALLEL_CHUNKS=1 forces the old single-pass path.
     epub_input, epub_reader = md_path, None
     if PARALLEL_CHUNKS > 1:
-        body_html = os.path.join(WIKI, 'dist', f'aied-body{SUFFIX}.html')
+        body_html = os.path.join(WORK_DIR, f'aied-body{SUFFIX}.html')
         t = pdf_parallel.assemble_body_html(md_path, body_html,
                                            chunks=PARALLEL_CHUNKS,
-                                           tmpdir=os.path.join(WIKI, 'dist'))
+                                           tmpdir=WORK_DIR)
         print(f'parallel parse: {len(t)} stage(s), {t["parse"]:.1f}s')
         epub_input, epub_reader = body_html, 'html'
     cmd = (['pandoc', epub_input, '-o', OUT]
@@ -1691,7 +1703,7 @@ code, pre, samp, kbd, .latin, a[href^="http"] {
     return True
 
 
-PDF_OUT = os.path.join(WIKI, 'public', f'aied{SUFFIX}.pdf')
+PDF_OUT = os.path.join(PUBLIC_DIR, f'aied{SUFFIX}.pdf')
 PDF_CSS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pdf-style.css')
 # A CJK locale also loads the script stack on top (see pdf-style.cjk.css). It is
 # a separate file because weasyprint embeds every font a stylesheet names even
@@ -1719,7 +1731,7 @@ def build_pdf():
     cover_file = pathlib.Path(cover_src).as_uri()
     pd = open(PD_MARK_PATH, 'rb').read()
     pd_b64 = base64.b64encode(pd).decode('ascii')
-    pre_html = os.path.join(WIKI, 'dist', f'pdf-prefront{SUFFIX}.html')
+    pre_html = os.path.join(WORK_DIR, f'pdf-prefront{SUFFIX}.html')
     os.makedirs(os.path.dirname(pre_html), exist_ok=True)
     if IS_DEFAULT:
         notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{NAME}" /></div>
@@ -1777,12 +1789,12 @@ def build_pdf():
         # A bare H3 without an attribute is not a concept/FAQ — leave it.
         return line
 
-    pdf_md = os.path.join(WIKI, 'dist', f'aied-export-pdf{SUFFIX}.md')
+    pdf_md = os.path.join(WORK_DIR, f'aied-export-pdf{SUFFIX}.md')
     with open(pdf_md, 'w', encoding='utf-8') as f:
         f.write('\n'.join(_tag_concept_heading(l) for l in src_md.split('\n')))
 
     # Header CSS injected into the PDF <head> (PDF-only — never touches EPUB).
-    pdf_header = os.path.join(WIKI, 'dist', f'pdf-header{SUFFIX}.html')
+    pdf_header = os.path.join(WORK_DIR, f'pdf-header{SUFFIX}.html')
     with open(pdf_header, 'w', encoding='utf-8') as f:
         f.write(
             '<style>\n'
@@ -1813,7 +1825,7 @@ def build_pdf():
             title=BOOK_TITLE,
             css_files=[PDF_CSS] + [a.split('=', 1)[1] for a in PDF_CSS_ARGS[1:]],
             extra_css='h3.conceptpage { break-before: page; }\n' + rtl_css,
-            pre_html=pre_html, tmpdir=os.path.join(WIKI, 'dist'))
+            pre_html=pre_html, tmpdir=WORK_DIR)
         print('parallel pdf timings: ' +
               ', '.join(f'{k} {v:.1f}s' for k, v in t.items()))
         ok = os.path.exists(PDF_OUT)

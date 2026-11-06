@@ -154,7 +154,8 @@
   "basePath": "/aied",
   "repoUrl": "https://github.com/edtechdev/aied",
   "issuesUrl": "https://github.com/edtechdev/aied/issues",
-  "offlineBaseUrl": "https://github.com/edtechdev/aied/raw/refs/heads/main/public",
+  "offlineBaseUrl": "https://github.com/edtechdev/aied/releases/download/offline-latest",
+  "offlineReleaseTag": "offline-latest",
   "editor": {
     "name": "Doug Holton",
     "contactUrl": "https://mastodon.social/@dougholton"

@@ -125,7 +125,7 @@ wiki/
 ├── tooling/           # Reusable tooling: SKILL.md (research-wiki), SCHEMA.md, README, cron/, scripts/
 ├── skills/            # Mirrored AI agent skills: research/wiki-inline-links/ (inline-link + list-formatting HARD GATE)
 ├── src/               # Astro pages: index, journal, search, faq, article/concept/faq templates; lib/jsonld.ts
-├── public/            # llms.txt, llms-concepts.txt, llms-full.txt, robots.txt
+├── public/            # source cover/marks and legacy local artifacts; release assets live on GitHub
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
 ├── package.json       # Astro 7 + pagefind + sitemap + rss
 ├── log.md             # Audit log of every wiki action (local, gitignored)
@@ -233,7 +233,7 @@ python3 tooling/scripts/run-gates.py --list
 # stamped with the AI-use trailers; AI_ROLE / AI_MODEL / AI_REVIEWED_BY set them.
 # The model is never taken from a config default: pass AI_MODEL, or stage pages whose
 # own ai_assist.model names it, or the commit is refused.
-bash tooling/scripts/commit-if-green.sh /tmp/msg.txt content/en/articles/<new-page>.md public/llms-full.txt
+bash tooling/scripts/commit-if-green.sh /tmp/msg.txt content/en/articles/<new-page>.md tooling/offline-editions.json src/data/offlineArtifacts.ts
 
 # Stamp the trailers alone, when you are committing without the gate suite. Stage first;
 # this wrapper never adds files and never pushes.
@@ -284,10 +284,11 @@ The site is an installable Progressive Web App. `npm run build` emits `dist/mani
 
 The wiki is published as downloadable eBooks alongside the site:
 
-- **EPUB** — `public/aied.epub` → `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub`
-- **PDF** — `public/aied.pdf` → `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf`
+- **EPUB** — `public/aied.epub` → `https://github.com/edtechdev/aied/releases/download/offline-latest/aied.epub`
+- **PDF** — `public/aied.pdf` → `https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pdf`
+- **LLM exports** — `llms.txt`, `llms-concepts.txt`, `llms-full.txt` → `https://github.com/edtechdev/aied/releases/download/offline-latest/<name>`
 
-The editions are stripped from the published build, so a `/aied/aied.epub` URL on the site 404s by design.
+The editions and text exports are published as assets on the managed `offline-latest` release; the site links them there. `astro.config.mjs` still strips `.epub`/`.pdf` from the Pages artifact as defense in depth, so `/aied/aied.epub` remains a 404.
 
 Both are generated from the **same markdown export** as the site and contain the home introduction, the Use-With-AI page, all concept pages (chapters by umbrella group, clickable numbered TOC), the FAQ pages, and a Notice page (editor, CC0 license, AI-disclaimer, issue reporting). They contain only the concept and FAQ pages — not the article summaries.
 
@@ -302,7 +303,14 @@ PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 
 A rebuild takes minutes, not half an hour: pandoc's parse of the whole export dominated the build (measured 757 s per parse, run twice, growing superlinearly with document size) while weasyprint's pagination of the ~2,000-page book is only ~89 s, so the export is parsed in parallel chunks (`tooling/pdf_parallel.py`). `AIED_PARALLEL_CHUNKS=1` restores the single-pass build.
 
-This writes `public/aied.epub` and `public/aied.pdf`. **The site does not serve these files** — it links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. They remain committed under `public/` so the raw links resolve.
+This writes `public/aied.epub` and `public/aied.pdf` for local verification. **The site does not serve these files** — it links the managed release URLs (`offlineBaseUrl`/`offlineReleaseTag` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`. Publish rebuilt assets with `tooling/scripts/publish-offline-editions.py`; pass `--output-dir .artifacts/offline/<build-id>` to keep them out of `public/`. The publisher defaults to a dry run:
+
+```bash
+python3 tooling/scripts/publish-offline-editions.py --dry-run
+python3 tooling/scripts/publish-offline-editions.py --publish   # publication approval required
+```
+
+It validates local bytes/SHA-256, stages each asset under a unique name, verifies the staged bytes, renames the old canonical asset to a run-scoped backup, promotes the staged asset, verifies the stable public URL after publishing the draft release, and writes `.artifacts/offline/publish-journal.json` for recovery. It never uses `gh release upload --clobber` on a live asset. The catalog (`tooling/offline-editions.json`) is committed; the binaries are not.
 
 Supporting files:
 
@@ -313,7 +321,7 @@ Supporting files:
 - `tooling/gen-pd-mark.mjs` — rasterizes the CC0 public-domain mark (`src/assets/cc-zero.svg`, the Creative Commons press-kit `zero.svg`, itself CC0) to `public/public-domain-mark.png`, which the EPUB/PDF Notice page and the covers use. The site inlines the SVG instead (`src/components/PublicDomainMark.astro`), so the mark follows the theme.
 - `tooling/gen-og-concept-map.mjs` — renders the concept-map images.
 
-The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`), but they are **not** served from the site: `astro.config.mjs` strips them from `dist/`, so readers download them from the GitHub raw URLs in `offlineBaseUrl`. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.
+The EPUB/PDF and cover are built locally, published to the managed `offline-latest` release, and are not served from the Pages site: `astro.config.mjs` strips them from `dist/`, so readers download them from the release URLs in `offlineBaseUrl`. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.
 
 ## Configuration
 

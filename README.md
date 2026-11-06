@@ -2,7 +2,7 @@
 
 A free, linked knowledge base on artificial intelligence in education: research, pedagogy, policy and practice. It turns new papers into readable summaries, synthesizes them into concept pages, and keeps both current by scanning the literature on a schedule.
 
-**[Browse the knowledge base](https://edtechdev.github.io/aied)** · **[Use it with your own AI assistant](https://edtechdev.github.io/aied/ai)** · **[Read it offline (EPUB)](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub)** · **[Read it offline (PDF)](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf)**
+**[Browse the knowledge base](https://edtechdev.github.io/aied)** · **[Use it with your own AI assistant](https://edtechdev.github.io/aied/ai)** · **[Read it offline (EPUB)](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.epub)** · **[Read it offline (PDF)](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pdf)**
 
 ---
 
@@ -20,14 +20,14 @@ A free, linked knowledge base on artificial intelligence in education: research,
 
 ### Use it with your own AI assistant
 
-The corpus is agent-ready. It publishes `llms.txt` (one line per page), `llms-concepts.txt` (full text of the concept pages only, no FAQs or resources, capped at 500,000 words, about 4 MB) and `llms-full.txt` (every article, concept and FAQ, about 15 MB). Resource pages appear on the site and in the offline editions but are left out of the llms files, since their content lives on the external site they link to.
+The corpus is agent-ready. It publishes `llms.txt` (one line per page), `llms-concepts.txt` (full text of the concept pages only, no FAQs or resources, capped at 500,000 words, about 4 MB) and `llms-full.txt` (every article, concept and FAQ, about 15 MB). These text exports, the EPUB, and the PDF are published as stable assets on the [`offline-latest` release](https://github.com/edtechdev/aied/releases/tag/offline-latest); the site links directly to that release. Resource pages appear on the site and in the offline editions but are left out of the llms files, since their content lives on the external site they link to.
 
 Copy-paste this into your assistant:
 
 ```text
 You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
 
-1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them. The catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, llms-concepts.txt is about 4 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
+1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them. The catalog at https://github.com/edtechdev/aied/releases/download/offline-latest/llms.txt is about 800 KB, llms-concepts.txt is about 4 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
 
 2. Ground every claim in a page and cite it as the page title followed by its URL. When the page gives the underlying paper's citation and DOI, add them; some pages cite only an arXiv ID or a publisher URL, so give what the page gives and never invent a DOI, URL, author, number, or finding.
 
@@ -44,21 +44,21 @@ Prefer the term "generative AI" over "LLM". The journal page at https://edtechde
 
 The knowledge base is published in 32 translated locales. Each entry links that locale's home page, then its EPUB and PDF where a translated edition has been built; fifteen have both, and the other seventeen are site-only.
 
-- [Español](https://edtechdev.github.io/aied/es/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.pdf)
-- [Français](https://edtechdev.github.io/aied/fr/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.pdf)
-- [中文](https://edtechdev.github.io/aied/zh/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.pdf)
-- [Deutsch](https://edtechdev.github.io/aied/de/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.pdf)
-- [日本語](https://edtechdev.github.io/aied/ja/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.pdf)
-- [한국어](https://edtechdev.github.io/aied/ko/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.pdf)
-- [Português](https://edtechdev.github.io/aied/pt/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.pdf)
-- [العربية](https://edtechdev.github.io/aied/ar/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.pdf)
-- [עברית](https://edtechdev.github.io/aied/he/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.pdf)
-- [हिन्दी](https://edtechdev.github.io/aied/hi/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.pdf)
-- [Русский](https://edtechdev.github.io/aied/ru/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.pdf)
-- [Українська](https://edtechdev.github.io/aied/uk/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.pdf)
-- [Italiano](https://edtechdev.github.io/aied/it/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.pdf)
-- [Kiswahili](https://edtechdev.github.io/aied/sw/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.pdf)
-- [Türkçe](https://edtechdev.github.io/aied/tr/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.pdf)
+- [Español](https://edtechdev.github.io/aied/es/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.pdf)
+- [Français](https://edtechdev.github.io/aied/fr/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.fr.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.fr.pdf)
+- [中文](https://edtechdev.github.io/aied/zh/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.zh.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.zh.pdf)
+- [Deutsch](https://edtechdev.github.io/aied/de/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.de.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.de.pdf)
+- [日本語](https://edtechdev.github.io/aied/ja/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ja.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ja.pdf)
+- [한국어](https://edtechdev.github.io/aied/ko/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ko.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ko.pdf)
+- [Português](https://edtechdev.github.io/aied/pt/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pt.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pt.pdf)
+- [العربية](https://edtechdev.github.io/aied/ar/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ar.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ar.pdf)
+- [עברית](https://edtechdev.github.io/aied/he/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.he.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.he.pdf)
+- [हिन्दी](https://edtechdev.github.io/aied/hi/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.hi.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.hi.pdf)
+- [Русский](https://edtechdev.github.io/aied/ru/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ru.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ru.pdf)
+- [Українська](https://edtechdev.github.io/aied/uk/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.uk.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.uk.pdf)
+- [Italiano](https://edtechdev.github.io/aied/it/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.it.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.it.pdf)
+- [Kiswahili](https://edtechdev.github.io/aied/sw/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.sw.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.sw.pdf)
+- [Türkçe](https://edtechdev.github.io/aied/tr/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.tr.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.tr.pdf)
 - [বাংলা](https://edtechdev.github.io/aied/bn/)
 - [اردو](https://edtechdev.github.io/aied/ur/)
 - [Bahasa Indonesia](https://edtechdev.github.io/aied/id/)
@@ -138,7 +138,7 @@ Two things to know before editing:
 │   ├── lib/           # jsonld.ts, markdown.ts, pageTitles.ts
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
 │   └── pages/         # index, journal, newsletter pages (news/), search, faq, resources, ai, rss, dynamic routes
-├── public/            # llms*.txt, the committed EPUB/PDF editions, cover and marks
+├── public/            # source cover and marks; release catalog covers generated exports
 ├── tooling/           # the pipeline: gates, generators, builders, cron prompts and shims
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
 ├── docs/              # json-ld.md, newsletters.md, and design notes
@@ -150,7 +150,7 @@ Two things to know before editing:
 
 ### Site configuration
 
-`site.config.json` at the repo root holds every site-wide value: name, short name, brand label, description, language, site URL, base path, repo and issues URLs, editor name and contact, license, PWA theme colors, and the `offlineBaseUrl` the editions download from. Astro imports it through `src/config/siteConfig.ts`; the Python tooling opens it with `json.load`. Edit the config rather than hardcoding a value.
+`site.config.json` at the repo root holds every site-wide value: name, short name, brand label, description, language, site URL, base path, repo and issues URLs, editor name and contact, license, PWA theme colors, and the managed `offlineReleaseTag`/`offlineBaseUrl` for the release assets. Astro imports it through `src/config/siteConfig.ts`; the Python tooling opens it with `json.load`. Edit the config rather than hardcoding a value.
 
 That file is deliberately kept small enough to read. A locale is split in two: `site.config.json` holds its **configuration** (code, label, writing direction), and `src/i18n/locales.json` holds its **translated prose** — the machine-translation notice, the llms preamble, the offline edition's title and resource labels, and the taxonomy section headings. `siteConfig.ts` merges the two, so components and the Python builders all read one complete entry. Adding a language means one entry in each file plus its content.
 
@@ -181,6 +181,8 @@ npm run build                                    # the static site
 npm run preview                                  # preview the production build
 bash tooling/scripts/commit-if-green.sh msg.txt <paths...>   # gate, scan, commit with AI-use trailers
 python3 tooling/scripts/generate-llms-files.py   # regenerate llms*.txt (opt-in)
+python3 tooling/scripts/check-offline-manifest.py # validate catalog + generated site links
+python3 tooling/scripts/publish-offline-editions.py --dry-run # preview release assets
 python3 tooling/scripts/validate-facets.py       # check typed metadata against the registry
 python3 tooling/scripts/gen-concept-artifacts.py # regenerate concept views from the registry
 python3 tooling/scripts/audit-metadata.py --strict
@@ -190,7 +192,7 @@ python3 tooling/scripts/sync-skills.py --check   # drift between skills/ and the
 
 The scheduled jobs run thin shims under `<AGENT>/scripts/`, and tracked templates for them live in `tooling/cron/`: `aied-scan-prefetch.py` (the daily scan's candidate fetch) and `aied-weekly-topic-sweep.py` (the weekly OpenAlex topic sweep). To install one, copy it into the agent's scripts directory and either export `AIED_WIKI` or replace the `<WIKI>` placeholder with your clone path.
 
-The offline editions are built with `bash tooling/build-epub.py` and committed, so regenerate them after a content change rather than editing the files. Do not run that alongside `npm run build`: both write into `dist/`.
+The offline editions and text exports are built locally and published to the managed `offline-latest` release; see `tooling/references/offline-artifact-rebuild.md`. Do not run the edition builder alongside `npm run build`: both read or write build intermediates unless you pass separate `--work-dir` paths.
 
 ### How it stays current
 
