@@ -136,6 +136,7 @@ export class SearchController {
         const q = this.input.value;
         const next = normalizeState({ query: q, filters: this.state.filters });
         this.setState(next, { pushHistory: false });
+        this.run(next, { announce: false });
       }, TYPING_DEBOUNCE_MS);
     });
     this.loadMoreBtn.addEventListener('click', () => this.loadMore());
