@@ -107,7 +107,7 @@ export class SearchController {
     const parsed = stateFromSearchParams(window.location.search);
     this.state = parsed.state;
     if (parsed.notices.length) {
-      this.setStatus(this.chrome.label.status_note + parsed.notices.join(' '));
+      this.setStatus(this.chrome.labels.note + parsed.notices.join(' '));
     }
     this.applyStateToControls(this.state);
     this.renderChips();
@@ -144,7 +144,7 @@ export class SearchController {
       resetPagefindInit();
       this.initialized = false;
       this.hide(this.errorEl);
-      this.setStatus(this.chrome.label.status_retrying);
+      this.setStatus(this.chrome.labels.retrying);
       void this.boot().then(() => this.run(this.state, { announce: true }));
     });
     this.clearAllBtn.addEventListener('click', () => {
@@ -191,7 +191,7 @@ export class SearchController {
 
   private emitStateAnnouncement(): void {
     const region = this.byId<HTMLElement>('a11y-announce');
-    region.textContent = this.chrome.label.status_loaded;
+    region.textContent = this.chrome.labels.loaded;
   }
 
   private bindHistory(): void {
@@ -231,7 +231,7 @@ export class SearchController {
 
   private renderChips(): void {
     this.chipsEl.textContent = '';
-    const labels = this.chrome.label;
+    const labels = this.chrome.labels;
     for (const [facet, values] of Object.entries(this.state.filters)) {
       for (const value of values) {
         const chip = document.createElement('button');
@@ -330,7 +330,7 @@ export class SearchController {
       return;
     }
     this.resultsEl.setAttribute('aria-busy', 'true');
-    this.setStatus(this.chrome.label.status_searching);
+    this.setStatus(this.chrome.labels.searching);
     void (async () => {
       try {
         // Browse mode: an empty query with active filters cannot be expressed
@@ -349,7 +349,7 @@ export class SearchController {
         this.resultsEl.setAttribute('aria-busy', 'false');
         if (outcome.total === 0) {
           this.renderResults([]);
-          this.summaryEl.textContent = this.chrome.label.none.replace('{query}', state.query);
+          this.summaryEl.textContent = this.chrome.labels.none.replace('{query}', state.query);
           this.showEmptySuggestions({ forceNoHits: true });
         } else {
           this.renderResults(items);
@@ -368,7 +368,7 @@ export class SearchController {
   }
 
   private summaryText(total: number, shown: number): string {
-    const tpl = this.chrome.label.summary;
+    const tpl = this.chrome.labels.summary;
     return tpl.replace('{total}', String(total)).replace('{shown}', String(shown));
   }
 
@@ -414,7 +414,7 @@ export class SearchController {
 
   private showError(message: string): void {
     this.errorEl.querySelector('[data-error-text]')!.textContent =
-      `${this.chrome.label.error}: ${message}`;
+      `${this.chrome.labels.error}: ${message}`;
     this.show(this.errorEl);
     this.hide(this.loadMoreBtn);
     this.resultsEl.textContent = '';
@@ -446,7 +446,7 @@ export class SearchController {
     try {
       if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(url);
-        this.setStatus(this.chrome.label.copied);
+        this.setStatus(this.chrome.labels.copied);
         return;
       }
       throw new Error('no clipboard');
@@ -455,10 +455,10 @@ export class SearchController {
       fallback.readOnly = true;
       fallback.value = url;
       fallback.className = 'search-share-fallback';
-      fallback.setAttribute('aria-label', this.chrome.label.share_url);
+      fallback.setAttribute('aria-label', this.chrome.labels.share_url);
       this.statusEl.after(fallback);
       fallback.select();
-      this.setStatus(this.chrome.label.copy_manually);
+      this.setStatus(this.chrome.labels.copy_manually);
     }
   }
 
