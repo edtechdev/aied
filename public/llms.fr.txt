@@ -5,6 +5,7 @@
 
 - [L'IA en éducation](https://edtechdev.github.io/aied/concepts/ai-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Littératie en IA](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Littératie informationnelle et médiatique](https://edtechdev.github.io/aied/concepts/information-and-media-literacy/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [IA agentique](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Délestage cognitif](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Capitulation cognitive](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -63,6 +64,7 @@
 - [Le sentiment d'efficacité personnelle](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage autodirigé](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [La métacognition](https://edtechdev.github.io/aied/concepts/metacognition/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Réflexion](https://edtechdev.github.io/aied/concepts/reflection/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Les difficultés souhaitables](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Transfert des apprentissages](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Connaissances antérieures](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -115,6 +117,8 @@
 - [Agent pédagogique](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Tutorat affectif](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Informatique affective](https://edtechdev.github.io/aied/concepts/affective-computing/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Analyse par capteurs et suivi du regard](https://edtechdev.github.io/aied/concepts/sensor-and-gaze-analytics/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Avatars IA et instructeurs synthétiques](https://edtechdev.github.io/aied/concepts/ai-avatars-and-synthetic-instructors/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Humain dans la boucle](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Analytique de l'apprentissage](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Les modèles d'adoption des technologies](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -134,15 +138,18 @@
 - [L'écriture](https://edtechdev.github.io/aied/concepts/writing-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage des langues](https://edtechdev.github.io/aied/concepts/language-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement de l'anglais (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Enseignement de la lecture](https://edtechdev.github.io/aied/concepts/reading-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Éducation à l'environnement](https://edtechdev.github.io/aied/concepts/environmental-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement de la gestion et du management](https://edtechdev.github.io/aied/concepts/business-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Lettres et sciences humaines](https://edtechdev.github.io/aied/concepts/humanities-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Éducation civique et politique](https://edtechdev.github.io/aied/concepts/civic-and-political-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Arts, design et enseignement des médias](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement du design](https://edtechdev.github.io/aied/concepts/design-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Formation aux professions médicales et de santé](https://edtechdev.github.io/aied/concepts/medical-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [La formation en soins infirmiers](https://edtechdev.github.io/aied/concepts/nursing-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement du droit](https://edtechdev.github.io/aied/concepts/legal-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Technologies de l'information](https://edtechdev.github.io/aied/concepts/information-technology/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Bibliothèques](https://edtechdev.github.io/aied/concepts/libraries/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Sciences de l'apprentissage](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Primaire et secondaire (K-12)](https://edtechdev.github.io/aied/concepts/k-12/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Éducation de la petite enfance](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -213,6 +220,7 @@
 - [Conception universelle de l'apprentissage](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Sud global](https://edtechdev.github.io/aied/concepts/global-south/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'éthique](https://edtechdev.github.io/aied/concepts/ethics/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Biais d'automatisation](https://edtechdev.github.io/aied/concepts/automation-bias/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Usages abusifs de l'IA et préjudices pour l'apprentissage](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Questions juridiques et risques](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Déclarations d'utilisation et de divulgation de l'IA](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -231,6 +239,7 @@
 - [Comment aborder les idées fausses courantes sur l'IA en éducation ?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment l'IA affecte-t-elle l'anxiété et le bien-être des étudiants, et que pouvons-nous faire ?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment les biais et l'iniquité de l'IA se manifestent-ils en éducation, et que pouvons-nous y faire ?](https://edtechdev.github.io/aied/faqs/ai-bias-fairness-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Comment l'IA peut-elle soutenir les apprenants en situation de handicap et neurodivergents dans mon cours ?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Puis-je utiliser l'IA pour noter le travail des étudiants de façon équitable et fiable ?](https://edtechdev.github.io/aied/faqs/ai-grading-fairness-reliability/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -238,6 +247,7 @@
 - [Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment l'IA peut-elle soutenir les apprenants multilingues sans mal juger leurs connaissances ni effacer leur voix ?](https://edtechdev.github.io/aied/faqs/ai-multilingual-learners/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA peut-elle aider à soutenir la lecture et la compréhension en lecture des étudiants ?](https://edtechdev.github.io/aied/faqs/ai-support-reading-comprehension/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment vérifier si des questions de quiz et d'examen générées par l'IA sont réellement bonnes ?](https://edtechdev.github.io/aied/faqs/check-ai-generated-question-quality/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 - [Comment savoir si une IA éducative fonctionne correctement, et pas seulement qu'elle obtient de bons scores ?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
