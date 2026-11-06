@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'anglais (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-06T05:00:00-05:00"
+updated: "2026-11-06T05:20:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -48,7 +48,7 @@ Ce concept organise la [[research-methods-aied|recherche]] sur l'IA dans l'**ens
 - **Anglais académique (EAP) :** le soutien par l'IA de l'anglais fondé sur les genres et propre à chaque discipline, tel qu'il est employé dans l'écriture, la lecture et la rétroaction de l'enseignement supérieur — distinct de l'enseignement général de l'écriture.
 - **Enseignement de l'anglais langue étrangère (EFL/ESL/L2) :** des [[intelligent-tutoring|tuteurs par IA]], des interlocuteurs et des outils de [[feedback|rétroaction]] pour les apprenants qui acquièrent l'anglais.
 - **[[assessment|Évaluation]] propre à l'anglais :** l'évaluation automatisée et la rétroaction sur l'écriture et l'expression orale en anglais, y compris la révision de l'écriture en EAP et l'évaluation de l'écriture en L2.
-- **Lisibilité de la lecture et de la littérature :** [[bird-multimodal-educational-literature-2026|Bird (2026)]] associe la classification de textes par transformeurs et les traits de linguistique informatique pour classer la littérature anglaise selon le Key Stage britannique, atteignant un F1 de 0.996 — un complément évolutif et fondé sur les données au soutien de la lecture en EAP fondé sur les genres et à l'alignement sur le niveau de lecture.
+- **Lecture et littérature [[reading-education|lisibilité]] :** [[bird-multimodal-educational-literature-2026|Bird (2026)]] associe la classification de textes par transformeurs et les traits de linguistique informatique pour classer la littérature anglaise selon le Key Stage britannique, atteignant un F1 de 0.996 — un complément évolutif et fondé sur les données au soutien de la lecture en EAP fondé sur les genres et à l'alignement sur le niveau de lecture.
 - **Équité linguistique :** la tension entre la domination de l'anglais par l'IA et les besoins des scripteurs multilingues et des World Englishes.
 
 ## En quoi l'enseignement de l'anglais diffère de l'apprentissage des langues
@@ -58,7 +58,7 @@ L'[[language-learning|apprentissage des langues]] est le parapluie le plus large
 | Dimension | [[language-learning]] | **Enseignement de l'anglais (cette page)** |
 |-----------|----------------------|--------------------------------------------|
 | Langue cible | Toute L2 (français, espagnol, japonais, …) | L'anglais spécifiquement |
-| Axe | L'acquisition en L2 en général : dialogue oral, prononciation, littératie | L'anglais comme langue cible + le registre de l'anglais académique |
+| Axe | L'acquisition en L2 en général : [[speech-and-voice-technologies|dialogue oral]], prononciation, littératie | L'anglais comme langue cible + le registre de l'anglais académique |
 | Contextes caractéristiques | La conversation, la prononciation, la fluidité générale | **EAP** : écriture académique, lecture, rétroaction, genres |
 | IA représentative | Interlocuteurs en L2, [[speech-and-voice-technologies|rétroaction sur la prononciation]], L2 assistée par robot | Outils d'écriture en EAP, rétroaction par les pairs en EFL, évaluation de l'écriture académique anglaise |
 
@@ -88,12 +88,12 @@ De nombreux articles sur l'enseignement de l'écriture privilégient l'anglais (
 
 La domination de l'anglais par l'IA est une caractéristique déterminante de ce volet. Parce que les modèles sont les plus performants en anglais et plus précisément en anglais académique standard, l'enseignement de l'anglais en retire à la fois des bénéfices disproportionnés (de puissants étayages pour l'EAP) et porte des risques distinctifs (biais monolingue, discrimination à l'égard des World Englishes et des scripteurs multilingues). La recherche menée ici rejoint l'[[equity-in-ai-education|équité]], l'[[bias-mitigation|atténuation des biais]], l'[[automated-assessment|évaluation automatisée]], l'[[ai-feedback-quality|qualité de la rétroaction par IA]] et l'[[academic-integrity|intégrité académique]].
 
-Une synthèse fondée sur Scopus de 54 études en EFL situe les [[limitations-in-aied-research|limites]] les plus fréquemment rapportées du domaine du côté de l'autonomie de l'apprenant : le [[cognitive-offloading|recours excessif]] à l'IA dans 27 études (50%) et la réduction de la [[critical-thinking|pensée critique]] dans 25 (46%), tandis que la production d'IA peu fiable arrive en tête des problèmes techniques dans 22 études (41%) ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+Une synthèse fondée sur Scopus de 54 études en EFL situe les [[limitations-in-aied-research|limites]] les plus fréquemment rapportées du domaine du côté de l'[[agency|autonomie]] de l'apprenant : le [[cognitive-offloading|recours excessif]] à l'IA dans 27 études (50%) et la réduction de la [[critical-thinking|pensée critique]] dans 25 (46%), tandis que la production d'IA peu fiable arrive en tête des problèmes techniques dans 22 études (41%) ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Implications pour les enseignants d'anglais / d'EAP / d'EFL-ESL
 
 - **Exploiter délibérément la force de l'IA pour l'anglais académique.** Parce que les modèles sont les plus performants en anglais et en anglais académique standard, les enseignants d'EAP peuvent déployer l'IA pour l'écriture fondée sur les genres, la différenciation des supports de lecture ([[genai-differentiated-eap-reading-materials-2026|matériels d'EAP]]) et la rétroaction sur la révision — mais devraient présenter l'IA comme un partenaire de rédaction et de rétroaction, non comme un moteur à réponses.
-- **Protéger le registre de l'anglais académique et la littératie de la rétroaction.** [[feedback-literacy-scripts-eap-writing|La révision de l'écriture en EAP]] montre que la rétroaction n'est productive qu'à hauteur de la littératie de la rétroaction de l'apprenant — enseignez aux étudiants à interpréter, juger et exploiter la rétroaction de l'IA, et recourez à des mécanismes de second correcteur pour contrôler la qualité de l'IA.
+- **Protéger le registre de l'anglais académique et la [[feedback-literacy|littératie de la rétroaction]].** [[feedback-literacy-scripts-eap-writing|La révision de l'écriture en EAP]] montre que la rétroaction n'est productive qu'à hauteur de la littératie de la rétroaction de l'apprenant — enseignez aux étudiants à interpréter, juger et exploiter la rétroaction de l'IA, et recourez à des mécanismes de second correcteur pour contrôler la qualité de l'IA.
 - **Surveiller la tension d'équité liée à la domination de l'anglais.** Les modèles privilégient l'anglais académique standard, marginalisant les World Englishes et les scripteurs multilingues ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — auditez la rétroaction pour y déceler les biais monolingues et les attentes abaissées.
 - **Intégrer l'IA de manière éthique dans l'EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] appelle à un usage transparent et responsable dans l'enseignement de l'anglais en [[higher-ed|enseignement supérieur]] qui préserve l'intégrité académique.
 - **Anticiper une adoption prudente, axée d'abord sur la préparation.** Une [[li-language-educators-genai-review-2026|revue systématique de 23 études]] (Li et coll., 2026) constate que les enseignants de langues valorisent le plus l'[[generative-ai|IA générative]] pour la préparation en coulisses — la préparation de cours, la création de matériels et le soutien/la rétroaction en écriture — tout en hésitant sur l'usage direct en classe, leurs préoccupations premières portant sur l'[[academic-integrity|intégrité académique]] (le plagiat et l'[[assessment-validity|validité de l'évaluation]]). L'adoption est façonnée par des facteurs d'identité professionnelle, [[pedagogy|pédagogiques]], techniques, [[governance|institutionnels]] et d'intégrité, et les lacunes de compétence se répartissent entre l'episteme (comprendre les capacités et les limites de l'IA), la techne (l'[[prompt-engineering|ingénierie des invites]], la conception de tâches et d'évaluations augmentées par l'IA, la détection de textes générés par l'IA) et la phronesis (le jugement [[ethics|éthique]], le traitement des biais et de la vie privée) — les enseignants d'EAP/EFL devraient donc développer délibérément ces compétences et planifier une mise en œuvre « d'abord en coulisses, puis en classe ».
@@ -110,6 +110,7 @@ Une synthèse fondée sur Scopus de 54 études en EFL situe les [[limitations-in
 
 ## Concepts liés
 
+- [[reading-education]]
 - [[language-learning]]
 - [[writing-education]]
 - [[multilingual-learning]]
