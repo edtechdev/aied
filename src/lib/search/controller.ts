@@ -332,7 +332,13 @@ export class SearchController {
     this.setStatus(this.chrome.label.status_searching);
     void (async () => {
       try {
-        const outcome = await search(state.query, state.filters);
+        // Browse mode: an empty query with active filters cannot be expressed
+        // as an empty term (pagefind.search('') returns zero results in
+        // 1.5.x). Search a single space instead - the engine treats it as a
+        // non-empty term; if it still returns nothing the empty state shows
+        // the filters plus browse links rather than an error.
+        const term = state.query === '' && Object.keys(state.filters).length ? ' ' : state.query;
+        const outcome = await search(term, state.filters);
         if (id !== this.seq) return; // stale response - drop it
         this.rawResults = outcome.results;
         this.currentResults = [];

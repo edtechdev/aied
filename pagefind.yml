@@ -2,4 +2,3 @@ exclude_selectors:
   - "nav"
   - "footer"
   - ".page-header .tag-chip"
-  - ".citation"
