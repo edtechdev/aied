@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-28T11:26:02-04:00"
+updated: "2026-11-06T13:58:13-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,8 @@ Most of the benefit comes from two design decisions. Write decision rules for gr
 [[qualitative-research|Qualitative analysis]] is the stage where interpretation is the product. Constructs, coding rubrics, and training data are human decisions rather than model outputs ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), which means the codebook has to be settled before an automated pass runs over the corpus. The alternative is a coding scheme written around what the model happened to surface, and the themes then describe the tool's reading of your data.
 
 Delegation can be finer-grained than all-or-nothing. [[agreement-not-quality-llm-coding-verification|One blind-verification study]] classified 15 of 72 codebook items as demonstrably requiring human expertise, 12 as better served by a model, and 16 as suited to confidence-based triage. Sort your own items that way and the labor saving lands where it is safe.
+
+Topic modeling can extend that structure without taking over interpretation. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey and Flor (2026)]] combined grounded coding, SentenceBERT embeddings clustered with Affinity Propagation, and GPT-4 labeling on six focus groups with 13 teachers. Human review dropped 18 communication clusters and 16 digital-literacy clusters that were conversational filler, leaving 14 and 16 meaningful clusters; ChatGPT-4o and Copilot agreed on 33.3% and 43.8% of labels, with cosine similarity 0.835–0.880, and human review found no clear hallucinations. The study is a worked pipeline, not a comparison: it has no human-only or AI-only arm, and 13 teachers cannot establish generalizability. Use it to see the division of labor, not as evidence that the hybrid beats alternatives.
 
 ## Decide what verification means and who signs it
 

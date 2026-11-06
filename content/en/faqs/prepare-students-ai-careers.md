@@ -1,7 +1,7 @@
 ---
 title: "What Should Students Learn for Careers Where AI Is Commonplace?"
 created: "2026-10-30T12:55:00-04:00"
-updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-06T13:58:13-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -86,6 +90,8 @@ A polished artifact tells you what was produced under the permitted conditions. 
 Choose those requirements because they support a stated capability, and say which one each assessment is measuring. Students accept independent practice when it is connected to the thing they are being prepared for; "you will need this someday" does less work than showing how the calculation is what lets them catch a wrong estimate later.
 
 The support side has its own risk. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] found [[generative-ai|GenAI]] use positively associated with GenAI dependence, and dependence negatively associated with both [[critical-thinking|critical thinking]] and employability in their survey model. That is an association rather than a causal claim, and it points at the design question: a course that only ever assesses supported performance may be training the dependence it reports.
+
+The same logic applies before students enter the labor market. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] model AI assistance as a sequence in which skill grows through independent practice and decays when workers accept AI answers. In their model, novices can become trapped at low skill and experts can lose skill even while output accuracy stays high, and strategic workers may solve independently even when the AI is more accurate because future skill has value. The paper is theoretical, not an intervention, but it sharpens the curriculum question: schedule and reward independent practice rather than assuming that AI-assisted output builds the capability to oversee the work.
 
 For program review, separate the measures. Course performance, demonstrated AI literacy, internship-supervisor evaluation, employment status and job quality are different outcomes with different time horizons, and a single intervention cannot establish all of them. [[ai-literacy-evidence|The AI literacy evidence]] page is the honest inventory of what intervention studies actually support.
 

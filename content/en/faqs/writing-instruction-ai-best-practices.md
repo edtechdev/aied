@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-28T11:14:24-04:00"
+updated: "2026-11-06T13:58:13-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -15,6 +15,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,8 @@ Eleven rows is more than most assignments need. Collapse the table to the steps 
 The largest classroom study here is [[pairr-ai-peer-review-2025|PAIRR]]: 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses. They drafted, completed [[peer-assessment|peer assessment]], obtained rubric-based AI feedback, compared and evaluated both sources, wrote revision plans, revised, and reflected. Fifty-eight percent preferred combined peer and AI feedback. Six percent preferred AI feedback alone. Students found AI useful for broad rubric-oriented revision advice, and peers supplied contextual knowledge and an authentic audience response.
 
 Be exact about the claim. PAIRR measured students' experience and evaluation of feedback, not long-term [[learning-gains|learning gains]], so it is strong evidence for a feedback design and weaker evidence that writing improves months later. Keep the peer step even when the AI step is faster. Much of the [[feedback]] work happens in the comparison between the two sources, and dropping it removes the part students said they valued.
+
+The tool itself can be designed to protect the reasoning step. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] built MAIKE, a [[socratic-method|Socratic]] chatbot that diagnoses arguments and asks targeted questions without generating essay text. In a classroom study with 65 secondary students, MAIKE users spent more turns on idea-level dialogue than control users (56% vs 44%) and moved between discussion and editing; about 40% of students improved their essay scores. The study did not show an overall grade advantage over the control, so treat it as a design demonstration about connecting talk to revision, not as proof that the chatbot raises writing quality.
 
 ## Grade what the student did with the feedback
 

@@ -1,7 +1,7 @@
 ---
 title: "How Do I Design Faculty Development for AI That Actually Changes Practice?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:39:29-04:00"
+updated: "2026-11-06T13:59:54-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,8 @@ The structured arm scored higher on all seven readiness dimensions. Its largest 
 Two more results explain why demonstrations do not travel. In [[pishtari-teacher-ai-training-learning-design-2026|a within-subjects study with 13 higher-education teachers]], chatbot access raised the share of activities reaching two or more higher-order Bloom tasks from 41.7% to 91.7% (p = .01) and cut perceived cognitive effort from a median of 6.33 to 3.33 (p = .004). The pedagogical [[prompt-engineering|prompting]] training layered on top did not improve design quality further, and it slightly raised effort. Meanwhile, in [[teachers-collaborative-evaluation-ai-content-2026|a workshop with 60 middle-school science teachers]], the productive element was collaborative review of ChatGPT-generated assessment questions, which is what surfaced conceptual-precision problems and the risk of reinforcing [[misconceptions]].
 
 What those studies share: the learning came from critiquing and revising material. People improve the thing in front of them, and they improve it faster when a colleague is reading it too.
+
+Research competence can be the target, not a side effect. In a six-week AI-supported program with 105 chemistry teachers, every measured dimension improved from pre- to post-test (Cohen's dz = 0.47 to 0.63), and the largest change was research competence, which rose from 3.50 (SD = 0.88) to 4.16 (SD = 0.52; dz = 0.63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). Teachers shifted from describing AI as a retrieval and writing tool to describing it as support for research planning and data-informed decisions. The design was a single-group pre-post study, so treat the gain as program evidence rather than a causal effect; what it adds is a concrete way to make the Researcher role part of the same PD cycle.
 
 ## Stop treating skill as the missing piece
 

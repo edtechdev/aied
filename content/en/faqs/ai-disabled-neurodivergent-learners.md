@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Support Disabled and Neurodivergent Learners in My Course?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:39:28-04:00"
+updated: "2026-11-06T13:58:13-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,8 @@ For language access, [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et
 For reading and writing, [[dyslexlens-dyslexic-learners-ai|Rezazadegan et al. (2026)]] mined dyslexic learners' own forum discussions. Those learners valued AI for literacy support and reported uneven output quality and a lack of [[equity-in-ai-education|equitable]] accommodations. The inconsistency is itself a barrier: a tool that cannot be relied on adds work instead of removing it.
 
 The [[higher-ed|higher education]] picture is the weakest part of the evidence and the part closest to your job. [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel, Heimann and Prilop (2026)]] screened 766 records from five databases down to 40 included studies published between 2015 and 2025. Generative AI appeared in 15 of the 40 and [[virtual-and-augmented-reality|virtual reality]] in 11. Barrier coverage was uneven: reading and writing (n = 13) and study management (n = 12) dominated, attention (n = 4) and social communication (n = 5) were neglected, and only 6 studies addressed more than one barrier. The review excluded [[k-12]] and specialized-institution settings by design, so it says nothing about younger learners. Use it to see which barriers have been addressed at your level, and which have barely been touched.
+
+Primary classrooms now have their own scoping review. [[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola and Goodacre (2026)]] screened 3,340 records across six databases and included 93 studies of EdTech for neuro-inclusive primary classrooms. Autism was the most studied profile (n = 37, 39.8%); extended reality (n = 26), robotics (n = 14) and AI-driven systems (n = 12) led the technology categories, while assistive and accessibility technologies fell below 5%. Social, communicative and peer-interaction outcomes were neglected; design processes were unreported in 43.0% of studies, researcher-led design in 39.8%, and co-design in 17.2%, while only one study (1.1%) made children design partners. The review does not establish that any product works; it shows where the primary evidence is thin and whose judgment counts as value.
 
 ## Decide whether you are changing the design or the accommodation
 

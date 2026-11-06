@@ -2,7 +2,7 @@
 title: "Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision"
 published: "2026-11-06"
 created: "2026-11-06T09:05:00-05:00"
-updated: "2026-11-06T09:05:00-05:00"
+updated: "2026-11-06T13:58:13-05:00"
 type: article
 sources: ['raw/papers/favero-thinking-not-writing-chatbot-2026.md']
 source_url: "https://arxiv.org/abs/2611.07792"
@@ -16,6 +16,10 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4-flash-0731
     role: drafting
+    date: "2026-11-06"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
     date: "2026-11-06"
     agent: hermes-agent
 source_depth: full text
@@ -35,7 +39,7 @@ assessment: [feedback]
 
 ## Writing support that bypasses reasoning
 
-The educational value of AI writing support depends on whether students remain engaged in the reasoning that produces it. [[generative-ai|Generative AI]] tools can improve writing while reducing the need for students to formulate, evaluate, and revise their own ideas: users often submitted ChatGPT output with little or no editing, and students improved surface-level errors more than deeper structural problems. Receiving feedback does not guarantee revision — in logs from more than fourteen thousand students, around half made no revision after [[ai-feedback-quality|AI feedback]]. A conversation with an AI may involve little reasoning if the student mainly accepts suggestions. This motivates MAIKE's question: how can [[llm|large language models]] support writers without taking over their reasoning, preserving the student's epistemic responsibility for the ideas that enter the essay?
+The educational value of AI writing support depends on whether students remain engaged in the reasoning that produces it. [[generative-ai|Generative AI]] tools can improve writing while reducing the need for students to formulate, evaluate, and revise their own ideas: users often submitted ChatGPT output with little or no editing, and students improved surface-level errors more than deeper structural problems. Receiving [[feedback|feedback]] does not guarantee revision — in logs from more than fourteen thousand students, around half made no revision after [[ai-feedback-quality|AI feedback]]. A conversation with an AI may involve little reasoning if the student mainly accepts suggestions. This motivates MAIKE's question: how can [[llm|large language models]] support writers without taking over their reasoning, preserving the student's epistemic responsibility for the ideas that enter the essay?
 
 ## MAIKE: diagnosis without answers
 

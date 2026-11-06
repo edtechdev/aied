@@ -1,7 +1,7 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:06:17-04:00"
+updated: "2026-11-06T13:58:13-05:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,8 @@ This is the most informative check available to you, and it is easy to leave out
 The clearest caution in the corpus is a randomized field experiment with nearly 1,000 high school students, [[generative-ai-guardrails-harm-learning|Generative AI without guardrails can harm learning]]. A general-purpose-style interface raised assisted practice scores by 48% relative to control, and the same students then scored 17% lower on unassisted exams. A tutor configured with teacher-designed guidance and hints largely avoided that penalty. It did not produce a statistically significant improvement in unassisted exam performance over the control group. Avoiding harm and demonstrating additional learning are different achievements.
 
 At national scale the same split shows up with a lag. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] followed 26,811 Chinese secondary students in grades 7-12 over 30 months using staggered adoption. Homework scores rose 18% and completion time fell 30%, from 64 to 45 minutes. Closed-book monthly exam scores fell 20% within six months, and high-stakes entrance-exam scores fell 18-24% of baseline, but only after about two years. The losses concentrated among the roughly 81% of users whose behavior indicated homework outsourcing, while students who kept homework time comparable to non-users learned about as efficiently. Two things follow for your course: the divergence between homework and exam performance is the [[learning-gains|performance-learning gap]] in a national cohort, and the two-year lag means a one-semester evaluation will systematically underestimate the cost.
+
+Unguided use can also leave achievement unchanged at population scale. [[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]] followed 4,062 secondary students in 136 German schools across one school year. Task-completion use and learning-oriented use both rose (d = 0.35 and 0.33), only about 5% never used GenAI, and lower prior achievement predicted more task-completion use in all six subjects and more learning-oriented use in five of six. Neither form of use predicted later achievement in the cross-lagged models. That is a null association, not proof that AI cannot help; it does mean that access and [[self-directed-learning|self-directed use]], without a designed learning activity, are not a learning intervention.
 
 [[cs-education|Computing education]] shows the same structure. The [[kumar-genai-computing-education-systematic-review-2026|systematic review of 72 studies]] found generative AI reliably raised short-term completion and reduced time on task in 36 studies, with not a single study in the corpus documenting a negative effect on immediate performance, and those gains "do not transfer to independent performance" in 21 studies. Codex-assisted students completed twice as many tasks during learning and performed no better than controls on post-tests without AI.
 

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Topic Modeling and LLM Prompt Engineering into a Human-driven Approach to Analyze Interview Transcripts"
 created: "2026-11-05T20:00:00-05:00"
-updated: "2026-11-05T20:00:00-05:00"
+updated: "2026-11-06T13:58:13-05:00"
 type: article
 sources: ['raw/papers/ober-prompt-engineering-interview-transcripts-2026.md']
 confidence: medium
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-11-05"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-06"
     agent: hermes-agent
 reviewed_by: [editor]
 ---
@@ -55,7 +59,7 @@ Disciplinary and contextual variation ran through the accounts. STEM teachers em
 
 ## What this means for practice
 
-- **Qualitative researchers.** Run the three strands as a pipeline rather than choosing between them: human coding supplies the construct anchor, topic modeling provides the thematic structure, and LLM labeling scales the naming step; document model versions, prompts, and default parameters — as this paper does with temperature 1, top-p 1, and zero frequency and presence penalties — so the labeling step is replicable.
+- **[[qualitative-research|Qualitative researchers]].** Run the three strands as a pipeline rather than choosing between them: human coding supplies the construct anchor, topic modeling provides the thematic structure, and LLM labeling scales the naming step; document model versions, prompts, and default parameters — as this paper does with temperature 1, top-p 1, and zero frequency and presence penalties — so the labeling step is replicable.
 - **Teams using LLMs for coding.** Treat human review of LLM labels as the quality gate, not a formality: the team's review of all labels found no clear hallucinations in the two GPT-4 outputs, and the framework's stability claim rests on that review rather than on the models' agreement alone, since two same-family models can share the same blind spots.
 - **Assessment designers in competency-based education.** Teachers consistently wanted [[assessment|assessments]] that are authentic, embedded in content-based tasks, and sensitive to developmental progression, and doubted that standardized formats can capture tone, audience alignment, or ethical use of digital tools — so performance-based measures that reflect real instructional contexts fit what educators already believe.
 - **Professional development leads.** Discipline shapes expectations: STEM teachers emphasized technical precision while humanities teachers prioritized audience adaptation, so communication-assessment rubrics and exemplars should be developed per discipline rather than shared generically, and hybrid analysis of teacher talk can surface those differences at scale.
