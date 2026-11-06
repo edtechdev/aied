@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-04T16:09:41-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -78,6 +78,8 @@ The label is often the weakest link. E3Sense predicted learners' own segment rat
 A neural correlate is not a score. Reconstructed images from EEG correlated with test performance at R² = 0.79 across 55 participant-video observations. Correctly answered items also showed higher semantic similarity than incorrect ones. Yet one participant produced high-quality reconstructions and answered incorrectly, so reconstruction quality cannot be read as correctness ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 Attention is not learning. In TutorLoop, attention correlated with learning at r = 0.017, while workload correlated negatively at r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). A system that maximized the attention signal would have optimized something close to noise.
+
+A sensor can record co-presence where a study claims interaction: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] found a pose-based detector reached only 55% recall, catching 11 of 20 events human coders identified in teacher–student group interactions. The teacher was present inside the group boundary in 49.2% of coded segments while students looked at the teacher in only 25.4%, and no audio feature changed in either comparison, so the pipeline registered spatial co-presence rather than sustained interaction.
 
 A physiological profile is not a diagnosis. Exam stress models predict a grade category from arousal and movement, and the authors insist the output belongs beside personal circumstances and mental-health context rather than in a high-stakes decision ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 

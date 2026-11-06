@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -31,6 +31,7 @@ Of 394 [[generative-ai|GenAI]] higher-education studies, 213 (54%) used mixed me
 - **Sequential exploratory (QUAL → quan).** Qualitative work builds theory, generates hypotheses, or informs instrument design that is then tested quantitatively. [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] yields categories that can inform later survey design.
 - **Exploratory sequential with measurement invariance.** [[trust-calibration-genai-collaborative-regulation-2026|Bu and Li (2026)]] code interviews to identify the model's four dimensions, build a 22-item instrument from them, and then test configural, metric, and scalar invariance across gender and disciplinary area on an analytic sample of 642. The design shows a qualitative strand feeding a [[self-report-measures|survey instrument]] and an invariance test confirming the constructs behave the same way across groups.
 - **Convergent/parallel.** Quantitative and qualitative strands run simultaneously and are integrated in analysis. [[t2i-competence-paradox-2026|The competence-paradox study]] uses instructor focus groups, a student survey, and follow-up interviews in parallel; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]] combines survey and interview evidence on physics students' AI adoption.
+- **A machine-generated quantitative strand.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] generated the BREQ quantitative strand from participants' interview transcripts under a convergence design, an integration route that does not rely on human labor alone. LLM–human correlations ranged from medium to high (ρ = .5 to .73), item-, person-, and test-level RMSEs quantified the distance from human responses, and the negatively worded items 6, 7, and 11 marked the clearest triangulation payoff, flagging where interview and survey evidence diverge.
 
 ## How mixed methods appear in the knowledge base
 

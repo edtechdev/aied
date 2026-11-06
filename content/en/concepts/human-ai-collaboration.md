@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -83,6 +83,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **Owning a work is not the same as authoring it.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] name an *authorship legitimation deficit*: a person can experience an output as their own yet be unable to warrant the author role, because psychological ownership, the sense of [[agency]], and answerability for releasing the work are separate routes that need not align. Their labor nexus of authorship classifies contributions role by role, so one record can support an editorial claim and fail a sole-creator claim at once. The account is a conceptual analysis with no data and no tested model, so the deficit is a proposed construct whose predictions remain untested.
 
 - **Guiding, not telling, needs its own criterion for judging an agent.** A design case that set out to mirror teacher facilitation found that a knowledge agent bounded to a curated base could be judged on accuracy, while an agent meant to lead students toward their own answers could not ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- **Partnership extends to the research process itself, not just student learning** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] had GPT-4o draft codes and preliminary themes in a secure RAG platform while three core researchers and two external validators kept interpretive authority, consolidating four final themes. The hybrid workflow redistributed researcher labor rather than removed it.
 
 ### Connections
 

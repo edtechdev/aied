@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T15:40:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -40,6 +40,7 @@ Educational measurement is the discipline of turning observations about learning
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
 - **Latent-structure comparison:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extend educational measurement to the LLM setting by testing whether assessment instruments show the *same factor structure* for humans and LLMs. Using EFA, factor congruence, and resampling, they show LLM–human latent structures systematically diverge across [[chemistry-education|chemistry]] and quantitative-reasoning instruments, implying the constructs measured differ across populations — a necessary check before human validity evidence is assumed to transfer to AI.
+- **An inter-rater answer on identical transcripts.** [[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]] re-coded the same dialogue turns with eight LLM configurations and two human coders, finding self-consistency (Cohen's kappa 0.865–0.890) far above human–LLM alignment (kappa 0.000–0.419). Persistence showed the prevalence paradox at work: 78.23%–92.41% agreement at kappa 0.043–0.426, high agreement on the dominant no-code category masking disagreement on rare positive cases.
 - **AI as a rater with measurable error:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] treat AI-assigned points as fallible observations with multiple error sources (items, runs, tasks) under generalizability theory and Kane's argument-based validity. Reliability analysis of a 296-student handwritten general-chemistry exam showed high stability of *total* scores across five AI runs (ICC(A,1) = 0.967, Kendall's W = 0.959, 95% repeatability coefficient 5.33 of 60 points) with lower item-level stability (ICC(A,1) = 0.836) — unsystematic errors partially cancel when summed (a Spearman–Brown aggregation effect that lifts total-score agreement to R² = 0.91), while a small positive intercept with slope < 1 revealed a "timid grader" score-compression bias. This frames run-averaging and aggregation as measurement design decisions, and motivates confidence filters calibrated to [[item-response-theory|IRT]] risk as a validity safeguard before automated measures are trusted.
 - **Model version is a measurement condition.** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] found within-model reply similarity (0.715–0.795) consistently exceeded between-model similarity (0.443–0.604) across four LLMs, so a scoring argument established for one deployment does not automatically transfer to its successor.
 

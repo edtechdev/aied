@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -65,6 +65,8 @@ Process mining put AI query negotiation at an integration hub in diverse groups,
 
 **Structural analysis of group talk needs an operational definition of the thread.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] published a threading guidebook for identifying topical strands in synchronous multi-party transcripts.
 Refined through iterative social moderation by three trained researchers, it reached a Cohen's kappa of 0.89 on a 200-utterance validation transcript and, applied across 12 transcripts (2,371 utterances), recovered 315 thread trees - the structural skeleton of who initiates topics, responds to whom, and which contributions receive no uptake.
+
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang and Nguyen (2026)]] add a nonverbal axis to group-collaboration measurement with a five-category video engagement codebook grounded in Goodwin's and Dillenbourg's frameworks, applied by GPT-4o to MLLM transcripts. The inductive Peripheral Engagement construct — individual focus with peer awareness and readiness to re-engage — appeared in 10/10 coding batches despite having no direct precedent in either guiding theory.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 

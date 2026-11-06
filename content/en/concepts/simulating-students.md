@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -50,6 +50,8 @@ The opposite failure also occurs: in a blinded study, expert annotators misclass
 
 Role-play-prompted LLMs also fail on the perception axis. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] had ChatGPT-4o and Claude Sonnet 3.5 rate German sentences from the persona of each of 193 real students.
 Even with 12 revealed labels the models finished worse than the mean baseline - RMSE 1.171 and 1.252 against 1.070 - while misplacing the label distribution: both peaked at the easy label where the students assigned very easy to 45.27% of the test sentences. Persona-conditioned role play does not yet reproduce how a target audience experiences text.
+
+[[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] add a survey-response axis to student simulation, generating BREQ responses from each person's interview transcript so that interview content improved alignment and diversity for some models while demographics added little. LLM responses underproduced human variability in every condition, and item-level mimicry did not reconstruct the test-level psychometric structure, since only Claude with interview prompts improved alignment on the relative autonomy index.
 
 Conditioning generation on a predicted behavior model works without [[llm-training-and-fine-tuning|fine-tuning]]: a training-free framework builds each student's cognitive prototype from a [[knowledge-graph]] and scores beam-search candidates against it, reporting a 100% improvement in simulation accuracy ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Its quality rises with the student's cognitive level, so weaker learners remain the harder case to simulate.
 - **Predict the learner instead of acting as one.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] recast simulation as third-person prediction: a student model built from the learner's history supplies a prior, an inferred learner state constrains the next action, and the simulated ability distribution lands 2.4–8.4× closer to the real one by Wasserstein-1 distance.

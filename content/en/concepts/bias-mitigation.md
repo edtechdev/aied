@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-05T22:30:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -50,6 +50,7 @@ The knowledge base's research documents bias entering at multiple points in the 
 - **Non-discrimination as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify non-discrimination (definitions using bias/discrimination/diversity) as one of six main ethical values for [[ai-education|AI in education]], alongside data stewardship, human oversight, goodwill, explicability, and educational aptness. The review notes the values are tightly coupled and can conflict — e.g., non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on non-discrimination address end users directly, leaving learners largely passive in the ethical literature.
 
 - **Allocation bias in AI-assisted team formation.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] show bias entering a task class outside scoring and feedback: three LLMs assigning 28-student software-engineering classes to four teams routed men at least 80% less often than women to Interface Design rather than Core Development (GPT-5.2 OR < 0.01), and nationality shifted placements independently of merit. Supplying skills reduced but did not remove it - 99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - and parallel image generation skewed single-person images male and light-skinned (gender V = 0.64 and 0.65; skin tone V = 0.57 and 0.61) while multi-person images stayed comparatively balanced.
+- **Subgroup audits can document parity in an automated coder** — [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye, Borman and Borman (2026)]] found a fine-tuned BERT essay coder reached accuracy 0.92 for stereotype-threatened students and 0.94 for non-threatened, with recall 0.98 in both groups. Gender accuracy clustered at 0.95 versus 0.93 and free-or-reduced-price-lunch groups at 0.95 versus 0.94, while English learners (8%) and students with individualized education plans (10%) were excluded from subgroup analysis because the subsamples were too small.
 
 
 **Aggregate accuracy can hide a model that cannot find the struggling students.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] trained three model families on one Estonian cohort and split it two ways. On the balanced set the families were comparable. On the imbalanced split, with 125 students below the first quartile against 328 above it, decision trees, a Bayesian network and random forests reached 8%, 12% and 16% recall for low performers at 80% precision, and only the neural-symbolic model passed 50%.
