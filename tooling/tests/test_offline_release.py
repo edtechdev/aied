@@ -163,3 +163,13 @@ class PublisherTests(unittest.TestCase):
                 self.mod.validate_local(item, root)
             with self.assertRaises(offline_release.CatalogError):
                 self.mod.validate_local(dict(item, filename='../aied.pdf'), root)
+
+    def test_refresh_metadata_accepts_rebuilt_asset(self):
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            (root / 'aied.pdf').write_bytes(b'new bytes')
+            item = entry('aied.pdf', b'old bytes')
+            path = self.mod.validate_local(item, root, refresh_metadata=True)
+            self.assertEqual(path, root / 'aied.pdf')
+            self.assertEqual(item['bytes'], len(b'new bytes'))
+            self.assertEqual(item['sha256'], offline_release.sha256_file(path))

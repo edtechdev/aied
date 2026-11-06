@@ -1257,8 +1257,16 @@ def _locale_cover_path():
     # would tofu — FreeSans carries both Latin and Devanagari (with GSUB shaping), so
     # it is the single-font choice for the Hindi cover.
     free_bold = '/usr/share/fonts/truetype/freefont/FreeSansBold.ttf'
+    free_sans = '/usr/share/fonts/truetype/freefont/FreeSans.ttf'
+    free_serif = '/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf'
     dev_serif = '/usr/share/fonts/truetype/noto/NotoSerifDevanagari-Bold.ttf'
     dev_sans = '/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf'
+    # Bengali and Urdu need their own faces too. The CJK fallback has no
+    # Bengali or Arabic glyphs, so both covers previously rendered as tofu.
+    # FreeSans carries Bengali and Latin (the title and some labels include
+    # "AI"), while FreeSerifBold carries Urdu and Latin. Neither font needs the
+    # CJK face index, and Urdu joins Arabic letters, so it also needs the RTL
+    # shaping path below.
     # Hebrew and Arabic are the same trap in reverse: the CJK faces carry NO Hebrew or
     # Arabic glyphs, so falling through to them (as this code used to for every
     # non-Hindi locale) renders both covers entirely as tofu boxes. FreeSans carries
@@ -1287,10 +1295,10 @@ def _locale_cover_path():
     # algorithm — get_display() reorders RTL runs — plus arabic_reshaper for Arabic's
     # contextual letterforms. The libs are build-time-only extras; without them the
     # cover degrades (reversed/tofu text) instead of crashing the build.
-    IS_RTL = LOCALE in ('he', 'ar')
+    IS_RTL = LOCALE in ('he', 'ar', 'ur')
     try:
         from bidi.algorithm import get_display as _bidi_display
-        if LOCALE == 'ar':
+        if LOCALE in ('ar', 'ur'):
             import arabic_reshaper
             _rtl = lambda line: _bidi_display(arabic_reshaper.reshape(line))
         else:
@@ -1299,6 +1307,10 @@ def _locale_cover_path():
         _rtl = lambda line: line
     if LOCALE in ('ru', 'uk', 'tr') and os.path.exists(dejavu_serif) and os.path.exists(dejavu_sans):
         title_font_path, node_font_path = dejavu_serif, dejavu_sans
+    elif LOCALE == 'bn' and os.path.exists(free_sans):
+        title_font_path, node_font_path = free_sans, free_sans
+    elif LOCALE == 'ur' and os.path.exists(free_serif):
+        title_font_path, node_font_path = free_serif, free_serif
     elif LOCALE == 'hi' and os.path.exists(free_bold):
         title_font_path, node_font_path = free_bold, free_bold
     elif LOCALE == 'hi' and os.path.exists(dev_serif) and os.path.exists(dev_sans):
@@ -1793,6 +1805,19 @@ def build_pdf():
     with open(pdf_md, 'w', encoding='utf-8') as f:
         f.write('\n'.join(_tag_concept_heading(l) for l in src_md.split('\n')))
 
+    # An RTL edition needs the direction on the document and the page number
+    # on the other margin: the print stylesheet puts it bottom-right, which
+    # in a right-to-left book is the "wrong" side of every page. This is used
+    # by both the parallel and the serial PDF paths.
+    rtl_css = '' if not IS_RTL else (
+        'html, body { direction: rtl; }\n'
+        'body, p, li, dd, dt, blockquote, h1, h2, h3, h4, h5, h6, td, th { text-align: right; }\n'
+        'code, pre, samp, kbd { direction: ltr; unicode-bidi: isolate; text-align: left; }\n'
+        '@page { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
+        ' @bottom-right { content: none; } }\n'
+        '@page notice { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
+        ' @bottom-right { content: none; } }\n')
+
     # Header CSS injected into the PDF <head> (PDF-only — never touches EPUB).
     pdf_header = os.path.join(WORK_DIR, f'pdf-header{SUFFIX}.html')
     with open(pdf_header, 'w', encoding='utf-8') as f:
@@ -1800,6 +1825,7 @@ def build_pdf():
             '<style>\n'
             '/* Start each concept and each FAQ on a new page. */\n'
             'h3.conceptpage { break-before: page; }\n'
+            + rtl_css +
             '</style>\n'
         )
 
@@ -1808,17 +1834,6 @@ def build_pdf():
         # document (front matter + title block + TOC + body fragments) so the
         # TOC, internal links and page numbering stay continuous, then let
         # weasyprint paginate it exactly once.
-        # An RTL edition needs the direction on the document and the page number
-        # on the other margin: the print stylesheet puts it bottom-right, which
-        # in a right-to-left book is the "wrong" side of every page.
-        rtl_css = '' if not IS_RTL else (
-            'html, body { direction: rtl; }\n'
-            'body, p, li, dd, dt, blockquote, h1, h2, h3, h4, h5, h6, td, th { text-align: right; }\n'
-            'code, pre, samp, kbd { direction: ltr; unicode-bidi: isolate; text-align: left; }\n'
-            '@page { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
-            ' @bottom-right { content: none; } }\n'
-            '@page notice { @bottom-left { content: counter(page); font-size: 9pt; color: #888; }'
-            ' @bottom-right { content: none; } }\n')
         t = pdf_parallel.build_pdf_parallel(
             pdf_md, PDF_OUT, chunks=PARALLEL_CHUNKS, lang=BOOK_LANG,
             text_dir='rtl' if IS_RTL else 'ltr',

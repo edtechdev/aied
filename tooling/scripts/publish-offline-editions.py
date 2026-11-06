@@ -153,19 +153,22 @@ def selected_entries(catalog, locales, formats):
     return entries
 
 
-def validate_local(entry, assets_dir: Path):
+def validate_local(entry, assets_dir: Path, refresh_metadata: bool = False):
     path = (assets_dir / entry['filename']).resolve()
     if assets_dir.resolve() not in path.parents:
         raise offline_release.CatalogError(f'asset escapes assets-dir: {entry["filename"]}')
     if not path.is_file() or path.is_symlink():
         raise offline_release.CatalogError(f'missing regular asset: {path}')
     size = path.stat().st_size
-    if size != int(entry['bytes']):
-        raise offline_release.CatalogError(
-            f'{path}: bytes {size} != catalog {entry["bytes"]}')
     digest = offline_release.sha256_file(path)
-    if digest != entry['sha256']:
-        raise offline_release.CatalogError(f'{path}: sha256 does not match catalog')
+    if size != int(entry['bytes']) or digest != entry['sha256']:
+        if not refresh_metadata:
+            raise offline_release.CatalogError(
+                f'{path}: bytes/sha256 do not match catalog; '
+                'use --refresh-metadata for a rebuilt asset')
+        entry['bytes'] = size
+        entry['sha256'] = digest
+        print(f'refreshed metadata for {entry["filename"]}: {size} bytes, {digest[:12]}...')
     return path
 
 
@@ -183,6 +186,8 @@ def main():
                         help='perform the release mutation; without this it is a dry run')
     parser.add_argument('--dry-run', action='store_true',
                         help='explicitly select the safe no-mutation mode (the default)')
+    parser.add_argument('--refresh-metadata', action='store_true',
+                        help='accept rebuilt local files and refresh their sizes/SHA-256 in the catalog')
     parser.add_argument('--title', default='Latest offline editions')
     parser.add_argument('--journal', type=Path,
                         default=REPO / '.artifacts' / 'offline' / 'publish-journal.json')
@@ -199,7 +204,7 @@ def main():
     formats = {x.strip() for x in args.formats.split(',') if x.strip()}
     entries = selected_entries(catalog, locales, formats)
     for entry in entries:
-        path = validate_local(entry, args.assets_dir.resolve())
+        path = validate_local(entry, args.assets_dir.resolve(), args.refresh_metadata)
         print(f'checked {entry["filename"]} ({path.stat().st_size} bytes, {entry["sha256"][:12]}...)')
 
     if not args.publish:
@@ -248,7 +253,7 @@ def main():
 
         for entry in entries:
             filename = entry['filename']
-            source = validate_local(entry, args.assets_dir.resolve())
+            source = validate_local(entry, args.assets_dir.resolve(), args.refresh_metadata)
             old_id = asset_id(args.repo, args.tag, filename)
             staging_name = f'{filename}.staging-{run_id}'
             staged_id = upload_staged(args.repo, args.tag, source, staging_name)

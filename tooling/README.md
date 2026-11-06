@@ -308,6 +308,9 @@ This writes `public/aied.epub` and `public/aied.pdf` for local verification. **T
 ```bash
 python3 tooling/scripts/publish-offline-editions.py --dry-run
 python3 tooling/scripts/publish-offline-editions.py --publish   # publication approval required
+# For a rebuilt asset whose bytes differ from the catalog, add --refresh-metadata
+# after rebuilding; the new size/SHA-256 is written only after publication succeeds.
+python3 tooling/scripts/publish-offline-editions.py --publish --refresh-metadata --locales es --formats epub,pdf
 ```
 
 It validates local bytes/SHA-256, stages each asset under a unique name, verifies the staged bytes, renames the old canonical asset to a run-scoped backup, promotes the staged asset, verifies the stable public URL after publishing the draft release, and writes `.artifacts/offline/publish-journal.json` for recovery. It never uses `gh release upload --clobber` on a live asset. The catalog (`tooling/offline-editions.json`) is committed; the binaries are not.
