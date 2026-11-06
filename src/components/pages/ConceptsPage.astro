@@ -14,6 +14,7 @@ import { localizeHref, localizeHtml, taxonomyHeading } from '../../i18n/config';
 import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 import { conceptIndex } from '../../data/conceptIndex';
+import { sectionAnchor } from '../../lib/compactNav';
 
 const { locale } = Astro.props;
 const s = strings(locale).concepts;
@@ -33,7 +34,7 @@ concepts.forEach((c) => {
 
 // Heading ids come from the English heading, not the localized label, so the
 // anchor a reader copies stays stable when they switch language.
-const anchor = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const anchor = sectionAnchor;
 
 const sections = conceptIndex
   .map((section) => ({

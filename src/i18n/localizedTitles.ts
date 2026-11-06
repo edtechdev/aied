@@ -18,12 +18,15 @@ import { DEFAULT_LOCALE } from './config';
 /** Keyed `<collection>/<slug>` (e.g. `faqs/designing-ai-into-learning`). */
 export type LocalizedTitles = Map<string, string>;
 
-export async function localizedTitles(
-  locale: string | undefined,
-): Promise<LocalizedTitles> {
-  const titles: LocalizedTitles = new Map();
-  if (!locale || locale === DEFAULT_LOCALE) return titles;
+// The translation collection is fixed for a production build. Cache the
+// in-flight promise per locale so concurrent page renders share one scan of the
+// translations collection; a rejected promise is removed so a transient failure
+// cannot poison every later page. Development bypasses this cache so an edit is
+// visible without restarting the dev server.
+const titlesCache = new Map<string, Promise<LocalizedTitles>>();
 
+async function loadTitles(locale: string): Promise<LocalizedTitles> {
+  const titles: LocalizedTitles = new Map();
   const translations = await getCollection('translations');
   for (const entry of translations) {
     const [entryLocale, collection, file] = entry.id.split('/');
@@ -31,6 +34,23 @@ export async function localizedTitles(
     titles.set(`${collection}/${file.replace(/\.md$/, '')}`, entry.data.title);
   }
   return titles;
+}
+
+export async function localizedTitles(
+  locale: string | undefined,
+): Promise<LocalizedTitles> {
+  if (!locale || locale === DEFAULT_LOCALE) return new Map();
+  if (import.meta.env.DEV) return loadTitles(locale);
+
+  const cached = titlesCache.get(locale);
+  if (cached) return cached;
+
+  const pending = loadTitles(locale).catch((error) => {
+    titlesCache.delete(locale);
+    throw error;
+  });
+  titlesCache.set(locale, pending);
+  return pending;
 }
 
 /** The translated title for `<collection>/<slug>`, or `fallback` if untranslated. */
@@ -52,12 +72,10 @@ export function localizedTitle(
  */
 export type LocalizedFields = Map<string, { title: string; summary?: string }>;
 
-export async function localizedFields(
-  locale: string | undefined,
-): Promise<LocalizedFields> {
-  const fields: LocalizedFields = new Map();
-  if (!locale || locale === DEFAULT_LOCALE) return fields;
+const fieldsCache = new Map<string, Promise<LocalizedFields>>();
 
+async function loadFields(locale: string): Promise<LocalizedFields> {
+  const fields: LocalizedFields = new Map();
   const translations = await getCollection('translations');
   for (const entry of translations) {
     const [entryLocale, collection, file] = entry.id.split('/');
@@ -68,6 +86,23 @@ export async function localizedFields(
     });
   }
   return fields;
+}
+
+export async function localizedFields(
+  locale: string | undefined,
+): Promise<LocalizedFields> {
+  if (!locale || locale === DEFAULT_LOCALE) return new Map();
+  if (import.meta.env.DEV) return loadFields(locale);
+
+  const cached = fieldsCache.get(locale);
+  if (cached) return cached;
+
+  const pending = loadFields(locale).catch((error) => {
+    fieldsCache.delete(locale);
+    throw error;
+  });
+  fieldsCache.set(locale, pending);
+  return pending;
 }
 
 /** The localized title/summary for `<collection>/<slug>`, falling back to English. */

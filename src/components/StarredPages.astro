@@ -11,7 +11,7 @@ import { strings } from '../i18n';
  * script fetches and merges in (see src/pages/titles/[locale].json.ts).
  */
 import { DEFAULT_STARRED } from '../stores/stars';
-import { DEFAULT_LOCALE, currentTranslationMap, localizeHref } from '../i18n/config';
+import { DEFAULT_LOCALE, localizeHref } from '../i18n/config';
 
 interface Props {
   /**
@@ -23,14 +23,17 @@ interface Props {
   locale?: string;
   /** JSON file holding the full slug -> title map for this locale. */
   titlesUrl: string;
+  /** JSON file holding the route list that has a translation in this locale. */
+  routesUrl: string;
 }
 
-const { titles, locale = 'en', titlesUrl } = Astro.props;
+const { titles, locale = 'en', titlesUrl, routesUrl } = Astro.props;
 const chrome = strings(locale).ui.chrome;
 // The list is built in the browser from localStorage, so hand the script what it
-// needs to point an entry at this locale: the prefix, and which routes exist here.
+// needs to point an entry at this locale: the prefix. The translated-route list
+// is fetched lazily from a per-locale JSON file instead of being repeated in
+// every page.
 const localeBase = locale === DEFAULT_LOCALE ? '' : `/${locale}`;
-const translatedRoutes = currentTranslationMap()[locale] ?? [];
 
 const defaultEntries = DEFAULT_STARRED.map((key) => {
   const parts = key.split('/');
@@ -43,7 +46,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     <span class="starred-count" data-starred-count data-count-label={chrome.starredCount} data-none-label={chrome.starredNone}>{chrome.starredCount.replace('{count}', '0')}</span>
   </div>
 
-  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-titles-url={titlesUrl} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles} data-locale-base={localeBase} data-translated={JSON.stringify(translatedRoutes)}>
+  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-titles-url={titlesUrl} data-routes-url={routesUrl} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles} data-locale-base={localeBase}>
     <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
       <summary>{chrome.concepts}</summary>
       <ul class="starred-list" data-starred-list="concept">
@@ -124,7 +127,10 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
 
   const groups = document.querySelector<HTMLElement>('[data-starred-groups]');
   const localeBase = groups?.dataset.localeBase || '';
-  const translatedRoutes = new Set<string>(JSON.parse(groups?.dataset.translated || '[]'));
+  // Filled from the per-locale JSON file below. Until it arrives, saved links
+  // use the English route rather than repeating the locale's route list in every
+  // page's HTML; the server-rendered default entries already point at the locale.
+  let translatedRoutes = new Set<string>();
   if (!groups) throw new Error('starred groups missing');
   const countEl = document.querySelector<HTMLElement>('[data-starred-count]');
 
@@ -140,18 +146,25 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   // across the site, which was most of the deploy artifact. Only the pre-seeded
   // starred titles are inlined above, so the default list is labelled on first
   // paint; this fetch fills in the rest for anything the reader stars later.
+  // The translated-route list is a second small per-locale JSON file, so it is
+  // not repeated in every page's `data-translated` attribute.
   const titlesUrl = groups.dataset.titlesUrl;
-  if (titlesUrl) {
-    fetch(titlesUrl)
-      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
-      .then((full: Record<string, string>) => {
-        titles = { ...full, ...titles };
-        render();
-      })
-      .catch(() => {
-        /* fall back to the inlined titles - the list still works, just less labelled */
-      });
-  }
+  const routesUrl = groups.dataset.routesUrl;
+  const titleRequest = titlesUrl
+    ? fetch(titlesUrl)
+        .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+        .catch(() => null)
+    : Promise.resolve(null);
+  const routeRequest = routesUrl
+    ? fetch(routesUrl)
+        .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+        .catch(() => null)
+    : Promise.resolve(null);
+  Promise.all([titleRequest, routeRequest]).then(([full, routes]) => {
+    if (full && typeof full === 'object') titles = { ...(full as Record<string, string>), ...titles };
+    if (Array.isArray(routes)) translatedRoutes = new Set(routes.map(String));
+    render();
+  });
 
   // The script cannot read the frontmatter, so the visible labels it needs come from
   // data attributes while the paths (never shown) stay here.

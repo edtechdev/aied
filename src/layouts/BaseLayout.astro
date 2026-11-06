@@ -20,6 +20,7 @@ import { localizedTitles, localizedTitle } from '../i18n/localizedTitles';
 import { DEFAULT_STARRED } from '../stores/stars';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom, taxonomyHeading } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
+import { conceptContext, facetConceptSlugs, compactFaqs, sectionAnchor } from '../lib/compactNav';
 import siteConfig from '../config/siteConfig';
 import { rssIcon } from '../lib/pageTypeIcons';
 import 'katex/dist/katex.min.css';
@@ -125,34 +126,32 @@ concepts.forEach(c => {
   conceptMap[slug] = localizedTitle(localized, 'concepts', slug, c.data.title);
 });
 
-// Combined slug -> title map across concepts, articles, and FAQs.
-//
-// Only the pre-seeded starred titles are inlined (4 entries, a couple of hundred
-// bytes). The full map — 2,035 entries, ~315 KB — is served as JSON from
-// /aied/titles/<locale>.json and fetched by the starred script, which is
-// client-side anyway. Inlining it here made it ~64% of every page and duplicated
-// ~2 GB across the 6,618 pages that carried it: the largest single cost in the
-// deploy artifact. See src/lib/pageTitles.ts and src/pages/titles/[locale].json.ts.
-const allTitles: Record<string, string> = {};
-concepts.forEach(c => {
-  const slug = c.id.replace('.md', '');
-  allTitles[slug] = localizedTitle(localized, 'concepts', slug, c.data.title);
-});
-articles.forEach(a => {
-  const slug = a.id.replace('.md', '');
-  allTitles[slug] = localizedTitle(localized, 'articles', slug, a.data.title);
-});
-faqs.forEach(f => {
-  const slug = f.id.replace('.md', '');
-  allTitles[slug] = localizedTitle(localized, 'faqs', slug, f.data.title);
-});
+// Slug lookups used by the compact sidebar and the pre-seeded starred list.
+const conceptEntryMap = new Map(concepts.map((c) => [c.id.replace(/\.md$/, ''), c]));
+const articleMap = new Map(articles.map((a) => [a.id.replace(/\.md$/, ''), a]));
+const faqMap = new Map(faqs.map((f) => [f.id.replace(/\.md$/, ''), f]));
+const resourceMap = new Map(resources.map((r) => [r.id.replace(/\.md$/, ''), r]));
 
+const titlesUrl = `${siteConfig.basePath}/titles/${locale}.json`;
+const translatedRoutesUrl = `${siteConfig.basePath}/translated-routes/${locale}.json`;
+
+// Resolve only the four DEFAULT_STARRED titles. The full 2,035-entry map is
+// served from /titles/<locale>.json; building it here duplicated work in every
+// page render and made the earlier inlined payload the largest deploy cost.
 const starredTitles: Record<string, string> = {};
 for (const key of DEFAULT_STARRED) {
-  const slug = key.split('/')[1];
-  if (allTitles[slug]) starredTitles[slug] = allTitles[slug];
+  const [kind, slug] = key.split('/');
+  let title = '';
+  if (kind === 'concept') title = conceptMap[slug] ?? '';
+  else if (kind === 'faq') {
+    const faq = faqMap.get(slug);
+    title = faq ? localizedTitle(localized, 'faqs', slug, faq.data.title) : '';
+  } else if (kind === 'article') {
+    const article = articleMap.get(slug);
+    title = article ? localizedTitle(localized, 'articles', slug, article.data.title) : '';
+  }
+  if (title) starredTitles[slug] = title;
 }
-const titlesUrl = `${siteConfig.basePath}/titles/${locale}.json`;
 
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
@@ -170,6 +169,35 @@ const sidebarFaqs = faqs
     const slug = f.id.replace('.md', '');
     return { slug, title: localizedTitle(localized, 'faqs', slug, f.data.title) };
   });
+
+// The sidebar used to print the complete concept tree and FAQ list on every
+// page. Keep the taxonomy itself on /concepts/: an ordinary page gets compact
+// strand links, its current concept neighbourhood, or a bounded set of typed
+// facet-related concepts. The FAQ tab gets five context-linked FAQs.
+const contentMatch = /^\/(concepts|articles|faqs|resources)\/([^/]+)\/?$/.exec(pageRoute);
+const contentKind = contentMatch?.[1] as 'concepts' | 'articles' | 'faqs' | 'resources' | undefined;
+const contentSlug = contentMatch?.[2];
+const contentEntry =
+  contentKind === 'concepts'
+    ? contentSlug ? conceptEntryMap.get(contentSlug) : undefined
+    : contentKind === 'articles'
+      ? contentSlug ? articleMap.get(contentSlug) : undefined
+      : contentKind === 'faqs'
+        ? contentSlug ? faqMap.get(contentSlug) : undefined
+        : contentKind === 'resources'
+          ? contentSlug ? resourceMap.get(contentSlug) : undefined
+          : undefined;
+const currentConcept = contentKind === 'concepts' && contentSlug ? conceptContext(conceptIndex, contentSlug) : null;
+const relatedConceptSlugs =
+  contentKind === 'concepts'
+    ? currentConcept?.nearby ?? []
+    : contentEntry
+      ? facetConceptSlugs(contentEntry.data, (slug) => !!conceptMap[slug], 8)
+      : [];
+const relatedConceptItems = relatedConceptSlugs
+  .filter((slug) => conceptMap[slug])
+  .map((slug) => ({ slug, title: conceptMap[slug] }));
+const compactFaqItems = compactFaqs(sidebarFaqs, contentEntry?.data.connected_faqs, 5);
 
 // Linear reading order for previous/next pagination (matches the EPUB/PDF TOC):
 // home, use-with-AI, every concept in sidebar order, FAQs intro, then FAQs.
@@ -986,6 +1014,85 @@ const recentConceptItems = recentConcepts.map(c => {
       color: var(--muted-color);
       margin-top: 0.2rem;
     }
+    /* Compact strand links: the complete concept tree stays on /concepts/. */
+    .no-js-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 1rem;
+      margin: 0 0 1rem;
+      padding: 0.55rem 0.7rem;
+      border: 1px solid var(--card-border-color);
+      border-radius: 8px;
+      background: color-mix(in srgb, var(--card-background-color) 55%, transparent);
+    }
+    .no-js-nav a {
+      color: var(--primary);
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .no-js-nav a:hover { text-decoration: underline; }
+    .compact-taxonomy {
+      display: flex;
+      flex-direction: column;
+      gap: 0.12rem;
+      margin: 0 0 1rem;
+      padding: 0;
+    }
+    .compact-taxonomy-link {
+      display: block;
+      padding: 0.34rem 0.45rem;
+      border-radius: 5px;
+      color: var(--muted-color);
+      font-size: 0.82rem;
+      line-height: 1.35;
+      text-decoration: none;
+    }
+    .compact-taxonomy-link:hover {
+      color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 7%, transparent);
+    }
+    .sidebar-context {
+      padding-top: 0.65rem;
+      border-top: 1px solid var(--card-border-color);
+    }
+    .sidebar-context-label {
+      margin-bottom: 0.35rem;
+      color: var(--muted-color);
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      line-height: 1.35;
+      text-transform: uppercase;
+    }
+    .sidebar-context-current,
+    .sidebar-related a {
+      display: block;
+      padding: 0.28rem 0.45rem;
+      border-radius: 5px;
+      color: var(--color);
+      font-size: 0.82rem;
+      line-height: 1.35;
+      text-decoration: none;
+    }
+    .sidebar-context-current {
+      background: color-mix(in srgb, var(--primary) 12%, transparent);
+      color: var(--primary);
+      font-weight: 650;
+    }
+    .sidebar-related { margin: 0.15rem 0 0; }
+    .sidebar-related a:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 7%, transparent); }
+    .sidebar-browse-all {
+      display: block;
+      margin: 0.35rem 0 0;
+      padding: 0.4rem 0.6rem;
+      color: var(--primary);
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .sidebar-browse-all:hover { text-decoration: underline; }
+
     /* === Sidebar tabs (Concepts / FAQs / Starred) === */
     .sidebar-tabs {
       display: flex;
@@ -1440,6 +1547,13 @@ const recentConceptItems = recentConcepts.map(c => {
   </header>
 
   <main class="container">
+    <noscript>
+      <nav class="no-js-nav" aria-label={chrome.conceptNavigation}>
+        <a href={localizeHref('/aied/concepts/', locale)}>{chrome.concepts}</a>
+        <a href={localizeHref('/aied/faq', locale)}>{chrome.frequentlyAskedQuestions}</a>
+        <a href={`${siteConfig.basePath}/search`}>{chrome.search}</a>
+      </nav>
+    </noscript>
     <div class="docs-layout">
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
       <button class="nav-backdrop" data-nav-toggle type="button" aria-label={chrome.closeNavigation}></button>
@@ -1462,30 +1576,44 @@ const recentConceptItems = recentConcepts.map(c => {
 
         <div class="sidebar-panel" id="sidebar-panel-concepts" role="tabpanel" data-sidebar-panel="concepts">
           <div class="sidebar-heading">
-            <a href={localizeHref('/aied/concepts/ai-education/', locale)}>{chrome.umbrellaConcept}</a>
+            <a href={localizeHref('/aied/concepts/', locale)}>{chrome.concepts}</a>
             <span class="sidebar-count">{fill(chrome.countConcepts, { count: indexedCount })}</span>
           </div>
-          {conceptIndex.map((section, si) => (
-            <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
-              <summary><span>{taxonomyHeading(section.heading, locale)}</span><svg class="nav-chev" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></summary>
-              <div class="nav-section-body">
-                {section.groups.map(group => {
-                  const items = group.items.filter(slug => conceptMap[slug]);
-                  if (!items.length) return null;
-                  return (
-                    <div class="nav-group">
-                      <div class="nav-group-label">{taxonomyHeading(group.label, locale)}</div>
-                      <ul class="nav-list">
-                        {items.map(slug => (
-                          <li><a href={localizeHref(`/aied/concepts/${slug}/`, locale)}>{conceptMap[slug]}</a></li>
-                        ))}
-                      </ul>
-                    </div>
-                  );
-                })}
-              </div>
-            </details>
-          ))}
+          <nav class="compact-taxonomy" aria-label={chrome.conceptNavigation}>
+            {conceptIndex.map((section) => (
+              <a
+                class="compact-taxonomy-link"
+                href={`${localizeHref('/aied/concepts/', locale)}#${sectionAnchor(section.heading)}`}
+              >
+                {taxonomyHeading(section.heading, locale)}
+              </a>
+            ))}
+          </nav>
+          {currentConcept && contentSlug && (
+            <div class="sidebar-context">
+              <div class="sidebar-context-label">{taxonomyHeading(currentConcept.group, locale)}</div>
+              <a class="sidebar-context-current" aria-current="page" href={localizeHref(`/aied/concepts/${contentSlug}/`, locale)}>
+                {conceptMap[contentSlug]}
+              </a>
+              {relatedConceptItems.length > 0 && (
+                <ul class="nav-list sidebar-related">
+                  {relatedConceptItems.map((item) => (
+                    <li><a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.title}</a></li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          )}
+          {!currentConcept && relatedConceptItems.length > 0 && (
+            <div class="sidebar-context">
+              <div class="sidebar-context-label">{chrome.concepts}</div>
+              <ul class="nav-list sidebar-related">
+                {relatedConceptItems.map((item) => (
+                  <li><a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
 
         <div class="sidebar-panel" id="sidebar-panel-faqs" role="tabpanel" data-sidebar-panel="faqs" hidden>
@@ -1493,11 +1621,14 @@ const recentConceptItems = recentConcepts.map(c => {
             <a href={localizeHref('/aied/faq', locale)}>{chrome.frequentlyAskedQuestions}</a>
             <span class="sidebar-count">{fill(chrome.countFaqs, { count: sidebarFaqs.length })}</span>
           </div>
-          <FaqSidebarList faqs={sidebarFaqs} locale={locale} />
+          <FaqSidebarList faqs={compactFaqItems} locale={locale} />
+          {compactFaqItems.length < sidebarFaqs.length && (
+            <a class="sidebar-browse-all" href={localizeHref('/aied/faq', locale)}>{chrome.faqs} →</a>
+          )}
         </div>
 
         <div class="sidebar-panel" id="sidebar-panel-starred" role="tabpanel" data-sidebar-panel="starred" hidden>
-          <StarredPages titles={starredTitles} titlesUrl={titlesUrl} locale={locale} />
+          <StarredPages titles={starredTitles} titlesUrl={titlesUrl} routesUrl={translatedRoutesUrl} locale={locale} />
         </div>
       </aside>
 
