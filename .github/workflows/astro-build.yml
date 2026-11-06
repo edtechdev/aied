@@ -60,12 +60,13 @@ jobs:
         if: always() && hashFiles('reports/build-size/summary.md') != ''
         run: cat reports/build-size/summary.md >> "$GITHUB_STEP_SUMMARY"
       - name: Upload build-size report
-        if: always() && hashFiles('reports/build-size/report.json') != ''
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: build-size-report
           path: reports/build-size
           retention-days: 7
+          if-no-files-found: error
       - name: Fail if the build-size report is invalid
         if: steps.size.outcome == 'failure'
         run: exit 1
