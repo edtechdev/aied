@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Support Students' Reading and Reading Comprehension?"
 created: "2026-11-06T01:45:00-05:00"
-updated: "2026-11-06T01:45:00-05:00"
+updated: "2026-11-06T02:10:00-05:00"
 type: faq
 connected_faqs: [ai-multilingual-learners, reducing-over-reliance]
 weight: 62
@@ -19,32 +19,28 @@ ai_assist:
     agent: hermes-agent
 ---
 
-You are choosing a text for next week, the vocabulary looks hard, and the AI offers "difficulty: intermediate" plus a friendly summary. The summary is tempting, and so is the label. Both can be wrong in ways this knowledge base can now measure.
+If you teach any subject, you choose readings, adapt texts, and decide whether a source is too hard for your students. AI can help with each of those tasks, but the difficulty numbers it gives you are not measurements of difficulty — they are estimates about an average text and an average reader, and the readers you actually teach can be far from average. This FAQ tells you where the tools genuinely help, where they fail, and what to do about it.
 
-Short answer to give a colleague: [[ai-education|AI]] can help find, adapt and assess reading material, but the difficulty numbers an AI prints are descriptions of the text's surface, not measurements of your students. Put the hardest claims to a human test, keep the reading itself in the course, and treat readability formulas and AI labels as starting points rather than verdicts.
+## What AI can genuinely do
 
-## The short version
+**Find and adapt texts at scale.** AI is strong at locating sources, simplifying vocabulary, generating glossaries, and turning a passage into a study guide or summary. Use it for the mechanical parts of reading preparation — scanning, leveling, pulling out key terms — and keep the human check on what matters.
 
-**1.** Use AI to locate or simplify texts, then re-check against your actual readers — a few students' ratings beat a formula.
+**Model the reader rather than the text.** Because reader variables carry much of the signal in how hard a text feels, tools that profile the reader predict perceived difficulty better than any formula. In the knowledge base's largest study, 193 German high-school students rated 3,954 sentences, and profile-based models (best ensemble RMSE 0.822 vs a mean baseline of 1.070) beat the texts' Flesch scores, which rated the same material far harder than students experienced it — 72.8% of the annotations were easy or very easy ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). The practical version: a few students' ratings of a passage beat any formula's label.
 
-**2.** Readability formulas and AI difficulty labels are weak proxies for what individual students experience; reader characteristics often carry more signal than text statistics.
+## Where AI falls short
 
-**3.** If a text was written by AI, skim it for the quirks below before assigning it; AI prose runs denser and skips optional words.
+**Difficulty labels are not measurements.** A label like "intermediate" or a Flesch score describes the text's surface, not your students' experience. Reader characteristics — language spoken at home, self-estimated skill, even gender — carried more signal than text statistics in the study above, and inter-annotator agreement was low (Krippendorff's alpha = 0.23) precisely because perceived difficulty varies between readers. Treat formulas and labels as hypotheses, and calibrate them against the students who must read the text.
 
-**4.** Prefer tools that adapt to the reader's profile over tools that stamp one global difficulty label.
+**Asking an AI to stand in for your students does not work either.** In the same study, role-play-prompted ChatGPT and Claude could not reproduce student perception of difficulty even with labeled examples — an LLM cannot [[simulating-students|simulate a reader]] well enough to judge a text for you ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]).
 
-**5.** Watch that AI summaries and explanations do not quietly replace the reading itself ([[reducing-over-reliance|over-reliance]] is a real cost).
+**AI-written text reads differently from human prose.** Across 14 models, AI language over-uses rare low-frequency words and stacked nouns, drops optional words, and runs longer dependencies compared with genre-matched human writing; the effects are stronger in multi-turn chat than in single-turn essays, which the authors connect to the pressure of iterative conversation ([[clark-ai-generated-language-readability-2026|Clark, Martin and Mahowald, 2026]]). Generated explanations and generated reading material both carry this profile, so an AI-drafted text can be harder to process than its measured reading level suggests.
 
-## Difficulty labels are not measurements
+**AI summaries can replace the reading.** A tool that turns an article into a summary is useful for triage, but if the summary substitutes for the text, students lose the comprehension practice the assignment existed to build — the same trap as [[reducing-over-reliance|over-reliance]] elsewhere.
 
-The cleanest evidence is [[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad (2025)]], where 193 German high-school students rated 3,954 sentences from career-guidance texts that official Flesch scores had marked hard: 72.8% of annotations came back very easy or easy, so the formula disagreed with the audience in bulk. Models trained on the ratings together with person features beat the mean baseline (best ensemble RMSE 0.822 against 1.070), and the reader signal was real — students who spoke only German at home rated texts as easier (SHAP importance 0.09), inter-annotator agreement was low (Krippendorff's alpha = 0.23), and even the headline Flesch number poorly predicted any given student's perception. A difficulty label is therefore a statement about an average reader that may not exist.
+## What to do about it
 
-The same study is a warning about asking an [[llm|LLM]] to do the rating: role-play-prompted ChatGPT and Claude could not match student perception even with labeled examples. For [[simulating-students|simulating a student]] to predict perceived difficulty, current LLMs fall short — which makes a student's own response the only dependable calibration.
+**Before you assign a text,** get a second opinion beyond the tool: skim it yourself, watch for the AI-prose profile above if it was generated, and — strongest evidence — ask a student or two to try it. A 5-minute pilot with real readers out-scores any difficulty algorithm.
 
-## AI-written text reads differently
+**When you adapt a text with AI,** keep the adaptation visible and reviewable. Side-by-side originals and simplified versions let students (and you) see what changed, and give multilingual learners a scaffold that does not hide the original ([[ai-multilingual-learners|how AI treats multilingual learners]] covers the language-appropriateness risks).
 
-[[clark-ai-generated-language-readability-2026|Clark, Martin and Mahowald (2026)]] show why generated prose can feel off even when grammatically correct: across 14 models, AI language over-uses rare low-frequency n-grams, inanimate subjects with animate verbs, stacked nouns and denominal verbs, and drops optional words (object relatives without their relativizer) compared with genre-matched human writing. The effects are stronger in multi-turn chat and coding than in single-turn essays, which the authors connect to iterative compression pressure, and a reinforcement-learning length penalty pushes the same pattern. The educational bearing: AI-drafted explanations, feedback and [[reading-education|reading material]] carry this profile into the classroom, so a generated text can be harder to process than its grade level suggests.
-
-## Where the field stands
-
-The [[reading-education|reading education]] page maps four research lines — tools that support readers while reading, tools that assess reading, tools that adapt text to a reader's level, and the measurement question underneath all three — and reports the evidence as promising but uneven: several pilots, a handful of validated instruments, few controlled comparisons. For second-language readers, see [[ai-multilingual-learners|how AI treats multilingual learners]], where the language-of-reading question overlaps directly with the difficulty question above. Instructors get the most mileage from the same discipline as assessment design: state what the reading must do, check the text against the students who must read it, and treat every AI-provided difficulty figure as a hypothesis to test rather than a fact to trust.
+**When you evaluate a reading tool or interface,** ask whether it models the individual reader or stamps one global label. For second-language readers, the difference is often the whole story. For researchers, the open problem is measurement: the [[reading-education|reading education]] page maps four research lines — support while reading, assessing reading, adaptive text, and the measurement question beneath all three — and reports the evidence as promising but uneven, so strong claims about a tool's reading benefits deserve the same skepticism as any [[checking-whether-educational-ai-works|AI learning claim]].
