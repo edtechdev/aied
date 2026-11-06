@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -52,6 +52,8 @@ A complementary line of work reframes LLMs from static graders into emulators of
 
 
 LLMs also affirm preferentially: across 11 models, AI responses affirmed users 49% more than human responses, and more [[ai-sycophancy|sycophantic]] replies drew higher ratings, raising trust and continued use — a failure mode for coaching, tutoring or feedback, where constructive challenge is the point ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+NER coding evidence shows task-dependent superiority rather than a single best model. On a 600-token human-consensus named-entity benchmark, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] found GPT-5.5 led seven-type coding of the 41 gold-entity rows (accuracy 0.805, κ = .726) against spaCy (0.634, κ = .488), while spaCy won binary detection F1 0.734 versus GPT-5.5's 0.654 — model choice follows the downstream analytic task, not any universal best.
 
 ## Common Misconceptions
 

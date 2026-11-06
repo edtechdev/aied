@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -39,6 +39,8 @@ It is deliberately not a duplicate of its neighbours. [[equity-in-ai-education|E
 **Subgroup analyses are usually too small to answer the question.** The [[ai-tutoring-micro-rct-gcse-science-2026|GCSE science micro-RCT]] is unusually explicit: its treatment-by-status interaction was 0.57 marks (95% CI −2.25 to 3.39), with stratified estimates of g = 0.28 (95% CI −0.04 to 0.59) for one group and g = 0.35 (95% CI 0.18 to 0.52) for the other. A subgroup interval that overlaps zero is a question for a local pilot, not a basis for a class-wide rule.
 
 **Demographic attributes are usually simulated.** Real learner demographics are rarely attached to model inputs, so audits supply personas instead. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] ran six instruction-tuned models across three educational tasks under model-default, explicit-persona, and implicit-history conditions — 192,480 inference calls — and found that both explicit personas and *implicit* conversation histories move model behavior. Their distinction is worth keeping: awareness of learner differences can be desirable (adjusting feedback for a learner's first language), while the same sensitivity is a harm when it shifts the judgment of identical work.
+
+**Real-learner audits exist, and they can support intersectional claims.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] analyzed two years of MATHia logs from 8,549 students and found evidence that simulated-persona audits cannot supply: an emerging-reader base-rate gap of .1007 within female students in 2021–2022, differences reaching .0926 within Hispanic students in 2022–2023, and 8 of 12 race-by-reading-group statistics significant among non-emerging readers against only 1 of 12 among emerging readers.
 
 **Fairness fixes may not generalize.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] reduced gender- and age-targeted error gaps in student-attention estimation on [[assessment-validity|validation]] data, but the gains did not consistently transfer to held-out subjects or repeated subject-level splits.
 

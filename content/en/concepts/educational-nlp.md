@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T01:53:02-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -46,6 +46,9 @@ Natural language processing in education applies computational methods to the la
 - **Auditable coding by separating assertions from interpretation.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] replace single-label prompting with a schema of 221 human-readable assertions - 74 corpus-derived, 48 construct-derived, and 100 automatic word-presence checks - that a transparent classifier maps to the construct label, reaching macro-F1 0.673 and Cohen's κ 0.688 on the TalkMoves teacher-talk corpus against a published direct-prompting maximum of 0.61 macro-F1 and 0.58 κ, while trailing a fine-tuned RoBERTa-base classifier at 0.76. Requiring Krippendorff's α ≥ 0.5 kept only 33 of 74 corpus-derived assertions, and a words-only baseline scored 0.339 macro-F1, so the gain comes from learned behavioral assertions rather than keyword frequency.
 - **Concept tagging at scale.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] split knowledge-concept tagging into a Select–Reason–Judge pipeline — a small model shortlists candidate concepts, the LLM reasons over the shortlist, then judges — lifting tagging accuracy on three benchmarks by shrinking the model's decision space.
 - **Handwritten answer sheets resist existing parsers.** Multi-line derivations, interleaved prose and formulas, hand-drawn tables, and noise from strikethroughs and erasures escape printed-document and isolated-expression benchmarks, so the HANS dataset of real eighth-grade mathematics sheets — 5,213 answer images from 745 students across 18 problem types — annotates that noise and backs a noise-suppression model that improves recognition ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+
+- **Entity fidelity of ASR transcripts is a separate question from lexical accuracy.** Benchmarking five speech recognition systems against a human reference transcript, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] report the knowledge base's first ASR/NER entity-fidelity evidence: word error rates spanned 2.43% (TurboScribe) to 15.32% (Vosk), while seven-category gold-entity type coding saw GPT-5.5 reach accuracy 0.805 (κ = .726) versus spaCy's 0.634 (κ = .488).
+Aggregate WER alone cannot certify that the entity structure survived transcription.
 
 ### Connection to tutoring and measurement
 

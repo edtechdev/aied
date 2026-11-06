@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -57,6 +57,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 
 ## Outcome equity
 In a scoping review of 394 GenAI higher-education studies, equity and access were among the outcomes targeted least, alongside [[metacognition]], ethics and [[creativity]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
+A large-scale [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|fairness audit of MATHia's Bayesian knowledge tracing]] over two school years of logs from 8,549 students found aggregate statistical parity of −0.077 in 2021–2022 even as 36 of the 50 skills were biased against emerging readers, with skill-level bias as large as −0.262 ("apply exponent," a 26% gap in predicted mastery). The near-fair aggregate picture concealed bias concentrated in reading-heavy knowledge components, and the authors argue that system-level audits alone are insufficient.
 
 - **Differentiated impact:** AI tools may widen gaps if designed without an equity lens — [[genai-higher-education-systematic-review-2026|systematic reviews]] and [[ai-scoring-language-bias-physics|scoring-bias studies]] show uneven benefits and harms across learner groups. The pooled evidence of benefit carries the same boundary: [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] estimate a moderate-to-large overall gain for undergraduates across 35 studies (g=0.53, 95% CI [0.48, 0.64]) while stating that inequitable access to high-cost tools is one of the risks those effect sizes cannot capture, and significant Egger's tests for academic performance and professional skills leave funnel-plot asymmetry and small-study effects unresolved.
 - **Equivalent learning across two orders of magnitude of cost.** StudentBench found pooled AI tutoring statistically equivalent to expert human tutoring while the spread across tutors ran from \$0.005 to \$1.40 per percentage point of learning gain and one open model matched human gains at 918× lower cost per point (\$0.0052 versus \$4.81), making cost per unit of learning an access variable rather than only a quality one ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).

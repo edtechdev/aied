@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -31,6 +31,8 @@ Language learning has emerged as a significant AI in education domain because la
 **AI as language tutor and interlocutor** is the most developed theme. **[[ai-interlocutor-l2-spoken-dialogue|What Changes When the Interlocutor Is an AI?]]** examines interactional fluency and linguistic uptake when L2 learners converse with AI versus humans. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** provides pedagogically adaptive ESL tutoring. **[[llm-children-reading-story-generation]]** explores AI-generated stories for children's reading development. These connect to [[intelligent-tutoring]] and [[generative-ai]]. **[[llm-agents-5e-esl-grammar-2026|Yang, Weng and Yang (2026)]]** designed two [[llm]]-based agents — a conventional AI English teacher and one using the **5E framework** (engage, explore, explain, elaborate, evaluate) for inquiry-based grammar learning. Across **37 ESL students** in a randomized comparison, **high-performing students responded positively to the AI teacher** while low-performing students showed mixed attitudes, and the conditions differed in intrinsic motivation, cognitive change, and performance — indicating that LLM-agent design should be matched to learner proficiency.
 
 For physically [[embodied-learning|embodied]] tutors, a meta-analysis of 11 RALL studies (N = 595) found a large pooled effect on L2 learning (g = 0.83) with high heterogeneity, and only interaction format moderated it — group-based formats beat one-on-one while robot morphology, modality, autonomy, and social role did not ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang & Zou (2026)]]).
+
+Knowledge component granularity is a modeling decision in school-based tutoring: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny and Meurers (2026)]] compared 19 knowledge component (KC) models spanning 11 levels of the FeedBook domain hierarchy on 153,819 first-attempt responses from 1,059 seventh graders learning English in German schools. Fine-grained item-level models predicted best for new students on known content, while semantically grounded mid-level models generalized best to new content (Property ID + Exercise Type RMSE 0.4243 under AFM versus 0.4447 for Actionable Element ID). An annotation-coverage audit found strict property mapping initially removed 45.7% of records and a newer annotation tool reduced the exclusion to 30.6%, with the combined label positive|statement alone accounting for 74.9% of excluded records.
 
 **AI in language assessment** is emerging as LLMs support [[automated-question-generation|item generation]] and evaluation. **[[gpt-item-generation-l2-listening-2026|Aryadoust and Wong (2026)]]** compared [[prompt-engineering|prompt engineering]] against fine-tuning for automatic item generation in L2 listening assessment: iterative prompt refinement improved item quality but plateaued, while **fine-tuning GPT-4.1 on the optimized prompt** (holding prompt design constant) yielded further gains — a template for when assessment developers should invest in [[llm-training-and-fine-tuning|model adaptation]] over prompt iteration.
 

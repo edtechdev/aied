@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-04T18:35:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -31,6 +31,8 @@ Desirable difficulties are the conditions of practice that make learning feel ha
 Desirable difficulties rest on the insight that conditions that make learning feel harder in the moment — requiring effortful retrieval, generation, or explanation — frequently produce stronger retention and [[transfer-of-learning|transfer]] than conditions that feel easy. Conversely, conditions that feel easy (fluent presentation, immediate answers) can produce an illusion of competence: [[learners]] feel they know the material because recognition was smooth, while later free recall fails. This is the theoretical core of the **performance–learning gap**: what looks like good performance during practice is not the same as durable learning.
 
 Effort that buys nothing is not a desirable difficulty. In a preregistered experiment with 302 adults learning introductory Python, adding self-explanation prompts to already-elaborated [[ai-feedback-quality|AI feedback]] doubled time on feedback (4.1 vs 2.1 minutes) and cut problems completed from 3.4 to 2.0, with final-problem scores of 45% against 60% (d = .41) ([[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold & Carvalho, 2025]]). The boundary the study locates: difficulty is desirable when it drives additional retrieval, application or comparison, and redundant when the learner already has a personalized explanation of the specific error.
+
+Perceptual misdirection can itself act as a desirable difficulty: [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] found that incongruent color cues on math operators depressed immediate guessing while producing the strongest retention profile in their sixth-grade study. In BKT models fitted to 19,952 data points from 688 sixth graders, the neutral-spacing incongruent-color (NSIC) condition showed the lowest guessing rate of all nine conditions (0.190) yet the highest learning rate (0.0379) and the lowest forgetting rate (0.0054).
 
 ## Confusion, Cognitive Friction, and Productive Struggle
 

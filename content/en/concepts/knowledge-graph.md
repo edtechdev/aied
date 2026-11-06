@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T23:00:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -36,6 +36,7 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 - **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
 - **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns [[recommender-systems-and-learning-paths|prerequisite relations]] among concepts, formalizing the edges that knowledge graphs encode.
+- **Learnable prerequisite discovery replaces expert priors.** A survey synthesis by [[xu-graph-knowledge-tracing-survey-2026|Xu et al. (2026)]] finds that graph-based tracers can learn prerequisite structure from response data during training, replacing expert-crafted priors. GKT parameterizes a learnable adjacency matrix end-to-end, SKT-L learns prerequisites while training, PKT applies L1 regularization to recover sparse prerequisite graphs evaluated against ground-truth structures with F1 scores, and PSI-KT's variational Bayesian framework infers directed prerequisite graphs that align with human-annotated prerequisites better than baseline models.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
 - **[[multimodal]] and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
 - **Instructionally structured graphs for resource recommendation:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] decompose each teaching-resource entity into four instructional dimensions (teaching context, cognitive level, technological feature, cultural adaptability), compute user-dependent semantic similarity over those dimensions, and fuse it with collaborative filtering via an ability- and progress-aware coefficient — encoding [[pedagogy|pedagogical]] structure directly into the recommendation signal rather than treating resources as consumption items.
