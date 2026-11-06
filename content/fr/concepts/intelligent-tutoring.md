@@ -1,9 +1,9 @@
 ---
 title: "Tutorat intelligent"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:11:51-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-02T06:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

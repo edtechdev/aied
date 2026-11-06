@@ -1,7 +1,7 @@
 ---
 title: "Technologies d'assistance"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-01T10:20:22-05:00"
+updated: "2026-11-05T18:24:25-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Les technologies d'assistance** — des dispositifs, des logiciels et des services qui aident les personnes en situation de handicap à percevoir, à agir, à communiquer et à participer à l'apprentissage comme à la vie quotidienne. Dans le champ de l'[[ai-education|IA en éducation]], les technologies d'assistance couvrent les lecteurs d'écran, la reconnaissance et la synthèse vocales, le sous-titrage, le braille et les sorties tactiles, les outils de langue des signes, et de plus en plus des aménagements fondés sur l'IA qui adaptent le contenu et l'interaction aux besoins de chacun.
+> **Les technologies d'assistance** — des dispositifs, des logiciels et des services qui aident les personnes en situation de handicap à percevoir, à agir, à communiquer et à participer à l'apprentissage comme à la vie quotidienne. Dans le champ de l'[[ai-education|IA en éducation]], les technologies d'assistance couvrent les lecteurs d'écran, la reconnaissance vocale et la [[speech-and-voice-technologies|synthèse vocale]], le sous-titrage, le braille et les sorties tactiles, les outils de langue des signes, et de plus en plus des aménagements fondés sur l'IA qui adaptent le contenu et l'interaction aux besoins de chacun.
 
 ## Questions à examiner
 
@@ -60,7 +60,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - **Assortir l'outil à l'apprenant et à la tâche.** Les lecteurs d'écran, les sous-titres, la parole et les sorties tactiles traitent chacun des obstacles différents — choisissez en fonction des besoins de la personne et du format du contenu.
 - **Exploiter l'IA pour réduire le coût des adaptations d'assistance.** L'IA peut sous-titrer automatiquement, simplifier des textes et produire des alternatives, mais évaluez la qualité des productions du point de vue de l'exactitude pédagogique.
 - **Ancrer l'offre dans les politiques.** Référez-vous à l'Assistive Technology Act, à l'IDEA et aux WCAG lorsque vous achetez ou construisez des outils d'IA.
-- **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) de l'étayage (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle visant la mise en garde de cette page : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
+- **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) du [[scaffolding|étayage]] (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle visant la mise en garde de cette page : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
 
 ## Idées fausses courantes
 

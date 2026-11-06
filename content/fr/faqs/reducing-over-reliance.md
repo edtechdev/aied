@@ -1,7 +1,7 @@
 ---
 title: "Comment éviter que les étudiants ne dépendent excessivement de l'IA ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -48,7 +48,7 @@ L'essentiel : la dépendance excessive est surtout un problème de placement. Le
 
 **5.** Calez l'invite de réflexion sur la phase de la tâche qu'elle peut encore modifier.
 
-**6.** Regardez qui votre dispositif laisse de côté, selon les connaissances préalables plutôt que selon la moyenne.
+**6.** Regardez qui votre dispositif laisse de côté, selon les [[prior-knowledge|connaissances préalables]] plutôt que selon la moyenne.
 
 ## Décider si vous avez un problème ou seulement un usage intensif
 
@@ -66,7 +66,7 @@ Les instruments comportementaux sont plus minces. [[pause-ai-cognitive-offloadin
 
 ## Placer la tentative de l'étudiant avant l'outil
 
-La séquence testée la plus claire est « réfléchir d'abord, ChatGPT ensuite ». [[think-first-chatgpt-later-2026|Wong et Qiu (2026)]] ont réparti N = 196 étudiants entre un travail indépendant, un usage libre de ChatGPT et une condition régulée : générer ses propres idées, collaborer avec ChatGPT pour les améliorer et les évaluer, puis affiner et rendre seul une solution. Le groupe en usage libre a produit un travail plus créatif sur la tâche assistée, puis est retombé au niveau humain seul sur une tâche ultérieure plus difficile réalisée sans ChatGPT. Le groupe régulé n'a montré aucun avantage immédiat et a surpassé les deux autres groupes en créativité indépendante par la suite.
+La séquence testée la plus claire est « réfléchir d'abord, [[generative-ai|ChatGPT]] ensuite ». [[think-first-chatgpt-later-2026|Wong et Qiu (2026)]] ont réparti N = 196 étudiants entre un travail indépendant, un usage libre de ChatGPT et une condition régulée : générer ses propres idées, collaborer avec ChatGPT pour les améliorer et les évaluer, puis affiner et rendre seul une solution. Le groupe en usage libre a produit un travail plus créatif sur la tâche assistée, puis est retombé au niveau humain seul sur une tâche ultérieure plus difficile réalisée sans ChatGPT. Le groupe régulé n'a montré aucun avantage immédiat et a surpassé les deux autres groupes en [[creativity|créativité]] indépendante par la suite.
 
 Les données de prompts expliquent l'écart. Dans le groupe régulé, 88.6% des prompts étaient collaboratifs, et c'était le seul type de prompt significativement corrélé à l'originalité indépendante ultérieure. Dans le groupe en usage libre, 70.9% des prompts étaient non collaboratifs et 59.6% demandaient simplement à ChatGPT de générer des idées d'emblée. Le même outil, sollicité de deux façons, a produit deux apprenants différents.
 
@@ -82,7 +82,7 @@ Deux détails de classe décident si la séquence tient. Le premier est le temps
 
 En pratique, cela signifie une IA sous garde-fou au milieu de la tâche, là où les indices, les exemples résolus et les exercices font le travail, et une vérification sécurisée à la fin. Cela transforme aussi une politique d'usage de l'IA en règle de placement par compétence, plus facile à écrire et à défendre qu'une liste d'interdits.
 
-Un indice est une question sur la prochaine étape de l'étudiant, un exemple résolu d'un problème similaire ou un renvoi au passage pertinent. Une réponse est une phrase finie que l'étudiant peut copier-coller. La plupart des agents conversationnels généralistes produisent la seconde par défaut, dans une prose fluide qui ressemble à de l'aide, et c'est pourquoi la configuration compte plus que les intentions de l'étudiant.
+Un indice est une question sur la prochaine étape de l'étudiant, un exemple résolu d'un problème similaire ou un renvoi au passage pertinent. Une réponse est une phrase finie que l'étudiant peut copier-coller. La plupart des [[conversational-ai|agents conversationnels]] généralistes produisent la seconde par défaut, dans une prose fluide qui ressemble à de l'aide, et c'est pourquoi la configuration compte plus que les intentions de l'étudiant.
 
 ## Exiger la vérification et la rendre visible
 
@@ -104,7 +104,7 @@ Choisissez un échec modeste et vérifiable, comme une citation qui n'existe pas
 
 La production assistée est un mauvais indicateur de la capacité, donc au moins un moment noté doit se dérouler sans l'outil. La tâche ultérieure sans assistance de [[think-first-chatgpt-later-2026|Wong et Qiu (2026)]] est cette mesure. Leur groupe humain seul a aussi reculé sur la relance plus difficile, ce qui écarte la version simple du remède : retirer l'outil sans soutenir l'apprenant n'est pas une intervention.
 
-L'alternance des modes est étayée. PAUSE rapporte le résultat de la quatrième session de Kosmyna et al. (2025), où les participants en mode cerveau seul qui ont ensuite utilisé ChatGPT ont surpassé les utilisateurs prolongés de LLM. La responsabilisation passe aussi par l'explication : Makransky et al. (2025) ont trouvé qu'un chatbot tuteur qui invitait les étudiants à relier les idées et à expliquer leur raisonnement produisait de meilleures performances d'évaluation qu'un enseignement traditionnel.
+L'alternance des modes est étayée. PAUSE rapporte le résultat de la quatrième session de Kosmyna et al. (2025), où les participants en mode cerveau seul qui ont ensuite utilisé ChatGPT ont surpassé les utilisateurs prolongés de [[llm|LLM]]. La responsabilisation passe aussi par l'explication : Makransky et al. (2025) ont trouvé qu'un chatbot tuteur qui invitait les étudiants à relier les idées et à expliquer leur raisonnement produisait de meilleures performances d'évaluation qu'un enseignement traditionnel.
 
 Pour un cours, alternez : travail assisté en entraînement, travail sans assistance là où cela compte. Lisez la pièce assistée comme un relevé de performance dans de bonnes conditions, et la pièce sans assistance comme la preuve de l'apprentissage. Les comparer est aussi la conversation la plus utile que vous puissiez avoir avec un étudiant qui ne comprend pas sa note.
 
@@ -134,7 +134,7 @@ La formulation de l'invite compte moins que sa position. Avant une unité, deman
 
 ## Attendre que le risque se concentre
 
-[[lodge-loble-cognitive-offloading-2026|Lodge et Loble (2026)]] situent le risque dans les connaissances préalables et l'autorégulation et nomment un **écart métacognitif d'équité** : bien utiliser l'IA exige des ressources dont les novices manquent, si bien que les étudiants qui ont le plus besoin de s'exercer sont les plus susceptibles de déléguer l'apprentissage lui-même. Ils rapportent que 80% des étudiants australiens utilisent déjà l'IA et que deux tiers des enseignants du début du secondaire aussi (OCDE 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge et Loble (2026)]] situent le risque dans les connaissances préalables et l'autorégulation et nomment un **écart métacognitif d'[[equity-in-ai-education|équité]]** : bien utiliser l'IA exige des ressources dont les novices manquent, si bien que les étudiants qui ont le plus besoin de s'exercer sont les plus susceptibles de déléguer l'apprentissage lui-même. Ils rapportent que 80% des étudiants australiens utilisent déjà l'IA et que deux tiers des enseignants du début du secondaire aussi (OCDE 2025).
 
 L'âge et l'habitude vont dans le même sens. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] a trouvé que les participants de 17 à 25 ans montraient une dépendance à l'IA et une décharge plus élevées et un esprit critique plus faible que ceux de 46 ans et plus, et que le niveau d'études prédisait un meilleur esprit critique quel que soit l'usage de l'IA (r = +0.34), avec une interaction significative indiquant que le niveau d'études atténue l'effet négatif. [[genai-over-reliance-learning-2026|Gao, Sun et Khan (2026)]] ont trouvé que la polychronicité, tendance au multitâche, modère le chemin, les étudiants très polychrones étant plus à risque.
 
@@ -146,27 +146,27 @@ Le contexte compte autant que la personne, et votre cours en contrôle une parti
 
 Rien dans ce corpus ne teste si une intervention précise contre la dépendance excessive tient d'un contexte ou d'un semestre à l'autre. Le « réfléchir d'abord » repose sur une seule expérience avec N = 196. Le résultat sur la rétention des réponses vient de la synthèse de [[brcic-effortless-trap-productive-struggle-2026|Brcic et Frljic (2026)]] et non d'un essai qui lui soit propre. L'argument de la friction est un commentaire conceptuel sans nouvelles données. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] énonce les limites du modèle : qualité de l'IA exogène et stationnaire, réseau fixe, vérification stylisée. Estimer les valeurs réelles demanderait des traces longitudinales des taux de vérification par tâche, de la force de la preuve sociale et de la façon dont la confiance se met à jour après un usage vérifié plutôt que non vérifié.
 
-La mesure reste le maillon faible. Les dispositifs d'enquête dominent, et [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] comme [[genai-over-reliance-learning-2026|Gao, Sun et Khan (2026)]] appellent à des suivis longitudinaux et expérimentaux. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] n'a aucune psychométrie et a été conçu pour des adultes. La possibilité de combler l'écart d'équité par l'enseignement est théorique plutôt que démontrée.
+La mesure reste le maillon faible. Les dispositifs d'enquête dominent, et [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] comme [[genai-over-reliance-learning-2026|Gao, Sun et Khan (2026)]] appellent à des suivis longitudinaux et expérimentaux. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] n'a aucune [[educational-measurement|psychométrie]] et a été conçu pour des adultes. La possibilité de combler l'écart d'équité par l'enseignement est théorique plutôt que démontrée.
 
 Il vous reste un pari raisonnable, fait à peu de frais. Changez un devoir, conservez la mesure sans aide et vérifiez si l'écart entre travail assisté et travail non assisté se resserre. Ne reconstruisez pas un cours sur la force de ces chiffres.
 
 ## Ce que les enseignants comprennent mal
 
-**Les étudiants qui l'utilisent le plus sont ceux qui sont en difficulté.** La fréquence est ce que les enquêtes capturent et ce que les tableaux de bord affichent, et ce n'est pas le construit. Un étudiant qui vérifie chaque réponse et cite vos documents peut utiliser l'IA quotidiennement et aller bien. Un étudiant qui rend la première production une fois par semaine a le problème.
+**Les étudiants qui l'utilisent le plus sont ceux qui sont en difficulté.** La fréquence est ce que les enquêtes capturent et ce que les [[visualization|tableaux de bord]] affichent, et ce n'est pas le construit. Un étudiant qui vérifie chaque réponse et cite vos documents peut utiliser l'IA quotidiennement et aller bien. Un étudiant qui rend la première production une fois par semaine a le problème.
 
 **Une interdiction supprime le risque.** Les résultats les plus solides ici viennent du placement, et le bras humain seul de l'expérience de Wong et Qiu a aussi reculé sur la relance plus difficile. Retirer l'outil sans soutenir l'apprenant laisse la difficulté où elle était.
 
-**Une vérification moins coûteuse réglera la vérification.** Rendre le contrôle plus facile était le levier le plus faible du modèle de Biswas, parce que l'obstacle est social. Un meilleur détecteur de plagiat ne fait pas lire la source à un étudiant.
+**Une vérification moins coûteuse réglera la vérification.** Rendre le contrôle plus facile était le levier le plus faible du modèle de Biswas, parce que l'obstacle est social. Un meilleur [[academic-integrity|détecteur de plagiat]] ne fait pas lire la source à un étudiant.
 
 **Un tableau de bord d'usage me dit qui décharge.** Les items de PAUSE enregistrent quand et à quelle fréquence l'IA entre dans un flux de travail, et les auteurs signalent eux-mêmes le problème de validité. Un étayeur prudent est noté comme déchargeur, donc agir sur ces chiffres punit les étudiants que vous voulez garder.
 
 **La fluidité et la satisfaction montrent que le dispositif fonctionne.** C'est l'illusion que [[lodge-loble-cognitive-offloading-2026|Lodge et Loble (2026)]] décrivent dans leur paradoxe de la performance : le travail paraît fluide et les étudiants réussissent sur le moment en retenant moins. La performance sans aide et le [[transfer-of-learning|transfert]] différé sont les mesures qui répondent à la question.
 
-**Enseignez la littératie en IA aux étudiants et le problème disparaîtra.** [[lodge-loble-cognitive-offloading-2026|Lodge et Loble (2026)]] avertissent que surinvestir dans une littératie en IA destinée aux étudiants pourrait être une mauvaise allocation, vu ce qui manque aux novices.
+**Enseignez l'[[ai-literacy|littératie en IA]] aux étudiants et le problème disparaîtra.** [[lodge-loble-cognitive-offloading-2026|Lodge et Loble (2026)]] avertissent que surinvestir dans une littératie en IA destinée aux étudiants pourrait être une mauvaise allocation, vu ce qui manque aux novices.
 
 ## Ce qui va vous revenir
 
-**« Ce n'est que de la bonne pédagogie sous un nom nouveau. »** En partie. L'étayage, la rétroaction formative et la lutte productive sont des idées anciennes. Ce qui est plus récent, c'est l'ordre : la vérification visible a battu la vérification moins coûteuse, et les deux moments à protéger sont la première tentative difficile et le contrôle final sans aide. Faites les choses familières dans le nouvel ordre.
+**« Ce n'est que de la bonne [[pedagogy|pédagogie]] sous un nom nouveau. »** En partie. L'[[scaffolding|étayage]], la rétroaction formative et la lutte productive sont des idées anciennes. Ce qui est plus récent, c'est l'ordre : la vérification visible a battu la vérification moins coûteuse, et les deux moments à protéger sont la première tentative difficile et le contrôle final sans aide. Faites les choses familières dans le nouvel ordre.
 
 **« Je ne peux pas faire la police. »** Vous ne pouvez pas, et les données disent de ne pas essayer. Le placement a produit le résultat le plus solide. Concevez la tâche pour que l'usage de l'outil au mauvais moment apparaisse dans le travail lui-même, sous forme de réponse que l'étudiant ne sait pas expliquer ou d'étape de vérification manquante.
 

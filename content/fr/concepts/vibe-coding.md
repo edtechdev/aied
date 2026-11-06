@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Le vibe coding"
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-01T10:14:07-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Le vibe coding** — construire un logiciel en interrogeant itérativement un grand modèle de langue et en jugeant le comportement qui en résulte, sans lire ni éditer directement le code source sous-jacent. Popularisé par Andrej Karpathy en 2025 comme le flux de travail où l'on « oublie jusqu'à l'existence du code », le vibe coding est la réalisation native en LLM de la programmation en langage naturel et du développement par l'utilisateur final — des cadrages désormais traités comme des synonymes dans cette base de connaissances — dans lesquels la prose devient l'interface de programmation principale.
+> **Le vibe coding** — construire un logiciel en interrogeant itérativement un [[llm|grand modèle de langue]] et en jugeant le comportement qui en résulte, sans lire ni éditer directement le code source sous-jacent. Popularisé par Andrej Karpathy en 2025 comme le flux de travail où l'on « oublie jusqu'à l'existence du code », le vibe coding est la réalisation native en LLM de la programmation en langage naturel et du développement par l'utilisateur final — des cadrages désormais traités comme des synonymes dans cette base de connaissances — dans lesquels la prose devient l'interface de programmation principale.
 
 ## Questions à examiner
 
@@ -53,7 +53,7 @@ Une étude transversale préenregistrée (N = 100 étudiants du supérieur) four
 
 ### Le vibe coding comme développement par l'utilisateur final et outillage pour les enseignants
 
-Une promesse majeure du vibe coding est qu'il permet aux non-programmeurs — y compris les [[teacher-role|enseignants]] et les experts du domaine — de construire leur propre logiciel, une forme propre à l'ère des LLM de développement par l'utilisateur final. Une [[gaide-vibe-coding-k12-teachers|étude du cadre GAIDE]] a montré des enseignants du primaire et du secondaire (non-programmeurs) utilisant le vibe coding dans un atelier de huit semaines pour créer des outils d'apprentissage propulsés par l'IA, élevant leur [[ai-literacy|littératie en IA]] et démontrant l'« apprendre en créant » comme modèle de développement professionnel. Dans l'enseignement supérieur, un enseignant a rapidement construit en quelques jours un [[vibe-coding-programming-process-visualizer|visualiseur de processus de programmation à partir des journaux d'activité de l'EDI]] par vibe coding, rendant visibles les processus de programmation des étudiants pour l'enseignement et l'examen d'[[academic-integrity|intégrité académique]]. Ces cas positionnent le vibe coding non pas seulement comme une compétence de l'apprenant, mais comme une capacité de création qui [[educational-development|reconfigure qui peut créer les technologies éducatives]].
+Une promesse majeure du vibe coding est qu'il permet aux non-programmeurs — y compris les [[teacher-role|enseignants]] et les experts du domaine — de construire leur propre logiciel, une forme propre à l'ère des LLM de développement par l'utilisateur final. Une [[gaide-vibe-coding-k12-teachers|étude du cadre GAIDE]] a montré des enseignants [[k-12|du primaire et du secondaire]] (non-programmeurs) utilisant le vibe coding dans un atelier de huit semaines pour créer des outils d'apprentissage propulsés par l'IA, élevant leur [[ai-literacy|littératie en IA]] et démontrant l'« apprendre en créant » comme modèle de développement professionnel. Dans l'[[higher-ed|enseignement supérieur]], un enseignant a rapidement construit en quelques jours un [[vibe-coding-programming-process-visualizer|visualiseur de processus de programmation à partir des journaux d'activité de l'EDI]] par vibe coding, rendant visibles les processus de programmation des étudiants pour l'enseignement et l'examen d'[[academic-integrity|intégrité académique]]. Ces cas positionnent le vibe coding non pas seulement comme une compétence de l'apprenant, mais comme une capacité de création qui [[educational-development|reconfigure qui peut créer les technologies éducatives]].
 
 ### L'homogénéisation de la conception : l'accès sans la diversité
 
@@ -63,7 +63,7 @@ La promesse de développement par l'utilisateur final du vibe coding porte sur q
 
 Le vibe coding rouvre des questions centrales sur ce qui est appris lorsque l'IA automatise l'implémentation. Parce que l'utilisateur ne lit pas le code, il doit se fier au comportement du modèle — ce qui fait du vibe coding un cas à fort enjeu de la tension entre l'[[agency|agentivité]] et la [[cognitive-offloading|dépendance excessive]] qui traverse la programmation assistée par l'IA. Les programmes d'études réagissent en se déplaçant de l'enseignement de l'implémentation vers l'enseignement de la manière de diriger, vérifier et auditer les artefacts générés par l'IA (voir la [[reshaping-cs-education-genai|refonte de l'informatique de premier cycle]] et l'[[agentic-ai|ingénierie logicielle agentique]]). Le vibe coding change aussi la position épistémique de l'apprenant : le succès dépend moins de l'écriture du code que de l'expression précise de l'intention et de l'évaluation du comportement au regard des objectifs, des compétences plus proches de la [[computational-thinking|pensée computationnelle]] et de l'écriture structurée que de la maîtrise traditionnelle de la syntaxe.
 
-Une seconde limite apparaît dans la construction elle-même : supprimer la barrière du codage peut laisser intact le fardeau du diagnostic. Deux études de cas en ingénierie ont vu un enseignant construire en quelques heures, par des invites en langage ordinaire à Gemini, des simulations web fonctionnelles d'un système de gestion thermique de batterie et de trois protocoles ARQ ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Une erreur de duplication de paquets a ensuite survécu à des invites répétées, dont l'une énonçait le comportement requis. Elle n'a été corrigée que lorsque l'enseignant a raisonné à partir du comportement du protocole jusqu'à un intervalle de temporisation insuffisant, un paramètre que l'interface n'exposait jamais. L'effet d'aucune des deux simulations sur l'apprentissage n'ayant été mesuré, ce récit établit la faisabilité plutôt que l'efficacité.
+Une seconde limite apparaît dans la construction elle-même : supprimer la barrière du codage peut laisser intact le fardeau du diagnostic. Deux études de cas en ingénierie ont vu un enseignant construire en quelques heures, par des invites en langage ordinaire à Gemini, des [[simulation|simulations]] web fonctionnelles d'un système de gestion thermique de batterie et de trois protocoles ARQ ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Une erreur de duplication de paquets a ensuite survécu à des invites répétées, dont l'une énonçait le comportement requis. Elle n'a été corrigée que lorsque l'enseignant a raisonné à partir du comportement du protocole jusqu'à un intervalle de temporisation insuffisant, un paramètre que l'interface n'exposait jamais. L'effet d'aucune des deux simulations sur l'apprentissage n'ayant été mesuré, ce récit établit la faisabilité plutôt que l'efficacité.
 
 ### Connexions avec les concepts liés
 
@@ -85,7 +85,7 @@ Une étude de cas au niveau du corps enseignant dans cette base de connaissances
 
 **Pour les enseignants et les formateurs d'enseignants**
 
-- Enseignez explicitement la différence entre vibe coding pur et vibe coding à code visible, et exigez le second pour tout ce qui manipulera des données d'étudiants. La distinction est une habitude enseignable, pas une subtilité philosophique.
+- Enseignez explicitement la différence entre vibe coding pur et vibe coding à code visible, et exigez le second pour tout ce qui manipulera des données d'étudiants. La distinction est une habitude enseignable, pas une subtilité [[philosophy-of-ai-in-education|philosophique]].
 - Maintenez un fil de programmation réelle à côté du travail de vibe coding, car la réussite en informatique apportait environ deux fois la variance prédictive unique. Traiter la spécification en langage naturel comme un substitut complet écarte le prédicteur le plus fort.
 - Faites évaluer l'artefact de façon comportementale *et* inspecter le source de tout ce que les étudiants déploient. Lire du code généré est une compétence de revue, et elle n'est pas automatique chez les étudiants qui savent formuler des invites.
 
@@ -97,7 +97,7 @@ Une étude de cas au niveau du corps enseignant dans cette base de connaissances
 
 **Pour les chercheurs**
 
-- Rapportez la condition de vibe coding (pur ou à code visible) avec les résultats, et utilisez des tâches orientées interface graphique validées par des experts plutôt que le succès auto-déclaré, afin que les résultats soient comparables d'une étude à l'autre.
+- Rapportez la condition de vibe coding (pur ou à code visible) avec les résultats, et utilisez des tâches orientées interface graphique validées par des experts plutôt que le succès [[self-report-measures|auto-déclaré]], afin que les résultats soient comparables d'une étude à l'autre.
 - Mesurez la diversité des artefacts, et pas seulement leur nombre ou celui des constructeurs, si l'argument de l'accès est mis à l'épreuve.
 
 ## Concepts liés

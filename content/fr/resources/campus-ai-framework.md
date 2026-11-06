@@ -1,8 +1,10 @@
 ---
+
 title: "Campus AI Framework"
 created: "2026-09-28T04:05:42-04:00"
 updated: "2026-10-10T04:00:00-04:00"
 type: resource
+connected_resources: [campus-ai-development]
 summary: "Un modèle opérationnel pour l'enseignement supérieur appliqué à la stratégie et à la gouvernance de l'IA : huit piliers institutionnels, quatre domaines d'application et une boussole stratégique pour choisir les initiatives, avec un schéma reliant ses sites compagnons."
 url: https://campusaiframework.com/sites
 author: "Joe Sabado"

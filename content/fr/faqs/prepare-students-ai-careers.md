@@ -1,7 +1,7 @@
 ---
 title: "Que devraient apprendre les étudiants pour des carrières où l'IA est courante ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -25,9 +25,9 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Un étudiant demande pourquoi il devrait apprendre à faire quelque chose qu'un chatbot fait déjà. Un comité de programme dit que les employeurs veulent des diplômés capables d'utiliser l'IA au travail. Votre plan de cours doit satisfaire les deux, et ni l'un ni l'autre n'a dit ce que le diplômé devrait savoir faire sans aide.
+Un étudiant demande pourquoi il devrait apprendre à faire quelque chose qu'un [[conversational-ai|chatbot]] fait déjà. Un comité de programme dit que les employeurs veulent des diplômés capables d'utiliser l'IA au travail. Votre plan de cours doit satisfaire les deux, et ni l'un ni l'autre n'a dit ce que le diplômé devrait savoir faire sans aide.
 
-Réponse courte à donner à un collègue : enseignez la tâche professionnelle entière, pas l'usage de l'outil, et évaluez à la fois le produit soutenu et la capacité indépendante de l'étudiant. Les preuves soutiennent de traiter la préparation comme connaissance disciplinaire plus jugement plus vérification plus transfert, et elles ne soutiennent aucune liste de compétences comme garantie d'emploi. Une enquête auprès de 500 enseignants d'universités américaines, comparée à un panel d'employeurs, a trouvé que les deux groupes s'accordaient sur l'importance d'exactement une des 26 compétences liées à l'IA, *fixer des attentes réalistes pour un travail augmenté par l'IA* ; les enseignants valorisaient l'usage critique et responsable tandis que les employeurs valorisaient le flux de travail, l'automatisation et le travail en équipe avec l'IA ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ce sont des priorités déclarées, pas des preuves d'embauche. Le résultat plus net pour un curriculum est ailleurs : dans une enquête auprès de 455 étudiants de dernière année, la littératie en IA atteignait l'employabilité perçue surtout en élevant l'[[career-development-and-readiness|adaptabilité de carrière]], avec un effet indirect de β = 0.173 à côté d'un β direct de 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan et Lestari, 2026]]). L'adaptabilité est une capacité que l'on peut enseigner. Un conseil d'outil, non.
+Réponse courte à donner à un collègue : enseignez la tâche professionnelle entière, pas l'usage de l'outil, et évaluez à la fois le produit soutenu et la capacité indépendante de l'étudiant. Les preuves soutiennent de traiter la préparation comme connaissance disciplinaire plus jugement plus vérification plus transfert, et elles ne soutiennent aucune liste de compétences comme garantie d'emploi. Une enquête auprès de 500 enseignants d'universités américaines, comparée à un panel d'employeurs, a trouvé que les deux groupes s'accordaient sur l'importance d'exactement une des 26 compétences liées à l'IA, *fixer des attentes réalistes pour un travail augmenté par l'IA* ; les enseignants valorisaient l'usage critique et responsable tandis que les employeurs valorisaient le flux de travail, l'automatisation et le [[human-ai-collaboration|travail en équipe avec l'IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ce sont des priorités déclarées, pas des preuves d'embauche. Le résultat plus net pour un [[curriculum-design|curriculum]] est ailleurs : dans une enquête auprès de 455 étudiants de dernière année, la littératie en IA atteignait l'employabilité perçue surtout en élevant l'[[career-development-and-readiness|adaptabilité de carrière]], avec un effet indirect de β = 0.173 à côté d'un β direct de 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan et Lestari, 2026]]). L'adaptabilité est une capacité que l'on peut enseigner. Un conseil d'outil, non.
 
 ## La version courte
 
@@ -73,13 +73,13 @@ Ce sont des adaptations des thèmes de recherche, pas des interventions d'emploi
 
 Composition et communication professionnelle : faites critiquer et réviser par les étudiants une réponse rédigée par l'IA à une réclamation de client. La preuve de la capacité est de nommer les promesses non étayées, d'expliquer les choix de public et de défendre la formulation finale.
 
-Un cours quantitatif peut faire de même avec une estimation produite par l'IA pour un problème de planification réaliste, où les étudiants construisent leur propre estimation, énoncent les hypothèses et testent la plausibilité.
+Un cours [[quantitative-research|quantitatif]] peut faire de même avec une estimation produite par l'IA pour un problème de planification réaliste, où les étudiants construisent leur propre estimation, énoncent les hypothèses et testent la plausibilité.
 
 Pour un cours de tableur ou d'informatique, distribuez une formule générée et des données synthétiques, puis demandez des cas de test, une explication des références et une condition d'échec.
 
-Professions de santé : les étudiants évaluent une explication générée pour un cas fictif au regard de sources approuvées, nomment ses limites et indiquent quand un professionnel qualifié doit décider.
+[[medical-education|Professions de santé]] : les étudiants évaluent une explication générée pour un cas fictif au regard de sources approuvées, nomment ses limites et indiquent quand un professionnel qualifié doit décider.
 
-L'exploration de carrière a sa propre version : comparer la composition des tâches de deux métiers à partir d'informations professionnelles crédibles, puis planifier une étape concrète de développement de compétence ou de demande d'aide.
+L'exploration de carrière a sa propre version : comparer la composition des tâches de deux métiers à partir d'informations professionnelles crédibles, puis planifier une étape concrète de développement de compétence ou de [[help-seeking|demande d'aide]].
 
 Pour un enseignement asynchrone, demandez une tentative initiale, une courte trace de vérification et une note de deux phrases sur une décision conséquente. En laboratoire ou en séminaire, l'explication peut se faire en conversation. Utilisez des supports synthétiques ou autorisés chaque fois que l'alternative est constituée de données professionnelles ou étudiantes confidentielles.
 
@@ -89,19 +89,19 @@ Un artefact poli vous dit ce qui a été produit dans les conditions autorisées
 
 Choisissez ces exigences parce qu'elles soutiennent une capacité énoncée, et dites laquelle chaque évaluation mesure. Les étudiants acceptent la pratique indépendante quand elle est liée à ce à quoi on les prépare ; « vous en aurez besoin un jour » fait moins de travail que montrer en quoi le calcul est ce qui leur permettra plus tard de repérer une mauvaise estimation.
 
-Le versant du soutien a son propre risque. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] ont trouvé l'usage de la GenAI positivement associé à la dépendance à la GenAI, et la dépendance négativement associée à la fois à la pensée critique et à l'employabilité dans leur modèle d'enquête. C'est une association et non une affirmation causale, et elle pointe la question de conception : un cours qui n'évalue jamais que la performance soutenue peut entraîner la dépendance qu'il signale.
+Le versant du soutien a son propre risque. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] ont trouvé l'usage de la [[generative-ai|GenAI]] positivement associé à la dépendance à la GenAI, et la dépendance négativement associée à la fois à la [[critical-thinking|pensée critique]] et à l'employabilité dans leur modèle d'enquête. C'est une association et non une affirmation causale, et elle pointe la question de conception : un cours qui n'évalue jamais que la performance soutenue peut entraîner la dépendance qu'il signale.
 
 Pour la revue de programme, séparez les mesures. La performance en cours, la littératie en IA démontrée, l'évaluation par un superviseur de stage, le statut d'emploi et la qualité de l'emploi sont des résultats différents avec des horizons temporels différents, et une seule intervention ne peut pas établir tous ces résultats. La page sur [[ai-literacy-evidence|les preuves de la littératie en IA]] est l'inventaire honnête de ce que les études d'intervention soutiennent réellement.
 
 ## Aborder l'anxiété de carrière sans promettre la certitude
 
-Les étudiants arrivent avec de vraies peurs, et la littérature d'enquête à leur sujet est une description des peurs plutôt qu'une prévision du marché du travail. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] ont trouvé que l'anxiété liée à l'IA prédisait directement et négativement les décisions de carrière, ce qui est un résultat sur la paralysie décisionnelle, pas sur les emplois. [[ai-anxiety-wellbeing|Le tableau du bien-être]] couvre les preuves plus larges.
+Les étudiants arrivent avec de vraies peurs, et la littérature d'enquête à leur sujet est une description des peurs plutôt qu'une prévision du marché du travail. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] ont trouvé que l'[[anxiety-and-stress|anxiété liée à l'IA]] prédisait directement et négativement les décisions de carrière, ce qui est un résultat sur la paralysie décisionnelle, pas sur les emplois. [[ai-anxiety-wellbeing|Le tableau du bien-être]] couvre les preuves plus larges.
 
 Ce qui aide, c'est l'investigation à l'échelle où un étudiant peut agir : quelles tâches ce rôle contient réellement, à quoi ressemble une semaine, que devrais-je savoir faire, qui peut me le dire. Les services de carrière, les anciens et le personnel de placement détiennent cette information. Une démonstration d'outil, l'impression d'un enseignant ou la présentation d'un fournisseur ne sont pas des prévisions du marché du travail, et présenter l'une d'elles comme une prévision est la façon dont les programmes perdent leur crédibilité auprès d'étudiants qui vérifient ensuite.
 
 ## Ce qui va vous revenir dessus
 
-**« Les étudiants ont juste besoin de mieux prompter. »** Le prompting est une proposition d'une des six parties. Une demande bien spécifiée ne fournit pas la connaissance nécessaire pour reconnaître un mauvais résultat, et les employeurs du panel Ithaka ne classaient pas non plus l'art du prompt en premier.
+**« Les étudiants ont juste besoin de mieux [[prompt-engineering|prompter]]. »** Le prompting est une proposition d'une des six parties. Une demande bien spécifiée ne fournit pas la connaissance nécessaire pour reconnaître un mauvais résultat, et les employeurs du panel Ithaka ne classaient pas non plus l'art du prompt en premier.
 
 **« Si les lieux de travail autorisent l'IA, les travaux de cours devraient l'autoriser. »** Un cours construit aussi la capacité qui rend l'usage responsable possible. Dites laquelle des deux vous évaluez dans chaque tâche, et l'objection devient une question de conception plutôt qu'une contradiction.
 
@@ -125,4 +125,4 @@ Ce qui aide, c'est l'investigation à l'échelle où un étudiant peut agir : qu
 
 [[career-development-and-readiness]] est la page de concept pour l'employabilité, l'adaptabilité et les preuves sur le marché du travail, et [[ai-literacy]] couvre ce que la littératie signifie au-delà de l'usage des outils. Pour l'intégrer à un cours précis, voir [[incorporating-ai-literacy|intégrer la littératie en IA]] et [[faculty-ai-competencies|quelles compétences les enseignants doivent avoir]].
 
-Pour la conception d'évaluation qui rend la performance soutenue et la performance indépendante distinguables, voir [[redesign-assessment-ai-era|repenser l'évaluation à l'ère de l'IA]] et [[ai-grading-fairness-reliability|la notation par IA]]. Pour éviter que le soutien ne devienne dépendance, voir [[reducing-over-reliance|réduire la sur-dépendance]].
+Pour la conception d'[[assessment|évaluation]] qui rend la performance soutenue et la performance indépendante distinguables, voir [[redesign-assessment-ai-era|repenser l'évaluation à l'ère de l'IA]] et [[ai-grading-fairness-reliability|la notation par IA]]. Pour éviter que le soutien ne devienne dépendance, voir [[reducing-over-reliance|réduire la sur-dépendance]].

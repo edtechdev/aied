@@ -1,14 +1,14 @@
 ---
 title: "L'apprentissage tout au long de la vie"
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-01T10:11:35-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-11-01T09:07:05-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 ## Questions à examiner
 
 - Songez à la dernière compétence nouvelle que vous avez acquise en dehors de la scolarité formelle — au travail, en ligne ou en autodidacte. Qui a décidé quoi apprendre, comment l'apprendre, et quand vous étiez « arrivé au bout » ? Comment l'IA changerait-elle ce tableau ?
-- Une question centrale de la page est celle de l'autonomie : à mesure que l'IA participe à l'identification de vos besoins d'apprentissage, à la fixation de vos objectifs et même à la production de contenus, que reste-t-il de réellement autodirigé dans votre propre apprentissage ?
+- Une question centrale de la page est celle de l'autonomie : à mesure que l'IA participe à l'identification de vos besoins d'apprentissage, à la fixation de vos objectifs et même à la production de contenus, que reste-t-il de réellement [[self-directed-learning|autodirigé]] dans votre propre apprentissage ?
 - L'éducation formelle traite le temps comme fixe et les cursus comme séquentiels. La page propose les « graphes Learnity » — des unités de connaissances interconnectées que les apprenants parcourent librement tout au long de leur vie. Que gagnez-vous, et que risquez-vous de perdre, à libérer l'apprentissage d'une séquence fixée ?
 - L'IA peut à la fois soutenir les apprenants adultes et changer les compétences que les adultes doivent continuellement actualiser. Si l'IA ne cesse de reconfigurer votre domaine, dans quelles capacités investiriez-vous qu'aucun outil ne peut simplement vous donner ?
 - L'apprentissage tout au long de la vie est souvent présenté comme une responsabilité individuelle. Mais l'accès sur l'ensemble de la vie est aussi une question d'équité. Qui dispose du temps, des ressources et du soutien nécessaires pour continuer d'apprendre à l'âge adulte — et comment l'IA pourrait-elle élargir ou réduire cet écart ?
@@ -43,8 +43,8 @@ L'apprentissage tout au long de la vie désigne l'éducation continue tout au lo
 - **Des lignes directrices de conception pour l'apprentissage des adultes :** les recherches issues de [[ai-adult-learning-guidelines-dis2026|l'institut AI-ALOE]] synthétisent des lignes directrices de conception empiriquement fondées pour les technologies d'apprentissage des adultes assistées par l'IA, en insistant sur un soutien pratique et sensible au contexte.
 - **L'acquisition de compétences guidée par l'IA :** [[ai-guided-learning-audiovideo-2026|l'apprentissage audio/vidéo guidé par l'IA]] montre comment l'IA peut étayer les étapes consommer–comprendre–imiter de l'acquisition de compétences, en adaptant les médias à l'apprenant.
 - **Des cursus figés aux structures adaptatives :** les [[learnity-graphs-lifelong-learning-framework-2026|graphes Learnity]] proposent de repenser les cursus figés de l'enseignement supérieur comme des unités de connaissances interconnectées que les apprenants peuvent parcourir librement tout au long de leur vie.
-- **Autonomie et autodirection :** l'[[andragogy-cognitive-delegation-genai-2026|andragogie et la délégation cognitive]] revisitent la théorie de l'apprentissage des adultes sous l'angle de la délégation cognitive médiatisée par l'IA, en interrogeant ce qui reste autodirigé lorsque l'IA participe à l'identification des besoins, à la fixation des objectifs et à la production de contenus.
-- **Ce que les adultes attendent de cette délégation.** Lors d'entretiens avec 20 apprenants adultes retenus sur 60 présélectionnés dans trois universités américaines, les apprenants ont décrit l'IA comme un agent d'apprentissage collaboratif dont ils apprennent et avec lequel ils apprennent, et non comme un oracle qui donne les réponses. Ils ont dit ne pas vouloir un système parfait et sans erreur, mais plutôt un système qui reste dans la boucle et s'adapte à eux ([[kim-ai-andragogy-2026|Kim et al., 2026]]). L'autodirection, selon ces données, est quelque chose que les adultes entendent garder à l'intérieur de l'interaction plutôt que de le lui céder, ce qui est la cible de conception dont la question de l'autonomie a besoin.
+- **Autonomie et autodirection :** l'[[andragogy-cognitive-delegation-genai-2026|andragogie et la délégation cognitive]] revisitent la [[learning-theories|théorie de l'apprentissage]] des adultes sous l'angle de la délégation cognitive médiatisée par l'IA, en interrogeant ce qui reste autodirigé lorsque l'IA participe à l'identification des besoins, à la fixation des objectifs et à la production de contenus.
+- **Ce que les adultes attendent de cette délégation.** Lors d'entretiens avec 20 apprenants adultes retenus sur 60 présélectionnés dans trois universités américaines, les apprenants ont décrit l'IA comme un [[collaborative-learning|agent d'apprentissage collaboratif]] dont ils apprennent et avec lequel ils apprennent, et non comme un oracle qui donne les réponses. Ils ont dit ne pas vouloir un système parfait et sans erreur, mais plutôt un système qui reste dans la boucle et s'adapte à eux ([[kim-ai-andragogy-2026|Kim et al., 2026]]). L'autodirection, selon ces données, est quelque chose que les adultes entendent garder à l'intérieur de l'interaction plutôt que de le lui céder, ce qui est la cible de conception dont la question de l'autonomie a besoin.
 - **Politique et communauté :** [[ai-lifelong-learning-policy|l'IA dans les politiques d'apprentissage tout au long de la vie]] et l'[[community-centered-ai-education-adults|éducation à l'IA centrée sur la communauté]] traitent les dimensions institutionnelles et d'équité de l'apprentissage adulte assisté par l'IA.
 - **La régénération de l'expertise est elle-même menacée.** Dans les professions américaines les plus exposées à l'IA, les travailleurs de 22 à 25 ans ont connu une baisse relative de l'emploi de 16% (d'octobre 2022 à septembre 2025), tandis que ceux de 35 à 49 ans progressaient de plus de 8%, et l'expertise approfondie nécessaire pour valider les sorties de l'IA dépend des postes de premier niveau que cette baisse supprime ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 

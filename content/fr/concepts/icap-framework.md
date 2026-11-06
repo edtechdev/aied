@@ -1,7 +1,7 @@
 ---
 title: "Cadre ICAP"
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-01T10:17:14-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-01T09:12:59-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Le cadre ICAP** (Interactive–Constructive–Active–Passive) — une taxonomie de l'engagement cognitif élaborée par Michelene Chi, qui classe le comportement de l'apprenant en quatre modes de changement des connaissances, ordonnés du moins au plus cognitivement engagé : *passif*, *actif*, *constructif* et *interactif*. Dans le domaine de l'IA en éducation, ICAP fournit à la fois une cible de conception (construire des outils qui suscitent un engagement constructif et interactif plutôt qu'une consommation passive) et une grille d'évaluation (mesurer si les apprenants et les systèmes d'IA sont réellement engagés dans les modes supérieurs).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **Le cadre ICAP** (Interactive–Constructive–Active–Passive) — une taxonomie de l'engagement cognitif élaborée par Michelene Chi, qui classe le comportement de l'apprenant en quatre modes de changement des connaissances, ordonnés du moins au plus cognitivement engagé : *passif*, *actif*, *constructif* et *interactif*. Dans le domaine de l'[[ai-education|IA en éducation]], ICAP fournit à la fois une cible de conception (construire des outils qui suscitent un engagement constructif et interactif plutôt qu'une consommation passive) et une grille d'évaluation (mesurer si les apprenants et les systèmes d'IA sont réellement engagés dans les modes supérieurs).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
 ## Questions à examiner
 
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-ICAP repose sur l'hypothèse que *ce que font les apprenants* détermine la quantité et la nature de ce qu'ils apprennent. Le cadre de Chi postule qu'à mesure que l'engagement passe du passif à l'actif, puis au constructif, puis à l'interactif, la nature du changement des connaissances s'approfondit — de l'emmagasinement, à l'attention, à l'intégration des nouvelles connaissances aux connaissances antérieures, jusqu'à la co-création de connaissances par le dialogue. Cela fait d'ICAP un puissant outil d'analyse pour l'IA en éducation, où la question centrale de conception est de savoir si l'assistance par l'IA soutient ou déplace l'engagement cognitif des apprenants.
+ICAP repose sur l'hypothèse que *ce que font les apprenants* détermine la quantité et la nature de ce qu'ils apprennent. Le cadre de Chi postule qu'à mesure que l'engagement passe du passif à l'actif, puis au constructif, puis à l'interactif, la nature du changement des connaissances s'approfondit — de l'emmagasinement, à l'attention, à l'intégration des nouvelles connaissances aux [[prior-knowledge|connaissances antérieures]], jusqu'à la co-création de connaissances par le dialogue. Cela fait d'ICAP un puissant outil d'analyse pour l'IA en éducation, où la question centrale de conception est de savoir si l'assistance par l'IA soutient ou déplace l'engagement cognitif des apprenants.
 
 ## Les quatre modes
 
@@ -53,11 +53,11 @@ ICAP repose sur l'hypothèse que *ce que font les apprenants* détermine la quan
 
 ### Une cible de conception pour les outils d'IA
 
-ICAP recadre la question centrale de conception pour l'IA en éducation : un outil d'IA qui *répond à la place de* l'apprenant le maintient dans les modes passif et actif, tandis qu'un outil qui *incite, questionne et [[scaffolding|étaye]]* peut pousser les apprenants vers un engagement constructif et interactif. Cela aligne ICAP sur la pédagogie [[constructivist]] et sur la recherche sur l'[[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP recadre la question centrale de conception pour l'IA en éducation : un outil d'IA qui *répond à la place de* l'apprenant le maintient dans les modes passif et actif, tandis qu'un outil qui *incite, questionne et [[scaffolding|étaye]]* peut pousser les apprenants vers un engagement constructif et interactif. Cela aligne ICAP sur la [[pedagogy|pédagogie]] [[constructivist]] et sur la recherche sur l'[[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
 
 ### Une grille d'évaluation pour les agents d'IA
 
-ICAP sert aussi de cadre de mesure. Dans une étude, les chercheurs ont étendu ICAP à une échelle de 7 points pour caractériser l'engagement cognitif dans le dialogue collaboratif, puis ont comparé des annotateurs humains entraînés à un étiquetage fondé sur des LLM (apprentissage en contexte, sollicitation sans exemple et agents réflexifs). La fiabilité interjuges humaine (kappa = 0.906–0.998) dépassait largement celle de l'annotation par LLM (kappa = 0.541–0.609), ce qui souligne le rôle d'ICAP — et ses limites actuelles — dans la mesure automatisée de l'engagement pour les chaînes de traitement de la [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
+ICAP sert aussi de cadre de mesure. Dans une étude, les chercheurs ont étendu ICAP à une échelle de 7 points pour caractériser l'engagement cognitif dans le dialogue collaboratif, puis ont comparé des annotateurs humains entraînés à un étiquetage fondé sur des [[llm|LLM]] (apprentissage en contexte, [[prompt-engineering|sollicitation]] sans exemple et agents réflexifs). La fiabilité interjuges humaine (kappa = 0.906–0.998) dépassait largement celle de l'annotation par LLM (kappa = 0.541–0.609), ce qui souligne le rôle d'ICAP — et ses limites actuelles — dans la mesure automatisée de l'engagement pour les chaînes de traitement de la [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
 
 ### Guider l'animation du dialogue collaboratif
 
@@ -65,7 +65,7 @@ Parce que l'engagement interactif est le mode le plus élevé d'ICAP, le cadre a
 
 ### ICAP et la conception de l'analytique de l'apprentissage
 
-ICAP fonde les critiques adressées aux métriques d'« engagement » superficielles : interagir avec un tableau de bord en cliquant sur des filtres est un engagement *actif*, et non *interactif*. Les conceptions efficaces en analytique de l'apprentissage suscitent l'auto-évaluation et le dialogue bidirectionnel, plutôt que de se contenter d'afficher des données — une implication tirée directement du cadre de Chi.([[interactive-learning-dashboards-engagement]])
+ICAP fonde les critiques adressées aux métriques d'« engagement » superficielles : interagir avec un tableau de bord en cliquant sur des filtres est un engagement *actif*, et non *interactif*. Les conceptions efficaces en analytique de l'apprentissage suscitent l'[[self-assessment|auto-évaluation]] et le dialogue bidirectionnel, plutôt que de se contenter d'afficher des données — une implication tirée directement du cadre de Chi.([[interactive-learning-dashboards-engagement]])
 
 ### La transition Actif→Constructif comme étape décisive
 
@@ -75,11 +75,11 @@ La partie « gains les plus forts » de cette affirmation est une inférence tir
 
 ### ICAP comme signal d'étayage adaptatif dans les tuteurs intelligents
 
-Les modes d'ICAP peuvent être opérationnalisés comme des *états cibles* parmi lesquels un tuteur adaptatif choisit pour étayer l'engagement cognitif, sur la base d'un modèle d'étudiant évolutif. Dans un tuteur intelligent fondé sur la logique, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] choisissaient dynamiquement entre un mode d'exemple résolu « Guidé » *Actif* et un mode d'exemple « Buggy » *Constructif*. En comparant le traçage bayésien des connaissances (BKT) à l'apprentissage profond par renforcement (DRL) et à une référence non adaptative sur 113 étudiants, les deux politiques adaptatives amélioraient la performance au post-test — mais de manière différenciée : le BKT donnait les gains les plus importants aux étudiants à connaissances antérieures faibles (les aidant à rattraper leur retard), tandis que le DRL produisait les scores de post-test les plus élevés parmi les étudiants à connaissances antérieures fortes. Cela démontre concrètement que *personnaliser* efficacement le mode ICAP d'un tuteur intelligent dépend de la modélisation des connaissances actuelles de l'apprenant — et qu'aucun mode unique ni aucune méthode adaptative unique ne convient à chaque apprenant. Cela relie directement la hiérarchie ICAP à la conception de l'[[adaptive-learning]] et du [[knowledge-tracing]].
+Les modes d'ICAP peuvent être opérationnalisés comme des *états cibles* parmi lesquels un [[intelligent-tutoring|tuteur adaptatif]] choisit pour étayer l'engagement cognitif, sur la base d'un [[student-modeling|modèle d'étudiant]] évolutif. Dans un tuteur intelligent fondé sur la logique, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] choisissaient dynamiquement entre un mode d'exemple résolu « Guidé » *Actif* et un mode d'exemple « Buggy » *Constructif*. En comparant le traçage bayésien des connaissances (BKT) à l'apprentissage profond par [[reinforcement-learning|renforcement]] (DRL) et à une référence non adaptative sur 113 étudiants, les deux politiques adaptatives amélioraient la performance au post-test — mais de manière différenciée : le BKT donnait les gains les plus importants aux étudiants à connaissances antérieures faibles (les aidant à rattraper leur retard), tandis que le DRL produisait les scores de post-test les plus élevés parmi les étudiants à connaissances antérieures fortes. Cela démontre concrètement que *personnaliser* efficacement le mode ICAP d'un tuteur intelligent dépend de la modélisation des connaissances actuelles de l'apprenant — et qu'aucun mode unique ni aucune méthode adaptative unique ne convient à chaque apprenant. Cela relie directement la hiérarchie ICAP à la conception de l'[[adaptive-learning]] et du [[knowledge-tracing]].
 
 ### ICAP comme modèle d'état cognitif pour générer des agents à l'allure humaine
 
-Au-delà de la sélection des modes de tâche, ICAP a été intégré directement dans le *modèle cognitif* d'un agent éducatif génératif. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] construit un « perceptron de profondeur cognitive » fondé sur ICAP, qui projette les entrées sur une distribution de probabilité répartie entre les quatre niveaux d'ICAP, en fusionnant celle-ci avec des mises à jour d'état inspirées de l'évolution et avec la récupération mnésique fondée sur la théorie de la réponse aux items, afin de simuler l'évolution cognitive d'un étudiant (y compris des transitions telles que confusion → insight). Des ablations montrent que le retrait du module de perception ICAP effondre la capacité de l'agent à distinguer apprentissage superficiel et apprentissage profond — ce qui prouve que la taxonomie ICAP peut servir de mesure fine et interne de l'engagement cognitif pour la [[simulating-students|simulation d'étudiants]], et pas seulement de grille d'évaluation externe.
+Au-delà de la sélection des modes de tâche, ICAP a été intégré directement dans le *modèle cognitif* d'un agent éducatif génératif. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] construit un « perceptron de profondeur cognitive » fondé sur ICAP, qui projette les entrées sur une distribution de probabilité répartie entre les quatre niveaux d'ICAP, en fusionnant celle-ci avec des mises à jour d'état inspirées de l'évolution et avec la récupération mnésique fondée sur la [[item-response-theory|théorie de la réponse aux items]], afin de simuler l'évolution cognitive d'un étudiant (y compris des transitions telles que confusion → insight). Des ablations montrent que le retrait du module de perception ICAP effondre la capacité de l'agent à distinguer apprentissage superficiel et apprentissage profond — ce qui prouve que la taxonomie ICAP peut servir de mesure fine et interne de l'engagement cognitif pour la [[simulating-students|simulation d'étudiants]], et pas seulement de grille d'évaluation externe.
 
 ### ICAP comme ancrage de l'évaluation de l'interaction réflexive avec l'IA générative
 

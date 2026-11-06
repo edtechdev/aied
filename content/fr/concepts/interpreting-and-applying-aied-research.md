@@ -1,7 +1,7 @@
 ---
 title: "Interpréter et appliquer la recherche sur l'IA en éducation"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Si vous ne retenez qu'une chose de cette page, retenez que le chiffre-phare est 
 - **Les propres revues du domaine ne survivent pas à l'audit.** [[oneill-presumed-effective-meta-analysis-2026|L'audit d'O'Neill (2026)]] portant sur **14 méta-analyses évaluées par les pairs** affirmant que l'IA améliore l'éducation a montré qu'**aucune** ne fournissait de base valide aux affirmations qu'elle avançait, et que, parmi 46 études primaires choisies au hasard, **61%** présentaient des problèmes de validité. Le problème n'est pas un seul mauvais article ; c'est une culture du reporting.
 - **Une revue peut quantifier le déséquilibre de publication dans son propre corpus.** Une revue systématique de 155 études sur l'enseignement supérieur a constaté que 117 (75.5%) rapportaient une mise en œuvre réussie, 124 (80.0%) ne couvraient que l'impact à court terme, et seulement 23 (14.8%) traitaient d'échecs en matière d'[[ethics|éthique]], d'équité ou de gouvernance : c'est le déséquilibre que décrivent les contrôles ci-dessus, mesuré sur la base de preuves propre à la revue ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Les auto-déclarations flattent tout le monde.** Les personnes évaluent leurs propres compétences en [[ai-literacy|IA]] environ **40%** plus haut que ne le montrent les mesures de performance, ce qui explique que les enquêtes de satisfaction et de confiance soient les données probantes les plus faibles sur lesquelles agir ([[self-report-measures|les mesures auto-déclarées]], la [[educational-measurement|mesure en éducation]]).
-- **La plupart des produits déjà présents dans les salles de classe n'ont aucune donnée probante indépendante.** [[instruction-partners-ai-in-action-learning-tour-2026|La tournée d'apprentissage 2025-26 d'Instruction Partners]] a profilé 20 produits d'IA destinés aux étudiants et a montré que, sur les 16 disposant de profils complets, seulement sept avaient fait l'objet d'une évaluation indépendante examinant la réussite des étudiants à travers les groupes d'étudiants aux États-Unis ; deux n'avaient été étudiés qu'à l'étranger, quatre avaient des études en cours et trois reposaient sur des données internes uniquement. Les auteurs soutiennent que des études causales indépendantes couvrant les groupes prioritaires devraient être l'attente pour tous les produits destinés aux étudiants — ce qui n'est pas encore la norme pour des outils que les écoles emploient déjà.
+- **La plupart des produits déjà présents dans les salles de classe n'ont aucune donnée probante indépendante.** [[instruction-partners-ai-in-action-learning-tour-2026|La tournée d'apprentissage 2025-26 d'Instruction Partners]] a profilé 20 produits d'IA destinés aux étudiants et a montré que, sur les 16 disposant de profils complets, seulement sept avaient fait l'objet d'une évaluation indépendante examinant la [[learning-gains|réussite des étudiants]] à travers les groupes d'étudiants aux États-Unis ; deux n'avaient été étudiés qu'à l'étranger, quatre avaient des études en cours et trois reposaient sur des données internes uniquement. Les auteurs soutiennent que des études causales indépendantes couvrant les groupes prioritaires devraient être l'attente pour tous les produits destinés aux étudiants — ce qui n'est pas encore la norme pour des outils que les écoles emploient déjà.
 
 ## Transformer un résultat en décision
 

@@ -1,7 +1,7 @@
 ---
 title: "Bibliothécaires"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-01T10:11:17-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introduction
 
-Les bibliothécaires sont les professionnels qui se situent entre la question d'un apprenant et le corpus scientifique : bibliothécaires de référence et de liaison, spécialistes par discipline, bibliothécaires enseignants qui dispensent l'enseignement de la littératie informationnelle, et le personnel qui gère les collections et les dépôts. Dans l'[[ai-education|IA en éducation]], ils sont nommés bien moins souvent que les [[teacher-role|enseignants]] et les [[administrator|administrateurs]], et pourtant le corpus leur attribue un rôle spécifique et vérifiable. Ils sont la réponse humaine au problème de crédibilité que crée l'[[generative-ai|IA générative]], les instructeurs qui enseignent l'[[evaluative-judgment|jugement évaluatif]] et la stratégie de recherche plutôt que de se contenter de fournir des sources, et — dans le cas le plus fort de la base de connaissances — un composant conçu d'un système d'IA plutôt qu'un service situé à côté de lui.
+Les bibliothécaires sont les professionnels qui se situent entre la question d'un apprenant et le corpus scientifique : bibliothécaires de référence et de liaison, spécialistes par discipline, bibliothécaires enseignants qui dispensent l'enseignement de la littératie informationnelle, et le personnel qui gère les collections et les dépôts. Dans l'[[ai-education|IA en éducation]], ils sont nommés bien moins souvent que les [[teacher-role|enseignants]] et les [[administrator|administrateurs]], et pourtant le corpus leur attribue un rôle spécifique et vérifiable. Ils sont la réponse humaine au problème de crédibilité que crée l'[[generative-ai|IA générative]], les instructeurs qui enseignent l'[[information-and-media-literacy|littératie informationnelle]], l'[[evaluative-judgment|jugement évaluatif]] et la stratégie de recherche plutôt que de se contenter de fournir des sources, et — dans le cas le plus fort de la base de connaissances — un composant conçu d'un système d'IA plutôt qu'un service situé à côté de lui.
 
 Cette page traite le rôle comme distinct de ses voisins. Les [[educational-technology-developers|concepteurs de technologies éducatives]] construisent les systèmes de recherche et de recommandation ; les bibliothécaires décident ce à quoi ces systèmes ne devraient pas être crus habilités à conclure. L'[[academic-integrity|intégrité académique]] cadre l'usage de l'IA en termes d'autorship et de divulgation ; le cadrage du bibliothécaire — attribution, provenance, accès — en est adjacent mais plus concret.
 
@@ -82,6 +82,8 @@ Deux autres fils fixent les limites du rôle. [[pearls-epistemic-verification-20
 ## Concepts liés
 
 - [[ai-literacy]]
+- [[information-and-media-literacy]]
+- [[libraries]]
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

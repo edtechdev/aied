@@ -1,7 +1,7 @@
 ---
 title: "Niveaux d'éducation"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-01T10:19:52-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -96,7 +96,7 @@ Un schéma vaut à chaque niveau étudié : la couche humaine absorbe les cas le
 
 **« La matière enseignée compte plus que le niveau d'éducation. »** La césure école/université compte davantage. Ce qui change à cette frontière n'est pas le contenu mais la capacité d'autorégulation, la nature du contrat d'évaluation et qui est responsable de l'apprentissage — ce pourquoi un outil qui aide un séminaire de troisième cycle peut nuire à une leçon de deuxième année, même à contenu comparable.
 
-**« Un tuteur adaptatif aide chaque niveau également. »** La comparaison qui isole la variable est instructive : deux versions du même tuteur de mathématiques de deuxième année — contenu, interface, rétroaction et indices vocaux identiques — ne différant **que par le fait que la sélection des tâches suivait ou non un modèle bayésien de [[knowledge-tracing|traçage des connaissances]]**. La sélection adaptative des tâches est une intervention sensible au niveau, et son bénéfice dépend de la capacité des apprenants de ce niveau à agir sur l'adaptation.
+**« Un [[intelligent-tutoring|tuteur adaptatif]] aide chaque niveau également. »** La comparaison qui isole la variable est instructive : deux versions du même tuteur de mathématiques de deuxième année — contenu, interface, rétroaction et indices vocaux identiques — ne différant **que par le fait que la sélection des tâches suivait ou non un modèle bayésien de [[knowledge-tracing|traçage des connaissances]]**. La sélection adaptative des tâches est une intervention sensible au niveau, et son bénéfice dépend de la capacité des apprenants de ce niveau à agir sur l'adaptation.
 
 **« Les preuves concentrées dans l'enseignement supérieur se généralisent vers le bas. »** Non, et la distribution de la littérature est un avertissement plutôt qu'une commodité. Là où les preuves sont denses et là où elles sont minces est une propriété de l'économie de la recherche, non de l'endroit où l'IA est le plus utilisée, si bien qu'une affirmation sur le K-12 tirée d'échantillons universitaires est une extrapolation par-delà la frontière qui compte le plus.
 

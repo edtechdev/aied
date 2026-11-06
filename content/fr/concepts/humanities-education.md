@@ -1,14 +1,14 @@
 ---
 title: "Lettres et sciences humaines"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-01T08:12:00-05:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 
 L'enseignement des SSH est un domaine disciplinaire distinct de la base de connaissances, complémentaire de l'[[stem-education|enseignement des STIM]] et de l'[[language-learning|apprentissage des langues]]. Parce que les sciences humaines prisent la profondeur interprétative, la paternité de l'œuvre et le jugement contextuel, elles posent des défis d'intégration de l'IA différents de ceux des STIM — et se relient à l'[[higher-ed|enseignement supérieur]] et à l'[[ai-literacy|IA en éducation]] de manières propres à leur [[discipline-specific-aied|domaine]].
 
+L'éducation civique et politique est un domaine frère de ces disciplines plutôt qu'une branche d'entre elles, et [[civic-and-political-education]] la traite pour elle-même. Les données probantes de la base de connaissances y sont minces : huit sources touchent le sujet et aucune ne mesure l'apprentissage civique.
+
 ### Comment l'IA apparaît dans l'enseignement des sciences humaines et sociales
 
 - **La restructuration de la cognition interprétative.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] soutient que l'IA générative agit comme un *médiateur épistémique* qui reconfigure la production de sens, la paternité de l'œuvre et l'[[agency|autonomie]] de l'apprenant dans l'enseignement des SSH. Elle identifie trois transformations — l'extériorisation de la cognition interprétative, l'hybridation de la paternité de l'œuvre, et l'émergence d'une autonomie épistémique distribuée — et trois trajectoires développementales (l'interprétation dépendante de l'IA, l'interprétation augmentée par l'IA, l'interprétation critique envers l'IA). Cela fonde un modèle [[pedagogy|pédagogique]] développemental-critique pour préserver la profondeur interprétative.
@@ -46,7 +48,7 @@ L'enseignement des SSH est un domaine disciplinaire distinct de la base de conna
 - **L'enseignement de l'histoire.** [[paternalistic-filter-llm-history-education|La recherche sur les grands modèles de langue dans l'enseignement de l'histoire]] examine comment l'IA façonne le raisonnement historique et l'interprétation des sources.
 - **Les expériences des étudiants en sciences humaines et sociales.** [[genai-impact-chinese-students-hss|L'impact de l'IA générative sur les étudiants chinois en sciences humaines et sociales]] et [[acceptance-ai-english-tools-2026|l'acceptation de l'IA parmi les apprenants de langues et d'anglais]] documentent les effets du côté des étudiants à travers les disciplines des SSH.
 - **Les dimensions critique et philosophique.** [[voicu-ai-interpretive-cognition-ssh-2026|La littératie critique en IA]] et la [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] sont particulièrement saillantes dans les SSH, où les questions de sens, de valeurs et d'autorité épistémique sont centrales.
-- **La transformation numérique [[governance|institutionnelle]].** Qin (2026) documente comment l'université Lingnan s'est repositionnée comme une « institution d'arts libéraux à orientation recherche à l'ère numérique », rendant obligatoire la littératie en IA générative pour tous les étudiants de premier cycle (y compris un cours de tronc commun obligatoire en première année sur l'IA générative couvrant les espaces latents, les GAN, les modèles de diffusion, l'[[prompt-engineering|ingénierie des invites]], l'ajustement fin, les biais et la désinformation). Le document de positionnement soutient que le basculement vers l'IA pour l'éducation est une *transformation intellectuelle* plutôt qu'une augmentation technocentrique, positionnant la [[ai-literacy|fluidité numérique]] comme une compétence fondamentale des arts libéraux, tandis qu'un modèle d'[[human-in-the-loop-ai|IA avec intervention humaine]] met au premier plan le raisonnement [[ethics|éthique]], le jugement critique et la responsabilité sociale — un plan concret pour l'[[higher-ed|enseignement supérieur]] qui équilibre l'innovation en [[generative-ai|IA générative]] avec les fondements humanistes.
+- **La transformation numérique [[governance|institutionnelle]].** Qin (2026) documente comment l'université Lingnan s'est repositionnée comme une « institution d'arts libéraux à orientation recherche à l'ère numérique », rendant obligatoire la littératie en IA générative pour tous les étudiants de premier cycle (y compris un cours de tronc commun obligatoire en première année sur l'IA générative couvrant les espaces latents, les GAN, les modèles de diffusion, l'[[prompt-engineering|ingénierie des invites]], l'[[llm-training-and-fine-tuning|ajustement fin]], les biais et la désinformation). Le document de positionnement soutient que le basculement vers l'IA pour l'éducation est une *transformation intellectuelle* plutôt qu'une augmentation technocentrique, positionnant la [[ai-literacy|fluidité numérique]] comme une compétence fondamentale des arts libéraux, tandis qu'un modèle d'[[human-in-the-loop-ai|IA avec intervention humaine]] met au premier plan le raisonnement [[ethics|éthique]], le jugement critique et la responsabilité sociale — un plan concret pour l'[[higher-ed|enseignement supérieur]] qui équilibre l'innovation en [[generative-ai|IA générative]] avec les fondements humanistes.
 - **L'exposition de l'évaluation du secteur est désormais mesurée, et elle est concentrée plutôt que diffuse.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] a audité 15 587 dossiers d'unités d'arts et de sciences humaines dans les universités du Group of Eight australien et a montré que 58.6% des épreuves d'évaluation de 2026 étaient fortement exposées à l'[[generative-ai|IA générative]], les dissertations à la maison et les rapports de recherche comptant pour 71.4% de cette exposition une fois pondérée par les points.
 
 ### Pourquoi cela compte
@@ -55,14 +57,14 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 
 ## Implications pour les enseignants de sciences humaines et sociales
 
-- **Traitez l'IA comme un médiateur épistémique, non comme un tuteur de contenus.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] montre que l'IA reconfigure la production de sens, la paternité de l'œuvre et l'autonomie dans les SSH — concevez la pédagogie autour des trois trajectoires (dépendante de l'IA, augmentée par l'IA, critique envers l'IA) et visez le pôle critique envers l'IA.
+- **Traitez l'IA comme un médiateur épistémique, non comme un tuteur de contenus.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] montre que l'IA reconfigure la production de sens, la paternité de l'œuvre et l'autonomie dans les SSH — concevez la [[design-education|pédagogie]] autour des trois trajectoires (dépendante de l'IA, augmentée par l'IA, critique envers l'IA) et visez le pôle critique envers l'IA.
 - **Protégez la profondeur interprétative et la paternité de l'œuvre.** Parce que les sciences humaines prisent le jugement et la paternité originale de l'œuvre, gardez-vous de l'aplatissement de l'analyse par l'IA ; faites de l'[[ai-ed-evaluation|évaluation critique]] des productions de l'IA un objectif d'apprentissage ([[critical-thinking|pensée critique]], [[ai-literacy|littératie en IA]]).
 - **Employez l'IA délibérément dans le travail sur les sources.** [[paternalistic-filter-llm-history-education|La recherche sur l'histoire]] montre que l'IA peut façonner le raisonnement et l'interprétation des sources — enseignez aux étudiants à interroger les affirmations historiques médiées par l'IA et les filtres qu'elle applique.
 - **Tenez compte des effets du côté des étudiants.** [[genai-impact-chinese-students-hss|Les études sur l'expérience étudiante]] documentent la manière dont l'IA générative affecte les apprenants en SSH ; adaptez le soutien et le cadrage de l'intégrité aux usages réels plutôt qu'à des hypothèses.
 
 ## Idées fausses courantes
 
-**« Les sciences humaines sont la partie du curriculum la moins exposée à l'IA. »** L'exposition a été mesurée et elle est concentrée plutôt que diffuse : [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] a audité **15 587 dossiers d'unités d'arts et de sciences humaines** pour établir où se situe l'exposition. Elle est inégalement répartie entre les unités plutôt que diluée, ce qui fait de la refonte de l'évaluation un problème ciblé et non un problème de secteur entier.
+**« Les sciences humaines sont la partie du [[curriculum-design|curriculum]] la moins exposée à l'IA. »** L'exposition a été mesurée et elle est concentrée plutôt que diffuse : [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] a audité **15 587 dossiers d'unités d'arts et de sciences humaines** pour établir où se situe l'exposition. Elle est inégalement répartie entre les unités plutôt que diluée, ce qui fait de la refonte de l'évaluation un problème ciblé et non un problème de secteur entier.
 
 **« L'IA dans l'enseignement des sciences humaines est une augmentation technocentrique. »** Le document de positionnement sur lequel s'appuie cette page soutient que le basculement est une *transformation intellectuelle* plutôt qu'une augmentation, positionnant la [[ai-literacy|fluidité numérique]] comme une compétence fondamentale des arts libéraux. Ajouter un outil à un cours inchangé prend la transformation pour son instrument.
 
@@ -84,6 +86,8 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+
+- [[civic-and-political-education]]
 
 ## Articles liés
 

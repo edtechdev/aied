@@ -1,13 +1,13 @@
 ---
 title: "TAL éducatif"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-01T10:15:08-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T01:53:02-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

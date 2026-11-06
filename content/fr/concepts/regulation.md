@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T10:18:49-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Les systèmes [[agentic-ai|agentiques]] ouvrent un fossé supplémentaire. Dans 
 
 **Le fossé est un fossé de preuves autant que de calendrier.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] caractérisent un secteur professionnel comme élaborant une politique sous la pression du temps, sans base de preuves pour le faire : la plupart des écoles de [[legal-education|droit]] américaines agréées par l'ABA ont adopté des positions généralement prohibitives tout en réservant leur pouvoir d'appréciation aux enseignants pris individuellement, et les auteurs ne rendent compte d'aucun consensus sur la divulgation ou la pratique de citation, ni que d'un taux de réponse d'environ 15% à l'enquête sur les politiques de l'ABA en 2024. Leur réponse normative — des lignes directrices claires quelle que soit la position, l'implication des [[stakeholders|parties prenantes]] dans la rédaction, et une gouvernance conçue pour être souple et revue périodiquement — correspond au [[crompton-governing-genai-higher-ed-delphi-2026|consensus mondial Delphi]], qui traite lui aussi la maintenance des politiques comme un mécanisme institutionnel récurrent plutôt que comme une tâche ponctuelle. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] ajoutent la dépendance inverse : leur programme de réforme de la gouvernance conclut que le développement institutionnel a peu de chances de payer sans affordance extérieure venant de la réglementation, de l'évaluation comparative et de la concurrence inter-institutionnelle, ce qui fait des agences de qualité et de réglementation — et de la comparaison qu'elles imposent entre institutions — la condition pour que la réforme interne de la gouvernance prenne racine.
 
-Un audit des politiques de confidentialité des plateformes EdTech donne à cette dépendance une instance concrète. Sur 48 plateformes, la collecte de données était divulguée de manière relativement bonne (moyenne de 1,81 sur 2), tandis que la divulgation sur l'IA (0,90) et la responsabilité (1,07) tardaient, et 33% ne faisaient aucune divulgation significative sur l'IA malgré des fonctionnalités d'IA visibles ; les plateformes américaines du [[k-12|primaire et du secondaire]] obtenaient les meilleurs scores globaux (M = 7,47 contre 5,50 pour l'[[higher-ed|enseignement supérieur]] américain) sans pour autant gagner quoi que ce soit en divulgation sur l'IA ou en responsabilité — la réglementation, concluent les auteurs, ne relève que ce qu'elle nomme, de sorte que ce sont des règles exécutoires et des normes d'achat public plutôt que des engagements volontaires qui doivent faire de la [[privacy|confidentialité]] une condition du déploiement ([[edtech-privacy-deferral-2026|Nair et Greenstadt, 2026]]).
+Un audit des [[edtech-platform|plateformes EdTech]] donne à cette dépendance une instance concrète. Sur 48 plateformes, la collecte de données était divulguée de manière relativement bonne (moyenne de 1,81 sur 2), tandis que la divulgation sur l'IA (0,90) et la responsabilité (1,07) tardaient, et 33% ne faisaient aucune divulgation significative sur l'IA malgré des fonctionnalités d'IA visibles. Les plateformes américaines du [[k-12|primaire et du secondaire]] obtenaient les meilleurs scores globaux (M = 7,47 contre 5,50 pour l'[[higher-ed|enseignement supérieur]] américain) sans pour autant gagner quoi que ce soit en divulgation sur l'IA ou en responsabilité. La réglementation, concluent les auteurs, ne relève que ce qu'elle nomme, de sorte que ce sont des règles exécutoires et des normes d'achat public plutôt que des engagements volontaires qui doivent faire de la [[privacy|confidentialité]] une condition du déploiement ([[edtech-privacy-deferral-2026|Nair et Greenstadt, 2026]]).
 
 ### Connexions
 

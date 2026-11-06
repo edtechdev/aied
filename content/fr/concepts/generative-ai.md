@@ -1,14 +1,14 @@
 ---
 title: L'IA générative
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T10:15:52-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Regroupées sur 53 études, les pratiques éducatives assistées par l'IAG ont s
 
 Une méta-analyse à trois niveaux portant sur 22 études constate que l'apprentissage par problèmes et par [[project-based-learning|projets]] soutenu par l'IAG produit un effet regroupé important sur les résultats internes à l'apprenant (g = 0.819), qu'une correction PET-PEESE ramène toutefois à g = 0.378 ; l'enchâssement comptait aussi, les agents conversationnels génériques se regroupant à g = 0.970 contre g = 0.455 pour les systèmes personnalisés ou fondés sur une API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
-Une méta-analyse distincte portant sur 42 études consacrées à la seule motivation situe l'effet regroupé plus bas (g = 0.764) et rapporte un intervalle de prédiction à 95% s'étendant de [−0.689, 2.217], si bien que l'avantage motivationnel n'est pas de manière fiable positif dans un nouveau contexte ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+Une méta-analyse distincte portant sur 42 études consacrées à la seule motivation situe l'effet regroupé plus bas (g = 0.764) et rapporte un intervalle de prédiction à 95% s'étendant de [−0.689, 2.217], si bien que l'avantage [[motivation|motivationnel]] n'est pas de manière fiable positif dans un nouveau contexte ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 L'interface utilisateur générative est la capacité la plus récente de ce fil : des modèles qui produisent un artefact interactif fonctionnel — curseurs, simulations manipulables — plutôt que de la prose. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], une équipe de Google Research, rapportent que l'interface utilisateur générative disponible sur étagère n'est pas encore assez précise sur le plan pédagogique pour des construits complexes, mais que décomposer un objectif d'apprentissage en niveaux progressifs et envelopper la génération dans des boucles de critique et d'auto-amélioration produit des objets interactifs que des enseignants experts jugent acceptables. La leur est une conception orchestrée : les enseignants énoncent les objectifs, les approuvent et choisissent parmi les simulations candidates, de sorte que la contrainte déterminante pour la production de [[simulation|supports d'apprentissage interactifs]] sur mesure se déplace de la production vers la spécification, et que les [[guardrails|garde-fous pédagogiques]] sont intégrés au pipeline de génération plutôt que laissés à la vigilance de l'enseignant après coup.
 
@@ -77,7 +77,7 @@ La génération de contenus s'étend pareillement au-delà des [[math-education|
 
 ### L'IA générative dans des domaines spécialisés : le soutien à la dyslexie
 
-Une revue systématique interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, guidée par PRISMA, 2018–2024, n=72) constate que **l'IA générative est sous-utilisée dans le domaine du soutien à la dyslexie**. La recherche sur l'IAG (toute issue de 2024) se regroupe en [[conversational-ai|agents conversationnels]] intelligents, soutien à la formation des [[teacher-education|enseignants]] et études exploratoires, et rattrape rapidement le [[machine-learning|ML]] classique comme outil de choix — et pourtant l'expérimentation rigoureuse et la validation en conditions réelles demeurent largement absentes. L'analyse des tendances futures de la revue pointe vers des supports personnalisés alimentés par l'IAG et une rétroaction adaptative en temps réel, des modèles diagnostiques [[multimodal|multimodaux]] intégrant l'oculométrie, l'EEG et l'[[learning-analytics|analytique]] comportementale, des [[intelligent-tutoring|systèmes de tutorat intelligent]] et des agents conversationnels fondés sur le traitement du langage naturel, et des outils de soutien destinés aux éducateurs. Cela illustre à la fois la promesse de l'IA générative pour la génération de contenus et le soutien interactif dans un domaine spécialisé à besoins élevés, et le risque que son adoption devance la base de preuves.
+Une revue systématique interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, guidée par PRISMA, 2018–2024, n=72) constate que **l'IA générative est sous-utilisée dans le domaine du soutien à la dyslexie**. La recherche sur l'IAG (toute issue de 2024) se regroupe en [[conversational-ai|agents conversationnels]] intelligents, soutien à la formation des [[teacher-education|enseignants]] et études exploratoires, et rattrape rapidement le [[machine-learning|ML]] classique comme outil de choix — et pourtant l'expérimentation rigoureuse et la validation en conditions réelles demeurent largement absentes. L'analyse des tendances futures de la revue pointe vers des supports personnalisés alimentés par l'IAG et une rétroaction adaptative en temps réel, des modèles diagnostiques [[multimodal|multimodaux]] intégrant l'[[sensor-and-gaze-analytics|oculométrie]], l'EEG et l'[[learning-analytics|analytique]] comportementale, des [[intelligent-tutoring|systèmes de tutorat intelligent]] et des agents conversationnels fondés sur le traitement du langage naturel, et des outils de soutien destinés aux éducateurs. Cela illustre à la fois la promesse de l'IA générative pour la génération de contenus et le soutien interactif dans un domaine spécialisé à besoins élevés, et le risque que son adoption devance la base de preuves.
 
 ## Idées fausses courantes
 
@@ -115,6 +115,8 @@ Une revue systématique interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone,
 - [[ai-technologies]] — l'ensemble des techniques et modèles d'IA
 - [[higher-ed]] — un contexte de déploiement principal
 - [[k-12]] — un contexte de déploiement principal
+
+- [[reflection]]
 
 ## Articles liés
 - [[genai-learning-motivation-meta-analysis-2026]] — Méta-analyse de l'effet de l'IAG sur la motivation à apprendre, avec un intervalle de prédiction allant du préjudice au bénéfice

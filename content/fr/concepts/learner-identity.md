@@ -1,7 +1,7 @@
 ---
 title: "Identité de l'apprenant"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ Une condition de paternité distincte, et pas seulement une menace envers la pat
 - **La manière dont les étudiants cadrent l'outil façonne leur devenir professionnel.** Les étudiants qui présentaient l'IA générative uniquement comme un partenaire socioémotionnel ont produit des réflexions moins différenciées sur leur apprentissage professionnel que ceux qui la cadraient aussi comme une technique, un matériel d'apprentissage ou une structure ([[genai-professionalization-metaphors-2026|Bohmer et coll. (2026)]]).
 
 - **L'adoption gardée : l'usage sélectif de l'IA comme protection de l'identité.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] a enquêté auprès de 484 étudiants d'une université australienne et a montré que les étudiants les plus performants déclaraient un *plus faible* engagement actif envers l'[[generative-ai|IA générative]], un affect positif plus faible envers l'IA, un [[self-report-measures|impact perçu]] sur l'apprentissage plus faible et un désengagement lié à l'IA plus faible, avec les associations les plus fortes à rho = -0.395 pour l'impact perçu sur l'apprentissage et rho = -0.359 pour l'affect positif. Leurs réponses ouvertes décrivaient un usage sélectif (clarification, synthèse, soutien aux flux de travail), vérifié, et tenu subordonné à leur propre jugement, et les résultats au niveau des items ont montré un plus grand accord avec l'affirmation que la confiance en l'IA nuit à la [[critical-thinking|pensée critique]] et à la [[problem-solving|résolution de problèmes]] indépendante. Les auteurs y lisent un travail d'identité : pour les étudiants dont le sentiment d'eux-mêmes comme apprenants qui réussissent repose sur leur propre effort et leur propre jugement, borner l'usage de l'IA défend l'[[agency|autonomie épistémique]] dont l'identité dépend — ce qui signifie aussi que ce schéma n'est ni une technophobie ni un faible engagement.
+- **Une intention déclarée ne gouverne pas nécessairement une décision relative à l'IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] ont interrogé 14 étudiants de premier cycle et codé chaque entretien pour la relation entre l'[[self-determination-theory|intention]] de l'étudiant — définie comme une visée personnellement signifiante de contribuer au-delà de soi — et ses choix en matière d'IA. Certains seulement établissaient le lien : l'un a refusé l'IA parce que ses coûts environnementaux et humains contredisaient son intention, et trois ont laissé leur future identité professionnelle façonner leurs choix (« contribue au psychologue que je serai un jour dans le monde »). D'autres, avec un sens de l'intention tout aussi clair, n'établissaient aucun lien de ce type, décrivant intention et IA comme « plutôt séparés », si bien qu'avoir une identité à protéger n'était pas la même chose que de s'en servir. L'article sépare aussi les raisons que les étudiants donnent pour garder leur travail à eux — développement des compétences, [[evaluative-judgment|propriété et fierté]] et objection morale — qui passent par des mécanismes différents et ne devraient pas être regroupées en un seul motif.
 
 ## Relation avec l'autonomie de l'apprenant
 
@@ -89,7 +90,7 @@ L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se me
 
 **« L'assistance par l'IA abaisse les barrières et élargit donc la participation. »** Elle peut abaisser la barrière de la production tout en rétrécissant celle de la revendication d'auctorialité. Un étudiant qui remet un artefact fluide qu'il n'a pas écrit a obtenu l'accès au résultat et s'est vu refuser la reconnaissance qui construit l'identité derrière.
 
-**« Reconnaître l'identité d'un apprenant relève de la représentation dans les contenus. »** La représentation compte, et la reconnaissance s'exerce dans la pratique : quelles questions sont reprises, quelle contribution est créditée, et qui est traité comme capable. Un curriculum peut être représentatif et refuser malgré tout la reconnaissance dont la formation identitaire a besoin.
+**« Reconnaître l'identité d'un apprenant relève de la représentation dans les contenus. »** La représentation compte, et la reconnaissance s'exerce dans la pratique : quelles questions sont reprises, quelle contribution est créditée, et qui est traité comme capable. Un [[curriculum-design|curriculum]] peut être représentatif et refuser malgré tout la reconnaissance dont la formation identitaire a besoin.
 
 ## Concepts liés
 
@@ -110,6 +111,8 @@ L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se me
 - [[k-12]]
 
 ## Articles liés
+
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 étudiants de premier cycle sur ce qu'ils continuent de faire eux-mêmes, et pourquoi l'objectif ne décide que rarement
 
 - [[guarded-adoption-genai-higher-education-2026]] — L'adoption prudente de l'IA générative dans l'enseignement supérieur
 - [[t2i-competence-paradox-2026]] — Le paradoxe de la compétence : l'identité créative dans l'usage de l'IAG texte-image

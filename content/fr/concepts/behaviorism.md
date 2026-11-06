@@ -1,7 +1,7 @@
 ---
 title: "Behaviorisme"
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,13 +51,13 @@ Le behaviorisme soutient que l'apprentissage est le renforcement ou l'affaibliss
 
 ### Behaviorist designs dominate practice
 
-Les travaux empiriques constatent régulièrement que les implémentations réelles de l'IA sont majoritairement **behavioristes ou cognitives** — mettant l'accent sur les exercices répétitifs, la [[feedback|rétroaction]] immédiate et le rythme adaptatif — même lorsque le discours épouse des théories plus riches. Une [[meta-analysis-systematic-review|revue systématique]] de l'IA dans l'enseignement et la formation professionnels (EFP) a conclu que les théories constructivistes sont préconisées dans le discours sur l'EFP alors que **les implémentations behavioristes de l'IA dominent en pratique**, et a mis en garde contre un « piège de Turing » éducatif — utiliser l'IA pour répliquer plutôt qu'augmenter l'enseignement humain. ([[ai-vocational-education-training-review]])
+Les travaux empiriques constatent régulièrement que les implémentations réelles de l'IA sont majoritairement **behavioristes ou cognitives** — mettant l'accent sur les exercices répétitifs, la [[feedback|rétroaction]] immédiate et le rythme adaptatif — même lorsque le discours épouse des théories plus riches. Une [[meta-analysis-systematic-review|revue systématique]] de l'IA dans l'[[vocational-education|enseignement et la formation professionnels]] (EFP) a conclu que les théories constructivistes sont préconisées dans le discours sur l'EFP alors que **les implémentations behavioristes de l'IA dominent en pratique**, et a mis en garde contre un « piège de Turing » éducatif dans lequel l'IA réplique l'enseignement humain au lieu de l'augmenter. ([[ai-vocational-education-training-review]])
 
 ### Output equivalence: when behavior no longer certifies learning
 
 Le behaviorisme définit l'apprentissage comme un changement du comportement observable, ce qui en fait la théorie la plus directement embarrassée par l'IA générative : un apprenant peut désormais produire une dissertation, une analyse ou un code fonctionnel indiscernable du travail de quelqu'un qui possède la compétence que l'artefact est censé certifier. Le comportement observable est identique alors que l'apprentissage n'a peut-être pas eu lieu, un mode de défaillance que le [[generativism-learning-theory|générativisme]] appelle le problème d'équivalence comportementale.
 
-L'écart entre performance et apprentissage n'est pas nouveau, mais l'IA l'élargit. Dans une expérience de terrain menée auprès de près d'un millier d'étudiants de mathématiques au lycée, un accès illimité à un assistant standard a fait grimper la performance en exercice de 48% alors que ces mêmes étudiants ont obtenu plus tard 17% de moins que leurs pairs ayant pratiqué sans IA lors d'un examen sans assistance ; une version tuteur garde-fou a largement supprimé ce déficit ([[genai-performance-vs-learning]]). Lu de façon behavioriste, l'enseignement porte sur la mesure davantage que sur la pédagogie : un système qui optimise la production peut satisfaire au critère propre à la théorie de l'apprentissage tout en manquant son objectif.
+L'écart entre performance et apprentissage n'est pas nouveau, mais l'IA l'élargit. Dans une expérience de terrain menée auprès de près d'un millier d'étudiants de mathématiques au lycée, un accès illimité à un assistant standard a fait grimper la performance en exercice de 48% alors que ces mêmes étudiants ont obtenu plus tard 17% de moins que leurs pairs ayant pratiqué sans IA lors d'un examen sans assistance ; une version tuteur [[guardrails|garde-fou]] a largement supprimé ce déficit ([[genai-performance-vs-learning]]). Lu de façon behavioriste, l'enseignement porte sur la mesure davantage que sur la [[pedagogy|pédagogie]] : un système qui optimise la production peut satisfaire au critère propre à la théorie de l'apprentissage tout en manquant son objectif.
 
 ### The tension with constructivism and agency
 
@@ -75,7 +75,7 @@ La question de conception n'est pas de savoir si le behaviorisme est « juste »
 
 ## Behaviorism and "education about AI"
 
-Le behaviorisme apparaît aussi dans la manière dont les apprenants rencontrent l'IA comme sujet. La théorie est l'une des quatre [[learning-theories|théories de l'apprentissage]] dominantes — behaviorisme, cognitivisme, constructivisme et connexionnisme — que l'[[generative-ai|IA générative]] conduit les éducateurs à revisiter. ([[generativism-learning-theory]]) Elle est également évoquée dans des contextes d'apprentissage coopératif et de conception comme faisant partie du socle théorique enseigné aux apprenants. ([[ccct-cooperative-learning-technique]]) Comprendre le behaviorisme aide les apprenants à voir pourquoi de nombreux outils d'IA (et les produits construits sur eux) sont conçus pour la réponse et le renforcement plutôt que pour une construction plus profonde.
+Le behaviorisme apparaît aussi dans la manière dont les apprenants rencontrent l'IA comme sujet. La théorie est l'une des quatre [[learning-theories|théories de l'apprentissage]] dominantes — behaviorisme, cognitivisme, constructivisme et connexionnisme — que l'[[generative-ai|IA générative]] [[prompt-engineering|incite]] les éducateurs à revisiter. ([[generativism-learning-theory]]) Elle est également évoquée dans des contextes d'apprentissage coopératif et de conception comme faisant partie du socle théorique enseigné aux apprenants. ([[ccct-cooperative-learning-technique]]) Comprendre le behaviorisme aide les apprenants à voir pourquoi de nombreux outils d'IA (et les produits construits sur eux) sont conçus pour la réponse et le renforcement plutôt que pour une construction plus profonde.
 
 ## Implications for design and research
 

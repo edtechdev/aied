@@ -1,7 +1,7 @@
 ---
 title: "Process Feedback"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: resource
 summary: "Une alternative gratuite, fondée sur le processus, à la détection d'IA : elle enregistre comment un texte a été produit et le transforme en rapport pour une conversation sur l'apprentissage plutôt qu'en verdict."
 url: https://processfeedback.org/
@@ -33,7 +33,7 @@ ai_assist:
 
 ## Ce que vous pouvez en faire
 
-Un enseignant peut consulter un rapport pour un seul élève ou en charger des centaines à la fois depuis un tableau de bord enseignant, et les élèves peuvent consulter leurs propres rapports et s'y [[metacognition|réfléchir]]. L'outil fonctionne dans Google Docs via une extension de navigateur, dans l'espace d'écriture propre au projet, et dans des éditeurs de LMS tels que Canvas, avec intégration LTI disponible ; un rapport peut aussi être téléchargé en PDF et téléversé sur n'importe quelle plateforme. Le projet publie des invites de réflexion pour guider l'auto-examen des élèves, des conseils pour lire les schémas d'usage de l'IA, et des guides pour enseignants.
+Un enseignant peut consulter un rapport pour un seul élève ou en charger des centaines à la fois depuis un tableau de bord enseignant, et les élèves peuvent consulter leurs propres rapports et s'y [[reflection|réfléchir]]. L'outil fonctionne dans Google Docs via une extension de navigateur, dans l'espace d'écriture propre au projet, et dans des éditeurs de LMS tels que Canvas, avec intégration LTI disponible ; un rapport peut aussi être téléchargé en PDF et téléversé sur n'importe quelle plateforme. Le projet publie des invites de réflexion pour guider l'auto-examen des élèves, des conseils pour lire les schémas d'usage de l'IA, et des guides pour enseignants.
 
 ## À qui cela s'adresse
 

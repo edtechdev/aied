@@ -1,7 +1,7 @@
 ---
 title: "Quelles lacunes notables existe-t-il dans la littérature de recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -74,7 +74,7 @@ La lacune restante concerne les trajectoires de compétence, et un post-test sup
 
 « Apprentissage soutenu par l'IA » regroupe généralement plusieurs changements : nouvelle rétroaction, réflexion ajoutée, discussion entre pairs, séquences de tâches différentes, incitations d'évaluation modifiées. Un ensemble qui réussit ne vous dit pas quelles composantes étaient nécessaires.
 
-[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] constitue une avancée réelle sur cette question. Parmi 1 176 étudiants de première année, les conceptions réflexives et hybrides ont surpassé la [[ai-feedback-quality|rétroaction par IA]] directe sur le transfert différé sans IA. La condition hybride combinait auto-évaluation, [[peer-assessment|rétroaction par les pairs]] et critique par IA. Cela sépare la manière dont la rétroaction est organisée et utilisée de la question de savoir si les étudiants y ont accès.
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] constitue une avancée réelle sur cette question. Parmi 1 176 étudiants de première année, les conceptions réflexives et hybrides ont surpassé la [[ai-feedback-quality|rétroaction par IA]] directe sur le transfert différé sans IA. La condition hybride combinait [[self-assessment|auto-évaluation]], [[peer-assessment|rétroaction par les pairs]] et critique par IA. Cela sépare la manière dont la rétroaction est organisée et utilisée de la question de savoir si les étudiants y ont accès.
 
 Reste ouvert : la contribution et le moment des tentatives indépendantes initiales, de l'auto-explication, de l'apport des pairs, de la rétroaction corrective, des indices et de l'estompage de l'aide, et la façon dont chacun interagit avec les [[prior-knowledge|connaissances préalables]] et la difficulté de la tâche.
 
@@ -94,7 +94,7 @@ L'IA crée deux problèmes d'évaluation liés : elle aide à produire le travai
 
 L'[[ai-agents-complete-lms-assessment-validity-2026|étude de la base de connaissances sur des agents d'IA accomplissant des tâches évaluées dans un LMS]] documente des agents naviguant dans un cours de licence en direct et terminant des activités évaluées. Cela démontre une capacité qui remet en cause les hypothèses sur les preuves produites par les étudiants. Cela n'établit pas la fréquence de tels usages, et cela n'invalide pas l'évaluation asynchrone comme catégorie.
 
-La question de recherche est de savoir quelles conceptions soutiennent encore des conclusions défendables sur l'apprenant. Les [[eportfolio|portfolios]], les réflexions, les remises par étapes et les journaux d'activité doivent être validés comme preuves plutôt que présumés établir la paternité ou la compréhension. Les études devraient tester des combinaisons de preuves contre une compétence observée indépendamment, en tenant compte de l'accessibilité, de la charge de travail, de la vie privée et de l'anxiété des étudiants. [[assessment-validity|Validité de l'évaluation]] contient le détail.
+La question de recherche est de savoir quelles conceptions soutiennent encore des conclusions défendables sur l'apprenant. Les [[eportfolio|portfolios]], les réflexions, les remises par étapes et les journaux d'activité doivent être validés comme preuves plutôt que présumés établir la paternité ou la compréhension. Les études devraient tester des combinaisons de preuves contre une compétence observée indépendamment, en tenant compte de l'accessibilité, de la charge de travail, de la vie privée et de l'[[anxiety-and-stress|anxiété des étudiants]]. [[assessment-validity|Validité de l'évaluation]] contient le détail.
 
 Pour la [[automated-assessment|notation automatisée]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] rapporte un désaccord systématique entre modèles prêts à l'emploi et évaluateurs humains. Les résultats dépendent de la configuration, et ils montrent pourquoi la cohérence interne ne peut pas porter une affirmation de validité.
 
@@ -112,11 +112,11 @@ Trancher cela exige une évaluation fondée sur la performance combinée à l'ob
 
 ## Indiquer qui le résultat laisse de côté
 
-Les résultats issus d'un cours, d'un établissement, d'une langue ou d'une population d'apprenants autorisent rarement des décisions ailleurs, un problème que la synthèse [[limitations-in-aied-research|Limitations de la recherche en IAED]] traite comme récurrent. La manière dont les effets varient selon le stade de développement, la discipline, les connaissances préalables, le handicap, la langue et les conditions de ressources reste largement non mesurée.
+Les résultats issus d'un cours, d'un établissement, d'une langue ou d'une [[learners|population d'apprenants]] autorisent rarement des décisions ailleurs, un problème que la synthèse [[limitations-in-aied-research|Limitations de la recherche en IAED]] traite comme récurrent. La manière dont les effets varient selon le stade de développement, la discipline, les connaissances préalables, le handicap, la langue et les conditions de ressources reste largement non mesurée.
 
 La recherche sur l'équité doit aussi séparer accès, compétences et résultats. La synthèse [[digital-divide|Fracture numérique]] est claire : les appareils et l'accès aux outils n'établissent pas une capacité égale d'en bénéficier. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] a suivi 752 élèves du secondaire inférieur à Hong Kong : les écarts de préparation psychologique se sont réduits tandis que les différences à un test objectif de littératie en IA persistaient. Tous les groupes se sont améliorés, et les inégalités ne se sont pas refermées. Les profils d'apprentissage antérieur n'étaient pas assignés au hasard, si bien que leur rôle causal reste inconnu.
 
-La couverture est mince à des endroits précis. [[differential-effects-across-learner-groups|Effets différenciés entre groupes d'apprenants]] compte la littérature par population : les apprenants de langue seconde et multilingues et les étudiants en situation de handicap constituent les filons les plus profonds, le genre et la neurodiversité viennent ensuite, les étudiants de première génération et internationaux ont une étude chacun dans ce corpus, les étudiants doués et à haut rendement sont pratiquement non étudiés, et les apprenants réfugiés, immigrés et déplacés n'apparaissent dans aucune. Une base de preuves de cette forme ne peut pas répondre à une question d'équité par agrégation.
+La couverture est mince à des endroits précis. [[differential-effects-across-learner-groups|Effets différenciés entre groupes d'apprenants]] compte la littérature par population : les [[multilingual-learning|apprenants de langue seconde et multilingues]] et les [[special-education|étudiants en situation de handicap]] constituent les filons les plus profonds, le genre et la [[neurodiversity|neurodiversité]] viennent ensuite, les étudiants de première génération et internationaux ont une étude chacun dans ce corpus, les étudiants doués et à haut rendement sont pratiquement non étudiés, et les apprenants réfugiés, immigrés et déplacés n'apparaissent dans aucune. Une base de preuves de cette forme ne peut pas répondre à une question d'équité par agrégation.
 
 La capacité varie aussi à l'intérieur d'un même système national. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] ont noté l'intégration de l'IA dans 45 universités nigérianes et trouvé une adoption globale modérée (M = 4.79, étendue 1.83-7.83 sur une échelle de 10 points), le type d'établissement ne prédisant pas l'intégration une fois l'âge et la géographie contrôlés (âge β = 0.43 ; localisation au Sud-Ouest β = 0.31). Les capacités internes étaient corrélées entre elles à r = 0.79-0.80 et les collaborations internationales avec les partenariats industriels à r = 0.74, si bien que les établissements connectés accumulent des avantages cumulatifs. Quelles conceptions de renforcement des capacités changent les résultats dans des établissements plus récents et moins connectés n'a pas été testé.
 
@@ -190,7 +190,7 @@ Les enseignants qui veulent la version au niveau de la classe peuvent suivre [[e
 
 **« La taille d'effet regroupée me dit déjà ce qui marche. »** Les 14 méta-analyses auditées définissaient le traitement comme un outil, regroupaient des résultats incompatibles et rapportaient un I² supérieur à 80% dans 12 des 13 analyses qui le donnaient. Le nombre regroupé décrit un ensemble d'études avec un problème de construit.
 
-**« Les étudiants simulés coûtent moins cher, leur validation peut attendre. »** Dans l'étude sur la sycophancie, les étudiants simulés abandonnaient leurs conceptions erronées que la rétroaction les traitât ou non, ce qui est précisément le mode de défaillance qui fait passer un tuteur inefficace pour efficace.
+**« Les étudiants simulés coûtent moins cher, leur validation peut attendre. »** Dans l'étude sur la [[ai-sycophancy|sycophancie]], les étudiants simulés abandonnaient leurs conceptions erronées que la rétroaction les traitât ou non, ce qui est précisément le mode de défaillance qui fait passer un tuteur inefficace pour efficace.
 
 ## À faire cette semaine
 

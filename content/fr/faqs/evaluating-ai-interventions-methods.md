@@ -1,7 +1,7 @@
 ---
 title: "Quelles mesures et méthodes de recherche un enseignant peut-il utiliser pour évaluer les interventions liées à l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
@@ -76,7 +76,7 @@ Un gain pré/post montre que l'intervention a fonctionné. Il montre que les sco
 
 Les tailles d'effet publiées se transfèrent à ma classe. Les 14 méta-analyses d'O'Neill ne pouvaient pas étayer les affirmations construites sur elles, et les deux intervalles de prédiction rapportés incluaient zéro.
 
-Les analyses de plateforme mesurent la qualité de l'enseignement. L'agent classé troisième par Zhang était dernier à une grille d'experts.
+Les [[learning-analytics|analyses]] de plateforme mesurent la qualité de l'enseignement. L'agent classé troisième par Zhang était dernier à une grille d'experts.
 
 ## Ce qui vous reviendra dessus
 

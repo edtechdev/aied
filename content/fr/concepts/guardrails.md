@@ -1,7 +1,7 @@
 ---
 title: Les garde-fous
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-01T10:16:57-05:00"
+updated: "2026-11-05T18:24:25-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -84,8 +84,8 @@ Les garde-fous eux-mêmes ne sont pas neutres : l'audit de [[paternalistic-filte
 
 Les deux sont étroitement couplés : presque chaque technique de garde-fou est une manière d'atteindre la sécurité [[pedagogy|pédagogique]], et la sécurité pédagogique est presque intégralement assurée par les garde-fous. Les garde-fous se comprennent donc au mieux comme la **couche de conception et d'ingénierie** située sous le principe de sécurité pédagogique, et c'est aussi le terme plus large employé dans le domaine général de la sécurité de l'IA (modération de contenu, résistance aux jailbreaks) avant d'être spécialisé pour l'éducation.
 
-**Les garde-fous comme répartition de l'autorité.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] traite les garde-fous comme des répartitions selon six dimensions séparables — ancrage pédagogique, autorité pédagogique de l'IA, responsabilité humaine, agentivité de l'apprenant, frontières contextuelles et visibilité de l'évaluation — plutôt que comme des points sur une ligne allant du strict au permissif, de sorte que des outils partageant un même modèle peuvent répartir l'autorité de manière très différente. À l'échelle du cours, la frontière doit couvrir l'espace des demandes, l'espace des réponses et la visibilité pour l'éducateur, et pas seulement le contenu généré.
-**Les garde-fous peuvent réorienter les apprenants plutôt que les arrêter.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] ont réparti aléatoirement 132 étudiants d'un cours d'introduction à la programmation entre quatre assistants pédagogiques d'IA variant selon le style pédagogique (socratique ou instruction directe) et la conscience du contexte. Les étudiants ont évalué le plus défavorablement l'assistant socratique disposant du contexte complet, et cette même condition a présenté, de manière descriptive, le stress interactionnel le plus élevé, le taux le plus élevé d'usage d'un LLM d'usage général externe, et la part la plus faible d'explications post-tâche démontrant une compréhension complète — des différences que l'étude rapporte comme descriptives plutôt que statistiquement significatives. La friction ne supprime pas la demande d'aide ; elle peut déplacer cette demande vers des outils que le cours ne peut pas voir, ce qui fait de la calibration une question de sécurité pédagogique et pas seulement de conception.
+**Les garde-fous comme répartition de l'autorité.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] traite les garde-fous comme des répartitions selon six dimensions séparables — ancrage pédagogique, autorité pédagogique de l'IA, responsabilité humaine, [[agency|agentivité de l'apprenant]], frontières contextuelles et visibilité de l'évaluation — plutôt que comme des points sur une ligne allant du strict au permissif, de sorte que des outils partageant un même modèle peuvent répartir l'autorité de manière très différente. À l'échelle du cours, la frontière doit couvrir l'espace des demandes, l'espace des réponses et la visibilité pour l'éducateur, et pas seulement le contenu généré.
+**Les garde-fous peuvent réorienter les apprenants plutôt que les arrêter.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] ont réparti aléatoirement 132 étudiants d'un cours d'[[cs-education|introduction à la programmation]] entre quatre assistants pédagogiques d'IA variant selon le style pédagogique (socratique ou instruction directe) et la conscience du contexte. Les étudiants ont évalué le plus défavorablement l'assistant socratique disposant du contexte complet, et cette même condition a présenté, de manière descriptive, le stress interactionnel le plus élevé, le taux le plus élevé d'usage d'un LLM d'usage général externe, et la part la plus faible d'explications post-tâche démontrant une compréhension complète — des différences que l'étude rapporte comme descriptives plutôt que statistiquement significatives. La friction ne supprime pas la demande d'aide ; elle peut déplacer cette demande vers des outils que le cours ne peut pas voir, ce qui fait de la calibration une question de sécurité pédagogique et pas seulement de conception.
 
 ## Principes de conception
 
@@ -101,7 +101,7 @@ Les deux sont étroitement couplés : presque chaque technique de garde-fou est 
 
 **Pour les enseignants**
 
-- Jugez un tuteur sur la performance sans assistance, non sur la performance en séance. Dans l'ECR de terrain, un tuteur GPT-4 sans garde-fou a élevé la performance en pratique de **+48 %** tout en *réduisant* de **17 %** les scores ultérieurs à l'examen sans assistance, et la version « indice plutôt que réponse » a éliminé le préjudice. Tout signal de classe produit avec l'outil présent est le signal gonflé.
+- Jugez un tuteur sur ce que les apprenants savent faire sans soutien, non sur leur performance en séance. Dans l'[[rct|ECR]] de terrain, un tuteur GPT-4 a laissé l'exactitude en pratique **+48 %** plus élevée, mais a coûté aux étudiants **17 %** lors de l'examen ultérieur non supervisé, et la version « indice plutôt que réponse » a effacé cette perte. Tout signal de classe produit avec l'outil présent est le signal gonflé.
 - Quand vous ne pouvez pas changer l'outil, changez ce qui est noté sans lui. La mesure sans assistance est ce qui rend la question des garde-fous visible.
 - Traitez la « bienveillance » comme un paramètre de conception doté d'un mode de défaillance : un tuteur qui ne contredit ni ne corrige jamais peut satisfaire les étudiants tout en retirant la [[feedback|rétroaction]] corrective dont l'apprentissage a besoin.
 
@@ -119,7 +119,7 @@ Les deux sont étroitement couplés : presque chaque technique de garde-fou est 
 
 ## Idées fausses courantes
 
-**« Un garde-fou est un filtre que l'on attache à un modèle. »** Les garde-fous sont un ensemble de contrôles en couches couvrant la conception des invites, l'ancrage dans des connaissances, le façonnage des récompenses, l'assurance qualité au déploiement et l'audit continu, et les couches ne sont pas interchangeables. Un filtre de contenu se place sur la sortie ; le schéma « indice plutôt que réponse » se place dans l'invite et façonne ce que le système accepte de faire. Dans l'ECR de terrain, la version protégée par garde-fous a éliminé le préjudice d'apprentissage créé par la version sans garde-fou, ce qui est une propriété de la conception de l'interaction et non du filtre.
+**« Un garde-fou est un filtre que l'on attache à un modèle. »** Les garde-fous sont un ensemble de contrôles en couches couvrant la conception des invites, l'ancrage dans des connaissances, le façonnage des récompenses, l'assurance qualité au déploiement et l'audit continu, et les couches ne sont pas interchangeables. Un filtre de contenu se place sur la sortie ; le schéma « indice plutôt que réponse » se place dans l'invite et façonne ce que le système accepte de faire. Dans l'ECR de terrain, la version protégée par garde-fous a éliminé le [[ai-misuse-learning-harm|préjudice d'apprentissage]] créé par la version sans garde-fou, ce qui est une propriété de la conception de l'interaction et non du filtre.
 
 **« Si le modèle ne produit pas de contenu nuisible, le système est sûr pour les apprenants. »** Le préjudice est souvent silencieux. Les défaillances de tutorat les plus dommageables ne sont pas des sorties toxiques mais des tuteurs qui répondent correctement et érodent l'apprentissage, ou qui refusent uniformément et creusent les inégalités — des défaillances auxquelles un filtre de toxicité est structurellement aveugle, parce que rien n'y est offensant. Réussir un audit de contenu est une condition nécessaire rapportée comme si elle était suffisante.
 

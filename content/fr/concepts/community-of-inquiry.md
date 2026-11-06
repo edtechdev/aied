@@ -1,7 +1,7 @@
 ---
 title: "Communauté d'enquête"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-11-01T10:12:25-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-01T09:07:05-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,11 +62,11 @@ L'IA générative déstabilise le postulat que les indicateurs de présence peuv
 - **Redistribuer la présence enseignante** — la conception, la facilitation et l'enseignement direct deviennent des accomplissements distribués, les enseignants montrant comment interroger les productions générées et détecter les citations hallucinées.
 - **Intervenir trop empressément** — dans une étude sur des discussions en ligne, les facilitateurs experts se sont systématiquement montrés plus prudents avant d'intervenir que les juges à base de grands modèles de langue, excessivement empressés de faciliter ; le meilleur classifieur entraîné atteignait encore un plafond bas imposé par les jeux de données disponibles ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre et Pavlopoulos, 2026]]). La redistribution de la présence enseignante modifie donc le seuil d'intervention, et un modèle interviendra là où une personne aurait attendu — le mode de défaillance qu'un forum de discussion remarque.
 
-Des données probantes empiriques fondées sur les réseaux reposent désormais sous ces affirmations : dans une quasi-expérience où 63 étudiants chinois de premier cycle (33 avec, 30 sans chatbot GPT-4o mini) ont annoté des lectures partagées sur CollaboRead au fil de cinq tâches hebdomadaires, l'[[network-analysis|analyse de réseaux épistémiques]] a montré que la classe assistée liait la présence sociale à l'intégration et à la résolution alors que la classe témoin la liait au déclenchement et à l'exploration (axe X U = 25.00, p = 0.01, r = 1.00 ; axe Y U = 13.00, p = 1.00, r = 0.04), avec un engagement cognitif et émotionnel auto-déclaré plus élevé dans la classe assistée. Les présences se séparent alors à l'intérieur de la condition plutôt qu'entre elles : les groupes à haut niveau ont initié 1407 demandes de rétroaction sur 2319 annotations (60.7%) contre 737 sur 2167 (34.0%) dans le groupe à bas niveau, qui restait dans une boucle auto-référentielle et exploitait faiblement l'étayage. ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
+Des données probantes empiriques fondées sur les réseaux reposent désormais sous ces affirmations : dans une quasi-expérience où 63 étudiants chinois de premier cycle (33 avec, 30 sans chatbot GPT-4o mini) ont annoté des lectures partagées sur CollaboRead au fil de cinq tâches hebdomadaires. L'[[network-analysis|analyse de réseaux épistémiques]] a montré que la classe assistée liait la présence sociale à l'intégration et à la résolution alors que la classe témoin la liait au déclenchement et à l'exploration (axe X U = 25.00, p = 0.01, r = 1.00 ; axe Y U = 13.00, p = 1.00, r = 0.04). L'engagement cognitif et émotionnel [[self-report-measures|auto-déclaré]] était plus élevé dans la classe assistée. Les présences se séparent alors à l'intérieur de la condition plutôt qu'entre elles : les groupes à haut niveau ont initié 1407 demandes de rétroaction sur 2319 annotations (60.7%) contre 737 sur 2167 (34.0%) dans le groupe à bas niveau, qui restait dans une boucle auto-référentielle et exploitait faiblement l'étayage. ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Plutôt qu'un outil, un partenaire dialogique, ou une « quatrième présence » spéculative, l'IA générative est mieux comprise comme une **condition épistémique** — une influence pervasive qui reconfigure la manière dont les présences sont mises en œuvre, interprétées, documentées et gouvernées, à travers à la fois des productions visibles et des logiques invisibles de données d'entraînement, d'algorithmes et de plateformes.
 
-Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette condition : [[ai-communities-of-inquiry-2026|Stenbom et Garrison (2026)]] placent l'IA comme soutien à la conception pédagogique, ressource d'apprentissage indépendante, fonction de soutien à l'enseignant par l'analytique, membre de la communauté, et partenaire dialogique durable, et proposent la [[metacognition|métacognition]] partagée — l'auto- et la co-[[self-regulated-learning|régulation]] — comme ce qui maintient les apprenants en train d'auditer les productions de l'IA.
+Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette condition : [[ai-communities-of-inquiry-2026|Stenbom et Garrison (2026)]] placent l'IA comme soutien à la [[learning-design|conception pédagogique]], ressource d'apprentissage indépendante, fonction de soutien à l'enseignant par l'[[learning-analytics|analytique]], membre de la communauté, et partenaire dialogique durable, et proposent la [[metacognition|métacognition]] partagée — l'auto- et la co-[[self-regulated-learning|régulation]] — comme ce qui maintient les apprenants en train d'auditer les productions de l'IA.
 
 ## Practical implications
 

@@ -1,7 +1,7 @@
 ---
 title: "Tutorat affectif"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -60,13 +60,13 @@ Favero et al. (2025) avertissent que l'[[student-engagement|engagement]] émotio
 | Bénéfice du tutorat affectif | Risque correspondant |
 |---|---|
 | Les réponses conscientes des émotions semblent bienveillantes | Les étudiants peuvent développer des **dépendances parasociales** au tuteur |
-| L'empathie réduit l'anxiété | L'anxiété réduite peut masquer un **désengagement métacognitif** |
+| L'empathie réduit l'[[anxiety-and-stress|anxiété]] | L'[[anxiety-and-stress|anxiété]] réduite peut masquer un **désengagement métacognitif** |
 | La calibration affective personnalise le rythme | Une [[personalized-learning|personnalisation]] profonde peut **réduire le transfert** vers des contextes non adaptatifs |
 | Le suivi facial signale l'attention | La capture vidéo continue soulève des **inquiétudes en matière de vie privée** |
 
 Les auteurs soutiennent que les risques émotionnels s'inscrivent dans une tendance plus large d'**érosion du [[self-efficacy|sentiment d'efficacité personnelle]], de l'[[agency|autonomie]] et du [[well-being|bien-être]]** lorsque l'usage de l'IA n'est pas encadré.
 
-**Le risque pèse aussi sur des personnes qui n'ouvrent jamais le tuteur.** [[shastry-gray-empathy-offloading-2026|Shastry et Gray (2026)]] constatent que la disposition à fournir soi-même un soutien émotionnel décline à mesure que l'on croit qu'un système peut le fournir, et cette croyance était causale dans leur deuxième expérimentation : la lecture d'une couverture médiatique ordinaire sur l'IA empathique suffisait à élever le délestage, entièrement par la capacité perçue. Leur quatrième étude ajoute un coût social que le cadrage individuel manque. Informés qu'un étudiant s'était tourné vers un agent conversationnel pour obtenir du soutien, les participants déclaraient qu'ils délesteraient moins que si l'étudiant s'était tourné vers un ami. Ils écrivaient ensuite moins de mots d'empathie et plus de mots d'indifférence à propos de cet étudiant, et le jugeaient plus étranger et plus désespéré. L'offre [[social-emotional-learning|socio-émotionnelle]] peut donc s'amincir autour du tuteur alors même que personne qui l'utilise ne signale de changement.
+**Le risque pèse aussi sur des personnes qui n'ouvrent jamais le tuteur.** [[shastry-gray-empathy-offloading-2026|Shastry et Gray (2026)]] constatent que la disposition à fournir soi-même un soutien émotionnel décline à mesure que l'on croit qu'un système peut le fournir, et cette croyance était causale dans leur deuxième expérimentation : la lecture d'une couverture médiatique ordinaire sur l'IA empathique suffisait à élever le délestage, entièrement par la capacité perçue. Leur quatrième étude ajoute un coût social que le cadrage individuel manque. Informés qu'un étudiant s'était tourné vers un [[conversational-ai|agent conversationnel]] pour obtenir du soutien, les participants déclaraient qu'ils délesteraient moins que si l'étudiant s'était tourné vers un ami. Ils écrivaient ensuite moins de mots d'empathie et plus de mots d'indifférence à propos de cet étudiant, et le jugeaient plus étranger et plus désespéré. L'offre [[social-emotional-learning|socio-émotionnelle]] peut donc s'amincir autour du tuteur alors même que personne qui l'utilise ne signale de changement.
 
 ## Principes de conception
 

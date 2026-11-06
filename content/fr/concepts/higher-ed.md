@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: "Enseignement supérieur"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -91,7 +91,7 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 ## Implications pour les enseignants du supérieur
 
 - **Concevoir l'évaluation pour un public étudiant capable d'utiliser l'IA.** Les approches d'intégrité centrées sur la détection cèdent la place à l'évaluation [[authentic-assessment|authentique]] et fondée sur le processus ([[beyond-detection-authentic-assessment-ai-2025|au-delà de la détection]], [[ai-assessment-scale-reform|réforme de l'évaluation]]) — reconcevez ce que vous évaluez, et pas seulement la manière dont vous le surveillez.
-- **Cesser de considérer une interdiction en salle comme une garantie.** Les lunettes intelligentes et les appareils auditifs assistés par IA sont doublement transparents : aucun décrochage du regard ni changement de posture ne les trahit, de sorte qu'un examen surveillé ou un oral ne peut plus acheter une confiance probante par la séparation physique ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
+- **Cesser de considérer une interdiction en salle comme une garantie.** Les lunettes intelligentes et les appareils auditifs assistés par IA sont doublement transparents : aucun décrochage du [[sensor-and-gaze-analytics|regard]] ni changement de posture ne les trahit, de sorte qu'un examen surveillé ou un oral ne peut plus acheter une confiance probante par la séparation physique ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 - **Repenser la question « que doivent encore apprendre les étudiants à la main ? ».** Comme en informatique, décidez quelles compétences doivent être préservées (vérification, jugement, processus) et faites-en le cœur évalué, plutôt que de supposer que les compétences en IA se transfèrent automatiquement.
 - **Traiter la préparation des enseignants comme un enjeu sociotechnique, et pas seulement technique.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] structure la préparation selon des registres épistémiques, pédagogiques, institutionnels et qualitatifs — alignez votre [[pedagogy|pratique d'enseignement]] sur la gouvernance institutionnelle, et pas seulement sur la maîtrise des outils.
 - **Financer la littératie en IA, et pas seulement la confiance dans les outils, pour les enseignants.** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] ont constaté que le soutien social et organisationnel n'atteignait le bien-être des enseignants universitaires face à l'IA qu'indirectement, par la littératie en IA (β = 0.713), si bien que les programmes qui développent la compréhension conceptuelle, éthique et pédagogique apportent davantage aux enseignants que la seule maîtrise pratique.

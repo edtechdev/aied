@@ -1,14 +1,14 @@
 ---
 title: Philosophie de l'IA en éducation
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-01T10:13:30-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,8 +44,9 @@ Ceci est une page de concept portant sur les fondements philosophiques et théor
 - **La nature de l'esprit et de la cognition.** Penser requiert-il la conscience et un corps ? L'IA peut-elle participer à des processus véritablement cognitifs ? Des cadres tels que la **cognition d'ensemble** soutiennent que l'IA exerce une *agence fonctionnelle* — une efficacité causale réelle dans les processus cognitifs — sans conscience, et que la pensée émerge d'une interaction dynamique entre l'humain et l'[[student-ai-interaction|IA]]. ([[ensemble-cognition-philosophy-ai-education]]) La [[distributed-cognition|cognition distribuée]] et la thèse de l'esprit étendu formulent des affirmations apparentées sur une cognition répartie entre systèmes.
 - **Qu'est-ce que l'apprenant ?** La philosophie posthumaniste reconceptualise l'apprenant comme une entité « post-humaine » dont les processus cognitifs sont véritablement hybrides et distribués entre des systèmes [[biology-education|biologiques]] et artificiels. ([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Cela met au défi l'hypothèse selon laquelle l'apprenant est un esprit individuel borné et autonome.
 - **L'incarnation et les limites d'une IA désincarnée.** La philosophie de l'[[embodied-learning|incarnation]] et le post-cognitivisme critiquent la domination des modèles d'IA symboliques et désincarnés, soutenant que la cognition est ancrée dans la situationnalité, l'émergence et le couplage sensori-moteur dont l'actuelle [[generative-ai|IA générative]] est dépourvue. ([[videla-embodied-ai-education-choreography]])
+- **Le travail émotionnel comme cas de test pour les esprits machiniques.** Les arguments du domaine sur la capacité de l'IA à enseigner portent souvent sur sa capacité à *prendre soin*, une question débattue bien avant que l'[[affective-computing|informatique affective]] n'existe. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstruit le débat de 1950–1996, dans lequel l'affirmation de Ziff selon laquelle seuls les êtres vivants peuvent avoir littéralement des sentiments a reçu une réponse de la théorie de l'identité de Smart et du critère comportemental de Putnam, laissant trois ontologies rivales non résolues. Sa conclusion est une charge de justification plutôt qu'une affirmation d'impossibilité — la représentation, la simulation et la mimésis sous-déterminent le travail émotionnel — ce qui met la charge sur quiconque voudrait déléguer le travail pastoral à un système.
 - **Agence, auctorialité et sens.** Lorsque l'IA médiatise l'interprétation et la production de sens, la philosophie demande comment l'auctorialité, l'[[agency|agence épistémique]] et l'autonomie interprétative sont reconfigurées. ([[voicu-ai-interpretive-cognition-ssh-2026]])
-- **L'ontologie des objets scientifiques générés par l'IA.** En chimie, les composés et les courbes de titrage prédits par l'IA occupent un « espace ontologique liminal » — ni tout à fait hypothétiques ni pleinement réels jusqu'à ce qu'ils soient empiriquement prouvés — ce qui déplace la discipline du réalisme vers une vision constructiviste dans laquelle la réalité est une collaboration de l'humain et de la machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes et Regala (2026)]]).
+- **L'ontologie des objets scientifiques générés par l'IA.** En [[chemistry-education|chimie]], les composés et les courbes de titrage prédits par l'IA occupent un « espace ontologique liminal » — ni tout à fait hypothétiques ni pleinement réels jusqu'à ce qu'ils soient empiriquement prouvés — ce qui déplace la discipline du réalisme vers une vision constructiviste dans laquelle la réalité est une collaboration de l'humain et de la machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes et Regala (2026)]]).
 - **La passivité cognitive comme préjudice épistémique.** Bai et Costa (2026) s'appuient sur la conception arendtienne de la pensée comme activité intérieure et intransférable pour soutenir que l'IA générative qui fournit le travail ne se contente pas de délester la pensée mais l'entrave, la théorie du champ et de l'habitus de Bourdieu situant le risque dans les structures institutionnelles ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Valeurs, justice et finalité de l'éducation.** L'analyse philosophique examine si l'éducation pilotée par l'IA sert l'épanouissement humain et la justice éducative, ou si elle instrumentalise l'apprentissage au service de la productivité. ([[avraamidou-ai-colonization-science-education]]) Cela rejoint la [[critical-pedagogy|pédagogie critique]] et l'[[ethics|éthique]].
 - **« Centré sur l'humain » comme discours anthropocentrique, et non comme éthique neutre.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang et Jin (2026)]] lisent les documents de l'UNESCO, de l'OCDE et de la Déclaration de Montréal pour soutenir que l'IAEd centrée sur l'humain hérite des exclusions de l'humanisme des Lumières, que le transhumanisme les préserve, et que cette étiquette peut légitimer une infrastructure commerciale.
@@ -121,3 +122,5 @@ La philosophie de l'IA en éducation et le [[theory-development-aied|développem
 - [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Qui agit, qui sait, qui répond ? Une analyse de discours assistée par corpus de l'agence, de la responsabilité épistémique et de la redevabilité dans la recherche sur l'IA générative dans l'enseignement supérieur
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — L'IAEd « centrée sur l'humain » lue comme un discours anthropocentrique aux usages commerciaux (Wang et Jin 2026)
+
+- [[khan-machines-emotional-labor-education-2026]] — Les machines peuvent-elles accomplir un travail émotionnel ? Le débat de 1950–1996, et pourquoi la mimésis ne détermine pas le soin

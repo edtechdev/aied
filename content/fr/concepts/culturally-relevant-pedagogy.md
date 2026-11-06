@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-01T10:14:12-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,8 +51,8 @@ L'IA peut aider les enseignants à rendre l'enseignement culturellement adapté,
 
 Au-delà de la génération de leçons, la pédagogie culturellement pertinente rejoint une critique plus profonde : les données d'entraînement et les processus de conception de l'IA encodent des cadres épistémiques occidentaux et anglophones qui marginalisent d'autres façons de connaître.
 
-- **Colonialité épistémique :** Tali-Otmani (2026) soutient que les systèmes d'IA générative ne sont pas épistémiquement neutres — des données d'entraînement majoritairement centrées sur l'Occident **marginalisent activement les savoirs minorisés**, produisant une « double marginalisation » pour les apprenants en situation de handicap, dont les épistémologies sont à la fois sous-représentées dans les données d'entraînement et exclues de la conception. Cela étend la conversation sur l'[[equity-in-ai-education|équité]] de l'*accès* à la question de *dont le savoir est validé*.
-- **Redistribuer l'autorité épistémique :** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] proposent l'**apprentissage de l'IA ancré dans la communauté**, un cadre qui repositionne les épistémologies vécues et communautaires des apprenants comme étalon d'évaluation des productions de l'IA. Ses trois engagements — l'**ajustement fin épistémique**, la **redistribution de l'autorité** et le **discernement [[situated-learning|situé]]** — calibrent la confiance en fonction des histoires locales et de l'expertise communautaire, traitant le refus et la non-utilisation stratégique comme des réponses valides de pédagogie culturellement pertinente à l'IA.
+- **Colonialité épistémique :** Tali-Otmani (2026) soutient que les systèmes d'IA générative ne sont pas épistémiquement neutres — des données d'entraînement majoritairement centrées sur l'Occident **marginalisent activement les savoirs minorisés**, produisant une « double marginalisation » pour les [[special-education|apprenants en situation de handicap]], dont les épistémologies sont à la fois sous-représentées dans les données d'entraînement et exclues de la conception. Cela étend la conversation sur l'[[equity-in-ai-education|équité]] de l'*accès* à la question de *dont le savoir est validé*.
+- **Redistribuer l'autorité épistémique :** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] proposent l'**apprentissage de l'IA ancré dans la communauté**, un cadre qui repositionne les épistémologies vécues et communautaires des apprenants comme étalon d'évaluation des productions de l'IA. Ses trois engagements — l'**[[llm-training-and-fine-tuning|ajustement fin]] épistémique**, la **redistribution de l'autorité** et le **discernement [[situated-learning|situé]]** — calibrent la confiance en fonction des histoires locales et de l'expertise communautaire, traitant le refus et la non-utilisation stratégique comme des réponses valides de pédagogie culturellement pertinente à l'IA.
 
 ### Données culturellement ancrées et évaluation
 
@@ -76,7 +76,7 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 
 ## Idées fausses courantes
 
-**« Les productions d'IA sont culturellement neutres, sauf si l'on demande explicitement de la culture. »** Le défaut n'est pas neutre, il est dominant. Une analyse de **310 plans de cours d'éducation civique générés par IA (2 230 activités)** a trouvé que **94 % ne contenaient aucun contenu multiculturel discernable** — et parmi les 144 activités qui en contenaient, **137 se situaient au niveau « additif », le plus bas, une seule atteignait la « transformation », et aucune n'atteignait l'« action sociale ».** Laissés sans invite, les modèles reproduisaient un défaut non diversifié : demander de la culture n'est donc pas une atténuation de biais, c'est la seule raison pour laquelle il en apparaît.
+**« Les productions d'IA sont culturellement neutres, sauf si l'on demande explicitement de la culture. »** Le défaut n'est pas neutre, il est dominant. Une analyse de **310 plans de cours d'éducation civique générés par IA (2 230 activités)** a trouvé que **94 % ne contenaient aucun contenu multiculturel discernable** — et parmi les 144 activités qui en contenaient, **137 se situaient au niveau « additif », le plus bas, une seule atteignait la « transformation », et aucune n'atteignait l'« action sociale ».** Laissés sans invite, les modèles reproduisaient un défaut non diversifié : [[prompt-engineering|demander de la culture]] n'est donc pas une [[bias-mitigation|atténuation de biais]], c'est la seule raison pour laquelle il en apparaît.
 
 **« Ajouter des exemples multiculturels constitue une pédagogie culturellement pertinente. »** La hiérarchie du cadre dit le contraire, et la production générée montre pourquoi la distinction est opérationnellement importante. Le contenu additif laisse intactes la structure et les présupposés de l'unité ; la transformation change le cadrage du contenu ; l'action sociale demande aux apprenants d'agir sur lui. Confondre représentation et transformation, c'est ainsi qu'un corpus peut être non vide à 6 % en matière de diversité et rester très loin d'une réponse culturelle.
 

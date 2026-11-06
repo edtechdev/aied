@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-01T10:14:14-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-01T09:13:16-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,7 +90,7 @@ Deux mises en garde aiguisent encore ce constat, que la contribution la plus ré
 
 **L'explicabilité par la conception** est une réponse au problème de fidélité des méthodes a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang et Fang (2025)]] paramètrent un décodeur d'explication par la même représentation fusionnée et la même note prédite qui décident de l'[[assessment|évaluation]], de sorte qu'une note faible sur un questionnement [[formative-assessment|formatif]] produit une justification nommant l'insuffisance des questions de sondage, et l'associent à une attention à double volet portant sur les références des programmes et sur les gestes propres à la grille disciplinaire. L'alignement de l'attention sur la grille atteint 78.0% contre 41.7% pour GPT-4 en zero-shot et 32.1% pour BERT, et la fidélité est sondée par suppression contrefactuelle des passages critiques pour la grille, parallèlement à des évaluations humaines sur une liste de contrôle ancrée dans la grille, ce qui donne un score de crédibilité de l'explication de 0.78 — une augmentation de 0.31 par rapport à BERT-base. L'audit montre aussi où l'affirmation architecturale s'amincit : sur les indices émotionnels, le modèle alloue 28.4% du poids d'attention contre 15.2% pour un expert (alignement 0.53), avec un cas d'échec attribuant 28% au token « frustrated », ce que les auteurs lisent comme un surajustement à l'affect plutôt qu'à la pédagogie, et qu'ils désignent comme un axe d'amélioration. Intégrer les explications dans le chemin de décision les rend plus fidèles que les justifications a posteriori ; cela ne les rend pas correctes.
 
-**Ce qu'un modèle dit avoir utilisé dépend autant de la famille que des données.** Sur sept modèles appliqués à une même cohorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et coll. (2026)]] ont constaté que les approches symboliques s'appuyaient sur des facteurs cognitifs et motivationnels, les modèles sous-symboliques sur des aspects cognitifs, les connaissances apprises et le genre, et que les deux négligeaient largement les facteurs métacognitifs, tandis que le modèle neuro-symbolique en utilisait un ensemble plus intégré. Les mêmes étudiants et les mêmes indicateurs produisaient des comptes rendus différents de ce qui importait, si bien que l'alignement avec la théorie de l'apprentissage devient une affirmation sur les attributions plutôt que sur la précision.
+**Ce qu'un modèle dit avoir utilisé dépend autant de la famille que des données.** Sur sept modèles appliqués à une même cohorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et coll. (2026)]] ont constaté que les approches symboliques s'appuyaient sur des facteurs cognitifs et [[motivation|motivationnels]], les modèles sous-symboliques sur des aspects cognitifs, les connaissances apprises et le genre, et que les deux négligeaient largement les facteurs métacognitifs, tandis que le modèle neuro-symbolique en utilisait un ensemble plus intégré. Les mêmes étudiants et les mêmes indicateurs produisaient des comptes rendus différents de ce qui importait, si bien que l'alignement avec la [[learning-theories|théorie de l'apprentissage]] devient une affirmation sur les attributions plutôt que sur la précision.
 
 ## Enseigner l'explicabilité comme pratique de reddition de comptes
 

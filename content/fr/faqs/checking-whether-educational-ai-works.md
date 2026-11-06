@@ -1,7 +1,7 @@
 ---
 title: "Comment savoir si une IA éducative fonctionne correctement, et pas seulement qu'elle obtient de bons scores ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq
@@ -62,7 +62,7 @@ L'assistant du cours Linear Control Systems rapporte cela correctement. Sa meill
 
 ## Noter chaque production séparément
 
-Dans le projet WrAFT, un modèle affiné atteignait un score d'accord de **0.84** avec des correcteurs humains sur 360 essais TOEFL mis de côté. C'est un résultat solide pour la notation. Le modèle du même projet, entraîné à rédiger de la rétroaction, produisait une sortie tronquée et non analysable, tandis que le simple fait de solliciter un autre modèle produisait une rétroaction que les enseignants préféraient ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+Dans le projet WrAFT, un modèle affiné atteignait un score d'accord de **0.84** avec des correcteurs humains sur 360 essais TOEFL mis de côté. C'est un résultat solide pour la notation. Le modèle du même projet, entraîné à rédiger de la rétroaction, produisait une sortie tronquée et non analysable, tandis que le simple fait de [[prompt-engineering|solliciter]] un autre modèle produisait une rétroaction que les enseignants préféraient ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 La base de connaissances porte la même défaillance sous une seconde forme : un déploiement dont le module de notation obtenait de bons scores et dont la rétroaction arrivait coupée en pleine phrase et illisible. Rien dans le chiffre vedette ne le disait.
 
@@ -88,13 +88,13 @@ Version pratique : prenez un échantillon d'une cinquantaine de productions, fai
 
 Le correctif le plus net consiste à entraîner le modèle sur la même quantité que celle que vous comptez mesurer. Un modèle affiné a été entraîné à reproduire les propriétés statistiques de questions de test : la difficulté de chaque item, sa capacité à séparer les étudiants forts des plus faibles. Il a appris ces régularités plutôt qu'on les lui a dites ([[multimodal-item-parameter-estimation-2026]]). Comme la cible était une propriété de l'évaluation elle-même, l'évaluation pouvait porter sur cette propriété plutôt que sur la formulation.
 
-Rapportez la progression autant que le point d'arrivée. Le simulateur de rédaction SWIM publiait le score de chaque étape côte à côte : invite fondée sur une grille **0.577**, affinage **0.474 ± 0.023**, apprentissage par renforcement **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Un lecteur peut voir dans ce tableau si l'entraînement a fait quelque chose. Un seul chiffre final ne le lui dit pas, et il cache une étape où le modèle affiné faisait moins bien que l'invite.
+Rapportez la progression autant que le point d'arrivée. Le [[simulation|simulateur de rédaction]] SWIM publiait le score de chaque étape côte à côte : invite fondée sur une grille **0.577**, affinage **0.474 ± 0.023**, [[reinforcement-learning|apprentissage par renforcement]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Un lecteur peut voir dans ce tableau si l'entraînement a fait quelque chose. Un seul chiffre final ne le lui dit pas, et il cache une étape où le modèle affiné faisait moins bien que l'invite.
 
 ## Comparer à quelque chose d'extérieur à votre projet
 
 Obtenez d'abord une référence, y compris une référence peu coûteuse. Le modèle de l'assistant de cours sans ancrage obtenait un score inférieur à une simple recherche par mots-clés, le genre de résultat qui change la feuille de route et qui coûte une journée à trouver.
 
-Un banc d'essai extérieur vous dit ensuite si votre chiffre vaut quelque chose. Sur le banc d'essai pédagogique CDPK, EduQwen atteignait **96.52%** contre **90.55%** pour Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Le Pedagogy Benchmark, construit à partir d'examens réels de développement professionnel des enseignants et couvrant **97 modèles**, a trouvé une exactitude allant de **28% à 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Un banc d'essai extérieur vous dit ensuite si votre chiffre vaut quelque chose. Sur le banc d'essai [[pedagogy|pédagogique]] CDPK, EduQwen atteignait **96.52%** contre **90.55%** pour Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Le Pedagogy Benchmark, construit à partir d'examens réels de développement professionnel des [[teacher-role|enseignants]] et couvrant **97 modèles**, a trouvé une exactitude allant de **28% à 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 Sur une tâche portant sur l'enseignement, les modèles allaient de médiocre à bon : un résultat de banc d'essai place donc votre système quelque part dans une plage large.
 
@@ -106,7 +106,7 @@ Faites tourner la vérification sur des conversations complètes, et écrivez d�
 
 ## Vérifier l'étudiant simulé avant de lui faire confiance
 
-Générer des étudiants simulés au lieu de recruter de vrais étudiants rend l'évaluation bien moins coûteuse. Un étudiant simulé est aussi un instrument de mesure, et il peut se tromper comme se trompent les instruments : trop coopératif, trop fluide, trop prompt à accepter un indice.
+Générer des [[simulating-students|étudiants simulés]] au lieu de recruter de vrais étudiants rend l'évaluation bien moins coûteuse. Un étudiant simulé est aussi un instrument de mesure, et il peut se tromper comme se trompent les instruments : trop coopératif, trop fluide, trop prompt à accepter un indice.
 
 Le test le plus direct de la base de connaissances a comparé des étudiants simulés et des étudiants sollicités par invite à **382 dialogues mis de côté** issus de la plus grande collection publique de dialogues réels de mathématiques entre étudiants et tuteurs, à l'aide de sept mesures couvrant la langue, le comportement et la pensée ([[simulated-students-tutoring-dialogues-2026]]). D'autres travaux attaquent le réalisme par d'autres angles : [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entraîne des modèles à la fois à agir et à penser comme des étudiants, et les profils conscients de l'historique conditionnent la simulation sur le passé d'un étudiant plutôt que sur une persona figée ([[history-aware-student-simulation]]).
 

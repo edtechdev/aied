@@ -1,7 +1,7 @@
 ---
 title: "Code Viva"
 created: "2026-10-24T10:37:31-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: resource
 summary: "Un outil web gratuit qui fait passer une version écrite et chronométrée d'une soutenance orale de code à chaque étudiant d'un cours de programmation, en proposant des notes appuyées sur des citations que l'enseignant approuve."
 url: https://code-viva.netlify.app/
@@ -16,7 +16,7 @@ discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

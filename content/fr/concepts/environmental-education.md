@@ -1,7 +1,7 @@
 ---
 title: "Éducation à l'environnement"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-01T10:18:48-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ C'est ici que le corpus est le plus mince. Une revue de l'ensemble des 396 artic
 
 Du côté de l'apprenant, une interface de rétroaction écologique exposant le compromis latence-carbone pendant l'usage en direct d'un grand modèle de langue a été étudiée auprès de 89 étudiants de premier cycle en informatique dans un cours d'éthique du calcul : les étudiants ont choisi le mode le moins carboné dans environ 45% des interactions à faible latence, mais dans moins de 5% des cas à latence élevée, et la conscience du développement durable a augmenté significativement ce choix. L'échantillon est petit et inhabituellement bien informé sur le plan technique, mais c'est la seule donnée probante directe du corpus montrant que l'information sur l'empreinte fait bouger les apprenants — et elle suggère que la contrainte déterminante est la patience, non les valeurs.([[llm-environmental-impact-student-usage-2026]])
 
-Les données probantes sur l'atténuation proviennent d'un assistant de base de connaissances en [[cs-education|informatique]] déployé sur site, sur un seul GPU grand public (12 Go de VRAM), avec des contenus sous licence ouverte : 1.8 mWh par requête au mieux — environ 0.54 Wh pour une classe de 30 étudiants soumettant dix requêtes chacun — avec un ajustement fin conscient de la quantification qui contient à la fois la perte de précision et l'augmentation de l'[[hallucination-risk|hallucination]] que la seule compression avait provoquée. C'est un repère de référence d'ingénierie, non une étude d'apprentissage, mais il montre que la question de l'empreinte a des leviers de conception (ancrage, quantification, lieu de déploiement), et pas seulement des leviers de discipline d'usage.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Les données probantes sur l'atténuation proviennent d'un assistant de base de connaissances en [[cs-education|informatique]] déployé sur site, sur un seul GPU grand public (12 Go de VRAM), avec des contenus sous licence ouverte : 1.8 mWh par requête au mieux — environ 0.54 Wh pour une classe de 30 étudiants soumettant dix requêtes chacun — avec un [[llm-training-and-fine-tuning|ajustement fin]] conscient de la quantification qui contient à la fois la perte de précision et l'augmentation de l'[[hallucination-risk|hallucination]] que la seule compression avait provoquée. C'est un repère de référence d'ingénierie, non une étude d'apprentissage, mais il montre que la question de l'empreinte a des leviers de conception (ancrage, quantification, lieu de déploiement), et pas seulement des leviers de discipline d'usage.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Compétences vertes, conscience du développement durable et capacité des enseignants
 

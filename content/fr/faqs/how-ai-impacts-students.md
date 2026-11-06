@@ -1,7 +1,7 @@
 ---
 title: "Quel est l'impact de l'IA sur les étudiants ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
@@ -28,7 +28,7 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Vous utilisez l'IA pour vos travaux et cela va bien, sauf que l'examen sans documents ressemblait à la lecture des notes de quelqu'un d'autre. Ou un ami dit qu'il n'a rien écrit et a quand même eu la meilleure note, et vous vous demandez ce que cela signifie pour vous. Ou vous avez commencé à poser plus de questions à un agent conversationnel qu'à votre enseignant.
+Vous utilisez l'IA pour vos travaux et cela va bien, sauf que l'[[summative-assessment|examen sans documents]] ressemblait à la lecture des notes de quelqu'un d'autre. Ou un ami dit qu'il n'a rien écrit et a quand même eu la meilleure note, et vous vous demandez ce que cela signifie pour vous. Ou vous avez commencé à poser plus de questions à un agent conversationnel qu'à votre enseignant.
 
 La réponse courte, sous une forme que vous pouvez répéter à un ami : l'IA est utile là où il vous faut de la rétroaction et inutile là où il vous faut de la pratique. Gardez l'étape de réflexion pour vous, testez-vous sans l'outil avant de rendre, et soyez franc sur ce que vous avez utilisé. Le reste de cette page explique pourquoi cela tient et à quoi cela ressemble un mardi soir.
 

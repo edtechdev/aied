@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage inclusif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 - Une étude a montré que des vidéos segmentées par l'IA avec des pauses fixes supprimaient l'écart de performance entre apprenants TDAH et non-TDAH. Comment la conception pour les besoins d'un groupe peut-elle améliorer l'apprentissage de tout le monde ?
 - Les systèmes d'IA sont décrits comme risquant de créer de nouveaux écarts d'accessibilité alors même qu'ils en suppriment d'anciens. Quel type d'apprenant un outil d'IA textuel, visuel et toujours en ligne pourrait-il silencieusement exclure ?
 - La recherche sur l'évaluation inclusive met au jour une tension entre les mesures anti-tricherie et la prise en compte des apprenants ayant des besoins de traitement visuel. Lorsque sécurité et accessibilité s'opposent, comment ce compromis devrait-il être tranché — et par qui ?
-- Plusieurs outils renversent l'hypothèse selon laquelle les [[edtech-platform|technologies éducatives]] doivent être visuelles — par exemple, des compagnons vocaux pour les apprenants malvoyants. Quelles hypothèses sur l'apprenant « par défaut » vos propres outils ou supports pourraient-ils véhiculer ?
+- Plusieurs outils renversent l'hypothèse selon laquelle les [[edtech-platform|technologies éducatives]] doivent être visuelles — par exemple, des [[speech-and-voice-technologies|compagnons vocaux]] pour les apprenants malvoyants. Quelles hypothèses sur l'apprenant « par défaut » vos propres outils ou supports pourraient-ils véhiculer ?
 
 ## Introduction
 
@@ -47,7 +47,7 @@ L'apprentissage inclusif est le concept **parapluie** ; les pages ci-dessous se 
 
 | Concept | Question centrale à laquelle il répond | Focale typique |
 |---|---|---|
-| **Apprentissage inclusif** *(cette page)* | Comment concevoir l'éducation pour que tous les apprenants puissent participer de manière signifiante ? | La conception globale de l'enseignement face à la variabilité des apprenants |
+| **Apprentissage inclusif** *(cette page)* | Comment [[design-education|concevoir l'éducation]] pour que tous les apprenants puissent participer de manière signifiante ? | La conception globale de l'enseignement face à la variabilité des apprenants |
 | **[[accessibility]]** | Chacun peut-il percevoir et utiliser le *format/le support* ? | Sous-titres, texte alternatif, transcriptions, contraste, compatibilité clavier/lecteur d'écran, WCAG |
 | **[[assistive-technology]]** | Quels outils/équipements comblent l'écart d'accès d'un individu ? | Lecteurs d'écran, synthèse et reconnaissance vocales, braille/tactile, sous-titrage, adaptations par l'IA |
 | **[[special-education]]** | Comment dispenser un enseignement à des apprenants ayant un handicap diagnostiqué ? | PEI, adaptations individualisées, tutorat spécifique au handicap — **terme relevant avant tout du [[k-12|K-12]] (IDEA/droit à l'accompagnement)** |
@@ -71,7 +71,7 @@ Les vidéos riches en équations peuvent être rendues accessibles plutôt que t
 
 **[[cognitive-offloading|Le délestage cognitif]] et le compromis entre accès et développement.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] montrent que pour les étudiants ayant des troubles de l'apprentissage, la même IA générative qui abaisse les obstacles à l'accès à la lecture et à l'écriture (ajustement du niveau de texte, résumé, aide à la rédaction) peut, si rien ne l'encadre, se substituer à l'entraînement à la compréhension, à la planification et à la surveillance dont ces apprenants ont le plus besoin — une tension d'équité centrale pour l'apprentissage inclusif. La conception inclusive doit donc considérer non seulement si un outil est *accessible*, mais aussi s'il préserve la possibilité pour l'apprenant de développer les compétences mêmes que l'accès est censé rendre possible.
 
-**L'IA pour la dyslexie : détection, soutien et [[personalized-learning|apprentissage personnalisé]].** Une [[meta-analysis-systematic-review|revue systématique]] interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, guidée par PRISMA, 2018–2024, n=72) constate que l'IA soutient les étudiants dyslexiques dans la détection, le soutien assistif et l'apprentissage personnalisé — mais que ces axes évoluent en parallèle plutôt qu'en intégration, davantage mus par l'opportunité technologique que par une théorie éducative consolidée. Les outils d'aide à l'éducation fondés sur l'apprentissage automatique couvrent cinq domaines (applications spécifiques, engagement, personnalisation, recommandation, soutien générique) tout en privilégiant la performance technique et l'exactitude de classification, au détriment de la validité écologique et du déploiement pratique en classe. La recherche sur la détection (EEG, oculométrie, modèles d'apprentissage automatique) montre un potentiel diagnostique prometteur pour l'intervention précoce mais exige souvent un équipement spécialisé et des environnements contrôlés, ce qui limite la passage à l'échelle et l'accessibilité dans les cadres scolaires ordinaires. Les défis ouverts incluent la validation expérimentale limitée, le passage à l'échelle, les préoccupations d'[[ethics|éthique]]/confidentialité liées aux données sensibles sur les étudiants, le soutien et la formation limités des [[teacher-role|enseignants]], et les barrières linguistiques et culturelles (la plupart des recherches ciblent des populations anglophones) — ce qui souligne que l'apprentissage inclusif doit associer capacité technique et déploiement validé, scalable et éthiquement fondé.
+**Soutien à la dyslexie : détection, assistance et [[personalized-learning|personnalisation]].** Une [[meta-analysis-systematic-review|revue systématique]] interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, guidée par PRISMA, 2018–2024, n=72) constate que l'IA soutient les étudiants dyslexiques dans la détection, le soutien assistif et l'apprentissage personnalisé — mais que ces axes évoluent en parallèle plutôt qu'en intégration, davantage mus par l'opportunité technologique que par une théorie éducative consolidée. Les outils d'aide à l'éducation fondés sur l'apprentissage automatique couvrent cinq domaines (applications spécifiques, [[student-engagement|engagement]], personnalisation, recommandation, soutien générique) tout en privilégiant la performance technique et l'exactitude de classification, au détriment de la validité écologique et du déploiement pratique en classe. La recherche sur la détection ([[sensor-and-gaze-analytics|EEG]], oculométrie, modèles d'apprentissage automatique) montre un potentiel diagnostique prometteur pour l'intervention précoce mais exige souvent un équipement spécialisé et des environnements contrôlés, ce qui limite la passage à l'échelle et l'accessibilité dans les cadres scolaires ordinaires. Les défis ouverts incluent la validation expérimentale limitée, le passage à l'échelle, les préoccupations d'[[ethics|éthique]]/confidentialité liées aux données sensibles sur les étudiants, le soutien et la formation limités des [[teacher-role|enseignants]], et les barrières linguistiques et culturelles (la plupart des recherches ciblent des populations anglophones) — ce qui souligne que l'apprentissage inclusif doit associer capacité technique et déploiement validé, scalable et éthiquement fondé.
 
 **La critique de l'IA centrée sur le handicap** examine comment les systèmes d'IA peuvent marginaliser plutôt qu'inclure. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** soutient que les systèmes d'[[generative-ai|IA générative]] dans l'enseignement supérieur marginalisent activement les savoirs centrés sur le handicap en raison de données d'entraînement anglophones et occidentalo-centrées — ce qui rejoint les préoccupations d'[[equity-in-ai-education|équité]] relatives à la justice épistémique.
 
@@ -99,7 +99,7 @@ L'apprentissage inclusif est profondément relié à [[equity-in-ai-education|l'
 
 **« Fournir une technologie d'assistance fournit de la capacité d'agir. »** Les deux sont distincts, et le cadrage même de la page le dit : la technologie d'assistance ne garantit pas une capacité d'agir significative. Un outil qui permet à un apprenant d'accomplir la tâche requise peut aussi l'orienter vers la version la plus étroite de celle-ci, et la différence entre un étayage et un plafond est invisible dans une métrique d'adoption.
 
-**« Les étudiants en difficulté devraient simplement apprendre à mieux formuler leurs invites. »** Cela convertit un défaut du système en déficit de l'apprenant. À tâche sous-jacente tenue fixe, l'exactitude du modèle n'a progressé que de **82,4 % pour une formulation de faible littératie à 83,4 % pour une formulation experte** — un écart d'un point — tandis qu'exiger de mieux formuler ajoute une nouvelle exclusion à celle qui existe déjà. Le levier réside dans le traitement, côté système, de la variation linguistique, non dans un entraînement correctif aux invites.
+**« Les étudiants en difficulté devraient simplement apprendre à mieux formuler leurs invites. »** Cela convertit un défaut du système en déficit de l'apprenant. À tâche sous-jacente tenue fixe, l'exactitude du modèle n'a progressé que de **82,4 % pour une formulation de faible littératie à 83,4 % pour une formulation experte** — un écart d'un point — tandis qu'exiger de mieux [[prompt-engineering|formuler]] ajoute une nouvelle exclusion à celle qui existe déjà. Le levier réside dans le traitement, côté système, de la variation linguistique, non dans un entraînement correctif aux invites.
 
 **« Un outil conçu pour des classes bien dotées servira les contextes à faibles ressources une fois traduit. »** Le contexte change la contrainte de conception. [[suacode-african-students-motivations|SuaCode]] a atteint des étudiants de contextes africains à faibles ressources où **moins de 1 % possèdent des compétences en programmation**, en concevant pour des smartphones plutôt que pour des ordinateurs de laboratoire, ce qui est une conception différente, non une version réduite de la même.
 

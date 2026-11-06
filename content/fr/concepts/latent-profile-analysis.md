@@ -1,12 +1,12 @@
 ---
 title: "Analyse des profils latents"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-11-01T10:20:15-05:00"
+updated: "2026-11-05T18:24:25-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ La LPA présuppose que l'échantillon est tiré d'un mélange de sous-groupes, c
 
 - **La LCA — indicateurs catégoriels.** Becker et ses collègues ont converti des catégories de réponses codées issues des réponses ouvertes de 1 189 étudiants de physique en variables indicatrices, et ont retenu deux classes : les utilisateurs pragmatiques (70 pour cent) et les non-utilisateurs sceptiques (30 pour cent) ; parce qu'un sujet non mentionné compte comme une « non-adhésion », les auteurs signalent une inflation de zéros dans le tableau de données analysé.
 - **La LPA — indicateurs continus** tels que les scores d'échelle et les moyennes de construits. Chen et ses collègues ont profilé 128 enseignants taïwanais en formation initiale sur cinq construits de [[technology-acceptance-model|TAM]]/UTAUT2 ; Acquah et ses collègues ont profilé 509 étudiants de premier cycle ghanéens sur trois dimensions de conscience éthique ; Schweder et ses collègues ont profilé 2 464 étudiants sur la satisfaction des besoins [[motivation|motivationnels]].
-- **L'analyse des transitions (de profils) latentes** étend la famille dans le temps, estimant les profils par vague et la probabilité de passer de l'un à l'autre. Liang et ses collègues ont suivi la motivation d'apprentissage de l'IA de 2 086 étudiants sur un an ; Wu a suivi 457 apprenants de japonais sur trois vagues, le profil inadapté se réduisant de 26.48 à 17.74 pour cent.
+- **L'analyse des transitions (de profils) latentes** étend la famille dans le temps, estimant les profils par vague et la probabilité de passer de l'un à l'autre. Liang et ses collègues ont suivi la motivation d'apprentissage de l'IA de 2 086 étudiants sur un an ; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] a suivi 457 apprenants de japonais sur trois vagues, le profil inadapté se réduisant de 26.48 à 17.74 pour cent.
 
 Le regroupement ordinaire ([[machine-learning|les k-moyennes]] et le regroupement hiérarchique) poursuit la même intention centrée sur la personne, mais partitionne les cas selon la distance géométrique plutôt qu'en estimant un modèle de probabilité. Recourez à la LPA ou à la LCA lorsque la question porte sur les sous-groupes — sur la question de savoir si « l'apprenant » est une fiction au niveau d'agrégation de votre échantillon, et si les sous-groupes diffèrent par la forme autant que par le niveau. N'y recourez pas lorsque vous avez besoin d'un effet moyen d'un traitement : une solution à cinq profils au sein d'un [[rct|essai randomisé]] portant sur un tuteur [[intelligent-tutoring|adaptatif]] a prédit des différences au post-test (η² partiel = .27) mais n'a trouvé aucune interaction condition × profil (ps ≥ .198).
 

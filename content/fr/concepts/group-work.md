@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,11 +90,11 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 
 ### Le risque épistémique de la production soignée
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualise le risque d'un effort épistémique réduit lorsque les apprenants emploient l'IA pour produire des artefacts de connaissance soignés — [[automation-bias|biais d'automatisation]] d'un côté sociocognitif, et fermeture épistémique induite par l'artefact fini de l'autre. Le remède consiste à structurer l'IA comme un partenaire argumentatif ou un provocateur qui préserve le conflit. Le contrepoint vient de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et coll.]], qui ont montré que lorsque les grands modèles de langue agissent comme partenaires de critique et que les étudiants réfutent activement leurs affirmations, les apprenants se comportent comme des consommateurs critiques qui préservent le conflit cognitif de la critique plutôt que de s'y rendre. La différence entre un coéquipier qui donne des réponses et un partenaire qui provoque est ce qui détermine si le travail en groupe avec l'IA construit la pensée ou la contourne.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] conceptualise le risque d'un effort épistémique réduit lorsque les apprenants emploient l'IA pour produire des artefacts de connaissance soignés — [[automation-bias|biais d'automatisation]] d'un côté sociocognitif, et fermeture épistémique induite par l'artefact fini de l'autre. Le remède consiste à structurer l'IA comme un partenaire argumentatif ou un provocateur qui préserve le conflit. Le contrepoint vient de [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et coll.]], qui ont montré que lorsque les grands modèles de langue agissent comme partenaires de critique et que les étudiants réfutent activement leurs affirmations, les apprenants se comportent comme des consommateurs critiques qui préservent le conflit cognitif de la critique plutôt que de [[cognitive-surrender|s'y rendre]]. La différence entre un coéquipier qui donne des réponses et un partenaire qui provoque est ce qui détermine si le travail en groupe avec l'IA construit la pensée ou la contourne.
 
 ### Le soutien de niveau classe, non évaluatif
 
-[[breideband-community-builder-cobi-2026|CoBi]] détecte le discours de petits groupes qui « élève » (respect, équité, communauté, pensée qui avance) et renvoie des visualisations non évaluatives, de niveau classe — retenant délibérément la rétroaction au niveau de l'étudiant ou du groupe pour protéger la [[privacy|vie privée]] et la [[trust|confiance]]. Les étudiants ont préféré les visualisations [[qualitative-research|qualitatives]] (un arbre organique) aux visualisations [[quantitative-research|quantitatives]] (un graphique en radar). Pour la dimension relationnelle du travail en groupe, la rétroaction agrégée au niveau de la classe soutient la construction de la communauté là où une notation individuelle serait ressentie comme de la surveillance.
+[[breideband-community-builder-cobi-2026|CoBi]] détecte le discours de petits groupes qui « élève » (respect, équité, communauté, pensée qui avance) et renvoie des [[visualization|visualisations]] non évaluatives, de niveau classe — retenant délibérément la rétroaction au niveau de l'étudiant ou du groupe pour protéger la [[privacy|vie privée]] et la [[trust|confiance]]. Les étudiants ont préféré les visualisations [[qualitative-research|qualitatives]] (un arbre organique) aux visualisations [[quantitative-research|quantitatives]] (un graphique en radar). Pour la dimension relationnelle du travail en groupe, la rétroaction agrégée au niveau de la classe soutient la construction de la communauté là où une notation individuelle serait ressentie comme de la surveillance.
 
 ## Implications pour la conception
 

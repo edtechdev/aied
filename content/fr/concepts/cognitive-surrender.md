@@ -1,7 +1,7 @@
 ---
 title: "Capitulation cognitive"
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-01T10:14:04-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-01T14:00:00-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ Trois expériences préenregistrées ont adapté le Test de Réflexion Cognitive
 
 La lecture pratique est que la capitulation est un **échec de discrimination** plutôt qu'un échec de motivation. Les participants qui ont capitulé ne cherchaient pas à éviter le travail ; ils ne pouvaient pas distinguer un bon conseil d'un mauvais, et l'interface ne leur donnait aucune raison d'essayer.
 
-Une expérience préenregistrée de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fournit une configuration contrastée. Avec un assistant cloisonné par enrichissement de récupération à la fiche d'exercices assignée, la condition IA a abaissé le délestage cognitif (médiane −0.27) au lieu de l'élever, et aucun chemin de délestage ne portait la hausse de la désorganisation (0.84). La capitulation exige un assistant dont le conseil peut être adopté en bloc ; un système qui ne répond qu'à partir du matériel présent donne moins à adopter et plus à réconcilier à l'apprenant.
+Une expérience préenregistrée de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fournit une configuration contrastée. Avec un assistant cloisonné par [[rag|enrichissement de récupération]] à la fiche d'exercices assignée, la condition IA a abaissé le délestage cognitif (médiane −0.27) au lieu de l'élever, et aucun chemin de délestage ne portait la hausse de la désorganisation (0.84). La capitulation exige un assistant dont le conseil peut être adopté en bloc ; un système qui ne répond qu'à partir du matériel présent donne moins à adopter et plus à réconcilier à l'apprenant.
 
 ## Surrender outside the lab
 

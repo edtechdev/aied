@@ -1,14 +1,14 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-01T10:14:49-05:00"
+updated: "2026-11-05T18:24:25-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Questions à examiner
 
-- « Les étudiants qui utilisent un tuteur IA obtiennent de meilleurs scores » — avant de lire, s'agit-il d'une affirmation sur la causalité ou sur la corrélation, et quel élément de preuve unique convertirait l'une en l'autre ?
+- « Les étudiants qui utilisent un [[intelligent-tutoring|tuteur IA]] obtiennent de meilleurs scores » — avant de lire, s'agit-il d'une affirmation sur la causalité ou sur la corrélation, et quel élément de preuve unique convertirait l'une en l'autre ?
 - Une enquête transversale peut tester un modèle médiationnel complexe sans jamais établir de causalité. Pourquoi deux variables pourraient-elles être corrélées dans une enquête même lorsque aucune des deux ne cause l'autre ? Pouvez-vous imaginer une manière d'être réellement induit en erreur par une telle corrélation en éducation ?
 - Les instruments quantitatifs ne valent que ce qu'ils mesurent — et cette page note que des instruments peuvent mesurer le mauvais construit. Lorsque vous remplissez un questionnaire d'auto-déclaration sur la « confiance » ou l'« engagement », que pourrait-il capter à la place, et comment le découvririez-vous ?
 - Un essai randomisé assigne aléatoirement des apprenants à des conditions pour estimer un effet causal. Qu'est-ce qui rend l'assignation aléatoire puissante, et quels problèmes pratiques et éthiques surgissent lorsque le « traitement » est un outil d'IA potentiellement utile que l'on refuse à certains étudiants ?
@@ -46,13 +46,13 @@ Les enquêtes transversales mesurent les attitudes auto-déclarées, les percept
 
 - **Forces :** de grands échantillons ; une couverture large et peu coûteuse ; le test de modèles médiationnels complexes ; la faisabilité pour des attitudes difficiles à observer.
 - **Limites :** les données transversales ne peuvent établir de causalité ; le biais d'auto-déclaration ; l'échantillonnage de commodité limite la généralisabilité ; les médiateurs sont inférés de la covariance, non de la manipulation. Voir [[self-report-measures]] pour le traitement côté instrument de ces limites.
-- **Un modèle de médiation saturé ne peut pas tester son propre ordonnancement.** Une enquête à une seule vague portant sur 1 020 étudiants en soins infirmiers a décomposé un effet total de 1.36 en un effet direct de 0.92 et un effet indirect de 0.44 via l'apprentissage autorégulé, soit 32.35% du total, avec un modèle qui compte autant de paramètres libres que de covariances observées et reproduit donc les données par construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et coll. (2026)]]).
+- **Un modèle de médiation saturé ne peut pas tester son propre ordonnancement.** Une enquête à une seule vague portant sur 1 020 étudiants en soins infirmiers a décomposé un effet total de 1.36 en un effet direct de 0.92 et un effet indirect de 0.44 via l'[[self-regulated-learning|apprentissage autorégulé]], soit 32.35% du total, avec un modèle qui compte autant de paramètres libres que de covariances observées et reproduit donc les données par construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et coll. (2026)]]).
 **Un effet indirect total proche de zéro peut masquer deux chemins actifs.** Dans une vague d'auto-déclaration portant sur 568 étudiants en design, l'association indirecte passait par 0.0929 via la focalisation sur la promotion et -0.0884 via la focalisation sur la prévention, pour une somme de 0.0045 tandis que le chemin direct portait 98.7% du total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et coll. (2026)]]).
 
 ### La recherche expérimentale et quasi-expérimentale
 Les expériences assignent aléatoirement des apprenants à des conditions (par ex., tuteur IA contre tuteur humain, ou assisté par l'IA contre non assisté) pour estimer des effets causaux sur les résultats. Les **essais contrôlés randomisés ([[rct]])** constituent l'étalon-or pour la validité interne. [[access-not-enough-ai-tutoring-2026|Une étude de terrain randomisée sur le soutien humain associé au tutorat par IA]] et [[genai-can-harm-teaching-rct-2026|un essai randomisé sur l'IA générative dans l'enseignement]] utilisent l'assignation pour isoler des effets causaux. Les conceptions **quasi-expérimentales** (pré/post, groupes appariés sans randomisation) sont plus faisables dans des classes intactes mais plus faibles sur les affirmations causales.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptent à la place un croisement intra-sujet : chaque étudiant rencontre le même contenu de physique deux fois, une fois dans une leçon d'apprentissage actif en classe et une fois par le biais du propre tuteur IA du cours, avec des pré- et post-tests autour de chacune, si bien que chaque apprenant sert de propre témoin et que les différences interindividuelles s'annulent.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptent à la place un croisement intra-sujet : chaque étudiant rencontre le même contenu de physique deux fois, une fois dans une leçon d'[[active-learning|apprentissage actif]] en classe et une fois par le biais du propre tuteur IA du cours, avec des pré- et post-tests autour de chacune, si bien que chaque apprenant sert de propre témoin et que les différences interindividuelles s'annulent.
 
 - **Forces :** l'inférence causale la plus forte ; une mesure nette des résultats ; le soutien à l'estimation des tailles d'effet et aux affirmations d'efficience.
 - **Limites :** coûteuses et lentes ; des conditions artificielles réduisent la validité écologique ; des outils d'IA évoluant rapidement datent rapidement les expériences ; de petits échantillons sous-alimentent la détection d'effets ; des contraintes éthiques sur le retrait d'outils utiles.

@@ -1,7 +1,7 @@
 ---
 title: "Partenariats pédagogiques"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-11-01T10:13:26-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-01T09:12:42-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,9 +62,9 @@ L'intersection du partenariat pédagogique et de l'IA est l'un des fils à la cr
 
 - **Les étudiants comme co-concepteurs des politiques d'IA.** Plutôt que d'imposer aux étudiants des règles d'IA, le partenariat positionne les étudiants comme co-créateurs de politiques d'IA au niveau du cours et de l'institution. Par exemple, une activité d'enquête guidée dans laquelle des étudiants co-concevaient une politique de cours sur l'[[generative-ai|IA générative]] a fait émerger les priorités des étudiants autour de la formation, de la divulgation standardisée, du soutien institutionnel et de l'implication dans la prise de décision ([[guided-inquiry-genai-course-policy-2026]]).
 - **Les étudiants comme co-créateurs d'outils d'IA.** Dans les cadres d'étudiants comme partenaires, les étudiants ont co-conçu et affiné des [[conversational-ai|agents conversationnels]] personnalisés alignés sur des objectifs pédagogiques — une approche qui étend le paradigme SaP pour inclure les outils d'IA eux-mêmes et positionne la voix des étudiants comme centrale pour une innovation responsable en matière d'IA ([[lo-co-creating-custom-gpts-sap-2026]]).
-- **Co-création à grande échelle, mesurée avec prudence.** Dans un cours de conception logicielle réunissant 710 étudiants, les étudiants ont construit un tuteur IA pour un pair au lieu d'en utiliser un. La liberté de conception était le thème positif dominant (22,3%) et les consignes peu claires la plainte principale (23,7%), mais l'apprentissage perçu ne corrélait avec les scores aux quiz que de r = 0,161 à 0,315 et la conception n'avait pas de groupe témoin ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Construire l'outil est une pédagogie plausible et, selon ces données, non prouvée, ce qui explique pourquoi l'argument en sa faveur repose sur l'activité de conception plutôt que sur des gains de résultats.
+- **Co-création à grande échelle, mesurée avec prudence.** Dans un cours de conception logicielle réunissant 710 étudiants, les étudiants ont construit un [[intelligent-tutoring|tuteur IA]] pour un pair au lieu d'en utiliser un. La liberté de conception était le thème positif dominant (22,3%) et les consignes peu claires la plainte principale (23,7%), mais l'apprentissage perçu ne corrélait avec les scores aux quiz que de r = 0,161 à 0,315 et la conception n'avait pas de groupe témoin ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Construire l'outil est une pédagogie plausible et, selon ces données, non prouvée, ce qui explique pourquoi l'argument en sa faveur repose sur l'activité de conception plutôt que sur des gains de résultats.
 
-- **Co-conception à l'échelle de la classe entière, évaluée par auto-évaluation.** Un programme de première année en sciences de l'information a fait co-concevoir par les étudiants et le corps professoral les objectifs et les politiques du cours la première semaine, puis les a revisités au long du trimestre, les étudiants s'auto-évaluant eux-mêmes et leurs groupes par rapport à des objectifs personnels, des objectifs d'équipe et un barème partagé plutôt que par rapport à des produits finaux ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand et Fundator (2025)]]).
+- **Co-conception à l'échelle de la classe entière, évaluée par [[self-assessment|auto-évaluation]].** Un programme de première année en sciences de l'information a fait co-concevoir par les étudiants et le corps professoral les objectifs et les politiques du cours la première semaine, puis les a revisités au long du trimestre, les étudiants s'auto-évaluant eux-mêmes et leurs groupes par rapport à des objectifs personnels, des objectifs d'équipe et un barème partagé plutôt que par rapport à des produits finaux ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand et Fundator (2025)]]).
 - **Co-création dans l'évaluation et avec l'IA.** Des partenariats entre étudiants et personnel ont co-évalué des productions générées par l'IA dans des évaluations de cours et co-conçu des critères d'évaluation, améliorant la compréhension des bénéfices et des limites de l'IA et soutenant l'[[self-regulated-learning|apprentissage autorégulé]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Le partenariat pour préserver la confiance pédagogique.** Face à l'incertitude induite par l'IA et à la « honte de l'IA », des pratiques de partenariat qui nourrissent la *confiance pédagogique* — une relation d'apprentissage assurée et réciproque, ouverte à l'incertitude et co-naviguée par le dialogue — offrent une manière de soutenir le noyau relationnel de l'éducation ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **Les jeunes comme co-concepteurs de systèmes d'IA.** Des approches de conception participative engagent des étudiants historiquement minorisés comme partenaires de la conception des systèmes d'IA qui affecteront leurs salles de classe, faisant émerger leurs valeurs et leurs engagements [[ethics|éthiques]] ([[chang-co-designing-ai-youth-relational-privacy-2025]]).

@@ -1,14 +1,14 @@
 ---
 title: Résolution de problèmes
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-01T09:12:59-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ Du côté de la mesure, les [[llm-computational-thinking-physics-2026|LLM peuven
 
 ### Comment l'IA aide et gêne tout à la fois
 
-Le double caractère de l'IA dans la résolution de problèmes est cohérent d'une étude à l'autre. Du côté de l'aide, les [[conversational-ai|agents conversationnels]] surpassent les moteurs de recherche pour la formulation de problèmes en améliorant la qualité des questions et en intégrant des réseaux cognitifs ; les soutiens adaptatifs améliorent la performance ; et les conceptions d'IA collaborative augmentent à la fois la [[critical-thinking|pensée critique]] et les scores de résolution de problèmes, tandis que les étudiants demeurent les décideurs principaux. Du côté de l'entrave, la sur-délégation réduit l'engagement régulateur, le retour direct sans réflexion encourage l'assimilation passive, et une forte dépendance à l'IA pour construire un consensus menace le développement des compétences interpersonnelles et la [[motivation|motivation intrinsèque]]. Fait notable, [[genai-feedback-design-multisite-experiment|une expérience randomisée multisites]] a constaté que les conceptions de retour réflexives et hybrides surpassaient le retour direct de l'[[ai-feedback-quality|IA]] sur le transfert différé sans IA — la preuve que la valeur éducative de l'IA dépend moins de l'accès que de la préservation de l'[[agency|agence de l'étudiant]], du jugement évaluatif et de l'appropriation durant la révision. Les principes de conception qui émergent de la littérature incluent la priorité donnée à la tension dialogique sur l'efficience sans heurts, la possibilité d'une co-régulation proactive, et le maintien d'un soutien métacognitif et d'une supervision « esprit dans la boucle ».
+Le double caractère de l'IA dans la résolution de problèmes est cohérent d'une étude à l'autre. Du côté de l'aide, les [[conversational-ai|agents conversationnels]] surpassent les moteurs de recherche pour la formulation de problèmes en améliorant la qualité des questions et en intégrant des réseaux cognitifs ; les soutiens adaptatifs améliorent la performance ; et les conceptions d'IA collaborative augmentent à la fois la [[critical-thinking|pensée critique]] et les scores de résolution de problèmes, tandis que les étudiants demeurent les décideurs principaux. Du côté de l'entrave, la sur-délégation réduit l'engagement régulateur, le retour direct sans réflexion encourage l'assimilation passive, et une forte dépendance à l'IA pour construire un consensus menace le développement des compétences interpersonnelles et la [[motivation|motivation intrinsèque]]. Fait notable, [[genai-feedback-design-multisite-experiment|une expérience randomisée multisites]] a constaté que les conceptions de retour réflexives et hybrides surpassaient le retour direct de l'[[ai-feedback-quality|IA]] sur le transfert différé sans IA — la preuve que la valeur éducative de l'IA dépend moins de l'accès que de la préservation de l'[[agency|agence de l'étudiant]], de l'[[evaluative-judgment|jugement évaluatif]] et de l'appropriation durant la révision. Les principes de conception qui émergent de la littérature incluent la priorité donnée à la tension dialogique sur l'efficience sans heurts, la possibilité d'une co-régulation proactive, et le maintien d'un soutien métacognitif et d'une supervision « esprit dans la boucle ».
 
 ### Implications
 
@@ -74,7 +74,7 @@ La résolution de problèmes est le résultat appliqué de la [[critical-thinkin
 
 **« Une IA qui aide les étudiants à explorer des perspectives les aide à penser. »** Le même comportement soutient deux issues très différentes : les outils d'IA aident les étudiants à explorer de multiples perspectives et à générer leurs propres problèmes, et ils peuvent aussi encourager la paresse métacognitive. La question qui tranche est de savoir si c'est l'étudiant qui fait le cadrage ou s'il le reçoit — un système qui fournit des perspectives candidates a accompli l'étape générative que l'exercice existait pour exiger.
 
-**« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un curriculum qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
+**« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un [[curriculum-design|curriculum]] qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
 
 **« La simulation de la résolution de problèmes collaborative se substitue à la collaboration. »** Une simulation reproduit le schéma d'interaction, et la compétence en jeu est la régulation d'un problème conjoint par des participants réellement présents. Les agents propres à chaque participant qui modélisent de vrais collaborateurs sont un instrument de recherche pour étudier cette régulation — utiles par ce qu'ils révèlent du processus, et non un moyen de donner aux étudiants la pratique sans les pairs.
 

@@ -1,13 +1,13 @@
 ---
 title: "La modélisation de l'apprenant et l'enseignement adaptatif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:20:10-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,7 @@ Un modèle prédictif de l'apprenant peut reposer sur la structure de l'inscript
 
 Les modèles d'étudiant peuvent aussi être construits à partir des seules traces comportementales et soutenir néanmoins l'adaptation. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] ont dérivé trois profils d'engagement — Observation, Construction et Exploration — des parcours de clics de 315 apprenants en ligne construisant 822 modèles écologiques dans VERA, sans aucune donnée démographique ou contextuelle, et ont montré que ces profils prédisent la qualité des modèles (l'Exploration produit les modèles les plus complexes et les plus diversifiés, tandis que l'Observation est dominée par des modèles copiés plutôt qu'originaux). De telles caractérisations au niveau de l'engagement sont les modèles d'étudiant grossiers que la couche d'[[adaptive-learning|enseignement adaptatif]] peut consommer pour cibler la rétroaction.
 
-La modélisation affective de l'apprenant est une dimension supplémentaire : un tuteur de mathématiques a déduit l'émotion du texte conversationnel et de l'expression faciale, puis a associé l'état agrégé à des stratégies de tutorat, mais la fusion multimodale n'a atteint que 60% d'exactitude par rapport aux annotations des participants eux-mêmes, faisant de la lecture de l'affect le maillon le plus faible du pipeline ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+La modélisation affective de l'apprenant est une dimension supplémentaire : un tuteur de mathématiques a déduit l'émotion du texte conversationnel et de l'expression faciale, puis a associé l'état agrégé à des stratégies de tutorat, mais la fusion [[multimodal|multimodale]] n'a atteint que 60% d'exactitude par rapport aux annotations des participants eux-mêmes, faisant de la lecture de l'affect le maillon le plus faible du pipeline ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] ont constaté qu'un signal de démarrage retardé enregistré pendant la pratique des mathématiques prédisait les résultats en anglais, les retardataires chroniques (plus de 13 minutes) montrant des gains plus faibles (β = -.11 écart-type en ELA) même après contrôle des [[prior-knowledge|connaissances antérieures]] et du temps consacré à la tâche — ainsi, les modèles d'étudiant comportementaux peuvent se transférer d'une matière à l'autre sans réentraînement par cours, même si leurs seuils de coupure doivent être redéfinis.
 
@@ -83,16 +83,18 @@ Dans toute la famille, le défi de validité déterminant est le même : la repr
 
 Les modèles qui déduisent l'état de l'apprenant à partir du jeu ont atteint des AUC de 0.848–0.913, alors que seulement deux des 55 études examinées les avaient audités pour détecter d'éventuels biais démographiques et qu'une seule avait étudié les résultats différentiels selon la capacité de l'apprenant ([[ai-game-based-learning-systematic-review-2026|Kaşarcı et Yurt (2026)]]).
 
-Certains signaux visés peuvent ne pas être du tout récupérables à partir du dialogue : le pilote du cadre Learning Context a récupéré les idées fausses à 91.4% et l'anxiété à 100%, mais la conscience professionnelle à seulement 68.6% et la compétence langagière à 60%, si bien qu'un modèle sensible au contexte devrait capter les traits qui émergent lentement plutôt que d'attendre que le dialogue les révèle ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
+Certains signaux visés peuvent ne pas être du tout récupérables à partir du dialogue : le pilote du cadre Learning Context a récupéré les idées fausses à 91.4% et l'[[anxiety-and-stress|anxiété]] à 100%, mais la conscience professionnelle à seulement 68.6% et la compétence langagière à 60%, si bien qu'un modèle sensible au contexte devrait capter les traits qui émergent lentement plutôt que d'attendre que le dialogue les révèle ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
-[[edumirror-educational-social-dynamics|Lin et al. (2026)]] mettent au jour une circularité dans la manière dont de tels apprenants synthétiques sont validés : leurs agents EduMirror administrent a posteriori des questionnaires psychométriques et lisent l'accord avec la représentation interne des valeurs de l'agent comme une validité psychologique, mais, le Surveyor mesurant des dimensions déjà encodées dans ce système de valeurs, le contrôle est une vérification de cohérence plutôt qu'une validation indépendante.
+Les signaux physiologiques et oculaires élargissent la base de modélisation : l'oculométrie, l'EEG, l'activité électrodermale et la fréquence cardiaque servent désormais à inférer l'engagement, l'attention et la charge cognitive ([[sensor-and-gaze-analytics|analytique des capteurs et du regard]]). L'inférence du signal vers l'état mental est le maillon faible, puisqu'un corps peut être enregistré sans que son état soit identifié.
+
+[[edumirror-educational-social-dynamics|Lin et al. (2026)]] mettent au jour une circularité dans la manière dont de tels apprenants synthétiques sont validés : leurs agents EduMirror administrent a posteriori des [[self-report-measures|questionnaires]] psychométriques et lisent l'accord avec la représentation interne des valeurs de l'agent comme une validité psychologique, mais, le Surveyor mesurant des dimensions déjà encodées dans ce système de valeurs, le contrôle est une vérification de cohérence plutôt qu'une validation indépendante.
 
 **L'exactitude n'est pas toujours un signal fidèle.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] montrent qu'un modèle de l'apprenant déduisant la maîtrise des actions correctes peut dénaturer l'état réel de l'apprenant : les apprenants qui font preuve de *surgénéralisation trompeuse* semblent avoir maîtrisé alors qu'ils omettent une contrainte d'application critique, si bien que les systèmes adaptatifs peuvent interrompre prématurément la pratique. Les modèles de l'apprenant devraient évaluer la compréhension conditionnelle — y compris le fait de savoir si l'apprenant sait quand s'abstenir d'agir — et pas seulement l'exactitude de l'action.
 
 Les idées fausses cachées révèlent le même échec par l'autre versant : [[correct-answer-trap-misconceptions|Imran et Bulathwela (2026)]] ont constaté qu'un classificateur affiné repérait 57.4% des réponses correctes obtenues par un raisonnement erroné, et qu'à une prévalence de 1.6%, même un modèle de raisonnement précis à 83.6% laissait 8 fausses alertes par détection — ainsi, les signaux de maîtrise fondés sur l'exactitude sont à la fois incomplets et coûteux à réparer.
 
 **La manière dont un modèle est validé est elle-même une question de validité.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] montrent que des modèles de l'apprenant populaires (BKT, BKT avec oubli, AFM) semblent capter l'apprentissage humain seulement lorsqu'ils sont ajustés rétroactivement sur un jeu de données complet couvrant plusieurs sessions ; sous une validation croisée fondée sur le temps (en avance) — prédisant une session future à partir des sessions antérieures, comme ces modèles sont réellement déployés — ils surestiment la performance, manquent l'[[retrieval-spacing-interleaving|effet d'espacement]] et classent mal les conditions de pratique. Les modèles augmentés de l'oubli et ceux sans oubli ayant performé à peu près également d'une session à l'autre, les auteurs concluent que l'oubli est souvent absorbé dans les paramètres de l'apprenant plutôt que véritablement représenté. La leçon pour la famille est qu'une représentation fidèle de l'apprenant doit être validée de la manière dont elle est utilisée — et que confondre la performance du moment avec la rétention à long terme produit des modèles qui semblent exacts tout en dénaturant les apprenants.
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]] montrent le même échec du côté du classificateur : inférer des dimensions de style d'apprentissage à partir des dialogues de résolution de problèmes de 153 étudiants de premier cycle paraissait modérément exact jusqu'à ce que le rappel par classe révèle une prédiction de l'étiquette dominante, les apprenants de type Intuitif et Global étant systématiquement sous-identifiés et les exemples few-shot amplifiant parfois le biais de la classe majoritaire.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]] montrent le même échec du côté du classificateur : inférer des dimensions de style d'apprentissage à partir des dialogues de résolution de [[problem-solving|problèmes]] de 153 étudiants de premier cycle paraissait modérément exact jusqu'à ce que le rappel par classe révèle une prédiction de l'étiquette dominante, les apprenants de type Intuitif et Global étant systématiquement sous-identifiés et les exemples few-shot amplifiant parfois le biais de la classe majoritaire.
 
 ## La modélisation à l'ère des LLM
 
@@ -139,6 +141,7 @@ La modélisation de l'apprenant et l'enseignement adaptatif alimentent les [[lea
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — les modèles sous-tendant la prédiction du risque et le ciblage du soutien
+- [[sensor-and-gaze-analytics]]
 
 ## Articles liés
 

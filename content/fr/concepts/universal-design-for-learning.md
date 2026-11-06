@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-01T10:19:17-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ L'[[generative-ai|IA générative]] crée de nouvelles opportunités et de nouve
 L'équité par la conception est une manière concrète d'opérationnaliser cette position. Wenzel, Geiger et Liening (2026) fondent leur cadre CAIS-GBL pour les [[conversational-ai|agents conversationnels]] d'IA dans des jeux de [[simulation]] en gestion sur une approche explicite d'**équité par la conception** alignée sur la conception universelle de l'apprentissage, et en dérivent des méta-exigences couvrant l'engagement cognitif, [[motivation|motivationnel]], [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]]. Leurs principes et fonctionnalités de conception visent à prendre en charge les différences individuelles de forces, de difficultés et d'intérêts — une application concrète des principes de l'UDL à la conception d'un [[game-based-learning|apprentissage par le jeu]] adaptatif et assisté par l'IA.
 Un outil peut servir les trois principes de la CUA et néanmoins restreindre ce qu'un enseignant décide. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] soutient pour cette raison que rattacher un outil à un principe de la CUA est nécessaire mais non suffisant, et propose un audit annuel de déprofessionnalisation ainsi qu'un registre de dépendance aux fournisseurs parmi ses contrôles.
 
-L'IA apparaît aussi dans cette littérature comme un obstacle à l'UDL plutôt que comme un instrument de celui-ci. Dans l'étude à méthodes mixtes de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif et Newland (2026)]] portant sur 69 professeurs d'une université ontarienne, l'un des quatre thèmes clés est que l'[[generative-ai|IA générative]] inverse les progrès réalisés en matière de conception de cours accessibles ; la citation qui donne son titre à l'article, « AI is reducing options I had used », vient de leurs entretiens, parce que les devoirs fondés sur la prise à domicile et la rédaction étaient précisément ceux qui faisaient le travail d'inclusion que l'IA peut désormais accomplir entièrement. Leurs résultats au niveau des enseignants montrent pourquoi ce revers s'abat sur une base déjà mince : 90 % des répondants estiment créer un environnement d'apprentissage accessible et 87 % disent prendre activement en compte l'accessibilité, mais moins de la moitié (46 %) pensent que l'université offre des ressources suffisantes à cet égard, et environ un cinquième n'avait jamais entendu parler de techniques aussi élémentaires que les PDF lisibles par OCR ou les liens indépendants de la couleur. La demande dépasse l'offre — les inscriptions dans les universités ontariennes ont augmenté de 17 % entre 2013 et 2022, tandis que les inscriptions aux services d'accessibilité progressaient de 126 % — si bien que la thèse de l'étude est que le soutien à l'UDL doit être doté en ressources pour compenser les options d'évaluation que l'IA a supprimées.
+L'IA apparaît aussi dans cette littérature comme un obstacle à l'UDL plutôt que comme un instrument de celui-ci. Dans l'étude [[mixed-methods-research|à méthodes mixtes]] de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif et Newland (2026)]] portant sur 69 professeurs d'une université ontarienne, l'un des quatre thèmes clés est que l'[[generative-ai|IA générative]] inverse les progrès réalisés en matière de conception de cours accessibles ; la citation qui donne son titre à l'article, « AI is reducing options I had used », vient de leurs entretiens, parce que les devoirs fondés sur la prise à domicile et la rédaction étaient précisément ceux qui faisaient le travail d'inclusion que l'IA peut désormais accomplir entièrement. Leurs résultats au niveau des enseignants montrent pourquoi ce revers s'abat sur une base déjà mince : 90 % des répondants estiment créer un environnement d'apprentissage accessible et 87 % disent prendre activement en compte l'accessibilité, mais moins de la moitié (46 %) pensent que l'université offre des ressources suffisantes à cet égard, et environ un cinquième n'avait jamais entendu parler de techniques aussi élémentaires que les PDF lisibles par OCR ou les liens indépendants de la couleur. La demande dépasse l'offre — les inscriptions dans les universités ontariennes ont augmenté de 17 % entre 2013 et 2022, tandis que les inscriptions aux services d'accessibilité progressaient de 126 % — si bien que la thèse de l'étude est que le soutien à l'UDL doit être doté en ressources pour compenser les options d'évaluation que l'IA a supprimées.
 
 ### Connexions
 

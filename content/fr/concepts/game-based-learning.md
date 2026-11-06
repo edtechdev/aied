@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage par le jeu"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-01T08:10:00-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,10 +42,12 @@ Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagemen
 - **Jeux médiés par des robots :** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] est un jeu de rôle médié par un robot destiné à une intervention contre le harcèlement, et [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] utilise la [[storytelling-in-education|narration numérique]] interactive pour stimuler la motivation.
 - **Agents [[conversational-ai|conversationnels]] d'IA dans les jeux de simulation :** Wenzel, Geiger et Liening (2026) dérivent le cadre CAIS-GBL — quatre principes de conception et quinze caractéristiques de conception pour les agents conversationnels d'IA dans l'apprentissage par le jeu numérique — de méta-exigences théoriques couvrant l'engagement cognitif, motivationnel, [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]], avec une posture d'[[equity-in-ai-education|équité]] dès la conception. Leur agent instancié (Lara), dans un jeu de simulation d'entreprise, a été positivement accueilli pour la présence cognitive et [[community-of-inquiry|sociale]] et pour le soutien à l'[[self-regulated-learning|apprentissage autorégulé]], comblant le manque fréquent de rétroaction [[formative-assessment|formatif]] et de réflexion structurée dans les jeux de simulation.
 
-- **Efficacité de l'IA appliquée au GBL :** une revue systématique de 55 études sur l'apprentissage par le jeu assisté par IA met en évidence des effets positifs sur les connaissances, la motivation intrinsèque et l'engagement affectif, mais seulement 4 études (7%) atteignent son seuil de haute qualité et seulement 4 (7%) étaient des [[rct|ECR]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı et Yurt, 2026]]). L'efficacité tenait à l'alignement du mécanisme d'IA sur une [[learning-theories|théorie de l'apprentissage]] explicite.
-- **L'IAG comme auteur du jeu, non comme joueur :** [[xie-genai-mystery-game-legal-education-2026|Xie et coll. (2026)]] ont fait rédiger par un modèle sept personnages et le matériau narratif d'un jeu de rôle d'enquête hors ligne, et le jeu a ensuite battu le cours magistral du même enseignant dans un essai randomisé de 42 participants par bras (*η*² partiel = 0.566). Les étudiants n'ont jamais utilisé l'IA : l'effet appartient donc au format.
+- **Efficacité de l'IA appliquée au GBL :** une [[meta-analysis-systematic-review|méta-analyse]] portant sur 55 études d'apprentissage par le jeu assisté par IA fait état de gains en connaissances, en motivation intrinsèque et en engagement affectif, mais seulement 4 études (7%) franchissaient sa barre de haute qualité et seulement 4 (7%) étaient des [[rct|ECR]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı et Yurt, 2026]]). L'efficacité tenait à l'alignement du mécanisme d'IA sur une [[learning-theories|théorie de l'apprentissage]] explicite.
+- **L'[[generative-ai|IAG]] comme auteur du jeu, non comme joueur :** [[xie-genai-mystery-game-legal-education-2026|Xie et coll. (2026)]] ont fait rédiger par un modèle sept personnages et le matériau narratif d'un jeu de rôle d'enquête hors ligne, et le jeu a ensuite battu le cours magistral du même enseignant dans un essai randomisé de 42 participants par bras (*η*² partiel = 0.566). Les étudiants n'ont jamais utilisé l'IA : l'effet appartient donc au format.
 
-- **Les étudiants comme concepteurs de jeux plutôt que comme joueurs :** [[karampa-students-game-designers-ai-literacy-2026|Karampa et coll. (2026)]] ont fait concevoir à 22 élèves du primaire de 8 à 12 ans un jeu de plateau d'évasion augmenté sur la désinformation, en empilant l'[[project-based-learning|apprentissage par projet]], la [[design-thinking|pensée design]] et le cadre d'escape room Room2Educ8. La [[ai-literacy|littératie en IA]] composite sur un questionnaire DigComp 3.0 de 20 items est passée de 3.684 à 4.309 sur une échelle en 5 points, t(21) = −21.086, p < .001, les cinq domaines de compétence progressant. La classe a produit 11 propositions avec des invites d'IA et les a fusionnées en un seul jeu constructible. Auto-déclaration, une seule classe, et aucun groupe témoin.
+- **Les étudiants comme concepteurs de jeux plutôt que comme joueurs :** [[karampa-students-game-designers-ai-literacy-2026|Karampa et coll. (2026)]] ont fait concevoir à 22 élèves du primaire de 8 à 12 ans un jeu de plateau d'évasion augmenté sur la désinformation, en empilant l'[[project-based-learning|apprentissage par projet]], la [[design-thinking|pensée design]] et le cadre d'escape room Room2Educ8. La [[ai-literacy|littératie en IA]] composite sur un questionnaire DigComp 3.0 de 20 items est passée de 3.684 à 4.309 sur une échelle en 5 points, t(21) = −21.086, p < .001, les cinq domaines de compétence progressant. La classe a produit 11 propositions avec des invites d'IA et les a fusionnées en un seul jeu constructible. [[self-report-measures|Auto-déclaration]], une seule classe, et aucun groupe témoin.
+
+- **Scinder l'IA en un coach de dialogue et un moteur de difficulté.** Un environnement Roblox amélioré par l'IA pour la pensée computationnelle au secondaire supérieur associait un personnage non joueur GPT-4, limité à deux ou trois phrases et interdit de donner des réponses, à un moteur fondé sur des règles qui fixait la difficulté à partir du temps de résolution et du taux d'erreur ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang et Kanjug, 2026]]).
 
 ### Ludification
 
@@ -83,7 +85,7 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 
 - Élevez la qualité de conception du champ plutôt que son volume ; un taux de haute qualité de 7% est la contrainte déterminante de ce qui peut être conclu.
 
-- **La rétroaction conversationnelle dans une simulation accroît la charge utile sans réduire la charge extrinsèque.** Dans un jeu de simulation d'entreprise de cinq semaines avec **234 étudiants**, les utilisateurs réguliers d'un agent conversationnel de rétroaction fondé sur GPT-4o déclaraient une **charge cognitive utile significativement plus élevée** que les utilisateurs ayant accès sans s'engager (β = −.468, p < .001) et que le contrôle à rétroaction statique (β = −.253, p = .028) — tandis que **la charge extrinsèque ne montrait aucun effet** dans l'une ou l'autre spécification (F(1, 219) = 0.499, p = .481). Les deux charges **ont décliné au fil des cinq semaines** (extrinsèque β = −.388, p < .001), un effet de nouveauté mesuré sur la charge cognitive plutôt que sur l'engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger et Liening, 2026]]). Le point de conception est que la rétroaction portait la personnalisation, la signalisation, la segmentation et la structure de feed-forward sur 19 indicateurs concrets — la surface conversationnelle seule n'est pas le traitement.
+- **La rétroaction conversationnelle dans une simulation accroît la charge utile sans réduire la charge extrinsèque.** Dans un jeu de simulation d'entreprise de cinq semaines avec **234 étudiants**, les utilisateurs réguliers d'un agent conversationnel de rétroaction fondé sur GPT-4o déclaraient une **charge cognitive utile significativement plus élevée** que les utilisateurs ayant accès sans s'engager (β = −.468, p < .001) et que le contrôle à rétroaction statique (β = −.253, p = .028) — tandis que **la charge extrinsèque ne montrait aucun effet** dans l'une ou l'autre spécification (F(1, 219) = 0.499, p = .481). Les deux charges **ont décliné au fil des cinq semaines** (extrinsèque β = −.388, p < .001), un effet de nouveauté mesuré sur la charge cognitive plutôt que sur l'engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger et Liening, 2026]]). Le point de conception est que la rétroaction portait la [[personalized-learning|personnalisation]], la signalisation, la segmentation et la structure de feed-forward sur 19 indicateurs concrets — la surface conversationnelle seule n'est pas le traitement.
 
 ## Concepts liés
 
@@ -111,4 +113,6 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 - [[nasa-tlx-workload-gamified-ai-2026]] — Charge NASA-TLX dans les conditions ludifiées/IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS : motivation et ludification assistée par IA
 - [[xie-genai-mystery-game-legal-education-2026]] — Un jeu de rôle d'enquête écrit par l'IAG comparé au cours magistral en formation juridique (Xie et coll. 2026)
+
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Conception et validation préliminaire d'un environnement d'apprentissage par le jeu amélioré par l'IA pour la pensée computationnelle
 - [[karampa-students-game-designers-ai-literacy-2026]] — Des élèves du primaire conçoivent un jeu de plateau d'évasion ; la littératie en IA progresse en un seul atelier

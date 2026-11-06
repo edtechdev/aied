@@ -1,7 +1,7 @@
 ---
 title: "Transfert des apprentissages"
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 Le transfert des apprentissages est une préoccupation fondamentale en éducation [[research-methods-aied|recherche]], et les outils d'IA l'ont rendue urgente. Le schéma empirique déterminant documenté à travers les études sur l'IA en éducation est un **paradoxe du transfert** : les étudiants qui utilisent l'IA montrent typiquement des gains immédiats et mesurables sur les tâches où l'IA est disponible, mais ces gains échouent souvent à persister — voire s'inversent — lorsque l'IA est retirée et que les étudiants doivent démontrer leur compréhension de manière indépendante. Ce schéma met en cause le [[cognitive-offloading|sur-appui]], la théorie de la charge cognitive et la [[metacognition]] comme mécanismes à l'œuvre, et il se rattache directement aux débats sur la conception de l'[[intelligent-tutoring|tutorat par IA]].
 
-L'état de préparation n'est pas le transfert : la pratique orale assistée par IA a été associée à une anxiété à l'oral plus faible et à une plus grande volonté de communiquer avec des humains, mais aucune des deux études n'a observé de prise de parole humaine réelle, laissant la voie qui mène de la répétition avec l'IA à la capacité communicative humaine à l'état de proposition pédagogique non testée ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+L'état de préparation n'est pas le transfert : la pratique orale assistée par IA a été associée à une [[anxiety-and-stress|anxiété]] à l'oral plus faible et à une plus grande volonté de communiquer avec des humains, mais aucune des deux études n'a observé de prise de parole humaine réelle, laissant la voie qui mène de la répétition avec l'IA à la capacité communicative humaine à l'état de proposition pédagogique non testée ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### Le paradoxe du transfert
 
@@ -72,7 +72,7 @@ Les cinq études montrent un schéma de **transfert négatif ou nul** lorsque l'
 
 **Performance dépendante de l'outil.** Les étudiants peuvent optimiser pour les affordances spécifiques de l'outil d'IA ([[prompt-engineering|l'ingénierie des invites]], la dépendance à la structure de code générée) plutôt que de bâtir une généralisation disciplinaire — une forme de [[cognitive-offloading-speedup-illusion|délestage cognitif]] qui semble productive mais qui déplace l'apprentissage durable.
 
-Une classe protégée peut aussi inculquer une mauvaise habitude : [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avertissent que les simulations dont les règles sont fixées à l'avance filtrent l'incertitude et renforcent le respect des règles, de sorte que les habitudes de décision qui s'y forment peuvent devenir un handicap cognitif lorsque les étudiants rencontrent des intérêts concurrents et une information incomplète dans des contextes réels.
+Une classe protégée peut aussi inculquer une mauvaise habitude : [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avertissent que les [[simulation|simulations]] dont les règles sont fixées à l'avance filtrent l'incertitude et renforcent le respect des règles, de sorte que les habitudes de décision qui s'y forment peuvent devenir un handicap cognitif lorsque les étudiants rencontrent des intérêts concurrents et une information incomplète dans des contextes réels.
 **Délestage sensible à la couche et transfert.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] teste directement la distinction « effets avec / effets de la technologie » de Salomon, Perkins & Globerson dans la rédaction assistée par [[generative-ai|IA générative]] : une quasi-expérience de huit semaines a montré que la collaboration ouverte avec l'IA maximisait la performance de rédaction assistée, mais produisait les *plus faibles* résultats de transfert proche indépendant, sans IA, tandis qu'un soutien borné accompagné de réflexion préservait la compétence indépendante. Les couches de délestage plus profondes (raisonnement, structure) prédisaient un transfert moins bon que les couches de surface (grammaire). C'est la preuve directe, en classe, que les gains de performance obtenus *avec* le soutien de l'IA ne se transfèrent pas à la performance indépendante obtenue *sans* ce soutien — et que la profondeur de la délégation, et pas seulement le fait d'utiliser l'IA, façonne le transfert.
 
 Un exemple complémentaire, bien que confondu, vient de la [[physics-education|physique]] : la refonte par l'université de la Ruhr à Bochum d'un cours d'introduction à la physique nucléaire et des particules ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) a permis à des étudiants de mener à bien, avec l'aide de l'IA, des problèmes de recherche collaboratifs et riches en ressources, mais ces mêmes étudiants obtenaient en moyenne 20,6/80 à un examen écrit conventionnel sans aide, plusieurs tentatives sérieuses n'ayant pas pu mener à bien des calculs standard. Les auteurs y lisent la preuve que la performance assistée ne se transfère pas automatiquement à la performance non sollicitée, et leur remède est un choix délibéré de conception : faire de l'examen écrit le seul déterminant de la note, publier à l'avance les problèmes de tutorat pour que le temps de cours devienne une discussion préparée, et ajouter une préparation préalable, des exemples résolus et de la consolidation autour du travail exploratoire où l'IA est permise.

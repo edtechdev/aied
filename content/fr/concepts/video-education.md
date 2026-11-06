@@ -1,7 +1,7 @@
 ---
 title: "La vidéo en éducation"
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -9,7 +9,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La vidéo en éducation (Video in education)** — l'usage de la vidéo comme médium d'[[teacher-role|enseignement]] et d'apprentissage, et la manière dont l'[[generative-ai|IA générative]] le reconfigure : vidéos pédagogiques générées par l'IA et [[personalized-learning|personnalisées]] par elle, avatars et présentateurs IA, génération vidéo adaptative, [[learning-analytics|analytiques de l'apprentissage]] fondées sur la vidéo et détection de l'attention et de l'[[student-engagement|engagement]], et soutien de l'IA à la consommation des vidéos de cours. La base de connaissances traite la vidéo à la fois comme un médium établi de l'apprentissage en ligne et comme un site d'innovation en évolution rapide sous l'effet de l'IA, couvrant l'enseignement [[online-teaching-and-learning|en ligne]], hybride et en présentiel.
+> **La vidéo en éducation (Video in education)** — l'usage de la vidéo comme médium d'[[teacher-role|enseignement]] et d'apprentissage, et la manière dont l'[[generative-ai|IA générative]] le reconfigure : vidéos pédagogiques générées par l'IA et [[personalized-learning|personnalisées]] par elle, [[ai-avatars-and-synthetic-instructors|avatar]]s et présentateurs IA, génération vidéo adaptative, [[learning-analytics|analytiques de l'apprentissage]] fondées sur la vidéo et détection de l'attention et de l'[[student-engagement|engagement]], et soutien de l'IA à la consommation des vidéos de cours. La base de connaissances traite la vidéo à la fois comme un médium établi de l'apprentissage en ligne et comme un site d'innovation en évolution rapide sous l'effet de l'IA, couvrant l'enseignement [[online-teaching-and-learning|en ligne]], hybride et en présentiel.
 
 ## Questions à examiner
 
@@ -45,10 +45,11 @@ La vidéo est une pierre angulaire de l'éducation contemporaine — en particul
 - **La génération vidéo adaptative et structurée.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] offre un pipeline structuré qui génère une vidéo pédagogique adaptative ancrée dans les corpus de cours, montrant qu'une structure pédagogique explicite — et pas seulement la [[ai-literacy|fluidité en IA]] — pilote une vidéo IA efficace. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] applique la même logique à l'échelle du cours entier : à partir de 31 cours magistraux de deuxième cycle, il a généré 209 vidéos pour des publics de la santé, de la finance, de l'énergie et un public générique, et 25 experts appariés au domaine en notant 92 ont placé 87% au niveau ou au-dessus du point médian formulé comme « la qualité d'un cours MOOC standard » (moyenne 3.42 sur 5), pour un coût d'API d'environ \$0.22 par minute — la voix, le minutage des diapositives et la mise en page étant les défauts récurrents.
 - **Une boucle d'apprentissage bat un meilleur rendu.** [[pivot-generative-video-tutors-stem-2026|Ma et al. (2026)]] planifient chaque vidéo comme un storyboard d'objectifs, d'activation des prérequis, d'exemples travaillés et de sondages diagnostiques, associé à un quiz évitant les exemples de la vidéo et à une remédiation pour chaque mauvaise option ; 96.9% des 32 enseignants ont jugé la boucle plus efficace qu'une vidéo autonome.
 - **Les analytiques vidéo et l'attention.** Instrumenter la vidéo révèle la manière dont les apprenants s'engagent. L'[[engagement-assessment-video|évaluation de l'engagement dans l'apprentissage vidéo]] et [[savvy-student-attention-video-learning|SAVVY]] visualisent l'attention des étudiants pendant l'apprentissage fondé sur la vidéo, soutenant les [[learning-analytics|analytiques de l'apprentissage]], l'[[self-regulated-learning|autorégulation]] et l'alerte précoce en cas de désengagement. Les travaux de segmentation (par exemple la [[adhd-video-segmentation-computing-education|segmentation vidéo temporelle]]) ajustent la vidéo aux différences individuelles.
-- **Une lecture neuronale de l'encodage vidéo.** Les reconstructions EEG d'images vidéo visionnées étaient sémantiquement plus similaires pour les questions répondues correctement (M = 71.43) que pour les questions incorrectes (M = 62.30, p < .001), et un désalignement temporel systématique, des reconstructions ressemblant à des images antérieures, était quantifiable comme mesure de dispersion associée à la performance ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
+- **Une lecture neuronale de l'encodage vidéo.** Les reconstructions [[sensor-and-gaze-analytics|EEG]] d'images vidéo visionnées étaient sémantiquement plus similaires pour les questions répondues correctement (M = 71.43) que pour les questions incorrectes (M = 62.30, p < .001), et un désalignement temporel systématique, des reconstructions ressemblant à des images antérieures, était quantifiable comme mesure de dispersion associée à la performance ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
 - **Les avatars et la présence.** Les avatars IA — présentateurs virtuels et agents pédagogiques — soulèvent des questions d'identité, de [[community-of-inquiry|présence sociale]] et de confiance. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|L'identité de l'avatar et la confiance épistémique]] examine comment l'identité apparente d'un présentateur façonne la confiance des apprenants, tandis que les [[ai-psychotherapy-training-avatars|avatars IA en formation]] prolongent le schéma à la pratique professionnelle.
 - **Les commentaires d'étayage dans la vidéo — et ce que l'IA rate encore.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du et Jin (2026)]] génèrent des *i-Comments*, des messages d'[[scaffolding|étayage]] rendus à l'intérieur du cadre vidéo et synchronisés sur le contenu, en calculant l'entropie au niveau de l'image et en insérant du soutien uniquement dans les intervalles à faible information. Comparés aux commentaires de 120 commentaires d'enseignants expérimentés, les 1,000 commentaires de ChatGPT étaient plus denses, bien moins variés sur le plan structurel (diversité des POS 3-grammes de 5.5–6.2% contre 25.1–38.5%), plus difficiles à lire sur tous les indices de lisibilité, et moins alignés sur le plan thématique (BERTScore de soutien émotionnel 0.317 contre 0.574) ; 40 apprenants ont noté les commentaires humains significativement plus élevés sur le minutage et l'utilité, bien qu'un modèle plus récent ait réduit cet écart. L'argument est autant un argument de conception qu'un argument d'automatisation : le soutien intégré au média évite le coût attentionnel et cognitif de la mise en pause pour interroger un [[conversational-ai|agent conversationnel]] distinct ([[ai-feedback-quality|qualité de la rétroaction]], soutien [[social-emotional-learning|socioémotionnel]]).
 - **Le soutien de l'IA à la consommation des vidéos de cours.** Au-delà de la génération, l'IA aide les apprenants et les enseignants à travailler avec la vidéo existante : les [[bilingual-llm-lecture-companion-srl-2026|compagnons de cours LLM bilingues]] soutiennent l'apprentissage autorégulé avec les cours enregistrés, et les [[gemini-lualatex-physics-video-transcription-2026|pipelines de transcription]] convertissent la vidéo de cours en texte accessible.
+- **Le zoom au niveau de la région est la couche qui manquait aux diapositives narrées.** Une étude intra-sujets avec 24 spectateurs a constaté que le zoom automatique accompagné de surlignages synchronisés réduisait la charge de travail NASA-TLX de 5.74 à 4.53 (d = 0.84) et augmentait la compréhension immédiate (d = 0.46), bien que l'avantage à 24 heures ait manqué la significativité (p = .054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
 
 ### La personnalisation contre la présence humaine
 
@@ -85,7 +86,7 @@ Produire une vidéo IA efficace exige une structure pédagogique et une supervis
 **Pour les chercheurs**
 
 - Rapportez ensemble les mesures de préférence et de résultat, et dites clairement quand une étude ne dispose que de la première.
-- Rapportez explicitement l'alignement temporel, étant donné que le désalignement entre le contenu vidéo et le traitement cognitif apparaît dans les données neuronales.
+- Rapportez explicitement l'alignement temporel, étant donné que le désalignement entre le contenu vidéo et le [[cognitive-psychology|traitement cognitif]] apparaît dans les données neuronales.
 
 ## Concepts liés
 
@@ -116,3 +117,4 @@ Produire une vidéo IA efficace exige une structure pédagogique et une supervis
 - [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcrire une vidéo de cours de physique en texte accessible
 - [[pivot-generative-video-tutors-stem-2026]] — De la génération de contenus au soutien à l'apprentissage : des tuteurs vidéo génératifs guidés par la pédagogie pour l'apprentissage STIM
+- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! Dynamic Visual Guidance for AI-Narrated Slides

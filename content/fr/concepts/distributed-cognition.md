@@ -1,13 +1,13 @@
 ---
 title: "Cognition distribuée"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T17:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

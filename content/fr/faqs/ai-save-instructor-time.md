@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
@@ -57,7 +57,7 @@ C'est une réaffectation plutôt qu'une réduction : ce que vous gagnez avec l'[
 
 La qualité est inégale selon un schéma assez stable pour qu'on planifie autour. Les réviseurs en aveugle ont préféré les versions générées par IA des conclusions de cours et des billets de sortie dans 59.7% des cas à du matériel conçu par des professionnels, et préféré le matériel d'IA pour des contenus de niveau secondaire dans 59.2% des cas. L'économie augmente aussi là où votre confiance est la plus faible : enseigner hors de sa propre discipline est le cas où l'écart est le plus large entre ce que l'outil vous donne et ce que vous auriez écrit seul.
 
-Deux catégories vont dans l'autre sens. Sur du matériel de niveau primaire, les humains étaient préférés dans environ 65% des cas pour la pertinence développementale. Les [[scaffolding|étayages]] ciblés pour les apprenants [[multilingual-learning|plurilingues]] et les élèves en [[special-education|éducation spécialisée]] revenaient neutres plutôt que faux, ce qui est pire que cela en a l'air, puisqu'un étayage neutre est un étayage qu'on reconstruit depuis le début.
+Deux catégories vont dans l'autre sens. Sur du matériel de niveau primaire, les humains étaient préférés dans environ 65% des cas pour la pertinence développementale. Les [[scaffolding|étayages]] ciblés pour les [[learners|apprenants]] [[multilingual-learning|plurilingues]] et les élèves en [[special-education|éducation spécialisée]] revenaient neutres plutôt que faux, ce qui est pire que cela en a l'air, puisqu'un étayage neutre est un étayage qu'on reconstruit depuis le début.
 
 Le test qui prédit cela avant que vous n'y passiez une soirée : pouvez-vous énoncer la spécification assez précisément pour vérifier la sortie ? Un billet de sortie sur un objectif, oui. Si un paragraphe convient à une enfant de neuf ans précise qui lit avec deux ans de retard sur sa classe, non.
 
@@ -87,7 +87,7 @@ Vous pouvez recourir à la [[automated-essay-scoring|notation automatisée de di
 
 ## Ce que les enseignants comprennent mal
 
-**« Les 31%, c'est mon chiffre. »** Ce sont 259 enseignants de [[science-education|sciences]] du primaire et du secondaire sur la préparation de cours. La direction se transfère ; l'ampleur non. Un séminaire bâti sur la discussion peut économiser moins, et un cours de laboratoire avec des contraintes de sécurité peut n'économiser rien sur la partie pour laquelle vous vouliez le plus d'aide.
+**« Les 31%, c'est mon chiffre. »** Ce sont 259 enseignants de [[science-education|sciences]] [[k-12|du primaire et du secondaire]] sur la préparation de cours. La direction se transfère ; l'ampleur non. Un séminaire bâti sur la discussion peut économiser moins, et un cours de laboratoire avec des contraintes de sécurité peut n'économiser rien sur la partie pour laquelle vous vouliez le plus d'aide.
 
 **« Gagner du temps est l'objectif. »** L'expérience brésilienne est le contre-exemple. Les heures sont venues gratuitement et le quartile inférieur n'a rien gagné. L'objectif, c'est ce que les heures achètent.
 

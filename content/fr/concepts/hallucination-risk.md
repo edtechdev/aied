@@ -1,7 +1,7 @@
 ---
 title: "Risque d'hallucination"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:11:25-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Les **[[misconceptions|idées fausses]] stratégiques** sont un parent plus subt
 
 **Des preuves manipulées plutôt que fabriquées.** Un mode de défaillance apparenté dans la [[automated-assessment|notation automatisée]] est la production déplacée depuis l'extérieur. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a soumis à un test d'intrusion un flux de travail de notation par IA ordinaire et a montré que des instructions cachées à l'intérieur du fichier soumis augmentaient la note d'une dissertation en échec, sans avertissement visible, dans 9 itérations sur 9 pour une stratégie et 17 sur 18 pour une autre. Deux détails importent pour la [[trust-calibration|confiance]] : une injection détectée a été bloquée en désactivant silencieusement le dialogue, et n'a jamais été signalée à l'utilisateur ; et, lors d'une exécution où l'outil avait annoncé qu'il ne suivrait que les consignes officielles du travail, six nouvelles exécutions du même fichier ont malgré tout augmenté la note. Une note obtenue de cette manière n'emporte aucune revendication d'[[assessment-validity|validité]], et, parce que la manipulation ne laisse aucune trace durable, l'[[human-in-the-loop-ai|enseignant]] reste le seul véritable contrôle sur des productions conçues pour ne pas être visibles.
 
-Les défenses contre une telle manipulation portent leur propre compromis : un pipeline de garde-fous multicouche a laissé 46.34% des injections réussir et Prompt Guard 38.48%, tandis que NeMo Guardrails a bloqué chaque attaque mais a signalé 16.22% des requêtes d'étudiants inoffensives — un taux de faux positifs qui constitue en soi un préjudice pédagogique dans un tuteur ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
+Les défenses contre une telle manipulation portent leur propre compromis : un pipeline de garde-fous multicouche a laissé 46.34% des injections réussir et Prompt Guard 38.48%, tandis que NeMo [[guardrails]] a bloqué chaque attaque mais a signalé 16.22% des requêtes d'étudiants inoffensives — un taux de faux positifs qui constitue en soi un préjudice [[pedagogy|pédagogique]] dans un tuteur ([[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]).
 
 L'**hallucination dans le tutorat** affecte directement l'apprentissage. **[[yasir-llm-tutoring-agents-2026]]** a montré que les grands modèles de langue survalidaient des solutions incorrectes tout en rejetant à l'excès des raisonnements valables mais sous-optimaux — des défaillances systémiques qui tromperaient à la fois les étudiants et les enseignants. **[[eduframetrap-llm-sycophancy-educational-safety]]** et **[[eduguard-safe-rag-llm-tutor]]** traitent des mécanismes de sécurité pour les grands modèles de langue éducatifs. Ces risques rejoignent les exigences de [[pedagogical-safety|sécurité pédagogique]] et d'[[human-in-the-loop-ai|IA avec intervention humaine]].
 
@@ -69,7 +69,7 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 
 ## Idées fausses courantes
 
-- **« Les étudiants remarqueront les erreurs. »** Une **revue de 125 études** situe les taux d'hallucination à **10-40 %**, les **étudiants en médecine — parmi les apprenants les plus rigoureusement sélectionnés de l'enseignement supérieur — ne détectant les erreurs de l'IA que 44-55 % du temps**. Des taux de détection bien inférieurs à une fiabilité de niveau hasard signifient que la charge ne peut pas reposer sur le lecteur.
+- **« Les étudiants remarqueront les erreurs. »** Une **revue de 125 études** situe les taux d'hallucination à **10-40 %**, les **étudiants en médecine — parmi les apprenants les plus rigoureusement sélectionnés de l'[[higher-ed|enseignement supérieur]] — ne détectant les erreurs de l'IA que 44-55 % du temps**. Des taux de détection bien inférieurs à une fiabilité de niveau hasard signifient que la charge ne peut pas reposer sur le lecteur.
 - **« Les erreurs sont évidentes quand elles apparaissent. »** Une IA diagnostiquant des mathématiques manuscrites pouvait **fabriquer des citations de preuves inexistantes tout en affirmant sa confiance**. La défaillance n'était pas une réponse plausible mais fausse ; c'était un étayage inventé présenté avec certitude, la variété la plus difficile à attraper parce qu'elle se lit précisément comme la preuve qu'un lecteur attentif souhaiterait.
 - **« Une production sans citation est un problème de mise en forme. »** Dans un cours de troisième cycle qui avait remplacé son manuel commercial par des lectures générées par l'IA, seules **environ 0,80 % des 4 487 pages journalisées portaient une citation intratextuelle de style APA**. C'est une absence de provenance à l'échelle du corpus, et non une omission occasionnelle, ce qui signifie que la vérification n'a aucun point de départ.
 - **« L'hallucination est un problème de génération de modèle que les modèles plus récents résolvent. »** La plage de taux va de 10 à 40 % sur 125 études, ce qui est une propriété de la tâche et du déploiement autant que du modèle. Réduire les taux est un progrès réel et ne change rien au fait qu'un lecteur doit pouvoir vérifier.

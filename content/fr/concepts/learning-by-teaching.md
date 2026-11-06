@@ -1,7 +1,7 @@
 ---
 title: "Apprendre en enseignant"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-01T10:14:38-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,7 +72,7 @@ Deux affordances supplémentaires reviennent à travers la base de connaissances
 - **Les questions identifient les lacunes de connaissance.** Les systèmes de LbT emploient les questions générées par l'apprenant pour exposer les lacunes et renforcer la compréhension, et les [[teaching-ai-vocabulary-lbt-llms-2026|questions générées par les grands modèles de langue]] remplacent les générateurs rigides fondés sur des modèles types.
 - **Le réenseignement fait apparaître ce que la clarification manque.** Dans un système de révision post-cours réunissant 22 participants, le réenseignement réflexif d'un agent Pair a constamment exposé les écarts entre ce que les apprenants croyaient avoir compris et ce qu'ils pouvaient articuler, que la clarification fondée sur le cours seule n'avait pas révélés ([[knowloop-confusion-to-consolidation-2026|Fang et Reidsma (2026)]]).
 - **Le LbT [[scaffolding|étaye]] l'auto-[[regulation|régulation]].** Enseigner à un [[conversational-ai|agent conversationnel]] favorise le [[self-efficacy|sentiment d'efficacité personnelle]] et la mise en œuvre de stratégies d'apprentissage autorégulé, et relie le LbT aux [[desirable-difficulties|difficultés souhaitables]] — l'acte exigeant d'expliquer et de corriger est lui-même une lutte productive que la suppression des frictions par l'IA effacerait par ailleurs.
-- **Ce qui prédit l'apprentissage du tuteur est la construction de connaissances, non les connaissances préalables.** Sur 23 tuteurs de collège, la part des réponses qui construisaient le savoir plutôt qu'elles ne le reformulaient a prédit les scores au post-test conceptuel (β = .138, p < 0.05), tandis que les scores aux tests antérieurs n'ont pas prédit qui les produisait, et les tuteurs à faibles connaissances préalables qui construisaient le savoir ont terminé au même niveau que leurs pairs à connaissances préalables élevées ([[knowledge-building-tutor-learning-2026|Ameen et coll., 2026]]).
+- **Ce qui prédit l'apprentissage du tuteur est la construction de connaissances, non les [[prior-knowledge|connaissances préalables]].** Sur 23 tuteurs de collège, la part des réponses qui construisaient le savoir plutôt qu'elles ne le reformulaient a prédit les scores au post-test conceptuel (β = .138, p < 0.05), tandis que les scores aux tests antérieurs n'ont pas prédit qui les produisait, et les tuteurs à faibles connaissances préalables qui construisaient le savoir ont terminé au même niveau que leurs pairs à connaissances préalables élevées ([[knowledge-building-tutor-learning-2026|Ameen et coll., 2026]]).
 
 ## Pourquoi cela compte dans l'IA en éducation
 

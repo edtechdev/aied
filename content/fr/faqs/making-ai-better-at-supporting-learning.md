@@ -1,7 +1,7 @@
 ---
 title: "Comment rendre l'IA meilleure pour soutenir l'apprentissage dans notre propre discipline ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -56,7 +56,7 @@ L'entraînement est réel et parfois nécessaire. C'est la troisième ou la quat
 
 Avant de changer quoi que ce soit, consignez ce que renvoie une invite simple. Puis consignez ce que renvoie une méthode triviale.
 
-L'étude sur l'[[shen-sustainable-ai-knowledge-base-cs-education-2026|assistant de base de connaissances de cours]] vaut la lecture pour cela seul. Un LLM local sans récupération atteignait **52.3%** d'exactitude. Une référence TF-IDF, méthode lexicale vieille de plusieurs décennies, atteignait **55.4%**. Le modèle était moins bon que la méthode classique.
+L'étude sur l'[[shen-sustainable-ai-knowledge-base-cs-education-2026|assistant de base de connaissances de cours]] vaut la lecture pour cela seul. Un [[llm|LLM]] local sans récupération atteignait **52.3%** d'exactitude. Une référence TF-IDF, méthode lexicale vieille de plusieurs décennies, atteignait **55.4%**. Le modèle était moins bon que la méthode classique.
 
 Sautez cette étape et vous ne pouvez pas dire si votre affinage a aidé. Pire, vous pouvez livrer un système qu'une recherche par mots-clés bat, et ne le découvrir que lorsqu'un assistant d'enseignement le mentionne. Deux chiffres sur un tableur, relevés en un après-midi, protègent le reste du budget.
 
@@ -64,9 +64,9 @@ Sautez cette étape et vous ne pouvez pas dire si votre affinage a aidé. Pire, 
 
 L'ajout d'une [[rag|génération augmentée par récupération]] sur les supports de cours, sans aucun affinage, a fait passer ce même système de 52.3% à **66.6%**. Ce gain venait d'un index, et il s'accompagne d'une propriété qu'un entraînement n'a pas : quand vos documents changent, vous réindexez.
 
-Deux autres résultats vont dans le même sens. Une revue PRISMA de 23 études empiriques sur la personnalisation de l'IA pour [[writing-education|l'enseignement de l'écriture]] a trouvé l'**ingénierie d'invite dominante (N = 13), devant l'affinage (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Là où une base de connaissances doit rester à jour, la récupération est le seul levier qui reste à jour sans relancer une tâche d'entraînement.
+Deux autres résultats vont dans le même sens. Une revue [[meta-analysis-systematic-review|PRISMA]] de 23 études empiriques sur la personnalisation de l'IA pour [[writing-education|l'enseignement de l'écriture]] a trouvé l'**[[prompt-engineering|ingénierie d'invite]] dominante (N = 13), devant l'affinage (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Là où une base de connaissances doit rester à jour, la récupération est le seul levier qui reste à jour sans relancer une tâche d'entraînement.
 
-La récupération a aussi une forme pédagogique. Ancrer un modèle dans vos propres exemples traités et vos grilles, c'est ainsi qu'il reste à l'intérieur de l'[[scaffolding|étayage]] que vous avez conçu, en répondant au niveau que vous avez fixé au lieu de dériver vers des conseils génériques. Cette dérive est la plainte la plus fréquente à l'égard des tuteurs du commerce, et c'est un problème de récupération plus souvent qu'un problème de poids.
+La récupération a aussi une forme [[pedagogy|pédagogique]]. Ancrer un modèle dans vos propres exemples traités et vos grilles, c'est ainsi qu'il reste à l'intérieur de l'[[scaffolding|étayage]] que vous avez conçu, en répondant au niveau que vous avez fixé au lieu de dériver vers des conseils génériques. Cette dérive est la plainte la plus fréquente à l'égard des tuteurs du commerce, et c'est un problème de récupération plus souvent qu'un problème de poids.
 
 ## Écrivez l'invite contre votre grille, et guettez le plateau
 
@@ -83,9 +83,9 @@ Notez ce que le résultat de génération d'items implique pour l'ordonnancement
 
 L'adaptation paie quand vous avez besoin que le modèle tienne une propriété de façon fiable : un niveau de lecture, un format de sortie, un domaine qui lui manque. Le résultat récurrent est que **la visée bat la taille**.
 
-- Trois modèles **8B** affinés sur un programme de lecture pour enfants conçu par des experts ont surpassé GPT-4o et Llama 3.3 70B en zéro-shot sur les métriques liées à la difficulté, avec des problèmes de sécurité négligeables. Les auteurs formulent cela comme la **contrôlabilité plutôt que l'échelle** ([[llm-children-reading-story-generation]]).
+- Trois modèles **8B** affinés sur un [[curriculum-design|programme de lecture]] pour enfants conçu par des experts ont surpassé GPT-4o et Llama 3.3 70B en zéro-shot sur les métriques liées à la difficulté, avec des problèmes de sécurité négligeables. Les auteurs formulent cela comme la **contrôlabilité plutôt que l'échelle** ([[llm-children-reading-story-generation]]).
 - Un jeu d'instructions de **24.795 exemples** ancré dans les systèmes de savoir indiens a produit un affinage **7B** obtenant **6.39** auprès d'un panel externe de cinq juges, à **0.15** d'un modèle de référence général fort pour une fraction du coût de déploiement. Le même modèle de base obtenait **un score proche de zéro sur les dimensions propres au domaine** sans l'affinage ([[iks-instruct-dataset-indian-knowledge]]). Cet écart entre être compétent en général et compétent ici, c'est tout l'argument de l'adaptation au domaine.
-- Un seul adaptateur [[llm-training-and-fine-tuning|LoRA]] entraîné sur environ **3.900** exemples notés mis en commun a amené cinq petits modèles ouverts (de 4B à 30B) à parité ou mieux avec un correcteur humain sur deux examens d'informatique ([[llm-graders-computer-science-exams-2026]]). Un adaptateur, un jeu de données, plusieurs modèles de base : c'est la forme de déploiement qu'une petite équipe peut faire tourner.
+- Un seul adaptateur [[llm-training-and-fine-tuning|LoRA]] entraîné sur environ **3.900** exemples notés mis en commun a amené cinq petits [[open-source|modèles ouverts]] (de 4B à 30B) à parité ou mieux avec un correcteur humain sur deux examens d'informatique ([[llm-graders-computer-science-exams-2026]]). Un adaptateur, un jeu de données, plusieurs modèles de base : c'est la forme de déploiement qu'une petite équipe peut faire tourner.
 
 Le mot *stable* dans le titre porte tout le poids. Le format, la grille, le niveau de lecture et le vocabulaire de domaine sont des cibles stables. Une prose chargée de jugement n'a pas de cible de ce type, et c'est là que l'adaptation échoue, comme le montrent les deux sections suivantes.
 
@@ -93,7 +93,7 @@ Le mot *stable* dans le titre porte tout le poids. Le format, la grille, le nive
 
 L'adaptation apprend à un modèle *quoi produire*. Le post-entraînement lui apprend *comment se comporter*. Pour le tutorat, cette distinction est tout le problème : les modèles généraux sont post-entraînés sur la préférence humaine pour l'utilité, ce qui signifie répondre promptement, et enseigner exige de retenir la réponse.
 
-Les résultats éducatifs les plus solides de ce corpus se trouvent ici. Le modèle de récompense d'EduQwen privilégiait explicitement les **réponses guidantes plutôt que les réponses directes**, et son pipeline en trois étapes atteignait **96.52%** sur le banc d'essai CDPK contre **90.55%** pour Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Le simulateur d'écriture de SWIM est passé de l'invite ancrée dans la grille (meilleur QWK **0.577**) à l'affinage supervisé (**0.474 ± 0.023**) puis à l'apprentissage par renforcement (**0.618 ± 0.005**) sur chaque trait et chaque invite ([[swim-student-writing-simulation-2026]]).
+Les résultats éducatifs les plus solides de ce corpus se trouvent ici. Le modèle de récompense d'EduQwen privilégiait explicitement les **réponses guidantes plutôt que les réponses directes**, et son pipeline en trois étapes atteignait **96.52%** sur le banc d'essai CDPK contre **90.55%** pour Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Le [[simulation|simulateur]] d'écriture de SWIM est passé de l'invite ancrée dans la grille (meilleur QWK **0.577**) à l'affinage supervisé (**0.474 ± 0.023**) puis à l'[[reinforcement-learning|apprentissage par renforcement]] (**0.618 ± 0.005**) sur chaque trait et chaque invite ([[swim-student-writing-simulation-2026]]).
 
 Lisez les chiffres de SWIM attentivement, car l'étape du milieu recule. L'affinage supervisé sur des démonstrations a rendu le simulateur moins bon que l'invite dont il partait, et seul le signal de récompense a récupéré la perte puis dépassé la référence. Si votre plan s'arrête à l'affinage supervisé, ce plan est peut-être un détour.
 
@@ -129,7 +129,7 @@ Le coût facile à sous-estimer est l'évaluation, qui dépasse la facture de ca
 
 ## Calibrez ce que vous attendez
 
-Le choix du modèle et celui de l'invite expliquent ensemble seulement environ **15%** du désalignement entre les LLM et les gains d'apprentissage des étudiants, et dans cette étude, les ensembles par pondération de bancs d'essai et par vote unanime rendaient l'alignement *pire* ([[educational-llm-alignment]]). Les données de pré-entraînement sont le levier dominant du comportement d'un modèle, et c'est le seul levier que vous ne pouvez pas actionner.
+Le choix du modèle et celui de l'invite expliquent ensemble seulement environ **15%** du désalignement entre les LLM et les [[learning-gains|gains d'apprentissage]] des étudiants, et dans cette étude, les ensembles par pondération de bancs d'essai et par vote unanime rendaient l'alignement *pire* ([[educational-llm-alignment]]). Les données de pré-entraînement sont le levier dominant du comportement d'un modèle, et c'est le seul levier que vous ne pouvez pas actionner.
 
 Rien de tout cela ne plaide contre le travail exposé plus haut. Cela plaide contre l'attente qu'un affinage corrige un problème de conception. Si le problème est que votre tuteur répond trop volontiers, l'entraînement peut y répondre. Si le problème est que vos apprenants ne s'y engagent pas, l'entraînement n'y répondra pas, et le chiffre de 15% dit que l'argent est mieux dépensé ailleurs.
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
@@ -63,9 +63,9 @@ Puis changez l'artefact. Une [[meta-analysis-systematic-review|revue systématiq
 
 Le menu, à peu près dans l'ordre de ce qui survit le mieux à une grande classe.
 
-Sans assistance, en classe, à livre fermé : examens surveillés, questionnaires, rédaction chronométrée. Donnez-leur plus de poids qu'avant, car les devoirs à la maison sont l'artefact que l'IA gonfle. Les examens oraux et les soutenances fonctionnent pour la même raison, le dialogue en temps réel étant difficile à externaliser ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Sans assistance, en classe, à livre fermé : examens surveillés, questionnaires, rédaction chronométrée. Donnez-leur plus de poids qu'avant, car les devoirs à la maison sont l'artefact que l'IA gonfle. Les [[oral-assessment|examens oraux]] et les soutenances fonctionnent pour la même raison, le dialogue en temps réel étant difficile à externaliser ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Les artefacts de processus : brouillons, traces de raisonnement, annotations « montrez votre raisonnement », journaux de révision, afin que le *processus* soit visible et non seulement le produit ([[authentic-products-authenticated-processes-2026]]). Les tâches authentiques les accompagnent : cas locaux, matériel de stage, données propres à l'étudiant, tout ce qui est difficile à déléguer ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Les artefacts de processus : brouillons, traces de raisonnement, annotations « montrez votre raisonnement », journaux de révision, afin que le *processus* soit visible et non seulement le produit ([[authentic-products-authenticated-processes-2026]]). Les [[authentic-assessment|tâches authentiques]] les accompagnent : cas locaux, matériel de stage, données propres à l'étudiant, tout ce qui est difficile à déléguer ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 La variation de tâche par étudiant, où chacun reçoit une version distincte en surface mais équivalente sur le plan du construit, rend la copie structurellement inutile. Traitez la garantie comme conditionnelle à la capacité : [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] a constaté que les générateurs de pointe n'atteignaient que 0.81-0.88 sur un score d'intégrité conjoint, tandis que les modèles non de pointe s'effondrent à 0.50-0.55. Si vos variantes ne sont pas équivalentes, vous avez acheté une protection contre le partage au prix d'une injustice entre étudiants.
 
@@ -103,7 +103,7 @@ Rédigez la règle avec précision, aussi. [[wright-transcription-not-generation
 
 Interdire l'outil et le permettre sans structure produisent le même résultat : des étudiants qui se tiennent à l'extérieur du travail cognitif.
 
-La synthèse Réduire le mésusage de l'IA expose huit principes de conception pour la version permise, dont : préserver la [[desirable-difficulties|friction cognitive]], positionner l'IA comme partenaire de réflexion provisoire plutôt que comme autorité, intégrer des points de contrôle de l'évaluation, et exiger un journal [[metacognition|métacognitif]] et des journaux de prompts.
+La synthèse Réduire le mésusage de l'IA expose huit principes de conception pour la version permise, dont : préserver la [[desirable-difficulties|friction cognitive]], positionner l'IA comme partenaire de réflexion provisoire plutôt que comme autorité, intégrer des points de contrôle de l'évaluation, et exiger un [[reflection|journal]] [[metacognition|métacognitif]] et des journaux de prompts.
 
 La séquence qui porte ces principes est assez courte pour être imprimée sur une feuille de devoir :
 
@@ -129,7 +129,7 @@ L'exemple mesuré est un module de [[k-12|maternelle à la 12e année]] utilisan
 
 Ce que les étudiants croient réellement est moins cynique que la panique ne le suggère. Parmi 504 étudiants en sociologie, 65% avaient utilisé l'IA générative pour leurs travaux, mais seulement 3% pour générer le texte d'un devoir et 2% pour générer un brouillon complet. 81% avaient reçu des consignes sur l'IA et seulement 46% les trouvaient très claires ([[student-genai-use-views-writing]]). L'ambiguïté, et non la défiance, est le problème pratique, ce qui explique qu'une règle claire plus une séquence enseignée modifie plus de comportements qu'un avertissement. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa et Mezgebu (2026)]] décrivent des étudiants qui se demandent si l'IA générative est un outil qui facilite la tricherie ou un partenaire qui soutient l'apprentissage, et c'est à cette question que vos attentes doivent répondre.
 
-Le préjudice qu'il vaut la peine d'enseigner explicitement est l'[[ai-misuse-learning-harm|écart performance-apprentissage]] : la performance monte maintenant, l'apprentissage baisse plus tard, et l'étudiant ne vit que le premier. [[ai-tools-academic-work-cheating-2026]] et [[student-rationalization-ai-writing]] couvrent le versant des normes entre pairs et de la rationalisation, y compris la défense du « tout le monde le fait » qu'une norme claire désamorce. Pour savoir à quel point cette base est solide, voir [[ai-literacy-evidence]] et [[top-10-findings-ai-education-instructors|Les 10 principales conclusions de la recherche sur l'IA en éducation]].
+Le préjudice qu'il vaut la peine d'enseigner explicitement est l'[[ai-misuse-learning-harm|écart performance-apprentissage]] : la performance monte maintenant, l'apprentissage baisse plus tard, et l'[[student-experience|étudiant]] ne vit que le premier. [[ai-tools-academic-work-cheating-2026]] et [[student-rationalization-ai-writing]] couvrent le versant des normes entre pairs et de la rationalisation, y compris la défense du « tout le monde le fait » qu'une norme claire désamorce. Pour savoir à quel point cette base est solide, voir [[ai-literacy-evidence]] et [[top-10-findings-ai-education-instructors|Les 10 principales conclusions de la recherche sur l'IA en éducation]].
 
 ## Ce que les enseignants se trompent là-dessus
 

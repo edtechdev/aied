@@ -1,14 +1,14 @@
 ---
 title: "Apprentissage incarné"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ L'apprentissage incarné est étroitement apparenté à l'[[active-learning|appr
 
 - **La programmation ancrée :** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancre la [[cs-education|programmation à blocs]] dans une exécution robotique incarnée, créant une boucle serrée d'écriture, d'exécution, d'observation et de révision, de sorte que les apprenants voient leur code devenir un comportement.
 - **L'interaction sociale robotique :** les [[educational-robotics|robots sociaux]] employés pour la [[storytelling-in-education|narration]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), le jeu de rôle ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) et la langue des signes ([[pepper-robot-sign-language-lis-2025|Pepper]]) offrent une interaction sociale incarnée qui soutient l'apprentissage relationnel et [[social-emotional-learning|émotionnel]].
-- **Les traits d'incarnation ne sont pas ce qui pilote les résultats.** Une méta-analyse de 11 études RALL (N = 595, g = 0.83, I² = 84.4%) a montré que la morphologie du robot, la modalité, l'autonomie et le rôle social ne modéraient pas l'apprentissage de la L2 ; les formats en groupe battaient le tête-à-tête : c'est donc la position du robot, et non son incarnation, qui portait l'effet ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
+- **Les traits d'incarnation ne sont pas ce qui pilote les résultats.** Une [[meta-analysis-systematic-review|méta-analyse]] de 11 études RALL (N = 595, g = 0.83, I² = 84.4%) a montré que la morphologie du robot, la modalité, l'autonomie et le rôle social ne modéraient pas l'apprentissage de la L2 ; les formats en groupe battaient le tête-à-tête : c'est donc la position du robot, et non son incarnation, qui portait l'effet ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
 - **L'incarnation et l'écriture créative :** la [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|recherche sur l'intégration robot-LLM en écriture créative]] examine comment l'incarnation affecte l'interaction et les résultats des apprenants.
 - **L'interaction humain-robot :** la recherche sur l'[[educational-robotics|IHR]] ([[task-context-trust-educational-hri-2026|confiance]], [[human-autonomy-agency-hri-review-2025|agence]]) examine comment l'incarnation physique façonne la confiance, l'[[student-engagement|engagement]] et l'[[agency|autonomie]].
 - **Le geste comme preuve de compréhension :** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et collègues]] intègrent le suivi des gestes par vision par ordinateur à l'analyse de la parole par [[llm]] pour montrer que la compréhension conceptuelle des statistiques chez les étudiants en ingénierie s'exprime à la fois par la parole et par le geste. Les gestes explicatifs à forte confiance se regroupent autour de concepts spécifiques (surtout la moyenne), et un couplage étroit entre geste et parole signale un propos conceptuel cohérent, tandis que la divergence marque des idées en développement — ce qui positionne l'action incarnée comme une preuve dans l'[[assessment-validity|évaluation]], via l'analytique de l'apprentissage [[multimodal|multimodale]], et pas seulement comme un mécanisme d'apprentissage.
@@ -58,10 +58,13 @@ Un second fil, plus théorique, de la recherche de la base de connaissances sur 
 L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], l'[[active-learning|apprentissage actif]], l'[[experiential-learning|apprentissage expérientiel]], l'[[situated-learning|apprentissage situé]], la [[distributed-cognition|cognition distribuée]], la [[computational-thinking|pensée informatique]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].
 
 - **Le suivi corporel transforme la régulation en signal mesurable.** Dans une simulation de photosynthèse en réalité mixte où des marqueurs de mouvement déplaçaient des agents étudiants à travers un modèle projeté, une chaîne de traitement par LLM a étiqueté 470 segments de comportement autorégulé dans 40 minutes de vidéo, la domination en acte représentant 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **L'IA observe surtout le corps plutôt que d'y participer.** Dans une revue PRISMA de 23 études sur l'IA pour l'apprentissage incarné, les 40 rôles d'IA codés étaient dominés par la détection : analyse et évaluation 40.0% et reconnaissance et détection 22.5%, contre 35.0% pour les rôles agissant à l'intérieur de l'activité (rétroaction et coaching 15.0%, interaction 12.5%, création de contenu 7.5%). Retirer les trois articles notés faibles et les quatre non évaluables réduit l'interaction à 6.7% et la création de contenu à 3.3% ; les preuves que l'IA rejoint la boucle incarnée reposent donc sur les articles les plus faibles ([[kim-ai-embodied-learning-review-2026|Kim et Han (2026)]]).
+
+- **La littérature la plus corporelle mesure le moins le corps.** Sur 32 étiquettes de résultats, les résultats cognitifs en représentaient 43.8%, les affectifs 34.4% et les psychomoteurs 21.9%, un ordre qui se maintenait parmi les 16 articles les mieux notés (24.0% des 25 étiquettes). Les auteurs incriminent la difficulté de sélectionner des mesures psychomotrices et une habitude de privilégier les gains cognitifs, non un faible effet sur l'habileté corporelle. Aucun des systèmes examinés n'avait été conçu pour des apprenants agissant ensemble ; la collaboration qui apparaît est une coopération entre l'[[teacher-role|enseignant]] et l'IA ([[kim-ai-embodied-learning-review-2026|Kim et Han (2026)]]).
 
 ## Idées fausses courantes
 
-- **« C'est le corps qui fait fonctionner l'apprentissage incarné. »** Une méta-analyse de **11 études RALL (N = 595, g = 0,83, I² = 84,4 %)** a constaté que **la morphologie du robot, la modalité, l'autonomie et le rôle social ne modéraient pas** les résultats en apprentissage des langues secondes. Les traits d'incarnation n'étaient pas l'ingrédient actif, et l'hétérogénéité était assez forte (I² = 84,4 %) pour que l'effet regroupé décrive un ensemble d'interventions très mêlé.
+- **« C'est le corps qui fait fonctionner l'apprentissage incarné. »** Une méta-analyse de **11 études RALL (N = 595, g = 0,83, I² = 84,4 %)** a constaté que **la morphologie du robot, la modalité, l'autonomie et le rôle social ne modéraient pas** les résultats en [[language-learning|apprentissage des langues]] secondes. Les traits d'incarnation n'étaient pas l'ingrédient actif, et l'hétérogénéité était assez forte (I² = 84,4 %) pour que l'effet regroupé décrive un ensemble d'interventions très mêlé.
 - **« Un effet important tranche le mécanisme. »** g = 0,83 avec 595 participants dans 11 études est un signal réel, et il n'identifie pas ce qui l'a produit. Puisque les traits de conception ne modéraient pas l'effet, le mécanisme plausible se situe dans l'activité pédagogique plutôt que dans le matériel — ce qui change ce qu'il faut financer.
 - **« L'incarnation ne peut pas être mesurée, elle reste donc théorique. »** Le suivi corporel peut transformer la régulation en **signal mesurable** : dans une simulation de photosynthèse en réalité mixte où des étiquettes de mouvement déplaçaient les agents-élèves sur un modèle projeté, un pipeline LLM a étiqueté **470 segments** de comportement autorégulé. Le construit est opérationnalisable, même là où il est difficile à définir.
 
@@ -95,3 +98,5 @@ L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]] — L'IA comme facilitateur après des modèles construits à la main : une IA langagière ne peut pas suivre une investigation incarnée (Tufino & Damiani 2026)
+
+- [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe surtout : les rôles de détection représentent 62.5% des étiquettes de rôles codées, et aucun système examiné ne fusionnait les flux multimodaux pendant que les apprenants l'utilisaient (Kim et Han 2026)

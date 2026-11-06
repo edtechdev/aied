@@ -1,7 +1,7 @@
 ---
 title: "Comment entraîner un tuteur d'IA à guider les étudiants plutôt qu'à leur répondre ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
@@ -32,9 +32,9 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Votre tuteur donne la réponse. La démonstration ne l'a pas montré, parce que la question était facile et l'étudiant coopératif. Les journaux du pilote le montrent : un étudiant demande deux fois, le modèle reformule la méthode, puis résout. Un enseignant observe une session et dit que c'est un agent conversationnel avec une voix sympathique. Vous décidez maintenant s'il faut consacrer un quart du temps d'ingénierie à un post-entraînement ou livrer avec un meilleur prompt système.
+Votre tuteur donne la réponse. La démonstration ne l'a pas montré, parce que la question était facile et l'étudiant coopératif. Les journaux du pilote le montrent : un étudiant demande deux fois, le modèle reformule la méthode, puis résout. Un [[teacher-role|enseignant]] observe une session et dit que c'est un [[conversational-ai|agent conversationnel]] avec une voix sympathique. Vous décidez maintenant s'il faut consacrer un quart du temps d'ingénierie à un post-entraînement ou livrer avec un meilleur prompt système.
 
-La réponse courte : le prompting ne supprime pas l'attirance vers la réponse, parce que l'utilité est ce que le modèle de base a été entraîné à produire. Si le comportement de guidage est le produit, il faut l'entraîner, et la variable qui décide du résultat est la **récompense**. Écrivez la récompense contre un benchmark, mettez le raisonnement au niveau de l'étape dans les données d'entraînement, et jugez l'entraînement sur le prochain geste pédagogique que le modèle choisit.
+La réponse courte : le prompting ne supprime pas l'attirance vers la réponse, parce que l'utilité est ce que le modèle de base a été entraîné à produire. Si le comportement de guidage est le produit, il faut l'entraîner, et la variable qui décide du résultat est la **récompense**. Écrivez la récompense contre un benchmark, mettez le raisonnement au niveau de l'étape dans les données d'entraînement, et jugez l'entraînement sur le prochain geste [[pedagogy|pédagogique]] que le modèle choisit.
 
 ## La version courte
 
@@ -44,7 +44,7 @@ La réponse courte : le prompting ne supprime pas l'attirance vers la réponse, 
 
 **3.** Entraînez sur des traces au niveau de l'étape. Un corpus de paires question-bonne réponse ne peut pas apprendre à un modèle à voir où un étudiant s'est trompé.
 
-**4.** Préférez l'apprentissage par renforcement à l'imitation quand le jugement compte, et conservez les scores des étapes intermédiaires.
+**4.** Préférez l'[[reinforcement-learning|apprentissage par renforcement]] à l'imitation quand le jugement compte, et conservez les scores des étapes intermédiaires.
 
 **5.** Rendez la récompense assez dense pour se déclencher sur la plupart des réponses, et faites l'évaluation sur des conversations entières.
 
@@ -66,13 +66,13 @@ Deux conséquences en découlent. Attendez-vous à ce que la récompense soit d�
 
 ## Faire en sorte que la récompense se déclenche assez souvent pour enseigner
 
-Une récompense par correspondance exacte est trop clairsemée quand ce qui vous intéresse a plusieurs dimensions. Le simulateur d'écriture SWIM montre clairement la progression : le prompting ancré sur une grille d'évaluation atteignait un QWK moyen de trait au mieux de **0.577** avec Claude Sonnet et de **0.422** avec GPT-5.4, et près de zéro pour un modèle ouvert de 7B ; l'affinage supervisé atteignait **0.474 ± 0.023** pour ce modèle 7B ; le GRPO avec une récompense dense et normalisée par trait atteignait **0.618 ± 0.005** sur tous les traits et tous les prompts ([[swim-student-writing-simulation-2026]]).
+Une récompense par correspondance exacte est trop clairsemée quand ce qui vous intéresse a plusieurs dimensions. Le [[simulation|simulateur]] d'écriture SWIM montre clairement la progression : le prompting ancré sur une grille d'évaluation atteignait un QWK moyen de trait au mieux de **0.577** avec Claude Sonnet et de **0.422** avec GPT-5.4, et près de zéro pour un modèle ouvert de 7B ; l'affinage supervisé atteignait **0.474 ± 0.023** pour ce modèle 7B ; le GRPO avec une récompense dense et normalisée par trait atteignait **0.618 ± 0.005** sur tous les traits et tous les prompts ([[swim-student-writing-simulation-2026]]).
 
 C'est la conception de la récompense qui a produit cet écart. Un signal dense et normalisé par trait bat la correspondance exacte dans un cadre multi-traits, et si votre récompense ne se déclenche que sur une réponse parfaite, l'essentiel de votre signal d'entraînement est du silence.
 
 ## Mettre le raisonnement dans les exemples
 
-Le résultat le plus actionnable de ce domaine concerne ce que les données d'entraînement doivent contenir. Des modèles affinés sur instructions n'ont appris les conceptions erronées en algèbre que lorsqu'ils étaient entraînés sur des **traces de solution au niveau de l'étape**. Entraînés sur les seules réponses finales, l'exactitude est restée **sous 30% à toutes les tailles de données** ([[misconception-acquisition-dynamics-llms-2026]]).
+Le résultat le plus actionnable de ce domaine concerne ce que les données d'entraînement doivent contenir. Des modèles affinés sur instructions n'ont appris les [[misconceptions|conceptions erronées]] en algèbre que lorsqu'ils étaient entraînés sur des **traces de solution au niveau de l'étape**. Entraînés sur les seules réponses finales, l'exactitude est restée **sous 30% à toutes les tailles de données** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Deux détails de cette étude comptent pour quiconque construit l'un ou l'autre côté d'un tuteur. Le rôle d'étudiant a surgénéralisé l'erreur apprise jusqu'à ce que des exemples corrects soient mélangés à des ratios aussi bas que **un sur quatre**. Le rôle de tuteur n'a montré aucun coût de ce type, tenant une exactitude correcte de **93% à 98%** sur dix conceptions erronées entraînées conjointement.
 
@@ -88,7 +88,7 @@ La lecture pratique : si votre défaillance est un ton erroné ou un format manq
 
 ## Étiqueter chaque exemple avec le comportement qu'il enseigne
 
-Si la supervision doit contenir le raisonnement, le schéma d'étiquetage est une décision de programme. Une étude des étiquettes de supervision a trouvé qu'attribuer à chaque exemple d'entraînement un comportement cible, parmi la compétence disciplinaire, l'ancrage dans le programme, le raisonnement diagnostique et l'étayage, augmentait les scores à toutes les tailles de modèle testées, les gains les plus importants portant sur l'étayage et sur l'usage de l'historique d'un apprenant. Le diagnostic de l'état des connaissances restait le comportement le plus faible à **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Le diagnostic est l'élément le plus difficile de cette liste, donc prévoyez-le dans le budget.
+Si la supervision doit contenir le raisonnement, le schéma d'étiquetage est une décision de [[curriculum-design|programme]]. Une étude des étiquettes de supervision a trouvé qu'attribuer à chaque exemple d'entraînement un comportement cible, parmi la compétence disciplinaire, l'ancrage dans le programme, le raisonnement diagnostique et l'[[scaffolding|étayage]], augmentait les scores à toutes les tailles de modèle testées, les gains les plus importants portant sur l'étayage et sur l'usage de l'historique d'un apprenant. Le diagnostic de l'état des connaissances restait le comportement le plus faible à **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Le diagnostic est l'élément le plus difficile de cette liste, donc prévoyez-le dans le budget.
 
 La sélection des données est un problème d'entraînement à part entière. Edu-QuRating adapte la distillation de préférences à la curation de données éducatives, en remplaçant un score unique « est-ce éducatif ? » par **20 dimensions de grille** couvrant l'exactitude factuelle, la structure pédagogique et la pertinence de niveau ([[garrod-edu-qurating-educational-data-curation-2026]]). Si vous assemblez un corpus à partir de texte du web, ce filtre décide de ce à quoi votre modèle apprendra à ressembler.
 
@@ -106,7 +106,7 @@ Une voie moins coûteuse est la distillation. Pedagogy-R1, en 1.5B et 7B, a ét�
 
 Le post-entraînement ne façonne pas nécessairement que ce que le modèle dit. TACT a post-entraîné un tuteur sur une taxonomie de 13 stratégies et une taxonomie de gestes d'étudiant à deux axes, et a gagné **20.30 points** sur son socle Qwen3.5-4B, avec un benchmark diagnostique qui **retient les étiquettes d'état de l'apprenant** disponibles pendant l'entraînement, obligeant le modèle à inférer l'état à partir du dialogue ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-La même logique traverse l'alignement en [[special-education|éducation spécialisée]] ([[special-r1-rl-special-education]]) et les travaux de RL heuristique qui alignent les modèles comme guides socratiques plutôt que comme répondeurs ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Une plateforme va plus loin et entraîne la politique plutôt que la prose : un agent d'apprentissage par renforcement choisit le prochain exercice, de sorte que ce que l'apprenant fait ensuite est décidé par le modèle entraîné ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+La même logique traverse l'alignement en [[special-education|éducation spécialisée]] ([[special-r1-rl-special-education]]) et les travaux de RL heuristique qui alignent les modèles comme guides [[socratic-method|socratiques]] plutôt que comme répondeurs ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Une plateforme va plus loin et entraîne la politique plutôt que la prose : un agent d'apprentissage par renforcement choisit le prochain exercice, de sorte que ce que l'apprenant fait ensuite est décidé par le modèle entraîné ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Ce dernier cas est le test qui dit si vous avez conçu un tuteur ou un générateur de texte. Si la seule sortie du modèle est de la prose, la pédagogie vit dans votre code d'orchestration. Si le modèle choisit la tâche suivante, la pédagogie est dans les poids.
 
@@ -116,7 +116,7 @@ L'entraînement ne rend pas un modèle sûr sur une longue conversation. SafeTut
 
 ## Ce que les équipes d'entraînement comprennent mal
 
-Plus de prompting finira par tenir. La flagornerie persiste après le prompting et l'alignement, et la pression d'autorité rouvre le comportement qu'un test de changement de contexte avait fermé. La transcription de votre propre test de pression est la preuve de cela dans votre produit.
+Plus de prompting finira par tenir. La [[ai-sycophancy|flagornerie]] persiste après le prompting et l'alignement, et la pression d'autorité rouvre le comportement qu'un test de changement de contexte avait fermé. La transcription de votre propre test de pression est la preuve de cela dans votre produit.
 
 Le chiffre du classement est le résultat. 96.52% sur CDPK décrit la performance sur les tâches pédagogiques d'un benchmark. Vos étudiants rencontrent votre programme, votre notation et un étudiant bloqué depuis vingt minutes.
 

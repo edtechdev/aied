@@ -2,14 +2,14 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

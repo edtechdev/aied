@@ -1,7 +1,7 @@
 ---
 title: "Parents et familles"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-01T10:10:15-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Les résultats les plus forts tournés vers la famille dans cette base de connai
 
 Ce qui manque est plus frappant. Les récits des parents eux-mêmes sont rares : les enseignants de [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]] excluaient les parents de leur échantillon par conception, et les parents qui apparaissent sont interrogés comme une voix parmi les filles, les praticiens ou les enseignants. Il n'y a ici aucune preuve directe sur la manière dont les familles apprennent l'[[educational-policy-ai|politique d'IA]] d'une école, sur ce qu'on leur dit de la surveillance ou de la divulgation, ni sur la manière dont elles y répondent, et la coordination famille–école a été théorisée plutôt que testée. Des conceptions de tutorat à domicile telles que ParaTutor ont été évaluées sur 23 dyades dans un seul contexte national, et les comparaisons de compagnons reposent sur 19 élèves d'une seule école.
 
-Une revue de cadrage de 2026 cartographie la distance parcourue par le champ. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] ont analysé 53 études en IHC issues de 6 540 références dans 19 lieux de publication à travers la théorie de l'activité, et ont trouvé la littérature centrée sur l'interaction enfant–parent et sur le langage, l'[[ai-literacy|littératie en IA]] et l'apprentissage relationnel, avec 44 des 53 études (83 %) situées dans des configurations enfant–parent. Les systèmes conversationnels, incarnés et spatiaux génèrent du soutien à partir du contexte d'une interaction en déploiement, et les grands modèles de langue redistribuent le travail éducatif tandis que les familles et les institutions demeurent responsables de l'interprétation des productions et de la décision de la manière dont elles entrent dans la pratique. La [[personalized-learning|personnalisation]] soutenue, le travail de réparation, et la manière dont les familles négocient l'autorité et les règles sont les lacunes que nomme la revue, ce qui est la même absence que cette section documente par l'autre direction.
+Une [[meta-analysis-systematic-review|revue de cadrage]] de 2026 cartographie la distance parcourue par le champ. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] ont analysé 53 études en IHC issues de 6 540 références dans 19 lieux de publication à travers la [[activity-theory-aied|théorie de l'activité]], et ont trouvé la littérature centrée sur l'interaction enfant–parent et sur le langage, l'[[ai-literacy|littératie en IA]] et l'apprentissage relationnel, avec 44 des 53 études (83 %) situées dans des configurations enfant–parent. Les systèmes conversationnels, incarnés et spatiaux génèrent du soutien à partir du contexte d'une interaction en déploiement, et les grands modèles de langue redistribuent le travail éducatif tandis que les familles et les institutions demeurent responsables de l'interprétation des productions et de la décision de la manière dont elles entrent dans la pratique. La [[personalized-learning|personnalisation]] soutenue, le travail de réparation, et la manière dont les familles négocient l'autorité et les règles sont les lacunes que nomme la revue, ce qui est la même absence que cette section documente par l'autre direction.
 
 **Relation avec les autres pages.** [[stakeholders]] est la vue d'ensemble courte de l'ensemble des acteurs, les familles y figurant comme un public non encore traité en profondeur ; cette page est cette profondeur. [[early-childhood-elementary-ai-education]] couvre le domaine développemental et [[pedagogy|pédagogique]] des jeunes apprenants à l'école comme à la maison ; cette page suit la famille à travers les âges, des activités de jeu préscolaires aux devoirs du secondaire. [[ai-use-disclosure]] couvre la question de savoir si les apprenants disent aux autres qu'ils ont utilisé l'IA ; cette page couvre la question adjacente de savoir si cette information parvient aux adultes à la maison, et ce que l'on dit aux familles de l'usage de l'IA à l'école.
 

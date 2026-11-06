@@ -1,7 +1,7 @@
 ---
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
@@ -59,7 +59,7 @@ La [[meta-analysis-systematic-review|revue systématique]] de Hingle et Johri cl
 
 Le **AI Literacy Continuum** de NC State décrit une progression allant de *Not Yet Engaged* et *Uncritical Use* à *Informed Use*, *[[critical-thinking|Critical Evaluation]]* et *Improvement*, et a été déployé auprès de plus de 330 participants dans des cours et des ateliers ([[ai-literacy-continuum-higher-education]]). Ses observations suggèrent un partage : les expériences brèves amenaient les étudiants vers l'usage informé, tandis que l'évaluation critique et l'amélioration n'apparaissaient que dans un travail soutenu, ancré dans une discipline. Il n'y avait ni mesure pré/post validée ni groupe de comparaison, il s'agit donc de preuves fondées sur la pratique.
 
-La formation des enseignants montre le même plafond sous un autre angle. L'intervention [[design-based-research|fondée sur la conception]] de Le et al. a été pilotée auprès de 14 étudiants de master et évaluée auprès de 29 étudiants en [[teacher-education|formation des enseignants]]. Le [[self-efficacy|sentiment d'efficacité personnelle]] en compétences IA déclaré a augmenté et les étudiants se sont tournés vers une considération [[pedagogy|pédagogique]] plus critique de l'IA générative, tandis que les gains en éthique n'atteignaient qu'une significativité marginale. Une petite étude fondée sur la conception de cette forme ne peut pas établir la compétence ([[genai-literacy-training-teacher-education-dbr-2026]]).
+La [[teacher-role|formation des enseignants]] montre le même plafond sous un autre angle. L'intervention [[design-based-research|fondée sur la conception]] de Le et al. a été pilotée auprès de 14 étudiants de master et évaluée auprès de 29 étudiants en [[teacher-education|formation des enseignants]]. Le [[self-efficacy|sentiment d'efficacité personnelle]] en compétences IA déclaré a augmenté et les étudiants se sont tournés vers une considération [[pedagogy|pédagogique]] plus critique de l'IA générative, tandis que les gains en éthique n'atteignaient qu'une significativité marginale. Une petite étude fondée sur la conception de cette forme ne peut pas établir la compétence ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Mesurez ce que les étudiants savent faire
 
@@ -93,7 +93,7 @@ La question qui s'ensuit est celle à poser à votre propre programme : le certi
 
 ## Ce que ce public comprend mal
 
-Un atelier est un programme d'études. Les observations du Continuum placent l'évaluation critique et l'amélioration dans un travail soutenu et ancré dans une discipline, et Le et al. ont déplacé le sentiment d'efficacité personnelle sans établir la compétence.
+Un atelier est un [[curriculum-design|programme d'études]]. Les observations du Continuum placent l'évaluation critique et l'amélioration dans un travail soutenu et ancré dans une discipline, et Le et al. ont déplacé le sentiment d'efficacité personnelle sans établir la compétence.
 
 La confiance est un proxy de la littératie. Le résultat du GLAT est direct : un test de performance prédisait la performance sur la tâche et une mesure auto-déclarée ne la prédisait pas.
 

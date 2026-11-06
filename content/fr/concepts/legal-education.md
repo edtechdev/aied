@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-01T10:16:48-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-01T08:10:00-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,7 @@ Des données probantes expérimentales commencent à arriver : [[xie-genai-myste
 - **Aide à la rédaction et à l'écriture.** Analyses de cas initiales, plans structurés, notes de synthèse juridiques, synthèses de premier jet et retour au niveau de la phrase sur la clarté et la grammaire. Les auteurs placent le travail produit par l'IA dans la même relation de supervision qu'un travail de parajuriste ou de jeune collaborateur : un juriste demeure responsable de son exactitude et de sa suffisance juridique.
 - **Étude et préparation au barreau.** Génération de questions d'entraînement, d'énoncés de faits et d'« hypothèses » pour la pratique chronométrée, et tutorat sur les faiblesses récurrentes. Gutowski et Hurley associent à cela l'observation selon laquelle l'IA générative réussit désormais à la fois l'examen du barreau et l'examen multistatal de responsabilité professionnelle, ce qu'ils interprètent comme en disant davantage sur le seuil minimal de compétence que sur le modèle.
 - **Profils propres à chaque tâche, plutôt qu'un classement général.** Dans le cadre d'un protocole en aveugle, les mêmes modèles prêts à l'emploi qui avaient atteint le niveau humain à l'examen du barreau (scores cumulés de 26–79 sur 100) ont tous échoué à l'examen de notaire, qui exige une planification juridique orientée vers un objectif sous des contraintes formelles strictes — et ont été trompés par les pièges délibérés qui y étaient dissimulés ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
-- **Revues, plaidoirie simulée et accompagnement.** Tri des soumissions, préparation de la plaidoirie et programmes de soutien académique utilisant des modèles personnalisés entraînés sur des examens antérieurs, des réponses modèles et des supports de cours.
+- **Revues, plaidoirie simulée et accompagnement.** Tri des soumissions, préparation de la plaidoirie et programmes de [[student-support-and-success|soutien académique]] utilisant des modèles personnalisés entraînés sur des examens antérieurs, des réponses modèles et des supports de cours.
 - **Évaluation et intégrité.** Les cas problématiques récurrents : rédaction non divulguée, citation d'une autorité inexistante, et examens qui ne mesurent plus l'analyse sans aide.
 
 ## Ce que montrent les données probantes sur les politiques
@@ -67,7 +67,7 @@ Deux points supplémentaires façonnent leurs recommandations :
 - **La gouvernance par le corps professoral est une complication propre aux écoles de droit.** Les facultés de droit, individuellement et collectivement, détiennent une autorité particulièrement directe sur les programmes d'études et les normes de cours, si bien que la politique doit être construite avec elles plutôt que leur être simplement annoncée.
 - **L'enseignement clinique soulève une objection [[pedagogy|pédagogique]], et non technique.** En citant Karr et Schultz, ils rapportent la position selon laquelle les outils d'IA conçus pour imiter les réponses humaines ne développent ni le jugement original, ni l'interaction avec le client, ni la prise de décision [[ethics|éthique]] que les cliniques existent pour produire, et qu'ils ne devraient donc pas du tout être utilisés dans les cours cliniques.
 
-Les recommandations sont de nature procédurale : des lignes directrices claires et complètes quelle que soit la position institutionnelle, une pleine implication des parties prenantes dans leur rédaction, une formation proactive des étudiants et du corps professoral, une gouvernance souple réexaminée périodiquement, et une autorégulation par le partage d'informations plutôt que l'attente que l'ABA dicte la politique.
+Les recommandations sont de nature procédurale : des lignes directrices claires et complètes quelle que soit la position institutionnelle, une pleine implication des parties prenantes dans leur rédaction, une formation proactive des étudiants et du corps professoral, une gouvernance souple réexaminée périodiquement, et une [[self-regulated-learning|autorégulation]] par le partage d'informations plutôt que l'attente que l'ABA dicte la politique.
 
 ## Pourquoi la discipline est distinctive
 

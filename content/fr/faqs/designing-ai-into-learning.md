@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-01T10:10:23-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
@@ -31,7 +31,7 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Le plan du module comporte une ligne intitulée « activité IA » et personne ne sait ce qu'elle remplace. Ou bien un enseignant a demandé d'ajouter un agent conversationnel à un cours qui fonctionne déjà, et votre travail consiste à le placer sans casser ce qui faisait fonctionner ce cours.
+Le plan du module comporte une ligne intitulée « activité IA » et personne ne sait ce qu'elle remplace. Ou bien un enseignant a demandé d'ajouter un [[conversational-ai|agent conversationnel]] à un cours qui fonctionne déjà, et votre travail consiste à le placer sans casser ce qui faisait fonctionner ce cours.
 
 Partez de l'objectif d'apprentissage et de l'activité qui le produit. Le même modèle peut être un étayage, un partenaire [[socratic-method|socratique]], un lecteur de brouillons, une [[simulation]] ou une machine à réponses, et celui que vous obtenez dépend de la conception plutôt que du modèle. Nommez le mode que vous construisez, placez la tentative de l'apprenant avant que l'aide n'apparaisse, et conservez au moins un parcours dans le cours qui fonctionne sans l'outil.
 
@@ -79,7 +79,7 @@ Deux leçons en découlent pour la conception de l'IA. Placez l'outil là où la
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] traite le temps comme un étayage conçu plutôt que comme un trait de l'étudiant : un cours à rythme libre prévoit une enveloppe hebdomadaire d'environ 100 minutes avec une cible proche de 20 minutes par jour, des rappels sensibles au temps, un tableau de bord de progression et une courte vérification de fin de sous-chapitre de 3 à 12 questions. La base de référence à laquelle cette conception répond est frappante : près de 25 % des plus de 600 apprenants ne commençaient qu'à la dernière semaine, et 95 % de ce groupe échouait.
 
-Lisez-la comme une invitation à concevoir plutôt que comme un effet démontré. L'article compare un cours plus récent à un cours antérieur au lieu de mener un essai contrôlé, si bien que l'amélioration ne peut être séparée du changement de cohorte et de matière, et des rappels assez puissants pour déplacer le moment de l'étude posent aussi une question de [[privacy|vie privée]] que vous devez trancher dans le syllabus.
+Lisez-la comme une invitation à concevoir plutôt que comme un effet démontré. L'article compare un cours plus récent à un cours antérieur au lieu de mener un [[rct|essai contrôlé]], si bien que l'amélioration ne peut être séparée du changement de cohorte et de matière, et des rappels assez puissants pour déplacer le moment de l'étude posent aussi une question de [[privacy|vie privée]] que vous devez trancher dans le syllabus.
 
 ## Décider ce qu'il faut retirer, et quand le rétablir
 
@@ -107,7 +107,7 @@ L'efficacité est le but de la refonte. Rédiger des objectifs et des grilles av
 
 **« Nous n'avons pas le temps de reséquencer tout un cours. »** Alors reséquencez un module et une évaluation. L'articulation « retenir puis amplifier » est un point de contrôle, et la séquence réflexion d'abord tient en trois consignes sur une feuille.
 
-**« Notre fonction d'IA comporte déjà des garde-fous. »** Les garde-fous contraignent ce que dit le modèle. Ils ne décident pas si l'apprenant a tenté d'abord, si l'aide s'estompe ou s'il existe un parcours sans IA. Ce sont des décisions de conception dans votre cours, non des réglages dans le produit.
+**« Notre fonction d'IA comporte déjà des [[guardrails|garde-fous]]. »** Les garde-fous contraignent ce que dit le modèle. Ils ne décident pas si l'apprenant a tenté d'abord, si l'aide s'estompe ou s'il existe un parcours sans IA. Ce sont des décisions de conception dans votre cours, non des réglages dans le produit.
 
 ## Que faire cette semaine
 

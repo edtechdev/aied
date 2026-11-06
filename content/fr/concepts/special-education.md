@@ -1,15 +1,17 @@
 ---
+
 title: "Éducation spécialisée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
+connected_resources: [teacherserver]
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,7 +55,7 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 **Le contenu d'intervention généré par l'IA a besoin de contrôles en amont de la génération, et pas seulement d'une relecture.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] ont constaté que les praticiens jugeaient l'outil Social Story co-conçu très utilisable (SUS 86,8) tout en qualifiant ses images de génériquement occidentales et son suivi comportemental de déconnecté du jugement clinique rattaché aux objectifs — des contraintes qu'ils auraient posées avant la génération.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] part du matériel plutôt que de la conversation : un modèle vision-langage lit des photographies de Shoebox Tasks, conçues pour que l'objectif soit visible dans les objets, et les transforme en un plan qu'un humanoïde Nao exécute ou démontre, en rapportant l'exactitude du plan sur six tâches et aucune donnée d'apprenant.
-- **Les comportements difficiles sont là où les bancs d'essai de tuteurs s'arrêtent.** Sur 923 dialogues ancrés dans des cas issus de la littérature en éducation spécialisée et en psychologie de l'éducation, le meilleur de 11 modèles satisfaisait une intervention documentée dans 55.8% des cas ouverts et 43.3% des plans à long terme ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **Les comportements difficiles sont là où les [[benchmark|bancs d'essai]] de tuteurs s'arrêtent.** Sur 923 dialogues ancrés dans des cas issus de la littérature en éducation spécialisée et en psychologie de l'éducation, le meilleur de 11 modèles satisfaisait une intervention documentée dans 55.8% des cas ouverts et 43.3% des plans à long terme ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implications pour les enseignants du spécialisé
 
@@ -66,8 +68,8 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 
 ## Idées fausses courantes
 
-- **« Une note d'utilisabilité valide un outil d'aide. »** Les praticiens ont jugé un outil Social Story co-conçu **très utilisable (SUS 86,8)** tout en qualifiant ses **images de génériquement occidentales** et son **suivi comportemental de déconnecté du jugement clinique rattaché aux objectifs**. Une utilisabilité élevée coexistait avec des défaillances substantielles : un score SUS n'est pas une validation de l'adéquation.
-- **« Les référentiels génériques disent comment un tuteur traite les cas d'éducation spécialisée. »** Sur **923 dialogues ancrés dans des cas** issus de la littérature en éducation spécialisée et en psychologie de l'éducation, **le meilleur de 11 modèles** satisfaisait un critère documenté — et **les comportements difficiles sont là où les référentiels de tuteurs s'arrêtent**. Les évaluations standard n'atteignent pas les cas pour lesquels les praticiens ont le plus besoin d'aide.
+- **« Les [[usability-research|notes d'utilisabilité]] valident un outil d'aide. »** Les praticiens ont accordé le feu vert d'utilisabilité (SUS 86,8) à un outil Social Story qu'ils avaient co-conçu, tout en reprochant à son imagerie occidentale toute faite et à son suivi comportemental de manquer le jugement clinique rattaché aux objectifs. Une utilisabilité élevée coexistait avec des défaillances substantielles : un score SUS n'est pas une validation de l'adéquation.
+- **« Les référentiels génériques disent comment un tuteur traite les cas d'éducation spécialisée. »** Sur **923 dialogues ancrés dans des cas** issus de la littérature en éducation spécialisée et en psychologie de l'éducation, **le meilleur de 11 modèles** satisfaisait un critère documenté — et **c'est là que s'arrête ce que couvre un référentiel de tuteur**. Les évaluations standard n'atteignent pas les cas pour lesquels les praticiens ont le plus besoin d'aide.
 - **« Les apprenants neurodivergents ont besoin d'aménagements, pas d'exigences de conception. »** [[neurodivergent-computing-students|Zastudil et al.]] ont constaté que les étudiants en informatique neurodivergents ont besoin de **devoirs structurés, d'équipes restreintes et stables et de définitions explicites des rôles** — des exigences générales de conception qui bénéficient à tous, et non des ajustements individuels accordés après diagnostic.
 
 ## Concepts liés

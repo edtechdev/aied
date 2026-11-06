@@ -1,13 +1,13 @@
 ---
 title: "Analyse de réseaux"
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-11-01T10:17:41-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,8 +53,8 @@ Les méthodes de réseau sont utilisées à travers le corpus de données proban
 - **Ouvrir la « boîte noire » de l'interaction apprenant–IA.** La TNA révèle le *processus* — les boucles et trajectoires comportementales que les apprenants empruntent lorsqu'ils utilisent des outils d'IA (par exemple, une « boucle de révision » contre une « boucle de conversation » dans l'[[writing-education|écriture]] étayée par un [[conversational-ai|agent conversationnel]]) plutôt que la seule production finale. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Comparer la structuration cognitive entre groupes.** L'ENA montre comment différents groupes connectent différemment les construits — par exemple, comment la [[metacognition|métacognition]] cooccurrent avec la délégation contre le raisonnement humain dans la collaboration humain–IA, révélant différents modes de collaboration. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Retracer les signatures de littératie en IA et d'interaction.** L'ENA appliquée aux journaux d'interaction identifie des régularités distinctes d'usage des [[llm|grands modèles de langue]] (affinage stratégique itératif contre commandes linéaires), distinguant la [[ai-literacy|compétence]] et le développement de l'apprenant. ([[tracing-genai-literacy-interaction-patterns]])
-- **Analyser le discours et le cadrage.** L'ENA est appliquée à des données [[qualitative-research|qualitatives]] et [[multimodal|multimodales]] (par exemple, les cadrages de ChatGPT sur YouTube dans l'éducation) pour révéler la structure du discours public ou disciplinaire. ([[youtube-frames-chatgpt-education]])
-- **Compléter l'auto-déclaration et les métriques de produit.** Parce que les méthodes de réseau utilisent des données comportementales observées, elles peuvent exposer les écarts entre ce que les apprenants affirment et ce qu'ils font réellement — un constat récurrent dans la littérature de la base de connaissances sur l'appropriation de la rétroaction.
+- **Analyser le discours et le cadrage.** L'ENA est appliquée à des données [[qualitative-research|qualitatives]] et [[multimodal|multimodales]] (par exemple, les cadrages de [[generative-ai|ChatGPT]] sur YouTube dans l'éducation) pour révéler la structure du discours public ou disciplinaire. ([[youtube-frames-chatgpt-education]])
+- **Compléter l'[[self-report-measures|auto-déclaration]] et les métriques de produit.** Parce que les méthodes de réseau utilisent des données comportementales observées, elles peuvent exposer les écarts entre ce que les apprenants affirment et ce qu'ils font réellement — un constat récurrent dans la littérature de la base de connaissances sur l'appropriation de la rétroaction.
 
 - **La structure de graphe comme quantité de validation, et non comme résumé descriptif.** [[synthetic-educational-data-structural-fidelity-2026|Inoue et Yasutake (2026)]] suivent β0 — le nombre de composantes connexes d'un graphe de proximité hebdomadaire entre apprenants à un seuil euclidien fixe — pour tester si des cohortes synthétiques reproduisent les cohortes réelles, le préférant parce qu'il est fixé par le graphe seul, ne nécessite ni optimisation ni germe aléatoire contrairement à la maximisation de la modularité, et reste défini lorsqu'un septième à un tiers des apprenants se retrouvent seuls dans une composante.
 
@@ -82,7 +82,7 @@ Les méthodes de réseau sont utilisées à travers le corpus de données proban
 
 ## Idées fausses courantes
 
-- **« L'analyse de réseaux est objective parce qu'elle est computationnelle. »** **Le codage en est le fondement** : toutes les variantes de réseaux dépendent du codage fiable des données brutes (énoncés, événements, relations) en nœuds discrets, et le codage automatisé hérite de ses définitions de celui qui les a fixées. La visualisation ressemble à une structure émergente et ses nœuds sont des choix interprétatifs.
+- **« L'analyse de réseaux est objective parce qu'elle est computationnelle. »** **Le codage en est le fondement** : toutes les variantes de réseaux dépendent du codage fiable des données brutes (énoncés, événements, relations) en nœuds discrets, et le codage automatisé hérite de ses définitions de celui qui les a fixées. La [[visualization|visualisation]] ressemble à une structure émergente et ses nœuds sont des choix interprétatifs.
 - **« Un changement de structure du réseau est automatiquement un gain d'apprentissage en soi. »** Dans une discussion de cas réunissant **vingt étudiants de deuxième cycle de disciplines mixtes**, la **part des termes partagés de taille 3 est passée de 5,2 % à 8,0 %** tandis que les **jetons de contenu tombaient à environ 0,65 fois leur valeur après le débat**. Deux mesures structurelles évoluaient en sens opposé : « le réseau a changé » n'est donc pas un résultat tant qu'on ne précise pas selon quelle mesure et pourquoi cela compte.
 - **« Partager plus de termes signifie mieux collaborer. »** Une part croissante de termes partagés accompagnée d'une diversité décroissante des jetons de contenu est compatible avec une convergence vers un vocabulaire plus restreint. Le consensus et le rétrécissement sont structurellement similaires, ce qui explique pourquoi la mesure a besoin du contenu à partir duquel elle a été calculée.
 

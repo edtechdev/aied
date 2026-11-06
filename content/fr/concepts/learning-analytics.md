@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T10:13:36-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-31T09:55:00-04:00"
+source_updated: "2026-11-04T18:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,9 @@ ai_assist:
 - **Analytique de la rétroaction :** la [[teaching-feedback-classification-benchmark|classification de la rétroaction]] et l'[[ai-feedback-quality|évaluation de sa qualité]] analysent la rétroaction que reçoivent les élèves.
 - **Analyse de réseaux :** l'[[misiejuk-cognitive-offloading-prompting-2026|analyse de réseaux de cooccurrence]] et l'[[epistemic-emotions-collaborative-problem-solving|analyse de réseaux épistémiques]] révèlent les patrons d'interaction.
 - **Tensions relatives à la vie privée :** les préoccupations liées à la [[privacy]] croissent à mesure que l'analytique devient plus granulaire et plus pilotée par l'IA.
-- **Un cadre de gouvernance pour les données des élèves.** LEAGUE propose six piliers — Lawfulness, Equity, Agency, Governance, Utility et Ethics by Design — traitant la conformité au FERPA et au RGPD comme un plancher et recommandant une réévaluation programmée à mesure que les modèles dérivent ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+- **Un cadre de gouvernance pour les données des élèves.** LEAGUE propose six piliers — Lawfulness, [[equity-in-ai-education|Equity]], Agency, Governance, Utility et Ethics by Design — traitant la conformité au FERPA et au RGPD comme un plancher et recommandant une réévaluation programmée à mesure que les modèles dérivent ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+
+L'analytique par capteurs et par mouvements oculaires est une seconde famille d'instruments alimentant les mêmes modèles d'apprenant, s'appuyant sur l'oculométrie, l'EEG, l'activité électrodermale et la fréquence cardiaque pour estimer l'attention, l'engagement et la charge cognitive ([[sensor-and-gaze-analytics]]). Ses problèmes de validité et de consentement sont plus raides que ceux des données de traces, parce que les mesures sont biométriques et que le passage du corps à l'état mental est une interprétation.
 
 **Modéliser la simultanéité des cours, et pas seulement la séquence.** TRACE donne à chaque cours d'un semestre le même encodage positionnel, et la prédiction conjointe des cours et des notes a ramené l'erreur de prédiction des notes à 0.1339 d'erreur absolue moyenne — une réduction de 46.4% par rapport à un transformateur fondé sur les seules notes — sur dix ans de données institutionnelles ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
@@ -91,7 +93,7 @@ Une ligne complémentaire cible l'*interprétation* de l'analytique elle-même. 
 
 Les méthodes de réseau sont au cœur de l'analytique de l'apprentissage : l'[[network-analysis|analyse de réseaux de transition (TNA)]] modélise les séquences temporelles des actions de l'apprenant (par exemple les boucles de révision et de dialogue dans l'écriture étayée par un [[conversational-ai|agent conversationnel]]), et l'[[network-analysis|analyse de réseaux épistémiques (ENA)]] cartographie la manière dont les codes et les constructions cooccurrent au fil de l'activité — révélant ensemble le *processus* de l'apprentissage et de l'[[student-ai-interaction|interaction de l'apprenant avec l'IA]], et pas seulement son produit.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
-- **Analyse de séquences et de chaînes de Markov du comportement autodirigé.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] ont combiné analyse de séquences d'activités, regroupement hiérarchique et modèles de chaînes de Markov sur les parcours de clic de 315 apprenants en ligne ayant construit 822 modèles écologiques dans VERA, distillant neuf regroupements comportementaux fins fondés sur les transitions en trois patrons plus larges (Observation, Construction, Exploration). Leurs travaux démontrent que combiner l'analyse de séquences à la modélisation par chaînes de Markov peut révéler un comportement signifiant dans des tâches non structurées et [[self-directed-learning|autodirigées]], même en l'absence totale de données démographiques ou contextuelles.
+- **Regroupement des parcours de clic dans la construction autodirigée de modèles.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] ont combiné [[pedagogical-patterns|analyse de séquences d'activités]], regroupement hiérarchique et modèles de chaînes de Markov sur les parcours de clic de 315 apprenants en ligne ayant construit 822 modèles écologiques dans VERA, distillant neuf regroupements comportementaux fins fondés sur les transitions en trois patrons plus larges (Observation, Construction, Exploration). Leurs travaux démontrent que combiner l'analyse de séquences à la modélisation par chaînes de Markov peut révéler un comportement signifiant dans des tâches non structurées et [[self-directed-learning|autodirigées]], même en l'absence totale de données démographiques ou contextuelles.
 
 - **L'analytique de l'apprentissage et l'IA générative façonnent la conception pédagogique différemment (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] ont utilisé l'analyse de réseaux épistémiques sur 11 groupes de discussion d'enseignants pour comparer la manière dont l'analytique de l'apprentissage et l'[[generative-ai]] informent la prise de décision en [[learning-design]]. Les discussions sur l'analytique de l'apprentissage se centraient sur l'information contextuelle, la conception au niveau du cours et la résolution créative de [[problem-solving]] (l'analytique pour diagnostiquer l'engagement et cibler le soutien), tandis que les discussions sur l'IA générative se centraient sur la conception de l'[[assessment|évaluation]] et la conception pour l'[[self-determination-theory|autodétermination]] de l'élève (l'IA générative pour la génération d'idées et le développement de l'évaluation). Le contexte et la [[creativity]] étaient centraux dans les deux cas — un rappel que l'analytique n'informe la conception qu'à l'intérieur d'un contexte [[pedagogy|pédagogique]] et de l'autonomie de l'enseignant.
 
@@ -123,20 +125,26 @@ L'analytique de l'apprentissage se rattache au [[knowledge-tracing]] (l'analytiq
 
 - **Transformer les analyses d'IA en parole de classe est elle-même une compétence enseignante.** Dans quatre leçons de mathématiques au secondaire, les 47 orchestrations de classe d'une enseignante ont converti la sortie du tableau de bord en argumentation collective, en sélectionnant et en séquençant les justifications des élèves, et l'étude nomme quatre types récurrents ([[ai-integrated-math-argumentation-teacher-noticing-2026|Lee, Park et Lee (2026)]]).
 
+- **Une analytique qui allège la charge d'un enseignant n'est pas une analytique qui allège celle d'un apprenant.** Dans une revue de 23 études de l'IA dans l'[[embodied-learning|apprentissage incarné]], 62,5 % des 40 étiquettes de rôle étaient des rôles de détection qui évaluent un mouvement, une trajectoire ou un artefact — un travail qui, autrement, revenait à un enseignant — et les auteurs avertissent qu'une réduction de la charge de travail des enseignants ne devrait pas être lue comme une réduction de la charge des apprenants. Leur raison tient à une limite de ce que ce type de codage peut montrer : enregistrer la fonction qu'un système accomplit ne dit rien de son effet sur l'apprenant, si bien que les fréquences de rôles ne peuvent pas trancher de savoir si le système a externalisé la cognition ou l'a approfondie ([[kim-ai-embodied-learning-review-2026|Kim et Han (2026)]]).
+
 L'instrumentation au niveau du processus est le pas suivant de la couche descriptive. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] ont étendu une plateforme [[open-source]] de problèmes de Parsons pour enregistrer chaque placement, retrait et soumission de blocs sous forme de trace chronologique, associer chaque soumission à un code couleur de l'exactitude par bloc et à un historique de tentatives, et faire passer facultativement les traces par un pipeline [[llm]] qui étiquette les schémas de difficulté récurrents pour examen par l'enseignant. Sur 68 étudiants d'un cours supérieur de conception logicielle en Java et 36 d'un cours d'introduction à Python, l'analyse a fait apparaître les trois mêmes difficultés — choisir le mauvais type d'exception, substituer `return` à `throw`, et ordonner incorrectement le flux de contrôle — que les décomptes d'exactitude et de tentatives ne peuvent exposer, parce qu'ils répondent à la question de savoir *si* l'agencement était juste plutôt qu'à celle de savoir *quel était le processus*. L'IA agit comme un interprète pour l'[[teacher-role|enseignant]] plutôt que comme un correcteur de l'élève, et sa sortie est pensée comme une hypothèse soumise à examen sur les difficultés d'une classe, plutôt que comme une note.
 
 - **Le mur des systèmes d'apprentissage : les données de journalisation ne se généralisent pas d'une plateforme à l'autre.** MATHia, i-Ready et IXL définissent chacun différemment même les constructions les plus élémentaires — une « tentative », un « indice » — si bien que les modèles ne peuvent pas être transférés de l'un à l'autre. Une réponse encore en cours de développement attaque le problème du côté de la vidéo : un pipeline Gemini distille des enregistrements d'écran de tutorat en un transcript unique de scénario, aligné sur les journaux natifs de MATHia comme vérité terrain. Ce que la vidéo récupère et qu'aucun flux unique ne fournit : l'[[scaffolding|étayement]] au tableau, le calcul silencieux dans des outils externes, et le contexte hors écran que les journaux natifs réduisent à de « l'inactivité ». Des défis ouverts subsistent en matière d'ancrage temporel, de dérive des horloges, et de séparation entre événements de la plateforme et autres processus d'apprentissage. ([[thomas-breaking-learning-system-wall-2026]])
 
 - **Les journaux d'interaction peuvent perdre contre une ligne de base constante.** Les caractéristiques semestrielles tirées de 16,851 échanges avec un tuteur LLM surpassaient un prédicteur médian des notes de devoirs de 0.114 point, un intervalle croisant zéro, avec 62.1% de l'erreur dans le quartile le plus bas ([[llm-tutoring-interaction-predictive-value-2026|Dong et al. (2026)]]).
 
+Les tableaux de bord et les systèmes d'alerte précoce concentrent le risque de [[automation-bias|biais d'automatisation]] : un signal énonce un jugement qu'une personne peut accepter parce qu'il existe, plutôt que parce qu'il a été vérifié.
+
 ## Idées fausses courantes
 
 - **« Une estimation de l'état des connaissances hérite sa validité des données. »** **La matrice Q qui relie les items aux attributs est une hypothèse, pas une donnée** : des entrées rejetées pour **14 des 918 items analysés** signifient que la correspondance elle-même a exigé un arbitrage. Valider la correspondance est une étape, pas une formalité.
+- **Des LLM lisant les parcours de clic contre des stratégies d'apprentissage nommées.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et coll. (2026)]] mettent en scène un pipeline [[llm|LLM]] qui localise des preuves d'une stratégie dans la trace d'un étudiant, juge de l'adhésion et cite les actions derrière le jugement, atteignant une qualité globale de 0.735 dans une simulation plus difficile, contre 0.704 pour une ligne de base plate.
 - **« L'analytique a besoin de traces de clics. »** Les états de connaissances peuvent être estimés au sein d'une pédagogie par résultats en **traçant directement les résultats de cours à partir des données d'interaction et de réussite du LMS**, à l'aide de correspondances d'affinité propres à cette pédagogie — le dossier institutionnel fournit le signal.
 - **« Une prédiction sans fenêtre d'action est utile. »** La prédiction de progression est plus utilisable lorsqu'elle est **interprétable et assortie d'une fenêtre d'action** : [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries et Koprinska (2025)]] prédisent des résultats au niveau du module, une forme sur laquelle un conseiller peut agir, contrairement à un score brut.
 
 ## Concepts liés
 
+- [[automation-bias]] — ce qui fait qu'un signal existant est suivi d'effet sans être vérifié
 - [[explainable-ai]]
 - [[knowledge-tracing]]
 - [[student-modeling]]
@@ -153,8 +161,10 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — le versant du soutien que la prédiction alimente : orientation, allocation, et les résultats qu'elles font ou ne font pas bouger
+- [[sensor-and-gaze-analytics]]
 
 ## Articles liés
+- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight : interpréter les parcours de clic à travers des stratégies d'apprentissage définies par la littérature (Radmehr et al. 2026)
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Les échanges humain-IA comme enregistrements structurés : le nombre d'invites ne porte presque aucun signal sur la progression
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Repérer et orchestrer les analyses d'IA en argumentation collective (Lee, Park & Lee 2026)
@@ -193,3 +203,4 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prédiction du risque de triche assistée par l'IA à partir des traces de LMS de début de semestre (AUC 0.763)
 - [[thomas-breaking-learning-system-wall-2026]] — Vers la rupture du mur des systèmes d'apprentissage grâce aux transcriptions multimodales de tutorat (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Les taux d'achèvement peuvent masquer un effondrement de l'engagement
+- [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe surtout : les rôles de détection représentaient 62,5 % des étiquettes de rôle codées, et aucun système examiné n'a fusionné des flux multimodaux pendant l'usage des apprenants (Kim & Han 2026)

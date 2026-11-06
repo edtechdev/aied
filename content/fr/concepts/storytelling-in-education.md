@@ -1,7 +1,7 @@
 ---
 title: "Le récit en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T10:17:32-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T14:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

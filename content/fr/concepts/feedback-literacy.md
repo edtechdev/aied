@@ -1,7 +1,7 @@
 ---
 title: "Littératie en rétroaction"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-01T10:17:58-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ La littératie en rétroaction se relie à [[ai-feedback-quality]] et à [[feedb
 Agir sur une rétroaction ne revient pas à améliorer l'artefact. Parmi 22 professeurs de mathématiques en formation initiale, l'acceptation sélective de la rétroaction produite par l'IA et par les pairs était la norme (32 épisodes sur 44), et pourtant cinq seulement ont amélioré la qualité de la tâche qu'ils avaient conçue — un décalage de traduction que les auteurs attribuent à l'[[evaluative-judgment|jugement évaluatif]] plutôt qu'à la reprise de la rétroaction ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] traitent la littératie en rétroaction comme développable par la pratique : les relecteurs pairs d'anglais langue étrangère qui travaillaient dialogiquement avec l'IA générative pour produire des commentaires ont amélioré leur propre capacité à juger et à utiliser la rétroaction, et pas seulement les commentaires qu'ils ont livrés.
+
+**La littératie en rétroaction doit couvrir une source machine comme une source humaine.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] demandent aux étudiants d'évaluer la rétroaction des pairs et celle d'un chatbot sur le même brouillon, dans la même réflexion, ce qui fait de la comparaison elle-même la tâche d'apprentissage. Leurs étudiants ont déclassé l'autorité du chatbot par rapport à celle d'un enseignant, et les auteurs lisent ce déclassement comme de la littératie plutôt que comme de la réticence.
 ## Idées fausses courantes
 
 - **« La rétroaction de l'IA améliore directement la pensée critique. »** Chez **421 étudiants chinois de premier cycle**, l'association entre usage de l'IA générative et pensée critique [[self-report-measures|auto-déclarée]] **passait par la littératie en rétroaction**. La littératie est le médiateur : une intervention qui ajoute de la rétroaction par l'IA sans construire la capacité de la lire agit sur le mauvais terme.
@@ -105,6 +107,8 @@ Agir sur une rétroaction ne revient pas à améliorer l'artefact. Parmi 22 prof
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
 
 ## Articles liés
 
@@ -133,3 +137,5 @@ Agir sur une rétroaction ne revient pas à améliorer l'artefact. Parmi 22 prof
 - [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Perspectives étudiantes sur l'évaluation transparente de l'écrit assisté par l'IA dans l'enseignement supérieur
 - [[genai-use-critical-thinking-moderation-2026]] — L'usage de l'IA générative vers la pensée critique passait par la littératie en rétroaction à l'IA générative, et se renforçait avec la pensée réflexive
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — La compréhension, et non la capacité d'action, portait le gain de révision
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Évaluer la rétroaction des pairs et celle d'un chatbot sur le même brouillon, au sein d'une même tâche de réflexion

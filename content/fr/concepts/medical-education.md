@@ -1,7 +1,7 @@
 ---
 title: "Formation aux professions médicales et de santé"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-10-31T15:45:59-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

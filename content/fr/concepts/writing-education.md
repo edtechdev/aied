@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: "L'écriture"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T10:12:29-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-01T14:00:00-05:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -80,13 +80,13 @@ L'accord est une propriété du corpus, non du correcteur : [[automated-scoring-
 
 Parce qu'écrire est un processus cognitif, les recherches sur l'IA et l'écriture se relient au [[cognitive-offloading|délaissement cognitif]] (le soutien à l'écriture par l'IA contourne-t-il la pensée ?), à la [[metacognition|métacognition]] (la rétroaction de l'IA améliore-t-elle l'[[self-assessment|auto-évaluation]] ?), à l'[[self-regulated-learning|apprentissage autorégulé]] (les étudiants régulent-ils leur usage de la rétroaction de l'IA ?), et à l'[[ai-literacy|littératie en IA]] (les étudiants peuvent-ils évaluer de façon critique un texte produit par l'IA ?). Les recherches sur l'[[critical-thinking-genai-scaffolding|étayage de la pensée critique]] et sur l'[[ai-feedback-critical-thinking-writing-2026|IA comme rétroaction pour la pensée critique]] montrent que la valeur [[pedagogy|pédagogique]] de l'IA dans l'écriture dépend de ce qu'elle suscite la réflexion et le jugement plutôt que le remplacement des réponses.
 
-Dans une tâche de synthèse, la part du texte réellement écrite par l'apprenant suivait le volume d'invites : 80 % du texte dans le groupe à sollicitation minimale, contre 2 % dans le groupe le plus sollicitant, tandis que la densité de connecteurs corrélait négativement avec les connaissances antérieures plutôt qu'avec le nombre d'invites (r = -0,30, p = 0,007 ; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
+Dans une tâche de synthèse, la part du texte réellement écrite par l'apprenant suivait le volume d'invites : 80 % du texte dans le groupe à sollicitation minimale, contre 2 % dans le groupe le plus sollicitant, tandis que la densité de connecteurs corrélait négativement avec les [[prior-knowledge|connaissances antérieures]] plutôt qu'avec le nombre d'invites (r = -0,30, p = 0,007 ; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 Une validation en deux vagues menée auprès d'apprenants chinois d'EFL (AEF N = 305 ; AFC N = 342) distingue six dimensions régulatrices et ajoute la *régulation environnementale* — vérifier le contenu généré, filtrer les ressources proposées et limiter la dépendance — une facette que les échelles existantes sur l'écriture en L2 ne comportaient pas ([[genai-srl-l2-writing-scale-2026|Wang, Zhang et Zhang (2026)]]).
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] affine cela par un compte **sensible aux couches** du [[cognitive-offloading|délaissement cognitif]] dans l'écriture académique assistée par IA générative : déléguer les couches *profondes* (raisonnement, logique argumentative) est associé plus fortement à une qualité moindre de l'écriture indépendante sans IA et à une [[critical-thinking|pensée d'ordre supérieur]] moindre que de déléguer des couches de surface (grammaire, vocabulaire). Une collaboration ouverte avec l'IA a produit le meilleur résultat matériel soutenu par les données, mais les pires résultats en indépendance, tandis qu'un soutien encadré accompagné de réflexion préservait la compétence — la preuve que le soutien à l'écriture par IA générative n'est pas uniformément nuisible, mais que son effet dépend de la couche cognitive que les étudiants délèguent.
 
-- **Conditionner la sortie de l'IA à un engagement préalable ramène l'effort vers l'auteur.** Avec 398 participants, [[engage-to-unlock-productive-friction-genai-2026|Su et al. (2026)]] ont constaté que les auteurs rédigeaient pendant 28,02 minutes contre 23,26 avec un agent conversationnel ouvert, puis évaluaient les passages plus vite (17,41 contre 22,21 minutes) à précision égale et sans temps de tâche supplémentaire. Là où Chen situe le coût dans *la couche déléguée*, ce dispositif décide *du moment où* le modèle peut parler.
+- **Conditionner la sortie de l'IA à un engagement préalable ramène l'effort vers l'auteur.** Avec 398 participants, [[engage-to-unlock-productive-friction-genai-2026|Su et al. (2026)]] ont constaté que les auteurs rédigeaient pendant 28,02 minutes contre 23,26 avec un [[conversational-ai|agent conversationnel]] ouvert, puis évaluaient les passages plus vite (17,41 contre 22,21 minutes) à précision égale et sans temps de tâche supplémentaire. Là où Chen situe le coût dans *la couche déléguée*, ce dispositif décide *du moment où* le modèle peut parler.
 
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] prolongent cette réflexion vers la composition *multimodale* chez de jeunes auteurs. Faire matérialiser leurs récits en images et courtes vidéos générées par l'IA, chez 60 élèves de [[k-12|CM2 (Grade 5)]], a produit des gains durables [[self-report-measures|déclarés par eux-mêmes]] en interprétation, analyse, évaluation et explication — les facettes qu'exerce la resémiotisation multimodale — mais **aucun gain en inférence**. Rendre visuellement explicite la construction du sens abaissait l'exigence d'inférer le sens implicite du texte, exactement le mécanisme de délaissement que décrit Chen ; seule une discussion structurée entre pairs a rétabli des occasions d'inférence. L'étude avertit que la composition assistée par [[multimodal|IA multimodale]] aide les jeunes auteurs à réfléchir sur la clarté et la cohérence tout en écumant potentiellement le travail inférentiel que préserve l'écriture purement textuelle — une considération de conception pour les enseignants d'écriture qui associent l'IA à des [[visualization|visuels]] et à la [[peer-assessment|rétroaction par les pairs]].
 
@@ -115,6 +115,12 @@ Cette posture « accompagner plutôt que rédiger » est l'expression, dans le d
 
 L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluation automatisée de l'écriture]], à la [[ai-feedback-quality|qualité de la rétroaction de l'IA]], à l'[[academic-integrity|intégrité académique]], au [[cognitive-offloading|délaissement cognitif]], à l'[[ai-literacy|littératie en IA]], à l'[[language-learning|apprentissage des langues]], à l'[[formative-assessment|évaluation formative]], à l'[[peer-assessment|évaluation par les pairs]], à la [[metacognition|métacognition]], à l'[[self-regulated-learning|apprentissage autorégulé]] et à l'[[higher-ed|enseignement supérieur]]. C'est un domaine où les capacités et les risques de l'IA sont tous deux hautement visibles, ce qui en fait un site riche pour étudier comment l'IA transforme la pédagogie, l'[[assessment|évaluation]], et la nature même de la paternité de l'œuvre et de l'[[agency|autonomie]].
 
+## Ce que l'IA générative exige de la tâche
+
+Al Nafjan (2026) propose le cadre d'alignement rigueur–engagement (RCAF, Rigor–Commitment Alignment Framework), qui situe l'engagement dans la tâche d'écriture et dans l'enseignement qui l'entoure plutôt que dans l'outil ([[al-nafjan-genai-eap-writing-engagement-2026]]). La rigueur académique est l'exigence qu'une tâche fait peser sur un effort cognitif soutenu et un raisonnement disciplinaire, et le cadre la scinde en demande cognitive, authenticité épistémique et responsabilité de performance. L'engagement de l'enseignant est défini étroitement, comme un engagement envers l'apprentissage des étudiants, mis en acte par la réactivité pédagogique, le soutien relationnel et l'[[scaffolding|étayage critique]], et non comme un trait qu'un enseignant possède ou dont il manque. L'auteur est explicite : le RCAF est propositionnel et n'a pas été validé empiriquement ; c'est donc un vocabulaire de conception pour les programmes d'écriture plutôt qu'un effet testé.
+
+Pour la conception de la tâche, l'affirmation est que la rigueur et l'engagement interagissent plutôt que de s'additionner. Une demande élevée avec un soutien mince est prédite comme poussant les étudiants vers la dissimulation et les jeux de détection, tandis que la chaleur sans exigence laisse passer une production fluide pour un apprentissage. Seule la configuration à demande élevée et soutien élevé est prédite comme produisant un engagement profond, l'[[evaluative-judgment|jugement évaluatif]] faisant le travail de décider quand une production est utile, insuffisante ou trompeuse. Parce que l'IA générative peut produire une prose académique acceptable, le cadre donne à l'évaluation de l'écriture une obligation spécifique : exiger un brouillon et une révision visibles afin que la performance reste liée à la pensée qu'elle est censée représenter.
+
 ## Implications pour les enseignants d'écriture
 
 - **Présenter l'IA comme un complément, et non un remplacement, du processus d'écriture.** Les recherches de la base de connaissances traitent systématiquement l'IA comme un étayage pour la rédaction, la révision et la rétroaction, tout en protégeant le travail cognitif et le public humain qui font de l'écriture une activité d'apprentissage — [[coach-not-crutch-ai-writing|un coach plutôt qu'une béquille]].
@@ -134,6 +140,8 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 
 - **« Demander un paragraphe et demander une dissertation relèvent du même type d'aide. »** Les données de traces les séparent. Sur **361 messages enregistrés** provenant de **77** étudiants rédigeant une dissertation, les requêtes qui confiaient d'un coup la planification, la rédaction et la révision formaient la catégorie la plus large : **137** requêtes de ce type, émises par plus de la moitié des participants. Dans cette catégorie, **20** demandaient une dissertation entière, et **15 des 77 (19,5 %) ** ont remis des dissertations sans avoir tapé un seul mot. Demander un paragraphe autour d'une idée était la catégorie la plus petite, avec **10** participants. [[jelson-students-chatgpt-essay-writing-2026|Coder chaque requête au regard du processus d'écriture]] montre ce qu'une dissertation finie ne peut pas montrer.
 
+Le récit de classe le plus complet de cette refonte est le déploiement PAIRR. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] rapportent 13 sections de 10 cours à forte intensité d'écriture et 654 étudiants en 2024, couvrant l'écriture en développement, la composition de première année, l'écriture professionnelle et les cours d'écriture en STEM. Les étudiants lisaient d'abord sur les modèles de langage, puis échangeaient une rétroaction entre pairs, et seulement ensuite sollicitaient un robot conversationnel pour une rétroaction fondée sur la grille. L'invite disait : « Ne réécrivez pas mon article à ma place. » L'argument des auteurs en faveur de la séquence tient à ce que le cours peut contrôler : un modèle positionné comme une voix périphérique ne peut pas s'emparer du brouillon sans que la grille de l'enseignant le remarque.
+
 ## Idées fausses courantes
 
 **« Le soutien de l'IA à l'écriture n'est qu'une écriture plus rapide. »** L'écriture est un processus cognitif, social et rhétorique, pas seulement une production, ce qui explique que l'IA puisse déplacer le travail mental même qui fait de l'écriture une activité d'apprentissage. L'orientation de conception qui en découle est *accompagner, non rédiger* : que le système interroge et critique les plans pendant que l'apprenant produit la prose. Un outil qui génère le brouillon a supprimé la pensée que le devoir existait pour développer, aussi bon soit le brouillon.
@@ -142,7 +150,7 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 
 **« La rétroaction de l'IA et celle des pairs sont substituables. »** Elles se combinent. Dans un cours d'EFL chinois de 10 semaines, l'ajout d'une rétroaction ChatGPT *avant* la relecture par les pairs a relevé l'engagement comportemental, affectif et cognitif (η² partiel de **0,28 à 0,32**) et amélioré les scores d'écriture partout. C'est la séquence qui fait le travail : le passage par l'IA préparait les étudiants à celui des pairs plutôt que de le remplacer.
 
-**« Les étudiants agissent sur la rétroaction de l'IA quand elle est offerte. »** L'adoption est sélective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston et Long (2026)]] ont suivi deux équipes d'étudiants de biologie révisant l'introduction d'une proposition à partir d'une rétroaction d'IA construite par l'enseignant : 10 des 22 commentaires ont été traités, les suppressions dépassaient les ajouts, et les commentaires demandant aux étudiants de juger la cohérence ou l'appui des affirmations ont été totalement ignorés.
+**« Les étudiants agissent sur la rétroaction de l'IA quand elle est offerte. »** L'adoption est sélective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston et Long (2026)]] ont suivi deux équipes d'étudiants de [[biology-education|biologie]] révisant l'introduction d'une proposition à partir d'une rétroaction d'IA construite par l'enseignant : 10 des 22 commentaires ont été traités, les suppressions dépassaient les ajouts, et les commentaires demandant aux étudiants de juger la cohérence ou l'appui des affirmations ont été totalement ignorés.
 
 **« Un modèle peut se substituer au schéma de rétroaction de l'enseignant. »** Les preuves ne le montrent pas. Le suivi d'un enseignant à travers les étapes de brouillon révèle un mouvement significatif sur **cinq** types de focale de rétroaction — *l'éloge* passant de **26,9 %** dans les premiers brouillons à **84,9 %** dans les versions finales — tandis que le modèle le plus proche bougeait sur trois et le plus faible sur aucune, et aucun modèle ne reproduisait ce schéma. La rétroaction de l'enseignant redistribue l'accent selon l'étape du brouillon ; celle du modèle tend à conserver sa distribution. Les tenir pour équivalentes fait perdre la trajectoire.
 
@@ -168,6 +176,8 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 - [[english-education]]
 - [[assessment]]
 - [[agency]]
+
+- [[reflection]]
 
 ## Articles liés
 
@@ -216,3 +226,5 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 - [[porcaro-ai-grader-reliability-2026]] — Le contexte de l'apprenant change les notes d'un correcteur LLM sur un travail identique, mesuré par ablation intra-item sur six modèles (Porcaro 2026, Article VI)
 - [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Usage de la rétroaction assistée par l'IA par des étudiants de biologie pour réviser une écriture scientifique : réception et obstacles (Weston et Long 2026)
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Usage étudiant responsable de l'IA générative en écriture académique : revue de cadrage des frontières, approches pédagogiques et lacunes probantes
+- [[al-nafjan-genai-eap-writing-engagement-2026]] — La rigueur et l'engagement de l'enseignant comme deux dimensions de l'engagement en écriture à l'ère de l'IA générative
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 sections, 10 cours, 654 étudiants : le déploiement PAIRR de référence et son invite limitée à la rétroaction

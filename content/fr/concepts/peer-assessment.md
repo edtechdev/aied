@@ -1,7 +1,7 @@
 ---
 title: Évaluation par les pairs
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-11-01T10:09:38-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ L'évaluation par les pairs est un choix de conception d'évaluation dans lequel
 
 La base de recherche s'accorde sur le fait que l'évaluation par les pairs produit de l'apprentissage et diverge sur la mesure où cela dépend de la conception. Elle donne aux étudiants un public authentique, développe le jugement évaluatif par la réponse fondée sur les critères, et construit le contexte social qui soutient l'[[student-engagement|engagement]] et la [[motivation]]. Sa qualité dépend fortement du [[scaffolding]] — de la qualité de sa structuration, et de ce que les étudiants reçoivent des critères clairs et un entraînement. Cette dépendance est le point d'entrée de l'IA, comme complément cohérent et guidé par les critères au retour spécifique et sensible au contexte que donnent les pairs, et de plus en plus comme soutien intégré au processus même d'évaluation par les pairs.
 
-[[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] constatent que des étudiants d'anglais langue étrangère qui évaluaient les textes de leurs pairs au moyen d'un dialogue ouvert avec une IA générative produisaient un retour que les destinataires jugeaient de meilleure qualité, avec des gains de réponse émotionnelle et de littératie du retour qui variaient selon la qualité du dialogue.
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] constatent que des étudiants d'anglais langue étrangère qui évaluaient les textes de leurs pairs au moyen d'un dialogue ouvert avec une [[generative-ai|IA générative]] produisaient un retour que les destinataires jugeaient de meilleure qualité, avec des gains de réponse émotionnelle et de littératie du retour qui variaient selon la qualité du dialogue.
 
 ## Ce que les étudiants apprennent en évaluant leurs pairs
 
@@ -67,6 +67,8 @@ Cela limite ce à quoi une note entre pairs devrait servir. Une note calibrée a
 ## Évaluation par les pairs augmentée par l'IA : PAIRR et la répartition Trainer/Synthesizer
 
 Le modèle de conception dominant garde le pair au centre et ajoute l'IA autour de lui. Le modèle Peer and AI Review + Reflection en est l'instance la mieux documentée. [[pairr-ai-peer-review-2025|Sperber et al. (2025)]] ont mis en œuvre PAIRR dans 10 cours d'écriture et trois cours de [[stem-education|STEM]] à forte composante d'écriture, auprès de 654 étudiants (37 % de première génération, 13 % internationaux, 68 % [[multilingual-learning|multilingues]]). Les étudiants rédigeaient, échangeaient une revue entre pairs, sollicitaient ChatGPT pour un retour fondé sur la grille sur le même brouillon, évaluaient de manière critique les deux, planifiaient les révisions et réfléchissaient. 58 % préféraient le retour combiné, 36 % le retour entre pairs seul, et seulement 6 % le retour de l'IA seul. Les deux sources étaient souvent similaires (75 % ont rapporté des similitudes, décrites comme se confirmant et se renforçant mutuellement) et, lorsqu'elles différaient, complémentaires : le retour de l'IA était souvent jugé trop général (31 %) mais fournissait des stratégies de révision actionnables sur l'organisation et la structure, tandis que le retour entre pairs était plus spécifique et détaillé (28 %) et puisait dans une connaissance contextuelle du devoir. Le fait d'évaluer de manière critique la sortie de l'IA développait l'[[ai-ed-evaluation|évaluation critique de l'IA]] et, partant, l'[[ai-literacy|littératie en IA]], et seulement 5,3 % des étudiants montraient une confiance excessive en elle.
+
+La même implémentation de 2024 a fait l'objet d'un second article qui lit les réflexions pour la manière dont les étudiants décrivaient l'outil plutôt que pour la façon dont ils évaluaient le retour. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] ont codé les réflexions de révision des 13 sections et 10 cours, et ont constaté que seule la moitié environ des étudiants adoptait les rôles anthropomorphes que l'invite proposait : tuteur (28,6 %) et collaborateur (23,1 %). Le reste se tournait vers l'outil ou la ressource (9,9 %), les amis ou les pairs (7,7 %), le robot ou l'ordinateur (7,7 %), ou des schémas qui leur étaient propres. Les auteurs lisent ce placement comme le point essentiel : les étudiants placent le chatbot à la périphérie d'une écologie d'écriture dont le centre est l'étudiant, les pairs et l'enseignant.
 
 Le schéma se généralise à l'écriture professionnelle. [[gift-ai-pairr-business-writing-2025|MacArthur et al. (2025)]] ont appliqué PAIRR à un cours d'écriture commerciale de troisième cycle où chacun des cinq devoirs majeurs exigeait un brouillon, une analyse du public, une revue par 2–3 pairs, et une révision (34 des 46 étudiants inscrits ont participé ; 69 % multilingues). Les étudiants valorisaient le retour de l'IA mais le trouvaient parfois trop général, et valorisaient la connaissance contextuelle des pairs — « mes pairs l'ont regardé du point de vue de l'employeur… ChatGPT ne l'a pas fait autant. » Un quart des réflexions codées dans la plus grande étude PAIRR exprimait un scepticisme à l'égard du retour de l'IA ou signalait des inexactitudes, ce que les auteurs interprètent comme le développement de la littératie IA. L'étude est descriptive et propre au cours.
 
@@ -99,8 +101,10 @@ Les questions ouvertes portent sur la solidité des données probantes, et pas s
 ## Idées fausses courantes
 
 - **« La soutenance orale met fin au travail assisté par l'IA. »** Les caractères collés par rapport au total **sont passés de 61.0% à 68.1% (p < 0.0001)** après que chaque rendu de CS1 eut été soumis à un **entretien oral de revue de code de 15 minutes pesant 70% de la note**. Le comportement visé a augmenté — et **les notes d'examen n'ont pas baissé et le temps passé sur la tâche est resté stable**, tandis que **90% des étudiants déclaraient que les entretiens les motivaient**. L'intervention a agi sur la compréhension, non sur le collage.
-- **« La détection de la tricherie est la raison d'être de l'évaluation orale. »** Les résultats mesurés étaient la compréhension et la motivation, non la réduction du texte collé. Juger le dispositif à son taux de détection méconnaît ce qu'il a accompli.
+- **« La détection de la tricherie est la raison d'être de l'[[oral-assessment|évaluation orale]]. »** Les résultats mesurés étaient la compréhension et la motivation, non la réduction du texte collé. Juger le dispositif à son taux de détection méconnaît ce qu'il a accompli.
 - **« L'évaluation par les pairs est un substitut moins coûteux au retour de l'enseignant. »** C'est l'[[learning-by-teaching|apprentissage par l'enseignement]] qui constitue le mécanisme, et il apparaît même chez les machines : le discours de type apprentissage entre pairs chez plus de **2.4 millions d'agents d'IA** était surtout **de l'affirmation plutôt que de l'enquête**. Produire une critique est un acte différent de la recevoir.
+
+- **Les formulaires réfléchis entre pairs et sur soi comme registre derrière la note de groupe.** [[issa-teamwork-framework-academic-integrity-2024|Issa et Hall (2024)]] ont utilisé un formulaire de réflexion par pair plus un formulaire d'auto-réflexion par étudiant dans une unité de gestion de projet d'entreprise de troisième cycle, ainsi qu'une réunion de 30 minutes avec chaque équipe au cours de laquelle on demandait aux membres si leur contribution était originale. Les formulaires n'étaient pas notés comme un échange de retour. Ils constituaient la preuve par personne qui permettait à l'enseignant de défendre une note individuelle au sein d'une évaluation d'équipe pesant 40 %. La hausse de la note du cadre, de 27/40 à 31/40, est confondue avec un nouveau chargé de cours, et sa revendication d'intégrité n'est pas quantifiée, si bien que la partie transférable est la structure de registre, et non l'ampleur de l'effet.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — PAIRR et le retour combiné pairs-plus-IA : les séquences et leurs données comparatives
@@ -143,3 +147,5 @@ Les questions ouvertes portent sur la solidité des données probantes, et pas s
 - [[ai-agents-peer-learning-discourse]] — Le discours de type apprentissage par les pairs parmi 2,4 millions d'agents IA (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit de 14 méta-analyses sur l'IAED et de 59 études primaires (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Le retour de l'enseignant face au retour entre pairs assisté par l'IA dans l'écriture en L2 : quantité, focus et trajectoires d'amélioration sur deux tâches (Tang, Li & Luo 2026)
+- [[issa-teamwork-framework-academic-integrity-2024]] — Des formulaires réfléchis de soi et entre pairs comme preuve par personne derrière une note de groupe (Issa & Hall 2024)
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Vocabulaire des rôles chez 654 étudiants : tuteur 28,6 %, collaborateur 23,1 %, outil 9,9 %, robot 7,7 %

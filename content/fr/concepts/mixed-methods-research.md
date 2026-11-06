@@ -1,13 +1,13 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-01T10:13:49-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,22 +37,22 @@ ai_assist:
 
 Les dispositifs à méthodes mixtes intègrent l'ampleur, la précision et le pouvoir causal des méthodes quantitatives à la profondeur, au contexte et au sens des méthodes qualitatives. La proposition de valeur est la **triangulation** : lorsque des fils indépendants convergent vers la même conclusion, la confiance augmente ; lorsqu'ils divergent, l'écart lui-même est informatif.
 
-Sur 394 études de GenAI dans l'enseignement supérieur, les méthodes mixtes constituaient le schéma de recherche le plus courant (213 études, 54%), suivies de la recherche quantitative (109, 28%) et qualitative (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+Sur 394 études de [[generative-ai|GenAI]] dans l'enseignement supérieur, 213 (54 %) ont utilisé les méthodes mixtes, 109 (28 %) des dispositifs quantitatifs et 72 (18 %) des dispositifs qualitatifs — le choix le plus courant du champ ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Schémas de conception courants
 
 - **Explicatif séquentiel (QUANT → qual).** Les données quantitatives sont recueillies d'abord, puis les données qualitatives expliquent ou contextualisent les constats quantitatifs surprenants ou significatifs. [[genai-over-reliance-learning-2026|Une étude à méthode mixte sur l'IA générative et l'apprentissage durable]] associe des enquêtes à trois vagues à des entretiens d'éducateurs pour expliquer le schéma quantitatif allant de l'amélioration à la dépendance excessive.
 - **Exploratoire séquentiel (QUAL → quant).** Le travail qualitatif bâtit la théorie, génère des hypothèses, ou éclaire la conception d'un instrument qui est ensuite testé quantitativement. [[becker-chatgpt-typology-physics-2026|Une typologie qualitative de l'adoption de ChatGPT]] produit des catégories qui peuvent éclairer la conception d'une enquête ultérieure.
-- **Séquentiel exploratoire avec invariance de mesure.** [[trust-calibration-genai-collaborative-regulation-2026|Bu et Li (2026)]] codent des entretiens pour identifier les quatre dimensions du modèle, construisent à partir d'elles un instrument à 22 items, puis testent l'invariance configurationnelle, métrique et scalaire selon le genre et le domaine disciplinaire sur un échantillon analytique de 642 — montrant un fil qualitatif alimentant un instrument d'enquête et un test d'invariance confirmant que les construits se comportent de la même manière selon les groupes.
+- **Séquentiel exploratoire avec invariance de mesure.** [[trust-calibration-genai-collaborative-regulation-2026|Bu et Li (2026)]] codent des entretiens pour identifier les quatre dimensions du modèle, construisent à partir d'elles un instrument à 22 items, puis testent l'invariance configurationnelle, métrique et scalaire selon le genre et le domaine disciplinaire sur un échantillon analytique de 642. Le dispositif montre un fil qualitatif alimentant un [[self-report-measures|instrument d'enquête]] et un test d'invariance confirmant que les construits se comportent de la même manière selon les groupes.
 - **Convergent/parallèle.** Les fils quantitatif et qualitatif se déroulent simultanément et sont intégrés dans l'analyse. [[t2i-competence-paradox-2026|L'étude du paradoxe des compétences]] utilise en parallèle des groupes de discussion d'enseignants, une enquête d'étudiants et des entretiens de suivi ; [[fouad-bentley-trust-utility-gap-physics-2026|l'étude sur l'écart confiance–utilité]] combine des preuves d'enquête et d'entretien sur l'adoption de l'IA par les étudiants en physique.
 
 ## Comment les méthodes mixtes apparaissent dans la base de connaissances
 
 - **Expliquer les mécanismes.** [[same-ai-different-pathways]] combine des fils pour déballer les mécanismes de l'apprentissage médié par l'IA à travers les contextes discipline–institution, là où des différences quantitatives seules seraient opaques.
-- **Compléter les données de résultats par l'expérience.** [[hazra-safetutors-pedagogical-safety-2026|La sécurité des tuteurs d'IA]] associe des indicateurs quantitatifs de préjudice à des récits qualitatifs de préjudice pédagogique ; [[t2i-competence-paradox-2026]] associe des résultats d'enquête quantitatifs à des récits qualitatifs de négociation de l'identité.
+- **Compléter les données de résultats par l'expérience.** [[hazra-safetutors-pedagogical-safety-2026|La sécurité des tuteurs d'IA]] associe des indicateurs quantitatifs de préjudice à des récits qualitatifs de [[pedagogy|préjudice pédagogique]] ; [[t2i-competence-paradox-2026]] associe des résultats d'enquête quantitatifs à des récits qualitatifs de négociation de l'identité.
 - **Intégration sans regroupement.** [[wang-reflective-ai-use-engagement-programming-2026|Wang et Zhao (2026)]] coordonnent une enquête (N = 131), un codage humain de 66 textes d'engagement critique, et des journaux de programmation (N = 1 423) issus d'échantillons différents et jamais fusionnés, en attribuant à la branche des traces sans IA un rôle de test de frontière plutôt qu'un rôle confirmatoire — chaque fil reçoit une tâche inférentielle distincte au lieu d'être rapporté côte à côte.
 - **Conception et évaluation.** [[genai-feedback-design-multisite-experiment|Une expérience multisites sur la conception de la rétroaction par l'IA générative]] combine la mesure expérimentale des résultats à une rétroaction qualitative des apprenants, intégrant l'estimation quantitative de l'effet à des orientations de conception.
-- **Preuves de processus au sein d'un grand essai.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] associent l'observation du système et des discussions avec des administrateurs à une évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres, dotée de la puissance nécessaire pour détecter des effets de 0,05 écart-type, si bien que la même étude explique les conditions organisationnelles qui ont soutenu un programme d'agent conversationnel et rapporte des nuls étroitement bornés sur la moyenne générale et la persévérance.
+- **Preuves de processus au sein d'un grand essai.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] associent l'observation du système et des discussions avec des administrateurs à une évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres, dotée de la puissance nécessaire pour détecter des effets de 0,05 écart-type, si bien que la même étude explique les conditions organisationnelles qui ont soutenu un programme d'[[conversational-ai|agent conversationnel]] et rapporte des nuls étroitement bornés sur la moyenne générale et la persévérance.
 
 - **Trianguler un phénomène de politique publique.** Une étude sur l'ajournement de la vie privée des étudiants dans les technologies éducatives associe douze entretiens semidirectifs à un audit documentaire de 48 plateformes noté par deux codeurs pour la fiabilité inter-juges (κ de Cohen moyen = 0,781), utilisant les entretiens pour expliquer pourquoi la vie privée est ajournée et l'audit pour montrer le schéma de divulgation que cet ajournement produit — un dispositif convergent dans lequel aucun fil seul ne pouvait étayer l'affirmation ([[edtech-privacy-deferral-2026|Nair et Greenstadt, 2026)]]).
 
@@ -70,7 +70,7 @@ La recherche à méthodes mixtes se situe entre les traditions [[quantitative-re
 ## Idées fausses courantes
 
 - **« Les méthodes mixtes sont un choix de niche dans la recherche sur l'IA en éducation. »** Sur **394 études de GenAI dans l'enseignement supérieur**, les méthodes mixtes constituaient le **schéma de recherche le plus courant (213 études, 54 %)**, suivies de la recherche quantitative (109, 28 %) et qualitative (72, 18 %). Le schéma dominant du champ n'est pas celui que ses débats méthodologiques supposent.
-- **« Des preuves d'observation et d'entretien peuvent porter une affirmation sur un système. »** Associer l'observation du système et des discussions avec des administrateurs à une **évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres**, dotée de la puissance nécessaire pour détecter des effets de **0,05 écart-type**, montre ce que le fil qualitatif ne peut pas faire seul : détecter un effet de petite taille de façon fiable. Mélanger les méthodes n'est pas un moyen de transférer de la puissance d'un fil à l'autre.
+- **« Des preuves d'observation et d'entretien peuvent porter une affirmation sur un système. »** Associer l'observation du système et des discussions avec des [[administrator|administrateurs]] à une **évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres**, dotée de la puissance nécessaire pour détecter des effets de **0,05 écart-type**, montre ce que le fil qualitatif ne peut pas faire seul : détecter un effet de petite taille de façon fiable. Mélanger les méthodes n'est pas un moyen de transférer de la puissance d'un fil à l'autre.
 - **« La triangulation signifie que deux méthodes faibles font une affirmation forte. »** La valeur de l'appariement est que chaque fil répond à une question différente. Un dispositif qui exécute les deux puis rapporte le constat qualitatif comme confirmation du quantitatif n'a pas triangulé, il a reformulé.
 
 ## Concepts liés

@@ -1,14 +1,14 @@
 ---
 title: "Parties prenantes"
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-11-01T10:18:23-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ L'identité est l'ancre humaine du paysage des parties prenantes : c'est ce que 
 
 **« Donner une voix à chaque groupe de parties prenantes résout le conflit. »** La consultation n'est pas une pondération. Le cadrage de cette page situe la question de conception dans la manière de donner à chaque préoccupation **un poids réel plutôt que de laisser la voix la plus forte l'emporter**, ce qui est un problème de procédure — qui décide, avec quelles preuves et avec quel recours — et non un problème de communication.
 
-**« L'analyse des parties prenantes est un exercice de début de projet. »** Les tensions persistent en exploitation, parce que les rôles continuent d'interpréter différemment le même système. Une couche de personnalisation côté étudiant et un tableau de bord d'intégrité côté corps professoral sont les mêmes données vues de deux positions, et le conflit revient chaque fois que l'une est ajustée.
+**« L'analyse des parties prenantes est un exercice de début de projet. »** Les tensions persistent en exploitation, parce que les rôles continuent d'interpréter différemment le même système. Une couche de [[personalized-learning|personnalisation]] côté étudiant et un tableau de bord d'intégrité côté corps professoral sont les mêmes données vues de deux positions, et le conflit revient chaque fois que l'une est ajustée.
 
 **« Une identité à travers les publics signifie qu'un seul message peut les servir tous. »** Communiquer à travers plusieurs publics exige de traduire la même décision en termes différents sans la dénaturer, ce qui est plus que réécrire un message de quatre façons.
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
@@ -47,7 +47,7 @@ Un [[agentic-ai|agent]] planifie, appelle des outils, conserve le contexte, déc
 
 [[agentic-workflows-education|Agentic Workflows in Education]] nomme quatre capacités récurrentes : la réflexion, la planification, l'usage d'outils et la collaboration multi-agents. Chacune ajoute un coût à côté de la possibilité, en [[explainable-ai|interprétabilité]], en coordination, en [[trust-calibration|confiance]], en latence et en supervision.
 
-Les rôles côté étudiant vont du tutorat et de la planification d'étude [[adaptive-learning|adaptatifs]] au retour [[formative-assessment|formatif]], à la [[problem-solving|résolution de problèmes]] guidée et à la génération d'exercices, jusqu'aux recommandations de prérequis et à l'[[metacognition|amorçage métacognitif]] réflexif par [[prompt-engineering|invites]]. Les rôles côté enseignant couvrent le développement de matériel, la [[automated-question-generation|génération de questions]] et leur validation, le tri des rétroactions, la [[learning-analytics|analytique]] de cours, la conception pédagogique, la recherche de ressources et l'orchestration de sous-agents spécialisés.
+Les rôles côté étudiant vont du tutorat et de la planification d'étude [[adaptive-learning|adaptatifs]] au retour [[formative-assessment|formatif]], à la [[problem-solving|résolution de problèmes]] guidée et à la génération d'exercices, jusqu'aux recommandations de prérequis et à l'[[metacognition|amorçage métacognitif]] réflexif par [[prompt-engineering|invites]]. Les rôles côté enseignant couvrent le développement de matériel, la [[automated-question-generation|génération de questions]] et leur validation, le tri des rétroactions, la [[learning-analytics|analytique]] de cours, la [[learning-design|conception pédagogique]], la recherche de ressources et l'orchestration de sous-agents spécialisés.
 
 Deux d'entre eux sont plus sûrs en premier, parce que tous deux produisent un artefact qu'une personne lit avant les étudiants : un générateur de questions associé à un validateur, et une rédaction que l'enseignant retouche.
 

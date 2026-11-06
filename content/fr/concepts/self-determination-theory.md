@@ -1,7 +1,7 @@
 ---
 title: "La théorie de l'autodétermination"
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-01T10:13:16-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-01T09:13:47-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,9 +61,9 @@ Un test configurationnel aiguise le constat : parmi 498 étudiants en médecine 
 
 Pour les enseignants eux-mêmes, la collaboration avec l'IA a deux faces : une étude à trois vagues portant sur 468 enseignants universitaires a montré qu'elle augmentait l'engagement au travail par la disponibilité psychologique tout en le diminuant par l'aliénation au travail, et que la [[teacher-ai-competency|compétence numérique]] renforçait le premier chemin et affaiblissait le second ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
-Un cadre de co-agence borne la portée de la SDT dans l'éducation médiée par l'IA : elle change les circonstances dans lesquelles l'autonomie, la compétence et le sentiment d'appartenance apparaissent, mais laisse sans réponse l'équité du pouvoir, la propriété des données et la redevabilité, ce pourquoi ses auteurs posent la responsabilité épistémique humaine comme condition non négociable extérieure à la théorie ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+Un cadre de co-agence borne la portée de la SDT dans l'éducation médiée par l'IA : elle change les circonstances dans lesquelles l'autonomie, la compétence et le sentiment d'appartenance apparaissent, mais laisse sans réponse l'[[equity-in-ai-education|équité]] du pouvoir, la propriété des données et la redevabilité, ce pourquoi ses auteurs posent la responsabilité épistémique humaine comme condition non négociable extérieure à la théorie ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
-**Le soutien à l'autonomie comme cadre de l'usage de l'IA générative par les enfants.** [[family-school-autonomy-support-genai-2026|Fan, Li et Zhang (2026)]] déplacent la question de l'usage responsable de la restriction vers le soutien des besoins, soutenant que la distinction qui compte est de savoir si les adultes entourant un enfant soutiennent son autonomie plutôt qu'ils ne la contrôlent, et distinguant au sein des termes de la SDT le [[cognitive-offloading|délégation cognitive]] dépendante du délégation autonome : la délégation dépendante transfère l'[[agency|agentivité]] et abaisse la motivation intrinsèque, tandis que la délégation autonome étaye pendant que l'apprenant conserve le contrôle épistémique. Deux caractéristiques de cette revue sont directement pertinentes pour l'application de la SDT : elle insiste sur le fait que le soutien à l'autonomie n'est pas de la permissivité, et elle traite la coordination famille-école que les recommandations actuelles présupposent comme une hypothèse non testée, en formalisant des versions additives, synergiques et compensatoires que seul un essai factoriel contrastant les recommandations réservées à la famille, réservées à l'école, coordonnées et la pratique habituelle pourrait discriminer.
+**Le soutien à l'autonomie comme cadre de l'usage de l'IA générative par les enfants.** [[family-school-autonomy-support-genai-2026|Fan, Li et Zhang (2026)]] déplacent la question de l'usage responsable de la restriction vers le soutien des besoins, soutenant que la distinction qui compte est de savoir si les adultes entourant un enfant soutiennent son autonomie plutôt qu'ils ne la contrôlent, et distinguant au sein des termes de la SDT le [[cognitive-offloading|délégation cognitive]] dépendante du délégation autonome. La délégation dépendante transfère l'[[agency|agentivité]] et abaisse la motivation intrinsèque, tandis que la délégation autonome [[scaffolding|étaye]] pendant que l'apprenant conserve le contrôle épistémique. Deux caractéristiques de cette revue sont directement pertinentes pour l'application de la SDT : elle insiste sur le fait que le soutien à l'autonomie n'est pas de la permissivité, et elle traite la coordination famille-école que les recommandations actuelles présupposent comme une hypothèse non testée, en formalisant des versions additives, synergiques et compensatoires que seul un essai factoriel contrastant les recommandations réservées à la famille, réservées à l'école, coordonnées et la pratique habituelle pourrait discriminer.
 
 ## Connexions
 
@@ -75,7 +75,7 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 
 - **« Le type de motivation compte moins que sa quantité. »** Une étude d'un an a trouvé **trois profils motivationnels — Désengagé, En développement, Autodéterminé — stables dans le temps**, et les élèves ayant atteint le profil **Autodéterminé** ont montré les **plus grands gains de [[ai-literacy|littératie en IA]]**. La qualité de la motivation prédisait l'apprentissage, et les profils ne dérivaient pas simplement vers le haut.
 - **« Soutenir l'autonomie signifie retirer la structure. »** Le mécanisme de la SDT est l'autonomie, la compétence et l'appartenance ensemble, et les preuves longitudinales montrent que leur satisfaction prédit les gains plutôt qu'elle ne les accompagne simplement. L'autonomie sans soutien à la compétence est de la permissivité, et elle ne remplit pas les conditions de la théorie.
-- **« Un agent conversationnel peut fournir les trois besoins automatiquement. »** Une étude a constaté que ChatGPT pouvait soutenir l'autonomie, l'appartenance et la compétence en apprentissage des langues — une possibilité, non une propriété. Savoir si une interaction donnée les soutient est une question empirique sur la manière dont elle est utilisée.
+- **« Un [[conversational-ai|agent conversationnel]] peut fournir les trois besoins automatiquement. »** Une étude a constaté que ChatGPT pouvait soutenir l'autonomie, l'appartenance et la compétence en apprentissage des langues — une possibilité, non une propriété. Savoir si une interaction donnée les soutient est une question empirique sur la manière dont elle est utilisée.
 
 ## Concepts liés
 

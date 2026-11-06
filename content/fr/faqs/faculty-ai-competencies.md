@@ -1,7 +1,7 @@
 ---
 title: "Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
@@ -110,7 +110,7 @@ Les experts disciplinaires trouveront seuls l'intégration. La connaissance du c
 
 Un référentiel suffira pour tout le monde. Le standard à six rôles existe parce que TPACK, SAMR et les grands standards des éducateurs couvrent les enseignants du primaire et du secondaire, ou la seule dimension d'enseignement.
 
-La résistance est un manque de connaissances à combler. L'aversion au risque prédisait négativement l'intention, et le travail sur l'identité décrit des enseignants raisonnant à partir de valeurs pédagogiques. Une partie de ce qui ressemble à de la réticence est une position défendable sur la dépendance excessive des étudiants.
+La résistance est un manque de connaissances à combler. L'aversion au risque prédisait négativement l'intention, et le [[learner-identity|travail sur l'identité]] décrit des enseignants raisonnant à partir de valeurs pédagogiques. Une partie de ce qui ressemble à de la réticence est une position défendable sur la dépendance excessive des étudiants.
 
 ## Ce qui va vous retomber dessus
 

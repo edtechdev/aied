@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour enseigner l'écriture dans le contexte de l'IA ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
@@ -29,7 +29,7 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Vous révisez une consigne de travail, et la phrase sous vos yeux dit que l'IA est autorisée avec mention de son usage, ce qui n'apprend rien à l'étudiant sur la question de savoir si l'outil peut fournir l'argument. Un collègue a proposé une interdiction à l'échelle du cours, et vous soupçonnez qu'elle frappera le plus durement les scripteurs plurilingues présents dans la salle. Ou bien une série de dissertations est revenue plus lisse que la discussion de séminaire qui la précédait, et il vous faut une règle que vous pouvez défendre à la prochaine réunion de programme.
+Vous révisez une consigne de travail, et la phrase sous vos yeux dit que l'IA est autorisée avec mention de son usage, ce qui n'apprend rien à l'étudiant sur la question de savoir si l'outil peut fournir l'argument. Un collègue a proposé une interdiction à l'échelle du cours, et vous soupçonnez qu'elle frappera le plus durement les scripteurs plurilingues présents dans la salle. Ou bien une série de dissertations est revenue plus lisse que la discussion de séminaire qui la précédait, et il vous faut une règle que vous pouvez défendre à la prochaine réunion de [[curriculum-design|programme]].
 
 L'essentiel : nommez le travail intellectuel que le devoir existe pour produire, gardez cette étape avec l'étudiant, et confiez à l'outil des tâches qui renvoient quelque chose que l'étudiant doit juger. Une règle écrite ainsi indique à l'étudiant quelle étape elle protège.
 
@@ -85,7 +85,7 @@ Une séquence qui vaut la peine d'être empruntée maintient l'IA dans un rôle 
 | **8. Réviser** | Apporter et justifier des changements substantiels | Tester la clarté, proposer des variantes | Révision |
 | **9. Vérifier** | Vérifier chaque affirmation factuelle ou dépendante d'une source | Ne peut pas vérifier sa propre production | Sources et preuves |
 | **10. Réfléchir et déclarer** | Expliquer le rôle de l'IA et ce qui a changé dans sa pensée | Rien | Brève réflexion sur le processus |
-| **11. Contrôle indépendant** | Expliquer ou appliquer le raisonnement sans IA | Rien | Soutenance orale, écriture rapide, nouveau cas |
+| **11. Contrôle indépendant** | Expliquer ou appliquer le raisonnement sans IA | Rien | [[oral-assessment|Soutenance orale]], écriture rapide, nouveau cas |
 
 C'est [[pairr-ai-peer-review-2025|PAIRR]] étendu : brouillon, rétroaction humaine, rétroaction par IA, comparaison, révision, réflexion, avec une base de référence indépendante et une frontière plus serrée autour du raisonnement. Utilisez la colonne du milieu comme devoir et la colonne de droite comme ce sur quoi une note peut reposer.
 

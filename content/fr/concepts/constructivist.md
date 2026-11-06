@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: "Le constructivisme"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-05T18:23:46-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-01T09:07:36-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ Les travaux empiriques mettent régulièrement au jour un écart entre les objec
 Ce schéma se généralise à tout le champ :
 
 - Lorsque l'IA générative rédige, raisonne ou code à la place des étudiants, l'apprenant perd le processus de pensée constructive que la tâche était censée développer — l'inquiétude centrale de la [[cognitive-offloading]] et de la [[cognitive-offloading|sur-dépendance]].([[generative-refusal-ai-tools-for-thought]])
-- La perte est désormais mesurable, et elle suit le travail plutôt que l'outil. Chez 26 811 élèves chinois du secondaire, l'IA générative a fait monter les notes de devoirs de 18 % et réduit le temps d'exécution de 30 %, tandis que les notes d'examen sans documents chutaient de 20 % en six mois. Le déclin se concentrait parmi les quelque 81 % d'utilisateurs dont les temps d'exécution indiquaient une externalisation des devoirs, et les utilisateurs qui conservaient un temps de devoirs comparable à celui des non-utilisateurs apprenaient aussi efficacement ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]]). La variable qui prédisait l'apprentissage n'était pas l'usage de l'IA mais le fait que l'apprenant accomplisse encore la construction.
+- La perte est désormais mesurable, et elle suit le travail plutôt que l'outil. Chez 26 811 élèves chinois du secondaire, l'IA générative a fait monter les notes de devoirs de 18 % et réduit le temps d'exécution de 30 %, tandis que les notes d'[[summative-assessment|examen sans documents]] chutaient de 20 % en six mois. Le déclin se concentrait parmi les quelque 81 % d'utilisateurs dont les temps d'exécution indiquaient une externalisation des devoirs, et les utilisateurs qui conservaient un temps de devoirs comparable à celui des non-utilisateurs apprenaient aussi efficacement ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]]). La variable qui prédisait l'apprentissage n'était pas l'usage de l'IA mais le fait que l'apprenant accomplisse encore la construction.
 - Les implémentations d'IA qui privilégient la rétroaction adaptative et l'efficacité desservent fréquemment les objectifs d'autonomie de l'apprenant, de réflexion critique et de décision autonome qu'implique le constructivisme.([[ai-vocational-education-training-review]])
 
 ### Le piège du nom : la production de l'IA générative n'est pas l'apprentissage génératif

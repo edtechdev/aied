@@ -1,7 +1,7 @@
 ---
 title: "Apprenants"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-11-01T10:17:09-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Parce que les bénéfices suivent l'avantage préalable, le travail du côté ap
 
 ## Idées fausses courantes
 
-**« Les apprenants et les étudiants sont la même population. »** Ils ne sont pas interchangeables de manière utile : *étudiants* nomme un rôle institutionnel, *apprenants* nomme une activité, et une personne peut être l'un sans l'autre — un salarié en [[professional-training|formation en milieu de travail]] est un apprenant mais pas un étudiant. Les confondre restreint la base de preuves aux personnes inscrites dans un établissement et écarte silencieusement précisément les adultes, les professionnels et les apprenants autonomes dont traite la recherche sur la [[lifelong-learning|formation tout au long de la vie]].
+**« Les apprenants et les étudiants sont la même population. »** Ils ne sont pas interchangeables de manière utile : *étudiants* nomme un rôle institutionnel, *apprenants* nomme une activité, et une personne peut être l'un sans l'autre — un salarié en [[professional-training|formation en milieu de travail]] est un apprenant mais pas un étudiant. Les confondre restreint la base de preuves aux personnes inscrites dans un établissement et écarte silencieusement précisément les adultes, les professionnels et les apprenants [[self-directed-learning|autonomes]] dont traite la recherche sur la [[lifelong-learning|formation tout au long de la vie]].
 
 **« Les apprenants déclarent que l'IA améliore leur compréhension, donc elle leur fait gagner du temps. »** Les deux affirmations se séparent dans les données d'enquête. Dans les travaux sur la productivité des études, **92,3 %** déclaraient que l'IA améliorait leur compréhension, tandis que seulement **38,5 %** déclaraient qu'elle réduisait leur temps d'étude total. Le chiffre principal décrit une compréhension ressentie ; l'écart en dessous montre que mieux comprendre et récupérer du temps sont des résultats différents, et l'affirmation très répandue selon laquelle « l'IA fait gagner du temps » est portée par le chiffre le plus faible.
 

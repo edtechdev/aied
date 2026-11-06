@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants multilingues sans mal juger leurs connaissances ni effacer leur voix ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
 weight: 72
@@ -27,7 +27,7 @@ ai_assist:
 
 Un étudiant comprend le concept et a besoin de quatre minutes de plus pour le dire en anglais. L'IA peut traduire la consigne, définir la terminologie, répéter l'explication avec lui, ou écrire la réponse entière. Trois de ces usages sont de l'enseignement. Un seul fait le devoir.
 
-Réponse courte à donner à un collègue : décidez ce que fait la langue dans cette tâche avant de décider ce que l'outil peut faire. Là où la langue est accessoire, l'IA peut retirer un obstacle qui n'a rien à voir avec votre construit. Là où la langue est le construit, le même outil contourne l'apprentissage. Le risque va dans les deux sens à la fois : le [[multilingual-learning|soutien linguistique]] peut améliorer l'accès, et la notation automatisée peut encore mal lire l'étudiant. Dans une étude de physique, des explications de moindre qualité linguistique ont été systématiquement notées en dessous du jugement d'experts par toutes les approches de notation par IA testées, neuf systèmes d'apprentissage automatique et deux systèmes de modèle de langue, auprès de 116 élèves du secondaire ([[ai-scoring-language-bias-physics|Feser et Tschisgale, 2026]]). La fluidité et la compréhension étaient notées comme une seule chose.
+Réponse courte à donner à un collègue : décidez ce que fait la langue dans cette tâche avant de décider ce que l'outil peut faire. Là où la langue est accessoire, l'IA peut retirer un obstacle qui n'a rien à voir avec votre construit. Là où la langue est le construit, le même outil contourne l'apprentissage. Le risque va dans les deux sens à la fois : le [[multilingual-learning|soutien linguistique]] peut améliorer l'accès, et la [[automated-assessment|notation automatisée]] peut encore mal lire l'étudiant. Dans une étude de physique, des explications de moindre qualité linguistique ont été systématiquement notées en dessous du jugement d'experts par toutes les approches de notation par IA testées, neuf [[machine-learning|systèmes d'apprentissage automatique]] et deux systèmes de modèle de langue, auprès de 116 élèves du secondaire ([[ai-scoring-language-bias-physics|Feser et Tschisgale, 2026]]). La fluidité et la compréhension étaient notées comme une seule chose.
 
 ## La version courte
 
@@ -45,13 +45,13 @@ Réponse courte à donner à un collègue : décidez ce que fait la langue dans 
 
 ## Décider ce que fait la langue
 
-Dans une explication de biologie, la grammaire est surtout accessoire au concept évalué. Dans un cours de langue, produire et réviser des structures particulières est l'apprentissage. Dans la communication professionnelle, l'exactitude disciplinaire, le public et le registre comptent tous. Le même outil de traduction est approprié dans le premier cas, discutable dans le second et négociable dans le troisième.
+Dans une [[biology-education|explication de biologie]], la grammaire est surtout accessoire au concept évalué. Dans un cours de langue, produire et réviser des structures particulières est l'apprentissage. Dans la communication professionnelle, l'exactitude disciplinaire, le public et le registre comptent tous. Le même outil de traduction est approprié dans le premier cas, discutable dans le second et négociable dans le troisième.
 
-Écrivez la décision là où les étudiants peuvent la lire. Si les étudiants peuvent traduire les consignes mais doivent produire une explication dans la langue cible sans aide, dites-le explicitement. Si le soutien terminologique est autorisé, précisez ce que l'étudiant doit encore expliquer et vérifier. Vérifiez ensuite le dispositif au regard des exigences d'aménagement et de la politique de l'établissement, plutôt que de traiter toute forme d'aide linguistique comme interchangeable. Un étudiant bénéficiant d'un aménagement documenté et un étudiant qui évite la pratique peuvent demander la même chose, et seul le second est votre problème pédagogique.
+Écrivez la décision là où les étudiants peuvent la lire. Si les étudiants peuvent traduire les consignes mais doivent produire une explication dans la langue cible sans aide, dites-le explicitement. Si le soutien terminologique est autorisé, précisez ce que l'étudiant doit encore expliquer et vérifier. Vérifiez ensuite le dispositif au regard des exigences d'aménagement et de la [[educational-policy-ai|politique de l'établissement]], plutôt que de traiter toute forme d'aide linguistique comme interchangeable. Un étudiant bénéficiant d'un aménagement documenté et un étudiant qui évite la pratique peuvent demander la même chose, et seul le second est votre problème pédagogique.
 
 ## Ce que la recherche soutient, et ce qu'elle ne soutient pas
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez et Arabadzhy (2026)]] ont passé en revue 24 études empiriques sur les chatbots génératifs en apprentissage des langues. Leur apport est taxonomique : chaque sous-affordance cataloguée pour les chatbots pré-génératifs persiste, et trois sont nouvelles, dont le **translanguaging**, le passage délibéré d'une langue à l'autre comme partie de l'apprentissage. C'est une carte des usages et des expériences rapportés plutôt qu'une estimation regroupée, et le corpus est géographiquement concentré, la Chine, l'Iran, Taïwan et la Turquie représentant 19 des 24 études et toutes sauf une se déroulant dans des institutions formelles. Le soutien à l'usage de l'explication translinguistique comme geste d'apprentissage n'est pas un soutien à la traduction de chaque devoir.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez et Arabadzhy (2026)]] ont passé en revue 24 études empiriques sur les [[conversational-ai|chatbots]] génératifs en [[language-learning|apprentissage des langues]]. Leur apport est taxonomique : chaque sous-affordance cataloguée pour les chatbots pré-génératifs persiste, et trois sont nouvelles, dont le **translanguaging**, le passage délibéré d'une langue à l'autre comme partie de l'apprentissage. C'est une carte des usages et des expériences rapportés plutôt qu'une estimation regroupée, et le corpus est géographiquement concentré, la Chine, l'Iran, Taïwan et la Turquie représentant 19 des 24 études et toutes sauf une se déroulant dans des institutions formelles. Le soutien à l'usage de l'explication translinguistique comme geste d'apprentissage n'est pas un soutien à la traduction de chaque devoir.
 
 C'est dans l'évaluation que les preuves deviennent plus nettes et les enjeux plus élevés. [[ai-scoring-language-bias-physics|Feser et Tschisgale (2026)]] ont comparé onze approches de notation automatisée aux notes d'experts humains pour les explications de physique de 116 élèves du secondaire et ont trouvé une sous-estimation systématique de la compréhension conceptuelle pour les explications linguistiquement plus faibles, dans chacune des approches. Le plan isole le mécanisme : le même contenu conceptuel, exprimé dans une prose plus faible, obtenait une note plus basse. Ce n'est pas une affirmation sur les étudiants multilingues d'un pays particulier, et c'est exactement le schéma qui fait de la concordance globale de notation un mauvais diagnostic. Un correcteur peut s'accorder en moyenne avec des correcteurs humains tout en se trompant dans une direction cohérente pour les étudiants dont la langue est encore en développement.
 
@@ -116,7 +116,7 @@ Offrez des alternatives praticables. Les étudiants ont besoin d'un chemin clair
 
 **4.** Ajoutez une vérification qui consigne le sens ou la décision propre à l'étudiant, par exemple une note de deux phrases sur un changement qu'il a accepté ou refusé.
 
-**5.** Si votre grille note la qualité de l'écriture, séparez ce critère du critère conceptuel et relisez deux copies de chaque avec cette séparation en tête.
+**5.** Si votre grille note la [[writing-education|qualité de l'écriture]], séparez ce critère du critère conceptuel et relisez deux copies de chaque avec cette séparation en tête.
 
 ## Où aller ensuite
 

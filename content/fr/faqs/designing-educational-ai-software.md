@@ -1,13 +1,13 @@
 ---
 title: "Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -36,7 +36,7 @@ La réponse est plus étroite que ne le supposent la plupart des spécifications
 
 **1.** Écrivez ce que le système décide et ce qu'un enseignant décide. Cette frontière devient l'architecture.
 
-**2.** Évaluez l'interaction multi-tours et sensible à la discipline contre un vrai programme, pas des prompts isolés contre une grille de sécurité générique.
+**2.** Évaluez l'interaction multi-tours et sensible à la discipline contre un vrai [[curriculum-design|programme]], pas des prompts isolés contre une grille de sécurité générique.
 
 **3.** Ancrez les réponses dans un contenu approuvé, et gardez le composant de vérification séparé du composant conversationnel.
 
@@ -72,7 +72,7 @@ La partie transférable est la séparation : les composants qui vérifient ne co
 
 ## Traitez le travail de l'étudiant comme une entrée non fiable
 
-Le modèle de menace que la plupart des conseils de conception omettent se trouve à l'intérieur de l'artefact évalué. [[humble-prompt-injection-ai-grading-red-team-2026|L'évaluation adversariale en équipe rouge de Humble (2026)]] a testé si des étudiants pouvaient manipuler un correcteur fondé sur un LLM par injection de prompt dans leurs copies, et la manipulation a fonctionné : les injections qui donnent des instructions au correcteur, le recadrent ou lui font jouer un rôle déplacent la note sans changer le travail.
+Le modèle de menace que la plupart des conseils de conception omettent se trouve à l'intérieur de l'artefact évalué. [[humble-prompt-injection-ai-grading-red-team-2026|L'évaluation adversariale en équipe rouge de Humble (2026)]] a testé si des étudiants pouvaient manipuler un correcteur fondé sur un [[llm|LLM]] par injection de prompt dans leurs copies, et la manipulation a fonctionné : les injections qui donnent des instructions au correcteur, le recadrent ou lui font jouer un rôle déplacent la note sans changer le travail.
 
 Gardez la grille et les instructions en dehors de la fenêtre de contexte contrôlée par l'étudiant, retirez ou signalez le contenu qui ressemble à des instructions, ne laissez jamais une copie fixer ses propres critères, et gardez une décision humaine sur toute note lourde de conséquences. Un correcteur qui lit ses instructions dans le texte qu'il juge a remis la grille au candidat.
 
@@ -103,6 +103,8 @@ Un modèle plus gros corrigera la pédagogie. L'échelle n'a pas amélioré la s
 Un bon index de récupération signifie que le contenu est maîtrisé. EduGuard associe la récupération à un vérificateur distinct et teste des prompts adversariaux demandant directement la réponse, parce qu'une récupération ancrée laisse encore un chemin vers la divulgation excessive.
 
 L'enseignant est le recours. Les six enseignants de l'étude de conception demandaient tous une journalisation, des alertes et une capacité d'intervention comme condition de leur responsabilité professionnelle. Un ticket au support n'est pas une capacité d'intervention.
+
+Le plaisir n'est pas un substitut à l'adéquation. Dans une enquête auprès de 405 étudiants de cycle supérieur en design ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), l'adéquation tâche-technologie portait son propre chemin vers l'attitude (β = 0.224) aux côtés de l'[[technology-acceptance-model|utilité perçue]], et les caractéristiques de la tâche déterminaient l'adéquation plus que les caractéristiques de l'outil (β = 0.322 contre 0.266). Le plaisir perçu augmentait la facilité d'utilisation et ne faisait rien pour l'utilité (β = −0.033, p = 0.483). Le plaisir vaut la peine d'être construit, mais il ne remplace pas le fait de faire correspondre les fonctions aux étapes du devoir.
 
 L'accessibilité est un ticket pour plus tard. Elle figure dans la spécification ou elle devient une réécriture, et les textes alternatifs et les sous-titres générés ont encore besoin d'un contrôle humain.
 

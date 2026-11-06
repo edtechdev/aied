@@ -1,7 +1,7 @@
 ---
 title: "Comment aborder les idées fausses courantes sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-05T18:53:37-05:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -69,7 +69,7 @@ Les moyennes masquent exactement la variation qui décide d'une question d'équi
 
 ### « Ils ont déclaré avoir beaucoup appris. »
 
-L'auto-déclaration mesure la perception, l'acceptation, l'anxiété et le [[self-efficacy|sentiment d'efficacité personnelle]], et elle excelle dans ces quatre domaines. Ce n'est pas une mesure d'une capacité démontrée, car on peut être confiant et se tromper, ou compétent et manquer de confiance. La synthèse du wiki sur la recherche en littératie en IA des enseignants rapporte un écart substantiel entre l'auto-évaluation et la performance mesurée, et les enseignants qui y figurent surestimaient considérablement leur compétence ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Associez chaque auto-déclaration à une tâche : identifier une erreur dans une sortie, vérifier une source, choisir une stratégie d'usage, repérer un biais ou une complaisance, réviser une réponse défaillante, calibrer sa confiance sur l'exactitude. Un seul de ces items dans une enquête transforme une opinion en résultat.
+[[self-report-measures|L'auto-déclaration]] mesure la perception, l'acceptation, l'[[anxiety-and-stress|anxiété]] et le [[self-efficacy|sentiment d'efficacité personnelle]], et elle excelle dans ces quatre domaines. Ce n'est pas une mesure d'une capacité démontrée, car on peut être confiant et se tromper, ou compétent et manquer de confiance. La synthèse du wiki sur la recherche en littératie en IA des enseignants rapporte un écart substantiel entre l'[[self-assessment|auto-évaluation]] et la performance mesurée, et les enseignants qui y figurent surestimaient considérablement leur compétence ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Associez chaque auto-déclaration à une tâche : identifier une erreur dans une sortie, vérifier une source, choisir une stratégie d'usage, repérer un biais ou une complaisance, réviser une réponse défaillante, calibrer sa confiance sur l'exactitude. Un seul de ces items dans une enquête transforme une opinion en résultat.
 
 ### « Un étudiant simulé est un substitut bon marché d'un étudiant réel. »
 
@@ -187,7 +187,7 @@ La supervision dépend de l'expertise qu'une automatisation lourde décourage de
 
 ### « Enseigner un usage critique et éthique de l'IA coûte en productivité. »
 
-Une automatisation non vérifiée produit des reprises, des incidents de sécurité, des décisions discriminatoires, une exposition juridique, un dommage réputationnel et une fausse confiance, et chacun de ces éléments est un coût que le chiffre de productivité n'a pas compté. L'employé qui vaut la peine d'être recruté est celui qui répartit le travail entre les personnes et les outils tout en tenant la qualité, la confidentialité, la responsabilité et le jugement professionnel. C'est un argument de productivité, formulé dans la direction que le bilan comptable manque habituellement ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
+Une automatisation non vérifiée produit des reprises, des incidents de sécurité, des décisions discriminatoires, une [[legal-issues-and-risks|exposition juridique]], un dommage réputationnel et une fausse confiance, et chacun de ces éléments est un coût que le chiffre de productivité n'a pas compté. L'employé qui vaut la peine d'être recruté est celui qui répartit le travail entre les personnes et les outils tout en tenant la qualité, la confidentialité, la responsabilité et le jugement professionnel. C'est un argument de productivité, formulé dans la direction que le bilan comptable manque habituellement ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
 
 ## Répondre à ce que croient les étudiants
 
@@ -251,7 +251,7 @@ Un texte de politique ne crée pas une compréhension partagée. Étudiants et p
 
 ### « La réticence du corps enseignant est un déficit de formation. »
 
-Parfois c'en est un. La disposition à intégrer est aussi une question de charge de travail, d'[[learner-identity|identité professionnelle]], de valeurs disciplinaires, de doutes sur la validité de l'évaluation, de soutien institutionnel mince, d'incertitude sur la vie privée et d'un jugement raisonné selon lequel une application particulière ne sert pas les étudiants. Le développement doit donc couvrir la compétence pratique, l'intégration pédagogique, le sens et l'identité, le temps, la politique, l'usage [[discipline-specific-aied|propre à la discipline]] et l'option d'une non-adoption réfléchie. Une démonstration ponctuelle de fonctionnalités ne résout pas un changement professionnel et organisationnel ([[educational-development|Educational Development]]).
+Parfois c'en est un. La disposition à intégrer est aussi une question de charge de travail, d'[[learner-identity|identité professionnelle]], de valeurs disciplinaires, de doutes sur la validité de l'évaluation, de soutien institutionnel mince, d'incertitude sur la vie privée et d'un jugement raisonné selon lequel une application particulière ne sert pas les étudiants. Le développement doit donc couvrir la compétence pratique, l'intégration pédagogique, le sens et l'identité, le temps, la politique, l'usage [[discipline-specific-aied|propre à la discipline]] et l'option d'une non-adoption réfléchie. Une démonstration ponctuelle de fonctionnalités ne résout pas un changement professionnel et [[change-management|organisationnel]] ([[educational-development|Educational Development]]).
 
 ### « Dire aux gens les faits corrects suffit. »
 
@@ -270,7 +270,7 @@ La version travaillée, que vous pouvez adapter à n'importe quel item de cette 
 > **Conception erronée :** « Un bon travail généré par l'IA montre que l'étudiant a appris. »
 > **Réfutation :** « Ce n'est pas nécessairement vrai. Le produit montre ce que l'étudiant et l'IA ont produit ensemble, mais il ne révèle pas quel raisonnement l'étudiant a accompli. »
 > **Remplacement :** « L'apprentissage est mieux démontré quand l'étudiant peut expliquer, transférer, adapter et reproduire la capacité. »
-> **Application :** « Faites suivre le travail assisté par l'IA d'une explication, d'une soutenance orale, d'une trace du processus ou d'une application sans aide. »
+> **Application :** « Faites suivre le travail assisté par l'IA d'une explication, d'une [[oral-assessment|soutenance orale]], d'une trace du processus ou d'une application sans aide. »
 
 Le remplacement porte le poids. Retirer une conception erronée sans fournir une meilleure explication laisse la personne sans rien pour penser, et l'ancienne croyance revient la fois suivante où l'expérience la confirme.
 
@@ -296,7 +296,7 @@ Les enseignants ont substantiellement surestimé leur compétence en IA lorsque 
 
 ### « Les parents n'accepteront rien d'autre qu'une interdiction. »
 
-Les parents demandent si la chose devant leur enfant est sûre et si le diplôme signifie quelque chose. Répondez directement à ces deux questions, avec les questions de sécurité pédagogique plutôt qu'avec le filtre de contenu, et l'argument de l'interdiction perd sa force. La question du conseil est plus étroite que le gros titre et plus facile à défendre.
+[[parents-and-families|Les parents]] demandent si la chose devant leur enfant est sûre et si le diplôme signifie quelque chose. Répondez directement à ces deux questions, avec les questions de sécurité pédagogique plutôt qu'avec le filtre de contenu, et l'argument de l'interdiction perd sa force. La question du conseil est plus étroite que le gros titre et plus facile à défendre.
 
 ### « Nous ne pouvons pas organiser des soutenances orales pour un cours magistral de cette taille. »
 

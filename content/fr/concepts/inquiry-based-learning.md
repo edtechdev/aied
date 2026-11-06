@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage par la recherche (Inquiry-Based Learning)"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-11-01T10:17:52-05:00"
+updated: "2026-11-05T18:33:20-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-01T09:13:47-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ L'apprentissage par la recherche est centré sur les questions portées par l'é
 
 ## Comment l'apprentissage par la recherche apparaît dans la base de connaissances
 
-**L'IA comme co-chercheur.** Une [[meta-analysis-systematic-review|revue systématique]] de ChatGPT pour l'apprentissage par la recherche en STIM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 études) a montré que ChatGPT était utilisé principalement dans les phases de conceptualisation, d'investigation et de discussion — comme outil d'apprentissage, tuteur, pair d'apprentissage, expert du domaine et assistant [[teacher-role|d'enseignement]] — améliorant la performance, la [[critical-thinking|pensée critique]], l'[[student-engagement|engagement]] et la motivation, tout en posant des risques de dépendance excessive, d'hallucination et de conclusions superficielles lorsque les productions sont traitées comme faisant autorité.
+**L'IA comme co-chercheur.** Une [[meta-analysis-systematic-review|revue systématique]] de ChatGPT pour l'apprentissage par la recherche en STIM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 études) a montré que ChatGPT était utilisé principalement dans les phases de conceptualisation, d'investigation et de discussion — comme outil d'apprentissage, tuteur, pair d'apprentissage, expert du domaine et assistant [[teacher-role|d'enseignement]] — améliorant la performance, la [[critical-thinking|pensée critique]], l'[[student-engagement|engagement]] et la motivation, tout en posant des risques de dépendance excessive, d'[[hallucination-risk|hallucination]] et de conclusions superficielles lorsque les productions sont traitées comme faisant autorité.
 
 **La formulation de problèmes comme point de départ.** Une quasi-expérience menée auprès de 97 élèves de troisième année ([[dai-chatbots-problem-posing-primary-2026]]) a montré que les [[conversational-ai|agents conversationnels]] d'IA générative surpassaient significativement les moteurs de recherche pour la formulation de problèmes scientifiques, améliorant la qualité des questions et produisant des [[network-analysis|réseaux]] épistémiques plus intégrés tout en réduisant la charge cognitive.
 
@@ -52,15 +52,15 @@ L'apprentissage par la recherche est centré sur les questions portées par l'é
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] a isolé la contribution de l'IA de celle de la recherche elle-même dans une étude climatique à trois groupes : la recherche assistée par IA a dépassé les pairs en recherche seule sur la prise de décision (d = 0.69), avec les gains les plus importants pour le suivi et la gestion adaptative (d = 1.37), tandis que la collecte élémentaire de données s'améliorait également dans toutes les conditions.
 
-**[[equity-in-ai-education|Équité]] et contexte.** Un cadre conceptuel relie la conception participative d'IA générative aux pratiques éducatives ouvertes pour soutenir l'enseignement des STIM guidé par la recherche dans des contextes sous-dotés, en utilisant des [[simulation|simulations]] générées par IA, [[multilingual-learning|multilingues]] et contextuellement pertinentes.
+**[[equity-in-ai-education|Équité]] et contexte.** Un cadre conceptuel relie la conception participative d'IA générative aux [[open-education|pratiques éducatives ouvertes]] pour soutenir l'enseignement des STIM guidé par la recherche dans des contextes sous-dotés, en utilisant des [[simulation|simulations]] générées par IA, [[multilingual-learning|multilingues]] et contextuellement pertinentes.
 
 **Comparaison de données probantes étayée par l'IA.** [[ai-information-extraction-undergraduate-thesis-2026|An et ses collègues (2026)]] montrent comment un système d'extraction d'informations alimenté par l'IA fait passer la revue de littérature de premier cycle de la synthèse à l'**organisation et à la comparaison des données probantes** — les étudiants passant d'une lecture isolée à la comparaison inter-études et à la justification fondée sur les données probantes, au service de l'apprentissage par la recherche et de la rédaction du mémoire. Cela concrétise la manière dont l'[[generative-ai|IA]] peut étayer les processus de recherche dans la recherche de premier cycle en [[stem-education|STIM]].
 
 ## Pourquoi l'apprentissage par la recherche importe pour l'intégration de l'IA
 
-La structure de l'IBL, guidée par les questions et centrée sur le processus, est le terrain naturel d'un usage productif de l'IA : les étudiants apprennent *avec* l'IA comme partenaire plutôt que *d'elle* comme substitut. Les données probantes de la base de connaissances convergent vers une tension centrale — l'IA peut abaisser le coût de la recherche d'informations et de la formulation des questions (en réduisant la [[cognitive-offloading|charge cognitive]] et en permettant une [[metacognition|réflexion]] plus approfondie), mais sans étayage conceptuel elle expose à la dépendance excessive et au contournement de la cognition d'ordre supérieur. Le rôle du facilitateur, la conception des étayages et l'enseignement explicite des compétences d'évaluation sont les leviers qui déterminent si l'IA approfondit ou déplace la recherche.
+La structure de l'IBL, guidée par les questions et centrée sur le processus, est le terrain naturel d'un usage productif de l'IA : les étudiants apprennent *avec* l'IA comme partenaire plutôt que *d'elle* comme substitut. Les données probantes de la base de connaissances convergent vers une tension centrale — l'IA peut abaisser le coût de la recherche d'informations et de la formulation des questions (en réduisant la [[cognitive-offloading|charge cognitive]] et en permettant une [[reflection|réflexion]] plus approfondie), mais sans étayage conceptuel elle expose à la dépendance excessive et au contournement de la cognition d'ordre supérieur. Le rôle du facilitateur, la conception des étayages et l'enseignement explicite des compétences d'évaluation sont les leviers qui déterminent si l'IA approfondit ou déplace la recherche.
 
-Une étude remplace le facilitateur plutôt que d'ajouter un outil à côté de lui. Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine ont été répartis entre un apprentissage par problèmes mené par un facilitateur et un apprentissage mené par l'IA. Les deux bras ont progressé significativement aux tests à choix multiples pré/post et la différence entre groupes n'était pas significative (p = 0,474), mais les groupes menés par un facilitateur ont obtenu de meilleurs scores en pensée critique (14,75 contre 13,09, p < 0,001) et sur la grille d'évaluation de groupe (26,51 contre 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty et Rao, 2026]]). Les résultats d'enquête se séparent selon leur nature : les connaissances de contenu ont survécu à la substitution et le processus de raisonnement non, ce qui est précisément ce que signifie dire que le facilitateur est le levier.
+Une étude remplace le facilitateur plutôt que d'ajouter un outil à côté de lui. Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine ont été répartis entre un apprentissage par problèmes mené par un facilitateur et un apprentissage mené par l'IA. Les deux bras ont progressé significativement aux tests à choix multiples pré/post et la différence entre groupes n'était pas significative (p = 0,474), mais les groupes menés par un facilitateur ont obtenu de meilleurs scores en pensée critique (14,75 contre 13,09, p < 0,001) et sur la grille d'[[group-work|évaluation de groupe]] (26,51 contre 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty et Rao, 2026]]). Les résultats d'enquête se séparent selon leur nature : les connaissances de contenu ont survécu à la substitution et le processus de raisonnement non, ce qui est précisément ce que signifie dire que le facilitateur est le levier.
 
 ### L'échec productif et la recherche
 

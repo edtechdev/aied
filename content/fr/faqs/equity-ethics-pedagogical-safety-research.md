@@ -1,7 +1,7 @@
 ---
 title: "Comment la recherche sur l'IA en éducation doit-elle intégrer l'équité, l'accessibilité, la confidentialité, l'éthique et la sécurité pédagogique ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 weight: 60
 audience: [researchers, instructors, instructional designers]
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -53,7 +53,7 @@ Deux implications de conception en découlent. Ciblez les établissements plus r
 
 ## Mettre les apprenants handicapés dans la salle de conception
 
-Incluez les apprenants handicapés dans la conception et l'évaluation, testez les interfaces réelles contre les exigences d'accessibilité, et offrez des voies équivalentes pour participer et pour démontrer ses apprentissages. La conformité technique et l'enseignement inclusif sont deux tests distincts, et [[accessibility|Accessibilité]] couvre les deux.
+Incluez les [[special-education|apprenants handicapés]] dans la conception et l'évaluation, testez les interfaces réelles contre les exigences d'accessibilité, et offrez des voies équivalentes pour participer et pour démontrer ses apprentissages. La conformité technique et l'[[inclusive-learning|enseignement inclusif]] sont deux tests distincts, et [[accessibility|Accessibilité]] couvre les deux.
 
 Une [[ko-hughes-vsd-student-centered-its-2026|étude de conception sensible aux valeurs]] menée avec des étudiants de community college, des enseignants et des développeurs montre le travail en pratique. Elle a produit 16 fonctionnalités alignées sur des valeurs réparties entre l'[[explainable-ai|explicabilité]] (E1-E5), le contrôle [[human-in-the-loop-ai|humain dans la boucle]] (H1-H9) et la [[privacy|confidentialité]] (P1-P4), et a fait apparaître des tensions plutôt que des réponses nettes : la transparence contre l'interprétabilité, la confidentialité contre la connaissance pédagogique, l'[[agency|autonomie]] de l'apprenant contre l'[[scaffolding|étayage]] guidé par le système. Attendez-vous à devoir arbitrer ces tensions, et notez dans quel sens vous avez tranché.
 
@@ -71,7 +71,7 @@ Les praticiens convergent vers une conception compatible. Dans une [[reichert-hu
 
 ## Combiner les méthodes, et montrer le chemin de la donnée à l'affirmation
 
-Des résultats [[quantitative-research|quantitatifs]] désagrégés peuvent révéler des [[differential-effects-across-learner-groups|effets différentiels]]. Les entretiens, observations, groupes de discussion et co-conceptions font apparaître les barrières, les préjudices, les présupposés culturels et l'expérience des apprenants que les scores agrégés manquent. La synthèse sur les [[research-methods-aied|méthodes de recherche en AIED]] traite la triangulation comme nécessaire parce qu'aucune méthode unique, [[qualitative-research|qualitative]] ou quantitative, ne maximise à la fois l'inférence causale, la validité écologique, la compréhension contextuelle et la généralisabilité.
+Des résultats [[quantitative-research|quantitatifs]] désagrégés peuvent révéler des [[differential-effects-across-learner-groups|effets différentiels]]. Les entretiens, observations, groupes de discussion et co-conceptions font apparaître les barrières, les préjudices, les présupposés culturels et l'[[student-experience|expérience des apprenants]] que les scores agrégés manquent. La synthèse sur les [[research-methods-aied|méthodes de recherche en AIED]] traite la triangulation comme nécessaire parce qu'aucune méthode unique, [[qualitative-research|qualitative]] ou quantitative, ne maximise à la fois l'inférence causale, la validité écologique, la compréhension contextuelle et la généralisabilité.
 
 Votre propre analyse demande la même discipline. [[chain-behind-claim-warrantability-2026|La proposition de « warrantability »]] soutient qu'une interprétation assistée par l'IA reste inspectable, contestable et révisable lorsqu'elle est livrée avec des artefacts comme des tableaux de thèmes liés aux sources, des empilements de perspectives et des « rivières de preuves ». Un résumé fluide ne devrait pas cacher le chemin qui l'a produit.
 

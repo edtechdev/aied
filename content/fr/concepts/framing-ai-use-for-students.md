@@ -1,7 +1,7 @@
 ---
 title: "La manière dont l'usage de l'IA est présenté aux étudiants"
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-05T19:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

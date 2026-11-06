@@ -1,7 +1,7 @@
 ---
 title: "Comment vérifier si des questions de quiz et d'examen générées par l'IA sont réellement bonnes ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-05T18:53:37-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -46,7 +46,7 @@ Réponse courte à donner à un collègue : les questions générées sont des c
 
 La génération est assez bon marché pour que le format de sortie devienne discrètement la spécification. Si vos notes produisent des items à choix multiple bien propres, vous finirez par mesurer si les étudiants savent choisir parmi des affirmations plausibles, quel que soit le résultat que le programme annonce.
 
-Spécifiez d'abord le résultat, puis les preuves qu'une réponse satisfaisante fournirait, puis les connaissances que les étudiants sont censés apporter. Incluez les supports de cours, les conceptions erronées que vous attendez, les outils autorisés et le format de réponse. Si vous voulez que les étudiants interprètent des preuves, l'item doit exiger de l'interprétation, et ajouter le mot à une question de définition ne le fait pas. Un long scénario peut encore être résoluble grâce à une seule formule familière qui donne la réponse.
+Spécifiez d'abord le résultat, puis les preuves qu'une réponse satisfaisante fournirait, puis les connaissances que les étudiants sont censés apporter. Incluez les supports de cours, les [[misconceptions|conceptions erronées]] que vous attendez, les outils autorisés et le format de réponse. Si vous voulez que les étudiants interprètent des preuves, l'item doit exiger de l'interprétation, et ajouter le mot à une question de définition ne le fait pas. Un long scénario peut encore être résoluble grâce à une seule formule familière qui donne la réponse.
 
 Un plan de test est un tableau croisant les résultats et les items, et son intérêt est de révéler les lacunes avant les étudiants. Il rend aussi l'arbitrage visible : chaque item que vous générez à partir du matériel le plus facile est un item que vous n'avez pas consacré au résultat qui vous importe le plus.
 
@@ -68,7 +68,7 @@ Un second modèle peut vous aider à repérer des problèmes, et l'accord entre 
 
 ## Ne laissez pas l'étiquette de difficulté décider
 
-La littérature sur la [[automated-question-generation|génération de questions]] est plus utile sur l'échec des étiquettes que sur le succès de la génération. [[student-llm-use-ai-question-difficulty-data-science-2026|An et Wang (2026)]] ont examiné 378 questions rédigées par des enseignants dans des cours de science des données, dont 311 ont été déployées auprès de 54 étudiants sur 7.888 réponses. Les étiquettes facile, moyen et difficile du modèle corrélaient avec ses propres niveaux de Bloom co-générés à ρ = 0.90 et avec la difficulté empirique des items à ρ = 0.06. Environ 70% des items déployés étaient réussis par tous les étudiants, ce qui ne laissait presque aucune variation à suivre pour une étiquette de difficulté, même en principe.
+La littérature sur la [[automated-question-generation|génération de questions]] est plus utile sur l'échec des étiquettes que sur le succès de la génération. [[student-llm-use-ai-question-difficulty-data-science-2026|An et Wang (2026)]] ont examiné 378 questions rédigées par des enseignants dans des cours de science des données, dont 311 ont été déployées auprès de 54 étudiants sur 7.888 réponses. Les étiquettes facile, moyen et difficile du modèle corrélaient avec ses propres niveaux de Bloom co-générés à ρ = 0.90 et avec la [[item-response-theory|difficulté empirique des items]] à ρ = 0.06. Environ 70% des items déployés étaient réussis par tous les étudiants, ce qui ne laissait presque aucune variation à suivre pour une étiquette de difficulté, même en principe.
 
 Deux leçons en découlent. Premièrement, la difficulté est une propriété de l'interaction entre un item et une population, si bien qu'aucune étiquette produite avant l'administration de l'item ne peut être tenue pour une valeur mesurée. Deuxièmement, une banque d'items que tout le monde réussit n'est pas une évaluation facile, c'est une évaluation inutile : elle ne porte presque aucune information sur qui sait quoi.
 
