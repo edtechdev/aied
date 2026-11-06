@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA affecte-t-elle l'anxiété et le bien-être des étudiants, et que pouvons-nous faire ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 weight: 60
 type: faq
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, social-emotional-learning, well-being]
@@ -9,7 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -32,7 +32,7 @@ ai_assist:
 
 Un étudiant reste après le cours et vous dit que terminer le diplôme ne lui semble plus valoir la peine, parce que l'IA sait déjà faire le métier pour lequel il se formait. Un autre s'est tu ce semestre : moins de travaux rendus, aucune question, aucune présence au séminaire. Vous avez dix minutes avant le cours suivant et aucun moyen de savoir si cela demande une stratégie ou une orientation.
 
-La réponse à donner à un collègue : l'essentiel de ce qui alimente l'anxiété liée à l'IA se situe du côté de la carrière et de la compétence plutôt que de la technologie, et la réassurance n'agit sur ni l'une ni l'autre. Des expériences de maîtrise, des preuves que le travail lié à l'IA vaut l'effort et l'adaptabilité de carrière sont ce que ces études désignent. Un petit nombre d'étudiants a besoin d'une orientation plutôt que d'une stratégie, et les données sont plus minces que vous ne le voudriez sur l'endroit où passe cette frontière.
+Voici la réponse : l'essentiel de ce qui alimente l'anxiété liée à l'IA se situe du côté de la carrière et de la compétence plutôt que de la technologie, et la réassurance n'agit sur ni l'une ni l'autre. Des expériences de maîtrise, des preuves que le travail lié à l'IA vaut l'effort et l'adaptabilité de carrière sont ce que ces études désignent. Un petit nombre d'étudiants a besoin d'une orientation plutôt que d'une stratégie, et les données sont plus minces que vous ne le voudriez sur l'endroit où passe cette frontière.
 
 ## La version courte
 

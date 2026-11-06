@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage autorégulé"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -196,6 +196,8 @@ C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 
 - **Les chaînes de questions structurées transforment l'invite en régulation.** Dans une quasi-expérience portant sur 83 étudiants de premier cycle, les deux conditions de chaîne de questions ont produit davantage de comportements de stratégie d'apprentissage et de suivi que le questionnement libre (χ² = 6,551, p = 0,038). Elles ont aussi obtenu de meilleurs scores de conscience métacognitive et de réussite (F = 3,406, p = 0,038 ; F = 3,807, p = 0,035), sans différence entre les formes de chaîne ([[question-chain-prompting-srl-metacognition-2026|Lin et coll., 2026]]). C'est la séquentialisation qui fait le travail.
 - **La détection au niveau du groupe suit la même ligne de partage, et le discours porte plus que les journaux.** Dans des dyades modélisant le mouvement d'un camion dans C2STEM, 394 segments de contexte de tâche issus de 36 lycéens ont été étiquetés avec sept codes de régulation sociale partagée et prédits à partir de résumés LLM de chaque segment : les plongements du seul texte atteignaient une AUC moyenne de 0,650, tandis que les seules caractéristiques dérivées des journaux atteignaient 0,526, près du hasard pour un construit largement social. La planification était invisible à l'échelle d'un segment (0,5036) et devenait détectable une fois les deux segments adjacents concaténés (0,6711), alors que la réflexion était le mieux saisie une fois les journaux ajoutés (0,5862), la même ambiguïté entre lecture d'indices et formulation de plan que cette section relève pour les apprenants individuels ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et coll., 2026]]).
 - **Les étiquettes automatisées d'apprentissage autorégulé tiennent pour la mise en œuvre et échouent pour la planification.** Dans une classe de sciences de quatrième année du primaire en réalité mixte, une chaîne fusionnant [[sensor-and-gaze-analytics|regard]], geste, parole et journaux de jeu a étiqueté 75 segments vérifiés par des humains à 74,67 % au total, de 93,3 % pour la mise en œuvre et l'interaction jusqu'à 46,7 % pour la planification ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et coll., 2026]]).
+- **La persistance codée dans les dialogues avec un agent pédagogique corrèle négativement avec la performance, tant dans le codage par LLM que par humain.** Dans une évaluation conversationnelle de 107 collégiens apprenant l'anglais, la persistance détectée dans les tours de journal de chat par huit configurations de ChatGPT4o corrélait négativement avec la performance à la tâche (r = -0,19, p < 0,001), et les décomptes de persistance d'un codeur humain allaient dans le même sens (r = -0,32) ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). Le défi perçu (r = -0,25) portait la seule association négative plus forte, et les autres construits allaient aussi dans le négatif (auto-efficacité r = -0,15, KSA antérieures r = -0,14, intérêt r = -0,08). Les auteurs y voient d'éventuelles manifestations d'un combat improductif et plaident pour distinguer la persistance adaptative de la persistance inadaptée — la réitération stratégique contre l'essai-erreur répétitif — avant que tout système automatisé ne traite les propos de persistance comme de l'engagement.
+- **GPT-4o peut construire un codebook d'apprentissage autorégulé ancré dans une théorie à partir de sa seule base de connaissances.** À partir des seules références à Zimmerman (2000) et à Winne et Hadwin (1998), GPT-4o a proposé des construits couvrant les trois phases de Zimmerman et trois des quatre étapes de Winne-Hadwin, seule la phase de définition de la tâche faisant défaut, et le raffinement humain a arrêté le codebook à 11 construits ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et coll. (2026)]]). L'ajout des 955 énoncés de pensée à voix haute de 15 étudiants à l'invite a comblé l'écart, couvrant toutes les phases des deux modèles et introduisant des codes ancrés dans les données tels que l'Identification des erreurs. Le raffinage humain est resté essentiel : deux codeurs ont fusionné des propositions GPT qui se chevauchaient (Planification contre Fixation d'objectifs, Suivi contre Évaluation, Résultat contre Évaluation des processus), et aucune hallucination n'est apparue.
 
 ## Idées fausses courantes
 

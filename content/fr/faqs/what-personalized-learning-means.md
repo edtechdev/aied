@@ -1,7 +1,7 @@
 ---
 title: "Que signifie réellement l'apprentissage personnalisé, et quand aide-t-il ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 La plateforme promet une expérience personnalisée pour chaque étudiant. Elle peut réordonner les questions d'entraînement, réécrire une explication autour de l'intérêt d'un étudiant pour le football, se souvenir de la conversation de la semaine dernière, ou choisir ce que l'étudiant étudie ensuite. Les quatre sont appelés personnalisation, et un seul a été testé sous quelque chose comme cette forme.
 
-Réponse courte à donner à un collègue : la personnalisation nomme un changement apporté à une partie de l'expérience d'apprentissage, et sa valeur dépend de trois choses : ce qui est adapté, quelles preuves déclenchent l'adaptation, et si le changement améliore l'apprentissage que vous visez. Un exemple familier ou une conversation réactive peut sembler personnel sans rien enseigner. Une adaptation efficace peut être invisible. Le résultat expérimental le plus clair de cette base de connaissances est étroit : dans un cours de certification Python de cinq mois réparti sur dix lycées de Taipei, les étudiants randomisés vers un séquencement adaptatif des problèmes ont obtenu environ 0.150 écart-type de plus à un [[summative-assessment|examen final]] en présentiel et sans aide que les étudiants soumis à une séquence fixe avec un accès identique au [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Cela soutient le séquencement dans des conditions spécifiées. Cela ne valide pas tout ce qui se vend comme personnalisé.
+Voici la réponse courte : la personnalisation nomme un changement apporté à une partie de l'expérience d'apprentissage, et sa valeur dépend de trois choses : ce qui est adapté, quelles preuves déclenchent l'adaptation, et si le changement améliore l'apprentissage que vous visez. Un exemple familier ou une conversation réactive peut sembler personnel sans rien enseigner. Une adaptation efficace peut être invisible. Le résultat expérimental le plus clair de cette base de connaissances est étroit : dans un cours de certification Python de cinq mois réparti sur dix lycées de Taipei, les étudiants randomisés vers un séquencement adaptatif des problèmes ont obtenu environ 0.150 écart-type de plus à un [[summative-assessment|examen final]] en présentiel et sans aide que les étudiants soumis à une séquence fixe avec un accès identique au [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Cela soutient le séquencement dans des conditions spécifiées. Cela ne valide pas tout ce qui se vend comme personnalisé.
 
 ## La version courte
 

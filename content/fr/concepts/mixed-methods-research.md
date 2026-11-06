@@ -1,13 +1,13 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Sur 394 études de [[generative-ai|GenAI]] dans l'enseignement supérieur, 213 (
 - **Exploratoire séquentiel (QUAL → quant).** Le travail qualitatif bâtit la théorie, génère des hypothèses, ou éclaire la conception d'un instrument qui est ensuite testé quantitativement. [[becker-chatgpt-typology-physics-2026|Une typologie qualitative de l'adoption de ChatGPT]] produit des catégories qui peuvent éclairer la conception d'une enquête ultérieure.
 - **Séquentiel exploratoire avec invariance de mesure.** [[trust-calibration-genai-collaborative-regulation-2026|Bu et Li (2026)]] codent des entretiens pour identifier les quatre dimensions du modèle, construisent à partir d'elles un instrument à 22 items, puis testent l'invariance configurationnelle, métrique et scalaire selon le genre et le domaine disciplinaire sur un échantillon analytique de 642. Le dispositif montre un fil qualitatif alimentant un [[self-report-measures|instrument d'enquête]] et un test d'invariance confirmant que les construits se comportent de la même manière selon les groupes.
 - **Convergent/parallèle.** Les fils quantitatif et qualitatif se déroulent simultanément et sont intégrés dans l'analyse. [[t2i-competence-paradox-2026|L'étude du paradoxe des compétences]] utilise en parallèle des groupes de discussion d'enseignants, une enquête d'étudiants et des entretiens de suivi ; [[fouad-bentley-trust-utility-gap-physics-2026|l'étude sur l'écart confiance–utilité]] combine des preuves d'enquête et d'entretien sur l'adoption de l'IA par les étudiants en physique.
+- **Un fil quantitatif généré par machine.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et coll. (2026)]] ont généré le fil quantitatif BREQ à partir des transcriptions d’entretiens des participants selon un dispositif convergent — une voie d’intégration qui ne repose pas sur le seul travail humain. Les corrélations LLM–humain allaient de moyennes à élevées (ρ = 0,5 à 0,73), les RMSE de l’item, de la personne et du test quantifiaient la distance par rapport aux réponses humaines, et les items à formulation négative 6, 7 et 11 marquaient le bénéfice de triangulation le plus net, signalant où les preuves d’entretien et d’enquête divergent.
 
 ## Comment les méthodes mixtes apparaissent dans la base de connaissances
 

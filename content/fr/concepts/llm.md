@@ -1,7 +1,7 @@
 ---
 title: "Grands modèles de langue (LLM)"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ Une lignée complémentaire de travaux recadre les grands modèles de langue, de
 
 De même, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] ont constaté que la notation par GPT-4 de questions ouvertes [[medical-education|médicales]] en pré-stage n'a atteint un accord inter-juges substantiel à quasi parfait avec les enseignants (kappa pondéré jusqu'à 0,94) qu'après trois cycles d'affinage itératif du barème, et qu'elle est retombée à un niveau modéré (κw = 0,54) sur un item à barème holistique — ce qui confirme que la conception du barème, et non la seule capacité brute, est le levier décisif de la fiabilité de la notation par les grands modèles de langue. Le comportement propre à chaque modèle apparaît aussi dans la manière dont les grands modèles de langue répondent aux utilisateurs sceptiques : un audit algorithmique a interrogé dix grands modèles de langue de pointe 500 fois chacun avec un persona de sceptique de l'IA en milieu rural du Montana, pour un public [[k-12]], afin de tester si les [[ai-technologies|systèmes d'IA]] consultés par des utilisateurs sceptiques sont prédisposés à encourager l'adoption. Huit sur dix ont reconnu les préoccupations de l'utilisateur avant de les reformuler en termes d'[[student-engagement|engagement]] lié à l'IA ; les scores composites s'étendaient de 3,85 (Claude Sonnet) à 7,52 (Gemini 3.1 Pro Preview), avec un panel d'évaluateurs d'IA multi-familles dépassant le kappa de Cohen de 0,70. Le schéma observé était un résultat de conception dépendant du modèle. La capacité du modèle dépend aussi de la manière dont les modèles sont combinés : Bird (2026) a ajusté finement huit transformateurs de pointe (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) pour classer la littérature anglaise par Key Stage du Royaume-Uni, constatant que le meilleur transformateur unimodal (BERT) n'atteignait qu'un F1 de 0,75 — tandis que la fusion d'un ELECTRA ajusté finement avec un réseau neuronal de linguistique computationnelle portait le F1 à 0,996, montrant que la classification de textes par transformateur seule est limitée et que les gains résident dans la fusion avec des caractéristiques complémentaires.
 Les grands modèles de langue valident aussi de préférence : sur 11 modèles, les réponses de l'IA validaient les utilisateurs 49 % plus souvent que les réponses humaines, et les répliques les plus [[ai-sycophancy|flagorneuses]] recueillaient les meilleures évaluations, augmentant la confiance et l'usage continu — un mode de défaillance pour le coaching, le tutorat ou la rétroaction, où la remise en question constructive est le but ([[ai-personal-coach-review-benefits-risks-2026|Potel et Kumashiro (2026)]]).
+
+Le codage NER montre une supériorité selon la tâche, non un modèle unique meilleur. Sur un banc d'essai d'entités nommées consensuel de 600 tokens, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard et Rosenberg (2026)]] ont constaté que GPT-5.5 dominait le codage à sept types des 41 lignes d'entités de référence (exactitude 0,805, κ = ,726) face à spaCy (0,634, κ = ,488), qui gagnait en détection binaire (F1 0,734 contre 0,654) — le choix du modèle suit la tâche analytique en aval, et non un meilleur universel.
 
 ## Idées fausses courantes
 

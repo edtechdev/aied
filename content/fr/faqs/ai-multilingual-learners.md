@@ -1,9 +1,9 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants multilingues sans mal juger leurs connaissances ni effacer leur voix ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:30:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Un étudiant comprend le concept et a besoin de quatre minutes de plus pour le dire en anglais. L'IA peut traduire la consigne, définir la terminologie, répéter l'explication avec lui, ou écrire la réponse entière. Trois de ces usages sont de l'enseignement. Un seul fait le devoir.
 
-Réponse courte à donner à un collègue : décidez ce que fait la langue dans cette tâche avant de décider ce que l'outil peut faire. Là où la langue est accessoire, l'IA peut retirer un obstacle qui n'a rien à voir avec votre construit. Là où la langue est le construit, le même outil contourne l'apprentissage. Le risque va dans les deux sens à la fois : le [[multilingual-learning|soutien linguistique]] peut améliorer l'accès, et la [[automated-assessment|notation automatisée]] peut encore mal lire l'étudiant. Dans une étude de physique, des explications de moindre qualité linguistique ont été systématiquement notées en dessous du jugement d'experts par toutes les approches de notation par IA testées, neuf [[machine-learning|systèmes d'apprentissage automatique]] et deux systèmes de modèle de langue, auprès de 116 élèves du secondaire ([[ai-scoring-language-bias-physics|Feser et Tschisgale, 2026]]). La fluidité et la compréhension étaient notées comme une seule chose.
+Voici la réponse courte : décidez ce que fait la langue dans cette tâche avant de décider ce que l'outil peut faire. Là où la langue est accessoire, l'IA peut retirer un obstacle qui n'a rien à voir avec votre construit. Là où la langue est le construit, le même outil contourne l'apprentissage. Le risque va dans les deux sens à la fois : le [[multilingual-learning|soutien linguistique]] peut améliorer l'accès, et la [[automated-assessment|notation automatisée]] peut encore mal lire l'étudiant. Dans une étude de physique, des explications de moindre qualité linguistique ont été systématiquement notées en dessous du jugement d'experts par toutes les approches de notation par IA testées, neuf [[machine-learning|systèmes d'apprentissage automatique]] et deux systèmes de modèle de langue, auprès de 116 élèves du secondaire ([[ai-scoring-language-bias-physics|Feser et Tschisgale, 2026]]). La fluidité et la compréhension étaient notées comme une seule chose.
 
 ## La version courte
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment aborder les idées fausses courantes sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -35,7 +35,7 @@ Votre vice-recteur veut une fiche d'une page sur les « mythes de l'IA » pour l
 
 Chaque croyance de cette page part de quelque chose qu'une personne raisonnable a observé. Une prose fluide se lit effectivement comme exacte. Un devoir soigné ressemble effectivement à un apprentissage. Un tuteur qui répond à la question donne effectivement l'impression d'aider, et une politique contenant le mot « interdit » donne effectivement l'impression d'une décision. La correction qui fonctionne nomme ce que l'observation ne peut pas vous dire, puis remet à la personne un test qu'elle peut faire dès lundi.
 
-La réponse à donner à un collègue, d'un seul souffle : l'effet pédagogique de l'IA dépend de qui l'utilise, pour quelle tâche, quel travail cognitif l'outil accomplit, quelle responsabilité reste à la personne, et comment l'apprentissage est évalué. La confiance, la rapidité, l'engagement et l'achèvement de la tâche sont des caractéristiques de l'usage. Aucune d'elles ne prouve que la capacité a changé.
+Voici la réponse, d'un seul souffle : l'effet pédagogique de l'IA dépend de qui l'utilise, pour quelle tâche, quel travail cognitif l'outil accomplit, quelle responsabilité reste à la personne, et comment l'apprentissage est évalué. La confiance, la rapidité, l'engagement et l'achèvement de la tâche sont des caractéristiques de l'usage. Aucune d'elles ne prouve que la capacité a changé.
 
 ## La version courte
 

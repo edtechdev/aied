@@ -1,7 +1,7 @@
 ---
 title: "How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?"
 created: "2026-09-17T03:40:00-04:00"
-updated: "2026-10-28T11:34:12-04:00"
+updated: "2026-11-06T03:00:00-05:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq

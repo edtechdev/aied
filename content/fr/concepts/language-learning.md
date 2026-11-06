@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage des langues"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,9 @@ L'apprentissage des langues est devenu un domaine significatif de l'IA en éduca
 **L'IA comme tuteur de langue et interlocuteur** est le thème le plus développé. **[[ai-interlocutor-l2-spoken-dialogue|What Changes When the Interlocutor Is an AI?]]** examine la fluidité interactionnelle et l'appropriation linguistique lorsque des apprenants de L2 conversent avec une IA plutôt qu'avec des humains. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** fournit un tutorat d'anglais ESLE pédagogiquement adaptatif. **[[llm-children-reading-story-generation]]** explore les histoires générées par l'IA pour le développement de la lecture chez les enfants. Ces travaux se rattachent à l'[[intelligent-tutoring]] et à l'[[generative-ai]]. **[[llm-agents-5e-esl-grammar-2026|Yang, Weng et Yang (2026)]]** ont conçu deux agents fondés sur des [[llm]] — un enseignant d'anglais IA conventionnel et un autre utilisant le **cadre 5E** (engage, explore, explain, elaborate, evaluate) pour un apprentissage de la grammaire fondé sur l'enquête. Sur **37 étudiants d'anglais ESLE** dans une comparaison randomisée, **les étudiants les plus performants ont réagi positivement à l'enseignant IA**, tandis que les étudiants les moins performants ont montré des attitudes mitigées, et les conditions différaient en motivation intrinsèque, en changement cognitif et en performance — ce qui indique que la conception des agents LLM doit être assortie au niveau de compétence de l'apprenant.
 
 Pour les tuteurs [[embodied-learning|physiquement incarnés]], une méta-analyse de 11 études sur l'apprentissage des langues assisté par robots (N = 595) a trouvé un effet regroupé important sur l'apprentissage d'une L2 (g = 0.83) avec une forte hétérogénéité, et seul le format d'interaction le modérait — les formats en groupe l'emportaient sur le tutorat individuel, tandis que la morphologie du robot, la modalité, l'autonomie et le rôle social n'avaient pas d'effet ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang & Zou (2026)]]).
+
+La granularité des composantes de connaissances est une décision de modélisation dans le tutorat scolaire : [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny et Meurers (2026)]] ont comparé 19 modèles de composantes (KC) sur 11 niveaux de la hiérarchie du domaine FeedBook, avec 153,819 réponses en première tentative de 1,059 élèves de septième année apprenant l'anglais en Allemagne. Les modèles fins au niveau des items prédisaient le mieux pour de nouveaux étudiants sur du contenu connu, tandis que les modèles intermédiaires ancrés sémantiquement généralisaient le mieux au nouveau contenu (ID de propriété + type d'exercice, RMSE 0.4243 sous AFM contre 0.4447 pour l'ID d'élément actionnable). Un audit de couverture d'annotation a montré qu'un mappage strict des propriétés retirait d'abord 45.7% des enregistrements et qu'un outil plus récent réduisait l'exclusion à 30.6%, la seule étiquette combinée positive|statement comptant pour 74.9% des exclus.
+
 
 **L'IA dans l'évaluation des langues** émerge à mesure que les LLM soutiennent la [[automated-question-generation|génération d'items]] et l'évaluation. **[[gpt-item-generation-l2-listening-2026|Aryadoust et Wong (2026)]]** ont comparé l'[[prompt-engineering|ingénierie des invites]] à l'ajustement fin (fine-tuning) pour la génération automatique d'items dans l'évaluation de la compréhension orale en L2 : l'affinement itératif des invites améliorait la qualité des items mais atteignait un plateau, tandis que l'**ajustement fin de GPT-4.1 sur l'invite optimisée** (en maintenant constante la conception de l'invite) produisait des gains supplémentaires — un modèle indiquant quand les concepteurs d'évaluations devraient investir dans l'[[llm-training-and-fine-tuning|adaptation du modèle]] plutôt que dans l'itération des invites.
 

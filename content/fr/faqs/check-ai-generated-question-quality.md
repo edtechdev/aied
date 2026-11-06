@@ -1,7 +1,7 @@
 ---
 title: "Comment vérifier si des questions de quiz et d'examen générées par l'IA sont réellement bonnes ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Vous demandez vingt questions à partir de vos notes de cours. Elles reviennent avec des corrigés, des explications, des étiquettes de difficulté et des catégories de la taxonomie de Bloom, dans un document mis en forme qui a l'air terminé. Votre nom est sur le point d'y figurer.
 
-Réponse courte à donner à un collègue : les questions générées sont des candidates, pas une évaluation. Résolvez chaque item vous-même, vérifiez ce que l'item exige réellement qu'un étudiant fasse, et découvrez comment les étudiants y répondent avant qu'il ne compte. Dans les deux plus grandes études de cette base de connaissances, le signal intéressant n'est pas que la génération fonctionne mais où elle échoue. Une génération itérative à l'intérieur d'un flux de travail propre à un cours a produit des examens à choix multiple utilisables dans 71 classes de licence ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Dans un audit de science des données portant sur 311 questions déployées, les étiquettes de difficulté du modèle suivaient presque parfaitement les niveaux de Bloom qu'il avait générés en même temps (ρ de Spearman = 0.90) tandis qu'elles suivaient ce que les étudiants obtenaient réellement à ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An et Wang, 2026]]). L'étiquette était une description de l'invite, pas une mesure de l'item.
+Voici la réponse courte : les questions générées sont des candidates, pas une évaluation. Résolvez chaque item vous-même, vérifiez ce que l'item exige réellement qu'un étudiant fasse, et découvrez comment les étudiants y répondent avant qu'il ne compte. Dans les deux plus grandes études de cette base de connaissances, le signal intéressant n'est pas que la génération fonctionne mais où elle échoue. Une génération itérative à l'intérieur d'un flux de travail propre à un cours a produit des examens à choix multiple utilisables dans 71 classes de licence ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Dans un audit de science des données portant sur 311 questions déployées, les étiquettes de difficulté du modèle suivaient presque parfaitement les niveaux de Bloom qu'il avait générés en même temps (ρ de Spearman = 0.90) tandis qu'elles suivaient ce que les étudiants obtenaient réellement à ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An et Wang, 2026]]). L'étiquette était une description de l'invite, pas une mesure de l'item.
 
 ## La version courte
 
@@ -91,6 +91,8 @@ Révisez, et gardez la trace : la version approuvée, le résultat qu'elle sert,
 Dans un cours d'introduction à la sociologie, le résultat pourrait être de distinguer une explication structurelle d'une explication individuelle. Un item faible demande aux étudiants de définir « structurel », ce qui mesure la reconnaissance du vocabulaire. Une candidate plus forte donne un court scénario sur une famille et une décision d'emploi, puis demande quelle explication identifie le mieux une contrainte structurelle, avec des distracteurs représentant des interprétations plausibles mais différentes.
 
 L'enseignant vérifie que le scénario soutient réellement le corrigé, que deux options n'expriment pas la même idée, et que répondre ne dépend pas d'une terminologie que le cours n'a jamais introduite. Une relance d'une ligne, « quel détail soutient votre choix ? », fait apparaître le raisonnement que l'option retenue dissimule. L'adaptation n'a pas été testée comme format d'item, et sa valeur est plus étroite : les questions de revue ci-dessus peuvent être traitées avant qu'un item ne soit administré, et un mauvais corrigé peut être réparé avant que les étudiants ne le voient.
+
+Quand les étudiants manifestent leur rejet à grande échelle, le signal a une structure. Dans une analyse de 5.214.211 séances de questions d'entraînement sur une plateforme de manuel, les pouces vers le bas arrivaient à 2.00 pour 1.000 séances, contre 3.31 pouces vers le haut, et seules 22.844 des 809.848 questions ont un jour reçu une évaluation ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Le schéma des votes n'était pas aléatoire : les questions appelant des réponses en adverbes attiraient 5.23 pouces vers le bas pour 1.000, contre 1.76 pour les réponses en adjectifs, et l'importance de la phrase (rapport de cotes 2.38), comme la similarité réponse-texte (1.64), faisait aussi bouger l'évaluation. La règle empirique ajustée par les auteurs était d'environ 1.62 rejets pour 1.000 en présence des deux signaux d'importance. Le point pratique : les évaluations sont un canal de mesure lent mais réel — une plateforme qui retire les questions fréquemment rejetées boucle la boucle, et un enseignant qui teste quelques items obtient le même signal plus vite en demandant quel détail l'étudiant a mis en doute.
 
 Pour les étudiants qui génèrent leurs propres questions d'entraînement, la même règle s'applique à leur niveau : tentez l'item, vérifiez l'explication contre les sources du cours, et apportez les cas insolubles à quelqu'un qui connaît la matière. Une [[study-with-ai|pratique d'étude]] qui apprend aux étudiants à accepter sans esprit critique des corrigés générés enseigne la mauvaise habitude.
 

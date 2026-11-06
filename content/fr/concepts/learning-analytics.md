@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-04T18:35:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,10 @@ Un encodage fréquentiel des [[qualitative-research|données qualitatives]] est 
 
 ### De la description à l'intervention
 - **Les données probantes ne sont pas encore des preuves d'intervention.** En synthétisant quatre études aux niveaux des élèves, des disciplines, des éducateurs et des institutions, [[learning-analytics-genai-learning-design|Rienties, Divjak et Law (2026)]] constatent que le champ est dominé par des devis transversaux, des [[self-report-measures|auto-déclarations]], des analyses de discours et des jugements d'experts, et appellent à des recherches interventionnelles testant des mécanismes causaux et des résultats à plus long terme et distributionnels.
+
+**Un devis à encouragement aléatoire fournit l'ancrage causal.** Dans une expérience à encouragement aléatoire sur ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan et Sales (2025)]] ont incité aléatoirement des enseignants nouveaux sur la plateforme à consulter le rapport de devoir après en avoir créé un.
+Sur l'échantillon analytique de 330 enseignants (156 témoins, 174 encouragés ; 281 pour la valeur ajoutée), consulter le rapport du premier devoir augmentait significativement l'achèvement du devoir suivant (F d'Anderson-Rubin = 4,092, p = 0,044) — d'au moins 2 points de pourcentage.
+Dans les classes de moins de 44 élèves, le gain était d'au moins 24,5 points (F AR = 7,475, p = 0,007), seuls 54,0 % des 121 890 devoirs ayant leur rapport consulté et les résultats initiaux et en valeur ajoutée ne bougeant pas. Ces mêmes données portent le plus grand cas d'évaluation en boucle fermée du champ : [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]] ont analysé 5 214 211 sessions élève-question où les pouces vers le bas (2,00 pour 1 000) suivaient les traits contrôlés par le générateur, la variance entre élèves dominant celle entre questions (BIC 101 572,9 contre 123 342,0).
 
 L'analytique de l'apprentissage a évolué, dans la base de connaissances, selon trois générations : descriptive (que s'est-il passé ?), prédictive (que va-t-il se passer ?) et prescriptive (que devrions-nous faire ?). L'IA rend possible la couche prescriptive — des analyses qui déclenchent directement des [[feedback|interventions pédagogiques]]. Une frontière clé est le **fossé d'actionnabilité** : [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] montre que la prédiction seule est insuffisante pour l'aide à la décision, et que le recours contrefactuel ne devient opérationnellement signifiant que lorsque les recommandations sont sémantiquement faisables et vérifiables par machine — contraintes par le calendrier, le budget, l'immuabilité et la disponibilité via une validation SHACL, plutôt que simplement valides du point de vue du modèle. Cela fait progresser le champ au-delà des scores de risque, vers des recommandations que les institutions peuvent réellement mettre en œuvre, avec une [[human-in-the-loop-ai|supervision humaine]] préservée.
 

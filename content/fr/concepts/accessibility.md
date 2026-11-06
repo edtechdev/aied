@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibilité
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 **Accessibilité du format : sous-titres, transcriptions et texte.** Les **[[adhd-video-segmentation-computing-education|vidéos pédagogiques segmentées par l'IA]]** avec des pauses fixes ont éliminé l'écart de performance entre élèves TDAH et non TDAH — l'accessibilité comme catalyseur qui profite à tout le monde. **[[text-simplification-its|MuTSE]]** évalue la [[intelligent-tutoring|simplification de texte]] fondée sur [[llm]] pour ajuster la complexité du contenu au niveau de lecture de chaque apprenant, une couche d'accessibilité [[human-in-the-loop-ai|avec intervention humaine]]. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** mettent en œuvre la [[automated-question-generation|génération de questions]] par LLM pour les apprenants sourds et malentendants, affrontant le décalage entre les invites textuelles de l'IA et des premières langues fondées sur la langue des signes.
 
 **Accès sensoriel : sorties non visuelles et tactiles.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** fait de la conversation orale la modalité principale pour les enfants déficients visuels, supprimant la dépendance au visuel. Les **[[tactile-statistical-graphs-accessibility|graphes statistiques tactiles imprimés en 3D]]** transforment des données statistiques visuelles en sorties palpables pour les étudiants aveugles et malvoyants. Les **[[pepper-robot-sign-language-lis-2025|robots langue des signes]]** étendent la [[educational-robotics|robotique éducative]] à l'accessibilité communicationnelle des apprenants sourds.
+
+**Un accès par le refus d'abord : obtenir la figure plutôt que deviner.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau et Heffernan (2025)]] ont constaté que, figure critique retirée, six modèles multimodaux refusaient plutôt que de deviner dans 95,4 % à 98,9 % des passages — une abstention que les systèmes d'accès devraient traiter comme une demande de figure ou de description structurée plutôt que comme un devin. Les sous-ensembles de consensus publiés, gold (76 items) et ultra-gold (61 items), offrent un banc d'essai aux expériences de substitution de description pour comparer figures originales et descriptions textuelles validées sur des items de mathématiques dépendants de figures.
 
 **La description audio écrite pour le cinéma ne se transpose pas aux enregistrements de cours.** Les cours fondés sur des diapositives renvoient à des schémas, des équations et des gestes de désignation, et leurs pauses ne durent en médiane que 0.5 s ; aussi [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]] ont-ils construit un benchmark spécifique aux cours et une métrique diagnosticable au moyen de règles ; le [[llm-training-and-fine-tuning|post-entraînement]] sur des paires ordonnées par un juge automatique n'a pas amélioré la conformité de manière uniforme.
 

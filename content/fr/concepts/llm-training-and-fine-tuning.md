@@ -1,7 +1,7 @@
 ---
 title: "Entraînement et ajustement fin des grands modèles de langue"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ LoRA et ses proches constituent le lieu où la plupart des équipes éducatives 
 **Les couches à adapter constituent une véritable décision.** Dans un système d'analyse du discours pour l'enseignement de l'anglais, l'ajustement fin d'un BERT tronqué en ne mettant à jour que **les quatre dernières couches de Transformer** a battu les deux alternatives : n'adapter que la couche supérieure atteignait un plafond plus bas, et l'ajustement fin complet des 12 couches surajustait et oscillait ([[bert-discourse-english-teaching-2026]]).
 
 **L'architecture de base peut importer davantage que le nombre de paramètres.** L'ajustement fin de trois modèles ouverts de texte vers image sur 1 000 images de génie nucléaire légendées a considérablement amélioré Stable Diffusion XL, n'a donné que des gains limités pour SD-v3.5-Medium, et n'a produit **aucune amélioration mesurable pour le modèle de flow matching Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]). Une recette d'ajustement fin n'est pas portable d'une architecture à l'autre, ce qui est la même leçon qu'AiAWE rapporte dans l'autre direction.
+
+**Le coût d'adaptation et l'appétit de données sont mesurables, et tous deux favorisent des passages petits et ciblés.** Jung et al. (2025) ont ajusté Mistral-7B-Instruct-v0.2 avec LoRA pour en faire CLST, un traceur de connaissances, et font état d'un coût par séance d'environ **6,8 heures et 1,7 kWh** sur un RTX A6000 pour un passage sur 21 000 échantillons, contre **50 secondes et 3,47 Wh** pour la ligne de base AKT — soit environ **490x** plus économe en énergie ([[jung-clst-cold-start-knowledge-tracing-2025|Jung et al. (2025)]]). Le même ajustement restait exact sur des données maigres : le calibrage des sorties était rétabli à mesure que l'ensemble d'entraînement passait de **16 à 64 étudiants**, et CLST battait le deuxième meilleur modèle de jusqu'à **24,52 %** avec seulement 8 étudiants d'entraînement, faisant de la marge d'exactitude un compromis chiffré plutôt qu'un gain gratuit.
 
 Deux techniques adjacentes complètent l'étape d'adaptation. La **distillation** comprime un système grand ou en boîte noire en un petit système déployable. Un pipeline à deux étapes a distillé un estimateur par apprentissage automatique en boîte noire ajusté ainsi que son interprétation a posteriori dans un petit grand modèle de langue à poids ouverts, un « mentoré » à 2B de paramètres parvenant à une récupération quasi sans perte de la surface d'effet de l'oracle (r > ,90). Ce résultat est rapporté sous une évaluation plaçant la fidélité au premier rang, qui audite chaque narration contre l'attribution qu'elle prétend décrire ([[distilling-self-explaining-lm-learning-analytics-2026]]). Le **désapprentissage** retire un contenu ciblé après l'entraînement : un désapprentissage fondé sur les gradients a été appliqué à trois modèles pour en extraire les données personnelles et le contenu nuisible, testé dans deux ordres de retrait (données personnelles d'abord, puis contenu nuisible) ([[llm-unlearning-math-privacy]]) — l'outil pertinent lorsqu'un modèle a mémorisé quelque chose qu'il ne devrait pas porter.
 

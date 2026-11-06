@@ -1,7 +1,7 @@
 ---
 title: Simulation d'étudiants
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,12 @@ Un levier différent retire le savoir au lieu de contraindre la sortie. La suppr
 La stabilité du profil est un problème de conception de l'interaction, et non un problème de choix de modèle : en croisant cinq LLM avec trois conceptions de prompts et quatre profils d'intensité [[neurodiversity|TDAH]], les interactions scriptées ancrées dans la tâche ont éliminé la dérive comportementale notée par les observateurs — jusqu'à 97% de moins que le dialogue non scripté — et, sans instructions explicites de profil, la représentation étudiante de référence penchait vers des symptômes de TDAH élevés ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase et Leins (2026)]]).
 
 L'échec inverse se produit aussi : dans une étude en aveugle, des annotateurs experts ont mal classé 164 des 196 (83,7%) remises Java générées par LLM comme rédigées par des humains, de sorte que les erreurs d'un simulateur peuvent être fonctionnellement indiscernables des erreurs authentiques — bien que l'alignement sur les erreurs réelles ait chuté à mesure que la difficulté du problème montait ([[simulating-students-java-programming-errors-llms|Keramati et coll. (2026)]]).
+
+Les LLM sollicités par un jeu de rôle échouent aussi sur l'axe de la perception. [[thome-perceived-text-complexity-student-profiles-2025|Thome et coll. (2025)]] ont demandé à ChatGPT-4o et à Claude Sonnet 3.5 de noter des phrases allemandes depuis le profil de chacun de 193 étudiants réels.
+Même avec 12 étiquettes révélées, les modèles faisaient moins bien que la référence moyenne — RMSE 1,171 et 1,252 contre 1,070 — tout en se méprenant sur la distribution : les deux culminaient sur « facile », alors que les étudiants avaient noté « très facile » 45,27% des phrases. Le jeu de rôle conditionné par un profil ne reproduit pas encore comment un public cible éprouve un texte.
+
+[[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et coll. (2026)]] ajoutent un axe de réponse à des sondages à la simulation d'étudiants, générant des réponses BREQ à partir de la transcription de l'entretien de chacun : le contenu des entretiens a amélioré l'alignement et la diversité pour certains modèles, les données démographiques n'apportant que peu. Les réponses des LLM sous-produisaient la variabilité humaine dans toutes les conditions, et l'imitation au niveau des items n'a pas reconstruit la structure psychométrique du test, seul Claude avec invites d'entretien améliorant l'alignement sur l'indice d'autonomie relative.
+
 
 Conditionner la génération à un modèle de comportement prédit fonctionne sans [[llm-training-and-fine-tuning|affinage]] : un cadre sans entraînement construit le prototype cognitif de chaque étudiant à partir d'un [[knowledge-graph|graphe de connaissances]] et note les candidats issus de la recherche par faisceaux contre ce prototype, en rendant compte d'une amélioration de 100% de l'exactitude de la simulation ([[simulating-students-diverse-cognitive-levels-2025|Wu et coll. (2025)]]). Sa qualité s'élève avec le niveau cognitif de l'étudiant, de sorte que les apprenants plus faibles demeurent le cas le plus difficile à simuler.
 

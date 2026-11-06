@@ -2,7 +2,7 @@
 title: "IA multimodale"
 connected_resources: [drawsplat]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,9 @@ Lorsque des tuteurs fondés sur les grands modèles de langue doivent résoudre 
 - C'est une **préoccupation d'équité** : les étudiants qui travaillent sur des problèmes riches en images — précisément les problèmes qui construisent une compréhension conceptuelle profonde en STIM — reçoivent actuellement un soutien de l'IA moins fiable que ceux qui travaillent sur des exercices purement textuels.
 - **Construire une aide visuelle est plus difficile que d'en lire une.** Sur GeoVAD-Bench, fournir un diagramme auxiliaire d'expert faisait monter l'exactitude (de +3,3 à +7,0 points), mais laisser les modèles construire leur propre ligne auxiliaire élargissait l'écart de 10,0 à 13,5 points — deux modèles obtenaient un score pire que sans aucun raisonnement visuel ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
 - **La frontière est un profil, et non un niveau — et l'imagerie artistique se situe hors de la région que les modèles traitent bien, comme l'[[language-learning|apprentissage des langues]].** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] évalue 30 modèles vision-langage ouverts et propriétaires sur 12 tâches portant sur 1 174 œuvres d'art commandées, et la dispersion des capacités selon les dimensions est plus large que ne le suggère tout score agrégé : la classification de scène est quasi mûre (23 des 30 modèles au-dessus de 75,0, médiane 81,0) tandis que la [[affective-computing|détection des émotions]] plafonne à 39,5 et que les tâches ouvertes qui exigent des modèles qu'ils *articulent* leurs preuves obtiennent 50,90 (identification des indices visuels) et 49,18 (inférence de la cause de l'émotion) en similarité sémantique. Le raisonnement compositionnel et dépendant du point de vue échoue le plus durement — là où la vérité terrain ne spécifie aucune relation latérale ou verticale définie, 90,0 % et 73,3 % des modèles en affirment une malgré tout, seulement 43,3 % placent correctement la fille en profondeur, et aucun modèle ne résout les trois dimensions d'un seul item. Les défaillances se propagent aussi en cascade : un personnage mal ancré est ensuite justifié par un raisonnement fluide bâti à partir de sémantiques visuelles voisines (papillons, oiseaux), ce qui est le résultat le plus dangereux en tutorat parce que l'explication se lit comme compétente. Pour l'apprentissage des langues fondé sur les images, cela plaide pour une validation au niveau des dimensions sur l'imagerie qu'un cours utilise réellement, plutôt que pour l'importation d'un score multimodal général, et pour l'extension du point de contrôle d'ancrage décrit plus bas — décrire ce qui est vu, et où, avant de raisonner à partir de cela — aux contenus artistiques [[situated-learning|situés]] ([[muse-vlm-artistic-image-benchmark-2026]]).
+
+- **Le plafond est bas sur les mathématiques authentiques dépendantes des figures — le refus est le repli calibré.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau et Heffernan (2025)]] ont évalué six modèles multimodaux sur 376 items authentiques de [[math-education|collège]] dont les figures portent des contraintes critiques.
+Avec les images, les modèles raisonnants o4-mini ont résolu 57,7 % des items et o3 52,4 %, contre 34,0 % à 42,6 % pour la famille non raisonnante ; figure retirée, les modèles refusaient plutôt que de deviner dans 95,4 % à 98,9 % des passages — une abstention qu'un tuteur peut lire comme un signal de contexte manquant plutôt qu'une erreur de l'apprenant.
 
 L'implication pratique de conception est un **point de contrôle d'ancrage visuel** dans le tutorat multimodal : une étape délibérée où le système décrit ce qu'il voit avant de tenter une solution, donnant à l'étudiant ou à un superviseur humain la possibilité de corriger les erreurs perceptives.([[syal-multimodal-dialogue-stem-2026]])
 

@@ -1,12 +1,12 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -29,7 +29,7 @@ ai_assist:
 
 C'est la sixième semaine. Une dissertation à faire à la maison revient fluide et creuse, et vous ne pouvez pas dire si l'étudiant l'a écrite. Ou bien quatre copies partagent une forme que personne dans la salle n'a produite en septembre, et le bureau d'intégrité veut un compte rendu écrit de ce que le devoir mesurait. Ou encore votre département a voté le mois dernier de restreindre la [[generative-ai|IA générative]] dans les cours de tronc commun et vous a laissé le soin de donner un sens à cette restriction.
 
-La réponse à donner à un collègue : cessez d'essayer de prouver qui a écrit le travail et changez les conditions dans lesquelles il est écrit. La détection est le levier le plus faible dont vous disposez. Les leviers qui tiennent sont une tâche où le raccourci laisse une trace, une étape unique sans assistance que vous pouvez observer, et une courte séquence enseignée qui maintient les étudiants à l'intérieur du travail cognitif.
+Voici la réponse : cessez d'essayer de prouver qui a écrit le travail et changez les conditions dans lesquelles il est écrit. La détection est le levier le plus faible dont vous disposez. Les leviers qui tiennent sont une tâche où le raccourci laisse une trace, une étape unique sans assistance que vous pouvez observer, et une courte séquence enseignée qui maintient les étudiants à l'intérieur du travail cognitif.
 
 ## La version courte
 

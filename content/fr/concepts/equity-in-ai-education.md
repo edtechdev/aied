@@ -1,7 +1,7 @@
 ---
 title: L'équité
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,9 +10,9 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ La préparation compte davantage que la préférence, et le droit de refuser est
 ## L'équité des résultats
 
 Dans une revue exploratoire de 394 études sur l'IAG dans l'enseignement supérieur, l'équité et l'accès figuraient parmi les résultats les moins ciblés, aux côtés de la [[metacognition|métacognition]], de l'éthique et de la [[creativity|créativité]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
+Un [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|audit d’équité du traçage bayésien des connaissances de MATHia]] à grande échelle sur deux années scolaires de journaux de 8,549 élèves a constaté une parité statistique agrégée de −0.077 en 2021–2022, même si 36 des 50 compétences étaient biaisées contre les lecteurs émergents, avec un biais au niveau des compétences atteignant −0.262 (« appliquer l’exposant », un écart de 26% dans la maîtrise prédite). Le bilan agrégé quasi équitable masquait un biais concentré dans les composantes de connaissances liées à la lecture, et les auteurs soutiennent que les audits au niveau du système sont insuffisants.
 
 - **L'impact différencié :** les outils d'IA peuvent élargir les écarts s'ils sont conçus sans lentille d'équité — les [[genai-higher-education-systematic-review-2026|revues systématiques]] et les [[ai-scoring-language-bias-physics|études sur les biais de notation]] montrent des bénéfices et des préjudices inégaux selon les groupes d'apprenants. Les preuves regroupées du bénéfice portent la même frontière : [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] estiment un gain global modéré à élevé pour les étudiants de premier cycle sur 35 études (g=0.53, IC à 95% [0.48, 0.64]) tout en énonçant que l'accès inéquitable aux outils coûteux constitue l'un des risques que ces tailles d'effet ne peuvent pas saisir, et des tests d'Egger significatifs pour la performance académique et les compétences professionnelles laissent l'asymétrie des entonnoirs et les effets des petites études non résolus.
 - **Un apprentissage équivalent sur deux ordres de grandeur de coût.** StudentBench a constaté que le tutorat par IA regroupé était statistiquement équivalent au tutorat humain par des experts, tandis que la dispersion entre tuteurs allait de \\$0.005 à \\$1.40 par point de pourcentage de gain d'apprentissage et qu'un modèle ouvert égalait les gains humains à un coût par point 918 fois plus faible (\\$0.0052 contre \\$4.81), faisant du coût par unité d'apprentissage une variable d'accès et pas seulement une variable de qualité ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).

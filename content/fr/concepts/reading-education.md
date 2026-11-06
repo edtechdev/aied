@@ -10,9 +10,10 @@ ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
-updated: "2026-11-05T18:18:38-05:00"
+connected_faqs: [ai-support-reading-comprehension]
+updated: "2026-11-06T04:50:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-05T02:16:00-05:00"
+source_updated: "2026-11-06T01:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -64,6 +65,9 @@ La lisibilité est la mesure la plus ancienne dans ce domaine et celle que l'IA 
 Deux autres études élargissent l'écart. Bird fusionne la classification par transformateur avec des caractéristiques de linguistique computationnelle pour placer la littérature anglaise à un Key Stage britannique, atteignant un F1 de 0.996 et conditionnant le résultat comme un outil pour les enseignants ([[bird-multimodal-educational-literature-2026|Bird, 2026]]). Clark et al. descendent entièrement sous la surface, mesurant des constructions aux coûts de traitement connus — les n-grammes de basse fréquence, les dépendances longues, les noms empilés, les verbes dénominaux, les sujets inanimés, les relatives objets réduites — et constatant que les modèles récents les sur-utilisent par rapport à leurs propres paraphrases préservant le sens et aux lignes de base humaines ([[clark-ai-generated-language-readability-2026|Clark et al., 2026]]). La lisibilité, sur la base de ces preuves, est une propriété des exigences de traitement du texte et de qui l'a produit, et non seulement de ses statistiques de longueur.
 
 La conséquence pratique est qu'un score de niveau scolaire est une garantie faible sur n'importe quel texte, et une garantie particulièrement faible sur un texte écrit par l'IA.
+
+La perception du public cible est désormais mesurable directement. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] ont constitué un ensemble de 3,954 annotations de 193 lycéens allemands évaluant des phrases de guides d'orientation et de Wikipédia, et constaté que les lecteurs contredisaient la formule : 72.8% des annotations étaient « très facile » ou « facile » malgré des scores Flesch-Reading-Ease faibles. L'analyse SHAP d'un modèle fondé sur les profils a montré que des caractéristiques des lecteurs pilotaient cette perception — langue parlée à la maison la plus influente (0.09), devant le genre (0.08) et la compétence en allemand auto-estimée (0.07) — si bien qu'un score de niveau scolaire manque non seulement les exigences de traitement du texte, mais aussi l'expérience de lecture dont il est question.
+
 
 ## Adapter et générer des textes
 

@@ -1,7 +1,7 @@
 ---
 title: L'enseignement des mathématiques
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/math-education
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,9 @@ L'enseignement des mathématiques est devenu un domaine primordial pour la reche
 **Le tutorat mathématique par IA et l'étayage** forment le plus grand regroupement, avec quatre articles examinant comment les tuteurs IA soutiennent ou sapent l'apprentissage des mathématiques. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** démontre que l'ajout d'une sensibilité affective — la détection des émotions de l'élève à partir du texte et des expressions faciales — produit un avantage de +23 points de taux de victoire en tutorat mathématique, reliant l'[[affective-computing|informatique affective]] à l'[[affective-tutoring|étayage affectif]]. **[[zhang-tutormoments-2026|TutorMoments]]** évalue 462 transcriptions annotées par des enseignants issues du tutorat mathématique des niveaux 2 à 7 et constate que les modèles frontière penchent par défaut vers une aide excessive, poussant rarement à la rigueur même lorsque les élèves y sont prêts — remettant directement en cause l'alignement entre l'utilité de l'IA et les principes d'[[scaffolding|étayage]]. **[[lak2026-hint-button-unproductive-use|An et al.]]** ont analysé 999 élèves sur trois semestres dans le tuteur intelligent *Decimal Point*, constatant que les demandes d'indices prématurées et la lecture superficielle des indices prédisent systématiquement une réduction des [[learning-gains|gains d'apprentissage]], même après contrôle du [[prior-knowledge|niveau de connaissances préalables]] — un résultat qui relie la [[help-seeking|recherche d'aide]] aux [[learning-analytics|analytiques d'apprentissage]].
 
 **La conception des tâches, et pas seulement le tutorat.** En analysant 158 unités de texte codées issues de 13 futurs enseignants du primaire, Ledezma et al. (2026) ont constaté que les tâches de géométrie conçues par IA générative visaient une forte demande cognitive tout en rédigeant des consignes fermées, et l'une intégrait une échelle erronée (4 m dessinés en 8 cm, énoncés comme 1 m = 4 cm) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al., 2026]]).
+
+**La notation perceptuelle est elle-même une variable de conception des tâches :** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et Pradhan (2026)]] ont constaté que les indices visuels sur des problèmes d’ordre des opérations se répartissaient entre étayages et difficultés souhaitables. En ajustant des modèles BKT par condition d’indice sur 19 952 points de données de 688 élèves de sixième, l’espacement congruent à couleur neutre (CSNC) s’est révélé un étayage constant — la seule condition à devancer la référence sans indice au post-test (B = 0,33, p = ,011).
+L’espacement neutre à couleur incongruente (NSIC) a donné le plus faible taux de devinette (0,190), le plus haut taux d’apprentissage (0,0379) et le plus faible taux d’oubli (0,0054).
 
 **Les gains de la formulation de problèmes sont superficiels.** Avec 57 futurs enseignants de mathématiques posant des problèmes de division de fractions avant et avec Gemini, les scores à la grille sont passés de 5,95 à 6,65 sur 8. Le gain résidait dans le contexte et le langage, tandis que le type de problème et la solubilité n'avaient aucune marge de progression, et le recours à une signification de la division de fractions est passé d'un plancher de 1,00 à 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
 

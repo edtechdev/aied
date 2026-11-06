@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'anglais (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-06T05:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

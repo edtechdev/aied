@@ -1,13 +1,13 @@
 ---
 title: "TAL éducatif"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T01:53:02-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ Le traitement automatique du langage en éducation applique des méthodes comput
 - **L'analyse du langage des étudiants.** [[llm-sentiment-analysis-education-research]] applique l'analyse de sentiment fondée sur les LLM à la recherche éducative, extrayant à grande échelle des signaux émotionnels et évaluatifs du texte des étudiants, alimentant l'[[learning-analytics|analytique de l'apprentissage]] et l'[[affective-computing|informatique affective]].
 - **La prédiction et la mesure.** [[llm-item-difficulty-prediction]] et [[vocabulary-difficulty-prediction]] recourent à des modèles de langage pour estimer la difficulté des items et des textes — des intrants centraux pour la [[educational-measurement|mesure en éducation]], l'[[adaptive-learning|apprentissage adaptatif]] et les modèles de [[item-response-theory|théorie de la réponse aux items]].
 - **La lisibilité et l'alignement sur le [[curriculum-design|programme]].** Bird (2026) fusionne la classification de texte par transformeur avec des variables de linguistique computationnelle pour classer la littérature anglaise par Key Stage du Royaume-Uni, atteignant un F1 de 0.996 — un complément fondé sur les données à [[vocabulary-difficulty-prediction]] et [[llm-item-difficulty-prediction]] pour la [[educational-measurement|mesure en éducation]] et l'alignement sur le niveau de lecture.
+- **Le texte généré porte son propre [[reading-education|fardeau de lisibilité]].** Clark et coll. (2026) constatent que les modèles récents surutilisent des constructions que la littérature sur le traitement du langage associe au coût de compréhension — n-grammes de faible fréquence, noms empilés, verbes dénominaux, dépendances longues, relatives à objet réduites — par rapport à leurs propres paraphrases préservant le sens et aux références humaines appariées par genre, et attribuent ce schéma à un post-entraînement qui récompense la densité informationnelle plutôt que la clarté ([[clark-ai-generated-language-readability-2026]]). Mesurer la difficulté du texte s'applique donc à ce que le modèle écrit, et pas seulement au texte destiné à l'apprenant qu'on lui demande de simplifier.
 - **La similarité sémantique est un signal faible pour l'alignement sur le programme.** En criblant 3 837 paires objectif–résumé en art dentaire, la récupération par enchâssement assortie d'un contrôle d'inférence en langage naturel a jugé 22.9% des appariements de forte similarité (cosinus 0.90–1.00) neutres ou contradictoires, et a élevé l'exactitude des libellés d'experts de 0.69 à 0.73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **La classification au niveau du discours localise ce que les traits de surface manquent.** Un modèle BERT ajusté sur ses seuls quatre dernières couches de transformeur classe des paires de phrases adjacentes comme causales, contrastives, progressives ou incohérentes, et émet le point de rupture comme diagnostic, atteignant un F1 moyen d'au moins 0.891 sur 28,736 paires de phrases ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
@@ -63,6 +64,8 @@ Le traitement automatique du langage en éducation applique des méthodes comput
 - **Le codage auditable en séparant les assertions de l'interprétation.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] remplacent l'interrogation à étiquette unique par un schéma de 221 assertions lisibles par l'humain — 74 dérivées du corpus, 48 dérivées des construits et 100 contrôles automatiques de présence de mots — qu'un classifieur transparent projette sur l'étiquette de construit, atteignant un macro-F1 de 0.673 et un κ de Cohen de 0.688 sur le corpus de discours enseignant TalkMoves, contre un maximum publié de 0.61 de macro-F1 et 0.58 de κ pour l'interrogation directe, tout en restant derrière un classifieur RoBERTa-base ajusté à 0.76. Exiger un α de Krippendorff ≥ 0.5 n'a conservé que 33 des 74 assertions dérivées du corpus, et une référence fondée sur les seuls mots a obtenu 0.339 de macro-F1 : le gain vient donc d'assertions comportementales apprises plutôt que de la fréquence des mots-clés.
 - **L'étiquetage des concepts à l'échelle.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] scindent l'étiquetage des concepts de connaissance en un pipeline Select–Reason–Judge — un petit modèle présélectionne les concepts candidats, le LLM raisonne sur la présélection, puis juge — ce qui élève l'exactitude de l'étiquetage sur trois repères en rétrécissant l'espace de décision du modèle.
 - **Les feuilles de réponses manuscrites résistent aux analyseurs existants.** Les dérivations sur plusieurs lignes, la prose et les formules entremêlées, les tableaux dessinés à la main, et le bruit provenant des ratures et des effacements échappent aux référentiels de documents imprimés et d'expressions isolées ; c'est pourquoi le jeu de données HANS, constitué de véritables feuilles de mathématiques de classe de huitième — 5 213 images de réponses issues de 745 élèves, couvrant 18 types de problèmes —, annote ce bruit et soutient un modèle de suppression du bruit qui améliore la reconnaissance ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+- **La fidélité des entités des transcriptions ASR diffère de l’exactitude lexicale.** En évaluant cinq systèmes de reconnaissance vocale contre une transcription de référence humaine, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard et Rosenberg (2026)]] rapportent la première preuve de fidélité d’entités ASR/NER de la base de connaissances : les taux d’erreur de mots allaient de 2.43% (TurboScribe) à 15.32% (Vosk), tandis que le codage en sept catégories des entités de référence donnait à GPT-5.5 une exactitude de 0.805 (κ = .726) contre 0.634 (κ = .488) pour spaCy.
+Le WER agrégé seul ne certifie pas la survie des entités à la transcription.
 
 ### Lien avec le tutorat et la mesure
 

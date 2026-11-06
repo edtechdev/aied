@@ -1,7 +1,7 @@
 ---
 title: "Les difficultés souhaitables"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-04T18:35:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ Les difficultés souhaitables sont les conditions de pratique qui rendent l'appr
 Les difficultés souhaitables reposent sur l'idée que des conditions rendant l'apprentissage plus difficile sur le moment — exigeant un rappel exigeant, une génération ou une explication — produisent fréquemment une rétention et un [[transfer-of-learning|transfert]] plus forts que des conditions qui semblent faciles. Inversement, des conditions qui semblent faciles (présentation fluide, réponses immédiates) peuvent produire une illusion de compétence : les [[learners|apprenants]] ont le sentiment de connaître la matière parce que la reconnaissance était aisée, alors que le rappel libre ultérieur échoue. C'est le noyau théorique de l'**écart entre performance et apprentissage** : ce qui ressemble à une bonne performance pendant la pratique n'est pas la même chose qu'un apprentissage durable.
 
 Un effort qui n'achète rien n'est pas une difficulté souhaitable. Dans une expérience préenregistrée portant sur 302 adultes apprenant le Python d'introduction, l'ajout d'invites d'auto-explication à une [[ai-feedback-quality|rétroaction d'IA]] déjà élaborée doublait le temps passé sur la rétroaction (4,1 contre 2,1 minutes) et faisait chuter le nombre de problèmes résolus de 3,4 à 2,0, avec des scores au problème final de 45 % contre 60 % (d = .41) ([[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold et Carvalho, 2025]]). La frontière que l'étude situe : la difficulté est souhaitable lorsqu'elle suscite un rappel, une application ou une comparaison supplémentaires, et redondante lorsque l'apprenant dispose déjà d'une explication personnalisée de l'erreur précise.
+
+Un leurre perceptif peut lui-même constituer une difficulté souhaitable : [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] ont constaté que des indices de couleur incongruents sur les opérateurs mathématiques freinaient la devinette immédiate tout en produisant le profil de rétention le plus solide de leur étude en sixième. Dans les modèles BKT ajustés sur 19 952 données de 688 élèves de sixième, la condition NSIC affichait le taux de devinette le plus bas des neuf conditions (0.190), mais les taux d'apprentissage (0.0379) et d'oubli (0.0054) les plus favorables.
 
 ## Confusion, friction cognitive et lutte productive
 

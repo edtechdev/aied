@@ -1,7 +1,7 @@
 ---
 title: Systèmes de recommandation et parcours d'apprentissage
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-01T10:21:51-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Là où l'[[adaptive-learning|apprentissage adaptatif]] décrit le mécanisme d'
 ## Comment fonctionnent les systèmes de recommandation éducatifs
 
 Les systèmes de recommandation comportementaux héritent de la logique du [[machine-learning|filtrage collaboratif]] : les apprenants aux historiques semblables sont supposés vouloir des ressources semblables, de sorte que le système prédit à partir de la co-occurrence plutôt qu'à partir du contenu. C'est puissant là où les données sont denses, et fragile là où elles ne le sont pas. [[fair-explainable-edu-recommendations|Evangelista et Bukhari (2026)]] énoncent le problème sans détour — les systèmes de recommandation centrés sur la précision apportent un soutien moins fiable aux étudiants aux historiques de participation limités, tandis que les ressources populaires dominent les listes — et y répondent par un cadre Hybrid HKG-GRU qui vectorise un [[knowledge-graph|graphe de connaissances]] hétérogène des matériaux de cours et modélise les séquences des apprenants par un GRU, puis s'entraîne pour la robustesse à travers les groupes d'apprenants (GroupDRO) et reclasse pour la diversité d'exposition (Maximal Marginal Relevance). Sur les journaux Moodle de 152 étudiants, 59 ressources et environ 150 000 interactions, il a atteint HR@10 = 0,68 et MRR = 0,41, mais un biais de popularité substantiel persistait au niveau du catalogue — la preuve que l'[[bias-mitigation|atténuation des biais]] est partielle.
+
+Une ligne de base légère peut aussi battre les modèles profonds de front. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et coll. (2026)]] ont comparé sept systèmes de recommandation sur NedBox, plateforme de néerlandais langue seconde ; le modèle item-item superficiel EASE a mené sur toutes les mesures — AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279 — devant l'autoencodeur variationnel profond MVAE (AUROC 0,949) et l'ensemble PentaForest (0,953), la factorisation matricielle étant la pire (IALS 0,719, UKNN 0,767). Les signaux de la recommandation et du [[knowledge-tracing|traçage des connaissances]] se composent aussi : reclasser le top 10 d'EASE par compétence prédite a élevé le NDCG@3 d'environ 3 %.
 
 Les systèmes de recommandation sémantiques remplacent la co-occurrence par la structure. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun et Song (2026)]] construisent un graphe de connaissances des ressources pédagogiques, des concepts de langue, des compétences, des groupes d'apprenants et des attributs [[pedagogy|pédagogiques]], et décomposent chaque ressource selon quatre dimensions pédagogiques — contexte d'enseignement, niveau cognitif, caractéristique technologique et adaptabilité culturelle. La recommandation se déploie sur k sauts dans le graphe à partir des besoins déclarés d'un apprenant, affine les candidats par un filtre collaboratif fondé sur les caractéristiques, et les classe selon un coefficient de fusion qui croît avec les indices de capacité, de progression et d'intérêt de l'apprenant, de sorte que les apprenants moins avancés reçoivent de la structure une guidance plus organisée, tandis que les apprenants de capacité élevée s'appuient davantage sur leur schéma comportemental. Sur le sous-ensemble anglais du jeu de données MARS (4 800 utilisateurs, 14 200 ressources, 132 000 interactions, clairsemence 0,9981), il a atteint NDCG 0,625 et HR 0,751, soit un gain d'environ 7 à 8% sur la meilleure référence neuronale, et a battu des références tenant compte des graphes, dont RippleNet et KGAT, sur la couverture et la précision inter-domaines. L'ablation montre que les signaux sont complémentaires (NDCG 0,584 pour le seul CF, 0,604 pour le seul KG), et les auteurs notent qu'il s'agit de métriques de classement, et non de preuves d'[[learning-gains|efficacité de l'apprentissage]].
 

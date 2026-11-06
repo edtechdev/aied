@@ -1,13 +1,13 @@
 ---
 title: "La modélisation de l'apprenant et l'enseignement adaptatif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Les modèles d'étudiant peuvent aussi être construits à partir des seules tra
 La modélisation affective de l'apprenant est une dimension supplémentaire : un tuteur de mathématiques a déduit l'émotion du texte conversationnel et de l'expression faciale, puis a associé l'état agrégé à des stratégies de tutorat, mais la fusion [[multimodal|multimodale]] n'a atteint que 60% d'exactitude par rapport aux annotations des participants eux-mêmes, faisant de la lecture de l'affect le maillon le plus faible du pipeline ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] ont constaté qu'un signal de démarrage retardé enregistré pendant la pratique des mathématiques prédisait les résultats en anglais, les retardataires chroniques (plus de 13 minutes) montrant des gains plus faibles (β = -.11 écart-type en ELA) même après contrôle des [[prior-knowledge|connaissances antérieures]] et du temps consacré à la tâche — ainsi, les modèles d'étudiant comportementaux peuvent se transférer d'une matière à l'autre sans réentraînement par cours, même si leurs seuils de coupure doivent être redéfinis.
+
+La difficulté perçue est une dimension supplémentaire de la modélisation de l'apprenant, prédictible à partir de caractéristiques de la personne plutôt que des seules statistiques textuelles. [[thome-perceived-text-complexity-student-profiles-2025|Thome et coll. (2025)]] ont construit des modèles de lecteur à base de profils à partir d'évaluations de 3 954 phrases par 193 lycéens allemands, et son ensemble KNN-plus-XGBoost a atteint une RMSE de 0,822 contre une moyenne de base de 1,070 (R2 = 0,396). Chaque régresseur incluant des caractéristiques du lecteur battait la moyenne comme les lignes de base de complexité moyenne ; un modèle de l'apprenant qui capture qui est le lecteur prédit donc à quel point un texte paraît difficile — une dimension de perception absente des autres modèles de cette page.
 
 ## La couche d'enseignement adaptatif
 

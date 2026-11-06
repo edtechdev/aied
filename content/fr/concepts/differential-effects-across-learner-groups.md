@@ -1,7 +1,7 @@
 ---
 title: "Effets différentiels selon les groupes d'apprenants"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -11,9 +11,9 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Elle n'est délibérément pas un doublon de ses voisines. L'[[equity-in-ai-educ
 **Les analyses de sous-groupes sont généralement trop petites pour répondre à la question.** Le [[ai-tutoring-micro-rct-gcse-science-2026|micro-ECR en sciences de niveau GCSE]] est exceptionnellement explicite : son interaction traitement × statut était de 0.57 point (IC à 95% de −2.25 à 3.39), avec des estimations stratifiées de g = 0.28 (IC à 95% de −0.04 à 0.59) pour un groupe et g = 0.35 (IC à 95% de 0.18 à 0.52) pour l'autre. Un intervalle de sous-groupe qui recouvre zéro est une question pour un pilote local, non un fondement pour une règle valant pour toute une classe.
 
 **Les attributs démographiques sont généralement simulés.** Les données démographiques réelles des apprenants sont rarement jointes aux entrées des modèles, aussi les audits fournissent-ils des personas à la place. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto et Hovy (2026)]] ont fait fonctionner six modèles ajustés par instructions sur trois tâches éducatives, dans des conditions de paramètre par défaut, de persona explicite et d'historique implicite — 192,480 appels d'inférence — et ont constaté que tant les personas explicites que les historiques de conversation *implicites* modifient le comportement du modèle. Leur distinction mérite d'être retenue : la conscience des différences entre apprenants peut être souhaitable (ajuster la rétroaction à la langue première d'un apprenant), alors que cette même sensibilité est un tort lorsqu'elle déplace le jugement porté sur des travaux identiques.
+
+**Des audits d'apprenants réels existent, et peuvent étayer des affirmations intersectionnelles.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] ont analysé deux ans de journaux MATHia de 8,549 étudiants et trouvé ce que les audits à personas simulés ne peuvent fournir : un écart de taux de base de .1007 chez les étudiantes lectrices émergentes en 2021-2022, des écarts atteignant .0926 chez les étudiants hispaniques en 2022-2023, et 8 des 12 statistiques race-groupe de lecture significatives chez les non-émergents contre 1 seule des 12 chez les émergents.
 
 **Les correctifs d'équité ne se généralisent pas forcément.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] ont réduit les écarts d'erreur ciblés selon le genre et l'âge dans l'estimation de l'attention des étudiants sur des données de [[assessment-validity|validation]], mais ces gains ne se sont pas transférés de manière constante à des sujets hors échantillon ni à des découpages répétés au niveau des sujets.
 

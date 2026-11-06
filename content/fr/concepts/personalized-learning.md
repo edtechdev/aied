@@ -1,7 +1,7 @@
 ---
 title: Apprentissage personnalisé
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -103,6 +103,8 @@ Un troisième axe de personnalisation est l'*objectif*, et c'est l'entrée que l
 Un quatrième axe est l'*audience* plutôt que l'apprenant individuel : [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] régénère un cours existant pour un groupe professionnel nommé (santé, finance ou énergie), et ses évaluateurs experts ont noté les versions cadrées par l'industrie 0,32 point plus haut en profondeur de personnalisation (3,97 contre 3,65) tandis que le calage à l'audience restait en retrait (3,52). Adapter à une cohorte plutôt qu'à un apprenant est une forme de personnalisation moins coûteuse et plus maniable, mais la grille qui l'a mesurée évaluait l'adéquation jugée, non les résultats d'apprentissage.
 
 La personnalisation peut l'emporter sur un présentateur humain : dans un grand cours en ligne (493 répondants), les étudiants ont classé les vidéos personnalisées générées par IA au-dessus des vidéos humaines non personnalisées (rang moyen 2,26 contre 2,69) et 88,4 % ont classé une vidéo personnalisée en première position, contre 73,8 % pour les vidéos humaines ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
+
+La personnalisation peut aussi assembler les trois variables de l'apprenant en un seul pipeline sur une plateforme de langue seconde : [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et coll. (2026)]] combinent modèles de préférence, de compétence et d'engagement sur les journaux NedBox de 7 346 apprenants. Ils classent les matériaux avec le système de recommandation léger EASE (AUROC 0,955), reclassent le top 10 par les estimations de compétence DeepIRT (meilleur MCC 0,34) et filtrent les items qu'une forêt de survie signale comme à risque élevé d'abandon (C-index 0,662). La difficulté d'entrée de chaque apprenant est fixée au niveau dont la probabilité prédite de réponse correcte est la plus proche de 0,75.
 
 ## Quelle est la solidité des données probantes
 

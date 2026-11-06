@@ -1,7 +1,7 @@
 ---
 title: "What Should Students Learn for Careers Where AI Is Commonplace?"
 created: "2026-10-30T12:55:00-04:00"
-updated: "2026-10-30T12:55:00-04:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76

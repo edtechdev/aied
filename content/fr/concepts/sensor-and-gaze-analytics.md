@@ -1,7 +1,7 @@
 ---
 title: "Analyse par capteurs et suivi du regard"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ La [[assessment-validity|validation]] peut gonfler le modèle. Un banc d'essai d
 Un corrélat neuronal n'est pas une note. Des images reconstruites à partir de l'EEG corrélaient avec la performance au test à R² = 0.79 sur 55 observations participant-vidéo. Les items correctement répondus montraient aussi une similarité sémantique plus élevée que les items incorrects. Pourtant, un participant a produit des reconstructions de haute qualité et répondu incorrectement, si bien que la qualité de reconstruction ne peut être lue comme une exactitude ([[seeing-cognitive-representations-eeg-reconstruction|Su et coll., 2026]]).
 
 L'attention n'est pas l'apprentissage. Dans TutorLoop, l'attention corrélait avec l'apprentissage à r = 0.017, tandis que la charge de travail corrélait négativement à r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un système qui maximiserait le signal d'attention aurait optimisé du bruit.
+
+Un capteur peut enregistrer une co-présence là où une étude affirme une interaction : [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] ont constaté qu'un détecteur de pose n'atteignait qu'un rappel de 55 %, repérant 11 des 20 événements identifiés par des codeurs humains dans les interactions enseignant-étudiant de groupe. L'enseignant était présent dans les limites du groupe dans 49.2 % des segments codés, les étudiants ne regardant l'enseignant que dans 25.4 % des segments, et aucune caractéristique audio ne changeait dans les deux comparaisons : le pipeline enregistrait une co-présence spatiale, non une interaction soutenue.
 
 Un profil physiologique n'est pas un diagnostic. Les modèles de stress d'examen prédisent une catégorie de note à partir de l'activation et du mouvement, et les auteurs insistent : la sortie appartient aux côtés des circonstances personnelles et du contexte de santé mentale, non à une décision à enjeux élevés ([[physiological-signals-exam-outcomes-ml|Yamazaki et Rimal, 2026]]).
 

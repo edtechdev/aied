@@ -1,7 +1,7 @@
 ---
 title: RAG (génération augmentée par récupération)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 
 - **Récupération propre à un domaine, sensible à la notation :** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexe des manuels, 847 diapositives de cours, 312 exercices résolus, 156 canevas de démonstration détaillés et 89 fiches de complexité pour des cours théoriques de [[cs-education|sciences informatiques]], en ajoutant la reconnaissance d'entités mathématiques et un reclassement sensible à la notation ; il a répondu aux 179 questions d'examen rédigées par l'enseignant dans le délai de 240 secondes (moyenne de 38,0 secondes), mais a produit un BLEU-4 = 0,0000 et un score de grille de 0,7620, ce qui illustre à la fois la valeur de l'architecture et les limites des métriques utilisées pour la juger.
 - **Réduction des hallucinations :** [[eduguard-safe-rag-llm-tutor|EduGuard]] et [[eduzone-llm-safety-k12|EduZone]] utilisent la RAG pour maintenir les réponses des tuteurs IA ancrées dans des contenus éducatifs vérifiés, réduisant le [[hallucination-risk|risque d'hallucination]].
+- **La guidance est un curseur et l'ancrage ne gagne pas la préférence.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] ont fait classer à neuf éducateurs et concepteurs des réponses RAG à des questions de mathématiques à trois niveaux de guidance : les réponses faiblement guidées étaient préférées aux fortement guidées dans 63.8% des cas, bien que la forte guidance parût la plus ancrée (moyenne 0.90 sur une échelle de 0 à 2). La pertinence des documents récupérés corrélait avec l'ancrage perçu (r = 0.56, p < 0.001), sans lien significatif avec la préférence — l'ancrage façonne ce que dit le tuteur, pas ce que les étudiants préfèrent.
 - **L'ancrage ne vaut que ce que vaut l'inspection des sources :** seul 1 participant sur 12 a remarqué une carte de source délibérément inadaptée, de sorte qu'une étiquette de provenance peut agir comme un sceau d'autorité plutôt que comme une invitation à vérifier le matériau récupéré ([[veriforge-narrative-drafting-scaffolding-2026|Sun et coll. (2026)]]).
 - **Tutorat ancré dans le curriculum :** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] récupère les matériaux pédagogiques pertinents pour éclairer ses réponses de tutorat, assurant l'alignement sur les contenus du cours.
 - **Déploiement sur site pour un contrôle institutionnel :** CourseChat fait tourner un tuteur RAG multi-cours pour la [[business-education|formation en gestion]] de premier cycle sur des hôtes edge locaux, avec une base de données vectorielle locale et un modèle 8B servi par Ollama, ce qui garde les matériaux de cours et le dialogue des étudiants sur l'infrastructure du campus ; le choix du modèle est devenu une décision conjointe de matériel et de service lorsque des candidats plus volumineux ont échoué à un critère de latence ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).

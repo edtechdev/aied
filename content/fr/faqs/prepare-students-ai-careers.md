@@ -1,7 +1,7 @@
 ---
 title: "Que devraient apprendre les étudiants pour des carrières où l'IA est courante ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Un étudiant demande pourquoi il devrait apprendre à faire quelque chose qu'un [[conversational-ai|chatbot]] fait déjà. Un comité de programme dit que les employeurs veulent des diplômés capables d'utiliser l'IA au travail. Votre plan de cours doit satisfaire les deux, et ni l'un ni l'autre n'a dit ce que le diplômé devrait savoir faire sans aide.
 
-Réponse courte à donner à un collègue : enseignez la tâche professionnelle entière, pas l'usage de l'outil, et évaluez à la fois le produit soutenu et la capacité indépendante de l'étudiant. Les preuves soutiennent de traiter la préparation comme connaissance disciplinaire plus jugement plus vérification plus transfert, et elles ne soutiennent aucune liste de compétences comme garantie d'emploi. Une enquête auprès de 500 enseignants d'universités américaines, comparée à un panel d'employeurs, a trouvé que les deux groupes s'accordaient sur l'importance d'exactement une des 26 compétences liées à l'IA, *fixer des attentes réalistes pour un travail augmenté par l'IA* ; les enseignants valorisaient l'usage critique et responsable tandis que les employeurs valorisaient le flux de travail, l'automatisation et le [[human-ai-collaboration|travail en équipe avec l'IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ce sont des priorités déclarées, pas des preuves d'embauche. Le résultat plus net pour un [[curriculum-design|curriculum]] est ailleurs : dans une enquête auprès de 455 étudiants de dernière année, la littératie en IA atteignait l'employabilité perçue surtout en élevant l'[[career-development-and-readiness|adaptabilité de carrière]], avec un effet indirect de β = 0.173 à côté d'un β direct de 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan et Lestari, 2026]]). L'adaptabilité est une capacité que l'on peut enseigner. Un conseil d'outil, non.
+Voici la réponse courte : enseignez la tâche professionnelle entière, pas l'usage de l'outil, et évaluez à la fois le produit soutenu et la capacité indépendante de l'étudiant. Les preuves soutiennent de traiter la préparation comme connaissance disciplinaire plus jugement plus vérification plus transfert, et elles ne soutiennent aucune liste de compétences comme garantie d'emploi. Une enquête auprès de 500 enseignants d'universités américaines, comparée à un panel d'employeurs, a trouvé que les deux groupes s'accordaient sur l'importance d'exactement une des 26 compétences liées à l'IA, *fixer des attentes réalistes pour un travail augmenté par l'IA* ; les enseignants valorisaient l'usage critique et responsable tandis que les employeurs valorisaient le flux de travail, l'automatisation et le [[human-ai-collaboration|travail en équipe avec l'IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ce sont des priorités déclarées, pas des preuves d'embauche. Le résultat plus net pour un [[curriculum-design|curriculum]] est ailleurs : dans une enquête auprès de 455 étudiants de dernière année, la littératie en IA atteignait l'employabilité perçue surtout en élevant l'[[career-development-and-readiness|adaptabilité de carrière]], avec un effet indirect de β = 0.173 à côté d'un β direct de 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan et Lestari, 2026]]). L'adaptabilité est une capacité que l'on peut enseigner. Un conseil d'outil, non.
 
 ## La version courte
 

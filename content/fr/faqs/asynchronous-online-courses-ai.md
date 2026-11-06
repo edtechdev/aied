@@ -1,7 +1,7 @@
 ---
 title: "Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 weight: 68
 type: faq
 foundations: [academic-integrity, cognitive-offloading, learning-design]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -35,7 +35,7 @@ ai_assist:
 
 Le trimestre s'ouvre et rien ne se passe à une heure fixe. Vous publiez la lecture de la première semaine, la consigne de discussion, le premier cas, puis vous attendez de voir ce qui revient. Ce qui revient est fluide, dans le sujet, et ne vous dit rien de l'étudiant qui l'a envoyé. Il n'y a pas de salle où entrer, pas de visage à lire un mardi à 10 h 15, et pas de question de relance à poser pendant que l'étudiant est encore devant vous.
 
-La réponse à donner à un collègue : dans un cours asynchrone, tout ce qu'une salle de classe fournit gratuitement doit être construit exprès. Faites porter la note sur le processus plutôt que sur le fichier final, conservez une mesure que l'étudiant produit sans outils et sans aide, contraignez l'IA que vous mettez à disposition et gardez-la à l'intérieur du cours, et traitez le calendrier comme une décision de conception. Pour tout devoir, demandez-vous ce qu'un étudiant devrait encore faire si un modèle produisait l'artefact à sa place.
+Voici la réponse : dans un cours asynchrone, tout ce qu'une salle de classe fournit gratuitement doit être construit exprès. Faites porter la note sur le processus plutôt que sur le fichier final, conservez une mesure que l'étudiant produit sans outils et sans aide, contraignez l'IA que vous mettez à disposition et gardez-la à l'intérieur du cours, et traitez le calendrier comme une décision de conception. Pour tout devoir, demandez-vous ce qu'un étudiant devrait encore faire si un modèle produisait l'artefact à sa place.
 
 ## La version courte
 

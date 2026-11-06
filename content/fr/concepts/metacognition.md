@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: La métacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ Lorsque l'IA est conçue pour soutenir la réflexion plutôt que pour la remplac
 - **Attribuer un niveau d'utilisation de l'IA par tâche.** Le modèle HAIML associe ses trois couches à quatre niveaux d'utilisation de l'IA — de l'absence d'utilisation, en passant par le remue-méninges, jusqu'à la collaboration avec l'IA et la création intégrant l'IA avec évaluation des résultats — de sorte qu'un enseignant fixe le niveau pour une tâche et garde la réflexion métacognitive centrale à chaque niveau ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - Le **cours fondé sur l'exemple** du [[conversational-ai|agent conversationnel]] de Scheu et al. a augmenté la **compétence perçue** (une [[self-assessment|auto-évaluation]] métacognitive) même lorsque l'assistant [[llm|LLM]] seul ne l'avait pas fait
 - **Un cadrage émergent place le système, et pas seulement l'individu, dans la boucle.** Une revue bibliométrique–[[meta-analysis-systematic-review|systématique]] de 135 études en classes de STEM (24 études centrales) constate l'émergence d'un cadrage posthumaniste qui positionne l'IA comme corégulatrice de l'apprentissage, déplaçant l'unité d'analyse de la réflexion individuelle vers la [[regulation|régulation]] et la [[distributed-cognition|cognition distribuée]] au niveau du système ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+[[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et coll. (2026)]] ont affiné GPT-4o-mini pour identifier quatre sous-éléments métacognitifs — la fixation d’objectifs, le choix de stratégie, la réflexion sur l’apprentissage et la régulation de l’effort — au niveau de la phrase dans 14.100 réflexions de classe. La fiabilité humaine fixait le plafond : le double codage initial s’accordait à κ = 0.32 à 0.51, la calibration a porté l’accord à κ = 0.52 à 1.00, et l’exactitude du modèle suivait le même ordre — fixation d’objectifs à 91.28%, réflexion sur l’apprentissage à 67.44%, régulation de l’effort à 60.74% — sur 18.883 échantillons étiquetés.
 
 **La métacognition figure parmi les résultats les moins étudiés.** Dans une revue de cadrage de 394 études sur l'IA générative dans l'enseignement supérieur, la métacognition et l'apprentissage autorégulé comptaient parmi les résultats les moins ciblés, aux côtés de l'[[ethics|éthique]] et de la [[creativity|créativité]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 

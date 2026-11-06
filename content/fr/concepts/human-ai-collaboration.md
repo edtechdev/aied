@@ -1,14 +1,14 @@
 ---
 title: "Collaboration humain-IA"
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,7 @@ Cela fait de la collaboration humain-IA une construction *pédagogique* autant q
 
 - **Posséder une œuvre n'est pas la même chose que l'avoir écrite.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] nomment un *déficit de légitimation de l'auctorialité* : une personne peut éprouver une production comme sienne tout en étant incapable de garantir le rôle d'auteur, parce que la possession psychologique, le sentiment d'[[agency|autonomie]] et la responsabilité de la publication de l'œuvre sont des voies distinctes qui ne coïncident pas nécessairement. Leur nexus de travail de l'auctorialité classe les contributions rôle par rôle, de sorte qu'un même enregistrement peut soutenir une revendication éditoriale et échouer en même temps face à une revendication de créateur unique. Ce récit est une analyse conceptuelle, sans données ni modèle testé ; le déficit est donc un construit proposé dont les prédictions restent non testées.
 - **Guider sans dire exige son propre critère de jugement d'un agent.** Un cas de conception qui visait à reproduire la facilitation enseignante a constaté qu'un agent de connaissances borné à une base sélectionnée pouvait être jugé sur l'exactitude, alors qu'un agent censé conduire les étudiants vers leurs propres réponses ne le pouvait pas ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et coll., 2025]]).
+- **Le partenariat s'étend au processus de recherche lui-même, et non au seul apprentissage des étudiants** — [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] ont fait rédiger à GPT-4o des codes et des thèmes préliminaires dans une plateforme RAG sécurisée, tandis que trois chercheurs principaux et deux validateurs externes conservaient l'autorité interprétative, consolidant quatre thèmes finaux. Le flux hybride a redistribué le travail des chercheurs au lieu de le supprimer.
 
 ### Connexions
 

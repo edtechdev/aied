@@ -1,7 +1,7 @@
 ---
 title: "La mesure en éducation"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ La mesure en éducation est la discipline qui transforme des observations portan
 - **La notation automatisée et la validité :** [[ai-scoring-language-bias-physics|la notation par l'IA et le biais linguistique]] et l'[[multimodal-item-parameter-estimation-2026|estimation multimodale des paramètres d'items]] examinent comment la notation automatisée et les données multimodales affectent la qualité de la mesure.
 - **Les cadres de validité :** l'[[assessment-validity|évaluation]] et l'[[educational-nlp|évaluation]] fournissent les normes et les outils permettant de valider une mesure fondée sur les LLM.
 - **La comparaison des structures latentes :** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] étendent la mesure en éducation au contexte des LLM en testant si les instruments d'évaluation présentent la *même structure factorielle* pour les humains et pour les LLM. En recourant à l'analyse factorielle exploratoire, à la congruence factorielle et au rééchantillonnage, ils montrent que les structures latentes humain-LLM divergent systématiquement pour les instruments de [[chemistry-education|chimie]] et de raisonnement quantitatif, ce qui implique que les construits mesurés diffèrent selon les populations — un contrôle nécessaire avant de présumer que les données de validité humaines se transfèrent à l'IA.
+- **Une réponse inter-juges sur des transcriptions identiques.** [[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]] ont recodé les mêmes tours de dialogue avec huit configurations de LLM et deux codeurs humains, avec une auto-cohérence (κ de Cohen 0.865–0.890) bien au-dessus de l'alignement humain–LLM (kappa 0.000–0.419). La persistance montrait le paradoxe de prévalence : un accord de 78.23%–92.41% pour un kappa de 0.043–0.426, l'accord élevé sur la catégorie dominante sans code masquant le désaccord sur les rares cas positifs.
 - **L'IA comme évaluateur doté d'une erreur mesurable :** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] traitent les points attribués par l'IA comme des observations faillibles, dotées de sources d'erreur multiples (items, exécutions, tâches), dans le cadre de la théorie de la généralisabilité et de la validité fondée sur l'argument de Kane. L'analyse de fiabilité d'un examen manuscrit de chimie générale portant sur 296 étudiants a montré une forte stabilité des scores *totaux* sur cinq exécutions de l'IA (ICC(A,1) = 0.967, W de Kendall = 0.959, coefficient de répétabilité à 95% de 5.33 sur 60 points) avec une stabilité plus faible au niveau des items (ICC(A,1) = 0.836) — les erreurs non systématiques s'annulant partiellement lorsqu'on les somme (un effet d'agrégation de Spearman–Brown qui porte l'accord sur les scores totaux à R² = 0.91), tandis qu'une petite ordonnée à l'origine positive avec une pente inférieure à 1 révélait un biais de compression des scores d'« évaluateur timide ». Cela fait de la moyenne par exécutions et de l'agrégation des décisions de conception de la mesure, et motive des filtres de confiance calibrés sur le risque au sens de l'[[item-response-theory|TRI]] comme garde-fou de validité avant que des mesures automatisées ne soient dignes de confiance.
 - **La version du modèle est une condition de mesure.** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] a constaté que la similarité des réponses au sein d'un même modèle (0.715–0.795) dépassait constamment la similarité entre modèles (0.443–0.604) sur quatre LLM, de sorte qu'un argument de notation établi pour un déploiement ne se transfère pas automatiquement à son successeur.
 - **Un résultat nul n'est pas une preuve d'équivalence à moins d'être borné.** StudentBench a testé si le [[intelligent-tutoring|tutorat par l'IA]] regroupé égalait le tutorat humain expert, au moyen de deux tests unilatéraux contre ±0.25 écart-type regroupés, plutôt que d'un test de différence, rapportant une différence ajustée de −0.58 point de pourcentage (IC à 90% [−2.18, 1.03]) — le choix qui transforme un résultat nul sous-alimenté en affirmation d'équivalence ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).

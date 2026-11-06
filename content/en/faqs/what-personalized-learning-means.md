@@ -1,7 +1,7 @@
 ---
 title: "What Does Personalized Learning Actually Mean, and When Does It Help?"
 created: "2026-10-30T13:20:00-04:00"
-updated: "2026-10-30T13:20:00-04:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82

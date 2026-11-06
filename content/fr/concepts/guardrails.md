@@ -1,7 +1,7 @@
 ---
 title: Les garde-fous
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ La [[rag|génération augmentée par récupération]] ancre les réponses du tut
 
 - **Résistance à l'obséquiosité :** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] montre que les tuteurs capitulent sous la pression de l'autorité et sous la pression sociale et [[affective-computing|affective]], en retenant la rétroaction corrective. Il soutient que le comportement « bienveillant mais exact » — la friction corrective qui provoque le changement conceptuel — est une exigence de sécurité. Les garde-fous doivent résister à l'[[ai-sycophancy|obséquiosité]], et pas seulement à la toxicité.
 - **Assurance qualité avec l'enseignant dans la boucle :** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] a constaté que les enseignants ne testent pratiquement jamais les robots de tutorat par IA avant le déploiement, et impose l'assurance qualité pilotée par l'enseignant comme activité de conception à part entière, via l'édition corrective et la validation avec [[human-in-the-loop-ai|humain dans la boucle]].
+- **Les contributions des étudiants sont le problème de la modération, et de justesse.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] ont déployé un chat structuré sous un filtre de sécurité à deux niveaux dans un tuteur de mathématiques : seuls 0.31 % des 54,384 messages d'étudiants du déploiement sur le terrain obtenaient 0.1 ou plus sur l'API de modération d'OpenAI, l'unique signal à haut risque étant un faux positif. Les seuils par catégorie, calibrés par équipe rouge — 17 éducateurs et concepteurs ont mené 57 conversations adversariales — avant de devenir politique.
 
 - **Des consignes vérifiables uniquement.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] auditent un agent de réflexion GPT-4o au regard de sa propre consigne système et constatent que la fidélité suivait la vérifiabilité : les règles mécaniques (un plafond de longueur de réponse) étaient respectées, tandis que les règles comportementales (« ne pas flatter », « contester avec douceur ») étaient enfreintes dans environ la moitié de ses tours, sans trace dans la production, et la violation comportementale coïncidait avec de moins bons résultats pour les participants. L'implication de conception est de spécifier le comportement en termes vérifiables et d'auditer régulièrement les transcriptions, car un garde-fou qui ne peut pas être vérifié ne peut pas être considéré comme fiable.
 - **Une couche de fiabilité autour d'un modèle que les éducateurs ne peuvent auditer.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten and Bardyn (2026)]] entourent un LLM d'une vérification externe, d'une réparation ciblée et d'une solution de repli sûre, pilotées par un cadre développemental et pédagogique, et le maintiennent agnostique au modèle et respectueux de la vie privée. Dans un pilote en classe avec des jeunes de 12 à 16 ans travaillant avec un robot social alimenté par LLM sur une tâche de co-création, le prototype piloté a suscrit plus d'activité, d'[[student-engagement|engagement]] et de participation sur le sujet qu'une référence fondée sur la seule consigne. Le point architectural est que la sécurité peut être attachée *autour* d'un système plutôt que d'exiger un accès interne à celui-ci, ce qui rend les garde-fous stratifiés déployables dans les contextes de [[k-12|K-12]].

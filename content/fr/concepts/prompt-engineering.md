@@ -1,7 +1,7 @@
 ---
 title: "L'ingénierie des invites"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,10 @@ L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-
 
 - **La conception du rôle et des contraintes comme variable indépendante.** [[wang-teacher-student-centered-agents-physics-2026|Wang et coll. (2026)]] comparent deux agents construits sur le même modèle et la même plateforme à température 0,3, dont la seule différence réside dans la manière dont l'invite spécifie le rôle, les compétences et les contraintes : un agent enseignant expert répondant à partir d'une source de connaissances bornée, versus un agent centré sur l'étudiant, empathique, scripté pour diagnostiquer les [[misconceptions|idées fausses]] et vérifier la compréhension. La seule différence de rôle a déplacé la performance d'apprentissage, la charge cognitive, l'expérience de flow et l'empathie perçue, montrant que la spécification du rôle est une décision de conception pédagogique à effets mesurables plutôt qu'une fantaisie stylistique ([[pedagogical-agent|agents pédagogiques]]).
 - **La formulation comme conception de l'évaluation.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et coll. (2026)]] projettent les modèles étudiant, preuve et tâche de la conception centrée sur les données probantes (Evidence-Centered Design) sur les parties d'une invite de notation, en dérivant cinq principes — intentionnalité, traçabilité, responsabilité, itération et équité ; leurs invites construites selon l'ECD ont noté des dissertations narratives plus précisément que les références zéro-tir, few-shot et chaîne de raisonnement.
+
+- **L'identité du modèle, non le libellé de l'invite, pilote l'accord de codage LLM–humain.** Dans la décomposition contrôlée de [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et coll. (2026)]], le type d'invite était non significatif (F = 1,77, p = 0,136, η² partiel = 0,03), le facteur modèle portant un η² partiel de 0,19. Ajouter définitions ou instructions détaillées nuisait à la détection des listes, tout en réduisant les erreurs sur les jugements de définition correcte, et le prix ne suivait pas la qualité : Gemini 2.5 Pro à 178,13 $ sous-performait GPT-4.1 Full à 56,77 $.
+- **Injecter le nom de la théorie, non ses textes complets.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et coll. (2026)]] montrent que la formulation par nom de théorie battait les articles fournis sur l'utilité (4,40 contre 3,20) et le caractère concret (3,80 contre 2,40), les textes complets ne l'emportant que sur l'alignement théorique (4,60 contre 3,60).
+
 
 ### Connexions avec des concepts plus larges
 

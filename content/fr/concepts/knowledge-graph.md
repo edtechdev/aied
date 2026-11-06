@@ -1,13 +1,13 @@
 ---
 title: "Graphe de connaissances"
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-06T04:16:35-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ Les graphes de connaissances constituent un mécanisme structurel récurrent dan
 - **Tutorat augmenté par un graphe de connaissances :** [[quantum-education-its|ITAS]] utilise un graphe de connaissances de concepts quantiques (avec des relations de prérequis explicites) pour piloter un système de tutorat multi-agents, parcourant le graphe pour sélectionner les sujets suivants lorsque la matière est contre-intuitive.
 - **Modélisation des curricula et des cours :** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compare les structures de cours d'informatique entre établissements à l'aide de représentations graphiques ; [[learnity-graphs-lifelong-learning-framework-2026|les graphes Learnity]] modélisent les parcours de [[lifelong-learning|formation tout au long de la vie]].
 - **Apprentissage des relations de prérequis :** [[proprl-prerequisite-relation-learning|ProPrL]] apprend les [[recommender-systems-and-learning-paths|relations de prérequis]] entre concepts, formalisant les arêtes que les graphes de connaissances encodent.
+- **La découverte de prérequis par apprentissage remplace les a priori d’experts.** [[xu-graph-knowledge-tracing-survey-2026|Xu et coll. (2026)]] constatent que les traceurs à graphes peuvent apprendre les prérequis à partir des données de réponse. GKT paramètre une matrice d’adjacence apprenable de bout en bout, SKT-L apprend les prérequis en s’entraînant, PKT applique une régularisation L1 pour retrouver des graphes de prérequis parcimonieux, évalués contre des structures de vérité de terrain via des scores F1, et le cadre bayésien variationnel de PSI-KT infère des graphes de prérequis dirigés mieux alignés sur les prérequis annotés par des humains que les modèles de référence.
 - **Détection des lacunes de connaissances :** [[knowledge-gap-detection-ai-tas|la détection des lacunes de connaissances]] utilise un raisonnement fondé sur les graphes dans les assistants pédagogiques à base d'IA afin d'identifier les points où les apprenants n'ont pas les concepts fondamentaux.
 - **Raisonnement [[multimodal|multimodal]] et explicable :** les [[multimodal-knowledge-graph-educational-reasoning|graphes de connaissances multimodaux]] étendent la structure de graphe à travers les modalités de contenu ; les [[fair-explainable-edu-recommendations|recommandations équitables et explicables]] combinent des plongements issus de graphes de connaissances avec une modélisation séquentielle (un cadre hybride HKG-GRU).
 - **Graphes structurés pédagogiquement pour la recommandation de ressources :** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] décomposent chaque entité de ressource pédagogique en quatre dimensions pédagogiques (contexte d'enseignement, niveau cognitif, caractéristique technologique, adaptabilité culturelle), calculent une similarité sémantique dépendant de l'utilisateur sur ces dimensions, et la fusionnent avec le filtrage collaboratif via un coefficient sensible à la compétence et à la progression — encodant la [[pedagogy|structure pédagogique]] directement dans le signal de recommandation plutôt qu'en traitant les ressources comme de simples articles de consommation.
