@@ -39,7 +39,7 @@ import {
 
 export interface SearchChrome {
   /** Visible, permanent labels (unlocalized values fall back to English). */
-  label: Record<string, string>;
+  labels: Record<string, string>;
   /** Facet name -> ordered list of group options (mostly translated names). */
   facetOrder: { primary: string[]; more: string[] };
   /** Value display for known enumerations (page_type), else undefined = raw. */
