@@ -69,6 +69,26 @@ if (connectedFaqs.length > 0) toc.push({ text: chrome.metadataLabels.connected_f
 if (connectedResources.length > 0) toc.push({ text: chrome.metadataLabels.connected_resources, slug: 'connected-resources', depth: 2 });
 const kindLabels: Record<string, string> = { concepts: chrome.concepts, resources: chrome.resources, faqs: chrome.faqs };
 const badge = kindLabels[pageType as string] ?? pageType;
+// Search-index facets: mirror the English templates (articles/[slug].astro,
+// concepts/faqs/resources/[slug].astro) so translated pages carry the same
+// filter metadata. Facets travel in the frontmatter from English, so the
+// values are canonical; absent fields are simply omitted.
+const facetFields: { name: string; values: string[] | undefined }[] = [
+  { name: 'foundations', values: data.foundations },
+  { name: 'pedagogy', values: data.pedagogy },
+  { name: 'technology', values: data.technology },
+  { name: 'assessment', values: data.assessment },
+  { name: 'methods', values: data.methods },
+  { name: 'institutions', values: data.institutions },
+  { name: 'ethics', values: data.ethics },
+  { name: 'level', values: data.level },
+  { name: 'audience', values: data.audience },
+  { name: 'discipline', values: data.discipline },
+  { name: 'page_kind', values: data.page_kind },
+  { name: 'research_method', values: data.research_method },
+];
+const pagefindFilterPairs: string[] = facetFields
+  .flatMap(({ name, values }) => (values || []).map((v: string) => `${name}:${v}`));
 const createdDisplay = (data.created || '').split('T')[0];
 const updatedDisplay = (data.updated || data.created || '').split('T')[0];
 ---
@@ -79,6 +99,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
     html={`${s.translationNoticeHtml} <a href="${englishPath}">${s.originalPageLabel}</a>`}
   />
   <article data-pagefind-filter={`page_type:${pageType.replace(/s$/, '')}`}>
+    {pagefindFilterPairs.map((pair) => <meta data-pagefind-filter={pair} />)}
     <div class="page-header" id="top">
       <p class="page-type-badge">{badge}</p>
       <h1>{data.title}</h1>

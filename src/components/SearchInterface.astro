@@ -1,151 +1,171 @@
 ---
-// The Pagefind search interface (input, facet filters, summary, results) with
-// its styles and its two inline scripts, in one place so the search page and the
-// 404 page render the same thing. The index itself is global — built from every
-// page — so the interface is identical wherever it is mounted; only the chrome
-// strings follow `locale`.
+// The search interface: input, facet filters, chips, status, results.
+//
+// One component, two mounts (the /search page and the 404 page) so the two
+// cannot drift. The interface is a custom controller over Pagefind's
+// documented low-level API (see src/lib/search/*); it replaces the previous
+// web-component wiring (private getInstanceManager access, MutationObserver
+// label patching, 5.5 s fixed restoration delay, 200 ms readiness polling).
+//
+// URL contract: readable repeated parameters (?q=...&page_type=faq&level=...),
+// legacy ?f=<base64 JSON> still accepted and normalized (never re-emitted).
 import { getCollection } from 'astro:content';
 import { strings } from '../i18n';
-import { searchFilterBar } from '../i18n/searchLabels';
+import { searchChrome, searchFilterBar, type SearchChrome } from '../i18n/searchLabels';
+import { FACET_DISPLAY_ORDER } from '../data/facetVocab';
+import { taxonomyHeading } from '../i18n/config';
 
 const { locale = 'en' } = Astro.props;
 const s = strings(locale).search;
+const chrome = searchChrome(locale);
 const filterBar = searchFilterBar(locale);
+
+// Concept-slug -> localized title for topic-facet value display.
 const concepts = await getCollection('concepts');
-const facetLabels: Record<string, string> = {};
+const conceptTitles: Record<string, string> = {};
 for (const c of concepts) {
-  facetLabels[c.id.replace(/\.md$/, '')] = c.data.title;
+  conceptTitles[c.id.replace(/\.md$/, '')] = c.data.title;
 }
+
+// Facet order: primary filters visible first; everything else (research
+// method, page kind, the seven topic vocabularies) behind "More filters".
+const PRIMARY_FACETS = ['page_type', 'audience', 'level', 'discipline'];
+const MORE_FACETS = ['research_method', 'page_kind', ...FACET_DISPLAY_ORDER];
+const facetLabel = (facet: string): string => {
+  const found = filterBar.find((f) => f.filter === facet);
+  if (found) return found.label;
+  const raw = facet;
+  return taxonomyHeading(raw === 'page_kind' ? 'page_kind' : raw, locale);
+};
+
+// Localized index links for the no-JS fallback and the empty state.
+const l = locale === 'en' ? '' : `/${locale}`;
+const indexHrefs = {
+  concepts: `/aied${l}/concepts/`,
+  faqs: `/aied${l}/faqs/`,
+  resources: `/aied${l}/resources/`,
+};
+
+const config: SearchChrome & {
+  basePath: string;
+  facetLabel: Record<string, string>;
+  conceptTitles: Record<string, string>;
+  indexHrefs: Record<string, string>;
+} = {
+  ...chrome,
+  basePath: '/aied',
+  facetLabel: Object.fromEntries([...PRIMARY_FACETS, ...MORE_FACETS].map((f) => [f, facetLabel(f)])),
+  conceptTitles,
+  indexHrefs,
+};
 ---
 
-<div class="search-interface">
-  <pagefind-config bundle-path="/aied/pagefind/" faceted></pagefind-config>
-  <div class="search-controls">
-    <pagefind-input placeholder={s.placeholder}></pagefind-input>
-  </div>
-  <div class="filter-bar">
-    {filterBar.map((f) => (
-      <pagefind-filter-dropdown filter={f.filter} label={f.label}></pagefind-filter-dropdown>
+<div class="search-interface" data-search-interface data-locale={locale}>
+  <noscript>
+    <section class="search-nojs">
+      <h2>{chrome.labels.nojs_title}</h2>
+      <p>{chrome.labels.nojs_text}</p>
+      <ul>
+        <li><a href={indexHrefs.concepts}>{chrome.labels.concepts}</a></li>
+        <li><a href={indexHrefs.faqs}>{chrome.labels.faqs}</a></li>
+        <li><a href={indexHrefs.resources}>{chrome.labels.resources}</a></li>
+      </ul>
+    </section>
+  </noscript>
+
+  <form role="search" class="search-form" data-search-form novalidate>
+    <label class="visually-hidden" for="aied-search-input">{chrome.labels.search}</label>
+    <input
+      id="aied-search-input"
+      name="q"
+      type="search"
+      class="search-input"
+      data-search-q
+      autocomplete="off"
+      maxlength="500"
+      placeholder={s.placeholder}
+    />
+    <button type="submit" class="search-button" data-search-submit>{chrome.labels.submit}</button>
+    <button type="button" class="search-button search-button-ghost" data-search-clear-query hidden>
+      {chrome.labels.clear_query}
+    </button>
+    <button type="button" class="search-button search-button-ghost" data-search-share>
+      {chrome.labels.share}
+    </button>
+  </form>
+
+  <div class="search-filter-row">
+    {PRIMARY_FACETS.map((facet) => (
+      <fieldset class="search-filter-group" data-filter-group={facet}>
+        <legend>{config.facetLabel[facet]}</legend>
+        <div class="search-filter-options" data-filter-options></div>
+      </fieldset>
     ))}
   </div>
-  <pagefind-summary></pagefind-summary>
-  <pagefind-results show-excerpt></pagefind-results>
+
+  <details class="search-more-filters" data-search-more-filters>
+    <summary>{chrome.labels.more_filters}</summary>
+    <div class="search-filter-row search-filter-more">
+      {MORE_FACETS.map((facet) => (
+        <fieldset class="search-filter-group" data-filter-group={facet}>
+          <legend>{config.facetLabel[facet]}</legend>
+          <div class="search-filter-options" data-filter-options></div>
+        </fieldset>
+      ))}
+    </div>
+  </details>
+
+  <div class="search-chip-row">
+    <div class="search-chips" data-search-chips role="group" aria-label={chrome.labels.share}></div>
+    <button type="button" class="search-button search-button-ghost" data-search-clear-filters>
+      {chrome.labels.clear_filters}
+    </button>
+    <button type="button" class="search-button search-button-ghost" data-search-clear-all>
+      {chrome.labels.clear_all}
+    </button>
+  </div>
+
+  <p class="search-status" data-search-status role="status" aria-live="polite"></p>
+  <p class="search-summary" data-search-summary></p>
+  <a class="search-skip" href="#aied-search-results" data-search-skip>
+    {chrome.labels.skip_results}
+  </a>
+
+  <ol class="search-results" data-search-results id="aied-search-results"></ol>
+  <button type="button" class="search-button" data-search-load-more hidden>
+    {chrome.labels.load_more}
+  </button>
+
+  <div class="search-empty" data-search-empty hidden>
+    <h2>{chrome.labels.empty_title}</h2>
+    <p data-empty-hits hidden>{chrome.labels.empty_hits}</p>
+    <section class="search-suggestions">
+      <h3>{chrome.labels.suggestions}</h3>
+      <div class="search-suggestion-queries" data-suggestion-queries></div>
+      <ul>
+        <li><a href={indexHrefs.concepts}>{chrome.labels.concepts}</a></li>
+        <li><a href={indexHrefs.faqs}>{chrome.labels.faqs}</a></li>
+        <li><a href={indexHrefs.resources}>{chrome.labels.resources}</a></li>
+      </ul>
+    </section>
+  </div>
+
+  <div class="search-error" data-search-error role="alert" hidden>
+    <p data-error-text></p>
+    <button type="button" class="search-button" data-search-retry>{chrome.labels.retry}</button>
+  </div>
+
+  <p id="aied-search-announce" class="visually-hidden" data-search-a11y-announce aria-live="assertive"></p>
+
+  <script type="application/json" id="aied-search-config" set:html={JSON.stringify(config)}></script>
 </div>
 
-<link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
-
-<script is:inline define:vars={{ facetLabels }}>
-  // Pagefind's filter dropdowns render the raw filter value, so the typed facet
-  // values (concept slugs) would read as 'self-regulated-learning'. Rewrite any
-  // text node inside a dropdown's shadow DOM whose whole content is a known
-  // concept slug into that concept's page title. Everything else, and any
-  // dropdown whose internals change, is left untouched.
-  (() => {
-    const labels = facetLabels || {};
-    const walk = (node) => {
-      for (const child of node.childNodes || []) {
-        if (child.nodeType === 3) {
-          const key = child.nodeValue.trim();
-          if (key && labels[key]) child.nodeValue = child.nodeValue.replace(key, labels[key]);
-        } else if (child.nodeType === 1) {
-          if (child.shadowRoot) walk(child.shadowRoot);
-          if (child.childNodes && child.childNodes.length) walk(child);
-        }
-      }
-    };
-    const apply = () => {
-      document.querySelectorAll('.filter-bar pagefind-filter-dropdown').forEach((el) => {
-        walk(el);
-      });
-    };
-    // The dropdowns build their options after hydration and re-render them when
-    // opened, so re-apply on any childList change inside the filter bar. This
-    // cannot loop: our rewrite edits text nodes, which childList does not watch.
-    const bar = document.querySelector('.filter-bar');
-    if (bar) {
-      new MutationObserver(() => {
-        if (bar.__facetBusy) return;
-        bar.__facetBusy = true;
-        requestAnimationFrame(() => { apply(); bar.__facetBusy = false; });
-      }).observe(bar, { childList: true, subtree: true });
-    }
-    window.addEventListener('load', () => { apply(); setTimeout(apply, 400); });
-    document.addEventListener('pagefind-ui-loaded', apply);
-  })();
-</script>
-
-<script is:inline>
-  // Sync the search term AND selected filters to the URL so searches can be
-  // bookmarked and shared. Uses ?q=<term>&f=<base64 JSON of filters>.
-  // Runs on an interval (independent of the PageFind module load timing) so it
-  // reliably attaches once the components are registered.
-  (function () {
-    const readParams = () => {
-      const p = new URLSearchParams(window.location.search);
-      let filters = {};
-      try {
-        const f = p.get("f");
-        if (f) filters = JSON.parse(atob(f));
-      } catch {}
-      return { q: p.get("q") || "", filters };
-    };
-
-    const writeParams = (q, filters) => {
-      const p = new URLSearchParams();
-      if (q) p.set("q", q);
-      const hasFilters = Object.keys(filters || {}).some((k) => (filters[k] || []).length);
-      if (hasFilters) p.set("f", btoa(JSON.stringify(filters)));
-      const qs = p.toString();
-      const url = qs ? window.location.pathname + "?" + qs : window.location.pathname;
-      window.history.replaceState({}, "", url);
-    };
-
-    const { q, filters } = readParams();
-    let attached = false;
-    let retry = 0;
-
-    let attemptCount = 0;
-    const attempt = () => {
-      const C = window.PagefindComponents;
-      if (!C || !C.getInstanceManager) { setTimeout(attempt, 200); return; }
-      let inst;
-      try { inst = C.getInstanceManager().getInstance("default"); } catch { inst = null; }
-      if (!inst) { setTimeout(attempt, 200); return; }
-
-      // Persist on every search — but never write an empty state.
-      if (!attached) {
-        attached = true;
-        inst.on("search", (term, f) => {
-          const ff = f || {};
-          const hasFilters = Object.keys(ff).some((k) => (ff[k] || []).length);
-          if (!term && !hasFilters) return;
-          writeParams(term, ff);
-        });
-      }
-
-      // Restore the query using fixed timing: PageFind's faceted init re-renders
-      // the input and does NOT settle until ~5.5s after load. Wait past that,
-      // then set the input value + dispatch input (what a real user typing does —
-      // fills the box AND runs the search). A pure set+dispatch is sufficient.
-      const input = document.querySelector("pagefind-input input");
-      if (!input) { setTimeout(attempt, 200); return; }
-      if (!q && !Object.keys(filters).length) return;
-      if (Date.now() < window.__pfStart + 5500) { setTimeout(attempt, 250); return; }
-      attemptCount += 1;
-      if (attemptCount <= 3 && input.value !== q) {
-        input.value = q;
-        input.dispatchEvent(new Event("input", { bubbles: true }));
-        if (Object.keys(filters).length) {
-          try { inst.triggerSearchWithFilters(q, filters); } catch {}
-        }
-        setTimeout(attempt, 500);
-        return;
-      }
-      attemptCount = 0;
-    };
-    window.__pfStart = Date.now();
-    setTimeout(attempt, 300);
-  })();
+<script>
+  import { SearchController } from '../lib/search/controller.ts';
+  const cfg = JSON.parse(document.getElementById('aied-search-config')!.textContent!);
+  (window as any).__AIED_BASE_PATH__ = cfg.basePath;
+  const root = document.querySelector<HTMLElement>('[data-search-interface]')!;
+  new SearchController(root, cfg);
 </script>
 
 <style>
@@ -153,148 +173,210 @@ for (const c of concepts) {
     max-width: 800px;
     margin: 0 auto;
   }
-  .search-controls {
-    display: flex;
-    gap: 0.75rem;
-    margin-bottom: 1.5rem;
-    align-items: flex-start;
-    flex-wrap: wrap;
-  }
-  .search-controls pagefind-input {
-    flex: 1;
-    min-width: 250px;
-  }
-  .filter-bar {
+  .search-form {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
+    align-items: center;
     margin-bottom: 1.25rem;
   }
-  pagefind-filter-dropdown {
-    flex: 0 0 auto;
+  .search-input {
+    flex: 1 1 14rem;
+    min-width: 0;
+    padding: 0.65rem 0.8rem;
+    font-size: 1.05rem;
+    border: 2px solid var(--card-border-color);
+    border-radius: 6px;
+    background: var(--card-background-color);
+    color: var(--color);
   }
-  /* PageFind's component UI has NO shadow DOM (there is no `attachShadow`
-     anywhere in pagefind-component-ui.js), so every `::part(...)` rule that used
-     to live here matched nothing and none of it ever applied. The styles below
-     target PageFind's real light-DOM classes instead. Two consequences:
-       - they must be wrapped in `:global()`, because Astro's scoping would
-         otherwise append this component's `[data-astro-cid-...]` attribute to
-         selectors for elements PageFind creates at runtime, which never carry it;
-       - PageFind styles these same classes through `:is(*, #\#):is(*, #\#):is(*, #\#)`
-         (ID-level specificity), so overriding a property PageFind sets needs
-         `!important`. PageFind sets trigger height/padding/font-size/border,
-         so those carry it; things it leaves alone (colour, radius on the menu)
-         do not need it. */
-  :global(.pf-dropdown-trigger) {
-    gap: 0.4rem !important;
-    height: auto !important;
-    padding: 0.5rem 0.9rem !important;
-    font-size: 0.9rem !important;
-    border: 2px solid var(--card-border-color) !important;
-    border-radius: 6px !important;
-    background: var(--card-background-color) !important;
-    color: var(--color) !important;
+  .search-input:focus-visible {
+    border-color: var(--primary);
+    outline: none;
   }
-  :global(.pf-dropdown-trigger:hover),
-  :global(.pf-dropdown-trigger.open) {
-    border-color: var(--primary) !important;
+  .search-button {
+    padding: 0.55rem 0.9rem;
+    font-size: 0.9rem;
+    border: 2px solid var(--card-border-color);
+    border-radius: 6px;
+    background: var(--card-background-color);
+    color: var(--color);
+    cursor: pointer;
   }
-  :global(.pf-dropdown-selected-badge) {
-    color: var(--color) !important;
-    background: color-mix(in srgb, var(--primary) 18%, transparent) !important;
+  .search-button:hover,
+  .search-button:focus-visible {
+    border-color: var(--primary);
   }
-  :global(.pf-dropdown-menu) {
-    background: var(--card-background-color) !important;
-    border: 2px solid var(--card-border-color) !important;
-    border-radius: 6px !important;
+  .search-button-ghost {
+    background: transparent;
   }
-  :global(.pf-dropdown-option) {
-    font-size: 0.9rem !important;
-    color: var(--color) !important;
+  .search-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1rem;
   }
-  :global(.pf-dropdown-option:hover),
-  :global(.pf-dropdown-option-focused) {
-    background: color-mix(in srgb, var(--primary) 10%, transparent) !important;
+  .search-filter-group {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    min-width: 10rem;
   }
-  :global(.pf-dropdown-option-count) {
-    color: var(--muted-color) !important;
+  .search-filter-group legend {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--muted-color);
+    margin-bottom: 0.25rem;
   }
-  /* Keep the dropdown popup inside the viewport on small screens. PageFind
-     styles the menu with high-specificity selectors (`:is(*, #\#):is(*, #\#):is(*, #\#)`),
-     so `!important` is required. On mobile we pin the menu to the viewport
-     (position:fixed + 1rem insets) so it cannot spill off either side or the
-     bottom. The `transform: none` reset is load-bearing: PageFind's own
-     `@media (max-width: 640px)` block centers the menu on its trigger with
-     `left: 50%; transform: translateX(-50%)`; the left:50% is overridden above
-     but the transform was NOT, so the fixed box was still shifted left by half
-     its width and hung off the LEFT edge of phone screens. */
-  @media (max-width: 640px) {
-    :global(.pf-dropdown-menu) {
-      position: fixed !important;
-      inset: 1rem 1rem auto 1rem !important;
-      transform: none !important;
-      min-width: 0 !important;
-      width: auto !important;
-      max-width: calc(100vw - 2rem) !important;
-      max-height: min(70vh, 24rem) !important;
-      z-index: 1000 !important;
-    }
+  .search-filter-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
   }
-
-  /* The search box. PageFind sets height/font-size/border and pads the inline
-     sides (32px start for the magnifier icon, 36px end for the clear button), so
-     we override the rest and leave that inline padding alone -- replacing the
-     whole `padding` shorthand would slide the text under the icon. */
-  :global(.pf-input) {
-    height: auto !important;
-    padding-top: 0.75rem !important;
-    padding-bottom: 0.75rem !important;
-    font-size: 1.05rem !important;
-    border: 2px solid var(--card-border-color) !important;
-    border-radius: 6px !important;
-    background: var(--card-background-color) !important;
+  .search-option {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.88rem;
+    padding: 0.15rem 0;
+    min-height: 32px; /* touch target floor */
   }
-  :global(.pf-input:focus-visible) {
-    border-color: var(--primary) !important;
-    outline: none !important;
+  .search-more-filters summary {
+    cursor: pointer;
+    margin-bottom: 0.75rem;
+    color: var(--primary);
   }
-
-  :global(.pf-summary) {
-    margin-bottom: 0.75rem !important;
-    font-size: 0.9rem !important;
-    color: var(--muted-color) !important;
+  .search-filter-more {
+    margin-bottom: 1rem;
   }
-
-  :global(.pf-result) {
-    padding: 1rem 0 !important;
-    border-bottom: 1px solid var(--card-border-color) !important;
+  .search-chip-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
   }
-  :global(.pf-result-link) {
-    font-size: 1.1rem !important;
-    font-weight: 600 !important;
-    color: var(--primary) !important;
+  .search-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .search-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.3rem 0.6rem;
+    font-size: 0.82rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+    color: var(--color);
+    cursor: pointer;
+    min-height: 36px;
+  }
+  .search-chip:hover,
+  .search-chip:focus-visible {
+    border-color: var(--primary);
+  }
+  .search-status,
+  .search-summary {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+    margin: 0.25rem 0;
+    min-height: 1.2em;
+  }
+  .search-skip {
+    display: block;
+    margin: 0.25rem 0 0.75rem;
+    color: var(--primary);
+    font-size: 0.85rem;
+  }
+  .search-results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .search-result {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--card-border-color);
+  }
+  .search-result-link {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
     text-decoration: none;
   }
-  :global(.pf-result-link:hover) {
+  .search-result-link:hover,
+  .search-result-link:focus-visible {
     text-decoration: underline;
   }
-  :global(.pf-result-excerpt) {
-    margin-top: 0.25rem !important;
-    font-size: 0.9rem !important;
-    line-height: 1.5 !important;
-    color: var(--muted-color) !important;
-    /* PageFind ships `white-space: nowrap` + ellipsis, i.e. one truncated line.
-       Let excerpts wrap to a readable block instead. */
-    white-space: normal !important;
-    overflow: visible !important;
-    text-overflow: clip !important;
+  .search-result-excerpt {
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+    line-height: 1.55;
+    color: var(--muted-color);
   }
-  :global(.pf-heading-chips) {
-    margin-top: 0.5rem !important;
-    display: flex !important;
-    gap: 0.3rem !important;
-    flex-wrap: wrap !important;
-    list-style: none !important;
-    padding: 0 !important;
+  .search-result-excerpt mark {
+    background: color-mix(in srgb, var(--primary) 30%, transparent);
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+  .search-empty,
+  .search-error {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border: 2px dashed var(--card-border-color);
+    border-radius: 8px;
+  }
+  .search-error {
+    border-style: solid;
+    border-color: var(--danger, #b3503a);
+  }
+  .search-suggestions ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.2rem;
+  }
+  .search-suggestion-queries {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .search-suggestion-query {
+    padding: 0.35rem 0.7rem;
+    font-size: 0.85rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--primary);
+    cursor: pointer;
+    min-height: 36px;
+  }
+  .search-share-fallback {
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    font: 0.85rem monospace;
+    border: 1px solid var(--card-border-color);
+    border-radius: 6px;
+  }
+  .search-nojs h2 {
+    font-size: 1.1rem;
+  }
+  .visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  @media (max-width: 360px) {
+    .search-form .search-button {
+      flex: 1 1 auto;
+    }
   }
 </style>
