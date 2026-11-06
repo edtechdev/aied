@@ -23,8 +23,11 @@ const { count, size, warnings } = await generateSW({
   globPatterns: ['**/*.{js,css,svg,png,webp,ico,xml,json,txt,woff2,woff,ttf}'],
   globIgnores: [
     '**/pagefind/**',
-    '**/llms-full.txt',
-    '**/llms.txt',
+    // Bulk AI export files (llms.txt, llms-full.txt, llms-concepts.txt and
+    // every llms.<locale>.txt / llms.<locale>-concepts.txt): crawler-targeted
+    // plain-text exports, not app assets. Never precache them - they bloat
+    // the SW install payload for zero offline benefit.
+    '**/llms*.txt',
     '**/*.html',
     '**/og-concept-map.png',
     '**/sw.js',
@@ -44,6 +47,13 @@ const { count, size, warnings } = await generateSW({
     // remove the SW cache, making it look unfixable).
     {
       urlPattern: /\/aied\/.*\.(pdf|epub)(\?.*)?$/i,
+      handler: 'NetworkOnly',
+      method: 'GET',
+    },
+    // Same treatment for the bulk AI export files: a crawler fetching
+    // llms-full.txt must not land 20+ MB into the 30-day page cache.
+    {
+      urlPattern: /\/aied\/llms[^/]*\.txt(\?.*)?$/i,
       handler: 'NetworkOnly',
       method: 'GET',
     },
