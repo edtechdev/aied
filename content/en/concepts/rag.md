@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -27,6 +27,7 @@ reviewed_by: [editor]
 
 - **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk]].
+- **Guidance is a dial and groundedness does not win preference.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] had nine educators and designers rank RAG-answered math questions across three prompt-guidance levels: low-guidance responses were pairwise-preferred over high-guidance 63.8% of the time even though high guidance was perceived as most grounded (mean 0.90 on a 0-2 scale). Retrieved-document relevance correlated with perceived groundedness (r = 0.56, p < 0.001) but showed no significant relationship with preference — grounding shapes what the tutor says, not whether students prefer it.
 - **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **On-premises deployment for institutional control:** CourseChat runs a multi-course RAG tutor for undergraduate [[business-education|business education]] on local edge hosts with a local vector database and an Ollama-served 8B model, keeping course materials and student dialogue on campus infrastructure; model choice became a joint hardware-and-serving decision when larger candidates failed a latency gate ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).

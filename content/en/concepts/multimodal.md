@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T15:58:10-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -51,6 +51,9 @@ When LLM-based tutors must solve problems that embed meaning in graphs, force di
 - This is an **equity concern**: students working on image-rich problems — precisely the problems that build deep conceptual understanding in STEM — currently receive less reliable AI support than those on text-only exercises.
 - **Constructing a visual aid is harder than reading one.** On GeoVAD-Bench, supplying an expert auxiliary diagram raised accuracy (+3.3 to +7.0 points), but letting models construct their own auxiliary line widened the gap by 10.0 to 13.5 points — two models scored worse than with no visual reasoning at all ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
 - **The boundary is a profile, not a level — and artistic imagery sits outside the region models handle well.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] evaluates 30 open- and proprietary VLMs on 12 tasks over 1,174 commissioned artworks, and the capability spread across dimensions is wider than any aggregate score suggests: scene classification is near-mature (23 of 30 models above 75.0, median 81.0). Meanwhile [[affective-computing|emotion detection]] tops out at 39.5, and the open-ended tasks that require models to *articulate* their evidence score at 50.90 (visual clue identification) and 49.18 (emotion cause inference) on semantic similarity. Compositional and viewpoint-dependent reasoning fail hardest — where the ground truth specifies no definite lateral or vertical relation, 90.0% and 73.3% of models assert one anyway, only 43.3% place the girl correctly in depth, and no model resolves all three dimensions of a single item. Failures also cascade: a mis-grounded character is then justified with a fluent rationale built from nearby visual semantics (butterflies, birds), which is the outcome most dangerous in tutoring because the explanation reads as competent. For image-based [[language-learning|language learning]] this argues for dimension-level validation on the imagery a course actually uses, rather than importing a general multimodal score, and for extending the grounding checkpoint described below — describe what is seen, and where, before reasoning from it — to [[situated-learning|situated]] artistic content ([[muse-vlm-artistic-image-benchmark-2026]]).
+
+- **The ceiling is low on curriculum-authentic figure-dependent math - and refusal is the calibrated fallback.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] evaluated six multimodal models on 376 image-Required [[math-education|middle-school]] items whose figures carry task-critical constraints.
+With images, the reasoning models o4-mini solved 57.7% of items and o3 52.4%, versus 34.0%-42.6% for the non-reasoning family; when the figure was withheld the models refused rather than guessed in 95.4%-98.9% of runs - an abstention pattern a tutor can treat as a missing-context signal rather than a learner error.
 
 The practical design implication is a **visual grounding checkpoint** in multimodal tutoring: a deliberate step where the system describes what it sees before attempting a solution, giving the student or a human supervisor a chance to correct perceptual errors.([[syal-multimodal-dialogue-stem-2026]])
 

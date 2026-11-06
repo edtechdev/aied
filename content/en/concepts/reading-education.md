@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-05T02:16:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -59,6 +59,8 @@ Readability is the oldest measurement in this area and the one AI unsettles most
 Two further studies widen the gap. Bird fuses transformer classification with computational-linguistics features to place English literature at a UK Key Stage, reaching F1 0.996 and packaging the result as a tool for teachers ([[bird-multimodal-educational-literature-2026|Bird, 2026]]). Clark et al. go below the surface entirely, measuring constructions with known processing costs — low-frequency n-grams, long dependencies, stacked nouns, denominal verbs, inanimate subjects, reduced object relatives — and finding that recent models over-use them relative to their own meaning-preserving paraphrases and to human baselines ([[clark-ai-generated-language-readability-2026|Clark et al., 2026]]). Readability, on this evidence, is a property of the text's processing demands and of who produced it, not only of its length statistics.
 
 The practical consequence is that a grade-level score is a weak guarantee about any text, and a particularly weak guarantee about AI-written text.
+
+Target-audience perception is now measurable directly. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] collected a 3,954-annotation dataset from 193 German high-school students rating sentences from career-guidance study guides and Wikipedia, and found the readers disagreed with the formula: 72.8% of annotations were very easy or easy despite the corpus's low Flesch-Reading-Ease scores. SHAP analysis of a profile-based model showed reader traits driving that perception — language spoken at home the most influential person feature (0.09), ahead of gender (0.08) and self-estimated German skill (0.07) — so a grade-level score misses not only the text's processing demands but also whose reading experience it is measuring.
 
 ## Adapting and Generating Text
 

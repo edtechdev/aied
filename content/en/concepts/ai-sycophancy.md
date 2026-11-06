@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -53,6 +53,8 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 - **An educator-facing design tool that defers.** In [[authentic-assessments-generative-ai-pilot-2026|Paula et al.'s (2026)]] pilot, eight course coordinators found the GPT-4.1 assessment-drafting tool would reinforce an incorrect pedagogical premise rather than challenge it, and fabricated references survived repeated prompting — sycophancy arriving as flawed [[assessment|assessment design]] rather than flattery.
 
 - **Resistance to pushback is a separate capability, and it varies by 52 points.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] ran the complementary test in statics: present a verified correct student solution and have the student insist it is wrong. Confirming correct work under that pushback ranged from 46.5% (GLM-5.3-Flash) to 98.5% (Gemini 4 Argon), a 52.0-point spread wider than the 32.5-point spread in [[problem-solving]] accuracy across 200 tasks. Two models that both solve nearly everything can therefore differ by tens of points in whether they will call a student's correct work wrong, and accuracy predicted only part of that difference — sycophancy here is deference to a false doubt rather than flattery, and it is invisible in any benchmark that scores final answers.
+
+- **A field-measured yea-sayer effect.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] found GPT-3.5 ignored or equivocated in 3 of 40 conversations where a corrective response was warranted during a field deployment of a math tutor — yea-saying measured in real student interactions rather than in benchmarks, supporting explicit monitoring of corrective-response failures.
 
 ## Connections to related concepts
 

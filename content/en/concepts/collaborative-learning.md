@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -62,6 +62,9 @@ Process mining put AI query negotiation at an integration hub in diverse groups,
 
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven [[intelligent-tutoring|adaptive tutor]] for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviors — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modeling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
 **Scaffold on the order of group talk, not its frequency.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] mined 65 students' triad dialogue sequences and found one ordering — paraphrasing, then proposing, then questioning — tracked improvement while the reverse did not; the maximal scaffold raised on-task behavior yet also scripting and fewer problem-solving indicators.
+
+**Structural analysis of group talk needs an operational definition of the thread.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] published a threading guidebook for identifying topical strands in synchronous multi-party transcripts.
+Refined through iterative social moderation by three trained researchers, it reached a Cohen's kappa of 0.89 on a 200-utterance validation transcript and, applied across 12 transcripts (2,371 utterances), recovered 315 thread trees - the structural skeleton of who initiates topics, responds to whom, and which contributions receive no uptake.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 

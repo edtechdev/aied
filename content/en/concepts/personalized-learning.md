@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -90,6 +90,10 @@ A third axis of personalization is the *goal*, and it is the input AI planners h
 A fourth axis is the *audience* rather than the individual learner: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenerates an existing lecture for a named professional group (healthcare, finance, or energy), and its expert raters scored industry-framed versions 0.32 points higher on personalization depth (3.97 vs. 3.65) while audience calibration lagged (3.52). Tailoring to a cohort rather than to a learner is a cheaper and more tractable form of personalization, but the rubric that measured it assessed judged fit, not learner outcomes.
 
 Personalization can outweigh a human presenter: in a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded ones (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first, against 73.8% for human-recorded ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
+
+Personalization can also assemble all three learner variables into one pipeline on a real second-language platform: [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] combine preference, proficiency, and engagement models over NedBox logs from 7,346 learners.
+They rank materials with the lightweight EASE recommender (AUROC 0.955), re-rank the top-10 by DeepIRT proficiency estimates (best MCC 0.34), and filter items a survival forest flags as high dropout risk (C-index 0.662).
+Each learner's entry difficulty is set to the level whose predicted probability of a correct answer sits closest to 0.75.
 
 ## How strong is the evidence
 

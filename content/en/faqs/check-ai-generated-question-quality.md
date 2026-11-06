@@ -1,7 +1,7 @@
 ---
 title: "How Do I Check Whether AI-Generated Quiz and Exam Questions Are Actually Good?"
 created: "2026-10-30T12:05:00-04:00"
-updated: "2026-10-30T12:05:00-04:00"
+updated: "2026-11-05T21:45:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-11-05"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Revise, and keep the record: the approved version, the outcome it serves, the ke
 In an introductory sociology course the outcome might be distinguishing a structural explanation from an individual one. A weak item asks students to define "structural," which measures vocabulary recognition. A stronger candidate gives a short scenario about a family and an employment decision, then asks which explanation best identifies a structural constraint, with distractors representing plausible but different interpretations.
 
 The instructor checks that the scenario genuinely supports the key, that no two options express the same idea, and that answering does not depend on terminology the course never introduced. A one-line follow-up, "which detail supports your choice?", surfaces the reasoning that the selected option conceals. The adaptation is untested as an item format, and its value is narrower: the review questions above can be answered before an item is administered, and a bad key can be repaired before students see it.
+
+When students signal dislike at scale, the signal has structure. In a 5,214,211-session analysis of practice questions presented inside a textbook platform, thumbs-down arrived at 2.00 per 1,000 sessions against 3.31 thumbs-up and only 22,844 of 809,848 questions ever received a rating ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). The pattern in the votes was not random: questions that called for adverb answers drew 5.23 thumbs-down per 1,000 against 1.76 for adjective answers, and sentence importance (odds ratio 2.38) and answer-text similarity (1.64) moved the rating too. The authors' tuned rule of thumb was about 1.62 dislikes per 1,000 when both importance signals were present. The practical point is that student ratings are a slow but real measurement channel: a platform that removes repeatedly disliked questions closes the loop, and an instructor piloting a few items gets the same signal faster by asking which detail the student doubted.
 
 For students generating their own practice questions, the same rule applies at their level: attempt the item, check the explanation against course sources, and bring the unresolvable cases to someone who knows the subject. [[study-with-ai|Study practice]] that trains students to accept generated keys uncritically teaches the wrong habit.
 

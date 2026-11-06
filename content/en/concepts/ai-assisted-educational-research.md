@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -81,6 +81,8 @@ Qualitative analysis is the stage where interpretation is the product, which mak
 [[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] describe the role shift directly. As automated coding models are applied, the researcher moves from coding student data to validating the model's outputs; when unsupervised models cluster reasoning, the algorithm performs the initial exploratory analysis. Researchers, they argue, increasingly need data science skills alongside qualitative, [[quantitative-research|quantitative]], and theoretical expertise.
 
 Their framework also supplies the check that matters here: [[explainable-ai|explainable AI]] can reveal whether automated coding tracks semantic understanding or only keywords. A coding pipeline that agrees with human labels may still be reading the wrong thing.
+
+Quantified evidence that automation can match human coding, rather than merely assist it, comes from conversation analysis. [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] benchmarked LLM threading of small-group transcripts and then tested whether explicit thread labels scaffold downstream coding with the ABCDE relational scheme: adding LLM-generated thread labels to an all-at-once prompt raised Cohen's kappa for coding elicitation moves from 0.0502 to 0.6325, and LLM threading cost under $1 per transcript against roughly $25 for human threads. Discourse structure, not raw model capability, carried the gain.
 
 ## Data analysis and the epistemic stakes
 

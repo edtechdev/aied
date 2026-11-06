@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T15:58:10-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -42,6 +42,8 @@ Student models can also be built purely from behavioral traces and still support
 Affective student modeling is a further dimension: a math tutor inferred emotion from conversational text and facial expression and mapped the aggregated state to tutoring strategies, but the [[multimodal]] fusion reached only 60% accuracy against participants' own annotations, making the affect read the pipeline's weakest link ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] found a delayed-start signal recorded during math practice predicted English outcomes, with chronic delayers (over 13 minutes) showing lower gains (ELA β = -.11 SD) even after controlling for [[prior-knowledge|prior knowledge]] and time-on-task — so behavioral student models can transfer across subjects without per-course retraining, though their cut-points must be re-derived.
+
+Perceived difficulty is a further student-modeling dimension, and it can be predicted from person-related features rather than text statistics alone. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] built profile-based reader models from ratings of 3,954 sentences by 193 German high-school students, and their KNN-plus-XGBoost ensemble reached RMSE 0.822 against a mean baseline of 1.070, with R2 = 0.396. Every regressor that included reader characteristics beat both the mean and the average-complexity baselines, so a learner model that captures who the reader is predicts how hard a text feels — a perception dimension the other models on this page do not carry.
 
 ## The adaptive-instruction layer
 

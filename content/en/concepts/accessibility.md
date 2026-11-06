@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -36,6 +36,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 **Format accessibility: captions, transcripts, and text.** **[[adhd-video-segmentation-computing-education|AI-segmented instructional videos]]** with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — accessibility as a catalyst that benefits everyone. **[[text-simplification-its|MuTSE]]** evaluates [[llm]]-based [[intelligent-tutoring|text simplification]] to match content complexity to each learner's reading level, a [[human-in-the-loop-ai|human-in-the-loop]] accessibility layer. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** build LLM [[automated-question-generation|question generation]] for Deaf and Hard of Hearing learners, confronting the mismatch between text-based AI prompts and sign-based first languages.
 
 **Sensory access: non-visual and tactile output.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary modality for visually impaired children, removing visual dependency. **[[tactile-statistical-graphs-accessibility|Tactile 3D-printed graphs]]** turn visual statistical data into touchable output for blind and low-vision students. **[[pepper-robot-sign-language-lis-2025|Sign-language robots]]** extend [[educational-robotics]] into communicative accessibility for Deaf learners.
+
+**Refusal-first access: elicit the figure rather than guess.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] found that when a task-critical figure is withheld, six multimodal models refused rather than guessed in 95.4%–98.9% of runs — an abstention access systems should treat as a request for the figure or a structured description rather than a guess. The released gold (76 items) and ultra-gold (61 items) consensus subsets give description-substitution experiments a testbed for comparing original figures with vetted textual descriptions on figure-dependent math items.
 
 **Audio description written for film does not transfer to lecture recordings.** Slide-based lectures reference diagrams, equations, and pointing gestures, and their pauses run a median of only 0.5 s, so [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]] built a lecture-specific benchmark and rule-diagnosable metric; [[llm-training-and-fine-tuning|post-training]] on machine-judge-ordered pairs did not improve compliance evenly.
 

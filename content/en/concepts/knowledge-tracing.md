@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -30,6 +30,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
 - **Soft-evidence BKT with an LLM observation function:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] keeps the BKT structure but replaces the binary correct/incorrect observation — standard BKT's input — with a continuous one: an [[llm]] grader emits graded mastery evidence plus a confidence weight, blended into a confidence-shrunk posterior and gated so that a clearly wrong answer cannot raise the estimate, which makes the update a variant that generalizes standard BKT rather than a strict reduction of it. Whether that observation function is trustworthy depends on the learner: mean evidence separated ability tiers cleanly (0.25 weak / 0.67 mixed / 0.77 strong) while within-tier correlation with true mastery was only r ≈ 0.15 / 0.48 / 0.41, leaving the traced state an agent's belief about the learner rather than a calibrated measurement.
 - **Neural and hybrid models:** [[neural-symbolic-knowledge-tracing]] combines symbolic reasoning with [[machine-learning|neural networks]]; [[explainable-probabilistic-kt]] advances interpretable probabilistic models
+- **Deep KT with an interpretable IRT layer:** [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] compare five knowledge tracing models on NedBox, a Dutch-as-a-second-language platform, where deep models dominate on exercise data that is around 80% imbalanced: DeepIRT reached AUROC 0.76, accuracy 0.81, and F1 0.89 with the best Matthews correlation coefficient (MCC 0.34), far ahead of Bayesian KT (0.05) and explanatory IRT (0.07). The added IRT layer is what makes DeepIRT interpretable — it emits ability and difficulty estimates alongside predictions, and these correlate strongly with explanatory IRT parameters (difficulty 0.51 last and 0.66 mean; ability 0.51 last and 0.56 mean; all p < .001).
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[huang-interpretable-knowledge-tracing-2026]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference

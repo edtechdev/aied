@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -53,8 +53,8 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - **A human-normed benchmark may not measure the same construct for an LLM.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] compared human and [[multimodal]]-LLM response structures on a [[chemistry-education|chemistry]] diagnostic and a [[quantitative-research|quantitative]]-reasoning exam; factor congruence between LLMs and humans stayed below the human–human baseline and parallel analysis retained different factor counts.
 
-- **Multimodality did not improve evidential calibration.** On MathCog, 3,036 teacher-annotated verdicts across 639 handwritten math responses, none of 18 LLMs reached macro F1 0.5 — the best, GPT-4o-img, scored 0.448 — and multimodal models degraded more than text-only ones when evidence was vague, over-attributing evidence and fabricating quotes ([[llm-cognitive-diagnosis-handwritten-math|Kim et al. (2025)]]).
-- **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
+- **Reliability is a benchmark axis: repeated runs and cross-model agreement separate solvable items from model-idiosyncratic ones.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau & Heffernan (2025)]] ran six models three times each on 376 image-Required math items and released the consensus testbed.
+Item-level run stability held at 79.0%-85.4% consistency, mean pairwise Cohen's kappa across model families was 0.54, and the 76 items solved by all six models at majority-correct ("gold") plus 61 solved 3/3 ("ultra-gold") became reproducible benchmark subsets - single-run accuracy is a weak basis for deployment decisions.
 
 - **Horizon is a benchmark axis, not a detail.** [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place a [[pedagogical-agent|tutor agent]] in a continuous 30-day relationship with a simulated learner and find every adapter plateaued by day 5–10, no adapter led learning gain on more than one base-model tier, and the five scoring axes were largely independent.
 

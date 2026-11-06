@@ -1,7 +1,7 @@
 ---
 title: Recommender Systems and Learning Paths
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-26T02:00:00-04:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -34,6 +34,8 @@ Where [[adaptive-learning]] describes the mechanism of adjusting content, pacing
 ## How Educational Recommenders Work
 
 Behavioral recommenders inherit the logic of [[machine-learning|collaborative filtering]]: learners with similar histories are assumed to want similar resources, so the system predicts from co-occurrence rather than content. This is powerful where data are dense and brittle where they are not. [[fair-explainable-edu-recommendations|Evangelista and Bukhari (2026)]] state the problem plainly — accuracy-focused recommenders give less reliable support to students with limited participation histories while popular resources dominate lists — and answer it with a Hybrid HKG-GRU framework that embeds a heterogeneous [[knowledge-graph]] of course materials and models learner sequences with a GRU, then trains for robustness across learner groups (GroupDRO) and reranks for exposure diversity (Maximal Marginal Relevance). On Moodle logs from 152 students, 59 resources, and roughly 150,000 interactions it reached HR@10 = 0.68 and MRR = 0.41, but substantial popularity bias persisted at catalog level — evidence that [[bias-mitigation|bias mitigation]] is partial.
+
+A lightweight baseline can also beat the deep models outright. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] compared seven recommenders on NedBox, a Dutch-as-a-second-language platform, and the shallow item-item model EASE led on every measure — AUROC 0.955, MAP 0.283, NDCG@3 0.205, NDCG@5 0.279 — ahead of the deep variational autoencoder MVAE (AUROC 0.949) and the ensemble PentaForest (0.953), with matrix factorization worst (IALS 0.719, UKNN 0.767). The recommendation and [[knowledge-tracing]] signals also compose: re-ranking EASE's top-10 by predicted proficiency raised NDCG@3 by approximately 3%.
 
 Semantic recommenders replace co-occurrence with structure. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun, and Song (2026)]] build a knowledge graph of teaching resources, language concepts, skills, learner groups, and [[pedagogy|pedagogical]] attributes, and decompose every resource along four instructional dimensions — teaching context, cognitive level, technological feature, and cultural adaptability. Recommendation expands k-hop over the graph from a learner's stated requirements, refines candidates with a feature-based collaborative filter, and ranks them by a fusion coefficient that rises with the learner's ability, progress, and interest indices, so less-advanced learners get more structured guidance from the graph while higher-ability learners lean on their behavioral pattern. On the English subset of the MARS dataset (4,800 users, 14,200 resources, 132,000 interactions, sparsity 0.9981) it reached NDCG 0.625 and HR 0.751, roughly a 7–8% gain over the best neural baseline, and beat graph-aware baselines including RippleNet and KGAT on coverage and cross-domain accuracy. Ablation shows the signals are complementary (CF-only NDCG 0.584, KG-only 0.604), and the authors note these are ranking metrics, not evidence of [[learning-gains|learning effectiveness]].
 

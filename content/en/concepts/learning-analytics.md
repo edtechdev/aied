@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T18:35:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -62,6 +62,10 @@ A frequency encoding of [[qualitative-research|qualitative]] data is an entry po
 
 ### From description to intervention
 - **The evidence base is not yet intervention evidence.** Synthesizing four studies across student, disciplinary, educator and institutional levels, [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] find the field dominated by cross-sectional, [[self-report-measures|self-report]], discourse-based and expert-judgment designs, and call for intervention research testing causal mechanisms and longer-term, distributional outcomes.
+
+**A randomized-encouragement design supplies the causal anchor.** In a randomized-encouragement experiment on ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]] randomly prompted teachers new to the platform to view the assignment report after creating an assignment.
+Among the 330-teacher analytic sample (156 control, 174 encouragement; 281 for value-added), viewing the first-assignment report significantly raised next-assignment completion (Anderson-Rubin F = 4.092, p = 0.044) - at least 2 percentage points overall.
+In classes under 44 students the gain was at least 24.5 percentage points (AR F = 7.475, p = 0.007), while only 54.0% of 121,890 assignments had their reports viewed and starting and value-added outcomes did not move. The same platform data carries the field's largest closed-loop rating case: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]] analyzed 5,214,211 student-question sessions in which thumbs-down (2.00 per 1,000) tracked generator-controlled features and student-level variance dominated question-level variance (BIC 101,572.9 vs 123,342.0).
 
 Learning analytics has evolved through three generations in the knowledge base: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
 

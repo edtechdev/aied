@@ -1,7 +1,7 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-05T21:30:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -80,6 +80,8 @@ LoRA and its relatives are where most educational teams will actually work, and 
 **Which layers to adapt is a real decision.** In a discourse-analysis system for English teaching, fine-tuning a truncated BERT by updating **only the last four Transformer layers** beat both alternatives: adapting only the top layer hit a lower ceiling, and full 12-layer fine-tuning overfitted and oscillated ([[bert-discourse-english-teaching-2026]]).
 
 **The base architecture can matter more than the parameter count.** Fine-tuning three open text-to-image models on 1,000 captioned nuclear-engineering images substantially improved Stable Diffusion XL, gave limited gains for SD-v3.5-Medium, and produced **no measurable improvement for the flow-matching Flux.1 model at all** ([[nuclear-diffusion-text-to-image-learning-2026]]). A fine-tuning recipe is not portable across architectures, which is the same lesson AiAWE reports from the other direction.
+
+**Adaptation cost and data appetite are measurable, and both favor small, targeted runs.** Jung et al. (2025) fine-tuned Mistral-7B-Instruct-v0.2 with LoRA into CLST, a knowledge tracer, and report a session-level bill of about **6.8 hours and 1.7 kWh** on an RTX A6000 for a 21k-sample run, against **50 seconds and 3.47 Wh** for the AKT baseline — roughly **490x** more energy efficient ([[jung-clst-cold-start-knowledge-tracing-2025|Jung et al. (2025)]]). The same fine-tune stayed accurate on thin data: output calibration was restored as the training set grew from **16 to 64 students**, and CLST beat the second-best model by up to **24.52%** with only 8 training students, making the accuracy margin a costed trade-off rather than a free win.
 
 Two adjacent techniques round out the adaptation stage. **Distillation** compresses a large or black-box system into a small deployable one. A two-stage pipeline distilled a fitted black-box ML estimator and its post-hoc interpretation into a small open-weight LLM, with a 2B-parameter "mentee" achieving near-lossless recovery of the oracle effect surface (r > .90). That result is reported under a faithfulness-first evaluation that audits every narration against the attribution it claims to describe ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Unlearning** removes targeted content after training: gradient-based unlearning was applied to three models to strip PII and harmful content, tested in two removal orders (PII-first and harmful-content-first) ([[llm-unlearning-math-privacy]]) — the relevant tool when a model has memorized something it should not carry.
 
