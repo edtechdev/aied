@@ -47,39 +47,32 @@ let initPromise: Promise<PagefindModule> | null = null;
 /** The available value counts once known: facet -> values (sorted, count-aware). */
 export type AvailableFilters = Record<string, string[]>;
 
-/** Load pagefind.js if it is not already present, then resolve window.pagefind. */
+function moduleBase(): string {
+  return window.__AIED_BASE_PATH__ ?? '';
+}
+
+/**
+ * Load pagefind.js once (ES module import) and resolve the module surface.
+ * A failed import is retry-able: resetPagefindInit() drops the cached
+ * promise so Retry can attempt a fresh load.
+ */
 export function initPagefind(timeoutMs = 20000): Promise<PagefindModule> {
   if (initPromise) return initPromise;
   initPromise = new Promise<PagefindModule>((resolve, reject) => {
-    const deadline = Date.now() + timeoutMs;
-    const loadScript = () => {
-      if (window.pagefind) { resolve(window.pagefind); return; }
-      const existing = document.querySelector<HTMLScriptElement>('script[src$="/pagefind/pagefind.js"]');
-      if (!existing) {
-        const s = document.createElement('script');
-        s.src = `${window.__AIED_BASE_PATH__ ?? ''}/pagefind/pagefind.js`;
-        s.async = true;
-        s.onerror = () => reject(new Error('Pagefind script failed to load'));
-        document.head.appendChild(s);
-      }
-      const poll = () => {
-        if (window.pagefind) { resolve(window.pagefind); return; }
-        if (Date.now() > deadline) {
-          resetPagefindInit();
-          reject(new Error('Pagefind did not initialize in time'));
-          return;
-        }
-        setTimeout(poll, 100);
-      };
-      poll();
-    };
-    if (document.readyState === 'complete') loadScript();
-    else {
-      window.addEventListener('load', loadScript, { once: true });
-      // Also try now; pagefind.js may already be executing/loaded.
-      const t0 = setTimeout(() => { if (window.pagefind) resolve(window.pagefind); }, 0);
-      t0.unref?.();
-    }
+    const timer = window.setTimeout(() => {
+      resetPagefindInit();
+      reject(new Error('Pagefind did not initialize in time'));
+    }, timeoutMs);
+    import(/* @vite-ignore */ `${moduleBase()}/pagefind/pagefind.js`)
+      .then((mod: PagefindModule) => {
+        window.clearTimeout(timer);
+        resolve(mod);
+      })
+      .catch((err: unknown) => {
+        window.clearTimeout(timer);
+        resetPagefindInit();
+        reject(err instanceof Error ? err : new Error(String(err)));
+      });
   });
   return initPromise;
 }
@@ -145,7 +138,6 @@ export async function availableFilters(): Promise<AvailableFilters> {
 
 declare global {
   interface Window {
-    pagefind?: PagefindModule;
     /** Injected by SearchInterface.astro from Astro's basePath config. */
     __AIED_BASE_PATH__?: string;
   }
