@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-06T01:55:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -10,6 +10,7 @@ assessment: [assessment, assessment-validity]
 ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
+connected_faqs: [ai-support-reading-comprehension]
 confidence: medium
 contributors: [editor]
 ai_assist:

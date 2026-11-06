@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-06T01:55:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -10,6 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-bias-fairness-education]
 reviewed_by: [editor]
 ---
 

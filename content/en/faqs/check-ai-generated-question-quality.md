@@ -18,7 +18,7 @@ ai_assist:
     role: revision
     date: "2026-10-30"
     agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-11-05"
     agent: hermes-agent
