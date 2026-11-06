@@ -210,6 +210,11 @@ function fmtDateTime(s: string | undefined | null): string {
   return s.split('T')[0];
 }
 
+// The right rail is a teaser, not the journal. Eight entries in each list
+// keeps the rail scannable and cuts repeated item markup; /aied/journal has
+// the full reverse-chronological listing.
+const RECENT_RAIL_LIMIT = 8;
+
 // Recently added pages (articles, concepts, and FAQs merged, reverse
 // chronological by created) — mirrors the journal page's ordering so the
 // sidebar teaser and /aied/journal agree.
@@ -222,7 +227,7 @@ const recentPages = [
 ]
   .filter(p => p.entry.data.created)
   .sort((a, b) => (b.entry.data.created || '').localeCompare(a.entry.data.created || ''))
-  .slice(0, 15);
+  .slice(0, RECENT_RAIL_LIMIT);
 
 // Recently updated concepts (reverse chronological by updated, then created
 // as tiebreaker so concepts updated in the same bulk commit are not listed
@@ -237,7 +242,7 @@ const recentConcepts = concepts
     // tiebreak on created (most recently created first) — non-alphabetical
     return (b.data.created || '').localeCompare(a.data.created || '');
   })
-  .slice(0, 15);
+  .slice(0, RECENT_RAIL_LIMIT);
 
 // Formatted item arrays for the RecentActivity component
 const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource' | 'newsletter', string> = {

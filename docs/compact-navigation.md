@@ -13,21 +13,22 @@ field records when it was generated, not a corpus difference.
 
 | Measure | Baseline | After | Change |
 |---|---:|---:|---:|
-| Published bytes | 2,070,889,441 | 1,425,396,957 | −645,492,484 (−31.2%) |
-| HTML bytes | 1,798,456,557 | 1,284,685,319 | −513,771,238 (−28.6%) |
+| Published bytes | 2,070,889,441 | 1,348,018,672 | −722,870,769 (−34.9%) |
+| HTML bytes | 1,798,456,557 | 1,207,306,916 | −591,149,641 (−32.9%) |
 | Sidebar region bytes | 603,896,430 | 87,089,783 | −516,806,647 (−85.6%) |
 | Sidebar bytes per page (mean) | ~63,400 | ~9,147 | |
-| English HTML median | 130,177 | 87,097 | −43,080 |
-| English HTML p95 | 166,190 | 123,625 | −42,565 |
-| Arabic HTML median | 197,447 | 134,719 | −62,728 |
-| Bengali HTML median | 230,923 | 162,880 | −68,043 |
-| Urdu HTML median | 206,144 | 145,100 | −61,044 |
+| Right-rail recent-list markup | 164,133,251 | 87,139,909 | −76,993,342 (−46.9%) |
+| English HTML median | 130,177 | 79,027 | −51,150 |
+| English HTML p95 | 166,190 | 115,555 | −50,635 |
+| Arabic HTML median | 197,447 | 126,520 | −70,927 |
+| Bengali HTML median | 230,923 | 154,614 | −76,309 |
+| Urdu HTML median | 206,144 | 136,949 | −69,195 |
 
 The published-byte comparison includes a separate 132 MB reduction from the
 earlier release migration: the old `dist` still held local AI-export files that
 are no longer part of the Pages artifact. The navigation-specific saving is the
-HTML/sidebar row, not the full published delta. No totals from nested shell
-regions are added together.
+HTML/sidebar/recent-list rows, not the full published delta. No totals from
+nested shell regions are added together.
 
 ## What changed
 
@@ -57,6 +58,11 @@ regions are added together.
 - **No-JavaScript fallback.** A `<noscript>` row links to the concepts index,
   FAQ index and search, so useful navigation remains available on narrow screens
   when the drawer script cannot run.
+- **Eight-item right rail.** “Recently Added Pages” and “Recently Updated
+  Concepts” now each render at most eight entries instead of fifteen. The
+  journal remains the full reverse-chronological listing. This removed
+  **77.0 MB** of repeated item markup (164.1 MB → 87.1 MB) across the 9,521
+  pages that render the rail.
 
 ## Validation
 
@@ -65,7 +71,8 @@ regions are added together.
 - Built output checks: all 9,520 ordinary pages emit exactly ten compact strand
   links; 0 pages contain `data-translated`; the concepts index has ten section
   anchors matching the sidebar hrefs; context lists are bounded; the FAQ panel
-  has five entries; `/translated-routes/{en,fr,ar,bn}.json` exists.
+  has five entries; all 19,042 recent-list blocks contain exactly eight items;
+  `/translated-routes/{en,fr,ar,bn}.json` exists.
 - A full production build completed with 11,882 pages and Pagefind indexed all
   11,888 pages. The size report is `reports/build-size/summary.md`.
 
