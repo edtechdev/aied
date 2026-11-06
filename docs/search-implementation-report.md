@@ -49,6 +49,11 @@ Pagefind 1.5.2.
   acceptable FAQ first.
 - q15 browse behavior works: `page_type=resource` with no query returns
   40 resources.
+- Result-card CSS is global (the cards are created by `controller.ts` and have
+  no Astro scope attribute). Without this, the browser rendered the type badge,
+  title, excerpt, and metadata as unstyled inline text; the type badge touched
+  the title. Cards now render with a flex gap of 10.8 px between badge and
+  title, and normal excerpt/meta spacing.
 - UI checks: Search/Clear/Share are 86/145/160 px wide; the primary facets are
   collapsed; 0 checkboxes are visible until a facet is opened; `More filters`
   stays collapsed until opened; excerpts and type badges render; FAQ+Concept

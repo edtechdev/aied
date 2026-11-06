@@ -390,17 +390,20 @@ const languageName =
     margin: 0;
     padding: 0;
   }
-  .search-result {
+  /* Result cards are created by controller.ts, so they carry no Astro scope
+     attribute. Keep these selectors global or the browser renders the type,
+     title, excerpt, and metadata as unstyled inline text. */
+  :global(.search-result) {
     padding: 1rem 0;
     border-bottom: 1px solid var(--card-border-color);
   }
-  .search-result-head {
+  :global(.search-result-head) {
     display: flex;
     align-items: baseline;
     flex-wrap: wrap;
     gap: 0.4rem 0.6rem;
   }
-  .search-result-type {
+  :global(.search-result-type) {
     padding: 0.1rem 0.45rem;
     border: 1px solid var(--card-border-color);
     border-radius: 999px;
@@ -411,29 +414,29 @@ const languageName =
     color: var(--muted-color);
     white-space: nowrap;
   }
-  .search-result-link {
+  :global(.search-result-link) {
     font-size: 1.1rem;
     font-weight: 600;
     color: var(--primary);
     text-decoration: none;
   }
-  .search-result-link:hover,
-  .search-result-link:focus-visible {
+  :global(.search-result-link):hover,
+  :global(.search-result-link):focus-visible {
     text-decoration: underline;
   }
-  .search-result-excerpt {
+  :global(.search-result-excerpt) {
     margin: 0.25rem 0 0;
     font-size: 0.9rem;
     line-height: 1.55;
     color: var(--muted-color);
   }
-  .search-result-excerpt mark {
+  :global(.search-result-excerpt mark) {
     background: color-mix(in srgb, var(--primary) 30%, transparent);
     color: inherit;
     border-radius: 2px;
     padding: 0 1px;
   }
-  .search-result-meta {
+  :global(.search-result-meta) {
     margin-top: 0.35rem;
     font-size: 0.8rem;
     color: var(--muted-color);
