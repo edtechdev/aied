@@ -9,6 +9,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build && node generate-sw.mjs",
+    "build:ci": "astro build && node generate-sw.mjs",
     "verify": "python3 tooling/scripts/run-gates.py",
     "audit-metadata": "python3 tooling/scripts/audit-metadata.py --strict",
     "preview": "astro preview"

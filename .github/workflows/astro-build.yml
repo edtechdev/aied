@@ -24,7 +24,9 @@ jobs:
         run: |
           python3 tooling/scripts/wiki_config.py --check
           python3 tooling/scripts/check_concepts.py
-      - run: npm run build
+      # build:ci skips `astro check` - type-checking runs locally (npm run
+      # build), and in CI the time is better spent on the build itself.
+      - run: npm run build:ci
       - name: Verify output
         run: |
           echo "Articles built: $(find dist/articles -name 'index.html' | wc -l)"
@@ -56,3 +58,20 @@ jobs:
             echo "::error::deploy artifact is $BYTES bytes - over 1 GB, Pages will warn and may time out"
             exit 1
           fi
+      - name: Package the built site for the deploy job
+        run: |
+          # One tarball per push; the deploy workflow downloads and publishes
+          # this instead of rebuilding the site a second time.
+          tar czf site.tar.gz dist
+          SIZE=$(stat -c %s site.tar.gz)
+          echo "Packaged site: $SIZE bytes"
+          if [ "$SIZE" -gt 480000000 ]; then
+            echo "::error::site package is $SIZE bytes - over the 500 MB artifact cap, split or trim before continuing"
+            exit 1
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: built-site
+          path: site.tar.gz
+          retention-days: 7
+          if-no-files-found: error
