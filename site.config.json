@@ -197,6 +197,11 @@
         "id": "deepseek/deepseek-v4.0-flash-0731",
         "since": "2026-08-12",
         "note": "previous default model, in use until 2026-09-11"
+      },
+      {
+        "id": "deepseek/deepseek-v4-flash-0731",
+        "since": "2026-11-06",
+        "note": "harness model for the daily scan cron (drafting and revision of ingest pages); registered 2026-11-06 when the disclosure gate reported it unregistered"
       }
     ]
   },

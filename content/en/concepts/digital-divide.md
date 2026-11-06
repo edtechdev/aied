@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -39,6 +39,7 @@ The edge-inference turn adds a hardware dimension to the first-level divide. Whe
 - **Representation and structural silence:** [[structural-silence-underrepresented-language-ai-2026|Research on underrepresented languages]] highlights how the digital divide extends to *which* communities, languages, and perspectives are represented in and served by AI systems — a cultural and epistemic dimension of inequality.
 
 - **Code-switching is its own exclusion.** Most [[llm]] lecture tools assume single-language English audio and reliable internet, ruling out classrooms mixing English and a home language; India's UDISE+ data put school internet access near 54% with a 24-point urban-rural gap, and a bilingual companion answers with on-device transcription and local-first storage ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
+- **Public digital services reproduce the divide.** Kenya's eCitizen e-government platform is mainly English with limited Swahili and a text-only interface, which excludes low-literacy, visually impaired, and rural youth; interviews plus an eleven-person roundtable across four livelihood platforms (Ajira Digital, KRA iTax, HELB, YEDF) point to language technologies and WCAG 2.1-informed design as the inclusion levers ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
 ### AI deepens (and can close) divides
 
@@ -107,6 +108,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[parents-and-families]]
 
 ## Connected Articles
+- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
 - [[watanabe-genai-education-gap-europe-2026]] — Is the education gap in generative AI use smaller than the internet's was? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)

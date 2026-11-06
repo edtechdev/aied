@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -36,6 +36,8 @@ The knowledge base's [[research-methods-aied|research]] documents both sides of 
 - **Delegating goal choice is not the same as supporting it.** The page treats setting the goal as the learner's core act, and the benchmark evidence says models do it differently. Against 175 humans, GPT-5, Claude Sonnet 4.5 and Qwen3 32B re-selected the previous goal on 0.93, 0.93 and 0.94 of trials, against 0.54 ± 0.18 for people. Goal entropy was 0.12 to 0.20 against 1.67 ± 0.14, and chain-of-thought and persona prompts did not close the gap. A system that proposes what to learn next reproduces a narrower search than the learner it stands in for ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
 - **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the knowledge base.
+
+- **Unguided use at population scale.** Across 4,062 students in 136 German secondary schools, task-completion and learning-oriented GenAI use both rose over one school year (d = 0.35 and 0.33), with only 5% of students never using the tools; lower prior achievement predicted more subsequent use in all six subjects, yet neither form of use predicted later achievement ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 
 - **Cognitive offloading and delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] and [[learning-by-chatting-genai-impact|learning by chatting with GenAI]] examine how learners may delegate cognitive work to AI in ways that bypass the effortful processing SDL requires — a failure mode of otherwise autonomy-supportive tools. [[critical-thinking-genai-scaffolding|Scaffolding critical thinking with GenAI]] and [[test-driven-ai-assisted-learning|test-driven AI-assisted learning]] model more productive designs.
 
@@ -90,6 +92,7 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 - [[higher-ed]]
 
 ## Connected Articles
+- [[scherer-self-directed-genai-use-secondary-2026]] — Self-Directed Generative AI Use and Academic Development Among Secondary School Students: A Large-Scale, One-Year Longitudinal Study
 
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning (SEM, gender differences)
 - [[ai-lifelong-learning-policy]] — AI and lifelong learning policy

@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-06T09:20:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -29,6 +29,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 ### Creativity and generative AI
 
 - **Amplification:** AI can act as a divergent-thinking partner — brainstorming alternatives, generating counterarguments, and offering perspectives the learner might not consider. Role-specialized [[agentic-ai|multi-agent]] configurations can restore ideational diversity.
+- **Modality matches the creative phase.** In a 2 × 2 experiment with 120 art and design students, text-based AI during divergence outperformed image-generative AI on divergent creative performance (mean difference 0.823, Holm-adjusted p < 0.001) ([[wei-genai-configurations-creative-phases-2026|Wei & Li (2026)]]). Image-generation's convergence advantage did not survive Holm correction (adjusted p = 0.052), and no sequence — including Text-to-Image — beat the alternatives on final creative performance. The phase-level gains did not sum to a superior product.
 - **Homogenization risk:** single-model assistance can reduce the diversity of ideas across students, so the same model produces convergent outputs. This is a direct threat to creativity in [[writing-education]] and [[design-education|design education]].
 - **Homogenization is a property of deployment, not of AI assistance as such.** In a 247-participant writing experiment, single-model and two-model assistance both raised essay quality (Δ = 0.332 and 0.234 against control), yet only the two-model condition restored cross-participant idea diversity to baseline ([[multi-agent-llm-social-learning|Kumar et al. (2026)]]). The convergent outputs this page warns about are produced by *one* model used by everyone, so the design lever is the number and distinctness of assistants rather than the presence of AI.
 - **Protecting creative agency:** keeping the learner's generative process in the loop — draft-first routines, requiring original synthesis, and using AI to challenge rather than replace — preserves the creative work that produces durable learning.
@@ -99,6 +100,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[arts-design-and-media-education]]
 
 ## Connected Articles
+- [[wei-genai-configurations-creative-phases-2026]] — Generative AI configurations across creative phases: a 2 × 2 experiment on creative performance and immediate knowledge in art and design education
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)

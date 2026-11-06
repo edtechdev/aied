@@ -6,8 +6,21 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-02
-**Total backlog:** 2 articles awaiting ingest (both blocked by a publisher bot check; see the 2026-11-03 entry) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-06
+**Total backlog:** 7 articles awaiting ingest (2 blocked by publisher bot checks; 5 ranked in-scope but beyond this run's 20-article cap — see the 2026-11-06 entry) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-06)
+
+Twelve articles were ingested this run (five arXiv, two PsyArXiv, five OpenAlex journal-watch),
+each with full text saved under `raw/papers/`. Five more in-scope candidates cleared the relevance
+screen but fell outside the 20-article cap; full text was not saved for them, so a later run can
+pick them up:
+
+- [VocabulARy 2.0: A Generative AR System Enabling Personalised 3D Mnemonics for Vocabulary Learning in Context](https://arxiv.org/abs/2611.07798) — arXiv:2611.07798
+- [Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models](https://arxiv.org/abs/2611.07755) — arXiv:2611.07755
+- [Reimagining built environment education in Malaysia: an AI-enhanced BIM teaching and learning framework](https://doi.org/10.3389/feduc.2026.1954644) — [DOI: 10.3389/feduc.2026.1954644](https://doi.org/10.3389/feduc.2026.1954644)
+- [Generative AI use and self-perceived employability among young adults in China: indirect associations through career decision-making self-efficacy and trust in generative AI](https://doi.org/10.3389/fpsyg.2026.1985156) — [DOI: 10.3389/fpsyg.2026.1985156](https://doi.org/10.3389/fpsyg.2026.1985156)
+- [Where does attention go when AI listens? Meta-awareness of mediated attention](https://osf.io/3fs4m) — PsyArXiv:3fs4m
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-03)
 

@@ -1,0 +1,138 @@
+{
+  "_comment": "Relevance fixture for the AIEd search implementation (plan Section 10). Targets were verified to exist in the repository on 2026-11-06 before saving. grades: top5 = acceptable anywhere in the first five results; top3 = must retrieve within the first three (exact title / author / DOI lookups). Freeze judgments BEFORE ranking changes.",
+  "fixtures": [
+    {
+      "id": "q01-cheating",
+      "query": "How can I reduce AI cheating?",
+      "intent": "educator seeks guidance on reducing AI misuse",
+      "targets": [
+        { "slug": "reduce-ai-cheating", "canonical_url": "/aied/faqs/reduce-ai-cheating/", "grade": "top5", "why": "dedicated practical FAQ" },
+        { "slug": "academic-integrity", "canonical_url": "/aied/concepts/academic-integrity/", "grade": "top5", "why": "umbrella concept" }
+      ]
+    },
+    {
+      "id": "q02-overreliance",
+      "query": "Students rely too much on ChatGPT",
+      "intent": "educator wants overreliance guidance",
+      "targets": [
+        { "slug": "cognitive-offloading", "canonical_url": "/aied/concepts/cognitive-offloading/", "grade": "top5", "why": "the named mechanism" },
+        { "slug": "framing-ai-use-for-students", "canonical_url": "/aied/concepts/framing-ai-use-for-students/", "grade": "top5", "why": "student-facing framing" }
+      ]
+    },
+    {
+      "id": "q03-ai-literacy",
+      "query": "AI literacy activities",
+      "intent": "educator wants activities and incorporation guidance",
+      "targets": [
+        { "slug": "ai-literacy", "canonical_url": "/aied/concepts/ai-literacy/", "grade": "top5", "why": "core concept" }
+      ]
+    },
+    {
+      "id": "q04-assignment-redesign",
+      "query": "Redesign online assignments",
+      "intent": "educator wants assessment/async redesign guidance",
+      "targets": [
+        { "slug": "asynchronous-online-courses-ai", "canonical_url": "/aied/faqs/asynchronous-online-courses-ai/", "grade": "top5", "why": "practical FAQ covering this" },
+        { "slug": "online-teaching-and-learning", "canonical_url": "/aied/concepts/online-teaching-and-learning/", "grade": "top5", "why": "underlying concept" }
+      ]
+    },
+    {
+      "id": "q05-ai-grading",
+      "query": "Can AI grade student writing?",
+      "intent": "educator wants grading fairness and limits",
+      "targets": [
+        { "slug": "ai-grading-fairness-reliability", "canonical_url": "/aied/faqs/ai-grading-fairness-reliability/", "grade": "top5", "why": "dedicated FAQ" },
+        { "slug": "automated-essay-scoring", "canonical_url": "/aied/concepts/automated-essay-scoring/", "grade": "top5", "why": "technique concept" }
+      ]
+    },
+    {
+      "id": "q06-feedback",
+      "query": "Feedback",
+      "intent": "broad topic search",
+      "targets": [
+        { "slug": "feedback", "canonical_url": "/aied/concepts/feedback/", "grade": "top5", "why": "broad-topic concept" },
+        { "slug": "ai-feedback-quality", "canonical_url": "/aied/concepts/ai-feedback-quality/", "grade": "top5", "why": "closely related concept" }
+      ]
+    },
+    {
+      "id": "q07-rag",
+      "query": "Retrieval augmented generation",
+      "intent": "developer looks up the technique",
+      "targets": [
+        { "slug": "rag", "canonical_url": "/aied/concepts/rag/", "grade": "top3", "why": "exact-topic lookup" }
+      ]
+    },
+    {
+      "id": "q08-tutor",
+      "query": "Build an AI tutor",
+      "intent": "developer wants tutor development guidance",
+      "targets": [
+        { "slug": "intelligent-tutoring", "canonical_url": "/aied/concepts/intelligent-tutoring/", "grade": "top5", "why": "core concept" },
+        { "slug": "pedagogical-agent", "canonical_url": "/aied/concepts/pedagogical-agent/", "grade": "top5", "why": "related concept" }
+      ]
+    },
+    {
+      "id": "q09-evaluate-chatbot",
+      "query": "Evaluate an educational chatbot",
+      "intent": "developer seeks evaluation guidance",
+      "targets": [
+        { "slug": "ai-ed-evaluation", "canonical_url": "/aied/concepts/ai-ed-evaluation/", "grade": "top5", "why": "evaluation concept" },
+        { "slug": "conversational-ai", "canonical_url": "/aied/concepts/conversational-ai/", "grade": "top5", "why": "chatbot concept" }
+      ]
+    },
+    {
+      "id": "q10-open-source",
+      "query": "Open source",
+      "intent": "developer looks up availability/licensing",
+      "targets": [
+        { "slug": "open-source", "canonical_url": "/aied/concepts/open-source/", "grade": "top5", "why": "exact concept" }
+      ]
+    },
+    {
+      "id": "q11-kestin-author",
+      "query": "Kestin",
+      "intent": "research lookup by author name",
+      "targets": [
+        { "slug": "kestin-ai-tutoring-outperforms-active-learning-rct-2025", "canonical_url": "/aied/articles/kestin-ai-tutoring-outperforms-active-learning-rct-2025/", "grade": "top3", "why": "author lookup must reach the study" }
+      ]
+    },
+    {
+      "id": "q12-kestin-doi",
+      "query": "10.1038/s41598-025-97652-6",
+      "intent": "identifier lookup of the same study",
+      "targets": [
+        { "slug": "kestin-ai-tutoring-outperforms-active-learning-rct-2025", "canonical_url": "/aied/articles/kestin-ai-tutoring-outperforms-active-learning-rct-2025/", "grade": "top3", "why": "DOI lookup must reach the canonical record" }
+      ]
+    },
+    {
+      "id": "q13-kestin-exact-title",
+      "query": "AI tutoring outperforms active learning",
+      "intent": "exact-title lookup",
+      "targets": [
+        { "slug": "kestin-ai-tutoring-outperforms-active-learning-rct-2025", "canonical_url": "/aied/articles/kestin-ai-tutoring-outperforms-active-learning-rct-2025/", "grade": "top3", "why": "exact-title lookup" }
+      ]
+    },
+    {
+      "id": "q14-integrity-facet",
+      "query": "Academic integrity",
+      "intent": "facet precision: FAQs at higher-education level",
+      "filters": { "page_type": ["faq"], "level": ["higher ed"] },
+      "targets": [
+        { "slug": "should-we-use-ai-detectors", "canonical_url": "/aied/faqs/should-we-use-ai-detectors/", "grade": "top5", "why": "academic-integrity FAQ at higher-ed level (ranked #1 on 2026-11-06)" },
+        { "slug": "reduce-ai-cheating", "canonical_url": "/aied/faqs/reduce-ai-cheating/", "grade": "top5", "why": "FAQ carrying academic-integrity facet at higher-ed level" },
+        { "slug": "redesign-assessment-ai-era", "canonical_url": "/aied/faqs/redesign-assessment-ai-era/", "grade": "top5", "why": "FAQ carrying the facet" }
+      ]
+    },
+    {
+      "id": "q15-empty-browse",
+      "query": "",
+      "intent": "empty query with page_type=resource browses resources",
+      "filters": { "page_type": ["resource"] },
+      "targets": [
+        { "slug": "clarity", "canonical_url": "/aied/resources/clarity/", "grade": "top5", "why": "any resource is an acceptable browse result" }
+      ],
+      "known_engine_limit": "pagefind 1.5.2 search('') and search(' ') return ZERO results even with filters - empty-query browsing into matching pages is not expressible with the documented API. The UI keeps the filters visibly selected (chips) and shows browse links instead. Tracked as a reported limitation, not a pass."
+    }
+  ],
+  "_deferred": "Locale fixtures (16-20) pending: add after the language-aware behavior is verified on a populated non-English locale (e.g. es), a partial locale, and an RTL locale (ar). Use existing translated page titles/terms, never invented translations."
+}
