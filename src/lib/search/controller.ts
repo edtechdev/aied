@@ -40,6 +40,8 @@ import {
 export interface SearchChrome {
   /** Visible, permanent labels (unlocalized values fall back to English). */
   labels: Record<string, string>;
+  /** Facet name -> localized visible label (Type, Level, ...). */
+  facetLabel?: Record<string, string>;
   /** Facet name -> ordered list of group options (mostly translated names). */
   facetOrder: { primary: string[]; more: string[] };
   /** Value display for known enumerations (page_type), else undefined = raw. */
@@ -124,9 +126,17 @@ export class SearchController {
 
   // ---- control wiring -------------------------------------------------
 
+  private cancelPendingDebounce(): void {
+    if (this.pendingDebounce !== null) {
+      window.clearTimeout(this.pendingDebounce);
+      this.pendingDebounce = null;
+    }
+  }
+
   private bindControls(): void {
     this.form.addEventListener('submit', (e) => {
       e.preventDefault();
+      this.cancelPendingDebounce();
       this.commitQueryFromInput();
     });
     this.input.addEventListener('input', () => {
@@ -148,21 +158,26 @@ export class SearchController {
       void this.boot().then(() => this.run(this.state, { announce: true }));
     });
     this.clearAllBtn.addEventListener('click', () => {
+      this.cancelPendingDebounce();
       const next = emptyState();
       this.setState(next, { pushHistory: true, forceUrl: true });
       this.input.value = '';
       this.run(next, { announce: true });
     });
     this.byId<HTMLButtonElement>('clear-filters').addEventListener('click', () => {
-      // Clearing the filters preserves the query.
-      const next = normalizeState({ query: this.state.query, filters: {} });
+      // Clearing the filters preserves the query, including a keystroke that
+      // has not reached the debounce yet.
+      this.cancelPendingDebounce();
+      const next = normalizeState({ query: this.input.value, filters: {} });
       this.setState(next, { pushHistory: true });
       this.run(next, { announce: true });
     });
     this.byId<HTMLButtonElement>('clear-query').addEventListener('click', () => {
       // Clearing the query preserves the filters.
+      this.cancelPendingDebounce();
       const next = normalizeState({ query: '', filters: this.state.filters });
       this.setState(next, { pushHistory: true });
+      this.input.value = '';
       this.run(next, { announce: true });
     });
     this.byId<HTMLButtonElement>('share').addEventListener('click', () => this.share());
@@ -182,16 +197,18 @@ export class SearchController {
         else vals.delete(value);
         const nextFilters = { ...filters, [facet]: [...vals] };
         if (nextFilters[facet].length === 0) delete nextFilters[facet];
-        const next = normalizeState({ query: this.state.query, filters: nextFilters });
+        // Use the live input value, not the last debounced state: a filter
+        // click can arrive inside the 200 ms typing window.
+        const next = normalizeState({ query: this.input.value, filters: nextFilters });
         this.setState(next, { pushHistory: true });
         this.run(next, { announce: false });
       });
     });
   }
 
-  private emitStateAnnouncement(): void {
+  private emitStateAnnouncement(message: string): void {
     const region = this.byId<HTMLElement>('a11y-announce');
-    region.textContent = this.chrome.labels.loaded;
+    region.textContent = message;
   }
 
   private bindHistory(): void {
@@ -224,9 +241,40 @@ export class SearchController {
     if (document.activeElement !== this.input) this.input.value = state.query;
     const clearQuery = this.byId<HTMLButtonElement>('clear-query');
     clearQuery.hidden = state.query === '';
+    const hasFilters = Object.keys(state.filters).some((k) => state.filters[k].length > 0);
+    this.byId<HTMLButtonElement>('clear-filters').hidden = !hasFilters;
+    this.byId<HTMLButtonElement>('clear-all').hidden = !hasFilters && state.query === '';
     this.root.querySelectorAll<HTMLInputElement>('input[data-search-filter-option]').forEach((box) => {
       box.checked = (state.filters[box.dataset.searchFilterOption as string] ?? []).includes(box.value);
     });
+    // Compact facet summaries show how many values are selected in each group.
+    this.root.querySelectorAll<HTMLElement>('[data-filter-group]').forEach((group) => {
+      const facet = group.dataset.filterGroup as string;
+      const count = (state.filters[facet] ?? []).length;
+      const badge = group.querySelector<HTMLElement>('[data-filter-count]');
+      if (badge) {
+        badge.textContent = count ? String(count) : '';
+        badge.hidden = count === 0;
+      }
+    });
+    this.updateEnglishLink(state);
+  }
+
+  /**
+   * On a non-English search page, keep the "search the English corpus"
+   * fallback pointed at the same query. Pagefind serves one language per
+   * page, so a partial locale needs an explicit escape hatch.
+   */
+  private updateEnglishLink(state: SearchState): void {
+    const link = this.root.querySelector<HTMLAnchorElement>('[data-search-english]');
+    if (!link) return;
+    const params = new URLSearchParams();
+    if (state.query) params.set('q', state.query);
+    for (const [facet, values] of Object.entries(state.filters)) {
+      for (const value of values) params.append(facet, value);
+    }
+    const qs = params.toString();
+    link.href = `/aied/search/${qs ? `?${qs}` : ''}`;
   }
 
   private renderChips(): void {
@@ -238,14 +286,16 @@ export class SearchController {
         chip.type = 'button';
         chip.className = 'search-chip';
         chip.setAttribute('aria-label', `${labels.chip_remove} ${this.displayValue(facet, value)}`);
-        chip.textContent = `${labels[facet] ?? facet}: ${this.displayValue(facet, value)} ×`;
+        const facetName = this.chrome.facetLabel?.[facet] ?? labels[facet] ?? facet;
+        chip.textContent = `${facetName}: ${this.displayValue(facet, value)} ×`;
         chip.addEventListener('click', () => {
           const filters = { ...this.state.filters };
           const vals = new Set(filters[facet]);
           vals.delete(value);
           const nextFilters = { ...filters, [facet]: [...vals] };
           if (nextFilters[facet].length === 0) delete nextFilters[facet];
-          const next = normalizeState({ query: this.state.query, filters: nextFilters });
+          this.cancelPendingDebounce();
+          const next = normalizeState({ query: this.input.value, filters: nextFilters });
           this.setState(next, { pushHistory: true });
           this.run(next, { announce: true });
         });
@@ -333,12 +383,10 @@ export class SearchController {
     this.setStatus(this.chrome.labels.searching);
     void (async () => {
       try {
-        // Browse mode: an empty query with active filters cannot be expressed
-        // as an empty term (pagefind.search('') returns zero results in
-        // 1.5.x). Search a single space instead - the engine treats it as a
-        // non-empty term; if it still returns nothing the empty state shows
-        // the filters plus browse links rather than an error.
-        const term = state.query === '' && Object.keys(state.filters).length ? ' ' : state.query;
+        // Browse mode: an empty query with active filters uses Pagefind's
+        // documented standalone-filter call, search(null, { filters }). An
+        // empty string or a single space returns nothing in 1.5.x.
+        const term = state.query === '' && Object.keys(state.filters).length ? null : state.query;
         const outcome = await search(term, state.filters);
         if (id !== this.seq) return; // stale response - drop it
         this.rawResults = outcome.results;
@@ -349,7 +397,9 @@ export class SearchController {
         this.resultsEl.setAttribute('aria-busy', 'false');
         if (outcome.total === 0) {
           this.renderResults([]);
-          this.summaryEl.textContent = this.chrome.labels.none.replace('{query}', state.query);
+          this.summaryEl.textContent = state.query
+            ? this.chrome.labels.none.replace('{query}', state.query)
+            : this.chrome.labels.none_filtered;
           this.showEmptySuggestions({ forceNoHits: true });
         } else {
           this.renderResults(items);
@@ -357,7 +407,7 @@ export class SearchController {
           this.loadMoreBtn.hidden = items.length >= outcome.total;
           this.hide(this.emptyEl);
         }
-        if (opts.announce) this.emitStateAnnouncement();
+        if (opts.announce) this.emitStateAnnouncement(this.summaryEl.textContent ?? '');
         this.setStatus('');
       } catch (err) {
         if (id !== this.seq) return;
@@ -376,7 +426,9 @@ export class SearchController {
     const from = this.currentResults.length;
     const more = await hydrateResults(this.rawResults, from, HYDRATE_PAGE);
     this.currentResults = this.currentResults.concat(more);
-    this.renderResults(this.currentResults, { append: true });
+    // Append only the newly hydrated batch; passing the full list again would
+    // duplicate every previously rendered result.
+    this.renderResults(more, { append: true });
     this.loadMoreBtn.hidden = this.currentResults.length >= this.rawResults.length;
     this.summaryEl.textContent = this.summaryText(this.rawResults.length, this.currentResults.length);
   }
@@ -386,21 +438,44 @@ export class SearchController {
   private renderResults(items: PagefindResultRecord[], opts: { append?: boolean } = {}): void {
     if (!opts.append) this.resultsEl.textContent = '';
     const fragment = document.createDocumentFragment();
+    const facetName = (facet: string): string => this.chrome.facetLabel?.[facet] ?? facet;
     for (const item of items) {
       const li = document.createElement('li');
       li.className = 'search-result';
+
+      const head = document.createElement('div');
+      head.className = 'search-result-head';
+      if (item.type) {
+        const badge = document.createElement('span');
+        badge.className = 'search-result-type';
+        badge.textContent = this.displayValue('page_type', item.type);
+        head.appendChild(badge);
+      }
       const a = document.createElement('a');
       a.className = 'search-result-link';
       a.href = item.url;
       a.textContent = item.title;
+      head.appendChild(a);
+
       const excerpt = document.createElement('p');
       excerpt.className = 'search-result-excerpt';
       // Excerpts from Pagefind contain highlighting markup; only <mark> is allowed.
       excerpt.innerHTML = sanitizeExcerpt(item.excerpt);
+
+      const metaValues: string[] = [];
+      for (const facet of ['discipline', 'level'] as const) {
+        const values = item.meta[facet] ?? [];
+        if (values.length) {
+          metaValues.push(`${facetName(facet)}: ${values.map((v) => this.displayValue(facet, v)).join(', ')}`);
+        }
+      }
       const meta = document.createElement('div');
       meta.className = 'search-result-meta';
-      meta.setAttribute('aria-hidden', 'true');
-      li.append(a, excerpt, meta);
+      meta.textContent = metaValues.join(' · ');
+
+      li.append(head);
+      if (item.excerpt) li.append(excerpt);
+      if (metaValues.length) li.append(meta);
       fragment.appendChild(li);
     }
     this.resultsEl.appendChild(fragment);

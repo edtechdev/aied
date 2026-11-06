@@ -96,6 +96,14 @@ const updatedDisplay = (updated || created || '').split('T')[0];
 // if it were published the day it was ingested.
 const publishedDisplay = (published || '').trim();
 const body = article.body || '';
+const citationLine = body.match(/^##\s+Citation\s*\n+\s*(.+)$/m)?.[1] ?? '';
+const citationText = citationLine
+  .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+  .replace(/\*/g, '')
+  .trim();
+const doi =
+  doiFromSources(article.data.sources ?? []) ??
+  body.match(/doi\.org\/(10\.\d{4,}[^\s)\]'"]+)/)?.[1];
 
 // Connected concept slugs for JSON-LD about/mentions.
 //
@@ -145,7 +153,7 @@ if (connectedResources.length > 0) {
     connectedConceptSlugs={connectedConceptSlugs}
     connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
   />
-  <article data-pagefind-filter="page_type:article" data-pagefind-weight="2">
+  <article data-pagefind-filter="page_type:article">
     {pagefindFilterPairs.map((pair) => <meta data-pagefind-filter={pair} />)}
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>Research Article</p>
@@ -157,13 +165,15 @@ if (connectedResources.length > 0) {
     </div>
 
     <div style="line-height:1.8" data-pagefind-body>
-      {(doiFromSources(article.data.sources ?? []) ?? body.match(/doi\.org\/(10\.\d{4,}[^\s)\]'"]+)/)?.[1]) && (
-        // Compact identifier metadata for exact DOI lookups: hidden from
-        // sight and assistive tech but indexed as searchable text (the
-        // Citation section is not indexed). The DOI is derived from the
-        // source filename when the name encodes one, else from the paper's
-        // doi.org citation link in the body - no content-side change.
-        <span aria-hidden="true" style="position:absolute;width:1px;height:1px;clip:rect(0 0 0 0);overflow:hidden;white-space:nowrap;">DOI: {doiFromSources(article.data.sources ?? []) ?? body.match(/doi\.org\/(10\.\d{4,}[^\s)\]'"]+)/)?.[1]}</span>
+      {(doi || citationText) && (
+        // Compact identifier metadata for exact DOI and author lookups:
+        // hidden from sight and assistive tech but indexed as searchable
+        // text. The whole citation line is recycled here because the visible
+        // Citation section is not guaranteed to be the page's strongest
+        // match for an author surname.
+        <span aria-hidden="true" data-pagefind-weight="2" style="position:absolute;width:1px;height:1px;clip:rect(0 0 0 0);overflow:hidden;white-space:nowrap;">
+          {doi ? `DOI: ${doi}. ` : ''}{citationText}
+        </span>
       )}
       <Fragment set:html={rendered.html} />
     </div>

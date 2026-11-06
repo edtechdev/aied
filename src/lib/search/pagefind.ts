@@ -18,6 +18,10 @@ export interface PagefindResultRecord {
   title: string;
   /** Highlighted excerpt HTML containing ONLY <mark> tags (sanitized by the controller). */
   excerpt: string;
+  /** Canonical page_type value, when the index carries one. */
+  type?: string;
+  /** A few existing facet values for the result card (discipline, level). */
+  meta: Record<string, string[]>;
 }
 
 export interface PagefindSearchOutcome {
@@ -25,20 +29,31 @@ export interface PagefindSearchOutcome {
   unfilteredTotal: number;
   /** Raw result handles; data is hydrated lazily via hydrateResults. */
   results: unknown[];
-  /** The language index that served this search, when the API exposes it. */
-  language?: string;
 }
+
+/** One filter value, or a Pagefind compound OR filter for a facet. */
+export type PagefindFilterValue = string | { any: string[] };
+export type PagefindFilters = Record<string, PagefindFilterValue>;
 
 /** Raw shape of pagefind.search() results in 1.5.x (defensive, typed loosely). */
 interface RawSearchResponse {
-  results?: { id?: string; data?: () => Promise<unknown>; excerpt?: () => Promise<string> }[];
-  total_result_count?: number;
+  results?: RawResult[];
+  unfilteredResultCount?: number;
   unfiltered_total_result_count?: number;
 }
-type RawResult = NonNullable<RawSearchResponse['results']>[number];
+interface RawResult {
+  id?: string;
+  data?: () => Promise<RawResultData>;
+}
+interface RawResultData {
+  url?: string;
+  excerpt?: string;
+  meta?: Record<string, string>;
+  filters?: Record<string, string[]>;
+}
 
 interface PagefindModule {
-  search: (term: string, options?: { filters?: Record<string, string[]> }) => Promise<RawSearchResponse>;
+  search: (term: string | null, options?: { filters?: PagefindFilters }) => Promise<RawSearchResponse>;
   filters: () => Promise<unknown>;
 }
 
@@ -83,20 +98,41 @@ export function resetPagefindInit(): void {
 }
 
 /**
- * Run one search. `query` may be empty — with active filters that browses
- * the matching subset, which is the documented behavior of search('', opts).
+ * Translate the UI state into Pagefind's filter syntax.
+ *
+ * Pagefind ANDs values supplied as an array, so `{ page_type: ['faq',
+ * 'concept'] }` matches pages that are both. The search plan requires OR
+ * within a facet and AND across facets, which is the documented `any`
+ * compound filter: `{ page_type: { any: ['faq', 'concept'] } }`.
+ *
+ * Pure (no DOM, no Pagefind import) so it can be unit-tested.
+ */
+export function toPagefindFilters(filters: Record<string, string[]>): PagefindFilters | undefined {
+  const out: PagefindFilters = {};
+  for (const [facet, values] of Object.entries(filters)) {
+    const clean = [...new Set(values.map((v) => v.trim()).filter(Boolean))];
+    if (clean.length === 0) continue;
+    out[facet] = clean.length === 1 ? clean[0] : { any: clean };
+  }
+  return Object.keys(out).length ? out : undefined;
+}
+
+/**
+ * Run one search. `query` may be null — with active filters that browses
+ * the matching subset, which is Pagefind's documented standalone-filter
+ * behavior (`search(null, { filters })`).
  */
 export async function search(
-  query: string,
+  query: string | null,
   filters: Record<string, string[]>,
 ): Promise<PagefindSearchOutcome> {
   const pf = await initPagefind();
-  const opts = Object.keys(filters).length ? { filters } : undefined;
-  const raw = await pf.search(query, opts);
+  const opts = toPagefindFilters(filters);
+  const raw = await pf.search(query, opts ? { filters: opts } : undefined);
   const results = raw.results ?? [];
   return {
-    total: raw.total_result_count ?? results.length,
-    unfilteredTotal: raw.unfiltered_total_result_count ?? results.length,
+    total: results.length,
+    unfilteredTotal: raw.unfilteredResultCount ?? raw.unfiltered_total_result_count ?? results.length,
     results,
   };
 }
@@ -112,12 +148,25 @@ export async function hydrateResults(
 }
 
 async function hydrateOne(r: RawResult): Promise<PagefindResultRecord> {
-  let data: { url?: string; meta?: { title?: string } } = {};
+  let data: RawResultData = {};
   try { data = (await r.data?.()) ?? {}; } catch { /* keep defaults */ }
-  let excerpt = '';
-  try { excerpt = (await r.excerpt?.()) ?? ''; } catch { /* keep defaults */ }
   const url = data.url ?? ''; // canonical /aied/... path from the index
-  return { id: r.id ?? url, url, title: data.meta?.title ?? url, excerpt };
+  const meta = data.meta ?? {};
+  const filters = data.filters ?? {};
+  return {
+    id: r.id ?? url,
+    url,
+    title: meta.title ?? url,
+    // Pagefind 1.5.2 exposes the highlighted excerpt on data(), NOT as a
+    // method on the result handle. Calling result.excerpt() silently
+    // produced empty cards in the first implementation.
+    excerpt: data.excerpt ?? '',
+    type: filters.page_type?.[0],
+    meta: {
+      discipline: filters.discipline ?? [],
+      level: filters.level ?? [],
+    },
+  };
 }
 
 /**

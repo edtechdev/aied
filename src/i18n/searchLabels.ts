@@ -46,6 +46,7 @@ const CHROME_LABELS: Record<string, string> = {
   load_more: 'Load more results',
   summary: 'Showing {shown} of {total} results',
   none: 'No results for \u00ab{query}\u00bb',
+  none_filtered: 'No results match the selected filters.',
   error: 'Search failed',
   retry: 'Retry',
   searching: 'Searching\u2026',
@@ -65,6 +66,8 @@ const CHROME_LABELS: Record<string, string> = {
   chip_remove: 'Remove filter',
   nojs_title: 'Search requires JavaScript',
   nojs_text: 'JavaScript is needed for the interactive search. In the meantime you can browse:',
+  searching_language: 'Searching {language} pages.',
+  english_fallback: 'Search English pages',
 };
 
 export const PAGE_TYPE_VALUE_LABELS: Record<string, string> = {

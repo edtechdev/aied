@@ -71,7 +71,13 @@ export default defineConfig({
     '/articles/multi-agent-instructional-design':
       '/aied/articles/wang-multi-agent-systems-learning-designers-2025',
   },
-  integrations: [pagefind(), sitemap()],
+  integrations: [
+    pagefind(),
+    sitemap({
+      // The service-worker fallback is not content; keep it out of the sitemap.
+      filter: (page) => !page.endsWith('/offline/'),
+    }),
+  ],
   vite: {
     plugins: [
       stripOfflineEditions(),
