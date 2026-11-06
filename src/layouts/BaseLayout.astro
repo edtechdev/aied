@@ -27,7 +27,6 @@ import 'katex/dist/katex.min.css';
 const {
   title = siteConfig.name,
   description = siteConfig.name,
-  hideHeaderSearch = false,
   toc = [],
   // i18n: the locale this page is rendered in, and the site-relative route it
   // corresponds to (used by the language switcher to link the same page in the
@@ -354,7 +353,6 @@ const recentConceptItems = recentConcepts.map(c => {
   <link rel="alternate" type="application/rss+xml" title={`${siteConfig.name} RSS`} href={`${siteConfig.basePath}/rss.xml`} />
   <link rel="alternate" type="application/rss+xml" title="AIEd Research Weekly Update" href={`${siteConfig.basePath}/news/rss.xml`} />
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
-  <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
     /* === Typography ===
        Self-hosted Atkinson Hyperlegible Next (Braille Institute), a typeface designed
@@ -653,28 +651,6 @@ const recentConceptItems = recentConcepts.map(c => {
     @media (min-width: 1024px) {
       .nav-toggle { display: none; }
     }
-    .header-search {
-      flex: 1;
-      max-width: 30rem;
-      min-width: 0;
-      display: flex;
-    }
-    .header-search pagefind-searchbox { width: 100%; }
-    .header-search pagefind-searchbox::part(input) {
-      width: 100%;
-      padding: 0.5rem 0.9rem;
-      font-size: 0.95rem;
-      border: 1px solid var(--muted-border-color);
-      border-radius: 8px;
-      background: var(--search-bg);
-      color: var(--color);
-    }
-    .header-search pagefind-searchbox::part(input)::placeholder { color: var(--muted-color); }
-    .header-search pagefind-searchbox::part(input):focus {
-      border-color: var(--primary);
-      outline: none;
-      box-shadow: 0 0 0 3px var(--primary-focus);
-    }
     .header-icons {
       display: flex;
       align-items: center;
@@ -841,14 +817,12 @@ const recentConceptItems = recentConcepts.map(c => {
          into the overflow menu and the chevron appears with it. */
     }
 
-    /* Tablet / narrow-desktop (640–1023px): the full title + search field +
-       icons don't fit on one row, so the title truncates and the theme button
-       overflows. The search box ("Ctrl K") is desktop-only (≥1024px); drop it
-       here too. The header's RSS icon is gone entirely now (2026-09-21) — the
-       feed link lives in the footer and next to the intro on /journal. */
-    @media (max-width: 1023px) {
-      .header-search { display: none; }
-    }
+    /* Tablet / narrow-desktop (640–1023px): the full title + icons don't fit on
+       one row, so the title truncates and the theme button overflows. The header's
+       RSS icon is gone entirely now (2026-09-21) — the feed link lives in the
+       footer and next to the intro on /journal. */
+    /* The header has a single search entry point: the Search icon links to the
+       dedicated search page, which also owns the form, filters, and results. */
 
     main {
       flex: 1;
@@ -1401,12 +1375,6 @@ const recentConceptItems = recentConcepts.map(c => {
           <span class="brand-short">{siteConfig.shortName}</span>
         </a>
       </div>
-      {!hideHeaderSearch && (
-        <div class="header-search">
-          <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
-          <pagefind-searchbox placeholder={chrome.searchPlaceholder}></pagefind-searchbox>
-        </div>
-      )}
       <nav class="header-icons" aria-label={chrome.knowledgeBaseTools}>
         <a href={localizeHref('/aied/ai', locale)} class="header-icon" data-overflow-item data-priority="5" title={chrome.chatWithAi} aria-label={chrome.chatWithAi}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -1600,9 +1568,6 @@ const recentConceptItems = recentConcepts.map(c => {
       </footer>
     </div>
   </footer>
-  <script is:inline>
-    import("/aied/pagefind/pagefind-component-ui.js");
-  </script>
   {/* A reader who picked a language last time lands in it: the default-locale home
       page is the entry point, so it is the one place that reads the stored choice
       back. Picking English again stores 'en' and stops the redirect. */}
@@ -1652,7 +1617,6 @@ const recentConceptItems = recentConcepts.map(c => {
       // lowest priority first: this is the order they are given up in
       const giveUp = byPriority.slice().reverse();
       const left = container.querySelector('.header-left') as HTMLElement | null;
-      const search = container.querySelector('.header-search') as HTMLElement | null;
       let frame = 0;
 
       const visibleChildren = (): HTMLElement[] =>
@@ -1675,13 +1639,8 @@ const recentConceptItems = recentConcepts.map(c => {
         const gap = parseFloat(styles.columnGap || styles.gap) || 0;
         const pad =
           (parseFloat(styles.paddingInlineStart) || 0) + (parseFloat(styles.paddingInlineEnd) || 0);
-        // The search box is the flexible child of the row, so it gives up space
-        // before a control does: reserve a usable minimum for it and treat the rest
-        // as the room the controls have. Only when they cannot fit even that does
-        // one step into the menu.
-        const SEARCH_MIN = 160;
-        const searching = Boolean(search && search.offsetParent);
-        const used = (left ? left.offsetWidth : 0) + (searching ? SEARCH_MIN : 0);
+        // The brand is the fixed part of the row; the rest is room for controls.
+        const used = left ? left.offsetWidth : 0;
         // Measure against the VIEWPORT, not the container's own width: once the row
         // overflows, the container is as wide as its contents, so comparing against it
         // reports "fits" while the last controls sit past the right edge — the loop

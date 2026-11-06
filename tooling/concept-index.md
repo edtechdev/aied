@@ -12,8 +12,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`academic-integrity`** — Academic Integrity — phrases: academic dishonesty; academic integrity; authorship; contract cheating; plagiarism; scientific integrity
 - **`agentic-ai`** — Agentic AI — phrases: agent; agent-based AI; agentic; agentic ai; agents; ai agent; AI agentic systems; ai agents; autonomous agents; multi-agent
 - **`ai-education`** — AI in Education — phrases: ai education; ai in education; aied; artificial intelligence in education
-- **`ai-literacy`** — AI Literacy — phrases: ai competence; ai competency; AI fluency; ai literacy; AI skills; artificial intelligence literacy; conscious ai use; digital literacy; responsible ai use
-- **`cognitive-offloading`** — Cognitive Offloading — phrases: cognitive delegation; cognitive load; cognitive offloading; cognitive outsourcing; cognitive-load theory; mental offloading; offloading cognition; over reliance; over-reliance; overreliance
+- **`ai-literacy`** — AI Literacy — phrases: ai competence; ai competency; AI fluency; ai literacy; ai literacy activities; AI skills; artificial intelligence literacy; conscious ai use; digital literacy; responsible ai use; teaching ai literacy
+- **`cognitive-offloading`** — Cognitive Offloading — phrases: chatgpt overreliance; cognitive delegation; cognitive load; cognitive offloading; cognitive outsourcing; cognitive-load theory; mental offloading; offloading cognition; over reliance; over-reliance; overreliance; over-reliance on chatgpt; students rely on chatgpt; students rely too much on chatgpt
 - **`cognitive-surrender`** — Cognitive Surrender — phrases: ai surrender; cognitive surrender; surrender; surrender of judgment; surrender of judgement; surrender to ai
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
@@ -149,7 +149,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`ai-avatars-and-synthetic-instructors`** — AI Avatars and Synthetic Instructors — phrases: AI avatars; avatars; digital humans; deepfakes; synthetic instructors; synthetic media; virtual humans
 - **`cognitive-diagnosis`** — Cognitive Diagnosis — phrases: cognitive diagnosis; cognitive diagnostic; cognitive diagnostic assessment; cognitive modeling; cognitive modelling; diagnostic inference; misconception diagnosis
 - **`human-in-the-loop-ai`** — Human-in-the-Loop — phrases: HITL; human in the loop; human judgment; human judgement; human moderation; human oversight; human review; human-in-the-loop; human-in-the-loop AI
-- **`intelligent-tutoring`** — Intelligent Tutoring — phrases: AI tutoring; ITS; adaptive tutor; ai tutor; ai tutors; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; tutoring system; tutoring systems; tutors
+- **`intelligent-tutoring`** — Intelligent Tutoring — phrases: AI tutoring; ITS; adaptive tutor; ai tutor; ai tutors; build an ai tutor; create an ai tutor; design an ai tutor; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; tutoring system; tutoring systems; tutors
 - **`knowledge-tracing`** — Knowledge Tracing — phrases: bayesian knowledge tracing; knowledge modeling; knowledge modelling; knowledge tracing; student knowledge modeling; student knowledge modelling
 - **`learning-analytics`** — Learning Analytics — phrases: academic risk prediction; analytics; early warning; early warning system; educational data mining; learning analytics; predictive analytics; predictive learning analytics
 - **`pedagogical-agent`** — Pedagogical Agent — phrases: animated pedagogical agent; learning agent; learning companion; learning partner; pedagogical agent; tutor agent; virtual agent
@@ -267,7 +267,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Evaluation of AI systems
 
-- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: AI system evaluation; ai evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai; evaluations
+- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: AI system evaluation; ai evaluation; aied evaluation; assessment of AI systems; chatbot evaluation; efficacy evaluation; evaluate an educational chatbot; evaluating AI; evaluating educational chatbots; evaluation; evaluation of ai; evaluations
 - **`benchmark`** — Benchmark — phrases: benchmark; benchmark dataset; benchmark suite; benchmarking; benchmarks; evaluation benchmark
 
 ## People

@@ -7,6 +7,7 @@ be hand-edited:
     tooling/concept-index.md          human-readable manifest (slug, title, phrases,
                                       merge map, never-link list)
     src/data/conceptIndex.ts          sidebar sections/groups used by the Astro site
+    src/data/conceptAliases.ts        reviewed aliases indexed as search metadata
     src/data/conceptRedirects.ts      old slug -> canonical slug 301 redirects
 
 Usage:
@@ -25,6 +26,7 @@ REGISTRY = os.path.join(WIKI, 'concepts.registry.yaml')
 
 CONCEPT_INDEX = os.path.join(WIKI, 'tooling', 'concept-index.md')
 CONCEPT_INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
+CONCEPT_ALIASES_TS = os.path.join(WIKI, 'src', 'data', 'conceptAliases.ts')
 REDIRECTS_TS = os.path.join(WIKI, 'src', 'data', 'conceptRedirects.ts')
 FACET_VOCAB_TS = os.path.join(WIKI, 'src', 'data', 'facetVocab.ts')
 METADATA_LINKS_TS = os.path.join(WIKI, 'src', 'data', 'metadataLinks.ts')
@@ -84,6 +86,18 @@ export interface ConceptSection {
 }
 
 export const conceptIndex: ConceptSection[] = ["""
+
+CONCEPT_ALIASES_HEADER = """// Search aliases for concept pages, derived from concepts.registry.yaml.
+// These are reviewed synonyms and question phrasings, not generated variants.
+// Rendered as a visually hidden, weighted index line on each concept page so
+// a reader's words can reach the page even when its title uses different
+// vocabulary.
+//
+// GENERATED FILE - do not edit by hand.
+// Source: concepts.registry.yaml (`aliases:` fields)
+// Regenerate: python3 tooling/scripts/gen-concept-artifacts.py
+
+export const CONCEPT_ALIASES: Record<string, string[]> = {"""
 
 REDIRECTS_HEADER = """// Canonical destination for merged/absorbed concept slugs.
 // Each key is an old slug that no longer has its own page; visiting
@@ -158,6 +172,23 @@ def render_concept_index_ts(reg):
         out.append('    ],')
         out.append('  },')
     out.append('];')
+    return '\n'.join(out) + '\n'
+
+
+def render_concept_aliases_ts(reg):
+    out = [CONCEPT_ALIASES_HEADER]
+    for slug, entry in sorted(reg['concepts'].items()):
+        aliases = []
+        seen = set()
+        for alias in entry.get('aliases') or []:
+            key = alias.strip().lower()
+            if key and key not in seen:
+                seen.add(key)
+                aliases.append(alias.strip())
+        if aliases:
+            values = ', '.join(ts_str(a) for a in aliases)
+            out.append(f"  {ts_str(slug)}: [{values}],")
+    out.append('};')
     return '\n'.join(out) + '\n'
 
 
@@ -315,6 +346,7 @@ def main():
     targets = {
         CONCEPT_INDEX: render_index_md(reg),
         CONCEPT_INDEX_TS: render_concept_index_ts(reg),
+        CONCEPT_ALIASES_TS: render_concept_aliases_ts(reg),
         REDIRECTS_TS: render_redirects_ts(reg),
         FACET_VOCAB_TS: render_facet_vocab_ts(reg),
         METADATA_LINKS_TS: render_metadata_links_ts(reg),

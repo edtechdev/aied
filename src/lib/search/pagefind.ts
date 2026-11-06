@@ -55,6 +55,9 @@ interface RawResultData {
 interface PagefindModule {
   search: (term: string | null, options?: { filters?: PagefindFilters }) => Promise<RawSearchResponse>;
   filters: () => Promise<unknown>;
+  options?: (options: {
+    ranking?: { metaWeights?: Record<string, number> };
+  }) => Promise<void>;
 }
 
 let initPromise: Promise<PagefindModule> | null = null;
@@ -79,7 +82,14 @@ export function initPagefind(timeoutMs = 20000): Promise<PagefindModule> {
       reject(new Error('Pagefind did not initialize in time'));
     }, timeoutMs);
     import(/* @vite-ignore */ `${moduleBase()}/pagefind/pagefind.js`)
-      .then((mod: PagefindModule) => {
+      .then(async (mod: PagefindModule) => {
+        // Title matches are the strongest signal for a page lookup, and the
+        // reviewed alias metadata on concept/FAQ pages carries the reader's
+        // wording when the title uses different vocabulary. Pagefind's default
+        // title boost is 5x; raise both deliberately and keep them in one place.
+        await mod.options?.({
+          ranking: { metaWeights: { title: 10, aliases: 10 } },
+        });
         window.clearTimeout(timer);
         resolve(mod);
       })

@@ -8,6 +8,7 @@ import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
+import { FAQ_SEARCH_ALIASES } from '../../data/searchAliases';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -86,6 +87,10 @@ const pagefindFilterPairs: string[] = metaFields
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = faq.body || '';
+const searchAliases = (FAQ_SEARCH_ALIASES[slug] ?? []).filter(
+  (alias) => alias.trim().toLowerCase() !== title.trim().toLowerCase(),
+);
+const searchTerms = searchAliases.join('; ');
 
 // slug -> display title for every page: wikilink labels and tag chips use the page's
 // own title ('Well-Being'), not a de-slugified guess ('well being').
@@ -114,6 +119,7 @@ if (connectedResources.length > 0) {
   />
   <article data-pagefind-filter="page_type:faq">
     {pagefindFilterPairs.map((pair) => <meta data-pagefind-filter={pair} />)}
+    {searchTerms && <meta data-pagefind-meta="aliases[content]" content={searchTerms} />}
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>FAQ</p>
       <h1>{title}</h1>

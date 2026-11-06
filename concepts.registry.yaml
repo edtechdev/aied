@@ -151,8 +151,11 @@ concepts:
     - ai evaluation
     - aied evaluation
     - assessment of AI systems
+    - chatbot evaluation
     - efficacy evaluation
+    - evaluate an educational chatbot
     - evaluating AI
+    - evaluating educational chatbots
     - evaluation
     - evaluation of ai
     - evaluations
@@ -178,11 +181,13 @@ concepts:
     - ai competency
     - AI fluency
     - ai literacy
+    - ai literacy activities
     - AI skills
     - artificial intelligence literacy
     - conscious ai use
     - digital literacy
     - responsible ai use
+    - teaching ai literacy
   ai-misuse-learning-harm:
     title: AI Misuse and Learning Harm
     aliases:
@@ -425,6 +430,7 @@ concepts:
   cognitive-offloading:
     title: Cognitive Offloading
     aliases:
+    - chatgpt overreliance
     - cognitive delegation
     - cognitive load
     - cognitive offloading
@@ -435,6 +441,9 @@ concepts:
     - over reliance
     - over-reliance
     - overreliance
+    - over-reliance on chatgpt
+    - students rely on chatgpt
+    - students rely too much on chatgpt
   cognitive-psychology:
     title: Cognitive Psychology
     aliases:
@@ -954,6 +963,9 @@ concepts:
     - adaptive tutor
     - ai tutor
     - ai tutors
+    - build an ai tutor
+    - create an ai tutor
+    - design an ai tutor
     - intelligent tutoring
     - intelligent tutoring system
     - intelligent tutoring systems

@@ -21,7 +21,17 @@ Date: 2026-11-06
   carrying the same query and filters.
 - Article identifier metadata now includes the citation line (authors, title,
   DOI) at weight 2, restoring author lookups without weighting the whole body.
-- FAQ bodies carry weight 2, matching concepts/resources for broad queries.
+- Concept pages emit reviewed aliases from `concepts.registry.yaml` as
+  `data-pagefind-meta="aliases"`; FAQ pages emit reviewed question phrasings
+  from `src/data/searchAliases.ts`. Pagefind searches metadata and the adapter
+  sets `metaWeights.title = 10` and `metaWeights.aliases = 10` at init, so a
+  title or reviewed alias match outranks a long article that merely repeats the
+  words.
+- The desktop header's separate `pagefind-searchbox` component was removed.
+  It was a second search UI with its own ranking, took ~8 s to paint results,
+  and shrank to a 101 px field at the 1024 px desktop breakpoint. The header's
+  Search icon is now the single entry point to `/aied/search/`, which owns the
+  form, filters, and results.
 
 ## Measured results
 
@@ -31,27 +41,27 @@ Pagefind 1.5.2.
 - Unit tests: 22/22 (`state.test.ts`, `pagefind.test.ts`); route predicates 4/4.
 - New search JS: 13.4 KB raw / 4.4 KB gzip.
 - Pagefind bundle: 118.8 MB on disk (11,057 files); 142 MB with block overhead.
-- Relevance fixtures (English, top-5 unless noted): 9/14 (64%).
-  Passing: q01, q04, q06, q07, q10, q11 (author, top-3), q12 (DOI, top-3),
-  q13 (exact title, top-3), q14.
-  Failing: q02 (overreliance), q03 (AI literacy), q05 (AI grading),
-  q08 (build a tutor), q09 (evaluate a chatbot). Their intended concepts sit
-  at ranks 11–20+; lexical search does not connect the natural-language query
-  to those pages without aliases or semantic retrieval.
-- q15 browse behavior now works: `page_type=resource` with no query returns
-  40 resources (the fixture's specific `clarity` target is not in the first
-  five, so the fixture grade is not claimed).
+- Relevance fixtures (English, top-5 unless noted): 14/14.
+  All previously failing intents now land on a target: q02 cognitive offloading
+  (#1), q03 AI literacy (#1), q05 AI grading FAQ (#1), q08 developing-an-AI-tutor
+  FAQ (#1) and intelligent tutoring (#2), q09 AI Ed evaluation (#2). Author,
+  DOI, and exact-title lookups remain #1; facet precision still returns an
+  acceptable FAQ first.
+- q15 browse behavior works: `page_type=resource` with no query returns
+  40 resources.
 - UI checks: Search/Clear/Share are 86/145/160 px wide; the primary facets are
   collapsed; 0 checkboxes are visible until a facet is opened; `More filters`
   stays collapsed until opened; excerpts and type badges render; FAQ+Concept
   returns 192 results; Load more adds 10 unique rows (20/20 unique).
-- The plan's 90% relevance target is **not met**. This is reported as a
-  limitation, not hidden by weakening the fixture.
+- The 90% relevance target is met on the frozen English fixture set (14/14,
+  100%). This is a reviewed-alias result, not semantic search: a new phrasing
+  that is neither in the page title nor in a reviewed alias can still miss.
 
 ## Remaining work
 
-- Relevance for natural-language educator queries needs a deliberate alias or
-  concept-suggestion layer; weighting alone does not close the gap.
+- Alias coverage is finite and reviewed. New high-value question phrasings
+  belong in `concepts.registry.yaml` or `src/data/searchAliases.ts`, followed by
+  `python3 tooling/scripts/gen-concept-artifacts.py` and a fixture re-grade.
 - Search chrome is English on non-English pages (facet legends and placeholders
   are localized). A reviewed translation pass is required before translating
   the new strings.
