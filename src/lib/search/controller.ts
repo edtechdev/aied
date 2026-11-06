@@ -101,7 +101,9 @@ export class SearchController {
     this.bindHistory();
 
     // Parse the URL synchronously and show the state in the controls right
-    // away (no 5.5 s wait, no polling).
+    // away (no 5.5 s wait, no polling). The first search fires only once
+    // Pagefind is initialized (boot() below); requests issued before that
+    // would otherwise race the failed-init path.
     const parsed = stateFromSearchParams(window.location.search);
     this.state = parsed.state;
     if (parsed.notices.length) {
@@ -109,7 +111,6 @@ export class SearchController {
     }
     this.applyStateToControls(this.state);
     this.renderChips();
-    this.run(this.state, { announce: false });
 
     // Initialize Pagefind itself; filters become available once it resolves.
     void this.boot();
@@ -310,6 +311,10 @@ export class SearchController {
    * captured per call and every await re-checks it.
    */
   private run(state: SearchState, opts: { announce?: boolean; fromPop?: boolean; force?: boolean } = {}): void {
+    // Search can only execute against an initialized index. Every event that
+    // leads here (typing, filters, popstate, retry) happens again once init
+    // resolves via boot()'s force run on the latest state, so nothing is lost.
+    if (!this.initialized && !opts.force) return;
     const id = ++this.seq;
     this.hide(this.errorEl);
     this.hide(this.emptyEl);
