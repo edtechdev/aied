@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-04T13:20:00-05:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -10,6 +10,7 @@ ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-support-reading-comprehension]
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---

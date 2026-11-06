@@ -1,9 +1,9 @@
 ---
 title: "Can I Use AI to Grade Student Work Fairly and Reliably?"
 created: "2026-10-30T11:40:00-04:00"
-updated: "2026-10-30T11:40:00-04:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -22,7 +22,7 @@ ai_assist:
 
 You have a rubric you believe in, more submissions than hours, and a tool that returns a score plus several confident paragraphs in the time it takes to read one essay. You try it on work you already graded. Half the scores look right. One is strangely generous, one strangely harsh, and you cannot yet tell whether that is the tool or the essay.
 
-Short answer to give a colleague: AI grading earns a place as a supervised assistant or a second reader, on tasks where you have checked it against work you have already marked. Agreement does not transfer across assessment types. In a sixteen-student pharmacy examination, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] found near-perfect agreement on objective item types and unreliable agreement on open-ended responses. Across three English universities, [[opraise-automated-marking-ai-assessment-2026|the OpRaise project]] found AI and human assessors agreeing on the degree band between 35% and 65% of the time depending on institution, with marks compressed toward the middle. A fluent justification is not evidence that your criteria were applied. Whether the result is [[assessment-validity|valid for your decision]] is a local question you have to answer yourself, and [[human-in-the-loop-ai|a person stays accountable]] for anything that becomes a recorded grade.
+Here is the short answer: AI grading earns a place as a supervised assistant or a second reader, on tasks where you have checked it against work you have already marked. Agreement does not transfer across assessment types. In a sixteen-student pharmacy examination, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] found near-perfect agreement on objective item types and unreliable agreement on open-ended responses. Across three English universities, [[opraise-automated-marking-ai-assessment-2026|the OpRaise project]] found AI and human assessors agreeing on the degree band between 35% and 65% of the time depending on institution, with marks compressed toward the middle. A fluent justification is not evidence that your criteria were applied. Whether the result is [[assessment-validity|valid for your decision]] is a local question you have to answer yourself, and [[human-in-the-loop-ai|a person stays accountable]] for anything that becomes a recorded grade.
 
 ## The short version
 

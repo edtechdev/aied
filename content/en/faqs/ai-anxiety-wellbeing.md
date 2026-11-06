@@ -21,7 +21,7 @@ ai_assist:
 
 A student stays behind after class and tells you that finishing the degree no longer seems worth it, because AI can already do the job they were training for. Another has gone quiet this term: fewer submissions, no questions, no presence in the seminar. You have ten minutes before your next class and no way to tell whether this needs a strategy or a referral.
 
-The answer to give a colleague: most of what drives AI anxiety sits in career and competence rather than in the technology, and reassurance moves neither. Mastery experiences, evidence that AI-related work is worth the effort, and career adaptability are what these studies point at. A small number of students need a referral rather than a strategy, and the evidence is thinner on where that line falls than you would want.
+Here is the answer: most of what drives AI anxiety sits in career and competence rather than in the technology, and reassurance moves neither. Mastery experiences, evidence that AI-related work is worth the effort, and career adaptability are what these studies point at. A small number of students need a referral rather than a strategy, and the evidence is thinner on where that line falls than you would want.
 
 ## The short version
 

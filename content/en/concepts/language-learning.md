@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T23:00:00-05:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,6 +10,7 @@ ethics: [equity-in-ai-education]
 discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-support-reading-comprehension]
 reviewed_by: [editor]
 ---
 

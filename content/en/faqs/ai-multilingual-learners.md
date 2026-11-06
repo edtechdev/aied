@@ -1,9 +1,9 @@
 ---
 title: "How Can AI Support Multilingual Learners Without Misjudging Their Knowledge or Erasing Their Voice?"
 created: "2026-10-30T12:30:00-04:00"
-updated: "2026-10-30T12:30:00-04:00"
+updated: "2026-11-06T03:00:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -23,7 +23,7 @@ ai_assist:
 
 A student understands the concept and needs four extra minutes to say so in English. The AI can translate the prompt, define the terminology, rehearse the explanation with them, or write the whole answer. Three of those are teaching. One is doing the assignment.
 
-Short answer to give a colleague: decide what the language is doing in this task before you decide what the tool may do. Where language is incidental, AI can remove a barrier that has nothing to do with your construct. Where the language is the construct, the same tool bypasses the learning. The risk runs both ways at once: [[multilingual-learning|language support]] can improve access, and [[automated-assessment|automated scoring]] can still misread the student. In one physics study, explanations of lower linguistic quality were systematically graded below expert judgment by every AI scoring approach tested, nine [[machine-learning]] and two language-model systems across 116 secondary-school students ([[ai-scoring-language-bias-physics|Feser and Tschisgale, 2026]]). Fluency and understanding were being scored as one thing.
+Here is the short answer: decide what the language is doing in this task before you decide what the tool may do. Where language is incidental, AI can remove a barrier that has nothing to do with your construct. Where the language is the construct, the same tool bypasses the learning. The risk runs both ways at once: [[multilingual-learning|language support]] can improve access, and [[automated-assessment|automated scoring]] can still misread the student. In one physics study, explanations of lower linguistic quality were systematically graded below expert judgment by every AI scoring approach tested, nine [[machine-learning]] and two language-model systems across 116 secondary-school students ([[ai-scoring-language-bias-physics|Feser and Tschisgale, 2026]]). Fluency and understanding were being scored as one thing.
 
 ## The short version
 

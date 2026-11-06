@@ -24,7 +24,7 @@ ai_assist:
 
 The term opens and nothing happens at a set hour. You post week one's reading, the discussion prompt, the first case, and then you wait to see what comes back. What comes back is fluent, on topic, and tells you nothing about the student who submitted it. There is no room to walk into, no face to read at 10:15 on a Tuesday, and no follow-up question you can ask while the student is still standing in front of you.
 
-The answer to give a colleague: in an asynchronous course, everything a classroom supplies for free has to be built on purpose. Put the grade on the process instead of the finished file, keep one measurement the student produces with no tools and no help, constrain whatever AI you hand out and keep it inside the course, and treat the calendar as a design decision. For any assignment, ask what a student would still have to do if a model produced the artifact for them.
+Here is the answer: in an asynchronous course, everything a classroom supplies for free has to be built on purpose. Put the grade on the process instead of the finished file, keep one measurement the student produces with no tools and no help, constrain whatever AI you hand out and keep it inside the course, and treat the calendar as a design decision. For any assignment, ask what a student would still have to do if a model produced the artifact for them.
 
 ## The short version
 

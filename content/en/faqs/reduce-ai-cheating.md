@@ -18,7 +18,7 @@ ai_assist:
 
 It is week six. A take-home essay comes back fluent and hollow and you cannot tell whether the student wrote it. Or four submissions share a shape nobody in the room produced in September, and the integrity office wants a written account of what the assignment was measuring. Or your department voted last month to restrict [[generative-ai]] in core courses and left you to make the restriction mean something.
 
-The answer to give a colleague: stop trying to prove who wrote the work and change the conditions under which it gets written. Detection is the weakest lever you have. The levers that hold are a task where the shortcut leaves a trace, a single unassisted step you can observe, and a short taught sequence that keeps students inside the cognitive work.
+Here is the answer: stop trying to prove who wrote the work and change the conditions under which it gets written. Detection is the weakest lever you have. The levers that hold are a task where the shortcut leaves a trace, a single unassisted step you can observe, and a short taught sequence that keeps students inside the cognitive work.
 
 ## The short version
 

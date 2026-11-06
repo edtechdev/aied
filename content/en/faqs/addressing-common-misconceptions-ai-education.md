@@ -27,7 +27,7 @@ Your provost wants a one-page "AI myths" sheet for the spring faculty meeting. O
 
 Every belief on this page starts from something a reasonable person has seen. Fluent prose does read as accurate. A polished submission does look like learning. A tutor that answers the question does feel like help, and a policy with the word "prohibited" in it does feel like a decision. The correction that works names what the observation cannot tell you, then hands over a check the person can run on Monday.
 
-The answer to give a colleague, in one breath: the educational effect of AI depends on who uses it, for which task, what thinking the tool performs, what responsibility stays with the person, and how the learning gets evaluated. Confidence, speed, engagement, and task completion are features of use. None of them is evidence that capability changed.
+Here is the answer, in one breath: the educational effect of AI depends on who uses it, for which task, what thinking the tool performs, what responsibility stays with the person, and how the learning gets evaluated. Confidence, speed, engagement, and task completion are features of use. None of them is evidence that capability changed.
 
 ## The short version
 
