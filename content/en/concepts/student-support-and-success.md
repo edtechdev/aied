@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-05T15:16:00-05:00"
+updated: "2026-11-07T14:45:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -41,6 +41,8 @@ The distinction that organizes this page is between **what a nudge can do** and 
 ## The support functions
 
 The research clusters into five functions, and the cluster boundaries matter because they carry different evidence.
+
+A 61-study review of AI-enabled learner support found the field concentrated in adaptive systems and personalization (41 uses) and profiling and prediction (30), with chatbots and recommenders handling intake and routine queries. It also found the gaps: no intervention addressed the learner transition phase, and only two studies named a student subgroup, so the generic learner in most systems was a statistical average ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
 **Outreach and communication.** Institutions message students at scale, and the strongest evaluations test whether it changes anything. A four-year randomized study of CSUNny, a non-generative text-message chatbot at California State University, Northridge, followed two undergraduate cohorts (N = 8,708) through eight semesters ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). A registration reminder sent July 31, 2018 made treated students 34 percentage points more likely to enroll by August 16 and only 2 points more likely by September 15; Early Start reminders produced 11 points more registration by June 7 and 20 points by June 22. Receptivity held: annual opt-out rates never exceeded 4%. A pre-registered multi-semester trial at Georgia State University nudged students in two large asynchronous courses (N = 1,568 and N = 915) with two to three customized messages a week, raising the odds of earning an A or B by four percentage points against 61% of controls and shifting DFW rates by about three points in each course ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -122,6 +124,7 @@ Student support connects to [[student-experience]] as the student-facing counter
 
 ## Connected Articles
 
+- [[cefa-ai-learner-support-review-2026]] — 61-study review of AI-enabled learner support: adaptive systems and prediction dominate; transition phase and diverse learners are absent
 - [[mata-sustaining-ai-enabled-student-support-2026]] — four-year randomized evaluation of a university support chatbot: task completion moved, graduation and GPA did not
 - [[chatbot-outreach-course-performance-2026]] — pre-registered multi-semester outreach trial: higher A/B rates, modest DFW shifts, one demographic exception
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 synthetic vignettes: limited sensitivity to student need and cross-model inconsistency in support recommendations

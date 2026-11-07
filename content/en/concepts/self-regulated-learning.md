@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T22:30:00-05:00"
+updated: "2026-11-07T14:45:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -121,6 +121,8 @@ For example:
 
 ## Evidence Across Contexts
 
+A meta-analysis of 34 studies (91 effect sizes) estimates that AI-based interventions raised self-regulated learning by g = 0.76, with resource management (g = 0.93) larger than metacognitive (0.73) or cognitive strategies (0.48). Tool type and pedagogical role moderated the effect; generative-AI status, discipline, intervention length, and SRL measure did not ([[zhang-ai-self-regulated-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase [[self-report-measures|perceived learning]] even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.([[young-people-learning-generative-ai-rapid-review-2026]])
 
 - **SRL is rarely the active target.** Across 394 GenAI higher-education studies, self-regulated learning and reflection were among the least frequently enacted uses and among the outcomes targeted least ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
@@ -217,6 +219,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[reflection]]
 
 ## Connected Articles
+- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Meta-analysis of AI-assisted self-regulated learning: g = 0.76 across 34 studies, with tool type and pedagogical role moderating the effect (Zhang et al. 2026)
 - [[li-genai-dependency-effort-regulation-2026]] — Generative AI dependency and perceived learning outcomes: the effort-regulation pathway (Li, Zhang & Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Per-category accuracy of LLM-segmented SRL in an embodied classroom (Fonteles et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)

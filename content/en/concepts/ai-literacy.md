@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-07T14:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -172,6 +172,8 @@ The knowledge base's frameworks and empirical studies converge on a set of pract
 
 A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand separates **self-reported** from **performance-based** skill: reporting diverges sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based instruments predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] map that instrument landscape directly, reviewing 80 validated frameworks — 69 digital literacy and 11 AI literacy — published between January 2014 and February 2025. AI has pulled digital literacy toward ethics and recast communication to include human–[[student-ai-interaction|AI interaction]], while metacognitive regulation and educator-specific human–AI collaboration remain the least specified. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
 
+A systematic review of 17 AI literacy measures found collaboration rarely assessed as a construct: 3 studies operationalized [[human-ai-collaboration|human-AI collaboration]] explicitly, 3 embedded it in item wording, and 11 showed no representation; only one instrument measured AI literacy and collaboration together. The proposed coordination, communication, and [[metacognition]] sub-factors remain unvalidated ([[yang-collaborative-ai-literacy-measures-review-2026|Yang et al., 2026]]).
+
 [[genait-genai-literacy-test-high-school-2026|Puppart, Laak and Aru (2026)]] supply the largest objective counterpart yet: an 18-item test validated on 7,432 Estonian high school students (marginal reliability = .72), with scores unrelated to [[technology-acceptance-model|perceived ease of use]] (ρ = .01) and negatively related to use frequency (ρ = −.16 to −.19).
 
 A 32-item six-facet instrument extends the four-dimension model with two further facets — responsible use and self-development — and holds scalar invariance across adolescents (12–17), young adults (18–40) and midlife adults (41–60), though the authors caution the ΔCFI approached the conventional cutoff ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
@@ -263,6 +265,7 @@ Verification is the teachable counterweight, and [[automation-bias]] names what 
 - [[civic-and-political-education]]
 
 ## Connected Articles
+- [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 AI literacy measures: collaboration is rarely assessed as a construct, and the proposed coordination/communication/metacognition factors remain unvalidated (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Raising the ethical dimension of literacy without a coping framework can leave students more anxious
