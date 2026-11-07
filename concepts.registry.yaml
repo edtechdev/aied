@@ -505,6 +505,17 @@ concepts:
     - creative thinking
     - creativity
     - divergent thinking
+  case-based-learning:
+    title: Case-Based Learning
+    aliases:
+    - case based learning
+    - case discussion
+    - case method
+    - case study teaching
+    - case-based instruction
+    - cases in teaching
+    - contrasting cases
+    - teaching cases
   critical-pedagogy:
     title: Critical Pedagogy
     aliases:
@@ -2278,6 +2289,7 @@ sections:
     - collaborative-learning
     - project-based-learning
     - problem-based-learning
+    - case-based-learning
     - productive-failure
     - inquiry-based-learning
     - experiential-learning

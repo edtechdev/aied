@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-07T13:20:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -99,6 +99,7 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+- [[case-based-learning]] — Case method and contrasting cases as teaching techniques
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

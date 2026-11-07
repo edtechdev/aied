@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T12:15:00-05:00"
+updated: "2026-11-07T13:20:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -165,6 +165,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
 - [[human-ai-collaboration]] — umbrella: how people and AI work together
 - [[pedagogy]] — umbrella: teaching methods and strategies
+- [[case-based-learning]] — Case method, case discussion, and contrasting cases
 - [[metaphors-and-analogies]] — How metaphor shapes AI understanding and how analogy supports instruction
 - [[learning-theories]] — umbrella: how learning happens
 - [[ai-technologies]] — umbrella: models, techniques, and systems

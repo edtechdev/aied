@@ -47,6 +47,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'biology-education': ['biological', 'biological education', 'biology', 'biology education', 'biology laboratory', 'biology learning', 'life sciences'],
   'business-education': ['business degree', 'business education', 'business school', 'business schools', 'economics education', 'management education'],
   'career-development-and-readiness': ['AI career anxiety', 'career adapt-abilities', 'career adaptability', 'career development', 'career readiness', 'employability', 'workforce readiness'],
+  'case-based-learning': ['case based learning', 'case discussion', 'case method', 'case study teaching', 'case-based instruction', 'cases in teaching', 'contrasting cases', 'teaching cases'],
   'change-management': ['change management', 'educational reform', 'implementation of AI', 'institutional change', 'leading change', 'organizational change', 'organisational change'],
   'chemistry-education': ['chemical education', 'chemistry', 'chemistry education', 'chemistry laboratory', 'chemistry learning'],
   'civic-and-political-education': ['civic education', 'civics', 'citizenship education', 'political education', 'political science education'],

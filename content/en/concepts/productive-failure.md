@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-26T09:10:00-04:00"
+updated: "2026-11-07T13:20:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -34,7 +34,7 @@ Learners generate solutions without cognitive support, relying on prior knowledg
 - **Prepares learners to learn from instruction** — they know what they don't know and can connect new material to their attempts.
 - **Enhances knowledge transfer and durable skills** ([[critical-thinking]], resilience, communication), reduces fear of making mistakes, and promotes positive attitudes toward learning.
 
-The PF framework has been extended through related designs including **vicarious failure**, **solution diversity**, and **adaptive guidance** (Braas et al., 2025; Brand et al., 2025).
+The PF framework has been extended through related designs including **vicarious failure**, **solution diversity**, and **adaptive guidance** (Braas et al., 2025; Brand et al., 2025). Cases can supply the shared problem space for that first attempt, though the case-based evidence base has not yet tested the pairing directly ([[case-based-learning]]).
 
 ## Learning from mistakes and learning from errors
 
@@ -94,6 +94,7 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — Cases as a shared problem space for the first attempt
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

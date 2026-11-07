@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-07T13:20:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -60,6 +60,8 @@ The recommendations are procedural: clear and comprehensive guidelines whatever 
 
 Three things make legal education more than one more subject area.
 
+The case method is one member of the broader [[case-based-learning]] family; that page distinguishes prepared cases and case discussion from problem-based inquiry and simulation.
+
 **Assessment validity is inseparable from professional competence.** [[cognitive-offloading|Over-reliance]] during law school is feared to leave graduates underprepared for work that demands independent legal analysis and advocacy, and grading that rewards fluent output cannot distinguish a student's comprehension from a model's. The [[assessment-validity|validity]] question is therefore not academic.
 
 In a legal-context experiment, 186 lay decision-makers on tribunal civil cases deferred to an incorrect AI position far less when the system withheld its own position (5.7–8.2% versus 42.0–60.5%), yet built no measurable judgment — protective rather than corrective, and measured in lay decision-makers, not law students ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
@@ -89,6 +91,7 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 - [[governance]] — faculty governance and policy creation as law schools practice it
 - [[educational-policy-ai]] — institutional AI policy as an object of study
 - [[critical-thinking]] — the reasoning the case method is meant to build
+- [[case-based-learning]] — the case method and case discussion as a pedagogy
 - [[socratic-method]] — dialogue dependent on student preparation
 - [[experiential-learning]] — clinics and practice-based training
 - [[professional-training]] — the wider family of licensed professions

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 231
+**Total concepts:** 232
 
 ## Foundations of AI in education
 
@@ -52,6 +52,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Core pedagogies
 
 - **`active-learning`** — Active Learning — phrases: active engagement; active learning
+- **`case-based-learning`** — Case-Based Learning — phrases: case based learning; case discussion; case method; case study teaching; case-based instruction; cases in teaching; contrasting cases; teaching cases
 - **`collaborative-learning`** — Collaborative Learning — phrases: collaboration; collaborative; collaborative learning; cooperative learning; group learning; interprofessional; peer learning
 - **`critical-pedagogy`** — Critical Pedagogy — phrases: critical education; critical educational theory; critical pedagogy; critical theory
 - **`experiential-learning`** — Experiential Learning — phrases: experiential learning; hands-on learning; learning by doing
