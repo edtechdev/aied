@@ -1,14 +1,14 @@
 ---
 title: 基于项目的学习（Project-Based Learning）
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-26T06:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,13 +47,13 @@ PBL 与[[active-learning]]、[[experiential-learning]]、[[collaborative-learnin
 - **早期童年项目路径中的 AI 智能体：** [[creative-project-approach-ai-early-childhood-2025|Yang、Li 与 Lee（2025）]]把 PBL 的基础形态——项目路径（Katz & Chard），一个对真实世界主题的长期协作探究——延伸到[[early-childhood-elementary-ai-education|早期童年]]，提出五步**创意项目路径**，把[[agentic-ai|AI 智能体]]和[[educational-robotics|机器人]]（编码机器人和生成式社交机器人）融入项目以培养幼儿的[[creativity|创造性学习]]。五步——识别学习需求、促进[[teacher-role|教师]]引导的儿童—机器人互动、把 AI 置于情境中、校准自动化/创造力的平衡、评估结果——让教师保持为引导探究的促进者，把 PBL 定位为发展适切地把 AI 用于最小学习者的天然载体。
 - **游戏化耦合：** [[game-based-gamified-robotics-education-review-2026|一项系统综述]]发现，机器人教育中的[[game-based-learning|游戏化]]强烈有利于基于项目的学习（p = .009）。
 
-关于这一配对的唯一三层元分析汇集了 22 项受控研究（66 个效应量，2023 年 1 月至 2026 年 4 月），估计 GenAI 支持的 PBL/PjBL 效应较大，g = 0.819，95% CI [0.655, 0.983]，尽管作者的 PET-PEESE 敏感性分析把估计降到 g = 0.378，因此头条数字应读作可能被夸大（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等 2026]]）。工具类型显著调节效应（QM = 14.301，p < .001）：直接使用的通用聊天机器人汇集值更高（g = 0.970），高于定制进课程平台、虚拟病人或智能体的系统（g = 0.455），暗示工具如何嵌入比选哪个模型更重要。
+关于这一配对的唯一三层[[meta-analysis-systematic-review|元分析]]汇集了 22 项受控研究（66 个效应量，2023 年 1 月至 2026 年 4 月），估计 GenAI 支持的 PBL/PjBL 效应较大，g = 0.819，95% CI [0.655, 0.983]。作者的 PET-PEESE 敏感性分析则把估计降到 g = 0.378，因此头条数字应读作可能被夸大（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等 2026]]）。工具类型显著调节效应（QM = 14.301，p < .001）：直接使用通用聊天机器人得到 g = 0.970，而内置进课程平台、虚拟病人或智能体的系统为 g = 0.455——暗示工具如何嵌入比选哪个模型更重要。
 
-- **作为大规模智能体设计者的学生：** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]让一个 700 名学生的软件设计课程中的 345 名本科生，各自构建一个向同伴讲解三种设计模式的对话式智能体——A 部分是一个带支架的 Dialogflow CX 教程，B 部分是一个开放式设计任务。开放式性是最主要的正面主题（22.3%），而指令不清位居负面之首（23.7%），感知到的学习与小测分数仅有中度相关（r = 0.161–0.315）。给 PBL 的设计教训：学生创建的制品可以把自翻转课堂的所有权益处带入 AI 工具情境，但这项探索性的、无对照组的证据支持的是参与主张，而非因果优越性。
+- **作为大规模智能体设计者的学生：** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]让一个 700 名学生的软件设计课程中的 345 名本科生，各自构建一个向同伴讲解三种设计模式的[[conversational-ai|对话式智能体]]——A 部分是一个带支架的 Dialogflow CX 教程，B 部分是一个开放式设计任务。开放式性是最主要的正面主题（22.3%），而指令不清位居负面之首（23.7%），感知到的学习与小测分数仅有中度相关（r = 0.161–0.315）。给 PBL 的设计教训：学生创建的制品可以把自翻转课堂的所有权益处带入 AI 工具情境，但这项探索性的、无对照组的证据支持的是参与主张，而非因果优越性。
 
 - **AI 素养与协同设计：** PBL 是许多[[ai-literacy|AI 素养]]和[[teacher-education]]干预的基础，学习者协同创建 AI 工具或资源。
 - **AI 智能体支持的软件 PBL：** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka 等（2026）]]把规范驱动开发（Spec-Driven Development）与[[agentic-ai|AI 智能体]]嵌入一个团队式本科软件 PBL 课程，把项目结构化为调查、规划、实现和评审阶段，配以由教师主持的理解检查。
-- **内嵌教学智能体的沉浸式 VR 工作室：** [[ai-ive-pbl-vocational-design-creativity-2026|Jin 等（2026）]]为职业设计教育规定了 **AI-IVE-PBL** 模型，把 PBL 与一个 AI 增强的沉浸式虚拟环境（[[virtual-and-augmented-reality|VR]]头显加一个[[llm]]支持的教学助手）配对。PBL 对职业学习者惯常的约束——设备有限、场景难以复制、教师[[scaffolding]]延迟——被沉浸加会中智能体所吸收，模型被表述为五阶段循环（发现、构想、建模、交流、改进），每阶段有具名行动者和制品，由持续的观念发展话语驱动。在一项为期 12 周的准实验（n = 63）中，该条件提高了设计能力和创造能力，并提升了认知和行为[[student-engagement|参与]]，而观念新颖性（创新思维）和情感参与未变——提醒我们一个项目的设计性部分和观念性部分的价值不会一起移动。
+- **内嵌教学智能体的沉浸式 VR 工作室：** [[ai-ive-pbl-vocational-design-creativity-2026|Jin 等（2026）]]为职业[[design-education|设计教育]]规定了 **AI-IVE-PBL** 模型，把 PBL 与一个 AI 增强的沉浸式虚拟环境（[[virtual-and-augmented-reality|VR]]头显加一个[[llm]]支持的教学助手）配对。PBL 对职业学习者惯常的约束——设备有限、场景难以复制、教师[[scaffolding]]延迟——被沉浸加会中智能体所吸收，模型被表述为五阶段循环（发现、构想、建模、交流、改进），每阶段有具名行动者和制品，由持续的观念发展话语驱动。在一项为期 12 周的准实验（n = 63）中，该条件提高了设计能力和创造能力，并提升了认知和行为[[student-engagement|参与]]，而观念新颖性（创新思维）和情感参与未变——提醒我们一个项目的设计性部分和观念性部分的价值不会一起移动。
 
 PBL 连接到[[active-learning]]、[[experiential-learning]]、[[collaborative-learning]]、[[educational-robotics]]、[[game-based-learning]]、[[computational-thinking]]以及[[higher-ed]]/[[k-12]]教学法。
 

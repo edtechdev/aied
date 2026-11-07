@@ -1,13 +1,13 @@
 ---
 title: 游戏化学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,13 @@ GBL扎根于[[motivation]]、[[student-engagement]]与[[active-learning]]理论�
 - **由机器人中介的游戏：** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] 是一个由机器人中介的反霸凌干预角色扮演游戏，[[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] 用互动式[[storytelling-in-education|数字讲故事]]来提升动机。
 - **模拟游戏中的AI [[conversational-ai|对话智能体]]：** Wenzel、Geiger 与 Liening（2026）从横跨认知、动机、[[affective-computing|情感]]与[[sociocultural-learning|社会文化]]参与的、由理论驱动的元需求出发，推导出CAIS-GBL框架——数字游戏化学习中AI对话智能体的四条设计原则与十五项设计特性——并采取[[equity-in-ai-education|公平]]以设计求的立场。他们在商业模拟游戏中实例化的智能体（Lara）在认知与[[community-of-inquiry|社会临场感]]以及[[self-regulated-learning]]支持方面获得正面评价，弥补了模拟游戏中[[formative-assessment|形成性]]反馈与结构化反思有限这一常见缺口。
 
-- **AI-GBL的有效性：** 一项对AI支持的游戏化学习的55项研究系统综述发现，其对知识、内在动机与情感参与有正面效应，但只有4项研究（7%）达到其高质量门槛，且只有4项（7%）是[[rct|RCT]]（[[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt，2026]]）。有效性取决于把AI机制与一个明确的[[learning-theories|学习理论]]对齐。
+- **AI-GBL的有效性：** 一项覆盖 55 项 AI 支持的游戏化学习研究的[[meta-analysis-systematic-review|元分析]]报告了知识、内在动机与情感参与上的增益，但只有4项研究（7%）达到其高质量门槛，且只有4项（7%）是[[rct|RCT]]（[[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt，2026]]）。有效性取决于把AI机制与一个明确的[[learning-theories|学习理论]]对齐。
+
+- **[[generative-ai|GenAI]] 是游戏的作者，而非玩家：** [[xie-genai-mystery-game-legal-education-2026|Xie 等（2026）]]让模型为一款线下推理角色扮演游戏起草了七个角色与叙事材料，随后这款游戏在每组 42 人的随机试验中胜过了同一位教师的讲授（partial *η*² = 0.566）。学生从未使用 AI，因此效应属于形式本身。
+
+- **学生是游戏设计者，而非玩家：** [[karampa-students-game-designers-ai-literacy-2026|Karampa 等（2026）]]让 22 名 8–12 岁的小学生设计一款关于错误信息的增强现实密室棋盘游戏，把[[project-based-learning|项目式学习]]与[[design-thinking|设计思维]]以及 Room2Educ8 密室框架叠加起来。在 20 题 DigComp 3.0 问卷上，综合[[ai-literacy|AI 素养]]从 5 分制的 3.684 升到 4.309，t(21) = −21.086，p < .001，五个能力领域全部提升。全班用 AI 提示生成了 11 个方案，并合并成一个可搭建的游戏。[[self-report-measures|自评]]、单一班级、无对照组。
+
+- **把 AI 拆成对话教练与难度引擎。** 一个面向高中计算思维的 AI 增强 Roblox 环境，把一个限制在两三句话内、且被禁止给出答案的 GPT-4 非玩家角色，与一个依据解题时长与错误率设定难度的规则引擎配对（[[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat、Junruang 与 Kanjug，2026]]）。
 
 ### 游戏化
 
@@ -76,7 +82,7 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 
 - 提升这个领域的设计质量而非数量；7% 的高质量比例是能得出什么结论的约束条件。
 
-- **模拟中的对话式反馈提高了相关负荷，却没有降低无关负荷。** 在一项为期五周、**234 名学生**参与的商业模拟游戏中，一个基于 GPT-4o 的反馈聊天机器人的常规用户，报告了**显著更高的相关认知负荷**，高于有访问权但未参与的用户（β = −.468，p < .001）以及静态反馈对照组（β = −.253，p = .028），而**无关负荷在两种设定下都没有效应**（F(1, 219) = 0.499，p = .481）。两种负荷**在五周内都下降**（无关负荷 β = −.388，p < .001），这是新异性效应，只不过测在认知负荷上而不是参与上（[[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel、Geiger 与 Liening，2026]]）。设计要点在于：反馈承载了个性化、信号化、分段与前馈结构，覆盖 19 项具体指标，单是聊天机器人这一表层并不是处理本身。
+- **模拟中的对话式反馈提高了相关负荷，却没有降低无关负荷。** 在一项为期五周、**234 名学生**参与的商业模拟游戏中，一个基于 GPT-4o 的反馈聊天机器人的常规用户，报告了**显著更高的相关认知负荷**，高于有访问权但未参与的用户（β = −.468，p < .001）以及静态反馈对照组（β = −.253，p = .028），而**无关负荷在两种设定下都没有效应**（F(1, 219) = 0.499，p = .481）。两种负荷**在五周内都下降**（无关负荷 β = −.388，p < .001），这是新异性效应，只不过测在认知负荷上而不是参与上（[[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel、Geiger 与 Liening，2026]]）。设计要点在于：反馈承载了[[personalized-learning|个性化]]、信号化、分段与前馈结构，覆盖 19 项具体指标，单是聊天机器人这一表层并不是处理本身。
 
 ## 关联概念
 - [[educational-robotics]]
@@ -92,6 +98,9 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 - [[virtual-and-augmented-reality]] — 沉浸式与游戏化练习在设计与证据上重叠
 
 ## 关联文章
+
+- [[karampa-students-game-designers-ai-literacy-2026]] — 小学生设计密室棋盘游戏；AI 素养在一门电子课程实验室中提升
+
 - [[ai-game-based-learning-systematic-review-2026]] — 55项AI支持游戏化学习研究的系统综述：结果正面，证据基础薄弱
 
 - [[game-based-gamified-robotics-education-review-2026]] — 基于游戏与游戏化的机器人教育
@@ -102,3 +111,7 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 - [[genai-motivation-engagement-2026]] — 生成式 AI、动机与投入
 - [[nasa-tlx-workload-gamified-ai-2026]] — 跨游戏化/AI条件的NASA-TLX负荷
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS动机与AI支持的游戏化
+
+- [[xie-genai-mystery-game-legal-education-2026]] — GenAI 撰写的推理角色扮演游戏对讲授：法律教育中的随机试验（Xie 等 2026）
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — 面向计算思维的 AI 增强游戏化学习环境的设计与初步验证
+

@@ -1,7 +1,7 @@
 ---
 title: 教学伙伴关系
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,10 @@ ai_assist:
 
 - **学生作为 AI 政策的共同设计者。** 不是由机构把 AI 规则强加于学生，伙伴关系把学生定位为课程与机构层面 AI 政策的共同创造者。例如，一项学生共同设计 [[generative-ai]] 课程政策的引导式探究活动，显现出学生在培训、标准化披露、机构支持以及参与决策方面的优先关切（[[guided-inquiry-genai-course-policy-2026]]）。
 - **学生作为 AI 工具的共同创造者。** 在学生即伙伴框架中，学生已共同设计并改进了与教学目标对齐的定制 AI [[conversational-ai|聊天机器人]]——这种方法把 SaP 范式扩展到把 AI 工具本身也纳入，并把学生声音定位为负责任 AI 创新的核心（[[lo-co-creating-custom-gpts-sap-2026]]）。
-- **整班共同设计，由自我评估来评判。** 一个一年级信息学项目让师生在第一周共同设计课程目标与政策，并在学期中反复回看，由学生依据个人目标、团队目标和一份共享量规给自己和小组评分，而不是依据最终制品（[[maybee-disruptive-partnerships-sap-2025|Maybee、LeGrand 与 Fundator（2025）]]）。
+
+- **规模化共同创造，谨慎测量。** 在一门 710 名学生的软件设计课程中，学生为同伴构建了一个[[intelligent-tutoring|AI 导师]]，而不是使用一个。设计自由度是最主要的正面主题（22.3%），指令不清是最大的抱怨（23.7%），但感知学习与测验分数的相关仅在 r = 0.161 至 0.315 之间，且设计没有对照组（[[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]）。构建工具是一种看似可行的教学法，而就这份证据而言尚未被证明，这也是为什么它的理由建立在设计活动上，而不是结果增益上。
+
+- **整班共同设计，由[[self-assessment|自我评估]]来评判。** 一个一年级信息学项目让师生在第一周共同设计课程目标与政策，并在学期中反复回看，由学生依据个人目标、团队目标和一份共享量规给自己和小组评分，而不是依据最终制品（[[maybee-disruptive-partnerships-sap-2025|Maybee、LeGrand 与 Fundator（2025）]]）。
 - **评估与 AI 中的共同创造。** 学生—工作人员伙伴关系已共同评估课程作业中的 AI 生成产出，并共同设计评估标准，增进了对 AI 益处与局限的理解，并支持 [[self-regulated-learning|自我调节学习]]（[[williams-ingle-assessment-co-creation-ai-2025]]）。
 - **以伙伴关系守护教学信任。** 面对 AI 驱动的不确定性与"AI 羞耻"，培育*教学信任*的伙伴关系实践——一种自信、互惠、向不确定性开放并通过对话共同航行的学习关系——提供了维系教育关系核心的一种方式（[[matthews-five-guiding-principles-ai-sap-trust-2025]]）。
 - **青年作为 AI 系统的共同设计者。** 参与式设计方法把历史上被边缘化的学生作为伙伴，参与设计将影响他们课堂的 AI 系统，显现出学生的价值观与 [[ethics|伦理]]承诺（[[chang-co-designing-ai-youth-relational-privacy-2025]]）。
@@ -137,3 +140,6 @@ ai_assist:
 - [[anastasia-shared-agency-partnership-framework-2026]] — 共享主体性：师生协作的主体性伙伴关系框架
 - [[maybee-disruptive-partnerships-sap-2025]] — 颠覆性伙伴关系：在信息学中与学生协作
 - [[student-centered-genai-responsible-framework-2026]] — 以学生为中心的负责任生成式 AI 使用框架
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 710 名学生规模下学生为同伴构建 AI 导师：参与度高，学习证据仍是探索性的（Zangari 等，2026）
+

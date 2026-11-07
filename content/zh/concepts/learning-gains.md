@@ -1,7 +1,7 @@
 ---
 title: 学习收益
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-28T00:51:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -62,14 +62,14 @@ ai_assist:
 
 - **元分析证据大体为正但有条件。**[[genai-educational-outcomes-meta-analysis|对 53 项研究的综合元分析]]（Dong 2026）发现，生成式 AI 在学业成就、[[critical-thinking|高阶思维]]与写作上总体优于传统方法——[[ai-feedback-quality|AI 反馈]]尤其有效——尽管游戏辅助的生成式 AI 没有显著附加收益，且收益随国家与结果而异。[[genai-meta-analysis-programming-learning|生成式 AI 与编程的元分析]]发现大的生产力收益但没有显著学习收益（g ≈ 0），把任务效率与持久学习分开。[[robot-assisted-language-learning-meta-analysis-2026|一项语言学习元分析]]发现 AI 增强的[[embodied-learning|具身]]机器人带来正向但适度的学习收益。就[[ai-literacy|AI 素养]]而言，[[liu-ai-literacy-interventions-meta-analysis-2026|对 59 项研究的三层元分析]]估计一个大的总效应（g = 0.837）——但宽的预测区间，以及知识导向干预优于针对技能、态度或[[ethics]]的干预这一发现告诫：*所测的结果*塑造了表面收益，呼应了 AI 相关收益取决于你测什么、怎么测这一更广的观点。
 - **设计良好的[[intelligent-tutoring|AI 导师]]产生真实收益。**一项为期两年的整群 RCT（[[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]]）发现，AI 辅导每学期把数学成就提高约 1.3 个国家百分位（约 0.06–0.08 SD/学年，全年约 0.14 SD），收益与不用 AI 的练习相似——证明*投入度*而非模型能力是约束因素。[[making-ai-tutoring-productive-mastery-math-2026|NUMI]]表明，AI 支持改进了犯错后的下一次尝试正确率，并给每道题更多时间——一种"生产性放缓"建立持久掌握。[[virtual-tutoring-computer-assisted-learning-takeup-2026|虚拟辅导]]发现约束因素是采纳与持续参与，而非导师质量。
-- **一门从班级自身教学法构建的导师打败了主动学习，而非仅讲课。**在哈佛物理导论课的一项交叉[[rct]]中，从定制 AI 导师学习的学生后测中位数为 4.5，对课程课堂主动学习课的 3.5（基线中位数 2.75），线性回归效应量为 0.63，任务上花的中位时间为 49 分钟对课堂 60 分钟（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人，2025]]）。由于对照是基于研究的主动学习而非讲授，该试验是在与一个严苛的对照比较中测量导师——作者归功的设计是把导师从与班级相同的基于研究实践工程化，加上按需的个性化反馈与自定步调。
+- **一门从班级自身教学法构建的导师打败了[[active-learning|主动学习]]，而非仅讲课。**在哈佛物理导论课的一项交叉[[rct]]中，从定制 AI 导师学习的学生后测中位数为 4.5，对课程课堂主动学习课的 3.5（基线中位数 2.75），线性回归效应量为 0.63，任务上花的中位时间为 49 分钟对课堂 60 分钟（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人，2025]]）。由于对照是基于研究的主动学习而非讲授，该试验是在与一个严苛的对照比较中测量导师——作者归功的设计是把导师从与班级相同的基于研究实践工程化，加上按需的个性化反馈与自定步调。
 - **AI 可以比肩人类帮助。**[[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT 生成的帮助]]在[[math-education|数学]]技能上产生与人类导师撰写的帮助等效的学习收益——证据表明，生成式 AI 在恰当时使用可与人类[[scaffolding]]一样有效。
 - **收益取决于谁在与它一起教学。**获得 AI 支持的低经验导师把学生通过率提高了 9 个百分点，对更资深导师收益更小——一种增强模式，最能提升最缺乏经验者（[[oecd-digital-education-outlook-2026|OECD，2026]]）。
 - **无保护的 AI 可能损害学习。**护栏 RCT（[[generative-ai-guardrails-harm-learning|PNAS 2025]]）发现，无保护的 ChatGPT 式导师把辅助练习提高 +48%，却*降低了*无辅助考试分数 −17%，而带护栏（给提示而非答案）的导师消除了损害。这是**学习效力依设计而定**的最鲜明证明：同一类工具依配置之不同，可能是强的学习收益，也可能是净损害。
 - **但无保护获取也能持久地帮助。**一项使用现成 ChatGPT 账户的 RCT 发现，无辅助测试在有访问时高出 0.27 SD，且收益在一周后保持——超过 747 项教育 RCT 中 0.10 SD 中位数的两倍（[[contractor-learning-impact-generative-ai-2026|Contractor & Reyes，2026]]）。
 - **感知效力与实际效力分岔。**[[ai-literacy-assessment-misalignment|自报表现与测得表现错位]]，[[absent-cognitive-baseline-2026|缺席的认知基线]]表明 AI 原住民学生高估自己的学习——因此基于自报的效力主张在没有客观结果测量时不可靠。[[self-report-measures]]汇集了报告与测得结果相分离的案例。
 
-- **收益可以来自重配教师时间，而非来自 AI 评分。**在一项横跨 178 所巴西学校（约 19,000 名高三学生）的随机实验中，AI 与人工作文评分产生相同的考试收益，但 AI 课堂多了约 35% 关于写作的一对一师生对话，且最底四分位在两种条件下都没有改善（[[ai-changing-teaching-workflows|Ler，2026]]）。
+- **收益可以来自重配教师时间，而非来自[[automated-assessment|AI 评分]]。**在一项横跨 178 所巴西学校（约 19,000 名高三学生）的随机实验中，AI 与人工[[automated-essay-scoring|作文评分]]产生相同的考试收益，但 AI 课堂多了约 35% 关于写作的一对一师生对话，且最底四分位在两种条件下都没有改善（[[ai-changing-teaching-workflows|Ler，2026]]）。
 - **在教师中介的 AI 中，移动收益的是备课，而不是工具本身。**在巴西 19 个公立学校的算术课堂中，由受过培训的教师授课的学生优于对照组，但在该培训之上加入 AIED-U 系统并未带来进一步的学习收益，且教师工作量与收益呈负相关（[[rodrigues-aied-unplugged-numeracy-2026|Rodrigues 等（2026）]]）。
 
 **要点：**证据的分量支持来自 AI 的**适度、有条件、依设计而定的学习收益**——当 AI 被结构化为教练而非答案、带护栏、并与无辅助结果测量配对时是真实的，而当它替代学习者自身努力时则缺席或为负。这就是为何学习收益作为结果必须用有效的、抗 AI 的工具测量，以及为何[[ai-ed-evaluation]]把效力主张与[[research-methods-aied|方法性]]审视配对。
@@ -102,7 +102,7 @@ ai_assist:
 - **设计是决定性的。**同一类工具依配置之不同可能是强的收益或净损害（[[generative-ai-guardrails-harm-learning]]、[[stanford-evidence-base-ai-k12-2026]]）。
 - **AI 如何使用比是否可用更重要。**[[jost-llm-programming-education-learning-outcomes|用于解释是无害的；用于代码生成是有害的]]；[[genai-over-reliance-learning-2026|过度依赖]]侵蚀收益。
 - **时长与自我[[regulation|调节]]调节效应。**[[zhao-genai-higher-order-thinking-meta-2026|效应在 8–16 周时最强]]，对[[self-regulated-learning]]较高的学习者亦然。
-- **计算思维水平调节 AI 辅助的收益。**在一项为期四周的八年级 AI 编程助手课程中，高 CT 学生在后测上超过低 CT 同伴（72.54 对 61.73, p = .031），尽管先前编程知识相当，高 CT 学生用助手理解代码，而低 CT 学生用它检索答案（[[computational-thinking-aica-2026|Zhao 等人（2026）]]）。
+- **[[computational-thinking|计算思维]]水平调节 AI 辅助的收益。**在一项为期四周的八年级 AI 编程助手课程中，高 CT 学生在后测上超过低 CT 同伴（72.54 对 61.73, p = .031），尽管先前编程知识相当，高 CT 学生用助手理解代码，而低 CT 学生用它检索答案（[[computational-thinking-aica-2026|Zhao 等人（2026）]]）。
 - **AI-IBL 支持创造力但不必然支持问题解决。**[[mujib-ai-ibl-creative-math-2026|Mujib 等人]]改进了创造表现与态度，但没有改进批判性问题解决。
 - **[[student-experience|学生体验]]与测得收益分岔。**[[absent-cognitive-baseline-2026|AI 原住民学生高估自己的学习]]，[[ai-literacy-assessment-misalignment|自报与表现错位]]——对收益的感知不是其可靠证据。
 
@@ -131,7 +131,7 @@ ai_assist:
 
 **"元分析已经定论：效应很大。"** 聚合方向与聚合量级是两件不同的事实，而量级很少经得起细查。[[genai-meta-analysis-programming-learning|关于编程中 GenAI 的元分析]]发现了很大的*生产力*增益，同时**没有显著的学习增益**（g ≈ 0）。[[burneo-can-edtech-close-learning-gaps-2026|世界银行的元分析]]汇集了 14 项随机对照试验的 191 个效应量，估计自适应与 AI 赋能的 EdTech 约为 0.125 个标准差，相对于教育随机试验的中位数颇为可观，但**生成式 AI 相对于更早的自适应工具并无优势**。把 GPT 时代的研究援引为一次类别跃迁，夸大了合并证据所显示的内容。
 
-**"更多练习与更多个性化总是有帮助。"** 增益是内容与处理的交互作用，而非常数。[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 等（2025）]]表明，最优的例题与习题比例取决于所学的内容：对逐字记忆的事实，提取练习占优；对可迁移的技能，例题整合的练习占优。而[[lak2026-hint-button-unproductive-use|提示按钮研究]]发现提示使用量与学习呈负相关。帮助一个知识组件的同一种"支持"，可能浪费另一个。
+**"更多练习与更多[[personalized-learning|个性化]]总是有帮助。"** 增益是内容与处理的交互作用，而非常数。[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 等（2025）]]表明，最优的例题与习题比例取决于所学的内容：对逐字记忆的事实，提取练习占优；对可迁移的技能，例题整合的练习占优。而[[lak2026-hint-button-unproductive-use|提示按钮研究]]发现提示使用量与学习呈负相关。帮助一个知识组件的同一种"支持"，可能浪费另一个。
 
 **"延迟后测的结果自动就是持久学习的结果。"** 延迟是必要条件，而非充分条件。在本语料中，区分持久学习的是在延迟条件下进行的*无辅助*测量，以及有证据表明该效应并非由迁移时将缺席的脚手架所承载。
 

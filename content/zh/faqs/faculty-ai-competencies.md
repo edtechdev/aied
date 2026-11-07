@@ -1,7 +1,7 @@
 ---
 title: "在人工智能方面，教师需要具备哪些能力？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
@@ -110,7 +110,7 @@ ai_assist:
 
 一个框架就能覆盖所有人。六角色标准之所以存在，是因为 TPACK、SAMR 与主要的教育者标准覆盖的是 K-12 教师，或者只是教学维度。
 
-抵抗是一个需要填补的知识缺口。风险厌恶负向预测了意图，而身份研究描述的是教师从教学价值出发的推理。那些看起来像不情愿的东西，有一部分是关于学生过度依赖的一个站得住脚的立场。
+抵抗是一个需要填补的知识缺口。风险厌恶负向预测了意图，而[[learner-identity|身份研究]]描述的是教师从教学价值出发的推理。那些看起来像不情愿的东西，有一部分是关于学生过度依赖的一个站得住脚的立场。
 
 ## 会回来的那些话
 

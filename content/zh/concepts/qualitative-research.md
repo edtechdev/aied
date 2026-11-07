@@ -1,13 +1,13 @@
 ---
 title: 质性研究
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,18 +39,20 @@ ai_assist:
 ### 主题分析
 主题分析在质性数据中识别、编码并解释模式（"主题"）——通常是访谈或焦点小组的记录稿、开放式问卷回答或文件。它是知识库质性研究中使用最广的路径。访谈与开放式回答本身就是 [[self-report-measures|自我报告数据]]，所以它们共享关于"能就行为主张什么"的限度——见那一页，了解自我报告证据在何处强、在何处失效。[[fouad-bentley-trust-utility-gap-physics-2026|一项关于物理中信任–效用落差的研究]]用学生访谈数据的主题分析，浮现出 [[discipline-specific-aied|学科特定]]的怀疑与采纳偏好；[[genai-teacher-feedback-comparison|一项 GenAI 与教师反馈的比较]]分析学生对有用性与可信度的感知；[[ai-adult-learning-guidelines-dis2026|成人 AI 学习指南]]从对专家与学习者输入的主题编码中推导设计原则。[[ai-changing-teaching-workflows|AI 如何改变教学工作流]]依赖对教育者叙述的主题分析。
 
-编码可靠性可以做成一项持续的程序，而非一次性检查。[[preservice-teachers-noticing-ai-simulations-2026|Galiç et al.（2026）]]以 Krippendorff's α = .803 编码 304 条注意陈述，在五个重叠案例上监控一致性（合并 κ = 0.937），并在恢复前每当一致性低于 0.85 的重新校准阈值就重新编码有争议的陈述；随后被编码的陈述进入一项认识网络分析，它建模哪些维度共现，而非一份扁平的主题清单。
+编码可靠性可以做成一项持续的程序，而非一次性检查。[[preservice-teachers-noticing-ai-simulations-2026|Galiç et al.（2026）]]以 Krippendorff's α = .803 编码 304 条注意陈述，在五个重叠案例上监控一致性（合并 κ = 0.937），并在恢复前每当一致性低于 0.85 的重新校准阈值就重新编码有争议的陈述；随后被编码的陈述进入一项[[network-analysis|认识网络分析]]，它建模哪些维度共现，而非一份扁平的主题清单。
+
+[[ober-prompt-engineering-interview-transcripts-2026|Ober 等人（2026）]]展示了一种混合变体：主题建模为主题分析搭脚手架，LLM 生成的标签又反过来喂养编码簿的精炼。在六场、共 13 名教师的焦点小组中，这条由人驱动的流水线从一份包含六个初步扎根理论主题的版本 1 编码簿，推进到精炼后的版本 2——新增了一个"教学"类别，把整体技能与子技能的优先级分开，并使社会与情境维度显性化。ChatGPT-4o 与 Copilot 两种 GPT-4 实现为数据衍生的主题打标签，差异很小——在沟通类 H 簇上有 33.3%（21 个中的 7 个）标签相同，在数字素养类上有 43.8%（16 个中的 7 个）相同——人工复核未发现幻觉。
 
 ### 扎根理论
 扎根理论*从数据*建构理论，而非检验一个先验框架，用迭代编码（开放 → 主轴 → 选择性）直到理论饱和。它非常适合为涌现中的教育–AI 现象建构新理论。[[liu-tool-tutor-crutch-programming-2026|Liu et al.]]发展了*工具、导师还是拐杖*的扎根理论——学生在 [[cs-education|编程教育]]中如何对 AI 做认知 [[scaffolding|脚手架]]或卸载的三模式类型学——直接对 [[cognitive-offloading]] 做理论化。[[favero-critical-ai-tutors-empower-enslave-2025|一项关于批判性 AI 导师的扎根理论研究]]考察这类导师是赋权还是奴役学习者。[[genai-feedback-design-multisite-experiment|以人为本的 GenAI 反馈设计]]在一项多地点研究中使用扎根分析。关于这类扎根理论如何喂养本领域的理论建构，另见 [[theory-development-aied]]。
 
 ### 现象学与现象图析
-现象学路径研究一个现象的*活生生的经验*——与 AI 一起学习是什么感觉——而现象图析研究人们体验与理解一个现象的*质性上不同的方式*（产出"描述范畴"）。[[absent-cognitive-baseline-2026|《缺失的认知基线》]]借助学生在 AI 下自我评估的活生生经验，理论化一个结构性缺口；[[metacognitively-discordant-completion-genai-2026|一项现象学研究]]捕捉那种在明知不理解的情况下与 AI 一起完成工作的体验；[[genai-runaway-object-math-higher-ed|一项社会文化的、解释性的研究]]分析 GenAI 如何在 [[math-education|数学]]学术实践中变成一匹"失控的野马"。
+现象学路径研究一个现象的*活生生的经验*——与 AI 一起学习是什么感觉——而现象图析研究人们体验与理解一个现象的*质性上不同的方式*（产出"描述范畴"）。[[absent-cognitive-baseline-2026|《缺失的认知基线》]]借助学生在 AI 下[[self-assessment|自我评估]]的活生生经验，理论化一个结构性缺口；[[metacognitively-discordant-completion-genai-2026|一项现象学研究]]捕捉那种在明知不理解的情况下与 AI 一起完成工作的体验；[[genai-runaway-object-math-higher-ed|一项社会文化的、解释性的研究]]分析 GenAI 如何在 [[math-education|数学]]学术实践中变成一匹"失控的野马"。
 
 ### 话语分析
 话语分析考察语言使用如何建构意义、身份与权力——分析课堂话语、书面文本或互动序列。[[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]]开展长视野的课堂*话语分析*（此处由计算辅助），以缓解理解课堂互动中的方言偏见；[[scaffolding-critical-engagement-genai-minority-students|一项关于少数族裔预科学生的研究]]分析 [[prompt-engineering]] 任务中的协作*话语*。话语分析与 [[educational-nlp]] 结合时，在质性解释与计算方法之间架起桥梁。
 
-[[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal（2026）]]展示了话语编码如何被渲染为可数规则从而可审计：在 366 篇摘要与 91,405 个 token 上，一处关联只有当某个行为者位于某个谓词之前、中间隔着不超过六个词时才算成立，名词邻近被排除，于是"AI governance"永远不作为"AI 在治理"的证据——这是一种基于规则的近似，而非依存句法分析，其局限由设计本身声明。
+[[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal（2026）]]展示了话语编码如何被渲染为可数规则从而可审计：在 366 篇摘要与 91,405 个 token 上，一处关联只有当某个行为者位于某个谓词之前、中间隔着不超过六个词时才算成立，名词邻近被排除，于是"[[governance|AI governance]]"永远不作为"AI 在治理"的证据——这是一种基于规则的近似，而非依存句法分析，其局限由设计本身声明。
 
 ### 观察与民族志
 观察研究在情境中观看行为；民族志把这一点延伸为对一个场景持续、沉浸式的研究，研究者常以参与式观察者身份在场。[[trio-ethnography-llm-programming-education|一项三人民族志]]追踪 LLM 支持的编程教育中学生的解释如何演化；[[zha-ai-literacy-biology-case-study|一项课堂案例研究]]观察 [[ai-literacy]] 在 [[biology-education|生物]]中的整合。观察方法捕捉*实际*行为（学习者拿 AI 做什么），而非被报告的行为——补充了那些主导态度的 [[educational-measurement|定量测量]]的自我报告调查。
@@ -77,8 +79,14 @@ ai_assist:
 
 近期一个独特的发展是用 [[llm|LLM]] 协助质性编码。知识库的证据是告诫性的：[[human-vs-llm-ordered-coding]] 显示 LLM 与人的编码分歧，误差在时间分析中级联放大；[[agreement-not-quality-llm-coding-verification|Agreement Is Not Quality]] 显示，当人的共识不是真值时，人–LLM 编码的*一致性*不等于编码的*质量*。LLM 辅助编码可以规模化并加速质性分析，但其产出需要对照 [[human-in-the-loop-ai|人的判断]]来验证——这是质性研究与 [[educational-nlp]] 和 [[ai-ed-evaluation]] 的一个重要交点。
 
+[[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 等人（2026）]]报告了首批正面的、量化的单一 LLM 编码结果：在四个模型、五个零样本提示与 8,040 行数据上，人与模型在"列举"判断上的相关为 r = .75。当模型判断某个定义是否正确时，一致性降至 r = .56，估计的每构念误差从 .11 升至 .27，偏差则从"列举"的 0.027 升到"正确定义"的 0.254。驱动与人类编码者对应关系的是模型身份，而非提示的精细化——在这个界定良好的二元任务中，只要模型选得好，零样本提示就能达到高一致性。
+
 **流畅产出问题与可辩护性（warrantability）。** [[chain-behind-claim-warrantability-2026|Holster（2026）]]锐化了为何准确与披露对 AI 辅助的质性工作是不充分的标准。因为 LLM 能在几分钟内把语料重组成流畅的主题、引语与流行度主张，它们可以隐藏产出它们的分析路径——而人们倾向于把易于处理、流畅的产出评为更真实。Holster 提议把**可辩护性**作为准确与披露的补充：一项 AI 辅助的解释，当"从源数据到主张"的路径保持*可检视、可争议、可修订*时，就是可辩护的。其建设性机制是**语义透镜**（对一个语料跨抽象层级的有记录的重组）以及一套相对主张的**可辩护性制品**库——源链接的主题表、透镜栈与证据之流——被设计进工具中，使流畅的分析也产出一条可回溯的路径记录。这把本领域的审计轨迹传统延伸到生成式时代，并给审阅者一些具体的、除最终解释之外可以争议的东西。
 - **在 [[agentic-ai|多智能体]] LLM 编码中，可靠性不是准确率。**一个文献驱动的流水线，由两个 AI 编码者独立编码、辩论并调和分歧，在每个数据集与每个标签上都产出高于 Cohen's kappa 0.85 的编码者间一致性，而判据 F1 从 0.31 到 0.89（均值 0.68，SD 0.16）——两者都错的智能体之间高度一致。更长的编码册（t = -11.702）与更相似的片段（t = -9.249）降低了初始准确率，而讨论轮数与准确率正相关（t = 7.997），被正确解决的冲突与协作模式则与准确率负相关（t = -9.720 与 -8.420），所以收敛是正确性的弱代理。其实际含义是：AI 辅助编码需要对照人类参考做清单层面的裁定，而非以智能体间一致性作为质量信号。([[llm-qualitative-coding-consensus-2026]])
+
+一个微调过的 BERT 分类器成为首个达到人类编码者间信度的自动编码者：[[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye 等人（2026）]]在样本外双编码数据集（N = 134）上报告与人类编码者的 Cohen's Kappa 为 0.85，而两位人类编码者之间为 0.83。BERT 还达到准确率 0.93、精确率 0.92、召回率 0.98 与 F1 0.95，并泛化到另一个研究团队的论文，Kappa 为 0.86（n = 150）。作者把这一结果与一套"训练–验证–应用–再训练"的工作流配对，保留一个双编码的人工样本作为常设的信度检查。
+
+[[zambrano-llm-human-ai-codebook-development-2026|Zambrano 等人（2026）]]显示，GPT-4o 仅凭自身的知识库就能生成有理论根基的编码簿，覆盖 Zimmerman 的循环三阶段与 Winne 和 Hadwin 四阶段中的三个。可用性仍由人的精炼决定：两位人类编码者合并了重叠的提议，例如"计划"与"目标设定"、"监控"与"评价"，最终的自我调节学习编码簿定为 11 个构念，且没有编造的示例。这项工作流是协作而非委托：模型提议，人来合并与重命名。
 
 ## 优势与局限
 

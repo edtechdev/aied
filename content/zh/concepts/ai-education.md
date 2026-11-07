@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-28T18:53:23-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -91,7 +91,7 @@ ai_assist:
 人工智能如何支持教与学，是这一领域的核心。关键概念包括：
 
 - **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]，以及[[pedagogical-patterns|教学法模式]]（可复用的教学序列模式）。
-- **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
+- **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[reflection|反思]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
 - **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，以及[[student-support-and-success|学生支持与成功]]（归属感、留存、保留与成功率），共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
 
 ## 技术与方法
@@ -99,7 +99,7 @@ ai_assist:
 [[ai-technologies|技术]]页面是技术层的总括页面：
 
 - **模型与方法：**[[generative-ai|生成式人工智能]]、[[llm|大语言模型]]、[[rag|检索增强生成]]、[[multimodal|多模态模型]]、[[educational-nlp|教育自然语言处理]]、[[reinforcement-learning|强化学习]]、[[knowledge-graph|知识图谱]]、[[educational-robotics|教育中的机器人]]、[[conversational-ai|对话式人工智能]]、[[simulation|仿真]]，以及[[llm-training-and-fine-tuning|训练教学型大语言模型]]。底层方法同样重要：[[machine-learning|机器学习]]是这些系统得以构建的地方，[[speech-and-voice-technologies|语音技术]]承载口语导学与语言练习，[[visualization|可视化]]涵盖面向学习者与教师的仪表盘和可视分析，[[virtual-and-augmented-reality|虚拟与增强现实]]则承载沉浸式练习，而这类练习的视觉层如今已可由模型生成。更新的交互方式也属于这里，其中最突出的是[[vibe-coding|氛围编程]]：一种由自然语言驱动的工作流，用户通过向大语言模型给出提示来指定程序，并根据生成结果的行为来判断，而不去阅读或修改源码。它把[[cs-education|编程]]重新界定为一种表达与验证的行为，并降低了[[teacher-role|非程序员终端用户]]构建自己工具的门槛。诸如[[samr-model|SAMR]]这样的整合深度框架，以及诸如[[technology-acceptance-model|TAM]]这样的采纳理论，则用来判断人工智能被采纳的深度以及它在多大程度上改变了任务本身。
-- **学习者建模与自适应系统：**用于表征学习者并据其调整的技术系统归入[[student-modeling|学习者建模与自适应教学]]这一总括页面，包括[[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]、[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]、[[recommender-systems-and-learning-paths|推荐系统与学习路径]]、[[pedagogical-agent|教学智能体]]、[[affective-tutoring|情感导学]]、[[affective-computing|情感计算]]、[[human-in-the-loop-ai|人在回路的人工智能]]与[[learning-analytics|学习分析]]。它们之所以属于技术层，是因为它们本身就是人工智能系统，与它们所实施的教学法不同。
+- **学习者建模与自适应系统：**用于表征学习者并据其调整的技术系统归入[[student-modeling|学习者建模与自适应教学]]这一总括页面，包括[[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]、[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]、[[recommender-systems-and-learning-paths|推荐系统与学习路径]]、[[pedagogical-agent|教学智能体]]、[[affective-tutoring|情感导学]]、[[affective-computing|情感计算]]、[[sensor-and-gaze-analytics|传感器与凝视分析]]、[[ai-avatars-and-synthetic-instructors|AI 虚拟人与合成教师]]、[[human-in-the-loop-ai|人在回路的人工智能]]与[[learning-analytics|学习分析]]。它们之所以属于技术层，是因为它们本身就是人工智能系统，与它们所实施的教学法不同。
 
 - **平台、开放与采纳：**模型周围的那一层，即一个教学资源在哪里被授权、托管与付费，而不是被构建。[[open-education|开放教育]]涵盖用开放授权内容教学，以及把学生当作这些内容的生产者的教学法，生成材料如今提出的授权与改编问题正是在这里被争论。它与软件意义上的开放性并列，与[[edtech-platform|教育技术平台]]上的平台层分析并列，也与[[technology-acceptance-model|TAM]]所承载的采纳研究并列。
 
@@ -107,7 +107,7 @@ ai_assist:
 
 人工智能被应用于各个学科与教育层次。本知识库的[[discipline-specific-aied|各学科 AIED 概览]]梳理了学科领域的覆盖范围，并与[[learning-sciences|学习科学]]并列，后者不是一门被教授的科目，而是研究学习本身的横贯性研究领域，它把学科内容视为众多变量之一：
 
-- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[arts-design-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
+- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[reading-education|阅读教育]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[libraries|图书馆与信息科学]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[civic-and-political-education|公民与政治教育]]、[[arts-design-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
 
 ## 层次与情境
 
@@ -148,7 +148,7 @@ ai_assist:
 公正、可及性与责任是教育中的人工智能的核心议题：
 
 - **公平与可及性：**[[equity-in-ai-education|公平]]、[[differential-effects-across-learner-groups|不同学习者群体间的差异性效应]]（即一项研究结论对谁成立的问题）、[[digital-divide|数字鸿沟]]、[[bias-mitigation|偏见缓解]]、[[culturally-relevant-pedagogy|文化相关教学法]]、[[multilingual-learning|多语言学习]]、[[inclusive-learning|包容性学习]]、[[accessibility|无障碍]]、[[assistive-technology|辅助技术]]、[[neurodiversity|神经多样性]]、[[universal-design-for-learning|通用学习设计]]与[[global-south|全球南方]]研究。
-- **伦理与责任：**[[ethics|人工智能伦理]]、[[ai-misuse-learning-harm|人工智能误用与学习损害]]、[[legal-issues-and-risks|法律问题与风险]]、[[ai-use-disclosure|人工智能使用披露]]、[[guardrails|护栏]]、[[privacy|隐私]]、[[hallucination-risk|幻觉风险]]、[[ai-sycophancy|人工智能谄媚]]、[[trust|信任]]、[[trust-calibration|信任校准]]、[[reducing-ai-misuse|减少人工智能误用]]、[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]、[[pedagogical-safety|教学安全]]、[[sustainability|可持续性]]与[[cognitive-offloading|认知卸载]]。
+- **伦理与责任：**[[ethics|人工智能伦理]]、[[ai-misuse-learning-harm|人工智能误用与学习损害]]、[[legal-issues-and-risks|法律问题与风险]]、[[ai-use-disclosure|人工智能使用披露]]、[[guardrails|护栏]]、[[privacy|隐私]]、[[hallucination-risk|幻觉风险]]、[[ai-sycophancy|人工智能谄媚]]、[[trust|信任]]、[[trust-calibration|信任校准]]、[[automation-bias|自动化偏见]]、[[reducing-ai-misuse|减少人工智能误用]]、[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]、[[pedagogical-safety|教学安全]]、[[sustainability|可持续性]]与[[cognitive-offloading|认知卸载]]。
 
 一篇关于这一领域伦理文献的[[meta-analysis-systematic-review|系统综述]]（[[agarwal-ethical-values-norms-aied-2026|Agarwal et al. 2026]]，25 篇文章）把 AIED 伦理归纳为六项主要伦理价值：非歧视、数据管理、人类监督、善意、可解释性与教育适切性，并把伦理规范映射到一张“相关人群乘价值”的矩阵上。它发现终端用户在伦理文献中基本处于被动地位（学生的声音几乎缺席），并呼吁把伦理整合进 AIED 的设计，以及更多关注 AIED 伦理中教育的（教学的）维度。
 
@@ -157,6 +157,9 @@ ai_assist:
 若干主题横跨整个领域：
 
 - **信任与批判性使用：**[[trust|信任]]、[[trust-calibration|信任校准]]、[[ai-sycophancy|人工智能谄媚]]、[[critical-thinking|批判性思维]]、[[cognitive-offloading|认知卸载]]、[[critical-pedagogy|批判性教学法]]与[[reducing-ai-misuse|减少人工智能误用]]（另见[[framing-ai-use-for-students|如何向学生界定人工智能的使用]]）。学习者和教师如何决定采纳并依赖人工智能，由[[technology-acceptance-model|技术接受]]研究来建模，而[[global-south|全球南方]]研究则凸显采纳过程中的公平与文化情境。就实证而言，人工智能如何解释自身会塑造这种信任：[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 等（2025）]]表明，[[explainable-ai|可解释人工智能]]通过可理解性建立起教师对人工智能建议的信任，其中以学科驱动（课程语言）给出的解释，比数据驱动的特征重要性输出更受信任和接受。
+
+- **AI 如何被想象：** [[metaphors-and-analogies|隐喻与类比]]塑造教育者与学生对 AI 的期待，也可以作为一种[[ai-literacy|AI 素养]]的教学方法，正如 [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe、Perkins 与 Furze（2025）]]所展示的。
+
 - **这一领域的演变：**本知识库追溯了教育中的人工智能从早期[[intelligent-tutoring|智能导学系统]]与[[knowledge-tracing|知识追踪]]，走向大语言模型驱动的[[intelligent-tutoring|导学]]、[[pedagogical-agent|智能体]]与[[agentic-ai|智能体式 AI]]的历程，也就是从以工具为中心的研究快速转向社会技术框架（[[design-thinking|设计思维]]、[[curriculum-design|课程设计]]、[[institutional-change-framework-ai|机构变革]]），并从人工编写系统转向由用户驱动的工作流：学习者或[[teacher-role|非程序员]]用自然语言指定行为（[[vibe-coding|氛围编程]]）。[[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian 与 Doroudi]]用他们的 AI×Ed 框架把这一轨迹形式化，跨四十年会议论文集的论文追溯显示，这一领域从多样混合的格局，包括大量把人工智能当作人类智能与学习之类比的研究，转向几乎只关注应用性、数据驱动、面向研究者的用途；而[[llm|大语言模型]]的兴起如今似乎正在部分逆转这一转向（AIED 2024 上四篇“人工智能作为类比”的论文中，有三篇基于大语言模型）。
 - **情绪、焦虑与职业前景：**人工智能引发并塑造情绪反应，[[anxiety-and-stress|人工智能焦虑与压力]]涵盖监考监控、诚信担忧与职业被取代等，而[[career-development-and-readiness|职业发展与就业准备]]则涉及教育如何让学习者为一劳动力市场被人工智能扰动的未来做好准备（另见[[well-being|福祉]]）。
 
@@ -183,8 +186,11 @@ ai_assist:
 ## 关联概念
 
 - [[ai-literacy]]：总括概念，理解、使用与评价人工智能
+- [[automation-bias]]：读者一侧的失效——不加核查地接受自动判断
 - [[human-ai-collaboration]]：总括概念，人与人工智能如何协同工作
 - [[pedagogy]]：总括概念，教学方法与策略
+- [[case-based-learning]]：案例方法、案例讨论与对照案例
+- [[metaphors-and-analogies]]：隐喻如何塑造对 AI 的理解，类比如何支持教学
 - [[learning-theories]]：总括概念，学习如何发生
 - [[ai-technologies]]：总括概念，模型、方法与系统
 - [[discipline-specific-aied]]：总括概念，人工智能在各学科领域与层次中的应用
@@ -207,6 +213,9 @@ ai_assist:
 - [[philosophy-of-ai-in-education]]：哲学基础
 - [[theories-and-frameworks]]：理论与框架节点的图谱
 - [[theory-development-aied]]：构建与修订理论
+- [[sensor-and-gaze-analytics]]：总括概念，通过凝视、EEG 与可穿戴信号感知学习者
+- [[ai-avatars-and-synthetic-instructors]]：总括概念，合成人类的教学、辅导、模拟与评估
+- [[civic-and-political-education]]：学科领域，面向公共生活的素养，证据基础薄
 - [[pedagogical-patterns]] — 教育学模式：将该领域的教学法具体化的经验证序列
 - [[ai-assisted-educational-research]] — 人工智能辅助教育研究
 

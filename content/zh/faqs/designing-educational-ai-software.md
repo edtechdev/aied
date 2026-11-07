@@ -1,13 +1,13 @@
 ---
 title: "设计有效的教育人工智能软件有哪些最佳实践与技巧？"
 created: "2026-09-22T19:51:12-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -36,7 +36,7 @@ ai_assist:
 
 **1.** 写下系统决定什么、教师决定什么。这条边界就成为架构。
 
-**2.** 用真实课程材料评价多轮的、有学科意识的交互，而不是用通用安全量表评价单个提示词。
+**2.** 用真实[[curriculum-design|课程材料]]评价多轮的、有学科意识的交互，而不是用通用安全量表评价单个提示词。
 
 **3.** 让回答以已批准的内容为依据，并让核查组件与会话组件彼此分离。
 
@@ -72,7 +72,7 @@ ai_assist:
 
 ## 把学生作业当作不可信输入
 
-多数设计建议漏掉的那个威胁模型，就藏在被评价的作品内部。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）的对抗性红队评估]]检验了学生能否通过在自己提交物里植入提示词注入来操纵一个基于 LLM 的评分器，而操纵奏效了：那些指示、重新框定或角色扮演评分器的注入，在作业本身没变的情况下改变了分数。
+多数设计建议漏掉的那个威胁模型，就藏在被评价的作品内部。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）的对抗性红队评估]]检验了学生能否通过在自己提交物里植入提示词注入来操纵一个基于[[llm|LLM]]的评分器，而操纵奏效了：那些指示、重新框定或角色扮演评分器的注入，在作业本身没变的情况下改变了分数。
 
 把评分量表和指令放在学生可控的上下文窗口之外，剥离或标记像指令的内容，绝不让提交物设定自己的评分标准，并对任何有后果的成绩保留人的决定。一个从它所评判的文本里读取自己指令的评分器，已经把评分量表交给了考生。
 
@@ -103,6 +103,8 @@ ai_assist:
 检索索引做得好就意味着内容已经处理好。EduGuard 把检索与独立的核查器配对，并测试对抗性的直接求答案提示，因为有依据的检索仍然留下过度披露的路径。
 
 教师就是兜底。设计研究里的六位教师全都要求记录、告警和覆写，把它们当作专业责任的条件。一张支持工单不是覆写。
+
+享受感会替代契合度。在一项对 405 名设计专业研究生的调查中（[[chu-design-students-ai-agent-tam-ttf-2026|Chu 与 Liu（2026）]]），任务—技术契合在[[technology-acceptance-model|被感知的有用性]]之外，单独承载了一条通往态度的路径（β = 0.224），而任务特征对契合度的驱动强于工具特征（β = 0.322 对 0.266）。被感知的享受感提升易用性，对有用性毫无作用（β = −0.033，p = 0.483）。愉悦值得构建，但它不能替代把功能匹配到作业的步骤上。
 
 无障碍是以后的事。它要么进规格，要么变成重写；而生成的替代文本和字幕仍然需要人工检查。
 

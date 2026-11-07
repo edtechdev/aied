@@ -1,14 +1,14 @@
 ---
 title: 人文与社会科学教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,13 +35,16 @@ ai_assist:
 
 SSH教育是本知识库中一个独特的学科领域，与[[stem-education]]和[[language-learning]]互补。因为人文学科珍视诠释深度、作者身份与情境化判断，它们提出与STEM不同的AI整合挑战 —— 并以[[discipline-specific-aied|领域专属]]的方式连接到[[higher-ed]]与[[ai-literacy]]。
 
+公民与政治教育与这些学科是兄弟领域，而不是它们的分支，[[civic-and-political-education]] 单独处理它。知识库在这方面的证据很薄：八项来源触及该主题，但没有一项测量公民学习。
+
 ### AI如何出现在人文与社会科学教育中
 
 - **重构诠释性认知。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]论证，生成式AI充当一个重构SSH教育中意义制造、作者身份与学习者[[agency]]的*认识中介*。它识别了三种转变 —— 诠释性认知的外化、作者身份的混合化、与分布式认识能动性的出现 —— 以及三种发展轨迹（AI依赖、AI增强、AI批判式诠释）。这为保持诠释深度奠定了一个发展性-批判的[[pedagogy|教学]]模型。
+- **任务让读者看到什么，决定了作者身份是否可评估。** 在一项对 148 篇文本的模型模拟中，备忘录与修订答辩在论证可见度上得分为 3.16 与 3.10，而立场文章为 2.63，因为格式本身要求解释来源或回应反对意见（[[liu-argumentative-work-visible-genai-assessment-2026|Liu 与 Liu（2026）]]）。
 - **历史教育。** [[paternalistic-filter-llm-history-education|关于历史教育中LLM的研究]]考察AI如何塑造历史推理与史料诠释。
 - **人文与社科学生的体验。** [[genai-impact-chinese-students-hss|GenAI对中国人文社科学生的影响]]与[[acceptance-ai-english-tools-2026|语言/英语学习者中的AI接受度]]记录了跨SSH学科的学生面向效应。
 - **批判与哲学维度。** [[voicu-ai-interpretive-cognition-ssh-2026|批判性AI素养]]与[[philosophy-of-ai-in-education|教育中AI的哲学]]在SSH中尤为突出，因为意义、价值与认识论权威的问题居于中心。
-- **[[governance|机构的]]数字化转型。** Qin（2026）记录了岭南大学如何把自己重新定位为"数字时代的研究密集型博雅学府"，要求所有本科生具备GenAI素养（包括一门必修的一年级通识课程，涵盖生成式AI的潜在空间、GAN、扩散模型、[[prompt-engineering|提示]]、微调、偏见与错误信息）。该立场文件论证，AI-for-education的转变是一场*智识转型*而非技术中心主义的增强，把[[ai-literacy|数字流利]]定位为核心博雅能力，同时一个[[human-in-the-loop-ai|人在环中]]的模型把[[ethics|伦理]]推理、批判判断与社会责任置于前景 —— 这是[[higher-ed|高等教育]]平衡[[generative-ai|GenAI]]创新与人文基础的一份具体蓝图。
+- **[[governance|机构的]]数字化转型。** Qin（2026）记录了岭南大学如何把自己重新定位为"数字时代的研究密集型博雅学府"，要求所有本科生具备GenAI素养（包括一门必修的一年级通识课程，涵盖生成式AI的潜在空间、GAN、扩散模型、[[prompt-engineering|提示]]、[[llm-training-and-fine-tuning|微调]]、偏见与错误信息）。该立场文件论证，AI-for-education的转变是一场*智识转型*而非技术中心主义的增强，把[[ai-literacy|数字流利]]定位为核心博雅能力，同时一个[[human-in-the-loop-ai|人在环中]]的模型把[[ethics|伦理]]推理、批判判断与社会责任置于前景 —— 这是[[higher-ed|高等教育]]平衡[[generative-ai|GenAI]]创新与人文基础的一份具体蓝图。
 
 - **该领域的评估暴露面现已得到测量，且是集中而非弥散的。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]审计了澳大利亚八校联盟大学15,587条人文艺术单元记录，发现2026年58.6%的评估条目高度暴露于[[generative-ai|GenAI]]，按学分加权后，居家论文与研究报告占该暴露的71.4%。
 
@@ -51,14 +54,14 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 
 ## 对人文与社科教师的启示
 
-- **把AI当作认识中介，而非内容导师。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]表明AI重构了SSH中的意义制造、作者身份与能动性 —— 围绕三种轨迹（AI依赖、AI增强、AI批判）设计教学，并以AI批判一端为目标。
+- **把AI当作认识中介，而非内容导师。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]表明AI重构了SSH中的意义制造、作者身份与能动性 —— 围绕三种轨迹（AI依赖、AI增强、AI批判）来[[design-education|设计教学法]]，并以AI批判一端为目标。
 - **保护诠释深度与作者身份。** 因为人文学科珍视判断与原创作者身份，要防范AI扁平化分析；把对AI输出的批判性[[ai-ed-evaluation|评价]]当作一个学习目标（[[critical-thinking]]、[[ai-literacy]]）。
 - **在史料工作中刻意使用AI。** [[paternalistic-filter-llm-history-education|历史研究]]表明AI能塑造推理与史料诠释 —— 教学生质询AI中介的历史论断及其施加的过滤器。
 - **考虑学生面向的影响。** [[genai-impact-chinese-students-hss|学生体验研究]]记录了GenAI如何影响SSH学习者；依据真实用法而非假设调整支持与诚信框架。
 
 ## 常见误解
 
-**"人文学科是课程中受 AI 影响最小的部分。"** 暴露面已经被测量，它是集中而非弥散的：[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]审计了 **15,587 条人文艺术单元记录**，以确定暴露究竟落在哪里。它在各单元之间分布不均，而不是均匀摊薄，这使评估重设计成为一个有靶点的问题，而非全行业的问题。
+**"人文学科是[[curriculum-design|课程]]中受 AI 影响最小的部分。"** 暴露面已经被测量，它是集中而非弥散的：[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]审计了 **15,587 条人文艺术单元记录**，以确定暴露究竟落在哪里。它在各单元之间分布不均，而不是均匀摊薄，这使评估重设计成为一个有靶点的问题，而非全行业的问题。
 
 **"人文教育中的 AI 就是技术中心主义的增强。"** 本页所依据的立场文件论证，这一转变是一场*智识转型*而非增强，并把[[ai-literacy|数字流利]]定位为核心博雅能力。给一门未改变的课程加一个工具，是把转型误当成了它的工具。
 
@@ -80,6 +83,7 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## 关联文章
 
@@ -89,3 +93,4 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 - [[acceptance-ai-english-tools-2026]] — 语言与人文学科学习者中的AI接受度
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587个Go8人文艺术单元的计算审计：2026年58.6%的评估条目高度暴露于AI，集中于论文与报告
 - [[genai-values-education-affordances-risks-2026]] — 价值观教育中的生成式 AI：可供性、伦理风险与教学启示（Chen 2026）
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — 任务格式与 AI 使用说明作为制品所能证明的东西（Liu & Liu 2026）

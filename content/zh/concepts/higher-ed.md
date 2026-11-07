@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: 高等教育
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,7 @@ ai_assist:
 ## 对高等教育教师的启示
 
 - **为一个具备AI能力的学生群体设计评估。** 以检测为中心的诚信方法正让位于 [[authentic-assessment|真实性]]与基于过程的评价（[[beyond-detection-authentic-assessment-ai-2025|超越检测]]、[[ai-assessment-scale-reform|评估改革]]）——重新设计你评估的东西，而不只是你如何监管它。
-- **不要把考场内的禁令当作保证。** 智能眼镜与 AI 增强助听器是双重透明的：没有目光下垂或姿态变化可供检测，因此监考考试或口试再也无法通过物理隔离买来证据上的信心（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
+- **不要把考场内的禁令当作保证。** 智能眼镜与 AI 增强助听器是双重透明的：没有[[sensor-and-gaze-analytics|目光]]下垂或姿态变化可供检测，因此监考考试或口试再也无法通过物理隔离买来证据上的信心（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
 - **重新设计"学生仍应亲手学会什么？"这个问题。** 正如在计算领域，决定哪些技能必须被保留（验证、判断、过程），并把它们作为被评估的核心，而非假定AI技能会自动迁移。
 - **把教师准备度当作社会技术的而非仅技术的。** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] 在认识论、教学法、机构与质量领域框定准备度——把你的 [[pedagogy|教学实践]]与机构治理对齐，而不只是工具熟练。
 - **为教师资助 AI 素养，而不只是工具熟练度。** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] 发现，社会与组织支持仅通过 AI 素养间接地抵达高校教师的 AI 幸福感（β = 0.713），因此培养概念性、伦理性与教学性理解的项目，比单纯动手熟练度对教师更有益。

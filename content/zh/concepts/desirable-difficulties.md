@@ -1,14 +1,14 @@
 ---
 title: 可取的困难
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
 connected_faqs: [reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,10 @@ ai_assist:
 
 可取的困难建立在一个洞见之上：让学习在当时感觉更难的条件——要求费力的提取、生成或解释——往往比感觉轻松的条件产生更强的保持与[[transfer-of-learning|迁移]]。反过来，感觉轻松的条件（流畅的呈现、即时的答案）可能造成胜任力错觉：[[learners]]觉得他们懂材料，因为识别过程顺畅，而事后自由回忆却失败。这是**表现—学习差距**的理论核心：练习期间看起来不错的表现，与持久的学习并不是一回事。
 
+付出了却一无所获的努力并不是可取的困难。在一项有 302 名成年人学习 Python 入门的预注册实验中，在已经充分展开的[[ai-feedback-quality|AI 反馈]]之上加入自解释提示，使花在反馈上的时间翻倍（4.1 分钟对 2.1 分钟），完成的问题数从 3.4 降到 2.0，最终题得分为 45% 对 60%（d = .41）（[[structured-reflection-ai-explanatory-feedback-2026|Asher、Gold 与 Carvalho，2025]]）。该研究划出的边界是：当困难驱动了额外的提取、应用或比较时，它是可取的；当学习者已经得到关于具体错误的个性化解释时，它就是冗余的。
+
+知觉层面的误导本身也能充当可取的困难：[[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang 等（2026）]] 发现，数学运算符上不一致的颜色线索压低了即时猜测，却在他们六年级研究中产生了最强的保持剖面。在拟合 688 名六年级学生 19,952 个数据点的 BKT 模型中，中性间距加不一致颜色（NSIC）条件的猜测率为九种条件中最低（0.190），学习率却最高（0.0379），遗忘率最低（0.0054）。
+
 ## 困惑、认知摩擦与生产性挣扎
 
 三个相关构念描述了可取的困难运作的区域：
@@ -49,6 +53,8 @@ ai_assist:
 
 生产性失败是这一思想的、有结构的、理论驱动的版本：[[productive-failure|Kapur 的生产性失败]]（PF）把生产性挣扎正式化为两阶段设计（在教学*之前*先生成与探索，随后巩固与知识整合）。AI 时代的 PF 文献为本知识库提供了一套保全可取困难的具体设计词汇——[[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]推导出 AI 设计原则（[[human-ai-collaboration|人机协作]]、反思性设计、非指令性支持），使 AI 不至于抹除挣扎；[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等（2025）]]表明[[llm]]导学系统可以被引导去扣留解法并引出多次尝试；[[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]]把"安全差距"——AI 辅助表现与无辅助能力之间的分离——正式化为移除挣扎的代价；而[[rhaimi-productivemath-2025|ProductiveMath]]用 AI 降低设计 PF 问题的负担。这些表明，可取困难的原则可以转化为具体的 AI 设计选择。
 
+约束可以在写作课堂内部承载同样的设计逻辑。在一个为期九周的议论文写作单元中，[[making-ai-annoying-constrained-writing-2026|Konradt、Boote 与 Taub（2026）]] 给四名高中生由教师限定范围的聊天机器人，它们只提问而不生成文章；学生对 AI 输出提出反驳而不是消费它，在反论证与证据整合上有所增益的同时发展了提示素养。
+
 ## 可取的困难 vs. 认知摩擦 vs. 生产性摩擦
 
 由于 AI 被设计成无摩擦的——即时生成摘要、解方程、写论文——它可能无意间绕过学生学习所必需的那种挣扎。为对抗这一点，教育者与技术专家倚赖两个重叠但有别的框架：**可取的困难**与**生产性（或认知）摩擦**。两者都主张让学习者更难一些，但它们源自不同领域，针对学习过程的不同部分。在本知识库中，它们被当作同一个"有意努力"思想的同义词；下表详述标签之间的细微差别。
@@ -57,7 +63,7 @@ ai_assist:
 |---|---|---|
 | 主要目标 | 最大化长期记忆与知识迁移 | 防止[[cognitive-offloading]]并维持[[active-learning|主动投入]] |
 | 科学根源 | 认知科学与心理学（Bjork, 1994） | 人机交互（HCI）与用户体验设计 |
-| 所谓"威胁" | 胜任力错觉（因为现在感觉容易就以为自己懂了） | 自动化偏见（让机器替你思考） |
+| 所谓"威胁" | 胜任力错觉（因为现在感觉容易就以为自己懂了） | [[automation-bias|自动化偏见]]（让机器替你思考） |
 | AI 实现 | 对练习进行时序安排与结构化的算法（间隔、交错、提取） | [[conversational-ai|聊天机器人]]护栏与界面障碍，迫使学习者去做工作 |
 
 **可取的困难：记忆优化器。** 由 Robert 与 Elizabeth Bjork（1994）提出，这一框架来自[[cognitive-psychology|cognitive psychology]]。其核心思想是：感觉更难、初始表现更慢的学习策略，实际上产生更好的长期保持与[[transfer-of-learning|迁移]]。可取的困难关乎*大脑如何编码与提取信息*：如果学习在当时感觉太容易或太流畅（比如重读划了重点的教科书），大脑很可能没有进行让记忆留下所必需的深度加工。在 AI 中，一个使用这一框架的工具改变的是课堂的*[[pedagogy]]*——例如，在提供摘要之前先让学生从记忆中提取（提取练习）、把复习安排在遗忘之前（间隔）、或把题型混编而非按类别分组（交错）。值得注意的是，这些费力策略的收益本身是内容依赖的：[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]表明，提取练习主要强化逐字记忆（通过延迟遗忘），而获得一项可泛化的技能则需要把范例与练习整合——因此，有帮助的"困难"必须与被学知识的类型相匹配，而非一律施用。
@@ -70,11 +76,12 @@ ai_assist:
 
 AI 支持的学习所面临的核心张力在于，[[generative-ai|生成式 AI]]默认是一种消除摩擦的技术：它按需作答、生成并产出精致的成品。在本知识库中，这沿两个方向展开：
 
-- **移除挣扎的代价。** 当 AI 抹除间隔、提取与生成，学习者可能显示即时的表现增益，却放弃了持久的学习与迁移。这直接关联[[cognitive-offloading|过度依赖]]与[[ai-misuse-learning-harm]]的发现：一个移除了可取困难的 AI，制造了本知识库证据基础中到处记录的表现—学习差距。[[agentic-ai-pedagogical-best-practice-2026]]明确呼吁有意的摩擦。[[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui 的（2025）]]随机试验为这一原则在 AI 情境中提供了一次直接的延迟检验：120 名用无限制 ChatGPT 学习 AI/ML 主题的本科生，45 天后在一次突击保持测验中得 57.5%，而传统学习者得 68.5%（t(83) = −3.19，p = .002，Cohen's d = 0.68），且在以学习时间为协变量时这一缺陷依然成立（F(1, 82) = 7.89，p = .006）。损害在技术主题上最大（d = 0.92）——正是 AI 提供最多帮助、也最需要那种按原则说属于生产性的挣扎的材料。
+- **移除挣扎的代价。** 当 AI 抹除间隔、提取与生成，学习者可能显示即时的表现增益，却放弃了持久的学习与迁移。这直接关联[[cognitive-offloading|过度依赖]]与[[ai-misuse-learning-harm]]的发现：一个移除了可取困难的 AI，制造了本知识库证据基础中到处记录的表现—学习差距。[[agentic-ai-pedagogical-best-practice-2026]]明确呼吁有意的摩擦。[[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui 的（2025）]][[rct|随机试验]]为这一原则在 AI 情境中提供了一次直接的延迟检验：120 名用无限制 ChatGPT 学习 AI/ML 主题的本科生，45 天后在一次突击保持测验中得 57.5%，而传统学习者得 68.5%（t(83) = −3.19，p = .002，Cohen's d = 0.68），且在以学习时间为协变量时这一缺陷依然成立（F(1, 82) = 7.89，p = .006）。损害在技术主题上最大（d = 0.92）——正是 AI 提供最多帮助、也最需要那种按原则说属于生产性的挣扎的材料。
+- **代价也会迟到。** 一项对 26,811 名中国中学生的双重差分面板发现，作业分数上升 18%、完成时间下降 30%，而[[summative-assessment|闭卷考试]]分数在六个月内下降 20%。入学考试分数下降 18%（高考）与 24%（中考），完整的惩罚要到大约两年后才显现（[[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu，2026]]）。以周计的延迟能显示这项权衡的方向，却显示不出它的大小。
 - **同一个模型，两种护栏，相反结果：** 拿到无限制 GPT-4 的学生把它当作拐杖，一旦移除就比对照组表现更差；而拿到带护栏导学系统的学生则与对照组相当——决定工具是否有益的是摩擦，而不是模型（[[young-people-learning-generative-ai-rapid-review-2026|Arthars 等（2026）]]）。
 - **把挣扎设计回来。** 教学设计可以有意识地保全生产性加工：先草稿的流程、只给提示不给答案的导学、延迟反馈，以及回讲/解释协议。这些是在[[reducing-ai-misuse]]与[[structured-llm-feedback-programming]]之下探索的具体脚手架。一项 2026 年的概念延伸（[[friction-paradox-generative-ai-education-abroad-2026|Gupta]]）把同样的逻辑从结构化学习任务推进到关系性遭遇之中的困难：在海外教育中，它论证教育问题不在于生成式 AI 有多少在场，而在于它消解了哪些困难，并提出一个*中介梯度*，按其转移到系统的解释性[[agency]]之多寡、而非按使用量来排序各种用法。
 
-**倒 U 形与努力悖论。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]给出了近期对"AI 消除摩擦为何并非自动是好事"最锋利的陈述。他们以两个理由把 AI 与先前的省力[[ai-technologies|技术]]区分开：它瞄准的是智力与创造性工作，而非体力或文书工作；而它的摩擦消除是*极端*的——先前的技术消除的是多余的摩擦，"那些对学习或意义几无益处的乏味或不可逾越的障碍"，而一个聊天机器人让学习者从构思走到评价，"无需付出有意义的努力、无需质疑输出、无需投入培养拥有感、保持或批判性思考的认知过程"。他们组织性的主张是：努力—意义关系是曲线性的——中等摩擦增强意义与动机，过度摩擦则压垮人——因此 AI 的风险在于越过界进入摩擦太少，而非摩擦过多。两个后果在教学上要紧——努力本身是一种可训练的技能（奖励过程而非产物会增加努力与坚持的倾向），而努力在动机上的收益，恰好在 AI 取而代之的那些领域中被侵蚀，形成不断加深的依赖循环（[[cognitive-offloading]]、[[motivation]]）。
+**倒 U 形与努力悖论。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]给出了近期对"AI 消除摩擦为何并非自动是好事"最锋利的陈述。他们以两个理由把 AI 与先前的省力[[ai-technologies|技术]]区分开：它瞄准的是智力与创造性工作，而非体力或文书工作；而它的摩擦消除是*极端*的——先前的技术消除的是多余的摩擦，"那些对学习或意义几无益处的乏味或不可逾越的障碍"，而一个[[conversational-ai|聊天机器人]]让学习者从构思走到评价，"无需付出有意义的努力、无需质疑输出、无需投入培养拥有感、保持或批判性思考的认知过程"。他们组织性的主张是：努力—意义关系是曲线性的——中等摩擦增强意义与动机，过度摩擦则压垮人——因此 AI 的风险在于越过界进入摩擦太少，而非摩擦过多。两个后果在教学上要紧——努力本身是一种可训练的技能（奖励过程而非产物会增加努力与坚持的倾向），而努力在动机上的收益，恰好在 AI 取而代之的那些领域中被侵蚀，形成不断加深的依赖循环（[[cognitive-offloading]]、[[motivation]]）。
 
 ## 设计启示
 
@@ -100,6 +107,7 @@ TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormom
 - [[pedagogical-patterns]] — 为何费力的顺序胜过流畅的顺序
 - [[learning-by-teaching]]
 - [[self-regulated-learning]]
+- [[automation-bias]] — 生产性摩擦所要防止的那种失效
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[scaffolding]]
@@ -138,3 +146,5 @@ TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormom
 - [[making-ai-annoying-constrained-writing-2026]] — 故意把 AI 做得烦人：AI 支持写作中的约束（Konradt, Boote & Taub 2026）
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 迈向反思性 AI 投入中技能保全性依赖的开放问题
+- [[structured-reflection-ai-explanatory-feedback-2026]] — 在已充分展开的 AI 反馈上加入自解释提示：时间翻倍，学习无增益（Asher、Gold 与 Carvalho 2025）
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 的学习惩罚：作业分数上升而考试分数下降，完整代价在两年后（Strömberg、Lei 与 Wu 2026）

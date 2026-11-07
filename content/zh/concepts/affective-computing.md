@@ -1,7 +1,7 @@
 ---
 title: 情感计算
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,15 +48,15 @@ ai_assist:
 
 - **好处。**计入情绪状态可以改善[[student-engagement|投入]]与结果；感到被理解的学习者坚持得更久，及早识别沮丧能促成及时的[[scaffolding]]或[[adaptive-learning]]调整。
 - **风险。**看似共情的自动化会助长[[cognitive-offloading|过度依赖]]与准社会依赖，掩盖真正的[[metacognition|元认知]]抽离，并因持续的情感监控引发[[privacy]]关切。[[ai-sycophancy|人工智能谄媚]]是一个核心的情感风险：在情感上迎合、只肯定而不挑战的人工智能，会侵蚀批判性判断，甚至挤占真实的人际关系——[[sycophantic-ai-social-interaction-2026|Ibrahim 等]]显示，谄媚式的人工智能使用户向它征求个人建议的频率，几乎与向亲密朋友和家人一样高，而真实世界互动中的满足感更低。[[ai-fatigue-academic-contexts]]与[[ai-campus-wellbeing-tools]]进一步把情感人工智能与学习者的[[well-being]]联系起来。
-- **投入不是学习的代理指标。**一项脑感知研究发现，一个受约束的自适应界面提高了认知投入（p = .018），而不受限的聊天机器人产生了更高的学习增益（p < .03，d > 0.80），因此情绪或投入信号可能指向它所要服务的结果的反面（[[socratic-nuclear-ai-learning|Clin Deffarges 等（2026）]]）。
+- **投入不是学习的代理指标。**一项脑感知研究发现，一个受约束的自适应界面提高了认知投入（p = .018），而不受限的聊天机器人产生了更高的[[learning-gains|学习增益]]（p < .03，d > 0.80），因此情绪或投入信号可能指向它所要服务的结果的反面（[[socratic-nuclear-ai-learning|Clin Deffarges 等（2026）]]）。
 
 ### 情感计算与更宽的人工智能教育
 
 情感计算处于[[affective-tutoring]]（其教学应用）、[[student-modeling]]（表征包括情绪在内的整个学习者）与[[learning-analytics]]（从学习者数据导出信号）的交汇处。它连接到[[intelligent-tutoring]]设计与[[pedagogical-safety]]——即"人工智能应当支持而非操纵学习者情绪"这一原则。
 
 - **实时的、基于边缘的课堂情绪监控。**[[emotion-aware-classroom-iot-monitoring-2026|Nguyen 等（2026）]]构建了一个情绪感知的课堂质量评估系统，把情感计算推进到真实、大规模的场域。专为 **IoT/边缘设备**打造，该系统在处理负载均衡与延迟的同时，协调多个代理实时捕获学生的情绪与投入模式。它在**课堂情绪数据集**（来自越南真实 K–12 课堂的 1,500 张标注图像与 300 段课堂视频）上被评估，聚焦多人、真实场景中的情感互动——这是把情绪识别从实验室模型扩展到可部署的课堂监控的示范，也伴随着这类监控所引发的隐私与[[pedagogical-safety]]考量。
-- **有情绪智能的评估代理。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]是一个[[llm]]增强的、有情绪智能的[[conversational-ai|会话代理]]，它在保持[[usability-research|可用性]]的同时，降低了学生在表现性评估中的焦虑与社会压力。
-- **通过提示设计而非感知来工程化共情。**情感支持并不要求情感检测：[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]在两个仅提示规定的角色与对话动作不同的大语言模型[[physics-education|物理]]代理之间，获得了*共情感知*上的巨大差异（21.27 对 18.24；r = 0.53）——这些动作是换位思考式的开场（"你会问这个问题，是因为……"）、[[misconceptions|迷思概念]]诊断，以及每轮结束时的一次理解检查——而模型、平台与温度保持不变。这是对传感器驱动的情感计算的一个有益制衡：一个[[pedagogical-agent]]被感知到的情感质量可以被设计进互动脚本，同时也提醒设计者，被感知的共情是一个自陈构念，而非真实情感理解的证据（[[student-ai-interaction]]）。
+- **有情绪智能的评估代理。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]是一个[[llm]]增强的、有情绪智能的[[conversational-ai|会话代理]]，它在保持[[usability-research|可用性]]的同时，降低了学生[[anxiety-and-stress|焦虑]]与社会压力。
+- **通过提示设计而非感知来工程化共情。**情感支持并不要求情感检测：[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]在两个仅提示规定的角色与对话动作不同的大语言模型[[physics-education|物理]]代理之间，获得了*共情感知*上的巨大差异（21.27 对 18.24；r = 0.53）——这些动作是换位思考式的开场（"你会问这个问题，是因为……"）、[[misconceptions|迷思概念]]诊断，以及每轮结束时的一次理解检查——而模型、平台与温度保持不变。这是对传感器驱动的情感计算的一个有益制衡：一个[[pedagogical-agent]]被感知到的情感质量可以被设计进互动脚本，同时也提醒设计者，被感知的共情是一个[[self-report-measures|自陈]]构念，而非真实情感理解的证据（[[student-ai-interaction]]）。
 - **提示教师而非调整辅导系统的告警。**[[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan（2026）]]在一所高中几何课堂中部署了 Dash4Emotion：红框矩形标出被解读为处于负面情绪的学生；在 20 个被识别的片段中（报告了五个），改变投入的是教师对告警的回应，而非告警本身。其设计要点是：情感感知可以喂给一个人来做决定，而不是喂给自适应辅导系统的下一步——同时附带该研究自己的告诫：它报告说未对面部表情检测做验证，因此该信号是供教师解读的提示，而非关于学生内部状态的证据。
 
 ## 常见误解

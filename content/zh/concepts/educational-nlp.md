@@ -1,13 +1,13 @@
 ---
 title: 教育NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,9 @@ ai_assist:
 - **学生语言分析。** [[llm-sentiment-analysis-education-research]] 将基于LLM的情感分析应用于教育研究，从学生文本中大规模提取情感与评价信号，为 [[learning-analytics]] 与 [[affective-computing]] 提供输入。
 - **预测与测量。** [[llm-item-difficulty-prediction]] 与 [[vocabulary-difficulty-prediction]] 利用语言模型估计试题与文本难度——这是 [[educational-measurement]]、[[adaptive-learning]] 与 [[item-response-theory]] 模型的核心输入。
 - **可读性与[[curriculum-design|课程]]对齐。** Bird（2026）将Transformer文本分类与计算语言学特征融合，按英国 Key Stage 对英国文学作品进行分类，F1 达到 0.996——它是 [[vocabulary-difficulty-prediction]] 与 [[llm-item-difficulty-prediction]] 在 [[educational-measurement]] 与阅读水平对齐方面一个数据驱动的补充。
+
+- **生成的文本自带[[reading-education|可读性负担]]。** Clark 等（2026）发现，近期模型相对于其自身的保义改写以及体裁匹配的人类基线，过度使用了加工文献与理解成本相关联的构式——低频 n-gram、名词堆叠、名物化动词、长依存、缩减的宾语关系从句——并把这一模式追溯到奖励信息密度而非清晰度的后训练（[[clark-ai-generated-language-readability-2026]]）。因此，测量文本难度不仅适用于要求模型简化的学习者文本，也适用于模型自己写出的文本。
+
 - **语义相似性在课程对齐中是弱信号。** 对 3,837 对牙科目标—摘要配对进行筛查后，嵌入检索加自然语言推理检查判定 22.9% 的高相似匹配（余弦 0.90–1.00）为中性或矛盾，并将专家标注的准确率从 0.69 提升到 0.73（[[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]）。
 
 - **话语层面的分类定位了表层特征遗漏的东西。** 一个仅在其最后四个Transformer层上微调的BERT模型把相邻句子对分类为因果、对比、递进或不连贯，并输出断点作为诊断，在 28,736 个句子对上达到至少 0.891 的平均F1（[[bert-discourse-english-teaching-2026|Wang et al., 2026]]）。
@@ -59,6 +62,9 @@ ai_assist:
 - **通过把断言与解释分离实现可审计的编码。** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] 用 221 条人类可读断言的模式——74 条源自语料、48 条源自构念、100 条自动的词汇存在检查——取代单标签提示，由一个透明分类器把它们映射为构念标签，在 TalkMoves 教师话语语料上达到宏F1 0.673 与 Cohen's κ 0.688，对比已发表的直接提示最大值宏F1 0.61 与 κ 0.58，同时落后于微调的 RoBERTa-base 分类器的 0.76。要求 Krippendorff's α ≥ 0.5 只保留了 74 条源自语料的断言中的 33 条，而仅用词汇的基线宏F1为 0.339，可见增益来自习得的行为断言而非关键词频率。
 - **大规模的概念标注。** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] 把知识概念标注拆分为 Select–Reason–Judge 流水线——小模型筛出候选概念，LLM在候选集上推理，再由评判者定夺——通过缩小模型的决策空间，在三个基准上提升了标注准确率。
 - **手写作答纸抵抗现有解析器。** 多行推导、交错的文字与公式、手绘表格，以及涂改与擦除带来的噪声，都逃出了面向印刷文档与孤立表达式的基准测试，因此 HANS 数据集——来自 745 名学生、覆盖 18 种题型、共 5,213 张八年级数学习题的真实作答图像——标注了这类噪声，并支撑了一个提升识别率的噪声抑制模型（[[hans-handwritten-answer-sheet-parsing-2026|Wu 等人（2026）]]）。
+
+- **ASR 转录的实体保真度是与词汇准确度分开的问题。** 用人类参考转录对五种语音识别系统做基准测试时，[[wang-educational-video-transcripts-llm-analysis-2026|Wang、Pritchard 与 Rosenberg（2026）]]报告了本知识库首个 ASR/NER 实体保真度证据：词错误率从 2.43%（TurboScribe）到 15.32%（Vosk）不等，而七类金标准实体类型编码显示 GPT-5.5 达到准确率 0.805（κ = .726），spaCy 为 0.634（κ = .488）。
+单靠汇总 WER 无法证明实体结构在转录中存活下来。
 
 ### 与辅导和测量的联系
 

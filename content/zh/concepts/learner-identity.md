@@ -1,7 +1,7 @@
 ---
 title: 学习者身份
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ ai_assist:
 - **学生如何框定工具，塑造了他们的职业生成。** 仅把生成式 AI 当作社会情感伙伴的学生，对其专业学习产出的反思不如那些同时也把它框定为技术、学习材料或结构的学生那样有区分度（[[genai-professionalization-metaphors-2026|Bohmer 等，2026]]）。
 
 - **有保留的采纳：有选择的 AI 使用作为身份保护。** [[guarded-adoption-genai-higher-education-2026|Zagami（2026）]]在一所澳大利亚大学调查了 484 名学生，发现成绩更高的学生报告的*更低*的主动[[generative-ai|生成式 AI]]参与、更低的对 AI 的积极情感、更低的[[self-report-measures|感知学习]]影响和更低的 AI 相关脱离，最强关联出现在感知学习影响的 rho = -0.395 和积极情感的 rho = -0.359。他们的开放回答描述了一种有选择的（澄清、摘要、工作流支持）、经过核验的、并从属于自身判断的使用方式，而项目层面结果显示，对"依赖 AI 会妨碍[[critical-thinking]]和独立[[problem-solving|解决问题]]"有更高的同意度。作者把这读作身份工作：对那些"自己是成功学习者"的自我感建立在自身努力和判断之上的学生，为 AI 使用设界是在守护身份所依赖的[[agency|认识能动性]] —— 这也意味着该模式既不是技术恐惧，也不是低参与。
+- **声明了目的，并不必然支配一次 AI 决定。** [[ting-ai-learning-ownership-purpose-2026|Ting 等（2026）]] 访谈了 14 名本科生，并对每份访谈编码，考察学生的[[self-determination-theory|目的]]——一种有个人意义、要超越自我作出贡献的意向——与其 AI 选择之间的关系。只有部分人建立了这种联系：一人因为 AI 的环境与人力成本与她的目的相悖而拒绝 AI，三人让未来的职业身份塑造了他们的选择（"contributes to the psychologist that I will be out in the world one day"）。另一些同样有清晰目的的人却没有建立这种联系，把目的与 AI 描述为"算是分开的"，因此有一个可保护的身份，并不等于会动用它。论文还把学生为自己的工作保留给自己的理由分开——技能发展、[[evaluative-judgment|所有权与自豪]]、道德反对——它们经由不同机制到来，不应被并入一种动机。
 
 ## 与学习者能动性的关系
 
@@ -84,7 +85,7 @@ ai_assist:
 
 **“AI 辅助降低了门槛，因此扩大了参与。”** 它可以降低产出作品的门槛，同时收窄主张作者身份的门槛。提交一份自己并未撰写的流畅制品的学生，获得了结果，却被剥夺了建构其背后身份的识别。
 
-**“识别学习者身份就是在内容中有代表性。”** 代表性重要，而识别在实践中被实施：谁的问题被采纳、谁的贡献被记名、谁被视为有能力。一份课程可以有代表性，却仍然扣留身份形成所需的识别。
+**“识别学习者身份就是在内容中有代表性。”** 代表性重要，而识别在实践中被实施：谁的问题被采纳、谁的贡献被记名、谁被视为有能力。一份[[curriculum-design|课程]]可以有代表性，却仍然扣留身份形成所需的识别。
 
 ## 关联概念
 
@@ -105,6 +106,8 @@ ai_assist:
 - [[k-12]]
 
 ## 关联文章
+
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 名本科生谈他们仍亲自动手做什么，以及为什么目的很少起决定作用
 
 - [[guarded-adoption-genai-higher-education-2026]] —— 对高等教育中生成式 AI 的有界采纳
 - [[t2i-competence-paradox-2026]] —— 胜任力悖论：文生图 GenAI 使用中的创意身份

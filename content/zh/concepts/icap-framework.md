@@ -1,7 +1,7 @@
 ---
 title: ICAP 框架
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-10-25T21:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **ICAP 框架**（Interactive–Constructive–Active–Passive，互动—建构—主动—被动） —— 由 Michelene Chi 发展的一种认知投入分类学，把学习者行为划分为四种知识变化模式，按认知投入从低到高排列：*被动*、*主动*、*建构*与*互动*。在人工智能教育中，ICAP 既提供一个设计目标（构建引出建构性与互动性投入、而非被动消费的工具），也提供一个评估透镜（测量学习者与 AI 系统是否真的处于较高的模式）。（[[hingle-collaborative-ai-literacy-2025]]）（[[icap-cognitive-engagement-llm-agents]]）
+> **ICAP 框架**（Interactive–Constructive–Active–Passive，互动—建构—主动—被动） —— 由 Michelene Chi 发展的一种认知投入分类学，把学习者行为划分为四种知识变化模式，按认知投入从低到高排列：*被动*、*主动*、*建构*与*互动*。在[[ai-education|人工智能教育]]中，ICAP 既提供一个设计目标（构建引出建构性与互动性投入、而非被动消费的工具），也提供一个评估透镜（测量学习者与 AI 系统是否真的处于较高的模式）。（[[hingle-collaborative-ai-literacy-2025]]）（[[icap-cognitive-engagement-llm-agents]]）
 
 ## 值得思考的问题
 
@@ -34,7 +34,7 @@ ai_assist:
 
 ## 引言
 
-ICAP 立足于一个假设：*学习者做什么*决定了他们学到多少、学到什么。Chi 的框架主张，随着投入从被动到主动、到建构、再到互动，知识变化的性质也在深化——从存储，到注意，到把新知识与先前知识整合，到通过对话共同创造知识。这使 ICAP 成为分析 AI 教育的有力工具，因为这里的核心设计问题是 AI 辅助究竟是支持还是取代了学习者的认知投入。
+ICAP 立足于一个假设：*学习者做什么*决定了他们学到多少、学到什么。Chi 的框架主张，随着投入从被动到主动、到建构、再到互动，知识变化的性质也在深化——从存储，到注意，到把新知识与[[prior-knowledge|先前知识]]整合，到通过对话共同创造知识。这使 ICAP 成为分析 AI 教育的有力工具，因为这里的核心设计问题是 AI 辅助究竟是支持还是取代了学习者的认知投入。
 
 ## 四种模式
 
@@ -49,11 +49,11 @@ ICAP 立足于一个假设：*学习者做什么*决定了他们学到多少、�
 
 ### AI 工具的设计目标
 
-ICAP 重构了 AI 教育的核心设计问题：一个*替学习者作答*的 AI 工具使他们停留在被动/主动模式，而一个*提示、提问并[[scaffolding|搭支架]]*的工具则能把学习者推向建构性与互动性投入。这使 ICAP 与[[constructivist]]教学法和[[active-learning]]研究一致。（[[multimodal-learning-genai]]）（[[hingle-collaborative-ai-literacy-2025]]）
+ICAP 重构了 AI 教育的核心设计问题：一个*替学习者作答*的 AI 工具使他们停留在被动/主动模式，而一个*提示、提问并[[scaffolding|搭支架]]*的工具则能把学习者推向建构性与互动性投入。这使 ICAP 与[[constructivist]] [[pedagogy|教学法]]和[[active-learning]]研究一致。（[[multimodal-learning-genai]]）（[[hingle-collaborative-ai-literacy-2025]]）
 
 ### AI 代理的评估透镜
 
-ICAP 同时充当一个测量框架。在一项研究中，研究者把 ICAP 扩展为 7 点量表，以刻画协作对话中的认知投入，随后把训练有素的人工标注者与基于 LLM 的标注（上下文学习、零样本提示与反思性代理）作比较。人类评分者间信度（kappa = 0.906–0.998）远超 LLM 标注（kappa = 0.541–0.609），凸显了 ICAP 在[[learning-analytics]]流水线的自动化投入测量中的作用——以及当前限度。（[[icap-cognitive-engagement-llm-agents]]）
+ICAP 同时充当一个测量框架。在一项研究中，研究者把 ICAP 扩展为 7 点量表，以刻画协作对话中的认知投入，随后把训练有素的人工标注者与基于 [[llm|LLM]] 的标注（上下文学习、零样本[[prompt-engineering|提示]]与反思性代理）作比较。人类评分者间信度（kappa = 0.906–0.998）远超 LLM 标注（kappa = 0.541–0.609），凸显了 ICAP 在[[learning-analytics]]流水线的自动化投入测量中的作用——以及当前限度。（[[icap-cognitive-engagement-llm-agents]]）
 
 ### 引导协作对话的促成
 
@@ -61,19 +61,21 @@ ICAP 同时充当一个测量框架。在一项研究中，研究者把 ICAP 扩
 
 ### ICAP 与学习分析设计
 
-ICAP 支撑着对浅层"投入"指标的批评：通过点击过滤器与仪表盘互动是*主动*而非*互动*的投入。有效的学习分析设计引出自我评估与双向对话，而非仅仅展示数据——这是直接从 Chi 的框架得出的推论。（[[interactive-learning-dashboards-engagement]]）
+ICAP 支撑着对浅层"投入"指标的批评：通过点击过滤器与仪表盘互动是*主动*而非*互动*的投入。有效的学习分析设计引出[[self-assessment|自我评估]]与双向对话，而非仅仅展示数据——这是直接从 Chi 的框架得出的推论。（[[interactive-learning-dashboards-engagement]]）
 
 ### 主动→建构的转变作为关键一步
 
 尽管 ICAP 描述的是一个层级，对学习最有后果的转变却是从*主动*到*建构*模式的跃迁（Chi & Boucher，2023）。主动投入（把知识应用到相似但非相同的情境）让学习者有所准备，但正是建构性投入——生成解释、摘要或新造物——使他们能够创造新知识。这是 AI 教育的要害：一个把学习者留在主动模式的工具（例如点击完成自适应练习）可能看起来高效，却从不把他们推入产出持久理解的建构性生成。刻意把主动→建构跃迁搭起支架来的协作性与读写聚焦干预，往往显示出最强的增益。（[[hingle-collaborative-ai-literacy-2025]]）
 
+这一主张中"最强增益"的部分是从框架作出的推断，而不是该综述实际运行的一项比较。其背后的九项研究综述（2015–2023）统计的是有多少干预*包含*了各模式（被动 9、主动 5、建构 7、互动 8），没有报告按模式的效应量，并指出没有一项纳入研究只依赖单一模式，因此其中没有任何东西把主动→建构的跃迁单独分离出来（[[hingle-collaborative-ai-literacy-2025|Hingle 等，2025]]）。排序是 Chi 的；该综述补充的是，实践者是在组合模式，而不是在选择其中一种。
+
 ### ICAP 作为 ITS 中的自适应支架信号
 
-ICAP 的模式可以被操作化为*目标状态*，一个自适应导师可据以基于演进中的学生模型来选择、为认知投入搭建支架。在一个逻辑 ITS 中，[[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi 等]]在*主动*的"引导"解题示例模式与*建构*的"错解"示例模式之间动态选择。在 113 名学生上把贝叶斯知识追踪（BKT）与深度强化学习（DRL）及非自适应基线作比较，两种自适应策略都改善了后测表现——但方式有别：BKT 给先前知识低的学生带来最大增益（帮助他们赶上），而 DRL 在先前知识高的学生中产生最高后测分数。这具体证明了：有效*个性化*智能导师的 ICAP 模式，取决于对学习者当前知识的建模——且没有任何单一模式或自适应方法适合每一位学习者。这直接把 ICAP 层级连接到[[adaptive-learning]]与[[knowledge-tracing]]设计。
+ICAP 的模式可以被操作化为*目标状态*，一个[[intelligent-tutoring|自适应导师]]可据以基于演进中的[[student-modeling|学生模型]]来选择、为认知投入搭建支架。在一个逻辑 ITS 中，[[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi 等]]在*主动*的"引导"解题示例模式与*建构*的"错解"示例模式之间动态选择。在 113 名学生上把贝叶斯知识追踪（BKT）与深度[[reinforcement-learning|强化学习]]（DRL）及非自适应基线作比较，两种自适应策略都改善了后测表现——但方式有别：BKT 给先前知识低的学生带来最大增益（帮助他们赶上），而 DRL 在先前知识高的学生中产生最高后测分数。这具体证明了：有效*个性化*智能导师的 ICAP 模式，取决于对学习者当前知识的建模——且没有任何单一模式或自适应方法适合每一位学习者。这直接把 ICAP 层级连接到[[adaptive-learning]]与[[knowledge-tracing]]设计。
 
 ### ICAP 作为生成类人代理的认知状态模型
 
-在选择任务模式之外，ICAP 还被直接嵌入一个生成式教育代理的*认知模型*之中。[[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]]构建了一个基于 ICAP 的"认知深度感知器"，把输入映射为跨四种 ICAP 水平的概率分布，并将它与受进化启发的状态更新及项目反应理论记忆检索融合，以模拟学生的认知演化（包括困惑 → 顿悟之类的转变）。消融实验显示，移除 ICAP 感知模块会使代理区分浅层与深层学习的能力崩塌——这是 ICAP 分类学可以作为[[simulating-students|学生模拟]]中细粒度、内部认知投入测量的证据，而不只是一个外部评估透镜。
+在选择任务模式之外，ICAP 还被直接嵌入一个生成式教育代理的*认知模型*之中。[[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]]构建了一个基于 ICAP 的"认知深度感知器"，把输入映射为跨四种 ICAP 水平的概率分布，并将它与受进化启发的状态更新及[[item-response-theory|项目反应理论]]记忆检索融合，以模拟学生的认知演化（包括困惑 → 顿悟之类的转变）。消融实验显示，移除 ICAP 感知模块会使代理区分浅层与深层学习的能力崩塌——这是 ICAP 分类学可以作为[[simulating-students|学生模拟]]中细粒度、内部认知投入测量的证据，而不只是一个外部评估透镜。
 
 ### ICAP 锚定反思性 GenAI 互动的评估
 

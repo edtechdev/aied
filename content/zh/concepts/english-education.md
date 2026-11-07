@@ -1,7 +1,7 @@
 ---
 title: 英语教育（EAP / EFL / ESL）
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **学术英语（EAP）：** 对高等教育写作、阅读和反馈中使用的、基于体裁的学科特定英语的 AI 支持——区别于一般写作教学。
 - **英语语言教学（EFL/ESL/L2）：** 面向英语学习者的[[intelligent-tutoring|AI 导师]]、对话伙伴和[[feedback]]工具。
 - **英语特定的[[assessment]]：** 对英语写作与口语的自动评估和反馈，包括 EAP 写作修改和 L2 写作评估。
-- **阅读与文学可读性：**[[bird-multimodal-educational-literature-2026|Bird（2026）]]把 transformer 文本分类与计算语言学特征融合，按英国 Key Stage 对英国文学进行分类，达到 0.996 的 F1——这是对基于体裁的 EAP 阅读支持和阅读水平对齐的一种可扩展的、数据驱动的补充。
+- **阅读与文学[[reading-education|可读性]]：**[[bird-multimodal-educational-literature-2026|Bird（2026）]]把 transformer 文本分类与计算语言学特征融合，按英国 Key Stage 对英国文学进行分类，达到 0.996 的 F1——这是对基于体裁的 EAP 阅读支持和阅读水平对齐的一种可扩展的、数据驱动的补充。
 - **语言公平：** AI 的英语主导与多语及世界英语写作者需求之间的张力。
 
 ## 英语教育如何区别于语言学习
@@ -54,7 +54,7 @@ ai_assist:
 | 维度 | [[language-learning]] | **英语教育（本页）** |
 |-----------|----------------------|-----------------------------------|
 | 目标语言 | 任何 L2（法语、西班牙语、日语……） | 专指英语 |
-| 焦点 | 一般性的 L2 习得：口语对话、发音、识字 | 英语作为目标语言 + 学术英语语域 |
+| 焦点 | 一般性的 L2 习得：[[speech-and-voice-technologies|口语对话]]、发音、识字 | 英语作为目标语言 + 学术英语语域 |
 | 标志性语境 | 会话、发音、一般流利度 | **EAP**：学术写作、阅读、反馈、体裁 |
 | 代表性 AI | L2 对话伙伴、[[speech-and-voice-technologies|发音反馈]]、机器人辅助 L2 | EAP 写作工具、EFL 同伴反馈、英语学术写作评估 |
 
@@ -84,18 +84,18 @@ ai_assist:
 
 AI 的英语主导性是这条支线的定义性特征。因为模型在英语中、尤其在标准学术英语中最强，英语教育既受益超常（强大的 EAP 支架），也承担独特风险（单语偏见、对世界英语和多语写作者的歧视）。这里的研究连接到[[equity-in-ai-education|公平]]、[[bias-mitigation|偏见缓解]]、[[automated-assessment|自动评估]]、[[ai-feedback-quality|AI 反馈质量]]和[[academic-integrity|学术诚信]]。
 
-一项基于 Scopus 的 54 项 EFL 研究综合，把该领域被报告最多的[[limitations-in-aied-research|局限]]定位在学习者自主性上：27 项研究（50%）中存在[[cognitive-offloading|对 AI 的过度依赖]]，25 项（46%）中[[critical-thinking|批判性思维]]下降，而不可靠的 AI 生成输出在 22 项（41%）中是首要的技术问题（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama（2026）]]）。
+一项基于 Scopus 的 54 项 EFL 研究综合，把该领域被报告最多的[[limitations-in-aied-research|局限]]定位在学习者[[agency|自主性]]上：27 项研究（50%）中存在[[cognitive-offloading|对 AI 的过度依赖]]，25 项（46%）中[[critical-thinking|批判性思维]]下降，而不可靠的 AI 生成输出在 22 项（41%）中是首要的技术问题（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama（2026）]]）。
 
 ## 对英语 / EAP / EFL-ESL 教师的启示
 
 - **刻意利用 AI 在学术英语上的强项。**因为模型在英语和标准学术英语中最强，EAP 教师可以把 AI 用于基于体裁的写作、阅读材料分层（[[genai-differentiated-eap-reading-materials-2026|EAP 材料]]）和修改反馈——但应把 AI 框定为起草/反馈伙伴，而非答案引擎。
-- **保护学术英语语域与反馈素养。**[[feedback-literacy-scripts-eap-writing|EAP 写作修改]]显示，反馈只有在学习者的反馈素养支撑下才有生产力——教学生解读、评判和依 AI 反馈行动，并用第二评分者机制核查 AI 质量。
+- **保护学术英语语域与[[feedback-literacy|反馈素养]]。**[[feedback-literacy-scripts-eap-writing|EAP 写作修改]]显示，反馈只有在学习者的反馈素养支撑下才有生产力——教学生解读、评判和依 AI 反馈行动，并用第二评分者机制核查 AI 质量。
 - **留意英语主导的公平张力。**模型偏袒标准学术英语，边缘化世界英语和多语写作者（[[genai-linguistic-diversity-academic-writing|世界英语]]、[[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]）——审计反馈中的单语偏见和降低的期望。
 - **把 AI 合乎伦理地整合进 EAP。**[[alharbi-ethical-genai-eap-2026|EAP 中符合伦理的生成式 AI]]呼吁在[[higher-ed]]英语教学中透明、负责任地使用，以维护学术诚信。
 - **预期谨慎的、先准备后进课堂的采纳路径。**一项对 23 项研究的[[li-language-educators-genai-review-2026|系统综述]]（Li et al. 2026）发现，语言教师最看重[[generative-ai|生成式 AI]]在幕后准备上的价值——备课、材料制作和写作支持/反馈——而对直接的课堂使用犹豫不决，主要关切集中在[[academic-integrity|学术诚信]]（抄袭和[[assessment-validity|评估效度]]）。采纳受专业身份认同、[[pedagogy|教学]]、技术、[[governance|制度]]和诚信因素塑造，能力缺口则映射到 episteme（理解 AI 的能力与局限）、techne（[[prompt-engineering]]、AI 增强的任务/评估设计、识别 AI 生成文本）和 phronesis（[[ethics|伦理]]判断、偏见/隐私处理）——因此 EAP/EFL 教师应当刻意培养这些能力，并规划一条"先后台、后课堂"的实施路径。
 - **按熟练度和需求做区分。**[[ai-vs-human-assessment-efl-tpck-2026|EFL 评估]]和适应性辅导研究支持按学习者水平定制 AI 支持和评估，而非一刀切。
 
-- **把技术权重向产出性技能倾斜。**一项对 33 项 TEFL 研究的元分析发现了小到中等的总体效应（g = 0.38，经剪补法后降为 0.28），该效应随教育层级上升而增强，且更利于产出性技能——说与写——而非接受性技能（[[liu-emerging-tech-tefl-review-2026|Liu、Hashim 与 Sulaiman（2026）]]）。
+- **把技术权重向产出性技能倾斜。**在 33 项 TEFL 研究中，合并估计为小到中等（g = 0.38，经剪补法后降为 0.28），并随教育层级上升而增强，更利于产出性技能——说与写——而非接受性技能（[[liu-emerging-tech-tefl-review-2026|Liu、Hashim 与 Sulaiman（2026）]]）。
 
 ## 常见误解
 
@@ -108,6 +108,7 @@ AI 的英语主导性是这条支线的定义性特征。因为模型在英语�
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

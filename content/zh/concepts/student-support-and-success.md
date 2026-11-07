@@ -1,7 +1,7 @@
 ---
 title: 学生支持与成功
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ## 引言
 
-学生支持处于二者关系中的机构一侧。它的工作内容是学业指导、外展触达、转介分流，以及有限的人力与财力配置；它的证据基础是行政记录、注册事件、所修学分，以及学生是否返校。生成式 AI 进入这一领域的时间晚于进入教学的时间，而此处大量文献涉及的是**非生成式**系统——短信聊天机器人、早期预警模型、联邦风险预测——生成式工具则以顾问、助手和知识库应答者的身份登场。
+学生支持处于二者关系中的机构一侧。它的工作内容是学业指导、外展触达、转介分流，以及有限的人力与财力配置；它的证据基础是行政记录、注册事件、所修学分，以及学生是否返校。[[generative-ai|生成式 AI]] 进入这一领域的时间晚于进入教学的时间，而此处大量文献涉及的是**非生成式**系统——短信[[conversational-ai|聊天机器人]]、早期预警模型、联邦风险预测——生成式工具则以顾问、助手和知识库应答者的身份登场。
 
 统摄本页的区分是**一次推动（nudge）能做什么**与**一条轨迹需要什么**之间的区别。支持技术擅长有明确日期的二元决策：在此日期前注册、填完这张表格、加入 Early Start。它们在累积性结果——坚持就读、学分、毕业——上则困难得多，而这些结果受教学、经济状况、就业、家庭环境与先前准备共同塑造。本知识库关于这一点最有力的证据来自一项为期四年的随机评估，它显著改变了注册行为，却完全没有改变毕业结果。
 
@@ -47,15 +47,21 @@ ai_assist:
 
 相关研究可归为五类职能，其边界之所以重要，是因为各类职能附带的证据强度不同。
 
+一项对 AI 赋能学习者支持的 61 项研究综述发现，该领域集中于自适应系统与个性化（41 次使用）以及画像与预测（30 次），聊天机器人与推荐系统承担入学与日常询问。它同样发现了缺口：没有任何干预针对学习者过渡阶段，只有两项研究指明了学生子群，因此多数系统中的“通用学习者”只是一个统计平均值（[[cefa-ai-learner-support-review-2026|Cefa 等，2026]]）。
+
 **外展与沟通。** 机构面向学生大规模发送消息，而最强的评估检验的是消息是否真的改变了什么。一项针对加州州立大学北岭分校非生成式短信聊天机器人 CSUNny 的四年随机研究，跟踪了两个本科生队列（N = 8,708）共八个学期（[[mata-sustaining-ai-enabled-student-support-2026|Mata、Russell 与 Page（2026）]]）。2018 年 7 月 31 日发出的一条注册提醒，使受处理学生在 8 月 16 日前注册的可能性提高了 34 个百分点，而到 9 月 15 日只提高 2 个百分点；Early Start 提醒使 6 月 7 日前的注册率提高 11 个百分点、6 月 22 日提高 20 个百分点。学生的接受度保持稳定：年度退订率从未超过 4%。佐治亚州立大学一项预注册的多学期试验，每周向两门大型异步课程的学生（N = 1,568 与 N = 915）推送两到三条定制消息，使获得 A 或 B 的几率相对于 61% 的对照组提高 4 个百分点，并使两门课程的 DFW 率各变化约 3 个百分点（[[chatbot-outreach-course-performance-2026|Meyer 等（2026）]]）。
 
 **学业指导与学业规划。** 课程与成绩预测提供规划所需输入——一个模型联合预测学生将选哪些课程以及会取得什么成绩（[[trace-course-grade-prediction-2026|Savala（2026）]]），另一个模型以内在可解释的决策树预测大型在线编程课程中模块层面的进度（[[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2026）]]）。转学分本身就是一个指导问题：CourseGraph 把课程内容建模为知识图谱，以评估流动学生的外部课程等效性（[[coursegraph-cs-course-comparison-2026|Nijdam 等（2026）]]）。在机构层面，一项对 155 项高等教育中 AI 与服务交付研究的综述发现，学习分析是最常见的应用，有 46 项研究（29.7%），超过聊天机器人与虚拟助手的 31 项（20.0%）和预测性分析的 29 项（18.7%）（[[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga（2026）]]）。
 
 **转介与支持分配。** 预测不是方案，二者之间的鸿沟正是本领域最尖锐批评所在。SC2R 将其形式化为**可行动性鸿沟（actionability gap）**：只有当风险评分的建议在语义上可行且可被机器检验——受时间、预算、不可更改性与可用性的约束，而不仅仅是模型上有效——它才成为决策支持（[[sc2r-counterfactual-recourse-educational-2026|Le、Abel 与 Laforge（2026）]]）。模型能否良好分配支持在经验上存在争议：面对为 4,500 个合成学生情境推荐支持计划的任务，三个 LLM 表现出对学生需求的敏感度有限，且模型之间差异悬殊（[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等（2026）]]）。
 
-**学业支持的获取。** 面向具体课程的检索系统瞄准的是最不可能开口求助的学生。Beacon 由单一编程模块的审定材料构建，相关性评分很高（89%），多数学生认为它支持而非取代了自己的学习（66.7%），这一结论来自一项仅含 15 名学生和 4 名学者的小型评估（[[course-specific-rag-help-seeking-higher-ed-2026|Zhou 等（2026）]]）。辅导的参与率是另一类问题：一项为期两年的虚拟辅导层随机试验不得不把参与率与学习分开检验，因为触达到需要支持的学生并不等于提供了支持（[[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer 等（2026）]]）。
+**学业支持的获取。** 面向具体课程的检索系统瞄准的是最不可能开口求助的学生。Beacon 由单一编程模块的审定材料构建，相关性评分很高（89%），多数学生认为它支持而非取代了自己的学习（66.7%），这一结论来自一项仅含 15 名学生和 4 名学者的小型评估（[[course-specific-rag-help-seeking-higher-ed-2026|Zhou 等（2026）]]）。辅导的参与率是另一类问题：一项为期两年的虚拟辅导层[[rct|随机试验]]不得不把参与率与学习分开检验，因为触达到需要支持的学生并不等于提供了支持（[[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer 等（2026）]]）。
 
 **行政协助。** 领导与管理本身被当作独立的应用领域研究，有一个十域分类法刻画 AI 在教育领导力中的落点（[[sposato-ai-educational-leadership-taxonomy-2025|Sposato（2025）]]）。机构运营的服务还延伸到指导之外的健康领域：一个综合校园福祉框架把预防——改进反馈收集方式——与通过心理健康检测实现的干预结合起来（[[ai-campus-wellbeing-tools|Tang（2026）]]）。证书问题与之相邻：当一个智能体可以替学生完成一门课程时，写着"已修得"的证书便失去意义，这使得完成记录本身成为一个设计问题（[[credentials-carry-evidence-ai-agents-2026|Srivastava（2026）]]）。
+
+**内部助手与公共聊天机器人竞争的是可用性，而不是能力。** 在 Open University 的五项共同设计研究中（315 名学生、20 名教职员工），拟议的 i-AIDA 最强的卖点是全天候访问，得到一项 96 名学生调查中 73% 的认同，而直接使用把需求从 18 名学生中的 9 名提升到 18 名中的 16 名（d = .81）（[[rienties-institutional-ai-assistant-co-design-2026|Rienties 等，2026]]）。学生给它打 7.58 分（满分 10），与其他生成式工具相比，而约 10–15% 的人是出于价值观而非可用性反对，称 AI 辅助的学习稀释了正当的学习。
+
+AI 支持渠道所取代的东西，值得同样的核算。在四项研究中（N = 249、494、743 与 737），对 AI 提供情感支持能力的信念提高了把这种支持卸载给它的意愿，而效应完全经由感知能力传导（总效应 c = 0.83；间接效应 ab = 0.73）（[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray，2026]]）。在一项行为测量上，表示不会卸载的参与者选择了更少的共情词，因此把学生导向 AI 福祉渠道，可能以减少人类支持为代价，而[[self-report-measures|自我报告]]显示不出这一点。
 
 ## 从预测到支持
 
@@ -79,7 +85,7 @@ ai_assist:
 
 ## 公平性与依据评分行动的风险
 
-支持系统作用在学生身上，这使其失效模式与辅导者不同。一项针对复制版供应商早期预警系统的压力测试，检验了六种事后公平性干预（该系统由 168,550 条学生记录构建），发现这些干预未能兑现其承诺的公平性（[[fairness-theatre-early-warning-systems-2026|McConvey 等（2026）]]）。一项学生权益导向的综述把风险面围绕招生、招募与助学金，以及**学生成功服务**——机构 AI 最直接影响学生的领域——来组织（[[students-at-stake-ai-deployment-risks-2026|Student Defense（2026）]]）。隐私与公平在此是结构性的而非偶然的：联邦学习之所以存在，正因为跨机构共享学生记录不可接受；而 CSUN 项目中的人在回路环节——由行政人员回答聊天机器人答不上来的问题，再把答案折叠回它的知识库——正是作者认为能触达那些不看邮件、不接电话的学生的方式。
+支持系统作用在学生身上，这使其失效模式与辅导者不同。一项针对复制版供应商早期预警系统的压力测试，检验了六种事后公平性干预（该系统由 168,550 条学生记录构建），发现这些干预未能兑现其承诺的公平性（[[fairness-theatre-early-warning-systems-2026|McConvey 等（2026）]]）。一项学生权益导向的综述把风险面围绕招生、招募与助学金，以及**学生成功服务**——机构 AI 最直接影响学生的领域——来组织（[[students-at-stake-ai-deployment-risks-2026|Student Defense（2026）]]）。隐私与公平在此是结构性的而非偶然的：联邦学习之所以存在，正因为跨机构共享学生记录不可接受；而 CSUN 项目中的[[human-in-the-loop-ai|人在回路]]环节正是作者认为能触达那些不看邮件、不接电话的学生的方式：由行政人员回答聊天机器人答不上来的问题，再把答案折叠回它的知识库。
 
 ## 机构条件
 
@@ -123,6 +129,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[cefa-ai-learner-support-review-2026]] — 对 AI 赋能学习者支持的 61 项研究综述：自适应系统与预测占主导；过渡阶段与多元学习者缺席
+
 - [[mata-sustaining-ai-enabled-student-support-2026]] — 对一所大学支持聊天机器人的四年随机评估：任务完成移动了，毕业与 GPA 没有
 - [[chatbot-outreach-course-performance-2026]] — 预注册的多学期外展试验：A/B 率更高、DFW 变化有限、存在一处人口统计例外
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 个合成情境：支持建议对学生需求敏感度有限且跨模型不一致
@@ -142,6 +150,12 @@ ai_assist:
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — 教育领导力中 AI 的十域分类法
 - [[students-at-stake-ai-deployment-risks-2026]] — 学生侧风险面：招生与助学金、学生成功服务与教学
 - [[ai-campus-wellbeing-tools]] — 覆盖预防与干预的校园福祉支持
+
+- [[shastry-gray-empathy-offloading-2026]] — 关于共情卸载的四项研究：相信 AI 能提供情感支持，会降低人们自己提供的量（Shastry 与 Gray 2026）
+
 - [[coursegraph-cs-course-comparison-2026]] — 转学分与流动性中的课程等效性
 - [[credentials-carry-evidence-ai-agents-2026]] — 当智能体可以代做时，完成记录意味着什么
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 早期预测 AI 辅助作弊风险，以及低风险外展的阈值权衡
+
+- [[rienties-institutional-ai-assistant-co-design-2026]] — 对机构 AI 学习助手的五项共同设计研究：可用性优先，基于价值观的抵制居后
+

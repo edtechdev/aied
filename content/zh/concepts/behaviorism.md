@@ -1,7 +1,7 @@
 ---
 title: 行为主义
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -39,19 +39,22 @@ ai_assist:
 - **学习是行为改变。** 目标是表现上的可测量改变，而非内化的理解。这使行为主义设计对流畅性、速度与准确性等可观察结果而言是自然的。
 - **强化驱动学习。** 正确的回答被强化、错误被纠正，通常伴随即时反馈——这是 AI 导师与操练系统中无处不在的设计模式。([[ai-vocational-education-training-review]])
 - **小步与以步调脚手架。** 教学被分解为增量单元，每步都有反馈，类似于自适应系统编排练习的方式。
+
+- **小步是一种设计假设，而一项关于步调的随机检验对它提出了反证。** 在 199 名美国大学生中，按"先鼓励、再提示、后答案"排序的反馈，其学习效果劣于立即给出的完整解答反馈，尽管学生觉得排序版本更受鼓舞。情感上的收益被一条行为路径抵消 —— 每项任务的重交次数更多 —— 净效应是学习更差（[[sequenced-ai-feedback-learning]]）。
+
 - **学习者在知识建构中大体被动。** 环境（或系统）结构并奖励回答；学习者回应而非建构意义——与 [[constructivist]] 假设正相反。
 
 ## 行为主义与教育中的 AI
 
 ### 行为主义设计在实践中占主导
 
-实证工作反复发现，实际的 AI 实施以**行为主义或认知取向为主**——强调操练-练习、即时 [[feedback]] 与自适应步调——即便话语奉行更丰富的理论。一项对职业教育与培训（VET）中 AI 的 [[meta-analysis-systematic-review|系统综述]]得出结论：建构主义理论在 VET 话语中被奉行，而**行为主义 AI 实施在实践中占主导**，并警示了一种教育"图灵陷阱"——用 AI 复制而非增强人类教学。([[ai-vocational-education-training-review]])
+实证工作反复发现，实际的 AI 实施以**行为主义或认知取向为主**——强调操练-练习、即时 [[feedback]] 与自适应步调——即便话语奉行更丰富的理论。一项对[[vocational-education|职业教育与培训]]（VET）中 AI 的 [[meta-analysis-systematic-review|系统综述]]得出结论：建构主义理论在 VET 话语中被奉行，而**行为主义 AI 实施在实践中占主导**，并警示了一种教育"图灵陷阱"——用 AI 复制而非增强人类教学。([[ai-vocational-education-training-review]])
 
 ### 输出等价：当行为不再证明学习
 
 行为主义把学习定义为可观察行为的改变，这使它成为被生成式 AI 最直接地令其尴尬的理论：学习者现在可以产出一篇论文、一份分析或可运行的代码，与一位持有该成果本应证明的胜任力之人的作品无从区分。可观察的行为完全相同，而学习可能并未发生，这是 [[generativism-learning-theory|生成主义（Generativism）]]称之为行为等价问题的失败模式。
 
-表现与学习之间的鸿沟并不新鲜，但 AI 加宽了它。在一项有近千名高中数学学生参加的现场实验中，对一个标准助手的无限制访问把练习表现提高了 48 个百分点，而同样这些学生在无辅助考试中后来比未用 AI 练习的同侪低 17 个百分点；一个有护栏的导师版本基本消除了这一赤字（[[genai-performance-vs-learning]]）。从行为上读，教训关乎测量而非教学法：一个为产出而优化的系统，可以在满足该理论自身的学习判据的同时，未能达成其目的。
+表现与学习之间的鸿沟并不新鲜，但 AI 加宽了它。在一项有近千名高中数学学生参加的现场实验中，对一个标准助手的无限制访问把练习表现提高了 48 个百分点，而同样这些学生在无辅助考试中后来比未用 AI 练习的同侪低 17 个百分点；一个[[guardrails|有护栏的导师]]版本基本消除了这一赤字（[[genai-performance-vs-learning]]）。从行为上读，教训关乎测量而非[[pedagogy|教学法]]：一个为产出而优化的系统，可以在满足该理论自身的学习判据的同时，未能达成其目的。
 
 ### 与建构主义及能动性的张力
 
@@ -68,7 +71,7 @@ ai_assist:
 
 ## 行为主义与"关于 AI 的教育"
 
-行为主义也出现在学习者把 AI 当作一个话题遭遇的方式中。该理论是 [[generative-ai|生成式 AI]]促使教育者重新审视的四大主导 [[learning-theories|学习理论]]——行为主义、认知主义、建构主义与联结主义——之一。([[generativism-learning-theory]]) 它也在合作学习与设计情境中被引用，作为学习者被教授的理论背景的一部分。([[ccct-cooperative-learning-technique]]) 理解行为主义帮助学习者看清为何许多 AI 工具（以及建立于其上的产品）是为反应-与-强化而设计，而非为更深的建构。
+行为主义也出现在学习者把 AI 当作一个话题遭遇的方式中。该理论是 [[generative-ai|生成式 AI]] 正在[[prompt-engineering|促使]]教育者重新审视的四大主导 [[learning-theories|学习理论]]——行为主义、认知主义、建构主义与联结主义——之一。([[generativism-learning-theory]]) 它也在合作学习与设计情境中被引用，作为学习者被教授的理论背景的一部分。([[ccct-cooperative-learning-technique]]) 理解行为主义帮助学习者看清为何许多 AI 工具（以及建立于其上的产品）是为反应-与-强化而设计，而非为更深的建构。
 
 ## 对设计与研究的意涵
 
@@ -107,3 +110,6 @@ ai_assist:
 - [[generativism-learning-theory]] — 生成主义 AI 促使重新思考的四大理论之一
 - [[ccct-cooperative-learning-technique]] — 高等教育合作学习设计中被引用的行为主义
 - [[wang-multi-agent-systems-learning-designers-2025]] — 协作式多智能体设计方法中的行为主义角色
+
+- [[sequenced-ai-feedback-learning]] — 在 199 人随机实验中，排序式提示反馈劣于即时的完整解答反馈
+

@@ -1,7 +1,7 @@
 ---
 title: 提取练习、间隔练习与交错练习
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ ai_assist:
 间隔效应——相同的总练习量分散到多次中比集中到一次里产生更持久的学习——是三种技术中最被算法化利用的一种，语料库中的应用系统都围绕它构建。
 
 [[memdora-ai-spaced-repetition|Memdora]] 是把间隔当作工程问题处理的最清楚例子。它把调度建立在 Ebbinghaus 遗忘曲线上，引用了大致 **70% 新学材料会在 24 小时内被遗忘**（若无复习）这一数字，并集成了 **FSRS-6**——被描述为当前最先进的间隔重复算法。它的论点是：仅有调度并不够——现有工具把抽认卡交互简化为一个单一的二值手势——"翻转并自评"，作者称之为一种贫乏模型，未能利用关于提取练习的认知科学证据。Memdora 的贡献因此是一个跨 Language、By Heart 与 Exam 类别的 **17 种基于认知的交互类型分类法**，每种都映射到显示在卡片上的同行评议证据，外加一个补偿实际认知投入而非应用使用时长的基于努力的奖励系统，一个在阅读时即时生成卡片的统一生成管线，以及一个在单张卡片层面报告 [[learning-gains|学习结果]] 的课堂层。
+
+[[bilingual-llm-lecture-companion-srl-2026|Malhotra（2026）的双语讲义伴侣]] 从另一端着手处理这项编写成本：它在浏览器中转写英语—印地语讲授，并在设备端生成抽认卡，面向印度课堂而建——UDISE+ 数据显示那里约 54% 的学校能接入互联网。
 
 [[adaptive-pretesting-retention|Akgun 与 Toker（2026）]] 提供了语料库中关于间隔如何被*结构化*的最强实验证据。在一项对 89 名应用统计课程本科生的三臂随机研究中，三个组都在分散时段中练习，数量与时间在七周内完全相同；只有交互结构不同。自适应间隔提取（G1）取得最高后测分数（M = 78.19）与最高观察到的练习努力度（M = 0.85）；固定间隔提取（G2）次之（M = 74.55，努力度 0.74）；无强制提取的学习者主导 AI 学习在两项上都排最后（M = 67.28，努力度 0.49）。多变量效应显著（Wilks' Λ = .664，partial η² = .185），G1 在保持上领先 G3，d = 0.92（p = .003）。在教学上关键的是：G1 的智能体被配置为*扣留*——针对 [[misconceptions|迷思概念]] 的依回应探测、在肤浅作答后要求精细说明、只有在概念参与充分时才推进，并且把直接解答明确排除在允许输出之外。作者自己的解读是：前测是一个前置的催化剂，而不是一种其益处在开放式 AI 访问下依然存活的独立干预。
 

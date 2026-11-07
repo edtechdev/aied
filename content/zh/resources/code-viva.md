@@ -1,7 +1,7 @@
 ---
 title: "Code Viva"
 created: "2026-10-24T13:40:00-04:00"
-updated: "2026-10-24T13:40:00-04:00"
+updated: "2026-11-07T17:28:35-05:00"
 type: resource
 summary: "一个免费的浏览器工具，为编程课的每位学生运行一场书面的、计时版的口头代码答辩，并附带逐句引证的评分建议，交由教师确认。"
 url: https://code-viva.netlify.app/
@@ -16,7 +16,7 @@ discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

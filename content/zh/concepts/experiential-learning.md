@@ -1,13 +1,13 @@
 ---
 title: 体验式学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,13 +42,15 @@ ai_assist:
 - **当器材不是重点时，虚拟实验室可以胜过实体实验室。** 九年级学生在欧姆定律上，在 AI 支持的虚拟实验室、同一实验室但不含 AI、以及实体实验室三种条件下分别得 23.45、20.51 与 16.57 分（满分 30），每两两之间都显著（[[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li 与 Ahmad（2026）]]）；作者承认，在操作器材本身就是目标之处，实体实验室的劣势可能缩小。
 - **AI 作为应对不确定性的基础设施，而非效率。** [[shi-genai-experiential-learning-management-education-2026|Shi、Dai 与 Zhang（2026）]]给生成式 AI 一个角色，让它在商业模拟中生成颠覆性事件与连锁后果，于是团队在信息不完整下修订计划，并警告受保护的模拟可能留下到课堂之外变成负担的决策习惯。
 
+- **做与被告诉，在五周内测量。** 在一项有 126 名一年级工程专业学生的准实验中，一场两小时的生成式 AI 学习体验课产生了 +0.25 的[[metacognition|元认知]]知识增益，而讲座约为零。这是一个中等效应（d = -0.37），在多重比较校正后未达到显著（p = .055），而两组的[[self-report-measures|自报]] AI 投入在五周时相当（3.99 与 3.93）（[[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio 等，2026]]）。这段证据给本页理由划出的边界值得直说：一次动手课把元认知知识推向正确方向，却没有解决比较问题，因此做的优势必须由反复循环建立，而不能从一次实验假定。
+
 ### AI 支持的课程中两种形式的动手学习
 
-一项对 32 项 AI 支持的设计教育中动手学习的同行评议研究做的主题综述（[[hands-on-learning-necessity-age-of-ai-review-2026|Yu、Liu 与 Zhu, 2026]]）论证，AI 重组而非取代体验式学习，并划分出一个本知识库其他来源倾向于抹去的区分：*具身动手（Embodied Hands-on）*依赖身体动作、工具与材料，而*认知动手（Cognitive Hands-on）*通过对 AI 生成的输出的持续操作、判断与调整而发展。两者运行同一个行动—反馈—反思—精炼循环，但从不同来源获取反馈——前者来自真实世界的材料阻力，后者来自语言与视觉结果——因此不应被视为等价或互相替代。该综述的告诫是：生成效率会压缩探索阶段——若干纳入的研究报告探索性草图与渐进试错减少，于是 AI 带来的更多迭代未必意味着更大的迭代深度，学生可能错过那些使动手工作有教育意义的失败与材料约束的遭遇。与此一致，[[prompt-engineering|提示]]本身并未提高受评工作中的[[creativity|创造性]]，而多步操作（生成、修改、选择）做到了——再次把学习定位在学习者的判断里，而非生成里。
+一项对 32 项 AI 支持的[[design-education|设计教育]]中动手学习的同行评议研究做的主题综述（[[hands-on-learning-necessity-age-of-ai-review-2026|Yu、Liu 与 Zhu, 2026]]）论证，AI 重组而非取代体验式学习，并划分出一个本知识库其他来源倾向于抹去的区分：*具身动手（Embodied Hands-on）*依赖身体动作、工具与材料，而*认知动手（Cognitive Hands-on）*通过对 AI 生成的输出的持续操作、判断与调整而发展。两者运行同一个行动—反馈—反思—精炼循环，但从不同来源获取反馈——前者来自真实世界的材料阻力，后者来自语言与视觉结果——因此不应被视为等价或互相替代。该综述的告诫是：生成效率会压缩探索阶段——若干纳入的研究报告探索性草图与渐进试错减少，于是 AI 带来的更多迭代未必意味着更大的迭代深度，学生可能错过那些使动手工作有教育意义的失败与材料约束的遭遇。与此一致，[[prompt-engineering|提示]]本身并未提高受评工作中的[[creativity|创造性]]，而多步操作（生成、修改、选择）做到了——再次把学习定位在学习者的判断里，而非生成里。
 
 体验式学习与[[active-learning|主动学习]]、[[project-based-learning|项目式学习]]、[[embodied-learning|具身学习]]、[[simulation|模拟]]、[[educational-robotics|教育机器人学]]以及[[higher-ed|高等教育]]的专业准备相连。
 
-融入工作的经验可以是高阶能力的约束条件：在一个智能制造实验室的 89 个赞助顶点项目中，从 Workforce Readiness Level 6 晋升到 7 是由嵌入产业的实习而非额外的课程所把门的（[[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.（2026）]]）。
+融入工作的经验可以是高阶能力的约束条件：在一个智能制造实验室的 89 个赞助顶点项目中，从 [[career-development-and-readiness|Workforce Readiness]] Level 6 晋升到 7 是由嵌入产业的实习而非额外的课程所把门的（[[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.（2026）]]）。
 
 ## 常见误解
 
@@ -56,9 +58,9 @@ ai_assist:
 
 **"AI 可以替代体验式学习中的体验。"** 它能模拟某些系统，却无法提供在 AI、网络安全与机器人学这类应用领域形成胜任力所需的经历，在这些领域里学生通过操作真实工具与系统来发展技能。一个模拟的安全环境教的是程序；一个真实的系统教的是错误配置的后果。
 
-**"更真实的任务就径直更好。"** 真实性同时抬高了迁移价值与评估问题：真实系统产生的是多变、难以评分的证据，任务越真实，结果就越不像一个分数。设计必须同时握住两者，这也是为什么反思结构与任务本身同样重要。
+**"[[authentic-assessment|更真实的任务]]就径直更好。"** 真实性同时抬高了迁移价值与评估问题：真实系统产生的是多变、难以评分的证据，任务越真实，结果就越不像一个分数。设计必须同时握住两者，这也是为什么反思结构与任务本身同样重要。
 
-**"AI 辅导适用于体验式学习，就像它适用于讲授内容那样。"** 这种适配更弱，因为导师能提供解释，却无法提供与系统的遭遇。它在这一教学法中的自然位置是在反思与概念化阶段，即学习者正在理解发生了什么的时候，而不是替代行动。[[gelli-experiential-language-learning-2026|Symonette 等人（2026）]]生成遭遇而非把它写成脚本：依据学习者的目标，GELLI 在运行时构建带人物、支持与反思的情境场景，而在一项 40 名日语学习者的被试内研究中，它在词汇回忆（d = 0.45）与信心（d = 0.45）上胜过专家撰写的视频，但在口语上没有。
+**"[[intelligent-tutoring|AI 辅导]]适用于体验式学习，就像它适用于讲授内容那样。"** 这种适配更弱，因为导师能提供解释，却无法提供与系统的遭遇。它在这一[[pedagogy|教学法]]中的自然位置是在反思与概念化阶段，即学习者正在理解发生了什么的时候，而不是替代行动。[[gelli-experiential-language-learning-2026|Symonette 等人（2026）]]生成遭遇而非把它写成脚本：依据学习者的目标，GELLI 在运行时构建带人物、支持与反思的情境场景，而在一项 40 名日语学习者的被试内研究中，它在词汇回忆（d = 0.45）与信心（d = 0.45）上胜过专家撰写的视频，但在口语上没有。
 
 ## 实践启示
 
@@ -71,7 +73,7 @@ ai_assist:
 **对开发者**
 
 - 构建反思提示与学习者所做之事的记录，使意义建构阶段有材料，证据也可审计。
-- 在错误的后果本身就是课程内容的领域，不要把模拟呈现为操作真实系统的替代。
+- 在错误的后果本身就是[[curriculum-design|课程内容]]的领域，不要把模拟呈现为操作真实系统的替代。
 
 **对项目设计者**
 
@@ -88,6 +90,8 @@ ai_assist:
 - [[learning-theories]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education：AI 教育中教学法与教学策略的伞形概念
 - [[virtual-and-augmented-reality]] — 沉浸式练习作为刻意的经验
+
+- [[reflection]]
 
 ## 关联文章
 
@@ -106,3 +110,6 @@ ai_assist:
 
 - [[gelli-experiential-language-learning-2026]] — GELLI：一个面向体验式语言学习交互的生成器（Symonette 等人 2026）
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的虚拟实验室用于翻转物理学习：对初中生成绩、动机与认知负荷的影响
+
+- [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
+

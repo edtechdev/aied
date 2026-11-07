@@ -1,7 +1,7 @@
 ---
 title: 终结性评价
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,9 +40,12 @@ ai_assist:
 
 本知识库的研究记录了生成式 AI 如何从根本上朝两个方向重塑了终结性评价的图景：AI 被用来大规模**给**考试**评分**，而 AI 也可能被学生用来**逃避**对其自身学习的考试式测量。
 
-- **AI 作为评分者。** 终结性评价越来越依赖对考试、论文和简答题的[[automated-assessment|自动评分]]。[[llms-do-not-grade-essays-like-humans-2026|关于 LLM 作文评分的研究]]发现[[llm|LLM]]评分作文的方式与人类不同，给高风险自动评分带来效度与公平问题。[[llm-automated-assessment-student-self-explanations|LLM 评价学生自我解释]]和[[cong-confidence-asag-2026|自动简答评分]]探讨 LLM 评分在终结性情境中的可靠性，而[[psyscore-essay-scoring-zpd-feedback|心理测量觉知框架]]力求让自动评分可信且自适应。一场 296 人的手写普通化学考试说明了为什么需要选择性的人工把关：一个多模态 LLM 的总分与助教评分一致性很高（R² = 0.91），但题目级可靠性随题型剧烈变化，且误报（AI 给真正错误的答案加分）往往无人察觉，因为学生很少申诉——所以一刀切地"全都让 AI 评分"在高风险使用中站不住脚，必须有基于信心的暂缓人工复核机制（[[cvengros-grading-handwritten-chemistry-ai-2026]]）。
+- **AI 作为评分者。** 终结性评价越来越依赖对考试、论文和简答题的[[automated-assessment|自动评分]]。[[llms-do-not-grade-essays-like-humans-2026|关于 LLM 作文评分的研究]]发现[[llm|LLM]]评分作文的方式与人类不同，给高风险自动评分带来效度与公平问题。[[llm-automated-assessment-student-self-explanations|LLM 评价学生自我解释]]和[[cong-confidence-asag-2026|自动简答评分]]探讨 LLM 评分在终结性情境中的可靠性，而[[psyscore-essay-scoring-zpd-feedback|心理测量觉知框架]]力求让自动评分可信且自适应。一场 296 人的手写普通[[chemistry-education|化学]]考试说明了为什么需要选择性的人工把关：一个[[multimodal|多模态]] LLM 的总分与助教评分一致性很高（R² = 0.91），但题目级可靠性随题型剧烈变化，且误报（AI 给真正错误的答案加分）往往无人察觉，因为学生很少申诉——所以一刀切地"全都让 AI 评分"在高风险使用中站不住脚，必须有基于信心的暂缓人工复核机制（[[cvengros-grading-handwritten-chemistry-ai-2026]]）。
 - **结果一致性可以在题目评分不精确的情况下存活。** 对照经审校的官方分数，一个给 10,364 页手写物理奥林匹克和大学试卷打分的多模态 LLM，相关达 r = 0.93–0.96，并找回了同一支五人国际队，尽管题目分部的精确一致率只到 70%——评分者要由它所支持的那些决策来评判（[[ai-grading-handwritten-physics-2026|Pathak 等（2026）]]）。
 - **AI 作为逃避手段。** 因为生成式 AI 能给出书面问题的答案，未监考和居家的终结性任务失去效度：[[generative-ai-reduced-study-time-math|监考且无辅助的测量是必需的]]，因为未监考的表现被 AI 抬高，而[[generative-ai-guardrails-harm-learning|有护栏（给提示而非给答案）的工具]]可以消除不受约束的 AI 造成的考试惩罚。[[chirikov-ai-grade-inflation-2026|Chirikov（2026）]]对 500,000+ 个成绩的准实验让这一机制变得具体：ChatGPT 发布后，AI 暴露任务更多的课程中 A 级成绩占比上升 13 个百分点，且效应集中在**作业密集的课程**（三重差分估计中再加 16 pp）——这是直接证据：AI 抬高终结性结果的，是未监考的作业，而非真正的[[learning-gains|学习增益]]。
+
+- **应试者与评分者是同一种能力。** 在一门 Java 面向对象编程入门课程自己的测验与考试上，五个 2026 年的系统按学生评分细则打分，除一种情况外都超过了班级平均分（测验一 14.61 对 13.76；测验二 14.87 对 13.39）。它们常常在较长的任务上拿到满分，却仍在接口、抽象类与图像题上失败（[[genai-oop-programming-assessments-2026|Lepp 与 Kaimre（2026）]]）。
+
 - **AI 生成的考试。**[[assessing-quality-ai-generated-exams-field-2025|一项大规模现场研究]]和[[ai-vs-human-assessment-efl-tpck-2026|EFL 评价研究]]考察 AI 能否*生成*高质量考试和评价任务——这是 AI 在新兴的终结性设计中的用途。
 - **学生无法可靠地识别 AI 起草的题目。** 在一场计分的家庭医学考试中，[[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等（2026）]]发现，30 道 AI 生成的多选题与 30 道执照考试多选题在来源归因上没有显著差异，正确识别率均值为 68.6% 至 77.5%，且 18.2% 的生成题目在[[human-in-the-loop-ai|人工复核]]中被剔除。
 
@@ -50,7 +53,7 @@ ai_assist:
 
 本知识库的一个关键主题是**终结性形式决定抗 AI 性**——任务越要求现场的、面对面的、被逐一追问的表现，学生就越难用 AI 替代自己的学习。
 
-- **口试与口头评价。**[[fenton-oral-exams-ai-authentic-assessment-2025|Fenton（2025）]]论证口试是一种低技术、天生抗 AI 的终结性形式：它实时的、互动式的对话测试理解、[[critical-thinking|批判性思维]]和推理而非记忆，阻止学生用 AI 生成并背诵答案，并呼应专业实践。[[socratic-tests-conversational-assessment|苏格拉底式测验]]和[[code-review-genai-cs1|代码评审访谈]]把它延伸到动态、对话式和访谈式的终结性评价。
+- **[[oral-assessment|口试]]与口头评价。**[[fenton-oral-exams-ai-authentic-assessment-2025|Fenton（2025）]]论证口试是一种低技术、天生抗 AI 的终结性形式：它实时的、互动式的对话测试理解、[[critical-thinking|批判性思维]]和推理而非记忆，阻止学生用 AI 生成并背诵答案，并呼应专业实践。[[socratic-tests-conversational-assessment|苏格拉底式测验]]和[[code-review-genai-cs1|代码评审访谈]]把它延伸到动态、对话式和访谈式的终结性评价。
 - **闭卷、监考、无辅助的测量。**[[generative-ai-reduced-study-time-math|证据]]和[[stromberg-generative-ai-learning-penalty-secondary-2026|大规模现场数据]]显示，在学生使用 AI 时，监考的闭卷考试——而非被抬高的作业或居家作业——才是真实学习的可靠信号。[[responsible-assessment-ai-era-stanford-2026|负责任评价]]框架把这些无辅助测量嵌入以效度驱动的重新设计之中。考试留在线上时，[[remote-proctoring|远程监考]]接替这一角色，而本语料库对自动监考的两篇综述发现了隐私和[[bias-mitigation|公平]]关切与检测收益并存（[[automated-online-exam-proctoring-decade-review-2026]]、[[academic-dishonesty-automated-proctoring-ai-2026]]）。
 - **把一个脆弱任务与一个确认性孪生任务配对。**[[roe-assessment-twins-2026|Roe、Perkins 与 Giray（2026）]]保留一个 GenAI 脆弱的任务以保其学习价值，但给它配上一个评价同样结果的第二个任务，通过确认阈值或权重使分数相互依赖，让孪生任务为结果作认证。
 
@@ -69,7 +72,7 @@ ai_assist:
 - **自动评分需要心理测量上的审视：**用 LLM 给高风险考试评分，需要评价其信度、公平和效度，而不只是准确率。
 - 评分误差还依分数段而不同：在 32 份公共卫生考试提交中，LLM 避开了量尺两端——快速模式下没有出现 E 或 F——而最好的模型在 50.0% 的提交上与人工分数完全一致，在 90.6% 上落在 ±1 个等级内（[[llm-grading-assistants-public-health-2026|Brevik 等（2026）]]）。
 - **AI 也能生成考试：**AI 辅助的考试与任务生成是一个新兴的终结性设计应用，本身也需要质量评价。
-- **重新考虑给分的目的，而不只是形式。**[[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]批评传统的、常模参照的终结性给分，认为它鼓励肤浅、碎片化的学习，给学生很少的控制与透明，损害内在[[motivation]]，助长压力和[[well-being|焦虑]]，并延续不平等，同时在很大程度上只评价记忆而非真实世界应用。他们把重评、[[mastery-learning|标准本位给分]]和不给分，定位为可以软化终结性主导实践的、聚焦给分的创新，同时承认这些在管理教育中仍属边缘，因为存在规范性障碍——按曲线给分、外部信号（排名、实习、认证）和学生的工具性心态——并建议在机构支持下逐步试验。
+- **重新考虑给分的目的，而不只是形式。**[[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]批评传统的、常模参照的终结性给分，认为它鼓励肤浅、碎片化的学习，给学生很少的控制与透明，损害内在[[motivation]]，助长压力和[[well-being|焦虑]]，并延续不平等，同时在很大程度上只评价记忆而非真实世界应用。他们把重评、[[mastery-learning|标准本位给分]]和不给分，定位为可以软化终结性主导实践的、聚焦给分的创新，同时承认这些在[[business-education|管理教育]]中仍属边缘，因为存在规范性障碍——按曲线给分、外部信号（排名、实习、认证）和学生的工具性心态——并建议在机构支持下逐步试验。
 
 ## 常见误解
 

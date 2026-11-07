@@ -1,7 +1,7 @@
 ---
 title: 生产性失败
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **让学习者为从指导中学习做好准备**——他们知道自己不知道什么，并能把新材料与自己的尝试联系起来。
 - **增强知识迁移与持久技能**（[[critical-thinking|批判性思维]]、韧性、沟通），减少对犯错的恐惧，并促进对学习的积极态度。
 
-PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vicarious failure）**、**解法多样性（solution diversity）**与**自适应引导（adaptive guidance）**（Braas et al., 2025; Brand et al., 2025）。
+PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vicarious failure）**、**解法多样性（solution diversity）**与**自适应引导（adaptive guidance）**（Braas et al., 2025; Brand et al., 2025）。案例可以为那次初次尝试提供共享的问题空间，尽管基于案例的证据基础尚未直接检验这一配对（[[case-based-learning]]）。
 
 ## 从失误与错误中学习
 
@@ -104,6 +104,9 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — 案例为第一次尝试提供共享的问题空间
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

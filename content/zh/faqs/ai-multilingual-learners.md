@@ -1,9 +1,9 @@
 ---
 title: "AI 如何支持多语学习者，同时既不误判他们的知识，也不抹掉他们的声音？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 一个学生懂了概念，却需要多花四分钟用英语说出来。AI 可以翻译题目、解释术语、陪他演练这段解释，或者把整个答案写出来。其中三件是教学。一件是代做作业。
 
-给同事的简短回答：先决定语言在这项任务里起什么作用，再决定工具可以做什么。语言是附带的地方，AI 可以移走一个与你的构念无关的障碍。语言就是构念的地方，同一个工具绕过了学习。风险同时朝两个方向走：[[multilingual-learning|语言支持]]可以改善可及性，而自动评分仍然可能误读这个学生。在一项物理研究中，语言质量较低的解释被所有受测的 AI 评分方法系统性地评在专家判断之下——9 个机器学习系统与 2 个语言模型系统，覆盖 116 名中学生（[[ai-scoring-language-bias-physics|Feser 与 Tschisgale，2026]]）。流畅度与理解被当成一件事在评。
+简短回答是这样的：先决定语言在这项任务里起什么作用，再决定工具可以做什么。语言是附带的地方，AI 可以移走一个与你的构念无关的障碍。语言就是构念的地方，同一个工具绕过了学习。风险同时朝两个方向走：[[multilingual-learning|语言支持]]可以改善可及性，而[[automated-assessment|自动评分]]仍然可能误读这个学生。在一项物理研究中，语言质量较低的解释被所有受测的 AI 评分方法系统性地评在专家判断之下——9 个[[machine-learning|机器学习]]系统与 2 个语言模型系统，覆盖 116 名中学生（[[ai-scoring-language-bias-physics|Feser 与 Tschisgale，2026]]）。流畅度与理解被当成一件事在评。
 
 ## 简版要点
 
@@ -45,13 +45,13 @@ ai_assist:
 
 ## 决定语言在做什么
 
-在一段生物学解释里，语法对所评的概念大多是附带的。在一门语言课里，产出并修订特定结构就是学习本身。在职业沟通里，学科准确性、读者与语域都算数。同一个翻译工具在第一种情形里合适，在第二种里有疑问，在第三种里可以商榷。
+在一段[[biology-education|生物学]]解释里，语法对所评的概念大多是附带的。在一门语言课里，产出并修订特定结构就是学习本身。在职业沟通里，学科准确性、读者与语域都算数。同一个翻译工具在第一种情形里合适，在第二种里有疑问，在第三种里可以商榷。
 
-把决定写下来，放在学生能读到的地方。如果学生可以翻译题目说明，但必须独立产出一段目标语言的解释，就明说。如果允许术语支持，就具体说明学生仍须解释与核实什么。然后拿这套安排去对照便利需求与院校政策，而不是把每一种语言辅助都当作可互换的。一个有备案便利的学生和一个在回避练习的学生可以提出同样的请求，而只有后者是你的教学问题。
+把决定写下来，放在学生能读到的地方。如果学生可以翻译题目说明，但必须独立产出一段目标语言的解释，就明说。如果允许术语支持，就具体说明学生仍须解释与核实什么。然后拿这套安排去对照便利需求与[[educational-policy-ai|院校政策]]，而不是把每一种语言辅助都当作可互换的。一个有备案便利的学生和一个在回避练习的学生可以提出同样的请求，而只有后者是你的教学问题。
 
 ## 研究支持什么，不支持什么
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]综述了 24 项关于生成式聊天机器人在语言学习中应用的实证研究。他们的贡献是分类学上的：为前生成式聊天机器人编目的每一种子可供性都延续下来，另有三项是新的，其中包括 **translanguaging**（超语实践），即作为学习一部分的有意跨语言移动。那是一张已报告用途与体验的地图，不是合并估计，而且语料在地理上集中：中国、伊朗、台湾与土耳其占 24 项研究中的 19 项，且除一组之外都在正规机构内。支持把跨语言解释当作一种学习动作，不等于支持翻译每一项作业。
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]综述了 24 项关于生成式[[conversational-ai|聊天机器人]]在[[language-learning|语言学习]]中应用的实证研究。他们的贡献是分类学上的：为前生成式聊天机器人编目的每一种子可供性都延续下来，另有三项是新的，其中包括 **translanguaging**（超语实践），即作为学习一部分的有意跨语言移动。那是一张已报告用途与体验的地图，不是合并估计，而且语料在地理上集中：中国、伊朗、台湾与土耳其占 24 项研究中的 19 项，且除一组之外都在正规机构内。支持把跨语言解释当作一种学习动作，不等于支持翻译每一项作业。
 
 评估是证据变锋利、利害也上升的地方。[[ai-scoring-language-bias-physics|Feser 与 Tschisgale（2026）]]把 11 种自动评分方法与人类专家对 116 名中学生物理解释的评分相比较，在每一种方法里都发现对语言较弱的解释系统性地低估概念理解。这个设计隔离出了机制：同样的概念内容，用较弱的文字表达，就评得更低。这不是关于某个国家多语学生的断言，而它恰恰是让总体评分一致率成为糟糕诊断的那种模式。一个评分者可以在平均上与人类阅卷人一致，同时对语言仍在发展的学生朝一个固定方向出错。
 
@@ -116,7 +116,7 @@ ai_assist:
 
 **4.** 加一项记录学生自己意思或决定的检查，比如两句话说明他们接受或拒绝了某个改动。
 
-**5.** 如果你的量规给写作质量打分，把那条标准与概念标准分开，带着这个区分重读每类两份作业。
+**5.** 如果你的量规给[[writing-education|写作质量]]打分，把那条标准与概念标准分开，带着这个区分重读每类两份作业。
 
 ## 接下来可以去哪里
 

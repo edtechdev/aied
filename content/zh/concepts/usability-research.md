@@ -1,7 +1,7 @@
 ---
 title: 可用性研究
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,9 +27,9 @@ ai_assist:
 
 - 你能想起一个软件工具——教育的或其他的——它教学法上健全或确实强大，但你因为困惑或受挫而停止使用？那正是可用性研究试图在其损耗学习之前加以解释的失败。
 - 一个常见假设是，工具的教育效能可以通过学习增益是否提高来判断。但本页论证，一个工具可能不可用却在试验中看似"奏效"，或可用却不能教会。为什么一项显示学习增益的研究仍可能遗漏该工具在实践中难以使用？
-- 在读方法之前，你会如何着手弄清一个 AI 辅导者是否令学习者困惑、受挫或易出错？你实际会做什么或观察什么——以及用户自陈的满意度会漏掉什么，而细致观察能捕捉到？
+- 在读方法之前，你会如何着手弄清一个[[intelligent-tutoring|AI 辅导者]]是否令学习者困惑、受挫或易出错？你实际会做什么或观察什么——以及用户自陈的满意度会漏掉什么，而细致观察能捕捉到？
 - 出声思维是核心方法：用户边工作边说出想法，实时暴露困惑与心智模型。如果你是用 AI 工具的学习者，关于自己的困惑你能表达出什么，是简单的"你喜欢吗？"式调查永远捕捉不到的？
-- 本页指出，自陈的满意度可能与客观表现脱节——人们可能说热爱一个暗中让他们变慢的工具，或低估一个实际有帮助的工具。你在哪里见过这种"人所说"与"其行为所示"之间的差距？
+- 本页指出，[[self-report-measures|自陈]]的满意度可能与客观表现脱节——人们可能说热爱一个暗中让他们变慢的工具，或低估一个实际有帮助的工具。你在哪里见过这种"人所说"与"其行为所示"之间的差距？
 - 可用性研究告诉你一个工具是否可用，而非它是否教会。如果你在评估一个 AI 学习工具，你会如何把可用性证据与学习证据结合——一个两者都通过的工具还可能达不到什么？
 
 ## 引言
@@ -39,8 +39,8 @@ ai_assist:
 ## 核心方法
 
 - **出声思维协议。** 用户在完成任务时口头表达其想法，实时揭示理解、困惑与心智模型。[[code-anchor-multi-view-visualization|一项多视图代码可视化研究]]与 [[learn-framework-responsible-genai-pbl-2026|LEARN 框架]]使用出声思维来理解学习者如何理解 AI 辅助工具；[[feedback-futures-genai|feedback futures]] 考察学习者如何处理 AI 生成的反馈。
-- **用户研究。** 结构化的基于任务的评价测量效率、错误率、满意度与完成度。[[rhaimi-productivemath-2025|ProductiveMath]] 评价一个生成式 AI 应用在支持productive-failure教学中的可用性；[[supplynet-visual-exploratory-learning|SupplyNet]] 对一个视觉探究式学习工具运行用户研究；[[llm-chatbots-cs-multiple-choice|LLM chatbots for CS multiple-choice]] 评估互动质量。
-- **访谈与观察。** 质性可用性访谈与观察捕捉用户体验、偏好与痛点。[[icub-humanoid-storytelling-llm-hri-2025|A usability study of a storytelling humanoid robot]] 使用结构化评价来询问家长是否会让孩子与该机器人互动；[[genai-architectural-design-studios|AI in design studios]] 观察并访谈在真实设计工作中使用 AI 的学生。
+- **用户研究。** 结构化的基于任务的评价测量效率、错误率、满意度与完成度。[[rhaimi-productivemath-2025|ProductiveMath]] 评价一个[[generative-ai|生成式 AI]] 应用在支持[[productive-failure|生产性失败]]教学中的可用性；[[supplynet-visual-exploratory-learning|SupplyNet]] 对一个视觉探究式学习工具运行用户研究；[[llm-chatbots-cs-multiple-choice|LLM chatbots for CS multiple-choice]] 评估互动质量。
+- **访谈与观察。** 质性可用性访谈与观察捕捉用户体验、偏好与痛点。[[icub-humanoid-storytelling-llm-hri-2025|A usability study of a storytelling humanoid robot]] 使用结构化评价来询问[[parents-and-families|家长]]是否会让孩子与该机器人互动；[[genai-architectural-design-studios|AI in design studios]] 观察并访谈在真实设计工作中使用 AI 的学生。
 - **系统性可用性评价。** 启发式评价、认知走查与基于问卷的 UX 测量（如 SUS）依既定标准系统评估可用性。
 
 ## 可用性研究如何出现在本知识库中
@@ -49,7 +49,7 @@ ai_assist:
 - **人机与 [[conversational-ai|对话式 AI]]互动。** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] 是对 [[llm]] 驱动互动的明确可用性研究；[[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] 将可用性与互动质量识别为一个反复出现的主题。
 - **设计与精化。** 可用性发现反馈给迭代式设计（见 [[design-thinking]] 与 [[learning-design]]），在效能测试之前或与之并行改进工具。
 - **一件工具跨情境，及其局限的上限。** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] 在领域、任务与工具保持不变的情况下让教育水平变化，因此 144 名学生对 893 条反馈答案和 237 份报告的评价比较的是情境而非学科——只有感知准确率跨水平有别。该研究也指出了这类用户评价的局限：72.2 到 86.4 百分比的学生平均至少给 4 分（满分 5 分），且作者声明其不显著差异不能确立等价，因为没有预先设定边际。
-- **评分者设计被报告为发现的一部分。** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] 让 25 位领域匹配的专家按锚定于"一堂标准 MOOC 讲座的质量"的评分标准评判 92 个重新生成的讲座，给每个视频指派单一评审（k = 1），以把专家小组铺开到语料的更多部分，而非收集重复评分。这一取舍被建模而非隐藏：一个随机截距模型把约 35 百分比的残差方差归于评审者（ICC = 0.35），且区间按评审者聚类——这样，一个专家小组才能诚实地报告"87 百分比达到或超过门槛"并给出区间。
+- **评分者设计被报告为发现的一部分。** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] 让 25 位领域匹配的专家按锚定于"一堂标准 [[online-teaching-and-learning|MOOC]] 讲座的质量"的评分标准评判 92 个重新生成的讲座，给每个视频指派单一评审（k = 1），以把专家小组铺开到语料的更多部分，而非收集重复评分。这一取舍被建模而非隐藏：一个随机截距模型把约 35 百分比的残差方差归于评审者（ICC = 0.35），且区间按评审者聚类——这样，一个专家小组才能诚实地报告"87 百分比达到或超过门槛"并给出区间。
 
 ## 与其他研究家族的关系
 
@@ -64,7 +64,7 @@ ai_assist:
 
 **"一个可用的系统就是一个好的教育系统。"** 可用性研究处理的是人与系统之间的交互，而不是学习结果，而两者会朝两个方向分离：一件在教学上有力的工具可能因为令人沮丧而被放弃，一件毫不费力的工具也可能什么也教不会。易用是使用的前提，而不是使用值得的证据。
 
-**"可用性是开发末尾的一项打磨活动。"** 它是一组带有核心技术的方法家族：观察、任务分析、出声思维、启发式评审，这些技术塑造设计，而不是为设计收尾。在教学法已定之后才发现摩擦，往往要么导致围绕该问题重做界面，要么导致放弃该工具。
+**"可用性是开发末尾的一项打磨活动。"** 它是一组带有核心技术的方法家族：观察、任务分析、出声思维、启发式评审，这些技术塑造设计，而不是为设计收尾。在[[pedagogy|教学法]]已定之后才发现摩擦，往往要么导致围绕该问题重做界面，要么导致放弃该工具。
 
 **"放弃一个工具的学生缺乏动机。"** 放弃常常是用户对一项设计者从未测量过的交互成本所作的正确判断。因为一个没人使用的工具不可能有效应，放弃率本身就是一种教育结果。
 

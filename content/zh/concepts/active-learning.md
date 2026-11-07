@@ -1,7 +1,7 @@
 ---
 title: 主动学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T05:43:55-05:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-11-04T02:27:17-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **主动学习（Active Learning）** — 让学生做事并思考自己所作所为的教学方法，而非被动接收信息。在教育 AI 领域，主动学习研究既考察 AI 工具如何支持主动学习教学法，也考察与 AI 工具的主动参与——而非被动消费——如何影响学习结果。
+> **主动学习（Active Learning）** — 让学生做事并思考自己所作所为的教学方法，而非被动接收信息。在[[ai-education|教育 AI]]领域，主动学习研究既考察 AI 工具如何支持主动学习教学法，也考察与 AI 工具的主动参与——而非被动消费——如何影响学习结果。
 
 ## 值得思考的问题
 
@@ -41,24 +41,24 @@ ai_assist:
 
 主动学习是教育研究中的基础原则，扎根于将学习者定位为知识的主动建构者的 [[constructivist]] 理论。在教育 AI 的语境中，这一概念获得双重意义：AI 工具可以规模化地实现主动学习（通过 [[intelligent-tutoring|互动式辅导]]、[[simulation|模拟]]与 [[adaptive-learning|自适应反馈]]），但设计不佳的 AI 工具也可能通过 [[cognitive-offloading|替学生做认知工作]]而破坏它。AI 辅助与主动认知参与之间的张力——如 [[lak2026-hint-button-unproductive-use]] 关于过早使用提示与 [[efficiency-gain-illusion-ai-overreliance]] 关于 [[cognitive-offloading|过度依赖]]的文章所探讨——是一个核心关切。
 
-AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参与解题而非给出答案的 [[intelligent-tutoring]] 系统、[[genai-mindtool-generative-learning]] 方法——学生把 AI 当作思考工具而非替代品、[[test-driven-ai-assisted-learning]]——学生驱动 AI 互动而非跟随它，以及 [[curiobot-llm-tutoring-exploratory-learning]] 探究式学习环境。[[scaffolding]] 概念与之紧密耦合——有效的主动学习需要随胜任力增长而淡出的校准式支持，这正是 AI 辅导者必须学会提供的。
+AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参与解题而非给出答案的 [[intelligent-tutoring]] 系统、[[genai-mindtool-generative-learning]] 方法——学生把 AI 当作思考工具而非替代品、[[test-driven-ai-assisted-learning]]——学生驱动[[student-ai-interaction|AI 互动]]而非跟随它，以及 [[curiobot-llm-tutoring-exploratory-learning]] 探究式学习环境。[[scaffolding]] 概念与之紧密耦合——有效的主动学习需要随胜任力增长而淡出的校准式支持，这正是 AI 辅导者必须学会提供的。
 
 ## 主动学习如何出现在本知识库的研究中
 
 - **互动模式决定认知参与。** [[ai-assisted-learning-modes-eeg|一项针对高中生的 EEG 研究]]比较了 Auto（AI 独立解题）、Interactive（带支架的学生—AI 协作）与 Manual（无 AI）三种模式：**Interactive 产生了最高的认知参与与任务准确率**，而 Auto 降低了参与并有过度依赖的风险。这为"AI 必须让学生*做*而非旁观"的论证提供了一个神经生理学维度。
 
-- **AI 支持的探究并非自动是更高阶的。** 一项对 120 名八年级学生的准实验发现，AI 支持的 [[inquiry-based-learning|探究式学习]]提高了创造性数学表现与对数学的态度，但在批判性 [[problem-solving]] 上没有产生显著增益——这是对把创造性与情感增益读作更深层推理证据的告诫（[[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]）。
+- **AI 支持的探究并非自动是更高阶的。** 一项对 120 名八年级学生的准实验发现，AI 支持的 [[inquiry-based-learning|探究式学习]]提高了创造性数学表现与对数学的态度，但在批判性 [[problem-solving]] 上没有产生显著增益——这是对把[[creativity|创造性]]与情感增益读作更深层推理证据的告诫（[[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]）。
 
-- **可获得性不等于结构。** 在一项建筑工程审阅任务中，同一套检索增强系统在五步 [[prompt-engineering|提示]]结构下于开放式题目上得分 12.41，而无此结构时为 10.45，基于幻灯片的研习得分 9.68，多选题回忆则无差异（[[instructional-guidance-genai-learning|Hou 等人（2026）]]）。未经该结构的 AI 审阅并未胜过幻灯片，因此增益来自互动的结构，而非模型的可得性。
+- **可获得性不等于结构。** 在一项建筑工程审阅任务中，同一套[[rag|检索增强]]系统在五步 [[prompt-engineering|提示]]结构下于开放式题目上得分 12.41，而无此结构时为 10.45，基于幻灯片的研习得分 9.68，多选题回忆则无差异（[[instructional-guidance-genai-learning|Hou 等人（2026）]]）。未经该结构的 AI 审阅并未胜过幻灯片，因此增益来自互动的结构，而非模型的可得性。
 
 - **复现是一种独立的活性成分。** 物理 AI 复现协议让学生获得 AI 对一道难题的解释，索取一两道类似的问题，然后在核对之前独立解出它们。在四所美国机构的 11 个入门物理班次中，231 名受访者中的 90.9% 认为它带来了更好的概念理解，213 人中的 97.7% 认为复现的练习有帮助，两者在 r_s = 0.58 上相关（[[paul-pair-framework-genai-active-learning-physics-2026|Paul 等人，2026]]）。学习者一侧的机制正是本页所缺的：18.7% 的开放式回答描述了必须理解一道题的结构才能生成类似题目。此后的信心追踪的是那两项收益（r_s = 0.37 与 0.35），而不是使用频率（r_s = 0.02）。
 
-- **探究与基于模拟的主动学习。** [[supplynet-visual-exploratory-learning|SupplyNet]] 使用情境化多智能体 LLM 模拟支持供应链教育中的视觉探究式学习，将互动式网络视图与分支式的"假如"时间线配对，使学习者追踪因果动力学而非消费抽象内容。[[curiobot-llm-tutoring-exploratory-learning|Curiobot]] 与 [[genai-assisted-problem-posing-physics-2026|物理中的问题提出]]同样把学习者驱动的探究置于前台。
+- **探究与基于模拟的主动学习。** [[supplynet-visual-exploratory-learning|SupplyNet]] 使用情境化[[agentic-ai|多智能体]] [[llm]] 模拟支持供应链教育中的视觉探究式学习，将互动式网络视图与分支式的"假如"时间线配对，使学习者追踪因果动力学而非消费抽象内容。[[curiobot-llm-tutoring-exploratory-learning|Curiobot]] 与 [[genai-assisted-problem-posing-physics-2026|物理中的问题提出]]同样把学习者驱动的探究置于前台。
 - **用于主动复习的结构化对话工作流。** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] 把课后复习组织为三个阶段——Recognize（就地标记困惑）、Resolve（澄清）与 Consolidate（教学相长）——表明教学相长促使学习者表达并暴露概念缺口，且情境扎根的 AI 在定向支持上优于通用 AI。教学相长具体体现了 [[learning-by-teaching]]。
-- **主动学习作为项目制、社群结构。** [[academic-league-of-ai-2026|The Academic League of AI]] 围绕竞赛队、学习小组与 AI 促社会公益的项目组织课外 AI 教育，通过民主的学生治理而非自上而下的课程体现主动与 [[project-based-learning|项目制学习]]。
+- **主动学习作为项目制、社群结构。** [[academic-league-of-ai-2026|The Academic League of AI]] 围绕竞赛队、学习小组与 AI 促社会公益的项目组织课外 AI 教育，通过民主的学生治理而非自上而下的[[curriculum-design|课程]]体现主动与 [[project-based-learning|项目制学习]]。
 - **思维工具与生成性参与。** [[genai-mindtool-generative-learning|GenAI 作为思维工具]]把 AI 定位为学生借以*思考*的装置，而非答案来源，使主动学习与生成性学习理论对齐——学习者把新观念整合进已有知识。
-- **把构建辅导者本身当作主动学习的任务。** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]颠倒了惯常的 AI 辅导者安排：在一门 700 名学生的软件课程中，345 名学生各自设计一个对话式智能体，向同伴讲授三种设计模式——于是主动学习的工作就是该智能体的构建：预判用户需求、把抽象概念译成可教的片段。学生珍视开放式设计自由（22.3% 为最高频正面主题），但最高频的抱怨是指示不清（23.7%）；作者告诫，无对照组、志愿者样本的设计只支持关于参与的论断。
-- **围绕模型的错误设计。** 一个五步序列（独立分析、一个标准化的 ChatGPT 提示、对输出的批判性评价、修改、课堂讨论）之所以奏效，是因为 AI 可预见地犯错：ChatGPT 把一首歌歌词中的无弹性需求误标为"完全弹性"，这一差异教会学生验证输出（[[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]）。
+- **把构建辅导者本身当作主动学习的任务。** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]颠倒了惯常的 AI 辅导者安排：在一门 700 名学生的软件课程中，345 名学生各自设计一个[[conversational-ai|对话式智能体]]，向同伴讲授三种设计模式——于是主动学习的工作就是该智能体的构建：预判用户需求、把抽象概念译成可教的片段。学生珍视开放式设计自由（22.3% 为最高频正面主题），但最高频的抱怨是指示不清（23.7%）；作者告诫，无对照组、志愿者样本的设计只支持关于参与的论断。
+- **围绕模型的错误设计。** 一个五步序列（独立分析、一个标准化的[[generative-ai|ChatGPT]] 提示、对输出的[[critical-thinking|批判性评价]]、修改、课堂讨论）之所以奏效，是因为 AI 可预见地犯错：ChatGPT 把一首歌歌词中的无弹性需求误标为"完全弹性"，这一差异教会学生验证输出（[[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]）。
 - **一个经过教学法设计的 AI 辅导者可以胜过主动学习课堂本身。** 在哈佛大学入门物理课程中的一项交叉 [[rct]] 把一个定制 AI 辅导者与该课程自身的课堂主动学习课相比——是同一套基于研究的教学法，而非讲座——发现用更少的时间学到显著更多：后测中位数 4.5 对 3.5，线性回归效应量 0.63，任务用时中位数 49 分钟对课堂 60 分钟（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]）。作者把功劳归于设计而非媒介，因为该辅导者被工程化以承载与课堂相同的七项基于研究的实践，只增加了按需的个性化反馈与自主节奏。
 
 - **一次接触可能压制它本应提升的参与。** 在一项针对 759 名 MBA 学生的预注册田野实验中，安排课前与一个就对立观点进行辩论的语音 AI 伙伴演练，在第二次指定使用之后使课堂自愿发言增加约 31%。在其所准备的课次中没有任何变化，而仅第一次使用之后参与反而下降（[[assigned-ai-preclass-student-engagement-2026|Wang 等人（2026）]]）。这里的剂量是设计参数，而非实现细节。
@@ -85,7 +85,7 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 
 - **“把 AI 放进活动里就使它成为主动的。”** 一项 EEG 研究发现，**学生与 AI 的互动式协作产生了最高的认知参与，而完全自动化降低了它**。参与来自互动，而非 AI 的在场；把学习者那一部分工作自动化，把参与推向了错误的方向。
 - **“AI 支持的探究自动就是更高阶的。”** 一项对 **120 名八年级学生**的准实验发现，AI 支持的[[inquiry-based-learning|探究式学习]]提高了创造性数学表现，**同时**也只在更窄的一项测量上有所提高：处理改变了部分结果，而非全部。与一个高阶标签相关，并不等于是一项高阶任务。
-- **“让学生设计教学是一种技术练习。”** 在那项倒置研究中，一门 700 名学生的课程里有 **345 名学生**各自设计一个对话式智能体，向同伴讲授三种设计模式。主动学习来自设计工作，而那是教学推理，不是提示工程。
+- **“让学生设计教学是一种技术练习。”** 在那项倒置研究中，一门 700 名学生的课程里有 **345 名学生**各自设计一个对话式智能体，向同伴讲授三种设计模式。主动学习来自设计工作，而那是[[pedagogy|教学]]推理，不是提示工程。
 - **“参与的发现就是学习的发现。”** 同一证据基础告诫，**无对照组、志愿者样本**的设计只支持关于参与的论断。学生珍视开放式设计自由（**22.3%** 为最高频正面主题），最常抱怨的是指示不清（**23.7%**），两者都关乎体验。
 
 ## 关联概念

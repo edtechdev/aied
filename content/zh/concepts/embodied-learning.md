@@ -1,14 +1,14 @@
 ---
 title: 具身学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,10 +37,11 @@ ai_assist:
 
 - **扎根式编程：**[[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]把[[cs-education|积木式编程]]扎根于具身的机器人执行上，创造出一个编写、运行、观察、修订的紧密回路，使学习者看到自己的代码变成行为。
 - **社交机器人交互：**用于[[storytelling-in-education|讲故事]]的[[educational-robotics|社交机器人]]（[[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]、[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]）、角色扮演（[[remind-robot-mediated-roleplay-antibullying-2026|REMind]]）和手语（[[pepper-robot-sign-language-lis-2025|Pepper]]）提供具身的社交互动，支持关系性和[[social-emotional-learning|情绪性]]学习。
-- **具身特征并不是驱动结果的东西。** 一项对 11 项 RALL 研究的元分析（N = 595, g = 0.83, I² = 84.4%）发现，机器人形态、模态、自主性和社会角色并不调节第二语言学习；小组形式胜过一对一，因此起作用的是机器人的位置，而不是它的具身性（[[robot-assisted-language-learning-meta-analysis-2026|Wang 等人（2026）]]）。
+- **具身特征并不是驱动结果的东西。** 一项对 11 项 RALL 研究的[[meta-analysis-systematic-review|元分析]]（N = 595, g = 0.83, I² = 84.4%）发现，机器人形态、模态、自主性和社会角色并不调节第二语言学习；小组形式胜过一对一，因此起作用的是机器人的位置，而不是它的具身性（[[robot-assisted-language-learning-meta-analysis-2026|Wang 等人（2026）]]）。
 - **具身与创意写作：**[[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|关于创意写作中机器人—LLM 整合的研究]]考察具身性如何影响学习者的互动与结果。
 - **人机交互：**[[educational-robotics|HRI]]研究（[[task-context-trust-educational-hri-2026|信任]]、[[human-autonomy-agency-hri-review-2025|能动性]]）考察物理具身如何塑造信任、[[student-engagement|投入]]和[[agency|自主性]]。
 - **手势作为理解的证据：**[[multimodal-embodied-cognition-oral-explanations-2026|Morphew 等人]]把计算机视觉的手势追踪与对言语的[[llm]]分析结合起来，表明工科学生对统计的概念理解经由言语和手势同时表达。高置信度的解释性手势围绕特定概念聚集（尤其是均值），而手势—言语的紧密耦合标志着连贯的概念性表达，二者的分歧则标志着正在形成中的观念——这经由[[multimodal|多模态学习分析]]把具身行动定位为[[assessment-validity|评价]]中的证据，而不只是一个学习机制。
+- **仅靠语言的促进者会把探究拉向可说之物。** 在一个硕士流体静力学实验室里，学生先用手搭建浮力模型，随后一个基于 Gemini 的促进者加入，把它应用到一个新现象上。在三对参与者中，AI 维持了 ISLE 序列，但当被催促"直接告诉我们"时，它产出了没有人测量过的质量数值，而一名远程参与者完成了一个物理上正确、干净却去具身的循环（[[embodied-inquiry-ai-facilitator-physics-2026|Tufino 与 Damiani，2026]]）。设计教训是排序而非替代：先让模型在身体中建立，再让语言模型去做应用。
 
 ### 具身智能与对去具身 AI 的批评
 
@@ -51,11 +52,15 @@ ai_assist:
 - **具身、情境性与社会建构。** 在[[science-education|科学学习]]中，AI 工具作为"中介人工物"发挥作用，使数字实践共同体和跨界成为可能，把具身的、真实的探究连接到真实世界和跨学科语境。（[[li-ai-science-situated-learning-teachers-2025]]）这把具身性连接到[[situated-learning]]和[[distributed-cognition]]。
 - **身体追踪把调节变成可测量的信号。**在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线在 40 分钟视频中标注了 470 段自我调节行为，其中 enacting 占 66.4%（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
 
+- **AI 大多是在观看身体，而不是加入身体。** 在一项对 23 项 AI 用于具身学习研究的 PRISMA 综述中，40 个被编码的 AI 角色以感知为主：分析与评价占 40.0%，识别与检测占 22.5%，而在活动内部行动的角色只占 35.0%（反馈与教练 15.0%、互动 12.5%、内容创作 7.5%）。剔除三篇低评级与四篇无法评估的论文后，互动降至 6.7%，内容创作降至 3.3%，因此 AI 加入具身回路的证据建立在最弱的论文之上（[[kim-ai-embodied-learning-review-2026|Kim 与 Han（2026）]]）。
+
+- **最具身体性的文献最少测量身体。** 在 32 个结果标签中，认知结果占 43.8%，情感结果占 34.4%，心理运动结果占 21.9%，这一排序在 16 篇评级较高的论文中依然成立（25 个标签中的 24.0%）。作者归咎于选择心理运动测量的困难，以及优先重视认知增益的习惯，而不是身体技能上的效应微弱。所综述的系统没有一个是为学习者共同行动而设计的；出现的协作是[[teacher-role|教师]]与 AI 之间的合作（[[kim-ai-embodied-learning-review-2026|Kim 与 Han（2026）]]）。
+
 具身学习连接到[[educational-robotics]]、[[educational-robotics]]、[[educational-robotics]]、[[active-learning]]、[[experiential-learning]]、[[situated-learning]]、[[distributed-cognition]]、[[computational-thinking]]和[[social-emotional-learning]]。
 
 ## 常见误解
 
-- **"是身体让具身学习起作用。"** 一项对 **11 项 RALL 研究（N = 595, g = 0.83, I² = 84.4%）** 的元分析发现，**机器人形态、模态、自主性与社会角色并不调节**第二语言学习的结果。具身特征不是那个有效成分，而异质性高到（I² = 84.4%）这个合并效应描述的是一组非常混杂的干预。
+- **"是身体让具身学习起作用。"** 一项对 **11 项 RALL 研究（N = 595, g = 0.83, I² = 84.4%）** 的元分析发现，**机器人形态、模态、自主性与社会角色并不调节**第二[[language-learning|语言学习]]的结果。具身特征不是那个有效成分，而异质性高到（I² = 84.4%）这个合并效应描述的是一组非常混杂的干预。
 - **"一个大的效应就确定了机制。"** 在 11 项研究、595 名参与者上得到 g = 0.83 是一个真实信号，而它并不能指认是什么产生了这一信号。既然设计特征并不调节效应，可信的机制位于教学活动之中，而非硬件之中，这就改变了应当投资于什么。
 - **"具身性无法测量，因此只能停留在理论层面。"** 身体追踪可以把调节变成**可测量的信号**：在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线标注了 **470 段**调节行为。即便构念难以定义，它也是可以被操作化的。
 
@@ -86,3 +91,5 @@ ai_assist:
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI 作为手工建模之后的促进者：基于语言的 AI 无法跟随具身探究（Tufino 与 Damiani 2026）
+- [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 大多在观察：感知角色占编码角色标签的 62.5%，且没有所综述的系统在学习者使用时融合多模态流（Kim 与 Han 2026）

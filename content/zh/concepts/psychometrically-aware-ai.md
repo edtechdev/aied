@@ -1,13 +1,13 @@
 ---
 title: 具备心理测量意识的 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,16 +37,16 @@ ai_assist:
 ### 具备心理测量意识的 AI 如何出现在研究中
 
 - **校准与置信度：**[[automated-assessment|具备置信度意识的评估]]和 [[llm-psychometric-calibration-cdp|LLM 心理测量校准]]确保 AI 报告有意义、具有不确定性意识的分数，而非过度自信的点估计。
-- **模型置信度不够用。**在 SciEntsBank 上，语言化、潜在和基于一致性的置信度，都未能把正确的简答与错误的分开；最好的校准来自加入数据集衍生的偶然不确定性——嵌入回答的簇内熵——通过随机森林加 Platt 缩放实现，从而支持选择性自动评分和人工复核（[[cong-confidence-asag-2026|Cong et al.（2026）]]）。
+- **模型置信度不够用。**在 SciEntsBank 上，语言化、潜在和基于一致性的置信度，都未能把正确的简答与错误的分开；最好的校准来自加入数据集衍生的偶然不确定性——嵌入回答的簇内熵——通过随机森林加 Platt 缩放实现，从而支持选择性自动评分和[[human-in-the-loop-ai|人工复核]]（[[cong-confidence-asag-2026|Cong et al.（2026）]]）。
 - **置信度标记的是分诊复核，而非接受。**在高利害手写物理评分中，AI 置信度标记在高置信度部分上对应远更低的分数误差，但仍有若干被标记为高置信度、未被标记的部分与官方评分不一致，因此这些标记对排定阅卷人复核的优先级有用，而非授权自动接受（[[ai-grading-handwritten-physics-2026|Pathak et al.（2026）]]）。
 - **难度预测：**[[llm-item-difficulty-prediction|题目难度预测]]显示，基于 LLM 的估计必须对照心理测量模型加以验证（见[[item-response-theory]]）。[[razavi-powers-item-difficulty-llm-2026|Razavi 与 Powers（2026）]]提供了一个大规模演示：在 5,170 道按 Rasch IRT 模型校准的 K-5 数学与阅读题上，GPT-4o 的零样本难度评级与真实难度呈中到强的相关（r = 0.83 数学，r = 0.81 阅读），但在各年级之间不均，而基于特征的方法（把 LLM 提取的特征输入树模型）达到高达 r = 0.87 的相关。该研究可解释的[[explainable-ai|特征重要性]]（年级和词数为首要预测因子）及其务实的七步工作流，展示了具备心理测量意识的 AI 如何被落地——而其低年级区间受限的发现和可推广性告诫，凸显了必须把 LLM 估计对照已拟合的心理测量参数来验证。
-- **恢复出一条曲线不等于恢复出每一个参数。**一个被微调为[[simulating-students|模拟作答者]]的多模态模型，对留出题的难度估计为 r = 0.85，猜猜参数恢复为 0.48，但区分度只有 0.31 的弱水平——因此一个方法恢复了哪个参数，本身就是发现（[[multimodal-item-parameter-estimation-2026|Ormerod & Kim，2026）]]。
+- **恢复出一条曲线不等于恢复出每一个参数。**一个被微调为[[simulating-students|模拟作答者]]的[[multimodal|多模态]]模型，对留出题的难度估计为 r = 0.85，猜猜参数恢复为 0.48，但区分度只有 0.31 的弱水平——因此一个方法恢复了哪个参数，本身就是发现（[[multimodal-item-parameter-estimation-2026|Ormerod & Kim，2026）]]。
 - **测量效度：**该概念连接到[[assessment-validity]]和[[educational-measurement]]，这两个框架定义了何为有效、可信的 AI 评估。
 - **潜在结构效度：**[[assessment-latent-structure-human-llm-2026|Strugatski et al.（2026）]]表明，具备心理测量意识的立场还必须验证一份评估在 LLM 中测量的是*同一个潜在构念*、与在人类中一样。因为 LLM 与人类在同一批工具上的反应因子结构发生分歧，即便得分良好的模型也可能并未测量考试声称要测量的构念——这是对任何借用人类效度证据的 AI 评估的一条告诫。
-- **一个标签可以测量得比它名字所暗示的更多，或更少。**把 12 个 AI 素养工具的 55 个构念和 272 个题项嵌入后，浮现出 jangle 对（同一标签、不同测量）和 jingle 对（不同标签、措辞近乎相同），信度恢复为 r = 0.49，这是一项采集前的检验，看构念区分能否存活到题项措辞（[[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al.（2026）]]）。
+- **一个标签可以测量得比它名字所暗示的更多，或更少。**把 12 个 [[ai-literacy|AI 素养]]工具的 55 个构念和 272 个题项嵌入后，浮现出 jangle 对（同一标签、不同测量）和 jingle 对（不同标签、措辞近乎相同），信度恢复为 r = 0.49，这是一项采集前的检验，看构念区分能否存活到题项措辞（[[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al.（2026）]]）。
 - **一个拒绝结果锚定的依赖量表。**四个因子——反思性使用、谨慎使用、无思使用与协作性使用——从 800 份作答中出现，并在一项形态不同的任务上保持稳定（CFI = .91），它按每个任务时刻测量行为，而不是把行为贴上好或坏的标签（[[genai-reliance-scale-problem-solving-2026|Hou et al.（2025）]]）。
 - **潜在能力流水线与标准设定：**[[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al.（2026）]]为国家考试中具备心理测量意识的评分提供了一个具体模板：评分表各题得分从不直接相加，而是输入一个[[item-response-theory|IRT]]模型，其潜在能力估计用 Bookmark 标准设定方法切分为"达标 / 接近达标 / 不足"，且通过要求至少两节"达标"、其余一节至少"接近达标"。作者把该流水线以自动化形式复现（下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道），使 AI 与人工题项得分可以对照同一套判定标准比较，而非仅凭原始一致性。
-- **均衡的指标能抓住一个只是看起来已校准的模型。**让 GPT-4o 与 Gemini 2.0 Flash 从 153 名本科生的对话推断学习风格维度，产生了中等准确率，而按类别的召回率显示那其实是主导标签预测：Intuitive 与 Global 学习者被识别不足，少样本提示有时反而放大了偏差而非消除它（[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]]）。
+- **一个模型可以看起来已校准，却主要只在预测一个标签。**让 GPT-4o 与 Gemini 2.0 Flash 从 153 名本科生的对话推断学习风格维度，产生了中等准确率，而按类别的召回率显示那其实是主导标签预测：Intuitive 与 Global 学习者被识别不足，少样本[[prompt-engineering|提示]]有时反而放大了偏差而非消除它（[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]]）。
 
 ### 关联
 
@@ -55,7 +55,7 @@ ai_assist:
 ## 常见误解
 
 - **"得分好的模型测量的是同一样东西。"** 在**同一份评估工具**上，人类与大语言模型的反应结构**出现分歧**，因此一个模型可以得分很好，却测量着不同于工具所意图的东西。分数匹配是观察；构念等值是一个独立的主张，需要结构层面的证据。
-- **"校准可以从一个准确率数字上读出来。"** **均衡的指标能抓住一个只是看起来已校准的模型**：让 GPT-4o 与 Gemini 2.0 Flash 从 **153 名本科生**的对话推断学习风格维度，产生了**中等准确率，而它在均衡指标下表现不同**。聚合准确率掩盖了一个被均衡指标暴露出来的差异。
+- **"校准可以从一个准确率数字上读出来。"** **单一准确率数字可以掩盖一个只是看起来已校准的模型**：让 GPT-4o 与 Gemini 2.0 Flash 从 **153 名本科生**的对话推断学习风格维度，产生了**中等准确率，而它在均衡指标下表现不同**。聚合准确率掩盖了一个被均衡指标暴露出来的差异。
 - **"自动评分流水线无法复现心理测量程序。"** 作者以自动化形式复现了一条既有流水线（**下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道**），使 AI 与人工题项得分可以在同一基础上比较。程序是可复现的；构念问题仍然存在。
 
 ## 关联概念

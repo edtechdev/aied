@@ -1,7 +1,7 @@
 ---
 title: "人工智能智能体如何支持学生与教师？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
@@ -46,7 +46,7 @@ ai_assist:
 
 [[agentic-workflows-education|教育中的智能体工作流]]列出了四项反复出现的能力：反思、规划、工具使用与多智能体协作。每一项在带来可能性的同时也加上一项成本，涉及[[explainable-ai|可解释性]]、协调、[[trust-calibration|信任]]、延迟与监督。
 
-学生侧的角色从[[adaptive-learning|自适应]]辅导与学习规划，到[[formative-assessment|形成性]]反馈、有引导的[[problem-solving|问题解决]]与练习生成，再到先修知识推荐与反思性的[[metacognition|元认知]][[prompt-engineering|提示]]。教师侧的角色涵盖材料开发、[[automated-question-generation|题目生成]]与验证、反馈分流、课程[[learning-analytics|分析]]、教学设计、资源检索，以及专用子智能体的编排。
+学生侧的角色从[[adaptive-learning|自适应]]辅导与学习规划，到[[formative-assessment|形成性]]反馈、有引导的[[problem-solving|问题解决]]与练习生成，再到先修知识推荐与反思性的[[metacognition|元认知]][[prompt-engineering|提示]]。教师侧的角色涵盖材料开发、[[automated-question-generation|题目生成]]与验证、反馈分流、课程[[learning-analytics|分析]]、[[learning-design|教学设计]]、资源检索，以及专用子智能体的编排。
 
 其中有两者在早期更安全，因为二者产出的都是有人在学生之前先读过的成品：一个配了验证器的题目生成器，以及由教师编辑的草稿。
 

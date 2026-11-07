@@ -1,7 +1,7 @@
 ---
 title: 管理者
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -31,10 +31,10 @@ ai_assist:
 
 - AI 的采纳常被框定为课堂层面的决定，但条件其实由管理者设定——政策、资金、基础设施。在你的机构里，真正决定 AI 是否以及如何被使用的是谁？谁又被排除在这个决定之外？
 - 研究发现，高层政策雄心与日常实施之间存在反复出现的落差。你在哪里见过一项用心良苦的 AI 政策没能落实到课堂？你认为它为什么没做到？
-- 管理者必须在教学机会与风险、公平和资源之间取得平衡。如果只能二选一，是资助一项新的 AI 计划，还是补强数据治理与教师培训？你会选哪个，为什么？
+- 管理者必须在[[pedagogy|教学]]机会与风险、公平和资源之间取得平衡。如果只能二选一，是资助一项新的 AI 计划，还是补强数据治理与教师培训？你会选哪个，为什么？
 - 机构层面的采购决定，可以放大或限制教师和学生实际能做的事。在你的机构与某个 AI 教育技术平台签约之前，你希望先弄清哪些问题？
 - 机构会把 AI 能力转化为可接受使用框架与数据标准。面对创新的前景，你会如何权衡这些工具所收集数据涉及的隐私与公平问题？
-- 管理者对 AI 身心健康工具的选择，直接塑造学生的体验。在部署一个旨在"支持"而非"监控"学生的 AI 工具之前，你希望看到什么证据？
+- 管理者对 AI [[well-being|身心健康]]工具的选择，直接塑造学生的体验。在部署一个旨在"支持"而非"监控"学生的 AI 工具之前，你希望看到什么证据？
 
 ## 引言
 
@@ -50,7 +50,7 @@ ai_assist:
 
 - **领导结构落后于战略意图。** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi（2026）]]发现，尽管 49% 的机构将 AI 视为战略优先事项，但只有 7% 的机构设立了高级 AI 领导岗位；授权型与分权型领导风格与更高的教师参与度相关，而在政策与基础设施薄弱的机构，理论与实施的落差最大。
 
-- **身心健康与学生体验：** [[ai-campus-wellbeing-tools|AI 校园身心健康工具]]考察了机构如何部署 AI 支持学生，把管理者的选择与 [[student-experience]] 结果联系起来。
+- **身心健康与学生体验：** [[ai-campus-wellbeing-tools|AI 校园身心健康工具]]考察了机构如何部署 AI 以提供 [[student-support-and-success|学生支持]]，把管理者的选择与 [[student-experience]] 结果联系起来。
 
 - **治理与监管：** 管理者的决定与 [[educational-policy-ai]]、[[governance]] 和 [[regulation]] 相互作用——机构将 AI 能力转化为可接受使用框架、评估规则和数据治理标准（见 [[genai-policies-higher-ed-computing|机构 GenAI 政策分析]]）。
 

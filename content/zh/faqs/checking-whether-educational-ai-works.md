@@ -1,7 +1,7 @@
 ---
 title: "如何判断一个教育 AI 是否真的有效，而不只是分数好看？"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq
@@ -62,7 +62,7 @@ Linear Control Systems 课程助手把这件事报对了。它最好的配置相
 
 ## 为每一项输出单独评分
 
-在 WrAFT 项目中，一个微调模型在 360 篇留出的 TOEFL 作文上与人工评分者达到 **0.84** 的一致度分数。对评分来说这是一个强结果。同一项目中训练来写反馈的模型，产出的内容被截断、无法解析，而只是换一个模型加提示词，产出的反馈反而更受教师欢迎（[[wraft-automated-writing-evaluation-argumentative-2026]]）。
+在 WrAFT 项目中，一个微调模型在 360 篇留出的 TOEFL 作文上与人工评分者达到 **0.84** 的一致度分数。对评分来说这是一个强结果。同一项目中训练来写反馈的模型，产出的内容被截断、无法解析，而只是换一个模型加[[prompt-engineering|提示词]]，产出的反馈反而更受教师欢迎（[[wraft-automated-writing-evaluation-argumentative-2026]]）。
 
 这个知识库里记录了同一失效的第二种形态：一次部署里评分模块得分很好，而反馈送到时在句子中间被截断、无法阅读。头条数字里没有任何东西说明了这一点。
 
@@ -88,13 +88,13 @@ Linear Control Systems 课程助手把这件事报对了。它最好的配置相
 
 最干净的修法是让模型在你打算测量的同一个量上训练。一个微调模型被训练去复现试题的统计特性：每道题有多难、它把强学生和弱学生分得有多开。它是学会了这些模式，而不是被告知这些模式（[[multimodal-item-parameter-estimation-2026]]）。因为目标是评价本身的属性，评估就可以针对那个属性，而不是针对措辞。
 
-报告进程，也报告终点。SWIM 的写作模拟器把每个阶段的分数并排列出：基于评分细则的提示 **0.577**，微调 **0.474 ± 0.023**，强化学习 **0.618 ± 0.005**（[[swim-student-writing-simulation-2026]]）。读者从那张表就能看出训练到底有没有起作用。单个最终数字做不到这一点，而且它藏起了一个微调模型比提示更差的阶段。
+报告进程，也报告终点。SWIM 的写作[[simulation|模拟器]]把每个阶段的分数并排列出：基于评分细则的提示 **0.577**，微调 **0.474 ± 0.023**，[[reinforcement-learning|强化学习]] **0.618 ± 0.005**（[[swim-student-writing-simulation-2026]]）。读者从那张表就能看出训练到底有没有起作用。单个最终数字做不到这一点，而且它藏起了一个微调模型比提示更差的阶段。
 
 ## 拿项目之外的东西做比较
 
 先要一个基线，包括一个便宜的基线。课程助手的模型在没有接地的条件下得分低于一个普通的关键词搜索，这类结果会改变路线图，而发现它只花一天。
 
-外部基准随后告诉你，你的数字到底算不算好。在 CDPK 教学法基准上，EduQwen 达到 **96.52%**，Gemini-3 Pro 为 **90.55%**（[[singh-eduqwen-pedagogical-rl-2026]]）。教学法基准由真实的教师专业发展考试构建，覆盖 **97 个模型**，发现准确率从 **28% 到 89%** 不等（[[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]）。
+外部基准随后告诉你，你的数字到底算不算好。在 CDPK [[pedagogy|教学法]]基准上，EduQwen 达到 **96.52%**，Gemini-3 Pro 为 **90.55%**（[[singh-eduqwen-pedagogical-rl-2026]]）。教学法基准由真实的[[teacher-role|教师]]专业发展考试构建，覆盖 **97 个模型**，发现准确率从 **28% 到 89%** 不等（[[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]）。
 
 在一项关于教学的任务上，模型表现从差到好都有，所以一个基准成绩只是把你的系统放在一个很宽的区间里的某个位置。
 
@@ -106,7 +106,7 @@ Linear Control Systems 课程助手把这件事报对了。它最好的配置相
 
 ## 在信任模拟学生之前先检验它
 
-生成模拟学生而不是招募真实学生，让评估便宜得多。但模拟学生同时也是一件测量工具，它会以工具出错的方式出错：太合作、太流利、太快接受提示。
+生成[[simulating-students|模拟学生]]而不是招募真实学生，让评估便宜得多。但模拟学生同时也是一件测量工具，它会以工具出错的方式出错：太合作、太流利、太快接受提示。
 
 知识库里最直接的检验，用七项覆盖语言、行为和思维的测量，把模拟学生和提示出来的学生对照 **382 段留出的对话**做了基准测试，这些对话来自最大的公开真实学生—导师数学对话集（[[simulated-students-tutoring-dialogues-2026]]）。其他工作从不同角度推进真实性：[[inside-llm-student-simulator-reasoning-2026|INSIDE]]训练模型既像学生一样行动、也像学生一样思考，而带历史感知的画像把模拟条件建在一个学生的过去之上，而不是一个固定人格（[[history-aware-student-simulation]]）。
 

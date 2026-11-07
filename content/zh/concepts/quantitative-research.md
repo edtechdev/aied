@@ -1,14 +1,14 @@
 ---
 title: 量化研究
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 ## 值得思考的问题
 
-- “使用 AI 导师的学生得分更高” —— 在读之前，这是一个关于因果还是相关的断言，什么单一证据能把一个变成另一个？
+- “使用 [[intelligent-tutoring|AI 导师]]的学生得分更高” —— 在读之前，这是一个关于因果还是相关的断言，什么单一证据能把一个变成另一个？
 - 一项横断面调查能检验复杂的的中介模型，却永远不能确立因果。为何两个变量即便互不为因也可能在调查中相关？你能想到一种在教育中真正被这种相关误导的方式吗？
 - 量化工具的好坏只取决于它测量什么 —— 而本页指出工具可能测量错误的构念。当你填一份关于“信心”或“参与”的自陈问卷时，它实际可能在捕捉什么，你如何查清？
 - 随机对照试验把学习者随机分配到条件以估计因果效应。什么使随机分配如此有力，当“处理”是一个可能有帮助、而某些学生被拒绝使用的 AI 工具时，会出现哪些实践与伦理问题？
@@ -42,13 +42,13 @@ ai_assist:
 - **优势：** 大样本；广泛、低成本的覆盖；检验复杂的中介模型；对难以观察的态度可行。
 - **局限：** 横断面数据不能确立因果；自陈偏倚；方便抽样限制可推广性；中介从协方差推断，而非操纵。这些局限的工具侧处理见 [[self-report-measures|自陈测量]]。
 
-- **一个饱和的中介模型无法检验自身的排序。** 一项对 1,020 名护理学生的单波调查把 1.36 的总效应拆成一个 0.92 的直接效应与一个经由自我调节学习的 0.44 的间接效应（占总量的 32.35%），而该模型的自由参数与观测协方差一样多，因此在构造上就复现了数据（[[li-nursing-genai-interaction-self-regulated-learning-2026|Li 等（2026）]]）。
+- **一个饱和的中介模型无法检验自身的排序。** 一项对 1,020 名护理学生的单波调查把 1.36 的总效应拆成一个 0.92 的直接效应与一个经由 [[self-regulated-learning|自我调节学习]]的 0.44 的间接效应（占总量的 32.35%），而该模型的自由参数与观测协方差一样多，因此在构造上就复现了数据（[[li-nursing-genai-interaction-self-regulated-learning-2026|Li 等（2026）]]）。
 **一个近乎为零的总间接效应可能掩盖两条仍然存在的路径。** 在一波对 568 名设计学生的自陈调查中，间接关联经由促进聚焦为 0.0929、经由预防聚焦为 -0.0884，合计 0.0045，而直接路径承载了总效应的 98.7%（[[wang-ai-disruption-design-innovation-competence-2026|Wang 等（2026）]]）。
 
 ### 实验与准实验研究
 实验把学习者随机分配到条件（如 AI 导师 对 人类导师，或 AI 支架 对 无辅助）以估计对结果的因果效应。**随机对照试验（[[rct|RCT]]）** 是内部效度的金标准。[[access-not-enough-ai-tutoring-2026|一项关于人类支持加 AI 辅导的随机田野研究]] 与 [[genai-can-harm-teaching-rct-2026|一项关于教学中生成式 AI 的随机对照试验]] 用分配来隔离因果效应。**准实验** 设计（前/后测、不随机的匹配组）在完整课堂中更可行，但在因果主张上更弱。
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人（2025）]] 转而采用被试内交叉设计：每个学生对同一份物理内容见两次，一次在课堂主动学习课中，一次通过课程自带的 AI 导师，每次前后都有测试，于是每个学习者充当自己的对照，人际差异相互抵消。
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人（2025）]] 转而采用被试内交叉设计：每个学生对同一份物理内容见两次，一次在课堂[[active-learning|主动学习]]课中，一次通过课程自带的 AI 导师，每次前后都有测试，于是每个学习者充当自己的对照，人际差异相互抵消。
 
 - **优势：** 最强的因果推断；干净的结果测量；支持效应量估计与效力主张。
 - **局限：** 昂贵且缓慢；人为条件降低生态效度；快速变化的 AI 工具很快使实验过时；小样本不足以检出效应；在扣留有帮助的工具上有伦理约束。
@@ -114,6 +114,6 @@ ai_assist:
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 一项组随机化的可得性试验需要一次采用核查
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 文献计量分析是又一个量化家族：Sriram 等人
 
-- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 生成式人工智能的使用与护理学生的人际教育互动：自我调节学习作为统计中介
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 生成式人工智能使用与护理学生的人际教育互动：自我调节学习作为统计中介
 
-- [[wang-ai-disruption-design-innovation-competence-2026]] — 设计学生对 AI 技术性颠覆的觉察、设计思维心态与设计创新能力
+- [[wang-ai-disruption-design-innovation-competence-2026]] — AI 技术颠覆意识、设计思维心态与设计学生的设计创新能力

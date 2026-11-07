@@ -1,7 +1,7 @@
 ---
 title: 推荐系统与学习路径
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ ai_assist:
 ## 教育推荐系统如何工作
 
 行为式推荐系统继承了[[machine-learning|协同过滤]]的逻辑：假设历史相似的学习者想要相似的资源，因此系统基于共现而非内容做预测。这在数据稠密处强大，在数据稀疏处脆弱。[[fair-explainable-edu-recommendations|Evangelista 与 Bukhari（2026）]]把问题说得直白——以准确率为导向的推荐系统对参与历史有限的学生支持可靠性更低，而热门资源主导列表——并给出一个 Hybrid HKG-GRU 框架：嵌入课程材料的异质[[knowledge-graph]]、用 GRU 建模学习者序列，再训练其在各类学习者群体间的鲁棒性（GroupDRO）并重排以提升曝光多样性（Maximal Marginal Relevance）。在 152 名学生、59 项资源、约 150,000 次交互的 Moodle 日志上，它达到 HR@10 = 0.68、MRR = 0.41，但目录层面的大量流行度偏置依然存在——这说明[[bias-mitigation|偏置缓解]]只是局部的。
+
+一个轻量基线也可以直接胜过深度模型。[[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi 等（2026）]]在一个荷兰语作为第二语言的平台 NedBox 上比较了七个推荐器，浅层的 item-item 模型 EASE 在每一项指标上都领先——AUROC 0.955、MAP 0.283、NDCG@3 0.205、NDCG@5 0.279——超过深度变分自编码器 MVAE（AUROC 0.949）与集成模型 PentaForest（0.953），而矩阵分解最差（IALS 0.719，UKNN 0.767）。推荐信号与[[knowledge-tracing|知识追踪]]信号还可以组合：按预测熟练度对 EASE 的前 10 项重新排序，使 NDCG@3 提升约 3%。
 
 语义式推荐系统用结构取代共现。[[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu、Sun 与 Song（2026）]]构建了涵盖教学资源、语言概念、技能、学习者群体与[[pedagogy|教学法]]属性的知识图谱，并沿四个教学维度分解每一项资源——教学情境、认知层级、技术特征与文化适应性。推荐从学习者陈述的需求出发在图上做 k 跳扩展，用基于特征的协同过滤精炼候选，再按随学习者能力、进度与兴趣指数上升的融合系数排序，使基础较弱的学习者获得更多来自图谱的结构化引导，而高能力学习者更依赖自己的行为模式。在 MARS 数据集的英文子集（4,800 名用户、14,200 项资源、132,000 次交互、稀疏度 0.9981）上，它达到 NDCG 0.625 与 HR 0.751，比最好的神经基线高出约 7–8%，并在覆盖率与跨域准确率上击败了包括 RippleNet 和 KGAT 在内的图感知基线。消融实验显示各类信号互补（仅 CF 的 NDCG 为 0.584，仅 KG 为 0.604），作者也指出这些是排序指标，并不能证明[[learning-gains|学习效果]]。
 

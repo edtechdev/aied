@@ -1,13 +1,13 @@
 ---
 title: 项目反应理论
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,12 +49,12 @@ IRT 把能力（θ）和项目参数（难度、区分度，有时还有猜测�
 - **同样的项目对 LLM 可能不测同一个潜在构念。**[[assessment-latent-structure-human-llm-2026|Strugatski、Zeinfeld 与 Alexandron（2026）]]用探索性因子分析和一致性匹配，比较了两个工具上人类与 LLM 的因子结构；LLM–人类相似度可靠地低于人类–人类基线，所以在人类上拟合的 IRT 参数不会自动迁移。
 - **对照 Rasch IRT 参数的 LLM 难度估计：**[[razavi-powers-item-difficulty-llm-2026|Razavi 与 Powers（2026）]]评估 GPT-4o 能否估计在 Rasch IRT 模型下校准的 K-5 数学与阅读评估项目（N = 5170）的难度。零样本直接估计与真实 Rasch 难度呈中到强相关（数学 r = 0.83，阅读 r = 0.81），但在各年级之间不均衡，且在 K 和 1 年级往往不比年级均值哑回归更好，可能因为低年级项目难度的全距受限。一种基于特征的策略——把 LLM 提取的认知与语言特征喂给树模型——优于直接估计（相关高达 r = 0.87），年级水平和词数是首要预测变量。该研究强调，LLM 难度估计必须对照经验拟合的 IRT 参数验证，且结构化特征提取能在整体性零样本判断力有不逮之处锐化预测。
 - **解释难度，而非预测难度。**[[explaining-question-difficulty-natural-language-2026|Cui 等（2026）]]对 GSM8K（1,319 题）、BBH-structured（1,396）和 WinoGrande（1,267）的 LLM 作答记录拟合 1PL Rasch 模型，其中 GSM8K 和 WinoGrande 用 5,000 个模型、BBH-structured 用 3,811 个。然后他们提示一个 LLM 提出"为什么一题比另一题难"的自然语言假设，并用留出题上的 L1 正则化回归来筛选。单用于未见题时，被选中的假设在 GSM8K 上达到 R² = 0.373、BBH-structured 上 0.580、WinoGrande 上 0.090，是 GSM8K 和 WinoGrande 上被比较方法中最好的、BBH-structured 上第二好，后者微调的 RoBERTa-base 达到 0.646。作为额外特征，它们给 RoBERTa-base 在 GSM8K 上加 +0.11（0.362 到 0.468），给两个冻结嵌入模型各加 +0.19 和 +0.18。一个因果探针把每个数据集的 50 道测试题朝某个假设的方向或反向编辑：增难编辑在 GSM8K 和 BBH-structured 上把平均准确率分别降低 15.27 和 23.88 个百分点，减难编辑分别提高 32.18 和 28.52。这里的难度是从模型作答而非人类受试估计的，所以这是一个 LLM 评价与心理测量结果。
-- **模拟受试者能找回对刺激作回归所不能的东西：**一个微调的多模态 LLM 跨能力水平复现学生的选项选择概率，在留出难度上逼近 r = 0.85，高于 MathBERT（0.68）和 MetaMath（0.75）回归基线，并找回猜测参数 c 于 0.48，而区分度 a 仍弱（0.31）（[[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]）。
+- **模拟受试者能找回对刺激作回归所不能的东西：**一个微调的[[multimodal|多模态]] LLM 跨能力水平复现学生的选项选择概率，在留出难度上逼近 r = 0.85，高于 MathBERT（0.68）和 MetaMath（0.75）回归基线，并找回猜测参数 c 于 0.48，而区分度 a 仍弱（0.31）（[[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]）。
 - **命题缺陷作为 IRT 参数的部署前筛查：**[[item-writing-flaws-irt-difficulty-2026|Schmucker 与 Moore（2026）]]检验命题缺陷（IWF）量规——一种不需要学生数据的、领域通用的文本化评价——能否预测经验估计的 IRT 难度和区分度。在[[stem-education|STEM]]（物理科学、[[math-education|数学]]、生命/地球科学）的**7,126 道选择题**上，他们用自动的、LLM 辅助的编码显示，IWF 量规对经验 IRT 参数具有预测效度，提供了一种可规模化的部署前筛查，补充或部分替代资源密集的试点测试。
 - **选择性 AI 评分中的 IRT 风险过滤：**[[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]]对 AI 评分的手写化学数据拟合双参数 logistic IRT 模型，并把接受一个 AI 判断的"风险"定义为 AI 归一化分数与 IRT 期望得分概率之间的绝对偏差（Risk = |s−p|）；只接受落在这个贝叶斯期望所选容差内的项目，就把"令人意外"的 AI 分数标记为[[human-in-the-loop-ai|人工复核]]，把 IRT 从一个纯分数聚合工具变成[[automated-assessment]]的操作性接受/暂缓机制——它达到与更简单部分学分阈值类似的人工评分一致性，却用更少的人工工作量，尽管其逻辑对非技术受众不够透明。
 - **IRT 作为诊断模型内部的校准层：**PLCD 在练习级作答之上加了一个受 IRT 启发的猜测—失误头，改善的是概率质量而非准确率——XES3G5M 上期望校准误差从 0.071 降到 0.037——使 IRT 成为对作答噪声的内部校正，而不只是一个评分模型（[[process-grounded-language-cognitive-diagnosis-2026|Liu 等（2026）]]）。
 - **为持续演化的题库做分治校准：**[[bayesian-consensus-irt-item-banks-2026|Jewsbury 等（2026）]]把 IRT 重校准当作一个规模问题，而非拟合问题。当基于 AI 的命题和基于特征的参数预测使题库更大、更稀疏且持续更新时，每次更新都重新拟合全部作答历史的成本稳步上升；他们的*共识校准*改为每个时期只校准一次，并把新时期与已算出的较早后验合并。两个特征把它与现有 IRT 分治工作区分开：各时期不共享潜在度量，所以每个时期都通过一个稳健的 Haebara 准则链接到参照度量，而该准则*对每一个后验抽样分别求解*（把链接误差带进被链接的后验）；且每个时期都是自己的分层拟合、贡献一个估计出的先验，所以后验的朴素乘积必须把这个先验除掉、重新装入共识先验——在先验固定时退化为贝叶斯委员会机器规则。对照四个季度时期的 Duolingo 英语测验的合并基准，后验均值在 r = .998（难度）和 .991（对数区分度）上一致，后验 SD 在 r = .970 和 .920，留下轻微的欠分散（SD 比 0.91–0.98），在最低的每时期曝光三分位上最大。这就是为 AI 生成题库所造成的交付条件而重新工程化的 IRT 校准。
-- **IRT 极少作为工具验证的锚：**一项对教师 AI 素养工具的评价量化的是 IRT 的缺席而非其使用。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]以改编自 COSMIN 和 Terwee 等（2007）的决策矩阵评定 33 种工具；结构效度很强，24 种（72.7%）通过 CFA、PLS-SEM 或 IRT 建模达到 A 级，却没有一种以 IRT 或 Rasch 作为其首要证据，只有五种工具（15.2%）报告了测量不变性或差异项目功能证据。作者主张在自我评价之外配合 IRT 和表现任务，以把已验证的能力与报告的信心区分开。
+- **IRT 极少作为工具验证的锚：**一项对[[teacher-role|教师]] [[ai-literacy|AI 素养]]工具的评价量化的是 IRT 的缺席而非其使用。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]以改编自 COSMIN 和 Terwee 等（2007）的决策矩阵评定 33 种工具；结构效度很强，24 种（72.7%）通过 CFA、PLS-SEM 或 IRT 建模达到 A 级，却没有一种以 IRT 或 Rasch 作为其首要证据，只有五种工具（15.2%）报告了测量不变性或差异项目功能证据。作者主张在[[self-assessment|自我评价]]之外配合 IRT 和表现任务，以把已验证的能力与报告的信心区分开。
 - **一个替代联想性 IRT 的因果方案。**[[causal-modeling-competency-assessment-2026|Mangili 等（2026）]]论证 IRT 和贝叶斯网络学习者模型无法表达干预或反事实，转而从专家那里引出结构方程；在一个 109 名学生的自适应测试题组上，引出的模型预测性略差（−287 对 −277 检验对数似然），却支持关于求助的反事实查询。
 
 ### 关联

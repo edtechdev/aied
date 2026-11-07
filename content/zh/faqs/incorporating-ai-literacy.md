@@ -1,7 +1,7 @@
 ---
 title: "我应当如何把人工智能素养融入我的课程？"
 created: "2026-09-22T19:48:12-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
@@ -46,7 +46,7 @@ ai_assist:
 
 ## 不要加一节课，而是在你已经评分的作业上加一步
 
-机构默认的做法是单设一个模块，通常放在学期初，讲大语言模型如何工作、提示词怎么写。[[ai-literacy|AI 素养]]的综合论述主张另一种安排：当学生在真实的课程任务中反复使用、质疑、核查、批评并就 AI 做出决定时，他们发展出的素养更有用。朝向批判性评价的移动，在那些经验持续且嵌入的时候最为明显，而不是一次交付完成（[[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]）。
+机构默认的做法是单设一个模块，通常放在学期初，讲[[llm|大语言模型]]如何工作、提示词怎么写。[[ai-literacy|AI 素养]]的综合论述主张另一种安排：当学生在真实的课程任务中反复使用、质疑、核查、批评并就 AI 做出决定时，他们发展出的素养更有用。朝向批判性评价的移动，在那些经验持续且嵌入的时候最为明显，而不是一次交付完成（[[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]）。
 
 [[quantitative-research|量化]]证据指向同一个方向。一项[[liu-ai-literacy-interventions-meta-analysis-2026|涵盖 59 项 AI 素养干预的元分析]]发现，整合式与反思式教学法的效应最大。它也提醒说，以知识为中心的干预所显示的*测量*效应大于针对技能、态度或伦理的干预。在选择测量什么时请记住这一点。
 
@@ -86,11 +86,11 @@ ai_assist:
 
 经济学学生先自己解一个问题，取得生成式 AI 的回答，把它与自己的推理比较，批评 AI，反思，然后与同伴讨论（[[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]）。
 
-心理学学生按课程评分量表评价一份 ChatGPT 生成的媒体通稿，找出弱点并修改它，这在一个任务里同时发展学科素养和反馈素养（[[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]）。
+心理学学生按课程评分量表评价一份 ChatGPT 生成的媒体通稿，找出弱点并修改它，这在一个任务里同时发展学科素养和[[feedback-literacy|反馈素养]]（[[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]）。
 
 生物学把这些活动整合进学科学习，而不是另教一个技术话题（[[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]）。数据库与设计类课程把失败分析当作学习活动，让学生分析 AI 生成的错误，并迭代提示词与解法（[[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]）。LearnAI 模式把即时的 AI 共创嵌入各学科，而不是运行一个通用模块（[[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]）。
 
-有一条警示带着数字。一门重新设计的粒子物理导论课允许生成式 AI 作为研究型问题的明确伙伴，而无辅助笔试的平均分是 80 分中的 20.6 分，只有两名学生达到 40 分（[[ai-particle-physics-education-redesign-2026|AI in particle physics education]]）。有辅助的表现与可独立提取的知识是不同的成就。作者主张尽早教授 AI 素养——包括核查、把 AI 当教师而不是复印机——并同时安排专门的无辅助练习。[[physics-education|物理教育]]有更完整的案例。
+有一条警示带着数字。一门重新设计的粒子物理导论课允许生成式 AI 作为研究型问题的明确伙伴，而无辅助笔试的平均分是 80 分中的 20.6 分，只有两名学生达到 40 分（[[ai-particle-physics-education-redesign-2026|AI in particle physics education]]）。有辅助的表现与可独立提取的知识是不同的成就。作者主张尽早教授 AI 素养——包括核查、把 AI 当[[teacher-role|教师]]而不是复印机——并同时安排专门的无辅助练习。[[physics-education|物理教育]]有更完整的案例。
 
 还有一种版本，让学生为真实受众做点东西。Burriss 等让 22 名十一年级学生制作视频公益广告，主题是他们亲身经历的 AI [[ethics|伦理]]问题：校园监控、电子“通行证”，以及算法性的[[academic-integrity|抄袭]]指控。该单元借鉴了批判后人文主义素养与[[multimodal|多模态写作]]。学生把伤害描绘为纠缠的人机责任所致，而不是某个邪恶工具；他们把作弊的叙事反转，指向成人对易错 AI 的过度依赖；并以[[agency|能动性]]收尾（“解决办法在我们手中”）。作者把[[storytelling-in-education|叙事]]与协作生产置于[[critical-pedagogy|批判性 AI 素养教学法]]的中心，并主张为真实受众*围绕* AI 进行写作，能发展出能力量表看不见的批判素养（[[burriss-multimodal-composition-critical-ai-literacy-2026|“Young Scholar[s] on the Beat”]]）。这一主张来自一个只有 22 名学生的单元，所以请把它读作设计思路，而不是效应量。
 
@@ -124,7 +124,7 @@ ai_assist:
 
 AI 素养就是教提示词。提示词是可见的那部分。学生可以在这些工具上变得技术熟练，却仍然对它们产出什么判断力差，而上面关于依赖的发现指向同一方向。
 
-一节课就能覆盖。一节课可以引入词汇。但在真实课程材料上重复练习的证据更强，而那项 59 项干预的元分析发现效应最大的是整合式与反思式的做法。
+一节课就能覆盖。一节课可以引入词汇。但在真实课程材料上重复练习的证据更强，而那项 59 项干预的[[meta-analysis-systematic-review|元分析]]发现效应最大的是整合式与反思式的做法。
 
 每天用这些工具的学生已经会评价输出。Yan 等发现 38 名本科生中有 76.32% 处于单轮模式，而计算机教育的综合研究发现，学生在改正 AI 生成代码上显著差于普通编程考试任务。熟悉界面不等于校准。
 

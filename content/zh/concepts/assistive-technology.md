@@ -1,7 +1,7 @@
 ---
 title: 辅助技术
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **辅助技术（Assistive Technology）** —— 帮助残障人士感知、操作、沟通并参与学习和日常生活的设备、软件与服务。在 [[ai-education|教育中的 AI]] 语境下，辅助技术涵盖屏幕阅读器、语音转文字与文字转语音、字幕、盲文与触觉输出、手语工具，以及日益增多的、能把内容与交互适配到个体需求的 AI 驱动支持。
+> **辅助技术（Assistive Technology）** —— 帮助残障人士感知、操作、沟通并参与学习和日常生活的设备、软件与服务。在 [[ai-education|教育中的 AI]] 语境下，辅助技术涵盖屏幕阅读器、语音转文字与[[speech-and-voice-technologies|文字转语音]]、字幕、盲文与触觉输出、手语工具，以及日益增多的、能把内容与交互适配到个体需求的 AI 驱动支持。
 
 ## 值得思考的问题
 
@@ -56,7 +56,7 @@ ai_assist:
 - **把工具与学习者和任务相匹配。** 屏幕阅读器、字幕、语音与触觉输出各自处理不同的障碍——依据个体的需求与内容格式来选择。
 - **用 AI 降低辅助适配的成本。** AI 能自动加字幕、简化文本、生成替代物，但要从教学准确性上评估输出质量。
 - **把提供植根于政策。** 在采购或构建 AI 工具时，参照《辅助技术法》、IDEA 与 WCAG。
-- **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、脚手架（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对本页告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
+- **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、[[scaffolding|脚手架]]（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对本页告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
 
 ## 常见误解
 

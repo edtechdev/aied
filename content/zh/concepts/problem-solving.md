@@ -1,14 +1,14 @@
 ---
 title: 问题解决
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,11 +41,14 @@ ai_assist:
 
 知识库的各篇文章通过不同但趋同的透镜处理问题解决。[[llm-critical-thinking-teamwork-review|一项 PRISMA 系统综述]]发现，LLM 常产生不完整或不正确的回应，促使学生质疑、核验并改进信息——把模型缺陷变成强化[[critical-thinking|批判性思维]]与心智独立的验证—纠正循环。其他工作不把问题当作给定，而是把*问题提出*置于前台：[[genai-assisted-problem-posing-physics-2026|训练学生生成自己的物理问题]]支持[[transfer-of-learning|迁移]]与自学，且[[dai-chatbots-problem-posing-primary-2026|生成式 AI 聊天机器人]]改进了小学生在[[inquiry-based-learning|探究本位学习]]中的问题提出质量并降低认知负荷。
 
-脚手架与评估也是核心。[[adaptive-ai-scaffold-collaborative-problem-solving-2026|自适应 AI 脚手架]]从个体学生的过程模式经序列挖掘推导而来，在协作性[[math-education|数学]]问题解决中提升任务表现——尽管最大化的脚手架也增加了脚本化行为。在测量侧，[[llm-computational-thinking-physics-2026|LLM 能镜像人类评分者]]，检测大[[physics-education|物理]]课程中[[computational-thinking|计算思维]]的增长，而[[computational-thinking-educational-robotics-secondary-2026|计算思维]]被提出为使[[educational-robotics|教育机器人]]培养真实问题解决而非孤立技术练习的显性概念胶。
+脚手架与评估也是核心。[[adaptive-ai-scaffold-collaborative-problem-solving-2026|自适应 AI 脚手架]]从个体学生的过程模式经序列挖掘推导而来，在协作性[[math-education|数学]]问题解决中提升任务表现——尽管最大化的脚手架也增加了脚本化行为。
+脚手架内部的结构，而不只是脚手架的存在，才是使它不致坍缩为直接给答案的东西。一个以诊断、意图选择与受约束的回应生成为架构的规则引导 LLM 辅导者，在 40 次真实五年级课堂中的 36 次（90%）把辅导者与学生维持在预定的轮流发言脚本上，其防剧透与仅限完成的闸门减少了过早给出答案（[[rule-integrated-llm-tutoring-primary-math-2026|Looi、Liu 与 Sun，2026]]）。作者最强的设计主张是减法式的：算术留在辅导者的角色之外，交还给学生——此前辅导者在 40 次课堂中有 4 次算错。
+
+在测量侧，[[llm-computational-thinking-physics-2026|LLM 能镜像人类评分者]]，检测大[[physics-education|物理]]课程中[[computational-thinking|计算思维]]的增长，而[[computational-thinking-educational-robotics-secondary-2026|计算思维]]被提出为使[[educational-robotics|教育机器人]]培养真实问题解决而非孤立技术练习的显性概念胶。
 
 ### AI 如何既帮助又阻碍
 
-AI 对问题解决的双重性格在各研究中一致。在帮助侧，[[conversational-ai|聊天机器人]]在问题提出上优于搜索引擎，改进问题质量并整合认知网络；自适应脚手架改进表现；协作式 AI 设计在保持学生为主要决策者的同时提高[[critical-thinking|批判性思维]]与问题解决分数。在阻碍侧，过度委托减少调节性投入，无反思的直接反馈鼓励被动接纳，对用 AI 建立共识的重度依赖威胁人际技能发展与[[motivation|内在动机]]。值得注意的是，[[genai-feedback-design-multisite-experiment|一项多站点随机实验]]发现，反思性与混合式反馈设计在延迟的、无 AI 的迁移上胜过直接[[ai-feedback-quality|AI 反馈]]——证据表明 AI 的教育价值更少取决于获取，而更多取决于在修改期间保存[[agency|学生能动性]]、评估性判断与所有权。从文献浮现的设计原则包括优先对话性张力而非无缝效率、使能主动的共同调节、以及保持元认知脚手架与"心智在回路"的监督。
+AI 对问题解决的双重性格在各研究中一致。在帮助侧，[[conversational-ai|聊天机器人]]在问题提出上优于搜索引擎，改进问题质量并整合认知网络；自适应脚手架改进表现；协作式 AI 设计在保持学生为主要决策者的同时提高[[critical-thinking|批判性思维]]与问题解决分数。在阻碍侧，过度委托减少调节性投入，无反思的直接反馈鼓励被动接纳，对用 AI 建立共识的重度依赖威胁人际技能发展与[[motivation|内在动机]]。值得注意的是，[[genai-feedback-design-multisite-experiment|一项多站点随机实验]]发现，反思性与混合式反馈设计在事后、无 AI 条件下测量的迁移上胜过直接[[ai-feedback-quality|AI 反馈]]——证据表明 AI 的教育价值更少取决于获取，而更多取决于在修改期间保存[[agency|学生能动性]]、[[evaluative-judgment|评估性判断]]与所有权。从文献浮现的设计原则包括优先对话性张力而非无缝效率、使能主动的共同调节、以及保持元认知脚手架与"心智在回路"的监督。
 
 ### 意涵
 
@@ -67,7 +70,7 @@ AI 对问题解决的双重性格在各研究中一致。在帮助侧，[[conver
 
 **“帮助学生探索视角的 AI 就是在帮他们思考。”** 同一行为支撑两种非常不同的结果：AI 工具帮助学生探索多种视角并生成自己的问题，也能鼓励元认知懒惰。区分性的问题是，学生是在做框架建构，还是在接收框架；一个供应候选视角的系统，已经代做了这项练习本来要要求的生成步骤。
 
-**“问题解决是目标，问题提出是加分项。”** 问题提出是迁移被建立的地方，因为它要求学习者建构结构，而不是在一个由系统提供的结构里操作。一个只供应良构问题的课程，训练的是在良构问题上的表现，而这不是学生后来会遇到的条件。
+**“问题解决是目标，问题提出是加分项。”** 问题提出是迁移被建立的地方，因为它要求学习者建构结构，而不是在一个由系统提供的结构里操作。一个只供应良构问题的[[curriculum-design|课程]]，训练的是在良构问题上的表现，而这不是学生后来会遇到的条件。
 
 **“协作问题解决的模拟可以替代协作本身。”** 模拟复制的是互动模式，而被发展的技能是由真正在场的参与者对一个共同问题进行调节。对真实协作者建模的参与者特定智能体是研究这种调节的研究工具，其价值在于它们揭示过程，而不是一种让学生在没有同伴的情况下获得练习的方式。
 

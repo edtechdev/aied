@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能的研究方法
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -188,6 +188,8 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut（2026）]]加入了一条与这四条并行的书目计量线索：按共词与共同作者网络映射 407 条记录，以追踪一个领域的概念发展。作者明确指出，建立在其上的 SWOT 解读是一种解释性装置，而不是独立的分析技术，这标出了该传统中综合与分析的边界。
 
+- **“一个统计量一旦算出来就可以信任。”** 基准先检查检查本身。除了六组具名的统计量之外，每一次探针与每一项判定都在植入了效应与未植入效应的模拟评分者上运行，而一项检查未能发现植入效应的测量，会被报告为未测量，而不是作为一个结果。它的报告由自身的 markdown 与代码生成，因此每一个印出的数字都链接到它来自的文件与字段，并在构建时重新计算。[[porcaro-ai-grading-benchmark-2026|判定是一个可以被检验的设计决定]]，要在读到任何真实结果之前作出。
+
 ## 常见误解
 
 **“高基准准确率表明教育有效性。”** 并非如此，而这个落差正是本领域核心的测量问题：一个系统可以在准确率上得分很高却未产生任何学习，因为基准准确率测量的是基准所设定条件下的任务表现。教育有效性要求的是技术并不控制的条件下的学习者结果。
@@ -246,3 +248,6 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — 人工智能对学习之效应的元元分析
 - [[oneill-presumed-effective-meta-analysis-2026]] — 被假定的有效性：有缺陷的人工智能教育元分析审计
 - [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性检查
+
+- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：答案已知的探针、对模拟评分者的植入效应检查，以及 22 个提示模型（Porcaro 2026）
+

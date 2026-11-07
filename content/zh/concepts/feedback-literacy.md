@@ -1,7 +1,7 @@
 ---
 title: 反馈素养
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,8 @@ AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。�
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang 与 Guo（2026）]]把反馈素养视为可通过实践发展的能力：与生成式 AI 对话式协作以生成评语的 EFL 同伴评审者，提升的是自己判断与使用反馈的能力，而不只是他们递送的评语。
 
+**反馈素养必须同时覆盖机器来源与人来源。** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 等（2026）]]让学生在同一个反思中评价同一份草稿上的同伴反馈与聊天机器人反馈，使这种比较本身成为学习任务。他们的学生把聊天机器人的权威排在教学者之下，而作者把这种下调解读为素养，而不是抵触。
+
 ## 常见误解
 
 - **"AI 反馈直接提升批判性思维。"** 在 **421 名中国本科生**中，GenAI 使用与[[self-report-measures|自陈]]批判性思维的关联**经由反馈素养传递**。素养是中介，因此只增加 AI 反馈而不建设阅读它的能力的干预，针对的是错误的项。
@@ -101,6 +103,8 @@ AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。�
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
 
 ## 关联文章
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 反馈素养与能动性投入：一项三波随机截距面板（Xu 2026）
@@ -128,3 +132,6 @@ AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。�
 - [[student-perspectives-ai-writing-grading-2026]] — 《谁来给我的作业打分？》：高等教育中透明化 AI 辅助写作考评的学生视角
 - [[genai-use-critical-thinking-moderation-2026]] — 从 GenAI 使用到批判性思维经由 GenAI 反馈素养传递，并随反思性思维增强
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — 承载修改收益的是理解，而非可操作性
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 在同一个反思任务中评价同一份草稿上的同伴反馈与聊天机器人反馈
+

@@ -1,7 +1,7 @@
 ---
 title: SAMR 模型
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ SAMR 常与[[icap-framework|ICAP 框架]]配对，因为两者对齐：[[thermom
 - **SAMR 是后人本主义批评的目标。** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed（2026）]]批评 TPACK、SAMR 和[[ai-literacy]]模型共享一种人本主义本体论，这种本体论预设了一个有边界的、其认知从根本上不受技术中介改变的学习者，主张这些工具主义框架无法处理 AI 在认知中的构成性角色。
 - **一个整合的框架，而不是一个关于权力的框架。** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal（2026）]]把 SAMR 与 TPACK 及其他整合框架并列评估，发现没有一个处理公平的权力、数据所有权或问责，这促成了一种替代性的生态共能动性框架。
 - **学生的使用也映射到 SAMR，而反馈跨越每一个层级。** 对一个[[physics-education|物理]]单元中 31–36 名学生的生成式 AI 声明作编码，把学习放在替代-增强，格式放在替代，任务执行放在修改-重新定义，而反馈 —— 检查、澄清、核验 —— 出现在全部四个层级（[[genai-use-changing-institutional-policy-physics-2026|Quince 与 Faulconer（2026）]]）。
+
+- **深度与包容是两条独立的轴。** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita、Jita 与 Omoniyi（2026）]]在 38 份文献中把 SAMR 与[[universal-design-for-learning|UDL]]配对，并主张重新定义层级的任务仍可能排除那些语言、设备或连接条件与设计不符的学生。
 
 ## SAMR、TPACK 与技术采纳：它们如何不同
 
@@ -102,3 +104,6 @@ SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] —— 对 SAMR 人本主义本体论的后人本主义批评
 - [[reclaiming-epistemic-agency-co-agency-2026]] —— SAMR 对权力、数据所有权和问责的沉默
 - [[genai-use-changing-institutional-policy-physics-2026]] —— 制度政策变动下学生的生成式 AI 使用：使用功能映射到 SAMR 层级（Quince & Faulconer 2026）
+
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI 在数学课堂中：促进多样性与包容性的协同策略
+

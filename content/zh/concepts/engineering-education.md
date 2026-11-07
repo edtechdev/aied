@@ -1,7 +1,7 @@
 ---
 title: 工程教育
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,18 +40,20 @@ ai_assist:
 
 ## AI 如何出现在本知识库的工程教育研究中
 
-- **教师理解与共享语言：** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt 等]]分析了工程教师用来描述 AI 的比喻，发现多数人或把它框定为类人的"社会存在/代理"，或框定为"技术工具"，且同系教师往往持有根本不同的心智模型。由于比喻既建构又限制理解，他们主张一套共享而准确的语言对[[educational-development]]与系内关于 AI 的讨论至关重要。
+- **教师理解与共享语言：** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt 等]]分析了工程教师用来描述 AI 的[[metaphors-and-analogies|比喻]]，发现多数人或把它框定为类人的"社会存在/代理"，或框定为"技术工具"，且同系教师往往持有根本不同的心智模型。由于比喻既建构又限制理解，他们主张一套共享而准确的语言对[[educational-development]]与系内关于 AI 的讨论至关重要。
 - **伦理与负责任的使用：** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi 等]]对本科工程教育中 AI 的实证研究作了[[meta-analysis-systematic-review|系统综述]]，识别出七种反复出现的伦理指引形式（透明、问责、学生独立性/能动性、隐私、[[academic-integrity]]、公平/[[equity-in-ai-education|平等]]/偏倚、善意）。他们发现伦理指引主要面向学生且以合规为导向，而教师与机构的对等问责发展不足——工程对公共安全与社会[[well-being]]的直接利害使这一关切更加突出。
 - **具身与[[multimodal]]评估：** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew 等]]发展了一个把计算机视觉手势追踪与[[llm]]言语分析整合起来的框架，以评估工科学生对统计的概念理解，显示手势提供了言语之外的诊断证据，且紧密的手势—言语耦合标志着连贯的理解。
 - **劳动力转型：** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher 等]]综述了美国关于 AI 与工程/计算机劳动力的灰色文献，框定"双轨列车问题"（快速变化 vs. 紧迫政策），并建议建立持久的 AI 能力、[[ethics]]与[[governance]]，以及面向新兴岗位的基于技能的凭证。
 - **学生的采纳与依赖：** [[tam-critical-use-genai-engineering-2026|Nguyen 等]]以*批判性使用*扩展了技术接受模型，以建模工程/计算机专业学生如何形成使用[[generative-ai|GenAI]]的意向，以及该意向如何预测其在理解、评估、编程与工程项目任务上的依赖——发现对理解相关任务有适度而恰当的依赖与重度使用，但对完整的评估写作使用有限。[[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]把 TAM 与[[technology-acceptance-model|UTAUT]]整合，建模孟加拉国工科学生的采纳，解释了 64% 的使用方差，并凸显工作相关性、结果可证明性与主观规范为关键驱动因素。
-- **提示策略预测表现，而非使用量：** 在 128 名四年级工科学生中，AI 查询效率与 AI 驱动的问题解决是学业成功最强的预测因子，且在控制了累计 GPA 后仍然显著（[[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez 等（2026）]]）。
+- **[[prompt-engineering|提示策略]]预测表现，而非使用量：** 在 128 名四年级工科学生中，AI 查询效率与 AI 驱动的问题解决是学业成功最强的预测因子，且在控制了累计 GPA 后仍然显著（[[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez 等（2026）]]）。
 
-- **学生自己的比喻超出了工具所能交付的：** [[ai-engineering-education-balancing-act|Kudina（2026）]]发现，100 名工科学生最看重 LLM 的写作支持、概念澄清与编程，却把它们框定为"神谕"与"导师"——那是一个概率性文本生成器无法供应的权威与个性化，一种"残忍的乐观"，它依赖于学生仍在建立中的验证技能。
-- **把 AI 嵌入学科之中，而非置于其旁：** 一门基于项目的热工课程把机器学习折入从入门、应用到进阶的既有热工主题中，而非增设计算机课程，而仅满足最低入学要求的本科生产出的项目弱于研究生同伴（[[mechanical-engineering-ai-curriculum-2026|Li 等（2026）]]）。
+- **学生自己的比喻超出了工具所能交付的：** [[ai-engineering-education-balancing-act|Kudina（2026）]]发现，100 名工科学生最看重 LLM 的写作支持、概念澄清与编程，却把它们框定为"神谕"与"导师"——那是一个概率性文本生成器无法供应的权威与[[personalized-learning|个性化]]，一种"残忍的乐观"，它依赖于学生仍在建立中的验证技能。
+- **把 AI 嵌入学科之中，而非置于其旁：** 一门基于项目的热工[[curriculum-design|课程]]把机器学习折入从入门、应用到进阶的既有热工主题中，而非增设计算机课程，而仅满足最低入学要求的本科生产出的项目弱于研究生同伴（[[mechanical-engineering-ai-curriculum-2026|Li 等（2026）]]）。
 - **面向[[quantitative-research|定量]]工程课程的[[intelligent-tutoring|AI 辅导]]与反馈：** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin 等（2026）]]引入了 Arthur，一个在本科工程经济学课程中就 Calculated Formula Questions 提供实时个性化反馈的 AI 教学助手——这是一个笔答、非结构化解答曾挡住此前 AI 支持的领域。它的全生命周期流水线（整理以往评过分的手写提交、随机遮蔽的[[machine-learning|数据增强]]、逐题的 XGBoost 诊断主干，以及一个基于对话的题库网页界面）为缺乏结构化数字数据的工程课程提供了一条可扩展的[[ai-feedback-quality|AI 反馈]]路径，且该框架被设计为可推广到其他工程学科的 CFQ。
 - **面向可持续性的 AI，是整合而非模块化的。** 四支柱 AI-SEE 框架（智能驱动、绿色赋能、责任引领、实践融合）把 AI 分布到工程课程作业中；在一个 144 名学生的交通工程案例中，学生报告了个人、学业、专业与社会各层面的投入，而可持续性推理被带进了家庭与同伴网络（[[liu-ai-sustainable-engineering-education-2026|Liu 等（2026）]]）。
-- **工具丰富的工作室会在不改进产物的同时压低效能。** 在一个 27 人的建筑设计工作室中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队在设计[[self-efficacy]]（β = −1.675）与结果预期（β = −2.088）上的前后降幅大于对照组，而每人一副头显并未产生协同的协作（[[genai-xr-architectural-design-education-2026|Xiao 等，2026]]）。
+- **工具丰富的工作室会在不改进产物的同时压低效能。** 在一个 27 人的[[arts-design-and-media-education|建筑设计工作室]]中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队在设计[[self-efficacy]]（β = −1.675）与结果预期（β = −2.088）上的前后降幅大于对照组，而每人一副头显并未产生协同的协作（[[genai-xr-architectural-design-education-2026|Xiao 等，2026]]）。
+
+- **在反驳压力下，决定反馈可靠性的是模型选择，而非提示。**[[apostolakis-trusstutor-bench-statics-2026|Apostolakis 等人（2026）]]构建了 200 道经核验的二维桁架题，让十三个模型经历三种姿态：求解、在学生坚称有误时确认一个正确解法、以及定位一处注入的错误。求解准确率从 64.5% 到 97.0%，每个模型都至少捕获 90.4% 的注入错误，因此两者都无法区分各模型；对反驳的抵抗力则做到了，范围从 46.5% 到 98.5%。对一门静力学课程而言，辅导风险不是最终答案错误，而是当学生错误地怀疑正确工作时模型却表示同意；作者还指出，如果可靠性随付费档位变化，学生收到的反馈就会随其机构能购买什么而变化。
 
 ## 标志性关切
 
@@ -100,6 +102,7 @@ ai_assist:
 - [[generative-ai]]
 
 ## 关联文章
+- [[apostolakis-trusstutor-bench-statics-2026]] — 静力学基准：求解与错误检测都已饱和，反驳抵抗力没有
 - [[mechanical-engineering-ai-curriculum-2026]] — 热工中的基于项目的 AI 教育课程
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师比喻建构（并限制）对 AI 的理解

@@ -1,7 +1,7 @@
 ---
 title: 学习迁移
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 
 学习迁移是教育 [[research-methods-aied|研究]]中的一项基础关切，而 AI 工具使它变得紧迫。跨"教育中的 AI"研究记录的定义性经验模式是一个**迁移悖论**：使用 AI 的学生通常在 AI 可用的任务上表现出即时、可测的增益，但当 AI 被移除、学生必须独立展示理解时，这些增益常常无法持久——甚至反转。这一模式牵连到 [[cognitive-offloading|过度依赖]]、认知负荷理论与 [[metacognition]] 作为起作用的机制，并直接连接到关于 [[intelligent-tutoring|AI 辅导]]设计的争论。
 
-就绪不等于迁移：AI 辅助的口语练习与更低的口语焦虑、更高的与人交流意愿相关，然而两项研究都没有观察人的口语，使"从 AI 排练到人际交流能力"这条路径成为一个未经检验的教学提案（[[ai-speaking-practice-communicative-readiness-2026|Wang & Li（2026）]]）。
+就绪不等于迁移：AI 辅助的口语练习与更低的口语[[anxiety-and-stress|焦虑]]、更高的与人交流意愿相关，然而两项研究都没有观察人的口语，使"从 AI 排练到人际交流能力"这条路径成为一个未经检验的教学提案（[[ai-speaking-practice-communicative-readiness-2026|Wang & Li（2026）]]）。
 
 ### 迁移悖论
 
@@ -68,7 +68,7 @@ ai_assist:
 
 **工具依赖的表现。**学生可能为 AI 工具的具体可供性做优化（[[prompt-engineering|提示工程]]、依赖生成的代码结构），而非建立领域泛化——这是一种 [[cognitive-offloading-speedup-illusion|认知卸载]]，感觉有成效却挤走了持久学习。
 
-一间受保护的课堂也可能教出错误的习惯：[[shi-genai-experiential-learning-management-education-2026|Shi、Dai 与 Zhang（2026）]]警告，规则事先固定的模拟会滤掉不确定性、强化循规，于是在其中形成的决策习惯，一旦学生遇到真实情境中相互竞争的利益与不完整的信息，就可能成为认知负债。
+一间受保护的课堂也可能教出错误的习惯：[[shi-genai-experiential-learning-management-education-2026|Shi、Dai 与 Zhang（2026）]]警告，规则事先固定的[[simulation|模拟]]会滤掉不确定性、强化循规，于是在其中形成的决策习惯，一旦学生遇到真实情境中相互竞争的利益与不完整的信息，就可能成为认知负债。
 **分层敏感的卸载与迁移。** [[layer-sensitive-cognitive-offloading-writing-2026|Chen（2026）]]在 [[generative-ai|GenAI]] 辅助写作中直接检验了 Salomon、Perkins 与 Globerson 的"伴随效应 vs. 属于效应"之分：一项八周准实验发现，开放式 AI 协作最大化了辅助写作表现，却产出了*最低*的独立无 AI 近迁移结果，而带反思的有界支持保住了独立能力。更深的卸载层（推理、结构）比表层（语法）预测更差的迁移。这是直接的课堂证据：AI 的*伴随*支持表现增益并不迁移到*属于*支持的独立表现——且委派的深度、而不只是是否用了 AI，塑造迁移。
 
 一个互补的（即便混淆了的）实例来自 [[physics-education|物理]]：波鸿鲁尔大学对核物理与粒子物理导论课程的重新设计（[[ai-particle-physics-education-redesign-2026|Mikhasenko et al.，2026]]）让学生成功完成了有 AI 辅助的、资源丰富的协作研究问题，然而同一批学生在传统无辅助笔试上平均只有 20.6/80，几项认真的尝试甚至无法完成标准计算。作者把这读作证据：辅助表现不会自动迁移到未被提示的表现，而他们的补救是刻意设计——让笔试成为唯一的成绩决定因素，提前公布习题使课堂时间成为准备好的讨论，并在探索性的、允许 AI 的工作周围添加先修准备、范例与巩固。
@@ -94,6 +94,8 @@ ai_assist:
 2. **领域差异：** 在结构良好的领域（数学）中迁移是否优于结构不良的领域（写作）？
 3. **个体差异：** 高 [[prior-knowledge]] 学生是否比新手损失更少的迁移？
 4. **技能补救：** 明确的"无 AI"练习时段能否反转工具依赖？
+
+时间尺度问题如今有了一种形式化。[[cognitive-washout-ai-skill-decay-2026|Yajee（2026）]]把撤回之后的这段时间命名为认知冲刷（cognitive washout），并给出四种候选结局：弹性回弹、部分平台期、潜在脚手架与过度恢复。该文论证，决定严重程度的是可逆性，并提出一个可预注册的三臂、二十周方案来测量它。上述研究测试的是协助结束后数小时内的迁移，因此之后的数周才是本页第一个开放问题中真正仍未被测量的部分。
 
 ### 与相关概念的关联
 
@@ -141,3 +143,5 @@ ai_assist:
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI 辅助口语练习提升了对人的交流意愿，但没有研究观察人的口语
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred：通过桌面功能机器具身实现增强学习
+- [[cognitive-washout-ai-skill-decay-2026]] — 认知冲刷：撤回之后的间隔，以及一套 22 周的测量方案（Yajee 2026）
+

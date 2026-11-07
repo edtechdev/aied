@@ -1,7 +1,7 @@
 ---
 title: "教师可以用哪些测量工具与研究方法去评价与人工智能相关的干预？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
@@ -76,7 +76,7 @@ AI 辅助的质性分析也应当列进这份清单，但要附一个条件。�
 
 已发表的效应量可以搬到我的班上。O'Neill 的那 14 项元分析撑不起建立在它们之上的结论，而两项报告出来的预测区间都包含零。
 
-平台分析衡量的是教学质量。Zhang 评估中排第三的那个智能体，在专家评分细则上排最后。
+平台[[learning-analytics|学习分析]]衡量的是教学质量。Zhang 评估中排第三的那个智能体，在专家评分细则上排最后。
 
 ## 你会听到的反对意见
 

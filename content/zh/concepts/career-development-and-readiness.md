@@ -1,14 +1,14 @@
 ---
 title: 职业发展与就绪度
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-05T14:28:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 - 这里的职业就绪被框定为适应性 —— 在变化中的角色之间穿行、调整并茁壮成长的能力 —— 而不仅是获得资格证书。这一重构如何改变你认为以职业为中心的教育实际应培养什么？
 - [[research-methods-aied|研究]]一贯显示，职业适应力显著减少关于岗位被取代的 AI 焦虑。为什么对职业变化更具适应性，可能让一个学生对威胁其当下就业前景的技术感到更少焦虑？
 - 一项关键主张是：单靠 AI 素养并不使毕业生具备职业就绪，因为就绪还经由学生相信自己能适应什么。你能想起一个人 AI 素养很高却仍对劳动力市场焦虑或没有准备吗？他们缺的是什么？
-- 一份 ITHAKA S+R 报告记录了一项技能优先级鸿沟：教师强调批判性、负责任地使用 AI，而雇主看重工作流自动化与人机协作技能 —— 他们在 26 项 AI 技能中仅有一项达成一致。你认为课堂与职场优先级为何分歧如此之大，又该由谁去适应？
+- 一份 ITHAKA S+R 报告记录了一项技能优先级鸿沟：教师强调批判性、负责任地使用 AI，而雇主看重工作流自动化与[[human-ai-collaboration|人机协作]]技能 —— 他们在 26 项 AI 技能中仅有一项达成一致。你认为课堂与职场优先级为何分歧如此之大，又该由谁去适应？
 - 该报告发现，多数机构既缺乏对 AI 技能长什么样的共识，也缺乏评价它们的框架。如果你必须为一名毕业生定义并评价"面向劳动力就绪的 AI 技能"，你会测量什么、如何测量？
 - 被 AI 取代的恐惧被认定为 AI 焦虑的主要驱动力，而职业就绪被定位为学生幸福感的保护性因素。一个教育项目应当如何处理焦虑本身，而不只是增加技能？
 
@@ -41,10 +41,20 @@ ai_assist:
 
 - **就绪追随投入度，而非威胁水平。** 在[[ai-attitude-latent-profiles-career-development-2026|Song 等（2026）]]中，最焦虑的画像仍报告了最高的职业塑造（4.222）与自评可雇佣性（3.964），与那个无显著差异的有利画像并列 —— 因此焦虑水平并未指标职业就绪。
 - **AI 素养是必要的，但不充分。** [[ai-literacy-career-adaptability-business-2026|Testa 等]]主张单靠 AI 素养不足以实现职业就绪 —— 学生还需要适应性与正面的自我评价，这直接把[[ai-literacy]]与职业结果相连。[[ai-literacy-graduate-employability-2026|Hendrawan 与 Lestari（2026）]]用雅加达 455 名应届毕业生做定量检验：职业适应性具有显著的间接效应（β = 0.173），而成长型思维完全不调节该路径，因此起作用的是适应性而非心态。
+
+- **中介性的信念是一个具体的未来自我。** 在一项对 1,945 名中国大学生的调查中，AI 素养与感知可雇佣性的关联经由未来工作自我显著性传导（0.503 到 0.201，间接效应 0.117），其强度是经由无边界职业心态（0.034）的三倍多（[[qiu-ai-literacy-employability-career-boundaries-2026|Qiu 等，2026]]）。
+- **一张构念地图，而非一条被测量的路径。** [[kong-ai-employability-cognitive-engagement-2026|Kong 与 Zhang（2026）]]把 46 篇出版物读作一篇批判性叙事综述，并在 AI 支持的学习与可雇佣性之间放入三种学习过程：伴随自我调节的认知投入、伴随动机调节的自我效能，以及作为通往职业探索之桥梁的职业适应性。他们把职业适应性归类为一种职业发展资源，而不是就业结果。由于该综合本身不收集数据，它提供的是可检验的命题而非效应量，而它报告的每一个数字都属于某篇被纳入的研究。例如，一个为期十二周、有 120 名非 STEM 学生参与的英国模块把 AI 资本与毕业六个月后的就业状态联系起来，而非随机化的单一课程设计无法把这一结果归因于该课程。
+
 - **雇主与毕业生的视角。** [[ithaka-sr-ai-skills-college-graduates-2026|ITHAKA S+R 报告]]（500 位美国四年制学院教师，对照 200 家美国雇主）记录了教师与雇主之间一个**系统性的技能优先级鸿沟**，它标示着塑造[[higher-ed|高等教育]]课程的劳动力需求。教师与雇主仅在 26 项 AI 技能中的一项（对 AI 增强工作设定现实期望）上认同其重要性：教师优先*批判性、负责任使用*取向（署名、人类问责、AI 的限度），而雇主偏好*工作流、自动化与人机协作*技能。报告发现 26 项技能中仅三项由半数或以上教师教授 —— 教授不足的类别（工作流重设计、自动化、技术整合）恰恰是雇主需求分歧最大的地方 —— 且多数机构既缺乏对 AI 技能长什么样的共识，也缺乏评价框架。对职业发展而言，这意味着毕业生的就绪取决于弥合雇主所重视与课程所教授之间一个真实、可测的鸿沟，而不只是增加 AI 素养。
+
+- **雇主回应的是信号，而不只是技能清单。** [[boyd-swan-employer-responses-genai-2026|Boyd-Swan 与 Reynolds（2026）]]把约 1,750 名美国招聘专业人员随机分配到[[student-ai-interaction|学生 AI 使用]]的两种框架之中，再让他们评价原本相似的简历。把 AI 框定为辅助工具只温和地提高了担忧，且没有惩罚申请者；把它框定为对学生努力与能力的替代，则降低了面试可能性，且更大幅度地降低了薪资谈判意愿，高 GPA 的申请者承受的惩罚更大。两个处理组都把现场测试列为让他们安心的补救办法，这使就绪取决于一份资历是否仍携带雇主愿意接受的证据。
+
 - **免 AI 的招聘关卡不再认证工作所需的东西。** 在对 23 名印度工程专业学生与应届毕业生的访谈中，除一人外都曾用 AI 准备那些排除 AI 的应聘关卡，而毕业生所描述的职场却从第一天起就期望 AI；因此，按信号理论，一份借助 AI 拿到的 CGPA 已不再能按成本区分候选人（[[ai-free-gates-engineering-students-india-2026|Goutham 与 Gu（2026）]]）。
-- **课程政策作为劳动力胜任力决策。** [[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]的设计案例在任务层面把权衡讲明：对学期项目的每一步，教师把一个新兴的[[generative-ai|GenAI]]劳动力胜任力（为设定目标而提示、生成图像、撰写脚本、文本转语音朗读）与评价一项基础技能的需要相对照，只在该胜任力胜出之处允许 AI —— 这是一种把雇主所看重的工作流技能（[[prompt-engineering]]、[[llm|LLM]]输出的评价）直接构建进现有作业的具体方式，而非另开一门 AI 课。
+- **课程政策作为劳动力胜任力决策。** [[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]的设计案例在任务层面把权衡讲明：对学期项目的每一步，教师把一个新兴的[[generative-ai|GenAI]]劳动力胜任力（为设定目标而提示、生成图像、撰写脚本、[[speech-and-voice-technologies|文本转语音]]朗读）与评价一项基础技能的需要相对照，只在该胜任力胜出之处允许 AI —— 这是一种把雇主所看重的工作流技能（[[prompt-engineering]]、[[llm|LLM]]输出的评价）直接构建进现有作业的具体方式，而非另开一门 AI 课。
 - **AI 已在中介职业准备本身。** [[loidl-chatgpt-career-development-2026|Loidl、Cao 与 Huang（2026）]]调查了一所中西部 R1 大学的 102 名本科生，发现约 81% 在过去 12 个月曾为可雇佣性相关活动使用 ChatGPT，以简历（52.94%）、职场沟通（38.24%）与求职信（35.29%）为首，访谈将其读作量身打磨与演练，而非外包；因此职业就绪必须建立在工具已在中介的准备之上，而不只是本页其他地方所述的那些能力。
+
+- **使用方式重组了学生所认定的可雇佣性。** 在一所马德里大学的八个焦点小组（30 名学生）中，ChatGPT 使用者归功于效率、对 AI 建议的筛选与产出打磨，而非使用者归功于审慎、原创性与团队合作——9 次提到团队合作中有 8 次来自非使用者（[[calle-martinez-chatgpt-employability-soft-skills-2026|Calle-Martinez 等 2026]]）。作者把这两条路径命名为受协助的自主与缓慢的创造力，并告诫两者都未被测量。
+
 - **行业特定的就绪框架。** [[workforce-readiness-smart-manufacturing-wrl-2026|智能制造中的劳动力就绪]]与[[ai-engineering-computing-workforce-grey-literature-2026|工程/计算劳动力的未来]]把一般可雇佣性翻译成[[discipline-specific-aied|学科特定]]的胜任力框架。
 - **教师预期 AI 会取代什么，以及那不是什么。** 在一项面向聚焦 AI 的[[engineering-education|工程]]学系的十次访谈中，教师对生成式 AI 将如何重塑工作意见不一，点名编程、[[writing-education|写作]]与信息工作为近期脆弱的领域，却未为这些预期提供任何劳动力市场证据（[[sadik-ai-ready-engineering-talent-faculty-2026|Sadik（2026）]]）。
 - **劳动力转型。** [[post-covid-ict-career-aspirations|ICT 职业志向]]研究检视学生的职业意向如何随技术变迁而转变。
@@ -79,10 +89,12 @@ ai_assist:
 ## 关联文章
 
 - [[ai-free-gates-engineering-students-india-2026]] — 从免 AI 的关卡到 AI 优先的工作：印度工科学生如何在没有 AI 准则的情况下穿行大学教育与校园招聘
+- [[boyd-swan-employer-responses-genai-2026]] —— 对约 1,750 名美国招聘专业人员的调查实验：替代框架降低了面试与薪资谈判意愿，对高 GPA 申请者影响最大（Boyd-Swan 与 Reynolds 2026）
 - [[ai-literacy-graduate-employability-2026]] — PLS-SEM 证据表明 AI 素养经职业适应性抵达感知可雇佣性，而成长型思维毫无增益（Hendrawan & Lestari 2026）
 - [[mccorkle-aligned-genai-course-policy-2025]] — 评价与劳动力胜任力的权衡逐任务决定（McCorkle 2025）
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 职业适应力减少 AI 焦虑
 - [[ai-literacy-career-adaptability-business-2026]] — 商业教育中的 AI 素养与职业适应性
+- [[calle-martinez-chatgpt-employability-soft-skills-2026]] —— 八个焦点小组：使用者归功于效率与打磨，非使用者归功于原创性与团队合作（受协助的自主 vs 缓慢的创造力）
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — 面向大学毕业生的 AI 技能：教师与雇主的优先级
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — 智能制造中的劳动力就绪
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI 与工程/计算劳动力的未来
@@ -94,3 +106,4 @@ ai_assist:
 
 - [[ai-attitude-latent-profiles-career-development-2026]] — 四种 AI 态度画像：职业塑造与可雇佣性追随投入度，而非焦虑
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — 教师的预测是关于就业的预测，而不是证据
+- [[kong-ai-employability-cognitive-engagement-2026]] —— 一篇叙事综述从 AI 支持的学习到可雇佣性的构念地图

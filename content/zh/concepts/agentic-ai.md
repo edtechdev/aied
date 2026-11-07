@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor]
+connected_resources: [deeptutor, learnharness]
 title: 智能体式人工智能
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,15 +57,15 @@ ai_assist:
 
 ## 该领域的一张基于角色的地图
 
-在[[agentic-ai-education-scoping-review|474 项研究的范围综述]]与[[kostopoulos-agentic-ai-education-2025|Kostopoulos 等的概念综述]]绘制研究广度与能力之处，[[baradziej-agentic-ai-higher-education-2026|Baradziej（2026）]]按智能体式 AI **所扮演的角色**来组织它——一个用于决定在哪里部署并治理这些系统的[[governance|机构性]]框定。在 48 项高等教育研究中，六个角色按证据分量依次出现：个性化学习与自适应导学（18/48）、[[automated-assessment]]与反馈（12）、教学辅助与增强（11）、行政与学生支持（8）、课程设计与劳动力对齐（5）、研究支持与学术运营（4）。角色透镜把一个在每次部署中反复出现的设计选择推到前景：人保留多少逐刻的掌控（一种"Copilot"关系），对智能体拥有多少（一种"Autopilot"关系）——即那条决定一个智能体是给学习搭脚手架还是取代它的自主性轴。
+在[[agentic-ai-education-scoping-review|474 项研究的范围综述]]与[[kostopoulos-agentic-ai-education-2025|Kostopoulos 等的概念综述]]绘制研究广度与能力之处，[[baradziej-agentic-ai-higher-education-2026|Baradziej（2026）]]按智能体式 AI **所扮演的角色**来组织它——一个用于决定在哪里部署并治理这些系统的[[governance|机构性]]框定。在 48 项高等教育研究中，六个角色按证据分量依次出现：个性化学习与自适应导学（18/48）、[[automated-assessment]]与反馈（12）、教学辅助与增强（11）、行政与[[student-support-and-success|学生支持]]（8）、课程设计与劳动力对齐（5）、研究支持与学术运营（4）。角色透镜把一个在每次部署中反复出现的设计选择推到前景：人保留多少逐刻的掌控（一种"Copilot"关系），对智能体拥有多少（一种"Autopilot"关系）——即那条决定一个智能体是给学习搭脚手架还是取代它的自主性轴。
 
 ## 智能体系统的设计与评价
 
 本知识库中的[[research-methods-aied|研究]]横跨设计与评价：
 
 - **锚定在理论中的混合智能体胜过纯[[prompt-engineering|提示工程]]：** [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]，一个含 **25,795 个教学设计情境**的基准测试，发现表现最佳的方法把经典 ISD 框架（ADDIE、Dick & Carey、快速原型）与现代化的 ReAct 式推理整合——混合（理论 + 技术）> 纯理论 > 仅技术。把[[llm]]智能体锚定在成熟的教育设计理论之中，提供了原始提示无法复制的结构性优势。
-- **面向智能体工具的评估框架：** [[tool-invariant-framework-agentic-ai|工具无关框架]]提议以一种不依赖任何特定 AI 工具的方式[[teacher-role|教学]]与评估计算方法，强调[[computational-thinking]]基础、经由口头答辩的[[authentic-assessment]]，以及验证——这与[[cognitive-offloading|过度依赖]]的关切相关。
-- **一个报告与治理的定标器：自主性—监督—证据（AOE）框架。** [[beyond-agent-label-agentic-ai-governance-2026|Dey（2026）]]论证，*智能体式 AI*这一术语被应用得如此不一致，以至于证据与监督无法跨研究比较——那些会规划、记忆、使用工具或协调多个智能体的系统，与静态的 GenAI 界面和传统的[[pedagogical-agent|教学法智能体]]被归为一类。他对十五篇同行评审综述的批判性整合综述发现，证据在工件层级的产出（反馈准确率、幻觉减少）上最强，在持久学习、公平、工作量或机构产出上最弱，而真实的部署通常短、单一站点，且与监督关联薄弱。补救办法是一个具体的报告三元组——**自主性层级 A0–A4**（反应式生成 → 有界编排 → 被委派的任务自主性 → 工作流自主性 → 对评分/招生/进展的*后果性自主性*）、**监督层级 O0–O4**（未指明 → 回溯性审计 → 使用前批准 → 检查点式控制 → *持续的、有界监督*）与**证据成熟度阶段 M0–M5**（概念 → 原型/基准 → 参与者评价 → 真实部署 → 扩展/多站点 → *被复现的/机构规模*）——加上一条**比例规则**：可容许的自主性不应跑在证据成熟度或监督强度之前（例如，一个 A4 后果性系统要求 M4–M5 的证据、法律验证，以及 O4 加人的最终权威）。报告 *A2–O3–M3* 把含糊的"智能体式部署"主张变成可比较、可检验的规格，并给机构一套分阶段采纳、日志与回滚的语法——它是上文[[baradziej-agentic-ai-higher-education-2026|Copilot 到 Autopilot]]光谱在证据上的补充。
+- **面向智能体工具的评估框架：** [[tool-invariant-framework-agentic-ai|工具无关框架]]提议以一种不依赖任何特定 AI 工具的方式[[teacher-role|教学]]与评估计算方法，强调[[computational-thinking]]基础、经由[[oral-assessment|口头答辩]]的[[authentic-assessment]]，以及验证——这与[[cognitive-offloading|过度依赖]]的关切相关。
+- **一个报告与治理的定标器：自主性—监督—证据（AOE）框架。** [[beyond-agent-label-agentic-ai-governance-2026|Dey（2026）]]论证，*智能体式 AI*这一术语被应用得如此不一致，以至于证据与监督无法跨研究比较——那些会规划、记忆、使用工具或协调多个智能体的系统，与静态的 GenAI 界面和传统的[[pedagogical-agent|教学法智能体]]被归为一类。他对十五篇同行评审综述的批判性整合综述发现，证据在工件层级的产出（反馈准确率、[[hallucination-risk|幻觉]]减少）上最强，在持久学习、公平、工作量或机构产出上最弱，而真实的部署通常短、单一站点，且与监督关联薄弱。补救办法是一个具体的报告三元组——**自主性层级 A0–A4**（反应式生成 → 有界编排 → 被委派的任务自主性 → 工作流自主性 → 对评分/招生/进展的*后果性自主性*）、**监督层级 O0–O4**（未指明 → 回溯性审计 → 使用前批准 → 检查点式控制 → *持续的、有界监督*）与**证据成熟度阶段 M0–M5**（概念 → 原型/基准 → 参与者评价 → 真实部署 → 扩展/多站点 → *被复现的/机构规模*）——加上一条**比例规则**：可容许的自主性不应跑在证据成熟度或监督强度之前（例如，一个 A4 后果性系统要求 M4–M5 的证据、法律验证，以及 O4 加人的最终权威）。报告 *A2–O3–M3* 把含糊的"智能体式部署"主张变成可比较、可检验的规格，并给机构一套分阶段采纳、日志与回滚的语法——它是上文[[baradziej-agentic-ai-higher-education-2026|Copilot 到 Autopilot]]光谱在证据上的补充。
 - **对抗性稳健性测试：** [[adversarial-stress-testing-role-playing-agents|多智能体压力测试]]协调 Interrogator、Target 与 Judge 智能体以揭示单一策略测试所不可见的失效模式，把稳健性分数降低 0.17–0.20 分——这对人格一致性与面向学习者的[[pedagogical-safety|安全部署]]是关键的。
 - **领域应用：** 智能体式系统出现在各个领域，包括[[learnmate2-llm-adaptive-learning|自适应学习智能体]]、[[educlaw-bench-pedagogical-llm-agents-2026|教学法 LLM 智能体]]、[[guided-llm-scaffolding-independent-learning|引导式 LLM 脚手架]]、[[cyberagents-gamified-cybersecurity-learning-2026|游戏化网络安全学习智能体]]与[[hdr-brachytherapy-agentic-ai-simulation-2026|临床模拟智能体]]。
 - **作为学习体验评价者的 Web 智能体：** 一个像学生一样浏览在线[[learning-design|课程]]的单一自主"描述型" Web 智能体——[[ai-web-agents-lesson-design-2025|Wang、Mitchell 与 Piech（2025）]]——产出一份足够丰富的描述，既能预测学生流失，又能在真实学习者投入之前给设计者可据以行动的反馈，在一个全局 CS1 课程上胜过一整个模拟学生队列与所有基线。这把智能体式评价（一个作为学习体验替身批评者的智能体）定位为智能体式 AI 的一种独特的、低成本的用途，与那些教书或设计的智能体并列。
@@ -76,10 +76,12 @@ ai_assist:
 
 两个 2026 年的系统把角色专门化买到什么——以及它在何处不再划算——说得更锋利。MeduAI-SP（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等，2026）]]把临床访谈教学分摊给四个 LLM 智能体——一个病人智能体、一个苏格拉底式导学智能体、一个轮次级评价者与一个最终评价者——各自承载一项不同的教学功能。这一架构出于设计扣留答案：导学系统被禁止透露诊断或病例答案，而最终评价者的 OSCE 分数在实时问诊中保持隐藏。这项试验把改善后的问诊行为（期末考试 71.8% 对 55.6%）归功于角色专门化，而非原始模型能力，为对齐教学法的多智能体设计提供了一个具体模板。第二项研究指出了那一模式的极限：在一个 45 名学生、15 个小组的伦理讨论系统中（[[ethics-training-agents-group-ethics-discussion-2026|Seo 等，2026）]]），三个分别体现关怀、义务论与实用主义伦理的 LLM 人格彼此之间没有产生显著差异，且全都在贡献、多样性与影响力上被评为低于人类同伴（全部 Kruskal-Wallis p < .001）。作者把这一差距归因于[[ai-sycophancy|谄媚式的]]一致——智能体几乎接受每一项贡献，除非它完全错误——以及可见推理的缺失，论证以任务为中心的智能体设计必须把过程透明与保障措施（易错的同伴框定、一个专门的提问阶段）配对，以避免[[cognitive-offloading|过度依赖]]。
 
-比编排少数几个专门智能体再进一步，是[[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshan 等（2026）]]提出的**完整智能体式多智能体生态**：一个全校范围的平台，通过跨功能的[[feedback|反馈回路]]与分布式智能来协调学习、教学与行政智能体。它独特的动作是把[[inclusive-learning|包容性]]当作一流架构关切来对待——协调[[accessibility]]、认知支持与[[well-being]]智能体，使有[[special-education|特殊教育需要]]的学习者在认知、感官与情感维度上得到实时支持，而非由一个孤立的辅助工具来服务。该文把这置于一个**人—AI 共同演化**回路（人的行为与决定塑造 AI 的适应，后者又反过来增强人的能力）之内，从而把人留在回路中。
+比编排少数几个专门智能体再进一步，是[[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshan 等（2026）]]提出的**完整智能体式多智能体生态**：一个全校范围的平台，通过跨功能的[[feedback|反馈回路]]与[[distributed-cognition|分布式智能]]来协调学习、教学与行政智能体。它独特的动作是把[[inclusive-learning|包容性]]当作一流架构关切来对待——协调[[accessibility]]、认知支持与[[well-being]]智能体，使有[[special-education|特殊教育需要]]的学习者在认知、感官与情感维度上得到实时支持，而非由一个孤立的辅助工具来服务。该文把这置于一个**人—AI 共同演化**回路（人的行为与决定塑造 AI 的适应，后者又反过来增强人的能力）之内，从而把人留在回路中。
 
 - **面向协作问题解决的参与者特定 LLM 智能体。** Fang（2026）在真实参与者的对话数据上微调个体 LLM 智能体，以在协作问题解决模拟中代表每一位参与者，采用概率性的说话者与主题码选择，以及滑动窗口加摘要的记忆。以[[network-analysis|认知网络分析]]验证，模拟的对话与真实对话在统计上不可区分（ENA 距离 0.17，置换 p = 0.65）——这是智能体式 AI 复现真实协作话语的一次演示。
-- **社会智能的多智能体导学。** 诸如 ASTRA 的社会智能多智能体导学原型，研究学习者如何在二人组中与 AI 协调，用有区分的 Tutor 与 Facilitator 智能体来提示协调与均衡的参与。该框架基于轨迹的评价，使对交互、参与均衡性与验证的可复现分析在入门编程中成为可能。
+- **社会智能的多智能体导学。** 诸如 ASTRA 的社会智能多智能体导学原型，研究学习者如何在二人组中与 AI 协调，用有区分的 Tutor 与 Facilitator 智能体来提示协调与均衡的参与。该框架基于轨迹的评价，使对交互、参与均衡性与验证的可复现分析在[[cs-education|入门编程]]中成为可能。
+
+**一种组织性的答案：学习者作为参与成员而非接受者。** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan 等人（2026）]] 实现了一个人类参与的多智能体组织：专门化的智能体维护一份可修订的能力项目（Capability Program），把个人目标、[[multimodal|多模态]]活动与分层评估连接起来，并有一个可订正的"人类节点"把学习者自己的证据与质疑带入后续修订。在 96 个模拟学习者案例上与最接近的多智能体基线相比，优势集中在[[assessment|评估设计]]上：[[assessment-validity|评估效度]]高出 19.32 分（95% CI [17.55, 21.04]），能力覆盖度高出 5.89 分，而个性化并未拉开差距（1.35 分，区间跨过零）。在一项 32 名学习者的随机研究中，客观 50 分测验上的知识增益为 12.19 分对 5.61 分。
 
 ## 核心张力：自动化 vs. 学习
 
@@ -95,7 +97,7 @@ ai_assist:
 
 设计得当时，智能体式 AI 带来可观的好处：
 
-- **更深、更具适应性的个性化。** 持久的智能体可以在许多轮中维持一场学习对话，追踪学习者知道什么、调整难度、并排序多步[[scaffolding]]——超出早期聊天机器人的一次性回应。这在规模上支持[[adaptive-learning|自适应]]与[[personalized-learning|个性化]]学习。在[[baradziej-agentic-ai-higher-education-2026|Baradziej（2026）]]的综合中，这一角色最强的证据报告了 **15–25%** 的学业增益与高达 **+40%** 的投入提升，对那些历史上被一刀切教学服务不足的学习者（第一代大学生、学习差异者、第二语言学习者）尤其有潜力。
+- **更深、更具适应性的个性化。** 持久的智能体可以在许多轮中维持一场学习对话，追踪学习者知道什么、调整难度、并排序多步[[scaffolding]]——超出早期聊天机器人的一次性回应。这在规模上支持[[adaptive-learning|自适应]]与[[personalized-learning|个性化]]学习。在[[baradziej-agentic-ai-higher-education-2026|Baradziej（2026）]]的综合中，这一角色最强的证据报告了 **15–25%** 的学业增益与高达 **+40%** 的投入提升，对那些历史上被一刀切教学服务不足的学习者（第一代大学生、学习差异者、[[multilingual-learning|第二语言学习者]]）尤其有潜力。
 - **卸下例行的教学负担。** 智能体能规划课程、生成并验证题目、起草反馈，并编排专门的子智能体（例如用于出题的生成器 + 验证器），把教师解放出来做更高价值的交互。这是[[ai-tpack-teacher-multi-agent-workflow|面向教师的多智能体工作流]]的承诺。评估智能体尤其报告了 **90–95% 与人类评分者的一致度与 50–70% 的评分时间缩减**，尽管同样的证据也标出了[[bias-mitigation|偏见]]以及即时、不反思反馈的[[metacognition|元认知]]代价。
 - **丰富、多样的交互。** 多智能体课堂与模拟同伴创造单一智能体系统无法提供的多样交互动态（类同伴的话语、建设性的分歧、角色扮演），支持[[collaborative-learning]]、[[socratic-method|苏格拉底式探问]]与[[simulation]]。
 - **生产性摩擦。** 被设计来挑战而非附和的智能体，可以把学习者推向更深的重思。[[ai-agents-constructive-conflict-design-education-2026|对抗性设计智能体研究]]表明，建设性冲突的智能体显著提示了更多设计迭代、更广的探索与更高评价的最终设计（N=48）——一种[[desirable-difficulties|可取的困难]]。
@@ -134,7 +136,7 @@ ai_assist:
 
 并非所有智能体行为都必须是平滑的协助。[[ai-agents-constructive-conflict-design-education-2026|对抗性设计智能体研究]]表明，施行**建设性冲突**的智能体，在新手交互设计者中显著提示了更多设计迭代、更广的替代方案探索与更高评价的最终设计（N=48）——一种*生产性摩擦*动态，其中冲突智能体令人沮丧却终究有帮助。这连接到[[socratic-method|苏格拉底式提问]]与[[design-thinking]]，并例示了智能体式 AI 如何支持深层的重思，而非被动的接受。
 
-一项关于智能体式 AI 如何经由*心理性*而非技术性的通路达成学习结果的研究，提供了缺失的测量角度。[[pramod-agentic-ai-motivational-pathways-2026|Pramod 与 Patil（2026）]]调查了印度的 398 名商科学生，把自主性、胜任性与关系性连同交互性、信息分享与感知的[[community-of-inquiry|社会临场]]一起建模；自主性是最强的动机驱动因子（β = 0.504），交互性是最强的社会驱动因子（0.468），而动机与社会临场以几乎同等的强度喂给[[student-engagement|投入]]（0.533 与 0.493），随后投入预测了感知的学习表现（0.671）。设计上的教训是：社会通路并非自动的——一个协作环境构念对感知社会临场的推动，不如单纯的回应性与信息分享，因此把一个智能体当作聊天界面而非参与者，就留下了那条通路的大部分未被使用。
+一项关于智能体式 AI 如何经由*心理性*而非技术性的通路达成学习结果的研究，提供了缺失的测量角度。[[pramod-agentic-ai-motivational-pathways-2026|Pramod 与 Patil（2026）]]调查了印度的 398 名商科学生，把自主性、胜任性与关系性连同交互性、信息分享与感知的[[community-of-inquiry|社会临场]]一起建模；自主性是最强的[[motivation|动机]]驱动因子（β = 0.504），交互性是最强的社会驱动因子（0.468），而动机与社会临场以几乎同等的强度喂给[[student-engagement|投入]]（0.533 与 0.493），随后投入预测了感知的学习表现（0.671）。设计上的教训是：社会通路并非自动的——一个协作环境构念对感知社会临场的推动，不如单纯的回应性与信息分享，因此把一个智能体当作聊天界面而非参与者，就留下了那条通路的大部分未被使用。
 
 ## 对教师与教学设计者的启示
 
@@ -203,6 +205,8 @@ ai_assist:
 - [[educational-policy-ai]]
 
 ## 关联文章
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — 围绕可修订能力项目组织的智能体，学习者作为其中一员
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — 自主性、胜任性、关系性与社会临场作为从智能体式 AI 到投入的通路（Pramod 与 Patil 2026）
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、愉悦性评估与第三空间

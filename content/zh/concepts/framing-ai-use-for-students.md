@@ -1,7 +1,7 @@
 ---
 title: 面向学生的 AI 使用框架
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-25T18:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -27,7 +27,7 @@ ai_assist:
 ## 值得思考的问题
 
 - 仅仅是向学生提供 AI，与无效甚至不合伦理的使用相关联，而明确地框定并嵌入恰当使用则改善了结果。如果工具的存在不如其框定方式重要，这对强调简单地"给学生 AI"意味着什么？
-- 大多数学生使用生成式 AI，许多人不确定自己的使用是否合规，且他们依赖私下获取的工具，而非机构提供的工具。如果知道规则几乎不改变学生的行为，那么除了单纯告知，还有什么可能说服人？
+- 大多数学生如今使用[[generative-ai|生成式 AI]]，很少人确定自己的使用是否合规，且他们偏爱私下获取的工具，而非机构提供的工具。如果知道规则几乎不改变学生的行为，那么除了单纯告知，还有什么可能说服人？
 - 当机构以恐惧与谴责回应 AI 时，学生可能隐藏或合理化其使用，而非学会用好它。你见过"道德恐慌"式的回应把学生推入隐秘吗？一个被重新框定的、机会导向的做法会是什么样子？
 - 对 AI 的焦虑不纯粹是障碍：担忧准确性与抄袭的学生*更可能*核验并修订 AI 产出，而非不加批判地接受。如何把有成效的焦虑导入评价性胜任力，而非被压抑？
 - 学生通过"场所"（sites）——教师意图、课程文件、同伴规范与机构信息——建构自己对何为可接受的理解，而这些常常分歧。当这些信息冲突时，你认为哪一个真正胜出，框架如何弥合这一缺口？
@@ -40,7 +40,7 @@ ai_assist:
 
 框架之所以重要，是因为**政策与规则本身并不能可靠地改变行为**。对 [[regulation|监管]]认知的[[research-methods-aied|研究]]发现，学生对机构 GenAI 规则的认识与其实际行为仅有弱至中度的关联（[[student-regulatory-awareness-genai]]）。知道规则是必要的，但不充分；信息必须*说服*，而不仅是告知。
 
-差异化的框架可以源于单一政策内部，而不仅存在于各个场所之间：一项对 36 所大学政策的情感分析发现，教学声明被正面框定，而 GenAI 与伦理声明被负面框定，于是学生在同一份文件中同时遇到鼓励与约束（[[sun-governing-genai-policy-cross-national-2026|Sun 等人（2026）]]）。
+差异化的框架可以源于单一政策内部，而不仅存在于各个场所之间：一项对 36 所大学政策的[[affective-computing|情感分析]]发现，教学声明被正面框定，而 GenAI 与伦理声明被负面框定，于是学生在同一份文件中同时遇到鼓励与约束（[[sun-governing-genai-policy-cross-national-2026|Sun 等人（2026）]]）。
 
 框架也塑造学生把 AI 体验为**要回避或规避的威胁**还是**可刻意使用的资源**。当机构以恐惧与谴责回应 AI——一条研究工作线称之为反复出现的"道德恐慌"——他们把学生推入隐藏或合理化其使用，而非学会用好它。([[moral-panic-genai-classroom]]) 把焦虑与谴责重新框定为结构化的机会，改变了学生与 AI 之间 [[student-engagement|参与]]的整个动态。
 
@@ -60,7 +60,7 @@ ai_assist:
 
 ### 把焦虑与不确定性重新框定为评价性胜任力
 
-一项对学术 [[writing-education|写作]]的 [[mixed-methods-research|混合方法]]研究发现，AI 焦虑不只是一项障碍：担忧准确性与抄袭的学生*更可能*核验、交叉检查并修订 AI 产出，而非不加批判地接受。该研究把 [[ai-literacy|AI 素养]]框定为更少是接受、更多是**监管胜任力**——质疑产出、选择性修订并维持作者责任的能力。([[ai-anxiety-strategic-regulation-writing-2026]]) 面向学生的 AI 使用框架意味着把有成效的焦虑导入评价，而非压抑它。
+一项对学术 [[writing-education|写作]]的 [[mixed-methods-research|混合方法]]研究发现，[[anxiety-and-stress|AI 焦虑]]不只是一项障碍：担忧准确性与抄袭的学生*更可能*核验、交叉检查并修订 AI 产出，而非不加批判地接受。该研究把 [[ai-literacy|AI 素养]]框定为更少是接受、更多是**监管胜任力**——质疑产出、选择性修订并维持作者责任的能力。([[ai-anxiety-strategic-regulation-writing-2026]]) 面向学生的 AI 使用框架意味着把有成效的焦虑导入评价，而非压抑它。
 
 ### 用有针对性的信息塑造特定行为
 

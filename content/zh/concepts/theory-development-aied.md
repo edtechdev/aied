@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能中的理论发展
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-10-25T15:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 引言
 
-教育人工智能中的理论发展，坐落在本领域所借用的应用性 [[learning-theories|学习理论]] 与 AI 时代正在产出的全新构念之间的边界上。[[learning-theories]] 编录了应用于 AI 的既有理论（行为主义、建构主义、认知负荷、自我决定论等），而本概念追踪的是*理论化本身的过程与产物*：哪些新理论与框架正在诞生，既有理论如何被推进，以及教育人工智能研究是否理论化得好的方法论问题。
+教育人工智能中的理论发展，坐落在本领域所借用的应用性 [[learning-theories|学习理论]] 与 AI 时代正在产出的全新构念之间的边界上。[[learning-theories]] 编录了应用于 AI 的既有理论（行为主义、建构主义、认知负荷、自我决定论等），而本概念追踪的是*理论化本身的过程与产物*：哪些新[[theories-and-frameworks|理论与框架]]正在诞生，既有理论如何被推进，以及教育人工智能研究是否理论化得好的方法论问题。
 - **一个规定自身比较条件的框架。** Nakamura（2026）把认知劳动的分工当作解释单元，把各类操作放在由外围到构成的连续谱上，指明用于界定增强与侵蚀的比较条件，并推导出七项有条件的可检验命题（[[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura，2026]]）。由于这些命题预测的是不同配置之间的差异，只报告平均效应的研究无法证实或推翻它们。
 
 ## 与 AI 共同学习的新理论
@@ -48,7 +48,7 @@ ai_assist:
 
 综合立场（the synthetic position）增加了一个确实陈述命题的竞争性主张：它命名了 *synthetic promotion*（合成性提升）与 *authorial suspension*（作者悬置）——一个声音密集却无作者的自我——并预测一种交叉交互作用，即人生决策叙事的被评作者性与连贯性朝相反方向移动（[[synthetic-position-self-authorship-2026|Du 等（2026）]]）。
 
-- **行动者主义（Agentivism）。** [[yan-agentivism-learning-theory-ai-2026|Yan 与 Gašević（2026）]] 提出 Agentivism 作为一种人机交互的中层学习理论，把学习定义为人类能力的持久增长，而非与 AI 一同完成任务，并明确四种机制：委派式行动性、认知监督与验证、重构性内化、以及在支持减弱条件下的迁移。它区别于本页其他主张之处在于可证伪性：它陈述了六个命题，包括——当 AI 保留学习者对问题框定、标准设定与论证的责任时，学习比 AI 直接给出答案时更强；以及要求验证应能提升延迟表现，而反复的低摩擦委派且缺乏重构则会削弱学习者对自身能力的校准。
+- **行动者主义（Agentivism）。** [[yan-agentivism-learning-theory-ai-2026|Yan 与 Gašević（2026）]] 提出 Agentivism 作为一种[[human-ai-collaboration|人机交互]]的中层学习理论，把学习定义为人类能力的持久增长，而非与 AI 一同完成任务，并明确四种机制：委派式行动性、认知监督与验证、重构性内化、以及在支持减弱条件下的迁移。它区别于本页其他主张之处在于可证伪性：它陈述了六个命题，包括——当 AI 保留学习者对问题框定、标准设定与论证的责任时，学习比 AI 直接给出答案时更强。它还主张，要求验证应能提升延迟表现，而反复的低摩擦委派且缺乏重构则会削弱学习者对自身能力的校准。
 
 教师侧的理论化现在也做出了同样的可检验承诺：能力—决策模型把 [[tpack|AI-TPACK]] 能力置于态度与感知行为控制之上游，并命名四个否证条件——中介失效、判别坍塌、调节无效与情境冗余——尽管该模型尚未被检验（[[capability-decision-model-teacher-readiness-2026|Mnguni（2026）]]）。
 
@@ -56,7 +56,7 @@ ai_assist:
 
 - **认知伙伴关系循环。** [[page-cognitive-partnership-cycle-human-ai-2026|Page（2026）]] 提出认知伙伴关系循环，一个六阶段的递归模型：人的提问、AI 的扩展、人的反思、整合、修订与新提问。它把学习定位在学习者认知位置的改变中，而非提示的精巧程度，并命名了四种失效模式，其中同一递归替代或扭曲了思考。
 
-- **缺失的认知基线（ACB）。** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] 对 AI 原生学生学业自我评估中的结构性缺口进行理论化——一个三维框架，解释当 AI 抬高表现时学生为何高估自己的学习。
+- **缺失的认知基线（ACB）。** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] 对 AI 原生学生学业[[self-assessment|自我评估]]中的结构性缺口进行理论化——一个三维框架，解释当 AI 抬高表现时学生为何高估自己的学习。
 
 - **认知公地（The cognitive commons）。** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] 借由公共池塘资源理论与 [[distributed-cognition|分布式认知]]，解释理性的 AI 采纳决策如何耗尽各行业更新所依赖的共享专业能力池。
 
@@ -64,7 +64,7 @@ ai_assist:
 
 - **认知性 [[ai-literacy|AI 素养]]（EAIL）。** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]] 把 AI 素养重构为一种以过程为导向的认知能力，核心在于当学生与生成式 AI 共同编程时，知识如何被建构与证成。
 
-- **三系统理论（Tri-System Theory）。** [[shaw-nave-cognitive-surrender-2026|Shaw 与 Nave（2026）]] 在双过程理论之上扩展出 **System 3**——来自 AI 的外在的、自动化的、数据驱动的推理，它可以补充、取代或压制 System 1 与 System 2——并命名其特有的失效模式为**认知投降（cognitive surrender）**，即不加批判地采纳 AI 输出。
+- **三系统理论（Tri-System Theory）。** [[shaw-nave-cognitive-surrender-2026|Shaw 与 Nave（2026）]] 在双过程理论之上扩展出 **System 3**——来自 AI 的外在的、自动化的、数据驱动的推理，它可以补充、取代或压制 System 1 与 System 2——并命名其特有的失效模式为**[[cognitive-surrender|认知投降]]（cognitive surrender）**，即不加批判地采纳 AI 输出。
 
 - **认知管护（Cognitive stewardship）。** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] 对在 AI 无处不在的评估情境中保护知识与学习的 [[governance|机构]]责任进行理论化。
 
@@ -80,7 +80,7 @@ ai_assist:
 
 另一些工作把现有理论延伸进 AI 情境，而非开创新的范式：[[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] 工作把 [[cognitive-offloading|cognitive-load theory]] 与减负教学整合为一个三层框架；[[dollinger-equitable-assessment-ai-2026|equitable assessment]] 在 GenAI 冲击下重新理论化 [[assessment]]。[[reconceptualizing-community-inquiry-generative-ai|Ba、Gašević、Lim 与 Anderson（2026）]] 重新概念化 [[community-of-inquiry|Community of Inquiry]] 框架本身：他们不再把 GenAI 框定为工具、对话伙伴或一个推测性的"第四存在"，而是把它重新定位为一种*认识论条件*，重新配置认知存在、社会存在与 [[teacher-role|teaching]] 存在如何被实施、被见证与被治理——把 CoI 诸存在重构为人—GenAI 装配体的社会技术成就，并提出一个基于配置的启发式方法，其中 GenAI 的参与与探究质量通过人的责任而条件性地关联。其中许多属于概念框架工作（[[drummond-genai-business-schools-framework-2026|business-school frameworks]]、[[valid-student-simulation-llm-2026|valid simulation]]），把理论操作化以服务于实践。
 
-[[metacognitive-ownership-human-ai-regulation-2026|Lin 与 Chang（2026）]] 扩展 [[self-regulated-learning]] 与人机调节，命名学习者所治理的对象——标准、评价性判断与控制授权——而不只是 AI 所做的。
+[[metacognitive-ownership-human-ai-regulation-2026|Lin 与 Chang（2026）]] 扩展 [[self-regulated-learning]] 与人机调节，命名学习者所治理的对象——标准、[[evaluative-judgment|评价性判断]]与控制授权——而不只是 AI 所做的。
 
 摩擦悖论为既有理论提供了又一项扩展：[[friction-paradox-generative-ai-education-abroad-2026|Gupta（2026）]]把 Bjork 与 Bjork 的[[desirable-difficulties|合意困难]]与 Kapur 的[[productive-failure|生产性失败]]应用于海外教育中的关系性遭遇，论证要紧的是学生把多少解释性行动性[[transfer-of-learning|迁移]]给生成式助手，而非它被使用的频率。该框架是概念性的，并把五条命题陈述为竞争性假设。
 

@@ -1,7 +1,7 @@
 ---
 title: 理论与框架
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 这些解释机制：它们点出承担工作的那些部分，并预测当这些部分改变时会发生什么。在 AI 文献中，它们大多从心理学和[[learning-sciences|学习科学]]借来，被用作围绕一件新工具的解释框架。
 
 - **[[learning-theories|学习理论（总括）]]** —— 整个家族，包括[[behaviorism|行为主义]]与[[constructivist|建构主义]]这两个经典极点，以及"名义上建构主义、实践上行为主义"这一在 AI 实现中反复出现的差距。联结主义与认知负荷理论也在此覆盖。
-- **[[constructivist|建构主义]]** —— 学习即主动建构知识。它支撑了项目式工作、对话式 AI 辅导，以及"操练—反馈系统违背了自己声明的教学法"这一批评。
+- **[[constructivist|建构主义]]** —— 学习即主动建构知识。它支撑了[[project-based-learning|项目式]]工作、对话式[[intelligent-tutoring|AI 辅导]]，以及"操练—反馈系统违背了自己声明的教学法"这一批评。
 - **[[sociocultural-learning|社会文化理论]]** —— 学习由工具与社会互动中介，这正是 AI 被理论化为一种中介性造物、而非单纯辅助的原因。
 - **[[activity-theory-aied|活动理论]]** —— 把整个活动系统（含矛盾）作为分析单位。在面向教师的 AI 研究中常见，因为有趣的发现通常是工具、规则与共同体之间的张力。
 - **[[situated-learning|情境学习]]**与**[[embodied-learning|具身学习]]** —— 学习与情境及身体相连，是对把 AI 当作纯语言媒介的反向制衡。
@@ -48,8 +48,8 @@ ai_assist:
 - **[[community-of-inquiry|探究共同体]]** —— 使在线体验得以运作的社会、认知与教学三种存在；既是关于体验的理论，也是设计框架。
 - **[[self-determination-theory|自我决定理论]]** —— 自主、胜任与关联作为动机前提。当 AI 使用提升了参与却未提升学习时，常被拿出来作为解释。
 - **[[cognitive-psychology|认知主义]]** —— 信息加工、工作记忆，以及"学到了的感觉"与实际学习之间的分歧。
-- **社会知觉理论（温暖与胜任）** —— 从社会认知与服务机器人研究中引入，它框定用户如何评判一个人工智能智能体的可信度：感知到的胜任直接预测 ChatGPT 反馈的可信度，而温暖只经由类人共情起作用（SEM，230 名学生；[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等人（2026）]]）。
-- **第四类可供性被提出，但未被检验。**把 24 项研究对照一套三部分的可供性方案编码后，综述者发现参与、安全与自我效能并不契合技术的、教学的或社会的类别，于是提出了植根于班杜拉交互决定论的情感可供性（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
+- **社会知觉理论（温暖与胜任）** —— 从社会认知与服务机器人研究中引入，它框定用户如何评判一个[[agentic-ai|人工智能智能体]]的可信度：感知到的胜任直接预测 ChatGPT 反馈的可信度，而温暖只经由类人共情起作用（SEM，230 名学生；[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等人（2026）]]）。
+- **第四类可供性被提出，但未被检验。**把 24 项研究对照一套三部分的可供性方案编码后，综述者发现参与、安全与自我效能并不契合技术的、[[pedagogy|教学]]的或社会的类别，于是提出了植根于班杜拉交互决定论的情感可供性（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
 
 ## 关于学习者与学习过程的模型
 
@@ -65,16 +65,16 @@ ai_assist:
 
 - **[[tpack|TPACK]]** —— 融合技术、教学法与学科内容的教师知识；面向教师的 AI 研究的默认框架。
 - **[[technology-acceptance-model|采纳模型]]** —— 意向作为感知有用性与易用性的函数。用得极广，以至于该领域依赖意向而非行为已成为一项常设批评。
-- **[[icap-framework|ICAP]]** —— 把参与排序为被动、主动、建构、互动；对追问一次 AI 互动实际提供哪种模式很有用。
+- **[[icap-framework|ICAP]]** —— 把参与排序为被动、主动、建构、互动；对追问一次[[student-ai-interaction|AI 互动]]实际提供哪种模式很有用。
 - **[[samr-model|SAMR]]** —— 从替代到重定义。作为成熟度故事很流行，作为测量工具则很弱。
-- **[[universal-design-for-learning|通用学习设计]]**、**[[inclusive-learning|包容性学习]]**与**[[accessibility|无障碍]]** —— 关于谁被服务的设计框架，也是残障与公平工作中最常被引用的框架。
+- **[[universal-design-for-learning|通用学习设计]]**、**[[inclusive-learning|包容性学习]]**与**[[accessibility|无障碍]]** —— 关于谁被服务的设计框架，也是残障与[[equity-in-ai-education|公平]]工作中最常被引用的框架。
 - **[[learning-design|学习设计]]**、**[[curriculum-design|课程设计]]**与**[[design-thinking|设计思维]]** —— 在选择任何工具之前，任务、序列与项目如何被结构化。
 - **[[change-management|变革管理]]** —— 一个系统是否会被采用，这通常是一个机构问题而非教学法问题。
 
 ## 测量与计算模型
 
 - **[[item-response-theory|项目反应理论]]** —— 题目与能力估计，也是使一份测验的数字可解释的模型。
-- **[[educational-measurement|教育测量]]** —— 工具景观，包括专为 AI 素养构建的测量。
+- **[[educational-measurement|教育测量]]** —— 工具景观，包括专为[[ai-literacy|AI 素养]]构建的测量。
 - **[[assessment-validity|效度]]** —— 一个工具是否测量了它声称测量之物，这决定一个被报告的结果能否支撑附着其上的理论论断。
 - **[[self-report-measures|自陈测量]]** —— 这一文献中占主导地位也最脆弱的证据来源；上述若干构念在自陈与表现之间的巨大分歧是已知的。
 - **[[knowledge-tracing|知识追踪]]**与**[[student-modeling|学生建模]]** —— 从交互数据随时间估计学习者的状态。
@@ -86,7 +86,7 @@ ai_assist:
 
 知识库中有四项提议在建构理论而非借用理论。它们是文章页面而非概念节点，因为每一项都是单一的论证：
 
-- **[[generativism-learning-theory|生成主义]]** —— 一种新学习理论，论证随着生成式 AI 扩散，经典四分法显示出显著的概念局限。
+- **[[generativism-learning-theory|生成主义]]** —— 一种新学习理论，论证随着[[generative-ai|生成式 AI]]扩散，经典四分法显示出显著的概念局限。
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|认识论共同能动性]]** —— 关于学习者与 AI 系统如何共同产出知识与理解的模型。
 - **[[absent-cognitive-baseline-2026|缺席的认知基线]]** —— 理论化为何 AI 原住民学生在 AI 抬高表现时会高估自己的学习。
 - **[[yan-agentivism-learning-theory-ai-2026|智能体主义]]** —— 一种中程理论，命名四种机制（委派式能动性、认识论监控与验证、重构性内化、支持减量下的迁移），并陈述六个可检验命题。
@@ -102,7 +102,7 @@ ai_assist:
 
 ## 相关层面
 
-两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量 AIED 工作应用既有理论而非检验理论"这一常设批评。本页是清单；理论发展关乎产出与修订这份清单。
+两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量[[ai-education|AIED]]工作应用既有理论而非检验理论"这一常设批评。本页是清单；理论发展关乎产出与修订这份清单。
 
 ## 当问题很实际时如何选择透镜
 
@@ -115,7 +115,7 @@ ai_assist:
 
 框架不是证据。它们通常从 LLM 之前的语境中借来，由应用者本地化，可以充当品牌，而阶段模型会招致打勾式的采纳——报告的是沿级别的移动而非学习。凡依托框架的论断，都应结合[[limitations-in-aied-research|该领域贯穿性的局限]]、测量了结果的那个工具的[[assessment-validity|效度]]，以及[[self-report-measures|自陈]]的已知限度来读。
 
-机制—理论的一致性仍可能是决定性的：一项对 55 项 AI 支持的游戏化学习研究的主题综述发现，有效性取决于 AI 机制是否落实了它本应服务的教学法，而非算法复杂度（[[ai-game-based-learning-systematic-review-2026|Kaşarcı 与 Yurt（2026）]]）。
+机制—理论的一致性仍可能是决定性的：一项对 55 项 AI 支持的[[game-based-learning|游戏化学习]]研究的主题综述发现，有效性取决于 AI 机制是否落实了它本应服务的教学法，而非算法复杂度（[[ai-game-based-learning-systematic-review-2026|Kaşarcı 与 Yurt（2026）]]）。
 
 ## 常见误解
 

@@ -1,13 +1,13 @@
 ---
 title: 基于设计的研究（Design-Based Research）
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-10-25T21:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,7 +19,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **基于设计的研究（DBR）** — 一种方法论路径，在真实情境中迭代地设计、实施并改进教育干预，在理论、设计与真实世界实践之间循环，既产出一个可用的制品，也产出经过验证的设计原则。在[[ai-education|AI 教育]]中，DBR 是开发 AI 学习环境、[[pedagogy|教学法]]模型和教师培训项目的首选方法——这些必须在课堂的 messy 现实中奏效——以生态真实性换取因果控制的[[rct|实验]]并辅以迭代式改进。
+> **基于设计的研究（DBR）** — 一种方法论路径，在真实情境中迭代地设计、实施并改进教育干预，在理论、设计与真实世界实践之间循环，既产出一个可用的制品，也产出经过验证的设计原则。在[[ai-education|AI 教育]]中，DBR 是开发 AI 学习环境、[[pedagogy|教学法]]模型和[[teacher-role|教师]]培训项目的首选方法——这些必须在课堂的 messy 现实中奏效——以生态真实性换取因果控制的[[rct|实验]]并辅以迭代式改进。
 
 ## 值得思考的问题
 
@@ -31,7 +31,7 @@ ai_assist:
 
 ## 引言
 
-DBR 是一种*设计*传统，而非数据传统：它并不整洁地落入[[quantitative-research|量化]]/[[qualitative-research|质性]]/实验的对照中。它刻意组合三者的元素——跨迭代周期同时收集结果与过程数据——以回答*"我们如何设计这个 AI 学习环境使其在实践中奏效？"*而非*"X 是否导致 Y？"*。它与[[learning-design]]（规定设计过程）和[[usability-research|可用性评估]]（为改进提供输入）密切相关，但区别在于其持续的、理论驱动的、多周期的特征，以及改善实践*并*生成理论的双重目标。
+DBR 是一种*设计*传统，而非数据传统：它并不整洁地落入[[quantitative-research|量化]]/[[qualitative-research|质性]]/实验的对照中。它刻意组合三者的元素——跨迭代周期同时收集结果与过程数据——以回答*"我们如何设计这个 AI 学习环境使其在实践中奏效？"*而非*"X 是否导致 Y？"*。它与[[learning-design]]（规定[[design-thinking|设计过程]]）和[[usability-research|可用性评估]]（为改进提供输入）密切相关，但区别在于其持续的、理论驱动的、多周期的特征，以及改善实践*并*生成理论的双重目标。
 
 ## DBR 周期
 
@@ -54,9 +54,9 @@ AIEd 的典范例子是[[ai-assisted-collaborative-learning-model-dbr|AI 辅助�
 - **[[scaffolding]]与干预设计。** [[critical-thinking-genai-scaffolding|GenAI 批判性思维脚手架]]及其他干预开发研究用 DBR 设计并改进基于 AI 的脚手架。
 - **青年与专家引导的[[curriculum-design|课程设计]]。** [[science-integrated-ai-literacy-curriculum-dbr-2026|Moore 等（2026）]]与一个青年和 AI 专家咨询委员会一起用为期两年的 DBR 过程，为高中设计了一个融入科学的[[ai-literacy|AI 素养]]/ML 课程，跨队列改进设计并测量 ML 知识增益——这是把青年声音整合进设计周期的、作为参与式协同设计的 DBR 一例。
 - **作为 DBR 的迭代量规共同改进。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等（2026）]]把 DBR 的迭代改进特征范例性地应用于评估工具本身：他们把量规当作可修订的设计制品，与一个[[llm|LLM]]循环进行共同改进——澄清表现描述符并明确接纳学习的隐含指标——把 LLM—人在 80 份学生设计海报上的一致性从 54.75% 提高到 81.25%（Cronbach's Alpha 0.393 → 0.798）。该研究把量规定位为人类教学法意图与机器推断之间的中介界面，其角色感知的[[prompt-engineering|提示]]（讲师、同行评审、基金评审）展示了设计选择如何塑造评估输出——这是一个 DBR 式的示范：评估工具、而不只是干预，才是设计对象。
-- **早期童年 AI 素养的协同设计。** [[play-ai-pre-k-kindergarten-ai-literacy-2026|Lee（2026）]]用 DBR 与两名学前和两名幼儿园教师跨迭代周期协同设计、试点并改进 Play With AI（PL-AI）课程，借助教师问卷、32 小时课堂视频、田野笔记和设计会议记录。该研究记录了 DBR 如何支持发展适切的 AI 素养活动的迭代改进，并产出可迁移的设计原则（[[embodied-learning|具身]]游戏、有形编码、引导式对话、教师协同设计）。
+- **早期童年 AI 素养的协同设计。** [[play-ai-pre-k-kindergarten-ai-literacy-2026|Lee（2026）]]用 DBR 与两名学前和两名[[early-childhood-elementary-ai-education|幼儿园]]教师跨迭代周期协同设计、试点并改进 Play With AI（PL-AI）课程，借助教师问卷、32 小时课堂视频、田野笔记和设计会议记录。该研究记录了 DBR 如何支持发展适切的 AI 素养活动的迭代改进，并产出可迁移的设计原则（[[embodied-learning|具身]]游戏、有形编码、引导式对话、教师协同设计）。
 - **专家评审作为改进证据——以及诚实的范围声明。** [[teaching-rl-humanoid-robotics-high-school-2026|Dong 等（2026）]]把初步的四轨道机器人课程提交给五位专家按八个维度评分，然后据此修订：独立的 PPO 实现被移入拓展内容，且在五位专家中有四位指出认知负荷后增加了 Python 先修要求。离散度与均值一样驱动了这些修订——动机平均 4.00、SD = 1.73，还有一项孤立的 1/5 评分——作者坦率声明，修订后的框架在学生数据出来之前仍未评估。
-- **三角互证，及其无法跨越的界限。** [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva 等（2026）]]把角色轮换模型跑过五个 DBR 阶段——问题分析、教学法设计、实施、评估、改进——历时八周、62 名参与者，把反思日志、访谈、观察笔记和学生生成的制品与成员核对三角互证。设计教训在于作者为其所作的声明：在没有前后测胜任力测量、没有比较组的情况下，他们把证据呈现为干预期间的参与，而非被证明的胜任力增益——这恰是多项来源的 DBR 设计能与不能跨越的边界。
+- **三角互证，及其无法跨越的界限。** [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva 等（2026）]]把角色轮换模型跑过五个 DBR 阶段——问题分析、教学法设计、实施、评估、改进——历时八周、62 名参与者，把[[reflection|反思日志]]、访谈、观察笔记和学生生成的制品与成员核对三角互证。设计教训在于作者为其所作的声明：在没有前后测胜任力测量、没有比较组的情况下，他们把证据呈现为干预期间的参与，而非被证明的胜任力增益——这恰是多项来源的 DBR 设计能与不能跨越的边界。
 
 ## 优势与局限
 

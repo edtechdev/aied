@@ -1,13 +1,13 @@
 ---
 title: 分布式认知
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,13 +39,17 @@ ai_assist:
 
 - **AI 作为认知伙伴与共同调节者。** AI 可以充当 [[scaffolding|支架]]、元认知支持、外部记忆系统，以及在思维与学习的共同[[regulation]]中的决策伙伴。([[ai-cognitive-partner-co-regulation-learning]]) 这使认知被定位为在学习者与系统之间共同调节，而非由个体独自管理。
 
-- **AI 使用量并不能揭示正在发生的是哪种形式的分布式工作：** [[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]] 发现，97 名学习者基于用量的画像在先备知识与作者身份上存在差异，但在主动角色或理解层级的提示上并无差异，因此共同活动与劳动分工可能伴随相同的用量而出现。
+- **AI 使用量并不能揭示正在发生的是哪种形式的分布式工作：** [[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]] 发现，97 名学习者基于用量的画像在[[prior-knowledge|先备知识]]与作者身份上存在差异，但在主动角色或理解层级的[[prompt-engineering|提示]]上并无差异，因此共同活动与劳动分工可能伴随相同的用量而出现。
 - **能动性与责任的重新分配。** **合奏认知**（ensemble cognition）等框架把思维重新概念化为从人与 [[student-ai-interaction|AI 互动]]中动态涌现，区分了 AI 的*功能性能动性*（它在无意识的情况下影响结果的能力）与*道德责任*（这始终属于人）。([[ensemble-cognition-philosophy-ai-education]]) 分布式认知由此重新框定了谁该为学习负责。
 - **效率—调节张力。** 实证研究显示了一种权衡：最高效地分配推理的人—AI 系统（例如通过委托推理）取得了更高的任务表现，但可能降低学习者的自我调节性 [[student-engagement|参与]]。([[hao-human-ai-collaborative-problem-solving-cognition]]) 这正是知识库所记录的 [[cognitive-offloading]] 与 [[cognitive-offloading|过度依赖]]风险的实证面孔。
 - **协作中的中介。** AI 可以充当 [[pedagogy|教学法]]意义上的*中介者*，在 [[collaborative-learning|协作学习]]中编排互动、认识论意义上的意义建构与调节过程，把能动性、权威与责任重新分配给人类与非人类行动者。([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **访问配置在群体内部分配认知。** [[xu-genai-collaborative-space-2026|Xu 等（2026）]]表明，一个团队*如何*共享 GenAI 决定了认知的分布：在单一共享界面上同步工作维持着共同的认知模型（集体提示、共享的外部记忆），而异步的私人使用会使之碎片化，输出被选择性重新标注后才共享。GenAI 由此既是分布式的认知参与者，也是一个交互式协作空间，其渗透性必须加以设计（共享情境流入，私人洞见不会自动回流）。
-- **教师同样经历 AI 主导型与互补型的分布。** 同样的效率—调节逻辑也适用于课程设计的教师一侧：[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等（2026）]]发现，新手教师把很大一部分教学设计认知负荷委托给 AI 系统（AI 主导型分布，大多接受回应），而有经验、精通 AI 的教师则达到互补型分布，其中教学专业能力与 AI 的计算支持相互增强——并且因为 [[generative-ai|GenAI]] 是生成并共同建构信息，而非仅仅存储信息，他们把它框定为*参与式共享认知*，而非单纯的工具使用。
-- **以互动类型而非结果为单位。** [[cognitive-distribution-student-genai-interaction-2026|Willcox、Lane 与 Arikan（2026）]]从 53 份自主使用 ChatGPT 的日志中构建了**认知分布框架**：五种互动类型（扩展、外包、对齐、转化、解耦）与四种用户角色，使同一个学生可以在一次交换中卸责，在下一次交换中共同思考。
+- **教师同样经历 AI 主导型与互补型的分布。** 同样的效率—调节逻辑也适用于课程设计的[[teacher-role|教师]]一侧：[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等（2026）]]发现，新手教师把很大一部分教学设计认知负荷委托给 AI 系统（AI 主导型分布，大多接受回应），而有经验、精通 AI 的教师则达到互补型分布，其中教学专业能力与 AI 的计算支持相互增强。因为 [[generative-ai|GenAI]] 是生成并共同建构信息，而非仅仅存储信息，他们把它框定为*参与式共享认知*，而非单纯的工具使用。
+- **以互动类型而非结果为单位。** [[cognitive-distribution-student-genai-interaction-2026|Willcox、Lane 与 Arikan（2026）]]从 53 份[[self-directed-learning|自主]]使用 ChatGPT 的日志中构建了**认知分布框架**：五种互动类型（扩展、外包、对齐、转化、解耦）与四种用户角色，使同一个学生可以在一次交换中卸责，在下一次交换中共同思考。
+
+- **交互记忆为这种分布提供了可测量的机制。** 在美国与土耳其的 891 名大学生中，自我评价的思维能力与对 AI 伙伴的信心都没有直接预测[[critical-thinking|批判性思维]]。两者都经由积累的 GenAI 经验起作用，而这一经验只通过劳动的专业化与协调（b = 0.636）以及对输出的反思性转化（b = 0.367）才产生影响（[[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]）。这两个中介随后预测了批判性思维（b = 0.230 与 0.175），不再留下直接路径，因此人—AI 系统用来思考的是工作的安排，而不是使用的数量。
+
+- **延展认知是设计选择，而非工具属性。** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa 与 Duarte Arias（2026）]]主张，生成式 AI 默认是替代性的，因为它执行了认知任务，但同一个系统在批评草稿或提供学习者必须评价的反馈时，就变成了互补性的。他们的延展心智框架把制品及其使用作为分析单位，这是本页分布问题的规范性版本。
 
 ### 分布式认知及相关视角
 
@@ -55,6 +59,10 @@ ai_assist:
 - **[[embodied-learning|具身认知]]** 强调身体与感觉运动互动的作用，论证思维扎根于身体参与，而非抽象符号操作。
 - **[[cognitive-offloading]]** 是认知工作被移交给外部系统（包括 AI）的实际机制，也是与 DCog 描述性论述相对、充满风险的一面。
 - **延展认知 / 延展心智论题**（用于后人本主义研究中）主张外部制品可以是认知系统的*构成性*部分，而不只是工具——这是一个更强的论断：AI 是学习者心智本身的一部分。([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+
+### 谁的认知？分析单位问题
+
+[[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch（2026）]]比这一传统中的多数工作更用力地推进了分析单位问题。他的主张是，素养不是个人的占有物，而是与材料和机器一起被施行出来的，这使个体学习者成为错误的分析单位。以人为中心的素养框架因此无法登记基础设施或非人类的贡献，于是这个领域不断命名分布，却又把它化解回学习者身上。其公平维度是他的困难论证：反身性依赖亲身经验与权力关系，因此语言或写作实践离编码规范最远的学生承担最大的代价。该论证是理论性的，没有报告数据集，其设计取向仍未经检验的提议。
 
 ### 为何它对 AI 设计与评估重要
 
@@ -66,7 +74,7 @@ Fowlin 等（2026）把这种分配操作化为一个两阶段序列：先在没
 
 ## 常见误解
 
-- **"共享文档就意味着共享认知。"** 对 **97 名学习者**基于数量的画像在**先前知识与作者身份**上有差异，但在**主动角色提示或理解层提示**上没有差异。参与量测量的是接触程度，而不是认知工作的分布，因此协作工具的使用分析几乎说明不了谁在思考。
+- **"共享文档就意味着共享认知。"** 对 **97 名学习者**基于数量的画像在**先前知识与作者身份**上有差异，但在**主动角色提示或理解层提示**上没有差异。参与量测量的是接触程度，而不是认知工作的分布，因此协作工具的[[learning-analytics|使用分析]]几乎说明不了谁在思考。
 - **"所有人都同样地把工作外包给 AI。"** 新手教师把教学设计认知负荷的很大一部分**交给 AI 系统**，形成一种**以 AI 为主导的分配**，其中他们大体上接受 AI 的回应；而经验丰富、且了解 AI 的教师则以不同方式分配认知工作。专业知识体现在负荷被放在哪里，而不只体现在用了多少 AI。
 - **"AI 参与越多，支持越多。"** 以 AI 为主导的分配正是需要警惕的形态，因为人的认知工作份额在缩小，而产出量在上升。系统可以显得越来越能干，恰恰是在使用者做得越来越少的时候。
 
@@ -96,3 +104,8 @@ Fowlin 等（2026）把这种分配操作化为一个两阶段序列：先在没
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — 课程设计中的师—AI 互动：按经验与熟练度划分的 AI 主导型与互补型分布式认知（Choi 等，2026）
 - [[xu-genai-collaborative-space-2026]] — GenAI 作为行动者与协作空间：访问配置如何分配群体认知（Xu 等，2026）
 - [[cognitive-distribution-student-genai-interaction-2026]] — 认知分布框架：来自自主 ChatGPT 使用的五种互动类型与四种角色
+
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — 与 GenAI 的交互记忆：劳动分工与反思性转化中介批判性思维（Akgun & Toker 2026）
+- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — 为什么个体学习者是错误的分析单位
+- [[rivera-novoa-genai-extended-cognition-2026]] — 科学学习中的延展认知：GenAI 默认是替代性的，按设计才是互补性的（Rivera-Novoa 与 Duarte Arias 2026）
+

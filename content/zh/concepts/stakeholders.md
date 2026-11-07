@@ -1,14 +1,14 @@
 ---
 title: 利益相关者
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:28:35-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ ai_assist:
 
 **“让每个利益相关者群体发声就能化解冲突。”** 咨询不等于加权。本页自身的框架把设计问题放在如何让每一种关切获得**真正的权重，而不是让最大的声音获胜**，这是一个程序问题，即谁来决定、依据什么证据、有什么申诉途径，而不是沟通问题。
 
-**“利益相关者分析是早期阶段的练习。”** 这些张力会持续到运行阶段，因为各角色对同一系统的解读一直在变。面向学生的个性化层与面向教师的诚信看板，是同一份数据从两个位置看到的景象，任一方调整时冲突就会重现。
+**“利益相关者分析是早期阶段的练习。”** 这些张力会持续到运行阶段，因为各角色对同一系统的解读一直在变。面向学生的[[personalized-learning|个性化]]层与面向教师的诚信看板，是同一份数据从两个位置看到的景象，任一方调整时冲突就会重现。
 
 **“跨受众共享一种身份意味着一条信息可以服务所有人。”** 跨受众沟通要求把同一项决定翻译成不同的表述而不歪曲它，这比把一条信息改写成四个版本要做得多。
 

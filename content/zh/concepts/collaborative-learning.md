@@ -1,7 +1,7 @@
 ---
 title: 协作学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 促进者的认可是学生是否接受一个唱反调的智能体的最强观测杠杆：在十二支跨专业团队中，那些教师促进者影响了其 AI 整合的团队，把 AI 评为更属于团队的一部分（M = 3.08 对 2.64）、其反馈更有帮助（M = 3.44 对 2.93）（[[genai-counter-learner-groupthink-2025|Wiss 等（2025）]]）。
 
-**AI 中介的同伴协作**考察 AI 如何为人类对人类的协作[[scaffolding|搭脚手架]]。**[[golrang-propact-pair-programming-2026]]**与**[[agent-voice-accents-k12-group-learning]]**探索 AI 智能体特征如何影响小组动态。**[[ai-agents-peer-learning-discourse]]**记录[[agentic-ai|AI 智能体]]相互教学如何产生类似人类同伴学习的话语模式。覆盖全班的系统把这一点延伸到协作的*关系*维度：**[[breideband-community-builder-cobi-2026|CoBi]]**运用语音识别与语言理解来检测“鼓舞人心的”小组话语（相互尊重、公平、致力于共同体、推动思考前进），并返回非评价性的、班级层面的[[visualization|可视化]]，以支持共同体建设与协作技能，刻意不提供学生或小组层面的反馈，以保护[[privacy|隐私]]与[[trust|信任]]。
+**AI 中介的同伴协作**考察 AI 如何为人类对人类的协作[[scaffolding|搭脚手架]]。**[[golrang-propact-pair-programming-2026]]**与**[[agent-voice-accents-k12-group-learning]]**探索 AI 智能体特征如何影响小组动态。**[[ai-agents-peer-learning-discourse]]**记录[[agentic-ai|AI 智能体]]相互教学如何产生类似人类同伴学习的话语模式。覆盖全班的系统把这一点延伸到协作的*关系*维度：**[[breideband-community-builder-cobi-2026|CoBi]]**运用[[speech-and-voice-technologies|语音识别]]与语言理解来检测“鼓舞人心的”小组话语（相互尊重、公平、致力于共同体、推动思考前进），并返回非评价性的、班级层面的[[visualization|可视化]]，以支持共同体建设与协作技能，刻意不提供学生或小组层面的反馈，以保护[[privacy|隐私]]与[[trust|信任]]。
 
 **神经多样性视角下的协作**揭示关键的设计要求。**[[neurodivergent-computing-students|Zastudil 等]]**发现，神经多样性学生需要结构化的作业、角色被明确定义的小而稳定的团队，以及可预测的交互模式 —— 这些是 AI 协作工具必须容纳的要求。这使协作学习连接到[[inclusive-learning|包容性学习]]与[[neurodiversity|神经多样性]]。
 
@@ -58,7 +58,7 @@ ai_assist:
 
 实地层面的绘图从另一个方向得出同一结论：一项对 2010 至 2023 年 1,048 篇"AI 应用于在线学习"文献的 BERTopic 分析发现，以社会为导向的、关于 AI 支持的协作学习与共同体发展的工作从未成为主导主题，作者把这归因于一个以个体层面的[[learning-analytics|分析]]为中心的语料（[[chen-bertopic-ai-online-learning-research-topics-2026|Chen 等（2026）]]）。
 
-一项对 18 项研究的范围综述在同一小组作业上绘制了同样的权衡：GenAI 既支持了知识发展、想法生成与沟通效率，也降低了对同伴交互、协商与集体意义建构的需求；随机证据发现了更具创新性的 AI 建议，而参与者的总体创新性却没有显著增益（[[wei-perkins-genai-student-collaboration-scoping-2026|Wei 与 Perkins（2026）]]）。
+一项对 18 项研究的[[meta-analysis-systematic-review|范围综述]]在同一小组作业上绘制了同样的权衡：GenAI 既支持了知识发展、想法生成与沟通效率，也降低了对同伴交互、协商与集体意义建构的需求；随机证据发现了更具创新性的 AI 建议，而参与者的总体创新性却没有显著增益（[[wei-perkins-genai-student-collaboration-scoping-2026|Wei 与 Perkins（2026）]]）。
 
 **角色设计是协作知识建构的*质量*（而非数量）的杠杆。****[[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng 等（2026）]]**在 16 个小组的 58 名[[higher-ed|研究生]]与其 AI 伙伴之间轮换担任主持人、分析者与辩者角色，发现该结构把小组思维导图的*内容*提升了近一个完整 SOLO 层级（M = 3.65 到 4.59，z = 3.771，p < 0.001），而节点与分支数量保持平坦 —— 是组织而非覆盖 —— 代价是协作[[cognitive-offloading|认知负荷]]的温和上升（p = 0.023）。[[network-analysis|滞后序列分析]]增加了一个评价自我转移和一条冲突–辩护路径，这是工具单独所不能产生的，把[[human-ai-collaboration|人机协作]]定位为一个设计问题，而非工具问题。
 
@@ -66,8 +66,16 @@ ai_assist:
 
 **GenAI 作为小组协调的基础设施 —— 以及合作被抹平的风险。**[[chen-zou-genai-group-assessment-agency-2026|Chen 与 Zou（2026）]]**展示了十五个职前教师小组在一个计入成绩的小组汇报中如何处理 GenAI，其分化与“小组压力增加 AI 依赖”这一通常假设相反。五个小组为解决一个熟悉的协作问题而加剧了使用 —— 不知道同伴的部分写了什么 —— 把这项工作交给聊天机器人使其变得可理解，并对齐自己的部分，有一个小组把它的循环重构为*讨论 → 外化给 GenAI → 集体复核 → 再讨论*。作者把这读作不只是[[cognitive-offloading|认知外包]]，因为学生保留了判断、而工具吸收了协调，但警告更顺畅的工作流可能绕过分歧，而凝聚力传统上正是经由分歧建构的，这使关系性劳动成为一个开放问题。七个小组反而削减了 GenAI 使用，以保护在共享课堂中建构的[[situated-learning|情境化]]知识（“AI 只知道你打字那一刻”）、对同伴的[[bias-mitigation|公平]]、跨小组的原创性，以及小组已经持有的视角多样性。三个小组完全没变：任务被分割为独立部分时，个人层面精熟的 GenAI 实践从未变成集体能力，尽管连贯性是一项显性标准。这一模式提示，决定一个小组拿 AI 做什么的是小组规范，而非工具 —— 而集体采纳可能降低被感知的[[ai-misuse-learning-harm|误用风险]]，而非提高承诺。
 
+**小组的认识配置决定 AI 坐在哪里，而不是它被使用的频率。** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang 等人（2026）]] 在一场 60 分钟的 Go-Lab 能量形式探究中，给十四个职前教师小组配备了一个由学习者发起的[[metacognition|元认知]]聊天机器人；八个小组持有不同的前概念，六个小组在[[prior-knowledge|先备知识]]相当的情况下持有相似的前概念（U = 293.50，p = 0.515）。两类小组提出的问题数量相当，保留的 39 条提示以 18 对 21 分布，功能分布相互重叠。分歧出现在采纳上。
+
+过程挖掘把 AI 查询协商放在异质小组的一个整合枢纽上，有三条入径与两条出径，55.6% 的情况下从一句概念陈述到达；而在前概念相似的小组里，它位于一条"先查询、后处理"的线性路径上。异质小组对 AI 输出持续给出正面或中性的评价，而相似小组持续给出负面评价，作者部分将其归因于一个主动发言的智能体在小组已经达成一致之后才出现。39 条提示中有 12 条遇到的是简短的信息性追问与范围澄清，这成为他们主张设置一个请求分类层、把元认知提示与程序性提示区分开来的理由。
+
 **把协作作为教学的对象。**[[golrang-propact-pair-programming-2026|ProPACT]]是一个面向结对编程的、AI 驱动的[[intelligent-tutoring|自适应导学系统]]，它把*二人组*（而非个人）作为分析单元，实时建模联合视觉注意、联合心智努力与基于瞳孔的信号，以提前最多 30 秒预测协作失效并在其发生前干预。接受主动反馈的二人组取得了显著更高的调试成功率、更高效地完成任务，并在之后表现出协作调节的持续增益 —— 证据表明 AI 可以教会协作本身，而不只是支持一项任务。测量协作胜任力面临评估协作问题解决（CPS）技能的互补性挑战，后者传统上需要把模拟任务的过程数据人工编码为 CPS 行为 —— 耗时且难以规模化；对预训练语言模型的[[prompt-engineering|情境感知提示]]通过建模情境依赖并融合认知与社会能力，使这一编码自动化，性能优于强基线。
 **脚手架应匹配小组谈话的顺序，而非其频率。****[[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong、Bulathwela 与 Cukurova（2026）]]**挖掘了 65 名学生的三人组对话序列，发现一种顺序 —— 先转述、再提议、后质疑 —— 与改善相关，而逆序则不然；最大化的脚手架既提高了在任务行为，也增加了照本宣科与更少的问题解决指标。
+
+**小组谈话的结构分析需要一个可操作的"线索"定义。** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi 等人（2026）]] 发表了一份线索识别指南，用于在同步多方转写中识别话题线索。经三名受过训练的研究者反复社会性协商修订后，它在一份 200 条话语的验证转写上达到 Cohen's kappa 0.89；应用于 12 份转写（2,371 条话语）时，恢复出 315 棵线索树 —— 谁发起话题、谁回应谁、哪些贡献无人接续的结构骨架。
+
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou、Kang 与 Nguyen（2026）]] 为小组协作测量增加了一条非言语轴线：一份扎根于 Goodwin 与 Dillenbourg 框架的五类视频投入编码簿，由 GPT-4o 应用于 MLLM 转写。归纳得出的"边缘参与"构念 —— 个体专注同时保持对同伴的觉察与重新投入的准备 —— 在 10/10 个编码批次中都出现，尽管它在两种指导理论中都没有直接先例。
 
 **AI 作为中立中介 —— 以及它不再中立时的张力。**[[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]是一个基于 Discord 的[[llm|大语言模型]]探针，通过浮现隐含假设并把匿名化的综合返还给共享讨论，来中介跨学科学生团队中的学科边界。学生既把它视为认知支持、也视为关系性缓冲，但出现了一个核心张力：AI 被感知到的中立性是承重的，一旦 AI 从中立中介转向顾问或挑战者便会受到侵蚀 —— 这是[[pedagogical-agent|智能体]]在保全[[human-ai-collaboration|人机协作]]与[[trust-calibration|信任校准]]的同时中介协作的一个关键设计约束。
 
@@ -75,10 +83,14 @@ ai_assist:
 
 **面向 AI 教育的协作结构。**[[academic-league-of-ai-2026|AI 学术联盟]]通过民主的学生[[governance|治理]]与项目团队来组织 AI 教育，把[[active-learning|主动学习]]与[[project-based-learning|项目式学习]]嵌入一个协作的、与共同体相连的结构。
 
+**是什么让一个 AI 被认作同伴而不是导师。** [[lin-ai-peer-collaborative-mathematics-2026|Lin 等人（2026）]] 让七名领域专家与一个"大五"人格智能体协作，该智能体在求解一元二次方程时，其[[motivation|动机]]立场会在前瞻、表现与[[reflection|自我反思]]之间转换。参与者依据它的社会行为而非数学能力来评判它：不带评判的空间、试探性的推理、恰当的不完美，以及对学习者节奏的尊重，读起来像同伴；而盲目附和与过度指导则把它推回导师的位置。作者还报告了一个值得保留的张力 —— 像同伴与对同伴有用并不总是一致 —— 这正是同伴协作本身长期存在的风险：同伴可能相互确认彼此的错误。
+
 ### ICAP 框架：协作作为最高的参与模式
 
 协作学习占据[[icap-framework|ICAP 框架]]（互动式–建构式–主动式–被动式）的顶端：*互动式*模式 —— 通过对话共建意义、捍卫一个立场，或协同解决 —— 在 Chi 的分类中产生最深层的知识改变。这使 ICAP 既是协作教学法的理据，也是对 AI 的设计约束。一个中介讨论的 AI（如[[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]或[[golrang-propact-pair-programming-2026|ProPACT]]所做）恰恰在维持*互动式*参与时才有价值；一个替小组作答或抹平认知冲突的 AI，可以把协作降格为仅仅*主动式*或*被动式*。基于 ICAP 的标注（参见[[icap-cognitive-engagement-llm-agents|协作对话的扩展 ICAP 测量]]）与促进时机研究，都把互动话语的质量视为关心的结果，把协作学习奠基于[[student-engagement|学生参与]]与 ICAP 层级之上。([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
 - **GenAI 可以坐主持人位，而不是辅导位。** Chen 等（2026）对 64 名本科生做了为期 16 周的准实验，两个条件都配有一个 AI 智能体与一个结构化平台，唯一不同的是调节脚手架：一个自适应 SSRL 智能体对静态的数字工作表（[[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen 等，2026]]）。自适应组的参与平等性更高，但参与强度没有更高，这是重新分配而不是更多发言的特征。
+
+- **互动式并不自动更深。** 在一项为期八周、有 87 名本科生参与的准实验中，使用 GenAI 多智能体系统的二人组产出了最好的设计项目（M = 89.64，而在同一系统上独自工作为 86.45）。批判性思维意识的增益却方向相反：独自工作最大（M = 0.41），同伴协作为近乎持平（M = 0.06），配对的 AI 条件则略为负值（M = -0.04）（[[bjet-many-hands-make-light-work-2026|Chu、Dai 与 Zhai（2026）]]）。配置改变的是哪种思维被激活，而不是被激活了多少。
 
 ## 实践指引
 
@@ -140,6 +152,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[lin-ai-peer-collaborative-mathematics-2026]] — 什么让一个 LLM 智能体读起来像同伴：安全感、试探性推理、恰当的不完美
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题式与项目式学习作为生成式 AI 支持教育的有前景框架：来自一项系统综述与三层元分析的新证据
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 内隐人机协作中涌现的学习者能动性：支持型对唱反调型人设
@@ -167,3 +180,6 @@ ai_assist:
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 作为学生小组中的协调基础设施：加剧的、克制的与未实施的使用
 - [[ethics-training-agents-group-ethics-discussion-2026]] — 伦理训练智能体：用角色扮演与讨论促进基于小组的伦理教育，以进行伦理反思与探索
 - [[chen-bertopic-ai-online-learning-research-topics-2026]] — 在 1,048 篇文献中，以社会为导向的 AI 协作工作从未成为主导主题
+
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 小组的认识配置决定了 AI 的位置：在异质前概念小组中是整合枢纽，在相似小组中是线性的先查询后处理路径，而先备知识相当（Wang 等，2026）
+- [[bjet-many-hands-make-light-work-2026]] — 与多智能体系统配对的二人组产出了最好的项目，而独自工作产生了最大的批判性思维增益

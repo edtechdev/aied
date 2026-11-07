@@ -1,7 +1,7 @@
 ---
 title: 焦虑与压力
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -55,26 +55,26 @@ AI 引发的压力中证据最充分、研究最透彻的来源是[[remote-proct
 除了监考之外，AI 的使用本身也制造焦虑——担心被取代、担心自己的作品是否"真的是自己的"、担心能力。关键在于，这种焦虑**并非纯粹负面**：
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim（2026）]]发现**AI 焦虑可以具有生产性**：更高的 AI 焦虑与核查和修改行为正相关（β=.24, p<.01），而评价能力能预测积极的[[student-engagement|投入]]（β=.46, p<.001）。Kim 划分的四种调节类型（不加批判的依赖 18.7%、选择性整合 34.6%、评价性转化 31.8%、策略性拒绝 14.9%）表明，由焦虑驱动的审视可以把学生转化为更审慎、更自我调节的[[generative-ai|生成式 AI]]使用者，而不是被动的采用者。这把 AI 焦虑从障碍重新框定为一种潜在有用的信号，它鼓励更仔细的审视。
 
-这一重新框定在口语层面有一个边界：在 708 名英语学习者中，口语焦虑与开口意愿的关系在口语自我效能感低时为 −0.371，在高时为 +0.137，只有 55 名被试（7.8%）高于上方的 Johnson–Neyman 阈值（[[ai-speaking-practice-communicative-readiness-2026|Wang & Li（2026）]]）。
+这一重新框定在口语层面有一个边界：在 708 名[[multilingual-learning|英语学习者]]中，口语焦虑与开口意愿的关系在口语自我效能感低时为 −0.371，在高时为 +0.137，只有 55 名被试（7.8%）高于上方的 Johnson–Neyman 阈值（[[ai-speaking-practice-communicative-readiness-2026|Wang & Li（2026）]]）。
 - [[acceptance-ai-english-tools-2026|接纳研究]]表明焦虑塑造学习者是否采用 AI 工具，而[[teacher-education-ai-literacy-sdt-2026|教师教育研究]]把 AI 焦虑与动机和[[self-regulated-learning|自我调节]]联系起来。
 - **披露困境。** 在一项 409 名本科生的调查中，对教师的舒适感与被感知到的同伴披露——而不是道德脱离——是披露 GenAI 使用的最强预测因子，而不披露被读作对同伴规范和低解读信任的策略性适应，而非疏忽（[[qu-wang-disclose-or-not-genai-2026|Qu & Wang（2026）]]）。
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]]研究学生在 AI 中介的[[assessment|表现性评价]]期间的焦虑，显示评价焦虑持续存在，必须为此设计。
 - **道德恐慌与教育者焦虑：**[[moral-panic-genai-classroom|道德恐慌框架]]表明教师对 GenAI 的焦虑与此前的恐慌（计算器、搜索引擎）如出一辙——一种塑造课堂政策的[[teacher-role|教师]]侧压力反应。
 - **教师的"脆弱状态"与"卡住"感。**[[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli 等人（2026）]]直接捕捉到了 AI 焦虑的*教育者*一面：24 位瑞典大学教师把 GAI 的出现描述为令人震惊和难以承受，并报告了一种**脆弱状态**——由对 GAI 能力了解有限、接触有限、以及害怕"落在学生后面"所驱动的低信心、不安全感与不适。教师们感到"卡"在乌托邦与反乌托邦两种叙事之间，背负着被放大的对[[bias-mitigation|公平]]与质量的责任，并担心在评估可能由 AI（协同）产出的学生作业时显得无能。这把教师的 AI 焦虑框定为对角色重构的真实情绪与专业反应——而不只是抗拒——并主张支持教师的信心与幸福感，而不只是工具培训。
 
-- **开发者版本：冒名顶替感与伦理不适。** 两所南非高校的教学开发者被期待体现机构对工具的十足信心，而这些工具的含义他们自己都还在摸索之中（"I feel like an impostor..."），同时还要在推广自己怀疑是否恰当的技术——论文把这种情感劳动视为构成性的，而非偶然的（[[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]）。
+- **开发者版本：冒名顶替感与伦理不适。** 两所南非高校的[[educational-development|教学开发者]]被期待体现机构对工具的十足信心，而这些工具的含义他们自己都还在摸索之中（"I feel like an impostor..."），同时还要在推广自己怀疑是否恰当的技术——论文把这种情感劳动视为构成性的，而非偶然的（[[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]）。
 - **预期性内疚：先于经历而来的痛苦。**[[vassallo-ai-guilt-complex-faculty-2026|Vassallo（2026）]]调查了马耳他一所高校的教职员工（109 名受访者），发现对 AI 的内疚附着在对越界的恐惧之上，而非附着于其实际经历：AI 内疚指数（α = 0.88）最强的赞同来自担心 AI 使用会损害自己的可信度（34.9%）以及感觉自己像在[[academic-integrity|作弊]]（25.7%），而使用*之后*的悔恨排在最末（9.2%）。悖论在于，少数未使用者的内疚（M = 3.25）高于任何一组使用者（M = 2.32）——因为回避者从未检验自己的恐惧，回避可以保存它本想阻止的痛苦。早期职业学者的内疚最高（M = 2.71），资深者最低（M = 2.03），且它与隐瞒而非诚实相关，与因不安而限制 AI 使用相关（r = .62）、与回避向同事披露相关（r = .50），但与正式的[[ai-use-disclosure|披露]]不相关（r = .08）。
 - **对专业价值丧失的恐惧，以及穿越它的一条路。**[[chick-faculty-development-ethical-ai-2026|Chick, Morello & Staffey（2026）]]记录了一种存在论层面而非技术层面的教育者焦虑。十位教师与职员进入一个为期六周的研修项目，把学术诚信列为首要关切（80%）、[[cognitive-offloading|过度依赖]]次之（70%），并在早期把生成式 AI 描述为"作弊机器"、"威胁"或"去人性化的力量"；一位数学教授把身份威胁说得直截了当——"I spent years developing expertise in my field. Now a machine can solve problems faster and explain solutions better than I can. What's my value anymore?"结构化、安全的实验把用词推向"好奇的助手"和"有创造力的伙伴"，并留下 90% 的人报告正面看法；作者明确指出，他们所观察到的抗拒"并非源于技术恐惧症或顽固的传统主义，而是源于对教育质量、公平和人类能动性的正当关切"——这是对把教育者焦虑读作单纯道德恐慌的直接反驳。
 
-- **评价定向的聊天机器人支持改变的是享受与无聊，而非无望感或自我效能感。** 在一项 144 名学生的实验中，比较了普通 ChatGPT、一个 SRL 支架智能体与一个情感支持型智能体：享受感上升（SRL 支架 d = 0.53，情感支持 d = 0.75），无聊感下降（d = -0.35、-0.67），且只在两个带支架的条件下发生。普通 ChatGPT 在两种情绪上都没有显著变化。无望感在包括普通 ChatGPT 在内的每个条件下都下降（d = -0.73 到 -1.02）。自我效能感（η2 = 0.001）与对聊天机器人的信任（η2 = 0.020）都不随条件而异，因此情绪设计移动了两种情绪，却让理论所预测的那项动机信念未被触及（[[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]）。
+- **评价定向的[[conversational-ai|聊天机器人]]支持改变的是享受与无聊，而非无望感或自我效能感。** 在一项 144 名学生的实验中，比较了普通 ChatGPT、一个 SRL [[scaffolding|支架]]智能体与一个情感支持型智能体：享受感上升（SRL 支架 d = 0.53，情感支持 d = 0.75），无聊感下降（d = -0.35、-0.67），且只在两个带支架的条件下发生。普通 ChatGPT 在两种情绪上都没有显著变化。无望感在包括普通 ChatGPT 在内的每个条件下都下降（d = -0.73 到 -1.02）。自我效能感（η2 = 0.001）与对聊天机器人的信任（η2 = 0.020）都不随条件而异，因此情绪设计移动了两种情绪，却让理论所预测的那项动机信念未被触及（[[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]）。
 
 **机构支持是通过评价而非安慰来作用于焦虑的。** 一项针对 547 名中国本科生的两波调查（[[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]）追溯了所感知的学校支持如何通过控制—价值评价——学习者对自身能力的感知（控制）和对工具有用性的感知（价值）——与 AI 学习焦虑关联。支持直接预测了更低的焦虑，但其关联的大部分流经评价而非绕开评价：经由 AI 学习自我效能感、经由[[technology-acceptance-model|感知有用性]]，以及一条自我效能感先滋养有用性、再进而降低焦虑的序列路径。一阶模型显示，支持的各个*维度*并非独立地起作用——只有信息支持保留了一条通往自我效能感的显著路径——而人工神经网络交叉验证把自我效能感与感知有用性列为焦虑最稳定的预测因子。其含义是：针对焦虑的机构鼓励只有改变了学生关于自身能力和工具有用性的信念，才会落地；泛泛的安慰不会改变生成焦虑的那些评价。
 
 AI 也可以通过推进学习目标——而非通过安慰——来缓解学业焦虑：在一项 721 名医学学生的调查和一项 398 人参与的实验中，更高的感知助手能力预测了更大的学习目标进展，后者又预测了更低的学业焦虑和更好的心理健康（[[perceived-ai-intelligence-medical-students-mental-health-2026|Chen 等人（2026）]]）。
 
-不过，能力并非完全的缓冲：在 551 名中国大一学生中，自报的 AI 使用压力削弱了 AI 熟练度与心理适应之间的联系，AI 熟练度到适应的斜率从低压力下的 0.42 降到高压力下的 0.20（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin（2026）]]）。
+不过，能力并非完全的缓冲：在 551 名中国大一学生中，[[self-report-measures|自报]]的 AI 使用压力削弱了 AI 熟练度与心理适应之间的联系，AI 熟练度到适应的斜率从低压力下的 0.42 降到高压力下的 0.20（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin（2026）]]）。
 
-**从能力到焦虑的路径经由伦理，而且它会放大。** 在一所没有 AI 素养课程、以法学为主的 584 名中国本科生中，AI 能力并未直接降低 AI 焦虑（β = 0.056, p = .362）。它提高了 AI 伦理意识（β = 0.644, p < .001），后者又反过来提高了焦虑（β = 0.439, p < .001）——只经由一条作者原本假设为保护性的路径的纯间接中介（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。仅有 22.8% 的焦虑方差被解释。对同样构念的 ANN 把透明度列为学习焦虑和被取代焦虑两者的首位预测因子。
+**从能力到焦虑的路径经由伦理，而且它会放大。** 在一所没有 AI 素养[[curriculum-design|课程]]、以法学为主的 584 名中国本科生中，AI 能力并未直接降低 AI 焦虑（β = 0.056, p = .362）。它提高了 AI 伦理意识（β = 0.644, p < .001），后者又反过来提高了焦虑（β = 0.439, p < .001）——只经由一条作者原本假设为保护性的路径的纯间接中介（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。仅有 22.8% 的焦虑方差被解释。对同样构念的 ANN 把透明度列为学习焦虑和被取代焦虑两者的首位预测因子。
 **教师的预测作为 AI 焦虑的一种分布式形态。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie（2026）]]对 1,057 位美国高校教师的调查，把教育者焦虑登记为预期而非症状：95% 预期生成式 AI 会增加学生对工具的过度依赖，94% 预期学术诚信问题增多，90% 预期[[critical-thinking|批判性思维]]削弱，83% 预期注意力持续时间缩短，81% 预期[[equity-in-ai-education|数字不平等]]扩大，而 39% 相信这些工具会削弱教师的角色，47% 担心其学科长期就业影响为负。同一些受访者并非一律悲观——61% 仍预期学习得到改善和定制——但 73% 亲身处理过一起涉及学生生成式 AI 使用的学术诚信案件，这正是预测转化为工作量的地方。该报告明确声明为非科学样本、不具推广性，因此它记录的是行业所表达的恐惧，而非被测量的效应。
 
 这一方向把 AI 焦虑连接到[[motivation]]、[[ai-literacy]]、[[student-experience]]和[[self-regulated-learning]]。

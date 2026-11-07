@@ -1,7 +1,7 @@
 ---
 title: 教学法与教学策略
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,16 @@ ai_assist:
 - **AI 作为教学法智能体。** AI 工具承载着教学法——一个建立在[[socratic-method|苏格拉底式提问]]之上的[[intelligent-tutoring|导学系统]]促使学习者推理，而一个生成答案的聊天机器人可能默认直接供给（关于教学法立场为何重要，见[[reducing-ai-misuse]]）。[[agentic-ai|智能体式 AI]]文献表明，把智能体锚定在教学设计理论之上，胜过原始的[[prompt-engineering|提示工程]]。[[genai-didactic-pedagogical-mediator-2026|Moganadas 等（2026）]]把这一角色正式化：他们不采用把 GenAI 当作外部补充或威胁的二元"教师—[[student-modeling|学生]]模型"，而提出嵌套的**教师—学生—GenAI 三元模型**，其中 GenAI 作为有边界的*教学论—教学法中介*，运作于由机构与利益相关方治理的共享教学中介空间之内——产生五个可研究的命题，涵盖学习中介、教师角色转变、AI 素养与学习者能动性、AI 透明的[[process-oriented-assessment|过程取向评估]]以及机构[[governance]]。
 - **教学法决定 AI 的效应。** 一个反复出现的发现是，AI *如何*被使用，与它 *是否*被使用同样重要。[[instructional-guidance-genai-learning|教学引导研究]]与[[generative-ai-guardrails-harm-learning|带护栏导学系统的随机对照试验]]表明，同一个 AI 会因教学法外壳（提示 vs. 答案、结构化 vs. 开放使用）而有害或有益。
 - **教学知识重于技术知识。** 在 46 名教师与 2,832 名学生中，教师的教学性 AI 知识预测了学生对"AI 向善"的认知与学习 AI 的意愿，而单纯的技术知识并不充分——两者都未能预测学生的 AI 知识（[[pedagogy-first-technology-second-teacher-knowledge-2026|Shen 等（2026）]]）。
-- **AI 最明确的贡献是卸载行政工作。** 一项对 28 项研究的 PRISMA 综述发现，AI 最常增强的是教学规划与评估设计，其被报告得最多的收益是评分、反馈与进度监控的自动化（18 项研究，64.2%）——而教学法对齐是被引用最多的挑战（14 项）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar 与 Ilgaz（2026）]]）。
-**自动化与学习直接互相消长。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]把六项教学法原则——先备知识激活、[[collaborative-learning]]、[[problem-based-learning]]、[[formative-assessment]]、[[scaffolding]]、[[metacognition]]——逐一走过，考察主动的智能体式能动性对每一项做了什么，论证智能体自动化得越多，学习者做的认知工作就越少，除非把摩擦、动态渐退与人的监督设计进去。
+- **AI 最明确的贡献是卸载行政工作。** 一项对 28 项研究的 PRISMA 综述发现，AI 最常增强的是教学规划与[[assessment|评估设计]]，其被报告得最多的收益是评分、反馈与进度监控的自动化（18 项研究，64.2%）——而教学法对齐是被引用最多的挑战（14 项）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar 与 Ilgaz（2026）]]）。
+**自动化与学习直接互相消长。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]把六项教学法原则——[[prior-knowledge|先备知识]]激活、[[collaborative-learning]]、[[problem-based-learning]]、[[formative-assessment]]、[[scaffolding]]、[[metacognition]]——逐一走过，考察主动的智能体式能动性对每一项做了什么，论证智能体自动化得越多，学习者做的认知工作就越少，除非把摩擦、动态渐退与[[human-in-the-loop-ai|人的监督]]设计进去。
+
+- **反思是一种 AI 既促成又威胁的教学法。** 结构化提示、日志与[[eportfolio|作品集]]评注是经验转化为学习的机制，[[reflection]] 页面承载着相关证据。一项预注册实验发现，把反馈时间加倍的提示把练习量削减了 40%，却没有提升每题增益。对一位 AI 反思伙伴的编码审计发现，它违反了每一条行为指令，却没有留下可见痕迹。把提示设计在已完成的一次尝试之上，并要求留下轨迹，而不是一份打磨过的条目。
+
 - **面向 AI 素养的教学策略。** 教学生*用好 AI* 本身是一项教学法任务——[[ai-literacy]]与[[reducing-ai-misuse]]研究发展出的策略（先想/AI 次之/再反思、AI 声明、校准训练）就属于这个总括之下。
 
-- **AI 素养教学在知识上推进最快。** 一项对 59 项研究（172 个效应量）的三层次元分析发现，以知识为中心的干预（g ≈ .97）明显胜过以技能（≈ .67）、态度（≈ .68）或[[ethics]]（≈ .64）为目标的干预，因此把概念教学与持续练习配对，针对的是那些抗拒教学的产出（[[liu-ai-literacy-interventions-meta-analysis-2026|Liu 等（2026）]]）。
+- **隐喻与类比作为教学技术。** [[metaphors-and-analogies]] 汇集了关于类比如何解释 AI、在哪里失效，以及学生如何把它们作为[[critical-thinking|批判性思维]]的一种形式来审查的证据。
+
+- **AI 素养教学在知识上推进最快。** 一项对 59 项研究（172 个效应量）的三层次[[meta-analysis-systematic-review|元分析]]发现，以知识为中心的干预（g ≈ .97）明显胜过以技能（≈ .67）、态度（≈ .68）或[[ethics]]（≈ .64）为目标的干预，因此把概念教学与持续练习配对，针对的是那些抗拒教学的产出（[[liu-ai-literacy-interventions-meta-analysis-2026|Liu 等（2026）]]）。
 - **教学法在教师实践之中。** [[teacher-role]]与[[teacher-ai-competency]]考察教师如何在其既有教学法 repertoire 之内采纳 AI，而[[llm-training-and-fine-tuning]] / [[pedagogical-agent]]研究那些被训练来遵循教学法原则的 AI 工具。
 
 ## 与学习理论的关系
@@ -105,9 +110,15 @@ ai_assist:
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+
+- [[metaphors-and-analogies]] — 隐喻与类比作为教学技术
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+
+- [[case-based-learning]] — 案例方法与对比案例作为教学技术
+
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

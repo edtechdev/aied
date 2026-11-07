@@ -1,7 +1,7 @@
 ---
 title: "教育层级"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -92,7 +92,7 @@ ai_assist:
 
 **“所教的科目比教育层级更重要。”** 学龄期与大学期之间的断裂更重要。跨越这条边界改变的不是内容，而是自我调节的能力、评估契约的性质，以及谁为学习负责。这就是为什么一件帮助研究生研讨课的工具，即便在可比的内容上，也可能损害二年级的一堂课。
 
-**“自适应辅导工具对每个层级都同样有帮助。”** 那个把变量单独分离出来的比较很有启发：同一套二年级数学辅导工具的两个版本，内容、界面、反馈与语音提示完全相同，**只在任务选择是否遵循贝叶斯 [[knowledge-tracing|知识追踪]] 模型上不同**。自适应任务选择是一种对层级敏感的干预，其收益取决于该层级的学习者能否对适应性采取行动。
+**“[[intelligent-tutoring|自适应辅导工具]]对每个层级都同样有帮助。”** 那个把变量单独分离出来的比较很有启发：同一套二年级数学辅导工具的两个版本，内容、界面、反馈与语音提示完全相同，**只在任务选择是否遵循贝叶斯 [[knowledge-tracing|知识追踪]] 模型上不同**。自适应任务选择是一种对层级敏感的干预，其收益取决于该层级的学习者能否对适应性采取行动。
 
 **“集中在高等教育里的证据可以向下推广。”** 它不能，而文献的分布是一个警告而不是一种便利。证据在哪里密集、在哪里稀薄，是研究经济的属性，而不是 AI 在哪里最常被使用的属性，因此一项从大学样本得出的关于 K-12 的主张，是跨越那条最要紧的边界的推断。
 

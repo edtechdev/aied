@@ -1,7 +1,7 @@
 ---
 title: 人在回路
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -82,9 +82,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 人在回路设计因若干相互汇合的原因，已成为本知识库 [[agentic-ai|智能体式 AI]] 与 [[ai-literacy|负责任 AI 使用]] 讨论的核心：
 - **教学性安全。** [[pedagogical-safety|教学性安全]] 要求拥有真实教学权威的 AI 保留人类监督，使错误、偏见或有害输出在到达学习者之前被抓住。这对 [[agentic-ai|主动追求目标]] 的自主智能体尤其重要。
 - **监督在实践中罕见，而不只是在理论上。** [[agentic-ai-education-scoping-review|Wang 等人（2026）]] 发现，在 474 个教育智能体式 AI 系统中，稳健的内嵌治理与人在回路监督极少出现，即使单任务自主性与多智能体协作在增长 —— 设计原则与部署实践之间的落差。
-- **关键问题是如何让回路可操作，而非人类参与多少。** 学习科学的观点认为，围绕数据捕捉、计算性解释与可能回应来组织学习，会使教学行动取决于系统能检测并作用于什么，且警示与参与分类在任何教师或学生行动之前就解释着学习者（[[in-the-loop-educational-ai-learning-sciences-2026|Pande（2026）]]）。
+- **关键问题是如何让回路可操作，而非人类参与多少。** [[learning-sciences|学习科学]]的观点认为，围绕数据捕捉、计算性解释与可能回应来组织学习，会使教学行动取决于系统能检测并作用于什么，且警示与参与分类在任何教师或学生行动之前就解释着学习者（[[in-the-loop-educational-ai-learning-sciences-2026|Pande（2026）]]）。
 - **效度与质量控制。** HITL 是 [[automated-assessment|自动化评估]] 与生成的质量闸门 —— 人在自动评分不可靠之处裁决（见 [[llms-do-not-grade-essays-like-humans-2026|大语言模型作文评分]] [[research-methods-aied|研究]]）并验证生成的题目。一项对 42 项评分与反馈研究（2023—2025）的 PRISMA 引导 [[meta-analysis-systematic-review|系统综述]] 明确得出同样结论：大语言模型在简短、结构良好的任务上与人类评分者相当，但无法在复杂、开放式或主观的工作上完全取代人类判断，而最高效的评分效果在把 AI 驱动评分与教师监督和验证结合起来的混合系统中达成（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]] 具体展示了边界落于何处：ChatGPT-5 在客观药学考试题上与教师相当（CCC 0.935–1.000），但在简答与论述题上即便给了量规也并不可靠，使作者建议对复杂、主观或高风险的评估采用含人工审查的混合评分。
 - 重复并不构成那种监督的替代：在五个不同日子对完全相同的提交重新评分，同一模型只在 Krippendorff's alpha 0.625 上复现自身结果，变异集中于中间分数段，A 与 F 在五次数目中缺席（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。
+
+- **被重新框定为支持性的分析伙伴。** [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone 等（2026）]]把人在回路 AI 从一道审批闸门重新框定为支持性的分析伙伴，其误分类与边界案例成为人类意义协商的输入，而不是需要过滤的缺陷。在他们对 18,883 个已标注样本的句级编码中，模型对构念存在性的总体检出准确率为 81.94%，但从不评判质量或相关性，因此有争议的案例被送回人类进行编码手册的精炼。
+
 - **学习者能动性。** 把人留在回路中保住 [[agency|能动性]] 并支持 [[self-regulated-learning|自我调节学习]]，对抗完全自主辅助可能诱发的 [[cognitive-offloading|过度依赖]]。
 
 - **学生自己把人放在高风险的一端。** 在 93 名本科生中，81.7% 对占成绩 40% 的期末论文偏好人工评分，93 人中有 75 人希望 AI 辅助而非取代评分者，69 人希望 AI 评分总由人工审查（[[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli 等人（2026）]]）。
@@ -107,7 +110,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - **按决策后果而非模型不确定性路由（2026）。** [[human-in-the-loop-ai-scoring-national-assessment-2026|一项 2026 年的操作性研究]] 对乌拉圭 Acredita EB 国家认证考试（两版，各约 5,000—6,000 名考生）的研究展示了当人在回路设计由决策后果而非模型不确定性驱动时的样子。一个 GPT-5 评分器在 15 个量规项目上与专家评分者一致的占 60—80%，但系统性偏保守，在 15.3%（2024）与 16.5%（2025）的通过/不通过比较中产生“人通过而 AI 不通过”的差异，且几乎从不反向。因此该框架对 AI 通过的结论照单全收，并把每一个可能改变考生结果的 AI 不通过结论路由给专家评审 —— 在此之前先跳过那些通过/不通过不取决于写作部分的考生 —— 把需要全量人工评分的回应削减至少 50%。另一项 2026 年的设计从另一侧划定边界：在一个多智能体 AI 标准化病人平台（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等人]]）中，人类监督只为 AI 被判定不适合决定之事保留，由教师与人类标准化病人提供情境解释、补救与准备度判断，且系统被明确禁止自主判定 [[medical-education|临床]] 能力。
 
 - **研究工具：人验证的是标签，而不是分数。**学习科学与计算机科学方向的编码者在一个同步时间线上评判 LLM 生成的行为片段，κ = 0.703，他们的分歧成为该研究自身的错误分析（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
-- **模型做摘要，研究者做标注。**一项协作建模研究用 GPT-3.5-Turbo 为 394 个话语片段各写一份任务情境感知的摘要，由研究者逐份验证并编码到 κ ≥ 0.7，再在这些标签上训练检测器，因此模型本身从不作出判断。监督随后向外移动：四位经验丰富的教师评审了一个已标注片段，其中三位识别出了这些行为，另一位则主张同一片段上的两个标签模糊了学生正在做的事，作者记录而未解决这一可用性异议（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等人，2026]]）。
+- **模型做摘要，研究者做标注。**一项协作建模研究用 GPT-3.5-Turbo 为 394 个话语片段各写一份任务情境感知的摘要，由研究者逐份验证并编码到 κ ≥ 0.7，再在这些标签上训练检测器，因此模型本身从不作出判断。监督随后向外移动：四位经验丰富的教师评审了一个已标注片段，其中三位识别出了这些行为，另一位则主张同一片段上的两个标签模糊了学生正在做的事，作者记录而未解决这一[[usability-research|可用性]]异议（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等人，2026]]）。
+
+- **计算机在分析的哪个阶段领跑，才是设计选择。** [[hur-computational-analysis-teacher-group-interactions-2026|Hur 等（2026）]]区分计算机主导的探索与人类主导的解释，论证由谁设定问题、决定哪些结果算数，是人在回路的选择而非顺带的默认。在他们的课堂视频案例中，前两个阶段由计算机主导且没有正式的确认环节，而 LLM 转写指标与人类评分者在显式提问上一致到 κ = .778、在讨论数学上为 .722，仅在"需要帮助"上为 .562、"可能困惑"上为 .531。
+
+- **成本—质量替代：自动生成的对话线程与人类线程相当，但留下有针对性的复核残余。** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi 等（2026）]]发现，LLM 生成的对话线程对人类的 Cohen's kappa 为 0.6395，而人类线程为 0.6239（滑动窗口条件），成本低于 1 美元对每份转写约 25 美元，因此自动化达到的是人类可靠性目标，而不是一个不可企及的上限。人的边际价值集中在模型几乎失败的那些线程类型——话题转换（kappa 0.2567）与自我延续（0.4309）——作者据此建议在自动生成线程之外配合有针对性的人工纠正。
+
 - **把 HITL 当作一门学科的整体架构，而非单条工作流。**[[zhai-science-literacy-generative-ai-coherence-2026|Zhai 等人（2026）]] 给出四个相互咬合的层级——数据基础设施、模型开发、教学接口与人类治理——由三条原则维系：人的监督与能动性、协同适应智能，以及情境响应性。
 
 ## 综合
@@ -115,9 +123,11 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 人在回路设计不只是一种安全措施 —— 它是一种 **资源分配策略**。前沿问题不是 *是否* 纳入人，而是其判断在管线中何处具有最高边际价值。最有效的 HITL 系统把稀缺的人类专长集中于自动化系统最弱之处（干扰项设计、解释性反馈、边缘案例裁决、伦理判断），并自动化其余 —— 在规模化生产的同时保住质量、安全与信任。
 - **人类监督在 AI 辅助工作中持续存在。** [[scaffolding-systematic-reviews-2026|系统综述研究]] 发现，AI 自动化工具减轻了程序性负担（如筛选），但解释性决策仍需大量人类监督；[[kim-ai-andragogy-2026|成人教育学研究]] 把人在回路（共享心智模型、共创）作为核心 AI 设计原则。
 - **机构规模的人在回路。** Qin（2026）描述了岭南大学如何发展一种把伦理推理、批判判断与社会责任置于前台、同时使 [[generative-ai|生成式 AI]] 访问民主化的人在回路教育模式。该模式把人类定位为判断与价值的所在，即使 AI 被嵌入 [[curriculum-design|课程]] 的每个角落 —— 这是人在回路原则在 [[higher-ed|高等教育]] 中的具体 [[governance|机构]] 实例化。
-- **学习者作为自己辅导的在回路之人。** [[ko-hughes-vsd-student-centered-its-2026|价值敏感设计]] 与社区学院学生一起为智能辅导系统（ITS）产出了一整套面向学习者的 HITL 特性（对重新评估与评审的控制、个性化目标/节奏、供复习的书签、对掌握度的信心确认，以及一个 AI 辅助参与层级控件），把学生定位为辅导回路的主动控制者，而非自适应决策的被动消费者。该研究还发现教师意见分歧：这类学习者控制是否会损害系统引导学习路径的完整性 —— 这是关于人类（学习者 对 教师）判断在何处增加最多价值的更广泛资源分配问题的一个实例。
+- **学习者作为自己辅导的在回路之人。** [[ko-hughes-vsd-student-centered-its-2026|价值敏感设计]] 与社区学院学生一起为智能辅导系统（ITS）产出了一整套面向学习者的 HITL 特性（对重新评估与评审的控制、个性化目标/节奏、供复习的书签、对掌握度的信心确认，以及一个 AI 辅助参与层级控件），把学生定位为辅导回路的主动控制者，而非自适应决策的被动消费者。该研究还发现教师意见分歧：这类学习者控制是否会损害系统引导[[recommender-systems-and-learning-paths|学习路径]]的完整性 —— 这是关于人类（学习者 对 教师）判断在何处增加最多价值的更广泛资源分配问题的一个实例。
 - **从 AI 升级到专家是一个人在回路的动作。** SCAN 框架按学习者距离把任务分配给四种生成式 AI 模式，并把一个正确分配的 AI 任务内的被动 [[student-engagement|参与]] 读作一个错配技能的信号，据此把学习者从 AI 转向专家协助，并以人作为认识论审计者（[[ai-teammate-task-distribution-medical-training-2026|Tsim 等人（2026）]]）。
 - **对 AI 采用建议的监督。** 由于持怀疑态度的用户所咨询的 [[conversational-ai|对话式 AI]] 系统可能倾向于鼓励采用，人类监督与独立评估不可或缺。一项显示多数前沿模型把持怀疑的农村 [[k-12|K-12]] 员工引向 [[student-engagement|参与]] 的审计，凸显了对透明、可审计的 AI 建议的需求，而非不加批判的依赖。
+
+这道保障有多强，取决于[[automation-bias|自动化偏见]]。如果人顺从输出，那么仅仅形式上给一个接受或拒绝的机会，并没有把人放进判断的生产过程之中；而本知识库尚未做过能显示这种情况有多频繁的盲法比较。
 
 ## 常见误解
 
@@ -127,6 +137,7 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 
 ## 关联概念
 - [[pedagogical-patterns]] — 人类评审在受测序列中的位置，以及从未被单独测过的东西
+- [[automation-bias]] — 决定回路中的人是否真的介入的东西
 - [[guardrails]]
 - [[formative-assessment]]
 - [[automated-assessment]]

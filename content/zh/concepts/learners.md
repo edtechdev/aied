@@ -1,7 +1,7 @@
 ---
 title: 学习者
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:28:35-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ ai_assist:
 
 ## 常见误解
 
-**“学习者与学生是同一群人。”** 它们在有用的意义上并不能互换：*学生* 命名一种制度角色，*学习者* 命名一种活动，一个人可以是其中之一而不是另一个。[[professional-training|职场培训]] 中的一名雇员是学习者，而不是学生。把两者混为一谈，会把证据基础收窄到有注册记录的人，并悄悄丢掉 [[lifelong-learning|终身学习]] 研究所针对的成年人、从业者与自主学习者。
+**“学习者与学生是同一群人。”** 它们在有用的意义上并不能互换：*学生* 命名一种制度角色，*学习者* 命名一种活动，一个人可以是其中之一而不是另一个。[[professional-training|职场培训]] 中的一名雇员是学习者，而不是学生。把两者混为一谈，会把证据基础收窄到有注册记录的人，并悄悄丢掉 [[lifelong-learning|终身学习]] 研究所针对的成年人、从业者与[[self-directed-learning|自主学习]]者。
 
 **“学习者报告 AI 改善了他们的理解，所以它为他们省下了时间。”** 在调查数据里这两个主张是分开的。在关于学习效率的研究中，**92.3%** 的人说 AI 改善了他们的理解，而只有 **38.5%** 的人说它减少了总学习时间。头条数字描述的是感受到的理解，它下面的缺口表明理解改善与时间回收是两个不同的结果，而被广泛重复的“AI 省时间”主张是由较小的那个数字支撑的。
 

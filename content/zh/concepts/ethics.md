@@ -1,7 +1,7 @@
 ---
 title: 伦理
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,7 @@ ai_assist:
 
 - **教师对学生。** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç 与 Sever（2026）]] — 一项对 971 名学生与 135 名教师的[[mixed-methods-research|混合方法]]研究 — 发现两组都支持合乎伦理的人工智能使用，但以不同方式：教师强调伦理原则同时指出缺乏机构指引，而学生重视人工智能的学习益处却表达了对谁分担伦理责任的不确定。两组都担心过度使用人工智能可能削弱[[critical-thinking|认知技能]] — 这一关切把伦理整合框定为保全学习者的认知发展，而非只是规范工具使用。教师在个人责任上得分高，却对机构指引充分性评分最低（M = 2.99），暴露了个人伦理与结构支持之间的差距。
 - **准备度上学生与教师不同。** [[fekete-ethical-ai-literacy-gaps-2026|Fekete（2026）]]发现，学生自报的伦理觉察高于教师（4.03 对 2.44），而教师表现出更强的使用人工智能的意愿 — 学生通过即时的课程作业理解伦理，而教师把它当作机构清晰性与诚信。两组都报告薄弱的机构支持，而准备度通过不同渠道发展：教师的道德觉察随机构与社会支持增长，而学生的信心与[[self-efficacy]]及协作相关，而非与正式教学相关。
-- **使用的增长快于伦理共识。** 在一个美国师范教育项目的四个学期中，学生的 GenAI 使用从 57% 升至 83%（备考）与从 44% 升至 76%（学习），而“不确定”的伦理回应稳步上升，且使用者比非使用者把其学术用途评为更合乎伦理（[[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 等人（2026）]]）。
+- **使用的增长快于伦理共识。** 在一个美国[[teacher-education|师范教育]]项目的四个学期中，学生的 GenAI 使用从 57% 升至 83%（备考）与从 44% 升至 76%（学习），而“不确定”的伦理回应稳步上升，且使用者比非使用者把其学术用途评为更合乎伦理（[[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 等人（2026）]]）。
 
 **伦理是该领域的核心，却很少作为结果。**在一项对 394 项生成式 AI 高等教育研究的范围综述中，伦理与学术诚信是被针对得最少的结果之一，且治理实践被低报（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
 - **规范框架不可互换。** 在 151 名西班牙本科生中，道德公平是打算在备考中使用大语言模型的必要条件（d = 0.338）却不是充分预测因子，而后果主义（β = 0.350）与义务论（β = 0.329）判断则是 — 学生应用若干规范框架（[[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella 等人（2026）]]）。
@@ -73,6 +73,8 @@ ai_assist:
 - **一个人工智能教育伦理的整合价值框架。** [[agarwal-ethical-values-norms-aied-2026|Agarwal 等人（2026）]] — 一项对 25 篇文章的[[meta-analysis-systematic-review|系统综述]] — 把碎片化的伦理文献整合为[[ai-education|人工智能教育]]的六大伦理价值 — 不歧视、数据管理、[[human-in-the-loop-ai|人类监督]]、善意、可说明性与教育适切性 — 并把从文献中抽取的伦理规范映射到一个“利益相关者 × 价值”矩阵（开发者、教育机构、最终用户、监管者）上。该综述发现规范分布不均：开发者得到的最多，而最终用户得到的最少且最不可行动，且没有任何关于不歧视、数据管理或教育适切性的规范直接针对最终用户 — 学生的声音实质上缺席，“最终用户”规范大多是其他利益相关者为使教师能够行动所采取的行动。作者论证最终用户应有主体性与主动角色，而非被当作被动受益者，并指出这些价值紧密耦合且可能冲突（例如可说明性对准确性/[[privacy]]、不歧视对数据管理），在利益相关者集合之间产生伦理困境与权力不对称。
 - **没有关系而被命名的责任。** 对 366 篇 GenAI 高等教育摘要的语料分析显示，该领域的责任词汇主要是形容词性的：“负责任的人工智能/GenAI”在 59 篇文档中出现 83 次，“负责任的使用”在 44 篇中出现 66 次，而“人工智能责任”与“学生责任”从未作为确切短语出现，语法上的去责任化是例行公事 — 800 个被动结构，其中 780 个不带任何施事指称，此外还有 1,152 个与责任相关的名词化。[[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal（2026）]]找不到任何把后果附加到系统上的子句，因此责任被承认为一个词，却缺少能把它化为行动的关系性主体性。
 
+公民框架问的是与诚信不同的问题。[[civic-and-political-education]]处理 AI 中介的公共论证所产生的集体与民主后果，那里的伤害是一个被误导的公众，而不是一篇被误归属的论文。
+
 ## 走向情境化与生态化的人工智能伦理
 
 知识库中的一个重大理论转向是批判普遍主义的、基于原则的“检查表”伦理，转而支持情境化、生态化与变革性的说明：
@@ -85,11 +87,12 @@ ai_assist:
 
 ## 实践中的伦理
 
-知识库的伦理文章从理论框架（[[ethical-ai-higher-ed-game-theory|博弈论方法]]）到实践指南（[[cost-of-ethics-crisis-cs-ethics-education|计算机科学伦理教育]]），从[[ai-ethics-education-public-discourse|公共话语分析]]到[[adarkwah-genai-unesco-policy-2026|联合国教科文组织政策框架]]。在这一范围上，一个一致的实践信息浮现：伦理必须从监管误用转向建设[[ai-literacy]]与合乎伦理的使用能力，并以机构指引、教师专业发展，以及保全而非取代学习者判断的设计为支撑。
+知识库的伦理文章从[[theories-and-frameworks|理论框架]]（[[ethical-ai-higher-ed-game-theory|博弈论方法]]）到实践指南（[[cost-of-ethics-crisis-cs-ethics-education|计算机科学伦理教育]]），从[[ai-ethics-education-public-discourse|公共话语分析]]到[[adarkwah-genai-unesco-policy-2026|联合国教科文组织政策框架]]。在这一范围上，一个一致的实践信息浮现：伦理必须从监管误用转向建设[[ai-literacy]]与合乎伦理的使用能力，并以机构指引、教师专业发展，以及保全而非取代学习者判断的设计为支撑。
 
 这一实践论证被关于伦理如何在人工智能素养内部运作的经验工作所强化：Zhu 与 Kong（2026）表明，人工智能伦理觉察 — 连同在人工智能[[problem-solving]]中的赋权 — 中介了感知到的[[project-based-learning|基于项目的学习]]与对人工智能素养课程的满意度之间的关系。他们验证过的人工智能 PBLS 量表与结构方程模型结果（1,027 名学生）表明，基于项目的学习创造了学生为关于人工智能的伦理推理建立个人框架的条件，强化了“伦理不是附加物，而是有意义的人工智能素养发展的核心机制”这一论点。
+**被教授之后，它改变的是[[evaluative-judgment|判断]]，而不只是觉察。** 在一项包含十六个完整班级（n = 240）的整群[[rct|随机试验]]中，一个为期四周的信息伦理模块把评分伦理判断提高了 0.35 个量表点（d = 0.75），且该增益的 59.9% 在四周后仍然保留，在 GenAI 使用最重的学生中最大（[[qi-information-ethics-ai-judgment-2026|Qi，2026]]）。
 
-**该机制的符号取决于跟随它的是什么。** 在 584 名其人工智能能力来自自学的本科生中，能力提高了人工智能伦理觉察（β = 0.644，p < .001）。伦理觉察随后提高了人工智能焦虑（β = 0.439，p < .001）而非降低它 — 纯间接中介，作者解读为觉察被唤醒却没有应对框架（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。他们对伦理教学的结论是，它不能停在认知层面。一项透明度或隐私关切必须与回应它的治理路径一同到来，这就是他们提出的模块被置于法律教育之内的原因。
+**该机制的符号取决于跟随它的是什么。** 在 584 名其人工智能能力来自自学的本科生中，能力提高了人工智能伦理觉察（β = 0.644，p < .001）。伦理觉察随后提高了[[anxiety-and-stress|人工智能焦虑]]（β = 0.439，p < .001）而非降低它 — 纯间接中介，作者解读为觉察被唤醒却没有应对框架（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。他们对伦理教学的结论是，它不能停在认知层面。一项透明度或隐私关切必须与回应它的治理路径一同到来，这就是他们提出的模块被置于[[legal-education|法律教育]]之内的原因。
 
 伦理觉察、反思性推理与[[self-report-measures|自报的]]负责任实践在很大程度上独立发展。在三年的年度波次中，对 350 名尼日利亚计算[[higher-ed|本科生]]的追踪显示，[[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale 等人（2026）]]发现三者都大幅上升，然而它们的成长因子近乎不相关，且初始觉察不能预测后续成长。
 
@@ -101,7 +104,7 @@ ai_assist:
 
 - **"作弊框架足以思考 GenAI 伦理。"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等，2026]]主张机构应通过**伙伴伦理而非作弊框架**来决定生成式 AI 问题。框架决定提出哪些问题，而不当行为框架无法追问教育目的。
 - **"教师与学生对何为合乎伦理看法一致。"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç 与 Sever（2026）]]的一项对 **971 名学生与 135 名教师**的[[mixed-methods-research|混合方法]]研究发现，两组之间的伦理维度存在分歧。只从一方视角写出的政策会误述另一方。
-- **"伦理共识先于使用。"** **使用增长快于伦理共识**：在一个美国师范教育项目的四个学期中，学生的 GenAI 使用**从 57% 升至 83%（备考）**。规范正由实践塑造，而非相反。
+- **"伦理共识先于使用。"** **采纳快于伦理共识**：在一个美国师范教育项目的四个学期中，学生的 GenAI 使用**从 57% 升至 83%（备考）**。规范正由实践塑造，而非相反。
 
 ## 关联概念
 
@@ -120,6 +123,7 @@ ai_assist:
 - [[teacher-education]]
 - [[chemistry-education]] — 化学教育与人工智能：实验室、形成性评估、大语言模型的局限、实验哲学
 - [[biology-education]] — 生物教育与人工智能：实验室助教、生物学中的人工智能素养、批判性思维、专门工具
+- [[civic-and-political-education]]
 
 ## 关联文章
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴伦理而非作弊框架指导机构的 GenAI 决策
@@ -151,3 +155,4 @@ ai_assist:
 - [[agarwal-ethical-values-norms-aied-2026]] — 人工智能教育的伦理价值与规范
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁负责？一项关于生成式人工智能高等教育研究中能动性、认识论责任与问责的语料辅助话语分析
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — 伦理觉察、反思与报告的负责任实践在三年的年度波次中大幅独立成长（Ayanwale 等
+- [[qi-information-ethics-ai-judgment-2026]] —— 信息伦理教育与大学生的人工智能伦理判断

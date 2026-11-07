@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,6 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
-
-
 
 ---
 
@@ -88,6 +86,8 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 **设计即可解释**是对事后方法不忠实问题的一种回答。[[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang 和 Fang（2025）]]用一个与决定[[assessment]]判断的融合表征和预测分数相同的表征来参数化一个解释解码器，使得[[formative-assessment|形成性]]提问上的低分能产出一份指明提问不足的理由，并配以跨课程标准与学科特定评分量规动作的双透镜注意力。注意力与量规的对齐度达到 78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%；忠实性则通过对量规关键片段的反事实删除，加上在量规锚定清单上的人工评分来检验，得到 0.78 的解释可信度分数——比 BERT-base 提高 0.31。审计也显示出架构主张在何处变薄：在情绪线索上，模型分配了 28.4% 的注意力权重，而专家为 15.2%（对齐度 0.53），其中一个失败案例把 28% 的权重给了 token "frustrated"，作者把这解读为对情绪的过拟合、而非教学，并列为需要改进的领域。把解释嵌入决策路径使它们比事后理由更忠实；但这并不使它们正确。
 
+**模型说自己用了什么，既取决于数据，也取决于模型家族。** 在同一批学生上比较七个模型，[[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 等（2026）]]发现符号方法倚重认知与[[motivation|动机]]因素，子符号模型倚重认知层面、习得知识与性别，而两者都大体忽略了元认知因素，神经符号模型则使用了更为整合的一组因素。同样的学生、同样的指标，产生了关于"什么重要"的不同说法，因此与[[learning-theories|学习理论]]的一致性，成为一个关于归因的主张，而不是关于准确率的主张。
+
 ## 把可解释性作为问责实践来教
 
 如果解释质量决定 XAI 是否有用，那么产出解释就必须作为一种职业习惯被教授，而不是作为一种能力被演示。[[lund-socially-accountable-data-science-xai-2026|Lund 及其同事（2026）]]提出围绕四大支柱来做这件事——**可回答性**（向受影响者给出理由的义务）、**责任性**（在生命周期中预期危害，而非事后辩护）、**执行性**（课程内部的后果）和**自反性**（对自身假设的成文检视）——每一根支柱都有自己的作业和自己的课堂成本。
@@ -141,6 +141,8 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教师评分与 AI 评分的决策：一份书面理由扩大了公平性差距
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用与权威信号提高了对不正确输出的遵从，部分引用被误归属或是虚构的
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 符号、子符号与神经符号模型在同一批学生上把预测归因于不同因素
 
 ## 引用
 

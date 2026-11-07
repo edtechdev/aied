@@ -1,12 +1,12 @@
 ---
 title: "我怎样才能减少课程中的人工智能作弊？"
 created: "2026-09-22T19:51:00-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -61,11 +61,13 @@ ai_assist:
 
 然后改作品本身。一项覆盖 72 项研究的[[meta-analysis-systematic-review|系统综述]]考察生成式 AI 在[[cs-education|计算机教育]]中的应用，把重新设计评为既可行又最具杠杆的做法，并特别指出一步：在每门课程里至少为一项高利害评价加入口头或其他使过程可见的环节。它称之为整个语料中最有效的单一干预。检测是这篇综述覆盖得最薄的领域，只有 3 项研究，而 60-80% 的计算机专业学生报告在课程作业中使用生成式 AI，通常并未获得教师的明确许可，另有一个全国性教师样本中 70% 的人明确要求获得关于抗 AI 评价设计的培训（[[kumar-genai-computing-education-systematic-review-2026]]）。
 
+一门为期三年的计算机课程展示了有脚手架的披露工作流能把行为推到多远。[[shakil-scaffolding-genai-ethical-essay-2026|Shakil 等（2026）]]要求先交一份独立草稿并附四项清单，再进行一个“由 AI 精修而非重写”的步骤，随后提交披露表与结构化反思，缺少草稿或表格即得零分。采用率从自愿政策下约三分之二的学生上升到有脚手架那一年的 93%；81% 与 84% 的 AI 使用者报告拒绝或修改了建议，评分者对 77–81% 的提交编码出批判性投入，而在控制先前写作能力之后，AI 使用并不独立预测论文质量。这是一份单门课程的经验报告，不是对照试验，但它显示诚信工作正从检测转向学生披露与修改的条件。
+
 这份菜单，大致按每个选项在一门大课上能撑住的程度排序。
 
-无辅助、课堂内、闭卷：监考考试、测验、限时写作。给这些更高的权重，因为被 AI 抬高的正是课后作业这件成品。口试和答辩出于同样的理由有效，因为实时对话难以外包（[[fenton-oral-exams-ai-authentic-assessment-2025]]）。
+无辅助、课堂内、闭卷：监考考试、测验、限时写作。给这些更高的权重，因为被 AI 抬高的正是课后作业这件成品。[[oral-assessment|口试]]和答辩出于同样的理由有效，因为实时对话难以外包（[[fenton-oral-exams-ai-authentic-assessment-2025]]）。
 
-过程性材料：草稿、推理轨迹、带批注的“展示你的思考”、修改日志，让*过程*可见，而不只是成品（[[authentic-products-authenticated-processes-2026]]）。真实任务与它们配合使用：本地案例、实习材料、学生自己的数据，任何难以委托出去的东西（[[kirsanov-beyond-detection-ai-online-assessments-2026]]）。
+过程性材料：草稿、推理轨迹、带批注的“展示你的思考”、修改日志，让*过程*可见，而不只是成品（[[authentic-products-authenticated-processes-2026]]）。[[authentic-assessment|真实任务]]与它们配合使用：本地案例、实习材料、学生自己的数据，任何难以委托出去的东西（[[kirsanov-beyond-detection-ai-online-assessments-2026]]）。
 
 按学生做任务变体，让每个学生拿到一份表面不同但构念等价的版本，抄袭就在结构上毫无用处。要把这个保证看作以模型能力为条件的：[[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]]发现前沿生成器在联合诚信分数上只能达到 0.81-0.88，而非前沿模型跌到 0.50-0.55。如果你的变体并不等价，你买到的是防分享，代价是学生之间的不公平。
 
@@ -103,7 +105,7 @@ ai_assist:
 
 禁用工具，和不加结构地允许使用，产生的结果相同：学生站在认知工作之外。
 
-减少 AI 误用这一综合梳理为“允许使用”的版本列出了八条设计原则，其中包括：保留[[desirable-difficulties|认知摩擦]]，把 AI 定位为暂时的思考伙伴而不是权威，嵌入评价检查点，并要求[[metacognition|元认知]]日志和提示词日志。
+减少 AI 误用这一综合梳理为“允许使用”的版本列出了八条设计原则，其中包括：保留[[desirable-difficulties|认知摩擦]]，把 AI 定位为暂时的思考伙伴而不是权威，嵌入评价检查点，并要求[[metacognition|元认知]][[reflection|日志]]和提示词日志。
 
 承载这些原则的序列很短，可以印在作业说明上：
 
@@ -129,7 +131,7 @@ ai_assist:
 
 学生实际相信的东西，比这场恐慌所暗示的要少些犬儒。在 504 名社会学专业学生中，65% 用过生成式 AI 做课程作业，但只有 3% 用它来生成作业文本，2% 用它来生成完整草稿。81% 的人收到过某种 AI 指导，而只有 46% 觉得它非常清楚（[[student-genai-use-views-writing]]）。实际问题是含糊，而不是对抗，这就是为什么一条清楚的规则加一段教过的序列，比一句警告更能改变行为。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa 与 Mezgebu（2026）]]描述学生问：生成式 AI 是一个助长作弊的工具，还是一个支持学习的伙伴？这个问题正是你的期望应当回答的。
 
-值得明确教的那一层伤害是[[ai-misuse-learning-harm|表现—学习差距]]：此刻表现上升，之后学习下降，而学生只体验到前一半。[[ai-tools-academic-work-cheating-2026]]和[[student-rationalization-ai-writing]]讨论同伴规范与合理化那一侧，包括“大家都在这么做”这种辩解——一条清楚的规范就能消掉它的气。这套基础有多牢固，见[[ai-literacy-evidence]]和[[top-10-findings-ai-education-instructors]]。
+值得明确教的那一层伤害是[[ai-misuse-learning-harm|表现—学习差距]]：此刻表现上升，之后学习下降，而[[student-experience|学生]]只体验到前一半。[[ai-tools-academic-work-cheating-2026]]和[[student-rationalization-ai-writing]]讨论同伴规范与合理化那一侧，包括“大家都在这么做”这种辩解——一条清楚的规范就能消掉它的气。这套基础有多牢固，见[[ai-literacy-evidence]]和[[top-10-findings-ai-education-instructors]]。
 
 ## 教师在这件事上搞错的地方
 

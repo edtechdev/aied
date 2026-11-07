@@ -1,13 +1,13 @@
 ---
 title: 技术
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 - **大语言模型（LLM）。** 多数现代 [[ai-education|AIED]] 的计算骨干——[[llm|LLM]] 生成类人文本，用于辅导、考核与内容生成，是知识库中被引用最多的技术。[[llm-training-and-fine-tuning|训练与微调]]把通用 LLM 适配为教育用途。
 - **生成式 AI。** 更广的一类系统，产出文本、代码、图像与其他内容——[[generative-ai|生成式 AI]]（主要由 LLM 驱动）是当前这波 [[ai-education|AIED]] 研究背后的技术。另见 [[multimodal|多模态模型]]（文本、图像、音频）与 [[simulation]]。
-- **机器人与具身系统。** [[educational-robotics|教育中的机器人]]增添了具身的、常是社会性的在场——用于计算思维的可编程套件，以及用于辅导、讲故事与角色扮演的人形/社交机器人。机器人是一条独特的技术脉络，与 [[agentic-ai|智能体式 AI]] 和 [[human-in-the-loop-ai|人在环]]设计交叠。
+- **机器人与[[embodied-learning|具身]]系统。** [[educational-robotics|教育中的机器人]]增添了具身的、常是[[community-of-inquiry|社会性]]的在场——用于[[computational-thinking|计算思维]]的可编程套件，以及用于辅导、[[storytelling-in-education|讲故事]]与角色扮演的人形/社交机器人。机器人是一条独特的技术脉络，与 [[agentic-ai|智能体式 AI]] 和 [[human-in-the-loop-ai|人在环]]设计交叠。
 - **基于知识的系统。** [[knowledge-graph|知识图谱]]与 [[educational-nlp|教育 NLP]]表征并处理领域知识，日益与 LLM 结合，用于有锚定、可解释的辅导。
 
 ## 技术与方法
@@ -56,7 +56,9 @@ ai_assist:
 
 - **教学：**技术选择体现教学假设——一个建立在 [[socratic-method|苏格拉底式提示]]上的 [[intelligent-tutoring|导师]]与学习者一起推理，而一个答案生成模型可能默认直接给答案（见 [[pedagogy|教学法与教学策略]]）。
 - **考核与评估：** [[ai-ed-evaluation]] 与 [[benchmark|基准]]决定 AI 系统是否真的有效；[[assessment]] 与 [[automated-assessment]] 使用技术栈来评分与生成。
-- **负责任使用：**技术是 [[reducing-ai-misuse|减少 AI 滥用]]的核心——[[rag]] 锚定、护栏、[[prompt-engineering]] [[scaffolding]] 与 [[human-in-the-loop-ai|人的监督]]塑造 AI 是支持还是破坏学习（[[cognitive-offloading]]、[[hallucination-risk]]）。
+- **负责任使用：**技术是 [[reducing-ai-misuse|减少 AI 滥用]]的核心——[[rag]] 锚定、[[guardrails|护栏]]、[[prompt-engineering]] [[scaffolding]] 与 [[human-in-the-loop-ai|人的监督]]塑造 AI 是支持还是破坏学习（[[cognitive-offloading]]、[[hallucination-risk]]）。
+
+**研究注意力集中在一个狭窄的工具生态切片上。** 把 85 款 AI 工具与 STEM 与工程文献对照映射，[[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky 等（2026）]]发现只有 36 款在研究里可见，而[[conversational-ai|对话式 AI]]/LLM 占 927 条论文—工具连接中的 73.7%，另有 23 篇出版物处于一个既有的实验室情境中。
 
 ## 对 AI 教育的含义
 
@@ -99,6 +101,8 @@ ai_assist:
 - [[personalized-learning]]
 
 ## 关联文章
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM 与工程教育中 85 款 AI 工具的研究可见度（Terkowsky 等，2026）
 
 - [[agentic-ai-education-scoping-review]] — 教育中智能体式 AI 的范围综述
 - [[genai-meta-analysis-programming-learning]] — GenAI 对编程中生产力与学习之影响的元分析

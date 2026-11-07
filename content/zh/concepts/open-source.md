@@ -1,7 +1,7 @@
 ---
 title: 开源
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -55,13 +55,13 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 
 ### 开放的基准、数据集与方法透明
 
-此处若干贡献是开放的*评价基础设施*而非系统。[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利教师资格考试题目构建）横跨 97 个模型：开放权重的 DeepSeek R1 达到 86.65%，而其对手前十名大多是封闭的推理模型；在 2024 年 4 月到 2025 年 6 月之间，成本—准确率前沿从约 50% 移到约 82%，对应每百万输入 token 0.10 美元——其中开放的 Qwen-3 8B 以 3.5 美分几乎追平了 2024 年 4 月最好的封闭模型，而成本低了 400 倍以上。参数规模降到约 8B 以下时表现急剧下降，这是校园部署的一个实际规模约束。[[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]发布用于对社会智能的多智能体辅导做基于轨迹的评价的数据集、模式与原型（540 名参与者、360 次会话、1,440 个任务片段）。[[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]展示了开放数据的文化理由：24,795 对指令—回答，横跨七种语言与 41 种取自吠陀与古典传统的教学法技术，对齐 CBSE[[curriculum-design|课程]]，使一个紧凑的 7B 模型接近一个大得多的通用参考模型（裁判中位分 6.39 对 6.54），而部署成本只是其一小部分。学生自撰的[[benchmark|基准]]是通往开放的另一条路：[[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]]从 230 份学生提交的候选中精选出 80 个长程学术任务（横跨 25 个以上专业领域，16 个需要 CUDA GPU，在隔离的 Docker 沙盒中运行），把一个开放的智能体生态延伸到学术级评价。[[aied-carbon-footprint-reporting|Eimler 等（2026）]]论证开放也是一种[[sustainability|环境]]义务：在评审全部 AIED 2025 论文时，他们发现了一种"采用大语言模型却未披露"的模式，并回应以一个开源测量方法学——软件工具加一个即使在参数量未知时也能估算计算开销的公式。
+此处若干贡献是开放的*评价基础设施*而非系统。[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利[[teacher-role|教师]]资格考试题目构建）横跨 97 个模型：开放权重的 DeepSeek R1 达到 86.65%，而其对手前十名大多是封闭的推理模型；在 2024 年 4 月到 2025 年 6 月之间，成本—准确率前沿从约 50% 移到约 82%，对应每百万输入 token 0.10 美元——其中开放的 Qwen-3 8B 以 3.5 美分几乎追平了 2024 年 4 月最好的封闭模型，而成本低了 400 倍以上。参数规模降到约 8B 以下时表现急剧下降，这是校园部署的一个实际规模约束。[[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]发布用于对社会智能的多智能体辅导做基于轨迹的评价的数据集、模式与原型（540 名参与者、360 次会话、1,440 个任务片段）。[[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]展示了开放数据的文化理由：24,795 对指令—回答，横跨七种语言与 41 种取自吠陀与古典传统的教学法技术，对齐 CBSE[[curriculum-design|课程]]，使一个紧凑的 7B 模型接近一个大得多的通用参考模型（裁判中位分 6.39 对 6.54），而部署成本只是其一小部分。学生自撰的[[benchmark|基准]]是通往开放的另一条路：[[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]]从 230 份学生提交的候选中精选出 80 个长程学术任务（横跨 25 个以上专业领域，16 个需要 CUDA GPU，在隔离的 Docker 沙盒中运行），把一个开放的智能体生态延伸到学术级评价。[[aied-carbon-footprint-reporting|Eimler 等（2026）]]论证开放也是一种[[sustainability|环境]]义务：在评审全部 AIED 2025 论文时，他们发现了一种"采用大语言模型却未披露"的模式，并回应以一个开源测量方法学——软件工具加一个即使在参数量未知时也能估算计算开销的公式。
 
 ### 开放内容与开放代码的交汇之处
 
 开放教育资源有自己的页面 [[open-education]]，因为那里的论证是教学法与许可导向的，而非基础设施导向的。属于本页的是两种开放性相遇的那道接缝，而它比看上去要窄。
 
-这道接缝是一个许可兼容性的约束。[[oatutor-open-source-adaptive-tutor-2023|OATutor]]把一个 MIT 许可的代码库，与一个来自 OpenStax 代数教材的 CC BY 内容库配对，这意味着代码的条款与内容的条款必须靠设计保持兼容，而一方上的宽松许可并不提供另一方。当一份开放许可的语料正是一个本地系统得以合法运行的前提时，这道接缝也会出现：[[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]把 82 份 OER 文档索引进一个跑在 12 GB 消费级 GPU 上的知识库助手，而整个故事是一个关于量化、幻觉与来源的开源故事，而不是一个关于教材的论证。
+这道接缝是一个许可兼容性的约束。[[oatutor-open-source-adaptive-tutor-2023|OATutor]]把一个 MIT 许可的代码库，与一个来自 OpenStax 代数教材的 CC BY 内容库配对，这意味着代码的条款与内容的条款必须靠设计保持兼容，而一方上的宽松许可并不提供另一方。当一份开放许可的语料正是一个本地系统得以合法运行的前提时，这道接缝也会出现：[[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]把 82 份 OER 文档索引进一个跑在 12 GB 消费级 GPU 上的知识库助手，而整个故事是一个关于量化、[[hallucination-risk|幻觉]]与来源的开源故事，而不是一个关于教材的论证。
 
 本页不做的是为这种资源辩护。一部机器写成的教材是否默认开放、一份许可能否在一次生成的改写中存活、开放教学法是否教出了任何可测量的东西，这些都是 [[open-education]] 的问题，也正是本领域当前文献实际在问的问题。
 
@@ -85,7 +85,7 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 
 **"封闭的前沿模型就是更好，所以开放替代品只是退路。"** 差距比这个假设所暗示的要窄。在横跨 97 个模型的[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利教师资格考试题目构建）中，开放权重的 **DeepSeek R1 达到 86.65%**，而其前十名大多由封闭的推理模型组成，且成本与准确率的比较进一步朝开放方向倾斜。因此支持开放的剩余理由关乎控制与可审计性，而不关乎能力上的牺牲。
 
-**"发布权重就是发布工作。"** 更强的开放贡献发布的是流水线。OmniEdu 发布的是在 69,999 例混合样本上做能力均衡的监督，而非仅发布最终权重，把开放 4B/9B/27B K–12 家族的每一档都抬高，其中经调优的 4B 模型在 MathTutorBench 脚手架表现上提升 **55 分**；[[singh-eduqwen-pedagogical-rl-2026|EduQwen]] 同样记录了它的 RL 与微调流程，包括 440 条挖掘出的难负例与 40,000 条生成回答。只有权重而没有配方，复制的是一个结果，而不是一种方法。
+**"发布权重就是发布工作。"** 更强的开放贡献发布的是流水线。OmniEdu 发布的是在 69,999 例混合样本上做能力均衡的监督，而非仅发布最终权重，把开放 4B/9B/27B K–12 家族的每一档都抬高，其中经调优的 4B 模型在 MathTutorBench [[scaffolding|脚手架]]表现上提升 **55 分**；[[singh-eduqwen-pedagogical-rl-2026|EduQwen]] 同样记录了它的 RL 与微调流程，包括 440 条挖掘出的难负例与 40,000 条生成回答。只有权重而没有配方，复制的是一个结果，而不是一种方法。
 
 ## 关联概念
 

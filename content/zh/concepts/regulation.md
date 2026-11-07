@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能监管
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ ai_assist:
 
 **这一差距既是时机的也是证据的。** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski 与 Hurley（2025）]]把一个专业部门描述为在时间压力下、缺乏可依据的证据基础制定政策：大多数经美国律师协会（ABA）认证的美国[[legal-education|法学院]]采取总体禁止的立场，同时把裁量权留给个别教师，而作者报告在披露或引用实践上无共识，且对 ABA 2024 年政策调查只有约 15% 的回应率。他们的规范回应 — 无论立场如何都给出清晰指引、起草中有[[stakeholders|利益相关者]]参与、治理设计得灵活并定期复审 — 与[[crompton-governing-genai-higher-ed-delphi-2026|全球德尔菲共识]]一致，后者同样把政策维护当作经常性的机构机制而非一次性任务。[[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]补充了反向依赖：他们的治理改革项目得出结论，机构发展若无来自监管、基准测试与跨机构竞争的外部可供性就不太可能兑现，使质量与监管机构 — 以及它们强制的机构间比较 — 成为内部治理改革得以扎根的条件。
 
-对 EdTech 平台隐私政策的审计给这一依赖提供了一个具体实例。在 48 个平台上，数据收集披露得相对较好（均值 1.81/2），而人工智能披露（0.90）与问责（1.07）滞后，33% 未作有意义的人工智能披露尽管有可见的人工智能功能；美国[[k-12]]平台总体得分最高（M = 7.47，对美国[[higher-ed|高等教育]]的 5.50），却未在人工智能披露或问责上有任何增益 — 作者结论，监管只提高它点名的东西，因此必须由可执行的规则与采购标准而非自愿承诺使[[privacy]]成为部署的条件（[[edtech-privacy-deferral-2026|Nair & Greenstadt（2026）]]）。
+对 [[edtech-platform|EdTech 平台]]隐私政策的审计给这一依赖提供了一个具体实例。在 48 个平台上，数据收集披露得相对较好（均值 1.81/2），而人工智能披露（0.90）与问责（1.07）滞后，33% 未作有意义的人工智能披露尽管有可见的人工智能功能；美国[[k-12]]平台总体得分最高（M = 7.47，对美国[[higher-ed|高等教育]]的 5.50），却未在人工智能披露或问责上有任何增益 — 作者结论，监管只提高它点名的东西，因此必须由可执行的规则与采购标准而非自愿承诺使[[privacy]]成为部署的条件（[[edtech-privacy-deferral-2026|Nair & Greenstadt（2026）]]）。
 
 ### 关联
 

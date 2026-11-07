@@ -1,7 +1,7 @@
 ---
 title: 不同学习者群体间的差异效应
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -11,9 +11,9 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ ai_assist:
 
 **人口统计属性通常是模拟的。** 真实学习者的人口统计信息很少被附加到模型输入上，因此审计改用人设。[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]在三个教育任务上、在模型默认、显式人设与隐式历史三种条件下运行了六个指令微调模型——共 192,480 次推理调用——发现显式人设与*隐式*对话历史都会改变模型行为。他们的区分值得保留：意识到学习者差异可能是可取的（为学习者的第一语言调整反馈），而当同样的敏感性改变了对相同作业的判断时，它就是一种伤害。
 
+**真实学习者的审计确实存在，而且能支撑交叉性主张。**[[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar 等人（2026）]]分析了来自 8,549 名学生两年的 MATHia 日志，发现了模拟人设审计无法提供的证据：2021–2022 年女生内部出现 .1007 的新兴读者基准率差距，2022–2023 年西班牙裔学生内部的差异达到 .0926，而在非新兴读者中 12 项种族×阅读组统计量有 8 项显著，新兴读者中仅 1 项显著。
+
 **公平性修正未必可泛化。** [[student-attention-estimation-fairness-2026|Fragkiadakis 等（2026）]]在[[assessment-validity|验证]]数据上缩小了学生注意力估计中针对性别与年龄的误差差距，但这些提升未能一致地迁移到留出学科或重复的学科级划分上。
 
 **群体标签掩盖了其内部的变异。** 在同一残障元分析中，特定学习障碍、智力与发育障碍或失聪学生的效应更大（g = 0.952），高于自闭症谱系障碍学生（g = 0.368）——作者报告这一差异在 41 个独立样本的 239 个效应量上并不具统计显著性。"残障"不是一个群体，"二语学习者"也不是。
@@ -67,6 +69,8 @@ ai_assist:
 - **一些 AI 支持是拉平差距而非制造差异。** [[adhd-video-segmentation-computing-education|Pimenova、Begel 及同事]]在一项被试内研究（17 名 ADHD、10 名非 ADHD）中将[[video-education|教学视频]]切分为单条指令的片段并设置固定停顿；所有人都提升了，ADHD 参与者的错误与犹豫降至与其非 ADHD 同伴持平。这是通过自动化内容转换实现[[universal-design-for-learning|通用学习设计]]的现有最强证据形态：一项弥合差距的通用改动，而非针对群体的修补。
 - **神经多样性学生所说的需求往往很平凡。** [[neurodivergent-computing-students|一项对 24 名神经多样性计算机专业学生与 20 名神经典型同伴的调查]]（含四次访谈）发现，对缺乏清晰结构或期望含糊的作业存在显著不适——而这种调整的提供成本为零。
 - **设计选择也可能在认识论上排斥人。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]论证，以英语为中心、西方中心的训练数据将非主流认知方式边缘化，并把残障学习者的处境置于该批判的核心。
+
+- **"在相同的人类分数上，评分者对已识别与未识别的学生一视同仁。"**在 **3,000** 篇按裁定分数精确匹配的 ASAP 2.0 作文上，**22 个模型中的每一个**都给被标记为残障的群体打了更低的分，在六分制上从 **−0.086** 到 **−0.429**，且 **20** 个模型被读作 GAP REPLICATES。对 **20 个中的 17 个**模型而言，惯例错误与长度至多解释了其中五分之一，而由于 ASAP 2.0 只发布一个分数，该设计无法把人类评审组共享的偏见与模型共享的偏见分开（[[porcaro-ai-grading-benchmark-2026|这一读解是 SHARED GAP，而非模型偏见]]）。
 
 ## 语言：第二语言、多语言与英语学习者
 
@@ -114,12 +118,14 @@ ai_assist:
 本综述的诚实结论是某些群体有多么单薄。以下每一条都是证据库的真实缺口，而非本页的缺口。
 
 - **第一代大学生：** 一项研究报告的是使用差异而非效应。在[[student-ai-inquiry-types-cs2-2026|一项 CS2 探究研究]]中，续代学生把 AI 当作积极的[[problem-solving]]伙伴，而第一代学生采取确认式的、以验证为导向的角色，总体提问更少。
-- **第一代大学生：首个效应估计，而它指向错误的方向。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等（2026）]]对一门课程整合式[[intelligent-tutoring|AI 辅导系统]]的[[rct|随机试验]]补上了前述条目所缺的——一个被测量的差异而非使用模式。在全体样本中，辅导访问权对期末成绩的效应对第一代大学生多 2.87 分（0.28 个标准差）的负面效应，即他们为 −5.10 分（−0.50 个标准差），同伴为 −2.23 分（−0.22 个标准差）；该差异在精确匹配样本中更大（−3.89 分，−0.35 个标准差），第一代学生也损失了更多作业分与平台页面浏览量。该研究未报告机制，且其精度随结果而异，但方向与"缩小差距"的叙事相反：那些先前最缺乏学业支持的学生承担了最大的被测成本。
+- **第一代大学生：首个效应估计，而它指向错误的方向。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等（2026）]]对一门课程整合式[[intelligent-tutoring|AI 辅导系统]]的[[rct|随机试验]]补上了前述条目所缺的——一个被测量的差异而非使用模式。在全体样本中，辅导访问权对期末成绩的效应对第一代大学生多 2.87 分（0.28 个标准差）的负面效应，即他们为 −5.10 分（−0.50 个标准差），同伴为 −2.23 分（−0.22 个标准差）；该差异在精确匹配样本中更大（−3.89 分，−0.35 个标准差），第一代学生也损失了更多作业分与平台页面浏览量。该研究未报告机制，且其精度随结果而异，但方向与"缩小差距"的叙事相反：那些先前最缺乏[[student-support-and-success|学业支持]]的学生承担了最大的被测成本。
 - **国际学生：** 一项[[mixed-methods-research|混合方法]]研究（问卷 n = 60，访谈 n = 14），关于[[international-students-conversational-ai-adaptation|跨文化适应支持]]。
 - **国际学生：一个被测量的参与模式，而非效应估计。** 在七所英国[[business-education|商学院]]的 270 名少数族裔国际学生中，自报[[generative-ai]]使用与全部四条[[student-engagement|参与]]线索正相关——其中能动性参与最强（β = 0.429）——而促进条件（β = 0.369）是使用意愿最强的预测因子（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya 等（2026）]]）。
 - **资优与高成就学生：** 在本语料库中实际上未作为群体被研究过。
 - **难民、移民与流离失所的学习者：** 没有研究。
 - **性别在大多数上述研究中仍被当作二元变量分析，** 且残障类别因研究而异，因此"同一"群体的跨研究比较存在局限。
+
+- **"学习者情境会让评分者更公平。"**对 **3,000** 篇由两个模型评分的作文所做的一次消融发现，在它能测试的每个群体上，高与低标签之间的差距都相同，每个差异都在一个等级的 **0.045** 之内。在 Qwen 上，低标签仍然从英语学习者、经济弱势与残障学生身上扣掉比同伴多 **0.06 到 0.08 分**。在没有标签的情况下，两个模型仍把后两个群体在相同人类分数下标得低于同伴。[[porcaro-ai-grader-reliability-2026|一个可能出错的记录会改变分数，而它改变得最重的正是那些本已被低估的人]]。
 
 ## 在使用这些证据时避免过度拟合群体标签
 
@@ -128,6 +134,8 @@ ai_assist:
 - **在证据允许时优先选择拉平差距的设计。** ADHD 视频切分的结果——所有人提升、差距缩小——比针对群体的附加模块更适合作为通用课堂的目标。
 - **谨慎对待消费人口统计属性的个性化。** [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]]的发现直接针对该机制，它同样适用于[[well-being|身心健康]]签到、[[affective-computing|情感辅导]]，以及[[recommender-systems-and-learning-paths|推荐系统]]这类会为学习者建档的做法。
 - **在本地测试，针对你关心的群体，且用不依赖该工具测量的结果。** 关于评估习惯见[[interpreting-and-applying-aied-research|解读与应用 AIEd 研究]]，关于使本地测试站得住脚的设计见[[research-methods-aied|AI 教育中的研究方法]]。
+
+- **过程证据最直接的群体划分变量基于知识，而非人口统计。**[[wang-genai-metacognitive-prompting-preconceptions-2026|Wang 等人（2026）]]在[[prior-knowledge|先前知识]]上匹配了各组（U = 293.50, p = 0.515），却仍发现学习者如何推理塑造了结果。八个持有不同先入观念的组与六个持有相似观念的组提出了同类问题，然而 AI 在多样组中充当整合枢纽，在相似组中则落在一条线性路径上，两者持续的评估方向相反。这一结论建立在单一 60 分钟任务中的十四个组之上，因此应把它当作关于如何编组的假设，而非规则。
 
 ## 常见误解
 
@@ -181,3 +189,7 @@ ai_assist:
 - [[international-students-conversational-ai-adaptation]] — 语料库中唯一一项国际学生研究
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 语料库对第一代学生的首个效应估计：辅导访问权使他们期末成绩损失 0.50 个标准差，而同伴为 0.22（Liu 等，2026）
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 一个带有直接过程证据的、基于知识的编组变量：各组在先前知识上匹配，但先入观念的多样性不同，对同一个 AI 的取用也不同（Wang 等，2026）
+- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个被提示的评分器面对答案已知的探针，其中大多数可以被说动（Porcaro 2026）
+- [[porcaro-ai-grader-reliability-2026]] — 学习者情境会改变 LLM 评分者对相同作业的评分，而与教师的一致性并未记录到这一点（Porcaro 2026，第六篇）
+

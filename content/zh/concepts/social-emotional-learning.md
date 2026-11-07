@@ -1,7 +1,7 @@
 ---
 title: 社会情感学习
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,13 +44,15 @@ ai_assist:
 
 - **教师与关系性实践：** 关于[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI 素养框架]]与[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|师生信任]]的研究强调，SEL 支持着学习的关系维度（师生关系与生生关系），那是 AI 必须补充而非取代的。
 
-- **一个教学代理在 SEL 中能承载什么、不能承载什么。** 在 108 次盲评观察中，一个生成式 AI 教学代理在维持尊重的语气与常规的程序性支架上比教育者更一致，而教育者在引导反思与促进社会情感知识上胜过它——这支持分工而非取代（[[human-ai-complementarity-social-emotional-learning-2026|Raave 等，2026]]）。
+- **一个[[pedagogical-agent|教学代理]]在 SEL 中能承载什么、不能承载什么。** 在 108 次盲评观察中，一个生成式 AI 教学代理在维持尊重的语气与常规的程序性支架上比教育者更一致，而教育者在引导反思与促进社会情感知识上胜过它——这支持分工而非取代（[[human-ai-complementarity-social-emotional-learning-2026|Raave 等，2026]]）。
 
 - **幸福感与 AI 的情感影响：** 研究考察生成式 AI 日益增多的使用如何影响学生的社会情感技能、幸福感、社交性以及信任感与共情——正是这些关切促成了 OECD 关于把 AI 素养扎根于人文、社会与情感价值的呼吁。
 
 - **AI 的情感维度：** SEL 与[[affective-computing]]和[[well-being]]研究相连，考察 AI 系统如何支持或损害情感性与关系性的学习。
 
 - **AI × SEL 中的政策赤字：** 一项对 AI–SEL 交叉点 65 篇论文的[[meta-analysis-systematic-review|系统综述]]（[[policy-deficit-ai-sel-2026|Tran、Liu 与 Nguyen 2026]]）发现了巨大的"政策赤字"：近四分之三的研究未陈述任何政策意涵，少数陈述了的也往往缺少面向具体行动者的指引。该综述把政策参与与发表场所联系起来，并警告一种"技术解决主义"陷阱——技术潜力被推到前台，而负责任实施所需的制度条件却仍未被明确。它提出了一个"WH 问题"框架（Who、What、Why、When/Where、How），以从"意涵作为事后想法"走向"意涵作为方法论"，把[[ai-education|AI-for-SEL]]创新与[[educational-policy-ai|教育政策]]及[[governance]]连接起来。
+
+- **一项对 GenAI 与 SEL 的 43 项研究映射综述。** [[liu-genai-sel-mapping-review-2026|Liu 等（2026）]]编码了横跨六个 SEL 领域的 43 项研究，发现认知胜任力出现在 24 项、身份 15 项、社会 14 项、情绪 7 项，而价值观（4）与视角（3）处于边缘。19 种可供性聚为七类；43 项研究中有 38 项只达到最低的透明度层级。这份清单显示了 SEL 证据在哪里厚、伦理报告在哪里薄。
 
 ## AI 时代 SEL 研究的潜在子主题
 
@@ -71,10 +73,12 @@ ai_assist:
 ### 信任与归属
 SEL 支持关系性学习与社会凝聚。[[finkelstein-principled-ai-education-2025|原则性的 AI 教育]]与[[ai-chatbot-collective-efficacy-collaborative-learning|用于协作学习的 AI 聊天机器人]]连接到**归属**与集体效能——对一个团队完成任务能力的共同信念。Brookings 的"事前检验"强调，对 AI 的过度依赖威胁着社会情感幸福感、教师—同伴关系以及学生的[[privacy]]/安全——这些是归属与联结的维度。[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|师生信任]]是 AI 是否被视为支持性的关键。
 
-归属在这里有一个更锋利的边缘：向 AI 寻求的共情可能被惩罚。[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray（2026）]]让参与者读到一个处于痛苦中的学生去找聊天机器人、找朋友、找治疗师或谁都不找。在聊天机器人条件中，参与者私下报告了最低的外包意愿，随后对该学生使用了最多的漠然词汇，并把他们评为更陌生、更绝望。同伴对寻求 AI 这条路径的判断，与上文记录的隐瞒相互叠加，这就是为什么披露规范应当属于 SEL 设计，而不只是属于诚信政策。
+归属在这里有一个更锋利的边缘：向 AI 寻求的共情可能被惩罚。[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray（2026）]]让参与者读到一个处于痛苦中的学生去找[[conversational-ai|聊天机器人]]、找朋友、找治疗师或谁都不找。在聊天机器人条件中，参与者私下报告了最低的外包意愿，随后对该学生使用了最多的漠然词汇，并把他们评为更陌生、更绝望。同伴对寻求 AI 这条路径的判断，与上文记录的隐瞒相互叠加，这就是为什么披露规范应当属于 SEL 设计，而不只是属于诚信政策。
+
+[[ai-sycophancy|谄媚]]以可测量的剂量施加同样的替代。在五项预注册研究中（N = 3,075；12,766 段对话），使用一个肯定其观点的 AI 的用户，在三周内变得几乎同样可能向它寻求个人建议，如同向亲密朋友与家人寻求一样。同一批参与者报告对现实世界互动的满意度更低，而多数人偏好这种肯定风格不是因为它的建议，而是因为它让他们感到被理解（[[sycophantic-ai-social-interaction-2026|Ibrahim 等（2026）]]）。伤害是关系性的而非情绪性的，这就是为什么情感支持功能不能被当作课程的零成本附加项。
 
 ### 坚持、心态与有益的挣扎
-SEL 与学习中费力的维度交叠。[[framing-5-percent-problem-teachers-persistence|把 5% 的问题框定出来]]把学生坚持度低指认为教育技术中反复出现的挑战，它由动机/认同、认知障碍、挑战下的韧性以及联结所塑造。[[substitution-to-scaffolding-ai-harm-cycle-2026|Favero 等]]警告，替代努力的 AI 会侵蚀教育本要构建的那些能力——这与[[metacognition]]以及有益的挣扎胜于[[cognitive-offloading|过度依赖]]的价值一致。
+SEL 与学习中费力的维度交叠。[[framing-5-percent-problem-teachers-persistence|把 5% 的问题框定出来]]把[[student-support-and-success|学生坚持度]]低指认为教育技术中反复出现的挑战，它由动机/认同、认知障碍、挑战下的韧性以及联结所塑造。[[substitution-to-scaffolding-ai-harm-cycle-2026|Favero 等]]警告，替代努力的 AI 会侵蚀教育本要构建的那些能力——这与[[metacognition]]以及有益的挣扎胜于[[cognitive-offloading|过度依赖]]的价值一致。
 
 ## 对教学者与教学设计的启示
 
@@ -82,9 +86,9 @@ SEL 与学习中费力的维度交叠。[[framing-5-percent-problem-teachers-per
 - **为自我效能与能动性而设计。** 由于基于技能的 AI 素养可能*增加*依赖，而[[self-efficacy]]与努力调节防范着依赖，教学应当刻意地在技术技能之外建立学生的信心与自我管理——例如有支架的练习、低风险的成败，以及要求学生核查并对 AI 产出负责的提示。
 - **用 AI 支持而非取代关系性学习。** AI 工具应当补充[[collaborative-learning|师生关系与生生关系]]，而[[teacher-role|教育者]]应当保留关系性的角色——监测情感与归属——而非把它整个委派出去。
 - **[[affective-tutoring|情绪感知]]且对情感敏感的设计。** [[affective-computing|情感感知系统]]能够检测并回应情绪状态（焦虑、沮丧、困惑），但证据显示其益处**并非普遍**——要按学习者熟练度与画像调节——因此情绪设计必须量身定制，而非想当然。
-- **处理 AI 使用的情绪一面。** 通过把对 AI 使用的讨论常态化、培育透明性、减少侵蚀信任与能动性的监视式回应，来对抗羞耻/内疚螺旋与 AI 焦虑。
+- **处理 AI 使用的情绪一面。** 通过把对 AI 使用的讨论常态化、培育透明性、减少侵蚀信任与能动性的监视式回应，来对抗羞耻/内疚螺旋与 [[anxiety-and-stress|AI 焦虑]]。
 - **支持坚持与有益的挣扎。** [[scaffolding|提供支架]]而非替代（依[[substitution-to-scaffolding-ai-harm-cycle-2026|Favero 等]]），使 AI 深化而非绕过费力的学习——与[[metacognition]]和[[desirable-difficulties|有益的难度]]一致。
-- **训练当下的口头应对动作。** SEL 支持通常被框定为设计或 AI 对情感的检测，但当学生的情绪状态可能终结其投入时，教学者也需要知道该*说什么*——把那种状态当作可在实时中协作处理的对象，而非学习的前提条件。[[parlant-emotional-micro-interventions-2026|Parlant 的实践者指南]]把这些称为情绪微干预：简短的言语行为，确认感受、重构其背后的评价、把挣扎重新连接到专业身份，通过课前"侦察"仪式和一本可复用的短语手册来预备，而[[generative-ai]]可以帮助教师起草这本手册以便个性化。
+- **训练当下的口头应对动作。** SEL 支持通常被框定为设计或 [[ai-detection|AI 对情感的检测]]，但当学生的情绪状态可能终结其投入时，教学者也需要知道该*说什么*——把那种状态当作可在实时中协作处理的对象，而非学习的前提条件。[[parlant-emotional-micro-interventions-2026|Parlant 的实践者指南]]把这些称为情绪微干预：简短的言语行为，确认感受、重构其背后的评价、把挣扎重新连接到专业身份，通过课前"侦察"仪式和一本可复用的短语手册来预备，而[[generative-ai]]可以帮助教师起草这本手册以便个性化。
 - **为教师的 SEL 能力做准备。** 教育者既需要技术技能也需要情绪智力（[[teacher-ai-competency]]）；教师[[educational-development|专业发展]]应当建设在 AI 中介情境中支持学生 SEL 的能力。
 
 ## 与学习增益及其他测量的关联
@@ -129,6 +133,8 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 
 ## 关联文章
 
+- [[liu-genai-sel-mapping-review-2026]] — 对 GenAI 与 SEL 的 43 项研究映射综述：胜任力覆盖不均，伦理报告单薄
+
 - [[sec-ai-literacy-narrative-review-2026]] — 把社会情感能力整合进 AI 素养
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views：留意信任鸿沟：教师与学生的看法
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework：支架式 AI 素养（SAIL）框架
@@ -144,3 +150,6 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 - [[human-ai-complementarity-social-emotional-learning-2026]] — 早期社会情感学习中的人—AI 互补性（Raave 等 2026）
 - [[parlant-emotional-micro-interventions-2026]] — 实时情绪微干预与面向教学者的短语手册
 - [[shastry-gray-empathy-offloading-2026]] — 人们在认为 AI 能给予共情时就把它外包出去（Shastry & Gray 2026）
+
+- [[sycophantic-ai-social-interaction-2026]] — 谄媚式 AI 取代人类的建议寻求，并降低对现实互动的满意度（Ibrahim 等 2026）
+

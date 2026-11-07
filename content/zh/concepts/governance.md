@@ -1,7 +1,7 @@
 ---
 title: AI 治理
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **AI 治理**——引导 [[ai-education|教育中的人工智能]]负责任地设计、部署与使用的框架、政策、机构结构与规范。治理既涵盖正式的机构机制（AI指导小组、学术诚信与可接受使用政策、伦理审查），也涵盖非正式规范（教师指南、专业发展、[[ai-literacy|负责任使用 AI]]的文化）。在AI时代，有效的治理是合乎伦理的、[[equity-in-ai-education|公平的]]、可持续的GenAI采纳的前提——它决定AI是被透明地、可问责地整合，还是以加深不平等的被动方式被采纳。
+> **AI 治理**——引导 [[ai-education|教育中的人工智能]]负责任地设计、部署与使用的框架、政策、机构结构与规范。治理既涵盖正式的机构机制（AI指导小组、学术诚信与可接受使用政策、伦理审查），也涵盖[[social-norms-ai-use|非正式规范]]（教师指南、专业发展、[[ai-literacy|负责任使用 AI]]的文化）。在AI时代，有效的治理是合乎伦理的、[[equity-in-ai-education|公平的]]、可持续的GenAI采纳的前提——它决定AI是被透明地、可问责地整合，还是以加深不平等的被动方式被采纳。
 
 ## 值得思考的问题
 
@@ -58,6 +58,8 @@ ai_assist:
 - **政策模糊与学生体验：** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|学生对GenAI的参与]] 发现 23 名学生中有 12 名注意到缺乏明确的机构AI政策（"学校还没有清晰统一的政策"），论证治理模糊塑造了学生的实践、规范与 [[self-regulated-learning|自我调节]]——支持转向透明的机构指引。
 - **作为治理能力的人工智能素养（"第18个SDG"）：** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] 把AI素养重新概念化为一种系统性治理机制而非课堂技能，提出六级 AIRE 分类法（识别→理解→应用→分析→整合→治理），在布鲁姆层级之上加入伦理综合与战略远见，并提出一个把素养能力映射到全部十七个 [[sustainability|可持续发展目标]] 的AI–SDG联结。把AI素养框定为"第18个SDG"启发式——一种把学习导入治理与可持续发展的横向能力——该研究对 300 名专业人士的调查发现治理素养是AI–SDG联结意识最强的预测因子（β = 0.64，r = 0.67），并识别出伦理推理与反思性思维是可信AI使用最强的预测因子。这把机构治理与公共 [[ai-literacy]] 的培养联系起来，呼应了本知识库的发现：负责任的AI对齐需要能够批判性解读算法系统的 [[stakeholders|政策制定者]]与公民，而不仅仅是面向合规的技术控制。
 - **多数教育治理是指引，而非法律。** 在 160 份英文文献中，只有 4 份采取正式的法律或监管形式，而 92 份是指引、框架或工具包；可问责性出现在 146 份文献中，但只有 100 份与具名的监督行动者配对（[[generative-ai-governance-education-scoping-review-2026|Elmahjub 等，2026]]）。
+- **行政 AI 使治理成为服务运营问题，而非课堂问题。** [[pandey-davies-he-governance-administrative-ai-2026|Pandey 与 Davies（2026）]] 把行政 AI 界定为招生、录取、注册、记录、学业指导、住宿、福利与职业服务，并按定义排除教学、学习与研究。他们的社会技术框架提出三个可检验的命题：技术与角色及可问责性的联合优化、人工物的政治，以及全球塑造的基础设施。五个驱动因素解释采纳：基础设施准备度与商业平台生态使能并引导它，而招生波动下的竞争定位、监管与流动性要求，以及可持续性合法性则驱动它。由此得出四项领导能力——合同素养、质询目标、压力下的克制，以及持续的参与。这是一项概念分析与解释性综述，因此这些命题是供检验的，而非已确立的。
+
 - **学术诚信与评估：** 治理是机构如何处理AI相关 [[academic-integrity]] 关切以及如何重新设计 [[assessment]] 的核心——从禁止/监管转向指引、AI素养与面向过程的设计，如 [[student-rationalization-ai-writing|学生合理化]] 研究与 [[beyond-detection-authentic-assessment-ai-2025|真实性评估再设计]] 所示。
 - **再设计同时沿三个维度运行。** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] 通过文化—话语（语言与假设）、物质—经济（资源）与社会—政治（治理与权力）三个维度框定AI时代的评估再设计，并把资源—权力的交点同时命名为最大的杠杆点与最大的风险：流经既有权力结构的资源会放大不平等。
 
@@ -72,7 +74,7 @@ AI治理运作于本知识库一并处理的两个层面：治理AI使用的 *�
 
 ### 考核治理
 
-AI治理的一个核心舞台是 **机构如何治理评估**——决定什么算作可接受AI使用、AI辅助工作如何被声明，以及总结性测量如何得到保障。这包括 [[ai-use-disclosure|AI使用与声明声明]]的设计与执行：研究表明，强制性声明在令人感到惩罚性或模糊时会失败（[[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]]、[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]），而清晰、一致、基于信任的政策才真正促进声明。本知识库的研究区分了 *基于检测的* 治理（监管AI使用，例如经由 [[ai-detection]]）与 *基于设计的* 治理（重新设计 [[summative-assessment|总结性]] 与 [[authentic-assessment|真实性]]评估，使AI使用被预期、被声明并受到审视）。[[genai-assessment-governance|评估中生成式AI的证据中心治理]] 与 [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] 论证治理必须把任何检测与评估再设计配对，而AI抗性总结性形式的选择（口试、监考/闭卷测量、代码评审面试——见 [[summative-assessment]]）本身就是一项治理决策。大规模证据 [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] 强调了治理总结性测量的重要性，因为未受治理的作业可能被AI抬高而实际学习却在下降。禁止的范围本身就是一项治理决策：[[wright-transcription-not-generation-2026|Wright (2026)]] 表明，禁止"生成式AI"而不区分生成与格式转换的规则会捕获辅助性转录工具，把政策误用变成 misconduct 指控，加重残障者与 [[equity-in-ai-education|公平]]暴露学生的负担——这是一种治理失败，[[legal-issues-and-risks|法律问题与风险]] 既当作诚信问题也当作平等问题来处理。
+AI治理的一个核心舞台是 **机构如何治理评估**——决定什么算作可接受AI使用、AI辅助工作如何被声明，以及总结性测量如何得到保障。这包括 [[ai-use-disclosure|AI使用与声明声明]]的设计与执行：研究表明，强制性声明在令人感到惩罚性或模糊时会失败（[[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]]、[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]），而清晰、一致、基于信任的政策才真正促进声明。本知识库的研究区分了 *基于检测的* 治理（监管AI使用，例如经由 [[ai-detection]]）与 *基于设计的* 治理（重新设计 [[summative-assessment|总结性]] 与 [[authentic-assessment|真实性]]评估，使AI使用被预期、被声明并受到审视）。[[genai-assessment-governance|评估中生成式AI的证据中心治理]] 与 [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] 论证治理必须把任何检测与评估再设计配对，而AI抗性总结性形式的选择（[[oral-assessment|口试]]、监考/闭卷测量、代码评审面试——见 [[summative-assessment]]）本身就是一项治理决策。大规模证据 [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] 强调了治理总结性测量的重要性，因为未受治理的作业可能被AI抬高而实际学习却在下降。禁止的范围本身就是一项治理决策：[[wright-transcription-not-generation-2026|Wright (2026)]] 表明，禁止"生成式AI"而不区分生成与格式转换的规则会捕获辅助性转录工具，把政策误用变成 misconduct 指控，加重残障者与 [[equity-in-ai-education|公平]]暴露学生的负担——这是一种治理失败，[[legal-issues-and-risks|法律问题与风险]] 既当作诚信问题也当作平等问题来处理。
 
 [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] 从高风险场景收集的证据指向不均匀的治理而非简单的拒绝：评估、招生与纪律程序中的部分采纳与不完整政策，机构性的延迟作为治理立场而非失败运作。机构的任务是把拒绝解读得足以改善治理，追问哪些决策需要人工审查、哪些系统需要审计、哪些使用需要声明、哪些采购选择需要公开论证。[[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] 补充了评估特有的推论：检测器分数是条件性的概率信号，本身无法确立 misconduct，因此以检测为中心的治理不足以支撑评估主张。
 
@@ -89,6 +91,10 @@ AI治理运作于多个层面——从 **国家/监管**（政府政策、OECD�
 
 **关怀伦理把责任放在采纳了该工具的机构身上。** [[jones-care-ethics-ai-governance-higher-education-2026|Jones（2026）]]把责任定位在选择了这个系统的机构，而不是供应商或注意到这一模式的那位教师，并追问同一套规则是否同样约束写下规则的管理者与生活在规则之下的学生。
 
+**多数机构说不出谁拥有 AI。** 在来自 13 个国家机构的 387 名学生与教职员中，只有 17% 知道存在指定的 AI 管理职责，而其余人中有 71% 希望有这样一项职责，并期望它结合培训、伦理监督、数据安全与战略（[[kaze-ai-management-higher-ed-2026|Kaže 等（2026）]]）。
+
+**一条从清晰到行为的拟议路径。** [[li-su-teacher-genai-decision-making-2026|Li 与 Su（2026）]] 建模机构清晰度如何可能抵达课堂。治理清晰度，即规则清晰度加角色清晰度，被提出作为情境前因；感知可问责性作为它起作用所经由的状态；决策不确定性作为它作用于的条件，其程序形式可以降低，但真正的案例不确定性不能。AI 素养被提出作为调节变量，作者给出五个可检验命题与一个构型期望。这是一篇不收集数据的假设与理论论文，作者把这些路径描述为命题，而非经实证确立的效应。
+
 ### 与相关概念的关联
 
 AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机构情境）、[[privacy]] 与 [[bias-mitigation]]（具体的治理关切），以及 [[academic-integrity]]（一个主要的治理舞台）。它对 [[change-management|机构变革]]与负责任的AI至关重要，并与 [[ai-literacy]]（治理支持批判性、知情使用的发展）相交。它还连接到 [[learning-analytics]]（数据治理）与 [[student-experience]]（治理塑造学生如何导航可接受使用）。
@@ -103,7 +109,7 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] 把 **伦理与数据治理** 识别为可信的基于LA的教育干预的七大使能因素之一——LA与AI伦理使用的政策、数据隐私、安全与可问责性——并把 [[trust|可信性]]（包括支持实施的领导力与治理）定位为有意义的数据驱动干预的前提。
 
-- **治理可以被设计进工具中。** 一个六维治理画像——教学法基础、教学权威、人类可问责性与控制、学习者能动性与认知参与、情境特定性与评估可见性——把治理定位于教学工具的交互模型、提示、评分量表、审批门与仪表板，追问机制是否契合教学功能，而非工具是严格还是宽松（[[instructional-governance-design-computing-education-2026|Dickey, 2026]]）。
+- **治理可以被设计进工具中。** 一个六维治理画像——[[pedagogy|教学法]]基础、教学权威、人类可问责性与控制、学习者能动性与认知参与、情境特定性与评估可见性——把治理定位于教学工具的交互模型、提示、评分量表、审批门与[[visualization|仪表板]]。它追问机制是否契合教学功能，而非工具是严格还是宽松（[[instructional-governance-design-computing-education-2026|Dickey, 2026]]）。
 
 - **一个以人为本的框架把解释而非工具置于中心。** 在一所使命驱动的文理学院，教师在一次结构化的教育日活动里使用了一个生成式 AI 支持的 Assessment Wizard，作者得出结论：人的判断必须保持为不可协商的解释权威，并在广泛实施之前先建立核验检查点与治理（[[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot、Copeland 与 Pryor，2026]]）。顺序是先形成与核验，再规模化。
 
@@ -136,6 +142,7 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 
 ## 关联文章
 
+- [[kaze-ai-management-higher-ed-2026]] — 高等教育中的 AI 采纳：指定 AI 管理的理由（Kaže 等 2026）
 - [[jones-care-ethics-ai-governance-higher-education-2026]] — 面向机构 AI 治理的关怀伦理：五个构成要素及其转化出的机构问题
 - [[generative-ai-governance-education-scoping-review-2026]] — 教育中的生成式AI治理：原则、机制与风险的范围综述（Elmahjub et al. 2026）
 - [[ai-literacy-sdg-governance-framework-2026]] — 作为可持续发展治理能力的人工智能素养：AIRE分类法与AI–SDG联结（Islam, Morshed & Islam 2026）
@@ -171,3 +178,5 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 - [[genai-governance-australian-higher-ed-2026]] — 划定被授权的边界：澳大利亚高等教育中生成式AI治理的比较政策情境研究
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — 委托、证据与访问：智能体AI改变了大学评估治理的什么（Wong & Sun 2026）
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI原型与学校试点作为预演所选未来的治理机器（Williamson et al）
+- [[li-su-teacher-genai-decision-making-2026]] — 从治理清晰度到教师决策片段的一条拟议路径
+- [[pandey-davies-he-governance-administrative-ai-2026]] — 作为服务运营问题的行政 AI

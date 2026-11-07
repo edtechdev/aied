@@ -1,7 +1,7 @@
 ---
 title: 图书馆员
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 引言
 
-图书馆员是坐在学习者问题与学术记录之间的专业人员：参考与学科联络馆员、学科专家、讲授信息素养教学的教学馆员，以及管理馆藏与机构知识库的工作人员。在 [[ai-education|教育中的 AI]] 里，他们被点名的频率远低于 [[teacher-role|教师]]和 [[administrator|行政人员]]，然而语料库赋予了他们一个具体、可检验的角色。他们是 [[generative-ai]] 所造成的可信性问题的答案，是教授 [[evaluative-judgment|评价判断]]与检索策略而不只是提供来源的教师，并且——在知识库最强的那个案例中——是一个 AI 系统的设计组件，而不是它旁边的一项服务。
+图书馆员是坐在学习者问题与学术记录之间的专业人员：参考与学科联络馆员、学科专家、讲授信息素养教学的教学馆员，以及管理馆藏与机构知识库的工作人员。在 [[ai-education|教育中的 AI]] 里，他们被点名的频率远低于 [[teacher-role|教师]]和 [[administrator|行政人员]]，然而语料库赋予了他们一个具体、可检验的角色。他们是 [[generative-ai]] 所造成的可信性问题的答案，是教授 [[information-and-media-literacy|信息素养]]、[[evaluative-judgment|评价判断]]与检索策略而不只是提供来源的教师，并且——在知识库最强的那个案例中——是一个 AI 系统的设计组件，而不是它旁边的一项服务。
 
 本页把这个角色当作与其邻居不同的来对待。[[educational-technology-developers]] 建造检索与推荐系统；图书馆员决定那些系统不应被信任去得出结论。[[academic-integrity]] 把 AI 使用框定为作者身份与披露；图书馆员的框架——署名、来源、获取——与之相邻但更具体。
 
@@ -78,6 +78,10 @@ ai_assist:
 ## 关联概念
 
 - [[ai-literacy]]
+
+- [[information-and-media-literacy]]
+- [[libraries]]
+
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

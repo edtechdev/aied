@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 自动题目生成
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-10-25T21:20:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,10 +56,11 @@ AQG 的核心挑战是**质量控制**：
 - **评估解题过程，而非题干：** [[proiqa-math-item-quality-assessment-2026|ProIQA]]论证题目质量审阅应遵循专家之所为——模拟解题——并为每道题构建一棵 LLM 生成的推理树，在数学正确性上验证达 90.38–97.80%，随后用图 [[machine-learning|神经网络]]编码其依赖结构，并辅以仅看题干的视角。它报告相对次优方法的平均增益为：概念评估 7.5%、难度估计 6.3%、能力评估 19.5%；其错误分析点出了一种值得关注的失效模式：一棵逻辑正确但结构浅显的推理树，会让一道难题看起来容易。
 - **幻觉风险：** LLM 会生成事实上不正确的题目。[[generate-then-validate-question-gen|Generate-Then-Validate]]显示，专门的验证阶段能大幅降低这一点，而 [[hallucination-risk|幻觉风险]]在整体上是一个公认的关切。
 - **难度校准：** 生成的题目必须校准到合适的难度。[[llm-difficulty-calibration-programming-exams-2026|难度校准研究]]显示，AI 难度估计与学生表现强相关（如 rho ≈ −0.87），使更好的题目选择成为可能——同时告诫不要在高风险的 [[ai-misuse-learning-harm|误用]]中使用。[[razavi-powers-item-difficulty-llm-2026|Razavi 与 Powers（2026）]]将其扩展到 K-5 数学与阅读题目（N = 5170），在 Rasch IRT 模型下校准：GPT-4o 的零样本难度评分与真实难度呈中强相关（r = 0.83 数学，r = 0.81 阅读），但随年级变化，而基于特征的方法——把 LLM 抽取的认知与语言特征输入基于树的模型——达到最高 r = 0.87 的相关。该研究的结构化特征抽取（如句法复杂度、[[cognitive-offloading|认知负荷]]、干扰项的迷惑性）及其七步实操工作流，为校准生成题目提供了模板，而其低年级范围受限的发现与可推广性告诫则提示不要用于高风险场景。
-- **生成的难度标签可能是构念效度的失效，而非校准误差。** 在 378 道生成题目上，模型的易/中/难标签与它一并生成的 Bloom 层级一致（ρ=0.90），也与表面形式一致——平均题干长度从 15.9 升到 22.1 再到 30.2 词——但与 54 名学生 7,888 次回答所反映的实测难度相关性仅 ρ=0.06，这说明生成元数据应对照回答数据校准，而非相信一并生成的标签（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang（2026）]]）。
-- **大规模心理测量实地验证：** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]在 91 个真实大学课堂（约 1,686 名学生）中验证了一条迭代精炼的 AQG 流水线（生成→评判→修改，Self-Refine 风格）。贝叶斯层级 2PL [[item-response-theory|IRT]]分析显示，AI 生成的题目表现与专家撰写的标准化考题相当——略易（β̄ = −0.45 对 0.35）但区分度稍高（ᾱ = 1.3 对 1.2），峰值测验信息更高（信度 0.79 对 0.72）——证明 AQG 可以大规模产出贴合课程、心理测量上健全的评估。
 
-- 平均心理测量上的相当，可能掩盖题目层面的不足：一项对 153 篇医学教育报告的范围综述发现，AI 生成题目有时在难度与区分度上与人类相当，然而在一项生理学比较中，只有 40 道 ChatGPT 题目中的 9 道满足全部理想标准，而教师题目为 40 道中的 19 道（[[genai-medical-education-transformation-review-2026|Zhao 等（2026）]]）。
+- **大规模的学生感知证据：**[[johnson-student-ratings-automatically-generated-questions-2025|Johnson 等人（2025）]]分析了 VitalSource Bookshelf 电子阅读器 CoachMe 练习功能中自动生成的填空题上的 5,214,211 次学生—题目会话。
+评分很少见——每 1,000 次会话 3.31 个赞与 2.00 个踩——而踩与生成器可控的特征相关，包括句子重要性（优势比 2.38）、答案重要性（1.64）与答案词性，而赞的模型几乎为空。对两个重要性变量设阈值，会把踩的比例降到约每 1,000 次会话 1.62 次，使学生终端用户的评分成为调优生成的一种实用质量信号。
+
+- 平均心理测量上的相当，可能掩盖题目层面的不足：一项对 153 篇医学教育报告的[[meta-analysis-systematic-review|范围综述]]发现，AI 生成题目有时在难度与区分度上与人类相当，然而在一项生理学比较中，只有 40 道 ChatGPT 题目中的 9 道满足全部理想标准，而教师题目为 40 道中的 19 道（[[genai-medical-education-transformation-review-2026|Zhao 等（2026）]]）。
 - **真实考试中的可辨识性，以及审阅究竟去掉了什么：** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等（2026）]]把 30 道 AI 生成的选择题与 30 道国家执业医师考试选择题放进一场由 119 名五年级 [[medical-education|医学生]]参加的评分平板考试中，AI 题目由 ChatGPT-4o 与 Gemini 1.5 Pro 依据课程自身材料起草，再经一个接受了其中 82%、剔除了 18.2% 为不可用的专家评审组审定。学生对两类题目的来源归因没有差异，题目难度、干扰项分布与感知到的课程对齐在统计上不可区分——这是一个*可辨识性*结果而非质量结果，也是作者把该工作流的益处描述为把教育者的精力从起草转移到审阅、而非消除它的原因。一项探索性差异得以保留：Gemini 题目难于执业考试题目（p = 0.028），而 ChatGPT 题目不然（p = 0.984）。
 - **任务依赖性：** 生成的可靠性因题型而异。[[cong-confidence-asag-2026|简答题评分]]与 [[self-referential-l2-writing-llm-assessment|分析性写作评估]]显示，开放回答与写作类题目比结构化题目更难可靠地生成与评分。
 - **认知质量：** [[llm-educational-question-cognitive-depth|认知深度评估]]显示，除非明确为高阶结果设计，生成的题目可能偏向低阶思维。

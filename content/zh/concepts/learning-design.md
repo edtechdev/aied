@@ -1,7 +1,7 @@
 ---
 title: 学习设计
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-28T00:58:16-04:00"
+source_updated: "2026-11-05T01:53:02-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 这种设计工作在实践中究竟涉及什么，本身是一个经验问题。[[tang-chatbots-learning-design-2026|Tang 等人（2026）]]编目了五名新手学习设计者与嵌入设计工具的聊天机器人之间的 1,378 个设计者—机器人轮次，发现对话聚集在预期学习成果与教学方法上，而非内容生成上。设计者在把课程成分转化为具体任务时，反复回到成果作为对齐检查，而助手的角色在不同阶段间转移 — 从澄清术语，到支持任务设计，再到截止前跑一遍核验。按这一证据，设计支持与其说是产出材料，不如说是保持设计意图的连贯。
 
-学习分析与生成式人工智能支持设计的不同部分：在一所澳大利亚大学的 11 个焦点小组中，分析话语与情境和课程层面的问题解决共现最多（0.32），而 GenAI 话语集中于评估设计（0.26）与为学生自主性而设计（0.15）（[[claassen-learning-analytics-genai-learning-design-2026|Claassen 等人（2026）]]）。
+[[learning-analytics|学习分析]]与生成式人工智能支持设计的不同部分：在一所澳大利亚大学的 11 个焦点小组中，分析话语与情境和课程层面的[[problem-solving|问题解决]]共现最多（0.32），而 GenAI 话语集中于[[assessment|评估设计]]（0.26）与为学生自主性而设计（0.15）（[[claassen-learning-analytics-genai-learning-design-2026|Claassen 等人（2026）]]）。
 
 ### 关键研究主题
 
@@ -48,7 +48,9 @@ ai_assist:
 
 Aila 试验为这一模式给出了一个备课时间的数字。在其随机化的小学中，教师用该工具备每周课花 2.51 小时，而不用则花 3.32 小时，然而中位教师只有 21% 到 40% 的课程是从零开始设计的，而这正是从零开始的工具所针对的情形（[[roy-aila-lesson-planning-teacher-choices-2026|Roy 等，2026]]）。
 
-生成材料不足之处在于课程契合：七名数学教师给人工智能生成的生产性失败问题在总体质量上接近人类出的题（M = 17.19 对 17.43/25），但在课程对齐上更低（M = 2.57 对 3.29），因此生成的问题仍需在长度、阅读水平与视觉上编辑（[[rhaimi-productivemath-2025|Rhaimi 等人（2025）]]）。
+生成材料不足之处在于课程契合：七名数学教师给人工智能生成的[[productive-failure|生产性失败]]问题在总体质量上接近人类出的题（M = 17.19 对 17.43/25），但在课程对齐上更低（M = 2.57 对 3.29），因此生成的问题仍需在长度、[[reading-education|阅读水平]]与视觉上编辑（[[rhaimi-productivemath-2025|Rhaimi 等人（2025）]]）。
+
+文字质量是另一处短板，而它与阅读水平不是一回事。[[clark-ai-generated-language-readability-2026|Clark 等（2026）]]表明，与保留意义的改述和人类基线相比，模型输出过度使用已知会带来理解成本的构式——低频 n-gram、堆叠名词、名物化动词、长依存、缩减的关系从句——因此 AI 撰写的解释与读物需要一次年级公式捕捉不到的编辑。
 
 **有教学依据的人工智能辅导**把教学设计原则应用于人工智能系统设计。**[[didactical-teacher-assistant-dimensional-modeling|Brisson 等人]]**构建了一个教学法驱动的[[llm]]教师助手，其辅导策略被编码在一个显性的外部层 — 使内容选择与教学法结构化可追溯、可复现，直接回应了[[rethinking-scaffolding-llm-tutors]]中的不透明关切。**[[instructional-guidance-genai-learning|Hou 等人]]**证明了一个基于生成式[[learning-theories|学习理论]]的五步[[prompt-engineering|提问]]框架显著改善了高阶认知结果，表明教学指导 — 而非只是人工智能可得性 — 决定学习效果。两者都连接到[[scaffolding]]与[[intelligent-tutoring]]。
 
@@ -56,15 +58,19 @@ Aila 试验为这一模式给出了一个备课时间的数字。在其随机化
 
 **为触及而设计。** Halani 的七杠杆框架对每个课程情境提问：当学生独自面对人工智能时，其中哪些仍然运作？像改变分数认证什么、或没有思考就无法完成的任务这样的结构性举措，比告诉学生过程要紧走得更远（[[halani-designing-for-reach-2026|Halani，2026]]）。
 
-**约束工具以保护思维。** 一个为期九周的论辩写作设计编排了由教师界定范围的聊天机器人 — 它们提问并拒绝生成学生散文 — 而四名高中生从被动的人工智能消费者转变为敢于反驳输出的评价者；与增益同步的是策略性约束，而非不受限制的生成能力（[[making-ai-annoying-constrained-writing-2026|Konradt、Boote 与 Taub（2026）]]）。
+**约束工具以保护思维。** 一个为期九周的论辩写作设计编排了由教师界定范围的[[conversational-ai|聊天机器人]] — 它们提问并拒绝生成学生散文 — 而四名高中生从被动的人工智能消费者转变为敢于反驳输出的评价者；与增益同步的是策略性约束，而非不受限制的生成能力（[[making-ai-annoying-constrained-writing-2026|Konradt、Boote 与 Taub（2026）]]）。
 
 **评分规则引导的提问作为设计杠杆。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]证明评分规则充当人类教学意图与机器推断之间的中介界面：把评估标准当作可修订的设计制品 — 而非固定工具 — 并与大语言模型迭代地共同精炼它们，使学生设计工作上的大语言模型—人类一致性从 54.75% 提高到 81.25%。为大语言模型设计的评分规则必须平衡精确与灵活 — 太含糊引来自由解释，太僵化则把模型沦为模式匹配 — 而角色感知的提问（教师、同侪评审、基金评审）产生各异的评价性反馈。这把评分规则工程定位为塑造人工智能评价行为的具体学习设计实践，人在环监督仍不可或缺。
 
-**面向教学设计的人工智能代理**把该领域延伸到[[agentic-ai|代理式人工智能]]。**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**是第一个标准化的、有理论依据的基准，用于评价基于大语言模型的教学设计代理 — 其 25,795 个情境的情境矩阵（51 个情境变量 × 33 个来自 ADDIE 的 ISD 子步骤）表明，扎根于经典 ISD 框架（ADDIE、Dick & Carey、快速原型 ISD）的代理优于无理论代理，经验地验证了教学设计是一个结构化纪律，而非通用提问任务。代理不只是设计的*构建者*，也是*批评者*：[[ai-web-agents-lesson-design-2025|Wang、Mitchell 与 Piech（2025）]]使用一个自主网络代理，像学生一样浏览一个多步骤的在线课程，在真实学习者参与*之前*评价一个学习设计 — 它对学生体验的描述预测新手将在哪里流失，并浮现可行动的设计反馈，优于每个基线乃至一个模拟的学生群体（在一门全局 CS1 课程上）。这把上线前的、代理式评价框定为人类设计迭代的低成本补充。**[[wang-multi-agent-systems-learning-designers-2025]]**与**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**探索围绕教学设计模型编排基于角色的代理的多代理框架，而**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**考察教师与代理如何共同应用技术—教学—内容知识。这项工作把教学设计连接到[[benchmark|基准测试]]、[[ai-ed-evaluation]]与大规模[[curriculum-design|课程]]的设计。
+**面向教学设计的人工智能代理**把该领域延伸到[[agentic-ai|代理式人工智能]]。**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**是第一个标准化的、有理论依据的基准，用于评价基于大语言模型的教学设计代理 — 其 25,795 个情境的情境矩阵（51 个情境变量 × 33 个来自 ADDIE 的 ISD 子步骤）表明，扎根于经典 ISD 框架（ADDIE、Dick & Carey、快速原型 ISD）的代理优于无理论代理，经验地验证了教学设计是一个结构化纪律，而非通用提问任务。代理不只是设计的*构建者*，也是*批评者*：[[ai-web-agents-lesson-design-2025|Wang、Mitchell 与 Piech（2025）]]使用一个自主网络代理，像学生一样浏览一个多步骤的在线课程，在真实学习者参与*之前*评价一个学习设计 — 它对[[student-experience|学生体验]]的描述预测新手将在哪里流失，并浮现可行动的设计反馈，优于每个基线乃至一个模拟的学生群体（在一门全局 CS1 课程上）。这把上线前的、代理式评价框定为人类设计迭代的低成本补充。**[[wang-multi-agent-systems-learning-designers-2025]]**与**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**探索围绕教学设计模型编排基于角色的代理的多代理框架，而**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**考察教师与代理如何共同应用技术—教学—内容知识。这项工作把教学设计连接到[[benchmark|基准测试]]、[[ai-ed-evaluation]]与大规模[[curriculum-design|课程]]的设计。
 
 ### 与相关概念的关联
 
-学习设计是[[ai-education|人工智能教育]]的桥接学科 — 它连接[[curriculum-design]]（教什么）与[[scaffolding]]（如何支持学习者）、[[educational-development]]（如何培养教育者）以及[[generative-ai]]（工具本身）。它与[[teacher-role]]紧密耦合，因为人工智能工具重塑了学习设计者与教师所做的事，也与[[ai-literacy]]耦合，因为有效的人工智能整合要求教育者理解人工智能的能力与局限。设计工作最终落实为一个*活动次序*：[[pedagogical-patterns|教学法模式]]编目经过测试的招式次序，因此设计者可以决定人工智能在课的何处上场，而不只是包含什么。[[learning-sciences|学习科学]]是这些原则背后的研究领域：本页覆盖创造学习体验的专业实践，而学习科学则对该实践及其设计做经验研究，并产生学习设计进而操作化的认知、动机与社会原则。
+学习设计是[[ai-education|人工智能教育]]的桥接学科 — 它连接[[curriculum-design]]（教什么）与[[scaffolding]]（如何支持学习者）、[[educational-development]]（如何培养教育者）以及[[generative-ai]]（工具本身）。它与[[teacher-role]]紧密耦合，因为人工智能工具重塑了学习设计者与教师所做的事，也与[[ai-literacy]]耦合，因为有效的人工智能整合要求教育者理解人工智能的能力与局限。设计工作最终落实为一个*活动次序*：[[pedagogical-patterns|教学法模式]]编目经过测试的招式次序，因此设计者可以决定人工智能在课的何处上场，而不只是包含什么。[[learning-sciences|学习科学]]是这些原则背后的研究领域：本页覆盖创造学习体验的专业实践，而学习科学则对该实践及其设计做经验研究，并产生学习设计进而操作化的认知、[[motivation|动机]]与社会原则。
+
+### 共同设计，以及什么必须留给人
+
+共同设计是设计实践中关系性工作最不可替代的部分。[[zeivots-postdigital-co-design-genai-2025|Zeivots 等（2025）]]把[[generative-ai|GenAI]]当作一个不可靠的合作者，而不是起草工具，并围绕这种不可靠性构建一个三阶段序列：模型挑起、复数化与促进，而小组质询它的框定、生成反叙事，并主持审议本身。留给人是协商——哪些声音缺席、小组采纳哪种框定，以及共同理解将是什么。这篇文章是十九位作者的集体论坛，没有实验，因此该序列是关于实践的提议，而不是经过检验的方法。
 
 ### 学习设计如何决定学习增益
 
@@ -170,3 +176,6 @@ Fowlin 等人（2026）为决定人工智能在哪里进场增加了一个操作
 - [[wang-teacher-ai-co-design-review-2026]] — 教师—人工智能协同设计学习任务：趋势与视角（Wang 等人 2026）
 - [[talebzadeh-ai-group-activity-roles-2026]] — 人工智能设计的差异化小组活动中的角色架构（Talebzadeh 2026）
 - [[yasar-llms-iterative-pedagogical-design-2026]] — 作为迭代教学设计代理的 LLM
+
+- [[zeivots-postdigital-co-design-genai-2025]] — GenAI 作为共同设计中不可靠的合作者
+

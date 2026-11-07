@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: 多语言学习
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 - 多数 AI 模型主要在英语等高资源语言上训练。如果你用另一种语言思考、学习或被评价，这会如何系统性地使你处于不利——即便这个工具在英语里"看起来能用"？
 - 本页警告，AI 中未被处理的单语偏见会加深数字鸿沟并损害公平，在泛南半球尤其如此。真正的公平需要什么，而不只是把 AI 内容翻译成另一种语言？
 - 自动评价可能表现出语言偏见，即便对同样的推理也惩罚非母语者。如果你在实施 AI 评分，你会检查什么来确保它跨语言公平，而不只是在一门语言里准确？
-- 本页显示，低资源语言可以通过在精心策展的语料上微调模型来服务，即便在现实的硬件约束之下。你预期在效率与模型处理低资源语言的忠实度之间会有什么权衡？
+- 本页显示，低资源语言可以通过在精心策展的语料上[[llm-training-and-fine-tuning|微调]]模型来服务，即便在现实的硬件约束之下。你预期在效率与模型处理低资源语言的忠实度之间会有什么权衡？
 - 多语言 AI 必须超越翻译，体现文化相关的教学法——在语言上*和*语境上都恰当的内容。一份翻译得完美无缺却无视本地语境和文化的内容，怎么仍可能辜负一个学习者？
 
 ## 引言
@@ -43,13 +43,13 @@ ai_assist:
 
 - **为低资源语言微调：**Nwogo 等（2026）在一个[[adaptive-learning]]平台内，[[multilingual-adaptive-learning-nigeria-2026|在一个精心策展的尼日利亚皮钦语语料上微调了一个指令微调的 LLM]]，并系统地分析了量化（4/5/8 位）在语义保真度与计算效率之间的权衡——显示低资源语言可以在现实硬件约束下被服务。另见用于[[self-regulated-learning|自我调节学习]]的[[bilingual-llm-lecture-companion-srl-2026|双语 LLM 讲义伴侣]]。
 - **语料与数据公平：**构建精心策展的语料（如尼日利亚皮钦语、经[[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]的印度知识体系）是让模型能用学习者自己的语言输出的一个反复出现的策略。
-- **语音优先与口头语境：**[[kutti-ai-voice-first-learning-companion|语音优先伴侣]]和[[structural-silence-underrepresented-language-ai-2026|结构性沉默分析]]针对的是基于文本的 AI 令代表性不足语言的使用者失败的那些语境。
+- **[[speech-and-voice-technologies|语音优先]]与口头语境：**[[kutti-ai-voice-first-learning-companion|语音优先伴侣]]和[[structural-silence-underrepresented-language-ai-2026|结构性沉默分析]]针对的是基于文本的 AI 令代表性不足语言的使用者失败的那些语境。
 
 ## 公平与教学法
 
 多语言 AI 必须超越翻译，体现[[culturally-relevant-pedagogy|文化相关教学法]]——生成在语言上和语境上都恰当的内容。对[[llm-cultural-relevance-k12|K-12 中 LLM 文化相关性]]和[[scaffolding-critical-engagement-genai-minority-students|少数族裔学生批判性地参与 GenAI]]的研究显示，语言和文化上的对齐塑造着学生是否真正受益。若不加处理，AI 中的单语偏见会加深[[digital-divide]]并损害泛[[global-south|南半球]]的[[equity-in-ai-education|公平]]。
 
-语码转换（translanguaging）是生成式聊天机器人新增的、此前的语言工具并不具备的可供性。在一项对 24 项研究的系统综述中，学习者会用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁：综述者把这种用法归类为一种新的子可供性，而非对既有可供性的重新包装（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
+语码转换（translanguaging）是生成式[[conversational-ai|聊天机器人]]新增的、此前的语言工具并不具备的可供性。在一项对 24 项研究的[[meta-analysis-systematic-review|系统综述]]中，学习者会用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁：综述者把这种用法归类为一种新的子可供性，而非对既有可供性的重新包装（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
 
 ## 评价偏见
 
@@ -67,7 +67,7 @@ ai_assist:
 
 ## 常见误解
 
-- **“目标语应当从第一天起就占主导。”** 在一项 **24 项研究的系统综述**中，学习者会**用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁**，综述者把这种用法归类为一种真正新的子可供性，而非一种变通。母语支持起的是脚手架作用，而不是回避。
+- **“目标语应当从第一天起就占主导。”** 在一项 **24 项研究的系统综述**中，学习者会**用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁**，综述者把这种用法归类为一种真正新的子可供性，而非一种变通。母语支持起的是[[scaffolding|脚手架]]作用，而不是回避。
 - **“AI 语言评估对多语言写作者有偏见。”** 在这里，偏见追随的是**人类基线而非模型**：对 **3 至 6 年级信息类写作**的基于 LLM 的比较判断与研究者的量规趋同（r = .59-.73），并显示出与人类评分者相同的模式。这并非绝对意义上的公平证据，而是模型没有在既有扭曲之上引入新扭曲的证据。
 - **“翻译质量式的输出才是有用的部分。”** 桥梁式用法是解释性的、情境化的，而不是替代性的。一个取代学习者自身产出的工具，移除了桥梁本应促成的练习。
 

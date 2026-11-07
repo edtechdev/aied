@@ -1,14 +1,14 @@
 ---
 title: 社会文化学习
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,17 +44,22 @@ ai_assist:
 
 ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的社会文化概念：学习者独立能做的事与借助帮助能做的事之间的空间。当教学瞄准这一区间时学习最有效——有足够的挑战推动发展，又有足够的支持使进步成为可能。它是[[scaffolding]]的理论基础：随着胜任力增长而撤出的、临时的、可调节的支持。在教育 AI 中，ZPD 框定了这个中心设计问题：一个[[intelligent-tutoring|AI 辅导]]者应提供多少支持，使学习推进而不至于把答案送出去——参见[[stanford-evidence-base-ai-k12-2026]]。
 
+机器制造的帮助可以落在这一区间之内。在一项覆盖四门数学学科、274 名[[adult-learning|成人学习者]]的随机研究中，ChatGPT 生成的解题提示带来了 17.00% 的前后测增益，而无提示组为 1.85%，人类导师撰写的提示为 11.62%；两种帮助条件在统计上无法区分（[[chatgpt-hints-human-tutor-learning-gains-2024|Pardos 与 Bhandari，2024]]）。错误率给这种等价性加上了限定：32% 的生成提示未通过质量检查，直到自洽性[[prompt-engineering|提示]]把三个代数科目的这一比例降到接近零、统计学一科仍为 13%。一个三次里错一次的"更有知识者"仍然是中介主体，这正是为什么在学习者据此建构之前，机器的贡献必须先被核查。
+
 ### AI 教育中的社会文化学习
 
 社会文化理论以若干不同方式塑造着 AIED 的[[research-methods-aied|研究]]：
 
 - **AI 作为中介主体。** 生成式 AI 使社会文化理论中中介手段与社会互动之间的区分变得复杂：它既中介活动*又*生成塑造互动的、对情境敏感且或然的贡献，却不具备意向性、社会成员资格或问责。Warschauer、Tate 与 Ritchie（2026）提出*中介主体*这一混合范畴，并推导出"人优先"的参与习惯（人类认知的首要性、有目的的[[student-engagement|投入]]、监督性主体性、认识论警觉、反思性[[self-regulated-learning|自我调节]]），以保全[[agency|学习者主体性]]。（[[generative-ai-mediational-agent-sociocultural-2026]]）
-- **对 AI 调节作用的分阶段说明。**[[ai-cognitive-partner-co-regulation-learning|人机共同调节的发展框架]]给 AI 四种角色——脚手架、元认知支持、外部记忆和决策伙伴——并按阶段放置：幼儿期的结构化外部调节、儿童中期与青春期的[[metacognition|元认知]]伙伴，以及成年期复杂认知上的合作者。
+- **对 AI 调节作用的分阶段说明。**[[ai-cognitive-partner-co-regulation-learning|人机共同调节的发展框架]]给 AI 四种角色——脚手架、元认知支持、外部记忆和决策伙伴——并按阶段放置：[[early-childhood-elementary-ai-education|幼儿期]]的结构化外部调节、儿童中期与青春期的[[metacognition|元认知]]伙伴，以及成年期复杂认知上的合作者。
 - **ZPD 校准的脚手架。**[[intelligent-tutoring|AI 辅导]]者应动态校准帮助，使之落在每个学习者的区间之内。[[stanford-evidence-base-ai-k12-2026]]显示，调到学习者水平的辅导者优于泛泛的帮助；[[adaptive-learning]]和[[golrang-propact-pair-programming-2026]]通过调节难度与提示把 ZPD 操作化；而像[[finkelstein-principled-ai-education-2025]]这样的有原则框架论证支持应随胜任力增长而撤出。
+
+- **离开区间的信号是意图，而不是深度。** 一个按决策点升级与淡出的辅导者，在涉及*另一个*决策的回合之后让步了 65.0%，是针对受支持决策的回合的两倍，而回复深度并没有排列出结果（[[adaptive-scaffolding-contingency-comet-tutor-2026|Hou 等（2026）]]）。撤出假定有一个会作答的学习者：采纳率从第一次询问后的 37.0% 降到第三次后的 21.8%，所以沉默并不是准备好的证据。
+
 - **第四个区间：模型知道什么。**[[scan-framework-task-assignment-generative-ai-2025|Tsim 与 Gutoreva（2025）]]扩展的是维果茨基的图示而非辅导回路，在 ZPD 上增加了一个*为[[generative-ai|GenAI]]所知*区间，并读出四个子区间来划分任务应被指派给谁：替代（没有任务特定知识，故由模型的通用能力承担）、辅助（部分知识，予以增强）、补全（有足够知识监督模型的输出）和不可谈判（足以独立完成，故委派增益甚微）。[[scaffolding|脚手架]]被表达为任务指派而非提示递送，而一个实时评价、反思和学习的[[metacognition|元认知]]回路，是使任务随时间在子区间间移动的东西。
 - **学徒制与共同体。** 社会文化观念支撑认知学徒制、示范、教练和淡出；实践共同体把学习框定为向一个共同体实践的更充分参与的移动。
 - **文化与[[governance|机构]]语境。** 与[[constructivist|建构主义]]相邻的社会文化脉络强调，文化维度塑造着什么算"知道"、谁是权威、努力意味着什么——见[[young-people-learning-generative-ai-rapid-review-2026|悉尼 PreK-12 快速综述]]的学习者—语境—文化框定。
-- **验证话语测量需要其话语被测量的青少年。** 与四名焦点学生一起重新语境化话语移动的定义，把 LLM 分类 F1 在 Claim 上提高 +0.104、Question 上提高 +0.23，且学生自己的解读与成人和模型框架分歧——这是基于文本分类的结构性限制，而非数据量问题（[[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio 等（2026）]]）。
+- **验证话语测量需要其话语被测量的青少年。** 与四名焦点学生一起重新语境化话语移动的定义，把 [[llm]] 分类 F1 在 Claim 上提高 +0.104、Question 上提高 +0.23，且学生自己的解读与成人和模型框架分歧——这是基于文本分类的结构性限制，而非数据量问题（[[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio 等（2026）]]）。
 
 ### 与认知负荷和元认知的联系
 
@@ -98,3 +103,7 @@ ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的�
 - [[stanford-evidence-base-ai-k12-2026]] — K-12 教育 AI 的斯坦福证据基础
 - [[young-people-learning-generative-ai-rapid-review-2026]] — 悉尼对 PreK-12 中 GenAI 的快速综述
 - [[ai-cognitive-partner-co-regulation-learning]] — AI 作为认知伙伴与共同调节
+
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM 撰写的提示在数学学习增益上与人类导师提示相当（Pardos & Bhandari 2024）
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 依据学习者回合的意图淡出，而不是依据回复有多深
+

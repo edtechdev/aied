@@ -1,7 +1,7 @@
 ---
 title: 家长与家庭
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ ai_assist:
 
 缺失的部分更为显眼。家长自己的叙述很罕见：[[k12-teachers-ai-companion-literacy-2026|Xiao 等人（2026）]]中的教师在设计上就把家长排除在样本之外，而出现的家长也只是作为女孩、从业者或教师之中的一个声音被访谈。这里没有任何直接证据说明家庭如何获知学校的[[educational-policy-ai|AI 政策]]、他们被告知了关于监测或披露的什么、或他们如何回应，家校协同只是被理论化而未被检验。ParaTutor 这类家庭辅导设计只在一个国家情境下以 23 组二人组被评估过，伙伴比较则只基于一所学校中的 19 名学生。
 
-2026 年的一项范围综述描绘了该领域已经走多远。[[llm-family-education-activity-theory-2026|Luo 等人（2026）]]通过活动理论分析了来自 6,540 条记录、19 个会场的 53 项 HCI 研究，发现文献集中于亲子互动，以及语言、[[ai-literacy]]和关系性学习，53 项研究中有 44 项（83%）设定在亲子构型中。对话式、具身化和空间化的系统从正在展开的互动情境中生成支持，LLM 重新分配教育劳动，而家庭和机构仍然负责解释输出并决定它们如何进入实践。综述所点名的缺口是持续性的[[personalized-learning|个性化]]、修补劳动，以及家庭如何协商权威与规则——这与本节从另一个方向记录的缺失是同一个。
+2026 年的一项[[meta-analysis-systematic-review|范围综述]]描绘了该领域已经走多远。[[llm-family-education-activity-theory-2026|Luo 等人（2026）]]通过[[activity-theory-aied|活动理论]]分析了来自 6,540 条记录、19 个会场的 53 项 HCI 研究，发现文献集中于亲子互动，以及语言、[[ai-literacy]]和关系性学习，53 项研究中有 44 项（83%）设定在亲子构型中。对话式、具身化和空间化的系统从正在展开的互动情境中生成支持，LLM 重新分配教育劳动，而家庭和机构仍然负责解释输出并决定它们如何进入实践。综述所点名的缺口是持续性的[[personalized-learning|个性化]]、修补劳动，以及家庭如何协商权威与规则——这与本节从另一个方向记录的缺失是同一个。
 
 **与其他页面的关系。** [[stakeholders]]是对整个利益相关方集合的简要概览，其中家庭被列为尚未深入覆盖的受众；本页就是这份深度。[[early-childhood-elementary-ai-education]]覆盖跨学校与家庭的低龄学习者的发展与[[pedagogy|教学法]]领域；本页则跨年龄跟随家庭，从学前游戏活动到中学作业。[[ai-use-disclosure]]覆盖学习者是否告知他人自己使用了 AI；本页覆盖的是相邻问题——这一信息是否传达到家中的成年人，以及家庭被告知了关于学校 AI 使用的什么。
 

@@ -1,7 +1,7 @@
 ---
 title: 幻觉风险
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ ai_assist:
 
 一项涵盖 125 项研究的综述给出了流行率与检测缺口的范围：幻觉率 10–40%，而医学生只有 44–55% 的时候能发现人工智能的错误（[[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]）。
 
+**输出之后的记忆扭曲。** 一项 2026 年的实验发现，一段误导性的 AI 摘要所做的超过了误导：它改变了 328 名成年人对一段他们看过的视频的记忆。读过误导性摘要的人中，之后只有 44.8% 正确识别出关键细节，而读过一致摘要的人为 83.6%；且当摘要被标注为人类撰写时，这一效应依然存在（[[sim-ai-summary-memory-distortion-2026|Sim、Eiger 与 Kohno，2026]]）。遗漏是配套审计中最常见的错误：全部 20 份摘要都含有错误，且 95% 遗漏了碰撞本身。该研究没有测试学生，但它说明为什么止于文本的幻觉检查是不完整的：文本消失之后，错误仍能停留在读者的记忆里。
+
 **评估中的幻觉**尤其有害。**[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** 发现，LLM在诊断认知技能时会编造学生笔迹中并不存在的证据引文，58.5% 的错误诊断伴随对证据可信度的虚假声明。**[[llm-fallacy-misattribution]]** 记录了 [[llm]] 推理中系统性的证据过度归因——模型在并不存在证据支持之处声称有证据支持。两者都与 [[ai-ed-evaluation]] 以及关于 [[assessment-validity]] 的 [[knowledge-tracing]] 关切相关。[[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] 补充了人工智能输出被评分而非被审查时可见的两种失效模式：经得起评分而存活的编造细节——一篇不存在的论文，带着一个无法解析的DOI，以及样本量被报为 378 而来源写的是 329——以及单次回应内部的自我矛盾，模型推理出正确选项却在结尾总结里报告了另一个。由于目前参考文献列表是按格式而非按准确性评分，这类错误可以拿到及格分数，同时误导用同一工具复习的学生。
 
 在一项评估设计试点中，[[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] 发现了经反复提示仍存活、需要大量学术修订的编造参考文献与不切实际的时间估计——这是教育者使用的起草工具中的幻觉，而非学生作业中的幻觉。
@@ -52,7 +54,7 @@ ai_assist:
 
 **被操纵而非被编造的证据。** [[automated-assessment|自动评分]]中一个相关的失效模式是输出被从外部挪动。[[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] 对一个常规AI评分工作流做了红队测试，发现藏在提交文件内的指令能在没有任何可见警告的情况下把一篇不及格论文的分数抬高：一种策略 9/9 次，另一种 17/18 次。两个细节关系到 [[trust-calibration|信任]]：一次被检出的注入通过静默禁用聊天被拦截，且从未向用户报告；另一次运行中工具宣称只遵循正式作业要求，同一文件重跑六次分数仍然被抬高。以这种方式得到的分数不带有任何 [[assessment-validity|效度]]主张，且由于操纵不留持久痕迹，[[human-in-the-loop-ai|教师]]仍是对抗那些设计上就不被看见的输出的唯一真实检查。
 
-针对此类操纵的防御自带权衡：一个多层护栏流水线让 46.34% 的注入成功，Prompt Guard 为 38.48%，而 NeMo Guardrails 拦截了每次攻击却标记了 16.22% 的良性学生提问——这种假阳性率在导师身上本身就是一种教学伤害（[[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]）。
+针对此类操纵的防御自带权衡：一个多层护栏流水线让 46.34% 的注入成功，Prompt Guard 为 38.48%，而 NeMo [[guardrails]] 拦截了每次攻击却标记了 16.22% 的良性学生提问——这种假阳性率在导师身上本身就是一种[[pedagogy|教学]]伤害（[[prompt-injection-defenses-educational-llm-tutors|Maiorano (2026)]]）。
 
 **辅导中的幻觉**直接影响学习。**[[yasir-llm-tutoring-agents-2026]]** 发现，LLM过度肯定错误解答，同时过度否定有效但非最优的推理——这些系统性失效会同时误导学生与教师。**[[eduframetrap-llm-sycophancy-educational-safety]]** 与 **[[eduguard-safe-rag-llm-tutor]]** 处理教育LLM的安全机制。这些风险与 [[pedagogical-safety]] 和 [[human-in-the-loop-ai]] 要求相关。
 
@@ -64,7 +66,7 @@ ai_assist:
 
 ## 常见误解
 
-- **“学生会注意到错误。”** 一项 **125 项研究的综述**把幻觉率定在 **10-40%**，而**医学生，高等教育中最严格筛选的学习者之一，只有 44-55% 的时候能发现 AI 错误**。远低于可靠水平的检出率意味着负担不能落在读者身上。
+- **“学生会注意到错误。”** 一项 **125 项研究的综述**把幻觉率定在 **10-40%**，而**医学生，[[higher-ed|高等教育]]中最严格筛选的学习者之一，只有 44-55% 的时候能发现 AI 错误**。远低于可靠水平的检出率意味着负担不能落在读者身上。
 - **“错误一出现就很明显。”** 一个诊断手写数学的 AI 可以**编造并不存在的证据引文，同时声称有信心**。失效不是一个看似合理但错误的答案，而是以确定性呈现的虚构支持，这是最难捕捉的一类，因为它读起来恰是一个仔细的读者会想要的那种证据。
 - **“没有引注的输出是一个格式问题。”** 在一门用 AI 生成读物取代商用教材的研究生课程中，**4,487 个记录页面里只有约 0.80% 带有 APA 式文内引注**。这是语料层面对来源的缺失，而不是偶发的遗漏，且意味着核验没有起点。
 - **“幻觉是更新模型就能解决的模型生成问题。”** 这一比率在 **125 项研究**中横跨 10-40%，这既是任务的属性，也是部署的属性，同样也是模型的属性。降低比率是真实的进步，但并不改变读者必须能够核查这一点。
@@ -85,6 +87,7 @@ ai_assist:
 - [[productive-failure]]
 
 ## 关联文章
+- [[sim-ai-summary-memory-distortion-2026]] — 一段误导性的 AI 摘要扭曲了成年人对一段视频的记忆，而 AI 或人类的标签并未保护他们
 - [[frontiers-gai-hallucination-dependence-2026]] — 把GAI对话标注为编造的，同时降低了信任与依赖
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索抬高了对 AI 输出的顺从，一些被引案例被错误归因或系虚构
 - [[ivory-psychology-assessment-integrity-2026]] — 可及格的学生作业内部出现的编造引注与自相矛盾的输出（Ivory et al. 2026）

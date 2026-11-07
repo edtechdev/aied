@@ -1,14 +1,14 @@
 ---
 title: 教育中的 AI 哲学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,8 +40,11 @@ ai_assist:
 - **心智与认知的本性。** 思维需要意识和身体吗？AI 能参与真正的认知过程吗？诸如**集合认知**这样的框架论证，AI 行使*功能能动性*——在认知过程中的真实因果效能——而无意识，且思维产生于动态的人—[[student-ai-interaction|AI 互动]]。（[[ensemble-cognition-philosophy-ai-education]]）[[distributed-cognition|分布式认知]]与延展心智论题对认知分布于系统之上提出了相关主张。
 - **什么是学习者？** 后人类主义哲学把学习者重新概念化为一个"后人类"实体，其认知过程真正混合，分布于[[biology-education|生物]]系统与人工系统之上。（[[elsayed-pedagogical-symbiosis-posthuman-learner]]）这挑战了"学习者是一个有边界的、自主的个体心智"这一假设。
 - **具身性与无身 AI 的限度。** [[embodied-learning|具身的]]与后认知主义哲学批判符号性的、无身的 AI 模型的主导地位，论证认知植根于情境性、涌现与感觉运动耦合，而当前的[[generative-ai|生成式 AI]]缺乏这些。（[[videla-embodied-ai-education-choreography]]）
+
+- **情感劳动作为机器心智的检验案例。**该领域关于 AI 能否教学的争论，常常归结为它能否*关怀*，而这个问题早在[[affective-computing|情感计算]]出现之前就已被辩论。[[khan-machines-emotional-labor-education-2026|Khan（2026）]]重构了 1950–1996 年的争论：Ziff 主张只有活着的生物才能字面地拥有感受，Smart 的身份理论与 Putnam 的行为判据对此作出回应，留下三种相互竞争的本体论而未决。他的结论是一项辩护负担，而不是一项不可能性主张——再现、模拟与模仿不足以确定情感劳动——这把负担放在了任何想把育人工作委托给系统的人身上。
+
 - **能动性、作者身份与意义。** 当 AI 中介解释与意义建构时，哲学追问作者身份、认识论[[agency]]与解释自主性如何被重构。（[[voicu-ai-interpretive-cognition-ssh-2026]]）
-- **AI 生成的科学对象的本体论。** 在化学中，AI 预测的化合物与滴定曲线占据一个"阈限的本体论空间"——在被经验证明之前既不完全假设也不完全真实——这使该学科从实在论转向一种建构主义观点，其中现实是人类与机器的合作（[[philosophy-experimentation-ai-chemistry-2026|Reyes 与 Regala（2026）]]）。
+- **AI 生成的科学对象的本体论。** 在[[chemistry-education|化学]]中，AI 预测的化合物与滴定曲线占据一个"阈限的本体论空间"——在被经验证明之前既不完全假设也不完全真实——这使该学科从实在论转向一种建构主义观点，其中现实是人类与机器的合作（[[philosophy-experimentation-ai-chemistry-2026|Reyes 与 Regala（2026）]]）。
 - **认知被动性作为一种认识论伤害。** Bai 与 Costa（2026）借助阿伦特关于思维是一种内向的、不可转移的活动的论述，论证提供现成工作的 GenAI 不只是外包了思维，而是预阻了思维，而布迪厄的场域与惯习把风险定位在制度结构之中（[[genai-chinese-higher-education-integrity-2026|Bai 与 Costa（2026）]]）。
 - **价值、正义与教育的目的。** 哲学分析考察 AI 驱动的教育是否服务于人的繁盛与教育正义，抑或它把学习工具化以服务于生产力。（[[avraamidou-ai-colonization-science-education]]）这与[[critical-pedagogy]]和[[ethics]]相连。
 - **"以人为中心"是一种人类中心主义话语，而非中立的伦理。** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang 与 Jin（2026）]] 解读 UNESCO、OECD 与《蒙特利尔宣言》文件，主张以人为中心的 AIED 承继了启蒙人文主义的排斥性，超人类主义保留了这些排斥，而这一标签可以为商业基础设施提供合法性。
@@ -119,3 +122,5 @@ ai_assist:
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — "以人为中心"的 AIED 被读作一种具有商业用途的人类中心主义话语（Wang 与 Jin 2026）
 - [[daoism-ai-education-philosophy-2026]] — 替代性 AI 哲学：作为教育中 AI 之方法的道家
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁回应？对生成式 AI 高等教育研究中能动性、认识论责任与问责的语料辅助话语分析
+- [[khan-machines-emotional-labor-education-2026]] — 机器能从事情感劳动吗？1950–1996 年的争论，以及为何模仿不足以确定关怀
+

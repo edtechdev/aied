@@ -1,13 +1,13 @@
 ---
 title: 终身学习
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_of: concepts/lifelong-learning
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -29,7 +29,7 @@ ai_assist:
 ## 值得思考的问题
 
 - 回想一下你在正规学校教育之外学到的最后一项新技能，无论是在工作中、在网上，还是自学。是谁决定了学什么、怎么学，以及你何时算“学完了”？人工智能会如何改变这一图景？
-- 本页的一个核心问题是自主性：当人工智能参与识别你的学习需求、设定你的目标，甚至生成内容时，你自己的学习中还有哪些部分真正是自我导向的？
+- 本页的一个核心问题是自主性：当人工智能参与识别你的学习需求、设定你的目标，甚至生成内容时，你自己的学习中还有哪些部分真正是[[self-directed-learning|自我导向]]的？
 - 正规教育把时间视为固定的，把课程视为有先后顺序的。本页提出“学习图谱”（Learnity graphs）：由相互关联的知识单元组成，学习者可以在整个生命历程中灵活地在其中穿行。把学习从固定顺序中解放出来，你会得到什么，又可能失去什么？
 - 人工智能既能支持成人学习者，也会改变成人必须不断更新的技能。如果人工智能持续重塑你所在的领域，你会投入培养哪些任何工具都无法直接给予的能力？
 - 终身学习常常被表述为个人的责任。但贯穿生命历程的学习机会同样是一个公平问题。作为成人，谁有时间、资源和支持来持续学习？人工智能又可能如何扩大或缩小这一差距？
@@ -43,7 +43,10 @@ ai_assist:
 - **成人学习的设计准则：**[[ai-adult-learning-guidelines-dis2026|AI-ALOE 研究所的研究]]综合了面向人工智能成人学习技术的、有实证依据的设计准则，强调实用且贴合情境的支持。
 - **人工智能引导的技能习得：**[[ai-guided-learning-audiovideo-2026|人工智能引导的音视频学习]]展示了人工智能如何为技能习得中“接触、理解、模仿”各阶段提供脚手架，并使媒体适配学习者。
 - **从固定课程到自适应结构：**[[learnity-graphs-lifelong-learning-framework-2026|学习图谱]]提出把固定的高等教育课程重新构想为相互关联的知识单元，学习者可以在整个生命历程中灵活穿行。
-- **自主性与自我导向：**[[andragogy-cognitive-delegation-genai-2026|成人教育学与认知委托]]在人工智能中介的认知委托条件下重新审视成人学习理论，追问当人工智能参与识别需求、设定目标和生成内容时，还有哪些部分是自我导向的。
+- **自主性与自我导向：**[[andragogy-cognitive-delegation-genai-2026|成人教育学与认知委托]]在人工智能中介的认知委托条件下重新审视成人[[learning-theories|学习理论]]，追问当人工智能参与识别需求、设定目标和生成内容时，还有哪些部分是自我导向的。
+
+- **成人想从这种委派中得到什么。**在美国三所大学对 60 名初筛成人学习者中 20 人的访谈中，学习者把 AI 描述为一个[[collaborative-learning|协作学习]]的智能体，他们从中学习、与之共同学习，而不是一个给答案的神谕。他们说，与其要一个完美的零错误系统，不如要一个始终留在回路中并适应自己的系统（[[kim-ai-andragogy-2026|Kim 等人，2026]]）。按这一证据，自我导向是成人期望留在互动之内、而不交给互动的东西，而这正是自主性问题所需要的设计目标。
+
 - **政策与社区：**[[ai-lifelong-learning-policy|终身学习政策中的人工智能]]与[[community-centered-ai-education-adults|以社区为中心的人工智能教育]]探讨成人人工智能学习的制度维度与公平维度。
 - **专业能力的再生成本身正面临风险。** 在 AI 暴露程度最高的美国职业中，22–25 岁劳动者的相对就业下降了 16%（2022 年 10 月—2025 年 9 月），而 35–49 岁者增长了超过 8%，且验证 AI 输出所需的深度专业能力，正依赖这一衰退所消除的入门级岗位（[[cognitive-commons-ai-expertise-regeneration|Lovett（2026）]]）。
 
@@ -102,3 +105,5 @@ ai_assist:
 - [[ai-lifelong-learning-policy]] — 终身学习中的人工智能：成人教育政策中的机遇与挑战
 - [[community-centered-ai-education-adults]] — 为成人共同设计以社区为中心的人工智能教育
 - [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：人工智能与专业能力的再生成
+- [[kim-ai-andragogy-2026]] — 成人学习者对 AI 作为成人教育学中协作学习智能体的看法（Kim 等，2026）
+

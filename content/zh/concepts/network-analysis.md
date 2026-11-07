@@ -1,13 +1,13 @@
 ---
 title: 网络分析（Network Analysis）
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,8 +49,8 @@ ai_assist:
 - **打开学习者—AI 互动的"黑箱"。** TNA 揭示学习者使用 AI 工具时所走行为的*过程*——循环与路径（例如在[[conversational-ai|聊天机器人]]支架的[[writing-education|写作]]中"修订循环"对"聊天循环"）——而不只是最终产出。([[penny-transition-network-analysis-efl-writing-2026]])
 - **跨群体比较认知结构。** ENA 显示不同群体如何不同地连接构念——例如[[metacognition]]如何与委托对人类推理在人机协作中共现，揭示不同的协作模式。([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **追踪 AI 素养与互动特征。** 对互动日志的 ENA 识别出[[llm|LLM]]使用的不同模式（迭代性策略细化对线性命令），区分学习者[[ai-literacy|熟练度]]和发展。([[tracing-genai-literacy-interaction-patterns]])
-- **分析话语与框架。** ENA 被应用于[[qualitative-research|质性]]和[[multimodal]]数据（如 YouTube 上关于教育中 ChatGPT 的框架），以揭示公共话语或学科话语的结构。([[youtube-frames-chatgpt-education]])
-- **补充自报与产物指标。** 由于网络方法使用观察到的行为数据，它们能暴露学习者所声称与其实际所做之间的差距——这是知识库反馈采用文献中一个反复出现的发现。
+- **分析话语与框架。** ENA 被应用于[[qualitative-research|质性]]和[[multimodal]]数据（如 YouTube 上关于教育中 [[generative-ai|ChatGPT]] 的框架），以揭示公共话语或学科话语的结构。([[youtube-frames-chatgpt-education]])
+- **补充[[self-report-measures|自报]]与产物指标。** 由于网络方法使用观察到的行为数据，它们能暴露学习者所声称与其实际所做之间的差距——这是知识库反馈采用文献中一个反复出现的发现。
 - **图结构作为验证量而非描述性摘要。** [[synthetic-educational-data-structural-fidelity-2026|Inoue 与 Yasutake（2026）]]追踪 β0——在固定欧氏阈值下学习者每周邻近图的连通分量数——以检验合成队列是否复现真实队列，偏好它是因为它只由图决定、不像模块度最大化那样需要优化或随机种子，且在七分之一到三分之一的学习者孤处一个分量时仍有定义。
 
 ## 方法学考量
@@ -77,7 +77,7 @@ ai_assist:
 
 ## 常见误解
 
-- **“网络分析因为它是计算性的所以客观。”** **编码是基础**：所有网络变体都依赖把原始数据（话语、事件、关系）可靠地编码为离散节点，而自动编码继承的是设定定义者的定义。可视化看起来像涌现的结构，而它的节点是解释性选择。
+- **“网络分析因为它是计算性的所以客观。”** **编码是基础**：所有网络变体都依赖把原始数据（话语、事件、关系）可靠地编码为离散节点，而自动编码继承的是设定定义者的定义。[[visualization|可视化]]看起来像涌现的结构，而它的节点是解释性选择。
 - **“网络结构的变化本身自动就是学习增益。”** 在一场有**二十名混合学科研究生**的案例讨论中，**规模为 3 的共享词项份额从 5.2% 升到 8.0%**，而**内容词元降到约 0.65 倍**。两项结构测量朝相反方向移动，因此“网络变了”在你说明沿哪一项测量、为何重要之前不是一个发现。
 - **“共享更多词项意味着更好的协作。”** 共享词项份额上升而内容词元多样性下降，与向更小词汇的趋同是一致的。共识与收窄在结构上相似，这就是该测量需要它所依据的内容的原因。
 

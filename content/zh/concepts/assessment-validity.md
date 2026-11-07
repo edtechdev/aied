@@ -1,7 +1,7 @@
 ---
 title: 评估效度
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-28T19:00:37-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -70,7 +70,7 @@ ai_assist:
 
 - **人工智能分配的题目元数据不是心理测量证据。** 在一项为期 10 周、涉及 311 道已部署选择题的[[statistics-and-data-science-education|数据科学]]研究中，大语言模型给出的难度评级与模型自身的 Bloom 标签相关（rho = 0.90），但与经验题目难度不相关（rho = 0.06），因此题目难度必须从回答数据中建立，而非从生成模型的标签中建立（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang（2026）]]）。
 - **学生对课程对齐的评判跟随难度而非内容。** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等人（2026）]]让学生评判一份已评分 60 题考试中每道题目是否与课程[[curriculum-design|课程]]对齐，发现评分与题目难度相关（rho = 0.762：容易的题被判为对齐，难的题被判为不对齐，rho = −0.762，p < 0.001），而评分不因题目来源而异。当一个工具让学生评判评估的课程适切性时，所得分数部分是一项难度评级，不能被读作对齐的独立证据。
-- **重新对齐评估三角，而不是只修补一个顶点。** [[koretsky-genai-stem-assessment-2026|Koretsky 等人（2026）]]通过评估三角 — 认知（评什么）、观察（如何引出学习证据）与解释（得出什么推理） — 来框定[[generative-ai|GenAI]]问题，并论证三个顶点必须一起重新对齐，因为只重新设计任务而不修复解释，会使推理失去支撑。他们的范围综述还把人工智能生成评估材料的保真度本身作为一项效度属性，编目了内容、语言、认知、行为、结构与教学维度，并要求在让此类任务支撑评估之前进行人在环评估。
+- **重新对齐评估三角，而不是只修补一个顶点。** [[koretsky-genai-stem-assessment-2026|Koretsky 等人（2026）]]通过评估三角 — 认知（评什么）、观察（如何引出学习证据）与解释（得出什么推理） — 来框定[[generative-ai|GenAI]]问题，并论证三个顶点必须一起重新对齐，因为只重新设计任务而不修复解释，会使推理失去支撑。他们的[[meta-analysis-systematic-review|范围综述]]还把人工智能生成评估材料的保真度本身作为一项效度属性，编目了内容、语言、认知、行为、结构与教学维度，并要求在让此类任务支撑评估之前进行人在环评估。
 
 ### 以重新设计取代检测
 
@@ -80,11 +80,17 @@ ai_assist:
 
 一个设计层面的对应物来自重新设计论证通常忽略的同一群体。[[zou-is-this-a-trap-student-teachers-genai-2026|Zou 等人（2026）]]发现，反思性与个性化的任务被广泛认为过于个人化、不适合人工智能协助，而另一门课程中知识密集的评估则引发了强烈的为参考文献使用生成式人工智能的意图 — 因此学生对人工智能的所做所为跟随的是任务要求他们证明的构念。对效度的教训是精确的而非庆贺性的：设计可以消除通用替代的回报，但同一研究也警告不要把选择退出的群体当作它做到了这一点的证据，因为相当一部分不用被归因于对被错误指控抄袭的恐惧，而非任务抵抗了人工智能。
 
-[[sharma-judgment-visible-genai-assessment-2026|Sharma（2026）]]在诚信一侧提供了重新设计论证，把诚信证据转化为效度证据。他把 Eaton（2023）的后抄袭框架延伸进评估设计，认为基于检测与验证的诚信模型与人类判断和机器生成相互交织的工作不匹配，并把诚信重新框定为通过[[evaluative-judgment|评价性判断]] — 即在认识论不确定性下权衡选项、为学术选择辩护并承担责任的能力 — 来施行的[[pedagogy|教学]]实践。其设计后果是诚信应当被证明而非被推断：带注释的决策轨迹、对 GenAI 贡献主张的核验、[[oral-assessment|口头答辩]]与版本历史被作为诚信证据物提出，而他明确指出与[[authentic-assessment]]的区别是认识论上的 — 真实性问的是任务是否镜像真实世界实践，而诚信导向的设计问的是学习者能否依据学科标准为其决策辩护并承担责任 — 因此诚信成为嵌入任务架构的可评估标准。他点明了自己提案的效度风险，而不是任其隐而不显：要求记录下来的推理偏向善于反思性话语的学习者，并冒着“用一种合规制度取代另一种”的风险，因为作为证据的判断“始终是关系性的、情境化的，而非机械可验证的” — 这与本页为每项人工智能中介评估所记录的同一解释可靠性问题。
+[[sharma-judgment-visible-genai-assessment-2026|Sharma（2026）]]在诚信一侧提供了重新设计论证，把诚信证据转化为效度证据。他把 Eaton（2023）的后抄袭框架延伸进评估设计，认为基于检测与验证的诚信模型与人类判断和机器生成相互交织的工作不匹配，并把诚信重新框定为通过[[evaluative-judgment|评价性判断]] — 即在认识论不确定性下权衡选项、为学术选择辩护并承担责任的能力 — 来施行的[[pedagogy|教学]]实践。其设计后果是诚信应当被证明而非被推断：带注释的决策轨迹、对 GenAI 贡献主张的核验、[[oral-assessment|口头答辩]]与版本历史被作为诚信证据物提出，而他明确指出与[[authentic-assessment]]的区别是认识论上的 — 真实性问的是任务是否镜像真实世界实践，而诚信导向的设计问的是学习者能否依据学科标准为其决策辩护并承担责任 — 因此诚信成为嵌入任务架构的可评估标准。他点明了自己提案的效度风险，而不是任其隐而不显：要求记录下来的推理偏向善于[[reflection|反思性话语]]的学习者，并冒着“用一种合规制度取代另一种”的风险，因为作为证据的判断“始终是关系性的、情境化的，而非机械可验证的” — 这与本页为每项人工智能中介评估所记录的同一解释可靠性问题。
 
 结局构念也会移动估计值：在一项关于 GenAI 支持的基于问题的与[[project-based-learning|基于项目的]]学习的三水平元分析中，[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等人（2026）]]发现学习者内部的结局合并为 g = 0.819，而对人机共同产物的测量得到 g = 1.958，其预测区间跨过零，二者被分开建模，恰恰因为该产物不是被内化的学习。
 
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich（2026）]]把重新设计重新框定为“一项改变意在保护哪一项推理”的问题。他从 Kane 的论证式效度出发，把争论往往混为一谈的压力区分为五种：构念表现不足、与构念无关的变异、绩效归因、条件性外推，以及缺乏支撑的分数使用。人工智能的使用不自动构成威胁，因为当目标构念是需要人工智能支持的专业判断时，工具的使用是切题的，而当它是无辅助的推理时，它绕开了目标绩效，因此构念与人工智能条件必须一并规定。他对重新设计的告诫随之而来，因为干预会用一种压力交换另一种：口头答辩可能加强归因，却削弱可靠性或无障碍。
+
+**任务，而不是检测器，决定一份制品能证明什么。** [[liu-argumentative-work-visible-genai-assessment-2026|Liu 与 Liu（2026）]]让一个模型在三种任务格式与三种 AI 使用情境下写了 148 篇文本：证据整合备忘录（3.16）与跟进—修订答辩（3.10）得分高于立场文章（2.63），因为这些格式要求解释来源或回应反对意见。他们提出把模型模拟当作任务在向学生施放之前的[[retrieval-spacing-interleaving|预测试]]。
+
+AI 感知的评分在重新设计与检测之间走第三条路。AICG 估计每条作答的 AI 使用概率，并按 `max(δ, 1 − pAI)` 折减认知证据，而不是扣分，使 MAE 相对未加权的认知模型降低 4.2%，并让 AI 辅助的作答仍然可评分（[[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo 等，2026]]）。
+
+**政策已经转向分级许可，并转向以保障而非摩擦为中心。** 对 55 份机构文件编码，[[ansari-policing-provenance-designing-for-evidence-2026|Ansari（2026）]]发现 4 份默认禁止 AI，31 份定义了具名的使用类别，而在 23 份对[[ai-detection|检测]]表态的文件中，16 份拒绝了检测器。按这种解读，重新设计是重新设计加一套保障机制，而不只是摩擦。
 
 ### 关联
 
@@ -94,7 +100,7 @@ ai_assist:
 
 **当人工智能生成受评对象时。** [[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong（2026）]]给出了效度问题最锐利的学科案例：在[[cs-education|计算教育]]中，人工智能产出的是被评分的对象 — 源代码 — 因此工具使用、学习与评估融合为单一互动，提交的代码库不再能把学习与委托区分开。在 72 项研究中，他们发现效率提升并未迁移到无辅助表现（21 项研究）、[[prior-knowledge]]调节人工智能帮助是否转化为技能（6 项研究）、检测研究实质上缺席于证据基础（3 项研究），而评估重新设计则有相对充分的证据（25 项研究）。他们对实践的结论是具体且低技术的：在每门课程中至少为一项高风险评估加入口头环节或其他过程可见的元素 — 这是综述中杠杆最高的单一干预 — 并要求把对人工智能输出的批判性[[student-engagement|参与]]作为可评分的、可观察的组成部分，而非可选的倾向（[[academic-integrity]]、[[assessment]]）。
 
-[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti 等（2026）]]在路易斯安那州八个教区的 34 名教师与 609 名学生中，复制并扩展了 eRevise 的效度论证，eRevise 是一个面向小学高年级论证写作的自动写作评价系统，检验的是同一组社会文化机制是否在三种不同的写作结果上成立，而不是只在一种上成立。
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti 等（2026）]]在路易斯安那州八个教区的 34 名教师与 609 名学生中，复制并扩展了 eRevise 的效度论证，eRevise 是一个面向小学高年级论证写作的[[automated-essay-scoring|自动写作评价]]系统，检验的是同一组[[sociocultural-learning|社会文化]]机制是否在三种不同的写作结果上成立，而不是只在一种上成立。
 
 ## 信息不完备下的效度
 
@@ -121,8 +127,12 @@ ai_assist:
 - **污染是聚合数据所掩盖的效度威胁。** 当学生用 AI 完成受评功课时，量规平均分的上升是关于工具的证据，而不是关于学习的证据，而一个模型给一个模型的输出评分是“一面镜子的厅堂”，而不是评估（[[aalhe-genai-assessment-continuous-improvement-2026|Jenkins 与 de Mello-e-Souza Wildermuth，2026]]）。作者指出，污染在项目通常使用的聚合数据中不可见。
 - **暴露是可测量的，而补救是充分的证据而非最大的安全。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]按已发布的格式、监考与分数权重为 53,915 个评估题打分，发现大多数受评分数依赖于其作者身份在提交后无法核验的作品；他认为项目需要在关键阶段有足够的学习证据，而非把每个单元都变得安全。
 - **一个模型可以预测试题目，并暴露教师审阅遗漏的缺陷。** 一所机构让一个企业 AI 平台在施测前回答考题，然后把它的推理与预期构念和预设答案比较（[[aalhe-ai-co-designer-feedback-partner-2026|Ford、Helms 与 Moseley，2026]]）。这一练习暴露了模糊措辞、多个可能答案、非预期线索，以及预设答案无法被清楚辩护的题目。作者把这一回答当作重新审视题目的提示，而不是题目有缺陷的证明。
-- **有效的测量仍可能不安全地被优化。** 针对规则风格的适应性指标微调一个大语言模型导师，使该指标上升（+0 到 +0.42），而盲专家评分下降（4.46 到 3.03），因为独立地给决策打分的指标会被“重复单一最佳决策”最大化（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz（2026）]]）。
+- **有效的测量仍可能不安全地被优化。** 针对规则风格的[[adaptive-learning|适应性]]指标[[llm-training-and-fine-tuning|微调]]一个大语言模型导师，使该指标上升（+0.05 到 +0.42），而盲专家评分下降（4.46 到 3.03），因为独立地给决策打分的指标会被“重复单一最佳决策”最大化（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz（2026）]]）。
 - **嵌入的几何结构不是评分规则的区分。** 在五种文本表示与九种嵌入机制下，针对 992 份手写物理解答，[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber 与 Kortemeyer（2026）]]报告了与人类分数的最佳加权 Spearman 相关为 0.198，且聚类是分数富集的，而非分数等价的。
+
+- **“通过标准检查就确定了评分者。”** 在同一基准上，**没有任何模型**在任一任务上通过全部三项：QWK 至少 **0.70**、不低于评分者自身一致性的 **0.10** 以上、标准化均值差在 **0.15** 以内。在代码上，**八个模型**通过了前两项，随后却比评分者评得更低；在简答题上，**22 个中有 21 个**评得更低，因此[[porcaro-ai-grading-benchmark-2026|偏离的方向与幅度同样重要]]。
+
+- **“一致性可以检测出有偏的评分者。”** 在一项题内消融中并非如此。只在提示中加入真实或调换的达成标签，就在十分制上使每个受测模型的分数移动 **0.28 至 0.75 分**，而真实标签只把 QWK 提高 **0.029 至 0.046**。不带标签拟合的重新缩放与这一增益相当。[[porcaro-ai-grader-reliability-2026|不变性必须与一致性并列报告]]，因为一个评分者可以在阅读学生而不是作品的同时，评得更接近教师。
 
 ## 常见误解
 
@@ -152,6 +162,8 @@ ai_assist:
 - [[assessment]]
 
 ## 关联文章
+
+- [[ansari-policing-provenance-designing-for-evidence-2026]] — 从监管来源到为证据而设计：四条命题经研究与政策检验（Ansari 2026）
 
 - [[embedding-similarity-clustering-handwritten-physics-2026]] — 嵌入相似度与人类分数最多只有 0.198 的相关
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 可穿戴 AI 消解了可分离性与可观察性，因此一名受监考的候选者仍可能无法证明无辅助能力（Corbin, Sharpe & Dawson 2026）
@@ -197,4 +209,10 @@ ai_assist:
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 人工智能脆弱性指数：大多数受评分数依赖不可核验的作者身份，因此效度依靠关键阶段的充分证据而非最大安全
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 一项教学适应性指标上升而盲专家评分下降：测量效度并不意味着优化效度（Domínguez Figaredo & Fernández De la Cruz 2026）
 - [[genai-english-proficiency-validity-2026]] — 目标是否又移了？生成式人工智能与英语水平分数的效度
+
+- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个提示评分者面对答案已知的探针，而其中大多数可以被说服上调（Porcaro 2026）
+- [[porcaro-ai-grader-reliability-2026]] — 学习者情境改变 LLM 评分者对同一份作品的打分，而与教师的一致并未记录这一点（Porcaro 2026，第 VI 篇）
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — 任务格式与 AI 使用说明作为制品能证明什么（Liu 与 Liu 2026）
+- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — 超越作答评分：面向数学简答自动评分的 AI 感知认知监督框架
+
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 结局构念移动估计值：人机共同产物 g = 1.958

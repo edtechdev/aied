@@ -1,7 +1,7 @@
 ---
 title: 小组作业
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -86,11 +86,11 @@ ai_assist:
 
 ### 精致产物的认识论风险
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]]概念化了学习者用 AI 产出精致知识成果时认识论努力下降的风险——社会认知一侧的自动化偏见，另一侧由完成品诱发的认识论闭合。补救之道是把 AI 结构化为一个保留冲突的论证伙伴或挑战者。反向的例证来自[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer 等人]]，他们发现当 LLM 充当批评伙伴、学生主动反驳其主张时，学习者表现得像批判性消费者，保存而非交出批评中的认知冲突。一个给答案的队友与一个挑战型伙伴之间的差别，决定了带 AI 的小组作业是建构思考还是绕过思考。
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]]概念化了学习者用 AI 产出精致知识成果时认识论努力下降的风险——社会认知一侧的[[automation-bias|自动化偏见]]，另一侧由完成品诱发的认识论闭合。补救之道是把 AI 结构化为一个保留冲突的论证伙伴或挑战者。反向的例证来自[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer 等人]]，他们发现当 LLM 充当批评伙伴、学生主动反驳其主张时，学习者表现得像批判性消费者，保存而非[[cognitive-surrender|交出]]批评中的认知冲突。一个给答案的队友与一个挑战型伙伴之间的差别，决定了带 AI 的小组作业是建构思考还是绕过思考。
 
 ### 课堂层面的非评价性支持
 
-[[breideband-community-builder-cobi-2026|CoBi]]检测"鼓舞人心"的小组话语（尊重、公平、共同体、推动思考前进），并返回非评价性的、课堂层面的可视化——刻意不提供学生或小组层面的反馈以保护[[privacy]]与[[trust]]。学生偏好[[qualitative-research|质性]]可视化（一棵有机生长的树）胜过[[quantitative-research|量化]]可视化（一张雷达图）。就小组作业的关系维度而言，课堂层面的聚合反馈支持共同体建设，而个体评分会让人感到被监视。
+[[breideband-community-builder-cobi-2026|CoBi]]检测"鼓舞人心"的小组话语（尊重、公平、共同体、推动思考前进），并返回非评价性的、课堂层面的[[visualization|可视化]]——刻意不提供学生或小组层面的反馈以保护[[privacy]]与[[trust]]。学生偏好[[qualitative-research|质性]]可视化（一棵有机生长的树）胜过[[quantitative-research|量化]]可视化（一张雷达图）。就小组作业的关系维度而言，课堂层面的聚合反馈支持共同体建设，而个体评分会让人感到被监视。
 
 ## 设计启示
 

@@ -1,13 +1,13 @@
 ---
 title: 知识图谱
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,10 +45,13 @@ ai_assist:
 - **[[cognitive-diagnosis]]框架**如 [[xie-hillm-cd-2026|HiLLM-CD]] 用LLM从教育文本构建概念树，免除了人工标注。
 - **以知识图谱增强的辅导：** [[quantum-education-its|ITAS]] 使用一个量子概念知识图谱（带显式的前置关系）来驱动一个多智能体辅导系统，遍历图谱为反直觉材料选择下一个主题。
 - **课程与课程建模：** [[coursegraph-cs-course-comparison-2026|CourseGraph]] 用图表示比较跨院校的CS课程结构；[[learnity-graphs-lifelong-learning-framework-2026|Learnity图]]对[[lifelong-learning|终身学习]]路径进行建模。
-- **前置关系学习：** [[proprl-prerequisite-relation-learning|ProPrL]] 学习概念间的前置关系，把知识图谱所编码的边形式化。
+- **前置关系学习：** [[proprl-prerequisite-relation-learning|ProPrL]] 学习概念间的[[recommender-systems-and-learning-paths|前置关系]]，把知识图谱所编码的边形式化。
+
+- **可学习的前置发现取代专家先验。** [[xu-graph-knowledge-tracing-survey-2026|Xu 等人（2026）]] 的一项综述综合发现，基于图的追踪器可以在训练中从作答数据中学习前置结构，取代专家手工制定的先验。GKT 端到端地参数化一个可学习的邻接矩阵，SKT-L 在训练中学习前置关系，PKT 施加 L1 正则化以恢复稀疏的前置图，并用 F1 分数对照真值结构加以评估，而 PSI-KT 的变分贝叶斯框架推断出的有向前置图，比基线模型更贴合人工标注的前置关系。
+
 - **知识缺口检测：** [[knowledge-gap-detection-ai-tas|知识缺口检测]] 在AI教学助手中使用基于图的推理，识别学习者缺少基础概念之处。
 - **[[multimodal|多模态]]与可解释的推理：** [[multimodal-knowledge-graph-educational-reasoning|多模态知识图谱]]把图结构延伸到跨内容模态；[[fair-explainable-edu-recommendations|公平且可解释的推荐]]把知识图谱嵌入与序列建模相结合（一种混合的HKG-GRU框架）。
-- **面向资源推荐的教学结构化图谱：** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu、Sun 与 Song（2026）]]把每个教学资源实体分解为四个教学维度（教学语境、认知层级、技术特性、文化适应性），在这些维度上计算依赖用户的语义相似度，并通过一个感知能力与进度的系数把它与协同过滤融合——把教学结构直接编码进推荐信号，而非把资源当作消费品对待。
+- **面向资源推荐的教学结构化图谱：** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu、Sun 与 Song（2026）]]把每个教学资源实体分解为四个教学维度（教学语境、认知层级、技术特性、文化适应性），在这些维度上计算依赖用户的语义相似度，并通过一个感知能力与进度的系数把它与协同过滤融合——把[[pedagogy|教学]]结构直接编码进推荐信号，而非把资源当作消费品对待。
 - **基于本体的知识库：** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova（2026）]]提出一种扎根于描述逻辑的分层混合知识库架构，用一个**被映射的本体系统**取代经典ITS的单本体模型——增加了过程性（基于规则）、概率/模糊以及机器学习提取的隐式知识——外加一个用于描述、发现与复用教育本体的元数据框架。
 - **[[scaffolding|支架]]与写作：** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] 与 [[visual-query-tracer-declarative-logic-learning|可视化查询追踪]]把基于图的结构应用于叙事起草与声明式逻辑学习。
 - **人工策展的文学图谱，以及一次审计所揭示的：** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] 对文学前提作图——1,455条公理记录、指向149部作品的1,464条映射、472条带类型的关系——由[[llm|语言模型]]提出候选表述，再由人工策展者选取并加以落实。其重新计算的审计与它的结构同样有教益：每个端点都可解析，且不存在重复或自链接，然而1,455条公理中有1,448条恰好映射到一部作品（因此跨作品复用很稀疏），语境分类法无法区分它的两种语境类型，且没有来源记录留存，使这一快照无法重建自身的流水线。结构有效性不等于解释质量，而一个没有来源信息的策展图谱既无法被审计，也无法被刷新。

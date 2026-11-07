@@ -1,7 +1,7 @@
 ---
 title: 评估
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 connected_resources: [idstack, lesson-md, master-instructional-design]
 translation_of: concepts/assessment
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,7 @@ ai_assist:
 - **真实且基于过程的任务**，使人工智能的使用可见并被评估。[[authentic-assessment|真实性评估]]——检视学生在有价值的、真实的任务上的表现——是对人工智能挑战的主要回应：任何[[llm|LLM]]能可信地模拟的任务都会失去其效度，因此真实性必须围绕实时的[[collaborative-learning|协作]]、数字与社会贡献以及个人意义建构来重新设计。这与[[zhan-boud-du-authentic-assessment-scoping-review-2025|真实性评估的设计框架]]、[[authentic-products-authenticated-processes-2026|真实制品与被认证的过程]]，以及[[tool-invariant-framework-agentic-ai|过程的工具不变性评估]]相关联。
 - **扎根于效度证据的负责任评估设计**（[[responsible-assessment-ai-era-stanford-2026|负责任评估]]）
 - **由评估目标推导的任务层面人工智能许可：**[[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]展示了先于[[educational-policy-ai|人工智能政策]]的评估设计工作——清点一个项目中的每一项任务，指明在评估什么、对照哪个目标，并据此逐任务许可或禁止人工智能（头脑风暴与图像策展被允许；编写学习目标与幻灯片设计不被允许）。同一项对齐练习还兼作对该评估所支撑的推论的检查，因为它迫使教师说出一个分数意在保证何种表现（[[assessment-validity|评估效度]]）。
-- **超越语言模式的评估：**Jiang 等（2026）为第二语言教师定义了多模态评估素养，即唤起跨语言、视觉、听觉、手势与空间模式作答的任务所需的知识、价值与胜任力。一个为期一年的、有 30 位香港英语教师参与的项目，把评估策略的知识从 3.13 提高到 5 分制下的 4.15（partial η² = 0.571），把支持学生的胜任力从 3.05 提高到 3.98（0.482），而三个价值子域全部持平。教师自身的经验为框架补充了两个维度：在相互竞争的课程优先级面前维持这一实践，以及批判性地动用生成式人工智能（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 等（2026）]]）。
+- **超越语言模式的评估：**Jiang 等（2026）为[[language-learning|第二语言]]教师定义了[[multimodal|多模态]]评估素养，即唤起跨语言、视觉、听觉、手势与空间模式作答的任务所需的知识、价值与胜任力。一个为期一年的、有 30 位香港英语教师参与的项目，把评估策略的知识从 3.13 提高到 5 分制下的 4.15（partial η² = 0.571），把支持学生的胜任力从 3.05 提高到 3.98（0.482），而三个价值子域全部持平。教师自身的经验为框架补充了两个维度：在相互竞争的课程优先级面前维持这一实践，以及批判性地动用生成式人工智能（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 等（2026）]]）。
 - **共同作者身份与声明**作为评估契约的一部分
 - **对交互而非制品评分的基于过程的量规标准。**[[rubrics-genai-process-based-assessment-2026|Oviedo 与 Díaz（2026）]]把 Biggs 的 3P 模型读作三个关键的评分维度：人的能动性与批判性监督、与[[prompt-engineering|提示工程]]相连的对话式支架，以及扎根于[[academic-integrity|诚信]]与透明性的认知主权，并论证一份完成的文件不再携带关于谁的推理产出它的信息。
 - **作为胜任力的生产**——评价学习者指挥工具并产出专业水准作业的能力（[[competency-based-education-genai-production-2026|基于胜任力的教育]]）
@@ -93,7 +93,7 @@ ai_assist:
 - **诚信从检测转向设计：**对评估中人工智能最稳健的回应，是设计那些人工智能使用被期待、被声明并被细察的任务。
 - **创新实践可以同时应对多个问题。**[[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]主张，一套五项相互强化的实践——[[authentic-assessment|真实性评估]]、自我与[[peer-assessment|同伴评估]]、重评、[[mastery-learning|基于标准的给分]]与不给分——若与“为了学习的评估”范式对齐，就能对抗传统、重终结性、常模参照给分的伤害（表层学习、被侵蚀的[[motivation|内在动机]]、压力与焦虑、不公平，以及被损害的[[academic-integrity|诚信]]）。他们发现采用在不同领域不均衡——自我与同伴评估占主导，而聚焦给分的创新仍处边缘——并敦促教育者更主动、更互惠地投入评估与给分创新，辅以渐进式的试验与[[governance|机构]]支持。
 
-- **人工智能中介的评估正在多样化。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]表明，一个 LLM 增强的[[conversational-ai|对话智能体]]降低了学生在基于表现的评估中的焦虑；[[asynchronous-oral-assessment-2026|Pentland（2026）]]发现异步口试提供了更高的参与，并被感知为与专业相关；[[graph-its-adaptive-algorithms-2026|基于图的智能导学系统]]用自适应的知识状态追踪为评估提供信息。
+- **人工智能中介的评估正在多样化。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]表明，一个 LLM 增强的[[conversational-ai|对话智能体]]降低了学生在基于表现的评估中的[[anxiety-and-stress|焦虑]]；[[asynchronous-oral-assessment-2026|Pentland（2026）]]发现异步口试提供了更高的参与，并被感知为与专业相关；[[graph-its-adaptive-algorithms-2026|基于图的智能导学系统]]用自适应的知识状态追踪为评估提供信息。
 
 ## 常见误解
 

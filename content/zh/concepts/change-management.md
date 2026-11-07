@@ -1,7 +1,7 @@
 ---
 title: 变革管理
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 
 变革的一个反复出现的障碍是自上而下的政策意图与课堂现实之间的差距。[[genai-policies-higher-ed-computing|比较政策分析]]发现，尽管 63% 的美国 R1 大学政策鼓励使用 GenAI，一半的计算机课程大纲却完全禁止它，把教师留给不一致的本地规则。类似地，[[ai-uk-higher-education-policy-2026|英国高等教育政策评审]]记录了研究密集型与教学主导型机构之间的分歧，国家指导因缺乏具体性和执行力而受到批评；而 [[institutional-governance-ai-universities|机构治理分析]]显示，校级政策强调数据安全与风险缓解，而 [[k-12|学校]]层面的政策（如果存在的话）聚焦教学法——这是一种结构性错位，未达认证对 [[curriculum-design|课程]]、政策、评估和基础设施统一整合的期望。
 
+一篇针对一项护理研究的公开回应把分析单位说清楚了：[[shankar-institutional-ecosystems-ai-nursing-2026|Shankar（2026）]] 论证，像 [[tpack]] 这样的框架捕捉的是个体教育者，却把机构留在了模型之外。用实施科学的视角来读，采用同时取决于四个层面：干预本身、内部组织环境、外部政策环境，以及参与其中的个人。具体的提议是把实施研究整合框架（Consolidated Framework for Implementation Research）操作化为一份准备度清单，在采用任何工具之前覆盖领导层参与、可用基础设施与教师能力——这就把问题从"谁需要培训"移到了"组织是否准备好部署"。
+
 ## AI 教育研究中的变革管理
 
 学术研究在若干变革管理杠杆上趋同。**治理框架**提供共识驱动的模板：[[crompton-governing-genai-higher-ed-delphi-2026|全球德尔菲研究]]提出了一个八领域的 GenAI 治理框架（学术诚信、合乎伦理的使用、[[privacy]]、公平获取、素养、整合、[[human-in-the-loop-ai|人的监督]]、机构支持），外加一个六部分评审机制以使政策保持时新，把政策定位为相互关联的机构生态中的赋能结构。**前瞻性领导力**是互补的线索：[[baroudi-anticipatory-governance-ai-higher-ed-2026|范围综述]]发现，机构必须从被动反应转向以预见驱动的治理，赋能型与分配型领导力会提高采用——然而尽管 49% 的机构把 AI 视为战略重点，只有 7% 设立了高级 AI 领导岗位。
@@ -48,7 +50,7 @@ ai_assist:
 **机构转型案例研究**展示这些杠杆在实践中如何展开。[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] 分析了岭南大学在四个维度上的战略变革——通过 AI 进行教学升级、优先发展不可替代的人类胜任力、课程更新、伦理/文化价值的保留——说明一所历史悠久的老牌机构如何能在不放弃自身身份的情况下管理 [[generative-ai|GenAI]]驱动的变革。它把这种转型框定为智识性的而非技术中心论的，为机构领导者提供了一个分阶段模型，在推行 AI 素养的同时保全人文使命。
 
 **学校系统实施证据**把问题从采用哪个产品转向它如何被使用。[[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]]的实地工作——7 个州 16 个学校系统中的 32 间教室——发现同一个产品落地得好或坏，取决于教师如何框定目的、如何查看仪表盘、如何根据它的报告行动；在缺少常规和明确的"范围与序列"位置之处，十分钟的活动被拉长成一整节课。在采用过程中指定了教师行动的产品，被使用得更接近其预期方式，且教师需要持续的辅导而非一次性铺开；在领导者熟悉一个产品的地方，教师更频繁地采取预期行动。
-**可持续性是组织的属性，而非工具的。** 对加州州立大学北岭分校一个非生成式 AI 短信聊天机器人的四年随机评估，把持久性追溯到一处行政归属（本科生学习办公室与注册主任办公室的联合监督）、一位为统一口吻撰写每轮活动的传播专员，以及消息组合中足以吸收 COVID-19 冲击的灵活性——而为定向外展进行的跨办公室数据共享，其负担之重使定向活动在年度总量中的占比从 36% 跌到 6%（[[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]]，一篇工作论文，其实施发现基于系统观察与管理者讨论而非试验）。其投入结果强化了同一教训：四年间年度选择退出率从未超过 4%，作者将其读作由机构如何调整实施所维持的接受度，而非技术本身。
+**可持续性是组织的属性，而非工具的。** 对加州州立大学北岭分校一个非生成式 AI 短信[[conversational-ai|聊天机器人]]的四年随机评估，把持久性追溯到一处行政归属（本科生学习办公室与注册主任办公室的联合监督）、一位为统一口吻撰写每轮活动的传播专员，以及消息组合中足以吸收 COVID-19 冲击的灵活性——而为定向外展进行的跨办公室数据共享，其负担之重使定向活动在年度总量中的占比从 36% 跌到 6%（[[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]]，一篇工作论文，其实施发现基于系统观察与管理者讨论而非试验）。其投入结果强化了同一教训：四年间年度选择退出率从未超过 4%，作者将其读作由机构如何调整实施所维持的接受度，而非技术本身。
 
 **评估改革**是变革管理的主战场。[[ai-assessment-scale-reform|AI 评估量表研究]]显示，框架实施受部门不一致、工作负荷压力和不确定性阻碍，工作人员把这一过程描述为"有点混乱和疯狂"。[[ethical-ai-higher-ed-game-theory|协调博弈模型]]对"仅靠政策声明为何失败"给出了正式解释：学生的 AI 使用是一个集体规范形成过程，对反思性评估激励做小而校准精准的调整，可以触发整个群体快速转向负责任的使用，而薄弱或错位的激励会让机会主义行为存续。这支持以教学法为主导的治理，而非监控。[[ai-adaptation-gap-higher-education-2026|AI 适应差距调查]]增加了一个 [[stakeholders|利益相关者]]维度：学生报告的 AI 使用强度和感知有用性高于教师和行政人员，而后者报告更强的 [[academic-integrity|学术诚信]]担忧——且感知有用性驱动 [[trust]]（β = 0.402）的强度超过机构政策清晰度（β = 0.223）。
 
@@ -58,7 +60,7 @@ ai_assist:
 
 AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结构化框架给机构提供了一条从被动危机管理走向主动、参与式治理的路径；[[crompton-governing-genai-higher-ed-delphi-2026|德尔菲共识]]与 [[baroudi-anticipatory-governance-ai-higher-ed-2026|前瞻性治理]]都支持把 [[ai-literacy]]和 [[ethics]]当作跨领域的机构能力，而非孤立的规则。**负面**来看，碎片化的采用会扩大既有的差距：[[adarkwah-genai-unesco-policy-2026|UNESCO 框架分析]]对 30 所领先大学的分析发现，核心伦理与 [[governance]]原则被广泛拥抱，但 [[inclusive-learning|包容性]]、公平和 [[sustainability]]（互联网接入、性别均等、环境影响）常被忽视——且国家层面的 AI 准备度排名并不能预测稳健的机构政策。[[league-ethical-governance-student-data-2026|LEAGUE 框架]]把这一关切延伸到 [[learning-analytics]]，主张治理必须超越合规（FERPA/GDPR），走向合法、公平、[[agency]]、效用和设计即伦理，以透明且具教育意义的方式评审学生数据实践。
 
-在战略跑在基础设施之前的机构里，这项工作会层层加码：两所南非历史上处于劣势的机构的学术发展者把 AI 战略称为"表演多于实践"，该论文坚持把数字不平等——一个分配性问题——与算法殖民性区分开来，后者是一个即便在完全接入之后依然存续的认识论问题（[[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]）。
+在战略跑在基础设施之前的机构里，这项工作会层层加码：两所南非历史上处于劣势的机构的学术发展者把 AI 战略称为"表演多于实践"，该论文坚持把[[digital-divide|数字不平等]]——一个分配性问题——与算法殖民性区分开来，后者是一个即便在完全接入之后依然存续的认识论问题（[[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]）。
 
 **对于 [[administrator|管理者]]和 [[educational-policy-ai|政策制定者]]**，证据支持参与式治理、基础设施投资和能力建设，而非抱负式战略文件；支持把国家政策转化为具体的教师支持，而非发布自上而下的命令。**对于教师**，变革管理意味着从采用者转变为探究驱动的实验者，让 [[pedagogical-partnerships|学生作为伙伴]]参与进来，把改革锚定在持久的教学法原则上，而非可能在几个月内过时的工具——但有一项告诫：专业发展必须瞄准完整的设计周期（需求评估、反馈），而不仅仅是工具使用，正如 [[dot-framework-survey-2026|DOT 框架调查]]所证明的。
 

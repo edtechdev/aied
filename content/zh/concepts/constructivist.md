@@ -1,7 +1,7 @@
 ---
 title: 建构主义
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,9 @@ ai_assist:
 这一模式在整个领域普遍存在：
 
 - 当生成式AI替学生完成写作、推理或代码时，学习者就丧失了该任务本应培养的建构性思维过程 —— 这是[[cognitive-offloading]]与[[cognitive-offloading|过度依赖]]的核心关切。([[generative-refusal-ai-tools-for-thought]])
+
+- 这种损失如今是可以测量的，而且它跟随的是作业本身而非工具。在 26,811 名中国中学生中，生成式 AI 使作业分数提高 18%、完成时间缩短 30%，而 [[summative-assessment|闭卷考试]] 分数在六个月内下降 20%。下降集中在约 81% 的用户身上，他们的完成时间表明作业被外包；而把作业时间保持在与非用户相当水平的学生，学习效率并未受损（[[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu（2026）]]）。预测学习的变量不是 AI 使用，而是学习者是否仍然亲自完成了建构。
+
 - 强调自适应反馈与效率的AI实现，往往服务不足建构主义所蕴含的学习者能动性、批判性反思与自主决策目标。([[ai-vocational-education-training-review]])
 
 ### 命名陷阱：生成式AI的输出不是生成性学习
@@ -164,3 +167,6 @@ ai_assist:
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution：模拟学生认知演化的生成式智能体
 
 - [[synthetic-position-self-authorship-2026]] — 模拟的AI对立立场排练对话的形式，却扣留了迫使修订的反抗
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 学习惩罚：作业分数上升 18%，闭卷考试下降 20%，集中在作业外包者身上
+

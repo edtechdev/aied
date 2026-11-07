@@ -1,7 +1,7 @@
 ---
 title: 探究式学习
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## 探究式学习在知识库中的呈现
 
-**AI 作为共同探究者。** 一项关于 ChatGPT 在 STEAM 探究式学习中应用的[[meta-analysis-systematic-review|系统综述]]（[[jiang-chatgpt-inquiry-steam-review-2026]]，24 项研究）发现，ChatGPT 主要用于概念化、调查与讨论阶段——作为学习工具、辅导者、学习同伴、领域专家与[[teacher-role|教学]]助手——改善了表现、[[critical-thinking|批判性思维]]、[[student-engagement|投入]]与动机，同时在输出被当作权威时带来过度依赖、幻觉与肤浅结论的风险。
+**AI 作为共同探究者。** 一项关于 ChatGPT 在 STEAM 探究式学习中应用的[[meta-analysis-systematic-review|系统综述]]（[[jiang-chatgpt-inquiry-steam-review-2026]]，24 项研究）发现，ChatGPT 主要用于概念化、调查与讨论阶段——作为学习工具、辅导者、学习同伴、领域专家与[[teacher-role|教学]]助手——改善了表现、[[critical-thinking|批判性思维]]、[[student-engagement|投入]]与动机，同时在输出被当作权威时带来过度依赖、[[hallucination-risk|幻觉]]与肤浅结论的风险。
 
 **提出问题作为起点。** 一项有 97 名三年级学生参与的准实验（[[dai-chatbots-problem-posing-primary-2026]]）显示，生成式 AI[[conversational-ai|聊天机器人]]在科学问题提出上显著优于搜索引擎，提升了问题质量，并产生了整合度更高的认识论[[network-analysis|网络]]，同时降低了认知负荷。
 
@@ -48,19 +48,23 @@ ai_assist:
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos（2026）]]在一项三组气候研究中把 AI 的贡献从探究本身中分离出来：AI 辅助的探究在决策上超过仅有探究的同组（d = 0.69），在监测与自适应管理上增益最大（d = 1.37），而基础数据收集在所有条件上同等改善。
 
-**[[equity-in-ai-education|公平]]与情境。** 一个概念框架把生成式 AI 的共同设计与开放教育实践桥接起来，以在资源不足的情境中支持探究引领的 STEM 教学，使用 AI 生成的、[[multilingual-learning|多语言的]]、情境上相关的[[simulation|模拟]]。
+**[[equity-in-ai-education|公平]]与情境。** 一个概念框架把生成式 AI 的共同设计与[[open-education|开放教育实践]]桥接起来，以在资源不足的情境中支持探究引领的 STEM 教学，使用 AI 生成的、[[multilingual-learning|多语言的]]、情境上相关的[[simulation|模拟]]。
 
 **AI 搭建脚手架的证据比较。** [[ai-information-extraction-undergraduate-thesis-2026|An 及同事（2026）]]展示了一个 AI 驱动的信息抽取系统如何把本科生的文献综述从摘要转向**证据组织与比较**——学生从孤立阅读转向跨研究比较与基于证据的论证，以支持研究型学习与论文完成。这具体说明了[[generative-ai|AI]]如何在[[stem-education|STEM]]本科研究中为探究过程搭建脚手架。
 
 ## 为何探究式学习对 AI 整合重要
 
-IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天然归宿：学生*与* AI 一同学习，把它当作伙伴，而非*从*它学习，把它当作替代品。本知识库的证据汇聚到一个核心张力上——AI 能降低信息检索与问题形成的摩擦（减少[[cognitive-offloading|认知负荷]]并促成更深的[[metacognition|反思]]），但没有设计脚手架，它就有过度依赖与绕过高阶认知的风险。促进者的角色、脚手架的设计、以及评价技能的显性教学，是决定 AI 深化还是排挤探究的杠杆。
+IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天然归宿：学生*与* AI 一同学习，把它当作伙伴，而非*从*它学习，把它当作替代品。本知识库的证据汇聚到一个核心张力上——AI 能降低信息检索与问题形成的摩擦（减少[[cognitive-offloading|认知负荷]]并促成更深的[[reflection|反思]]），但没有设计脚手架，它就有过度依赖与绕过高阶认知的风险。促进者的角色、脚手架的设计、以及评价技能的显性教学，是决定 AI 深化还是排挤探究的杠杆。
+
+有一项研究用 AI 取代了促进者，而不是在促进者旁边加一个工具。在一门为期四周的药理学课程中，136 名二年级医学生被分为促进者主导与 AI 主导的问题式学习两组。两组在前测/后测选择题上都有显著提升，组间差异不显著（p = 0.474），但促进者主导组在批判性思维上得分更高（14.75 对 13.09，p < 0.001），在[[group-work|小组评估]]量规上也更高（26.51 对 24.74，p = 0.035）（[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty 与 Rao，2026]]）。探究的结果按类型分化：内容知识经受住了这一替换，而推理过程没有——这正是“促进者是杠杆”的含义。
 
 ### 生产性失败与探究
 
 [[productive-failure|生产性失败（PF）]]是探究式学习结构最完整的近亲：学习者在直接指导*之前*探索问题并生成解法，然后巩固。两者共享同一前提——学习者生成的尝试（即便是失败的）[[prior-knowledge|激活先备知识]]并让学习者为从指导中学习做好准备。AI 时代的 PF[[research-methods-aied|研究]]厘清了 AI 应当如何为探究搭建脚手架而不短路它：[[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]推导出通过问题探索与解法生成保全挣扎的 AI 设计原则；[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等（2025）]]显示大语言模型辅导系统可以被引导去保留答案并诱发多次尝试；[[lukesova-clue-before-correction-2026|线索先于纠正]]的任务示范了让学习者持续进行推理的基于线索（而非直接）的脚手架。这些把探究与 PF 连到一条更宽的律令上：AI 不得消除持久学习赖以形成的[[desirable-difficulties|生产性挣扎]]。
 
 在户外田野情境中，同一律令变成空间性的：生成式 AI 可以在学习者遇到证据之前预先建构他们注意到什么，于是一个把生成式解释保留到观察与初始解释被记录之后的"田野优先"序列，就保护了探究（[[geoscience-field-learning-genai-2026|Choi, 2026]]）。
+
+**一项覆盖 66 项研究的图谱把生成式 AI 放在调查环节，最少放在定向环节。** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya 等（2026）]]把生成式 AI 的使用编码到五个探究阶段，发现支持最常报告于调查（45 项研究，68.2%），其次是结论（29 项，43.9%）、讨论（28 项，42.4%）与概念化（27 项，40.9%），定向最少（20 项，30.3%）。11 项研究覆盖了全部五个阶段，19 项覆盖一个阶段，9 项没有指明任何阶段。只有 8 项研究（12.1%）测量了探究技能，其中 4 项设有对照条件，因此这是一张工具被放置在何处的图谱，而不是探究获得了什么。
 
 ## 常见误解
 
@@ -105,3 +109,5 @@ IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI 驱动的信息抽取支持本科论文与研究型学习（An et al. 2026）
 - [[ai-assisted-inquiry-ssi-climate]] — AI 辅助的社会性科学议题探究：气候变化
 - [[geoscience-field-learning-genai-2026]] — 一个防止生成式 AI 预先建构学习者所注意之物的"田野优先"教学模型（Choi 2026）
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] —— 人类促进者对 AI 中介的问题式学习：内容增益相当，缺少促进者时批判性思维更弱（Shetty 与 Rao 2026）
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] —— 66 项研究绘制的生成式 AI 在五个探究阶段中的图谱，仅 8 项研究测量了探究技能

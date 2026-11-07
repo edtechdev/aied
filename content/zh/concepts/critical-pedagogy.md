@@ -1,7 +1,7 @@
 ---
 title: 批判教育学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-10-28T19:29:22-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,13 +44,13 @@ ai_assist:
 
 - **从顺从到人的繁荣。** 一项社会主义—人文主义综述把 AI 素养重构为变革而非顺从，命名"AIgemony"（AI 强化企业权力不对称）与无形人类标注劳动的"ghost work"，并呼吁以主动投入的"being"（存在）模式取代占有式的"having"（拥有）模式（[[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose（2026）]]）。
 
-- **女性主义与以正义为中心的 AI。** 一种 AI 的女性主义路径把正义置于利润之上，追问知识的本质与所有权、谁从 AI 中受益、系统失效时谁负责。它呼吁在女性主义 [[pedagogy|pedagogies]] 框架内展开的批判性 AI 素养。([[avraamidou-ai-colonization-science-education]])
+- **女性主义与以正义为中心的 AI。** 一种 AI 的女性主义路径把正义置于利润之上，追问知识的本质与所有权、[[differential-effects-across-learner-groups|谁从 AI 中受益]]、系统失效时谁负责。它呼吁在女性主义 [[pedagogy|pedagogies]] 框架内展开的批判性 AI 素养。([[avraamidou-ai-colonization-science-education]])
 
 - **把抵抗 AI 作为批判性素养实践。** 批判性 AI 素养（CAIL）可以包含"抵抗 AI"——一种拒绝主导话语之必然性与技术解决主义（techsolutionism）的立场，并通过对话式的、[[collaborative-learning|collaborative]] 的教学法培养集体的 [[agency]]，以想象替代性的未来。([[li-mroziak-reorienting-critical-ai-literacy]])
 
 - **作为批判性 AI 素养教学法的 [[multimodal]] [[writing-education|composition]]。** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等（2026）]] 记录了一个课堂单元，其中 22 名十一年级学生就自己选定的 AI [[ethics]] 议题制作视频公益广告，把监控、[[privacy|data consent]] 与算法指控转译为 90 秒到 3 分钟的影片，材料取自声音、图像、文字与他们自己的身体。在批判后人本主义素养的框定下，这项工作展示了政治立场的实践形态：在全部七部影片中，伤害都源于纠缠的人—机器责任，而非某个反派式的工具；而学生最终仍落在 [[agency]] 上——"解决方案在我们力所能及之处"——即便有一位参与者反对说，年轻人"完全缺乏任何可信度"。作者论证，创造性的、[[collaborative-learning|collaborative]] 的写作本身就是一种批判性 AI 素养，而既有的 AI 素养量表与能力框架假设了可个体化测量的表现，因而系统性地把这种素养排除在外。
 
-- **重新分配认识论权威。** 基于社群的 AI 学习把 AI [[student-engagement|engagement]] 扎根于学习者活生生的与社群的认识论，挑战把 AI 系统置于权威知识来源的定位。([[ojeda-ramirez-community-based-ai-learning]]) 这涉及认知性微调、权威的重新分配与 [[situated-learning|situated]] 的辨识。
+- **重新分配认识论权威。** 基于社群的 AI 学习把 AI [[student-engagement|engagement]] 扎根于学习者活生生的与社群的认识论，挑战把 AI 系统置于权威知识来源的定位。([[ojeda-ramirez-community-based-ai-learning]]) 这涉及认知性[[llm-training-and-fine-tuning|微调]]、权威的重新分配与 [[situated-learning|situated]] 的辨识。
 
 - **批判性投入是例外，而非常态。** 在一项罗马尼亚初中研究中，42 个课堂片段中有 15 个（35.71%）是 AI 依赖的、16 个（38.10%）是 AI 增强的，只有 11 个（26.19%）是 AI 批判的——这推动了 [[voicu-ai-interpretive-cognition-ssh-2026|Voicu（2026）]] 面向解释性自主的六检查点发展性批判模型。
 
@@ -78,7 +78,7 @@ ai_assist:
 
 **"批判地使用 AI 意味着更少地使用它。"** 批判性投入是一种使用方式，而不是使用数量。在一项罗马尼亚初中研究的 **42 个课堂片段**中，**15 个（35.71%）是 AI 依赖的**、**16 个（38.10%）是 AI 增强的**，只有 **11 个（26.19%）是 AI 批判的**，因此增强的片段与批判的片段都涉及该工具，区别在于学生是否质询了它。批判模式的稀缺是一个教学问题，而不是使用问题。
 
-**"AI 素养是一套中性的技能。"** 批判教育学把它视为一种抵抗与社会变革的实践，这使框定本身可被争议。一套只教提示技巧、略去系统服务于谁的利益这一问题的素养课程，教会的是对一个工具的熟练，同时不加批判地采纳了它的政治。
+**"AI 素养是一套中性的技能。"** 批判教育学把它视为一种抵抗与社会变革的实践，这使框定本身可被争议。一套只教提示技巧、略去系统服务于谁的利益这一问题的素养[[curriculum-design|课程]]，教会的是对一个工具的熟练，同时不加批判地采纳了它的政治。
 
 **"批判教育学是从实践外部提出的批评。"** 它是一种对教育者角色的立场：追问谁受益、谁的知识被优待、学校教育如何再生产或抵抗权力。应用于 AI 采纳，这意味着质询塑造采购的企业与资本主义逻辑：这些是教师能够就自己所在机构的选择提出的问题，而不只是关于抽象技术的问题。
 
@@ -91,6 +91,8 @@ ai_assist:
 - 数一数你的批判性片段。如果 26.19% 这个数字描述的是你的实践，目标是使用方式的转变，而不是减少使用。
 - 把采购变成一个可教学的对象：与学生一起追问所选工具服务于谁的利益，以及谁承担其错误的代价。
 - 把 AI 素养当作对系统的质询，而不只是对它的胜任。
+
+- 让论证成为可评价的产物。在一个使用了 [[benali-genai-academic-writing-2026|Benali 与 Díaz García（2026）]]的起草、修订与反思工作流、面向 24 个小组 96 名毕业年级学生的课程单元中，AI 被限制在一份研究计划的两个小节内，而每一条被接受或被拒绝的 AI 建议都必须以书面形式给出理由。学生的反思报告把产生批判立场的东西描述为这项核验工作而非起草本身，这就是为什么判断的记录才是应当被评分的东西。
 
 **对开发者与管理者**
 
@@ -119,7 +121,7 @@ ai_assist:
 - [[kasa-malksoo-ai-human-rights-education-2026]] — 人权教育、反思性实践，以及把 AI 治理教学作为专业养成（Kasa-Mälksoo 2026）
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 作为批判性 AI 素养教学法的多模态写作
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对技术解决主义 GenAI 建构性对齐建议的批判话语分析
-- [[benali-genai-academic-writing-2026]]
+- [[benali-genai-academic-writing-2026]] — 在学术写作课程中强制给出理由的修订：AI 限于研究计划的两个小节，每条建议的接受或拒绝都须书面说明（Benali 与 Díaz García，2026）
 - [[avraamidou-ai-colonization-science-education]] — 对科学教育"AI 殖民化"的批判、女性主义批评
 - [[li-mroziak-reorienting-critical-ai-literacy]] — "抵抗 AI"作为扎根社群的批判性 AI 素养实践
 - [[ojeda-ramirez-community-based-ai-learning]] — 通过基于社群的学习重新分配 AI 的认识论权威

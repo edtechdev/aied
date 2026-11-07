@@ -1,14 +1,14 @@
 ---
 title: 生成式人工智能
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ ai_assist:
 
 一项对 22 项研究的三层级元分析发现，GenAI 支持的基于问题的学习与[[project-based-learning|项目式学习]]在学习者内部结果上产生很大的汇总效应（g = 0.819），但 PET-PEESE 校正把它降至 g = 0.378；嵌入方式也很重要，通用聊天机器人汇总为 g = 0.970，而定制或 API 系统为 g = 0.455（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen（2026）]]）。
 
-另一项仅针对动机的 42 项研究元分析给出的汇总效应更低（g = 0.764），并报告 95% 预测区间跨度为 [−0.689, 2.217]，因此动机优势对新情境而言并非可靠为正（[[genai-learning-motivation-meta-analysis-2026|Fang 等，2026]]）。
+另一项仅针对动机的 42 项研究元分析给出的汇总效应更低（g = 0.764），并报告 95% 预测区间跨度为 [−0.689, 2.217]，因此[[motivation|动机]]优势对新情境而言并非可靠为正（[[genai-learning-motivation-meta-analysis-2026|Fang 等，2026]]）。
 
 生成式 UI 是这一脉络中最新的能力：发出可工作的交互制品——滑块、可操作的模拟——而不是文字的模型。[[generative-ui-education-learning-interactives-2026|Kovshov 等（2026）]]，一个 Google Research 团队，报告现成的生成式 UI 对复杂构念尚不够教学上精确，但把学习目标分解为递进的层级化目标、并把生成包裹在批评与自我改进环路中，产出的交互制品被专家教师评为可接受。他们的是一种编排设计：教师陈述目标、批准目标并在候选模拟之间选择，于是定制[[simulation|交互式学习材料]]的约束从生产转移到规范，[[guardrails|教学护栏]]嵌入生成管线而非留给教师事后警觉。
 
@@ -72,7 +72,7 @@ ai_assist:
 
 ### 生成式人工智能在专门领域：阅读障碍支持
 
-一项 2026 年跨学科系统综述（Dabaghi、D'Urso 与 Sciarrone，PRISMA 引导，2018–2024，n=72）发现**生成式人工智能在阅读障碍支持领域被利用不足**。GAI 研究（全部来自 2024 年）聚集为智能[[conversational-ai|聊天机器人]]、[[teacher-education|教师培训]]支持与探索性研究，并迅速超越古典[[machine-learning|机器学习]]成为首选工具——但严谨实验与现实世界验证仍基本缺失。综述的未来趋势分析指向 GAI 驱动的个性化材料与实时自适应反馈、整合眼动追踪、EEG 与行为[[learning-analytics|分析]]的[[multimodal|多模态]]诊断模型、NLP 驱动的[[intelligent-tutoring|智能导学系统]]与对话智能体，以及面向教育者的支持工具。这既说明了生成式人工智能在专门的高需求领域用于内容生成与交互支持的前景，也说明了其采用超出证据基础的风险。
+一项 2026 年跨学科系统综述（Dabaghi、D'Urso 与 Sciarrone，PRISMA 引导，2018–2024，n=72）发现**生成式人工智能在阅读障碍支持领域被利用不足**。GAI 研究（全部来自 2024 年）聚集为智能[[conversational-ai|聊天机器人]]、[[teacher-education|教师培训]]支持与探索性研究，并迅速超越古典[[machine-learning|机器学习]]成为首选工具——但严谨实验与现实世界验证仍基本缺失。综述的未来趋势分析指向 GAI 驱动的个性化材料与实时自适应反馈、整合[[sensor-and-gaze-analytics|眼动追踪]]、EEG 与行为[[learning-analytics|分析]]的[[multimodal|多模态]]诊断模型、NLP 驱动的[[intelligent-tutoring|智能导学系统]]与对话智能体，以及面向教育者的支持工具。这既说明了生成式人工智能在专门的高需求领域用于内容生成与交互支持的前景，也说明了其采用超出证据基础的风险。
 
 ## 常见误解
 
@@ -110,6 +110,7 @@ ai_assist:
 - [[ai-technologies]] — AI 技术与模型的总括
 - [[higher-ed]] — 一个主要部署情境
 - [[k-12]] — 一个主要部署情境
+- [[reflection]]
 
 ## 关联文章
 - [[genai-learning-motivation-meta-analysis-2026]] — 对 GenAI 学习动机效应的元分析，预测区间横跨从损害到收益

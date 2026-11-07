@@ -1,13 +1,13 @@
 ---
 title: 学习者建模与自适应教学
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,9 +49,11 @@ ai_assist:
 
 学生模型也可以纯粹由行为轨迹构建，并仍能支持适应。[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]] 从 315 名在 VERA 中构建 822 个生态模型的在线学习者的点击流中，推导出三种投入度画像——观察、构建与探索——完全没有使用任何人口统计或情境数据，并表明这些画像能预测模型质量（探索产出最复杂、最多样的模型，而观察则以复制的模型为主）。这类投入度层面的刻画，正是 [[adaptive-learning|自适应教学]]层可以消费以定向反馈的粗粒度学生模型。
 
-情感学生建模是一个更深的维度：一个数学辅导工具从对话文本与面部表情推断情绪，并把聚合状态映射到辅导策略，但多模态融合相对参与者自己的标注只达到 60% 的准确率，使情绪读取成为该管线最弱的一环（[[kar-mathbuddy-affective-math-tutoring-2025|Kar et al.（2025）]]）。
+情感学生建模是一个更深的维度：一个数学辅导工具从对话文本与面部表情推断情绪，并把聚合状态映射到辅导策略，但[[multimodal|多模态]]融合相对参与者自己的标注只达到 60% 的准确率，使情绪读取成为该管线最弱的一环（[[kar-mathbuddy-affective-math-tutoring-2025|Kar et al.（2025）]]）。
 
 [[cross-subject-validity-delayed-start|Gutterman et al.（2026）]] 发现，在数学练习期间记录的一个延迟开始信号能预测英语的结果：长期延迟者（超过 13 分钟）即便在控制了 [[prior-knowledge|先验知识]]与投入时间后，增益也更低（ELA β = -.11 SD）——因此行为学生模型可以跨学科迁移而无需按课程重新训练，尽管其切分点必须重新推导。
+
+感知到的难度是又一个学生建模维度，而它可以从与人相关的特征来预测，而不只是文本统计量。[[thome-perceived-text-complexity-student-profiles-2025|Thome 等人（2025）]]根据 193 名德国高中生对 3,954 个句子的评分，构建了基于画像的读者模型，其 KNN 加 XGBoost 集成达到 RMSE 0.822，而均值基线为 1.070，R2 = 0.396。每一个包含读者特征的回归器都同时胜过均值基线与平均复杂度基线，因此一个捕捉"读者是谁"的学习者模型能预测一段文本感觉有多难——这是本页其他模型都不携带的感知维度。
 
 ## 自适应教学层
 
@@ -77,19 +79,20 @@ ai_assist:
 
 横跨整个家族，决定性的效度挑战是同一个：学习者表征必须**忠实地反映学习者真实的状态**，而非系统的默认假设。对**学生建模**与 [[knowledge-tracing]] 而言，这意味着模型必须真正捕捉到学习者知道什么（[[ai-ed-evaluation|评估]]与 [[assessment-validity|测量效度]]）。对 [[simulating-students|模拟]]而言，这意味着合成的学习者必须展现出真实的不完美，而非模型的全部能力或 [[ai-sycophancy|谄媚式]]的附和。消费了有缺陷模型的自适应系统，会继承并传播那个错误。
 
-
 从游戏玩法推断学习者状态的模型达到了 0.848–0.913 的 AUC，但 55 项被综述的研究中只有两项审计了它们的人口统计偏差，只有一项考察了按学习者能力的差异结果（[[ai-game-based-learning-systematic-review-2026|Kaşarcı 与 Yurt（2026）]]）。
 
-有些预期的信号可能根本无法从对话中恢复：学习情境框架的试点恢复了 91.4% 的误解与 100% 的焦虑，但尽责性只有 68.6%、语言熟练度只有 60%，因此一个具备情境感知的模型应捕捉那些显现缓慢的特质，而非等待对话把它们暴露出来（[[learning-context-framework-context-aware-ai-education-2026|Liu et al.（2026）]]）。
+有些预期的信号可能根本无法从对话中恢复：学习情境框架的试点恢复了 91.4% 的误解与 100% 的[[anxiety-and-stress|焦虑]]，但尽责性只有 68.6%、语言熟练度只有 60%，因此一个具备情境感知的模型应捕捉那些显现缓慢的特质，而非等待对话把它们暴露出来（[[learning-context-framework-context-aware-ai-education-2026|Liu et al.（2026）]]）。
 
-[[edumirror-educational-social-dynamics|Lin et al.（2026）]] 暴露了这类合成学习者被验证方式中的循环论证：他们的 EduMirror 智能体在事后施用心理测量问卷，并把与智能体内部价值表征的一致性读作心理学效度，但由于 Surveyor 测量的维度已编码在那个价值系统之中，这项检查只是一致性检查，而非独立的验证。
+生理与注视信号拓宽了建模基础：眼动追踪、脑电、皮肤电活动与心率如今被用来推断投入、注意与认知负荷（[[sensor-and-gaze-analytics]]）。从信号到心理状态的推断是薄弱环节，因为身体可以被记录，其状态却未必被识别。
+
+[[edumirror-educational-social-dynamics|Lin et al.（2026）]] 暴露了这类合成学习者被验证方式中的循环论证：他们的 EduMirror 智能体在事后施用心理测量[[self-report-measures|问卷]]，并把与智能体内部价值表征的一致性读作心理学效度，但由于 Surveyor 测量的维度已编码在那个价值系统之中，这项检查只是一致性检查，而非独立的验证。
 
 **正确性并不总是忠实的信号。** [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]] 表明，从正确行动推断掌握的学习者模型可能歪曲学习者真实的状态：表现出*欺骗性过度泛化*的学习者看似已掌握，却遗漏了一个关键的应用约束，因此自适应系统可能过早停止练习。学习者模型应评估条件性理解——包括学习者是否知道何时克制一个行动——而不只是行动的正确性。
 
 隐藏的误解从另一侧显示出同样的失效：[[correct-answer-trap-misconceptions|Imran 与 Bulathwela（2026）]] 发现，一个微调过的分类器捕捉到 57.4% 经由 flawed 推理得出的正确答案，而在 1.6% 的患病率下，即便是一个 83.6% 准确的推理模型，每次检测也会留下 8 个假警报——因此基于正确性的掌握信号既不完整，修复起来又昂贵。
 
 **一个模型如何被验证，本身就是一个效度问题。** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]] 表明，流行的学习者模型（BKT、BKT-with-Forgetting、AFM）只有在回溯拟合于完整的多会话数据集时，才看似捕捉到了人类学习；在基于时间（前向滚动）的交叉验证下——从更早的会话预测未来的会话，也就是这类模型实际的部署方式——它们会高估表现、错失 [[retrieval-spacing-interleaving|间隔效应]]，并对练习条件给出错误排序。由于带遗忘与不带遗忘的模型在各会话间表现大致相当，作者得出结论：遗忘往往被吸收进学习者参数之中，而非被真正表征。对该家族的教训是，一个忠实的表征必须按其被使用的方式来验证——把即时表现与长期保持混为一谈，会产出看起来准确却歪曲学习者的模型。
-[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]] 从分类器一侧展示了同样的失效：从 153 名本科生的问题解决对话推断学习风格维度，在准确率上看似中等，直到按类别的召回率暴露出对主导标签的预测，其中 Intuitive 与 Global 学习者被系统性地识别不足，而少样本示例有时会放大多数类的偏差。
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]] 从分类器一侧展示了同样的失效：从 153 名本科生的[[problem-solving|问题解决]]对话推断学习风格维度，在准确率上看似中等，直到按类别的召回率暴露出对主导标签的预测，其中 Intuitive 与 Global 学习者被系统性地识别不足，而少样本示例有时会放大多数类的偏差。
 
 ## LLM 时代的建模
 
@@ -97,11 +100,9 @@ ai_assist:
 
 语言可以取代 ID 嵌入作为表征：PLCD 把 LLM 导出的概念图式与练习过程图作为先验，在 XES3G5M 上达到 83.51% 的准确率，其中最大的增益出现在冷启动——新概念上比 KCD 高 4.60 个 ACC 点、新练习上高 4.00 点——在这些地方基于 ID 的模型没有历史（[[process-grounded-language-cognitive-diagnosis-2026|Liu et al.（2026）]]）。
 
-
 模拟器质量分裂为两个轴：一个"先池化后特化"的管线在按学生适配器之前先训练共享的行为模式，在棋类上达到行为保真度 0.51 与引导响应性 0.91，而前沿角色扮演基线为 0.23 与 0.72，这表明一个模拟器既要匹配一个学生，又要可被操控（[[studentsim-llm-student-simulators|Yang et al.（2026）]]）。
 
 风险分数可能准确却缺乏支撑：[[at-risk-students-ml-prediction|Gheisari 与 Salarian（2026）]] 用注册与表现记录预测退学达到 99% 的准确率，但仅基于单一机构的 1,027 条清洗记录，没有外部验证，没有测试任何干预，公平性审计也被列为未来工作——该分数支持分诊，而非对一个学生的裁决。
-
 
 一个只预测风险的学习者模型不足以支撑决策：把一个校准过的风险模型与在离散行动上的整数规划追索权耦合——并按时机、预算、不可变性与可得性约束加以验证——产出了紧凑的干预计划，而仅靠优化会接受不可执行的方案（[[sc2r-counterfactual-recourse-educational-2026|Le、Abel 与 Laforge（2026）]]）。
 
@@ -137,6 +138,8 @@ ai_assist:
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — 风险预测与支持定向之下的模型
+
+- [[sensor-and-gaze-analytics]]
 
 ## 关联文章
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper 2026）

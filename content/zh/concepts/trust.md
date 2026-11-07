@@ -1,14 +1,14 @@
 ---
 title: 信任
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-28T09:45:00-04:00"
+source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 对人工智能的信任由被感知的胜任力、透明性、一致性，以及系统是否看似与学习者的目标一致所塑造；它与 [[ai-literacy]]（知道该信任什么）、[[critical-thinking]]（评估输出）与负责任的人工智能设计紧密相连。相比之下，人际信任通过关系、披露、反馈与 [[pedagogy|教学]] 关怀建立 —— 即学生在决定一位教师或一个人工智能是否是可信指导来源时所依赖的品质。两个领域日益相互作用：人工智能被编织进师生关系，因此学生如何信任其教师，塑造了他们如何信任（或质疑）该教师所认可的人工智能工具。
 
-信任是会被度量到的代价，而不只是一条原则。在 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]] 中，学生在发现小组作业里存在未披露的生成式 AI 使用之后说，他们对同学的信任下降了，称这“损害了学术的信任与伦理”，而少数人怀疑教师也使用了生成式 AI 并对此向学生隐瞒。
+信任是会被度量到的代价，而不只是一条原则。在 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]] 中，学生在发现[[group-work|小组作业]]里存在未披露的生成式 AI 使用之后说，他们对同学的信任下降了，称这“损害了学术的信任与伦理”，而少数人怀疑教师也使用了生成式 AI 并对此向学生隐瞒。
 
 ## 对人工智能系统的信任
 
@@ -43,7 +43,7 @@ ai_assist:
 
 关于*一个系统是什么* —— 而不只是它能做什么 —— 的透明性，同样塑造校准：Amico 陪伴原型明确了自己的身份与局限，其意大利—中国试点发现，学习者把它认作一种有界的支持工具，而非自主导师或关系性替代，避免了拟人化的过度信任（[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]）。
 
-在高等教育机构中，杠杆可能是有用性而非规则：对一所大学 2,121 名学生、教师与职员的调查发现，被感知的有用性是与对人工智能信任关联最强的因素（β = 0.402），而被感知的政策清晰度为正但更弱（β = 0.223）（[[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]）。
+在高等教育机构中，杠杆可能是有用性而非规则：对一所大学的 2,121 名学生、教师与职员所做的调查中，[[technology-acceptance-model|被感知的有用性]]在与 AI 信任的关联上超过政策清晰度（β = 0.402 对 0.223）（[[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]）。
 
 **对准确性的不信任可以与管理该工具的信心并存。** 在一项对四所澳大利亚大学 8,021 名学生的调查中，51% 不信任生成式人工智能的事实准确性，而 76% 对自己获得想要输出的能力有信心，且驱动他们使用的是有用性，而非信任或规则合规（[[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026)]]）。
 
@@ -56,6 +56,10 @@ ai_assist:
 对人工智能的信任表现为一条从评价到依赖的路径，而非单一态度：被感知的人工智能赋能与被感知的人工智能威胁几乎相互独立（r=0.030），却把信任推向相反方向（β=0.576 与 β=−0.328），而信任在两个方向上都与生成式人工智能依赖有显著的间接关联（[[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]）。
 
 一个结构模型为那种桥接角色提供了实证检验。在 [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] 对 642 名大学生的调查中，情境支持预测了信任校准（β = 0.56），信任校准预测了[[collaborative-learning|协作]][[regulation]]（β = 0.49）与被感知的[[transfer-of-learning|迁移]]增益（β = 0.22），而从情境支持到增益的直接路径不显著。
+
+**信任走在每一条经典采纳路径之前。** [[zhu-creative-agency-trust-genai-art-2026|Zhu（2026）]]把信任加入 UTAUT，对浙江 450 名艺术与设计专业学生进行调查，发现信任是使用[[generative-ai|生成式 AI]] 意向最强的直接预测因素（β = 0.425）。社会影响（0.155）、元认知控制（0.146）与绩效期望（0.128）紧随其后。社会影响也承载了通往信任的最大路径（β = 0.262），其与意向的总关联中有 42.1% 经由信任。
+
+这个构念比系数所暗示的更单薄。它测量的是带有艺术价值补充的工具性技术信任——是陈述出来的信心，而非经校准的可靠性——而且两个作者身份题项在 121 名学生的预试中形成独立因子后被删除。学生可能恰当地信任这个模型，也可能不加区分地信任它，而该工具无法区分两者。
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] 支持一种对算法信任**按功能而非全局**的解释：这 13 名学生既不符合算法厌恶也不符合算法欣赏，他们同时信任 ChatGPT 做表层反馈、又不信任它做评分者。他们的信任以教师监督为条件，而他们的怀疑源于人工智能的情境局限 —— 误读扫描的手写体（“它把我的姓拼错了，还认为我在拼写上犯了错”）、不了解教师的评分体系、以及一贯的正面性 —— 而非源于技术恐惧，提示信任测量应按人工智能所执行的功能与所涉的利害来分解。
 
@@ -165,3 +169,6 @@ ai_assist:
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — 同伴的生成式人工智能使用通过被感知的温暖与胜任力降低人际信任，并被人工智能素养缓冲
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索提高了转向人工智能错误立场的比例；保留推荐则抑制了它
 - [[trust-calibration-genai-collaborative-regulation-2026]] — 一个结构模型为那种桥接角色提供了实证检验
+
+- [[zhu-creative-agency-trust-genai-art-2026]] — 工具性信任是艺术专业学生使用生成式 AI 意向最强的预测因素
+

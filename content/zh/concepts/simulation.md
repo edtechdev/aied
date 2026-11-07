@@ -2,13 +2,13 @@
 connected_resources: [openmaic]
 title: 模拟
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 ### AI 与模拟
 
 - **AI 驱动的环境：** 自适应模拟依据学习者的状态调整难度与情境，与 [[adaptive-learning]] 和基于 [[reinforcement-learning]] 的辅导相关。
-- **虚拟环境与 AI 层是可分离的增益。** 在为期三周的九年级欧姆定律单元中，调整后的成绩在配备 AI 的虚拟实验室为 30 分中的 23.45 分，同一实验室不带 AI 为 20.51 分，实体实验室为 16.57 分（[[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li 与 Ahmad（2026）]]）。完整班级被分派且每班配不同教师，因此这描述的是三种课堂安排，而不是智能体本身。
+- **[[virtual-and-augmented-reality|虚拟环境]]与 AI 层是可分离的增益。** 在为期三周的九年级欧姆定律单元中，调整后的成绩在配备 AI 的虚拟实验室为 30 分中的 23.45 分，同一实验室不带 AI 为 20.51 分，实体实验室为 16.57 分（[[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li 与 Ahmad（2026）]]）。完整班级被分派且每班配不同教师，因此这描述的是三种课堂安排，而不是智能体本身。
 
 - **提示生成的模拟让定制实验室触手可及。** 教师可以从一个可复用的提示模板生成课程所需主题的、可在浏览器中运行的模型（滑块、动画、时变图），并对每个模型做两次验证——技术层面一次，再对照已知的解析解一次——而不是接受最接近的已发表模拟（[[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al.，2025]]）。
 
@@ -54,26 +54,38 @@ ai_assist:
 
 - **有依据的动力学，而非提示出来的人设。** [[adaptive-virtual-patient-psychotherapy-training|Chen et al.（2026）]] 用近 2,000 小时真实心理治疗转录，把一个虚拟病人的披露动力学参数化，然后在每一轮更新该水平；在 20 位临床医生的 1,033 轮中，其披露随治疗师的共情与探索而上升，而同一个 LLM 上仅靠提示的基线则保持平坦。
 
-- **角色扮演让学习者进入那个角色。** 在模拟智能体提供对应方之处，角色扮演则把那个角色交给学习者。[[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari 及同事（2026）]] 让 18 名 9—10 岁的孩子观看由社交机器人上演的霸凌场景，推理每个角色的立场，然后通过操纵一个机器人化身来排练防卫，并报告在防卫的 [[self-efficacy]] 自我效能感上有增益，以及对"与霸凌者对抗是否真能阻止霸凌"的信念得到了更好的校准。他们"由机器人中介的应用戏剧"这一框定，把人类引导者保留在论坛剧场的角色中，并把自动化局限于叙事控制——这提醒我们，角色扮演中要求高的部分是反思，而非机械。[[lock-integrating-ai-online-learning-higher-ed-2025|Lock、Arteaga 与 Johnson（2025）]] 把角色扮演与模拟并列，作为 AI 支持的在线学习所倚赖的策略之一。
+- **角色扮演让学习者进入那个角色。** 在模拟智能体提供对应方之处，角色扮演则把那个角色交给学习者。[[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari 及同事（2026）]] 让 18 名 9—10 岁的孩子观看由社交机器人上演的霸凌场景，推理每个角色的立场，然后通过操纵一个机器人化身来排练防卫，并报告在防卫的 [[self-efficacy]] 自我效能感上有增益，以及对"与霸凌者对抗是否真能阻止霸凌"的信念得到了更好的校准。他们"由机器人中介的应用戏剧"这一框定，把人类引导者保留在论坛剧场的角色中，并把自动化局限于叙事控制——这提醒我们，角色扮演中要求高的部分是反思，而非机械。[[lock-integrating-ai-online-learning-higher-ed-2025|Lock、Arteaga 与 Johnson（2025）]] 把角色扮演与模拟并列，作为 AI 支持的[[online-teaching-and-learning|在线学习]]所倚赖的策略之一。
 
-- **模拟的学习者：** 学生行为模型让 [[research-methods-aied|研究者]]与设计师能在正式部署前测试辅导系统与 [[curriculum-design|课程]]，为 [[student-modeling]] 与 [[knowledge-tracing]] 提供依据。
+- **模拟的学习者：** 学生行为模型让 [[research-methods-aied|研究者]]与设计师能在正式部署前测试[[intelligent-tutoring|辅导系统]]与 [[curriculum-design|课程]]，为 [[student-modeling]] 与 [[knowledge-tracing]] 提供依据。
 
 - **信任与保真度：** 一个模拟的价值取决于它建模真实情境的保真度——也取决于学习者对其局限的意识，与 [[trust-calibration]] 相连。
 
 - **拟人性是互动的属性，而非模型的属性。** 一旦两个后端都渲染在同一个化身背后，基于文本的拟人性优势就消失了：参与者把商业模型称为自然（54% 对 22%），而沟通表现完全相同；语音、延迟与轮次重塑了对同一对话质量的感知（[[sophie-clinical-communication-ai-assessment-2026|Hasan et al.（2026）]]）。
 - **模拟式学习中的 [[generative-ai|GenAI]]。** [[genai-scenario-based-healthcare-education-2026|Neto 及同事（2026）]] 对医疗教育中情境式、案例式、问题式与模拟式学习里的 GenAI 做了 [[meta-analysis-systematic-review|系统综述]]，发现对高阶认知技能有正向结果，但其他地方的结果不一致，且混合式 [[human-ai-collaboration|人机协作]]胜过完全自动化的方法。[[conversational-agents-business-simulation-gaming-2026|Wenzel、Geiger 与 Liening（2026）]] 为商业模拟游戏中的自适应支持开发了 AI 对话智能体，应对模拟式学习中常见的 [[formative-assessment|形成性]]反馈与结构化反思不足的缺口。
 
-- **"真实性缺口"界定了 AI 模拟能替代什么。** 在 [[medical-education|临床]]模拟中，[[jiang-ai-powered-simulation-nursing-education-2026|Jiang et al.（2026）]] 对 AI 驱动的护理模拟做的 [[mixed-methods-research|混合方法]]系统综述（19 项研究，N=1,253）发现，AI 对认知知识与情感结果有效，但对复杂的心理运动技能则不一致。他们的**真实性缺口**概念——学习者在情感共鸣、非言语线索识别与触觉／体格检查维度上感知到的不足——解释了*为什么* AI 模拟最适合高度结构化的目标（基础沟通、病史采集），并应处于一个**分级模拟连续体**中，把进阶的心理运动与情感复杂的场景交给人类标准化病人与临床实习。技术上的不稳定（例如语音识别延迟）也会增加额外的 [[cognitive-offloading|认知负荷]]与焦虑，因此保真度与稳定性本身就是设计杠杆。这与 [[genai-scenario-based-healthcare-education-2026|Neto et al.]] 关于混合人机方法胜过完全自动化的发现相呼应。
+- **"真实性缺口"界定了 AI 模拟能替代什么。** 在 [[medical-education|临床]]模拟中，[[jiang-ai-powered-simulation-nursing-education-2026|Jiang et al.（2026）]] 对 AI 驱动的护理模拟做的 [[mixed-methods-research|混合方法]]系统综述（19 项研究，N=1,253）发现，AI 对认知知识与情感结果有效，但对复杂的心理运动技能则不一致。他们的**真实性缺口**概念——学习者在情感共鸣、非言语线索识别与触觉／体格检查维度上感知到的不足——解释了*为什么* AI 模拟最适合高度结构化的目标（基础沟通、病史采集），并应处于一个**分级模拟连续体**中，把进阶的心理运动与情感复杂的场景交给人类标准化病人与临床实习。技术上的不稳定（例如语音识别延迟）也会增加额外的 [[cognitive-offloading|认知负荷]]与[[anxiety-and-stress|焦虑]]，因此保真度与稳定性本身就是设计杠杆。这与 [[genai-scenario-based-healthcare-education-2026|Neto et al.]] 关于混合人机方法胜过完全自动化的发现相呼应。
 - **教师与 AI 共同设计的模拟。** 在动手型领域中，既支持概念学习又支持胜任力发展的互动模拟很稀缺，而 GenAI 的输出常常缺乏教学法效度。在 [[stem-education|基于无人机的 STEM 教育]]中，嵌在一门其余完全相同的动手课程里的教师—AI 共同设计模拟，被一项跨 30 名中学生的准实验前测—后测设计评估，考察模拟支持的教学是否产出更优的 [[learning-gains|学习结果]]（[[simulation-assisted-drone-learning-stem-2026]]）。另有，[[agentic-ai|多智能体]]辅导 [[benchmark|基准]]如 ASTRA 用模拟的具备社交智能的智能体，来研究 [[cs-education|程序设计入门]]中参与平衡的协作（[[astra-multi-agent-tutoring-benchmark-2026]]）。
 
-- **模拟中的学习者控制是被执行的，而非被授予的。** 在一个群体模拟中的 2 × 2 实验（[[learner-agency-ai-simulation-2026|Su、Nair 与 Nagashima 2026]]）给了部分学生参数滑块、给了部分一个可选的对话智能体、给了部分两者；每个条件都有改善，但一旦控制了先验知识，这两种可及性都没有产生可靠的差异（p = .849 与 p = .108）。预测 [[learning-gains|增益]]的是学习者在何处、以多长时间操纵参数：在概念上最复杂的那一课中持续使用滑块与增益正相关，而在较简单的那一课中同样的行为则为负。对模拟构建者而言，其含义是提供控制本身并不是干预——帮助学习者决定改什么、并记录下改了什么，才是。
+- **模拟中的[[agency|学习者控制]]是被执行的，而非被授予的。** 在一个群体模拟中的 2 × 2 实验（[[learner-agency-ai-simulation-2026|Su、Nair 与 Nagashima 2026]]）给了部分学生参数滑块、给了部分一个可选的对话智能体、给了部分两者；每个条件都有改善，但一旦控制了[[prior-knowledge|先验知识]]，这两种可及性都没有产生可靠的差异（p = .849 与 p = .108）。预测 [[learning-gains|增益]]的是学习者在何处、以多长时间操纵参数：在概念上最复杂的那一课中持续使用滑块与增益正相关，而在较简单的那一课中同样的行为则为负。对模拟构建者而言，其含义是提供控制本身并不是干预——帮助学习者决定改什么、并记录下改了什么，才是。
 
-- **数字孪生是带一张硬件账单的模拟，而这张账单决定了谁能参与。** 一项对 [[engineering-education|工程]]与 STEM 高等教育中 11 项数字孪生研究的 [[meta-analysis-systematic-review|系统综述]]发现，每一项实现都交付了带实时同步的可用原型，但只有三项报告了统计上显著的 [[learning-gains|学习增益]]。物理装置在五项研究中把并发使用上限压到 1—3 名学生，而社交互动的减少是六项研究中被最常提及的教学法挑战（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al.（2026）]]）。
-- **基于智能体的模拟可以把一个元认知理论建模为可检验的系统。** 一个以智能体为基础、受数字孪生启发的框架把五级 AMERT 模型与一个 NetLogo 模拟结合，使研究者可以改变学习者原型与任务条件并观察元认知轨迹，不过作者强调其输出是假设生成，而不是关于真实学习者的证据（[[agent-based-digital-twin-metacognition-2026|Guo，2026]]）。模拟成为对一个原本难以观察的理论的虚拟实验室。
+- **能动性是设计出来的一层，而不是技术的属性。** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen 等人（2026）]]按所代表的实践、模拟的情境、能动性与适应如何分配，以及学习如何被编排来给模拟分类，而不是按沉浸程度。
+
+- **数字孪生是带一张硬件账单的模拟，而这张账单决定了谁能参与。** 一项对 [[engineering-education|工程]]与 STEM [[higher-ed|高等教育]]中 11 项数字孪生研究的 [[meta-analysis-systematic-review|系统综述]]发现，每一项实现都交付了带实时同步的可用原型，但只有三项报告了统计上显著的 [[learning-gains|学习增益]]。物理装置在五项研究中把并发使用上限压到 1—3 名学生，而社交互动的减少是六项研究中被最常提及的教学法挑战（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al.（2026）]]）。
+- **基于智能体的模拟可以把一个[[metacognition|元认知]]理论建模为可检验的系统。** 一个以智能体为基础、受数字孪生启发的框架把五级 AMERT 模型与一个 NetLogo 模拟结合，使研究者可以改变学习者原型与任务条件并观察元认知轨迹，不过作者强调其输出是假设生成，而不是关于真实学习者的证据（[[agent-based-digital-twin-metacognition-2026|Guo，2026]]）。模拟成为对一个原本难以观察的理论的虚拟实验室。
+
+- **课程才是决定一项模拟价值的单位。** 课程之桥模型（Curricular Bridge Model）论证，模拟的回报取决于经验如何在一个项目中排序——情境复用、推理要求的变异、证据如何喂养进阶——而不是取决于平台保真度（[[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno，2026]]）。
 
 ### 关联
 
 模拟与 [[active-learning]]、[[adaptive-learning]] 和 [[pedagogical-agent]] 相连。它是经验式与 [[constructivist]] 学习的机制，并被 AI 生成自适应、逼真练习环境的能力所放大。
+
+模拟式学习如今包含合成病人、学生与角色扮演伙伴，而 [[ai-avatars-and-synthetic-instructors]] 论证，它们的同意、披露与人格保真度问题不同于设备或情境保真度。
+
+## 无法委派的部分
+
+关于模拟对话的研究大多追问智能体能多忠实地扮演其角色。[[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026|Álvarez-Rubio（2026）]]追问的是更前一步的问题：在简报、情境与复盘构成的模拟循环中，一位[[teacher-role|教师]]有哪些东西根本无法交出去。该文区分了四种委派操作：执行、传达、促进，以及承担一项承诺。执行与传达让教师可以在事后纠正失败；促进则交出了关于活动结构的判断。第四种以不同方式失败，因为一项承诺的本质条件是可问责性，即与那些可以要求理由的人之间的关系。智能体可以执行复盘功能；它不能成为为复盘作答的一方。按这一论述，一个复盘得和人类一样好的聊天机器人永远不会变得可问责，因此更强的复盘证据也无法移动这条线。
+
+该框架作为一套检验而非一份目录来传播。三个问题决定任何功能：什么会转移给智能体、教师能否纠正一次失败，以及可以要求谁为智能体的话站台。第三个问题没有答案的功能就不是候选。应用于准备环节，这套检验给出六项裁决——诊断与后勤可委派，明示的目标部分可委派，而虚构契约、心理安全与评估条款被拒绝。在复盘中，该文列出智能体可能持有的三种立场——专家、角色与助产式（Maieutic）——并报告了助产式的失效模式：一个被造来以永不回答的方式教学的智能体，让学生感到挫败。这是一个设计框架，而不是一项结果研究。作者声明没有为研究收集任何数据，所报告的部署是一项经由教师自身观察解读的试点。
 
 ## 常见误解
 
@@ -94,6 +106,8 @@ ai_assist:
 - [[biology-education]] — 生物教育与 AI：实验室教学助手、生物中的 AI 素养、批判性思维、专门工具
 - [[ai-technologies]] — 总括：AI 技术与技法（模型、LLM 训练、机器人、RAG、智能体）
 - [[virtual-and-augmented-reality]] — 是模型，而非模态——沉浸式环境通常渲染的是一个模拟
+
+- [[ai-avatars-and-synthetic-instructors]]
 
 ## 关联文章
 - [[learner-agency-ai-simulation-2026]] — 复杂系统模拟中的参数控制与可选 AI 智能体：增益追随执行，而非可及性
@@ -117,3 +131,8 @@ ai_assist:
 - [[sophie-clinical-communication-ai-assessment-2026]] — 可扩展的基于 AI 的临床沟通训练与自动评估
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 教育中的数字孪生：原型都奏效了，学习增益大多没有
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的翻转物理学习虚拟实验室：对初中生成绩、动机与认知负荷的影响
+
+- [[theelen-classroom-simulations-four-layer-framework-2026]] — 四层框架：区分所代表的实践、模拟的情境、能动性与适应，以及编排
+- [[herrera-alcaino-simulation-curricular-coherence-2026]] — 从技术采纳到课程一致性：技术增强的模拟作为健康专业教育中的桥梁
+- [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — 教师在整个模拟循环中无法委派给对话智能体的东西
+

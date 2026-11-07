@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: 自我导向学习（Self-Directed Learning）
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,15 +35,21 @@ ai_assist:
 
 ## 引言
 
-自我导向学习与[[self-regulated-learning|自我调节学习（SRL）]]密切相关——但有别于后者。SRL 强调学习当下的认知、动机和行为调节（计划、监控、控制、反思），而 SDL 强调学习者对跨时间、通常在非正式或自选情境中自身学习方向与管理的总体责任。SDL 是[[adult-learning|成人学习]]和[[lifelong-learning|终身学习]]的基础，也是远程与在线教育的显要理论——那里学习者必须在没有排定课堂时间的情况下维持自主性。SDL 也日益*可被实证研究*：通过分析 315 名在 VERA 中构建了 822 个模型的在线学习者的点击流，[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]]识别出自我导向的三种行为特征——观察、建构和探索——并发现学习者从动手建构向更完整、假设驱动的探索推进，而观察贯穿所有阶段，表明学习者在非结构化在线任务中行使自主的程度与种类，可以仅从追踪数据中区分出来。
+自我导向学习是[[self-regulated-learning|自我调节学习（SRL）]]的近邻，而不是同义词。SRL 强调学习当下的认知、动机和行为调节（计划、监控、控制、反思），而 SDL 强调学习者对跨时间、通常在非正式或自选情境中自身学习方向与管理的总体责任。SDL 是[[adult-learning|成人学习]]和[[lifelong-learning|终身学习]]的基础，也是远程与[[online-teaching-and-learning|在线教育]]的显要理论——那里学习者必须在没有排定课堂时间的情况下维持自主性。SDL 也日益*可被实证研究*：通过分析 315 名在 VERA 中构建了 822 个模型的在线学习者的点击流，[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]]识别出自我导向的三种行为特征——观察、建构和探索。他们还发现学习者从动手建构向更完整、假设驱动的探索推进，而观察贯穿所有阶段，表明学习者在非结构化在线任务中行使自主的程度与种类，可以仅从追踪数据中区分出来。
 
 ## 生成式 AI 如何重塑自我导向学习
 
 知识库的[[research-methods-aied|研究]]记录了 GenAI 与 SDL 关系的两面。
 
 - **AI 可以支持 SDL。** [[ai-lifelong-learning-policy|AI 与终身学习]]和[[self-directed-growth-generative-ai-learning-analytics|GenAI + 学习分析下的自我导向成长]]表明，AI 工具能以强化学习者自主性的方式[[scaffolding|支架]]独立探究、提供按需资源、个性化学习路径。关于生成式 AI 教育结果的[[genai-educational-outcomes-meta-analysis|元分析证据]]和[[conversational-ai-informal-learning|非正式学习中的对话式 AI]]提示，当 AI 被用作由学习者主导的资源时，有积极潜力。
-- **学习者想要思考伙伴，而非神谕。** 受访的成人学习者希望 AI 提示反思和验证，而非提供答案，并希望把学习路径的控制权留给他们，而非替他们规定（[[kim-ai-andragogy-2026|Kim 等（2026）]]）。
+- **学习者想要思考伙伴，而非神谕。** 受访的成人学习者希望 AI 提示反思和验证，而非提供答案，并希望把[[recommender-systems-and-learning-paths|学习路径]]的控制权留给他们，而非替他们规定（[[kim-ai-andragogy-2026|Kim 等（2026）]]）。
+
+- **委托目标选择与支持目标选择不是一回事。** 本页把设定目标视为学习者的核心行动，而基准证据表明模型的做法不同。面对 175 名人类，GPT-5、Claude Sonnet 4.5 与 Qwen3 32B 在 0.93、0.93 与 0.94 的试验中重新选择了先前的目标，而人类为 0.54 ± 0.18。目标熵为 0.12 到 0.20，人类为 1.67 ± 0.14，思维链与人格提示都没有缩小这一差距。一个提议下一步学什么的系统，复现的是比它所代表的学习者更窄的搜索（[[llm-goal-selection-self-directed-learning-2026|Molinaro 等，2026]]）。
+
 - **不加思考的使用损害 SDL。** [[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu（2026）]]表明，**不加思考地使用 GenAI**——不加批判性评估就采纳 AI 输出——直接并经由[[self-efficacy]]和[[motivation]]的侵蚀显著损害本科生的 SDL（模型解释了 75.3% 的 SDL 方差；TUGA β = −0.42）。对动机的负面影响对男生更强，对自我效能的负面影响对女生更强。这连接到知识库记录的更广泛[[cognitive-offloading|过度依赖]]风险。
+
+- **大规模的无引导使用。** 在 136 所德国中学的 4,062 名学生中，任务完成型与学习导向型的 GenAI 使用在一个学年内都有上升（d = 0.35 与 0.33），只有 5% 的学生从未使用这些工具；较低的先前成绩预测了六个学科中更多的后续使用，但两种使用形式都没有预测后来的成绩（[[scherer-self-directed-genai-use-secondary-2026|Scherer 等（2026）]]）。
+
 - **认知卸载与委托。** [[andragogy-cognitive-delegation-genai-2026|成人学与认知委托]]和[[learning-by-chatting-genai-impact|与 GenAI 聊天中学习]]考察学习者如何以绕过 SDL 所需的费力加工的方式把认知工作委托给 AI——这是原本支持自主的工具的一种失败模式。[[critical-thinking-genai-scaffolding|用 GenAI 支架批判性思维]]和[[test-driven-ai-assisted-learning|测试驱动的 AI 辅助学习]]建模了更具生产性的设计。
 
 ## 实践中的 SDL—SRL 区分
@@ -52,7 +58,7 @@ ai_assist:
 
 ## AI 提取支架支持研究性学习的研究
 
-- **AI 提取作为研究性学习的支架。** An 及其同事（2026）设计了一个 AI 驱动的信息提取系统，把研究出版物转化为结构化、可追踪的数据集，以支持[[stem-education|STEM]]中本科论文的完成，定位为一个**认知支架**，让人能检视证据—主张关系，同时降低底层数据处理需求。在一项 20 名学生、跨 80 份文档的[[mixed-methods-research|混合方法]]试点中，学生提取了超过 90% 的目标参数，自报文献综述时间下降约 65%，识别影响变量的能力上升 50%——支持这样的想法：[[generative-ai|AI]]可以把认知负荷重新平衡到更高阶、自我导向的研究性推理上，而非例行的摘要。
+- **AI 提取作为研究性学习的支架。** An 及其同事（2026）设计了一个 AI 驱动的信息提取系统，把研究出版物转化为结构化、可追踪的数据集，以支持[[stem-education|STEM]]中本科论文的完成，定位为一个**认知支架**，让人能检视证据—主张关系，同时降低底层数据处理需求。在一项 20 名学生、跨 80 份文档的[[mixed-methods-research|混合方法]]试点中，学生提取了超过 90% 的目标参数，[[self-report-measures|自报]]文献综述时间下降约 65%，识别影响变量的能力上升 50%——支持这样的想法：[[generative-ai|AI]]可以把认知负荷重新平衡到更高阶、自我导向的研究性推理上，而非例行的摘要。
 
 ## 常见误解
 
@@ -97,6 +103,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[scherer-self-directed-genai-use-secondary-2026]] — 中学生的自我导向生成式 AI 使用与学业发展：一项大规模一年期纵向研究
+
 - [[genai-thoughtless-use-self-directed-learning-2026]] — 不加思考的 GenAI 使用与自我导向学习（SEM，性别差异）
 - [[ai-lifelong-learning-policy]] — AI 与终身学习政策
 - [[self-directed-growth-generative-ai-learning-analytics]] — GenAI 与学习分析下的自我导向成长
@@ -104,3 +112,6 @@ ai_assist:
 - [[andragogy-cognitive-delegation-genai-2026]] — GenAI 下的成人学与认知委托
 - [[kim-ai-andragogy-2026]] — 支持成人学的 AI 应用（Kim 等 2026）
 - [[an-goel-self-directed-modeling-2026]]
+
+- [[llm-goal-selection-self-directed-learning-2026]] — 在自由选择任务中，模型不会像人类那样选择学习目标（Molinaro 等 2026）
+

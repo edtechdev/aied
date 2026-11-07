@@ -1,7 +1,7 @@
 ---
 title: "关于高等教育中的人工智能素养干预，有哪些证据？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
@@ -59,7 +59,7 @@ Hingle 与 Johri 的[[meta-analysis-systematic-review|系统综述]]用 [[icap-f
 
 北卡罗来纳州立大学的 **AI 素养连续体**描述了一条从*尚未参与*、*不加批判地使用*，经*知情使用*、*[[critical-thinking|批判性评价]]*到*改进*的进阶，已在课程和工作坊中向 330 多名参与者实施（[[ai-literacy-continuum-higher-education]]）。它的观察提示了一种分化：短暂的体验把学生推向知情使用，而批判性评价与改进主要出现在持续的、嵌入学科的工作中。它没有经过验证的前后测，也没有对照组，所以这是基于实践的证据。
 
-教师教育从另一个角度显示出同一个上限。Le 等人的[[design-based-research|基于设计]]干预在 14 名硕士生中试行，并在 29 名[[teacher-education|教师教育]]学生中评估。报告的 AI 能力[[self-efficacy|自我效能]]上升，学生对生成式 AI 的教学[[pedagogy|教学]]考量转向更具批判性，而伦理上的增益只达到边缘显著。这种规模的小型基于设计研究无法确立能力（[[genai-literacy-training-teacher-education-dbr-2026]]）。
+[[teacher-role|教师]]教育从另一个角度显示出同一个上限。Le 等人的[[design-based-research|基于设计]]干预在 14 名硕士生中试行，并在 29 名[[teacher-education|教师教育]]学生中评估。报告的 AI 能力[[self-efficacy|自我效能]]上升，学生对生成式 AI 的教学[[pedagogy|教学]]考量转向更具批判性，而伦理上的增益只达到边缘显著。这种规模的小型基于设计研究无法确立能力（[[genai-literacy-training-teacher-education-dbr-2026]]）。
 
 ## 测量学生能做什么
 
@@ -93,7 +93,7 @@ Burriss 等人把“算什么”说得更清楚。他们对 22 名十一年级�
 
 ## 这批受众想错的地方
 
-一场工作坊就是一套课程。连续体的观察把批判性评价与改进放在持续的、嵌入学科的工作里，而 Le 等人推动了自我效能，却没有确立能力。
+一场工作坊就是一套[[curriculum-design|课程]]。连续体的观察把批判性评价与改进放在持续的、嵌入学科的工作里，而 Le 等人推动了自我效能，却没有确立能力。
 
 信心是素养的代理。GLAT 的结果很直接：表现测试预测了任务表现，自我报告测量没有。
 

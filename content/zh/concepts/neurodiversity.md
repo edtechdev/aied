@@ -1,7 +1,7 @@
 ---
 title: 神经多样性
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,8 +43,9 @@ ai_assist:
 两篇综述界定了该领域的形状，且都描述了碎片化而非整合。
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|一篇PRISMA-ScR范围综述（Rempel等人，2026）]]检索了五个数据库与十年文献（2015–2025），从766条记录筛出40项关于[[higher-ed|高等教育]]中神经多样性学生数字辅助技术的实证研究。该领域已围绕[[generative-ai|生成式AI]]重组 —— 40项研究中有15项 —— 沉浸式格式以11项居次。其核心批判是一项设计批判：围绕正式诊断组织的个体 accommodations 与神经类型专属工具，无法应对横跨神经类型的功能差异，因此它转而推荐通用设计与参与式开发。它还指出，最具沉浸感的工具最不可规模化。
+- **小学课堂呈现同样的集中。** 一项针对神经包容小学课堂教育技术的范围综述（筛选 3,340 条记录，纳入 93 项研究）发现，证据集中在自闭症学习者与个体化的学业和认知支持上，而社交、沟通与同伴互动结果被忽视，教育价值主要由研究者而非课堂使用者来验证（[[gibson-neuro-inclusive-edtech-scoping-2026|Gibson、Tervola 与 Goodacre（2026）]]）。
 
-[[dabaghi-ai-dyslexia-education-review-2026|对AI用于阅读障碍的跨学科综述（Dabaghi、D'Urso与Sciarrone，2026）]]涵盖2018–2024年的72项研究，发现AI被用于检测、辅助支持与[[personalized-learning|个性化]]，这些脉络平行演进而非走向整合，且该领域更多由技术机会而非整合的教育理论驱动。其检测研究（EEG、眼动追踪、[[machine-learning]]模型）对早期干预显示出诊断前景，但常需要专门设备与受控条件，这限制了在普通课堂中的使用。这是整条脉络持续未通过的那个实践检验：支持必须嵌入学生实际在修的课程。
+[[dabaghi-ai-dyslexia-education-review-2026|对AI用于阅读障碍的跨学科综述（Dabaghi、D'Urso与Sciarrone，2026）]]涵盖2018–2024年的72项研究，发现AI被用于检测、辅助支持与[[personalized-learning|个性化]]，这些脉络平行演进而非走向整合，且该领域更多由技术机会而非整合的教育理论驱动。其检测研究（[[sensor-and-gaze-analytics|EEG]]、眼动追踪、[[machine-learning]]模型）对早期干预显示出诊断前景，但常需要专门设备与受控条件，这限制了在普通课堂中的使用。这是整条脉络持续未通过的那个实践检验：支持必须嵌入学生实际在修的课程。
 
 ## 课堂中的自闭症与ADHD
 
@@ -60,11 +61,11 @@ ai_assist:
 
 ## 执行功能与依赖
 
-[[genai-reliance-executive-functioning-2026|Klarin、Hoff与Daukantaitė（2026）]]把依赖定义得狭窄 —— 偏好生成式AI而非自己的努力或教师支持，加上没有它难以启动功课 —— 并在两个瑞典社区青少年样本中检验（849名初中生，分析n = 735；898名高中生，分析n = 839）。执行功能困难经由感知有用性与习惯性使用通向依赖，在两个样本中均如此，间接效应较小（初中样本中β = .10，95% CI [.06, .14]；高中样本中β = .08，95% CI [.04, .12]）。实践解读：最需要在启动上获得支持的学生，正是那类一个方便工具最容易成为默认路线而非选项之一的人 —— 而这里的效应量小到足以说明这是一个设计关切，而非一种诊断。
+[[genai-reliance-executive-functioning-2026|Klarin、Hoff与Daukantaitė（2026）]]把依赖定义得狭窄 —— 偏好生成式AI而非自己的努力或[[teacher-role|教师]]支持，加上没有它难以启动功课 —— 并在两个瑞典社区青少年样本中检验（849名初中生，分析n = 735；898名高中生，分析n = 839）。执行功能困难经由[[technology-acceptance-model|感知有用性]]与习惯性使用通向依赖，在两个样本中均如此，间接效应较小（初中样本中β = .10，95% CI [.06, .14]；高中样本中β = .08，95% CI [.04, .12]）。实践解读：最需要在启动上获得支持的学生，正是那类一个方便工具最容易成为默认路线而非选项之一的人 —— 而这里的效应量小到足以说明这是一个设计关切，而非一种诊断。
 
 ## 设计告诫
 
-- **按诊断开门的支持排除了它未点名的学习者。** 范围综述的批判直接适用于AI功能的部署方式：如果一个功能由 accommodations 信函解锁，有功能差异但无诊断的学习者永远见不到它。
+- **按诊断开门的支持排除了它未点名的学习者。** [[meta-analysis-systematic-review|范围综述]]的批判直接适用于AI功能的部署方式：如果一个功能由 accommodations 信函解锁，有功能差异但无诊断的学习者永远见不到它。
 - **检测驱动的流程会阻碍合法的 accommodations 使用。** 当某项语言技术充当神经多样性学习者有效的 accommodation 时，一刀切的禁令或阻碍其合法使用的检测驱动流程会引发平等议题：[[ai-detection|检测]]文献所记录的这起被撤销的不端行为案件涉及一名自闭症谱系支持项目中的学生（[[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier（2026）]]）。
 - **工具可以在认识论上排除人，而不只是做得差。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]论证，以英语为中心、西方中心的训练数据使非霸权式的认识方式边缘化，并把残障学习者的处境置于该批判的中心 —— 这是对"包容性"AI仍可能编码"谁的知识算数"的警告。
 - **行为信号被不认识学习者的系统读取。** 在[[learning-analytics]]与[[student-modeling]]中对[[student-engagement|投入]]、挣扎或注意力的解读，假定了一种规范的反应模式；关于该假定的公平证据见[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]。
@@ -83,7 +84,7 @@ ai_assist:
 
 ## 常见误解
 
-- **"神经多样性研究只是 AIED 的一个小众角落。"** 该领域已**围绕[[generative-ai|生成式 AI]]重新组织：40 项研究中有 15 项**，沉浸式形式以 11 项居次。文献是随技术移动的，而不是围绕稳定的问题累积起来的。
+- **"神经多样性研究只是 [[ai-education|AIED]] 的一个小众角落。"** 该领域已**围绕[[generative-ai|生成式 AI]]重新组织：40 项研究中有 15 项**，沉浸式形式以 11 项居次。文献是随技术移动的，而不是围绕稳定的问题累积起来的。
 - **"给阅读障碍的 AI 越多，支持就越好。"** [[dabaghi-ai-dyslexia-education-review-2026|关于 AI 用于阅读障碍的跨学科综述（Dabaghi、D'Urso 与 Sciarrone，2026）]]覆盖 **2018-2024 年的 72 项研究**，发现 AI 被用于范围很广的目的。应用的广度并不构成其中任何一项有效的证据。
 - **"accommodations 是神经多样性学习者的正确框架。"** [[neurodivergent-computing-students|一项对 24 名神经多样性计算专业学生与 20 名神经典型同伴的调查]]加上四次深度访谈发现，他们的需求属于**通用设计要求**：结构化的作业、小而稳定的团队、明确的角色，而不是在获得诊断之后才被授予的个别调整。
 
@@ -102,6 +103,8 @@ ai_assist:
 - [[student-modeling]]
 
 ## 关联文章
+
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — 重新框定神经包容小学课堂教育技术的教育价值：一项范围综述
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式AI、虚拟现实及其他：高等教育中神经多样性学生数字辅助技术的范围综述
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29项面向残障学生的AI研究，以及一个随类别变化的效应

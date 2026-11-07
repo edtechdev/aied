@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: 可及性
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,9 @@ ai_assist:
 
 **感官可及性：非视觉与触觉输出。** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** 让口语对话成为视障儿童的首要通道，去除对视觉的依赖。**[[tactile-statistical-graphs-accessibility|触觉 3D 打印图表]]** 把视觉性的统计数据转化为可触摸的输出，供盲生与低视力学生使用。**[[pepper-robot-sign-language-lis-2025|手语机器人]]** 把[[educational-robotics|教育机器人]]延伸到听障学习者的沟通可及性。
 
-**为电影撰写的音频描述无法迁移到讲座录音。** 基于幻灯片的讲座会引用图表、公式与指示性手势，且其中停顿的中位数只有 0.5 秒，因此 [[ad4edu-lecture-audio-description-2026|Psychias 与 Gao（2026）]]构建了一个讲座专用的基准与可依规则诊断的指标；在按机器评判排序的样本对上做事后训练，并未均匀地提升合规性。
+**拒绝优先的访问：请对方给出图形，而不是猜测。** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau 与 Heffernan（2025）]]发现，当任务关键的图形被隐去时，六个多模态模型在 95.4%–98.9% 的运行中拒绝作答而非猜测——一种访问系统应当将其视为"请给出图形，或给出结构化描述"之请求、而非猜测的弃答。所发布的 gold（76 题）与 ultra-gold（61 题）共识子集，为"描述替代"实验提供了一个测试平台，用来在依赖图形的数学题上比较原始图形与经审定的文字描述。
+
+**为电影撰写的音频描述无法迁移到讲座录音。** 基于幻灯片的讲座会引用图表、公式与指示性手势，且其中停顿的中位数只有 0.5 秒，因此 [[ad4edu-lecture-audio-description-2026|Psychias 与 Gao（2026）]]构建了一个讲座专用的基准与可依规则诊断的指标；在按机器评判排序的样本对上做[[llm-training-and-fine-tuning|事后训练]]，并未均匀地提升合规性。
 
 **面向视障学习者的[[generative-ai|生成式人工智能]]。** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等（2026）]]**——一项对三所巴勒斯坦大学 21 名视障[[higher-ed|本科生]]的[[qualitative-research|质性]]案例研究——发现 GenAI 按个体学习画像定制节奏、内容与传递方式，简化复杂的学术文本，并在各模态间转换内容（文本、音频、视觉），使原本不可用的材料变得可用。学习者把即时性框定为可及性的根本要求，而非便利；六项相互依存的技术属性——交互性、易用性、可负担性、多模态性、集成性与可扩展性——决定了 GenAI 在[[global-south|低资源情境]]中是否真正可及，[[usability-research|可用性]]、可负担性与可及性相互强化，而非彼此独立的设计考量。
 
@@ -59,7 +61,7 @@ ai_assist:
 
 **过度包容的 AI 禁令与辅助性转录。** **[[wright-transcription-not-generation-2026|Wright（2026）]]** 论证，对"AI 使用"的一刀切禁令是过度包容的，因为它未能区分语音转文本转录与 OCR 和生成式起草：识别技术转换的是学生已创作内容的*格式*，而非生产新内容，然而一份围绕平台身份撰写的政策会不加区分地把两者一并捕获。患有影响精细动作控制、书写可辨识性或打字准确性状况的学生——包括自闭症谱系状况、运用障碍、脑瘫与重复性劳损——长期依赖独立的语音转文本与 OCR，而有报告表明若干独立语音转文本产品已停产或性能退化，留下 AI 驱动的转录去填补这一功能缺口。把这种替代当作不当行为处理，在英国《2010 年平等法》的合理调整义务、公共部门平等义务、美国《残障美国人法》与澳大利亚《1992 年残障歧视法》之下都会引发公平问题，尽管该文并未主张这一定性已在仲裁庭受到检验。它指出，残障、辅助技术与 AI 不当行为政策三者的交叉研究不足，这种置换的规模尚未被测量，而同一不精确性还会造成不同的假阳性风险，因为检测器会把非英语母语写作者的低困惑度文本读成机器所写。这种过度包容造成的法律风险映射在[[legal-issues-and-risks]]上。
 
-**抗机器性带有可读性代价。** 条纹叠加对抽取的损害最大（字符错误率 +35.9%，词错误率 +38.3%），但四位排版与设计专家判定竖直条纹是可读的，而斜条纹破坏了字形并被判定为不可读，且极端的透明度变化只在同样损害人类可读性的强度上才有帮助（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。
+**抗机器性带有[[reading-education|可读性代价]]。** 条纹叠加对抽取的损害最大（字符错误率 +35.9%，词错误率 +38.3%），但四位排版与设计专家判定竖直条纹是可读的，而斜条纹破坏了字形并被判定为不可读，且极端的透明度变化只在同样损害人类可读性的强度上才有帮助（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。
 
 **面向阅读障碍的 AI：检测、支持与[[personalized-learning|个性化学习]]。** 一项 2026 年的跨学科[[meta-analysis-systematic-review|系统综述]]（Dabaghi、D'Urso 与 Sciarrone，PRISMA 引导，2018–2024，n=72）发现 AI 在检测、辅助支持与个性化学习三方面支持阅读障碍学生——但三条脉络各自平行演化而非整合，更多由技术机会而非巩固的教育理论驱动。基于机器学习的帮助教育工具横跨五个领域（具体应用、投入、个性化、推荐、通用支持），却偏重技术性能与分类准确率，而忽视生态效度与实际的课堂部署。检测研究（EEG、眼动追踪、机器学习模型）对早期干预显示出诊断前景，但常需要专门设备与受控环境，限制了在典型学校情境中的可扩展性与可及性。开放的挑战包括实验验证不足、可扩展性、敏感学生数据的[[ethics]]/[[privacy]]顾虑、[[teacher-role|教师]]支持与培训有限，以及语言与文化障碍（多数研究面向英语人群）——再次印证可及性必须经过验证、可扩展、以伦理为根基，而非仅仅技术上成立。
 
@@ -73,7 +75,7 @@ ai_assist:
 - **用 AI 规模化地自动化可及性。** AI 可以生成字幕、简化文本、产出触觉/音频替代方案并调整呈现方式——但要以人在回路的检查来评价输出质量。
 - **把可及性视为必要但并不充分。** 一个可及的工具并不自动就是包容的、或对残障者公正的工具；要把可及性与[[inclusive-learning]]设计及[[special-education]]支持配对。
 - **把便利安排锚定在法律与政策之中。** 在设计或采购 AI 工具时援引标准（WCAG）与法规（辅助技术法、IDEA）。
-- **在机构层面，人工智能的部署正在跑在人工智能可及性政策之前。** [[chan-ai-institutionalization-index-global-universities-2026|Chan（2026）]]对泰晤士高等教育 2026 年排名中的全部 100 所大学做了编码，发现 0% 发布了独立的人工智能可及性政策，而 93% 部署了由人工智能驱动的校园服务（用于注册、住宿与 IT 的聊天机器人）。作者的善意解读是：可及性义务已含在一般性的残障服务政策之内；但就测量而言，对人工智能工具的要求在公开的机构记录中无处可见。一份简短的机构声明——声明教学与管理中的人工智能工具必须对残障学生可及——就会领先于整个被测量的领域。
+- **在机构层面，人工智能的部署正在跑在人工智能可及性政策之前。** [[chan-ai-institutionalization-index-global-universities-2026|Chan（2026）]]对泰晤士高等教育 2026 年排名中的全部 100 所大学做了编码，发现 0% 发布了独立的人工智能可及性政策，而 93% 部署了由人工智能驱动的校园服务（用于注册、住宿与 IT 的[[conversational-ai|聊天机器人]]）。作者的善意解读是：可及性义务已含在一般性的残障服务政策之内；但就测量而言，对人工智能工具的要求在公开的机构记录中无处可见。一份简短的机构声明——声明教学与管理中的人工智能工具必须对残障学生可及——就会领先于整个被测量的领域。
 
 - **[[physics-education|物理]]视频的数学可及转录（2026）：** 一项使用 Gemini（音频 + 每秒 1 帧视频采样）与 LuaLaTeX 的 AI 工作流，把教学物理视频编译成通过可及性验证的 PDF/UA-2 与 ISO 32005 数学可及 PDF——这是一条让富含方程式的视频内容对盲生与低视力学生可被屏幕阅读的实用、免费路径（[[gemini-lualatex-physics-video-transcription-2026]]）。
 

@@ -1,7 +1,7 @@
 ---
 title: 过程导向评估
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [process-feedback, code-viva]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-29T10:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -52,9 +52,13 @@ ai_assist:
 
 实践者与框架记述填补了成果物的细节。Uden 与 Hwang（2026）的 LEARN 框架面向 [[problem-based-learning|问题式学习]] [[assessment|评估]]，要求过程导向的评分规则、口头论证、分阶段提交与带 [[ai-use-disclosure|AI 使用披露]]的推理轨迹，并把经由学习日志与出声思维协议的反思视为该序列的 [[metacognition|元认知]]引擎。Moganadas 等（2026）把 AI 透明的过程导向评估列为五个可研究命题之一，要求文档、核验与反思性论证，而非禁止或检测器使用。Padhy（2026）建议捕捉修订历史、交互模式与任务用时，并配以透明披露。Goldstein、Marae-Haj 与 Zidan（2026）报告了同样的成果物在 [[trust|信任]]危机后从实践中浮现：提示记录、文档版本历史、受监控的小组贡献，以及记在纸质笔记本中的反思性"旅程日志"——连同那个平实的发现：课后书面作业已无法再证明学习。
 
-具体的工具正在浮现：[[stepwise-teacher-diagnosis-math-2026|Kim 等（2026）]]把问题求解操作化为四个阶段与八个诊断性子技能，使一个大语言模型能生成针对特定阶段的问题与评分规则；五位教师与 64 名学生用该系统处理了 90 道题目与 720 个子问题，平均系统可用性量表得分为 83.5。
+具体的工具正在浮现：[[stepwise-teacher-diagnosis-math-2026|Kim 等（2026）]]把[[problem-solving|问题求解]]拆分为四个阶段与八个诊断性子技能，使一个[[llm|大语言模型]]能写出针对特定阶段的问题与评分规则；五位教师与 64 名学生用该系统在 90 道题目与 720 个子问题上做了试验，平均系统[[usability-research|可用性]]量表得分为 83.5。
 
-要求的文档记录被证明在课程规模上可行：在六个学期的六周异步研究生研究方法课程中，约 440 名 K-12 教师的检查点提交平均完成率为 96%，而后来加入显式提示模板的迭代产生了更长、且明显更实质性的反思（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]）。
+检查点提交在实践中是常规的：在六个学期的六周异步研究生研究方法序列中，服务约 440 名[[k-12|K-12]] 教师，其平均完成率为 96%，而后来加入显式提示模板的迭代产生了更长、且明显更实质性的反思（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]）。
+
+- **"过程证据需要一套特殊的评估制度。"** 其中一些不过是一个下午的测量配置：一项对 **77** 名大学论文写作者的研究使用一个 CodeMirror 编辑器记录插入、删除、选择、剪切、复制与粘贴及其时间戳，旁边是默认 API 上的一个自建聊天面板，共捕获 **361** 条消息。同样的痕迹显示，**14** 条对规划查询的回应被粘贴进最终论文，这是任何产品层面的报告都不会揭示的。诚实的局限在工具本身：键入的词会被算作学生自己的，即便它是从某条回应改写而来，因此打字与思考之间的边界不可见。[[jelson-students-chatgpt-essay-writing-2026|记录过程比为之设计更廉价]]。
+
+**过程痕迹只有在学习者对照任务阅读它时才成为反馈。** [[xian-process-visualization-feedback-news-translation-2026|Xian 等（2026）]]给十一名翻译学生提供 Inputlog 与屏幕录制[[visualization|可视化]]，外加一次 30 分钟的反思会话。意义层修订的占比从 18.1% 上升到 28.4%（t(10) = 4.259，p = 0.002），而总修订量没有显著变化，从 1,292.91 下降到 1,052.36（p = 0.248）。痕迹没有让学生修改得更多，只是修改得不同——这就是用一个结果支持过程证据的论证。
 
 ## 一条不同于真实性、也不同于批改的轴
 
@@ -72,7 +76,7 @@ Salameh（2026）的 Fade-Visibility 矩阵把同一个设计问题与第二个�
 
 ## 设计与工作量成本
 
-各来源异常坦率地指出这是昂贵的。Thapa 与 Lewis 直接陈述了公平性告诫：反思性与对话性任务可能偏袒对学术性自我表达更有信心的学生，除非它们被包容性地设计并加以 [[scaffolding|脚手架支持]]；而关系性的、[[feedback|反馈密集]]的工作在大型或资源受限的情境中加剧了 [[teacher-role|教育者]]的情感与专业劳动——与机构对可扩展性、标准化与可测量表现的期望相矛盾。Sharma 补充了诠释版本：要求有文档记录的推理偏袒更精通反思性话语的 [[learners|学习者]]，而作为证据的判断"仍是关系性与情境性的，而非机械可验证的"。
+各来源异常坦率地指出这是昂贵的。Thapa 与 Lewis 直接陈述了公平性告诫：反思性与对话性任务可能偏袒对学术性自我表达更有信心的学生，除非它们被包容性地设计并加以 [[scaffolding|脚手架支持]]。关系性的、[[feedback|反馈密集]]的工作在大型或资源受限的情境中加剧了 [[teacher-role|教育者]]的情感与专业劳动——与机构对可扩展性、标准化与可测量表现的期望相矛盾。Sharma 补充了诠释版本：要求有文档记录的推理偏袒更精通[[reflection|反思性话语]]的 [[learners|学习者]]，而作为证据的判断"仍是关系性与情境性的，而非机械可验证的"。
 
 运营成本在别处被逐项列出。Boysen 列出了新技术、修订的作业与教学大纲、教学生不熟悉的技能，以及需要收集与批改的额外材料，警告对过程的低利害学分可能抬高成绩，并承认该模型远更适合大型技能发展项目而非日常知识获取工作；他还指出过程追踪正是某些批评者所称的 AI 监控。Goldstein、Marae-Haj 与 Zidan 的参与者报告，建立过程文档需要真实的工作，13 个受资助的高级工具中有 9 个是自掏腰包的，其方式可能加深 [[digital-divide|数字鸿沟]]，且有几人退回到 [[summative-assessment|受监督的考试]]并预期了口试论文答辩。[[equity-in-ai-education|公平性]]担忧在 Brunnström 与 Palmqvist 的发现中带有 AI 特有的边界：无引导的工具使用要求一种分布不均的交互管理技能，因此 AI"可能对已处优势的学生最有益"——这与要求学生管理一个有文档记录的过程时伴随的是同样的分布性风险。Lopez-López、Bru-Cordero 与 Correa-Álvarez（2026）发现，投入更多独立学习时间的学生对 AI 使用的判断更严格，并建议检验披露模板、口头答辩与基于过程的评估是否降低 [[ethics|伦理]]不确定性——这是一项该领域仍需要的研究。风险附着于使过程证据起作用的那个机制：在协作、修订与反思被评分之处，学生有理由生产匹配其预期评分者所想的证据，因此过程记录可能变成表演性的而非证据性的（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson（2026）]]）。
 
@@ -124,3 +128,5 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：通过大语言模型生成的问题支持教师诊断学生的数学问题求解技能
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 六个学期、约 440 名教师中，对 AI 对话的检查点文档记录保持 96% 的完成率
 - [[rubrics-genai-process-based-assessment-2026]] — 源自 Biggs 3P 模型的三个评分规则维度：能动性与监督、对话性脚手架、认知主权（Oviedo 与 Díaz 2026）
+- [[jelson-students-chatgpt-essay-writing-2026]] — 一个 CodeMirror 编辑器加一个被记录的聊天面板，把一次论文写作会话变成过程证据，及其打字对思考的局限（Jelson 等 2026）
+- [[xian-process-visualization-feedback-news-translation-2026]] — 过程可视化加一次反思会话，在未增加修改量的情况下把修订从表层转向意义层

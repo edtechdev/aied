@@ -1,9 +1,9 @@
 ---
 title: "我可以用 AI 公平、可靠地给学生作业评分吗？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 你有一套自己信得过的量规，作业比时间多，还有一个工具，能在读完一篇作文的时间里返回一个分数外加几段信心十足的说明。你拿它去跑自己已经评过的作业。一半的分数看着对。一个莫名其妙地宽松，一个莫名其妙地严，而你还说不清那是工具的问题还是作文的问题。
 
-给同事的简短回答：AI 评分可以在受监督的助手或第二阅卷人的位置上占一席，前提是在你已经亲手批过的作业上校验过它。一致性不会跨评估类型迁移。在一场 16 名学生的药学考试中，[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]]发现客观题类型上的一致近乎完美，而开放式作答上的一致并不可靠。在三所英国大学，[[opraise-automated-marking-ai-assessment-2026|OpRaise 项目]]发现 AI 与人类评分者在学位等级上的一致率因院校而异，在 35% 到 65% 之间，且分数向中间压缩。一段流畅的理由说明不了你的标准被用上了。结果对你的决定是否[[assessment-validity|有效]]，是一个你必须自己回答的本地问题；而任何会成为记录成绩的东西，[[human-in-the-loop-ai|都由一个人负责]]。
+简短的回答是：AI 评分可以在受监督的助手或第二阅卷人的位置上占一席，前提是在你已经亲手批过的作业上校验过它。一致性不会跨评估类型迁移。在一场 16 名学生的药学考试中，[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]]发现客观题类型上的一致近乎完美，而开放式作答上的一致并不可靠。在三所英国大学，[[opraise-automated-marking-ai-assessment-2026|OpRaise 项目]]发现 AI 与人类评分者在学位等级上的一致率因院校而异，在 35% 到 65% 之间，且分数向中间压缩。一段流畅的理由说明不了你的标准被用上了。结果对你的决定是否[[assessment-validity|有效]]，是一个你必须自己回答的本地问题；而任何会成为记录成绩的东西，[[human-in-the-loop-ai|都由一个人负责]]。
 
 ## 简版要点
 
@@ -48,7 +48,7 @@ ai_assist:
 
 **反馈助手**为你起草评语，或标出可能的遗漏，由你接受、改写或丢弃。风险被限制在评语质量上，而且每一条到你学生手上之前你都读过。**第二阅卷人**提出分项分数，或标出分歧，用来组织你自己的评阅。它的错误必须有用，而不能只是错：一个把你拉回某份你本来会草草批过的作业的标记，值得拥有。**主评分者**产出的分数会成为记录成绩。这正是本知识库的证据在狭窄的、经本地验证的案例之外并不支持的安排。
 
-选能解决你实际约束的最低一档。如果你的评阅负担来自核对一份固定的答案键，普通的确定性评分比语言模型更透明、更可审计，而那项药学研究提示，LLM 在客观题上的优势有一部分是评分时把正确答案交给它造成的。把模型留给需要解释的工作，然后去核查那份解释。
+选能解决你实际约束的最低一档。如果你的评阅负担来自核对一份固定的答案键，普通的确定性评分比[[llm|语言模型]]更透明、更可审计，而那项药学研究提示，LLM 在客观题上的优势有一部分是评分时把正确答案交给它造成的。把模型留给需要解释的工作，然后去核查那份解释。
 
 [[automated-assessment|自动化评估]]覆盖评分、审核与反馈生成的整套机制。本页讲的是它底下那个判断问题。
 

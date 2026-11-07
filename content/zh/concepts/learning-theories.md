@@ -1,7 +1,7 @@
 ---
 title: 学习理论
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 引言
 
-这是知识库中"学习理论"这条线索的总括概念。学习理论处于人工智能教育的核心，因为每个人工智能辅导系统、自适应系统和反馈工具都嵌着关于人如何学习的假设——无论设计者是否明言。知识库把这些理论逐一记录，并把它们当作评估人工智能设计与效果的概念透镜。检验这些框架的研究领域是一个单独的页面：[[learning-sciences|学习科学]]实证地研究学习——实验、课堂试验与设计型研究——并把理论当作有待确认或证伪的东西，而本页收集的是框架本身；这两个词组在本知识库中被刻意区分，单数的"learning science"指这条理论线索。
+这是知识库中"学习理论"这条线索的总括概念。学习理论处于人工智能教育的核心，因为每个人工智能辅导系统、自适应系统和反馈工具都嵌着关于人如何学习的假设——无论设计者是否明言。知识库把这些理论逐一记录，并把它们当作评估人工智能设计与效果的概念透镜。检验这些框架的研究领域是一个单独的页面：[[learning-sciences|学习科学]]实证地研究学习——实验、课堂试验与[[design-based-research|设计型研究]]——并把理论当作有待确认或证伪的东西，而本页收集的是框架本身；这两个词组在本知识库中被刻意区分，单数的"learning science"指这条理论线索。
 
 ### 学习理论的全景
 
@@ -49,7 +49,9 @@ ai_assist:
 
 ### 学习理论与学习增益
 
-学习理论最终由其结果来评价，而知识库的[[learning-gains]]概念正是理论遇上证据之处。每种理论对*什么算作*学习、以及如何测量它，都有不同的预测：行为主义预测在操练–反馈任务上的可观察表现增益；建构主义预测可迁移到新问题的更深理解；社会文化理论预测参与与中介式问题解决上的增益；而认知负荷理论预测只有教学尊重工作记忆限度时才有增益。这就是为什么[[learning-gains]]测量是负载理论的——建立在一种理论上的工具，可能捕捉不到另一种理论所预测的增益。在人工智能时代，人工智能辅助的表现与无辅助[[learning-gains|学习增益]]之间的显著分歧（参见[[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]）可以通过这一透镜来读：行为主义的读法把虚高的作业分数视为成功，而聚焦持久理解的建构主义读法，把同样的证据视为学习的失败。因此，把理论连接到[[ai-ed-evaluation|评价]]与[[learning-gains|测得的结果]]，对判定某个人工智能系统实际满足了哪一种理论透镜是必要的。
+学习理论最终由其结果来评价，而知识库的[[learning-gains]]概念正是理论遇上证据之处。每种理论对*什么算作*学习、以及如何测量它，都有不同的预测：行为主义预测在操练–反馈任务上的可观察表现增益；建构主义预测可迁移到新问题的更深理解；社会文化理论预测参与与中介式[[problem-solving|问题解决]]上的增益；而认知负荷理论预测只有教学尊重工作记忆限度时才有增益。因此，测量选择决定了评价能够确认哪一种理论的预测。在人工智能时代，人工智能辅助的表现与无辅助[[learning-gains|学习增益]]之间的显著分歧（参见[[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]）可以通过这一透镜来读：行为主义的读法把虚高的作业分数视为成功，而聚焦持久理解的建构主义读法，把同样的证据视为学习的失败。
+
+**汇总证据是正面的，而它测量的构念比各理论更窄。** 一项对 53 项研究的 PRISMA [[meta-analysis-systematic-review|元分析]]给出 GenAI 辅助在学业成就上 g = 0.40、在[[critical-thinking|高阶思维]]上 0.72、在写作上 0.76、在动机上 0.81，其中 GenAI 反馈是最大的机制，g = 1.27（[[genai-educational-outcomes-meta-analysis|Dong（2026）]]）。这些都是纳入研究所选用的工具上的增益，因此它们了结了行为主义或认知主义意义上"它有效"的问题，却让建构主义关于持久、可迁移理解的预测仍未被检验。国家子组也出现分歧，从中国的 g = 0.71 到土耳其不显著的 g = 0.01，因此汇总估计是一个要在本地检验的平均值，而不是工具本身的属性。
 
 ### 学习理论为何对人工智能教育重要
 
@@ -65,7 +67,7 @@ ai_assist:
 
 - **人–人工智能共同[[regulation]]。**一个发展性框架把人工智能定位为**认知伙伴**而非外部工具，它在整个一生中共同调节思维、学习与自我控制。（[[ai-cognitive-partner-co-regulation-learning]]）它借助执行功能、[[metacognition]]、分布式认知与社会文化发展，赋予人工智能四种角色——支架、元认知支持、外部记忆 / [[cognitive-offloading]]系统与决策伙伴——该框架从童年中期往后最为相关。
 - **集合认知（Ensemble Cognition）。**一个[[philosophy-of-ai-in-education|哲学]]框架把思维重新概念化为从人与人工代理之间的动态互动中涌现，而非只居于个体心智之中。（[[ensemble-cognition-philosophy-ai-education]]）它挑战"意识范式"（自主性、意识与稳定性的假设），并阐明五个特征——分布式能动性、动态中心性、认知编排、多表征整合与依情境切换——同时把人工智能的**功能能动性**与道德责任区分开来。
-- **[[self-directed-learning|自主]]成长 / A2PL。**[[self-directed-learning|自主学习]]的一个扩展，把生成式人工智能与[[learning-analytics|学习分析]]结合起来培养**自主成长**，并通过"学习者潜力模型"（Aspire to Potentials for Learners，A2PL）付诸操作。（[[self-directed-growth-generative-ai-learning-analytics]]）它把学习者的抱负（人本主义）、复杂思维（建构主义）与自我评估（实用主义）重构成单一胜任力，把 GAI 定位为非规定性的协作支架，而非内容提供者。
+- **[[self-directed-learning|自主]]成长 / A2PL。**[[self-directed-learning|自主学习]]的一个扩展，把生成式人工智能与[[learning-analytics|学习分析]]结合起来培养**自主成长**，并通过"学习者潜力模型"（Aspire to Potentials for Learners，A2PL）付诸操作。（[[self-directed-growth-generative-ai-learning-analytics]]）它把学习者的抱负（人本主义）、复杂思维（建构主义）与[[self-assessment|自我评估]]（实用主义）重构成单一胜任力，把 GAI 定位为非规定性的协作支架，而非内容提供者。
 - **欺骗性过度泛化。**[[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]]扩展了 ACT-R / 知识–学习–教学（Knowledge-Learning-Instruction）传统，理论化了"观察到的正确性掩盖不完全的条件性理解"发生在何时：学习者编译出一个过度泛化的产生式规则，遗漏了某条应用约束，却仍然表现正确——这种失败模式，自适应掌握系统、乃至传统教学，都可能错过，除非它们检验*何时应当克制*某个行动。
 - **可执行的 KLI 理论。**[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]把知识–学习–教学框架扎根于一个可执行的计算模型（带 ACT-R 式记忆机制的学徒学习者框架），它复现了人类数据中的一个交叉交互：纯练习有助于逐字事实记忆（通过延迟遗忘），而范例整合练习有助于可泛化技能的归纳。由于 KLI 把常量（事实）知识系于记忆过程、把变量（技能）知识系于归纳，其结果是一个被预测的内容–处理交互，而非"测试与范例建议"之间的矛盾——而该模型只在有记忆机制在场时才成功，这证明了练习与范例扮演着各不相同、互补的角色。
 - **具身性作为对人工智能范式的本体论挑战。**[[videla-embodied-ai-education-choreography|Videla、Penny 与 Ross（2026）]]论证，一道本体论的鸿沟把具身的、生成（enactive）的认知与人工智能所体现的表征性语汇分离开来，因此人工智能应当被移出认识中心的位置，而非被当作中性工具对待。
@@ -84,7 +86,7 @@ ai_assist:
 
 与经典家族并列，知识库还记录了专为"与人工智能系统一起学习"而写的理论，它们承载着旧理论未加展开的设计意涵。[[yan-agentivism-learning-theory-ai-2026|能动主义（Agentivism，Yan 与 Gašević，2026）]]是一个中层例子：它把学习定义为人类能力的持久增长，而非任务的顺利完成，命名了四种机制（被委托的能动性、认识上的监控与验证、重构性内化、以及在支持减少时的迁移），并陈述了六个可检验的命题，其中包括：那种保留了学习者对问题框定、标准设定与论证之责任的人工智能支持，比直接交付答案的支持产生更强的学习。
 
-[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed（2026）]]的**教学共生（Pedagogical Symbiosis）**提出了一个更强的本体论主张：学习者是一个*后人类*实体，其认知是混合的而非工具辅助的，由四条原则组织：认知卸载与增强、认识上的共同建构、元认知共生与动态身份形成；它以一份共生作品集量规和一种"认知编舞者"教师角色付诸操作；它明确未被检验。
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed（2026）]]的**教学共生（Pedagogical Symbiosis）**提出了一个更强的本体论主张：学习者是一个*后人类*实体，其认知是混合的而非工具辅助的，由四条原则组织：认知卸载与增强、认识上的共同建构、元认知共生与动态身份形成；它以一份共生作品集量规和一种"认知编舞者"[[teacher-role|教师角色]]付诸操作；它明确未被检验。
 
 ## 常见误解
 
@@ -150,7 +152,7 @@ ai_assist:
 - [[self-directed-growth-generative-ai-learning-analytics]] — 自主成长与用生成式人工智能扩展自主学习的 A2PL 模型
 - [[generativism-learning-theory]] — 为生成式人工智能时代提出一种新学习理论，重审经典四种
 - [[ai-vocational-education-training-review]] — 记录了人工智能用于职业教育中的建构主义/行为主义理论–实践缺口
-- [[genai-educational-outcomes-meta-analysis]]
+- [[genai-educational-outcomes-meta-analysis]] — 53 项研究的 PRISMA 元分析：在成就、思维、写作与动机上的汇总增益，反馈是最大机制（Dong 2026）
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent：作为中介智能体的生成式 AI

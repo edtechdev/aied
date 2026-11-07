@@ -1,7 +1,7 @@
 ---
 title: 通过教学学习
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -68,7 +68,7 @@ ai_assist:
 - **问题识别知识空白。** LbT 系统用学习者生成的问题来暴露空白并强化理解，[[teaching-ai-vocabulary-lbt-llms-2026|LLM 生成的问题]]则取代了僵化的基于模板的生成器。
 - **回讲暴露澄清所遗漏之处。** 在一个 22 人参与的后讲评回顾系统中，同伴智能体的反思式回讲一致地暴露了学习者自以为理解与他们所能清晰表达之间的空白，而仅仅依托讲座的澄清并未揭示这一点（[[knowloop-confusion-to-consolidation-2026|Fang 与 Reidsma（2026）]]）。
 - **LbT[[scaffolding|支架]]起自我[[regulation|调节]]。** 教导一个[[conversational-ai|对话式智能体]]能培养[[self-efficacy|自我效能]]和自我调节学习策略的实施，并把 LbT 与[[desirable-difficulties|有益的困难]]联系起来——解释与纠错这种费力的行为本身就是一种 AI 的"去摩擦化"会抹除的 productive struggle。
-- **预测辅导者学习的是知识建构，而非先前知识。** 在 23 名中学生辅导者中，回应中建构知识而非复述知识的比例预测了概念后测成绩（β = .138，p < 0.05），而先前测验成绩不能预测谁产出了这类回应，且先前知识低的辅导者只要建构了知识，最终就与先前知识高的同伴持平（[[knowledge-building-tutor-learning-2026|Ameen 等（2026）]]）。
+- **预测辅导者学习的是知识建构，而非[[prior-knowledge|先前知识]]。** 在 23 名中学生辅导者中，回应中建构知识而非复述知识的比例预测了概念后测成绩（β = .138，p < 0.05），而先前测验成绩不能预测谁产出了这类回应，且先前知识低的辅导者只要建构了知识，最终就与先前知识高的同伴持平（[[knowledge-building-tutor-learning-2026|Ameen 等（2026）]]）。
 
 ## 为什么在 AI 教育中重要
 

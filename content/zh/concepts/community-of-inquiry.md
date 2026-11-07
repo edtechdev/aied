@@ -1,7 +1,7 @@
 ---
 title: 探究共同体
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,11 +56,15 @@ CoI 起源于[[online-teaching-and-learning]]，并仍与之最紧密地关联�
 - **模仿社会临场** —— 机器产出的话语能以高语言可信度类似共情和回应，使关系问责复杂化。
 - **重新分配教学临场** —— 设计、促进和直接教学变成分布式的成就，教师示范如何追问生成输出并识别幻觉引文。
 
-实证网络证据现在位于这些主张之下：在一项准实验中，63 名中国本科生（33 名有、30 名无 GPT-4o mini 聊天机器人）在 CollaboRead 上对共享阅读材料做批注，跨五个每周任务，[[network-analysis|认识网络分析]]显示，有辅助的班把社会临场绑到整合与解决，而对照班把社会临场绑到触发与探索（X 轴 U = 25.00，p = 0.01，r = 1.00；Y 轴 U = 13.00，p = 1.00，r = 0.04），且有辅助的班自陈认知和情感参与更高。随后临场在条件内部而非条件之间分开：高成就组在 2319 条批注中发起了 1407 次反馈请求（60.7%），而低成就组在 2167 条中只有 737 次（34.0%），后者停留在自我指涉的循环中，且微弱地利用了脚手架（[[genai-social-annotation-epistemic-network-analysis-2026|Pan 等，2026]]）。
+- **过早介入** —— 在一项在线讨论研究中，专家促进者始终比 LLM 评判者更谨慎地介入，后者过于急切地想要促进；而最好的训练分类器仍然撞上了可用数据集所施加的低天花板（[[llm-facilitation-timing-online-discussions|Tsirmpas、Korre 与 Pavlopoulos，2026]]）。因此，重新分配教学临场改变的是介入的阈值：模型会在人会选择等待的地方插话，而这正是讨论区会注意到的失败模式。
+
+一项对 21 项研究的范围综述发现，三种临场的证据并不均衡：社会临场在 13 项研究中被考察，认知临场 10 项，而教学临场只有 5 项，且每一项教学临场研究都把它与另一种临场一并考察。认知临场聚集在探索与整合，解决最少见；讨论式或任务式设计与认知临场相关，而教学智能体与具社会表现力的设计与社会临场相关（[[doo-genai-community-of-inquiry-scoping-review-2026|Doo 与 Park，2026]]）。
+
+实证网络证据现在位于这些主张之下：在一项准实验中，63 名中国本科生（33 名有、30 名无 GPT-4o mini 聊天机器人）在 CollaboRead 上对共享阅读材料做批注，跨五个每周任务，[[network-analysis|认识网络分析]]显示，有辅助的班把社会临场绑到整合与解决，而对照班把社会临场绑到触发与探索（X 轴 U = 25.00，p = 0.01，r = 1.00；Y 轴 U = 13.00，p = 1.00，r = 0.04），且有辅助的班[[self-report-measures|自陈]]认知和情感参与更高。随后临场在条件内部而非条件之间分开：高成就组在 2319 条批注中发起了 1407 次反馈请求（60.7%），而低成就组在 2167 条中只有 737 次（34.0%），后者停留在自我指涉的循环中，且微弱地利用了脚手架（[[genai-social-annotation-epistemic-network-analysis-2026|Pan 等，2026]]）。
 
 与其说生成式 AI 是一个工具、一个对话伙伴，或一个投机性的"第四临场"，它最好被理解为一个**认识条件** —— 一种普遍的影响，通过可见输出和不可见的训练数据、算法与平台逻辑，重新配置临场如何被践行、解释、证据化和治理。
 
-该框架自身的作者为这一条件提供了一个角色分类法：[[ai-communities-of-inquiry-2026|Stenbom 与 Garrison（2026）]]把 AI 安置为学习设计支持、独立的学习者资源、经由分析的教师支持功能、共同体成员和持续的对话伙伴，并提议共享的[[metacognition]]—— 自我和共同[[self-regulated-learning|调节]] —— 作为让学习者持续审计 AI 输出的东西。
+该框架自身的作者为这一条件提供了一个角色分类法：[[ai-communities-of-inquiry-2026|Stenbom 与 Garrison（2026）]]把 AI 安置为[[learning-design|学习设计]]支持、独立的学习者资源、经由[[learning-analytics|分析]]的教师支持功能、共同体成员和持续的对话伙伴，并提议共享的[[metacognition]]—— 自我和共同[[self-regulated-learning|调节]] —— 作为让学习者持续审计 AI 输出的东西。
 
 ## 实践启示
 
@@ -95,9 +99,13 @@ CoI 起源于[[online-teaching-and-learning]]，并仍与之最紧密地关联�
 
 ## 关联文章
 
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — 21 项研究的范围综述：临场证据不均衡，教学临场研究最少，设计配置区分结果（Doo 与 Park 2026）
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — 拆解 GenAI 辅助社会性批注中的学生互动：认知临场与社会临场的认识网络分析
 
 - [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新构想探究共同体
 - [[ai-communities-of-inquiry-2026]] — 探究共同体中的 AI
 - [[ai-online-education-engagement-satisfaction-2026]] — AI 与在线教育投入
 - [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：作为认知中介的 AI
+
+- [[llm-facilitation-timing-online-discussions]] — 人类与 LLM 促进者：模型比专家人类更急切地介入（Tsirmpas 等，2026）
+

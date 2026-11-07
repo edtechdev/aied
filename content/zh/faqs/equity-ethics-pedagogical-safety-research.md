@@ -1,7 +1,7 @@
 ---
 title: "教育领域的人工智能研究应当如何纳入公平、无障碍、隐私、伦理与教学安全？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 weight: 60
 audience: [researchers, instructors, instructional designers]
 
@@ -54,7 +54,7 @@ ai_assist:
 
 ## 让残障学习者进入设计室
 
-把残障学习者纳入设计与评估，对照可及性要求测试真实界面，并提供等效的参与路径和展示学习的路径。技术合规与包容性教学是两场不同的检验，[[accessibility|可及性]]两个都覆盖。
+把[[special-education|残障学习者]]纳入设计与评估，对照可及性要求测试真实界面，并提供等效的参与路径和展示学习的路径。技术合规与[[inclusive-learning|包容性教学]]是两场不同的检验，[[accessibility|可及性]]两个都覆盖。
 
 一项与社区学院学生、教师和开发者共同进行的[[ko-hughes-vsd-student-centered-its-2026|价值敏感设计研究]]展示了这在实践中是什么样。它产出了 16 项价值对齐的功能，分布在[[explainable-ai|可解释性]]（E1-E5）、[[human-in-the-loop-ai|人在回路]]控制（H1-H9）和[[privacy]]（P1-P4）之上，并且浮现出的是张力而不是干净的答案：透明与可解释、隐私与教学洞察、学习者[[agency|能动性]]与系统引导的[[scaffolding|脚手架]]。要预期自己得去裁定这些张力，并记下你选了哪一边。
 
@@ -72,7 +72,7 @@ ai_assist:
 
 ## 混合方法，并展示从数据到主张的路径
 
-拆分的[[quantitative-research|定量]]结果能揭示[[differential-effects-across-learner-groups|差异化效应]]。访谈、观察、焦点小组和共同设计能浮现总体分数看不到的障碍、伤害、文化假设和学习者体验。[[research-methods-aied|AIED 研究方法]]综述把三角互证视为必要，因为没有任何单一[[qualitative-research|定性]]或定量方法能同时最大化因果推断、生态效度、情境理解和可推广性。
+拆分的[[quantitative-research|定量]]结果能揭示[[differential-effects-across-learner-groups|差异化效应]]。访谈、观察、焦点小组和共同设计能浮现总体分数看不到的障碍、伤害、文化假设和[[student-experience|学习者体验]]。[[research-methods-aied|AIED 研究方法]]综述把三角互证视为必要，因为没有任何单一[[qualitative-research|定性]]或定量方法能同时最大化因果推断、生态效度、情境理解和可推广性。
 
 你自己的分析需要同样的纪律。[[chain-behind-claim-warrantability-2026|可辩护性提案]]主张，一个 AI 辅助的解释只有在随附可核查产物时才保持可查看、可质疑、可修订，比如来源链接的主题表、视角堆叠和证据河流。一份流畅的摘要不应该掩盖产生它的那条路径。
 

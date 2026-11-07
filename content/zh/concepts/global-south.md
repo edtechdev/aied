@@ -1,7 +1,7 @@
 ---
 title: 全球南方
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,11 +48,11 @@ ai_assist:
 - **机构整合与结构性不平等：** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等（2026）]]对 45 所尼日利亚大学（联邦/州/私立）的比较内容分析发现，AI 整合由机构年龄与地理位置预测——而非治理类型——且国际与产业网络联系相互强化（r = 0.74），因而连接良好的机构优势累加，其他机构则更加落后。研究把 [[digital-divide|数字不平等]]不只定位于学习者层面，而是定位于 [[higher-ed|高等教育]]机构自身的结构能力之中。
 - **结构约束下的 [[educational-development|学术发展]]作为数字中介：** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole（2026）]]访谈了南非两所历史上处于不利地位的机构中的十二位学术发展者与学习设计者，划出了全球南方文献常常模糊的一条分析界线：**数字不平等**是分配性的，原则上可以通过再分配与访问得到回应，而**算法殖民性**是认识论的，即便在完全访问的条件下依然存在，因为它内在于系统所编码的内容以及它们以谁的知识为中心。二者相互缠绕，却需要不同的回应，而机构处于双重位置——被基础设施稀缺排斥，而一旦纳入，又被编码了其他知识与规范的进口系统所从属。机构的 AI 修辞（"谈绩效多于谈实践"）抵达时与教学的物质现实松散耦合，于是发展者把全球数字化转型话语转译为情境可行的实践：在同侪空间中测试并刻意"破坏"工具、坚持判断优于技能、并承担投影自己仍在习得的专业能力的情感代价。
 - **认识论边缘化：** [[genai-minoritized-knowledges-disability|Tali-Otmani]]论证，以西方为中心的训练数据把非西方与以残障为中心的知识边缘化——把全球南方的关切与 [[equity-in-ai-education]] 和 [[culturally-relevant-pedagogy]] 联系起来。
-- **全球南方的残障与 [[inclusive-learning|包容]]：** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等（2026）]]——一项对三所巴勒斯坦大学 21 名视障本科生的 [[qualitative-research|质性]]案例研究——发现 GenAI 为残障学习者弥合了数字、地理与社会经济鸿沟，把 [[technology-acceptance-model|技术接受]]研究扩展到残障情境，其中 [[usability-research|可用性]]、可负担性与 [[accessibility]] 相互强化。
+- **全球南方的残障与 [[inclusive-learning|包容]]：** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等（2026）]]——一项对三所巴勒斯坦大学 21 名视障本科生的 [[qualitative-research|质性]]案例研究——发现 GenAI 为[[special-education|残障学习者]]弥合了数字、地理与社会经济鸿沟，把 [[technology-acceptance-model|技术接受]]研究扩展到残障情境，其中 [[usability-research|可用性]]、可负担性与 [[accessibility]] 相互强化。
 - **在资源约束下为当地压力源设计：** Bashir 与 Afzal（2026）构建了 [[culturally-aware-student-stress-chatbot-2026|Sukoon]]，作为对一项已记录错配的全球南方设计回应——心理健康 [[conversational-ai|聊天机器人]]的训练数据大多来自西方且以英语为主，而巴基斯坦学生同时面对学业、经济、家庭与关系压力，且往往因污名无法向 [[parents-and-families|家长]]、[[teacher-role|教师]]或同侪倾诉情绪困难。作者的实践约束与其模型同样有教益：通过托管 API 提供免费访问的 [[open-source]] [[llm]]，资源需求低；为地区大学提供的轻量 Flask 部署；把"工具可得但往往昂贵"列为障碍；并把对付费模型的不平等访问标注为普遍依赖风险。他们还指出分类器是在一个不具巴基斯坦学生代表性的公开数据集上训练的，并承诺在得出总体结论之前收集本地的 DASS-21 数据。
-- **非洲高等教育中稀薄且工具特定的评估证据：** [[genai-assessment-african-higher-education-review-2026|一项 PRISMA 2020 系统综述]]检索了 2023 至 2025 年间发表的实证研究，只找到十项，集中在尼日利亚和南非，且几乎全部在 ChatGPT 上进行，因此关于在非洲高等教育中为生成式 AI 重新设计评估的已知，立足于小样本、单一机构、自报的研究，而非测得的学习增益——综述作者把自己的建议框定为方向而非定论。
+- **非洲高等教育中稀薄且工具特定的评估证据：** [[genai-assessment-african-higher-education-review-2026|一项 PRISMA 2020 系统综述]]检索了 2023 至 2025 年间发表的实证研究，只找到十项，集中在尼日利亚和南非，且几乎全部在 ChatGPT 上进行，因此关于在非洲高等教育中为生成式 AI 重新设计评估的已知，立足于小样本、单一机构、[[self-report-measures|自报]]的研究，而非测得的[[learning-gains|学习增益]]——综述作者把自己的建议框定为方向而非定论。
 
-- **公平是该地区研究最少的维度。** 一项对 75 项全球南方研究（2022–2025）的 PRISMA-ScR 范围综述发现，尽管公平对包容教育至关重要，它却是五个领域中考察最少的，并报告了学生所申明的伦理立场与其行为之间的差距（[[nguyen-genai-global-south-review-2026|Nguyen 与 Perkins（2026）]]）。
+- **公平是该地区研究最少的维度。** 一项对 75 项全球南方研究（2022–2025）的 PRISMA-ScR [[meta-analysis-systematic-review|范围综述]]发现，尽管公平对包容教育至关重要，它却是五个领域中考察最少的，并报告了学生所申明的伦理立场与其行为之间的差距（[[nguyen-genai-global-south-review-2026|Nguyen 与 Perkins（2026）]]）。
 
 ### 启示
 
@@ -60,7 +60,7 @@ ai_assist:
 
 规模化的记录是这幅图景的一部分，它令人警醒。在试点规模上有效的项目，一旦由政府运行往往就不再有效：肯尼亚那个在非政府实施下产生可观收益的项目，在政府规模上没有可检出的收益（Bold 等）；效应量倾向于随项目扩张而下降（Vivalt）；实施质量随着站点增多而被稀释（Al-Ubaydli、List 与 Suskind）。拉丁美洲自己的先例是秘鲁的"一童一机"项目——约 800,000 台笔记本发放，对 [[math-education|数学]]或阅读无可检出的效应——从中得出的教训是：获得技术并不等于教学。[[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales 等（2026）]]在规模化教训之外又加了一条报告教训：在 2026 年萨尔瓦多事件中，一个覆盖 171 所学校的 AI 辅导试点被宣告为可比德国和瑞典，而同一国家有代表性的 PISA 2025 样本显示三科中有两科没有变动，且试点数据过薄（每校 7.0 名受评学生，而全国为 25.4），无法排除选择效应作为解释。对以规模化采纳 AI 的全球南方系统而言，启示是双重的：某项改革有效的证据，通常关乎它所捆绑的组件，而非其头条中的技术；而一个在部署之前设计好的分阶段推广，几乎不花成本就能识别效应——在连通性本来就决定了分步节奏的地方，这一点尤其要紧。
 
-[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi 与 van der Merwe（2026）]]从一间南非九年级课堂出发论证，以限制为先的机构政策排除了 AI 在教学资源匮乏条件下扩展而非替代教师的那些条件，而学习者产生的交互数据则处于外国治理制度之下。
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi 与 van der Merwe（2026）]]从一间南非九年级课堂出发论证，以限制为先的[[educational-policy-ai|机构政策]]排除了 AI 在教学资源匮乏条件下扩展而非替代教师的那些条件，而学习者产生的交互数据则处于外国治理制度之下。
 
 ## 常见误解
 

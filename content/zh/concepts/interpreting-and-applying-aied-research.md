@@ -1,7 +1,7 @@
 ---
 title: 解读与应用 AIEd 研究
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -70,7 +70,7 @@ ai_assist:
 - **该领域自己的综述也经不起审计。** [[oneill-presumed-effective-meta-analysis-2026|O'Neill（2026）]]对声称 AI 改善教育的 **14 项同行评审元分析**的审计发现，**没有一项**为其提出的论断提供了有效依据；而在随机选取的 46 项原始研究中，**61%** 存在效度问题。问题不在于某篇糟糕的论文，而在于一种报告文化。
 - **综述可以量化其自身语料中的报告偏斜。** 一项对 155 项高等教育研究的系统综述发现，117 项（75.5%）报告了成功的实施，124 项（80.0%）仅涵盖短期影响，只有 23 项（14.8%）报告了 [[ethics]]、公平或治理方面的失败——正是上述检查项所描述的那种失衡，在该综述自身的证据基础上得到测量（[[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga（2026）]]）。
 - **自我报告让每个人都显得更好。** 人们对自己[[ai-literacy|AI 技能]]的评价比表现测量显示的高出约 **40%**，这就是为什么满意度和信心调查是你能据以行动的最弱证据（[[self-report-measures|自我报告测量]]，[[educational-measurement|教育测量]]）。
-- **大多数已经在教室里的产品根本没有独立证据。** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners 的 2025–26 学习巡回考察]]为 20 款面向学生的 AI 产品建立了档案，发现在档案完整的 16 款中，只有七款有独立评审考察过美国各学生群体的学业成就；两款只在国外被研究过，四项研究正在进行中，三款仅依赖内部数据。作者主张，覆盖优先群体的独立因果研究应当成为所有面向学生产品的预期 —— 而它还不是学校已在使用的工具的常态。
+- **大多数已经在教室里的产品根本没有独立证据。** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners 的 2025–26 学习巡回考察]]为 20 款面向学生的 AI 产品建立了档案，发现在档案完整的 16 款中，只有七款有独立评审考察过美国各学生群体的[[learning-gains|学业成就]]；两款只在国外被研究过，四项研究正在进行中，三款仅依赖内部数据。作者主张，覆盖优先群体的独立因果研究应当成为所有面向学生产品的预期 —— 而它还不是学校已在使用的工具的常态。
 
 ## 把一个结论变成一项决定
 

@@ -1,7 +1,7 @@
 ---
 title: 通用学习设计
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ UDL立足于一个洞见：学习者差异是常态而非例外。UDL不是设�
 "以设计求公平"是把这一立场落地的一种具体方式。Wenzel、Geiger 与 Liening（2026）把他们在商业[[simulation]]游戏中面向AI [[conversational-ai|对话智能体]]的CAIS-GBL框架，建立在与通用学习设计对齐的明确**以设计求公平**路径上，推导出横跨认知、[[motivation|动机]]、[[affective-computing|情感]]与[[sociocultural-learning|社会文化]]参与的元需求。他们的设计原则与特性旨在应对学习者在优势、挑战与兴趣上的个体差异——这是把UDL原则具体应用于自适应、AI支持的[[game-based-learning|游戏化学习]]设计。
 一个工具可以服务全部三条 UDL 原则，却仍然收窄一位讲师所能决定的东西。[[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi（2026）]]正因此论证，把工具映射到一条 UDL 原则是必要的但不充分的，并提出在检查项中加入年度去专业化审计与供应商依赖登记。
 
-AI在这份文献中也作为UDL的障碍而非其工具出现。在[[faculty-accessible-course-design-ai-2026|Sidhu、Atif 与 Newland（2026）]]对一所安大略大学69名教授的混合方法研究中，四个关键主题之一是：[[generative-ai|生成式AI]]正在逆转可及性课程设计的进展；标题引语"AI正在减少我曾有的选项"出自他们的访谈，因为那些曾承担了包容工作、以课后提交与起草为基础的作业，正是AI现在能一鼓作气完成的那类。他们的教师层面发现解释了这次倒退为何落在一个本已单薄的基础上：90%的受访者相信自己创造了可及的学习环境，87%表示自己积极考虑可及性，但只有不到一半（46%）认为学校为此提供了足够资源，约五分之一人从未听说过OCR可读PDF或颜色独立链接这类最基础的技术。需求正在跑赢供给——安大略大学注册人数从2013到2022年增长17%，而向可及性服务处注册的人数上升126%——因此该研究的主张是：UDL支持必须获得资源投入，以补偿AI移走的评估选项。
+AI在这份文献中也作为UDL的障碍而非其工具出现。在[[faculty-accessible-course-design-ai-2026|Sidhu、Atif 与 Newland（2026）]]对一所安大略大学69名教授的[[mixed-methods-research|混合方法研究]]中，四个关键主题之一是：[[generative-ai|生成式AI]]正在逆转可及性课程设计的进展；标题引语"AI正在减少我曾有的选项"出自他们的访谈，因为那些曾承担了包容工作、以课后提交与起草为基础的作业，正是AI现在能一鼓作气完成的那类。他们的教师层面发现解释了这次倒退为何落在一个本已单薄的基础上：90%的受访者相信自己创造了可及的学习环境，87%表示自己积极考虑可及性，但只有不到一半（46%）认为学校为此提供了足够资源，约五分之一人从未听说过OCR可读PDF或颜色独立链接这类最基础的技术。需求正在跑赢供给——安大略大学注册人数从2013到2022年增长17%，而向可及性服务处注册的人数上升126%——因此该研究的主张是：UDL支持必须获得资源投入，以补偿AI移走的评估选项。
 
 ### 关联
 

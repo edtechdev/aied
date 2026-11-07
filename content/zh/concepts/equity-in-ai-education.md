@@ -1,7 +1,7 @@
 ---
 title: 公平性
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,9 +10,9 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -68,7 +68,9 @@ ai_assist:
 - **代表性适用于证据，而不只适用于学习者。** [[bulut-technology-supported-formative-assessment-2026|Bulut（2026）]]论证，技术支持型评估中的公平涵盖支撑某项设计的知识的语境可迁移性，因此一个在资源充足场景中被验证的系统，在别处携带着未经检验的假设。
 
 ## 结果公平
-在一项对 394 项生成式 AI 高等教育研究的范围综述中，公平与获取是被针对得最少的结果之一，与元认知、伦理和创造力并列（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
+在一项对 394 项生成式 AI 高等教育研究的范围综述中，公平与获取是被针对得最少的结果之一，与[[metacognition|元认知]]、伦理和[[creativity|创造力]]并列（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
+
+一项针对 MATHia 的贝叶斯知识追踪的大规模[[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|公平审计]]，使用两个学年的 8,549 名学生日志，发现 2021–2022 年的总体统计均等为 −0.077，即便 50 项技能中有 36 项对初学阅读者不利，技能层面的偏差高达 −0.262（“apply exponent”，预测掌握度相差 26%）。近乎公平的总体图景掩盖了集中在阅读负担重的知识成分上的偏差，作者因此主张，仅做系统层面的审计是不够的。
 
 - **差异化影响：**若无公平透镜而设计，AI 工具可能扩大差距——[[genai-higher-education-systematic-review-2026|系统综述]]与[[ai-scoring-language-bias-physics|评分偏见研究]]显示了收益与危害在学习者群体间的不均分布。收益的合并证据带有同样的边界：[[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing 等人（2026）]]在 35 项研究上估计本科生的总体中到大的收益（g=0.53, 95% CI [0.48, 0.64]），同时指出高成本工具的不公平获取是这些效应量无法捕捉的风险之一，学业表现与专业技能上显著的 Egger 检验使漏斗图不对称与小研究效应悬而未决。
 - **跨越两个数量级成本的等效学习。**StudentBench 发现 AI 辅导与专家人类辅导在统计上等效，而导师之间的成本差从每百分点学习收益 \$0.005 到 \$1.40，且一个开放模型以 918× 更低的每点成本达到人类收益（\$0.0052 对 \$4.81），使单位学习的成本成为一个获取变量而不仅是质量变量（[[studentbench-ai-human-tutoring-gre-2026|Northcutt 等人（2026）]]）。
@@ -84,6 +86,8 @@ ai_assist:
 - **学生自己准确地判断支持—替代界线，但犹豫。**[[reed-ai-literacy-ethical-judgment-scenarios-2026|Reed 等人（2026）]]向 531 名本科生提出六个伦理情境，发现 57.6% 全部六个分类正确（均值 88.54%）：经核验支持的使用被广泛接受——经教授核验总结笔记（91.7%）、对自写论文做语法改进（84.9%）、AI 生成检索词后独立文献综述（91.1%）——而替代性使用被压倒性地拒绝。不确定性集中于规则必须真正解决的案例上，即无法核验的 AI 生成引用（9.9% "不确定"）与经极少编辑的 AI 生成文本（9.6%），作者把这解读为协助与有意义作者身份之间的界线对学生并不清晰的证据。客观[[ai-literacy]]只能弱预测分类准确性（Spearman's ρ = 0.234），样本以一所中西部公立大学的白人、女性、一年级学生为主，且作者强调正确的判断不等于伦理的行为。
 - **提示特权：**[[prompt-privilege-equitable-ai-access-2026|Jin 等人]]记录了"提示特权"——善于措辞提出请求的用户系统性地获得比表达同一意图而欠技巧的用户更好的 LLM 输出——使[[prompt-engineering|提示]]技能成为一种悄然不均的资源。他们的提示公平转换器（Prompt Equity Transformer）把提示优化移入系统，把公平输出当作一项无障碍属性，而非要求新手做出专家级提示。
 
+- **差距重新打开的地方是能力，而不是获取。** 在 380 名本科生中，家庭数字资本与感知学业收益的关联在很大程度上经由提示工程能力传导，后者与这些收益的相关为 .793（[[li-who-benefits-llms-prompt-engineering-equity-2026|Li 等（2026）]]）。
+
 - **交互管理差距。**[[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström 与 Palmqvist（2026）]]对生成式 AI 作为均衡器得出一个矛盾结论：因为生产性使用要求识别过于抽象的答案、请求简化、并把一次会话围绕小目标来组织，无指导的生成式 AI"可能对已处优势的学生最有益"——那些有强学习习惯与指导 AI 之信心的学生——而学习技能较弱或学业[[self-efficacy]]较低的学生会遇到额外的复杂与挫败。该工具不是替代缺失的学业对话伙伴，而是引入了一种新能力，其习得本身制造了差距；作者结论，教授它的责任不能只落在学生身上（[[ai-literacy]]、[[self-regulated-learning]]）。
 
 - **技能差距与资源差距不是同一个问题。**[[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong（2026）]]把他们[[meta-analysis-systematic-review|对 72 项计算教育研究的系统综述]]发现文献倾向于混同的两种机制分开。**技能差距**在单个教室内运作：[[prior-knowledge|先前知识]]较强的学生把 AI 协助转化为持久技能，而挣扎的学生把它当作移除[[desirable-difficulties|生产性挣扎]]的拐杖，到学期末扩大能力分布——以与已证明能力挂钩的分级获取来应对。**资源差距**跨机构与国家语境运作：可靠的网络与付费 API 订阅支撑更有能力的工具使用，而无此条件的学生则不然——以机构对共享工具获取的投资和不假设普遍可用性的政策来应对。公平性是该综述三个框架要求中最薄的一项（六项研究），作者把这种稀薄本身解读为发现：缺少以公平为中心的干预研究，本身就是公平性问题（[[assessment-validity]]、[[scaffolding]]）。
@@ -92,7 +96,7 @@ ai_assist:
 
 - **辅导质量随学习者人口统计而变。**EduFair-Bench 把固定的[[simulating-students|LLM 学生]]与每个导师配对，横跨性别、移民背景、第一语言与社会经济地位九个人口层级，并对五个回合级教学指标评分。在[[intelligent-tutoring|LLM 辅导]]中，最大的偏离出现在明确的人口条件下——数学中步骤支架的相关高达 |r| = 0.144，纠正语气在[[chemistry-education|化学]]中每个模型都超过 0.10（0.102-0.168），在[[physics-education|物理]]中为（0.129-0.294）——且在 15 个模型×领域单元中的 11 个，答错条件得分高于答对条件，表明语气追踪的是学生的人口标签而非其推理质量。教学特定的[[reinforcement-learning|强化学习]]重新分配了这些差距，而非消除了它们。（[[edufair-bench-pedagogical-fairness-llm-tutors-2026]]）
 
-- **隐含的人口信号是比明示属性更不可控的偏见渠道。**[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]固定每个任务的输入，只在六个指令调优[[llm|LLM]]与三个教育任务上改变人口语境，产生 192,480 次推断调用，并把*明示*信号（陈述的学生属性）与*隐含*信号（由十次提示的[[conversational-ai|对话]]历史携带的）分开。在[[automated-essay-scoring|自动作文评分]]中，多数模型在明示条件下相对稳定，而隐含条件抬高了分数——Llama-70B 比自身默认高出 1.57 分（p < 0.001）。在元语言问答中，隐含条件反向漂移：较低教育水平的回应得到较少正面情感，在 0-4 量表上最低与较高教育水平间平均差 0.3，而项内标准差为 0.07。公平性困难是结构性的——线索不是政策能禁止的明示属性、也不是审计能检查的提示字段，而是交互本身的性质。
+- **隐含的人口信号是比明示属性更不可控的偏见渠道。**[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]固定每个任务的输入，只在六个指令调优[[llm|LLM]]与三个教育任务上改变人口语境，产生 192,480 次推断调用，并把*明示*信号（陈述的学生属性）与*隐含*信号（由十次提示的[[conversational-ai|对话]]历史携带的）分开。在[[automated-essay-scoring|自动作文评分]]中，多数模型在明示条件下相对稳定，而隐含条件抬高了分数——Llama-70B 比自身默认高出 1.57 分（p < 0.001）。在元语言问答中，隐含条件反向漂移：较低[[education-levels|教育水平]]的回应得到较少正面情感，在 0-4 量表上最低与较高教育水平间平均差 0.3，而项内标准差为 0.07。公平性困难是结构性的——线索不是政策能禁止的明示属性、也不是审计能检查的提示字段，而是交互本身的性质。
 
 - **核验能把收益重新导向较弱的学生。**[[verified-study-materials-learning-gains-2026|Dang & Nguyen（2026）]]发现，一年级经济学课程中经专家核验的 AI 学习材料与 2.34 分的成绩提升相关，但其中约四分之三出现在最底五分位，且低于 60% 边界的分数占比下降 24.7 个百分点——把核验负担从学生移到一个可问责的导师。
 
@@ -204,3 +208,6 @@ ai_assist:
 - [[gyekye-selves-apprenticeship-2026]] — 有色人种学徒把公平等同于文化扁平；能动性通过拒绝与协商建构；识别带宽与制度 AI 素养
 - [[rodrigues-aied-unplugged-numeracy-2026]] — 教师中介的递送触及 AI 永远接触不到的学生
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测在多语言写作者身上最容易误伤
+
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 能力中介了学生从 LLM 获取中获得的收益（Li 等 2026）
+

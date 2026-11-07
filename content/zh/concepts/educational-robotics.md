@@ -1,7 +1,7 @@
 ---
 title: 教育机器人（Robots in Education）
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-26T10:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,12 +57,12 @@ ai_assist:
 - **自主与能动性：** [[human-autonomy-agency-hri-review-2025|一项系统综述]]综合了 HRI 如何影响人类自主性和能动感，把设计框架与[[regulation|监管]]要求（EU AI Act、IEEE 伦理对齐设计）连接起来。[[social-robot-study-companions|作为学习陪伴的社交机器人]]和[[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|创意写作中的机器人—LLM 整合]]进一步探索了机器人的角色。
 - **基于项目与基于游戏的方法：** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]]展示了一个基于项目的机器人课程，[[game-based-gamified-robotics-education-review-2026|一项系统综述]]比较了机器人教育中基于游戏的学习与游戏化。
 - **完整机器人工作流中的强化学习与 sim-to-real。** [[teaching-rl-humanoid-robotics-high-school-2026|Dong、Cao 与 Wang（2026）]]把一个端到端的研究型机器人工作流——组装、电路检查、基于仿真的策略训练和实体部署——转化为一门[[k-12|高中]]课程，建在一个开源人形机器人（ToddlerBot，报告零件成本低于 6,000 美元）上，共八次三小时课程。两人共用一台机器人，先在[[simulation]]中训练一个[[reinforcement-learning|行走策略]]再部署到硬件，安全门（行走前必须通过的站立测试）使依赖顺序可见。由于共享工件奖励的是团队而非个人，框架把机器人表现与个人理解分开：学生轮换角色，每个检查点各自提交单独的预测与解释，被支持的步骤明确不被当作概念掌握的证据——这是作者的警告：通过机器人里程碑不等于理解它。
-- **竞赛机器人是一个生态问题，而非套件问题。** [[arc-hubs-k12-ai-robotics-rural-2026|Jacobson 等（2026）]]认为 K–12 机器人教育的约束条件不在课程或硬件，而在持续的本地技术指导，且这种指导在地理上分布不均：在印第安纳州，FIRST LEGO League 的参与在 2020 年远程赛季崩塌，城市参与逐步恢复，农村参与没有恢复，直到 2025–2026 仍接近其 2020 年后的水平。他们的 ARC 框架把指导力做成被工程化的对象——大学开设带学分课程，培养本科生作为附近队伍的工坊导师，成熟的学校项目成为次级枢纽，其有经验的学生成为更多学校的同伴导师，从而通过自我强化的循环把覆盖范围传播到任何大学的招生区之外。一项单校试验创建了三支农村 FLL 队伍，并把本科生的社区连接感从 1.86 提高到 4.00（五分制上任何测量项中最大的变化，高于技术概念教学信心的 +1.29），而对印第安纳州 1,925 所公立学校的空间显式马尔可夫模拟预测，在温和假设下 40 年后有 992 所学校项目，无 ARC 则为 161。证据处于可行性层面——七名导师和四名家长、回顾性自报、无对照组——但这一框架可迁移到任何机器人项目：能否规模化的是指导能力和枢纽地理，而非机器人（[[arc-hubs-k12-ai-robotics-rural-2026]]）。
+- **竞赛机器人是一个生态问题，而非套件问题。** [[arc-hubs-k12-ai-robotics-rural-2026|Jacobson 等（2026）]]认为 K–12 机器人教育的约束条件不在课程或硬件，而在持续的本地技术指导，且这种指导在地理上分布不均：在印第安纳州，FIRST LEGO League 的参与在 2020 年远程赛季崩塌，城市参与逐步恢复，农村参与没有恢复，直到 2025–2026 仍接近其 2020 年后的水平。他们的 ARC 框架把指导力做成被工程化的对象——大学开设带学分课程，培养本科生作为附近队伍的工坊导师，成熟的学校项目成为次级枢纽，其有经验的学生成为更多学校的同伴导师，从而通过自我强化的循环把覆盖范围传播到任何大学的招生区之外。一项单校试验创建了三支农村 FLL 队伍，并把本科生的社区连接感从 1.86 提高到 4.00（五分制上任何测量项中最大的变化，高于技术概念教学信心的 +1.29）。对印第安纳州 1,925 所公立学校的空间显式马尔可夫模拟预测，在温和假设下 40 年后有 992 所学校项目，无 ARC 则为 161。证据处于可行性层面——七名导师和四名[[parents-and-families|家长]]、回顾性自报、无对照组——但这一框架可迁移到任何机器人项目：能否规模化的是指导能力和枢纽地理，而非机器人（[[arc-hubs-k12-ai-robotics-rural-2026]]）。
 - **儿童发展与低龄学习者：** [[ai-toys-child-development-2026|AI 玩具与儿童发展]]把镜头转向早期童年的商业 AI 玩具，考察 AI 玩具如何影响儿童发展和游戏。这把教育机器人从课堂机器人扩展到孩子在家接触的消费级玩具，提出关于游戏中的[[pedagogical-agent|智能体]]、[[trust-calibration|信任校准]]、[[agency]]以及最小学习者的[[well-being]]的问题——这是一个设计指导比学龄机器人课程更薄的领域。
 - **学前[[ai-literacy|AI 素养]]中的有形编码与社交机器人。** Lee（2026）把无插电游戏、有形编码（Bee-Bot、Ozobot）和与社交 AI 机器人的引导式对话整合进学前和幼儿园的 Play With AI（PL-AI）课程。该[[design-based-research|基于设计的研究]]记录了这些具身、有形的机器人活动如何支持儿童对 AI 概念的新兴推理，提出四项设计原则——具身游戏、有形编码、引导式对话和教师协同设计——为[[early-childhood-elementary-ai-education|早期童年]]机器人和 AI 教育提供了发展适切的模型。
 - **面向低龄学习者的两种范式：编码机器人与生成式社交机器人。** [[creative-project-approach-ai-early-childhood-2025|Yang、Li 与 Lee（2025）]]把早期童年机器人框定为两种[[pedagogy|教学法]]范式的配对，各有不同的理论基础。**编码机器人**（Bee-Bot、KIBO、Matatalab）源自 Papert 的 LOGO，体现[[constructivist|建构主义]]——儿童通过制作来学习，通过有形编程建构[[computational-thinking|计算思维]]。**生成式社交机器人**由[[generative-ai|生成式 AI]]驱动，以[[sociocultural-learning|社会建构主义]]为基础，充当对话伙伴或导师，在儿童的最近发展区内[[scaffolding|支架]]学习并支持社会情感发展。他们把两种机器人类型融入项目路径的五步**创意项目路径**，让教师保持为引导者，引导儿童—机器人互动、平衡自动化与[[creativity]]、保全儿童[[agency]]。
-- **幼儿园 CT 机器人实际做什么。** 一项对 53 项研究的系统综述发现，基于问题的学习、讲故事和支架是最常用的策略，多数研究未指明任何 CT 框架，并使用临时评估工具而非 TechCheck-K 等经过验证的量表（[[tsingidou-ct-robotics-kindergarten-2026|Tsingidou 与 Sapounidis（2026）]]）。
-- **LLM 规划而非对话。** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026）]]使用视觉与语言模型，把 Shoebox Tasks（用于自闭症谱系学习者的视觉结构化活动）的照片转换为一个 PDDL 问题，由一台 Nao 人形机器人执行或示范，其规划正确性在六项任务上被评分，而非任何学习结果。
+- **幼儿园 CT 机器人实际做什么。** 一项对 53 项研究的[[meta-analysis-systematic-review|系统综述]]发现，[[problem-based-learning|基于问题的学习]]、讲故事和支架是最常用的策略，多数研究未指明任何 CT 框架，并使用临时评估工具而非 TechCheck-K 等经过验证的量表（[[tsingidou-ct-robotics-kindergarten-2026|Tsingidou 与 Sapounidis（2026）]]）。
+- **LLM 规划而非对话。** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026）]]使用视觉与语言模型，把 Shoebox Tasks（用于[[neurodiversity|自闭症]]谱系学习者的视觉结构化活动）的照片转换为一个 PDDL 问题，由一台 Nao 人形机器人执行或示范，其规划正确性在六项任务上被评分，而非任何学习结果。
 
 ### 具身与教学法
 

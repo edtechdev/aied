@@ -1,7 +1,7 @@
 ---
 title: "法律教育"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,14 +41,18 @@ ai_assist:
 
 证据基础目前薄弱且以政策为主。有一篇实质性的文章支撑本页：[[gutowski-hurley-genai-policy-legal-education-2025|Gutowski 与 Hurley（2025）]]调查并比较了 ABA 认可的美国法学院的机构性生成式 AI 政策，并提出了一个治理框架。这种不平衡本身就是一个发现，本页如实指出它，而不是粉饰。
 
+实验证据正开始出现：[[xie-genai-mystery-game-legal-education-2026|Xie 等（2026）]]把 84 名法学本科生随机分配到由生成式 AI 创作的推理角色扮演游戏，或同一位教师的讲授，结果游戏组在知识与推理后测上的得分远高（partial *η*² = 0.566）。
+
 ## AI 如何出现在法律教育中
 
 - **法律研究。** Lexis+ AI 与 Westlaw Precision with CoCounsel 等商业平台，把生成式功能嵌入学生已在受训的工具中，这使"AI 使用"难以与普通的数据库检索区分开。Gutowski 与 Hurley 指出，这一熟悉的既有工作流被压缩了多少：从数小时缩短到数分钟即可识别权威来源与二手资料。
 - **起草与写作支持。** 初始案例简报、提纲、备忘录、第一遍综合，以及关于清晰度与语法的句级反馈。作者把 AI 生成的作品置于与律师助理或初级律师所作工作相同的督导关系之下：律师仍要为其准确性与法律充分性负责。
 - **学习与律师资格考试备考。** 为限时练习生成练习题、事实模式与"假设情境"，并就反复出现的弱点进行辅导。Gutowski 与 Hurley 同时给出一个观察：生成式 AI 如今既能通过律师资格考试，也能通过 Multistate Professional Responsibility Exam，他们把这解读为更多说明了最低胜任线，而非模型本身。
 - **任务特定的画像，而非排行榜。** 在盲测协议下，同一批开箱即用的模型虽达到了人类律师考试水平（累计 26–79 分，满分 100），却在公证人考试上全部失败——该考试要求在严格的形式约束下进行目标导向的法律规划——且被其中刻意设置的陷阱所误导（[[llm-turing-test-italian-legal-exams-2026|Bertoli 等人（2026）]]）。
-- **期刊、模拟法庭与咨询。** 筛选投稿、准备辩护，以及使用基于历年试题、参考答案与课程材料训练的自定义模型来支持学业辅导项目。
+- **期刊、模拟法庭与咨询。** 筛选投稿、准备辩护，以及使用基于历年试题、参考答案与课程材料训练的自定义模型来支持[[student-support-and-success|学业支持]]项目。
 - **评价与诚信。** 反复出现的问题案例：未披露的起草、引用不存在的权威，以及不再测量无辅助分析的考试。
+
+- **一项覆盖 82 项作品的综述，多数为非实证。** [[lorteau-sarro-ai-legal-education-2025|Lorteau 与 Sarro（2025）]]绘制了来自 26 个国家的 82 项作品；74% 出现在 2023 年之后，只有 22 项是实证研究。无辅助的模型能通过法学院评估，但排名低于学生，而详细的指令与提供的权威材料能改善表现，却未使其可靠。该综述的实际用途是生成材料、模拟、写作辅导与 AI 技能教学；其核心风险是被动依赖，而[[assessment-validity|评估]]是压力点。
 
 ## 政策证据显示了什么
 
@@ -61,11 +65,13 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 - **教师治理是法学院特有的复杂因素。** 法学院教师个人与集体对课程与课程标准握有异常直接的权威，因此政策必须与他们共建，而非向他们宣布。
 - **临床教育提出的是一个[[pedagogy|教学法]]异议，而非技术异议。** 引用 Karr 与 Schultz，他们报告了这样一种立场：旨在模仿人类反应的 AI 工具，并不能发展出诊所旨在培养的原创判断、当事人互动与[[ethics|伦理]]决策，因此根本不应在临床课程中使用。
 
-这些建议是程序性的：无论机构立场如何都应制定清晰全面的指引、让全部利益相关方参与起草、对学生与教师进行主动培训、实行定期复审的灵活治理，以及通过信息共享实现自我规制，而非坐等 ABA 来规定政策。
+这些建议是程序性的：无论机构立场如何都应制定清晰全面的指引、让全部利益相关方参与起草、对学生与教师进行主动培训、实行定期复审的灵活治理，以及通过信息共享实现[[self-regulated-learning|自我规制]]，而非坐等 ABA 来规定政策。
 
 ## 为何这一学科与众不同
 
 有三件事使法律教育不只是又一个学科领域。
+
+案例法是更广的[[case-based-learning|案例式学习]]家族中的一员；那一页把预备案例与案例讨论同问题式探究和模拟区分开来。
 
 **评价效度与专业胜任力不可分割。** 人们担心法学院期间的[[cognitive-offloading|过度依赖]]会让毕业生对需要独立法律分析与辩护的工作准备不足，而奖励流畅产出的评分无法区分学生的理解与模型的理解。因此，[[assessment-validity|效度]]问题不是书斋里的问题。
 
@@ -96,6 +102,7 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 - [[governance]] — 法学院实践中的教师治理与政策制定
 - [[educational-policy-ai]] — 作为研究对象的机构 AI 政策
 - [[critical-thinking]] — 案例法意在培养的推理
+- [[case-based-learning]] — 案例法与案例讨论作为一种教学法
 - [[socratic-method]] — 依赖学生预习的对话
 - [[experiential-learning]] — 诊所与实践性训练
 - [[professional-training]] — 持证职业的更大族群
@@ -106,6 +113,8 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 
 ## 关联文章
 
+- [[lorteau-sarro-ai-legal-education-2025]] — 法律教育中的 AI：一项覆盖 82 项作品的范围综述（Lorteau 与 Sarro 2025）
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院生成式 AI 政策的五因素比较与一个治理框架
 - [[llm-turing-test-italian-legal-exams-2026]] — 对意大利律师、法官与公证人考试的盲测图灵测试，以专家评分作为基准
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 在系统不给出自身立场时，非专业决策者对错误 AI 立场的屈从大幅减少
+- [[xie-genai-mystery-game-legal-education-2026]] — 生成式 AI 创作的推理角色扮演游戏对讲授：一项随机试验（Xie 等 2026）

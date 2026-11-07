@@ -1,14 +1,14 @@
 ---
 title: 知识追踪
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,23 +42,36 @@ ai_assist:
 ### 知识库中涵盖的方法
 
 - **贝叶斯方法：**[[stanbkt-bayesian-knowledge-tracing]]对 BKT 实现做标准化，而[[mbp-kt-meta-behavioral-knowledge-tracing]]纳入元行为信号
+
+- **把 BKT 参数当作干预结果的测量：**[[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang 等（2026）]]对来自 688 名六年级学生的 19,952 个数据点拟合线索条件化的贝叶斯知识追踪，使猜测、失误、学习与遗忘参数本身成为一项知觉线索数学干预的结果测量。一致线索提高了猜测并降低了失误——这是即时脚手架——而不一致颜色条件显示出合意困难的签名：猜测为 0.190，但学习率最高（0.0379）、遗忘率最低（0.0054），在全部九种条件中如此。基于 BKT 的线索条件分类在八种条件中的五种上与基于行为的分类一致，支持把这些参数当作审视辅助困境的一个透镜。
+
 - **带大语言模型观测函数的软证据 BKT：**[[colearn-agentic-tutor-co-learning-loop-2026|CoLearn（He 等，2026）]]保留了 BKT 结构，但把标准 BKT 的输入——二元的正确/错误观测——替换为连续的：一个[[llm]]评分器发出分级的掌握证据加一个置信权重，混合进一个经置信度收缩的后验，并设门控使明显错误的答案不能提高估计值，这使这次更新成为标准 BKT 的一个泛化变体，而非它的严格特化。这一观测函数是否可信，取决于学习者：均值证据干净地分开了能力层级（0.25 弱 / 0.67 中等 / 0.77 强），而层内与真实掌握的相关只有 r ≈ 0.15 / 0.48 / 0.41，使被追踪的状态成为一个代理关于学习者的信念，而非一次校准过的测量。
+
+- **带可解释 IRT 层的深度知识追踪：**[[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi 等（2026）]]在 NedBox 这一荷兰语作为第二语言的平台上比较了五个知识追踪模型，在约 80% 不平衡的练习数据上深度模型占优：DeepIRT 达到 AUROC 0.76、准确率 0.81、F1 0.89，并拥有最佳的马修斯相关系数（MCC 0.34），远高于贝叶斯 KT（0.05）与解释性 IRT（0.07）。新增的 IRT 层正是 DeepIRT 可解释的原因——它在预测之外还输出能力与难度估计，而这些估计与解释性 IRT 参数强相关（难度：末次 0.51、均值 0.66；能力：末次 0.51、均值 0.56；均 p < .001）。
+
 - **神经与混合模型：**[[neural-symbolic-knowledge-tracing]]把符号推理与[[machine-learning|神经网络]]相结合；[[explainable-probabilistic-kt]]推进可解释的概率模型
 - **超图记忆网络：**[[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]]用时间超图推理增强基于记忆的追踪（DKVMN），建模多技能问题内共现概念之间的动态高阶交互
+
+- **图基追踪作为一个被综述的家族：**[[xu-graph-knowledge-tracing-survey-2026|Xu 等（2026）]]综述了建立在图上的知识追踪，用一个二维分类法组织该领域——建模动机与四种图结构交叉——并在其重跑的基准中发现，图基模型在每一列都取得最佳 AUC。在 ASSISTments2009、Junyi、ASSISTments2017 与 Statics2011 上，最佳 AUC 分别为 GRKT 0.7963、HGR-KT 0.7366、DyGKT 0.7624 与 DGEKT 0.9073。这一分类法——静态对动态、同质图对异质图——是这篇综述的综合性贡献，因为它没有报告新的数据收集。
+
 - **基于对话的知识追踪：**[[huang-interpretable-knowledge-tracing-2026]]把知识追踪改造用于对话式辅导
 - **大语言模型增强：**[[xie-hillm-cd-2026|HiLLM-CD]]用大语言模型做自动概念树构建与层级熟练度推断
-- **语义的、面向推荐的知识追踪：**[[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec（Ozyurt、Almaci、Feuerriegel 与 Sachan，2025）]]扎根的是*输入*而非架构：一个大语言模型为每道题标注解题步骤与知识概念，并与《共同核心州立数学标准》（Common Core State Standards for Mathematics）对齐，对比学习对齐题、解题步骤与概念的嵌入（通过预聚类概念变体如"解读条形图"与"从条形图中读取信息"来移除假阴性），一个 KC 校准损失使追踪器直接预测概念级的知识状态，而不是通过在该概念的每道题上运行模型来推断。校准后的追踪器随后充当练习推荐的强化学习环境，其中一个基于模型的价值估计从追踪器自身初始化评论器。在 XES3G5M 的四项任务上、对 2,048 名测试学生取平均，非 RL 基线给出的知识增益微乎其微或为负，基于价值的连续方法胜过基于策略的方法，而基于模型的价值估计持续改善它们——在最弱概念任务上最为明显，那里目标每一步都在变。所报告的增益是"最大知识改善的百分比"，不是学习结果，且该流水线依赖生成的解题步骤，其质量由追踪器继承。
-- **基于结果的知识追踪（OKT）：**[[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh 等（2026）]]在成果导向教育（Outcome-Based Education）系统中追踪学生知识，做法是把**课程成果本身当作知识概念**，并以经验证的 OBE"亲缘映射"（课程成果与专业成果之间）替代由注意力或图导出的概念关系。一个记忆增强神经网络（MANN）建模每项成果的达成如何影响其他成果，领域自适应的 BERT 微调则丰富成果嵌入（GRU 主干胜过 LSTM）。在真实的[[engineering-education|工程]]专业 LMS 数据（2,416 名学生、966 项成果）上，OKT 达到 89.81% AUC——胜过 DKT、DKVMN、EKT 与 SimpleKT——而在 ASSISTments 上只给出有竞争力的结果，确认该优势与 OBE 特有的[[curriculum-design|课程]]结构绑定。
-- **一个单一的近因标量捕捉到了序列模型所买来的大部分东西。** 在来自 8,996 名芬兰学生的 1,927,265 条数学作答上，仅凭题目身份即达到 AUC .8362；加上一个相对于题目难度的近因度量后升至 .8669，恢复了一个查询条件化变换器 .8690 增益的 93.5%，而历史的 128 维摘要只达到 .8687（[[knowledge-tracing-compression-math-2026|Lahtinen 与 McMullen（2026）]]）。
+- **语义的、面向推荐的知识追踪：**[[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec（Ozyurt、Almaci、Feuerriegel 与 Sachan，2025）]]扎根的是*输入*而非架构：一个大语言模型为每道题标注解题步骤与知识概念，并与《共同核心州立数学标准》（Common Core State Standards for Mathematics）对齐，对比学习对齐题、解题步骤与概念的嵌入（通过预聚类概念变体如"解读条形图"与"从条形图中读取信息"来移除假阴性），一个 KC 校准损失使追踪器直接预测概念级的知识状态，而不是通过在该概念的每道题上运行模型来推断。校准后的追踪器随后充当练习推荐的[[reinforcement-learning|强化学习]]环境，其中一个基于模型的价值估计从追踪器自身初始化评论器。在 XES3G5M 的四项任务上、对 2,048 名测试学生取平均，非 RL 基线给出的知识增益微乎其微或为负，基于价值的连续方法胜过基于策略的方法，而基于模型的价值估计持续改善它们——在最弱概念任务上最为明显，那里目标每一步都在变。所报告的增益是"最大知识改善的百分比"，不是学习结果，且该流水线依赖生成的解题步骤，其质量由追踪器继承。
+- **基于结果的知识追踪（OKT）：**[[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh 等（2026）]]在成果导向教育（Outcome-Based Education）系统中追踪学生知识，做法是把**课程成果本身当作知识概念**，并以经验证的 OBE"亲缘映射"（课程成果与专业成果之间）替代由注意力或图导出的概念关系。一个记忆增强神经网络（MANN）建模每项成果的达成如何影响其他成果，领域自适应的 BERT [[llm-training-and-fine-tuning|微调]]则丰富成果嵌入（GRU 主干胜过 LSTM）。在真实的[[engineering-education|工程]]专业 LMS 数据（2,416 名学生、966 项成果）上，OKT 达到 89.81% AUC——胜过 DKT、DKVMN、EKT 与 SimpleKT——而在 ASSISTments 上只给出有竞争力的结果，确认该优势与 OBE 特有的[[curriculum-design|课程]]结构绑定。
+- **一个单一的近因标量捕捉到了序列模型所买来的大部分东西。** 在来自 8,996 名芬兰学生的 1,927,265 条数学作答上，仅凭题目身份即达到 AUC .8362；加上一个相对于[[item-response-theory|题目难度]]的近因度量后升至 .8669，恢复了一个查询条件化变换器 .8690 增益的 93.5%，而历史的 128 维摘要只达到 .8687（[[knowledge-tracing-compression-math-2026|Lahtinen 与 McMullen（2026）]]）。
 - **仅凭快照的追踪。**[[skill-acquisition-without-temporal-info|Nagai 等（2026）]]从学习者技能集合之间的包含关系诱导出一个伪时间序，把不断扩张的技能集合当作学习进程，使单时间点的快照仍可被追踪——但该表述假定技能永不丢失，因此面向会退步的学习者的部署，需要先有一个显式的遗忘机制。
+
+- **知识成分的粒度本身就是一个建模决定。**[[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny 与 Meurers（2026）]]在一个语言辅导层级体系的 11 个层级上比较了 19 个知识成分模型，数据为来自 1,059 名七年级学生的 153,819 条首次作答。胜出者取决于预测目标：细粒度的 Actionable Element ID 在学生分块预测上领先（RMSE 0.4083），而语义上更有依据的 Property ID + Exercise Type 在题目分块预测上领先（RMSE 0.4243）。细粒度标识符还显示出接近零的平均学习率（Actionable Element ID 0.000）。
 
 ### 与其他概念的关系
 
 知识追踪与[[student-modeling]]密切相关——知识追踪专门建模随时间变化的认知知识，而学生建模是表征学习者一切侧面（[[affective-computing|情感]]状态、[[student-engagement|投入]]、偏好）的更宽实践。知识追踪供料给需要知道下一步教什么的[[adaptive-learning]]与[[personalized-learning]]系统，以及用掌握估计来选择恰当问题的[[intelligent-tutoring]]平台。它连接到[[learning-analytics]]（用于仪表盘与干预设计）与[[cognitive-diagnosis]]（用于细粒度的技能[[assessment]]）。知识追踪的构念也为[[simulating-students|模拟学生]]提供信息——一个模拟学习者的认知状态常以知识追踪所建模的同一套掌握/衰退动态来形式化，因此[[simulation]]是一种*生成*知识追踪通常从真实作答数据中*推断*的那些状态的方法。
 
-**一个范围上的告诫：追踪估计的是领域掌握，而非高阶认知。**一项对 127 项智能辅导研究、历时 15 年的综述发现，贝叶斯与深度学习的追踪在该时期内有所改进，却仍无法建模高阶认知过程、元认知或动机——而恰恰是这些状态，才是自适应系统最需要瞄准的（[[zerkouk-comprehensive-review-its-2025|Zerkouk 等（2025）]]）。
+**一个范围上的告诫：追踪估计的是领域掌握，而非高阶认知。**一项对 127 项智能辅导研究、历时 15 年的综述发现，贝叶斯与深度学习的追踪在该时期内有所改进，却仍无法建模高阶认知过程、[[metacognition|元认知]]或动机——而恰恰是这些状态，才是自适应系统最需要瞄准的（[[zerkouk-comprehensive-review-its-2025|Zerkouk 等（2025）]]）。
 
 **一个告诫：掌握不等于正确。**[[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]]显示，BKT 的两状态（已学/未学）假设可能被*欺骗性过度泛化*违反——学习者可以看起来已掌握，却在某个隐藏的应用约束被违反时系统性地误用某项技能。当掌握估计驱动[[adaptive-learning|自适应]]停止规则时，这主张追踪条件性理解（知道*何时应当克制*某个行动），而不只是行动的正确性。
+
+**一个公平性上的告诫：未被建模的技能会使被追踪的状态对整组人产生偏倚。**[[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar 等（2026）]]发现，基于两个学年、8,549 名学生的 MATHia 日志所做的贝叶斯知识追踪，总体上只有轻微偏倚——统计均等为 −0.077（2021–2022）与 −0.066（2022–2023）——尽管在偏重阅读的技能上差距大得多。不利影响分别为 0.885 与 0.878，而不同阅读组之间的校准差异虽小（0.0046 与 0.0054），却仍然显著。伤害集中在技能层面：所分析的 50 项技能中有 36 项对初学阅读者不利，其中偏重阅读的“应用指数”模型最为突出，统计均等为 −0.262，不利影响为 0.609。
 
 **一个相关的告诫关乎追踪模型如何被验证对如何被部署。**[[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]]把 BKT、带遗忘的 BKT 与加性因子模型（Additive Factors Model）拟合到一个多会话的连续再学习数据集，发现它们在对所有会话做回溯拟合时能复现学习趋势（可接受的 AUC ≈ 0.74–0.79）；但在**基于时间的交叉验证**下——训练于一个会话以预测下一个，即现实的部署情境——三者都把未来表现高估约 47–58%，未能捕捉[[retrieval-spacing-interleaving|间隔效应]]，甚至可能把不同练习条件下的顺序关系预测反。耐人寻味的是，随着会话累积，*没有*显式遗忘机制的模型表现与带遗忘增强的版本大致相当，提示遗忘被部分吸收进了其他参数（如 AFM 的每学生截距），而非被真正建模。作者把这归因于学习对表现的区分：流行模型把"当下高表现"与"长期保持的高可能性"混为一谈。其实际意涵是：一个在回溯拟合上好看的追踪器，可能误导那些消费其掌握估计的自适应系统，这主张进行前推（walk-forward）评估，并采用顾及保持间隔、间隔与跨会话遗忘的模型。
 

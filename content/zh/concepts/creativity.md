@@ -1,7 +1,7 @@
 ---
 title: 创造力
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-26T10:00:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,17 +43,23 @@ ai_assist:
 ### 创造力与生成式 AI
 
 - **放大：**AI 可充任发散思维的伙伴——头脑风暴替代方案、生成反论证、提供学习者可能不会考虑的视角。角色特化的[[agentic-ai|多智能体]]配置能恢复想法的多样性。
+
+- **模态要与创造阶段匹配。**在一项有 120 名艺术与设计学生的 2 × 2 实验中，发散阶段使用文本式 AI 在发散性创造表现上优于图像生成式 AI（均值差 0.823，Holm 校正后 p < 0.001）（[[wei-genai-configurations-creative-phases-2026|Wei 与 Li（2026）]]）。图像生成的收敛优势未通过 Holm 校正（校正后 p = 0.052），且没有任何序列——包括文生图——在最终创造表现上胜过其他方案。阶段层面的增益并未累加为更优的产品。
+
 - **同质化风险：**单一模型协助能减少学生间想法的多样性，因此同一模型产生收敛的输出。这是对[[writing-education]]与[[design-education|设计教育]]中创造力的直接威胁。
+
+- **同质化是部署的属性，而非 AI 协助本身的属性。**在一项有 247 名参与者参与的写作实验中，单模型与双模型协助都提升了作文质量（相对对照 Δ = 0.332 与 0.234），然而只有双模型条件把跨参与者的想法多样性恢复到基线（[[multi-agent-llm-social-learning|Kumar 等人（2026）]]）。本页所警告的收敛输出，是由所有人使用的*同一个*模型产生的，因此设计杠杆是助手的数量与差异度，而不是 AI 的有无。
+
 - **保护创造能动性：**把学习者的生成性过程留在回路中——先起草的例行、要求原创综合、并用 AI 挑战而非取代——保存了产生持久学习的创造性工作。
 - **摩擦不等于创造收益。**对立面 AI 人格在 38.2% 的小组中驱动了挑战与反思话语，却未产生可测量的创造表现改进，因此更丰富的交互模式不是创造力的证据（[[jin-emergent-learner-agency-implicit-hai-2026|Jin 等人（2026）]]）。
 - **一张 K–12 田野地图：生成式 AI 主要*增强*创造力，很少*测量*它。**一项遵循 PRISMA 的[[meta-analysis-systematic-review|范围综述]]（45 项研究，2017–2025）把 K–12 文献分为四种用途——创造力[[assessment|评估]]（4 项研究）、人—AI 共创（3）、[[stakeholders|利益相关者]]的感知（14）与创造力增强（34）——并显示该领域仍多么狭窄：以语言为基础的讲故事与写作挤掉了几乎一切，而音乐、[[embodied-learning|具身]]与空间工作及[[equity-in-ai-education|公平]]导向的研究几乎缺席。保留作者身份的目的性构建[[scaffolding|支架]]（语音输入、故事板、发散的"多选项"提示）优于现成平台，且[[llm]]模型在发散思维上的评分接近人类评分者；然而作者自己的关切与本页追踪的同质化相同——语言多样性收缩、风格趋同、被 AI 污染的训练数据与共写中的[[metacognition|元认知]]懒惰——他们用 Runco 的术语"人工创造力"来概括它：看起来有创造而没有背后人类体验的输出。过度依赖作为风险在感知、共创与[[curriculum-design|课程]]研究中同样重现（[[genai-creativity-k12-scoping-review-2026]]）。
-- **共创是一种网络效应，而非个体特质：**[[trikonet-trivalence-co-creativity-2026|Ruhland（2026）]]借行动者网络理论把创造力建模为社会技术网络的涌现属性——人类与非人类行动者之间稳定化、去稳定化与再稳定化的三元互动，其中[[generative-ai|生成式 AI]]智能体被当作平等的、构成性的网络参与者。在一项[[pedagogy|教学性]]化身在创造性网络中被共同设计的研究里，化身设计不是个体的创造行为，而是经学生、[[research-methods-aied|研究者]]与设计工具之间的转译过程涌现的。TriKoNet 框定了现成 AI 化身把创造[[agency]]移向机器诱导的便利（"便利陷阱"）的风险，并论证与[[learners|学习者]]共同构成 AI 的行动结构才能保存共创。
+- **共创是一种网络效应，而非个体特质：**[[trikonet-trivalence-co-creativity-2026|Ruhland（2026）]]借行动者网络理论把创造力建模为社会技术网络的涌现属性——人类与非人类行动者之间稳定化、去稳定化与再稳定化的三元互动，其中[[generative-ai|生成式 AI]]智能体被当作平等的、构成性的网络参与者。在一项[[pedagogy|教学性]][[ai-avatars-and-synthetic-instructors|化身]]在创造性网络中被共同设计的研究里，化身设计不是个体的创造行为，而是经学生、[[research-methods-aied|研究者]]与设计工具之间的转译过程涌现的。TriKoNet 框定了现成 AI 化身把创造[[agency]]移向机器诱导的便利（"便利陷阱"）的风险，并论证与[[learners|学习者]]共同构成 AI 的行动结构才能保存共创。
 
 - **先思考的协作维持独立创造力：**Wong 与 Qiu（2026）发现，在用 ChatGPT *之前*生成自己想法的学生（"先思考，后 ChatGPT"协议）在受助任务上没有即时提升，却在之后的无人协助创造力任务上胜过自由 AI 组与人—组。自由使用 ChatGPT 只产生瞬时的表现，协助撤除即崩塌——一种[[cognitive-offloading|过度依赖]]而非学习——而旨在改进自己*想法*的协作性[[human-ai-collaboration|共创]]在独立创造力上产生持久增益。这给了直接实验证据：保护创造能动性不仅可欲，而且是把 AI 协助的工作转化为学习的东西。
 - **塑造群体构思的是范例的*感知*来源，而非其内容。**在 113 组二人组的 fNIRS 超扫描研究中，把完全相同的 ChatGPT 生成范例标注为人类产出或 AI 产出改变了群体创造力：人类归因在刺激阶段提高了想法独特性，并增强了前运动区与辅助运动区的脑间同步；AI 归因只增加了构思路径之间的切换；而范例撤除后两种效应都不再持续（[[ai-exemplar-attribution-creativity-education-2026|Xiaoyong 等人（2026）]]）。
 - **区分儿童 AI 辅助创造力的是发展性实现，而非能力。**在儿童与成人和 ChatGPT 共创的首个神经影像比较中，6–7 岁儿童与成人在一台 MRI 扫描仪内进行了同样五分钟的口语对话。扫描仪外测量的创造力在两组之间没有差异。然而成人在额顶控制、显著性及背侧注意网络内表现出显著更强的网络内连接性，且更高的创造力预测了成人的额顶—显著性耦合更强，儿童则不然。作者把这解读为 AI 对话中创造性认知如何被*实现*上的差异，而非基线能力的差异。它也提出了本页支架建议此前不必回答的一个问题：AI 辅助创造性工作所调用的控制机制究竟何时成熟？（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等人（2026）]]）
 
-来自研究生研究的一个反证：在 1,157 名中国研究生中，[[generative-ai|生成式 AI]]依赖与自报的研究创造力正相关，对功能性的、任务导向的依赖（β = 0.457）远强于存在性依赖（β = 0.147），且[[critical-thinking|批判性思维]]承担了功能路径约 85.0%（[[genai-dependence-research-creativity-2026|Yin 等人（2026）]]）。
+来自研究生研究的一个反证：在 1,157 名中国研究生中，[[generative-ai|生成式 AI]]依赖与[[self-report-measures|自报]]的研究创造力正相关，对功能性的、任务导向的依赖（β = 0.457）远强于存在性依赖（β = 0.147），且[[critical-thinking|批判性思维]]承担了功能路径约 85.0%（[[genai-dependence-research-creativity-2026|Yin 等人（2026）]]）。
 
 一项全国调查使这一模式复杂化：在 5,764 名中国大学生中，AI 依赖与自报创造力负相关（r = −0.17），逃避与社交动机携带负向间接路径，而工具性与娱乐动机携带正向路径（[[ai-dependence-creativity-motivation-literacy-2026|Hou 等人（2026）]]）。
 
@@ -125,3 +131,6 @@ ai_assist:
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 创造力相当、神经投入分化：儿童与成人在 fMRI 扫描仪中同 ChatGPT 对话
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI 依赖与四种使用动机与自报创造力分道相关（Hou 等人 2026）
 - [[ai-exemplar-attribution-creativity-education-2026]] — AI 时代的创造力教育支持：感知到的范例来源所扮演的角色
+- [[wei-genai-configurations-creative-phases-2026]] — 跨创造阶段的生成式 AI 配置：一项关于艺术与设计教育中创造表现与即时知识的 2 × 2 实验
+- [[multi-agent-llm-social-learning]] — 双模型协助恢复了单一模型抹平的想法多样性（Kumar 等，2026）
+

@@ -6,10 +6,10 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_resources: [teacher-dev]
 translation_of: concepts/science-education
-source_updated: "2026-10-28T19:28:52-04:00"
+source_updated: "2026-11-04T17:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,9 @@ AI 评分正在高风险作业上迅速推进。[[ai-grading-handwritten-physics
 
 教师的准备度是决定性的。[[pre-service-science-teachers-ai-perceptions-2026|Amponsah 等]]发现加纳职前科学教师对 AI 持积极态度与强烈意向，但实际课堂使用仅为中等 —— 一个意向-使用差距，指出[[teacher-ai-competency]]与[[governance|机构]]支持才是真正的杠杆。[[becker-chatgpt-typology-physics-2026|Becker 等]]与[[fouad-bentley-trust-utility-gap-physics-2026|Fouad 与 Bentley]]记录道，物理学生是经过领域校准的怀疑者，而非不加批判的采用者：一个 50 分的信任-效用差距（91% 使用，41% 信任）与两种截然不同的用户画像（务实用户对怀疑的非用户），挑战了一刀切政策。与技术乐观主义相抗衡，[[avraamidou-ai-colonization-science-education|Avraamidou]]警告科学教育的"AI 殖民化" —— 未经同意的攫取、算法单一文化与去人化、以利润为中心的改革 —— 并呼吁一种以正义优先于利润的女性主义、以人为本的 AI，而[[ai-science-chemistry-education-systematic-review-2025|Erümit 与 Özdemir Sarıalioğlu]]对 18 项研究的系统综述强调了[[ethics|伦理]]风险（偏见、幻觉、[[academic-integrity|抄袭]]、独立思考的侵蚀）与对[[teacher-education|教师培训]]及有意识使用的需要。贯穿全部十三篇文章的集体教训是：AI 在科学教育中，当嵌入健全的探究、[[scaffolding]]与[[assessment]]设计时带来收益 —— 而当它取代学生必须亲自完成的认识工作时则损害学习。
 
-[[llm-benchmark-secondary-science-topics-2026|Schroeder 等（2026）]]追问通用模型对科学内容本身处理得如何：在与 NGSS 对齐的初中（1,078 题）与高中（1,150 题）题组上，九个开放权重模型大多超过 90%，模型大小与准确度无关，且一位科学教师判定 240 个抽样题目中的 236 道（98.3%）对齐，同时标记出图示、数据解读与数学表征的缺失 —— 纯文本题目无法演练每一项 NGSS 表现期望。高题目难度与低区分度留下一个开放问题：是题目需要改进，还是中学科学对这一类模型已变得可解？作者呼吁以多轮、基于证据的反馈为缺失的标准。
+**对通用 AI 的舒适感并未迁移到学科自身的工具上。** 在一所哈萨克大学的 100 名地理专业学生中，用 AI 与 GIS 教学的准备度与 GIS 熟悉度（ρ = 0.508）和 GeoAI 知识（ρ = 0.425）相关，却与通用 AI 熟悉度无关（ρ = 0.071，p = 0.485）——这对任何工具形态学科中的[[teacher-education|教师培养]]都是一条教训（[[laiskhanov-ai-gis-geography-education-2026|Laiskhanov 等（2026）]]）。67% 的学生以某种形式自称已准备好，但只有 6% 在实践中使用过这一组合，43% 认为可用的教学指导足够。该评价是[[self-report-measures|自评]]且未经效度验证的，因此它描述的是这些学生对自己的说法。
+
+[[llm-benchmark-secondary-science-topics-2026|Schroeder 等（2026）]]追问通用模型对科学内容本身处理得如何：在与 NGSS 对齐的初中（1,078 题）与高中（1,150 题）题组上，九个开放权重模型大多超过 90%，模型大小与准确度无关，且一位科学教师判定 240 个抽样题目中的 236 道（98.3%）对齐，同时标记出图示、数据解读与数学表征的缺失 —— 纯文本题目无法演练每一项 NGSS 表现期望。高[[item-response-theory|题目难度]]与低区分度留下一个开放问题：是题目需要改进，还是中学科学对这一类模型已变得可解？作者呼吁以多轮、基于证据的反馈为缺失的标准。
 
 在一项对 GenAI 与动机的 42 项研究的元分析中，最小的学科效应出现在科学（g = 0.109，95% CI [−0.107, 0.325]，k = 3），这是唯一一个区间跨零的学科，因此汇总证据不支持 GenAI 在科学中特定的[[motivation|动机]]收益（[[genai-learning-motivation-meta-analysis-2026|Fang 等（2026）]]）。
 
@@ -110,3 +112,6 @@ AI 评分正在高风险作业上迅速推进。[[ai-grading-handwritten-physics
 - [[nature-of-science-generative-ai-2026]] — 生成式人工智能时代的科学本质：认识论权威、物质性与协同回应
 - [[ai-university-physics-education-review-2026]] — 在大学物理的 AI 复习中，有结构的团队访问胜过了无限的个人访问
 - [[genai-learning-motivation-meta-analysis-2026]] — 唯一一个动机区间跨零的学科（g = 0.109，k = 3）
+
+- [[laiskhanov-ai-gis-geography-education-2026]] — 对通用 AI 的舒适感并未转化为 GeoAI 就绪度
+

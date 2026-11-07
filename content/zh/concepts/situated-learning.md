@@ -1,13 +1,13 @@
 ---
 title: 情境学习
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 
 情境学习与[[embodied-learning]]（二者都强调认知在情境与行动中的扎根）、[[distributed-cognition]]（分布于人、工具与情境的学习）、[[experiential-learning]]与[[constructivist]]理论紧密相连。在 AI 教育中，它支撑着对去情境化、去具身学习的批评：让学习者保持锚定于真实实践的 AI 设计，保全了持久学习所需的情境性。
 
+- **作为基础设施的情境与可复用资产。** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos（2026）]]把情境学习操作化为一个情境——目标、角色专门化的智能体、可查询的知识与一个有状态的工作台——外加一个资产记忆，它连同来源保留过程记录与经验痕迹，使后来的情境能够检索先前的实践。两项预注册的三臂随机试验发现，在法律推理上相对一个普通助手有 7.0 分的学习增益优势（d = 0.56），在竞技编程中达到标准掌握的比例更大（68% 对 45%），而提示同一模型扮演教师没有产生可检出的收益。这是对"情境与工作台比对话式讲解承载更多学习"这一主张的罕见检验。
+
 ## 常见误解
 
 - **"情境学习就是给一节抽象课加一个真实情境。"** 该理论的主张强于情境包装：学习由参与一个实践社群所构成，而所学的是那种参与所提供的东西。一个附上职场框架的示例讲解，仍然教的是那个示例，而不是那种实践。
@@ -73,6 +75,8 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — 沉浸式环境作为通往真实情境的路径
 
 ## 关联文章
+
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — 情境加上可复用的、携带来源的资产，在两项试验中胜过普通助手
 
 - [[vargas-situated-learning-ai-review-2024]] — 情境学习与 AI 教育的 PRISMA 系统综述（本页的主要参考）
 - [[genai-educational-outcomes-meta-analysis]]

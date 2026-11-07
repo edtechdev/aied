@@ -1,7 +1,7 @@
 ---
 title: 传感器与注视分析
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -18,7 +18,7 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ---
 
@@ -82,6 +82,8 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 神经相关物不是分数。由 EEG 重建的图像在 55 个参与者—视频观测上与测验成绩相关，R² = 0.79。正确作答的项目也比错误项目表现出更高的语义相似度。然而有一名参与者产出了高质量的重建却作答错误，因此重建质量不能被读作正确性（[[seeing-cognitive-representations-eeg-reconstruction|Su 等人，2026]]）。
 
 注意不是学习。在 TutorLoop 中，注意与学习的相关为 r = 0.017，而工作负荷呈负相关，r = -0.168（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。一个最大化注意信号的系统所优化的东西，接近于噪声。
+
+传感器可以记录到共在，而研究却声称它记录的是互动：[[hur-computational-analysis-teacher-group-interactions-2026|Hur 等（2026）]]发现，一个基于姿态的检测器只达到 55% 的召回率，在人工编码者在师生小组互动中识别出的 20 个事件中只捕捉到 11 个。教师在 49.2% 的编码片段中位于小组边界之内，而学生看向教师的比例只有 25.4%，两种比较中都没有任何音频特征发生变化，因此该管线登记的是空间上的共在，而非持续的互动。
 
 生理剖面不是诊断。考试压力模型从唤起与运动预测成绩类别，而作者坚持：输出应当与个人处境和心理健康背景并列，而不是进入高风险决策（[[physiological-signals-exam-outcomes-ml|Yamazaki 与 Rimal，2026]]）。
 

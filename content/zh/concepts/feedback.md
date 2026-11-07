@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: 反馈
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ ai_assist:
 - **[[formative-assessment]]** —— 反馈被用于在学习仍在进行时改进学习、而非仅仅评判学习的评估情境。
 - **[[peer-assessment]]** —— [[learners|学习者]]之间交换的反馈，日益受到 AI 增强，也是培养反馈素养的场所。
 - **[[automated-assessment]]** —— AI 驱动的评分与反馈，从[[automated-essay-scoring|自动作文评分]]到置信度感知的简答评分。
-- **各部分之间相互取舍。**设计反馈意味着在可用性、来源与可持续性之间做选择，而不是把三者都最大化；[[assessment-feedback-trilemma-model-2026|Pedlow 等人（2026）]]把可持续性当作一根支点，它不得依赖任何单一个体、单一资源或单一机构条件。
+- **各部分之间相互取舍。**设计反馈意味着在[[usability-research|可用性]]、来源与可持续性之间做选择，而不是把三者都最大化；[[assessment-feedback-trilemma-model-2026|Pedlow 等人（2026）]]把可持续性当作一根支点，它不得依赖任何单一个体、单一资源或单一机构条件。
 
 ### 反馈回路
 
@@ -60,6 +60,8 @@ ai_assist:
 反馈回路的有效性取决于[[ai-feedback-quality|反馈质量]]——准确性、具体性、及时性与可操作性。[[becerra-aicofe-feedback-2026|AI 同伴反馈系统]]为回路增添了社会维度。
 
 **回路中的人：**反馈回路并非纯粹自动化——教师往往在 AI 生成的反馈抵达学习者之前先行中介。[[learner-centered-feedback-ai|对教师用 AI 反馈工具的研究]]（例如将 ML 检测器与[[llm]]改写器结合的 PolyFeed 工具）发现，教师会运用专业判断来**接受、编辑或拒绝** AI 建议——一种"协助但验证"的模式——并系统性地缓和夸大的赞扬与泛泛的建议，以保护真实性与声音。反馈的**关系性/[[affective-computing|情感]]维度**（师生关系、鼓励）最强烈地抵制 AI 委托，表明回路的这一部分本质上仍属于人类。这种人在回路的介导连接着[[human-in-the-loop-ai]]与[[teacher-role]]。
+
+- **关系性代价是可测量的，且可与质量分离。**在一项有 287 名写作者参与的三臂[[rct|随机对照试验]]中，AI 反馈与教师反馈同等提升了修改后作文的质量（*d* = 0.60 与 0.59），但教师反馈通过感知到的关联感提升了[[motivation|内在动机]]（[[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu & Shi（2026）]]）。
 
 Luo 与 Eaton 的政策评论强化了同一点：50 所排名最前的大学中只有 14 所对教师用 AI 做反馈有具体指引，而学生将未披露的 AI 反馈描述为"不真诚"，使透明度与同意成为伦理实践的前提而非礼数（[[luo-eaton-ai-student-feedback-ethics-2026|Luo & Eaton（2026）]]）。
 
@@ -75,11 +77,11 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 - **体量与即时性。**AI 可以即时、大规模地生成反馈，大幅增加学生收到的反馈量。[[genai-feedback-design-multisite-experiment|多站点生成式 AI 反馈研究]]与[[ai-generated-feedback-higher-ed|高等教育中的 AI 反馈]]记录了 AI 反馈在可接受性与支持性上被体验为与教师反馈相当。一项遵循 PRISMA 的[[meta-analysis-systematic-review|系统综述]]（2023–2025 年 42 项实证研究）印证了这一规模效益——LLM 能加速评分并大规模递送快速、个性化的反馈，尤其在大型或[[higher-ed|高等教育]]班级中——同时提醒这类反馈有时过于泛泛或与所给分数不一致，且在较长、[[multilingual-learning|多语言]]或细微的任务上可靠性下降（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。
 
-- **个性化是偏见的载体。**在八年级作文保持不变的情况下，四个 LLM 对被种族、语言或残疾标记的学生过度赞扬并保留批评——因此向反馈系统输入哪些学生属性是一个公平性决策，而非中立决策（[[marked-pedagogies-linguistic-bias-writing-feedback|Tan、Phalen 与 Demszky（2026）]]）。
+- **[[personalized-learning|个性化]]是偏见的载体。**在八年级作文保持不变的情况下，四个 LLM 对被种族、语言或残疾标记的学生过度赞扬并保留批评——因此向反馈系统输入哪些学生属性是一个公平性决策，而非中立决策（[[marked-pedagogies-linguistic-bias-writing-feedback|Tan、Phalen 与 Demszky（2026）]]）。
 
 - **对学习者的评估要求。**由于 AI 反馈可能不准确或出现幻觉，学生必须判断是否[[trust|信任]]并据以行动。这正是[[feedback-literacy]]与[[trust-calibration]]变得决定性之处：[[mendoza-ai-feedback-feedback-literacy-srl|Mendoza 等人（2026）]]表明，只有具备反馈素养的学生才能将 AI 反馈转化为[[self-regulated-learning]]收益，而[[llm-fallacy-misattribution|LLM 谬误]]刻画了学生可能把 AI 反馈过度归功于自己能力的现象。
 
-- **反馈素养靠使用建立，而非靠人口统计特征。**在 486 名英语作为外语（EFL）本科生中，只有 AI 工具使用频率能预测 AI 反馈素养（β = 0.29）——而非专业或年级——因此为 AI 介导反馈搭建可及的支架，既是设计问题也是公平性问题（[[liu-deris-ai-feedback-literacy-uptake|Liu & Deris（2025）]]）。
+- **反馈素养靠使用建立，而非靠人口统计特征。**在 486 名英语作为外语（EFL）本科生中，只有 AI 工具使用频率能预测 AI 反馈素养（β = 0.29）——而非专业或年级——因此为 AI 介导反馈搭建可及的支架，既是设计问题也是[[equity-in-ai-education|公平]]性问题（[[liu-deris-ai-feedback-literacy-uptake|Liu & Deris（2025）]]）。
 
 - **实验室认可不等于学期使用。**全部 18 名学生在实验课上对生成式 AI 解释功能反应积极，但整个学期只有一半使用过它，理由是教师反馈已足够清楚时存在不匹配、不相关与冗余（[[jin-genai-learning-analytics-feedback-literacy|Jin 等人（2025）]]）。
 
@@ -89,17 +91,11 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 - **角色感知的反馈。**[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]表明，[[prompt-engineering|提示]]同一个 LLM 以不同角色——教师、同伴审稿人、基金评审人——评估同一件学生作品，会产生性质上截然不同的反馈：教师式的鼓励且面向过程，同伴式的支持且对话式，基金评审人式的正式且面向结果。这些差异是认识上的，而非仅是风格上的，凸显了设计实践的不同侧面——证明角色感知的提示可以生成对角色敏感的评估性反馈，而非单一的泛泛回应。
 
-- **反馈类型比反馈密度更重要。**一项为期八周的自适应随机过程研究（194 名学生）发现，指令式、信息性与转化性反馈被接纳的方式不同，而转化性反馈增加了认知负荷——因此反馈设计应让类型匹配学习者的阶段，而非最大化体量（[[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm（2026）]]）。
+- **教师的反馈可以用实证方法归为十类。**[[lee-feedback-taxonomy-math-data-mining-2025|Lee 等人（2025）]]由六名专家编码者对 100 条教师就中学数学开放性回答撰写的反馈信息进行编码。
+对 108 个非空变量做 Promax 旋转的 12 因子最小秩因子分析，并用轮廓系数选取 K 均值聚类，得到 10 个类型——直接订正、针对性肯定、提示、非言语肯定、反问、展示过程、泛泛评论、直接批评、示例演示与非特定性积极评价。
+在最大的几个类簇中，出现次数分别为 26、16、4、2 与 1。
 
-- **反馈的效用与评估权威。**[[student-perspectives-ai-writing-grading-2026|AlGhamdi（2026）]]表明，学生可以同时接受 AI 生成反馈有用、又拒绝 AI 作为合适的评分者——将*反馈效用*（表层反馈的信息价值）与*评估权威*（谁有权决定分数）分开。在透明的后[[assessment|评估设计]]中，沙特 computing 学生把这两者当作分析上可分的判断，重视 ChatGPT 在修改上的清晰，同时把评分权威留给人类教师，并阐明其对话性、制度性权衡的理由。该发现将[[feedback-literacy]]从评判反馈质量延伸到对评估权威本身的推理，并提示[[explainable-ai|关于 AI 参与的透明度]]可以使反馈成为批判性反思的对象，而非被动的接受。
-
-- **修改的立场本身是一种结果，而非只是其质量。**反馈研究通常问修改是否改进了文本。[[zhao-ji-appraisal-human-ai-revisions-2026|Zhao 与 Ji（2026）]]问的是修改后的文本采取何种修辞立场，用评价理论（Appraisal Theory）对 168 篇 EFL 论证作文在初稿、[[peer-assessment|同伴反馈]]后的修改稿与同一批初稿的 ChatGPT-4 修改稿中进行编码。参与语言在三者中出现频率相当，但配置不同：同伴反馈的修改变得更收缩（更多的 Counter 与 Endorse，更少的 Entertain），而 AI 修改保持了更均衡的 Contract/Expand 组合。两者都不是更好的写作——要点在于两条修改路线把论证置于不同的对话位置，这使立场本身成为反馈对话可以命名、写作者可以选择的东西。
-
-- **一个解释可以有说服力却仍不忠实。**[[shap-llm-rationales-teaching-quality-assessment|Bueno 等人（2026）]]发现，移除 LLM 论证排序中最具影响力的句子几乎不改变评分量规分数，而 SHAP 选出的句子则可靠地移动分数，并能跨模型族迁移——因此流畅的辩解并不构成分数建立于其上的证据。
-
-- **反馈素养作为训练目标。**AI 工具不再只提供反馈，而日益被设计成*教*学生使用反馈——[[tubino-adachi-ai-automated-feedback-literacy|把自动反馈工具重新框定为素养建构工具]]、[[zhan-boud-dawson-genai-feedback-engagement|把生成式 AI 框定为反馈投入的使能者]]、[[richmond-nicholls-genai-psych-feedback-ai-literacies|用生成式 AI 批评任务同时建构心理、反馈与 AI 素养]]。
-
-- **反馈素养与校准是可分的杠杆。**在 120 名本科生中，一份反馈素养脚本（Filter–Reason–Act–Check）提升了写作质量、有效接收与深度修改，一项评估—表现校准活动改善了自评准确性并降低了过度自信，两者结合产生了最大的写作收益，且在 AI 支持撤除后保持最强（[[rethinking-ai-writing-feedback-literacy|Dai（2026）]]）。
+- **反馈素养与校准是可分的杠杆。**在 120 名本科生中，一份反馈素养脚本（Filter–Reason–Act–Check）提升了[[writing-education|写作]]质量、有效接收与深度修改，一项评估—表现校准活动改善了[[self-assessment|自评]]准确性并降低了过度自信，两者结合产生了最大的写作收益，且在 AI 支持撤除后保持最强（[[rethinking-ai-writing-feedback-literacy|Dai（2026）]]）。
 
 - **清晰不等于有效。**经 LLM 改写的 Python 错误信息被评为显著更易读、认知负担更低，但在修复率、尝试次数或修复时间上没有产生显著提升（[[llm-adaptive-programming-error-explanations-2026|Moraru、Biswas 与 Gadiraju（2026）]]）。
 
@@ -107,7 +103,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert（2026）]]就反馈设计给出了一个与 AIED 直接相关的干净实验结果：**真实的、即时的、逐试次的、与学习者自己先前预测挂钩的反馈才是改变行为的东西——仅有预测或信念是不够的**。在他们的四组设计中，反馈加上先前的表现预测改善了校准与行为，而只有预测则毫无作用，再加一个明确的过度/不足自信标签也没有更多作用。LLM 还可以在此过程中充当校准伙伴：[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]发现，在评分量规细化之后，LLM 在应用表现阈值时比一些人类评分者更一致——这对标准化会议与[[formative-assessment|形成性同伴反馈]]环境有用，模型在此帮助校准[[evaluative-judgment|评估性判断]]而非取代它。这与知识库的反馈系统观一致：反馈的力量在于对照学习者*自己*的估计弥合差距（提供—接收配对），有效的反馈应当是即时的、准确的、明确连接到学习者所预测的东西——这是 AI 反馈系统与[[feedback-literacy]]训练共同的设计原则。
 
-然而，努力并不自动地就是缺失的成分。在一项有 302 名美国成年人学习 Python 入门的预注册组间实验中，[[structured-reflection-ai-explanatory-feedback-2026|Asher、Gold 与 Carvalho（2025）]]把个性化的[[llm|Claude Sonnet 3.5]]解释性反馈与一个三步自我解释提示配对——对每一处错误代码段，正确代码做什么、学习者自己的尝试为何失败——而增加的反思没有带来任何收获。反思实践组花 4.1 分钟审阅反馈，而普通练习组为 2.1 分钟（t(267) = 11.30, p < .001），这使得只能做 2.0 道练习而非 3.4 道（t(267) = 8.20, p < .001）；每道题的价值两种情况下相同（反思 × 题号 OR = 1.03, z = 0.23, p = .486），因此普通练习以更高的掌握度收尾，79% 对 65%（d = .41），且在近[[transfer-of-learning|迁移]]、远迁移或代码评估题目上从未落后。反思也未兑现它瞄准的元认知收益：学习判断在各组间没有差异，练习条件的校准更好（不足自信 11 个点，对视频观看者过度自信 20 个点，d = −.93），报告的[[cognitive-offloading|分心]]也更少（d = −.80）——而反思者的反思平均只有 35 个词。作者的解读是，AI 反馈已经提供了自我解释通常所补充的[[scaffolding|支架]]——一条指出错误、解释正确方法并描述底层概念的信息，留给反思提示可做的事已经不多——而仍在学习陌生语法时写反思，与建立可迁移技能所需的多样化重复直接竞争。这在加工深度轴上为[[desirable-difficulties]]与[[productive-failure]]定位了一个边界条件：当努力驱动额外的提取、应用或比较时它才有回报，而当学习者已收到针对其具体错误的个性化解释时它就是冗余的。它还牵涉[[ai-feedback-quality|反馈质量]]如何与[[self-regulated-learning|接收]]互动：反馈越是详尽且有针对性，附加层能增值的空间就越窄，这使设计注意力从深化单个片段转向把稀缺的练习分钟花在题量、题目多样性与反思时机（如检测到平台期之时）上——该研究只检验了一种未经审核的增强，作者也指出这些变体仍待开放。
+然而，努力并不自动地就是缺失的成分。在一项有 302 名美国成年人学习 Python 入门的预注册组间实验中，[[structured-reflection-ai-explanatory-feedback-2026|Asher、Gold 与 Carvalho（2025）]]把个性化的[[llm|Claude Sonnet 3.5]]解释性反馈与一个三步自我解释提示配对——对每一处错误代码段，正确代码做什么、学习者自己的尝试为何失败——而增加的反思没有带来任何收获。[[reflection|反思实践]]组花 4.1 分钟审阅反馈，而普通练习组为 2.1 分钟（t(267) = 11.30, p < .001），这使得只能做 2.0 道练习而非 3.4 道（t(267) = 8.20, p < .001）；每道题的价值两种情况下相同（反思 × 题号 OR = 1.03, z = 0.23, p = .486），因此普通练习以更高的掌握度收尾，79% 对 65%（d = .41），且在近[[transfer-of-learning|迁移]]、远迁移或代码评估题目上从未落后。反思也未兑现它瞄准的元认知收益：学习判断在各组间没有差异，练习条件的校准更好（不足自信 11 个点，对视频观看者过度自信 20 个点，d = −.93），报告的[[cognitive-offloading|分心]]也更少（d = −.80）——而反思者的反思平均只有 35 个词。作者的解读是，AI 反馈已经提供了自我解释通常所补充的[[scaffolding|支架]]——一条指出错误、解释正确方法并描述底层概念的信息，留给反思提示可做的事已经不多——而仍在学习陌生语法时写反思，与建立可迁移技能所需的多样化重复直接竞争。这在加工深度轴上为[[desirable-difficulties]]与[[productive-failure]]定位了一个边界条件：当努力驱动额外的提取、应用或比较时它才有回报，而当学习者已收到针对其具体错误的个性化解释时它就是冗余的。它还牵涉[[ai-feedback-quality|反馈质量]]如何与[[self-regulated-learning|接收]]互动：反馈越是详尽且有针对性，附加层能增值的空间就越窄，这使设计注意力从深化单个片段转向把稀缺的练习分钟花在题量、题目多样性与反思时机（如检测到平台期之时）上——该研究只检验了一种未经审核的增强，作者也指出这些变体仍待开放。
 
 - **专注与[[adaptive-learning|适应性]]是反馈的两个可分维度。**对三门大学写作课中教师与 LLM 评语、按七种反馈专注类型的标注显示，多数模型几乎覆盖每种类型，但没有一个匹配教师在这些类型上的分布，也没有一个像专家教师那样跨草稿阶段改变其专注点（[[llm-feedback-focus-adaptivity-student-writing-2026|Almousa 等人，2026]]）。
 - **聚合收益可能掩盖相互抵消的变动。**三个月的 WISE Agent 反馈、260 名中国六年级学生，总批判性思维倾向分数没有变化（t=-0.854, p=0.394），但求真性（Truth-seeking）上升（p<0.001）而认知成熟度（Cognitive Maturity）下降（p=0.019）——作者把这一下滑解读为学生正在重新校准被高估的理解。（[[ai-feedback-critical-thinking-writing-2026|Zhu 等人（2026）]]）
@@ -122,7 +118,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - **提示支架把生成式 AI 变成反馈的促进者。**[[chang-genai-peer-feedback-collaborative-argumentation-2026|Chang 等人（2026）]]发现，获得结构化提示（情境、目标、角色）来做同伴反馈的学生产出了更多解释与建议，且只有该组在反驳数据与回应对立观点上表现出色。
 - **自动化反馈**规模化地递送——从作文评分到简答评分的[[automated-assessment|自动评分与反馈]]。[[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur（Yin 等人 2026）]]将其扩展到非结构化的[[quantitative-research|定量]]问题：一个逐题的[[machine-learning|XGBoost]]诊断主干，从学生提交的数值答案推断带评分标签的错误，在工程经济计算题上把它们变成自然语言反馈，而一套基于对话的方案只在置信度低时索取中间答案——在反馈准确性与学生的作答负担之间取得平衡。
 
-- **自动写作评价是递送侧的工具，其代价可测。**一项对 50 项实证研究（2019–2024）的综述发现，自动写作评价在 25 项研究中改进了语法、标点与句子结构，在 15 项研究中减少了教师的机械性批改工作量，腾出时间处理论证、连贯性与组织；收益只在工具嵌入结构化的起草与修改循环时保持，而非作为独立辅助工具，重度依赖与更弱的[[critical-thinking|批判性思维]]和创造力相关，且工具复制了标准英语规范，EFL 使用者报告这些规范与其修辞传统错位（[[ai-powered-writing-feedback-awe-review-2026|Gres 等人，2026]]）。
+- **自动写作评价是递送侧的工具，其代价可测。**一项对 50 项实证研究（2019–2024）的综述发现，自动写作评价在 25 项研究中改进了语法、标点与句子结构，在 15 项研究中减少了教师的机械性批改工作量，腾出时间处理论证、连贯性与组织；收益只在工具嵌入结构化的起草与修改循环时保持，而非作为独立辅助工具，重度依赖与更弱的[[critical-thinking|批判性思维]]和[[creativity|创造力]]相关，且工具复制了标准英语规范，EFL 使用者报告这些规范与其修辞传统错位（[[ai-powered-writing-feedback-awe-review-2026|Gres 等人，2026]]）。
 
 一个跨情境的关键洞察是，**反馈的可靠性取决于它所依附的评估的完整性**：反馈的可信度只取决于它所回应的测量。在 AI 时代，这推动教育者走向[[authentic-assessment|真实性]]与抗 AI 的[[summative-assessment|总结性形式]]，使学生收到的反馈反映真实学习而非 AI 辅助的产出。
 
@@ -145,7 +141,11 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 反馈是教育中最具影响力、证据最充分的机制之一，而 AI 既放大又复杂化它。架构良好的 AI 反馈可以比肩或超越人类反馈，并规模化到整个班级，但它要求学习者具备新能力（[[feedback-literacy]]、[[ai-literacy]]），并带来风险（不加批判的接受、[[cognitive-offloading|过度依赖]]）。随着 AI 生成的反馈变得无处不在，知识库把反馈框定为一个整体系统——质量、回路、素养与评估情境协同工作——而非任何单一组件。
 
 - **反馈可以瞄准反馈的提供者。** 导学培训是一个未被充分探索的反馈情境：自动化系统可以对导学者的开放式回答作序列标注，以标出表扬的类型（基于努力的表扬——可取的过程聚焦之一种——对基于结果的，对基于个人的，最不可取的特质归因之一种），从而提供能改变导学行为的解释性反馈。其约束条件是专家标注的数据。一种数据增强方法——GPT-4o 生成合成标注回答，把 13 个实例的低资源集扩展到 520 个，然后微调 GPT-3.5——追回了大部分差距：在基于努力的表扬上 F2 +20.5%，基于结果的 +17.3%，而在*未见过的*基于人类别上 +16.5%。对未见过表扬类型的泛化测试，是把这与过拟合作区分的效度检验，而其机制更接近教师模型蒸馏，而非经典数据增强。（[[xu-automated-feedback-tutor-training-2025]]）
-- **看不见修改的反馈会被重复。**在一个由智能体批评草稿论证的科学学习游戏中，学生跨多轮修改，但一个量化的 8B 模型对一份改进后的草稿返回了实质上相同的批评，因此驱动修改的回路也产生了终结它的挫败（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
+- **看不见修改的反馈会被重复。**在一个由智能体批评草稿论证的[[science-education|科学学习]]游戏中，学生跨多轮修改，但一个量化的 8B 模型对一份改进后的草稿返回了实质上相同的批评，因此驱动修改的回路也产生了终结它的挫败（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
+
+- **"语气只是反馈质量的细节。"**在它所对照的基准里，语气跟着给它的那个数字走：每一个被告知一个与作业相矛盾的分数的大模型，写出的反馈语气都随该分数变化，而在 **22 个中的 8 个**里，每一分的偏移量达到或超过了随作业质量变化的偏移量。只有语气规则经过训练有素标注者的验证，且仅基于 **1,655** 条导师回复，因此实质内容并未被测量。[[porcaro-ai-grading-benchmark-2026|依据错误分数撰写反馈的评分器，会把错误洗成赞扬或批评]]。
+
+**反馈可以从过程而非产品中生成。**在[[xian-process-visualization-feedback-news-translation-2026|Xian 等人（2026）]]中，一组收到关于自己击键与屏幕活动的个性化[[visualization|可视化]]并配以结构化反思，另一组收到教师就准确性、清晰度与编辑质量撰写的书面评语。过程组在盲评的 0–100 编辑质量评分上提高 5.64 分，产品组为 1.91 分，组别与时间的交互显著（F(1, 20) = 4.94, p = 0.038, partial eta squared 0.198），对照组自身的提升不显著（p = 0.123）。每组 11 名学生，意味着方向本身就是发现，而不是幅度。
 
 ## 常见误解
 
@@ -171,6 +171,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[ai-literacy]]
 - [[scaffolding]]
 - [[writing-education]]
+- [[reflection]]
 
 ## 关联文章
 
@@ -227,3 +228,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[xu-automated-feedback-tutor-training-2025]] — 通过数据增强改进低资源情境下导学培训的自动反馈系统（Xu 等 2025）
 - [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 - [[assessment-feedback-trilemma-model-2026]] — 命名可用性、来源与可持续性之间的取舍，把可持续性作为一根设计支点
+- [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个被提示的评分器面对答案已知的探针，其中大多数可以被说动（Porcaro 2026）
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI 与教师反馈在修改质量上相当，在动机上不相当（Liu & Shi 2026）
+- [[xian-process-visualization-feedback-news-translation-2026]] — 由击键与屏幕痕迹生成的反馈胜过书面产品评语，每组 11 人
+

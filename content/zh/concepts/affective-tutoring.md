@@ -1,7 +1,7 @@
 ---
 title: 情感辅导
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,13 +57,13 @@ Favero 等人（2025）警告，与 AI 辅导者的情感[[student-engagement|�
 | 情感辅导的益处 | 相应的风险 |
 |---|---|
 | 具有情感觉知的回应令人感到支持 | 学生可能对辅导者形成**准社会依赖** |
-| 共情降低焦虑 | 焦虑降低可能掩盖**元认知抽离** |
+| 共情降低[[anxiety-and-stress|焦虑]] | [[anxiety-and-stress|焦虑]]降低可能掩盖**元认知抽离** |
 | 情感校准使节奏个性化 | 深度[[personalized-learning|个性化]]可能**降低迁移**到非适应性情境 |
 | 面部监测传递专注信号 | 持续视频捕获引发**隐私关切** |
 
 作者论证，情感风险是 AI 使用不受约束时[[self-efficacy]]、[[agency]]和[[well-being]]被**侵蚀**这一更大模式的一部分。
 
-**风险也落在从不打开辅导者的人身上。** [[shastry-gray-empathy-offloading-2026|Shastry 与 Gray（2026）]]发现，当人们相信一个系统能提供情感支持时，自己提供情感支持的意愿会随之下降，而在他们的第二个实验中这一信念是因果性的：读到关于共情 AI 的普通新闻报道，就足以提高这种卸责，且完全经由感知到的能力起作用。他们的第四项研究补充了个体层面框架遗漏的一种社会代价：被告知一名学生曾向聊天机器人寻求支持时，参与者说他们会比该学生向朋友求助时更少地卸下共情；随后他们对该学生写下了更少的共情词与更多的漠然词，并把该学生评为更陌生、更绝望。因此，[[social-emotional-learning|社会情感]]供给可能在辅导者周围变得稀薄，即便没有任何使用者报告变化。
+**风险也落在从不打开辅导者的人身上。** [[shastry-gray-empathy-offloading-2026|Shastry 与 Gray（2026）]]发现，当人们相信一个系统能提供情感支持时，自己提供情感支持的意愿会随之下降，而在他们的第二个实验中这一信念是因果性的：读到关于共情 AI 的普通新闻报道，就足以提高这种卸责，且完全经由感知到的能力起作用。他们的第四项研究补充了个体层面框架遗漏的一种社会代价：被告知一名学生曾向[[conversational-ai|聊天机器人]]寻求支持时，参与者说他们会比该学生向朋友求助时更少地卸下共情；随后他们对该学生写下了更少的共情词与更多的漠然词，并把该学生评为更陌生、更绝望。因此，[[social-emotional-learning|社会情感]]供给可能在辅导者周围变得稀薄，即便没有任何使用者报告变化。
 
 ## 设计原则
 

@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: 偏见缓解
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-06T01:55:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **AI 教育中的偏见缓解** —— 对 [[intelligent-tutoring|AI 导师]]、评分器、推荐器与教育系统中不公平的、与身份模式化的行为的识别、测量与减少。偏见可以在 AI 管线的任何阶段进入 —— 训练数据、模型行为、提示、评分与部署 —— 并表现为基于语言、性别、种族、文化或其他身份特征对学习者的差别对待。缓解横跨数据整理、去偏算法、[[prompt-engineering|提示设计]]、公平评分方法、可解释性与评估。它是 [[equity-in-ai-education|AI 教育中的公平]] 的技术对应物，也是 [[ethics|AI 教育伦理]] 的核心关切。
+> **AI 教育中的偏见缓解** —— 对 [[intelligent-tutoring|AI 导师]]、评分器、推荐器与教育系统中不公平的、与身份模式化的行为的识别、测量与减少。偏见可以在 AI 管线的任何阶段进入 —— 训练数据、模型行为、提示、评分与部署 —— 并表现为基于语言、性别、种族、文化或其他身份特征对学习者的差别对待。缓解横跨数据整理、去偏算法、[[prompt-engineering|提示设计]]、公平评分方法、[[explainable-ai|可解释性]]与评估。它是 [[equity-in-ai-education|AI 教育中的公平]] 的技术对应物，也是 [[ethics|AI 教育伦理]] 的核心关切。
 
 ## 值得思考的问题
 
@@ -51,13 +51,20 @@ ai_assist:
 - **差别拒绝与认识论不公：** [[paternalistic-filter-llm-history-education|家长式过滤器]] 审计了四个作为历史导师的大语言模型（1,800 条回应），暴露出一层“家长式过滤器”：模型对不同学习者差别地拒绝、软化或重构敏感内容 —— 一种具有直接公平意涵的认识论不公。
 - **[[learning-analytics|学习分析]] 中的选择偏倚：** [[temporal-smoothness-debiased-kt|去偏知识追踪]] 处理源于非随机练习推荐的选择偏倚：用标准经验风险在观察日志上训练，会产生有偏的精通估计，并在自适应推荐循环中放大误差。
 - **数据与标注偏倚：** [[data-annotations-pedagogical-hints|数据标注]] 与 [[ground-truth-reliability-aied|金标准可靠性]] 研究考察 AI 模型背后的标签与评分者间可靠性如何携带偏见 —— 并论证不应把 κ > 0.8 当作一个二元认可戳。
+
+- **身份检测带有文化偏见。** [[ji-de-identification-personally-identifiable-information-2025|Ji 等人（2025）]]用双尾 Mann-Whitney U 检验跨文化群体测试姓名级 PII 检测：现成基线对非洲姓名的召回率为 0.7647–0.9244，与其他群体存在显著差距，而微调后的 GPT-4o-mini 在四种文化间为 0.9748–0.9840，无显著差异——偏见存在于基线检测器中，而不在微调后的模型里。
+
 - **被边缘化的知识：** [[genai-minoritized-knowledges-disability|生成式 AI 与被少数化的知识]] 记录了训练数据与模型行为如何边缘化非主导知识体系与残障视角。
-- **符合刻板印象的自动化反馈（Marked [[pedagogy|Pedagogies]]）：** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan 等人（2026）]] 显示，四个广泛使用的大语言模型在用学生属性 —— 种族、族裔、英语学习者身份、学习障碍、成就或动机 —— 个性化反馈时，会以符合刻板印象的方式系统性转移写作反馈，对 marked 学生产生正面反馈偏倚与反馈扣留偏倚（过度赞扬、实质性批评更少、假定能力有限），即便作文完全相同。“Marked Words”集中度指标为审计这类自动化反馈中的偏见提供了一个具体方法。
+- **符合刻板印象的[[ai-feedback-quality|自动化反馈]]（Marked [[pedagogy|Pedagogies]]）：** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan 等人（2026）]] 显示，四个广泛使用的大语言模型在用学生属性 —— 种族、族裔、英语学习者身份、学习障碍、成就或动机 —— 个性化反馈时，会以符合刻板印象的方式系统性转移写作反馈，对 marked 学生产生正面反馈偏倚与反馈扣留偏倚（过度赞扬、实质性批评更少、假定能力有限），即便作文完全相同。“Marked Words”集中度指标为审计这类自动化反馈中的偏见提供了一个具体方法。
 - **文生图工具中的视觉偏倚：** [[bias-representation-text-to-image-education-2026|Alon、Hadar Shoval 与 Levkovich（2026）]] [[meta-analysis-systematic-review|系统综述]] 了 31 项同行评审研究（2023—2025），关于教育中使用 AI 生成文生图的偏见与表征。用一套六部分分析框架（性别；种族、族裔与社会经济地位；文化与宗教；年龄；身体与（残）障；内容），他们发现偏见表征无处不在 —— 图像频繁以白人、男性、西方、瘦削、非残障的人物为中心，而与年龄、身体、能力相关的多样性则大体被忽视。多数研究依赖图像审计与 [[qualitative-research|质性]] 方法，少有实验性或基于干预的设计，揭示了教育研究在测量与回应视觉偏见上的显著盲区。
 
-- **虚拟化身身份线索复制了线下偏见。** 在两个实验（N = 396）中，白人虚拟化身 —— 以及在 STEM 情境中的亚裔男性化身 —— 被评为更可信、更能干，而年长的黑人女性化身受到惩罚；STEM 与程序性任务放大了偏见，反思性与人际性任务则减弱了它（[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou（2026）]]）。
+- **[[ai-avatars-and-synthetic-instructors|虚拟化身]]身份线索复制了线下偏见。** 在两个实验（N = 396）中，白人虚拟化身 —— 以及在 STEM 情境中的亚裔男性化身 —— 被评为更可信、更能干，而年长的黑人女性化身受到惩罚；STEM 与程序性任务放大了偏见，反思性与人际性任务则减弱了它（[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou（2026）]]）。
 - **非歧视作为一项核心伦理价值。** [[agarwal-ethical-values-norms-aied-2026|Agarwal 等人（2026）]] 这篇对 25 篇文章的 [[meta-analysis-systematic-review|系统综述]]，把非歧视（使用偏见/歧视/多样性等定义的条目）识别为 [[ai-education|教育 AI]] 六大主要伦理价值之一，与数据管护、人类监督、善意、可解释性与教育适切性并列。该综述指出这些价值紧密耦合且可能冲突 —— 如非歧视 对 数据管护 —— 产生伦理困境，且没有任何关于非歧视的规范直接面向终端用户，使学习者在伦理文献中大体处于被动。
 - **AI 辅助组队中的分配偏倚。** [[genai-social-bias-software-engineering-education-2026|Entezami 等人（2026）]] 展示了偏见如何进入评分与反馈之外的一类任务：三个大语言模型把 28 名学生的软件工程班分入四个团队时，把男性路由到界面设计（而非核心开发）的频率比女性至少低 80%（GPT-5.2 OR < 0.01），且国籍独立于能力改变分配。提供技能信息能减少但不能消除它 —— 99.2% 基于技能的分配匹配了两个金标准团队之一，然而性别仍在同样有效的选项之间决定取舍（OR 2.53 GPT-4.1、2.81 GPT-5.2、1.43 DeepSeek）—— 而并行的图像生成使单人图像偏向男性与浅肤色（性别 V = 0.64 与 0.65；肤色 V = 0.57 与 0.61），多人图像则相对均衡。
+
+- **子群审计可以在自动化编码器中记录同等性** —— [[ye-fine-tuned-bert-coding-comparison-gpt4-2026|Ye、Borman 与 Borman（2026）]]发现一个微调后的 BERT 作文编码器在受刻板印象威胁的学生中准确率为 0.92、在未受威胁学生中为 0.94，两组召回率均为 0.98。性别准确率聚集在 0.95 对 0.93，免费或减价午餐群体为 0.95 对 0.94，而英语学习者（8%）与有个别化教育计划的学生（10%）因亚样本太小而被排除在子群分析之外。
+
+**汇总准确率可以掩盖一个找不到困难学生的模型。** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 等人（2026）]]在一个爱沙尼亚队列上训练了三个模型家族，并用两种方式划分数据。在平衡集上，三个家族表现相当。在不平衡划分中，125 名学生低于第一四分位数、328 名高于它，决策树、贝叶斯网络与随机森林在 80% 精确率下对低表现者的召回率分别为 8%、12% 与 16%，只有神经符号模型超过了 50%。
 
 ## 缓解方法
 
@@ -96,6 +103,8 @@ ai_assist:
 - **让系统可解释：** 对 AI 决策的透明性对检测并纠正偏见至关重要。
 - **结合技术与人类的缓解：** 把去偏算法与人在回路监督配对，尤其对高风险或低置信度案例。
 
+本页所谈的一切都是系统内部的偏见。[[automation-bias]] 谈的是阅读其输出的人身上的偏见——接受一条如果独自抵达就会质疑的建议——而且即便模型准确，它依然存在。
+
 ## 常见误解
 
 - **“偏见是评分与反馈的问题。”** 偏见进入**评分之外的任务类别**：三个 LLM 把 **28 名学生的软件工程班分入四个团队，把男性路由到某个团队的频率比**参照分布**至少低 80%**。组队携带的偏见，在量级上与评分相当。
@@ -104,6 +113,9 @@ ai_assist:
 
 ## 关联概念
 - [[differential-effects-across-learner-groups]]
+
+- [[automation-bias]] — 本页未覆盖的读者侧失效：不复核就接受一条建议
+
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]
@@ -145,3 +157,6 @@ ai_assist:
 
 - [[genai-social-bias-software-engineering-education-2026]] — 生成式 AI 可能在软件工程教育中强化社会偏见
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - 在类别不平衡下三个模型家族都无法识别低表现者，而平衡指标看起来健康
+

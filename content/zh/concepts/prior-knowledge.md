@@ -1,14 +1,14 @@
 ---
 title: 先备知识
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,8 +38,11 @@ ai_assist:
 ## 先备知识的作用
 
 - **它是学习最强的预测因子。** 数十年的 [[research-methods-aied|研究]] 表明，学习者已知的东西与 [[learning-gains|学习结果]] 的相关，强于几乎任何其他因素，因为新信息是相对既有心理模型被编码的。因此，适配每位学习者先备知识状态的人工智能系统，对效率与 [[transfer-of-learning|迁移]] 抱有特别的前景。
+
+- **强多少：一项随机比较。** 两个在其他方面完全相同的二年级数学辅导系统，唯一的差别在于任务选择是否依据贝叶斯知识追踪的掌握估计，在后测分数上没有产生任何差异。先备知识预测这些分数的 η²p = .63（F(1, 124) = 206.99，p < .001），而自适应序列只解释了 η²p = .00（[[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley、Berner 与 Schmalfeldt（2026）]]）。调适重排的是练习的顺序；学习者带进任务的东西仍然承载了结果。
+
 - **重要的是激活，而不只是拥有。** 有先备知识还不够 —— 它必须被主动检索并与新材料连接。这就是为什么“激活先备知识”是一个标准的 [[pedagogy|教学]] 动作，以及为什么检索练习（在增加之前回忆你所知）比简单的再暴露更能改善学习。
-- **它并不总能预测谁做了驱动学习的工作。** 在一项为期五天、23 名中学导师的“通过教学学习”研究中，先前的测验分数没有预测一位导师产出的知识建构回应的比例，且低先备导师只要建构了知识，就在统计上与高先备同伴持平（[[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]）。
+- **它并不总能预测谁做了驱动学习的工作。** 在一项为期五天、23 名中学导师的[[learning-by-teaching|通过教学学习]]研究中，先前的测验分数没有预测一位导师产出的知识建构回应的比例，且低先备导师只要建构了知识，就在统计上与高先备同伴持平（[[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]）。
 - **它塑造解释。** 学习者通过他们已经相信的东西解释新信息。当那些信念是错的（[[misconceptions]]），先备知识可能*干扰* 学习，这就是为什么教学必须浮现并处理误解，而不是假定一个中性的起点。
 - **它驱动学生建模。** 要个性化，一个人工智能系统必须估计学习者的先备知识状态 —— 这是 [[knowledge-tracing]]、学生建模与自适应 [[scaffolding]] 的基础。这些估计的质量决定适配是真正有帮助还是误导。
 - **知识内容决定招募哪种过程练习。** 学习依赖于记忆还是归纳，由目标对象的先备知识结构设定：[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] 遵循 KLI 框架，区分条件与回应恒定的知识成分（事实，通过记忆与检索练习获得）与条件与回应可变的知识成分（技能，通过归纳与向新输入泛化获得） —— 这就是为什么范例与练习的最优混合，对事实内容与对技能内容会不同。
@@ -101,3 +104,6 @@ ai_assist:
 - [[bridging-instructional-design-framework-math]] — 面向数学教育者的教学设计框架
 - [[knowledge-building-tutor-learning-2026]] — 知识建构式回应而非先前知识预测辅导者的学习
 - [[rachatasumrit-example-problem-ratio-2026]]
+
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 先备知识承载了后测（η²p = .63），而自适应任务选择没有承载任何效应（Sibley 等，2026）
+

@@ -1,13 +1,13 @@
 ---
 title: 认知心理学
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **信息处理（计算机）隐喻。** 心智被当作一个有容量与瓶颈的信息处理系统 —— 对潜在能力的[[item-response-theory|测量]]、工作记忆限制、编码与提取 —— 这正是使AI辅导（一个建模并适应学习者认知的计算机程序）成为自然契合的那个模型。
 - **注意与记忆是有限的。** 工作记忆容量有限；持久学习需要通过复述、精细化与[[retrieval-spacing-interleaving|提取练习]]编码进长期记忆。这把认知主义连接到关于[[cognitive-offloading]]的[[research-methods-aied|研究]]（把记忆/处理委派给外部工具），以及当AI绕过提取与练习时的"表现-学习落差"。
 - **元认知调节认知。** [[metacognition]] —— 监控并控制自己的思考 —— 是一个鲜明的认知主义构念，它解释了为什么学习者对"何时依赖AI"的校准对学习至关重要（见[[cognitive-offloading]]与[[self-regulated-learning]]）。
-- **知识是可分解且可追踪的。** 认知主义AIED假定学习者知识可被表征为成分并被随时间追踪 —— 这是[[knowledge-tracing]]、[[cognitive-diagnosis]]与[[item-response-theory]]的基础。
+- **知识是可分解且可追踪的。** 认知主义AIED假定学习者知识可被表征为成分并被随时间追踪 —— 这是[[knowledge-tracing]]、[[cognitive-diagnosis]]与[[item-response-theory]]的基础。可追踪性同时也是一条计分规则。四条[[knowledge-tracing]]更新规则跑在同一批 ASSISTments 事件序列上：把任何有辅助的完成都计入，会宣称 93.9% 的学生—技能对已掌握，而把有辅助的行读作失败的首次尝试时为 72.8%。宽松规则早早判定为掌握的对子，后续无辅助正确率为 0.709，而在两种规则一致之处为 0.857（[[crediting-assisted-work-inflates-mastery-2026|Srivastava，2026]]）。模型只追踪证据规则允许它计入的东西。
 
 ## 认知主义与教育中的AI
 
@@ -67,6 +67,8 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 ### AI时代的张力：认知主义的边界承压
 
 [[generative-ai|生成式AI]]既延伸又挑战认知主义。它通过使知识表征更强大（作为知识引擎、可经[[knowledge-tracing]]追踪并经[[student-modeling]]适应的LLM）延伸它。它通过复杂化认知"所在何处"挑战它：当AI执行推理、记忆乃至类元认知功能时，"学习是发生在个体心智中的内部处理"这一认知主义假设便不稳了 —— 正如[[distributed-cognition]]、[[ai-cognitive-partner-co-regulation-learning|共同调节]]与后人本框架所主张的，认知可以分布于人与人工系统之间。然而认知主义问题仍是本领域的核心问题：*学习者内化了知识，还是工具持有它？* 这是认知外包与表现-学习落差问题的最纯粹形式。
+
+一项 2026 年实验为那条边界的记忆一侧给出了具体的失效模式。在 328 名成年人中，读过误导性 AI 摘要的人后来只有 44.8% 正确识别出视频中的一处细节，而读过一致摘要的人为 83.6%。摘要标注为 AI 还是人类没有造成差别，自陈的对 AI 的信任也没有（[[sim-ai-summary-memory-distortion-2026|Sim、Eiger 与 Kohno，2026]]）。这属于来源记忆而非课堂学习，但一段流畅的摘要可以覆写学习者对来源的记录，这对学习与评估都有影响。
 
 ## 对设计与研究的启示
 
@@ -105,6 +107,7 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 
 ## 关联文章
 
+- [[sim-ai-summary-memory-distortion-2026]] — 误导性的 AI 摘要改变了成年人记住的内容，与摘要标注为 AI 还是人类写作无关
 - [[cognitive-shift-ai-education]] — AI教育中的认知转向
 - [[cogtax-cognitive-taxonomy]] — 面向AI使用的认知分类法
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — 基于知识追踪的教学型LLM智能体
@@ -112,3 +115,4 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 - [[ai-cognitive-partner-co-regulation-learning]] — 共同调节学习中作为认知伙伴的AI
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition：作为人机交互的思维
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 努力的组织方式，而非努力的量，追踪了负荷与挫折感
+- [[crediting-assisted-work-inflates-mastery-2026]] — 知识追踪的掌握判断取决于有辅助的工作如何被计入（Srivastava 2026）

@@ -1,12 +1,12 @@
 ---
 title: 潜在类别分析
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ LPA 假定样本来自若干子群的混合，每个子群在各指标上有自�
 
 - **LCA——类别指标。**Becker 及其同事把 1,189 名物理学生开放作答的编码类别转化为指标变量，保留了两个类别：务实使用者（70%）和怀疑的非使用者（30%）；由于未被提到的话题计为"未表赞同"，作者在分析数据框中标注了零膨胀。
 - **LPA——连续指标**，如量表分数和构念均值。Chen 及其同事在五个[[technology-acceptance-model|TAM]]/UTAUT2 构念上刻画了 128 名台湾职前教师；Acquah 及其同事在三个伦理觉察维度上刻画了 509 名加纳本科生；Schweder 及其同事在[[motivation|动机性]]需要满足上刻画了 2,464 名学生。
-- **潜在（类别）转移分析**把这一家族扩展到时间维度，估计每个波次的类别及在类别间移动的概率。Liang 及其同事追踪了 2,086 名学生一年的 AI 学习动机；Wu 在三个波次上追踪了 457 名日语学习者，适应不良类别从 26.48% 收缩到 17.74%。
+- **潜在（类别）转移分析**把这一家族扩展到时间维度，估计每个波次的类别及在类别间移动的概率。Liang 及其同事追踪了 2,086 名学生一年的 AI 学习动机；[[wu-psychological-adaptation-ai-japanese-learning-2026|Wu（2026）]]在三个波次上追踪了 457 名日语学习者，适应不良类别从 26.48% 收缩到 17.74%。
 
 普通聚类（[[machine-learning|k-means]] 和层次聚类）追求同样的以人为中心的意图，但按几何距离而非概率模型来划分个案。当问题关乎子群时——"这名学习者"在你的样本聚合层级上是否是一个虚构，以及子群是否在形状上而不只是水平上不同——去用 LPA 或 LCA。当你需要一个平均处理效应时，不要用它：一项对[[intelligent-tutoring|适应性导师]]的[[rct|随机试验]]中的五类别解预测出了后测差异（partial η² = .27），但没发现条件 × 类别交互（ps ≥ .198）。
 

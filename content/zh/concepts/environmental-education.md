@@ -1,7 +1,7 @@
 ---
 title: 环境教育
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ ai_assist:
 
 在学习者一侧，一个在使用中暴露延迟—碳权衡的生态反馈界面，在一门计算伦理课上由 89 名计算机科学本科生研究过：在约 45% 的低延迟交互中学生选择了更低碳的模式，但在高延迟时不到 5%，而可持续性意识显著提高了这种选择。样本很小且技术素养异常高，但它是语料库中唯一直接表明足迹信息确实能推动学习者的证据——并且它提示约束性的因素是耐心，而非价值观。（[[llm-environmental-impact-student-usage-2026]]）
 
-缓解证据来自一个在单张消费级 GPU（12 GB VRAM）上运行、内容为开放许可的本地部署 [[cs-education|CS]] 知识库助手：每次查询最好为 1.8 mWh——一个 30 名学生的班级各提交十次查询约为 0.54 Wh——量化感知微调同时控制住了仅靠压缩所导致的准确率损失与 [[hallucination-risk|幻觉]]上升。它是一个工程基准而非学习研究，但它表明足迹问题有设计杠杆（落地、量化、部署位置），而不只有使用纪律的杠杆。（[[shen-sustainable-ai-knowledge-base-cs-education-2026]]）
+缓解证据来自一个在单张消费级 GPU（12 GB VRAM）上运行、内容为开放许可的本地部署 [[cs-education|CS]] 知识库助手：每次查询最好为 1.8 mWh——一个 30 名学生的班级各提交十次查询约为 0.54 Wh——量化感知[[llm-training-and-fine-tuning|微调]]同时控制住了仅靠压缩所导致的准确率损失与 [[hallucination-risk|幻觉]]上升。它是一个工程基准而非学习研究，但它表明足迹问题有设计杠杆（落地、量化、部署位置），而不只有使用纪律的杠杆。（[[shen-sustainable-ai-knowledge-base-cs-education-2026]]）
 
 ## 绿色技能、可持续意识与教师能力
 

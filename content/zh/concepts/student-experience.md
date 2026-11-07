@@ -1,7 +1,7 @@
 ---
 title: 学生体验
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:27:43-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ ai_assist:
 ### 动机影响
 
 - **正向：** 人工智能可以通过提供个性化、即时与低利害的支持来提高 [[motivation]] 与 [[student-engagement|参与]] —— 帮助学生坚持并感到胜任（见 [[self-determination-theory|自我决定]] 视角中的自主、胜任与关系）。
+- **动机效应经由动机而起，而非经由接入。** 在 297 名学生中，自主支持与使用 AI 的自主动机对参与都没有直接效应（各 β = 0.070），而学生动机以 β = 0.74 预测参与（[[genai-motivation-engagement-2026|Ahmed 与 Sultan（2026）]]）。
 - **负向：** 知道人工智能可用，会降低学生的努力与生产性挣扎的动机（[[ai-availability-student-motivation|人工智能可得性与动机]]、[[wang-safety-gap-productive-struggle-2026|安全差距]]）。过度依赖可能侵蚀 [[agency]] 以及由自己做工作而来的成就感。
 
 ### 情感与福祉影响
@@ -71,9 +72,10 @@ ai_assist:
 ### 学术诚信与公平影响
 
 - **负向：** 人工智能使 [[academic-integrity|学术不诚实]] 的新形式成为可能（人工智能生成的作文、未经授权的完成），驱动关于 [[reduce-ai-cheating|检测与减少]] 的争论。这与 [[equity-in-ai-education|公平]] 相互作用：对人工智能工具的获取与理解不平等，可能扩大学生之间的差距。
-- **正向／建设性：** 人工智能可以支持 [[authentic-assessment|真实的]]、[[process-oriented-assessment|面向过程的]] 评估与反思性实践（例如 [[pedlow-genai-selfassessment-2026|引导式自评]]），把诚信关切转化为 [[ai-literacy]] 与责任的机会。
+- **一种使用是否算作弊，取决于学科。** 一项对 89 项研究的[[meta-analysis-systematic-review|系统综述]]发现，[[stem-education|STEM]] 学生在"AI 提升表现"上的净同意度为 +42%，而[[humanities-education|人文学科]]学生对"AI 使用构成作弊"（+44%）与"引发伦理关切"（+58%）的净同意度最高（[[ai-tools-academic-work-cheating-2026|Padhy（2026）]]）。因此一门课的诚信问题部分是学科判断，而不是一条固定标准，这也解释了学生遇到的规则为何既随政策变化，也随院系变化。
+- **正向／建设性：** 人工智能可以支持 [[authentic-assessment|真实的]]、[[process-oriented-assessment|面向过程的]] 评估与[[reflection|反思性实践]]（例如 [[pedlow-genai-selfassessment-2026|引导式自评]]），把诚信关切转化为 [[ai-literacy]] 与责任的机会。
 
-学生对诚信的记述比不诚实框架所暗示的更不安定。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] 在埃塞俄比亚一所大学访谈了 27 名本科生，发现学生群体与自己对立：几乎所有人都使用生成式人工智能或看到同伴使用，多数人称赞它提高了他们的成就，少数人直言课程作业中的使用是不当行为，而最尖锐、被最广泛分享的抱怨是公平 —— 人工智能使用者得分高于诚实学习的学生，有些人把它描述为扼杀了他们的勤勉感，一位参与者不确定“我们是在从人工智能的使用中受益还是在受害”。程序一侧也很重要：[[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] 编码了 1,162 起生成式人工智能违规案件，发现最常被引用的证据 —— 检测器输出、相似度报告、人工智能典型的内容模式 —— 证明力最弱，且由于流程中没有最低证据门槛，证据薄弱的案件把学生推向申诉。过度宽泛的定义扩大那种暴露：[[wright-transcription-not-generation-2026|Wright (2026)]] 表明，针对“[[generative-ai|生成式人工智能]]”的禁令会抓住那些仅仅转换学生已创作作品格式的工具，这种过度包容对残障与 [[equity-in-ai-education|公平]] 暴露的学生打击最重。[[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] 指出建设性的出路，把诚信当作一种通过 [[evaluative-judgment|判断]] 实施的 [[pedagogy|教学]] 实践 —— 带标注的决策轨迹、核验、口头答辩、版本历史 —— 而非通过监控确保的合规。
+学生对诚信的记述比不诚实框架所暗示的更不安定。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] 在埃塞俄比亚一所大学访谈了 27 名本科生，发现学生群体与自己对立：几乎所有人都使用生成式人工智能或看到同伴使用，多数人称赞它提高了他们的成就，少数人直言课程作业中的使用是不当行为，而最尖锐、被最广泛分享的抱怨是公平 —— 人工智能使用者得分高于诚实学习的学生，有些人把它描述为扼杀了他们的勤勉感，一位参与者不确定“我们是在从人工智能的使用中受益还是在受害”。程序一侧也很重要：[[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] 编码了 1,162 起生成式人工智能违规案件，发现最常被引用的证据 —— 检测器输出、相似度报告、人工智能典型的内容模式 —— 证明力最弱，且由于流程中没有最低证据门槛，证据薄弱的案件把学生推向申诉。过度宽泛的定义扩大那种暴露：[[wright-transcription-not-generation-2026|Wright (2026)]] 表明，针对“[[generative-ai|生成式人工智能]]”的禁令会抓住那些仅仅转换学生已创作作品格式的工具，这种过度包容对残障与 [[equity-in-ai-education|公平]] 暴露的学生打击最重。[[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] 指出建设性的出路，把诚信当作一种通过 [[evaluative-judgment|判断]] 实施的 [[pedagogy|教学]] 实践 —— 带标注的决策轨迹、核验、[[oral-assessment|口头答辩]]、版本历史 —— 而非通过监控确保的合规。
 
 核验可以改变学生如何体验这个问题：一个先解释自己工作的请求起初被读作指责，但一旦教学大纲事先把它框定为教学法而非监控，他们就更开放地披露人工智能使用，并把作业当作学习任务，在五到十分钟的对话中（[[best-response-student-ai-dialog-2026|Mandernach, 2026]]）。
 
@@ -184,6 +186,7 @@ ai_assist:
 - [[dollinger-equitable-assessment-ai-2026]] — AI 时代的公平评价
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教师教育中 GenAI 使用的纵向研究、伦理与政策（Parker 等 2026）
 - [[genai-use-usefulness-student-experience-australia-2026]] — 澳大利亚高等教育中学生对 GenAI 有用性的体验（Chung 等 2026）
+- [[genai-motivation-engagement-2026]] — 297 名学生：动机预测参与；使用 AI 的自主支持没有直接效应（Ahmed 与 Sultan 2026）
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI 与学生感知到的决策能力（认知负荷解释）
 - [[genai-professionalization-metaphors-2026]] — GenAI 概念化与学生专业化
 - [[sidorkin-ai-generated-course-readings-2026]] — 学生作为自己 AI 生成课程的审计者（Sidorkin 2026）

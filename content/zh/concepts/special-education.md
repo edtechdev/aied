@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 特殊教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ ai_assist:
 **AI 生成的干预内容需要预生成控制，而不只是审查。** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] 发现，从业者对共同设计的 Social Story 工具给出很高的可用性评价（SUS 86.8），却指出其图像泛西式、其行为追踪器与目标挂钩的临床判断不匹配——这些是他们本会在生成前就设下的约束。
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026）]]从材料而非对话出发：一个视觉-语言模型读取 Shoebox Tasks 的照片（其设计使目标在物体中可见），并把它们转化为一个由 Nao 人形机器人执行或演示的计划，报告了跨六项任务的计划准确率，且没有学习者数据。
-- **挑战性行为是辅导者基准止步之处。**在取自特殊教育与教育心理学文献的 923 段基于案例的对话中，11 个模型中最好的一个在 55.8% 的开放式案例与 43.3% 的长期计划中满足了一项有记录的干预（[[tutor-case-bench-challenging-behaviors-2026|Park 等（2026）]]）。
+- **挑战性行为是辅导者[[benchmark|基准]]止步之处。**在取自特殊教育与教育心理学文献的 923 段基于案例的对话中，11 个模型中最好的一个在 55.8% 的开放式案例与 43.3% 的长期计划中满足了一项有记录的干预（[[tutor-case-bench-challenging-behaviors-2026|Park 等（2026）]]）。
 
 ## 对特殊教育教师的启示
 
@@ -63,8 +63,8 @@ ai_assist:
 
 ## 常见误解
 
-- **“可用性评分验证了一件辅助工具。”** 从业者把一件共同设计的 Social Story 工具评为**高度可用（SUS 86.8）**，却指出其**图像是泛西式的**、其**行为追踪器与目标挂钩的临床判断不匹配**。高可用性与实质性的失败并存，因此 SUS 分数不是对契合度的认可。
-- **“通用基准能告诉你一个辅导者如何处理特殊教育案例。”** 在取自特殊教育与教育心理学文献的 **923 段基于案例的对话**中，**11 个模型中最好的一个**满足了一项有记录的干预标准，而**挑战性行为是辅导者基准止步之处**。标准评估触及不到从业者最需要帮助的那些案例。
+- **“[[usability-research|可用性]]评分验证了一件辅助工具。”** 从业者对一件他们共同设计的 Social Story 工具给出了一次可用性通过评价（SUS 86.8），却批评其刻板的西式图像与一个错失目标挂钩临床判断的行为追踪器。高可用性与实质性的失败并存，因此 SUS 分数不是对契合度的认可。
+- **“通用基准能告诉你一个辅导者如何处理特殊教育案例。”** 在取自特殊教育与教育心理学文献的 **923 段基于案例的对话**中，**11 个模型中最好的一个**满足了一项有记录的标准，而**那正是辅导者基准所能覆盖的边缘**。标准评估触及不到从业者最需要帮助的那些案例。
 - **“神经多样性学习者需要的是调适，而不是设计要求。”** [[neurodivergent-computing-students|Zastudil 等人]]发现，神经多样的计算专业学生需要**结构化的作业、小而稳定的小组与明确的角色定义**，这些是惠及所有人的一般设计要求，而不是诊断之后授予的个人调整。
 
 ## 关联概念

@@ -1,7 +1,7 @@
 ---
 title: 幸福感（Well-Being）
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 - **[[ai-literacy|AI 素养]]与社会情感学习：** [[sec-ai-literacy-narrative-review-2026|把 SEC 整合进 AI 素养的研究]]主张，培养教育者和学生的情商与幸福感，对在 AI[[sociocultural-learning|中介的学习]]环境中前行至关重要，连接到[[social-emotional-learning]]和 AI 的情感维度。
 - **AI 焦虑与学生体验：** 关于学生与 AI 互动的研究（如[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|基于 SDT 的研究]]）发现，AI 使用与焦虑、信任和信心交织，学生的幸福感受关于学术诚信、[[creativity]]和[[cognitive-offloading|过度依赖]]的担忧影响。
-- **焦虑的降低并非一致有益。** 在一项对 35 名大学预科学生的被试内平衡设计中，一个 LLM 增强的对话智能体在口头评估中降低了自报焦虑（平静感 6.50 对 5.86，p = .028），但作者提醒，中度焦虑可能有促进作用，且未记录任何成绩分数（[[aivaluate-anxiety-assessment-2026|Yusuf、Money 与 Daylamani-Zad（2026）]]）。
+- **焦虑的降低并非一致有益。** 在一项对 35 名大学预科学生的被试内平衡设计中，一个 LLM 增强的对话智能体在[[oral-assessment|口头评估]]中降低了[[self-report-measures|自报]]焦虑（平静感 6.50 对 5.86，p = .028），但作者提醒，中度焦虑可能有促进作用，且未记录任何成绩分数（[[aivaluate-anxiety-assessment-2026|Yusuf、Money 与 Daylamani-Zad（2026）]]）。
 - **考试焦虑被重新分配，而非被消除。** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] 主张，随着 [[assessment]] 从偶发性的高风险考试转向持续的、数据驱动的评估，算法问责增加了一套新的压力系统，其机制，即即时性、可见性与数据永久性，把急性考试压力转化为弥漫的、持续的表现警觉，而后者很少被报告。
 - **高认可可以与压力并存，而 AI 任务压力会削弱收益。** 在 551 名大一学生中，82.76% 认可数字与智能内容的整合，而 69.51% 报告[[anxiety-and-stress|焦虑]]或紧张，且随着 AI 任务压力上升，AI 熟练度—适应度斜率从 0.42 降到 0.20（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang 与 Yin（2026）]]）。
 - **感知到的 AI 能力可通过目标进展提升心理健康。** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen 等（2026）]]发现，从感知到的助手智能到心理健康的序列路径显著（B = 0.098），且在[[ai-literacy]]高时（0.124）强于低时（0.072），尽管所有结果都是在一次简短任务后立即测量的。
@@ -52,7 +52,7 @@ ai_assist:
 - **文化[[situated-learning|情境化]]的幸福感支持及其局限：** [[culturally-aware-student-stress-chatbot-2026|Bashir 与 Afzal（2026）]]描述了 Sukoon，一个为巴基斯坦大学生设计的混合式幸福感系统，把一个随机森林压力分类器（三个严重度级别上 89.09% 准确率；20 项调查特征）与一个[[llm]]对话层配对，后者按三级阶梯式照护模型逐级提升语气和支持强度。它的诞生是因为西式设计的心理健康工具是英语的、文化上不匹配，对以乌尔都语或罗马乌尔都语表达痛苦、并同时面对学业、经济、家庭和关系压力的学生不适用；作者明确声明它不是一个[[medical-education|临床]]诊断或治疗工具，高痛苦反应应指向专业咨询，且对话层尚未就文化适切性或情感安全与学生一起评估。
 - **教师幸福感与角色：** AI 对[[teacher-role|教师]]的影响——包括工作量、对用颠覆性技术教学的焦虑以及提供情感支持的能力——是一个反复出现的关切，连接到[[teacher-ai-competency]]和[[educational-development|专业发展]]。
 
-一项对 502 名大学教师的结构方程模型发现，AI 素养对 AI 幸福感的预测远强于技术自我效能（β = 0.713 对 β = 0.082），而社会与组织支持只间接到达幸福感——是胜任力而非鼓励承载了效应（[[faculty-ai-well-being-social-supports-2026|Liu 等（2026）]]）。
+一项对 502 名大学教师的结构方程模型发现，AI 素养对 AI 幸福感的预测远强于技术[[self-efficacy|自我效能]]（β = 0.713 对 β = 0.082），而社会与组织支持只间接到达幸福感——是胜任力而非鼓励承载了效应（[[faculty-ai-well-being-social-supports-2026|Liu 等（2026）]]）。
 
 - **关系致密化作为 AI 支持的教师发展的评价标准：** [[ai-emotional-intelligence-teacher-development-2026|Aponte 等（2026）]]认为，只有当 AI 作为关系性基础设施、而非人类陪伴的象征性替代时，它才支持教师的社会情感发展。他们提出**关系致密化**作为评判 AI 支持的专业发展举措的标准——它们是否强化了信任、指导、同伴支持、协作、心理安全和减少孤立——并指出这些关系通过课堂氛围、[[pedagogy|教学法]]响应和社会情感支持对学生产生下游影响。该综述还告诫，情感数据[[governance]]和教育 AI 的政治经济各有独特的伦理风险，把[[ai-literacy|批判性 AI 素养]]框定为一种社会情感胜任力。
 - **伦理与负责任的 AI：** 幸福感是[[ai-education]]中的核心伦理考量，连接到[[ethics]]以及"设计支持而非损害学习者心理健康和归属感的 AI"这一要求。
@@ -61,6 +61,8 @@ ai_assist:
 ### 幸福感作为设计考量
 
 一个反复出现的主题是：幸福感应是 AI 教育中的刻意设计考量，而非事后想法。这意味着：设计 AI 去支持而非取代人际关系；确保学生能保持能动性和信心，而非经历[[anxiety-and-stress|AI 引发的焦虑]]或过度依赖；支持教师在整合 AI 时的能力和幸福感；以及[[ai-ed-evaluation|评估 AI]]系统时不只看[[learning-gains|学习结果]]，还看其对学生和教师幸福感的影响。[[research-methods-aied|研究]]把幸福感连接到[[motivation]]、[[self-regulated-learning]]和[[student-experience]]（归属与参与）。[[daoism-ai-education-philosophy-2026|Xie（2026）]]主张相应的教育目的：以道家的"真人"反理想取代无摩擦的优化，把学习重新想象为自我、社会与宇宙的和谐整合，并坚持"没有学生只是待管理的数据集，而是能达到宁静的完整存在"。
+
+**社会情感证据基础并没有说明该由谁行动。** 一项针对 AI 与[[social-emotional-learning|社会情感学习]]交叉领域 65 项研究的[[meta-analysis-systematic-review|系统综述]]发现，近四分之三的研究没有提及政策意涵，而少数提及的研究在隐私、[[teacher-education|教师培训]]或资源分配上也几乎没有给出针对具体行动者的指引（[[policy-deficit-ai-sel-2026|Tran、Liu 与 Nguyen（2026）]]）。因此，作为设计考量的幸福感拥有关于效应的证据，却几乎没有任何关于责任的证据，这把“该由谁为它设计”的问题留给了机构，而不是文献。
 
 一个概念性重构把[[self-regulated-learning|情绪调节]]支持锚定在体育活动和校园生态上，而非仅仅情绪检测：没有单一表达通道能在无情境的情况下识别痛苦，因此 AI 应通过运动来支持调节，教师和咨询师保留解释权，而情绪监控一旦与出勤或评分挂钩就变成强制性（[[ai-emotion-regulation-sport-exercise-2026|Zhang 等（2026）]]）。
 

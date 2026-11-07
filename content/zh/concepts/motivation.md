@@ -1,7 +1,7 @@
 ---
 title: 动机
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-26T10:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 ## 主要研究主题
 
-**AI 对学生动机的影响**是最直接的一线研究。**[[ai-availability-student-motivation]]**考察 AI 辅助的可得性如何影响学生动机与坚持性，连接到[[cognitive-offloading|过度依赖]]研究 —— 当 AI 做工作时动机被侵蚀。就坚持性而言，简短的接触便已足够：十分钟与一位有求必应的助手相处，使参与者在无辅助问题上跳过的比例为 0.20，对照组为 0.11（[[liu-ai-assistance-reduces-persistence-2026|Liu 等，2026]]）。**[[scheu-mobile-chatbot-journaling-motivation-2026]]**探索移动[[conversational-ai|聊天机器人]]日志作为一种动机干预。**[[ai-learning-tools-engineering-education-needs]]**考察什么驱动学生在[[engineering-education|工程教育]]中采纳 AI 学习工具。
+**AI 对学生动机的影响**是最直接的一线研究。**[[ai-availability-student-motivation]]**考察 AI 辅助的可得性如何影响学生动机与坚持性，连接到[[cognitive-offloading|过度依赖]]研究 —— 当 AI 做工作时动机被侵蚀。就坚持性而言，简短的接触便已足够：十分钟与一位有求必应的助手相处，使参与者在无辅助问题上跳过的比例为 0.20，对照组为 0.11（[[liu-ai-assistance-reduces-persistence-2026|Liu 等，2026]]）。**[[scheu-mobile-chatbot-journaling-motivation-2026]]**探索移动[[conversational-ai|聊天机器人]][[reflection|日志]]作为一种动机干预。**[[ai-learning-tools-engineering-education-needs]]**考察什么驱动学生在[[engineering-education|工程教育]]中采纳 AI 学习工具。
 
 一项 42 项研究的元分析（56 个效应量，6,059 名学生）发现，GenAI 支持的学习使动机提高 Hedges' g = 0.764（95% CI [0.566, 0.962]）—— 但 I² = 93.7%、95% 预测区间为 [−0.689, 2.217]，该均值掩盖了效应近乎为零或为负的情境（[[genai-learning-motivation-meta-analysis-2026|Fang 等（2026）]]）。
 
@@ -49,9 +49,11 @@ ai_assist:
 
 - **削减挫折不等于维持动机。**一项三臂[[rct|RCT]]发现，有脚手架的导学系统与无限制的 ChatGPT 同等地削减了挫折（3.21 与 3.13 对 4.09），但只有有脚手架的导学系统提高了内在动机（2.82 对 2.42，p < .001）；ChatGPT 没有（2.64，p = .076）（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner 等（2026）]]）。
 
+- **反馈质量相同，不等于动机效应相同。** 一项有 312 名一年级写作者的三臂随机试验发现，AI 生成反馈与教师反馈以相同幅度改善了修订后的文章：d = 0.60 与 0.59，在预先设定的 ±0.35 SD 带内等价。然而教师反馈比 AI 反馈更多地提升了内在动机（5.16 对 4.90，d = 0.31），而对来源的感知关联中介了这一差距（间接效应 0.25，95% CI [0.12, 0.40]），几乎没有留下直接效应（[[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu 等（2026）]]）。表现走的是反馈投入而非自我效能，后者的间接路径不显著。Bassner 的试验把自主性与答案供给分开，这一项则把输出质量保持恒定，把动机差异定位在学习者在回应谁。
+
 读者为何伸手去拿 AI 本身就是一个可测的变量：AIR 量表把四种 GenAI 辅助阅读的动机区分出来 —— 任务导向、求好受、翻译与低努力 —— 只有低努力（在疲倦或脱离投入时使用 AI）与认知需求负相关（r = −.18）（[[air-scale-motivations-ai-reading-2026|Brann、Etgar 与 Sidi（2026）]]）。
 
-**AI 中介参与中的动机**考察动机的*质量*（而不只是数量）如何随 AI 改变。**[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva 等]]**把自我决定理论与[[network-analysis|认知网络分析]]结合，研究对[[generative-ai|生成式 AI]]的参与。****[[liang-ai-learning-motivation-sdt-2026|Liang 等（2026）]]**通过对一个为期一年的 AI 课程中**2,086 名[[k-12|中学]]学生**的潜在转移分析，发展性地追踪了动机，发现三个稳定画像（脱离投入、发展中、自我决定），而达到自我决定画像预示了最大的[[ai-literacy|AI 素养]]增益。****[[wang-goal-setting-ai-engagement-2026|Wang 与 Wang（2026）]]**用目标设置理论研究了**758 名[[higher-ed|大学]]英语学习者**，表明**教师支持**主要通过掌握趋近与表现趋近目标（趋近、而非回避的目标取向）驱动 AI 辅助的参与。这些研究共同表明，AI 情境中的动机既是发展性的、也是社会地获得支撑的 —— 它随时间变化，并响应教师支持与目标框定，而不只是工具设计。
+**AI 中介参与中的动机**考察动机的*质量*（而不只是数量）如何随 AI 改变。**[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva 等]]**把自我决定理论与[[network-analysis|认知网络分析]]结合，研究对[[generative-ai|生成式 AI]]的参与。****[[liang-ai-learning-motivation-sdt-2026|Liang 等（2026）]]**通过对一个为期一年的 AI 课程中**2,086 名[[k-12|中学]]学生**的潜在转移分析，发展性地追踪了动机，发现三个稳定画像（脱离投入、发展中、自我决定），而达到自我决定画像预示了最大的[[ai-literacy|AI 素养]]增益。****[[wang-goal-setting-ai-engagement-2026|Wang 与 Wang（2026）]]**用目标设置理论研究了**758 名[[higher-ed|大学]][[multilingual-learning|英语学习者]]**，表明**教师支持**主要通过掌握趋近与表现趋近目标（趋近、而非回避的目标取向）驱动 AI 辅助的参与。这些研究共同表明，AI 情境中的动机既是发展性的、也是社会地获得支撑的 —— 它随时间变化，并响应教师支持与目标框定，而不只是工具设计。
 
 目标取向也为工具的使用方式导向：掌握与规范性表现目标往往支持精加工与细化，而外观表现目标使努力最小化与保护被感知的胜任力更有可能 —— 因此同一个助手是支撑还是替代思考，取决于动机氛围（[[oby-chatgpt-use-learning-framework-2026|Øby，2026]]）。奖励动机会钝化 AI 反馈的触及：对[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等（2026）]]而言，随着基于成绩的奖励敏感性升高，可信度与感知学习之间的联系减弱，在低、均值与高敏感性处简单斜率分别为 b = 0.733、0.607 与 0.483。
 
@@ -59,12 +61,12 @@ ai_assist:
 
 一种对话格式可以在不改善总体评价的情况下提高动机：在 222 名高一学生中，教师–教师对话比教师–学生格式更能提高具体经验高的学习者的 ARCS 动机（b = 0.162，p < .001），却在总体评价上显著更低（b = -0.126，p = .005）（[[tts-dialogue-lessons-learner-characteristics-2026|Watanabe 等（2026）]]）。
 
-动机塑造学生如何框定工具，而框定承载了元认知的回报：**[[cui-motivation-roles-metacognitive-genai-2026|Cui 等（2026）]]**发现，协作者角色 —— 占日志的 7.5% —— 是唯一产生完整元认知链条的，而外在驱动的学生在 64.6% 的日志中把 GenAI 当作替代工具，且未产生高阶连接。
+动机塑造学生如何框定工具，而框定承载了[[metacognition|元认知]]的回报：**[[cui-motivation-roles-metacognitive-genai-2026|Cui 等（2026）]]**发现，协作者角色 —— 占日志的 7.5% —— 是唯一产生完整元认知链条的，而外在驱动的学生在 64.6% 的日志中把 GenAI 当作替代工具，且未产生高阶连接。
 
 **动机增益是构念特定的，而非一般的。****[[genai-writing-program-primary-l2-motivation-engagement|Lu 等（2026）]]**发现，一个为期九周、面向 301 名五、六年级学习者的 GenAI 支持的[[writing-education|写作]]项目，提高了他们理想的 L2 写作自我与学业韧性 —— 动机的抱负成分与复原力成分 —— 而成长型思维未变；唯一的成长型思维增益出现在对照组，且未通过多重比较校正。学生把这一转变归因于看到流利的文本由他们已知的词汇建构而成，这使成功的写作感觉可达。因此动机不是一个可由 AI 统一调大的旋钮：改善的是“一个人*能够*写好”的信念，而非“能力随努力增长”的信念。当 GenAI 本身就是相关性干预时，也出现同样的构念特定性。**[[genai-math-relevance-intervention-2026|Guo、Fryer 与 Shum（2026）]]**让**218 名高中生**花一小时与一个[[conversational-ai|聊天机器人]]进行半结构化对话，话题是针对[[math-education|数学]]的个人相关性；集体、班级层面的版本提高了作为认同的相关性（F = 4.35，p = .014，η² = 0.04；对对照组 F = 11.11，p = .001，η² = 0.073 —— 中等效应），并在结构方程模型中预示了一周后对某一具体课的相关性（β = 0.18，p < .01），而对数学课的兴趣没有变化（F = 0.29，p = .75，η² = 0.003）。作者把这一脱钩归因于剂量：单一一小时课程太短，相关性增益无法固化为对课程的兴趣。
 
 一个效用价值干预并非一致有益：一个有脚手架的版本在职前教师的知识整合上未产生总体增益，且*损害了*入门时感知效用价值高的学习者，这是一种主张把动机支持与学习者起点相匹配的能力–处理交互（[[utility-value-intervention-teach-responsibly-genai-2026|Boos、Eder 与 Lachner（2026）]]）。
-**一条反馈信息经由其被感知的有用性（而非学习者的性情）改变兴趣。****[[jansen-argumentative-writing-feedback-receptivity-2026|Jansen 等（2026）]]**在 1,507 名中学生完成一篇论辩文本初稿后，给他们一条标准化的自动反馈信息：总体接受度是唯一与情境兴趣变化相关的接受度维度（观测量表上约 0.11 分，大致为第 54 对第 46 百分位），而该效应被感知到的有用性完全中介（间接 β = 0.09，95% CI [0.06, 0.13]），且未留下显著的直接路径（β = 0.06，95% CI [−0.07, 0.16]），因此改变兴趣的是信息被感到的价值，而非学习者对反馈的总体立场。
+**一条反馈信息经由其[[technology-acceptance-model|被感知的有用性]]（而非学习者的性情）改变兴趣。****[[jansen-argumentative-writing-feedback-receptivity-2026|Jansen 等（2026）]]**在 1,507 名中学生完成一篇论辩文本初稿后，给他们一条标准化的[[ai-feedback-quality|自动反馈]]信息：总体接受度是唯一与情境兴趣变化相关的接受度维度（观测量表上约 0.11 分，大致为第 54 对第 46 百分位），而该效应被感知到的有用性完全中介（间接 β = 0.09，95% CI [0.06, 0.13]），且未留下显著的直接路径（β = 0.06，95% CI [−0.07, 0.16]），因此改变兴趣的是信息被感到的价值，而非学习者对反馈的总体立场。
 
 **教师动机与坚持性**考察教育者中的动机。**[[framing-5-percent-problem-teachers-persistence|框定百分之五问题]]**研究教师对 AI 工具的坚持性，而**[[teacher-education-ai-literacy-sdt-2026|Chiu 等]]**发现，支持需要的[[educational-development|专业发展]]培养专业学习共同体中持续的行为参与。
 
@@ -74,9 +76,11 @@ ai_assist:
 
 **努力悖论与辅助的恶性循环。****[[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]**主张，动机不只是被 AI 帮助或阻碍，而是被重新分配：人类通常走阻力最小的路，却也主动寻求努力 —— 努力悖论 —— 因为努力标示着行动有意义，也因为附于过程而非产物的奖励增加了奋斗与坚持的倾向。两条主张随之而来。第一，努力–意义关系是一个倒 U，因此动机的目标是适度的摩擦，而无摩擦 AI 的风险是越过到太少。第二，一个恶性循环：当 AI 在一个领域中替代了努力，该领域努力带来的动机益处便侵蚀，这使用户更依赖 AI，从而进一步侵蚀动机。他们还按发展阶段把补充与替代分开 —— 处于较早阶段的学习者冒着绕过建构坚持不懈之经验的风险，而技能已确立者可以用 AI 省时间（[[desirable-difficulties|合意困难]]、[[self-efficacy|自我效能]]）。
 
-**文献在没有动机理论的情况下测量动机。**一项对 2003 至 2025 年 156 项研究的范围综述发现，133 项（85.3%）不受任何特定动机理论指引，最常见的变量是一般化学业动机（n = 89），且 88 项研究（56.4%）来自同一国家情境（[[ai-student-motivation-scoping-review-2026|Li 等，2026]]）。
+**文献在没有动机理论的情况下测量动机。**一项对 2003 至 2025 年 156 项研究的[[meta-analysis-systematic-review|范围综述]]发现，133 项（85.3%）不受任何特定动机理论指引，最常见的变量是一般化学业动机（n = 89），且 88 项研究（56.4%）来自同一国家情境（[[ai-student-motivation-scoping-review-2026|Li 等，2026]]）。
 
 动机也作用于技术感知的上游，而不只是与之并行。在一个 340 名学生的物理样本中，效用价值预示了感知有用性（β = 0.43），内在价值预示了态度（β = 0.20），而感知成本降低了易用性（β = −0.16）与态度（β = −0.27），且没有通往意向的直接路径（[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]]）。
+
+**动机调节是这一文献中最薄的构念。** 在 39 项研究中，[[pan-generative-ai-student-motivation-sdt-review-2026|Pan、Abuhassna 与 Jiang（2026）]]发现自主性动机只在 2 项研究中被测量，认同调节与控制性动机各 1 项，而测量基本心理需要的有 17 项、测量投入的有 10 项。作者把这一缺口称为该综述的核心问题，因为调节问的是学生为何有动机，而需要满足只问环境是否支持了他们。
 
 ## 与相关概念的关联
 
@@ -103,6 +107,7 @@ ai_assist:
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — 社会情感学习
+- [[reflection]]
 
 ## 关联文章
 
@@ -138,3 +143,5 @@ ai_assist:
 - [[ai-student-motivation-scoping-review-2026]] — 156 项关于 AI 与学生动机的研究：85.3% 未使用动机理论，且构念、层级与国家的覆盖狭窄
 - [[gai-advocacy-practice-art-education-2026]] — GAI 倡导中的政策与实践落差充当学生评价的压力源
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — 有脚手架的导学系统在无限制的 ChatGPT 未能做到之处提高了内在动机
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — 质量相当的 AI 反馈与教师反馈，动机差距经由关联感（Liu 等，2026）
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 项研究的 SDT 综述：需要与投入常被测量，动机调节几乎从不

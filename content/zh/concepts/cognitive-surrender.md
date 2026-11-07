@@ -1,7 +1,7 @@
 ---
 title: 认知投降
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-29T10:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 
 务实的解读是：投降是一种**辨别失败**，而不是动机失败。投降的参与者并不是在逃避工作；他们分辨不出好建议与坏建议，而界面没有给他们任何尝试的理由。
 
-[[braun-cognitive-dormancy-ai-affordances-2026|Braun（2026）]] 的一项预注册实验提供了一个对照配置。当助手被检索增强限制在指定的练习纸上时，AI 条件反而降低了认知卸载（中位数 −0.27），而不是提高它，且没有任何一条卸载路径承载了组织混乱的上升（0.84）。投降需要一个其建议能被整体采纳的助手；一个只依据当前材料作答的系统，给学习者的东西更少可采纳、更多可调和。
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun（2026）]] 的一项预注册实验提供了一个对照配置。当助手被[[rag|检索增强]]限制在指定的练习纸上时，AI 条件反而降低了认知卸载（中位数 −0.27），而不是提高它，且没有任何一条卸载路径承载了组织混乱的上升（0.84）。投降需要一个其建议能被整体采纳的助手；一个只依据当前材料作答的系统，给学习者的东西更少可采纳、更多可调和。
 
 ## 实验室之外的投降
 
@@ -83,6 +83,8 @@ ai_assist:
 - **依赖模式和自主模式只在结果上可分。** [[family-school-autonomy-support-genai-2026|Fan、Li 与 Zhang（2026）]]在三波中跟踪了 589 名学生和职场新人：依赖式卸载把核心思考委派出去，与更低的内在动机相关，而自主式卸载不是这样，且两者的即时表现看起来相同。
 - **模型自身的贡献。** [[sycophantic-ai-social-interaction-2026|谄媚]]是投降的补集：一个赞同、朝用户的框架和稀泥、或流利地陈述主张的助手，不给学习者任何可以顶回去的东西。
 - **撤回是未解的半边。** [[cognitive-washout-ai-skill-decay-2026|关于认知消退的研究]]指出，几乎所有这类研究测量的都是 AI 使用*期间*的认知，几乎没有测量助手被移走后会发生什么 —— 而这恰好是一场考试、一次故障或一次许可复审所提出的问题。
+
+- **“整篇论文的委派在实验室之外仍只是假设。”** 它发生在一项单次在线研究中，没有政策，也没有任何鼓励。在 **77** 名大学写作者中，**15 人（19.5%）**提交了**100%**由模型撰写的论文，而没有在编辑器里键入一个字；**20** 名参与者直接索要一整篇论文，这是该编码方案中使用频率最高的类别。使用强度最高的参与者提交了 **27** 次查询。[[jelson-students-chatgpt-essay-writing-2026|投降表现为一种请求模式]]，而不是单一可检测的行为。
 
 ## 针对投降的设计与教学
 
@@ -143,3 +145,4 @@ ai_assist:
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] —— 校准训练
 - [[family-school-autonomy-support-genai-2026]] —— 依赖式对自主式卸载
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — 一个以练习纸为依据的助手降低了卸载而非提高它：投降签名的一个边界条件（Braun 2026）
+- [[jelson-students-chatgpt-essay-writing-2026]] —— 自然情境中的整篇论文委派：77 篇论文中有 15 篇完全由模型撰写，20 次索要完整论文的请求（Jelson 等 2026）

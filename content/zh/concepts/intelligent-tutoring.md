@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: 智能辅导
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T01:33:06-04:00"
+updated: "2026-11-07T17:17:38-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ TeachLM 认为稀缺的成分是真实的学习者—辅导者互动：在 100,0
 - **与专家级人类辅导在统计上等效。** 在来自 2,383 名成年人的 2,469 次会话中，汇总后的 AI 辅导在 GRE [[learning-gains|学习收益]]上与真人一对一专家辅导持平（p=.015，针对 ±0.25-SD 界限；调整后的差异为 -0.58 个百分点），两者都超过视频对照组约六个百分点；十二位辅导者中有六位通过了个体等效性检验，其中 Gemma 4 31B 以低 918 倍的单百分点成本达到了与人类相当的学习收益（[[studentbench-ai-human-tutoring-gre-2026|Northcutt et al.（2026）]]）。
 
 - **基于提示的 LLM 辅导微观个性化（2026）：** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu、Kakar 与 Goel（2026）]] 完全通过提示工程，在单个问题的粒度上对 Jill Watson [[llm]]／[[rag]] [[teacher-role|教学]]助手进行个性化——基于六个学习者维度（[[metacognition|元认知]] [[self-assessment]] 自我评估、抽象度、冗长度、感知、加工方式、理解程度）对回答进行条件化，并用 [[cognitive-diagnosis|布鲁姆分类法]]分类器对每条查询的认知需求进行分类，在不重训模型的情况下生成 96 种学习者画像。对 2,910 条回答的 NLP 分析与一项人类研究发现，回答的抽象度、冗长度、复杂度和加工风格出现了与预期效果一致、可感知的差异。它证明了以回答形式（而非内容）进行的调整，是已部署辅导工具中实现 [[adaptive-learning|自适应行为]]的一条可扩展、模块化的路径。
+
+- **课堂规模上的近迁移，而无标准化测验收益。**[[learnlm-eedi-expanded-rct-2026|LearnLM 团队、Google 与 Eedi（2026）]]把 10 所英国公立学校的 1,179 名学生随机分入四个组、为期 10 周。在获得支持后，56.5%–56.9% 的学生正确回答了第二道诊断题，而标准补救条件下为 43.4%；Star Maths 的效应为 −0.01 到 +0.02 SD。辅导工具对 94,385 份草稿中的 94.7% 未作改动即予通过，并在 114,935 份草稿中于抵达学生之前拦下了 6 处错误。
 
 ### ITS 核心概念
 
@@ -222,6 +224,8 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy 情感式数学辅导
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 结合计算机辅助学习的虚拟辅导：一项关于采用率与学习的实验
 - [[learnlm-improving-gemini-learning]] — LearnLM：改进 Gemini 以服务学习
+- [[learnlm-eedi-expanded-rct-2026]] — 扩展的英国 RCT：有近迁移增益，但 10 周时在标准化测验上没有优势（LearnLM 团队、Google 与 Eedi 2026）
+
 - [[teachlm-post-training-llms-education]] — TeachLM：以真实学习数据对 LLM 进行后训练
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于亲和映射的结果导向知识追踪
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
