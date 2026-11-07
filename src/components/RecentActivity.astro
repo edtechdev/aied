@@ -30,6 +30,10 @@ interface Props {
 
 const { pages, concepts, locale = 'en' } = Astro.props;
 const chrome = strings(locale).ui.chrome;
+// Locales that do not define viewAllConcepts fall back to their localized
+// "Concepts" label and the direction of their existing "View all pages" arrow.
+const viewAllConcepts =
+  chrome.viewAllConcepts ?? `${chrome.concepts} ${chrome.viewAllPages.trim().slice(-1)}`;
 
 // Lucide icons, identical to the journal page's per-type markers:
 // file-text (article), lightbulb (concept), circle-help (FAQ), toolbox (resource).
@@ -132,4 +136,5 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
       </li>
     ))}
   </ul>
+  <p class="recent-more"><a href={localizeHref('/aied/concepts/', locale)}>{viewAllConcepts}</a></p>
 </details>

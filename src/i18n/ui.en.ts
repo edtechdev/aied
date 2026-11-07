@@ -87,6 +87,8 @@ export interface UiStrings {
     recentlyAddedPages: string;
     recentlyUpdatedConcepts: string;
     viewAllPages: string;
+    /** Optional: locales without this string use the localized "Concepts" label and arrow. */
+    viewAllConcepts?: string;
     statsArticles: string;
     statsConcepts: string;
     statsFaqs: string;
@@ -188,6 +190,7 @@ const en: UiStrings = {
     recentlyAddedPages: 'Recently Added Pages',
     recentlyUpdatedConcepts: 'Recently Updated Concepts',
     viewAllPages: 'View all pages →',
+    viewAllConcepts: 'View all concepts →',
     statsArticles: 'articles',
     statsConcepts: 'concepts',
     statsFaqs: 'FAQs',
