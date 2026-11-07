@@ -517,7 +517,9 @@ export class SearchController {
   }
 
   private async share(): Promise<void> {
-    const url = canonicalUrl(this.state);
+    // The address bar and history use the site-relative canonical form; a
+    // shared link must be absolute so it opens from another device or chat.
+    const url = new URL(canonicalUrl(this.state), window.location.origin).href;
     try {
       if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(url);
