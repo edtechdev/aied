@@ -10,12 +10,16 @@ ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
-updated: "2026-11-05T16:13:12-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-05T02:16:00-05:00"
+source_updated: "2026-11-06T01:55:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-05"
@@ -64,6 +68,8 @@ La legibilidad es la medición más antigua de este ámbito y la que la IA deses
 Dos estudios más amplían la brecha. Bird fusiona la clasificación con transformadores y rasgos de lingüística computacional para situar la literatura en inglés en una Key Stage del Reino Unido, alcanzando F1 0,996 y empaquetando el resultado como una herramienta para docentes ([[bird-multimodal-educational-literature-2026|Bird, 2026]]). Clark et al. descienden completamente por debajo de la superficie y miden construcciones con costes de procesamiento conocidos —n-gramas de baja frecuencia, dependencias largas, sustantivos apilados, verbos denominales, sujetos inanimados, relativas de objeto reducidas— y encuentran que los modelos recientes las usan en exceso en relación con sus propias paráfrasis que preservan el significado y con las referencias humanas de base ([[clark-ai-generated-language-readability-2026|Clark et al., 2026]]). La legibilidad, con esta evidencia, es una propiedad de las demandas de procesamiento del texto y de quién lo produjo, no solo de sus estadísticas de longitud.
 
 La consecuencia práctica es que una puntuación de nivel de grado es una garantía débil sobre cualquier texto, y una garantía particularmente débil sobre un texto escrito por IA.
+
+La percepción del público objetivo ahora puede medirse directamente. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al., 2025]] recopilaron un conjunto de datos de 3.954 anotaciones de 193 estudiantes alemanes de secundaria que calificaron oraciones de guías de estudio de orientación profesional y de Wikipedia, y encontraron que los lectores discrepaban de la fórmula: el 72,8% de las anotaciones eran muy fáciles o fáciles a pesar de las bajas puntuaciones de Flesch-Reading-Ease del corpus. El análisis SHAP de un modelo basado en perfiles mostró que los rasgos del lector impulsaban esa percepción: la lengua hablada en casa fue el rasgo personal más influyente (0,09), por delante del género (0,08) y de la habilidad autoevaluada en alemán (0,07), de modo que una puntuación de nivel de grado no solo pasa por alto las demandas de procesamiento del texto, sino también de quién es la experiencia de lectura que mide.
 
 ## Adaptar y generar texto
 

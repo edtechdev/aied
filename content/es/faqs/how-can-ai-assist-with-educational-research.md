@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA ayudar en la investigación educativa?"
 created: "2026-10-05T12:43:10-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -15,11 +15,15 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -67,6 +71,8 @@ La mayor parte del beneficio procede de dos decisiones de diseño. Escriba regla
 [[qualitative-research|El análisis cualitativo]] es la etapa en la que la interpretación es el producto. Los constructos, las rúbricas de codificación y los datos de entrenamiento son decisiones humanas y no resultados del modelo ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), lo que significa que el libro de códigos tiene que estar cerrado antes de que una pasada automatizada recorra el corpus. La alternativa es un esquema de codificación escrito en torno a lo que el modelo resultó destacar, y entonces los temas describen la lectura que la herramienta hace de sus datos.
 
 La delegación puede ser más fina que todo o nada. [[agreement-not-quality-llm-coding-verification|Un estudio de verificación a ciegas]] clasificó 15 de 72 ítems del libro de códigos como casos que demuestran requerir experiencia humana, 12 como mejor atendidos por un modelo y 16 como aptos para un triaje basado en la confianza. Ordene sus propios ítems de esa manera y el ahorro de trabajo recaerá donde es seguro.
+
+El modelado de temas puede extender esa estructura sin asumir la interpretación. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey y Flor (2026)]] combinaron codificación fundamentada, embeddings de SentenceBERT agrupados con Affinity Propagation y etiquetado con GPT-4 en seis grupos focales con 13 docentes. La revisión humana descartó 18 clústeres de comunicación y 16 de alfabetización digital que eran relleno conversacional, y quedaron 14 y 16 clústeres significativos; ChatGPT-4o y Copilot coincidieron en el 33,3% y el 43,8% de las etiquetas, con una similitud de coseno de 0,835 a 0,880, y la revisión humana no encontró alucinaciones claras. El estudio es una canalización elaborada, no una comparación: no tiene brazo solo humano ni solo IA, y 13 docentes no permiten establecer generalizabilidad. Úselo para ver la división del trabajo, no como evidencia de que el híbrido supera a las alternativas.
 
 ## Decida qué significa verificar y quién lo firma
 

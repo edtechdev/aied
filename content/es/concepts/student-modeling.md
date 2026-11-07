@@ -1,16 +1,20 @@
 ---
 title: Modelado del estudiantado e instrucción adaptativa
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -52,6 +56,8 @@ Los modelos del estudiantado también pueden construirse únicamente a partir de
 El modelado afectivo del estudiantado es una dimensión adicional: un tutor de matemáticas infirió la emoción a partir del texto conversacional y la expresión facial y asignó el estado agregado a estrategias de tutoría, pero la fusión [[multimodal|multimodal]] alcanzó solo un 60% de exactitud frente a las propias anotaciones de los participantes, lo que convierte la lectura afectiva en el eslabón más débil del flujo ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] encontraron que una señal de inicio demorado registrada durante la práctica de matemáticas predijo resultados de inglés, con quienes se demoran de forma crónica (más de 13 minutos) mostrando menores ganancias (ELA β = -.11 SD) incluso tras controlar el [[prior-knowledge|conocimiento previo]] y el tiempo en la tarea, así que los modelos conductuales del estudiantado pueden transferirse entre asignaturas sin reentrenamiento por curso, aunque sus puntos de corte deben rederivarse.
+
+La dificultad percibida es otra dimensión del modelado del estudiantado, y puede predecirse a partir de rasgos de la persona y no solo de estadísticas del texto. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] construyeron modelos de lector basados en perfiles a partir de las valoraciones de 3.954 oraciones por 193 estudiantes alemanes de secundaria, y su conjunto de KNN más XGBoost alcanzó un RMSE de 0,822 frente a una línea base media de 1,070, con R² = 0,396. Todos los regresores que incluían características del lector superaron tanto la línea base media como la de complejidad promedio, así que un modelo del estudiantado que captura quién es el lector predice cuán difícil se siente un texto: una dimensión de percepción que los demás modelos de esta página no recogen.
 
 ## La capa de instrucción adaptativa
 

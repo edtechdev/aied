@@ -1,7 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -9,10 +9,14 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -65,6 +69,10 @@ Una palanca diferente elimina el conocimiento en lugar de constreñir la salida.
 La estabilidad de la persona es un problema de diseño de la interacción, no de elección de modelo: cruzando cinco LLM con tres diseños de prompt y cuatro personas de intensidad [[neurodiversity|TDAH]], las interacciones ancladas a tareas con guion eliminaron la deriva conductual valorada por observadores — hasta un 97% menos que el diálogo sin guion — y sin instrucciones explícitas de persona la representación estudiantil de partida se inclinaba hacia síntomas altos de TDAH ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase y Leins (2026)]]).
 
 El fallo opuesto también ocurre: en un estudio ciego, anotadores expertos clasificaron erróneamente 164 de 196 (83,7%) de las entregas en Java generadas por LLM como escritas por humanos, por lo que los errores de un simulador pueden ser funcionalmente indistinguibles de los auténticos — aunque la alineación con errores reales disminuyó a medida que aumentaba la dificultad del problema ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
+
+Los LLM con prompting de rol también fallan en el eje de la percepción. [[thome-perceived-text-complexity-student-profiles-2025|Thome et al. (2025)]] pidieron a ChatGPT-4o y Claude Sonnet 3.5 que valoraran oraciones en alemán desde la persona de cada uno de 193 estudiantes reales. Incluso con 12 etiquetas reveladas, los modelos terminaron peor que la línea base media (RMSE 1,171 y 1,252 frente a 1,070), a la vez que colocaban mal la distribución de etiquetas: ambos se concentraron en la etiqueta fácil donde el estudiantado asignó «muy fácil» al 45,27% de las oraciones de prueba. El juego de rol condicionado por persona todavía no reproduce cómo experimenta el texto un público objetivo.
+
+[[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] añaden un eje de respuesta a encuestas a la simulación de estudiantes, generando respuestas al BREQ a partir de la transcripción de la entrevista de cada persona, de modo que el contenido de la entrevista mejoró la alineación y la diversidad en algunos modelos mientras los datos demográficos aportaban poco. Las respuestas de los LLM produjeron menos variabilidad que las humanas en todas las condiciones, y la imitación a nivel de ítem no reconstruyó la estructura psicométrica a nivel de prueba, ya que solo Claude con prompts de entrevista mejoró la alineación en el índice de autonomía relativa.
 
 Condicionar la generación a un modelo de comportamiento predicho funciona sin [[llm-training-and-fine-tuning|ajuste fino]]: un marco sin entrenamiento construye el prototipo cognitivo de cada estudiante a partir de un [[knowledge-graph]] y puntúa los candidatos de beam-search contra él, reportando una mejora del 100% en la precisión de la simulación ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Su calidad aumenta con el nivel cognitivo del estudiante, por lo que los estudiantes más débiles siguen siendo el caso más difícil de simular.
 

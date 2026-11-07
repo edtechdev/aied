@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,10 +9,14 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -67,6 +71,8 @@ La [[rag|generación aumentada por recuperación]] ancla las respuestas del tuto
 
 - **Resistencia a la sicofancia:** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] muestra que los tutores capitulan ante la presión de la autoridad y la presión social-[[affective-computing|afectiva]], y que retienen la retroalimentación correctiva. Sostiene que el comportamiento «amable pero correcto» —la fricción correctiva que impulsa el cambio conceptual— es un requisito de seguridad. Las salvaguardas deben resistir la [[ai-sycophancy|sicofancia]], no solo la toxicidad.
 - **Control de calidad con el profesorado en el bucle:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] encontró que el profesorado prácticamente nunca prueba los bots de tutoría con IA antes de desplegarlos, y hace cumplir un control de calidad dirigido por el profesorado como actividad de autoría de primer orden mediante edición basada en correcciones y validación con [[human-in-the-loop-ai|humanos en el bucle]].
+
+- **Las entradas del estudiantado son el problema de moderación, y apenas sí.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] desplegaron un chat estructurado dentro de un filtro de seguridad de dos niveles en un ITS de matemáticas y encontraron que solo el 0,31% de los 54.384 mensajes del estudiantado en el despliegue de campo puntuaron 0,1 o más en la API de moderación de OpenAI, y la única marca de alto riesgo fue un falso positivo. Los umbrales por categoría se calibraron con red teaming (17 educadores y diseñadores ejecutaron 57 conversaciones adversarias) antes de convertirse en política.
 
 - **Solo instrucciones verificables.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] auditan un agente de reflexión basado en GPT-4o frente a su propio prompt de sistema y encuentran que la fidelidad seguía la verificabilidad: las reglas mecánicas (un límite de longitud de respuesta) se cumplían, mientras que las reglas de comportamiento («no adular», «desafiar con suavidad») se incumplían en aproximadamente la mitad de sus turnos sin dejar rastro en la salida, y el incumplimiento de comportamiento coincidió con peores resultados de los participantes. La implicación de diseño es especificar el comportamiento en términos verificables y auditar las transcripciones de forma rutinaria, porque no se puede confiar en una salvaguarda que no puede comprobarse.
 - **Una capa de fiabilidad alrededor de un modelo que el profesorado no puede auditar.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten y Bardyn (2026)]] rodean un LLM de verificación externa, reparación dirigida y respaldo seguro, guiados por un marco evolutivo y pedagógico y mantenidos agnósticos al modelo y preservadores de la privacidad. En un piloto de aula con jóvenes de 12 a 16 años que trabajaban con un robot social basado en LLM en una tarea de cocreación, el prototipo dirigido suscitó más actividad, [[student-engagement|implicación]] y participación centrada en el tema que una base de referencia basada solo en prompts. El argumento arquitectónico es que la seguridad puede adosarse *alrededor* de un sistema en lugar de exigir acceso interno a él, que es lo que hace desplegables las salvaguardas por capas en entornos de [[k-12|K-12]].

@@ -1,7 +1,7 @@
 ---
 title: Enseñanza del inglés (EAP / EFL / ESL)
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-11-04T13:20:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"

@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-11-05T17:03:28-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,10 +9,14 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -66,6 +70,7 @@ La [[research-methods-aied|investigación]] de la base de conocimiento examina l
 
 - **La reflexión es una pedagogía que la IA a la vez habilita y amenaza.** Los prompts estructurados, los diarios y los comentarios de [[eportfolio|portafolio]] son el mecanismo por el que la experiencia se convierte en aprendizaje, y la página de [[reflection|reflexión]] recoge la evidencia. Un experimento preinscrito encontró que los prompts duplicaban el tiempo dedicado a la retroalimentación y recortaban el volumen de práctica un 40% sin elevar la ganancia por problema. Una auditoría codificada de un socio de reflexión con IA encontró que incumplía todas las instrucciones conductuales sin dejar rastro visible. Diseñe el prompt en torno a un intento ya completado y exija el rastro en lugar de la entrada pulida.
 - **Estrategias de enseñanza para la alfabetización en IA.** Enseñar al estudiantado *a usar bien la IA* es en sí mismo una tarea pedagógica: la investigación sobre [[ai-literacy]] y [[reducing-ai-misuse]] desarrolla estrategias (pensar primero, IA después, reflexionar; declaración de uso de IA; entrenamiento en calibración) que pertenecen a este marco.
+- **La metáfora y la analogía como técnica de enseñanza.** [[metaphors-and-analogies]] reúne la evidencia sobre cómo las analogías explican la IA, dónde se rompen y cómo el estudiantado puede auditarlas como forma de [[critical-thinking|pensamiento crítico]].
 - **La instrucción en alfabetización en IA mueve el conocimiento más rápido.** Un [[meta-analysis-systematic-review|metaanálisis]] de tres niveles de 59 estudios (172 tamaños del efecto) encontró que las intervenciones centradas en el conocimiento (g ≈ 0,97) superaban claramente a las dirigidas a habilidades (≈ 0,67), actitudes (≈ 0,68) o [[ethics|ética]] (≈ 0,64), así que emparejar la enseñanza de conceptos con práctica sostenida apunta a los resultados que resisten a la instrucción ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **La pedagogía en la práctica docente.** [[teacher-role]] y [[teacher-ai-competency]] examinan cómo adopta el profesorado la IA dentro de su repertorio pedagógico existente, y [[llm-training-and-fine-tuning]] y [[pedagogical-agent]] estudian herramientas de IA entrenadas para seguir principios pedagógicos.
 
@@ -109,9 +114,11 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — La metáfora y la analogía como técnica de enseñanza
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+- [[case-based-learning]] — El método de casos y los casos contrastivos como técnicas de enseñanza
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

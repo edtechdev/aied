@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo diseño un desarrollo profesional docente en IA que cambie realmente la práctica?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -11,11 +11,15 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -57,6 +61,8 @@ El grupo estructurado puntuó más alto en las siete dimensiones de preparación
 Otros dos resultados explican por qué las demostraciones no viajan. En [[pishtari-teacher-ai-training-learning-design-2026|un estudio intrasujeto con 13 docentes de educación superior]], el acceso a un chatbot elevó la proporción de actividades que alcanzaban dos o más tareas de orden superior de Bloom del 41,7% al 91,7% (p = 0,01) y redujo el esfuerzo cognitivo percibido de una mediana de 6,33 a 3,33 (p = 0,004). La formación en [[prompt-engineering|ingeniería de prompts]] pedagógica añadida encima no mejoró más la calidad del diseño y aumentó ligeramente el esfuerzo. Mientras tanto, en [[teachers-collaborative-evaluation-ai-content-2026|un taller con 60 docentes de ciencias de secundaria]], el elemento productivo fue la revisión colaborativa de preguntas de evaluación generadas por ChatGPT, que es lo que sacó a la luz los problemas de precisión conceptual y el riesgo de reforzar [[misconceptions|concepciones erróneas]].
 
 Lo que esos estudios comparten: el aprendizaje vino de criticar y revisar material. La gente mejora lo que tiene delante, y lo mejora más rápido cuando un colega también lo está leyendo.
+
+La competencia investigadora puede ser el objetivo, y no un efecto secundario. En un programa de seis semanas apoyado por IA con 105 docentes de química, todas las dimensiones medidas mejoraron del pretest al postest (dz de Cohen = 0,47 a 0,63), y el mayor cambio fue la competencia investigadora, que subió de 3,50 (DE = 0,88) a 4,16 (DE = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). El profesorado pasó de describir la IA como una herramienta de recuperación y escritura a describirla como apoyo para la planificación de la investigación y las decisiones informadas por datos. El diseño fue un estudio pre-post de un solo grupo, así que trate la ganancia como evidencia del programa y no como un efecto causal; lo que añade es una forma concreta de hacer del rol de investigador parte del mismo ciclo de desarrollo profesional.
 
 ## Deje de tratar la habilidad como la pieza que falta
 

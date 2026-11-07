@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,10 +13,14 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -62,6 +66,7 @@ La investigación de la base de conocimiento converge en varias dimensiones inte
 - **Especificar los flujos de trabajo de los agentes:** cuando el profesorado configura un chatbot en lenguaje natural, el fallo dominante es la pérdida de intención y no los datos erróneos —los bots se saltaron pasos obligatorios del flujo de trabajo en el 53,8% de las conversaciones de usuarios finales y omitieron el establecimiento de expectativas en el 33,4% ([[eduwild-teacher-configured-chatbots-failures-2026|Liu et al. (2026)]]), de modo que escribir pasos ordenados y explícitos es una dimensión competencial entrenable por sí misma.
 - **El conocimiento pedagógico es la capa decisiva.** Un estudio transnivel de [[ai-education|educación en IA]] en [[k-12|secundaria]] ([[pedagogy-first-technology-second-teacher-knowledge-2026|46 docentes, 2.832 estudiantes]]) encontró que el conocimiento técnico de la IA por sí solo era insuficiente —e incluso podía reducir ligeramente la percepción del estudiantado sobre la IA para el bien social—, mientras que el conocimiento pedagógico de la IA impulsaba las percepciones del estudiantado y su intención de aprender IA. Los marcos de competencia deberían, por tanto, ponderar el conocimiento pedagógico de la IA como la dimensión pivotal y no como un añadido blando.
 - **Integración pedagógica:** vincular el uso de la IA a los objetivos de aprendizaje, diseñar [[scaffolding|andamiaje]] que apoye la [[metacognition|metacognición]] y la auto-[[regulation|regulación]] del estudiantado, e integrar la IA en el [[learning-design|diseño instruccional]]. [[ai-tpack-teacher-multi-agent-workflow|La investigación sobre AI-TPACK]] modela cómo el profesorado combina conocimiento tecnológico, pedagógico y de contenido mediante flujos de trabajo multi-[[agentic-ai|agente]], mientras que [[teacher-ai-teaming-five-levels|un marco de colaboración docente-IA de cinco niveles]] (transaccional → sinérgico) captura cómo la [[generative-ai|IA generativa]] puede reemplazar, complementar o aumentar la competencia docente.
+- **Competencia investigadora:** usar la IA para el análisis de datos de aula es una dimensión formable de la pericia docente; un programa de seis semanas apoyado por IA con 105 docentes de química produjo ganancias pre-post en todas las dimensiones medidas (dz de Cohen 0,47 a 0,63, p < 0,001) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). También desplazó las percepciones del profesorado sobre la IA desde la recuperación y la escritura hacia la planificación de la investigación y la toma de decisiones informada por datos.
 - **Alfabetización evaluativa:** evaluar el contenido generado por IA y las producciones del estudiantado con IA, y comprender cómo cambia la [[assessment-validity|validez]] cuando el estudiantado usa IA. Esto conecta con la [[automated-assessment|evaluación automatizada]], la [[ai-detection|detección de IA]] y la agenda más amplia de rediseño de la [[assessment|evaluación]]. En el caso de los sistemas de recomendación, se extiende a juzgar si las explicaciones de una IA son genuinamente comprensibles y pedagógicamente significativas: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] encontraron que el profesorado confiaba más en las recomendaciones de agrupamiento de la IA cuando las explicaciones se formulaban en el lenguaje de la disciplina (curricular) que cuando exponían características crudas del modelo, una habilidad para exigir y valorar la [[explainable-ai|calidad de las explicaciones]] en lugar de aceptar resultados opacos.
 - **La selección de modelo y el diseño de prompts como habilidades demostrables:** la [[ai-literacy|alfabetización en IA]] instrumental incluye saber qué modelo usar y cómo formular la tarea. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] hicieron que ChatGPT-4, Claude 3 y Gemini Advanced criticaran los objetivos de planificación de clases de 153 docentes en formación bajo cuatro prompts variados sistemáticamente (N = 240 retroalimentaciones en el estudio 1 y 345 en el estudio 2), con la [[feedback|retroalimentación]] valorada en nueve categorías de calidad. La elección de modelo por sí sola explicó el 26,9% de la varianza en la calidad valorada (18,4% en el estudio 2) y el diseño del prompt añadió un 15,9% adicional significativo (5,7%); la única característica decisiva del prompt fue el lenguaje técnico específico de la disciplina, cuya eliminación redujo significativamente la calidad (β = −0,412), mientras que añadir ejemplos y suprimir la instrucción de cadena de pensamiento no supuso ninguna diferencia significativa en el estudio 1. Su lectura —que la terminología de la materia tanto desbloquea contenido relevante de los datos de entrenamiento como enmarca la petición de forma profesional, como hace el role prompting— junto con una regla práctica de usar el modelo de frontera actual más capaz, convierte la elección de modelo en una decisión didáctica y no técnica.
 - **Uso ético y crítico:** reconocer el [[bias-mitigation|sesgo]] en los resultados de la IA, proteger los datos del estudiantado ([[privacy|privacidad]]) y garantizar resultados equitativos ([[equity-in-ai-education|equidad en la educación con IA]]). [[llm-cultural-relevance-k12|El uso culturalmente relevante de la IA]] examina cómo el profesorado puede usar los LLM para diversificar los materiales en lugar de reforzar las normas dominantes.
@@ -240,3 +245,4 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: cómo fallan los chatbots configurados por el profesorado en el uso real y cómo arreglarlo
 - [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los currículos de residencia: entrevistas cualitativas con doce líderes médicos
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Satisfacciones de las necesidades psicológicas básicas del profesorado y sus intenciones de usar inteligencia artificial generativa: el papel mediador de la implicación en el desarrollo profesional
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Competencia investigadora del profesorado de química tras un desarrollo profesional apoyado por IA: un estudio pre-post de métodos mixtos

@@ -1,16 +1,20 @@
 ---
 title: Investigación con métodos mixtos
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -41,6 +45,7 @@ En 394 estudios sobre [[generative-ai|IA generativa]] en educación superior, lo
 - **Exploratorio secuencial (CUAL → cuan).** El trabajo cualitativo construye teoría, genera hipótesis o informa el diseño de instrumentos que después se prueban cuantitativamente. [[becker-chatgpt-typology-physics-2026|Una tipología cualitativa de la adopción de ChatGPT]] produce categorías que pueden informar el diseño posterior de encuestas.
 - **Exploratorio secuencial con invariancia de medición.** [[trust-calibration-genai-collaborative-regulation-2026|Bu y Li (2026)]] codifican entrevistas para identificar las cuatro dimensiones del modelo, construyen a partir de ellas un instrumento de 22 ítems y después prueban la invariancia configural, métrica y escalar entre género y área disciplinar en una muestra analítica de 642 — mostrando una línea cualitativa que alimenta un [[self-report-measures|instrumento de encuesta]] y una prueba de invariancia que confirma que los constructos se comportan igual entre grupos.
 - **Convergente/paralelo.** Las líneas cuantitativa y cualitativa se ejecutan simultáneamente y se integran en el análisis. [[t2i-competence-paradox-2026|El estudio de la paradoja de la competencia]] usa grupos focales con docentes, una encuesta al estudiantado y entrevistas de seguimiento en paralelo; [[fouad-bentley-trust-utility-gap-physics-2026|el estudio de la brecha entre confianza y utilidad]] combina evidencia de encuesta y de entrevista sobre la adopción de IA por estudiantes de física.
+- **Una línea cuantitativa generada por máquina.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et al. (2026)]] generaron la línea cuantitativa BREQ a partir de las transcripciones de entrevistas de los participantes bajo un diseño de convergencia, una vía de integración que no depende únicamente del trabajo humano. Las correlaciones entre LLM y humanos oscilaron entre medias y altas (ρ = 0,5 a 0,73), los RMSE por ítem, por persona y por prueba cuantificaron la distancia respecto a las respuestas humanas, y los ítems redactados en negativo 6, 7 y 11 marcaron el beneficio de triangulación más claro, señalando dónde divergen la evidencia de entrevista y la de encuesta.
 
 ## Cómo aparecen los métodos mixtos en la base de conocimiento
 

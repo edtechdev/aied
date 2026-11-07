@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T16:35:00-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -11,11 +11,15 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-02T06:00:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic, learnharness]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -92,6 +96,7 @@ Los Sistemas de Tutoría Inteligente representan una de las áreas más antiguas
 - **Un tutor de IA construido a partir de la pedagogía de la propia clase superó a esa clase: un ECA contra el [[active-learning|aprendizaje activo]].** En un [[rct|ECA]] cruzado en el curso introductorio de física más grande de Harvard (194 estudiantes elegibles), un tutor a medida, diseñado a partir de las mismas siete prácticas basadas en investigación que las lecciones en clase, produjo una mediana de postest de 4,5 frente a 3,5 del aprendizaje activo en clase (mediana basal 2,75), un tamaño del efecto de 0,63 por regresión lineal, en una mediana de 49 minutos de tarea frente a 60 en clase, con mayor implicación declarada (4,1 frente a 3,6) y motivación (3,4 frente a 3,1) ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Los autores sitúan la ventaja en las dos prácticas que un aula no puede sostener: retroalimentación personalizada a demanda y ritmo propio, y advierten que el tutor debe aumentar la instrucción en clase, no suplantarla.
 - **La mediación docente duplica aproximadamente la fidelidad de la implementación (evidencia de campo de distrito completo):** [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]], una plataforma de matemáticas de [[multimodal|IA multimodal]] mediada por docentes desplegada a todo el profesorado de matemáticas de los grados 6 a 8 en un gran distrito de Arizona, llegó a ~51% de 6.065 estudiantes con un umbral modesto de 2 problemas por semana, frente a los umbrales del 5% (Khan Academy) y el 12% (IXL) de evaluaciones anteriores.
 - **Y la dosis impulsa el efecto dentro de eso (mismo estudio):** un diseño de propensión ponderada asoció el uso con 0,11 DE de crecimiento MAP dentro del distrito (0,24 DE en el Índice de Crecimiento Condicional nacional), con un gradiente de dosis limpio: 0,18 DE con 10-19 problemas por semana y 0,31 DE con 20 o más, con todas las dosis por encima de 3 por semana significativas (p < 0,01). Los subgrupos exploratorios mostraron asociaciones mayores para estudiantes con IEP (+0,122 DE), [[multilingual-learning|estudiantes de inglés]] (+0,191 DE) y estudiantes hispanos (+0,084 DE). El diseño es cuasi experimental (la autoselección en el uso es la vulnerabilidad que los autores nombran), pero la fidelidad y la respuesta a la dosis ejemplifican directamente la lección de la restricción vinculante.
+- **Transferencia cercana sin ganancias en pruebas estandarizadas a escala de aula.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google y Eedi (2026)]] aleatorizaron a 1.179 estudiantes de 10 escuelas públicas del Reino Unido en cuatro brazos durante 10 semanas. Tras el apoyo, el 56,5-56,9% respondió correctamente a una segunda pregunta diagnóstica frente al 43,4% con la remediación estándar; los efectos de Star Maths fueron de -0,01 a +0,02 DE. Los tutores aprobaron el 94,7% de 94.385 borradores sin cambios, y 6 errores en 114.935 borradores se detectaron antes de llegar al estudiantado.
 
 - **Equivalencia estadística con la tutoría humana experta.** A lo largo de 2.469 sesiones de 2.383 adultos, la tutoría con IA agrupada igualó a la tutoría humana experta en vivo uno a uno en [[learning-gains|ganancias de aprendizaje]] del GRE (p=0,015 frente a límites de ±0,25 DE; diferencia ajustada de -0,58 puntos porcentuales) y ambas superaron a un control de vídeo en unos seis puntos; seis de doce tutores pasaron las pruebas individuales de equivalencia, con Gemma 4 31B igualando las ganancias humanas con un costo 918 veces menor por punto porcentual ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
@@ -213,6 +218,7 @@ La tutoría eficaz exige adaptación continua: [[zhang-tutormoments-2026|Zhang e
 
 ## Artículos conectados
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revelar las brechas de capacidad de respuesta de los tutores LLM en problemas de programación con múltiples soluciones (Cen y Sonkar 2026)
+- [[learnlm-eedi-expanded-rct-2026]] — ECA ampliado en el Reino Unido: ganancias de transferencia cercana pero ninguna ventaja en pruebas estandarizadas a las 10 semanas (LearnLM Team, Google y Eedi 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento de los estudiantes? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluar tutores LLM con estudiantes de conducta desafiante (Park et al. 2026)
 - [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Una cámara sobre el trabajo manuscrito: acceso visual y reparación proactiva (Kotalwar et al. 2026)

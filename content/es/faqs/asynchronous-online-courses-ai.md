@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo deberíamos diseñar y facilitar cursos en línea asíncronos cuando la IA puede hacer el trabajo?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -13,11 +13,15 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-source_updated: "2026-10-28T11:34:12-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"

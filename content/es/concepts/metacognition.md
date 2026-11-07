@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,11 +12,15 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -90,6 +94,8 @@ Cuando la IA se diseña para apoyar la reflexión en lugar de sustituirla, la me
 - **Asignar un nivel de uso de IA por tarea.** HAIML empareja sus tres capas con Cuatro Niveles de Uso de IA —desde ningún uso de IA, pasando por la lluvia de ideas, hasta la colaboración con IA y la creación integrada con IA con evaluación de la salida—, de modo que quien enseña fija el nivel de una tarea y mantiene la reflexión metacognitiva central en todos los niveles ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - El **curso basado en ejemplos** del [[conversational-ai|chatbot]] de Scheu et al. aumentó la **competencia percibida** (una [[self-assessment|autoevaluación]] metacognitiva) incluso cuando el asistente de [[llm|LLM]] por sí solo no lo hizo
 - **Un encuadre emergente pone el sistema, y no solo al individuo, en el bucle.** Una [[meta-analysis-systematic-review|revisión sistemática]] bibliométrica de 135 estudios de aulas STEM (24 estudios centrales) encuentra que emerge un encuadre poshumanista que sitúa la IA como correguladora del aprendizaje, desplazando la unidad de análisis de la reflexión individual a la [[regulation|regulación]] a nivel de sistema y a la [[distributed-cognition|cognición distribuida]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+[[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] ajustaron finamente GPT-4o-mini para identificar cuatro subelementos metacognitivos (establecimiento de objetivos, elección de estrategias, reflexión sobre el aprendizaje y regulación del esfuerzo) a nivel de oración en 14.100 reflexiones de aula. La fiabilidad humana marcó el techo: la doble codificación inicial coincidió en κ = 0,32 a 0,51, la calibración elevó la concordancia a κ = 0,52 a 1,00, y la exactitud del modelo siguió el mismo orden: establecimiento de objetivos con 91,28%, reflexión sobre el aprendizaje con 67,44% y regulación del esfuerzo con 60,74%, en 18.883 muestras etiquetadas.
 
 **A escala de síntesis el patrón se mantiene, y se adelgaza a medida que la medición se afina.** Un metaanálisis de tres niveles de 54 estudios (cuasi)experimentales (121 tamaños de efecto, 7.431 estudiantes) situó el efecto de la IA sobre la metacognición en g = 0,624 (IC del 95% [0,431, 0,817]), con 107 de 121 efectos positivos y ganancias que aumentaban con la exposición, de g = 0,381 con menos de una semana a g = 1,638 a las 15-20 semanas ([[ai-metacognition-three-level-meta-analysis-2026|Li et al. (2026)]]). La fuente de medición fue el moderador decisivo: autoinforme g = 0,776, observación conductual g = 0,514, y las calificaciones de precisión, la brecha entre el desempeño juzgado y el real, g = 0,035 y no significativas. La ganancia es mayor donde es más fácil de declarar y casi nula donde la monitorización se puntúa contra el desempeño, que es el problema del autoinforme con el que tropiezan los estudios anteriores.
 

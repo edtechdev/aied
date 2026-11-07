@@ -1,7 +1,7 @@
 ---
 title: Fracaso productivo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,10 +9,14 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -44,7 +48,7 @@ Quienes aprenden generan soluciones sin apoyo cognitivo, apoyándose en su conoc
 - **Prepara a quienes aprenden para aprender de la instrucción**: saben lo que no saben y pueden conectar el material nuevo con sus intentos.
 - **Mejora la transferencia del conocimiento y las capacidades duraderas** ([[critical-thinking|pensamiento crítico]], resiliencia, comunicación), reduce el miedo a equivocarse y promueve actitudes positivas hacia el aprendizaje.
 
-El marco del FP se ha ampliado mediante diseños relacionados como el **fracaso vicario**, la **diversidad de soluciones** y la **orientación adaptativa** (Braas et al., 2025; Brand et al., 2025).
+El marco del FP se ha ampliado mediante diseños relacionados como el **fracaso vicario**, la **diversidad de soluciones** y la **orientación adaptativa** (Braas et al., 2025; Brand et al., 2025). Los casos pueden aportar el espacio de problema compartido para ese primer intento, aunque la base de evidencia sobre el aprendizaje basado en casos todavía no ha probado directamente esa combinación ([[case-based-learning]]).
 
 ## Aprender de los descuidos y aprender de los errores
 
@@ -104,6 +108,7 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — Los casos como espacio de problema compartido para el primer intento
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

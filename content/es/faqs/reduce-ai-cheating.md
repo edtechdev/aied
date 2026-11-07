@@ -1,17 +1,21 @@
 ---
 title: "¿Cómo puedo reducir las trampas con IA en mi curso?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -57,6 +61,8 @@ La síntesis [[reducing-ai-misuse|Reducir el mal uso de la IA]] sitúa el redise
 Empiece por una etiqueta. La [[ai-assessment-scale-reform|Escala de Evaluación con IA (AIAS)]] asigna a cada tarea un nivel de uso de IA, desde "sin IA" hasta "IA solo para generar ideas" y "asistencia de IA con atribución", hasta "uso pleno de IA", de modo que la expectativa sea explícita y exigible en lugar de inferida.
 
 Después cambie el artefacto. Una [[meta-analysis-systematic-review|revisión sistemática]] de 72 estudios sobre IA generativa en la [[cs-education|enseñanza de la informática]] califica el rediseño como factible y de máximo apalancamiento, y destaca un movimiento: añadir un elemento oral o de otro tipo que haga visible el proceso en al menos una evaluación de alto riesgo por curso. Lo llama la intervención más eficaz del corpus. La detección es el área más débil que cubre la revisión, con solo 3 estudios, frente a un 60% al 80% del estudiantado de informática que declara usar IA generativa en el trabajo del curso, normalmente sin sanción explícita del docente, y un 70% de una muestra nacional de profesorado que pide explícitamente formación en diseño de evaluaciones resistentes a la IA ([[kumar-genai-computing-education-systematic-review-2026]]).
+
+Un curso de informática de tres años muestra hasta dónde puede mover la conducta un flujo de trabajo de declaración andamiado. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] exigieron un borrador independiente con una lista de comprobación de cuatro ítems, un paso de refinamiento con IA sin reescritura, un formulario de declaración y una reflexión estructurada, con un borrador o formulario ausente puntuando cero. La adopción pasó de alrededor de dos tercios del estudiantado con una política voluntaria al 93% en el año andamiado; el 81% y el 84% de quienes usaban IA declararon haber rechazado o modificado sugerencias, quienes evaluaban codificaron el 77% al 81% de las entregas por compromiso crítico, y el uso de IA no predijo de forma independiente la calidad del ensayo una vez controlada la habilidad previa de escritura. Es el informe de experiencia de un solo curso y no un ensayo controlado, pero muestra el trabajo de integridad pasando de la detección a las condiciones en las que el estudiantado declara y revisa.
 
 El menú, en un orden aproximado según lo bien que cada opción sobrevive a un grupo grande.
 

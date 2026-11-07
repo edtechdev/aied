@@ -1,7 +1,7 @@
 ---
 title: Educación empresarial
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -42,6 +46,7 @@ La IA en la educación empresarial es una línea creciente de la [[ai-education|
 ## La IA en la educación empresarial en la investigación de la base de conocimiento
 
 - **Marcos informados por el estudiantado.** [[drummond-genai-business-schools-framework-2026|Drummond y Dale (2026)]] presentan un marco conceptual informado por el estudiantado para integrar la IA generativa a lo largo de los programas de grado en negocios, a partir de un estudio de caso británico con 149 estudiantes. El estudiantado se mostró muy implicado, reconoció la necesidad de competencias en IA generativa para su carrera y quería usar la IA sin cometer sin querer una falta académica.
+- **Un análisis estratégico basado en el valor, no un estudio de resultados.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] aplican la disposición a pagar y el coste de entrega a los programas de MBA y afines. La IA puede sustituir la formación o complementarla al elevar el valor del juicio, la ética y el liderazgo; el contenido, el método y el público de la enseñanza están por definir, y la capacidad de investigación es la variable que decide si las escuelas se ven complementadas o desplazadas.
 - **Una década de investigación.** [[espino-ai-business-education-review-2026|Espino y Espino (2026)]] mapearon bibliométricamente 213 artículos (2015–2024) sobre la IA en la educación empresarial e identificaron cuatro clústeres: transformación de la educación empresarial impulsada por la IA, pedagogías digitales innovadoras, [[personalized-learning|personalización]] mejorada por IA y educación empresarial alineada con la economía digital, con brechas persistentes en coherencia curricular, preparación del profesorado y validez de la evaluación.
 - **Alineación constructiva.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] analizaron 17 casos de adopción de IA generativa en una escuela de negocios británica y encontraron que el equilibrio entre beneficios y riesgos pedagógicos dependía del **grado de integración curricular**: la integración constructiva producía mejores resultados.
 - **Perspectivas del estudiantado sobre los currículos.** [[rook-plumb-genai-curricula-student-insights-2026|Rook y Plumb (2026)]] se basaron en 166 estudiantes de grado de negocios en una unidad de último curso y encontraron un fuerte apoyo a integrar la IA generativa en los currículos, con tres áreas prioritarias: comprender y optimizar la funcionalidad de la IA generativa, explorar aplicaciones en distintos contextos y desenvolverse en las dimensiones éticas y legales.
@@ -64,6 +69,8 @@ La IA en la educación empresarial abarca la **economía** y la **gestión** com
 
 Los negocios son uno de los campos donde la adopción de la IA generativa es más rápida, así que las escuelas de negocios afrontan una presión aguda por preparar al estudiantado para un entorno laboral integrado con la IA. La investigación subraya que la integración eficaz está **impulsada por el currículo e informada por el estudiantado**: no se trata solo de añadir herramientas de IA, sino de rediseñar los programas para que la alfabetización en IA generativa, el juicio ético y la aplicación auténtica atraviesen las estructuras de grado. Esto conecta la educación empresarial con los temas más amplios de la base de conocimiento: la [[ai-literacy|alfabetización en IA]], la preparación del [[teacher-role|profesorado]], el rediseño de la [[assessment|evaluación]] y la reforma del [[curriculum-design|currículo]] en la era de la IA.
 
+Los estudios de caso y las simulaciones son los formatos de enseñanza más cercanos a esta literatura, pero la evidencia sobre gestión no aísla una intervención basada en casos; véase [[case-based-learning]] para la pedagogía y sus límites.
+
 ## Implicaciones para el profesorado de negocios
 
 - **Integre la IA guiándose por el currículo y escuchando al estudiantado.** Los [[drummond-genai-business-schools-framework-2026|marcos informados por el estudiantado]] y las [[rook-plumb-genai-curricula-student-insights-2026|perspectivas del estudiantado]] muestran que este quiere competencias en IA generativa para su carrera y usar la IA sin cometer faltas involuntarias: diseñe programas que entrelacen la alfabetización en IA, el juicio ético y la aplicación auténtica a lo largo de las estructuras de grado.
@@ -85,6 +92,7 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - [[discipline-specific-aied]]
 - [[generative-ai]]
 - [[ai-literacy]]
+- [[case-based-learning]] — Estudios de caso, método del caso y discusión de casos
 - [[curriculum-design]]
 - [[assessment]]
 - [[ethics]]
@@ -95,6 +103,8 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - [[stem-education]]
 
 ## Artículos conectados
+- [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa
+- [[csaszar-ai-management-education-2026]] — Los efectos de la IA en la educación en gestión: un análisis estratégico basado en el valor (Csaszar et al. 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: apoyo de IA generativa agéntica en un curso de comercio electrónico, beneficios y riesgos percibidos (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Marco informado por el estudiantado para la IA generativa en las escuelas de negocios (Drummond y Dale 2026)
 - [[espino-ai-business-education-review-2026]] — Una década de IA en la educación empresarial (Espino y Espino 2026)
@@ -107,4 +117,3 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - [[shi-genai-experiential-learning-management-education-2026]] — tres mecanismos de IA generativa para reconfigurar la pedagogía de la educación en gestión
 - [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso en un aprendiz de Analista de Negocios: calificar la iteración documentada, no el tema
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un chatbot de RAG construido para el curso movió las expectativas, no los resultados
-- [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa

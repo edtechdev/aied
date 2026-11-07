@@ -1,7 +1,7 @@
 ---
 title: Efectos diferenciales entre grupos de estudiantes
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -11,12 +11,16 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -53,6 +57,8 @@ Deliberadamente no duplica a sus páginas vecinas. [[equity-in-ai-education|Equi
 **Los análisis de subgrupos suelen ser demasiado pequeños para responder a la pregunta.** El [[ai-tutoring-micro-rct-gcse-science-2026|micro-ECA de ciencias de GCSE]] es inusualmente explícito: su interacción tratamiento por estatus fue de 0,57 puntos (IC del 95% de −2,25 a 3,39), con estimaciones estratificadas de g = 0,28 (IC del 95% de −0,04 a 0,59) para un grupo y g = 0,35 (IC del 95% de 0,18 a 0,52) para el otro. Un intervalo de subgrupo que se solapa con cero es una pregunta para un piloto local, no una base para una regla que abarque toda la clase.
 
 **Los atributos demográficos suelen ser simulados.** Las demografías reales del estudiantado rara vez se adjuntan a las entradas del modelo, así que las auditorías aportan personas simuladas en su lugar. [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto y Hovy (2026)]] ejecutaron seis modelos ajustados con instrucciones en tres tareas educativas bajo condiciones de valores por defecto del modelo, persona explícita e historial implícito —192.480 llamadas de inferencia— y encontraron que tanto las personas explícitas como los historiales de conversación *implícitos* modifican el comportamiento del modelo. Su distinción merece conservarse: la conciencia de las diferencias entre quienes aprenden puede ser deseable (ajustar la retroalimentación a la primera lengua de un estudiante), mientras que esa misma sensibilidad es un daño cuando altera el juicio sobre un trabajo idéntico.
+
+**Existen auditorías con estudiantes reales, y pueden respaldar afirmaciones interseccionales.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar et al. (2026)]] analizaron dos años de registros de MATHia de 8.549 estudiantes y encontraron evidencia que las auditorías con personas simuladas no pueden aportar: una brecha de tasa base de lectores emergentes de 0,1007 entre las estudiantes mujeres en 2021-2022, diferencias que llegaron a 0,0926 entre estudiantes hispanos en 2022-2023, y 8 de 12 estadísticos de raza por grupo de lectura significativos entre quienes no eran lectores emergentes frente a solo 1 de 12 entre lectores emergentes.
 
 **Los arreglos de equidad pueden no generalizarse.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] redujeron las brechas de error por género y por edad en la estimación de la atención del estudiantado sobre datos de [[assessment-validity|validación]], pero las ganancias no se trasladaron de forma consistente a asignaturas reservadas ni a divisiones repetidas a nivel de asignatura.
 

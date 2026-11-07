@@ -1,7 +1,7 @@
 ---
 title: Sistemas de recomendación y rutas de aprendizaje
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,10 +12,14 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -44,6 +48,8 @@ Mientras que el [[adaptive-learning|aprendizaje adaptativo]] describe el mecanis
 ## Cómo funcionan los sistemas de recomendación educativos
 
 Los sistemas conductuales heredan la lógica del [[machine-learning|filtrado colaborativo]]: se supone que quienes tienen historiales similares quieren recursos similares, así que el sistema predice a partir de la coocurrencia y no del contenido. Esto es potente donde los datos son densos y frágil donde no lo son. [[fair-explainable-edu-recommendations|Evangelista y Bukhari (2026)]] enuncian el problema sin rodeos —los sistemas centrados en la exactitud dan un apoyo menos fiable al estudiantado con historiales de participación limitados, mientras los recursos populares dominan las listas— y lo responden con un marco híbrido HKG-GRU que incrusta un [[knowledge-graph|grafo de conocimiento]] heterogéneo de materiales de curso y modela las secuencias de quien aprende con una GRU, y después entrena para la robustez entre grupos de estudiantes (GroupDRO) y reordena para la diversidad de exposición (Maximal Marginal Relevance). Sobre registros de Moodle de 152 estudiantes, 59 recursos y unos 150.000 registros de interacción alcanzó HR@10 = 0,68 y MRR = 0,41, pero persistió un sesgo de popularidad sustancial a nivel de catálogo: evidencia de que la [[bias-mitigation|mitigación del sesgo]] es parcial.
+
+Una línea base ligera también puede superar a los modelos profundos. [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] compararon siete sistemas de recomendación en NedBox, una plataforma de neerlandés como segunda lengua, y el modelo superficial ítem-ítem EASE lideró en todas las medidas (AUROC 0,955, MAP 0,283, NDCG@3 0,205, NDCG@5 0,279), por delante del autoencoder variacional profundo MVAE (AUROC 0,949) y del conjunto PentaForest (0,953), con la factorización matricial en último lugar (IALS 0,719, UKNN 0,767). Las señales de recomendación y de [[knowledge-tracing|trazado de conocimiento]] también se componen: reordenar el top-10 de EASE por la competencia predicha elevó el NDCG@3 aproximadamente un 3%.
 
 Los sistemas semánticos sustituyen la coocurrencia por la estructura. [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun y Song (2026)]] construyen un grafo de conocimiento de recursos didácticos, conceptos lingüísticos, destrezas, grupos de estudiantes y atributos [[pedagogy|pedagógicos]], y descomponen cada recurso en cuatro dimensiones didácticas: contexto de enseñanza, nivel cognitivo, característica tecnológica y adaptabilidad cultural. La recomendación expande k saltos por el grafo desde los requisitos declarados por quien aprende, refina los candidatos con un filtro colaborativo basado en características y los ordena con un coeficiente de fusión que sube con los índices de capacidad, progreso e interés de quien aprende, de modo que quienes están menos avanzados reciben más orientación estructurada del grafo mientras que quienes tienen más capacidad se apoyan en su patrón conductual. En el subconjunto de inglés del conjunto de datos MARS (4.800 usuarios, 14.200 recursos, 132.000 interacciones, dispersión 0,9981) alcanzó NDCG 0,625 y HR 0,751, en torno a un 7–8% de mejora sobre la mejor referencia neuronal, y superó a referencias conscientes del grafo como RippleNet y KGAT en cobertura y exactitud entre dominios. La ablación muestra que las señales son complementarias (solo FC: NDCG 0,584; solo GC: 0,604), y los autores señalan que son métricas de ordenación, no evidencia de [[learning-gains|eficacia del aprendizaje]].
 

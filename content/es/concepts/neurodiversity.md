@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,10 +9,14 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -43,6 +47,8 @@ En la era de la IA este encuadre se convierte en una prueba de diseño y no en u
 Dos revisiones definen la forma del campo, y ambas describen fragmentación y no consolidación.
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Una revisión de alcance PRISMA-ScR (Rempel et al., 2026)]] buscó en cinco bases de datos y en una década de publicaciones (2015–2025), filtrando 766 registros hasta 40 estudios empíricos sobre tecnologías digitales de asistencia para estudiantes neurodivergentes en la [[higher-ed|educación superior]]. El campo se ha reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—, con los formatos inmersivos en segundo lugar, con 11. Su crítica central es una crítica de diseño: la acomodación individual y las herramientas específicas por neurotipo organizadas en torno a un diagnóstico formal no pueden abordar diferencias funcionales que atraviesan los neurotipos, por lo que recomienda el diseño universal y el desarrollo participativo. También señala que las herramientas más inmersivas son las menos escalables.
+
+- **Las aulas de primaria muestran la misma concentración.** Una revisión de alcance sobre tecnología educativa para aulas de primaria neuroinclusivas (3.340 registros examinados, 93 estudios) encontró evidencia concentrada en estudiantes autistas y en apoyo académico y cognitivo individualizado, con los resultados sociales, comunicativos y de interacción entre pares desatendidos y el valor educativo validado principalmente por investigadores y no por quienes usan las aulas ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola y Goodacre (2026)]]).
 
 [[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] cubre 2018–2024 con 72 estudios y encuentra que la IA se usa para la detección, el apoyo asistencial y la [[personalized-learning|personalización]], con esas líneas evolucionando en paralelo en lugar de integrarse, y el campo impulsado más por la oportunidad tecnológica que por una teoría educativa consolidada. Su investigación sobre detección ([[sensor-and-gaze-analytics|EEG]], seguimiento ocular, modelos de [[machine-learning|aprendizaje automático]]) muestra potencial diagnóstico para la intervención temprana, pero a menudo necesita equipo especializado y condiciones controladas, lo que limita su uso en aulas ordinarias. Esa es la prueba práctica que esta línea entera no deja de suspender: el apoyo tiene que estar integrado en el curso que el estudiante está cursando de verdad.
 
@@ -103,6 +109,7 @@ La neurodiversidad conecta con la [[special-education|educación especial]], el 
 
 ## Artículos conectados
 
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Reformular el valor educativo de la tecnología educativa para aulas de primaria neuroinclusivas: una revisión de alcance
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de asistencia para estudiantes neurodivergentes en la educación superior
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 estudios sobre IA para el estudiantado con discapacidad, y un efecto que difiere según la categoría
 - [[adhd-video-segmentation-computing-education]] — Segmentación temporal de vídeo que llevó a los participantes con TDAH a la paridad

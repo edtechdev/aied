@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo compruebo si las preguntas de cuestionario y examen generadas por IA son realmente buenas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,11 +11,15 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
@@ -91,6 +95,8 @@ Revise y guarde el registro: la versión aprobada, el resultado al que sirve, la
 En un curso introductorio de sociología el resultado podría ser distinguir una explicación estructural de una individual. Un ítem débil pide a los estudiantes definir "estructural", lo que mide reconocimiento de vocabulario. Un candidato más fuerte ofrece un escenario breve sobre una familia y una decisión laboral, y después pregunta qué explicación identifica mejor una restricción estructural, con distractores que representan interpretaciones plausibles pero distintas.
 
 El docente comprueba que el escenario sostiene de verdad la clave, que no hay dos opciones que expresen la misma idea y que responder no depende de terminología que el curso nunca presentó. Una pregunta de seguimiento de una línea, «¿qué detalle respalda su elección?», saca a la luz el razonamiento que la opción elegida oculta. La adaptación no está probada como formato de ítem, y su valor es más estrecho: las preguntas de revisión anteriores pueden responderse antes de administrar un ítem, y una clave mala puede repararse antes de que los estudiantes la vean.
+
+Cuando los estudiantes señalan desagrado a escala, la señal tiene estructura. En un análisis de 5.214.211 sesiones de preguntas de práctica presentadas dentro de una plataforma de libro de texto, los pulgares abajo llegaron a 2,00 por cada 1.000 sesiones frente a 3,31 pulgares arriba, y solo 22.844 de 809.848 preguntas recibieron alguna vez una valoración ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). El patrón de los votos no era aleatorio: las preguntas que pedían respuestas con adverbios recibieron 5,23 pulgares abajo por cada 1.000 frente a 1,76 en las de adjetivos, y la importancia de la oración (razón de probabilidades 2,38) y la similitud del texto de la respuesta (1,64) también movieron la valoración. La regla práctica ajustada de los autores fue de unos 1,62 disgustos por cada 1.000 cuando estaban presentes ambas señales de importancia. El punto práctico es que las valoraciones de los estudiantes son un canal de medición lento pero real: una plataforma que retira las preguntas rechazadas repetidamente cierra el ciclo, y un docente que pilota unos pocos ítems obtiene la misma señal más rápido preguntando qué detalle dudó el estudiante.
 
 Para los estudiantes que generan sus propias preguntas de práctica, la misma regla se aplica en su nivel: intente el ítem, contraste la explicación con las fuentes del curso y lleve los casos irresolubles a alguien que domine la materia. La [[study-with-ai|práctica de estudio]] que entrena a los estudiantes a aceptar claves generadas sin espíritu crítico enseña el hábito equivocado.
 

@@ -1,7 +1,7 @@
 ---
 title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-education]
@@ -13,10 +13,14 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -90,6 +94,8 @@ LoRA y sus parientes son donde la mayoría de los equipos educativos trabajará 
 **Qué capas adaptar es una decisión real.** En un sistema de análisis del discurso para la enseñanza del inglés, ajustar un BERT truncado actualizando **solo las cuatro últimas capas Transformer** superó a las dos alternativas: adaptar solo la capa superior alcanzó un techo más bajo, y el ajuste fino completo de las 12 capas se sobreajustó y osciló ([[bert-discourse-english-teaching-2026]]).
 
 **La arquitectura base puede importar más que el número de parámetros.** El ajuste fino de tres modelos abiertos de texto a imagen con 1.000 imágenes etiquetadas de ingeniería nuclear mejoró sustancialmente Stable Diffusion XL, dio ganancias limitadas para SD-v3.5-Medium y **no produjo ninguna mejora medible para el modelo Flux.1 de emparejamiento de flujos** ([[nuclear-diffusion-text-to-image-learning-2026]]). Una receta de ajuste fino no es portátil entre arquitecturas, que es la misma lección que AiAWE informa desde la otra dirección.
+
+**El coste de la adaptación y el apetito de datos son medibles, y ambos favorecen ejecuciones pequeñas y específicas.** Jung et al. (2025) ajustaron Mistral-7B-Instruct-v0.2 con LoRA para convertirlo en CLST, un rastreador de conocimiento, e informan de una factura a nivel de sesión de unas **6,8 horas y 1,7 kWh** en una RTX A6000 para una ejecución de 21.000 muestras, frente a **50 segundos y 3,47 Wh** de la línea base AKT, aproximadamente **490 veces** más eficiente en energía ([[jung-clst-cold-start-knowledge-tracing-2025|Jung et al. (2025)]]). Ese mismo ajuste se mantuvo exacto con datos escasos: la calibración de la salida se recuperó a medida que el conjunto de entrenamiento creció de **16 a 64 estudiantes**, y CLST superó al segundo mejor modelo en hasta un **24,52%** con solo 8 estudiantes de entrenamiento, lo que convierte el margen de exactitud en una disyuntiva con coste y no en una ganancia gratuita.
 
 Dos técnicas adyacentes completan la etapa de adaptación. La **destilación** comprime un sistema grande o de caja negra en uno pequeño y desplegable. Una canalización de dos etapas destiló un estimador ML de caja negra ajustado y su interpretación post hoc en un LLM abierto pequeño, con un «aprendiz» de 2B parámetros que logró una recuperación casi sin pérdida de la superficie de efectos del oráculo (r > 0,90). Ese resultado se informa bajo una evaluación centrada en la fidelidad que audita cada narración contra la atribución que dice describir ([[distilling-self-explaining-lm-learning-analytics-2026]]). El **desaprendizaje** elimina contenido específico después del entrenamiento: se aplicó desaprendizaje basado en gradientes a tres modelos para eliminar PII y contenido dañino, probado en dos órdenes de eliminación (PII primero y contenido dañino primero) ([[llm-unlearning-math-privacy]]) — la herramienta pertinente cuando un modelo ha memorizado algo que no debería conservar.
 

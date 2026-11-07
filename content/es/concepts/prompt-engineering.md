@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -12,10 +12,14 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -73,6 +77,9 @@ La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA
 - **La alfabetización en prompts es una capacidad percibida y aun así predice la implicación.** En 829 estudiantes de diseño de 40 clases intactas, la alfabetización en prompts autoinformada —seis ítems adaptados de autoinforme, no prompting observado— predijo la [[student-engagement|implicación]] en el aprendizaje con β = 0,539, IC del 95% [0,473, 0,595] ([[han-prompt-literacy-ai-dependence-design-2026|Han y Cao, 2026]]). La asociación se mantuvo con independencia de la dependencia funcional (p = 0,396) o emocional (p = 0,941). Solo la dependencia cognitiva, sustituir el juicio de la IA por el propio, la atenuó con claridad.
 - **El diseño de rol y de restricciones como variable independiente.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] comparan dos agentes construidos sobre el mismo modelo y plataforma a temperatura 0,3 cuya única diferencia es cómo el prompt especifica rol, habilidades y restricciones: un agente docente experto que responde desde una fuente de conocimiento de libro de texto acotada frente a un agente empático centrado en el estudiante programado para diagnosticar [[misconceptions|ideas erróneas]] y comprobar la comprensión. La sola diferencia de rol desplazó el rendimiento de aprendizaje, la carga cognitiva, la experiencia de flujo y la empatía percibida, lo que muestra que la especificación de rol es una decisión de diseño instruccional con efectos medibles y no un adorno estilístico ([[pedagogical-agent]]).
 - **El prompting como diseño de evaluación.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] proyectan los modelos de estudiante, de evidencia y de tarea del Diseño Centrado en la Evidencia sobre las partes de un prompt de puntuación, derivando cinco principios: intencionalidad, trazabilidad, rendición de cuentas, iteración y equidad; sus prompts construidos con DCE puntuaron ensayos narrativos con más exactitud que las líneas base de cero disparos, pocos disparos y cadena de pensamiento.
+
+- **La identidad del modelo, y no la redacción del prompt, impulsa el acuerdo LLM-humano en la codificación.** En la descomposición controlada de [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith et al. (2026)]], el tipo de prompt no fue significativo (F = 1,77, p = 0,136, η² parcial = 0,03) mientras que el factor modelo aportó un η² parcial = 0,19. Añadir definiciones o instrucciones detalladas perjudicó la detección de listados incluso cuando redujo los errores en los juicios de definición correcta, y el precio no siguió a la calidad: Gemini 2.5 Pro costó 178,13 dólares y aun así rindió por debajo de GPT-4.1 Full, de 56,77 dólares.
+- **Inyecte el nombre de la teoría, no sus textos completos.** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]] muestran que el prompting con el nombre de la teoría superó a los artículos aportados en utilidad (4,40 frente a 3,20) y concreción (3,80 frente a 2,40), mientras que los textos completos solo ganaron en alineación teórica (4,60 frente a 3,60).
 
 ### Conexiones con conceptos más amplios
 

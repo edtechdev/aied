@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en problemas
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-05T16:05:17-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,10 +10,14 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -62,6 +66,8 @@ El metaanálisis de tres niveles que agrupa el ABP apoyado en IA generativa con 
 
 El ABP está estrechamente relacionado con el [[project-based-learning|aprendizaje basado en proyectos]] — ambos están centrados en quien aprende y se guían por el problema o el contexto —, pero el ABP se centra en un *problema* mal estructurado cuya solución exige indagación y construcción de conocimiento, mientras que el aprendizaje basado en proyectos se centra en producir un *artefacto* o proyecto tangible. El ABP también es afín al aprendizaje basado en casos y al [[inquiry-based-learning|aprendizaje basado en la indagación]], que comparten la estructura impulsada por el problema y liderada por la facilitación. En el mapa de la base de conocimiento, el argumento estructural a favor de una integración productiva de la IA se aplica a cualquier pedagogía que comparta estos rasgos, no solo al ABP.
 
+[[case-based-learning|El aprendizaje basado en casos]] es el vecino más cercano: parte de un caso preparado y de un objetivo instruccional definido, mientras que el ABP deja el problema más abierto y la indagación dirigida por el estudiantado.
+
 ## Por qué el ABP importa para la integración de la IA
 
 Como el ABP pone en primer plano el proceso, la colaboración y la comprensión demostrada por encima de la producción de artefactos, es un hogar natural para el [[ai-literacy|uso responsable de la IA]]: el estudiantado aprende *con* la IA como socio y no *de* la IA como sustituto. El papel del facilitador y el diseño del problema se convierten en las palancas que determinan si la IA apoya el aprendizaje o lo desplaza — las mismas preocupaciones sobre la [[human-in-the-loop-ai|supervisión humana]] y el diseño de la evaluación que reaparecen en toda la base de conocimiento.
@@ -79,6 +85,7 @@ El [[productive-failure|fracaso productivo (FP)]] comparte con el ABP su núcleo
 ## Conceptos conectados
 
 - [[project-based-learning]]
+- [[case-based-learning]] — Casos preparados y discusión de casos, distintos de la indagación abierta del ABP
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

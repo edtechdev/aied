@@ -1,7 +1,7 @@
 ---
 title: "¿Qué deberían aprender los estudiantes para carreras en las que la IA es habitual?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,11 +12,15 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
@@ -90,6 +94,8 @@ Un artefacto pulido le dice qué se produjo en las condiciones permitidas. No le
 Elija esos requisitos porque respaldan una capacidad declarada, y diga qué mide cada evaluación. Los estudiantes aceptan la práctica independiente cuando está conectada con aquello para lo que se les prepara; «lo necesitarás algún día» hace menos trabajo que mostrar cómo el cálculo es lo que les permite detectar más tarde una estimación errónea.
 
 El lado del apoyo tiene su propio riesgo. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] encontraron que el uso de [[generative-ai|IA generativa]] se asociaba positivamente con la dependencia de la IA generativa, y la dependencia negativamente con el [[critical-thinking|pensamiento crítico]] y con la empleabilidad en su modelo de encuesta. Es una asociación y no una afirmación causal, y apunta a la pregunta de diseño: un curso que solo evalúa rendimiento apoyado puede estar entrenando la dependencia que denuncia.
+
+La misma lógica se aplica antes de que los estudiantes entren al mercado laboral. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelan la asistencia de la IA como una secuencia en la que la habilidad crece mediante la práctica independiente y se deteriora cuando las personas trabajadoras aceptan las respuestas de la IA. En su modelo, las personas novatas pueden quedar atrapadas en un nivel bajo de habilidad y las expertas pueden perder habilidad incluso mientras la precisión de su producción se mantiene alta, y las personas trabajadoras estratégicas pueden resolver de forma independiente aunque la IA sea más precisa, porque la habilidad futura tiene valor. El artículo es teórico y no una intervención, pero afina la pregunta curricular: programe y recompense la práctica independiente en lugar de suponer que la producción asistida por IA construye la capacidad de supervisar el trabajo.
 
 Para la revisión del programa, separe las medidas. El rendimiento en el curso, la alfabetización en IA demostrada, la evaluación del supervisor de prácticas, la situación laboral y la calidad del empleo son resultados distintos con horizontes temporales distintos, y una sola intervención no puede establecerlos todos. [[ai-literacy-evidence|La página sobre la evidencia de alfabetización en IA]] es el inventario honesto de lo que respaldan de verdad los estudios de intervención.
 

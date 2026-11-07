@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,10 +15,14 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-02"
@@ -46,6 +50,8 @@ La distinción que organiza esta página es la que separa **lo que un empujón p
 ## Las funciones de apoyo
 
 La investigación se agrupa en cinco funciones, y los límites entre esos grupos importan porque conllevan evidencia distinta.
+
+Una revisión de 61 estudios sobre el apoyo al estudiantado habilitado por IA encontró que el campo se concentraba en sistemas adaptativos y personalización (41 usos) y en perfilado y predicción (30), con los chatbots y los sistemas de recomendación encargándose de la acogida y las consultas rutinarias. También encontró las lagunas: ninguna intervención abordaba la fase de transición de quien aprende, y solo dos estudios nombraban un subgrupo de estudiantes, así que el estudiante genérico de la mayoría de los sistemas era un promedio estadístico ([[cefa-ai-learner-support-review-2026|Cefa et al., 2026]]).
 
 **Contacto proactivo y comunicación.** Las instituciones envían mensajes al estudiantado a escala, y las evaluaciones más sólidas comprueban si eso cambia algo. Un estudio aleatorizado de cuatro años sobre CSUNny, un chatbot de mensajes de texto no generativo de la California State University, Northridge, siguió a dos cohortes de grado (N = 8.708) durante ocho semestres ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell y Page, 2026]]). Un recordatorio de matrícula enviado el 31 de julio de 2018 hizo que los estudiantes del grupo de tratamiento tuvieran 34 puntos porcentuales más de probabilidad de matricularse antes del 16 de agosto y solo 2 puntos más antes del 15 de septiembre; los recordatorios de Early Start produjeron 11 puntos más de matriculación antes del 7 de junio y 20 puntos antes del 22 de junio. La receptividad se mantuvo: las tasas anuales de baja nunca superaron el 4%. Un ensayo preinscrito de varios semestres en la Georgia State University envió empujones a estudiantes de dos cursos asincrónicos grandes (N = 1.568 y N = 915) con dos o tres mensajes personalizados por semana, elevando las probabilidades de obtener una A o una B en cuatro puntos porcentuales frente al 61% del grupo de control y desplazando las tasas de DFW unos tres puntos en cada curso ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -127,6 +133,7 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 
 ## Artículos conectados
 
+- [[cefa-ai-learner-support-review-2026]] — Revisión de 61 estudios sobre el apoyo al estudiantado habilitado por IA: dominan los sistemas adaptativos y la predicción; la fase de transición y la diversidad de estudiantes están ausentes
 - [[mata-sustaining-ai-enabled-student-support-2026]] — evaluación aleatorizada de cuatro años de un chatbot de apoyo universitario: la finalización de tareas se movió, la graduación y el promedio no
 - [[chatbot-outreach-course-performance-2026]] — ensayo preinscrito de contacto proactivo en varios semestres: más tasas de A/B, desplazamientos modestos en DFW, una excepción demográfica
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 viñetas sintéticas: sensibilidad limitada a la necesidad del estudiante e inconsistencia entre modelos en las recomendaciones de apoyo

@@ -1,7 +1,7 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-05T17:02:43-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,10 +10,14 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -43,6 +47,7 @@ La creatividad abarca el extremo del pensamiento divergente del espectro cogniti
 ### La creatividad y la IA generativa
 
 - **Amplificación:** la IA puede actuar como compañera de pensamiento divergente —generar alternativas en una lluvia de ideas, producir contraargumentos y ofrecer perspectivas que quien aprende quizá no considere. Las configuraciones [[agentic-ai|multiagente]] con roles especializados pueden restaurar la diversidad de ideas.
+- **La modalidad se ajusta a la fase creativa.** En un experimento 2 × 2 con 120 estudiantes de arte y diseño, la IA basada en texto durante la divergencia superó a la IA generativa de imágenes en el rendimiento creativo divergente (diferencia de medias 0,823; p ajustada por Holm < 0,001) ([[wei-genai-configurations-creative-phases-2026|Wei y Li (2026)]]). La ventaja de la generación de imágenes en la convergencia no sobrevivió a la corrección de Holm (p ajustada = 0,052), y ninguna secuencia, incluida la de texto a imagen, superó a las alternativas en el rendimiento creativo final. Las ganancias a nivel de fase no sumaron un producto superior.
 - **Riesgo de homogeneización:** la asistencia de un solo modelo puede reducir la diversidad de ideas entre el estudiantado, de modo que el mismo modelo produce resultados convergentes. Es una amenaza directa para la creatividad en la [[writing-education|educación en escritura]] y la [[design-education|educación en diseño]].
 - **La homogeneización es una propiedad del despliegue, no de la asistencia de IA como tal.** En un experimento de escritura con 247 participantes, la asistencia con un solo modelo y con dos modelos elevó por igual la calidad de los ensayos (Δ = 0,332 y 0,234 frente al control), pero solo la condición de dos modelos restauró la diversidad de ideas entre participantes hasta la línea base ([[multi-agent-llm-social-learning|Kumar et al. (2026)]]). Los resultados convergentes contra los que advierte esta página los produce *un* modelo usado por todo el mundo, de modo que la palanca de diseño es el número y la diferenciación de los asistentes, no la presencia de la IA.
 - **Proteger la agencia creativa:** mantener el proceso generativo de quien aprende dentro del bucle —rutinas de borrador primero, exigir síntesis original y usar la IA para desafiar en lugar de sustituir— preserva el trabajo creativo que produce aprendizaje duradero.
@@ -115,6 +120,7 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 - [[arts-design-and-media-education]]
 
 ## Artículos conectados
+- [[wei-genai-configurations-creative-phases-2026]] — Configuraciones de IA generativa a través de las fases creativas: un experimento 2 × 2 sobre el rendimiento creativo y el conocimiento inmediato en la educación en arte y diseño
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La generación de imágenes con IA dejó el rendimiento de diseño sin cambios pero redujo la autoeficacia creativa general
 - [[bicer-genai-pd-math-creativity-2026]] — Cómo el desarrollo profesional guiado por IA generativa apoya la implicación del profesorado con la creatividad matemática, el conocimiento del contenido y el conocimiento pedagógico del contenido
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Andamiaje anclado en axiomas para la creación literaria: las premisas como unidad entre el tema y el texto, validadas solo en el plan (Liu y Zhao 2026)

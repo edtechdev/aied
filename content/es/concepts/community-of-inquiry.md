@@ -1,7 +1,7 @@
 ---
 title: Comunidad de indagación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,10 +10,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -57,6 +61,8 @@ La IA generativa desestabiliza el supuesto de que los indicadores de presencia p
 - **Redistribuir la presencia docente** — el diseño, la facilitación y la instrucción directa se convierten en logros distribuidos, en los que el profesorado modela cómo interrogar las salidas generadas y detectar citas alucinadas.
 - **Intervenir con demasiada presteza:** en un estudio de debates en línea, las personas expertas en facilitación fueron sistemáticamente más cautas a la hora de intervenir que los jueces LLM, que se mostraban excesivamente deseosos de facilitar; el mejor clasificador entrenado siguió chocando con un techo bajo impuesto por los conjuntos de datos disponibles ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre y Pavlopoulos, 2026]]). La presencia docente redistribuida cambia por tanto el umbral de intervención, y un modelo se entrometerá donde una persona habría esperado, que es el modo de fallo que nota un foro de debate.
 
+Una revisión de alcance de 21 estudios encontró que la evidencia es desigual entre las tres presencias: la presencia social se examinó en 13 estudios, la cognitiva en 10 y la docente solo en 5, y todos los estudios de presencia docente la examinaban junto a otra presencia. La presencia cognitiva se concentró en la exploración y la integración, la resolución fue la menos evidente, y los diseños de discusión o basados en tareas se asociaron con la presencia cognitiva mientras que los agentes pedagógicos y los diseños socialmente expresivos se asociaron con la presencia social ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo y Park, 2026]]).
+
 Ahora hay evidencia empírica de red bajo estas afirmaciones: en un cuasiexperimento en el que 63 estudiantes universitarios chinos (33 con un chatbot GPT-4o mini y 30 sin él) anotaron lecturas compartidas en CollaboRead a lo largo de cinco tareas semanales, el [[network-analysis|análisis de redes epistémicas]] mostró que la clase asistida vinculaba la presencia social con la integración y la resolución, mientras que la clase de control vinculaba la presencia social con el desencadenamiento y la exploración (eje X U = 25,00, p = 0,01, r = 1,00; eje Y U = 13,00, p = 1,00, r = 0,04), con una mayor [[self-report-measures|implicación]] cognitiva y emocional autoinformada en la clase asistida. Las presencias se separan entonces dentro de la condición y no entre condiciones: los grupos de alto rendimiento iniciaron 1407 solicitudes de retroalimentación en 2319 anotaciones (60,7%) frente a 737 en 2167 (34,0%) en el grupo de bajo rendimiento, que se quedó en un bucle autorreferencial y aprovechó débilmente el andamiaje.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Más que una herramienta, un interlocutor dialógico o una especulativa «cuarta presencia», la IA generativa se entiende mejor como una **condición epistémica**: una influencia omnipresente que reconfigura cómo se ponen en acto, se interpretan, se evidencian y se gobiernan las presencias, tanto a través de las salidas visibles como de lógicas invisibles de datos de entrenamiento, algoritmos y plataformas.
@@ -95,6 +101,7 @@ Los propios autores del marco ofrecen una taxonomía de roles para esa condició
 - [[trust-calibration]]
 
 ## Artículos conectados
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Revisión de alcance de 21 estudios: la evidencia sobre las presencias es desigual, la presencia docente es la menos estudiada y la configuración del diseño ordena los resultados (Doo y Park 2026)
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Desglosar las interacciones del estudiantado en la anotación social asistida por IA generativa: un análisis de redes epistémicas de la presencia cognitiva y social
 
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizar la CoI en la era de la IA generativa

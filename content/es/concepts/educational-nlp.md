@@ -1,16 +1,20 @@
 ---
 title: PLN educativo
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T01:53:02-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -60,6 +64,8 @@ El procesamiento de lenguaje natural en educación aplica métodos computacional
 - **Codificación auditable separando las aserciones de la interpretación.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] sustituyen el prompt de etiqueta única por un esquema de 221 aserciones legibles por personas —74 derivadas del corpus, 48 derivadas del constructo y 100 comprobaciones automáticas de presencia de palabras— que un clasificador transparente mapea a la etiqueta del constructo, alcanzando un macro-F1 de 0,673 y una κ de Cohen de 0,688 en el corpus de habla docente TalkMoves frente a un máximo publicado de prompting directo de 0,61 macro-F1 y 0,58 κ, aunque por detrás de un clasificador RoBERTa-base ajustado con 0,76. Exigir un α de Krippendorff ≥ 0,5 mantuvo solo 33 de las 74 aserciones derivadas del corpus, y una línea base de solo palabras obtuvo 0,339 macro-F1, así que la ganancia proviene de aserciones conductuales aprendidas y no de la frecuencia de palabras clave.
 - **Etiquetado de conceptos a escala.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] dividen el etiquetado de conceptos de conocimiento en un pipeline Seleccionar–Razonar–Juzgar —un modelo pequeño preselecciona conceptos candidatos, el LLM razona sobre la preselección y luego juzga—, elevando la exactitud del etiquetado en tres puntos de referencia al reducir el espacio de decisión del modelo.
 - **Las hojas de respuestas escritas a mano se resisten a los analizadores existentes.** Las derivaciones multilínea, la prosa y las fórmulas intercaladas, las tablas dibujadas a mano y el ruido de los tachados y los borrados escapan a los puntos de referencia de documentos impresos y de expresiones aisladas, así que el conjunto de datos HANS de hojas reales de matemáticas de octavo curso —5.213 imágenes de respuestas de 745 estudiantes en 18 tipos de problema— anota ese ruido y respalda un modelo de supresión de ruido que mejora el reconocimiento ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+
+- **La fidelidad de entidades de las transcripciones ASR es una cuestión distinta de la exactitud léxica.** Al comparar cinco sistemas de reconocimiento de voz con una transcripción de referencia humana, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard y Rosenberg (2026)]] informan de la primera evidencia de fidelidad de entidades ASR/NER de la base de conocimiento: las tasas de error de palabra abarcaron del 2,43% (TurboScribe) al 15,32% (Vosk), mientras que la codificación de tipos de entidades de referencia en siete categorías vio a GPT-5.5 alcanzar una exactitud de 0,805 (κ = ,726) frente a 0,634 de spaCy (κ = ,488). El WER agregado por sí solo no puede certificar que la estructura de entidades sobreviviera a la transcripción.
 
 ### Conexión con la tutoría y la medición
 

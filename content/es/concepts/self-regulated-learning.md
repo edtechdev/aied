@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T17:03:28-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,11 +11,15 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -140,6 +144,8 @@ Por ejemplo:
 
 ## Evidencia en distintos contextos
 
+Un metaanálisis de 34 estudios (91 tamaños de efecto) estima que las intervenciones basadas en IA elevaron el aprendizaje autorregulado en g = 0,76, con la gestión de recursos (g = 0,93) por encima de las estrategias metacognitivas (0,73) y cognitivas (0,48). El tipo de herramienta y el papel pedagógico moderaron el efecto; el carácter de IA generativa, la disciplina, la duración de la intervención y la medida de AAR no lo hicieron ([[zhang-ai-self-regulated-learning-meta-analysis-2026|Zhang et al., 2026]]).
+
 - **Evidencia mixta y la brecha de mala calibración.** Una revisión rápida de la investigación sobre IA generativa en PreK-12 encuentra que las ganancias metacognitivas durante tareas asistidas a menudo no persisten cuando se retira el apoyo, y que la IA generativa puede aumentar el [[self-report-measures|aprendizaje percibido]] incluso cuando el aprendizaje duradero está ausente (la brecha de mala calibración: el estudiantado prefirió la IA generativa a tomar apuntes pese a una retención más débil). El estudiantado necesita formación explícita y adecuada a su etapa para decidir qué delegar y cuándo importa el esfuerzo independiente.([[young-people-learning-generative-ai-rapid-review-2026]])
 
 - **El AAR rara vez es el objetivo activo.** En los 394 estudios de IA generativa en educación superior, el aprendizaje autorregulado y la reflexión estuvieron entre los usos menos puestos en práctica y entre los resultados menos abordados ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
@@ -198,6 +204,8 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - **Las cadenas de preguntas estructuradas convierten el prompting en regulación.** En un cuasiexperimento con 83 estudiantes de grado, ambas condiciones de cadena de preguntas produjeron más conducta de estrategia de aprendizaje y de monitorización que el cuestionamiento de forma libre (χ² = 6,551, p = 0,038) y puntuaron más alto en conciencia metacognitiva y rendimiento (F = 3,406, p = 0,038; F = 3,807, p = 0,035), sin diferencias entre las formas de cadena ([[question-chain-prompting-srl-metacognition-2026|Lin et al., 2026]]). La secuenciación es lo que hace el trabajo.
 - **La detección a nivel de grupo sigue la misma división, y el habla aporta más que los registros.** En díadas que modelaban el movimiento de un camión en C2STEM, se etiquetaron 394 segmentos de contexto de tarea de 36 estudiantes de secundaria con siete códigos de regulación socialmente compartida y se predijeron a partir de resúmenes del LLM de cada segmento: los embeddings solo de texto alcanzaron un AUC medio de 0,650, mientras que los rasgos derivados de registros por sí solos alcanzaron 0,526, cerca del azar para un constructo en buena medida social. La planificación era invisible dentro de un único segmento (0,5036) y se volvió detectable al concatenar los dos segmentos contiguos (0,6711), mientras que la reflexión fue mejor al añadir los registros (0,5862), la misma ambigüedad entre leer pistas y planificar que esta sección registra para quien aprende individualmente ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
 - **Las etiquetas automáticas de AAR se sostienen en la puesta en acto y fallan en la planificación.** En una clase de ciencias de cuarto curso con realidad mixta, una cadena que fusionaba [[sensor-and-gaze-analytics|mirada]], gesto, habla y registros del juego etiquetó 75 segmentos verificados por personas con un 74,67 % global, desde un 93,3 % en la puesta en acto y la interacción hasta un 46,7 % en la planificación ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **La persistencia codificada a partir del diálogo con un agente pedagógico corre en negativo respecto al rendimiento, tanto en la codificación con LLM como en la humana.** En una evaluación basada en conversación con 107 estudiantes de secundaria aprendices de inglés, la persistencia detectada en los turnos del registro de chat por ocho configuraciones de ChatGPT-4o se correlacionó negativamente con el rendimiento en la tarea (r = -0,19, p < 0,001), y el recuento de persistencia de un codificador humano coincidió en esa dirección con r = -0,32 ([[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]]). El desafío percibido (r = -0,25) fue la única asociación negativa más fuerte, y los demás constructos también fueron negativos (autoeficacia r = -0,15, conocimientos y habilidades previos r = -0,14, interés r = -0,08). Los autores leen las expresiones de persistencia como posible esfuerzo improductivo y abogan por distinguir la persistencia adaptativa de la desadaptativa, el reintento estratégico frente al ensayo y error repetitivo, antes de que cualquier sistema automatizado trate el habla sobre persistencia como implicación.
+- **GPT-4o puede construir un libro de códigos de AAR fundamentado en la teoría solo a partir de su base de conocimiento.** Con solo referencias a Zimmerman (2000) y a Winne y Hadwin (1998), GPT-4o propuso constructos que cubrían las tres fases de Zimmerman y tres de las cuatro etapas de Winne-Hadwin, y solo faltaba la fase de definición de la tarea, y el refinamiento humano fijó el libro de códigos en 11 constructos ([[zambrano-llm-human-ai-codebook-development-2026|Zambrano et al. (2026)]]). Añadir al prompt las 955 verbalizaciones de pensamiento en voz alta de 15 estudiantes cerró la brecha, cubriendo todas las fases de ambos modelos e introduciendo códigos fundamentados en los datos como la Identificación de errores. El refinamiento humano siguió siendo esencial: dos codificadores fusionaron propuestas solapadas de GPT (Planificación frente a Establecimiento de metas, Monitorización frente a Evaluación, Evaluación de resultados frente a de procesos), y no aparecieron alucinaciones.
 
 ## Concepciones erróneas
 
@@ -232,6 +240,7 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[reflection]]
 
 ## Artículos conectados
+- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Metaanálisis del aprendizaje autorregulado asistido por IA: g = 0,76 en 34 estudios, con el tipo de herramienta y el papel pedagógico moderando el efecto (Zhang et al. 2026)
 - [[li-genai-dependency-effort-regulation-2026]] — Dependencia de la IA generativa y resultados de aprendizaje percibidos: la ruta de la regulación del esfuerzo (Li, Zhang y Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Precisión por categoría del AAR segmentado por LLM en un aula corporal (Fonteles et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: la descarga cognitiva complejizadora en el trabajo matemático del estudiantado con LLM (Kontorovich y Wallach 2026)

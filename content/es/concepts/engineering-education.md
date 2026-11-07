@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,10 +12,14 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -40,7 +44,7 @@ La investigación sobre educación en ingeniería es peculiar porque se sitúa e
 
 ## Cómo aparece la IA en la investigación sobre educación en ingeniería de la base de conocimiento
 
-- **Comprensión del profesorado y lenguaje compartido:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analizan las metáforas que usa el profesorado de ingeniería para describir la IA, y encuentran que la mayoría la enmarca o bien como un «ser/agente social» humano o bien como una «herramienta técnica», y que el profesorado de un mismo departamento sostiene a menudo modelos mentales fundamentalmente distintos. Como las metáforas a la vez construyen y limitan la comprensión, sostienen que un lenguaje compartido y preciso es esencial para el [[educational-development|desarrollo educativo]] y para las conversaciones departamentales sobre la IA.
+- **Comprensión del profesorado y lenguaje compartido:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analizan las [[metaphors-and-analogies|metáforas]] que usa el profesorado de ingeniería para describir la IA, y encuentran que la mayoría la enmarca o bien como un «ser/agente social» humano o bien como una «herramienta técnica», y que el profesorado de un mismo departamento sostiene a menudo modelos mentales fundamentalmente distintos. Como las metáforas a la vez construyen y limitan la comprensión, sostienen que un lenguaje compartido y preciso es esencial para el [[educational-development|desarrollo educativo]] y para las conversaciones departamentales sobre la IA.
 - **Ética y uso responsable:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] [[meta-analysis-systematic-review|revisan sistemáticamente]] los estudios empíricos sobre IA en la educación universitaria en ingeniería e identifican siete formas recurrentes de orientación ética (transparencia, rendición de cuentas, independencia y agencia del estudiantado, privacidad, [[academic-integrity|integridad académica]], justicia/[[equity-in-ai-education|equidad]]/sesgo y beneficencia). Encuentran que la orientación ética se dirige predominantemente al estudiantado y está orientada al cumplimiento, con una rendición de cuentas recíproca del profesorado y las instituciones poco desarrollada, una preocupación que se agrava por el interés directo de la ingeniería en la seguridad pública y el [[well-being|bienestar]] social.
 - **Evaluación corporeizada y [[multimodal|multimodal]]:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] desarrollan un marco multimodal que integra el seguimiento de gestos por visión artificial con el análisis del habla mediante [[llm]] para evaluar la comprensión conceptual de la estadística en estudiantado de ingeniería, y muestran que el gesto añade evidencia diagnóstica más allá del habla y que un acoplamiento estrecho entre gesto y habla indica una comprensión coherente.
 - **Transformación de la fuerza laboral:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] revisan la literatura gris estadounidense sobre la IA y la fuerza laboral de la ingeniería y la informática, enmarcan el «Dual Train Problem» (cambio rápido frente a política urgente) y recomiendan competencias duraderas en IA, [[ethics|ética]] y [[governance|gobernanza]], y credenciales basadas en destrezas para los roles emergentes.

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo afecta la IA a la ansiedad y el bienestar del estudiantado, y qué podemos hacer?"
 created: "2026-09-22T18:43:09-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -10,11 +10,15 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"

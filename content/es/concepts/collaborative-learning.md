@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,10 +11,14 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -76,6 +80,10 @@ La minería de procesos situó la negociación de consultas a la IA en un centro
 
 **La colaboración como objeto de la enseñanza.** [[golrang-propact-pair-programming-2026|ProPACT]] es un [[intelligent-tutoring|tutor adaptativo]] impulsado por IA para la programación por parejas que trata la *díada* —y no al individuo— como unidad de análisis, modelando en tiempo real la atención visual conjunta, el esfuerzo mental conjunto y las señales pupilares para predecir rupturas de la colaboración con hasta 30 segundos de antelación e intervenir antes de que ocurran. Las díadas que recibieron retroalimentación proactiva lograron un éxito de depuración sustancialmente mayor y completaron las tareas con más eficiencia, y mostraron ganancias sostenidas en la regulación colaborativa después, evidencia de que la IA puede enseñar la colaboración misma y no solo apoyar una tarea. Medir la competencia colaborativa plantea el reto complementario de evaluar a escala la habilidad de resolución colaborativa de problemas (CPS), que tradicionalmente exige codificar manualmente los datos de proceso de tareas simuladas en conductas de CPS, algo que consume mucho tiempo y resulta poco práctico a escala; el [[prompt-engineering|prompting sensible al contexto]] de modelos de lenguaje preentrenados automatiza esta codificación modelando dependencias contextuales y fusionando habilidades cognitivas y sociales, con un rendimiento superior a bases de referencia sólidas.
 **Andamiar el orden del habla del grupo, no su frecuencia.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela y Cukurova (2026)]] analizaron las secuencias de diálogo de tríadas de 65 estudiantes y encontraron que un orden —parafrasear, luego proponer, luego preguntar— acompañaba la mejora mientras que el inverso no lo hacía; el andamiaje máximo elevó la conducta centrada en la tarea pero también el guionizado y menos indicadores de resolución de problemas.
+
+**El análisis estructural del habla del grupo necesita una definición operativa del hilo.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] publicaron una guía de hilado para identificar hebras temáticas en transcripciones sincrónicas de múltiples participantes. Refinada mediante moderación social iterativa por tres investigadores entrenados, alcanzó un kappa de Cohen de 0,89 en una transcripción de validación de 200 enunciados y, aplicada a 12 transcripciones (2.371 enunciados), recuperó 315 árboles de hilos: el esqueleto estructural de quién inicia los temas, a quién responde y qué contribuciones no reciben respuesta.
+
+[[zhou-gaiva-human-ai-video-analysis-2026|Zhou, Kang y Nguyen (2026)]] añaden un eje no verbal a la medición de la colaboración grupal con un libro de códigos de implicación en vídeo de cinco categorías fundamentado en los marcos de Goodwin y Dillenbourg, aplicado por GPT-4o a transcripciones de MLLM. El constructo inductivo de Implicación Periférica (atención individual con conciencia de los pares y disposición a reincorporarse) apareció en 10 de 10 lotes de codificación pese a no tener precedente directo en ninguna de las dos teorías guía.
 
 **La IA como mediadora neutral, y la tensión cuando deja de serlo.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] es una sonda [[llm]] basada en Discord que media en los límites disciplinares de equipos estudiantiles interdisciplinarios sacando a la luz supuestos implícitos y devolviendo síntesis anonimizadas a la discusión compartida. El estudiantado la valoró tanto como apoyo cognitivo como por su función de amortiguador relacional, pero surgió una tensión central: la neutralidad percibida de la IA era portante, y se erosionó una vez que la IA pasó de mediadora neutral a asesora o a cuestionadora, una restricción de diseño clave para los [[pedagogical-agent|agentes]] que median la colaboración preservando la [[human-ai-collaboration|colaboración persona–IA]] y la [[trust-calibration|calibración de la confianza]].
 

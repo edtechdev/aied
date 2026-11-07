@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,12 +10,16 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -85,6 +89,8 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 ## Equidad de resultados
 
 En una revisión de alcance de 394 estudios sobre IA generativa en la educación superior, la equidad y el acceso estuvieron entre los resultados menos abordados, junto con la [[metacognition|metacognición]], la ética y la [[creativity|creatividad]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
+Una [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|auditoría de equidad a gran escala del seguimiento bayesiano del conocimiento de MATHia]], sobre dos años escolares de registros de 8.549 estudiantes, encontró una paridad estadística agregada de −0,077 en 2021-2022 aun cuando 36 de las 50 habilidades estaban sesgadas contra los lectores emergentes, con un sesgo a nivel de habilidad de hasta −0,262 («aplicar exponente», una brecha del 26% en el dominio previsto). La imagen agregada casi justa ocultaba un sesgo concentrado en los componentes de conocimiento con mucha lectura, y los autores sostienen que las auditorías a nivel de sistema por sí solas son insuficientes.
 
 - **Impacto diferenciado:** las herramientas de IA pueden ampliar las brechas si se diseñan sin una lente de equidad; [[genai-higher-education-systematic-review-2026|las revisiones sistemáticas]] y [[ai-scoring-language-bias-physics|los estudios sobre sesgo en la corrección]] muestran beneficios y daños desiguales entre grupos de estudiantes. La evidencia agrupada del beneficio arrastra el mismo límite: [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] estiman una ganancia global de moderada a grande para estudiantes de grado en 35 estudios (g=0,53, IC del 95% [0,48, 0,64]) y a la vez afirman que el acceso desigual a herramientas costosas es uno de los riesgos que esos tamaños del efecto no pueden captar, y las pruebas de Egger significativas para el rendimiento académico y las competencias profesionales dejan sin resolver la asimetría del gráfico en embudo y los efectos de estudios pequeños.
 - **Aprendizaje equivalente entre dos órdenes de magnitud de coste.** StudentBench encontró la tutoría con IA agrupada estadísticamente equivalente a la tutoría humana experta, mientras que la horquilla entre tutores iba de \$0,005 a \$1,40 por punto porcentual de ganancia de aprendizaje y un modelo abierto igualó las ganancias humanas con un coste por punto 918× menor (\$0,0052 frente a \$4,81), lo que convierte el coste por unidad de aprendizaje en una variable de acceso y no solo de calidad ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).

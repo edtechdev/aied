@@ -1,7 +1,7 @@
 ---
 title: Educación matemática
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,10 +10,14 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -49,6 +53,9 @@ La educación matemática se ha convertido en un dominio primario de la investig
 **La tutoría matemática con IA y el andamiaje** es el grupo más grande, con cuatro artículos que examinan cómo los tutores de IA apoyan o socavan el aprendizaje matemático. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** demuestra que añadir conciencia afectiva, detectando emociones del estudiante a partir del texto y de las expresiones faciales, produce una ventaja de 23 puntos en la tasa de victorias en la tutoría matemática, lo que conecta con la [[affective-computing|computación afectiva]] y la [[affective-tutoring|tutoría afectiva]]. **[[zhang-tutormoments-2026|TutorMoments]]** evalúa 462 transcripciones anotadas por docentes de tutoría matemática de los grados 2 a 7 y encuentra que los modelos de frontera caen por defecto en la sobreayuda y rara vez empujan hacia el rigor incluso cuando los estudiantes están listos, lo que desafía directamente la alineación entre la utilidad de la IA y los principios del [[scaffolding|andamiaje]]. **[[lak2026-hint-button-unproductive-use|An et al.]]** analizaron 999 estudiantes a lo largo de tres semestres en el ITS *Decimal Point* y encontraron que las solicitudes prematuras de pistas y la lectura superficial de las pistas predicen de forma consistente menores [[learning-gains|ganancias de aprendizaje]], incluso después de controlar el [[prior-knowledge|conocimiento previo]], un hallazgo que conecta con la [[help-seeking|búsqueda de ayuda]] y la [[learning-analytics|analítica del aprendizaje]].
 
 **Los beneficios de plantear problemas son superficiales.** Con 57 futuros docentes de matemáticas que plantearon problemas de división de fracciones antes y con Gemini, las puntuaciones de rúbrica subieron de 5,95 a 6,65 sobre 8. La ganancia se situó en el contexto y el lenguaje, mientras que el tipo de problema y la resolubilidad no tenían margen para moverse, y la invocación de un significado de la división de fracciones subió desde un piso de 1,00 hasta 1,37 ([[incikabi-fraction-division-problem-posing-genai-2026|Incikabi, 2026]]).
+
+**La notación perceptual es en sí misma una variable de diseño de la tarea:** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] hallaron que los diseños de señales visuales en problemas de orden de operaciones se dividen entre andamiajes y dificultades deseables. Al ajustar modelos BKT específicos de cada condición de señal a 19.952 puntos de datos de 688 estudiantes de sexto grado, encontraron que el espaciado congruente con color neutro (CSNC) era un andamiaje consistente: la única condición por delante de la referencia sin señal en el postest (B = 0,33, p = 0,011).
+El espaciado neutro con color incongruente (NSIC) produjo la tasa de adivinación más baja (0,190), la tasa de aprendizaje más alta (0,0379) y la tasa de olvido más baja (0,0054).
 
 **Una penalización de satisfacción.** Guiar a un tutor LLM mediante un plan de [[productive-failure|fracaso productivo]] en lugar de dejar que responda elevó la fidelidad a la estrategia y produjo 2,6 intentos de solución por sesión en un estudio de 17 estudiantes de secundaria, y aun así los estudiantes calificaron al tutor de fracaso productivo como menos útil que una línea base ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 

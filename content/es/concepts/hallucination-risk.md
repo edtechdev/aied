@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,10 +11,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -43,6 +47,8 @@ ai_assist:
 La alucinación en la IA educativa adopta varias formas documentadas en los artículos de esta base de conocimientos: evidencia fabricada en la [[assessment|evaluación del estudiantado]], sobrediagnosis segura del conocimiento de quien aprende, y explicaciones verosímiles pero incorrectas que el estudiantado acepta como verdaderas. El riesgo se amplifica en educación porque la asimetría de conocimiento entre la IA y quien aprende sitúa a este último en mala posición para verificar las salidas de la IA. Un escenario adicional son las lecturas de curso generadas por IA que sustituyen a un manual: en un curso de posgrado que reemplazó así su texto comercial, solo alrededor del 0,80% de las 4.487 páginas registradas llevaba una cita en el texto de estilo APA y las cadenas de DOI eran prácticamente inexistentes, de modo que la mayoría de las afirmaciones no podían auditarse desde dentro del propio artefacto ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]). Esa brecha de trazabilidad es distinta de una respuesta incorrecta, porque el texto se lee como autorizado a la vez que ofrece medios internos limitados de confirmación.
 
 Una revisión de 125 estudios pone una horquilla sobre la prevalencia y la brecha de detección: tasas de alucinación del 10–40%, con estudiantes de medicina detectando errores de la IA solo entre el 44 y el 55% de las veces ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
+
+**Distorsión de la memoria después de la salida.** Un experimento de 2026 halló que un resumen engañoso generado por IA hacía algo más que desinformar: cambiaba lo que 328 adultos recordaban de un vídeo que habían visto. Solo el 44,8% de quienes leyeron el resumen engañoso identificaron después correctamente el detalle crítico, frente al 83,6% de quienes leyeron uno coherente, y el efecto se mantenía cuando el resumen estaba etiquetado como escrito por una persona ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger y Kohno, 2026]]). La omisión fue el error más frecuente en la auditoría complementaria: los 20 resúmenes contenían errores y el 95% omitía la propia colisión. El estudio no evaluó a estudiantes, pero muestra por qué una comprobación de alucinaciones que termina en el texto es incompleta: el error puede persistir en la memoria de quien lee después de que el texto desaparezca.
 
 La **alucinación en la evaluación** es especialmente dañina. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** halló que los LLM fabrican citas de evidencia no presentes en la escritura a mano del estudiantado al diagnosticar habilidades cognitivas, con un 58,5% de los diagnósticos incorrectos acompañados de afirmaciones falsas de confianza evidencial. **[[llm-fallacy-misattribution]]** documentó la sobre-atribución sistemática de evidencia en el razonamiento de los [[llm]] — los modelos afirman respaldo evidencial donde no existe ninguno. Ambos conectan con las preocupaciones de [[ai-ed-evaluation]] y [[knowledge-tracing]] en torno a [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] añaden dos modos de fallo visibles cuando la salida de la IA se califica en lugar de inspeccionarse: detalles concretos fabricados que sobreviven a la corrección — un artículo revisado por pares que no existe, completo con un DOI irresoluble, y un tamaño de muestra comunicado como 378 cuando la fuente decía 329 — y la autocontradicción dentro de una única respuesta, donde el modelo razona hasta la opción correcta y luego informa de otra distinta en su resumen final. Dado que las listas de referencias se califican actualmente por su formato y no por su exactitud, esta clase de error alcanza una nota de aprobado a la vez que induce a error al estudiante que usa la misma herramienta para repasar.
 
@@ -86,6 +92,7 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 
 ## Artículos conectados
 - [[frontiers-gai-hallucination-dependence-2026]] — Etiquetar un diálogo de GAI como fabricado redujo la confianza y la dependencia a la vez
+- [[sim-ai-summary-memory-distortion-2026]] — Un resumen engañoso de IA distorsionó la memoria de adultos sobre un vídeo, y la etiqueta de IA o de autoría humana no los protegió
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad aumentaron la deferencia hacia la salida de la IA, con algunos casos citados mal atribuidos o ficticios
 - [[ivory-psychology-assessment-integrity-2026]] — Citas fabricadas y salidas autocontradictorias dentro de un trabajo de estudiantado aprobable (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]

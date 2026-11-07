@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,10 +15,14 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -51,6 +55,7 @@ Está empezando a llegar evidencia experimental: [[xie-genai-mystery-game-legal-
 - **Perfiles específicos de tarea, no una tabla de clasificación.** Bajo un protocolo ciego, los mismos modelos listos para usar que alcanzaron niveles humanos en el examen de habilitación (puntuaciones acumuladas de 26 a 79 sobre 100) fallaron todos el examen de notaría, que exige una planificación jurídica orientada a objetivos bajo estrictas restricciones formales, y fueron engañados por trampas deliberadas insertadas en él ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
 - **Revistas jurídicas, juicios simulados y asesoría académica.** Cribado de envíos, preparación de la argumentación y programas de [[student-support-and-success|apoyo académico]] que usan modelos personalizados entrenados con exámenes anteriores, respuestas modelo y materiales del curso.
 - **Evaluación e integridad.** Los casos problemáticos recurrentes: redacción no declarada, citas de autoridades inexistentes y exámenes que ya no miden el análisis sin ayuda.
+- **Una revisión de alcance de 82 trabajos, en su mayoría no empíricos.** [[lorteau-sarro-ai-legal-education-2025|Lorteau y Sarro (2025)]] cartografían 82 trabajos de 26 países; el 74% apareció después de 2023 y solo 22 eran empíricos. Los modelos sin ayuda aprueban las evaluaciones de las facultades de derecho pero se sitúan por debajo del estudiantado, y el rendimiento mejora con instrucciones detalladas y autoridades proporcionadas sin llegar a ser fiable. Los usos prácticos que señala la revisión son materiales generados, simulaciones, acompañamiento en la escritura y enseñanza de habilidades de IA; su riesgo central es la dependencia pasiva, con la [[assessment-validity|evaluación]] como punto de presión.
 
 ## Qué muestra la evidencia sobre políticas
 
@@ -68,6 +73,8 @@ Las recomendaciones son procedimentales: directrices claras e integrales sea cua
 ## Por qué la disciplina es distintiva
 
 Tres cosas hacen de la educación jurídica más que un área de conocimiento más.
+
+El método de casos es un miembro de la familia más amplia del [[case-based-learning|aprendizaje basado en casos]]; esa página distingue los casos preparados y la discusión de casos de la indagación basada en problemas y la simulación.
 
 **La validez de la evaluación es inseparable de la competencia profesional.** Se teme que la [[cognitive-offloading|dependencia excesiva]] durante los estudios de derecho deje a los egresados poco preparados para un trabajo que exige análisis jurídico y argumentación independientes, y una calificación que premia la salida fluida no puede distinguir la comprensión de un estudiante de la de un modelo. La pregunta de [[assessment-validity|validez]] no es, por tanto, académica.
 
@@ -98,6 +105,7 @@ En un experimento en contexto jurídico, 186 personas legas que decidían sobre 
 - [[governance]] — la gobernanza del claustro y la creación de políticas tal como las practican las facultades de derecho
 - [[educational-policy-ai]] — la política institucional sobre IA como objeto de estudio
 - [[critical-thinking]] — el razonamiento que el método de casos debe construir
+- [[case-based-learning]] — el método de casos y la discusión de casos como pedagogía
 - [[socratic-method]] — diálogo que depende de la preparación del estudiantado
 - [[experiential-learning]] — clínicas y formación basada en la práctica
 - [[professional-training]] — la familia más amplia de profesiones habilitadas
@@ -108,6 +116,7 @@ En un experimento en contexto jurídico, 186 personas legas que decidían sobre 
 
 ## Artículos conectados
 
+- [[lorteau-sarro-ai-legal-education-2025]] — La inteligencia artificial en la educación jurídica: una revisión de alcance de 82 trabajos (Lorteau y Sarro 2025)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparación de cinco factores de las políticas de IA generativa en facultades de derecho y un marco de gobernanza
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing a ciegas sobre exámenes italianos de habilitación, judicatura y notaría, con referencia a la corrección experta
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la posición del sistema suprime la dependencia excesiva en decisiones de contexto jurídico sin construir juicio (personas legas, no estudiantes de derecho)

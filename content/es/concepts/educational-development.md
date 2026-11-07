@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -66,6 +70,8 @@ El desarrollo educativo es el trabajo profesional e institucional mediante el cu
 El profesorado sostiene modelos mentales heterogéneos y a menudo profundamente ambivalentes sobre la IA, y un desarrollo eficaz debe sacarlos a la luz y trabajar con ellos. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] muestran que el personal docente de [[engineering-education|ingeniería]] enmarca la IA mediante metáforas que a la vez construyen y limitan la comprensión (la IA como «asistente» humano frente a «herramienta» o «buscador»); como el profesorado de un mismo departamento sostiene a menudo conceptualizaciones fundamentalmente distintas, un lenguaje compartido y preciso sobre la [[generative-ai|IA generativa]] es un requisito previo para un desarrollo eficaz del profesorado y para conversaciones departamentales productivas sobre la adopción.
 
 Un método práctico para sacar a la luz estos modelos mentales es el **taller de análisis de metáforas**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson y Casey (2025)]] diseñaron y validaron un taller colaborativo de baja tecnología para que profesorado, personal y estudiantado articularan sus metáforas sobre la IA generativa. Las metáforas de los participantes se agruparon en cuatro categorías —*Funciones* (propias de una herramienta: «navaja suiza»), *Roles* (propios de una persona: «ayudante», «amienemigo»), *Cualidades* (incognoscibles: «caja negra», «pendiente resbaladiza») y *Agencia* (amenazantes: «competidor», «robot siniestro»)—, sacando a la luz tensiones persistentes entre la [[agency|agencia]] humana y la de la máquina, y entre lo conocido y lo incognoscible. El taller ayudó a los participantes a sacar a la luz sus suposiciones, a conectar entre roles, a sentir que «no están solos» y a pensar en la [[ethics|ética]] de la IA generativa, sin exigir conocimientos técnicos. Como herramienta de desarrollo, ofrece a quienes diseñan programas una vía de bajo umbral para sacar a la luz las suposiciones de un equipo *antes* de rediseñar la [[assessment|evaluación]] o de desplegar una política, y para abordar los miedos de frente, incluido el miedo a que la IA sustituya los [[teacher-role|roles docentes]].([[fear-awe-genai-metaphor-workshops-2025]])
+
+La pregunta de diseño más amplia es cómo elegir una metáfora en primer lugar. [[metaphors-and-analogies]] reúne la evidencia transversal, y [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins y Furze (2025)]] ofrecen cuatro criterios: accesibilidad, poder explicativo, potencial para la alfabetización crítica en IA y utilidad pedagógica.
 
 ### La IA generativa como trabajo de identidad, no solo capacitación
 
@@ -139,6 +145,7 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 
 - [[teacher-ai-competency]]
 - [[teacher-role]]
+- [[metaphors-and-analogies]] — Indagación de metáforas y diseño de analogías en el desarrollo del profesorado
 - [[ai-literacy]]
 - [[educational-policy-ai]]
 - [[higher-ed]]
@@ -158,6 +165,7 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Cómo las metáforas del profesorado de ingeniería construyen (y limitan) la comprensión de la IA
 - [[fear-awe-genai-metaphor-workshops-2025]] — Miedo y asombro: dar sentido a la IA generativa mediante metáforas (taller de metáforas para profesorado, personal y estudiantado)
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Cuatro criterios y cuatro metáforas para enseñar alfabetización crítica en IA
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Gobernar lo invisible: alfabetización en IA entre el profesorado de idiomas
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]

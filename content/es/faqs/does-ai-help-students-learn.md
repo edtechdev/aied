@@ -1,7 +1,7 @@
 ---
 title: "¿Usar IA ayuda de verdad a que mi estudiantado aprenda?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 audience: [instructors]
@@ -10,11 +10,15 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/does-ai-help-students-learn
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -60,6 +64,8 @@ Esta es la comprobación más informativa de la que usted dispone, y es fácil d
 La advertencia más clara del corpus es un experimento de campo aleatorizado con casi 1.000 estudiantes de secundaria, [[generative-ai-guardrails-harm-learning|Generative AI without guardrails can harm learning]]. Una interfaz de estilo generalista elevó las puntuaciones de práctica asistida en un 48% respecto al control, y esos mismos estudiantes obtuvieron después un 17% menos en exámenes sin asistencia. Un tutor configurado con orientación y pistas diseñadas por el docente evitó en gran medida esa penalización. No produjo una mejora estadísticamente significativa en el desempeño en exámenes sin asistencia respecto al grupo control. Evitar un daño y demostrar aprendizaje adicional son logros distintos.
 
 A escala nacional la misma división aparece con retraso. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] siguió a 26.811 estudiantes chinos de secundaria de los grados 7 a 12 durante 30 meses usando una adopción escalonada. Las puntuaciones de tareas subieron un 18% y el tiempo de realización cayó un 30%, de 64 a 45 minutos. Las puntuaciones de los exámenes mensuales a libro cerrado cayeron un 20% en seis meses, y las puntuaciones de los exámenes de ingreso de alto riesgo cayeron entre un 18% y un 24% de la línea base, pero solo después de unos dos años. Las pérdidas se concentraron en el 81% aproximado de usuarios cuyo comportamiento indicaba externalización de las tareas, mientras que los estudiantes que mantuvieron un tiempo de tarea comparable al de los no usuarios aprendieron con una eficiencia similar. De ahí se siguen dos cosas para su curso: la divergencia entre el desempeño en tareas y en exámenes es la [[learning-gains|brecha entre desempeño y aprendizaje]] en una cohorte nacional, y el retraso de dos años significa que una evaluación de un semestre subestimará sistemáticamente el costo.
+
+El uso no guiado también puede dejar el rendimiento sin cambios a escala de población. [[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]] siguieron a 4.062 estudiantes de secundaria de 136 escuelas alemanas a lo largo de un curso escolar. Tanto el uso para completar tareas como el uso orientado al aprendizaje aumentaron (d = 0,35 y 0,33), solo alrededor del 5% nunca usó IA generativa, y un rendimiento previo más bajo predijo más uso para completar tareas en las seis asignaturas y más uso orientado al aprendizaje en cinco de seis. Ninguna de las dos formas de uso predijo el rendimiento posterior en los modelos de panel cruzado. Esa es una asociación nula, no una prueba de que la IA no pueda ayudar; sí significa que el acceso y el [[self-directed-learning|uso autodirigido]], sin una actividad de aprendizaje diseñada, no son una intervención de aprendizaje.
 
 La [[cs-education|enseñanza de la computación]] muestra la misma estructura. La [[kumar-genai-computing-education-systematic-review-2026|revisión sistemática de 72 estudios]] encontró que la IA generativa elevó de forma fiable la finalización a corto plazo y redujo el tiempo en la tarea en 36 estudios, sin que un solo estudio del corpus documentara un efecto negativo en el desempeño inmediato, y esas ganancias "no se transfieren al desempeño independiente" en 21 estudios. Los estudiantes asistidos por Codex completaron el doble de tareas durante el aprendizaje y no rindieron mejor que los controles en pruebas posteriores sin IA.
 

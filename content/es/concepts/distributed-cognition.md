@@ -1,16 +1,20 @@
 ---
 title: Cognición distribuida
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -47,6 +51,8 @@ Los sistemas de IA generativa e interactiva redistribuyen el trabajo cognitivo d
 - **Los tipos de interacción, y no los resultados, como unidad.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane y Arikan (2026)]] construyeron el **Marco de Distribución Cognitiva** a partir de 53 registros de [[self-directed-learning|uso autodirigido]] de ChatGPT: cinco tipos de interacción (extensión, externalización, alineación, transformación y desacoplamiento) y cuatro roles de usuario, de modo que un mismo estudiante puede externalizar en un intercambio y pensar conjuntamente en el siguiente.
 - **La memoria transactiva da a la distribución un mecanismo medido.** Entre 891 estudiantes universitarios de Estados Unidos y Türkiye, ni la capacidad de pensamiento autoevaluada ni la confianza en la asociación con la IA predijeron directamente el [[critical-thinking|pensamiento crítico]]. Ambas actuaron a través de la experiencia acumulada con IA generativa, que solo fue relevante mediante la especialización y la coordinación del trabajo (b = 0,636) y la transformación reflexiva de la salida (b = 0,367) ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun y Toker, 2026]]). Esos dos mediadores predijeron después el pensamiento crítico (b = 0,230 y 0,175) sin que quedara ninguna ruta directa, así que aquello con lo que piensa un sistema humano–IA es la organización del trabajo, y no la cantidad de uso.
 
+- **La cognición extendida como elección de diseño, no como propiedad de la herramienta.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa y Duarte Arias (2026)]] sostienen que la IA generativa es sustitutiva por defecto porque realiza la tarea cognitiva, pero el mismo sistema se vuelve complementario cuando critica un borrador o aporta retroalimentación que quien aprende debe evaluar. Su marco de la mente extendida convierte la unidad de análisis en el artefacto junto con su uso, que es la versión normativa de la pregunta sobre la distribución que plantea esta página.
+
 ### La cognición distribuida y perspectivas afines
 
 La base de conocimiento sitúa la cognición distribuida junto a tradiciones teóricas vecinas, que se solapan pero no son idénticas:
@@ -55,6 +61,7 @@ La base de conocimiento sitúa la cognición distribuida junto a tradiciones te�
 - **La [[embodied-learning|cognición encarnada]]** destaca el papel del cuerpo y de la interacción sensoriomotora, y sostiene que el pensamiento se ancla en la implicación corporal y no en la manipulación abstracta de símbolos.
 - **La [[cognitive-offloading|descarga cognitiva]]** es el mecanismo práctico por el que el trabajo cognitivo se traslada a sistemas externos (incluida la IA), y es la contraparte cargada de riesgo del relato descriptivo de la DCog.
 - **La cognición extendida y la tesis de la mente extendida** (usadas en trabajos posthumanistas) sostienen que los artefactos externos pueden ser partes *constitutivas* de un sistema cognitivo y no meros instrumentos: una afirmación más fuerte de que la IA forma parte de la propia mente de quien aprende.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+
 ### ¿De quién es la cognición? El problema de la unidad de análisis
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] lleva esa pregunta por la unidad de análisis más lejos que la mayor parte del trabajo de esta tradición. Su tesis es que la alfabetización no es una posesión individual sino algo que se pone en acto con materiales y máquinas, lo que convierte a quien aprende individualmente en la unidad de análisis equivocada. Un marco de competencias centrado en la persona no puede, por tanto, registrar contribuciones infraestructurales o no humanas, y el campo sigue nombrando la distribución para luego resolverla de nuevo sobre quien aprende. El borde de equidad es su argumento sobre la dificultad: la reflexividad depende de la experiencia vivida y de las relaciones de poder, así que el estudiantado cuya lengua o prácticas de escritura se sitúan más lejos de la norma codificada soporta el mayor coste. El argumento es teórico y no informa de ningún conjunto de datos, y sus orientaciones de diseño siguen siendo propuestas no probadas.
@@ -101,3 +108,4 @@ Fowlin et al. (2026) operacionalizan ese reparto como una secuencia de dos fases
 - [[cognitive-distribution-student-genai-interaction-2026]] — Marco de Distribución Cognitiva: cinco tipos de interacción y cuatro roles a partir del uso autodirigido de ChatGPT
 - [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Memoria transactiva con IA generativa: la división del trabajo y la transformación reflexiva median el pensamiento crítico (Akgun y Toker 2026)
 - [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Por qué quien aprende individualmente es la unidad de análisis equivocada
+- [[rivera-novoa-genai-extended-cognition-2026]] — Cognición extendida en el aprendizaje de las ciencias: la IA generativa es sustitutiva por defecto y complementaria por diseño (Rivera-Novoa y Duarte Arias 2026)

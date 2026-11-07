@@ -1,17 +1,21 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-10-04"
@@ -89,6 +93,7 @@ Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto c
 - **Tener una obra no es lo mismo que ser su autor.** [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026|Hong et al. (2026)]] nombran un *déficit de legitimación de la autoría*: una persona puede vivir un resultado como propio y aun así no poder justificar el papel de autor, porque la propiedad psicológica, el sentido de [[agency|agencia]] y la responsabilidad de dar a conocer el trabajo son rutas separadas que no tienen por qué coincidir. Su nexo de trabajo de la autoría clasifica las contribuciones rol por rol, de modo que un mismo registro puede sostener una pretensión editorial y fallar a la vez una pretensión de creador único. El planteamiento es un análisis conceptual sin datos ni modelo probado, así que el déficit es un constructo propuesto cuyas predicciones siguen sin contrastar.
 
 - **Guiar en lugar de decir exige su propio criterio para juzgar a un agente.** Un caso de diseño que se proponía replicar la facilitación docente encontró que un agente de conocimiento acotado a una base curada podía juzgarse por su exactitud, mientras que un agente pensado para llevar al estudiantado hacia sus propias respuestas no ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- **La asociación se extiende al propio proceso de investigación, no solo al aprendizaje del estudiantado**: [[potter-participatory-design-writing-analytics-2026|Potter et al. (2026)]] hicieron que GPT-4o redactara códigos y temas preliminares en una plataforma RAG segura mientras tres investigadores principales y dos validadores externos conservaban la autoridad interpretativa, consolidando cuatro temas finales. El flujo de trabajo híbrido redistribuyó el trabajo de investigación en lugar de eliminarlo.
 
 - **La complementariedad es condicional, no una propiedad por defecto de los equipos.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] encontraron que los equipos humano-IA superaron tanto a las personas como a la IA por separado en solo una de seis condiciones —los casos difíciles en los que la IA era *menos* precisa que las personas— y no informaron de ninguna ventaja consistente del equipo en el resto, así que añadir un socio de IA no es por sí mismo una vía hacia el rendimiento complementario.
 - **Los programas profesionales reorientan la formación desde la producción rutinaria hacia las competencias de colaboración (un protocolo de diseño):** [[wang-agentic-translation-education-2026|Wang (2026)]] propone un marco basado en el diseño para la formación de traductores, construido en torno a un inventario de desplazamiento de tareas (18 subtareas valoradas por su probabilidad de desplazamiento por IA, con etiquetas de procedencia [E]/[P]) y cuatro competencias reorientadas: conocimiento interdisciplinar, orquestación de la IA, juicio estratégico y evaluación crítica de la IA. El marco es un protocolo preregistrado sin datos empíricos aún; su contribución es el método —un análisis de desplazamiento auditable más una vía de codiseño para la reforma curricular—, que se traslada a cualquier programa profesional cuyas tareas rutinarias los sistemas agénticos realizan cada vez más.

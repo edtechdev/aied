@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accesibilidad
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,10 +10,14 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -50,6 +54,8 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 **Accesibilidad del formato: subtítulos, transcripciones y texto.** Los **[[adhd-video-segmentation-computing-education|vídeos instructivos segmentados con IA]]** con pausas fijas eliminaron la brecha de rendimiento entre quienes tienen TDAH y quienes no: la accesibilidad como catalizador que beneficia a todos. **[[text-simplification-its|MuTSE]]** evalúa la [[intelligent-tutoring|simplificación de texto]] basada en [[llm|LLM]] para ajustar la complejidad del contenido al nivel de lectura de cada estudiante, una capa de accesibilidad [[human-in-the-loop-ai|con la persona en el bucle]]. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** construyen [[automated-question-generation|generación de preguntas]] con LLM para estudiantes sordos y con hipoacusia, afrontando el desajuste entre los prompts basados en texto y las lenguas de signos como primeras lenguas.
 
 **Acceso sensorial: salida no visual y táctil.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** convierte la conversación hablada en la modalidad principal para niños y niñas con discapacidad visual, eliminando la dependencia de lo visual. Los **[[tactile-statistical-graphs-accessibility|gráficos táctiles impresos en 3D]]** convierten datos estadísticos visuales en salida tangible para estudiantes ciegos y con baja visión. Los **[[pepper-robot-sign-language-lis-2025|robots de lengua de signos]]** extienden la [[educational-robotics|robótica educativa]] a la accesibilidad comunicativa para estudiantes sordos.
+
+**Acceso que prioriza la negativa: pedir la figura en lugar de adivinar.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau y Heffernan (2025)]] encontraron que, cuando se oculta una figura esencial para la tarea, seis modelos multimodales se negaron a responder en lugar de adivinar en entre el 95,4% y el 98,9% de las ejecuciones, una abstención que los sistemas de acceso deberían tratar como una solicitud de la figura o de una descripción estructurada y no como una adivinanza. Los subconjuntos de consenso publicados, gold (76 ítems) y ultra-gold (61 ítems), ofrecen a los experimentos de sustitución de descripciones un banco de pruebas para comparar figuras originales con descripciones textuales verificadas en ítems matemáticos que dependen de la figura.
 
 **La descripción de audio escrita para el cine no se traslada a las grabaciones de clases magistrales.** Las clases magistrales basadas en diapositivas hacen referencia a diagramas, ecuaciones y gestos de señalamiento, y sus pausas duran una mediana de solo 0,5 s, así que [[ad4edu-lecture-audio-description-2026|Psychias y Gao (2026)]] construyeron un punto de referencia específico para clases magistrales y una métrica diagnosticable por reglas; el [[llm-training-and-fine-tuning|entrenamiento posterior]] sobre pares ordenados por un juez automático no mejoró el cumplimiento de forma uniforme.
 

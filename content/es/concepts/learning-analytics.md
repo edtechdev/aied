@@ -11,11 +11,15 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-04T18:35:00-05:00"
-updated: "2026-11-05T16:05:17-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -86,6 +90,10 @@ Una codificación de frecuencias de datos [[qualitative-research|cualitativos]] 
 
 ### De la descripción a la intervención
 - **La base de evidencia todavía no es evidencia de intervención.** Al sintetizar cuatro estudios en los niveles del estudiantado, la disciplina, el profesorado y la institución, [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] encuentran un campo dominado por diseños transversales, de [[self-report-measures|autoinforme]], basados en el discurso y de juicio experto, y reclaman investigación de intervención que ponga a prueba mecanismos causales y resultados distribucionales y de más largo plazo.
+
+**Un diseño de estímulo aleatorizado aporta el anclaje causal.** En un experimento de estímulo aleatorizado en ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan y Sales (2025)]] instaron aleatoriamente a docentes nuevos en la plataforma a ver el informe de la tarea después de crearla.
+En la muestra analítica de 330 docentes (156 de control, 174 de estímulo; 281 para el valor añadido), ver el informe de la primera tarea elevó significativamente la compleción de la siguiente tarea (F de Anderson-Rubin = 4,092, p = 0,044), al menos 2 puntos porcentuales en conjunto.
+En clases de menos de 44 estudiantes la ganancia fue de al menos 24,5 puntos porcentuales (F AR = 7,475, p = 0,007), mientras que solo el 54,0% de 121.890 tareas tuvieron sus informes vistos y los resultados de inicio y de valor añadido no se movieron. Esos mismos datos de plataforma contienen el mayor caso de calificación en bucle cerrado del campo: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]] analizaron 5.214.211 sesiones de pregunta de estudiantes en las que el pulgar hacia abajo (2,00 por 1.000) seguía características controladas por el generador y la varianza a nivel de estudiante dominaba la varianza a nivel de pregunta (BIC 101.572,9 frente a 123.342,0).
 
 La analítica del aprendizaje ha evolucionado en la base de conocimiento a través de tres generaciones: descriptiva (¿qué ocurrió?), predictiva (¿qué ocurrirá?) y prescriptiva (¿qué deberíamos hacer?). La IA hace posible la capa prescriptiva, una analítica que desencadena directamente [[feedback|intervenciones instruccionales]]. Una frontera clave es la **brecha de accionabilidad**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel y Laforge 2026)]] muestra que la predicción por sí sola es insuficiente para apoyar decisiones, y que el recurso contrafactual solo se vuelve operativamente significativo cuando las recomendaciones son semánticamente factibles y comprobables por máquina, restringidas por el momento, el presupuesto, la inmutabilidad y la disponibilidad mediante validación SHACL, y no solo válidas según el modelo. Esto lleva al campo más allá de las puntuaciones de riesgo hacia recomendaciones que las instituciones pueden realmente ejecutar, con la [[human-in-the-loop-ai|supervisión humana]] preservada.
 

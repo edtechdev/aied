@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Aprendizaje autodirigido
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,10 +10,14 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -46,6 +50,8 @@ La [[research-methods-aied|investigación]] de la base de conocimiento documenta
 - **Delegar la elección del objetivo no es lo mismo que apoyarla.** La página trata la fijación del objetivo como el acto central de quien aprende, y la evidencia de referencia dice que los modelos lo hacen de otro modo. Frente a 175 personas, GPT-5, Claude Sonnet 4.5 y Qwen3 32B volvieron a seleccionar el objetivo anterior en 0,93, 0,93 y 0,94 de los ensayos, frente a 0,54 ± 0,18 en las personas. La entropía de objetivos fue de 0,12 a 0,20 frente a 1,67 ± 0,14, y las instrucciones de cadena de pensamiento y de persona no cerraron la brecha. Un sistema que propone qué aprender a continuación reproduce una búsqueda más estrecha que la de quien aprende al que sustituye ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
 - **El uso irreflexivo socava el SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa** —adoptar salidas de IA sin evaluación crítica— perjudica significativamente el SDL del estudiantado universitario, tanto directamente como a través de la erosión de la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (el modelo explicó el 75,3% de la varianza del SDL; TUGA β = −0,42). El efecto negativo sobre la motivación fue mayor en los estudiantes varones y sobre la autoeficacia en las estudiantes mujeres. Esto conecta con el riesgo más amplio de [[cognitive-offloading|dependencia excesiva]] documentado en la base de conocimiento.
+
+- **Uso no guiado a escala poblacional.** En 4.062 estudiantes de 136 escuelas secundarias alemanas, el uso de IA generativa orientado a completar tareas y el orientado al aprendizaje aumentaron ambos a lo largo de un curso escolar (d = 0,35 y 0,33), y solo el 5% del estudiantado no usó nunca las herramientas; un rendimiento previo más bajo predijo más uso posterior en las seis materias, pero ninguna de las dos formas de uso predijo el rendimiento posterior ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 
 - **Descarga cognitiva y delegación.** La [[andragogy-cognitive-delegation-genai-2026|andragogía y la delegación cognitiva]] y el [[learning-by-chatting-genai-impact|aprendizaje conversando con IA generativa]] examinan cómo quien aprende puede delegar el trabajo cognitivo en la IA de formas que se saltan el procesamiento esforzado que el SDL requiere, un modo de fallo de herramientas por lo demás favorables a la autonomía. El [[critical-thinking-genai-scaffolding|andamiaje del pensamiento crítico con IA generativa]] y el [[test-driven-ai-assisted-learning|aprendizaje asistido por IA guiado por pruebas]] modelan diseños más productivos.
 
@@ -99,6 +105,8 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 - [[higher-ed]]
 
 ## Artículos conectados
+
+- [[scherer-self-directed-genai-use-secondary-2026]] — Uso autodirigido de IA generativa y desarrollo académico entre estudiantes de secundaria: un estudio longitudinal a gran escala de un año
 
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Uso irreflexivo de IA generativa y aprendizaje autodirigido (SEM, diferencias de género)
 - [[ai-lifelong-learning-policy]] — La IA y las políticas de aprendizaje a lo largo de la vida

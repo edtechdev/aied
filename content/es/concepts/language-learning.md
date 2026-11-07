@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -45,6 +49,8 @@ El aprendizaje de lenguas ha surgido como un dominio significativo de la IA en l
 **La IA como tutor e interlocutor de lenguas** es el tema más desarrollado. **[[ai-interlocutor-l2-spoken-dialogue|¿Qué cambia cuando el interlocutor es una IA?]]** examina la fluidez interactiva y la incorporación lingüística cuando quienes aprenden L2 conversan con una IA frente a con humanos. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** ofrece tutoría de inglés como segunda lengua pedagógicamente adaptativa. **[[llm-children-reading-story-generation|La generación de cuentos para la lectura infantil]]** explora cuentos generados por IA para el desarrollo lector de los niños. Todo ello se conecta con la [[intelligent-tutoring|tutoría inteligente]] y la [[generative-ai|IA generativa]]. **[[llm-agents-5e-esl-grammar-2026|Yang, Weng y Yang (2026)]]** diseñaron dos agentes basados en [[llm|LLM]]: una profesora de inglés con IA convencional y otra que usa el **marco 5E** (enganchar, explorar, explicar, elaborar, evaluar) para el aprendizaje de la gramática por indagación. En una comparación aleatorizada con **37 estudiantes de inglés como segunda lengua**, **el estudiantado de alto rendimiento respondió positivamente a la profesora de IA**, mientras que el de bajo rendimiento mostró actitudes mixtas, y las condiciones difirieron en motivación intrínseca, cambio cognitivo y rendimiento, lo que indica que el diseño de agentes LLM debe ajustarse al nivel de competencia de quien aprende.
 
 En el caso de los tutores físicamente [[embodied-learning|corporeizados]], un metaanálisis de 11 estudios de aprendizaje de lenguas asistido por robots (RALL) (N = 595) encontró un efecto conjunto grande sobre el aprendizaje de L2 (g = 0,83) con alta heterogeneidad, y solo el formato de interacción lo moderó: los formatos grupales superaron a los individuales, mientras que la morfología del robot, la modalidad, la autonomía y el rol social no lo hicieron ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang y Zou (2026)]]).
+
+La granularidad de los componentes de conocimiento es una decisión de modelado en la tutoría escolar: [[elhefny-knowledge-component-granularity-language-tutoring-2026|El Hefny y Meurers (2026)]] compararon 19 modelos de componentes de conocimiento (CC) que abarcan 11 niveles de la jerarquía del dominio FeedBook sobre 153.819 respuestas de primer intento de 1.059 estudiantes de séptimo grado que aprenden inglés en escuelas alemanas. Los modelos finos a nivel de ítem predijeron mejor para estudiantes nuevos en contenido conocido, mientras que los modelos de nivel medio fundamentados semánticamente generalizaron mejor a contenido nuevo (Property ID + Exercise Type RMSE 0,4243 bajo AFM frente a 0,4447 para Actionable Element ID). Una auditoría de cobertura de anotación encontró que el mapeo estricto de propiedades eliminaba inicialmente el 45,7% de los registros y que una herramienta de anotación más reciente redujo la exclusión al 30,6%, y la etiqueta combinada positive|statement por sí sola daba cuenta del 74,9% de los registros excluidos.
 
 **La IA en la evaluación de lenguas** está emergiendo a medida que los LLM apoyan la [[automated-question-generation|generación de ítems]] y la evaluación. **[[gpt-item-generation-l2-listening-2026|Aryadoust y Wong (2026)]]** compararon la [[prompt-engineering|ingeniería de prompts]] con el ajuste fino para la generación automática de ítems en la evaluación de la comprensión oral en L2: el refinamiento iterativo de los prompts mejoró la calidad de los ítems pero se estancó, mientras que **el ajuste fino de GPT-4.1 sobre el prompt optimizado** (manteniendo constante el diseño del prompt) produjo ganancias adicionales: una plantilla para saber cuándo quienes desarrollan evaluaciones deberían invertir en la [[llm-training-and-fine-tuning|adaptación del modelo]] en lugar de en la iteración de prompts.
 

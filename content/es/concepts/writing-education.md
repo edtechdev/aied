@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,10 +12,14 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -68,6 +72,7 @@ La concordancia es una propiedad del corpus, no de quien califica: [[automated-s
 - **Revisión y posicionamiento dialógico:** mientras que la mayoría de la investigación sobre retroalimentación de escritura pregunta si una revisión mejoró el texto, [[zhao-ji-appraisal-human-ai-revisions-2026|Zhao y Ji (2026)]] preguntan qué postura adopta el texto revisado. Al codificar 168 ensayos argumentativos de inglés como lengua extranjera con la Teoría de la Valoración —primeros borradores, revisiones tras la [[peer-assessment|retroalimentación entre pares]] y revisiones con ChatGPT-4 de esos mismos borradores—, encontraron que las tres condiciones eran estadísticamente indistinguibles en cuánto lenguaje de Compromiso usaban, pero estaban configuradas de forma distinta: las revisiones con retroalimentación entre pares se volvieron más contractivas (más Contra y Refuerzo, menos Apertura), mientras que las revisiones con IA mantuvieron una mezcla más equilibrada de Contrato/Expansión que combinaba un contraargumento más fuerte con una cautela continuada. Su lectura es que una revisión con IA es más útil como texto de contraste con el que el estudiantado compara su propia revisión que como respuesta modelo, y que la [[ai-feedback-quality|retroalimentación con IA]] sobre la argumentación puede mejorar la prosa mientras cierra en silencio el espacio dialógico de quien escribe, una dimensión que ninguna rúbrica actual captura.
 
 - **Apoyo al proceso de escritura y agencia:** la [[agency-gap-ai-writing|investigación sobre la brecha de agencia]] y la [[ai-writing-support-stage-ownership-2026|investigación sobre la titularidad por etapas]] exploran cómo la IA cambia el proceso de escritura desde la planificación hasta la revisión, y cómo se ve afectada la [[agency|agencia]] del estudiantado cuando la IA participa en distintas etapas.
+- **El razonamiento debe conectarse con la revisión.** Maike, un chatbot socrático que diagnostica argumentos y orienta las preguntas sin generar el texto del ensayo, produjo más diálogo a nivel de ideas (56% frente a 44% de los turnos) que un chatbot de control ([[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]]). Las transiciones de las ideas discutidas a las ediciones se asociaron positivamente con las ganancias de puntuación, y alrededor del 40% de los 65 estudiantes de secundaria mejoraron sus ensayos.
 
 - **Perspectivas poshumanistas:** [[posthumanist-ai-literacy-2025|un enfoque poshumanista de la alfabetización en IA]] reformula la escritura como un entrelazamiento humano-IA en el que la [[agency|agencia]] se distribuye, y desafía tanto la antropomorfización acrítica de la IA como su desestimación como mera herramienta: una visión relacional y no transaccional de la alfabetización en IA.
 
@@ -185,6 +190,7 @@ El relato de aula más completo de ese rediseño es el despliegue de PAIRR. [[st
 - [[reflection]]
 
 ## Artículos conectados
+- [[favero-thinking-not-writing-chatbot-2026]] — Pensar no es escribir: diseñar chatbots de IA que conecten el razonamiento y la revisión
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 profesores de escritura sobre calificar con IA: beneficios para la retroalimentación, deriva en las puntuaciones, ninguna norma institucional
 - [[genai-l2-written-feedback-scoping-review-2026]] — Revisión de alcance de 51 estudios: lagunas de transparencia en los prompts y por qué la IA más el profesorado supera a cada uno por separado
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de aula sobre IA de docentes en formación: tensiones y entrelazamientos

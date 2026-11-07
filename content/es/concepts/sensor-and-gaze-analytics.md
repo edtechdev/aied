@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores y de la mirada
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,9 +13,13 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -82,6 +86,8 @@ La [[assessment-validity|validación]] puede inflar el modelo. Un banco de prueb
 Un correlato neural no es una puntuación. Las imágenes reconstruidas a partir de EEG correlacionaron con el rendimiento en la prueba con R² = 0,79 en 55 observaciones participante-vídeo. Los ítems respondidos correctamente mostraron además mayor similitud semántica que los incorrectos. Aun así, un participante produjo reconstrucciones de alta calidad y respondió incorrectamente, de modo que la calidad de la reconstrucción no puede leerse como corrección ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 La atención no es aprendizaje. En TutorLoop, la atención correlacionó con el aprendizaje con r = 0,017, mientras que la carga de trabajo correlacionó negativamente con r = -0,168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Un sistema que maximizara la señal de atención habría optimizado algo cercano al ruido.
+
+Un sensor puede registrar copresencia donde un estudio afirma interacción: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] encontraron que un detector basado en pose alcanzaba solo un 55% de exhaustividad, capturando 11 de los 20 eventos que los codificadores humanos identificaron en las interacciones del docente con grupos de estudiantes. El docente estaba presente dentro del límite del grupo en el 49,2% de los segmentos codificados, mientras que el estudiantado miraba al docente solo en el 25,4%, y ningún rasgo de audio cambió en ninguna de las dos comparaciones, así que la canalización registró copresencia espacial y no interacción sostenida.
 
 Un perfil fisiológico no es un diagnóstico. Los modelos de estrés en exámenes predicen una categoría de calificación a partir de la activación y el movimiento, y los autores insisten en que la salida pertenece junto a las circunstancias personales y el contexto de salud mental, no dentro de una decisión de alto impacto ([[physiological-signals-exam-outcomes-ml|Yamazaki y Rimal, 2026]]).
 

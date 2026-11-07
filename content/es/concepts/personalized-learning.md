@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -107,6 +111,8 @@ Una tercera dimensión de la personalización es la *meta*, y es la entrada que 
 Una cuarta dimensión es el *público destinatario* y no la persona que aprende: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenera una clase existente para un grupo profesional concreto (sanidad, finanzas o energía), y sus evaluadores expertos puntuaron las versiones enmarcadas por sector 0,32 puntos más alto en profundidad de personalización (3,97 frente a 3,65), mientras que la calibración al público se quedó atrás (3,52). Ajustar para un grupo y no para una persona es una forma más barata y más manejable de personalización, pero la rúbrica que la midió evaluaba el ajuste juzgado, no los resultados de aprendizaje.
 
 La personalización puede superar a un presentador humano: en un curso en línea grande (493 encuestados), el estudiantado clasificó los vídeos personalizados generados por IA por encima de los grabados por personas sin personalizar (rango medio 2,26 frente a 2,69) y el 88,4% situó algún vídeo personalizado en primer lugar, frente al 73,8% de los grabados por personas ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
+
+La personalización también puede reunir las tres variables de quien aprende en un único flujo de trabajo en una plataforma real de segundas lenguas: [[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi et al. (2026)]] combinan modelos de preferencia, competencia e implicación sobre registros de NedBox de 7.346 personas que aprenden. Ordenan los materiales con el recomendador ligero EASE (AUROC 0,955), reordenan los 10 primeros según las estimaciones de competencia de DeepIRT (mejor MCC 0,34) y filtran los ítems que un bosque de supervivencia marca como de alto riesgo de abandono (índice C 0,662). La dificultad de entrada de cada persona se fija en el nivel cuya probabilidad prevista de respuesta correcta se sitúa más cerca de 0,75.
 
 ## La solidez de la evidencia
 

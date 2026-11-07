@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA apoyar al estudiantado con discapacidad y neurodivergente en mi curso?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -10,11 +10,15 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -70,6 +74,8 @@ Para el acceso lingüístico, [[llm-question-generation-deaf-hard-of-hearing-202
 Para la lectura y la escritura, [[dyslexlens-dyslexic-learners-ai|Rezazadegan et al. (2026)]] analizaron las propias discusiones de foro de estudiantes disléxicos. Esos estudiantes valoraban la IA para el apoyo a la alfabetización e informaban de una calidad de producción desigual y de una falta de ajustes [[equity-in-ai-education|equitativos]]. La inconsistencia es en sí misma una barrera: una herramienta en la que no se puede confiar añade trabajo en lugar de quitarlo.
 
 El panorama de la [[higher-ed|educación superior]] es la parte más débil de la evidencia y la más cercana a su trabajo. [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel, Heimann y Prilop (2026)]] cribaron 766 registros de cinco bases de datos hasta 40 estudios incluidos publicados entre 2015 y 2025. La IA generativa aparecía en 15 de los 40 y la [[virtual-and-augmented-reality|realidad virtual]] en 11. La cobertura de barreras era desigual: dominaban lectura y escritura (n = 13) y gestión del estudio (n = 12), la atención (n = 4) y la comunicación social (n = 5) quedaban desatendidas, y solo 6 estudios abordaban más de una barrera. La revisión excluía por diseño los entornos de [[k-12|K-12]] y de instituciones especializadas, así que no dice nada sobre estudiantes más jóvenes. Úsela para ver qué barreras se han abordado en su nivel y cuáles apenas se han tocado.
+
+Las aulas de primaria cuentan ahora con su propia revisión de alcance. [[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola y Goodacre (2026)]] cribaron 3.340 registros en seis bases de datos e incluyeron 93 estudios sobre tecnología educativa para aulas de primaria neuroinclusivas. El autismo fue el perfil más estudiado (n = 37, 39,8%); la realidad extendida (n = 26), la robótica (n = 14) y los sistemas impulsados por IA (n = 12) lideraron las categorías tecnológicas, mientras que las tecnologías de asistencia y accesibilidad quedaron por debajo del 5%. Los resultados sociales, comunicativos y de interacción entre pares quedaron desatendidos; los procesos de diseño no se informaron en el 43,0% de los estudios, el diseño liderado por investigadores apareció en el 39,8% y el codiseño en el 17,2%, mientras que solo un estudio (1,1%) hizo de los niños y niñas socios de diseño. La revisión no establece que ningún producto funcione; muestra dónde es escasa la evidencia en primaria y de quién es el juicio que cuenta como valor.
 
 ## Decida si cambia el diseño o el ajuste
 

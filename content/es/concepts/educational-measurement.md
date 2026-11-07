@@ -1,7 +1,7 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,10 +9,14 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -57,6 +61,7 @@ La medición educativa es la disciplina que convierte observaciones sobre el apr
 - **Puntuación automatizada y validez:** la [[ai-scoring-language-bias-physics|puntuación con IA y el sesgo lingüístico]] y la [[multimodal-item-parameter-estimation-2026|estimación multimodal de parámetros de ítem]] examinan cómo afectan la puntuación automatizada y los datos multimodales a la calidad de la medición.
 - **Marcos de validez:** [[assessment-validity|la validez de la evaluación]] y el [[educational-nlp|PLN educativo]] aportan los estándares y las herramientas para validar la medición basada en LLM.
 - **Comparación de estructuras latentes:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extienden la medición educativa al entorno de los LLM al comprobar si los instrumentos de evaluación muestran la *misma estructura factorial* en personas y en LLM. Mediante análisis factorial exploratorio, congruencia factorial y remuestreo, muestran que las estructuras latentes de los LLM y de las personas divergen sistemáticamente en instrumentos de [[chemistry-education|química]] y de razonamiento cuantitativo, lo que implica que los constructos medidos difieren entre poblaciones: una comprobación necesaria antes de dar por supuesto que la evidencia de validez humana se transfiere a la IA.
+- **Una respuesta sobre la concordancia entre evaluadores con transcripciones idénticas.** [[ober-persistence-pedagogical-agent-dialogues-2026|Ober et al. (2026)]] recodificaron los mismos turnos de diálogo con ocho configuraciones de LLM y dos codificadores humanos, y encontraron una autoconsistencia (kappa de Cohen 0,865 a 0,890) muy superior a la alineación entre personas y LLM (kappa 0,000 a 0,419). La persistencia mostró la paradoja de la prevalencia en acción: 78,23% a 92,41% de concordancia con kappa 0,043 a 0,426, una alta concordancia en la categoría dominante sin código que enmascara el desacuerdo en los casos positivos poco frecuentes.
 - **La IA como evaluador con error medible:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros y Kortemeyer]] tratan los puntos asignados por IA como observaciones falibles con múltiples fuentes de error (ítems, ejecuciones, tareas) bajo la teoría de la generalizabilidad y la validez basada en argumentos de Kane. El análisis de fiabilidad de un examen manuscrito de química general con 296 estudiantes mostró una alta estabilidad de las puntuaciones *totales* en cinco ejecuciones de IA (ICC(A,1) = 0,967, W de Kendall = 0,959, coeficiente de repetibilidad del 95 % de 5,33 sobre 60 puntos) con una estabilidad menor a nivel de ítem (ICC(A,1) = 0,836): los errores no sistemáticos se cancelan parcialmente al sumar (un efecto de agregación de Spearman–Brown que eleva la concordancia de la puntuación total a R² = 0,91), mientras que una pequeña ordenada en el origen positiva con pendiente < 1 reveló un sesgo de compresión de puntuaciones de «calificador tímido». Esto enmarca el promedio de ejecuciones y la agregación como decisiones de diseño de la medición, y motiva filtros de confianza calibrados al riesgo de la [[item-response-theory|TRI]] como salvaguarda de validez antes de confiar en las medidas automatizadas.
 - **La versión del modelo es una condición de medición.** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] encontró que la similitud de respuestas dentro de un mismo modelo (0,715–0,795) superaba sistemáticamente la similitud entre modelos (0,443–0,604) en cuatro LLM, de modo que un argumento de puntuación establecido para un despliegue no se transfiere automáticamente a su sucesor.
 - **Un resultado nulo no es evidencia de equivalencia a menos que esté acotado.** StudentBench comprobó si la [[intelligent-tutoring|tutoría con IA]] agrupada igualaba a la tutoría humana experta con dos pruebas unilaterales contra ±0,25 desviaciones estándar agrupadas en lugar de una prueba de diferencia, e informó de una diferencia ajustada de -0,58 puntos porcentuales (IC del 90% [-2,18, 1,03]): la elección que convierte un nulo con poca potencia en una afirmación de equivalencia ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).

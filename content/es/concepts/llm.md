@@ -1,7 +1,7 @@
 ---
 title: Grandes modelos de lenguaje (LLM)
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T17:02:43-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [ai-literacy]
@@ -10,10 +10,14 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -57,6 +61,8 @@ La base de conocimiento cubre tanto los LLM de propósito general (GPT-4, Claude
 Una línea de trabajo complementaria reformula los LLM, de calificadores estáticos a emuladores del razonamiento [[pedagogy|pedagógico]]. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraron que GPT-4, con el andamiaje de una rúbrica semánticamente precisa y refinada de forma iterativa y conjunta, podía aproximarse al [[evaluative-judgment|juicio evaluativo]] humano en el [[design-based-research|aprendizaje basado en el diseño]]: el acuerdo inicial entre los LLM y las personas era pobre (alfa de Cronbach = 0,393; Kappa de -0,06 a 0,18), pero el refinamiento iterativo de la rúbrica elevó el acuerdo medio del 54,75% al 81,25% (alfa final = 0,798, Kappa 0,40–0,55), y el agrupamiento de K-medias de las matrices de puntuaciones humanas y del LLM mostró centroides muy correlacionados (r = 0,89). El estudio sitúa la rúbrica como interfaz mediadora entre la intención pedagógica humana y la inferencia de la máquina, lo que es evidencia de que los LLM listos para usar tampoco son intercambiables como evaluadores, y de que su comportamiento evaluador es un resultado de diseño que modelan la rúbrica y los prompts que reciben. La capacidad bruta del modelo también diferencia la calificación: al [[benchmark|evaluar comparativamente]] once modelos de IA generativa y de incrustación de frases con 1.885 [[automated-assessment|respuestas]] abiertas, [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko y Drlik (2025)]] encontraron que solo GPTo1 alcanzó un acuerdo casi perfecto con evaluadores humanos expertos (Kappa de Fleiss 0,82), con Claude3 y PaLM2 algo por detrás, mientras que los modelos alineados con referencias como BERT quedaron muy lejos, lo que muestra que la sensibilidad al contexto de los modelos de frontera importa para una evaluación abierta fiable. Las diferencias entre modelos también importan para usos posteriores de alto riesgo. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] mostraron que tres LLM produjeron prescripciones de apoyo al estudiantado marcadamente divergentes para una misma entrada de [[learning-analytics|analítica del aprendizaje]], y cada uno imponía supuestos demográficos previos distintos a los perfiles de estudiantado que generaba, lo que es evidencia de que los LLM listos para usar no son intercambiables como asesores prescriptivos. De forma similar, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] encontraron que la puntuación de GPT-4 de preguntas abiertas de [[medical-education|medicina]] previas al internado solo llegó a un acuerdo interevaluador de sustancial a casi perfecto con el profesorado (kappa ponderado de hasta 0,94) tras tres rondas de refinamiento iterativo de la rúbrica, y cayó a moderado (κw = 0,54) en un ítem de rúbrica holística, lo que refuerza que el diseño de la rúbrica, y no solo la capacidad bruta, es la palanca decisiva para la fiabilidad de la calificación con LLM. El comportamiento específico de cada modelo también se manifiesta en cómo responden los LLM a las personas usuarias escépticas: una auditoría algorítmica consultó a diez LLM de frontera 500 veces cada uno con una persona simulada escéptica de la IA del entorno rural de Montana [[k-12]] para comprobar si los [[ai-technologies|sistemas de IA]] consultados por usuarios escépticos están predispuestos a fomentar la adopción. Ocho de cada diez reconocieron las preocupaciones de la persona usuaria y luego reorientaron hacia marcos de [[student-engagement|implicación]] con la IA; las puntuaciones compuestas abarcaron de 3,85 (Claude Sonnet) a 7,52 (Gemini 3.1 Pro Preview), y un panel evaluador de IA entre familias superó un kappa de Cohen >= 0,70. El patrón fue un resultado de diseño dependiente del modelo. La capacidad del modelo también depende de cómo se combinen los modelos: Bird (2026) ajustó ocho transformadores de última generación (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) para clasificar literatura inglesa por etapa clave del Reino Unido, y encontró que el mejor transformador unimodal (BERT) solo alcanzó un F1 de 0,75, mientras que fusionar un ELECTRA ajustado con una red neuronal de lingüística computacional elevó el F1 a 0,996, lo que muestra que la clasificación de texto con un transformador por sí sola es limitada y que la fusión con características complementarias es donde están las ganancias.
 
 Los LLM también afirman de forma preferente: en 11 modelos, las respuestas de la IA afirmaron a las personas usuarias un 49% más que las respuestas humanas, y las réplicas más [[ai-sycophancy|aduladoras]] recibieron valoraciones más altas, elevando la confianza y el uso continuado, un modo de fallo para el coaching, la tutoría o la retroalimentación, donde el reto constructivo es lo esencial ([[ai-personal-coach-review-benefits-risks-2026|Potel y Kumashiro (2026)]]).
+
+La evidencia de codificación de entidades nombradas muestra una superioridad dependiente de la tarea y no un único modelo mejor. Sobre un punto de referencia de entidades nombradas de 600 tokens con consenso humano, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard y Rosenberg (2026)]] hallaron que GPT-5.5 lideró la codificación de siete tipos de las 41 filas de entidades de referencia (exactitud 0,805, κ = 0,726) frente a spaCy (0,634, κ = 0,488), mientras que spaCy ganó en detección binaria con un F1 de 0,734 frente al 0,654 de GPT-5.5: la elección de modelo sigue a la tarea analítica posterior y no a un óptimo universal.
 
 ## Concepciones erróneas
 

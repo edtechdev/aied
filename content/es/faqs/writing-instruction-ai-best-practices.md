@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -9,11 +9,15 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -93,6 +97,8 @@ Once filas son más de lo que necesitan la mayoría de las asignaciones. Reduzca
 El mayor estudio de aula de este conjunto es [[pairr-ai-peer-review-2025|PAIRR]]: 654 estudiantes en diez cursos de escritura y tres cursos intensivos en escritura de [[stem-education|STEM]]. Redactaron, completaron una [[peer-assessment|evaluación entre pares]], obtuvieron retroalimentación de la IA basada en rúbricas, compararon y evaluaron ambas fuentes, escribieron planes de revisión, revisaron y reflexionaron. El 58% prefirió la combinación de retroalimentación de pares y de IA. El 6% prefirió solo la retroalimentación de la IA. El estudiantado encontró útil la IA para consejos generales de revisión orientados por la rúbrica, y los pares aportaron conocimiento contextual y una respuesta de audiencia auténtica.
 
 Sea exacto con la afirmación. PAIRR midió la experiencia y la evaluación que el estudiantado hace de la retroalimentación, no [[learning-gains|ganancias de aprendizaje]] a largo plazo, así que es evidencia sólida para un diseño de retroalimentación y evidencia más débil de que la escritura mejore meses después. Mantenga el paso de pares incluso cuando el paso de la IA sea más rápido. Buena parte del trabajo de [[feedback|retroalimentación]] ocurre en la comparación entre las dos fuentes, y eliminarlo suprime la parte que el estudiantado dijo valorar.
+
+La propia herramienta puede diseñarse para proteger el paso de razonamiento. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] construyeron MAIKE, un chatbot [[socratic-method|socrático]] que diagnostica argumentos y hace preguntas dirigidas sin generar el texto del ensayo. En un estudio de aula con 65 estudiantes de secundaria, quienes usaban MAIKE dedicaron más turnos al diálogo a nivel de ideas que quienes estaban en el grupo control (56% frente a 44%) y se movieron entre la discusión y la edición; alrededor del 40% del estudiantado mejoró sus puntuaciones de ensayo. El estudio no mostró una ventaja global de calificación frente al control, así que trátelo como una demostración de diseño sobre cómo conectar la conversación con la revisión, y no como prueba de que el chatbot eleva la calidad de la escritura.
 
 ## Califique qué hizo el estudiante con la retroalimentación
 

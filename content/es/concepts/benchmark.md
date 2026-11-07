@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,10 +10,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -71,8 +75,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 
 - **Un punto de referencia normado con humanos puede no medir el mismo constructo para un LLM.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] compararon las estructuras de respuesta humana y de LLM [[multimodal]] en un diagnóstico de [[chemistry-education|química]] y un examen de razonamiento [[quantitative-research|cuantitativo]]; la congruencia factorial entre los LLM y los humanos se mantuvo por debajo de la línea base humano–humano y el análisis paralelo retuvo números de factores distintos.
 
-- **La multimodalidad no mejoró la calibración probatoria.** En MathCog, con 3.036 veredictos anotados por docentes sobre 639 respuestas matemáticas manuscritas, ninguno de 18 LLM alcanzó un F1 macro de 0,5 —el mejor, GPT-4o-img, obtuvo 0,448— y los modelos multimodales se degradaron más que los de solo texto cuando la evidencia era vaga, sobreatribuyendo evidencia y fabricando citas ([[llm-cognitive-diagnosis-handwritten-math|Kim et al. (2025)]]).
-- **Puntos de referencia sintéticos para la tutoría con IA.** Los conjuntos de datos abiertos y reproducibles para evaluar la tutoría con IA siguen siendo escasos. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) es un prototipo de tutoría multiagente y un marco de referencia para estudiar la programación colaborativa con agentes socialmente diferenciados, con configuraciones de tutor individual, tutor en pareja y pareja multiagente (N = 540; 360 sesiones; 1.440 episodios) y un esquema listo para trazas que permite un análisis reproducible de la interacción, el equilibrio de participación y la verificación.
+- **La fiabilidad es un eje del punto de referencia: las ejecuciones repetidas y el acuerdo entre modelos separan los ítems resolubles de los idiosincrásicos del modelo.** [[croteau-mllm-visual-math-reasoning-refusal-2025|Croteau y Heffernan (2025)]] ejecutaron seis modelos tres veces cada uno sobre 376 ítems matemáticos que requerían imagen y publicaron el banco de pruebas de consenso. La estabilidad por ítem entre ejecuciones se mantuvo en una consistencia del 79,0% al 85,4%, el kappa de Cohen medio por pares entre familias de modelos fue de 0,54, y los 76 ítems resueltos por los seis modelos con mayoría de respuestas correctas («gold») más 61 resueltos 3 de 3 («ultra-gold») se convirtieron en subconjuntos reproducibles del punto de referencia: la exactitud de una sola ejecución es una base débil para decidir un despliegue.
 
 - **El horizonte es un eje del punto de referencia, no un detalle.** [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] sitúan a un [[pedagogical-agent|agente tutor]] en una relación continua de 30 días con un estudiante simulado y encuentran que todos los adaptadores se estancaron para el día 5–10, ningún adaptador lideró la ganancia de aprendizaje en más de un nivel de modelo base, y los cinco ejes de puntuación fueron en gran medida independientes.
 

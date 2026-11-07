@@ -1,17 +1,21 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T17:02:43-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -56,6 +60,8 @@ El giro hacia la inferencia en el borde añade una dimensión de hardware a la b
 - **Representación y silencio estructural:** [[structural-silence-underrepresented-language-ai-2026|La investigación sobre lenguas subrepresentadas]] destaca cómo la brecha digital se extiende a *qué* comunidades, lenguas y perspectivas están representadas en los sistemas de IA y son atendidas por ellos, una dimensión cultural y epistémica de la desigualdad.
 
 - **El cambio de código es su propia exclusión.** La mayoría de las [[llm|herramientas de IA]] para clases magistrales presuponen audio monolingüe en inglés e internet fiable, lo que excluye a las aulas que mezclan el inglés con una lengua del hogar; los datos UDISE+ de la India situaban el acceso a internet en las escuelas cerca del 54%, con una brecha urbano-rural de 24 puntos, y un compañero bilingüe responde con transcripción en el dispositivo y almacenamiento local primero ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
+
+- **Los servicios digitales públicos reproducen la brecha.** La plataforma de gobierno electrónico eCitizen de Kenia está principalmente en inglés, con un uso limitado del suajili y una interfaz solo de texto, lo que excluye a jóvenes con baja alfabetización, con discapacidad visual y de zonas rurales; las entrevistas y una mesa redonda de once personas en cuatro plataformas de medios de vida (Ajira Digital, KRA iTax, HELB, YEDF) apuntan a las tecnologías lingüísticas y a un diseño basado en WCAG 2.1 como las palancas de inclusión ([[amol-ai-egovernance-digital-inclusion-2026|Amol y Wanzare (2026)]]).
 
 ### La IA profundiza las brechas (y puede cerrarlas)
 
@@ -125,6 +131,7 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - [[parents-and-families]]
 
 ## Artículos conectados
+- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
 - [[watanabe-genai-education-gap-europe-2026]] — ¿Es la brecha educativa en el uso de IA generativa menor que la que tuvo internet? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estructuras institucionales, desigualdad digital e integración de la IA en la educación superior nigeriana
 - [[ai-divide-ses-personality-primary-education-2026]] — Nivel socioeconómico, personalidad y brechas de IA en educación primaria (Wang et al. 2026)

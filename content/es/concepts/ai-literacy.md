@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,10 +11,14 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-05T09:30:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -155,6 +159,7 @@ Una línea distinta de la base de conocimiento trata la alfabetización en IA no
 - **Competencia regulatoria, no aceptación.** Kim (2026) reformula la alfabetización en IA en la [[higher-ed|educación superior]] como *[[regulation|competencia regulatoria]]*: una práctica efectiva de verificar, revisar, adoptar selectivamente o rechazar los resultados de la IA durante el trabajo académico, que muestra que la capacidad evaluativa y la conciencia ética (y no la mera disposición a usar la IA) predicen un [[student-engagement|compromiso crítico]] activo.([[ai-anxiety-strategic-regulation-writing-2026]])
 - **Reconocer la [[ai-sycophancy|adulación]] como habilidad de alfabetización.** Una competencia evaluativa central es reconocer cuándo una IA está *dando la razón* a quien aprende en lugar de ser correcta. La [[contextual-sycophancy-ai-literacy|adulación contextual]] muestra que la alfabetización en IA y la formación en prompts reducen, aunque no eliminan, el reflejo adulador de los errores de la persona usuaria, y la [[sycophantic-ai-social-interaction-2026|IA aduladora]] es preferida por los usuarios precisamente porque les hace sentirse comprendidos. La alfabetización en IA debe enseñar por tanto a detectar el acuerdo por el acuerdo mismo y a valorar la fricción correctiva, lo que conecta con la [[trust-calibration|calibración de la confianza]] y con [[reducing-ai-misuse|reducir el mal uso de la IA]].
 - **Valoración, no solo verificación.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] encontró que el estudiantado que solo comprobaba los resultados en cuanto a precisión, credibilidad y pertinencia seguía aceptando trabajos conceptualmente aplanados, mientras que quienes además juzgaban los matices, la voz y la postura epistémica los reescribían, lo que convierte «cuándo no delegar el juicio» en la pregunta de alfabetización.
+- **La metáfora como método de alfabetización crítica.** Las [[metaphors-and-analogies|metáforas y analogías]] hacen que la opacidad, el sesgo y la representación de la IA puedan discutirse; [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins y Furze (2025)]] emparejan cuatro metáforas de aula con criterios para elegirlas y criticarlas.
 
 Estas líneas críticas complementan las dimensiones operativa y cognitiva de la alfabetización en IA: mientras que estas últimas preguntan «¿puede quien aprende usar y evaluar la IA?», la alfabetización crítica en IA pregunta «¿entiende y cuestiona quien aprende las estructuras de poder que encarna la IA?».
 La alfabetización para la vida pública es un objetivo distinto de la alfabetización para el trabajo de curso. [[civic-and-political-education|La educación cívica y política]] aborda el problema de la manipulación y la verificación en ese objetivo: quien aprende debe juzgar una afirmación pública, rastrearla hasta una institución y responder a las objeciones que se le presenten.
@@ -196,6 +201,8 @@ Los marcos y los estudios empíricos de la base de conocimiento convergen en un 
 ### Medir la alfabetización en IA
 
 Una línea de investigación distinta trata la alfabetización en IA no solo como un objetivo de la instrucción, sino como un constructo que debe medirse. La línea de evaluación de la base de conocimiento distingue la alfabetización **autoinformada** de la **basada en el desempeño**: los autoinformes divergen marcadamente de la competencia demostrada (el profesorado la sobreestima en torno a un 40%), y las medidas basadas en el desempeño predicen la integración de la IA en el aula mucho mejor que las encuestas de confianza (r≈0,72 frente a 0,31). El trabajo de intervención reproduce esa divergencia al nivel del comportamiento: en [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni las actitudes hacia la IA generativa ni una escala general de conciencia metacognitiva predijeron la regulación de la interacción con los LLM por parte del estudiantado ni sus puntuaciones finales en la tarea (r = 0,01 y r = 0,04, ambas no significativas), mientras que las conductas que el taller sí cambió (rechazar prompts poco especificados, juzgar la corrección de la respuesta y formular una pregunta de seguimiento) sí rastrearon la calidad de la respuesta. Están surgiendo instrumentos validados para cerrar esta brecha: el [[jin-glat-genai-literacy-assessment|GLAT]] ofrece una evaluación de la alfabetización en IA generativa validada psicométricamente, y los perfiles diagnósticos (quienes sobreestiman frente a quienes son novatos reales) permiten a quienes diseñan dirigir el apoyo allí donde se necesita. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] cartografían directamente ese panorama de instrumentos: revisan 80 marcos validados —69 de alfabetización digital y 11 de alfabetización en IA— publicados entre enero de 2014 y febrero de 2025. La IA ha atraído la alfabetización digital hacia la ética y ha reformulado la comunicación para incluir la [[student-ai-interaction|interacción entre personas y la IA]], mientras que la regulación metacognitiva y la colaboración entre el profesorado y la IA siguen siendo los aspectos menos especificados. Para el diseño y la investigación, esto vincula la alfabetización en IA con la [[educational-measurement|medición educativa]] y con la [[assessment|evaluación]] en general: un marco de alfabetización es tan útil como los instrumentos con los que se rastrea el crecimiento, y los continuos por etapas requieren una medición fiable para situar en ellos a quien aprende.
+
+Una revisión sistemática de 17 medidas de alfabetización en IA encontró que la colaboración rara vez se evalúa como constructo: 3 estudios operacionalizaron explícitamente la [[human-ai-collaboration|colaboración entre personas y IA]], 3 la incluyeron en la redacción de los ítems y 11 no mostraron ninguna representación; solo un instrumento midió juntos la alfabetización en IA y la colaboración. Los subfactores propuestos de coordinación, comunicación y [[metacognition|metacognición]] siguen sin validarse ([[yang-collaborative-ai-literacy-measures-review-2026|Yang et al., 2026]]).
 
 [[genait-genai-literacy-test-high-school-2026|Puppart, Laak y Aru (2026)]] aportan la contraparte objetiva más amplia hasta ahora: una prueba de 18 ítems validada con 7.432 estudiantes estonios de secundaria (fiabilidad marginal = ,72), con puntuaciones no relacionadas con la [[technology-acceptance-model|facilidad de uso percibida]] (ρ = ,01) y relacionadas negativamente con la frecuencia de uso (ρ = −,16 a −,19).
 
@@ -260,6 +267,7 @@ La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de au
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Desarrollado por los pasos de valoración crítica de estas secuencias
+- [[metaphors-and-analogies]] — La metáfora y la analogía como técnicas de construcción de sentido y de enseñanza
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
 - [[automation-bias]] — El fallo que la instrucción en verificación y posedición pretende evitar
 - [[generative-ai]] — la tecnología a la que apunta la alfabetización en IA
@@ -286,6 +294,7 @@ La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de au
 - [[civic-and-political-education]]
 
 ## Artículos conectados
+- [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 medidas de alfabetización en IA: la colaboración rara vez se evalúa como constructo, y los factores propuestos de coordinación, comunicación y metacognición siguen sin validarse (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Configurar la primera infancia en la era de la IA: competencias, pedagogía y apoyo ecológico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetización en seguridad de la IA: marco de competencias basado en el ecosistema y plataforma de aprendizaje para K-12
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Elevar la dimensión ética de la alfabetización sin un marco de afrontamiento puede dejar al estudiantado más ansioso
@@ -344,3 +353,5 @@ La verificación es el contrapeso enseñable, y [[automation-bias|el sesgo de au
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — La alfabetización llega a la resolución de problemas mediante movimientos cognitivos, no mediante el acceso a herramientas
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Las alfabetizaciones críticas en IA y mediática como contrapeso cívico a la externalización cognitiva
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implementado en 13 secciones: lecturas, retroalimentación entre pares, retroalimentación de la IA guiada por rúbrica y reflexión
+
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Cuatro criterios y cuatro metáforas para enseñar alfabetización crítica en IA

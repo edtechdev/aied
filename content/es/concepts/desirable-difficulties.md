@@ -1,7 +1,7 @@
 ---
 title: Dificultades deseables
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,10 +9,14 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-04T18:35:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -45,6 +49,8 @@ Las dificultades deseables son las condiciones de práctica que hacen que aprend
 Las dificultades deseables se apoyan en la idea de que las condiciones que hacen que aprender se sienta más difícil en el momento —y que exigen recuperación, generación o explicación esforzadas— producen con frecuencia una retención y una [[transfer-of-learning|transferencia]] más sólidas que las condiciones que se sienten fáciles. A la inversa, las condiciones que se sienten fáciles (una presentación fluida, respuestas inmediatas) pueden producir una ilusión de competencia: quienes [[learners|aprenden]] creen dominar el material porque el reconocimiento resultó sencillo, mientras que después falla el recuerdo libre. Este es el núcleo teórico de la **brecha entre desempeño y aprendizaje**: lo que parece un buen desempeño durante la práctica no es lo mismo que un aprendizaje duradero.
 
 El esfuerzo que no aporta nada no es una dificultad deseable. En un experimento preregistrado con 302 adultos que aprendían Python introductorio, añadir indicaciones de autoexplicación a una [[ai-feedback-quality|retroalimentación con IA]] ya elaborada duplicó el tiempo dedicado a la retroalimentación (4,1 frente a 2,1 minutos) y redujo los problemas completados de 3,4 a 2,0, con puntuaciones en el problema final del 45% frente al 60% (d = 0,41) ([[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold y Carvalho, 2025]]). El límite que localiza el estudio: la dificultad es deseable cuando impulsa recuperación, aplicación o comparación adicionales, y redundante cuando quien aprende ya dispone de una explicación personalizada del error concreto.
+
+La desorientación perceptiva puede actuar en sí misma como una dificultad deseable: [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et al. (2026)]] encontraron que las señales de color incongruentes en los operadores matemáticos redujeron la adivinación inmediata y a la vez produjeron el perfil de retención más sólido en su estudio con estudiantes de sexto grado. En modelos BKT ajustados a 19.952 puntos de datos de 688 estudiantes de sexto grado, la condición de color incongruente con espaciado neutro (NSIC) mostró la tasa de adivinación más baja de las nueve condiciones (0,190) y, sin embargo, la tasa de aprendizaje más alta (0,0379) y la tasa de olvido más baja (0,0054).
 
 ## Confusión, fricción cognitiva y esfuerzo productivo
 

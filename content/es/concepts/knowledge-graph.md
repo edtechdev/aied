@@ -1,16 +1,20 @@
 ---
 title: Grafo de conocimiento
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-07T13:00:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-07"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -46,6 +50,7 @@ Los grafos de conocimiento son un mecanismo estructural recurrente en la [[resea
 - **Tutoría aumentada con grafos de conocimiento:** [[quantum-education-its|ITAS]] usa un grafo de conocimiento de conceptos de física cuántica (con relaciones de prerrequisito explícitas) para impulsar un sistema de tutoría multiagente, recorriendo el grafo para seleccionar los siguientes temas de material contraintuitivo.
 - **Modelado de currículos y cursos:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compara estructuras de cursos de informática entre instituciones usando representaciones de grafo; los [[learnity-graphs-lifelong-learning-framework-2026|grafos Learnity]] modelan itinerarios de [[lifelong-learning|aprendizaje a lo largo de la vida]].
 - **Aprendizaje de relaciones de prerrequisito:** [[proprl-prerequisite-relation-learning|ProPrL]] aprende [[recommender-systems-and-learning-paths|relaciones de prerrequisito]] entre conceptos, formalizando las aristas que codifican los grafos de conocimiento.
+- **El descubrimiento aprendible de prerrequisitos sustituye a las estructuras previas de los expertos.** Una síntesis de [[xu-graph-knowledge-tracing-survey-2026|Xu et al. (2026)]] halla que los rastreadores basados en grafos pueden aprender la estructura de prerrequisitos a partir de los datos de respuesta durante el entrenamiento, sustituyendo las estructuras previas elaboradas por expertos. GKT parametriza una matriz de adyacencia aprendible de extremo a extremo, SKT-L aprende los prerrequisitos mientras entrena, PKT aplica regularización L1 para recuperar grafos de prerrequisitos dispersos evaluados frente a estructuras de referencia con puntuaciones F1, y el marco bayesiano variacional de PSI-KT infiere grafos de prerrequisitos dirigidos que se alinean con los prerrequisitos anotados por personas mejor que los modelos de referencia.
 - **Detección de lagunas de conocimiento:** [[knowledge-gap-detection-ai-tas|la detección de lagunas de conocimiento]] usa razonamiento basado en grafos en asistentes docentes de IA para identificar dónde carece quien aprende de conceptos fundacionales.
 - **Razonamiento [[multimodal|multimodal]] y explicable:** los [[multimodal-knowledge-graph-educational-reasoning|grafos de conocimiento multimodales]] extienden la estructura de grafo a través de las modalidades de contenido; las [[fair-explainable-edu-recommendations|recomendaciones justas y explicables]] combinan incrustaciones de grafos de conocimiento con modelado secuencial (un marco híbrido HKG-GRU).
 - **Grafos con estructura instruccional para la recomendación de recursos:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun y Song (2026)]] descomponen cada entidad de recurso didáctico en cuatro dimensiones instruccionales (contexto de enseñanza, nivel cognitivo, característica tecnológica, adaptabilidad cultural), calculan sobre esas dimensiones una similitud semántica dependiente de la persona usuaria y la fusionan con el filtrado colaborativo mediante un coeficiente sensible a la capacidad y al progreso, codificando la estructura [[pedagogy|pedagógica]] directamente en la señal de recomendación en lugar de tratar los recursos como artículos de consumo.
