@@ -90,23 +90,22 @@ There is also a conceptual risk. A case can be memorable because it is vivid, no
 
 ## Connected Concepts
 
-- [[problem-based-learning]] — the closest pedagogy; differs in who owns the problem and the inquiry.
-- [[productive-failure]] — cases can create the exploratory attempt that precedes instruction.
-- [[inquiry-based-learning]] — shared facilitation and student investigation.
-- [[pedagogical-patterns]] — the sequence of moves inside a case discussion.
-- [[simulation]] — interactive cases, standardized patients, and virtual environments.
-- [[professional-training]] — the professional-education context for cases.
-- [[legal-education]] — the case method and Socratic dialogue as signature pedagogy.
-- [[business-education]] — cases and simulations in management teaching.
-- [[medical-education]] — clinical cases and reasoning.
-- [[nursing-education]] — case creation and discussion in nursing.
-- [[critical-thinking]] — the reasoning case discussion is meant to build.
-- [[ai-literacy]] — judging AI-generated case content.
-- [[hallucination-risk]] — the accuracy problem in generated cases.
-- [[human-in-the-loop-ai]] — expert review and facilitation.
-- [[assessment]] — assessing reasoning rather than case recall.
-- [[higher-ed]] — the main setting of the evidence.
-
+- [[problem-based-learning]]
+- [[productive-failure]]
+- [[inquiry-based-learning]]
+- [[pedagogical-patterns]]
+- [[simulation]]
+- [[professional-training]]
+- [[legal-education]]
+- [[business-education]]
+- [[medical-education]]
+- [[nursing-education]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[hallucination-risk]]
+- [[human-in-the-loop-ai]]
+- [[assessment]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[trewren-ai-perioperative-case-based-learning-2026]] — A grounded LLM held five perioperative cases without fabricating content
