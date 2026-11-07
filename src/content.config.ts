@@ -301,6 +301,12 @@ const articles = defineCollection({
     published: publishedField,
     sources: z.array(rawSourcePath),
     confidence: z.enum(['high', 'medium', 'low']),
+    // Article-only, optional for backward compatibility. It records where the
+    // evidence behind the page was actually collected, which is a different
+    // question from `confidence` (how well supported the claims are) and from
+    // `discipline`/`level` (what the paper is about). Absence means "not yet
+    // classified", never "educational".
+    evidence_context: z.enum(['educational', 'non_educational', 'mixed']).optional(),
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,

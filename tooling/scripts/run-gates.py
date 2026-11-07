@@ -51,6 +51,7 @@ SCOPABLE = {
     'audit-article-sections.py': 'changed',
     'check-citation-attribution.py': 'changed',
     'check-ai-disclosure.py': 'changed',
+    'check-evidence-context.py': 'changed',
     'verify-number-grounding.py': 'changed',
     'check-us-english.py': 'paths',
     'check-resource-wiring.py': 'slugs',
