@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-07T12:15:00-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -50,6 +50,7 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 **Automation and learning trade off directly.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] walk six pedagogical principles — [[prior-knowledge]] activation, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — through what proactive agentic initiative does to each, arguing the more an agent automates, the less cognitive work the learner does unless friction, dynamic fading, and [[human-in-the-loop-ai|human oversight]] are designed in.
 - **Reflection is a pedagogy that AI both enables and threatens.** Structured prompts, journals and [[eportfolio|portfolio]] commentaries are the mechanism by which experience becomes learning, and the [[reflection]] page carries the evidence. One preregistered experiment found prompts that doubled time on feedback and cut practice volume by 40% without lifting per-problem gain. A coded audit of an AI reflection partner found it broke every behavioral instruction without leaving a visible trace. Design the prompt around a completed attempt, and require the trail rather than the polished entry.
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
+- **Metaphor and analogy as teaching technique.** [[metaphors-and-analogies]] collects the evidence on how analogies explain AI, where they break, and how students can audit them as a form of [[critical-thinking|critical thinking]].
 
 - **AI-literacy instruction moves knowledge fastest.** A three-level [[meta-analysis-systematic-review|meta-analysis]] of 59 studies (172 effect sizes) found knowledge-focused interventions (g ≈ .97) clearly outperformed those targeting skills (≈ .67), attitudes (≈ .68), or [[ethics]] (≈ .64), so pairing concept teaching with sustained practice targets the outcomes that resist instruction ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[llm-training-and-fine-tuning]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
@@ -94,6 +95,7 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+- [[metaphors-and-analogies]] — Metaphor and analogy as teaching technique
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]

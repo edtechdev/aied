@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T18:35:00-05:00"
+updated: "2026-11-07T12:15:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -135,6 +135,7 @@ A [[meta-analysis-systematic-review|systematic review]] of the field's ethics li
 Several themes cut across the field:
 
 - **Trust and critical use:** [[trust]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption. Empirically, how AI explains itself shapes this trust: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] showed that [[explainable-ai|explainable AI]] builds teachers' trust in AI recommendations through understandability, with domain-driven (curricular-language) explanations trusted and accepted more than data-driven feature-importance output.
+- **How AI is imagined:** [[metaphors-and-analogies|metaphors and analogies]] shape what educators and students expect from AI and can serve as a teaching method for [[ai-literacy|AI literacy]], as [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins and Furze (2025)]] show.
 - **The evolution of the field:** the knowledge base traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]), and from hand-authored systems to user-driven workflows in which a learner or [[teacher-role|non-programmer]] specifies behavior in natural language ([[vibe-coding|vibe coding]]). [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] formalize this trajectory with their AI×Ed framework, tracing papers across four decades of proceedings to show that the field moved from a diverse mix — including substantial research treating AI as an analogy to human intelligence and learning — toward a near-exclusive focus on applied, data-driven, researcher-facing uses, a turn that the rise of [[llm|LLMs]] now appears to partly reverse (three of the four "AI-as-analogy" papers at AIED 2024 were LLM-based).
 - **Emotion, anxiety, and career futures:** AI induces and shapes emotional responses — [[anxiety-and-stress|AI anxiety and stress]] spanning proctoring surveillance, integrity fears, and career displacement — while [[career-development-and-readiness|career development and readiness]] addresses how education prepares learners for an AI-disrupted labor market (see also [[well-being]]).
 
@@ -164,6 +165,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it
 - [[human-ai-collaboration]] — umbrella: how people and AI work together
 - [[pedagogy]] — umbrella: teaching methods and strategies
+- [[metaphors-and-analogies]] — How metaphor shapes AI understanding and how analogy supports instruction
 - [[learning-theories]] — umbrella: how learning happens
 - [[ai-technologies]] — umbrella: models, techniques, and systems
 - [[discipline-specific-aied]] — umbrella: AI across subject areas and levels

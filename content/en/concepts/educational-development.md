@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-07T12:15:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -45,6 +45,8 @@ Educational development is the professional and institutional work through which
 Faculty hold heterogeneous, often deeply ambivalent mental models of AI, and effective development must surface and work with them. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that [[engineering-education|engineering]] instructors frame AI through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"); because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
 
 A practical method for surfacing these mental models is the **metaphor-analysis workshop**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]] designed and validated a low-tech, collaborative workshop for faculty, staff, and students to articulate their metaphors for generative AI. Participant metaphors clustered into four categories — *Functions* (tool-like: "Swiss army knife"), *Roles* (human-like: "helper," "frenemy"), *Qualities* (unknowable: "black box," "slippery slope"), and *Agency* (threatening: "competitor," "sinister robot") — surfacing persistent tensions between human vs. machine [[agency]] and the known vs. the unknowable. The workshop helped participants surface assumptions, connect across roles, feel "not alone," and think about the [[ethics]] of GenAI, without requiring technical expertise. As a development tool, it gives program designers a low-barrier way to surface a team's assumptions *before* redesigning [[assessment]] or rolling out policy, and to address fears head-on — including the fear that AI will replace [[teacher-role|teaching roles]].([[fear-awe-genai-metaphor-workshops-2025]])
+
+The broader design question is how to choose a metaphor in the first place. [[metaphors-and-analogies]] gathers the cross-cutting evidence, and [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins and Furze (2025)]] offer four criteria: accessibility, explanatory power, critical AI literacy potential, and pedagogical utility.
 
 ### GenAI as identity work, not just upskilling
 
@@ -121,6 +123,7 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[metaphors-and-analogies]] — Metaphor elicitation and analogy design in faculty development
 - [[educational-policy-ai]]
 - [[higher-ed]]
 - [[k-12]]
@@ -139,6 +142,7 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]

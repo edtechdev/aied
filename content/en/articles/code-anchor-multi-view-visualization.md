@@ -15,7 +15,7 @@ confidence: high
 level: [higher ed]
 ---
 
-> **Synthesis:** Students spent ~47% of [[sensor-and-gaze-analytics|gaze]] time on code despite [[scaffolding|visual scaffolds]]. Three factors shape selective engagement with multi-representational tools: **[[agency|Agency]]** (students want control over cognitive effort), **Representational Fit** (the same design feels helpful to some and overwhelming to others), and **Legitimacy** (metaphorical scaffolds are perceived as childish at university level).
+> **Synthesis:** Students spent ~47% of [[sensor-and-gaze-analytics|gaze]] time on code despite [[scaffolding|visual scaffolds]]. Three factors shape selective engagement with multi-representational tools: **[[agency|Agency]]** (students want control over cognitive effort), **Representational Fit** (the same design feels helpful to some and overwhelming to others), and **Legitimacy** ([[metaphors-and-analogies|metaphorical]] scaffolds are perceived as childish at university level).
 
 ## Key Findings
 

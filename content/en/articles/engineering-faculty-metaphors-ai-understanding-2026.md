@@ -23,7 +23,7 @@ The paper begins from the premise that figurative language is not decorative but
 
 ## Five dimensions of instructor language
 
-Analyzing instructors' responses to the prompt "if you had to think of an analogy or metaphor to describe GAI, what would you say?", the authors developed a five-continuum codebook, each with contrasting positions:
+Analyzing instructors' responses to the prompt "if you had to think of a [[metaphors-and-analogies|analogy or metaphor]] to describe GAI, what would you say?", the authors developed a five-continuum codebook, each with contrasting positions:
 
 - **Ontology — what "is" GAI?** Instructors most often framed GAI as a **Social Being/Agent** (54.2%) with human-like agentic and relational qualities (e.g., "a person with deep knowledge who thinks far faster than I do"); second was a **Technical Object/Artifact** (44.1%) likened to a search engine or tool; least common was an **Environmental Force/Systemic Phenomenon** (1.7%) such as a tsunami, iceberg, or paradigm shift.
 - **Epistemology — does GAI genuinely understand?** Positions ranged from "Genuine/True Understanding" to "Mimics/Simulates Understanding," often co-occurring with the human-like vs. mechanical framings above.

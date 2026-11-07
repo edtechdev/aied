@@ -1321,6 +1321,17 @@ concepts:
     - metacognition
     - metacognitive
     - self-monitoring
+  metaphors-and-analogies:
+    title: Metaphors and Analogies
+    aliases:
+    - analogies
+    - analogy
+    - analogy in teaching
+    - conceptual metaphor
+    - metaphor
+    - metaphor in education
+    - metaphors
+    - metaphors and analogies
   misconceptions:
     title: Misconceptions about AI
     aliases:
@@ -2277,6 +2288,7 @@ sections:
     - critical-pedagogy
     - pedagogical-partnerships
     - storytelling-in-education
+    - metaphors-and-analogies
     - online-teaching-and-learning
     - video-education
   - label: Learning theories and processes

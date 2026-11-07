@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T09:30:00-05:00"
+updated: "2026-11-07T12:15:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -128,6 +128,7 @@ A distinct strand of the knowledge base treats AI literacy not merely as skills 
 - **Regulatory competence, not acceptance.** Kim (2026) reframes AI literacy in [[higher-ed]] as *[[regulation|regulatory competence]]* — an enacted practice of verifying, revising, selectively adopting, or rejecting AI output during academic work — showing that evaluative capacity and ethical awareness (not mere willingness to use AI) predict active, [[student-engagement|critical engagement]].([[ai-anxiety-strategic-regulation-writing-2026]])
 - **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
 - **Valuation, not just verification.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found that students who only checked output for accuracy, credibility and relevance still accepted conceptually flattened work, while those who also judged nuance, voice and epistemic stance re-authored it — making "when not to delegate judgment" the literacy question.
+- **Metaphor as a critical literacy method.** [[metaphors-and-analogies|Metaphors and analogies]] make AI's opacity, bias, and representation discussable; [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins and Furze (2025)]] pair four classroom metaphors with criteria for choosing and critiquing them.
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
 
@@ -235,6 +236,7 @@ Verification is the teachable counterweight, and [[automation-bias]] names what 
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences
+- [[metaphors-and-analogies]] — Metaphor and analogy as sensemaking and teaching techniques
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[automation-bias]] — The failure that verification and post-editing instruction is meant to prevent
 - [[generative-ai]] — the technology AI literacy targets
@@ -320,3 +322,4 @@ Verification is the teachable counterweight, and [[automation-bias]] names what 
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Critical AI and media literacies as the civic counterweight to cognitive outsourcing
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR implemented across 13 sections: readings, peer feedback, rubric-driven AI feedback, reflection
 
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria and four metaphors for teaching critical AI literacy

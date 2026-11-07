@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 230
+**Total concepts:** 231
 
 ## Foundations of AI in education
 
@@ -58,6 +58,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`game-based-learning`** — Game-Based Learning — phrases: game-based learning; games; games for learning; gamification; gamified; gaming; GBL; serious games
 - **`inquiry-based-learning`** — Inquiry-Based Learning — phrases: inquiry based learning; inquiry learning; inquiry-based learning
 - **`learning-by-teaching`** — Learning by Teaching — phrases: learning by teaching; peer teaching; teach-back; teachable agents
+- **`metaphors-and-analogies`** — Metaphors and Analogies — phrases: analogies; analogy; analogy in teaching; conceptual metaphor; metaphor; metaphor in education; metaphors; metaphors and analogies
 - **`online-teaching-and-learning`** — Online Teaching and Learning — phrases: distance education; distance learning; e learning; e-learning; MOOC; online courses; online education; online learning; online teaching; remote learning; virtual learning
 - **`pedagogical-partnerships`** — Pedagogical Partnerships — phrases: co-creation with students; pedagogical partnership; pedagogical partnerships; student partnership; student-staff partnership; students as partners
 - **`pedagogical-patterns`** — Pedagogical Patterns — phrases: activity sequence; activity sequences; instructional pattern; instructional patterns; instructional sequence; instructional sequences; learning sequence; learning sequences; pedagogical pattern; pedagogical patterns; teaching pattern; teaching patterns

@@ -17,7 +17,7 @@ page_kind: [framework]
 
 ## Introduction
 
-The paper opens by noting that, just as cooking lies on a continuum between preparing a meal entirely from scratch and ordering fast food, learning with AI spans a spectrum between doing all the work unaided and relying entirely on the tool. The Thermomix provides a culturally resonant, emotionally charged analogy that moves the debate away from "AI good or bad" toward how tool use shapes learning processes, identity, and agency.
+The paper opens by noting that, just as cooking lies on a continuum between preparing a meal entirely from scratch and ordering fast food, learning with AI spans a spectrum between doing all the work unaided and relying entirely on the tool. The [[metaphors-and-analogies|Thermomix]] provides a culturally resonant, emotionally charged analogy that moves the debate away from "AI good or bad" toward how tool use shapes learning processes, identity, and agency.
 
 ## The ICAP and SAMR frameworks
 

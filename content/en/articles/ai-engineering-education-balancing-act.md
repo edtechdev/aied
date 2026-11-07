@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.16626.md']
 confidence: high
 ---
 
-> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, [[cognitive-offloading|overreliance]], and [[academic-integrity|academic integrity]]. Analyzes two dominant metaphors — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
+> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, [[cognitive-offloading|overreliance]], and [[academic-integrity|academic integrity]]. Analyzes two dominant [[metaphors-and-analogies|metaphors]] — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
 
 ## Key Findings
 

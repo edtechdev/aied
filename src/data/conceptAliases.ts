@@ -144,6 +144,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'medical-education': ['clinical', 'clinical education', 'health professions', 'health professions education', 'medical and health education', 'medical education', 'medical school', 'medicine'],
   'meta-analysis-systematic-review': ['literature review', 'meta-analysis', 'meta-analytic', 'PRISMA', 'scoping review', 'systematic review', 'systematically review'],
   'metacognition': ['meta-cognition', 'meta-cognitive', 'metacognition', 'metacognitive', 'self-monitoring'],
+  'metaphors-and-analogies': ['analogies', 'analogy', 'analogy in teaching', 'conceptual metaphor', 'metaphor', 'metaphor in education', 'metaphors', 'metaphors and analogies'],
   'misconceptions': ['AI misconceptions', 'learner misconceptions', 'misconception', 'misconceptions', 'misconceptions about AI', 'student misconceptions about AI'],
   'mixed-methods-research': ['mixed methods', 'mixed-methods'],
   'motivation': ['achievement goal', 'achievement goals', 'extrinsic motivation', 'goal orientation', 'goal orientations', 'intrinsic motivation', 'learner motivation', 'motivation', 'motivational', 'student motivation'],
