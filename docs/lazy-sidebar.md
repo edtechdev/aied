@@ -12,8 +12,14 @@ available on demand.
   strand's groups and links. The response is cached by the browser; opening a
   second strand reuses the same request.
 - Selecting the FAQ tab fetches the same response and replaces the five-item
-  teaser with all FAQs in the existing weight order. The teaser remains the
-  fallback if the request fails.
+  teaser with the authored FAQ sections from `/faq`; each section expands to its
+  questions. The teaser remains the fallback if the request fails.
+- FAQ and concept links use the same compact list typography as the starred
+  panel: 0.85rem, 1.4 line height, 0.22rem/0.6rem padding, no card borders, and
+  an 8% tint on hover.
+- The local concept list uses the existing localized “Connected concepts”
+  wording, so an article page no longer shows a second heading called
+  “Concepts” beneath the Concepts tab.
 - The full taxonomy is not in the page HTML: initial pages contain ten empty
   disclosure bodies and five FAQ links, not the 230 concepts or 44 FAQs.
 - The endpoint is generated for every configured locale and uses the same
@@ -27,17 +33,17 @@ Compared with the compact-navigation build (`1,348,018,672` published bytes,
 
 | Measure | Compact | Lazy |
 |---|---:|---:|
-| Published bytes | 1,348,018,672 | 1,391,527,194 |
-| HTML bytes | 1,207,306,916 | 1,249,604,881 |
+| Published bytes | 1,348,018,672 | 1,399,635,430 |
+| HTML bytes | 1,207,306,916 | 1,257,390,921 |
 | Taxonomy JSON files | 0 | 33 (one per locale) |
 | HTML pages | 11,888 | 11,888 |
 
-The lazy branch adds about **43.5 MB published / 42.3 MB HTML** over the compact
+The lazy branch adds about **51.6 MB published / 50.1 MB HTML** over the compact
 shell. That is the price of restoring access to the complete lists: ten
-disclosures, the bundled loader, and about 25–34 KB of taxonomy JSON per locale.
-It remains roughly **549 MB smaller in HTML** than the original full-sidebar
-build (`1,798,456,557` bytes), because the complete tree is still absent from
-every page.
+disclosures, the grouped FAQ sections, the bundled loader, and about 25–34 KB of
+taxonomy JSON per locale. It remains roughly **541 MB smaller in HTML** than the
+original full-sidebar build (`1,798,456,557` bytes), because the complete tree is
+still absent from every page.
 
 The measurement includes the inline loader that Astro emits into each page
 (~2.2 KB). Moving that module to an external shared asset would recover part of
@@ -52,7 +58,10 @@ the difference; that is a separate Stage B change.
   translated locales, the endpoint falls back to the English page instead of
   inventing a missing locale URL.
 - Browser check: opening the first strand rendered 4 groups / 28 links; opening
-  the FAQ tab replaced the five teaser links with all 44.
+  the FAQ tab rendered ten section disclosures, the first open with its two
+  questions; opening the second section brought the rendered FAQ-link count to 6.
+- FAQ and concept link computed styles matched the starred list: 15.3px font,
+  3.96px × 10.8px padding, 21.42px line height, no border.
 - Arabic page retained `dir="rtl"`, loaded `/aied/taxonomy/ar.json`, and rendered
   Arabic group and concept titles with localized hrefs.
 

@@ -27,28 +27,25 @@ const chrome = strings(locale).ui.chrome;
 
 <style>
   .faq-sidebar-list {
-    padding: 0.25rem 0 0.5rem 0;
+    padding: 0.15rem 0 0.4rem 0;
     display: flex;
     flex-direction: column;
-    gap: 0.35rem;
+    gap: 0;
   }
   .faq-sidebar-link {
     display: block;
     width: 100%;
     font-size: 0.85rem;
     line-height: 1.4;
-    padding: 0.45rem 0.65rem;
+    padding: 0.22rem 0.6rem;
     color: var(--muted-color);
     text-decoration: none;
-    border-radius: 6px;
-    border: 1px solid var(--card-border-color);
-    background: color-mix(in srgb, var(--primary) 4%, transparent);
-    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    border-radius: 4px;
+    transition: background 0.15s, color 0.15s;
   }
   .faq-sidebar-link:hover {
     color: var(--primary);
-    background: color-mix(in srgb, var(--primary) 12%, transparent);
-    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 8%, transparent);
   }
   .faq-sidebar-empty {
     padding: 0.25rem 0.6rem;

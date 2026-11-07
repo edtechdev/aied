@@ -16,6 +16,7 @@ import { localeDir, hasTranslation, DEFAULT_LOCALE } from '../i18n/config';
 import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { strings } from '../i18n';
+import { connectedHeadings } from '../i18n/sectionHeadings';
 import { localizedTitles, localizedTitle } from '../i18n/localizedTitles';
 import { DEFAULT_STARRED } from '../stores/stars';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom, taxonomyHeading } from '../i18n/config';
@@ -67,6 +68,7 @@ setTranslationMap(translationMap);
 /** Direction of the locale being viewed; the chrome mirrors for an RTL locale. */
 const ui = strings(locale).ui;
 const chrome = ui.chrome;
+const relatedConceptsLabel = connectedHeadings(locale).connectedConcepts;
 // Chrome strings carry {placeholders} so a translation can move them around.
 const fill = (template: string, vars: Record<string, string | number>) =>
   template.replace(/\{(\w+)\}/g, (_, key: string) => String(vars[key] ?? ''));
@@ -1077,18 +1079,86 @@ const recentConceptItems = recentConcepts.map(c => {
     }
     .compact-strand[open] > summary::after { transform: rotate(90deg); }
     .compact-strand-body { padding: 0.1rem 0 0.45rem 0.45rem; }
-    .compact-strand .nav-group { margin: 0.25rem 0 0; }
-    .compact-strand .nav-group-label {
-      font-size: 0.64rem;
+    :global(.compact-strand .nav-group) { margin: 0.25rem 0 0; }
+    :global(.compact-strand .nav-group-label) {
+      font-size: 0.72rem;
       font-weight: 600;
       letter-spacing: 0.05em;
       text-transform: uppercase;
       color: var(--muted-color);
       margin-bottom: 0.15rem;
     }
-    .compact-strand .nav-list a {
-      padding: 0.2rem 0.45rem;
-      font-size: 0.8rem;
+    :global(.compact-strand .nav-list) {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      border-inline-start: 1px solid var(--muted-border-color);
+    }
+    :global(.compact-strand .nav-list li) { margin: 0; }
+    :global(.compact-strand .nav-list a) {
+      display: block;
+      padding: 0.22rem 0.6rem;
+      border-radius: 4px;
+      color: var(--muted-color);
+      font-size: 0.85rem;
+      line-height: 1.4;
+      text-decoration: none;
+    }
+    :global(.compact-strand .nav-list a:hover) {
+      color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 8%, transparent);
+    }
+    :global(.faq-groups) { padding: 0; }
+    :global(.faq-group) { margin: 0; }
+    :global(.faq-group > summary) {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.3rem 0.9rem 0.15rem;
+      color: var(--muted-color);
+      font-size: 0.72rem;
+      font-weight: 600;
+      line-height: 1.35;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      cursor: pointer;
+      list-style: none;
+    }
+    :global(.faq-group > summary::-webkit-details-marker) { display: none; }
+    :global(.faq-group > summary::marker) { content: none; }
+    :global(.faq-group > summary::after) {
+      content: '';
+      width: 0;
+      height: 0;
+      flex-shrink: 0;
+      margin-inline-start: auto;
+      border-top: 4px solid transparent;
+      border-bottom: 4px solid transparent;
+      border-inline-start: 5px solid var(--muted-color);
+      transition: transform 0.15s ease;
+    }
+    :global(.faq-group[open] > summary::after) { transform: rotate(90deg); }
+    :global(.faq-group-body) { padding: 0 0 0.35rem; }
+    :global(.faq-group .faq-sidebar-list) {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      padding: 0;
+    }
+    :global(.faq-group .faq-sidebar-link) {
+      display: block;
+      padding: 0.22rem 0.6rem;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      color: var(--muted-color);
+      font-size: 0.85rem;
+      line-height: 1.4;
+      text-decoration: none;
+    }
+    :global(.faq-group .faq-sidebar-link:hover) {
+      color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 8%, transparent);
     }
     .sidebar-context {
       padding-top: 0.65rem;
@@ -1103,14 +1173,23 @@ const recentConceptItems = recentConcepts.map(c => {
       line-height: 1.35;
       text-transform: uppercase;
     }
-    .sidebar-context-current,
-    .sidebar-related a {
-      display: block;
-      padding: 0.28rem 0.45rem;
-      border-radius: 5px;
-      color: var(--color);
-      font-size: 0.82rem;
+    .sidebar-related-label {
+      margin: 0.45rem 0 0.1rem;
+      color: var(--muted-color);
+      font-size: 0.64rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
       line-height: 1.35;
+      text-transform: uppercase;
+    }
+    .sidebar-context-current,
+    .sidebar-context .sidebar-related a {
+      display: block;
+      padding: 0.22rem 0.6rem;
+      border-radius: 4px;
+      color: var(--color);
+      font-size: 0.85rem;
+      line-height: 1.4;
       text-decoration: none;
     }
     .sidebar-context-current {
@@ -1645,17 +1724,20 @@ const recentConceptItems = recentConcepts.map(c => {
                 {conceptMap[contentSlug]}
               </a>
               {relatedConceptItems.length > 0 && (
-                <ul class="nav-list sidebar-related">
-                  {relatedConceptItems.map((item) => (
-                    <li><a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.title}</a></li>
-                  ))}
-                </ul>
+                <>
+                  <div class="sidebar-related-label">{relatedConceptsLabel}</div>
+                  <ul class="nav-list sidebar-related">
+                    {relatedConceptItems.map((item) => (
+                      <li><a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.title}</a></li>
+                    ))}
+                  </ul>
+                </>
               )}
             </div>
           )}
           {!currentConcept && relatedConceptItems.length > 0 && (
             <div class="sidebar-context">
-              <div class="sidebar-context-label">{chrome.concepts}</div>
+              <div class="sidebar-context-label">{relatedConceptsLabel}</div>
               <ul class="nav-list sidebar-related">
                 {relatedConceptItems.map((item) => (
                   <li><a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.title}</a></li>

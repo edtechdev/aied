@@ -15,6 +15,8 @@ import type { APIContext } from 'astro';
 import { getCollection } from 'astro:content';
 import siteConfig from '../../config/siteConfig';
 import { conceptIndex } from '../../data/conceptIndex';
+import { faqIndex } from '../../data/faqIndex';
+import { strings } from '../../i18n';
 import { hasTranslation, localeHref, taxonomyHeading, translationMapFrom } from '../../i18n/config';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 import { orderFaqsForSidebar, sectionAnchor } from '../../lib/compactNav';
@@ -76,7 +78,32 @@ export async function GET({ params }: APIContext) {
     };
   });
 
-  return new Response(JSON.stringify({ locale, sections, faqs: faqItems }), {
+  // FAQ groups use the same authored sections as /faq, with localized headings.
+  // Any FAQ the registry has not filed yet goes into a trailing section instead
+  // of disappearing from the sidebar.
+  const faqCopy = strings(locale).faq;
+  const faqBySlug = new Map(faqItems.map((item) => [item.slug, item]));
+  const listed = new Set(faqIndex.flatMap((section) => section.items));
+  const faqSections = faqIndex
+    .map((section) => ({
+      anchor: sectionAnchor(section.heading),
+      label: faqCopy.sectionHeadings?.[section.heading] ?? section.heading,
+      items: section.items
+        .map((slug) => faqBySlug.get(slug))
+        .filter((item): item is (typeof faqItems)[number] => !!item),
+    }))
+    .filter((section) => section.items.length > 0);
+  const unlistedFaqs = faqItems.filter((item) => !listed.has(item.slug));
+  if (unlistedFaqs.length > 0) {
+    const heading = 'More questions';
+    faqSections.push({
+      anchor: sectionAnchor(heading),
+      label: faqCopy.sectionHeadings?.[heading] ?? heading,
+      items: unlistedFaqs,
+    });
+  }
+
+  return new Response(JSON.stringify({ locale, sections, faqs: faqItems, faqSections }), {
     headers: {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'public, max-age=3600, stale-while-revalidate=86400',
