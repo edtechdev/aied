@@ -125,3 +125,20 @@ export function compactFaqs<T extends { slug: string }>(
   }
   return out;
 }
+
+/**
+ * The FAQ order used by both the server-rendered compact tab and the lazily
+ * fetched full list. Keeping one comparator prevents the first five entries
+ * changing when the full list arrives. Highest weight first; ties fall back to
+ * oldest `created` so a bulk import does not reorder alphabetically.
+ */
+export function orderFaqsForSidebar<
+  T extends { data: { weight?: number | null; created?: string | null } },
+>(faqs: T[]): T[] {
+  return faqs.slice().sort((a, b) => {
+    const weight = (b.data.weight ?? 0) - (a.data.weight ?? 0);
+    return weight !== 0
+      ? weight
+      : (a.data.created ?? '').localeCompare(b.data.created ?? '');
+  });
+}

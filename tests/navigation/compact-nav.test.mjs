@@ -5,6 +5,7 @@ import {
   conceptContext,
   facetConceptSlugs,
   compactFaqs,
+  orderFaqsForSidebar,
 } from '../../src/lib/compactNav.ts';
 
 const sections = [
@@ -71,5 +72,17 @@ test('compact FAQs prefer connected FAQs, then ranked fallback, without duplicat
   assert.deepEqual(
     compactFaqs(faqs, [], 5).map((f) => f.slug),
     ['one', 'two', 'three'],
+  );
+});
+
+test('FAQ sidebar order uses weight then creation date', () => {
+  const faqs = [
+    { slug: 'low', data: { weight: 1, created: '2026-01-01' } },
+    { slug: 'newer', data: { weight: 5, created: '2026-02-01' } },
+    { slug: 'older', data: { weight: 5, created: '2026-01-15' } },
+  ];
+  assert.deepEqual(
+    orderFaqsForSidebar(faqs).map((f) => f.slug),
+    ['older', 'newer', 'low'],
   );
 });
