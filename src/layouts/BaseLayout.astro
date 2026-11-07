@@ -54,17 +54,26 @@ const pageRoute = route ?? (routeFromUrl === '/' ? '/' : routeFromUrl);
 // counterparts in the other languages and an untranslated page does not.
 const translations = await getCollection('translations');
 const translationMap = translationMapFrom(translations as any);
+// Newsletter translations live in their own collection, so add their issue routes
+// to the same map the switcher and hreflang tags consult.
+const newsletterTranslations = await getCollection('newsletterTranslations');
+for (const n of newsletterTranslations) {
+  const [code, , file] = n.id.split('/');
+  if (!code || !file) continue;
+  (translationMap[code] ||= []).push(`/news/${file.replace(/\.md$/, '')}`);
+}
 // Publish it before anything renders: the link helpers consult it, so a link in
 // authored copy to a translated content page moves into the locale with the page.
 setTranslationMap(translationMap);
 
 // The language switcher is offered where a translation is meaningful: the three
-// page-level routes and the concept, FAQ and resource pages. Article pages are
-// hundreds of single-paper summaries that are not translated, so the switch would
-// only ever say "English only" there — it is hidden instead. The header holds no
-// switcher either: at narrow widths it pushed the theme toggle off screen, so it
-// lives at the top of the right sidebar (desktop-tall layouts, >= 1280px) and above
-// "On this page" in the content column below that.
+// page-level routes, the concept, FAQ and resource pages, and newsletter issues
+// that have a translated counterpart. Article pages are hundreds of single-paper
+// summaries that are not translated, so the switch would only ever say "English
+// only" there — it is hidden instead. The header holds no switcher either: at
+// narrow widths it pushed the theme toggle off screen, so it lives at the top of
+// the right sidebar (desktop-tall layouts, >= 1280px) and above "On this page" in
+// the content column below that.
 /** Direction of the locale being viewed; the chrome mirrors for an RTL locale. */
 const ui = strings(locale).ui;
 const chrome = ui.chrome;
@@ -100,7 +109,8 @@ const contentDir = pageIsLocalized ? pageDir : 'ltr';
 const showSwitcher =
   pageRoute === '/' ||
   (TRANSLATED_ROUTES as readonly string[]).includes(pageRoute) ||
-  /^\/(concepts|faqs|resources)\//.test(pageRoute);
+  /^\/(concepts|faqs|resources)\//.test(pageRoute) ||
+  /^\/news\/[^/]+$/.test(pageRoute);
 
 const translatedLocales = siteConfig.i18n.locales.filter(
   (l) =>
