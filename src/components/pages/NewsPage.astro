@@ -1,7 +1,8 @@
 ---
 // Newsletter archive, rendered for any locale from src/i18n/pages/news.<locale>.ts.
-// The issues are English-only, so the listing links out to their English URLs and
-// only the surrounding copy and the dates follow the reader's language.
+// English issues are canonical; when a locale has a published translation, the
+// listing uses its title, summary, and localized URL. Untranslated issues keep
+// their English title, summary, and URL, matching the site's fallback rule.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';

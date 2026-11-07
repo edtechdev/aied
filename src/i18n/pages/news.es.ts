@@ -35,7 +35,7 @@ const es: NewsStrings = {
   introHtml:
     'Un resumen semanal de la <a href="/aied/">base de conocimiento sobre IA en la educación</a> sobre qué significa la investigación nueva publicada en la semana para el profesorado, los desarrolladores, el personal investigador y la administración. Cada número enlaza el trabajo que respalda cada afirmación, y el trabajo interno al final registra qué cambió en el propio sitio.',
   feedsHtml:
-    'Dos canales RSS lo distribuyen. El <a href="/aied/news/rss.xml">canal del boletín</a> contiene solo los números, una entrada por semana. El <a href="/aied/rss.xml">canal de la base de conocimiento</a> contiene cada resumen nuevo de artículo a medida que se añade, es decir, el mismo material del que se nutren los números, a un ritmo mucho mayor.',
+    'Dos canales RSS lo distribuyen. El <a href="/aied/es/news/rss.xml">canal del boletín en español</a> contiene solo los números traducidos, una entrada por semana. El <a href="/aied/rss.xml">canal de la base de conocimiento</a> contiene cada resumen nuevo de artículo a medida que se añade, es decir, el mismo material del que se nutren los números, a un ritmo mucho mayor.',
   emailHtml:
     'Para recibir cada número por correo electrónico, pega el canal del boletín en <a href="https://blogtrottr.com/">Blogtrottr</a>, un servicio gratuito de terceros que envía un canal a tu bandeja de entrada con la frecuencia que elijas. Sus mensajes incluyen publicidad.',
   linkedinHtml:
