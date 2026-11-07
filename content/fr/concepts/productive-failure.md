@@ -1,7 +1,7 @@
 ---
 title: Échec productif
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-01T10:19:47-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Les apprenants génèrent des solutions sans soutien cognitif, en s'appuyant sur
 - **Prépare les apprenants à apprendre de l'enseignement** — ils savent ce qu'ils ne savent pas et peuvent relier le nouveau matériau à leurs tentatives.
 - **Améliore le transfert de connaissances et les compétences durables** ([[critical-thinking|pensée critique]], résilience, communication), réduit la crainte de faire des erreurs et favorise des attitudes positives envers l'apprentissage.
 
-Le cadre du PF a été étendu par des dispositifs apparentés, notamment la **vicarious failure**, la **solution diversity** et l'**adaptive guidance** (Braas et coll., 2025 ; Brand et coll., 2025).
+Le cadre du PF a été étendu par des dispositifs apparentés, notamment la **vicarious failure**, la **solution diversity** et l'**adaptive guidance** (Braas et coll., 2025 ; Brand et coll., 2025). Les cas peuvent fournir l'espace de problème partagé pour cette première tentative, bien que la base de preuves sur l'apprentissage par cas n'ait pas encore testé directement cet appariement ([[case-based-learning]]).
 
 ## Apprendre de ses bévues et apprendre de ses erreurs
 
@@ -108,6 +108,9 @@ L'échec productif se relie aux [[learning-theories|théories de l'apprentissage
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — Les cas comme espace de problème partagé pour la première tentative
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

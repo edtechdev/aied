@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioémotionnel"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ L'apprentissage socioémotionnel est étroitement lié à l'intelligence émotio
 - **Bien-être et impact affectif de l'IA :** les recherches examinent la manière dont l'usage croissant de l'IA générative affecte les compétences socioémotionnelles des élèves, leur bien-être, leur sociabilité, ainsi que leur sentiment de confiance et leur empathie — des préoccupations qui ont motivé l'appel de l'OCDE à une littératie en IA ancrée dans des valeurs humanistes, sociales et émotionnelles.
 - **Dimensions affectives de l'IA :** le SEL se relie à l'[[affective-computing|informatique affective]] et aux recherches sur le [[well-being|bien-être]], en examinant comment les systèmes d'IA peuvent soutenir ou saper l'apprentissage émotionnel et relationnel.
 - **Déficit de politiques sur l'intersection IA × SEL :** une [[meta-analysis-systematic-review|revue systématique]] de 65 articles sur l'intersection IA–SEL ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) met en évidence un « déficit de politiques » substantiel : près des trois quarts des études n'énoncent aucune implication politique, et les rares qui le font manquent souvent de recommandations propres à chaque acteur. La revue relie l'engagement politique au lieu de publication et met en garde contre le piège « techno-solutionniste » dans lequel le potentiel technique est mis en avant tandis que les conditions institutionnelles d'une mise en œuvre responsable restent sous-spécifiées. Elle propose un cadre en « questions WH » (Who, What, Why, When/Where, How) pour passer de « l'implication comme réflexion après coup » à « l'implication comme méthodologie », reliant l'innovation [[ai-education|IA pour le SEL]] à la [[educational-policy-ai|politique éducative]] et à la [[governance|gouvernance]].
+
+- **Une revue de cartographie de 43 études sur l'IA générative et le SEL.** [[liu-genai-sel-mapping-review-2026|Liu et coll. (2026)]] ont codé 43 études dans six domaines du SEL et ont trouvé des compétences cognitives dans 24, l'identité dans 15, le social dans 14 et l'émotion dans 7, tandis que les valeurs (4) et les perspectives (3) étaient marginales. Dix-neuf affordances se regroupaient en sept genres ; 38 des 43 études n'atteignaient que le palier de transparence le plus faible. Cet inventaire montre où les preuves sur le SEL sont épaisses et où le reporting éthique est mince.
 
 ## Sous-thèmes potentiels du SEL dans la recherche à l'ère de l'IA
 
@@ -129,6 +131,8 @@ Le SEL se relie à la [[ai-literacy|littératie en IA]] (comme complément qui r
 - [[higher-ed]]
 
 ## Articles liés
+
+- [[liu-genai-sel-mapping-review-2026]] — Une revue de cartographie de 43 études sur l'IA générative et le SEL : couverture inégale des compétences et reporting éthique mince
 
 - [[sec-ai-literacy-narrative-review-2026]] — Intégrer les compétences socioémotionnelles à la littératie en IA
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — L'écart de confiance : points de vue des enseignants et des étudiants

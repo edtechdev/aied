@@ -1,7 +1,7 @@
 ---
 title: "Que devraient apprendre les étudiants pour des carrières où l'IA est courante ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -90,6 +90,8 @@ Un artefact poli vous dit ce qui a été produit dans les conditions autorisées
 Choisissez ces exigences parce qu'elles soutiennent une capacité énoncée, et dites laquelle chaque évaluation mesure. Les étudiants acceptent la pratique indépendante quand elle est liée à ce à quoi on les prépare ; « vous en aurez besoin un jour » fait moins de travail que montrer en quoi le calcul est ce qui leur permettra plus tard de repérer une mauvaise estimation.
 
 Le versant du soutien a son propre risque. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] ont trouvé l'usage de la [[generative-ai|GenAI]] positivement associé à la dépendance à la GenAI, et la dépendance négativement associée à la fois à la [[critical-thinking|pensée critique]] et à l'employabilité dans leur modèle d'enquête. C'est une association et non une affirmation causale, et elle pointe la question de conception : un cours qui n'évalue jamais que la performance soutenue peut entraîner la dépendance qu'il signale.
+
+La même logique s'applique avant que les étudiants n'entrent sur le marché du travail. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modélisent l'assistance par l'IA comme une séquence dans laquelle la compétence croît par la pratique indépendante et décroît quand les travailleurs acceptent les réponses de l'IA. Dans leur modèle, les novices peuvent rester piégés à un faible niveau de compétence et les experts peuvent en perdre alors même que l'exactitude de la production reste élevée, et des travailleurs stratégiques peuvent résoudre seuls même quand l'IA est plus exacte, parce que la compétence future a de la valeur. L'article est théorique, et non une intervention, mais il aiguise la question de programme : planifiez et récompensez la pratique indépendante plutôt que de supposer qu'une production assistée par l'IA construit la capacité à superviser le travail.
 
 Pour la revue de programme, séparez les mesures. La performance en cours, la littératie en IA démontrée, l'évaluation par un superviseur de stage, le statut d'emploi et la qualité de l'emploi sont des résultats différents avec des horizons temporels différents, et une seule intervention ne peut pas établir tous ces résultats. La page sur [[ai-literacy-evidence|les preuves de la littératie en IA]] est l'inventaire honnête de ce que les études d'intervention soutiennent réellement.
 

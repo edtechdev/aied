@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Les enseignants portent des modèles mentaux hétérogènes et souvent profondé
 
 Une méthode pratique pour mettre au jour ces modèles mentaux est l'**atelier d'analyse des métaphores**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]] ont conçu et validé un atelier collaboratif peu technique, destiné aux enseignants, au personnel et aux étudiants, pour leur permettre d'articuler leurs métaphores de l'IA générative. Les métaphores des participants se sont regroupées en quatre catégories — *Functions* (fonctions, à la manière d'un outil : « Swiss army knife »), *Roles* (rôles, à l'image de l'humain : « helper », « frenemy »), *Qualities* (qualités, inconnaissables : « black box », « slippery slope ») et *Agency* (agentivité, menaçante : « competitor », « sinister robot ») — faisant émerger des tensions persistantes entre l'[[agency|agentivité]] humaine et la machine, et entre le connu et l'inconnaissable. L'atelier a aidé les participants à mettre au jour leurs hypothèses, à se relier au-delà des rôles, à se sentir « pas seuls » et à réfléchir à l'[[ethics|éthique]] de l'IAG, sans exiger d'expertise technique. Comme outil de développement, il donne aux concepteurs de programmes un moyen à faible barrière de mettre au jour les hypothèses d'une équipe *avant* de repenser l'[[assessment|évaluation]] ou de déployer une politique, et d'affronter directement les peurs — y compris la peur que l'IA ne remplace les [[teacher-role|fonctions d'enseignement]]. ([[fear-awe-genai-metaphor-workshops-2025]])
 
+La question de conception plus large est de savoir comment choisir une métaphore en premier lieu. La page [[metaphors-and-analogies|métaphores et analogies]] rassemble les données probantes transversales, et [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins et Furze (2025)]] proposent quatre critères : l'accessibilité, la puissance explicative, le potentiel de littératie critique en IA et l'utilité pédagogique.
+
 ### L'IAG comme travail sur l'identité, et pas seulement comme montée en compétences
 
 Un point de vue informé par la théorie des seuils recadre l'intégration de l'IAG comme une **transformation ontologique** pour les enseignants, et non comme un écart de compétences. Appliquant la théorie des concepts-seuils (Meyer & Land), Laidlaw soutient que l'IAG présente les cinq caractéristiques d'un concept-seuil — *transformative* (elle reconstruit les hypothèses relatives à l'évaluation, à la pédagogie et au rôle professionnel), *troublesome* (elle viole les croyances relatives à l'originalité, à l'agentivité humaine et au lien effort–réussite), *irreversible*, *integrative* (elle relie technologie, pédagogie, épistémologie et identité) et *bounded* (la maîtrise de l'IAG devient un nouveau marqueur de valeur professionnelle). ([[laidlaw-genai-identity-crisis-faculty-2026]])
@@ -82,9 +84,7 @@ Pour les responsables du développement des enseignants, les dirigeants académi
 
 **Traiter les quatre moteurs de l'adoption, et pas seulement la connaissance.** La confiance, les attitudes, le soutien et les préoccupations prédisent si les enseignants adoptent effectivement l'IA — un atelier purement cognitif qui les ignore a peu de chances de changer la pratique. Concevoir le développement de manière à construire la confiance par l'usage pratique, fournir un soutien continu (et non une formation ponctuelle), et mettre activement au jour les préoccupations des enseignants pour y répondre. ([[teacher-ai-adoption-confidence]])
 
-
 La confiance et la littératie ne sont pas des cibles interchangeables : dans un modèle d'équations structurelles portant sur 502 répondants du corps professoral universitaire, la littératie en IA était le prédicteur dominant du [[well-being|bien-être]] face à l'IA (β = 0.713), tandis que l'[[self-efficacy|auto-efficacité technologique]] y contribuait peu (β = 0.082), et que le soutien n'atteignait le bien-être qu'indirectement ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Traiter la demande d'orientations et l'adéquation des orientations comme deux problèmes distincts.** Dans une université, les enseignants soutenaient fortement les mesures institutionnelles contre l'usage non éthique de l'IA (M = 4.59) tout en jugeant les orientations existantes les plus faibles (M = 2.99), et ont désigné la [[privacy|protection des données]] et l'inclusivité culturelle comme leurs connaissances les plus faibles — une cible concrète pour le développement professionnel ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
@@ -135,6 +135,9 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 - [[ai-literacy]]
+
+- [[metaphors-and-analogies]] — L'élicitation de métaphores et la conception d'analogies dans le développement éducatif
+
 - [[educational-policy-ai]]
 - [[higher-ed]]
 - [[k-12]]
@@ -153,6 +156,9 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Comment les métaphores des enseignants d'ingénierie construisent (et limitent) la compréhension de l'IA
 - [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (atelier sur les métaphores réunissant enseignants, personnel et étudiants)
+
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Quatre critères et quatre métaphores pour enseigner la littératie critique en IA
+
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: la littératie en IA chez les enseignants de langues
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]

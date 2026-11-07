@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage autorégulé"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -54,18 +54,15 @@ L'apprentissage autorégulé est le processus par lequel les apprenants gèrent 
 
 Les apprenants autorégulés compétents emploient des stratégies cognitives pour améliorer la réussite et utilisent la [[metacognition|métacognition]] pour affiner continuellement leurs processus d'apprentissage. ([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-
 Un travail empirique dans un cours médiatisé par la technologie confirme les liens entre phases : dans une étude de stochastique adaptative de huit semaines (194 étudiants), la valeur de la tâche, le sentiment d'efficacité personnelle, l'orientation vers les objectifs et les émotions positives dans la phase pré-actionnelle prédisaient le comportement de régulation actionnel tandis que les émotions négatives l'entravaient, et la satisfaction post-actionnelle alimentait en retour la phase pré-actionnelle suivante ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh et Fromm (2026)]]).
 
 Une cartographie systématique de 84 études sur l'IA et l'autorégulation a montré que la recherche se concentrait sur les étudiants de l'enseignement supérieur et sur les aspects métacognitifs et cognitifs de l'autorégulation, la dimension motivationnelle étant peu explorée et plus d'un tiers des études ne spécifiant aucune théorie de l'apprentissage autorégulé ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et coll. (2025)]]).
 
 De façon cruciale, l'apprentissage autorégulé autour de l'IA est façonné par la *perception* autant que par le comportement : [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et coll.]] montrent que le fait que les étudiants perçoivent la rétroaction comme provenant de l'IA ou d'un humain affecte significativement leur apprentissage autorégulé et leur comportement de révision — un rappel que le cadrage social de l'IA, et pas seulement son contenu, change la manière dont les apprenants se régulent autour d'elle.
 
-
 Un mode d'échec siège avant même que la régulation ne commence : la procrastination dans l'apprentissage assisté par l'IA générative — un retard inutile à entamer un travail soutenu par l'IA générative malgré une intention authentique de l'utiliser. Sur 1 243 étudiants chinois de premier cycle, un usage plus fréquent de l'IA générative s'accompagnait d'une moindre procrastination (β = −0,195), et l'anxiété d'apprentissage liée à l'IA générative renforçait le lien intention-retard ([[genai-learning-procrastination-planned-behavior-2026|Li et coll. (2026)]]).
 
 Le point d'entrée de l'IA générative dans le cycle décide de son effet : en cartographiant les phases de préparation, d'exécution et de réflexion de Zimmerman sur des environnements médiatisés par l'IA, un cadre de co-agentivité soutient que le point d'entrée détermine si l'outil amplifie ou érode le sentiment de contrôle de l'apprenant, et que le délestage ne soutient l'apprentissage transformationnel que lorsque la décision est intentionnelle plutôt que routinière ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
-
 
 Un sondage transversal portant sur 434 étudiants de premier cycle en [[special-education|éducation spécialisée]] mesure une telle chaîne : la littératie à l'[[generative-ai|IA générative]] était positivement associée aux comportements d'apprentissage autorégulé assisté par l'IA générative (B total = 0,701), passant principalement par l'[[agency|agentivité]] d'apprentissage (B = 0,345) plutôt que par les émotions de défi (B = 0,061) ([[genai-literacy-srl-special-education-2026|Yang et coll. (2026)]]).
 
@@ -116,7 +113,6 @@ Les outils d'IA peuvent entrer dans cette boucle à différents points :
 
 La gouvernance de l'outil est elle-même une facette mesurable : une validation en deux vagues menée auprès d'apprenants chinois d'anglais langue étrangère (EFA N = 305 ; CFA N = 342) sépare six dimensions de régulation et nomme la *régulation environnementale* — vérifier l'exactitude des sorties générées, filtrer les ressources suggérées et fixer des limites à la dépendance — comme une dimension à part entière ([[genai-srl-l2-writing-scale-2026|Wang, Zhang et Zhang (2026)]]).
 
-
 Classer avant de déléguer : [[scan-framework-task-assignment-generative-ai-2025|Tsim et Gutoreva (2025)]] transforment l'autorégulation en un protocole par tâche — étiqueter chaque sous-tâche Substitute, Complement, Aid ou Non-negotiable, le justifier dans une brève note métacognitive, et conserver une piste d'audit des invites, des brouillons et des révisions humaines — le cycle se répétant de sorte que l'assignation d'une tâche éclaire la suivante.
 **Chaque invite comme trace de régulation.** Lue comme autant d'événements d'apprentissage autorégulé, l'analyse de 429 invites soumises par 23 étudiants a montré que la composition des structures variait avec la conception de la tâche, tandis que 53 des 59 soumissions restaient proches de la sortie du modèle, ce qui situe la régulation dans l'échange plutôt que dans l'artefact ([[llm-math-homework-offloading-traces-2026|Kontorovich et Wallach (2026)]]).
 **L'interaction elle-même comme objet de régulation.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström et Palmqvist (2026)]] documentent la même exigence de régulation dans la direction opposée : dans une démonstration de huit tours employant un chatbot pour préparer la réponse à un [[summative-assessment|examen]] à domicile, la sortie par défaut de l'IA restait à l'extrémité *[[quantitative-research|quantitative]]*, multistructurale de la taxonomie SOLO — polie, prête à être soumise et pédagogiquement mince — et n'atteignait une boucle d'apprentissage utilisable en trois étapes qu'après des interventions répétées au niveau méta (« c'est accablant, peux-tu condenser ? »). Leur conclusion est qu'un usage productif exigeait « les compétences d'autorégulation même que l'outil était censé soutenir » : l'apprenant doit fixer des objectifs incrémentaux, demander des ajustements de difficulté, et réfléchir à ce qui n'est pas encore compris, en plus du contenu disciplinaire lui-même. Ils nomment cette capacité la [[ai-literacy|littératie d'interaction avec l'IA]] et traitent le désengagement de l'outil comme une décision de régulation légitime plutôt que comme un échec de persévérance ([[metacognition|métacognition]]).
@@ -138,6 +134,8 @@ Par exemple :
 - La variante GPT généraliste fournissait simplement des réponses (contournement de l'autorégulation)
 
 ## Données probantes selon les contextes
+
+Une méta-analyse de 34 études (91 tailles d'effet) estime que les interventions fondées sur l'IA ont élevé l'apprentissage autorégulé de g = 0,76, la gestion des ressources (g = 0,93) étant plus forte que les stratégies métacognitives (0,73) ou cognitives (0,48). Le type d'outil et le rôle pédagogique modéraient l'effet ; le statut d'IA générative, la discipline, la durée de l'intervention et la mesure de l'apprentissage autorégulé ne le modéraient pas ([[zhang-ai-self-regulated-learning-meta-analysis-2026|Zhang et coll., 2026]]).
 
 - **Données probantes mixtes et écart de mauvaise calibration.** Une revue rapide de la recherche sur l'IA générative du préscolaire à la 12e année montre que les gains métacognitifs pendant les tâches soutenues ne persistent souvent pas lorsque le soutien est retiré, et que l'IA générative peut accroître l'[[self-report-measures|apprentissage perçu]] même lorsqu'un apprentissage durable est absent (l'écart de mauvaise calibration — les étudiants préféraient l'IA générative à la prise de notes malgré une rétention plus faible). Les étudiants ont besoin d'une formation explicite et appropriée à leur stade pour décider quoi déléguer et quand l'effort indépendant importe. ([[young-people-learning-generative-ai-rapid-review-2026]])
 - **L'apprentissage autorégulé est rarement la cible active.** Sur 394 études sur l'IA générative dans l'enseignement supérieur, l'apprentissage autorégulé et la réflexion figuraient parmi les usages les moins fréquemment mis en œuvre et parmi les résultats les moins souvent visés ([[mapping-genai-higher-ed-scoping-review|Lin et coll. (2026)]]).
@@ -172,7 +170,6 @@ Une grappe d'études Learning Letters (2026) converge vers une tension centrale 
 
 La leçon collective : **l'apprentissage autorégulé est le mécanisme central distinguant l'usage critique de l'usage acritique de l'IA.** Le fait que l'IA générative fonctionne comme un étayage, un raccourci ou un partenaire dépend de la capacité de régulation des apprenants et de la question de savoir si les outils sont conçus pour préserver (plutôt que pour supprimer) les exigences de régulation qui construisent l'expertise.
 
-
 C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 3 003 enseignants en formation chinois, le soutien perçu des outils d'IA menait à la compétence innovante principalement par le sentiment d'[[self-efficacy|efficacité personnelle]] à l'égard de l'IA (60,88% de l'effet total de ce chemin), tandis que le soutien perçu de l'environnement intelligent scolaire y menait principalement par l'apprentissage autorégulé (29,64% contre 18,60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et coll. (2026)]]).
 
 ## Implications
@@ -182,7 +179,6 @@ C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 
 - **Pour les enseignants :** traiter la conscience métacognitive fondée sur l'IA comme le premier levier et la vérifier explicitement. Alatoai et Alshahri l'ont trouvée le plus fort prédicteur de la performance adaptative en STIM (β = 0,38) et ont trouvé le transfert et l'adaptabilité en deuxième position (β = 0,29), si bien que les activités qui font examiner les erreurs aux étudiants et portent une stratégie dans un nouveau contexte de problème font davantage qu'une sollicitation générale de raisonnement critique ou créatif.
 - **Pour la [[educational-policy-ai|politique d'IA]] :** les critères d'approvisionnement devraient demander si un outil développe ou déplace l'autorégulation
 - **Pour les [[research-methods-aied|chercheurs]] :** les études à long terme mesurant les résultats d'apprentissage autorégulé (et pas seulement la performance immédiate) sont essentielles ; Melanou et coll. montrent le gain de cette patience, puisque l'usage réflexif d'un semestre a déplacé la pensée critique (β = 0,43) sans déplacer le gain de connaissances.
-
 
 ## Les agents conversationnels et l'apprentissage autorégulé dans les jeux de simulation
 
@@ -233,6 +229,8 @@ C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 
 - [[reflection]]
 
 ## Articles liés
+
+- [[zhang-ai-self-regulated-learning-meta-analysis-2026]] — Méta-analyse de l'apprentissage autorégulé assisté par l'IA : g = 0,76 sur 34 études, le type d'outil et le rôle pédagogique modérant l'effet (Zhang et coll. 2026)
 
 - [[li-genai-dependency-effort-regulation-2026]] — La dépendance à l'IA générative et les résultats d'apprentissage perçus : la voie de la régulation de l'effort (Li, Zhang et Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Précision par catégorie de l'apprentissage autorégulé segmenté par LLM dans une classe incarnée (Fonteles et coll. 2026)

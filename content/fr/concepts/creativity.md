@@ -1,7 +1,7 @@
 ---
 title: "La créativité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,9 @@ La créativité couvre l'extrémité pensée-divergente du spectre cognitif — 
 ### La créativité et l'IA générative
 
 - **Amplification :** l'IA peut agir comme un partenaire de pensée divergente — en remue-méninges d'alternatives, en produisant des contre-arguments et en offrant des perspectives que l'apprenant n'aurait pas envisagées. Des configurations d'[[agentic-ai|agents multiples]] spécialisées par rôle peuvent restaurer la diversité idéationnelle.
+
+- **La modalité correspond à la phase créative.** Dans une expérience 2 × 2 auprès de 120 étudiants en art et en design, l'IA textuelle employée pendant la divergence surpassait l'IA génératrice d'images sur la performance créative divergente (différence moyenne de 0.823, p ajustée par Holm < 0.001) ([[wei-genai-configurations-creative-phases-2026|Wei et Li (2026)]]). L'avantage de la génération d'images à la convergence n'a pas survécu à la correction de Holm (p ajustée = 0.052), et aucune séquence — y compris Texte-vers-Image — ne surpassait les alternatives sur la performance créative finale. Les gains au niveau des phases ne s'additionnaient pas en un produit supérieur.
+
 - **Risque d'homogénéisation :** une assistance fondée sur un modèle unique peut réduire la diversité des idées entre étudiants, de sorte que le même modèle produit des sorties convergentes. C'est une menace directe pour la créativité dans l'[[writing-education]] et l'[[design-education|enseignement du design]].
 - **L'homogénéisation est une propriété du déploiement, non de l'assistance par l'IA en tant que telle.** Dans une expérimentation d'écriture à 247 participants, l'assistance par un modèle unique comme par deux modèles a élevé la qualité des essais (Δ = 0.332 et 0.234 contre le contrôle), mais seule la condition à deux modèles a restauré la diversité des idées entre participants au niveau de référence ([[multi-agent-llm-social-learning|Kumar et coll. (2026)]]). Les productions convergentes contre lesquelles cette page met en garde sont produites par *un* modèle utilisé par tous : le levier de conception est donc le nombre et la distinction des assistants, non la présence de l'IA.
 - **Protéger l'autonomie créative :** maintenir le processus génératif de l'apprenant dans la boucle — routines « brouillon d'abord », exigence de synthèse originale, et usage de l'IA pour mettre au défi plutôt que pour remplacer — préserve le travail créatif qui produit un apprentissage durable.
@@ -115,6 +118,7 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[arts-design-and-media-education]]
 
 ## Articles liés
+- [[wei-genai-configurations-creative-phases-2026]] — Configurations d'IA générative selon les phases créatives : une expérience 2 × 2 sur la performance créative et les connaissances immédiates en enseignement de l'art et du design
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La génération d'images par IA générative a laissé la performance de conception inchangée mais a abaissé l'efficacité personnelle créative générale
 - [[bicer-genai-pd-math-creativity-2026]] — Comment le développement professionnel guidé par l'IA générative soutient l'engagement des enseignants avec la créativité mathématique, la connaissance du contenu et la connaissance pédagogique du contenu
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Étayage fondé sur les axiomes pour la création littéraire : les prémisses comme unité entre thème et texte, validée seulement en projet (Liu & Zhao 2026)

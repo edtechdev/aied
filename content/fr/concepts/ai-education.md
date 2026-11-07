@@ -1,7 +1,7 @@
 ---
 title: "L'IA en éducation"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-04T18:35:00-05:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -152,6 +152,9 @@ Une [[meta-analysis-systematic-review|revue systématique]] de la littérature d
 Plusieurs thèmes traversent le domaine :
 
 - **Confiance et usage critique :** la [[trust|confiance]], la [[trust-calibration|calibration de la confiance]], la [[ai-sycophancy|sycophancie de l'IA]], la [[critical-thinking|pensée critique]], le [[cognitive-offloading|délestage cognitif]], la [[critical-pedagogy|pédagogie critique]] et la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] (voir aussi [[framing-ai-use-for-students|la manière dont l'usage de l'IA est présenté aux étudiants]]). La manière dont les apprenants et les enseignants décident d'adopter l'IA et de s'y fier est modélisée par la recherche sur l'[[technology-acceptance-model|acceptation technologique]], tandis que les études sur les pays du [[global-south|Sud global]] mettent au premier plan l'équité et le contexte culturel dans l'adoption. Sur le plan empirique, la manière dont l'IA s'explique façonne cette confiance : [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et ses collègues (2025)]] ont montré que l'[[explainable-ai|IA explicable]] renforce la confiance des enseignants dans les recommandations de l'IA par l'intermédiaire de la compréhensibilité, les explications guidées par le domaine (le langage des programmes) étant davantage crues et acceptées que les sorties d'importance des variables guidées par les données.
+
+- **Comment l'IA est imaginée :** les [[metaphors-and-analogies|métaphores et analogies]] façonnent ce que les éducateurs et les étudiants attendent de l'IA et peuvent servir de méthode d'enseignement pour la [[ai-literacy|littératie en IA]], comme le montrent [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins et Furze (2025)]].
+
 - **L'évolution du domaine :** la base de connaissances retrace l'IA en éducation depuis les premiers [[intelligent-tutoring|systèmes de tutorat intelligent]] et le [[knowledge-tracing|traçage des connaissances]] jusqu'au [[intelligent-tutoring|tutorat]] piloté par les grands modèles de langue, aux [[pedagogical-agent|agents]] et à l'[[agentic-ai|IA agentique]] — un déplacement rapide des études centrées sur les outils vers des cadres sociotechniques ([[design-thinking|pensée design]], [[curriculum-design|conception de programmes]], [[institutional-change-framework-ai|changement institutionnel]]), et des systèmes écrits à la main vers des flux de travail pilotés par l'utilisateur, dans lesquels un apprenant ou un [[teacher-role|non-programmeur]] spécifie un comportement en langage naturel ([[vibe-coding|codage intuitif]]). [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] formalisent cette trajectoire avec leur cadre AI×Ed, en retraçant les articles sur quatre décennies d'actes de colloque pour montrer que le domaine est passé d'un ensemble diversifié — comportant une part substantielle de travaux traitant l'IA comme une analogie de l'intelligence et de l'apprentissage humains — à une concentration quasi exclusive sur des usages appliqués, fondés sur les données et destinés aux chercheurs, un tournant que l'essor des [[llm|grands modèles de langue]] semble aujourd'hui partiellement inverser (trois des quatre articles « IA comme analogie » de l'AIED 2024 reposaient sur des grands modèles de langue).
 - **Émotion, anxiété et avenir professionnel :** l'IA suscite et façonne des réponses émotionnelles — l'[[anxiety-and-stress|anxiété et le stress liés à l'IA]] allant de la surveillance des examens à distance aux craintes pour l'intégrité et au déplacement professionnel — tandis que le [[career-development-and-readiness|développement de carrière et la préparation à l'emploi]] traitent de la manière dont l'éducation prépare les apprenants à un marché du travail perturbé par l'IA (voir aussi le [[well-being|bien-être]]).
 
@@ -181,6 +184,10 @@ L'IA en éducation est liée à chaque concept de la base de connaissances : c'e
 - [[automation-bias]] — la défaillance côté lecteur : accepter un jugement automatisé sans le vérifier
 - [[human-ai-collaboration]] — parapluie : la manière dont les personnes et l'IA travaillent ensemble
 - [[pedagogy]] — parapluie : méthodes et stratégies d'enseignement
+
+- [[case-based-learning]] — La méthode des cas, la discussion de cas et les cas contrastés
+- [[metaphors-and-analogies]] — Comment la métaphore façonne la compréhension de l'IA et comment l'analogie soutient l'enseignement
+
 - [[learning-theories]] — parapluie : la manière dont l'apprentissage se produit
 - [[ai-technologies]] — parapluie : modèles, techniques et systèmes
 - [[discipline-specific-aied]] — parapluie : l'IA dans les matières et les niveaux d'enseignement

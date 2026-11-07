@@ -1,7 +1,7 @@
 ---
 title: "Littératie en IA"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-05T19:07:26-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-05T09:30:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -147,6 +147,8 @@ Un courant distinct de la base de connaissances traite la littératie en IA non 
 - **Reconnaître la [[ai-sycophancy|sycophancie]] comme compétence de littératie.** Une compétence évaluative centrale consiste à reconnaître quand une IA est *d'accord* avec l'apprenant plutôt que correcte. La [[contextual-sycophancy-ai-literacy|sycophancie contextuelle]] montre que la littératie en IA et la formation à la rédaction d'invites réduisent — sans l'éliminer — le miroir sycophant des erreurs de l'utilisateur, et qu'une [[sycophantic-ai-social-interaction-2026|IA sycophante]] est préférée par les utilisateurs précisément parce qu'elle leur donne le sentiment d'être compris. La littératie en IA doit donc apprendre aux apprenants à détecter l'accord pour lui-même et à valoriser la friction corrective, ce qui se relie à la [[trust-calibration|calibration de la confiance]] et à la [[reducing-ai-misuse|réduction des usages abusifs]].
 - **Valoriser, et pas seulement vérifier.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] a constaté que les étudiants qui ne contrôlaient les productions que pour leur exactitude, leur crédibilité et leur pertinence acceptaient néanmoins des travaux conceptuellement aplatis, tandis que ceux qui jugeaient aussi la nuance, la voix et la posture épistémique les rédigeaient à nouveau — faisant du « quand ne pas déléguer le jugement » la question de la littératie.
 
+- **La métaphore comme méthode de littératie critique.** Les [[metaphors-and-analogies|métaphores et analogies]] rendent discutables l'opacité, les biais et la représentation de l'IA ; [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins et Furze (2025)]] associent quatre métaphores de classe à des critères pour les choisir et les critiquer.
+
 Ces courants critiques complètent les dimensions opérationnelles et cognitives de la littératie en IA : là où ces dernières demandent « l'apprenant peut-il utiliser et évaluer l'IA ? », la littératie critique en IA demande « l'apprenant comprend-il et met-il au défi les structures de pouvoir que l'IA incarne ? »
 
 La littératie pour la vie publique est une cible différente de la littératie pour les travaux de cours. La [[civic-and-political-education|éducation civique et politique]] couvre le problème de la manipulation et de la vérification à cette cible : un apprenant qui doit juger une affirmation publique, la tracer jusqu'à une institution et répondre aux objections qu'on lui fait.
@@ -188,6 +190,8 @@ Les cadres et les études empiriques de la base de connaissances convergent vers
 ### Mesurer la littératie en IA
 
 Un courant de recherche distinct traite la littératie en IA non seulement comme une cible d'enseignement, mais comme un construit à mesurer. Le volet d'évaluation de la base de connaissances distingue la littératie **auto-déclarée** de la littératie **fondée sur la performance** : les auto-déclarations divergent fortement de la compétence démontrée (les enseignants surestiment d'environ 40%), et les mesures fondées sur la performance prédisent bien mieux l'intégration de l'IA en classe que les enquêtes de confiance (r≈0.72 contre 0.31). Les travaux d'intervention reproduisent cette divergence au niveau du comportement : chez [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni les attitudes envers GenAI ni une échelle générale de conscience métacognitive ne prédisaient la régulation par les étudiants de l'interaction avec les LLM ni leurs scores finals à la tâche (r = .01 et r = .04, tous deux non significatifs), tandis que les comportements que l'atelier avait changés — rejeter les invites sous-spécifiées, juger l'exactitude des réponses, poser une question de suivi — suivaient bien la qualité des réponses. Des instruments validés émergent pour combler cette lacune — le [[jin-glat-genai-literacy-assessment|GLAT]] fournit une évaluation de littératie en IA générative validée sur le plan psychométrique, et des profils diagnostiques (surestimateurs contre vrais novices) permettent aux concepteurs de cibler le soutien là où il est nécessaire. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] cartographient directement ce paysage d'instruments, en passant en revue 80 cadres validés — 69 de littératie numérique et 11 de littératie en IA — publiés entre janvier 2014 et février 2025. L'IA a tiré la littératie numérique vers l'éthique et recasté la communication pour y inclure l'interaction humain-[[student-ai-interaction|IA]], tandis que la régulation métacognitive et la collaboration humain-IA propre aux éducateurs restent les moins spécifiées. Pour la conception et la recherche, cela relie la littératie en IA à l'[[educational-measurement|mesure en éducation]] et à l'[[assessment|évaluation]] au sens large : un cadre de littératie n'est utile qu'à proportion des instruments utilisés pour suivre la croissance, et des continus fondés sur les stades exigent une mesure fiable pour y placer les apprenants.
+
+Une revue systématique de 17 mesures de littératie en IA a constaté que la collaboration était rarement évaluée comme construit : 3 études opérationnalisaient explicitement la [[human-ai-collaboration|collaboration humain-IA]], 3 l'intégraient dans la formulation des items et 11 n'en montraient aucune représentation ; un seul instrument mesurait ensemble la littératie en IA et la collaboration. Les sous-facteurs proposés — coordination, communication et [[metacognition|métacognition]] — restent non validés ([[yang-collaborative-ai-literacy-measures-review-2026|Yang et al., 2026]]).
 
 [[genait-genai-literacy-test-high-school-2026|Puppart, Laak et Aru (2026)]] fournissent le pendant objectif le plus vaste à ce jour : un test de 18 items validé auprès de 7,432 lycéens estoniens (fiabilité marginale = .72), dont les scores n'étaient pas liés à la [[technology-acceptance-model|facilité d'usage]] perçue (ρ = .01) et étaient négativement liés à la fréquence d'usage (ρ = −.16 à −.19).
 
@@ -253,6 +257,9 @@ La vérification est le contrepoids enseignable, et le [[automation-bias|biais d
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Élaborées par les étapes d'examen critique de ces séquences
+
+- [[metaphors-and-analogies]] — La métaphore et l'analogie comme techniques de construction de sens et d'enseignement
+
 - [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
 
 - [[automation-bias]] — L'échec que l'enseignement de la vérification et de la post-édition est censé prévenir
@@ -281,6 +288,7 @@ La vérification est le contrepoids enseignable, et le [[automation-bias|biais d
 - [[civic-and-political-education]]
 
 ## Articles liés
+- [[yang-collaborative-ai-literacy-measures-review-2026]] — 17 mesures de littératie en IA : la collaboration est rarement évaluée comme construit, et les sous-facteurs proposés de coordination, de communication et de métacognition restent non validés (Yang et al. 2026)
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Façonner la petite enfance à l'ère de l'IA : compétences, pédagogie et soutien écologique (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Littératie de sécurité en IA : cadre de compétence écosystémique et plateforme d'apprentissage pour le K-12
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Élever la dimension éthique de la littératie sans cadre d'adaptation peut laisser les étudiants plus anxieux
@@ -339,3 +347,6 @@ La vérification est le contrepoids enseignable, et le [[automation-bias|biais d
 - [[huang-ai-literacy-vocational-problem-solving-2026]] — La littératie atteint la résolution de problèmes par des mouvements cognitifs, et non par l'accès aux outils
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Les littératies critiques en IA et médiatique comme contrepoids civique à l'externalisation cognitive
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — PAIRR mis en œuvre dans 13 sections : lectures, rétroaction par les pairs, rétroaction de l'IA guidée par grille, réflexion
+
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Quatre critères et quatre métaphores pour enseigner la littératie critique en IA
+

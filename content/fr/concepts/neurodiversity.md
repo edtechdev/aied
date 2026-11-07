@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ Le paradigme de la neurodiversité déplace l'objectif du travail sur l'[[specia
 Deux revues définissent la forme du champ, et toutes deux décrivent une fragmentation plutôt qu'une consolidation.
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Une revue de cadrage PRISMA-ScR (Rempel et al., 2026)]] a interrogé cinq bases de données et une décennie de publications (2015–2025), passant au crible 766 références pour retenir 40 études empiriques sur les technologies d'assistance numériques destinées aux étudiants neurodivergents dans l'[[higher-ed|enseignement supérieur]]. Le champ s'est réorganisé autour de l'[[generative-ai|IA générative]] — 15 des 40 études — les formats immersifs arrivant en deuxième position avec 11. Sa critique centrale est une critique de conception : l'accommodement individuel et les outils spécifiques à un neurotype, organisés autour du diagnostic formel, ne peuvent pas traiter les différences fonctionnelles qui traversent les neurotypes, si bien qu'elle recommande à la place une conception universelle et un développement participatif. Elle note également que les outils les plus immersifs sont les moins extensibles.
+
+- **Les classes du primaire montrent la même concentration.** Une revue de cadrage sur les technologies éducatives destinées à des classes primaires neuro-inclusives (3 340 références examinées, 93 études) a trouvé des données probantes concentrées sur les apprenants autistes et sur un soutien académique et cognitif individualisé, les résultats sociaux, communicationnels et d'interaction entre pairs étant négligés et la valeur éducative étant validée principalement par les chercheurs plutôt que par les usagers des classes ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
 
 [[dabaghi-ai-dyslexia-education-review-2026|La revue interdisciplinaire sur l'IA et la dyslexie (Dabaghi, D'Urso et Sciarrone, 2026)]] couvre la période 2018–2024 sur 72 études et montre que l'IA est employée pour la détection, le soutien à l'assistance et la [[personalized-learning|personnalisation]], ces trois volets évoluant en parallèle plutôt qu'en intégration, et le champ étant davantage mû par l'opportunité technologique que par une théorie éducative consolidée. Ses travaux de détection ([[sensor-and-gaze-analytics|EEG]], oculométrie, modèles de [[machine-learning|apprentissage automatique]]) montrent une promesse diagnostique pour l'intervention précoce mais nécessitent souvent un équipement spécialisé et des conditions contrôlées, ce qui limite l'emploi dans les classes ordinaires. C'est le test pratique que ce pan entier ne cesse d'échouer : le soutien doit être intégré au cours que l'étudiant suit réellement.
 
@@ -106,6 +108,8 @@ La neurodiversité est liée à l'[[special-education|éducation spécialisée]]
 - [[student-modeling]]
 
 ## Articles liés
+
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Recadrer la valeur éducative des technologies éducatives pour des classes primaires neuro-inclusives : une revue de cadrage
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue de cadrage des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 études sur l'IA pour les étudiants en situation de handicap, et un effet qui diffère selon la catégorie

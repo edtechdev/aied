@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'ingénierie"
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ La recherche sur l'enseignement de l'ingénierie est distinctive parce qu'elle s
 
 ## Comment l'IA apparaît dans la recherche de la base de connaissances sur l'enseignement de l'ingénierie
 
-- **La compréhension du corps professoral et le langage partagé :** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et collègues]] analysent les métaphores qu'emploient les enseignants d'ingénierie pour décrire l'IA, et constatent que la plupart la cadrent soit comme un « être social/agent » humain, soit comme un « outil technique », et que les enseignants d'un même département ont souvent des modèles mentaux fondamentalement différents. Parce que les métaphores construisent autant qu'elles contraignent la compréhension, ils soutiennent qu'un langage partagé et exact est essentiel pour l'[[educational-development|développement éducatif]] et les discussions départementales sur l'IA.
+- **La compréhension du corps professoral et le langage partagé :** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et collègues]] analysent les [[metaphors-and-analogies|métaphores]] qu'emploient les enseignants d'ingénierie pour décrire l'IA, et constatent que la plupart la cadrent soit comme un « être social/agent » humain, soit comme un « outil technique », et que les enseignants d'un même département ont souvent des modèles mentaux fondamentalement différents. Parce que les métaphores construisent autant qu'elles contraignent la compréhension, ils soutiennent qu'un langage partagé et exact est essentiel pour l'[[educational-development|développement éducatif]] et les discussions départementales sur l'IA.
 - **L'éthique et l'usage responsable :** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et collègues]] passent [[meta-analysis-systematic-review|systématiquement en revue]] les études empiriques sur l'IA dans la formation d'ingénieur de premier cycle, et identifient sept formes récurrentes de conseils éthiques (transparence, responsabilité, indépendance et agence des étudiants, vie privée, [[academic-integrity|intégrité académique]], justesse/[[equity-in-ai-education|équité]]/biais, bienfaisance). Ils constatent que les conseils éthiques sont majoritairement destinés aux étudiants et orientés vers la conformité, la responsabilité réciproque du corps professoral et des institutions étant peu développée — une préoccupation qu'accroît l'enjeu direct de l'ingénierie pour la sécurité publique et le [[well-being|bien-être]] sociétal.
 - **L'évaluation incarnée et [[multimodal|multimodale]] :** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et collègues]] développent un cadre multimodal intégrant le suivi des gestes par vision par ordinateur à l'analyse de la parole par [[llm]], afin d'évaluer la compréhension conceptuelle des statistiques chez les étudiants en ingénierie, montrant que le geste ajoute une preuve diagnostique au-delà de la parole et qu'un couplage étroit entre geste et parole signale une compréhension cohérente.
 - **La transformation de la main-d'œuvre :** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et collègues]] passent en revue la littérature grise américaine sur l'IA et la main-d'œuvre de l'ingénierie et de l'informatique, en formulant le « Dual Train Problem » (changement rapide contre urgence des politiques) et en recommandant des compétences en IA durables, de l'[[ethics|éthique]] et de la [[governance|gouvernance]], ainsi que des titres fondés sur les compétences pour les rôles émergents.

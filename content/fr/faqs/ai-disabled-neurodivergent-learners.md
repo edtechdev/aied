@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants en situation de handicap et neurodivergents dans mon cours ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 weight: 65
 type: faq
 methods: [meta-analysis-systematic-review]
@@ -9,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -73,6 +73,8 @@ Pour l'accès à la langue, [[llm-question-generation-deaf-hard-of-hearing-2026|
 Pour la lecture et l'écriture, [[dyslexlens-dyslexic-learners-ai|Rezazadegan et al. (2026)]] ont exploité les discussions des apprenants dyslexiques sur leurs propres forums. Ces apprenants appréciaient l'IA pour le soutien à la littératie et signalaient une qualité de sortie inégale et un manque d'aménagements [[equity-in-ai-education|équitables]]. L'inconstance est elle-même une barrière : un outil sur lequel on ne peut pas compter ajoute du travail au lieu d'en retirer.
 
 Le tableau de l'[[higher-ed|enseignement supérieur]] est la partie la plus faible des preuves et la plus proche de votre travail. [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel, Heimann et Prilop (2026)]] ont filtré 766 notices issues de cinq bases de données jusqu'à retenir 40 études publiées entre 2015 et 2025. L'IA générative apparaissait dans 15 des 40 et la [[virtual-and-augmented-reality|réalité virtuelle]] dans 11. La couverture des barrières était inégale : la lecture et l'écriture (n = 13) et la gestion de l'étude (n = 12) dominaient, l'attention (n = 4) et la communication sociale (n = 5) étaient négligées, et seules 6 études abordaient plus d'une barrière. La revue excluait par construction les contextes de [[k-12|prématernelle à 12e année]] et d'institutions spécialisées, de sorte qu'elle ne dit rien des jeunes apprenants. Servez-vous-en pour voir quelles barrières ont été abordées à votre niveau, et lesquelles ont à peine été touchées.
+
+Les classes du primaire disposent désormais de leur propre examen de portée. [[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola et Goodacre (2026)]] ont filtré 3 340 notices issues de six bases de données et retenu 93 études sur les technologies éducatives dans des classes primaires neuro-inclusives. L'autisme était le profil le plus étudié (n = 37, 39.8%) ; la réalité étendue (n = 26), la robotique (n = 14) et les systèmes pilotés par l'IA (n = 12) dominaient les catégories technologiques, tandis que les technologies d'assistance et d'accessibilité représentaient moins de 5%. Les résultats sociaux, communicatifs et d'interaction entre pairs étaient négligés ; les processus de conception n'étaient pas rapportés dans 43.0% des études, la conception pilotée par les chercheurs dans 39.8%, et la coconception dans 17.2%, alors qu'une seule étude (1.1%) faisait des enfants des partenaires de conception. L'examen n'établit pas qu'un produit fonctionne ; il montre où les preuves au primaire sont minces et à quel jugement on accorde de la valeur.
 
 ## Décidez si vous changez la conception ou l'aménagement
 

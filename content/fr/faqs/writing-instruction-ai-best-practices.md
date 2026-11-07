@@ -1,14 +1,14 @@
 ---
 title: "Quelles sont les bonnes pratiques pour enseigner l'écriture dans le contexte de l'IA ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -96,6 +96,8 @@ Onze lignes, c'est plus que ce dont la plupart des devoirs ont besoin. Réduisez
 La plus grande étude de classe citée ici est [[pairr-ai-peer-review-2025|PAIRR]] : 654 étudiants dans dix cours d'écriture et trois cours [[stem-education|STIM]] à fort contenu rédactionnel. Ils ont rédigé, réalisé une [[peer-assessment|évaluation par les pairs]], obtenu une rétroaction par IA fondée sur une grille, comparé et évalué les deux sources, écrit des plans de révision, révisé et réfléchi. Cinquante-huit pour cent ont préféré la combinaison de la rétroaction des pairs et de l'IA. Six pour cent ont préféré la rétroaction par IA seule. Les étudiants ont trouvé l'IA utile pour des conseils de révision généraux orientés par la grille, et les pairs ont apporté des connaissances contextuelles et la réponse d'un public authentique.
 
 Soyez exact sur ce que l'étude établit. PAIRR a mesuré l'expérience des étudiants et leur évaluation de la rétroaction, non des [[learning-gains|gains d'apprentissage]] à long terme ; c'est donc une preuve solide pour une conception de la rétroaction et une preuve plus faible que l'écriture s'améliore des mois plus tard. Gardez l'étape entre pairs même quand l'étape par IA est plus rapide. Une grande partie du travail de [[feedback|rétroaction]] se fait dans la comparaison entre les deux sources, et la supprimer retire la part que les étudiants disaient apprécier.
+
+L'outil lui-même peut être conçu pour protéger l'étape de raisonnement. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] ont construit MAIKE, un chatbot [[socratic-method|socratique]] qui diagnostique les arguments et pose des questions ciblées sans générer de texte de dissertation. Dans une étude en classe auprès de 65 élèves du secondaire, les utilisateurs de MAIKE ont employé plus de tours de dialogue portant sur les idées que ceux du groupe témoin (56% contre 44%) et ont alterné entre la discussion et la révision du texte ; environ 40% des élèves ont amélioré leur note de dissertation. L'étude n'a pas montré d'avantage global de note par rapport au groupe témoin ; traitez-la donc comme une démonstration de conception sur le lien entre le dialogue et la révision, et non comme la preuve que le chatbot améliore la qualité de l'écriture.
 
 ## Évaluez ce que l'étudiant a fait de la rétroaction
 

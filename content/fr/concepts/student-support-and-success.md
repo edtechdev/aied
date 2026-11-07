@@ -1,7 +1,7 @@
 ---
 title: "Soutien aux étudiants et réussite"
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ La distinction qui organise cette page est celle entre **ce qu'une incitation pe
 ## Les fonctions de soutien
 
 La recherche se regroupe en cinq fonctions, et les frontières entre ces groupes importent parce qu'elles portent des données probantes différentes.
+
+Une revue de 61 études sur le soutien aux apprenants assisté par l'IA a constaté que le domaine se concentrait sur les systèmes adaptatifs et la personnalisation (41 usages) et sur le profilage et la prédiction (30), les agents conversationnels et les recommandateurs prenant en charge l'accueil et les requêtes de routine. Elle a aussi mis au jour les lacunes : aucune intervention ne traitait la phase de transition de l'apprenant, et seules deux études nommaient un sous-groupe d'étudiants, si bien que l'apprenant générique de la plupart des systèmes était une moyenne statistique ([[cefa-ai-learner-support-review-2026|Cefa et coll., 2026]]).
 
 **Démarchage et communication.** Les institutions envoient des messages aux étudiants à grande échelle, et les évaluations les plus solides testent si cela change quoi que ce soit. Une étude randomisée sur quatre ans de CSUNny, un agent conversationnel non génératif par SMS de la California State University, Northridge, a suivi deux cohortes de premier cycle (N = 8 708) sur huit semestres ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). Un rappel d'inscription envoyé le 31 juillet 2018 a rendu les étudiants traités 34 points de pourcentage plus susceptibles de s'inscrire avant le 16 août, et seulement 2 points plus susceptibles avant le 15 septembre ; les rappels Early Start ont produit 11 points d'inscription supplémentaire au 7 juin et 20 points au 22 juin. La réceptivité s'est maintenue : les taux annuels de désabonnement n'ont jamais dépassé 4 %. Un essai multi-semestres pré-enregistré à la Georgia State University a poussé les étudiants de deux grands cours asynchrones (N = 1 568 et N = 915) avec deux à trois messages personnalisés par semaine, augmentant de quatre points de pourcentage les chances d'obtenir un A ou un B contre 61 % chez les témoins, et déplaçant les taux de DFW (D, F, W) d'environ trois points dans chaque cours ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
@@ -130,6 +132,9 @@ Le soutien aux étudiants se rattache à la [[student-experience|expérience ét
 - [[rct]] — le plan derrière les données probantes les plus solides présentées ici
 
 ## Articles liés
+
+- [[cefa-ai-learner-support-review-2026]] — Revue de 61 études sur le soutien aux apprenants assisté par l'IA : les systèmes adaptatifs et la prédiction dominent ; la phase de transition et la diversité des apprenants sont absentes
+
 - [[shastry-gray-empathy-offloading-2026]] — Quatre études sur le délestage de l'empathie : croire que l'IA peut fournir un soutien émotionnel réduit ce que les gens apportent eux-mêmes (Shastry & Gray 2026)
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — évaluation randomisée sur quatre ans d'un agent conversationnel de soutien universitaire : l'accomplissement des tâches a évolué, ni l'obtention du diplôme ni la moyenne générale

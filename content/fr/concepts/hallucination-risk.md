@@ -1,7 +1,7 @@
 ---
 title: "Risque d'hallucination"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ ai_assist:
 L'hallucination dans l'IA éducative prend plusieurs formes documentées dans les articles de cette base de connaissances : des preuves fabriquées dans l'[[assessment|évaluation des étudiants]], un mauvais diagnostic trop sûr des connaissances de l'apprenant, et des explications au ton plausible mais incorrectes que les étudiants acceptent comme vraies. Le risque est amplifié en éducation parce que l'asymétrie de savoirs entre l'IA et l'apprenant place ce dernier en mauvaise posture pour vérifier les productions de l'IA. Un contexte supplémentaire est celui des lectures de cours générées par l'IA qui se substituent à un manuel : dans un cours de deuxième cycle qui a ainsi remplacé son manuel commercial, seulement environ 0.80% des 4 487 pages journalisées portaient une citation dans le texte de style APA et les chaînes DOI étaient pratiquement absentes, de sorte que la plupart des affirmations ne pouvaient être auditées de l'intérieur de l'artefact ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]). Ce déficit de traçabilité est distinct d'une réponse fausse, parce que le texte se lit comme faisant autorité tout en offrant des moyens internes de confirmation limités.
 
 Une revue de 125 études donne une fourchette pour la prévalence et l'écart de détection : des taux d'hallucination de 10–40%, les étudiants en médecine ne détectant les erreurs de l'IA que 44–55% du temps ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
+
+**La distorsion de la mémoire après la production.** Une expérience de 2026 a constaté qu'un résumé trompeur produit par l'IA faisait plus que désinformer : il modifiait ce que 328 adultes se rappelaient d'une vidéo qu'ils avaient vue. Seuls 44.8% de ceux qui avaient lu le résumé trompeur ont ensuite identifié correctement le détail décisif, contre 83.6% de ceux qui avaient lu un résumé cohérent, et l'effet subsistait lorsque le résumé était étiqueté comme rédigé par un humain ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). L'omission était l'erreur la plus fréquente dans l'audit complémentaire : les 20 résumés contenaient des erreurs, et 95% omettaient la collision elle-même. L'étude n'a pas testé d'étudiants, mais elle montre pourquoi un contrôle d'hallucination qui s'arrête au texte est incomplet : l'erreur peut persister dans la mémoire du lecteur après la disparition du texte.
 
 L'**hallucination dans l'évaluation** est particulièrement dommageable. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** a montré que les grands modèles de langue fabriquent des citations de preuves absentes de l'écriture manuscrite des étudiants lorsqu'ils diagnostiquent des compétences cognitives, 58.5% des diagnostics incorrects s'accompagnant de fausses déclarations de confiance probatoire. **[[llm-fallacy-misattribution]]** a documenté la sur-attribution systématique de preuves dans le raisonnement des [[llm|grands modèles de langue]] — les modèles affirment un soutien probatoire là où il n'existe pas. Les deux phénomènes rejoignent les préoccupations d'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et de [[knowledge-tracing|traçage des connaissances]] concernant l'[[assessment-validity|validité de l'évaluation]]. [[ivory-psychology-assessment-integrity-2026|Ivory et coll. (2026)]] ajoutent deux modes de défaillance visibles lorsque la production de l'IA est notée plutôt qu'inspectée : des particularités fabriquées qui survivent à la notation — un article évalué par les pairs qui n'existe pas, complet avec un DOI insoluble, et une taille d'échantillon rapportée à 378 là où la source disait 329 — et l'auto-contradiction à l'intérieur d'une seule réponse, où le modèle a raisonné jusqu'à l'option correcte puis en a rapporté une autre dans son résumé final. Parce que les listes de références sont actuellement notées pour leur mise en forme plutôt que pour leur exactitude, cette classe d'erreurs atteint la note de passage tout en trompant l'étudiant qui emploie le même outil pour réviser.
 
@@ -90,6 +92,8 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 - [[productive-failure]]
 
 ## Articles liés
+
+- [[sim-ai-summary-memory-distortion-2026]] — Un résumé trompeur produit par l'IA a déformé la mémoire d'adultes à propos d'une vidéo, et l'étiquette IA ou humaine ne les a pas protégés
 
 - [[frontiers-gai-hallucination-dependence-2026]] — Étiqueter un dialogue d'IAG comme fabriqué a abaissé à la fois la confiance et la dépendance
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers la production de l'IA, certains cas cités étant mal attribués ou fictifs

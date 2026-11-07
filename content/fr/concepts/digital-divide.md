@@ -2,7 +2,7 @@
 
 title: "La fracture numérique"
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 connected_resources: [public-ai-libraries]
@@ -10,7 +10,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Le tournant de l'inférence en périphérie ajoute une dimension matérielle à 
 - **Représentation et silence structurel :** la [[structural-silence-underrepresented-language-ai-2026|recherche sur les langues sous-représentées]] met en lumière comment la fracture numérique s'étend à *quelles* communautés, langues et perspectives sont représentées dans les systèmes d'IA et servies par eux — une dimension culturelle et épistémique de l'inégalité.
 
 - **L'alternance codique est une exclusion à elle seule.** La plupart des outils de cours par [[llm|LLM]] supposent un flux audio anglais monolingue et une connexion Internet fiable, ce qui exclut les classes mêlant l'anglais et une langue familiale ; les données indiennes UDISE+ situent l'accès à Internet dans les écoles près de 54 % avec un écart urbain-rural de 24 points, et un compagnon bilingue répond par une transcription sur appareil et un stockage local d'abord ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
+
+- **Les services numériques publics reproduisent la fracture.** La plateforme de gouvernement électronique eCitizen du Kenya est principalement en anglais, avec un swahili limité et une interface uniquement textuelle, ce qui exclut les jeunes peu lettrés, les personnes malvoyantes et les jeunes ruraux ; des entretiens et une table ronde de onze personnes portant sur quatre plateformes de moyens de subsistance (Ajira Digital, KRA iTax, HELB, YEDF) désignent les technologies linguistiques et une conception inspirée des WCAG 2.1 comme les leviers d'inclusion ([[amol-ai-egovernance-digital-inclusion-2026|Amol et Wanzare (2026)]]).
 
 ### L'IA creuse (et peut combler) les fractures
 
@@ -123,6 +125,7 @@ La fracture numérique est une préoccupation centrale de la recherche sur l'[[e
 - [[parents-and-families]]
 
 ## Articles liés
+- [[amol-ai-egovernance-digital-inclusion-2026]] — AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
 - [[watanabe-genai-education-gap-europe-2026]] — L'écart éducatif dans l'usage de l'IA générative est-il plus faible que celui de l'internet ? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)

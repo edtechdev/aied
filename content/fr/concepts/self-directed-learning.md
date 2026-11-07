@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Apprentissage autodirigé
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,9 @@ Les [[research-methods-aied|recherches]] de la base de connaissances documentent
 
 - **Déléguer le choix de l'objectif n'est pas la même chose que le soutenir.** La page traite la fixation de l'objectif comme l'acte central de l'apprenant, et les données probantes de benchmark disent que les modèles le font autrement. Face à 175 humains, GPT-5, Claude Sonnet 4.5 et Qwen3 32B ont re-sélectionné l'objectif précédent dans 0,93, 0,93 et 0,94 des essais, contre 0,54 ± 0,18 pour les personnes. L'entropie des objectifs était de 0,12 à 0,20 contre 1,67 ± 0,14, et les invites de chaîne de raisonnement comme de persona n'ont pas comblé l'écart. Un système qui propose quoi apprendre ensuite reproduit une recherche plus étroite que l'apprenant qu'il représente ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 - **L'usage irréfléchi mine l'apprentissage autodirigé.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao et Gu (2026)]] montrent que l'**usage irréfléchi de l'IA générative** — adopter les sorties de l'IA sans évaluation critique — nuit significativement à l'apprentissage autodirigé des étudiants de premier cycle, à la fois directement et par l'érosion de l'[[self-efficacy|auto-efficacité]] et de la [[motivation|motivation]] (le modèle expliquait 75,3% de la variance de l'apprentissage autodirigé ; TUGA β = −0,42). L'effet négatif sur la motivation était plus fort chez les étudiants de sexe masculin, et sur l'auto-efficacité plus fort chez les étudiantes. Cela rejoint le risque plus large de [[cognitive-offloading|dépendance excessive]] documenté dans la base de connaissances.
+
+- **Usage non guidé à l'échelle d'une population.** Chez 4 062 étudiants de 136 établissements secondaires allemands, l'usage de l'IA générative pour accomplir des tâches et l'usage orienté vers l'apprentissage ont tous deux augmenté au cours d'une année scolaire (d = 0,35 et 0,33), seuls 5% des étudiants n'ayant jamais utilisé les outils ; un niveau de réussite antérieur plus faible prédisait un usage ultérieur plus important dans les six matières, mais aucune des deux formes d'usage ne prédisait la réussite ultérieure ([[scherer-self-directed-genai-use-secondary-2026|Scherer et coll. (2026)]]).
+
 - **Décharge cognitive et délégation.** L'[[andragogy-cognitive-delegation-genai-2026|andragogie et la délégation cognitive]] et l'[[learning-by-chatting-genai-impact|apprentissage par conversation avec l'IA générative]] examinent comment les apprenants peuvent déléguer à l'IA un travail cognitif de manières qui contournent le traitement exigeant que l'apprentissage autodirigé requiert — un mode de défaillance d'outils par ailleurs favorables à l'autonomie. L'[[critical-thinking-genai-scaffolding|étayage de la pensée critique avec l'IA générative]] et l'[[test-driven-ai-assisted-learning|apprentissage assisté par IA mené par les tests]] modélisent des conceptions plus productives.
 
 ## La distinction SDL-SRL dans la pratique
@@ -103,6 +106,8 @@ Parce que l'apprentissage autodirigé met l'accent sur la direction initiée par
 - [[higher-ed]]
 
 ## Articles liés
+
+- [[scherer-self-directed-genai-use-secondary-2026]] — Usage autodirigé de l'IA générative et développement académique chez les élèves du secondaire : une étude longitudinale à grande échelle sur un an
 
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Usage irréfléchi de l'IA générative et apprentissage autodirigé (MES, différences selon le sexe)
 - [[ai-lifelong-learning-policy]] — Politique d'IA et d'apprentissage tout au long de la vie

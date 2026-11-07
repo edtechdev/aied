@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la gestion et du management"
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,9 @@ L'IA dans l'enseignement de la gestion est un volet [[discipline-specific-aied|d
 ## AI in business education across the knowledge base's research
 
 - **Les cadres informés par les étudiants.** [[drummond-genai-business-schools-framework-2026|Drummond et Dale (2026)]] présentent un cadre conceptuel informé par les étudiants pour intégrer l'IA générative dans l'ensemble des programmes de gestion, fondé sur une étude de cas britannique portant sur 149 étudiants. Ceux-ci étaient fortement engagés, reconnaissaient le besoin de compétences en IA générative pour leur carrière, et souhaitaient utiliser l'IA sans commettre involontairement une faute académique.
+
+- **Une analyse stratégique fondée sur la valeur, et non une étude de résultats.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] appliquent la disposition à payer et le coût de livraison aux programmes de MBA et aux programmes voisins. L'IA peut se substituer à la formation ou la compléter en élevant la valeur du jugement, de l'éthique et du leadership ; le contenu enseigné, la méthode et le public restent tous en suspens, et la capacité de recherche est la variable qui décide si les écoles sont complétées ou remplacées.
+
 - **Une décennie de recherche.** [[espino-ai-business-education-review-2026|Espino et Espino (2026)]] ont cartographié bibliométriquement 213 articles (2015–2024) sur l'IA dans l'enseignement de la gestion, identifiant quatre grappes : la transformation de l'enseignement de la gestion sous l'effet de l'IA, les pédagogies numériques novatrices, la [[personalized-learning|personnalisation]] renforcée par l'IA, et un enseignement de la gestion aligné sur l'économie numérique — avec des lacunes persistantes en cohérence des programmes, préparation des enseignants et validité de l'évaluation.
 - **L'alignement constructif.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] ont analysé 17 cas d'adoption de l'IA générative dans une école de commerce britannique, constatant que l'équilibre entre bénéfices pédagogiques et risques était façonné par le **degré d'intégration au programme** — l'intégration constructive produisait de meilleurs résultats.
 - **Les éclairages des étudiants sur les programmes.** [[rook-plumb-genai-curricula-student-insights-2026|Rook et Plumb (2026)]] se sont appuyés sur 166 étudiants de premier cycle en gestion dans une unité de synthèse, constatant un fort soutien à l'intégration de l'IA générative dans les programmes, avec trois domaines prioritaires : comprendre et optimiser les fonctionnalités de l'IA générative, explorer les applications dans divers contextes, et appréhender les dimensions éthiques et juridiques.
@@ -63,6 +66,8 @@ L'IA dans l'enseignement de la gestion couvre l'**économie** et le **management
 
 La gestion est l'un des domaines où l'adoption de l'IA générative est la plus rapide ; les écoles de commerce subissent donc une pression aiguë pour préparer les étudiants à un monde du travail intégrant l'IA. La recherche souligne qu'une intégration efficace est **pilotée par le programme et informée par les étudiants** — il ne s'agit pas seulement d'ajouter des outils d'IA mais de redessiner les programmes pour que la littératie en IA générative, le jugement éthique et l'application authentique soient tissés dans les structures de diplôme. Cela rattache l'enseignement de la gestion aux thèmes plus larges de la base de connaissances que sont la [[ai-literacy|littératie en IA]], la préparation des [[teacher-role|enseignants]], la refonte de l'[[assessment|évaluation]] et la réforme des [[curriculum-design|programmes]] à l'ère de l'IA.
 
+Les études de cas et les simulations sont les formats d'enseignement les plus proches de cette littérature, mais les données probantes sur le management n'isolent aucune intervention fondée sur les cas ; voir [[case-based-learning]] pour la pédagogie et ses limites.
+
 ## Implications for business instructors
 
 - **Intégrer l'IA de façon pilotée par le programme et informée par les étudiants.** Les [[drummond-genai-business-schools-framework-2026|cadres informés par les étudiants]] et les [[rook-plumb-genai-curricula-student-insights-2026|éclairages des étudiants]] montrent que les étudiants veulent des compétences en IA générative pour leur carrière et utiliser l'IA sans faute involontaire — concevez des programmes qui tissent la littératie en IA, le jugement éthique et l'application authentique dans les structures de diplôme.
@@ -82,6 +87,9 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 - [[discipline-specific-aied]]
 - [[generative-ai]]
 - [[ai-literacy]]
+
+- [[case-based-learning]] — Études de cas, méthode des cas et discussion de cas
+
 - [[curriculum-design]]
 - [[assessment]]
 - [[ethics]]
@@ -94,6 +102,9 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 ## Articles liés
 
 - [[ai-decision-checkpoints-bpm-education-2026]] — Points de contrôle des décisions d'IA pour la gestion des processus d'affaires augmentée par l'IA : cadre et mise en œuvre pédagogique
+
+- [[csaszar-ai-management-education-2026]] — Les effets de l'IA sur l'enseignement du management : une analyse stratégique fondée sur la valeur (Csaszar et al. 2026)
+
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE : soutien de l'IA générative agentique dans un cours de commerce électronique, bénéfices et risques perçus (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
 - [[espino-ai-business-education-review-2026]] — Une décennie d'IA dans l'enseignement de la gestion (Espino & Espino 2026)

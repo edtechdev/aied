@@ -1,13 +1,13 @@
 ---
 title: "Psychologie cognitive"
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-01T10:15:16-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-01T09:12:21-05:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ La théorie cognitive de l'apprentissage multimédia (CTML) de Mayer applique le
 
 L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la fois. Elle l'étend en rendant les représentations des connaissances plus puissantes (les LLM comme moteurs de connaissances traçables via le [[knowledge-tracing|traçage des connaissances]] et adaptables via la [[student-modeling|modélisation de l'apprenant]]). Elle le met au défi en compliquant l'endroit où la cognition « se trouve » : lorsque l'IA effectue le raisonnement, la mémoire et même des fonctions apparentées à la métacognition, le postulat cognitiviste que l'apprentissage est un traitement interne dans l'esprit individuel est ébranlé — comme le soutiennent la [[distributed-cognition|cognition distribuée]], la [[ai-cognitive-partner-co-regulation-learning|co-régulation]] et les cadrages post-humanistes, la cognition peut être distribuée entre systèmes humains et artificiels. Or la question cognitiviste demeure la question centrale du domaine : *l'apprenant intériorise-t-il la connaissance, ou l'outil la détient-il ?* C'est la question du délestage cognitif et de l'écart entre performance et apprentissage dans sa forme la plus pure.
 
+Une expérience de 2026 donne au versant mémoire de cette frontière un mode de défaillance concret. Seuls 44.8% des 328 adultes qui avaient lu un résumé d'IA trompeur ont ensuite identifié correctement un détail de la vidéo, contre 83.6% de ceux qui avaient lu un résumé cohérent. L'étiquette IA ou humaine n'a fait aucune différence, pas plus que la confiance déclarée envers l'IA ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger et Kohno, 2026]]). Il s'agit de mémoire de la source plutôt que d'apprentissage en classe, mais un résumé fluide peut écraser la trace que l'apprenant garde de la source, ce qui compte pour l'étude et pour l'évaluation.
+
 ## Implications for design and research
 
 1. **Concevoir pour l'intériorisation, et pas seulement pour la performance.** L'AIED cognitiviste devrait être évaluée sur la question de savoir si l'apprenant peut retrouver et appliquer les connaissances *sans* l'outil — et non sur la performance assistée. C'est l'[[ai-misuse-learning-harm|écart entre performance et apprentissage]] et le motif de la mesure du [[transfer-of-learning|transfert]] non assisté.
@@ -109,6 +111,7 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 
 ## Articles liés
 
+- [[sim-ai-summary-memory-distortion-2026]] — Des résumés d'IA trompeurs ont modifié ce dont les adultes se souvenaient, que le résumé ait été étiqueté comme écrit par l'IA ou par un humain
 - [[cognitive-shift-ai-education]] — Le virage cognitif dans l'IA en éducation
 - [[cogtax-cognitive-taxonomy]] — Une taxonomie cognitive pour l'usage de l'IA
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Agents LLM pédagogiques ancrés dans le traçage des connaissances

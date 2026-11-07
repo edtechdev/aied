@@ -1,7 +1,7 @@
 ---
 title: "Tutorat intelligent"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 connected_resources: [deeptutor, openmaic, learnharness]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-02T06:00:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,8 @@ Les systèmes tutorat intelligent représentent l'un des domaines les plus ancie
 
 - **Micro-personnalisation par invite d'un tuteur à base de LLM (2026) :** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personnalisent l'assistant pédagogique Jill Watson [[llm|LLM]]/[[rag|RAG (génération augmentée par récupération)]] [[teacher-role|d'enseignement]] au niveau de chaque question individuelle, uniquement par ingénierie d'invites — en conditionnant les réponses à six dimensions de l'apprenant ([[metacognition|métacognition]] et [[self-assessment|auto-évaluation]], abstraction, verbosité, perception, traitement, compréhension) et en classant la demande cognitive de chaque requête avec un classifieur de la [[cognitive-diagnosis|taxonomie de Bloom]], produisant 96 profils d'apprenant sans réentraînement du modèle. L'analyse NLP de 2,910 réponses et une étude humaine ont trouvé des différences mesurables et perceptibles d'abstraction, de verbosité, de complexité et de style de traitement, alignées sur les effets visés. Cela démontre l'adaptation de la forme de réponse (plutôt que du contenu) comme une voie évolutive et modulaire vers un [[adaptive-learning|comportement adaptatif]] dans un tuteur déployé.
 
+- **Transfert proche sans gains aux tests standardisés à l'échelle de la classe.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google et Eedi (2026)]] ont randomisé 1,179 étudiants de 10 écoles publiques britanniques entre quatre bras pendant 10 semaines. Après l'accompagnement, 56.5-56.9% ont répondu correctement à une seconde question diagnostique, contre 43.4% sous remédiation standard ; les effets sur Star Maths allaient de −0.01 à +0.02 ET. Les tuteurs ont approuvé 94.7% des 94,385 brouillons sans modification, et 6 erreurs sur 114,935 brouillons ont été interceptées avant d'atteindre les étudiants.
+
 ### Key ITS concepts
 
 - **[[knowledge-tracing|Traçage des connaissances]]** — modéliser ce qu'un étudiant sait au fil du temps (bayésien, apprentissage profond, fondé sur l'IRT)
@@ -159,7 +161,6 @@ Mais les modèles prêts à l'emploi ne fournissent pas nécessairement ces donn
 
 **Auditer le modèle de composantes de connaissances (KC) au regard des courbes d'apprentissage, puis reconcevoir à partir de ce que montrent les données.** Une étude croisée en classe a appliqué le processus de reconception fondé sur les données de Huang et al. à quatre unités d'un ITS de mathématiques de collège, choisi par sujet et non par aptitude à la reconception. L'analyse des courbes d'apprentissage dans DataShop a révélé une compétence d'interpolation non modélisée et des cas de traitement des signes confondus ; le découpage de ces KC et l'ajout d'une pratique ciblée avec saut des étapes maîtrisées ont produit un temps sur tâche plus productif (38,9 contre 31,6 minutes actives, p < .001) et cinq compétences supplémentaires maîtrisées dans le même temps de classe — mais aucune différence de gain d'apprentissage. Ce résultat nul s'explique par une dose de pratique mince (sous le seuil de 70% de maîtrise AFM dans les deux conditions) et par un post-test dépourvu d'items portant sur la compétence nouvellement découpée. Deux leçons pour les développeurs : les post-tests doivent couvrir les compétences nouvellement découvertes, et les bénéfices de l'adaptation sont bornés par la pratique que les étudiants reçoivent réellement. ([[lyu-data-driven-redesign-tutoring-2026]])
 
-
 Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026|Zhang et al. (2026)]] évaluent si les tuteurs fondés sur des modèles de langue s'adaptent à la compréhension évolutive des apprenants aux points de décision annotés par des enseignants. Ils constatent que les modèles de pointe penchent par défaut vers la sur-assistance et poussent rarement à la rigueur, et qu'une ingénierie d'invites sensible à l'évaluation améliore sans résoudre pleinement l'adaptativité. Chaque tour d'impasse supplémentaire a réduit de 12.7% les chances de récupération au tour suivant, et le questionnement a perdu de sa valeur avec la profondeur (question scriptée × profondeur AOR = 0.78) tandis que le traitement de l'erreur de l'étudiant devenait plus bénéfique (AOR = 1.14) — l'escalade d'un tuteur, et pas seulement sa rétention de réponse, doit changer à mesure qu'une impasse persiste ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). Une vue systématique de la branche de cette adaptation pilotée par l'apprentissage par renforcement provient de [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], dont la revue de 89 études sur l'apprentissage par renforcement en éducation conclut que les politiques d'apprentissage par renforcement classiques sont plus constamment efficaces que l'apprentissage profond par renforcement, et que l'adaptation par apprentissage par renforcement produit des gains significatifs plus souvent pour les tâches liées au guidage (indices, [[feedback|rétroaction]]) que pour la programmation des contenus — preuve que la manière dont un ITS adapte l'étayage compte autant que l'algorithme qu'il emploie.
 - **Adapter le type d'engagement cognitif, pas seulement son intensité.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] ont maintenu la difficulté constante et fait varier la forme de l'exemple travaillé — guidé (actif) ou erroné (constructif) — via une règle BKT et une politique d'apprentissage profond par renforcement, toutes deux surpassant l'affectation aléatoire (post-test 72.3 et 72.5 contre 65.7).
 
@@ -205,6 +206,8 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[speech-and-voice-technologies]]
 
 ## Articles liés
+
+- [[learnlm-eedi-expanded-rct-2026]] — Essai randomisé élargi au Royaume-Uni : gains de transfert proche mais aucun avantage aux tests standardisés à 10 semaines (LearnLM Team, Google et Eedi 2026)
 
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE : révéler les déficits de réactivité des tuteurs LLM sur des problèmes de programmation à solutions multiples (Cen et Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Soutenir ou remplacer le raisonnement des étudiants ? Le délestage cognitif dans l'apprentissage assisté par l'IA des preuves mathématiques (Chen et al. 2026)

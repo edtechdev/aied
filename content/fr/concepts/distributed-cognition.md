@@ -1,13 +1,13 @@
 ---
 title: "Cognition distribuée"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif
 - **Les enseignants aussi vivent une distribution dominée par l'IA plutôt que complémentaire.** La même logique d'efficacité-régulation s'applique au versant [[teacher-role|enseignant]] de la conception de leçon : [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] ont constaté que les enseignants novices délèguent une large part de la charge cognitive de conception pédagogique au système d'IA (une distribution dominée par l'IA, acceptant largement les réponses), tandis que les enseignants expérimentés et compétents en IA parviennent à une distribution complémentaire dans laquelle l'expertise pédagogique et le soutien informatique de l'IA se renforcent mutuellement — et, parce que l'[[generative-ai|IA générative]] génère et co-construit l'information plutôt que de simplement la stocker, ils formulent cela comme une *cognition partagée participative*, et non comme un simple usage d'outil.
 - **Les types d'interaction, et non les résultats, comme unité.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane et Arikan (2026)]] ont construit le **Cognitive Distribution Framework** à partir de 53 journaux d'usage [[self-directed-learning|autodirigé]] de ChatGPT : cinq types d'interaction (extension, externalisation, alignement, transformation, découplage) et quatre rôles d'utilisateur, de sorte qu'un même étudiant peut délester dans un échange et co-penser dans le suivant.
 - **La mémoire transactive donne à la distribution un mécanisme mesuré.** Chez 891 étudiants universitaires aux États-Unis et en Türkiye, ni l'auto-évaluation de la capacité de penser ni la confiance dans le partenariat avec l'IA ne prédisaient directement la [[critical-thinking|pensée critique]]. Les deux passaient par l'expérience accumulée de l'IAG, qui ne comptait que par la spécialisation et la coordination du travail (b = 0.636) et la transformation réflexive des productions (b = 0.367) ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]). Ces deux médiateurs prédisaient ensuite la pensée critique (b = 0.230 et 0.175) sans qu'il reste de chemin direct : ce avec quoi un système humain-IA pense, c'est l'agencement du travail, non le volume d'usage.
+
+- **La cognition étendue comme choix de conception, et non comme propriété d'un outil.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa et Duarte Arias (2026)]] soutiennent que l'IA générative est substitutive par défaut parce qu'elle accomplit la tâche cognitive, mais que le même système devient complémentaire lorsqu'il critique un brouillon ou fournit une rétroaction que l'apprenant doit évaluer. Leur cadre de l'esprit étendu fait de l'artéfact et de son usage l'unité d'analyse, ce qui est la version normative de la question de distribution posée par cette page.
 
 ### La cognition distribuée et les perspectives apparentées
 
@@ -106,3 +108,6 @@ Fowlin et al. (2026) opérationnalisent cette répartition comme une séquence e
 - [[cognitive-distribution-student-genai-interaction-2026]] — Le Cognitive Distribution Framework : cinq types d'interaction et quatre rôles issus de l'usage autodirigé de ChatGPT
 - [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La mémoire transactive avec l'IAG : division du travail et transformation réflexive médiatisent la pensée critique (Akgun & Toker 2026)
 - [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Pourquoi l'apprenant individuel est la mauvaise unité d'analyse
+
+- [[rivera-novoa-genai-extended-cognition-2026]] — La cognition étendue dans l'apprentissage des sciences : l'IA générative est substitutive par défaut, complémentaire par conception (Rivera-Novoa et Duarte Arias 2026)
+

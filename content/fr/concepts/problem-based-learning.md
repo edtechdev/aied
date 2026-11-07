@@ -1,7 +1,7 @@
 ---
 title: Apprentissage par problèmes
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ La méta-analyse à trois niveaux qui regroupe l'ABP soutenu par l'IA générati
 
 L'ABP est étroitement apparenté à l'[[project-based-learning|apprentissage par projets]] — tous deux sont centrés sur l'apprenant et mus par le problème ou le contexte — mais l'ABP se centre sur un *problème* mal structuré dont la solution exige une investigation et une construction de connaissances, là où l'apprentissage par projets se centre sur la production d'un *artefact* ou d'un projet tangible. L'ABP est également proche de l'apprentissage par cas et de l'[[inquiry-based-learning|apprentissage par investigation]], qui partagent la structure guidée par le problème et menée par la facilitation. Dans la cartographie de la base de connaissances, l'argument structurel en faveur d'une intégration productive de l'IA vaut pour toute pédagogie partageant ces caractéristiques, et non pour la seule ABP.
 
+[[case-based-learning|L'apprentissage par cas]] est le voisin le plus proche : il part d'un cas préparé et d'une cible pédagogique définie, tandis que l'ABP laisse le problème plus ouvert et l'investigation davantage menée par l'étudiant.
+
 ## Pourquoi l'ABP importe pour l'intégration de l'IA
 
 Parce qu'il met au premier plan le processus, la collaboration et la compréhension démontrée plutôt que la production d'artefacts, l'ABP est un terrain naturel pour l'[[ai-literacy|usage responsable de l'IA]] : les étudiants apprennent *avec* l'IA comme partenaire plutôt que *de* l'IA comme substitut. Le rôle du facilitateur et la conception du problème deviennent les leviers qui déterminent si l'IA soutient l'apprentissage ou le supplante — les mêmes préoccupations de [[human-in-the-loop-ai|supervision humaine]] et de conception de l'évaluation qui reviennent dans toute la base de connaissances.
@@ -83,6 +85,9 @@ L'[[productive-failure|échec productif (PF)]] partage le noyau [[constructivist
 ## Concepts liés
 
 - [[project-based-learning]]
+
+- [[case-based-learning]] — Cas préparés et discussion de cas, distincts de l'investigation ouverte de l'ABP
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[scaffolding]]

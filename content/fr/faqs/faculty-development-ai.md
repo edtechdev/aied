@@ -1,7 +1,7 @@
 ---
 title: "Comment concevoir un développement professionnel sur l'IA qui change réellement les pratiques enseignantes ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
@@ -10,7 +10,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -60,6 +60,8 @@ Le bras structuré a obtenu de meilleurs scores sur les sept dimensions de prép
 Deux autres résultats expliquent pourquoi les démonstrations ne voyagent pas. Dans [[pishtari-teacher-ai-training-learning-design-2026|une étude intra-sujets auprès de 13 enseignants du supérieur]], l'accès à un agent conversationnel a fait passer la part d'activités atteignant au moins deux tâches cognitives de Bloom d'ordre supérieur de 41.7% à 91.7% (p = .01) et réduit l'effort cognitif perçu d'une médiane de 6.33 à 3.33 (p = .004). La formation au [[prompt-engineering|prompting]] pédagogique ajoutée par-dessus n'a pas amélioré davantage la qualité de conception, et elle a légèrement augmenté l'effort. Par ailleurs, dans [[teachers-collaborative-evaluation-ai-content-2026|un atelier avec 60 enseignants de sciences du secondaire]], l'élément productif a été la revue collaborative de questions d'évaluation générées par ChatGPT, qui est ce qui a fait apparaître les problèmes de précision conceptuelle et le risque de renforcer les [[misconceptions|conceptions erronées]].
 
 Ce que ces études ont en commun : l'apprentissage venait de la critique et de la révision du matériel. Les gens améliorent la chose qui est devant eux, et ils l'améliorent plus vite quand un collègue la lit aussi.
+
+La compétence de recherche peut être la cible, et non un effet secondaire. Dans un programme de six semaines soutenu par l'IA auprès de 105 enseignants de chimie, chaque dimension mesurée s'est améliorée du prétest au post-test (*dz* de Cohen = 0.47 à 0.63), et le changement le plus marqué portait sur la compétence de recherche, passée de 3.50 (ET = 0.88) à 4.16 (ET = 0.52 ; *dz* = 0.63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). Les enseignants sont passés d'une description de l'IA comme outil de recherche documentaire et de rédaction à une description comme soutien à la planification de la recherche et aux décisions fondées sur les données. Le plan était une étude pré-post à groupe unique : traitez donc le gain comme une preuve de programme plutôt que comme un effet causal. Son apport est ailleurs : une manière concrète d'intégrer le rôle de chercheur au même cycle de développement professionnel.
 
 ## Cessez de traiter la compétence comme la pièce manquante
 

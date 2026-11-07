@@ -1,7 +1,7 @@
 ---
 title: Pédagogies et stratégies d'enseignement
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ La [[research-methods-aied|recherche]] de la base de connaissances examine la p�
 - **La réflexion est une pédagogie que l'IA à la fois favorise et menace.** Les invites structurées, les journaux et les commentaires de [[eportfolio|portfolio]] sont le mécanisme par lequel l'expérience devient apprentissage, et la page [[reflection]] porte les données probantes. Une expérience préenregistrée a constaté que des invites qui doublaient le temps consacré à la rétroaction réduisaient le volume de pratique de 40 % sans accroître le gain par problème. Un audit codé d'un partenaire de réflexion par IA a constaté qu'il enfreignait chaque consigne comportementale sans laisser de trace visible. Concevez l'invite autour d'une tentative achevée, et exigez la trace plutôt que l'entrée soignée.
 - **Stratégies d'enseignement pour la littératie IA.** Enseigner aux étudiants *à bien utiliser l'IA* est lui-même une tâche pédagogique — la [[ai-literacy]] et la [[reducing-ai-misuse|réduction des détournements de l'IA]] développent des stratégies (réfléchir d'abord/IA ensuite/réfléchir encore, déclaration d'usage de l'IA, entraînement à la calibration) qui relèvent de ce parapluie.
 
+- **La métaphore et l'analogie comme technique d'enseignement.** La page [[metaphors-and-analogies|métaphores et analogies]] rassemble les données probantes sur la manière dont les analogies expliquent l'IA, sur les points où elles échouent et sur la façon dont les étudiants peuvent les auditer comme une forme de [[critical-thinking|pensée critique]].
+
 - **L'enseignement de la littératie IA fait progresser les connaissances le plus vite.** Une [[meta-analysis-systematic-review|méta-analyse]] à trois niveaux portant sur 59 études (172 tailles d'effet) a constaté que les interventions centrées sur les connaissances (g ≈ .97) surpassaient clairement celles ciblant les compétences (≈ .67), les attitudes (≈ .68) ou l'[[ethics|éthique]] (≈ .64) ; il faut donc associer l'enseignement notionnel à une pratique soutenue pour viser les résultats qui résistent à l'enseignement ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **La pédagogie dans la pratique enseignante.** Le [[teacher-role|rôle de l'enseignant]] et la [[teacher-ai-competency|compétence des enseignants en IA]] examinent comment les enseignants adoptent l'IA au sein de leur répertoire pédagogique existant, tandis que le [[llm-training-and-fine-tuning|entraînement et l'ajustement fin des LLM]] et l'[[pedagogical-agent|agent pédagogique]] étudient les outils d'IA entraînés à suivre des principes pédagogiques.
 
@@ -109,9 +111,15 @@ Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+
+- [[metaphors-and-analogies]] — La métaphore et l'analogie comme technique d'enseignement
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+
+- [[case-based-learning]] — La méthode des cas et les cas contrastés comme techniques d'enseignement
+
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

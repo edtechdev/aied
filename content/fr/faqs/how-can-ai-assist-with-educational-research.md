@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle assister la recherche en éducation ?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -17,7 +17,7 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -67,6 +67,8 @@ L'essentiel du bénéfice vient de deux décisions de conception. Écrivez des r
 [[qualitative-research|L'analyse qualitative]] est l'étape où l'interprétation est le produit. Les construits, les grilles de codage et les données d'entraînement sont des décisions humaines plutôt que des productions de modèle ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), ce qui signifie que le livre de codes doit être arrêté avant qu'une passe automatisée ne parcoure le corpus. L'alternative est un schéma de codage écrit autour de ce que le modèle a fait émerger, et les thèmes décrivent alors la lecture de vos données par l'outil.
 
 La délégation peut être plus fine que tout ou rien. [[agreement-not-quality-llm-coding-verification|Une étude de vérification en aveugle]] a classé 15 des 72 items du livre de codes comme exigeant manifestement une expertise humaine, 12 comme mieux servis par un modèle et 16 comme adaptés à un tri fondé sur la confiance. Classez vos propres items de cette façon et l'économie de travail tombe là où elle est sûre.
+
+La modélisation thématique peut étendre cette structure sans se substituer à l'interprétation. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey et Flor (2026)]] ont combiné un codage ancré, des plongements SentenceBERT regroupés par Affinity Propagation et un étiquetage par GPT-4 sur six groupes de discussion réunissant 13 enseignants. La revue humaine a écarté 18 clusters de communication et 16 clusters de littératie numérique qui relevaient du remplissage conversationnel, laissant 14 et 16 clusters significatifs ; ChatGPT-4o et Copilot étaient d'accord sur 33.3% et 43.8% des étiquettes, avec une similarité cosinus de 0.835–0.880, et la revue humaine n'a trouvé aucune hallucination manifeste. L'étude décrit un pipeline de travail, pas une comparaison : elle ne comporte ni bras humain seul ni bras IA seul, et 13 enseignants ne permettent pas d'établir une généralisabilité. Servez-vous-en pour voir la division du travail, non comme preuve que l'hybride surpasse les alternatives.
 
 ## Décidez ce que vérifier veut dire et qui le signe
 

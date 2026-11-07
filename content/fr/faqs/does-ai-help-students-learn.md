@@ -1,7 +1,7 @@
 ---
 title: "Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 weight: 90
 audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
@@ -9,7 +9,7 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/does-ai-help-students-learn
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -63,6 +63,8 @@ C'est la vérification la plus informative dont vous disposez, et c'est celle qu
 La mise en garde la plus claire du corpus est une expérience de terrain randomisée portant sur près de 1.000 lycéens, [[generative-ai-guardrails-harm-learning|Generative AI without guardrails can harm learning]]. Une interface de type généraliste a augmenté les scores de pratique assistée de 48% par rapport au contrôle, et les mêmes étudiants ont ensuite obtenu 17% de moins aux examens sans aide. Un tuteur configuré avec des consignes et des indices conçus par l'enseignant a largement évité cette pénalité. Il n'a pas produit d'amélioration statistiquement significative de la performance aux examens sans aide par rapport au groupe contrôle. Éviter un préjudice et démontrer un apprentissage supplémentaire sont deux accomplissements distincts.
 
 À l'échelle nationale, la même scission apparaît avec un décalage. [[stromberg-generative-ai-learning-penalty-secondary-2026|The Generative AI Learning Penalty]] a suivi 26.811 élèves chinois du secondaire, de la 7e à la 12e année, sur 30 mois, en utilisant une adoption échelonnée. Les scores de devoirs ont augmenté de 18% et le temps de réalisation a chuté de 30%, de 64 à 45 minutes. Les scores aux examens mensuels à livre fermé ont chuté de 20% en six mois, et les scores aux examens d'entrée à enjeux élevés ont chuté de 18-24% de la référence, mais seulement après environ deux ans. Les pertes se concentraient chez les quelque 81% d'utilisateurs dont le comportement indiquait une externalisation des devoirs, tandis que les étudiants qui maintenaient un temps de devoirs comparable à celui des non-utilisateurs apprenaient à peu près aussi efficacement. Deux choses s'ensuivent pour votre cours : la divergence entre performance aux devoirs et performance aux examens est l'[[learning-gains|écart performance-apprentissage]] dans une cohorte nationale, et le décalage de deux ans signifie qu'une évaluation sur un semestre sous-estimera systématiquement le coût.
+
+Un usage non guidé peut aussi laisser la réussite inchangée à l'échelle d'une population. [[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]] ont suivi 4.062 élèves du secondaire dans 136 écoles allemandes sur une année scolaire. L'usage pour mener à bien les tâches et l'usage orienté vers l'apprentissage ont tous deux progressé (d = 0.35 et 0.33), seulement environ 5% n'ont jamais utilisé l'IA générative, et un niveau de réussite antérieur plus faible prédisait davantage d'usage pour mener à bien les tâches dans les six matières et davantage d'usage orienté vers l'apprentissage dans cinq matières sur six. Aucune des deux formes d'usage ne prédisait la réussite ultérieure dans les modèles à décalage croisé. C'est une association nulle, pas la preuve que l'IA ne peut pas aider ; cela signifie bel et bien que l'accès et l'[[self-directed-learning|usage autonome]], sans activité d'apprentissage conçue, ne constituent pas une intervention d'apprentissage.
 
 L'[[cs-education|enseignement de l'informatique]] montre la même structure. La [[kumar-genai-computing-education-systematic-review-2026|revue systématique de 72 études]] a trouvé que l'IA générative augmentait de façon fiable l'achèvement à court terme et réduisait le temps passé sur la tâche dans 36 études, sans qu'une seule étude du corpus documente un effet négatif sur la performance immédiate, et ces gains « ne se transfèrent pas à la performance indépendante » dans 21 études. Les étudiants assistés par Codex ont accompli deux fois plus de tâches pendant l'apprentissage et n'ont pas mieux réussi que les contrôles aux post-tests sans IA.
 

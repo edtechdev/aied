@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: "L'écriture"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ L'accord est une propriété du corpus, non du correcteur : [[automated-scoring-
 - **La révision et le positionnement dialogique :** là où la plupart des recherches sur la rétroaction en écriture demandent si une révision a amélioré le texte, [[zhao-ji-appraisal-human-ai-revisions-2026|Zhao et Ji (2026)]] demandent quelle posture le texte révisé adopte. Codant 168 dissertations argumentatives d'apprenants d'EFL avec la théorie de l'évaluation (Appraisal Theory) — premiers jets, révisions après [[peer-assessment|rétroaction par les pairs]], et révisions ChatGPT-4 des mêmes jets — ils ont constaté que les trois conditions étaient statistiquement indiscernables quant à la quantité de langage d'Engagement employée, mais différemment configurées : les révisions issues de la rétroaction par les pairs devenaient plus contractives (plus de Counter et d'Endorse, moins d'Entertain), tandis que les révisions de l'IA maintenaient un mélange Contract/Expand plus équilibré associant une contre-argumentation plus forte à un hedging continu. Leur lecture est qu'une révision par l'IA est surtout utile comme texte contraste auquel les étudiants comparent leur propre révision, plutôt que comme réponse modèle, et que la [[ai-feedback-quality|rétroaction de l'IA]] sur l'argumentation peut améliorer la prose tout en refermant silencieusement l'espace dialogique de l'auteur — une dimension qu'aucun barème actuel ne saisit.
 
 - **Le soutien au processus d'écriture et l'autonomie :** les recherches sur l'[[agency-gap-ai-writing|écart d'autonomie]] et sur l'[[ai-writing-support-stage-ownership-2026|appropriation selon les étapes]] explorent comment l'IA transforme le processus d'écriture, de la planification à la révision, et comment l'[[agency|autonomie]] des étudiants est affectée lorsque l'IA intervient à différentes étapes.
+
+- **Le raisonnement doit se relier à la révision.** Maike, un agent conversationnel socratique qui diagnostique les arguments et cible ses questions sans générer de texte de dissertation, a produit davantage de dialogue au niveau des idées (56 % contre 44 % des tours) qu'un agent conversationnel témoin ([[favero-thinking-not-writing-chatbot-2026|Favero et coll. (2026)]]). Les transitions entre les idées discutées et les modifications étaient positivement associées aux gains de score, environ 40 % des 65 élèves du secondaire ayant amélioré leur dissertation.
 
 - **Les perspectives posthumanistes :** [[posthumanist-ai-literacy-2025|une approche posthumaniste de la littératie en IA]] recadre l'écriture comme un enchevêtrement humain-IA dans lequel l'[[agency|autonomie]] est distribuée, contestant à la fois l'anthropomorphisation non critique de l'IA et son rejet comme simple outil — une vision relationnelle plutôt que transactionnelle de la littératie en IA.
 
@@ -180,6 +182,8 @@ Le récit de classe le plus complet de cette refonte est le déploiement PAIRR. 
 - [[reflection]]
 
 ## Articles liés
+
+- [[favero-thinking-not-writing-chatbot-2026]] — Penser n'est pas écrire : concevoir des agents conversationnels d'IA qui relient le raisonnement et la révision
 
 - [[gunay-ozden-process-genre-ai-writing-2026]] — Une quasi-expérience sur 32 élèves : l'enseignement processus-genre a amélioré l'écriture informative, multimodale et assistée par l'IA (Günay & Özden 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 professeurs d'écriture sur la notation avec l'IA : bénéfices pour la rétroaction, dérive des scores, aucune règle institutionnelle

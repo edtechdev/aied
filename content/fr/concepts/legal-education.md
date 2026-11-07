@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-07T15:44:15-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Des données probantes expérimentales commencent à arriver : [[xie-genai-myste
 - **Revues, plaidoirie simulée et accompagnement.** Tri des soumissions, préparation de la plaidoirie et programmes de [[student-support-and-success|soutien académique]] utilisant des modèles personnalisés entraînés sur des examens antérieurs, des réponses modèles et des supports de cours.
 - **Évaluation et intégrité.** Les cas problématiques récurrents : rédaction non divulguée, citation d'une autorité inexistante, et examens qui ne mesurent plus l'analyse sans aide.
 
+- **Une revue de portée de 82 travaux, majoritairement non empirique.** [[lorteau-sarro-ai-legal-education-2025|Lorteau et Sarro (2025)]] cartographient 82 travaux issus de 26 pays ; 74% sont parus après 2023 et seuls 22 étaient empiriques. Les modèles non assistés réussissent les évaluations de l'école de droit mais se classent en dessous des étudiants, et la performance s'améliore avec des consignes détaillées et des sources de droit fournies sans devenir fiable. Les usages pratiques de la revue sont les supports générés, les simulations, l'accompagnement à la rédaction et l'enseignement des compétences en IA ; son risque central est la dépendance passive, l'[[assessment-validity|validité de l'évaluation]] en étant le point de pression.
+
 ## Ce que montrent les données probantes sur les politiques
 
 Gutowski et Hurley évaluent les politiques selon cinq dimensions avec des barèmes de 0 à 5 : le **caractère prohibitif**, le **caractère permissif**, l'**intégration pédagogique**, la **transparence et la responsabilité**, et la **profondeur**. Leur recensement a montré que la plupart des écoles de droit avaient adopté des positions généralement prohibitives, souvent expliquées comme un moyen de gagner du temps pour étudier la technologie, tandis que presque toutes les politiques réservaient leur pouvoir d'appréciation aux enseignants individuels. Les évaluations de caractère permissif et prohibitif étaient corrélées négativement, comme prévu, et les auteurs ne relèvent aucune approche unanimement acceptée : les politiques vont de la gouvernance complète à l'absence totale de politique déclarée.
@@ -72,6 +74,8 @@ Les recommandations sont de nature procédurale : des lignes directrices claires
 ## Pourquoi la discipline est distinctive
 
 Trois choses font de l'enseignement du droit plus qu'un domaine disciplinaire de plus.
+
+La méthode des cas est un membre de la famille plus large de l'[[case-based-learning|apprentissage par cas]] ; cette page distingue les cas préparés et la discussion de cas de l'enquête par problèmes et de la simulation.
 
 **La validité de l'évaluation est indissociable de la compétence professionnelle.** On craint que la [[cognitive-offloading|dépendance excessive]] pendant les études de droit ne laisse des diplômés mal préparés à un travail qui exige une analyse et une plaidoirie juridiques indépendantes, et qu'une notation récompensant la fluidité de la production ne puisse distinguer la compréhension d'un étudiant de celle d'un modèle. La question de la [[assessment-validity|validité]] n'est donc pas purement académique.
 
@@ -102,6 +106,9 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 - [[governance]] — la gouvernance par le corps professoral et la création de politiques telles que les écoles de droit les pratiquent
 - [[educational-policy-ai]] — la politique institutionnelle en matière d'IA comme objet d'étude
 - [[critical-thinking]] — le raisonnement que la méthode des cas vise à construire
+
+- [[case-based-learning]] — la méthode des cas et la discussion de cas comme pédagogie
+
 - [[socratic-method]] — un dialogue qui dépend de la préparation de l'étudiant
 - [[experiential-learning]] — les cliniques et la formation par la pratique
 - [[professional-training]] — la famille élargie des professions réglementées
@@ -111,6 +118,8 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 - [[legal-issues-and-risks]] — ce à quoi les institutions font face lorsque la gouvernance échoue
 
 ## Articles liés
+
+- [[lorteau-sarro-ai-legal-education-2025]] — L'intelligence artificielle dans l'enseignement du droit : une revue de portée de 82 travaux (Lorteau et Sarro 2025)
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparaison à cinq facteurs des politiques d'IA générative des écoles de droit et cadre de gouvernance
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing en aveugle sur les examens italiens du barreau, de magistrature et de notaire, comparés à une correction par des experts
