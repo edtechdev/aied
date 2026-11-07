@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-11-07T13:20:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -28,6 +28,8 @@ AI in business education is a growing [[discipline-specific-aied|discipline-spec
 ## AI in business education across the knowledge base's research
 
 - **Student-informed frameworks.** [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] present a student-informed conceptual framework for integrating GenAI throughout business degree programs, based on a 149-student UK case study. Students were highly engaged, recognized the need for GenAI skills for their careers, and wanted to use AI without unintentionally committing academic misconduct.
+- **A value-based strategy analysis, not an outcome study.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] apply willingness to pay and delivery cost to the MBA and adjacent programs. AI may substitute for training or complement it by raising the value of judgment, ethics and leadership; teaching content, method and audience are all unsettled, and research capability is the variable that decides whether schools are complemented or displaced.
+
 - **A decade of research.** [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] bibliometrically mapped 213 articles (2015–2024) on AI in business education, identifying four clusters: AI-driven business education transformation, innovative digital pedagogies, AI-enhanced [[personalized-learning|personalization]], and business education aligned with the digital economy — with persistent gaps in curriculum coherence, educator readiness, and assessment validity.
 - **Constructive alignment.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] analyzed 17 cases of GenAI adoption at a UK business school, finding the balance between pedagogical benefits and risks was shaped by the **degree of curriculum integration** — constructive integration produced better outcomes.
 - **Student insights on curricula.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]] drew on 166 undergraduate business students in a capstone unit, finding strong support for integrating GenAI into curricula with three priority areas: understanding/optimizing GenAI functionality, exploring applications across contexts, and navigating ethical/legal dimensions.
@@ -84,6 +86,7 @@ Case studies and simulations are the teaching formats closest to this literature
 
 ## Connected Articles
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+- [[csaszar-ai-management-education-2026]] — The effects of AI on management education: a value-based strategy analysis (Csaszar et al. 2026)
 
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-07T13:20:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -42,6 +42,8 @@ Experimental evidence is beginning to arrive: [[xie-genai-mystery-game-legal-edu
 - **Task-specific profiles, not a leaderboard.** Under a blind protocol, the same out-of-the-box models that reached human bar-exam levels (cumulative scores 26–79 of 100) all failed the notary exam, which requires goal-directed legal planning under strict formal constraints — and were misled by deliberate traps embedded in it ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
 - **Journals, moot court and advising.** Screening submissions, preparing advocacy, and [[student-support-and-success|academic support]] programs using custom models trained on past exams, model answers and course materials.
 - **Assessment and integrity.** The recurring problem cases: undisclosed drafting, citation to non-existent authority, and exams that no longer measure unaided analysis.
+
+- **An 82-work scoping review, mostly non-empirical.** [[lorteau-sarro-ai-legal-education-2025|Lorteau and Sarro (2025)]] map 82 works from 26 countries; 74% appeared after 2023 and only 22 were empirical. Unaided models pass law-school assessments but rank below students, and performance improves with detailed instructions and supplied authority without becoming reliable. The review's practical uses are generated materials, simulations, writing coaching and AI-skills instruction; its central risk is passive reliance, with [[assessment-validity|assessment]] as the pressure point.
 
 ## What the policy evidence shows
 
@@ -102,6 +104,7 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 
 ## Connected Articles
 
+- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: an 82-work scoping review (Lorteau & Sarro 2025)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
 - [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's position suppresses overreliance in legal-context decisions without building judgment (lay decision-makers, not law students)

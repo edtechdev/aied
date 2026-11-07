@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -41,6 +41,8 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 - **Affective dimensions of AI:** SEL connects to [[affective-computing]] and [[well-being]] research, examining how AI systems can support or undermine emotional and relational learning.
 
 - **Policy deficit in AI × SEL:** A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the AI–SEL intersection ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) finds a substantial "policy deficit": nearly three-quarters of studies state no policy implications, and the few that do often lack actor-specific guidance. The review links policy engagement to publication venue and warns of a "techno-solutionist" trap in which technical potential is foregrounded while the institutional conditions for responsible implementation remain under-specified. It proposes a "WH-question" framework (Who, What, Why, When/Where, How) to move from "implication-as-afterthought" to "implication-as-methodology," connecting [[ai-education|AI-for-SEL]] innovation to [[educational-policy-ai|educational policy]] and [[governance]].
+
+- **A 43-study mapping review of GenAI and SEL.** [[liu-genai-sel-mapping-review-2026|Liu et al. (2026)]] coded 43 studies across six SEL domains and found cognitive competencies in 24, identity in 15, social in 14 and emotion in 7, while values (4) and perspectives (3) were marginal. Nineteen affordances clustered into seven genres; 38 of 43 studies met only the lowest transparency tier. The inventory shows where the SEL evidence is thick and where ethical reporting is thin.
 
 ## Potential subtopics of SEL in the AI-era research
 
@@ -121,6 +123,7 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 
 ## Connected Articles
 
+- [[liu-genai-sel-mapping-review-2026]] — A 43-study mapping review of GenAI and SEL: uneven competency coverage and thin ethics reporting
 - [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework

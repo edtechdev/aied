@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-06T09:20:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -60,6 +60,8 @@ AI in medical and health-professions education is a growing strand of the knowle
 
 A 153-report scoping review of GenAI in medical education maps applications — [[simulation]] and clinical skills largest (47 reports), ahead of assessment generation and feedback (22) and case-based learning and clinical reasoning (21) — yet only 13 reports carried a follow-up or retention signal and no patient-level outcome was found ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
+- **AI-powered PBL and CBL: six randomized trials, two of them CBL.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] pooled four trials for knowledge (46%, 95% CI 0.18 to 0.73), three for satisfaction (0.7, 95% CI 0.47 to 0.92), and could not pool clinical reasoning because the instruments differed. Only two trials tested case-based learning and the review did not analyze the formats separately, so the result supports AI-supported problem designs without identifying which case features matter.
+
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The knowledge base's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
@@ -104,6 +106,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[virtual-and-augmented-reality]] — immersive and AR clinical training
 
 ## Connected Articles
+- [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025]] — AI-powered PBL and CBL in medical and dental education: six RCTs, only two CBL (Wei et al. 2025)
 - [[zhu-ai-digital-pathology-residents-2026]] — AI-assisted digital pathology improves diagnostic performance and reduces experience-related performance gaps in pathology residents interpreting prostate biopsies
 - [[giancotti-data-provenance-health-ai-curricula-2026]] — Health AI curricula teach ethics (80.6%) but rarely data provenance (22.2%)
 - [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform

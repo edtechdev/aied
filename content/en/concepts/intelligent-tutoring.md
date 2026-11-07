@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-02T06:00:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -70,6 +70,8 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **Statistical equivalence to expert human tutoring.** Across 2,469 sessions from 2,383 adults, pooled AI tutoring matched live one-to-one expert human tutoring on GRE [[learning-gains|learning gains]] (p=.015 against ±0.25-SD bounds; adjusted difference -0.58 percentage points) and both beat a video control by about six points; six of twelve tutors passed individual equivalence tests, with Gemma 4 31B matching human gains at 918× lower cost per percentage point ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 - **Prompt-based micro-personalization of an LLM tutor (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] personalize the Jill Watson [[llm]]/[[rag]] [[teacher-role|teaching]] assistant at the level of individual questions entirely through prompt engineering — conditioning responses on six learner dimensions ([[metacognition|metacognitive]] [[self-assessment]], abstraction, verbosity, perception, processing, understanding) and classifying each query's cognitive demand with a [[cognitive-diagnosis|Bloom's Taxonomy]] classifier, yielding 96 learner profiles with no model retraining. NLP analysis of 2,910 responses and a human study found measurable, perceptible differences in response abstraction, verbosity, complexity, and processing style aligned with intended effects. It demonstrates response-form (rather than content) adaptation as a scalable, modular route to [[adaptive-learning|adaptive behavior]] in a deployed tutor.
+
+- **Near transfer without standardized-test gains at classroom scale.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google and Eedi (2026)]] randomized 1,179 students in 10 UK state schools to four arms for 10 weeks. After support, 56.5-56.9% answered a second diagnostic question correctly against 43.4% under standard remediation; Star Maths effects were -0.01 to +0.02 SD. Tutors approved 94.7% of 94,385 drafts unchanged, and 6 errors in 114,935 drafts were caught before reaching students.
 
 ### Key ITS concepts
 
@@ -186,6 +188,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[speech-and-voice-technologies]]
 
 ## Connected Articles
+- [[learnlm-eedi-expanded-rct-2026]] — Expanded UK RCT: near-transfer gains but no standardized-test advantage at 10 weeks (LearnLM Team, Google & Eedi 2026)
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revealing responsiveness gaps of LLM tutors on multiple-solution programming problems (Cen & Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)

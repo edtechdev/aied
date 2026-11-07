@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-07T13:45:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -36,6 +36,8 @@ Generative and interactive AI systems redistribute cognitive work in ways earlie
 - **Teachers too experience AI-dominant versus complementary distribution.** The same efficiency–regulation logic applies to the [[teacher-role|teacher]] side of lesson design: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that novice teachers delegate a large share of instructional-design cognitive load to the AI system (an AI-dominant distribution, largely accepting responses), whereas experienced, AI-proficient teachers reach a complementary distribution in which pedagogical expertise and AI's computational support mutually reinforce. Because [[generative-ai|GenAI]] generates and co-constructs rather than merely stores information, they frame this as *participatory shared cognition*, not mere tool use.
 - **Interaction types, not outcomes, as the unit.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane and Arikan (2026)]] built the **Cognitive Distribution Framework** from 53 logs of [[self-directed-learning|self-directed]] ChatGPT use: five interaction types (extension, outsourcing, alignment, transformation, decoupling) and four user roles, so the same student can offload in one exchange and co-think in the next.
 - **Transactive memory gives the distribution a measured mechanism.** Among 891 college students in the United States and Türkiye, neither self-appraised thinking ability nor confidence in the AI partnership predicted [[critical-thinking|critical thinking]] directly. Both worked through accumulated GenAI experience, which mattered only via specialization and coordination of labor (b = 0.636) and reflective transformation of output (b = 0.367) ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]). Those two mediators then predicted critical thinking (b = 0.230 and 0.175) with no direct path left, so what a human-AI system thinks with is the arrangement of the work, not the amount of use.
+
+- **Extended cognition as a design choice, not a tool property.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa and Duarte Arias (2026)]] argue that generative AI is substitutive by default because it performs the cognitive task, but the same system becomes complementary when it critiques a draft or supplies feedback the learner must evaluate. Their extended-mind frame makes the unit of analysis the artifact plus its use, which is the normative version of this page's distribution question.
 
 ### Distributed cognition and related perspectives
 
@@ -92,3 +94,4 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 - [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
 - [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Transactive memory with GenAI: division of labor and reflective transformation mediate critical thinking (Akgun & Toker 2026)
 - [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Why the individual learner is the wrong unit of analysis
+- [[rivera-novoa-genai-extended-cognition-2026]] — Extended cognition in science learning: GenAI is substitutive by default, complementary by design (Rivera-Novoa & Duarte Arias 2026)
