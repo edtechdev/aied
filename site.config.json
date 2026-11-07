@@ -2,7 +2,7 @@
   "name": "AI in Education Knowledge Base",
   "shortName": "AIEd KB",
   "brandName": "AIEd Knowledge Base",
-  "description": "A knowledge base on artificial intelligence in education.",
+  "description": "A knowledge base on artificial intelligence in education, including selected research from other fields with implications for teaching and learning.",
   "lang": "en",
   "content": {
     "root": "content",

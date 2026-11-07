@@ -9,6 +9,7 @@ import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
+import { evidenceContextNote } from '../../lib/evidenceContext';
 import { ARTICLE_REDIRECTS } from '../../data/articleRedirects';
 
 export async function getStaticPaths() {
@@ -95,6 +96,7 @@ const updatedDisplay = (updated || created || '').split('T')[0];
 // this knowledge base" -- without the distinction a paper from last year reads as
 // if it were published the day it was ingested.
 const publishedDisplay = (published || '').trim();
+const contextNote = evidenceContextNote(article.data.evidence_context);
 const body = article.body || '';
 const citationLine = body.match(/^##\s+Citation\s*\n+\s*(.+)$/m)?.[1] ?? '';
 const citationText = citationLine
@@ -164,6 +166,12 @@ if (connectedResources.length > 0) {
       </div>
     </div>
 
+    {contextNote && (
+      <aside class="research-context-note" role="note">
+        <strong>{contextNote.title}.</strong> {contextNote.body}
+      </aside>
+    )}
+
     <div style="line-height:1.8" data-pagefind-body>
       {(doi || citationText) && (
         // Compact identifier metadata for exact DOI and author lookups:
@@ -203,3 +211,16 @@ if (connectedResources.length > 0) {
     <SourceButtons filePath={contentFilePath('articles', article.id)} />
   </article>
 </BaseLayout>
+
+<style>
+  .research-context-note {
+    margin: 0 0 1.5rem;
+    padding: 0.85rem 1rem;
+    border-left: 4px solid var(--primary);
+    background: color-mix(in srgb, var(--primary) 7%, transparent);
+    border-radius: 0 6px 6px 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  .research-context-note strong { color: var(--color); }
+</style>

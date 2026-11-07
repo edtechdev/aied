@@ -230,6 +230,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
   so a purged category fails loudly instead of reading as "every skill is new".
 
 ### Rules
+- **Adjacent AI research (2026-11-07).** When a paper is about AI, learning, or human behavior but was not conducted in an educational setting, use the `adjacent-research-ingestion` skill and the full policy in [`docs/adjacent-research.md`](docs/adjacent-research.md). Record a Tier 1, 2, or 3 disposition **before** drafting. Tier 1 uses the ordinary article collection and sets `evidence_context: non_educational` or `mixed`; Tier 2 is a direct scholarly citation in a concept, not a fake article link; Tier 3 stays in the private backlog. Keep what the paper measured separate from the educational application and state what remains untested. Do not create a parallel collection or one article per cited study. Absence of `evidence_context` on a legacy page means unclassified, never educational.
 - NO duplicate H1 headings in body (template adds the title)
 - NO duplicate sections (on a concept, resource or FAQ page: one Connected Concepts, one Connected Articles; an article page carries none)
 - FAQ narratives follow the same inline-link convention as articles and concepts (link every concept mention, including links to other FAQs); `connected_faqs` on concept/article pages drives the Connected FAQs section

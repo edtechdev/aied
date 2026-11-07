@@ -73,6 +73,13 @@ article:
   limitations_min: 2
   limitations_max: 6
 
+# New articles must say where their evidence was collected. `educational` is
+# required for a classroom study too; absence on a legacy page means "not yet
+# classified", never "educational". The date starts after the existing corpus so
+# this is an editorial rule for new work, not a bulk migration.
+evidence_context:
+  required_since: "2026-11-08"
+
 build:
   # HARD GATES - run in this order before every build/commit. A green build is
   # not a substitute for either gate.
@@ -133,6 +140,10 @@ build:
     # AI-use / provenance fields: valid values everywhere, and present on pages
     # created on or after the date the per-page fields were introduced (see AI-USE.md).
     - python3 tooling/scripts/check-ai-disclosure.py
+    # New articles must record whether the study measured education directly,
+    # extrapolated from another setting, or both. Legacy pages may omit the field;
+    # absence is never read as "educational".
+    - python3 tooling/scripts/check-evidence-context.py
     # Per-change provenance: commits should carry AI-Model/AI-Role trailers.
     # Advisory (exit 0) because commits made before the convention cannot be fixed.
     - python3 tooling/scripts/check-ai-disclosure-trailers.py

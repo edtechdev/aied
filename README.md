@@ -11,6 +11,7 @@ A free, linked knowledge base on artificial intelligence in education: research,
 ### What's inside
 
 - **Articles** — one page per paper: key findings, methods, and an APA citation linking the full text.
+- **Adjacent research** — selected studies from other fields whose findings bear on a concrete educational decision. When the study was not conducted in an educational setting, the article says so and separates the measured result from the educational application. See [docs/adjacent-research.md](docs/adjacent-research.md) for the inclusion policy.
 - **Concepts** — synthesized topic pages (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to the research behind it. The [concept index](https://edtechdev.github.io/aied/concepts/) lists them all by section.
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them. The [FAQ index](https://edtechdev.github.io/aied/faq/) groups them by theme.
 - **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves. Browse them on the [resources page](https://edtechdev.github.io/aied/resources/).
@@ -102,7 +103,7 @@ Code is MIT licensed; the knowledge-base content is released to the public domai
 
 Astro 7, deployed to GitHub Pages at base path `/aied` by GitHub Actions. Pagefind provides full-text search; RSS, sitemap and schema.org JSON-LD are generated at build time. Content is markdown in collections defined in `src/content.config.ts`. The local build runs `astro check`, `astro build`, Pagefind, then the service-worker step.
 
-The design notes behind the current site behavior are in `docs/`: `search-implementation-report.md` (Pagefind ranking, aliases, DOI/citation indexing, browse mode), `build-size-and-deployment.md` (what the build measures and how Pages packaging works), `compact-navigation.md` and `lazy-sidebar.md` (the reduced page shell and on-demand taxonomy), `offline-routing.md` (service-worker fallback), and `newsletters.md` (the newsletter contract and localized editions).
+The design notes behind the current site behavior are in `docs/`: `search-implementation-report.md` (Pagefind ranking, aliases, DOI/citation indexing, browse mode), `build-size-and-deployment.md` (what the build measures and how Pages packaging works), `compact-navigation.md` and `lazy-sidebar.md` (the reduced page shell and on-demand taxonomy), `offline-routing.md` (service-worker fallback), `newsletters.md` (the newsletter contract and localized editions), and `adjacent-research.md` (the inclusion policy for research conducted outside educational settings).
 
 ### Quick start
 
@@ -172,7 +173,7 @@ Every page type shares the typed metadata fields and a `[[wikilink]]` body. They
 
 ### Typed metadata
 
-The concepts a page touches are named in facet fields — `foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics` — each taking concept slugs filed under that field's own section of `concepts.registry.yaml`. Alongside them sit the phrase fields `research_method`, `discipline`, `level`, `audience` and `page_kind`. They render as the metadata table at the foot of every page and drive the Pagefind facets and the page's schema.org keywords. A value of the wrong kind fails the build. See [tooling/SCHEMA.md](tooling/SCHEMA.md); the JSON-LD mapping is in [docs/json-ld.md](docs/json-ld.md).
+The concepts a page touches are named in facet fields — `foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics` — each taking concept slugs filed under that field's own section of `concepts.registry.yaml`. Alongside them sit the phrase fields `research_method`, `discipline`, `level`, `audience` and `page_kind`. They render as the metadata table at the foot of every page and drive the Pagefind facets and the page's schema.org keywords. A value of the wrong kind fails the build. Articles also carry an optional `evidence_context` (`educational`, `non_educational`, `mixed`) recording where the evidence was collected; absence on a legacy page means unclassified, not educational. See [tooling/SCHEMA.md](tooling/SCHEMA.md); the JSON-LD mapping is in [docs/json-ld.md](docs/json-ld.md).
 
 ### Pipeline commands
 

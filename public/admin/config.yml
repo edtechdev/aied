@@ -56,6 +56,10 @@ collections:
       - { name: type, widget: hidden }
       # The paper's own publication date, distinct from created (the ingestion date)
       - { name: published, label: Published, widget: string, required: false, hint: "Date the PAPER was published: YYYY-MM-DD, YYYY-MM or YYYY. Never invent a day; leave blank if unknown." }
+      # Where the evidence was collected. This is not a confidence rating and not
+      # a discipline: it tells readers when the educational implication is an
+      # inference from a non-classroom study. Leave blank on legacy pages.
+      - { name: evidence_context, label: Research context, widget: select, options: [educational, non_educational, mixed], required: false, hint: "educational = the study measured education directly; non_educational = the implications are inferred from another setting; mixed = both were studied." }
       # tags must be real concept slugs (enforced by src/content.config.ts)
       - name: tags
         label: Tags

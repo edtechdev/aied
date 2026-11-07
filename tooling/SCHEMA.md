@@ -30,6 +30,7 @@ updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 published: "YYYY-MM-DD"                # articles only, optional: the PAPER's publication date
 type: article | concept | faq
 confidence: high | medium | low        # how well-supported the claims are
+evidence_context: educational | non_educational | mixed  # articles only, optional on legacy pages
 sources: [raw/papers/source-name.md]   # articles only
 connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
 
@@ -96,6 +97,8 @@ The section *AI in the disciplines* (subject areas and research fields) is serve
 **`tags` was RETIRED on 2026-09-17.** Every tag value had a typed home: 83% of the 10,968 tag entries were already concepts in the six facet sections, 15% were covered by `discipline` or `level`, and the remainder were migrated by hand. The field is gone from the schema, the page templates no longer render tag chips, and the JSON-LD keywords now come from the typed fields.
 
 **The Metadata table (2026-09-17)** renders every typed field at the foot of each page, one row per field, with values hyperlinked to their concept page whenever one exists. Facet values are concept slugs and link directly; the phrase-valued fields resolve through `src/data/metadataLinks.ts`, generated from the registry so `cs education` reaches `cs-education` and `systematic review` reaches `meta-analysis-systematic-review`. The table states what a page IS. `## Connected Concepts` remains the curated, relevance-ordered list of what a page relates to beyond that — the two are complementary, and a concept already named in the table does not need repeating in the list.
+
+**`evidence_context` (articles only, added 2026-11-07).** This records where the evidence behind the page was actually collected, which is a different question from `confidence` (how well supported the claims are) and from `discipline` or `level` (what the paper is about). The values are `educational`, `non_educational` and `mixed`. Absence is allowed on legacy pages and means **not yet classified**, never `educational`. New articles created on or after the configured `required_since` date must carry the field; `tooling/scripts/check-evidence-context.py` enforces that and rejects the field on concepts, FAQs and resources. Articles classified `non_educational` or `mixed` render a concise note above the body separating the original findings from educational applications. The full editorial policy, including the Tier 1/2/3 decision rule and the citation-only route, is in [../docs/adjacent-research.md](../docs/adjacent-research.md).
 
 **These are CLOSED vocabularies, not free-form text.** The authoritative lists live in
 `src/content.config.ts`, and the Astro build rejects any page carrying a value outside them, so a

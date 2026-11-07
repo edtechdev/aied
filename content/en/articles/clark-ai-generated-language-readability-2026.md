@@ -1,9 +1,10 @@
 ---
 title: "Why is AI-generated language so hard to understand?"
 created: "2026-11-05T01:50:00-05:00"
-updated: "2026-11-05T01:50:00-05:00"
+updated: "2026-11-07T11:43:00-05:00"
 published: "2026-10-21"
 type: article
+evidence_context: non_educational
 pedagogy: [cognitive-psychology]
 technology: [educational-nlp, generative-ai, llm]
 assessment: [assessment-validity]
@@ -18,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-11-05"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-07"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,10 @@ The variation across models matters for how the finding should be read. The Llam
 ## Why Post-Training May Push Toward Density
 
 The explanatory hypothesis is that human language is optimized for communication — an efficient balance between ease of production and ease of understanding, with dependency length minimized — while post-training rewards correctness on math, code and reasoning tasks where the answer, not the explanation, is checked. If reward is verifiable and clarity is not measured, compression becomes free. The length-penalty experiment tests the mechanism directly: penalizing tokens during reinforcement learning with GRPO moves the model toward shorter syntactic alternations, including alternations it was not trained on, and the model still solves the task. The authors conclude that correctness and humanlike communication can come apart, and that the result points to remedies in how models are post-trained rather than only in how they are prompted.
+
+## Why This May Matter for Education
+
+The study measures text, not readers. Its educational value is a design and evaluation warning: a passage can be factually correct and still impose avoidable syntactic and lexical work. For instructors, the practical implication is to test generated explanations with actual students rather than infer clarity from correctness or a readability formula. For developers, it means evaluating output on the constructions the study names and comparing it with a meaning-preserving human paraphrase. What remains untested is whether these features reduce comprehension, raise [[cognitive-psychology|cognitive load]], or widen gaps for multilingual and less fluent readers; those are classroom studies, not findings of this paper.
 
 ## What this means for practice
 

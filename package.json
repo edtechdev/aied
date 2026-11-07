@@ -14,6 +14,7 @@
     "size:check": "python3 tooling/scripts/report-build-size.py --dist dist --config tooling/build-size-budget.json --out reports/build-size --mode enforce",
     "test:size": "python3 -m unittest discover -s tooling/tests -p 'test_report_build_size.py'",
     "test:nav": "node --experimental-strip-types --test tests/navigation/compact-nav.test.mjs",
+    "test:evidence": "node --experimental-strip-types --test tests/evidence-context.test.mjs",
     "test:build": "python3 -m unittest discover -s tooling/tests -p 'test_*.py'",
     "verify": "python3 tooling/scripts/run-gates.py",
     "audit-metadata": "python3 tooling/scripts/audit-metadata.py --strict",
