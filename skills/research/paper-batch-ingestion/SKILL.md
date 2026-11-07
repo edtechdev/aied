@@ -11,6 +11,15 @@ The wiki's full ingestion procedure lives in the user-owned wiki skills (`resear
 a curator-managed agent. This skill carries only the rules that decide whether a batch comes out right,
 written where they can be kept current.
 
+## Adjacent research
+
+If a paper is about AI but was not conducted in an educational setting, use the
+`adjacent-research-ingestion` skill and `<WIKI>/docs/adjacent-research.md` before drafting. Record a
+Tier 1, 2, or 3 disposition first; a related subject is not a reason to ingest. Tier 1 article pages
+set `evidence_context: non_educational` or `mixed`, separate the measured result from the education
+bridge, and state what remains untested. Tier 2 cites the original publication directly in a concept
+and never invents an internal article slug. Tier 3 stays in the private backlog.
+
 ## Order of operations
 
 1. **Identify before archiving.** For each PDF: `pdfinfo` for page count, then `pdftotext` page 1 for title,
