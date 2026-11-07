@@ -431,6 +431,31 @@ const newsletters = defineCollection({
   }),
 });
 
+// Translated newsletter issues. These live beside the other locale content at
+// <content root>/<locale>/newsletters/<issue-date>.md and are rendered by the
+// localized news detail route. They are kept out of the English-only
+// `newsletters` collection so the default archive and feed cannot accidentally
+// list a translation as an issue of its own.
+const newsletterTranslations = defineCollection({
+  loader: glob({
+    pattern: `{${TRANSLATED_LOCALES.join(',')}}/newsletters/*.md`,
+    base: resolve(process.cwd(), CONTENT_ROOT),
+  }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    issue: z.number(),
+    summary: z.string(),
+    status: z.enum(['draft', 'ready', 'published']).catch('published'),
+    spotlight: z.array(z.string()).optional(),
+    translation_of: z.string(),
+    translation_note: z.string().optional(),
+    source_updated: timeField.optional(),
+    ...provenance,
+  }),
+});
+
 const TRANSLATED_COLLECTIONS = COLLECTIONS.filter((name) => name !== 'articles');
 
 const translations = defineCollection({
@@ -476,4 +501,4 @@ const translations = defineCollection({
   }),
 });
 
-export const collections = { articles, concepts, faqs, resources, newsletters, translations };
+export const collections = { articles, concepts, faqs, resources, newsletters, newsletterTranslations, translations };

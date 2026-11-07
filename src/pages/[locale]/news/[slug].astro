@@ -1,0 +1,162 @@
+---
+// /aied/<locale>/news/<issue-date>/ — a translated newsletter issue.
+//
+// The English issue lives at /aied/news/<issue-date>/ and remains the canonical
+// version. A locale gets this route only when a matching file exists in
+// <content>/<locale>/newsletters/. The body is the translated markdown; links
+// inside it keep their authored targets, which point at the English knowledge
+// base pages this issue cites.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../../../components/PageTypeIcon.astro';
+import SourceButtons from '../../../components/SourceButtons.astro';
+import { renderMarkdown } from '../../../lib/markdown';
+import { strings } from '../../../i18n';
+import siteConfig from '../../../config/siteConfig';
+
+const translatedIssues = (await getCollection('newsletterTranslations'))
+  .filter((n) => n.data.status !== 'draft')
+  .sort((a, b) => b.data.created.localeCompare(a.data.created));
+
+export async function getStaticPaths() {
+  const issues = (await getCollection('newsletterTranslations'))
+    .filter((n) => n.data.status !== 'draft');
+  return issues.map((issue) => {
+    const parts = issue.id.split('/');
+    return {
+      params: {
+        locale: parts[0],
+        slug: parts[parts.length - 1].replace('.md', ''),
+      },
+    };
+  });
+}
+
+const { locale, slug } = Astro.params;
+const issue = translatedIssues.find(
+  (n) =>
+    n.id.split('/')[0] === locale &&
+    n.id.split('/').pop()!.replace(/\.md$/, '') === slug,
+);
+if (!issue) return Astro.redirect(`${siteConfig.basePath}/${locale}/news/`);
+
+const formatDate = (iso: string): string => {
+  const [y, m, d] = iso.split('T')[0].split('-').map(Number);
+  const dateLocale = ({ zh: 'zh-CN', pt: 'pt-BR' } as Record<string, string>)[locale!] || locale!;
+  return new Date(y, m - 1, d).toLocaleDateString(dateLocale, {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+};
+
+const [articles, concepts, faqs, resources] = await Promise.all([
+  getCollection('articles'),
+  getCollection('concepts'),
+  getCollection('faqs'),
+  getCollection('resources'),
+]);
+const titles: Record<string, string> = {};
+for (const list of [articles, concepts, faqs]) {
+  for (const p of list) titles[p.id.replace('.md', '')] = p.data.title;
+}
+
+const { html: rawHtml, headings } = renderMarkdown(issue.body ?? '', {
+  pageTitle: issue.data.title,
+  articleSlugs: new Set(articles.map((a) => a.id.replace('.md', ''))),
+  conceptSlugs: new Set(concepts.map((c) => c.id.replace('.md', ''))),
+  faqSlugs: new Set(faqs.map((f) => f.id.replace('.md', ''))),
+  resourceSlugs: new Set(resources.map((r) => r.id.replace('.md', ''))),
+  titles,
+});
+
+const html = rawHtml
+  .replaceAll('{{editor.name}}', siteConfig.editor.name)
+  .replaceAll('{{editor.contactUrl}}', siteConfig.editor.contactUrl);
+
+const base = siteConfig.basePath;
+const s = strings(locale!).news;
+const issueSlug = issue.id.split('/').pop()!.replace('.md', '');
+const index = translatedIssues.findIndex((n) => n.id === issue.id);
+const newer = translatedIssues[index - 1];
+const older = translatedIssues[index + 1];
+const hrefFor = (n: typeof issue) =>
+  `${base}/${n.id.split('/')[0]}/news/${n.id.split('/').pop()!.replace('.md', '')}/`;
+---
+
+<BaseLayout title={issue.data.title} description={issue.data.summary} toc={headings} locale={locale!}>
+  <p class="news-issue-meta">
+    <a href={`${base}/${locale}/news/`}><PageTypeIcon kind="newsletter" size={14} />{s.allIssues}</a>
+  </p>
+
+  <h1>
+    {issue.data.title}
+    <span class="news-issue-h1-date">
+      <time datetime={issue.data.created.split('T')[0]}>{formatDate(issue.data.created)}</time>
+    </span>
+  </h1>
+
+  <div class="news-body" set:html={html} />
+
+  <nav class="news-issue-nav" aria-label={s.otherIssuesAria}>
+    {older && (
+      <a href={hrefFor(older)}>
+        ← {s.issueLabel.replace('{issue}', String(older.data.issue))}
+      </a>
+    )}
+    {newer && (
+      <a href={hrefFor(newer)} class="next">
+        {s.issueLabel.replace('{issue}', String(newer.data.issue))} →
+      </a>
+    )}
+  </nav>
+
+  <SourceButtons filePath={`content/${locale}/newsletters/${issueSlug}.md`} locale={locale!} />
+
+  <style>
+    .news-issue-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--muted-color);
+      font-size: 0.9rem;
+      margin: 0 0 0.25rem;
+    }
+    .news-issue-meta a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .news-issue-meta a:hover {
+      text-decoration: underline;
+    }
+    .news-issue-h1-date {
+      display: inline-block;
+      margin-inline-start: 0.5rem;
+      color: var(--muted-color);
+      font-size: 0.55em;
+      font-weight: 400;
+      white-space: nowrap;
+      vertical-align: 0.15em;
+    }
+    .news-body {
+      line-height: 1.7;
+    }
+    .news-issue-nav {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      margin: 2.5rem 0 0;
+      padding-top: 1rem;
+      border-top: 1px solid var(--card-border-color);
+    }
+    .news-issue-nav a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .news-issue-nav a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</BaseLayout>

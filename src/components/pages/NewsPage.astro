@@ -19,6 +19,15 @@ const issues = (await getCollection('newsletters'))
   .filter((n) => n.data.status !== 'draft')
   .sort((a, b) => b.data.created.localeCompare(a.data.created));
 
+// A locale may translate an issue without translating the rest of the
+// newsletter. Use the translated title and link when one exists; otherwise keep
+// the English issue and its English URL, matching the site's fallback rule.
+const translatedIssues = (await getCollection('newsletterTranslations'))
+  .filter((n) => n.data.status !== 'draft' && n.id.startsWith(`${locale}/`));
+const translatedBySlug = new Map(
+  translatedIssues.map((n) => [n.data.translation_of, n]),
+);
+
 // Months and the numeral format follow the page's language, not the build machine's.
 const dateLocale = ({ zh: 'zh-CN', pt: 'pt-BR' } as Record<string, string>)[locale] || locale;
 const formatDate = (iso: string): string => {
@@ -58,20 +67,29 @@ const feedsHtml = withIcon(s.feedsHtml);
 
   {issues.length > 0 && (
     <div class="news-list">
-      {issues.map((issue) => (
-        <div class="news-entry">
-          <a href={`${base}/news/${issue.id.replace('.md', '')}/`} class="news-issue">
-            <span class="news-issue-head">
-              <span class="news-issue-title">
-                <PageTypeIcon kind="newsletter" size={16} />
-                {issue.data.title}
+      {issues.map((issue) => {
+        const slug = issue.id.replace('.md', '');
+        const translated = translatedBySlug.get(`newsletters/${slug}`);
+        const title = translated?.data.title ?? issue.data.title;
+        const summary = translated?.data.summary ?? issue.data.summary;
+        const href = translated
+          ? `${base}/${locale}/news/${slug}/`
+          : `${base}/news/${slug}/`;
+        return (
+          <div class="news-entry">
+            <a href={href} class="news-issue">
+              <span class="news-issue-head">
+                <span class="news-issue-title">
+                  <PageTypeIcon kind="newsletter" size={16} />
+                  {title}
+                </span>
+                <span class="news-issue-date">{formatDate(issue.data.created)}</span>
               </span>
-              <span class="news-issue-date">{formatDate(issue.data.created)}</span>
-            </span>
-            <span class="news-issue-summary" set:html={issue.data.summary} />
-          </a>
-        </div>
-      ))}
+              <span class="news-issue-summary" set:html={summary} />
+            </a>
+          </div>
+        );
+      })}
     </div>
   )}
 </BaseLayout>
