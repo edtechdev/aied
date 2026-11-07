@@ -8,9 +8,9 @@ fallback. The masthead takes the `# ` heading and the paragraph under it, the
 `## Contents` section becomes a two-column box, and everything else passes through
 pandoc unchanged.
 
-    python3 render-newsletter-preview.py newsletters/2026-10-23.md \
+    python3 render-newsletter-preview.py content/en/newsletters/2026-11-07.md \
         --outdir <AGENT>/cache/scratch/newsletter-preview \
-        [--branch newsletter/2026-10-23-draft]
+        [--branch newsletter/2026-11-07-draft]
 
 Then serve the output on a second port (never the site's own preview port):
 
@@ -117,15 +117,18 @@ def main() -> None:
     lead = lead_match.group(0) if lead_match else ""
 
     # the masthead carries everything between the h1 and the Contents section, so an
-    # opening sentence plus its follow-up paragraph both stay above the contents box
-    rest_start = frag.find('<h2 id="contents">')
+    # opening sentence plus its follow-up paragraph both stay above the contents box.
+    # The heading is translated in localized issues (Sommaire, Contenido, ...), so
+    # identify the first heading followed by its list rather than a fixed id.
+    toc_match = re.search(r'<h2[^>]*>.*?</h2>\s*<ul>', frag, re.S)
+    rest_start = toc_match.start() if toc_match else -1
     masthead_extra = ""
     if rest_start != -1:
         after_h1 = frag[body_start:rest_start]
         if lead and lead in after_h1:
             masthead_extra = after_h1.replace(lead, "", 1).strip()
 
-    toc_start = frag.find('<h2 id="contents">')
+    toc_start = rest_start
     toc = ""
     if toc_start != -1:
         toc_end = frag.find("</ul>", toc_start)
@@ -153,8 +156,10 @@ def main() -> None:
 
     title = args.title or re.sub(r"<[^>]+>", "", h1).strip()
     branch = args.branch or "draft issue"
+    locale_match = re.search(r"/([a-z]{2})/newsletters/", args.issue.as_posix())
+    lang = locale_match.group(1) if locale_match else "en"
     html = f"""<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="{lang}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <style>{CSS}</style></head>

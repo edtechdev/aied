@@ -15,6 +15,16 @@ written where they can be kept current.
 
 1. **Identify before archiving.** For each PDF: `pdfinfo` for page count, then `pdftotext` page 1 for title,
 authors, journal and DOI. Do not start work from the filename.
+
+   **The page `title:` is that verbatim title, never a headline you write.** The failure mode is subtle
+   because a descriptive title reads better: one batch produced "Forensic AI Is Ahead of Forensic Teaching:
+   A Systematic Review That Says So" for a paper actually titled "Artificial intelligence applications in
+   forensic science and their implications for education and training", and 19 of 20 pages in that batch
+   carried invented headlines while their own `## Citation` block held the real title. Treat the citation
+   link text as the authority and copy it byte-for-byte into `title:` — then the H1, the citation, the RSS
+   entry and the llms files all agree. A machine check is cheap: for every article, compare `title:` against
+   the text of the first `[..](https://…)` in `## Citation`; anything beyond case differences is a rewrite.
+
 2. **Dedupe by DOI across the whole corpus**, not just by title:
 
    ```bash

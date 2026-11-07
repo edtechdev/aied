@@ -12,10 +12,11 @@ to point the pipeline somewhere else. Everything below describes the workflow.
 - **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd, JOIDAT — see `wiki.config.yaml` → `journal_scan.feeds`). Each feed carries its own freshness window, so a batch-publishing journal is not blanked out between mailings.
 - Ingests papers into a structured markdown wiki: one `content/en/articles/<slug>.md` per paper, one `content/en/concepts/<slug>.md` per broad topic, one `content/en/faqs/<slug>.md` per curated question and one `content/en/resources/<slug>.md` per external tool or collection, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt` / `llms-concepts.txt` / `llms-full.txt`
+- Publishes a weekly newsletter, with optional translated issues, localized archives, and locale-specific RSS feeds
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
 
-**[Live example: AI in Education Knowledge Base](https://edtechdev.github.io/aied)** — 1,100+ article summaries, 190 concept pages and 18 FAQs on AI in education, auto-updated weekdays at 9 AM and Sundays via RSS.
+**[Live example: AI in Education Knowledge Base](https://edtechdev.github.io/aied)** — 2,085 article summaries, 230 concept pages, 44 FAQs, and 40 resources in 33 locales on AI in education, auto-updated weekdays at 9 AM and Sundays via RSS.
 
 ## Quick Start
 
@@ -410,7 +411,7 @@ script-only cron watchdog (no LLM, silent while the preview is fresh).
 ## Dependencies
 
 - **AI agent** (for cron jobs and ingestion) — any agent works; map its tools in `wiki.config.yaml` → `agent.capabilities`
-- **Node.js 18+** (Astro 7, Pagefind)
+- **Node.js 22+** (Astro 7, Pagefind)
 - **Python 3.9+** with **PyYAML** (`pip install pyyaml`) — the config, the concept
   registry and the linters all parse YAML. Everything else is stdlib.
 - **pandoc** — for the EPUB/PDF generation (`tooling/build-epub.py`)

@@ -67,10 +67,14 @@ Then `npx astro sync` (regenerates the `.astro/` types) before `npx tsc --noEmit
 `renderMarkdown` drops a leading H1 that duplicates `pageTitle`, expands `[[wikilinks]]` and renders
 math, so a body can use the corpus's own link syntax.
 
-A page family that exists in one language only takes plain `${siteConfig.basePath}/...` hrefs, never
-`localizeHref`, or every locale gets a link to a page that does not exist.
+For localized issues, add a separate `newsletterTranslations` collection over
+`{<locales>}/newsletters/*.md`, with `translation_of`, `translation_note`, `ai_assist`, and the same
+issue fields. Add `src/pages/[locale]/news/[slug].astro` for the detail route and make the archive
+look up a translation by `translation_of` before falling back to the English issue. Do not widen the
+ordinary `translations` collection: it would make the English feed and archive list translations as
+issues.
 
-## 3. The second feed
+## 3. The feeds
 
 `src/pages/news/rss.xml.ts`, modeled on the site's existing feed module. Reuse its `toRfc822Local`
 helper: `@astrojs/rss` reformats a `Date` to UTC, which rolls an Eastern-evening timestamp onto the next
@@ -83,7 +87,11 @@ Add the discovery link next to the existing one in the layout head:
       href={`${siteConfig.basePath}/news/rss.xml`} />
 ```
 
-A static route (`news/rss.xml.ts`) wins over the dynamic `news/[slug].astro`, so both coexist.
+For each translated locale, add `src/pages/<locale>/news/rss.xml.ts` reading only
+`newsletterTranslations` for that locale, with `<language>` set and item links under
+`/<locale>/news/<date>/`. Advertise it in the localized archive `feedsHtml`, the latest translated
+issue's follow section, and an alternate `<link>` in the layout head. A static route
+(`news/rss.xml.ts`) wins over the dynamic `news/[slug].astro`, so both coexist.
 
 ## 4. Icons
 
@@ -102,8 +110,9 @@ Then extend every local map that switches on kind, because they are separate cop
 ## 5. Journal and sidebar
 
 Both build one reverse-chronological list from every collection. Add the new collection to the spread
-and special-case its title and href: a published issue has one canonical URL and its `title` is the
-publication name, so list it as `"<Name>, issue N"` linking to `/news/<date>/` with no locale rewriting.
+and special-case its title and href: a translated issue uses the localized URL from the lookup, while
+an untranslated issue keeps `/news/<date>/`; the `title` is the publication name, so list it as
+`"<Name>, issue N"`.
 
 ## 6. Header entry
 

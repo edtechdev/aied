@@ -14,8 +14,8 @@ A free, linked knowledge base on artificial intelligence in education: research,
 - **Concepts** — synthesized topic pages (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to the research behind it. The [concept index](https://edtechdev.github.io/aied/concepts/) lists them all by section.
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them. The [FAQ index](https://edtechdev.github.io/aied/faq/) groups them by theme.
 - **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves. Browse them on the [resources page](https://edtechdev.github.io/aied/resources/).
-- **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/).
-- **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text; the newsletter has [its own feed](https://edtechdev.github.io/aied/news/rss.xml).
+- **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/); Spanish and French editions have their own archives and translated issues.
+- **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text. The newsletter has [its own English feed](https://edtechdev.github.io/aied/news/rss.xml), plus [Spanish](https://edtechdev.github.io/aied/es/news/rss.xml) and [French](https://edtechdev.github.io/aied/fr/news/rss.xml) feeds for the translated issues.
 - Every page links to related pages with `[[wikilinks]]`, so a topic can be followed across the whole knowledge base.
 
 ### Use it with your own AI assistant
@@ -42,7 +42,7 @@ Prefer the term "generative AI" over "LLM". The journal page at https://edtechde
 
 ### Translations
 
-The knowledge base is published in 32 translated locales. Each entry links that locale's home page, then its EPUB and PDF where a translated edition has been built; fifteen have both, and the other seventeen are site-only.
+The knowledge base is published in 33 configured locales, English plus 32 translations. Each entry links that locale's home page, then its EPUB and PDF where a translated edition has been built; eighteen translated locales have both, and the other fourteen are site-only.
 
 - [Español](https://edtechdev.github.io/aied/es/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.es.pdf)
 - [Français](https://edtechdev.github.io/aied/fr/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.fr.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.fr.pdf)
@@ -59,9 +59,9 @@ The knowledge base is published in 32 translated locales. Each entry links that 
 - [Italiano](https://edtechdev.github.io/aied/it/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.it.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.it.pdf)
 - [Kiswahili](https://edtechdev.github.io/aied/sw/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.sw.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.sw.pdf)
 - [Türkçe](https://edtechdev.github.io/aied/tr/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.tr.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.tr.pdf)
-- [বাংলা](https://edtechdev.github.io/aied/bn/)
-- [اردو](https://edtechdev.github.io/aied/ur/)
-- [Bahasa Indonesia](https://edtechdev.github.io/aied/id/)
+- [বাংলা](https://edtechdev.github.io/aied/bn/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.bn.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.bn.pdf)
+- [اردو](https://edtechdev.github.io/aied/ur/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ur.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.ur.pdf)
+- [Bahasa Indonesia](https://edtechdev.github.io/aied/id/) · [EPUB](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.id.epub) · [PDF](https://github.com/edtechdev/aied/releases/download/offline-latest/aied.id.pdf)
 - [Tiếng Việt](https://edtechdev.github.io/aied/vi/)
 - [Nederlands](https://edtechdev.github.io/aied/nl/)
 - [Svenska](https://edtechdev.github.io/aied/sv/)
@@ -100,7 +100,9 @@ Code is MIT licensed; the knowledge-base content is released to the public domai
 
 ### Tech stack
 
-Astro 7, deployed to GitHub Pages at base path `/aied` by GitHub Actions. Pagefind provides full-text search; RSS, sitemap and schema.org JSON-LD are generated at build time. Content is markdown in collections defined in `src/content.config.ts`. The build runs `astro check`, `astro build`, Pagefind, then a service-worker step.
+Astro 7, deployed to GitHub Pages at base path `/aied` by GitHub Actions. Pagefind provides full-text search; RSS, sitemap and schema.org JSON-LD are generated at build time. Content is markdown in collections defined in `src/content.config.ts`. The local build runs `astro check`, `astro build`, Pagefind, then the service-worker step.
+
+The design notes behind the current site behavior are in `docs/`: `search-implementation-report.md` (Pagefind ranking, aliases, DOI/citation indexing, browse mode), `build-size-and-deployment.md` (what the build measures and how Pages packaging works), `compact-navigation.md` and `lazy-sidebar.md` (the reduced page shell and on-demand taxonomy), `offline-routing.md` (service-worker fallback), and `newsletters.md` (the newsletter contract and localized editions).
 
 ### Quick start
 
@@ -137,7 +139,7 @@ Two things to know before editing:
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
 │   ├── lib/           # jsonld.ts, markdown.ts, pageTitles.ts
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
-│   └── pages/         # index, journal, newsletter pages (news/), search, faq, resources, ai, rss, dynamic routes
+│   └── pages/         # index, journal, newsletter pages (news/ and <locale>/news/), localized feeds, search, faq, resources, ai, rss, dynamic routes
 ├── public/            # source cover and marks; release catalog covers generated exports
 ├── tooling/           # the pipeline: gates, generators, builders, cron prompts and shims
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
@@ -217,24 +219,28 @@ Every article ingestion does two things beyond creating the page: it adds inline
 
 ### The weekly newsletter
 
-A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. Issues live in `content/en/newsletters/<issue-date>.md`, render at `/news/<issue-date>/`, are listed on `/news/`, and have their own feed at `/news/rss.xml`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
+A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. English issues live in `content/en/newsletters/<issue-date>.md` and render at `/news/<issue-date>/`. Spanish and French translations live beside them under `content/<locale>/newsletters/` and render at `/<locale>/news/<issue-date>/` when the translation exists. Archives are at `/news/`, `/es/news/`, and `/fr/news/`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
 
-The format, house style and publishing contract are in **[docs/newsletters.md](docs/newsletters.md)**: the four section headings, the masthead, the frontmatter, how to link the way the site's own pages link, and the footer.
+The newsletter feeds follow the same split: `/news/rss.xml` carries the English issues, `/es/news/rss.xml` and `/fr/news/rss.xml` carry their translated issues, and each localized archive links its own feed. Issue pages show the language globe when a translation exists.
 
-Three skills drive the work, mirrored under `skills/research/`:
+The format, house style and publishing contract are in **[docs/newsletters.md](docs/newsletters.md)**: the current section order, the masthead, frontmatter, localized editions, editorial note, link rules, and footer.
+
+Five skills drive the work, mirrored under `skills/research/`:
 
 - **`newsletter-issue-drafting`** — how to draft an issue: fix the seven-day window, list what was added from `git log` rather than memory, decide each item's section from the page's own `audience:` facet, read the page's bottom-line paragraph before writing about it, and verify every link. Its `scripts/render-newsletter-preview.py` renders a draft to a standalone page in the site palette, so you can review it without rebuilding the site:
 
   ```bash
   python3 skills/research/newsletter-issue-drafting/scripts/render-newsletter-preview.py \
-    content/en/newsletters/2026-10-24.md --outdir /tmp/newsletter-preview
+    content/en/newsletters/2026-11-07.md --outdir /tmp/newsletter-preview
   python3 -m http.server 4322 --bind 0.0.0.0 --directory /tmp/newsletter-preview
   ```
 
   Serve it on a port other than the site's own preview, which serves the last build.
 
 - **`newsletter-publishing`** — the issue-as-page contract and the wiring checklist for publishing an issue on a site.
-- **`astro-newsletter-publishing`** — the Astro steps for adding the page family to a site that lacks it: the collection, the routes, the second feed, the icons, the journal and sidebar entries, and the header link.
+- **`astro-newsletter-publishing`** — the Astro steps for adding the page family to a site that lacks it: the collection, the routes, the feed, the icons, the journal and sidebar entries, and the header link.
+- **`newsletter-localization`** — translating an issue, the `newsletterTranslations` collection, the localized detail route, the archive lookup, and the structural and link gates.
+- **`newsletter-localized-feed`** — the locale-specific RSS endpoint, its discovery links, and the checks that keep translations out of the English feed.
 
 ### Troubleshooting
 
@@ -269,7 +275,7 @@ Everything needed to stand up an equivalent knowledge base for another domain is
 - **[tooling/cron/](tooling/cron/)** — the scheduled-job prompt templates
 - **[tooling/example/](tooling/example/)** — starter files
 
-The agent skills the pipeline follows are mirrored in [`skills/research/`](skills/research/). They cover inline linking, article and concept page quality and structure, batch ingestion QA, discovery recall, source acquisition, page deletion, the EPUB/PDF export, site quality, page deepening, the Astro frontend, FAQ and resource pages, citation form, concept-page design and concept-weave screening, deduplication, backlog triage, bulk link editing, answering questions from the corpus and presenting the answers, keeping an already-ingested source current when it is published, web-report-only sources, commit and README hygiene on a public repo, the three newsletter skills, RSS and feed authoring, AI-content provenance and public-repo PII hygiene. `scholarly-discovery-recall` is the one to read when the scan is missing papers the maintainer finds by hand: it carries the measurement procedure and the OpenAlex API traps, and `tooling/references/openalex.md` holds the invocations.
+The agent skills the pipeline follows are mirrored in [`skills/research/`](skills/research/). They cover inline linking, article and concept page quality and structure, batch ingestion QA, discovery recall, source acquisition, page deletion, the EPUB/PDF export, site quality, page deepening, the Astro frontend, FAQ and resource pages, citation form, concept-page design and concept-weave screening, deduplication, backlog triage, bulk link editing, answering questions from the corpus and presenting the answers, keeping an already-ingested source current when it is published, web-report-only sources, commit and README hygiene on a public repo, the five newsletter skills (drafting, publishing, Astro wiring, localization, and localized feeds), RSS and feed authoring, AI-content provenance and public-repo PII hygiene. `scholarly-discovery-recall` is the one to read when the scan is missing papers the maintainer finds by hand: it carries the measurement procedure and the OpenAlex API traps, and `tooling/references/openalex.md` holds the invocations.
 
 Those mirrors are scrubbed, public-safe copies of the agent's own installed skills: the repo copy uses `<WIKI>` for the repository root and `<AGENT>` for the skill store, and names no person and no agent product. Everything else is identical. `python3 tooling/scripts/sync-skills.py --check` normalizes those sanctioned differences and reports only real content drift; `--to-repo` refreshes a mirror with the redaction applied, and `--to-installed` copies the other way. Which side is authoritative depends on the file: a skill's `SKILL.md` is behavior, so the installed copy wins, while `tooling/scripts/` is the working copy the pipeline runs, so the repo wins.
 

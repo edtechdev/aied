@@ -54,7 +54,10 @@ Masthead order the user settled on, and nothing else before the first section:
 2. One sentence saying what the newsletter is, linking the site, and naming the four audiences it serves.
 3. One sentence with the week's additions and running totals, each linked. Omit any collection that had
    no additions and say nothing about its absence.
-4. A blockquote of two sentences naming the top findings, each with its numbers and a link.
+4. A closing "Search or use AI" sentence in the same paragraph.
+
+The current issue then opens with a bullet list in `## Main highlights and questions`, not a
+blockquote. Each bullet links its question to the paper and gives the takeaway, not a methods dump.
 
 Then the reader-facing sections, then site notes last. No "this week at a glance" block, no paragraph
 explaining how the research divides up, no preview of the sections: a reader who came for the findings
@@ -84,9 +87,15 @@ Work through these in order; each is a place the new type stays invisible until 
    layout head so readers offer both.
 4. Page-type icon: add the kind to the icon module **and** to every local icon map that switches on kind
    (journal, sidebar, badge label). One missing map is a type error that stops the build.
-5. Journal listing and the "recently added" sidebar list, both linking the new URLs and skipping locale
-   rewriting, since a published issue has one canonical URL.
+5. Journal listing and the "recently added" sidebar list, both linking the new URLs. A translated issue
+   gets its localized URL from the translation lookup; an untranslated issue keeps the English URL.
 6. Header or nav entry, with its label as a UI string.
+7. For a localized edition: a separate `newsletterTranslations` collection, the generic
+   `src/pages/[locale]/news/[slug].astro` route, translated title/summary/URL in the archive, a
+   `src/pages/<locale>/news/rss.xml.ts` feed, and the localized feed link in the archive and latest
+   issue. See `newsletter-localization` and `newsletter-localized-feed`.
+8. The language globe on the issue page: add the issue route to the switcher's route test and merge the
+   newsletter translation routes into the map used for `hreflang` alternates.
 
 ## Verify before reporting
 

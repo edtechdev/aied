@@ -24,18 +24,21 @@ git rather than from memory, and previewing it without disturbing the live site.
 - The next issue for a new window is due and a previous issue exists in the folder.
 - Any periodic "what changed" digest over a corpus that keeps its own history in git.
 
-## Storage: outside the build, named for the date
+## Storage: in the content tree, draft only by status
 
-- Put issues at repo-root `newsletters/`, never under `content/` or `src/content/`. A folder no route
-  reads cannot reach a deploy by accident, which is the whole safety property when the user says
-  "draft it but do not publish". Say that property out loud in the report.
-- One file per issue, ISO date name so the folder sorts (`2026-10-23.md`), with frontmatter
-  `title`, `date`, `status: draft | ready | published`, `type: newsletter`.
-- Ship `docs/newsletters.md`: naming rule, frontmatter, the git commands that pull a window, the house
-  style, and the line that publishing needs a route plus a `status` flip in the same commit. Without it
-  the next issue starts as archaeology.
-- Branch first (`git switch -c newsletter/<date>-draft`). Do not commit or push unless asked; report the
-  branch name and that the folder is still untracked.
+- On this site, issues live at `content/en/newsletters/<issue-date>.md`; they are a real page family
+  with a listing, detail route, journal entry, sidebar entry, and feed. The safety property is
+  `status: draft`, which every consumer filters, not a folder no route reads.
+- One file per issue, ISO date name so the folder sorts (`2026-11-07.md`), with frontmatter
+  `title`, `issue`, `created`, `summary`, `status: draft | ready | published`, and `type: newsletter`.
+- Ship `docs/newsletters.md`: naming rule, frontmatter, the git commands that pull a window, the
+  current section order, the house style, and the line that publishing is a `status` flip after the
+  route and feed already exist. Without it the next issue starts as archaeology.
+- Branch first (`git switch -c newsletter/<date>-draft`). Do not commit or push unless asked; report
+  the branch name and that the issue is still a draft in the content tree.
+- A translated issue belongs at `content/<locale>/newsletters/<issue-date>.md`; see the
+  `newsletter-localization` and `newsletter-localized-feed` skills for the collection, route, archive,
+  and feed work. A translated file alone is invisible.
 
 ## Gather the window from git, not from memory
 
@@ -58,17 +61,18 @@ Fix the window (the seven days ending on the issue date) and count both sides of
 
 ## Curate, do not enumerate
 
-- Group the additions into threads of two to six items that share a question, and write an eight-word
-  heading per thread. Twenty to twenty-five items get two to three sentences each; the rest get one
-  compact linked list plus a link to the day-by-day listing page. An issue that lists everything is a
-  table of contents, not a newsletter.
-- Order threads by news value, not by ingest date, and lead the issue with the shape of the week in two
-  or three sentences.
-- Follow the shape-of-the-week paragraph with a short run of teaser questions ("Does the tutor that lifts
-  the homework also lift the exam?"), each linked to the paper that bears on it and each trailed by a
-  half-clause naming the kind of evidence behind the answer. Write that block last, from the items you
-  kept: a question the issue never answers is a broken promise, and it is the first thing a reader
-  notices.
+- On this site, keep the section order in `docs/newsletters.md`: Main highlights and questions,
+  optional New FAQs, New concepts, and New resources, then For instructors, For developers, For
+  researchers, For administrators, Also added this week, Site notes, and Follow the update. Grouping
+  by audience outranks grouping by ingest date.
+- Twenty to twenty-five items get two to three sentences each; the rest get one compact linked list
+  plus a link to the day-by-day listing page. An issue that lists everything is a table of contents,
+  not a newsletter.
+- Order items by news value, not by ingest date, and lead the issue with the strongest implication.
+- Follow the opening with a short run of teaser questions ("Does the tutor that lifts the homework
+  also lift the exam?"), each linked to the paper that bears on it and each trailed by a half-clause
+  naming the kind of evidence behind the answer. Write that block last, from the items you kept: a
+  question the issue never answers is a broken promise.
 - Put the reader-facing research first and the internal notes last, under their own headings
   (translations, copy, tooling, running counts). The user asked for that split; keep it in every issue.
 - A launch issue (#0) may replace the weekly structure with a site introduction: why the site exists,
@@ -79,8 +83,8 @@ Fix the window (the seven days ending on the issue date) and count both sides of
 - Masthead, in this order and nothing else: the heading; one sentence saying what the newsletter is
   with a link to the site; one paragraph holding what the week added, the running totals and a closing
   "Search or use AI to chat with the knowledge base" with `Search` on `/search/` and `use AI` on `/ai/`
-  (same paragraph, never its own). The highlight blockquote is not in the masthead: it opens the first
-  section, below the contents.
+  (same paragraph, never its own). The current issue opens with a bullet list in Main highlights and
+  questions; do not reintroduce a blockquote unless the maintainer asks.
 - Say which weave or edit was a removal when the week retracted something. Honest subtraction reads as
   editorial care and no other section can carry it.
 
