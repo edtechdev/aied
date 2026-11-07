@@ -38,7 +38,7 @@ maintainer-supplied PDF would unblock either:
 
 Ten articles were ingested this run (three arXiv, five OpenAlex journal-watch, one PsyArXiv-adjacent Frontiers and one Springer), each with its full text saved under `raw/papers/`. Two in-scope candidates could not be ingested because the publisher serves them only as HTML metadata or behind a bot check.
 
-Both were resolved on 2026-11-02 when the maintainer cleared this queue: the residency-curriculum interviews were ingested from a maintainer-supplied PDF (`bursic-ai-residency-education-curriculum-2026`), and the endodontic-item classification study was declined and recorded in `rejected-sources.yaml`.
+Both were resolved on 2026-11-02 when the maintainer cleared this queue: the residency-curriculum interviews were ingested from a maintainer-supplied PDF (`bursic-ai-residency-education-curriculum-2026`), and the endodontic-item classification study was not ingested and is recorded in the private exclusion list.
 
 ## Weekly journal RSS scan (2026-11-01)
 
@@ -46,7 +46,7 @@ Five articles were ingested this run with full text saved under `raw/papers/`. T
 
 ## OpenAlex harvest (2026-11-01)
 
-The weekly topic sweep returned 529 candidates across 13 queries. Six were judged worth pursuing rather than ingested this run, preferring randomized trials, meta-analyses and reviews over single-site perception surveys. Two of those six were declined on 2026-11-01 and now sit in `rejected-sources.yaml`: an OSF record that is a study registration rather than a completed analysis, and a Cambridge repository report held under access restriction until 2029-10-30. Four remained before this queue was cleared, and all four have since been ingested: `yahya-generative-ai-inquiry-based-learning-review-2026`, `pan-generative-ai-student-motivation-sdt-review-2026`, `kharbach-k12-ai-literacy-frameworks-scoping-review-2026` and `kim-overtrust-ai-literacy-2026`.
+The weekly topic sweep returned 529 candidates across 13 queries. Six were judged worth pursuing rather than ingested this run, preferring randomized trials, meta-analyses and reviews over single-site perception surveys. Two of those six were set aside on 2026-11-01 and now sit in the private exclusion list: an OSF record that is a study registration rather than a completed analysis, and a Cambridge repository report held under access restriction until 2029-10-30. Four remained before this queue was cleared, and all four have since been ingested: `yahya-generative-ai-inquiry-based-learning-review-2026`, `pan-generative-ai-student-motivation-sdt-review-2026`, `kharbach-k12-ai-literacy-frameworks-scoping-review-2026` and `kim-overtrust-ai-literacy-2026`.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-30)
 
@@ -79,19 +79,19 @@ page, not the article.
 
 ## Weekly journal RSS scan (2026-10-11)
 
-_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
+_Every other candidate from this scan was set aside by the maintainer on 2026-10-27. Those decisions live in the local private exclusion list, which the scan reads so the same papers are not proposed again._
 
 ## Weekly journal RSS scan (2026-10-25)
 
-_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
+_Every other candidate from this scan was set aside by the maintainer on 2026-10-27. Those decisions live in the local private exclusion list, which the scan reads so the same papers are not proposed again._
 
 ## OpenAlex harvest (2026-09-25)
 
-_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
+_Every other candidate from this scan was set aside by the maintainer on 2026-10-27. Those decisions live in the local private exclusion list, which the scan reads so the same papers are not proposed again._
 
 ## OpenAlex harvest (2026-09-29)
 
-_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
+_Every other candidate from this scan was set aside by the maintainer on 2026-10-27. Those decisions live in the local private exclusion list, which the scan reads so the same papers are not proposed again._
 
 ## Ingested pages whose source text is truncated (PDF needed)
 
