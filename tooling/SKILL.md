@@ -60,6 +60,10 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
 - Task involves populating a knowledge base with academic sources and synthesized pages
 - Wiki has defined directory structure: `content/en/articles/` (per-paper pages), `content/en/concepts/` (topic pages), `raw/papers/`, `index.md`, `log.md`
 
+### Adjacent AI research
+
+If the paper is about AI but was not conducted in an educational setting, stop before drafting and use the `adjacent-research-ingestion` skill plus `<WIKI>/docs/adjacent-research.md`. Record a Tier 1, 2, or 3 disposition first. Tier 1 uses the ordinary article collection and sets `evidence_context: non_educational` or `mixed`; separate the measured result from the education bridge and state what remains untested. Tier 2 is a direct scholarly citation in a concept, never a fake internal article slug. Tier 3 stays in the private backlog. Do not create a parallel collection or one article per cited study.
+
 ### Core Workflow
 *In interactive sessions, prefer `execute_code` for bulk Python work — use Python's `open()`/`os` modules for ALL file I/O (not `read_file` from `<TOOLS>`, which returns an incompatible dict format in the execute_code sandbox). `write_file` from <TOOLS> works correctly in execute_code. In cron contexts, `execute_code` availability varies \u2014 use `execute_code` if it passes the probe, otherwise fall back to `terminal()` with explicit `workdir=~`. Always probe first. **Primary approach: write complex scripts to `/tmp/` via `write_file`, then run with `terminal('python3 /tmp/script.py', workdir='~')`** or embed in `execute_code()` when available. Use inline `python3 -c "..."` only for short (<20 line) one-off logic (e.g. simple parsing, file count checks). For multi-phase ingestion (fetching, ingesting, backlinks, index, journal, static site), break into separate phase-scripts — this avoids command-length truncation and isolates failures. `web_extract` replaces `urllib`-based API calls when `execute_code` is unavailable.*
 

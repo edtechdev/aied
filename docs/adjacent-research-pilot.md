@@ -1,17 +1,18 @@
 # Adjacent research pilot: candidate triage
 
-**Status:** working report for maintainer review. It records provisional decisions, not publication. No candidate below has been ingested as a new article. Identifiers and publication status must be checked against the primary record before any Tier 1 work begins.
+**Status:** working report for maintainer review. It records provisional decisions for the remaining candidates. The first Tier 1 candidate, Sim, Eiger and Kohno, has now been ingested as `sim-ai-summary-memory-distortion-2026`; the other rows remain provisional. Identifiers and publication status must be checked against the primary record before any further Tier 1 work begins.
 
-The two existing pages are regression cases, not re-ingestions:
+The existing pages used as regression cases are:
 
 - `clark-ai-generated-language-readability-2026` — `evidence_context: non_educational`; article body now separates the linguistic finding from the unmeasured classroom outcome.
 - `sycophantic-ai-social-interaction-2026` — `evidence_context: non_educational`; article body now has the canonical Key Findings section and an explicit statement that the studies did not measure learners or classroom outcomes.
+- `sim-ai-summary-memory-distortion-2026` — the first new Tier 1 ingest; full arXiv text, `evidence_context: non_educational`, and weaves into `cognitive-psychology` and `hallucination-risk`.
 
 ## Candidate table
 
 | Candidate | Original setting | Provisional tier | Reason | Public destination |
 |---|---|---|---|---|
-| Sim, Eiger & Kohno, misleading AI summaries and memory | Human memory experiment; no classroom | Tier 1 candidate | Direct mechanism for lecture notes, study guides and assessment validity; strong experimental result; no existing article | Article, then concept weave if the claim moves |
+| Sim, Eiger & Kohno, misleading AI summaries and memory | Human memory experiment; no classroom | Tier 1, ingested | Direct mechanism for lecture notes, study guides and assessment validity; strong experimental result; no existing article | [`sim-ai-summary-memory-distortion-2026`](../content/en/articles/sim-ai-summary-memory-distortion-2026.md), woven into `cognitive-psychology` and `hallucination-risk` |
 | Pataranutaporn et al., false information in chatbot conversations | Human experiment; no classroom | Tier 2 | Corroborates the summary-distortion mechanism; useful detail but not a distinct page unless the primary record supports a separate claim | Citation in a concept or a section of the Tier 1 article |
 | Shen & Tamkin, AI and novice skill formation | Randomized programming workplace experiment | Tier 1 candidate | Distinguishes assistance from learning; strong design; directly relevant to [[cognitive-offloading]] and [[learning-gains]] | Article, then concept weaves |
 | Autor et al., patent-drafting field experiment | Workplace field RCT | Tier 2 | Strong evidence about existing expertise and later independent performance; specialized professional task; corroborates rather than creates a new education concept | Citation in the relevant concept or a section of the skill-formation article |
@@ -29,10 +30,11 @@ The two existing pages are regression cases, not re-ingestions:
 ## What the pilot establishes
 
 - The metadata and reader-facing note work for both existing non-educational articles without changing their URLs.
+- The first Tier 1 candidate now has a public article page, and its two concept weaves are recorded rather than inferred.
 - A Tier 1 candidate can be screened without inventing concept changes; `no_change` remains a valid outcome.
 - Tier 2 is a real route: a concept can carry a direct DOI or publisher citation without a fake internal article link.
 - Tier 3 is a real outcome: a contested or unverified study stays in the private backlog and is not published.
 
 ## Next review
 
-Before Tier 1 drafting, verify each candidate's title, authors, version, DOI/arXiv ID, setting, sample, and correction status against the primary record. Record the final disposition privately, then ingest only the candidates whose four Tier 1 questions can all be answered.
+Before further Tier 1 drafting, verify each remaining candidate's title, authors, version, DOI/arXiv ID, setting, sample, and correction status against the primary record. Record the final disposition privately, then ingest only the candidates whose four Tier 1 questions can all be answered.
