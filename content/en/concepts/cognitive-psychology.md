@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-01T09:12:21-05:00"
+updated: "2026-11-07T12:10:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -58,6 +58,8 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 
 [[generative-ai|Generative AI]] both extends and challenges cognitivism. It extends it by making knowledge representations more powerful (LLMs as knowledge engines that can be traced via [[knowledge-tracing]] and adapted via [[student-modeling]]). It challenges it by complicating where cognition "is": when AI performs reasoning, memory, and even metacognitive-like functions, the cognitivist assumption that learning is internal processing in the individual mind is unsettled — as [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|co-regulation]], and post-human framings argue cognition can be distributed across human and artificial systems. Yet the cognitivist question remains the field's central one: *does the learner internalize the knowledge, or does the tool hold it?* This is the cognitive-offloading and performance–learning gap question in its purest form.
 
+A 2026 experiment gives the memory side of that boundary a concrete failure mode. Only 44.8% of 328 adults who read a misleading AI summary later identified a video detail correctly, against 83.6% who read a consistent summary. The AI or human label made no difference, and neither did self-reported trust in AI ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). That is source memory rather than classroom learning, but a fluent summary can overwrite a learner's record of the source, which matters for study and assessment.
+
 ## Implications for design and research
 
 1. **Design for internalization, not just performance.** Cognitivist AIED should be evaluated on whether the learner can retrieve and apply knowledge *without* the tool — not on assisted performance. This is the [[ai-misuse-learning-harm|performance–learning gap]] and the rationale for measuring unassisted [[transfer-of-learning|transfer]].
@@ -95,6 +97,7 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 
 ## Connected Articles
 
+- [[sim-ai-summary-memory-distortion-2026]] — Misleading AI summaries changed what adults remembered, regardless of whether the summary was labeled AI- or human-written
 - [[cognitive-shift-ai-education]] — The cognitive shift in AI education
 - [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
