@@ -5,9 +5,9 @@ type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/educational-nlp"
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,9 @@ Pemrosesan bahasa alami dalam pendidikan menerapkan metode komputasional pada ba
 - **Analisis bahasa siswa.** [[llm-sentiment-analysis-education-research]] menerapkan analisis sentimen berbasis LLM pada penelitian pendidikan, mengekstraksi sinyal emosional dan evaluatif dari teks siswa dalam skala besar, yang memasok [[learning-analytics]] dan [[affective-computing]].
 - **Prediksi dan pengukuran.** [[llm-item-difficulty-prediction]] dan [[vocabulary-difficulty-prediction]] memakai model bahasa untuk memperkirakan kesulitan butir dan teks — masukan inti bagi [[educational-measurement]], [[adaptive-learning]], dan model [[item-response-theory]].
 - **Keterbacaan dan keselarasan [[curriculum-design|kurikulum]].** Bird (2026) memadukan klasifikasi teks transformer dengan fitur linguistik komputasional untuk mengklasifikasikan sastra Inggris menurut UK Key Stage, mencapai F1 0.996 — pelengkap berbasis data bagi [[vocabulary-difficulty-prediction]] dan [[llm-item-difficulty-prediction]] untuk [[educational-measurement]] dan keselarasan tingkat baca.
+
+- **Teks yang dihasilkan membawa [[reading-education|beban keterbacaan]] tersendiri.** Clark dkk. (2026) menemukan bahwa model terbaru terlalu sering memakai konstruksi yang dalam literatur pemrosesan dikaitkan dengan biaya pemahaman — n-gram berfrekuensi rendah, kata benda bertumpuk, verba denominatif, dependensi panjang, klausa relatif objek yang tereduksi — dibandingkan parafrase mereka sendiri yang mempertahankan makna dan baseline manusia yang selaras genre, dan menelusuri pola itu ke pascapelatihan yang memberi imbalan kepadatan informasi alih-alih kejelasan ([[clark-ai-generated-language-readability-2026]]). Mengukur kesulitan teks karena itu berlaku pada apa yang ditulis model, bukan hanya pada teks yang dihadapkan kepada pembelajar untuk disederhanakan.
+
 - **Kemiripan semantik adalah sinyal lemah bagi keselarasan kurikulum.** Menyaring 3,837 pasangan tujuan–abstrak kedokteran gigi, pengambilan berbasis embedding ditambah pemeriksaan inferensi bahasa alami menilai 22.9% kecocokan bersimilaritas tinggi (cosine 0.90–1.00) sebagai netral atau kontradiktif, dan menaikkan akurasi berlabel ahli dari 0.69 ke 0.73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
 
 - **Klasifikasi tingkat wacana melokalisasi apa yang luput dari fitur permukaan.** Model BERT yang disetel halus hanya pada empat lapisan transformer terakhirnya mengklasifikasikan pasangan kalimat berdekatan sebagai kausal, kontrastif, progresif, atau inkoheren, dan mengeluarkan titik putusnya sebagai diagnostik, mencapai F1 rata-rata minimal 0.891 pada 28,736 pasangan kalimat ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
@@ -55,6 +58,10 @@ Pemrosesan bahasa alami dalam pendidikan menerapkan metode komputasional pada ba
 - **Pengodean yang dapat diaudit dengan memisahkan asersi dari interpretasi.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] mengganti prompting berlabel tunggal dengan skema 221 asersi yang dapat dibaca manusia, yakni 74 dari korpus, 48 dari konstruk, dan 100 pemeriksaan kehadiran kata otomatis, yang dipetakan pengklasifikasi transparan ke label konstruk, mencapai makro-F1 0.673 dan κ Cohen 0.688 pada korpus ujaran guru TalkMoves, dibanding maksimum prompting langsung terbitan 0.61 makro-F1 dan 0.58 κ, meski masih di bawah RoBERTa-base yang disetel halus pada 0.76. Mewajibkan α Krippendorff ≥ 0.5 hanya menyisakan 33 dari 74 asersi turunan korpus, dan baseline hanya-kata memberi 0.339 makro-F1, sehingga keuntungan datang dari asersi perilaku yang dipelajari, bukan frekuensi kata kunci.
 - **Penandaan konsep dalam skala besar.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] memecah penandaan konsep pengetahuan menjadi pipeline Select–Reason–Judge — model kecil menyeleksi kandidat konsep, LLM bernalar atas daftar pendek itu, lalu menilai — sehingga menaikkan akurasi penandaan pada tiga benchmark dengan menyusutkan ruang keputusan model.
 - **Lembar jawaban tulisan tangan menolak parser yang ada.** Derivasi multi-baris, prosa dan rumus berselang-seling, tabel gambar tangan, serta derau coretan dan hapusan lolos dari benchmark dokumen tercetak dan ekspresi terisolasi, sehingga kumpulan data HANS berisi lembar matematika kelas delapan — 5,213 gambar jawaban dari 745 siswa pada 18 jenis soal — menganotasi derau itu dan menopang model penekan derau yang meningkatkan pengenalan ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+
+- **Kesetiaan entitas dalam transkrip ASR adalah pertanyaan yang terpisah dari akurasi leksikal.** Membandingkan lima sistem pengenalan suara terhadap transkrip rujukan manusia, [[wang-educational-video-transcripts-llm-analysis-2026|Wang, Pritchard & Rosenberg (2026)]] melaporkan bukti kesetiaan entitas ASR/NER pertama dalam basis pengetahuan: tingkat kesalahan kata berkisar dari 2.43% (TurboScribe) hingga 15.32% (Vosk), sementara pengodean tipe entitas emas tujuh kategori melihat GPT-5.5 mencapai akurasi 0.805 (κ = .726) berbanding 0.634 untuk spaCy (κ = .488).
+WER agregat saja tidak dapat memastikan bahwa struktur entitas bertahan melalui transkripsi.
+
 
 ### Koneksi ke tutor dan pengukuran
 

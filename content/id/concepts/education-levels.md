@@ -12,9 +12,9 @@ institutions: [educational-policy-ai, governance]
 ethics: [differential-effects-across-learner-groups, equity-in-ai-education, privacy, pedagogical-safety]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/education-levels"
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -92,7 +92,7 @@ Satu pola berlaku pada setiap tingkat yang disurvei: lapisan manusia menyerap ka
 
 **"Mata pelajaran yang diajarkan lebih penting daripada tingkat pendidikan."** Sekat sekolah/universitas lebih penting. Yang berubah melintasi batas itu bukan kontennya melainkan kapasitas regulasi diri, sifat kontrak penilaian, dan siapa yang bertanggung jawab atas pembelajaran — itulah sebabnya alat yang membantu seminar pascasarjana dapat merugikan pelajaran kelas dua bahkan pada konten yang sebanding.
 
-**"Tutor adaptif membantu setiap tingkat secara setara."** Perbandingan yang mengisolasi variabel itu instruktif: dua versi tutor matematika kelas dua yang sama — konten, antarmuka, umpan balik, dan petunjuk lisan identik — berbeda **hanya pada apakah pemilihan tugas mengikuti model [[knowledge-tracing|Bayesian]]**. Pemilihan tugas adaptif adalah intervensi yang peka tingkat, dan manfaatnya bergantung pada apakah siswa pada tingkat itu dapat bertindak atas adaptasi tersebut.
+**"[[intelligent-tutoring|Tutor adaptif]] membantu setiap tingkat secara setara."** Perbandingan yang mengisolasi variabel itu instruktif: dua versi tutor matematika kelas dua yang sama — konten, antarmuka, umpan balik, dan petunjuk lisan identik — berbeda **hanya pada apakah pemilihan tugas mengikuti model [[knowledge-tracing|Bayesian]]**. Pemilihan tugas adaptif adalah intervensi yang peka tingkat, dan manfaatnya bergantung pada apakah siswa pada tingkat itu dapat bertindak atas adaptasi tersebut.
 
 **"Bukti yang terkonsentrasi di pendidikan tinggi dapat digeneralisasi ke bawah."** Tidak bisa, dan distribusi literatur adalah peringatan alih-alih kemudahan. Di mana bukti padat dan di mana ia tipis adalah sifat ekonomi penelitian, bukan sifat tempat AI paling banyak digunakan, sehingga klaim tentang K-12 yang ditarik dari sampel universitas adalah ekstrapolasi melintasi batas yang paling penting.
 

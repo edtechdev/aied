@@ -11,9 +11,9 @@ audience: [administrators, instructors]
 level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/administrator"
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -31,10 +31,10 @@ ai_assist:
 
 - Adopsi AI sering dibingkai sebagai keputusan ruang kelas, tetapi administratorlah yang menetapkan kondisinya — kebijakan, pendanaan, infrastruktur. Di institusi Anda, siapa yang sebenarnya memutuskan apakah dan bagaimana AI digunakan, dan siapa yang dikesampingkan dari keputusan itu?
 - Penelitian menemukan kesenjangan yang berulang antara ambisi kebijakan tingkat tinggi dan implementasi sehari-hari. Di mana Anda melihat kebijakan AI yang berniat baik gagal menjangkau ruang kelas, dan menurut Anda mengapa kebijakan itu tidak berhasil?
-- Administrator harus menyeimbangkan peluang pedagogis dengan risiko, keadilan, dan sumber daya. Jika Anda harus memilih antara mendanai satu inisiatif AI baru dan memperkuat tata kelola data serta pelatihan staf pengajar, mana yang Anda pilih dan mengapa?
+- Administrator harus menyeimbangkan [[pedagogy|peluang pedagogis]] dengan risiko, keadilan, dan sumber daya. Jika Anda harus memilih antara mendanai satu inisiatif AI baru dan memperkuat tata kelola data serta pelatihan staf pengajar, mana yang Anda pilih dan mengapa?
 - Keputusan pengadaan di tingkat institusi dapat memungkinkan atau membatasi apa yang benar-benar dapat dilakukan guru dan siswa. Pertanyaan apa yang ingin Anda dapatkan jawabannya sebelum institusi Anda menandatangani kontrak platform edtech AI?
 - Institusi menerjemahkan kapabilitas AI menjadi kerangka penggunaan yang dapat diterima dan standar data. Bagaimana Anda menimbang janji inovasi terhadap implikasi privasi dan keadilan dari data yang dikumpulkan alat-alat ini?
-- Pilihan administrator atas alat kesejahteraan berbasis AI secara langsung membentuk pengalaman siswa. Bukti apa yang ingin Anda lihat sebelum menyebarkan alat AI yang dimaksudkan untuk mendukung — bukan memantau — siswa?
+- Pilihan administrator atas alat [[well-being|kesejahteraan]] berbasis AI secara langsung membentuk pengalaman siswa. Bukti apa yang ingin Anda lihat sebelum menyebarkan alat AI yang dimaksudkan untuk mendukung — bukan memantau — siswa?
 
 ## Pendahuluan
 
@@ -49,7 +49,7 @@ Adopsi AI dalam pendidikan bukan semata keputusan ruang kelas; ini juga keputusa
 - **Taksonomi sepuluh domain untuk menata tumpukan.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] menyintesis 314 publikasi menjadi sepuluh domain — dari efisiensi administratif hingga tata kelola dan DEI — memberi para pemimpin kosakata bersama untuk mencocokkan masalah institusional yang dinyatakan dengan domain yang menanganinya.
 
 - **Struktur kepemimpinan tertinggal dari niat strategis.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] menemukan hanya 7% institusi menciptakan peran kepemimpinan AI senior padahal 49% memperlakukan AI sebagai prioritas strategis, dengan gaya kepemimpinan yang memberdayakan dan distributif berkaitan dengan keterlibatan dosen yang lebih tinggi serta kesenjangan teori-implementasi paling lebar di tempat kebijakan dan infrastruktur lemah.
-- **Kesejahteraan dan pengalaman siswa:** [[ai-campus-wellbeing-tools|alat kesejahteraan kampus berbasis AI]] mengkaji bagaimana institusi menyebarkan AI untuk dukungan siswa, menghubungkan pilihan administrator dengan hasil [[student-experience|pengalaman siswa]].
+- **Kesejahteraan dan pengalaman siswa:** [[ai-campus-wellbeing-tools|alat kesejahteraan kampus berbasis AI]] mengkaji bagaimana institusi menyebarkan AI untuk [[student-support-and-success|dukungan siswa]], menghubungkan pilihan administrator dengan hasil [[student-experience|pengalaman siswa]].
 - **Tata kelola dan regulasi:** Keputusan administrator bersinggungan dengan [[educational-policy-ai]], [[governance]], dan [[regulation]] — institusi menerjemahkan kapabilitas AI menjadi kerangka penggunaan yang dapat diterima, aturan penilaian, dan standar tata kelola data (lihat [[genai-policies-higher-ed-computing|analisis kebijakan GenAI institusional]]).
 
 ### Koneksi

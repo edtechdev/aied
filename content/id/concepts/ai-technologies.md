@@ -5,9 +5,9 @@ type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/ai-technologies"
-source_updated: "2026-11-03T09:42:00-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 - **Model bahasa besar (LLM).** Tulang punggung komputasional sebagian besar [[ai-education|AIED]] modern — [[llm|LLM]] menghasilkan teks menyerupai manusia untuk tutoring, penilaian, dan pembuatan konten, dan merupakan teknologi yang paling banyak dirujuk dalam basis pengetahuan. [[llm-training-and-fine-tuning|Pelatihan dan penyetelan halus]] mengadaptasi LLM umum untuk penggunaan pendidikan.
 - **AI generatif.** Kategori sistem yang lebih luas yang menghasilkan teks, kode, gambar, dan konten lain — [[generative-ai|AI generatif]] (terutama digerakkan oleh LLM) adalah teknologi di balik gelombang penelitian [[ai-education|AIED]] saat ini. Lihat juga [[multimodal|model multimodal]] (teks, gambar, audio) dan [[simulation]].
-- **Robot dan sistem terwujud.** [[educational-robotics|Robot dalam pendidikan]] menambahkan kehadiran terwujud dan sering kali sosial — kit yang dapat diprogram untuk berpikir komputasional serta robot humanoid/sosial untuk tutoring, bercerita, dan bermain peran. Robotika adalah alur teknis tersendiri yang bersinggungan dengan [[agentic-ai|AI agentic]] dan desain [[human-in-the-loop-ai|human-in-the-loop]].
+- **Robot dan sistem [[embodied-learning|terwujud]].** [[educational-robotics|Robot dalam pendidikan]] menambahkan kehadiran terwujud dan sering kali [[community-of-inquiry|sosial]] — kit yang dapat diprogram untuk [[computational-thinking|berpikir komputasional]] serta robot humanoid/sosial untuk tutoring, [[storytelling-in-education|bercerita]], dan bermain peran. Robotika adalah alur teknis tersendiri yang bersinggungan dengan [[agentic-ai|AI agentic]] dan desain [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistem berbasis pengetahuan.** [[knowledge-graph|Grafik pengetahuan]] dan [[educational-nlp|NLP pendidikan]] merepresentasikan serta memproses pengetahuan domain, yang semakin sering dikombinasikan dengan LLM untuk tutoring yang berdasar dan dapat dijelaskan.
 
 ## Teknik dan metode
@@ -56,9 +56,9 @@ Alur teknis tidak terpisahkan dari tema-tema lain dalam basis pengetahuan:
 
 - **Pedagogi:** pilihan teknis mewujudkan asumsi pedagogis — [[intelligent-tutoring|tutor]] yang dibangun di atas [[socratic-method|prompting Sokratik]] bernalar bersama pembelajar, sementara model penghasil jawaban mungkin secara default langsung memberi jawaban (lihat [[pedagogy|pedagogi dan strategi pengajaran]]).
 - **Penilaian dan evaluasi:** [[ai-ed-evaluation]] dan [[benchmark|tolok ukur]] menentukan apakah sistem AI benar-benar berfungsi; [[assessment]] dan [[automated-assessment]] menggunakan tumpukan teknis untuk menilai dan menghasilkan.
-- **Penggunaan yang bertanggung jawab:** teknik teknis menjadi pusat [[reducing-ai-misuse|pengurangan penyalahgunaan AI]] — pendasaran [[rag]], pagar pengaman, [[prompt-engineering]] [[scaffolding]], dan [[human-in-the-loop-ai|pengawasan manusia]] menentukan apakah AI mendukung atau melemahkan pembelajaran ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Penggunaan yang bertanggung jawab:** teknik teknis menjadi pusat [[reducing-ai-misuse|pengurangan penyalahgunaan AI]] — pendasaran [[rag]], [[guardrails|pagar pengaman]], [[prompt-engineering]] [[scaffolding]], dan [[human-in-the-loop-ai|pengawasan manusia]] menentukan apakah AI mendukung atau melemahkan pembelajaran ([[cognitive-offloading]], [[hallucination-risk]]).
 
-**Perhatian penelitian terkonsentrasi pada sebagian kecil ekosistem alat.** Dengan memetakan 85 alat AI terhadap literatur STEM dan teknik, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] menemukan hanya 36 yang terlihat dalam penelitian sama sekali dan AI percakapan/LLM menyumbang 73.7% dari 927 koneksi makalah–alat, dengan 23 publikasi dalam konteks laboratorium yang mapan.
+**Perhatian penelitian terkonsentrasi pada sebagian kecil ekosistem alat.** Dengan memetakan 85 alat AI terhadap literatur STEM dan teknik, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] menemukan hanya 36 yang terlihat dalam penelitian sama sekali dan [[conversational-ai|AI percakapan]]/LLM menyumbang 73.7% dari 927 koneksi makalah–alat, dengan 23 publikasi dalam konteks laboratorium yang mapan.
 
 ## Implikasi bagi AI dalam pendidikan
 

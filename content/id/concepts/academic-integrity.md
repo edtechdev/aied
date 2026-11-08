@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -183,6 +183,8 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 
  OECD (2023) mencatat bahwa hingga awal 2024 tidak satu pun dari delapan belas negara yang disurvei memiliki regulasi AI generatif khusus untuk pendidikan dan sembilan telah mendelegasikan tata kelola ke tingkat sekolah. Dibaca melalui non-performatif Ahmed, kosakata itu mengungkapkan ketanggapan etis tanpa mekanisme apa pun untuk mewujudkannya, sehingga tanggung jawab diserukan oleh setiap aktor sekaligus dan tidak terletak pada siapa pun. Hashem menamai hasilnya sebagai **habitus kecurangan** yang berubah: disposisi terhadap partisipasi yang sah yang dikalibrasi ulang di bawah ketidakpastian kronis, terstratifikasi oleh modal akademik yang dibawa siswa, dengan menyontek dan disontek diperlakukan sebagai kondisi yang bersamaan alih-alih alternatif. Semuanya diusulkan dari teks kebijakan, bukan diamati pada siswa.
 
+Di antara 546 mahasiswa sarjana, integritas menempati peringkat pertama di antara lima dimensi persepsi (3,79 dari 5) dan tidak berbeda menurut program studi, sehingga variasi antardisiplin terletak pada penggunaan AI dan tuntutan keterampilan, bukan pada seberapa penting integritas ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Miskonsepsi Umum
 
 - **"Alat deteksi mengidentifikasi tulisan AI."** Teks yang dihasilkan AI telah **lolos sebagai tulisan manusia dalam hingga 80% kasus**, sementara bukti untuk deteksi menempatkan **deteksi mesin sekitar 80% berbanding 78,4% untuk penilai manusia**. Pertimbangan manusia dan mesin hampir sama (tidak) dapat diandalkannya, sehingga putusan deteksi bukanlah bukti kepengarangan.
@@ -260,3 +262,4 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — Penilaian kerja tim dengan verifikasi per anggota sebagai desain autentikasi (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Pertanggungjawaban alih-alih proporsi teks sebagai masalah integritas
+- [[crisol-moya-integrity-assessment-2026]] — 546 mahasiswa: integritas menempati peringkat pertama dan merata di seluruh program studi (Crisol Moya et al. 2026)

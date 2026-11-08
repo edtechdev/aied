@@ -8,9 +8,9 @@ ethics: [equity-in-ai-education, inclusive-learning]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/culturally-relevant-pedagogy"
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -46,8 +46,8 @@ AI dapat mendukung guru dalam membuat pengajaran responsif secara budaya, tetapi
 
 Di luar pembuatan pelajaran, CRP terhubung ke kritik yang lebih dalam: data pelatihan dan proses desain AI mengodekan kerangka epistemik Barat dan berbahasa Inggris yang meminggirkan cara-cara mengetahui lainnya.
 
-- **Kolonialitas epistemik:** Tali-Otmani (2026) berargumen bahwa sistem GenAI tidak netral secara epistemik — data pelatihan yang didominasi Barat **secara aktif meminggirkan pengetahuan kelompok minoritas**, menghasilkan "peminggiran ganda" bagi pembelajar disabilitas yang epistemologinya kurang terwakili dalam data pelatihan sekaligus dikecualikan dari desain. Ini memperluas percakapan [[equity-in-ai-education|keadilan]] dari *akses* ke *pengetahuan siapa yang divalidasi*.
-- **Mendistribusikan ulang otoritas epistemik:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] mengusulkan **pembelajaran AI berbasis komunitas**, kerangka yang memposisikan ulang epistemologi berbasis pengalaman dan komunitas pembelajar sebagai standar evaluatif atas keluaran AI. Tiga komitmennya — **penyetelan halus epistemik**, **redistribusi otoritas**, dan kebijaksanaan **[[situated-learning|tersituasi]]** — mengkalibrasi kepercayaan terhadap sejarah lokal dan keahlian komunitas, memperlakukan penolakan dan non-penggunaan strategis sebagai respons CRP yang sah terhadap AI.
+- **Kolonialitas epistemik:** Tali-Otmani (2026) berargumen bahwa sistem GenAI tidak netral secara epistemik — data pelatihan yang didominasi Barat **secara aktif meminggirkan pengetahuan kelompok minoritas**, menghasilkan "peminggiran ganda" bagi [[inclusive-learning|pembelajar disabilitas]] yang epistemologinya kurang terwakili dalam data pelatihan sekaligus dikecualikan dari desain. Ini memperluas percakapan [[equity-in-ai-education|keadilan]] dari *akses* ke *pengetahuan siapa yang divalidasi*.
+- **Mendistribusikan ulang otoritas epistemik:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] mengusulkan **pembelajaran AI berbasis komunitas**, kerangka yang memposisikan ulang epistemologi berbasis pengalaman dan komunitas pembelajar sebagai standar evaluatif atas keluaran AI. Tiga komitmennya — **[[llm-training-and-fine-tuning|penyetelan halus]] epistemik**, **redistribusi otoritas**, dan kebijaksanaan **[[situated-learning|tersituasi]]** — mengkalibrasi kepercayaan terhadap sejarah lokal dan keahlian komunitas, memperlakukan penolakan dan non-penggunaan strategis sebagai respons CRP yang sah terhadap AI.
 
 ### Data dan Evaluasi yang Berakar Budaya
 
@@ -71,7 +71,7 @@ Berakar pada artikel basis pengetahuan ini sendiri, pendidik dan perancang dapat
 
 ## Miskonsepsi Umum
 
-**"Keluaran AI netral secara budaya kecuali Anda memberi prompt untuk budaya."** Defaultnya bukan netral, melainkan dominan. Analisis atas **310 rencana pelajaran kewarganegaraan yang dihasilkan AI (2,230 aktivitas)** menemukan **94% tidak memuat konten multikultural yang dapat dikenali** — dan dari 144 aktivitas yang memuatnya, **137 berada pada tingkat "Aditif" terendah, hanya satu mencapai "Transformasi", dan tidak ada yang mencapai "Aksi Sosial."** Bila dibiarkan tanpa prompt, model mereproduksi default yang tidak beragam, sehingga memberi prompt untuk budaya bukanlah mitigasi bias, melainkan satu-satunya alasan mengapa semua itu muncul.
+**"Keluaran AI netral secara budaya kecuali Anda memberi prompt untuk budaya."** Defaultnya bukan netral, melainkan dominan. Analisis atas **310 rencana pelajaran kewarganegaraan yang dihasilkan AI (2,230 aktivitas)** menemukan **94% tidak memuat konten multikultural yang dapat dikenali** — dan dari 144 aktivitas yang memuatnya, **137 berada pada tingkat "Aditif" terendah, hanya satu mencapai "Transformasi", dan tidak ada yang mencapai "Aksi Sosial."** Bila dibiarkan tanpa prompt, model mereproduksi default yang tidak beragam, sehingga [[prompt-engineering|memberi prompt]] untuk budaya bukanlah [[bias-mitigation|mitigasi bias]], melainkan satu-satunya alasan mengapa semua itu muncul.
 
 **"Menambahkan contoh multikultural merupakan pedagogi relevan budaya."** Hierarki kerangka itu sendiri mengatakan sebaliknya, dan keluaran yang dihasilkan menunjukkan mengapa pembedaan ini penting secara operasional. Konten aditif membiarkan struktur dan asumsi unit tidak tersentuh; Transformasi mengubah cara konten dibingkai; Aksi Sosial meminta pembelajar bertindak atasnya. Mencampuradukkan representasi dengan transformasi adalah cara sebuah korpus dapat 6% tidak kosong dalam hal keragaman namun tetap jauh dari responsif budaya.
 

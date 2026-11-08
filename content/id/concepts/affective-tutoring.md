@@ -8,9 +8,9 @@ technology: [adaptive-learning, affective-computing, generative-ai, intelligent-
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/affective-tutoring"
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -56,13 +56,13 @@ Favero dkk. (2025) memperingatkan bahwa [[student-engagement|keterlibatan]] emos
 | Manfaat tutoring afektif | Risiko yang sepadan |
 |---|---|
 | Respons yang sadar emosi terasa mendukung | Siswa dapat membentuk **ketergantungan parasosial** pada tutor |
-| Empati mengurangi kecemasan | Kecemasan yang berkurang dapat menutupi **keterlepasan metakognitif** |
+| Empati mengurangi [[anxiety-and-stress|kecemasan]] | [[anxiety-and-stress|Kecemasan]] yang berkurang dapat menutupi **keterlepasan metakognitif** |
 | Kalibrasi afektif mempersonalisasi tempo | [[personalized-learning|Personalisasi]] yang mendalam dapat **mengurangi transfer** ke konteks non-adaptif |
 | Pemantauan wajah menandakan kewaspadaan | Perekaman video terus-menerus menimbulkan **kekhawatiran privasi** |
 
 Para penulis berpendapat bahwa risiko emosional merupakan bagian dari pola yang lebih luas, yakni **tergerusnya [[self-efficacy]], [[agency]], dan [[well-being]]** ketika penggunaan AI tidak terkendali.
 
-**Risiko ini juga menimpa orang yang tidak pernah membuka tutor.** [[shastry-gray-empathy-offloading-2026|Shastry dan Gray (2026)]] menemukan bahwa kesediaan memberikan dukungan emosional sendiri menurun seiring keyakinan bahwa sebuah sistem dapat memberikannya, dan keyakinan itu bersifat kausal dalam eksperimen kedua mereka: membaca liputan berita biasa tentang AI yang empatik sudah cukup untuk menaikkan pelimpahan, sepenuhnya melalui kapasitas yang dipersepsikan. Studi keempat mereka menambahkan biaya sosial yang luput dari kerangka tingkat individu. Ketika diberi tahu bahwa seorang siswa pergi ke chatbot untuk memperoleh dukungan, partisipan mengatakan mereka akan melimpahkan lebih sedikit daripada jika siswa itu pergi ke seorang teman. Mereka kemudian menulis lebih sedikit kata empati dan lebih banyak kata ketidakpedulian tentang siswa tersebut, serta menilainya sebagai lebih asing dan lebih putus asa. Penyediaan [[social-emotional-learning|sosial-emosional]] karena itu dapat menipis di sekitar tutor bahkan ketika tidak ada penggunanya yang melaporkan perubahan.
+**Risiko ini juga menimpa orang yang tidak pernah membuka tutor.** [[shastry-gray-empathy-offloading-2026|Shastry dan Gray (2026)]] menemukan bahwa kesediaan memberikan dukungan emosional sendiri menurun seiring keyakinan bahwa sebuah sistem dapat memberikannya, dan keyakinan itu bersifat kausal dalam eksperimen kedua mereka: membaca liputan berita biasa tentang AI yang empatik sudah cukup untuk menaikkan pelimpahan, sepenuhnya melalui kapasitas yang dipersepsikan. Studi keempat mereka menambahkan biaya sosial yang luput dari kerangka tingkat individu. Ketika diberi tahu bahwa seorang siswa pergi ke [[conversational-ai|chatbot]] untuk memperoleh dukungan, partisipan mengatakan mereka akan melimpahkan lebih sedikit daripada jika siswa itu pergi ke seorang teman. Mereka kemudian menulis lebih sedikit kata empati dan lebih banyak kata ketidakpedulian tentang siswa tersebut, serta menilainya sebagai lebih asing dan lebih putus asa. Penyediaan [[social-emotional-learning|sosial-emosional]] karena itu dapat menipis di sekitar tutor bahkan ketika tidak ada penggunanya yang melaporkan perubahan.
 
 ## Prinsip Desain
 

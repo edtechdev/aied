@@ -5,9 +5,9 @@ type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/cognitive-psychology"
-source_updated: "2026-11-01T09:12:21-05:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,9 @@ Cognitive Theory of Multimedia Learning (CTML) Mayer menerapkan asumsi memori ke
 
 [[generative-ai|AI generatif]] memperluas sekaligus menantang kognitivisme. Ia memperluasnya dengan membuat representasi pengetahuan lebih kuat (LLM sebagai mesin pengetahuan yang dapat dilacak melalui [[knowledge-tracing|pelacakan pengetahuan]] dan diadaptasi melalui [[student-modeling|pemodelan siswa]]). Ia menantangnya dengan merumitkan di mana kognisi "berada": ketika AI melakukan penalaran, memori, dan bahkan fungsi mirip metakognitif, asumsi kognitivis bahwa pembelajaran adalah pemrosesan internal dalam pikiran individu menjadi terguncang — sebagaimana [[distributed-cognition|kognisi terdistribusi]], [[ai-cognitive-partner-co-regulation-learning|ko-regulasi]], dan pembingkaian post-human berargumen bahwa kognisi dapat terdistribusi di antara sistem manusia dan artifisial. Namun pertanyaan kognitivis tetap menjadi pertanyaan sentral bidang ini: *apakah pembelajar menginternalisasi pengetahuan, atau alat itu yang menyimpannya?* Inilah pertanyaan offloading kognitif dan kesenjangan kinerja–pembelajaran dalam bentuknya yang paling murni.
 
+Sebuah eksperimen 2026 memberi sisi memori dari batas itu sebuah mode kegagalan yang konkret. Hanya 44.8% dari 328 orang dewasa yang membaca ringkasan AI yang menyesatkan kemudian mengidentifikasi detail video dengan benar, dibandingkan 83.6% yang membaca ringkasan yang konsisten. Label AI atau manusia tidak membuat perbedaan, dan kepercayaan diri yang dilaporkan sendiri terhadap AI juga tidak ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Itu memori sumber, bukan pembelajaran kelas, tetapi ringkasan yang lancar dapat menimpa catatan pembelajar tentang sumbernya, yang penting bagi belajar dan penilaian.
+
+
 ## Implikasi bagi desain dan penelitian
 
 1. **Rancang untuk internalisasi, bukan sekadar kinerja.** AIED kognitivis harus dievaluasi berdasarkan apakah pembelajar dapat mengambil dan menerapkan pengetahuan *tanpa* alat itu — bukan berdasarkan kinerja berbantuan. Inilah [[ai-misuse-learning-harm|kesenjangan kinerja–pembelajaran]] dan alasan untuk mengukur [[transfer-of-learning|transfer]] tanpa bantuan.
@@ -105,6 +108,7 @@ Cognitive Theory of Multimedia Learning (CTML) Mayer menerapkan asumsi memori ke
 
 ## Artikel terkait
 
+- [[sim-ai-summary-memory-distortion-2026]] — Ringkasan AI yang menyesatkan mengubah apa yang diingat orang dewasa, terlepas dari apakah ringkasan itu berlabel AI atau tulisan manusia
 - [[cognitive-shift-ai-education]] — Pergeseran kognitif dalam pendidikan AI
 - [[cogtax-cognitive-taxonomy]] — Taksonomi kognitif untuk penggunaan AI
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Agen LLM pedagogis yang berpijak pada pelacakan pengetahuan

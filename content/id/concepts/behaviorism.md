@@ -7,9 +7,9 @@ pedagogy: [behaviorism, learning-theories]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/behaviorism"
-source_updated: "2026-11-01T09:06:43-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -47,13 +47,13 @@ Behaviorisme berpendapat bahwa belajar adalah menguatnya atau melemahnya koneksi
 
 ### Desain behavioris mendominasi praktik
 
-Karya empiris berulang kali menemukan bahwa implementasi AI yang sebenarnya sebagian besar bersifat **behavioris atau berorientasi kognitif** — menekankan latihan-drill, [[feedback]] segera, dan tempo adaptif — bahkan ketika wacana menganut teori yang lebih kaya. Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] tentang AI dalam pendidikan dan pelatihan kejuruan (VET) menyimpulkan bahwa teori konstruktivis dianut dalam wacana VET sementara **implementasi AI behavioris mendominasi dalam praktik**, dan memperingatkan adanya "Turing Trap" pendidikan — menggunakan AI untuk mereplikasi alih-alih memperkuat pengajaran manusia.([[ai-vocational-education-training-review]])
+Karya empiris berulang kali menemukan bahwa implementasi AI yang sebenarnya sebagian besar bersifat **behavioris atau berorientasi kognitif** — menekankan latihan-drill, [[feedback]] segera, dan tempo adaptif — bahkan ketika wacana menganut teori yang lebih kaya. Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] tentang AI dalam [[vocational-education|pendidikan dan pelatihan kejuruan]] (VET) menyimpulkan bahwa teori konstruktivis dianut dalam wacana VET sementara **implementasi AI behavioris mendominasi dalam praktik**, dan memperingatkan adanya "Turing Trap" pendidikan di mana AI mereplikasi pengajaran manusia alih-alih memperkuatnya.([[ai-vocational-education-training-review]])
 
 ### Ekuivalensi keluaran: ketika perilaku tidak lagi menyertifikasi belajar
 
 Behaviorisme mendefinisikan belajar sebagai perubahan perilaku yang dapat diamati, yang menjadikannya teori yang paling langsung dipermalukan oleh AI generatif: seorang pembelajar kini dapat menghasilkan esai, analisis, atau kode yang berjalan dan tak terbedakan dari karya orang yang memiliki kompetensi yang seharusnya disertifikasi oleh artefak itu. Perilaku yang dapat diamati identik sementara pembelajarannya mungkin tidak terjadi, sebuah mode kegagalan yang disebut [[generativism-learning-theory|Generativisme]] sebagai masalah ekuivalensi perilaku.
 
-Kesenjangan antara kinerja dan pembelajaran bukanlah hal baru, tetapi AI memperlebarnya. Dalam eksperimen lapangan dengan hampir seribu siswa matematika sekolah menengah, akses tanpa batas ke asisten standar menaikkan kinerja latihan sebesar 48 persen sementara siswa yang sama kemudian memperoleh nilai 17 persen di bawah teman sebaya yang berlatih tanpa AI pada ujian tanpa bantuan; versi tutor dengan pagar pengaman sebagian besar menghilangkan defisit itu ([[genai-performance-vs-learning]]). Dibaca secara behavioris, pelajarannya menyangkut pengukuran, bukan pedagogi: sistem yang mengoptimalkan keluaran dapat memenuhi kriteria belajar teori itu sendiri sekaligus gagal memenuhi tujuannya.
+Kesenjangan antara kinerja dan pembelajaran bukanlah hal baru, tetapi AI memperlebarnya. Dalam eksperimen lapangan dengan hampir seribu siswa matematika sekolah menengah, akses tanpa batas ke asisten standar menaikkan kinerja latihan sebesar 48 persen sementara siswa yang sama kemudian memperoleh nilai 17 persen di bawah teman sebaya yang berlatih tanpa AI pada ujian tanpa bantuan; versi [[guardrails|tutor dengan pagar pengaman]] sebagian besar menghilangkan defisit itu ([[genai-performance-vs-learning]]). Dibaca secara behavioris, pelajarannya menyangkut pengukuran, bukan [[pedagogy|pedagogi]]: sistem yang mengoptimalkan keluaran dapat memenuhi kriteria belajar teori itu sendiri sekaligus gagal memenuhi tujuannya.
 
 ### Ketegangan dengan konstruktivisme dan agensi
 
@@ -70,7 +70,7 @@ Pertanyaan desainnya bukan apakah behaviorisme "benar" tetapi apakah mekanika be
 
 ## Behaviorisme dan "pendidikan tentang AI"
 
-Behaviorisme juga muncul dalam cara pembelajar menjumpai AI sebagai topik. Teori ini adalah salah satu dari empat [[learning-theories|teori belajar]] dominan — behaviorisme, kognitivisme, konstruktivisme, dan konektivisme — yang mendorong pendidik untuk meninjaunya kembali karena [[generative-ai|AI generatif]].([[generativism-learning-theory]]) Teori ini juga dirujuk dalam konteks pembelajaran kooperatif dan desain sebagai bagian dari latar teoretis yang diajarkan kepada pembelajar.([[ccct-cooperative-learning-technique]]) Memahami behaviorisme membantu pembelajar melihat mengapa banyak alat AI (dan produk yang dibangun di atasnya) dirancang untuk respons-dan-penguatan alih-alih untuk konstruksi yang lebih mendalam.
+Behaviorisme juga muncul dalam cara pembelajar menjumpai AI sebagai topik. Teori ini adalah salah satu dari empat [[learning-theories|teori belajar]] dominan — behaviorisme, kognitivisme, konstruktivisme, dan konektivisme — yang [[prompt-engineering|mendorong]] pendidik untuk meninjaunya kembali karena [[generative-ai|AI generatif]].([[generativism-learning-theory]]) Teori ini juga dirujuk dalam konteks pembelajaran kooperatif dan desain sebagai bagian dari latar teoretis yang diajarkan kepada pembelajar.([[ccct-cooperative-learning-technique]]) Memahami behaviorisme membantu pembelajar melihat mengapa banyak alat AI (dan produk yang dibangun di atasnya) dirancang untuk respons-dan-penguatan alih-alih untuk konstruksi yang lebih mendalam.
 
 ## Implikasi bagi desain dan penelitian
 

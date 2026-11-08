@@ -7,9 +7,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/assistive-technology"
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Teknologi Bantu** — perangkat, perangkat lunak, dan layanan yang membantu penyandang disabilitas mempersepsikan, mengoperasikan, berkomunikasi, dan berpartisipasi dalam pembelajaran serta kehidupan sehari-hari. Dalam [[ai-education|AI dalam pendidikan]], teknologi bantu mencakup pembaca layar, ucapan-ke-teks dan teks-ke-ucapan, takarir, keluaran braille dan taktil, alat bahasa isyarat, serta akomodasi berbasis AI yang semakin banyak dan menyesuaikan konten serta interaksi dengan kebutuhan individual.
+> **Teknologi Bantu** — perangkat, perangkat lunak, dan layanan yang membantu penyandang disabilitas mempersepsikan, mengoperasikan, berkomunikasi, dan berpartisipasi dalam pembelajaran serta kehidupan sehari-hari. Dalam [[ai-education|AI dalam pendidikan]], teknologi bantu mencakup pembaca layar, ucapan-ke-teks dan [[speech-and-voice-technologies|teks-ke-ucapan]], takarir, keluaran braille dan taktil, alat bahasa isyarat, serta akomodasi berbasis AI yang semakin banyak dan menyesuaikan konten serta interaksi dengan kebutuhan individual.
 
 ## Pertanyaan untuk Dipertimbangkan
 
@@ -52,7 +52,7 @@ Tinjauan lingkup 2026 atas [[ai-technologies|teknologi]] bantu digital untuk sis
 - **Sesuaikan alat dengan siswa dan tugas.** Pembaca layar, takarir, ucapan, dan keluaran taktil masing-masing mengatasi hambatan yang berbeda — pilih berdasarkan kebutuhan individu dan format konten.
 - **Manfaatkan AI untuk menurunkan biaya adaptasi bantu.** AI dapat membuat takarir otomatis, menyederhanakan teks, dan menghasilkan alternatif, tetapi evaluasi kualitas keluaran terhadap akurasi pedagogis.
 - **Landaskan penyediaan pada kebijakan.** Rujuk Assistive Technology Act, IDEA, dan WCAG ketika mengadakan atau membangun alat AI.
-- **Nyatakan fungsi apa yang dilayani dukungan itu — dan evaluasi terhadap fungsi tersebut.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou dkk. (2026)]] membedakan kompensasi (dievaluasi melalui akses dan partisipasi) dari perancah (keputusan-dengan-dukungan) dari perkembangan (penggunaan strategi setelah pemudaran atau transfer). Mereka menambahkan aturan yang menyasar peringatan halaman ini: dukungan aksesibilitas bukan remediasi — apakah sebuah alat merupakan akomodasi, pengajaran strategi, atau dukungan latihan sementara "semestinya dinyatakan dalam rencana pembelajaran."
+- **Nyatakan fungsi apa yang dilayani dukungan itu — dan evaluasi terhadap fungsi tersebut.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou dkk. (2026)]] membedakan kompensasi (dievaluasi melalui akses dan partisipasi) dari [[scaffolding|perancah]] (keputusan-dengan-dukungan) dari perkembangan (penggunaan strategi setelah pemudaran atau transfer). Mereka menambahkan aturan yang menyasar peringatan halaman ini: dukungan aksesibilitas bukan remediasi — apakah sebuah alat merupakan akomodasi, pengajaran strategi, atau dukungan latihan sementara "semestinya dinyatakan dalam rencana pembelajaran."
 
 ## Miskonsepsi Umum
 

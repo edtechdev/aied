@@ -8,9 +8,9 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/community-of-inquiry"
-source_updated: "2026-11-01T09:07:05-05:00"
+source_updated: "2026-11-07T14:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,13 @@ GenAI mengacaukan asumsi bahwa indikator kehadiran dapat diatribusikan terutama 
 - **Mendistribusikan ulang kehadiran pengajaran** — desain, fasilitasi, dan pengajaran langsung menjadi capaian yang terdistribusi, dengan instruktur memodelkan cara menginterogasi keluaran yang dihasilkan dan mendeteksi sitasi halusinatif.
 - **Campur tangan terlalu bersemangat** — dalam sebuah studi diskusi daring, fasilitator ahli secara konsisten lebih berhati-hati dalam melakukan intervensi daripada hakim LLM, yang terlalu bersemangat memfasilitasi; klasifikasi terlatih terbaik pun tetap menabrak plafon rendah yang ditentukan oleh kumpulan data yang tersedia ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre dan Pavlopoulos, 2026]]). Kehadiran pengajaran yang terdistribusi ulang karena itu mengubah ambang intervensi, dan model akan menyela di tempat orang akan menunggu, yaitu mode kegagalan yang diperhatikan oleh forum diskusi.
 
-Bukti jaringan empiris kini mendasari klaim-klaim tersebut: dalam sebuah kuasi-eksperimen di mana 63 mahasiswa sarjana Tiongkok (33 dengan chatbot GPT-4o mini, 30 tanpa) menganotasi bacaan bersama di CollaboRead selama lima tugas mingguan, [[network-analysis|analisis jaringan epistemik]] menunjukkan kelas yang dibantu mengikat kehadiran sosial pada integrasi dan resolusi sementara kelas kontrol mengikat kehadiran sosial pada pemicuan dan eksplorasi (sumbu X U = 25.00, p = 0.01, r = 1.00; sumbu Y U = 13.00, p = 1.00, r = 0.04), dengan keterlibatan kognitif dan emosional yang dilaporkan sendiri lebih tinggi di kelas yang dibantu. Ketiga kehadiran kemudian terpisah *di dalam* kondisi alih-alih antarkondisi: kelompok berprestasi tinggi memulai 1407 permintaan umpan balik dari 2319 anotasi (60.7%) berbanding 737 dari 2167 (34.0%) pada kelompok berprestasi rendah, yang bertahan dalam lingkaran swa-rujuk dan lemah memanfaatkan perancah itu.([[genai-social-annotation-epistemic-network-analysis-2026|Pan dkk., 2026]])
+Sebuah tinjauan cakupan atas 21 studi menemukan bukti yang tidak merata di ketiga kehadiran: kehadiran sosial diperiksa dalam 13 studi, kognitif dalam 10, dan pengajaran hanya dalam 5, dan setiap studi kehadiran pengajaran memeriksanya bersama kehadiran lain. Kehadiran kognitif mengelompok pada eksplorasi dan integrasi, resolusi paling tidak terlihat, dan desain diskusi atau berbasis tugas dikaitkan dengan kehadiran kognitif sementara agen pedagogis dan desain yang ekspresif secara sosial dikaitkan dengan kehadiran sosial ([[doo-genai-community-of-inquiry-scoping-review-2026|Doo & Park, 2026]]).
+
+Bukti jaringan empiris kini mendasari klaim-klaim tersebut: dalam sebuah kuasi-eksperimen di mana 63 mahasiswa sarjana Tiongkok (33 dengan chatbot GPT-4o mini, 30 tanpa) menganotasi bacaan bersama di CollaboRead selama lima tugas mingguan. [[network-analysis|Analisis jaringan epistemik]] menunjukkan kelas yang dibantu mengikat kehadiran sosial pada integrasi dan resolusi sementara kelas kontrol mengikat kehadiran sosial pada pemicuan dan eksplorasi (sumbu X U = 25.00, p = 0.01, r = 1.00; sumbu Y U = 13.00, p = 1.00, r = 0.04), dengan [[self-report-measures|Keterlibatan]] kognitif dan emosional yang dilaporkan sendiri lebih tinggi di kelas yang dibantu. Ketiga kehadiran kemudian terpisah *di dalam* kondisi alih-alih antarkondisi: kelompok berprestasi tinggi memulai 1407 permintaan umpan balik dari 2319 anotasi (60.7%) berbanding 737 dari 2167 (34.0%) pada kelompok berprestasi rendah, yang bertahan dalam lingkaran swa-rujuk dan lemah memanfaatkan perancah itu.([[genai-social-annotation-epistemic-network-analysis-2026|Pan dkk., 2026]])
 
 Alih-alih sebagai alat, mitra dialogis, atau "kehadiran keempat" yang spekulatif, GenAI paling baik dipahami sebagai **kondisi epistemik** — pengaruh meresap yang menyusun ulang bagaimana kehadiran diberlakukan, ditafsirkan, dibuktikan, dan ditata kelola melalui keluaran yang terlihat maupun logika data pelatihan, algoritmik, dan platform yang tak terlihat.
 
-Para penulis kerangka ini sendiri menyediakan taksonomi peran bagi kondisi tersebut: [[ai-communities-of-inquiry-2026|Stenbom dan Garrison (2026)]] menempatkan AI sebagai pendukung desain pembelajaran, sumber daya pembelajar yang independen, fungsi pendukung instruktur melalui analitik, anggota komunitas, dan mitra dialogis yang berkelanjutan, serta mengusulkan [[metacognition]] bersama — pengaturan diri dan pengaturan bersama [[self-regulated-learning|diri]] — sebagai hal yang menjaga agar pembelajar tetap mengaudit keluaran AI.
+Para penulis kerangka ini sendiri menyediakan taksonomi peran bagi kondisi tersebut: [[ai-communities-of-inquiry-2026|Stenbom dan Garrison (2026)]] menempatkan AI sebagai pendukung [[learning-design|desain pembelajaran]], sumber daya pembelajar yang independen, fungsi pendukung instruktur melalui [[learning-analytics|analitik]], anggota komunitas, dan mitra dialogis yang berkelanjutan, serta mengusulkan [[metacognition]] bersama — pengaturan diri dan pengaturan bersama [[self-regulated-learning|diri]] — sebagai hal yang menjaga agar pembelajar tetap mengaudit keluaran AI.
 
 ## Implikasi praktis
 
@@ -95,6 +97,7 @@ Para penulis kerangka ini sendiri menyediakan taksonomi peran bagi kondisi terse
 - [[trust-calibration]]
 
 ## Artikel terkait
+- [[doo-genai-community-of-inquiry-scoping-review-2026]] — Tinjauan cakupan 21 studi: bukti kehadiran tidak merata, kehadiran pengajaran paling jarang diteliti, dan konfigurasi desain memilah hasilnya (Doo & Park 2026)
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Mengurai interaksi siswa dalam anotasi sosial berbantuan GenAI: analisis jaringan epistemik atas kehadiran kognitif dan sosial
 
 - [[reconceptualizing-community-inquiry-generative-ai]] — Mengonseptualisasi ulang CoI di era AI generatif

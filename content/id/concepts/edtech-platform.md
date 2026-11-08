@@ -10,9 +10,9 @@ technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtec
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/edtech-platform"
-source_updated: "2026-10-25T17:00:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Platform edtech** — sistem digital, sistem manajemen pembelajaran (LMS), sistem tutor, dan lingkungan pembelajaran daring yang melaluinya AI disampaikan kepada siswa dan pendidik. Dalam AI dalam pendidikan, platform adalah *lapisan infrastruktur* yang menentukan apakah suatu kapabilitas AI menjangkau siswa, bagaimana ia diterapkan (terbuka vs. berpemilik, terintegrasi vs. mandiri), dan siapa yang dapat mengakses, mengadaptasi, serta mengevaluasinya. Penelitian dalam basis pengetahuan ini mengkaji platform dari berbagai sudut: desainnya, kendala adopsi dan keterlibatannya, tata kelola institusionalnya, dan implikasi keadilannya.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Platform edtech** — sistem digital, sistem manajemen pembelajaran (LMS), sistem tutor, dan [[online-teaching-and-learning|lingkungan pembelajaran daring]] yang melaluinya AI disampaikan kepada siswa dan pendidik. Dalam [[ai-education|AI dalam pendidikan]], platform adalah *lapisan infrastruktur* yang menentukan apakah suatu kapabilitas AI menjangkau siswa, bagaimana ia diterapkan (terbuka vs. berpemilik, terintegrasi vs. mandiri), dan siapa yang dapat mengakses, mengadaptasi, serta mengevaluasinya. Penelitian dalam basis pengetahuan ini mengkaji platform dari berbagai sudut: desainnya, kendala adopsi dan keterlibatannya, tata kelola institusionalnya, dan implikasi keadilannya.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
@@ -32,7 +32,7 @@ ai_assist:
 - Satu studi menemukan bahwa hampir separuh siswa tidak pernah menggunakan platform tutor AI yang dirancang dengan baik, dan pengguna beratnya condong ke siswa berprestasi tinggi. Jika suatu alat efektif 'secara prinsip' tetapi siswa tidak menggunakannya, apakah kapabilitas atau platform yang menjadi masalah sebenarnya? Apa artinya itu bagi cara Anda mengevaluasi edtech?
 - Platform AI berpemilik dapat mengurung peneliti pada segelintir sistem tertutup, sementara platform terbuka seperti OATutor memungkinkan siapa pun melakukan fork, bereksperimen, dan menerbitkan. Apa yang mungkin hilang — bagi penelitian, keadilan, dan otonomi institusi — ketika pendidikan AI disampaikan melalui platform tertutup yang buram?
 - Seberapa besar model bisnis sebuah platform — siapa yang membayar, siapa yang memiliki data, apa yang dioptimalkan — membentuk pembelajaran yang benar-benar terjadi di dalamnya? Di mana Anda akan mencari untuk melihat pengaruh itu?
-- Sejumlah platform 'AI-native' baru menggantikan model MOOC satu-video-untuk-banyak-siswa dengan ruang kelas multiagen yang dibangun di sekitar setiap siswa. Sebelum membaca lebih lanjut, apa yang akan Anda khawatirkan hilang ketika pengajaran menjadi satu-ke-satu dengan agen alih-alih satu-ke-banyak dengan instruktur?
+- Sejumlah platform 'AI-native' baru menggantikan model MOOC satu-video-untuk-banyak-siswa dengan ruang kelas [[agentic-ai|multiagen]] yang dibangun di sekitar setiap siswa. Sebelum membaca lebih lanjut, apa yang akan Anda khawatirkan hilang ketika pengajaran menjadi satu-ke-satu dengan agen alih-alih satu-ke-banyak dengan instruktur?
 
 ## Pendahuluan
 
@@ -62,7 +62,7 @@ Kendala pengikatnya adalah di mana AI berada di dalam platform: dalam uji coba s
 
 ### Alat apa yang dilaporkan digunakan pendidik, dan apa yang membatasi akses
 
-Sensus langka atas pilihan platform yang dilaporkan pendidik berasal dari tipologi 2026 yang dibangun dari 211 pendidik di sembilan negara: alat yang mencapai ruang kelas secara tidak proporsional adalah alat yang memiliki tingkat gratis, karena versi gratis yang tersedia untuk publik merupakan kriteria inklusi, dan entri yang paling banyak dinominasikan adalah asisten serbaguna dan generator media alih-alih platform yang dirancang khusus. Sekitar separuh dari lima puluh alat yang terdaftar menghasilkan gambar, audio, video, atau dek slide, sementara asisten berbasis dokumen (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) membentuk klaster paling koheren dalam kategori riset. Sistem [[intelligent-tutoring|tutor]] khusus muncul sebagai kelompok kecil yang spesifik per mata pelajaran alih-alih menjadi pusat penggunaan yang dilaporkan — yang membingkai masalah adopsi di atas dalam latar yang lebih luas, di mana sebuah platform bersaing memperebutkan perhatian dengan alat serbaguna yang sudah terbuka di hadapan siswa dan instruktur.([[typology-generative-ai-tools-education-2026]])
+Sensus langka atas pilihan platform yang dilaporkan pendidik berasal dari tipologi 2026 yang dibangun dari 211 pendidik di sembilan negara: alat yang mencapai ruang kelas secara tidak proporsional adalah alat yang memiliki tingkat gratis, karena versi gratis yang tersedia untuk publik merupakan kriteria inklusi, dan entri yang paling banyak dinominasikan adalah asisten serbaguna dan generator media alih-alih platform yang dirancang khusus. Sekitar separuh dari lima puluh alat yang terdaftar menghasilkan gambar, audio, video, atau dek slide, sementara asisten berbasis dokumen (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) membentuk klaster paling koheren dalam kategori riset. Sistem [[intelligent-tutoring|tutor]] khusus muncul sebagai kelompok kecil yang [[discipline-specific-aied|spesifik per mata pelajaran]] alih-alih menjadi pusat penggunaan yang dilaporkan — yang membingkai masalah adopsi di atas dalam latar yang lebih luas, di mana sebuah platform bersaing memperebutkan perhatian dengan alat serbaguna yang sudah terbuka di hadapan siswa dan instruktur.([[typology-generative-ai-tools-education-2026]])
 
 ### Model platform itu penting: terbuka vs. berpemilik
 
@@ -76,11 +76,17 @@ Sensus langka atas pilihan platform yang dilaporkan pendidik berasal dari tipolo
 
 ### Platform AI-native sedang membentuk ulang pendidikan daring
 
-Paradigma platform itu sendiri sedang berkembang. **MAIC** (Massive AI-empowered Course) menggantikan model MOOC "satu video untuk N siswa" dengan ruang kelas multiagen yang digerakkan LLM — "N agen untuk 1 siswa" — menggunakan agen Guru, Asisten, Teman Sekelas, dan Penganalisis yang terspesialisasi untuk menyampaikan pembelajaran personal dan adaptif dalam skala besar, serta menurunkan produksi mata kuliah dari ~\$25K/60 jam menjadi di bawah \$2/30 menit.([[mooc-to-maic]]) Serupa dengan itu, desain LMS terintegrasi AI mengusulkan melampaui platform yang hanya berfungsi untuk alur kerja menuju dukungan instruksional waktu nyata dengan AI berpelindung kebijakan (terbatas), petunjuk formatif, tinjauan berjarak, dan dasbor guru.([[ai-lms-middle-school-longitudinal]]) Di ujung lain spektrum penerapan, AI yang tertanam di ruang kelas harus terbukti layak dalam lingkungan fisik yang hidup. Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — platform seluas ruang kelas yang menggunakan pengenalan suara dan pemahaman bahasa untuk memvisualisasikan wacana kolaboratif kelompok kecil — berhasil diterapkan di ruang kelas sekolah menengah pertama yang bising menggunakan mikrofon komersial dan pipeline cloud yang dapat diskalakan, menunjukkan bahwa infrastruktur AI suara waktu nyata dapat berfungsi dalam latar K-12 yang otentik meskipun ketidakcocokan antarmuka (pandangan guru vs. siswa tentang apakah umpan balik bersifat tingkat kelompok atau tingkat kelas) menciptakan gesekan penerapan.
+Paradigma platform itu sendiri sedang berkembang. **MAIC** (Massive AI-empowered Course) menggantikan model MOOC "satu video untuk N siswa" dengan ruang kelas multiagen yang digerakkan [[llm|LLM]] — "N agen untuk 1 siswa" — menggunakan agen [[teacher-role|Guru]], Asisten, Teman Sekelas, dan Penganalisis yang terspesialisasi untuk menyampaikan pembelajaran personal dan adaptif dalam skala besar. Ia menurunkan produksi mata kuliah dari ~\$25K/60 jam menjadi di bawah \$2/30 menit.([[mooc-to-maic]]) Serupa dengan itu, desain LMS terintegrasi AI mengusulkan melampaui platform yang hanya berfungsi untuk alur kerja menuju dukungan instruksional waktu nyata dengan AI berpelindung kebijakan (terbatas), petunjuk formatif, tinjauan berjarak, dan [[visualization|dasbor]] guru.([[ai-lms-middle-school-longitudinal]]) Di ujung lain spektrum penerapan, AI yang tertanam di ruang kelas harus terbukti layak dalam lingkungan fisik yang hidup. Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) — platform seluas ruang kelas yang menggunakan [[speech-and-voice-technologies|pengenalan suara]] dan pemahaman bahasa untuk memvisualisasikan wacana kolaboratif kelompok kecil — berhasil diterapkan di ruang kelas sekolah menengah pertama yang bising menggunakan mikrofon komersial dan pipeline cloud yang dapat diskalakan, menunjukkan bahwa infrastruktur AI suara waktu nyata dapat berfungsi dalam latar [[k-12|K-12]] yang otentik meskipun ketidakcocokan antarmuka (pandangan guru vs. siswa tentang apakah umpan balik bersifat tingkat kelompok atau tingkat kelas) menciptakan gesekan penerapan.
 
 ### Fitur platform berbasis minat dan sadar konteks
 
 Platform dapat mempersonalisasi melampaui data kinerja. **Taklif.AI** adalah platform bertenaga LLM yang menghasilkan tugas kuliah berdasarkan **minat ekstrakurikuler dan konteks budaya** siswa, selaras dengan [[culturally-relevant-pedagogy]] dan bergeser dari tugas seragam menuju keterlibatan yang digerakkan minat.([[taklif-ai-interest-based-personalized-assignments]])
+
+
+### Lapisan yang dirancang khusus di atas model umum
+
+Kontribusi platform sering kali adalah struktur yang tidak dimiliki model umum. [[learnmate2-llm-adaptive-learning|LearnMate^2]] membungkus LLM dalam perencanaan belajar, bantuan dalam konteks, dan aktivitas yang responsif terhadap kinerja, dan dalam perbandingan 16 peserta ia mengalahkan Khan Academy yang dipasangkan dengan Gemini 2.5 Pro pada kedua kuis (M = 13.375 vs 10.875, p = .0126; 7.875 vs 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] menerjemahkan instruksi bahasa alami menjadi perilaku robot CoppeliaSim bagi pemula, berhasil pada 100% tugas sederhana tetapi 88,9% tugas kompleks di 108 kasus.
+
 
 ## Implikasi bagi desain dan penelitian
 
@@ -99,7 +105,7 @@ Privasi dapat dibangun ke dalam pipeline alih-alih ke dalam kebijakan: detektor 
 
 **"Adopsi diukur dengan login."** Kesenjangan yang informatif berada pada tingkat pesan, bukan tingkat akun. Dalam uji coba yang sama hanya **~14.5% pesan membawa pertanyaan matematis yang sungguh-sungguh**. Sembilan puluh enam persen siswa menciptakan peristiwa akses; kira-kira satu dari tujuh interaksi mereka mengerjakan kerja intelektualnya. Melaporkan angka login di sini akan menggambarkan keberhasilan yang tidak ada.
 
-**"Terbuka versus berpemilik hanyalah detail lisensi yang tidak memengaruhi hasil."** Model platform membentuk apa yang dapat dilakukan institusi dengan sistem tersebut: platform [[open-source|terbuka]] seperti OATutor — tutor adaptif berlisensi MIT dengan pustaka konten aljabar Creative Commons, estimasi penguasaan [[knowledge-tracing]], dan pengujian A/B bawaan — memungkinkan sebuah departemen menginstrumentasi dan memodifikasi pedagoginya sendiri, yang tidak dapat dilakukan platform tertutup. Lisensi menentukan siapa yang boleh menjalankan eksperimen.
+**"Terbuka versus berpemilik hanyalah detail lisensi yang tidak memengaruhi hasil."** Model platform membentuk apa yang dapat dilakukan institusi dengan sistem tersebut: platform [[open-source|terbuka]] seperti OATutor — tutor adaptif berlisensi MIT dengan pustaka konten aljabar Creative Commons, estimasi penguasaan [[knowledge-tracing]], dan pengujian A/B bawaan — memungkinkan sebuah departemen menginstrumentasi dan memodifikasi [[pedagogy|pedagoginya]] sendiri, yang tidak dapat dilakukan platform tertutup. Lisensi menentukan siapa yang boleh menjalankan eksperimen.
 
 **"Platform yang berfungsi di satu institusi akan berfungsi sebagaimana diadopsi."** Efek platform berjalan melalui tata kelola lokal: arsitektur yang mengutamakan privasi, minimalisasi data, log yang dapat diaudit, dan akses berbasis peran adalah yang membuat platform terintegrasi AI dapat diterapkan sama sekali, dan itu adalah keputusan institusional alih-alih fitur yang dapat Anda simpulkan dari demonstrasi vendor.
 

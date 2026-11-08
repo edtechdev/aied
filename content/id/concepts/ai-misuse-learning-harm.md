@@ -8,9 +8,9 @@ pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/ai-misuse-learning-harm"
-source_updated: "2026-10-25T16:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 Penyalahgunaan AI berbeda dari penggunaan AI. Penggunaan menggambarkan pemakaian AI sebagai pelengkap belajar — [[feedback]], curah gagasan, atau bantuan revisi yang menjaga kerja kognitif pembelajar tetap dalam lingkar. Penyalahgunaan menggambarkan substitusi: mendelegasikan kepada AI justru proses mental (menyusun draf, mengingat, menganalisis, merevisi) yang membangun pemahaman bertahan. Yang didokumentasikan basis bukti bukanlah bahwa penyalahgunaan gagal menolong, melainkan bahwa ia aktif menurunkan capaian tanpa bantuan di kemudian hari.
 
-Kerugian yang diantisipasi pun terdokumentasi: dalam data survei dan kelompok fokus Swedia, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] menemukan 51% peserta (n = 106) khawatir penggunaan genAI dapat menghambat perkembangan individu, dengan menyebut kerugian pada [[critical-thinking|berpikir kritis]], kreativitas, dan otonomi alih-alih pelanggaran aturan.
+Kerugian yang diantisipasi pun terdokumentasi: dalam data survei dan kelompok fokus Swedia, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] menemukan 51% peserta (n = 106) khawatir penggunaan genAI dapat menghambat perkembangan individu, dengan menyebut kerugian pada [[critical-thinking|berpikir kritis]], [[creativity|kreativitas]], dan otonomi alih-alih pelanggaran aturan.
 
 ### Celah kinerja–pembelajaran
 
@@ -85,11 +85,11 @@ Nuansa praktis terpenting: kerugiannya **selektif menurut jenis penilaian**. Ia 
 
 ### Ketidakterlibatan percakapan di era LLM
 
-Literatur tentang mengakali sistem (penyalahgunaan petunjuk, menebak secara sistematis) memiliki padanan di era dialog: ketidakterlibatan percakapan — mengejek agen, sengaja menjawab salah, membiarkannya tanpa respons, menirukan teksnya, atau menahan respons. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] memberi fenomena ini perlakuan sistematis pertamanya dalam dialog siswa–AI, dan pelajaran sentralnya bersifat interpretatif alih-alih alarmis. *Giliran* yang tidak terlibat adalah langkah interaksional, bukan keadaan ketidakterlibatan yang stabil. Asosiasi yang tampak antara False Answering dan skor pascates tidak bertahan pada uji sensitivitas yang dianotasi manusia, dan para penulisnya membacanya sebagai penjajakan *di dalam* lintasan yang sering kembali ke keterlibatan (klaster berkinerja tertinggi pulih pada p = 0.42). Perilaku yang benar-benar memisahkan lintasan adalah Withholding — penolakan untuk merespons, yang bertahan alih-alih terselesaikan. Bagi perancang, ini membalik prioritas yang lazim: ketidakterlibatan yang berisik dan terlihat sering mengoreksi sendiri, sementara penarikan diri yang tenang menandakan bahwa interaksi telah runtuh.
+Literatur tentang mengakali sistem (penyalahgunaan petunjuk, menebak secara sistematis) memiliki padanan di era dialog: ketidakterlibatan percakapan — mengejek agen, sengaja menjawab salah, membiarkannya tanpa respons, menirukan teksnya, atau menahan respons. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] memberi fenomena ini perlakuan sistematis pertamanya dalam [[student-ai-interaction|dialog siswa–AI]], dan pelajaran sentralnya bersifat interpretatif alih-alih alarmis. *Giliran* yang tidak terlibat adalah langkah interaksional, bukan keadaan ketidakterlibatan yang stabil. Asosiasi yang tampak antara False Answering dan skor pascates tidak bertahan pada uji sensitivitas yang dianotasi manusia, dan para penulisnya membacanya sebagai penjajakan *di dalam* lintasan yang sering kembali ke keterlibatan (klaster berkinerja tertinggi pulih pada p = 0.42). Perilaku yang benar-benar memisahkan lintasan adalah Withholding — penolakan untuk merespons, yang bertahan alih-alih terselesaikan. Bagi perancang, ini membalik prioritas yang lazim: ketidakterlibatan yang berisik dan terlihat sering mengoreksi sendiri, sementara penarikan diri yang tenang menandakan bahwa interaksi telah runtuh.
 
 ## Miskonsepsi Umum
 
-**"Siswa akan menyadari jika AI merugikan pembelajaran mereka."** Mereka tidak menyadarinya, dan ini adalah fakta paling berkonsekuensi di halaman ini: **siswa dalam kelompok yang dirugikan tidak merasa bahwa mereka belajar lebih sedikit.** Laporan diri karena itu bukan sinyal peringatan dini yang dapat dipakai. Pola latihan 48% lebih tinggi / ujian 17% lebih rendah tidak terlihat oleh orang yang mengalaminya, itulah sebabnya deteksi kerugian harus berbasis pengukuran alih-alih berbasis kesaksian.
+**"Siswa akan menyadari jika AI merugikan pembelajaran mereka."** Mereka tidak menyadarinya, dan ini adalah fakta paling berkonsekuensi di halaman ini: **siswa dalam kelompok yang dirugikan tidak merasa bahwa mereka belajar lebih sedikit.** [[self-report-measures|Laporan diri]] karena itu bukan sinyal peringatan dini yang dapat dipakai. Pola latihan 48% lebih tinggi / ujian 17% lebih rendah tidak terlihat oleh orang yang mengalaminya, itulah sebabnya deteksi kerugian harus berbasis pengukuran alih-alih berbasis kesaksian.
 
 **"Risikonya adalah seberapa banyak AI yang dipakai seorang siswa."** Risikonya adalah apa yang digantikan oleh AI. Penyalahgunaan di sini berarti mendelegasikan penyusunan draf, pengingatan, atau analisis yang membangun pemahaman bertahan — substitusi alih-alih pelengkap, dan seorang siswa dapat mensubstitusi secara berat pada satu tugas dan melengkapi secara produktif pada tugas berikutnya. Volume penggunaan adalah variabel yang salah; pembagian kerja kognitif adalah yang benar.
 

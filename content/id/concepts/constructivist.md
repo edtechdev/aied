@@ -7,9 +7,9 @@ foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T11:03:58-05:00"
 translation_of: "concepts/constructivist"
-source_updated: "2026-11-01T09:07:36-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ Karya empiris berulang kali menemukan kesenjangan antara tujuan konstruktivis ya
 Pola ini menggeneralisasi di seluruh bidang:
 
 - Ketika AI generatif menyelesaikan penulisan, penalaran, atau kode bagi siswa, pembelajar kehilangan proses berpikir konstruktif yang seharusnya dibangun oleh tugas itu — kekhawatiran yang menjadi inti [[cognitive-offloading]] dan [[cognitive-offloading|Ketergantungan Berlebih]].([[generative-refusal-ai-tools-for-thought]])
-- Kerugian itu kini dapat diukur, dan ia mengikuti pekerjaannya, bukan alatnya. Pada 26,811 siswa menengah Tiongkok, AI generatif menaikkan nilai pekerjaan rumah sebesar 18% dan memangkas waktu penyelesaian sebesar 30%, sementara nilai ujian tanpa buku turun 20% dalam enam bulan. Penurunan itu terkonsentrasi pada sekitar 81% pengguna yang waktu penyelesaiannya menunjukkan pekerjaan rumah dialihdayakan, dan pengguna yang mempertahankan waktu pekerjaan rumah setara dengan bukan-pengguna belajar sama efisiennya ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei dan Wu (2026)]]). Variabel yang memprediksi pembelajaran bukanlah penggunaan AI melainkan apakah pembelajar masih melakukan konstruksinya.
+- Kerugian itu kini dapat diukur, dan ia mengikuti pekerjaannya, bukan alatnya. Pada 26,811 siswa menengah Tiongkok, AI generatif menaikkan nilai pekerjaan rumah sebesar 18% dan memangkas waktu penyelesaian sebesar 30%, sementara nilai [[summative-assessment|ujian tanpa buku]] turun 20% dalam enam bulan. Penurunan itu terkonsentrasi pada sekitar 81% pengguna yang waktu penyelesaiannya menunjukkan pekerjaan rumah dialihdayakan, dan pengguna yang mempertahankan waktu pekerjaan rumah setara dengan bukan-pengguna belajar sama efisiennya ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei dan Wu (2026)]]). Variabel yang memprediksi pembelajaran bukanlah penggunaan AI melainkan apakah pembelajar masih melakukan konstruksinya.
 - Implementasi AI yang menekankan umpan balik adaptif dan efisiensi sering kali kurang melayani tujuan agensi pembelajar, refleksi kritis, dan keputusan otonom yang tersirat dari konstruktivisme.([[ai-vocational-education-training-review]])
 
 ### Jebakan penamaan: keluaran AI generatif bukan pembelajaran generatif
