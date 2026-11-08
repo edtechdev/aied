@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Svaret er snævrere, end de fleste produktspecifikationer antager. Pædagogisk A
 
 **1.** Skriv ned, hvad systemet beslutter, og hvad en lærer beslutter. Den grænse bliver arkitekturen.
 
-**2.** Evaluer fagligt opmærksom interaktion over flere ture mod en rigtig læseplan, ikke enkelte prompter mod en generisk sikkerhedsrubrik.
+**2.** Evaluer fagligt opmærksom interaktion over flere ture mod en rigtig [[curriculum-design|læseplan]], ikke enkelte prompter mod en generisk sikkerhedsrubrik.
 
 **3.** Forankr svarene i godkendt indhold, og hold verifikationskomponenten adskilt fra den samtalende komponent.
 
@@ -65,7 +65,7 @@ Det overførbare er adskillelsen: komponenterne, der verificerer, samtaler ikke,
 
 ## Behandl studerendes arbejde som ubetroet input
 
-Den trusselsmodel, som de fleste designtips udelader, sidder inde i det artefakt, der bedømmes. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariske red-team-evaluering]] testede, om studerende kunne manipulere en LLM-baseret bedømmer gennem promptinjektion i deres afleveringer, og manipulationen virkede: injektioner, der instruerer, omformulerer eller spiller en rolle over for bedømmeren, flytter karakteren uden at ændre arbejdet.
+Den trusselsmodel, som de fleste designtips udelader, sidder inde i det artefakt, der bedømmes. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariske red-team-evaluering]] testede, om studerende kunne manipulere en [[llm|LLM-baseret]] bedømmer gennem promptinjektion i deres afleveringer, og manipulationen virkede: injektioner, der instruerer, omformulerer eller spiller en rolle over for bedømmeren, flytter karakteren uden at ændre arbejdet.
 
 Hold rubrikken og instruktionerne uden for den studerendes kontekstvindue, fjern eller markér instruktionslignende indhold, lad aldrig en aflevering sætte sine egne kriterier, og hold en menneskelig beslutning på enhver konsekvensrig karakter. En bedømmer, der læser sine instruktioner i den tekst, den vurderer, har givet rubrikken videre til kandidaten.
 
@@ -96,6 +96,9 @@ En større model løser pædagogikken. Skala forbedrede ikke sikkerheden pålide
 Et godt søgeindeks betyder, at indholdet er håndteret. EduGuard parrer søgning med en separat verifikator og tester adversariske prompter, der beder om direkte svar, fordi forankret søgning stadig efterlader en vej til for villig afsløring.
 
 Læreren er reserveplanen. Alle seks lærere i designstudiet bad om logning, alarmer og overstyring som en betingelse for professionelt ansvar. En supportbillet er ikke en overstyring.
+
+Velbehag er en erstatning for pasform. I en spørgeskemaundersøgelse med 405 desigestuderende ([[chu-design-students-ai-agent-tam-ttf-2026|Chu og Liu (2026)]]) havde opgave-teknologi-pasform sin egen vej til holdning (β = 0,224) ved siden af [[technology-acceptance-model|oplevet anvendelighed]], og opgavens karakteristika drev pasformen mere end værktøjets karakteristika (β = 0,322 mod 0,266). Oplevet fornøjelse hævede brugervenligheden og gjorde intet for anvendeligheden (β = −0,033, p = 0,483). Glæde er værd at bygge, men den erstatter ikke at matche funktionerne til opgavens trin.
+
 
 Tilgængelighed er en senere opgave. Den står i specifikationen, eller den bliver en omskrivning, og genereret alt-tekst og undertekster skal stadig have et menneskeligt tjek.
 

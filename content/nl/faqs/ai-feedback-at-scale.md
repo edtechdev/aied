@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:34:18-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Het is week zes. U hebt een stapel concepten, een rubric waarin u gelooft, en een groeiend vermoeden dat een derde van uw commentaar wordt gescand en vergeten. Een collega noemt een hulpmiddel dat nu binnen het uur commentaar op elk concept geeft. De vakgroepvergadering wil een antwoord: is dit een verbetering, of een snellere manier om tekst te produceren die niemand leest?
 
-Kort antwoord voor een collega: AI-feedback verdient haar plaats op dekking, tijdigheid en consistentie, binnen een smalle band. Taalwerk op het niveau van correctiewerk en rubricgestuurde eerste commentaarronde zijn het automatiseren waard. Bereik is het goedkope deel. In een cluster-gerandomiseerd experiment met 1.176 eerstejaarsstudenten versloegen reflectieve en hybride ontwerpen directe AI-kritiek op uitgestelde [[transfer-of-learning|transfer]] zonder AI. In een gerandomiseerd essay-experiment met 70 studenten leverde beter beoordeelde AI-feedback geen betere herzieningen op dan die van een ervaren docent. Wat een student met een opmerking doet, beslist de uitkomst, en [[feedback-literacy|feedbackgeletterdheid]] scheidt de studenten die ervan profiteren van degenen die kopiëren.
+Hier is het korte antwoord: AI-feedback verdient haar plaats op dekking, tijdigheid en consistentie, binnen een smalle band. Taalwerk op het niveau van correctiewerk en rubricgestuurde eerste commentaarronde zijn het automatiseren waard. Bereik is het goedkope deel. In een cluster-gerandomiseerd experiment met 1.176 eerstejaarsstudenten versloegen reflectieve en hybride ontwerpen directe AI-kritiek op uitgestelde [[transfer-of-learning|transfer]] zonder AI. In een gerandomiseerd essay-experiment met 70 studenten leverde beter beoordeelde AI-feedback geen betere herzieningen op dan die van een ervaren [[teacher-role|docent]]. Wat een student met een opmerking doet, beslist de uitkomst, en [[feedback-literacy|feedbackgeletterdheid]] scheidt de studenten die ervan profiteren van degenen die kopiëren.
 
 ## De korte versie
 
@@ -38,7 +38,7 @@ Kort antwoord voor een collega: AI-feedback verdient haar plaats op dekking, tij
 
 **2.** Sorteer uw eigen commentaar in correcties op taalniveau en oordelen op het niveau van beoordeling. Alleen de eerste categorie komt in aanmerking voor automatisering.
 
-**3.** Zet de bronnen in fasen. Zelfevaluatie eerst, feedback van medestudenten tweede, AI-kritiek derde. Twee bronnen naast elkaar produceren passieve overname.
+**3.** Zet de bronnen in fasen. Zelfevaluatie eerst, [[peer-assessment|feedback van medestudenten]] tweede, AI-kritiek derde. Twee bronnen naast elkaar produceren passieve overname.
 
 **4.** Geef het model uw rubric en laat het stap voor stap redeneren. Een kale instructie produceert generieke output.
 
@@ -50,7 +50,7 @@ Kort antwoord voor een collega: AI-feedback verdient haar plaats op dekking, tij
 
 De verleidelijke maatstaf is de kwaliteit van wat het model schrijft. Het is ook de maatstaf die misleidt.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomiseerden 70 studenten die in het Perzisch betogende essays schreven in drie groepen. Chain-of-thought-prompting produceerde significant hoger beoordeelde feedback (M = 12,90) dan zero-shot-prompting (M = 11,25, p = 0,01) en dan een ervaren menselijke docent (M = 11,20, p = 0,008). De chain-of-thought-groep herzag haar essays niet significant meer dan de groep met docentfeedback, die vergelijkbare winst behaalde. Betere opmerkingen, dezelfde herzieningen. Is uw succescriterium de kwaliteit van het commentaar, dan leest die studie als een winst. Is het wat er in het essay veranderde, dan niet.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomiseerden 70 studenten die in het Perzisch betogende essays schreven in drie groepen. Chain-of-thought-[[prompt-engineering|prompting]] produceerde significant hoger beoordeelde feedback (M = 12,90) dan zero-shot-prompting (M = 11,25, p = 0,01) en dan een ervaren menselijke docent (M = 11,20, p = 0,008). De chain-of-thought-groep herzag haar essays niet significant meer dan de groep met docentfeedback, die vergelijkbare winst behaalde. Betere opmerkingen, dezelfde herzieningen. Is uw succescriterium de kwaliteit van het commentaar, dan leest die studie als een winst. Is het wat er in het essay veranderde, dan niet.
 
 Twee andere signalen flatteren een pilot die slecht loopt, dus zet ze vooraf vast. Tevredenheid van studenten is er één. In de universiteitsbrede pilot in Deakin die wordt gerapporteerd door [[tubino-adachi-ai-automated-feedback-literacy|Tubino en Adachi (2022)]] gingen positieve gemiddelde beoordelingen samen met door studenten gemelde fouten, dus een enquête met lachende gezichten is geen bewijs van nauwkeurigheid. Gebruik is het andere. Het hulpmiddel in Deakin was optioneel, en het gebruik lag gemiddeld op ongeveer 13% van de bachelorstudenten en 12% van de masterstudenten, terwijl bijna 4.000 studenten toegang hadden. Proactieve, sterk presterende studenten gebruikten het vaker. Dat is wat het beschikbaar stellen van een hulpmiddel oplevert.
 
@@ -72,7 +72,7 @@ De reflectieve conditie vroeg zelfevaluatie vóór AI-kritiek. De hybride reeks 
 
 Het mechanisme verklaart waarom de volgorde meer uitmaakt dan het hulpmiddel. Directe kritiek nodigt uit tot passieve overname: de student leest een oordeel en past het toe. Reflectieve en hybride ontwerpen dwingen de student de opmerking te interpreteren, tegen criteria te leggen, de relevantie te beoordelen en dan te herzien. Onderwijswaarde hangt minder af van toegang tot AI dan van de vraag of de feedbackomgeving [[agency|handelingsvermogen van de lerende]] en [[evaluative-judgment|evaluatief oordeel]] tijdens het herzien behoudt.
 
-Feedback van medestudenten verdient haar eigen plaats in de reeks. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen en Yan (2026)]] lieten twee parallelle Engelse klassen (N = 118 eerstejaarsstudenten in China; GenAI n = 56, medestudenten n = 62) drie cycli van zelfbeoordeling doorlopen in één semester. GenAI-scaffolding verbeterde de feedbackgeletterdheid licht maar significant ten opzichte van peerreview door medestudenten (ANCOVA p = 0,049, ηp² = 0,03). Studenten in de GenAI-groep verfijnden prompts iteratief en verifieerden of betwistten onnauwkeurige output. Studenten in de peergroep kozen bronnen op sociale gemakkelijkheid en hun evaluatieve oordeel raakte vertekend door vriendschapsbias. Peerreview behield een eigen waarde voor publieksbewustzijn, en daarom stellen de auteurs meerfasige ontwerpen voor met anonieme feedback van medestudenten in plaats van vervanging.
+Feedback van medestudenten verdient haar eigen plaats in de reeks. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen en Yan (2026)]] lieten twee parallelle Engelse klassen (N = 118 eerstejaarsstudenten in China; GenAI n = 56, medestudenten n = 62) drie cycli van [[self-assessment|zelfbeoordeling]] doorlopen in één semester. GenAI-[[scaffolding|scaffolding]] verbeterde de feedbackgeletterdheid licht maar significant ten opzichte van peerreview door medestudenten (ANCOVA p = 0,049, ηp² = 0,03). Studenten in de GenAI-groep verfijnden prompts iteratief en verifieerden of betwistten onnauwkeurige output. Studenten in de peergroep kozen bronnen op sociale gemakkelijkheid en hun evaluatieve oordeel raakte vertekend door vriendschapsbias. Peerreview behield een eigen waarde voor publieksbewustzijn, en daarom stellen de auteurs meerfasige ontwerpen voor met anonieme feedback van medestudenten in plaats van vervanging.
 
 Het voordeel van Gu et al. was klein, en zij lazen het als reëel maar niet op zichzelf transformerend. Scaffolding door de docent, promptrichtlijnen en werkbladen deden het ondersteunende werk.
 
@@ -80,15 +80,15 @@ Het voordeel van Gu et al. was klein, en zij lazen het als reëel maar niet op z
 
 Rubricgestuurde generatie is het automatiseerbare deel.
 
-De kwaliteitswinst bij Farrokhnia et al. kwam van een chain-of-thought-prompt die het model door een stapsgewijze evaluatie tegen een argumentatierubric leidde, niet van een kale instructie om feedback te geven. Gu et al. gaven hun GenAI-groep ChatGPT-4o met vooraf getrainde rubrics en promptrichtlijnen, en dat maakte de output controleerbaar tegen vastgelegde criteria. In beide gevallen is de prompt waar uw criteria het systeem binnenkomen, en is het redeneerspoor wat u laat zien of het model ze heeft toegepast.
+De kwaliteitswinst bij Farrokhnia et al. kwam van een chain-of-thought-prompt die het model door een stapsgewijze evaluatie tegen een argumentatierubric leidde, niet van een kale instructie om feedback te geven. Gu et al. gaven hun GenAI-groep [[generative-ai|ChatGPT]]-4o met vooraf getrainde rubrics en promptrichtlijnen, en dat maakte de output controleerbaar tegen vastgelegde criteria. In beide gevallen is de prompt waar uw criteria het systeem binnenkomen, en is het redeneerspoor wat u laat zien of het model ze heeft toegepast.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson en Yan (2025)]] maken promptkwaliteit het scharnier van het hele proces. Vage prompts leveren generieke, onbruikbare output, en gegenereerde opmerkingen kunnen verzonnen, vertekend of overlappend zijn, wat het evaluatieve oordeel teruglegt bij de lezer. Kalibratie is nog scherper. Bij Farrokhnia et al. hing de kwaliteit van GenAI-feedback significant samen met de sterkte van het eerste concept van een student, terwijl de kwaliteit van docentfeedback dat niet deed. De docent kalibreerde consistenter. Volume is schaalbaar. Kalibratie niet.
 
 ## Houd het laatste woord en het dossier bij een mens
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma en Cobos (2026)]] beschrijven AICoFE, dat drie afzonderlijk fijngetunede modellen (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubricscores en kwalitatieve observaties laat lopen om onafhankelijk commentaar op het concept te produceren. De docent stelt daarna de definitieve boodschap samen door zinnen of alinea's te selecteren, met een legenda die laat zien welk model wat bijdroeg. Het model schrijft het concept. De docent levert, en het product wordt ondertekend door één persoon die het concept heeft gelezen.
+[[becerra-aicofe-feedback-2026|Becerra, Palma en Cobos (2026)]] beschrijven AICoFE, dat drie afzonderlijk fijngetunede modellen (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubricscores en [[qualitative-research|kwalitatieve]] observaties laat lopen om onafhankelijk commentaar op het concept te produceren. De docent stelt daarna de definitieve boodschap samen door zinnen of alinea's te selecteren, met een legenda die laat zien welk model wat bijdroeg. Het model schrijft het concept. De docent levert, en het product wordt ondertekend door één persoon die het concept heeft gelezen.
 
-Aldino et al. vinden hetzelfde patroon van ondersteunen en dan verifiëren in de gewone praktijk. De machine learning-component markeerde het vaakst „Voldoet aan het leerdoel” als ontbrekend (20 van de 21 docenten hadden het weggelaten; 16 accepteerden de markering) en „Relatie tussen student en docent” (14 hadden het weggelaten; 12 accepteerden). Docenten beslisten over elke suggestie op basis van professioneel oordeel, en dat is het punt van hen in de lus zetten.
+Aldino et al. vinden hetzelfde patroon van ondersteunen en dan verifiëren in de gewone praktijk. De [[machine-learning|machine learning]]-component markeerde het vaakst „Voldoet aan het leerdoel” als ontbrekend (20 van de 21 docenten hadden het weggelaten; 16 accepteerden de markering) en „Relatie tussen student en docent” (14 hadden het weggelaten; 12 accepteerden). Docenten beslisten over elke suggestie op basis van professioneel oordeel, en dat is het punt van hen in de lus zetten.
 
 Twaalf van de 21 docenten bij Aldino et al. maakten verdere herzieningen op zinsniveau, en het dominante patroon was het kalibreren van toon: lof afzwakken (f = 11), suggesties verwijderen (f = 9), aanmoediging verwijderen (f = 8). Herzieningen clusterden in de relationele dimensie, vooral de relatie tussen student en docent (f = 24). Ze beschermden authenticiteit en professionele stem, en dat werk laat zich niet automatiseren.
 
@@ -118,7 +118,7 @@ Tevredenheidscijfers vertellen u dat de opmerkingen nauwkeurig zijn. In de pilot
 
 ## Wat er op u afkomt
 
-**„AI-feedback is niet persoonlijk.”** Vaak waar, en het is de reden om het laatste woord bij een mens te houden. AICoFE bestaat omdat generiek modelproza niet is wat een student zou moeten ontvangen: de docent selecteert, bewerkt en ondertekent de definitieve boodschap. De 21 docenten bij Aldino et al. herschreven de toon om dezelfde reden. Personalisering is in dit ontwerp uw taak, en het model doet het voorbereidende werk.
+**„AI-feedback is niet persoonlijk.”** Vaak waar, en het is de reden om het laatste woord bij een mens te houden. AICoFE bestaat omdat generiek modelproza niet is wat een student zou moeten ontvangen: de docent selecteert, bewerkt en ondertekent de definitieve boodschap. De 21 docenten bij Aldino et al. herschreven de toon om dezelfde reden. [[personalized-learning|Personalisering]] is in dit ontwerp uw taak, en het model doet het voorbereidende werk.
 
 **„Mijn studenten lezen feedback toch niet.”** Ze lezen minder dan we hopen, en het bewijs zegt dat de oplossing in het ontwerp zit en niet in het volume. De overname in de pilot in Deakin lag op ongeveer 13% en 12%. De hoger beoordeelde opmerkingen van Farrokhnia et al. leverden geen extra herziening op. Wat het verschil maakte, was een volgorde die betrokkenheid afdwingt, zelfevaluatie en dan feedback van medestudenten en dan AI-kritiek, plus drie herzieningscycli in een semester die meetbare verschillen in feedbackgeletterdheid opleverden.
 

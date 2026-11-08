@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: Akıllı Özel Öğretim
 created: "2026-10-14T21:36:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]

@@ -8,7 +8,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
 translation_of: "faqs/writing-instruction-ai-best-practices"
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Stai riscrivendo la consegna di un compito e la frase che hai davanti dice che l'IA è ammessa con dichiarazione, il che non dice allo studente se lo strumento possa fornire l'argomentazione. Un collega ha proposto un divieto valido per tutto il corso e tu sospetti che ricada più duramente su chi scrive in più lingue. Oppure una serie di elaborati è tornata più fluida della discussione seminariale che c'era dietro, e ti serve una regola che tu possa difendere al prossimo consiglio di corso.
+Stai riscrivendo la consegna di un compito e la frase che hai davanti dice che l'IA è ammessa con dichiarazione, il che non dice allo studente se lo strumento possa fornire l'argomentazione. Un collega ha proposto un divieto valido per tutto il corso e tu sospetti che ricada più duramente su chi scrive in più lingue. Oppure una serie di elaborati è tornata più fluida della discussione seminariale che c'era dietro, e ti serve una regola che tu possa difendere alla prossima riunione sul [[curriculum-design|curriculum]].
 
 Il punto essenziale: dai un nome al lavoro intellettuale che il compito esiste per produrre, tieni quel passaggio con lo studente e assegna allo strumento compiti che restituiscano qualcosa che lo studente deve giudicare. Una regola scritta così dice allo studente quale passaggio protegge.
 
@@ -80,7 +80,7 @@ Una sequenza che vale la pena prendere in prestito tiene l'IA in un ruolo di con
 | **8. Rivedere** | Apportare e giustificare modifiche sostanziali | Verificare la chiarezza, offrire alternative | Revisione |
 | **9. Verificare** | Controllare ogni affermazione fattuale o dipendente da una fonte | Non può verificare il proprio output | Fonti ed evidenza |
 | **10. Riflettere e dichiarare** | Spiegare il ruolo dell'IA e che cosa è cambiato nel proprio pensiero | Nulla | Breve riflessione sul processo |
-| **11. Verifica indipendente** | Spiegare o applicare il ragionamento senza IA | Nulla | Discussione orale, scrittura rapida, nuovo caso |
+| **11. Verifica indipendente** | Spiegare o applicare il ragionamento senza IA | Nulla | [[oral-assessment|Discussione orale]], scrittura rapida, nuovo caso |
 
 Questa è la [[pairr-ai-peer-review-2025|PAIRR]] estesa: bozza, feedback umano, feedback dell'IA, confronto, revisione, riflessione, con una linea di base indipendente e un confine più stretto intorno al ragionamento. Usa la colonna centrale come compito e la colonna di destra come ciò su cui può reggersi un voto.
 
@@ -91,6 +91,9 @@ Undici righe sono più di quanto serva alla maggior parte dei compiti. Riduci la
 Lo studio in aula più ampio in questo campo è [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenti in dieci corsi di scrittura e tre corsi [[stem-education|STEM]] a forte componente di scrittura. Hanno steso una bozza, svolto la [[peer-assessment|valutazione tra pari]], ottenuto un feedback dell'IA basato su rubriche, confrontato e valutato entrambe le fonti, scritto piani di revisione, rivisto e riflettuto. Il 58% ha preferito il feedback combinato dei pari e dell'IA. Il 6% ha preferito il solo feedback dell'IA. Gli studenti hanno trovato l'IA utile per consigli di revisione ampi e orientati alla rubrica, mentre i pari fornivano conoscenza contestuale e una risposta autentica di pubblico.
 
 Sii preciso sull'affermazione. PAIRR ha misurato l'esperienza e la valutazione del feedback da parte degli studenti, non i [[learning-gains|guadagni di apprendimento]] a lungo termine, quindi è un'evidenza forte per un design del feedback e più debole per il fatto che la scrittura migliori mesi dopo. Mantieni il passaggio tra pari anche quando quello con l'IA è più veloce. Gran parte del lavoro sul [[feedback]] avviene nel confronto tra le due fonti, e toglierlo elimina la parte che gli studenti dicevano di apprezzare.
+
+Lo strumento stesso può essere progettato per proteggere il passo di ragionamento. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] hanno costruito MAIKE, un chatbot [[socratic-method|socratico]] che diagnostica le argomentazioni e pone domande mirate senza generare testo del saggio. In uno studio in classe con 65 studenti delle secondarie, gli utenti di MAIKE hanno dedicato più turni al dialogo a livello di idee rispetto ai controlli (56% contro 44%) e si sono mossi tra discussione e revisione; circa il 40% degli studenti ha migliorato il punteggio del saggio. Lo studio non ha mostrato un vantaggio complessivo di voto rispetto al controllo, quindi trattalo come una dimostrazione di progettazione sul collegamento tra conversazione e revisione, non come prova che il chatbot alzi la qualità della scrittura.
+
 
 ## Valuta che cosa lo studente ha fatto con il feedback
 

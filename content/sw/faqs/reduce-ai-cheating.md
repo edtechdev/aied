@@ -6,7 +6,7 @@ weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,11 +56,13 @@ Anza na lebo. [[ai-assessment-scale-reform|Kipimo cha Tathmini cha AI (AIAS)]] h
 
 Kisha badilisha zao. [[meta-analysis-systematic-review|Mapitio ya kimfumo]] ya tafiti 72 kuhusu AI inayozalisha katika [[cs-education|elimu ya kompyuta]] yanaweka ubuni upya kama jambo linalowezekana na lenye kianzio kikubwa zaidi, na yanataja hatua moja: ongeza kipengele cha mdomo au kingine kinachoonyesha mchakato kwenye angalau tathmini moja yenye uzito mkubwa kwa kila kozi. Yanaita hiyo kuwa hatua moja yenye ufanisi mkubwa zaidi katika hifadhi. Ugunduzi ni eneo jembamba zaidi ambalo mapitio yanashughulikia, likiwa na tafiti 3 pekee, dhidi ya 60-80% ya wanafunzi wa kompyuta wanaoripoti matumizi ya AI inayozalisha katika kazi za kozi, kwa kawaida bila idhini ya wazi ya mwalimu, na 70% ya sampuli moja ya kitaifa ya wahadhiri wakihitaji kwa uwazi mafunzo kuhusu ubuni wa tathmini unaopinga AI ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Kozi ya kompyuta ya miaka mitatu inaonyesha jinsi mtiririko wa ufichuzi wenye kiunzi unavyoweza kuhamisha tabia. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil na wenzake (2026)]] walihitaji rasimu huru yenye orodha ya vipengele vinne, hatua ya AI ya kuboresha-badala-ya-kuandika-upya, fomu ya ufichuzi, na tafakari yenye muundo, huku rasimu au fomu inayokosekana ikipata sufuri. Matumizi yaliongezeka kutoka takriban theluthi mbili ya wanafunzi chini ya sera ya hiari hadi 93% katika mwaka wenye kiunzi; 81% na 84% ya watumiaji wa AI waliripoti kukataa au kubadilisha mapendekezo, wakaguzi waliweka misimbo kwa 77–81% ya mawasilisho kwa ushiriki wa kikosoa, na matumizi ya AI hayakutabiri ubora wa insha kwa uhuru baada ya uwezo wa awali wa uandishi kudhibitiwa. Hii ni ripoti ya uzoefu wa kozi moja, si jaribio lenye udhibiti, lakini inaonyesha kazi ya uadilifu ikihama kutoka kugundua hadi masharti ambayo chini yake wanafunzi hufichua na kurekebisha.
+
 Orodha ya chaguo, takriban kwa mpangilio wa jinsi kila moja linavyostahimili darasa kubwa.
 
-Bila msaada, darasani, kitabu kimefungwa: mitihani yenye msimamizi, maswali mafupi, uandishi wenye muda maalum. Ipe uzito mkubwa zaidi kuliko zamani, kwa sababu kazi ya nyumbani ndiyo zao ambalo AI hulipuliza. Mitihani ya mdomo na utetezi hufanya kazi kwa sababu hiyo hiyo, kwa kuwa mazungumzo ya wakati halisi ni vigumu kuyahamisha kwa nje ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Bila msaada, darasani, kitabu kimefungwa: mitihani yenye msimamizi, maswali mafupi, uandishi wenye muda maalum. Ipe uzito mkubwa zaidi kuliko zamani, kwa sababu kazi ya nyumbani ndiyo zao ambalo AI hulipuliza. [[oral-assessment|Mitihani ya mdomo]] na utetezi hufanya kazi kwa sababu hiyo hiyo, kwa kuwa mazungumzo ya wakati halisi ni vigumu kuyahamisha kwa nje ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Athari za mchakato: rasimu, athari za kufikiri, "onyesha mawazo yako" yenye maelezo, kumbukumbu za marekebisho, ili *mchakato* uonekane badala ya zao pekee ([[authentic-products-authenticated-processes-2026]]). Kazi halisi hufanya kazi kando yao: visa vya ndani, nyenzo za mafunzo kazini, data ya mwanafunzi mwenyewe, kitu chochote kigumu kuhamisha kwa nje ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Athari za mchakato: rasimu, athari za kufikiri, "onyesha mawazo yako" yenye maelezo, kumbukumbu za marekebisho, ili *mchakato* uonekane badala ya zao pekee ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Kazi halisi]] hufanya kazi kando yao: visa vya ndani, nyenzo za mafunzo kazini, data ya mwanafunzi mwenyewe, kitu chochote kigumu kuhamisha kwa nje ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Tofauti ya kazi kwa kila mwanafunzi, ambapo kila mmoja anapata toleo lenye uso tofauti lakini sawa kwa muundo, hufanya kunakili kuwa bure kwa kimuundo. Chukulia uhakikisho huo ukiwa na masharti ya uwezo: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] iligundua vizalishaji vya mbele vikifika 0.81-0.88 pekee kwenye alama ya pamoja ya uadilifu wakati modeli zisizo za mbele zinaanguka hadi 0.50-0.55. Ikiwa matoleo yako hayalingani, umenunua ulinzi dhidi ya kushirikiana pamoja na udhalimu kati ya wanafunzi.
 
@@ -98,7 +100,7 @@ Andika kanuni kwa usahihi pia. [[wright-transcription-not-generation-2026|Wright
 
 Kuzuia chombo na kukiruhusu bila muundo huzalisha tokeo moja, ambalo ni wanafunzi kusimama nje ya kazi ya kiakili.
 
-Muunganisho wa Kupunguza Matumizi Mabaya ya AI unaweka kanuni nane za ubuni kwa toleo linaloruhusiwa, zikiwemo: hifadhi [[desirable-difficulties|msuguano wa kiakili]], weka AI kama mshirika wa kufikiri wa muda badala ya mamlaka, ingiza vituo vya tathmini, na hitaji [[metacognition|tafakari]] ya jarida na kumbukumbu za maagizo.
+Muunganisho wa Kupunguza Matumizi Mabaya ya AI unaweka kanuni nane za ubuni kwa toleo linaloruhusiwa, zikiwemo: hifadhi [[desirable-difficulties|msuguano wa kiakili]], weka AI kama mshirika wa kufikiri wa muda badala ya mamlaka, ingiza vituo vya tathmini, na hitaji [[metacognition|tafakari]] ya [[reflection|jarida]] na kumbukumbu za vidokezo.
 
 Mfululizo unaobeba kanuni hizo ni mfupi wa kutosha kuchapishwa kwenye karatasi ya kazi:
 
@@ -124,7 +126,7 @@ Mfano uliopimwa ni moduli ya [[k-12]] inayotumia mazoezi ya maagizo yanayotegeme
 
 Kile wanafunzi wanaamini kweli ni cha kutilia shaka kidogo kuliko hofu inavyodokeza. Kati ya wanafunzi 504 wa sosholojia, 65% walikuwa wametumia AI inayozalisha kwa kazi za kozi, lakini 3% pekee kuzalisha maandishi ya kazi na 2% kuzalisha rasimu kamili. 81% walikuwa wamepata mwongozo fulani wa AI na 46% pekee waliona uko wazi sana ([[student-genai-use-views-writing]]). Utata, si uasi, ni tatizo la kiutendaji, ndio sababu kanuni wazi pamoja na mfululizo unaofundishwa hubadilisha tabia zaidi kuliko onyo. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa na Mezgebu (2026)]] wanaelezea wanafunzi wakiuliza kama AI inayozalisha ni chombo kinachowezesha udanganyifu au mshirika unaosaidia kujifunza, na swali hilo ndilo matarajio yako yanapaswa kulijibu.
 
-Madhara yanayostahili kufundishwa kwa uwazi ni [[ai-misuse-learning-harm|pengo la utendaji na kujifunza]]: utendaji hupanda sasa, kujifunza hushuka baadaye, na mwanafunzi anapata cha kwanza pekee. [[ai-tools-academic-work-cheating-2026]] na [[student-rationalization-ai-writing]] zinashughulikia upande wa kanuni za wenzao na uhalalishaji, ikiwemo utetezi wa "kila mtu anafanya hivyo" ambao kanuni wazi huubomoa. Kwa jinsi msingi huu ulivyo imara, tazama [[ai-literacy-evidence]] na [[top-10-findings-ai-education-instructors]].
+Madhara yanayostahili kufundishwa kwa uwazi ni [[ai-misuse-learning-harm|pengo la utendaji na kujifunza]]: utendaji hupanda sasa, kujifunza hushuka baadaye, na [[student-experience|mwanafunzi anapata]] cha kwanza pekee. [[ai-tools-academic-work-cheating-2026]] na [[student-rationalization-ai-writing]] zinashughulikia upande wa kanuni za wenzao na uhalalishaji, ikiwemo utetezi wa "kila mtu anafanya hivyo" ambao kanuni wazi huubomoa. Kwa jinsi msingi huu ulivyo imara, tazama [[ai-literacy-evidence]] na [[top-10-findings-ai-education-instructors]].
 
 ## Walimu wanakosea nini kuhusu hili
 

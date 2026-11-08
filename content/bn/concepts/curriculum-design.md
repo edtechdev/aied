@@ -10,7 +10,7 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
-connected_resources: [intelligent-textbooks]
+connected_resources: [intelligent-textbooks, learning-commons]
 updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/curriculum-design"
 source_updated: "2026-11-02T10:40:00-05:00"

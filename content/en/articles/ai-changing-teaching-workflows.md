@@ -59,7 +59,7 @@ Almost no teachers used follow-up prompts to iteratively refine AI output — th
 Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying rubrics or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation]] concern directly relevant to [[automated-assessment|Automated Grading]] systems.
 
 ### 3. Equity Divides
-- **Student level:** AI materials lack targeted supports for multilingual learners and [[special-education|students with disabilities]] — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
+- **Student level:** AI materials lack targeted supports for multilingual learners and [[inclusive-learning|students with disabilities]] — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
 - **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[equity-in-ai-education]] within the teaching profession itself
 
 ## What's Next: Agentic AI

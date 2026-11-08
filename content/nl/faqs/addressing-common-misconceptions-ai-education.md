@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ Uw provost wil een overzicht van één pagina met ‘AI-mythes’ voor de facult
 
 Elke overtuiging op deze pagina begint bij iets wat een redelijk mens heeft gezien. Vloeiend proza leest inderdaad als accuraat. Een gepolijste inzending ziet er inderdaad uit als leren. Een tutor die de vraag beantwoordt voelt inderdaad als hulp, en een beleid met het woord ‘verboden’ erin voelt inderdaad als een beslissing. De correctie die werkt, benoemt wat de waarneming u niet kan vertellen, en geeft daarna een controle die de persoon maandag kan uitvoeren.
 
-Het antwoord dat u een collega in één adem geeft: het onderwijseffect van AI hangt af van wie het gebruikt, voor welke taak, welk denken de tool uitvoert, welke verantwoordelijkheid bij de persoon blijft, en hoe het leren wordt geëvalueerd. Vertrouwen, snelheid, betrokkenheid en taakvoltooiing zijn kenmerken van gebruik. Geen daarvan is bewijs dat de bekwaamheid is veranderd.
+Hier is het antwoord, in één adem: het onderwijseffect van AI hangt af van wie het gebruikt, voor welke taak, welk denken de tool uitvoert, welke verantwoordelijkheid bij de persoon blijft, en hoe het leren wordt geëvalueerd. Vertrouwen, snelheid, betrokkenheid en taakvoltooiing zijn kenmerken van gebruik. Geen daarvan is bewijs dat de bekwaamheid is veranderd.
 
 ## De korte versie
 
@@ -62,7 +62,7 @@ Gemiddelden verbergen precies de variatie die een rechtvaardigheidsvraag beslist
 
 ### ‘Ze meldden dat ze veel hadden geleerd.’
 
-Zelfrapportage meet perceptie, acceptatie, angst en [[self-efficacy]], en ze is goed in alle vier. Ze is geen maat voor aangetoonde bekwaamheid, omdat mensen zelfverzekerd en fout kunnen zijn, of vaardig en te weinig zelfverzekerd. De synthese van de kennisbank over onderzoek naar AI-geletterdheid van docenten rapporteert een aanzienlijke kloof tussen zelfbeoordeling en gemeten prestatie, en de docenten daarin overschatten hun bekwaamheid aanzienlijk ([[ai-literacy-assessment-misalignment|AI-geletterdheid gemeten: zelfrapportage tegenover gemeten prestatie]]). Koppel elke zelfrapportage aan een taak: een fout in een output identificeren, een bron verifiëren, een gebruiksstrategie kiezen, bias of vleierij herkennen, een gebrekkig antwoord herzien, vertrouwen kalibreren tegen nauwkeurigheid. Eén zo'n item in een enquête verandert een mening in een resultaat.
+[[self-report-measures|Zelfrapportage]] meet perceptie, acceptatie, [[anxiety-and-stress|angst]] en [[self-efficacy]], en ze is goed in alle vier. Ze is geen maat voor aangetoonde bekwaamheid, omdat mensen zelfverzekerd en fout kunnen zijn, of vaardig en te weinig zelfverzekerd. De synthese van de kennisbank over onderzoek naar AI-geletterdheid van docenten rapporteert een aanzienlijke kloof tussen [[self-assessment|zelfbeoordeling]] en gemeten prestatie, en de docenten daarin overschatten hun bekwaamheid aanzienlijk ([[ai-literacy-assessment-misalignment|AI-geletterdheid gemeten: zelfrapportage tegenover gemeten prestatie]]). Koppel elke zelfrapportage aan een taak: een fout in een output identificeren, een bron verifiëren, een gebruiksstrategie kiezen, bias of vleierij herkennen, een gebrekkig antwoord herzien, vertrouwen kalibreren tegen nauwkeurigheid. Eén zo'n item in een enquête verandert een mening in een resultaat.
 
 ### ‘Een gesimuleerde student is een goedkope plaatsvervanger voor een echte.’
 
@@ -180,7 +180,7 @@ Toezicht hangt af van de expertise die zware automatisering mensen ontmoedigt op
 
 ### ‘Kritisch en ethisch AI-gebruik onderwijzen kost productiviteit.’
 
-Niet-geverifieerde automatisering levert herwerk, beveiligingsincidenten, discriminerende beslissingen, juridische blootstelling, reputatieschade en vals vertrouwen op, en elk daarvan is een kostenpost die het productiviteitscijfer niet meetelde. De werknemer die het inhuren waard is, is degene die werk verdeelt tussen mensen en tools en tegelijk kwaliteit, vertrouwelijkheid, verantwoording en professioneel oordeel behoudt. Dat is een productiviteitsargument, gemaakt in de richting die de balans meestal mist ([[human-ai-collaboration|Mens-AI-samenwerking]], [[governance|AI-governance]]).
+Niet-geverifieerde automatisering levert herwerk, beveiligingsincidenten, discriminerende beslissingen, [[legal-issues-and-risks|juridische blootstelling]], reputatieschade en vals vertrouwen op, en elk daarvan is een kostenpost die het productiviteitscijfer niet meetelde. De werknemer die het inhuren waard is, is degene die werk verdeelt tussen mensen en tools en tegelijk kwaliteit, vertrouwelijkheid, verantwoording en professioneel oordeel behoudt. Dat is een productiviteitsargument, gemaakt in de richting die de balans meestal mist ([[human-ai-collaboration|Mens-AI-samenwerking]], [[governance|AI-governance]]).
 
 ## Beantwoord wat studenten geloven
 
@@ -244,7 +244,7 @@ Beleidstekst schept geen gedeeld begrip. Studenten en medewerkers lezen verwacht
 
 ### ‘Terughoudendheid van docenten is een trainingskloof.’
 
-Soms is het dat. Gereedheid is ook werkdruk, [[learner-identity|professionele identiteit]], disciplinaire waarden, twijfels over de validiteit van toetsing, dunne institutionele ondersteuning, onzekerheid over privacy, en een beredeneerd oordeel dat een bepaalde toepassing studenten niet dient. Professionalisering moet daarom praktische bekwaamheid, pedagogische integratie, doel en identiteit, tijd, beleid, [[discipline-specific-aied|disciplinespecifiek]] gebruik en de optie van principiële niet-adoptie omvatten. Een eenmalige demonstratie van functies lost een professionele en organisatorische verandering niet op ([[educational-development|Onderwijskundige ontwikkeling]]).
+Soms is het dat. Gereedheid is ook werkdruk, [[learner-identity|professionele identiteit]], disciplinaire waarden, twijfels over de validiteit van toetsing, dunne institutionele ondersteuning, onzekerheid over privacy, en een beredeneerd oordeel dat een bepaalde toepassing studenten niet dient. Professionalisering moet daarom praktische bekwaamheid, pedagogische integratie, doel en identiteit, tijd, beleid, [[discipline-specific-aied|disciplinespecifiek]] gebruik en de optie van principiële niet-adoptie omvatten. Een eenmalige demonstratie van functies lost een professionele en [[change-management|organisatorische verandering]] niet op ([[educational-development|Onderwijskundige ontwikkeling]]).
 
 ### ‘Mensen de juiste feiten vertellen is genoeg.’
 
@@ -263,7 +263,7 @@ De uitgewerkte versie, die u op elk item op deze pagina kunt aanpassen:
 > **Misverstand:** ‘Een goede door AI gegenereerde opdracht laat zien dat de student heeft geleerd.’
 > **Weerlegging:** ‘Dat is niet noodzakelijk waar. Het product laat zien wat de student en AI samen hebben geproduceerd, maar het onthult niet welke redenering de student heeft uitgevoerd.’
 > **Vervanging:** ‘Leren wordt beter aangetoond wanneer de student de bekwaamheid kan uitleggen, overdragen, aanpassen en reproduceren.’
-> **Toepassing:** ‘Laat op AI-ondersteund werk een uitleg volgen, een mondelinge verdediging, een procesverslag of een toepassing zonder hulp.’
+> **Toepassing:** ‘Laat op AI-ondersteund werk een uitleg volgen, [[oral-assessment|een mondelinge verdediging]], een procesverslag of een toepassing zonder hulp.’
 
 De vervanging draagt het gewicht. Een misverstand weghalen zonder een betere verklaring te leveren, laat de persoon met niets om mee te denken achter, en de oude overtuiging komt terug de volgende keer dat de ervaring haar bevestigt.
 
@@ -289,7 +289,7 @@ Docenten overschatten hun AI-bekwaamheid aanzienlijk wanneer zelfrapportage pres
 
 ### ‘Ouders accepteren niets anders dan een verbod.’
 
-Ouders vragen of het ding voor hun kind veilig is en of het diploma iets betekent. Beantwoord die twee rechtstreeks, met de vragen over pedagogische veiligheid in plaats van de inhoudsfilter, en het verbodsargument verliest zijn kracht. De vraag van het bestuur is smaller dan de kop en gemakkelijker te verdedigen.
+[[parents-and-families|Ouders]] vragen of het ding voor hun kind veilig is en of het diploma iets betekent. Beantwoord die twee rechtstreeks, met de vragen over pedagogische veiligheid in plaats van de inhoudsfilter, en het verbodsargument verliest zijn kracht. De vraag van het bestuur is smaller dan de kop en gemakkelijker te verdedigen.
 
 ### ‘We kunnen geen mondelinge verdedigingen doen voor een hoorcollege van deze omvang.’
 

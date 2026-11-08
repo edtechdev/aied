@@ -108,7 +108,7 @@ ai_assist:
 
 ## 特別な集団とグローバルな公平性
 
-- **特別な集団：** [[special-education|特別教育]]、[[neurodivergent-computing-students|神経多様性のある学習者]]、[[dyslexlens-dyslexic-learners-ai|ディスレクシアの学習者]]、そして[[special-education|障害のある学習者]]は、そのニーズがAIシステムの設計でしばしば見過ごされる集団です。
+- **特別な集団：** [[inclusive-learning|特別教育]]、[[neurodivergent-computing-students|神経多様性のある学習者]]、[[dyslexlens-dyslexic-learners-ai|ディスレクシアの学習者]]、そして[[special-education|障害のある学習者]]は、そのニーズがAIシステムの設計でしばしば見過ごされる集団です。
 - **グローバルサウスの視点：** [[suacode-african-students-motivations|アフリカの学生の動機づけ]]、[[connected-ai-lesson-planning-vietnam|ベトナムのAIによる授業計画]]、そして[[pre-service-science-teachers-ai-perceptions-2026|ガーナの教員の受容]]は、欧米中心のAIED研究にしばしば欠けているグローバルサウスの視点を提供します。機関の水準では、[[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al.（2026）]]は、ナイジェリアの45大学にわたるAIの統合が統治の形態ではなく機関の年齢と地理によって駆動され、相互に強めるネットワークの結びつきが、よく結びついた機関に優位を積み重ねることを示しています — 公平性のギャップが個々のアクセスだけでなく構造的に再生産されているという証拠です。
 - **グローバルな力量：** 証拠は、生成AIの利益が国や機関の間で不均等に分配されていることを記録しており、[[ai-lifelong-learning-policy|AIと生涯学習の政策]]は構造的な社会経済的な勾配に取り組んでいます。
 - 高等教育の評価に関する72件の研究のPRISMAレビューでは、証拠基盤が地理的に集中していることがわかりました。オーストラリアとイギリスが72件のうち合わせて31件を供給しており、南アメリカからの研究は確認できませんでした（[[higher-ed-assessments-genai-systematic-review|Crompton and Burke（2026）]]）。

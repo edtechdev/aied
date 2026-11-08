@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,7 @@ Wastani huficha hasa yale mabadiliko yanayoamua swali la usawa. Athari hutofauti
 
 ### "Waliripoti kwamba walijifunza mengi."
 
-Ripoti ya kibinafsi hupima mtazamo, kukubalika, wasiwasi, na [[self-efficacy]], na ni nzuri kwa yote manne. Si kipimo cha uwezo ulioonyeshwa, kwa sababu watu wanaweza kuwa na kujiamini na wakosea, au kuwa na ujuzi na kujikosa imani. Muhtasari wa wiki wa utafiti kuhusu ujuzi wa AI kwa walimu unaripoti pengo kubwa kati ya tathmini ya kibinafsi na utendaji uliopimwa, na wakufunzi ndani yake walikadiria uwezo wao juu sana ([[ai-literacy-assessment-misalignment|Tathmini ya Elimu ya AI: Ripoti ya Kibinafsi dhidi ya Kutokulingana kwa Utendaji]]). Oanisha kila ripoti ya kibinafsi na kazi: tambua kosa katika matokeo, thibitisha chanzo, chagua mkakati wa matumizi, gundua upendeleo au usifa, rekebisha jibu lenye kasoro, sawazisha kujiamini dhidi ya usahihi. Kipengele kimoja kama hicho katika dodoso hubadilisha maoni kuwa matokeo.
+[[self-report-measures|Ripoti ya kibinafsi]] hupima mtazamo, kukubalika, [[anxiety-and-stress|wasiwasi]], na [[self-efficacy]], na ni nzuri kwa yote manne. Si kipimo cha uwezo ulioonyeshwa, kwa sababu watu wanaweza kuwa na kujiamini na wakosea, au kuwa na ujuzi na kujikosa imani. Muhtasari wa wiki wa utafiti kuhusu ujuzi wa AI kwa walimu unaripoti pengo kubwa kati ya [[self-assessment|tathmini ya kibinafsi]] na utendaji uliopimwa, na wakufunzi ndani yake walikadiria uwezo wao juu sana ([[ai-literacy-assessment-misalignment|Tathmini ya Elimu ya AI: Ripoti ya Kibinafsi dhidi ya Kutokulingana kwa Utendaji]]). Oanisha kila ripoti ya kibinafsi na kazi: tambua kosa katika matokeo, thibitisha chanzo, chagua mkakati wa matumizi, gundua upendeleo au usifa, rekebisha jibu lenye kasoro, sawazisha kujiamini dhidi ya usahihi. Kipengele kimoja kama hicho katika dodoso hubadilisha maoni kuwa matokeo.
 
 ### "Mwanafunzi aliyeigwa ni mbadala wa bei nafuu wa mwanafunzi halisi."
 
@@ -183,7 +183,7 @@ Usimamizi unategemea utaalamu ambao uendeshaji mkubwa wa kiotomatiki huwakatisha
 
 ### "Kufundisha matumizi mahususi na ya maadili ya AI kunagharimu tija."
 
-Uendeshaji usiothibitishwa huzalisha kazi ya kurudia, matukio ya usalama, maamuzi ya kibaguzi, mfiduo wa kisheria, uharibifu wa sifa, na kujiamini kwa uongo, na kila kimoja kati ya hivyo ni gharama ambayo takwimu ya tija haikuhesabu. Mfanyakazi anayestahili kuajiriwa ni yule anayegawa kazi kati ya watu na zana huku akihifadhi ubora, usiri, uwajibikaji, na hukumu ya kitaaluma. Hiyo ni hoja ya tija, iliyotolewa kwa mwelekeo ambao mizania ya hesabu kwa kawaida huukosa ([[human-ai-collaboration|Ushirikiano wa Binadamu na AI]], [[governance|Utawala wa AI]]).
+Uendeshaji usiothibitishwa huzalisha kazi ya kurudia, matukio ya usalama, maamuzi ya kibaguzi, [[legal-issues-and-risks|mfiduo wa kisheria]], uharibifu wa sifa, na kujiamini kwa uongo, na kila kimoja kati ya hivyo ni gharama ambayo takwimu ya tija haikuhesabu. Mfanyakazi anayestahili kuajiriwa ni yule anayegawa kazi kati ya watu na zana huku akihifadhi ubora, usiri, uwajibikaji, na hukumu ya kitaaluma. Hiyo ni hoja ya tija, iliyotolewa kwa mwelekeo ambao mizania ya hesabu kwa kawaida huukosa ([[human-ai-collaboration|Ushirikiano wa Binadamu na AI]], [[governance|Utawala wa AI]]).
 
 ## Jibu kile wanafunzi wanaamini
 
@@ -247,7 +247,7 @@ Maandishi ya sera hayazalishi uelewa wa pamoja. Wanafunzi na wafanyakazi husoma 
 
 ### "Kusitasita kwa walimu ni pengo la mafunzo."
 
-Wakati mwingine ni hivyo. Utayari pia ni mzigo wa kazi, [[learner-identity|utambulisho wa kitaaluma]], maadili ya taaluma, shaka kuhusu uhalali wa tathmini, msaada mdogo wa taasisi, kutokuwa na uhakika kuhusu faragha, na hukumu yenye hoja kwamba matumizi fulani hayawasaidii wanafunzi. Kwa hiyo maendeleo yanapaswa kufunika umahiri wa kivitendo, ujumuishaji wa kifundisho, madhumuni na utambulisho, muda, sera, matumizi [[discipline-specific-aied|mahususi kwa taaluma]], na chaguo la kutokubali kwa kanuni. Onyesho la kipengele la mara moja halitatui mabadiliko ya kitaaluma na kitaasisi ([[educational-development|Maendeleo ya Kielimu]]).
+Wakati mwingine ni hivyo. Utayari pia ni mzigo wa kazi, [[learner-identity|utambulisho wa kitaaluma]], maadili ya taaluma, shaka kuhusu uhalali wa tathmini, msaada mdogo wa taasisi, kutokuwa na uhakika kuhusu faragha, na hukumu yenye hoja kwamba matumizi fulani hayawasaidii wanafunzi. Kwa hiyo maendeleo yanapaswa kufunika umahiri wa kivitendo, ujumuishaji wa kifundisho, madhumuni na utambulisho, muda, sera, matumizi [[discipline-specific-aied|mahususi kwa taaluma]], na chaguo la kutokubali kwa kanuni. Onyesho la kipengele la mara moja halitatui mabadiliko ya kitaaluma na ya [[change-management|kitaasisi]] ([[educational-development|Maendeleo ya Kielimu]]).
 
 ### "Kuwaambia watu ukweli sahihi kunatosha."
 
@@ -266,7 +266,7 @@ Toleo lililofanyiwa kazi, ambalo unaweza kulibadilisha kwa kipengele chochote ka
 > **Dhana potofu:** "Kazi nzuri iliyozalishwa na AI inaonyesha kwamba mwanafunzi alijifunza."
 > **Ukanushaji:** "Hilo si kweli kwa lazima. Bidhaa inaonyesha kile mwanafunzi na AI walikizalisha kwa pamoja, lakini haifichui ni hoja zipi mwanafunzi alizifanya mwenyewe."
 > **Mbadala:** "Kujifunza huonyeshwa vizuri zaidi wakati mwanafunzi anaweza kueleza, kuhamisha, kubadilisha, na kurudia uwezo huo."
-> **Matumizi:** "Fuata kazi iliyosaidiwa na AI kwa maelezo, utetezi wa mdomo, kumbukumbu ya mchakato, au matumizi bila msaada."
+> **Matumizi:** "Fuata kazi iliyosaidiwa na AI kwa maelezo, [[oral-assessment|utetezi wa mdomo]], kumbukumbu ya mchakato, au matumizi bila msaada."
 
 Mbadala ndio unabeba uzito. Kuondoa dhana potofu bila kutoa maelezo bora humwacha mtu bila kitu cha kufikiri nacho, na imani ya zamani hurudi wakati ujao uzoefu unapoithibitisha.
 
@@ -292,7 +292,7 @@ Walimu walikadiria uwezo wao wa AI juu sana wakati ripoti ya kibinafsi ilikutana
 
 ### "Wazazi hawatakubali kitu chochote isipokuwa marufuku."
 
-Wazazi wanauliza kama kitu kilicho mbele ya mtoto wao ni salama na kama cheti kina maana yoyote. Jibu maswali hayo mawili moja kwa moja, kwa maswali ya usalama wa kifundisho badala ya kichujio cha maudhui, na hoja ya marufuku itapoteza nguvu yake. Swali la bodi ni jembamba zaidi kuliko kichwa cha habari na rahisi kutetea.
+[[parents-and-families|Wazazi]] wanauliza kama kitu kilicho mbele ya mtoto wao ni salama na kama cheti kina maana yoyote. Jibu maswali hayo mawili moja kwa moja, kwa maswali ya usalama wa kifundisho badala ya kichujio cha maudhui, na hoja ya marufuku itapoteza nguvu yake. Swali la bodi ni jembamba zaidi kuliko kichwa cha habari na rahisi kutetea.
 
 ### "Hatuwezi kufanya utetezi wa mdomo kwa kozi ya mihadhara ya ukubwa huu."
 

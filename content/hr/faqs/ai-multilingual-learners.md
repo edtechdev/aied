@@ -1,9 +1,9 @@
 ---
 title: "Kako AI može podržati višejezične studente, a da pritom ne pogrešno procijeni njihovo znanje i ne izbriše njihov glas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Student razumije pojam i trebaju mu četiri dodatne minute da to kaže na engleskom. AI može prevesti zadatak, definirati terminologiju, uvježbati objašnjenje s njim ili napisati cijeli odgovor. Troje od toga je poučavanje. Jedno je pisanje zadaće.
 
-Kratak odgovor za kolegu: odlučite što jezik radi u ovom zadatku prije nego što odlučite što alat smije raditi. Gdje je jezik sporedan, AI može ukloniti prepreku koja nema veze s vašim konstruktom. Gdje je jezik konstrukt, isti alat zaobilazi učenje. Rizik ide u oba smjera istodobno: [[multilingual-learning|jezična podrška]] može poboljšati pristup, a automatizirano bodovanje i dalje može pogrešno pročitati studenta. U jednoj studiji iz fizike objašnjenja slabije jezične kvalitete bila su sustavno ocijenjena niže od procjene stručnjaka u svakom ispitanom pristupu automatiziranog bodovanja, u devet sustava strojnog učenja i dva jezična modela, kod 116 srednjoškolaca ([[ai-scoring-language-bias-physics|Feser i Tschisgale, 2026]]). Tečnost i razumijevanje bodovali su se kao jedna stvar.
+Evo kratkog odgovora: odlučite što jezik radi u ovom zadatku prije nego što odlučite što alat smije raditi. Gdje je jezik sporedan, AI može ukloniti prepreku koja nema veze s vašim konstruktom. Gdje je jezik konstrukt, isti alat zaobilazi učenje. Rizik ide u oba smjera istodobno: [[multilingual-learning|jezična podrška]] može poboljšati pristup, a [[automated-assessment|automatizirano bodovanje]] i dalje može pogrešno pročitati studenta. U jednoj studiji iz fizike objašnjenja slabije jezične kvalitete bila su sustavno ocijenjena niže od procjene stručnjaka u svakom ispitanom pristupu automatiziranog bodovanja, u devet sustava [[machine-learning|strojnog učenja]] i dva jezična modela, kod 116 srednjoškolaca ([[ai-scoring-language-bias-physics|Feser i Tschisgale, 2026]]). Tečnost i razumijevanje bodovali su se kao jedna stvar.
 
 ## Kratka verzija
 
@@ -45,13 +45,13 @@ Kratak odgovor za kolegu: odlučite što jezik radi u ovom zadatku prije nego š
 
 ## Odlučite što jezik radi
 
-U biološkom objašnjenju gramatika je uglavnom sporedna za pojam koji se procjenjuje. U kolegiju jezika proizvodnja i revidiranje određenih struktura jest učenje. U profesionalnoj komunikaciji sve se broji: disciplinarna točnost, publika i registar. Isti alat za prevođenje primjeren je u prvom slučaju, upitan u drugom i predmet pregovora u trećem.
+U [[biology-education|biološkom]] objašnjenju gramatika je uglavnom sporedna za pojam koji se procjenjuje. U kolegiju jezika proizvodnja i revidiranje određenih struktura jest učenje. U profesionalnoj komunikaciji sve se broji: disciplinarna točnost, publika i registar. Isti alat za prevođenje primjeren je u prvom slučaju, upitan u drugom i predmet pregovora u trećem.
 
-Zapišite odluku tamo gdje je studenti mogu pročitati. Ako studenti smiju prevesti upute, ali moraju samostalno proizvesti objašnjenje na ciljnom jeziku, recite to izričito. Ako je podrška u terminologiji dopuštena, odredite što student i dalje mora objasniti i provjeriti. Zatim provjerite aranžman prema zahtjevima za prilagodbu i institucionalnoj politici, umjesto da svaki oblik jezične pomoći tretirate kao zamjenjiv. Student s dokumentiranom prilagodbom i student koji izbjegava vježbu mogu zatražiti istu stvar, a samo je drugi vaš nastavni problem.
+Zapišite odluku tamo gdje je studenti mogu pročitati. Ako studenti smiju prevesti upute, ali moraju samostalno proizvesti objašnjenje na ciljnom jeziku, recite to izričito. Ako je podrška u terminologiji dopuštena, odredite što student i dalje mora objasniti i provjeriti. Zatim provjerite aranžman prema zahtjevima za prilagodbu i [[educational-policy-ai|institucionalnoj politici]], umjesto da svaki oblik jezične pomoći tretirate kao zamjenjiv. Student s dokumentiranom prilagodbom i student koji izbjegava vježbu mogu zatražiti istu stvar, a samo je drugi vaš nastavni problem.
 
 ## Što istraživanja podupiru, a što ne
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] pregledali su 24 empirijske studije o generativnim chatbotovima u učenju jezika. Njihov je doprinos taksonomski: svaka potporna mogućnost zabilježena za predgenerativne chatbotove ostaje, a tri su nove, među njima **translanguaging**, namjerno kretanje između jezika kao dio učenja. To je karta zabilježenih upotreba i iskustava, a ne objedinjena procjena, a korpus je geografski koncentriran: Kina, Iran, Tajvan i Turska čine 19 od 24 studije, a sve osim jedne smještene su u formalne institucije. Potpora korištenju međujezičnog objašnjenja kao poteza u učenju nije potpora prevođenju svake zadaće.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] pregledali su 24 empirijske studije o generativnim [[conversational-ai|chatbotovima]] u [[language-learning|učenju jezika]]. Njihov je doprinos taksonomski: svaka potporna mogućnost zabilježena za predgenerativne chatbotove ostaje, a tri su nove, među njima **translanguaging**, namjerno kretanje između jezika kao dio učenja. To je karta zabilježenih upotreba i iskustava, a ne objedinjena procjena, a korpus je geografski koncentriran: Kina, Iran, Tajvan i Turska čine 19 od 24 studije, a sve osim jedne smještene su u formalne institucije. Potpora korištenju međujezičnog objašnjenja kao poteza u učenju nije potpora prevođenju svake zadaće.
 
 Procjena je mjesto gdje dokazi postaju oštriji, a ulog raste. [[ai-scoring-language-bias-physics|Feser i Tschisgale (2026)]] usporedili su jedanaest pristupa automatiziranom bodovanju s ocjenama ljudskih stručnjaka za fizička objašnjenja 116 srednjoškolaca i pronašli sustavno podcjenjivanje pojmovnog razumijevanja kod jezično slabijih objašnjenja, u svakom pojedinom pristupu. Dizajn izdvaja mehanizam: isti pojmovni sadržaj, izražen slabijom prozom, ocijenjen je niže. To nije tvrdnja o višejezičnim studentima neke zemlje, i upravo je to obrazac zbog kojeg je ukupna sukladnost bodovanja loša dijagnostika. Ocjenjivač se može slagati s ljudskim ocjenjivačima u prosjeku, a griješiti u dosljednom smjeru za studente čiji se jezik još razvija.
 
@@ -116,7 +116,7 @@ Osigurajte izvedive alternative. Studentima treba jasan put do ljudske jezične 
 
 **4.** Dodajte jednu provjeru koja bilježi studentovo vlastito značenje ili odluku, poput bilješke od dvije rečenice o promjeni koju je prihvatio ili odbio.
 
-**5.** Ako vaša rubrika boduje kvalitetu pisanja, odvojite taj kriterij od pojmovnoga i ponovno pročitajte po dva rada svake vrste imajući tu podjelu na umu.
+**5.** Ako vaša rubrika boduje [[writing-education|kvalitetu pisanja]], odvojite taj kriterij od pojmovnoga i ponovno pročitajte po dva rada svake vrste imajući tu podjelu na umu.
 
 ## Kamo dalje
 

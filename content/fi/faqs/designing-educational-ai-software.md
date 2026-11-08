@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Vastaus on kapeampi kuin useimmat tuotemäärittelyt olettavat. Koulutuksellinen
 
 **1.** Kirjoita muistiin, mitä järjestelmä päättää ja mitä opettaja päättää. Tuosta rajasta tulee arkkitehtuuri.
 
-**2.** Arvioi monivuoroista, oppiaineen huomioivaa vuorovaikutusta oikeaa opetussuunnitelmaa vastaan, älä yksittäisiä kehotteita yleistä turvallisuuskriteeristöä vastaan.
+**2.** Arvioi monivuoroista, oppiaineen huomioivaa vuorovaikutusta oikeaa [[curriculum-design|opetussuunnitelmaa]] vastaan, älä yksittäisiä kehotteita yleistä turvallisuuskriteeristöä vastaan.
 
 **3.** Perusta vastaukset hyväksyttyyn sisältöön ja pidä varmistava komponentti erillään keskustelevasta.
 
@@ -65,7 +65,7 @@ Siirrettävä osa on erottelu: komponentit, jotka varmistavat, eivät keskustele
 
 ## Kohtele opiskelijan työtä epäluotettavana syötteenä
 
-Uhkamalli, jonka useimmat suunnitteluohjeet jättävät pois, sijaitsee arvioitavan artefaktin sisällä. [[humble-prompt-injection-ai-grading-red-team-2026|Humblesin (2026) vihamielinen punaisen joukkueen arviointi]] testasi, voivatko opiskelijat manipuloida LLM-pohjaista arvioijaa palautuksiinsa upotetulla kehotteinjektiolla, ja manipulointi toimi: injektiot, jotka ohjeistavat, kehystävät uudelleen tai roolittavat arvioijan, siirtävät pistemäärää muuttamatta työtä.
+Uhkamalli, jonka useimmat suunnitteluohjeet jättävät pois, sijaitsee arvioitavan artefaktin sisällä. [[humble-prompt-injection-ai-grading-red-team-2026|Humblesin (2026) vihamielinen punaisen joukkueen arviointi]] testasi, voivatko opiskelijat manipuloida [[llm|LLM]]-pohjaista arvioijaa palautuksiinsa upotetulla kehotteinjektiolla, ja manipulointi toimi: injektiot, jotka ohjeistavat, kehystävät uudelleen tai roolittavat arvioijan, siirtävät pistemäärää muuttamatta työtä.
 
 Pidä arviointikriteeristö ja ohjeet opiskelijan hallitseman konteksti-ikkunan ulkopuolella, poista tai merkitse ohjeenkaltainen sisältö, älä koskaan anna palautuksen asettaa omia kriteereitään ja pidä ihmisen päätös kaikissa merkittävissä arvosanoissa. Arvioija, joka lukee ohjeensa arvioimastaan tekstistä, on antanut kriteeristön ehdokkaalle.
 
@@ -96,6 +96,9 @@ Isompi malli korjaa pedagogiikan. Koko ei parantanut turvallisuutta luotettavast
 Hyvä hakemisto tarkoittaa, että sisältö on hoidettu. EduGuard yhdistää haun erilliseen varmistajaan ja testaa vihamielisiä, vastauksia kalastelevia kehotteita, koska perustettu hakukin jättää polun liialliseen paljastamiseen.
 
 Opettaja on varavaihtoehto. Kaikki kuusi suunnittelututkimuksen opettajaa pyysi lokitusta, hälytyksiä ja ohitusta ammatillisen vastuun ehtona. Tukipyyntö ei ole ohitus.
+
+Kyselyssä 405 suunnittelun jatko-opiskelijalle ([[chu-design-students-ai-agent-tam-ttf-2026|Chu ja Liu (2026)]]) tehtävä–teknologia-sopivuus kulki omaa polkuaan asenteeseen (β = 0,224) [[technology-acceptance-model|koetun hyödyllisyyden]] rinnalla, ja tehtävän ominaisuudet ohjasivat sopivuutta enemmän kuin työkalun ominaisuudet (β = 0,322 vastaan 0,266). Koettu nautinto nosti käytön helppoutta mutta ei vaikuttanut hyödyllisyyteen (β = −0,033, p = 0,483). Ilahduttavuus on rakentamisen arvoista, mutta se ei korvaa toimintojen sovittamista tehtävän vaiheisiin.
+
 
 Saavutettavuus on myöhempi tiketti. Se on määrittelyssä tai siitä tulee uudelleenkirjoitus, ja tuotetut vaihtoehtotekstit ja tekstitykset vaativat silti ihmisen tarkistuksen.
 

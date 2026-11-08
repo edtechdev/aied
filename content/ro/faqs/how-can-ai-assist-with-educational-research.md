@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Răspunsul scurt pentru acea ședință: IA poate prelua căutarea, o primă run
 
 ## Decide ce poate atinge IA înainte să înceapă proiectul
 
-Decizia de scop își are locul în fișierul proiectului, nu în memoria cuiva. În [[dai-chan-responsible-genai-research-ai-literacy-2026|studiul de focus-grup al lui Dai și Chan (2026)]], cercetătorii care se gândiseră la asta își calibraseră utilizarea după mize și centralitate intelectuală: mai intens pe munca procedurală cu mize mici, prudenți acolo unde contribuția științifică era centrală. Douăzeci și șapte dintre cei 28 de cercetători postuniversitari din acel studiu folosiseră IA generativă undeva în fluxul de lucru, inclusiv în scrierea academică și traducere, așa că pentru majoritatea echipelor întrebarea este unde stă linia, nu dacă există una.
+Decizia de scop își are locul în fișierul proiectului, nu în memoria cuiva. În [[dai-chan-responsible-genai-research-ai-literacy-2026|studiul de focus-grup al lui Dai și Chan (2026)]], cercetătorii care se gândiseră la asta își calibraseră utilizarea după mize și centralitate intelectuală: mai intens pe munca procedurală cu mize mici, prudenți acolo unde contribuția științifică era centrală. Douăzeci și șapte dintre cei 28 de cercetători postuniversitari din acel studiu folosiseră [[generative-ai|IA generativă]] undeva în fluxul de lucru, inclusiv în [[writing-education|scrierea academică]] și traducere, așa că pentru majoritatea echipelor întrebarea este unde stă linia, nu dacă există una.
 
 Scrie linia ca o listă cu un verdict pentru fiecare sarcină: căutare în literatură, trierea rezumatelor, extragere, codare calitativă, analiză statistică, redactare, formatarea referințelor. Citește studiul acela ca pe o hartă a ce au raportat cercetătorii că fac. Este o relatare de focus-grup, nu un rezultat de eficacitate.
 
@@ -64,27 +64,30 @@ Cea mai mare parte a beneficiului vine din două decizii de proiectare. Scrie re
 
 Delegarea poate fi mai fină decât tot-sau-nimic. [[agreement-not-quality-llm-coding-verification|Un studiu de verificare orb]] a clasificat 15 din 72 de itemi ai cărții de coduri ca necesitând în mod demonstrabil expertiză umană, 12 ca deserviți mai bine de un model și 16 ca potriviți pentru triere bazată pe încredere. Sortează-ți propriii itemi astfel și economisirea de muncă ajunge acolo unde este sigură.
 
+Modelarea temelor poate extinde acea structură fără a prelua interpretarea. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey și Flor (2026)]] au combinat codarea fundamentată, încorporările SentenceBERT grupate cu Affinity Propagation și etichetarea cu GPT-4 pe șase focus-grupuri cu 13 profesori. Revizuirea umană a eliminat 18 grupuri de comunicare și 16 grupuri de alfabetizare digitală care erau umplutură conversațională, lăsând 14 și 16 grupuri semnificative; ChatGPT-4o și Copilot au fost de acord asupra a 33,3% și 43,8% dintre etichete, cu similaritate cosinus 0,835–0,880, iar revizuirea umană nu a găsit halucinații clare. Studiul este un pipeline demonstrativ, nu o comparație: nu are un braț doar uman sau doar IA, iar 13 profesori nu pot stabili generalizabilitatea. Folosește-l ca să vezi împărțirea muncii, nu ca dovadă că hibridul bate alternativele.
+
+
 ## Decide ce înseamnă verificare și cine o semnează
 
-Un acord ridicat între un model și un codificator uman este raportat ca și cum ar stabili corectitudinea. Nu o stabilește. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] au pus un expert independent să judece 855 de seturi de coduri în perechi, orb la sursă. Acordul om-LLM (Jaccard mediu 0,30) a stat bine sub acordul om-om (0,52), totuși verificatorul orb a preferat codarea umană și cea a mașinii la rate pe care nu le putea distinge (51,5% față de 48,5%, p = 0,537). În unele cazuri, consensul uman codifica o părtinire comună pe care verificatorul a respins-o în favoarea modelului.
+Un acord ridicat între un model și un codificator uman este raportat ca și cum ar stabili corectitudinea. Nu o stabilește. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] au pus un expert independent să judece 855 de seturi de coduri în perechi, orb la sursă. Acordul om-[[llm|LLM]] (Jaccard mediu 0,30) a stat bine sub acordul om-om (0,52), totuși verificatorul orb a preferat codarea umană și cea a mașinii la rate pe care nu le putea distinge (51,5% față de 48,5%, p = 0,537). În unele cazuri, consensul uman codifica o părtinire comună pe care verificatorul a respins-o în favoarea modelului.
 
 Deci pasul de verificare are nevoie de un standard de aur care nu este nici rezultatul modelului, nici acordul codificatorului cu el, plus o persoană numită care a adjudecat dezacordurile. Raportează-le pe amândouă. O statistică de similaritate descrie cât de aproape se potrivesc două lecturi și nu spune nimic despre dacă vreuna dintre lecturi este corectă.
 
 ## Caută repede, apoi verifică singur fiecare sursă
 
-Căutarea generativă rezumă, recomandă, sintetizează și conversează, ceea ce destabilizează aranjamentul mai vechi în care sistemul localiza, iar cititorul interpreta ([[genai-academic-search-workshop]]). Trateaz-o ca pe un instrument de descoperire. Raportul atelierului aduce două avertismente: capacitatea este inegală, cu cercetători foarte citați reconstruiți la aproximativ dublul ratei colegilor mai puțin citați, iar o bibliotecară a descris un deficit de încredere în care studenții aveau prea multă încredere în căutarea generativă, iar cadrele didactice prea puțină.
+Căutarea generativă rezumă, recomandă, sintetizează și conversează, ceea ce destabilizează aranjamentul mai vechi în care sistemul localiza, iar cititorul interpreta ([[genai-academic-search-workshop]]). Trateaz-o ca pe un instrument de descoperire. Raportul atelierului aduce două avertismente: capacitatea este inegală, cu cercetători foarte citați reconstruiți la aproximativ dublul ratei colegilor mai puțin citați, iar o [[librarians|bibliotecară]] a descris un deficit de încredere în care studenții aveau prea multă încredere în căutarea generativă, iar cadrele didactice prea puțină.
 
 Verificarea referințelor este locul unde asta devine nenegociabil, iar eșecurile se adună în câmpul autorilor, cel care poartă creditul. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] au auditat 723.930 de publicații și 15.872.533 de referințe și au verificat 30 de referințe fabricate în 14 lucrări de educație în informatică, toate din 2025 și 2026. Șaptesprezece din cele 30 erau hibride: un titlu real atașat unor autori fabricați sau incorecți. Numărul verificat la un simpozion tehnic a crescut de la 3 în 2025 la 17 în 2026, în 2,3% din lucrările din proceedings-urile acelui an. Totalul lor este o limită inferioară deliberată, iar verificatoarele automate moștenesc defectele metadatelor pe care le tratează drept adevăr de referință. Verifică autorii primii.
 
 ## Tratează un scor automat ca pe o ipoteză de testat
 
-Funcțiile automate de măsurare pot părea precise și predictive rămânând opace. [[ai-methodologies-science-education-research-2026|Martin et al.]] încadrează asta cu problema măsurării nomice a lui Chang: măsurarea unei mărimi cere o lege care o raportează la ceva observabil, iar legea aceea nu poate fi testată fără a cunoaște deja mărimea. Funcțiile de măsurare derivate din IA apar din datele de antrenament și din optimizare, nu din cercetător, așa că munca de explicabilitate contează pentru a arăta dacă un model urmărește înțelegerea semantică sau doar cuvinte-cheie.
+Funcțiile automate de măsurare pot părea precise și predictive rămânând opace. [[ai-methodologies-science-education-research-2026|Martin et al.]] încadrează asta cu problema măsurării nomice a lui Chang: măsurarea unei mărimi cere o lege care o raportează la ceva observabil, iar legea aceea nu poate fi testată fără a cunoaște deja mărimea. Funcțiile de măsurare derivate din IA apar din datele de antrenament și din optimizare, nu din cercetător, așa că munca de [[explainable-ai|explicabilitate]] contează pentru a arăta dacă un model urmărește înțelegerea semantică sau doar cuvinte-cheie.
 
 Eșecul este concret. În [[zhang-platform-scores-miss-ai-teaching-agents-2026|o evaluare a opt agenți de predare cu IA]], agentul clasat pe locul al treilea de scorul propriu al platformei s-a clasat pe ultimul loc la o grilă validată de experți. Dezacordul om-mașină este sistematic, nu aleatoriu, iar operaționalizarea grilei contează adesea mai mult decât măiestria promptului ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Înainte ca un scor automat să devină instrumentul tău, validează-l față de o măsură legată de capacitatea pe care intenționezi să o studiezi. Pentru măsurile în sine, vezi [[evaluating-ai-interventions-methods]].
 
 ## Scrie secțiunea de metodă astfel încât un outsider să o poată audita
 
-Adoptarea a luat-o înaintea raportării. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta și Lin (2026)]] au analizat 888 de lucrări despre automatizarea recenziilor: din 2023, 38,0% dintre lucrările despre software și produse nu raportau nicio evaluare, față de 9,3% dintre lucrările despre LLM, iar accesul la model era covârșitor proprietar (84,1%). Nici o evaluare generală favorabilă nu implica potrivirea pentru delegare, pentru că 52% din 118 lucrări despre LLM cu rezultate doar pozitive raportau totuși o îngrijorare că fluxul de lucru era sub nivelul cerut de rolul lui. Cadrul lor PRISMA-LLM separă divulgarea implementării de evaluarea sensibilă la consecințe și tratează cele cinci niveluri ale sale ca niveluri de divulgare, nu ca niveluri de risc.
+Adoptarea a luat-o înaintea raportării. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta și Lin (2026)]] au analizat 888 de lucrări despre automatizarea recenziilor: din 2023, 38,0% dintre lucrările despre software și produse nu raportau nicio evaluare, față de 9,3% dintre lucrările despre LLM, iar accesul la model era covârșitor proprietar (84,1%). Nici o evaluare generală favorabilă nu implica potrivirea pentru delegare, pentru că 52% din 118 lucrări despre LLM cu rezultate doar pozitive raportau totuși o îngrijorare că fluxul de lucru era sub nivelul cerut de rolul lui. Cadrul lor [[meta-analysis-systematic-review|PRISMA]]-LLM separă divulgarea implementării de evaluarea sensibilă la consecințe și tratează cele cinci niveluri ale sale ca niveluri de divulgare, nu ca niveluri de risc.
 
 Versiunea practică: numește sistemul și versiunea lui, prompturile, versiunea corpusului, ce a verificat un om și unde a eșuat. Păstrează jurnale de prompturi și răspunsuri, pentru că o listă fluentă de teme generate pare inevitabilă cu mult înainte ca munca ei de probă să fi început ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Predefinește-ți criteriile și ține-le vizibile. Un studiu local mic nu se po
 
 Raportează rolul IA, verificarea pe care ai făcut-o și limitele unui design cu un singur curs și un singur investigator. O relatare de flux de lucru nu este un rezultat de eficacitate.
 
-Tratează simularea unei generații ca pe o opțiune avansată, nu ca pe o valoare implicită. Cursanții simulați tind să acopere cadranul cel mai ușor al comportamentului real al studenților și rareori sunt validați după utilizare ([[simulating-students]]). Citește [[making-simulated-students-behave-like-learners]] înainte să ai încredere în verdictul unui simulator.
+Tratează simularea unei generații ca pe o opțiune avansată, nu ca pe o valoare implicită. Cursanții simulați tind să acopere cadranul cel mai ușor al comportamentului real al studenților și rareori sunt validați după utilizare ([[simulating-students]]). Citește [[making-simulated-students-behave-like-learners]] înainte să ai încredere în verdictul unui [[simulation|simulator]].
 
 ## Ce greșesc cercetătorii aici
 

@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -107,7 +107,7 @@ ai_assist:
 
 ## Особые популяции и глобальная справедливость
 
-- **Особые популяции:** [[special-education]], [[neurodivergent-computing-students|нейроотличные учащиеся]], [[dyslexlens-dyslexic-learners-ai|учащиеся с дислексией]] и [[special-education|учащиеся с ограниченными возможностями]] представляют группы, чьи потребности часто упускаются при проектировании систем ИИ.
+- **Особые популяции:** [[special-education]], [[neurodivergent-computing-students|нейроотличные учащиеся]], [[dyslexlens-dyslexic-learners-ai|учащиеся с дислексией]] и [[inclusive-learning|учащиеся с ограниченными возможностями]] представляют группы, чьи потребности часто упускаются при проектировании систем ИИ.
 - **Перспективы Глобального Юга:** [[suacode-african-students-motivations|мотивации африканских студентов]], [[connected-ai-lesson-planning-vietnam|вьетнамское планирование уроков с ИИ]] и [[pre-service-science-teachers-ai-perceptions-2026|принятие преподавателями в Гане]] предоставляют перспективы Глобального Юга, часто отсутствующие в западно-центричных исследованиях AIED. На институциональном уровне [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] показывают, что интеграция ИИ в 45 нигерийских университетах движется возрастом и географией учреждения, а не типом управления, причём усиливающие сетевые связи позволяют хорошо связанным учреждениям compound advantage, — доказательство, что разрывы в справедливости воспроизводятся структурно, а не только через индивидуальный доступ.
 - **Глобальный потенциал:** доказательства документируют, как выгоды от генеративного ИИ распределяются неравномерно между странами и учреждениями, а [[ai-lifelong-learning-policy|политика ИИ и обучения на протяжении жизни]] адресует структурные социально-экономические градиенты.
 - Обзор PRISMA 72 исследований оценивания в высшем образовании обнаружил, что доказательная база географически сконцентрирована: Австралия и Великобритания вместе дали 31 из 72 исследований, и ни одного исследования не было выявлено из Южной Америки ([[higher-ed-assessments-genai-systematic-review|Crompton и Burke (2026)]]).

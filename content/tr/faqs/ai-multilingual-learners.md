@@ -1,9 +1,9 @@
 ---
 title: "YZ, Çok Dilli Öğrencileri Bilgilerini Yanlış Değerlendirmeden ve Seslerini Silmeden Nasıl Destekleyebilir?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Bir öğrenci kavramı anlıyor ve bunu İngilizce söylemek için dört dakika daha gerekiyor. YZ istemi çevirebilir, terminolojiyi tanımlayabilir, açıklamayı öğrenciyle birlikte prova edebilir ya da tüm yanıtı yazabilir. Bunların üçü öğretmektir. Biri ödevi yapmaktır.
 
-Bir meslektaşınıza vereceğiniz kısa yanıt: aracın ne yapabileceğine karar vermeden önce dilin bu görevde ne yaptığına karar verin. Dilin ikincil olduğu yerde YZ, yapınızla hiç ilgisi olmayan bir engeli kaldırabilir. Dilin yapının kendisi olduğu yerde aynı araç öğrenmeyi baypas eder. Risk aynı anda iki yönde de işler: [[multilingual-learning|dil desteği]] erişimi iyileştirebilir ve otomatik notlandırma öğrenciyi yine de yanlış okuyabilir. Bir fizik çalışmasında, dilsel niteliği daha düşük açıklamalar test edilen her YZ notlandırma yaklaşımı tarafından sistematik olarak uzman yargısının altında notlandı; 116 ortaokul öğrencisi üzerinde dokuz makine öğrenmesi ve iki dil modeli sistemi ([[ai-scoring-language-bias-physics|Feser ve Tschisgale, 2026]]). Akıcılık ile anlayış tek bir şey olarak notlandırılıyordu.
+Bir meslektaşınıza vereceğiniz kısa yanıt: aracın ne yapabileceğine karar vermeden önce dilin bu görevde ne yaptığına karar verin. Dilin ikincil olduğu yerde YZ, yapınızla hiç ilgisi olmayan bir engeli kaldırabilir. Dilin yapının kendisi olduğu yerde aynı araç öğrenmeyi baypas eder. Risk aynı anda iki yönde de işler: [[multilingual-learning|dil desteği]] erişimi iyileştirebilir ve [[automated-assessment|otomatik notlandırma]] öğrenciyi yine de yanlış okuyabilir. Bir fizik çalışmasında, dilsel niteliği daha düşük açıklamalar test edilen her YZ notlandırma yaklaşımı tarafından sistematik olarak uzman yargısının altında notlandı; 116 ortaokul öğrencisi üzerinde dokuz [[machine-learning|makine öğrenmesi]] ve iki dil modeli sistemi ([[ai-scoring-language-bias-physics|Feser ve Tschisgale, 2026]]). Akıcılık ile anlayış tek bir şey olarak notlandırılıyordu.
 
 ## Kısa özet
 
@@ -45,13 +45,13 @@ Bir meslektaşınıza vereceğiniz kısa yanıt: aracın ne yapabileceğine kara
 
 ## Dilin ne yaptığına karar verin
 
-Bir biyoloji açıklamasında dilbilgisi, değerlendirilen kavram açısından çoğunlukla ikincildir. Bir dil dersinde belirli yapıları üretmek ve revize etmek öğrenmenin kendisidir. Mesleki iletişimde disipliner doğruluk, hedef kitle ve kayıt hepsi sayılır. Aynı çeviri aracı birinci durumda uygundur, ikincide tartışmalıdır, üçüncüde müzakereye açıktır.
+Bir [[biology-education|biyoloji]] açıklamasında dilbilgisi, değerlendirilen kavram açısından çoğunlukla ikincildir. Bir dil dersinde belirli yapıları üretmek ve revize etmek öğrenmenin kendisidir. Mesleki iletişimde disipliner doğruluk, hedef kitle ve kayıt hepsi sayılır. Aynı çeviri aracı birinci durumda uygundur, ikincide tartışmalıdır, üçüncüde müzakereye açıktır.
 
-Kararı öğrencilerin okuyabileceği bir yere yazın. Öğrenciler yönergeleri çevirebiliyor ama hedef dilde açıklamayı kendi başlarına üretmek zorundaysa, bunu açıkça söyleyin. Terminoloji desteğine izin veriliyorsa, öğrencinin hâlâ neyi açıklaması ve doğrulaması gerektiğini belirtin. Sonra düzenlemeyi, her tür dil yardımını birbirinin yerine konabilir saymak yerine uyarlama gerekliliklerine ve kurum politikasına karşı kontrol edin. Belgelenmiş bir uyarlamaya sahip öğrenci ile alıştırmadan kaçınan öğrenci aynı şeyi talep edebilir ve yalnızca ikincisi sizin öğretim sorununuzdur.
+Kararı öğrencilerin okuyabileceği bir yere yazın. Öğrenciler yönergeleri çevirebiliyor ama hedef dilde açıklamayı kendi başlarına üretmek zorundaysa, bunu açıkça söyleyin. Terminoloji desteğine izin veriliyorsa, öğrencinin hâlâ neyi açıklaması ve doğrulaması gerektiğini belirtin. Sonra düzenlemeyi, her tür dil yardımını birbirinin yerine konabilir saymak yerine uyarlama gerekliliklerine ve [[educational-policy-ai|kurum politikasına]] karşı kontrol edin. Belgelenmiş bir uyarlamaya sahip öğrenci ile alıştırmadan kaçınan öğrenci aynı şeyi talep edebilir ve yalnızca ikincisi sizin öğretim sorununuzdur.
 
 ## Araştırmanın desteklediği ve desteklemediği
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]], dil öğreniminde üretici sohbet robotları üzerine 24 ampirik çalışmayı gözden geçirdi. Katkıları sınıflandırıcıdır: üretici öncesi sohbet robotları için kataloğa alınan her alt olanak varlığını sürdürüyor ve üçü yeni; bunlar arasında öğrenmenin bir parçası olarak diller arasında bilinçli geçiş anlamına gelen **diller arası geçiş** de var. Bu, birleştirilmiş bir tahmin değil, bildirilen kullanımların ve deneyimlerin bir haritasıdır ve derlem coğrafi olarak yoğunlaşmıştır; Çin, İran, Tayvan ve Türkiye 24 çalışmanın 19'unu oluşturur ve biri hariç hepsi biçimsel kurumların içinde geçer. Diller arası açıklamayı bir öğrenme hamlesi olarak kullanmaya verilen destek, her ödevi çevirmeye verilen destek değildir.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]], [[language-learning|dil öğreniminde]] üretici [[conversational-ai|sohbet robotları]] üzerine 24 ampirik çalışmayı gözden geçirdi. Katkıları sınıflandırıcıdır: üretici öncesi sohbet robotları için kataloğa alınan her alt olanak varlığını sürdürüyor ve üçü yeni; bunlar arasında öğrenmenin bir parçası olarak diller arasında bilinçli geçiş anlamına gelen **diller arası geçiş** de var. Bu, birleştirilmiş bir tahmin değil, bildirilen kullanımların ve deneyimlerin bir haritasıdır ve derlem coğrafi olarak yoğunlaşmıştır; Çin, İran, Tayvan ve Türkiye 24 çalışmanın 19'unu oluşturur ve biri hariç hepsi biçimsel kurumların içinde geçer. Diller arası açıklamayı bir öğrenme hamlesi olarak kullanmaya verilen destek, her ödevi çevirmeye verilen destek değildir.
 
 Kanıtların keskinleştiği ve risklerin yükseldiği yer değerlendirmedir. [[ai-scoring-language-bias-physics|Feser ve Tschisgale (2026)]], 116 ortaokul öğrencisinin fizik açıklamaları için on bir otomatik notlandırma yaklaşımını insan uzman puanlarıyla karşılaştırdı ve dilsel olarak daha zayıf açıklamalarda kavramsal anlayışın sistematik olarak hafife alındığını, her bir yaklaşımda ayrı ayrı buldu. Tasarım mekanizmayı yalıtıyor: aynı kavramsal içerik, daha zayıf bir düzyazıyla ifade edildiğinde daha düşük notlandı. Bu, herhangi bir ülkenin çok dilli öğrencileri hakkında bir iddia değildir ve genel notlandırma uzlaşmasını kötü bir tanı aracı yapan örüntü tam olarak budur. Bir notlandırıcı ortalama olarak insan notlandırıcılarla uzlaşabilirken, dili hâlâ gelişmekte olan öğrenciler için tutarlı bir yönde hata yapabilir.
 
@@ -116,7 +116,7 @@ Açıklığa giden bir yol tutun. Kısa bir konuşma, açıklamalı bir diyagram
 
 **4.** Öğrencinin kendi anlamını ya da kararını kaydeden bir kontrol ekleyin; kabul ettiği ya da reddettiği bir değişiklik üzerine iki cümlelik bir not gibi.
 
-**5.** Ölçütünüz yazma kalitesini puanlıyorsa, o ölçütü kavramsal olandan ayırın ve her birinden iki teslimi bu ayrımı gözeterek yeniden okuyun.
+**5.** Ölçütünüz [[writing-education|yazma kalitesini]] puanlıyorsa, o ölçütü kavramsal olandan ayırın ve her birinden iki teslimi bu ayrımı gözeterek yeniden okuyun.
 
 ## Bundan sonra nereye gidilir
 

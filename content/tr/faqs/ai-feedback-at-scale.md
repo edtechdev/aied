@@ -11,7 +11,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 Altıncı hafta. Elinizde bir yığın taslak, inandığınız bir değerlendirme ölçütü ve yorumlarınızın üçte birinin göz gezdirilip unutulduğuna dair büyüyen bir kuşku var. Bir meslektaşınız artık bir aracın her taslağa bir saat içinde yorum yazdığından söz ediyor. Bölüm toplantısı bir yanıt bekliyor: bu bir yükseltme mi, yoksa kimsenin okumadığı metni daha hızlı üretmenin bir yolu mu?
 
-Bir meslektaşınıza vereceğiniz kısa yanıt şudur: YZ geri bildirimi yerini kapsama, zamanındalık ve tutarlılıkta, dar bir bant içinde kazanır. Kopya düzenleme ölçeğindeki dil çalışması ve değerlendirme ölçütü yönlendirmeli ilk tur yorumlar otomatikleştirilmeye değer. Erişim, işin ucuz kısmıdır. 1.176 birinci sınıf lisans öğrencisiyle yapılan küme randomize bir deneyde yansıtıcı ve hibrit tasarımlar, gecikmeli ve YZ'siz [[transfer-of-learning|aktarım]] üzerinde doğrudan YZ eleştirisini yendi. 70 öğrenciyle yapılan randomize bir deneme çalışmasında, daha yüksek puan alan YZ geri bildirimi, deneyimli bir öğretmeninkinden daha iyi düzeltmeler üretmedi. Bir yorumla ne yapıldığı sonucu belirler ve [[feedback-literacy|geri bildirim okuryazarlığı]], kazanç sağlayan öğrencileri kopyalayanlardan ayırır.
+Bir meslektaşınıza vereceğiniz kısa yanıt şudur: YZ geri bildirimi yerini kapsama, zamanındalık ve tutarlılıkta, dar bir bant içinde kazanır. Kopya düzenleme ölçeğindeki dil çalışması ve değerlendirme ölçütü yönlendirmeli ilk tur yorumlar otomatikleştirilmeye değer. Erişim, işin ucuz kısmıdır. 1.176 birinci sınıf lisans öğrencisiyle yapılan küme randomize bir deneyde yansıtıcı ve hibrit tasarımlar, gecikmeli ve YZ'siz [[transfer-of-learning|aktarım]] üzerinde doğrudan YZ eleştirisini yendi. 70 öğrenciyle yapılan randomize bir deneme çalışmasında, daha yüksek puan alan YZ geri bildirimi, deneyimli bir [[teacher-role|öğretmeninkinden]] daha iyi düzeltmeler üretmedi. Bir yorumla ne yapıldığı sonucu belirler ve [[feedback-literacy|geri bildirim okuryazarlığı]], kazanç sağlayan öğrencileri kopyalayanlardan ayırır.
 
 ## Kısa özet
 
@@ -43,7 +43,7 @@ Bir meslektaşınıza vereceğiniz kısa yanıt şudur: YZ geri bildirimi yerini
 
 **2.** Kendi yorumlarınızı dil düzeyindeki düzeltmeler ve yargı düzeyindeki kararlar olarak ayırın. Otomatikleştirme adayı yalnızca ilk kategoridir.
 
-**3.** Kaynakları aşamalandırın. Önce öz değerlendirme, ikinci olarak akran geri bildirimi, üçüncü olarak YZ eleştirisi. Yan yana konan iki kaynak edilgen bir alım üretir.
+**3.** Kaynakları aşamalandırın. Önce öz değerlendirme, ikinci olarak [[peer-assessment|akran geri bildirimi]], üçüncü olarak YZ eleştirisi. Yan yana konan iki kaynak edilgen bir alım üretir.
 
 **4.** Değerlendirme ölçütünüzü modele verin ve adım adım akıl yürütmesini sağlayın. Çıplak bir talimat genel geçer çıktı üretir.
 
@@ -55,7 +55,7 @@ Bir meslektaşınıza vereceğiniz kısa yanıt şudur: YZ geri bildirimi yerini
 
 Cazip ölçüt, modelin yazdığının kalitesidir. Aynı zamanda yanıltan ölçüt de odur.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia ve ark. (2026)]], Farsça argümantatif deneme yazan 70 öğrenciyi rastgele üç gruba atadı. Düşünce zinciri istemi, sıfır atışlı istemden (M = 11,25, p = 0,01) ve deneyimli bir insan öğretmenden (M = 11,20, p = 0,008) anlamlı biçimde daha yüksek puanlanan geri bildirim üretti (M = 12,90). Düşünce zinciri grubu, denemelerini öğretmen geri bildirimi alan gruptan anlamlı biçimde daha fazla düzeltmedi; o grup da benzer kazanımlar elde etti. Daha iyi yorumlar, aynı düzeltmeler. Başarı ölçütünüz yorum kalitesiyse bu çalışma bir zafer gibi okunur. Ölçüt, denemede neyin değiştiğiyse zafer gibi okunmaz.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia ve ark. (2026)]], Farsça argümantatif deneme yazan 70 öğrenciyi rastgele üç gruba atadı. Düşünce zinciri [[prompt-engineering|istemi]], sıfır atışlı istemden (M = 11,25, p = 0,01) ve deneyimli bir insan öğretmenden (M = 11,20, p = 0,008) anlamlı biçimde daha yüksek puanlanan geri bildirim üretti (M = 12,90). Düşünce zinciri grubu, denemelerini öğretmen geri bildirimi alan gruptan anlamlı biçimde daha fazla düzeltmedi; o grup da benzer kazanımlar elde etti. Daha iyi yorumlar, aynı düzeltmeler. Başarı ölçütünüz yorum kalitesiyse bu çalışma bir zafer gibi okunur. Ölçüt, denemede neyin değiştiğiyse zafer gibi okunmaz.
 
 Kötü giden bir pilot uygulamayı pohpohlayan iki sinyal daha vardır, bunları önceden sabitleyin. Bunlardan biri öğrenci memnuniyetidir. [[tubino-adachi-ai-automated-feedback-literacy|Tubino ve Adachi'nin (2022)]] bildirdiği üniversite genelindeki Deakin pilotunda olumlu ortalama puanlar, öğrencilerin işaret ettiği hatalarla birlikte var oldu; yani gülen yüzlü bir anket doğruluk kanıtı değildir. Diğeri kullanımdır. Deakin aracı isteğe bağlıydı ve neredeyse 4.000 öğrencinin erişimi olmasına karşın kullanım, lisans öğrencilerinin yaklaşık %13'ü ve lisansüstü öğrencilerin %12'si düzeyinde kaldı. Proaktif ve yüksek başarılı öğrenciler onu daha çok kullandı. Bir aracı erişime açmanın getirisi budur.
 
@@ -77,7 +77,7 @@ Yansıtıcı koşul, YZ eleştirisinden önce öz değerlendirme gerektiriyordu.
 
 Mekanizma, sıralamanın araçtan neden daha önemli olduğunu açıklar. Doğrudan eleştiri edilgen alımı davet eder: öğrenci bir hüküm okur ve onu uygular. Yansıtıcı ve hibrit tasarımlar öğrenciyi yorumu yorumlamaya, ölçütlerle karşılaştırmaya, ilgisini yargılamaya ve ancak ondan sonra düzeltmeye zorlar. Eğitsel değer, YZ erişimine değil, geri bildirim ortamının düzeltme sırasında [[agency|öğrenci özerkliğini]] ve [[evaluative-judgment|değerlendirme yargısını]] koruyup korumadığına bağlıdır.
 
-Akran geri bildirimi sıralamada kendi yerini kazanır. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen ve Yan (2026)]], iki paralel İngilizce sınıfını (N = 118, Çin'de birinci sınıf lisans öğrencileri; GenAI n = 56, akran n = 62) bir dönem boyunca üç öz değerlendirme döngüsünden geçirdi. GenAI iskelesi, geri bildirim okuryazarlığını insan akran incelemesine göre hafif ama anlamlı biçimde iyileştirdi (ANCOVA p = 0,049, ηp² = 0,03). GenAI öğrencileri istemleri yinelemeli olarak inceltti ve yanlış çıktıyı doğruladı ya da ona meydan okudu. Akran grubundaki öğrenciler kaynakları toplumsal kolaylığa göre seçti ve değerlendirme yargıları arkadaşlık yanlılığı tarafından çarpıtıldı. Akran incelemesi, hedef kitle farkındalığı için ayrı bir değer korudu; yazarların bir yerine koyma değil, anonim akran geri bildirimi içeren çok aşamalı tasarımlar önermesinin nedeni budur.
+Akran geri bildirimi sıralamada kendi yerini kazanır. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen ve Yan (2026)]], iki paralel İngilizce sınıfını (N = 118, Çin'de birinci sınıf lisans öğrencileri; GenAI n = 56, akran n = 62) bir dönem boyunca üç [[self-assessment|öz değerlendirme]] döngüsünden geçirdi. GenAI [[scaffolding|iskelesi]], geri bildirim okuryazarlığını insan akran incelemesine göre hafif ama anlamlı biçimde iyileştirdi (ANCOVA p = 0,049, ηp² = 0,03). GenAI öğrencileri istemleri yinelemeli olarak inceltti ve yanlış çıktıyı doğruladı ya da ona meydan okudu. Akran grubundaki öğrenciler kaynakları toplumsal kolaylığa göre seçti ve değerlendirme yargıları arkadaşlık yanlılığı tarafından çarpıtıldı. Akran incelemesi, hedef kitle farkındalığı için ayrı bir değer korudu; yazarların bir yerine koyma değil, anonim akran geri bildirimi içeren çok aşamalı tasarımlar önermesinin nedeni budur.
 
 Gu ve arkadaşlarının avantajı küçüktü ve yazarlar bunu gerçek ama tek başına dönüştürücü olmayan bir şey olarak okudu. Destekleyici işi öğretmen iskelesi, istem kılavuzları ve çalışma kâğıtları yaptı.
 
@@ -85,15 +85,15 @@ Gu ve arkadaşlarının avantajı küçüktü ve yazarlar bunu gerçek ama tek b
 
 Değerlendirme ölçütüne dayalı üretim, otomatikleştirilebilir kısımdır.
 
-Farrokhnia ve arkadaşlarının kalite kazanımı, modele bir argümantasyon ölçütüne göre adım adım değerlendirme yaptıran bir düşünce zinciri isteminden geldi; geri bildirim vermeye dair çıplak bir talimattan değil. Gu ve ark. GenAI grubuna önceden eğitilmiş ölçütler ve istem kılavuzlarıyla birlikte ChatGPT-4o verdi; çıktıyı belirtilen ölçütlere göre denetlenebilir kılan buydu. Her iki durumda da ölçütlerinizin sisteme girdiği yer istemdir ve modelin bunları uygulayıp uygulamadığını görmenizi sağlayan şey akıl yürütme izidir.
+Farrokhnia ve arkadaşlarının kalite kazanımı, modele bir argümantasyon ölçütüne göre adım adım değerlendirme yaptıran bir düşünce zinciri isteminden geldi; geri bildirim vermeye dair çıplak bir talimattan değil. Gu ve ark. GenAI grubuna önceden eğitilmiş ölçütler ve istem kılavuzlarıyla birlikte [[generative-ai|ChatGPT-4o]] verdi; çıktıyı belirtilen ölçütlere göre denetlenebilir kılan buydu. Her iki durumda da ölçütlerinizin sisteme girdiği yer istemdir ve modelin bunları uygulayıp uygulamadığını görmenizi sağlayan şey akıl yürütme izidir.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson ve Yan (2025)]], istem kalitesini tüm sürecin menteşesi yapar. Belirsiz istemler genel geçer ve işe yaramaz çıktı verir; üretilen yorumlar halüsinasyonlu, yanlı ya da üst üste binen olabilir, bu da değerlendirme yargısını okura geri iter. Kalibrasyon daha da keskindir. Farrokhnia ve arkadaşlarında GenAI geri bildiriminin kalitesi, öğrencinin ilk taslağının gücüyle anlamlı biçimde ilişkiliydi; öğretmen geri bildiriminin kalitesi ise değildi. Öğretmen daha tutarlı kalibre etti. Hacim ölçeklenir. Kalibrasyon ölçeklenmez.
 
 ## Son sözü ve kaydı insanda tutun
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma ve Cobos (2026)]], bağımsız taslak yorumları üretmek için ölçüt puanları ve nitel gözlemler üzerinde üç ayrı ince ayarlı modeli (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) çalıştıran AICoFE'yi betimliyor. Eğitmen daha sonra hangi modelin neyi katkıladığını gösteren bir açıklamayla cümleleri ya da paragrafları seçerek son mesajı oluşturuyor. Taslağı model yazar. Eğitmen teslim eder ve teslim edilen şey, taslağı okuyan tek bir kişi tarafından imzalanır.
+[[becerra-aicofe-feedback-2026|Becerra, Palma ve Cobos (2026)]], bağımsız taslak yorumları üretmek için ölçüt puanları ve [[qualitative-research|nitel gözlemler]] üzerinde üç ayrı ince ayarlı modeli (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) çalıştıran AICoFE'yi betimliyor. Eğitmen daha sonra hangi modelin neyi katkıladığını gösteren bir açıklamayla cümleleri ya da paragrafları seçerek son mesajı oluşturuyor. Taslağı model yazar. Eğitmen teslim eder ve teslim edilen şey, taslağı okuyan tek bir kişi tarafından imzalanır.
 
-Aldino ve ark. sıradan uygulamada aynı yardım-sonra-doğrula örüntüsünü buluyor. Makine öğrenmesi bileşeni en sık "Öğrenme Hedefini Karşılama"yı eksik olarak işaretledi (21 öğretmenin 20'si bunu atlamıştı; 16'sı işareti kabul etti) ve "Öğrenci-Öğretmen İlişkisi"ni işaretledi (14'ü atlamıştı; 12'si kabul etti). Öğretmenler her öneriye mesleki yargıyla karar verdi; onları döngüye sokmanın anlamı budur.
+Aldino ve ark. sıradan uygulamada aynı yardım-sonra-doğrula örüntüsünü buluyor. [[machine-learning|Makine öğrenmesi]] bileşeni en sık "Öğrenme Hedefini Karşılama"yı eksik olarak işaretledi (21 öğretmenin 20'si bunu atlamıştı; 16'sı işareti kabul etti) ve "Öğrenci-Öğretmen İlişkisi"ni işaretledi (14'ü atlamıştı; 12'si kabul etti). Öğretmenler her öneriye mesleki yargıyla karar verdi; onları döngüye sokmanın anlamı budur.
 
 Aldino ve arkadaşlarının 21 öğretmeninden 12'si ayrıca cümle düzeyinde düzeltmeler yaptı ve baskın örüntü tonu kalibre etmekti: övgüyü aşağı çekmek (f = 11), önerileri kaldırmak (f = 9), teşviki kaldırmak (f = 8). Düzeltmeler ilişkisel boyutta, özellikle Öğrenci-Öğretmen İlişkisi'nde yoğunlaştı (f = 24). Özgünlüğü ve mesleki sesi koruyorlardı ve o iş otomatikleşmez.
 
@@ -123,7 +123,7 @@ Memnuniyet puanlarının yorumların doğru olduğunu söylediği sanılır. Dea
 
 ## Karşınıza çıkacak itirazlar
 
-**"YZ geri bildirimi kişisel değil."** Çoğu zaman doğru ve son sözü insanda tutmanın nedeni de bu. AICoFE, bir öğrencinin alması gerekenin genel geçer model metni olmaması yüzünden var: eğitmen son mesajı seçer, düzenler ve imzalar. Aldino ve arkadaşlarındaki 21 öğretmen de aynı nedenle tonu yeniden yazdı. Bu tasarımda kişiselleştirme sizin işiniz ve model hazırlık işini yapıyor.
+**"YZ geri bildirimi kişisel değil."** Çoğu zaman doğru ve son sözü insanda tutmanın nedeni de bu. AICoFE, bir öğrencinin alması gerekenin genel geçer model metni olmaması yüzünden var: eğitmen son mesajı seçer, düzenler ve imzalar. Aldino ve arkadaşlarındaki 21 öğretmen de aynı nedenle tonu yeniden yazdı. Bu tasarımda [[personalized-learning|kişiselleştirme]] sizin işiniz ve model hazırlık işini yapıyor.
 
 **"Öğrencilerim geri bildirimi zaten okumaz."** Umduğumuzdan az okuyorlar ve kanıt, çözümün hacim değil tasarım olduğunu söylüyor. Deakin pilotunda alım yaklaşık %13 ve %12 düzeyindeydi. Farrokhnia ve arkadaşlarının daha yüksek puanlanan yorumları ek düzeltme üretmedi. İğneyi hareket ettiren şey, ilgiyi zorunlu kılan aşamalandırmaydı: öz değerlendirme, sonra akran geri bildirimi, sonra YZ eleştirisi; bir de bir dönem boyunca ölçülebilir geri bildirim okuryazarlığı farkları üreten üç düzeltme döngüsü.
 

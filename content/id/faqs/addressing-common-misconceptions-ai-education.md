@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T02:51:44-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,7 @@ Rata-rata menyembunyikan justru variasi yang menentukan pertanyaan ekuitas. Efek
 
 ### “Mereka melaporkan bahwa mereka belajar banyak.”
 
-Laporan diri mengukur persepsi, penerimaan, kecemasan, dan [[self-efficacy|efikasi diri]], dan ia baik untuk keempatnya. Ia bukan ukuran kapabilitas yang ditunjukkan, karena orang bisa percaya diri dan salah, atau terampil dan kurang percaya diri. Sintesis wiki atas penelitian literasi AI guru melaporkan jurang yang besar antara penilaian diri dan kinerja terukur, dan para pengajar di dalamnya melebih-lebihkan kompetensi mereka secara signifikan ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Pasangkan setiap laporan diri dengan tugas: mengidentifikasi kesalahan dalam keluaran, memverifikasi sumber, memilih strategi penggunaan, mengenali bias atau sikofansi, merevisi respons yang cacat, mengkalibrasi keyakinan terhadap akurasi. Satu butir semacam itu dalam survei mengubah opini menjadi hasil.
+[[self-report-measures|Laporan diri]] mengukur persepsi, penerimaan, [[anxiety-and-stress|kecemasan]], dan [[self-efficacy|efikasi diri]], dan ia baik untuk keempatnya. Ia bukan ukuran kapabilitas yang ditunjukkan, karena orang bisa percaya diri dan salah, atau terampil dan kurang percaya diri. Sintesis wiki atas penelitian literasi AI guru melaporkan jurang yang besar antara [[self-assessment|penilaian diri]] dan kinerja terukur, dan para pengajar di dalamnya melebih-lebihkan kompetensi mereka secara signifikan ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Pasangkan setiap laporan diri dengan tugas: mengidentifikasi kesalahan dalam keluaran, memverifikasi sumber, memilih strategi penggunaan, mengenali bias atau sikofansi, merevisi respons yang cacat, mengkalibrasi keyakinan terhadap akurasi. Satu butir semacam itu dalam survei mengubah opini menjadi hasil.
 
 ### “Siswa simulasi adalah pengganti murah bagi siswa nyata.”
 
@@ -184,7 +184,7 @@ Pengawasan bergantung pada keahlian yang justru tidak didorong oleh otomatisasi 
 
 ### “Mengajarkan penggunaan AI yang kritis dan etis memakan produktivitas.”
 
-Otomatisasi yang tidak terverifikasi menghasilkan pengerjaan ulang, insiden keamanan, keputusan diskriminatif, paparan hukum, kerusakan reputasi, dan keyakinan yang salah, dan setiap hal itu adalah biaya yang tidak dihitung oleh angka produktivitas. Karyawan yang layak direkrut adalah yang mengalokasikan pekerjaan antara manusia dan alat sambil memegang mutu, kerahasiaan, akuntabilitas, dan pertimbangan profesional. Itu argumen produktivitas, yang dibuat ke arah yang biasanya terlewat oleh neraca ([[human-ai-collaboration|Kolaborasi Manusia-AI]], [[governance|Tata Kelola AI]]).
+Otomatisasi yang tidak terverifikasi menghasilkan pengerjaan ulang, insiden keamanan, keputusan diskriminatif, [[legal-issues-and-risks|paparan hukum]], kerusakan reputasi, dan keyakinan yang salah, dan setiap hal itu adalah biaya yang tidak dihitung oleh angka produktivitas. Karyawan yang layak direkrut adalah yang mengalokasikan pekerjaan antara manusia dan alat sambil memegang mutu, kerahasiaan, akuntabilitas, dan pertimbangan profesional. Itu argumen produktivitas, yang dibuat ke arah yang biasanya terlewat oleh neraca ([[human-ai-collaboration|Kolaborasi Manusia-AI]], [[governance|Tata Kelola AI]]).
 
 ## Jawab apa yang diyakini siswa
 
@@ -248,7 +248,7 @@ Teks kebijakan tidak menciptakan pemahaman bersama. Siswa dan staf membaca harap
 
 ### “Keengganan fakultas adalah kesenjangan pelatihan.”
 
-Kadang memang begitu. Kesiapan juga menyangkut beban kerja, [[learner-identity|identitas profesional]], nilai disipliner, keraguan atas validitas penilaian, dukungan institusi yang tipis, ketidakpastian privasi, dan pertimbangan beralasan bahwa aplikasi tertentu tidak melayani siswa. Pengembangan karena itu harus mencakup kompetensi praktis, integrasi pedagogis, tujuan dan identitas, waktu, kebijakan, penggunaan yang [[discipline-specific-aied|spesifik disiplin]], dan opsi untuk tidak mengadopsinya secara berprinsip. Demonstrasi fitur sekali waktu tidak menyelesaikan perubahan profesional dan organisasi ([[educational-development|Pengembangan Pendidikan]]).
+Kadang memang begitu. Kesiapan juga menyangkut beban kerja, [[learner-identity|identitas profesional]], nilai disipliner, keraguan atas validitas penilaian, dukungan institusi yang tipis, ketidakpastian privasi, dan pertimbangan beralasan bahwa aplikasi tertentu tidak melayani siswa. Pengembangan karena itu harus mencakup kompetensi praktis, integrasi pedagogis, tujuan dan identitas, waktu, kebijakan, penggunaan yang [[discipline-specific-aied|spesifik disiplin]], dan opsi untuk tidak mengadopsinya secara berprinsip. Demonstrasi fitur sekali waktu tidak menyelesaikan perubahan profesional dan [[change-management|organisasi]] ([[educational-development|Pengembangan Pendidikan]]).
 
 ### “Memberi tahu orang fakta yang benar sudah cukup.”
 
@@ -267,7 +267,7 @@ Versi yang sudah dikerjakan, yang dapat Anda adaptasi untuk butir mana pun di ha
 > **Kesalahpahaman:** “Tugas yang dihasilkan AI dengan baik menunjukkan bahwa siswa belajar.”
 > **Refutasi:** “Itu belum tentu benar. Produknya menunjukkan apa yang dihasilkan siswa dan AI bersama-sama, tetapi ia tidak mengungkapkan penalaran mana yang dijalankan siswa.”
 > **Pengganti:** “Pembelajaran lebih baik ditunjukkan ketika siswa dapat menjelaskan, mentransfer, mengadaptasi, dan mereproduksi kapabilitasnya.”
-> **Penerapan:** “Susulkan pekerjaan berbantuan AI dengan penjelasan, pertahanan lisan, catatan proses, atau penerapan tanpa bantuan.”
+> **Penerapan:** “Susulkan pekerjaan berbantuan AI dengan penjelasan, [[oral-assessment|pertahanan lisan]], catatan proses, atau penerapan tanpa bantuan.”
 
 Penggantinya yang memikul bebannya. Menghapus kesalahpahaman tanpa menyediakan penjelasan yang lebih baik meninggalkan orang itu tanpa apa pun untuk berpikir, dan keyakinan lamanya kembali pada kesempatan berikutnya ketika pengalaman mengonfirmasinya.
 
@@ -293,7 +293,7 @@ Para guru secara substansial melebih-lebihkan kompetensi AI mereka ketika lapora
 
 ### “Orang tua tidak akan menerima apa pun selain larangan.”
 
-Orang tua menanyakan apakah benda di depan anak mereka aman dan apakah kredensialnya berarti sesuatu. Jawablah kedua hal itu secara langsung, dengan pertanyaan keamanan pedagogis alih-alih penyaring konten, dan argumen larangan kehilangan kekuatannya. Pertanyaan dewan lebih sempit daripada judul beritanya dan lebih mudah dipertahankan.
+[[parents-and-families|Orang tua]] menanyakan apakah benda di depan anak mereka aman dan apakah kredensialnya berarti sesuatu. Jawablah kedua hal itu secara langsung, dengan pertanyaan keamanan pedagogis alih-alih penyaring konten, dan argumen larangan kehilangan kekuatannya. Pertanyaan dewan lebih sempit daripada judul beritanya dan lebih mudah dipertahankan.
 
 ### “Kami tidak bisa menjalankan pertahanan lisan untuk kuliah sebesar ini.”
 

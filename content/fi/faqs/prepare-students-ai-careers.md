@@ -1,7 +1,7 @@
 ---
 title: "Mitä opiskelijoiden pitäisi oppia uraa varten, jossa tekoäly on arkipäivää?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Opiskelija kysyy, miksi hänen pitäisi oppia tekemään jotain, mitä chatbotti tekee jo. Koulutusohjelman neuvottelukunta sanoo, että työnantajat haluavat valmistuneita, jotka osaavat käyttää tekoälyä työssä. Opetussuunnitelmasi on täytettävä molemmat, eikä kumpikaan ole sanonut, mitä valmistuneen pitäisi pystyä tekemään ilman apua.
+Opiskelija kysyy, miksi hänen pitäisi oppia tekemään jotain, mitä [[conversational-ai|chatbotti]] tekee jo. Koulutusohjelman neuvottelukunta sanoo, että työnantajat haluavat valmistuneita, jotka osaavat käyttää tekoälyä työssä. Opetussuunnitelmasi on täytettävä molemmat, eikä kumpikaan ole sanonut, mitä valmistuneen pitäisi pystyä tekemään ilman apua.
 
-Lyhyt vastaus kollegalle: opeta koko ammatillinen tehtävä, älä työkalun käyttöä, ja arvioi sekä tuettu tuotos että opiskelijan itsenäinen kyvykkyys. Näyttö tukee valmiuden ymmärtämistä alan tietona, harkintana, varmistamisena ja siirtona, eikä se tue mitään taitoluetteloa työllistymisen takeena. Kun 500 yhdysvaltalaisen korkeakouluopettajan kyselyä verrattiin työnantajapaneeliin, ryhmät olivat samaa mieltä 26 tekoälyyn liittyvästä taidosta täsmälleen yhden tärkeydestä, *realististen odotusten asettamisesta tekoälyllä täydennetylle työlle*; opettajat painottivat kriittistä ja vastuullista käyttöä, kun työnantajat painottivat työnkulkua, automaatiota ja ihmisen ja tekoälyn tiimityötä ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ne ovat raportoituja painotuksia, eivät rekrytointinäyttöä. Terävämpi löydös opetussuunnitelmalle on muualla: kun kysyttiin 455 viimeisen vuoden opiskelijalta, tekoälylukutaito saavutti koetun työllistymiskyvyn pääosin nostamalla [[career-development-and-readiness|urajoustavuutta]], epäsuoralla vaikutuksella β = 0,173 ja suoralla vaikutuksella β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan ja Lestari, 2026]]). Joustavuus on kyvykkyys, jonka voi opettaa. Työkalun käyttövinkki ei ole.
+Lyhyt vastaus kollegalle: opeta koko ammatillinen tehtävä, älä työkalun käyttöä, ja arvioi sekä tuettu tuotos että opiskelijan itsenäinen kyvykkyys. Näyttö tukee valmiuden ymmärtämistä alan tietona, harkintana, varmistamisena ja siirtona, eikä se tue mitään taitoluetteloa työllistymisen takeena. Kun 500 yhdysvaltalaisen korkeakouluopettajan kyselyä verrattiin työnantajapaneeliin, ryhmät olivat samaa mieltä 26 tekoälyyn liittyvästä taidosta täsmälleen yhden tärkeydestä, *realististen odotusten asettamisesta tekoälyllä täydennetylle työlle*; opettajat painottivat kriittistä ja vastuullista käyttöä, kun työnantajat painottivat työnkulkua, automaatiota ja [[human-ai-collaboration|ihmisen ja tekoälyn tiimityötä]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ne ovat raportoituja painotuksia, eivät rekrytointinäyttöä. Terävämpi löydös [[curriculum-design|opetussuunnitelmalle]] on muualla: kun kysyttiin 455 viimeisen vuoden opiskelijalta, tekoälylukutaito saavutti koetun työllistymiskyvyn pääosin nostamalla [[career-development-and-readiness|urajoustavuutta]], epäsuoralla vaikutuksella β = 0,173 ja suoralla vaikutuksella β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan ja Lestari, 2026]]). Joustavuus on kyvykkyys, jonka voi opettaa. Työkalun käyttövinkki ei ole.
 
 ## Lyhyt versio
 
@@ -73,13 +73,13 @@ Nämä ovat tutkimusteemojen mukautuksia, eivät testattuja työllistymisinterve
 
 Kirjoittaminen ja liikeviestintä: anna opiskelijoiden arvostella ja muokata tekoälyn luonnostelemaa vastausta asiakasvalitukseen. Kyvykkyyden näyttö on perustelemattomien lupausten nimeäminen, yleisövalintojen selittäminen ja lopullisen sanamuodon puolustaminen.
 
-Määrällinen kurssi voi tehdä saman tekoälyn tuottamalla arviolla realistisesta suunnitteluongelmasta, jossa opiskelijat rakentavat oman arvionsa, ilmoittavat oletukset ja testaavat uskottavuutta.
+[[quantitative-research|Määrällinen]] kurssi voi tehdä saman tekoälyn tuottamalla arviolla realistisesta suunnitteluongelmasta, jossa opiskelijat rakentavat oman arvionsa, ilmoittavat oletukset ja testaavat uskottavuutta.
 
 Taulukkolaskenta- tai ohjelmointikurssilla jaa tuotettu kaava ja synteettinen data ja pyydä sitten testitapauksia, selitystä viittauksista ja yhtä epäonnistumisehtoa.
 
-Terveysalat: opiskelijat arvioivat fiktiiviselle tapaukselle tuotetun selityksen hyväksyttyjä lähteitä vasten, nimeävät sen rajoitukset ja sanovat, milloin pätevän ammattilaisen on päätettävä.
+[[medical-education|Terveysalat]]: opiskelijat arvioivat fiktiiviselle tapaukselle tuotetun selityksen hyväksyttyjä lähteitä vasten, nimeävät sen rajoitukset ja sanovat, milloin pätevän ammattilaisen on päätettävä.
 
-Urasuuntautumisella on oma versionsa: vertaa kahden ammatin tehtäväkoostumusta uskottavaa ammattitietoa käyttäen ja suunnittele sitten yksi konkreettinen taitojen kehittämisen tai avun hakemisen askel.
+Urasuuntautumisella on oma versionsa: vertaa kahden ammatin tehtäväkoostumusta uskottavaa ammattitietoa käyttäen ja suunnittele sitten yksi konkreettinen taitojen kehittämisen tai [[help-seeking|avun hakemisen]] askel.
 
 Asynkronisessa toteutuksessa pyydä ensimmäinen yritys, lyhyt varmistustietue ja kahden lauseen huomautus yhdestä seurauksellisesta päätöksestä. Laboratoriossa tai seminaarissa selitys voi tapahtua keskustelussa. Käytä synteettisiä tai valtuutettuja materiaaleja aina, kun vaihtoehtona olisi luottamuksellinen työpaikka- tai opiskelijadata.
 
@@ -89,19 +89,22 @@ Kiillotettu tuotos kertoo, mitä tuotettiin sallituissa olosuhteissa. Se ei kerr
 
 Valitse ne vaatimukset siksi, että ne tukevat ilmoitettua kyvykkyyttä, ja sano, mitä kukin arviointi mittaa. Opiskelijat hyväksyvät itsenäisen harjoittelun, kun se liittyy siihen, mihin heitä valmistellaan; ”tarvitset tätä jonain päivänä” tekee vähemmän työtä kuin sen näyttäminen, miten laskelma on se, jonka avulla he myöhemmin nappaavat väärän arvion.
 
-Tukipuolella on oma riskinsä. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] havaitsivat GenAI:n käytön olevan positiivisesti yhteydessä GenAI-riippuvuuteen ja riippuvuuden negatiivisesti yhteydessä sekä kriittiseen ajatteluun että työllistymiskykyyn heidän kyselymallissaan. Se on yhteys eikä kausaalinen väite, ja se osoittaa suunnittelukysymykseen: kurssi, joka arvioi aina vain tuettua suoriutumista, saattaa kouluttaa juuri sitä riippuvuutta, jota se raportoi.
+Tukipuolella on oma riskinsä. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] havaitsivat [[generative-ai|GenAI]]:n käytön olevan positiivisesti yhteydessä GenAI-riippuvuuteen ja riippuvuuden negatiivisesti yhteydessä sekä [[critical-thinking|kriittiseen ajatteluun]] että työllistymiskykyyn heidän kyselymallissaan. Se on yhteys eikä kausaalinen väite, ja se osoittaa suunnittelukysymykseen: kurssi, joka arvioi aina vain tuettua suoriutumista, saattaa kouluttaa juuri sitä riippuvuutta, jota se raportoi.
+
+Sama logiikka pätee ennen kuin opiskelijat siirtyvät työmarkkinoille. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener ym. (2026)]] mallintavat tekoälyapua sarjana, jossa taito kasvaa itsenäisen harjoittelun kautta ja heikkenee, kun työntekijät hyväksyvät tekoälyn vastaukset. Heidän mallissaan aloittelijat voivat juuttua matalalle taitotasolle ja asiantuntijat voivat menettää taitoa, vaikka tuotoksen tarkkuus pysyy korkeana, ja strategiset työntekijät voivat ratkaista itsenäisesti silloinkin, kun tekoäly on tarkempi, koska tulevalla taidolla on arvoa. Artikkeli on teoreettinen, ei interventio, mutta se terävöittää opetussuunnitelmakysymystä: aikatauluta ja palkitse itsenäistä harjoittelua sen sijaan, että olettaisit tekoälyavusteisen tuotoksen rakentavan kyvykkyyden valvoa työtä.
+
 
 Ohjelman arvioinnissa erota mittarit. Kurssisuoriutuminen, osoitettu tekoälylukutaito, harjoittelun ohjaajan arvio, työllisyystilanne ja työn laatu ovat eri tuloksia eri aikahorisonteilla, eikä yksi interventio voi osoittaa niitä kaikkia. [[ai-literacy-evidence|Tekoälylukutaidon näyttö]] -sivu on rehellinen luettelo siitä, mitä interventiotutkimukset todella tukevat.
 
 ## Käsittele urahuolta lupaamatta varmuutta
 
-Opiskelijat saapuvat todellisten pelkojen kanssa, ja niitä koskeva kyselykirjallisuus on kuvaus peloista eikä työmarkkinaennuste. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] havaitsivat tekoälyahdistuksen ennustavan suoraan ja negatiivisesti urapäätöksiä, mikä on löydös päätöshalvauksesta, ei työpaikoista. [[ai-anxiety-wellbeing|Hyvinvoinnin kokonaiskuva]] kattaa laajemman näytön.
+Opiskelijat saapuvat todellisten pelkojen kanssa, ja niitä koskeva kyselykirjallisuus on kuvaus peloista eikä työmarkkinaennuste. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] havaitsivat [[anxiety-and-stress|tekoälyahdistuksen]] ennustavan suoraan ja negatiivisesti urapäätöksiä, mikä on löydös päätöshalvauksesta, ei työpaikoista. [[ai-anxiety-wellbeing|Hyvinvoinnin kokonaiskuva]] kattaa laajemman näytön.
 
 Mikä auttaa, on selvittäminen sellaisessa mittakaavassa, jossa opiskelija voi toimia: mitä tehtäviä tähän rooliin todella kuuluu, miltä viikko näyttää, mitä minun pitäisi pystyä tekemään, kuka voi kertoa minulle. Urapalvelut, alumnit ja työelämäpalvelujen henkilöstö pitävät hallussaan sitä tietoa. Työkaluesittely, opettajan vaikutelma tai myyjän esitys ei ole työmarkkinaennuste, ja sellaisen esittäminen ennusteena on se, miten ohjelmat menettävät uskottavuutensa opiskelijoihin, jotka sitten tarkistavat.
 
 ## Mitä sinulle tullaan sanomaan
 
-**”Opiskelijat tarvitsevat vain parempia kehotteita.”** Kehotteiden kirjoittaminen on yksi lauseke yhdessä kuudesta osasta. Hyvin määritelty pyyntö ei tarjoa tietoa, jota tarvitaan huonon tuloksen tunnistamiseen, eivätkä Ithaka-paneelin työnantajatkaan rankanneet kehotetaitoa ensimmäiseksi.
+**”Opiskelijat tarvitsevat vain parempia [[prompt-engineering|kehotteita]].”** Kehotteiden kirjoittaminen on yksi lauseke yhdessä kuudesta osasta. Hyvin määritelty pyyntö ei tarjoa tietoa, jota tarvitaan huonon tuloksen tunnistamiseen, eivätkä Ithaka-paneelin työnantajatkaan rankanneet kehotetaitoa ensimmäiseksi.
 
 **”Jos työpaikat sallivat tekoälyn, kurssityönkin pitäisi sallia se.”** Kurssi rakentaa myös sen kyvykkyyden, joka tekee vastuullisen käytön mahdolliseksi. Sano, kumpaa kahdesta arvioit kussakin tehtävässä, ja vastalauseesta tulee suunnittelukysymys eikä ristiriita.
 
@@ -125,4 +128,4 @@ Mikä auttaa, on selvittäminen sellaisessa mittakaavassa, jossa opiskelija voi 
 
 [[career-development-and-readiness]] on käsitesivu työllistymiskyvylle, joustavuudelle ja työvoimanäytölle, ja [[ai-literacy]] kattaa sen, mitä lukutaito tarkoittaa työkalun käytön ulkopuolella. Sen rakentamisesta tiettyyn kurssiin katso [[incorporating-ai-literacy|tekoälylukutaidon sisällyttäminen]] ja [[faculty-ai-competencies|mitä osaamista opettajat tarvitsevat]].
 
-Arvioinnin suunnittelusta, joka tekee tuetusta ja itsenäisestä suoriutumisesta erotettavia, katso [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyn aikakaudella]] ja [[ai-grading-fairness-reliability|tekoälyarviointi]]. Siitä, miten tuki estetään muuttumasta riippuvuudeksi, katso [[reducing-over-reliance|liiallisen tukeutumisen vähentäminen]].
+[[assessment|Arvioinnin suunnittelusta]], joka tekee tuetusta ja itsenäisestä suoriutumisesta erotettavia, katso [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyn aikakaudella]] ja [[ai-grading-fairness-reliability|tekoälyarviointi]]. Siitä, miten tuki estetään muuttumasta riippuvuudeksi, katso [[reducing-over-reliance|liiallisen tukeutumisen vähentäminen]].

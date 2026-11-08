@@ -1,7 +1,7 @@
 ---
 title: "Come faccio a capire se le domande di quiz ed esami generate dall'IA sono davvero buone?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Chiedi venti domande dai tuoi appunti delle lezioni. Te le restituiscono con chiavi di risposta, spiegazioni, etichette di difficoltà e categorie della tassonomia di Bloom, in un documento formattato che sembra finito. Il tuo nome sta per finirci sopra.
 
-Risposta breve da dare a un collega: le domande generate sono candidate, non una valutazione. Risolvi ogni domanda da solo, controlla cosa l'item chiede davvero di fare a uno studente e scopri come gli studenti vi rispondono prima che conti. Nei due studi più ampi di questa base di conoscenza, il segnale interessante non è che la generazione funziona, ma dove fallisce. Una generazione iterativa dentro un flusso di lavoro specifico per il corso ha prodotto esami a scelta multipla utilizzabili in 71 corsi universitari ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In un audit di scienza dei dati su 311 domande somministrate, le etichette di difficoltà del modello seguivano quasi perfettamente i livelli di Bloom che aveva generato insieme a esse (ρ di Spearman = 0,90) mentre seguivano il punteggio effettivo degli studenti a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). L'etichetta era una descrizione del prompt, non una misura dell'item.
+Ecco la risposta breve: le domande generate sono candidate, non una valutazione. Risolvi ogni domanda da solo, controlla cosa l'item chiede davvero di fare a uno studente e scopri come gli studenti vi rispondono prima che conti. Nei due studi più ampi di questa base di conoscenza, il segnale interessante non è che la generazione funziona, ma dove fallisce. Una generazione iterativa dentro un flusso di lavoro specifico per il corso ha prodotto esami a scelta multipla utilizzabili in 71 corsi universitari ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In un audit di scienza dei dati su 311 domande somministrate, le etichette di difficoltà del modello seguivano quasi perfettamente i livelli di Bloom che aveva generato insieme a esse (ρ di Spearman = 0,90) mentre seguivano il punteggio effettivo degli studenti a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). L'etichetta era una descrizione del prompt, non una misura dell'item.
 
 ## La versione breve
 
@@ -46,7 +46,7 @@ Risposta breve da dare a un collega: le domande generate sono candidate, non una
 
 La generazione costa così poco che il formato dell'output diventa in silenzio la specifica. Se i tuoi appunti producono item a scelta multipla ordinati, finirai per misurare se gli studenti sanno scegliere tra affermazioni plausibili, qualunque esito dichiari il programma.
 
-Specifica prima l'esito, poi l'evidenza che una risposta soddisfacente fornirebbe, poi le conoscenze che ci si aspetta che gli studenti portino. Includi i materiali del corso, le misconcezioni che prevedi, gli strumenti consentiti e il formato della risposta. Se vuoi che gli studenti interpretino evidenze, l'item deve richiedere interpretazione, e aggiungere la parola a una domanda di definizione non basta. Uno scenario lungo può comunque essere risolvibile con una sola frase familiare che svela la risposta.
+Specifica prima l'esito, poi l'evidenza che una risposta soddisfacente fornirebbe, poi le conoscenze che ci si aspetta che gli studenti portino. Includi i materiali del corso, le [[misconceptions|misconcezioni]] che prevedi, gli strumenti consentiti e il formato della risposta. Se vuoi che gli studenti interpretino evidenze, l'item deve richiedere interpretazione, e aggiungere la parola a una domanda di definizione non basta. Uno scenario lungo può comunque essere risolvibile con una sola frase familiare che svela la risposta.
 
 Una matrice di specifiche della valutazione è una tabella che incrocia esiti e item, e il suo valore è che espone le lacune prima degli studenti. Rende anche visibile il compromesso: ogni item che generi dal materiale più facile è un item che non hai speso sull'esito che ti interessa di più.
 
@@ -68,7 +68,7 @@ Un secondo modello può aiutarti a individuare problemi, e l'accordo tra due mod
 
 ## Non lasciare che a decidere sia l'etichetta di difficoltà
 
-La letteratura sulla [[automated-question-generation|generazione di domande]] è più utile sul fallimento delle etichette che sul successo della generazione. [[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang (2026)]] hanno esaminato 378 domande scritte da persone in corsi di scienza dei dati, delle quali 311 sono state somministrate a 54 studenti, per 7.888 risposte raccolte. Le etichette facile, media e difficile del modello correlavano con i livelli di Bloom che aveva generato insieme a esse a ρ = 0,90 e con la difficoltà empirica degli item a ρ = 0,06. Circa il 70% degli item somministrati è stato risolto correttamente da tutti gli studenti, il che lasciava quasi nessuna variazione che un'etichetta di difficoltà potesse seguire, nemmeno in linea di principio.
+La letteratura sulla [[automated-question-generation|generazione di domande]] è più utile sul fallimento delle etichette che sul successo della generazione. [[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang (2026)]] hanno esaminato 378 domande scritte da persone in corsi di scienza dei dati, delle quali 311 sono state somministrate a 54 studenti, per 7.888 risposte raccolte. Le etichette facile, media e difficile del modello correlavano con i livelli di Bloom che aveva generato insieme a esse a ρ = 0,90 e con la [[item-response-theory|difficoltà empirica degli item]] a ρ = 0,06. Circa il 70% degli item somministrati è stato risolto correttamente da tutti gli studenti, il che lasciava quasi nessuna variazione che un'etichetta di difficoltà potesse seguire, nemmeno in linea di principio.
 
 Ne seguono due lezioni. Primo, la difficoltà è una proprietà dell'interazione tra un item e una popolazione, quindi nessuna etichetta prodotta prima di somministrare l'item può essere considerata un valore misurato. Secondo, una banca di item a cui tutti rispondono correttamente non è una valutazione facile, è una valutazione inutile: porta quasi nessuna informazione su chi sa cosa.
 
@@ -91,6 +91,9 @@ Correggi e conserva il registro: la versione approvata, l'esito a cui serve, la 
 In un corso introduttivo di sociologia l'esito potrebbe essere distinguere una spiegazione strutturale da una individuale. Un item debole chiede agli studenti di definire «strutturale», il che misura il riconoscimento lessicale. Una candidata più forte presenta un breve scenario su una famiglia e una decisione lavorativa, poi chiede quale spiegazione individua meglio un vincolo strutturale, con distrattori che rappresentano interpretazioni plausibili ma diverse.
 
 L'insegnante controlla che lo scenario sostenga davvero la chiave, che due opzioni non esprimano la stessa idea e che la risposta non dipenda da terminologia mai introdotta nel corso. Una domanda di follow-up di una riga, «quale dettaglio sostiene la tua scelta?», fa emergere il ragionamento che l'opzione selezionata nasconde. L'adattamento non è testato come formato di item, e il suo valore è più ristretto: le domande di revisione qui sopra si possono porre prima che un item venga somministrato, e una chiave sbagliata si può riparare prima che gli studenti la vedano.
+
+Quando gli studenti segnalano un disagio su larga scala, il segnale ha una struttura. In un'analisi da 5.214.211 sessioni di domande di pratica presentate dentro una piattaforma per libri di testo, i pollice verso arrivavano a 2,00 per 1.000 sessioni contro 3,31 pollice su, e solo 22.844 domande su 809.848 avevano mai ricevuto una valutazione ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Lo schema nei voti non era casuale: le domande che richiedevano risposte con avverbi attiravano 5,23 pollice verso per 1.000 contro 1,76 per le risposte con aggettivi, e anche l'importanza della frase (odds ratio 2,38) e la somiglianza del testo della risposta (1,64) muovevano la valutazione. La regola empirica messa a punto dagli autori era di circa 1,62 pollice verso per 1.000 quando entrambi i segnali di importanza erano presenti. Il punto pratico è che le valutazioni degli studenti sono un canale di misura lento ma reale: una piattaforma che rimuove le domande ripetutamente non gradite chiude il ciclo, e un docente che sperimenta pochi item ottiene lo stesso segnale più in fretta chiedendo quale dettaglio lo studente metteva in dubbio.
+
 
 Per gli studenti che generano le proprie domande di pratica, la stessa regola vale al loro livello: prova a risolvere l'item, verifica la spiegazione contro le fonti del corso e porta i casi irrisolvibili a chi conosce la materia. Una [[study-with-ai|pratica di studio]] che abitua gli studenti ad accettare acriticamente le chiavi generate insegna l'abitudine sbagliata.
 

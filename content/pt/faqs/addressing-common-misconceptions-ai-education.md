@@ -1,7 +1,7 @@
 ---
 title: "Como podemos abordar as concepções errôneas mais comuns sobre a IA na educação?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ Sua pró-reitoria quer uma folha de uma página sobre "mitos da IA" para a reuni
 
 Toda crença desta página parte de algo que uma pessoa razoável já viu. Prosa fluente de fato parece precisa. Um trabalho polido de fato parece aprendizagem. Um tutor que responde à pergunta de fato parece ajuda, e uma política com a palavra "proibido" de fato parece uma decisão. A correção que funciona nomeia o que a observação não consegue lhe dizer e, em seguida, entrega uma verificação que a pessoa pode rodar na segunda-feira.
 
-A resposta para dar a um colega, em uma só frase: o efeito educacional da IA depende de quem a usa, para qual tarefa, que pensamento a ferramenta realiza, que responsabilidade permanece com a pessoa e como a aprendizagem é avaliada. Confiança, velocidade, engajamento e conclusão da tarefa são características do uso. Nenhuma delas é evidência de que a capacidade mudou.
+Aqui está a resposta, em uma só frase: o efeito educacional da IA depende de quem a usa, para qual tarefa, que pensamento a ferramenta realiza, que responsabilidade permanece com a pessoa e como a aprendizagem é avaliada. Confiança, velocidade, engajamento e conclusão da tarefa são características do uso. Nenhuma delas é evidência de que a capacidade mudou.
 
 ## A versão curta
 
@@ -65,7 +65,7 @@ Médias escondem exatamente a variação que decide uma questão de equidade. Os
 
 ### "Eles relataram que aprenderam muito."
 
-O autorrelato mede percepção, aceitação, ansiedade e [[self-efficacy|autoeficácia]], e é bom nas quatro. Não é uma medida de capacidade demonstrada, porque as pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. A síntese da wiki sobre pesquisa de letramento em IA de professores relata uma lacuna substancial entre autoavaliação e desempenho medido, e os instrutores nela superestimaram consideravelmente a própria competência ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Pareie todo autorrelato com uma tarefa: identificar um erro numa saída, verificar uma fonte, escolher uma estratégia de uso, detectar viés ou bajulação, revisar uma resposta falha, calibrar a confiança contra a precisão. Um item assim num questionário transforma uma opinião em resultado.
+[[self-report-measures|O autorrelato]] mede percepção, aceitação, [[anxiety-and-stress|ansiedade]] e [[self-efficacy|autoeficácia]], e é bom nas quatro. Não é uma medida de capacidade demonstrada, porque as pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. A síntese da wiki sobre pesquisa de letramento em IA de professores relata uma lacuna substancial entre [[self-assessment|autoavaliação]] e desempenho medido, e os instrutores nela superestimaram consideravelmente a própria competência ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Pareie todo autorrelato com uma tarefa: identificar um erro numa saída, verificar uma fonte, escolher uma estratégia de uso, detectar viés ou bajulação, revisar uma resposta falha, calibrar a confiança contra a precisão. Um item assim num questionário transforma uma opinião em resultado.
 
 ### "Um estudante simulado é um substituto barato para um real."
 
@@ -183,7 +183,7 @@ A supervisão depende da expertise que a automação pesada desencoraja as pesso
 
 ### "Ensinar uso crítico e ético da IA custa produtividade."
 
-A automação não verificada produz retrabalho, incidentes de segurança, decisões discriminatórias, exposição jurídica, dano reputacional e confiança falsa, e cada um desses é um custo que o número de produtividade não contou. O funcionário que vale contratar é aquele que distribui o trabalho entre pessoas e ferramentas mantendo qualidade, confidencialidade, responsabilização e julgamento profissional. Esse é um argumento de produtividade, feito na direção que o balanço geralmente não vê ([[human-ai-collaboration|Colaboração Humano-IA]], [[governance|Governança de IA]]).
+A automação não verificada produz retrabalho, incidentes de segurança, decisões discriminatórias, [[legal-issues-and-risks|exposição jurídica]], dano reputacional e confiança falsa, e cada um desses é um custo que o número de produtividade não contou. O funcionário que vale contratar é aquele que distribui o trabalho entre pessoas e ferramentas mantendo qualidade, confidencialidade, responsabilização e julgamento profissional. Esse é um argumento de produtividade, feito na direção que o balanço geralmente não vê ([[human-ai-collaboration|Colaboração Humano-IA]], [[governance|Governança de IA]]).
 
 ## Responda ao que os estudantes acreditam
 
@@ -247,7 +247,7 @@ O texto da política não cria entendimento compartilhado. Estudantes e equipe l
 
 ### "A relutância do corpo docente é uma lacuna de formação."
 
-Às vezes é. Prontidão também é carga de trabalho, [[learner-identity|identidade profissional]], valores disciplinares, dúvidas sobre a validade da avaliação, apoio institucional escasso, incerteza sobre privacidade e um julgamento fundamentado de que uma aplicação específica não serve aos estudantes. O desenvolvimento, portanto, precisa cobrir competência prática, integração pedagógica, propósito e identidade, tempo, política, uso [[discipline-specific-aied|específico da disciplina]] e a opção de não adoção por princípio. Uma demonstração única de recursos não resolve uma mudança profissional e organizacional ([[educational-development|Desenvolvimento Educacional]]).
+Às vezes é. Prontidão também é carga de trabalho, [[learner-identity|identidade profissional]], valores disciplinares, dúvidas sobre a validade da avaliação, apoio institucional escasso, incerteza sobre privacidade e um julgamento fundamentado de que uma aplicação específica não serve aos estudantes. O desenvolvimento, portanto, precisa cobrir competência prática, integração pedagógica, propósito e identidade, tempo, política, uso [[discipline-specific-aied|específico da disciplina]] e a opção de não adoção por princípio. Uma demonstração única de recursos não resolve uma mudança profissional e [[change-management|organizacional]] ([[educational-development|Desenvolvimento Educacional]]).
 
 ### "Dizer às pessoas os fatos corretos é suficiente."
 
@@ -266,7 +266,7 @@ A versão resolvida, que você pode adaptar a qualquer item desta página:
 > **Equívoco:** "Uma boa tarefa gerada por IA mostra que o estudante aprendeu."
 > **Refutação:** "Isso não é necessariamente verdade. O produto mostra o que o estudante e a IA produziram juntos, mas não revela qual raciocínio o estudante executou."
 > **Substituição:** "A aprendizagem é demonstrada melhor quando o estudante consegue explicar, transferir, adaptar e reproduzir a capacidade."
-> **Aplicação:** "Faça o trabalho assistido por IA ser seguido de uma explicação, uma defesa oral, um registro de processo ou uma aplicação sem auxílio."
+> **Aplicação:** "Faça o trabalho assistido por IA ser seguido de uma explicação, [[oral-assessment|uma defesa oral]], um registro de processo ou uma aplicação sem auxílio."
 
 A substituição carrega o peso. Remover um equívoco sem fornecer uma explicação melhor deixa a pessoa sem nada com que pensar, e a velha crença volta na próxima vez que a experiência a confirmar.
 
@@ -292,7 +292,7 @@ Professores superestimaram substancialmente sua competência em IA quando o auto
 
 ### "Os pais não aceitarão nada além de uma proibição."
 
-Os pais estão perguntando se a coisa diante do filho deles é segura e se a credencial significa alguma coisa. Responda a essas duas diretamente, com as perguntas de segurança pedagógica e não com o filtro de conteúdo, e o argumento da proibição perde força. A pergunta do conselho é mais estreita que a manchete e mais fácil de defender.
+[[parents-and-families|Os pais]] estão perguntando se a coisa diante do filho deles é segura e se a credencial significa alguma coisa. Responda a essas duas diretamente, com as perguntas de segurança pedagógica e não com o filtro de conteúdo, e o argumento da proibição perde força. A pergunta do conselho é mais estreita que a manchete e mais fácil de defender.
 
 ### "Não conseguimos fazer defesas orais num curso expositivo deste tamanho."
 

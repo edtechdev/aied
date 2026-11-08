@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Đang là tháng Hai. Hiệu trưởng học vụ của bạn đã công bố một sáng kiến AI với một khoản ngân sách riêng, và bạn có một học kỳ để làm cho nó hiện ra trong các lớp học. Hoặc bạn đã chạy sáu buổi tập huấn mùa thu trước, phòng đầy người, và việc giảng dạy bạn dự giờ vẫn không thay đổi. Hoặc một trưởng khoa hỏi câu đơn giản vào lúc lập ngân sách: số tiền đó đã mua được gì?
 
-Cả ba tình huống đến từ cùng một lỗi thiết kế. Một buổi tập huấn cho người ta thấy một công cụ làm được gì. Thực hành thay đổi khi một giảng viên dành thời gian có hỗ trợ, có cấu trúc cho một vấn đề trong chính khóa học của mình, đủ lâu để một thói quen mới thay thế thói quen cũ, với tổ chức nói “được” với thử nghiệm đó thay vì chỉ chịu đựng nó.
+Cả ba tình huống đến từ cùng một lỗi thiết kế. Một buổi tập huấn cho người ta thấy một công cụ làm được gì. Thực hành thay đổi khi một [[teacher-role|giảng viên]] dành thời gian có hỗ trợ, có cấu trúc cho một vấn đề trong chính khóa học của mình, đủ lâu để một thói quen mới thay thế thói quen cũ, với tổ chức nói “được” với thử nghiệm đó thay vì chỉ chịu đựng nó.
 
 Điểm mấu chốt cho cuộc họp: hãy chuẩn hóa một chu trình buổi học trong đó mỗi người tham gia mang tới một sản phẩm thật từ khóa học của mình và ra về với một sản phẩm đã được sửa, đặt việc xác minh, khai báo và kiểm soát rủi ro vào bên trong văn bản làm việc thay vì một bài nói về đạo đức ở cuối, kéo chương trình dài hơn một ngày và ghép nó với cố vấn, chạy các nhóm theo lĩnh vực, và báo cáo những sản phẩm người ta đã tạo ra ở một buổi theo dõi sau đó thay vì báo cáo họ cảm thấy tự tin thế nào vào chiều cuối cùng.
 
@@ -54,9 +54,12 @@ Hai kết quả nữa giải thích vì sao các buổi trình diễn không lan
 
 Điểm chung của các nghiên cứu đó: việc học đến từ việc phê phán và sửa tài liệu. Người ta cải thiện thứ đang ở trước mặt, và họ cải thiện nó nhanh hơn khi có một đồng nghiệp cũng đang đọc nó.
 
+Năng lực nghiên cứu có thể là mục tiêu chứ không chỉ là hệ quả phụ. Trong một chương trình có AI hỗ trợ kéo dài sáu tuần với 105 giáo viên hóa học, mọi chiều được đo đều cải thiện từ trước đến sau can thiệp (Cohen's dz = 0.47 đến 0.63), và thay đổi lớn nhất là năng lực nghiên cứu, tăng từ 3.50 (SD = 0.88) lên 4.16 (SD = 0.52; dz = 0.63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay và cộng sự (2026)]]). Giáo viên chuyển từ việc mô tả AI như một công cụ truy xuất và viết sang mô tả nó như hỗ trợ cho việc lập kế hoạch nghiên cứu và các quyết định dựa trên dữ liệu. Thiết kế là nghiên cứu một nhóm, đo trước và sau, nên hãy coi mức tăng là bằng chứng về chương trình chứ không phải hiệu ứng nhân quả; điều nó bổ sung là một cách cụ thể để đưa vai trò Nhà nghiên cứu vào cùng chu trình phát triển chuyên môn.
+
+
 ## Đừng coi kỹ năng là mảnh ghép còn thiếu
 
-Chẩn đoán hấp dẫn là một khoảng trống năng lực, được lấp bằng giảng dạy tốt hơn. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hsieh (2026)]] khảo sát 898 giảng viên đại học trên các thang [[tpack|AI-TPACK]] và phát hiện những giảng viên hiểu các công cụ tạo sinh vận hành thế nào, hoặc có thể dùng chúng thành thạo, không có khả năng cao hơn những người không làm được trong việc báo cáo rằng họ đã sáng tạo và triển khai các thực hành giảng dạy mới. Cấu trúc AI-TPACK tích hợp hoàn toàn không có đường dẫn trực tiếp tới hành vi đổi mới. Ảnh hưởng của nó chạy hoàn toàn qua [[ai-literacy|năng lực AI]], [[self-efficacy|hiệu năng tự thân]] trong giảng dạy và bản sắc nghề nghiệp.
+Chẩn đoán hấp dẫn là một khoảng trống năng lực, được lấp bằng giảng dạy tốt hơn. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hsieh (2026)]] khảo sát 898 giảng viên đại học trên các thang [[tpack|AI-TPACK]] và phát hiện những giảng viên hiểu các công cụ tạo sinh vận hành thế nào, hoặc có thể dùng chúng thành thạo, không có khả năng cao hơn những người không làm được trong việc báo cáo rằng họ đã sáng tạo và triển khai các [[pedagogy|thực hành giảng dạy]] mới. Cấu trúc AI-TPACK tích hợp hoàn toàn không có đường dẫn trực tiếp tới hành vi đổi mới. Ảnh hưởng của nó chạy hoàn toàn qua [[ai-literacy|năng lực AI]], [[self-efficacy|hiệu năng tự thân]] trong giảng dạy và bản sắc nghề nghiệp.
 
 Điều đó thay đổi mục đích của một buổi học. Một buổi dạo qua các tính năng của công cụ không giải quyết điều nào trong ba điều trên. Một buổi trong đó giảng viên viết lại bài tập của chính mình, bảo vệ thay đổi đó và nghe một đồng nghiệp đồng ý rằng nó tốt hơn sẽ giải quyết cả ba cùng lúc, đó là lý do chu trình sản phẩm vượt qua buổi trình diễn ngay cả khi nội dung mỏng hơn.
 
@@ -64,7 +67,7 @@ Hàm ý thiết kế thì khó chịu với bất kỳ ai có một bộ slide: 
 
 ## Đặt những phần khó vào mẫu họ dùng
 
-[[designing-ai-professional-development-itpack-2026|Khung i-TPACK của Dogan (2026)]] xuất phát từ một tổng quan PRISMA về phát triển chuyên môn AI cộng với một lượt tìm kiếm làm lộ ra thêm 17 nghiên cứu. Khung này căn năm miền tri thức (tri thức công nghệ thông minh, tri thức nội dung công nghệ, tri thức sư phạm công nghệ, i-TPACK tích hợp, và đạo đức AI) với bốn con đường dựa trên bằng chứng: [[active-learning|học tập chủ động]], mô hình và ví dụ, huấn luyện kèm hỗ trợ chuyên gia, và [[feedback|phản hồi]] cùng suy ngẫm, được điều hành bởi năm nguyên tắc từ Hợp lực tập thể vượt qua các ốc đảo tới Tính linh hoạt trong khuôn khổ.
+[[designing-ai-professional-development-itpack-2026|Khung i-TPACK của Dogan (2026)]] xuất phát từ một [[meta-analysis-systematic-review|tổng quan PRISMA]] về phát triển chuyên môn AI cộng với một lượt tìm kiếm làm lộ ra thêm 17 nghiên cứu. Khung này căn năm miền tri thức (tri thức công nghệ thông minh, tri thức nội dung công nghệ, tri thức sư phạm công nghệ, i-TPACK tích hợp, và [[ethics|đạo đức AI]]) với bốn con đường dựa trên bằng chứng: [[active-learning|học tập chủ động]], mô hình và ví dụ, huấn luyện kèm hỗ trợ chuyên gia, và [[feedback|phản hồi]] cùng suy ngẫm, được điều hành bởi năm nguyên tắc từ Hợp lực tập thể vượt qua các ốc đảo tới Tính linh hoạt trong khuôn khổ.
 
 Phê bình sắc nhất của khung này về lĩnh vực là đạo đức được xử lý hời hợt hoặc vắng hẳn trong nhiều chương trình hiện có, và cách sửa nằm ở vị trí đặt nó. Việc xác minh, khai báo và kiểm soát rủi ro thuộc về văn bản mà người tham gia dùng suốt tuần, không phải 20 phút cuối của buổi cuối. Một mẫu có cột kiểm soát rủi ro sẽ được điền vào; một đoạn kết về sử dụng có trách nhiệm sẽ chỉ được gật đầu.
 
@@ -74,7 +77,7 @@ Giới hạn của khung này là nó mang tính khái niệm, không có dữ l
 
 Nếu chương trình của bạn có chỗ cho một chủ đề sâu, hãy chọn đánh giá. Trong [[genai-pd-ai-pck-learning-gain-2026|chương trình tám giờ của Talebzadeh (2026)]], bốn buổi hai giờ với 163 giảng viên và sinh viên sư phạm, tổng AI-PCK tăng từ 151.65 lên 220.14 (*d* = 2.36, *p* < .001). Hiệu ứng thành phần lớn nhất là Rubric đánh giá (*d* = 2.19), cũng là lĩnh vực yếu nhất ở lần đo trước. Mức tăng hẹp hơn ở phương pháp giảng dạy so với ở đánh giá.
 
-Rubric cũng là nơi có thể đưa nỗi lo trong phòng vào việc có ích. Một người tham gia đang băn khoăn về việc sinh viên dựa vào mô hình có thể viết một dòng rubric làm cho lập luận hiện ra, điều đó biến một nỗi lo thành một quyết định thiết kế có ngày tháng.
+Rubric cũng là nơi có thể đưa [[anxiety-and-stress|nỗi lo]] trong phòng vào việc có ích. Một người tham gia đang băn khoăn về việc sinh viên dựa vào mô hình có thể viết một dòng rubric làm cho lập luận hiện ra, điều đó biến một nỗi lo thành một quyết định thiết kế có ngày tháng.
 
 Hãy lập ngân sách vượt quá một ngày. Trong chính chương trình đó, sinh viên sư phạm tăng nhiều hơn đáng kể so với người đã có kinh nghiệm (*p* = .033), chủ yếu ở thiết kế nhiệm vụ theo tình huống và thiết kế rubric. Những giảng viên có kinh nghiệm nói tám giờ là quá ngắn để dịch chuyển những thói quen đã ăn sâu, và đề nghị hỗ trợ dài hạn, dựa trên cố vấn.
 
@@ -84,7 +87,7 @@ Chạy một buổi tập huấn chung cho tất cả và bạn sẽ dành phầ
 
 Ba miền thấp đó tương quan với nhau ở mức r = .81-.91, điều này có khả năng có nghĩa là một năng lực giảng dạy bằng các công cụ này chứ không phải ba kỹ năng riêng biệt. Dạy nó như một nền tảng chung và bạn tiết kiệm được hai buổi.
 
-Rồi chia theo kinh nghiệm. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hsieh]] phát hiện bản sắc nghề nghiệp dự báo hành vi đổi mới mạnh gần gấp đôi ở những người dùng AI không thường xuyên so với người dùng hằng ngày, một kết quả ở mức sát ngưỡng nhưng là một chỉ dấu hữu ích: công việc về bản sắc mang lại nhiều nhất với những người hầu như không chạm vào các công cụ, trong khi người dùng thường xuyên nhận được nhiều hơn từ các dự án liên ngành so với hướng dẫn nền tảng. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] lập luận cho các nhóm theo lĩnh vực như bối cảnh của chính cuộc trò chuyện đó, trên lý lẽ rằng một nhà vật lý và một nhà sử học không giải cùng một bài toán.
+Rồi chia theo kinh nghiệm. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hsieh]] phát hiện [[learner-identity|bản sắc nghề nghiệp]] dự báo hành vi đổi mới mạnh gần gấp đôi ở những người dùng AI không thường xuyên so với người dùng hằng ngày, một kết quả ở mức sát ngưỡng nhưng là một chỉ dấu hữu ích: công việc về bản sắc mang lại nhiều nhất với những người hầu như không chạm vào các công cụ, trong khi người dùng thường xuyên nhận được nhiều hơn từ các dự án liên ngành so với hướng dẫn nền tảng. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] lập luận cho các nhóm theo lĩnh vực như bối cảnh của chính cuộc trò chuyện đó, trên lý lẽ rằng một nhà vật lý và một nhà sử học không giải cùng một bài toán.
 
 ## Mở đầu bằng câu hỏi mà những người hoài nghi đang hỏi
 
@@ -92,7 +95,7 @@ Rồi chia theo kinh nghiệm. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hs
 
 Cảm giác tội lỗi thì đo được, và nó không phân bố đều. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] khảo sát 109 người làm học thuật và xác định một “phức cảm tội lỗi AI”: 35% lo rằng việc dùng AI làm suy yếu uy tín của họ và 26% báo cáo cảm thấy mình đang “gian lận”, với cảm giác tội lỗi trước khi dùng về uy tín lớn hơn sự hối hận sau khi dùng, nên nỗi khổ là mang tính xã hội nghề nghiệp chứ không phải riêng tư. Bốn kiểu người hiện ra: Người chấp nhận thoải mái (27%), Người không dùng nhưng thấy tội lỗi (29%), Người dùng thận trọng (28%) và Người tránh né vì bị giày vò về đạo đức (16%). Một chương trình đang giải quyết bốn vấn đề khác nhau, và 29% những người thấy tội lỗi trong khi không dùng công cụ cần một thứ gì đó khác ngoài một buổi trình diễn.
 
-Quy mô của nhiệm vụ hiện ra trong [[watson-rainie-ai-challenge-faculty-survey-2026|khảo sát của AAC&U/Elon trên 1,057 giảng viên (Watson và Rainie, 2026)]]: 68% nói trường của họ chưa chuẩn bị cho giảng viên cách dùng AI sinh tạo cho việc dạy và cố vấn, với tỷ lệ tương tự cho hoạt động học thuật. 26% người trả lời hoàn toàn không dùng các công cụ này, trong đó có 40% giảng viên nghệ thuật và nhân văn, và 82% nêu sự phản kháng của đồng nghiệp như một rào cản đối với việc áp dụng ở cấp khoa.
+Quy mô của nhiệm vụ hiện ra trong [[watson-rainie-ai-challenge-faculty-survey-2026|khảo sát của AAC&U/Elon trên 1,057 giảng viên (Watson và Rainie, 2026)]]: 68% nói trường của họ chưa chuẩn bị cho giảng viên cách dùng [[generative-ai|AI sinh tạo]] cho việc dạy và cố vấn, với tỷ lệ tương tự cho hoạt động học thuật. 26% người trả lời hoàn toàn không dùng các công cụ này, trong đó có 40% giảng viên nghệ thuật và nhân văn, và 82% nêu sự phản kháng của đồng nghiệp như một rào cản đối với việc áp dụng ở cấp khoa.
 
 ## Sửa những điều kiện mà chương trình học không sửa được
 
@@ -100,13 +103,13 @@ Quy mô của nhiệm vụ hiện ra trong [[watson-rainie-ai-challenge-faculty-
 
 Vậy những đòn bẩy mà một người phụ trách chương trình có là những thứ gần gũi và cụ thể: thực hành trực tiếp, sự cho phép rõ ràng để thử nghiệm, tài liệu bằng những ngôn ngữ giảng viên thực sự làm việc, sự hậu thuẫn thấy được từ đơn vị. Cách đóng khung chính sách ở cấp quốc gia không tự nó mang lại mức sẵn sàng. Chỗ nào độ nhạy với rủi ro cắn vào, câu trả lời là cho nó một nơi để được thực hành chứ không phải nói giảm đi sự thận trọng, và thiết kế rubric cùng các quy trình xác minh chính là nơi đó.
 
-Hai ma sát thực tiễn thuộc cùng cuộc trò chuyện này. Ý định tiếp tục sử dụng là chiều hài lòng được đánh giá cao nhất trong [[faculty-development-centers-genai-training-optimization-2026|Bi và cộng sự (2026)]] trong khi tính dễ dùng của công cụ là chiều thấp nhất, nên một phần những gì đọc như sự miễn cưỡng thực ra là ma sát nền tảng. Và [[ai-emotional-intelligence-teacher-development-2026|Aponte và cộng sự (2026)]] chỉ ra giới hạn cứng: AI không thể bù đắp cho tình trạng quá tải kinh niên, văn hóa trách nhiệm trừng phạt, lãnh đạo yếu, hay việc thiếu thời gian được bảo vệ. Họ lập luận rằng nó chỉ đóng góp vào phát triển cảm xúc xã hội của giảng viên với tư cách hạ tầng quan hệ (thời gian được bảo vệ cho cố vấn, đối thoại đồng nghiệp, cộng đồng thực hành) và đề xuất *đậm đặc quan hệ* như một tiêu chuẩn, đếm niềm tin, sự liên tục của hỗ trợ và đồng điều chỉnh thay vì số giờ tiếp xúc. Hai khẳng định dịch được thành thiết kế chương trình: thời gian được giải phóng sẽ bị hút lại thành nhu cầu thêm trừ khi tổ chức chính thức yêu cầu nó phải được tái đầu tư, và các tác nhân hội thoại có thể lặng lẽ thay thế những cuộc thương lượng khó khăn giữa người với người vốn tạo ra sự trưởng thành. Khung của họ là một suy luận định hướng, không phải một khẳng định nhân quả đã được kiểm nghiệm.
+Hai ma sát thực tiễn thuộc cùng cuộc trò chuyện này. Ý định tiếp tục sử dụng là chiều hài lòng được đánh giá cao nhất trong [[faculty-development-centers-genai-training-optimization-2026|Bi và cộng sự (2026)]] trong khi [[usability-research|tính dễ dùng]] của công cụ là chiều thấp nhất, nên một phần những gì đọc như sự miễn cưỡng thực ra là ma sát nền tảng. Và [[ai-emotional-intelligence-teacher-development-2026|Aponte và cộng sự (2026)]] chỉ ra giới hạn cứng: AI không thể bù đắp cho tình trạng quá tải kinh niên, văn hóa trách nhiệm trừng phạt, lãnh đạo yếu, hay việc thiếu thời gian được bảo vệ. Họ lập luận rằng nó chỉ đóng góp vào phát triển cảm xúc xã hội của giảng viên với tư cách hạ tầng quan hệ (thời gian được bảo vệ cho cố vấn, đối thoại đồng nghiệp, cộng đồng thực hành) và đề xuất *đậm đặc quan hệ* như một tiêu chuẩn, đếm niềm tin, sự liên tục của hỗ trợ và đồng điều chỉnh thay vì số giờ tiếp xúc. Hai khẳng định dịch được thành thiết kế chương trình: thời gian được giải phóng sẽ bị hút lại thành nhu cầu thêm trừ khi tổ chức chính thức yêu cầu nó phải được tái đầu tư, và [[conversational-ai|các tác nhân hội thoại]] có thể lặng lẽ thay thế những cuộc thương lượng khó khăn giữa người với người vốn tạo ra sự trưởng thành. Khung của họ là một suy luận định hướng, không phải một khẳng định nhân quả đã được kiểm nghiệm.
 
 Nếu những điều kiện đó là của bạn, một buổi tập huấn tốt hơn sẽ không sửa được chúng, và nói thẳng điều đó hữu ích hơn là hứa hẹn điều ngược lại.
 
 ## Báo cáo sản phẩm ở một thời điểm muộn hơn
 
-Khung thể chế đáng để căn theo là [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke và Nickel (2026)]], với nghiên cứu dựa trên thiết kế qua hai chu kỳ lớn và 114 người tham gia (giảng viên từ 28 cơ sở ở Hoa Kỳ và 11 quốc gia, cộng với giám đốc các trung tâm dạy học và điều phối viên kiểm định) đã tạo ra sáu tiêu chuẩn bao quát toàn bộ vai trò học thuật: Giảng viên, Điều phối viên, Lãnh đạo, Nhà nghiên cứu, Người học và Người đóng góp. Các khung và tiêu chuẩn giáo dục hiện có nhắm tới giáo viên [[k-12|phổ thông]] hoặc chỉ bàn về việc dạy, nên một trung tâm ánh xạ được chương trình của mình lên các tiêu chuẩn này thì cũng ánh xạ được lên việc đánh giá công việc và kiểm định, đó cũng là lập luận trụ được qua một lần xét ngân sách.
+Khung thể chế đáng để căn theo là [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke và Nickel (2026)]], với [[design-based-research|nghiên cứu dựa trên thiết kế]] qua hai chu kỳ lớn và 114 người tham gia (giảng viên từ 28 cơ sở ở Hoa Kỳ và 11 quốc gia, cộng với giám đốc các trung tâm dạy học và điều phối viên kiểm định) đã tạo ra sáu tiêu chuẩn bao quát toàn bộ vai trò học thuật: Giảng viên, Điều phối viên, Lãnh đạo, Nhà nghiên cứu, Người học và Người đóng góp. Các khung và tiêu chuẩn giáo dục hiện có nhắm tới giáo viên [[k-12|phổ thông]] hoặc chỉ bàn về việc dạy, nên một trung tâm ánh xạ được chương trình của mình lên các tiêu chuẩn này thì cũng ánh xạ được lên việc đánh giá công việc và kiểm định, đó cũng là lập luận trụ được qua một lần xét ngân sách.
 
 Rồi hãy cẩn thận trong cách đánh giá, vì phần lớn tài liệu này đo những ấn tượng [[self-report-measures|tự báo cáo]]. Bi và cộng sự đo mức sẵn sàng tự báo cáo chứ không đo việc giảng dạy được thực thi, và các nhóm của họ hình thành qua tự nguyện đăng ký chứ không qua phân ngẫu nhiên, nên kết quả là các tương quan. [[ai-teaching-innovation-ai-tpack-2026|Bai và Hsieh]] là nghiên cứu cắt ngang, tự chọn, lấy từ tám trường đại học ở một quốc gia, và đo mọi cấu trúc từ cùng những người trả lời tại cùng một thời điểm. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo và các đồng nghiệp]] không thể xác lập chiều nhân quả, điều này quan trọng vì khẳng định mạnh nhất của họ, rằng tri thức công nghệ đóng vai trò cửa ngõ, là thứ mà một thiết kế cắt ngang không thể giải quyết. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] báo cáo các hiệu ứng rất lớn mà không có phân ngẫu nhiên, theo dõi hay phân tích theo lĩnh vực, nên *d* = 2.36 đọc như một hiệu ứng ngắn hạn. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] là tự dân tộc học, và [[ai-emotional-intelligence-teacher-development-2026|Aponte và cộng sự]] nói rõ khung của họ là khái niệm.
 
@@ -142,7 +145,7 @@ Một mệnh lệnh từ tổ chức sẽ mang chương trình đi. Hệ số Ka
 
 **2.** Viết lại chương trình buổi học để buổi đầu bắt đầu từ sản phẩm đó, và thêm việc xác minh, khai báo và kiểm soát rủi ro như các cột trong mẫu mà người tham gia mang theo suốt tuần.
 
-**3.** Chuyển một buổi sang thiết kế rubric và đánh giá, và để người tham gia ra về với rubric đã viết xong.
+**3.** Chuyển một buổi sang thiết kế rubric và [[assessment|đánh giá]], và để người tham gia ra về với rubric đã viết xong.
 
 **4.** Xin một câu bằng văn bản từ trưởng khoa hoặc hiệu trưởng học vụ rằng việc thử nghiệm được cho phép, rồi bảo vệ số giờ đó một cách chính thức để chúng không bị hút lại.
 

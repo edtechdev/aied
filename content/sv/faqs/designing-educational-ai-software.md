@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Svaret är snävare än de flesta produktspecifikationer antar. Utbildnings-AI f
 
 **1.** Skriv ned vad systemet beslutar och vad en lärare beslutar. Den gränsen blir arkitekturen.
 
-**2.** Utvärdera interaktion över flera turer, med ämnesmedvetenhet, mot verklig kursplan, inte enskilda promptar mot en allmän säkerhetsrubrik.
+**2.** Utvärdera interaktion över flera turer, med ämnesmedvetenhet, mot verklig [[curriculum-design|kursplan]], inte enskilda promptar mot en allmän säkerhetsrubrik.
 
 **3.** Grunda svaren i godkänt innehåll och håll den verifierande komponenten skild från den samtalandes.
 
@@ -65,7 +65,7 @@ Det överförbara är separationen: komponenterna som verifierar samtalar inte, 
 
 ## Behandla studentarbete som opålitlig indata
 
-Den hotmodell som de flesta designtips utelämnar sitter inuti artefakten som bedöms. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariella red-team-utvärdering]] testade om studenter kunde manipulera en LLM-baserad rättare genom promptinjektion i sina inlämningar, och manipulationen fungerade: injektioner som instruerar, ramar om eller rollspelar rättaren förskjuter poängen utan att ändra arbetet.
+Den hotmodell som de flesta designtips utelämnar sitter inuti artefakten som bedöms. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) adversariella red-team-utvärdering]] testade om studenter kunde manipulera en [[llm|LLM]]-baserad rättare genom promptinjektion i sina inlämningar, och manipulationen fungerade: injektioner som instruerar, ramar om eller rollspelar rättaren förskjuter poängen utan att ändra arbetet.
 
 Håll rubriken och instruktionerna utanför det studentkontrollerade kontextfönstret, ta bort eller flagga instruktionsliknande innehåll, låt aldrig en inlämning sätta sina egna kriterier, och behåll ett mänskligt beslut om varje betydelsefullt betyg. En rättare som läser sina instruktioner från texten den bedömer har lämnat rubriken till kandidaten.
 
@@ -96,6 +96,9 @@ En större modell löser pedagogiken. Skalan förbättrade inte säkerheten pål
 Ett bra hämtningsindex betyder att innehållet är hanterat. EduGuard parar hämtning med en separat verifierare och testar fientliga promptar som ber om direkta svar, eftersom grundad hämtning fortfarande lämnar en väg till överavslöjande.
 
 Läraren är reservutvägen. Alla sex lärare i designstudien bad om loggning, larm och överstyrning som ett villkor för yrkesansvar. Ett supportärende är ingen överstyrning.
+
+Nöje är en ersättning för passform. I en enkät med 405 designstuderande på avancerad nivå ([[chu-design-students-ai-agent-tam-ttf-2026|Chu och Liu (2026)]]) hade uppgift–teknik-anpassning en egen väg till attityd (β = 0,224) vid sidan av [[technology-acceptance-model|upplevd användbarhet]], och uppgiftens egenskaper drev anpassningen mer än verktygets egenskaper (β = 0,322 mot 0,266). Upplevt nöje höjde användarvänligheten och gjorde ingenting för användbarheten (β = −0,033, p = 0,483). Det är värt att bygga in glädje, men det ersätter inte att funktionerna matchar uppgiftens steg.
+
 
 Tillgänglighet är ett senare ärende. Den ligger i specifikationen eller blir en omskrivning, och genererad alt-text och undertexter behöver fortfarande en mänsklig kontroll.
 

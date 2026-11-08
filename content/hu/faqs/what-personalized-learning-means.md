@@ -1,7 +1,7 @@
 ---
 title: "Mit jelent valójában a személyre szabott tanulás, és mikor segít?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 A platform személyre szabott élményt ígér minden diáknak. Átrendezheti a gyakorlókérdéseket, újraírhat egy magyarázatot egy diák futball iránti érdeklődése köré, emlékezhet a múlt heti beszélgetésre, vagy kiválaszthatja, mit tanul a diák következőként. Mind a négyet személyre szabásnak nevezik, és csak egyet teszteltek valami hasonló formában.
 
-Rövid válasz egy kollégának: a személyre szabás a tanulási élmény valamely részének megváltoztatását nevezi meg, és az értéke három dologtól függ: mit adaptálnak, milyen bizonyíték hajtja az adaptációt, és hogy a változás javítja-e a szándékolt tanulást. Egy ismerős példa vagy egy reagáló beszélgetés személyesnek érződhet, miközben semmit nem tanít. Egy hatékony adaptáció láthatatlan lehet. E tudásbázis legvilágosabb kísérleti eredménye szűk: egy öt hónapos Python-tanúsítvány-kurzusban tíz tajpeji középiskolában az adaptív feladatsorrendhez randomizált diákok mintegy 0,150 szórással értek el magasabb pontszámot egy személyes, támogatás nélküli záróvizsgán, mint a rögzített sorrendű, azonos chatbot-hozzáféréssel rendelkező diákok ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung és mtsai, 2026]]). Ez a sorrendezést támasztja alá meghatározott feltételeken. Nem érvényesíti mindazt, amit személyre szabottként adnak el.
+Íme a rövid válasz: a személyre szabás a tanulási élmény valamely részének megváltoztatását nevezi meg, és az értéke három dologtól függ: mit adaptálnak, milyen bizonyíték hajtja az adaptációt, és hogy a változás javítja-e a szándékolt tanulást. Egy ismerős példa vagy egy reagáló beszélgetés személyesnek érződhet, miközben semmit nem tanít. Egy hatékony adaptáció láthatatlan lehet. E tudásbázis legvilágosabb kísérleti eredménye szűk: egy öt hónapos Python-tanúsítvány-kurzusban tíz tajpeji középiskolában az adaptív feladatsorrendhez randomizált diákok mintegy 0,150 szórással értek el magasabb pontszámot egy személyes, támogatás nélküli [[summative-assessment|záróvizsgán]], mint a rögzített sorrendű, azonos chatbot-hozzáféréssel rendelkező diákok ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung és mtsai, 2026]]). Ez a sorrendezést támasztja alá meghatározott feltételeken. Nem érvényesíti mindazt, amit személyre szabottként adnak el.
 
 ## A rövid változat
 
 **1.** Nevezze meg, melyik részt adaptálják: megjelenítés, érdeklődési kontextus, nehézség és támogatás, sorrend és tempó, vagy célok és választás.
 
-**2.** Kérdezze meg, milyen bizonyíték indítja az adaptációt, és hogyan korrigálják a téves tanulómodellt.
+**2.** Kérdezze meg, milyen bizonyíték indítja az adaptációt, és hogyan korrigálják a téves [[student-modeling|tanulómodellt]].
 
 **3.** Ellenőrizze, hogy az adaptáció megőrzi-e a célt, vagy csendben lejjebb viszi.
 
@@ -60,11 +60,11 @@ Az [[adaptive-learning|adaptív tanulás]] az egyik mechanizmus a harmadikhoz é
 
 ## Mit mutat a bizonyíték
 
-**Egy konkrét adaptáció javította a támogatás nélküli teljesítményt.** Chung és mtsai olyan platformot építettek, amely egy őrzött Python-chatbotot kapcsol össze egy megerősítéses tanulási algoritmussal, amely a következő gyakorlófeladatot választja, és tíz középiskolában telepítették egy öt hónapos tanúsítványkurzusban. A diákokat az adaptív sorrendezés és a rögzített sorrend között randomizálták, mindkét csoport azonos chatbot-hozzáféréssel, ez az az elrendezés, amely lehetővé teszi, hogy a sorrendezés magáénak tudja a különbséget. A 0,150 szórásnyi előny egy személyes, támogatás nélküli záróvizsgán jelent meg. Két dolgot érdemes megtartani: az összehasonlítás elválasztja a sorrendezést a hozzáféréstől, és a kimenet a támogatás nélküli teljesítmény, nem az elköteleződés. Amit a vizsgálat nem mutat meg, hogy a személyre szabott magyarázatok, az újraírt anyagok vagy a megjegyzett preferenciák segítenek. Ezek nem voltak a beavatkozás.
+**Egy konkrét adaptáció javította a támogatás nélküli teljesítményt.** Chung és mtsai olyan platformot építettek, amely egy őrzött Python-chatbotot kapcsol össze egy [[reinforcement-learning|megerősítéses tanulási]] algoritmussal, amely a következő gyakorlófeladatot választja, és tíz középiskolában telepítették egy öt hónapos tanúsítványkurzusban. A diákokat az adaptív sorrendezés és a rögzített sorrend között randomizálták, mindkét csoport azonos [[conversational-ai|chatbot]]-hozzáféréssel, ez az az elrendezés, amely lehetővé teszi, hogy a sorrendezés magáénak tudja a különbséget. A 0,150 szórásnyi előny egy személyes, támogatás nélküli záróvizsgán jelent meg. Két dolgot érdemes megtartani: az összehasonlítás elválasztja a sorrendezést a hozzáféréstől, és a kimenet a támogatás nélküli teljesítmény, nem az elköteleződés. Amit a vizsgálat nem mutat meg, hogy a személyre szabott magyarázatok, az újraírt anyagok vagy a megjegyzett preferenciák segítenek. Ezek nem voltak a beavatkozás.
 
-**Az érzékelt személyre szabás gyengébb önszabályozással járhat együtt.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin és Qiu (2026)]] 486 kínai egyetemi hallgatót követett három felmérési hullámon át, és azt találták, hogy azok a diákok, akik adaptív környezetüket személyre szabottabbnak érzékelték, gyengébb [[self-regulated-learning|önszabályozott tanulásról]] számoltak be. Az asszociáció nagy részét a tanulmányi érzelmek hordozták: a csökkent élvezet a megnövekedett szorongással és unalommal együtt a teljes hatás több mint felét adta. Az elrendezés megfigyeléses és önbeszámolós, ezért nem tudja megállapítani, hogy a személyre szabás okozta a csökkenést. Azt viszont azonosítja, milyen kimenetet kell egy pilotnak figyelnie, mert egy rendszer, amely minden bizonytalanságra gyorsan válaszol, eltávolíthatja a tervezést és az ítéletet, amelyet a kurzus építeni hivatott.
+**Az érzékelt személyre szabás gyengébb önszabályozással járhat együtt.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin és Qiu (2026)]] 486 kínai egyetemi hallgatót követett három felmérési hullámon át, és azt találták, hogy azok a diákok, akik adaptív környezetüket személyre szabottabbnak érzékelték, gyengébb [[self-regulated-learning|önszabályozott tanulásról]] számoltak be. Az asszociáció nagy részét a tanulmányi érzelmek hordozták: a csökkent élvezet a megnövekedett [[anxiety-and-stress|szorongással]] és unalommal együtt a teljes hatás több mint felét adta. Az elrendezés megfigyeléses és [[self-report-measures|önbeszámolós]], ezért nem tudja megállapítani, hogy a személyre szabás okozta a csökkenést. Azt viszont azonosítja, milyen kimenetet kell egy pilotnak figyelnie, mert egy rendszer, amely minden bizonytalanságra gyorsan válaszol, eltávolíthatja a tervezést és az ítéletet, amelyet a kurzus építeni hivatott.
 
-**Az érdeklődés és a megértés külön ellenőrzés.** A [[personalized-learning]] szintézis Bernstein és Sibia *Flawed but Memorable* című, érdeklődésre személyre szabott informatikai analógiákról szóló kis kvalitatív preprintjét tárgyalja. A diákok reakciói változóak voltak, és az analógia forrásterületének ismerőssége segített nekik észrevenni, hol vall kudarcot az analógia. A gyakorlati olvasat: kérdezze meg, mit tudnak már a tanulók, valamint azt is, mit élveznek, és a jelentett emlékezetességet élménymérőként kezelje, nem tanulási eredményként.
+**Az érdeklődés és a megértés külön ellenőrzés.** A [[personalized-learning]] szintézis Bernstein és Sibia *Flawed but Memorable* című, érdeklődésre személyre szabott informatikai analógiákról szóló kis [[qualitative-research|kvalitatív]] preprintjét tárgyalja. A diákok reakciói változóak voltak, és az analógia forrásterületének ismerőssége segített nekik észrevenni, hol vall kudarcot az analógia. A gyakorlati olvasat: kérdezze meg, mit tudnak már a tanulók, valamint azt is, mit élveznek, és a jelentett emlékezetességet élménymérőként kezelje, nem tanulási eredményként.
 
 ## Ellenőrizze a diagnózist, mielőtt megbízik az adaptációban
 
@@ -86,7 +86,7 @@ Gyűjtsön arányos információt. Egy érdeklődés-alapú példa ritkán igén
 
 ## Hogyan néz ez ki egy kurzusban
 
-Egy bevezető matematikai kurzusban egy rövid diagnosztika elválaszthatja az előfeltétel-tévképzetet egy számítási hibától. A tévképzettel rendelkező diák célzott magyarázatot és egy kidolgozott példát kap. A másik továbblép az alkalmazáshoz. Mindketten elvégeznek egy hasonló önálló feladatot, köztük egy alkalmazást megváltozott kontextusban.
+Egy bevezető matematikai kurzusban egy rövid diagnosztika elválaszthatja az előfeltétel-[[misconceptions|tévképzetet]] egy számítási hibától. A tévképzettel rendelkező diák célzott magyarázatot és egy kidolgozott példát kap. A másik továbblép az alkalmazáshoz. Mindketten elvégeznek egy hasonló önálló feladatot, köztük egy alkalmazást megváltozott kontextusban.
 
 A diákok választhatnak ismerős alkalmazási kontextusok közül, miközben a matematikai cél rögzített és látható marad. Az oktató ellenőrzi, hogy bármelyik útvonal javította-e a megértést, hogy a diákok el tudják-e magyarázni az érvelésüket, és hogy valaki beragadt-e a felzárkóztatásba. Kezelje ezt pilotálandó tervként; semmilyen platformot nem érvényesítettek ebben a konfigurációban.
 
@@ -96,7 +96,7 @@ Egy olvasásigényes kurzusban egy szószedet vagy opcionális magyarázat javí
 
 Hasonlítsa a személyre szabott változatot valami hihetőhöz: egy jól megtervezett közös sorrendhez, az adaptív sorrendezés nélküli azonos tutorhoz, vagy egy válogatott példamenühez. Ha a személyre szabott karja több gyakorlást, több visszajelzést és több időt is ad, az összehasonlítás nem képes izolálni a személyre szabást, és az őszinte jelentés ezt fogja mondani.
 
-Mérje a támogatás nélküli teljesítményt, a megtartást vagy a transzfert, ahol tudja, az időt és az erőfeszítést, a tanulói ügynökséget és azt, ki profitál. Tartsa az elégedettséget és az érzékelt illeszkedést további kimenetekként, ne címsorként. Döntse el előre, milyen javulás igazolná a fejlesztési, monitorozási és adatkezelési költségeket, mert ezeket a költségeket akkor is kifizetik, ha a hatás nem jelenik meg.
+Mérje a támogatás nélküli teljesítményt, a megtartást vagy a transzfert, ahol tudja, az időt és az erőfeszítést, a [[agency|tanulói ügynökséget]] és azt, ki profitál. Tartsa az elégedettséget és az érzékelt illeszkedést további kimenetekként, ne címsorként. Döntse el előre, milyen javulás igazolná a fejlesztési, monitorozási és adatkezelési költségeket, mert ezeket a költségeket akkor is kifizetik, ha a hatás nem jelenik meg.
 
 ## Ami vissza fog jönni Önre
 

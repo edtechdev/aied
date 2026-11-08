@@ -1,9 +1,9 @@
 ---
 title: "האם אני יכול להשתמש בבינה מלאכותית כדי לתת ציון לעבודת סטודנטים בצורה הוגנת ואמינה?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
@@ -48,7 +48,7 @@ ai_assist:
 
 **עוזר משוב** מנסח הערות או מסמן השמטות אפשריות כדי שתאשרו, תשכתבו או תזרקו. הסיכון מוגבל לאיכות ההערה, ואתם קוראים הכול לפני שהוא מגיע לסטודנט. **קורא שני** מציע ציונים לפי קריטריונים או מסמן אי-הסכמות כדי לבנות את הציון שלכם. השגיאות שלו צריכות להיות שימושיות ולא רק שגויות: סימון שמחזיר אתכם להגשה שהייתם מעיירים בה ברישול שווה את קיומו. **נותן ציון ראשי** מייצר ציונים שהופכים לציונים רשומים. זה ההסדר שהראיות במאגר הידע הזה אינן תומכות בו מעבר למקרים צרים שאומתו מקומית.
 
-בחרו את הדרגה הנמוכה ביותר שמטפלת באילוץ האמיתי שלכם. אם עומס הציון שלכם נובע מבדיקה מול מפתח תשובות קבוע, ניקוד דטרמיניסטי רגיל שקוף וניתן לביקורת יותר ממודל שפה, ומחקר הפרמקולוגיה מרמז שהיתרון של מודל השפה בפריטים אובייקטיביים היה בחלקו תוצר של כך שניתנו לו התשובות הנכונות בזמן הציון. שמרו את המודל לעבודה שדורשת פרשנות, ואז בדקו את הפרשנות.
+בחרו את הדרגה הנמוכה ביותר שמטפלת באילוץ האמיתי שלכם. אם עומס הציון שלכם נובע מבדיקה מול מפתח תשובות קבוע, ניקוד דטרמיניסטי רגיל שקוף וניתן לביקורת יותר מ[[llm|מודל שפה]], ומחקר הפרמקולוגיה מרמז שהיתרון של מודל השפה בפריטים אובייקטיביים היה בחלקו תוצר של כך שניתנו לו התשובות הנכונות בזמן הציון. שמרו את המודל לעבודה שדורשת פרשנות, ואז בדקו את הפרשנות.
 
 [[automated-assessment|הערכה אוטומטית]] מכסה את המכונה הרחבה יותר של ניקוד, פיקוח וייצור משוב. העמוד הזה הוא שאלת השיפוט שמתחתיה.
 

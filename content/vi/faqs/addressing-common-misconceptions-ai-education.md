@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Số trung bình che giấu đúng cái biến thiên quyết định một câu
 
 ### “Họ tự báo cáo rằng họ học được rất nhiều.”
 
-Tự báo cáo đo nhận thức, mức chấp nhận, lo âu và [[self-efficacy|niềm tin vào năng lực bản thân]], và nó giỏi cả bốn việc đó. Nó không phải phép đo năng lực đã thể hiện, vì người ta có thể tự tin mà sai, hoặc giỏi mà thiếu tự tin. Bản tổng hợp của wiki về nghiên cứu năng lực AI của giáo viên báo cáo một khoảng cách đáng kể giữa tự đánh giá và kết quả đo được, và các giảng viên trong đó đánh giá quá cao năng lực của mình một cách rõ rệt ([[ai-literacy-assessment-misalignment|Đánh giá năng lực AI: lệch giữa tự báo cáo và kết quả thực hiện]]). Hãy ghép mọi tự báo cáo với một nhiệm vụ: chỉ ra một lỗi trong một đầu ra, kiểm chứng một nguồn, chọn một chiến lược sử dụng, phát hiện thiên lệch hoặc nịnh bợ, sửa một câu trả lời còn lỗi, hiệu chỉnh độ tự tin theo độ chính xác. Một mục như vậy trong một bảng khảo sát biến một ý kiến thành một kết quả.
+[[self-report-measures|Tự báo cáo]] đo nhận thức, mức chấp nhận, [[anxiety-and-stress|lo âu]] và [[self-efficacy|niềm tin vào năng lực bản thân]], và nó giỏi cả bốn việc đó. Nó không phải phép đo năng lực đã thể hiện, vì người ta có thể tự tin mà sai, hoặc giỏi mà thiếu tự tin. Bản tổng hợp của wiki về nghiên cứu năng lực AI của giáo viên báo cáo một khoảng cách đáng kể giữa [[self-assessment|tự đánh giá]] và kết quả đo được, và các giảng viên trong đó đánh giá quá cao năng lực của mình một cách rõ rệt ([[ai-literacy-assessment-misalignment|Đánh giá năng lực AI: lệch giữa tự báo cáo và kết quả thực hiện]]). Hãy ghép mọi tự báo cáo với một nhiệm vụ: chỉ ra một lỗi trong một đầu ra, kiểm chứng một nguồn, chọn một chiến lược sử dụng, phát hiện thiên lệch hoặc nịnh bợ, sửa một câu trả lời còn lỗi, hiệu chỉnh độ tự tin theo độ chính xác. Một mục như vậy trong một bảng khảo sát biến một ý kiến thành một kết quả.
 
 ### “Một sinh viên mô phỏng là bản thay thế rẻ tiền cho một sinh viên thật.”
 
@@ -85,7 +85,6 @@ Phát hiện trả lời một câu hỏi khác với câu hỏi quan trọng. V
 Tần suất không nói cho bạn biết gì. Một sinh viên có thể dùng AI hằng ngày để so sánh các cách giải thích, tạo bài luyện và nhận phản hồi mà vẫn hoạt động nhận thức tích cực, còn một sinh viên khác có thể dùng nó một lần để tạo ra đúng cái lập luận mà bài tập tồn tại để khơi ra. Câu hỏi phân loại họ là lớp tư duy nào đã bị khoán và liệu sinh viên có còn tự làm được lớp đó một mình hay không, một phân biệt được [[student-ai-interaction|tương tác giữa sinh viên và AI]] ghi lại chi tiết. Sửa ngữ pháp nằm xa các khẳng định, bằng chứng và phản biện của một bài luận. Động tác là làm lớp đó hiện rõ trong nhiệm vụ: gọi tên phần tư duy mà khóa học đang dạy, cho phép trợ giúp ở mọi chỗ khác, và kiểm tra lớp được gọi tên đó mà không có trợ giúp.
 
 Một nghiên cứu giờ đây đo lường khẳng định đó thay vì chỉ quả quyết nó. Trong một đánh giá tại bốn cơ sở về một quy trình bốn bước — AI giải thích, rồi sinh viên tự tạo các bài luyện, rồi một lần tự thử độc lập — sự tự tin sau khi tham gia vào việc tự giải bài một mình biến thiên theo giá trị được cảm nhận của phần giải thích (r_s = 0.37) và của phần luyện tập được lặp lại (r_s = 0.35), trong khi tần suất sử dụng AI hoàn toàn không có liên hệ nào (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]]). Hãy coi tần suất là một biến bạn không thể tác động tới. Điều bạn có thể quy định là trình tự: AI làm gì trước, sinh viên phải tự thử gì mà không có trợ giúp, và điều gì được kiểm tra sau đó.
-
 
 ### “Hoàn thành nhanh hơn nghĩa là học hiệu quả hơn.”
 
@@ -181,7 +180,7 @@ Sự giám sát phụ thuộc vào chuyên môn mà tự động hóa nặng khi
 
 ### “Dạy cách dùng AI phê phán và có đạo đức làm mất năng suất.”
 
-Tự động hóa không được kiểm chứng tạo ra việc phải làm lại, sự cố an ninh, quyết định phân biệt đối xử, rủi ro pháp lý, tổn hại danh tiếng và sự tự tin sai lệch, và mỗi thứ trong đó là một chi phí mà con số năng suất đã không tính. Nhân viên đáng tuyển là người phân bổ công việc giữa người và công cụ trong khi vẫn giữ chất lượng, bảo mật, trách nhiệm giải trình và phán đoán chuyên môn. Đó là một lập luận về năng suất, nói theo hướng mà bảng cân đối thường bỏ sót ([[human-ai-collaboration|Cộng tác giữa người và AI]], [[governance|Quản trị AI]]).
+Tự động hóa không được kiểm chứng tạo ra việc phải làm lại, sự cố an ninh, quyết định phân biệt đối xử, [[legal-issues-and-risks|rủi ro pháp lý]], tổn hại danh tiếng và sự tự tin sai lệch, và mỗi thứ trong đó là một chi phí mà con số năng suất đã không tính. Nhân viên đáng tuyển là người phân bổ công việc giữa người và công cụ trong khi vẫn giữ chất lượng, bảo mật, trách nhiệm giải trình và phán đoán chuyên môn. Đó là một lập luận về năng suất, nói theo hướng mà bảng cân đối thường bỏ sót ([[human-ai-collaboration|Cộng tác giữa người và AI]], [[governance|Quản trị AI]]).
 
 ## Trả lời điều sinh viên tin
 
@@ -245,7 +244,7 @@ Câu chữ của chính sách không tạo ra hiểu biết chung. Sinh viên v�
 
 ### “Giảng viên ngại thay đổi là do thiếu tập huấn.”
 
-Đôi khi là vậy. Sự sẵn sàng còn là khối lượng công việc, [[learner-identity|bản sắc nghề nghiệp]], các giá trị của ngành, những nghi ngờ về giá trị của đánh giá, hỗ trợ của cơ sở còn mỏng, sự không chắc chắn về quyền riêng tư, và một phán đoán có lý rằng một ứng dụng cụ thể không phục vụ sinh viên. Vì thế việc phát triển năng lực phải bao gồm năng lực thực hành, tích hợp sư phạm, mục đích và bản sắc, thời gian, chính sách, cách dùng [[discipline-specific-aied|theo từng ngành]], và cả lựa chọn không áp dụng một cách có nguyên tắc. Một buổi trình diễn tính năng một lần không giải quyết được một thay đổi về nghề nghiệp và tổ chức ([[educational-development|Phát triển năng lực giảng dạy]]).
+Đôi khi là vậy. Sự sẵn sàng còn là khối lượng công việc, [[learner-identity|bản sắc nghề nghiệp]], các giá trị của ngành, những nghi ngờ về giá trị của đánh giá, hỗ trợ của cơ sở còn mỏng, sự không chắc chắn về quyền riêng tư, và một phán đoán có lý rằng một ứng dụng cụ thể không phục vụ sinh viên. Vì thế việc phát triển năng lực phải bao gồm năng lực thực hành, tích hợp sư phạm, mục đích và bản sắc, thời gian, chính sách, cách dùng [[discipline-specific-aied|theo từng ngành]], và cả lựa chọn không áp dụng một cách có nguyên tắc. Một buổi trình diễn tính năng một lần không giải quyết được một thay đổi về nghề nghiệp và [[change-management|tổ chức]] ([[educational-development|Phát triển năng lực giảng dạy]]).
 
 ### “Chỉ cần nói cho người ta sự thật đúng là đủ.”
 
@@ -264,7 +263,7 @@ Bản đã làm sẵn, bạn có thể điều chỉnh cho bất kỳ mục nào
 > **Hiểu sai:** “Một bài tập do AI tạo ra tốt cho thấy sinh viên đã học được.”
 > **Phản bác:** “Điều đó không nhất thiết đúng. Sản phẩm cho thấy sinh viên và AI đã cùng tạo ra gì, nhưng nó không tiết lộ phần lập luận nào do sinh viên thực hiện.”
 > **Thay thế:** “Việc học được thể hiện tốt hơn khi sinh viên giải thích được, chuyển giao được, thích ứng được và tái tạo được năng lực đó.”
-> **Áp dụng:** “Sau bài làm có AI hỗ trợ, hãy yêu cầu một lời giải thích, một buổi bảo vệ miệng, một bản ghi quá trình, hoặc một bài áp dụng không trợ giúp.”
+> **Áp dụng:** “Sau bài làm có AI hỗ trợ, hãy yêu cầu một lời giải thích, một [[oral-assessment|buổi bảo vệ miệng]], một bản ghi quá trình, hoặc một bài áp dụng không trợ giúp.”
 
 Phần thay thế mới là phần chở trọng lượng. Bỏ đi một hiểu sai mà không cung cấp một lời giải thích tốt hơn sẽ để người ta không còn gì để nghĩ cùng, và niềm tin cũ quay lại vào lần tới khi kinh nghiệm xác nhận nó.
 
@@ -290,7 +289,7 @@ Giáo viên đánh giá quá cao năng lực AI của mình một cách đáng k
 
 ### “Phụ huynh sẽ không chấp nhận gì ngoài một lệnh cấm.”
 
-Phụ huynh đang hỏi liệu thứ đang ở trước mặt con họ có an toàn và liệu tấm bằng có còn nghĩa lý gì. Hãy trả lời trực tiếp hai câu đó, bằng những câu hỏi về an toàn sư phạm chứ không phải bằng bộ lọc nội dung, và lập luận ủng hộ lệnh cấm sẽ mất sức. Câu hỏi của hội đồng hẹp hơn tiêu đề báo và dễ bảo vệ hơn.
+[[parents-and-families|Phụ huynh]] đang hỏi liệu thứ đang ở trước mặt con họ có an toàn và liệu tấm bằng có còn nghĩa lý gì. Hãy trả lời trực tiếp hai câu đó, bằng những câu hỏi về an toàn sư phạm chứ không phải bằng bộ lọc nội dung, và lập luận ủng hộ lệnh cấm sẽ mất sức. Câu hỏi của hội đồng hẹp hơn tiêu đề báo và dễ bảo vệ hơn.
 
 ### “Chúng tôi không thể tổ chức bảo vệ miệng cho một khóa học đại cương cỡ này.”
 

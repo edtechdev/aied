@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Keskiarvot kätkevät juuri sen vaihtelun, joka ratkaisee yhdenvertaisuuskysymyk
 
 ### ”He raportoivat oppineensa paljon.”
 
-Itseraportointi mittaa havaitsemista, hyväksyntää, ahdistusta ja [[self-efficacy|minäpystyvyyttä]], ja se on hyvä kaikissa neljässä. Se ei ole osoitetun kyvykkyyden mitta, koska ihmiset voivat olla varmoja ja väärässä tai taitavia ja liian epävarmoja. Wikin synteesi opettajien tekoälylukutaitotutkimuksesta raportoi merkittävän kuilun itsearvioinnin ja mitatun suorituksen välillä, ja siinä olevat opettajat yliarvioivat osaamistaan huomattavasti ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Yhdistä jokaiseen itseraportointiin tehtävä: tunnista virhe tuotoksessa, varmista lähde, valitse käyttöstrategia, huomaa vinouma tai mielistely, korjaa puutteellinen vastaus, kalibroi varmuus tarkkuutta vasten. Yksi tällainen kohta kyselyssä muuttaa mielipiteen tulokseksi.
+[[self-report-measures|Itseraportointi]] mittaa havaitsemista, hyväksyntää, [[anxiety-and-stress|ahdistusta]] ja [[self-efficacy|minäpystyvyyttä]], ja se on hyvä kaikissa neljässä. Se ei ole osoitetun kyvykkyyden mitta, koska ihmiset voivat olla varmoja ja väärässä tai taitavia ja liian epävarmoja. Wikin synteesi opettajien tekoälylukutaitotutkimuksesta raportoi merkittävän kuilun [[self-assessment|itsearvioinnin]] ja mitatun suorituksen välillä, ja siinä olevat opettajat yliarvioivat osaamistaan huomattavasti ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Yhdistä jokaiseen itseraportointiin tehtävä: tunnista virhe tuotoksessa, varmista lähde, valitse käyttöstrategia, huomaa vinouma tai mielistely, korjaa puutteellinen vastaus, kalibroi varmuus tarkkuutta vasten. Yksi tällainen kohta kyselyssä muuttaa mielipiteen tulokseksi.
 
 ### ”Simuloitu opiskelija on halpa sijainen todelliselle.”
 
@@ -180,7 +180,7 @@ Valvonta riippuu asiantuntemuksesta, jonka rakentamista raskas automaatio vähen
 
 ### ”Kriittisen ja eettisen tekoälyn käytön opettaminen maksaa tuottavuudessa.”
 
-Varmistamaton automaatio tuottaa uudelleentyötä, tietoturvahäiriöitä, syrjiviä päätöksiä, oikeudellista riskiä, mainehaittaa ja väärää varmuutta, ja jokainen niistä on kustannus, jota tuottavuusluku ei laskenut. Palkkaamisen arvoinen työntekijä on se, joka jakaa työn ihmisten ja työkalujen kesken säilyttäen laadun, luottamuksellisuuden, vastuullisuuden ja ammatillisen harkinnan. Se on tuottavuusargumentti, esitetty siihen suuntaan, jonka tase yleensä jättää huomaamatta ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
+Varmistamaton automaatio tuottaa uudelleentyötä, tietoturvahäiriöitä, syrjiviä päätöksiä, [[legal-issues-and-risks|oikeudellista riskiä]], mainehaittaa ja väärää varmuutta, ja jokainen niistä on kustannus, jota tuottavuusluku ei laskenut. Palkkaamisen arvoinen työntekijä on se, joka jakaa työn ihmisten ja työkalujen kesken säilyttäen laadun, luottamuksellisuuden, vastuullisuuden ja ammatillisen harkinnan. Se on tuottavuusargumentti, esitetty siihen suuntaan, jonka tase yleensä jättää huomaamatta ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
 
 ## Vastaa siihen, mitä opiskelijat uskovat
 
@@ -244,7 +244,7 @@ Politiikan teksti ei luo yhteistä ymmärrystä. Opiskelijat ja henkilöstö luk
 
 ### ”Henkilökunnan vastahakoisuus on koulutusvaje.”
 
-Joskus se on sitä. Valmius on myös työmäärää, [[learner-identity|ammatillista identiteettiä]], alakohtaisia arvoja, epäilyksiä arvioinnin validiteetista, ohutta institutionaalista tukea, epävarmuutta yksityisyydestä ja perusteltua harkintaa siitä, että tietty sovellus ei palvele opiskelijoita. Kehittämisen on siksi katettava käytännön osaaminen, pedagoginen integrointi, tarkoitus ja identiteetti, aika, politiikka, [[discipline-specific-aied|alakohtainen]] käyttö ja periaatteellisen käyttöönottomattomuuden vaihtoehto. Kertaluonteinen ominaisuusesittely ei ratkaise ammatillista ja organisatorista muutosta ([[educational-development|Educational Development]]).
+Joskus se on sitä. Valmius on myös työmäärää, [[learner-identity|ammatillista identiteettiä]], alakohtaisia arvoja, epäilyksiä arvioinnin validiteetista, ohutta institutionaalista tukea, epävarmuutta yksityisyydestä ja perusteltua harkintaa siitä, että tietty sovellus ei palvele opiskelijoita. Kehittämisen on siksi katettava käytännön osaaminen, pedagoginen integrointi, tarkoitus ja identiteetti, aika, politiikka, [[discipline-specific-aied|alakohtainen]] käyttö ja periaatteellisen käyttöönottomattomuuden vaihtoehto. Kertaluonteinen ominaisuusesittely ei ratkaise ammatillista ja [[change-management|organisatorista muutosta]] ([[educational-development|Educational Development]]).
 
 ### ”Oikeiden tosiasioiden kertominen ihmisille riittää.”
 
@@ -263,7 +263,7 @@ Valmis versio, jonka voit sovittaa mihin tahansa tämän sivun kohtaan:
 > **Väärinkäsitys:** ”Hyvä tekoälyn tuottama tehtävä osoittaa, että opiskelija oppi.”
 > **Kumoaminen:** ”Se ei välttämättä ole totta. Tuotos näyttää, mitä opiskelija ja tekoäly tuottivat yhdessä, mutta se ei paljasta, minkä päättelyn opiskelija suoritti.”
 > **Korvaava malli:** ”Oppiminen osoitetaan paremmin, kun opiskelija osaa selittää, siirtää, mukauttaa ja toistaa kyvykkyyden.”
-> **Sovellus:** ”Seuraa tekoälyavusteista työtä selityksellä, suullisella puolustuksella, prosessitallenteella tai tukemattomalla sovelluksella.”
+> **Sovellus:** ”Seuraa tekoälyavusteista työtä selityksellä, [[oral-assessment|suullisella puolustuksella]], prosessitallenteella tai tukemattomalla sovelluksella.”
 
 Korvaava malli kantaa painon. Väärinkäsityksen poistaminen ilman paremman selityksen tarjoamista jättää ihmisen ilman mitään, millä ajatella, ja vanha uskomus palaa seuraavan kerran, kun kokemus vahvistaa sen.
 
@@ -289,7 +289,7 @@ Opettajat yliarvioivat tekoälyosaamistaan huomattavasti, kun itseraportointi ko
 
 ### ”Vanhemmat eivät hyväksy mitään muuta kuin kiellon.”
 
-Vanhemmat kysyvät, onko se, mikä on heidän lapsensa edessä, turvallista, ja tarkoittaako todistus mitään. Vastaa suoraan näihin kahteen, pedagogisen turvallisuuden kysymyksillä eikä sisältösuodattimella, niin kieltoargumentti menettää voimansa. Hallituksen kysymys on kapeampi kuin otsikko ja helpompi puolustaa.
+[[parents-and-families|Vanhemmat]] kysyvät, onko se, mikä on heidän lapsensa edessä, turvallista, ja tarkoittaako todistus mitään. Vastaa suoraan näihin kahteen, pedagogisen turvallisuuden kysymyksillä eikä sisältösuodattimella, niin kieltoargumentti menettää voimansa. Hallituksen kysymys on kapeampi kuin otsikko ja helpompi puolustaa.
 
 ### ”Emme voi pitää suullisia puolustuksia tämän kokoisella luentokurssilla.”
 

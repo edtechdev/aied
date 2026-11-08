@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Gennemsnit skjuler netop den variation, der afgør et ligestillingsspørgsmål. 
 
 ### »De rapporterede, at de lærte meget.«
 
-Selvrapportering måler opfattelse, accept, angst og [[self-efficacy]], og den er god til alle fire. Den er ikke en måling af demonstreret kapacitet, fordi folk kan være sikre og tage fejl eller dygtige og underselvsikre. Wikiens syntese af forskning i læreres AI-kompetence rapporterer et betydeligt gab mellem selvurdering og målt præstation, og underviserne i den overvurderede deres kompetence betydeligt ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Sæt altid en opgave sammen med enhver selvrapportering: identificér en fejl i et output, verificér en kilde, vælg en brugsstrategi, find bias eller sykofanti, revidér et fejlbehæftet svar, kalibrér selvtillid mod nøjagtighed. Ét sådant element i en undersøgelse forvandler en mening til et resultat.
+[[self-report-measures|Selvrapportering]] måler opfattelse, accept, [[anxiety-and-stress|angst]] og [[self-efficacy]], og den er god til alle fire. Den er ikke en måling af demonstreret kapacitet, fordi folk kan være sikre og tage fejl eller dygtige og underselvsikre. Wikiens syntese af forskning i læreres AI-kompetence rapporterer et betydeligt gab mellem [[self-assessment|selvurdering]] og målt præstation, og underviserne i den overvurderede deres kompetence betydeligt ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Sæt altid en opgave sammen med enhver selvrapportering: identificér en fejl i et output, verificér en kilde, vælg en brugsstrategi, find bias eller sykofanti, revidér et fejlbehæftet svar, kalibrér selvtillid mod nøjagtighed. Ét sådant element i en undersøgelse forvandler en mening til et resultat.
 
 ### »En simuleret studerende er en billig erstatning for en rigtig.«
 
@@ -180,7 +180,7 @@ Tilsyn afhænger af den ekspertise, som tung automatisering fraråder folk at op
 
 ### »At undervise i kritisk og etisk AI-brug koster produktivitet.«
 
-Uverificeret automatisering producerer omarbejde, sikkerhedshændelser, diskriminerende beslutninger, juridisk eksponering, omdømmeskade og falsk selvtillid, og hver af dem er en omkostning, som produktivitetstallet ikke talte med. Den medarbejder, der er værd at ansætte, er den, der fordeler arbejde mellem mennesker og værktøjer, mens den holder kvalitet, fortrolighed, ansvarlighed og professionel dømmekraft. Det er et produktivitetsargument i den retning, regnskabet normalt overser ([[human-ai-collaboration|menneske-AI-samarbejde]], [[governance|styring af AI]]).
+Uverificeret automatisering producerer omarbejde, sikkerhedshændelser, diskriminerende beslutninger, [[legal-issues-and-risks|juridisk eksponering]], omdømmeskade og falsk selvtillid, og hver af dem er en omkostning, som produktivitetstallet ikke talte med. Den medarbejder, der er værd at ansætte, er den, der fordeler arbejde mellem mennesker og værktøjer, mens den holder kvalitet, fortrolighed, ansvarlighed og professionel dømmekraft. Det er et produktivitetsargument i den retning, regnskabet normalt overser ([[human-ai-collaboration|menneske-AI-samarbejde]], [[governance|styring af AI]]).
 
 ## Svar på, hvad de studerende tror
 
@@ -244,7 +244,7 @@ Politisk tekst skaber ikke fælles forståelse. Studerende og personale læser f
 
 ### »Lærernes tilbageholdenhed er et uddannelseshul.«
 
-Nogle gange er den det. Parathed er også arbejdsbyrde, [[learner-identity|professionel identitet]], faglige værdier, tvivl om bedømmelsesvaliditet, tynd institutionel støtte, usikkerhed om privatliv og en begrundet vurdering af, at en bestemt anvendelse ikke tjener de studerende. Kompetenceudvikling skal derfor dække praktisk kompetence, pædagogisk integration, formål og identitet, tid, politik, [[discipline-specific-aied|fagligt specifik]] brug og muligheden for principiel ikke-adoption. En engangsdemonstration af en funktion løser ikke en professionel og organisatorisk forandring ([[educational-development|uddannelsesudvikling]]).
+Nogle gange er den det. Parathed er også arbejdsbyrde, [[learner-identity|professionel identitet]], faglige værdier, tvivl om bedømmelsesvaliditet, tynd institutionel støtte, usikkerhed om privatliv og en begrundet vurdering af, at en bestemt anvendelse ikke tjener de studerende. Kompetenceudvikling skal derfor dække praktisk kompetence, pædagogisk integration, formål og identitet, tid, politik, [[discipline-specific-aied|fagligt specifik]] brug og muligheden for principiel ikke-adoption. En engangsdemonstration af en funktion løser ikke en professionel og [[change-management|organisatorisk forandring]] ([[educational-development|uddannelsesudvikling]]).
 
 ### »Det er nok at fortælle folk de rigtige fakta.«
 
@@ -263,7 +263,7 @@ Den gennemarbejdede version, som du kan tilpasse til ethvert punkt på denne sid
 > **Misforståelse:** »En god AI-genereret opgave viser, at den studerende lærte noget.«
 > **Gendrivelse:** »Det er ikke nødvendigvis rigtigt. Produktet viser, hvad den studerende og AI'en producerede sammen, men det afslører ikke, hvilket ræsonnement den studerende udførte.«
 > **Erstatning:** »Læring demonstreres bedre, når den studerende kan forklare, overføre, tilpasse og genskabe kapaciteten.«
-> **Anvendelse:** »Følg AI-assisteret arbejde op med en forklaring, et mundtligt forsvar, en procesregistrering eller en uassisteret anvendelse.«
+> **Anvendelse:** »Følg AI-assisteret arbejde op med en forklaring, et [[oral-assessment|mundtligt forsvar]], en procesregistrering eller en uassisteret anvendelse.«
 
 Erstatningen bærer vægten. At fjerne en misforståelse uden at levere en bedre forklaring efterlader personen uden noget at tænke med, og den gamle overbevisning vender tilbage næste gang, erfaringen bekræfter den.
 
@@ -289,7 +289,7 @@ Lærere overvurderede betydeligt deres AI-kompetence, da selvrapportering blev m
 
 ### »Forældre accepterer intet andet end et forbud.«
 
-Forældre spørger, om det, deres barn har foran sig, er sikkert, og om eksamensbeviset betyder noget. Svar direkte på de to, med spørgsmålene om pædagogisk sikkerhed frem for indholdsfilteret, og forbudsargumentet mister sin kraft. Bestyrelsesspørgsmålet er mere snævert end overskriften og lettere at forsvare.
+[[parents-and-families|Forældre]] spørger, om det, deres barn har foran sig, er sikkert, og om eksamensbeviset betyder noget. Svar direkte på de to, med spørgsmålene om pædagogisk sikkerhed frem for indholdsfilteret, og forbudsargumentet mister sin kraft. Bestyrelsesspørgsmålet er mere snævert end overskriften og lettere at forsvare.
 
 ### »Vi kan ikke køre mundtlige forsvar på et forelæsningskursus af den størrelse.«
 

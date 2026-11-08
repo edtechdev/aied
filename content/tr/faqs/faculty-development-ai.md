@@ -11,7 +11,7 @@ audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 Şubat ayı. Rektör yardımcınız bütçe kalemi olan bir YZ girişimi duyurdu ve bunun sınıflarda görünmesi için bir döneminiz var. Ya da geçen güz altı atölye düzenlediniz, salonlar doluydu ve girdiğiniz derslerde hiçbir şey değişmedi. Ya da bir dekan bütçe zamanı basit soruyu soruyor: para ne satın aldı?
 
-Üçü de aynı tasarım hatasından geliyor. Bir atölye insanlara aracın ne yaptığını gösterir. Uygulama ise bir öğretmen kendi dersindeki bir sorun üzerinde destekli ve yapılandırılmış zaman harcadığında, yeni bir alışkanlığın eski bir alışkanlığın yerini almasına yetecek kadar uzun çalıştığında ve kurum deneyi yalnızca tolere etmekle kalmayıp onayladığında değişir.
+Üçü de aynı tasarım hatasından geliyor. Bir atölye insanlara aracın ne yaptığını gösterir. Uygulama ise bir [[teacher-role|öğretmen]] kendi dersindeki bir sorun üzerinde destekli ve yapılandırılmış zaman harcadığında, yeni bir alışkanlığın eski bir alışkanlığın yerini almasına yetecek kadar uzun çalıştığında ve kurum deneyi yalnızca tolere etmekle kalmayıp onayladığında değişir.
 
 Toplantı için özet şu: her katılımcının gerçek bir ders materyali getirip gözden geçirilmiş bir materyalle ayrıldığı bir oturum döngüsünü standartlaştırın; doğrulama, açıklama ve risk kontrolünü kapanış etiği konuşması yerine çalışma belgesinin içine koyun; programı tek günün ötesine uzatıp mentorlukla eşleştirin; disipline özgü kohortlar yürütün; ve son öğleden sonra ne kadar kendinden emin hissettiklerini değil, takip görüşmesinde insanların ürettiği materyalleri raporlayın.
 
@@ -57,9 +57,12 @@ Yapılandırılmış kol yedi hazırbulunuşluk boyutunun hepsinde daha yüksek 
 
 Bu çalışmaların ortak noktası şu: öğrenme, materyali eleştirmek ve gözden geçirmekten geldi. İnsanlar önlerindeki şeyi iyileştirir ve bir meslektaş da onu okurken daha hızlı iyileştirir.
 
+Araştırma yeterliliği bir yan etki değil, hedefin kendisi olabilir. 105 kimya öğretmeniyle yapılan altı haftalık YZ destekli bir programda, ölçülen her boyut ön testten son teste iyileşti (Cohen dz = 0,47 ile 0,63 arası) ve en büyük değişim, 3,50'den (SS = 0,88) 4,16'ya (SS = 0,52; dz = 0,63) yükselen araştırma yeterliliğiydi ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay ve ark. (2026)]]). Öğretmenler YZ'yi bir erişim ve yazma aracı olarak tanımlamaktan, araştırma planlaması ve veriye dayalı kararlar için bir destek olarak tanımlamaya geçti. Tasarım tek gruplu ön test-son test çalışmasıydı; bu yüzden kazanımı nedensel bir etki değil program kanıtı olarak ele alın; eklediği şey, Araştırmacı rolünü aynı mesleki gelişim döngüsünün parçası yapmanın somut bir yoludur.
+
+
 ## Beceriyi eksik parça saymayı bırakın
 
-Cezbedici tanı, daha iyi eğitimle kapatılacak bir yetenek açığıdır. [[ai-teaching-innovation-ai-tpack-2026|Bai ve Hsieh (2026)]] 898 üniversite öğretmenini [[tpack|AI-TPACK]] ölçekleriyle anketledi ve üretken araçların nasıl çalıştığını anlayan ya da onları yetkin biçimde kullanabilen öğretmenlerin, kullanamayanlara kıyasla yeni öğretim uygulamaları icat edip uyguladıklarını bildirme olasılığının daha yüksek olmadığını buldu. Bütünleşik AI-TPACK yapısının yenilikçi davranışa doğrudan hiçbir yolu yoktu. Etkisi tamamen [[ai-literacy]], öğretim [[self-efficacy|öz yeterliği]] ve mesleki kimlik üzerinden işliyordu.
+Cezbedici tanı, daha iyi eğitimle kapatılacak bir yetenek açığıdır. [[ai-teaching-innovation-ai-tpack-2026|Bai ve Hsieh (2026)]] 898 üniversite öğretmenini [[tpack|AI-TPACK]] ölçekleriyle anketledi ve üretken araçların nasıl çalıştığını anlayan ya da onları yetkin biçimde kullanabilen öğretmenlerin, kullanamayanlara kıyasla yeni [[pedagogy|öğretim uygulamaları]] icat edip uyguladıklarını bildirme olasılığının daha yüksek olmadığını buldu. Bütünleşik AI-TPACK yapısının yenilikçi davranışa doğrudan hiçbir yolu yoktu. Etkisi tamamen [[ai-literacy]], öğretim [[self-efficacy|öz yeterliği]] ve mesleki kimlik üzerinden işliyordu.
 
 Bu, bir oturumun ne için olduğunu değiştirir. Bir araç tanıtımı bu üçünün hiçbirine dokunmaz. Bir öğretmenin kendi ödevini yeniden yazdığı, değişikliği savunduğu ve bir meslektaşının bunun daha iyi olduğunu onayladığını duyduğu bir oturum üçüne birden dokunur; materyal döngüsünün, içerik daha zayıf olsa bile gösterimi geçmesinin nedeni budur.
 
@@ -67,7 +70,7 @@ Tasarım çıkarımı, slayt destesi olan herkes için rahatsız edicidir: bir �
 
 ## Zor kısımları kullandıkları şablonun içine koyun
 
-[[designing-ai-professional-development-itpack-2026|Dogan'ın (2026) i-TPACK çerçevesi]] YZ mesleki gelişimi üzerine bir PRISMA derlemesinden ve 17 çalışma daha ortaya çıkaran bir aramadan geliyor. Beş bilgi alanını (akıllı teknolojik bilgi, teknolojik içerik bilgisi, teknolojik pedagojik bilgi, bütünleşik i-TPACK ve YZ etiği) dört kanıta dayalı yolla hizalıyor: [[active-learning|etkin öğrenme]], modeller ve örnekler, koçluk ve uzman desteği, [[feedback|geri bildirim]] ve yansıtma; hepsi Silolar Yerine Kolektif Sinerji'den Yapı İçinde Esneklik'e uzanan beş ilkeyle yönetiliyor.
+[[designing-ai-professional-development-itpack-2026|Dogan'ın (2026) i-TPACK çerçevesi]] YZ mesleki gelişimi üzerine bir [[meta-analysis-systematic-review|PRISMA]] derlemesinden ve 17 çalışma daha ortaya çıkaran bir aramadan geliyor. Beş bilgi alanını (akıllı teknolojik bilgi, teknolojik içerik bilgisi, teknolojik pedagojik bilgi, bütünleşik i-TPACK ve [[ethics|YZ etiği]]) dört kanıta dayalı yolla hizalıyor: [[active-learning|etkin öğrenme]], modeller ve örnekler, koçluk ve uzman desteği, [[feedback|geri bildirim]] ve yansıtma; hepsi Silolar Yerine Kolektif Sinerji'den Yapı İçinde Esneklik'e uzanan beş ilkeyle yönetiliyor.
 
 Çerçevenin alana yönelik en keskin eleştirisi, etiğin birçok mevcut programda yüzeysel ele alınması ya da tamamen yok olması ve çözümün yerleştirme olmasıdır. Doğrulama, açıklama ve risk kontrolü, katılımcıların hafta boyunca kullandığı belgeye aittir, son oturumun son 20 dakikasına değil. Risk kontrol sütunu olan bir şablon doldurulur; sorumlu kullanım üzerine bir kapanış bölümüne ise başla onay verilir.
 
@@ -77,7 +80,7 @@ Tasarım çıkarımı, slayt destesi olan herkes için rahatsız edicidir: bir �
 
 Programınızda tek bir derin konuya yer varsa değerlendirmeyi seçin. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh'in (2026)]] sekiz saatlik programında, 163 öğretmen ve öğretmen adayıyla dört iki saatlik oturumda toplam AI-PCK 151,65'ten 220,14'e yükseldi (*d* = 2,36, *p* < 0,001). En büyük bileşen etkisi Değerlendirme Ölçütleri'ndeydi (*d* = 2,19) ve bu aynı zamanda ön testte en zayıf alan oldu. Kazanım öğretim yönteminde değerlendirmeye göre daha dardı.
 
-Değerlendirme ölçütleri aynı zamanda odadaki kaygının işe koşulabileceği yerdir. Öğrencilerin bir modele yaslanmasından tedirgin olan bir katılımcı, akıl yürütmeyi görünür kılan bir ölçüt satırı yazabilir; bu da bir endişeyi üzerinde tarih olan bir tasarım kararına dönüştürür.
+Değerlendirme ölçütleri aynı zamanda odadaki [[anxiety-and-stress|kaygının]] işe koşulabileceği yerdir. Öğrencilerin bir modele yaslanmasından tedirgin olan bir katılımcı, akıl yürütmeyi görünür kılan bir ölçüt satırı yazabilir; bu da bir endişeyi üzerinde tarih olan bir tasarım kararına dönüştürür.
 
 Tek günün ötesini bütçeleyin. Aynı programda öğretmen adayları deneyimli öğretmenlerden anlamlı ölçüde daha fazla kazanım sağladı (*p* = 0,033), çoğunlukla senaryo temelli görev tasarımı ve ölçüt tasarımında. Deneyimli öğretmenler sekiz saatin kökleşmiş alışkanlıkları değiştirmek için çok kısa olduğunu söyledi ve uzun vadeli, mentor temelli destek istedi.
 
@@ -87,7 +90,7 @@ Tek bir herkese açık atölye yürütürseniz zamanınızın çoğunu var olmay
 
 Bu üç düşük alan birbirleriyle r = 0,81-0,91 düzeyinde koreleydi; bu da makul biçimde üç ayrı beceri yerine bu araçlarla öğretmeye dair tek bir kapasite anlamına gelir. Onu ortak bir temel olarak öğretirseniz iki oturum kazanırsınız.
 
-Sonra deneyime göre ayrıştırın. [[ai-teaching-innovation-ai-tpack-2026|Bai ve Hsieh]] mesleki kimliğin yenilikçi davranışı, YZ'yi seyrek kullananlarda günlük kullananlara kıyasla neredeyse iki kat güçlü yordadığını buldu; sınırda bir sonuç ama kullanışlı bir işaret: kimlik çalışması en çok araçlara neredeyse dokunmayanlarda karşılığını verirken sık kullananlar temel rehberlikten çok disiplinler arası projelerden yararlanıyor. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] tam da bu konuşmanın ortamı olarak disipline özgü kohortları savunuyor; gerekçesi, bir fizikçi ile bir tarihçinin aynı sorunu çözmediğidir.
+Sonra deneyime göre ayrıştırın. [[ai-teaching-innovation-ai-tpack-2026|Bai ve Hsieh]] mesleki kimliğin yenilikçi davranışı, YZ'yi seyrek kullananlarda günlük kullananlara kıyasla neredeyse iki kat güçlü yordadığını buldu; sınırda bir sonuç ama kullanışlı bir işaret: [[learner-identity|kimlik çalışması]] en çok araçlara neredeyse dokunmayanlarda karşılığını verirken sık kullananlar temel rehberlikten çok disiplinler arası projelerden yararlanıyor. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] tam da bu konuşmanın ortamı olarak disipline özgü kohortları savunuyor; gerekçesi, bir fizikçi ile bir tarihçinin aynı sorunu çözmediğidir.
 
 ## Şüphecilerin sorduğu soruyla başlayın
 
@@ -95,7 +98,7 @@ Sonra deneyime göre ayrıştırın. [[ai-teaching-innovation-ai-tpack-2026|Bai 
 
 Suçluluk ölçülebilir ve eşit dağılmıyor. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] 109 akademisyeni anketledi ve bir "YZ suçluluk kompleksi" tanımladı: %35'i YZ kullanımının güvenilirliklerini zayıflattığından endişeli ve %26'sı "kopya çekiyormuş gibi" hissettiğini bildirdi; güvenilirlik konusundaki öngörücü suçluluk, kullanım sonrası pişmanlığı aşıyor, yani sıkıntı özel değil sosyo-mesleki. Dört profil ortaya çıktı: Rahat Benimseyenler (%27), Suçlu Kullanmayanlar (%29), Temkinli Kullananlar (%28) ve Ahlaki Olarak Sıkıntılı Kaçınanlar (%16). Tek bir program dört ayrı sorunu ele alıyor ve araçları kullanmadığı hâlde suçluluk duyan %29'luk kesimin gösterimden başka bir şeye ihtiyacı var.
 
-Görevin büyüklüğü [[watson-rainie-ai-challenge-faculty-survey-2026|1.057 öğretim üyesiyle yapılan AAC&U/Elon anketinde (Watson ve Rainie, 2026)]] görünüyor: %68'i okullarının öğretim üyelerini üretken YZ'yi öğretim ve mentorluk için kullanmaya hazırlamadığını söyledi; bilimsel çalışma için de benzer bir oran var. Yanıtlayıcıların %26'sı araçları hiç kullanmıyor; bu oran sanat ve beşeri bilimler öğretim üyelerinde %40. %82'si meslektaşlarının direncini bölüm düzeyinde benimsemeye engel olarak gösteriyor.
+Görevin büyüklüğü [[watson-rainie-ai-challenge-faculty-survey-2026|1.057 öğretim üyesiyle yapılan AAC&U/Elon anketinde (Watson ve Rainie, 2026)]] görünüyor: %68'i okullarının öğretim üyelerini [[generative-ai|üretken YZ'yi]] öğretim ve mentorluk için kullanmaya hazırlamadığını söyledi; bilimsel çalışma için de benzer bir oran var. Yanıtlayıcıların %26'sı araçları hiç kullanmıyor; bu oran sanat ve beşeri bilimler öğretim üyelerinde %40. %82'si meslektaşlarının direncini bölüm düzeyinde benimsemeye engel olarak gösteriyor.
 
 ## İzlencenin düzeltemeyeceği koşulları düzeltin
 
@@ -103,13 +106,13 @@ Bu, bir liderlik toplantısına götürülecek bulgu. Yukarıdaki karşılaştı
 
 Yani bir program liderinin elindeki kaldıraçlar yerel ve yakındır: uygulamalı pratik, deney yapma izninin açıkça verilmesi, öğretim üyelerinin gerçekten çalıştığı dillerde materyaller, birimin görünür desteği. Ulusal politika çerçevesi hazırbulunuşluğu tek başına taşımıyor. Risk duyarlılığının ısırdığı yerde yanıt, temkini konuşarak küçültmek değil ona uygulanacak bir yer vermektir; ölçüt tasarımı ve doğrulama rutinleri o yerdir.
 
-İki pratik sürtünme de aynı konuşmaya aittir. [[faculty-development-centers-genai-training-optimization-2026|Bi ve ark. (2026)]] çalışmasında sürdürme niyeti en yüksek puanlanan memnuniyet boyutuyken araç kullanılabilirliği en düşüktü; yani isteksizlik gibi okunan şeyin bir kısmı platform sürtünmesidir. [[ai-emotional-intelligence-teacher-development-2026|Aponte ve ark. (2026)]] ise sert sınırı tespit ediyor: YZ kronik aşırı yüklenmeyi, cezalandırıcı hesap verebilirlik kültürlerini, zayıf liderliği ya da korunan zamanın yokluğunu telafi edemez. YZ'nin öğretmenlerin sosyo-duygusal gelişimine ancak ilişkisel altyapı olarak (mentorluk için korunan zaman, akran diyaloğu, uygulama toplulukları) katkıda bulunduğunu savunuyor ve standart olarak *ilişkisel yoğunlaşma* öneriyor: temas saatlerini değil güveni, desteğin sürekliliğini ve ortak düzenlemeyi saymayı. İki sav program tasarımına çevriliyor: serbest kalan zaman, kurum bunun yeniden yatırılmasını resmen şart koşmadıkça ek talep olarak geri emilir ve konuşma ajanları, gelişmeyi üreten zorlu insan müzakerelerinin yerine sessizce geçebilir. Çerçeveleri test edilmiş bir nedensel iddia değil, bir buluşsal yöntemdir.
+İki pratik sürtünme de aynı konuşmaya aittir. [[faculty-development-centers-genai-training-optimization-2026|Bi ve ark. (2026)]] çalışmasında sürdürme niyeti en yüksek puanlanan memnuniyet boyutuyken araç [[usability-research|kullanılabilirliği]] en düşüktü; yani isteksizlik gibi okunan şeyin bir kısmı platform sürtünmesidir. [[ai-emotional-intelligence-teacher-development-2026|Aponte ve ark. (2026)]] ise sert sınırı tespit ediyor: YZ kronik aşırı yüklenmeyi, cezalandırıcı hesap verebilirlik kültürlerini, zayıf liderliği ya da korunan zamanın yokluğunu telafi edemez. YZ'nin öğretmenlerin sosyo-duygusal gelişimine ancak ilişkisel altyapı olarak (mentorluk için korunan zaman, akran diyaloğu, uygulama toplulukları) katkıda bulunduğunu savunuyor ve standart olarak *ilişkisel yoğunlaşma* öneriyor: temas saatlerini değil güveni, desteğin sürekliliğini ve ortak düzenlemeyi saymayı. İki sav program tasarımına çevriliyor: serbest kalan zaman, kurum bunun yeniden yatırılmasını resmen şart koşmadıkça ek talep olarak geri emilir ve [[conversational-ai|konuşma ajanları]], gelişmeyi üreten zorlu insan müzakerelerinin yerine sessizce geçebilir. Çerçeveleri test edilmiş bir nedensel iddia değil, bir buluşsal yöntemdir.
 
 Bu koşullar sizin koşullarınızsa daha iyi bir atölye onları düzeltmez ve bunu söylemek aksini vaat etmekten daha faydalıdır.
 
 ## Materyalleri gecikmeli olarak raporlayın
 
-Hizalanmaya değer kurumsal iskele [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke ve Nickel (2026)]]; iki makro döngü ve 114 katılımcıyla (28 ABD kurumundan ve 11 ülkeden öğretim üyeleri, ayrıca öğretim merkezi direktörleri ve akreditasyon koordinatörleri) yürüttükleri tasarım temelli araştırma, akademik rolün tamamını kapsayan altı standart üretti: Eğitmen, Koordinatör, Lider, Araştırmacı, Öğrenen ve Katkıda Bulunan. Mevcut çerçeveler ve eğitimci standartları [[k-12]] öğretmenlerini hedefliyor ya da yalnızca öğretimi ele alıyor; sunduğu hizmeti bu standartlara eşleyen bir merkez, aynı zamanda değerlendirme ve akreditasyona da eşlenebilir; bütçe incelemesinden sağ çıkan sav da budur.
+Hizalanmaya değer kurumsal iskele [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke ve Nickel (2026)]]; iki makro döngü ve 114 katılımcıyla (28 ABD kurumundan ve 11 ülkeden öğretim üyeleri, ayrıca öğretim merkezi direktörleri ve akreditasyon koordinatörleri) yürüttükleri [[design-based-research|tasarım temelli araştırma]], akademik rolün tamamını kapsayan altı standart üretti: Eğitmen, Koordinatör, Lider, Araştırmacı, Öğrenen ve Katkıda Bulunan. Mevcut çerçeveler ve eğitimci standartları [[k-12]] öğretmenlerini hedefliyor ya da yalnızca öğretimi ele alıyor; sunduğu hizmeti bu standartlara eşleyen bir merkez, aynı zamanda değerlendirme ve akreditasyona da eşlenebilir; bütçe incelemesinden sağ çıkan sav da budur.
 
 Sonra nasıl değerlendirdiğinize dikkat edin, çünkü bu yazının çoğu [[self-report-measures|öz bildirim]] izlenimlerini ölçüyor. Bi ve ark. uygulanan öğretimi değil öz bildirim hazırbulunuşluğu ölçtü ve grupları rastgeleleştirmeyle değil gönüllü kayıtla oluştu; yani sonuçlar ilişkiseldir. [[ai-teaching-innovation-ai-tpack-2026|Bai ve Hsieh]] kesitseldir, kendi kendini seçen bir örneklemle tek ülkedeki sekiz üniversiteden gelir ve her yapıyı aynı yanıtlayıcılardan tek bir zamanda ölçmüştür. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo ve arkadaşları]] nedensellik yönünü belirleyemez; bu önemlidir çünkü en güçlü iddiaları, teknolojik bilginin bir geçiş kapısı işlevi gördüğü iddiası, kesitsel bir tasarımın çözemeyeceği bir şeydir. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] çok büyük etkileri rastgeleleştirme, takip ya da disiplin düzeyinde ayrıştırma olmadan bildiriyor; dolayısıyla *d* = 2,36 kısa vadeli olarak okunur. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] otoetnografiktir ve [[ai-emotional-intelligence-teacher-development-2026|Aponte ve ark.]] çerçevelerinin kavramsal olduğunu belirtir.
 
@@ -145,7 +148,7 @@ Dolayısıyla savunulabilir bir değerlendirme, katılımcının gözden geçird
 
 **2.** Gündemi, ilk oturum o materyalle başlayacak biçimde yeniden yazın ve doğrulama, açıklama ve risk kontrolünü katılımcıların hafta boyunca taşıdığı şablonda sütun olarak ekleyin.
 
-**3.** Bir oturumu ölçüt ve değerlendirme tasarımına taşıyın ve katılımcıların ölçütü yazmış olarak ayrılmasını sağlayın.
+**3.** Bir oturumu ölçüt ve [[assessment|değerlendirme]] tasarımına taşıyın ve katılımcıların ölçütü yazmış olarak ayrılmasını sağlayın.
 
 **4.** Dekandan ya da rektör yardımcısından deneyin onaylandığına dair tek bir cümleyi yazılı alın, sonra saatleri yeniden emilmemeleri için resmen koruyun.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ako zistím, či sú kvízové a skúšobné otázky vytvorené AI skutočne dobré?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Požiadate o dvadsať otázok zo svojich prednáškových poznámok. Prídu s kľúčom odpovedí, vysvetleniami, štítkami obtiažnosti a kategóriami Bloomovej taxonómie, vo formátovanom dokumente, ktorý vyzerá hotový. Vaše meno sa naň o chvíľu dostane.
 
-Krátka odpoveď pre kolegu: vygenerované otázky sú kandidáti, nie hodnotenie. Vyriešte každú sami, preverte, čo položka od študenta skutočne žiada, a zistite, ako študenti na ňu reagujú, kým sa začne počítať. V dvoch najväčších štúdiách v tejto vedomostnej báze nie je zaujímavým signálom to, že generovanie funguje, ale to, kde zlyháva. Iteratívne generovanie v rámci pracovného postupu špecifického pre kurz vyprodukovalo použiteľné skúšky s výberom z viacerých možností v 71 vysokoškolských triedach ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). V audite 311 nasadených otázok z dátovej vedy štítky obtiažnosti modelu sledovali Bloomove úrovne, ktoré vygeneroval spolu s nimi, takmer dokonale (Spearman ρ = 0,90), kým so skutočným skóre študentov korelovali na ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang, 2026]]). Štítok bol opisom promptu, nie meraním položky.
+Tu je krátka odpoveď: vygenerované otázky sú kandidáti, nie hodnotenie. Vyriešte každú sami, preverte, čo položka od študenta skutočne žiada, a zistite, ako študenti na ňu reagujú, kým sa začne počítať. V dvoch najväčších štúdiách v tejto vedomostnej báze nie je zaujímavým signálom to, že generovanie funguje, ale to, kde zlyháva. Iteratívne generovanie v rámci pracovného postupu špecifického pre kurz vyprodukovalo použiteľné skúšky s výberom z viacerých možností v 71 vysokoškolských triedach ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). V audite 311 nasadených otázok z dátovej vedy štítky obtiažnosti modelu sledovali Bloomove úrovne, ktoré vygeneroval spolu s nimi, takmer dokonale (Spearman ρ = 0,90), kým so skutočným skóre študentov korelovali na ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang, 2026]]). Štítok bol opisom promptu, nie meraním položky.
 
 ## Stručná verzia
 
@@ -46,7 +46,7 @@ Krátka odpoveď pre kolegu: vygenerované otázky sú kandidáti, nie hodnoteni
 
 Generovanie je dosť lacné na to, aby sa výstupný formát potichu stal špecifikáciou. Ak vaše poznámky produkujú upratané položky s výberom z viacerých možností, skončíte meraním toho, či študenti vedia vyberať medzi vierohodnými tvrdeniami, nech už sylabus sľubuje akýkoľvek výsledok.
 
-Najprv špecifikujte výsledok, potom dôkazy, ktoré by poskytla uspokojivá odpoveď, a potom poznanie, ktoré sa od študentov očakáva. Zahrňte materiály kurzu, mylné predstavy, ktoré očakávate, povolené nástroje a formát odpovede. Ak chcete, aby študenti interpretovali dôkazy, položka musí vyžadovať interpretáciu, a pridanie slova do definičnej otázky to nezabezpečí. Dlhý scenár môže byť stále zodpovedateľný cez jednu známu frázu, ktorá prezradí riešenie.
+Najprv špecifikujte výsledok, potom dôkazy, ktoré by poskytla uspokojivá odpoveď, a potom poznanie, ktoré sa od študentov očakáva. Zahrňte materiály kurzu, [[misconceptions|mylné predstavy]], ktoré očakávate, povolené nástroje a formát odpovede. Ak chcete, aby študenti interpretovali dôkazy, položka musí vyžadovať interpretáciu, a pridanie slova do definičnej otázky to nezabezpečí. Dlhý scenár môže byť stále zodpovedateľný cez jednu známu frázu, ktorá prezradí riešenie.
 
 Plán hodnotenia je tabuľka výsledkov proti položkám a jeho hodnota je v tom, že odhalí medzery skôr než študenti. Zviditeľňuje aj kompromis: každá položka, ktorú vygenerujete z najľahšieho materiálu, je položka, ktorú ste neminuli na výsledok, na ktorom vám záleží najviac.
 
@@ -68,7 +68,7 @@ Druhý model vám môže pomôcť nájsť problémy a zhoda medzi dvoma modelmi 
 
 ## Nedovoľte, aby rozhodoval štítok obtiažnosti
 
-Literatúra o [[automated-question-generation|generovaní otázok]] je užitočnejšia pri zlyhaní štítkov než pri úspechu generovania. [[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang (2026)]] skúmali 378 autorských otázok v kurzoch dátovej vedy, z ktorých 311 bolo nasadených 54 študentom v 7 888 odpovediach. Štítky modelu ľahké, stredné a ťažké korelovali s jeho vlastnými spolugenerovanými Bloomovými úrovňami na ρ = 0,90 a s empirickou obtiažnosťou položky na ρ = 0,06. Približne 70 % nasadených položiek zodpovedali správne všetci študenti, čo nezanechalo takmer žiadnu variáciu, ktorú by štítok obtiažnosti mohol v zásade sledovať.
+Literatúra o [[automated-question-generation|generovaní otázok]] je užitočnejšia pri zlyhaní štítkov než pri úspechu generovania. [[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang (2026)]] skúmali 378 autorských otázok v kurzoch dátovej vedy, z ktorých 311 bolo nasadených 54 študentom v 7 888 odpovediach. Štítky modelu ľahké, stredné a ťažké korelovali s jeho vlastnými spolugenerovanými Bloomovými úrovňami na ρ = 0,90 a s empirickou [[item-response-theory|obtiažnosťou položky]] na ρ = 0,06. Približne 70 % nasadených položiek zodpovedali správne všetci študenti, čo nezanechalo takmer žiadnu variáciu, ktorú by štítok obtiažnosti mohol v zásade sledovať.
 
 Z toho vyplývajú dve ponaučenia. Po prvé, obtiažnosť je vlastnosť interakcie medzi položkou a populáciou, takže žiadny štítok vytvorený pred administráciou položky nemožno brať ako nameranú hodnotu. Po druhé, banka položiek, ktoré všetci zodpovedajú správne, nie je ľahké hodnotenie, je to zbytočné hodnotenie: neobsahuje takmer žiadnu informáciu o tom, kto čo vie.
 
@@ -91,6 +91,8 @@ Revidujte a uchovajte záznam: schválenú verziu, výsledok, ktorému slúži, 
 V úvodnom kurze sociológie môže byť výsledkom rozlíšenie štrukturálneho vysvetlenia od individuálneho. Slabá položka žiada študentov definovať „štrukturálne“, čo meria rozpoznávanie slovnej zásoby. Silnejší kandidát dá krátky scenár o rodine a rozhodnutí o zamestnaní a potom sa pýta, ktoré vysvetlenie najlepšie identifikuje štrukturálne obmedzenie, pričom distraktory predstavujú vierohodné, ale odlišné interpretácie.
 
 Vyučujúci overí, že scenár skutočne podporuje kľúč, že žiadne dve možnosti nevyjadrujú tú istú myšlienku a že odpovedanie nezávisí od terminológie, ktorú kurz nikdy nezaviedol. Jednoriadková doplňujúca otázka „ktorý detail podporuje váš výber?“ odkryje uvažovanie, ktoré zvolená možnosť skrýva. Táto úprava je ako formát položky neotestovaná a jej hodnota je užšia: otázky z revízie vyššie sa dajú zodpovedať pred administráciou položky a zlý kľúč sa dá opraviť skôr, než ho študenti uvidia.
+
+Keď študenti hromadne vyjadrujú nevôľu, signál má štruktúru. V analýze 5 214 211 relácií s cvičnými otázkami zobrazovanými v platforme učebnice dostali otázky 2,00 negatívneho hodnotenia (palec nadol) na 1 000 relácií oproti 3,31 kladného a hodnotenie vôbec dostalo len 22 844 z 809 848 otázok ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Vzorec v hlasoch nebol náhodný: otázky, ktoré žiadali odpovede s príslovkou, dostali 5,23 palca nadol na 1 000 oproti 1,76 pri odpovediach s prídavným menom, a dôležitosť vety (pomer šancí 2,38) a podobnosť textu odpovede (1,64) tiež ovplyvňovali hodnotenie. Autormi vyladené pravidlo bolo približne 1,62 negatívnych hodnotení na 1 000, keď boli prítomné oba signály dôležitosti. Praktický zmysel je, že hodnotenia študentov sú pomalý, ale skutočný merací kanál: platforma, ktorá odstraňuje opakovane neobľúbené otázky, uzatvára slučku, a vyučujúci, ktorý pilotuje niekoľko položiek, získa ten istý signál rýchlejšie tak, že sa spýta, ktorý detail študent spochybnil.
 
 Pre študentov, ktorí si generujú vlastné cvičné otázky, platí to isté pravidlo na ich úrovni: skúste položku vyriešiť, overte vysvetlenie proti zdrojom kurzu a neriešiteľné prípady prineste niekomu, kto látku pozná. [[study-with-ai|Cvičenie so štúdiom]], ktoré učí študentov prijímať vygenerované kľúče nekriticky, učí nesprávny návyk.
 

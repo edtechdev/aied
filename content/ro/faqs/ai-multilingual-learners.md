@@ -1,9 +1,9 @@
 ---
 title: "Cum poate IA să sprijine studenții multilingvi fără să le judece greșit cunoștințele sau să le șteargă vocea?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Un student înțelege conceptul și are nevoie de patru minute în plus ca să o spună în engleză. IA poate traduce enunțul, poate defini terminologia, poate exersa explicația împreună cu el sau poate scrie întregul răspuns. Trei dintre acestea sunt predare. Una este rezolvarea temei.
 
-Răspunsul scurt pe care să îl dai unui coleg: decide ce face limba în această sarcină înainte de a decide ce poate face instrumentul. Acolo unde limba este incidentală, IA poate elimina o barieră care nu are nimic de-a face cu constructul tău. Acolo unde limba este constructul, același instrument ocolește învățarea. Riscul merge în ambele sensuri simultan: [[multilingual-learning|sprijinul lingvistic]] poate îmbunătăți accesul, iar notarea automată poate totuși citi greșit studentul. Într-un studiu de fizică, explicațiile de calitate lingvistică mai slabă au fost notate sistematic sub judecata experților de către fiecare abordare de notare automată testată, nouă sisteme de învățare automată și două sisteme de model lingvistic, la 116 studenți de liceu ([[ai-scoring-language-bias-physics|Feser și Tschisgale, 2026]]). Fluenta și înțelegerea erau notate ca un singur lucru.
+Răspunsul scurt pe care să îl dai unui coleg: decide ce face limba în această sarcină înainte de a decide ce poate face instrumentul. Acolo unde limba este incidentală, IA poate elimina o barieră care nu are nimic de-a face cu constructul tău. Acolo unde limba este constructul, același instrument ocolește învățarea. Riscul merge în ambele sensuri simultan: [[multilingual-learning|sprijinul lingvistic]] poate îmbunătăți accesul, iar [[automated-assessment|notarea automată]] poate totuși citi greșit studentul. Într-un studiu de fizică, explicațiile de calitate lingvistică mai slabă au fost notate sistematic sub judecata experților de către fiecare abordare de notare automată testată, nouă sisteme de [[machine-learning|învățare automată]] și două sisteme de model lingvistic, la 116 studenți de liceu ([[ai-scoring-language-bias-physics|Feser și Tschisgale, 2026]]). Fluenta și înțelegerea erau notate ca un singur lucru.
 
 ## Pe scurt
 
@@ -45,13 +45,13 @@ Răspunsul scurt pe care să îl dai unui coleg: decide ce face limba în aceast
 
 ## Decide ce face limba în sarcină
 
-Într-o explicație de biologie, gramatica este în mare parte incidentală față de conceptul evaluat. Într-un curs de limbă, producerea și revizuirea unor structuri anume sunt învățarea. În comunicarea profesională, acuratețea disciplinară, publicul și registrul contează toate. Același instrument de traducere este potrivit în primul caz, discutabil în al doilea și negociabil în al treilea.
+Într-o explicație de [[biology-education|biologie]], gramatica este în mare parte incidentală față de conceptul evaluat. Într-un curs de limbă, producerea și revizuirea unor structuri anume sunt învățarea. În comunicarea profesională, acuratețea disciplinară, publicul și registrul contează toate. Același instrument de traducere este potrivit în primul caz, discutabil în al doilea și negociabil în al treilea.
 
-Scrie decizia unde studenții o pot citi. Dacă studenții pot traduce instrucțiunile, dar trebuie să producă singuri o explicație în limba țintă, spune asta explicit. Dacă sprijinul terminologic este permis, specifică ce trebuie să explice și să verifice studentul în continuare. Apoi verifică aranjamentul față de cerințele de adaptare și politica instituției, în loc să tratezi fiecare formă de asistență lingvistică ca interschimbabilă. Un student cu o adaptare documentată și un student care evită exersarea pot cere același lucru, iar doar al doilea este problema ta de predare.
+Scrie decizia unde studenții o pot citi. Dacă studenții pot traduce instrucțiunile, dar trebuie să producă singuri o explicație în limba țintă, spune asta explicit. Dacă sprijinul terminologic este permis, specifică ce trebuie să explice și să verifice studentul în continuare. Apoi verifică aranjamentul față de cerințele de adaptare și [[educational-policy-ai|politica instituției]], în loc să tratezi fiecare formă de asistență lingvistică ca interschimbabilă. Un student cu o adaptare documentată și un student care evită exersarea pot cere același lucru, iar doar al doilea este problema ta de predare.
 
 ## Ce susține cercetarea și ce nu
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez și Arabadzhy (2026)]] au revizuit 24 de studii empirice despre chatboturi generativi în învățarea limbilor. Contribuția lor este taxonomică: fiecare facilitate secundară catalogată pentru chatboturile pre-generative persistă, iar trei sunt noi, între care **translanguaging**, mișcarea deliberată între limbi ca parte a învățării. Aceasta este o hartă a utilizărilor și experiențelor raportate, nu o estimare cumulată, iar corpusul este concentrat geografic, cu China, Iran, Taiwan și Turcia acoperind 19 dintre cele 24 de studii și toate, în afară de unul, desfășurate în instituții formale. Sprijinul pentru folosirea explicației translingvistice ca mișcare de învățare nu este sprijin pentru a traduce fiecare temă.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez și Arabadzhy (2026)]] au revizuit 24 de studii empirice despre [[conversational-ai|chatboturi]] generativi în [[language-learning|învățarea limbilor]]. Contribuția lor este taxonomică: fiecare facilitate secundară catalogată pentru chatboturile pre-generative persistă, iar trei sunt noi, între care **translanguaging**, mișcarea deliberată între limbi ca parte a învățării. Aceasta este o hartă a utilizărilor și experiențelor raportate, nu o estimare cumulată, iar corpusul este concentrat geografic, cu China, Iran, Taiwan și Turcia acoperind 19 dintre cele 24 de studii și toate, în afară de unul, desfășurate în instituții formale. Sprijinul pentru folosirea explicației translingvistice ca mișcare de învățare nu este sprijin pentru a traduce fiecare temă.
 
 Evaluarea este locul unde dovezile devin mai ascuțite și miza crește. [[ai-scoring-language-bias-physics|Feser și Tschisgale (2026)]] au comparat unsprezece abordări de notare automată cu punctajele experților umani pentru explicațiile de fizică a 116 studenți de liceu și au găsit o subestimare sistematică a înțelegerii conceptuale la explicațiile lingvistic mai slabe, în fiecare abordare. Designul izolează mecanismul: același conținut conceptual, exprimat în proză mai slabă, a fost notat mai jos. Aceasta nu este o afirmație despre studenții multilingvi dintr-o anumită țară și este exact tiparul care face din acordul global de notare un diagnostic slab. Un notator poate fi de acord cu notatorii umani în medie, în timp ce greșește într-o direcție constantă pentru studenții a căror limbă este încă în dezvoltare.
 
@@ -116,7 +116,7 @@ Oferă alternative funcționale. Studenții au nevoie de o cale clară spre spri
 
 **4.** Adaugă o verificare care înregistrează sensul sau decizia studentului, cum ar fi o notă de două propoziții despre o schimbare pe care a acceptat-o sau a respins-o.
 
-**5.** Dacă grila ta notează calitatea scrierii, separă acel criteriu de cel conceptual și recitește câte două lucrări din fiecare cu această separare în minte.
+**5.** Dacă grila ta notează [[writing-education|calitatea scrierii]], separă acel criteriu de cel conceptual și recitește câte două lucrări din fiecare cu această separare în minte.
 
 ## Încotro mai departe
 

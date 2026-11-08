@@ -8,7 +8,7 @@ ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 contributors: [editor]
 translation_of: "faqs/designing-educational-ai-software"
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -31,7 +31,7 @@ La risposta è più stretta di quanto la maggior parte delle specifiche di prodo
 
 **1.** Scrivi cosa decide il sistema e cosa decide un insegnante. Quel confine diventa l'architettura.
 
-**2.** Valuta l'interazione a più turni e consapevole della disciplina su un curriculum reale, non singoli prompt contro una rubrica di sicurezza generica.
+**2.** Valuta l'interazione a più turni e consapevole della disciplina su un [[curriculum-design|curriculum]] reale, non singoli prompt contro una rubrica di sicurezza generica.
 
 **3.** Ancora le risposte a contenuti approvati, e tieni il componente di verifica separato da quello conversazionale.
 
@@ -67,7 +67,7 @@ La parte trasferibile è la separazione: i componenti che verificano non convers
 
 ## Tratta il lavoro dello studente come input non fidato
 
-Il modello di minaccia che la maggior parte dei consigli di progettazione omette sta dentro l'artefatto in valutazione. [[humble-prompt-injection-ai-grading-red-team-2026|La valutazione avversariale red-team di Humble (2026)]] ha testato se gli studenti potessero manipolare un valutatore basato su LLM tramite prompt injection nelle loro consegne, e la manipolazione ha funzionato: iniezioni che danno istruzioni al valutatore, lo riformulano o gli fanno interpretare un ruolo spostano il punteggio senza cambiare il lavoro.
+Il modello di minaccia che la maggior parte dei consigli di progettazione omette sta dentro l'artefatto in valutazione. [[humble-prompt-injection-ai-grading-red-team-2026|La valutazione avversariale red-team di Humble (2026)]] ha testato se gli studenti potessero manipolare un valutatore basato su [[llm|LLM]] tramite prompt injection nelle loro consegne, e la manipolazione ha funzionato: iniezioni che danno istruzioni al valutatore, lo riformulano o gli fanno interpretare un ruolo spostano il punteggio senza cambiare il lavoro.
 
 Tieni la rubrica e le istruzioni fuori dalla finestra di contesto controllata dallo studente, rimuovi o segnala i contenuti che somigliano a istruzioni, non lasciare mai che una consegna fissi i propri criteri, e mantieni una decisione umana su ogni voto che ha conseguenze. Un valutatore che legge le proprie istruzioni dal testo che giudica ha consegnato la rubrica al candidato.
 
@@ -98,6 +98,9 @@ Un modello più grande aggiusterà la pedagogia. La scala non ha migliorato in m
 Un buon indice di recupero significa che i contenuti sono gestiti. EduGuard abbina il recupero a un verificatore separato e testa prompt avversariali che chiedono la risposta diretta, perché il recupero ancorato lascia comunque una via alla rivelazione eccessiva.
 
 L'insegnante è il ripiego. Tutti e sei gli insegnanti dello studio di progettazione hanno chiesto registrazione, avvisi e override come condizione di responsabilità professionale. Un ticket di assistenza non è un override.
+
+Il piacere non sostituisce l'aderenza al compito. In un'indagine su 405 studenti di laurea magistrale in design ([[chu-design-students-ai-agent-tam-ttf-2026|Chu e Liu (2026)]]), l'aderenza compito-tecnologia portava un proprio percorso verso l'atteggiamento (β = 0,224) accanto all'[[technology-acceptance-model|utilità percepita]], e le caratteristiche del compito guidavano l'aderenza più delle caratteristiche dello strumento (β = 0,322 contro 0,266). Il piacere percepito alzava la facilità d'uso e non faceva nulla per l'utilità (β = −0,033, p = 0,483). Il piacere vale la pena di essere costruito, ma non sostituisce l'abbinamento delle funzioni ai passi del compito.
+
 
 L'accessibilità è un ticket successivo. O sta nelle specifiche o diventa una riscrittura, e i testi alternativi e i sottotitoli generati hanno comunque bisogno di un controllo umano.
 

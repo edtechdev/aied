@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 updated: "2026-10-30T17:00:00-04:00"
@@ -107,7 +107,7 @@ ai_assist:
 
 ## الفئات الخاصة والإنصاف العالمي
 
-- **الفئات الخاصة:** [[special-education]]، و[[neurodivergent-computing-students|المتعلّمون المتنوعون عصبيًا]]، و[[dyslexlens-dyslexic-learners-ai|المتعلّمون المصابون بعسر القراءة]]، و[[special-education|المتعلّمون ذوو الإعاقة]] جماعات كثيرًا ما تُغفَل احتياجاتها في تصميم أنظمة الذكاء الاصطناعي.
+- **الفئات الخاصة:** [[special-education]]، و[[neurodivergent-computing-students|المتعلّمون المتنوعون عصبيًا]]، و[[dyslexlens-dyslexic-learners-ai|المتعلّمون المصابون بعسر القراءة]]، و[[inclusive-learning|المتعلّمون ذوو الإعاقة]] جماعات كثيرًا ما تُغفَل احتياجاتها في تصميم أنظمة الذكاء الاصطناعي.
 - **منظورات الجنوب العالمي:** تقدّم [[suacode-african-students-motivations|دوافع الطلاب الأفارقة]]، و[[connected-ai-lesson-planning-vietnam|تخطيط الدروس بالذكاء الاصطناعي في فيتنام]]، و[[pre-service-science-teachers-ai-perceptions-2026|قبول معلّمي غانا]] منظورات الجنوب العالمي الغائبة كثيرًا عن بحوث الذكاء الاصطناعي في التعليم المتمركزة حول الغرب. وعلى المستوى المؤسسي، يُظهر [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] أن اندماج الذكاء الاصطناعي في 45 جامعة نيجيرية يدفعه عصر المؤسسة وجغرافيتها لا نوع الحوكمة، مع روابط شبكية مُعزِّزة تتيح للمؤسسات جيدة الارتباط أن تُراكم الميزة — دليل على أن فجوات الإنصاف تُستنسخ بنيويًا لا من خلال الوصول الفردي فحسب.
 - **القدرة العالمية:** تُوثّق الأدلة كيف تتوزع مزايا الذكاء الاصطناعي التوليدي توزيعًا غير متساوٍ بين البلدان والمؤسسات، وتعالج [[ai-lifelong-learning-policy|سياسة الذكاء الاصطناعي والتعلّم مدى الحياة]] التدرّجات الاجتماعية الاقتصادية البنيوية.
 - وجدت مراجعة PRISMA لـ72 دراسة تقييم في التعليم العالي أن قاعدة الأدلة متمركزة جغرافيًا: فقد قدّمت أستراليا والمملكة المتحدة 31 من الدراسات الـ72 بينهما، ولم تُحدَّد أي دراسة من أمريكا الجنوبية ([[higher-ed-assessments-genai-systematic-review|Crompton و Burke (2026)]]).

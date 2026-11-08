@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Průměry skrývají právě tu variaci, která rozhoduje otázku spravedlnosti.
 
 ### „Uvedli, že se hodně naučili.“
 
-Sebevýpověď měří vnímání, přijetí, úzkost a [[self-efficacy|vlastní účinnost]] a ve všech čtyřech je dobrá. Není měřítkem prokázané schopnosti, protože lidé mohou být jistí a mýlit se, nebo zdatní a málo sebevědomí. Syntéza výzkumu gramotnosti učitelů v oblasti AI v této wiki uvádí podstatnou mezeru mezi sebehodnocením a měřeným výkonem a vyučující v něm svou kompetenci značně přecenili ([[ai-literacy-assessment-misalignment|Hodnocení gramotnosti v oblasti AI: sebevýpověď versus měřený výkon]]). Každou sebevýpověď spárujte s úkolem: najít chybu ve výstupu, ověřit zdroj, zvolit strategii použití, odhalit zaujatost nebo přitakávačnost, přepracovat vadnou odpověď, kalibrovat jistotu proti přesnosti. Jedna taková položka v dotazníku mění názor na výsledek.
+[[self-report-measures|Sebevýpověď]] měří vnímání, přijetí, [[anxiety-and-stress|úzkost]] a [[self-efficacy|vlastní účinnost]] a ve všech čtyřech je dobrá. Není měřítkem prokázané schopnosti, protože lidé mohou být jistí a mýlit se, nebo zdatní a málo sebevědomí. Syntéza výzkumu gramotnosti učitelů v oblasti AI v této wiki uvádí podstatnou mezeru mezi [[self-assessment|sebehodnocením]] a měřeným výkonem a vyučující v něm svou kompetenci značně přecenili ([[ai-literacy-assessment-misalignment|Hodnocení gramotnosti v oblasti AI: sebevýpověď versus měřený výkon]]). Každou sebevýpověď spárujte s úkolem: najít chybu ve výstupu, ověřit zdroj, zvolit strategii použití, odhalit zaujatost nebo přitakávačnost, přepracovat vadnou odpověď, kalibrovat jistotu proti přesnosti. Jedna taková položka v dotazníku mění názor na výsledek.
 
 ### „Simulovaný student je levná náhrada skutečného.“
 
@@ -180,7 +180,7 @@ Dohled závisí na expertize, kterou silná automatizace lidem odrazuje budovat.
 
 ### „Výuka kritického a etického používání AI stojí produktivitu.“
 
-Neověřená automatizace produkuje přepracování, bezpečnostní incidenty, diskriminační rozhodnutí, právní expozici, poškození pověsti a falešné sebevědomí, a každé z toho je náklad, který číslo produktivity nezapočítalo. Zaměstnanec, kterého se vyplatí najmout, je ten, kdo rozděluje práci mezi lidi a nástroje a přitom drží kvalitu, důvěrnost, odpovědnost a odborný úsudek. To je argument produktivity, jen vedený směrem, který rozvaha obvykle opomíjí ([[human-ai-collaboration|Spolupráce člověka a AI]], [[governance|Správa a řízení AI]]).
+Neověřená automatizace produkuje přepracování, bezpečnostní incidenty, diskriminační rozhodnutí, [[legal-issues-and-risks|právní expozici]], poškození pověsti a falešné sebevědomí, a každé z toho je náklad, který číslo produktivity nezapočítalo. Zaměstnanec, kterého se vyplatí najmout, je ten, kdo rozděluje práci mezi lidi a nástroje a přitom drží kvalitu, důvěrnost, odpovědnost a odborný úsudek. To je argument produktivity, jen vedený směrem, který rozvaha obvykle opomíjí ([[human-ai-collaboration|Spolupráce člověka a AI]], [[governance|Správa a řízení AI]]).
 
 ## Odpovězte na to, čemu věří studenti
 
@@ -244,7 +244,7 @@ Text politiky nevytváří sdílené porozumění. Studenti i personál čtou o�
 
 ### „Nevole učitelů je mezera ve školení.“
 
-Někdy ano. Připravenost je také pracovní zátěž, [[learner-identity|profesní identita]], oborové hodnoty, pochybnosti o validitě hodnocení, slabá institucionální podpora, nejistota kolem soukromí a odůvodněný úsudek, že určitá aplikace studentům neprospívá. Rozvoj proto musí pokrýt praktickou kompetenci, pedagogické začlenění, účel a identitu, čas, politiku, [[discipline-specific-aied|použití specifické pro obor]] a možnost zásadově aplikaci nepřijmout. Jednorázová ukázka funkce neřeší profesní a organizační změnu ([[educational-development|Rozvoj pedagogů]]).
+Někdy ano. Připravenost je také pracovní zátěž, [[learner-identity|profesní identita]], oborové hodnoty, pochybnosti o validitě hodnocení, slabá institucionální podpora, nejistota kolem soukromí a odůvodněný úsudek, že určitá aplikace studentům neprospívá. Rozvoj proto musí pokrýt praktickou kompetenci, pedagogické začlenění, účel a identitu, čas, politiku, [[discipline-specific-aied|použití specifické pro obor]] a možnost zásadově aplikaci nepřijmout. Jednorázová ukázka funkce neřeší profesní a [[change-management|organizační změnu]] ([[educational-development|Rozvoj pedagogů]]).
 
 ### „Říct lidem správná fakta stačí.“
 
@@ -263,7 +263,7 @@ Propracovaná verze, kterou můžete přizpůsobit kterékoli položce na této 
 > **Mylná představa:** „Dobře vypadající úkol vytvořený s AI dokazuje, že se student naučil.“
 > **Vyvrácení:** „To nemusí být pravda. Produkt ukazuje, co student a AI vytvořili společně, ale neodhaluje, které uvažování provedl student.“
 > **Náhrada:** „Učení se lépe prokazuje tehdy, když student dokáže schopnost vysvětlit, přenést, přizpůsobit a znovu zopakovat.“
-> **Aplikace:** „Po práci s AI zařaďte vysvětlení, ústní obhajobu, záznam o procesu nebo aplikaci bez pomoci.“
+> **Aplikace:** „Po práci s AI zařaďte vysvětlení, [[oral-assessment|ústní obhajobu]], záznam o procesu nebo aplikaci bez pomoci.“
 
 Váhu nese náhrada. Odstranit mylnou představu, aniž dáte lepší vysvětlení, nechá člověka bez myšlenkového nástroje, a staré přesvědčení se vrátí, až ho zkušenost znovu potvrdí.
 
@@ -289,7 +289,7 @@ Učitelé podstatně přecenili svou kompetenci v oblasti AI, když se sebevýpo
 
 ### „Rodiče nepřijmou nic jiného než zákaz.“
 
-Rodiče se ptají, zda je ta věc před jejich dítětem bezpečná a zda ta kvalifikace něco znamená. Odpovězte přímo na ty dvě otázky, a to otázkami pedagogické bezpečnosti, ne filtrem obsahu, a argument pro zákaz ztratí sílu. Otázka pro radu je užší než titulek a snáze se obhajuje.
+[[parents-and-families|Rodiče]] se ptají, zda je ta věc před jejich dítětem bezpečná a zda ta kvalifikace něco znamená. Odpovězte přímo na ty dvě otázky, a to otázkami pedagogické bezpečnosti, ne filtrem obsahu, a argument pro zákaz ztratí sílu. Otázka pro radu je užší než titulek a snáze se obhajuje.
 
 ### „Nemůžeme dělat ústní obhajoby v přednáškovém kurzu této velikosti.“
 

@@ -17,7 +17,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: "faqs/reduce-ai-cheating"
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -25,7 +25,7 @@ translation_note: "*Traduzione automatica della pagina in inglese, non ancora ri
 
 È la sesta settimana. Un saggio da fare a casa torna fluente e vuoto e non riesci a dire se lo studente l'ha scritto. Oppure quattro elaborati condividono una forma che nessuno in aula ha prodotto a settembre, e l'ufficio integrità vuole un resoconto scritto di che cosa stava misurando quel compito. Oppure il tuo dipartimento ha votato il mese scorso di limitare la [[generative-ai|IA generativa]] nei corsi di base e ha lasciato a te il compito di dare un senso a quel limite.
 
-La risposta da dare a un collega: smetti di cercare di dimostrare chi ha scritto il lavoro e cambia le condizioni in cui viene scritto. Il rilevamento è la leva più debole che hai. Le leve che tengono sono un compito in cui la scorciatoia lascia una traccia, un passo singolo senza assistenza che puoi osservare e una breve sequenza insegnata che tiene gli studenti dentro il lavoro cognitivo.
+Ecco la risposta: smetti di cercare di dimostrare chi ha scritto il lavoro e cambia le condizioni in cui viene scritto. Il rilevamento è la leva più debole che hai. Le leve che tengono sono un compito in cui la scorciatoia lascia una traccia, un passo singolo senza assistenza che puoi osservare e una breve sequenza insegnata che tiene gli studenti dentro il lavoro cognitivo.
 
 ## La versione breve
 
@@ -57,11 +57,14 @@ Parti da un'etichetta. L'[[ai-assessment-scale-reform|AI Assessment Scale (AIAS)
 
 Poi cambia l'artefatto. Una [[meta-analysis-systematic-review|revisione sistematica]] di 72 studi sull'IA generativa nell'[[cs-education|insegnamento dell'informatica]] valuta la riprogettazione come fattibile e ad alta leva, e ne isola una mossa: aggiungere un elemento orale o comunque visibile nel processo ad almeno una valutazione ad alto impatto per corso. La chiama l'intervento singolo più efficace del corpus. Il rilevamento è l'area più sottile coperta dalla revisione, con solo 3 studi, contro il 60-80% degli studenti di informatica che dichiarano uso di IA generativa nei lavori di corso, di solito senza autorizzazione esplicita del docente, e il 70% di un campione nazionale di docenti che chiede esplicitamente formazione sulla progettazione di valutazioni resistenti all'IA ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Un corso di informatica triennale mostra quanto può muovere il comportamento un flusso di dichiarazione con impalcature. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] richiedevano una bozza indipendente con una checklist di quattro voci, un passo di rifinitura — non riscrittura — con l'IA, un modulo di dichiarazione e una riflessione strutturata, con una bozza o un modulo mancante valutati zero. L'adozione è salita da circa due terzi degli studenti con una politica volontaria al 93% nell'anno con impalcature; l'81% e l'84% degli utenti dell'IA hanno riferito di aver rifiutato o modificato suggerimenti, i valutatori hanno codificato il 77-81% delle consegne come impegnate criticamente, e l'uso dell'IA non prediceva in modo indipendente la qualità del saggio dopo aver controllato l'abilità di scrittura pregressa. È un resoconto di esperienza di un singolo corso, non uno studio controllato, ma mostra il lavoro sull'integrità che si sposta dal rilevamento alle condizioni in cui gli studenti dichiarano e revisionano.
+
+
 Il menù, più o meno nell'ordine in cui ciascuna opzione sopravvive a una classe grande.
 
-Senza assistenza, in aula, a libri chiusi: esami sorvegliati, quiz, scrittura a tempo. Dagli più peso di prima, perché i compiti a casa sono l'artefatto che l'IA gonfia. Gli esami orali e le discussioni difensive funzionano per la stessa ragione, dato che il dialogo in tempo reale è difficile da esternalizzare ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Senza assistenza, in aula, a libri chiusi: esami sorvegliati, quiz, scrittura a tempo. Dagli più peso di prima, perché i compiti a casa sono l'artefatto che l'IA gonfia. Gli [[oral-assessment|esami orali]] e le discussioni difensive funzionano per la stessa ragione, dato che il dialogo in tempo reale è difficile da esternalizzare ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Artefatti di processo: bozze, tracce di ragionamento, annotazioni "mostra il tuo ragionamento", registri di revisione, così il *processo* è visibile e non solo il prodotto ([[authentic-products-authenticated-processes-2026]]). I compiti autentici lavorano accanto a questi: casi locali, materiale di tirocinio, i dati dello studente stesso, qualunque cosa sia difficile da delegare ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Artefatti di processo: bozze, tracce di ragionamento, annotazioni "mostra il tuo ragionamento", registri di revisione, così il *processo* è visibile e non solo il prodotto ([[authentic-products-authenticated-processes-2026]]). I [[authentic-assessment|compiti autentici]] lavorano accanto a questi: casi locali, materiale di tirocinio, i dati dello studente stesso, qualunque cosa sia difficile da delegare ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 La variazione del compito per studente, dove ciascuno riceve una versione superficialmente diversa ma equivalente nel costrutto, rende la copiatura strutturalmente inutile. Tratta la garanzia come condizionata alla capacità: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] ha trovato che i generatori di frontiera arrivano solo a 0,81-0,88 su un punteggio congiunto di integrità, mentre i modelli non di frontiera crollano a 0,50-0,55. Se le tue varianti non sono equivalenti, hai comprato protezione contro la condivisione al prezzo di un'ingiustizia tra studenti.
 
@@ -99,7 +102,7 @@ Scrivi la regola con precisione, poi. [[wright-transcription-not-generation-2026
 
 Vietare lo strumento e permetterlo senza struttura producono lo stesso esito: studenti che restano fuori dal lavoro cognitivo.
 
-La sintesi Ridurre l'uso improprio dell'IA espone otto principi di progettazione per la versione consentita, tra cui: preservare la [[desirable-difficulties|difficoltà desiderabile]], posizionare l'IA come partner di pensiero provvisorio e non come autorità, inserire punti di controllo valutativi e richiedere un diario [[metacognition|metacognitivo]] e registri dei prompt.
+La sintesi Ridurre l'uso improprio dell'IA espone otto principi di progettazione per la versione consentita, tra cui: preservare la [[desirable-difficulties|difficoltà desiderabile]], posizionare l'IA come partner di pensiero provvisorio e non come autorità, inserire punti di controllo valutativi e richiedere un [[reflection|diario]] [[metacognition|metacognitivo]] e registri dei prompt.
 
 La sequenza che porta quei principi è abbastanza breve da stampare su un foglio di consegna:
 
@@ -125,7 +128,7 @@ L'esempio misurato è un modulo [[k-12|K-12]] che usa la pratica dei prompt basa
 
 Ciò che gli studenti credono davvero è meno cinico di quanto suggerisca il panico. Tra 504 studenti di sociologia, il 65% aveva usato l'IA generativa per i lavori di corso, ma solo il 3% per generare il testo di un compito e il 2% per generare una bozza completa. L'81% aveva ricevuto qualche indicazione sull'IA e solo il 46% l'aveva trovata molto chiara ([[student-genai-use-views-writing]]). Il problema pratico è l'ambiguità, non la sfida: ed è per questo che una regola chiara più una sequenza insegnata spostano più comportamenti di un avvertimento. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa e Mezgebu (2026)]] descrivono studenti che si chiedono se l'IA generativa sia uno strumento che facilita l'imbroglio o un partner che sostiene l'apprendimento, e a quella domanda dovrebbero rispondere le tue aspettative.
 
-Il danno che vale la pena insegnare esplicitamente è il [[ai-misuse-learning-harm|divario prestazione-apprendimento]]: la prestazione sale subito, l'apprendimento scende dopo, e lo studente sperimenta solo la prima parte. [[ai-tools-academic-work-cheating-2026]] e [[student-rationalization-ai-writing]] coprono il lato delle norme tra pari e della razionalizzazione, compresa la difesa del "lo fanno tutti" che una norma chiara sgonfia. Per capire quanto è solida questa base, vedi [[ai-literacy-evidence]] e [[top-10-findings-ai-education-instructors]].
+Il danno che vale la pena insegnare esplicitamente è il [[ai-misuse-learning-harm|divario prestazione-apprendimento]]: la prestazione sale subito, l'apprendimento scende dopo, e lo [[student-experience|studente]] sperimenta solo la prima parte. [[ai-tools-academic-work-cheating-2026]] e [[student-rationalization-ai-writing]] coprono il lato delle norme tra pari e della razionalizzazione, compresa la difesa del "lo fanno tutti" che una norma chiara sgonfia. Per capire quanto è solida questa base, vedi [[ai-literacy-evidence]] e [[top-10-findings-ai-education-instructors]].
 
 ## Cosa sbagliano i docenti su questo
 

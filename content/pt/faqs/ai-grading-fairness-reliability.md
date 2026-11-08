@@ -1,9 +1,9 @@
 ---
 title: "Posso usar IA para corrigir o trabalho dos estudantes com justiça e confiabilidade?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Você tem uma rubrica em que acredita, mais entregas do que horas e uma ferramenta que devolve uma nota e vários parágrafos cheios de confiança no tempo de ler uma redação. Você a testa em trabalhos que já corrigiu. Metade das notas parece certa. Uma é estranhamente generosa, outra estranhamente dura, e você ainda não consegue dizer se a culpa é da ferramenta ou da redação.
 
-Resposta curta para dar a um colega: a correção por IA conquista seu lugar como assistente supervisionado ou segundo leitor, em tarefas em que você a testou contra trabalhos que já corrigiu. A concordância não se transfere entre tipos de avaliação. Em um exame de farmácia com 16 estudantes, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] encontraram concordância quase perfeita nos tipos de item objetivos e uma concordância não confiável nas respostas abertas. Em três universidades inglesas, [[opraise-automated-marking-ai-assessment-2026|o projeto OpRaise]] encontrou avaliadores de IA e humanos concordando sobre a faixa de nota entre 35% e 65% do tempo, dependendo da instituição, com notas comprimidas para o meio. Uma justificativa fluente não é evidência de que seus critérios foram aplicados. Se o resultado é [[assessment-validity|válido para a sua decisão]] é uma questão local que você mesmo precisa responder, e [[human-in-the-loop-ai|uma pessoa continua responsável]] por qualquer coisa que se torne nota registrada.
+Aqui está a resposta curta: a correção por IA conquista seu lugar como assistente supervisionado ou segundo leitor, em tarefas em que você a testou contra trabalhos que já corrigiu. A concordância não se transfere entre tipos de avaliação. Em um exame de farmácia com 16 estudantes, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] encontraram concordância quase perfeita nos tipos de item objetivos e uma concordância não confiável nas respostas abertas. Em três universidades inglesas, [[opraise-automated-marking-ai-assessment-2026|o projeto OpRaise]] encontrou avaliadores de IA e humanos concordando sobre a faixa de nota entre 35% e 65% do tempo, dependendo da instituição, com notas comprimidas para o meio. Uma justificativa fluente não é evidência de que seus critérios foram aplicados. Se o resultado é [[assessment-validity|válido para a sua decisão]] é uma questão local que você mesmo precisa responder, e [[human-in-the-loop-ai|uma pessoa continua responsável]] por qualquer coisa que se torne nota registrada.
 
 ## A versão curta
 
@@ -48,7 +48,7 @@ Três arranjos são chamados de "correção por IA" e carregam obrigações dife
 
 Um **assistente de feedback** rascunha comentários ou sinaliza omissões possíveis para você aceitar, reescrever ou descartar. O risco fica confinado à qualidade do comentário, e você lê tudo antes que chegue a um estudante. Um **segundo leitor** propõe notas por critério ou sinaliza discordâncias para estruturar a sua própria correção. Os erros dele precisam ser úteis, não apenas errados: uma sinalização que te devolve a uma entrega que você teria corrigido com descuido vale a pena. Um **avaliador principal** produz notas que se tornam notas registradas. É o arranjo que a evidência desta base de conhecimento não sustenta fora de casos estreitos e validados localmente.
 
-Escolha o degrau mais baixo que atende à sua restrição real. Se sua carga de correção vem de conferir um gabarito fixo, a pontuação determinística comum é mais transparente e auditável que um modelo de linguagem, e o estudo de farmácia sugere que a vantagem do LLM nos itens objetivos era em parte um artefato de receber as respostas corretas durante a correção. Reserve o modelo para trabalho que exige interpretação e depois confira essa interpretação.
+Escolha o degrau mais baixo que atende à sua restrição real. Se sua carga de correção vem de conferir um gabarito fixo, a pontuação determinística comum é mais transparente e auditável que um [[llm|modelo de linguagem]], e o estudo de farmácia sugere que a vantagem do LLM nos itens objetivos era em parte um artefato de receber as respostas corretas durante a correção. Reserve o modelo para trabalho que exige interpretação e depois confira essa interpretação.
 
 [[automated-assessment|Avaliação automatizada]] cobre a maquinaria mais ampla de pontuação, moderação e geração de feedback. Esta página é a questão de julgamento que está por baixo disso.
 

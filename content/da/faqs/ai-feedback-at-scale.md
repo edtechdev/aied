@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Det er sjette uge. Du har en stak udkast, en rubrik du tror på, og en voksende mistanke om, at en tredjedel af dine kommentarer bliver skimmet og glemt. En kollega nævner, at et værktøj nu kommenterer hvert udkast inden for en time. Afdelingsmødet har brug for et svar: er det her en opgradering, eller en hurtigere måde at producere tekst, som ingen læser?
 
-Det korte svar til en kollega: AI-feedback gør sig fortjent til sin plads på dækning, rettidighed og konsistens, inden for et snævert bånd. Sprogarbejde på korrekturlæsningsniveau og rubrikstyrede førstegangskommentarer er værd at automatisere. Rækkevidde er den billige del. I et klyngerandomiseret eksperiment med 1.176 førsteårsstuderende på bacheloruddannelser slog reflekterende og hybride design direkte AI-kritik på forsinket, AI-fri [[transfer-of-learning|transfer]]. I et randomiseret essayeksperiment med 70 studerende gav bedre bedømt AI-feedback ikke bedre revisioner end en erfaren undervisers. Det, en studerende gør med en kommentar, afgør udfaldet, og [[feedback-literacy|feedbackkompetence]] adskiller de studerende, der får noget ud af det, fra dem, der kopierer.
+Det korte svar til en kollega: AI-feedback gør sig fortjent til sin plads på dækning, rettidighed og konsistens, inden for et snævert bånd. Sprogarbejde på korrekturlæsningsniveau og rubrikstyrede førstegangskommentarer er værd at automatisere. Rækkevidde er den billige del. I et klyngerandomiseret eksperiment med 1.176 førsteårsstuderende på bacheloruddannelser slog reflekterende og hybride design direkte AI-kritik på forsinket, AI-fri [[transfer-of-learning|transfer]]. I et randomiseret essayeksperiment med 70 studerende gav bedre bedømt AI-feedback ikke bedre revisioner end en erfaren [[teacher-role|undervisers]]. Det, en studerende gør med en kommentar, afgør udfaldet, og [[feedback-literacy|feedbackkompetence]] adskiller de studerende, der får noget ud af det, fra dem, der kopierer.
 
 ## Den korte version
 
@@ -38,7 +38,7 @@ Det korte svar til en kollega: AI-feedback gør sig fortjent til sin plads på d
 
 **2.** Sortér dine egne kommentarer i rettelser på sprogniveau og vurderinger på dømmekraftsniveau. Kun den første kategori er kandidat til automatisering.
 
-**3.** Sæt kilderne i rækkefølge. Selvevaluering først, peer-feedback som nummer to, AI-kritik som nummer tre. To kilder sat side om side giver passiv optagelse.
+**3.** Sæt kilderne i rækkefølge. Selvevaluering først, [[peer-assessment|peer-feedback]] som nummer to, AI-kritik som nummer tre. To kilder sat side om side giver passiv optagelse.
 
 **4.** Giv modellen din rubrik, og lad den ræsonnere skridt for skridt. En bar instruktion giver generisk output.
 
@@ -50,7 +50,7 @@ Det korte svar til en kollega: AI-feedback gør sig fortjent til sin plads på d
 
 Den fristende metrik er kvaliteten af det, modellen skriver. Det er også den metrik, der vildleder.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomiserede 70 studerende, der skrev argumenterende essays på persisk, i tre grupper. Chain-of-thought-prompting gav signifikant højere bedømt feedback (M = 12,90) end zero-shot-prompting (M = 11,25, p = 0,01) og end en erfaren menneskelig underviser (M = 11,20, p = 0,008). Chain-of-thought-gruppen reviderede ikke sine essays signifikant mere end gruppen med underviserfeedback, som opnåede sammenlignelige gevinster. Bedre kommentarer, de samme revisioner. Hvis dit succeskriterium er kommentarkvalitet, læses den undersøgelse som en sejr. Hvis det er, hvad der ændrede sig i essayet, gør den ikke.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomiserede 70 studerende, der skrev argumenterende essays på persisk, i tre grupper. Chain-of-thought-[[prompt-engineering|prompting]] gav signifikant højere bedømt feedback (M = 12,90) end zero-shot-prompting (M = 11,25, p = 0,01) og end en erfaren menneskelig underviser (M = 11,20, p = 0,008). Chain-of-thought-gruppen reviderede ikke sine essays signifikant mere end gruppen med underviserfeedback, som opnåede sammenlignelige gevinster. Bedre kommentarer, de samme revisioner. Hvis dit succeskriterium er kommentarkvalitet, læses den undersøgelse som en sejr. Hvis det er, hvad der ændrede sig i essayet, gør den ikke.
 
 To andre signaler smigrer for et pilotprojekt, der går dårligt, så fastlæg dem på forhånd. Studerendes tilfredshed er det ene. I det universitetsdækkende Deakin-pilotprojekt, som [[tubino-adachi-ai-automated-feedback-literacy|Tubino og Adachi (2022)]] rapporterer om, eksisterede positive gennemsnitsvurderinger side om side med fejl, som studerende gjorde opmærksom på, så en smiley-undersøgelse er ikke evidens for nøjagtighed. Brug er det andet. Deakin-værktøjet var valgfrit, og brugen lå i gennemsnit på cirka 13 % af de studerende på bacheloruddannelser og 12 % af de studerende på kandidatuddannelser, selv om næsten 4.000 studerende havde adgang. Proaktive, højtpræsterende studerende brugte det mere. Det er, hvad man får for at gøre et værktøj tilgængeligt.
 
@@ -72,7 +72,7 @@ Den reflekterende betingelse krævede selvevaluering før AI-kritik. Den hybride
 
 Mekanismen forklarer, hvorfor rækkefølgen betyder mere end værktøjet. Direkte kritik indbyder til passiv optagelse: den studerende læser en dom og anvender den. Reflekterende og hybride design tvinger den studerende til at fortolke kommentaren, sammenligne den med kriterier, bedømme dens relevans og derefter revidere. Den uddannelsesmæssige værdi afhænger mindre af AI-adgang end af, om feedbackmiljøet bevarer [[agency|den lærendes agens]] og [[evaluative-judgment|evaluativ dømmekraft]] under revisionen.
 
-Peer-feedback gør sig fortjent til sin egen plads i sekvensen. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen og Yan (2026)]] kørte to parallelle engelske klasser (N = 118 førsteårsstuderende i Kina; GenAI n = 56, peer n = 62) gennem tre selvvurderingscyklusser over et semester. GenAI-stilladsning forbedrede feedbackkompetencen en smule, men signifikant, i forhold til menneskelig peer-review (ANCOVA p = 0,049, ηp² = 0,03). GenAI-studerende finpudsede prompts iterativt og verificerede eller udfordrede unøjagtigt output. Studerende i peergruppen valgte kilder efter social bekvemmelighed og fik deres evaluative dømmekraft forvansket af venskabsbias. Peer-review bevarede en særskilt værdi for bevidsthed om modtageren, hvilket er grunden til, at forfatterne foreslår flertrinsdesign med anonym peer-feedback frem for en erstatning.
+Peer-feedback gør sig fortjent til sin egen plads i sekvensen. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen og Yan (2026)]] kørte to parallelle engelske klasser (N = 118 førsteårsstuderende i Kina; GenAI n = 56, peer n = 62) gennem tre [[self-assessment|selvvurderingscyklusser]] over et semester. GenAI-[[scaffolding|stilladsning]] forbedrede feedbackkompetencen en smule, men signifikant, i forhold til menneskelig peer-review (ANCOVA p = 0,049, ηp² = 0,03). GenAI-studerende finpudsede prompts iterativt og verificerede eller udfordrede unøjagtigt output. Studerende i peergruppen valgte kilder efter social bekvemmelighed og fik deres evaluative dømmekraft forvansket af venskabsbias. Peer-review bevarede en særskilt værdi for bevidsthed om modtageren, hvilket er grunden til, at forfatterne foreslår flertrinsdesign med anonym peer-feedback frem for en erstatning.
 
 Gu et al.s fordel var lille, og de læser den som reel, men ikke transformerende i sig selv. Lærerstøtte, promptvejledninger og arbejdsark gjorde det understøttende arbejde.
 
@@ -80,15 +80,15 @@ Gu et al.s fordel var lille, og de læser den som reel, men ikke transformerende
 
 Rubrikrefereret generering er den automatisérbare del.
 
-Farrokhnia et al.s kvalitetsgevinst kom fra en chain-of-thought-prompt, der guidede modellen gennem en skridtvis evaluering mod en argumentationsrubrik, ikke fra en bar instruktion om at give feedback. Gu et al. gav deres GenAI-gruppe ChatGPT-4o med forudtrænede rubrikker og promptvejledninger, hvilket er det, der gjorde outputtet kontrollerbart mod oplyste kriterier. I begge tilfælde er prompten der, hvor dine kriterier kommer ind i systemet, og ræsonnementssporet er det, der lader dig se, om modellen anvendte dem.
+Farrokhnia et al.s kvalitetsgevinst kom fra en chain-of-thought-prompt, der guidede modellen gennem en skridtvis evaluering mod en argumentationsrubrik, ikke fra en bar instruktion om at give feedback. Gu et al. gav deres [[generative-ai|GenAI]]-gruppe ChatGPT-4o med forudtrænede rubrikker og promptvejledninger, hvilket er det, der gjorde outputtet kontrollerbart mod oplyste kriterier. I begge tilfælde er prompten der, hvor dine kriterier kommer ind i systemet, og ræsonnementssporet er det, der lader dig se, om modellen anvendte dem.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson og Yan (2025)]] gør promptkvalitet til hele processens hængsel. Vage prompts giver generisk, ubrugeligt output, og genererede kommentarer kan være hallucinerede, biaserede eller overlappende, hvilket skubber den evaluative dømmekraft tilbage til læseren. Kalibrering er endnu skarpere. Hos Farrokhnia et al. var GenAI-feedbackkvaliteten signifikant forbundet med styrken af den studerendes indledende udkast, mens underviserfeedbackens kvalitet ikke var. Underviseren kalibrerede mere konsekvent. Volumen skalerer. Kalibrering gør ikke.
 
 ## Behold det sidste ord og journalen hos et menneske
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma og Cobos (2026)]] beskriver AICoFE, som kører tre uafhængigt finjusterede modeller (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubrikscorer og kvalitative observationer for at producere uafhængige udkastkommentarer. Underviseren sammensætter derefter den endelige besked ved at vælge sætninger eller afsnit, med en forklaring der viser, hvilken model der bidrog med hvad. Modellen skriver udkast. Underviseren leverer, og det leverede er underskrevet af én person, der læste udkastet.
+[[becerra-aicofe-feedback-2026|Becerra, Palma og Cobos (2026)]] beskriver AICoFE, som kører tre uafhængigt finjusterede modeller (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) over rubrikscorer og [[qualitative-research|kvalitative]] observationer for at producere uafhængige udkastkommentarer. Underviseren sammensætter derefter den endelige besked ved at vælge sætninger eller afsnit, med en forklaring der viser, hvilken model der bidrog med hvad. Modellen skriver udkast. Underviseren leverer, og det leverede er underskrevet af én person, der læste udkastet.
 
-Aldino et al. finder samme mønster med assistance og derefter verifikation i almindelig praksis. Maskinlæringskomponenten markerede oftest »Meeting Learning Objective« som manglende (20 af 21 undervisere havde udeladt det; 16 accepterede markeringen) og »Student-Teacher Relationship« (14 udeladt; 12 accepterede). Underviserne afgjorde hvert forslag på fagligt skøn, hvilket er pointen med at sætte dem i loopet.
+Aldino et al. finder samme mønster med assistance og derefter verifikation i almindelig praksis. [[machine-learning|Maskinlæringskomponenten]] markerede oftest »Meeting Learning Objective« som manglende (20 af 21 undervisere havde udeladt det; 16 accepterede markeringen) og »Student-Teacher Relationship« (14 udeladt; 12 accepterede). Underviserne afgjorde hvert forslag på fagligt skøn, hvilket er pointen med at sætte dem i loopet.
 
 Tolv af Aldino et al.s 21 undervisere lavede yderligere revisioner på sætningsniveau, og det dominerende mønster var at kalibrere tone: at skrue ros ned (f = 11), fjerne forslag (f = 9), fjerne opmuntring (f = 8). Revisionerne klyngede sig i den relationelle dimension, især Student-Teacher Relationship (f = 24). De beskyttede autenticitet og faglig stemme, og det arbejde automatiseres ikke.
 
@@ -118,7 +118,7 @@ Tilfredshedsvurderinger fortæller dig, at kommentarerne er nøjagtige. I Deakin
 
 ## Hvad der vil komme tilbage til dig
 
-**»AI-feedback er ikke personlig.«** Ofte sandt, og det er grunden til at beholde det sidste ord hos et menneske. AICoFE findes, fordi generisk modelprosa ikke er det, en studerende bør modtage: underviseren vælger, redigerer og underskriver den endelige besked. De 21 undervisere hos Aldino et al. omskrev tone af samme grund. Personalisering er din opgave i dette design, og modellen laver forarbejdet.
+**»AI-feedback er ikke personlig.«** Ofte sandt, og det er grunden til at beholde det sidste ord hos et menneske. AICoFE findes, fordi generisk modelprosa ikke er det, en studerende bør modtage: underviseren vælger, redigerer og underskriver den endelige besked. De 21 undervisere hos Aldino et al. omskrev tone af samme grund. [[personalized-learning|Personalisering]] er din opgave i dette design, og modellen laver forarbejdet.
 
 **»Mine studerende læser alligevel ikke feedback.«** De læser mindre, end vi håber, og evidensen siger, at rettelsen er design frem for volumen. Optagelsen i Deakin-pilotprojektet lå på cirka 13 % og 12 %. Farrokhnia et al.s højere bedømte kommentarer gav ingen ekstra revision. Det, der flyttede noget, var en rækkefølge, der tvinger engagement, selvevaluering, derefter peer-feedback, derefter AI-kritik, plus tre revisionscyklusser over et semester, som gav målbare forskelle i feedbackkompetence.
 

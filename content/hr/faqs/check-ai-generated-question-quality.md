@@ -1,7 +1,7 @@
 ---
 title: "Kako provjeriti jesu li pitanja za kvizove i ispite koja generira AI doista dobra?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Zatražite dvadeset pitanja iz svojih bilježaka s predavanja. Vraćaju se s ključem odgovora, objašnjenjima, oznakama težine i kategorijama Bloomove taksonomije, u oblikovanom dokumentu koji izgleda dovršeno. Vaše ime uskoro ide na njega.
 
-Kratak odgovor za kolegu: generirana pitanja su kandidati, a ne procjena. Riješite svako sami, provjerite što čestica traži da student doista učini i saznajte kako studenti na nju odgovaraju prije nego što se počne brojati. U dvije najveće studije u ovoj bazi znanja zanimljiv signal nije to da generiranje funkcionira, nego gdje ne uspijeva. Iterativno generiranje unutar tijeka rada specifičnog za kolegij proizvelo je upotrebljive ispite s višestrukim izborom u 71 sveučilišnom razredu ([[assessing-quality-ai-generated-exams-field-2025|Isley i sur., 2025]]). U reviziji 311 pitanja u uporabi na području znanosti o podacima oznake težine koje je dao model gotovo su se savršeno poklapale s razinama Bloomove taksonomije koje je generirao uz njih (Spearman ρ = 0,90), dok su se s onim što su studenti doista postizali poklapale s ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang, 2026]]). Oznaka je bila opis poticaja, a ne mjerenje čestice.
+Evo kratkog odgovora: generirana pitanja su kandidati, a ne procjena. Riješite svako sami, provjerite što čestica traži da student doista učini i saznajte kako studenti na nju odgovaraju prije nego što se počne brojati. U dvije najveće studije u ovoj bazi znanja zanimljiv signal nije to da generiranje funkcionira, nego gdje ne uspijeva. Iterativno generiranje unutar tijeka rada specifičnog za kolegij proizvelo je upotrebljive ispite s višestrukim izborom u 71 sveučilišnom razredu ([[assessing-quality-ai-generated-exams-field-2025|Isley i sur., 2025]]). U reviziji 311 pitanja u uporabi na području znanosti o podacima oznake težine koje je dao model gotovo su se savršeno poklapale s razinama Bloomove taksonomije koje je generirao uz njih (Spearman ρ = 0,90), dok su se s onim što su studenti doista postizali poklapale s ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang, 2026]]). Oznaka je bila opis poticaja, a ne mjerenje čestice.
 
 ## Kratka verzija
 
@@ -46,7 +46,7 @@ Kratak odgovor za kolegu: generirana pitanja su kandidati, a ne procjena. Riješ
 
 Generiranje je dovoljno jeftino da izlazni format tiho postane specifikacija. Ako vaše bilješke daju uredne čestice višestrukog izbora, na kraju ćete mjeriti mogu li studenti birati među uvjerljivim tvrdnjama, kakav god ishod nastavni plan navodio.
 
-Najprije odredite ishod, zatim dokaze koje bi zadovoljavajući odgovor pružio, a potom znanje koje se od studenata očekuje. Uključite materijale kolegija, pogrešne predodžbe koje očekujete, dopuštene alate i format odgovora. Ako želite da studenti tumače dokaze, čestica mora tražiti tumačenje, a dodavanje te riječi pitanju o definiciji to ne postiže. Duga scenarij i dalje može biti rješiv preko jedne poznate fraze koja odaje rješenje.
+Najprije odredite ishod, zatim dokaze koje bi zadovoljavajući odgovor pružio, a potom znanje koje se od studenata očekuje. Uključite materijale kolegija, [[misconceptions|pogrešne predodžbe]] koje očekujete, dopuštene alate i format odgovora. Ako želite da studenti tumače dokaze, čestica mora tražiti tumačenje, a dodavanje te riječi pitanju o definiciji to ne postiže. Duga scenarij i dalje može biti rješiv preko jedne poznate fraze koja odaje rješenje.
 
 Nacrt rasporeda procjene tablica je ishoda prema česticama, a njegova je vrijednost u tome što otkriva praznine prije studenata. On također čini vidljivim kompromis: svaka čestica koju generirate iz najlakšeg materijala čestica je koju niste potrošili na ishod koji vam je najvažniji.
 
@@ -68,7 +68,7 @@ Drugi model može vam pomoći uočiti probleme, a suglasnost dvaju modela nije n
 
 ## Ne dopustite da oznaka težine odluči
 
-Literatura o [[automated-question-generation|generiranju pitanja]] korisnija je o neuspjehu oznaka nego o uspjehu generiranja. [[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang (2026)]] ispitali su 378 autorskih pitanja u kolegijima znanosti o podacima, od kojih je 311 upotrijebljeno kod 54 studenata u 7.888 odgovora. Oznake lako, srednje i teško koje je dao model korelirale su s njegovim vlastitim sugeneriranim razinama Bloomove taksonomije s ρ = 0,90, a s empirijskom težinom čestice s ρ = 0,06. Otprilike 70% upotrijebljenih čestica svaki je student točno riješio, što je ostavilo gotovo nikakvu varijaciju koju bi oznaka težine uopće mogla pratiti.
+Literatura o [[automated-question-generation|generiranju pitanja]] korisnija je o neuspjehu oznaka nego o uspjehu generiranja. [[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang (2026)]] ispitali su 378 autorskih pitanja u kolegijima znanosti o podacima, od kojih je 311 upotrijebljeno kod 54 studenata u 7.888 odgovora. Oznake lako, srednje i teško koje je dao model korelirale su s njegovim vlastitim sugeneriranim razinama Bloomove taksonomije s ρ = 0,90, a s empirijskom [[item-response-theory|težinom čestice]] s ρ = 0,06. Otprilike 70% upotrijebljenih čestica svaki je student točno riješio, što je ostavilo gotovo nikakvu varijaciju koju bi oznaka težine uopće mogla pratiti.
 
 Slijede dvije pouke. Prvo, težina je svojstvo interakcije između čestice i populacije, pa se nijedna oznaka dobivena prije primjene čestice ne može uzeti kao izmjerena vrijednost. Drugo, banka čestica koje svi rješavaju točno nije laka procjena, nego beskorisna: gotovo da ne nosi informaciju o tome tko što zna.
 
@@ -91,6 +91,9 @@ Revidirajte i čuvajte zapis: odobrenu verziju, ishod kojem služi, ključ, obra
 U uvodnom kolegiju sociologije ishod bi mogao biti razlikovanje strukturnog objašnjenja od individualnoga. Slaba čestica traži da studenti definiraju „strukturno“, što mjeri prepoznavanje vokabulara. Jači kandidat daje kratak scenarij o obitelji i odluci o zaposlenju, a zatim pita koje objašnjenje najbolje prepoznaje strukturno ograničenje, s ometačima koji predstavljaju uvjerljiva, ali različita tumačenja.
 
 Nastavnik provjerava da scenarij doista podupire ključ, da nijedna dva izbora ne izražavaju istu ideju i da odgovor ne ovisi o terminologiji koju kolegij nikad nije uveo. Nastavak u jednom retku, „koji detalj podupire vaš izbor?“, iznosi na vidjelo zaključivanje koje odabrani izbor skriva. Prilagodba nije testirana kao format čestice, a njezina je vrijednost uža: na pitanja za pregled gore može se odgovoriti prije primjene čestice, a loš se ključ može popraviti prije nego što ga studenti vide.
+
+Kad studenti nezadovoljstvo izražavaju u velikom broju, taj signal ima strukturu. U analizi 5.214.211 sesija pitanja za vježbu prikazanih unutar platforme udžbenika negativnih je ocjena bilo 2,00 na 1.000 sesija, nasuprot 3,31 pozitivnih, a samo je 22.844 od 809.848 pitanja ikad dobilo ocjenu ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson i sur., 2025]]). Raspored glasova nije bio slučajan: pitanja koja su tražila odgovore s prilogom dobivala su 5,23 negativne ocjene na 1.000, nasuprot 1,76 za odgovore s pridjevom, a važnost rečenice (omjer izgleda 2,38) i sličnost teksta odgovora (1,64) također su utjecali na ocjenu. Autorsko ugodeno pravilo palca iznosilo je oko 1,62 negativne ocjene na 1.000 kad su bila prisutna oba signala važnosti. Praktična je poanta da su studentske ocjene spor, ali stvaran mjerni kanal: platforma koja uklanja pitanja koja su opetovano dobivala negativne ocjene zatvara petlju, a nastavnik koji pilotira nekolicinu čestica dobiva isti signal brže tako da pita koji je detalj studentu bio sumnjiv.
+
 
 Za studente koji generiraju vlastita pitanja za vježbu isto pravilo vrijedi na njihovoj razini: pokušajte riješiti česticu, provjerite objašnjenje prema izvorima kolegija i nerješive slučajeve donesite nekome tko poznaje predmet. [[study-with-ai|Vježba učenja]] koja uči studente da nekritički prihvaćaju generirane ključeve uči pogrešnu naviku.
 

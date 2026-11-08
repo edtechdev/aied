@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,9 @@ Intet af det fastslår, at detektion aldrig virker. Det fastslår den fejlprofil
 
 ## Ændr det, opgaven gør let
 
+Et treårigt datalogikursus viser, hvor langt en stilladseret deklareringsarbejdsgang kan flytte adfærd. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] krævede et selvstændigt udkast med en checkliste på fire punkter, et AI-trin til at forfine frem for at omskrive, en deklareringsformular og en struktureret refleksion, hvor et manglende udkast eller en manglende formular gav nul. Tilslutningen steg fra omkring to tredjedele af de studerende under en frivillig politik til 93 % i det stilladserede år; 81 % og 84 % af AI-brugerne rapporterede at afvise eller ændre forslag, bedømmere kodede 77–81 % af besvarelserne for kritisk engagement, og AI-brug forudsagde ikke selvstændigt essaykvalitet, efter at tidligere skrivefærdighed var kontrolleret. Det er en erfaringsrapport fra et enkelt kursus, ikke et kontrolleret forsøg, men den viser integritetsarbejdet flytte sig fra detektion til de betingelser, hvorunder studerende deklarerer og reviderer.
+
+
 Syntesen [[reducing-ai-misuse|At reducere misbrug af AI]] placerer redesign i Tier 1 af en strukturel grund: det virker, uanset om en studerende vælger den rigtige adfærd, fordi det begrænser omgivelserne i stedet for at afhænge af motivation.
 
 Begynd med en etiket. [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] giver hver opgave et AI-brugsniveau, fra »ingen AI« over »AI kun til idéudvikling« og »AI-assistance med kildeangivelse« til »fuld AI-brug«, så forventningen er eksplicit og håndhævelig frem for udledt.
@@ -56,9 +59,9 @@ Begynd med en etiket. [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] 
 
 Menuen, nogenlunde i rækkefølge efter, hvor godt hver mulighed overlever et stort hold.
 
-Uden støtte, i lokalet, lukket bog: eksamener med opsyn, quizzes, tidsbegrænset skrivning. Vægt disse tungere, end du plejede, fordi hjemmearbejde er den artefakt, AI puster op. Mundtlige eksamener og forsvar virker af samme grund, da realtidsdialog er svær at udlicitere ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Uden støtte, i lokalet, lukket bog: eksamener med opsyn, quizzes, tidsbegrænset skrivning. Vægt disse tungere, end du plejede, fordi hjemmearbejde er den artefakt, AI puster op. [[oral-assessment|Mundtlige eksamener]] og forsvar virker af samme grund, da realtidsdialog er svær at udlicitere ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Procesartefakter: udkast, ræsonnementsspor, annoteret »vis din tænkning«, revisionslogge, så *processen* er synlig i stedet for kun produktet ([[authentic-products-authenticated-processes-2026]]). Autentiske opgaver virker sammen med dem: lokale cases, praktikmateriale, den studerendes egne data, alt hvad der er svært at delegere ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Procesartefakter: udkast, ræsonnementsspor, annoteret »vis din tænkning«, revisionslogge, så *processen* er synlig i stedet for kun produktet ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Autentiske opgaver]] virker sammen med dem: lokale cases, praktikmateriale, den studerendes egne data, alt hvad der er svært at delegere ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Variation af opgaven per studerende, hvor hver studerende får en overfladisk forskellig, men konstruktækvivalent version, gør kopiering strukturelt ubrugelig. Behandl garantien som betinget af formåen: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] fandt, at frontiermodeller kun nåede 0,81-0,88 på en samlet integritetsscore, mens ikke-frontiermodeller kollapser til 0,50-0,55. Hvis dine varianter ikke er ækvivalente, har du købt beskyttelse mod deling med uretfærdighed mellem studerende som følge.
 
@@ -96,7 +99,7 @@ Skriv også reglen præcist. [[wright-transcription-not-generation-2026|Wright (
 
 At forbyde værktøjet og at tillade det uden struktur giver samme resultat, nemlig studerende, der står uden for det kognitive arbejde.
 
-Syntesen om at reducere misbrug af AI opstiller otte designprincipper for den tilladte version, blandt andet: bevar [[desirable-difficulties|kognitiv friktion]], placer AI som en foreløbig tænkepartner frem for en autoritet, indbyg evalueringscheckpoints og kræv [[metacognition|metakognitiv]] journalføring og promptlogge.
+Syntesen om at reducere misbrug af AI opstiller otte designprincipper for den tilladte version, blandt andet: bevar [[desirable-difficulties|kognitiv friktion]], placer AI som en foreløbig tænkepartner frem for en autoritet, indbyg evalueringscheckpoints og kræv [[metacognition|metakognitiv]] [[reflection|journalføring]] og promptlogge.
 
 Sekvensen, der bærer disse principper, er kort nok til at trykke på en opgavebeskrivelse:
 
@@ -122,7 +125,7 @@ Det målte eksempel er et [[k-12|K-12]]-modul med scenariebaseret promptøvelse 
 
 Hvad studerende faktisk tror, er mindre kynisk, end panikken antyder. Blandt 504 sociologistuderende havde 65 % brugt generativ AI til kursusarbejde, men kun 3 % til at generere opgavetekst og 2 % til at generere et helt udkast. 81 % havde fået en eller anden AI-vejledning, og kun 46 % fandt den meget klar ([[student-genai-use-views-writing]]). Utydelighed, ikke trods, er det praktiske problem, og derfor flytter en klar regel plus en undervist sekvens mere adfærd end en advarsel. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa og Mezgebu (2026)]] beskriver studerende, der spørger, om generativ AI er et værktøj, der letter snyd, eller en partner, der støtter læring, og det spørgsmål er, hvad dine forventninger bør svare på.
 
-Den skade, der er værd at undervise eksplicit i, er [[ai-misuse-learning-harm|gabet mellem præstation og læring]]: præstationen stiger nu, læringen falder senere, og den studerende oplever kun det første. [[ai-tools-academic-work-cheating-2026]] og [[student-rationalization-ai-writing]] dækker peer-norm- og rationaliseringssiden, inklusive »alle gør det«-forsvaret, som en klar norm punkterer. For hvor stærkt dette grundlag er, se [[ai-literacy-evidence]] og [[top-10-findings-ai-education-instructors]].
+Den skade, der er værd at undervise eksplicit i, er [[ai-misuse-learning-harm|gabet mellem præstation og læring]]: præstationen stiger nu, læringen falder senere, og [[student-experience|den studerende oplever]] kun det første. [[ai-tools-academic-work-cheating-2026]] og [[student-rationalization-ai-writing]] dækker peer-norm- og rationaliseringssiden, inklusive »alle gør det«-forsvaret, som en klar norm punkterer. For hvor stærkt dette grundlag er, se [[ai-literacy-evidence]] og [[top-10-findings-ai-education-instructors]].
 
 ## Hvad undervisere gør forkert her
 

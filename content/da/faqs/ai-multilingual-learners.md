@@ -1,9 +1,9 @@
 ---
 title: "Hvordan kan AI støtte flersprogede lærende uden at fejlvurdere deres viden eller slette deres stemme?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 En studerende forstår begrebet og har brug for fire minutter ekstra for at sige det på engelsk. AI'en kan oversætte opgaveformuleringen, definere terminologien, indøve forklaringen sammen med dem eller skrive hele svaret. Tre af disse er undervisning. Én er at lave opgaven for dem.
 
-Det korte svar til en kollega: afgør, hvad sproget gør i denne opgave, før du afgør, hvad værktøjet må gøre. Hvor sproget er perifert, kan AI fjerne en barriere, der intet har med dit konstrukt at gøre. Hvor sproget er konstruktet, omgår det samme værktøj læringen. Risikoen løber begge veje på én gang: [[multilingual-learning|sprogstøtte]] kan forbedre adgangen, og automatiseret scoring kan stadig fejllæse den studerende. I ét fysikstudie blev forklaringer af lavere sproglig kvalitet systematisk bedømt under ekspertvurderingen af hver eneste testede AI-scoringsmetode, ni maskinlærings- og to sprogmodelsystemer blandt 116 gymnasieelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flydende sprog og forståelse blev scoret som én ting.
+Det korte svar til en kollega: afgør, hvad sproget gør i denne opgave, før du afgør, hvad værktøjet må gøre. Hvor sproget er perifert, kan AI fjerne en barriere, der intet har med dit konstrukt at gøre. Hvor sproget er konstruktet, omgår det samme værktøj læringen. Risikoen løber begge veje på én gang: [[multilingual-learning|sprogstøtte]] kan forbedre adgangen, og [[automated-assessment|automatiseret scoring]] kan stadig fejllæse den studerende. I ét fysikstudie blev forklaringer af lavere sproglig kvalitet systematisk bedømt under ekspertvurderingen af hver eneste testede AI-scoringsmetode, ni [[machine-learning|maskinlærings]]- og to sprogmodelsystemer blandt 116 gymnasieelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flydende sprog og forståelse blev scoret som én ting.
 
 ## Den korte version
 
@@ -45,13 +45,13 @@ Det korte svar til en kollega: afgør, hvad sproget gør i denne opgave, før du
 
 ## Afgør, hvad sproget gør
 
-I en biologiforklaring er grammatik mest perifer i forhold til det begreb, der bedømmes. I et sprogkursus er det at producere og revidere bestemte strukturer selve læringen. I professionel kommunikation tæller faglig præcision, modtager og register alt sammen. Det samme oversættelsesværktøj er passende i det første tilfælde, tvivlsomt i det andet og til forhandling i det tredje.
+I en [[biology-education|biologiforklaring]] er grammatik mest perifer i forhold til det begreb, der bedømmes. I et sprogkursus er det at producere og revidere bestemte strukturer selve læringen. I professionel kommunikation tæller faglig præcision, modtager og register alt sammen. Det samme oversættelsesværktøj er passende i det første tilfælde, tvivlsomt i det andet og til forhandling i det tredje.
 
-Skriv beslutningen ned, hvor de studerende kan læse den. Hvis studerende må oversætte instruktioner, men skal producere en forklaring på målsproget uden hjælp, så sig det eksplicit. Hvis terminologistøtte er tilladt, specificér, hvad den studerende stadig skal forklare og verificere. Tjek derefter arrangementet mod krav om tilpasning og institutionel politik i stedet for at behandle enhver form for sproglig assistance som udskiftelig. En studerende med en dokumenteret tilpasning og en studerende, der undgår øvelse, kan anmode om det samme, og kun den anden er dit undervisningsproblem.
+Skriv beslutningen ned, hvor de studerende kan læse den. Hvis studerende må oversætte instruktioner, men skal producere en forklaring på målsproget uden hjælp, så sig det eksplicit. Hvis terminologistøtte er tilladt, specificér, hvad den studerende stadig skal forklare og verificere. Tjek derefter arrangementet mod krav om tilpasning og [[educational-policy-ai|institutionel politik]] i stedet for at behandle enhver form for sproglig assistance som udskiftelig. En studerende med en dokumenteret tilpasning og en studerende, der undgår øvelse, kan anmode om det samme, og kun den anden er dit undervisningsproblem.
 
 ## Hvad forskningen understøtter, og hvad den ikke gør
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gennemgik 24 empiriske studier af generative chatbots i sprogindlæring. Deres bidrag er taksonomisk: hver undermulighed, der er katalogiseret for prægenerative chatbots, består, og tre er nye, heriblandt **translanguaging**, den bevidste bevægelse mellem sprog som del af læringen. Det er et kort over rapporterede anvendelser og oplevelser frem for et samlet estimat, og korpusset er geografisk koncentreret, med Kina, Iran, Taiwan og Türkiye som ophav til 19 af de 24 studier og alle på nær ét inde i formelle institutioner. Støtte til at bruge forklaring på tværs af sprog som læringstræk er ikke støtte til at oversætte enhver opgave.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gennemgik 24 empiriske studier af generative [[conversational-ai|chatbots]] i [[language-learning|sprogindlæring]]. Deres bidrag er taksonomisk: hver undermulighed, der er katalogiseret for prægenerative chatbots, består, og tre er nye, heriblandt **translanguaging**, den bevidste bevægelse mellem sprog som del af læringen. Det er et kort over rapporterede anvendelser og oplevelser frem for et samlet estimat, og korpusset er geografisk koncentreret, med Kina, Iran, Taiwan og Türkiye som ophav til 19 af de 24 studier og alle på nær ét inde i formelle institutioner. Støtte til at bruge forklaring på tværs af sprog som læringstræk er ikke støtte til at oversætte enhver opgave.
 
 Bedømmelse er der, hvor evidensen bliver skarpere, og indsatsen stiger. [[ai-scoring-language-bias-physics|Feser og Tschisgale (2026)]] sammenlignede elleve automatiserede scoringsmetoder med menneskelige ekspertscorer for 116 gymnasieelevers fysikforklaringer og fandt systematisk undervurdering af begrebsmæssig forståelse for sprogligt svagere forklaringer, i hver eneste metode. Designet isolerer mekanismen: det samme begrebsmæssige indhold, udtrykt i svagere prosa, blev scoret lavere. Det er ikke en påstand om noget bestemt lands flersprogede studerende, og det er præcis det mønster, der gør overordnet scoringsenighed til et dårligt diagnosticeringsværktøj. En scorer kan være enig med menneskelige bedømmere i gennemsnit og samtidig tage fejl i en konsistent retning for de studerende, hvis sprog stadig er under udvikling.
 
@@ -116,7 +116,7 @@ Tilbyd brugbare alternativer. De studerende har brug for en klar vej til mennesk
 
 **4.** Tilføj ét tjek, der registrerer den studerendes egen betydning eller beslutning, fx en note på to sætninger om en ændring, de accepterede eller afviste.
 
-**5.** Hvis din rubrik scorer skrivekvalitet, adskil det kriterium fra det begrebsmæssige, og læs to besvarelser af hver igen med opdelingen i mente.
+**5.** Hvis din rubrik scorer [[writing-education|skrivekvalitet]], adskil det kriterium fra det begrebsmæssige, og læs to besvarelser af hver igen med opdelingen i mente.
 
 ## Hvor du kan gå videre hen
 

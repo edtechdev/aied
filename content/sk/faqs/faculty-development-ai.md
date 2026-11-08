@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Je február. Váš prorektor ohlásil iniciatívu v oblasti AI s rozpočtovou položkou a vy máte jeden semester na to, aby sa ukázala v učebniach. Alebo ste na jeseň urobili šesť workshopov, sály boli plné a výučba, na ktorú chodíte, sa nezmenila. Alebo sa dekan v čase rozpočtu spýta tú jednoduchú otázku: čo to za tie peniaze prinieslo?
 
-Všetky tri prípady pochádzajú z tej istej chyby v návrhu. Workshop ukazuje ľuďom, čo nástroj robí. Prax sa mení vtedy, keď učiteľ strávi podporovaný, štruktúrovaný čas na probléme vlastného predmetu, dosť dlho na to, aby nový návyk vytlačil starý, a keď inštitúcia experimentu povie áno, namiesto toho, aby ho len trpela.
+Všetky tri prípady pochádzajú z tej istej chyby v návrhu. Workshop ukazuje ľuďom, čo nástroj robí. Prax sa mení vtedy, keď [[teacher-role|učiteľ]] strávi podporovaný, štruktúrovaný čas na probléme vlastného predmetu, dosť dlho na to, aby nový návyk vytlačil starý, a keď inštitúcia experimentu povie áno, namiesto toho, aby ho len trpela.
 
 Záver pre poradu: štandardizujte cyklus stretnutí, v ktorom každý účastník prinesie skutočný artefakt zo svojho predmetu a odíde s prepracovaným, vložte overovanie, priznanie a kontrolu rizika do pracovného dokumentu namiesto záverečnej reči o etike, roztiahnite program za jeden deň a spojte ho s mentoringom, veďte kohorty podľa disciplín a na následnom stretnutí referujte artefakty, ktoré ľudia vytvorili, nie to, ako sebavedomo sa cítili posledné popoludnie.
 
@@ -54,9 +54,11 @@ Najčistejšie porovnanie tu ponúka [[faculty-development-centers-genai-trainin
 
 Čo majú tieto štúdie spoločné: učenie prišlo z kritizovania a prepracúvania materiálu. Ľudia zlepšujú vec, ktorú majú pred sebou, a zlepšujú ju rýchlejšie, keď ju číta aj kolega.
 
+Výskumná kompetencia môže byť cieľom, nie vedľajším efektom. V šesťtýždňovom programe s podporou AI so 105 učiteľmi chémie sa každá meraná dimenzia zlepšila z pre-testu na post-test (Cohenovo dz = 0,47 až 0,63) a najväčšia zmena nastala vo výskumnej kompetencii, ktorá stúpla z 3,50 (SD = 0,88) na 4,16 (SD = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). Učitelia prešli od opisovania AI ako nástroja na vyhľadávanie a písanie k jej opisu ako podpory pre plánovanie výskumu a rozhodnutia založené na údajoch. Išlo o jednoskupinovú pre-post štúdiu, takže zisk berte ako dôkaz o programe, nie ako kauzálny účinok; čo pridáva, je konkrétny spôsob, ako urobiť rolu výskumníka súčasťou toho istého cyklu profesijného rozvoja.
+
 ## Prestaňte brať zručnosť ako chýbajúci diel
 
-Lákavá diagnóza je medzera v schopnostiach, ktorú uzavrie lepšia výučba. [[ai-teaching-innovation-ai-tpack-2026|Bai a Hsieh (2026)]] oslovili 898 univerzitných učiteľov škálami [[tpack|AI-TPACK]] a zistili, že učitelia, ktorí rozumeli tomu, ako generatívne nástroje fungujú, alebo ich dokázali kompetentne obsluhovať, nemali vyššiu pravdepodobnosť, že uvedú vymýšľanie a zavádzanie nových vyučovacích postupov, než tí, ktorí to nedokázali. Integrovaný konštrukt AI-TPACK nemal k inovatívnemu správaniu žiadnu priamu cestu. Jeho vplyv šiel celý cez [[ai-literacy|AI gramotnosť]], vyučovaciu [[self-efficacy|sebaúčinnosť]] a profesijnú identitu.
+Lákavá diagnóza je medzera v schopnostiach, ktorú uzavrie lepšia výučba. [[ai-teaching-innovation-ai-tpack-2026|Bai a Hsieh (2026)]] oslovili 898 univerzitných učiteľov škálami [[tpack|AI-TPACK]] a zistili, že učitelia, ktorí rozumeli tomu, ako generatívne nástroje fungujú, alebo ich dokázali kompetentne obsluhovať, nemali vyššiu pravdepodobnosť, že uvedú vymýšľanie a zavádzanie nových [[pedagogy|vyučovacích postupov]], než tí, ktorí to nedokázali. Integrovaný konštrukt AI-TPACK nemal k inovatívnemu správaniu žiadnu priamu cestu. Jeho vplyv šiel celý cez [[ai-literacy|AI gramotnosť]], vyučovaciu [[self-efficacy|sebaúčinnosť]] a profesijnú identitu.
 
 To mení, na čo má stretnutie slúžiť. Prehliadka nástroja nerieši ani jednu z tých troch vecí. Stretnutie, na ktorom učiteľ prepíše vlastné zadanie, obháji zmenu a vypočuje si kolegu, ktorý súhlasí, že je lepšie, rieši všetky tri naraz, a preto cyklus s artefaktom prekonáva ukážku aj vtedy, keď je obsah redší.
 
@@ -64,7 +66,7 @@ Dôsledok pre návrh je nepríjemný pre každého, kto má prezentáciu: učite
 
 ## Ťažké časti vložte do šablóny, ktorú používajú
 
-[[designing-ai-professional-development-itpack-2026|Doganov (2026) rámec i-TPACK]] vychádza z prehľadu PRISMA o profesijnom rozvoji v AI a z rešerše, ktorá vyniesla ďalších 17 štúdií. Zosúlaďuje päť domén poznania (inteligentné technologické poznanie, technologické obsahové poznanie, technologické pedagogické poznanie, integrované i-TPACK a etiku AI) so štyrmi cestami založenými na dôkazoch: [[active-learning|aktívne učenie]], modely a príklady, koučing a podpora experta a [[feedback|spätná väzba]] a reflexia, a to podľa piatich princípov od „Collective Synergy Over Silos“ po „Flexibility within Structure“.
+[[designing-ai-professional-development-itpack-2026|Doganov (2026) rámec i-TPACK]] vychádza z prehľadu [[meta-analysis-systematic-review|PRISMA]] o profesijnom rozvoji v AI a z rešerše, ktorá vyniesla ďalších 17 štúdií. Zosúlaďuje päť domén poznania (inteligentné technologické poznanie, technologické obsahové poznanie, technologické pedagogické poznanie, integrované i-TPACK a [[ethics|etiku AI]]) so štyrmi cestami založenými na dôkazoch: [[active-learning|aktívne učenie]], modely a príklady, koučing a podpora experta a [[feedback|spätná väzba]] a reflexia, a to podľa piatich princípov od „Collective Synergy Over Silos“ po „Flexibility within Structure“.
 
 Najostrejšia kritika, ktorú rámec adresuje odboru, je, že etika sa v mnohých existujúcich programoch rieši povrchne alebo vôbec, a riešením je umiestnenie. Overovanie, priznanie a kontrola rizika patria do dokumentu, ktorý účastníci používajú celý týždeň, nie do posledných 20 minút posledného stretnutia. Šablóna so stĺpcom pre kontrolu rizika sa vyplní; záverečný blok o zodpovednom používaní sa odkývne.
 
@@ -74,7 +76,7 @@ Medzou rámca je, že je konceptuálny a nemá výsledkové dáta na úrovni pro
 
 Ak má váš program priestor na jednu hĺbkovú tému, vyberte hodnotenie. V [[genai-pd-ai-pck-learning-gain-2026|osemhodinovom programe Talebzadeha (2026)]], štyri dvojhodinové stretnutia so 163 učiteľmi a budúcimi učiteľmi, celkové AI-PCK stúplo zo 151,65 na 220,14 (*d* = 2,36, *p* < 0,001). Najväčší účinok mala zložka Kritériá hodnotenia (*d* = 2,19), ktorá bola zároveň najslabšou oblasťou na vstupe. Zisk bol v metóde výučby užší než v hodnotení.
 
-Kritériá sú aj miestom, kde sa dá napätie v miestnosti premeniť na prácu. Účastník, ktorému nie je príjemné, že sa študenti opierajú o model, dokáže napísať riadok kritéria, ktorý robí uvažovanie viditeľným, a tým premení obavu na rozhodnutie o návrhu s dátumom.
+Kritériá sú aj miestom, kde sa dá [[anxiety-and-stress|napätie]] v miestnosti premeniť na prácu. Účastník, ktorému nie je príjemné, že sa študenti opierajú o model, dokáže napísať riadok kritéria, ktorý robí uvažovanie viditeľným, a tým premení obavu na rozhodnutie o návrhu s dátumom.
 
 Plánujte za hranicou jedného dňa. V tom istom programe získali budúci učitelia podstatne viac než skúsení (*p* = 0,033), najmä v navrhovaní scénických úloh a v navrhovaní kritérií. Skúsení učitelia povedali, že osem hodín je príliš málo na to, aby posunulo hlboko zakorenené návyky, a žiadali dlhodobú podporu založenú na mentoringu.
 
@@ -84,7 +86,7 @@ Ak urobíte jeden univerzálny workshop, väčšinu ho strávite obsluhovaním m
 
 Tie tri nízke domény korelovali navzájom r = 0,81 až 0,91, čo pravdepodobne znamená jednu kapacitu učiť s týmito nástrojmi, nie tri oddelené zručnosti. Ak ju učíte ako spoločný základ, ušetríte dve stretnutia.
 
-Potom rozdeľte podľa skúseností. [[ai-teaching-innovation-ai-tpack-2026|Bai a Hsieh]] zistili, že profesijná identita predpovedala inovatívne správanie takmer dvakrát silnejšie u občasných používateľov AI než u denných, čo je hraničný výsledok, ale užitočný ukazovateľ: práca s identitou sa najviac vyplatí u ľudí, ktorí sa nástrojov sotva dotýkajú, kým častí používatelia získajú viac z interdisciplinárnych projektov než zo základného usmernenia. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumentuje za kohorty podľa disciplín ako prostredie práve pre taký rozhovor, pretože fyzik a historik neriešia ten istý problém.
+Potom rozdeľte podľa skúseností. [[ai-teaching-innovation-ai-tpack-2026|Bai a Hsieh]] zistili, že profesijná identita predpovedala inovatívne správanie takmer dvakrát silnejšie u občasných používateľov AI než u denných, čo je hraničný výsledok, ale užitočný ukazovateľ: [[learner-identity|práca s identitou]] sa najviac vyplatí u ľudí, ktorí sa nástrojov sotva dotýkajú, kým častí používatelia získajú viac z interdisciplinárnych projektov než zo základného usmernenia. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumentuje za kohorty podľa disciplín ako prostredie práve pre taký rozhovor, pretože fyzik a historik neriešia ten istý problém.
 
 ## Začnite otázkou, ktorú si kladú skeptici
 
@@ -92,7 +94,7 @@ Potom rozdeľte podľa skúseností. [[ai-teaching-innovation-ai-tpack-2026|Bai 
 
 Vina je merateľná a nie je rozložená rovnomerne. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] oslovil 109 akademikov a identifikoval „komplex viny z AI“: 35 % sa obávalo, že používanie AI podkopáva ich kredibilitu, a 26 % uviedlo, že má pocit, akoby „podvádzali“, pričom očakávaná vina o kredibilitu prevyšovala ľútosť po použití, takže tieseň je sociálno-profesijná, nie súkromná. Vynorili sa štyri profily: pohodlní prijímatelia (27 %), vinní nepoužívatelia (29 %), opatrní používatelia (28 %) a morálne rozrušení vyhýbači (16 %). Jeden program rieši štyri rôzne problémy a tých 29 %, ktorí cítia vinu, hoci nástroje nepoužívajú, potrebuje niečo iné než ukážku.
 
-Veľkosť úlohy je vidieť v [[watson-rainie-ai-challenge-faculty-survey-2026|prieskume AAC&U a Elonu medzi 1 057 učiteľmi (Watson a Rainie, 2026)]]: 68 % uviedlo, že ich školy nepripravili učiteľov na používanie generatívnej AI vo výučbe a v mentoringu, s podobným podielom pri vedeckej práci. 26 % respondentov nástroje vôbec nepoužíva, vrátane 40 % učiteľov umenia a humanitných vied, a 82 % uvádza odpor kolegov ako prekážku pri zavádzaní na katedre.
+Veľkosť úlohy je vidieť v [[watson-rainie-ai-challenge-faculty-survey-2026|prieskume AAC&U a Elonu medzi 1 057 učiteľmi (Watson a Rainie, 2026)]]: 68 % uviedlo, že ich školy nepripravili učiteľov na používanie [[generative-ai|generatívnej AI]] vo výučbe a v mentoringu, s podobným podielom pri vedeckej práci. 26 % respondentov nástroje vôbec nepoužíva, vrátane 40 % učiteľov umenia a humanitných vied, a 82 % uvádza odpor kolegov ako prekážku pri zavádzaní na katedre.
 
 ## Opravte podmienky, ktoré kurikulum opraviť nedokáže
 
@@ -100,13 +102,13 @@ Toto je zistenie, ktoré treba priniesť na stretnutie vedenia. V prieskume 568 
 
 Páky, ktoré má vedúci programu k dispozícii, sú teda miestne a blízke: praktické cvičenie, výslovné povolenie experimentovať, materiály v jazykoch, v ktorých učitelia skutočne pracujú, viditeľná podpora z útvaru. Národný rámec politiky pripravenosť sám neunesie. Tam, kde citlivosť na riziko zaberá, je odpoveďou dať jej miesto, kde sa dá uplatniť, nie prehovárať opatrnosť, a tým miestom je navrhovanie kritérií a rutiny overovania.
 
-Do toho istého rozhovoru patria dve praktické trenice. Zámer pokračovať v používaní bol najvyššie hodnotenou dimenziou spokojnosti v [[faculty-development-centers-genai-training-optimization-2026|Bi a kol. (2026)]], kým použiteľnosť nástroja bola najnižšie hodnotená, takže časť toho, čo sa číta ako neochota, je trenie platformy. A [[ai-emotional-intelligence-teacher-development-2026|Aponte a kol. (2026)]] lokalizujú tvrdú hranicu: AI nedokáže kompenzovať chronické preťaženie, represívnu kultúru zodpovednosti, slabé vedenie ani absenciu chráneného času. Tvrdia, že k socioemotívnemu rozvoju učiteľov prispieva len ako relačná infraštruktúra (chránený čas na mentoring, dialóg medzi kolegami, komunity praxe) a navrhujú *relačné zahustenie* ako štandard, ktorý počíta dôveru, kontinuitu podpory a spoločnú reguláciu namiesto kontaktných hodín. Dve tvrdenia sa prekladajú do návrhu programu: uvoľnený čas sa vstrebe ako ďalšia požiadavka, ak inštitúcia formálne nevyžaduje jeho reinvestovanie, a konverzační agenti môžu potichu nahradiť ťažké ľudské vyjednávanie, ktoré prináša rast. Ich rámec je heuristika, nie testované kauzálne tvrdenie.
+Do toho istého rozhovoru patria dve praktické trenice. Zámer pokračovať v používaní bol najvyššie hodnotenou dimenziou spokojnosti v [[faculty-development-centers-genai-training-optimization-2026|Bi a kol. (2026)]], kým [[usability-research|použiteľnosť nástroja]] bola najnižšie hodnotená, takže časť toho, čo sa číta ako neochota, je trenie platformy. A [[ai-emotional-intelligence-teacher-development-2026|Aponte a kol. (2026)]] lokalizujú tvrdú hranicu: AI nedokáže kompenzovať chronické preťaženie, represívnu kultúru zodpovednosti, slabé vedenie ani absenciu chráneného času. Tvrdia, že k socioemotívnemu rozvoju učiteľov prispieva len ako relačná infraštruktúra (chránený čas na mentoring, dialóg medzi kolegami, komunity praxe) a navrhujú *relačné zahustenie* ako štandard, ktorý počíta dôveru, kontinuitu podpory a spoločnú reguláciu namiesto kontaktných hodín. Dve tvrdenia sa prekladajú do návrhu programu: uvoľnený čas sa vstrebe ako ďalšia požiadavka, ak inštitúcia formálne nevyžaduje jeho reinvestovanie, a [[conversational-ai|konverzační agenti]] môžu potichu nahradiť ťažké ľudské vyjednávanie, ktoré prináša rast. Ich rámec je heuristika, nie testované kauzálne tvrdenie.
 
 Ak sú tieto podmienky vaše, lepší workshop ich neopraví, a povedať to je užitočnejšie než sľubovať opak.
 
 ## Výstupy reportujte s odstupom
 
-Inštitucionálne lešenie, ku ktorému sa oplatí prikloniť, ponúkajú [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke a Nickel (2026)]], ktorých výskum založený na návrhu v dvoch makrocykloch so 114 účastníkmi (učitelia z 28 amerických inštitúcií a z 11 krajín, plus riaditelia centier pre výučbu a koordinátori akreditácie) priniesol šesť štandardov pokrývajúcich celú akademickú rolu: inštruktor, koordinátor, líder, výskumník, študujúci a prispievateľ. Existujúce rámce a štandardy pre učiteľov sa zameriavajú na učiteľov [[k-12|regionálneho školstva]] alebo pokrývajú len výučbu, takže centrum, ktoré na ne namapuje svoju ponuku, sa dá napojiť na hodnotenie pracovníkov a na akreditáciu, čo je aj argument, ktorý prežije rozpočtovú revíziu.
+Inštitucionálne lešenie, ku ktorému sa oplatí prikloniť, ponúkajú [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke a Nickel (2026)]], ktorých [[design-based-research|výskum založený na návrhu]] v dvoch makrocykloch so 114 účastníkmi (učitelia z 28 amerických inštitúcií a z 11 krajín, plus riaditelia centier pre výučbu a koordinátori akreditácie) priniesol šesť štandardov pokrývajúcich celú akademickú rolu: inštruktor, koordinátor, líder, výskumník, študujúci a prispievateľ. Existujúce rámce a štandardy pre učiteľov sa zameriavajú na učiteľov [[k-12|regionálneho školstva]] alebo pokrývajú len výučbu, takže centrum, ktoré na ne namapuje svoju ponuku, sa dá napojiť na hodnotenie pracovníkov a na akreditáciu, čo je aj argument, ktorý prežije rozpočtovú revíziu.
 
 Potom buďte opatrní v tom, ako vyhodnocujete, pretože väčšina tejto literatúry meria [[self-report-measures|sebavnímané]] dojmy. Bi a kol. merali sebavnímanú pripravenosť, nie uskutočnenú výučbu, a ich skupiny vznikli dobrovoľným prihlásením, nie randomizáciou, takže výsledky sú asociácie. [[ai-teaching-innovation-ai-tpack-2026|Bai a Hsieh]] je prierezová štúdia, so sebahodnotením, z ôsmich univerzít v jednej krajine, ktorá merala každý konštrukt u tých istých respondentov v jednom čase. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo a kolegovia]] nedokážu určiť smer kauzality, čo je dôležité, pretože ich najsilnejšie tvrdenie, že technologické poznanie pôsobí ako vstupná brána, je práve to, čo prierezový dizajn nedokáže uzavrieť. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] uvádza veľmi veľké účinky bez randomizácie, následného merania alebo rozkladu na úrovni disciplín, takže *d* = 2,36 treba čítať ako krátkodobý. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] je autoetnografia a [[ai-emotional-intelligence-teacher-development-2026|Aponte a kol.]] uvádzajú, že ich rámec je konceptuálny.
 
@@ -142,7 +144,7 @@ Inštitucionálny mandát program unesie. Kazašský koeficient sa zrútil zhrub
 
 **2.** Prepíšte program tak, aby prvé stretnutie začínalo na tom artefakte, a pridajte overovanie, priznanie a kontrolu rizika ako stĺpce v šablóne, ktorú účastníci nosia celý týždeň.
 
-**3.** Presuňte jedno stretnutie na navrhovanie kritérií a hodnotenia a nechajte účastníkov odísť s napísaným kritériom.
+**3.** Presuňte jedno stretnutie na navrhovanie kritérií a [[assessment|hodnotenia]] a nechajte účastníkov odísť s napísaným kritériom.
 
 **4.** Získajte písomne jednu vetu od dekana alebo prorektora, že experimentovanie je povolené, a potom chráňte hodiny formálne, aby sa nevstrebali.
 

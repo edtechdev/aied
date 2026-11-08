@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
-Trzeba przepisać kartę zadania, a zdanie, które leży przed oczyma, mówi, że SI jest dozwolona za podaniem informacji, co nie mówi studentowi nic o tym, czy narzędzie może dostarczyć sam argument. Kolega proponuje zakaz na cały kurs i można podejrzewać, że uderzy on najmocniej w osoby piszące w kilku językach, obecne w sali. Albo partia esejów wróciła gładsza niż dyskusja seminaryjna, która za nimi stała, i potrzebna jest reguła, której można bronić na następnym posiedzeniu komisji programowej.
+Trzeba przepisać kartę zadania, a zdanie, które leży przed oczyma, mówi, że SI jest dozwolona za podaniem informacji, co nie mówi studentowi nic o tym, czy narzędzie może dostarczyć sam argument. Kolega proponuje zakaz na cały kurs i można podejrzewać, że uderzy on najmocniej w osoby piszące w kilku językach, obecne w sali. Albo partia esejów wróciła gładsza niż dyskusja seminaryjna, która za nimi stała, i potrzebna jest reguła, której można bronić na następnym posiedzeniu komisji [[curriculum-design|programowej]].
 
 Najważniejsze: należy nazwać pracę intelektualną, dla której istnieje zadanie, zatrzymać ten krok przy studencie i dawać narzędziu zadania, których wynik student musi ocenić. Reguła zapisana w ten sposób mówi studentowi, którego kroku broni.
 
@@ -78,7 +78,7 @@ Sekwencja warta zapożyczenia utrzymuje SI w roli konsultanta, a rozumowanie zos
 | **8. Rewizja** | Wprowadzić i uzasadnić merytoryczne zmiany | Testować jasność, proponować alternatywy | Rewizja |
 | **9. Weryfikacja** | Sprawdzić każde twierdzenie faktograficzne lub zależne od źródła | Nie może zweryfikować własnego wyniku | Źródła i dowody |
 | **10. Refleksja i ujawnienie** | Wyjaśnić rolę SI i to, co zmieniło się w myśleniu studenta | Nic | Krótka refleksja o procesie |
-| **11. Kontrola samodzielna** | Wyjaśnić lub zastosować rozumowanie bez SI | Nic | Obrona ustna, szybkie pisanie, nowy przypadek |
+| **11. Kontrola samodzielna** | Wyjaśnić lub zastosować rozumowanie bez SI | Nic | [[oral-assessment|Obrona ustna]], szybkie pisanie, nowy przypadek |
 
 To jest rozszerzenie [[pairr-ai-peer-review-2025|PAIRR]]: szkic, informacja zwrotna od ludzi, informacja zwrotna od SI, porównanie, rewizja, refleksja, z samodzielnym punktem odniesienia i ciaśniejszą granicą wokół rozumowania. Środkową kolumnę należy traktować jako zadanie, a prawą jako to, na czym może opierać się ocena.
 
@@ -89,6 +89,9 @@ Jedenaście wierszy to więcej, niż potrzebuje większość zadań. Tabelę war
 Największe badanie klasowe w tym materiale to [[pairr-ai-peer-review-2025|PAIRR]]: 654 studentów na dziesięciu kursach pisania i trzech kursach [[stem-education|STEM]] nastawionych na intensywne pisanie. Pisali szkice, przeprowadzali [[peer-assessment|ocenianie rówieśnicze]], otrzymywali informację zwrotną od SI opartą na rubryce, porównywali i oceniali oba źródła, pisali plany rewizji, dokonywali rewizji i prowadzili refleksję. 58% wolało połączoną informację zwrotną od rówieśników i od SI. 6% wolało wyłącznie informację zwrotną od SI. Studenci uznali SI za użyteczną przy ogólnych wskazówkach do rewizji zorientowanych na rubrykę, a rówieśnicy dostarczali wiedzę kontekstową i autentyczną reakcję odbiorcy.
 
 Trzeba być precyzyjnym co do twierdzenia. PAIRR mierzył doświadczenie studentów i ich ocenę informacji zwrotnej, a nie długoterminowe [[learning-gains|przyrosty uczenia się]], więc jest silnym dowodem na projekt informacji zwrotnej, a słabszym dowodem na to, że pisanie poprawia się miesiące później. Etap rówieśniczy warto zachować nawet wtedy, gdy etap SI jest szybszy. Duża część pracy nad [[feedback|informacją zwrotną]] dzieje się w porównaniu obu źródeł, a jego usunięcie zabiera tę część, którą studenci wskazywali jako wartościową.
+
+Samo narzędzie można zaprojektować tak, by chroniło etap rozumowania. [[favero-thinking-not-writing-chatbot-2026|Favero i in. (2026)]] zbudowali MAIKE, [[socratic-method|sokratejskiego]] chatbota, który diagnozuje argumenty i zadaje ukierunkowane pytania, nie generując tekstu eseju. W badaniu klasowym z 65 uczniami szkół średnich użytkownicy MAIKE spędzali więcej tur na dialogu na poziomie idei niż grupa kontrolna (56% wobec 44%) i przechodzili między dyskusją a redagowaniem; około 40% studentów poprawiło wyniki eseju. Badanie nie pokazało ogólnej przewagi ocen nad grupą kontrolną, więc trzeba je traktować jako demonstrację projektu łączącego rozmowę z rewizją, a nie dowód, że chatbot podnosi jakość pisania.
+
 
 ## Oceniaj, co student zrobił z informacją zwrotną
 

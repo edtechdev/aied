@@ -1,9 +1,9 @@
 ---
 title: "Miten tekoäly voi tukea monikielisiä oppijoita arvioimatta heidän tietojaan väärin tai häivyttämättä heidän ääntään?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Opiskelija ymmärtää käsitteen ja tarvitsee neljä ylimääräistä minuuttia sanoakseen sen englanniksi. Tekoäly voi kääntää tehtävänannon, määritellä terminologian, harjoitella selitystä hänen kanssaan tai kirjoittaa koko vastauksen. Kolme noista on opettamista. Yksi on tehtävän tekemistä.
 
-Lyhyt vastaus kollegalle: päätä, mitä kieli tekee tässä tehtävässä, ennen kuin päätät, mitä työkalu saa tehdä. Kun kieli on sivuseikka, tekoäly voi poistaa esteen, jolla ei ole mitään tekemistä konstruktisi kanssa. Kun kieli on konstrukti, sama työkalu ohittaa oppimisen. Riski kulkee molempiin suuntiin yhtä aikaa: [[multilingual-learning|kielituki]] voi parantaa pääsyä, ja automaattinen pisteytys voi silti lukea opiskelijan väärin. Eräässä fysiikan tutkimuksessa kielellisesti heikompilaatuiset selitykset arvioitiin järjestelmällisesti asiantuntijaharkintaa alemmas jokaisella testatulla tekoälypisteytysmenetelmällä, yhdeksällä koneoppimis- ja kahdella kielimallijärjestelmällä 116 lukio-opiskelijalla ([[ai-scoring-language-bias-physics|Feser ja Tschisgale, 2026]]). Sujuvuutta ja ymmärrystä pisteytettiin yhtenä asiana.
+Lyhyt vastaus kollegalle: päätä, mitä kieli tekee tässä tehtävässä, ennen kuin päätät, mitä työkalu saa tehdä. Kun kieli on sivuseikka, tekoäly voi poistaa esteen, jolla ei ole mitään tekemistä konstruktisi kanssa. Kun kieli on konstrukti, sama työkalu ohittaa oppimisen. Riski kulkee molempiin suuntiin yhtä aikaa: [[multilingual-learning|kielituki]] voi parantaa pääsyä, ja [[automated-assessment|automaattinen pisteytys]] voi silti lukea opiskelijan väärin. Eräässä fysiikan tutkimuksessa kielellisesti heikompilaatuiset selitykset arvioitiin järjestelmällisesti asiantuntijaharkintaa alemmas jokaisella testatulla tekoälypisteytysmenetelmällä, yhdeksällä [[machine-learning|koneoppimis]]- ja kahdella kielimallijärjestelmällä 116 lukio-opiskelijalla ([[ai-scoring-language-bias-physics|Feser ja Tschisgale, 2026]]). Sujuvuutta ja ymmärrystä pisteytettiin yhtenä asiana.
 
 ## Lyhyt versio
 
@@ -45,13 +45,13 @@ Lyhyt vastaus kollegalle: päätä, mitä kieli tekee tässä tehtävässä, enn
 
 ## Päätä, mitä kieli tekee
 
-Biologian selityksessä kielioppi on pääosin sivuseikka arvioitavan käsitteen kannalta. Kieli kurssilla tiettyjen rakenteiden tuottaminen ja muokkaaminen on se oppiminen. Ammatillisessa viestinnässä alan tarkkuus, yleisö ja rekisteri lasketaan kaikki. Sama käännöstyökalu on sopiva ensimmäisessä tapauksessa, kyseenalainen toisessa ja neuvoteltavissa kolmannessa.
+[[biology-education|Biologian]] selityksessä kielioppi on pääosin sivuseikka arvioitavan käsitteen kannalta. Kieli kurssilla tiettyjen rakenteiden tuottaminen ja muokkaaminen on se oppiminen. Ammatillisessa viestinnässä alan tarkkuus, yleisö ja rekisteri lasketaan kaikki. Sama käännöstyökalu on sopiva ensimmäisessä tapauksessa, kyseenalainen toisessa ja neuvoteltavissa kolmannessa.
 
-Kirjoita päätös näkyviin sinne, missä opiskelijat voivat lukea sen. Jos opiskelijat saavat kääntää ohjeet mutta heidän on tuotettava kohdekielinen selitys ilman apua, sano se eksplisiittisesti. Jos terminologiatuki on sallittua, täsmennä, mitä opiskelijan on silti selitettävä ja varmistettava. Tarkista sitten järjestely mukautusvaatimuksia ja oppilaitoksen käytäntöjä vasten sen sijaan, että kohtelisit jokaista kieliavun muotoa samanarvoisena. Opiskelija, jolla on dokumentoitu mukautus, ja opiskelija, joka välttelee harjoittelua, voivat pyytää samaa asiaa, ja vain toinen on sinun opetusongelmasi.
+Kirjoita päätös näkyviin sinne, missä opiskelijat voivat lukea sen. Jos opiskelijat saavat kääntää ohjeet mutta heidän on tuotettava kohdekielinen selitys ilman apua, sano se eksplisiittisesti. Jos terminologiatuki on sallittua, täsmennä, mitä opiskelijan on silti selitettävä ja varmistettava. Tarkista sitten järjestely mukautusvaatimuksia ja [[educational-policy-ai|oppilaitoksen käytäntöjä]] vasten sen sijaan, että kohtelisit jokaista kieliavun muotoa samanarvoisena. Opiskelija, jolla on dokumentoitu mukautus, ja opiskelija, joka välttelee harjoittelua, voivat pyytää samaa asiaa, ja vain toinen on sinun opetusongelmasi.
 
 ## Mitä tutkimus tukee ja mitä ei
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez ja Arabadzhy (2026)]] katselmoivat 24 empiiristä tutkimusta generatiivisista chatboteista kielen oppimisessa. Heidän panoksensa on taksonominen: jokainen esigeneratiivisille chatboteille luetteloitu käyttömahdollisuus säilyy, ja kolme on uutta, mukaan lukien **translanguaging**, tarkoituksellinen liikkuminen kielten välillä osana oppimista. Kyse on kartasta raportoiduista käytöistä ja kokemuksista eikä yhdistetystä estimaatista, ja aineisto on maantieteellisesti keskittynyttä: Kiina, Iran, Taiwan ja Turkki kattavat 19 tutkimusta 24:stä, ja kaikki yhtä lukuun ottamatta sijoittuvat muodollisiin oppilaitoksiin. Tuki kieltenvälisen selityksen käyttämiselle oppimisen liikkeenä ei ole tuki jokaisen tehtävän kääntämiselle.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez ja Arabadzhy (2026)]] katselmoivat 24 empiiristä tutkimusta generatiivisista [[conversational-ai|chatboteista]] [[language-learning|kielen oppimisessa]]. Heidän panoksensa on taksonominen: jokainen esigeneratiivisille chatboteille luetteloitu käyttömahdollisuus säilyy, ja kolme on uutta, mukaan lukien **translanguaging**, tarkoituksellinen liikkuminen kielten välillä osana oppimista. Kyse on kartasta raportoiduista käytöistä ja kokemuksista eikä yhdistetystä estimaatista, ja aineisto on maantieteellisesti keskittynyttä: Kiina, Iran, Taiwan ja Turkki kattavat 19 tutkimusta 24:stä, ja kaikki yhtä lukuun ottamatta sijoittuvat muodollisiin oppilaitoksiin. Tuki kieltenvälisen selityksen käyttämiselle oppimisen liikkeenä ei ole tuki jokaisen tehtävän kääntämiselle.
 
 Arviointi on se, missä näyttö terävöityy ja panokset kasvavat. [[ai-scoring-language-bias-physics|Feser ja Tschisgale (2026)]] vertasivat yhtätoista automaattista pisteytysmenetelmää ihmisasiantuntijoiden pistemääriin 116 lukio-opiskelijan fysiikkaselityksissä ja havaitsivat järjestelmällistä käsitteellisen ymmärryksen aliarviointia kielellisesti heikommissa selityksissä jokaisessa yksittäisessä menetelmässä. Asetelma eristää mekanismin: sama käsitteellinen sisältö heikommassa proosassa ilmaistuna pisteytettiin alemmas. Tämä ei ole väite minkään tietyn maan monikielisistä opiskelijoista, ja se on täsmälleen se kuvio, joka tekee kokonaispisteytyksen yhdenmukaisuudesta huonon diagnostisen työkalun. Pisteyttäjä voi olla keskimäärin samaa mieltä inhimillisten arvioijien kanssa ja erehtyä johdonmukaiseen suuntaan niiden opiskelijoiden kohdalla, joiden kieli on vielä kehittymässä.
 
@@ -116,7 +116,7 @@ Tarjoa toimivia vaihtoehtoja. Opiskelijat tarvitsevat selkeän polun inhimillise
 
 **4.** Lisää yksi tarkistus, joka tallentaa opiskelijan oman merkityksen tai päätöksen, kuten kahden lauseen huomautus muutoksesta, jonka hän hyväksyi tai hylkäsi.
 
-**5.** Jos rubriikkisi pisteyttää kirjoittamisen laatua, erota se kriteeri käsitteellisestä ja lue kaksi palautusta kummastakin jako mielessäsi.
+**5.** Jos rubriikkisi pisteyttää [[writing-education|kirjoittamisen laatua]], erota se kriteeri käsitteellisestä ja lue kaksi palautusta kummastakin jako mielessäsi.
 
 ## Minne seuraavaksi
 

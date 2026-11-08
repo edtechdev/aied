@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Det er februar. Din prorektor har annonceret en AI-satsning med en budgetpost, og du har et semester til at få den til at vise sig i undervisningslokalerne. Eller du afholdt seks workshops i efteråret, lokalerne var fulde, og den undervisning, du sidder med i, har ikke ændret sig. Eller en dekan stiller det ligefremme spørgsmål ved budgettiden: hvad har pengene købt?
 
-Alle tre kommer fra samme designfejl. En workshop viser folk, hvad et værktøj gør. Praksis ændrer sig, når en underviser bruger understøttet, struktureret tid på et problem i sit eget kursus, længe nok til at en ny vane fortrænger en gammel, og når institutionen siger ja til eksperimentet i stedet for blot at tolerere det.
+Alle tre kommer fra samme designfejl. En workshop viser folk, hvad et værktøj gør. Praksis ændrer sig, når en [[teacher-role|underviser]] bruger understøttet, struktureret tid på et problem i sit eget kursus, længe nok til at en ny vane fortrænger en gammel, og når institutionen siger ja til eksperimentet i stedet for blot at tolerere det.
 
 Bundlinjen til mødet: standardisér en sessioncyklus, hvor hver deltager medbringer et rigtigt artefakt fra sit kursus og går derfra med et revideret, læg verifikation, åbenhed og risikostyring ind i arbejdsdokumentet i stedet for i en afsluttende etikprædiken, stræk programmet ud over en enkelt dag og par det med mentorordning, kør fagspecifikke kohorter, og rapportér de artefakter, folk producerede, ved en opfølgning i stedet for hvor sikre de følte sig den sidste eftermiddag.
 
@@ -46,6 +46,9 @@ Bundlinjen til mødet: standardisér en sessioncyklus, hvor hver deltager medbri
 
 ## Kør hver session på deltagerens eget kursus
 
+Forskningskompetence kan være målet, ikke en bivirkning. I et seks uger langt AI-understøttet program med 105 kemilærere forbedredes hver målt dimension fra præ- til posttest (Cohens dz = 0,47 til 0,63), og den største ændring var forskningskompetence, som steg fra 3,50 (SD = 0,88) til 4,16 (SD = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]). Underviserne skiftede fra at beskrive AI som et søge- og skriveværktøj til at beskrive det som støtte til forskningsplanlægning og datainformerede beslutninger. Designet var et enkeltgruppe-præ-post-studie, så behandl gevinsten som programevidens frem for en kausal effekt; det, den tilføjer, er en konkret måde at gøre forskerrollen til en del af samme kompetenceudviklingscyklus.
+
+
 Den reneste sammenligning her er [[faculty-development-centers-genai-training-optimization-2026|Bi m.fl. (2026)]], som spurgte 568 undervisere på fem universiteter og kørte et kvasi-eksperiment med 160 af dem. Begge arme fik fire workshops af 90 minutter over på hinanden følgende uger, med identisk kontakttid, platform og facilitatorstøtte. Indholdet var forskelligt. Den ene arm fik konventionel GenAI-kompetenceudvikling, den anden en struktureret cyklus af promptformulering, gennemgang af output, revision af kursusmateriale og skriftlig refleksion mod en skabelon med syv komponenter, der dækkede mål, opgavebegrænsninger, bedømmelseskriterier, verifikation, åbenhed og risikostyring.
 
 Den strukturerede arm scorede højere på alle syv parathedsdimensioner. Dens største forspring lå i promptdesign, på omkring to standardafvigelser, og det var den eneste arm, hvis gevinst i promptdesign overlevede den forsinkede test; den konventionelle arms mindre gevinst var faldet tilbage under baseline ved opfølgningen.
@@ -56,7 +59,7 @@ Det, studierne har til fælles: læringen kom fra at kritisere og revidere mater
 
 ## Hold op med at behandle færdighed som den manglende brik
 
-Den fristende diagnose er et kompetencegab, der lukkes med bedre instruktion. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh (2026)]] spurgte 898 universitetsundervisere på [[tpack|AI-TPACK]]-skalaer og fandt, at undervisere, der forstod, hvordan generative værktøjer virker, eller kunne betjene dem kompetent, ikke var mere tilbøjelige til at rapportere, at de opfandt og implementerede nye undervisningspraksisser, end dem, der ikke kunne. Det integrerede AI-TPACK-konstrukt havde slet ingen direkte vej til innovativ adfærd. Dets indflydelse gik udelukkende gennem [[ai-literacy|AI-kompetence]], undervisningsrelateret [[self-efficacy|tro på egen formåen]] og professionel identitet.
+Den fristende diagnose er et kompetencegab, der lukkes med bedre instruktion. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh (2026)]] spurgte 898 universitetsundervisere på [[tpack|AI-TPACK]]-skalaer og fandt, at undervisere, der forstod, hvordan generative værktøjer virker, eller kunne betjene dem kompetent, ikke var mere tilbøjelige til at rapportere, at de opfandt og implementerede nye [[pedagogy|undervisningspraksisser]], end dem, der ikke kunne. Det integrerede AI-TPACK-konstrukt havde slet ingen direkte vej til innovativ adfærd. Dets indflydelse gik udelukkende gennem [[ai-literacy|AI-kompetence]], undervisningsrelateret [[self-efficacy|tro på egen formåen]] og professionel identitet.
 
 Det ændrer, hvad en session er til. En gennemgang af et værktøj rammer ingen af de tre. En session, hvor en underviser omskriver sin egen opgave, forsvarer ændringen og hører en kollega erklære sig enig i, at den er bedre, rammer alle tre på én gang, og det er grunden til, at artefaktcyklussen slår demoen, selv når indholdet er tyndere.
 
@@ -64,7 +67,7 @@ Designimplikationen er ubekvem for enhver med et slide deck: du kan ikke foredra
 
 ## Læg de svære dele i den skabelon, de bruger
 
-[[designing-ai-professional-development-itpack-2026|Dogans (2026) i-TPACK-ramme]] kommer fra et PRISMA-review af AI-kompetenceudvikling plus en søgning, der dukkede 17 yderligere studier op. Den bringer fem vidensdomæner (intelligent teknologisk viden, teknologisk indholdsviden, teknologisk pædagogisk viden, integreret i-TPACK og AI-etik) i overensstemmelse med fire evidensbaserede veje: [[active-learning|aktiv læring]], modeller og eksempler, coaching og ekspertstøtte samt [[feedback|tilbagemelding]] og refleksion, styret af fem principper, der løber fra kollektiv synergi frem for siloer til fleksibilitet inden for struktur.
+[[designing-ai-professional-development-itpack-2026|Dogans (2026) i-TPACK-ramme]] kommer fra et [[meta-analysis-systematic-review|PRISMA-review]] af AI-kompetenceudvikling plus en søgning, der dukkede 17 yderligere studier op. Den bringer fem vidensdomæner (intelligent teknologisk viden, teknologisk indholdsviden, teknologisk pædagogisk viden, integreret i-TPACK og [[ethics|AI-etik]]) i overensstemmelse med fire evidensbaserede veje: [[active-learning|aktiv læring]], modeller og eksempler, coaching og ekspertstøtte samt [[feedback|tilbagemelding]] og refleksion, styret af fem principper, der løber fra kollektiv synergi frem for siloer til fleksibilitet inden for struktur.
 
 Rammens skarpeste kritik af feltet er, at etik behandles overfladisk eller helt mangler i mange eksisterende programmer, og rettelsen er placeringen. Verifikation, åbenhed og risikostyring hører hjemme i det dokument, deltagerne bruger hele ugen, ikke i de sidste 20 minutter af den sidste session. En skabelon med en risikostyringskolonne bliver udfyldt; et afsluttende afsnit om ansvarlig brug bliver nikket til.
 
@@ -74,7 +77,7 @@ Rammens grænse er, at den er konceptuel og uden udfaldsdata på programniveau. 
 
 Hvis dit program har plads til ét dybt emne, vælg bedømmelse. I [[genai-pd-ai-pck-learning-gain-2026|Talebzadehs (2026)]] otte timers program, fire sessioner af to timer med 163 undervisere og underviserstuderende, steg samlet AI-PCK fra 151,65 til 220,14 (*d* = 2,36, *p* < 0,001). Den største komponenteffekt var bedømmelsesrubrikker (*d* = 2,19), som også var det svageste område ved prætest. Gevinsten var snævrere i undervisningsmetode end i bedømmelse.
 
-Rubrikker er også der, hvor uroen i lokalet kan sættes i arbejde. En deltager, der er urolig over, at studerende læner sig op ad en model, kan skrive en rubriklinje, der gør ræsonnementet synligt, hvilket omdanner en bekymring til en designbeslutning med en dato på.
+Rubrikker er også der, hvor [[anxiety-and-stress|uroen]] i lokalet kan sættes i arbejde. En deltager, der er urolig over, at studerende læner sig op ad en model, kan skrive en rubriklinje, der gør ræsonnementet synligt, hvilket omdanner en bekymring til en designbeslutning med en dato på.
 
 Budgetter ud over den enkelte dag. I samme program opnåede underviserstuderende signifikant større gevinst end erfarne undervisere (*p* = 0,033), mest i scenariebaseret opgavedesign og rubrikdesign. De erfarne undervisere sagde, at otte timer var for kort til at flytte dybtliggende vaner, og bad om langsigtet, mentorbaseret støtte.
 
@@ -84,7 +87,7 @@ Kør én universel workshop, og du kommer til at bruge det meste af den på at b
 
 De tre lave domæner korrelerede r = 0,81-0,91 med hinanden, hvilket plausibelt betyder én kapacitet til at undervise med disse værktøjer snarere end tre adskilte færdigheder. Underviser du det som et fælles fundament, sparer du to sessioner.
 
-Del derefter efter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] fandt, at professionel identitet forudsagde innovativ adfærd næsten dobbelt så stærkt blandt sjældne AI-brugere som blandt daglige brugere, et grænseresultat, men en nyttig pejling: identitetsarbejde betaler sig mest over for folk, der næsten ikke rører værktøjerne, mens hyppige brugere får mere ud af tværfaglige projekter end af grundlæggende vejledning. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumenterer for fagspecifikke kohorter som rammen om netop den samtale, med den begrundelse at en fysiker og en historiker ikke løser det samme problem.
+Del derefter efter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] fandt, at professionel identitet forudsagde innovativ adfærd næsten dobbelt så stærkt blandt sjældne AI-brugere som blandt daglige brugere, et grænseresultat, men en nyttig pejling: [[learner-identity|identitetsarbejde]] betaler sig mest over for folk, der næsten ikke rører værktøjerne, mens hyppige brugere får mere ud af tværfaglige projekter end af grundlæggende vejledning. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumenterer for fagspecifikke kohorter som rammen om netop den samtale, med den begrundelse at en fysiker og en historiker ikke løser det samme problem.
 
 ## Åbn med det spørgsmål, skeptikerne stiller
 
@@ -92,7 +95,7 @@ Del derefter efter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh
 
 Skylden er målbar, og den er ikke jævnt fordelt. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] spurgte 109 akademikere og identificerede et »AI-skyldkompleks«: 35 % var bekymrede for, at AI-brug underminerer deres troværdighed, og 26 % rapporterede at føle, at de »snyder«, med forventet skyld om troværdighed, der overstiger anger efter brug, så lidelsen er socioprofessionel snarere end privat. Fire profiler trådte frem: komfortable adoptanter (27 %), skyldbetyngede ikke-brugere (29 %), forsigtige brugere (28 %) og moralsk lidende undvigere (16 %). Et program er ved at løse fire forskellige problemer, og de 29 %, der føler skyld, mens de ikke bruger værktøjerne, har brug for noget andet end en demonstration.
 
-Opgavens størrelse er synlig i [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U/Elon-undersøgelsen af 1.057 undervisere (Watson og Rainie, 2026)]]: 68 % sagde, at deres institutioner ikke har forberedt underviserne på at bruge generativ AI til undervisning og mentorordning, med en tilsvarende andel for forskning. 26 % af respondenterne bruger slet ikke værktøjerne, herunder 40 % af underviserne i kunst og humaniora, og 82 % peger på kollegers modstand som en barriere for institutternes adoption.
+Opgavens størrelse er synlig i [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U/Elon-undersøgelsen af 1.057 undervisere (Watson og Rainie, 2026)]]: 68 % sagde, at deres institutioner ikke har forberedt underviserne på at bruge [[generative-ai|generativ AI]] til undervisning og mentorordning, med en tilsvarende andel for forskning. 26 % af respondenterne bruger slet ikke værktøjerne, herunder 40 % af underviserne i kunst og humaniora, og 82 % peger på kollegers modstand som en barriere for institutternes adoption.
 
 ## Ret på de betingelser, som pensum ikke kan rette
 
@@ -100,13 +103,13 @@ Det er fundet, du skal tage med til et ledelsesmøde. I undersøgelsen med 568 u
 
 Så de håndtag, en programleder har, er lokale og nære: hands-on-praksis, udtrykkelig tilladelse til at eksperimentere, materialer på de sprog, underviserne faktisk arbejder på, synlig opbakning fra enheden. Nationale politiske rammer bærer ikke paratheden alene. Hvor risikofølsomhed bider, er svaret at give den et sted at blive udøvet i stedet for at tale forsigtigheden ned, og rubrikdesign og verifikationsrutiner er det sted.
 
-To praktiske friktioner hører til i samme samtale. Intention om fortsat brug var den højest vurderede tilfredshedsdimension hos [[faculty-development-centers-genai-training-optimization-2026|Bi m.fl. (2026)]], mens værktøjernes brugervenlighed var den laveste, så noget af det, der læses som modvilje, er platformsfriktion. Og [[ai-emotional-intelligence-teacher-development-2026|Aponte m.fl. (2026)]] placerer den hårde grænse: AI kan ikke kompensere for kronisk overbelastning, straffende ansvarlighedskulturer, svag ledelse eller fraværet af beskyttet tid. De argumenterer for, at den kun bidrager til underviseres socioemotionelle udvikling som relationel infrastruktur (beskyttet tid til mentorordning, kollegial dialog, praksisfællesskaber) og foreslår *relationel fortætning* som standard, hvor man tæller tillid, kontinuitet i støtten og co-regulering i stedet for kontakttimer. To påstande oversættes til programdesign: frigjort tid bliver reabsorberet som ekstra krav, medmindre institutionen formelt kræver, at den geninvesteres, og samtalende agenter kan stille og roligt erstatte de svære menneskelige forhandlinger, der skaber vækst. Deres ramme er en heuristik, ikke en testet kausal påstand.
+To praktiske friktioner hører til i samme samtale. Intention om fortsat brug var den højest vurderede tilfredshedsdimension hos [[faculty-development-centers-genai-training-optimization-2026|Bi m.fl. (2026)]], mens [[usability-research|værktøjernes brugervenlighed]] var den laveste, så noget af det, der læses som modvilje, er platformsfriktion. Og [[ai-emotional-intelligence-teacher-development-2026|Aponte m.fl. (2026)]] placerer den hårde grænse: AI kan ikke kompensere for kronisk overbelastning, straffende ansvarlighedskulturer, svag ledelse eller fraværet af beskyttet tid. De argumenterer for, at den kun bidrager til underviseres socioemotionelle udvikling som relationel infrastruktur (beskyttet tid til mentorordning, kollegial dialog, praksisfællesskaber) og foreslår *relationel fortætning* som standard, hvor man tæller tillid, kontinuitet i støtten og co-regulering i stedet for kontakttimer. To påstande oversættes til programdesign: frigjort tid bliver reabsorberet som ekstra krav, medmindre institutionen formelt kræver, at den geninvesteres, og [[conversational-ai|samtalende agenter]] kan stille og roligt erstatte de svære menneskelige forhandlinger, der skaber vækst. Deres ramme er en heuristik, ikke en testet kausal påstand.
 
 Er de betingelser dine, vil en bedre workshop ikke rette dem, og at sige det er mere nyttigt end at love det modsatte.
 
 ## Rapportér artefakter med en forsinkelse
 
-Den institutionelle ramme, det er værd at tilpasse sig, er [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke og Nickel (2026)]], hvis designbaserede forskning over to makrocyklusser og 114 deltagere (undervisere fra 28 amerikanske institutioner og 11 lande samt ledere af undervisningscentre og akkrediteringskoordinatorer) producerede seks standarder, der spænder over hele den akademiske rolle: underviser, koordinator, leder, forsker, lærende og bidragyder. Eksisterende rammer og underviserstandarder retter sig mod [[k-12|grundskole og ungdomsuddannelse]] eller dækker kun undervisning, så et center, der mapper sit tilbud over på disse, kan mappes over på medarbejdersamtaler og akkreditering, hvilket også er det argument, der overlever en budgetgennemgang.
+Den institutionelle ramme, det er værd at tilpasse sig, er [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke og Nickel (2026)]], hvis [[design-based-research|designbaserede forskning]] over to makrocyklusser og 114 deltagere (undervisere fra 28 amerikanske institutioner og 11 lande samt ledere af undervisningscentre og akkrediteringskoordinatorer) producerede seks standarder, der spænder over hele den akademiske rolle: underviser, koordinator, leder, forsker, lærende og bidragyder. Eksisterende rammer og underviserstandarder retter sig mod [[k-12|grundskole og ungdomsuddannelse]] eller dækker kun undervisning, så et center, der mapper sit tilbud over på disse, kan mappes over på medarbejdersamtaler og akkreditering, hvilket også er det argument, der overlever en budgetgennemgang.
 
 Vær derefter omhyggelig med evalueringen, fordi størstedelen af denne litteratur måler [[self-report-measures|selvrapporterede]] indtryk. Bi m.fl. målte selvrapporteret parathed snarere end udøvet undervisning, og deres grupper dannede sig ved frivillig tilmelding snarere end randomisering, så resultaterne er associationer. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] er tværsnitsbaseret, selvselekteret, trukket fra otte universiteter i ét land og målte hvert konstrukt fra de samme respondenter på ét tidspunkt. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo og kolleger]] kan ikke fastslå kausalitetens retning, hvilket betyder noget, fordi deres stærkeste påstand, at teknologisk viden virker som en gateway, netop er det, et tværsnitsdesign ikke kan afgøre. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] rapporterer meget store effekter uden randomisering, opfølgning eller opdeling på fagniveau, så *d* = 2,36 læses som kortsigtet. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] er autoetnografisk, og [[ai-emotional-intelligence-teacher-development-2026|Aponte m.fl.]] angiver, at deres ramme er konceptuel.
 
@@ -142,7 +145,7 @@ En forsvarlig evaluering måler derfor det kursusmateriale, en deltager revidere
 
 **2.** Omskriv dagsordenen, så den første session begynder på det artefakt, og tilføj verifikation, åbenhed og risikostyring som kolonner i den skabelon, deltagerne bærer med sig hele ugen.
 
-**3.** Flyt én session til rubrik- og bedømmelsesdesign, og lad deltagerne gå derfra med rubrikken skrevet.
+**3.** Flyt én session til rubrik- og [[assessment|bedømmelsesdesign]], og lad deltagerne gå derfra med rubrikken skrevet.
 
 **4.** Få én sætning på skrift fra dekanen eller prorektoren om, at eksperimentering er sanktioneret, og beskyt derefter timerne formelt, så de ikke reabsorberes.
 

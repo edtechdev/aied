@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,13 @@ Mulailah dari label. [[ai-assessment-scale-reform|Skala Asesmen AI (AIAS)]] memb
 
 Lalu ubah artefaknya. Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] atas 72 studi tentang AI generatif di [[cs-education|pendidikan komputasi]] menilai desain ulang sebagai layak sekaligus paling berdaya ungkit, dan menyoroti satu langkah: tambahkan unsur lisan atau unsur lain yang menampakkan proses pada setidaknya satu asesmen berisiko tinggi per mata kuliah. Tinjauan itu menyebutnya intervensi paling efektif dalam korpusnya. Deteksi adalah area paling tipis yang dicakup tinjauan, hanya 3 studi, dibandingkan 60-80% mahasiswa komputasi yang melaporkan penggunaan AI generatif dalam tugas kuliah, biasanya tanpa sanksi pengajar yang eksplisit, dan 70% dari satu sampel fakultas nasional yang secara eksplisit meminta pelatihan tentang desain asesmen yang tahan AI ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al. (2026)]]).
 
+Sebuah mata kuliah komputasi tiga tahun menunjukkan seberapa jauh alur kerja pengungkapan yang diperancah dapat menggerakkan perilaku. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil dkk. (2026)]] mewajibkan draf mandiri dengan daftar periksa empat butir, langkah penyempurnaan AI alih-alih penulisan ulang, formulir pengungkapan, dan refleksi terstruktur, dengan draf atau formulir yang hilang bernilai nol. Adopsi naik dari sekitar dua pertiga mahasiswa pada kebijakan sukarela menjadi 93% pada tahun yang diperancah; 81% dan 84% pengguna AI melaporkan menolak atau mengubah saran, penilai mengodekan 77–81% kiriman untuk keterlibatan kritis, dan penggunaan AI tidak secara independen memprediksi kualitas esai setelah kemampuan menulis sebelumnya dikendalikan. Ini adalah laporan pengalaman satu mata kuliah, bukan uji terkontrol, tetapi ia menunjukkan kerja integritas bergerak dari deteksi ke kondisi di mana mahasiswa mengungkapkan dan merevisi.
+
 Menunya, kira-kira menurut urutan seberapa baik setiap opsi bertahan di kelas besar.
 
-Tanpa bantuan, di kelas, buku tertutup: ujian dengan pengawasan, kuis, menulis bertenggat waktu. Beri bobot lebih besar daripada sebelumnya, karena pekerjaan rumah adalah artefak yang digelembungkan AI. Ujian lisan dan pertahanan lisan bekerja karena alasan yang sama, sebab dialog waktu nyata sulit dialihdayakan ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton et al. (2025)]]).
+Tanpa bantuan, di kelas, buku tertutup: ujian dengan pengawasan, kuis, menulis bertenggat waktu. Beri bobot lebih besar daripada sebelumnya, karena pekerjaan rumah adalah artefak yang digelembungkan AI. [[oral-assessment|Ujian lisan]] dan pertahanan lisan bekerja karena alasan yang sama, sebab dialog waktu nyata sulit dialihdayakan ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton et al. (2025)]]).
 
-Artefak proses: draf, jejak penalaran, catatan “tunjukkan pemikiran Anda”, log revisi, sehingga *prosesnya* terlihat dan bukan hanya produknya ([[authentic-products-authenticated-processes-2026|produk autentik dengan proses terautentikasi]]). Tugas autentik bekerja berdampingan dengannya: kasus lokal, materi magang, data mahasiswa sendiri, apa pun yang sulit didelegasikan ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]]).
+Artefak proses: draf, jejak penalaran, catatan “tunjukkan pemikiran Anda”, log revisi, sehingga *prosesnya* terlihat dan bukan hanya produknya ([[authentic-products-authenticated-processes-2026|produk autentik dengan proses terautentikasi]]). [[authentic-assessment|Tugas autentik]] bekerja berdampingan dengannya: kasus lokal, materi magang, data mahasiswa sendiri, apa pun yang sulit didelegasikan ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]]).
 
 Variasi tugas per mahasiswa, ketika setiap mahasiswa mendapat versi yang berbeda di permukaan tetapi setara secara konstruk, membuat penyalinan tidak berguna secara struktural. Perlakukan jaminan itu sebagai bergantung pada kemampuan: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] menemukan bahwa generator tercanggih hanya mencapai 0,81-0,88 pada skor integritas gabungan, sementara model non-terdepan merosot ke 0,50-0,55. Jika varian Anda tidak setara, Anda telah membeli perlindungan terhadap berbagi bersama ketidakadilan antar mahasiswa.
 
@@ -96,7 +98,7 @@ Tulis aturannya secara presisi juga. [[wright-transcription-not-generation-2026|
 
 Melarang alatnya dan mengizinkannya tanpa struktur menghasilkan hasil yang sama, yaitu mahasiswa berdiri di luar kerja kognitif.
 
-Sintesis Mengurangi Penyalahgunaan AI menetapkan delapan prinsip desain untuk versi yang diizinkan, termasuk: pertahankan [[desirable-difficulties|gesekan kognitif]], posisikan AI sebagai mitra berpikir sementara alih-alih otoritas, sematkan titik pemeriksaan evaluasi, dan wajibkan jurnal [[metacognition|metakognitif]] serta catatan prompt.
+Sintesis Mengurangi Penyalahgunaan AI menetapkan delapan prinsip desain untuk versi yang diizinkan, termasuk: pertahankan [[desirable-difficulties|gesekan kognitif]], posisikan AI sebagai mitra berpikir sementara alih-alih otoritas, sematkan titik pemeriksaan evaluasi, dan wajibkan jurnal [[metacognition|metakognitif]] [[reflection|reflektif]] serta catatan prompt.
 
 Urutan yang membawa prinsip-prinsip itu cukup singkat untuk dicetak di lembar tugas:
 
@@ -122,7 +124,7 @@ Contoh terukurnya adalah modul [[k-12|K-12]] yang memakai latihan prompt berbasi
 
 Apa yang sebenarnya diyakini mahasiswa kurang sinis daripada yang disiratkan kepanikan. Di antara 504 mahasiswa sosiologi, 65% pernah memakai AI generatif untuk tugas kuliah, tetapi hanya 3% untuk menghasilkan teks tugas dan 2% untuk menghasilkan draf utuh. 81% pernah menerima semacam panduan AI dan hanya 46% menilainya sangat jelas ([[student-genai-use-views-writing|pandangan mahasiswa tentang penggunaan GenAI dan penulisan]]). Ambiguitas, bukan pembangkangan, adalah masalah praktisnya, dan itulah sebabnya aturan yang jelas ditambah urutan yang diajarkan mengubah lebih banyak perilaku daripada peringatan. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa dan Mezgebu (2026)]] menggambarkan mahasiswa yang bertanya apakah AI generatif adalah alat yang memudahkan kecurangan atau mitra yang mendukung pembelajaran, dan pertanyaan itulah yang seharusnya dijawab oleh harapan Anda.
 
-Kerugian yang layak diajarkan secara eksplisit adalah [[ai-misuse-learning-harm|kesenjangan kinerja-pembelajaran]]: kinerja naik sekarang, pembelajaran turun kemudian, dan mahasiswa hanya mengalami yang pertama. [[ai-tools-academic-work-cheating-2026|alat AI dalam kerja akademik dan kecurangan]] serta [[student-rationalization-ai-writing|rasionalisasi mahasiswa dalam penulisan dengan AI]] membahas sisi norma rekan dan rasionalisasi, termasuk pembelaan “semua orang melakukannya” yang mengempis oleh sebuah norma yang jelas. Untuk mengetahui seberapa kuat dasar ini, lihat [[ai-literacy-evidence|bukti literasi AI]] dan [[top-10-findings-ai-education-instructors|sepuluh temuan utama pendidikan AI bagi pengajar]].
+Kerugian yang layak diajarkan secara eksplisit adalah [[ai-misuse-learning-harm|kesenjangan kinerja-pembelajaran]]: kinerja naik sekarang, pembelajaran turun kemudian, dan [[student-experience|mahasiswa]] hanya mengalami yang pertama. [[ai-tools-academic-work-cheating-2026|alat AI dalam kerja akademik dan kecurangan]] serta [[student-rationalization-ai-writing|rasionalisasi mahasiswa dalam penulisan dengan AI]] membahas sisi norma rekan dan rasionalisasi, termasuk pembelaan “semua orang melakukannya” yang mengempis oleh sebuah norma yang jelas. Untuk mengetahui seberapa kuat dasar ini, lihat [[ai-literacy-evidence|bukti literasi AI]] dan [[top-10-findings-ai-education-instructors|sepuluh temuan utama pendidikan AI bagi pengajar]].
 
 ## Apa yang salah dipahami pengajar tentang hal ini
 

@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -110,7 +110,7 @@ Hazırlık tercihten daha önemlidir ve reddetme hakkı eşitsiz dağılmıştı
 
 ## Özel popülasyonlar ve küresel eşitlik
 
-- **Özel popülasyonlar:** [[special-education]], [[neurodivergent-computing-students|nöroçeşitli öğrenenler]], [[dyslexlens-dyslexic-learners-ai|dislektik öğrenenler]] ve [[special-education|engelli öğrenenler]], ihtiyaçları YZ sistem tasarımında sıklıkla göz ardı edilen grupları temsil eder.
+- **Özel popülasyonlar:** [[special-education]], [[neurodivergent-computing-students|nöroçeşitli öğrenenler]], [[dyslexlens-dyslexic-learners-ai|dislektik öğrenenler]] ve [[inclusive-learning|engelli öğrenenler]], ihtiyaçları YZ sistem tasarımında sıklıkla göz ardı edilen grupları temsil eder.
 - **Küresel Güney bakış açıları:** [[suacode-african-students-motivations|Afrikalı öğrenci motivasyonları]], [[connected-ai-lesson-planning-vietnam|Vietnamlı YZ ders planlaması]] ve [[pre-service-science-teachers-ai-perceptions-2026|Ganalı öğretmen kabulü]], Batı-merkezci AIED araştırmalarında sıklıkla eksik olan Küresel Güney bakış açıları sunmaktadır. Kurumsal düzeyde [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye ve ark. (2026)]], 45 Nijerya üniversitesindeki YZ bütünleştirmesinin yönetim türünden çok kurum yaşı ve coğrafya tarafından yönlendirildiğini, birbirini güçlendiren ağ bağlarının iyi bağlantılı kurumların avantajı katmerlendirmesine izin verdiğini göstermektedir — eşitlik boşluklarının bireysel erişim yoluyla değil, yapısal olarak yeniden üretildiğine dair kanıttır.
 - **Küresel kapasite:** Kanıtlar, üretici YZ faydalarının ülkeler ve kurumlar arasında nasıl eşitsiz dağıldığını belgelemekte ve [[ai-lifelong-learning-policy|YZ ve yaşam boyu öğrenme politikası]] yapısal sosyoekonomik eğimleri ele almaktadır.
 

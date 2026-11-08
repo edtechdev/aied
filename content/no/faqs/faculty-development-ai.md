@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Det er februar. Prorektoren din har annonsert en AI-satsing med en egen budsjettpost, og du har ett semester på å få den til å synes i klasserommene. Eller du holdt seks verksteder i høst, rommene var fulle, og undervisningen du sitter på i, er ikke endret. Eller en dekan stiller det enkle spørsmålet i budsjettiden: hva kjøpte pengene?
 
-Alle tre kommer fra samme designfeil. Et verksted viser folk hva et verktøy gjør. Praksis endres når en underviser bruker støttet, strukturert tid på et problem i sitt eget emne, lenge nok til at en ny vane fortrenger en gammel, med institusjonen som sier ja til eksperimentet i stedet for bare å tolerere det.
+Alle tre kommer fra samme designfeil. Et verksted viser folk hva et verktøy gjør. Praksis endres når en [[teacher-role|underviser]] bruker støttet, strukturert tid på et problem i sitt eget emne, lenge nok til at en ny vane fortrenger en gammel, med institusjonen som sier ja til eksperimentet i stedet for bare å tolerere det.
 
 Bunnlinjen for møtet: standardiser en øktsykel der hver deltaker tar med en ekte emneartefakt og går med en revidert en, legg verifisering, åpenhet og risikokontroll inn i arbeidsdokumentet i stedet for i en avsluttende etikkprat, strekk programmet ut over én enkelt dag og koble det til mentoroppfølging, kjør fagspesifikke kohorter, og rapporter artefaktene folk produserte ved en oppfølging, i stedet for hvor trygge de følte seg siste ettermiddag.
 
@@ -54,9 +54,12 @@ To resultater til forklarer hvorfor demonstrasjoner ikke reiser. I [[pishtari-te
 
 Det disse studiene har felles: læringen kom fra å kritisere og revidere materiale. Folk forbedrer det som ligger foran dem, og de forbedrer det raskere når en kollega leser det samtidig.
 
+Forskningskompetanse kan være målet, ikke en bivirkning. I et seksukers AI-støttet program med 105 kjemilærere forbedret hver målte dimensjon seg fra før- til ettertest (Cohens dz = 0,47 til 0,63), og den største endringen var forskningskompetanse, som steg fra 3,50 (SD = 0,88) til 4,16 (SD = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay mfl. (2026)]]). Lærerne gikk fra å beskrive AI som et søke- og skriveverktøy til å beskrive det som støtte for forskningsplanlegging og databaserte beslutninger. Designet var en enkeltgruppestudie med før- og ettertest, så behandle gevinstene som programbevis snarere enn en kausal effekt; det den tilfører, er en konkret måte å gjøre forskerrollen til en del av samme kompetanseutviklingssyklus.
+
+
 ## Slutt å behandle ferdighet som den manglende brikken
 
-Den fristende diagnosen er et kompetansegap som lukkes med bedre undervisning. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh (2026)]] kartla 898 universitetslærere på [[tpack|AI-TPACK]]-skalaer og fant at lærere som forsto hvordan generative verktøy fungerer, eller kunne bruke dem kompetent, ikke hadde større sannsynlighet for å rapportere at de fant opp og iverksatte nye undervisningspraksiser, enn de som ikke kunne. Det integrerte AI-TPACK-konstruktet hadde ingen direkte vei til innovativ atferd i det hele tatt. Innflytelsen gikk helt gjennom [[ai-literacy|AI-kompetanse]], [[self-efficacy|mestringstro]] i undervisningen og profesjonell identitet.
+Den fristende diagnosen er et kompetansegap som lukkes med bedre undervisning. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh (2026)]] kartla 898 universitetslærere på [[tpack|AI-TPACK]]-skalaer og fant at lærere som forsto hvordan generative verktøy fungerer, eller kunne bruke dem kompetent, ikke hadde større sannsynlighet for å rapportere at de fant opp og iverksatte nye [[pedagogy|undervisningspraksiser]], enn de som ikke kunne. Det integrerte AI-TPACK-konstruktet hadde ingen direkte vei til innovativ atferd i det hele tatt. Innflytelsen gikk helt gjennom [[ai-literacy|AI-kompetanse]], [[self-efficacy|mestringstro]] i undervisningen og profesjonell identitet.
 
 Det endrer hva en økt er til for. En gjennomgang av verktøyet adresserer ingen av disse tre. En økt der en underviser skriver om sin egen oppgave, forsvarer endringen og hører en kollega si seg enig i at den er bedre, adresserer alle tre samtidig, og det er derfor artefaktsyklusen slår demoen selv når innholdet er tynnere.
 
@@ -64,7 +67,7 @@ Designimplikasjonen er ubehagelig for alle med en lysbildefremvisning: du kan ik
 
 ## Legg de vanskelige delene i malen de bruker
 
-[[designing-ai-professional-development-itpack-2026|Dogans (2026) i-TPACK-rammeverk]] kommer fra en PRISMA-gjennomgang av profesjonell utvikling i AI pluss et søk som avdekket 17 studier til. Det kobler fem kunnskapsdomener (intelligent teknologisk kunnskap, teknologisk innholdskunnskap, teknologisk pedagogisk kunnskap, integrert i-TPACK og AI-etikk) til fire evidensbaserte veier: [[active-learning|aktiv læring]], modeller og eksempler, coaching og ekspertstøtte, og [[feedback|tilbakemelding]] og refleksjon, styrt av fem prinsipper som går fra kollektiv synergi framfor siloer til fleksibilitet innenfor struktur.
+[[designing-ai-professional-development-itpack-2026|Dogans (2026) i-TPACK-rammeverk]] kommer fra en [[meta-analysis-systematic-review|PRISMA]]-gjennomgang av profesjonell utvikling i AI pluss et søk som avdekket 17 studier til. Det kobler fem kunnskapsdomener (intelligent teknologisk kunnskap, teknologisk innholdskunnskap, teknologisk pedagogisk kunnskap, integrert i-TPACK og [[ethics|AI-etikk]]) til fire evidensbaserte veier: [[active-learning|aktiv læring]], modeller og eksempler, coaching og ekspertstøtte, og [[feedback|tilbakemelding]] og refleksjon, styrt av fem prinsipper som går fra kollektiv synergi framfor siloer til fleksibilitet innenfor struktur.
 
 Rammeverkets skarpeste kritikk av feltet er at etikk håndteres overfladisk eller er helt fraværende i mange eksisterende programmer, og rettelsen er plassering. Verifisering, åpenhet og risikokontroll hører hjemme i dokumentet deltakerne bruker hele uken, ikke i de siste 20 minuttene av siste økt. En mal med en kolonne for risikokontroll blir fylt ut; et avsluttende segment om ansvarlig bruk blir nikket til.
 
@@ -74,7 +77,7 @@ Rammeverkets begrensning er at det er konseptuelt, uten utfallsdata på programn
 
 Hvis programmet ditt har plass til ett dypt tema, velg vurdering. I [[genai-pd-ai-pck-learning-gain-2026|Talebzadehs (2026)]] åtte timer lange program, fire økter på to timer med 163 lærere og lærerstudenter, steg total AI-PCK fra 151,65 til 220,14 (*d* = 2,36, *p* < 0,001). Den største komponenteffekten var vurderingskriterier (*d* = 2,19), som også var det svakeste området ved pretest. Gevinsten var smalere i undervisningsmetode enn i vurdering.
 
-Vurderingskriterier er også der engsteligheten i rommet kan settes i arbeid. En deltaker som er urolig for at studentene lener seg på en modell, kan skrive en kriterielinje som gjør resonnementet synlig, og det gjør en bekymring om til en designbeslutning med dato på.
+Vurderingskriterier er også der [[anxiety-and-stress|engsteligheten]] i rommet kan settes i arbeid. En deltaker som er urolig for at studentene lener seg på en modell, kan skrive en kriterielinje som gjør resonnementet synlig, og det gjør en bekymring om til en designbeslutning med dato på.
 
 Budsjetter ut over den enkelte dagen. I samme program fikk lærerstudenter signifikant mer enn erfarne (*p* = 0,033), mest i scenariobasert oppgavedesign og utforming av vurderingskriterier. De erfarne lærerne sa at åtte timer var for kort til å flytte inngrodde vaner, og ba om langsiktig, mentorstøttet oppfølging.
 
@@ -84,7 +87,7 @@ Kjør ett universelt verksted, og du vil bruke mesteparten av det på å betjene
 
 De tre lave domenene korrelerte r = 0,81-0,91 med hverandre, noe som sannsynligvis betyr én kapasitet for å undervise med disse verktøyene snarere enn tre separate ferdigheter. Undervis det som et felles fundament, og du sparer to økter.
 
-Del så etter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] fant at profesjonell identitet forutsa innovativ atferd nesten dobbelt så sterkt blant sjeldne AI-brukere som blant daglige brukere, et resultat på grensen men en nyttig pekepinn: identitetsarbeid lønner seg mest hos folk som så vidt rører verktøyene, mens hyppige brukere får mer ut av tverrfaglige prosjekter enn av grunnleggende veiledning. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumenterer for fagspesifikke kohorter som rammen for nettopp den samtalen, med begrunnelsen at en fysiker og en historiker ikke løser det samme problemet.
+Del så etter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] fant at profesjonell identitet forutsa innovativ atferd nesten dobbelt så sterkt blant sjeldne AI-brukere som blant daglige brukere, et resultat på grensen men en nyttig pekepinn: [[learner-identity|identitetsarbeid]] lønner seg mest hos folk som så vidt rører verktøyene, mens hyppige brukere får mer ut av tverrfaglige prosjekter enn av grunnleggende veiledning. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumenterer for fagspesifikke kohorter som rammen for nettopp den samtalen, med begrunnelsen at en fysiker og en historiker ikke løser det samme problemet.
 
 ## Åpne med spørsmålet de skeptiske stiller
 
@@ -92,7 +95,7 @@ Del så etter erfaring. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] fa
 
 Skyldfølelsen er målbar, og den er ikke jevnt fordelt. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] kartla 109 akademikere og identifiserte et «AI-skyldkompleks»: 35 % var bekymret for at AI-bruk undergraver troverdigheten deres, og 26 % rapporterte at de følte de «jukset», med forventet skyldfølelse om troverdighet som oversteg anger etter bruk, så ubehaget er sosioprofesjonelt snarere enn privat. Fire profiler trådte fram: komfortable adoptere (27 %), skyldtyngede ikke-brukere (29 %), forsiktige brukere (28 %) og moralsk belastede unngåere (16 %). Ett program håndterer fire forskjellige problemer, og de 29 % som føler skyld mens de ikke bruker verktøyene, trenger noe annet enn en demonstrasjon.
 
-Størrelsen på oppgaven synes i [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U/Elon-undersøkelsen av 1 057 undervisere (Watson og Rainie, 2026)]]: 68 % sa at institusjonen deres ikke har forberedt underviserne på å bruke generativ AI til undervisning og veiledning, med en tilsvarende andel for forskning og formidling. 26 % av respondentene bruker ikke verktøyene i det hele tatt, inkludert 40 % av underviserne i kunst- og humaniorafag, og 82 % nevner kollegers motstand som en barriere for avdelingens adopsjon.
+Størrelsen på oppgaven synes i [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U/Elon-undersøkelsen av 1 057 undervisere (Watson og Rainie, 2026)]]: 68 % sa at institusjonen deres ikke har forberedt underviserne på å bruke [[generative-ai|generativ AI]] til undervisning og veiledning, med en tilsvarende andel for forskning og formidling. 26 % av respondentene bruker ikke verktøyene i det hele tatt, inkludert 40 % av underviserne i kunst- og humaniorafag, og 82 % nevner kollegers motstand som en barriere for avdelingens adopsjon.
 
 ## Rett på vilkårene som læreplanen ikke kan rette
 
@@ -100,13 +103,13 @@ Dette er funnet å ta med til et ledermøte. I undersøkelsen med 568 underviser
 
 Så spakene en programleder har, er lokale og nære: praktisk øvelse, uttrykkelig tillatelse til å eksperimentere, materiell på de språkene underviserne faktisk arbeider på, synlig støtte fra enheten. Nasjonal policyinnramming bærer ikke beredskap alene. Der risikosensitivitet biter, er svaret å gi den et sted å utøves snarere enn å snakke forsiktigheten ned, og utforming av vurderingskriterier og verifiseringsrutiner er det stedet.
 
-To praktiske friksjoner hører til i samme samtale. Intensjon om fortsatt bruk var den høyest rangerte tilfredshetsdimensjonen hos [[faculty-development-centers-genai-training-optimization-2026|Bi et al. (2026)]], mens verktøyets brukervennlighet var den laveste, så noe av det som leses som motvilje, er plattformfriksjon. Og [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] peker på den harde grensen: AI kan ikke kompensere for kronisk overbelastning, straffende ansvarliggjøringskulturer, svakt lederskap eller fravær av beskyttet tid. De argumenterer for at den bare bidrar til læreres sosio-emosjonelle utvikling som relasjonell infrastruktur (beskyttet tid til mentorering, kollegadialog, praksisfellesskap) og foreslår *relasjonell fortetning* som standard, der en teller tillit, kontinuitet i støtten og samregulering snarere enn kontakttimer. To påstander oversettes til programdesign: frigjort tid blir reabsorbert som ekstra krav med mindre institusjonen formelt krever at den reinvesteres, og samtalende agenter kan stille erstatte de vanskelige menneskelige forhandlingene som skaper vekst. Rammeverket deres er en heuristikk, ikke en testet kausal påstand.
+To praktiske friksjoner hører til i samme samtale. Intensjon om fortsatt bruk var den høyest rangerte tilfredshetsdimensjonen hos [[faculty-development-centers-genai-training-optimization-2026|Bi et al. (2026)]], mens verktøyets [[usability-research|brukervennlighet]] var den laveste, så noe av det som leses som motvilje, er plattformfriksjon. Og [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] peker på den harde grensen: AI kan ikke kompensere for kronisk overbelastning, straffende ansvarliggjøringskulturer, svakt lederskap eller fravær av beskyttet tid. De argumenterer for at den bare bidrar til læreres sosio-emosjonelle utvikling som relasjonell infrastruktur (beskyttet tid til mentorering, kollegadialog, praksisfellesskap) og foreslår *relasjonell fortetning* som standard, der en teller tillit, kontinuitet i støtten og samregulering snarere enn kontakttimer. To påstander oversettes til programdesign: frigjort tid blir reabsorbert som ekstra krav med mindre institusjonen formelt krever at den reinvesteres, og [[conversational-ai|samtalende agenter]] kan stille erstatte de vanskelige menneskelige forhandlingene som skaper vekst. Rammeverket deres er en heuristikk, ikke en testet kausal påstand.
 
 Er disse vilkårene dine, retter et bedre verksted dem ikke, og å si det er mer nyttig enn å love noe annet.
 
 ## Rapporter artefakter med forsinkelse
 
-Den institusjonelle rammen det er verdt å justere seg mot, er [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke og Nickel (2026)]], hvis designbaserte forskning over to makrosykluser og 114 deltakere (undervisere fra 28 amerikanske institusjoner og 11 land, pluss ledere for undervisningssentre og akkrediteringskoordinatorer) produserte seks standarder som spenner over hele den akademiske rollen: underviser, koordinator, leder, forsker, lærende og bidragsyter. Eksisterende rammeverk og lærerstandarder retter seg mot [[k-12]]-lærere eller dekker bare undervisning, så et senter som kobler tilbudet sitt til disse, kan kobles til medarbeidersamtaler og akkreditering, og det er også argumentet som overlever en budsjettrevisjon.
+Den institusjonelle rammen det er verdt å justere seg mot, er [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke og Nickel (2026)]], hvis [[design-based-research|designbaserte forskning]] over to makrosykluser og 114 deltakere (undervisere fra 28 amerikanske institusjoner og 11 land, pluss ledere for undervisningssentre og akkrediteringskoordinatorer) produserte seks standarder som spenner over hele den akademiske rollen: underviser, koordinator, leder, forsker, lærende og bidragsyter. Eksisterende rammeverk og lærerstandarder retter seg mot [[k-12]]-lærere eller dekker bare undervisning, så et senter som kobler tilbudet sitt til disse, kan kobles til medarbeidersamtaler og akkreditering, og det er også argumentet som overlever en budsjettrevisjon.
 
 Vær forsiktig med hvordan du evaluerer, for mesteparten av denne litteraturen måler [[self-report-measures|selvrapporterte]] inntrykk. Bi et al. målte selvrapportert beredskap snarere enn faktisk undervisning, og gruppene deres ble dannet ved frivillig påmelding snarere enn randomisering, så resultatene er assosiasjoner. [[ai-teaching-innovation-ai-tpack-2026|Bai og Hsieh]] er tverrsnittsdata, selvselektert, hentet fra åtte universiteter i ett land, og målte hvert konstrukt fra de samme respondentene på ett tidspunkt. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo og kollegene]] kan ikke fastslå årsaksretning, noe som betyr noe fordi deres sterkeste påstand, at teknologisk kunnskap virker som en inngangsport, er nettopp det et tverrsnittsdesign ikke kan avgjøre. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] rapporterer svært store effekter uten randomisering, oppfølging eller oppdeling på fagnivå, så *d* = 2,36 leses som kortsiktig. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] er autoetnografisk, og [[ai-emotional-intelligence-teacher-development-2026|Aponte et al.]] oppgir at rammeverket deres er konseptuelt.
 
@@ -142,7 +145,7 @@ En forsvarlig evaluering måler derfor emnemateriellet en deltaker reviderte, vu
 
 **2.** Skriv om agendaen slik at første økt starter på den artefakten, og legg verifisering, åpenhet og risikokontroll inn som kolonner i malen deltakerne bærer med seg hele uken.
 
-**3.** Flytt én økt til utforming av vurderingskriterier og vurdering, og la deltakerne gå med kriteriene skrevet.
+**3.** Flytt én økt til utforming av vurderingskriterier og [[assessment|vurderingsdesign]], og la deltakerne gå med kriteriene skrevet.
 
 **4.** Få én setning skriftlig fra dekanen eller prorektoren om at eksperimentering er tillatt, og beskytt så timene formelt så de ikke reabsorberes.
 

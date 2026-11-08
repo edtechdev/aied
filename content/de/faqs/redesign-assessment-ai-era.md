@@ -90,7 +90,7 @@ Der Zweck zählt so viel wie die Mechanik. [[ai-agents-joyful-assessment-third-s
 
 **„Akkreditierung und Studiengangsgenehmigung bewegen sich nicht so schnell."** Die Studie oben nennt lange Vorlaufzeiten und Akkreditierungszwänge bei großen Kohorten als zentrale Reibung. Ein einzelner Kurs kann ändern, was innerhalb einer bestehenden Prüfung geschieht, ohne deren Namen, Gewicht oder Lernziele zu ändern, und das reicht meist zum Anfangen.
 
-**„Das benachteiligt ängstliche Studierende und [[special-education|Studierende mit Behinderungen]]."** Das kann es. Mündliche Live-Komponenten brauchen vorab geplante Nachteilsausgleiche, eine Formatwahl, wo das Konstrukt es zulässt, und Aufmerksamkeit für sprachliche Unterschiede und Beurteilungsbias. Prüfen Sie die Fähigkeit, nicht die Aufführungsbedingungen.
+**„Das benachteiligt ängstliche Studierende und [[inclusive-learning|Studierende mit Behinderungen]]."** Das kann es. Mündliche Live-Komponenten brauchen vorab geplante Nachteilsausgleiche, eine Formatwahl, wo das Konstrukt es zulässt, und Aufmerksamkeit für sprachliche Unterschiede und Beurteilungsbias. Prüfen Sie die Fähigkeit, nicht die Aufführungsbedingungen.
 
 **„Wir sollten einfach einen Detektor kaufen."** Das Trennschärfe-Ergebnis spricht dagegen, ihn zum Rückgrat des Designs zu machen: Wenn falsch positive Befunde schneller steigen als richtig positive, macht stärkere Überwachung das Verbergen relativ attraktiver. Erkennung kann in einer Antwort einen Platz haben, die auch die Aufgabe neu gestaltet, und [[should-we-use-ai-detectors]] behandelt dieses Argument.
 

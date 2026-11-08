@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T14:38:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-Éppen egy feladatkiírást ír át, és a szeme előtti mondat azt mondja, hogy a MI hivatkozás feltüntetésével megengedett, ami semmit nem mond meg a hallgatónak arról, hogy az eszköz szolgáltathatja-e magát az érvet. Egy kollégája kurzus szintű tiltást javasolt, és Ön gyanítja, hogy ez a legkeményebben azokat a többnyelvű szerzőket sújtja, akik a teremben vannak. Vagy egy köteg esszé simábban jött vissza, mint a mögötte álló szemináriumi vita, és Önnek olyan szabályra van szüksége, amelyet meg tud védeni a következő tantervi értekezleten.
+Éppen egy feladatkiírást ír át, és a szeme előtti mondat azt mondja, hogy a MI hivatkozás feltüntetésével megengedett, ami semmit nem mond meg a hallgatónak arról, hogy az eszköz szolgáltathatja-e magát az érvet. Egy kollégája kurzus szintű tiltást javasolt, és Ön gyanítja, hogy ez a legkeményebben azokat a többnyelvű szerzőket sújtja, akik a teremben vannak. Vagy egy köteg esszé simábban jött vissza, mint a mögötte álló szemináriumi vita, és Önnek olyan szabályra van szüksége, amelyet meg tud védeni a következő [[curriculum-design|tantervi értekezleten]].
 
 A lényeg: nevezze meg azt a szellemi munkát, amelynek létrehozásáért a feladat létezik, tartsa annál a lépésnél a hallgatót, és adjon az eszköznek olyan feladatokat, amelyek olyasmit adnak vissza, amit a hallgatónak meg kell ítélnie. Az így megírt szabály megmondja a hallgatónak, melyik lépést védi.
 
@@ -78,7 +78,7 @@ Egy érdemes sorozat a MI-t tanácsadói szerepben tartja, és az érvelést a h
 | **8. Átdolgozás** | Tartalmi változtatásokat tesz és indokol | Teszteli az érthetőséget, alternatívákat kínál | Átdolgozás |
 | **9. Ellenőrzés** | Minden ténybeli vagy forrásfüggő állítást ellenőriz | Nem tudja ellenőrizni a saját kimenetét | Források és bizonyítékok |
 | **10. Reflektálás és közzététel** | Elmagyarázza a MI szerepét és azt, mi változott a gondolkodásában | Semmit | Rövid folyamatreflexió |
-| **11. Független ellenőrzés** | Elmagyarázza vagy alkalmazza az érvelést MI nélkül | Semmit | Szóbeli védés, rövid írás, új eset |
+| **11. Független ellenőrzés** | Elmagyarázza vagy alkalmazza az érvelést MI nélkül | Semmit | [[oral-assessment|Szóbeli védés]], rövid írás, új eset |
 
 Ez a [[pairr-ai-peer-review-2025|PAIRR]] kiterjesztése: vázlat, humán visszajelzés, MI-visszajelzés, összehasonlítás, átdolgozás, reflexió, egy független kiindulóponttal és az érvelés körül szorosabb határral. A középső oszlopot használja feladatként, a jobb oldali oszlopot pedig azként, amire az osztályzat támaszkodhat.
 
@@ -89,6 +89,8 @@ Tizenegy sor több, mint amennyire a legtöbb feladatnak szüksége van. Szűkí
 A legnagyobb tantermi vizsgálat itt a [[pairr-ai-peer-review-2025|PAIRR]]: 654 hallgató tíz íráskurzuson és három írásintenzív [[stem-education|STEM]]-kurzuson. Vázlatot írtak, [[peer-assessment|társértékelést]] végeztek, rubrikaalapú MI-visszajelzést kaptak, összevetették és értékelték mindkét forrást, átdolgozási terveket írtak, átdolgoztak és reflektáltak. Ötvennyolc százalékuk a társ- és a MI-visszajelzés kombinációját részesítette előnyben. Hat százalékuk kizárólag a MI-visszajelzést. A hallgatók hasznosnak találták a MI-t a széles, rubrikaorientált átdolgozási tanácsokhoz, a társak pedig kontextuális tudást és hiteles közönségválaszt szolgáltattak.
 
 Legyen pontos az állításban. A PAIRR a hallgatók visszajelzéssel kapcsolatos tapasztalatát és értékelését mérte, nem hosszú távú [[learning-gains|tanulási nyereséget]], így erős bizonyíték egy visszajelzési terv mellett, és gyengébb bizonyíték arra, hogy az írás hónapokkal később javul. Tartsa meg a társ-lépést akkor is, ha a MI-lépés gyorsabb. A [[feedback|visszajelzés]] munka nagy része a két forrás összehasonlításában történik, és ennek elhagyása kiveszi azt a részt, amelyet a hallgatók szerint értékeltek.
+
+Magát az eszközt is meg lehet tervezni úgy, hogy védje az érvelési lépést. [[favero-thinking-not-writing-chatbot-2026|Favero és mtsai (2026)]] a MAIKE-ot építették meg, egy [[socratic-method|szókratészi]] chatbotot, amely az érveket diagnosztizálja, és célzott kérdéseket tesz fel anélkül, hogy esszészöveget generálna. Egy 65 középiskolás diákkal folytatott tantermi vizsgálatban a MAIKE használói több fordulót töltöttek eszmei szintű párbeszéddel, mint a kontrollcsoport tagjai (56% szemben 44%-kal), és a megbeszélés és a szerkesztés között mozogtak; a diákok mintegy 40%-a javította az esszépontszámát. A vizsgálat nem mutatott általános jegynyugelőnyt a kontrollhoz képest, ezért tekintse a beszélgetés és az átdolgozás összekapcsolásáról szóló tervezési bemutatónak, nem annak bizonyítékaként, hogy a chatbot javítja az írás minőségét.
 
 ## Osztályozza azt, amit a hallgató a visszajelzéssel tett
 

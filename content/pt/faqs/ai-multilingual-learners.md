@@ -1,9 +1,9 @@
 ---
 title: "Como a IA pode apoiar estudantes multilíngues sem julgar mal o que eles sabem ou apagar a voz deles?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Uma estudante entende o conceito e precisa de quatro minutos a mais para dizê-lo em inglês. A IA pode traduzir o enunciado, definir a terminologia, ensaiar a explicação com ela ou escrever a resposta inteira. Três dessas coisas são ensino. Uma é fazer a tarefa.
 
-Resposta curta para dar a um colega: decida o que a língua está fazendo nesta tarefa antes de decidir o que a ferramenta pode fazer. Onde a língua é incidental, a IA pode remover uma barreira que não tem nada a ver com o seu construto. Onde a língua é o construto, a mesma ferramenta contorna a aprendizagem. O risco corre nas duas direções ao mesmo tempo: o [[multilingual-learning|apoio linguístico]] pode melhorar o acesso, e a pontuação automatizada ainda pode ler mal o estudante. Em um estudo de física, explicações de qualidade linguística mais baixa foram sistematicamente avaliadas abaixo do julgamento especialista por todas as abordagens de pontuação por IA testadas, nove sistemas de aprendizado de máquina e dois de modelo de linguagem, entre 116 estudantes do ensino médio ([[ai-scoring-language-bias-physics|Feser e Tschisgale, 2026]]). Fluência e compreensão estavam sendo pontuadas como uma coisa só.
+Aqui está a resposta curta: decida o que a língua está fazendo nesta tarefa antes de decidir o que a ferramenta pode fazer. Onde a língua é incidental, a IA pode remover uma barreira que não tem nada a ver com o seu construto. Onde a língua é o construto, a mesma ferramenta contorna a aprendizagem. O risco corre nas duas direções ao mesmo tempo: o [[multilingual-learning|apoio linguístico]] pode melhorar o acesso, e a [[automated-assessment|pontuação automatizada]] ainda pode ler mal o estudante. Em um estudo de física, explicações de qualidade linguística mais baixa foram sistematicamente avaliadas abaixo do julgamento especialista por todas as abordagens de pontuação por IA testadas, nove sistemas de [[machine-learning|aprendizado de máquina]] e dois de modelo de linguagem, entre 116 estudantes do ensino médio ([[ai-scoring-language-bias-physics|Feser e Tschisgale, 2026]]). Fluência e compreensão estavam sendo pontuadas como uma coisa só.
 
 ## A versão curta
 
@@ -45,13 +45,13 @@ Resposta curta para dar a um colega: decida o que a língua está fazendo nesta 
 
 ## Decida o que a língua está fazendo
 
-Em uma explicação de biologia, a gramática é em grande parte incidental para o conceito avaliado. Em um curso de língua, produzir e revisar estruturas específicas é a aprendizagem. Na comunicação profissional, precisão disciplinar, audiência e registro contam todos. A mesma ferramenta de tradução é apropriada no primeiro caso, questionável no segundo e negociável no terceiro.
+Em uma explicação de [[biology-education|biologia]], a gramática é em grande parte incidental para o conceito avaliado. Em um curso de língua, produzir e revisar estruturas específicas é a aprendizagem. Na comunicação profissional, precisão disciplinar, audiência e registro contam todos. A mesma ferramenta de tradução é apropriada no primeiro caso, questionável no segundo e negociável no terceiro.
 
-Escreva a decisão onde os estudantes possam lê-la. Se os estudantes podem traduzir os enunciados mas precisam produzir uma explicação na língua-alvo sem ajuda, diga isso explicitamente. Se o apoio terminológico é permitido, especifique o que o estudante ainda tem que explicar e verificar. Depois confira o arranjo contra os requisitos de acomodação e a política institucional, em vez de tratar toda forma de assistência linguística como intercambiável. Uma estudante com acomodação documentada e um estudante que foge da prática podem pedir a mesma coisa, e só o segundo é o seu problema de ensino.
+Escreva a decisão onde os estudantes possam lê-la. Se os estudantes podem traduzir os enunciados mas precisam produzir uma explicação na língua-alvo sem ajuda, diga isso explicitamente. Se o apoio terminológico é permitido, especifique o que o estudante ainda tem que explicar e verificar. Depois confira o arranjo contra os requisitos de acomodação e a [[educational-policy-ai|política institucional]], em vez de tratar toda forma de assistência linguística como intercambiável. Uma estudante com acomodação documentada e um estudante que foge da prática podem pedir a mesma coisa, e só o segundo é o seu problema de ensino.
 
 ## O que a pesquisa sustenta, e o que não sustenta
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] revisaram 24 estudos empíricos sobre chatbots generativos na aprendizagem de línguas. A contribuição deles é taxonômica: toda subpossibilidade catalogada para chatbots pré-generativos persiste, e três são novas, entre elas a **translinguagem**, o movimento deliberado entre línguas como parte da aprendizagem. Isso é um mapa de usos e experiências relatados, não uma estimativa agrupada, e o corpus é geograficamente concentrado, com China, Irã, Taiwan e Turquia respondendo por 19 dos 24 estudos e todos menos um ambientados dentro de instituições formais. Sustentar o uso de explicação entre línguas como movimento de aprendizagem não é sustentar a tradução de toda tarefa.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] revisaram 24 estudos empíricos sobre [[conversational-ai|chatbots]] generativos na [[language-learning|aprendizagem de línguas]]. A contribuição deles é taxonômica: toda subpossibilidade catalogada para chatbots pré-generativos persiste, e três são novas, entre elas a **translinguagem**, o movimento deliberado entre línguas como parte da aprendizagem. Isso é um mapa de usos e experiências relatados, não uma estimativa agrupada, e o corpus é geograficamente concentrado, com China, Irã, Taiwan e Turquia respondendo por 19 dos 24 estudos e todos menos um ambientados dentro de instituições formais. Sustentar o uso de explicação entre línguas como movimento de aprendizagem não é sustentar a tradução de toda tarefa.
 
 A avaliação é onde a evidência fica mais afiada e os riscos sobem. [[ai-scoring-language-bias-physics|Feser e Tschisgale (2026)]] compararam onze abordagens de pontuação automatizada com notas de especialistas humanos para explicações de física de 116 estudantes do ensino médio e encontraram subestimação sistemática da compreensão conceitual nas explicações linguisticamente mais fracas, em todas as abordagens, sem exceção. O desenho isola o mecanismo: o mesmo conteúdo conceitual, expresso em prosa mais fraca, recebeu nota menor. Não é uma afirmação sobre os estudantes multilíngues de nenhum país em particular, e é exatamente o padrão que faz da concordância global de pontuação um diagnóstico ruim. Um avaliador pode concordar com avaliadores humanos na média e errar em uma direção consistente para os estudantes cuja língua ainda está em desenvolvimento.
 
@@ -76,6 +76,7 @@ Esses são usos para pilotar, não intervenções validadas. Uma ferramenta que 
 Peça ajuda pontual antes de pedir uma reescrita, porque é na reescrita inteira que o pensamento do estudante sai da página. Um pedido que vale ensinar: "Identifique dois pontos em que o meu sentido está pouco claro. Explique o problema e ofereça opções. Mantenha os meus exemplos e não acrescente afirmações." Depois o estudante escolhe.
 
 Uma sequência que mantém o trabalho com o estudante:
+
 1. Desenvolver a explicação na língua ou mistura de línguas que deixe o estudante raciocinar, onde a tarefa permitir.
 2. Usar o apoio aprovado para examinar terminologia ou expressão.
 3. Comparar a formulação sugerida com o sentido pretendido e com as fontes do curso.
@@ -115,7 +116,7 @@ Ofereça alternativas viáveis. Os estudantes precisam de um caminho claro para 
 
 **4.** Acrescente uma verificação que registre o sentido ou a decisão do próprio estudante, como uma nota de duas frases sobre uma mudança que ele aceitou ou rejeitou.
 
-**5.** Se a sua rubrica pontua a qualidade da escrita, separe esse critério do conceitual e releia duas entregas de cada tipo com a separação em mente.
+**5.** Se a sua rubrica pontua a [[writing-education|qualidade da escrita]], separe esse critério do conceitual e releia duas entregas de cada tipo com a separação em mente.
 
 ## Para onde ir a seguir
 

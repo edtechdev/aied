@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Begin met een label. De [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]
 
 Verander daarna het artefact. Een [[meta-analysis-systematic-review|systematische review]] van 72 studies naar generatieve AI in [[cs-education|informaticaonderwijs]] beoordeelt herontwerp als zowel haalbaar als met de grootste hefboomwerking, en noemt één beweging afzonderlijk: voeg een mondeling of anderszins proceszichtbaar element toe aan ten minste één toets met hoge inzet per cursus. Die beweging noemt de review de meest effectieve interventie in het corpus. Detectie is het dunste gebied dat de review bestrijkt, met slechts 3 studies, tegenover 60-80% van de informaticastudenten die generatief AI-gebruik in hun studie melden, doorgaans zonder expliciete toestemming van de docent, en 70% van één landelijk docentensample dat expliciet om training in AI-bestendig toetsontwerp vraagt ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]).
 
+Een computerwetenschapscursus van drie jaar laat zien hoe ver een afgebakende openbaarmakingsworkflow het gedrag kan bewegen. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] vereisten een zelfstandige kladversie met een checklist van vier items, een AI-stap voor verfijnen in plaats van herschrijven, een openbaarmakingsformulier en een gestructureerde reflectie, waarbij een ontbrekende kladversie of formulier nul opleverde. De adoptie steeg van ongeveer twee derde van de studenten onder een vrijwillig beleid naar 93% in het jaar met de afgebakende workflow; 81% en 84% van de AI-gebruikers meldde suggesties te verwerpen of aan te passen, beoordelaars codeerden 77–81% van de inzendingen voor kritische betrokkenheid, en AI-gebruik voorspelde de essaykwaliteit niet onafhankelijk nadat eerdere schrijfvaardigheid was gecontroleerd. Dit is een ervaringsverslag over één cursus, geen gecontroleerd experiment, maar het laat zien dat het integriteitswerk verschuift van detectie naar de voorwaarden waaronder studenten openbaar maken en herzien.
+
+
 Het menu, ruwweg in de volgorde waarin elke optie een grote klas overleeft.
 
-Zonder hulp, in het lokaal, gesloten boek: tentamens onder toezicht, kennistoetsen, schrijven onder tijdsdruk. Geef deze zwaarder gewicht dan u gewend was, want huiswerk is het artefact dat AI opblaast. Mondelinge tentamens en verdedigingen werken om dezelfde reden, omdat echt gesprek in tijd moeilijk uit te besteden is ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton, 2025]]).
+Zonder hulp, in het lokaal, gesloten boek: tentamens onder toezicht, kennistoetsen, schrijven onder tijdsdruk. Geef deze zwaarder gewicht dan u gewend was, want huiswerk is het artefact dat AI opblaast. [[oral-assessment|Mondelinge tentamens]] en verdedigingen werken om dezelfde reden, omdat echt gesprek in tijd moeilijk uit te besteden is ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton, 2025]]).
 
-Procesartefacten: kladversies, sporen van redeneren, geannoteerd “laat uw denken zien”, revisielogs, zodat het *proces* zichtbaar is in plaats van alleen het product ([[authentic-products-authenticated-processes-2026|echte producten, geauthenticeerde processen]]). Authentieke taken werken daarnaast: lokale casussen, stagemateriaal, de eigen data van de student, alles wat moeilijk te delegeren is ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov, 2026]]).
+Procesartefacten: kladversies, sporen van redeneren, geannoteerd “laat uw denken zien”, revisielogs, zodat het *proces* zichtbaar is in plaats van alleen het product ([[authentic-products-authenticated-processes-2026|echte producten, geauthenticeerde processen]]). [[authentic-assessment|Authentieke taken]] werken daarnaast: lokale casussen, stagemateriaal, de eigen data van de student, alles wat moeilijk te delegeren is ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov, 2026]]).
 
 Taakvariatie per student, waarbij elke student een aan de oppervlakte verschillende maar construct-equivalente versie krijgt, maakt kopiëren structureel nutteloos. Behandel die garantie als afhankelijk van het kunnen van het model: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] vond dat toonaangevende generatoren slechts 0,81-0,88 haalden op een samengestelde integriteitsscore, terwijl niet-toonaangevende modellen terugvallen naar 0,50-0,55. Als uw varianten niet equivalent zijn, hebt u bescherming tegen delen gekocht ten koste van ongelijkheid tussen studenten.
 
@@ -96,7 +99,7 @@ Formuleer de regel ook precies. [[wright-transcription-not-generation-2026|Wrigh
 
 Het instrument verbieden en het zonder structuur toestaan leveren hetzelfde resultaat op: studenten staan buiten het cognitieve werk.
 
-De synthese AI-misbruik terugdringen zet acht ontwerpprincipes uiteen voor de toegestane variant, waaronder: behoud [[desirable-difficulties|cognitieve wrijving]], positioneer AI als een voorlopige denkpartner in plaats van een autoriteit, bouw evaluatiemomenten in, en eis [[metacognition|metacognitieve]] dagboeknotities en promptlogboeken.
+De synthese AI-misbruik terugdringen zet acht ontwerpprincipes uiteen voor de toegestane variant, waaronder: behoud [[desirable-difficulties|cognitieve wrijving]], positioneer AI als een voorlopige denkpartner in plaats van een autoriteit, bouw evaluatiemomenten in, en eis [[metacognition|metacognitieve]] [[reflection|dagboeknotities]] en promptlogboeken.
 
 De reeks die die principes draagt is kort genoeg om op een opdrachtblad te drukken:
 
@@ -122,7 +125,7 @@ Het gemeten voorbeeld is een [[k-12|K-12]]-module met scenariogebaseerde prompto
 
 Wat studenten werkelijk denken is minder cynisch dan de paniek suggereert. Onder 504 sociologiestudenten had 65% generatieve AI gebruikt voor hun studie, maar slechts 3% om tekst voor een opdracht te genereren en 2% om een volledige kladversie te genereren. 81% had enige AI-begeleiding ontvangen en slechts 46% vond die heel duidelijk ([[student-genai-use-views-writing|een enquête onder sociologiestudenten]]). Dubbelzinnigheid, niet verzet, is het praktische probleem, en daarom verandert een duidelijke regel plus een aangeleerde reeks meer gedrag dan een waarschuwing. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa en Mezgebu (2026)]] beschrijven studenten die vragen of generatieve AI een hulpmiddel is dat fraude vergemakkelijkt of een partner die leren ondersteunt, en die vraag is precies wat uw verwachtingen moeten beantwoorden.
 
-De schade die het waard is expliciet te onderwijzen is de [[ai-misuse-learning-harm|kloof tussen prestatie en leren]]: de prestatie stijgt nu, het leren daalt later, en de student ervaart alleen het eerste. [[ai-tools-academic-work-cheating-2026|AI-tools, academisch werk en fraude]] en [[student-rationalization-ai-writing|rationalisering door studenten]] behandelen de kant van groepsnormen en rationalisering, inclusief het verweer “iedereen doet het”, dat een duidelijke norm ontkracht. Hoe sterk die basis is, staat in [[ai-literacy-evidence|het bewijs voor AI-geletterdheid]] en [[top-10-findings-ai-education-instructors|de tien belangrijkste bevindingen voor docenten]].
+De schade die het waard is expliciet te onderwijzen is de [[ai-misuse-learning-harm|kloof tussen prestatie en leren]]: de prestatie stijgt nu, het leren daalt later, en de [[student-experience|student ervaart]] alleen het eerste. [[ai-tools-academic-work-cheating-2026|AI-tools, academisch werk en fraude]] en [[student-rationalization-ai-writing|rationalisering door studenten]] behandelen de kant van groepsnormen en rationalisering, inclusief het verweer “iedereen doet het”, dat een duidelijke norm ontkracht. Hoe sterk die basis is, staat in [[ai-literacy-evidence|het bewijs voor AI-geletterdheid]] en [[top-10-findings-ai-education-instructors|de tien belangrijkste bevindingen voor docenten]].
 
 ## Wat docenten hier verkeerd doen
 

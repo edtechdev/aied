@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T17:10:59-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
-Du håller på att skriva om ett uppgiftsblad och meningen framför dig säger att AI är tillåtet med redovisning, vilket inte säger en student något om huruvida verktyget får leverera själva argumentet. En kollega har föreslagit ett förbud för hela kursen och du misstänker att det slår hårdast mot de flerspråkiga skribenterna i rummet. Eller så kom en hög uppsatser tillbaka smidigare än seminariediskussionen bakom dem, och du behöver en regel du kan försvara på nästa kursplansmöte.
+Du håller på att skriva om ett uppgiftsblad och meningen framför dig säger att AI är tillåtet med redovisning, vilket inte säger en student något om huruvida verktyget får leverera själva argumentet. En kollega har föreslagit ett förbud för hela kursen och du misstänker att det slår hårdast mot de flerspråkiga skribenterna i rummet. Eller så kom en hög uppsatser tillbaka smidigare än seminariediskussionen bakom dem, och du behöver en regel du kan försvara på nästa [[curriculum-design|kursplansmöte]].
 
 Summan av kardemumman: namnge det intellektuella arbete som uppgiften finns till för att producera, behåll det steget hos studenten, och ge verktyget uppgifter som returnerar något som studenten måste bedöma. En regel som är skriven så talar om för studenten vilket steg den skyddar.
 
@@ -78,7 +78,7 @@ En sekvens värd att låna behåller AI i en rådgivande roll och placerar reson
 | **8. Revidera** | Göra och motivera substantiella ändringar | Pröva klarhet, erbjuda alternativ | Revidering |
 | **9. Verifiera** | Kontrollera varje faktapåstående eller källberoende påstående | Kan inte verifiera sin egen output | Källor och evidens |
 | **10. Reflektera och redovisa** | Förklara AI:s roll och vad som ändrades i deras tänkande | Ingenting | Kort processreflektion |
-| **11. Självständig kontroll** | Förklara eller tillämpa resonemanget utan AI | Ingenting | Muntligt försvar, snabbskrivning, nytt fall |
+| **11. Självständig kontroll** | Förklara eller tillämpa resonemanget utan AI | Ingenting | [[oral-assessment|Muntligt försvar]], snabbskrivning, nytt fall |
 
 Detta är [[pairr-ai-peer-review-2025|PAIRR]] utvidgat: utkast, mänsklig återkoppling, AI-återkoppling, jämförelse, revidering, reflektion, med en självständig baslinje och en snävare gräns kring resonemanget. Använd mittkolumnen som uppgiften och högerkolumnen som det ett betyg kan vila på.
 
@@ -89,6 +89,9 @@ Elva rader är mer än de flesta uppgifter behöver. Dra ihop tabellen till de s
 Den största klassrumsstudien här är [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenter i tio skrivkurser och tre skrivintensiva [[stem-education|STEM]]-kurser. De skrev utkast, genomförde [[peer-assessment|kamratbedömning]], hämtade rubricbaserad AI-återkoppling, jämförde och värderade båda källorna, skrev revideringsplaner, reviderade och reflekterade. Femtioåtta procent föredrog kombinerad kamrat- och AI-återkoppling. Sex procent föredrog enbart AI-återkoppling. Studenter fann AI användbart för breda, rubricorienterade revideringsråd, och kamrater bidrog med kontextuell kunskap och ett autentiskt målgruppssvar.
 
 Var exakt om påståendet. PAIRR mätte studenters upplevelse och värdering av återkoppling, inte långsiktiga [[learning-gains|lärandevinster]], så det är stark evidens för en återkopplingsdesign och svagare evidens för att skrivandet förbättras månader senare. Behåll kamratsteget även när AI-steget är snabbare. Mycket av arbetet med [[feedback|återkoppling]] sker i jämförelsen mellan de två källorna, och att släppa den tar bort den del som studenterna sade sig värdesätta.
+
+Verktyget självt kan utformas för att skydda resonemangssteget. [[favero-thinking-not-writing-chatbot-2026|Favero m.fl. (2026)]] byggde MAIKE, en [[socratic-method|sokratisk]] chattbot som diagnostiserar argument och ställer riktade frågor utan att generera uppsatstext. I en klassrumsstudie med 65 gymnasieelever lade MAIKE-användare fler turer på idénivå än kontrollgruppen (56 % mot 44 %) och rörde sig mellan diskussion och redigering; omkring 40 % av studenterna förbättrade sina uppsatspoäng. Studien visade ingen övergripande betygsfördel mot kontrollgruppen, så behandla den som en designdemonstration om att koppla samtal till revidering, inte som bevis för att chattboten höjer skrivkvaliteten.
+
 
 ## Betygsätt vad studenten gjorde med återkopplingen
 

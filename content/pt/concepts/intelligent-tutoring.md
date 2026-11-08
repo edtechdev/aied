@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: Tutoria inteligente
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-30T21:00:00-04:00"

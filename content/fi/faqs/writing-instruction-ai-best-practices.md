@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Olet uudistamassa tehtävämonistetta, ja edessäsi oleva lause sanoo, että tekoäly on sallittu maininnalla, mikä ei kerro opiskelijalle yhtään mitään siitä, saako työkalu tuottaa itse argumentin. Kollega on ehdottanut koko kurssia koskevaa kieltoa, ja epäilet, että se osuu kovimmin niihin monikielisiin kirjoittajiin, jotka istuvat samassa luokassa. Tai joukko esseitä palasi sujuvampina kuin niiden takana ollut seminaarikeskustelu, ja tarvitset säännön, jonka voit perustella seuraavassa opetussuunnitelmakokouksessa.
+Olet uudistamassa tehtävämonistetta, ja edessäsi oleva lause sanoo, että tekoäly on sallittu maininnalla, mikä ei kerro opiskelijalle yhtään mitään siitä, saako työkalu tuottaa itse argumentin. Kollega on ehdottanut koko kurssia koskevaa kieltoa, ja epäilet, että se osuu kovimmin niihin monikielisiin kirjoittajiin, jotka istuvat samassa luokassa. Tai joukko esseitä palasi sujuvampina kuin niiden takana ollut seminaarikeskustelu, ja tarvitset säännön, jonka voit perustella seuraavassa [[curriculum-design|opetussuunnitelmakokouksessa]].
 
 Ydinajatus: nimeä se älyllinen työ, jota varten tehtävä on olemassa, pidä se vaihe opiskelijalla ja anna työkalulle tehtäviä, joiden tuotosta opiskelijan on pakko arvioida. Näin kirjoitettu sääntö kertoo opiskelijalle, mitä vaihetta se suojaa.
 
@@ -78,7 +78,7 @@ Järjestys, joka kannattaa lainata, pitää tekoälyn konsultin roolissa ja jät
 | **8. Muokkaa** | Tee ja perustele sisällölliset muutokset | Testaa selkeyttä, tarjoa vaihtoehtoja | Muokkaus |
 | **9. Varmista** | Tarkista jokainen faktaväite tai lähteestä riippuva väite | Ei voi varmistaa omaa tuotostaan | Lähteet ja todistusaineisto |
 | **10. Reflektoi ja ilmoita** | Selitä tekoälyn rooli ja se, mikä ajattelussa muuttui | Ei mitään | Lyhyt prosessireflektio |
-| **11. Itsenäinen tarkistus** | Selitä tai sovella päättelyä ilman tekoälyä | Ei mitään | Suullinen puolustus, pikakirjoitus, uusi tapaus |
+| **11. Itsenäinen tarkistus** | Selitä tai sovella päättelyä ilman tekoälyä | Ei mitään | [[oral-assessment|Suullinen puolustus]], pikakirjoitus, uusi tapaus |
 
 Tämä on [[pairr-ai-peer-review-2025|PAIRR]] laajennettuna: luonnos, ihmispalaute, tekoälypalaute, vertailu, muokkaus, reflektio, sekä itsenäinen lähtötaso ja tiukempi raja päättelyn ympärillä. Käytä keskimmäistä saraketta tehtävänä ja oikeaa saraketta sen pohjana, jolle arvosana voi nojata.
 
@@ -89,6 +89,9 @@ Yksitoista riviä on enemmän kuin useimmat tehtävät tarvitsevat. Kutista taul
 Tämän sivun suurin luokkatutkimus on [[pairr-ai-peer-review-2025|PAIRR]]: 654 opiskelijaa kymmenellä kirjoituskurssilla ja kolmella kirjoitusvaltaisella [[stem-education|STEM]]-kurssilla. He luonnostelivat, tekivät [[peer-assessment|vertaisarvioinnin]], hankkivat arviointimatriisiin perustuvaa tekoälypalautetta, vertasivat ja arvioivat molempia lähteitä, kirjoittivat muokkaussuunnitelmat, muokkasivat ja reflektoivat. 58 % piti vertais- ja tekoälypalautteen yhdistelmästä. 6 % piti pelkästä tekoälypalautteesta. Opiskelijat pitivät tekoälyä hyödyllisenä laajojen, arviointimatriisiin suuntautuvien muokkausehdotusten kannalta, ja vertaiset tarjosivat kontekstuaalista tietoa ja aitoa yleisöpalautetta.
 
 Ole täsmällinen väitteen suhteen. PAIRR mittasi opiskelijoiden kokemusta ja palautteen arviointia, ei pitkäaikaisia [[learning-gains|oppimistuloksia]], joten se on vahva näyttö palautesuunnittelusta ja heikompi näyttö siitä, että kirjoittaminen paranee kuukausia myöhemmin. Pidä vertaisvaihe mukana silloinkin, kun tekoälyvaihe on nopeampi. Suuri osa [[feedback|palautteen]] työstä tapahtuu kahden lähteen vertailussa, ja sen pudottaminen poistaa juuri sen osan, jota opiskelijat sanoivat arvostavansa.
+
+Työkalu itsessään voidaan suunnitella suojaamaan päättelyvaihetta. [[favero-thinking-not-writing-chatbot-2026|Favero ym. (2026)]] rakensivat MAIKEn, [[socratic-method|sokraattisen]] chatbotin, joka diagnosoi argumentteja ja esittää kohdennettuja kysymyksiä tuottamatta esseetekstiä. Luokkatutkimuksessa 65 keskiasteen opiskelijan kanssa MAIKEn käyttäjät käyttivät useampia vuoroja ideatason dialogiin kuin kontrollikäyttäjät (56 % vastaan 44 %) ja liikkuivat keskustelun ja muokkaamisen välillä; noin 40 % opiskelijoista paransi esseepisteitään. Tutkimus ei osoittanut kokonaisarvosanaetua kontrolliin verrattuna, joten kohtele sitä suunnittelunäyttönä keskustelun ja muokkauksen yhdistämisestä, ei todisteena siitä, että chatbotti nostaa kirjoittamisen laatua.
+
 
 ## Arvioi se, mitä opiskelija teki palautteella
 

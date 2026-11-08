@@ -10,7 +10,7 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 updated: "2026-11-04T02:20:32-05:00"
 translation_of: "concepts/differential-effects-across-learner-groups"
 source_updated: "2026-11-01T11:00:00-05:00"
@@ -25,7 +25,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Efek diferensial antar kelompok siswa** — apa yang ditemukan penelitian [[ai-education|AI dalam pendidikan]] tentang bagaimana *penggunaan* AI dan *efeknya* berbeda di antara jenis-jenis siswa: [[special-education|siswa penyandang disabilitas]] dan [[neurodiversity|siswa neurodivergen]], pembelajar bahasa kedua dan [[multilingual-learning|pembelajar multibahasa]], anak perempuan dan laki-laki, siswa dari kelompok minoritas, siswa dari latar belakang berpenghasilan rendah, siswa pedesaan, siswa generasi pertama, siswa internasional, dan [[adult-learning|pembelajar dewasa]]. Pola yang layak dibawa pulang tidak merata ke dua arah sekaligus: sebagian untaian memiliki bukti nyata (disabilitas, bahasa) sementara yang lain hampir kosong (generasi pertama, internasional, pengungsi), dan bahkan untaian yang kuat jarang menetapkan bahwa sebuah *kelompok* berbeda — yang mereka tetapkan adalah bahwa sebuah alat membantu atau merugikan sampel dari kelompok itu, yang merupakan klaim berbeda. Halaman ini memetakan apa yang ada, apa yang ditunjukkannya, dan alasan metodologis mengapa rata-rata kelompok bukanlah prediksi tentang seorang siswa.
+> **Efek diferensial antar kelompok siswa** — apa yang ditemukan penelitian [[ai-education|AI dalam pendidikan]] tentang bagaimana *penggunaan* AI dan *efeknya* berbeda di antara jenis-jenis siswa: [[inclusive-learning|siswa penyandang disabilitas]] dan [[neurodiversity|siswa neurodivergen]], pembelajar bahasa kedua dan [[multilingual-learning|pembelajar multibahasa]], anak perempuan dan laki-laki, siswa dari kelompok minoritas, siswa dari latar belakang berpenghasilan rendah, siswa pedesaan, siswa generasi pertama, siswa internasional, dan [[adult-learning|pembelajar dewasa]]. Pola yang layak dibawa pulang tidak merata ke dua arah sekaligus: sebagian untaian memiliki bukti nyata (disabilitas, bahasa) sementara yang lain hampir kosong (generasi pertama, internasional, pengungsi), dan bahkan untaian yang kuat jarang menetapkan bahwa sebuah *kelompok* berbeda — yang mereka tetapkan adalah bahwa sebuah alat membantu atau merugikan sampel dari kelompok itu, yang merupakan klaim berbeda. Halaman ini memetakan apa yang ada, apa yang ditunjukkannya, dan alasan metodologis mengapa rata-rata kelompok bukanlah prediksi tentang seorang siswa.
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 

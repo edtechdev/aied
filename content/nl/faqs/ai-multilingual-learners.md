@@ -1,9 +1,9 @@
 ---
 title: "Hoe kan AI meertalige lerenden ondersteunen zonder hun kennis verkeerd te beoordelen of hun stem uit te wissen?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Een student begrijpt het concept en heeft vier extra minuten nodig om dat in het Engels te zeggen. De AI kan de opdracht vertalen, de terminologie uitleggen, de uitleg met de student oefenen, of het hele antwoord schrijven. Drie daarvan zijn onderwijs. Eén is de opdracht maken.
 
-Kort antwoord voor een collega: bepaal wat de taal in deze taak doet voordat u bepaalt wat het hulpmiddel mag doen. Waar taal bijkomstig is, kan AI een drempel wegnemen die niets met uw construct te maken heeft. Waar de taal het construct is, omzeilt hetzelfde hulpmiddel het leren. Het risico loopt tegelijk beide kanten op: [[multilingual-learning|taalondersteuning]] kan de toegang verbeteren, en geautomatiseerde scoring kan de student nog steeds verkeerd lezen. In één natuurkundestudie werden uitleg van lagere taalkundige kwaliteit systematisch onder het oordeel van experts beoordeeld door elke geteste AI-scoringsaanpak, negen machine-learning- en twee taalmodelsystemen bij 116 middelbare scholieren ([[ai-scoring-language-bias-physics|Feser en Tschisgale, 2026]]). Vloeiendheid en begrip werden als één ding gescoord.
+Hier is het korte antwoord: bepaal wat de taal in deze taak doet voordat u bepaalt wat het hulpmiddel mag doen. Waar taal bijkomstig is, kan AI een drempel wegnemen die niets met uw construct te maken heeft. Waar de taal het construct is, omzeilt hetzelfde hulpmiddel het leren. Het risico loopt tegelijk beide kanten op: [[multilingual-learning|taalondersteuning]] kan de toegang verbeteren, en [[automated-assessment|geautomatiseerde scoring]] kan de student nog steeds verkeerd lezen. In één natuurkundestudie werden uitleg van lagere taalkundige kwaliteit systematisch onder het oordeel van experts beoordeeld door elke geteste AI-scoringsaanpak, negen [[machine-learning]]- en twee taalmodelsystemen bij 116 middelbare scholieren ([[ai-scoring-language-bias-physics|Feser en Tschisgale, 2026]]). Vloeiendheid en begrip werden als één ding gescoord.
 
 ## De korte versie
 
@@ -45,13 +45,13 @@ Kort antwoord voor een collega: bepaal wat de taal in deze taak doet voordat u b
 
 ## Bepaal wat de taal doet
 
-In een biologie-uitleg is grammatica grotendeels bijkomstig voor het concept dat wordt beoordeeld. In een taalcursus is het produceren en herzien van bepaalde structuren het leren zelf. In professionele communicatie tellen vakinhoudelijke nauwkeurigheid, publiek en register allemaal mee. Hetzelfde vertaalhulpmiddel is gepast in het eerste geval, twijfelachtig in het tweede en onderhandelbaar in het derde.
+In een uitleg bij [[biology-education|biologie]] is grammatica grotendeels bijkomstig voor het concept dat wordt beoordeeld. In een taalcursus is het produceren en herzien van bepaalde structuren het leren zelf. In professionele communicatie tellen vakinhoudelijke nauwkeurigheid, publiek en register allemaal mee. Hetzelfde vertaalhulpmiddel is gepast in het eerste geval, twijfelachtig in het tweede en onderhandelbaar in het derde.
 
-Schrijf de beslissing op waar studenten haar kunnen lezen. Als studenten de opdracht mogen vertalen maar de uitleg in de doeltaal zelfstandig moeten produceren, zeg dat dan expliciet. Als terminologieondersteuning is toegestaan, specificeer dan wat de student nog steeds moet uitleggen en verifiëren. Toets de regeling vervolgens aan voorzieningenvereisten en instellingsbeleid in plaats van elke vorm van taalhulp als uitwisselbaar te behandelen. Een student met een gedocumenteerde voorziening en een student die oefening ontwijkt, kunnen hetzelfde vragen, en alleen het tweede is uw onderwijskundige probleem.
+Schrijf de beslissing op waar studenten haar kunnen lezen. Als studenten de opdracht mogen vertalen maar de uitleg in de doeltaal zelfstandig moeten produceren, zeg dat dan expliciet. Als terminologieondersteuning is toegestaan, specificeer dan wat de student nog steeds moet uitleggen en verifiëren. Toets de regeling vervolgens aan voorzieningenvereisten en [[educational-policy-ai|instellingsbeleid]] in plaats van elke vorm van taalhulp als uitwisselbaar te behandelen. Een student met een gedocumenteerde voorziening en een student die oefening ontwijkt, kunnen hetzelfde vragen, en alleen het tweede is uw onderwijskundige probleem.
 
 ## Wat het onderzoek ondersteunt, en wat niet
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez en Arabadzhy (2026)]] beoordeelden 24 empirische studies naar generatieve chatbots in het talenonderwijs. Hun bijdrage is taxonomisch: elke sub-affordance die voor pregeneratieve chatbots was gecatalogiseerd, bestaat voort, en drie zijn nieuw, waaronder **translanguaging**, het bewust bewegen tussen talen als deel van het leren. Dat is een kaart van gerapporteerd gebruik en ervaringen, geen gepoolde schatting, en het corpus is geografisch geconcentreerd: China, Iran, Taiwan en Turkije zijn goed voor 19 van de 24 studies en alle op één na vonden binnen formele instellingen plaats. Ondersteuning voor het gebruik van uitleg over taalgrenzen heen als leermiddel is geen ondersteuning voor het vertalen van elke opdracht.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez en Arabadzhy (2026)]] beoordeelden 24 empirische studies naar generatieve [[conversational-ai|chatbots]] in het [[language-learning|talenonderwijs]]. Hun bijdrage is taxonomisch: elke sub-affordance die voor pregeneratieve chatbots was gecatalogiseerd, bestaat voort, en drie zijn nieuw, waaronder **translanguaging**, het bewust bewegen tussen talen als deel van het leren. Dat is een kaart van gerapporteerd gebruik en ervaringen, geen gepoolde schatting, en het corpus is geografisch geconcentreerd: China, Iran, Taiwan en Turkije zijn goed voor 19 van de 24 studies en alle op één na vonden binnen formele instellingen plaats. Ondersteuning voor het gebruik van uitleg over taalgrenzen heen als leermiddel is geen ondersteuning voor het vertalen van elke opdracht.
 
 Bij beoordeling wordt het bewijs scherper en stijgen de belangen. [[ai-scoring-language-bias-physics|Feser en Tschisgale (2026)]] vergeleken elf geautomatiseerde scoringsaanpakken met menselijke expertscores voor de natuurkundeuitleg van 116 middelbare scholieren en vonden een systematische onderschatting van conceptueel begrip bij taalkundig zwakkere uitleg, in elke afzonderlijke aanpak. Het ontwerp isoleert het mechanisme: dezelfde conceptuele inhoud, uitgedrukt in zwakkere taal, werd lager gescoord. Dit is geen claim over de meertalige studenten van een bepaald land, en het is precies het patroon dat algehele scorings-overeenstemming tot een slechte diagnostiek maakt. Een scorer kan gemiddeld overeenkomen met menselijke beoordelaars en tegelijk in een consistente richting fout zitten voor de studenten wier taal nog in ontwikkeling is.
 
@@ -116,7 +116,7 @@ Bied werkbare alternatieven. Studenten hebben een duidelijke weg nodig naar mens
 
 **4.** Voeg één controle toe die de eigen betekenis of beslissing van de student vastlegt, bijvoorbeeld een notitie van twee zinnen over een wijziging die die accepteerde of verwierp.
 
-**5.** Als uw rubric schrijfkwaliteit scoort, scheid dat criterium dan van het conceptuele en lees twee inleveringen van elk opnieuw met die splitsing in gedachten.
+**5.** Als uw rubric [[writing-education|schrijfkwaliteit]] scoort, scheid dat criterium dan van het conceptuele en lees twee inleveringen van elk opnieuw met die splitsing in gedachten.
 
 ## Waar u verder kunt gaan
 

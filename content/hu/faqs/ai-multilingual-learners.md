@@ -1,9 +1,9 @@
 ---
 title: "Hogyan támogathatja a MI a többnyelvű tanulókat anélkül, hogy félreítélné a tudásukat vagy eltörölné a hangjukat?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Egy diák érti a fogalmat, és négy plusz percre van szüksége, hogy ezt angolul el is mondja. A MI lefordíthatja a promptot, definiálhatja a terminológiát, gyakorolhatja vele a magyarázatot, vagy megírhatja az egész választ. Ebből három tanítás. Egy a feladat megoldása.
 
-Rövid válasz egy kollégának: döntse el, mit csinál a nyelv ebben a feladatban, mielőtt eldönti, mit tehet az eszköz. Ahol a nyelv mellékes, a MI eltávolíthat egy korlátot, amelynek semmi köze a konstruktumához. Ahol a nyelv maga a konstruktum, ugyanaz az eszköz megkerüli a tanulást. A kockázat egyszerre fut mindkét irányba: a [[multilingual-learning|nyelvi támogatás]] javíthatja a hozzáférést, és az automatizált pontozás továbbra is félreolvashatja a diákot. Egy fizikai vizsgálatban az alacsonyabb nyelvi minőségű magyarázatokat minden tesztelt MI-pontozási megközelítés rendszeresen a szakértői ítélet alá osztályozta, kilenc gépi tanulási és két nyelvimodell-rendszer, 116 középiskolás diák bevonásával ([[ai-scoring-language-bias-physics|Feser és Tschisgale, 2026]]). A folyékonyságot és a megértést egyetlen dologként pontozták.
+Íme a rövid válasz: döntse el, mit csinál a nyelv ebben a feladatban, mielőtt eldönti, mit tehet az eszköz. Ahol a nyelv mellékes, a MI eltávolíthat egy korlátot, amelynek semmi köze a konstruktumához. Ahol a nyelv maga a konstruktum, ugyanaz az eszköz megkerüli a tanulást. A kockázat egyszerre fut mindkét irányba: a [[multilingual-learning|nyelvi támogatás]] javíthatja a hozzáférést, és az [[automated-assessment|automatizált pontozás]] továbbra is félreolvashatja a diákot. Egy fizikai vizsgálatban az alacsonyabb nyelvi minőségű magyarázatokat minden tesztelt MI-pontozási megközelítés rendszeresen a szakértői ítélet alá osztályozta, kilenc [[machine-learning|gépi tanulási]] és két nyelvimodell-rendszer, 116 középiskolás diák bevonásával ([[ai-scoring-language-bias-physics|Feser és Tschisgale, 2026]]). A folyékonyságot és a megértést egyetlen dologként pontozták.
 
 ## A rövid változat
 
@@ -45,13 +45,13 @@ Rövid válasz egy kollégának: döntse el, mit csinál a nyelv ebben a feladat
 
 ## Döntse el, mit csinál a nyelv
 
-Egy biológiai magyarázatban a nyelvtan többnyire mellékes az értékelt fogalomhoz képest. Egy nyelvkurzusban bizonyos szerkezetek létrehozása és átdolgozása maga a tanulás. A szakmai kommunikációban a szakmai pontosság, a közönség és a regiszter egyaránt számít. Ugyanaz a fordítóeszköz megfelelő az első esetben, kérdéses a másodikban és tárgyalható a harmadikban.
+Egy [[biology-education|biológiai]] magyarázatban a nyelvtan többnyire mellékes az értékelt fogalomhoz képest. Egy nyelvkurzusban bizonyos szerkezetek létrehozása és átdolgozása maga a tanulás. A szakmai kommunikációban a szakmai pontosság, a közönség és a regiszter egyaránt számít. Ugyanaz a fordítóeszköz megfelelő az első esetben, kérdéses a másodikban és tárgyalható a harmadikban.
 
-Írja le a döntést ott, ahol a diákok elolvashatják. Ha a diákok lefordíthatják az utasításokat, de a célnyelvi magyarázatot önállóan kell megalkotniuk, mondja ezt ki egyértelműen. Ha a terminológiai támogatás engedélyezett, adja meg, mit kell a diáknak mégis megmagyaráznia és ellenőriznie. Aztán ellenőrizze az elrendezést az akadálymentesítési követelmények és az intézményi szabályzat ellenében, ahelyett hogy minden nyelvi segítségformát azonosnak tekintene. Egy dokumentált akadálymentesítéssel élő diák és egy diák, aki a gyakorlást kerüli, ugyanazt kérheti, és csak a második az Ön tanítási problémája.
+Írja le a döntést ott, ahol a diákok elolvashatják. Ha a diákok lefordíthatják az utasításokat, de a célnyelvi magyarázatot önállóan kell megalkotniuk, mondja ezt ki egyértelműen. Ha a terminológiai támogatás engedélyezett, adja meg, mit kell a diáknak mégis megmagyaráznia és ellenőriznie. Aztán ellenőrizze az elrendezést az akadálymentesítési követelmények és az [[educational-policy-ai|intézményi szabályzat]] ellenében, ahelyett hogy minden nyelvi segítségformát azonosnak tekintene. Egy dokumentált akadálymentesítéssel élő diák és egy diák, aki a gyakorlást kerüli, ugyanazt kérheti, és csak a második az Ön tanítási problémája.
 
 ## Mit támaszt alá a kutatás, és mit nem
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez és Arabadzhy (2026)]] 24 empirikus vizsgálatot tekintett át a generatív chatbotokról a nyelvtanulásban. A hozzájárulásuk taxonómiai: minden, a generatív előtti chatbotoknál jegyzékbe vett al-lehetőség megmarad, és három új, köztük a **transzlingvisztika**, a szándékos mozgás a nyelvek között a tanulás részeként. Ez a jelentett használatok és tapasztalatok térképe, nem összevont becslés, és a korpusz földrajzilag koncentrált: Kína, Irán, Tajvan és Törökország adja a 24 vizsgálatból 19-et, és egy kivételével mind formális intézményen belül zajlott. A nyelvek közötti magyarázat tanulási lépésként való alkalmazásának támogatása nem azonos minden feladat lefordításának támogatásával.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez és Arabadzhy (2026)]] 24 empirikus vizsgálatot tekintett át a generatív [[conversational-ai|chatbotokról]] a [[language-learning|nyelvtanulásban]]. A hozzájárulásuk taxonómiai: minden, a generatív előtti chatbotoknál jegyzékbe vett al-lehetőség megmarad, és három új, köztük a **transzlingvisztika**, a szándékos mozgás a nyelvek között a tanulás részeként. Ez a jelentett használatok és tapasztalatok térképe, nem összevont becslés, és a korpusz földrajzilag koncentrált: Kína, Irán, Tajvan és Törökország adja a 24 vizsgálatból 19-et, és egy kivételével mind formális intézményen belül zajlott. A nyelvek közötti magyarázat tanulási lépésként való alkalmazásának támogatása nem azonos minden feladat lefordításának támogatásával.
 
 Az értékelés az, ahol a bizonyíték élesebbé válik és a tét nő. [[ai-scoring-language-bias-physics|Feser és Tschisgale (2026)]] tizenegy automatizált pontozási megközelítést hasonlított össze emberi szakértői pontszámokkal 116 középiskolás diák fizikai magyarázatain, és minden egyes megközelítésben rendszeres alulbecslést találtak a fogalmi megértésben a nyelvileg gyengébb magyarázatoknál. A kísérleti elrendezés izolálja a mechanizmust: ugyanaz a fogalmi tartalom, gyengébb prózában kifejezve, alacsonyabb pontszámot kapott. Ez nem állítás egyetlen ország többnyelvű diákjairól sem, és pontosan ez a minta teszi az átfogó pontozási egyezést rossz diagnosztikává. Egy pontozó átlagosan egyetérthet az emberi javítókkal, miközben következetes irányban téved azoknál a diákoknál, akiknek a nyelve még fejlődik.
 
@@ -116,7 +116,7 @@ Adjon működő alternatívákat. A diákoknak tiszta út kell az emberi nyelvi 
 
 **4.** Adjon hozzá egy ellenőrzést, amely rögzíti a diák saját jelentését vagy döntését, például egy kétsoros jegyzetet egy elfogadott vagy elutasított változásról.
 
-**5.** Ha a rubrikája az írás minőségét pontozza, válassza szét azt a kritériumot a fogalmitól, és olvasson újra két-két beadást a szétválasztás tudatában.
+**5.** Ha a rubrikája az [[writing-education|írás minőségét]] pontozza, válassza szét azt a kritériumot a fogalmitól, és olvasson újra két-két beadást a szétválasztás tudatában.
 
 ## Hová tovább
 

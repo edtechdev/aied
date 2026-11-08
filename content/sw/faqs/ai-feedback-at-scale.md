@@ -11,7 +11,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 Ni wiki ya sita. Una mkusanyiko wa rasimu, rubriki unayoiamini, na shaka inayokua kwamba theluthi moja ya maoni yako yanapitishwa kwa macho haraka na kusahauka. Mwenzako anataja kwamba zana sasa inatoa maoni kwenye kila rasimu ndani ya saa moja. Mkutano wa idara unahitaji jibu: hii ni uboreshaji, au njia ya haraka zaidi ya kuzalisha maandishi ambayo hakuna anayeyasoma?
 
-Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, uwakati na uthabiti, ndani ya bendi nyembamba. Kazi ya lugha ya kiwango cha uhariri wa nakala na maoni ya awali yanayoongozwa na rubriki zinafaa kuwekwa kiotomatiki. Kufikia ni sehemu ya bei nafuu. Katika jaribio la kubahatisha kwa makundi lenye wanafunzi 1,176 wa shahada ya kwanza mwaka wa kwanza, miundo ya kufikiri na ya mseto ilishinda ukosoaji wa moja kwa moja wa AI katika [[transfer-of-learning|uhamisho]] ulioahirishwa bila AI. Katika jaribio la kubahatisha la insha lenye wanafunzi 70, maoni ya AI yaliyopewa ukadiriaji wa juu hayakuzalisha marekebisho bora zaidi ya yale ya mwalimu mwenye uzoefu. Kile mwanafunzi anachofanya na maoni ndicho kinaamua matokeo, na [[feedback-literacy|ufahamu wa maoni]] hutenganisha wanafunzi wanaopata faida na wale wanaonakili.
+Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, uwakati na uthabiti, ndani ya bendi nyembamba. Kazi ya lugha ya kiwango cha uhariri wa nakala na maoni ya awali yanayoongozwa na rubriki zinafaa kuwekwa kiotomatiki. Kufikia ni sehemu ya bei nafuu. Katika jaribio la kubahatisha kwa makundi lenye wanafunzi 1,176 wa shahada ya kwanza mwaka wa kwanza, miundo ya kufikiri na ya mseto ilishinda ukosoaji wa moja kwa moja wa AI katika [[transfer-of-learning|uhamisho]] ulioahirishwa bila AI. Katika jaribio la kubahatisha la insha lenye wanafunzi 70, maoni ya AI yaliyopewa ukadiriaji wa juu hayakuzalisha marekebisho bora zaidi ya yale ya [[teacher-role|mwalimu]] mwenye uzoefu. Kile mwanafunzi anachofanya na maoni ndicho kinaamua matokeo, na [[feedback-literacy|ufahamu wa maoni]] hutenganisha wanafunzi wanaopata faida na wale wanaonakili.
 
 ## Toleo fupi
 
@@ -41,7 +41,7 @@ Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, uwak
 
 **2.** Gawanya maoni yako mwenyewe katika marekebisho ya kiwango cha lugha na maamuzi ya kiwango cha hukumu. Ni kundi la kwanza tu linalostahili kuwekwa kiotomatiki.
 
-**3.** Panga vyanzo kwa hatua. Tathmini binafsi kwanza, maoni ya marika pili, ukosoaji wa AI tatu. Vyanzo viwili vilivyowekwa kando kwa kando huzalisha upokeaji wa kupitisha.
+**3.** Panga vyanzo kwa hatua. Tathmini binafsi kwanza, [[peer-assessment|maoni ya marika]] pili, ukosoaji wa AI tatu. Vyanzo viwili vilivyowekwa kando kwa kando huzalisha upokeaji wa kupitisha.
 
 **4.** Mpe mfano rubriki yako na ufanye ufikiri hatua kwa hatua. Maelekezo matupu huzalisha matokeo ya jumla.
 
@@ -53,7 +53,7 @@ Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, uwak
 
 Kipimo cha kuvutia ni ubora wa kile mfano unaandika. Pia ni kipimo kinachopotosha.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia na wenzake (2026)]] walibahatisha wanafunzi 70 wanaoandika inshaa za hoja kwa Kiajemi katika vikundi vitatu. Utoaji wa vidokezo vya mnyororo wa fikra ulizalisha maoni yenye ukadiriaji wa juu kwa kiasi kikubwa (M = 12.90) kuliko utoaji wa vidokezo vya zero-shot (M = 11.25, p = .01) na kuliko mwalimu wa binadamu mwenye uzoefu (M = 11.20, p = .008). Kikundi cha mnyororo wa fikra hakikurekebisha inshaa zake kwa kiasi kikubwa zaidi ya kikundi cha maoni ya mwalimu, ambacho kilipata faida zinazolingana. Maoni bora, marekebisho yale yale. Kama kipimo chako cha mafanikio ni ubora wa maoni, utafiti huo unasomeka kama ushindi. Kama ni kile kilichobadilika katika insha, hausomeki hivyo.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia na wenzake (2026)]] walibahatisha wanafunzi 70 wanaoandika inshaa za hoja kwa Kiajemi katika vikundi vitatu. [[prompt-engineering|Utoaji wa vidokezo]] vya mnyororo wa fikra ulizalisha maoni yenye ukadiriaji wa juu kwa kiasi kikubwa (M = 12.90) kuliko utoaji wa vidokezo vya zero-shot (M = 11.25, p = .01) na kuliko mwalimu wa binadamu mwenye uzoefu (M = 11.20, p = .008). Kikundi cha mnyororo wa fikra hakikurekebisha inshaa zake kwa kiasi kikubwa zaidi ya kikundi cha maoni ya mwalimu, ambacho kilipata faida zinazolingana. Maoni bora, marekebisho yale yale. Kama kipimo chako cha mafanikio ni ubora wa maoni, utafiti huo unasomeka kama ushindi. Kama ni kile kilichobadilika katika insha, hausomeki hivyo.
 
 Ishara nyingine mbili hupamba jaribio la awali linaloenda vibaya, kwa hiyo zirekebishe mapema. Kuridhika kwa wanafunzi ni moja. Katika jaribio la awali la chuo kikuu chote la Deakin lililoripotiwa na [[tubino-adachi-ai-automated-feedback-literacy|Tubino na Adachi (2022)]], ukadiriaji chanya wa wastani uliendana na makosa yaliyoainishwa na wanafunzi, kwa hiyo dodoso la uso wenye tabasamu si ushahidi wa usahihi. Matumizi ni lingine. Zana ya Deakin ilikuwa ya hiari, na matumizi yalikuwa wastani wa takriban 13% ya wanafunzi wa shahada ya kwanza na 12% ya wanafunzi wa shahada ya uzamili licha ya wanafunzi karibu 4,000 kuwa na ufikivu. Wanafunzi wanaojitolea na wanaofanikiwa sana waliitumia zaidi. Hicho ndicho kinachopatikana kwa kufanya zana ipatikane; hakuna zaidi.
 
@@ -75,7 +75,7 @@ Hali ya kufikiri ilihitaji tathmini binafsi kabla ya ukosoaji wa AI. Ya mseto il
 
 Utaratibu unaeleza kwa nini mfuatano ni muhimu zaidi kuliko zana. Ukosoaji wa moja kwa moja unakaribisha upokeaji wa kupitisha: mwanafunzi anasoma hukumu na kuitumia. Miundo ya kufikiri na ya mseto inamlazimisha mwanafunzi kutafsiri maoni, kuyalinganisha na vigezo, kuhukumu umuhimu wake na kisha kurekebisha. Thamani ya kielimu inategemea kidogo ufikivu wa AI kuliko kama mazingira ya maoni yanahifadhi [[agency|uwakala wa mwanafunzi]] na [[evaluative-judgment|hukumu ya tathmini]] wakati wa marekebisho.
 
-Maoni ya marika yanapata nafasi yake katika mfuatano. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen na Yan (2026)]] waliendesha madarasa mawili ya Kiingereza sambamba (N = 118 wanafunzi wa shahada ya kwanza nchini China; GenAI n = 56, marika n = 62) kupitia mizunguko mitatu ya tathmini binafsi katika muhula mmoja. Msaada wa hatua kwa hatua wa GenAI uliboresha ufahamu wa maoni kidogo lakini kwa kiasi kikubwa zaidi ya mapitio ya marika ya binadamu (ANCOVA p = 0.049, ηp² = 0.03). Wanafunzi wa GenAI waliboresha vidokezo kwa kurudia na kuhakiki au kupinga matokeo yasiyo sahihi. Wanafunzi wa kikundi cha marika walichagua vyanzo kwa urahisi wa kijamii na hukumu yao ya tathmini ikapotoshwa na upendeleo wa urafiki. Mapitio ya marika yalihifadhi thamani tofauti kwa ufahamu wa hadhira, ndiyo sababu waandishi wanapendekeza miundo ya hatua nyingi na maoni ya marika bila majina badala ya ubadilishaji.
+Maoni ya marika yanapata nafasi yake katika mfuatano. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen na Yan (2026)]] waliendesha madarasa mawili ya Kiingereza sambamba (N = 118 wanafunzi wa shahada ya kwanza nchini China; GenAI n = 56, marika n = 62) kupitia mizunguko mitatu ya [[self-assessment|tathmini binafsi]] katika muhula mmoja. [[scaffolding|Msaada wa hatua kwa hatua]] wa GenAI uliboresha ufahamu wa maoni kidogo lakini kwa kiasi kikubwa zaidi ya mapitio ya marika ya binadamu (ANCOVA p = 0.049, ηp² = 0.03). Wanafunzi wa GenAI waliboresha vidokezo kwa kurudia na kuhakiki au kupinga matokeo yasiyo sahihi. Wanafunzi wa kikundi cha marika walichagua vyanzo kwa urahisi wa kijamii na hukumu yao ya tathmini ikapotoshwa na upendeleo wa urafiki. Mapitio ya marika yalihifadhi thamani tofauti kwa ufahamu wa hadhira, ndiyo sababu waandishi wanapendekeza miundo ya hatua nyingi na maoni ya marika bila majina badala ya ubadilishaji.
 
 Faida ya Gu na wenzake ilikuwa ndogo, na waliisoma kama halisi lakini si ya kubadilisha yenyewe. Msaada wa hatua kwa hatua wa mwalimu, miongozo ya vidokezo na karatasi za kazi zilifanya kazi ya kusaidia.
 
@@ -83,15 +83,15 @@ Faida ya Gu na wenzake ilikuwa ndogo, na waliisoma kama halisi lakini si ya kuba
 
 Uzalishaji unaorejelea rubriki ndio sehemu inayoweza kuwekwa kiotomatiki.
 
-Faida ya ubora ya Farrokhnia na wenzake ilitoka kwenye kidokezo cha mnyororo wa fikra kilichopitia mfano tathmini ya hatua kwa hatua dhidi ya rubriki ya hoja, si kwenye maelekezo matupu ya kutoa maoni. Gu na wenzake waliwapa kikundi chao cha GenAI ChatGPT-4o na rubriki zilizofunzwa awali na miongozo ya vidokezo, na hiyo ndiyo iliyofanya matokeo yaweze kuhakikiwa dhidi ya vigezo vilivyotajwa. Katika hali zote mbili, kidokezo ndipo vigezo vyako vinaingia kwenye mfumo, na athari ya ufikiri ndiyo inayokuwezesha kuona kama mfano ulivitumia.
+Faida ya ubora ya Farrokhnia na wenzake ilitoka kwenye kidokezo cha mnyororo wa fikra kilichopitia mfano tathmini ya hatua kwa hatua dhidi ya rubriki ya hoja, si kwenye maelekezo matupu ya kutoa maoni. Gu na wenzake waliwapa kikundi chao cha GenAI [[generative-ai|ChatGPT]]-4o na rubriki zilizofunzwa awali na miongozo ya vidokezo, na hiyo ndiyo iliyofanya matokeo yaweze kuhakikiwa dhidi ya vigezo vilivyotajwa. Katika hali zote mbili, kidokezo ndipo vigezo vyako vinaingia kwenye mfumo, na athari ya ufikiri ndiyo inayokuwezesha kuona kama mfano ulivitumia.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson na Yan (2025)]] hufanya ubora wa kidokezo kuwa kiungo cha mchakato wote. Vidokezo visivyo wazi huzalisha matokeo ya jumla yasiyo na manufaa, na maoni yaliyozalishwa yanaweza kuwa ya kubuniwa, yenye upendeleo au yanayojirudia, jambo linalosukuma hukumu ya tathmini nyuma kwa msomaji. Usawazishaji ni mkali zaidi. Katika Farrokhnia na wenzake, ubora wa maoni ya GenAI ulihusishwa kwa kiasi kikubwa na nguvu ya rasimu ya awali ya mwanafunzi, wakati ubora wa maoni ya mwalimu haukuhusishwa. Mwalimu alisawazisha kwa uthabiti zaidi. Kiasi hupanuka. Usawazishaji haupanuki.
 
 ## Weka neno la mwisho na rekodi mikononi mwa binadamu
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma na Cobos (2026)]] wanaelezea AICoFE, ambayo inaendesha mifano mitatu iliyoboreshwa kwa uhuru (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) juu ya alama za rubriki na uchunguzi wa ubora ili kuzalisha maoni huru ya rasimu. Kisha mwalimu anatunga ujumbe wa mwisho kwa kuchagua sentensi au aya, na mwongozo unaoonyesha ni mfano upi ulichangia nini. Mfano unaandika rasimu. Mwalimu anawasilisha, na kile kinachowasilishwa kinasainiwa na mtu mmoja aliyeisoma rasimu.
+[[becerra-aicofe-feedback-2026|Becerra, Palma na Cobos (2026)]] wanaelezea AICoFE, ambayo inaendesha mifano mitatu iliyoboreshwa kwa uhuru (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) juu ya alama za rubriki na [[qualitative-research|uchunguzi wa ubora]] ili kuzalisha maoni huru ya rasimu. Kisha mwalimu anatunga ujumbe wa mwisho kwa kuchagua sentensi au aya, na mwongozo unaoonyesha ni mfano upi ulichangia nini. Mfano unaandika rasimu. Mwalimu anawasilisha, na kile kinachowasilishwa kinasainiwa na mtu mmoja aliyeisoma rasimu.
 
-Aldino na wenzake wanapata mtindo ule ule wa kusaidia-kisha-kuhakiki katika mazoezi ya kawaida. Sehemu ya kujifunza kwa mashine mara nyingi ilitambua "Kukidhi Lengo la Ujifunzaji" kama kinachokosekana (waalimu 20 kati ya 21 walikuwa wamekikosa; 16 walikubali) na "Uhusiano wa Mwanafunzi na Mwalimu" (14 walikosa; 12 walikubali). Waalimu waliamua kila pendekezo kwa hukumu ya kitaaluma, na hicho ndicho lengo la kuwaweka katika mzunguko.
+Aldino na wenzake wanapata mtindo ule ule wa kusaidia-kisha-kuhakiki katika mazoezi ya kawaida. [[machine-learning|Sehemu ya kujifunza kwa mashine]] mara nyingi ilitambua "Kukidhi Lengo la Ujifunzaji" kama kinachokosekana (waalimu 20 kati ya 21 walikuwa wamekikosa; 16 walikubali) na "Uhusiano wa Mwanafunzi na Mwalimu" (14 walikosa; 12 walikubali). Waalimu waliamua kila pendekezo kwa hukumu ya kitaaluma, na hicho ndicho lengo la kuwaweka katika mzunguko.
 
 Waalimu 12 kati ya 21 wa Aldino na wenzake walifanya marekebisho zaidi ya kiwango cha sentensi, na mtindo uliotawala ulikuwa kusawazisha toni: kuhariri sifa za kupita kiasi chini (f = 11), kuondoa mapendekezo (f = 9), kuondoa moyo wa kuwatia shime (f = 8). Marekebisho yalijikita katika kipimo cha kihusiano, hasa Uhusiano wa Mwanafunzi na Mwalimu (f = 24). Walikuwa wakilinda uhalisi na sauti ya kitaaluma, na kazi hiyo haiwekwi kiotomatiki.
 
@@ -121,7 +121,7 @@ Ukadiriaji wa kuridhika unakuambia maoni ni sahihi. Katika jaribio la awali la D
 
 ## Kitakachokuja kwako
 
-**"Maoni ya AI si ya mtu binafsi."** Mara nyingi ni kweli, na ndiyo sababu ya kuweka neno la mwisho mikononi mwa binadamu. AICoFE ipo kwa sababu maandishi ya jumla ya mfano si kile mwanafunzi anapaswa kupokea: mwalimu huchagua, hurekebisha na kusaini ujumbe wa mwisho. Waalimu 21 wa Aldino na wenzake waliandika upya toni kwa sababu hiyo hiyo. Ubinafsishaji ni kazi yako katika muundo huu, na mfano unafanya kazi ya maandalizi.
+**"Maoni ya AI si ya mtu binafsi."** Mara nyingi ni kweli, na ndiyo sababu ya kuweka neno la mwisho mikononi mwa binadamu. AICoFE ipo kwa sababu maandishi ya jumla ya mfano si kile mwanafunzi anapaswa kupokea: mwalimu huchagua, hurekebisha na kusaini ujumbe wa mwisho. Waalimu 21 wa Aldino na wenzake waliandika upya toni kwa sababu hiyo hiyo. [[personalized-learning|Ubinafsishaji]] ni kazi yako katika muundo huu, na mfano unafanya kazi ya maandalizi.
 
 **"Wanafunzi wangu hawatasoma maoni hata hivyo."** Wanasoma kidogo kuliko tunavyotumaini, na ushahidi unasema suluhisho ni muundo badala ya kiasi. Upokeaji katika jaribio la awali la Deakin ulikuwa takriban 13% na 12%. Maoni ya Farrokhnia na wenzake yenye ukadiriaji wa juu hayakuzalisha marekebisho ya nyongeza. Kilichohamisha sindano ni mfuatano unaolazimisha ushiriki, tathmini binafsi kisha maoni ya marika kisha ukosoaji wa AI, pamoja na mizunguko mitatu ya marekebisho katika muhula mmoja iliyozalisha tofauti zinazopimika za ufahamu wa maoni.
 

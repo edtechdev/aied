@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Šesti je tjedan. Pred vama je hrpa nacrta, rubrika u koju vjerujete i rastuća sumnja da trećinu vaših komentara studenti prelete pogledom i zaborave. Kolega spominje da alat sada komentira svaki nacrt unutar jednog sata. Sastanak odjela traži odgovor: je li to nadogradnja ili brži način da se proizvede tekst koji nitko ne čita?
 
-Kratak odgovor za kolegu: povratna informacija umjetne inteligencije zaslužuje svoje mjesto po pokrivenosti, pravodobnosti i dosljednosti, unutar uskog raspona. Jezični rad na razini lekture i prvi prolaz komentara vođenih rubrikom vrijede automatizirati. Doseg je jeftini dio. U klaster-randomiziranom eksperimentu s 1.176 studenata prve godine refleksivni i hibridni dizajni nadmašili su izravnu UI kritiku u odgođenom [[transfer-of-learning|prijenosu]] bez umjetne inteligencije. U randomiziranom eksperimentu s esejima sa 70 studenata bolje ocijenjena UI povratna informacija nije proizvela bolje dorade od iskusnog nastavnika. Ono što student čini s komentarom odlučuje ishod, a [[feedback-literacy|pismenost o povratnoj informaciji]] razdvaja studente koji imaju koristi od onih koji prepisuju.
+Evo kratkog odgovora: povratna informacija umjetne inteligencije zaslužuje svoje mjesto po pokrivenosti, pravodobnosti i dosljednosti, unutar uskog raspona. Jezični rad na razini lekture i prvi prolaz komentara vođenih rubrikom vrijede automatizirati. Doseg je jeftini dio. U klaster-randomiziranom eksperimentu s 1.176 studenata prve godine refleksivni i hibridni dizajni nadmašili su izravnu UI kritiku u odgođenom [[transfer-of-learning|prijenosu]] bez umjetne inteligencije. U randomiziranom eksperimentu s esejima sa 70 studenata bolje ocijenjena UI povratna informacija nije proizvela bolje dorade od iskusnog [[teacher-role|nastavnika]]. Ono što student čini s komentarom odlučuje ishod, a [[feedback-literacy|pismenost o povratnoj informaciji]] razdvaja studente koji imaju koristi od onih koji prepisuju.
 
 ## Kratka verzija
 
@@ -38,7 +38,7 @@ Kratak odgovor za kolegu: povratna informacija umjetne inteligencije zaslužuje 
 
 **2.** Razvrstajte vlastite komentare na ispravke na jezičnoj razini i prosudbe na razini zaključivanja. Samo je prva kategorija kandidat za automatizaciju.
 
-**3.** Posložite izvore u faze. Prvo samovrednovanje, drugo povratna informacija vršnjaka, treće UI kritika. Dva izvora postavljena jedan uz drugi proizvode pasivno prihvaćanje.
+**3.** Posložite izvore u faze. Prvo samovrednovanje, drugo [[peer-assessment|povratna informacija vršnjaka]], treće UI kritika. Dva izvora postavljena jedan uz drugi proizvode pasivno prihvaćanje.
 
 **4.** Dajte modelu svoju rubriku i neka zaključuje korak po korak. Gola uputa proizvodi općenit rezultat.
 
@@ -50,7 +50,7 @@ Kratak odgovor za kolegu: povratna informacija umjetne inteligencije zaslužuje 
 
 Mamljiv je pokazatelj kvaliteta onoga što model napiše. To je ujedno pokazatelj koji zavarava.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia i sur. (2026)]] randomizirali su 70 studenata koji su pisali argumentacijske eseje na perzijskom u tri skupine. Poticanje lancem misli proizvelo je znatno bolje ocijenjenu povratnu informaciju (M = 12,90) od poticanja bez primjera (M = 11,25, p = 0,01) i od iskusnog ljudskog nastavnika (M = 11,20, p = 0,008). Skupina s lancem misli nije znatno više doradila svoje eseje od skupine s nastavnikovom povratnom informacijom, koja je postigla usporedive dobitke. Bolji komentari, iste dorade. Ako je vaš kriterij uspjeha kvaliteta komentara, ta studija čita se kao pobjeda. Ako je kriterij ono što se promijenilo u eseju, ne čita se tako.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia i sur. (2026)]] randomizirali su 70 studenata koji su pisali argumentacijske eseje na perzijskom u tri skupine. [[prompt-engineering|Poticanje lancem misli]] proizvelo je znatno bolje ocijenjenu povratnu informaciju (M = 12,90) od poticanja bez primjera (M = 11,25, p = 0,01) i od iskusnog ljudskog nastavnika (M = 11,20, p = 0,008). Skupina s lancem misli nije znatno više doradila svoje eseje od skupine s nastavnikovom povratnom informacijom, koja je postigla usporedive dobitke. Bolji komentari, iste dorade. Ako je vaš kriterij uspjeha kvaliteta komentara, ta studija čita se kao pobjeda. Ako je kriterij ono što se promijenilo u eseju, ne čita se tako.
 
 Dva druga signala uljepšavaju pilot koji ide loše, pa ih unaprijed odredite. Prvi je zadovoljstvo studenata. U sveučilišnom pilotu na Deakinu o kojem izvješćuju [[tubino-adachi-ai-automated-feedback-literacy|Tubino i Adachi (2022)]], pozitivne prosječne ocjene postojale su istodobno s pogreškama koje su studenti označili, pa anketa sa zadovoljnim licima nije dokaz točnosti. Drugi je upotreba. Deakinov alat bio je neobavezan, a upotreba je u prosjeku iznosila otprilike 13% studenata preddiplomskog i 12% postdiplomskog studija, iako je pristup imalo gotovo 4.000 studenata. Proaktivni, visokopostignući studenti rabili su ga više. To je ono što vam donosi to što je alat dostupan.
 
@@ -72,7 +72,7 @@ Refleksivni je uvjet zahtijevao samovrednovanje prije UI kritike. Hibridni je pr
 
 Mehanizam objašnjava zašto slijed važniji od alata. Izravna kritika poziva na pasivno prihvaćanje: student pročita presudu i primijeni je. Refleksivni i hibridni dizajni prisiljavaju studenta da protumači komentar, usporedi ga s kriterijima, procijeni njegovu relevantnost i zatim doradi. Obrazovna vrijednost manje ovisi o pristupu umjetnoj inteligenciji nego o tome čuva li okruženje povratne informacije [[agency|djelovanje učenika]] i [[evaluative-judgment|evaluacijsku prosudbu]] tijekom dorade.
 
-Povratna informacija vršnjaka zaslužuje vlastito mjesto u slijedu. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen i Yan (2026)]] proveli su dva paralelna razreda engleskog (N = 118 studenata prve godine u Kini; generativna UI n = 56, vršnjaci n = 62) kroz tri ciklusa samovrednovanja tijekom jednog semestra. Postupna potpora generativne umjetne inteligencije poboljšala je pismenost o povratnoj informaciji neznatno, ali značajno u odnosu na ljudski pregled vršnjaka (ANCOVA p = 0,049, ηp² = 0,03). Studenti s generativnom umjetnom inteligencijom iterativno su dotjerivali poticaje i provjeravali ili osporavali netočan rezultat. Studenti u skupini s vršnjacima birali su izvore prema društvenoj pogodnosti, a njihovu je evaluacijsku prosudbu iskrivljavala pristranost prijateljstva. Pregled vršnjaka zadržao je zasebnu vrijednost za svijest o publici, zbog čega autori predlažu višefazne dizajne s anonimnom povratnom informacijom vršnjaka, a ne zamjenu.
+Povratna informacija vršnjaka zaslužuje vlastito mjesto u slijedu. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen i Yan (2026)]] proveli su dva paralelna razreda engleskog (N = 118 studenata prve godine u Kini; generativna UI n = 56, vršnjaci n = 62) kroz tri ciklusa [[self-assessment|samovrednovanja]] tijekom jednog semestra. [[scaffolding|Postupna potpora]] generativne umjetne inteligencije poboljšala je pismenost o povratnoj informaciji neznatno, ali značajno u odnosu na ljudski pregled vršnjaka (ANCOVA p = 0,049, ηp² = 0,03). Studenti s generativnom umjetnom inteligencijom iterativno su dotjerivali poticaje i provjeravali ili osporavali netočan rezultat. Studenti u skupini s vršnjacima birali su izvore prema društvenoj pogodnosti, a njihovu je evaluacijsku prosudbu iskrivljavala pristranost prijateljstva. Pregled vršnjaka zadržao je zasebnu vrijednost za svijest o publici, zbog čega autori predlažu višefazne dizajne s anonimnom povratnom informacijom vršnjaka, a ne zamjenu.
 
 Prednost Gu i sur. bila je mala i čitaju je kao stvarnu, ali ne i sama po sebi preobražavajuću. Postupna potpora nastavnika, smjernice za poticaje i radni listovi obavili su potporni posao.
 
@@ -80,15 +80,15 @@ Prednost Gu i sur. bila je mala i čitaju je kao stvarnu, ali ne i sama po sebi 
 
 Generiranje s upućivanjem na rubriku automatizirani je dio.
 
-Farrokhniin dobitak u kvaliteti došao je od poticaja s lancem misli koji je model proveo kroz evaluaciju korak po korak prema rubriki argumentacije, a ne od gole upute da da povratnu informaciju. Gu i sur. dali su svojoj skupini s generativnom umjetnom inteligencijom ChatGPT-4o s unaprijed uvježbanim rubrikama i smjernicama za poticaje, što je omogućilo da se rezultat provjeri prema navedenim kriterijima. U oba slučaja poticaj je mjesto na kojem vaši kriteriji ulaze u sustav, a trag zaključivanja omogućuje vam da vidite je li ih model primijenio.
+Farrokhniin dobitak u kvaliteti došao je od poticaja s lancem misli koji je model proveo kroz evaluaciju korak po korak prema rubriki argumentacije, a ne od gole upute da da povratnu informaciju. Gu i sur. dali su svojoj skupini s generativnom umjetnom inteligencijom [[generative-ai|ChatGPT]]-4o s unaprijed uvježbanim rubrikama i smjernicama za poticaje, što je omogućilo da se rezultat provjeri prema navedenim kriterijima. U oba slučaja poticaj je mjesto na kojem vaši kriteriji ulaze u sustav, a trag zaključivanja omogućuje vam da vidite je li ih model primijenio.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson i Yan (2025)]] čine kvalitetu poticaja stožerom cijelog procesa. Neodređeni poticaji daju općenit, beskoristan rezultat, a generirani komentari mogu biti halucinirani, pristrani ili preklapajući, što evaluacijsku prosudbu vraća čitatelju. Kalibracija je još oštrija. U Farrokhnia i sur. kvaliteta UI povratne informacije bila je značajno povezana sa snagom studentova početnog nacrta, dok kvaliteta nastavnikove povratne informacije nije. Nastavnik je kalibrirao dosljednije. Opseg se skalira. Kalibracija ne.
 
 ## Zadržite posljednju riječ i zapis kod čovjeka
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma i Cobos (2026)]] opisuju AICoFE, koji pokreće tri neovisno fino podešena modela (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) preko rezultata rubrike i kvalitativnih zapažanja kako bi proizveo neovisne komentare na nacrt. Nastavnik zatim sastavlja završnu poruku odabirom rečenica ili odlomaka, uz legendu koja pokazuje koji je model pridonio čime. Model piše nacrt. Nastavnik dostavlja, a dostavljeno potpisuje jedna osoba koja je nacrt pročitala.
+[[becerra-aicofe-feedback-2026|Becerra, Palma i Cobos (2026)]] opisuju AICoFE, koji pokreće tri neovisno fino podešena modela (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) preko rezultata rubrike i [[qualitative-research|kvalitativnih]] zapažanja kako bi proizveo neovisne komentare na nacrt. Nastavnik zatim sastavlja završnu poruku odabirom rečenica ili odlomaka, uz legendu koja pokazuje koji je model pridonio čime. Model piše nacrt. Nastavnik dostavlja, a dostavljeno potpisuje jedna osoba koja je nacrt pročitala.
 
-Aldino i sur. nalaze isti obrazac pomozi pa provjeri u uobičajenoj praksi. Komponenta strojnog učenja najčešće je označila „Ispunjava cilj učenja“ kao nedostajući (20 od 21 nastavnika ga je izostavilo; 16 je prihvatilo oznaku) i „Odnos studenta i nastavnika“ (14 ga je izostavilo; 12 je prihvatilo). Nastavnici su o svakom prijedlogu odlučivali profesionalnom prosudbom, što je smisao uključivanja njih u proces.
+Aldino i sur. nalaze isti obrazac pomozi pa provjeri u uobičajenoj praksi. Komponenta [[machine-learning|strojnog učenja]] najčešće je označila „Ispunjava cilj učenja“ kao nedostajući (20 od 21 nastavnika ga je izostavilo; 16 je prihvatilo oznaku) i „Odnos studenta i nastavnika“ (14 ga je izostavilo; 12 je prihvatilo). Nastavnici su o svakom prijedlogu odlučivali profesionalnom prosudbom, što je smisao uključivanja njih u proces.
 
 Dvanaest od 21 nastavnika u Aldino i sur. napravilo je dodatne ispravke na razini rečenice, a prevladavajući je obrazac bila kalibracija tona: smanjivanje hvale (f = 11), uklanjanje prijedloga (f = 9), uklanjanje ohrabrenja (f = 8). Ispravci su se grupirali u relacijskoj dimenziji, posebno u odnosu studenta i nastavnika (f = 24). Štitili su autentičnost i profesionalni glas, a taj se rad ne automatizira.
 
@@ -118,7 +118,7 @@ Ocjene zadovoljstva kažu vam da su komentari točni. U Deakinovu pilotu pozitiv
 
 ## Što će vam se vratiti
 
-**„UI povratna informacija nije osobna.“** Često točno i to je razlog da posljednja riječ ostane kod čovjeka. AICoFE postoji zato što općenita modelova proza nije ono što student treba dobiti: nastavnik odabire, uređuje i potpisuje završnu poruku. 21 nastavnik u Aldino i sur. prepisao je ton iz istog razloga. Personalizacija je vaš posao u ovom dizajnu, a model obavlja pripremni rad.
+**„UI povratna informacija nije osobna.“** Često točno i to je razlog da posljednja riječ ostane kod čovjeka. AICoFE postoji zato što općenita modelova proza nije ono što student treba dobiti: nastavnik odabire, uređuje i potpisuje završnu poruku. 21 nastavnik u Aldino i sur. prepisao je ton iz istog razloga. [[personalized-learning|Personalizacija]] je vaš posao u ovom dizajnu, a model obavlja pripremni rad.
 
 **„Moji studenti ionako neće čitati povratnu informaciju.“** Čitaju manje nego što se nadamo, a dokazi kažu da je rješenje u dizajnu, a ne u količini. Prihvaćanje u Deakinovu pilotu iznosilo je otprilike 13% i 12%. Bolje ocijenjeni komentari u Farrokhnia i sur. nisu proizveli dodatnu doradu. Kazaljku je pomaknuo slijed koji prisiljava na uključenost, samovrednovanje pa povratna informacija vršnjaka pa UI kritika, uz tri ciklusa dorade tijekom semestra koji su proizveli mjerljive razlike u pismenosti o povratnoj informaciji.
 

@@ -60,7 +60,7 @@ ai_assist:
 
 这一页上最强的[[quantitative-research|量化]]结果也是最笼统的，而它带着一些限制，你应当把它们一起带进采购决定。
 
-[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang、Carter、Liu 与 Peng（2024）]]综合了 29 项针对[[special-education|残障学生]]的 AI 干预（准）实验研究：来自 41 个独立样本的 239 个效应量，对学习结果整体的中等效应具有统计显著性，Hedges' g = 0.588（95% CI [0.349, 0.826]，p < .01），研究间异质性高。学业表现是最大的结果亚组（k = 80，g = 0.929），社会情感技能最小（k = 144，g = 0.382）。计算机软件，即[[speech-and-voice-technologies|语音识别]]、专家系统和[[intelligent-tutoring|智能辅导系统]]，表现强（k = 74，g = 0.959），[[educational-robotics|机器人]]中等（k = 144，g = 0.509），而智能 VR（g = 0.528）不显著。存在发表偏倚（Egger's β = 2.837，p < .001）；剪补法把估计降到 g = 0.269，仍然显著。
+[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang、Carter、Liu 与 Peng（2024）]]综合了 29 项针对[[inclusive-learning|残障学生]]的 AI 干预（准）实验研究：来自 41 个独立样本的 239 个效应量，对学习结果整体的中等效应具有统计显著性，Hedges' g = 0.588（95% CI [0.349, 0.826]，p < .01），研究间异质性高。学业表现是最大的结果亚组（k = 80，g = 0.929），社会情感技能最小（k = 144，g = 0.382）。计算机软件，即[[speech-and-voice-technologies|语音识别]]、专家系统和[[intelligent-tutoring|智能辅导系统]]，表现强（k = 74，g = 0.959），[[educational-robotics|机器人]]中等（k = 144，g = 0.509），而智能 VR（g = 0.528）不显著。存在发表偏倚（Egger's β = 2.837，p < .001）；剪补法把估计降到 g = 0.269，仍然显著。
 
 每一项研究都是 PK-12。96.6% 在特殊教育或临床情境中使用基于步骤的教学，而且多数用的是较老的、基于规则的 AI，而不是[[generative-ai|生成式 AI]]。这支持谨慎地采用有结构的教学软件。它不能迁移到通用聊天机器人上，而把它当成能迁移，是这一页上代价最高的错误。
 

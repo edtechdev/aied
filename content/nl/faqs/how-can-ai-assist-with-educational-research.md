@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T14:58:40-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Het korte antwoord voor die vergadering: AI kan het zoeken, een eerste screening
 
 ## Bepaal wat AI mag aanraken voordat het project begint
 
-De beslissing over de reikwijdte hoort in het projectdossier in plaats van in iemands geheugen. In [[dai-chan-responsible-genai-research-ai-literacy-2026|de focusgroepstudie van Dai en Chan (2026)]] kalibreerden onderzoekers die erover hadden nagedacht hun gebruik naar belangen en intellectuele centraliteit: zwaarder op procedureel werk met lage belangen, voorzichtig waar de wetenschappelijke bijdrage centraal stond. Zevenentwintig van de 28 postdoctorale onderzoekers in die studie hadden GenAI ergens in de workflow gebruikt, inclusief academisch schrijven en vertalen, dus voor de meeste teams is de vraag waar de grens ligt in plaats van of er een grens is.
+De beslissing over de reikwijdte hoort in het projectdossier in plaats van in iemands geheugen. In [[dai-chan-responsible-genai-research-ai-literacy-2026|de focusgroepstudie van Dai en Chan (2026)]] kalibreerden onderzoekers die erover hadden nagedacht hun gebruik naar belangen en intellectuele centraliteit: zwaarder op procedureel werk met lage belangen, voorzichtig waar de wetenschappelijke bijdrage centraal stond. Zevenentwintig van de 28 postdoctorale onderzoekers in die studie hadden [[generative-ai|GenAI]] ergens in de workflow gebruikt, inclusief [[writing-education|academisch schrijven]] en vertalen, dus voor de meeste teams is de vraag waar de grens ligt in plaats van of er een grens is.
 
 Schrijf de grens als een lijst met een oordeel per taak: literatuur zoeken, abstracts screenen, extractie, kwalitatieve codering, statistische analyse, schrijven, referentieopmaak. Lees die studie als een kaart van wat onderzoekers rapporteerden te doen. Het is een focusgroepverslag, geen effectiviteitsresultaat.
 
@@ -64,27 +64,30 @@ Het meeste voordeel komt uit twee ontwerpbeslissingen. Schrijf beslissingsregels
 
 Delegatie kan fijnmaziger zijn dan alles-of-niets. [[agreement-not-quality-llm-coding-verification|Eén blindverificatiestudie]] classificeerde 15 van 72 codeboekitems als aantoonbaar menselijke expertise vereisend, 12 als beter bediend door een model, en 16 als geschikt voor op vertrouwen gebaseerde triage. Sorteer uw eigen items zo en de arbeidsbesparing landt waar ze veilig is.
 
+Topicmodellering kan die structuur uitbreiden zonder de interpretatie over te nemen. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey en Flor (2026)]] combineerden gegronde codering, SentenceBERT-embeddings geclusterd met Affinity Propagation en GPT-4-labeling op zes focusgroepen met 13 docenten. Menselijke beoordeling verwijderde 18 communicatieclusters en 16 clusters voor digitale geletterdheid die als gespreksvulling golden, waardoor 14 en 16 betekenisvolle clusters overbleven; ChatGPT-4o en Copilot stemden overeen op 33,3% en 43,8% van de labels, met cosinusgelijkenis 0,835–0,880, en menselijke beoordeling vond geen duidelijke hallucinaties. De studie is een uitgewerkte pijplijn, geen vergelijking: ze heeft geen arm met alleen mensen of alleen AI, en 13 docenten kunnen geen generaliseerbaarheid vaststellen. Gebruik haar om de taakverdeling te zien, niet als bewijs dat de hybride aanpak alternatieven verslaat.
+
+
 ## Bepaal wat verificatie betekent en wie ervoor tekent
 
-Hoge overeenstemming tussen een model en een menselijke codeur wordt gerapporteerd alsof ze correctheid vaststelde. Dat doet ze niet. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] lieten een onafhankelijke deskundige 855 paarsgewijze codesets blind voor de bron beoordelen. Overeenstemming tussen mens en LLM (gemiddelde Jaccard 0,30) lag ruim onder overeenstemming tussen mensen (0,52), toch gaf de blinde verificateur de voorkeur aan menselijke en machinale codering in percentages die hij niet kon onderscheiden (51,5% tegen 48,5%, p = 0,537). In sommige gevallen codeerde menselijke consensus een gedeelde bias die de verificateur verwierp ten gunste van het model.
+Hoge overeenstemming tussen een model en een menselijke codeur wordt gerapporteerd alsof ze correctheid vaststelde. Dat doet ze niet. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] lieten een onafhankelijke deskundige 855 paarsgewijze codesets blind voor de bron beoordelen. Overeenstemming tussen mens en [[llm|LLM]] (gemiddelde Jaccard 0,30) lag ruim onder overeenstemming tussen mensen (0,52), toch gaf de blinde verificateur de voorkeur aan menselijke en machinale codering in percentages die hij niet kon onderscheiden (51,5% tegen 48,5%, p = 0,537). In sommige gevallen codeerde menselijke consensus een gedeelde bias die de verificateur verwierp ten gunste van het model.
 
 De verificatiestap heeft dus een gouden standaard nodig die noch de output van het model is, noch de overeenstemming van de codeur ermee, plus een met naam genoemde persoon die de meningsverschillen beslechtte. Rapporteer beide. Een gelijkenisstatistiek beschrijft hoe dicht twee lezingen bij elkaar liggen, en ze zegt niets over de vraag of een van beide juist is.
 
 ## Zoek snel, en controleer daarna elke bron zelf
 
-Generatief zoeken vat samen, beveelt aan, synthetiseert en converseeert, wat de oudere ordening loswrikt waarin het systeem lokaliseert en de lezer interpreteert ([[genai-academic-search-workshop]]). Behandel het als een ontdekkingsinstrument. Het workshopverslag bevat twee waarschuwingen: de capaciteit is ongelijk, waarbij sterk geciteerde wetenschappers ongeveer twee keer zo betrouwbaar werden gereconstrueerd als minder geciteerde collega's, en een bibliothecaris beschreef een vertrouwenskloof waarin studenten generatief zoeken te veel vertrouwden terwijl docenten het wantrouwden.
+Generatief zoeken vat samen, beveelt aan, synthetiseert en converseeert, wat de oudere ordening loswrikt waarin het systeem lokaliseert en de lezer interpreteert ([[genai-academic-search-workshop]]). Behandel het als een ontdekkingsinstrument. Het workshopverslag bevat twee waarschuwingen: de capaciteit is ongelijk, waarbij sterk geciteerde wetenschappers ongeveer twee keer zo betrouwbaar werden gereconstrueerd als minder geciteerde collega's, en een [[librarians|bibliothecaris]] beschreef een vertrouwenskloof waarin studenten generatief zoeken te veel vertrouwden terwijl docenten het wantrouwden.
 
 Referentieverificatie is waar dit ononderhandelbaar wordt, en de fouten clusteren in het auteursveld, precies het veld dat eer draagt. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] auditeerden 723.930 publicaties en 15.872.533 referenties en verifieerden 30 verzonnen referenties in 14 papers over informaticaonderwijs, alle uit 2025 en 2026. Zeventien van de 30 waren hybrides: een echte titel gekoppeld aan verzonnen of onjuiste auteurs. Het geverifieerde aantal bij één technisch symposium steeg van 3 in 2025 naar 17 in 2026, in 2,3% van de proceedingspapers van dat jaar. Hun totaal is bewust een ondergrens, en geautomatiseerde checkers erven de gebreken van de metadata die ze als grondwaarheid behandelen. Controleer eerst de auteurs.
 
 ## Behandel een geautomatiseerde score als een hypothese om te toetsen
 
-Geautomatiseerde meetfuncties kunnen precies en voorspellend lijken terwijl ze ondoorzichtig blijven. [[ai-methodologies-science-education-research-2026|Martin et al.]] kaderen dit met Chang's nomische meetprobleem: het meten van een grootheid vereist een wet die haar aan iets waarneembaars relateert, en die wet kan niet worden getoetst zonder de grootheid al te kennen. AI-afgeleide meetfuncties komen voort uit trainingsdata en optimalisatie in plaats van uit de onderzoeker, dus werk aan uitlegbaarheid is van belang om te laten zien of een model semantisch begrip volgt of alleen trefwoorden.
+Geautomatiseerde meetfuncties kunnen precies en voorspellend lijken terwijl ze ondoorzichtig blijven. [[ai-methodologies-science-education-research-2026|Martin et al.]] kaderen dit met Chang's nomische meetprobleem: het meten van een grootheid vereist een wet die haar aan iets waarneembaars relateert, en die wet kan niet worden getoetst zonder de grootheid al te kennen. AI-afgeleide meetfuncties komen voort uit trainingsdata en optimalisatie in plaats van uit de onderzoeker, dus werk aan [[explainable-ai|uitlegbaarheid]] is van belang om te laten zien of een model semantisch begrip volgt of alleen trefwoorden.
 
 Het falen is concreet. In [[zhang-platform-scores-miss-ai-teaching-agents-2026|een evaluatie van acht AI-onderwijsagenten]] eindigde de agent die volgens de eigen score van het platform derde was, als laatste op een door deskundigen gevalideerde rubriek. Onenigheid tussen mens en machine is systematisch in plaats van willekeurig, en de operationalisering van de rubriek weegt vaak zwaarder dan het vakmanschap van de prompt ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Voordat een geautomatiseerde score uw instrument wordt, valideert u die tegen een maat die gekoppeld is aan de bekwaamheid die u wilt bestuderen. Voor de maten zelf, zie [[evaluating-ai-interventions-methods]].
 
 ## Schrijf de methodesectie zodat een buitenstaander haar kan auditen
 
-Adoptie is het rapporteren vooruitgelopen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta en Lin (2026)]] analyseerden 888 papers over reviewautomatisering: sinds 2023 rapporteerde 38,0% van de software- en productpapers helemaal geen evaluatie, tegen 9,3% van de LLM-papers, en modeltoegang was overweldigend eigendom van leveranciers (84,1%). Een gunstige algemene beoordeling impliceerde ook geen geschiktheid voor delegatie, want 52% van 118 LLM-papers met alleen positieve resultaten rapporteerde nog steeds een zorg dat de workflow onder de lat bleef die haar rol vereiste. Hun PRISMA-LLM-kader scheidt openbaarmaking van de implementatie van gevolggevoelige evaluatie en behandelt zijn vijf niveaus als openbaarmakingsniveaus in plaats van risiconiveaus.
+Adoptie is het rapporteren vooruitgelopen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta en Lin (2026)]] analyseerden 888 papers over reviewautomatisering: sinds 2023 rapporteerde 38,0% van de software- en productpapers helemaal geen evaluatie, tegen 9,3% van de LLM-papers, en modeltoegang was overweldigend eigendom van leveranciers (84,1%). Een gunstige algemene beoordeling impliceerde ook geen geschiktheid voor delegatie, want 52% van 118 LLM-papers met alleen positieve resultaten rapporteerde nog steeds een zorg dat de workflow onder de lat bleef die haar rol vereiste. Hun [[meta-analysis-systematic-review|PRISMA]]-LLM-kader scheidt openbaarmaking van de implementatie van gevolggevoelige evaluatie en behandelt zijn vijf niveaus als openbaarmakingsniveaus in plaats van risiconiveaus.
 
 De praktische versie: noem het systeem en zijn versie, de prompts, de corpusversie, wat een mens controleerde en waar het faalde. Bewaar prompt- en antwoordlogs, want een vloeiend gegenereerde themalijst ziet er onvermijdelijk uit lang voordat haar bewijswerk is begonnen ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Bepaal uw criteria vooraf en houd ze zichtbaar. Een kleine lokale studie kan zic
 
 Rapporteer de rol van de AI, de verificatie die u deed en de beperkingen van een ontwerp met één cursus en één onderzoeker. Een workflowverslag is geen werkzaamheidsresultaat.
 
-Behandel het simuleren van een cohort als een gevorderde optie in plaats van een standaard. Gesimuleerde lerenden dekken doorgaans het gemakkelijkste kwadrant van echt studentgedrag en worden na gebruik zelden gevalideerd ([[simulating-students]]). Lees [[making-simulated-students-behave-like-learners]] voordat u het oordeel van een simulator vertrouwt.
+Behandel het simuleren van een cohort als een gevorderde optie in plaats van een standaard. Gesimuleerde lerenden dekken doorgaans het gemakkelijkste kwadrant van echt studentgedrag en worden na gebruik zelden gevalideerd ([[simulating-students]]). Lees [[making-simulated-students-behave-like-learners]] voordat u het oordeel van een [[simulation|simulator]] vertrouwt.
 
 ## Wat onderzoekers hier verkeerd doen
 

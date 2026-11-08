@@ -93,7 +93,7 @@ La finalité compte autant que la mécanique. [[ai-agents-joyful-assessment-thir
 
 **« L'accréditation et l'approbation des programmes n'iront pas si vite. »** L'étude citée plus haut nomme les délais longs et les contraintes d'accréditation des grands effectifs comme la friction centrale. Un cours isolé peut changer ce qui se passe à l'intérieur d'une évaluation existante sans changer son nom, son poids ni ses résultats d'apprentissage, et cela suffit généralement pour commencer.
 
-**« Cela pénalise les étudiants anxieux et les [[special-education|étudiants en situation de handicap]]. »** C'est possible. Les volets oraux en direct exigent des aménagements planifiés à l'avance, un choix de format lorsque le construit le permet, et une attention à la différence linguistique et au biais de l'évaluateur. Vérifiez la capacité, pas les conditions de performance.
+**« Cela pénalise les étudiants anxieux et les [[inclusive-learning|étudiants en situation de handicap]]. »** C'est possible. Les volets oraux en direct exigent des aménagements planifiés à l'avance, un choix de format lorsque le construit le permet, et une attention à la différence linguistique et au biais de l'évaluateur. Vérifiez la capacité, pas les conditions de performance.
 
 **« Il suffit d'acheter un détecteur. »** Le résultat sur la discrimination plaide contre cette solution comme colonne vertébrale du dispositif : si les faux positifs augmentent plus vite que les vrais, une surveillance plus forte rend la dissimulation relativement plus attrayante. La détection peut avoir sa place dans une réponse qui refond aussi la tâche, et [[should-we-use-ai-detectors]] couvre cet argument.
 

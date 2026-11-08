@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T15:11:35-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-Du skriver om en oppgavetekst, og setningen foran deg sier at AI er tillatt med deklarasjon, noe som ikke forteller en student om verktøyet får levere selve argumentet. En kollega har foreslått et forbud for hele emnet, og du mistenker at det rammer de flerspråklige skriverne i rommet hardest. Eller en bunke essays kom tilbake glattere enn seminarsamtalen bak dem, og du trenger en regel du kan forsvare i neste læreplansmøte.
+Du skriver om en oppgavetekst, og setningen foran deg sier at AI er tillatt med deklarasjon, noe som ikke forteller en student om verktøyet får levere selve argumentet. En kollega har foreslått et forbud for hele emnet, og du mistenker at det rammer de flerspråklige skriverne i rommet hardest. Eller en bunke essays kom tilbake glattere enn seminarsamtalen bak dem, og du trenger en regel du kan forsvare i neste [[curriculum-design|læreplansmøte]].
 
 Konklusjonen: navngi det intellektuelle arbeidet oppgaven finnes for å produsere, hold det trinnet hos studenten, og gi verktøyet jobber som returnerer noe studenten må vurdere. En regel skrevet slik forteller studenten hvilket trinn den beskytter.
 
@@ -78,7 +78,7 @@ En sekvens verdt å låne holder AI i en rådgivende rolle og legger resonnering
 | **8. Revidere** | Gjøre og begrunne substansielle endringer | Teste klarhet, tilby alternativer | Revidering |
 | **9. Verifisere** | Kontrollere hver faktapåstand eller kildeavhengige påstand | Kan ikke verifisere sitt eget resultat | Kilder og belegg |
 | **10. Reflektere og deklarere** | Forklare AI-ens rolle og hva som endret seg i tenkningen deres | Ingenting | Kort prosessrefleksjon |
-| **11. Selvstendig kontroll** | Forklare eller anvende resonneringen uten AI | Ingenting | Muntlig forsvar, hurtigskriving, nytt tilfelle |
+| **11. Selvstendig kontroll** | Forklare eller anvende resonneringen uten AI | Ingenting | [[oral-assessment|Muntlig forsvar]], hurtigskriving, nytt tilfelle |
 
 Dette er [[pairr-ai-peer-review-2025|PAIRR]] utvidet: utkast, menneskelig tilbakemelding, AI-tilbakemelding, sammenligning, revidering, refleksjon, med en selvstendig baseline og en strammere grense rundt resonnering. Bruk midtkolonnen som oppgaven og høyrekolonnen som det en karakter kan hvile på.
 
@@ -89,6 +89,9 @@ Elleve rader er mer enn de fleste oppgaver trenger. Skjær tabellen ned til trin
 Den største klasseromsstudien her er [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenter på tvers av ti skriveemner og tre skriveintensive [[stem-education|STEM]]-emner. De skrev utkast, gjennomførte [[peer-assessment|medstudentvurdering]], hentet rubrikkbasert AI-tilbakemelding, sammenlignet og vurderte begge kildene, skrev revideringsplaner, reviderte og reflekterte. 58 % foretrakk kombinert medstudent- og AI-tilbakemelding. 6 % foretrakk AI-tilbakemelding alene. Studentene fant AI nyttig for brede, rubrikkorienterte revideringsråd, og medstudentene leverte kontekstuell kunnskap og en autentisk publikumsrespons.
 
 Vær presis om påstanden. PAIRR målte studentenes opplevelse og vurdering av tilbakemelding, ikke langsiktige [[learning-gains|læringsgevinster]], så det er sterkt belegg for et tilbakemeldingsdesign og svakere belegg for at skrivingen blir bedre måneder senere. Behold medstudenttrinnet selv når AI-trinnet er raskere. Mye av [[feedback|tilbakemeldingsarbeidet]] skjer i sammenligningen mellom de to kildene, og å droppe det fjerner den delen studentene sa de verdsatte.
+
+Verktøyet selv kan utformes for å beskytte resonneringstrinnet. [[favero-thinking-not-writing-chatbot-2026|Favero mfl. (2026)]] bygde MAIKE, en [[socratic-method|sokratisk]] chatbot som diagnostiserer argumenter og stiller målrettede spørsmål uten å generere essaytekst. I en klasseromsstudie med 65 videregåendestudenter brukte MAIKE-brukerne flere runder på dialog på idénivå enn kontrollbrukerne (56 % mot 44 %) og beveget seg mellom diskusjon og redigering; omtrent 40 % av studentene forbedret essaypoengsummene sine. Studien viste ingen samlet karakterfordel over kontrollgruppen, så behandle den som en designdemonstrasjon om å koble samtale til revisjon, ikke som bevis for at chatboten hever skrivekvaliteten.
+
 
 ## Vurder det studenten gjorde med tilbakemeldingen
 

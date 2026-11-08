@@ -10,7 +10,7 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
 source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -24,7 +24,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Öğrenen grupları arasındaki farklı etkiler** — [[ai-education|Eğitimde yapay zeka]] araştırmalarının, YZ’nin *kullanımının* ve *etkilerinin* öğrenen türlerine göre nasıl değiştiği konusunda buldukları: [[special-education|engelli öğrenciler]] ve [[neurodiversity|nöroçeşitli öğrenciler]], ikinci dil ve [[multilingual-learning|çok dilli öğrenenler]], kız ve erkek öğrenciler, azınlıkta kalmış öğrenciler, düşük gelirli geçmişten gelen öğrenciler, kırsal kesimden gelen öğrenciler, ailelerinde ilk üniversite mezunu olan öğrenciler, uluslararası öğrenciler ve [[adult-learning|yetişkin öğrenenler]]. Akılda tutulmaya değer örüntü aynı anda iki yönde eşit değildir: bazı başlıklar gerçek kanıtlara sahiptir (engellilik, dil) diğerleri ise neredeyse boştur (ailelerinde ilk üniversite mezunu olanlar, uluslararası öğrenciler, mülteciler), hatta güçlü başlıklar bile nadiren bir *grubun* farklı olduğunu ortaya koyar — bir aracın o grubun bir örneğine yardım ettiğini ya da zarar verdiğini ortaya koyarlar ki bu farklı bir iddiadır. Bu sayfa neyin var olduğunu, ne gösterdiğini ve bir grup ortalamasının neden bir öğrenci hakkında öngörü olmadığının yöntemsel nedenlerini haritalar.
+> **Öğrenen grupları arasındaki farklı etkiler** — [[ai-education|Eğitimde yapay zeka]] araştırmalarının, YZ’nin *kullanımının* ve *etkilerinin* öğrenen türlerine göre nasıl değiştiği konusunda buldukları: [[inclusive-learning|engelli öğrenciler]] ve [[neurodiversity|nöroçeşitli öğrenciler]], ikinci dil ve [[multilingual-learning|çok dilli öğrenenler]], kız ve erkek öğrenciler, azınlıkta kalmış öğrenciler, düşük gelirli geçmişten gelen öğrenciler, kırsal kesimden gelen öğrenciler, ailelerinde ilk üniversite mezunu olan öğrenciler, uluslararası öğrenciler ve [[adult-learning|yetişkin öğrenenler]]. Akılda tutulmaya değer örüntü aynı anda iki yönde eşit değildir: bazı başlıklar gerçek kanıtlara sahiptir (engellilik, dil) diğerleri ise neredeyse boştur (ailelerinde ilk üniversite mezunu olanlar, uluslararası öğrenciler, mülteciler), hatta güçlü başlıklar bile nadiren bir *grubun* farklı olduğunu ortaya koyar — bir aracın o grubun bir örneğine yardım ettiğini ya da zarar verdiğini ortaya koyarlar ki bu farklı bir iddiadır. Bu sayfa neyin var olduğunu, ne gösterdiğini ve bir grup ortalamasının neden bir öğrenci hakkında öngörü olmadığının yöntemsel nedenlerini haritalar.
 
 ## Düşünülmesi Gerekenler
 

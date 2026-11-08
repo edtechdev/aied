@@ -1,7 +1,7 @@
 ---
 title: "Hvad betyder personlig tilpasset læring egentlig, og hvornår hjælper det?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 Platformen lover en personlig oplevelse til hver studerende. Den kan omarrangere øvelsesspørgsmål, omskrive en forklaring omkring en studerendes interesse for fodbold, huske sidste uges samtale eller vælge, hvad den studerende læser næste gang. Alle fire bliver kaldt personalisering, og kun én af dem er blevet testet i noget, der ligner den form.
 
-Det korte svar til en kollega: personalisering betegner en ændring af en eller anden del af læringsoplevelsen, og dens værdi afhænger af tre ting: hvad der tilpasses, hvilken evidens der driver tilpasningen, og om ændringen forbedrer den læring, du har til hensigt. Et velkendt eksempel eller en lydhør samtale kan føles personlig uden at lære noget. En effektiv tilpasning kan være usynlig. Det klareste eksperimentelle resultat i denne vidensbase er snævert: i et fem måneder langt Python-certificeringskursus på tværs af ti gymnasier i Taipei scorede studerende, der blev randomiseret til adaptiv opgavesekventering, cirka 0,150 standardafvigelser højere på en fysisk fremmødt, ustøttet afsluttende eksamen end studerende med en fast sekvens og identisk chatbot-adgang ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Det understøtter sekventering under angivne betingelser. Det validerer ikke alt, hvad der sælges som personligt.
+Det korte svar til en kollega: personalisering betegner en ændring af en eller anden del af læringsoplevelsen, og dens værdi afhænger af tre ting: hvad der tilpasses, hvilken evidens der driver tilpasningen, og om ændringen forbedrer den læring, du har til hensigt. Et velkendt eksempel eller en lydhør samtale kan føles personlig uden at lære noget. En effektiv tilpasning kan være usynlig. Det klareste eksperimentelle resultat i denne vidensbase er snævert: i et fem måneder langt Python-certificeringskursus på tværs af ti gymnasier i Taipei scorede studerende, der blev randomiseret til adaptiv opgavesekventering, cirka 0,150 standardafvigelser højere på en fysisk fremmødt, ustøttet [[summative-assessment|afsluttende eksamen]] end studerende med en fast sekvens og identisk [[conversational-ai|chatbot-adgang]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Det understøtter sekventering under angivne betingelser. Det validerer ikke alt, hvad der sælges som personligt.
 
 ## Den korte version
 
 **1.** Navngiv, hvilken del der tilpasses: præsentation, interesse-kontekst, sværhedsgrad og støtte, sekvens og tempo eller mål og valg.
 
-**2.** Spørg, hvilken evidens der udløser tilpasningen, og hvordan en forkert lærendemodel rettes.
+**2.** Spørg, hvilken evidens der udløser tilpasningen, og hvordan en forkert [[student-modeling|lærendemodel]] rettes.
 
 **3.** Tjek, om tilpasningen bevarer destinationen eller stille sænker den.
 
@@ -60,11 +60,11 @@ Mål- og valgtilpasninger lader studerende vælge et projekt, en vej eller en an
 
 ## Hvad evidensen viser
 
-**En specifik tilpasning forbedrede ustøttet præstation.** Chung et al. byggede en platform, der kobler en afskærmet chatbot til Python med en reinforcement learning-algoritme, der vælger den næste øvelsesopgave, og udrullede den på ti gymnasier i et fem måneder langt certificeringskursus. Studerende blev randomiseret mellem adaptiv sekventering og en fast sekvens, hvor begge grupper havde samme chatbot-adgang, hvilket er det design, der lader sekventeringen tage æren for forskellen. Fordelen på 0,150 standardafvigelser viste sig på en fysisk fremmødt, ustøttet afsluttende eksamen. To ting er værd at holde fast i: sammenligningen isolerer sekventering fra adgang, og udfaldet er ustøttet præstation frem for engagement. Det, studiet ikke viser, er, at personligt tilpassede forklaringer, omskrevne materialer eller huskede præferencer hjælper. Det var ikke interventionen.
+**En specifik tilpasning forbedrede ustøttet præstation.** Chung et al. byggede en platform, der kobler en afskærmet chatbot til Python med en [[reinforcement-learning|reinforcement learning]]-algoritme, der vælger den næste øvelsesopgave, og udrullede den på ti gymnasier i et fem måneder langt certificeringskursus. Studerende blev randomiseret mellem adaptiv sekventering og en fast sekvens, hvor begge grupper havde samme chatbot-adgang, hvilket er det design, der lader sekventeringen tage æren for forskellen. Fordelen på 0,150 standardafvigelser viste sig på en fysisk fremmødt, ustøttet afsluttende eksamen. To ting er værd at holde fast i: sammenligningen isolerer sekventering fra adgang, og udfaldet er ustøttet præstation frem for engagement. Det, studiet ikke viser, er, at personligt tilpassede forklaringer, omskrevne materialer eller huskede præferencer hjælper. Det var ikke interventionen.
 
-**Opfattet personalisering kan følges med svagere selvregulering.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin og Qiu (2026)]] fulgte 486 kinesiske bachelorstuderende over tre undersøgelsesrunder og fandt, at studerende, der oplevede deres adaptive miljø som mere personligt, rapporterede svagere [[self-regulated-learning|selvreguleret læring]]. Akademiske følelser bar en stor del af sammenhængen, idet nedsat glæde sammen med øget angst og kedsomhed tegnede sig for mere end halvdelen af den samlede effekt. Designet er observationelt og selvrapporteret, så det kan ikke fastslå, at personaliseringen forårsagede faldet. Det identificerer det udfald, en pilot skal overvåge, for et system, der besvarer enhver usikkerhed hurtigt, kan fjerne den planlægning og dømmekraft, som kurset skal opbygge.
+**Opfattet personalisering kan følges med svagere selvregulering.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin og Qiu (2026)]] fulgte 486 kinesiske bachelorstuderende over tre undersøgelsesrunder og fandt, at studerende, der oplevede deres adaptive miljø som mere personligt, rapporterede svagere [[self-regulated-learning|selvreguleret læring]]. Akademiske følelser bar en stor del af sammenhængen, idet nedsat glæde sammen med øget [[anxiety-and-stress|angst]] og kedsomhed tegnede sig for mere end halvdelen af den samlede effekt. Designet er observationelt og [[self-report-measures|selvrapporteret]], så det kan ikke fastslå, at personaliseringen forårsagede faldet. Det identificerer det udfald, en pilot skal overvåge, for et system, der besvarer enhver usikkerhed hurtigt, kan fjerne den planlægning og dømmekraft, som kurset skal opbygge.
 
-**Interesse og forståelse er særskilte tjek.** [[personalized-learning|Syntesen om personlig tilpasset læring]] diskuterer Bernstein og Sibias *Flawed but Memorable*, et lille kvalitativt preprint om interessepersonaliserede it-analogier. Studerendes reaktioner varierede, og kendskab til analogiens kildedomæne hjalp dem med at opdage, hvor analogien brød sammen. Den praktiske læsning er at spørge til, hvad de lærende allerede ved, såvel som hvad de nyder, og at behandle rapporteret mindeværdighed som et oplevelsesmål frem for et læringsresultat.
+**Interesse og forståelse er særskilte tjek.** [[personalized-learning|Syntesen om personlig tilpasset læring]] diskuterer Bernstein og Sibias *Flawed but Memorable*, et lille [[qualitative-research|kvalitativt]] preprint om interessepersonaliserede it-analogier. Studerendes reaktioner varierede, og kendskab til analogiens kildedomæne hjalp dem med at opdage, hvor analogien brød sammen. Den praktiske læsning er at spørge til, hvad de lærende allerede ved, såvel som hvad de nyder, og at behandle rapporteret mindeværdighed som et oplevelsesmål frem for et læringsresultat.
 
 ## Tjek diagnosen, før du stoler på tilpasningen
 
@@ -86,7 +86,7 @@ Indsaml proportionale oplysninger. Et interessebaseret eksempel har sjældent br
 
 ## Sådan ser det ud i et kursus
 
-I et introduktionskursus i matematik kan en kort diagnostik skelne en forudsætningsmisforståelse fra en regnefejl. Den studerende med misforståelsen får en målrettet forklaring og et gennemarbejdet eksempel. Den anden går videre til anvendelse. Begge gennemfører derefter en sammenlignelig selvstændig opgave, inklusive én anvendelse i en ændret kontekst.
+I et introduktionskursus i matematik kan en kort diagnostik skelne en [[misconceptions|forudsætningsmisforståelse]] fra en regnefejl. Den studerende med misforståelsen får en målrettet forklaring og et gennemarbejdet eksempel. Den anden går videre til anvendelse. Begge gennemfører derefter en sammenlignelig selvstændig opgave, inklusive én anvendelse i en ændret kontekst.
 
 Studerende kan vælge mellem velkendte anvendelseskontekster, mens det matematiske mål forbliver fast og synligt. Underviseren tjekker, om nogen af vejene forbedrede forståelsen, om studerende kan forklare deres ræsonneren, og om nogen blev hængende i opsamling. Behandl det som et design, der skal piloteres; ingen platform er blevet valideret i denne konfiguration.
 
@@ -96,7 +96,7 @@ I et læsetungt kursus kan en ordliste eller en valgfri forklaring forbedre adga
 
 Sammenlign den personligt tilpassede version med noget troværdigt: en veldesignet fælles sekvens, den samme tutor uden adaptiv sekventering eller en kurateret menu af eksempler. Hvis din personligt tilpassede arm også tilføjer mere øvelse, mere feedback og mere tid, kan sammenligningen ikke isolere personaliseringen, og den ærlige rapport vil sige det.
 
-Mål ustøttet præstation, fastholdelse eller transfer, hvor du kan, tid og indsats, den lærendes agens og hvem der får gavn. Behold tilfredshed og oplevet pasform som supplerende udfald frem for som overskrift. Beslut på forhånd, hvilken forbedring der ville berettige udviklings-, overvågnings- og datahåndteringsomkostningerne, for de omkostninger betales, uanset om effekten viser sig.
+Mål ustøttet præstation, fastholdelse eller transfer, hvor du kan, tid og indsats, den lærendes [[agency|agens]] og hvem der får gavn. Behold tilfredshed og oplevet pasform som supplerende udfald frem for som overskrift. Beslut på forhånd, hvilken forbedring der ville berettige udviklings-, overvågnings- og datahåndteringsomkostningerne, for de omkostninger betales, uanset om effekten viser sig.
 
 ## Hvad der vil komme tilbage til dig
 

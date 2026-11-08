@@ -1,9 +1,9 @@
 ---
 title: "Öğrenci Çalışmalarını YZ ile Adil ve Güvenilir Biçimde Notlandırabilir miyim?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -48,7 +48,7 @@ Bir meslektaşınıza vereceğiniz kısa yanıt: YZ notlandırma, daha önce not
 
 Bir **geri bildirim yardımcısı**, kabul etmeniz, yeniden yazmanız ya da atmanız için yorum taslakları yazar veya olası eksiklikleri işaretler. Risk yorum kalitesiyle sınırlıdır ve bir öğrenciye ulaşmadan önce her şeyi siz okursunuz. Bir **ikinci okuyucu**, ölçüt puanları önerir ya da kendi notlandırmanızı yapılandırmak için anlaşmazlıkları işaretler. Hataları yalnızca yanlış değil, işe yarar olmak zorundadır: dikkatsizce notlandıracağınız bir teslime sizi geri gönderen bir işaret, sahip olmaya değerdir. Bir **birincil notlandırıcı**, kayda geçen notlara dönüşen puanlar üretir. Bu, bu bilgi tabanındaki kanıtların dar ve yerel olarak doğrulanmış durumların ötesinde desteklemediği düzenlemedir.
 
-Gerçek kısıtınızı ele alan en alt basamağı seçin. Notlandırma yükünüz sabit bir yanıt anahtarını kontrol etmekten geliyorsa, sıradan belirlenimci notlandırma bir dil modelinden daha şeffaf ve denetlenebilirdir; eczacılık çalışması da LLM'nin nesnel maddelerdeki avantajının kısmen notlandırma sırasında doğru yanıtların kendisine verilmesinden doğan bir yan ürün olduğunu ima eder. Modeli yorum gerektiren işlere ayırın, sonra o yorumu kontrol edin.
+Gerçek kısıtınızı ele alan en alt basamağı seçin. Notlandırma yükünüz sabit bir yanıt anahtarını kontrol etmekten geliyorsa, sıradan belirlenimci notlandırma bir [[llm|dil modelinden]] daha şeffaf ve denetlenebilirdir; eczacılık çalışması da LLM'nin nesnel maddelerdeki avantajının kısmen notlandırma sırasında doğru yanıtların kendisine verilmesinden doğan bir yan ürün olduğunu ima eder. Modeli yorum gerektiren işlere ayırın, sonra o yorumu kontrol edin.
 
 [[automated-assessment|Otomatik değerlendirme]] notlandırma, moderasyon ve geri bildirim üretiminin daha geniş makinesini kapsar. Bu sayfa onun altındaki yargı sorusudur.
 

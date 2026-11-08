@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ A rektorhelyettes egyoldalas „MI-mítoszok” listát kér a tavaszi oktatói 
 
 Az oldalon szereplő minden hiedelem abból indul ki, hogy egy józan ember látott valamit. A gördülékeny szöveg valóban pontosnak hat. A csiszolt beadandó valóban tanulásnak látszik. Az a tutor, amelyik megválaszolja a kérdést, valóban segítségnek érződik, és az a szabályzat, amelyben szerepel a „tilos” szó, valóban döntésnek érződik. Az a helyesbítés működik, amely megnevezi, mit nem tud megmondani a megfigyelés, majd átad egy ellenőrzést, amelyet az illető hétfőn le tud futtatni.
 
-A válasz, amit egy kollégának egy levegővétellel átadhat: a MI oktatási hatása attól függ, ki használja, melyik feladathoz, milyen gondolkodást végez el az eszköz, mekkora felelősség marad az embernél, és hogyan értékelődik a tanulás. A magabiztosság, a sebesség, az elköteleződés és a feladat befejezése a használat jellemzője. Egyik sem bizonyíték arra, hogy a képesség megváltozott.
+Íme a válasz, egy levegővétellel: a MI oktatási hatása attól függ, ki használja, melyik feladathoz, milyen gondolkodást végez el az eszköz, mekkora felelősség marad az embernél, és hogyan értékelődik a tanulás. A magabiztosság, a sebesség, az elköteleződés és a feladat befejezése a használat jellemzője. Egyik sem bizonyíték arra, hogy a képesség megváltozott.
 
 ## A rövid változat
 
@@ -62,7 +62,7 @@ Az átlagok éppen azt a szórást rejtik el, amely eldönti az esélyegyenlős�
 
 ### „Azt jelentették, hogy sokat tanultak.”
 
-Az önbevallás észlelést, elfogadást, szorongást és [[self-efficacy|önhatékonyságot]] mér, és mind a négyben jó. Nem a kimutatott képesség mérőszáma, mert az ember lehet magabiztos és tévedhet, vagy képzett és alulbecsülheti magát. A wiki tanári MI-írástudásról szóló kutatásainak szintézise jelentős szakadékot mutat az önértékelés és a mért teljesítmény között, és a benne szereplő oktatók jelentősen túlbecsülték a kompetenciájukat ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). Minden önbevalláshoz párosítson feladatot: találjon meg egy hibát egy kimenetben, ellenőrizzen egy forrást, válasszon használati stratégiát, vegyen észre elfogultságot vagy hízelgést, javítson egy hibás választ, kalibrálja a magabiztosságot a pontossághoz. Egy ilyen tétel a kérdőívben véleményből eredményt csinál.
+Az [[self-report-measures|önbevallás]] észlelést, elfogadást, [[anxiety-and-stress|szorongást]] és [[self-efficacy|önhatékonyságot]] mér, és mind a négyben jó. Nem a kimutatott képesség mérőszáma, mert az ember lehet magabiztos és tévedhet, vagy képzett és alulbecsülheti magát. A wiki tanári MI-írástudásról szóló kutatásainak szintézise jelentős szakadékot mutat a [[self-assessment|önértékelés]] és a mért teljesítmény között, és a benne szereplő oktatók jelentősen túlbecsülték a kompetenciájukat ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). Minden önbevalláshoz párosítson feladatot: találjon meg egy hibát egy kimenetben, ellenőrizzen egy forrást, válasszon használati stratégiát, vegyen észre elfogultságot vagy hízelgést, javítson egy hibás választ, kalibrálja a magabiztosságot a pontossághoz. Egy ilyen tétel a kérdőívben véleményből eredményt csinál.
 
 ### „Egy szimulált diák olcsó helyettesítője a valódinak.”
 
@@ -180,7 +180,7 @@ A felügyelet azon a szakértelemen nyugszik, amelynek kialakításától a nagy
 
 ### „A kritikus és etikus MI-használat tanítása termelékenységbe kerül.”
 
-Az ellenőrizetlen automatizálás újramunkát, biztonsági incidenseket, diszkriminatív döntéseket, jogi kitettséget, hírnévkockázatot és hamis magabiztosságot termel, és mindegyik olyan költség, amelyet a termelékenységi szám nem számolt el. Az alkalmazásra érdemes munkavállaló az, aki a munkát emberek és eszközök között osztja el úgy, hogy közben tartja a minőséget, a bizalmas kezelést, az elszámoltathatóságot és a szakmai ítélőképességet. Ez termelékenységi érv, abban az irányban, amelyet a mérleg általában kihagy ([[human-ai-collaboration|ember és MI együttműködése]], [[governance|MI-irányítás]]).
+Az ellenőrizetlen automatizálás újramunkát, biztonsági incidenseket, diszkriminatív döntéseket, [[legal-issues-and-risks|jogi kitettséget]], hírnévkockázatot és hamis magabiztosságot termel, és mindegyik olyan költség, amelyet a termelékenységi szám nem számolt el. Az alkalmazásra érdemes munkavállaló az, aki a munkát emberek és eszközök között osztja el úgy, hogy közben tartja a minőséget, a bizalmas kezelést, az elszámoltathatóságot és a szakmai ítélőképességet. Ez termelékenységi érv, abban az irányban, amelyet a mérleg általában kihagy ([[human-ai-collaboration|ember és MI együttműködése]], [[governance|MI-irányítás]]).
 
 ## Válaszoljon arra, amit a diákok hisznek
 
@@ -244,7 +244,7 @@ A szabályzat szövege nem teremt közös értelmezést. A diákok és a munkat�
 
 ### „Az oktatók vonakodása képzési hiány.”
 
-Néha az. A felkészültség emellett munkaterhelés, [[learner-identity|szakmai identitás]], tudományági értékek, az értékelési érvényességgel kapcsolatos kételyek, vékony intézményi támogatás, magánéleti bizonytalanság és egy megalapozott ítélet arról, hogy egy adott alkalmazás nem szolgálja a diákokat. A fejlesztésnek ezért le kell fednie a gyakorlati kompetenciát, a pedagógiai integrációt, a célt és identitást, az időt, a szabályzatot, a [[discipline-specific-aied|tudományágspecifikus]] használatot és az elvi nem-bevezetés lehetőségét. Egy egyszeri funkcióbemutató nem old fel egy szakmai és szervezeti változást ([[educational-development|oktatásfejlesztés]]).
+Néha az. A felkészültség emellett munkaterhelés, [[learner-identity|szakmai identitás]], tudományági értékek, az értékelési érvényességgel kapcsolatos kételyek, vékony intézményi támogatás, magánéleti bizonytalanság és egy megalapozott ítélet arról, hogy egy adott alkalmazás nem szolgálja a diákokat. A fejlesztésnek ezért le kell fednie a gyakorlati kompetenciát, a pedagógiai integrációt, a célt és identitást, az időt, a szabályzatot, a [[discipline-specific-aied|tudományágspecifikus]] használatot és az elvi nem-bevezetés lehetőségét. Egy egyszeri funkcióbemutató nem old fel egy szakmai és [[change-management|szervezeti változást]] ([[educational-development|oktatásfejlesztés]]).
 
 ### „Elég megmondani az embereknek a helyes tényeket.”
 
@@ -263,7 +263,7 @@ A kidolgozott változat, amelyet az oldal bármely tételére adaptálhat:
 > **Tévképzet:** „Egy jó MI-vel generált beadandó azt mutatja, hogy a diák tanult.”
 > **Cáfolat:** „Ez nem feltétlenül igaz. A produktum azt mutatja, amit a diák és a MI együtt hozott létre, de nem fedi fel, melyik érvelést a diák végezte el.”
 > **Helyettesítés:** „A tanulást jobban bizonyítja, ha a diák meg tudja magyarázni, át tudja vinni, adaptálni tudja és reprodukálni tudja a képességet.”
-> **Alkalmazás:** „Kövesse a MI-támogatott munkát magyarázattal, szóbeli védéssel, folyamatfeljegyzéssel vagy segítség nélküli alkalmazással.”
+> **Alkalmazás:** „Kövesse a MI-támogatott munkát magyarázattal, [[oral-assessment|szóbeli védéssel]], folyamatfeljegyzéssel vagy segítség nélküli alkalmazással.”
 
 A helyettesítés hordozza a súlyt. Egy tévképzet eltávolítása jobb magyarázat nélkül ott hagyja az embert, hogy nincs mivel gondolkodnia, és a régi hiedelem visszatér, amikor a tapasztalat legközelebb megerősíti.
 
@@ -289,7 +289,7 @@ A tanárok jelentősen túlbecsülték a MI-kompetenciájukat, amikor az önbeva
 
 ### „A szülők semmit nem fogadnak el a tiltáson kívül.”
 
-A szülők azt kérdezik, hogy biztonságos-e az, ami a gyerekük előtt van, és hogy jelent-e valamit az oklevél. Válaszoljon erre a kettőre közvetlenül, a pedagógiai biztonsági kérdésekkel és nem a tartalomszűrővel, és a tiltás érve elveszíti az erejét. A testületi kérdés szűkebb a főcímnél, és könnyebb megvédeni.
+A [[parents-and-families|szülők]] azt kérdezik, hogy biztonságos-e az, ami a gyerekük előtt van, és hogy jelent-e valamit az oklevél. Válaszoljon erre a kettőre közvetlenül, a pedagógiai biztonsági kérdésekkel és nem a tartalomszűrővel, és a tiltás érve elveszíti az erejét. A testületi kérdés szűkebb a főcímnél, és könnyebb megvédeni.
 
 ### „Ekkora létszámú előadáskurzuson nem tudunk szóbeli védéseket tartani.”
 

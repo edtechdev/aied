@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Počnite s oznakom. [[ai-assessment-scale-reform|Ljestvica ocjenjivanja uz umjet
 
 Zatim promijenite artefakt. [[meta-analysis-systematic-review|Sustavni pregled]] 72 studije o generativnoj umjetnoj inteligenciji u [[cs-education|računalnom obrazovanju]] ocjenjuje redizajn izvedivim i najdjelotvornijim i izdvaja jedan potez: dodajte usmeni ili na drugi način procesno vidljiv element barem jednom ocjenjivanju s visokim ulozima na kolegiju. Naziva ga jednom najdjelotvornijom intervencijom u korpusu. Otkrivanje je najtanje područje koje pregled pokriva, sa samo 3 studije, nasuprot 60 do 80% studenata računarstva koji izvješćuju o upotrebi generativne umjetne inteligencije u kolegijima, obično bez izričitog odobrenja nastavnika, i 70% jednog nacionalnog uzorka nastavnika koji izričito traže osposobljavanje za dizajn ocjenjivanja otpornog na umjetnu inteligenciju ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Trogodišnji računalni kolegij pokazuje koliko daleko razrađen tijek prijave može pomaknuti ponašanje. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil i sur. (2026)]] zahtijevali su samostalan nacrt s popisom od četiri stavke, korak u kojem umjetna inteligencija dorađuje, a ne prepisuje, obrazac prijave i strukturiranu refleksiju, pri čemu su nedostajući nacrt ili obrazac donosili nulu. Prihvaćanje je poraslo s otprilike dvije trećine studenata pod dobrovoljnom politikom na 93% u godini s razrađenim postupkom; 81% i 84% korisnika umjetne inteligencije izvijestilo je da odbija ili mijenja prijedloge, ocjenjivači su kodirali 77–81% predaja za kritički angažman, a upotreba umjetne inteligencije nije neovisno predviđala kvalitetu eseja nakon kontrole prethodne sposobnosti pisanja. To je izvještaj o iskustvu jednog kolegija, a ne kontrolirano ispitivanje, ali pokazuje kako se posao oko integriteta pomiče s otkrivanja na uvjete pod kojima studenti prijavljuju i dorađuju.
+
+
 Izbor, otprilike po redu kako svaka opcija preživljava veliku grupu.
 
-Bez pomoći, na nastavi, bez literature: nadgledani ispiti, kratke provjere, pisanje pod vremenskim ograničenjem. Dajte im veću težinu nego prije, jer je domaća zadaća artefakt koji umjetna inteligencija napuhuje. Usmeni ispiti i obrane djeluju iz istog razloga, jer je dijalog u stvarnom vremenu teško prepustiti ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Bez pomoći, na nastavi, bez literature: nadgledani ispiti, kratke provjere, pisanje pod vremenskim ograničenjem. Dajte im veću težinu nego prije, jer je domaća zadaća artefakt koji umjetna inteligencija napuhuje. [[oral-assessment|Usmeni ispiti]] i obrane djeluju iz istog razloga, jer je dijalog u stvarnom vremenu teško prepustiti ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Procesni artefakti: nacrti, tragovi zaključivanja, označeno „pokaži svoje razmišljanje“, zapisi revizija, tako da *proces* bude vidljiv, a ne samo proizvod ([[authentic-products-authenticated-processes-2026]]). Autentični zadaci rade uz njih: lokalni slučajevi, materijal iz prakse, studentovi vlastiti podaci, sve što je teško delegirati ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Procesni artefakti: nacrti, tragovi zaključivanja, označeno „pokaži svoje razmišljanje“, zapisi revizija, tako da *proces* bude vidljiv, a ne samo proizvod ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Autentični zadaci]] rade uz njih: lokalni slučajevi, materijal iz prakse, studentovi vlastiti podaci, sve što je teško delegirati ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Varijacija zadatka po studentu, gdje svaki student dobiva površinski različitu, a po konstruktu ekvivalentnu inačicu, čini prepisivanje strukturno beskorisnim. Jamstvo smatrajte uvjetovanim sposobnošću modela: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] je našla da vrhunski generatori dosežu samo 0,81 do 0,88 na zajedničkoj ocjeni integriteta, dok se modeli koji nisu vrhunski ruše na 0,50 do 0,55. Ako vaše inačice nisu ekvivalentne, kupili ste zaštitu od dijeljenja uz nepravednost među studentima.
 
@@ -96,7 +99,7 @@ Napišite i pravilo precizno. [[wright-transcription-not-generation-2026|Wright 
 
 Zabrana alata i dopuštenje bez strukture daju isti ishod, a to su studenti koji stoje izvan kognitivnog rada.
 
-Sinteza Smanjenje zlouporabe umjetne inteligencije izlaže osam načela dizajna za dopuštenu inačicu, među njima: sačuvajte [[desirable-difficulties|poželjne teškoće]], postavite umjetnu inteligenciju kao privremenog partnera za razmišljanje, a ne kao autoritet, ugradite kontrolne točke procjene i zahtijevajte [[metacognition|metakognitivno]] vođenje dnevnika i zapise upita.
+Sinteza Smanjenje zlouporabe umjetne inteligencije izlaže osam načela dizajna za dopuštenu inačicu, među njima: sačuvajte [[desirable-difficulties|poželjne teškoće]], postavite umjetnu inteligenciju kao privremenog partnera za razmišljanje, a ne kao autoritet, ugradite kontrolne točke procjene i zahtijevajte [[metacognition|metakognitivno]] [[reflection|vođenje dnevnika]] i zapise upita.
 
 Slijed koji nosi ta načela dovoljno je kratak da ga otisnete na uputu za zadatak:
 
@@ -122,7 +125,7 @@ Izmjereni primjer je modul u [[k-12|osnovnom i srednjem obrazovanju]] koji rabi 
 
 Ono što studenti doista vjeruju manje je cinično nego što panika sugerira. Među 504 studenta sociologije, 65% rabilo je generativnu umjetnu inteligenciju za kolegije, ali samo 3% za stvaranje teksta zadatka i 2% za stvaranje cijelog nacrta. Njih 81% dobilo je neke smjernice o umjetnoj inteligenciji, a samo 46% ocijenilo ih je vrlo jasnima ([[student-genai-use-views-writing]]). Dvosmislenost, a ne prkos, praktični je problem, zato jasno pravilo uz poučeni slijed mijenja više ponašanja nego upozorenje. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa i Mezgebu (2026)]] opisuju studente koji pitaju je li generativna umjetna inteligencija alat koji olakšava varanje ili partner koji podupire učenje, a na to pitanje trebaju odgovoriti vaša očekivanja.
 
-Šteta koju vrijedi izričito poučavati jest [[ai-misuse-learning-harm|jaz između izvedbe i učenja]]: izvedba raste sada, učenje pada kasnije, a student doživljava samo prvo. [[ai-tools-academic-work-cheating-2026]] i [[student-rationalization-ai-writing]] pokrivaju stranu norme vršnjaka i racionalizacija, uključujući obranu „svi to rade“ koju jasna norma ispuhuje. O tome koliko je ta osnova snažna vidi [[ai-literacy-evidence]] i [[top-10-findings-ai-education-instructors]].
+Šteta koju vrijedi izričito poučavati jest [[ai-misuse-learning-harm|jaz između izvedbe i učenja]]: izvedba raste sada, učenje pada kasnije, a [[student-experience|student doživljava]] samo prvo. [[ai-tools-academic-work-cheating-2026]] i [[student-rationalization-ai-writing]] pokrivaju stranu norme vršnjaka i racionalizacija, uključujući obranu „svi to rade“ koju jasna norma ispuhuje. O tome koliko je ta osnova snažna vidi [[ai-literacy-evidence]] i [[top-10-findings-ai-education-instructors]].
 
 ## U čemu nastavnici ovdje griješe
 

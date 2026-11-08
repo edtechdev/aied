@@ -54,7 +54,7 @@ ai_assist:
 
 ## 让残障学习者进入设计室
 
-把[[special-education|残障学习者]]纳入设计与评估，对照可及性要求测试真实界面，并提供等效的参与路径和展示学习的路径。技术合规与[[inclusive-learning|包容性教学]]是两场不同的检验，[[accessibility|可及性]]两个都覆盖。
+把[[inclusive-learning|残障学习者]]纳入设计与评估，对照可及性要求测试真实界面，并提供等效的参与路径和展示学习的路径。技术合规与[[inclusive-learning|包容性教学]]是两场不同的检验，[[accessibility|可及性]]两个都覆盖。
 
 一项与社区学院学生、教师和开发者共同进行的[[ko-hughes-vsd-student-centered-its-2026|价值敏感设计研究]]展示了这在实践中是什么样。它产出了 16 项价值对齐的功能，分布在[[explainable-ai|可解释性]]（E1-E5）、[[human-in-the-loop-ai|人在回路]]控制（H1-H9）和[[privacy]]（P1-P4）之上，并且浮现出的是张力而不是干净的答案：透明与可解释、隐私与教学洞察、学习者[[agency|能动性]]与系统引导的[[scaffolding|脚手架]]。要预期自己得去裁定这些张力，并记下你选了哪一边。
 

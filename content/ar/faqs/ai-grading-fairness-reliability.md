@@ -1,9 +1,9 @@
 ---
 title: "هل يمكنني استخدام الذكاء الاصطناعي لتصحيح عمل الطلاب بإنصاف وموثوقية؟"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -48,7 +48,7 @@ ai_assist:
 
 **مساعد التغذية الراجعة** يسوّد تعليقات أو يشير إلى إغفالات محتملة لتقبلها أو تعيد كتابتها أو تطرحها. والخطر محصور في جودة التعليق، وأنت تقرأ كل شيء قبل أن يصل إلى طالب. و**القارئ الثاني** يقترح درجات على المعايير أو يشير إلى خلافات لتنظيم تصحيحك أنت. وأخطاؤه يجب أن تكون نافعة لا مجرد خطأ: إشارة تعيدك إلى تسليم كنت ستصححه على عجل تستحق أن توجد. و**المقيّم الأساسي** ينتج درجات تصير درجات مسجَّلة. وهذا هو الترتيب الذي لا يدعمه الدليل في قاعدة المعرفة هذه خارج حالات ضيقة تحقّقت محليًا.
 
-اختر أدنى درجة تعالج قيدك الفعلي. فإن كان عبء التصحيح عندك يأتي من التحقق من مفتاح إجابة ثابت، فالتصحيح الحتمي العادي أكثر شفافية وقابلية للتدقيق من نموذج لغوي، وتشير دراسة الصيدلة إلى أن ميزة النموذج في البنود الموضوعية كانت جزئيًا أثرًا لتسليمه الإجابات الصحيحة أثناء التصحيح. واحفظ النموذج للعمل الذي يحتاج تفسيرًا، ثم تحقّق من ذلك التفسير.
+اختر أدنى درجة تعالج قيدك الفعلي. فإن كان عبء التصحيح عندك يأتي من التحقق من مفتاح إجابة ثابت، فالتصحيح الحتمي العادي أكثر شفافية وقابلية للتدقيق من [[llm|نموذج لغوي]]، وتشير دراسة الصيدلة إلى أن ميزة النموذج في البنود الموضوعية كانت جزئيًا أثرًا لتسليمه الإجابات الصحيحة أثناء التصحيح. واحفظ النموذج للعمل الذي يحتاج تفسيرًا، ثم تحقّق من ذلك التفسير.
 
 [[automated-assessment|التقييم الآلي]] يغطي الآلية الأوسع للتصحيح والمراجعة وتوليد التغذية الراجعة. وهذه الصفحة هي سؤال الحكم الكامن تحتها.
 

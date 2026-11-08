@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ Odpověď, kterou dáte kolegovi: většina toho, co pohání úzkost z AI, sed�
 
 **2.** Přestaňte začínat uklidňováním. Povzbuzení, které nechá studentovo posouzení vlastní schopnosti nezměněné, s emocí nepohne.
 
-**3.** Dejte studentům úkol, který zvládnou, a jeden, který musí kriticky posoudit. Procvičování s nízkými riziky plus vedené hodnocení výstupu AI stojí na lepších důkazech než rozhovor o budoucnosti práce.
+**3.** Dejte studentům úkol, který zvládnou, a jeden, který musí kriticky posoudit. Procvičování s nízkými riziky plus vedené [[ai-ed-evaluation|hodnocení výstupu AI]] stojí na lepších důkazech než rozhovor o budoucnosti práce.
 
 **4.** Postavte otázku zaměstnání dovnitř kurzu. Kariérová adaptabilita je mechanismus, který nejsilnější studie zde identifikuje, a víra v sebe ji nenahradila.
 
@@ -61,7 +61,7 @@ Nikdo v této literatuře ten balík neotestoval proti kontrolní skupině. Dopo
 
 Úzkost a zapojení se mohou hýbat spolu, což mění to, o co se snažíte. V dotazníkovém šetření u 107 studentů [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] zjistil, že vyšší úzkost z AI pozitivně souvisí s ověřovacím a revizním chováním (β = 0,24, p < 0,01) a že hodnotící schopnost předpovídá aktivní zapojení (β = 0,46, p < 0,001). Studenti se rozdělili do čtyř regulačních typů: nekritické spoléhání (18,7 %), selektivní integrace (34,6 %), hodnotící transformace (31,8 %), strategické odmítnutí (14,9 %).
 
-Pokud úzkost může doprovázet pečlivější chování, pak snižování toho pocitu je špatný cíl. Výuka kritického zkoumání a hodnotícího úsudku mění úzkostného studenta v uvážlivého uživatele [[generative-ai|generativní AI]], ne v vyhýbavého. Tomu návyku se věnuje [[verify-ai-output|výuka studentů ověřovat výstup AI]] a [[ai-literacy|gramotnost v oblasti AI]] je širší rámec, do kterého patří.
+Pokud úzkost může doprovázet pečlivější chování, pak snižování toho pocitu je špatný cíl. Výuka kritického zkoumání a [[evaluative-judgment|hodnotícího úsudku]] mění úzkostného studenta v uvážlivého uživatele [[generative-ai|generativní AI]], ne v vyhýbavého. Tomu návyku se věnuje [[verify-ai-output|výuka studentů ověřovat výstup AI]] a [[ai-literacy|gramotnost v oblasti AI]] je širší rámec, do kterého patří.
 
 ## Postavte kariérní otázku do místnosti
 
@@ -79,19 +79,19 @@ Předávejte dál, když obava přestala být o nástroji a začala být o hodno
 
 Kariérní úzkost patří k [[career-development-and-readiness|kariérovým službám]], protože je to věc poradenství, ne problém morálky, a [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] zjistili, že sebeúčinnost sama škodu na kariérových rozhodnutích nezmírnila. Instituce je úroveň, na kterou důkazy ukazují, přičemž [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al. (2026)]] doporučují gramotnost v oblasti AI a kariérové poradenství spolu s posílením programů. Pokud vidíte studenta, kterému zdravotní postižení nebo potřeba přístupu brání používat povinné nástroje, patří to k té kanceláři, která na vaší instituci řeší úpravy, a je to samostatný rozhovor.
 
-Máte také páku, kterou formulář pro předání nemá. [[culturally-aware-student-stress-chatbot-2026|Bashir a Afzal (2026)]] řadí vztah učitele a studenta na druhé místo ve své analýze důležitosti příznaků (10,0 %), před kvalitou spánku (9,3 %), depresí (8,3 %) a sociální podporou (7,6 %). Autoři to předkládají jako hypotézu, která potřebuje lokálně sebraná data. Je to ale důvod zajistit, aby studenti věděli, že jste cesta k pomoci.
+Máte také páku, kterou formulář pro předání nemá. [[culturally-aware-student-stress-chatbot-2026|Bashir a Afzal (2026)]] řadí vztah [[teacher-role|učitele]] a studenta na druhé místo ve své analýze důležitosti příznaků (10,0 %), před kvalitou spánku (9,3 %), depresí (8,3 %) a sociální podporou (7,6 %). Autoři to předkládají jako hypotézu, která potřebuje lokálně sebraná data. Je to ale důvod zajistit, aby studenti věděli, že jste cesta k pomoci.
 
 ## Rozhodněte, zda sem nástroj pro well-being patří
 
-Chatbot pro studenty přitahuje nejvíc právě ty studenty, kteří tíseň neřeknou rodiči, učiteli ani vrstevníkovi, což je přesně vzorec sdílení, který popisují [[culturally-aware-student-stress-chatbot-2026|Bashir a Afzal (2026)]]. Jejich systém trénoval klasifikátor stresu Random Forest na 1 100 dotazníkových odpovědích a 20 příznacích a dosáhl přesnosti 89,09 % ve třech úrovních závažnosti, ve spojení s vrstvenou dialogovou vrstvou odstupňované péče v angličtině, urdštině a romanizované urdštině. Jejich analýza [[explainable-ai|důležitosti příznaků]] umístila krevní tlak na první místo (15,6 %) a vztah učitele a studenta na druhé (10,0 %), s úrovní úzkosti na devátém místě (4,8 %), což čtou jako důkaz, že tíseň studentů je multidimenzionální.
+[[conversational-ai|Chatbot]] pro studenty přitahuje nejvíc právě ty studenty, kteří tíseň neřeknou rodiči, učiteli ani vrstevníkovi, což je přesně vzorec sdílení, který popisují [[culturally-aware-student-stress-chatbot-2026|Bashir a Afzal (2026)]]. Jejich systém trénoval klasifikátor stresu Random Forest na 1 100 dotazníkových odpovědích a 20 příznacích a dosáhl přesnosti 89,09 % ve třech úrovních závažnosti, ve spojení s vrstvenou dialogovou vrstvou odstupňované péče v angličtině, urdštině a romanizované urdštině. Jejich analýza [[explainable-ai|důležitosti příznaků]] umístila krevní tlak na první místo (15,6 %) a vztah učitele a studenta na druhé (10,0 %), s úrovní úzkosti na devátém místě (4,8 %), což čtou jako důkaz, že tíseň studentů je multidimenzionální.
 
-Co připouštějí, je důležitější než číslo přesnosti. O úrovni podpory rozhoduje [[machine-learning|natrénovaný klasifikátor]] a co se stane při škodlivé chybné klasifikaci, jak se sdělení ukládají, které ochrany [[privacy|soukromí]] platí a jak funguje eskalace k lidskému poradenství, zůstává otevřené. Hranice mezi [[human-in-the-loop-ai|lidským dohledem]] a automatizovaným povzbuzováním zůstává otázkou návrhu. Systém se nepředkládá jako klinický ani terapeutický a dialogová vrstva byla ověřena se simulovanými vstupy a neformálním testováním použitelnosti, ne se studenty, na kulturní vhodnost, emoční bezpečnost nebo spokojenost. Neexistují vůbec žádná data o výsledcích studentů.
+Co připouštějí, je důležitější než číslo přesnosti. O úrovni podpory rozhoduje [[machine-learning|natrénovaný klasifikátor]] a co se stane při škodlivé chybné klasifikaci, jak se sdělení ukládají, které ochrany [[privacy|soukromí]] platí a jak funguje eskalace k lidskému poradenství, zůstává otevřené. Hranice mezi [[human-in-the-loop-ai|lidským dohledem]] a automatizovaným povzbuzováním zůstává otázkou návrhu. Systém se nepředkládá jako klinický ani terapeutický a dialogová vrstva byla ověřena se simulovanými vstupy a neformálním [[usability-research|testováním použitelnosti]], ne se studenty, na kulturní vhodnost, emoční bezpečnost nebo spokojenost. Neexistují vůbec žádná data o výsledcích studentů.
 
 Stejný vzorec se objevuje v širší literatuře o nástrojích. Disertační práce o nástrojích pro well-being na kampusu poháněných AI ([[ai-campus-wellbeing-tools|Tang, 2026]]) uvádí dotazníkového chatbota (TigerGPT) s použitelností 75 % a spokojeností 81 % a adaptivní navazovací rámec (AURA), který přinesl průměrné zlepšení kvality +0,12 (p = 0,044, d = 0,66) tím, že pomocí [[reinforcement-learning|posilovaného učení]] volí, zda validovat, specifikovat, reflektovat, nebo sondovat. Popisuje také komponentu hodnocení duševního zdraví opřenou o guidelines DSM-5 a PHQ-8, ne o klasifikaci černé skříňky, a vrstvenou multi-modelovou architekturu, která má snižovat [[hallucination-risk|riziko halucinace]] a překonávat jednotlivé modely na [[benchmark|benchmarku]] DAIC-WOZ. To jsou výsledky vývoje systému. Měří, zda nástroj dělá to, k čemu byl navržen, ne zda se zlepšil [[well-being]] studenta. Číslo 89,09 % pochází z jediného rozdělení na trénovací a testovací data, na trénovacích datech, která nejsou reprezentativní pro pákistánské studenty, v systému postaveném v angličtině s promptovanými urdskými výrazy.
 
 ## Nastavte podmínky, které kurz nastavit nemůže
 
-Třídní kroky výše potřebují institucionální krytí a politická literatura kolem AI a [[social-emotional-learning|socioemočního učení]] je slabší než ambice nasazení. [[policy-deficit-ai-sel-2026|Tran, Liu a Nguyen (2026)]] prošli 65 recenzovaných prací na průsečíku AI a SEL: téměř tři čtvrtiny se o politických důsledcích nezmiňovaly vůbec, jen zhruba jedna ze čtyř nabídla nějaké politické doporučení a málo z nich dávalo pokyny pro konkrétní aktéry k [[privacy|soukromí]], vzdělávání učitelů nebo alokaci zdrojů. Jejich rámec WH se ptá, kdo má jednat, jaká akce se doporučuje, proč, kdy, kde a jak silně je zarámována, a většina prací tyto otázky nechala bez odpovědi. Zapojení do politiky korelovalo s místem publikace, což recenzenti čtou jako strukturu pobídek zvýhodňující technickou novost před [[governance|správou a řízením]], a výsledek popisují jako techno-solutionistickou past: technický potenciál je v popředí a podmínky odpovědného použití zůstávají nespecifikované. Pro [[equity-in-ai-education|rovnost]] to znamená, že přijatelně vypadající nástroje AI pro SEL lze zavést bez ochran soukromí, přípravy učitelů a rovnosti zdrojů, které zavedení vyžaduje.
+Třídní kroky výše potřebují institucionální krytí a politická literatura kolem AI a [[social-emotional-learning|socioemočního učení]] je slabší než ambice nasazení. [[policy-deficit-ai-sel-2026|Tran, Liu a Nguyen (2026)]] prošli 65 recenzovaných prací na průsečíku AI a SEL: téměř tři čtvrtiny se o politických důsledcích nezmiňovaly vůbec, jen zhruba jedna ze čtyř nabídla nějaké politické doporučení a málo z nich dávalo pokyny pro konkrétní aktéry k [[privacy|soukromí]], [[teacher-education|vzdělávání učitelů]] nebo alokaci zdrojů. Jejich rámec WH se ptá, kdo má jednat, jaká akce se doporučuje, proč, kdy, kde a jak silně je zarámována, a většina prací tyto otázky nechala bez odpovědi. Zapojení do politiky korelovalo s místem publikace, což recenzenti čtou jako strukturu pobídek zvýhodňující technickou novost před [[governance|správou a řízením]], a výsledek popisují jako techno-solutionistickou past: technický potenciál je v popředí a podmínky odpovědného použití zůstávají nespecifikované. Pro [[equity-in-ai-education|rovnost]] to znamená, že přijatelně vypadající nástroje AI pro SEL lze zavést bez ochran soukromí, přípravy učitelů a rovnosti zdrojů, které zavedení vyžaduje.
 
 Pokud sedíte na úrovni, kde se tato rozhodnutí dělají, praktická otázka je stejná, jakou klade výuka. Kdo odpovídá, když se nástroj splete, co se stane s tím, co student sdělí, a kdo byl vyškolen číst výstup.
 
@@ -105,7 +105,7 @@ Cílem je úzkost snížit. Kim (2026) zjistil, že úzkost pozitivně souvisí 
 
 Sebevědomí chrání studenty před kariérní škodou. V modelu Duan et al. je [[self-efficacy|sebeúčinnost]] nezmírnila. Zprostředkovanou cestu nesla kariérová adaptabilita.
 
-To je problém studentských služeb. Většina kroků na této stránce je výuková: procvičování s nízkými riziky, vedené hodnocení výstupu AI, revize řízená zpětnou vazbou a sdělení očekávání, které studenti mohou číst. Znalost cesty předání je mezi nimi jedna položka.
+To je problém [[student-support-and-success|studentských služeb]]. Většina kroků na této stránce je výuková: procvičování s nízkými riziky, vedené hodnocení výstupu AI, revize řízená zpětnou vazbou a sdělení očekávání, které studenti mohou číst. Znalost cesty předání je mezi nimi jedna položka.
 
 Chatbot pro well-being je škálovatelná odpověď na tenkou kapacitu poradenství. Dostupnost je skutečná a přitažlivost pochopitelná. Přesnost na jednom rozdělení dat není důkaz, že je zdrcenému studentovi lépe, a otázky chybné klasifikace, ukládání a eskalace nemají v zde citované práci publikované odpovědi.
 

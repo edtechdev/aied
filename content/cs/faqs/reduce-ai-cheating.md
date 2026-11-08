@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Začněte štítkem. [[ai-assessment-scale-reform|Škála hodnocení AI (AIAS)]]
 
 Pak změňte artefakt. [[meta-analysis-systematic-review|Systematický přehled]] 72 studií o generativní AI ve [[cs-education|vzdělávání v informatice]] hodnotí redesign jako proveditelný a zároveň s nejvyšší pákou a vyzdvihuje jeden krok: přidejte ústní nebo jinak procesně viditelný prvek alespoň do jednoho vysoce rizikového hodnocení v každém kurzu. Označuje to za nejúčinnější intervenci v korpusu. Detekce je nejtenčí oblastí, kterou přehled pokrývá, jen se 3 studiemi, proti tomu 60-80 % studentů informatiky uvádí používání generativní AI při studiu, obvykle bez výslovného souhlasu pedagoga, a 70 % jednoho národního vzorku pedagogů výslovně žádá školení o návrhu hodnocení odolném vůči AI ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Tříletý kurz informatiky ukazuje, jak daleko může posunout chování strukturovaný postup zveřejňování. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] vyžadovali samostatný koncept se čtyřbodovým kontrolním seznamem, krok, v němž AI text vylepšuje, ale nepřepisuje, formulář pro zveřejnění a strukturovanou reflexi, přičemž chybějící koncept nebo formulář znamenal nulu. Míra přijetí vzrostla z přibližně dvou třetin studentů při dobrovolné politice na 93 % ve strukturovaném roce; 81 % a 84 % uživatelů AI uvedlo, že návrhy odmítli nebo upravili, hodnotitelé označili 77–81 % prací za kriticky angažované a použití AI nezávisle nepředpovídalo kvalitu eseje poté, co byla kontrolována předchozí schopnost psaní. Je to zpráva o zkušenosti z jednoho kurzu, a ne kontrolovaná studie, ale ukazuje, jak se integritní práce přesouvá od detekce k podmínkám, za kterých studenti zveřejňují a revidují.
+
+
 Menu, zhruba v pořadí, jak dobře která možnost přežije velkou třídu.
 
-Bez podpory, ve výuce, s uzavřenými materiály: dozorované zkoušky, testy, časově omezené psaní. Važte je více než dřív, protože domácí úkoly jsou artefakt, který AI nafukuje. Ústní zkoušky a obhajoby fungují ze stejného důvodu, protože dialog v reálném čase lze jen těžko outsourcovat ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Bez podpory, ve výuce, s uzavřenými materiály: dozorované zkoušky, testy, časově omezené psaní. Važte je více než dřív, protože domácí úkoly jsou artefakt, který AI nafukuje. [[oral-assessment|Ústní zkoušky]] a obhajoby fungují ze stejného důvodu, protože dialog v reálném čase lze jen těžko outsourcovat ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Procesní artefakty: koncepty, záznamy uvažování, anotované „ukaž, jak přemýšlíš“, záznamy revizí, aby byl vidět *proces*, a ne jen produkt ([[authentic-products-authenticated-processes-2026]]). Vedle nich fungují autentické úlohy: místní případy, materiál ze stáže, vlastní data studenta, cokoli, co se těžko deleguje ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Procesní artefakty: koncepty, záznamy uvažování, anotované „ukaž, jak přemýšlíš“, záznamy revizí, aby byl vidět *proces*, a ne jen produkt ([[authentic-products-authenticated-processes-2026]]). Vedle nich fungují [[authentic-assessment|autentické úlohy]]: místní případy, materiál ze stáže, vlastní data studenta, cokoli, co se těžko deleguje ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Variace úlohy pro jednotlivé studenty, kdy každý dostane povrchově odlišnou, ale konstruktově ekvivalentní verzi, činí opisování strukturálně bezcenným. Garanci berte jako podmíněnou schopnostmi modelů: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] zjistila, že špičkové generátory dosahují jen 0,81-0,88 ve společném skóre integrity, zatímco modely mimo špičku klesají na 0,50-0,55. Pokud vaše varianty nejsou ekvivalentní, koupili jste ochranu proti sdílení za cenu nespravedlnosti mezi studenty.
 
@@ -96,7 +99,7 @@ Pravidlo pište také přesně. [[wright-transcription-not-generation-2026|Wrigh
 
 Zakázat nástroj a povolit ho bez struktury vede ke stejnému výsledku: studenti stojí mimo kognitivní práci.
 
-Syntéza Omezování zneužívání AI stanoví osm designových principů pro povolenou verzi, mimo jiné: zachovat [[desirable-difficulties|kognitivní tření]], postavit AI do role prozatímního myšlenkového partnera, a ne autority, vložit hodnoticí kontrolní body a vyžadovat [[metacognition|metakognitivní]] deník a záznamy promptů.
+Syntéza Omezování zneužívání AI stanoví osm designových principů pro povolenou verzi, mimo jiné: zachovat [[desirable-difficulties|kognitivní tření]], postavit AI do role prozatímního myšlenkového partnera, a ne autority, vložit hodnoticí kontrolní body a vyžadovat [[metacognition|metakognitivní]] [[reflection|deník]] a záznamy promptů.
 
 Sekvence, která ty principy nese, je dost krátká na to, aby se vešla na zadání:
 
@@ -122,7 +125,7 @@ Změřeným příkladem je modul v [[k-12]] se scénářovým procvičováním p
 
 Tomu, čemu studenti skutečně věří, je méně cynismu, než naznačuje panika. Mezi 504 studenty sociologie jich 65 % použilo generativní AI při studiu, ale jen 3 % k vytvoření textu zadání a 2 % k vytvoření celého konceptu. 81 % dostalo nějaké pokyny k AI a jen 46 % je považovalo za velmi jasné ([[student-genai-use-views-writing]]). Praktickým problémem je nejednoznačnost, a ne vzdor, a proto jasné pravidlo plus vyučovaná sekvence posune chování víc než varování. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa a Mezgebu (2026)]] popisují studenty, kteří se ptají, zda je generativní AI nástroj, který usnadňuje podvádění, nebo partner, který podporuje učení, a právě na tuto otázku by měla vaše očekávání odpovídat.
 
-Škoda, kterou stojí za to učit výslovně, je [[ai-misuse-learning-harm|mezera mezi výkonem a učením]]: výkon teď roste, učení později klesá a student zažívá jen to první. [[ai-tools-academic-work-cheating-2026]] a [[student-rationalization-ai-writing]] pokrývají stránku vrstevnických norem a racionalizací, včetně obrany „všichni to dělají“, kterou jasná norma splaskne. Jak silná je tato základna, viz [[ai-literacy-evidence]] a [[top-10-findings-ai-education-instructors]].
+Škoda, kterou stojí za to učit výslovně, je [[ai-misuse-learning-harm|mezera mezi výkonem a učením]]: výkon teď roste, učení později klesá a [[student-experience|student]] zažívá jen to první. [[ai-tools-academic-work-cheating-2026]] a [[student-rationalization-ai-writing]] pokrývají stránku vrstevnických norem a racionalizací, včetně obrany „všichni to dělají“, kterou jasná norma splaskne. Jak silná je tato základna, viz [[ai-literacy-evidence]] a [[top-10-findings-ai-education-instructors]].
 
 ## V čem se pedagogové v tomto mýlí
 

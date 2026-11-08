@@ -1,7 +1,7 @@
 ---
 title: "Sinh viên nên học gì cho những nghề mà AI đã trở nên phổ biến?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Một sinh viên hỏi vì sao họ phải học làm một việc mà chatbot đã làm được. Một hội đồng cố vấn chương trình nói rằng nhà tuyển dụng muốn những người tốt nghiệp biết dùng AI trong công việc. Đề cương của bạn phải thỏa mãn cả hai, và không bên nào nói rõ người tốt nghiệp cần làm được gì khi không có trợ giúp.
+Một sinh viên hỏi vì sao họ phải học làm một việc mà [[conversational-ai|chatbot]] đã làm được. Một hội đồng cố vấn chương trình nói rằng nhà tuyển dụng muốn những người tốt nghiệp biết dùng AI trong công việc. Đề cương của bạn phải thỏa mãn cả hai, và không bên nào nói rõ người tốt nghiệp cần làm được gì khi không có trợ giúp.
 
-Câu trả lời ngắn để nói với đồng nghiệp: hãy dạy toàn bộ nhiệm vụ nghề nghiệp, không phải thao tác công cụ, và đánh giá cả sản phẩm có hỗ trợ lẫn năng lực độc lập của sinh viên. Bằng chứng ủng hộ việc coi sự sẵn sàng là kiến thức chuyên ngành cộng với phán đoán cộng với kiểm chứng cộng với khả năng chuyển giao, và nó không ủng hộ bất kỳ danh sách kỹ năng nào như một bảo đảm có việc làm. Một khảo sát 500 giảng viên đại học Hoa Kỳ đối chiếu với một hội đồng nhà tuyển dụng phát hiện hai nhóm chỉ đồng thuận về tầm quan trọng của đúng một trong 26 kỹ năng liên quan đến AI, *đặt kỳ vọng thực tế cho công việc có AI hỗ trợ*; giảng viên nhấn mạnh việc sử dụng có phê phán và có trách nhiệm trong khi nhà tuyển dụng nhấn mạnh thiết kế quy trình làm việc, tự động hóa và việc phối hợp người–AI ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Đó là những ưu tiên được khai báo, không phải bằng chứng tuyển dụng. Phát hiện sắc nét hơn cho một chương trình học nằm ở chỗ khác: trong một khảo sát 455 sinh viên năm cuối, năng lực AI đạt tới mức được cho là có thể tuyển dụng chủ yếu nhờ nâng cao [[career-development-and-readiness|khả năng thích ứng nghề nghiệp]], với hiệu ứng gián tiếp β = 0.173 bên cạnh hiệu ứng trực tiếp β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan và Lestari, 2026]]). Khả năng thích ứng là một năng lực có thể dạy được. Một mẹo dùng công cụ thì không.
+Câu trả lời ngắn để nói với đồng nghiệp: hãy dạy toàn bộ nhiệm vụ nghề nghiệp, không phải thao tác công cụ, và đánh giá cả sản phẩm có hỗ trợ lẫn năng lực độc lập của sinh viên. Bằng chứng ủng hộ việc coi sự sẵn sàng là kiến thức chuyên ngành cộng với phán đoán cộng với kiểm chứng cộng với khả năng chuyển giao, và nó không ủng hộ bất kỳ danh sách kỹ năng nào như một bảo đảm có việc làm. Một khảo sát 500 giảng viên đại học Hoa Kỳ đối chiếu với một hội đồng nhà tuyển dụng phát hiện hai nhóm chỉ đồng thuận về tầm quan trọng của đúng một trong 26 kỹ năng liên quan đến AI, *đặt kỳ vọng thực tế cho công việc có AI hỗ trợ*; giảng viên nhấn mạnh việc sử dụng có phê phán và có trách nhiệm trong khi nhà tuyển dụng nhấn mạnh thiết kế quy trình làm việc, tự động hóa và [[human-ai-collaboration|việc phối hợp người–AI]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Đó là những ưu tiên được khai báo, không phải bằng chứng tuyển dụng. Phát hiện sắc nét hơn cho một [[curriculum-design|chương trình học]] nằm ở chỗ khác: trong một khảo sát 455 sinh viên năm cuối, năng lực AI đạt tới mức được cho là có thể tuyển dụng chủ yếu nhờ nâng cao [[career-development-and-readiness|khả năng thích ứng nghề nghiệp]], với hiệu ứng gián tiếp β = 0.173 bên cạnh hiệu ứng trực tiếp β = 0.447 ([[ai-literacy-graduate-employability-2026|Hendrawan và Lestari, 2026]]). Khả năng thích ứng là một năng lực có thể dạy được. Một mẹo dùng công cụ thì không.
 
 ## Phiên bản ngắn
 
@@ -73,13 +73,13 @@ Thích ứng và chuyển giao. Lặp lại một nhiệm vụ tương đương 
 
 Viết luận và giao tiếp kinh doanh: cho sinh viên phê phán và sửa một thư trả lời khách hàng phàn nàn do AI soạn. Bằng chứng về năng lực là việc gọi tên những lời hứa không có căn cứ, giải thích các lựa chọn về người đọc, và bảo vệ cách diễn đạt cuối cùng.
 
-Một học phần định lượng có thể làm điều tương tự với một ước lượng do AI tạo ra cho một bài toán lập kế hoạch thực tế, trong đó sinh viên tự dựng ước lượng của mình, nêu các giả định và kiểm tra tính hợp lý.
+Một học phần [[quantitative-research|định lượng]] có thể làm điều tương tự với một ước lượng do AI tạo ra cho một bài toán lập kế hoạch thực tế, trong đó sinh viên tự dựng ước lượng của mình, nêu các giả định và kiểm tra tính hợp lý.
 
 Với một học phần bảng tính hoặc tin học, hãy phát một công thức được tạo ra cùng dữ liệu tổng hợp, rồi yêu cầu các ca kiểm thử, một lời giải thích về các tham chiếu, và một điều kiện thất bại.
 
-Các ngành sức khỏe: sinh viên đánh giá một lời giải thích được tạo ra cho một ca hư cấu dựa trên các nguồn đã được duyệt, nêu các giới hạn của nó, và nói rõ khi nào một chuyên gia có năng lực phải quyết định.
+[[medical-education|Các ngành sức khỏe]]: sinh viên đánh giá một lời giải thích được tạo ra cho một ca hư cấu dựa trên các nguồn đã được duyệt, nêu các giới hạn của nó, và nói rõ khi nào một chuyên gia có năng lực phải quyết định.
 
-Khám phá nghề nghiệp có phiên bản riêng: so sánh cấu trúc nhiệm vụ của hai nghề bằng thông tin nghề nghiệp đáng tin cậy, rồi lập kế hoạch cho một bước cụ thể về phát triển kỹ năng hoặc tìm kiếm sự giúp đỡ.
+Khám phá nghề nghiệp có phiên bản riêng: so sánh cấu trúc nhiệm vụ của hai nghề bằng thông tin nghề nghiệp đáng tin cậy, rồi lập kế hoạch cho một bước cụ thể về phát triển kỹ năng hoặc [[help-seeking|tìm kiếm sự giúp đỡ]].
 
 Với hình thức không đồng bộ, hãy yêu cầu một lần thử ban đầu, một bản ghi kiểm chứng ngắn và một ghi chú hai câu về một quyết định hệ trọng. Trong phòng thí nghiệm hoặc buổi thảo luận, phần giải thích có thể diễn ra trong trao đổi trực tiếp. Hãy dùng học liệu tổng hợp hoặc đã được cho phép mỗi khi phương án thay thế là dữ liệu mật của nơi làm việc hoặc dữ liệu sinh viên.
 
@@ -89,19 +89,22 @@ Một sản phẩm bóng bẩy cho bạn biết điều gì đã được tạo 
 
 Hãy chọn những yêu cầu đó vì chúng ủng hộ năng lực đã được nêu, và nói rõ mỗi bài đánh giá đo năng lực nào. Sinh viên chấp nhận việc luyện tập độc lập khi nó gắn với thứ họ đang được chuẩn bị; câu “sau này bạn sẽ cần cái này” làm việc ít hơn việc cho thấy phép tính chính là thứ giúp họ bắt được ước lượng sai về sau.
 
-Phía hỗ trợ có rủi ro riêng. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei và cộng sự (2026)]] phát hiện việc dùng GenAI có liên hệ dương với sự phụ thuộc GenAI, và sự phụ thuộc có liên hệ âm với cả tư duy phê phán lẫn khả năng được tuyển dụng trong mô hình khảo sát của họ. Đó là mối liên hệ chứ không phải khẳng định nhân quả, và nó chỉ vào câu hỏi thiết kế: một học phần chỉ đánh giá hiệu suất có hỗ trợ có thể đang huấn luyện chính sự phụ thuộc mà nó báo cáo.
+Phía hỗ trợ có rủi ro riêng. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei và cộng sự (2026)]] phát hiện việc dùng [[generative-ai|GenAI]] có liên hệ dương với sự phụ thuộc GenAI, và sự phụ thuộc có liên hệ âm với cả [[critical-thinking|tư duy phê phán]] lẫn khả năng được tuyển dụng trong mô hình khảo sát của họ. Đó là mối liên hệ chứ không phải khẳng định nhân quả, và nó chỉ vào câu hỏi thiết kế: một học phần chỉ đánh giá hiệu suất có hỗ trợ có thể đang huấn luyện chính sự phụ thuộc mà nó báo cáo.
+
+Logic tương tự áp dụng trước khi sinh viên bước vào thị trường lao động. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener và cộng sự (2026)]] mô hình hóa việc AI hỗ trợ như một chuỗi trong đó kỹ năng lớn lên nhờ luyện tập độc lập và mai một khi người lao động chấp nhận câu trả lời của AI. Trong mô hình của họ, người mới có thể bị kẹt ở mức kỹ năng thấp và chuyên gia có thể mất kỹ năng ngay cả khi độ chính xác của đầu ra vẫn cao, và những người lao động có chiến lược có thể tự giải quyết ngay cả khi AI chính xác hơn, vì kỹ năng trong tương lai có giá trị. Bài báo là lý thuyết, không phải một can thiệp, nhưng nó làm sắc thêm câu hỏi về chương trình: hãy sắp xếp và thưởng cho việc luyện tập độc lập thay vì giả định rằng đầu ra có AI hỗ trợ xây được năng lực giám sát công việc.
+
 
 Với việc rà soát chương trình, hãy tách các phép đo. Hiệu suất học phần, năng lực AI được thể hiện, đánh giá của người giám sát thực tập, tình trạng việc làm và chất lượng công việc là những kết quả khác nhau với những chân trời thời gian khác nhau, và một can thiệp duy nhất không thể xác lập được tất cả. [[ai-literacy-evidence|Bằng chứng về năng lực AI]] là bản kiểm kê trung thực về điều mà các nghiên cứu can thiệp thực sự ủng hộ.
 
 ## Giải quyết nỗi lo nghề nghiệp mà không hứa hẹn sự chắc chắn
 
-Sinh viên đến với những nỗi sợ thật, và tài liệu khảo sát về chúng mô tả các nỗi sợ chứ không dự báo thị trường lao động. [[duan-ai-anxiety-career-decisions-college-2026|Duan và cộng sự (2026)]] phát hiện lo âu về AI dự báo trực tiếp và tiêu cực cho các quyết định nghề nghiệp, đó là một phát hiện về sự tê liệt trong quyết định, không phải về việc làm. [[ai-anxiety-wellbeing|Bức tranh về sức khỏe tinh thần]] bao quát bằng chứng rộng hơn.
+Sinh viên đến với những nỗi sợ thật, và tài liệu khảo sát về chúng mô tả các nỗi sợ chứ không dự báo thị trường lao động. [[duan-ai-anxiety-career-decisions-college-2026|Duan và cộng sự (2026)]] phát hiện [[anxiety-and-stress|lo âu về AI]] dự báo trực tiếp và tiêu cực cho các quyết định nghề nghiệp, đó là một phát hiện về sự tê liệt trong quyết định, không phải về việc làm. [[ai-anxiety-wellbeing|Bức tranh về sức khỏe tinh thần]] bao quát bằng chứng rộng hơn.
 
 Điều giúp ích là điều tra ở quy mô mà sinh viên có thể hành động: vai trò này thực sự gồm những nhiệm vụ nào, một tuần làm việc trông ra sao, tôi sẽ cần làm được gì, ai có thể cho tôi biết. Dịch vụ hướng nghiệp, cựu sinh viên và nhân viên bố trí việc làm nắm những thông tin đó. Một buổi trình diễn công cụ, ấn tượng của giảng viên hay bài thuyết trình của nhà cung cấp không phải dự báo thị trường lao động, và trình bày nó như thể là dự báo chính là cách các chương trình mất uy tín với những sinh viên rồi sẽ đi kiểm tra.
 
 ## Những gì sẽ quay lại với bạn
 
-**“Sinh viên chỉ cần viết prompt tốt hơn.”** Viết prompt là một mệnh đề của một trong sáu phần. Một yêu cầu được nêu rõ không cung cấp kiến thức cần thiết để nhận ra kết quả tồi, và các nhà tuyển dụng trong hội đồng Ithaka cũng không xếp kỹ năng viết prompt lên đầu.
+**“Sinh viên chỉ cần [[prompt-engineering|viết prompt]] tốt hơn.”** Viết prompt là một mệnh đề của một trong sáu phần. Một yêu cầu được nêu rõ không cung cấp kiến thức cần thiết để nhận ra kết quả tồi, và các nhà tuyển dụng trong hội đồng Ithaka cũng không xếp kỹ năng viết prompt lên đầu.
 
 **“Nếu nơi làm việc cho phép AI thì bài học cũng nên cho phép.”** Một học phần còn xây dựng năng lực làm cho việc sử dụng có trách nhiệm trở nên khả thi. Hãy nói rõ trong mỗi nhiệm vụ bạn đang đánh giá cái nào trong hai, và phản đối ấy trở thành một câu hỏi thiết kế thay vì một mâu thuẫn.
 
@@ -125,4 +128,4 @@ Sinh viên đến với những nỗi sợ thật, và tài liệu khảo sát v
 
 [[career-development-and-readiness]] là trang khái niệm về khả năng được tuyển dụng, khả năng thích ứng và bằng chứng về lực lượng lao động, còn [[ai-literacy]] bao quát ý nghĩa của năng lực AI vượt ra ngoài thao tác công cụ. Về việc đưa nó vào một học phần cụ thể, xem [[incorporating-ai-literacy|đưa năng lực AI vào giảng dạy]] và [[faculty-ai-competencies|những năng lực giảng viên cần có]].
 
-Về thiết kế đánh giá làm cho hiệu suất có hỗ trợ và hiệu suất độc lập trở nên phân biệt được, xem [[redesign-assessment-ai-era|thiết kế lại đánh giá trong kỷ nguyên AI]] và [[ai-grading-fairness-reliability|chấm bài bằng AI]]. Về cách giữ cho hỗ trợ không trở thành phụ thuộc, xem [[reducing-over-reliance|giảm phụ thuộc quá mức]].
+Về [[assessment|thiết kế đánh giá]] làm cho hiệu suất có hỗ trợ và hiệu suất độc lập trở nên phân biệt được, xem [[redesign-assessment-ai-era|thiết kế lại đánh giá trong kỷ nguyên AI]] và [[ai-grading-fairness-reliability|chấm bài bằng AI]]. Về cách giữ cho hỗ trợ không trở thành phụ thuộc, xem [[reducing-over-reliance|giảm phụ thuộc quá mức]].

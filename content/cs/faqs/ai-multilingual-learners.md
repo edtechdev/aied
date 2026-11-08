@@ -1,9 +1,9 @@
 ---
 title: "Jak může AI podpořit vícejazyčné studenty, aniž by špatně posoudila jejich znalosti nebo setřela jejich hlas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Student rozumí pojmu a potřebuje čtyři minuty navíc, aby to řekl anglicky. AI může přeložit zadání, vysvětlit terminologii, nacvičit s ním vysvětlení, nebo napsat celou odpověď. Tři z těch možností jsou výuka. Jedna je splnění úkolu za studenta.
 
-Krátká odpověď pro kolegu: než rozhodnete, co nástroj smí dělat, rozhodněte, co v této úloze dělá jazyk. Tam, kde je jazyk okrajový, může AI odstranit překážku, která s vaším konstruktem nemá nic společného. Tam, kde je jazykem konstrukt, stejný nástroj obchází učení. Riziko běží oběma směry naráz: [[multilingual-learning|jazyková podpora]] může zlepšit přístup a automatizované skórování může studenta pořád přečíst špatně. V jedné fyzikální studii byly výklady nižší jazykové kvality systematicky hodnoceny níž, než určil odborný úsudek, a to u každého testovaného přístupu ke skórování pomocí AI, u devíti systémů strojového učení a dvou jazykových modelů napříč 116 studenty středních škol ([[ai-scoring-language-bias-physics|Feser a Tschisgale, 2026]]). Plynulost a porozumění se skórovaly jako jedna věc.
+Krátká odpověď pro kolegu: než rozhodnete, co nástroj smí dělat, rozhodněte, co v této úloze dělá jazyk. Tam, kde je jazyk okrajový, může AI odstranit překážku, která s vaším konstruktem nemá nic společného. Tam, kde je jazykem konstrukt, stejný nástroj obchází učení. Riziko běží oběma směry naráz: [[multilingual-learning|jazyková podpora]] může zlepšit přístup a [[automated-assessment|automatizované skórování]] může studenta pořád přečíst špatně. V jedné fyzikální studii byly výklady nižší jazykové kvality systematicky hodnoceny níž, než určil odborný úsudek, a to u každého testovaného přístupu ke skórování pomocí AI, u devíti systémů [[machine-learning|strojového učení]] a dvou jazykových modelů napříč 116 studenty středních škol ([[ai-scoring-language-bias-physics|Feser a Tschisgale, 2026]]). Plynulost a porozumění se skórovaly jako jedna věc.
 
 ## Stručně
 
@@ -45,13 +45,13 @@ Krátká odpověď pro kolegu: než rozhodnete, co nástroj smí dělat, rozhodn
 
 ## Rozhodněte, co dělá jazyk
 
-Ve výkladu z biologie je gramatika pro posuzovaný pojem většinou okrajová. V jazykovém kurzu je produkování a revidování určitých struktur to učení. V profesní komunikaci se počítá oborová přesnost, publikum i registr. Stejný překladový nástroj je v prvním případě vhodný, ve druhém sporný a ve třetím vyjednatelný.
+Ve výkladu z [[biology-education|biologie]] je gramatika pro posuzovaný pojem většinou okrajová. V jazykovém kurzu je produkování a revidování určitých struktur to učení. V profesní komunikaci se počítá oborová přesnost, publikum i registr. Stejný překladový nástroj je v prvním případě vhodný, ve druhém sporný a ve třetím vyjednatelný.
 
-Rozhodnutí napište tam, kde si ho studenti mohou přečíst. Pokud studenti smějí překládat zadání, ale musí vysvětlení v cílovém jazyce vytvořit bez pomoci, řekněte to výslovně. Pokud je povolena terminologická podpora, určete, co student musí pořád vysvětlit a ověřit. Pak to uspořádání zkontrolujte proti požadavkům na úpravy a proti institucionální politice, místo abyste každou formu jazykové pomoci považovali za zaměnitelnou. Student s doloženou úpravou a student, který se vyhýbá procvičování, mohou žádat totéž, a jen druhý případ je váš výukový problém.
+Rozhodnutí napište tam, kde si ho studenti mohou přečíst. Pokud studenti smějí překládat zadání, ale musí vysvětlení v cílovém jazyce vytvořit bez pomoci, řekněte to výslovně. Pokud je povolena terminologická podpora, určete, co student musí pořád vysvětlit a ověřit. Pak to uspořádání zkontrolujte proti požadavkům na úpravy a proti [[educational-policy-ai|institucionální politice]], místo abyste každou formu jazykové pomoci považovali za zaměnitelnou. Student s doloženou úpravou a student, který se vyhýbá procvičování, mohou žádat totéž, a jen druhý případ je váš výukový problém.
 
 ## Co výzkum podporuje a co ne
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez a Arabadzhy (2026)]] prošli 24 empirických studií o generativních chatbotů v jazykovém učení. Jejich přínos je taxonomický: každá dílčí affordance katalogizovaná u pregenerativních chatbotů přetrvává a tři jsou nové, včetně **translanguagingu**, záměrného přecházení mezi jazyky jako součásti učení. To je mapa hlášených použití a zkušeností, ne souhrnný odhad, a korpus je geograficky koncentrovaný: Čína, Írán, Tchaj-wan a Turecko tvoří 19 z 24 studií a všechny kromě jedné sady proběhly ve formálních institucích. Podpora použití vysvětlení napříč jazyky jako učebního kroku není podporou překladu každého zadání.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez a Arabadzhy (2026)]] prošli 24 empirických studií o generativních [[conversational-ai|chatbotech]] v [[language-learning|jazykovém učení]]. Jejich přínos je taxonomický: každá dílčí affordance katalogizovaná u pregenerativních chatbotů přetrvává a tři jsou nové, včetně **translanguagingu**, záměrného přecházení mezi jazyky jako součásti učení. To je mapa hlášených použití a zkušeností, ne souhrnný odhad, a korpus je geograficky koncentrovaný: Čína, Írán, Tchaj-wan a Turecko tvoří 19 z 24 studií a všechny kromě jedné sady proběhly ve formálních institucích. Podpora použití vysvětlení napříč jazyky jako učebního kroku není podporou překladu každého zadání.
 
 Hodnocení je místo, kde se důkazy zostřují a sázky rostou. [[ai-scoring-language-bias-physics|Feser a Tschisgale (2026)]] porovnali jedenáct přístupů k automatizovanému skórování s odborným lidským skóre u fyzikálních výkladů 116 studentů středních škol a našli systematické podhodnocení pojmového porozumění u jazykově slabších výkladů, a to v každém jednotlivém přístupu. Design izoluje mechanismus: stejný pojmový obsah vyjádřený slabší prózou dostal nižší skóre. Není to tvrzení o vícejazyčných studentech žádné konkrétní země a je to přesně ten vzorec, který dělá z celkové shody špatnou diagnostiku. Hodnotitel může průměrně souhlasit s lidskými hodnotiteli a přitom se mýlit konzistentním směrem u studentů, jejichž jazyk se teprve vyvíjí.
 
@@ -116,7 +116,7 @@ Poskytněte použitelné alternativy. Studenti potřebují jasnou cestu k lidsk�
 
 **4.** Přidejte jednu kontrolu, která zaznamená studentův vlastní význam nebo rozhodnutí, například dvouvětou poznámku o změně, kterou přijal nebo odmítl.
 
-**5.** Pokud vaše rubrika skóruje kvalitu psaní, oddělte to kritérium od pojmového a přečtěte znovu dvě odevzdání od každého s tím rozdělením na mysli.
+**5.** Pokud vaše rubrika skóruje [[writing-education|kvalitu psaní]], oddělte to kritérium od pojmového a přečtěte znovu dvě odevzdání od každého s tím rozdělením na mysli.
 
 ## Kam dál
 

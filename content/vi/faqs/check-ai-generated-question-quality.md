@@ -1,7 +1,7 @@
 ---
 title: "Làm sao tôi kiểm tra được liệu câu hỏi trắc nghiệm và đề thi do AI tạo ra có thực sự tốt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -46,7 +46,7 @@ Câu trả lời ngắn để nói với đồng nghiệp: câu hỏi được t
 
 Việc tạo câu hỏi đủ rẻ để định dạng đầu ra âm thầm trở thành bản đặc tả. Nếu ghi chú của bạn tạo ra những câu trắc nghiệm gọn gàng, bạn sẽ kết thúc bằng việc đo xem sinh viên có chọn được giữa những phát biểu nghe hợp lý hay không, bất kể đề cương tuyên bố kết quả gì.
 
-Hãy nêu kết quả trước, rồi bằng chứng mà một câu trả lời đạt yêu cầu sẽ cung cấp, rồi kiến thức mà sinh viên được kỳ vọng mang theo. Bao gồm học liệu của học phần, những hiểu lầm bạn dự đoán, mọi công cụ được phép và định dạng trả lời. Nếu bạn muốn sinh viên diễn giải bằng chứng, câu hỏi phải đòi hỏi việc diễn giải, và chỉ thêm từ đó vào một câu hỏi định nghĩa thì không làm được điều ấy. Một tình huống dài vẫn có thể trả lời được nhờ một cụm từ quen thuộc làm lộ đáp án.
+Hãy nêu kết quả trước, rồi bằng chứng mà một câu trả lời đạt yêu cầu sẽ cung cấp, rồi kiến thức mà sinh viên được kỳ vọng mang theo. Bao gồm học liệu của học phần, những [[misconceptions|hiểu lầm]] bạn dự đoán, mọi công cụ được phép và định dạng trả lời. Nếu bạn muốn sinh viên diễn giải bằng chứng, câu hỏi phải đòi hỏi việc diễn giải, và chỉ thêm từ đó vào một câu hỏi định nghĩa thì không làm được điều ấy. Một tình huống dài vẫn có thể trả lời được nhờ một cụm từ quen thuộc làm lộ đáp án.
 
 Bản đồ đề là một bảng đối chiếu kết quả với câu hỏi, và giá trị của nó là phơi ra các lỗ hổng trước khi sinh viên phơi ra chúng. Nó cũng làm cho sự đánh đổi trở nên hữu hình: mỗi câu bạn tạo từ phần học liệu dễ nhất là một câu bạn không dành cho kết quả mà bạn quan tâm nhất.
 
@@ -68,7 +68,7 @@ Một mô hình thứ hai có thể giúp bạn phát hiện vấn đề, và s�
 
 ## Đừng để nhãn độ khó quyết định
 
-Tài liệu về [[automated-question-generation|tạo câu hỏi]] hữu ích hơn ở chỗ nói về sự thất bại của các nhãn so với chỗ nói về thành công của việc tạo câu hỏi. [[student-llm-use-ai-question-difficulty-data-science-2026|An và Wang (2026)]] xem xét 378 câu hỏi do tác giả viết trong các học phần khoa học dữ liệu, trong đó 311 câu đã được đưa vào sử dụng với 54 sinh viên qua 7,888 lượt trả lời. Các nhãn dễ, trung bình và khó của mô hình tương quan với các mức Bloom do chính nó tạo ra cùng lúc ở mức ρ = 0.90 và với độ khó thực nghiệm của câu hỏi ở mức ρ = 0.06. Khoảng 70% số câu đã đưa vào sử dụng được mọi sinh viên trả lời đúng, điều này khiến gần như không còn biến thiên nào để một nhãn độ khó bám vào, ngay cả về nguyên tắc.
+Tài liệu về [[automated-question-generation|tạo câu hỏi]] hữu ích hơn ở chỗ nói về sự thất bại của các nhãn so với chỗ nói về thành công của việc tạo câu hỏi. [[student-llm-use-ai-question-difficulty-data-science-2026|An và Wang (2026)]] xem xét 378 câu hỏi do tác giả viết trong các học phần khoa học dữ liệu, trong đó 311 câu đã được đưa vào sử dụng với 54 sinh viên qua 7,888 lượt trả lời. Các nhãn dễ, trung bình và khó của mô hình tương quan với các mức Bloom do chính nó tạo ra cùng lúc ở mức ρ = 0.90 và với [[item-response-theory|độ khó câu hỏi]] thực nghiệm ở mức ρ = 0.06. Khoảng 70% số câu đã đưa vào sử dụng được mọi sinh viên trả lời đúng, điều này khiến gần như không còn biến thiên nào để một nhãn độ khó bám vào, ngay cả về nguyên tắc.
 
 Hai bài học rút ra. Thứ nhất, độ khó là thuộc tính của tương tác giữa một câu hỏi và một tập người học, nên không nhãn nào được tạo trước khi dùng câu hỏi có thể được tin như một giá trị đã đo. Thứ hai, một ngân hàng câu hỏi mà ai cũng trả lời đúng không phải một bài đánh giá dễ, nó là một bài đánh giá vô dụng: nó gần như không mang thông tin về việc ai biết gì.
 
@@ -91,6 +91,9 @@ Hãy sửa, và giữ hồ sơ: phiên bản đã duyệt, kết quả mà nó p
 Trong một học phần nhập môn xã hội học, kết quả có thể là phân biệt một lời giải thích cấu trúc với một lời giải thích cá nhân. Một câu hỏi yếu yêu cầu sinh viên định nghĩa “cấu trúc”, điều này đo việc nhận diện từ vựng. Một ứng viên mạnh hơn đưa ra một tình huống ngắn về một gia đình và một quyết định việc làm, rồi hỏi lời giải thích nào xác định đúng nhất một ràng buộc cấu trúc, với các phương án nhiễu đại diện cho những cách diễn giải hợp lý nhưng khác nhau.
 
 Giảng viên kiểm tra rằng tình huống thực sự ủng hộ đáp án, rằng không có hai lựa chọn nào diễn đạt cùng một ý, và rằng việc trả lời không phụ thuộc vào thuật ngữ mà học phần chưa từng giới thiệu. Một câu hỏi tiếp nối một dòng, “chi tiết nào ủng hộ lựa chọn của bạn?”, làm hiện ra lập luận mà lựa chọn đã chọn che giấu. Cách điều chỉnh này chưa được kiểm nghiệm như một dạng câu hỏi, và giá trị của nó hẹp hơn: những câu hỏi xem xét ở trên có thể được trả lời trước khi một câu hỏi được đưa vào sử dụng, và một đáp án tồi có thể được sửa trước khi sinh viên nhìn thấy nó.
+
+Khi sinh viên bày tỏ sự không thích ở quy mô lớn, tín hiệu đó có cấu trúc. Trong một phân tích 5,214,211 phiên trên các câu hỏi luyện tập được trình bày bên trong một nền tảng sách giáo trình, lượt không thích đến với tỷ lệ 2.00 trên 1.000 phiên so với 3.31 lượt thích, và chỉ 22,844 trong số 809,848 câu hỏi từng nhận được một đánh giá ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson và cộng sự, 2025]]). Mô thức trong các phiếu bầu không ngẫu nhiên: những câu hỏi đòi đáp án là trạng từ thu hút 5.23 lượt không thích trên 1.000 so với 1.76 ở đáp án là tính từ, và tầm quan trọng của câu (tỷ số chênh 2.38) cùng độ tương đồng của văn bản đáp án (1.64) cũng làm thay đổi đánh giá. Quy tắc ngón tay cái đã được tinh chỉnh của các tác giả là khoảng 1.62 lượt không thích trên 1.000 khi cả hai tín hiệu tầm quan trọng đều có mặt. Điểm thực hành là đánh giá của sinh viên là một kênh đo chậm nhưng thật: một nền tảng loại bỏ những câu hỏi bị không thích lặp lại sẽ khép kín vòng lặp, và một giảng viên đang thử vài câu hỏi nhận được tín hiệu tương tự nhanh hơn bằng cách hỏi sinh viên đã nghi ngờ chi tiết nào.
+
 
 Với sinh viên tự tạo câu hỏi luyện tập, quy tắc tương tự áp dụng ở mức của họ: thử làm câu hỏi, đối chiếu lời giải thích với nguồn của học phần, và mang những ca không thể giải quyết tới người biết môn học. [[study-with-ai|Việc luyện tập]] huấn luyện sinh viên chấp nhận đáp án được tạo ra mà không phê phán là dạy thói quen sai.
 

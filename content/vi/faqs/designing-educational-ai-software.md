@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Câu trả lời hẹp hơn hầu hết các đặc tả sản phẩm giả đ�
 
 **1.** Viết ra hệ thống quyết định gì và giáo viên quyết định gì. Ranh giới đó trở thành kiến trúc.
 
-**2.** Đánh giá tương tác nhiều lượt, nhận biết ngành học, trên chương trình học thật, không phải đánh giá từng prompt đơn lẻ theo một rubric an toàn chung.
+**2.** Đánh giá tương tác nhiều lượt, nhận biết ngành học, trên [[curriculum-design|chương trình học]] thật, không phải đánh giá từng prompt đơn lẻ theo một rubric an toàn chung.
 
 **3.** Neo câu trả lời vào nội dung được phê duyệt, và giữ thành phần thẩm định tách biệt khỏi thành phần hội thoại.
 
@@ -65,7 +65,7 @@ Phần chuyển được sang là sự tách biệt: các thành phần thẩm �
 
 ## Coi bài làm của sinh viên là đầu vào không đáng tin
 
-Mô hình mối đe dọa mà hầu hết lời khuyên thiết kế bỏ sót nằm ngay bên trong sản phẩm đang được đánh giá. [[humble-prompt-injection-ai-grading-red-team-2026|Đánh giá red-team đối kháng của Humble (2026)]] kiểm tra xem sinh viên có thể thao túng một bộ chấm điểm dựa trên LLM bằng cách chèn prompt trong bài nộp của mình hay không, và việc thao túng đã thành công: những câu chèn nhằm chỉ dẫn, đặt lại khung vấn đề hoặc nhập vai bộ chấm đều làm thay đổi điểm số mà không thay đổi bài làm.
+Mô hình mối đe dọa mà hầu hết lời khuyên thiết kế bỏ sót nằm ngay bên trong sản phẩm đang được đánh giá. [[humble-prompt-injection-ai-grading-red-team-2026|Đánh giá red-team đối kháng của Humble (2026)]] kiểm tra xem sinh viên có thể thao túng một bộ chấm điểm dựa trên [[llm|LLM]] bằng cách chèn prompt trong bài nộp của mình hay không, và việc thao túng đã thành công: những câu chèn nhằm chỉ dẫn, đặt lại khung vấn đề hoặc nhập vai bộ chấm đều làm thay đổi điểm số mà không thay đổi bài làm.
 
 Hãy giữ rubric và các chỉ dẫn ở ngoài cửa sổ ngữ cảnh do sinh viên kiểm soát, loại bỏ hoặc gắn cờ những nội dung giống chỉ dẫn, không bao giờ để một bài nộp tự đặt tiêu chí cho chính nó, và giữ quyết định của con người với mọi điểm số hệ trọng. Một bộ chấm đọc chỉ dẫn của nó từ chính văn bản mà nó đánh giá là đã trao rubric cho thí sinh.
 
@@ -96,6 +96,9 @@ Một mô hình lớn hơn sẽ sửa được phần sư phạm. Quy mô không
 Một chỉ mục truy hồi tốt nghĩa là nội dung đã được xử lý. EduGuard ghép truy hồi với một bộ thẩm định riêng và kiểm thử các prompt đối kháng đòi đáp án trực tiếp, vì truy hồi được neo vẫn để lại một đường dẫn tới việc tiết lộ quá mức.
 
 Giáo viên là phương án dự phòng. Cả sáu giáo viên trong nghiên cứu thiết kế đều yêu cầu ghi chép, cảnh báo và khả năng ghi đè như một điều kiện của trách nhiệm nghề nghiệp. Một phiếu hỗ trợ không phải là quyền ghi đè.
+
+Sự thích thú thay thế được cho sự phù hợp. Trong một khảo sát 405 sinh viên cao học thiết kế ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), sự phù hợp giữa nhiệm vụ và công nghệ có đường dẫn riêng tới thái độ (β = 0.224) bên cạnh [[technology-acceptance-model|nhận thức hữu ích]], và đặc điểm của nhiệm vụ dẫn dắt sự phù hợp mạnh hơn đặc điểm của công cụ (β = 0.322 so với 0.266). Sự thích thú được nhận thức làm tăng mức dễ sử dụng và không tác động gì tới tính hữu ích (β = −0.033, p = 0.483). Niềm vui đáng được xây dựng, nhưng nó không thay thế cho việc khớp các chức năng với từng bước của bài tập.
+
 
 Khả năng tiếp cận là một phiếu làm sau. Nó nằm trong đặc tả hoặc nó trở thành một lần viết lại, và văn bản thay thế cùng phụ đề do AI tạo vẫn cần con người kiểm tra.
 

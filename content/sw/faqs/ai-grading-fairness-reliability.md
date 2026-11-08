@@ -1,9 +1,9 @@
 ---
 title: "Je, Ninaweza Kutumia AI Kupa Alama Kazi za Wanafunzi kwa Haki na kwa Uthabiti?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
@@ -48,7 +48,7 @@ Mipangilio mitatu huitwa "AI ya kupa alama", na kila mmoja una wajibu tofauti.
 
 **Msaidizi wa maoni** huandika rasimu ya maoni au kuashiria upungufu unaowezekana ili wewe ukubali, uandike upya au kuachana nao. Hatari inabaki kwenye ubora wa maoni, na unasoma kila kitu kabla hakijafika kwa mwanafunzi. **Msomaji wa pili** hupendekeza alama za vigezo au kuashiria kutokubaliana ili kupanga upaaji wako mwenyewe wa alama. Makosa yake yanapaswa kuwa ya manufaa badala ya kuwa makosa matupu: ishara inayokurudisha kwenye wasilisho ambalo ungelipa alama kwa ulegevu inafaa kuwa na thamani. **Mkadiriaji mkuu** huzalisha alama zinazokuwa alama zilizorekodiwa. Huo ndio mpangilio ambao ushahidi katika hifadhidata hii hauungi mkono nje ya hali nyembamba zilizohakikiwa kienyeji.
 
-Chagua ngazi ya chini kabisa inayoshughulikia kikwazo chako halisi. Kama mzigo wako wa kupa alama unatokana na kuangalia ufunguo maalum wa majibu, upaaji wa alama wa kawaida wa kubainisha ni wazi na unaoweza kukaguliwa zaidi kuliko mfano wa lugha, na utafiti wa famasia unadokeza kwamba faida ya LLM kwenye vipengele vyenye jibu la kiolengwa ilikuwa sehemu ya athari ya kupewa majibu sahihi wakati wa kupa alama. Weka akiba mfano kwa kazi inayohitaji tafsiri, kisha hakiki tafsiri hiyo.
+Chagua ngazi ya chini kabisa inayoshughulikia kikwazo chako halisi. Kama mzigo wako wa kupa alama unatokana na kuangalia ufunguo maalum wa majibu, upaaji wa alama wa kawaida wa kubainisha ni wazi na unaoweza kukaguliwa zaidi kuliko [[llm|mfano wa lugha]], na utafiti wa famasia unadokeza kwamba faida ya LLM kwenye vipengele vyenye jibu la kiolengwa ilikuwa sehemu ya athari ya kupewa majibu sahihi wakati wa kupa alama. Weka akiba mfano kwa kazi inayohitaji tafsiri, kisha hakiki tafsiri hiyo.
 
 [[automated-assessment|Tathmini ya kiotomatiki]] inashughulikia mashine pana zaidi ya upaaji wa alama, usawazishaji na uzalishaji wa maoni. Ukurasa huu ni swali la hukumu lililo chini yake.
 

@@ -1,9 +1,9 @@
 ---
 title: "Come può l'IA sostenere gli studenti multilingui senza fraintendere le loro conoscenze o cancellare la loro voce?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Uno studente ha capito il concetto e ha bisogno di quattro minuti in più per dirlo in inglese. L'IA può tradurre la consegna, definire la terminologia, esercitare la spiegazione con lui o scrivere l'intera risposta. Tre di queste cose sono insegnamento. Una è fare il compito al posto dello studente.
 
-Risposta breve da dare a un collega: decidi cosa fa la lingua in questo compito prima di decidere cosa può fare lo strumento. Dove la lingua è accessoria, l'IA può rimuovere una barriera che non ha nulla a che vedere con il tuo costrutto. Dove la lingua è il costrutto, lo stesso strumento aggira l'apprendimento. Il rischio corre in entrambe le direzioni insieme: [[multilingual-learning|il supporto linguistico]] può migliorare l'accesso, e la valutazione automatizzata può comunque fraintendere lo studente. In uno studio di fisica, le spiegazioni di qualità linguistica inferiore sono state sistematicamente valutate sotto il giudizio esperto da ogni approccio di valutazione automatizzata testato, nove sistemi di machine learning e due di modelli linguistici su 116 studenti delle scuole secondarie ([[ai-scoring-language-bias-physics|Feser e Tschisgale, 2026]]). Fluenza e comprensione venivano valutate come un'unica cosa.
+Ecco la risposta breve: decidi cosa fa la lingua in questo compito prima di decidere cosa può fare lo strumento. Dove la lingua è accessoria, l'IA può rimuovere una barriera che non ha nulla a che vedere con il tuo costrutto. Dove la lingua è il costrutto, lo stesso strumento aggira l'apprendimento. Il rischio corre in entrambe le direzioni insieme: [[multilingual-learning|il supporto linguistico]] può migliorare l'accesso, e la [[automated-assessment|valutazione automatizzata]] può comunque fraintendere lo studente. In uno studio di fisica, le spiegazioni di qualità linguistica inferiore sono state sistematicamente valutate sotto il giudizio esperto da ogni approccio di valutazione automatizzata testato, nove sistemi di [[machine-learning|machine learning]] e due di modelli linguistici su 116 studenti delle scuole secondarie ([[ai-scoring-language-bias-physics|Feser e Tschisgale, 2026]]). Fluenza e comprensione venivano valutate come un'unica cosa.
 
 ## La versione breve
 
@@ -45,13 +45,13 @@ Risposta breve da dare a un collega: decidi cosa fa la lingua in questo compito 
 
 ## Decidi cosa fa la lingua
 
-In una spiegazione di biologia, la grammatica è per lo più accessoria rispetto al concetto valutato. In un corso di lingua, produrre e rivedere determinate strutture è l'apprendimento. Nella comunicazione professionale contano l'accuratezza disciplinare, il pubblico e il registro. Lo stesso strumento di traduzione è appropriato nel primo caso, discutibile nel secondo e negoziabile nel terzo.
+In una spiegazione di [[biology-education|biologia]], la grammatica è per lo più accessoria rispetto al concetto valutato. In un corso di lingua, produrre e rivedere determinate strutture è l'apprendimento. Nella comunicazione professionale contano l'accuratezza disciplinare, il pubblico e il registro. Lo stesso strumento di traduzione è appropriato nel primo caso, discutibile nel secondo e negoziabile nel terzo.
 
-Scrivi la decisione dove gli studenti possono leggerla. Se gli studenti possono tradurre le consegne ma devono produrre da soli una spiegazione nella lingua di arrivo, dillo esplicitamente. Se il supporto terminologico è ammesso, specifica cosa deve comunque spiegare e verificare lo studente. Poi confronta l'assetto con i requisiti di adattamento e le politiche dell'istituzione, invece di trattare ogni forma di aiuto linguistico come intercambiabile. Uno studente con un adattamento documentato e uno studente che evita la pratica possono chiedere la stessa cosa, e solo il secondo è un tuo problema didattico.
+Scrivi la decisione dove gli studenti possono leggerla. Se gli studenti possono tradurre le consegne ma devono produrre da soli una spiegazione nella lingua di arrivo, dillo esplicitamente. Se il supporto terminologico è ammesso, specifica cosa deve comunque spiegare e verificare lo studente. Poi confronta l'assetto con i requisiti di adattamento e le [[educational-policy-ai|politiche dell'istituzione]], invece di trattare ogni forma di aiuto linguistico come intercambiabile. Uno studente con un adattamento documentato e uno studente che evita la pratica possono chiedere la stessa cosa, e solo il secondo è un tuo problema didattico.
 
 ## Cosa sostiene la ricerca e cosa no
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] hanno passato in rassegna 24 studi empirici sui chatbot generativi nell'apprendimento delle lingue. Il loro contributo è tassonomico: ogni sotto-funzionalità catalogata per i chatbot pre-generativi persiste, e tre sono nuove, tra cui il **translanguaging**, il passaggio deliberato tra lingue come parte dell'apprendimento. È una mappa di usi ed esperienze riportati, non una stima aggregata, e il corpus è concentrato geograficamente, con Cina, Iran, Taiwan e Turchia che coprono 19 dei 24 studi e tutti tranne uno ambientati dentro istituzioni formali. Il sostegno all'uso della spiegazione interlinguistica come mossa di apprendimento non è un sostegno alla traduzione di ogni compito.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] hanno passato in rassegna 24 studi empirici sui [[conversational-ai|chatbot]] generativi nell'[[language-learning|apprendimento delle lingue]]. Il loro contributo è tassonomico: ogni sotto-funzionalità catalogata per i chatbot pre-generativi persiste, e tre sono nuove, tra cui il **translanguaging**, il passaggio deliberato tra lingue come parte dell'apprendimento. È una mappa di usi ed esperienze riportati, non una stima aggregata, e il corpus è concentrato geograficamente, con Cina, Iran, Taiwan e Turchia che coprono 19 dei 24 studi e tutti tranne uno ambientati dentro istituzioni formali. Il sostegno all'uso della spiegazione interlinguistica come mossa di apprendimento non è un sostegno alla traduzione di ogni compito.
 
 La valutazione è il punto in cui l'evidenza si fa più netta e la posta in gioco sale. [[ai-scoring-language-bias-physics|Feser e Tschisgale (2026)]] hanno confrontato undici approcci di valutazione automatizzata con punteggi di esperti umani su spiegazioni di fisica di 116 studenti delle scuole secondarie e hanno trovato una sottostima sistematica della comprensione concettuale per le spiegazioni linguisticamente più deboli, in ognuno degli approcci. Il disegno isola il meccanismo: lo stesso contenuto concettuale, espresso in una prosa più debole, otteneva un punteggio inferiore. Non è un'affermazione sugli studenti multilingui di un paese particolare, ed è esattamente il pattern che rende l'accordo complessivo di punteggio una diagnosi scarsa. Un valutatore può concordare in media con i correttori umani sbagliando in una direzione coerente per gli studenti la cui lingua è ancora in sviluppo.
 
@@ -116,7 +116,7 @@ Offri alternative praticabili. Gli studenti hanno bisogno di un percorso chiaro 
 
 **4.** Aggiungi un controllo che registri il significato o la decisione dello studente, come una nota di due frasi su un cambiamento accettato o rifiutato.
 
-**5.** Se la tua rubrica valuta la qualità della scrittura, separa quel criterio da quello concettuale e rileggi due elaborati per tipo tenendo presente la distinzione.
+**5.** Se la tua rubrica valuta la [[writing-education|qualità della scrittura]], separa quel criterio da quello concettuale e rileggi due elaborati per tipo tenendo presente la distinzione.
 
 ## Dove andare adesso
 

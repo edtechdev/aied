@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Zacząć od etykiety. [[ai-assessment-scale-reform|Skala oceniania z SI (AIAS)]]
 
 Potem zmienić artefakt. [[meta-analysis-systematic-review|Przegląd systematyczny]] 72 badań nad generatywną SI w [[cs-education|edukacji informatycznej]] ocenia przeprojektowanie jako wykonalne i o największym wpływie, i wyróżnia jeden ruch: dodać element ustny lub inaczej ujawniający proces do co najmniej jednego oceniania o wysokiej stawce na kursie. Nazywa to jedyną najskuteczniejszą interwencją w korpusie. Detekcja to najcieńszy obszar, który przegląd obejmuje, zaledwie 3 badania, wobec 60-80% studentów informatyki deklarujących korzystanie z generatywnej SI w pracach kursowych, zwykle bez wyraźnej zgody nauczyciela, i 70% jednej krajowej próby kadry akademickiej wprost proszącej o szkolenie w projektowaniu oceniania odpornego na SI ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Trzyletni kurs informatyczny pokazuje, jak daleko potrafi przesunąć zachowanie rusztowany proces ujawniania. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil i in. (2026)]] wymagali samodzielnego szkicu z czteropunktową listą kontrolną, etapu udoskonalania przez SI bez przepisywania, formularza ujawnienia i ustrukturyzowanej refleksji, przy czym brakujący szkic lub formularz dawał zero. Przyjęcie wzrosło z około dwóch trzecich studentów w warunkach polityki dobrowolnej do 93% w roku z rusztowaniem; 81% i 84% użytkowników SI zgłaszało odrzucanie lub modyfikowanie sugestii, oceniający zakodowali 77-81% prac pod kątem krytycznego zaangażowania, a użycie SI nie przewidywało niezależnie jakości eseju po kontroli wcześniejszych umiejętności pisania. To raport z jednego kursu, a nie badanie kontrolowane, ale pokazuje, jak praca nad rzetelnością przesuwa się od wykrywania do warunków, w których studenci ujawniają i poprawiają.
+
+
 Menu, z grubsza w kolejności od tego, jak dobrze każda opcja przetrwa dużą grupę.
 
-Samodzielnie, w sali, bez materiałów: egzaminy nadzorowane, kartkówki, pisanie z limitem czasu. Należy je ważyć mocniej niż dotąd, bo praca domowa to artefakt, który SI zawyża. Egzaminy ustne i obrony działają z tego samego powodu, bo dialog w czasie rzeczywistym trudno outsourcować ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Samodzielnie, w sali, bez materiałów: egzaminy nadzorowane, kartkówki, pisanie z limitem czasu. Należy je ważyć mocniej niż dotąd, bo praca domowa to artefakt, który SI zawyża. [[oral-assessment|Egzaminy ustne]] i obrony działają z tego samego powodu, bo dialog w czasie rzeczywistym trudno outsourcować ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Artefakty procesu: szkice, ślady rozumowania, opatrzone komentarzem „pokaż swoje myślenie”, dzienniki rewizji, żeby widoczny był *proces*, a nie tylko produkt ([[authentic-products-authenticated-processes-2026]]). Obok nich działają zadania autentyczne: lokalne przypadki, materiał ze stażu, własne dane studenta, cokolwiek trudno delegować ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Artefakty procesu: szkice, ślady rozumowania, opatrzone komentarzem „pokaż swoje myślenie”, dzienniki rewizji, żeby widoczny był *proces*, a nie tylko produkt ([[authentic-products-authenticated-processes-2026]]). Obok nich działają [[authentic-assessment|zadania autentyczne]]: lokalne przypadki, materiał ze stażu, własne dane studenta, cokolwiek trudno delegować ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Zróżnicowanie zadania na studenta, gdzie każdy dostaje wersję powierzchownie odrębną, ale równoważną konstruktowo, czyni kopiowanie strukturalnie bezużytecznym. Tę gwarancję trzeba traktować jako warunkową wobec zdolności: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] stwierdziła, że generatory z czołówki osiągają tylko 0,81-0,88 na łącznym wskaźniku integralności, podczas gdy modele spoza czołówki spadają do 0,50-0,55. Jeśli warianty nie są równoważne, kupiono ochronę przed dzieleniem się razem z niesprawiedliwością między studentami.
 
@@ -96,7 +99,7 @@ Zasadę trzeba też napisać precyzyjnie. [[wright-transcription-not-generation-
 
 Zakaz narzędzia i zezwolenie bez struktury dają ten sam wynik: studentów stojących obok pracy poznawczej.
 
-Synteza Ograniczanie niewłaściwego korzystania z SI podaje osiem zasad projektowych dla wersji dozwolonej, w tym: zachować [[desirable-difficulties|tarcie poznawcze]], ustawić SI jako tymczasowego partnera myślenia, a nie autorytet, wbudować punkty kontroli oceny oraz wymagać [[metacognition|metapoznawczego]] dziennikowania i dzienników promptów.
+Synteza Ograniczanie niewłaściwego korzystania z SI podaje osiem zasad projektowych dla wersji dozwolonej, w tym: zachować [[desirable-difficulties|tarcie poznawcze]], ustawić SI jako tymczasowego partnera myślenia, a nie autorytet, wbudować punkty kontroli oceny oraz wymagać [[metacognition|metapoznawczego]] [[reflection|dziennikowania]] i dzienników promptów.
 
 Sekwencja, która niesie te zasady, jest dość krótka, by wydrukować ją na karcie zadania:
 
@@ -122,7 +125,7 @@ Zmierzonym przykładem jest moduł [[k-12|K-12]] wykorzystujący ćwiczenie prom
 
 To, w co studenci faktycznie wierzą, jest mniej cyniczne, niż sugeruje panika. Wśród 504 studentów socjologii 65% korzystało z generatywnej SI przy pracach kursowych, ale tylko 3% do generowania tekstu zadania i 2% do wygenerowania pełnego szkicu. 81% otrzymało jakiekolwiek wytyczne dotyczące SI, a tylko 46% uznało je za bardzo jasne ([[student-genai-use-views-writing]]). Praktycznym problemem jest niejednoznaczność, a nie bunt, dlatego jasna zasada plus wyuczona sekwencja zmieniają więcej zachowań niż ostrzeżenie. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa i Mezgebu (2026)]] opisują studentów pytających, czy generatywna SI to narzędzie ułatwiające oszukiwanie, czy partner wspierający uczenie się, i to pytanie powinny rozstrzygać oczekiwania.
 
-Szkodą wartą wyraźnego nauczania jest [[ai-misuse-learning-harm|luka między wynikiem a uczeniem się]]: wynik rośnie teraz, uczenie się spada później, a student doświadcza tylko pierwszego. [[ai-tools-academic-work-cheating-2026|Narzędzia SI w pracy akademickiej]] i [[student-rationalization-ai-writing|racjonalizacje studentów]] obejmują stronę norm rówieśniczych i racjonalizacji, w tym obronę „wszyscy to robią”, którą jasna norma spłaszcza. O tym, jak mocna jest ta baza, mówią [[ai-literacy-evidence|dowody o kompetencjach w zakresie SI]] i [[top-10-findings-ai-education-instructors|dziesięć najważniejszych ustaleń dla nauczycieli akademickich]].
+Szkodą wartą wyraźnego nauczania jest [[ai-misuse-learning-harm|luka między wynikiem a uczeniem się]]: wynik rośnie teraz, uczenie się spada później, a [[student-experience|student doświadcza]] tylko pierwszego. [[ai-tools-academic-work-cheating-2026|Narzędzia SI w pracy akademickiej]] i [[student-rationalization-ai-writing|racjonalizacje studentów]] obejmują stronę norm rówieśniczych i racjonalizacji, w tym obronę „wszyscy to robią”, którą jasna norma spłaszcza. O tym, jak mocna jest ta baza, mówią [[ai-literacy-evidence|dowody o kompetencjach w zakresie SI]] i [[top-10-findings-ai-education-instructors|dziesięć najważniejszych ustaleń dla nauczycieli akademickich]].
 
 ## Co nauczyciele akademiccy rozumieją tu błędnie
 

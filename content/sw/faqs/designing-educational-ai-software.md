@@ -7,7 +7,7 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ Jibu ni jembamba kuliko vipimo vingi vya bidhaa vinavyodhani. AI ya kielimu hufa
 
 **1.** Andika mfumo unaamua nini na mwalimu anaamua nini. Mpaka huo unakuwa usanifu.
 
-**2.** Tathmini mwingiliano wa hatua nyingi unaojua taaluma dhidi ya mtaala halisi, si maswali ya hatua moja dhidi ya vigezo vya jumla vya usalama.
+**2.** Tathmini mwingiliano wa hatua nyingi unaojua taaluma dhidi ya [[curriculum-design|mtaala]] halisi, si maswali ya hatua moja dhidi ya vigezo vya jumla vya usalama.
 
 **3.** Tegemeza majibu kwenye maudhui yaliyoidhinishwa, na utenganishe sehemu ya uthibitishaji na ile ya mazungumzo.
 
@@ -67,7 +67,7 @@ Sehemu inayoweza kuhamishwa ni utenganishaji: sehemu zinazothibitisha hazizungum
 
 ## Chukulia kazi ya mwanafunzi kama maingizo yasiyoaminika
 
-Mfano wa tishio ambao ushauri mwingi wa usanifu huacha uko ndani ya kazi inayotathminiwa. [[humble-prompt-injection-ai-grading-red-team-2026|Tathmini ya timu nyekundu ya Humble (2026)]] ilijaribu kama wanafunzi wangeweza kudanganya mpimaji unaotegemea LLM kwa kuingiza maagizo katika wasilisho lao, na udanganyifu ulifanya kazi: maingizo yanayoelekeza, kupanga upya au kuigiza nafasi ya mpimaji hubadilisha alama bila kubadilisha kazi.
+Mfano wa tishio ambao ushauri mwingi wa usanifu huacha uko ndani ya kazi inayotathminiwa. [[humble-prompt-injection-ai-grading-red-team-2026|Tathmini ya timu nyekundu ya Humble (2026)]] ilijaribu kama wanafunzi wangeweza kudanganya mpimaji unaotegemea [[llm|LLM]] kwa kuingiza maagizo katika wasilisho lao, na udanganyifu ulifanya kazi: maingizo yanayoelekeza, kupanga upya au kuigiza nafasi ya mpimaji hubadilisha alama bila kubadilisha kazi.
 
 Weka vigezo na maagizo nje ya dirisha la muktadha linalodhibitiwa na mwanafunzi, ondoa au weka alama kwenye maudhui yanayofanana na maagizo, usiruhusu kamwe wasilisho kuweka vigezo vyake, na baki na uamuzi wa kibinadamu kwa alama yoyote yenye matokeo. Mpimaji anayesoma maagizo yake kutoka maandishi anayopima amemkabidhi vigezo kwa mtahiniwa.
 
@@ -98,6 +98,8 @@ Modeli kubwa zaidi itarekebisha ufundishaji. Ukubwa haukuongeza usalama kwa kuam
 Fahirisi nzuri ya upatikanaji inamaanisha maudhui yameshughulikiwa. EduGuard huunganisha upatikanaji na mthibitishaji tofauti na hujaribu maswali ya majaribio yenye lengo la majibu ya moja kwa moja, kwa sababu upatikanaji uliotegemezwa bado unaacha njia ya kufichua kupita kiasi.
 
 Mwalimu ni njia ya mwisho. Walimu wote sita katika utafiti wa usanifu waliomba uandikaji kumbukumbu, tahadhari na uwezo wa kubatilisha kama sharti la uwajibikaji wa kitaaluma. Tiketi ya msaada si uwezo wa kubatilisha.
+
+Ufurahifu si mbadala wa upatanisho. Katika utafiti wa wanafunzi 405 wa shahada ya pili ya ubuni ([[chu-design-students-ai-agent-tam-ttf-2026|Chu na Liu (2026)]]), upatanisho wa kazi na teknolojia ulibeba njia yake mwenyewe kuelekea mtazamo (β = 0.224) kando ya [[technology-acceptance-model|manufaa yanayotambulika]], na sifa za kazi ziliongoza upatanisho zaidi kuliko sifa za chombo (β = 0.322 dhidi ya 0.266). Ufurahifu unaotambulika uliongeza urahisi wa matumizi na haukufanya lolote kwa manufaa (β = −0.033, p = 0.483). Kufurahisha kunafaa kujengwa, lakini hakuwezi kuchukua nafasi ya kuoanisha kazi na hatua za kazi iliyopewa.
 
 Ufikivu ni tiketi ya baadaye. Unakaa kwenye vipimo au unakuwa kuandika upya, na maandishi mbadala na manukuu yaliyozalishwa bado yanahitaji ukaguzi wa kibinadamu.
 

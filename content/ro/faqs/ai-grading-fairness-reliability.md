@@ -1,9 +1,9 @@
 ---
 title: "Pot folosi IA pentru a nota corect și fiabil lucrările studenților?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -48,7 +48,7 @@ Trei aranjamente se numesc „notare cu IA” și ele poartă obligații diferit
 
 Un **asistent de feedback** schițează comentarii sau semnalează posibile omisiuni pe care tu le accepți, le rescrii sau le arunci. Riscul se limitează la calitatea comentariilor, iar tu citești totul înainte ca ceva să ajungă la un student. Un **al doilea cititor** propune punctaje pe criterii sau semnalează dezacorduri pentru a-ți structura propria notare. Erorile lui trebuie să fie utile, nu doar greșite: un semnal care te trimite înapoi la o lucrare pe care ai fi notat-o în grabă merită păstrat. Un **notator principal** produce punctaje care devin note înregistrate. Acesta este aranjamentul pe care dovezile din această bază de cunoștințe nu îl susțin dincolo de cazuri înguste, validate local.
 
-Alege treapta cea mai de jos care răspunde constrângerii tale reale. Dacă volumul tău de notare vine din verificarea unui barem fix de răspunsuri, notarea deterministă obișnuită este mai transparentă și mai auditabilă decât un model lingvistic, iar studiul din farmacie sugerează că avantajul LLM-ului pe itemii obiectivi a fost în parte un artefact al faptului că i s-au furnizat răspunsurile corecte în timpul notării. Rezervă modelul pentru munca ce cere interpretare, apoi verifică acea interpretare.
+Alege treapta cea mai de jos care răspunde constrângerii tale reale. Dacă volumul tău de notare vine din verificarea unui barem fix de răspunsuri, notarea deterministă obișnuită este mai transparentă și mai auditabilă decât un [[llm|model lingvistic]], iar studiul din farmacie sugerează că avantajul LLM-ului pe itemii obiectivi a fost în parte un artefact al faptului că i s-au furnizat răspunsurile corecte în timpul notării. Rezervă modelul pentru munca ce cere interpretare, apoi verifică acea interpretare.
 
 [[automated-assessment|Evaluarea automatizată]] acoperă mașinăria mai largă a notării, a moderării și a generării de feedback. Această pagină este întrebarea de judecată de sub ea.
 

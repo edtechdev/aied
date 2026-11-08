@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Svaret er snevrere enn de fleste produktspesifikasjoner antar. Pedagogisk AI fun
 
 **1.** Skriv ned hva systemet bestemmer og hva en lærer bestemmer. Den grensen blir arkitekturen.
 
-**2.** Evaluer interaksjon over flere runder, fagbevisst, mot reelt pensum, ikke enkeltprompter mot en generell sikkerhetsrubrikk.
+**2.** Evaluer interaksjon over flere runder, fagbevisst, mot reelt [[curriculum-design|pensum]], ikke enkeltprompter mot en generell sikkerhetsrubrikk.
 
 **3.** Forankre svarene i godkjent innhold, og hold verifiseringskomponenten atskilt fra den samtalende.
 
@@ -65,7 +65,7 @@ Det overførbare er separasjonen: komponentene som verifiserer, samtaler ikke, o
 
 ## Behandle studentarbeid som utklarert inndata
 
-Trusselmodellen de fleste designtips utelater, sitter inne i artefakten som vurderes. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) motstandsdyktige red-team-evaluering]] testet om studenter kunne manipulere en LLM-basert karaktersetter gjennom prompt-injeksjon i innleveringene sine, og manipulasjonen virket: injeksjoner som instruerer, rammer inn på nytt eller spiller en rolle for karaktersetteren, flytter poengsummen uten å endre arbeidet.
+Trusselmodellen de fleste designtips utelater, sitter inne i artefakten som vurderes. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) motstandsdyktige red-team-evaluering]] testet om studenter kunne manipulere en [[llm|LLM]]-basert karaktersetter gjennom prompt-injeksjon i innleveringene sine, og manipulasjonen virket: injeksjoner som instruerer, rammer inn på nytt eller spiller en rolle for karaktersetteren, flytter poengsummen uten å endre arbeidet.
 
 Hold rubrikken og instruksjonene utenfor det studentkontrollerte kontekstvinduet, fjern eller flagg instruksjonslignende innhold, la aldri en innlevering sette egne kriterier, og behold en menneskelig beslutning på alle konsekvensrike karakterer. En karaktersetter som leser instruksjonene sine fra teksten den dømmer, har gitt rubrikken til kandidaten.
 
@@ -96,6 +96,9 @@ En større modell fikser pedagogikken. Skala forbedret ikke sikkerheten pålitel
 En god gjenfinningsindeks betyr at innholdet er håndtert. EduGuard parer gjenfinning med en separat verifiserer og tester motstandsdyktige prompter som ber om direkte svar, fordi forankret gjenfinning fortsatt etterlater en vei til for lett avsløring.
 
 Læreren er reserveløsningen. Alle seks lærerne i designstudien ba om logging, varsler og overstyring som en betingelse for profesjonelt ansvar. En supportsak er ikke en overstyring.
+
+Glede er en erstatning for tilpasning. I en undersøkelse med 405 designstudenter ([[chu-design-students-ai-agent-tam-ttf-2026|Chu og Liu (2026)]]) hadde oppgave–teknologi-tilpasning sin egen vei inn i holdning (β = 0,224) ved siden av [[technology-acceptance-model|opplevd nytteverdi]], og oppgavens egenskaper styrte tilpasningen mer enn verktøyets egenskaper (β = 0,322 mot 0,266). Opplevd glede økte brukervennligheten og gjorde ingenting for nytteverdien (β = −0,033, p = 0,483). Det er verdt å bygge inn glede, men den står ikke i stedet for å matche funksjonene mot trinnene i oppgaven.
+
 
 Tilgjengelighet er en senere sak. Den ligger i spesifikasjonen, eller den blir en omskriving, og generert alt-tekst og undertekster trenger fortsatt en menneskelig sjekk.
 

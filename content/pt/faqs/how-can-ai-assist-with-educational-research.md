@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode auxiliar a pesquisa educacional?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ A resposta curta para essa reunião: a IA pode assumir a busca, uma primeira pas
 
 ## Decida o que a IA pode tocar antes de o projeto começar
 
-A decisão de escopo pertence ao arquivo do projeto, não à memória de alguém. No [[dai-chan-responsible-genai-research-ai-literacy-2026|estudo de grupo focal de Dai e Chan (2026)]], os pesquisadores que haviam pensado no assunto calibravam o uso pelo risco e pela centralidade intelectual: mais peso em trabalho procedural de baixo risco, cautela onde a contribuição acadêmica era central. Vinte e sete dos 28 pesquisadores de pós-graduação naquele estudo haviam usado GenAI em algum ponto do fluxo de trabalho, incluindo escrita acadêmica e tradução, então para a maioria das equipes a questão é onde fica a linha, não se existe uma.
+A decisão de escopo pertence ao arquivo do projeto, não à memória de alguém. No [[dai-chan-responsible-genai-research-ai-literacy-2026|estudo de grupo focal de Dai e Chan (2026)]], os pesquisadores que haviam pensado no assunto calibravam o uso pelo risco e pela centralidade intelectual: mais peso em trabalho procedural de baixo risco, cautela onde a contribuição acadêmica era central. Vinte e sete dos 28 pesquisadores de pós-graduação naquele estudo haviam usado [[generative-ai|GenAI]] em algum ponto do fluxo de trabalho, incluindo [[writing-education|escrita acadêmica]] e tradução, então para a maioria das equipes a questão é onde fica a linha, não se existe uma.
 
 Escreva a linha como uma lista com um veredito para cada tarefa: busca bibliográfica, triagem de resumos, extração, codificação qualitativa, análise estatística, redação, formatação de referências. Leia esse estudo como um mapa do que os pesquisadores relataram fazer. É um relato de grupo focal, não um resultado de eficácia.
 
@@ -68,27 +68,29 @@ A [[qualitative-research|análise qualitativa]] é o estágio em que a interpret
 
 A delegação pode ser mais granular do que tudo ou nada. [[agreement-not-quality-llm-coding-verification|Um estudo de verificação cega]] classificou 15 de 72 itens do livro de códigos como comprovadamente exigindo expertise humana, 12 como melhor servidos por um modelo, e 16 como adequados à triagem baseada em confiança. Ordene seus próprios itens dessa forma e a economia de trabalho cai onde é segura.
 
+A modelagem de tópicos pode estender essa estrutura sem assumir a interpretação. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey e Flor (2026)]] combinaram codificação ancorada, embeddings SentenceBERT agrupados com Affinity Propagation e rotulagem por GPT-4 em seis grupos focais com 13 professores. A revisão humana descartou 18 agrupamentos de comunicação e 16 de letramento digital que eram preenchimento conversacional, deixando 14 e 16 agrupamentos significativos; ChatGPT-4o e Copilot concordaram em 33,3% e 43,8% dos rótulos, com similaridade de cosseno de 0,835–0,880, e a revisão humana não encontrou alucinações claras. O estudo é um pipeline trabalhado, não uma comparação: não tem braço apenas humano ou apenas IA, e 13 professores não podem estabelecer generalização. Use-o para ver a divisão do trabalho, não como evidência de que o híbrido supera as alternativas.
+
 ## Decida o que verificação significa e quem a assina
 
-Uma alta concordância entre um modelo e um codificador humano é relatada como se estabelecesse correção. Não estabelece. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] fizeram um especialista independente julgar 855 conjuntos de códigos pareados às cegas quanto à fonte. A concordância humano-LLM (Jaccard médio 0,30) ficou bem abaixo da concordância humano-humano (0,52), mas o verificador cego preferiu a codificação humana e a de máquina a taxas que não conseguiu distinguir (51,5% contra 48,5%, p = 0,537). Em alguns casos o consenso humano codificou um viés compartilhado que o verificador rejeitou em favor do modelo.
+Uma alta concordância entre um modelo e um codificador humano é relatada como se estabelecesse correção. Não estabelece. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] fizeram um especialista independente julgar 855 conjuntos de códigos pareados às cegas quanto à fonte. A concordância humano-[[llm|LLM]] (Jaccard médio 0,30) ficou bem abaixo da concordância humano-humano (0,52), mas o verificador cego preferiu a codificação humana e a de máquina a taxas que não conseguiu distinguir (51,5% contra 48,5%, p = 0,537). Em alguns casos o consenso humano codificou um viés compartilhado que o verificador rejeitou em favor do modelo.
 
 Assim, a etapa de verificação precisa de um padrão-ouro que não seja nem a produção do modelo nem a concordância do codificador com ela, mais uma pessoa nomeada que adjudicou as discordâncias. Relate os dois. Uma estatística de similaridade descreve quão proximamente duas leituras coincidem, e não diz nada sobre se alguma delas está certa.
 
 ## Busque rápido, depois confira cada fonte você mesmo
 
-A busca generativa resume, recomenda, sintetiza e conversa, o que desestabiliza o arranjo anterior em que o sistema localiza e o leitor interpreta ([[genai-academic-search-workshop]]). Trate-a como ferramenta de descoberta. O relatório do workshop traz duas cautelas: a capacidade é desigual, com acadêmicos altamente citados reconstruídos a cerca de o dobro da taxa de pares menos citados, e uma bibliotecária descreveu uma lacuna de confiança em que os estudantes confiavam demais na busca generativa enquanto o corpo docente desconfiava dela.
+A busca generativa resume, recomenda, sintetiza e conversa, o que desestabiliza o arranjo anterior em que o sistema localiza e o leitor interpreta ([[genai-academic-search-workshop]]). Trate-a como ferramenta de descoberta. O relatório do workshop traz duas cautelas: a capacidade é desigual, com acadêmicos altamente citados reconstruídos a cerca de o dobro da taxa de pares menos citados, e uma [[librarians|bibliotecária]] descreveu uma lacuna de confiança em que os estudantes confiavam demais na busca generativa enquanto o corpo docente desconfiava dela.
 
 A verificação de referências é onde isso se torna não negociável, e as falhas se concentram no campo de autoria, aquele que carrega o crédito. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] auditaram 723.930 publicações e 15.872.533 referências e verificaram 30 referências fabricadas em 14 artigos de educação em computação, todos de 2025 e 2026. Dezessete das 30 eram híbridos: um título real anexado a autores fabricados ou incorretos. A contagem verificada em um simpósio técnico subiu de 3 em 2025 para 17 em 2026, em 2,3% dos artigos dos anais daquele ano. O total deles é deliberadamente um limite inferior, e verificadores automatizados herdam as falhas dos metadados que tratam como verdade de base. Confira os autores primeiro.
 
 ## Trate uma pontuação automatizada como hipótese a testar
 
-Funções de medição automatizadas podem parecer precisas e preditivas permanecendo opacas. [[ai-methodologies-science-education-research-2026|Martin et al.]] enquadram isso com o problema da medição nômica de Chang: medir uma grandeza exige uma lei que a relacione a algo observável, e essa lei não pode ser testada sem já conhecer a grandeza. Funções de medição derivadas de IA emergem dos dados de treinamento e da otimização, não do pesquisador, então o trabalho de explicabilidade importa para mostrar se um modelo acompanha a compreensão semântica ou apenas palavras-chave.
+Funções de medição automatizadas podem parecer precisas e preditivas permanecendo opacas. [[ai-methodologies-science-education-research-2026|Martin et al.]] enquadram isso com o problema da medição nômica de Chang: medir uma grandeza exige uma lei que a relacione a algo observável, e essa lei não pode ser testada sem já conhecer a grandeza. Funções de medição derivadas de IA emergem dos dados de treinamento e da otimização, não do pesquisador, então o trabalho de [[explainable-ai|explicabilidade]] importa para mostrar se um modelo acompanha a compreensão semântica ou apenas palavras-chave.
 
 A falha é concreta. Em [[zhang-platform-scores-miss-ai-teaching-agents-2026|uma avaliação de oito agentes de ensino com IA]], o agente classificado em terceiro pela própria pontuação da plataforma ficou em último em uma rubrica validada por especialistas. A discordância humano-máquina é sistemática, não aleatória, e a operacionalização da rubrica costuma importar mais do que o artesanato do prompt ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Antes que uma pontuação automatizada se torne seu instrumento, valide-a contra uma medida ligada à capacidade que você pretende estudar. Para as medidas em si, veja [[evaluating-ai-interventions-methods]].
 
 ## Escreva a seção de métodos para que um estranho possa auditá-la
 
-A adoção correu à frente do relato. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta e Lin (2026)]] analisaram 888 artigos sobre automação de revisões: desde 2023, 38,0% dos artigos de software e produto não relataram nenhuma avaliação, contra 9,3% dos artigos de LLM, e o acesso ao modelo era esmagadoramente proprietário (84,1%). Uma avaliação geral favorável também não implicava adequação para delegação, já que 52% de 118 artigos de LLM apenas positivos ainda relatavam uma preocupação de que o fluxo de trabalho ficava abaixo do patamar exigido pelo seu papel. O framework PRISMA-LLM deles separa a divulgação da implementação da avaliação sensível às consequências e trata seus cinco níveis como camadas de divulgação, não de risco.
+A adoção correu à frente do relato. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta e Lin (2026)]] analisaram 888 artigos sobre automação de revisões: desde 2023, 38,0% dos artigos de software e produto não relataram nenhuma avaliação, contra 9,3% dos artigos de LLM, e o acesso ao modelo era esmagadoramente proprietário (84,1%). Uma avaliação geral favorável também não implicava adequação para delegação, já que 52% de 118 artigos de LLM apenas positivos ainda relatavam uma preocupação de que o fluxo de trabalho ficava abaixo do patamar exigido pelo seu papel. O framework [[meta-analysis-systematic-review|PRISMA]]-LLM deles separa a divulgação da implementação da avaliação sensível às consequências e trata seus cinco níveis como camadas de divulgação, não de risco.
 
 A versão prática: nomeie o sistema e sua versão, os prompts, a versão do corpus, o que uma pessoa verificou e onde falhou. Mantenha registros de prompt e resposta, porque uma lista de temas gerada fluente parece inevitável muito antes de seu trabalho probatório ter começado ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -108,7 +110,7 @@ Predefina seus critérios e mantenha-os visíveis. Um pequeno estudo local não 
 
 Relate o papel da IA, a verificação que você fez e os limites de um design de curso único e investigador único. Um relato de fluxo de trabalho não é um resultado de eficácia.
 
-Trate a simulação de uma coorte como opção avançada, não padrão. Aprendizes simulados tendem a cobrir o quadrante mais fácil do comportamento real de estudantes e raramente são validados após o uso ([[simulating-students]]). Leia [[making-simulated-students-behave-like-learners]] antes de confiar no veredito de um simulador.
+Trate a simulação de uma coorte como opção avançada, não padrão. Aprendizes simulados tendem a cobrir o quadrante mais fácil do comportamento real de estudantes e raramente são validados após o uso ([[simulating-students]]). Leia [[making-simulated-students-behave-like-learners]] antes de confiar no veredito de um [[simulation|simulador]].
 
 ## O que pesquisadores erram sobre isso
 

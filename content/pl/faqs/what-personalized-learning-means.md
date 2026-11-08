@@ -1,7 +1,7 @@
 ---
 title: "Co tak naprawdę oznacza spersonalizowane uczenie się i kiedy pomaga?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 Platforma obiecuje spersonalizowane doświadczenie dla każdego studenta. Może przestawiać pytania ćwiczeniowe, przepisać wyjaśnienie wokół zainteresowania studenta piłką nożną, pamiętać zeszłotygodniową rozmowę albo wybierać, czego student uczy się dalej. Wszystkie cztery nazywa się personalizacją, a tylko jedna z nich została przetestowana w czymkolwiek zbliżonym do tej formy.
 
-Krótka odpowiedź do przekazania współpracownikowi: personalizacja nazywa zmianę w jakiejś części doświadczenia uczenia się, a jej wartość zależy od trzech rzeczy: co jest dostosowywane, jakie dowody napędzają dostosowanie i czy zmiana poprawia uczenie się, które zamierzasz. Znajomy przykład albo responsywna rozmowa mogą wydawać się osobiste, nie ucząc niczego. Skuteczne dostosowanie może być niewidoczne. Najczystszy wynik eksperymentalny w tej bazie wiedzy jest wąski: w pięciomiesięcznym kursie certyfikacyjnym z Pythona w dziesięciu szkołach średnich w Tajpej studenci losowo przydzieleni do adaptacyjnego sekwencjonowania zadań uzyskali około 0,150 odchylenia standardowego więcej na egzaminie końcowym odbywanym osobiście i bez pomocy niż studenci ze stałą sekwencją i identycznym dostępem do chatbota ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung i wsp., 2026]]). To wspiera sekwencjonowanie w określonych warunkach. Nie waliduje wszystkiego, co sprzedaje się jako spersonalizowane.
+Krótka odpowiedź do przekazania współpracownikowi: personalizacja nazywa zmianę w jakiejś części doświadczenia uczenia się, a jej wartość zależy od trzech rzeczy: co jest dostosowywane, jakie dowody napędzają dostosowanie i czy zmiana poprawia uczenie się, które zamierzasz. Znajomy przykład albo responsywna rozmowa mogą wydawać się osobiste, nie ucząc niczego. Skuteczne dostosowanie może być niewidoczne. Najczystszy wynik eksperymentalny w tej bazie wiedzy jest wąski: w pięciomiesięcznym kursie certyfikacyjnym z Pythona w dziesięciu szkołach średnich w Tajpej studenci losowo przydzieleni do adaptacyjnego sekwencjonowania zadań uzyskali około 0,150 odchylenia standardowego więcej na [[summative-assessment|egzaminie końcowym]] odbywanym osobiście i bez pomocy niż studenci ze stałą sekwencją i identycznym dostępem do [[conversational-ai|chatbota]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung i wsp., 2026]]). To wspiera sekwencjonowanie w określonych warunkach. Nie waliduje wszystkiego, co sprzedaje się jako spersonalizowane.
 
 ## W skrócie
 
 **1.** Nazwij, która część jest dostosowywana: prezentacja, kontekst zainteresowań, trudność i wsparcie, sekwencja i tempo albo cele i wybór.
 
-**2.** Zapytaj, jakie dowody wyzwalają dostosowanie i jak błędny model uczącego się jest korygowany.
+**2.** Zapytaj, jakie dowody wyzwalają dostosowanie i jak błędny [[student-modeling|model uczącego się]] jest korygowany.
 
 **3.** Sprawdź, czy dostosowanie zachowuje cel, czy po cichu go obniża.
 
@@ -60,11 +60,11 @@ Dostosowania celów i wyboru pozwalają studentom wybrać projekt, ścieżkę lu
 
 ## Co pokazują dowody
 
-**Konkretne dostosowanie poprawiło samodzielne wykonanie.** Chung i wsp. zbudowali platformę łączącą strzeżonego chatbota do Pythona z algorytmem uczenia ze wzmocnieniem, który wybiera następne zadanie ćwiczeniowe, i wdrożyli ją w dziesięciu szkołach średnich w pięciomiesięcznym kursie certyfikacyjnym. Studenci byli losowo przydzielani między sekwencjonowanie adaptacyjne a stałą sekwencję, przy identycznym dostępie do chatbota w obu grupach, i to jest projekt, który pozwala sekwencjonowaniu przypisać różnicę. Przewaga 0,150 odchylenia standardowego pojawiła się na egzaminie końcowym odbywanym osobiście i bez pomocy. Dwie rzeczy warto zapamiętać: porównanie izoluje sekwencjonowanie od dostępu, a wynikiem jest samodzielne wykonanie, a nie zaangażowanie. Czego badanie nie pokazuje, to że pomagają spersonalizowane wyjaśnienia, przepisane materiały lub zapamiętane preferencje. To nie była interwencja.
+**Konkretne dostosowanie poprawiło samodzielne wykonanie.** Chung i wsp. zbudowali platformę łączącą strzeżonego chatbota do Pythona z algorytmem [[reinforcement-learning|uczenia ze wzmocnieniem]], który wybiera następne zadanie ćwiczeniowe, i wdrożyli ją w dziesięciu szkołach średnich w pięciomiesięcznym kursie certyfikacyjnym. Studenci byli losowo przydzielani między sekwencjonowanie adaptacyjne a stałą sekwencję, przy identycznym dostępie do chatbota w obu grupach, i to jest projekt, który pozwala sekwencjonowaniu przypisać różnicę. Przewaga 0,150 odchylenia standardowego pojawiła się na egzaminie końcowym odbywanym osobiście i bez pomocy. Dwie rzeczy warto zapamiętać: porównanie izoluje sekwencjonowanie od dostępu, a wynikiem jest samodzielne wykonanie, a nie zaangażowanie. Czego badanie nie pokazuje, to że pomagają spersonalizowane wyjaśnienia, przepisane materiały lub zapamiętane preferencje. To nie była interwencja.
 
-**Postrzegana personalizacja może iść razem ze słabszą samoregulacją.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin i Qiu (2026)]] obserwowali 486 chińskich studentów studiów licencjackich przez trzy fale ankietowe i stwierdzili, że studenci, którzy postrzegali swoje adaptacyjne środowisko jako bardziej spersonalizowane, zgłaszali słabsze [[self-regulated-learning|samoregulowane uczenie się]]. Emocje akademickie niosły znaczną część tego powiązania, a obniżona przyjemność wraz z podwyższonym lękiem i nudą odpowiadały za ponad połowę całkowitego efektu. Projekt jest obserwacyjny i oparty na samoopisie, więc nie może ustalić, że personalizacja spowodowała spadek. Wskazuje jednak wynik, który pilotaż musi monitorować, bo system, który odpowiada na każdą niepewność szybko, może usuwać planowanie i osąd, które kurs ma budować.
+**Postrzegana personalizacja może iść razem ze słabszą samoregulacją.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin i Qiu (2026)]] obserwowali 486 chińskich studentów studiów licencjackich przez trzy fale ankietowe i stwierdzili, że studenci, którzy postrzegali swoje adaptacyjne środowisko jako bardziej spersonalizowane, zgłaszali słabsze [[self-regulated-learning|samoregulowane uczenie się]]. Emocje akademickie niosły znaczną część tego powiązania, a obniżona przyjemność wraz z podwyższonym [[anxiety-and-stress|lękiem]] i nudą odpowiadały za ponad połowę całkowitego efektu. Projekt jest obserwacyjny i oparty na [[self-report-measures|samoopisie]], więc nie może ustalić, że personalizacja spowodowała spadek. Wskazuje jednak wynik, który pilotaż musi monitorować, bo system, który odpowiada na każdą niepewność szybko, może usuwać planowanie i osąd, które kurs ma budować.
 
-**Zainteresowanie i rozumienie to osobne sprawdzenia.** Synteza [[personalized-learning]] omawia *Flawed but Memorable* Bernsteina i Sibii, mały jakościowy preprint o analogiach informatycznych personalizowanych wokół zainteresowań. Reakcje studentów były różne, a znajomość dziedziny źródłowej analogii pomagała im wykryć, gdzie analogia się załamuje. Praktyczne odczytanie: pytaj, co uczący się już wiedzą, jak i co lubią, i traktuj zgłaszaną zapamiętywalność jako miarę doświadczenia, a nie wynik uczenia się.
+**Zainteresowanie i rozumienie to osobne sprawdzenia.** Synteza [[personalized-learning]] omawia *Flawed but Memorable* Bernsteina i Sibii, mały [[qualitative-research|jakościowy]] preprint o analogiach informatycznych personalizowanych wokół zainteresowań. Reakcje studentów były różne, a znajomość dziedziny źródłowej analogii pomagała im wykryć, gdzie analogia się załamuje. Praktyczne odczytanie: pytaj, co uczący się już wiedzą, jak i co lubią, i traktuj zgłaszaną zapamiętywalność jako miarę doświadczenia, a nie wynik uczenia się.
 
 ## Sprawdź diagnozę, zanim zaufasz dostosowaniu
 
@@ -86,7 +86,7 @@ Zbieraj proporcjonalne informacje. Przykład oparty na zainteresowaniach rzadko 
 
 ## Jak to wygląda w kursie
 
-Na wstępnym kursie matematyki krótka diagnoza może oddzielić błędne przekonanie wstępne od pomyłki arytmetycznej. Student z błędnym przekonaniem dostaje ukierunkowane wyjaśnienie i rozwiązany przykład. Drugi przechodzi do zastosowania. Oba potem wykonują porównywalne samodzielne zadanie, w tym jedno zastosowanie w zmienionym kontekście.
+Na wstępnym kursie matematyki krótka diagnoza może oddzielić [[misconceptions|błędne przekonanie]] wstępne od pomyłki arytmetycznej. Student z błędnym przekonaniem dostaje ukierunkowane wyjaśnienie i rozwiązany przykład. Drugi przechodzi do zastosowania. Oba potem wykonują porównywalne samodzielne zadanie, w tym jedno zastosowanie w zmienionym kontekście.
 
 Studenci mogą wybierać spośród znanych kontekstów zastosowań, a cel matematyczny pozostaje stały i widoczny. Wykładowca sprawdza, czy którakolwiek ścieżka poprawiła rozumienie, czy studenci potrafią wyjaśnić swoje rozumowanie i czy ktoś utknął w remediacji. Traktuj to jako projekt do pilotażu; żadna platforma nie została zweryfikowana w tej konfiguracji.
 
@@ -96,7 +96,7 @@ Na kursie intensywnie czytelniczym glosariusz lub opcjonalne wyjaśnienie mogą 
 
 Porównaj wersję spersonalizowaną z czymś wiarygodnym: dobrze zaprojektowaną wspólną sekwencją, tym samym korepetytorem bez adaptacyjnego sekwencjonowania albo wyselekcjonowanym menu przykładów. Jeśli twoje ramię spersonalizowane dodaje też więcej praktyki, więcej informacji zwrotnej i więcej czasu, porównanie nie może wyizolować personalizacji, a uczciwy raport to powie.
 
-Mierz samodzielne wykonanie, retencję lub transfer tam, gdzie możesz, czas i wysiłek, sprawczość uczącego się i to, kto korzysta. Trzymaj zadowolenie i postrzegane dopasowanie jako wyniki dodatkowe, a nie nagłówek. Zdecyduj z góry, jaka poprawa uzasadniałaby koszty rozwoju, monitorowania i przetwarzania danych, bo te koszty są płacone niezależnie od tego, czy efekt się pojawi.
+Mierz samodzielne wykonanie, retencję lub transfer tam, gdzie możesz, czas i wysiłek, [[agency|sprawczość]] uczącego się i to, kto korzysta. Trzymaj zadowolenie i postrzegane dopasowanie jako wyniki dodatkowe, a nie nagłówek. Zdecyduj z góry, jaka poprawa uzasadniałaby koszty rozwoju, monitorowania i przetwarzania danych, bo te koszty są płacone niezależnie od tego, czy efekt się pojawi.
 
 ## Co usłyszysz w odpowiedzi
 

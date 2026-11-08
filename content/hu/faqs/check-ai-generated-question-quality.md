@@ -1,7 +1,7 @@
 ---
 title: "Hogyan ellenőrizzem, hogy az MI-vel generált kvíz- és vizsgakérdések valóban jók-e?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Húsz kérdést kér az előadásjegyzeteiből. Válaszkulcsokkal, magyarázatokkal, nehézségi címkékkel és Bloom-taxonómiai kategóriákkal jönnek vissza, egy formázott dokumentumban, amely késznek látszik. A neve mindjárt rákerül.
 
-Rövid válasz egy kollégának: a generált kérdések jelöltek, nem értékelés. Oldjon meg mindegyiket maga, ellenőrizze, mit követel meg az item a diáktól ténylegesen, és tudja meg, hogyan válaszolnak rá a diákok, mielőtt számít. E tudásbázis két legnagyobb vizsgálatában az érdekes jel nem az, hogy a generálás működik, hanem hogy hol vall kudarcot. A kurzusspecifikus munkafolyamaton belüli iteratív generálás használható feleletválasztós vizsgákat termelt 71 egyetemi osztályban ([[assessing-quality-ai-generated-exams-field-2025|Isley és mtsai, 2025]]). Egy adattudományi auditban 311 telepített kérdés esetében a modell nehézségi címkéi csaknem tökéletesen követték az általa mellé generált Bloom-szinteket (Spearman ρ = 0,90), miközben a diákok tényleges pontszámait ρ = 0,06 szinten követték ([[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang, 2026]]). A címke a prompt leírása volt, nem az item mérése.
+Íme a rövid válasz: a generált kérdések jelöltek, nem értékelés. Oldjon meg mindegyiket maga, ellenőrizze, mit követel meg az item a diáktól ténylegesen, és tudja meg, hogyan válaszolnak rá a diákok, mielőtt számít. E tudásbázis két legnagyobb vizsgálatában az érdekes jel nem az, hogy a generálás működik, hanem hogy hol vall kudarcot. A kurzusspecifikus munkafolyamaton belüli iteratív generálás használható feleletválasztós vizsgákat termelt 71 egyetemi osztályban ([[assessing-quality-ai-generated-exams-field-2025|Isley és mtsai, 2025]]). Egy adattudományi auditban 311 telepített kérdés esetében a modell nehézségi címkéi csaknem tökéletesen követték az általa mellé generált Bloom-szinteket (Spearman ρ = 0,90), miközben a diákok tényleges pontszámait ρ = 0,06 szinten követték ([[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang, 2026]]). A címke a prompt leírása volt, nem az item mérése.
 
 ## A rövid változat
 
@@ -46,7 +46,7 @@ Rövid válasz egy kollégának: a generált kérdések jelöltek, nem értékel
 
 A generálás elég olcsó ahhoz, hogy a kimeneti formátum csendben a specifikációvá váljon. Ha a jegyzetei rendes feleletválasztós itemeket adnak, végül azt fogja mérni, hogy a diákok tudnak-e választani valószínű állítások közül, bármit is állít a tanterv a kimenetről.
 
-Először a kimenetet adja meg, aztán a bizonyítékot, amelyet egy kielégítő válasz szolgáltatna, aztán azt a tudást, amelyet a diákoktól elvár. Foglalja bele a kurzusanyagokat, a várt tévképzeteket, az engedélyezett eszközöket és a válaszformátumot. Ha azt akarja, hogy a diákok bizonyítékot értelmezzenek, az itemnek értelmezést kell megkövetelnie, és a szó hozzáadása egy definíciós kérdéshez nem teszi ezt. Egy hosszú forgatókönyv továbbra is megválaszolható egyetlen ismerős fordulaton át, amely odaadja a megoldást.
+Először a kimenetet adja meg, aztán a bizonyítékot, amelyet egy kielégítő válasz szolgáltatna, aztán azt a tudást, amelyet a diákoktól elvár. Foglalja bele a kurzusanyagokat, a várt [[misconceptions|tévképzeteket]], az engedélyezett eszközöket és a válaszformátumot. Ha azt akarja, hogy a diákok bizonyítékot értelmezzenek, az itemnek értelmezést kell megkövetelnie, és a szó hozzáadása egy definíciós kérdéshez nem teszi ezt. Egy hosszú forgatókönyv továbbra is megválaszolható egyetlen ismerős fordulaton át, amely odaadja a megoldást.
 
 Az értékelési tervrajz a kimenetek és az itemek táblázata, és az értéke az, hogy feltárja a réseket, mielőtt a diákok tennék. Láthatóvá teszi a kompromisszumot is: minden item, amelyet a legkönnyebb anyagból generál, egy item, amelyet nem arra a kimenetre költött, amely a legfontosabb.
 
@@ -68,7 +68,7 @@ Egy második modell segíthet észrevenni a problémákat, és két modell egyet
 
 ## Ne engedje, hogy a nehézségi címke döntsön
 
-A [[automated-question-generation|kérdésgenerálás]] irodalma hasznosabb a címkék kudarcáról, mint a generálás sikeréről. [[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang (2026)]] 378 szerzői kérdést vizsgált adattudományi kurzusokban, amelyek közül 311-et telepítettek 54 diáknak, 7 888 válaszon. A modell könnyű, közepes és nehéz címkéi ρ = 0,90-nél korreláltak a saját, együtt generált Bloom-szintjeivel, és ρ = 0,06-nál az empirikus itemnehézséggel. A telepített itemek nagyjából 70%-át minden diák helyesen válaszolta meg, ami csaknem semmi szórást nem hagyott egy nehézségi címkének, még elvileg sem.
+A [[automated-question-generation|kérdésgenerálás]] irodalma hasznosabb a címkék kudarcáról, mint a generálás sikeréről. [[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang (2026)]] 378 szerzői kérdést vizsgált adattudományi kurzusokban, amelyek közül 311-et telepítettek 54 diáknak, 7 888 válaszon. A modell könnyű, közepes és nehéz címkéi ρ = 0,90-nél korreláltak a saját, együtt generált Bloom-szintjeivel, és ρ = 0,06-nál az empirikus [[item-response-theory|itemnehézséggel]]. A telepített itemek nagyjából 70%-át minden diák helyesen válaszolta meg, ami csaknem semmi szórást nem hagyott egy nehézségi címkének, még elvileg sem.
 
 Két tanulság következik. Először, a nehézség egy item és egy populáció interakciójának tulajdonsága, ezért semmilyen címke, amelyet az item kiosztása előtt állítanak elő, nem kezelhető mért értékként. Másodszor, az olyan itembank, amelyet mindenki helyesen válaszol meg, nem könnyű értékelés, hanem hasznavehetetlen: csaknem semmi információt nem hordoz arról, ki mit tud.
 
@@ -91,6 +91,8 @@ Dolgozzon át, és tartsa a nyilvántartást: a jóváhagyott verziót, az álta
 Egy bevezető szociológiai kurzusban a kimenet lehet a strukturális magyarázat megkülönböztetése az egyéni magyarázattól. Egy gyenge item a „strukturális" definiálását kéri, ami szókincs-felismerést mér. Egy erősebb jelölt egy rövid forgatókönyvet ad egy családról és egy foglalkoztatási döntésről, majd azt kérdezi, melyik magyarázat azonosítja legjobban a strukturális korlátot, a zavaró opciók pedig valószínű, de eltérő értelmezéseket képviselnek.
 
 Az oktató ellenőrzi, hogy a forgatókönyv valóban alátámasztja-e a kulcsot, hogy két opció nem fejezi-e ki ugyanazt az ötletet, és hogy a válaszolás nem függ-e olyan terminológiától, amelyet a kurzus soha nem vezetett be. Egy egysoros utánkérdezés, „melyik részlet támasztja alá a választását?", felszínre hozza azt az érvelést, amelyet a kiválasztott opció elrejt. Az adaptáció itemformátumként tesztelés nélküli, és az értéke szűkebb: a fenti átvizsgálási kérdések megválaszolhatók, mielőtt az itemet kiosztják, és egy rossz kulcs rendbe hozható, mielőtt a diákok látják.
+
+Amikor a diákok nagy léptékben jelzik, hogy nem tetszik nekik valami, a jelzésnek szerkezete van. Egy tankönyvi platformon belül bemutatott gyakorlókérdések 5 214 211 munkamenetének elemzésében 1000 munkamenetre 2,00 hüvelykujj lefelé érkezett 3,31 hüvelykujj felfelé mellett, és a 809 848 kérdésből csak 22 844 kapott valaha értékelést ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson és mtsai, 2025]]). A szavazatok mintája nem volt véletlenszerű: a határozószós választ kérő kérdések 1000-re 5,23 hüvelykujj lefelé értékelést kaptak, szemben a melléknévi válaszok 1,76-ával, és a mondat fontossága (esélyhányados 2,38) és a válaszszöveg hasonlósága (1,64) szintén mozgatta az értékelést. A szerzők hangolt ökölszabálya körülbelül 1,62 nem tetszés volt 1000-re, amikor mindkét fontossági jelzés jelen volt. A gyakorlati tanulság az, hogy a diákok értékelése lassú, de valódi mérési csatorna: egy platform, amely eltávolítja az ismételten nem kedvelt kérdéseket, bezárja a kört, és az az oktató, aki néhány itemet pilotol, ugyanezt a jelzést gyorsabban megkapja azzal, hogy megkérdezi, melyik részletben kételkedett a diák.
 
 Azoknak a diákoknak, akik saját gyakorlókérdéseket generálnak, ugyanaz a szabály érvényes a saját szintjükön: kíséreljék meg az itemet, ellenőrizzék a magyarázatot a kurzushoz tartozó forrásokon, és vigyék a feloldhatatlan eseteket valakihez, aki ismeri a tárgyat. Az a [[study-with-ai|tanulási gyakorlat]], amely a generált kulcsok kritikátlan elfogadására tanít, a rossz szokást gyakoroltatja.
 

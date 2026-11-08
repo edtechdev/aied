@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T15:41:27-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Rescrii o fișă de lucrare și propoziția din fața ta spune că IA este permisă cu menționarea utilizării, ceea ce nu îi spune studentului nimic despre dacă instrumentul poate furniza argumentul. Un coleg a propus o interdicție la nivel de curs și bănuiești că ea lovește cel mai tare în autorii multilingvi din sală. Sau o serie de eseuri s-au întors mai netede decât discuția de seminar din spatele lor, și ai nevoie de o regulă pe care să o poți apăra la următoarea ședință de curriculum.
+Rescrii o fișă de lucrare și propoziția din fața ta spune că IA este permisă cu menționarea utilizării, ceea ce nu îi spune studentului nimic despre dacă instrumentul poate furniza argumentul. Un coleg a propus o interdicție la nivel de curs și bănuiești că ea lovește cel mai tare în autorii multilingvi din sală. Sau o serie de eseuri s-au întors mai netede decât discuția de seminar din spatele lor, și ai nevoie de o regulă pe care să o poți apăra la următoarea ședință de [[curriculum-design|curriculum]].
 
 Concluzia: numește munca intelectuală pe care lucrarea există ca să o producă, păstrează acel pas la student și dă instrumentului sarcini care întorc ceva ce studentul trebuie să judece. O regulă scrisă astfel îi spune studentului ce pas protejează.
 
@@ -78,7 +78,7 @@ O secvență care merită împrumutată ține IA într-un rol de consultant și 
 | **8. Revizuiește** | Face și justifică modificări substanțiale | Testează claritatea, oferă alternative | Revizia |
 | **9. Verifică** | Verifică fiecare afirmație factuală sau dependentă de sursă | Nu își poate verifica propriul rezultat | Surse și dovezi |
 | **10. Reflectează și declară** | Explică rolul IA și ce s-a schimbat în gândirea lor | Nimic | Scurtă reflecție asupra procesului |
-| **11. Verificare independentă** | Explică sau aplică raționamentul fără IA | Nimic | Susținere orală, scriere rapidă, caz nou |
+| **11. Verificare independentă** | Explică sau aplică raționamentul fără IA | Nimic | [[oral-assessment|Susținere orală]], scriere rapidă, caz nou |
 
 Acesta este [[pairr-ai-peer-review-2025|PAIRR]] extins: schiță, feedback uman, feedback IA, comparație, revizie, reflecție, cu o linie de bază independentă și o graniță mai strânsă în jurul raționamentului. Folosește coloana din mijloc ca sarcină și coloana din dreapta ca ceea ce poate sta la baza unei note.
 
@@ -89,6 +89,9 @@ Unsprezece rânduri sunt mai mult decât au nevoie majoritatea lucrărilor. Redu
 Cel mai mare studiu de sală de aici este [[pairr-ai-peer-review-2025|PAIRR]]: 654 de studenți din zece cursuri de scris și trei cursuri [[stem-education|STEM]] cu scriere intensivă. Au redactat, au parcurs [[peer-assessment|evaluarea între colegi]], au obținut feedback IA bazat pe rubrică, au comparat și evaluat ambele surse, au scris planuri de revizie, au revizuit și au reflectat. 58% au preferat feedbackul combinat, de la colegi și de la IA. 6% au preferat doar feedbackul IA. Studenții au găsit IA utilă pentru sfaturi largi de revizie orientate de rubrică, iar colegii au furnizat cunoaștere contextuală și un răspuns autentic de public.
 
 Fii exact în privința afirmației. PAIRR a măsurat experiența studenților și evaluarea feedbackului, nu [[learning-gains|rezultatele de învățare]] pe termen lung, așa că este o dovadă puternică pentru un design de feedback și o dovadă mai slabă că scrisul se îmbunătățește luni mai târziu. Păstrează pasul cu colegii chiar și când pasul cu IA este mai rapid. Multă din munca de [[feedback|evaluare prin feedback]] se petrece în comparația dintre cele două surse, iar eliminarea ei scoate exact partea pe care studenții au spus că o prețuiesc.
+
+Instrumentul în sine poate fi proiectat să protejeze pasul de raționament. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] au construit MAIKE, un chatbot [[socratic-method|socratic]] care diagnostichează argumente și pune întrebări țintite fără să genereze text de eseu. Într-un studiu de clasă cu 65 de elevi de liceu, utilizatorii MAIKE au petrecut mai multe ture în dialog la nivel de idei decât utilizatorii din control (56% față de 44%) și au trecut între discuție și editare; aproximativ 40% dintre elevi și-au îmbunătățit scorurile la eseu. Studiul nu a arătat un avantaj general de notă față de control, așa că tratează-l ca pe o demonstrație de design despre legarea conversației de revizie, nu ca dovadă că chatbotul ridică calitatea scrierii.
+
 
 ## Notează ce a făcut studentul cu feedbackul
 

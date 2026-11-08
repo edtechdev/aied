@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:34:18-05:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Đã là tuần thứ sáu. Bạn có một chồng bản nháp, một rubric bạn tin vào, và một nghi ngờ đang lớn dần rằng một phần ba số nhận xét của bạn bị đọc lướt rồi quên. Một đồng nghiệp nhắc rằng giờ có một công cụ nhận xét mọi bản nháp trong vòng một giờ. Cuộc họp khoa cần một câu trả lời: đây là một nâng cấp, hay một cách nhanh hơn để tạo ra văn bản không ai đọc?
 
-Câu trả lời ngắn để nói với đồng nghiệp: phản hồi bằng AI có chỗ đứng ở độ phủ, tính kịp thời và tính nhất quán, trong một dải hẹp. Việc xử lý ngôn ngữ ở mức hiệu đính và những nhận xét vòng đầu có rubric dẫn đường là đáng tự động hóa. Độ phủ là phần rẻ. Trong một thí nghiệm ngẫu nhiên theo cụm với 1,176 sinh viên năm thứ nhất, các thiết kế phản tư và hỗn hợp vượt qua phê bình trực tiếp của AI ở [[transfer-of-learning|khả năng chuyển giao trễ khi không có AI]]. Trong một thí nghiệm viết luận ngẫu nhiên với 70 sinh viên, phản hồi AI được đánh giá cao hơn không tạo ra bản sửa tốt hơn so với phản hồi của một giáo viên giàu kinh nghiệm. Điều sinh viên làm với một nhận xét quyết định kết quả, và [[feedback-literacy|năng lực đọc phản hồi]] tách những sinh viên hưởng lợi khỏi những sinh viên chỉ chép.
+Câu trả lời ngắn để nói với đồng nghiệp: phản hồi bằng AI có chỗ đứng ở độ phủ, tính kịp thời và tính nhất quán, trong một dải hẹp. Việc xử lý ngôn ngữ ở mức hiệu đính và những nhận xét vòng đầu có rubric dẫn đường là đáng tự động hóa. Độ phủ là phần rẻ. Trong một thí nghiệm ngẫu nhiên theo cụm với 1,176 sinh viên năm thứ nhất, các thiết kế phản tư và hỗn hợp vượt qua phê bình trực tiếp của AI ở [[transfer-of-learning|khả năng chuyển giao trễ khi không có AI]]. Trong một thí nghiệm viết luận ngẫu nhiên với 70 sinh viên, phản hồi AI được đánh giá cao hơn không tạo ra bản sửa tốt hơn so với phản hồi của một [[teacher-role|giáo viên]] giàu kinh nghiệm. Điều sinh viên làm với một nhận xét quyết định kết quả, và [[feedback-literacy|năng lực đọc phản hồi]] tách những sinh viên hưởng lợi khỏi những sinh viên chỉ chép.
 
 ## Tóm tắt
 
@@ -38,7 +38,7 @@ Câu trả lời ngắn để nói với đồng nghiệp: phản hồi bằng A
 
 **2.** Phân loại nhận xét của chính bạn thành sửa lỗi ở mức ngôn ngữ và phán đoán ở mức nhận định. Chỉ nhóm đầu là ứng viên cho việc tự động hóa.
 
-**3.** Xếp tầng các nguồn. Tự đánh giá trước, phản hồi từ bạn học thứ hai, phê bình của AI thứ ba. Hai nguồn đặt cạnh nhau tạo ra sự tiếp nhận thụ động.
+**3.** Xếp tầng các nguồn. Tự đánh giá trước, [[peer-assessment|phản hồi từ bạn học]] thứ hai, phê bình của AI thứ ba. Hai nguồn đặt cạnh nhau tạo ra sự tiếp nhận thụ động.
 
 **4.** Đưa rubric của bạn cho mô hình và bắt nó lập luận từng bước. Một chỉ dẫn trống sẽ tạo ra đầu ra chung chung.
 
@@ -50,7 +50,7 @@ Câu trả lời ngắn để nói với đồng nghiệp: phản hồi bằng A
 
 Thước đo hấp dẫn là chất lượng của thứ mô hình viết ra. Đó cũng là thước đo gây nhầm lẫn.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia và cộng sự (2026)]] phân ngẫu nhiên 70 sinh viên viết luận tranh luận bằng tiếng Ba Tư vào ba nhóm. Prompt theo chuỗi suy luận tạo ra phản hồi được đánh giá cao hơn đáng kể (M = 12.90) so với prompt không ví dụ (M = 11.25, p = .01) và so với một giáo viên giàu kinh nghiệm (M = 11.20, p = .008). Nhóm dùng chuỗi suy luận không sửa bài luận của mình nhiều hơn đáng kể so với nhóm nhận phản hồi từ giáo viên, nhóm này đạt mức tăng tương đương. Nhận xét tốt hơn, bản sửa như nhau. Nếu tiêu chí thành công của bạn là chất lượng nhận xét, nghiên cứu đó đọc như một thắng lợi. Nếu là điều gì đã thay đổi trong bài luận, thì không.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia và cộng sự (2026)]] phân ngẫu nhiên 70 sinh viên viết luận tranh luận bằng tiếng Ba Tư vào ba nhóm. [[prompt-engineering|Prompt]] theo chuỗi suy luận tạo ra phản hồi được đánh giá cao hơn đáng kể (M = 12.90) so với prompt không ví dụ (M = 11.25, p = .01) và so với một giáo viên giàu kinh nghiệm (M = 11.20, p = .008). Nhóm dùng chuỗi suy luận không sửa bài luận của mình nhiều hơn đáng kể so với nhóm nhận phản hồi từ giáo viên, nhóm này đạt mức tăng tương đương. Nhận xét tốt hơn, bản sửa như nhau. Nếu tiêu chí thành công của bạn là chất lượng nhận xét, nghiên cứu đó đọc như một thắng lợi. Nếu là điều gì đã thay đổi trong bài luận, thì không.
 
 Hai tín hiệu khác làm một dự án thí điểm đang đi tệ trông đẹp hơn, nên hãy xác định chúng trước. Sự hài lòng của sinh viên là một. Trong dự án thí điểm toàn trường Deakin được [[tubino-adachi-ai-automated-feedback-literacy|Tubino và Adachi (2022)]] báo cáo, điểm đánh giá trung bình tích cực cùng tồn tại với những lỗi do sinh viên chỉ ra, nên một bản khảo sát mặt cười không phải bằng chứng về độ chính xác. Việc sử dụng là tín hiệu kia. Công cụ Deakin là tùy chọn, và mức sử dụng trung bình khoảng 13% sinh viên đại học và 12% học viên sau đại học, dù gần 4,000 sinh viên có quyền truy cập. Những sinh viên chủ động và thành tích cao dùng nó nhiều hơn. Đó là những gì việc làm cho một công cụ sẵn có mang lại.
 
@@ -72,7 +72,7 @@ Bằng chứng mạnh nhất về thiết kế đến từ một thí nghiệm t
 
 Cơ chế giải thích vì sao trình tự quan trọng hơn công cụ. Phê bình trực tiếp mời gọi sự tiếp nhận thụ động: sinh viên đọc một phán quyết và áp dụng nó. Các thiết kế phản tư và hỗn hợp buộc sinh viên phải diễn giải nhận xét, so sánh nó với các tiêu chí, đánh giá mức liên quan của nó rồi mới sửa. Giá trị giáo dục phụ thuộc ít vào việc có quyền dùng AI hơn là vào việc môi trường phản hồi có giữ được [[agency|quyền tự quyết của người học]] và [[evaluative-judgment|phán đoán đánh giá]] trong lúc sửa hay không.
 
-Phản hồi từ bạn học có chỗ đứng riêng trong trình tự. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen và Yan (2026)]] cho hai lớp tiếng Anh song song (N = 118 sinh viên năm thứ nhất ở Trung Quốc; GenAI n = 56, bạn học n = 62) đi qua ba chu kỳ tự đánh giá trong một học kỳ. Giàn giáo của GenAI cải thiện năng lực đọc phản hồi ở mức nhẹ nhưng có ý nghĩa so với việc bạn học chấm bài (ANCOVA p = 0.049, ηp² = 0.03). Sinh viên nhóm GenAI tinh chỉnh prompt lặp đi lặp lại và kiểm chứng hoặc thách thức đầu ra không chính xác. Sinh viên nhóm bạn học chọn nguồn theo sự tiện lợi xã hội và bị thiên lệch tình bạn làm lệch phán đoán đánh giá của mình. Việc bạn học chấm bài giữ một giá trị riêng cho nhận thức về người đọc, đó là lý do các tác giả đề xuất những thiết kế nhiều giai đoạn với phản hồi ẩn danh từ bạn học thay vì thay thế nó.
+Phản hồi từ bạn học có chỗ đứng riêng trong trình tự. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen và Yan (2026)]] cho hai lớp tiếng Anh song song (N = 118 sinh viên năm thứ nhất ở Trung Quốc; GenAI n = 56, bạn học n = 62) đi qua ba chu kỳ [[self-assessment|tự đánh giá]] trong một học kỳ. [[scaffolding|Giàn giáo]] của GenAI cải thiện năng lực đọc phản hồi ở mức nhẹ nhưng có ý nghĩa so với việc bạn học chấm bài (ANCOVA p = 0.049, ηp² = 0.03). Sinh viên nhóm GenAI tinh chỉnh prompt lặp đi lặp lại và kiểm chứng hoặc thách thức đầu ra không chính xác. Sinh viên nhóm bạn học chọn nguồn theo sự tiện lợi xã hội và bị thiên lệch tình bạn làm lệch phán đoán đánh giá của mình. Việc bạn học chấm bài giữ một giá trị riêng cho nhận thức về người đọc, đó là lý do các tác giả đề xuất những thiết kế nhiều giai đoạn với phản hồi ẩn danh từ bạn học thay vì thay thế nó.
 
 Lợi thế của Gu và cộng sự là nhỏ, và họ đọc nó là thật nhưng không tự nó tạo ra chuyển biến. Giàn giáo của giảng viên, hướng dẫn viết prompt và phiếu bài tập làm phần việc hỗ trợ.
 
@@ -80,15 +80,15 @@ Lợi thế của Gu và cộng sự là nhỏ, và họ đọc nó là thật n
 
 Sinh đầu ra theo rubric là phần có thể tự động hóa.
 
-Mức tăng chất lượng của Farrokhnia và cộng sự đến từ một prompt chuỗi suy luận dẫn mô hình qua một phép đánh giá từng bước theo một rubric lập luận, không đến từ một chỉ dẫn trống là hãy cho phản hồi. Gu và cộng sự đưa cho nhóm GenAI của họ ChatGPT-4o với các rubric đã huấn luyện trước và hướng dẫn viết prompt, và chính điều đó làm cho đầu ra có thể kiểm tra được theo các tiêu chí đã nêu. Trong cả hai trường hợp, prompt là nơi các tiêu chí của bạn đi vào hệ thống, và dấu vết lập luận là thứ cho phép bạn thấy mô hình có áp dụng chúng hay không.
+Mức tăng chất lượng của Farrokhnia và cộng sự đến từ một prompt chuỗi suy luận dẫn mô hình qua một phép đánh giá từng bước theo một rubric lập luận, không đến từ một chỉ dẫn trống là hãy cho phản hồi. Gu và cộng sự đưa cho nhóm [[generative-ai|GenAI]] của họ ChatGPT-4o với các rubric đã huấn luyện trước và hướng dẫn viết prompt, và chính điều đó làm cho đầu ra có thể kiểm tra được theo các tiêu chí đã nêu. Trong cả hai trường hợp, prompt là nơi các tiêu chí của bạn đi vào hệ thống, và dấu vết lập luận là thứ cho phép bạn thấy mô hình có áp dụng chúng hay không.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson và Yan (2025)]] biến chất lượng prompt thành bản lề của toàn bộ quá trình. Prompt mơ hồ cho ra đầu ra chung chung, vô dụng, và các nhận xét được tạo ra có thể bị ảo giác, thiên lệch hay trùng lặp, điều đó đẩy phán đoán đánh giá trở lại phía người đọc. Việc hiệu chỉnh còn sắc hơn. Trong Farrokhnia và cộng sự, chất lượng phản hồi của GenAI có liên hệ đáng kể với độ mạnh của bản nháp ban đầu của sinh viên, trong khi chất lượng phản hồi của giáo viên thì không. Giáo viên hiệu chỉnh nhất quán hơn. Khối lượng mở rộng được. Việc hiệu chỉnh thì không.
 
 ## Giữ lời cuối và hồ sơ ở phía con người
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma và Cobos (2026)]] mô tả AICoFE, hệ thống chạy ba mô hình được tinh chỉnh độc lập (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) trên các điểm rubric và quan sát định tính để tạo ra những nhận xét nháp độc lập. Sau đó giảng viên soạn thông điệp cuối cùng bằng cách chọn câu hoặc đoạn, với một chú giải cho biết mô hình nào đóng góp phần nào. Mô hình soạn nháp. Giảng viên giao, và sản phẩm giao đi được một người đã đọc bản nháp ký tên.
+[[becerra-aicofe-feedback-2026|Becerra, Palma và Cobos (2026)]] mô tả AICoFE, hệ thống chạy ba mô hình được tinh chỉnh độc lập (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) trên các điểm rubric và quan sát [[qualitative-research|định tính]] để tạo ra những nhận xét nháp độc lập. Sau đó giảng viên soạn thông điệp cuối cùng bằng cách chọn câu hoặc đoạn, với một chú giải cho biết mô hình nào đóng góp phần nào. Mô hình soạn nháp. Giảng viên giao, và sản phẩm giao đi được một người đã đọc bản nháp ký tên.
 
-Aldino và cộng sự thấy cùng mô thức hỗ trợ rồi kiểm chứng trong thực hành thông thường. Thành phần học máy thường gắn cờ thiếu “Đạt mục tiêu học tập” nhất (20 trong 21 giáo viên đã bỏ sót nó; 16 chấp nhận cờ đó) và “Quan hệ giáo viên và sinh viên” (14 bỏ sót; 12 chấp nhận). Giáo viên quyết định từng gợi ý bằng phán đoán chuyên môn, và đó chính là điểm của việc đặt họ vào vòng lặp.
+Aldino và cộng sự thấy cùng mô thức hỗ trợ rồi kiểm chứng trong thực hành thông thường. Thành phần [[machine-learning|học máy]] thường gắn cờ thiếu “Đạt mục tiêu học tập” nhất (20 trong 21 giáo viên đã bỏ sót nó; 16 chấp nhận cờ đó) và “Quan hệ giáo viên và sinh viên” (14 bỏ sót; 12 chấp nhận). Giáo viên quyết định từng gợi ý bằng phán đoán chuyên môn, và đó chính là điểm của việc đặt họ vào vòng lặp.
 
 Mười hai trong 21 giáo viên của Aldino và cộng sự đã sửa thêm ở mức câu, và mô thức chiếm ưu thế là hiệu chỉnh giọng điệu: hạ bớt lời khen (f = 11), bỏ gợi ý (f = 9), bỏ lời động viên (f = 8). Các sửa đổi tập trung ở chiều quan hệ, đặc biệt là Quan hệ giáo viên và sinh viên (f = 24). Họ đang bảo vệ tính chân thực và giọng chuyên môn, và công việc đó không tự động hóa được.
 
@@ -118,7 +118,7 @@ Việc tiết kiệm thời gian là tự động. Khi được hỏi công cụ
 
 ## Những gì sẽ quay lại với bạn
 
-**“Phản hồi AI không mang tính cá nhân.”** Thường đúng, và đó là lý do giữ lời cuối cho con người. AICoFE tồn tại vì văn bản chung chung của mô hình không phải thứ sinh viên nên nhận: giảng viên chọn, sửa và ký thông điệp cuối. 21 giáo viên trong Aldino và cộng sự viết lại giọng điệu vì cùng lý do đó. Cá nhân hóa là việc của bạn trong thiết kế này, và mô hình đang làm phần việc chuẩn bị.
+**“Phản hồi AI không mang tính cá nhân.”** Thường đúng, và đó là lý do giữ lời cuối cho con người. AICoFE tồn tại vì văn bản chung chung của mô hình không phải thứ sinh viên nên nhận: giảng viên chọn, sửa và ký thông điệp cuối. 21 giáo viên trong Aldino và cộng sự viết lại giọng điệu vì cùng lý do đó. [[personalized-learning|Cá nhân hóa]] là việc của bạn trong thiết kế này, và mô hình đang làm phần việc chuẩn bị.
 
 **“Sinh viên của tôi dù sao cũng không đọc phản hồi.”** Họ đọc ít hơn chúng ta hy vọng, và bằng chứng nói cách sửa là thiết kế chứ không phải khối lượng. Mức tiếp nhận trong dự án thí điểm Deakin khoảng 13% và 12%. Những nhận xét được đánh giá cao hơn của Farrokhnia và cộng sự không tạo thêm bản sửa. Điều làm thay đổi tình hình là một trình tự buộc phải tham gia, tự đánh giá rồi phản hồi từ bạn học rồi phê bình của AI, cộng với ba chu kỳ sửa trong một học kỳ tạo ra khác biệt đo được về năng lực đọc phản hồi.
 

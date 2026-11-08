@@ -108,7 +108,7 @@ ai_assist:
 
 ## 특수 집단과 글로벌 형평성
 
-- **특수 집단:** [[special-education]], [[neurodivergent-computing-students|신경다양성 학습자]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[special-education|장애가 있는 학습자]]는 AI 시스템 설계에서 필요가 자주 간과되는 집단을 이룹니다.
+- **특수 집단:** [[special-education]], [[neurodivergent-computing-students|신경다양성 학습자]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[inclusive-learning|장애가 있는 학습자]]는 AI 시스템 설계에서 필요가 자주 간과되는 집단을 이룹니다.
 - **글로벌 사우스 관점:** [[suacode-african-students-motivations|아프리카 학생 동기]], [[connected-ai-lesson-planning-vietnam|베트남 AI 수업 계획]], [[pre-service-science-teachers-ai-perceptions-2026|가나 교사 수용]]은 서구 중심적 AIED 연구에 종종 부재하는 글로벌 사우스 관점을 제공합니다. 기관 수준에서는 [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 외(2026)]]가 나이지리아 대학 45곳에 걸친 AI 통합이 거버넌스 유형이 아니라 기관 연령과 지리에 의해 추동되며, 연결이 강한 기관이 이점을 복리로 쌓게 하는 네트워크 유대를 보여 준다는 것을 발견합니다. 즉 형평성 간극이 개인의 접근뿐 아니라 구조적으로 재생산된다는 증거입니다.
 - **글로벌 역량:** 증거는 생성형 AI의 혜택이 국가와 기관에 걸쳐 고르지 않게 분배되는 방식을 문서화하며, [[ai-lifelong-learning-policy|AI와 평생학습 정책]]은 구조적 사회경제적 경사를 다룹니다.
 - 72편의 고등교육 평가 연구에 대한 PRISMA 고찰은 증거 기반이 지리적으로 집중되어 있음을 발견했습니다. 호주와 영국이 72편 가운데 31편을 함께 제공했고, 남아메리카에서 확인된 연구는 없었습니다([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).

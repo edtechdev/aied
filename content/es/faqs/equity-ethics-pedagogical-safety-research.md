@@ -50,7 +50,7 @@ Se siguen dos implicaciones de diseño. Diríjase a instituciones más nuevas y 
 
 ## Ponga a los estudiantes con discapacidad en la sala de diseño
 
-Incluya a [[special-education|estudiantes con discapacidad]] en el diseño y la evaluación, pruebe las interfaces reales contra los requisitos de accesibilidad y ofrezca vías equivalentes para participar y para demostrar el aprendizaje. El cumplimiento técnico y la [[inclusive-learning|enseñanza inclusiva]] son pruebas distintas, y [[accessibility|Accesibilidad]] cubre ambas.
+Incluya a [[inclusive-learning|estudiantes con discapacidad]] en el diseño y la evaluación, pruebe las interfaces reales contra los requisitos de accesibilidad y ofrezca vías equivalentes para participar y para demostrar el aprendizaje. El cumplimiento técnico y la [[inclusive-learning|enseñanza inclusiva]] son pruebas distintas, y [[accessibility|Accesibilidad]] cubre ambas.
 
 Un [[ko-hughes-vsd-student-centered-its-2026|estudio de diseño sensible a los valores]] con estudiantes, docentes y desarrolladores de un community college muestra el trabajo en la práctica. Produjo 16 funciones alineadas con valores en [[explainable-ai|explicabilidad]] (E1-E5), control [[human-in-the-loop-ai|con el humano en el circuito]] (H1-H9) y [[privacy|privacidad]] (P1-P4), y sacó a la luz tensiones en lugar de respuestas ordenadas: transparencia frente a interpretabilidad, privacidad frente a conocimiento instruccional y [[agency|agencia]] del estudiante frente al [[scaffolding|andamiaje]] guiado por el sistema. Cuente con dirimir esas tensiones y registrar por qué lado se decidió.
 

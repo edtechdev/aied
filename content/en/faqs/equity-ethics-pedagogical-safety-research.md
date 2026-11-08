@@ -43,7 +43,7 @@ Two design implications follow. Target newer institutions and underserved region
 
 ## Put disabled learners in the design room
 
-Include [[special-education|learners with disabilities]] in design and evaluation, test actual interfaces against accessibility requirements, and provide equivalent routes to participate and to demonstrate learning. Technical compliance and [[inclusive-learning|inclusive teaching]] are separate tests, and [[accessibility|Accessibility]] covers both.
+Include [[inclusive-learning|learners with disabilities]] in design and evaluation, test actual interfaces against accessibility requirements, and provide equivalent routes to participate and to demonstrate learning. Technical compliance and [[inclusive-learning|inclusive teaching]] are separate tests, and [[accessibility|Accessibility]] covers both.
 
 A [[ko-hughes-vsd-student-centered-its-2026|value-sensitive design study]] with community college students, instructors, and developers shows the work in practice. It produced 16 value-aligned features across [[explainable-ai|explainability]] (E1-E5), [[human-in-the-loop-ai|human-in-the-loop]] control (H1-H9), and [[privacy]] (P1-P4), and surfaced tensions rather than tidy answers: transparency against interpretability, privacy against instructional insight, learner [[agency]] against system-guided [[scaffolding]]. Expect to adjudicate those, and record which way you went.
 

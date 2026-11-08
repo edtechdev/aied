@@ -1,9 +1,9 @@
 ---
 title: "Tôi có thể dùng AI để chấm bài của sinh viên một cách công bằng và đáng tin cậy không?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -48,7 +48,7 @@ Ba cách sắp xếp đều được gọi là “chấm bài bằng AI” và c
 
 Một **trợ lý phản hồi** soạn nhận xét hoặc gắn cờ những chỗ có thể thiếu để bạn chấp nhận, viết lại hay bỏ đi. Rủi ro chỉ giới hạn ở chất lượng nhận xét, và bạn đọc mọi thứ trước khi nó đến tay sinh viên. Một **người đọc thứ hai** đề xuất điểm theo tiêu chí hoặc gắn cờ những chỗ bất đồng để định hình việc chấm của chính bạn. Lỗi của nó phải hữu ích chứ không chỉ là sai: một cờ khiến bạn quay lại một bài nộp mà lẽ ra bạn đã chấm qua loa thì đáng giữ. Một **người chấm chính** tạo ra những điểm số trở thành điểm được ghi nhận. Đó là cách sắp xếp mà bằng chứng trong cơ sở tri thức này không ủng hộ ngoài những trường hợp hẹp, đã được kiểm chứng tại chỗ.
 
-Hãy chọn nấc thấp nhất giải quyết được ràng buộc thực tế của bạn. Nếu khối lượng chấm của bạn đến từ việc đối chiếu một đáp án cố định, việc chấm tất định thông thường minh bạch và kiểm toán được hơn một mô hình ngôn ngữ, và nghiên cứu dược cho thấy lợi thế của LLM trên các câu hỏi khách quan phần nào là hệ quả của việc được đưa sẵn đáp án đúng trong lúc chấm. Hãy để dành mô hình cho những bài cần diễn giải, rồi kiểm tra phần diễn giải đó.
+Hãy chọn nấc thấp nhất giải quyết được ràng buộc thực tế của bạn. Nếu khối lượng chấm của bạn đến từ việc đối chiếu một đáp án cố định, việc chấm tất định thông thường minh bạch và kiểm toán được hơn một [[llm|mô hình ngôn ngữ]], và nghiên cứu dược cho thấy lợi thế của LLM trên các câu hỏi khách quan phần nào là hệ quả của việc được đưa sẵn đáp án đúng trong lúc chấm. Hãy để dành mô hình cho những bài cần diễn giải, rồi kiểm tra phần diễn giải đó.
 
 [[automated-assessment|Đánh giá tự động]] bao quát bộ máy rộng hơn của việc chấm điểm, duyệt điểm và tạo phản hồi. Trang này là câu hỏi về phán đoán nằm bên dưới bộ máy đó.
 

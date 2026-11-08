@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 On helmikuu. Vararehtorisi on ilmoittanut tekoälyaloitteesta, jolla on budjettirivi, ja sinulla on yksi lukukausi aikaa saada se näkymään luokkahuoneissa. Tai pidit kuusi työpajaa viime syksynä, salit olivat täynnä, eikä opetus, jonka ääreen istahdat, ole muuttunut. Tai dekaani kysyy budjettineuvottelussa suoran kysymyksen: mitä raha osti?
 
-Kaikki kolme tulevat samasta suunnitteluvirheestä. Työpaja näyttää ihmisille, mitä työkalu tekee. Käytäntö muuttuu, kun opettaja käyttää tuettua, jäsenneltyä aikaa oman kurssinsa ongelmaan, niin kauan että uusi tapa syrjäyttää vanhan, ja kun oppilaitos sanoo kokeelle kyllä eikä vain siedä sitä.
+Kaikki kolme tulevat samasta suunnitteluvirheestä. Työpaja näyttää ihmisille, mitä työkalu tekee. Käytäntö muuttuu, kun [[teacher-role|opettaja]] käyttää tuettua, jäsenneltyä aikaa oman kurssinsa ongelmaan, niin kauan että uusi tapa syrjäyttää vanhan, ja kun oppilaitos sanoo kokeelle kyllä eikä vain siedä sitä.
 
 Kokouksen ydinsanoma: standardoi istuntosykli, jossa jokainen osallistuja tuo todellisen kurssiartefaktin ja lähtee korjatun kanssa, laita verifiointi, ilmoittaminen ja riskienhallinta työasiakirjaan eikä päätöksen eettiseksi puheeksi, venytä ohjelma pidemmälle kuin yhden päivän yli ja liitä siihen mentorointi, järjestä oppiainekohtaiset kohortit ja raportoi jatkotapaamisessa se, mitä ihmiset tuottivat, eikä sitä, miten itsevarmoiksi he itsensä kokivat viimeisenä iltapäivänä.
 
@@ -54,9 +54,12 @@ Kaksi muuta tulosta selittää, miksi esittelyt eivät kulje mukana. [[pishtari-
 
 Yhteistä näille tutkimuksille: oppiminen tuli materiaalin arvostelusta ja korjaamisesta. Ihmiset parantavat sitä, mikä on heidän edessään, ja he parantavat sitä nopeammin, kun kollega lukee sitä myös.
 
+Tutkimusosaaminen voi olla tavoite eikä sivutuote. Kuuden viikon tekoälytuetussa ohjelmassa, johon osallistui 105 kemian opettajaa, jokainen mitattu ulottuvuus parani esi- ja jälkitestin välillä (Cohenin dz = 0,47–0,63), ja suurin muutos oli tutkimusosaamisessa, joka nousi arvosta 3,50 (keskihajonta = 0,88) arvoon 4,16 (keskihajonta = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay ym. (2026)]]). Opettajien kuvaus tekoälystä siirtyi tiedonhaun ja kirjoittamisen työkalusta kohti tutkimuksen suunnittelun ja datapohjaisten päätösten tukea. Asetelma oli yksiryhmäinen esi- ja jälkitutkimus, joten pidä hyötyä ohjelmanäyttönä eikä kausaalivaikutuksena; sen lisäanti on konkreettinen tapa tehdä tutkijan roolista osa samaa täydennyskoulutussykliä.
+
+
 ## Lakkaa pitämästä taitoa puuttuvana palasena
 
-Houketutteleva diagnoosi on osaamiskuilu, joka suljetaan paremmalla opetuksella. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsieh (2026)]] kyselyttivät 898 yliopisto-opettajaa [[tpack|AI-TPACK]]-asteikoilla ja havaitsivat, että opettajat, jotka ymmärsivät, miten generatiiviset työkalut toimivat tai osasivat käyttää niitä pätevästi, eivät raportoineet uusien opetuskäytäntöjen keksimisestä ja käyttöönotosta sen todennäköisemmin kuin ne, jotka eivät osanneet. Integroidulla AI-TPACK-konstruktiolla ei ollut lainkaan suoraa polkua innovatiiviseen käyttäytymiseen. Sen vaikutus kulki kokonaan [[ai-literacy|tekoälylukutaidon]], opetuksen [[self-efficacy|minäpystyvyyden]] ja ammatillisen identiteetin kautta.
+Houketutteleva diagnoosi on osaamiskuilu, joka suljetaan paremmalla opetuksella. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsieh (2026)]] kyselyttivät 898 yliopisto-opettajaa [[tpack|AI-TPACK]]-asteikoilla ja havaitsivat, että opettajat, jotka ymmärsivät, miten generatiiviset työkalut toimivat tai osasivat käyttää niitä pätevästi, eivät raportoineet uusien [[pedagogy|opetuskäytäntöjen]] keksimisestä ja käyttöönotosta sen todennäköisemmin kuin ne, jotka eivät osanneet. Integroidulla AI-TPACK-konstruktiolla ei ollut lainkaan suoraa polkua innovatiiviseen käyttäytymiseen. Sen vaikutus kulki kokonaan [[ai-literacy|tekoälylukutaidon]], opetuksen [[self-efficacy|minäpystyvyyden]] ja ammatillisen identiteetin kautta.
 
 Se muuttaa sitä, mitä varten istunto on. Työkalun läpikäynti ei käsittele yhtäkään noista kolmesta. Istunto, jossa opettaja kirjoittaa oman tehtävänsä uudelleen, puolustaa muutosta ja kuulee kollegan myöntävän, että se on parempi, käsittelee kaikkia kolmea yhtä aikaa, ja siksi artefaktisykli voittaa esittelyn, vaikka sisältö olisi ohuempaa.
 
@@ -64,7 +67,7 @@ Suunnitteluseuraus on epämukava kaikille, joilla on diaesitys: et voi luennoida
 
 ## Laita vaikeat osat malliin, jota he käyttävät
 
-[[designing-ai-professional-development-itpack-2026|Doganin (2026) i-TPACK-kehikko]] tulee PRISMA-katsauksesta tekoälyn täydennyskoulutuksesta sekä hausta, joka nosti esiin 17 lisätutkimusta. Se kohdistaa viisi tietoaluetta (älykäs teknologinen tieto, teknologinen sisältötieto, teknologinen pedagoginen tieto, integroitu i-TPACK ja tekoälyn etiikka) neljään näyttöön perustuvaan polkuun: [[active-learning|aktiivinen oppiminen]], mallit ja esimerkit, valmennus ja asiantuntijatuki sekä [[feedback|palaute]] ja reflektio, joita ohjaa viisi periaatetta aina yhteisöllisestä synergiasta siiloja vastaan rakenteen sisäiseen joustavuuteen.
+[[designing-ai-professional-development-itpack-2026|Doganin (2026) i-TPACK-kehikko]] tulee [[meta-analysis-systematic-review|PRISMA-katsauksesta]] tekoälyn täydennyskoulutuksesta sekä hausta, joka nosti esiin 17 lisätutkimusta. Se kohdistaa viisi tietoaluetta (älykäs teknologinen tieto, teknologinen sisältötieto, teknologinen pedagoginen tieto, integroitu i-TPACK ja [[ethics|tekoälyn etiikka]]) neljään näyttöön perustuvaan polkuun: [[active-learning|aktiivinen oppiminen]], mallit ja esimerkit, valmennus ja asiantuntijatuki sekä [[feedback|palaute]] ja reflektio, joita ohjaa viisi periaatetta aina yhteisöllisestä synergiasta siiloja vastaan rakenteen sisäiseen joustavuuteen.
 
 Kehikon terävin kritiikki alaa kohtaan on, että etiikkaa käsitellään pinnalisesti tai se puuttuu kokonaan monista olemassa olevista ohjelmista, ja korjaus on sijoittelu. Verifiointi, ilmoittaminen ja riskienhallinta kuuluvat asiakirjaan, jota osallistujat käyttävät koko viikon, eivät viimeisen istunnon viimeisiin 20 minuuttiin. Malli, jossa on riskienhallintasarake, täytetään; vastuullisen käytön päätösjakso kuittataan nyökkäyksellä.
 
@@ -74,7 +77,7 @@ Kehikon raja on, että se on käsitteellinen, ilman ohjelmatason tulosaineistoa.
 
 Jos ohjelmassasi on tilaa yhdelle syvälle aiheelle, valitse arviointi. [[genai-pd-ai-pck-learning-gain-2026|Talebzadehin (2026)]] kahdeksan tunnin ohjelmassa, neljässä kahden tunnin istunnossa 163 opettajan ja opettajaopiskelijan kanssa, AI-PCK nousi kokonaisuudessaan 151,65:stä 220,14:ään (*d* = 2,36, *p* < 0,001). Suurin osakomponentin vaikutus oli arviointirubriikeilla (*d* = 2,19), joka oli myös heikoin alue esitestissä. Hyöty oli kapeampi opetusmenetelmässä kuin arvioinnissa.
 
-Rubriikit ovat myös se paikka, jossa huoneessa oleva ahdistus voidaan laittaa töihin. Osallistuja, jota huolettaa opiskelijoiden nojaaminen mallin varaan, voi kirjoittaa rubriikkirivin, joka tekee päättelyn näkyväksi, mikä muuttaa huolen suunnittelupäätökseksi, jolla on päivämäärä.
+Rubriikit ovat myös se paikka, jossa huoneessa oleva [[anxiety-and-stress|ahdistus]] voidaan laittaa töihin. Osallistuja, jota huolettaa opiskelijoiden nojaaminen mallin varaan, voi kirjoittaa rubriikkirivin, joka tekee päättelyn näkyväksi, mikä muuttaa huolen suunnittelupäätökseksi, jolla on päivämäärä.
 
 Budjetoi yhden päivän yli. Samassa ohjelmassa opettajaopiskelijat hyötyivät merkitsevästi enemmän kuin kokeneet (*p* = 0,033), pääosin skenaariopohjaisessa tehtäväsuunnittelussa ja rubriikkisuunnittelussa. Kokeneet opettajat sanoivat, että kahdeksan tuntia on liian vähän syvään juurtuneiden tapojen siirtämiseen, ja pyysivät pitkäaikaista, mentorointiin perustuvaa tukea.
 
@@ -84,7 +87,7 @@ Järjestä yksi yhteinen työpaja, niin käytät suurimman osan siitä mediaanio
 
 Ne kolme matalaa aluetta korreloivat keskenään r = 0,81-0,91, mikä uskottavasti tarkoittaa yhtä kykyä opettaa näillä työkaluilla kolmen erillisen taidon sijaan. Opeta se yhteisenä perustana, niin säästät kaksi istuntoa.
 
-Jaa sitten kokemuksen mukaan. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsieh]] havaitsivat, että ammatillinen identiteetti ennusti innovatiivista käyttäytymistä lähes kaksinkertaisen vahvasti harvoin tekoälyä käyttävien joukossa kuin päivittäisten käyttäjien, rajalla oleva tulos mutta käyttökelpoinen osoitin: identiteettityö kannattaa eniten niiden kanssa, jotka tuskin koskettavat työkaluja, kun taas usein käyttävät hyötyvät enemmän tieteidenvälisistä projekteista kuin perusteista. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumentoi oppiainekohtaisten kohorttien puolesta juuri tuon keskustelun paikkana, sillä fyysikko ja historioitsija eivät ratkaise samaa ongelmaa.
+Jaa sitten kokemuksen mukaan. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsieh]] havaitsivat, että ammatillinen identiteetti ennusti innovatiivista käyttäytymistä lähes kaksinkertaisen vahvasti harvoin tekoälyä käyttävien joukossa kuin päivittäisten käyttäjien, rajalla oleva tulos mutta käyttökelpoinen osoitin: [[learner-identity|identiteettityö]] kannattaa eniten niiden kanssa, jotka tuskin koskettavat työkaluja, kun taas usein käyttävät hyötyvät enemmän tieteidenvälisistä projekteista kuin perusteista. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] argumentoi oppiainekohtaisten kohorttien puolesta juuri tuon keskustelun paikkana, sillä fyysikko ja historioitsija eivät ratkaise samaa ongelmaa.
 
 ## Aloita kysymyksestä, jota skeptikot kysyvät
 
@@ -92,7 +95,7 @@ Jaa sitten kokemuksen mukaan. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsie
 
 Syyllisyys on mitattavissa, eikä se jakaudu tasaisesti. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] kyselytti 109 akateemista työntekijää ja tunnisti ”tekoälyn syyllisyyskompleksin”: 35 % oli huolissaan siitä, että tekoälyn käyttö heikentää heidän uskottavuuttaan, ja 26 % raportoi tuntevansa olevansa ”huijaamassa”, ja ennakolta koettu uskottavuussyyllisyys ylitti käytön jälkeisen katumuksen, joten ahdistus on sosioammatillista eikä yksityistä. Neljä profiilia nousi esiin: mukavat omaksujat (27 %), syylliset käyttämättömät (29 %), varovaiset käyttäjät (28 %) ja moraalisesti ahdistuneet välttelijät (16 %). Yksi ohjelma käsittelee neljää eri ongelmaa, ja 29 %, jotka tuntevat syyllisyyttä käyttämättä työkaluja, tarvitsevat jotain muuta kuin esittelyn.
 
-Tehtävän koko näkyy [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U:n ja Elonin 1 057 opettajan kyselyssä (Watson ja Rainie, 2026)]]: 68 % sanoi, etteivät heidän oppilaitoksensa ole valmistaneet henkilöstöä käyttämään generatiivista tekoälyä opetuksessa ja ohjauksessa, ja samansuuruinen osuus sanoi samaa tutkimustyöstä. 26 % vastaajista ei käytä työkaluja lainkaan, mukaan lukien 40 % taide- ja humanististen alojen opettajista, ja 82 % nimeää kollegojen vastarinnan esteeksi osaston laajuiselle käyttöönotolle.
+Tehtävän koko näkyy [[watson-rainie-ai-challenge-faculty-survey-2026|AAC&U:n ja Elonin 1 057 opettajan kyselyssä (Watson ja Rainie, 2026)]]: 68 % sanoi, etteivät heidän oppilaitoksensa ole valmistaneet henkilöstöä käyttämään [[generative-ai|generatiivista tekoälyä]] opetuksessa ja ohjauksessa, ja samansuuruinen osuus sanoi samaa tutkimustyöstä. 26 % vastaajista ei käytä työkaluja lainkaan, mukaan lukien 40 % taide- ja humanististen alojen opettajista, ja 82 % nimeää kollegojen vastarinnan esteeksi osaston laajuiselle käyttöönotolle.
 
 ## Korjaa olosuhteet, joita opetussuunnitelma ei korjaa
 
@@ -100,13 +103,13 @@ Tämä on havainto, joka kannattaa viedä johtoryhmän kokoukseen. Yllä olevan 
 
 Ohjelmajohtajan käytettävissä olevat vivut ovat siis paikallisia ja lähellä: käytännön harjoittelu, eksplisiittinen lupa kokeilla, materiaalit kielillä, joilla henkilöstö todella työskentelee, näkyvä tuki yksiköltä. Kansallisen periaatteen kehystys ei kanna valmiutta yksinään. Siellä missä riskiherkkyys puree, vastaus on antaa sille paikka, jossa sitä voi harjoittaa, eikä puhua varovaisuutta alas, ja rubriikkisuunnittelu ja verifiointirutiinit ovat se paikka.
 
-Kaksi käytännön hankauskohtaa kuuluu samaan keskusteluun. Jatkokäytön aikomus oli korkeimmalle arvioitu tyytyväisyysulottuvuus [[faculty-development-centers-genai-training-optimization-2026|Bi ym.:llä (2026)]], kun taas työkalun käytettävyys oli matalin, joten osa siitä, mikä näyttää vastahakoisuudelta, on alustan hankausta. Ja [[ai-emotional-intelligence-teacher-development-2026|Aponte ym. (2026)]] paikantavat kovan rajan: tekoäly ei voi kompensoida kroonista ylikuormitusta, rankaisevaa vastuullisuuskulttuuria, heikkoa johtajuutta eikä suojatun ajan puutetta. He argumentoivat, että se edistää opettajien sosioemotionaalista kehitystä vain relationaalisena infrastruktuurina (suojattu aika mentoroinnille, vertaiskeskustelulle, käytäntöyhteisöille) ja ehdottavat standardiksi käsitettä *relational densification*, joka laskee luottamusta, tuen jatkuvuutta ja yhteissäätelyä kontaktituntien sijaan. Kaksi väitettä kääntyy ohjelmasuunnitteluksi: vapautunut aika imeytyy takaisin lisävaatimuksena, ellei oppilaitos muodollisesti vaadi sen uudelleensijoittamista, ja keskusteluagentit voivat hiljaa korvata ne vaikeat inhimilliset neuvottelut, jotka tuottavat kasvua. Heidän kehikkonsa on heuristiikka, ei testattu kausaalinen väite.
+Kaksi käytännön hankauskohtaa kuuluu samaan keskusteluun. Jatkokäytön aikomus oli korkeimmalle arvioitu tyytyväisyysulottuvuus [[faculty-development-centers-genai-training-optimization-2026|Bi ym.:llä (2026)]], kun taas työkalun [[usability-research|käytettävyys]] oli matalin, joten osa siitä, mikä näyttää vastahakoisuudelta, on alustan hankausta. Ja [[ai-emotional-intelligence-teacher-development-2026|Aponte ym. (2026)]] paikantavat kovan rajan: tekoäly ei voi kompensoida kroonista ylikuormitusta, rankaisevaa vastuullisuuskulttuuria, heikkoa johtajuutta eikä suojatun ajan puutetta. He argumentoivat, että se edistää opettajien sosioemotionaalista kehitystä vain relationaalisena infrastruktuurina (suojattu aika mentoroinnille, vertaiskeskustelulle, käytäntöyhteisöille) ja ehdottavat standardiksi käsitettä *relational densification*, joka laskee luottamusta, tuen jatkuvuutta ja yhteissäätelyä kontaktituntien sijaan. Kaksi väitettä kääntyy ohjelmasuunnitteluksi: vapautunut aika imeytyy takaisin lisävaatimuksena, ellei oppilaitos muodollisesti vaadi sen uudelleensijoittamista, ja [[conversational-ai|keskusteluagentit]] voivat hiljaa korvata ne vaikeat inhimilliset neuvottelut, jotka tuottavat kasvua. Heidän kehikkonsa on heuristiikka, ei testattu kausaalinen väite.
 
 Jos nuo olosuhteet ovat sinun, parempi työpaja ei korjaa niitä, ja sen sanominen on hyödyllisempää kuin muun lupailu.
 
 ## Raportoi artefaktit viiveellä
 
-Institutionaalinen tukikehikko, johon kannattaa kohdistaa, on [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke ja Nickel (2026)]], jonka kahden makrosyklin ja 114 osallistujan suunnittelupohjainen tutkimus (opettajia 28 yhdysvaltalaisesta oppilaitoksesta ja 11 maasta sekä opetuskeskusten johtajia ja akkreditointikoordinaattoreita) tuotti kuusi standardia, jotka kattavat koko akateemisen roolin: opettaja, koordinaattori, johtaja, tutkija, oppija ja osallistuja. Olemassa olevat kehikot ja kouluttajastandardit kohdistuvat [[k-12|perus- ja toisen asteen]] opettajiin tai käsittelevät vain opettamista, joten keskus, joka kohdistaa tarjontansa näihin, voidaan kohdistaa kehityskeskusteluun ja akkreditointiin, mikä on myös argumentti, joka kestää budjettikatsauksen.
+Institutionaalinen tukikehikko, johon kannattaa kohdistaa, on [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke ja Nickel (2026)]], jonka kahden makrosyklin ja 114 osallistujan [[design-based-research|suunnittelupohjainen tutkimus]] (opettajia 28 yhdysvaltalaisesta oppilaitoksesta ja 11 maasta sekä opetuskeskusten johtajia ja akkreditointikoordinaattoreita) tuotti kuusi standardia, jotka kattavat koko akateemisen roolin: opettaja, koordinaattori, johtaja, tutkija, oppija ja osallistuja. Olemassa olevat kehikot ja kouluttajastandardit kohdistuvat [[k-12|perus- ja toisen asteen]] opettajiin tai käsittelevät vain opettamista, joten keskus, joka kohdistaa tarjontansa näihin, voidaan kohdistaa kehityskeskusteluun ja akkreditointiin, mikä on myös argumentti, joka kestää budjettikatsauksen.
 
 Ole sitten varovainen arvioinnissa, koska suurin osa tästä kirjallisuudesta mittaa [[self-report-measures|itse raportoituja]] vaikutelmia. Bi ym. mittasivat itse raportoitua valmiutta eivätkä toteutunutta opetusta, ja heidän ryhmänsä muodostuivat vapaaehtoisen ilmoittautumisen eikä satunnaistuksen perusteella, joten tulokset ovat assosiaatioita. [[ai-teaching-innovation-ai-tpack-2026|Bai ja Hsieh]] on poikkileikkaustutkimus, itsevalikoitunut, kahdeksasta yhden maan yliopistosta, ja se mittasi jokaisen konstruktion samoista vastaajista yhtenä ajankohtana. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo ja kumppanit]] eivät voi osoittaa syy-seuraussuunnan suuntaa, millä on väliä, koska heidän vahvin väitteensä, että teknologinen tieto toimii porttina, on juuri se, mitä poikkileikkausasetelma ei pysty ratkaisemaan. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] raportoi erittäin suuria vaikutuksia ilman satunnaistusta, seurantaa tai oppiainetason erittelyä, joten *d* = 2,36 luetaan lyhytaikaiseksi. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] on autoetnografinen, ja [[ai-emotional-intelligence-teacher-development-2026|Aponte ym.]] toteavat, että heidän kehikkonsa on käsitteellinen.
 
@@ -142,7 +145,7 @@ Institutionaalinen mandaatti kantaa ohjelman. Kazakstanin kerroin romahti noin n
 
 **2.** Kirjoita ohjelma uudelleen niin, että ensimmäinen istunto alkaa tuosta artefaktista, ja lisää verifiointi, ilmoittaminen ja riskienhallinta sarakkeiksi malliin, jota osallistujat kantavat koko viikon.
 
-**3.** Siirrä yksi istunto rubriikki- ja arviointisuunnitteluun ja anna osallistujien lähteä rubriikki kirjoitettuna.
+**3.** Siirrä yksi istunto rubriikki- ja [[assessment|arviointisuunnitteluun]] ja anna osallistujien lähteä rubriikki kirjoitettuna.
 
 **4.** Hanki dekaanilta tai vararehtorilta yksi lause kirjallisena siitä, että kokeilu on sallittua, ja suojaa sitten tunnit muodollisesti, jotta niitä ei imeytetä takaisin.
 

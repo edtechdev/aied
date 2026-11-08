@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Lyhyt vastaus tuota kokousta varten: tekoäly voi hoitaa haun, ensimmäisen seul
 
 ## Päätä, mihin tekoäly saa koskea ennen hankkeen alkua
 
-Laajuuspäätös kuuluu hanketiedostoon, ei jonkun muistiin. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dain ja Chanin (2026) fokusryhmätutkimuksessa]] tutkijat, jotka olivat asiaa miettineet, kalibroivat käytön panosten ja älyllisen keskeisyyden mukaan: enemmän matalan panoksen prosessityöhön, varovaisesti siellä, missä tieteellinen kontribuutio oli keskiössä. 27 tutkijaa 28:sta tuon tutkimuksen jatko-opiskelijatutkijasta oli käyttänyt generatiivista tekoälyä jossain työnkulun vaiheessa, mukaan lukien akateeminen kirjoittaminen ja kääntäminen, joten useimmille tiimeille kysymys on siitä, mihin raja asettuu, ei siitä, onko rajaa.
+Laajuuspäätös kuuluu hanketiedostoon, ei jonkun muistiin. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dain ja Chanin (2026) fokusryhmätutkimuksessa]] tutkijat, jotka olivat asiaa miettineet, kalibroivat käytön panosten ja älyllisen keskeisyyden mukaan: enemmän matalan panoksen prosessityöhön, varovaisesti siellä, missä tieteellinen kontribuutio oli keskiössä. 27 tutkijaa 28:sta tuon tutkimuksen jatko-opiskelijatutkijasta oli käyttänyt [[generative-ai|generatiivista tekoälyä]] jossain työnkulun vaiheessa, mukaan lukien [[writing-education|akateeminen kirjoittaminen]] ja kääntäminen, joten useimmille tiimeille kysymys on siitä, mihin raja asettuu, ei siitä, onko rajaa.
 
 Kirjoita raja listana, jossa jokaisella tehtävällä on tuomio: kirjallisuushaku, abstraktien seulonta, poiminta, laadullinen koodaus, tilastollinen analyysi, luonnostelu, viitteiden muotoilu. Lue tuo tutkimus karttana siitä, mitä tutkijat kertoivat tekevänsä. Se on fokusryhmäkertomus, ei vaikuttavuustulos.
 
@@ -64,27 +64,30 @@ Suurin osa hyödystä tulee kahdesta suunnittelupäätöksestä. Kirjoita päät
 
 Delegointi voi olla hienojakoisempaa kuin kaikki tai ei mitään. [[agreement-not-quality-llm-coding-verification|Yksi sokkoutettu varmistustutkimus]] luokitteli 15 koodikirjan 72 kohdasta sellaisiksi, jotka osoitetusti vaativat ihmisasiantuntemusta, 12 sellaisiksi, joita malli palveli paremmin, ja 16 sellaisiksi, jotka sopivat luottamukseen perustuvaan lajitteluun. Lajittele omat kohteesi samalla tavalla, niin työn säästö osuu sinne, missä se on turvallista.
 
+Aihemallinnus voi laajentaa tuota rakennetta ottamatta tulkintaa haltuunsa. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey ja Flor (2026)]] yhdistivät ankkuroidun koodauksen, Affinity Propagationilla klusteroidut SentenceBERT-upotukset ja GPT-4-merkinnät kuudessa fokusryhmässä, joissa oli 13 opettajaa. Ihmistarkastus poisti 18 viestintäklusteria ja 16 digitaalisen lukutaidon klusteria keskustelun täytteenä, jolloin jäljelle jäi 14 ja 16 merkityksellistä klusteria; ChatGPT-4o ja Copilot olivat samaa mieltä 33,3 %:ssa ja 43,8 %:ssa merkinnöistä, kosinin samankaltaisuus oli 0,835–0,880, eikä ihmistarkastus löytänyt selkeitä hallusinaatioita. Tutkimus on läpikäyty työnkulku, ei vertailu: siinä ei ole pelkästään ihmisen eikä pelkästään tekoälyn haaraa, eikä 13 opettajaa voi osoittaa yleistettävyyttä. Käytä sitä työnjaon näkemiseen, ei näyttönä siitä, että hybridi päihittää vaihtoehdot.
+
+
 ## Päätä, mitä varmistaminen tarkoittaa ja kuka sen allekirjoittaa
 
-Korkea yhteensopivuus mallin ja ihmiskoodaajan välillä raportoidaan ikään kuin se osoittaisi oikeellisuuden. Ei se osoita. [[agreement-not-quality-llm-coding-verification|Liu ym. (2026)]] antoivat riippumattoman asiantuntijan arvioida 855 koodausparia sokkona lähteestä. Ihmisen ja LLM:n yhteensopivuus (Jaccard-keskiarvo 0,30) jäi selvästi ihmisten välisestä yhteensopivuudesta (0,52), silti sokkoutettu varmistaja suosi ihmisen ja koneen koodausta osuuksilla, joita se ei pystynyt erottamaan toisistaan (51,5 % vastaan 48,5 %, p = 0,537). Joissain tapauksissa ihmisten konsensus koodasi jaettua harhaa, jonka varmistaja hylkäsi mallin hyväksi.
+Korkea yhteensopivuus mallin ja ihmiskoodaajan välillä raportoidaan ikään kuin se osoittaisi oikeellisuuden. Ei se osoita. [[agreement-not-quality-llm-coding-verification|Liu ym. (2026)]] antoivat riippumattoman asiantuntijan arvioida 855 koodausparia sokkona lähteestä. Ihmisen ja [[llm|LLM]]:n yhteensopivuus (Jaccard-keskiarvo 0,30) jäi selvästi ihmisten välisestä yhteensopivuudesta (0,52), silti sokkoutettu varmistaja suosi ihmisen ja koneen koodausta osuuksilla, joita se ei pystynyt erottamaan toisistaan (51,5 % vastaan 48,5 %, p = 0,537). Joissain tapauksissa ihmisten konsensus koodasi jaettua harhaa, jonka varmistaja hylkäsi mallin hyväksi.
 
 Varmistusvaihe tarvitsee siis kultaisen standardin, joka ei ole mallin tuotos eikä koodaajan yhteensopivuus sen kanssa, sekä nimetyn henkilön, joka ratkaisi erimielisyydet. Raportoi molemmat. Samankaltaisuustilasto kuvaa, miten lähellä kaksi luentaa ovat toisiaan, eikä se kerro mitään siitä, onko kumpikaan luenta oikea.
 
 ## Hae nopeasti ja tarkista sitten jokainen lähde itse
 
-Generatiivinen haku tiivistää, suosittaa, tekee synteesiä ja keskustelee, mikä horjuttaa vanhempaa järjestelyä, jossa järjestelmä paikantaa ja lukija tulkitsee ([[genai-academic-search-workshop|generatiivisen tekoälyn akateemisen haun työpaja]]). Kohtele sitä löytämistyökaluna. Työpajaraportti kantaa kaksi varoitusta: kyvykkyys on epätasaista, ja voimakkaasti viitattuja tutkijoita rekonstruoitiin noin kaksinkertaisella tahdilla matalammin viitattuihin verrattuna, ja kirjastonhoitaja kuvasi luottamuskuilua, jossa opiskelijat luottivat generatiiviseen hakuun liikaa ja tiedekunta ei luottanut siihen lainkaan.
+Generatiivinen haku tiivistää, suosittaa, tekee synteesiä ja keskustelee, mikä horjuttaa vanhempaa järjestelyä, jossa järjestelmä paikantaa ja lukija tulkitsee ([[genai-academic-search-workshop|generatiivisen tekoälyn akateemisen haun työpaja]]). Kohtele sitä löytämistyökaluna. Työpajaraportti kantaa kaksi varoitusta: kyvykkyys on epätasaista, ja voimakkaasti viitattuja tutkijoita rekonstruoitiin noin kaksinkertaisella tahdilla matalammin viitattuihin verrattuna, ja [[librarians|kirjastonhoitaja]] kuvasi luottamuskuilua, jossa opiskelijat luottivat generatiiviseen hakuun liikaa ja tiedekunta ei luottanut siihen lainkaan.
 
 Viitevarmistus on kohta, jossa tästä tulee neuvottelematonta, ja epäonnistumiset kasautuvat tekijäkenttään, siihen, joka kantaa krediitin. [[citation-errors-hallucinations-computing-education-2026|Denny ym. (2026)]] auditoivat 723 930 julkaisua ja 15 872 533 viitettä ja varmistivat 30 tekaistua viitettä 14 tietojenkäsittelyopetuksen artikkelista, kaikki vuosilta 2025 ja 2026. Kolmestakymmenestä 17 oli hybridi: oikea otsikko liitettynä tekaistuihin tai vääriin tekijöihin. Varmistettu määrä yhdessä teknisessä symposiumissa nousi 3:sta vuonna 2025 17:ään vuonna 2026, 2,3 %:ssa tuon vuoden konferenssiartikkeleista. Heidän kokonaismääränsä on tarkoituksellinen alaraja, ja automatisoidut tarkistimet perivät niiden metatietojen virheet, joita ne kohtelevat totuutena. Tarkista tekijät ensin.
 
 ## Kohtele automatisoitua pistemäärää hypoteesina, joka on testattava
 
-Automatisoidut mittaustoiminnot voivat näyttää täsmällisiltä ja ennustavilta ja olla silti läpinäkymättömiä. [[ai-methodologies-science-education-research-2026|Martin ym.]] kehystävät tämän Changin nomisen mittauksen ongelmalla: suureen mittaaminen edellyttää lakia, joka yhdistää sen johonkin havaittavaan, eikä tuota lakia voi testata tietämättä jo suuretta. Tekoälystä johdetut mittaustoiminnot nousevat harjoitusdatasta ja optimoinnista eivätkä tutkijasta, joten selitettävyystyö on olennaista sen osoittamiseksi, seuraako malli semanttista ymmärrystä vai vain avainsanoja.
+Automatisoidut mittaustoiminnot voivat näyttää täsmällisiltä ja ennustavilta ja olla silti läpinäkymättömiä. [[ai-methodologies-science-education-research-2026|Martin ym.]] kehystävät tämän Changin nomisen mittauksen ongelmalla: suureen mittaaminen edellyttää lakia, joka yhdistää sen johonkin havaittavaan, eikä tuota lakia voi testata tietämättä jo suuretta. Tekoälystä johdetut mittaustoiminnot nousevat harjoitusdatasta ja optimoinnista eivätkä tutkijasta, joten [[explainable-ai|selitettävyystyö]] on olennaista sen osoittamiseksi, seuraako malli semanttista ymmärrystä vai vain avainsanoja.
 
 Vika on konkreettinen. [[zhang-platform-scores-miss-ai-teaching-agents-2026|Kahdeksan tekoälyopetusagentin arvioinnissa]] alustan oman pistemäärän mukaan kolmanneksi sijoittunut agentti sijoittui viimeiseksi asiantuntijavalidoidulla arviointikriteeristöllä. Ihmisen ja koneen erimielisyys on systemaattista eikä satunnaista, ja kriteeristön operationalisointi on usein tärkeämpää kuin kehotteen viimeistely ([[machines-misread-pedagogical-quality|Tseng ym., 2026]]). Ennen kuin automatisoitu pistemäärä tulee mittariksiksesi, validoi se mittaria vastaan, joka on sidottu siihen kyvykkyyteen, jota aiot tutkia. Itse mittareista katso [[evaluating-ai-interventions-methods|interventioiden arviointimenetelmät]].
 
 ## Kirjoita menetelmäosio niin, että ulkopuolinen voi auditoida sen
 
-Käyttöönotto on kulkenut raportoinnin edellä. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ja Lin (2026)]] analysoivat 888 katsausautomaation artikkelia: vuodesta 2023 lähtien 38,0 % ohjelmisto- ja tuoteartikkeleista ei raportoinut lainkaan arviointia, kun LLM-artikkeleista vastaava osuus oli 9,3 %, ja mallipääsy oli ylivoimaisesti suljettua (84,1 %). Myönteinen kokonaisarvio ei sekään merkinnyt delegoitavuutta, koska 52 %:ssa 118:sta vain positiivisia tuloksia raportoineesta LLM-artikkelista raportoitiin silti huoli siitä, että työnkulku jäi alle sen roolin vaatiman riman. Heidän PRISMA-LLM-kehyksensä erottaa toteutuksen paljastamisen seurausherkästä arvioinnista ja kohtelee viittä tasoaan paljastustasoina eikä riskitasoina.
+Käyttöönotto on kulkenut raportoinnin edellä. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ja Lin (2026)]] analysoivat 888 katsausautomaation artikkelia: vuodesta 2023 lähtien 38,0 % ohjelmisto- ja tuoteartikkeleista ei raportoinut lainkaan arviointia, kun LLM-artikkeleista vastaava osuus oli 9,3 %, ja mallipääsy oli ylivoimaisesti suljettua (84,1 %). Myönteinen kokonaisarvio ei sekään merkinnyt delegoitavuutta, koska 52 %:ssa 118:sta vain positiivisia tuloksia raportoineesta LLM-artikkelista raportoitiin silti huoli siitä, että työnkulku jäi alle sen roolin vaatiman riman. Heidän [[meta-analysis-systematic-review|PRISMA]]-LLM-kehyksensä erottaa toteutuksen paljastamisen seurausherkästä arvioinnista ja kohtelee viittä tasoaan paljastustasoina eikä riskitasoina.
 
 Käytännön versio: nimeä järjestelmä ja sen versio, kehotteet, korpusversio, mitä ihminen tarkisti ja missä se epäonnistui. Pidä kehote- ja vastauslokeja, koska sujuvasti tuotettu teemalista näyttää väistämättömältä kauan ennen kuin sen näyttötyö on alkanut ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Määrittele kriteerisi etukäteen ja pidä ne näkyvinä. Pieni paikallinen tut
 
 Raportoi tekoälyn rooli, tekemäsi varmistus ja yhden kurssin, yhden tutkijan asetelman rajat. Työnkulkukertomus ei ole vaikuttavuustulos.
 
-Kohtele kohortin simuloimista edistyneenä vaihtoehtona, ei oletusarvona. Simuloidut oppijat kattavat yleensä tosiasiallisen opiskelijakäyttäytymisen helpoimman neljänneksen, ja ne validoidaan harvoin käytön jälkeen ([[simulating-students|opiskelijoiden simuloiminen]]). Lue [[making-simulated-students-behave-like-learners|miten simuloidut opiskelijat saadaan käyttäytymään kuin oppijat]] ennen kuin luot simulaattorin tuomioon.
+Kohtele kohortin simuloimista edistyneenä vaihtoehtona, ei oletusarvona. Simuloidut oppijat kattavat yleensä tosiasiallisen opiskelijakäyttäytymisen helpoimman neljänneksen, ja ne validoidaan harvoin käytön jälkeen ([[simulating-students|opiskelijoiden simuloiminen]]). Lue [[making-simulated-students-behave-like-learners|miten simuloidut opiskelijat saadaan käyttäytymään kuin oppijat]] ennen kuin luot [[simulation|simulaattorin]] tuomioon.
 
 ## Mitä tutkijat tekevät tässä väärin
 

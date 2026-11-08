@@ -33,7 +33,7 @@ institutions: [governance]
 - **Instructors.** Move assessment to presence-required formats — oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective [[eportfolio|portfolios]] — because agentic browsers with valid LMS credentials look identical to normal student activity.
 - **Instructors.** Learn how agentic browsers actually work (authenticated LMS access, content navigation, prompt-injection exposure) before designing against them; the authors treat [[educational-development|faculty development]] at massive scale as a prerequisite, not an add-on.
 - **Administrators.** Write explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates risk transparently, and addresses the loss of the "private session" under data-protection mandates, since BYOA breaks the institutional-control assumptions behind FERPA, GDPR, and KVKK.
-- **Institutions.** Design inclusive presence deliberately: presence-required formats can disadvantage [[special-education|students with disabilities]], language barriers, or [[neurodiversity|neurodivergence]], so [[equity-in-ai-education|equity]] vigilance is part of the format decision.
+- **Institutions.** Design inclusive presence deliberately: presence-required formats can disadvantage [[inclusive-learning|students with disabilities]], language barriers, or [[neurodiversity|neurodivergence]], so [[equity-in-ai-education|equity]] vigilance is part of the format decision.
 - **Instructors.** Ask students to articulate what they learned, not merely what they submitted, and embed that [[reflection]] in the [[curriculum-design|curriculum]] so the choice between delegating and learning is named explicitly.
 
 ## Limitations

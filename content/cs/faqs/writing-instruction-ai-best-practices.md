@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-Přepisujete zadání úkolu a věta před vámi říká, že AI je povolena s uvedením použití, což studentovi neříká nic o tom, zda nástroj smí dodat argument. Kolega navrhl plošný zákaz pro celý kurz a vy máte podezření, že dopadne nejtvrději na vícejazyčné píšící studenty ve třídě. Nebo se vám várka esejí vrátila plynulejší než seminární diskuse, ze které vzešly, a potřebujete pravidlo, které obhájíte na příští poradě o kurikulu.
+Přepisujete zadání úkolu a věta před vámi říká, že AI je povolena s uvedením použití, což studentovi neříká nic o tom, zda nástroj smí dodat argument. Kolega navrhl plošný zákaz pro celý kurz a vy máte podezření, že dopadne nejtvrději na vícejazyčné píšící studenty ve třídě. Nebo se vám várka esejí vrátila plynulejší než seminární diskuse, ze které vzešly, a potřebujete pravidlo, které obhájíte na příští poradě o [[curriculum-design|kurikulu]].
 
 Hlavní věc: pojmenujte intelektuální práci, kvůli které úkol existuje, tu práci nechte studentovi a dejte nástroji úlohy, které vracejí něco, co student musí posoudit. Pravidlo napsané tímto způsobem studentovi říká, kterou práci chrání.
 
@@ -78,7 +78,7 @@ Sekvence, kterou si stojí za to vypůjčit, drží AI v poradenské roli a uva�
 | **8. Revize** | Provádí a zdůvodňuje obsahové změny | Testovat srozumitelnost, nabízet alternativy | Revize |
 | **9. Ověřování** | Ověřuje každé faktické tvrzení nebo tvrzení závislé na zdroji | Nemůže ověřit vlastní výstup | Zdroje a důkazy |
 | **10. Reflexe a uvedení použití** | Vysvětluje roli AI a co se změnilo v jeho myšlení | Nic | Stručná reflexe procesu |
-| **11. Samostatná kontrola** | Vysvětluje nebo aplikuje uvažování bez AI | Nic | Ústní obhajoba, krátké psaní, nový případ |
+| **11. Samostatná kontrola** | Vysvětluje nebo aplikuje uvažování bez AI | Nic | [[oral-assessment|Ústní obhajoba]], krátké psaní, nový případ |
 
 Toto je rozšířené [[pairr-ai-peer-review-2025|PAIRR]]: návrh, lidská zpětná vazba, zpětná vazba od AI, srovnání, revize, reflexe, s nezávislým výchozím měřením a těsnější hranicí kolem uvažování. Prostřední sloupec použijte jako zadání a pravý sloupec jako to, o co se známka může opřít.
 
@@ -89,6 +89,9 @@ Jedenáct řádků je víc, než většina úkolů potřebuje. Zúžte tabulku n
 Největší studie ve výuce zde je [[pairr-ai-peer-review-2025|PAIRR]]: 654 studentů v deseti kurzech psaní a třech kurzech [[stem-education|STEM]] s důrazem na psaní. Psali návrhy, absolvovali [[peer-assessment|vrstevnické hodnocení]], získali zpětnou vazbu od AI podle rubriky, oba zdroje porovnali a zhodnotili, napsali plány revize, revidovali a reflektovali. Padesát osm procent upřednostnilo kombinaci vrstevnické a AI zpětné vazby. Šest procent upřednostnilo jen zpětnou vazbu od AI. Studenti považovali AI za užitečnou pro široké rady k revizi orientované na rubriku a vrstevníci dodali kontextové znalosti a autentickou reakci publika.
 
 Buďte přesní v tom, co tvrdíte. PAIRR měřil zkušenost studentů se zpětnou vazbou a jejich hodnocení této zkušenosti, ne dlouhodobé [[learning-gains|učební přínosy]], takže je silným důkazem pro design zpětné vazby a slabším důkazem toho, že se psaní o měsíce později zlepší. Vrstevnický krok si nechte i tehdy, když je krok s AI rychlejší. Velká část práce se [[feedback|zpětnou vazbou]] odehrává ve srovnání obou zdrojů a vynecháním vrstevnického kroku odstraníte právě to, co studenti označili za cenné.
+
+Nástroj sám může být navržen tak, aby chránil krok uvažování. [[favero-thinking-not-writing-chatbot-2026|Favero a kol. (2026)]] postavili MAIKE, [[socratic-method|sokratovského]] chatbota, který diagnostikuje argumenty a klade cílené otázky, aniž by generoval text eseje. Ve studii ve výuce s 65 studenty středních škol strávili uživatelé MAIKE více tahů dialogem na úrovni myšlenek než kontrolní skupina (56 % vs 44 %) a přecházeli mezi diskusí a editací; zhruba 40 % studentů zlepšilo skóre své eseje. Studie neprokázala celkovou výhodu ve známce oproti kontrole, takže ji berte jako demonstraci designu o propojení rozhovoru s revizí, ne jako důkaz, že chatbot zvyšuje kvalitu psaní.
+
 
 ## Hodnoťte, co student se zpětnou vazbou udělal
 

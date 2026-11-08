@@ -1,9 +1,9 @@
 ---
 title: "Használhatok MI-t a diákok munkájának tisztességes és megbízható osztályozására?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Van egy rubrikája, amelyben hisz, több beadás, mint ahány órája, és egy eszköz, amely egy esszé elolvasásához szükséges idő alatt visszaad egy pontszámot és több magabiztos bekezdést. Kipróbálja olyan munkán, amit már osztályozott. A pontszámok fele jónak tűnik. Az egyik furcsán nagyvonalú, a másik furcsán szigorú, és még nem tudja eldönteni, hogy ez az eszköz vagy az esszé.
 
-Rövid válasz egy kollégának: az MI-osztályozás felügyelt asszisztensként vagy második olvasóként érdemel helyet, olyan feladatokon, ahol már ellenőrizte azt olyan munkán, amit maga is osztályozott. Az egyetértés nem vihető át értékeléstípusok között. Egy tizenhat diákos gyógyszerészi vizsgán [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat és mtsai (2026)]] csaknem tökéletes egyezést találtak az objektív itemtípusokon, és megbízhatatlan egyezést a nyílt végű válaszokon. Három angol egyetemen át [[opraise-automated-marking-ai-assessment-2026|az OpRaise projekt]] szerint az MI és az emberi értékelők 35% és 65% közötti arányban egyeztek meg a brit diplomaminősítési sávban, intézménytől függően, a jegyek pedig a közép felé tömörödtek. A folyékony indoklás nem bizonyíték arra, hogy a kritériumait alkalmazták. Az, hogy az eredmény [[assessment-validity|érvényes-e az Ön döntéséhez]], helyi kérdés, amelyet magának kell megválaszolnia, és [[human-in-the-loop-ai|egy ember marad felelős]] mindenért, ami rögzített jegyzé válik.
+Íme a rövid válasz: az MI-osztályozás felügyelt asszisztensként vagy második olvasóként érdemel helyet, olyan feladatokon, ahol már ellenőrizte azt olyan munkán, amit maga is osztályozott. Az egyetértés nem vihető át értékeléstípusok között. Egy tizenhat diákos gyógyszerészi vizsgán [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat és mtsai (2026)]] csaknem tökéletes egyezést találtak az objektív itemtípusokon, és megbízhatatlan egyezést a nyílt végű válaszokon. Három angol egyetemen át [[opraise-automated-marking-ai-assessment-2026|az OpRaise projekt]] szerint az MI és az emberi értékelők 35% és 65% közötti arányban egyeztek meg a brit diplomaminősítési sávban, intézménytől függően, a jegyek pedig a közép felé tömörödtek. A folyékony indoklás nem bizonyíték arra, hogy a kritériumait alkalmazták. Az, hogy az eredmény [[assessment-validity|érvényes-e az Ön döntéséhez]], helyi kérdés, amelyet magának kell megválaszolnia, és [[human-in-the-loop-ai|egy ember marad felelős]] mindenért, ami rögzített jegyzé válik.
 
 ## A rövid változat
 
@@ -48,7 +48,7 @@ Három elrendezést neveznek „MI-osztályozásnak", és különböző kötelez
 
 A **visszajelzés-asszisztens** megjegyzéseket vázol, vagy lehetséges kihagyásokat jelez, hogy Ön elfogadja, átírja vagy elvesse. A kockázat a megjegyzések minőségére korlátozódik, és mindent elolvas, mielőtt egy diákhoz eljut. A **második olvasó** kritériumonkénti pontszámokat javasol, vagy nézeteltéréseket jelez, hogy strukturálja a saját javítását. A hibáinak hasznosaknak kell lenniük, nem csupán téveseknek: egy jelzés, amely visszaküld egy beadáshoz, amelyet különben gondatlanul javított volna, megéri. Az **elsődleges pontozó** olyan pontszámokat állít elő, amelyek rögzített jegyekké válnak. Ez az az elrendezés, amelyet az ebben a tudásbázisban szereplő bizonyítékok a szűk, helyben érvényesített eseteken túl nem támasztanak alá.
 
-Válassza a legalacsonyabb fokot, amely a tényleges korlátjára válaszol. Ha a javítási terhe egy rögzített válaszkulcs ellenőrzéséből ered, a közönséges determinisztikus pontozás átláthatóbb és auditálhatóbb, mint egy nyelvi modell, és a gyógyszerészeti vizsgálat arra utal, hogy az LLM előnye az objektív itemeken részben annak a műterméke volt, hogy az osztályozás során megkapta a helyes válaszokat. Tartsa a modellt az értelmezést igénylő munkára, aztán ellenőrizze azt az értelmezést.
+Válassza a legalacsonyabb fokot, amely a tényleges korlátjára válaszol. Ha a javítási terhe egy rögzített válaszkulcs ellenőrzéséből ered, a közönséges determinisztikus pontozás átláthatóbb és auditálhatóbb, mint egy [[llm|nyelvi modell]], és a gyógyszerészeti vizsgálat arra utal, hogy az LLM előnye az objektív itemeken részben annak a műterméke volt, hogy az osztályozás során megkapta a helyes válaszokat. Tartsa a modellt az értelmezést igénylő munkára, aztán ellenőrizze azt az értelmezést.
 
 [[automated-assessment|Az automatizált értékelés]] a pontozás, a moderálás és a visszajelzés-generálás szélesebb gépezetét fedi. Ez az oldal az alatta lévő ítéletkérdés.
 

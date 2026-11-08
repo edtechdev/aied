@@ -1,7 +1,7 @@
 ---
 title: "Cum verific dacă întrebările de quiz și de examen generate de IA sunt cu adevărat bune?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -46,7 +46,7 @@ Răspunsul scurt pe care să îl dai unui coleg: întrebările generate sunt can
 
 Generarea este suficient de ieftină încât formatul de ieșire devine încet-încet specificația. Dacă notițele tale produc itemi ordonați cu alegere multiplă, vei ajunge să măsori dacă studenții pot alege între afirmații plauzibile, orice rezultat ar pretinde programa.
 
-Specifică mai întâi rezultatul, apoi dovezile pe care le-ar furniza un răspuns satisfăcător, apoi cunoștințele pe care se așteaptă să le aducă studenții. Include materialele cursului, concepțiile greșite pe care le anticipezi, orice instrumente permise și formatul răspunsului. Dacă vrei ca studenții să interpreteze dovezi, itemul trebuie să ceară interpretare, iar adăugarea cuvântului într-o întrebare de definiție nu reușește asta. Un scenariu lung poate fi totuși rezolvabil printr-o singură expresie familiară care dezvăluie răspunsul.
+Specifică mai întâi rezultatul, apoi dovezile pe care le-ar furniza un răspuns satisfăcător, apoi cunoștințele pe care se așteaptă să le aducă studenții. Include materialele cursului, [[misconceptions|concepțiile greșite]] pe care le anticipezi, orice instrumente permise și formatul răspunsului. Dacă vrei ca studenții să interpreteze dovezi, itemul trebuie să ceară interpretare, iar adăugarea cuvântului într-o întrebare de definiție nu reușește asta. Un scenariu lung poate fi totuși rezolvabil printr-o singură expresie familiară care dezvăluie răspunsul.
 
 Un plan de evaluare este un tabel de rezultate față de itemi, iar valoarea lui este că expune lacunele înainte ca studenții să le expună. Face vizibil și compromisul: fiecare item generat din materialul cel mai ușor este un item pe care nu l-ai cheltuit pe rezultatul care îți pasă cel mai mult.
 
@@ -68,7 +68,7 @@ Un al doilea model te poate ajuta să observi probleme, iar acordul între două
 
 ## Nu lăsa eticheta de dificultate să decidă
 
-Literatura despre [[automated-question-generation|generarea de întrebări]] este mai utilă despre eșecul etichetelor decât despre succesul generării. [[student-llm-use-ai-question-difficulty-data-science-2026|An și Wang (2026)]] au examinat 378 de întrebări scrise de autori în cursuri de știința datelor, dintre care 311 au fost implementate la 54 de studenți, cu 7.888 de răspunsuri. Etichetele ușor, mediu și greu ale modelului au corelat cu nivelurile Bloom pe care le generase el însuși la ρ = 0,90 și cu dificultatea empirică a itemilor la ρ = 0,06. Aproximativ 70% dintre itemii implementați au fost răspuns corect de fiecare student, ceea ce a lăsat aproape nicio variație pe care o etichetă de dificultate să o poată urmări nici măcar în principiu.
+Literatura despre [[automated-question-generation|generarea de întrebări]] este mai utilă despre eșecul etichetelor decât despre succesul generării. [[student-llm-use-ai-question-difficulty-data-science-2026|An și Wang (2026)]] au examinat 378 de întrebări scrise de autori în cursuri de știința datelor, dintre care 311 au fost implementate la 54 de studenți, cu 7.888 de răspunsuri. Etichetele ușor, mediu și greu ale modelului au corelat cu nivelurile Bloom pe care le generase el însuși la ρ = 0,90 și cu [[item-response-theory|dificultatea empirică a itemilor]] la ρ = 0,06. Aproximativ 70% dintre itemii implementați au fost răspuns corect de fiecare student, ceea ce a lăsat aproape nicio variație pe care o etichetă de dificultate să o poată urmări nici măcar în principiu.
 
 Urmează două lecții. Prima: dificultatea este o proprietate a interacțiunii dintre item și o populație, așa că nicio etichetă produsă înainte de administrarea itemului nu poate fi considerată o valoare măsurată. A doua: o bancă de itemi la care toată lumea răspunde corect nu este o evaluare ușoară, este una inutilă: nu poartă aproape nicio informație despre cine știe ce.
 
@@ -91,6 +91,9 @@ Revizuiește și păstrează evidența: versiunea aprobată, rezultatul pe care 
 Într-un curs introductiv de sociologie, rezultatul ar putea fi distingerea unei explicații structurale de una individuală. Un item slab le cere studenților să definească „structural”, ceea ce măsoară recunoașterea vocabularului. Un candidat mai puternic dă un scurt scenariu despre o familie și o decizie privind angajarea, apoi cere care explicație identifică cel mai bine o constrângere structurală, cu distractori care reprezintă interpretări plauzibile, dar diferite.
 
 Instructorul verifică dacă scenariul susține cu adevărat baremul, dacă nu cumva două opțiuni exprimă aceeași idee și dacă răspunsul nu depinde de terminologie pe care cursul nu a introdus-o niciodată. O întrebare de continuare pe un rând, „ce detaliu susține alegerea ta?”, scoate la suprafață raționamentul pe care opțiunea selectată îl ascunde. Adaptarea este netestată ca format de item, iar valoarea ei este mai îngustă: întrebările de revizuire de mai sus pot fi puse înainte ca un item să fie administrat, iar un barem greșit poate fi reparat înainte ca studenții să îl vadă.
+
+Când studenții semnalează la scară că nu le place ceva, semnalul are structură. Într-o analiză a 5.214.211 sesiuni de întrebări de practică prezentate într-o platformă de manual, dezaprobările au ajuns la 2,00 la 1.000 de sesiuni, față de 3,31 aprobări, și doar 22.844 dintre cele 809.848 de întrebări au primit vreodată o evaluare ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Tiparul din voturi nu era aleatoriu: întrebările care cereau răspunsuri cu adverbe au atras 5,23 de dezaprobări la 1.000, față de 1,76 pentru răspunsurile cu adjective, iar importanța propoziției (odds ratio 2,38) și similaritatea textului răspunsului (1,64) au influențat și ele evaluarea. Regula empirică ajustată a autorilor a fost de aproximativ 1,62 dezaprobări la 1.000 când ambele semnale de importanță erau prezente. Punctul practic este că evaluările studenților sunt un canal de măsurare lent, dar real: o platformă care elimină întrebările respinse în mod repetat închide bucla, iar un instructor care testează câteva itemi obține același semnal mai repede întrebând ce detaliu a pus la îndoială studentul.
+
 
 Pentru studenții care își generează propriile întrebări de practică, aceeași regulă se aplică la nivelul lor: încearcă itemul, verifică explicația față de sursele cursului și adu cazurile nerezolvabile la cineva care cunoaște materia. [[study-with-ai|Practica de studiu]] care îi învață pe studenți să accepte fără critică baremuri generate le formează obiceiul greșit.
 

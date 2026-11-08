@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/equity-in-ai-education"
 source_updated: "2026-11-01T08:10:00-05:00"
@@ -104,7 +104,7 @@ ai_assist:
 
 ## বিশেষ জনগোষ্ঠী ও বৈশ্বিক ন্যায়বিচার
 
-- **বিশেষ জনগোষ্ঠী:** [[special-education]], [[neurodivergent-computing-students|নিউরোডাইভার্জেন্ট শিক্ষার্থী]], [[dyslexlens-dyslexic-learners-ai|ডিস্লেক্সিক শিক্ষার্থী]], এবং [[special-education|প্রতিবন্ধী শিক্ষার্থীরা]] এমন গোষ্ঠী যাঁদের প্রয়োজন এআই সিস্টেম-নকশায় প্রায়ই উপেক্ষিত হয়।
+- **বিশেষ জনগোষ্ঠী:** [[special-education]], [[neurodivergent-computing-students|নিউরোডাইভার্জেন্ট শিক্ষার্থী]], [[dyslexlens-dyslexic-learners-ai|ডিস্লেক্সিক শিক্ষার্থী]], এবং [[inclusive-learning|প্রতিবন্ধী শিক্ষার্থীরা]] এমন গোষ্ঠী যাঁদের প্রয়োজন এআই সিস্টেম-নকশায় প্রায়ই উপেক্ষিত হয়।
 - **গ্লোবাল সাউথ দৃষ্টিভঙ্গি:** [[suacode-african-students-motivations|আফ্রিকান শিক্ষার্থীদের প্রেরণা]], [[connected-ai-lesson-planning-vietnam|ভিয়েতনামি এআই পাঠ-পরিকল্পনা]], এবং [[pre-service-science-teachers-ai-perceptions-2026|ঘানার শিক্ষক-গ্রহণযোগ্যতা]] গ্লোবাল সাউথ দৃষ্টিভঙ্গি দেয় যা পশ্চিমা-কেন্দ্রিক AIED গবেষণায় প্রায়ই অনুপস্থিত। প্রাতিষ্ঠানিক স্তরে [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye প্রমুখ (2026)]] দেখেন, 45টি নাইজেরীয় বিশ্ববিদ্যালয়ে এআই-সংহতকরণ চালায় প্রতিষ্ঠানের বয়স ও ভূগোল, শাসন-ধরন নয়, এবং জোরদার নেটওয়ার্ক-বন্ধন সুসংযুক্ত প্রতিষ্ঠানগুলোকে সুবিধা জমানোর সুযোগ দেয় — প্রমাণ যে ন্যায়বিচার-ফাঁক কাঠামোগতভাবে পুনরুৎপাদিত হয়, কেবল ব্যক্তিগত প্রবেশাধিকারের মাধ্যমে নয়।
 - **বৈশ্বিক সক্ষমতা:** প্রমাণ নথিভুক্ত করে কীভাবে জেনারেটিভ এআই-এর লাভ দেশ ও প্রতিষ্ঠান জুড়ে অসমভাবে বণ্টিত হয়, এবং [[ai-lifelong-learning-policy|এআই ও আজীবন-শিক্ষা নীতি]] কাঠামোগত আর্থ-সামাজিক ঢালের সমাধান করে।
 - 72টি উচ্চশিক্ষা-মূল্যায়ন গবেষণার একটি PRISMA পর্যালোচনা দেখে প্রমাণভিত্তি ভৌগোলিকভাবে কেন্দ্রীভূত: অস্ট্রেলিয়া ও যুক্তরাজ্য একসঙ্গে 72টির মধ্যে 31টি সরবরাহ করেছে, এবং দক্ষিণ আমেরিকা থেকে কোনো গবেষণা পাওয়া যায়নি ([[higher-ed-assessments-genai-systematic-review|Crompton ও Burke (2026)]])।

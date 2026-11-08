@@ -53,7 +53,7 @@ Deux implications de conception en découlent. Ciblez les établissements plus r
 
 ## Mettre les apprenants handicapés dans la salle de conception
 
-Incluez les [[special-education|apprenants handicapés]] dans la conception et l'évaluation, testez les interfaces réelles contre les exigences d'accessibilité, et offrez des voies équivalentes pour participer et pour démontrer ses apprentissages. La conformité technique et l'[[inclusive-learning|enseignement inclusif]] sont deux tests distincts, et [[accessibility|Accessibilité]] couvre les deux.
+Incluez les [[inclusive-learning|apprenants handicapés]] dans la conception et l'évaluation, testez les interfaces réelles contre les exigences d'accessibilité, et offrez des voies équivalentes pour participer et pour démontrer ses apprentissages. La conformité technique et l'[[inclusive-learning|enseignement inclusif]] sont deux tests distincts, et [[accessibility|Accessibilité]] couvre les deux.
 
 Une [[ko-hughes-vsd-student-centered-its-2026|étude de conception sensible aux valeurs]] menée avec des étudiants de community college, des enseignants et des développeurs montre le travail en pratique. Elle a produit 16 fonctionnalités alignées sur des valeurs réparties entre l'[[explainable-ai|explicabilité]] (E1-E5), le contrôle [[human-in-the-loop-ai|humain dans la boucle]] (H1-H9) et la [[privacy|confidentialité]] (P1-P4), et a fait apparaître des tensions plutôt que des réponses nettes : la transparence contre l'interprétabilité, la confidentialité contre la connaissance pédagogique, l'[[agency|autonomie]] de l'apprenant contre l'[[scaffolding|étayage]] guidé par le système. Attendez-vous à devoir arbitrer ces tensions, et notez dans quel sens vous avez tranché.
 

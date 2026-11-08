@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Hãy bắt đầu bằng một nhãn. [[ai-assessment-scale-reform|Thang Đánh 
 
 Rồi thay đổi sản phẩm. Một [[meta-analysis-systematic-review|tổng quan hệ thống]] 72 nghiên cứu về AI sinh tạo trong [[cs-education|giáo dục máy tính]] đánh giá việc thiết kế lại vừa khả thi vừa có đòn bẩy cao nhất, và chỉ ra một động thái: thêm một yếu tố nói miệng hoặc yếu tố khác làm quá trình hiển thị vào ít nhất một bài đánh giá có trọng số cao trong mỗi khóa học. Nó gọi đó là can thiệp hiệu quả nhất trong toàn bộ tập tài liệu. Phát hiện là mảng mỏng nhất mà bài tổng quan đề cập, chỉ với 3 nghiên cứu, so với 60-80% sinh viên máy tính báo cáo dùng AI sinh tạo trong bài tập, thường không có sự cho phép rõ ràng của giảng viên, và 70% của một mẫu giảng viên toàn quốc yêu cầu rõ ràng việc tập huấn về thiết kế đánh giá chống AI ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Một khóa học máy tính kéo dài ba năm cho thấy một quy trình khai báo có giàn giáo có thể thay đổi hành vi đến đâu. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil và cộng sự (2026)]] yêu cầu một bản nháp độc lập kèm danh sách kiểm bốn mục, một bước dùng AI để tinh chỉnh chứ không viết lại, một mẫu khai báo, và một bài suy ngẫm có cấu trúc, với bản nháp hoặc mẫu khai báo thiếu sẽ bị điểm không. Tỷ lệ tuân thủ tăng từ khoảng hai phần ba sinh viên dưới chính sách tự nguyện lên 93% trong năm có giàn giáo; 81% và 84% người dùng AI báo cáo đã từ chối hoặc sửa lại các gợi ý, người chấm mã hóa 77–81% bài nộp cho thấy có tham gia phê phán, và việc dùng AI không dự đoán độc lập chất lượng bài luận sau khi đã kiểm soát năng lực viết trước đó. Đây là một báo cáo trải nghiệm của một khóa học, không phải một thử nghiệm có đối chứng, nhưng nó cho thấy công việc liêm chính đang chuyển từ phát hiện sang những điều kiện mà sinh viên khai báo và sửa bài.
+
+
 Thực đơn, đại khái theo thứ tự mỗi lựa chọn chịu được một lớp đông đến đâu.
 
-Không có hỗ trợ, tại lớp, đóng sách: thi có giám sát, bài kiểm tra ngắn, viết có giới hạn thời gian. Hãy cho những thứ này trọng số lớn hơn trước đây, vì bài tập về nhà là sản phẩm mà AI làm phình lên. Thi vấn đáp và buổi bảo vệ bài làm hiệu quả vì cùng lý do, vì đối thoại theo thời gian thực rất khó thuê ngoài ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Không có hỗ trợ, tại lớp, đóng sách: thi có giám sát, bài kiểm tra ngắn, viết có giới hạn thời gian. Hãy cho những thứ này trọng số lớn hơn trước đây, vì bài tập về nhà là sản phẩm mà AI làm phình lên. [[oral-assessment|Thi vấn đáp]] và buổi bảo vệ bài làm hiệu quả vì cùng lý do, vì đối thoại theo thời gian thực rất khó thuê ngoài ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Sản phẩm quá trình: bản nháp, dấu vết lập luận, ghi chú có chú thích kiểu “cho thấy cách bạn nghĩ”, nhật ký sửa đổi, để *quá trình* hiển thị thay vì chỉ có sản phẩm ([[authentic-products-authenticated-processes-2026]]). Các nhiệm vụ chân thực song hành với chúng: tình huống địa phương, tài liệu thực tập, dữ liệu của chính sinh viên, bất cứ thứ gì khó giao cho người khác ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Sản phẩm quá trình: bản nháp, dấu vết lập luận, ghi chú có chú thích kiểu “cho thấy cách bạn nghĩ”, nhật ký sửa đổi, để *quá trình* hiển thị thay vì chỉ có sản phẩm ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Các nhiệm vụ chân thực]] song hành với chúng: tình huống địa phương, tài liệu thực tập, dữ liệu của chính sinh viên, bất cứ thứ gì khó giao cho người khác ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Việc tạo biến thể nhiệm vụ theo từng sinh viên, trong đó mỗi sinh viên nhận một phiên bản khác nhau về bề mặt nhưng tương đương về cấu trúc, khiến việc sao chép trở nên vô dụng về mặt cấu trúc. Hãy coi sự bảo đảm đó là có điều kiện theo năng lực: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] phát hiện các mô hình sinh biên tiên tiến chỉ đạt 0.81-0.88 trên một điểm số liêm chính kết hợp, trong khi các mô hình không ở biên sụp xuống 0.50-0.55. Nếu các biến thể của bạn không tương đương, bạn đã mua sự bảo vệ chống chia sẻ bài kèm theo sự bất công giữa các sinh viên.
 
@@ -96,7 +99,7 @@ Câu chữ của quy tắc cũng phải chính xác. [[wright-transcription-not-
 
 Cấm công cụ và cho phép công cụ mà không có cấu trúc tạo ra cùng một kết cục, đó là sinh viên đứng bên ngoài công việc nhận thức.
 
-Bản tổng hợp Giảm việc lạm dụng AI nêu tám nguyên tắc thiết kế cho phiên bản được cho phép, trong đó có: giữ lại [[desirable-difficulties|ma sát nhận thức]], định vị AI như một người bạn tư duy tạm thời chứ không phải một thẩm quyền, gắn các điểm kiểm tra đánh giá vào, và yêu cầu [[metacognition|nhật ký siêu nhận thức]] cùng nhật ký prompt.
+Bản tổng hợp Giảm việc lạm dụng AI nêu tám nguyên tắc thiết kế cho phiên bản được cho phép, trong đó có: giữ lại [[desirable-difficulties|ma sát nhận thức]], định vị AI như một người bạn tư duy tạm thời chứ không phải một thẩm quyền, gắn các điểm kiểm tra đánh giá vào, và yêu cầu [[metacognition|siêu nhận thức]] qua việc [[reflection|ghi nhật ký]] cùng nhật ký prompt.
 
 Chuỗi mang những nguyên tắc đó đủ ngắn để in lên một phiếu bài tập:
 
@@ -122,7 +125,7 @@ Ví dụ đã được đo là một mô-đun [[k-12]] dùng việc luyện prom
 
 Điều sinh viên thực sự tin thì ít hoài nghi hơn cơn hoảng loạn gợi ra. Trong 504 sinh viên xã hội học, 65% đã dùng AI sinh tạo cho bài tập, nhưng chỉ 3% để tạo văn bản cho bài tập và 2% để tạo ra một bản nháp đầy đủ. 81% đã nhận được một số hướng dẫn về AI và chỉ 46% thấy nó rất rõ ràng ([[student-genai-use-views-writing]]). Sự mơ hồ, chứ không phải sự chống đối, là vấn đề thực tế, và đó là lý do một quy tắc rõ ràng cộng với một chuỗi được dạy thay đổi hành vi nhiều hơn một lời cảnh báo. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa và Mezgebu (2026)]] mô tả sinh viên đang hỏi liệu AI sinh tạo là một công cụ tạo điều kiện cho gian lận hay một người bạn đồng hành hỗ trợ việc học, và chính câu hỏi đó là thứ mà kỳ vọng của bạn nên trả lời.
 
-Tác hại đáng được dạy một cách rõ ràng là [[ai-misuse-learning-harm|khoảng cách giữa kết quả biểu hiện và việc học]]: kết quả biểu hiện tăng ngay bây giờ, việc học giảm về sau, và sinh viên chỉ trải nghiệm phần đầu. [[ai-tools-academic-work-cheating-2026]] và [[student-rationalization-ai-writing]] đề cập phía chuẩn mực bạn học và sự biện minh, trong đó có lập luận “ai cũng làm thế” mà một chuẩn mực rõ ràng làm xẹp đi. Về nền tảng này vững đến đâu, xem [[ai-literacy-evidence]] và [[top-10-findings-ai-education-instructors]].
+Tác hại đáng được dạy một cách rõ ràng là [[ai-misuse-learning-harm|khoảng cách giữa kết quả biểu hiện và việc học]]: kết quả biểu hiện tăng ngay bây giờ, việc học giảm về sau, và [[student-experience|sinh viên]] chỉ trải nghiệm phần đầu. [[ai-tools-academic-work-cheating-2026]] và [[student-rationalization-ai-writing]] đề cập phía chuẩn mực bạn học và sự biện minh, trong đó có lập luận “ai cũng làm thế” mà một chuẩn mực rõ ràng làm xẹp đi. Về nền tảng này vững đến đâu, xem [[ai-literacy-evidence]] và [[top-10-findings-ai-education-instructors]].
 
 ## Giảng viên hiểu sai gì về điều này
 

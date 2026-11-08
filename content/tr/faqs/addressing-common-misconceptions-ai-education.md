@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Rektör yardımcınız bahar dönemi öğretim elemanları toplantısı için te
 
 Bu sayfadaki her inanç, makul bir insanın gördüğü bir şeyden başlıyor. Akıcı metin gerçekten doğru okunur. Cilalı bir ödev gerçekten öğrenme gibi görünür. Soruyu yanıtlayan bir eğitmen gerçekten yardım gibi hissettirir ve içinde "yasaktır" kelimesi geçen bir politika gerçekten bir karar gibi hissettirir. İşe yarayan düzeltme, gözlemin size neyi söyleyemeyeceğini adlandırır, sonra kişiye pazartesi günü uygulayabileceği bir denetim verir.
 
-Bir meslektaşınıza tek nefeste vereceğiniz yanıt: YZ'nin eğitsel etkisi, kimin hangi görev için kullandığına, aracın hangi düşünmeyi gerçekleştirdiğine, sorumluluğun ne kadarının kişide kaldığına ve öğrenmenin nasıl değerlendirildiğine bağlıdır. Güven, hız, katılım ve görevi tamamlama kullanımın özellikleridir. Hiçbiri kapasitenin değiştiğinin kanıtı değildir.
+İşte tek nefeste yanıt: YZ'nin eğitsel etkisi, kimin hangi görev için kullandığına, aracın hangi düşünmeyi gerçekleştirdiğine, sorumluluğun ne kadarının kişide kaldığına ve öğrenmenin nasıl değerlendirildiğine bağlıdır. Güven, hız, katılım ve görevi tamamlama kullanımın özellikleridir. Hiçbiri kapasitenin değiştiğinin kanıtı değildir.
 
 ## Kısa özet
 
@@ -64,7 +64,7 @@ Ortalamalar, tam da bir eşitlik sorusuna karar veren çeşitliliği gizler. Etk
 
 ### "Çok şey öğrendiklerini bildirdiler."
 
-Öz bildirim; algıyı, kabulü, kaygıyı ve [[self-efficacy|öz yeterliği]] ölçer ve dördünde de iyidir. Gösterilmiş kapasitenin ölçüsü değildir; çünkü insanlar kendine güvenen ama yanlış ya da becerikli ama özgüvensiz olabilir. Bilgi tabanının öğretmen YZ okuryazarlığı araştırması sentezi, öz değerlendirme ile ölçülen performans arasında ciddi bir açık bildiriyor ve içindeki öğretim elemanları yetkinliklerini hatırı sayılır ölçüde abartmış ([[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyumsuzluğu]]). Her öz bildirimi bir görevle eşleştirin: bir çıktıdaki hatayı bulmak, bir kaynağı doğrulamak, bir kullanım stratejisi seçmek, yanlılığı ya da yaltaklanmayı fark etmek, kusurlu bir yanıtı revize etmek, güveni doğruluğa karşı kalibre etmek. Anketteki böyle tek bir madde, bir görüşü bir sonuca çevirir.
+[[self-report-measures|Öz bildirim]]; algıyı, kabulü, [[anxiety-and-stress|kaygıyı]] ve [[self-efficacy|öz yeterliği]] ölçer ve dördünde de iyidir. Gösterilmiş kapasitenin ölçüsü değildir; çünkü insanlar kendine güvenen ama yanlış ya da becerikli ama özgüvensiz olabilir. Bilgi tabanının öğretmen YZ okuryazarlığı araştırması sentezi, [[self-assessment|öz değerlendirme]] ile ölçülen performans arasında ciddi bir açık bildiriyor ve içindeki öğretim elemanları yetkinliklerini hatırı sayılır ölçüde abartmış ([[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyumsuzluğu]]). Her öz bildirimi bir görevle eşleştirin: bir çıktıdaki hatayı bulmak, bir kaynağı doğrulamak, bir kullanım stratejisi seçmek, yanlılığı ya da yaltaklanmayı fark etmek, kusurlu bir yanıtı revize etmek, güveni doğruluğa karşı kalibre etmek. Anketteki böyle tek bir madde, bir görüşü bir sonuca çevirir.
 
 ### "Simüle edilmiş bir öğrenci, gerçeğinin ucuz bir yerine koyucusudur."
 
@@ -87,7 +87,6 @@ Tespit, önemli olandan farklı bir soruyu yanıtlar. Tespit edilmeyen dışsall
 Sıklık size hiçbir şey söylemez. Bir öğrenci YZ'yi açıklamaları karşılaştırmak, alıştırma problemleri üretmek ve geri bildirim almak için her gün bilişsel olarak etkin kalarak kullanabilir; bir diğeri ise ödevin ortaya çıkarmak için var olduğu argümanı üretmek üzere onu bir kez kullanabilir. Onları ayıran soru, düşünmenin hangi katmanının devredildiği ve öğrencinin o katmanı hâlâ tek başına gerçekleştirip gerçekleştiremediğidir; [[student-ai-interaction|öğrenci–YZ etkileşimi]] bu ayrımı ayrıntılı olarak belgeler. Dilbilgisi düzeltmesi, bir denemenin iddialarından, kanıtlarından ve karşı argümanlarından çok uzaktadır. Hamle, katmanı görevde açık kılmaktır: kursun öğrettiği düşünmeyi adlandırın, her yerde yardıma izin verin ve adlandırılan katmanı yardımsız denetleyin.
 
 Bir araştırma artık bu iddiayı ileri sürmek yerine ölçüyor. Dört kurumda dört adımlı bir protokolün — YZ açıklaması, ardından öğrencinin kendi ürettiği alıştırma problemleri, ardından bağımsız bir deneme — değerlendirilmesinde, etkileşim sonrasında problemleri tek başına çözme güveni, açıklamanın algılanan değeriyle (r_s = 0.37) ve yinelenen alıştırmanın algılanan değeriyle (r_s = 0.35) birlikte hareket etti; YZ kullanım sıklığının ise hiçbir ilişkisi yoktu (r_s = 0.02, p = 0.749) ([[paul-pair-framework-genai-active-learning-physics-2026|Paul vd., 2026]]). Sıklığı, üzerinde işlem yapamayacağınız bir değişken olarak ele alın. Belirleyebileceğiniz şey dizidir: YZ'nin önce ne yaptığı, öğrencinin neyi yardımsız denemesi gerektiği ve sonrasında neyin denetlendiği.
-
 
 ### "Daha hızlı tamamlama, daha verimli öğrenme demektir."
 
@@ -183,7 +182,7 @@ Gözetim, ağır otomasyonun insanları inşa etmekten caydırdığı uzmanlığ
 
 ### "Eleştirel ve etik YZ kullanımını öğretmek verimliliğe mal olur."
 
-Doğrulanmamış otomasyon yeniden iş, güvenlik olayları, ayrımcı kararlar, hukuki maruz kalma, itibar zararı ve yanlış özgüven üretir; bunların her biri verimlilik rakamının saymadığı bir maliyettir. İşe alınmaya değer çalışan, kaliteyi, gizliliği, hesap verebilirliği ve mesleki yargıyı koruyarak işi insanlar ile araçlar arasında paylaştıran kişidir. Bu bir verimlilik argümanıdır ve bilançonun genellikle gözden kaçırdığı yönde kurulmuştur ([[human-ai-collaboration|İnsan–YZ İşbirliği]], [[governance|YZ Yönetişimi]]).
+Doğrulanmamış otomasyon yeniden iş, güvenlik olayları, ayrımcı kararlar, [[legal-issues-and-risks|hukuki maruz kalma]], itibar zararı ve yanlış özgüven üretir; bunların her biri verimlilik rakamının saymadığı bir maliyettir. İşe alınmaya değer çalışan, kaliteyi, gizliliği, hesap verebilirliği ve mesleki yargıyı koruyarak işi insanlar ile araçlar arasında paylaştıran kişidir. Bu bir verimlilik argümanıdır ve bilançonun genellikle gözden kaçırdığı yönde kurulmuştur ([[human-ai-collaboration|İnsan–YZ İşbirliği]], [[governance|YZ Yönetişimi]]).
 
 ## Öğrencilerin neye inandığını yanıtlayın
 
@@ -247,7 +246,7 @@ Politika metni ortak anlayış yaratmaz. Öğrenciler ve personel beklentileri k
 
 ### "Akademik personelin isteksizliği bir eğitim açığıdır."
 
-Bazen öyledir. Hazır oluş aynı zamanda iş yükü, [[learner-identity|mesleki kimlik]], disipliner değerler, değerlendirme geçerliliğine dair kuşkular, zayıf kurumsal destek, gizlilik belirsizliği ve belirli bir uygulamanın öğrencilere hizmet etmediğine dair gerekçeli bir yargıdır. Bu yüzden gelişim; pratik yetkinliği, pedagojik bütünleşmeyi, amaç ve kimliği, zamanı, politikayı, [[discipline-specific-aied|disipline özgü]] kullanımı ve ilkeli biçimde benimsememe seçeneğini kapsamak zorundadır. Tek seferlik bir özellik gösterimi, mesleki ve örgütsel bir değişimi çözmez ([[educational-development|Eğitsel Gelişim]]).
+Bazen öyledir. Hazır oluş aynı zamanda iş yükü, [[learner-identity|mesleki kimlik]], disipliner değerler, değerlendirme geçerliliğine dair kuşkular, zayıf kurumsal destek, gizlilik belirsizliği ve belirli bir uygulamanın öğrencilere hizmet etmediğine dair gerekçeli bir yargıdır. Bu yüzden gelişim; pratik yetkinliği, pedagojik bütünleşmeyi, amaç ve kimliği, zamanı, politikayı, [[discipline-specific-aied|disipline özgü]] kullanımı ve ilkeli biçimde benimsememe seçeneğini kapsamak zorundadır. Tek seferlik bir özellik gösterimi, mesleki ve [[change-management|örgütsel değişimi]] çözmez ([[educational-development|Eğitsel Gelişim]]).
 
 ### "İnsanlara doğru olguları söylemek yeterlidir."
 
@@ -266,7 +265,7 @@ Bu sayfadaki herhangi bir maddeye uyarlayabileceğiniz çözümlü sürüm:
 > **Yanlış kanı:** "İyi bir YZ üretimi ödev, öğrencinin öğrendiğini gösterir."
 > **Çürütme:** "Bu zorunlu olarak doğru değil. Ürün, öğrenciyle YZ'nin birlikte ne ürettiğini gösterir ama öğrencinin hangi akıl yürütmeyi gerçekleştirdiğini açığa çıkarmaz."
 > **Yerine koyma:** "Öğrenme, öğrenci kapasiteyi açıklayabildiğinde, aktarabildiğinde, uyarlayabildiğinde ve yeniden üretebildiğinde daha iyi gösterilir."
-> **Uygulama:** "YZ destekli işi bir açıklama, sözlü savunma, süreç kaydı ya da yardımsız uygulamayla izleyin."
+> **Uygulama:** "YZ destekli işi bir açıklama, [[oral-assessment|sözlü savunma]], süreç kaydı ya da yardımsız uygulamayla izleyin."
 
 Ağırlığı yerine koyma taşır. Daha iyi bir açıklama sağlamadan bir yanlış kanıyı kaldırmak, kişiyi düşünecek bir şeyden yoksun bırakır ve eski inanç, deneyim onu bir sonraki kez doğruladığında geri döner.
 
@@ -292,7 +291,7 @@ Kıyaslamanın neyi ölçtüğünü ve araç kapalıyken herhangi bir öğrencin
 
 ### "Veliler yasaktan başka hiçbir şeyi kabul etmez."
 
-Veliler, çocuklarının önündeki şeyin güvenli olup olmadığını ve belgenin bir anlam taşıyıp taşımadığını soruyor. Bu ikisine doğrudan, içerik filtresi yerine pedagojik güvenlik sorularıyla yanıt verin; yasak argümanı gücünü yitirir. Kurula sorulacak soru manşetten daha dar ve savunulması daha kolaydır.
+[[parents-and-families|Veliler]], çocuklarının önündeki şeyin güvenli olup olmadığını ve belgenin bir anlam taşıyıp taşımadığını soruyor. Bu ikisine doğrudan, içerik filtresi yerine pedagojik güvenlik sorularıyla yanıt verin; yasak argümanı gücünü yitirir. Kurula sorulacak soru manşetten daha dar ve savunulması daha kolaydır.
 
 ### "Bu büyüklükte bir ders için sözlü savunma yürütemeyiz."
 

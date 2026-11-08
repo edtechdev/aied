@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Anda sedang menulis ulang lembar tugas dan kalimat di hadapan Anda menyatakan bahwa AI diizinkan dengan pengakuan, yang tidak memberi tahu siswa apa pun tentang apakah alat itu boleh memasok argumen. Seorang kolega mengusulkan larangan di seluruh mata kuliah dan Anda menduga larangan itu paling keras menghantam penulis multibahasa di ruang kelas. Atau satu tumpukan esai kembali lebih mulus daripada diskusi seminar di belakangnya, dan Anda memerlukan aturan yang dapat Anda pertahankan pada rapat kurikulum berikutnya.
+Anda sedang menulis ulang lembar tugas dan kalimat di hadapan Anda menyatakan bahwa AI diizinkan dengan pengakuan, yang tidak memberi tahu siswa apa pun tentang apakah alat itu boleh memasok argumen. Seorang kolega mengusulkan larangan di seluruh mata kuliah dan Anda menduga larangan itu paling keras menghantam penulis multibahasa di ruang kelas. Atau satu tumpukan esai kembali lebih mulus daripada diskusi seminar di belakangnya, dan Anda memerlukan aturan yang dapat Anda pertahankan pada rapat [[curriculum-design|kurikulum]] berikutnya.
 
 Intinya: sebutkan kerja intelektual yang menjadi alasan tugas itu ada, pertahankan langkah itu bersama siswa, dan beri alat itu pekerjaan yang menghasilkan sesuatu yang harus dinilai siswa. Aturan yang ditulis dengan cara itu memberi tahu siswa langkah mana yang dilindunginya.
 
@@ -78,7 +78,7 @@ Satu urutan yang layak dipinjam menjaga AI dalam peran konsultan dan menempatkan
 | **8. Merevisi** | Membuat dan membenarkan perubahan substantif | Menguji kejelasan, menawarkan alternatif | Revisi |
 | **9. Memverifikasi** | Memeriksa setiap klaim faktual atau yang bergantung pada sumber | Tidak dapat memverifikasi keluarannya sendiri | Sumber dan bukti |
 | **10. Merefleksikan dan mengungkapkan** | Menjelaskan peran AI dan apa yang berubah dalam pemikiran mereka | Tidak ada | Refleksi proses singkat |
-| **11. Pemeriksaan mandiri** | Menjelaskan atau menerapkan penalaran tanpa AI | Tidak ada | Pembelaan lisan, tulisan cepat, kasus baru |
+| **11. Pemeriksaan mandiri** | Menjelaskan atau menerapkan penalaran tanpa AI | Tidak ada | [[oral-assessment|Pembelaan lisan]], tulisan cepat, kasus baru |
 
 Ini adalah [[pairr-ai-peer-review-2025|PAIRR]] yang diperluas: draf, umpan balik manusia, umpan balik AI, perbandingan, revisi, refleksi, dengan garis dasar mandiri dan batas yang lebih ketat di sekitar penalaran. Gunakan kolom tengah sebagai tugas dan kolom kanan sebagai dasar yang dapat menopang nilai.
 
@@ -89,6 +89,9 @@ Sebelas baris lebih banyak daripada yang dibutuhkan sebagian besar tugas. Runtuh
 Studi kelas terbesar di sini adalah [[pairr-ai-peer-review-2025|PAIRR]]: 654 siswa di sepuluh mata kuliah menulis dan tiga mata kuliah [[stem-education|STEM]] yang padat menulis. Mereka menyusun draf, menyelesaikan [[peer-assessment|penilaian sejawat]], memperoleh umpan balik AI berbasis rubrik, membandingkan dan mengevaluasi kedua sumber, menulis rencana revisi, merevisi, dan berefleksi. 58% lebih menyukai gabungan umpan balik sejawat dan AI. 6% lebih menyukai umpan balik AI saja. Siswa menganggap AI berguna untuk nasihat revisi yang berorientasi rubrik secara luas, dan sejawat memasok pengetahuan kontekstual serta respons audiens yang autentik.
 
 Tepatlah tentang klaimnya. PAIRR mengukur pengalaman dan evaluasi siswa atas umpan balik, bukan [[learning-gains|perolehan belajar]] jangka panjang, sehingga buktinya kuat untuk desain umpan balik dan lebih lemah untuk klaim bahwa menulis membaik berbulan-bulan kemudian. Pertahankan langkah sejawat bahkan ketika langkah AI lebih cepat. Sebagian besar kerja [[feedback|umpan balik]] terjadi dalam perbandingan antara kedua sumber, dan menghilangkannya menghapus bagian yang menurut siswa mereka hargai.
+
+Alatnya sendiri dapat dirancang untuk melindungi langkah penalaran. [[favero-thinking-not-writing-chatbot-2026|Favero dkk. (2026)]] membangun MAIKE, chatbot [[socratic-method|Sokratik]] yang mendiagnosis argumen dan mengajukan pertanyaan bertarget tanpa menghasilkan teks esai. Dalam studi kelas bersama 65 siswa sekolah menengah, pengguna MAIKE menghabiskan lebih banyak giliran pada dialog tingkat gagasan daripada pengguna kontrol (56% vs 44%) dan berpindah antara diskusi dan penyuntingan; sekitar 40% siswa meningkatkan skor esai mereka. Studi itu tidak menunjukkan keunggulan nilai keseluruhan dibandingkan kontrol, jadi perlakukan sebagai demonstrasi desain tentang menghubungkan percakapan dengan revisi, bukan sebagai bukti bahwa chatbot menaikkan kualitas tulisan.
+
 
 ## Nilai apa yang dilakukan siswa dengan umpan balik itu
 

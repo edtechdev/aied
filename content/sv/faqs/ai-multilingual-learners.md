@@ -1,9 +1,9 @@
 ---
 title: "Hur kan AI stötta flerspråkiga studenter utan att felbedöma deras kunskaper eller sudda ut deras röst?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 En student förstår begreppet och behöver fyra extra minuter för att säga det på engelska. AI:n kan översätta prompten, förklara terminologin, repetera förklaringen tillsammans med studenten eller skriva hela svaret. Tre av dem är undervisning. En av dem är att göra uppgiften åt studenten.
 
-Kort svar att ge en kollega: bestäm vad språket gör i den här uppgiften innan du bestämmer vad verktyget får göra. Där språket är en bisak kan AI:n ta bort ett hinder som inte har något med din konstrukt att göra. Där språket är konstrukten kringgår samma verktyg lärandet. Risken går åt båda hållen samtidigt: [[multilingual-learning|språkstöd]] kan förbättra tillgången, och automatisk poängsättning kan fortfarande missläsa studenten. I en fysikstudie bedömdes förklaringar av lägre språklig kvalitet systematiskt under expertomdömet av varje prövad AI-metod för poängsättning, nio maskininlärningssystem och två språkmodeller över 116 gymnasieelever ([[ai-scoring-language-bias-physics|Feser och Tschisgale, 2026]]). Flyt och förståelse bedömdes som en och samma sak.
+Här är det korta svaret: bestäm vad språket gör i den här uppgiften innan du bestämmer vad verktyget får göra. Där språket är en bisak kan AI:n ta bort ett hinder som inte har något med din konstrukt att göra. Där språket är konstrukten kringgår samma verktyg lärandet. Risken går åt båda hållen samtidigt: [[multilingual-learning|språkstöd]] kan förbättra tillgången, och [[automated-assessment|automatisk poängsättning]] kan fortfarande missläsa studenten. I en fysikstudie bedömdes förklaringar av lägre språklig kvalitet systematiskt under expertomdömet av varje prövad AI-metod för poängsättning, nio [[machine-learning|maskininlärningssystem]] och två språkmodeller över 116 gymnasieelever ([[ai-scoring-language-bias-physics|Feser och Tschisgale, 2026]]). Flyt och förståelse bedömdes som en och samma sak.
 
 ## Kortversionen
 
@@ -45,13 +45,13 @@ Kort svar att ge en kollega: bestäm vad språket gör i den här uppgiften inna
 
 ## Bestäm vad språket gör
 
-I en biologiförklaring är grammatiken mestadels en bisak i förhållande till begreppet som bedöms. I en språkkurs är det lärandet att producera och revidera särskilda strukturer. I professionell kommunikation räknas ämnesmässig precision, målgrupp och register. Samma översättningsverktyg är lämpligt i det första fallet, tveksamt i det andra och förhandlingsbart i det tredje.
+I en [[biology-education|biologiförklaring]] är grammatiken mestadels en bisak i förhållande till begreppet som bedöms. I en språkkurs är det lärandet att producera och revidera särskilda strukturer. I professionell kommunikation räknas ämnesmässig precision, målgrupp och register. Samma översättningsverktyg är lämpligt i det första fallet, tveksamt i det andra och förhandlingsbart i det tredje.
 
-Skriv ned beslutet där studenterna kan läsa det. Om studenter får översätta instruktioner men måste producera en förklaring på målspråket utan hjälp, säg det uttryckligen. Om terminologistöd är tillåtet, specificera vad studenten fortfarande måste förklara och verifiera. Kontrollera sedan arrangemanget mot krav på anpassningar och mot institutionens policy i stället för att behandla varje form av språkligt stöd som utbytbart. En student med en dokumenterad anpassning och en student som undviker övning kan begära samma sak, och bara det andra är ditt undervisningsproblem.
+Skriv ned beslutet där studenterna kan läsa det. Om studenter får översätta instruktioner men måste producera en förklaring på målspråket utan hjälp, säg det uttryckligen. Om terminologistöd är tillåtet, specificera vad studenten fortfarande måste förklara och verifiera. Kontrollera sedan arrangemanget mot krav på anpassningar och mot [[educational-policy-ai|institutionens policy]] i stället för att behandla varje form av språkligt stöd som utbytbart. En student med en dokumenterad anpassning och en student som undviker övning kan begära samma sak, och bara det andra är ditt undervisningsproblem.
 
 ## Vad forskningen stöder, och vad den inte gör
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez och Arabadzhy (2026)]] granskade 24 empiriska studier av generativa chattbotar i språkinlärning. Deras bidrag är taxonomiskt: varje underaffordans som kartlagts för pregenerativa chattbotar består, och tre är nya, däribland **translanguaging**, det medvetna rörandet mellan språk som en del av lärandet. Det är en karta över rapporterade användningar och erfarenheter snarare än en sammanvägd skattning, och materialet är geografiskt koncentrerat, med Kina, Iran, Taiwan och Türkiye som 19 av de 24 studierna och alla utom en inom formella institutioner. Stöd för att använda förklaringar över språkgränser som ett lärandegrepp är inte stöd för att översätta varje uppgift.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez och Arabadzhy (2026)]] granskade 24 empiriska studier av generativa [[conversational-ai|chattbotar]] i [[language-learning|språkinlärning]]. Deras bidrag är taxonomiskt: varje underaffordans som kartlagts för pregenerativa chattbotar består, och tre är nya, däribland **translanguaging**, det medvetna rörandet mellan språk som en del av lärandet. Det är en karta över rapporterade användningar och erfarenheter snarare än en sammanvägd skattning, och materialet är geografiskt koncentrerat, med Kina, Iran, Taiwan och Türkiye som 19 av de 24 studierna och alla utom en inom formella institutioner. Stöd för att använda förklaringar över språkgränser som ett lärandegrepp är inte stöd för att översätta varje uppgift.
 
 Bedömning är där evidensen blir skarpare och insatserna större. [[ai-scoring-language-bias-physics|Feser och Tschisgale (2026)]] jämförde elva metoder för automatisk poängsättning mot mänskliga expertpoäng för 116 gymnasieelevers fysikförklaringar och fann en systematisk underskattning av begreppslig förståelse för språkligt svagare förklaringar, i varje enskild metod. Designen isolerar mekanismen: samma begreppsliga innehåll, uttryckt i svagare prosa, fick lägre poäng. Det är inte ett påstående om något enskilt lands flerspråkiga studenter, och det är exakt det mönster som gör övergripande samstämmighet i poängsättning till en dålig diagnostik. En bedömare kan vara överens med mänskliga bedömare i genomsnitt och samtidigt fela i en konsekvent riktning för de studenter vars språk fortfarande utvecklas.
 
@@ -116,7 +116,7 @@ Tillhandahåll genomförbara alternativ. Studenter behöver en tydlig väg till 
 
 **4.** Lägg till en kontroll som registrerar studentens egen betydelse eller eget beslut, till exempel en två meningar lång notering om en ändring de accepterade eller avvisade.
 
-**5.** Om din matris poängsätter skrivkvalitet, skilj det kriteriet från det begreppsliga och läs om två inlämningar av varje med uppdelningen i åtanke.
+**5.** Om din matris poängsätter [[writing-education|skrivkvalitet]], skilj det kriteriet från det begreppsliga och läs om två inlämningar av varje med uppdelningen i åtanke.
 
 ## Vart du går härnäst
 

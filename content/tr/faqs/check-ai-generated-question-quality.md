@@ -1,7 +1,7 @@
 ---
 title: "YZ ile Üretilen Test ve Sınav Sorularının Gerçekten İyi Olup Olmadığını Nasıl Kontrol Ederim?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -46,7 +46,7 @@ Bir meslektaşınıza vereceğiniz kısa yanıt: üretilen sorular adaylardır, 
 
 Üretim o kadar ucuz ki çıktı biçimi sessizce şartname haline geliyor. Notlarınız düzgün çoktan seçmeli maddeler üretiyorsa, izlence ne iddia ederse etsin, öğrencilerin makul ifadeler arasında seçim yapıp yapamadığını ölçmeye başlarsınız.
 
-Önce çıktıyı, sonra yeterli bir yanıtın sağlayacağı kanıtı, sonra öğrencilerin getirmesi beklenen bilgiyi belirtin. Ders materyallerini, beklediğiniz kavram yanılgılarını, izin verilen araçları ve yanıt biçimini dahil edin. Öğrencilerin kanıtı yorumlamasını istiyorsanız, madde yorum gerektirmek zorundadır; bir tanım sorusuna kelimeyi eklemek bunu yapmaz. Uzun bir senaryo bile oyunu ele veren tek bir tanıdık ifadeyle yanıtlanabilir kalabilir.
+Önce çıktıyı, sonra yeterli bir yanıtın sağlayacağı kanıtı, sonra öğrencilerin getirmesi beklenen bilgiyi belirtin. Ders materyallerini, beklediğiniz [[misconceptions|kavram yanılgılarını]], izin verilen araçları ve yanıt biçimini dahil edin. Öğrencilerin kanıtı yorumlamasını istiyorsanız, madde yorum gerektirmek zorundadır; bir tanım sorusuna kelimeyi eklemek bunu yapmaz. Uzun bir senaryo bile oyunu ele veren tek bir tanıdık ifadeyle yanıtlanabilir kalabilir.
 
 Bir değerlendirme plan şeması, çıktıları maddelerle karşılaştıran bir tablodur ve değeri, boşlukları öğrencilerden önce açığa çıkarmasıdır. Dengeyi de görünür kılar: en kolay materyalden ürettiğiniz her madde, en çok önemsediğiniz çıktıya ayırmadığınız bir maddedir.
 
@@ -68,7 +68,7 @@ Son olarak, maddenin kimi dışladığını sorun. Okuma yükü, kültürel bağ
 
 ## Zorluk etiketinin karar vermesine izin vermeyin
 
-[[automated-question-generation|Soru üretimi]] literatürü, etiketlerin başarısızlığı konusunda üretimin başarısından daha yararlıdır. [[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang (2026)]], veri bilimi derslerinde yazılmış 378 soruyu inceledi; bunlardan 311'i 54 öğrenciye 7.888 yanıtla dağıtıldı. Modelin kolay, orta ve zor etiketleri kendi birlikte ürettiği Bloom düzeyleriyle ρ = 0,90, ampirik madde zorluğuyla ise ρ = 0,06 düzeyinde ilişkiliydi. Dağıtılan maddelerin kabaca %70'i her öğrenci tarafından doğru yanıtlandı, bu da ilke olarak bile bir zorluk etiketinin izleyebileceği neredeyse hiç varyasyon bırakmadı.
+[[automated-question-generation|Soru üretimi]] literatürü, etiketlerin başarısızlığı konusunda üretimin başarısından daha yararlıdır. [[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang (2026)]], veri bilimi derslerinde yazılmış 378 soruyu inceledi; bunlardan 311'i 54 öğrenciye 7.888 yanıtla dağıtıldı. Modelin kolay, orta ve zor etiketleri kendi birlikte ürettiği Bloom düzeyleriyle ρ = 0,90, ampirik [[item-response-theory|madde zorluğuyla]] ise ρ = 0,06 düzeyinde ilişkiliydi. Dağıtılan maddelerin kabaca %70'i her öğrenci tarafından doğru yanıtlandı, bu da ilke olarak bile bir zorluk etiketinin izleyebileceği neredeyse hiç varyasyon bırakmadı.
 
 Bundan iki ders çıkıyor. Birincisi, zorluk bir madde ile bir nüfus arasındaki etkileşimin özelliğidir, yani madde uygulanmadan önce üretilen hiçbir etikete ölçülmüş değer olarak güvenilemez. İkincisi, herkesin doğru yanıtladığı bir madde bankası kolay bir değerlendirme değil, işe yaramaz bir değerlendirmedir: kimin neyi bildiğine dair neredeyse hiç bilgi taşımaz.
 
@@ -91,6 +91,9 @@ Revize edin ve kaydı tutun: onaylanmış sürüm, hizmet ettiği çıktı, anah
 Giriş düzeyi bir sosyoloji dersinde çıktı, yapısal bir açıklamayı bireysel bir açıklamadan ayırmak olabilir. Zayıf bir madde öğrencilerden "yapısal"ı tanımlamasını ister, bu da sözcük tanımayı ölçer. Daha güçlü bir aday, bir aile ve bir istihdam kararı hakkında kısa bir senaryo verir, sonra hangi açıklamanın yapısal bir kısıtı en iyi tanımladığını sorar; çeldiriciler makul ama farklı yorumları temsil eder.
 
 Eğitmen senaryonun anahtarı gerçekten desteklediğini, iki seçeneğin aynı fikri ifade etmediğini ve yanıtlamanın dersin hiç tanıtmadığı terminolojiye bağlı olmadığını kontrol eder. Tek satırlık bir izleme sorusu, "hangi ayrıntı seçiminizi destekliyor?", seçilen seçeneğin gizlediği akıl yürütmeyi ortaya çıkarır. Bu uyarlama bir madde biçimi olarak test edilmemiştir ve değeri daha dardır: yukarıdaki inceleme soruları bir madde uygulanmadan önce yanıtlanabilir ve kötü bir anahtar öğrenciler görmeden onarılabilir.
+
+Öğrenciler ölçekte hoşnutsuzluk bildirdiğinde, bu sinyalin bir yapısı vardır. Bir ders kitabı platformunda sunulan alıştırma sorularının 5.214.211 oturumluk analizinde, 1.000 oturum başına 2,00 olumsuz oy gelirken 3,31 olumlu oy geldi ve 809.848 sorunun yalnızca 22.844'ü hiç puan aldı ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson ve ark., 2025]]). Oylardaki örüntü rastgele değildi: zarf yanıtı isteyen sorular 1.000 oturum başına 5,23 olumsuz oy alırken sıfat yanıtı isteyenler 1,76 aldı; cümle önemi (olasılık oranı 2,38) ve yanıt metni benzerliği (1,64) de puanlamayı etkiledi. Yazarların ayarlanmış pratik kuralı, her iki önem sinyali de mevcut olduğunda 1.000 oturum başına yaklaşık 1,62 olumsuz oydu. Pratik nokta şu: öğrenci puanlamaları yavaş ama gerçek bir ölçüm kanalıdır; sürekli beğenilmeyen soruları kaldıran bir platform döngüyü kapatır ve birkaç maddeyi pilotlayan bir eğitmen, öğrencinin hangi ayrıntıdan kuşku duyduğunu sorarak aynı sinyali daha hızlı alır.
+
 
 Kendi alıştırma sorularını üreten öğrenciler için aynı kural kendi düzeylerinde geçerlidir: maddeyi deneyin, açıklamayı ders kaynaklarına karşı kontrol edin ve çözülemeyen durumları konuyu bilen birine getirin. Öğrencileri üretilen anahtarları eleştirmeden kabul etmeye alıştıran [[study-with-ai|çalışma pratiği]], yanlış alışkanlığı öğretir.
 

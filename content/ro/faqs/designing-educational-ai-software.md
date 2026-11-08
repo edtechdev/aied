@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Răspunsul este mai îngust decât presupun majoritatea specificațiilor de prod
 
 **1.** Notează ce decide sistemul și ce decide un profesor. Granița aceea devine arhitectura.
 
-**2.** Evaluează interacțiunea cu mai multe ture, conștientă de disciplină, pe curriculum real, nu prompturi singulare pe o grilă generică de siguranță.
+**2.** Evaluează interacțiunea cu mai multe ture, conștientă de disciplină, pe [[curriculum-design|curriculum]] real, nu prompturi singulare pe o grilă generică de siguranță.
 
 **3.** Fundamentează răspunsurile în conținut aprobat și ține componenta de verificare separată de cea conversațională.
 
@@ -65,7 +65,7 @@ Partea transferabilă este separarea: componentele care verifică nu converseaz�
 
 ## Tratează munca studentului ca pe o intrare nesigură
 
-Modelul de amenințare pe care îl omit majoritatea sfaturilor de proiectare stă în interiorul artefactului evaluat. [[humble-prompt-injection-ai-grading-red-team-2026|Evaluarea adversarială de tip red team a lui Humble (2026)]] a testat dacă studenții pot manipula un evaluator bazat pe LLM prin injecție de prompt în lucrările lor, iar manipularea a funcționat: injecțiile care dau instrucțiuni evaluatorului, îl reîncadrează sau îl pun în scenă mută scorul fără a schimba lucrarea.
+Modelul de amenințare pe care îl omit majoritatea sfaturilor de proiectare stă în interiorul artefactului evaluat. [[humble-prompt-injection-ai-grading-red-team-2026|Evaluarea adversarială de tip red team a lui Humble (2026)]] a testat dacă studenții pot manipula un evaluator bazat pe [[llm|LLM]] prin injecție de prompt în lucrările lor, iar manipularea a funcționat: injecțiile care dau instrucțiuni evaluatorului, îl reîncadrează sau îl pun în scenă mută scorul fără a schimba lucrarea.
 
 Ține grila și instrucțiunile în afara ferestrei de context controlate de student, elimină sau semnalează conținutul care arată ca o instrucțiune, nu lăsa niciodată o lucrare să își stabilească propriile criterii și păstrează o decizie umană pentru orice notă cu consecințe. Un evaluator care își citește instrucțiunile din textul pe care îl judecă a predat grila candidatului.
 
@@ -96,6 +96,9 @@ Un model mai mare va repara pedagogia. Scara nu a îmbunătățit în mod fiabil
 Un index de recuperare bun înseamnă că conținutul este acoperit. EduGuard împerechează recuperarea cu un verificator separat și testează prompturi adversariale care cer răspunsul direct, pentru că recuperarea fundamentată lasă totuși o cale spre dezvăluire excesivă.
 
 Profesorul este plasa de siguranță. Toți cei șase profesori din studiul de proiectare au cerut jurnalizare, alerte și suprascriere ca pe o condiție a responsabilității profesionale. Un tichet de suport nu este o suprascriere.
+
+Plăcerea este un substitut pentru potrivire. Într-un sondaj pe 405 studenți la design ([[chu-design-students-ai-agent-tam-ttf-2026|Chu și Liu (2026)]]), potrivirea sarcină–tehnologie a avut propria cale spre atitudine (β = 0,224) alături de [[technology-acceptance-model|utilitatea percepută]], iar caracteristicile sarcinii au condus potrivirea mai mult decât caracteristicile instrumentului (β = 0,322 față de 0,266). Plăcerea percepută a ridicat ușurința utilizării și nu a făcut nimic pentru utilitate (β = −0,033, p = 0,483). Deliciul merită construit, dar nu ține locul potrivirii funcțiilor cu pașii temei.
+
 
 Accesibilitatea este un tichet ulterior. Stă în specificație sau devine o rescriere, iar textele alternative și subtitrările generate au nevoie în continuare de o verificare umană.
 

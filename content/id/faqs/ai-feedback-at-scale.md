@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Ini minggu keenam. Anda punya setumpuk draf, rubrik yang Anda yakini, dan kecurigaan yang tumbuh bahwa sepertiga komentar Anda hanya dibaca sekilas lalu dilupakan. Seorang kolega menyebutkan bahwa sebuah alat sekarang mengomentari setiap draf dalam waktu satu jam. Rapat departemen membutuhkan jawaban: apakah ini peningkatan, atau cara lebih cepat menghasilkan teks yang tidak dibaca siapa pun?
 
-Jawaban singkat untuk diberikan kepada kolega: umpan balik AI memperoleh tempatnya pada cakupan, ketepatan waktu, dan konsistensi, di dalam rentang yang sempit. Pekerjaan bahasa pada skala penyuntingan salinan dan komentar awal yang dipandu rubrik layak diotomasi. Jangkauan adalah bagian yang murah. Dalam eksperimen acak klaster dengan 1.176 mahasiswa tingkat pertama, rancangan reflektif dan hibrida mengalahkan kritik AI langsung pada [[transfer-of-learning|transfer]] tertunda tanpa AI. Dalam eksperimen esai acak dengan 70 siswa, umpan balik AI yang dinilai lebih baik tidak menghasilkan revisi yang lebih baik daripada umpan balik guru berpengalaman. Apa yang dilakukan siswa dengan sebuah komentar menentukan hasilnya, dan [[feedback-literacy|literasi umpan balik]] memisahkan siswa yang memperoleh manfaat dari mereka yang menyalin.
+Jawaban singkat untuk diberikan kepada kolega: umpan balik AI memperoleh tempatnya pada cakupan, ketepatan waktu, dan konsistensi, di dalam rentang yang sempit. Pekerjaan bahasa pada skala penyuntingan salinan dan komentar awal yang dipandu rubrik layak diotomasi. Jangkauan adalah bagian yang murah. Dalam eksperimen acak klaster dengan 1.176 mahasiswa tingkat pertama, rancangan reflektif dan hibrida mengalahkan kritik AI langsung pada [[transfer-of-learning|transfer]] tertunda tanpa AI. Dalam eksperimen esai acak dengan 70 siswa, umpan balik AI yang dinilai lebih baik tidak menghasilkan revisi yang lebih baik daripada umpan balik [[teacher-role|guru]] berpengalaman. Apa yang dilakukan siswa dengan sebuah komentar menentukan hasilnya, dan [[feedback-literacy|literasi umpan balik]] memisahkan siswa yang memperoleh manfaat dari mereka yang menyalin.
 
 ## Versi singkat
 
@@ -38,7 +38,7 @@ Jawaban singkat untuk diberikan kepada kolega: umpan balik AI memperoleh tempatn
 
 **2.** Pilah komentar Anda sendiri menjadi perbaikan tingkat bahasa dan keputusan tingkat pertimbangan. Hanya kategori pertama yang merupakan calon otomasi.
 
-**3.** Atur sumbernya secara bertahap. Evaluasi diri lebih dahulu, umpan balik teman sebaya kedua, kritik AI ketiga. Dua sumber yang diletakkan berdampingan menghasilkan penerimaan pasif.
+**3.** Atur sumbernya secara bertahap. Evaluasi diri lebih dahulu, [[peer-assessment|umpan balik teman sebaya]] kedua, kritik AI ketiga. Dua sumber yang diletakkan berdampingan menghasilkan penerimaan pasif.
 
 **4.** Berikan rubrik Anda kepada model dan minta ia bernalar langkah demi langkah. Instruksi telanjang menghasilkan keluaran generik.
 
@@ -50,7 +50,7 @@ Jawaban singkat untuk diberikan kepada kolega: umpan balik AI memperoleh tempatn
 
 Metrik yang menggoda adalah kualitas tulisan model. Itu juga metrik yang menyesatkan.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] mengacak 70 siswa yang menulis esai argumentatif dalam bahasa Persia ke dalam tiga kelompok. Prompt rantai-pemikiran menghasilkan umpan balik yang dinilai secara signifikan lebih tinggi (M = 12,90) daripada prompt tanpa contoh (M = 11,25, p = 0,01) dan daripada guru manusia berpengalaman (M = 11,20, p = 0,008). Kelompok rantai-pemikiran tidak merevisi esainya secara signifikan lebih banyak daripada kelompok umpan balik guru, yang memperoleh perolehan sebanding. Komentar lebih baik, revisi sama. Jika kriteria keberhasilan Anda adalah kualitas komentar, studi itu terbaca sebagai kemenangan. Jika kriterianya adalah apa yang berubah dalam esai, tidak.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] mengacak 70 siswa yang menulis esai argumentatif dalam bahasa Persia ke dalam tiga kelompok. [[prompt-engineering|Prompt]] rantai-pemikiran menghasilkan umpan balik yang dinilai secara signifikan lebih tinggi (M = 12,90) daripada prompt tanpa contoh (M = 11,25, p = 0,01) dan daripada guru manusia berpengalaman (M = 11,20, p = 0,008). Kelompok rantai-pemikiran tidak merevisi esainya secara signifikan lebih banyak daripada kelompok umpan balik guru, yang memperoleh perolehan sebanding. Komentar lebih baik, revisi sama. Jika kriteria keberhasilan Anda adalah kualitas komentar, studi itu terbaca sebagai kemenangan. Jika kriterianya adalah apa yang berubah dalam esai, tidak.
 
 Dua sinyal lain membuat uji coba yang berjalan buruk tampak lebih baik, jadi tetapkan keduanya lebih dahulu. Kepuasan siswa adalah salah satunya. Dalam uji coba Deakin di seluruh universitas yang dilaporkan [[tubino-adachi-ai-automated-feedback-literacy|Tubino dan Adachi (2022)]], penilaian rata-rata yang positif berjalan bersama kesalahan yang ditandai siswa, jadi survei wajah tersenyum bukan bukti ketepatan. Penggunaan adalah yang lain. Alat Deakin bersifat opsional, dan penggunaannya rata-rata sekitar 13% mahasiswa sarjana dan 12% mahasiswa pascasarjana meskipun hampir 4.000 siswa memiliki akses. Siswa proaktif dan berprestasi tinggi lebih banyak menggunakannya. Itulah yang Anda dapatkan dari menyediakan sebuah alat.
 
@@ -72,7 +72,7 @@ Kondisi reflektif menuntut evaluasi diri sebelum kritik AI. Kondisi hibrida menj
 
 Mekanismenya menjelaskan mengapa pengurutan lebih penting daripada alatnya. Kritik langsung mengundang penerimaan pasif: siswa membaca putusan dan menerapkannya. Rancangan reflektif dan hibrida memaksa siswa menafsirkan komentar, membandingkannya dengan kriteria, menilai relevansinya, lalu merevisi. Nilai pendidikan lebih bergantung pada apakah lingkungan umpan balik mempertahankan [[agency|agensi pembelajar]] dan [[evaluative-judgment|pertimbangan evaluatif]] selama revisi daripada pada akses AI.
 
-Umpan balik teman sebaya memperoleh tempatnya sendiri dalam urutan itu. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen dan Yan (2026)]] menjalankan dua kelas bahasa Inggris paralel (N = 118 mahasiswa tingkat pertama di Tiongkok; GenAI n = 56, teman sebaya n = 62) melalui tiga siklus penilaian diri selama satu semester. Perancah GenAI memperbaiki literasi umpan balik sedikit tetapi signifikan dibandingkan tinjauan teman sebaya manusia (ANCOVA p = 0,049, ηp² = 0,03). Siswa GenAI menyempurnakan prompt secara iteratif dan memverifikasi atau menantang keluaran yang tidak akurat. Siswa kelompok teman sebaya memilih sumber menurut kenyamanan sosial dan pertimbangan evaluatif mereka terdistorsi oleh bias pertemanan. Tinjauan teman sebaya mempertahankan nilai tersendiri bagi kesadaran audiens, dan itulah sebabnya para penulis mengusulkan rancangan bertahap dengan umpan balik teman sebaya anonim alih-alih penggantian.
+Umpan balik teman sebaya memperoleh tempatnya sendiri dalam urutan itu. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen dan Yan (2026)]] menjalankan dua kelas bahasa Inggris paralel (N = 118 mahasiswa tingkat pertama di Tiongkok; GenAI n = 56, teman sebaya n = 62) melalui tiga siklus [[self-assessment|penilaian diri]] selama satu semester. [[scaffolding|Perancah]] GenAI memperbaiki literasi umpan balik sedikit tetapi signifikan dibandingkan tinjauan teman sebaya manusia (ANCOVA p = 0,049, ηp² = 0,03). Siswa GenAI menyempurnakan prompt secara iteratif dan memverifikasi atau menantang keluaran yang tidak akurat. Siswa kelompok teman sebaya memilih sumber menurut kenyamanan sosial dan pertimbangan evaluatif mereka terdistorsi oleh bias pertemanan. Tinjauan teman sebaya mempertahankan nilai tersendiri bagi kesadaran audiens, dan itulah sebabnya para penulis mengusulkan rancangan bertahap dengan umpan balik teman sebaya anonim alih-alih penggantian.
 
 Keunggulan Gu et al. kecil, dan mereka membacanya sebagai nyata tetapi tidak transformatif dengan sendirinya. Perancah guru, pedoman prompt, dan lembar kerja melakukan kerja pendukungnya.
 
@@ -80,15 +80,15 @@ Keunggulan Gu et al. kecil, dan mereka membacanya sebagai nyata tetapi tidak tra
 
 Pembuatan yang merujuk rubrik adalah bagian yang dapat diotomasi.
 
-Perolehan kualitas Farrokhnia et al. berasal dari prompt rantai-pemikiran yang menuntun model melalui evaluasi langkah demi langkah terhadap rubrik argumentasi, bukan dari instruksi telanjang untuk memberi umpan balik. Gu et al. memberikan kepada kelompok GenAI mereka ChatGPT-4o dengan rubrik terlatih dan pedoman prompt, dan itulah yang membuat keluarannya dapat diperiksa terhadap kriteria yang dinyatakan. Dalam kedua kasus, prompt adalah tempat kriteria Anda masuk ke sistem, dan jejak penalaran adalah yang memungkinkan Anda melihat apakah model menerapkannya.
+Perolehan kualitas Farrokhnia et al. berasal dari prompt rantai-pemikiran yang menuntun model melalui evaluasi langkah demi langkah terhadap rubrik argumentasi, bukan dari instruksi telanjang untuk memberi umpan balik. Gu et al. memberikan kepada kelompok GenAI mereka [[generative-ai|ChatGPT]]-4o dengan rubrik terlatih dan pedoman prompt, dan itulah yang membuat keluarannya dapat diperiksa terhadap kriteria yang dinyatakan. Dalam kedua kasus, prompt adalah tempat kriteria Anda masuk ke sistem, dan jejak penalaran adalah yang memungkinkan Anda melihat apakah model menerapkannya.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson dan Yan (2025)]] menjadikan kualitas prompt sebagai poros seluruh proses. Prompt yang kabur menghasilkan keluaran generik yang tidak berguna, dan komentar yang dihasilkan dapat berhalusinasi, bias, atau bertumpang tindih, yang mendorong pertimbangan evaluatif kembali kepada pembacanya. Kalibrasi bahkan lebih tajam. Dalam Farrokhnia et al., kualitas umpan balik GenAI secara signifikan berhubungan dengan kekuatan draf awal siswa, sementara kualitas umpan balik guru tidak. Guru mengalibrasi lebih konsisten. Volume berskala. Kalibrasi tidak.
 
 ## Pertahankan kata terakhir dan catatan resmi pada manusia
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma dan Cobos (2026)]] menjelaskan AICoFE, yang menjalankan tiga model yang disetel secara independen (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) atas skor rubrik dan observasi kualitatif untuk menghasilkan komentar draf yang independen. Pengajar kemudian menyusun pesan akhir dengan memilih kalimat atau paragraf, dengan legenda yang menunjukkan model mana menyumbangkan apa. Model menyusun draf. Pengajar menyampaikan, dan hasil yang disampaikan ditandatangani oleh satu orang yang telah membaca draf itu.
+[[becerra-aicofe-feedback-2026|Becerra, Palma dan Cobos (2026)]] menjelaskan AICoFE, yang menjalankan tiga model yang disetel secara independen (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) atas skor rubrik dan observasi [[qualitative-research|kualitatif]] untuk menghasilkan komentar draf yang independen. Pengajar kemudian menyusun pesan akhir dengan memilih kalimat atau paragraf, dengan legenda yang menunjukkan model mana menyumbangkan apa. Model menyusun draf. Pengajar menyampaikan, dan hasil yang disampaikan ditandatangani oleh satu orang yang telah membaca draf itu.
 
-Aldino et al. menemukan pola bantu-lalu-verifikasi yang sama dalam praktik biasa. Komponen pembelajaran mesin paling sering menandai "Meeting Learning Objective" sebagai hilang (20 dari 21 guru telah melewatkannya; 16 menerima tanda itu) dan "Student-Teacher Relationship" (14 melewatkannya; 12 menerima). Guru memutuskan setiap saran berdasarkan pertimbangan profesional, dan itulah inti dari menempatkan mereka dalam lingkar proses.
+Aldino et al. menemukan pola bantu-lalu-verifikasi yang sama dalam praktik biasa. Komponen [[machine-learning|pembelajaran mesin]] paling sering menandai "Meeting Learning Objective" sebagai hilang (20 dari 21 guru telah melewatkannya; 16 menerima tanda itu) dan "Student-Teacher Relationship" (14 melewatkannya; 12 menerima). Guru memutuskan setiap saran berdasarkan pertimbangan profesional, dan itulah inti dari menempatkan mereka dalam lingkar proses.
 
 Dua belas dari 21 guru Aldino et al. membuat revisi tingkat kalimat lebih lanjut, dan pola dominannya adalah mengalibrasi nada: menurunkan pujian (f = 11), menghapus saran (f = 9), menghapus dorongan (f = 8). Revisi terpusat pada dimensi relasional, terutama Student-Teacher Relationship (f = 24). Mereka melindungi keaslian dan suara profesional, dan pekerjaan itu tidak dapat diotomasi.
 
@@ -118,7 +118,7 @@ Penilaian kepuasan memberi tahu Anda bahwa komentarnya akurat. Dalam uji coba De
 
 ## Apa yang akan kembali kepada Anda
 
-**"Umpan balik AI tidak personal."** Sering kali benar, dan itulah alasan mempertahankan kata terakhir pada manusia. AICoFE ada karena prosa model yang generik bukanlah yang seharusnya diterima siswa: pengajar memilih, menyunting, dan menandatangani pesan akhirnya. Ke-21 guru dalam Aldino et al. menulis ulang nadanya karena alasan yang sama. Personalisasi adalah tugas Anda dalam rancangan ini, dan model yang mengerjakan pekerjaan persiapannya.
+**"Umpan balik AI tidak personal."** Sering kali benar, dan itulah alasan mempertahankan kata terakhir pada manusia. AICoFE ada karena prosa model yang generik bukanlah yang seharusnya diterima siswa: pengajar memilih, menyunting, dan menandatangani pesan akhirnya. Ke-21 guru dalam Aldino et al. menulis ulang nadanya karena alasan yang sama. [[personalized-learning|Personalisasi]] adalah tugas Anda dalam rancangan ini, dan model yang mengerjakan pekerjaan persiapannya.
 
 **"Siswa saya tidak akan membaca umpan baliknya, apa pun yang terjadi."** Mereka membaca lebih sedikit daripada yang kami harapkan, dan buktinya mengatakan perbaikannya adalah rancangan, bukan volume. Penerimaan dalam uji coba Deakin berjalan pada sekitar 13% dan 12%. Komentar Farrokhnia et al. yang dinilai lebih tinggi tidak menghasilkan revisi tambahan. Yang menggerakkan jarum adalah pengurutan yang memaksa keterlibatan, evaluasi diri lalu umpan balik teman sebaya lalu kritik AI, ditambah tiga siklus revisi sepanjang satu semester yang menghasilkan perbedaan literasi umpan balik yang terukur.
 

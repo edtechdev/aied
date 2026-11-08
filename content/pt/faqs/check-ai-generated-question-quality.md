@@ -1,7 +1,7 @@
 ---
 title: "Como sei se as questões de quiz e de prova geradas por IA são realmente boas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Você pede vinte questões a partir das suas notas de aula. Elas voltam com gabaritos, explicações, rótulos de dificuldade e categorias da taxonomia de Bloom, em um documento formatado que parece pronto. Seu nome está prestes a entrar nele.
 
-Resposta curta para dar a um colega: questões geradas são candidatas, não uma avaliação. Resolva cada uma você mesmo, verifique o que o item exige que o estudante faça de fato, e descubra como os estudantes respondem a ele antes que conte. Nos dois maiores estudos desta base de conhecimento, o sinal interessante não é que a geração funciona, e sim onde ela falha. A geração iterativa dentro de um fluxo de trabalho específico do curso produziu provas de múltipla escolha utilizáveis em 71 turmas de faculdade ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Em uma auditoria de ciência de dados com 311 questões implantadas, os rótulos de dificuldade do modelo acompanharam quase perfeitamente os níveis de Bloom que ele mesmo havia gerado junto (ρ de Spearman = 0,90), enquanto acompanharam a nota real dos estudantes a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). O rótulo era uma descrição do prompt, não uma medida do item.
+Aqui está a resposta curta: questões geradas são candidatas, não uma avaliação. Resolva cada uma você mesmo, verifique o que o item exige que o estudante faça de fato, e descubra como os estudantes respondem a ele antes que conte. Nos dois maiores estudos desta base de conhecimento, o sinal interessante não é que a geração funciona, e sim onde ela falha. A geração iterativa dentro de um fluxo de trabalho específico do curso produziu provas de múltipla escolha utilizáveis em 71 turmas de faculdade ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Em uma auditoria de ciência de dados com 311 questões implantadas, os rótulos de dificuldade do modelo acompanharam quase perfeitamente os níveis de Bloom que ele mesmo havia gerado junto (ρ de Spearman = 0,90), enquanto acompanharam a nota real dos estudantes a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). O rótulo era uma descrição do prompt, não uma medida do item.
 
 ## A versão curta
 
@@ -46,7 +46,7 @@ Resposta curta para dar a um colega: questões geradas são candidatas, não uma
 
 A geração é barata o bastante para que o formato da saída se torne, em silêncio, a especificação. Se suas notas produzem itens de múltipla escolha arrumadinhos, você vai acabar medindo se os estudantes sabem escolher entre afirmações plausíveis, qualquer que seja o resultado que a ementa proclame.
 
-Especifique primeiro o resultado, depois a evidência que uma resposta satisfatória daria, depois o conhecimento que se espera que os estudantes tragam. Inclua os materiais do curso, as concepções equivocadas que você espera, as ferramentas permitidas e o formato de resposta. Se você quer estudantes interpretando evidências, o item precisa exigir interpretação, e acrescentar a palavra a uma questão de definição não faz isso. Um cenário longo ainda pode ser respondível por meio de uma única frase familiar que entrega o jogo.
+Especifique primeiro o resultado, depois a evidência que uma resposta satisfatória daria, depois o conhecimento que se espera que os estudantes tragam. Inclua os materiais do curso, as [[misconceptions|concepções equivocadas]] que você espera, as ferramentas permitidas e o formato de resposta. Se você quer estudantes interpretando evidências, o item precisa exigir interpretação, e acrescentar a palavra a uma questão de definição não faz isso. Um cenário longo ainda pode ser respondível por meio de uma única frase familiar que entrega o jogo.
 
 Um blueprint de avaliação é uma tabela de resultados contra itens, e o seu valor é expor lacunas antes que os estudantes as exponham. Ele também torna o trade-off visível: cada item que você gera a partir do material mais fácil é um item que você não gastou no resultado que mais te importa.
 
@@ -68,7 +68,7 @@ Um segundo modelo pode ajudar a identificar problemas, e concordância entre doi
 
 ## Não deixe o rótulo de dificuldade decidir
 
-A literatura de [[automated-question-generation|geração de questões]] é mais útil sobre a falha dos rótulos do que sobre o sucesso da geração. [[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang (2026)]] examinaram 378 questões autorais em cursos de ciência de dados, das quais 311 foram implantadas para 54 estudantes, com 7.888 respostas. Os rótulos fácil, médio e difícil do modelo se correlacionaram com os níveis de Bloom que ele mesmo gerou junto a ρ = 0,90 e com a dificuldade empírica do item a ρ = 0,06. Cerca de 70% dos itens implantados foram respondidos corretamente por todos os estudantes, o que não deixou quase nenhuma variação para um rótulo de dificuldade acompanhar nem em princípio.
+A literatura de [[automated-question-generation|geração de questões]] é mais útil sobre a falha dos rótulos do que sobre o sucesso da geração. [[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang (2026)]] examinaram 378 questões autorais em cursos de ciência de dados, das quais 311 foram implantadas para 54 estudantes, com 7.888 respostas. Os rótulos fácil, médio e difícil do modelo se correlacionaram com os níveis de Bloom que ele mesmo gerou junto a ρ = 0,90 e com a [[item-response-theory|dificuldade empírica do item]] a ρ = 0,06. Cerca de 70% dos itens implantados foram respondidos corretamente por todos os estudantes, o que não deixou quase nenhuma variação para um rótulo de dificuldade acompanhar nem em princípio.
 
 Duas lições decorrem disso. Primeiro, a dificuldade é uma propriedade da interação entre um item e uma população, então nenhum rótulo produzido antes de aplicar o item pode ser confiado como valor medido. Segundo, um banco de itens que todo mundo acerta não é uma avaliação fácil, é uma avaliação inútil: carrega quase nenhuma informação sobre quem sabe o quê.
 
@@ -91,6 +91,8 @@ Revise e guarde o registro: a versão aprovada, o resultado a que serve, o gabar
 Em um curso introdutório de sociologia, o resultado pode ser distinguir uma explicação estrutural de uma individual. Um item fraco pede que os estudantes definam "estrutural", o que mede reconhecimento de vocabulário. Um candidato mais forte dá um cenário curto sobre uma família e uma decisão de emprego, e então pede qual explicação identifica melhor uma restrição estrutural, com distratores que representam interpretações plausíveis mas diferentes.
 
 O professor verifica que o cenário realmente sustenta o gabarito, que duas opções não expressam a mesma ideia, e que responder não depende de terminologia que o curso nunca apresentou. Uma pergunta de acompanhamento de uma linha, "qual detalhe sustenta a sua escolha?", traz à superfície o raciocínio que a opção escolhida esconde. A adaptação não foi testada como formato de item, e o seu valor é mais estreito: as perguntas de revisão acima podem ser respondidas antes de o item ser aplicado, e um gabarito ruim pode ser consertado antes que os estudantes o vejam.
+
+Quando os estudantes sinalizam desagrado em escala, o sinal tem estrutura. Em uma análise de 5.214.211 sessões de questões de prática apresentadas dentro de uma plataforma de livro didático, os polegares para baixo chegaram a 2,00 por 1.000 sessões contra 3,31 polegares para cima, e apenas 22.844 de 809.848 questões receberam alguma avaliação ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). O padrão nos votos não era aleatório: questões que pediam respostas com advérbios atraíram 5,23 polegares para baixo por 1.000 contra 1,76 para respostas com adjetivos, e a importância da frase (razão de chances 2,38) e a similaridade do texto da resposta (1,64) também moviam a avaliação. A regra prática ajustada pelos autores era de cerca de 1,62 desgostos por 1.000 quando ambos os sinais de importância estavam presentes. O ponto prático é que as avaliações dos estudantes são um canal de medição lento, mas real: uma plataforma que remove questões repetidamente rejeitadas fecha o ciclo, e um professor que testa alguns itens obtém o mesmo sinal mais rápido perguntando qual detalhe o estudante duvidou.
 
 Para estudantes que geram as próprias questões de prática, a mesma regra vale no nível deles: tentem resolver o item, confiram a explicação contra as fontes do curso e levem os casos insolúveis a alguém que conhece a matéria. [[study-with-ai|Prática de estudo]] que treina estudantes a aceitar gabaritos gerados sem crítica ensina o hábito errado.
 

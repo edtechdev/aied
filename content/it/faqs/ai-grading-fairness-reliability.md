@@ -1,9 +1,9 @@
 ---
 title: "Posso usare l'IA per valutare il lavoro degli studenti in modo equo e affidabile?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Hai una rubrica in cui credi, più elaborati che ore e uno strumento che restituisce un punteggio e diversi paragrafi sicuri di sé nel tempo che serve a leggere un solo saggio. Lo provi su lavori che hai già valutato. Metà dei punteggi sembra giusta. Uno è stranamente generoso, uno stranamente severo, e non riesci ancora a capire se dipenda dallo strumento o dal saggio.
 
-Risposta breve da dare a un collega: la valutazione con l'IA si guadagna un posto come assistente supervisionato o secondo lettore, su compiti in cui l'hai verificata contro lavori che hai già corretto. L'accordo non si trasferisce da un tipo di valutazione all'altro. In un esame di farmacia con sedici studenti, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] hanno trovato un accordo quasi perfetto sui tipi di item oggettivi e un accordo inaffidabile sulle risposte aperte. In tre università inglesi, [[opraise-automated-marking-ai-assessment-2026|il progetto OpRaise]] ha trovato che valutatori IA e umani concordavano sulla fascia di laurea tra il 35% e il 65% delle volte a seconda dell'istituzione, con i voti compressi verso il centro. Una giustificazione fluente non è prova che i tuoi criteri siano stati applicati. Se il risultato sia [[assessment-validity|valido per la tua decisione]] è una questione locale a cui devi rispondere tu, e [[human-in-the-loop-ai|una persona resta responsabile]] di tutto ciò che diventa un voto registrato.
+Ecco la risposta breve: la valutazione con l'IA si guadagna un posto come assistente supervisionato o secondo lettore, su compiti in cui l'hai verificata contro lavori che hai già corretto. L'accordo non si trasferisce da un tipo di valutazione all'altro. In un esame di farmacia con sedici studenti, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] hanno trovato un accordo quasi perfetto sui tipi di item oggettivi e un accordo inaffidabile sulle risposte aperte. In tre università inglesi, [[opraise-automated-marking-ai-assessment-2026|il progetto OpRaise]] ha trovato che valutatori IA e umani concordavano sulla fascia di laurea tra il 35% e il 65% delle volte a seconda dell'istituzione, con i voti compressi verso il centro. Una giustificazione fluente non è prova che i tuoi criteri siano stati applicati. Se il risultato sia [[assessment-validity|valido per la tua decisione]] è una questione locale a cui devi rispondere tu, e [[human-in-the-loop-ai|una persona resta responsabile]] di tutto ciò che diventa un voto registrato.
 
 ## La versione breve
 
@@ -48,7 +48,7 @@ Tre assetti vengono chiamati «valutazione con l'IA» e comportano obblighi dive
 
 Un **assistente al feedback** abbozza commenti o segnala possibili omissioni che puoi accettare, riscrivere o scartare. Il rischio resta confinato alla qualità dei commenti, e tu leggi tutto prima che arrivi a uno studente. Un **secondo lettore** propone punteggi per criterio o segnala disaccordi per strutturare la tua correzione. I suoi errori devono essere utili e non solo sbagliati: una segnalazione che ti riporta su un elaborato che avresti corretto distrattamente vale la pena. Un **valutatore principale** produce punteggi che diventano voti registrati. È l'assetto che l'evidenza di questa base di conoscenza non sostiene al di fuori di casi ristretti e validati localmente.
 
-Scegli il gradino più basso che risponde al tuo vincolo reale. Se il carico di correzione deriva dal controllo di una chiave di risposta fissa, la normale correzione deterministica è più trasparente e verificabile di un modello linguistico, e lo studio di farmacia suggerisce che il vantaggio dell'LLM sugli item oggettivi era in parte un artefatto dell'avergli fornito le risposte corrette durante la valutazione. Riserva il modello ai lavori che richiedono interpretazione, e poi verifica quell'interpretazione.
+Scegli il gradino più basso che risponde al tuo vincolo reale. Se il carico di correzione deriva dal controllo di una chiave di risposta fissa, la normale correzione deterministica è più trasparente e verificabile di un [[llm|modello linguistico]], e lo studio di farmacia suggerisce che il vantaggio dell'LLM sugli item oggettivi era in parte un artefatto dell'avergli fornito le risposte corrette durante la valutazione. Riserva il modello ai lavori che richiedono interpretazione, e poi verifica quell'interpretazione.
 
 [[automated-assessment|La valutazione automatizzata]] copre il macchinario più ampio di attribuzione dei punteggi, moderazione e generazione di feedback. Questa pagina è la questione di giudizio che sta sotto.
 

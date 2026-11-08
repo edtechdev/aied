@@ -1,9 +1,9 @@
 ---
 title: "Hvordan kan AI støtte flerspråklige elever uten å feilvurdere kunnskapen deres eller slette stemmen deres?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 En student forstår begrepet og trenger fire minutter ekstra for å si det på engelsk. AI-en kan oversette oppgaven, definere terminologien, øve inn forklaringen sammen med studenten, eller skrive hele svaret. Tre av disse er undervisning. Én er å gjøre oppgaven.
 
-Kort svar å gi en kollega: avgjør hva språket gjør i denne oppgaven før du avgjør hva verktøyet kan gjøre. Der språket er underordnet, kan AI fjerne en barriere som ikke har noe med konstruktet ditt å gjøre. Der språket er konstruktet, omgår det samme verktøyet læringen. Risikoen går begge veier samtidig: [[multilingual-learning|språkstøtte]] kan forbedre tilgangen, og automatisert poenggiving kan fortsatt lese studenten feil. I én fysikkstudie ble forklaringer med lavere språklig kvalitet systematisk vurdert under ekspertskjønn av alle AI-tilnærmingene som ble testet, ni maskinlærings- og to språkmodellsystemer, blant 116 ungdomsskoleelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flyt og forståelse ble vurdert som én og samme ting.
+Her er det korte svaret: avgjør hva språket gjør i denne oppgaven før du avgjør hva verktøyet kan gjøre. Der språket er underordnet, kan AI fjerne en barriere som ikke har noe med konstruktet ditt å gjøre. Der språket er konstruktet, omgår det samme verktøyet læringen. Risikoen går begge veier samtidig: [[multilingual-learning|språkstøtte]] kan forbedre tilgangen, og [[automated-assessment|automatisert poenggiving]] kan fortsatt lese studenten feil. I én fysikkstudie ble forklaringer med lavere språklig kvalitet systematisk vurdert under ekspertskjønn av alle AI-tilnærmingene som ble testet, ni [[machine-learning|maskinlærings]]- og to språkmodellsystemer, blant 116 ungdomsskoleelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flyt og forståelse ble vurdert som én og samme ting.
 
 ## Kortversjonen
 
@@ -45,13 +45,13 @@ Kort svar å gi en kollega: avgjør hva språket gjør i denne oppgaven før du 
 
 ## Avgjør hva språket gjør
 
-I en biologiforklaring er grammatikk stort sett underordnet begrepet som vurderes. I et språkfag er det å produsere og revidere bestemte strukturer selve læringen. I profesjonell kommunikasjon teller både faglig nøyaktighet, målgruppe og register. Det samme oversettelsesverktøyet er hensiktsmessig i det første tilfellet, tvilsomt i det andre og forhandlingsbart i det tredje.
+I en [[biology-education|biologiforklaring]] er grammatikk stort sett underordnet begrepet som vurderes. I et språkfag er det å produsere og revidere bestemte strukturer selve læringen. I profesjonell kommunikasjon teller både faglig nøyaktighet, målgruppe og register. Det samme oversettelsesverktøyet er hensiktsmessig i det første tilfellet, tvilsomt i det andre og forhandlingsbart i det tredje.
 
-Skriv beslutningen ned der studentene kan lese den. Hvis studentene kan oversette instruksjonene, men må produsere en forklaring på målspråket uten hjelp, si det eksplisitt. Hvis terminologistøtte er tillatt, spesifiser hva studenten fortsatt må forklare og verifisere. Kontroller deretter ordningen mot krav til tilrettelegging og institusjonens retningslinjer i stedet for å behandle alle former for språkhjelp som ombyttbare. En student med dokumentert tilrettelegging og en student som unngår øving, kan be om det samme, og bare den andre er undervisningsproblemet ditt.
+Skriv beslutningen ned der studentene kan lese den. Hvis studentene kan oversette instruksjonene, men må produsere en forklaring på målspråket uten hjelp, si det eksplisitt. Hvis terminologistøtte er tillatt, spesifiser hva studenten fortsatt må forklare og verifisere. Kontroller deretter ordningen mot krav til tilrettelegging og [[educational-policy-ai|institusjonens retningslinjer]] i stedet for å behandle alle former for språkhjelp som ombyttbare. En student med dokumentert tilrettelegging og en student som unngår øving, kan be om det samme, og bare den andre er undervisningsproblemet ditt.
 
 ## Hva forskningen støtter, og hva den ikke støtter
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gjennomgikk 24 empiriske studier av generative chatboter i språklæring. Bidraget deres er taksonomisk: hver underanvendelse som ble katalogisert for pre-generative chatboter, består, og tre er nye, inkludert **translanguaging**, den bevisste bevegelsen mellom språk som en del av læringen. Det er et kart over rapporterte bruksmåter og erfaringer, ikke et samlet estimat, og materialet er geografisk konsentrert, med Kina, Iran, Taiwan og Türkiye som opphav til 19 av de 24 studiene og alle unntatt én innenfor formelle institusjoner. Støtte for å bruke tverrspråklig forklaring som et læretrekk er ikke støtte for å oversette hver oppgave.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gjennomgikk 24 empiriske studier av generative [[conversational-ai|chatboter]] i [[language-learning|språklæring]]. Bidraget deres er taksonomisk: hver underanvendelse som ble katalogisert for pre-generative chatboter, består, og tre er nye, inkludert **translanguaging**, den bevisste bevegelsen mellom språk som en del av læringen. Det er et kart over rapporterte bruksmåter og erfaringer, ikke et samlet estimat, og materialet er geografisk konsentrert, med Kina, Iran, Taiwan og Türkiye som opphav til 19 av de 24 studiene og alle unntatt én innenfor formelle institusjoner. Støtte for å bruke tverrspråklig forklaring som et læretrekk er ikke støtte for å oversette hver oppgave.
 
 Vurdering er der evidensen blir skarpere og innsatsen større. [[ai-scoring-language-bias-physics|Feser og Tschisgale (2026)]] sammenlignet elleve automatiserte poenggivingstilnærminger med menneskelige ekspertscore for 116 ungdomsskoleelevers fysikkforklaringer, og fant systematisk undervurdering av begrepsmessig forståelse for språklig svakere forklaringer, i hver eneste tilnærming. Designet isolerer mekanismen: det samme begrepsinnholdet, uttrykt i svakere prosa, fikk lavere score. Dette er ikke en påstand om noe bestemt lands flerspråklige elever, og det er nøyaktig mønsteret som gjør samlet poengsamstemthet til et dårlig diagnostisk verktøy. En poenggiver kan være enig med menneskelige sensorer i gjennomsnitt mens den tar feil i en konsistent retning for studentene hvis språk fortsatt er under utvikling.
 
@@ -116,7 +116,7 @@ Tilby brukbare alternativer. Studenter trenger en klar vei til menneskelig språ
 
 **4.** Legg til én kontroll som registrerer studentens egen mening eller beslutning, for eksempel et notat på to setninger om en endring de godtok eller avviste.
 
-**5.** Hvis rubrikken din vurderer skrivekvalitet, skill det kriteriet fra det begrepsmessige og les to innleveringer av hver på nytt med delingen i mente.
+**5.** Hvis rubrikken din vurderer [[writing-education|skrivekvalitet]], skill det kriteriet fra det begrepsmessige og les to innleveringer av hver på nytt med delingen i mente.
 
 ## Hvor du kan gå videre
 

@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Odgovor je uži nego što većina specifikacija proizvoda pretpostavlja. Obrazov
 
 **1.** Zapišite što odlučuje sustav, a što odlučuje nastavnik. Ta granica postaje arhitektura.
 
-**2.** Evaluirajte interakciju s više okreta, osjetljivu na disciplinu, prema stvarnom kurikulu, a ne pojedinačne upite prema općoj sigurnosnoj rubrici.
+**2.** Evaluirajte interakciju s više okreta, osjetljivu na disciplinu, prema stvarnom [[curriculum-design|kurikulu]], a ne pojedinačne upite prema općoj sigurnosnoj rubrici.
 
 **3.** Utemeljite odgovore u odobrenom sadržaju i držite komponentu za provjeru odvojenom od razgovorne.
 
@@ -65,7 +65,7 @@ Prenosiv je dio razdvajanje: komponente koje provjeravaju ne razgovaraju, a mjer
 
 ## Tretirajte studentski rad kao nepouzdan unos
 
-Model prijetnje koji većina dizajnerskih savjeta izostavlja nalazi se unutar samog artefakta koji se ocjenjuje. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleova (2026) protivnička evaluacija crvenog tima]] testirala je mogu li studenti manipulirati ocjenjivačem utemeljenim na LLM-u ubacivanjem uputa u svoje predaje, i manipulacija je uspjela: ubacivanja koja ocjenjivaču daju upute, preokreću okvir ili ga uvode u igru uloga mijenjaju ocjenu bez promjene rada.
+Model prijetnje koji većina dizajnerskih savjeta izostavlja nalazi se unutar samog artefakta koji se ocjenjuje. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleova (2026) protivnička evaluacija crvenog tima]] testirala je mogu li studenti manipulirati ocjenjivačem utemeljenim na [[llm|LLM-u]] ubacivanjem uputa u svoje predaje, i manipulacija je uspjela: ubacivanja koja ocjenjivaču daju upute, preokreću okvir ili ga uvode u igru uloga mijenjaju ocjenu bez promjene rada.
 
 Držite rubriku i upute izvan kontekstnog okna koje student kontrolira, uklanjajte ili označavajte sadržaj koji nalikuje uputama, nikada ne dopustite da predaja sama postavi svoje kriterije i zadržite ljudsku odluku o svakoj ocjeni s posljedicama. Ocjenjivač koji svoje upute čita iz teksta koji prosuđuje predao je rubriku kandidatu.
 
@@ -96,6 +96,9 @@ Veći model popravit će pedagogiju. Razmjera nije pouzdano poboljšala sigurnos
 Dobar indeks dohvata znači da je sadržaj riješen. EduGuard spaja dohvat s odvojenim provjerivačem i testira protivničke upite za izravan odgovor, jer utemeljeni dohvat i dalje ostavlja put do prekomjernog otkrivanja.
 
 Nastavnik je rezervna opcija. Svih šest nastavnika u studiji dizajna tražilo je bilježenje, upozorenja i nadjačavanje kao uvjet profesionalne odgovornosti. Zahtjev prema korisničkoj podršci nije nadjačavanje.
+
+Užitak je zamjena za prikladnost. U anketi s 405 studenata diplomskih studija dizajna ([[chu-design-students-ai-agent-tam-ttf-2026|Chu i Liu (2026)]]) prikladnost zadatka i tehnologije nosila je vlastiti put prema stavu (β = 0,224) uz [[technology-acceptance-model|percipiranu korisnost]], a karakteristike zadatka pokretale su prikladnost više od karakteristika alata (β = 0,322 prema 0,266). Percipirani užitak podigao je jednostavnost upotrebe, a za korisnost nije učinio ništa (β = −0,033, p = 0,483). Užitak vrijedi graditi, ali ne zamjenjuje usklađivanje funkcija s koracima zadatka.
+
 
 Pristupačnost je kasniji zadatak. Ili je u specifikaciji ili postaje prepisivanje, a generirani alternativni tekst i titlovi ipak trebaju ljudsku provjeru.
 

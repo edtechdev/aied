@@ -1,9 +1,9 @@
 ---
 title: "AI Inawezaje Kusaidia Wanafunzi wa Lugha Nyingi Bila Kukosea Ufahamu Wao au Kufuta Sauti Yake?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Mwanafunzi anaelewa dhana na anahitaji dakika nne za ziada kuisema kwa Kiingereza. AI inaweza kutafsiri kidokezo, kufafanua istilahi, kufanya mazoezi ya maelezo pamoja naye, au kuandika jibu zima. Matumizi matatu kati ya hayo ni kufundisha. Moja ni kufanya kazi ya zoezi.
 
-Jibu fupi la kumpa mwenzako: amua lugha inafanya nini katika kazi hii kabla ya kuamua zana inaruhusiwa kufanya nini. Pale lugha ni ya pembeni, AI inaweza kuondoa kikwazo kisichohusiana na dhana yako. Pale lugha ni dhana yenyewe, zana hiyo hiyo inapita kando ya ujifunzaji. Hatari inaenda pande mbili kwa wakati mmoja: [[multilingual-learning|msaada wa lugha]] unaweza kuboresha ufikivu, na upaaji wa alama wa kiotomatiki unaweza bado kumsoma vibaya mwanafunzi. Katika utafiti mmoja wa fizikia, maelezo yenye ubora hafifu wa lugha yalipewa alama chini ya hukumu ya mtaalam kwa uthabiti na kila mbinu ya upaaji wa alama ya AI iliyojaribiwa, mifumo tisa ya kujifunza kwa mashine na miwili ya mifano ya lugha, kwa wanafunzi 116 wa shule ya sekondari ([[ai-scoring-language-bias-physics|Feser na Tschisgale, 2026]]). Ufasaha na ufahamu vilikuwa vipimwe kama kitu kimoja.
+Jibu fupi la kumpa mwenzako: amua lugha inafanya nini katika kazi hii kabla ya kuamua zana inaruhusiwa kufanya nini. Pale lugha ni ya pembeni, AI inaweza kuondoa kikwazo kisichohusiana na dhana yako. Pale lugha ni dhana yenyewe, zana hiyo hiyo inapita kando ya ujifunzaji. Hatari inaenda pande mbili kwa wakati mmoja: [[multilingual-learning|msaada wa lugha]] unaweza kuboresha ufikivu, na [[automated-assessment|upaaji wa alama wa kiotomatiki]] unaweza bado kumsoma vibaya mwanafunzi. Katika utafiti mmoja wa fizikia, maelezo yenye ubora hafifu wa lugha yalipewa alama chini ya hukumu ya mtaalam kwa uthabiti na kila mbinu ya upaaji wa alama ya AI iliyojaribiwa, mifumo tisa ya [[machine-learning|kujifunza kwa mashine]] na miwili ya mifano ya lugha, kwa wanafunzi 116 wa shule ya sekondari ([[ai-scoring-language-bias-physics|Feser na Tschisgale, 2026]]). Ufasaha na ufahamu vilikuwa vipimwe kama kitu kimoja.
 
 ## Toleo fupi
 
@@ -45,13 +45,13 @@ Jibu fupi la kumpa mwenzako: amua lugha inafanya nini katika kazi hii kabla ya k
 
 ## Amua lugha inafanya kazi gani
 
-Katika maelezo ya biolojia, sarufi mara nyingi ni ya pembeni kwa dhana inayotathminiwa. Katika kozi ya lugha, kuzalisha na kurekebisha miundo fulani ndiko kujifunza. Katika mawasiliano ya kitaaluma, usahihi wa kitaaluma, hadhira na kiimbo vyote vinahesabiwa. Zana hiyo hiyo ya tafsiri inafaa katika kesi ya kwanza, inatia shaka katika ya pili na inaweza kujadiliwa katika ya tatu.
+Katika maelezo ya [[biology-education|biolojia]], sarufi mara nyingi ni ya pembeni kwa dhana inayotathminiwa. Katika kozi ya lugha, kuzalisha na kurekebisha miundo fulani ndiko kujifunza. Katika mawasiliano ya kitaaluma, usahihi wa kitaaluma, hadhira na kiimbo vyote vinahesabiwa. Zana hiyo hiyo ya tafsiri inafaa katika kesi ya kwanza, inatia shaka katika ya pili na inaweza kujadiliwa katika ya tatu.
 
-Andika uamuzi huo mahali ambapo wanafunzi wanaweza kuusoma. Kama wanafunzi wanaweza kutafsiri maelekezo lakini wanapaswa kutoa maelezo kwa lugha lengwa bila msaada, sema hivyo wazi. Kama msaada wa istilahi unaruhusiwa, bainisha kile mwanafunzi bado anapaswa kueleza na kuhakiki. Kisha hakiki mpangilio dhidi ya mahitaji ya upatanisho na sera ya taasisi badala ya kuchukua kila aina ya msaada wa lugha kama inayoweza kubadilishana. Mwanafunzi mwenye upatanisho ulioandikwa na mwanafunzi anayekwepa mazoezi wanaweza kuomba kitu kimoja, na ni wa pili pekee aliye tatizo lako la kufundisha.
+Andika uamuzi huo mahali ambapo wanafunzi wanaweza kuusoma. Kama wanafunzi wanaweza kutafsiri maelekezo lakini wanapaswa kutoa maelezo kwa lugha lengwa bila msaada, sema hivyo wazi. Kama msaada wa istilahi unaruhusiwa, bainisha kile mwanafunzi bado anapaswa kueleza na kuhakiki. Kisha hakiki mpangilio dhidi ya mahitaji ya upatanisho na [[educational-policy-ai|sera ya taasisi]] badala ya kuchukua kila aina ya msaada wa lugha kama inayoweza kubadilishana. Mwanafunzi mwenye upatanisho ulioandikwa na mwanafunzi anayekwepa mazoezi wanaweza kuomba kitu kimoja, na ni wa pili pekee aliye tatizo lako la kufundisha.
 
 ## Utafiti unaunga mkono nini, na hauungi mkono nini
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]] walipitia tafiti 24 za majaribio za chatbots zalishi katika ujifunzaji wa lugha. Mchango wao ni wa uainishaji: kila fursa ndogo iliyoorodheshwa kwa chatbots za kabla ya enzi ya AI zalishi inaendelea kuwepo, na tatu ni mpya, ikiwemo **translanguaging**, uhamishaji wa makusudi kati ya lugha kama sehemu ya kujifunza. Hiyo ni ramani ya matumizi na uzoefu ulioripotiwa badala ya makadirio yaliyojumuishwa, na mkusanyiko umejikita kijiografia, huku China, Iran, Taiwan na Türkiye zikichukua tafiti 19 kati ya 24 na zote isipokuwa moja zikiwa ndani ya taasisi rasmi. Msaada wa kutumia maelezo ya lugha tofauti kama hatua ya kujifunza si msaada wa kutafsiri kila kazi.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]] walipitia tafiti 24 za majaribio za [[conversational-ai|chatbots]] zalishi katika [[language-learning|ujifunzaji wa lugha]]. Mchango wao ni wa uainishaji: kila fursa ndogo iliyoorodheshwa kwa chatbots za kabla ya enzi ya AI zalishi inaendelea kuwepo, na tatu ni mpya, ikiwemo **translanguaging**, uhamishaji wa makusudi kati ya lugha kama sehemu ya kujifunza. Hiyo ni ramani ya matumizi na uzoefu ulioripotiwa badala ya makadirio yaliyojumuishwa, na mkusanyiko umejikita kijiografia, huku China, Iran, Taiwan na Türkiye zikichukua tafiti 19 kati ya 24 na zote isipokuwa moja zikiwa ndani ya taasisi rasmi. Msaada wa kutumia maelezo ya lugha tofauti kama hatua ya kujifunza si msaada wa kutafsiri kila kazi.
 
 Tathmini ndipo ushahidi unapokuwa mkali zaidi na uzito wa maamuzi unapopanda. [[ai-scoring-language-bias-physics|Feser na Tschisgale (2026)]] walilinganisha mbinu kumi na moja za upaaji wa alama wa kiotomatiki na alama za wataalam wa binadamu kwa maelezo ya fizikia ya wanafunzi 116 wa shule ya sekondari na wakapata upunguzaji wa kimfumo wa ufahamu wa dhana kwa maelezo yenye lugha hafifu, katika kila mbinu moja baada ya nyingine. Muundo unatenga utaratibu: maudhui yale yale ya dhana, yaliyoelezwa kwa maandishi hafifu, yalipata alama chini. Hili si dai kuhusu wanafunzi wa lugha nyingi wa nchi fulani, na ndio mtindo hasa unaofanya makubaliano ya jumla ya upaaji wa alama kuwa kigunduzi kibovu. Mkadiriaji anaweza kukubaliana na wakadiriaji wa binadamu kwa wastani huku akikosea kwa mwelekeo mmoja kwa wanafunzi ambao lugha yao bado inakua.
 
@@ -116,7 +116,7 @@ Toa njia mbadala zinazoweza kufanya kazi. Wanafunzi wanahitaji njia wazi ya msaa
 
 **4.** Ongeza ukaguzi mmoja unaorekodi maana au uamuzi wa mwanafunzi mwenyewe, kama dokezo la sentensi mbili kuhusu badiliko alilokubali au kukataa.
 
-**5.** Kama rubriki yako inapa alama ubora wa maandishi, tenganisha kigezo hicho na kile cha dhana na usome upya mawasilisho mawili ya kila aina ukiwa na mgawanyo huo akilini.
+**5.** Kama rubriki yako inapa alama [[writing-education|ubora wa maandishi]], tenganisha kigezo hicho na kile cha dhana na usome upya mawasilisho mawili ya kila aina ukiwa na mgawanyo huo akilini.
 
 ## Wapi kwenda baadaye
 

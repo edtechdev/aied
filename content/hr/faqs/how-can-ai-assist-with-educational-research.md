@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Kratak odgovor za taj sastanak: umjetna inteligencija može preuzeti pretraživa
 
 ## Odlučite čega se umjetna inteligencija smije dotaknuti prije početka projekta
 
-Odluka o opsegu pripada u datoteku projekta, a ne u nečije sjećanje. U [[dai-chan-responsible-genai-research-ai-literacy-2026|studiji fokusnih grupa Dai i Chana (2026)]], istraživači koji su o tome razmišljali kalibrirali su upotrebu prema ulogu i intelektualnoj središnjosti: više na procedurnim zadacima s niskim ulogom, oprezno tamo gdje je znanstveni doprinos bio u središtu. Dvadeset i sedam od 28 istraživača na poslijediplomskom studiju u toj studiji koristilo je generativnu umjetnu inteligenciju negdje u tijeku rada, uključujući akademsko pisanje i prevođenje, pa je za većinu timova pitanje gdje je granica, a ne postoji li ona.
+Odluka o opsegu pripada u datoteku projekta, a ne u nečije sjećanje. U [[dai-chan-responsible-genai-research-ai-literacy-2026|studiji fokusnih grupa Dai i Chana (2026)]], istraživači koji su o tome razmišljali kalibrirali su upotrebu prema ulogu i intelektualnoj središnjosti: više na procedurnim zadacima s niskim ulogom, oprezno tamo gdje je znanstveni doprinos bio u središtu. Dvadeset i sedam od 28 istraživača na poslijediplomskom studiju u toj studiji koristilo je [[generative-ai|generativnu umjetnu inteligenciju]] negdje u tijeku rada, uključujući [[writing-education|akademsko pisanje]] i prevođenje, pa je za većinu timova pitanje gdje je granica, a ne postoji li ona.
 
 Zapišite granicu kao popis s presudom za svaki zadatak: pretraživanje literature, probir sažetaka, ekstrakcija, kvalitativno kodiranje, statistička analiza, pisanje nacrta, oblikovanje referenci. Tu studiju čitajte kao kartu onoga što su istraživači izvijestili da rade. To je izvještaj fokusne grupe, a ne rezultat o učinkovitosti.
 
@@ -64,27 +64,30 @@ Većina koristi dolazi iz dvije dizajnerske odluke. Napišite pravila odlučivan
 
 Delegiranje može biti finije od sve-ili-ništa. [[agreement-not-quality-llm-coding-verification|Jedna studija slijepe provjere]] klasificirala je 15 od 72 stavke šifrarnika kao dokazivo zahtjevne za ljudsku ekspertizu, 12 kao bolje pokrivene modelom i 16 kao prikladne za trijažu utemeljenu na pouzdanosti. Razvrstajte vlastite stavke na taj način i ušteda rada pada tamo gdje je sigurna.
 
+Modeliranje tema može proširiti tu strukturu, a da ne preuzme interpretaciju. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey i Flor (2026)]] spojili su utemeljeno kodiranje, SentenceBERT ugrađivanja klasterirana algoritmom Affinity Propagation i označavanje GPT-4 na šest fokusnih grupa s 13 nastavnika. Ljudski pregled odbacio je 18 komunikacijskih klastera i 16 klastera digitalne pismenosti koji su bili razgovorni sadržaj bez značenja, ostavljajući 14 i 16 smislenih klastera; ChatGPT-4o i Copilot složili su se oko 33,3% i 43,8% oznaka, uz kosinusnu sličnost 0,835–0,880, a ljudski pregled nije našao jasne halucinacije. Studija je razrađen tijek rada, a ne usporedba: nema ogranak samo s ljudima ni samo s umjetnom inteligencijom, a 13 nastavnika ne može uspostaviti generalizaciju. Rabite je da vidite podjelu rada, a ne kao dokaz da hibridni pristup nadmašuje alternative.
+
+
 ## Odlučite što provjera znači i tko je potpisuje
 
-Visoko slaganje između modela i ljudskog kodera izvještava se kao da utvrđuje ispravnost. Ne utvrđuje je. [[agreement-not-quality-llm-coding-verification|Liu i suradnici (2026)]] dali su neovisnom ekspertu da slijepo procijeni 855 parnih skupova kodova, bez podatka o izvoru. Slaganje čovjeka i LLM-a (prosječni Jaccard 0,30) bilo je znatno niže od slaganja čovjeka s čovjekom (0,52), a ipak je slijepi procjenjivač preferirao ljudsko i strojno kodiranje po stopama koje nije mogao razlikovati (51,5% nasuprot 48,5%, p = 0,537). U nekim slučajevima ljudski konsenzus kodirao je zajedničku pristranost koju je procjenjivač odbacio u korist modela.
+Visoko slaganje između modela i ljudskog kodera izvještava se kao da utvrđuje ispravnost. Ne utvrđuje je. [[agreement-not-quality-llm-coding-verification|Liu i suradnici (2026)]] dali su neovisnom ekspertu da slijepo procijeni 855 parnih skupova kodova, bez podatka o izvoru. Slaganje čovjeka i [[llm|LLM-a]] (prosječni Jaccard 0,30) bilo je znatno niže od slaganja čovjeka s čovjekom (0,52), a ipak je slijepi procjenjivač preferirao ljudsko i strojno kodiranje po stopama koje nije mogao razlikovati (51,5% nasuprot 48,5%, p = 0,537). U nekim slučajevima ljudski konsenzus kodirao je zajedničku pristranost koju je procjenjivač odbacio u korist modela.
 
 Dakle, korak provjere treba zlatni standard koji nije ni rezultat modela ni slaganje kodera s njim, plus imenovanu osobu koja je riješila nesuglasice. Izvijestite o obojemu. Statistika sličnosti opisuje koliko se dva čitanja podudaraju i ne govori ništa o tome je li neko od njih ispravno.
 
 ## Pretražujte brzo, a zatim sami provjerite svaki izvor
 
-Generativno pretraživanje sažima, preporučuje, sintetizira i razgovara, što uzdrma stariji raspored u kojem sustav pronalazi, a čitatelj interpretira ([[genai-academic-search-workshop|radionica o generativnom akademskom pretraživanju]]). Tretirajte ga kao alat za otkrivanje. Izvještaj s radionice nosi dva upozorenja: sposobnost je neravnomjerna, pri čemu se visoko citirani znanstvenici rekonstruiraju otprilike dvostruko češće od manje citiranih kolega, a knjižničar je opisao jaz povjerenja u kojem studenti previše vjeruju generativnom pretraživanju, dok ga nastavnici odbacuju.
+Generativno pretraživanje sažima, preporučuje, sintetizira i razgovara, što uzdrma stariji raspored u kojem sustav pronalazi, a čitatelj interpretira ([[genai-academic-search-workshop|radionica o generativnom akademskom pretraživanju]]). Tretirajte ga kao alat za otkrivanje. Izvještaj s radionice nosi dva upozorenja: sposobnost je neravnomjerna, pri čemu se visoko citirani znanstvenici rekonstruiraju otprilike dvostruko češće od manje citiranih kolega, a [[librarians|knjižničar]] je opisao jaz povjerenja u kojem studenti previše vjeruju generativnom pretraživanju, dok ga nastavnici odbacuju.
 
 Provjera referenci mjesto je na kojem to postaje nepodložno pregovoru, a propusti se gomilaju u polju autora, onome koje nosi zaslugu. [[citation-errors-hallucinations-computing-education-2026|Denny i suradnici (2026)]] pregledali su 723.930 publikacija i 15.872.533 referenci i potvrdili 30 izmišljenih referenci u 14 radova iz računalnog obrazovanja, sve iz 2025. i 2026. Sedamnaest od tih 30 bili su hibridi: stvarni naslov priložen izmišljenim ili netočnim autorima. Potvrđeni broj na jednom tehničkom simpoziju porastao je s 3 u 2025. na 17 u 2026., u 2,3% radova te godine. Njihov ukupni broj namjerno je donja granica, a automatizirani provjerivači nasljeđuju mane metapodataka koje tretiraju kao istinu. Provjerite autore prve.
 
 ## Tretirajte automatizirani rezultat kao hipotezu koju treba testirati
 
-Automatizirane mjerne funkcije mogu izgledati precizno i prediktivno, a ostati neprozirne. [[ai-methodologies-science-education-research-2026|Martin i suradnici]] to uokviruju Changovim problemom nomičkog mjerenja: mjerenje neke veličine zahtijeva zakon koji je povezuje s nečim promatrljivim, a taj se zakon ne može testirati bez prethodnog poznavanja te veličine. Mjerne funkcije izvedene iz umjetne inteligencije proizlaze iz podataka za obuku i optimizacije, a ne iz istraživača, pa je rad na objašnjivosti važan da bi se pokazalo prati li model semantičko razumijevanje ili samo ključne riječi.
+Automatizirane mjerne funkcije mogu izgledati precizno i prediktivno, a ostati neprozirne. [[ai-methodologies-science-education-research-2026|Martin i suradnici]] to uokviruju Changovim problemom nomičkog mjerenja: mjerenje neke veličine zahtijeva zakon koji je povezuje s nečim promatrljivim, a taj se zakon ne može testirati bez prethodnog poznavanja te veličine. Mjerne funkcije izvedene iz umjetne inteligencije proizlaze iz podataka za obuku i optimizacije, a ne iz istraživača, pa je rad na [[explainable-ai|objašnjivosti]] važan da bi se pokazalo prati li model semantičko razumijevanje ili samo ključne riječi.
 
 Propust je konkretan. U [[zhang-platform-scores-miss-ai-teaching-agents-2026|evaluaciji osam AI nastavnih agenata]], agent koji je bio treći po vlastitom rezultatu platforme bio je posljednji prema rubriku validiranoj od stručnjaka. Neslaganje čovjeka i stroja sustavno je, a ne slučajno, a operacionalizacija rubrike često je važnija od umješnosti u pisanju upita ([[machines-misread-pedagogical-quality|Tseng i suradnici, 2026]]). Prije nego što automatizirani rezultat postane vaš instrument, validirajte ga prema mjeri vezanoj na sposobnost koju namjeravate proučavati. Za same mjere vidi [[evaluating-ai-interventions-methods|evaluaciju metoda za intervencije s umjetnom inteligencijom]].
 
 ## Napišite odjeljak o metodi tako da ga vanjski čitatelj može revidirati
 
-Prihvaćanje je odmaklo ispred izvještavanja. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta i Lin (2026)]] analizirali su 888 radova o automatizaciji pregleda: od 2023., 38,0% radova o softveru i proizvodima nije izvijestilo o nikakvoj evaluaciji, nasuprot 9,3% LLM radova, a pristup modelu bio je pretežno vlasnički (84,1%). Ni povoljna ukupna ocjena nije značila prikladnost za delegiranje, jer je 52% od 118 LLM radova sa samo pozitivnim nalazima ipak izvijestilo o zabrinutosti da tijek rada pada ispod razine koju njegova uloga zahtijeva. Njihov okvir PRISMA-LLM odvaja objavu implementacije od evaluacije osjetljive na posljedice i tretira svojih pet razina kao razine objave, a ne kao razine rizika.
+Prihvaćanje je odmaklo ispred izvještavanja. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta i Lin (2026)]] analizirali su 888 radova o automatizaciji pregleda: od 2023., 38,0% radova o softveru i proizvodima nije izvijestilo o nikakvoj evaluaciji, nasuprot 9,3% LLM radova, a pristup modelu bio je pretežno vlasnički (84,1%). Ni povoljna ukupna ocjena nije značila prikladnost za delegiranje, jer je 52% od 118 LLM radova sa samo pozitivnim nalazima ipak izvijestilo o zabrinutosti da tijek rada pada ispod razine koju njegova uloga zahtijeva. Njihov okvir [[meta-analysis-systematic-review|PRISMA]]-LLM odvaja objavu implementacije od evaluacije osjetljive na posljedice i tretira svojih pet razina kao razine objave, a ne kao razine rizika.
 
 Praktična verzija: navedite sustav i njegovu verziju, upite, verziju korpusa, što je čovjek provjerio i gdje je zakazao. Čuvajte dnevnike upita i odgovora, jer tečan generirani popis tema izgleda neizbježno mnogo prije nego što je njegov dokazni rad i počeo ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Unaprijed odredite kriterije i držite ih vidljivima. Mala lokalna studija ne mo
 
 Izvijestite o ulozi umjetne inteligencije, o provedenoj provjeri i o ograničenjima dizajna s jednim kolegijem i jednim istraživačem. Prikaz tijeka rada nije rezultat o djelotvornosti.
 
-Simuliranje kohorte tretirajte kao naprednu opciju, a ne kao zadanu. Simulirani učenici obično pokrivaju najlakši kvadrant stvarnog studentskog ponašanja i rijetko se validiraju nakon upotrebe ([[simulating-students|simuliranje studenata]]). Pročitajte [[making-simulated-students-behave-like-learners|kako simulirane studente učiniti da se ponašaju kao učenici]] prije nego što povjerujete presudi simulatora.
+Simuliranje kohorte tretirajte kao naprednu opciju, a ne kao zadanu. Simulirani učenici obično pokrivaju najlakši kvadrant stvarnog studentskog ponašanja i rijetko se validiraju nakon upotrebe ([[simulating-students|simuliranje studenata]]). Pročitajte [[making-simulated-students-behave-like-learners|kako simulirane studente učiniti da se ponašaju kao učenici]] prije nego što povjerujete presudi [[simulation|simulatora]].
 
 ## Što istraživači ovdje pogrešno shvaćaju
 

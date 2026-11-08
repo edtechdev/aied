@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, openmaic]
+connected_resources: [deeptutor, openmaic, learnharness]
 title: חונך אינטליגנטי
 created: "2026-10-12T19:02:00-04:00"
 updated: "2026-10-30T19:00:00-04:00"

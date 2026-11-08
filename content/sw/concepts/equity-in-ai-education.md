@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -100,7 +100,7 @@ Katika mapitio ya mawanda ya masomo 394 ya GenAI katika elimu ya juu, usawa na u
 
 ## Idadi ya watu mahususi na usawa wa ulimwengu
 
-- **Idadi ya watu mahususi:** [[special-education]], [[neurodivergent-computing-students|wanafunzi wenye tofauti za neva]], [[dyslexlens-dyslexic-learners-ai|wanafunzi wenye dyslexia]], na [[special-education|wanafunzi wenye ulemavu]] wanawakilisha makundi ambao mahitaji yake mara nyingi hupuuzwa katika ubunifu wa mifumo ya AI.
+- **Idadi ya watu mahususi:** [[special-education]], [[neurodivergent-computing-students|wanafunzi wenye tofauti za neva]], [[dyslexlens-dyslexic-learners-ai|wanafunzi wenye dyslexia]], na [[inclusive-learning|wanafunzi wenye ulemavu]] wanawakilisha makundi ambao mahitaji yake mara nyingi hupuuzwa katika ubunifu wa mifumo ya AI.
 - Mapitio ya PRISMA ya masomo 72 ya tathmini katika elimu ya juu yaligundua kuwa msingi wa ushahidi umejikita kijiografia: Australia na Uingereza zilitoa masomo 31 kati ya 72 kwa pamoja, na hakuna somo lililotambuliwa kutoka Amerika Kusini ([[higher-ed-assessments-genai-systematic-review|Crompton na Burke (2026)]]).
 - **Mitazamo ya Kusini ya Kimataifa:** [[suacode-african-students-motivations|Motisha za wanafunzi Waafrika]], [[connected-ai-lesson-planning-vietnam|upangaji wa masomo wa AI wa Kivietinamu]], na [[pre-service-science-teachers-ai-perceptions-2026|ukubali wa walimu Waghanani]] wanatoa mitazamo ya Kusini ya Kimataifa ambayo mara nyingi hayupo katika utafiti wa AIED unaoelekea Magharibi. Katika kiwango cha taasisi, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye na wenzake (2026)]] wanaonyesha kuwa ujumuishaji wa AI katika vyuo 45 vya Nigeria unaendeshwa na umri na jiografia ya taasisi badala ya aina ya utawala, na viungo vya mtandao vinavyojirudia vikiruhusu taasisi zenye viungo vizuri kuongeza faida — ushahidi kuwa mapengo ya usawa yanarudiwa kwa muundo, si tu kupitia upatikanaji wa mtu binafsi.
 - **Uwezo wa ulimwengu:** Ushahidi unaonyesha jinsi manufaa ya AI ya kizazi yanavyosambaa bila usawa kati ya nchi na taasisi, na [[ai-lifelong-learning-policy|sera ya AI na kujifunza maisha yote]] inashughulikia mwelekeo wa kiuchumi wa muundo.

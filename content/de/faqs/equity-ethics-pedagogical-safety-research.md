@@ -51,7 +51,7 @@ Zwei Designimplikationen folgen daraus. Zielen Sie auf neuere Institutionen und 
 
 ## Holen Sie behinderte Lernende in den Designraum
 
-Beziehen Sie [[special-education|Lernende mit Behinderungen]] in Design und Evaluation ein, testen Sie tatsächliche Oberflächen gegen Barrierefreiheitsanforderungen und bieten Sie gleichwertige Wege, teilzunehmen und Gelerntes zu zeigen. Technische Konformität und [[inclusive-learning|inklusive Lehre]] sind getrennte Prüfungen, und [[accessibility|Barrierefreiheit]] deckt beide ab.
+Beziehen Sie [[inclusive-learning|Lernende mit Behinderungen]] in Design und Evaluation ein, testen Sie tatsächliche Oberflächen gegen Barrierefreiheitsanforderungen und bieten Sie gleichwertige Wege, teilzunehmen und Gelerntes zu zeigen. Technische Konformität und [[inclusive-learning|inklusive Lehre]] sind getrennte Prüfungen, und [[accessibility|Barrierefreiheit]] deckt beide ab.
 
 Eine [[ko-hughes-vsd-student-centered-its-2026|werteorientierte Designstudie]] mit Community-College-Studierenden, Lehrkräften und Entwickelnden zeigt die Arbeit in der Praxis. Sie erzeugte 16 wertausgerichtete Merkmale über [[explainable-ai|Erklärbarkeit]] (E1-E5), [[human-in-the-loop-ai|Human-in-the-Loop]]-Kontrolle (H1-H9) und [[privacy|Datenschutz]] (P1-P4) und brachte Spannungen ans Licht statt ordentlicher Antworten: Transparenz gegen Interpretierbarkeit, Datenschutz gegen didaktische Einsicht, [[agency|Handlungsfähigkeit]] der Lernenden gegen systemgeführte [[scaffolding|Scaffolds]]. Rechnen Sie damit, diese abwägen zu müssen, und halten Sie fest, wie Sie entschieden haben.
 

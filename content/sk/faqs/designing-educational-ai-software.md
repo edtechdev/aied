@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Odpoveď je užšia, než predpokladá väčšina špecifikácií produktu. Vzde
 
 **1.** Zapíšte, o čom rozhoduje systém a o čom rozhoduje učiteľ. Táto hranica sa stane architektúrou.
 
-**2.** Hodnoťte interakciu v mnohých kolách a s vedomím odboru na reálnom kurikule, nie jednotlivé prompty voči všeobecnej bezpečnostnej rubrike.
+**2.** Hodnoťte interakciu v mnohých kolách a s vedomím odboru na reálnom [[curriculum-design|kurikule]], nie jednotlivé prompty voči všeobecnej bezpečnostnej rubrike.
 
 **3.** Ukotvite odpovede v schválenom obsahu a overovací komponent držte oddelene od konverzačného.
 
@@ -65,7 +65,7 @@ Prenosnou časťou je oddelenie: komponenty, ktoré overujú, nekonverzujú, a b
 
 ## Berte študentskú prácu ako nedôveryhodný vstup
 
-Model hrozieb, ktorý väčšina dizajnových rád vynecháva, sedí vnútri posudzovaného artefaktu. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleho (2026) adversariálne red-teamové hodnotenie]] testovalo, či študenti dokážu manipulovať s hodnotiacim LLM pomocou prompt injection vo svojich odovzdaniach, a manipulácia fungovala: vstreknutia, ktoré hodnotiacemu prikazujú, prerámcujú ho alebo ho nútia hrať rolu, posunú skóre bez zmeny práce.
+Model hrozieb, ktorý väčšina dizajnových rád vynecháva, sedí vnútri posudzovaného artefaktu. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleho (2026) adversariálne red-teamové hodnotenie]] testovalo, či študenti dokážu manipulovať s hodnotiacim [[llm|LLM]] pomocou prompt injection vo svojich odovzdaniach, a manipulácia fungovala: vstreknutia, ktoré hodnotiacemu prikazujú, prerámcujú ho alebo ho nútia hrať rolu, posunú skóre bez zmeny práce.
 
 Držte rubriku a pokyny mimo kontextového okna, ktoré študent ovláda, odstraňujte alebo označujte obsah podobný pokynom, nikdy nedovoľte, aby si odovzdanie určilo vlastné kritériá, a pri každej dôsledkovej známke zachovajte ľudské rozhodnutie. Hodnotiaci, ktorý číta svoje pokyny z textu, ktorý posudzuje, odovzdal rubriku kandidátovi.
 
@@ -96,6 +96,8 @@ Väčší model pedagogiku opraví. Škála spoľahlivo nezlepšila bezpečnosť
 Dobrý index vyhľadávania znamená, že obsah je vybavený. EduGuard spája vyhľadávanie s oddeleným overovateľom a testuje adversariálne prompty žiadajúce priamu odpoveď, pretože ukotvené vyhľadávanie stále necháva cestu k prezradeniu odpovede.
 
 Učiteľ je záložné riešenie. Všetkých šesť učiteľov v dizajnovej štúdii žiadalo zaznamenávanie, upozornenia a prepísanie ako podmienku profesijnej zodpovednosti. Podporný tiket nie je prepísanie.
+
+Pôžitok je náhradou za súlad s úlohou. V prieskume 405 študentov magisterského štúdia dizajnu ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]) niesol súlad úlohy a technológie vlastnú cestu k postoju (β = 0,224) popri [[technology-acceptance-model|vnímanej užitočnosti]] a charakteristiky úlohy hýbali súladom viac než charakteristiky nástroja (β = 0,322 oproti 0,266). Vnímaný pôžitok zvýšil ľahkosť používania a neurobil nič pre užitočnosť (β = −0,033, p = 0,483). Pôžitok sa oplatí budovať, ale nenahrádza zladenie funkcií s krokmi zadania.
 
 Prístupnosť je neskorší tiket. Buď sedí v špecifikácii, alebo sa stane prepisom, a vygenerované alternatívne texty a titulky stále potrebujú ľudskú kontrolu.
 

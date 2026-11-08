@@ -1,7 +1,7 @@
 ---
 title: "Ce înseamnă de fapt învățarea personalizată și când ajută?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 Platforma promite o experiență personalizată pentru fiecare student. Poate reordona întrebările de practică, poate rescrie o explicație în jurul interesului unui student pentru fotbal, poate ține minte conversația de săptămâna trecută sau poate alege ce studiază studentul în continuare. Toate patru se numesc personalizare și doar una dintre ele a fost testată într-o formă cât de cât asemănătoare.
 
-Răspunsul scurt pe care să îl dai unui coleg: personalizarea numește o schimbare a unei părți a experienței de învățare, iar valoarea ei depinde de trei lucruri: ce este adaptat, ce dovezi declanșează adaptarea și dacă schimbarea îmbunătățește învățarea pe care o intenționezi. Un exemplu familiar sau o conversație receptivă pot părea personale fără să predea nimic. O adaptare eficace poate fi invizibilă. Cel mai clar rezultat experimental din această bază de cunoștințe este îngust: într-un curs de certificare Python de cinci luni în zece licee din Taipei, studenții randomizați la secvențiere adaptivă a problemelor au obținut cu aproximativ 0,150 deviații standard mai mult la un examen final susținut față în față, fără asistență, decât studenții cu o secvență fixă și cu acces identic la chatbot ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Asta susține secvențierea în condiții specificate. Nu validează tot ce se vinde ca personalizat.
+Răspunsul scurt pe care să îl dai unui coleg: personalizarea numește o schimbare a unei părți a experienței de învățare, iar valoarea ei depinde de trei lucruri: ce este adaptat, ce dovezi declanșează adaptarea și dacă schimbarea îmbunătățește învățarea pe care o intenționezi. Un exemplu familiar sau o conversație receptivă pot părea personale fără să predea nimic. O adaptare eficace poate fi invizibilă. Cel mai clar rezultat experimental din această bază de cunoștințe este îngust: într-un curs de certificare Python de cinci luni în zece licee din Taipei, studenții randomizați la secvențiere adaptivă a problemelor au obținut cu aproximativ 0,150 deviații standard mai mult la un [[summative-assessment|examen final]] susținut față în față, fără asistență, decât studenții cu o secvență fixă și cu acces identic la [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Asta susține secvențierea în condiții specificate. Nu validează tot ce se vinde ca personalizat.
 
 ## Pe scurt
 
 **1.** Numește ce parte este adaptată: prezentarea, contextul de interes, dificultatea și sprijinul, secvența și ritmul sau obiectivele și alegerea.
 
-**2.** Întreabă ce dovezi declanșează adaptarea și cum se corectează un model greșit al studentului.
+**2.** Întreabă ce dovezi declanșează adaptarea și cum se corectează un [[student-modeling|model greșit al studentului]].
 
 **3.** Verifică dacă adaptarea păstrează destinația sau o coboară în liniște.
 
@@ -60,11 +60,11 @@ Adaptările de obiective și alegere le permit studenților să aleagă un proie
 
 ## Ce arată dovezile
 
-**O adaptare specifică a îmbunătățit performanța fără ajutor.** Chung et al. au construit o platformă care cuplează un chatbot cu bariere pentru Python cu un algoritm de învățare prin întărire care selectează următoarea problemă de practică și au implementat-o în zece licee, într-un curs de certificare de cinci luni. Studenții au fost randomizați între secvențiere adaptivă și o secvență fixă, ambele grupuri având același acces la chatbot, ceea ce este designul care permite secvențierii să revendice diferența. Avantajul de 0,150 deviații standard a apărut la un examen final susținut față în față, fără asistență. Două lucruri merită reținute: comparația izolează secvențierea de acces, iar rezultatul este performanța fără ajutor, nu implicarea. Ce nu arată studiul este că explicațiile personalizate, materialele rescrise sau preferințele reținute ajută. Acelea nu au fost intervenția.
+**O adaptare specifică a îmbunătățit performanța fără ajutor.** Chung et al. au construit o platformă care cuplează un chatbot cu bariere pentru Python cu un algoritm de [[reinforcement-learning|învățare prin întărire]] care selectează următoarea problemă de practică și au implementat-o în zece licee, într-un curs de certificare de cinci luni. Studenții au fost randomizați între secvențiere adaptivă și o secvență fixă, ambele grupuri având același acces la chatbot, ceea ce este designul care permite secvențierii să revendice diferența. Avantajul de 0,150 deviații standard a apărut la un examen final susținut față în față, fără asistență. Două lucruri merită reținute: comparația izolează secvențierea de acces, iar rezultatul este performanța fără ajutor, nu implicarea. Ce nu arată studiul este că explicațiile personalizate, materialele rescrise sau preferințele reținute ajută. Acelea nu au fost intervenția.
 
-**Personalizarea percepută poate merge împreună cu autoreglare mai slabă.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin și Qiu (2026)]] au urmărit 486 de studenți chinezi de licență pe trei valuri de sondaj și au găsit că studenții care percepeau mediul adaptiv ca mai personalizat raportau [[self-regulated-learning|învățare autoreglată]] mai slabă. Emoțiile academice purtau o bună parte a asocierii, cu plăcere redusă alături de anxietate și plictiseală crescute, explicând mai mult de jumătate din efectul total. Designul este observațional și bazat pe autoevaluare, deci nu poate stabili că personalizarea a cauzat declinul. Identifică însă rezultatul pe care o pilotare trebuie să îl monitorizeze, pentru că un sistem care răspunde repede la orice incertitudine poate elimina planificarea și judecata pe care cursul ar trebui să le construiască.
+**Personalizarea percepută poate merge împreună cu autoreglare mai slabă.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin și Qiu (2026)]] au urmărit 486 de studenți chinezi de licență pe trei valuri de sondaj și au găsit că studenții care percepeau mediul adaptiv ca mai personalizat raportau [[self-regulated-learning|învățare autoreglată]] mai slabă. Emoțiile academice purtau o bună parte a asocierii, cu plăcere redusă alături de [[anxiety-and-stress|anxietate]] și plictiseală crescute, explicând mai mult de jumătate din efectul total. Designul este observațional și bazat pe [[self-report-measures|autoevaluare]], deci nu poate stabili că personalizarea a cauzat declinul. Identifică însă rezultatul pe care o pilotare trebuie să îl monitorizeze, pentru că un sistem care răspunde repede la orice incertitudine poate elimina planificarea și judecata pe care cursul ar trebui să le construiască.
 
-**Interesul și înțelegerea sunt verificări separate.** Sinteza despre [[personalized-learning]] discută *Flawed but Memorable* a lui Bernstein și Sibia, un mic preprint calitativ despre analogii de informatică personalizate pe interese. Reacțiile studenților au variat, iar familiaritatea cu domeniul-sursă al analogiei i-a ajutat să detecteze unde analogia se rupea. Lectura practică este să întrebi ce știu deja învățăceii, precum și ce le place, și să tratezi memorabilitatea raportată ca pe o măsură a experienței, nu ca pe un rezultat al învățării.
+**Interesul și înțelegerea sunt verificări separate.** Sinteza despre [[personalized-learning]] discută *Flawed but Memorable* a lui Bernstein și Sibia, un mic preprint [[qualitative-research|calitativ]] despre analogii de informatică personalizate pe interese. Reacțiile studenților au variat, iar familiaritatea cu domeniul-sursă al analogiei i-a ajutat să detecteze unde analogia se rupea. Lectura practică este să întrebi ce știu deja învățăceii, precum și ce le place, și să tratezi memorabilitatea raportată ca pe o măsură a experienței, nu ca pe un rezultat al învățării.
 
 ## Verifică diagnosticul înainte de a te încrede în adaptare
 
@@ -86,7 +86,7 @@ Colectează informații proporționate. Un exemplu bazat pe interese rareori are
 
 ## Cum arată asta într-un curs
 
-Într-un curs introductiv de matematică, un scurt diagnostic poate separa o concepție greșită prealabilă de o greșeală aritmetică. Studentul cu concepția greșită primește o explicație țintită și un exemplu rezolvat. Celălalt trece la aplicare. Amândoi completează apoi o sarcină independentă comparabilă, incluzând o aplicare într-un context schimbat.
+Într-un curs introductiv de matematică, un scurt diagnostic poate separa o [[misconceptions|concepție greșită]] prealabilă de o greșeală aritmetică. Studentul cu concepția greșită primește o explicație țintită și un exemplu rezolvat. Celălalt trece la aplicare. Amândoi completează apoi o sarcină independentă comparabilă, incluzând o aplicare într-un context schimbat.
 
 Studenții pot alege între contexte de aplicare familiare, în timp ce obiectivul matematic rămâne fix și vizibil. Instructorul verifică dacă vreuna dintre rute a îmbunătățit înțelegerea, dacă studenții își pot explica raționamentul și dacă cineva a rămas blocat în remediere. Trateaz-o ca pe un design de pilotat; nicio platformă nu a fost validată în această configurație.
 
@@ -96,7 +96,7 @@ Studenții pot alege între contexte de aplicare familiare, în timp ce obiectiv
 
 Compară versiunea personalizată cu ceva credibil: o secvență comună bine proiectată, același tutor fără secvențiere adaptivă sau un meniu curatoriat de exemple. Dacă brațul tău personalizat adaugă și mai multă practică, mai mult feedback și mai mult timp, comparația nu poate izola personalizarea, iar raportul onest va spune asta.
 
-Măsoară performanța fără ajutor, retenția sau transferul acolo unde poți, timpul și efortul, agentivitatea învățăcelului și cine beneficiază. Ține satisfacția și potrivirea percepută ca rezultate suplimentare, nu ca titlu principal. Decide dinainte ce îmbunătățire ar justifica costurile de dezvoltare, monitorizare și manipulare a datelor, pentru că acele costuri se plătesc indiferent dacă efectul apare.
+Măsoară performanța fără ajutor, retenția sau transferul acolo unde poți, timpul și efortul, [[agency|agentivitatea învățăcelului]] și cine beneficiază. Ține satisfacția și potrivirea percepută ca rezultate suplimentare, nu ca titlu principal. Decide dinainte ce îmbunătățire ar justifica costurile de dezvoltare, monitorizare și manipulare a datelor, pentru că acele costuri se plătesc indiferent dacă efectul apare.
 
 ## Ce se va întoarce împotriva ta
 

@@ -1,9 +1,9 @@
 ---
 title: "Kan ik AI gebruiken om het werk van studenten eerlijk en betrouwbaar te beoordelen?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 U hebt een rubric waar u in gelooft, meer inleveringen dan uren, en een hulpmiddel dat een score plus een paar zelfverzekerde alinea's teruggeeft in de tijd die het kost om één essay te lezen. U probeert het op werk dat u al hebt beoordeeld. De helft van de scores lijkt te kloppen. Eén is vreemd ruim, één vreemd streng, en u kunt nog niet zeggen of dat aan het hulpmiddel ligt of aan het essay.
 
-Kort antwoord voor een collega: AI-beoordeling verdient een plaats als gecontroleerde assistent of als tweede lezer, bij taken waarop u ze hebt gecontroleerd tegen werk dat u al hebt nagekeken. Overeenstemming draagt niet over van het ene beoordelingstype naar het andere. In een farmacie-examen met zestien studenten vonden [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] bijna perfecte overeenstemming bij objectieve itemtypes en onbetrouwbare overeenstemming bij open vragen. In drie Engelse universiteiten vond [[opraise-automated-marking-ai-assessment-2026|het OpRaise-project]] dat AI en menselijke beoordelaars het tussen 35% en 65% van de tijd eens waren over de graadband, afhankelijk van de instelling, met cijfers die naar het midden werden samengedrukt. Een vloeiende rechtvaardiging is geen bewijs dat uw criteria zijn toegepast. Of het resultaat [[assessment-validity|geldig is voor uw beslissing]] is een lokale vraag die u zelf moet beantwoorden, en [[human-in-the-loop-ai|een mens blijft verantwoordelijk]] voor alles wat een geregistreerd cijfer wordt.
+Hier is het korte antwoord: AI-beoordeling verdient een plaats als gecontroleerde assistent of als tweede lezer, bij taken waarop u ze hebt gecontroleerd tegen werk dat u al hebt nagekeken. Overeenstemming draagt niet over van het ene beoordelingstype naar het andere. In een farmacie-examen met zestien studenten vonden [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] bijna perfecte overeenstemming bij objectieve itemtypes en onbetrouwbare overeenstemming bij open vragen. In drie Engelse universiteiten vond [[opraise-automated-marking-ai-assessment-2026|het OpRaise-project]] dat AI en menselijke beoordelaars het tussen 35% en 65% van de tijd eens waren over de graadband, afhankelijk van de instelling, met cijfers die naar het midden werden samengedrukt. Een vloeiende rechtvaardiging is geen bewijs dat uw criteria zijn toegepast. Of het resultaat [[assessment-validity|geldig is voor uw beslissing]] is een lokale vraag die u zelf moet beantwoorden, en [[human-in-the-loop-ai|een mens blijft verantwoordelijk]] voor alles wat een geregistreerd cijfer wordt.
 
 ## De korte versie
 
@@ -48,7 +48,7 @@ Drie regelingen worden „AI-beoordeling” genoemd en ze brengen verschillende 
 
 Een **feedbackassistent** schrijft conceptcommentaar of markeert mogelijke omissies die u kunt accepteren, herschrijven of weggooien. Het risico blijft beperkt tot de kwaliteit van het commentaar, en u leest alles voordat het een student bereikt. Een **tweede lezer** stelt criteriumscores voor of markeert meningsverschillen om uw eigen beoordeling te structureren. De fouten moeten nuttig zijn, niet louter fout: een markering die u terugstuurt naar een inlevering die u achteloos zou hebben nagekeken, is de moeite waard. Een **primaire beoordelaar** produceert scores die geregistreerde cijfers worden. Dat is de regeling die het bewijs in deze kennisbank niet ondersteunt, behalve in smalle, lokaal gevalideerde gevallen.
 
-Kies de laagste trede die uw werkelijke beperking aanpakt. Als uw beoordelingslast voortkomt uit het controleren van een vaste antwoordsleutel, is gewone deterministische scoring transparanter en beter controleerbaar dan een taalmodel, en de farmaciestudie suggereert dat het voordeel van het LLM bij objectieve items deels een artefact was van het tijdens de beoordeling krijgen van de juiste antwoorden. Bewaar het model voor werk dat interpretatie vraagt, en controleer die interpretatie dan.
+Kies de laagste trede die uw werkelijke beperking aanpakt. Als uw beoordelingslast voortkomt uit het controleren van een vaste antwoordsleutel, is gewone deterministische scoring transparanter en beter controleerbaar dan een [[llm|taalmodel]], en de farmaciestudie suggereert dat het voordeel van het LLM bij objectieve items deels een artefact was van het tijdens de beoordeling krijgen van de juiste antwoorden. Bewaar het model voor werk dat interpretatie vraagt, en controleer die interpretatie dan.
 
 [[automated-assessment|Geautomatiseerde beoordeling]] omvat de bredere machinerie van scoring, moderatie en feedbackgeneratie. Deze pagina gaat over de oordeelsvraag eronder.
 

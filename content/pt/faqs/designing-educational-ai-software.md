@@ -1,14 +1,14 @@
 ---
 title: "Quais são as melhores práticas e dicas para desenhar software de IA educacional eficaz?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ A resposta é mais estreita do que a maioria das especificações de produto pre
 
 **1.** Anote o que o sistema decide e o que um professor decide. Essa fronteira se torna a arquitetura.
 
-**2.** Avalie a interação de múltiplos turnos e sensível à disciplina contra o currículo real, não prompts únicos contra uma rubrica genérica de segurança.
+**2.** Avalie a interação de múltiplos turnos e sensível à disciplina contra o [[curriculum-design|currículo]] real, não prompts únicos contra uma rubrica genérica de segurança.
 
 **3.** Ancora as respostas em conteúdo aprovado, e mantenha o componente de verificação separado do conversacional.
 
@@ -68,7 +68,7 @@ A parte transferível é a separação: os componentes que verificam não conver
 
 ## Trate o trabalho do estudante como entrada não confiável
 
-O modelo de ameaça que a maioria dos conselhos de design omite está dentro do artefato que está sendo avaliado. [[humble-prompt-injection-ai-grading-red-team-2026|A avaliação adversária de red team de Humble (2026)]] testou se estudantes podiam manipular um corretor baseado em LLM por meio de injeção de prompt em suas entregas, e a manipulação funcionou: injeções que instruem, reenquadram ou fazem role-play com o corretor alteram a nota sem mudar o trabalho.
+O modelo de ameaça que a maioria dos conselhos de design omite está dentro do artefato que está sendo avaliado. [[humble-prompt-injection-ai-grading-red-team-2026|A avaliação adversária de red team de Humble (2026)]] testou se estudantes podiam manipular um corretor baseado em [[llm|LLM]] por meio de injeção de prompt em suas entregas, e a manipulação funcionou: injeções que instruem, reenquadram ou fazem role-play com o corretor alteram a nota sem mudar o trabalho.
 
 Mantenha a rubrica e as instruções fora da janela de contexto controlada pelo estudante, remova ou sinalize conteúdo com aparência de instrução, nunca deixe uma entrega definir seus próprios critérios, e mantenha uma decisão humana em qualquer nota consequente. Um corretor que lê suas instruções no texto que julga entregou a rubrica ao candidato.
 
@@ -99,6 +99,8 @@ Um modelo maior vai corrigir a pedagogia. A escala não melhorou a segurança de
 Um bom índice de recuperação significa que o conteúdo está resolvido. O EduGuard emparelha recuperação com um verificador separado e testa prompts adversariais de resposta direta, porque a recuperação ancorada ainda deixa um caminho para a revelação excessiva.
 
 O professor é o recurso de reserva. Todos os seis professores no estudo de design pediram registro, alertas e substituição como condição de responsabilidade profissional. Um ticket de suporte não é uma substituição.
+
+Prazer é um substituto para o ajuste. Em uma pesquisa com 405 estudantes de pós-graduação em design ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), o ajuste tarefa-tecnologia carregou seu próprio caminho até a atitude (β = 0,224) ao lado da [[technology-acceptance-model|utilidade percebida]], e as características da tarefa guiaram o ajuste mais do que as características da ferramenta (β = 0,322 contra 0,266). O prazer percebido elevou a facilidade de uso e não fez nada pela utilidade (β = −0,033, p = 0,483). Encanto vale a pena construir, mas não substitui o alinhamento das funções com as etapas da tarefa.
 
 Acessibilidade é um ticket posterior. Ela fica na especificação ou se torna uma reescrita, e textos alternativos e legendas gerados ainda precisam de verificação humana.
 

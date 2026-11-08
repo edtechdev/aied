@@ -1,9 +1,9 @@
 ---
 title: "AI có thể hỗ trợ người học đa ngôn ngữ mà không đánh giá sai kiến thức hay xóa bỏ tiếng nói của họ như thế nào?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Một sinh viên hiểu khái niệm và cần thêm bốn phút để nói ra điều đó bằng tiếng Anh. AI có thể dịch đề bài, định nghĩa thuật ngữ, tập dượt lời giải thích cùng sinh viên, hoặc viết toàn bộ câu trả lời. Ba trong số đó là dạy học. Một là làm bài hộ.
 
-Câu trả lời ngắn để nói với đồng nghiệp: hãy quyết định ngôn ngữ đang làm gì trong nhiệm vụ này trước khi bạn quyết định công cụ được phép làm gì. Ở nơi ngôn ngữ chỉ là phương tiện, AI có thể gỡ một rào cản không liên quan đến cấu trúc bạn muốn đo. Ở nơi ngôn ngữ chính là cấu trúc cần đo, cùng công cụ đó đi vòng qua việc học. Rủi ro chạy theo cả hai hướng cùng lúc: [[multilingual-learning|hỗ trợ ngôn ngữ]] có thể cải thiện khả năng tiếp cận, và việc chấm tự động vẫn có thể đọc sai sinh viên. Trong một nghiên cứu vật lý, những lời giải thích có chất lượng ngôn ngữ thấp hơn bị mọi cách chấm bằng AI được thử nghiệm chấm thấp hơn một cách hệ thống so với phán đoán của chuyên gia, chín hệ thống học máy và hai hệ thống mô hình ngôn ngữ trên 116 học sinh trung học ([[ai-scoring-language-bias-physics|Feser và Tschisgale, 2026]]). Sự trôi chảy và sự hiểu biết đang bị chấm như một thứ.
+Câu trả lời ngắn để nói với đồng nghiệp: hãy quyết định ngôn ngữ đang làm gì trong nhiệm vụ này trước khi bạn quyết định công cụ được phép làm gì. Ở nơi ngôn ngữ chỉ là phương tiện, AI có thể gỡ một rào cản không liên quan đến cấu trúc bạn muốn đo. Ở nơi ngôn ngữ chính là cấu trúc cần đo, cùng công cụ đó đi vòng qua việc học. Rủi ro chạy theo cả hai hướng cùng lúc: [[multilingual-learning|hỗ trợ ngôn ngữ]] có thể cải thiện khả năng tiếp cận, và [[automated-assessment|việc chấm tự động]] vẫn có thể đọc sai sinh viên. Trong một nghiên cứu vật lý, những lời giải thích có chất lượng ngôn ngữ thấp hơn bị mọi cách chấm bằng AI được thử nghiệm chấm thấp hơn một cách hệ thống so với phán đoán của chuyên gia, chín hệ thống [[machine-learning|học máy]] và hai hệ thống mô hình ngôn ngữ trên 116 học sinh trung học ([[ai-scoring-language-bias-physics|Feser và Tschisgale, 2026]]). Sự trôi chảy và sự hiểu biết đang bị chấm như một thứ.
 
 ## Phiên bản ngắn
 
@@ -45,13 +45,13 @@ Câu trả lời ngắn để nói với đồng nghiệp: hãy quyết định 
 
 ## Quyết định ngôn ngữ đang làm gì
 
-Trong một lời giải thích sinh học, ngữ pháp phần lớn chỉ là phương tiện đối với khái niệm đang được đánh giá. Trong một học phần ngoại ngữ, việc tạo ra và sửa những cấu trúc cụ thể chính là việc học. Trong giao tiếp nghề nghiệp, độ chính xác theo ngành, người đọc và văn phong đều được tính. Cùng một công cụ dịch là phù hợp trong trường hợp thứ nhất, đáng ngờ trong trường hợp thứ hai và có thể thương lượng trong trường hợp thứ ba.
+Trong một lời giải thích [[biology-education|sinh học]], ngữ pháp phần lớn chỉ là phương tiện đối với khái niệm đang được đánh giá. Trong một học phần ngoại ngữ, việc tạo ra và sửa những cấu trúc cụ thể chính là việc học. Trong giao tiếp nghề nghiệp, độ chính xác theo ngành, người đọc và văn phong đều được tính. Cùng một công cụ dịch là phù hợp trong trường hợp thứ nhất, đáng ngờ trong trường hợp thứ hai và có thể thương lượng trong trường hợp thứ ba.
 
-Hãy viết quyết định đó ra ở nơi sinh viên đọc được. Nếu sinh viên được phép dịch hướng dẫn nhưng phải tự tạo ra lời giải thích bằng ngôn ngữ đích, hãy nói rõ. Nếu hỗ trợ thuật ngữ được phép, hãy nêu cụ thể sinh viên vẫn phải giải thích và kiểm chứng những gì. Rồi đối chiếu cách sắp xếp đó với các yêu cầu về điều chỉnh hỗ trợ và chính sách của cơ sở thay vì coi mọi hình thức trợ giúp ngôn ngữ là hoán đổi được cho nhau. Một sinh viên có điều chỉnh hỗ trợ đã được ghi nhận và một sinh viên đang né việc luyện tập có thể yêu cầu cùng một thứ, và chỉ người thứ hai là vấn đề giảng dạy của bạn.
+Hãy viết quyết định đó ra ở nơi sinh viên đọc được. Nếu sinh viên được phép dịch hướng dẫn nhưng phải tự tạo ra lời giải thích bằng ngôn ngữ đích, hãy nói rõ. Nếu hỗ trợ thuật ngữ được phép, hãy nêu cụ thể sinh viên vẫn phải giải thích và kiểm chứng những gì. Rồi đối chiếu cách sắp xếp đó với các yêu cầu về điều chỉnh hỗ trợ và [[educational-policy-ai|chính sách của cơ sở]] thay vì coi mọi hình thức trợ giúp ngôn ngữ là hoán đổi được cho nhau. Một sinh viên có điều chỉnh hỗ trợ đã được ghi nhận và một sinh viên đang né việc luyện tập có thể yêu cầu cùng một thứ, và chỉ người thứ hai là vấn đề giảng dạy của bạn.
 
 ## Nghiên cứu ủng hộ điều gì, và không ủng hộ điều gì
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez và Arabadzhy (2026)]] xem xét 24 nghiên cứu thực nghiệm về chatbot tạo sinh trong việc học ngôn ngữ. Đóng góp của họ mang tính phân loại: mọi tiện ích phụ đã được ghi nhận cho chatbot trước thời tạo sinh vẫn còn, và có ba tiện ích mới, trong đó có **chuyển ngữ**, việc chuyển đổi có chủ đích giữa các ngôn ngữ như một phần của việc học. Đó là một bản đồ các cách dùng và trải nghiệm được báo cáo chứ không phải một ước lượng gộp, và tập nghiên cứu tập trung về mặt địa lý, với Trung Quốc, Iran, Đài Loan và Thổ Nhĩ Kỳ chiếm 19 trong 24 nghiên cứu và gần như toàn bộ diễn ra trong các cơ sở giáo dục chính quy. Bằng chứng ủng hộ việc dùng giải thích xuyên ngôn ngữ như một động tác học tập không phải bằng chứng ủng hộ việc dịch mọi bài tập.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez và Arabadzhy (2026)]] xem xét 24 nghiên cứu thực nghiệm về [[conversational-ai|chatbot]] tạo sinh trong [[language-learning|việc học ngôn ngữ]]. Đóng góp của họ mang tính phân loại: mọi tiện ích phụ đã được ghi nhận cho chatbot trước thời tạo sinh vẫn còn, và có ba tiện ích mới, trong đó có **chuyển ngữ**, việc chuyển đổi có chủ đích giữa các ngôn ngữ như một phần của việc học. Đó là một bản đồ các cách dùng và trải nghiệm được báo cáo chứ không phải một ước lượng gộp, và tập nghiên cứu tập trung về mặt địa lý, với Trung Quốc, Iran, Đài Loan và Thổ Nhĩ Kỳ chiếm 19 trong 24 nghiên cứu và gần như toàn bộ diễn ra trong các cơ sở giáo dục chính quy. Bằng chứng ủng hộ việc dùng giải thích xuyên ngôn ngữ như một động tác học tập không phải bằng chứng ủng hộ việc dịch mọi bài tập.
 
 Đánh giá là nơi bằng chứng sắc nét hơn và mức độ hệ trọng tăng lên. [[ai-scoring-language-bias-physics|Feser và Tschisgale (2026)]] so sánh mười một cách chấm tự động với điểm của chuyên gia người trên lời giải thích vật lý của 116 học sinh trung học và phát hiện sự đánh giá thấp có hệ thống đối với hiểu biết khái niệm ở những lời giải thích yếu hơn về ngôn ngữ, trong từng cách tiếp cận một. Thiết kế này cô lập được cơ chế: cùng nội dung khái niệm, diễn đạt bằng văn xuôi yếu hơn, bị chấm thấp hơn. Đây không phải một khẳng định về sinh viên đa ngôn ngữ của một quốc gia cụ thể nào, và nó đúng là mô thức khiến cho mức đồng thuận tổng thể trở thành một phép chẩn đoán tồi. Một hệ thống chấm có thể đồng thuận với người chấm người tính trung bình trong khi sai theo một hướng nhất quán với những sinh viên mà ngôn ngữ còn đang phát triển.
 
@@ -116,7 +116,7 @@ Cung cấp những phương án thay thế khả thi. Sinh viên cần một con
 
 **4.** Thêm một phép kiểm tra ghi lại ý hoặc quyết định của chính sinh viên, chẳng hạn một ghi chú hai câu về một thay đổi họ đã chấp nhận hoặc bác bỏ.
 
-**5.** Nếu rubric của bạn chấm chất lượng bài viết, hãy tách tiêu chí đó khỏi tiêu chí khái niệm và đọc lại hai bài nộp mỗi loại với sự tách biệt đó trong đầu.
+**5.** Nếu rubric của bạn chấm [[writing-education|chất lượng bài viết]], hãy tách tiêu chí đó khỏi tiêu chí khái niệm và đọc lại hai bài nộp mỗi loại với sự tách biệt đó trong đầu.
 
 ## Đi tiếp từ đây
 

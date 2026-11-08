@@ -10,7 +10,7 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
 source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -24,7 +24,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Athari tofauti kati ya vikundi vya wanafunzi** — yale ambayo utafiti wa [[ai-education|AI katika elimu]] unapata kuhusu jinsi *matumizi* ya AI na *athari* zake zinatofautiana kati ya aina mbalimbali za wanafunzi: [[special-education|wanafunzi wenye ulemavu]] na [[neurodiversity|wanafunzi wenye tofauti za neva]], wanafunzi wenye lugha ya pili na wenye lugha nyingi ([[multilingual-learning|wanafunzi wenye lugha nyingi]]), wasichana na wavulana, wanafunzi wanaotengwa (minotized), wanafunzi kutoka familia za mapato ya chini, wanafunzi wa vijijini, wanafunzi wa kizazi cha kwanza, wanafunzi wa kimataifa, na [[adult-learning|wanafunzi wazima]]. Mtindo unaostahili kubebwa nao ni usio sawa katika mwelekeo wawili kwa wakati mmoja: baadhi ya maeneo yana ushahidi halisi (ulemavu, lugha) huku mengine yakiwa karibu tupu (kizazi cha kwanza, kimataifa, wakimbizi), na hata maeneo yenye nguvu mara chache huthibitisha kuwa *kikundi* kinatofautiana — yanathibitisha kuwa chombo kilisaidia au kuumiza sampuli ya kikundi hicho, ambao ni madai tofauti. Ukurasa huu unafuatilia yale yaliyopo, yale yanayoonyesha, na sababu za kimetabolojia kwa nini wastani wa kikundi si utabiri kuhusu mwanafunzi.
+> **Athari tofauti kati ya vikundi vya wanafunzi** — yale ambayo utafiti wa [[ai-education|AI katika elimu]] unapata kuhusu jinsi *matumizi* ya AI na *athari* zake zinatofautiana kati ya aina mbalimbali za wanafunzi: [[inclusive-learning|wanafunzi wenye ulemavu]] na [[neurodiversity|wanafunzi wenye tofauti za neva]], wanafunzi wenye lugha ya pili na wenye lugha nyingi ([[multilingual-learning|wanafunzi wenye lugha nyingi]]), wasichana na wavulana, wanafunzi wanaotengwa (minotized), wanafunzi kutoka familia za mapato ya chini, wanafunzi wa vijijini, wanafunzi wa kizazi cha kwanza, wanafunzi wa kimataifa, na [[adult-learning|wanafunzi wazima]]. Mtindo unaostahili kubebwa nao ni usio sawa katika mwelekeo wawili kwa wakati mmoja: baadhi ya maeneo yana ushahidi halisi (ulemavu, lugha) huku mengine yakiwa karibu tupu (kizazi cha kwanza, kimataifa, wakimbizi), na hata maeneo yenye nguvu mara chache huthibitisha kuwa *kikundi* kinatofautiana — yanathibitisha kuwa chombo kilisaidia au kuumiza sampuli ya kikundi hicho, ambao ni madai tofauti. Ukurasa huu unafuatilia yale yaliyopo, yale yanayoonyesha, na sababu za kimetabolojia kwa nini wastani wa kikundi si utabiri kuhusu mwanafunzi.
 
 ## Maswali ya Kuzingatia
 

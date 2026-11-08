@@ -90,7 +90,7 @@ El propósito importa tanto como la mecánica. [[ai-agents-joyful-assessment-thi
 
 **"La acreditación y la aprobación de los programas no se moverán tan rápido."** El estudio citado señala los plazos largos y las restricciones de acreditación de las cohortes grandes como la fricción central. Un solo curso puede cambiar lo que ocurre dentro de una evaluación existente sin cambiar su nombre, su peso ni sus resultados de aprendizaje, y eso suele bastar para empezar.
 
-**"Esto penaliza al estudiantado ansioso y al estudiantado con [[special-education|discapacidad]]."** Puede hacerlo. Los componentes orales en vivo necesitan ajustes planificados de antemano, una elección de formato cuando el constructo lo permite, y atención a la diferencia lingüística y al sesgo de quien evalúa. Verifique la capacidad, no las condiciones de la actuación.
+**"Esto penaliza al estudiantado ansioso y al estudiantado con [[inclusive-learning|discapacidad]]."** Puede hacerlo. Los componentes orales en vivo necesitan ajustes planificados de antemano, una elección de formato cuando el constructo lo permite, y atención a la diferencia lingüística y al sesgo de quien evalúa. Verifique la capacidad, no las condiciones de la actuación.
 
 **"Deberíamos comprar un detector y ya está."** El resultado sobre la discriminación argumenta en contra de usarlo como columna vertebral del diseño: si los falsos positivos crecen más rápido que los verdaderos positivos, una vigilancia más intensa hace que ocultarse resulte relativamente más atractivo. La detección puede tener un lugar en una respuesta que también rediseñe la tarea, y [[should-we-use-ai-detectors]] cubre ese argumento.
 

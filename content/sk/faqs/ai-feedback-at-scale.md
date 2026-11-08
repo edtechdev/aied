@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:34:18-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Je šiesty týždeň. Máte kopu konceptov, rubriku, ktorej veríte, a rastúce podozrenie, že tretinu vašich komentárov študenti prelistujú a zabudnú. Kolega spomenie, že nejaký nástroj teraz komentuje každý koncept do hodiny. Na porade katedry treba odpoveď: je to vylepšenie, alebo rýchlejší spôsob, ako vyprodukovať text, ktorý nikto nečíta?
 
-Krátka odpoveď pre kolegu: spätná väzba od AI si svoje miesto zaslúži v pokrytí, včasnosti a konzistencii, a to v úzkom pásme. Jazyková práca na úrovni korektúry a prvé komentáre vedené rubrikou sa oplatí automatizovať. Dosah je tá lacná časť. V zhlukovo randomizovanom experimente s 1 176 študentmi prvého ročníka reflexívne a hybridné dizajny porazili priamu kritiku AI v oneskorenom [[transfer-of-learning|transfere]] bez AI. V randomizovanom experimente s esejami so 70 študentmi lepšie hodnotená spätná väzba AI nepriniesla lepšie revízie než spätná väzba skúseného učiteľa. O výsledku rozhoduje to, čo študent s komentárom urobí, a [[feedback-literacy|gramotnosť spätnej väzby]] oddeľuje študentov, ktorí získavajú, od tých, ktorí kopírujú.
+Tu je krátka odpoveď: spätná väzba od AI si svoje miesto zaslúži v pokrytí, včasnosti a konzistencii, a to v úzkom pásme. Jazyková práca na úrovni korektúry a prvé komentáre vedené rubrikou sa oplatí automatizovať. Dosah je tá lacná časť. V zhlukovo randomizovanom experimente s 1 176 študentmi prvého ročníka reflexívne a hybridné dizajny porazili priamu kritiku AI v oneskorenom [[transfer-of-learning|transfere]] bez AI. V randomizovanom experimente s esejami so 70 študentmi lepšie hodnotená spätná väzba AI nepriniesla lepšie revízie než spätná väzba skúseného [[teacher-role|učiteľa]]. O výsledku rozhoduje to, čo študent s komentárom urobí, a [[feedback-literacy|gramotnosť spätnej väzby]] oddeľuje študentov, ktorí získavajú, od tých, ktorí kopírujú.
 
 ## Stručná verzia
 
@@ -38,7 +38,7 @@ Krátka odpoveď pre kolegu: spätná väzba od AI si svoje miesto zaslúži v p
 
 **2.** Rozdeľte svoje komentáre na opravy na jazykovej úrovni a na úsudkové rozhodnutia. Na automatizáciu prichádza do úvahy len prvá kategória.
 
-**3.** Zoraďte zdroje do etáp. Najprv sebahodnotenie, potom spätná väzba rovesníkov, potom kritika AI. Dva zdroje položené vedľa seba prinášajú pasívne prevzatie.
+**3.** Zoraďte zdroje do etáp. Najprv sebahodnotenie, potom [[peer-assessment|spätná väzba rovesníkov]], potom kritika AI. Dva zdroje položené vedľa seba prinášajú pasívne prevzatie.
 
 **4.** Dajte modelu svoju rubriku a nechajte ho uvažovať krok za krokom. Holý pokyn produkuje všeobecný výstup.
 
@@ -50,7 +50,7 @@ Krátka odpoveď pre kolegu: spätná väzba od AI si svoje miesto zaslúži v p
 
 Lákavá metrika je kvalita toho, čo model napíše. Je to tiež metrika, ktorá zavádza.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomizovali 70 študentov píšucich argumentatívne eseje v perzštine do troch skupín. Promptovanie s reťazcom úvah produkovalo významne lepšie hodnotenú spätnú väzbu (M = 12,90) než promptovanie bez príkladov (M = 11,25, p = .01) a než skúsený ľudský učiteľ (M = 11,20, p = .008). Skupina s reťazcom úvah svoje eseje neupravila významne viac než skupina so spätnou väzbou učiteľa, ktorá dosiahla porovnateľné prínosy. Lepšie komentáre, tie isté revízie. Ak je vaším kritériom úspechu kvalita komentára, štúdia sa číta ako úspech. Ak je ním to, čo sa zmenilo v eseji, nie.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] randomizovali 70 študentov píšucich argumentatívne eseje v perzštine do troch skupín. [[prompt-engineering|Promptovanie]] s reťazcom úvah produkovalo významne lepšie hodnotenú spätnú väzbu (M = 12,90) než promptovanie bez príkladov (M = 11,25, p = .01) a než skúsený ľudský učiteľ (M = 11,20, p = .008). Skupina s reťazcom úvah svoje eseje neupravila významne viac než skupina so spätnou väzbou učiteľa, ktorá dosiahla porovnateľné prínosy. Lepšie komentáre, tie isté revízie. Ak je vaším kritériom úspechu kvalita komentára, štúdia sa číta ako úspech. Ak je ním to, čo sa zmenilo v eseji, nie.
 
 Dva ďalšie signály lichotia pilotu, ktorý ide zle, preto ich vopred opravte. Spokojnosť študentov je jeden. V celouniverzitnom pilotnom projekte Deakin, o ktorom píšu [[tubino-adachi-ai-automated-feedback-literacy|Tubino and Adachi (2022)]], pozitívne priemerné hodnotenia koexistovali s chybami označenými študentmi, takže prieskum s usmievavými tváričkami nie je dôkazom presnosti. Používanie je druhý. Nástroj Deakin bol voliteľný a používanie dosahovalo približne 13 % bakalárov a 12 % postgraduálnych študentov, hoci prístup malo takmer 4 000 študentov. Proaktívni, výkonní študenti ho používali viac. To je to, čo vám sprístupnenie nástroja prinesie.
 
@@ -72,7 +72,7 @@ Reflexívna podmienka vyžadovala sebahodnotenie pred kritikou AI. Hybridná pre
 
 Mechanizmus vysvetľuje, prečo záleží viac na poradí než na nástroji. Priama kritika vyzýva na pasívne prevzatie: študent prečíta verdikt a použije ho. Reflexívne a hybridné dizajny nútia študenta komentár interpretovať, porovnať ho s kritériami, posúdiť jeho relevantnosť a potom revidovať. Vzdelávacia hodnota závisí menej od prístupu k AI než od toho, či prostredie spätnej väzby zachováva [[agency|agentnosť žiaka]] a [[evaluative-judgment|hodnotiaci úsudok]] počas revízie.
 
-Spätná väzba rovesníkov si v sekvencii zaslúži vlastné miesto. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen and Yan (2026)]] viedli dve paralelné triedy angličtiny (N = 118 študentov prvého ročníka v Číne; generatívna AI n = 56, rovesníci n = 62) cez tri cykly sebahodnotenia za jeden semester. Lešenie od generatívnej AI zlepšilo gramotnosť spätnej väzby mierne, ale významne oproti ľudskému recenzovaniu rovesníkmi (ANCOVA p = 0,049, ηp² = 0,03). Študenti s generatívnou AI iteratívne zušľachťovali prompty a overovali alebo spochybňovali nepresný výstup. Študenti v rovesníckej skupine si vyberali zdroje podľa spoločenskej výhodnosti a ich hodnotiaci úsudok skresľovala náklonnosť z priateľstva. Recenzovanie rovesníkmi si zachovalo odlišnú hodnotu pre vnímanie publika, a preto autori navrhujú viacetapové dizajny s anonymnou spätnou väzbou rovesníkov namiesto nahradenia.
+Spätná väzba rovesníkov si v sekvencii zaslúži vlastné miesto. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen and Yan (2026)]] viedli dve paralelné triedy angličtiny (N = 118 študentov prvého ročníka v Číne; generatívna AI n = 56, rovesníci n = 62) cez tri cykly [[self-assessment|sebahodnotenia]] za jeden semester. [[scaffolding|Lešenie]] od generatívnej AI zlepšilo gramotnosť spätnej väzby mierne, ale významne oproti ľudskému recenzovaniu rovesníkmi (ANCOVA p = 0,049, ηp² = 0,03). Študenti s generatívnou AI iteratívne zušľachťovali prompty a overovali alebo spochybňovali nepresný výstup. Študenti v rovesníckej skupine si vyberali zdroje podľa spoločenskej výhodnosti a ich hodnotiaci úsudok skresľovala náklonnosť z priateľstva. Recenzovanie rovesníkmi si zachovalo odlišnú hodnotu pre vnímanie publika, a preto autori navrhujú viacetapové dizajny s anonymnou spätnou väzbou rovesníkov namiesto nahradenia.
 
 Výhoda Gu et al. bola malá a oni ju čítajú ako skutočnú, ale nie samu o sebe transformatívnu. Podpornú prácu odviedlo lešenie učiteľa, usmernenia k promptom a pracovné listy.
 
@@ -80,15 +80,15 @@ Výhoda Gu et al. bola malá a oni ju čítajú ako skutočnú, ale nie samu o s
 
 Generovanie odkazované na rubriku je tá automatizovateľná časť.
 
-Kvalitatívny prínos Farrokhnia et al. pochádzal z promptu s reťazcom úvah, ktorý previedol model hodnotením krok za krokom podľa rubriky argumentácie, nie z holého pokynu dať spätnú väzbu. Gu et al. dali svojej skupine s generatívnou AI ChatGPT-4o s predtrénovanými rubrikami a usmerneniami k promptom, čo umožnilo výstup overiť proti uvedeným kritériám. V oboch prípadoch je prompt miestom, kde vaše kritériá vstupujú do systému, a stopa uvažovania je to, čo vám umožní vidieť, či ich model použil.
+Kvalitatívny prínos Farrokhnia et al. pochádzal z promptu s reťazcom úvah, ktorý previedol model hodnotením krok za krokom podľa rubriky argumentácie, nie z holého pokynu dať spätnú väzbu. Gu et al. dali svojej skupine s [[generative-ai|generatívnou AI]] ChatGPT-4o s predtrénovanými rubrikami a usmerneniami k promptom, čo umožnilo výstup overiť proti uvedeným kritériám. V oboch prípadoch je prompt miestom, kde vaše kritériá vstupujú do systému, a stopa uvažovania je to, čo vám umožní vidieť, či ich model použil.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson and Yan (2025)]] robia z kvality promptu pánt celého procesu. Nejasné prompty dávajú všeobecný, nepoužiteľný výstup a vygenerované komentáre môžu byť halucinované, predpojaté alebo sa prekrývať, čo vracia hodnotiaci úsudok čitateľovi. Kalibrácia je ešte ostrejšia. U Farrokhnia et al. bola kvalita spätnej väzby generatívnej AI významne spojená so silou prvého konceptu študenta, kým kvalita spätnej väzby učiteľa nebola. Učiteľ kalibroval konzistentnejšie. Objem škáluje. Kalibrácia neškáluje.
 
 ## Nechajte posledné slovo a záznam človeku
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma and Cobos (2026)]] opisujú AICoFE, ktorý prevádzkuje tri nezávisle doladené modely (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) nad skóre rubriky a kvalitatívnymi pozorovaniami, aby vytvoril nezávislé komentáre ku konceptu. Vyučujúci potom zostaví konečnú správu výberom viet alebo odsekov, s legendou ukazujúcou, ktorý model prispel čím. Model navrhuje. Vyučujúci doručuje a doručené dielo podpisuje jeden človek, ktorý koncept prečítal.
+[[becerra-aicofe-feedback-2026|Becerra, Palma and Cobos (2026)]] opisujú AICoFE, ktorý prevádzkuje tri nezávisle doladené modely (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) nad skóre rubriky a [[qualitative-research|kvalitatívnymi]] pozorovaniami, aby vytvoril nezávislé komentáre ku konceptu. Vyučujúci potom zostaví konečnú správu výberom viet alebo odsekov, s legendou ukazujúcou, ktorý model prispel čím. Model navrhuje. Vyučujúci doručuje a doručené dielo podpisuje jeden človek, ktorý koncept prečítal.
 
-Aldino et al. nachádzajú ten istý vzorec „pomôž a potom over“ v bežnej praxi. Komponent strojového učenia najčastejšie označil „Napĺňanie cieľa učenia“ ako chýbajúce (20 z 21 učiteľov ho vynechalo; 16 označenie prijalo) a „Vzťah študenta a učiteľa“ (14 vynechalo; 12 prijalo). Učitelia rozhodli o každom návrhu podľa profesionálneho úsudku, čo je zmyslom toho, aby boli v slučke.
+Aldino et al. nachádzajú ten istý vzorec „pomôž a potom over“ v bežnej praxi. Komponent [[machine-learning|strojového učenia]] najčastejšie označil „Napĺňanie cieľa učenia“ ako chýbajúce (20 z 21 učiteľov ho vynechalo; 16 označenie prijalo) a „Vzťah študenta a učiteľa“ (14 vynechalo; 12 prijalo). Učitelia rozhodli o každom návrhu podľa profesionálneho úsudku, čo je zmyslom toho, aby boli v slučke.
 
 Dvanásť z 21 učiteľov Aldino et al. urobilo ďalšie revízie na úrovni viet a prevládajúcim vzorcom bola kalibrácia tónu: zoslabenie chvály (f = 11), odstránenie návrhov (f = 9), odstránenie povzbudenia (f = 8). Revízie sa zhlukovali v relačnej dimenzii, najmä vo vzťahu študenta a učiteľa (f = 24). Chránili autentickosť a profesionálny hlas a táto práca sa neautomatizuje.
 
@@ -118,7 +118,7 @@ Hodnotenia spokojnosti vám hovoria, že komentáre sú presné. V pilote Deakin
 
 ## Čo sa vám vráti
 
-**„Spätná väzba AI nie je osobná.“** Často pravda a je to dôvod, prečo nechať posledné slovo človeku. AICoFE existuje preto, že všeobecná próza modelu nie je to, čo by študent mal dostať: vyučujúci vyberá, upravuje a podpisuje konečnú správu. 21 učiteľov u Aldino et al. prepisovalo tón z toho istého dôvodu. Personalizácia je v tomto dizajne vaša práca a model robí prípravnú prácu.
+**„Spätná väzba AI nie je osobná.“** Často pravda a je to dôvod, prečo nechať posledné slovo človeku. AICoFE existuje preto, že všeobecná próza modelu nie je to, čo by študent mal dostať: vyučujúci vyberá, upravuje a podpisuje konečnú správu. 21 učiteľov u Aldino et al. prepisovalo tón z toho istého dôvodu. [[personalized-learning|Personalizácia]] je v tomto dizajne vaša práca a model robí prípravnú prácu.
 
 **„Moji študenti aj tak nebudú čítať spätnú väzbu.“** Čítajú menej, než dúfame, a dôkazy hovoria, že opravou je dizajn, nie objem. Prevzatie v pilote Deakin dosahovalo približne 13 % a 12 %. Lepšie hodnotené komentáre Farrokhnia et al. nepriniesli extra revíziu. Ručičku posunulo poradie, ktoré vynucuje zapojenie, sebahodnotenie, potom spätná väzba rovesníkov, potom kritika AI, plus tri cykly revízie za semester, ktoré priniesli merateľné rozdiely v gramotnosti spätnej väzby.
 

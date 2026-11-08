@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Câu trả lời ngắn cho cuộc họp đó: AI có thể đảm nhận việc
 
 ## Quyết định AI được chạm vào đâu trước khi dự án bắt đầu
 
-Quyết định về phạm vi thuộc về tệp dự án chứ không thuộc về trí nhớ của ai đó. Trong [[dai-chan-responsible-genai-research-ai-literacy-2026|nghiên cứu nhóm tập trung của Dai và Chan (2026)]], những nhà nghiên cứu đã suy nghĩ về việc này hiệu chỉnh mức sử dụng theo rủi ro và vị trí trí tuệ trung tâm: dùng nhiều hơn ở những việc thủ tục rủi ro thấp, thận trọng ở nơi đóng góp học thuật là trung tâm. 27 trong số 28 nhà nghiên cứu sau đại học trong nghiên cứu đó đã dùng GenAI ở đâu đó trong quy trình làm việc, gồm cả viết học thuật và dịch, nên với hầu hết các nhóm, câu hỏi là ranh giới nằm ở đâu chứ không phải có ranh giới hay không.
+Quyết định về phạm vi thuộc về tệp dự án chứ không thuộc về trí nhớ của ai đó. Trong [[dai-chan-responsible-genai-research-ai-literacy-2026|nghiên cứu nhóm tập trung của Dai và Chan (2026)]], những nhà nghiên cứu đã suy nghĩ về việc này hiệu chỉnh mức sử dụng theo rủi ro và vị trí trí tuệ trung tâm: dùng nhiều hơn ở những việc thủ tục rủi ro thấp, thận trọng ở nơi đóng góp học thuật là trung tâm. 27 trong số 28 nhà nghiên cứu sau đại học trong nghiên cứu đó đã dùng [[generative-ai|GenAI]] ở đâu đó trong quy trình làm việc, gồm cả [[writing-education|viết học thuật]] và dịch, nên với hầu hết các nhóm, câu hỏi là ranh giới nằm ở đâu chứ không phải có ranh giới hay không.
 
 Hãy viết ranh giới đó thành một danh sách kèm phán quyết cho từng nhiệm vụ: tìm kiếm tài liệu, sàng lọc tóm tắt, trích xuất, mã hóa định tính, phân tích thống kê, soạn thảo, định dạng tài liệu tham khảo. Hãy đọc nghiên cứu đó như một bản đồ những gì các nhà nghiên cứu báo cáo là họ đã làm. Đó là một bản ghi từ nhóm tập trung, không phải một kết quả về hiệu quả.
 
@@ -64,27 +64,30 @@ Phần lớn lợi ích đến từ hai quyết định thiết kế. Hãy viế
 
 Việc ủy thác có thể chi tiết hơn nhiều so với kiểu được ăn cả, mất cả. [[agreement-not-quality-llm-coding-verification|Một nghiên cứu thẩm định mù]] phân loại 15 trong 72 mục của bộ mã là thực sự cần chuyên môn của con người, 12 mục phù hợp hơn với một mô hình, và 16 mục phù hợp với việc phân loại dựa trên độ tin cậy. Hãy phân loại các mục của bạn theo cách đó và khoản tiết kiệm công sức sẽ rơi vào nơi an toàn.
 
+Mô hình hóa chủ đề có thể mở rộng cấu trúc đó mà không chiếm lấy việc diễn giải. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey và Flor (2026)]] kết hợp mã hóa có neo, các embedding SentenceBERT được gom cụm bằng Affinity Propagation, và việc gán nhãn bằng GPT-4 trên sáu nhóm tập trung với 13 giáo viên. Rà soát của con người đã bỏ 18 cụm giao tiếp và 16 cụm năng lực số vốn là nội dung hội thoại thừa, còn lại 14 và 16 cụm có nghĩa; ChatGPT-4o và Copilot đồng thuận ở 33,3% và 43,8% số nhãn, với độ tương đồng cosine 0,835–0,880, và rà soát của con người không tìm thấy ảo giác rõ ràng. Nghiên cứu này là một quy trình đã làm sẵn, không phải một phép so sánh: nó không có nhánh chỉ có con người hay chỉ có AI, và 13 giáo viên không thể xác lập tính khái quát. Hãy dùng nó để thấy sự phân công lao động, chứ không phải như bằng chứng rằng cách kết hợp vượt qua các phương án khác.
+
+
 ## Quyết định thẩm định nghĩa là gì và ai ký nhận
 
-Sự đồng thuận cao giữa một mô hình và một người mã hóa thường được báo cáo như thể nó đã xác lập tính đúng đắn. Không phải vậy. [[agreement-not-quality-llm-coding-verification|Liu và cộng sự (2026)]] cho một chuyên gia độc lập đánh giá 855 bộ mã theo cặp mà không biết nguồn. Sự đồng thuận giữa người và LLM (Jaccard trung bình 0,30) thấp hơn rõ rệt so với đồng thuận giữa người với người (0,52), vậy mà người thẩm định mù lại ưu tiên cách mã hóa của người và của máy ở mức tỉ lệ mà nó không phân biệt được (51,5% so với 48,5%, p = 0,537). Trong một số trường hợp, sự đồng thuận giữa người với người mã hóa một thiên lệch chung mà người thẩm định từ chối để ủng hộ mô hình.
+Sự đồng thuận cao giữa một mô hình và một người mã hóa thường được báo cáo như thể nó đã xác lập tính đúng đắn. Không phải vậy. [[agreement-not-quality-llm-coding-verification|Liu và cộng sự (2026)]] cho một chuyên gia độc lập đánh giá 855 bộ mã theo cặp mà không biết nguồn. Sự đồng thuận giữa người và [[llm|LLM]] (Jaccard trung bình 0,30) thấp hơn rõ rệt so với đồng thuận giữa người với người (0,52), vậy mà người thẩm định mù lại ưu tiên cách mã hóa của người và của máy ở mức tỉ lệ mà nó không phân biệt được (51,5% so với 48,5%, p = 0,537). Trong một số trường hợp, sự đồng thuận giữa người với người mã hóa một thiên lệch chung mà người thẩm định từ chối để ủng hộ mô hình.
 
 Vì thế bước thẩm định cần một chuẩn vàng không phải là đầu ra của mô hình cũng không phải sự đồng thuận của người mã hóa với đầu ra đó, cộng với một người được nêu tên đã phân xử các bất đồng. Hãy báo cáo cả hai. Một thống kê tương đồng mô tả hai cách đọc khớp nhau đến mức nào, và nó không nói gì về việc một trong hai cách đọc có đúng hay không.
 
 ## Tìm nhanh, rồi tự kiểm tra từng nguồn
 
-Tìm kiếm tạo sinh thì tóm tắt, gợi ý, tổng hợp và trò chuyện, điều này làm lung lay cách sắp xếp cũ trong đó hệ thống định vị còn người đọc diễn giải ([[genai-academic-search-workshop|hội thảo về tìm kiếm học thuật với GenAI]]). Hãy coi nó như một công cụ khám phá. Báo cáo hội thảo mang hai lưu ý: năng lực không đồng đều, với các học giả được trích dẫn nhiều được dựng lại với tỉ lệ khoảng gấp đôi so với đồng nghiệp ít được trích dẫn, và một thủ thư mô tả khoảng cách niềm tin trong đó sinh viên tin tìm kiếm tạo sinh quá mức còn giảng viên thì không tin nó.
+Tìm kiếm tạo sinh thì tóm tắt, gợi ý, tổng hợp và trò chuyện, điều này làm lung lay cách sắp xếp cũ trong đó hệ thống định vị còn người đọc diễn giải ([[genai-academic-search-workshop|hội thảo về tìm kiếm học thuật với GenAI]]). Hãy coi nó như một công cụ khám phá. Báo cáo hội thảo mang hai lưu ý: năng lực không đồng đều, với các học giả được trích dẫn nhiều được dựng lại với tỉ lệ khoảng gấp đôi so với đồng nghiệp ít được trích dẫn, và một [[librarians|thủ thư]] mô tả khoảng cách niềm tin trong đó sinh viên tin tìm kiếm tạo sinh quá mức còn giảng viên thì không tin nó.
 
 Thẩm định tài liệu tham khảo là nơi điều này trở thành không thể thương lượng, và các thất bại tập trung ở trường tác giả, trường mang công lao. [[citation-errors-hallucinations-computing-education-2026|Denny và cộng sự (2026)]] kiểm toán 723.930 công bố và 15.872.533 tài liệu tham khảo và xác minh 30 tài liệu tham khảo bịa trên 14 bài báo giáo dục máy tính, tất cả từ 2025 và 2026. 17 trong 30 là dạng lai: một tiêu đề thật gắn với tác giả bịa hoặc sai. Số lượng được xác minh tại một hội nghị chuyên ngành tăng từ 3 năm 2025 lên 17 năm 2026, tức trong 2,3% các bài trong kỷ yếu năm đó. Tổng số của họ là một giới hạn dưới có chủ đích, và các công cụ kiểm tra tự động thừa hưởng những khiếm khuyết của siêu dữ liệu mà chúng coi là chuẩn vàng. Hãy kiểm tra tác giả trước.
 
 ## Coi điểm số tự động là một giả thuyết cần kiểm định
 
-Các hàm đo lường tự động có thể trông chính xác và có khả năng dự báo trong khi vẫn mờ đục. [[ai-methodologies-science-education-research-2026|Martin và cộng sự]] đặt điều này trong khuôn khổ vấn đề đo lường nomic của Chang: đo một đại lượng đòi hỏi một định luật liên hệ nó với một thứ quan sát được, và định luật đó không thể kiểm định nếu chưa biết đại lượng. Các hàm đo lường do AI tạo ra nảy sinh từ dữ liệu huấn luyện và tối ưu hóa chứ không từ nhà nghiên cứu, nên công việc về khả năng giải thích là quan trọng để cho thấy một mô hình có theo dõi sự hiểu ngữ nghĩa hay chỉ theo dõi từ khóa.
+Các hàm đo lường tự động có thể trông chính xác và có khả năng dự báo trong khi vẫn mờ đục. [[ai-methodologies-science-education-research-2026|Martin và cộng sự]] đặt điều này trong khuôn khổ vấn đề đo lường nomic của Chang: đo một đại lượng đòi hỏi một định luật liên hệ nó với một thứ quan sát được, và định luật đó không thể kiểm định nếu chưa biết đại lượng. Các hàm đo lường do AI tạo ra nảy sinh từ dữ liệu huấn luyện và tối ưu hóa chứ không từ nhà nghiên cứu, nên công việc về [[explainable-ai|khả năng giải thích]] là quan trọng để cho thấy một mô hình có theo dõi sự hiểu ngữ nghĩa hay chỉ theo dõi từ khóa.
 
 Thất bại thì cụ thể. Trong [[zhang-platform-scores-miss-ai-teaching-agents-2026|một đánh giá tám tác tử giảng dạy AI]], tác tử được điểm của chính nền tảng xếp thứ ba lại xếp cuối trên một rubric đã được chuyên gia thẩm định. Bất đồng giữa người và máy mang tính hệ thống chứ không ngẫu nhiên, và việc cụ thể hóa rubric thường quan trọng hơn tay nghề viết prompt ([[machines-misread-pedagogical-quality|Tseng và cộng sự, 2026]]). Trước khi một điểm số tự động trở thành công cụ đo của bạn, hãy thẩm định nó với một phép đo gắn với năng lực bạn định nghiên cứu. Về chính các phép đo, xem [[evaluating-ai-interventions-methods|phương pháp đánh giá các can thiệp AI]].
 
 ## Viết phần phương pháp để người ngoài có thể kiểm toán
 
-Việc áp dụng đã chạy trước việc báo cáo. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta và Lin (2026)]] phân tích 888 bài về tự động hóa tổng quan: từ 2023, 38,0% các bài về phần mềm và sản phẩm không báo cáo đánh giá nào cả, so với 9,3% ở các bài về LLM, và quyền truy cập mô hình áp đảo là độc quyền (84,1%). Một đánh giá tổng thể thuận lợi cũng không hàm ý phù hợp để ủy thác, vì 52% trong 118 bài về LLM chỉ báo cáo kết quả tích cực vẫn nêu một mối lo rằng quy trình làm việc dưới chuẩn mà vai trò của nó đòi hỏi. Khung PRISMA-LLM của họ tách việc công bố cách triển khai khỏi đánh giá nhạy cảm với hệ quả, và coi năm cấp độ của nó là các bậc công bố thông tin chứ không phải các bậc rủi ro.
+Việc áp dụng đã chạy trước việc báo cáo. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta và Lin (2026)]] phân tích 888 bài về tự động hóa tổng quan: từ 2023, 38,0% các bài về phần mềm và sản phẩm không báo cáo đánh giá nào cả, so với 9,3% ở các bài về LLM, và quyền truy cập mô hình áp đảo là độc quyền (84,1%). Một đánh giá tổng thể thuận lợi cũng không hàm ý phù hợp để ủy thác, vì 52% trong 118 bài về LLM chỉ báo cáo kết quả tích cực vẫn nêu một mối lo rằng quy trình làm việc dưới chuẩn mà vai trò của nó đòi hỏi. Khung [[meta-analysis-systematic-review|PRISMA]]-LLM của họ tách việc công bố cách triển khai khỏi đánh giá nhạy cảm với hệ quả, và coi năm cấp độ của nó là các bậc công bố thông tin chứ không phải các bậc rủi ro.
 
 Phiên bản thực dụng: nêu tên hệ thống và phiên bản của nó, các prompt, phiên bản kho ngữ liệu, điều gì con người đã kiểm tra, và nó thất bại ở đâu. Hãy giữ nhật ký prompt và phản hồi, vì một danh sách chủ đề do máy tạo trông trôi chảy và hiển nhiên rất lâu trước khi công việc làm bằng chứng của nó bắt đầu ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Hãy định trước các tiêu chí và giữ chúng hiển thị. Một nghi�
 
 Hãy báo cáo vai trò của AI, việc thẩm định bạn đã làm, và những giới hạn của một thiết kế chỉ có một khóa học và một nhà nghiên cứu. Một bản ghi quy trình không phải một kết quả về hiệu quả.
 
-Hãy coi việc mô phỏng một nhóm người học là một lựa chọn nâng cao chứ không phải mặc định. Người học được mô phỏng có xu hướng chỉ bao phủ góc phần tư dễ nhất của hành vi sinh viên thật và hiếm khi được thẩm định sau khi dùng ([[simulating-students|mô phỏng sinh viên]]). Hãy đọc [[making-simulated-students-behave-like-learners|làm cho sinh viên mô phỏng hành xử như người học]] trước khi bạn tin vào phán quyết của một bộ mô phỏng.
+Hãy coi việc mô phỏng một nhóm người học là một lựa chọn nâng cao chứ không phải mặc định. Người học được mô phỏng có xu hướng chỉ bao phủ góc phần tư dễ nhất của hành vi sinh viên thật và hiếm khi được thẩm định sau khi dùng ([[simulating-students|mô phỏng sinh viên]]). Hãy đọc [[making-simulated-students-behave-like-learners|làm cho sinh viên mô phỏng hành xử như người học]] trước khi bạn tin vào phán quyết của một [[simulation|bộ mô phỏng]].
 
 ## Nhà nghiên cứu hiểu sai gì về điều này
 

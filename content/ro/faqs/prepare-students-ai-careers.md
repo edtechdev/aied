@@ -1,7 +1,7 @@
 ---
 title: "Ce ar trebui să învețe studenții pentru cariere în care IA este ceva obișnuit?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Un student întreabă de ce ar trebui să învețe să facă ceva ce un chatbot face deja. Un grup consultativ al programului spune că angajatorii vor absolvenți care pot folosi IA la muncă. Programa ta trebuie să le satisfacă pe amândouă, iar niciunul dintre ei nu a spus ce ar trebui să poată face absolventul fără ajutor.
+Un student întreabă de ce ar trebui să învețe să facă ceva ce un [[conversational-ai|chatbot]] face deja. Un grup consultativ al programului spune că angajatorii vor absolvenți care pot folosi IA la muncă. Programa ta trebuie să le satisfacă pe amândouă, iar niciunul dintre ei nu a spus ce ar trebui să poată face absolventul fără ajutor.
 
-Răspunsul scurt pe care să îl dai unui coleg: predă întreaga sarcină profesională, nu operarea instrumentului, și evaluează atât produsul sprijinit, cât și capacitatea independentă a studentului. Dovezile susțin tratarea pregătirii ca cunoștințe disciplinare plus judecată plus verificare plus transfer și nu susțin nicio listă de competențe ca garanție a angajării. Un sondaj pe 500 de instructori universitari din SUA comparat cu un panel de angajatori a găsit că cele două grupuri cad de acord asupra importanței pentru exact una dintre 26 de competențe legate de IA, *stabilirea unor așteptări realiste pentru munca augmentată de IA*; instructorii au ponderat folosirea critică și responsabilă, în timp ce angajatorii au ponderat fluxul de lucru, automatizarea și colaborarea om-IA ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Acestea sunt priorități declarate, nu dovezi despre angajare. Constatarea mai ascuțită pentru o programă este în altă parte: într-un sondaj pe 455 de studenți din anul terminal, alfabetizarea în IA a ajuns la angajabilitatea percepută mai ales prin creșterea [[career-development-and-readiness|adaptabilității în carieră]], cu un efect indirect de β = 0,173 alături de un β direct de 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan și Lestari, 2026]]). Adaptabilitatea este o capacitate pe care o poți preda. Un pont despre un instrument nu este.
+Răspunsul scurt pe care să îl dai unui coleg: predă întreaga sarcină profesională, nu operarea instrumentului, și evaluează atât produsul sprijinit, cât și capacitatea independentă a studentului. Dovezile susțin tratarea pregătirii ca cunoștințe disciplinare plus judecată plus verificare plus transfer și nu susțin nicio listă de competențe ca garanție a angajării. Un sondaj pe 500 de instructori universitari din SUA comparat cu un panel de angajatori a găsit că cele două grupuri cad de acord asupra importanței pentru exact una dintre 26 de competențe legate de IA, *stabilirea unor așteptări realiste pentru munca augmentată de IA*; instructorii au ponderat folosirea critică și responsabilă, în timp ce angajatorii au ponderat fluxul de lucru, automatizarea și [[human-ai-collaboration|colaborarea om-IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Acestea sunt priorități declarate, nu dovezi despre angajare. Constatarea mai ascuțită pentru o [[curriculum-design|programă]] este în altă parte: într-un sondaj pe 455 de studenți din anul terminal, alfabetizarea în IA a ajuns la angajabilitatea percepută mai ales prin creșterea [[career-development-and-readiness|adaptabilității în carieră]], cu un efect indirect de β = 0,173 alături de un β direct de 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan și Lestari, 2026]]). Adaptabilitatea este o capacitate pe care o poți preda. Un pont despre un instrument nu este.
 
 ## Pe scurt
 
@@ -73,13 +73,13 @@ Acestea sunt adaptări ale temelor de cercetare, nu intervenții de angajare tes
 
 Compunerea și comunicarea în afaceri: pune studenții să critice și să revizuiască un răspuns schițat de IA la o reclamație a unui client. Dovada capacității este numirea promisiunilor nesuportate, explicarea alegerilor legate de public și apărarea formulării finale.
 
-Un curs cantitativ poate face același lucru cu o estimare produsă de IA pentru o problemă de planificare realistă, unde studenții își construiesc propria estimare, enunță presupunerile și testează plauzibilitatea.
+Un curs [[quantitative-research|cantitativ]] poate face același lucru cu o estimare produsă de IA pentru o problemă de planificare realistă, unde studenții își construiesc propria estimare, enunță presupunerile și testează plauzibilitatea.
 
 Pentru un curs de foi de calcul sau de informatică, dă o formulă generată și date sintetice, apoi cere cazuri de test, o explicație a referințelor și o condiție de eșec.
 
-Profesiile din sănătate: studenții evaluează o explicație generată pentru un caz fictiv față de surse aprobate, îi numesc limitele și spun când trebuie să decidă un profesionist calificat.
+[[medical-education|Profesiile din sănătate]]: studenții evaluează o explicație generată pentru un caz fictiv față de surse aprobate, îi numesc limitele și spun când trebuie să decidă un profesionist calificat.
 
-Explorarea carierei are propria versiune: compară compoziția sarcinilor a două ocupații folosind informații ocupaționale credibile, apoi planifică un pas concret de dezvoltare a unei competențe sau de cerere de ajutor.
+Explorarea carierei are propria versiune: compară compoziția sarcinilor a două ocupații folosind informații ocupaționale credibile, apoi planifică un pas concret de dezvoltare a unei competențe sau de [[help-seeking|cerere de ajutor]].
 
 Pentru livrarea asincronă, cere o primă încercare, o scurtă evidență de verificare și o notă de două propoziții despre o decizie cu consecințe. Într-un laborator sau seminar, explicația poate avea loc în conversație. Folosește materiale sintetice sau autorizate ori de câte ori alternativa ar fi date confidențiale de la locul de muncă sau despre studenți.
 
@@ -89,19 +89,22 @@ Un produs lustruit îți spune ce s-a produs în condițiile permise. Nu îți s
 
 Alege aceste cerințe pentru că susțin o capacitate enunțată și spune ce măsoară fiecare evaluare. Studenții acceptă exersarea independentă când ea este legată de lucrul pentru care sunt pregătiți; „vei avea nevoie de asta într-o zi” face mai puțin decât să arăți cum calculul este exact ce le permite să prindă mai târziu o estimare greșită.
 
-Partea de sprijin are propriul risc. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] au găsit folosirea GenAI asociată pozitiv cu dependența de GenAI, iar dependența asociată negativ atât cu gândirea critică, cât și cu angajabilitatea în modelul lor de sondaj. Aceasta este o asociere, nu o afirmație cauzală, și indică întrebarea de design: un curs care evaluează mereu doar performanța sprijinită poate antrena dependența pe care o raportează.
+Partea de sprijin are propriul risc. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] au găsit folosirea [[generative-ai|GenAI]] asociată pozitiv cu dependența de GenAI, iar dependența asociată negativ atât cu [[critical-thinking|gândirea critică]], cât și cu angajabilitatea în modelul lor de sondaj. Aceasta este o asociere, nu o afirmație cauzală, și indică întrebarea de design: un curs care evaluează mereu doar performanța sprijinită poate antrena dependența pe care o raportează.
+
+Aceeași logică se aplică înainte ca studenții să intre pe piața muncii. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelează asistența IA ca o secvență în care competența crește prin exersare independentă și scade când lucrătorii acceptă răspunsurile IA. În modelul lor, novicii pot rămâne blocați la un nivel scăzut de competență, iar experții pot pierde competență chiar în timp ce acuratețea rezultatului rămâne ridicată, iar lucrătorii strategici pot rezolva independent chiar și când IA este mai precisă, pentru că viitoarea competență are valoare. Lucrarea este teoretică, nu o intervenție, dar ascuțește întrebarea curriculară: programează și recompensează exersarea independentă în loc să presupui că rezultatul asistat de IA construiește capacitatea de a supraveghea munca.
+
 
 Pentru revizuirea programului, separă măsurile. Performanța la curs, alfabetizarea în IA demonstrată, evaluarea supervizorului de internship, statutul de angajare și calitatea locului de muncă sunt rezultate diferite, cu orizonturi de timp diferite, iar o singură intervenție nu le poate stabili pe toate. [[ai-literacy-evidence|Pagina despre dovezile privind alfabetizarea în IA]] este inventarul onest a ceea ce susțin de fapt studiile de intervenție.
 
 ## Abordează anxietatea legată de carieră fără să promiți certitudini
 
-Studenții vin cu temeri reale, iar literatura de sondaj despre ele este o descriere a temerilor, nu o prognoză a pieței muncii. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] au găsit că anxietatea legată de IA prezice direct și negativ deciziile de carieră, ceea ce este o constatare despre paralizia decizională, nu despre locurile de muncă. [[ai-anxiety-wellbeing|Tabloul bunăstării]] acoperă dovezile mai largi.
+Studenții vin cu temeri reale, iar literatura de sondaj despre ele este o descriere a temerilor, nu o prognoză a pieței muncii. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] au găsit că [[anxiety-and-stress|anxietatea legată de IA]] prezice direct și negativ deciziile de carieră, ceea ce este o constatare despre paralizia decizională, nu despre locurile de muncă. [[ai-anxiety-wellbeing|Tabloul bunăstării]] acoperă dovezile mai largi.
 
 Ce ajută este investigația la scara la care un student poate acționa: ce sarcini conține de fapt acest rol, cum arată o săptămână, ce ar trebui să pot face, cine îmi poate spune. Serviciile de carieră, absolvenții și personalul de plasare dețin această informație. O demonstrație de instrument, impresia unui instructor sau prezentarea unui furnizor nu sunt o prognoză a pieței muncii, iar prezentarea uneia ca prognoză este felul în care programele își pierd credibilitatea în fața studenților care verifică apoi.
 
 ## Ce se va întoarce împotriva ta
 
-**„Studenții au nevoie doar de promptare mai bună.”** Promptarea este o singură clauză a uneia dintre cele șase părți. O cerere bine specificată nu furnizează cunoștințele necesare pentru a recunoaște un rezultat prost, iar angajatorii din panelul Ithaka nu clasau nici ei măiestria promptării pe primul loc.
+**„Studenții au nevoie doar de [[prompt-engineering|promptare]] mai bună.”** Promptarea este o singură clauză a uneia dintre cele șase părți. O cerere bine specificată nu furnizează cunoștințele necesare pentru a recunoaște un rezultat prost, iar angajatorii din panelul Ithaka nu clasau nici ei măiestria promptării pe primul loc.
 
 **„Dacă locurile de muncă permit IA, cursurile ar trebui să o permită.”** Un curs construiește și capacitatea care face posibilă folosirea responsabilă. Spune care dintre cele două o evaluezi în fiecare sarcină, iar obiecția devine o întrebare de design, nu o contradicție.
 
@@ -125,4 +128,4 @@ Ce ajută este investigația la scara la care un student poate acționa: ce sarc
 
 [[career-development-and-readiness]] este pagina de concept pentru angajabilitate, adaptabilitate și dovezi despre forța de muncă, iar [[ai-literacy]] acoperă ce înseamnă alfabetizarea dincolo de operarea instrumentelor. Pentru a o construi într-un curs anume, vezi [[incorporating-ai-literacy|integrarea alfabetizării în IA]] și [[faculty-ai-competencies|ce competențe le trebuie cadrelor didactice]].
 
-Pentru designul de evaluare care face performanța sprijinită și cea independentă distingibile, vezi [[redesign-assessment-ai-era|reproiectarea evaluării în era IA]] și [[ai-grading-fairness-reliability|notarea cu IA]]. Pentru cum să împiedici sprijinul să devină dependență, vezi [[reducing-over-reliance|reducerea supra-dependenței]].
+Pentru [[assessment|designul de evaluare]] care face performanța sprijinită și cea independentă distingibile, vezi [[redesign-assessment-ai-era|reproiectarea evaluării în era IA]] și [[ai-grading-fairness-reliability|notarea cu IA]]. Pentru cum să împiedici sprijinul să devină dependență, vezi [[reducing-over-reliance|reducerea supra-dependenței]].

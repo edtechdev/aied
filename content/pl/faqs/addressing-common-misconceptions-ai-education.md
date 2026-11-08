@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Zadowolenie jest dowodem o akceptowalności. Studenci wolą informację zwrotną
 
 ### „Zgłaszali, że nauczyli się dużo.”
 
-Samoocena mierzy percepcję, akceptację, lęk i [[self-efficacy|poczucie własnej skuteczności]], i w tych czterech obszarach jest dobra. Nie jest pomiarem wykazanej zdolności, bo ludzie mogą być pewni siebie i się mylić albo biegli i zbyt niepewni. Synteza badań nad kompetencjami nauczycieli w zakresie SI w tej wiki raportuje istotną lukę między samooceną a zmierzonym wykonaniem, a obecni w niej nauczyciele akademiccy znacznie przeszacowali swoje kompetencje ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Do każdej samooceny trzeba dołożyć zadanie: wskazać błąd w wyniku, zweryfikować źródło, wybrać strategię użycia, zauważyć obciążenie albo schlebianie, poprawić wadliwą odpowiedź, skalibrować pewność względem trafności. Jedna taka pozycja w ankiecie zamienia opinię w wynik.
+[[self-report-measures|Samoocena]] mierzy percepcję, akceptację, [[anxiety-and-stress|lęk]] i [[self-efficacy|poczucie własnej skuteczności]], i w tych czterech obszarach jest dobra. Nie jest pomiarem wykazanej zdolności, bo ludzie mogą być pewni siebie i się mylić albo biegli i zbyt niepewni. Synteza badań nad kompetencjami nauczycieli w zakresie SI w tej wiki raportuje istotną lukę między [[self-assessment|samooceną]] a zmierzonym wykonaniem, a obecni w niej nauczyciele akademiccy znacznie przeszacowali swoje kompetencje ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Do każdej samooceny trzeba dołożyć zadanie: wskazać błąd w wyniku, zweryfikować źródło, wybrać strategię użycia, zauważyć obciążenie albo schlebianie, poprawić wadliwą odpowiedź, skalibrować pewność względem trafności. Jedna taka pozycja w ankiecie zamienia opinię w wynik.
 
 ### „Symulowany student to tani zamiennik prawdziwego.”
 
@@ -180,7 +180,7 @@ Nadzór zależy od ekspertyzy, której budowanie ciężka automatyzacja ludziom 
 
 ### „Uczenie krytycznego i etycznego użycia SI kosztuje produktywność.”
 
-Niezweryfikowana automatyzacja produkuje przeróbki, incydenty bezpieczeństwa, decyzje dyskryminujące, ekspozycję prawną, szkody wizerunkowe i fałszywą pewność siebie, a każda z tych rzeczy jest kosztem, którego wskaźnik produktywności nie policzył. Pracownik wart zatrudnienia to ten, który rozdziela pracę między ludzi i narzędzia, utrzymując jakość, poufność, odpowiedzialność i osąd zawodowy. To argument o produktywności, postawiony w kierunku, który bilans zwykle pomija ([[human-ai-collaboration|Współpraca człowieka z SI]], [[governance|Zarządzanie SI]]).
+Niezweryfikowana automatyzacja produkuje przeróbki, incydenty bezpieczeństwa, decyzje dyskryminujące, [[legal-issues-and-risks|ekspozycję prawną]], szkody wizerunkowe i fałszywą pewność siebie, a każda z tych rzeczy jest kosztem, którego wskaźnik produktywności nie policzył. Pracownik wart zatrudnienia to ten, który rozdziela pracę między ludzi i narzędzia, utrzymując jakość, poufność, odpowiedzialność i osąd zawodowy. To argument o produktywności, postawiony w kierunku, który bilans zwykle pomija ([[human-ai-collaboration|Współpraca człowieka z SI]], [[governance|Zarządzanie SI]]).
 
 ## Odpowiedzieć na to, w co wierzą studenci
 
@@ -244,7 +244,7 @@ Tekst polityki nie tworzy wspólnego rozumienia. Studenci i kadra czytają oczek
 
 ### „Niechęć kadry to luka szkoleniowa.”
 
-Czasem nią jest. Gotowość to także obciążenie pracą, [[learner-identity|tożsamość zawodowa]], wartości dyscypliny, wątpliwości co do trafności oceniania, szczupłe wsparcie instytucji, niepewność co do prywatności i uzasadniony osąd, że dane zastosowanie nie służy studentom. Rozwój musi więc obejmować kompetencję praktyczną, integrację pedagogiczną, cel i tożsamość, czas, politykę, użycie [[discipline-specific-aied|specyficzne dla dyscypliny]] oraz opcję zasadnego nieprzyjęcia narzędzia. Jednorazowa demonstracja funkcji nie rozwiązuje zmiany zawodowej i organizacyjnej ([[educational-development|Rozwój edukacyjny kadry]]).
+Czasem nią jest. Gotowość to także obciążenie pracą, [[learner-identity|tożsamość zawodowa]], wartości dyscypliny, wątpliwości co do trafności oceniania, szczupłe wsparcie instytucji, niepewność co do prywatności i uzasadniony osąd, że dane zastosowanie nie służy studentom. Rozwój musi więc obejmować kompetencję praktyczną, integrację pedagogiczną, cel i tożsamość, czas, politykę, użycie [[discipline-specific-aied|specyficzne dla dyscypliny]] oraz opcję zasadnego nieprzyjęcia narzędzia. Jednorazowa demonstracja funkcji nie rozwiązuje zmiany zawodowej i [[change-management|organizacyjnej]] ([[educational-development|Rozwój edukacyjny kadry]]).
 
 ### „Powiedzenie ludziom poprawnych faktów wystarcza.”
 
@@ -263,7 +263,7 @@ Wersja rozpracowana, którą można dostosować do dowolnej pozycji z tej strony
 > **Błędne przekonanie:** „Dobra praca wygenerowana przez SI pokazuje, że student się nauczył.”
 > **Refutacja:** „To nie musi być prawda. Produkt pokazuje to, co student i SI wytworzyły razem, ale nie ujawnia, które rozumowanie wykonał student.”
 > **Zastąpienie:** „Uczenie się jest lepiej wykazane wtedy, gdy student potrafi wyjaśnić, przenieść, dostosować i odtworzyć tę zdolność.”
-> **Zastosowanie:** „Po pracy wspieranej przez SI warto wymagać wyjaśnienia, obrony ustnej, zapisu procesu albo zastosowania bez pomocy.”
+> **Zastosowanie:** „Po pracy wspieranej przez SI warto wymagać wyjaśnienia, [[oral-assessment|obrony ustnej]], zapisu procesu albo zastosowania bez pomocy.”
 
 Ciężar dźwiga zastąpienie. Usunięcie błędnego przekonania bez dostarczenia lepszego wyjaśnienia zostawia osobę bez narzędzia do myślenia, a stare przekonanie wraca przy następnym doświadczeniu, które je potwierdzi.
 
@@ -289,7 +289,7 @@ Nauczyciele znacznie przeszacowali swoje kompetencje w zakresie SI, gdy samoocen
 
 ### „Rodzice nie przyjmą niczego poza zakazem.”
 
-Rodzice pytają, czy to, co stoi przed ich dzieckiem, jest bezpieczne i czy poświadczenie cokolwiek znaczy. Jeśli odpowiedzieć na te dwa pytania wprost, pytaniami o bezpieczeństwo pedagogiczne, a nie filtrem treści, argument za zakazem traci siłę. Pytanie dla rady jest węższe niż nagłówek i łatwiejsze do obrony.
+[[parents-and-families|Rodzice]] pytają, czy to, co stoi przed ich dzieckiem, jest bezpieczne i czy poświadczenie cokolwiek znaczy. Jeśli odpowiedzieć na te dwa pytania wprost, pytaniami o bezpieczeństwo pedagogiczne, a nie filtrem treści, argument za zakazem traci siłę. Pytanie dla rady jest węższe niż nagłówek i łatwiejsze do obrony.
 
 ### „Nie możemy prowadzić obron ustnych na wykładzie o takiej liczebności.”
 

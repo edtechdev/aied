@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ A válasz szűkebb annál, mint amit a legtöbb termékspecifikáció feltétele
 
 **1.** Írja le, mit dönt el a rendszer, és mit dönt el a tanár. Ez a határvonal lesz az architektúra.
 
-**2.** Többfordulós, szakterület-tudatos interakciót értékeljen valódi tananyagon, ne egyetlen promptot egy általános biztonsági rubrika ellen.
+**2.** Többfordulós, szakterület-tudatos interakciót értékeljen valódi [[curriculum-design|tananyagon]], ne egyetlen promptot egy általános biztonsági rubrika ellen.
 
 **3.** A válaszokat jóváhagyott tartalomra alapozza, és az ellenőrző komponenst tartsa külön a beszélgetéstől.
 
@@ -65,7 +65,7 @@ Az átvihető rész az elkülönítés: az ellenőrző komponensek nem beszélge
 
 ## Tekintse a hallgatói munkát nem megbízható bemenetnek
 
-A fenyegetésmodell, amelyet a legtöbb tervezési tanács kihagy, magában az értékelt termékben van. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026) ellenséges, vörös csapatos értékelése]] azt vizsgálta, hogy a hallgatók képesek-e prompt-injektálással manipulálni egy LLM-alapú értékelőt a beadásaikban, és a manipuláció működött: az értékelőnek utasítást adó, azt újrakeretező vagy szerepjátékba vonó injekciók megváltoztatták a pontszámot anélkül, hogy a munka változott volna.
+A fenyegetésmodell, amelyet a legtöbb tervezési tanács kihagy, magában az értékelt termékben van. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026) ellenséges, vörös csapatos értékelése]] azt vizsgálta, hogy a hallgatók képesek-e prompt-injektálással manipulálni egy [[llm|LLM]]-alapú értékelőt a beadásaikban, és a manipuláció működött: az értékelőnek utasítást adó, azt újrakeretező vagy szerepjátékba vonó injekciók megváltoztatták a pontszámot anélkül, hogy a munka változott volna.
 
 Tartsa a rubrikát és az utasításokat a hallgató által ellenőrzött kontextusablakon kívül, távolítsa el vagy jelölje meg az utasításszerű tartalmat, soha ne engedje, hogy egy beadás saját maga határozza meg a kritériumokat, és minden következményekkel járó osztályzatnál maradjon emberi döntés. Az az értékelő, amely az általa megítélt szövegből olvassa ki az utasításait, a jelöltnek adta át a rubrikát.
 
@@ -96,6 +96,8 @@ A nagyobb modell majd megoldja a pedagógiát. A méret nem javította megbízha
 Egy jó visszakeresési index azt jelenti, hogy a tartalom rendben van. Az EduGuard a visszakeresést külön ellenőrzővel párosítja, és ellenséges, közvetlen választ kicsikaró promptokat is tesztel, mert az alapozott visszakeresés még mindig hagy utat a túlzott felfedés felé.
 
 A tanár a tartalék megoldás. A tervezési tanulmány mind a hat tanára naplózást, riasztásokat és felülbírálatot kért a szakmai felelősség feltételeként. Egy támogatási jegy nem felülbírálat.
+
+Az élvezet nem helyettesíti az illeszkedést. Egy 405 hallgatót vizsgáló felmérésben tervező szakos mesterhallgatók körében ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]) a feladat–technológia illeszkedés saját útvonalat vitt az attitűdbe (β = 0,224) az [[technology-acceptance-model|észlelt hasznosság]] mellett, és a feladat jellemzői jobban hajtották az illeszkedést, mint az eszköz jellemzői (β = 0,322 szemben 0,266-tal). Az észlelt élvezet növelte a könnyű használhatóságot, és semmit nem tett a hasznosságért (β = −0,033, p = 0,483). A gyönyörködtetés megér egy fejlesztést, de nem helyettesíti a funkciók hozzárendelését a feladat lépéseihez.
 
 Az akadálymentesség egy későbbi jegy. Vagy benne van a specifikációban, vagy teljes újraírás lesz belőle, a generált helyettesítő szövegek és feliratok pedig továbbra is emberi ellenőrzést igényelnek.
 

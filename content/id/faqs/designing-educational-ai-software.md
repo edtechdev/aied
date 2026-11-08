@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Jawabannya lebih sempit daripada yang diasumsikan sebagian besar spesifikasi pro
 
 **1.** Tuliskan apa yang diputuskan sistem dan apa yang diputuskan guru. Batas itu menjadi arsitekturnya.
 
-**2.** Evaluasi interaksi multi-putaran yang sadar disiplin terhadap kurikulum nyata, bukan prompt tunggal terhadap rubrik keamanan umum.
+**2.** Evaluasi interaksi multi-putaran yang sadar disiplin terhadap [[curriculum-design|kurikulum]] nyata, bukan prompt tunggal terhadap rubrik keamanan umum.
 
 **3.** Pijakkan respons pada konten yang disetujui, dan pisahkan komponen pemverifikasi dari komponen percakapan.
 
@@ -65,7 +65,7 @@ Bagian yang dapat ditransfer adalah pemisahannya: komponen yang memverifikasi ti
 
 ## Perlakukan karya mahasiswa sebagai masukan yang tidak tepercaya
 
-Model ancaman yang dilewatkan sebagian besar saran desain berada di dalam artefak yang sedang dinilai. [[humble-prompt-injection-ai-grading-red-team-2026|Evaluasi tim merah ofensif Humble (2026)]] menguji apakah mahasiswa dapat memanipulasi penilai berbasis LLM melalui injeksi prompt dalam kiriman mereka, dan manipulasi itu berhasil: injeksi yang memerintah, membingkai ulang, atau memainkan peran pada penilai menggeser skor tanpa mengubah pekerjaannya.
+Model ancaman yang dilewatkan sebagian besar saran desain berada di dalam artefak yang sedang dinilai. [[humble-prompt-injection-ai-grading-red-team-2026|Evaluasi tim merah ofensif Humble (2026)]] menguji apakah mahasiswa dapat memanipulasi penilai berbasis [[llm|LLM]] melalui injeksi prompt dalam kiriman mereka, dan manipulasi itu berhasil: injeksi yang memerintah, membingkai ulang, atau memainkan peran pada penilai menggeser skor tanpa mengubah pekerjaannya.
 
 Jauhkan rubrik dan instruksi dari jendela konteks yang dikendalikan mahasiswa, buang atau tandai konten yang mirip instruksi, jangan pernah membiarkan kiriman menetapkan kriterianya sendiri, dan pertahankan keputusan manusia pada nilai yang berkonsekuensi. Penilai yang membaca instruksinya dari teks yang ia nilai telah menyerahkan rubriknya kepada kandidat.
 
@@ -96,6 +96,8 @@ Model yang lebih besar akan memperbaiki pedagoginya. Skala tidak andal meningkat
 Indeks retrieval yang baik berarti kontennya sudah tertangani. EduGuard memasangkan retrieval dengan pemverifikasi terpisah dan menguji prompt jawaban langsung yang bersifat menyerang, karena retrieval yang terpijak masih menyisakan jalur menuju pengungkapan berlebih.
 
 Guru adalah cadangan terakhir. Keenam guru dalam studi desain meminta pencatatan, peringatan, dan pengesampingan sebagai syarat tanggung jawab profesional. Tiket dukungan bukan pengesampingan.
+
+Kesenangan adalah pengganti kesesuaian. Dalam survei atas 405 mahasiswa pascasarjana desain ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]), kesesuaian tugas–teknologi membawa jalurnya sendiri ke sikap (β = 0,224) di samping [[technology-acceptance-model|kegunaan yang dipersepsikan]], dan karakteristik tugas lebih menggerakkan kesesuaian daripada karakteristik alat (β = 0,322 versus 0,266). Kesenangan yang dipersepsikan menaikkan kemudahan penggunaan dan tidak berpengaruh apa pun pada kegunaan (β = -0,033, p = 0,483). Daya tarik layak dibangun, tetapi ia tidak menggantikan pencocokan fungsi dengan langkah-langkah tugas.
 
 Aksesibilitas adalah tiket nanti. Ia berada di spesifikasi atau ia menjadi penulisan ulang, dan teks alternatif serta takarir yang dihasilkan tetap memerlukan pemeriksaan manusia.
 

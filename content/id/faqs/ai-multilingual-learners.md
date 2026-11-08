@@ -1,9 +1,9 @@
 ---
 title: "Bagaimana AI Dapat Mendukung Pelajar Multibahasa Tanpa Salah Menilai Pengetahuan Mereka atau Menghapus Suara Mereka?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Seorang siswa memahami konsepnya dan butuh empat menit tambahan untuk mengatakannya dalam bahasa Inggris. AI dapat menerjemahkan prompt, mendefinisikan terminologinya, melatih penjelasan bersama siswa itu, atau menulis seluruh jawabannya. Tiga di antaranya adalah pengajaran. Satu adalah mengerjakan tugasnya.
 
-Jawaban singkat untuk diberikan kepada kolega: putuskan apa fungsi bahasa dalam tugas ini sebelum Anda memutuskan apa yang boleh dilakukan alatnya. Ketika bahasa bersifat sampingan, AI dapat menghapus hambatan yang tidak ada hubungannya dengan konstruk Anda. Ketika bahasa itulah konstruknya, alat yang sama melewati pembelajarannya. Risikonya berjalan ke dua arah sekaligus: [[multilingual-learning|dukungan bahasa]] dapat memperbaiki akses, dan penilaian otomatis tetap dapat salah membaca siswa. Dalam satu studi fisika, penjelasan dengan kualitas linguistik lebih rendah secara sistematis dinilai di bawah pertimbangan ahli oleh setiap pendekatan penilaian AI yang diuji, sembilan sistem pembelajaran mesin dan dua sistem model bahasa pada 116 siswa sekolah menengah ([[ai-scoring-language-bias-physics|Feser dan Tschisgale, 2026]]). Kefasihan dan pemahaman sedang dinilai sebagai satu hal.
+Jawaban singkat untuk diberikan kepada kolega: putuskan apa fungsi bahasa dalam tugas ini sebelum Anda memutuskan apa yang boleh dilakukan alatnya. Ketika bahasa bersifat sampingan, AI dapat menghapus hambatan yang tidak ada hubungannya dengan konstruk Anda. Ketika bahasa itulah konstruknya, alat yang sama melewati pembelajarannya. Risikonya berjalan ke dua arah sekaligus: [[multilingual-learning|dukungan bahasa]] dapat memperbaiki akses, dan [[automated-assessment|penilaian otomatis]] tetap dapat salah membaca siswa. Dalam satu studi fisika, penjelasan dengan kualitas linguistik lebih rendah secara sistematis dinilai di bawah pertimbangan ahli oleh setiap pendekatan penilaian AI yang diuji, sembilan sistem [[machine-learning|pembelajaran mesin]] dan dua sistem model bahasa pada 116 siswa sekolah menengah ([[ai-scoring-language-bias-physics|Feser dan Tschisgale, 2026]]). Kefasihan dan pemahaman sedang dinilai sebagai satu hal.
 
 ## Versi singkat
 
@@ -45,13 +45,13 @@ Jawaban singkat untuk diberikan kepada kolega: putuskan apa fungsi bahasa dalam 
 
 ## Tentukan apa fungsi bahasa di sini
 
-Dalam penjelasan biologi, tata bahasa sebagian besar bersifat sampingan bagi konsep yang dinilai. Dalam mata kuliah bahasa, menghasilkan dan merevisi struktur tertentu adalah pembelajarannya. Dalam komunikasi profesional, ketepatan disipliner, audiens, dan register semuanya dihitung. Alat penerjemah yang sama tepat dalam kasus pertama, patut dipertanyakan dalam kasus kedua, dan dapat dinegosiasikan dalam kasus ketiga.
+Dalam penjelasan [[biology-education|biologi]], tata bahasa sebagian besar bersifat sampingan bagi konsep yang dinilai. Dalam mata kuliah bahasa, menghasilkan dan merevisi struktur tertentu adalah pembelajarannya. Dalam komunikasi profesional, ketepatan disipliner, audiens, dan register semuanya dihitung. Alat penerjemah yang sama tepat dalam kasus pertama, patut dipertanyakan dalam kasus kedua, dan dapat dinegosiasikan dalam kasus ketiga.
 
-Tuliskan keputusan itu di tempat yang dapat dibaca siswa. Jika siswa boleh menerjemahkan arahan tetapi harus menghasilkan penjelasan dalam bahasa target tanpa bantuan, katakan itu secara eksplisit. Jika dukungan terminologi diizinkan, tentukan apa yang tetap harus dijelaskan dan diverifikasi siswa. Lalu periksa pengaturan itu terhadap persyaratan akomodasi dan kebijakan institusi alih-alih memperlakukan setiap bentuk bantuan bahasa sebagai setara. Siswa dengan akomodasi terdokumentasi dan siswa yang menghindari latihan dapat meminta hal yang sama, dan hanya yang kedua yang menjadi masalah pengajaran Anda.
+Tuliskan keputusan itu di tempat yang dapat dibaca siswa. Jika siswa boleh menerjemahkan arahan tetapi harus menghasilkan penjelasan dalam bahasa target tanpa bantuan, katakan itu secara eksplisit. Jika dukungan terminologi diizinkan, tentukan apa yang tetap harus dijelaskan dan diverifikasi siswa. Lalu periksa pengaturan itu terhadap persyaratan akomodasi dan [[educational-policy-ai|kebijakan institusi]] alih-alih memperlakukan setiap bentuk bantuan bahasa sebagai setara. Siswa dengan akomodasi terdokumentasi dan siswa yang menghindari latihan dapat meminta hal yang sama, dan hanya yang kedua yang menjadi masalah pengajaran Anda.
 
 ## Apa yang didukung penelitian, dan apa yang tidak
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez dan Arabadzhy (2026)]] meninjau 24 studi empiris tentang chatbot generatif dalam pembelajaran bahasa. Kontribusi mereka bersifat taksonomis: setiap sub-afordansi yang tercatat untuk chatbot pra-generatif tetap ada, dan tiga di antaranya baru, termasuk **translanguaging**, perpindahan bahasa secara sengaja sebagai bagian dari pembelajaran. Itu adalah peta penggunaan dan pengalaman yang dilaporkan, bukan estimasi gabungan, dan korpusnya terkonsentrasi secara geografis, dengan Tiongkok, Iran, Taiwan, dan Türkiye mencakup 19 dari 24 studi dan semua kecuali satu berlangsung di dalam institusi formal. Dukungan untuk menggunakan penjelasan lintas bahasa sebagai langkah belajar bukanlah dukungan untuk menerjemahkan setiap tugas.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez dan Arabadzhy (2026)]] meninjau 24 studi empiris tentang [[conversational-ai|chatbot]] generatif dalam [[language-learning|pembelajaran bahasa]]. Kontribusi mereka bersifat taksonomis: setiap sub-afordansi yang tercatat untuk chatbot pra-generatif tetap ada, dan tiga di antaranya baru, termasuk **translanguaging**, perpindahan bahasa secara sengaja sebagai bagian dari pembelajaran. Itu adalah peta penggunaan dan pengalaman yang dilaporkan, bukan estimasi gabungan, dan korpusnya terkonsentrasi secara geografis, dengan Tiongkok, Iran, Taiwan, dan Türkiye mencakup 19 dari 24 studi dan semua kecuali satu berlangsung di dalam institusi formal. Dukungan untuk menggunakan penjelasan lintas bahasa sebagai langkah belajar bukanlah dukungan untuk menerjemahkan setiap tugas.
 
 Penilaian adalah tempat buktinya menguat dan taruhannya naik. [[ai-scoring-language-bias-physics|Feser dan Tschisgale (2026)]] membandingkan sebelas pendekatan penilaian otomatis dengan skor ahli manusia untuk penjelasan fisika 116 siswa sekolah menengah dan menemukan perkiraan yang secara sistematis terlalu rendah atas pemahaman konseptual pada penjelasan yang lebih lemah secara linguistik, pada setiap pendekatan tanpa kecuali. Rancangannya mengisolasi mekanismenya: konten konseptual yang sama, diungkapkan dalam prosa yang lebih lemah, dinilai lebih rendah. Ini bukan klaim tentang siswa multibahasa di negara tertentu, dan justru pola itulah yang membuat kesepakatan penilaian secara keseluruhan menjadi diagnostik yang buruk. Sebuah penilai dapat sepakat dengan penilai manusia secara rata-rata sambil keliru ke arah yang konsisten bagi siswa yang bahasanya masih berkembang.
 
@@ -116,7 +116,7 @@ Sediakan alternatif yang dapat dijalankan. Siswa membutuhkan jalur yang jelas me
 
 **4.** Tambahkan satu pemeriksaan yang mencatat makna atau keputusan siswa sendiri, misalnya catatan dua kalimat tentang perubahan yang mereka terima atau tolak.
 
-**5.** Jika rubrik Anda menilai kualitas tulisan, pisahkan kriteria itu dari kriteria konseptual dan baca ulang dua kiriman dari masing-masing dengan pemisahan itu dalam pikiran.
+**5.** Jika rubrik Anda menilai [[writing-education|kualitas tulisan]], pisahkan kriteria itu dari kriteria konseptual dan baca ulang dua kiriman dari masing-masing dengan pemisahan itu dalam pikiran.
 
 ## Ke mana selanjutnya
 

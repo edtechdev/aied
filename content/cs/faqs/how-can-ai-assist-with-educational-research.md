@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Krátká odpověď na tu schůzku: AI může převzít vyhledávání, první ko
 
 ## Rozhodněte, čeho se AI smí dotknout, dřív než projekt začne
 
-Rozhodnutí o rozsahu patří do projektového souboru, ne do něčí paměti. Ve [[dai-chan-responsible-genai-research-ai-literacy-2026|fokusní studii Daie a Chana (2026)]] výzkumníci, kteří o tom přemýšleli, kalibrovali použití podle sázek a intelektuální centrality: víc u málo rizikové procedurální práce, opatrně tam, kde byl centrální vědecký přínos. Dvacet sedm z 28 postgraduálních výzkumníků v této studii použilo GenAI někde v pracovním postupu, včetně akademického psaní a překladu, takže pro většinu týmů je otázka, kde ta hranice leží, ne jestli nějaká existuje.
+Rozhodnutí o rozsahu patří do projektového souboru, ne do něčí paměti. Ve [[dai-chan-responsible-genai-research-ai-literacy-2026|fokusní studii Daie a Chana (2026)]] výzkumníci, kteří o tom přemýšleli, kalibrovali použití podle sázek a intelektuální centrality: víc u málo rizikové procedurální práce, opatrně tam, kde byl centrální vědecký přínos. Dvacet sedm z 28 postgraduálních výzkumníků v této studii použilo [[generative-ai|GenAI]] někde v pracovním postupu, včetně [[writing-education|akademického psaní]] a překladu, takže pro většinu týmů je otázka, kde ta hranice leží, ne jestli nějaká existuje.
 
 Napište tu hranici jako seznam s verdiktem u každého úkolu: rešerše literatury, třídění abstraktů, extrakce, kvalitativní kódování, statistická analýza, psaní, formátování referencí. Čtěte tu studii jako mapu toho, co výzkumníci uváděli, že dělají. Je to výpověď z fokusní skupiny, ne výsledek o účinnosti.
 
@@ -64,27 +64,30 @@ Většina přínosu pochází ze dvou návrhových rozhodnutí. Napište pravidl
 
 Delegování může být jemnější než všechno, nebo nic. [[agreement-not-quality-llm-coding-verification|Jedna studie slepého ověřování]] klasifikovala 15 ze 72 položek kódovací knihy jako prokazatelně vyžadující lidskou expertizu, 12 jako vhodnější pro model a 16 jako vhodné pro třídění podle míry jistoty. Roztřiďte tak své vlastní položky a úspora práce přistane tam, kde je bezpečná.
 
+Modelování témat tuto strukturu může rozšířit, aniž by převzalo interpretaci. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey a Flor (2026)]] spojili zakotvené kódování, embeddingy SentenceBERT shlukované metodou Affinity Propagation a označování pomocí GPT-4 na šesti fokusních skupinách s 13 učiteli. Lidský přezkum odstranil 18 shluků týkajících se komunikace a 16 shluků týkajících se digitální gramotnosti, které byly konverzační výplní, a ponechal 14 a 16 smysluplných shluků; ChatGPT-4o a Copilot se shodly na 33,3 % a 43,8 % označení, s kosinovou podobností 0,835–0,880, a lidský přezkum nenašel žádné jasné halucinace. Studie je propracovaný postup, ne srovnání: nemá větev pouze s člověkem ani větev pouze s AI a 13 učitelů nemůže prokázat zobecnitelnost. Berte ji tak, abyste viděli dělbu práce, ne jako důkaz, že hybrid překonává alternativy.
+
+
 ## Rozhodněte, co ověření znamená a kdo ho podepisuje
 
-Vysoká shoda mezi modelem a lidským kódovačem se vykazuje, jako by prokazovala správnost. Neprokazuje. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] nechali nezávislého experta slepě k původu posoudit 855 párových sad kódů. Shoda člověk-LLM (průměrný Jaccard 0,30) byla výrazně pod shodou člověk-člověk (0,52), přesto slepý ověřovatel preferoval lidské a strojové kódování v mírách, které nedokázal rozlišit (51,5 % proti 48,5 %, p = 0,537). V některých případech lidský konsenzus zakódoval sdílené zkreslení, které ověřovatel odmítl ve prospěch modelu.
+Vysoká shoda mezi modelem a lidským kódovačem se vykazuje, jako by prokazovala správnost. Neprokazuje. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] nechali nezávislého experta slepě k původu posoudit 855 párových sad kódů. Shoda člověk-[[llm|LLM]] (průměrný Jaccard 0,30) byla výrazně pod shodou člověk-člověk (0,52), přesto slepý ověřovatel preferoval lidské a strojové kódování v mírách, které nedokázal rozlišit (51,5 % proti 48,5 %, p = 0,537). V některých případech lidský konsenzus zakódoval sdílené zkreslení, které ověřovatel odmítl ve prospěch modelu.
 
 Krok ověření tedy potřebuje zlatý standard, který není ani výstupem modelu, ani shodou kódovače s ním, a k tomu pojmenovaného člověka, který rozhodl spory. Vykazujte obojí. Statistika podobnosti popisuje, jak těsně dvě čtení sedí, a neříká nic o tom, jestli je některé z nich správné.
 
 ## Hledejte rychle, pak si každý zdroj zkontrolujte sami
 
-Generativní vyhledávání shrnuje, doporučuje, syntetizuje a konverzuje, což rozvrací starší uspořádání, v němž systém lokalizuje a čtenář interpretuje ([[genai-academic-search-workshop]]). Berte ho jako nástroj objevování. Zpráva z workshopu nese dvě varování: schopnost je nerovnoměrná, vysoce citovaní badatelé jsou rekonstruováni zhruba dvakrát častěji než méně citovaní kolegové, a knihovník popsal mezeru v důvěře, v níž studenti generativnímu vyhledávání příliš důvěřovali, zatímco akademičtí pracovníci mu nedůvěřovali.
+Generativní vyhledávání shrnuje, doporučuje, syntetizuje a konverzuje, což rozvrací starší uspořádání, v němž systém lokalizuje a čtenář interpretuje ([[genai-academic-search-workshop]]). Berte ho jako nástroj objevování. Zpráva z workshopu nese dvě varování: schopnost je nerovnoměrná, vysoce citovaní badatelé jsou rekonstruováni zhruba dvakrát častěji než méně citovaní kolegové, a [[librarians|knihovník]] popsal mezeru v důvěře, v níž studenti generativnímu vyhledávání příliš důvěřovali, zatímco akademičtí pracovníci mu nedůvěřovali.
 
 Ověřování referencí je místo, kde se to stává nepřekročitelným, a selhání se kupí v poli autorů, tedy v tom, které nese kredit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] auditovali 723 930 publikací a 15 872 533 referencí a ověřili 30 zfalšovaných referencí ve 14 článcích o informatické výuce, všechny z let 2025 a 2026. Sedmnáct z těch 30 byly hybridy: skutečný název připojený k vymyšleným nebo nesprávným autorům. Ověřený počet na jednom technickém sympoziu stoupl z 3 v roce 2025 na 17 v roce 2026, v 2,3 % tehdejších sborníkových článků. Jejich součet je záměrně dolní hranicí a automatizované kontroly dědí chyby metadat, která berou jako ground truth. Kontrolujte nejdřív autory.
 
 ## S automatizovaným skóre zacházejte jako s hypotézou k testování
 
-Automatizované měřicí funkce mohou vypadat přesně a prediktivně, a přitom zůstat neprůhledné. [[ai-methodologies-science-education-research-2026|Martin et al.]] to rámují Changovým problémem nomického měření: měření veličiny vyžaduje zákon, který ji vztahuje k něčemu pozorovatelnému, a ten zákon nelze testovat, aniž bychom tu veličinu už znali. Měřicí funkce odvozené z AI vycházejí z trénovacích dat a optimalizace, ne z výzkumníka, takže práce na vysvětlitelnosti má smysl pro to, aby se ukázalo, zda model sleduje sémantické porozumění, nebo jen klíčová slova.
+Automatizované měřicí funkce mohou vypadat přesně a prediktivně, a přitom zůstat neprůhledné. [[ai-methodologies-science-education-research-2026|Martin et al.]] to rámují Changovým problémem nomického měření: měření veličiny vyžaduje zákon, který ji vztahuje k něčemu pozorovatelnému, a ten zákon nelze testovat, aniž bychom tu veličinu už znali. Měřicí funkce odvozené z AI vycházejí z trénovacích dat a optimalizace, ne z výzkumníka, takže práce na [[explainable-ai|vysvětlitelnosti]] má smysl pro to, aby se ukázalo, zda model sleduje sémantické porozumění, nebo jen klíčová slova.
 
 Selhání je konkrétní. V [[zhang-platform-scores-miss-ai-teaching-agents-2026|hodnocení osmi AI výukových agentů]] se agent, který byl podle skóre samotné platformy třetí, umístil poslední podle experty validované rubriky. Nesouhlas člověka a stroje je systematický, ne náhodný, a operacionalizace rubriky často rozhoduje víc než řemeslo promptu ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Než se automatizované skóre stane vaším nástrojem, validujte ho proti měřítku navázanému na schopnost, kterou hodláte zkoumat. K měřením samotným viz [[evaluating-ai-interventions-methods]].
 
 ## Napište metodologickou část tak, aby ji outsider mohl auditovat
 
-Přijetí předběhlo vykazování. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta a Lin (2026)]] analyzovali 888 článků o automatizaci review: od roku 2023 uvedlo 38,0 % článků o softwaru a produktech žádné hodnocení, proti 9,3 % u článků o LLM, a přístup k modelům byl drtivě proprietární (84,1 %). Ani příznivé celkové posouzení neznamenalo vhodnost k delegování, protože 52 % ze 118 článků o LLM, které uváděly jen pozitiva, přesto uvedlo obavu, že postup nedosahuje laťky, kterou jeho role vyžaduje. Jejich rámec PRISMA-LLM odděluje zveřejnění implementace od hodnocení citlivého na důsledky a svých pět úrovní bere jako úrovně zveřejnění, ne jako úrovně rizika.
+Přijetí předběhlo vykazování. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta a Lin (2026)]] analyzovali 888 článků o automatizaci review: od roku 2023 uvedlo 38,0 % článků o softwaru a produktech žádné hodnocení, proti 9,3 % u článků o LLM, a přístup k modelům byl drtivě proprietární (84,1 %). Ani příznivé celkové posouzení neznamenalo vhodnost k delegování, protože 52 % ze 118 článků o LLM, které uváděly jen pozitiva, přesto uvedlo obavu, že postup nedosahuje laťky, kterou jeho role vyžaduje. Jejich rámec [[meta-analysis-systematic-review|PRISMA]]-LLM odděluje zveřejnění implementace od hodnocení citlivého na důsledky a svých pět úrovní bere jako úrovně zveřejnění, ne jako úrovně rizika.
 
 Praktická verze: pojmenujte systém a jeho verzi, prompty, verzi korpusu, co člověk zkontroloval a kde to selhalo. Držte logy promptů a odpovědí, protože plynulý generovaný seznam témat vypadá nevyhnutelně dávno předtím, než jeho evidenční práce vůbec začala ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Předdefinujte kritéria a držte je viditelná. Malá lokální studie se nemů
 
 Vykazujte roli AI, ověření, které jste provedli, a limity designu jednoho kurzu a jednoho výzkumníka. Zpráva o postupu není výsledek o účinnosti.
 
-Simulování kohorty berte jako pokročilou volbu, ne jako výchozí. Simulovaní studenti mají tendenci pokrývat nejsnazší kvadrant skutečného chování studentů a po použití bývají zřídka validováni ([[simulating-students]]). Přečtěte si [[making-simulated-students-behave-like-learners]], než uvěříte verdiktu simulátoru.
+Simulování kohorty berte jako pokročilou volbu, ne jako výchozí. Simulovaní studenti mají tendenci pokrývat nejsnazší kvadrant skutečného chování studentů a po použití bývají zřídka validováni ([[simulating-students]]). Přečtěte si [[making-simulated-students-behave-like-learners]], než uvěříte verdiktu [[simulation|simulátoru]].
 
 ## V čem se výzkumníci mýlí
 

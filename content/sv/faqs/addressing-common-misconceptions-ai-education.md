@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Medelvärden döljer precis den variation som avgör en rättvisefråga. Effekte
 
 ### ”De rapporterade att de lärde sig mycket.”
 
-Självrapportering mäter upplevelse, acceptans, oro och [[self-efficacy|self-efficacy]], och den är bra på alla fyra. Den är inte ett mått på visad förmåga, eftersom människor kan vara självsäkra och ha fel, eller skickliga och underskatta sig. Wikins sammanställning av forskning om lärares AI-kompetens rapporterar en betydande klyfta mellan självskattning och uppmätt prestation, och lärarna i den underskattade sin kompetens betydligt ([[ai-literacy-assessment-misalignment|AI-kompetens: skillnad mellan självskattning och uppmätt prestation]]). Para ihop varje självrapportering med en uppgift: identifiera ett fel i ett utdata, verifiera en källa, välja en användningsstrategi, upptäcka bias eller inställsamhet, revidera ett bristfälligt svar, kalibrera självförtroende mot träffsäkerhet. En sådan fråga i en enkät förvandlar en åsikt till ett resultat.
+[[self-report-measures|Självrapportering]] mäter upplevelse, acceptans, [[anxiety-and-stress|oro]] och [[self-efficacy|self-efficacy]], och den är bra på alla fyra. Den är inte ett mått på visad förmåga, eftersom människor kan vara självsäkra och ha fel, eller skickliga och underskatta sig. Wikins sammanställning av forskning om lärares AI-kompetens rapporterar en betydande klyfta mellan [[self-assessment|självskattning]] och uppmätt prestation, och lärarna i den underskattade sin kompetens betydligt ([[ai-literacy-assessment-misalignment|AI-kompetens: skillnad mellan självskattning och uppmätt prestation]]). Para ihop varje självrapportering med en uppgift: identifiera ett fel i ett utdata, verifiera en källa, välja en användningsstrategi, upptäcka bias eller inställsamhet, revidera ett bristfälligt svar, kalibrera självförtroende mot träffsäkerhet. En sådan fråga i en enkät förvandlar en åsikt till ett resultat.
 
 ### ”En simulerad student är en billig ersättare för en verklig.”
 
@@ -180,7 +180,7 @@ Insyn beror på den expertis som tung automatisering avskräcker människor frå
 
 ### ”Att undervisa i kritiskt och etiskt AI-användning kostar produktivitet.”
 
-Overifierad automatisering ger omarbete, säkerhetsincidenter, diskriminerande beslut, juridiskt ansvar, skadat anseende och falskt självförtroende, och var och en av dem är en kostnad som produktivitetssiffran inte räknade. Den anställda som är värd att anställa är den som fördelar arbete mellan människor och verktyg och samtidigt håller kvalitet, sekretess, ansvar och yrkesmässigt omdöme. Det är ett produktivitetsargument, framfört i den riktning balansräkningen vanligen missar ([[human-ai-collaboration|Människa-AI-samarbete]], [[governance|AI-styrning]]).
+Overifierad automatisering ger omarbete, säkerhetsincidenter, diskriminerande beslut, [[legal-issues-and-risks|juridiskt ansvar]], skadat anseende och falskt självförtroende, och var och en av dem är en kostnad som produktivitetssiffran inte räknade. Den anställda som är värd att anställa är den som fördelar arbete mellan människor och verktyg och samtidigt håller kvalitet, sekretess, ansvar och yrkesmässigt omdöme. Det är ett produktivitetsargument, framfört i den riktning balansräkningen vanligen missar ([[human-ai-collaboration|Människa-AI-samarbete]], [[governance|AI-styrning]]).
 
 ## Svara på vad studenterna tror
 
@@ -244,7 +244,7 @@ Policytext skapar inte delad förståelse. Studenter och personal läser förvä
 
 ### ”Lärarnas motvilja är en utbildningsbrist.”
 
-Ibland är det så. Beredskap är också arbetsbelastning, [[learner-identity|yrkesidentitet]], ämnesvärderingar, tvivel på bedömningens validitet, tunt institutionellt stöd, osäkerhet om integritet och en genomtänkt bedömning att en viss tillämpning inte tjänar studenterna. Utveckling måste därför täcka praktisk kompetens, pedagogisk integrering, syfte och identitet, tid, policy, [[discipline-specific-aied|ämnesspecifik]] användning och möjligheten att avstå på principiella grunder. En engångsdemonstration av en funktion löser inte en professionell och organisatorisk förändring ([[educational-development|Pedagogisk utveckling]]).
+Ibland är det så. Beredskap är också arbetsbelastning, [[learner-identity|yrkesidentitet]], ämnesvärderingar, tvivel på bedömningens validitet, tunt institutionellt stöd, osäkerhet om integritet och en genomtänkt bedömning att en viss tillämpning inte tjänar studenterna. Utveckling måste därför täcka praktisk kompetens, pedagogisk integrering, syfte och identitet, tid, policy, [[discipline-specific-aied|ämnesspecifik]] användning och möjligheten att avstå på principiella grunder. En engångsdemonstration av en funktion löser inte en professionell och [[change-management|organisatorisk förändring]] ([[educational-development|Pedagogisk utveckling]]).
 
 ### ”Att berätta de korrekta fakta räcker.”
 
@@ -263,7 +263,7 @@ Den genomarbetade versionen, som du kan anpassa till vilken punkt som helst på 
 > **Missuppfattning:** ”En bra AI-genererad uppgift visar att studenten lärde sig.”
 > **Motbevisning:** ”Det är inte nödvändigtvis sant. Produkten visar vad studenten och AI producerade tillsammans, men den avslöjar inte vilket resonemang studenten utförde.”
 > **Ersättning:** ”Lärande visas bättre när studenten kan förklara, överföra, anpassa och återskapa förmågan.”
-> **Tillämpning:** ”Följ upp AI-assisterat arbete med en förklaring, ett muntligt försvar, en processdokumentation eller en tillämpning utan stöd.”
+> **Tillämpning:** ”Följ upp AI-assisterat arbete med en förklaring, ett [[oral-assessment|muntligt försvar]], en processdokumentation eller en tillämpning utan stöd.”
 
 Ersättningen bär vikten. Att ta bort en missuppfattning utan att leverera en bättre förklaring lämnar personen med ingenting att tänka med, och den gamla föreställningen återvänder nästa gång erfarenheten bekräftar den.
 
@@ -289,7 +289,7 @@ Lärarna överskattade sin AI-kompetens betydligt när självrapport mötte pres
 
 ### ”Föräldrar accepterar inget annat än ett förbud.”
 
-Föräldrar frågar om det som står framför deras barn är säkert och om examensbeviset betyder något. Svara direkt på de två, med frågorna om pedagogisk säkerhet i stället för innehållsfiltret, och förbudsargumentet tappar kraft. Styrelsefrågan är snävare än rubriken och lättare att försvara.
+[[parents-and-families|Föräldrar]] frågar om det som står framför deras barn är säkert och om examensbeviset betyder något. Svara direkt på de två, med frågorna om pedagogisk säkerhet i stället för innehållsfiltret, och förbudsargumentet tappar kraft. Styrelsefrågan är snävare än rubriken och lättare att försvara.
 
 ### ”Vi kan inte köra muntliga försvar för en föreläsningskurs av den här storleken.”
 

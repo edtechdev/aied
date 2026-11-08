@@ -10,7 +10,7 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
 updated: "2026-10-31T06:30:00-04:00"
 source_updated: "2026-10-26T10:50:00-04:00"
@@ -29,7 +29,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Gli effetti differenziali tra gruppi di discenti** — ciò che la ricerca sull'[[ai-education|IA nell'educazione]] trova su come l'*uso* dell'IA e i suoi *effetti* differiscano tra tipi di discenti: gli [[special-education|studenti con disabilità]] e gli [[neurodiversity|studenti neurodivergenti]], i discenti di seconda lingua e i discenti [[multilingual-learning|multilingui]], ragazze e ragazzi, studenti minorizzati, studenti provenienti da famiglie a basso reddito, studenti rurali, studenti di prima generazione, studenti internazionali e [[adult-learning|adulti]]. Lo schema da portare via è diseguale in due direzioni insieme: alcuni filoni hanno evidenza reale (disabilità, lingua) mentre altri sono quasi vuoti (prima generazione, internazionali, rifugiati), e anche i filoni forti raramente stabiliscono che sia un *gruppo* a differire — stabiliscono che uno strumento ha aiutato o danneggiato un campione di quel gruppo, che è un'affermazione diversa. Questa pagina mappa ciò che esiste, ciò che mostra, e le ragioni metodologiche per cui una media di gruppo non è una previsione su un discente.
+> **Gli effetti differenziali tra gruppi di discenti** — ciò che la ricerca sull'[[ai-education|IA nell'educazione]] trova su come l'*uso* dell'IA e i suoi *effetti* differiscano tra tipi di discenti: gli [[inclusive-learning|studenti con disabilità]] e gli [[neurodiversity|studenti neurodivergenti]], i discenti di seconda lingua e i discenti [[multilingual-learning|multilingui]], ragazze e ragazzi, studenti minorizzati, studenti provenienti da famiglie a basso reddito, studenti rurali, studenti di prima generazione, studenti internazionali e [[adult-learning|adulti]]. Lo schema da portare via è diseguale in due direzioni insieme: alcuni filoni hanno evidenza reale (disabilità, lingua) mentre altri sono quasi vuoti (prima generazione, internazionali, rifugiati), e anche i filoni forti raramente stabiliscono che sia un *gruppo* a differire — stabiliscono che uno strumento ha aiutato o danneggiato un campione di quel gruppo, che è un'affermazione diversa. Questa pagina mappa ciò che esiste, ciò che mostra, e le ragioni metodologiche per cui una media di gruppo non è una previsione su un discente.
 
 ## Domande da considerare
 

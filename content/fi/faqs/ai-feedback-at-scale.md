@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 On kuudes viikko. Sinulla on pino luonnoksia, rubriikki, johon uskot, ja kasvava epäilys siitä, että kolmannes kommenteistasi silmäillään ja unohdetaan. Kollega mainitsee, että työkalu kommentoi nyt jokaisen luonnoksen tunnin sisällä. Laitoksen kokous tarvitsee vastauksen: onko tämä parannus vai nopeampi tapa tuottaa tekstiä, jota kukaan ei lue?
 
-Lyhyt vastaus kollegalle: tekoälypalaute ansaitsee paikkansa kattavuudessa, oikea-aikaisuudessa ja johdonmukaisuudessa, kapealla kaistalla. Oikolukuluokan kielityö ja rubriikkiohjatut ensikommentit kannattaa automatisoida. Kattavuus on se halpa osa. Klusterisatunnaistetussa kokeessa, jossa oli 1 176 ensimmäisen vuoden opiskelijaa, reflektoivat ja hybridisuunnitelmat voittivat suoran tekoälykritiikin viivästetyssä, ilman tekoälyä tapahtuvassa [[transfer-of-learning|siirtämisessä]]. Satunnaistetussa esseekokeessa 70 opiskelijan kanssa paremmin arvioitu tekoälypalaute ei tuottanut parempia revisioita kuin kokeneen opettajan palaute. Se, mitä opiskelija tekee kommentilla, ratkaisee lopputuloksen, ja [[feedback-literacy|palautelukutaito]] erottaa ne opiskelijat, jotka hyötyvät, niistä, jotka kopioivat.
+Lyhyt vastaus kollegalle: tekoälypalaute ansaitsee paikkansa kattavuudessa, oikea-aikaisuudessa ja johdonmukaisuudessa, kapealla kaistalla. Oikolukuluokan kielityö ja rubriikkiohjatut ensikommentit kannattaa automatisoida. Kattavuus on se halpa osa. Klusterisatunnaistetussa kokeessa, jossa oli 1 176 ensimmäisen vuoden opiskelijaa, reflektoivat ja hybridisuunnitelmat voittivat suoran tekoälykritiikin viivästetyssä, ilman tekoälyä tapahtuvassa [[transfer-of-learning|siirtämisessä]]. Satunnaistetussa esseekokeessa 70 opiskelijan kanssa paremmin arvioitu tekoälypalaute ei tuottanut parempia revisioita kuin kokeneen [[teacher-role|opettajan]] palaute. Se, mitä opiskelija tekee kommentilla, ratkaisee lopputuloksen, ja [[feedback-literacy|palautelukutaito]] erottaa ne opiskelijat, jotka hyötyvät, niistä, jotka kopioivat.
 
 ## Lyhyt versio
 
@@ -38,7 +38,7 @@ Lyhyt vastaus kollegalle: tekoälypalaute ansaitsee paikkansa kattavuudessa, oik
 
 **2.** Lajittele omat kommenttisi kielitason korjauksiin ja harkintatason kannanottoihin. Vain ensimmäinen luokka on automaation ehdokas.
 
-**3.** Porrasta lähteet. Itsearviointi ensin, vertaispalaute toiseksi, tekoälykritiikki kolmanneksi. Kaksi rinnakkain asetettua lähdettä tuottaa passiivisen omaksumisen.
+**3.** Porrasta lähteet. Itsearviointi ensin, [[peer-assessment|vertaispalaute]] toiseksi, tekoälykritiikki kolmanneksi. Kaksi rinnakkain asetettua lähdettä tuottaa passiivisen omaksumisen.
 
 **4.** Anna mallille rubriikkisi ja pakota se päättelemään vaihe vaiheelta. Pelkkä kehote tuottaa yleistä tuotosta.
 
@@ -50,7 +50,7 @@ Lyhyt vastaus kollegalle: tekoälypalaute ansaitsee paikkansa kattavuudessa, oik
 
 Houkutteleva mittari on sen laatu, mitä malli kirjoittaa. Se on myös mittari, joka johtaa harhaan.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] satunnaistivat 70 opiskelijaa, jotka kirjoittivat argumentoivia esseitä persiaksi, kolmeen ryhmään. Ketjuajattelukehote tuotti merkitsevästi korkeammalle arvioitua palautetta (M = 12,90) kuin zero-shot-kehote (M = 11,25, p = 0,01) ja kuin kokenut inhimillinen opettaja (M = 11,20, p = 0,008). Ketjuajatteluryhmä ei muokannut esseitään merkitsevästi enempää kuin opettajapalauteryhmä, joka saavutti vertailukelpoiset hyödyt. Paremmat kommentit, samat revisiot. Jos onnistumiskriteerisi on kommenttien laatu, tuo tutkimus näyttää voitolta. Jos se on se, mikä esseessä muuttui, se ei näytä.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] satunnaistivat 70 opiskelijaa, jotka kirjoittivat argumentoivia esseitä persiaksi, kolmeen ryhmään. Ketjuajatteluun perustuva [[prompt-engineering|kehote]] tuotti merkitsevästi korkeammalle arvioitua palautetta (M = 12,90) kuin zero-shot-kehote (M = 11,25, p = 0,01) ja kuin kokenut inhimillinen opettaja (M = 11,20, p = 0,008). Ketjuajatteluryhmä ei muokannut esseitään merkitsevästi enempää kuin opettajapalauteryhmä, joka saavutti vertailukelpoiset hyödyt. Paremmat kommentit, samat revisiot. Jos onnistumiskriteerisi on kommenttien laatu, tuo tutkimus näyttää voitolta. Jos se on se, mikä esseessä muuttui, se ei näytä.
 
 Kaksi muuta signaalia imartelevat pilottia, joka menee huonosti, joten korjaa ne etukäteen. Opiskelijoiden tyytyväisyys on yksi. [[tubino-adachi-ai-automated-feedback-literacy|Tubino ja Adachi (2022)]] raportoivat koko yliopiston Deakin-pilotin, jossa positiiviset keskiarvot olivat samaan aikaan opiskelijoiden merkitsemien virheiden kanssa, joten hymiökysely ei ole näyttöä tarkkuudesta. Käyttö on toinen. Deakinin työkalu oli valinnainen, ja käyttö oli keskimäärin noin 13 % kandidaateista ja 12 % jatko-opiskelijoista, vaikka lähes 4 000 opiskelijalla oli pääsy siihen. Oma-aloitteiset, hyvin suoriutuvat opiskelijat käyttivät sitä enemmän. Sen verran työkalun saataville asettaminen tuo.
 
@@ -72,7 +72,7 @@ Reflektoiva ehto vaati itsearvioinnin ennen tekoälykritiikkiä. Hybridi eteni i
 
 Mekanismi selittää, miksi järjestyksellä on enemmän väliä kuin työkalulla. Suora kritiikki kutsuu passiiviseen omaksumiseen: opiskelija lukee tuomion ja soveltaa sitä. Reflektoivat ja hybridisuunnitelmat pakottavat opiskelijan tulkitsemaan kommentin, vertaamaan sitä kriteereihin, arvioimaan sen osuvuutta ja sitten muokkaamaan. Koulutuksellinen arvo riippuu vähemmän tekoälypääsystä kuin siitä, säilyttääkö palauteympäristö [[agency|oppijan toimijuuden]] ja [[evaluative-judgment|arvioivan harkinnan]] revisioinnin aikana.
 
-Vertaispalaute ansaitsee oman paikkansa sarjassa. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen ja Yan (2026)]] veivät kahta rinnakkaista englannin kurssia (N = 118 ensimmäisen vuoden opiskelijaa Kiinassa; GenAI n = 56, vertaiset n = 62) kolmen itsearviointikierroksen läpi yhden lukukauden aikana. GenAI:n tukeminen paransi palautelukutaitoa hieman mutta merkitsevästi inhimilliseen vertaisarviointiin verrattuna (ANCOVA p = 0,049, ηp² = 0,03). GenAI-opiskelijat hioivat kehotteita iteratiivisesti ja tarkistivat tai haastoivat epätarkan tuotoksen. Vertaisryhmän opiskelijat valitsivat lähteet sosiaalisen mukavuuden perusteella, ja heidän arvioivaa harkintaansa vääristi ystävyysharha. Vertaisarvioinnilla säilyi oma arvonsa yleisötietoisuudessa, minkä vuoksi kirjoittajat ehdottavat monivaiheisia suunnitelmia, joissa on anonyymi vertaispalaute, eivätkä korvaamista.
+Vertaispalaute ansaitsee oman paikkansa sarjassa. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen ja Yan (2026)]] veivät kahta rinnakkaista englannin kurssia (N = 118 ensimmäisen vuoden opiskelijaa Kiinassa; GenAI n = 56, vertaiset n = 62) kolmen [[self-assessment|itsearviointikierroksen]] läpi yhden lukukauden aikana. GenAI:n [[scaffolding|tukeminen]] paransi palautelukutaitoa hieman mutta merkitsevästi inhimilliseen vertaisarviointiin verrattuna (ANCOVA p = 0,049, ηp² = 0,03). GenAI-opiskelijat hioivat kehotteita iteratiivisesti ja tarkistivat tai haastoivat epätarkan tuotoksen. Vertaisryhmän opiskelijat valitsivat lähteet sosiaalisen mukavuuden perusteella, ja heidän arvioivaa harkintaansa vääristi ystävyysharha. Vertaisarvioinnilla säilyi oma arvonsa yleisötietoisuudessa, minkä vuoksi kirjoittajat ehdottavat monivaiheisia suunnitelmia, joissa on anonyymi vertaispalaute, eivätkä korvaamista.
 
 Gun et al.:n etu oli pieni, ja he lukevat sen todelliseksi mutta eivät yksinään mullistavaksi. Opettajan tukeminen, kehoteohjeet ja työarkit tekivät tukityön.
 
@@ -80,15 +80,15 @@ Gun et al.:n etu oli pieni, ja he lukevat sen todelliseksi mutta eivät yksinä�
 
 Rubriikkiin viittaava tuottaminen on se automatisoitava osa.
 
-Farrokhnia et al.:n laadun parannus tuli ketjuajattelukehotteesta, joka kuljetti mallia vaiheittaisen arvioinnin läpi argumentaation rubriikkia vastaan, eikä pelkästä pyynnöstä antaa palautetta. Gu et al. antoivat GenAI-ryhmälleen ChatGPT-4o:n esikoulutetuilla rubriikeilla ja kehoteohjeilla, mikä teki tuotoksesta tarkistettavan suhteessa esitettyihin kriteereihin. Molemmissa tapauksissa kehote on se, missä kriteerisi astuvat järjestelmään, ja päättelyjälki on se, mikä näyttää, sovelsiko malli niitä.
+Farrokhnia et al.:n laadun parannus tuli ketjuajattelukehotteesta, joka kuljetti mallia vaiheittaisen arvioinnin läpi argumentaation rubriikkia vastaan, eikä pelkästä pyynnöstä antaa palautetta. Gu et al. antoivat GenAI-ryhmälleen [[generative-ai|ChatGPT-4o:n]] esikoulutetuilla rubriikeilla ja kehoteohjeilla, mikä teki tuotoksesta tarkistettavan suhteessa esitettyihin kriteereihin. Molemmissa tapauksissa kehote on se, missä kriteerisi astuvat järjestelmään, ja päättelyjälki on se, mikä näyttää, sovelsiko malli niitä.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson ja Yan (2025)]] tekevät kehotteen laadusta koko prosessin saranan. Epämääräiset kehotteet tuottavat yleistä, hyödytöntä tuotosta, ja tuotetut kommentit voivat olla hallusinoituja, vinoutuneita tai päällekkäisiä, mikä työntää arvioivan harkinnan takaisin lukijalle. Kalibrointi on vielä terävämpää. Farrokhnia et al.:ssa GenAI-palautteen laatu oli merkitsevästi yhteydessä opiskelijan alkuperäisen luonnoksen vahvuuteen, kun taas opettajan palautteen laatu ei ollut. Opettaja kalibroi johdonmukaisemmin. Volyymi skaalautuu. Kalibrointi ei.
 
 ## Pidä viimeinen sana ja tietue ihmisellä
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma ja Cobos (2026)]] kuvaavat AICoFEn, joka ajaa kolmea itsenäisesti hienosäädettyä mallia (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) rubriikkipisteiden ja kvalitatiivisten havaintojen yli itsenäisten luonnoskommenttien tuottamiseksi. Opettaja kokoaa sitten lopullisen viestin valitsemalla lauseita tai kappaleita, ja selite näyttää, mikä malli tuotti mitäkin. Malli luonnostelee. Opettaja toimittaa, ja toimituksen allekirjoittaa yksi henkilö, joka luki luonnoksen.
+[[becerra-aicofe-feedback-2026|Becerra, Palma ja Cobos (2026)]] kuvaavat AICoFEn, joka ajaa kolmea itsenäisesti hienosäädettyä mallia (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) rubriikkipisteiden ja [[qualitative-research|kvalitatiivisten]] havaintojen yli itsenäisten luonnoskommenttien tuottamiseksi. Opettaja kokoaa sitten lopullisen viestin valitsemalla lauseita tai kappaleita, ja selite näyttää, mikä malli tuotti mitäkin. Malli luonnostelee. Opettaja toimittaa, ja toimituksen allekirjoittaa yksi henkilö, joka luki luonnoksen.
 
-Aldino et al. löytävät saman avusta ja sitten varmista -kaavan tavallisesta käytännöstä. Koneoppimiskomponentti merkitsi useimmin puuttuvaksi kohdan ”Meeting Learning Objective” (20 opettajaa 21:stä oli jättänyt sen pois; 16 hyväksyi merkinnän) ja kohdan ”Student-Teacher Relationship” (14 jätti pois; 12 hyväksyi). Opettajat päättivät jokaisesta ehdotuksesta ammatillisen harkinnan pohjalta, mikä on koko syy pitää heidät silmukassa.
+Aldino et al. löytävät saman avusta ja sitten varmista -kaavan tavallisesta käytännöstä. [[machine-learning|Koneoppimiskomponentti]] merkitsi useimmin puuttuvaksi kohdan ”Meeting Learning Objective” (20 opettajaa 21:stä oli jättänyt sen pois; 16 hyväksyi merkinnän) ja kohdan ”Student-Teacher Relationship” (14 jätti pois; 12 hyväksyi). Opettajat päättivät jokaisesta ehdotuksesta ammatillisen harkinnan pohjalta, mikä on koko syy pitää heidät silmukassa.
 
 Kaksitoista Aldino et al.:n 21 opettajasta teki lisää lausetason revisioita, ja hallitseva kaava oli sävyn kalibrointi: kehun pienentäminen (f = 11), ehdotusten poistaminen (f = 9), kannustuksen poistaminen (f = 8). Revisiot keskittyivät relationaaliseen ulottuvuuteen, erityisesti Student-Teacher Relationship -kohtaan (f = 24). He suojelivat autenttisuutta ja ammatillista ääntä, eikä se työ automatisoidu.
 
@@ -118,7 +118,7 @@ Tyytyväisyysarviot kertovat, että kommentit ovat tarkkoja. Deakinin pilotissa 
 
 ## Mitä sinulle tullaan sanomaan
 
-**”Tekoälypalaute ei ole henkilökohtaista.”** Usein totta, ja se on syy pitää viimeinen sana ihmisellä. AICoFE on olemassa, koska yleinen malliproosa ei ole sitä, mitä opiskelijan pitäisi saada: opettaja valitsee, muokkaa ja allekirjoittaa lopullisen viestin. Aldino et al.:n 21 opettajaa kirjoittivat sävyn uudelleen samasta syystä. Personointi on sinun työsi tässä suunnitelmassa, ja malli tekee valmistelutyön.
+**”Tekoälypalaute ei ole henkilökohtaista.”** Usein totta, ja se on syy pitää viimeinen sana ihmisellä. AICoFE on olemassa, koska yleinen malliproosa ei ole sitä, mitä opiskelijan pitäisi saada: opettaja valitsee, muokkaa ja allekirjoittaa lopullisen viestin. Aldino et al.:n 21 opettajaa kirjoittivat sävyn uudelleen samasta syystä. [[personalized-learning|Personointi]] on sinun työsi tässä suunnitelmassa, ja malli tekee valmistelutyön.
 
 **”Opiskelijani eivät kuitenkaan lue palautetta.”** He lukevat vähemmän kuin toivomme, ja näyttö sanoo, että korjaus on suunnittelussa eikä volyymissa. Omaksuminen Deakinin pilotissa oli noin 13 % ja 12 %. Farrokhnia et al.:n korkeammalle arvioidut kommentit eivät tuottaneet lisärevisioita. Kehitystä sai aikaan järjestys, joka pakottaa sitoutumaan, itsearviointi, sitten vertaispalaute ja sitten tekoälykritiikki, sekä kolme revisiontikierrosta lukukauden aikana, jotka tuottivat mitattavia palautelukutaitoeroja.
 

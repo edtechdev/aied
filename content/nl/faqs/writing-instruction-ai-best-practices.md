@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-U herschrijft een opdrachtblad en de zin die voor u staat zegt dat AI is toegestaan met vermelding, wat een student niets vertelt over de vraag of het hulpmiddel het argument mag leveren. Een collega heeft een verbod voor de hele opleiding voorgesteld en u vermoedt dat het vooral de meertalige schrijvers in de zaal treft. Of een stapel essays kwam vlotter terug dan het seminaargesprek erachter, en u hebt een regel nodig die u op de volgende curriculumvergadering kunt verdedigen.
+U herschrijft een opdrachtblad en de zin die voor u staat zegt dat AI is toegestaan met vermelding, wat een student niets vertelt over de vraag of het hulpmiddel het argument mag leveren. Een collega heeft een verbod voor de hele opleiding voorgesteld en u vermoedt dat het vooral de meertalige schrijvers in de zaal treft. Of een stapel essays kwam vlotter terug dan het seminaargesprek erachter, en u hebt een regel nodig die u op de volgende [[curriculum-design|curriculum]]vergadering kunt verdedigen.
 
 De kern: benoem het intellectuele werk dat de opdracht moet opleveren, houd die stap bij de student, en geef het hulpmiddel taken die iets teruggeven wat de student moet beoordelen. Een regel die zo is geschreven, vertelt een student welke stap die beschermt.
 
@@ -78,7 +78,7 @@ Een reeks die het overnemen waard is, houdt AI in een adviserende rol en legt he
 | **8. Herzien** | Inhoudelijke wijzigingen aanbrengen en verantwoorden | Helderheid toetsen, alternatieven bieden | Revisie |
 | **9. Verifiëren** | Elke feitelijke of bronafhankelijke claim controleren | Kan de eigen output niet verifiëren | Bronnen en bewijs |
 | **10. Reflecteren en openbaar maken** | Uitleggen welke rol AI had en wat er in het eigen denken veranderde | Niets | Korte procesreflectie |
-| **11. Zelfstandige controle** | De redenering zonder AI uitleggen of toepassen | Niets | Mondelinge verdediging, kort schrijfwerk, nieuwe casus |
+| **11. Zelfstandige controle** | De redenering zonder AI uitleggen of toepassen | Niets | [[oral-assessment|Mondelinge verdediging]], kort schrijfwerk, nieuwe casus |
 
 Dit is een uitgebreide [[pairr-ai-peer-review-2025|PAIRR]]: concept, menselijke feedback, AI-feedback, vergelijking, revisie, reflectie, met een zelfstandige nulmeting en een strakkere grens rond redeneren. Gebruik de middelste kolom als de opdracht en de rechterkolom als dat waarop een cijfer kan rusten.
 
@@ -89,6 +89,9 @@ Elf rijen is meer dan de meeste opdrachten nodig hebben. Vouw de tabel terug tot
 De grootste klaslokaalstudie hier is [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenten in tien schrijfcursussen en drie schrijfintensieve [[stem-education|bèta-opleidingen]]. Ze schreven een concept, deden [[peer-assessment|peerbeoordeling]], verkregen rubriekgebaseerde AI-feedback, vergeleken en evalueerden beide bronnen, schreven revisieplannen, herzagen en reflecteerden. 58% gaf de voorkeur aan gecombineerde peer- en AI-feedback. 6% gaf de voorkeur aan alleen AI-feedback. Studenten vonden AI nuttig voor breed, op de rubriek gericht revisieadvies, en peers leverden contextuele kennis en een authentieke reactie van het publiek.
 
 Wees precies over de claim. PAIRR mat de ervaring en evaluatie van feedback door studenten, niet [[learning-gains|leerwinst]] op lange termijn, dus het is sterk bewijs voor een feedbackontwerp en zwakker bewijs dat het schrijven maanden later beter is. Houd de peer-stap ook als de AI-stap sneller is. Veel van het [[feedback|feedbackwerk]] gebeurt in de vergelijking tussen de twee bronnen, en die weglaten haalt weg wat studenten zeiden te waarderen.
+
+De tool zelf kan zo worden ontworpen dat de redeneringsstap wordt beschermd. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] bouwden MAIKE, een [[socratic-method|Socratische]] chatbot die argumenten diagnosticeert en gerichte vragen stelt zonder essaytekst te genereren. In een klaslokaalstudie met 65 middelbare scholieren besteedden MAIKE-gebruikers meer beurten aan dialoog op het niveau van ideeën dan de controlegroep (56% tegen 44%) en bewogen ze zich tussen discussie en redigeren; ongeveer 40% van de studenten verbeterde de scores op hun essay. De studie toonde geen algemeen cijfervoordeel ten opzichte van de controle, dus behandel het als een ontwerpdemonstratie over het verbinden van gesprek en revisie, niet als bewijs dat de chatbot de schrijfkwaliteit verhoogt.
+
 
 ## Beoordeel wat de student met de feedback deed
 

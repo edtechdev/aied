@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ Viserektoren din vil ha et én-sides ark med «AI-myter» til fakultetsmøtet i 
 
 Hver oppfatning på denne siden starter med noe en fornuftig person faktisk har sett. Flytende prosa leses som treffsikker. En polert innlevering ser ut som læring. En veileder som svarer på spørsmålet, føles som hjelp, og en policy med ordet «forbudt» i seg føles som en beslutning. Den korreksjonen som virker, navngir det observasjonen ikke kan fortelle deg, og gir deretter personen en sjekk hen kan kjøre på mandag.
 
-Svaret du gir en kollega i ett åndedrag: den pedagogiske effekten av AI avhenger av hvem som bruker den, til hvilken oppgave, hvilken tenkning verktøyet utfører, hvilket ansvar som blir liggende hos personen, og hvordan læringen blir vurdert. Selvtillit, fart, engasjement og fullføring er egenskaper ved bruken. Ingen av dem er bevis for at kompetansen har endret seg.
+Her er svaret, i ett åndedrag: den pedagogiske effekten av AI avhenger av hvem som bruker den, til hvilken oppgave, hvilken tenkning verktøyet utfører, hvilket ansvar som blir liggende hos personen, og hvordan læringen blir vurdert. Selvtillit, fart, engasjement og fullføring er egenskaper ved bruken. Ingen av dem er bevis for at kompetansen har endret seg.
 
 ## Kortversjonen
 
@@ -62,7 +62,7 @@ Gjennomsnitt skjuler nettopp den variasjonen som avgjør et rettferdighetsspørs
 
 ### «De rapporterte at de lærte mye.»
 
-Selvrapportering måler oppfatning, aksept, angst og [[self-efficacy|mestringstro]], og den er god på alle fire. Den er ikke et mål på demonstrert kompetanse, fordi folk kan være selvsikre og ta feil, eller dyktige og undervurdere seg selv. Wikiens syntese av forskning på læreres AI-kompetanse rapporterer et betydelig gap mellom selvvurdering og målt prestasjon, og lærerne i den overvurderte kompetansen sin betraktelig ([[ai-literacy-assessment-misalignment|AI-kompetanse: avvik mellom selvrapportering og prestasjon]]). Par hver selvrapport med en oppgave: identifisere en feil i en output, verifisere en kilde, velge en bruksstrategi, oppdage bias eller sykofanti, revidere et mangelfullt svar, kalibrere trygghet mot treffsikkerhet. Ett slikt element i en undersøkelse gjør en mening om til et resultat.
+[[self-report-measures|Selvrapportering]] måler oppfatning, aksept, [[anxiety-and-stress|angst]] og [[self-efficacy|mestringstro]], og den er god på alle fire. Den er ikke et mål på demonstrert kompetanse, fordi folk kan være selvsikre og ta feil, eller dyktige og undervurdere seg selv. Wikiens syntese av forskning på læreres AI-kompetanse rapporterer et betydelig gap mellom [[self-assessment|selvvurdering]] og målt prestasjon, og lærerne i den overvurderte kompetansen sin betraktelig ([[ai-literacy-assessment-misalignment|AI-kompetanse: avvik mellom selvrapportering og prestasjon]]). Par hver selvrapport med en oppgave: identifisere en feil i en output, verifisere en kilde, velge en bruksstrategi, oppdage bias eller sykofanti, revidere et mangelfullt svar, kalibrere trygghet mot treffsikkerhet. Ett slikt element i en undersøkelse gjør en mening om til et resultat.
 
 ### «En simulert student er en billig erstatning for en ekte.»
 
@@ -180,7 +180,7 @@ Tilsyn avhenger av den ekspertisen som tung automatisering fraråder folk fra å
 
 ### «Å undervise i kritisk og etisk AI-bruk koster produktivitet.»
 
-Uverifisert automatisering gir omarbeid, sikkerhetshendelser, diskriminerende beslutninger, rettslig eksponering, omdømmeskade og falsk trygghet, og hver av dem er en kostnad som produktivitetstallet ikke regnet med. Den ansatte som er verdt å ansette, er den som fordeler arbeid mellom mennesker og verktøy mens hen holder kvalitet, konfidensialitet, ansvarlighet og profesjonelt skjønn. Det er et produktivitetsargument, ført i den retningen balansen vanligvis overser ([[human-ai-collaboration|Menneske-AI-samarbeid]], [[governance|AI-styring]]).
+Uverifisert automatisering gir omarbeid, sikkerhetshendelser, diskriminerende beslutninger, [[legal-issues-and-risks|rettslig eksponering]], omdømmeskade og falsk trygghet, og hver av dem er en kostnad som produktivitetstallet ikke regnet med. Den ansatte som er verdt å ansette, er den som fordeler arbeid mellom mennesker og verktøy mens hen holder kvalitet, konfidensialitet, ansvarlighet og profesjonelt skjønn. Det er et produktivitetsargument, ført i den retningen balansen vanligvis overser ([[human-ai-collaboration|Menneske-AI-samarbeid]], [[governance|AI-styring]]).
 
 ## Svar på det studentene tror
 
@@ -244,7 +244,7 @@ Policytekst skaper ikke felles forståelse. Studenter og ansatte leser forventni
 
 ### «Lærernes motvilje er et opplæringsgap.»
 
-Noen ganger er det det. Beredskap er også arbeidsbelastning, [[learner-identity|profesjonell identitet]], faglige verdier, tvil om vurderingsvaliditet, tynn institusjonell støtte, usikkerhet om personvern og en begrunnet vurdering av at en bestemt anvendelse ikke tjener studentene. Kompetanseutvikling må derfor dekke praktisk kompetanse, pedagogisk integrering, formål og identitet, tid, policy, [[discipline-specific-aied|fagspesifikk]] bruk og muligheten for prinsipiell ikke-adopsjon. En engangs demonstrasjon av en funksjon løser ikke en profesjonell og organisatorisk endring ([[educational-development|Pedagogisk utvikling]]).
+Noen ganger er det det. Beredskap er også arbeidsbelastning, [[learner-identity|profesjonell identitet]], faglige verdier, tvil om vurderingsvaliditet, tynn institusjonell støtte, usikkerhet om personvern og en begrunnet vurdering av at en bestemt anvendelse ikke tjener studentene. Kompetanseutvikling må derfor dekke praktisk kompetanse, pedagogisk integrering, formål og identitet, tid, policy, [[discipline-specific-aied|fagspesifikk]] bruk og muligheten for prinsipiell ikke-adopsjon. En engangs demonstrasjon av en funksjon løser ikke en profesjonell og [[change-management|organisatorisk endring]] ([[educational-development|Pedagogisk utvikling]]).
 
 ### «Å fortelle folk de riktige fakta er nok.»
 
@@ -263,7 +263,7 @@ Den gjennomarbeidede versjonen, som du kan tilpasse til ethvert punkt på denne 
 > **Misoppfatning:** «En god AI-generert oppgave viser at studenten har lært.»
 > **Tilbakevisning:** «Det er ikke nødvendigvis sant. Produktet viser hva studenten og AI produserte sammen, men det avdekker ikke hvilket resonnement studenten utførte.»
 > **Erstatning:** «Læring vises bedre når studenten kan forklare, overføre, tilpasse og gjenskape kompetansen.»
-> **Anvendelse:** «Følg AI-assistert arbeid med en forklaring, en muntlig forsvarssamtale, en prosesslogg eller en anvendelse uten hjelp.»
+> **Anvendelse:** «Følg AI-assistert arbeid med en forklaring, [[oral-assessment|en muntlig forsvarssamtale]], en prosesslogg eller en anvendelse uten hjelp.»
 
 Erstatningen bærer vekten. Å fjerne en misoppfatning uten å levere en bedre forklaring, etterlater personen uten noe å tenke med, og den gamle oppfatningen kommer tilbake neste gang erfaringen bekrefter den.
 
@@ -289,7 +289,7 @@ Lærere overvurderte AI-kompetansen sin betraktelig når selvrapport møtte pres
 
 ### «Foreldre godtar ikke noe annet enn et forbud.»
 
-Foreldre spør om det som står foran barnet deres, er trygt, og om vitnemålet betyr noe. Svar direkte på de to, med spørsmålene om pedagogisk sikkerhet i stedet for innholdsfilteret, og forbudsargumentet mister kraften. Spørsmålet for styret er snevrere enn overskriften og lettere å forsvare.
+[[parents-and-families|Foreldre]] spør om det som står foran barnet deres, er trygt, og om vitnemålet betyr noe. Svar direkte på de to, med spørsmålene om pedagogisk sikkerhet i stedet for innholdsfilteret, og forbudsargumentet mister kraften. Spørsmålet for styret er snevrere enn overskriften og lettere å forsvare.
 
 ### «Vi kan ikke kjøre muntlige forsvar i et forelesningsemne av denne størrelsen.»
 

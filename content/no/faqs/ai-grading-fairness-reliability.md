@@ -1,9 +1,9 @@
 ---
 title: "Kan jeg bruke AI til å vurdere studentarbeid rettferdig og pålitelig?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -48,7 +48,7 @@ Tre ordninger kalles «AI-vurdering», og de har ulike forpliktelser.
 
 En **tilbakemeldingsassistent** skriver utkast til kommentarer eller flagger mulige utelatelser som du kan godta, skrive om eller forkaste. Risikoen er begrenset til kommentarkvaliteten, og du leser alt før det når en student. En **andrevurderer** foreslår kriteriepoeng eller flagger uenighet for å strukturere din egen sensur. Feilene må være nyttige, ikke bare gale: et flagg som sender deg tilbake til en innlevering du ellers ville ha sensurert uaktsomt, er verdt å ha. En **primærsensor** produserer poengsummer som blir registrerte karakterer. Det er ordningen evidensen i denne kunnskapsbasen ikke støtter ut over smale, lokalt validerte tilfeller.
 
-Velg det laveste trinnet som adresserer den faktiske begrensningen din. Hvis sensurbyrden din kommer fra å kontrollere en fast fasit, er vanlig deterministisk poenggiving mer gjennomsiktig og reviderbar enn en språkmodell, og farmasistudien antyder at språkmodellens fortrinn på objektive oppgaver delvis var en artefakt av at den fikk de riktige svarene under sensuren. Forbehold modellen til arbeid som krever tolkning, og kontroller deretter tolkningen.
+Velg det laveste trinnet som adresserer den faktiske begrensningen din. Hvis sensurbyrden din kommer fra å kontrollere en fast fasit, er vanlig deterministisk poenggiving mer gjennomsiktig og reviderbar enn en [[llm|språkmodell]], og farmasistudien antyder at språkmodellens fortrinn på objektive oppgaver delvis var en artefakt av at den fikk de riktige svarene under sensuren. Forbehold modellen til arbeid som krever tolkning, og kontroller deretter tolkningen.
 
 [[automated-assessment|Automatisert vurdering]] dekker det bredere maskineriet for poenggiving, moderering og generering av tilbakemelding. Denne siden er skjønnsspørsmålet som ligger under det.
 

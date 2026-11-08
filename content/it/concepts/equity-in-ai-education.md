@@ -10,7 +10,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: "concepts/equity-in-ai-education"
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -109,7 +109,7 @@ In una revisione di scoping di 394 studi sulla GenAI nell'istruzione superiore, 
 
 ## Popolazioni speciali ed equità globale
 
-- **Popolazioni speciali:** l'[[special-education|educazione speciale]], gli [[neurodivergent-computing-students|studenti neurodivergenti]], gli [[dyslexlens-dyslexic-learners-ai|studenti dislessici]] e gli [[special-education|studenti con disabilità]] rappresentano gruppi i cui bisogni sono spesso trascurati nella progettazione dei sistemi di IA.
+- **Popolazioni speciali:** l'[[inclusive-learning|educazione speciale]], gli [[neurodivergent-computing-students|studenti neurodivergenti]], gli [[dyslexlens-dyslexic-learners-ai|studenti dislessici]] e gli [[special-education|studenti con disabilità]] rappresentano gruppi i cui bisogni sono spesso trascurati nella progettazione dei sistemi di IA.
 - **Prospettive del Sud del mondo:** le [[suacode-african-students-motivations|motivazioni degli studenti africani]], la [[connected-ai-lesson-planning-vietnam|pianificazione delle lezioni con IA in Vietnam]] e l'[[pre-service-science-teachers-ai-perceptions-2026|accettazione degli insegnanti ghanesi]] forniscono prospettive del Sud del mondo spesso assenti dalla ricerca AIED occidentalo-centrica. A livello istituzionale, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] mostrano che l'integrazione dell'IA in 45 università nigeriane è guidata dall'età e dalla geografia dell'istituzione anziché dal tipo di governance, con legami di rete che si rafforzano e permettono alle istituzioni ben connesse di accumulare vantaggio — evidenza che i divari di equità sono riprodotti strutturalmente, non solo attraverso l'accesso individuale.
 - **Capacità globale:** l'evidenza documenta come i benefici dell'IA generativa siano distribuiti in modo non uniforme tra paesi e istituzioni, e le [[ai-lifelong-learning-policy|politiche di IA e apprendimento permanente]] affrontano i gradienti socioeconomici strutturali.
 - Una revisione PRISMA di 72 studi sulla valutazione nell'istruzione superiore ha trovato la base di evidenza concentrata geograficamente: Australia e Regno Unito fornivano insieme 31 dei 72 studi, e nessuno studio è stato identificato dal Sud America ([[higher-ed-assessments-genai-systematic-review|Crompton e Burke (2026)]]).

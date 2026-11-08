@@ -1,7 +1,7 @@
 ---
 title: "Bagaimana Saya Memeriksa Apakah Soal Kuis dan Ujian yang Dihasilkan AI Benar-Benar Baik?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -46,7 +46,7 @@ Jawaban singkat untuk diberikan kepada kolega: soal yang dihasilkan adalah kandi
 
 Pembuatan soal cukup murah sehingga format keluaran diam-diam menjadi spesifikasinya. Jika catatan Anda menghasilkan butir pilihan ganda yang rapi, Anda akhirnya mengukur apakah siswa dapat memilih di antara pernyataan yang masuk akal, apa pun capaian yang diklaim silabus.
 
-Tetapkan capaiannya lebih dahulu, lalu bukti yang akan diberikan respons yang memuaskan, lalu pengetahuan yang diharapkan dibawa siswa. Sertakan materi kuliah, miskonsepsi yang Anda perkirakan, alat yang diizinkan, dan format respons. Jika Anda ingin siswa menafsirkan bukti, butirnya harus menuntut interpretasi, dan menambahkan kata itu pada soal definisi tidak melakukannya. Skenario panjang pun masih bisa dijawab melalui satu frasa yang sudah dikenal yang membocorkan jawabannya.
+Tetapkan capaiannya lebih dahulu, lalu bukti yang akan diberikan respons yang memuaskan, lalu pengetahuan yang diharapkan dibawa siswa. Sertakan materi kuliah, [[misconceptions|miskonsepsi]] yang Anda perkirakan, alat yang diizinkan, dan format respons. Jika Anda ingin siswa menafsirkan bukti, butirnya harus menuntut interpretasi, dan menambahkan kata itu pada soal definisi tidak melakukannya. Skenario panjang pun masih bisa dijawab melalui satu frasa yang sudah dikenal yang membocorkan jawabannya.
 
 Kisi-kisi penilaian adalah tabel capaian terhadap butir, dan nilainya terletak pada kemampuannya menyingkap celah sebelum siswa menemukannya. Kisi-kisi juga membuat pertukaran itu terlihat: setiap butir yang Anda hasilkan dari materi termudah adalah butir yang tidak Anda belanjakan untuk capaian yang paling Anda pedulikan.
 
@@ -68,7 +68,7 @@ Model kedua dapat membantu Anda melihat masalah, dan kesepakatan antara dua mode
 
 ## Jangan biarkan label kesulitan memutuskan
 
-Literatur [[automated-question-generation|pembuatan soal]] lebih berguna soal kegagalan label daripada keberhasilan pembuatannya. [[student-llm-use-ai-question-difficulty-data-science-2026|An dan Wang (2026)]] meneliti 378 soal yang ditulis untuk mata kuliah ilmu data, 311 di antaranya digunakan pada 54 siswa dengan total 7.888 respons. Label mudah, sedang, dan sulit dari model berkorelasi dengan tingkat Bloom yang dihasilkannya sendiri pada ρ = 0,90 dan dengan kesulitan butir empiris pada ρ = 0,06. Sekitar 70% butir yang digunakan dijawab benar oleh setiap siswa, yang hampir tidak menyisakan variasi apa pun untuk dilacak label kesulitan bahkan secara prinsip.
+Literatur [[automated-question-generation|pembuatan soal]] lebih berguna soal kegagalan label daripada keberhasilan pembuatannya. [[student-llm-use-ai-question-difficulty-data-science-2026|An dan Wang (2026)]] meneliti 378 soal yang ditulis untuk mata kuliah ilmu data, 311 di antaranya digunakan pada 54 siswa dengan total 7.888 respons. Label mudah, sedang, dan sulit dari model berkorelasi dengan tingkat Bloom yang dihasilkannya sendiri pada ρ = 0,90 dan dengan [[item-response-theory|kesulitan butir]] empiris pada ρ = 0,06. Sekitar 70% butir yang digunakan dijawab benar oleh setiap siswa, yang hampir tidak menyisakan variasi apa pun untuk dilacak label kesulitan bahkan secara prinsip.
 
 Dua pelajaran mengikutinya. Pertama, kesulitan adalah sifat interaksi antara sebuah butir dan sebuah populasi, jadi tidak ada label yang dihasilkan sebelum butir diujikan dapat dipercaya sebagai nilai terukur. Kedua, bank butir yang dijawab benar oleh semua orang bukanlah penilaian yang mudah, melainkan penilaian yang tidak berguna: ia hampir tidak membawa informasi tentang siapa mengetahui apa.
 
@@ -91,6 +91,9 @@ Revisi, dan simpan catatannya: versi yang disetujui, capaian yang dilayaninya, k
 Dalam mata kuliah sosiologi pengantar, capaiannya mungkin membedakan penjelasan struktural dari penjelasan individual. Butir yang lemah meminta siswa mendefinisikan "struktural", yang mengukur pengenalan kosakata. Kandidat yang lebih kuat memberikan skenario singkat tentang sebuah keluarga dan keputusan kerja, lalu menanyakan penjelasan mana yang paling baik mengidentifikasi kendala struktural, dengan pengecoh yang mewakili interpretasi masuk akal tetapi berbeda.
 
 Pengajar memeriksa bahwa skenario itu benar-benar menopang kuncinya, bahwa tidak ada dua opsi yang menyatakan gagasan yang sama, dan bahwa menjawabnya tidak bergantung pada terminologi yang tidak pernah diperkenalkan di mata kuliah. Pertanyaan lanjutan satu baris, "detail mana yang menopang pilihan Anda?", menyingkap penalaran yang disembunyikan opsi terpilih. Adaptasi ini belum teruji sebagai format butir, dan nilainya lebih sempit: pertanyaan tinjauan di atas dapat dijawab sebelum butir diujikan, dan kunci yang buruk dapat diperbaiki sebelum siswa melihatnya.
+
+Ketika siswa menyatakan ketidaksukaan dalam skala besar, sinyal itu memiliki struktur. Dalam analisis 5.214.211 sesi atas soal latihan yang disajikan di dalam platform buku teks, jempol ke bawah muncul 2,00 per 1.000 sesi dibandingkan 3,31 jempol ke atas, dan hanya 22.844 dari 809.848 soal yang pernah menerima penilaian ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson dkk., 2025]]). Pola dalam suara itu tidak acak: soal yang meminta jawaban kata keterangan menarik 5,23 jempol ke bawah per 1.000 dibandingkan 1,76 untuk jawaban kata sifat, dan kepentingan kalimat (rasio odds 2,38) serta kemiripan teks jawaban (1,64) juga menggerakkan penilaian. Aturan praktis yang disetel para penulis adalah sekitar 1,62 ketidaksukaan per 1.000 ketika kedua sinyal kepentingan hadir. Poin praktisnya adalah bahwa penilaian siswa merupakan saluran pengukuran yang lambat tetapi nyata: platform yang menghapus soal yang berulang kali tidak disukai menutup lingkarannya, dan pengajar yang mengujicobakan beberapa butir mendapatkan sinyal yang sama lebih cepat dengan menanyakan detail mana yang diragukan siswa.
+
 
 Bagi siswa yang membuat soal latihan mereka sendiri, aturan yang sama berlaku pada tingkat mereka: kerjakan butirnya, periksa penjelasannya terhadap sumber mata kuliah, dan bawa kasus yang tidak dapat diselesaikan kepada orang yang menguasai bidangnya. [[study-with-ai|Latihan belajar]] yang melatih siswa menerima kunci hasil pembuatan secara tidak kritis mengajarkan kebiasaan yang salah.
 

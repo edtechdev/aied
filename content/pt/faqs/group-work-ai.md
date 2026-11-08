@@ -1,7 +1,7 @@
 ---
 title: "Como devo lidar com a IA em tarefas em grupo e colaborativas?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-01T11:35:49-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-01T07:10:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 A apresentação do grupo volta polida e coerente, e nenhum membro consegue explicar o argumento nela. Ou as notas saem iguais, e você descobre depois que um estudante passou o trabalho inteiro pela [[generative-ai|IA generativa]] enquanto três outros se apoiaram na nota compartilhada. Nada no arquivo lhe diz qual dos dois aconteceu, e sua rubrica tem uma linha de colaboração que todo mundo cumpriu.
 
-A resposta para dar a um colega: decida o lugar da IA por tarefa, e não por curso; faça a negociação do grupo sobre IA algo que eles entregam e você avalia; sequencie o trabalho para que ele não possa ser dividido em sessões paralelas de chatbot; e mantenha ao menos um componente que cada membro responde sozinho. Tudo isso é desenho de tarefa, e nada disso foi testado contra um controle sem IA, então você está fazendo um argumento de desenho, não aplicando uma solução comprovada.
+Aqui está a resposta: decida o lugar da IA por tarefa, e não por curso; faça a negociação do grupo sobre IA algo que eles entregam e você avalia; sequencie o trabalho para que ele não possa ser dividido em sessões paralelas de chatbot; e mantenha ao menos um componente que cada membro responde sozinho. Tudo isso é desenho de tarefa, e nada disso foi testado contra um controle sem IA, então você está fazendo um argumento de desenho, não aplicando uma solução comprovada.
 
 ## A versão curta
 
@@ -45,7 +45,7 @@ A resposta para dar a um colega: decida o lugar da IA por tarefa, e não por cur
 
 **3.** Proteja as etapas em que o grupo constrói compreensão compartilhada: o enquadramento, o desacordo, a reconciliação.
 
-**4.** Escolha a configuração de acesso de propósito. Uma interface compartilhada produz uso negociado e visível; o prompting privado produz fluxos que você não consegue ver.
+**4.** Escolha a configuração de acesso de propósito. Uma interface compartilhada produz uso negociado e visível; o [[prompt-engineering|prompting]] privado produz fluxos que você não consegue ver.
 
 **5.** Mantenha um componente que cada membro responde sozinho, e faça dele compreensão, não autoria.
 
@@ -53,9 +53,9 @@ A resposta para dar a um colega: decida o lugar da IA por tarefa, e não por cur
 
 ## Escreva a permissão por fase, não por curso
 
-[[chen-zou-genai-group-assessment-agency-2026|Chen e Zou (2026)]] estudaram grupos de três a cinco pessoas entregando uma apresentação que valia 30% da nota, sob uma política institucional de "usar somente com reconhecimento explícito". O GenAI era permitido para geração de ideias, polimento da linguagem, diagramação visual e roteirização. Dentro dessa única política permissiva, os grupos chegaram a conclusões opostas, com raciocínio defensável de cada lado, e o desenho da tarefa moldou qual conclusão o grupo alcançava. O estudo é com 52 professores em formação inicial num único curso, e os autores pedem que seus padrões sejam lidos como respostas possíveis ao desenho, e não como uma distribuição que você deveria esperar. Uma regra no nível do curso não determina o que um grupo faz.
+[[chen-zou-genai-group-assessment-agency-2026|Chen e Zou (2026)]] estudaram grupos de três a cinco pessoas entregando uma apresentação que valia 30% da nota, sob uma [[educational-policy-ai|política institucional]] de "usar somente com reconhecimento explícito". O GenAI era permitido para geração de ideias, polimento da linguagem, diagramação visual e roteirização. Dentro dessa única política permissiva, os grupos chegaram a conclusões opostas, com raciocínio defensável de cada lado, e o desenho da tarefa moldou qual conclusão o grupo alcançava. O estudo é com 52 professores em formação inicial num único curso, e os autores pedem que seus padrões sejam lidos como respostas possíveis ao desenho, e não como uma distribuição que você deveria esperar. Uma regra no nível do curso não determina o que um grupo faz.
 
-Então escreva a permissão no nível do artefato. Nomeie as fases abertas à IA e as fases que devem ser trabalhadas sem ela, e diga aos estudantes por que a linha fica ali. A lógica de desenho da revisão de escopo aponta na mesma direção: se a comunicação mediada por IA comprime a negociação e a construção coletiva de sentido, então os segmentos em que um grupo constrói compreensão compartilhada são os que vale a pena proteger ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei e Perkins, 2026]]).
+Então escreva a permissão no nível do artefato. Nomeie as fases abertas à IA e as fases que devem ser trabalhadas sem ela, e diga aos estudantes por que a linha fica ali. A lógica de desenho da [[meta-analysis-systematic-review|revisão de escopo]] aponta na mesma direção: se a comunicação mediada por IA comprime a negociação e a construção coletiva de sentido, então os segmentos em que um grupo constrói compreensão compartilhada são os que vale a pena proteger ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei e Perkins, 2026]]).
 
 Seja honesto sobre o fundamento na reunião de equipe. Nenhuma das duas revisões afirma que reter a IA melhora resultados de aprendizagem. Esse argumento se apoia na estrutura do trade-off abaixo, não numa comparação medida.
 
@@ -63,11 +63,11 @@ Seja honesto sobre o fundamento na reunião de equipe. Nenhuma das duas revisõe
 
 O argumento central de desenho de Chen e Zou é que a negociação do uso aceitável de GenAI deveria ela mesma se tornar um resultado explícito e avaliável. As equipes deveriam justificar e documentar coletivamente como o GenAI será e não será usado, em vez de deixar a norma à pressão dos pares ou ao risco percebido. Esse artefato só existe se o grupo de fato conversou, e é isso que o torna digno de pontos: ele converte uma regra não aplicável em julgamento estudantil revisável.
 
-Duas razões explicam por que os grupos intensificam o uso, e as duas respondem sensatamente a uma nota compartilhada. Desempenho: os estudantes leram os critérios e os referenciais dos pares e usaram IA para proteger sua parte da nota. Segurança percebida por meio de normas: um clima coletivo permissivo reduziu o [[ai-misuse-learning-harm|risco de uso indevido]] sentido, então os grupos usaram a ferramenta mais abertamente e, no caso orientado à cooperação, de forma mais dependente. Se você quer transparência, uma norma de sala declarada é mais eficaz do que um aviso.
+Duas razões explicam por que os grupos intensificam o uso, e as duas respondem sensatamente a uma nota compartilhada. Desempenho: os estudantes leram os critérios e os [[benchmark|referenciais]] dos pares e usaram IA para proteger sua parte da nota. Segurança percebida por meio de normas: um clima coletivo permissivo reduziu o [[ai-misuse-learning-harm|risco de uso indevido]] sentido, então os grupos usaram a ferramenta mais abertamente e, no caso orientado à cooperação, de forma mais dependente. Se você quer transparência, uma norma de sala declarada é mais eficaz do que um aviso.
 
 Peça o negativo tanto quanto o positivo. Uma declaração que registra o que o grupo decidiu não fazer, e por quê, lhe diz mais do que uma lista de ferramentas. Ela também dá a um grupo que discorda um lugar onde colocar a discordância, o que costuma ser a parte difícil já resolvida.
 
-Não presuma que o documento reflita uma compreensão compartilhada. [[genai-group-writing-strategies-2026|Korchak, Costley e Fanguy (2026)]] entrevistaram 10 estudantes de pós-graduação de 23 a 39 anos (média 27,7) num curso de escrita científica, onde os grupos usaram GenAI por meio de estratégias pré-planejadas ou de interações abertas, conduzidas individualmente e coordenadas em documentos compartilhados. Um uso distintivo foi o GenAI como integrador editorial, fundindo seções paralelas em texto coerente. Sua observação mais incisiva: os relatos dos estudantes às vezes contradiziam suas próprias reflexões escritas, e um estudante negou ter uma estratégia de grupo enquanto descrevia uma por escrito. Uma estratégia que não é igualmente visível para cada membro também não é confiável para você.
+Não presuma que o documento reflita uma compreensão compartilhada. [[genai-group-writing-strategies-2026|Korchak, Costley e Fanguy (2026)]] entrevistaram 10 estudantes de pós-graduação de 23 a 39 anos (média 27,7) num curso de escrita científica, onde os grupos usaram GenAI por meio de estratégias pré-planejadas ou de interações abertas, conduzidas individualmente e coordenadas em documentos compartilhados. Um uso distintivo foi o GenAI como integrador editorial, fundindo seções paralelas em texto coerente. Sua observação mais incisiva: os relatos dos estudantes às vezes contradiziam suas próprias [[reflection|reflexões]] escritas, e um estudante negou ter uma estratégia de grupo enquanto descrevia uma por escrito. Uma estratégia que não é igualmente visível para cada membro também não é confiável para você.
 
 ## Sequencie o trabalho para que ele não possa ser dividido
 
@@ -87,19 +87,19 @@ A diferença prática é se o prompt é um artefato do grupo. Um documento compa
 
 ## Mantenha uma parte que cada membro responde sozinho
 
-Pareie a nota do grupo com um componente individual: uma defesa oral da própria compreensão, ou uma explicação escrita de qualquer seção que o estudante não redigiu. Essa também é a resposta honesta ao problema do carona, porque avalia compreensão e não autoria, e compreensão é aquilo de que a nota de grupo sempre foi um proxy.
+Pareie a nota do grupo com um componente individual: uma [[oral-assessment|defesa oral]] da própria compreensão, ou uma explicação escrita de qualquer seção que o estudante não redigiu. Essa também é a resposta honesta ao problema do carona, porque avalia compreensão e não autoria, e compreensão é aquilo de que a nota de grupo sempre foi um proxy.
 
 [[llm-critical-thinking-teamwork-review|Martínez-Peláez e colegas (2025)]] triaram 203 estudos de 2023 e 2024 na Web of Science Core Collection e incluíram 22 sob um protocolo PRISMA 2020 registrado no PROSPERO. Eles descrevem os LLMs atuando como catalisadores da [[collaborative-learning|colaboração]]: geração de ideias, organização, [[peer-assessment|feedback entre pares]], avaliações simuladas baseadas em rubrica e revisões de especialistas, e barreiras de participação mais baixas. Para [[problem-solving|resolução de problemas]], relatam ajuda com soluções alternativas, perspectivas interdisciplinares e cenários autênticos. Também observam uma inversão útil: os LLMs muitas vezes produzem respostas incompletas ou incorretas, o que empurra os estudantes a questionar, verificar e melhorar o material. Essa troca é o que escutar no ponto de verificação individual.
 
-Suas limitações viajam junto com a citação: uma única base de dados, apenas artigos de periódico, nenhuma atenção a ética ou privacidade, os dois primeiros anos da tecnologia e nenhum instrumento de risco de viés aplicado. Leia "catalisadores" como descrição da prática observada, não como resultado medido.
+Suas limitações viajam junto com a citação: uma única base de dados, apenas artigos de periódico, nenhuma atenção a [[ethics|ética]] ou privacidade, os dois primeiros anos da tecnologia e nenhum instrumento de risco de viés aplicado. Leia "catalisadores" como descrição da prática observada, não como resultado medido.
 
 A detecção é o instrumento errado para separar contribuições individuais: nenhum destes seis estudos testa detectores em contextos de grupo, e os problemas da detecção no nível individual estão documentados em outro lugar desta base de conhecimento. A contenção precisa ser interpretada antes de ser corrigida. Chen e Zou advertem que um grupo que recusa a IA pode estar evitando algo desconhecido em vez de exercer [[self-regulated-learning|autorregulação]] deliberada, e as duas situações pedem respostas diferentes: uma é um problema de ensino, a outra é uma posição refletida que você pode avaliar.
 
-Colegas simulados também não resolvem a questão. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] ajustou agentes LLM com diálogo real de participantes (adaptadores LoRA/QLoRA em LLaMA 3.2-3B) para modelar 48 participantes ao longo de 3.824 turnos e seis códigos temáticos, e então comparou o discurso real e o simulado com Análise de Rede Epistêmica. A rede simulada alcançou uma distância de 0,17 da rede empírica, abaixo do limiar de 0,30, com valor de p de permutação de 0,65, estatisticamente indistinguível, embora tenha enfatizado ligeiramente demais as ligações de Restrições Técnicas e Design e sub-representado Parâmetros de Dados e Desempenho. É um artigo de arcabouço, com confiança média, e sustenta uma afirmação: agentes específicos de participantes conseguem reproduzir discurso colaborativo realista. Não mostra que estudantes aprendem mais com colegas simulados.
+Colegas simulados também não resolvem a questão. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] ajustou agentes [[llm|LLM]] com diálogo real de participantes (adaptadores [[llm-training-and-fine-tuning|LoRA]]/QLoRA em LLaMA 3.2-3B) para modelar 48 participantes ao longo de 3.824 turnos e seis códigos temáticos, e então comparou o discurso real e o simulado com [[network-analysis|Análise de Rede Epistêmica]]. A rede simulada alcançou uma distância de 0,17 da rede empírica, abaixo do limiar de 0,30, com valor de p de permutação de 0,65, estatisticamente indistinguível, embora tenha enfatizado ligeiramente demais as ligações de Restrições Técnicas e Design e sub-representado Parâmetros de Dados e Desempenho. É um artigo de arcabouço, com confiança média, e sustenta uma afirmação: agentes específicos de participantes conseguem reproduzir discurso colaborativo realista. Não mostra que estudantes aprendem mais com colegas simulados.
 
 ## Forme os grupos pelo que os membros acreditam, não por quem é amigo
 
-Se a IA se torna um ponto de referência compartilhado ou apenas uma consulta depende em parte de quanto seus grupos já concordam. No estudo de [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], quatorze grupos de professores em formação realizaram uma investigação por simulação de 60 minutos com um chatbot metacognitivo sob demanda. Grupos cujos membros tinham [[prior-knowledge|concepções prévias]] diferentes sobre a física encaminhavam o uso da IA por meio de conversa conceitual, com a IA no centro de sua rede de interação; grupos que já concordavam seguiram um caminho linear de pergunta e resposta e sustentaram avaliação negativa do resultado, o que os autores atribuem em parte a prompts proativos que chegavam depois de o consenso já ter se formado. Os dois tipos de grupo faziam os mesmos tipos de perguntas, então o que mudou foi a [[collaborative-learning|apropriação, não o volume]].
+Se a IA se torna um ponto de referência compartilhado ou apenas uma consulta depende em parte de quanto seus grupos já concordam. No estudo de [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], quatorze grupos de [[teacher-role|professores em formação]] realizaram uma investigação por simulação de 60 minutos com um chatbot [[metacognition|metacognitivo]] sob demanda. Grupos cujos membros tinham [[prior-knowledge|concepções prévias]] diferentes sobre a física encaminhavam o uso da IA por meio de conversa conceitual, com a IA no centro de sua rede de interação; grupos que já concordavam seguiram um caminho linear de pergunta e resposta e sustentaram avaliação negativa do resultado, o que os autores atribuem em parte a prompts proativos que chegavam depois de o consenso já ter se formado. Os dois tipos de grupo faziam os mesmos tipos de perguntas, então o que mudou foi a [[collaborative-learning|apropriação, não o volume]].
 
 Duas medidas decorrem disso, e ambas são baratas:
 

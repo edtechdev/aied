@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:34:18-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Det är vecka sex. Du har en trave utkast, en bedömningsmatris du tror på och en växande misstanke om att en tredjedel av dina kommentarer skummas och glöms. En kollega nämner att ett verktyg nu kommenterar varje utkast inom timmen. Institutionsmötet behöver ett svar: är det här en uppgradering, eller ett snabbare sätt att producera text som ingen läser?
 
-Kort svar att ge en kollega: AI-återkoppling förtjänar sin plats genom täckning, timing och konsekvens, inom ett snävt band. Språkarbete på korrekturläsningsnivå och matrisstyrda förstakommentarer är värda att automatisera. Räckvidden är det billiga. I ett klusterrandomiserat experiment med 1 176 förstaårsstudenter slog reflekterande och hybrida designer direkt AI-kritik på fördröjd [[transfer-of-learning|transfer]] utan AI. I ett randomiserat uppsatssexperiment med 70 studenter gav bättre betygsatt AI-återkoppling inte bättre revisioner än en erfaren lärares. Vad en student gör med en kommentar avgör utfallet, och [[feedback-literacy|återkopplingskompetens]] skiljer de studenter som vinner något från dem som kopierar.
+Här är det korta svaret: AI-återkoppling förtjänar sin plats genom täckning, timing och konsekvens, inom ett snävt band. Språkarbete på korrekturläsningsnivå och matrisstyrda förstakommentarer är värda att automatisera. Räckvidden är det billiga. I ett klusterrandomiserat experiment med 1 176 förstaårsstudenter slog reflekterande och hybrida designer direkt AI-kritik på fördröjd [[transfer-of-learning|transfer]] utan AI. I ett randomiserat uppsatssexperiment med 70 studenter gav bättre betygsatt AI-återkoppling inte bättre revisioner än en erfaren [[teacher-role|lärares]]. Vad en student gör med en kommentar avgör utfallet, och [[feedback-literacy|återkopplingskompetens]] skiljer de studenter som vinner något från dem som kopierar.
 
 ## Kortversionen
 
@@ -38,7 +38,7 @@ Kort svar att ge en kollega: AI-återkoppling förtjänar sin plats genom täckn
 
 **2.** Sortera dina egna kommentarer i språkliga rättelser och bedömningsmässiga ställningstaganden. Bara den första kategorin är en kandidat för automatisering.
 
-**3.** Trappa källorna. Självvärdering först, kamratåterkoppling sedan, AI-kritik sist. Två källor sida vid sida ger passivt upptag.
+**3.** Trappa källorna. Självvärdering först, [[peer-assessment|kamratåterkoppling]] sedan, AI-kritik sist. Två källor sida vid sida ger passivt upptag.
 
 **4.** Ge modellen din bedömningsmatris och låt den resonera steg för steg. En bar instruktion ger generisk output.
 
@@ -50,7 +50,7 @@ Kort svar att ge en kollega: AI-återkoppling förtjänar sin plats genom täckn
 
 Det frestande måttet är kvaliteten på det modellen skriver. Det är också måttet som vilseleder.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia m.fl. (2026)]] randomiserade 70 studenter som skrev argumenterande uppsatser på persiska i tre grupper. Chain-of-thought-promptning gav signifikant högre betygsatt återkoppling (M = 12,90) än zero-shot-promptning (M = 11,25, p = 0,01) och än en erfaren mänsklig lärare (M = 11,20, p = 0,008). Chain-of-thought-gruppen reviderade inte sina uppsatser signifikant mer än gruppen med läraråterkoppling, som uppnådde jämförbara vinster. Bättre kommentarer, samma revisioner. Om ditt framgångskriterium är kommentarkvalitet läses den studien som en vinst. Om det är vad som förändrades i uppsatsen gör den inte det.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia m.fl. (2026)]] randomiserade 70 studenter som skrev argumenterande uppsatser på persiska i tre grupper. Chain-of-thought-[[prompt-engineering|promptning]] gav signifikant högre betygsatt återkoppling (M = 12,90) än zero-shot-promptning (M = 11,25, p = 0,01) och än en erfaren mänsklig lärare (M = 11,20, p = 0,008). Chain-of-thought-gruppen reviderade inte sina uppsatser signifikant mer än gruppen med läraråterkoppling, som uppnådde jämförbara vinster. Bättre kommentarer, samma revisioner. Om ditt framgångskriterium är kommentarkvalitet läses den studien som en vinst. Om det är vad som förändrades i uppsatsen gör den inte det.
 
 Två andra signaler smickrar en pilot som går dåligt, så bestäm dem i förväg. Studentnöjdhet är en. I Deakins universitetsövergripande pilot som rapporteras av [[tubino-adachi-ai-automated-feedback-literacy|Tubino och Adachi (2022)]] samexisterade positiva genomsnittsbetyg med fel som studenterna flaggade, så en leendeskalenkät är inte evidens för träffsäkerhet. Användning är den andra. Deakinverktyget var frivilligt, och användningen låg i genomsnitt på omkring 13 % av grundstudenterna och 12 % av studenterna på avancerad nivå trots att nästan 4 000 studenter hade tillgång. Proaktiva, högpresterande studenter använde det mer. Det är vad du får för att göra ett verktyg tillgängligt.
 
@@ -72,7 +72,7 @@ Den reflekterande betingelsen krävde självvärdering före AI-kritik. Hybriden
 
 Mekanismen förklarar varför sekvenseringen spelar större roll än verktyget. Direkt kritik inbjuder till passivt upptag: studenten läser en dom och tillämpar den. Reflekterande och hybrida designer tvingar studenten att tolka kommentaren, jämföra den mot kriterier, bedöma dess relevans och sedan revidera. Utbildningsvärdet beror mindre på AI-tillgång än på huruvida återkopplingsmiljön bevarar [[agency|studentens agens]] och [[evaluative-judgment|bedömningsomdöme]] under revisionen.
 
-Kamratåterkoppling förtjänar sin egen plats i sekvensen. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen och Yan (2026)]] körde två parallella engelskkurser (N = 118 förstaårsstudenter i Kina; GenAI n = 56, kamrater n = 62) genom tre självbedömningscykler under en termin. GenAI-stöttning förbättrade återkopplingskompetensen något men signifikant jämfört med mänsklig kamratgranskning (ANCOVA p = 0,049, ηp² = 0,03). GenAI-studenterna förfinade promptar iterativt och verifierade eller utmanade felaktig output. Studenterna i kamratgruppen valde källor efter social bekvämlighet och fick sitt bedömningsomdöme förvrängt av vänskapsbias. Kamratgranskning behöll ett distinkt värde för målgruppsmedvetenhet, vilket är varför författarna föreslår flerstegsdesigner med anonym kamratåterkoppling snarare än en ersättning.
+Kamratåterkoppling förtjänar sin egen plats i sekvensen. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen och Yan (2026)]] körde två parallella engelskkurser (N = 118 förstaårsstudenter i Kina; GenAI n = 56, kamrater n = 62) genom tre [[self-assessment|självbedömningscykler]] under en termin. GenAI-[[scaffolding|stöttning]] förbättrade återkopplingskompetensen något men signifikant jämfört med mänsklig kamratgranskning (ANCOVA p = 0,049, ηp² = 0,03). GenAI-studenterna förfinade promptar iterativt och verifierade eller utmanade felaktig output. Studenterna i kamratgruppen valde källor efter social bekvämlighet och fick sitt bedömningsomdöme förvrängt av vänskapsbias. Kamratgranskning behöll ett distinkt värde för målgruppsmedvetenhet, vilket är varför författarna föreslår flerstegsdesigner med anonym kamratåterkoppling snarare än en ersättning.
 
 Gu m.fl.:s fördel var liten, och de läste den som verklig men inte transformativ i sig. Lärarstöttning, promptriktlinjer och arbetsblad gjorde det bärande arbetet.
 
@@ -80,15 +80,15 @@ Gu m.fl.:s fördel var liten, och de läste den som verklig men inte transformat
 
 Matrisrefererad generering är den automatiserbara delen.
 
-Farrokhnia m.fl.:s kvalitetsvinst kom från en chain-of-thought-prompt som ledde modellen genom en steg-för-steg-utvärdering mot en argumentationsmatris, inte från en bar instruktion att ge återkoppling. Gu m.fl. gav sin GenAI-grupp ChatGPT-4o med förtränade matriser och promptriktlinjer, vilket är det som gjorde outputen kontrollerbar mot angivna kriterier. I båda fallen är prompten där dina kriterier kommer in i systemet, och resonemangsspåret är det som låter dig se om modellen tillämpade dem.
+Farrokhnia m.fl.:s kvalitetsvinst kom från en chain-of-thought-prompt som ledde modellen genom en steg-för-steg-utvärdering mot en argumentationsmatris, inte från en bar instruktion att ge återkoppling. Gu m.fl. gav sin GenAI-grupp [[generative-ai|ChatGPT]]-4o med förtränade matriser och promptriktlinjer, vilket är det som gjorde outputen kontrollerbar mot angivna kriterier. I båda fallen är prompten där dina kriterier kommer in i systemet, och resonemangsspåret är det som låter dig se om modellen tillämpade dem.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson och Yan (2025)]] gör promptkvaliteten till hela processens gångjärn. Vaga promptar ger generisk, oanvändbar output, och genererade kommentarer kan vara hallucinerade, partiska eller överlappande, vilket skjuter bedömningsomdömet tillbaka på läsaren. Kalibreringen är ännu skarpare. Hos Farrokhnia m.fl. var GenAI-återkopplingens kvalitet signifikant associerad med styrkan i en students första utkast, medan läraråterkopplingens kvalitet inte var det. Läraren kalibrerade mer konsekvent. Volym skalar. Kalibrering gör det inte.
 
 ## Behåll sista ordet och protokollet hos en människa
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma och Cobos (2026)]] beskriver AICoFE, som kör tre oberoende finjusterade modeller (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) över matrispoäng och kvalitativa observationer för att producera oberoende utkastkommentarer. Läraren sammanställer sedan det slutliga meddelandet genom att välja meningar eller stycken, med en förklaring som visar vilken modell som bidrog med vad. Modellen skriver utkastet. Läraren levererar, och det levererade undertecknas av en person som läste utkastet.
+[[becerra-aicofe-feedback-2026|Becerra, Palma och Cobos (2026)]] beskriver AICoFE, som kör tre oberoende finjusterade modeller (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) över matrispoäng och [[qualitative-research|kvalitativa]] observationer för att producera oberoende utkastkommentarer. Läraren sammanställer sedan det slutliga meddelandet genom att välja meningar eller stycken, med en förklaring som visar vilken modell som bidrog med vad. Modellen skriver utkastet. Läraren levererar, och det levererade undertecknas av en person som läste utkastet.
 
-Aldino m.fl. finner samma mönster med stöd först och verifiering sedan i vanlig praktik. Maskininlärningskomponenten flaggade oftast ”Uppfyller lärandemålet” som saknat (20 av 21 lärare hade utelämnat det; 16 accepterade flaggan) och ”Elev-lärarrelation” (14 utelämnade; 12 accepterade). Lärarna avgjorde varje förslag med professionellt omdöme, vilket är poängen med att sätta dem i loopen.
+Aldino m.fl. finner samma mönster med stöd först och verifiering sedan i vanlig praktik. [[machine-learning|Maskininlärningskomponenten]] flaggade oftast ”Uppfyller lärandemålet” som saknat (20 av 21 lärare hade utelämnat det; 16 accepterade flaggan) och ”Elev-lärarrelation” (14 utelämnade; 12 accepterade). Lärarna avgjorde varje förslag med professionellt omdöme, vilket är poängen med att sätta dem i loopen.
 
 Tolv av Aldino m.fl.:s 21 lärare gjorde ytterligare revisioner på meningsnivå, och det dominerande mönstret var att kalibrera tonen: skriva ned beröm (f = 11), ta bort förslag (f = 9), ta bort uppmuntran (f = 8). Revisionerna klustrade i den relationella dimensionen, särskilt Elev-lärarrelation (f = 24). De skyddade autenticitet och professionell röst, och det arbetet automatiseras inte.
 
@@ -118,7 +118,7 @@ Nöjdhetsbetyg säger dig att kommentarerna är träffsäkra. I Deakin-piloten s
 
 ## Vad som kommer att slå tillbaka mot dig
 
-**”AI-återkoppling är inte personlig.”** Ofta sant, och det är skälet att behålla sista ordet hos en människa. AICoFE finns för att generisk modellprosa inte är vad en student bör få: läraren väljer, redigerar och undertecknar det slutliga meddelandet. De 21 lärarna hos Aldino m.fl. skrev om tonen av samma skäl. Personaliseringen är ditt jobb i den här designen, och modellen gör förarbetet.
+**”AI-återkoppling är inte personlig.”** Ofta sant, och det är skälet att behålla sista ordet hos en människa. AICoFE finns för att generisk modellprosa inte är vad en student bör få: läraren väljer, redigerar och undertecknar det slutliga meddelandet. De 21 lärarna hos Aldino m.fl. skrev om tonen av samma skäl. [[personalized-learning|Personaliseringen]] är ditt jobb i den här designen, och modellen gör förarbetet.
 
 **”Mina studenter läser ändå inte återkoppling.”** De läser mindre än vi hoppas, och evidensen säger att åtgärden är design snarare än volym. Upptaget i Deakin-piloten låg på omkring 13 % och 12 %. Farrokhnia m.fl.:s högre betygsatta kommentarer gav ingen extra revision. Det som flyttade nålen var sekvensering som tvingar fram engagemang, självvärdering sedan kamratåterkoppling sedan AI-kritik, plus tre revisionscykler under en termin som gav mätbara skillnader i återkopplingskompetens.
 

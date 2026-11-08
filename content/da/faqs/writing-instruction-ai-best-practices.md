@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Du sidder og skriver et opgaveark om, og sætningen foran dig siger, at AI er tilladt, hvis brugen angives, hvilket ikke fortæller den studerende noget som helst om, hvorvidt værktøjet må levere selve argumentet. En kollega har foreslået et forbud for hele kurset, og du har en mistanke om, at det rammer de flersprogede skribenter i lokalet hårdest. Eller også er en bunke opgaver kommet tilbage med en glattere formulering end den seminardiskussion, der lå bag dem, og du har brug for en regel, du kan forsvare på næste møde om kursusplanlægning.
+Du sidder og skriver et opgaveark om, og sætningen foran dig siger, at AI er tilladt, hvis brugen angives, hvilket ikke fortæller den studerende noget som helst om, hvorvidt værktøjet må levere selve argumentet. En kollega har foreslået et forbud for hele kurset, og du har en mistanke om, at det rammer de flersprogede skribenter i lokalet hårdest. Eller også er en bunke opgaver kommet tilbage med en glattere formulering end den seminardiskussion, der lå bag dem, og du har brug for en regel, du kan forsvare på næste møde om [[curriculum-design|kursusplanlægning]].
 
 Kernen i sagen: navngiv det intellektuelle arbejde, som opgaven findes for at frembringe, behold det trin hos den studerende, og giv værktøjet opgaver, der returnerer noget, den studerende skal bedømme. En regel skrevet på den måde fortæller den studerende, hvilket trin den beskytter.
 
@@ -78,7 +78,7 @@ En sekvens, der er værd at låne, holder AI i en konsulentrolle og placerer ræ
 | **8. Revidere** | Foretage og begrunde substantielle ændringer | Afprøve klarhed, tilbyde alternativer | Revision |
 | **9. Verificere** | Kontrollere enhver faktuel eller kildeafhængig påstand | Kan ikke verificere sit eget output | Kilder og evidens |
 | **10. Reflektere og redegøre** | Forklare AI's rolle og hvad der ændrede sig i deres tænkning | Intet | Kort procesrefleksion |
-| **11. Uafhængig kontrol** | Forklare eller anvende ræsonnementet uden AI | Intet | Mundtligt forsvar, hurtigskrivning, ny case |
+| **11. Uafhængig kontrol** | Forklare eller anvende ræsonnementet uden AI | Intet | [[oral-assessment|Mundtligt forsvar]], hurtigskrivning, ny case |
 
 Dette er [[pairr-ai-peer-review-2025|PAIRR]] i udvidet form: udkast, menneskelig feedback, AI-feedback, sammenligning, revision, refleksion, med en uafhængig baseline og en strammere grænse omkring ræsonnementet. Brug den midterste kolonne som selve opgaven og den højre kolonne som det, en karakter kan hvile på.
 
@@ -89,6 +89,9 @@ Elleve rækker er mere, end de fleste opgaver har brug for. Skær tabellen ned t
 Det største klasseværelsesstudie her er [[pairr-ai-peer-review-2025|PAIRR]]: 654 studerende på tværs af ti skrivekurser og tre skriveintensive [[stem-education|STEM]]-kurser. De skrev udkast, gennemførte [[peer-assessment|peer-vurdering]], indhentede rubrikbaseret AI-feedback, sammenlignede og vurderede begge kilder, skrev revisionsplaner, reviderede og reflekterede. Otteoghalvtreds procent foretrak kombineret peer- og AI-feedback. Seks procent foretrak AI-feedback alene. De studerende fandt AI nyttig til bred rubrikorienteret revisionsrådgivning, og peerne leverede kontekstuel viden og en autentisk målgrupperespons.
 
 Vær præcis med påstanden. PAIRR målte de studerendes oplevelse og vurdering af feedback, ikke [[learning-gains|læringsudbytte]] på lang sigt, så det er stærk evidens for et feedbackdesign og svagere evidens for, at skrivningen bliver bedre måneder senere. Behold peer-trinnet, også når AI-trinnet er hurtigere. En stor del af arbejdet med [[feedback]] sker i sammenligningen mellem de to kilder, og hvis man dropper den, fjerner man netop den del, de studerende sagde, de værdsatte.
+
+Værktøjet selv kan designes til at beskytte ræsonnementstrinnet. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] byggede MAIKE, en [[socratic-method|sokratisk]] chatbot, der diagnosticerer argumenter og stiller målrettede spørgsmål uden at generere essaytekst. I en klasserumsundersøgelse med 65 gymnasieelever brugte MAIKE-brugere flere ture på dialog på idéniveau end kontrolbrugerne (56 % mod 44 %) og bevægede sig mellem diskussion og redigering; omkring 40 % af de studerende forbedrede deres essaykarakterer. Undersøgelsen viste ikke en samlet karakterfordel over for kontrollen, så behandl den som en designdemonstration af at forbinde samtale med revision, ikke som bevis for, at chatboten hæver skrivekvaliteten.
+
 
 ## Bedøm, hvad den studerende gjorde med feedbacken
 

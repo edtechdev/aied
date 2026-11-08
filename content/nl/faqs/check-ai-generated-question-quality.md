@@ -1,7 +1,7 @@
 ---
 title: "Hoe controleer ik of door AI gegenereerde quiz- en examenvragen echt goed zijn?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 U vraagt twintig vragen op basis van uw hoorcollegeaantekeningen. Ze komen terug met antwoordsleutels, uitleg, moeilijkheidslabels en categorieën uit de taxonomie van Bloom, in een opgemaakt document dat af lijkt. Uw naam komt er straks op te staan.
 
-Kort antwoord voor een collega: gegenereerde vragen zijn kandidaten, geen beoordeling. Los elke vraag zelf op, controleer wat het item van een student werkelijk vraagt, en zoek uit hoe studenten erop reageren voordat het meetelt. In de twee grootste studies in deze kennisbank is het interessante signaal niet dat generatie werkt, maar waar ze faalt. Iteratieve generatie binnen een vakspecifieke workflow leverde bruikbare multiplechoice-examens op in 71 collegeklassen ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In een data-science-audit van 311 ingezette vragen volgden de moeilijkheidslabels van het model bijna perfect de Blooms-niveaus die het er zelf bij had gegenereerd (Spearman ρ = 0,90), terwijl ze met wat studenten werkelijk scoorden op ρ = 0,06 zaten ([[student-llm-use-ai-question-difficulty-data-science-2026|An en Wang, 2026]]). Het label was een beschrijving van de prompt, geen meting van het item.
+Hier is het korte antwoord: gegenereerde vragen zijn kandidaten, geen beoordeling. Los elke vraag zelf op, controleer wat het item van een student werkelijk vraagt, en zoek uit hoe studenten erop reageren voordat het meetelt. In de twee grootste studies in deze kennisbank is het interessante signaal niet dat generatie werkt, maar waar ze faalt. Iteratieve generatie binnen een vakspecifieke workflow leverde bruikbare multiplechoice-examens op in 71 collegeklassen ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In een data-science-audit van 311 ingezette vragen volgden de moeilijkheidslabels van het model bijna perfect de Blooms-niveaus die het er zelf bij had gegenereerd (Spearman ρ = 0,90), terwijl ze met wat studenten werkelijk scoorden op ρ = 0,06 zaten ([[student-llm-use-ai-question-difficulty-data-science-2026|An en Wang, 2026]]). Het label was een beschrijving van de prompt, geen meting van het item.
 
 ## De korte versie
 
@@ -46,7 +46,7 @@ Kort antwoord voor een collega: gegenereerde vragen zijn kandidaten, geen beoord
 
 Generatie is goedkoop genoeg dat het uitvoerformaat stilletjes de specificatie wordt. Als uw aantekeningen nette multiplechoice-items opleveren, meet u uiteindelijk of studenten tussen plausibele uitspraken kunnen kiezen, welke uitkomst het studieprogramma ook claimt.
 
-Specificeer eerst de uitkomst, dan het bewijs dat een bevredigend antwoord zou leveren, dan de kennis die studenten wordt geacht mee te brengen. Neem het cursusmateriaal op, de misvattingen die u verwacht, toegestane hulpmiddelen en het antwoordformaat. Wilt u dat studenten bewijs interpreteren, dan moet het item interpretatie vragen, en het woord aan een definitievraag toevoegen doet dat niet. Een lang scenario kan nog steeds beantwoordbaar zijn via één bekende formule die het antwoord verraadt.
+Specificeer eerst de uitkomst, dan het bewijs dat een bevredigend antwoord zou leveren, dan de kennis die studenten wordt geacht mee te brengen. Neem het cursusmateriaal op, de [[misconceptions|misvattingen]] die u verwacht, toegestane hulpmiddelen en het antwoordformaat. Wilt u dat studenten bewijs interpreteren, dan moet het item interpretatie vragen, en het woord aan een definitievraag toevoegen doet dat niet. Een lang scenario kan nog steeds beantwoordbaar zijn via één bekende formule die het antwoord verraadt.
 
 Een beoordelingsblauwdruk is een tabel van uitkomsten tegen items, en haar waarde is dat ze hiaten blootlegt voordat studenten dat doen. Ze maakt ook de afweging zichtbaar: elk item dat u uit het gemakkelijkste materiaal genereert, is een item dat u niet aan de uitkomst hebt besteed die u het meest aan het hart gaat.
 
@@ -68,7 +68,7 @@ Een tweede model kan u helpen problemen te vinden, en overeenstemming tussen twe
 
 ## Laat het moeilijkheidslabel niet beslissen
 
-De literatuur over [[automated-question-generation|vraaggeneratie]] is nuttiger over het falen van labels dan over het succes van generatie. [[student-llm-use-ai-question-difficulty-data-science-2026|An en Wang (2026)]] onderzochten 378 door auteurs geschreven vragen in data-sciencevakken, waarvan er 311 werden ingezet bij 54 studenten, samen 7.888 antwoorden. De labels gemakkelijk, gemiddeld en moeilijk van het model correleerden met de niveaus uit de taxonomie van Bloom die het er zelf bij had gegenereerd op ρ = 0,90 en met de empirische itemmoeilijkheid op ρ = 0,06. Ruim 70% van de ingezette items werd door elke student correct beantwoord, wat bijna geen variatie liet waar een moeilijkheidslabel zelfs in principe op kon aansluiten.
+De literatuur over [[automated-question-generation|vraaggeneratie]] is nuttiger over het falen van labels dan over het succes van generatie. [[student-llm-use-ai-question-difficulty-data-science-2026|An en Wang (2026)]] onderzochten 378 door auteurs geschreven vragen in data-sciencevakken, waarvan er 311 werden ingezet bij 54 studenten, samen 7.888 antwoorden. De labels gemakkelijk, gemiddeld en moeilijk van het model correleerden met de niveaus uit de taxonomie van Bloom die het er zelf bij had gegenereerd op ρ = 0,90 en met de empirische [[item-response-theory|itemmoeilijkheid]] op ρ = 0,06. Ruim 70% van de ingezette items werd door elke student correct beantwoord, wat bijna geen variatie liet waar een moeilijkheidslabel zelfs in principe op kon aansluiten.
 
 Daaruit volgen twee lessen. Ten eerste is moeilijkheid een eigenschap van de interactie tussen een item en een populatie, dus geen enkel label dat vóór afname is geproduceerd, kan als gemeten waarde worden vertrouwd. Ten tweede is een bank items die iedereen correct beantwoordt geen gemakkelijke beoordeling, maar een nutteloze: ze draagt bijna geen informatie over wie wat weet.
 
@@ -91,6 +91,9 @@ Herzie, en houd het dossier bij: de goedgekeurde versie, de uitkomst die ze dien
 In een inleidend sociologievak kan de uitkomst zijn: een structurele verklaring onderscheiden van een individuele. Een zwak item vraagt studenten „structureel” te definiëren, wat woordenschatherkenning meet. Een sterker kandidaat geeft een kort scenario over een gezin en een werkbeslissing, en vraagt dan welke verklaring een structurele beperking het beste identificeert, met afleiders die plausibele maar andere interpretaties vertegenwoordigen.
 
 De docent controleert of het scenario de sleutel werkelijk ondersteunt, of geen twee opties hetzelfde idee uitdrukken, en of het antwoorden niet afhangt van terminologie die het vak nooit heeft ingevoerd. Een vervolgvraag van één regel, „welk detail ondersteunt uw keuze?”, brengt de redenering naar boven die de gekozen optie verbergt. De aanpassing is als itemptype ongetest, en haar waarde is smaller: de reviewvragen hierboven kunnen worden beantwoord voordat een item wordt afgenomen, en een slechte sleutel kan worden hersteld voordat studenten hem zien.
+
+Wanneer studenten op schaal onvrede melden, heeft dat signaal structuur. In een analyse van 5.214.211 sessies met oefenvragen in een tekstboekplatform kwamen duimpjes omlaag op 2,00 per 1.000 sessies tegen 3,31 duimpjes omhoog, en slechts 22.844 van de 809.848 vragen kreeg ooit een beoordeling ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Het patroon in de stemmen was niet willekeurig: vragen die om een bijwoord als antwoord vroegen, kregen 5,23 duimpjes omlaag per 1.000 tegen 1,76 voor vragen met een bijvoeglijk naamwoord, en ook het belang van de zin (oddsratio 2,38) en de gelijkenis van de antwoordtekst (1,64) bewogen de beoordeling. De afgestelde vuistregel van de auteurs was ongeveer 1,62 afkeuringen per 1.000 wanneer beide belangssignalen aanwezig waren. Het praktische punt is dat beoordelingen door studenten een traag maar echt meetkanaal zijn: een platform dat herhaaldelijk afgekeurde vragen verwijdert, sluit de lus, en een docent die een paar items test, krijgt hetzelfde signaal sneller door te vragen welk detail de student betwijfelde.
+
 
 Voor studenten die hun eigen oefenvragen genereren, geldt dezelfde regel op hun niveau: probeer het item, controleer de uitleg tegen cursusbronnen, en breng de onoplosbare gevallen naar iemand die het vak kent. [[study-with-ai|Oefenpraktijk]] die studenten leert gegenereerde sleutels onkritisch te accepteren, leert de verkeerde gewoonte aan.
 

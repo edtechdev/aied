@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:36:20-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-01T07:10:00-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Odpověď, kterou dáte kolegovi: rozhodujte o místě AI pro jednotlivý úkol,
 
 **3.** Chraňte etapy, v nichž skupina buduje sdílené porozumění: vymezení zadání, neshodu, smiřování.
 
-**4.** Vyberte uspořádání přístupu záměrně. Jedno sdílené rozhraní produkuje vyjednané a viditelné používání, soukromé promptování produkuje toky, které nevidíte.
+**4.** Vyberte uspořádání přístupu záměrně. Jedno sdílené rozhraní produkuje vyjednané a viditelné používání, soukromé [[prompt-engineering|promptování]] produkuje toky, které nevidíte.
 
 **5.** Ponechte jednu část, za kterou každý člen odpovídá sám, a udělejte z ní porozumění, ne autorství.
 
@@ -49,9 +49,9 @@ Odpověď, kterou dáte kolegovi: rozhodujte o místě AI pro jednotlivý úkol,
 
 ## Pište povolení pro fázi, ne pro kurz
 
-[[chen-zou-genai-group-assessment-agency-2026|Chen a Zou (2026)]] zkoumali skupiny po třech až pěti, které odevzdávaly prezentaci s váhou 30 % známky, a to podle institucionálního pravidla „používat jen s výslovným uvedením“. GenAI byla povolena pro generování nápadů, jazykovou korekturu, vizuální uspořádání a tvorbu scénáře. Uvnitř tohoto jediného svolného pravidla dospěly skupiny k opačným závěrům a každá strana měla obhajitelné odůvodnění, přičemž návrh úkolu určoval, ke kterému závěru skupina dojde. Studie se týká 52 budoucích učitelů v jednom kurzu a autoři žádají, aby se jejich vzorce četly jako možné reakce na návrh, ne jako rozdělení, které máte očekávat. Pravidlo na úrovni kurzu neurčuje, co skupina udělá.
+[[chen-zou-genai-group-assessment-agency-2026|Chen a Zou (2026)]] zkoumali skupiny po třech až pěti, které odevzdávaly prezentaci s váhou 30 % známky, a to podle [[educational-policy-ai|institucionálního pravidla]] „používat jen s výslovným uvedením“. GenAI byla povolena pro generování nápadů, jazykovou korekturu, vizuální uspořádání a tvorbu scénáře. Uvnitř tohoto jediného svolného pravidla dospěly skupiny k opačným závěrům a každá strana měla obhajitelné odůvodnění, přičemž návrh úkolu určoval, ke kterému závěru skupina dojde. Studie se týká 52 budoucích učitelů v jednom kurzu a autoři žádají, aby se jejich vzorce četly jako možné reakce na návrh, ne jako rozdělení, které máte očekávat. Pravidlo na úrovni kurzu neurčuje, co skupina udělá.
 
-Pište tedy povolení na úrovni konkrétního výstupu. Pojmenujte fáze otevřené AI a fáze, které se mají zvládnout bez ní, a řekněte studentům, proč hranice leží právě tam. Návrhová logika scoping review ukazuje stejným směrem: pokud komunikace zprostředkovaná AI stlačuje vyjednávání a kolektivní utváření smyslu, pak právě úseky, v nichž skupina buduje sdílené porozumění, stojí za ochranu ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei a Perkins, 2026]]).
+Pište tedy povolení na úrovni konkrétního výstupu. Pojmenujte fáze otevřené AI a fáze, které se mají zvládnout bez ní, a řekněte studentům, proč hranice leží právě tam. Návrhová logika [[meta-analysis-systematic-review|scoping review]] ukazuje stejným směrem: pokud komunikace zprostředkovaná AI stlačuje vyjednávání a kolektivní utváření smyslu, pak právě úseky, v nichž skupina buduje sdílené porozumění, stojí za ochranu ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei a Perkins, 2026]]).
 
 Buďte na poradě upřímní ohledně opory. Ani jeden z přehledů netvrdí, že zadržení AI zlepšuje výsledky učení. Tento argument stojí na struktuře níže popsaného kompromisu mezi ziskem a ztrátou, ne na měřeném srovnání.
 
@@ -59,11 +59,11 @@ Buďte na poradě upřímní ohledně opory. Ani jeden z přehledů netvrdí, ž
 
 Ústřední návrhový argument Chena a Zou je, že vyjednávání o přijatelném použití GenAI má samo být výslovným a hodnotitelným výstupem. Týmy mají společně odůvodnit a zdokumentovat, jak se GenAI používat bude a jak ne, místo aby normu nechaly na vrstevnickém tlaku nebo vnímaném riziku. Takový výstup existuje jen tehdy, když skupina skutečně mluvila, a právě proto má cenu bodů: mění nevynutitelné pravidlo na přezkoumatelný úsudek studentů.
 
-Používání skupinami zesilují dva důvody a oba rozumně reagují na společnou známku. Výkon: studenti četli kritéria a srovnání s vrstevníky a používali AI, aby ochránili svůj díl známky. Vnímaná bezpečnost skrze normy: svolné kolektivní klima snižovalo pociťované [[ai-misuse-learning-harm|riziko zneužití]], takže skupiny používaly nástroj otevřeněji a v případě orientovaném na spolupráci i závisleji. Chcete-li transparentnost, vyslovená norma ve třídě je účinnější než varování.
+Používání skupinami zesilují dva důvody a oba rozumně reagují na společnou známku. Výkon: studenti četli kritéria a [[benchmark|srovnání s vrstevníky]] a používali AI, aby ochránili svůj díl známky. Vnímaná bezpečnost skrze normy: svolné kolektivní klima snižovalo pociťované [[ai-misuse-learning-harm|riziko zneužití]], takže skupiny používaly nástroj otevřeněji a v případě orientovaném na spolupráci i závisleji. Chcete-li transparentnost, vyslovená norma ve třídě je účinnější než varování.
 
 Ptejte se na zápor stejně jako na klad. Prohlášení, které zaznamená, co se skupina rozhodla nedělat a proč, vám řekne víc než seznam nástrojů. Dává také skupině, která nesouhlasí, kam neshodu uložit, a to je obvykle ta obtížná část už hotová.
 
-Nepředpokládejte, že dokument odráží sdílené porozumění. [[genai-group-writing-strategies-2026|Korchak, Costley a Fanguy (2026)]] vedli rozhovory s 10 postgraduálními studenty ve věku 23 až 39 let (průměr 27,7) v kurzu vědeckého psaní, kde skupiny používaly GenAI buď prostřednictvím předem naplánovaných strategií, nebo prostřednictvím otevřených interakcí řízených jednotlivci a koordinovaných ve sdílených dokumentech. Jedno osobité použití byla GenAI jako redakční integrátor, který slučoval paralelní části do souvislého textu. Jejich nejostřejší pozorování: výpovědi studentů někdy odporovaly jejich vlastním písemným reflexím a jeden student popřel, že by skupina měla strategii, a přitom ji písemně popsal. Strategie, která není stejně viditelná pro každého člena, není spolehlivě viditelná ani pro vás.
+Nepředpokládejte, že dokument odráží sdílené porozumění. [[genai-group-writing-strategies-2026|Korchak, Costley a Fanguy (2026)]] vedli rozhovory s 10 postgraduálními studenty ve věku 23 až 39 let (průměr 27,7) v kurzu vědeckého psaní, kde skupiny používaly GenAI buď prostřednictvím předem naplánovaných strategií, nebo prostřednictvím otevřených interakcí řízených jednotlivci a koordinovaných ve sdílených dokumentech. Jedno osobité použití byla GenAI jako redakční integrátor, který slučoval paralelní části do souvislého textu. Jejich nejostřejší pozorování: výpovědi studentů někdy odporovaly jejich vlastním písemným [[reflection|reflexím]] a jeden student popřel, že by skupina měla strategii, a přitom ji písemně popsal. Strategie, která není stejně viditelná pro každého člena, není spolehlivě viditelná ani pro vás.
 
 ## Seřaďte práci tak, aby se nedala rozdělit
 
@@ -83,19 +83,19 @@ Praktický rozdíl je v tom, zda je prompt skupinovým výstupem. Sdílený doku
 
 ## Ponechte část, kterou každý člen zodpoví sám
 
-Spárujte skupinovou známku s individuální částí: ústní obhajobou vlastního porozumění nebo písemným vysvětlením kterékoli sekce, kterou student nenapsal. To je také poctivá odpověď na problém černého pasažéra, protože se hodnotí porozumění, ne autorství, a porozumění bylo vždy to, co skupinová známka zastupovala.
+Spárujte skupinovou známku s individuální částí: [[oral-assessment|ústní obhajobou]] vlastního porozumění nebo písemným vysvětlením kterékoli sekce, kterou student nenapsal. To je také poctivá odpověď na problém černého pasažéra, protože se hodnotí porozumění, ne autorství, a porozumění bylo vždy to, co skupinová známka zastupovala.
 
 [[llm-critical-thinking-teamwork-review|Martínez-Peláez a kol. (2025)]] prošli 203 studií z let 2023 a 2024 v kolekci Web of Science Core Collection a zařadili 22 z nich podle protokolu PRISMA 2020 registrovaného v PROSPERO. Popisují LLM jako katalyzátory [[collaborative-learning|spolupráce]]: generování nápadů, organizaci, [[peer-assessment|vrstevnickou zpětnou vazbu]], simulovaná hodnocení podle kritérií a odborné posudky a nižší bariéry zapojení. Pro [[problem-solving|řešení problémů]] uvádějí pomoc s alternativními řešeními, interdisciplinárními pohledy a autentickými scénáři. Zaznamenávají také užitečnou inverzi: LLM často produkují neúplné nebo nesprávné odpovědi, což studenty tlačí, aby materiál zpochybnili, ověřili a vylepšili. Právě na tuto výměnu se máte u individuálního kontrolního bodu soustředit.
 
-Jejich omezení jdou s citací: jediná databáze, jen články v časopisech, žádná pozornost etice nebo soukromí, první dva roky existence technologie a žádný nástroj pro posouzení rizika zkreslení. Slovo „katalyzátory“ čtěte jako popis pozorované praxe, ne jako měřený výsledek.
+Jejich omezení jdou s citací: jediná databáze, jen články v časopisech, žádná pozornost [[ethics|etice]] nebo soukromí, první dva roky existence technologie a žádný nástroj pro posouzení rizika zkreslení. Slovo „katalyzátory“ čtěte jako popis pozorované praxe, ne jako měřený výsledek.
 
 Detekce je nesprávný nástroj pro třídění individuálních přínosů: žádná z těchto šesti studií netestuje detektory ve skupinovém prostředí a problémy detekce na úrovni jednotlivce jsou zdokumentovány jinde v této znalostní bázi. Zdrženlivost je třeba nejdřív interpretovat, teprve potom opravovat. Chen a Zou upozorňují, že skupina odmítající AI může spíš obcházet něco neznámého, než uplatňovat vědomou [[self-regulated-learning|seberegulaci]], a oba případy volají po jiné reakci: jeden je problém výuky, druhý je uvážený postoj, který můžete ohodnotit.
 
-Ani simulovaní spoluhráči tuto otázku nerozhodují. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] doladil LLM agenty na skutečných dialozích účastníků (adaptéry LoRA/QLoRA na LLaMA 3.2-3B), aby namodeloval 48 účastníků v 3 824 tazích a šesti tematických kódech, a potom srovnal skutečný a simulovaný diskurz pomocí epistemické síťové analýzy. Simulovaná síť dosáhla vzdálenosti 0,17 od empirické sítě, tedy pod prahem 0,30, s permutační p-hodnotou 0,65, statisticky nerozlišitelná, i když mírně přeceňovala vazby na technická omezení a na design a podhodnocovala datové a výkonové parametry. Je to rámcová práce se střední mírou jistoty a podporuje jedno tvrzení: agenti vytvoření pro konkrétního účastníka dokážou reprodukovat realistický spolupracující diskurz. Neprokazuje, že se studenti od simulovaných spoluhráčů naučí víc.
+Ani simulovaní spoluhráči tuto otázku nerozhodují. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] doladil [[llm|LLM]] agenty na skutečných dialozích účastníků ([[llm-training-and-fine-tuning|adaptéry LoRA/QLoRA]] na LLaMA 3.2-3B), aby namodeloval 48 účastníků v 3 824 tazích a šesti tematických kódech, a potom srovnal skutečný a simulovaný diskurz pomocí [[network-analysis|epistemické síťové analýzy]]. Simulovaná síť dosáhla vzdálenosti 0,17 od empirické sítě, tedy pod prahem 0,30, s permutační p-hodnotou 0,65, statisticky nerozlišitelná, i když mírně přeceňovala vazby na technická omezení a na design a podhodnocovala datové a výkonové parametry. Je to rámcová práce se střední mírou jistoty a podporuje jedno tvrzení: agenti vytvoření pro konkrétního účastníka dokážou reprodukovat realistický spolupracující diskurz. Neprokazuje, že se studenti od simulovaných spoluhráčů naučí víc.
 
 ## Sestavte skupiny podle toho, čemu členové věří, ne podle toho, kdo je s kým kamarád
 
-Zda se AI stane společným referenčním bodem, nebo jen vyhledávačem, částečně závisí na tom, nakolik už se vaše skupiny shodují. Ve studii [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] pracovalo čtrnáct skupin budoucích učitelů na šedesátiminutovém simulačním zkoumání s metakognitivním chatbotem dostupným na vyžádání. Skupiny, jejichž členové měli odlišné [[prior-knowledge|představy]] o fyzice, vedly používání AI přes pojmový rozhovor, přičemž AI seděla ve středu jejich interakční sítě; skupiny, které už byly ve shodě, jely lineární cestu dotaz–odpověď a udržovaly negativní hodnocení výstupu, což autoři částečně přičítají tomu, že proaktivní podněty přicházely až po vytvoření konsenzu. Oba typy skupin kladly stejné typy otázek, takže se změnilo [[collaborative-learning|převzetí, ne objem]].
+Zda se AI stane společným referenčním bodem, nebo jen vyhledávačem, částečně závisí na tom, nakolik už se vaše skupiny shodují. Ve studii [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] pracovalo čtrnáct skupin budoucích [[teacher-role|učitelů]] na šedesátiminutovém simulačním zkoumání s [[metacognition|metakognitivním]] chatbotem dostupným na vyžádání. Skupiny, jejichž členové měli odlišné [[prior-knowledge|představy]] o fyzice, vedly používání AI přes pojmový rozhovor, přičemž AI seděla ve středu jejich interakční sítě; skupiny, které už byly ve shodě, jely lineární cestu dotaz–odpověď a udržovaly negativní hodnocení výstupu, což autoři částečně přičítají tomu, že proaktivní podněty přicházely až po vytvoření konsenzu. Oba typy skupin kladly stejné typy otázek, takže se změnilo [[collaborative-learning|převzetí, ne objem]].
 
 Z toho plynou dva kroky a oba jsou levné:
 

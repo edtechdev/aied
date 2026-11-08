@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Het antwoord is smaller dan de meeste productspecificaties veronderstellen. Educ
 
 **1.** Schrijf op wat het systeem beslist en wat een docent beslist. Die grens wordt de architectuur.
 
-**2.** Evalueer interactie over meerdere beurten, met aandacht voor de discipline, tegen een echt curriculum, niet losse prompts tegen een algemene veiligheidsrubriek.
+**2.** Evalueer interactie over meerdere beurten, met aandacht voor de discipline, tegen een echt [[curriculum-design|curriculum]], niet losse prompts tegen een algemene veiligheidsrubriek.
 
 **3.** Grond antwoorden in goedgekeurde inhoud, en houd de verifiërende component gescheiden van de conversationele.
 
@@ -65,7 +65,7 @@ Het overdraagbare deel is de scheiding: de componenten die verifiëren, converse
 
 ## Behandel studentwerk als niet-vertrouwde invoer
 
-Het dreigingsmodel dat de meeste ontwerpadviezen weglaten, zit in het artefact dat wordt beoordeeld. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) adversariële red-teamevaluatie]] testte of studenten een op een LLM gebaseerde beoordelaar konden manipuleren via promptinjectie in hun inzendingen, en de manipulatie werkte: injecties die de beoordelaar instrueren, herkaderen of een rol laten spelen, verschuiven de score zonder het werk te veranderen.
+Het dreigingsmodel dat de meeste ontwerpadviezen weglaten, zit in het artefact dat wordt beoordeeld. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) adversariële red-teamevaluatie]] testte of studenten een op een [[llm|LLM]] gebaseerde beoordelaar konden manipuleren via promptinjectie in hun inzendingen, en de manipulatie werkte: injecties die de beoordelaar instrueren, herkaderen of een rol laten spelen, verschuiven de score zonder het werk te veranderen.
 
 Houd de rubriek en de instructies buiten het contextvenster dat de student beheerst, strip of markeer instructieachtige inhoud, laat een inzending nooit haar eigen criteria vaststellen, en houd een menselijke beslissing op elk cijfer met gevolgen. Een beoordelaar die zijn instructies leest uit de tekst die hij beoordeelt, heeft de rubriek aan de kandidaat gegeven.
 
@@ -96,6 +96,9 @@ Een groter model lost de pedagogiek op. Schaal verbeterde de veiligheid niet bet
 Een goede retrievalindex betekent dat de inhoud geregeld is. EduGuard koppelt retrieval aan een aparte verificateur en test adversariële prompts die rechtstreeks om antwoorden vragen, omdat gegronde retrieval nog steeds een pad naar te veel onthulling overlaat.
 
 De docent is het vangnet. Alle zes docenten in de ontwerpstudie vroegen om logging, meldingen en override als voorwaarde van professionele verantwoordelijkheid. Een supportticket is geen override.
+
+Genot is geen vervanging voor passendheid. In een enquête onder 405 ontwerpstudenten ([[chu-design-students-ai-agent-tam-ttf-2026|Chu & Liu (2026)]]) had taak-technologiepassendheid een eigen pad naar attitude (β = 0,224) naast [[technology-acceptance-model|waargenomen bruikbaarheid]], en de kenmerken van de taak stuurden de passendheid sterker dan de kenmerken van de tool (β = 0,322 tegen 0,266). Waargenomen plezier verhoogde het gebruiksgemak en deed niets voor de bruikbaarheid (β = −0,033, p = 0,483). Plezier is het bouwen waard, maar het vervangt niet het afstemmen van de functies op de stappen van de opdracht.
+
 
 Toegankelijkheid is een latere ticket. Ze staat in de specificatie of ze wordt een herschrijving, en gegenereerde alt-tekst en ondertiteling hebben nog steeds een menselijke controle nodig.
 

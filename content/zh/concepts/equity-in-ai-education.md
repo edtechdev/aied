@@ -113,7 +113,7 @@ ai_assist:
 
 ## 特殊群体与全球公平
 
-- **特殊群体：**[[special-education]]、[[neurodivergent-computing-students|神经多样性学习者]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[special-education|残障学习者]]代表其需求常被 AI 系统设计忽视的群体。
+- **特殊群体：**[[special-education]]、[[neurodivergent-computing-students|神经多样性学习者]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|残障学习者]]代表其需求常被 AI 系统设计忽视的群体。
 - **全球南方视角：**[[suacode-african-students-motivations|非洲学生动机]]、[[connected-ai-lesson-planning-vietnam|越南 AI 课程规划]]与[[pre-service-science-teachers-ai-perceptions-2026|加纳教师接受度]]提供了西方中心 AIED 研究中常缺席的全球南方视角。在机构层面，[[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等人（2026）]]表明，45 所尼日利亚大学的 AI 整合由机构年龄与地理而非治理类型驱动，强化的网络联系让连接良好的机构复合优势——证明公平差距是结构性再生产的，而非仅经由个体获取。
 - **全球能力：**证据记录了生成式 AI 收益如何不均等地分布于各国与机构，[[ai-lifelong-learning-policy|AI 与终身学习政策]]应对结构性的社会经济梯度。
 - 一项对 72 项高等教育评估研究的 PRISMA 综述发现，证据基础在地理上集中：澳大利亚与英国合计贡献了 72 项中的 31 项，且未识别出来自南美的研究（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。

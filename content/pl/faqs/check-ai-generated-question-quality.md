@@ -1,7 +1,7 @@
 ---
 title: "Jak sprawdzić, czy wygenerowane przez AI pytania quizowe i egzaminacyjne są rzeczywiście dobre?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -46,7 +46,7 @@ Krótka odpowiedź do przekazania współpracownikowi: wygenerowane pytania są 
 
 Generowanie jest dość tanie, więc format wyniku po cichu staje się specyfikacją. Jeśli twoje notatki dają schludne zadania wielokrotnego wyboru, skończysz na mierzeniu, czy studenci potrafią wybrać spośród prawdopodobnych stwierdzeń, niezależnie od tego, jaki efekt deklaruje program.
 
-Najpierw określ efekt, potem dowód, który dałaby zadowalająca odpowiedź, a potem wiedzę, którą studenci mają przynieść. Uwzględnij materiały kursu, błędne przekonania, których się spodziewasz, dozwolone narzędzia i format odpowiedzi. Jeśli chcesz, by studenci interpretowali dowody, zadanie musi wymagać interpretacji, a dodanie tego słowa do pytania o definicję tego nie załatwia. Długi scenariusz nadal może być rozwiązywalny przez jedno znane sformułowanie, które zdradza odpowiedź.
+Najpierw określ efekt, potem dowód, który dałaby zadowalająca odpowiedź, a potem wiedzę, którą studenci mają przynieść. Uwzględnij materiały kursu, [[misconceptions|błędne przekonania]], których się spodziewasz, dozwolone narzędzia i format odpowiedzi. Jeśli chcesz, by studenci interpretowali dowody, zadanie musi wymagać interpretacji, a dodanie tego słowa do pytania o definicję tego nie załatwia. Długi scenariusz nadal może być rozwiązywalny przez jedno znane sformułowanie, które zdradza odpowiedź.
 
 Plan tabelaryczny oceniania to tabela efektów wobec zadań, a jego wartość polega na tym, że ujawnia luki, zanim zrobią to studenci. Czyni też widocznym kompromis: każde zadanie wygenerowane z najłatwiejszego materiału jest zadaniem, którego nie poświęciłeś na efekt, który najbardziej ci zależy.
 
@@ -68,7 +68,7 @@ Drugi model może pomóc zauważyć problemy, a zgodność dwóch modeli nie jes
 
 ## Nie pozwól, by etykieta trudności decydowała
 
-Literatura o [[automated-question-generation|generowaniu pytań]] jest bardziej użyteczna w kwestii porażki etykiet niż sukcesu generowania. [[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang (2026)]] zbadali 378 pytań autorskich na kursach nauki danych, z których 311 wdrożono wobec 54 studentów, co dało 7 888 odpowiedzi. Etykiety łatwe, średnie i trudne modelu korelowały z jego własnymi współgenerowanymi poziomami Blooma na poziomie ρ = 0,90, a z empiryczną trudnością zadania na poziomie ρ = 0,06. Około 70% wdrożonych zadań zostało rozwiązanych poprawnie przez każdego studenta, co nie zostawiło niemal żadnej wariancji, którą etykieta trudności mogłaby śledzić nawet co do zasady.
+Literatura o [[automated-question-generation|generowaniu pytań]] jest bardziej użyteczna w kwestii porażki etykiet niż sukcesu generowania. [[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang (2026)]] zbadali 378 pytań autorskich na kursach nauki danych, z których 311 wdrożono wobec 54 studentów, co dało 7 888 odpowiedzi. Etykiety łatwe, średnie i trudne modelu korelowały z jego własnymi współgenerowanymi poziomami Blooma na poziomie ρ = 0,90, a z empiryczną [[item-response-theory|trudnością zadania]] na poziomie ρ = 0,06. Około 70% wdrożonych zadań zostało rozwiązanych poprawnie przez każdego studenta, co nie zostawiło niemal żadnej wariancji, którą etykieta trudności mogłaby śledzić nawet co do zasady.
 
 Wynikają z tego dwie lekcje. Po pierwsze, trudność jest właściwością interakcji między zadaniem a populacją, więc żadna etykieta wytworzona przed podaniem zadania nie może być uznana za zmierzoną wartość. Po drugie, bank zadań, które wszyscy rozwiązują poprawnie, nie jest łatwym ocenianiem, jest bezużytecznym: niesie niemal zero informacji o tym, kto co wie.
 
@@ -91,6 +91,9 @@ Poprawiaj i prowadź zapis: zatwierdzoną wersję, efekt, któremu służy, kluc
 Na wstępnym kursie socjologii efektem może być odróżnienie wyjaśnienia strukturalnego od jednostkowego. Słabe zadanie prosi studentów o zdefiniowanie „strukturalnego”, co mierzy rozpoznanie słownictwa. Silniejszy kandydat daje krótki scenariusz o rodzinie i decyzji o zatrudnieniu, a potem pyta, które wyjaśnienie najlepiej wskazuje strukturalne ograniczenie, z dystraktorami przedstawiającymi prawdopodobne, ale różne interpretacje.
 
 Wykładowca sprawdza, czy scenariusz rzeczywiście wspiera klucz, czy żadne dwie opcje nie wyrażają tej samej idei i czy odpowiedź nie zależy od terminologii, której kurs nigdy nie wprowadził. Jednolinijkowe pytanie uzupełniające „który szczegół wspiera twój wybór?” wydobywa rozumowanie, które wybrana opcja ukrywa. Adaptacja jest nieprzetestowana jako format zadania, a jej wartość jest węższa: na powyższe pytania przeglądu można odpowiedzieć przed podaniem zadania, a zły klucz da się naprawić, zanim studenci go zobaczą.
+
+Gdy studenci sygnalizują niechęć w skali, ten sygnał ma strukturę. W analizie 5 214 211 sesji z pytaniami ćwiczeniowymi prezentowanymi w platformie podręcznikowej kciuki w dół pojawiały się 2,00 razy na 1000 sesji wobec 3,31 kciuków w górę, a ocenę kiedykolwiek otrzymało tylko 22 844 z 809 848 pytań ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson i in., 2025]]). Wzorzec w głosach nie był przypadkowy: pytania wymagające odpowiedzi przysłówkowej zbierały 5,23 kciuka w dół na 1000 wobec 1,76 dla odpowiedzi przymiotnikowej, a ważność zdania (iloraz szans 2,38) i podobieństwo tekstu odpowiedzi (1,64) także przesuwały ocenę. Dostrojona reguła autorów mówiła o około 1,62 niechęci na 1000, gdy obecne były oba sygnały ważności. Wniosek praktyczny jest taki, że oceny studentów są wolnym, ale rzeczywistym kanałem pomiaru: platforma, która usuwa wielokrotnie niechętnie oceniane pytania, zamyka pętlę, a wykładowca testujący kilka pozycji dostaje ten sam sygnał szybciej, pytając, który szczegół wzbudził wątpliwość studenta.
+
 
 Dla studentów generujących własne pytania ćwiczeniowe obowiązuje ta sama zasada na ich poziomie: spróbuj rozwiązać zadanie, sprawdź wyjaśnienie wobec źródeł kursu i przynieś nierozstrzygalne przypadki komuś, kto zna przedmiot. [[study-with-ai|Praktyka uczenia się]], która uczy studentów bezkrytycznego przyjmowania generowanych kluczy, uczy złego nawyku.
 

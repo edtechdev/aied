@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -106,7 +106,7 @@ ai_assist:
 
 ## Особливі популяції та глобальна справедливість
 
-- **Особливі популяції:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]] та [[special-education|learners with disabilities]] представляють групи, чиї потреби часто оминаються в проєктуванні систем ШІ.
+- **Особливі популяції:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]] та [[inclusive-learning|learners with disabilities]] представляють групи, чиї потреби часто оминаються в проєктуванні систем ШІ.
 - **Перспективи Глобального Півдня:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]] та [[pre-service-science-teachers-ai-perceptions-2026|Ghanaian teacher acceptance]] дають перспективи Глобального Півдня, яких часто бракує в західноцентричних дослідженнях AIED. На інституційному рівні [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] показують, що інтеграція ШІ в 45 нігерійських університетах рухається віком закладу та географією, а не типом управління, причому підсилюючі мережеві зв’язки дозволяють добре зв’язаним закладам нарощувати перевагу, — свідчення того, що розриви в справедливості відтворюються структурно, а не лише через індивідуальний доступ.
 - **Глобальна потужність:** свідчення фіксують, що вигоди від генеративного ШІ нерівномірно розподілені між країнами та закладами, і [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] займається структурними соціально-економічними градієнтами.
 - Огляд PRISMA 72 досліджень оцінювання у вищій освіті виявив, що база доказів географічно сконцентрована: Австралія та Велика Британія разом дали 31 із 72 досліджень, а з Південної Америки не було виявлено жодного дослідження ([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).

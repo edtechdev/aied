@@ -1,7 +1,7 @@
 ---
 title: "Apa yang Harus Dipelajari Siswa untuk Karier di Mana AI Sudah Lazim?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Seorang siswa bertanya mengapa mereka harus belajar melakukan sesuatu yang sudah dilakukan chatbot. Sebuah kelompok penasihat program mengatakan bahwa pemberi kerja menginginkan lulusan yang dapat menggunakan AI di tempat kerja. Silabus Anda harus memenuhi keduanya, dan tidak satu pun dari keduanya menyebutkan apa yang seharusnya dapat dilakukan lulusan tanpa bantuan.
+Seorang siswa bertanya mengapa mereka harus belajar melakukan sesuatu yang sudah dilakukan [[conversational-ai|chatbot]]. Sebuah kelompok penasihat program mengatakan bahwa pemberi kerja menginginkan lulusan yang dapat menggunakan AI di tempat kerja. Silabus Anda harus memenuhi keduanya, dan tidak satu pun dari keduanya menyebutkan apa yang seharusnya dapat dilakukan lulusan tanpa bantuan.
 
-Jawaban singkat untuk diberikan kepada kolega: ajarkan tugas profesionalnya secara utuh, bukan pengoperasian alatnya, dan nilai baik produk yang didukung maupun kemampuan mandiri siswa. Buktinya mendukung memperlakukan kesiapan sebagai pengetahuan disipliner plus pertimbangan plus verifikasi plus transfer, dan tidak mendukung daftar keterampilan mana pun sebagai jaminan memperoleh pekerjaan. Survei atas 500 pengajar perguruan tinggi AS yang dibandingkan dengan panel pemberi kerja menemukan kedua kelompok sepakat tentang pentingnya tepat satu dari 26 keterampilan terkait AI, yaitu *menetapkan ekspektasi realistis untuk pekerjaan yang diperkuat AI*; pengajar lebih menekankan penggunaan kritis dan bertanggung jawab sementara pemberi kerja lebih menekankan alur kerja, otomasi, dan kerja sama manusia-AI ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Itu adalah prioritas yang dilaporkan, bukan bukti perekrutan. Temuan yang lebih tajam bagi sebuah kurikulum berada di tempat lain: dalam survei atas 455 mahasiswa tingkat akhir, literasi AI mencapai persepsi kelayakan kerja terutama dengan menaikkan [[career-development-and-readiness|adaptabilitas karier]], dengan efek tidak langsung β = 0,173 di samping β langsung 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan dan Lestari, 2026]]). Adaptabilitas adalah kemampuan yang dapat diajarkan. Kiat penggunaan alat bukan.
+Jawaban singkat untuk diberikan kepada kolega: ajarkan tugas profesionalnya secara utuh, bukan pengoperasian alatnya, dan nilai baik produk yang didukung maupun kemampuan mandiri siswa. Buktinya mendukung memperlakukan kesiapan sebagai pengetahuan disipliner plus pertimbangan plus verifikasi plus transfer, dan tidak mendukung daftar keterampilan mana pun sebagai jaminan memperoleh pekerjaan. Survei atas 500 pengajar perguruan tinggi AS yang dibandingkan dengan panel pemberi kerja menemukan kedua kelompok sepakat tentang pentingnya tepat satu dari 26 keterampilan terkait AI, yaitu *menetapkan ekspektasi realistis untuk pekerjaan yang diperkuat AI*; pengajar lebih menekankan penggunaan kritis dan bertanggung jawab sementara pemberi kerja lebih menekankan alur kerja, otomasi, dan [[human-ai-collaboration|kerja sama manusia-AI]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Itu adalah prioritas yang dilaporkan, bukan bukti perekrutan. Temuan yang lebih tajam bagi sebuah [[curriculum-design|kurikulum]] berada di tempat lain: dalam survei atas 455 mahasiswa tingkat akhir, literasi AI mencapai persepsi kelayakan kerja terutama dengan menaikkan [[career-development-and-readiness|adaptabilitas karier]], dengan efek tidak langsung β = 0,173 di samping β langsung 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan dan Lestari, 2026]]). Adaptabilitas adalah kemampuan yang dapat diajarkan. Kiat penggunaan alat bukan.
 
 ## Versi singkat
 
@@ -73,13 +73,13 @@ Ini adalah adaptasi dari tema-tema penelitian, bukan intervensi ketenagakerjaan 
 
 Komposisi dan komunikasi bisnis: minta siswa mengkritik dan merevisi balasan yang disusun AI atas keluhan pelanggan. Bukti kemampuannya adalah menyebutkan janji yang tidak didukung, menjelaskan pilihan audiensnya, dan mempertahankan redaksi akhirnya.
 
-Mata kuliah kuantitatif dapat melakukan hal yang sama dengan estimasi yang dihasilkan AI untuk masalah perencanaan yang realistis, di mana siswa menyusun estimasi mereka sendiri, menyatakan asumsinya, dan menguji kewajarannya.
+Mata kuliah [[quantitative-research|kuantitatif]] dapat melakukan hal yang sama dengan estimasi yang dihasilkan AI untuk masalah perencanaan yang realistis, di mana siswa menyusun estimasi mereka sendiri, menyatakan asumsinya, dan menguji kewajarannya.
 
 Untuk mata kuliah spreadsheet atau komputasi, bagikan formula hasil pembuatan dan data sintetis, lalu mintalah kasus uji, penjelasan atas referensinya, dan satu kondisi kegagalan.
 
-Profesi kesehatan: siswa mengevaluasi penjelasan hasil pembuatan untuk kasus fiktif terhadap sumber yang disetujui, menyebutkan keterbatasannya, dan menyatakan kapan seorang profesional berkualifikasi harus memutuskan.
+[[medical-education|Profesi kesehatan]]: siswa mengevaluasi penjelasan hasil pembuatan untuk kasus fiktif terhadap sumber yang disetujui, menyebutkan keterbatasannya, dan menyatakan kapan seorang profesional berkualifikasi harus memutuskan.
 
-Eksplorasi karier punya versinya sendiri: bandingkan komposisi tugas dua okupasi menggunakan informasi okupasi yang kredibel, lalu rencanakan satu langkah konkret pengembangan keterampilan atau pencarian bantuan.
+Eksplorasi karier punya versinya sendiri: bandingkan komposisi tugas dua okupasi menggunakan informasi okupasi yang kredibel, lalu rencanakan satu langkah konkret pengembangan keterampilan atau [[help-seeking|pencarian bantuan]].
 
 Untuk penyampaian asinkron, mintalah percobaan awal, catatan verifikasi singkat, dan catatan dua kalimat tentang satu keputusan yang berkonsekuensi. Dalam laboratorium atau seminar, penjelasannya dapat terjadi dalam percakapan. Gunakan materi sintetis atau yang diizinkan setiap kali alternatifnya adalah data tempat kerja atau data siswa yang bersifat rahasia.
 
@@ -89,19 +89,21 @@ Artefak yang mengilap memberi tahu Anda apa yang dihasilkan dalam kondisi yang d
 
 Pilih persyaratan itu karena ia menopang kemampuan yang dinyatakan, dan sebutkan mana yang diukur oleh setiap penilaian. Siswa menerima latihan mandiri ketika itu terhubung dengan hal yang sedang mereka siapkan; "Anda akan membutuhkannya suatu hari" bekerja lebih sedikit daripada menunjukkan bagaimana perhitungan itulah yang memungkinkan mereka menangkap estimasi yang salah nanti.
 
-Sisi dukungannya memiliki risikonya sendiri. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] menemukan penggunaan GenAI berasosiasi positif dengan ketergantungan pada GenAI, dan ketergantungan berasosiasi negatif dengan penalaran kritis maupun kelayakan kerja dalam model survei mereka. Itu asosiasi, bukan klaim kausal, dan itu menunjuk pada pertanyaan rancangan: mata kuliah yang hanya menilai kinerja yang didukung mungkin sedang melatih ketergantungan yang dilaporkannya.
+Sisi dukungannya memiliki risikonya sendiri. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] menemukan penggunaan [[generative-ai|GenAI]] berasosiasi positif dengan ketergantungan pada GenAI, dan ketergantungan berasosiasi negatif dengan [[critical-thinking|penalaran kritis]] maupun kelayakan kerja dalam model survei mereka. Itu asosiasi, bukan klaim kausal, dan itu menunjuk pada pertanyaan rancangan: mata kuliah yang hanya menilai kinerja yang didukung mungkin sedang melatih ketergantungan yang dilaporkannya.
+
+Logika yang sama berlaku sebelum siswa memasuki pasar kerja. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener dkk. (2026)]] memodelkan bantuan AI sebagai urutan di mana keterampilan tumbuh melalui latihan mandiri dan menurun ketika pekerja menerima jawaban AI. Dalam model mereka, pemula dapat terjebak pada keterampilan rendah dan ahli dapat kehilangan keterampilan bahkan ketika akurasi keluaran tetap tinggi, dan pekerja yang strategis dapat menyelesaikan secara mandiri bahkan ketika AI lebih akurat karena keterampilan di masa depan memiliki nilai. Makalah itu bersifat teoretis, bukan intervensi, tetapi ia mempertajam pertanyaan kurikulum: jadwalkan dan beri penghargaan pada latihan mandiri alih-alih mengasumsikan bahwa keluaran berbantuan AI membangun kemampuan untuk mengawasi pekerjaan itu.
 
 Untuk tinjauan program, pisahkan ukurannya. Kinerja mata kuliah, literasi AI yang ditunjukkan, evaluasi pengawas magang, status bekerja, dan kualitas pekerjaan adalah hasil yang berbeda dengan cakrawala waktu yang berbeda, dan satu intervensi tidak dapat menetapkan semuanya. Halaman [[ai-literacy-evidence|bukti literasi AI]] adalah inventaris jujur atas apa yang sebenarnya didukung studi intervensi.
 
 ## Tangani kecemasan karier tanpa menjanjikan kepastian
 
-Siswa datang dengan ketakutan yang nyata, dan literatur survei tentang hal itu adalah deskripsi atas ketakutannya, bukan ramalan pasar kerja. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] menemukan kecemasan AI secara langsung dan negatif memprediksi keputusan karier, yang merupakan temuan tentang kelumpuhan dalam mengambil keputusan, bukan tentang pekerjaan. [[ai-anxiety-wellbeing|Gambaran kesejahteraan]] mencakup bukti yang lebih luas.
+Siswa datang dengan ketakutan yang nyata, dan literatur survei tentang hal itu adalah deskripsi atas ketakutannya, bukan ramalan pasar kerja. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] menemukan [[anxiety-and-stress|kecemasan AI]] secara langsung dan negatif memprediksi keputusan karier, yang merupakan temuan tentang kelumpuhan dalam mengambil keputusan, bukan tentang pekerjaan. [[ai-anxiety-wellbeing|Gambaran kesejahteraan]] mencakup bukti yang lebih luas.
 
 Yang membantu adalah penyelidikan pada skala yang dapat ditindaklanjuti siswa: tugas apa yang sebenarnya ada dalam peran ini, seperti apa satu pekan kerjanya, apa yang perlu saya mampu lakukan, siapa yang dapat memberi tahu saya. Layanan karier, alumni, dan staf penempatan memegang informasi itu. Demonstrasi alat, kesan seorang pengajar, atau presentasi vendor bukan ramalan pasar kerja, dan menyajikan salah satunya sebagai ramalan adalah cara program kehilangan kredibilitasnya di mata siswa yang kemudian memeriksanya.
 
 ## Apa yang akan kembali kepada Anda
 
-**"Siswa hanya perlu prompting yang lebih baik."** Prompting adalah satu klausa dari satu bagian di antara enam. Permintaan yang terspesifikasi baik tidak menyediakan pengetahuan yang dibutuhkan untuk mengenali hasil buruk, dan pemberi kerja dalam panel Ithaka juga tidak menempatkan kecakapan prompt di urutan pertama.
+**"Siswa hanya perlu [[prompt-engineering|prompting]] yang lebih baik."** Prompting adalah satu klausa dari satu bagian di antara enam. Permintaan yang terspesifikasi baik tidak menyediakan pengetahuan yang dibutuhkan untuk mengenali hasil buruk, dan pemberi kerja dalam panel Ithaka juga tidak menempatkan kecakapan prompt di urutan pertama.
 
 **"Jika tempat kerja mengizinkan AI, pekerjaan mata kuliah harus mengizinkannya."** Mata kuliah juga membangun kemampuan yang memungkinkan penggunaan bertanggung jawab. Sebutkan mana dari keduanya yang Anda nilai dalam setiap tugas, dan keberatan itu berubah menjadi pertanyaan rancangan, bukan pertentangan.
 
@@ -125,4 +127,4 @@ Yang membantu adalah penyelidikan pada skala yang dapat ditindaklanjuti siswa: t
 
 [[career-development-and-readiness]] adalah halaman konsep untuk kelayakan kerja, adaptabilitas, dan bukti ketenagakerjaan, dan [[ai-literacy]] mencakup apa arti literasi di luar pengoperasian alat. Untuk membangunnya ke dalam mata kuliah tertentu, lihat [[incorporating-ai-literacy|memasukkan literasi AI]] dan [[faculty-ai-competencies|kompetensi apa yang dibutuhkan pengajar]].
 
-Untuk rancangan penilaian yang membuat kinerja yang didukung dan mandiri dapat dibedakan, lihat [[redesign-assessment-ai-era|merancang ulang penilaian di era AI]] dan [[ai-grading-fairness-reliability|penilaian AI]]. Untuk cara menjaga dukungan agar tidak menjadi ketergantungan, lihat [[reducing-over-reliance|mengurangi ketergantungan berlebih]].
+Untuk [[assessment|rancangan penilaian]] yang membuat kinerja yang didukung dan mandiri dapat dibedakan, lihat [[redesign-assessment-ai-era|merancang ulang penilaian di era AI]] dan [[ai-grading-fairness-reliability|penilaian AI]]. Untuk cara menjaga dukungan agar tidak menjadi ketergantungan, lihat [[reducing-over-reliance|mengurangi ketergantungan berlebih]].

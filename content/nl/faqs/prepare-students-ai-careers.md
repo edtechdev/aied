@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten studenten leren voor loopbanen waarin AI gewoon is?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-Een student vraagt waarom die iets zou leren wat een chatbot al doet. Een adviesgroep voor de opleiding zegt dat werkgevers afgestudeerden willen die AI op het werk kunnen gebruiken. Uw studiegids moet beide tevreden stellen, en geen van beide heeft gezegd wat de afgestudeerde zelfstandig moet kunnen.
+Een student vraagt waarom die iets zou leren wat een [[conversational-ai|chatbot]] al doet. Een adviesgroep voor de opleiding zegt dat werkgevers afgestudeerden willen die AI op het werk kunnen gebruiken. Uw studiegids moet beide tevreden stellen, en geen van beide heeft gezegd wat de afgestudeerde zelfstandig moet kunnen.
 
-Kort antwoord voor een collega: leer de hele professionele taak, niet de bediening van het hulpmiddel, en beoordeel zowel het ondersteunde product als de zelfstandige bekwaamheid van de student. Het bewijs ondersteunt de opvatting dat loopbaanbekwaamheid bestaat uit vakinhoudelijke kennis plus oordeel plus verificatie plus transfer, en het ondersteunt geen enkele lijst vaardigheden als garantie op werk. Een enquête onder 500 Amerikaanse docenten in het hoger onderwijs tegen een panel van werkgevers vond dat de twee groepen het over precies één van 26 AI-gerelateerde vaardigheden eens waren, *het stellen van realistische verwachtingen voor AI-ondersteund werk*; docenten legden de nadruk op kritisch en verantwoord gebruik, werkgevers op workflow, automatisering en samenwerking tussen mens en AI ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Dat zijn gerapporteerde prioriteiten, geen aanwervingsbewijs. De scherpere bevinding voor een curriculum ligt elders: in een enquête onder 455 laatstejaarsstudenten bereikte AI-geletterdheid de waargenomen inzetbaarheid vooral via een hogere [[career-development-and-readiness|loopbaanadaptabiliteit]], met een indirect effect van β = 0,173 naast een direct effect van β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan en Lestari, 2026]]). Adaptabiliteit is een bekwaamheid die u kunt onderwijzen. Een tooltip niet.
+Hier is het korte antwoord: leer de hele professionele taak, niet de bediening van het hulpmiddel, en beoordeel zowel het ondersteunde product als de zelfstandige bekwaamheid van de student. Het bewijs ondersteunt de opvatting dat loopbaanbekwaamheid bestaat uit vakinhoudelijke kennis plus oordeel plus verificatie plus transfer, en het ondersteunt geen enkele lijst vaardigheden als garantie op werk. Een enquête onder 500 Amerikaanse docenten in het hoger onderwijs tegen een panel van werkgevers vond dat de twee groepen het over precies één van 26 AI-gerelateerde vaardigheden eens waren, *het stellen van realistische verwachtingen voor AI-ondersteund werk*; docenten legden de nadruk op kritisch en verantwoord gebruik, werkgevers op workflow, automatisering en [[human-ai-collaboration|samenwerking tussen mens en AI]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Dat zijn gerapporteerde prioriteiten, geen aanwervingsbewijs. De scherpere bevinding voor een [[curriculum-design|curriculum]] ligt elders: in een enquête onder 455 laatstejaarsstudenten bereikte AI-geletterdheid de waargenomen inzetbaarheid vooral via een hogere [[career-development-and-readiness|loopbaanadaptabiliteit]], met een indirect effect van β = 0,173 naast een direct effect van β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan en Lestari, 2026]]). Adaptabiliteit is een bekwaamheid die u kunt onderwijzen. Een tooltip niet.
 
 ## De korte versie
 
@@ -73,13 +73,13 @@ Dit zijn aanpassingen van de onderzoeksthema's, geen geteste interventies voor d
 
 Schrijfvaardigheid en bedrijfscommunicatie: laat studenten een door AI opgesteld antwoord op een klachtenmail bekritiseren en herzien. Het bewijs van bekwaamheid is het benoemen van de ongedekte beloftes, het uitleggen van de keuzes voor het publiek en het verdedigen van de definitieve formulering.
 
-Een kwantitatief vak kan hetzelfde doen met een door AI geproduceerde schatting voor een realistisch planningsprobleem, waarbij studenten hun eigen schatting maken, de aannames benoemen en de plausibiliteit toetsen.
+Een [[quantitative-research|kwantitatief]] vak kan hetzelfde doen met een door AI geproduceerde schatting voor een realistisch planningsprobleem, waarbij studenten hun eigen schatting maken, de aannames benoemen en de plausibiliteit toetsen.
 
 Voor een spreadsheet- of programmeervak deelt u een gegenereerde formule en synthetische data uit, en vraagt u om testgevallen, een uitleg van de verwijzingen en één faalvoorwaarde.
 
-Gezondheidsberoepen: studenten beoordelen een gegenereerde uitleg voor een fictief geval tegen goedgekeurde bronnen, benoemen de beperkingen en zeggen wanneer een bekwame professional moet beslissen.
+[[medical-education|Gezondheidsberoepen]]: studenten beoordelen een gegenereerde uitleg voor een fictief geval tegen goedgekeurde bronnen, benoemen de beperkingen en zeggen wanneer een bekwame professional moet beslissen.
 
-Loopbaanverkenning heeft haar eigen versie: vergelijk de taaksamenstelling van twee beroepen met betrouwbare beroepsinformatie, en plan dan één concrete stap voor vaardigheidsontwikkeling of hulp zoeken.
+Loopbaanverkenning heeft haar eigen versie: vergelijk de taaksamenstelling van twee beroepen met betrouwbare beroepsinformatie, en plan dan één concrete stap voor vaardigheidsontwikkeling of [[help-seeking|hulp zoeken]].
 
 Voor asynchrone uitvoering vraagt u om een eerste poging, een kort verificatieverslag en een notitie van twee zinnen over één gevolgenrijke beslissing. In een lab of werkgroep kan de uitleg in gesprek gebeuren. Gebruik synthetisch of geautoriseerd materiaal wanneer het alternatief vertrouwelijke werkplek- of studentgegevens zijn.
 
@@ -89,19 +89,22 @@ Een gepolijst artefact vertelt u wat er onder de toegestane voorwaarden is gepro
 
 Kies die eisen omdat ze een uitgesproken bekwaamheid ondersteunen, en zeg welke elke beoordeling meet. Studenten accepteren zelfstandige oefening wanneer ze verbonden is met het doel waarvoor ze worden opgeleid; „dit hebt u ooit nodig” doet minder werk dan laten zien hoe de berekening het is waardoor ze later een verkeerde schatting opmerken.
 
-De ondersteuningskant heeft haar eigen risico. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] vonden dat GenAI-gebruik positief samenhing met GenAI-afhankelijkheid, en afhankelijkheid negatief met zowel kritisch denken als inzetbaarheid in hun enquêtemodel. Dat is een samenhang en geen causale claim, en ze wijst op de ontwerpvraag: een vak dat alleen ooit ondersteunde prestatie beoordeelt, traint misschien juist de afhankelijkheid die het rapporteert.
+De ondersteuningskant heeft haar eigen risico. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] vonden dat [[generative-ai|GenAI]]-gebruik positief samenhing met GenAI-afhankelijkheid, en afhankelijkheid negatief met zowel [[critical-thinking|kritisch denken]] als inzetbaarheid in hun enquêtemodel. Dat is een samenhang en geen causale claim, en ze wijst op de ontwerpvraag: een vak dat alleen ooit ondersteunde prestatie beoordeelt, traint misschien juist de afhankelijkheid die het rapporteert.
+
+Dezelfde logica geldt voordat studenten de arbeidsmarkt betreden. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelleren AI-ondersteuning als een reeks waarin vaardigheid groeit door zelfstandige oefening en wegkwijnt wanneer werknemers AI-antwoorden accepteren. In hun model kunnen beginners gevangen raken op een laag vaardigheidsniveau en kunnen experts vaardigheid verliezen terwijl de nauwkeurigheid van de output hoog blijft, en strategische werknemers kunnen zelfstandig oplossen zelfs wanneer de AI nauwkeuriger is, omdat toekomstige vaardigheid waarde heeft. Het artikel is theoretisch, geen interventie, maar het scherpt de curriculumvraag aan: plan zelfstandige oefening in en beloon haar, in plaats van aan te nemen dat AI-ondersteunde output de bekwaamheid opbouwt om het werk te overzien.
+
 
 Voor de opleidingsevaluatie scheidt u de maten. Prestatie in het vak, aangetoonde AI-geletterdheid, beoordeling door de stagebegeleider, arbeidsstatus en baankwaliteit zijn verschillende uitkomsten met verschillende tijdshorizonten, en één interventie kan ze niet allemaal vaststellen. [[ai-literacy-evidence|Het bewijs over AI-geletterdheid]] is de eerlijke inventaris van wat interventiestudies werkelijk ondersteunen.
 
 ## Pak loopbaanangst aan zonder zekerheid te beloven
 
-Studenten komen met echte angsten, en de enquêteliteratuur daarover is een beschrijving van de angsten, geen voorspelling van de arbeidsmarkt. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] vonden dat AI-angst loopbaanbeslissingen direct en negatief voorspelde, wat een bevinding is over beslissingsverlamming, niet over banen. [[ai-anxiety-wellbeing|Het welzijnsbeeld]] behandelt het bredere bewijs.
+Studenten komen met echte angsten, en de enquêteliteratuur daarover is een beschrijving van de angsten, geen voorspelling van de arbeidsmarkt. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] vonden dat [[anxiety-and-stress|AI-angst]] loopbaanbeslissingen direct en negatief voorspelde, wat een bevinding is over beslissingsverlamming, niet over banen. [[ai-anxiety-wellbeing|Het welzijnsbeeld]] behandelt het bredere bewijs.
 
 Wat helpt, is onderzoek op de schaal waarop een student kan handelen: welke taken bevat deze rol werkelijk, hoe ziet een week eruit, wat zou ik moeten kunnen, wie kan het me vertellen. Loopbaandiensten, alumni en plaatsingsmedewerkers hebben die informatie. Een demonstratie van een hulpmiddel, de indruk van een docent of de presentatie van een leverancier is geen arbeidsmarktprognose, en een ervan als prognose presenteren is hoe opleidingen hun geloofwaardigheid verliezen bij studenten die het vervolgens controleren.
 
 ## Wat er op u afkomt
 
-**„Studenten hebben alleen betere prompts nodig.”** Prompten is één zinsdeel van één van de zes delen. Een goed gespecificeerd verzoek levert niet de kennis die nodig is om een slecht resultaat te herkennen, en de werkgevers in het Ithaka-panel zetten promptvaardigheid ook niet bovenaan.
+**„Studenten hebben alleen betere [[prompt-engineering|prompts]] nodig.”** Prompten is één zinsdeel van één van de zes delen. Een goed gespecificeerd verzoek levert niet de kennis die nodig is om een slecht resultaat te herkennen, en de werkgevers in het Ithaka-panel zetten promptvaardigheid ook niet bovenaan.
 
 **„Als werkplekken AI toestaan, zou cursuswerk dat ook moeten doen.”** Een vak bouwt ook de bekwaamheid op die verantwoord gebruik mogelijk maakt. Zeg bij elke taak welke van de twee u beoordeelt, en de tegenwerping wordt een ontwerpvraag in plaats van een tegenspraak.
 
@@ -125,4 +128,4 @@ Wat helpt, is onderzoek op de schaal waarop een student kan handelen: welke take
 
 [[career-development-and-readiness]] is de conceptpagina voor inzetbaarheid, adaptabiliteit en arbeidsmarktbewijs, en [[ai-literacy]] behandelt wat geletterdheid betekent voorbij de bediening van hulpmiddelen. Voor het inbouwen in een specifiek vak, zie [[incorporating-ai-literacy|AI-geletterdheid inbouwen]] en [[faculty-ai-competencies|welke competenties docenten nodig hebben]].
 
-Voor het beoordelingsontwerp dat ondersteunde en zelfstandige prestatie onderscheidbaar maakt, zie [[redesign-assessment-ai-era|het herontwerpen van beoordeling in het AI-tijdperk]] en [[ai-grading-fairness-reliability|AI-beoordeling]]. Voor hoe u voorkomt dat ondersteuning afhankelijkheid wordt, zie [[reducing-over-reliance|overmatige afhankelijkheid verminderen]].
+Voor het [[assessment|beoordelingsontwerp]] dat ondersteunde en zelfstandige prestatie onderscheidbaar maakt, zie [[redesign-assessment-ai-era|het herontwerpen van beoordeling in het AI-tijdperk]] en [[ai-grading-fairness-reliability|AI-beoordeling]]. Voor hoe u voorkomt dat ondersteuning afhankelijkheid wordt, zie [[reducing-over-reliance|overmatige afhankelijkheid verminderen]].

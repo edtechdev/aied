@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ Váš prorektor chce jednostranový prehľad „mýtov o AI“ na jarné stretnu
 
 Každé presvedčenie na tejto stránke vychádza z niečoho, čo rozumný človek videl. Plynulý text sa naozaj číta ako presný. Vybrúsená odovzdaná práca naozaj vyzerá ako učenie. Tutor, ktorý odpovie na otázku, sa naozaj cíti ako pomoc a politika so slovom „zakázané“ sa naozaj cíti ako rozhodnutie. Oprava, ktorá funguje, pomenuje to, čo pozorovanie nemôže povedať, a potom podá kontrolu, ktorú človek dokáže spustiť v pondelok.
 
-Odpoveď, ktorú dáte kolegovi jedným dychom: vzdelávací účinok AI závisí od toho, kto ju používa, pri ktorej úlohe, aké myslenie nástroj vykonáva, aká zodpovednosť zostáva na človeku a ako sa učenie hodnotí. Istota, rýchlosť, zapojenie a dokončenie úlohy sú vlastnosti používania. Žiadna z nich nie je dôkazom, že sa zmenila schopnosť.
+Tu je odpoveď jedným dychom: vzdelávací účinok AI závisí od toho, kto ju používa, pri ktorej úlohe, aké myslenie nástroj vykonáva, aká zodpovednosť zostáva na človeku a ako sa učenie hodnotí. Istota, rýchlosť, zapojenie a dokončenie úlohy sú vlastnosti používania. Žiadna z nich nie je dôkazom, že sa zmenila schopnosť.
 
 ## Stručná verzia
 
@@ -62,7 +62,7 @@ Priemery zakrývajú práve tú variáciu, ktorá rozhoduje o otázke rovnosti. 
 
 ### „Uviedli, že sa naučili veľa.“
 
-Sebauvádzanie meria vnímanie, prijatie, úzkosť a [[self-efficacy|sebaúčinnosť]] a vo všetkých štyroch je dobré. Nie je meraním preukázanej schopnosti, pretože ľudia môžu byť istí a mýliť sa alebo zruční a mať nízku sebadôveru. Syntéza výskumu AI gramotnosti učiteľov v tejto wiki uvádza podstatnú medzeru medzi sebahodnotením a meraným výkonom a učitelia v nej svoju kompetenciu výrazne precenili ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Spárujte každé sebahodnotenie s úlohou: identifikovať chybu vo výstupe, overiť zdroj, vybrať stratégiu použitia, odhaliť predpojatosť alebo patolízalstvo, prepracovať chybnú odpoveď, kalibrovať istotu proti presnosti. Jedna taká položka v prieskume mení názor na výsledok.
+[[self-report-measures|Sebavýpoveď]] meria vnímanie, prijatie, [[anxiety-and-stress|úzkosť]] a [[self-efficacy|sebaúčinnosť]] a vo všetkých štyroch je dobré. Nie je meraním preukázanej schopnosti, pretože ľudia môžu byť istí a mýliť sa alebo zruční a mať nízku sebadôveru. Syntéza výskumu AI gramotnosti učiteľov v tejto wiki uvádza podstatnú medzeru medzi [[self-assessment|sebahodnotením]] a meraným výkonom a učitelia v nej svoju kompetenciu výrazne precenili ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Spárujte každé sebahodnotenie s úlohou: identifikovať chybu vo výstupe, overiť zdroj, vybrať stratégiu použitia, odhaliť predpojatosť alebo patolízalstvo, prepracovať chybnú odpoveď, kalibrovať istotu proti presnosti. Jedna taká položka v prieskume mení názor na výsledok.
 
 ### „Simulovaný študent je lacná náhrada za skutočného.“
 
@@ -180,7 +180,7 @@ Dohľad závisí od expertízy, ktorej budovanie silná automatizácia ľuďom r
 
 ### „Výučba kritického a etického používania AI stojí produktivitu.“
 
-Neoverená automatizácia produkuje prepracovanie, bezpečnostné incidenty, diskriminačné rozhodnutia, právne riziko, poškodenie reputácie a falošnú sebadôveru, a každé z toho je náklad, ktorý číslo produktivity nezapočítalo. Zamestnanec, ktorého sa oplatí prijať, je ten, kto rozdeľuje prácu medzi ľudí a nástroje a zároveň drží kvalitu, dôvernosť, zodpovednosť a odborný úsudok. To je argument produktivity, urobený smerom, ktorý súvaha zvyčajne prehliada ([[human-ai-collaboration|Spolupráca človeka a AI]], [[governance|Riadenie AI]]).
+Neoverená automatizácia produkuje prepracovanie, bezpečnostné incidenty, diskriminačné rozhodnutia, [[legal-issues-and-risks|právne riziko]], poškodenie reputácie a falošnú sebadôveru, a každé z toho je náklad, ktorý číslo produktivity nezapočítalo. Zamestnanec, ktorého sa oplatí prijať, je ten, kto rozdeľuje prácu medzi ľudí a nástroje a zároveň drží kvalitu, dôvernosť, zodpovednosť a odborný úsudok. To je argument produktivity, urobený smerom, ktorý súvaha zvyčajne prehliada ([[human-ai-collaboration|Spolupráca človeka a AI]], [[governance|Riadenie AI]]).
 
 ## Odpovedajte na to, čomu veria študenti
 
@@ -244,7 +244,7 @@ Text politiky nevytvára zdieľané porozumenie. Študenti a personál čítajú
 
 ### „Nechuť pedagógov je medzera v školení.“
 
-Niekedy je. Pripravenosť je aj pracovná záťaž, [[learner-identity|profesijná identita]], disciplinárne hodnoty, pochybnosti o platnosti hodnotenia, slabá inštitucionálna podpora, neistota okolo súkromia a odôvodnený úsudok, že konkrétna aplikácia študentom neprospieva. Rozvoj preto musí pokryť praktickú kompetenciu, pedagogickú integráciu, účel a identitu, čas, politiku, [[discipline-specific-aied|používanie špecifické pre disciplínu]] a možnosť principiálneho neprijatia. Jednorazová ukážka funkcií nevyrieši profesijnú a organizačnú zmenu ([[educational-development|Vzdelávací rozvoj]]).
+Niekedy je. Pripravenosť je aj pracovná záťaž, [[learner-identity|profesijná identita]], disciplinárne hodnoty, pochybnosti o platnosti hodnotenia, slabá inštitucionálna podpora, neistota okolo súkromia a odôvodnený úsudok, že konkrétna aplikácia študentom neprospieva. Rozvoj preto musí pokryť praktickú kompetenciu, pedagogickú integráciu, účel a identitu, čas, politiku, [[discipline-specific-aied|používanie špecifické pre disciplínu]] a možnosť principiálneho neprijatia. Jednorazová ukážka funkcií nevyrieši profesijnú a [[change-management|organizačnú zmenu]] ([[educational-development|Vzdelávací rozvoj]]).
 
 ### „Povedať ľuďom správne fakty stačí.“
 
@@ -263,7 +263,7 @@ Spracovaná verzia, ktorú môžete prispôsobiť ktorejkoľvek položke na tejt
 > **Mylná predstava:** „Dobre vytvorené zadanie od AI ukazuje, že sa študent naučil.“
 > **Refutácia:** „To nemusí byť pravda. Produkt ukazuje, čo vytvorili študent a AI spolu, ale neodhaľuje, ktoré uvažovanie vykonal študent.“
 > **Náhrada:** „Učenie sa preukazuje lepšie vtedy, keď študent dokáže schopnosť vysvetliť, preniesť, prispôsobiť a zopakovať.“
-> **Aplikácia:** „Po práci s podporou AI nasleduje vysvetlenie, ústna obhajoba, záznam o postupe alebo aplikácia bez pomoci.“
+> **Aplikácia:** „Po práci s podporou AI nasleduje vysvetlenie, [[oral-assessment|ústna obhajoba]], záznam o postupe alebo aplikácia bez pomoci.“
 
 Náhrada nesie váhu. Odstrániť mylnú predstavu bez poskytnutia lepšieho vysvetlenia nechá človeka bez ničoho, čím by myslel, a staré presvedčenie sa vráti, keď ho jeho skúsenosť nabudúce potvrdí.
 
@@ -289,7 +289,7 @@ Učitelia podstatne precenili svoju AI kompetenciu, keď sa sebahodnotenie stret
 
 ### „Rodičia neprijmú nič iné než zákaz.“
 
-Rodičia sa pýtajú, či je vec pred ich dieťaťom bezpečná a či známka niečo znamená. Odpovedzte priamo na tieto dve otázky, pomocou otázok pedagogickej bezpečnosti a nie filtra obsahu, a argument zákazu stratí silu. Otázka pre radu je užšia než titulok a ľahšie sa obhajuje.
+[[parents-and-families|Rodičia]] sa pýtajú, či je vec pred ich dieťaťom bezpečná a či známka niečo znamená. Odpovedzte priamo na tieto dve otázky, pomocou otázok pedagogickej bezpečnosti a nie filtra obsahu, a argument zákazu stratí silu. Otázka pre radu je užšia než titulok a ľahšie sa obhajuje.
 
 ### „Nemôžeme robiť ústne obhajoby pre prednáškový kurz tejto veľkosti.“
 

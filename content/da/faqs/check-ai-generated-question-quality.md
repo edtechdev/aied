@@ -1,7 +1,7 @@
 ---
 title: "Hvordan tjekker jeg, om AI-genererede quiz- og eksamensspørgsmål faktisk er gode?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -46,7 +46,7 @@ Det korte svar til en kollega: genererede spørgsmål er kandidater, ikke en bed
 
 Generering er billig nok til, at outputformatet stille bliver specifikationen. Hvis dine noter giver pæne multiple-choice-opgaver, ender du med at måle, om studerende kan vælge mellem plausible udsagn, uanset hvilket læringsmål pensummet hævder.
 
-Specificér først læringsmålet, derefter den evidens, et tilfredsstillende svar ville levere, og derefter den viden, studerende forventes at bringe med. Medtag kursusmaterialet, de misforståelser du forventer, eventuelle tilladte værktøjer og svarformatet. Hvis du vil have studerende til at fortolke evidens, skal opgaven kræve fortolkning, og det gør det ikke at tilføje ordet til et definitionsspørgsmål. Et langt scenarie kan stadig besvares gennem én velkendt vending, der afslører det hele.
+Specificér først læringsmålet, derefter den evidens, et tilfredsstillende svar ville levere, og derefter den viden, studerende forventes at bringe med. Medtag kursusmaterialet, de [[misconceptions|misforståelser]] du forventer, eventuelle tilladte værktøjer og svarformatet. Hvis du vil have studerende til at fortolke evidens, skal opgaven kræve fortolkning, og det gør det ikke at tilføje ordet til et definitionsspørgsmål. Et langt scenarie kan stadig besvares gennem én velkendt vending, der afslører det hele.
 
 En bedømmelsesblueprint er en tabel over læringsmål mod opgaver, og dens værdi er, at den afslører huller, før de studerende gør. Den gør også afvejningen synlig: hver opgave, du genererer ud fra det letteste materiale, er en opgave, du ikke brugte på det læringsmål, du holder mest af.
 
@@ -68,7 +68,7 @@ En anden model kan hjælpe med at finde problemer, og enighed mellem to modeller
 
 ## Lad ikke sværhedsgraden afgøre
 
-Litteraturen om [[automated-question-generation|spørgsmålsgenerering]] er mere nyttig om etiketternes svigt end om genereringens succes. [[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang (2026)]] undersøgte 378 forfatterdesignede spørgsmål i datavidenskabskurser, hvoraf 311 blev udrullet til 54 studerende over 7.888 besvarelser. Modellens etiketter let, mellem og svær korrelerede med dens egne samtidigt genererede Bloom-niveauer ved ρ = 0,90 og med empirisk opgavesværhed ved ρ = 0,06. Cirka 70 % af de udrullede opgaver blev besvaret korrekt af hver eneste studerende, hvilket efterlod næsten ingen variation, som en sværhedsgrad overhovedet kunne følge.
+Litteraturen om [[automated-question-generation|spørgsmålsgenerering]] er mere nyttig om etiketternes svigt end om genereringens succes. [[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang (2026)]] undersøgte 378 forfatterdesignede spørgsmål i datavidenskabskurser, hvoraf 311 blev udrullet til 54 studerende over 7.888 besvarelser. Modellens etiketter let, mellem og svær korrelerede med dens egne samtidigt genererede Bloom-niveauer ved ρ = 0,90 og med empirisk [[item-response-theory|opgavesværhed]] ved ρ = 0,06. Cirka 70 % af de udrullede opgaver blev besvaret korrekt af hver eneste studerende, hvilket efterlod næsten ingen variation, som en sværhedsgrad overhovedet kunne følge.
 
 To læresætninger følger. For det første er sværhedsgrad en egenskab ved samspillet mellem en opgave og en population, så ingen etiket produceret før opgaven administreres, kan bruges som en målt værdi. For det andet er en bank af opgaver, alle besvarer korrekt, ikke en let bedømmelse, men en ubrugelig: den bærer næsten ingen information om, hvem der ved hvad.
 
@@ -91,6 +91,9 @@ Revidér, og gem registret: den godkendte version, det læringsmål den tjener, 
 I et introduktionskursus i sociologi kan læringsmålet være at skelne en strukturel forklaring fra en individuel. En svag opgave beder studerende definere »strukturel«, hvilket måler ordforrådsgenkendelse. En stærkere kandidat giver et kort scenarie om en familie og en beskæftigelsesbeslutning og spørger så, hvilken forklaring der bedst identificerer en strukturel begrænsning, med distraktorer, der repræsenterer plausible, men forskellige fortolkninger.
 
 Underviseren tjekker, at scenariet reelt understøtter facit, at ingen to svarmuligheder udtrykker den samme idé, og at besvarelsen ikke afhænger af terminologi, som kurset aldrig har introduceret. Et opfølgningsspørgsmål på én linje, »hvilken detalje understøtter dit valg?«, frembringer den ræsonneren, som den valgte mulighed skjuler. Tilpasningen er utestet som opgaveformat, og dens værdi er snævrere: gennemgangsspørgsmålene ovenfor kan besvares, før en opgave administreres, og et dårligt facit kan repareres, før de studerende ser det.
+
+Når studerende signalerer utilfredshed i stor skala, har signalet struktur. I en analyse af 5.214.211 sessioner med øvespørgsmål præsenteret i en lærebogsplatform kom tommel ned på 2,00 pr. 1.000 sessioner mod 3,31 tommel op, og kun 22.844 af 809.848 spørgsmål fik nogensinde en vurdering ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Mønstret i stemmerne var ikke tilfældigt: spørgsmål, der krævede adverbielle svar, fik 5,23 tommel ned pr. 1.000 mod 1,76 for adjektiviske svar, og sætningsvigtighed (odds ratio 2,38) og lighed mellem svartekster (1,64) flyttede også vurderingen. Forfatternes kalibrerede tommelfingerregel var omkring 1,62 dislikes pr. 1.000, når begge vigtighedssignaler var til stede. Den praktiske pointe er, at studerendes vurderinger er en langsom, men reel målekanal: en platform, der fjerner gentagne gange udislikede spørgsmål, lukker loopet, og en underviser, der piloterer nogle få opgaver, får det samme signal hurtigere ved at spørge, hvilken detalje den studerende var i tvivl om.
+
 
 For studerende, der genererer deres egne øvespørgsmål, gælder den samme regel på deres niveau: forsøg opgaven, tjek forklaringen mod kursuskilder, og bring de uafklarlige tilfælde til nogen, der kender faget. [[study-with-ai|Øvelse med AI]] der træner studerende i at acceptere genererede facit ukritisk, lærer den forkerte vane.
 

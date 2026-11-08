@@ -1,7 +1,7 @@
 ---
 title: "Miten tarkistan, ovatko tekoälyn tuottamat tietovisailujen ja tenttien kysymykset todella hyviä?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -46,7 +46,7 @@ Lyhyt vastaus kollegalle: tuotetut kysymykset ovat ehdokkaita, eivät arviointi.
 
 Tuottaminen on niin halpaa, että tuotoksen muoto tulee hiljaa määritelmäksi. Jos muistiinpanosi tuottavat siistejä monivalintatehtäviä, päädyt mittaamaan, osaavatko opiskelijat valita uskottavien väitteiden joukosta, mitä tahansa tavoitetta opetussuunnitelma väittää.
 
-Täsmennä ensin tavoite, sitten näyttö, jonka tyydyttävä vastaus antaisi, ja sitten tieto, jonka opiskelijoiden odotetaan tuovan mukanaan. Sisällytä kurssimateriaalit, odottamasi väärinkäsitykset, sallitut työkalut ja vastausmuoto. Jos haluat opiskelijoiden tulkitsevan näyttöä, tehtävän on vaadittava tulkintaa, eikä sanan lisääminen määritelmäkysymykseen tee sitä. Pitkä skenaario voi silti olla vastattavissa yhdellä tutulla lauseella, joka paljastaa ratkaisun.
+Täsmennä ensin tavoite, sitten näyttö, jonka tyydyttävä vastaus antaisi, ja sitten tieto, jonka opiskelijoiden odotetaan tuovan mukanaan. Sisällytä kurssimateriaalit, odottamasi [[misconceptions|väärinkäsitykset]], sallitut työkalut ja vastausmuoto. Jos haluat opiskelijoiden tulkitsevan näyttöä, tehtävän on vaadittava tulkintaa, eikä sanan lisääminen määritelmäkysymykseen tee sitä. Pitkä skenaario voi silti olla vastattavissa yhdellä tutulla lauseella, joka paljastaa ratkaisun.
 
 Arvioinnin suunnitelma on taulukko tavoitteista tehtäviä vasten, ja sen arvo on siinä, että se paljastaa aukot ennen opiskelijoita. Se tekee myös vaihtokaupan näkyväksi: jokainen helpoimmasta materiaalista tuotettu tehtävä on tehtävä, jota et käyttänyt tavoitteeseen, josta välität eniten.
 
@@ -68,7 +68,7 @@ Toinen malli voi auttaa havaitsemaan ongelmia, eikä kahden mallin yksimielisyys
 
 ## Älä anna vaikeustasomerkinnän päättää
 
-[[automated-question-generation|Kysymysten tuottamisen]] kirjallisuus on hyödyllisempää merkintöjen epäonnistumisesta kuin tuottamisen onnistumisesta. [[student-llm-use-ai-question-difficulty-data-science-2026|An ja Wang (2026)]] tarkastelivat 378 laadittua kysymystä datatieteen kursseilla, joista 311 otettiin käyttöön 54 opiskelijalle yhteensä 7 888 vastauksessa. Mallin helppo-, keskitason ja vaikea-merkinnät korreloivat sen omien rinnalla tuotettujen Bloomin tasojen kanssa arvolla ρ = 0,90 ja empiirisen tehtävävaikeuden kanssa arvolla ρ = 0,06. Noin 70 % käyttöön otetuista tehtävistä sai jokaiselta opiskelijalta oikean vastauksen, mikä jätti vaikeustasomerkinnälle lähes ei lainkaan vaihtelua seurattavaksi edes periaatteessa.
+[[automated-question-generation|Kysymysten tuottamisen]] kirjallisuus on hyödyllisempää merkintöjen epäonnistumisesta kuin tuottamisen onnistumisesta. [[student-llm-use-ai-question-difficulty-data-science-2026|An ja Wang (2026)]] tarkastelivat 378 laadittua kysymystä datatieteen kursseilla, joista 311 otettiin käyttöön 54 opiskelijalle yhteensä 7 888 vastauksessa. Mallin helppo-, keskitason ja vaikea-merkinnät korreloivat sen omien rinnalla tuotettujen Bloomin tasojen kanssa arvolla ρ = 0,90 ja empiirisen [[item-response-theory|tehtävävaikeuden]] kanssa arvolla ρ = 0,06. Noin 70 % käyttöön otetuista tehtävistä sai jokaiselta opiskelijalta oikean vastauksen, mikä jätti vaikeustasomerkinnälle lähes ei lainkaan vaihtelua seurattavaksi edes periaatteessa.
 
 Tästä seuraa kaksi opetusta. Ensinnäkin vaikeus on tehtävän ja populaation välisen vuorovaikutuksen ominaisuus, joten mitään ennen tehtävän käyttöönottoa tuotettua merkintää ei voi pitää mitattuna arvona. Toiseksi joukko tehtäviä, joihin kaikki vastaavat oikein, ei ole helppo arviointi vaan hyödytön: se ei kanna juuri lainkaan tietoa siitä, kuka tietää mitä.
 
@@ -91,6 +91,9 @@ Korjaa ja pidä kirjaa: hyväksytty versio, tavoite, jota se palvelee, avain, pe
 Sosiologian johdantokurssilla tavoite voisi olla rakenteellisen selityksen erottaminen yksilöllisestä. Heikko tehtävä pyytää opiskelijoita määrittelemään sanan ”rakenteellinen”, mikä mittaa sanaston tunnistamista. Vahvempi ehdokas antaa lyhyen skenaarion perheestä ja työllistymispäätöksestä ja kysyy sitten, mikä selitys parhaiten tunnistaa rakenteellisen rajoitteen, kun harhauttajat edustavat uskottavia mutta erilaisia tulkintoja.
 
 Opettaja tarkistaa, että skenaario todella tukee avainta, etteivät mitkään kaksi vaihtoehtoa ilmaise samaa ajatusta ja ettei vastaaminen riipu terminologiasta, jota kurssilla ei koskaan esitelty. Yhden rivin jatkokysymys ”mikä yksityiskohta tukee valintaasi?” tuo esiin päättelyn, jonka valittu vaihtoehto kätkee. Mukautus on testaamaton tehtävämuotona, ja sen arvo on kapeampi: yllä oleviin tarkistuskysymyksiin voi vastata ennen tehtävän käyttöönottoa, ja huono avain voidaan korjata ennen kuin opiskelijat näkevät sen.
+
+Kun opiskelijat ilmaisevat epätyytyväisyyttä laajassa mitassa, signaalissa on rakenne. Analyysissa, joka kattoi 5 214 211 istuntoa oppikirja-alustalla esitetyistä harjoituskysymyksistä, alapeukut saapuivat 2,00 kertaa 1 000 istuntoa kohden vastaan 3,31 yläpeukkua, ja vain 22 844 kysymystä 809 848:sta sai koskaan arvion ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson ym., 2025]]). Äänten kuvio ei ollut satunnainen: kysymykset, jotka vaativat adverbi-vastauksia, keräsivät 5,23 alapeukkua 1 000:tta kohden vastaan 1,76 adjektiivivastauksilla, ja lauseen tärkeys (vetosuhde 2,38) sekä vastaustekstin samankaltaisuus (1,64) liikuttivat myös arviota. Kirjoittajien viritetty nyrkkisääntö oli noin 1,62 ei-tykkäystä 1 000:tta kohden, kun molemmat tärkeyssignaalit olivat läsnä. Käytännön opetus on, että opiskelijoiden arviot ovat hidas mutta todellinen mittauskanava: alusta, joka poistaa toistuvasti ei-tykätyt kysymykset, sulkee silmukan, ja opettaja, joka pilotoi muutamaa tehtävää, saa saman signaalin nopeammin kysymällä, mitä yksityiskohtaa opiskelija epäili.
+
 
 Opiskelijoille, jotka tuottavat omia harjoituskysymyksiään, sama sääntö pätee heidän tasollaan: yritä tehtävää, tarkista selitys kurssilähteitä vasten ja vie ratkaisemattomat tapaukset jonkun luo, joka tuntee aiheen. [[study-with-ai|Opiskeluharjoittelu]], joka opettaa opiskelijat hyväksymään tuotetut avaimet kritiikittä, opettaa väärän tavan.
 

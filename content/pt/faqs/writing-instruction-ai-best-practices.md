@@ -1,7 +1,7 @@
 ---
 title: "Quais são as melhores práticas para o ensino de escrita no contexto da IA?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -9,7 +9,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-Você está reescrevendo um enunciado de trabalho e a frase à sua frente diz que o uso de IA é permitido com declaração, o que não diz a um estudante se a ferramenta pode fornecer o argumento. Um colega propôs uma proibição para todo o curso, e você suspeita que ela recai com mais força sobre os escritores multilíngues da turma. Ou uma leva de redações voltou mais fluida que a discussão do seminário que as sustentava, e você precisa de uma regra que consiga defender na próxima reunião de currículo.
+Você está reescrevendo um enunciado de trabalho e a frase à sua frente diz que o uso de IA é permitido com declaração, o que não diz a um estudante se a ferramenta pode fornecer o argumento. Um colega propôs uma proibição para todo o curso, e você suspeita que ela recai com mais força sobre os escritores multilíngues da turma. Ou uma leva de redações voltou mais fluida que a discussão do seminário que as sustentava, e você precisa de uma regra que consiga defender na próxima reunião de [[curriculum-design|currículo]].
 
 A conclusão principal: nomeie o trabalho intelectual que a tarefa existe para produzir, mantenha essa etapa com o estudante e dê à ferramenta tarefas que devolvam algo que o estudante tenha de julgar. Uma regra escrita assim diz ao estudante qual etapa ela protege.
 
@@ -81,7 +81,7 @@ Uma sequência que vale a pena tomar emprestada mantém a IA em papel de consult
 | **8. Revisar** | Fazer e justificar mudanças substantivas | Testar clareza, oferecer alternativas | Revisão |
 | **9. Verificar** | Checar toda afirmação factual ou dependente de fonte | Não consegue verificar seu próprio resultado | Fontes e evidência |
 | **10. Refletir e declarar** | Explicar o papel da IA e o que mudou em seu raciocínio | Nada | Breve reflexão de processo |
-| **11. Verificação independente** | Explicar ou aplicar o raciocínio sem IA | Nada | Defesa oral, escrita rápida, caso novo |
+| **11. Verificação independente** | Explicar ou aplicar o raciocínio sem IA | Nada | [[oral-assessment|Defesa oral]], escrita rápida, caso novo |
 
 Isto é o [[pairr-ai-peer-review-2025|PAIRR]] ampliado: rascunho, feedback humano, feedback da IA, comparação, revisão, reflexão, com uma linha de base independente e uma fronteira mais apertada em torno do raciocínio. Use a coluna do meio como a tarefa e a coluna da direita como aquilo em que uma nota pode se apoiar.
 
@@ -92,6 +92,8 @@ Onze linhas é mais do que a maioria das tarefas precisa. Reduza a tabela às et
 O maior estudo de sala de aula aqui é o [[pairr-ai-peer-review-2025|PAIRR]]: 654 estudantes em dez cursos de escrita e três cursos de [[stem-education|STEM]] com forte componente de escrita. Eles redigiram, fizeram [[peer-assessment|avaliação por pares]], obtiveram feedback da IA baseado em rubrica, compararam e avaliaram as duas fontes, escreveram planos de revisão, revisaram e refletiram. Cinquenta e oito por cento preferiram o feedback combinado de pares e IA. Seis por cento preferiram apenas o feedback da IA. Os estudantes acharam a IA útil para orientações amplas de revisão voltadas à rubrica, e os colegas forneceram conhecimento contextual e uma resposta autêntica de público.
 
 Seja exato sobre a afirmação. O PAIRR mediu a experiência e a avaliação que os estudantes fizeram do feedback, não [[learning-gains|ganhos de aprendizagem]] de longo prazo, então é evidência forte para um desenho de feedback e evidência mais fraca de que a escrita melhora meses depois. Mantenha a etapa entre pares mesmo quando a etapa da IA é mais rápida. Boa parte do trabalho do [[feedback]] acontece na comparação entre as duas fontes, e abandoná-la remove justamente a parte que os estudantes disseram valorizar.
+
+A própria ferramenta pode ser desenhada para proteger a etapa de raciocínio. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] construíram o MAIKE, um chatbot [[socratic-method|socrático]] que diagnostica argumentos e faz perguntas direcionadas sem gerar texto de redação. Em um estudo de sala de aula com 65 estudantes do ensino médio, usuários do MAIKE gastaram mais turnos em diálogo no nível da ideia do que os usuários de controle (56% contra 44%) e transitaram entre discussão e edição; cerca de 40% dos estudantes melhoraram as notas das redações. O estudo não mostrou vantagem geral de nota sobre o controle, então trate-o como demonstração de desenho sobre conectar conversa e revisão, não como prova de que o chatbot eleva a qualidade da escrita.
 
 ## Avalie o que o estudante fez com o feedback
 

@@ -19,7 +19,7 @@ sources: ['raw/papers/genai-minoritized-knowledges-disability.md']
 
 ## Double Marginalization
 
-The paper identifies a **double marginalization** for [[special-education|disabled learners]]: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
+The paper identifies a **double marginalization** for [[inclusive-learning|disabled learners]]: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
 
 ## Epistemic Coloniality
 

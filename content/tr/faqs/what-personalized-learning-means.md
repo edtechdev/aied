@@ -1,7 +1,7 @@
 ---
 title: "Kişiselleştirilmiş Öğrenme Gerçekte Ne Anlama Gelir ve Ne Zaman Yardımcı Olur?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 Platform her öğrenci için kişiselleştirilmiş bir deneyim vaat ediyor. Alıştırma sorularını yeniden sıralayabilir, bir açıklamayı öğrencinin futbola olan ilgisi etrafında yeniden yazabilir, geçen haftanın konuşmasını hatırlayabilir ya da öğrencinin sırada ne çalışacağını seçebilir. Dördü de kişiselleştirme diye adlandırılıyor ve bunlardan yalnızca biri buna benzer bir biçimde test edildi.
 
-Bir meslektaşınıza vereceğiniz kısa yanıt: kişiselleştirme, öğrenme deneyiminin bir parçasında bir değişikliği adlandırır ve değeri üç şeye bağlıdır: neyin uyarlandığı, uyarlamayı hangi kanıtın yönlendirdiği ve değişikliğin amaçladığınız öğrenmeyi iyileştirip iyileştirmediği. Tanıdık bir örnek ya da duyarlı bir konuşma, hiçbir şey öğretmeden kişisel hissettirebilir. Etkili bir uyarlama görünmez olabilir. Bu bilgi tabanındaki en net deneysel sonuç dardır: on Taipei lisesinde beş aylık bir Python sertifika kursunda, uyarlanabilir problem sıralamasına rastgele atanan öğrenciler, yüz yüze ve yardımsız bir final sınavında sabit bir sıralamaya ve aynı sohbet robotu erişimine sahip öğrencilerden yaklaşık 0,150 standart sapma daha yüksek puan aldı ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung ve ark., 2026]]). Bu, belirtilen koşullar altında sıralamayı destekler. Kişiselleştirilmiş diye satılan her şeyi doğrulamaz.
+Bir meslektaşınıza vereceğiniz kısa yanıt: kişiselleştirme, öğrenme deneyiminin bir parçasında bir değişikliği adlandırır ve değeri üç şeye bağlıdır: neyin uyarlandığı, uyarlamayı hangi kanıtın yönlendirdiği ve değişikliğin amaçladığınız öğrenmeyi iyileştirip iyileştirmediği. Tanıdık bir örnek ya da duyarlı bir konuşma, hiçbir şey öğretmeden kişisel hissettirebilir. Etkili bir uyarlama görünmez olabilir. Bu bilgi tabanındaki en net deneysel sonuç dardır: on Taipei lisesinde beş aylık bir Python sertifika kursunda, uyarlanabilir problem sıralamasına rastgele atanan öğrenciler, yüz yüze ve yardımsız bir [[summative-assessment|final sınavında]] sabit bir sıralamaya ve aynı [[conversational-ai|sohbet robotu]] erişimine sahip öğrencilerden yaklaşık 0,150 standart sapma daha yüksek puan aldı ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung ve ark., 2026]]). Bu, belirtilen koşullar altında sıralamayı destekler. Kişiselleştirilmiş diye satılan her şeyi doğrulamaz.
 
 ## Kısa özet
 
 **1.** Hangi parçanın uyarlandığını adlandırın: sunum, ilgi bağlamı, zorluk ve destek, sıra ve tempo ya da hedefler ve seçim.
 
-**2.** Uyarlamayı hangi kanıtın tetiklediğini ve yanlış bir öğrenen modelinin nasıl düzeltildiğini sorun.
+**2.** Uyarlamayı hangi kanıtın tetiklediğini ve yanlış bir [[student-modeling|öğrenen modelinin]] nasıl düzeltildiğini sorun.
 
 **3.** Uyarlamanın varış noktasını koruyup korumadığını yoksa sessizce düşürüp düşürmediğini kontrol edin.
 
@@ -60,11 +60,11 @@ Hedef ve seçim uyarlamaları öğrencilerin bir proje, bir yol ya da bir uygula
 
 ## Kanıtların gösterdiği
 
-**Belirli bir uyarlama yardımsız performansı iyileştirdi.** Chung ve ark. Python için korumalı bir sohbet robotunu bir sonraki alıştırma problemini seçen pekiştirmeli öğrenme algoritmasıyla birleştiren bir platform kurdu ve on liseyle beş aylık bir sertifika kursunda kullandı. Öğrenciler uyarlanabilir sıralama ile sabit sıralama arasında rastgele atandı ve iki grup da aynı sohbet robotu erişimine sahipti; sıralamanın farkı sahiplenmesini sağlayan tasarım budur. 0,150 standart sapmalık avantaj yüz yüze ve yardımsız bir final sınavında ortaya çıktı. İki şey akılda tutmaya değer: karşılaştırma sıralamayı erişimden yalıtıyor ve çıktı katılım değil yardımsız performans. Çalışmanın göstermediği şey, kişiselleştirilmiş açıklamaların, yeniden yazılmış materyallerin ya da hatırlanan tercihlerin yardımcı olduğudur. Müdahale bunlar değildi.
+**Belirli bir uyarlama yardımsız performansı iyileştirdi.** Chung ve ark. Python için korumalı bir sohbet robotunu bir sonraki alıştırma problemini seçen [[reinforcement-learning|pekiştirmeli öğrenme]] algoritmasıyla birleştiren bir platform kurdu ve on liseyle beş aylık bir sertifika kursunda kullandı. Öğrenciler uyarlanabilir sıralama ile sabit sıralama arasında rastgele atandı ve iki grup da aynı sohbet robotu erişimine sahipti; sıralamanın farkı sahiplenmesini sağlayan tasarım budur. 0,150 standart sapmalık avantaj yüz yüze ve yardımsız bir final sınavında ortaya çıktı. İki şey akılda tutmaya değer: karşılaştırma sıralamayı erişimden yalıtıyor ve çıktı katılım değil yardımsız performans. Çalışmanın göstermediği şey, kişiselleştirilmiş açıklamaların, yeniden yazılmış materyallerin ya da hatırlanan tercihlerin yardımcı olduğudur. Müdahale bunlar değildi.
 
-**Algılanan kişiselleştirme daha zayıf öz düzenlemeyle birlikte gidebilir.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin ve Qiu (2026)]], 486 Çinli lisans öğrencisini üç anket dalgası boyunca izledi ve uyarlanabilir ortamlarını daha kişiselleştirilmiş algılayan öğrencilerin daha zayıf [[self-regulated-learning|öz düzenlemeli öğrenme]] bildirdiğini buldu. İlişkinin büyük kısmını akademik duygular taşıdı; azalan keyif ile birlikte artan kaygı ve can sıkıntısı, toplam etkinin yarısından fazlasını açıkladı. Tasarım gözlemseldir ve öz bildirime dayanır, bu yüzden düşüşe kişiselleştirmenin neden olduğunu ortaya koyamaz. Yine de bir pilotun izlemesi gereken çıktıyı belirler, çünkü her belirsizliği hızla yanıtlayan bir sistem, dersin kurmayı amaçladığı planlamayı ve yargıyı ortadan kaldırabilir.
+**Algılanan kişiselleştirme daha zayıf öz düzenlemeyle birlikte gidebilir.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin ve Qiu (2026)]], 486 Çinli lisans öğrencisini üç anket dalgası boyunca izledi ve uyarlanabilir ortamlarını daha kişiselleştirilmiş algılayan öğrencilerin daha zayıf [[self-regulated-learning|öz düzenlemeli öğrenme]] bildirdiğini buldu. İlişkinin büyük kısmını akademik duygular taşıdı; azalan keyif ile birlikte artan [[anxiety-and-stress|kaygı]] ve can sıkıntısı, toplam etkinin yarısından fazlasını açıkladı. Tasarım gözlemseldir ve [[self-report-measures|öz bildirime]] dayanır, bu yüzden düşüşe kişiselleştirmenin neden olduğunu ortaya koyamaz. Yine de bir pilotun izlemesi gereken çıktıyı belirler, çünkü her belirsizliği hızla yanıtlayan bir sistem, dersin kurmayı amaçladığı planlamayı ve yargıyı ortadan kaldırabilir.
 
-**İlgi ve anlayış ayrı kontrollerdir.** [[personalized-learning]] sentezi, Bernstein ve Sibia'nın ilgi temelli bilgi işlem analojileri üzerine küçük, nitel bir ön baskı olan *Flawed but Memorable* çalışmasını ele alıyor. Öğrenci tepkileri çeşitlilik gösterdi ve analojinin kaynak alanına aşinalık, analojinin nerede çöktüğünü fark etmelerine yardımcı oldu. Pratik okuma, öğrenenlerin nelerden hoşlandığı kadar neleri zaten bildiklerini de sormak ve bildirilen akılda kalıcılığı bir öğrenme sonucu değil bir deneyim ölçüsü olarak ele almaktır.
+**İlgi ve anlayış ayrı kontrollerdir.** [[personalized-learning]] sentezi, Bernstein ve Sibia'nın ilgi temelli bilgi işlem analojileri üzerine küçük, [[qualitative-research|nitel]] bir ön baskı olan *Flawed but Memorable* çalışmasını ele alıyor. Öğrenci tepkileri çeşitlilik gösterdi ve analojinin kaynak alanına aşinalık, analojinin nerede çöktüğünü fark etmelerine yardımcı oldu. Pratik okuma, öğrenenlerin nelerden hoşlandığı kadar neleri zaten bildiklerini de sormak ve bildirilen akılda kalıcılığı bir öğrenme sonucu değil bir deneyim ölçüsü olarak ele almaktır.
 
 ## Uyarlamaya güvenmeden önce tanıyı kontrol edin
 
@@ -86,7 +86,7 @@ Orantılı bilgi toplayın. İlgi temelli bir örnek nadiren ayrıntılı bir ki
 
 ## Bu bir derste nasıl görünür
 
-Giriş düzeyi bir matematik dersinde kısa bir tanı, bir önkoşul kavram yanılgısını bir aritmetik hatasından ayırabilir. Kavram yanılgısı olan öğrenci hedefli bir açıklama ve çözümlü bir örnek alır. Diğeri uygulamaya geçer. Sonra ikisi de karşılaştırılabilir bir bağımsız görevi tamamlar; değişmiş bir bağlamda bir uygulama dahil.
+Giriş düzeyi bir matematik dersinde kısa bir tanı, bir önkoşul [[misconceptions|kavram yanılgısını]] bir aritmetik hatasından ayırabilir. Kavram yanılgısı olan öğrenci hedefli bir açıklama ve çözümlü bir örnek alır. Diğeri uygulamaya geçer. Sonra ikisi de karşılaştırılabilir bir bağımsız görevi tamamlar; değişmiş bir bağlamda bir uygulama dahil.
 
 Öğrenciler matematiksel hedef sabit ve görünür kalırken tanıdık uygulama bağlamları arasında seçim yapabilir. Eğitmen iki yolun da anlayışı iyileştirip iyileştirmediğini, öğrencilerin akıl yürütmelerini açıklayıp açıklayamadığını ve birinin telafi eğitiminde sıkışıp kalıp kalmadığını kontrol eder. Bunu pilot uygulanacak bir tasarım olarak ele alın; hiçbir platform bu yapılandırmada doğrulanmadı.
 
@@ -96,7 +96,7 @@ Okuma yoğun bir derste bir sözlük ya da isteğe bağlı bir açıklama erişi
 
 Kişiselleştirilmiş sürümü inandırıcı bir şeyle karşılaştırın: iyi tasarlanmış ortak bir sıra, uyarlanabilir sıralaması olmayan aynı öğretmen ya da özenle seçilmiş bir örnek menüsü. Kişiselleştirilmiş kolunuz aynı zamanda daha fazla alıştırma, daha fazla geri bildirim ve daha fazla zaman ekliyorsa karşılaştırma kişiselleştirmeyi yalıtamaz ve dürüst rapor bunu söyler.
 
-Mümkün olduğunda yardımsız performansı, kalıcılığı ya da aktarımı, zamanı ve çabayı, öğrenci özerkliğini ve kimin yararlandığını ölçün. Memnuniyeti ve algılanan uyumu manşet değil ek çıktılar olarak tutun. Hangi iyileşmenin geliştirme, izleme ve veri işleme maliyetlerini haklı çıkaracağına önceden karar verin, çünkü bu maliyetler etki görünsün görünmesin ödenir.
+Mümkün olduğunda yardımsız performansı, kalıcılığı ya da aktarımı, zamanı ve çabayı, [[agency|öğrenci özerkliğini]] ve kimin yararlandığını ölçün. Memnuniyeti ve algılanan uyumu manşet değil ek çıktılar olarak tutun. Hangi iyileşmenin geliştirme, izleme ve veri işleme maliyetlerini haklı çıkaracağına önceden karar verin, çünkü bu maliyetler etki görünsün görünmesin ödenir.
 
 ## Size geri dönecek olanlar
 

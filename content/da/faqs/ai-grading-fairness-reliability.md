@@ -1,9 +1,9 @@
 ---
 title: "Kan jeg bruge AI til at bedømme studerendes arbejde retfærdigt og pålideligt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -48,7 +48,7 @@ Tre arrangementer bliver kaldt »AI-bedømmelse«, og de har forskellige forplig
 
 En **feedbackassistent** skriver udkast til kommentarer eller markerer mulige udeladelser, som du kan acceptere, omskrive eller kassere. Risikoen er begrænset til kommentarernes kvalitet, og du læser alt, før det når en studerende. En **anden læser** foreslår kriteriescorer eller markerer uenigheder for at strukturere din egen bedømmelse. Dens fejl skal være nyttige og ikke blot forkerte: en markering, der sender dig tilbage til en besvarelse, du ellers ville have bedømt skødesløst, er værd at have. En **primær bedømmer** producerer scorer, der bliver registrerede karakterer. Det er det arrangement, som evidensen i denne vidensbase ikke understøtter ud over snævre, lokalt validerede tilfælde.
 
-Vælg det laveste trin, der adresserer din faktiske begrænsning. Hvis din bedømmelsesbyrde kommer fra at tjekke en fast facitliste, er almindelig deterministisk scoring mere gennemsigtig og reviderbar end en sprogmodel, og farmacistudiet tyder på, at LLM'ens fordel på objektive opgaver delvist var en artefakt af at få de korrekte svar udleveret under bedømmelsen. Gem modellen til arbejde, der kræver fortolkning, og tjek så den fortolkning.
+Vælg det laveste trin, der adresserer din faktiske begrænsning. Hvis din bedømmelsesbyrde kommer fra at tjekke en fast facitliste, er almindelig deterministisk scoring mere gennemsigtig og reviderbar end en [[llm|sprogmodel]], og farmacistudiet tyder på, at LLM'ens fordel på objektive opgaver delvist var en artefakt af at få de korrekte svar udleveret under bedømmelsen. Gem modellen til arbejde, der kræver fortolkning, og tjek så den fortolkning.
 
 [[automated-assessment|Automatiseret bedømmelse]] dækker det bredere maskineri af scoring, moderation og feedbackgenerering. Denne side handler om det dømmekraftsspørgsmål, der ligger under.
 

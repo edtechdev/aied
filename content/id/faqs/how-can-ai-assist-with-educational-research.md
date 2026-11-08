@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Jawaban singkat untuk rapat itu: AI dapat mengambil alih pencarian, penyaringan 
 
 ## Putuskan apa yang boleh disentuh AI sebelum proyek dimulai
 
-Keputusan cakupan berada di berkas proyek, bukan di ingatan seseorang. Dalam [[dai-chan-responsible-genai-research-ai-literacy-2026|studi kelompok fokus Dai dan Chan (2026)]], para peneliti yang telah memikirkannya mengalibrasi penggunaan berdasarkan taruhan dan sentralitas intelektual: lebih berat pada pekerjaan prosedural berisiko rendah, hati-hati di tempat kontribusi ilmiahnya menjadi pusat. Dua puluh tujuh dari 28 peneliti pascasarjana dalam studi itu pernah menggunakan GenAI di suatu tempat dalam alur kerja, termasuk penulisan akademik dan penerjemahan, sehingga bagi sebagian besar tim pertanyaannya adalah di mana garisnya berada, bukan apakah garis itu ada.
+Keputusan cakupan berada di berkas proyek, bukan di ingatan seseorang. Dalam [[dai-chan-responsible-genai-research-ai-literacy-2026|studi kelompok fokus Dai dan Chan (2026)]], para peneliti yang telah memikirkannya mengalibrasi penggunaan berdasarkan taruhan dan sentralitas intelektual: lebih berat pada pekerjaan prosedural berisiko rendah, hati-hati di tempat kontribusi ilmiahnya menjadi pusat. Dua puluh tujuh dari 28 peneliti pascasarjana dalam studi itu pernah menggunakan [[generative-ai|GenAI]] di suatu tempat dalam alur kerja, termasuk [[writing-education|penulisan akademik]] dan penerjemahan, sehingga bagi sebagian besar tim pertanyaannya adalah di mana garisnya berada, bukan apakah garis itu ada.
 
 Tulis garis itu sebagai daftar dengan putusan untuk setiap tugas: pencarian literatur, penyaringan abstrak, ekstraksi, pengodean kualitatif, analisis statistik, penyusunan draf, pemformatan referensi. Bacalah studi itu sebagai peta tentang apa yang dilaporkan dilakukan para peneliti. Itu catatan kelompok fokus, bukan hasil efektivitas.
 
@@ -64,27 +64,30 @@ Sebagian besar manfaatnya datang dari dua keputusan desain. Tulis aturan keputus
 
 Delegasi dapat lebih terperinci daripada semua atau tidak sama sekali. [[agreement-not-quality-llm-coding-verification|Satu studi verifikasi buta]] menggolongkan 15 dari 72 butir buku kode sebagai jelas memerlukan keahlian manusia, 12 lebih baik dilayani model, dan 16 cocok untuk triase berbasis keyakinan. Urutkan butir Anda sendiri dengan cara itu dan penghematan tenaganya jatuh di tempat yang aman.
 
+Pemodelan topik dapat memperluas struktur itu tanpa mengambil alih interpretasi. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey dan Flor (2026)]] menggabungkan pengodean berbasis landasan, embedding SentenceBERT yang dikelompokkan dengan Affinity Propagation, dan pelabelan GPT-4 pada enam kelompok fokus bersama 13 guru. Tinjauan manusia menggugurkan 18 klaster komunikasi dan 16 klaster literasi digital yang merupakan pengisi percakapan, menyisakan 14 dan 16 klaster bermakna; ChatGPT-4o dan Copilot bersepakat pada 33,3% dan 43,8% label, dengan kemiripan kosinus 0,835–0,880, dan tinjauan manusia tidak menemukan halusinasi yang jelas. Studi ini adalah pipeline yang dikerjakan, bukan perbandingan: ia tidak memiliki kelompok hanya-manusia atau hanya-AI, dan 13 guru tidak dapat menetapkan generalisabilitas. Gunakan untuk melihat pembagian kerjanya, bukan sebagai bukti bahwa hibrida mengalahkan alternatif lain.
+
+
 ## Putuskan apa arti verifikasi dan siapa yang menandatanganinya
 
-Kesepakatan tinggi antara model dan pengode manusia dilaporkan seolah-olah itu menetapkan kebenaran. Tidak demikian. [[agreement-not-quality-llm-coding-verification|Liu dkk. (2026)]] meminta seorang ahli independen menilai 855 pasangan himpunan kode secara buta terhadap sumbernya. Kesepakatan manusia-LLM (Jaccard rata-rata 0,30) berada jauh di bawah kesepakatan manusia-manusia (0,52), namun verifikator buta lebih memilih pengodean manusia dan mesin pada tingkat yang tidak dapat ia bedakan (51,5% berbanding 48,5%, p = 0,537). Dalam beberapa kasus konsensus manusia memuat bias bersama yang ditolak verifikator demi model.
+Kesepakatan tinggi antara model dan pengode manusia dilaporkan seolah-olah itu menetapkan kebenaran. Tidak demikian. [[agreement-not-quality-llm-coding-verification|Liu dkk. (2026)]] meminta seorang ahli independen menilai 855 pasangan himpunan kode secara buta terhadap sumbernya. Kesepakatan manusia-[[llm|LLM]] (Jaccard rata-rata 0,30) berada jauh di bawah kesepakatan manusia-manusia (0,52), namun verifikator buta lebih memilih pengodean manusia dan mesin pada tingkat yang tidak dapat ia bedakan (51,5% berbanding 48,5%, p = 0,537). Dalam beberapa kasus konsensus manusia memuat bias bersama yang ditolak verifikator demi model.
 
 Jadi langkah verifikasi memerlukan standar emas yang bukan keluaran model dan bukan pula kesepakatan pengode dengannya, ditambah orang tertentu yang memutuskan perselisihannya. Laporkan keduanya. Statistik kemiripan menggambarkan seberapa dekat dua pembacaan cocok, dan tidak mengatakan apa pun tentang apakah salah satunya benar.
 
 ## Cari dengan cepat, lalu periksa sendiri setiap sumber
 
-Pencarian generatif merangkum, merekomendasikan, menyintesis, dan bercakap, yang mengganggu susunan lama di mana sistem menemukan dan pembaca menafsirkan ([[genai-academic-search-workshop|lokakarya pencarian akademik GenAI]]). Perlakukan sebagai alat penemuan. Laporan lokakarya itu membawa dua peringatan: kemampuannya tidak merata, dengan sarjana yang sangat banyak dikutip direkonstruksi sekitar dua kali lipat tingkat rekan yang kurang dikutip, dan seorang pustakawan menggambarkan kesenjangan kepercayaan di mana mahasiswa terlalu mempercayai pencarian generatif sementara dosen tidak mempercayainya.
+Pencarian generatif merangkum, merekomendasikan, menyintesis, dan bercakap, yang mengganggu susunan lama di mana sistem menemukan dan pembaca menafsirkan ([[genai-academic-search-workshop|lokakarya pencarian akademik GenAI]]). Perlakukan sebagai alat penemuan. Laporan lokakarya itu membawa dua peringatan: kemampuannya tidak merata, dengan sarjana yang sangat banyak dikutip direkonstruksi sekitar dua kali lipat tingkat rekan yang kurang dikutip, dan seorang [[librarians|pustakawan]] menggambarkan kesenjangan kepercayaan di mana mahasiswa terlalu mempercayai pencarian generatif sementara dosen tidak mempercayainya.
 
 Verifikasi referensi adalah tempat ini menjadi tidak dapat ditawar, dan kegagalannya mengelompok di bidang penulis, bidang yang membawa kredit. [[citation-errors-hallucinations-computing-education-2026|Denny dkk. (2026)]] mengaudit 723.930 publikasi dan 15.872.533 referensi dan memverifikasi 30 referensi yang direkayasa di 14 makalah pendidikan komputasi, semuanya dari 2025 dan 2026. Tujuh belas dari 30 itu hibrida: judul asli dilekatkan pada penulis yang direkayasa atau salah. Jumlah terverifikasi pada satu simposium teknis naik dari 3 pada 2025 menjadi 17 pada 2026, pada 2,3% makalah prosiding tahun itu. Total mereka adalah batas bawah yang disengaja, dan pemeriksa otomatis mewarisi cacat metadata yang mereka perlakukan sebagai kebenaran dasar. Periksa penulisnya lebih dulu.
 
 ## Perlakukan skor otomatis sebagai hipotesis yang harus diuji
 
-Fungsi pengukuran otomatis dapat tampak presisi dan prediktif sambil tetap buram. [[ai-methodologies-science-education-research-2026|Martin dkk.]] membingkainya dengan masalah pengukuran nomik Chang: mengukur suatu kuantitas memerlukan hukum yang menghubungkannya dengan sesuatu yang dapat diamati, dan hukum itu tidak dapat diuji tanpa sudah mengetahui kuantitasnya. Fungsi pengukuran yang diturunkan AI muncul dari data pelatihan dan optimasi, bukan dari peneliti, sehingga kerja keterjelasan penting untuk menunjukkan apakah sebuah model melacak pemahaman semantik atau hanya kata kunci.
+Fungsi pengukuran otomatis dapat tampak presisi dan prediktif sambil tetap buram. [[ai-methodologies-science-education-research-2026|Martin dkk.]] membingkainya dengan masalah pengukuran nomik Chang: mengukur suatu kuantitas memerlukan hukum yang menghubungkannya dengan sesuatu yang dapat diamati, dan hukum itu tidak dapat diuji tanpa sudah mengetahui kuantitasnya. Fungsi pengukuran yang diturunkan AI muncul dari data pelatihan dan optimasi, bukan dari peneliti, sehingga kerja [[explainable-ai|keterjelasan]] penting untuk menunjukkan apakah sebuah model melacak pemahaman semantik atau hanya kata kunci.
 
 Kegagalannya konkret. Dalam [[zhang-platform-scores-miss-ai-teaching-agents-2026|evaluasi atas delapan agen pengajar AI]], agen yang peringkat ketiga menurut skor platform itu sendiri menempati peringkat terakhir pada rubrik yang divalidasi ahli. Ketidaksepakatan manusia-mesin bersifat sistematis, bukan acak, dan operasionalisasi rubrik sering kali lebih penting daripada kepiawaian menulis prompt ([[machines-misread-pedagogical-quality|Tseng dkk., 2026]]). Sebelum skor otomatis menjadi instrumen Anda, validasikan terhadap ukuran yang terkait dengan kemampuan yang ingin Anda teliti. Untuk ukurannya sendiri, lihat [[evaluating-ai-interventions-methods|mengevaluasi intervensi AI]].
 
 ## Tulis bagian metode agar orang luar dapat mengauditnya
 
-Adopsi telah berjalan lebih cepat daripada pelaporannya. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta dan Lin (2026)]] menganalisis 888 makalah otomasi tinjauan: sejak 2023, 38,0% makalah perangkat lunak dan produk sama sekali tidak melaporkan evaluasi, dibandingkan 9,3% makalah LLM, dan akses model secara sangat dominan bersifat kepemilikan (84,1%). Penilaian keseluruhan yang menguntungkan juga tidak menyiratkan kelayakan untuk didelegasikan, karena 52% dari 118 makalah LLM yang hanya positif masih melaporkan kekhawatiran bahwa alur kerjanya berada di bawah ambang yang dibutuhkan perannya. Kerangka PRISMA-LLM mereka memisahkan pengungkapan implementasi dari evaluasi yang peka konsekuensi dan memperlakukan kelima levelnya sebagai tingkatan pengungkapan, bukan tingkatan risiko.
+Adopsi telah berjalan lebih cepat daripada pelaporannya. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta dan Lin (2026)]] menganalisis 888 makalah otomasi tinjauan: sejak 2023, 38,0% makalah perangkat lunak dan produk sama sekali tidak melaporkan evaluasi, dibandingkan 9,3% makalah LLM, dan akses model secara sangat dominan bersifat kepemilikan (84,1%). Penilaian keseluruhan yang menguntungkan juga tidak menyiratkan kelayakan untuk didelegasikan, karena 52% dari 118 makalah LLM yang hanya positif masih melaporkan kekhawatiran bahwa alur kerjanya berada di bawah ambang yang dibutuhkan perannya. Kerangka [[meta-analysis-systematic-review|PRISMA]]-LLM mereka memisahkan pengungkapan implementasi dari evaluasi yang peka konsekuensi dan memperlakukan kelima levelnya sebagai tingkatan pengungkapan, bukan tingkatan risiko.
 
 Versi praktisnya: sebutkan sistemnya dan versinya, promptnya, versi korpusnya, apa yang diperiksa manusia, dan di mana ia gagal. Simpan log prompt dan respons, karena daftar tema buatan yang lancar tampak tak terhindarkan jauh sebelum kerja pembuktiannya dimulai ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -104,7 +107,7 @@ Tetapkan kriteria Anda lebih dulu dan jaga agar terlihat. Studi lokal kecil tida
 
 Laporkan peran AI, verifikasi yang Anda lakukan, dan batas desain satu kursus dengan satu peneliti. Uraian alur kerja bukan hasil khasiat.
 
-Perlakukan simulasi kohort sebagai opsi lanjutan, bukan bawaan. Pembelajar simulasi cenderung mencakup kuadran termudah dari perilaku mahasiswa nyata dan jarang divalidasi setelah digunakan ([[simulating-students|mensimulasikan mahasiswa]]). Baca [[making-simulated-students-behave-like-learners|membuat mahasiswa simulasi berperilaku seperti pembelajar]] sebelum Anda memercayai putusan sebuah simulator.
+Perlakukan simulasi kohort sebagai opsi lanjutan, bukan bawaan. Pembelajar simulasi cenderung mencakup kuadran termudah dari perilaku mahasiswa nyata dan jarang divalidasi setelah digunakan ([[simulating-students|mensimulasikan mahasiswa]]). Baca [[making-simulated-students-behave-like-learners|membuat mahasiswa simulasi berperilaku seperti pembelajar]] sebelum Anda memercayai putusan sebuah [[simulation|simulator]].
 
 ## Apa yang salah dipahami peneliti tentang hal ini
 

@@ -1,9 +1,9 @@
 ---
 title: "Mogu li koristiti AI za pošteno i pouzdano ocjenjivanje studentskih radova?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Imate rubriku u koju vjerujete, više predanih radova nego sati i alat koji vraća ocjenu i nekoliko samouvjerenih odlomaka u vremenu koje je potrebno da se pročita jedan esej. Isprobate ga na radovima koje ste već ocijenili. Polovica ocjena izgleda ispravno. Jedna je neobično darežljiva, jedna neobično stroga, a još ne možete reći je li to alat ili esej.
 
-Kratak odgovor za kolegu: AI ocjenjivanje zaslužuje mjesto kao nadzirani pomoćnik ili drugi čitatelj, na zadacima na kojima ste ga provjerili prema radovima koje ste već ocijenili. Sukladnost se ne prenosi između vrsta procjene. U ispitu iz farmacije sa šesnaest studenata [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat i sur. (2026)]] pronašli su gotovo savršenu sukladnost na objektivnim tipovima čestica i nepouzdanu sukladnost na otvorenim odgovorima. Na tri engleska sveučilišta [[opraise-automated-marking-ai-assessment-2026|projekt OpRaise]] pronašao je da se AI i ljudski ocjenjivači slažu o razini ocjene u između 35% i 65% slučajeva, ovisno o instituciji, uz ocjene sabijene prema sredini. Tečno obrazloženje nije dokaz da su vaši kriteriji primijenjeni. Je li rezultat [[assessment-validity|valjan za vašu odluku]] lokalno je pitanje na koje morate sami odgovoriti, a [[human-in-the-loop-ai|osoba ostaje odgovorna]] za sve što postaje zabilježena ocjena.
+Evo kratkog odgovora: AI ocjenjivanje zaslužuje mjesto kao nadzirani pomoćnik ili drugi čitatelj, na zadacima na kojima ste ga provjerili prema radovima koje ste već ocijenili. Sukladnost se ne prenosi između vrsta procjene. U ispitu iz farmacije sa šesnaest studenata [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat i sur. (2026)]] pronašli su gotovo savršenu sukladnost na objektivnim tipovima čestica i nepouzdanu sukladnost na otvorenim odgovorima. Na tri engleska sveučilišta [[opraise-automated-marking-ai-assessment-2026|projekt OpRaise]] pronašao je da se AI i ljudski ocjenjivači slažu o razini ocjene u između 35% i 65% slučajeva, ovisno o instituciji, uz ocjene sabijene prema sredini. Tečno obrazloženje nije dokaz da su vaši kriteriji primijenjeni. Je li rezultat [[assessment-validity|valjan za vašu odluku]] lokalno je pitanje na koje morate sami odgovoriti, a [[human-in-the-loop-ai|osoba ostaje odgovorna]] za sve što postaje zabilježena ocjena.
 
 ## Kratka verzija
 
@@ -48,7 +48,7 @@ Tri se aranžmana nazivaju „AI ocjenjivanjem“ i nose različite obveze.
 
 **Pomoćnik za povratnu informaciju** sastavlja komentare ili označava moguće propuste koje vi prihvaćate, prepisujete ili odbacujete. Rizik je ograničen na kvalitetu komentara, a vi čitate sve prije nego što dođe do studenta. **Drugi čitatelj** predlaže ocjene po kriterijima ili označava neslaganja kako bi strukturirao vaše vlastito ocjenjivanje. Njegove pogreške moraju biti korisne, a ne samo pogrešne: oznaka koja vas vraća na rad koji biste inače ocijenili nemarno vrijedi imati. **Primarni ocjenjivač** proizvodi ocjene koje postaju zabilježene ocjene. To je aranžman koji dokazi u ovoj bazi znanja ne podupiru izvan uskih, lokalno provjerenih slučajeva.
 
-Odaberite najnižu razinu koja rješava vaše stvarno ograničenje. Ako vaše opterećenje ocjenjivanjem dolazi od provjere fiksnog ključa odgovora, obično determinističko bodovanje transparentnije je i revizijski provjerljivije od jezičnog modela, a farmaceutska studija upućuje na to da je prednost LLM-a na objektivnim česticama dijelom bila artefakt toga što su mu tijekom ocjenjivanja predani točni odgovori. Sačuvajte model za rad koji traži interpretaciju, a zatim tu interpretaciju provjerite.
+Odaberite najnižu razinu koja rješava vaše stvarno ograničenje. Ako vaše opterećenje ocjenjivanjem dolazi od provjere fiksnog ključa odgovora, obično determinističko bodovanje transparentnije je i revizijski provjerljivije od [[llm|jezičnog modela]], a farmaceutska studija upućuje na to da je prednost LLM-a na objektivnim česticama dijelom bila artefakt toga što su mu tijekom ocjenjivanja predani točni odgovori. Sačuvajte model za rad koji traži interpretaciju, a zatim tu interpretaciju provjerite.
 
 [[automated-assessment|Automatizirano ocjenjivanje]] pokriva širi stroj bodovanja, moderiranja i generiranja povratne informacije. Ova je stranica pitanje prosudbe ispod svega toga.
 

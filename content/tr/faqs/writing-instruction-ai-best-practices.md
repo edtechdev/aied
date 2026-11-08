@@ -8,7 +8,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Bir ödev yönergesini yeniden yazıyorsunuz ve önünüzdeki cümle, YZ'ye atıfla izin verildiğini söylüyor; bu, aracın argümanı sağlayıp sağlayamayacağı konusunda öğrenciye hiçbir şey anlatmaz. Bir meslektaşınız ders genelinde bir yasak önerdi ve siz bunun en çok sınıftaki çok dilli yazarlara dokunduğundan kuşkulanıyorsunuz. Ya da bir grup deneme, arkalarındaki seminer tartışmasından daha akıcı geldi ve bir sonraki müfredat toplantısında savunabileceğiniz bir kurala ihtiyacınız var.
+Bir ödev yönergesini yeniden yazıyorsunuz ve önünüzdeki cümle, YZ'ye atıfla izin verildiğini söylüyor; bu, aracın argümanı sağlayıp sağlayamayacağı konusunda öğrenciye hiçbir şey anlatmaz. Bir meslektaşınız ders genelinde bir yasak önerdi ve siz bunun en çok sınıftaki çok dilli yazarlara dokunduğundan kuşkulanıyorsunuz. Ya da bir grup deneme, arkalarındaki seminer tartışmasından daha akıcı geldi ve bir sonraki [[curriculum-design|müfredat]] toplantısında savunabileceğiniz bir kurala ihtiyacınız var.
 
 Özetle: ödevin üretmek için var olduğu entelektüel işi adlandırın, o adımı öğrencide tutun ve araca, öğrencinin yargılamak zorunda olduğu bir şey döndüren işler verin. Bu şekilde yazılmış bir kural, öğrenciye hangi adımı koruduğunu söyler.
 
@@ -80,7 +80,7 @@ Dersinizde yazarlık önemliyse izinleri bölün. Planlamayı tetikleyen, öğre
 | **8. Revizyon** | Asli değişiklikler yap ve gerekçelendir | Açıklığı test et, alternatifler öner | Revizyon |
 | **9. Doğrulama** | Her olgusal ya da kaynağa bağlı iddiayı kontrol et | Kendi çıktısını doğrulayamaz | Kaynaklar ve kanıtlar |
 | **10. Yansıma ve açıklama** | YZ'nin rolünü ve düşüncesinde neyin değiştiğini açıkla | Hiçbir şey | Kısa süreç yansıması |
-| **11. Bağımsız kontrol** | Akıl yürütmeyi YZ olmadan açıkla ya da uygula | Hiçbir şey | Sözlü savunma, kısa yazma, yeni vaka |
+| **11. Bağımsız kontrol** | Akıl yürütmeyi YZ olmadan açıkla ya da uygula | Hiçbir şey | [[oral-assessment|Sözlü savunma]], kısa yazma, yeni vaka |
 
 Bu, [[pairr-ai-peer-review-2025|PAIRR]]'ın genişletilmiş halidir: taslak, insan geri bildirimi, YZ geri bildirimi, karşılaştırma, revizyon, yansıma; buna bağımsız bir başlangıç ölçümü ve akıl yürütmenin etrafında daha sıkı bir sınır eklenmiştir. Orta sütunu ödev olarak, sağ sütunu da bir notun dayanabileceği şey olarak kullanın.
 
@@ -91,6 +91,9 @@ On bir satır çoğu ödevin ihtiyaç duyduğundan fazladır. Tabloyu sınıfta 
 Buradaki en büyük sınıf çalışması [[pairr-ai-peer-review-2025|PAIRR]]'dır: on yazma dersinde ve üç yazma yoğun [[stem-education|STEM]] dersinde 654 öğrenci. Taslak yazmışlar, [[peer-assessment|akran değerlendirmesi]] yapmışlar, rubrik temelli YZ geri bildirimi almışlar, iki kaynağı karşılaştırıp değerlendirmişler, revizyon planları yazmışlar, revize etmişler ve yansımışlardır. Yüzde 58'i akran ve YZ geri bildiriminin birleşimini tercih etmiştir. Yüzde 6'sı yalnızca YZ geri bildirimini tercih etmiştir. Öğrenciler YZ'yi rubriğe yönelik geniş revizyon tavsiyeleri için yararlı bulmuş; akranlar ise bağlamsal bilgi ve gerçek bir hedef kitle tepkisi sağlamıştır.
 
 İddiada kesin olun. PAIRR öğrencilerin geri bildirim deneyimini ve değerlendirmesini ölçmüştür, uzun vadeli [[learning-gains|öğrenme kazanımlarını]] değil; bu yüzden bir geri bildirim tasarımı için güçlü, yazmanın aylar sonra iyileştiği yönündeyse daha zayıf bir kanıttır. YZ adımı daha hızlı olsa bile akran adımını koruyun. [[feedback|Geri bildirim]] işinin çoğu iki kaynak arasındaki karşılaştırmada gerçekleşir ve onu çıkarmak, öğrencilerin değer verdiğini söylediği kısmı ortadan kaldırır.
+
+Aracın kendisi, akıl yürütme adımını koruyacak biçimde tasarlanabilir. [[favero-thinking-not-writing-chatbot-2026|Favero ve ark. (2026)]], argümanları teşhis eden ve deneme metni üretmeden hedefli sorular soran [[socratic-method|Sokratik]] bir sohbet robotu olan MAIKE'yi geliştirdi. 65 ortaöğretim öğrencisiyle yapılan bir sınıf çalışmasında MAIKE kullanıcıları fikir düzeyindeki diyaloğa kontrol kullanıcılarından daha fazla tur ayırdı (%56'ya karşı %44) ve tartışma ile düzenleme arasında gidip geldi; öğrencilerin yaklaşık %40'ı deneme puanlarını iyileştirdi. Çalışma kontrol grubuna karşı genel bir not avantajı göstermedi; bu yüzden onu sohbet robotunun yazma kalitesini yükselttiğinin kanıtı değil, konuşmayı revizyona bağlamaya dair bir tasarım gösterimi olarak ele alın.
+
 
 ## Öğrencinin geri bildirimle ne yaptığını notlandırın
 

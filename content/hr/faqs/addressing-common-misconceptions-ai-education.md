@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ Vaš prorektor želi jednostranični pregled „mitova o umjetnoj inteligenciji�
 
 Svako uvjerenje na ovoj stranici počinje nečim što je razumna osoba vidjela. Tečna proza doista se čita kao točna. Uglađen predani rad doista izgleda kao učenje. Tutor koji odgovara na pitanje doista se osjeća kao pomoć, a politika s riječju „zabranjeno“ doista se osjeća kao odluka. Ispravak koji djeluje imenuje ono što opažanje ne može reći, a zatim predaje provjeru koju osoba može provesti u ponedjeljak.
 
-Odgovor koji date kolegi u jednom dahu: obrazovni učinak umjetne inteligencije ovisi o tome tko je koristi, za koji zadatak, koje mišljenje alat obavlja, koja odgovornost ostaje osobi i kako se učenje procjenjuje. Samopouzdanje, brzina, angažman i dovršenost zadatka značajke su upotrebe. Nijedna od njih nije dokaz da se sposobnost promijenila.
+Evo odgovora u jednom dahu: obrazovni učinak umjetne inteligencije ovisi o tome tko je koristi, za koji zadatak, koje mišljenje alat obavlja, koja odgovornost ostaje osobi i kako se učenje procjenjuje. Samopouzdanje, brzina, angažman i dovršenost zadatka značajke su upotrebe. Nijedna od njih nije dokaz da se sposobnost promijenila.
 
 ## Kratka verzija
 
@@ -62,7 +62,7 @@ Prosjeci prikrivaju upravo onu varijaciju koja odlučuje o pitanju pravednosti. 
 
 ### „Izvijestili su da su mnogo naučili.“
 
-Samoprocjena mjeri percepciju, prihvaćanje, anksioznost i [[self-efficacy|samoučinkovitost]] i u sve je četiri dobra. Nije mjera pokazane sposobnosti, jer ljudi mogu biti samouvjereni i u krivu ili vješti i preskromni. Sinteza istraživanja o pismenosti nastavnika u području umjetne inteligencije u ovoj bazi znanja izvješćuje o znatnom jazu između samoprocjene i izmjerene izvedbe, a nastavnici u njoj znatno su precijenili svoju kompetenciju ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Uparite svaku samoprocjenu sa zadatkom: prepoznati pogrešku u rezultatu, provjeriti izvor, odabrati strategiju upotrebe, uočiti pristranost ili ulizivanje, revidirati manjkav odgovor, kalibrirati samopouzdanje prema točnosti. Jedna takva stavka u anketi pretvara mišljenje u rezultat.
+[[self-report-measures|Samoprocjena]] mjeri percepciju, prihvaćanje, [[anxiety-and-stress|anksioznost]] i [[self-efficacy|samoučinkovitost]] i u sve je četiri dobra. Nije mjera pokazane sposobnosti, jer ljudi mogu biti samouvjereni i u krivu ili vješti i preskromni. Sinteza istraživanja o pismenosti nastavnika u području umjetne inteligencije u ovoj bazi znanja izvješćuje o znatnom jazu između [[self-assessment|samoprocjene]] i izmjerene izvedbe, a nastavnici u njoj znatno su precijenili svoju kompetenciju ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Uparite svaku samoprocjenu sa zadatkom: prepoznati pogrešku u rezultatu, provjeriti izvor, odabrati strategiju upotrebe, uočiti pristranost ili ulizivanje, revidirati manjkav odgovor, kalibrirati samopouzdanje prema točnosti. Jedna takva stavka u anketi pretvara mišljenje u rezultat.
 
 ### „Simulirani student jeftina je zamjena za stvarnoga.“
 
@@ -180,7 +180,7 @@ Nadzor ovisi o stručnosti koju jaka automatizacija odvraća ljude od izgradnje.
 
 ### „Poučavanje kritične i etičke upotrebe AI-ja košta produktivnost.“
 
-Neprovjerena automatizacija proizvodi ponovni rad, sigurnosne incidente, diskriminatorne odluke, pravnu izloženost, štetu za ugled i lažno samopouzdanje, a svako od toga trošak je koji brojka produktivnosti nije uračunala. Zaposlenik kojeg vrijedi zaposliti jest onaj koji raspoređuje posao između ljudi i alata držeći kvalitetu, povjerljivost, odgovornost i profesionalnu prosudbu. To je argument o produktivnosti, iznesen u smjeru koji bilanca obično promašuje ([[human-ai-collaboration|Suradnja čovjeka i umjetne inteligencije]], [[governance|Upravljanje umjetnom inteligencijom]]).
+Neprovjerena automatizacija proizvodi ponovni rad, sigurnosne incidente, diskriminatorne odluke, [[legal-issues-and-risks|pravnu izloženost]], štetu za ugled i lažno samopouzdanje, a svako od toga trošak je koji brojka produktivnosti nije uračunala. Zaposlenik kojeg vrijedi zaposliti jest onaj koji raspoređuje posao između ljudi i alata držeći kvalitetu, povjerljivost, odgovornost i profesionalnu prosudbu. To je argument o produktivnosti, iznesen u smjeru koji bilanca obično promašuje ([[human-ai-collaboration|Suradnja čovjeka i umjetne inteligencije]], [[governance|Upravljanje umjetnom inteligencijom]]).
 
 ## Odgovorite na ono što studenti vjeruju
 
@@ -244,7 +244,7 @@ Tekst politike ne stvara zajedničko razumijevanje. Studenti i osoblje čitaju o
 
 ### „Nespremnost nastavnika je manjak u obuci.“
 
-Ponekad jest. Spremnost je i radno opterećenje, [[learner-identity|profesionalni identitet]], disciplinarne vrijednosti, sumnje u valjanost procjene, slaba institucionalna podrška, nesigurnost oko privatnosti i obrazložena prosudba da određena primjena ne služi studentima. Razvoj zato mora pokriti praktičnu kompetenciju, pedagošku integraciju, svrhu i identitet, vrijeme, politiku, [[discipline-specific-aied|upotrebu specifičnu za disciplinu]] i mogućnost načelnog neusvajanja. Jednokratni prikaz značajke ne rješava profesionalnu i organizacijsku promjenu ([[educational-development|Obrazovni razvoj]]).
+Ponekad jest. Spremnost je i radno opterećenje, [[learner-identity|profesionalni identitet]], disciplinarne vrijednosti, sumnje u valjanost procjene, slaba institucionalna podrška, nesigurnost oko privatnosti i obrazložena prosudba da određena primjena ne služi studentima. Razvoj zato mora pokriti praktičnu kompetenciju, pedagošku integraciju, svrhu i identitet, vrijeme, politiku, [[discipline-specific-aied|upotrebu specifičnu za disciplinu]] i mogućnost načelnog neusvajanja. Jednokratni prikaz značajke ne rješava profesionalnu i [[change-management|organizacijsku promjenu]] ([[educational-development|Obrazovni razvoj]]).
 
 ### „Dovoljno je reći ljudima točne činjenice.“
 
@@ -263,7 +263,7 @@ Razrađena verzija, koju možete prilagoditi bilo kojoj stavci na ovoj stranici:
 > **Zabluda:** „Dobar zadatak koji je generirala umjetna inteligencija pokazuje da je student naučio.“
 > **Opovrgavanje:** „To nije nužno točno. Proizvod pokazuje što su student i AI proizveli zajedno, ali ne otkriva koje je obrazloženje student izveo.“
 > **Zamjena:** „Učenje se bolje pokazuje kad student može objasniti, prenijeti, prilagoditi i reproducirati sposobnost.“
-> **Primjena:** „Nakon rada uz pomoć AI-ja slijedi objašnjenje, usmena obrana, zapis o procesu ili primjena bez pomoći.“
+> **Primjena:** „Nakon rada uz pomoć AI-ja slijedi objašnjenje, [[oral-assessment|usmena obrana]], zapis o procesu ili primjena bez pomoći.“
 
 Zamjena nosi težinu. Uklanjanje zablude bez boljeg objašnjenja ostavlja osobu bez ičega s čime bi mislila, a staro se uvjerenje vraća sljedeći put kad ga iskustvo potvrdi.
 
@@ -289,7 +289,7 @@ Nastavnici su znatno precijenili svoju AI kompetenciju kad se samoprocjena susre
 
 ### „Roditelji neće prihvatiti ništa osim zabrane.“
 
-Roditelji pitaju je li ono pred njihovim djetetom sigurno i znači li vjerodajnica išta. Odgovorite izravno na to dvoje, pitanjima o pedagoškoj sigurnosti umjesto filtra sadržaja, i argument za zabranu gubi snagu. Pitanje odbora uže je od naslova i lakše ga je braniti.
+[[parents-and-families|Roditelji]] pitaju je li ono pred njihovim djetetom sigurno i znači li vjerodajnica išta. Odgovorite izravno na to dvoje, pitanjima o pedagoškoj sigurnosti umjesto filtra sadržaja, i argument za zabranu gubi snagu. Pitanje odbora uže je od naslova i lakše ga je braniti.
 
 ### „Ne možemo voditi usmene obrane za predavaonicu ove veličine.“
 

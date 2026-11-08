@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T15:41:27-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Sinteza despre [[reducing-ai-misuse|reducerea utilizării greșite a IA]] clasea
 
 Apoi schimbă artefactul. O [[meta-analysis-systematic-review|revizuire sistematică]] a 72 de studii despre IA generativă în [[cs-education|educația informatică]] evaluează reproiectarea ca fezabilă și cu cea mai mare pârghie, și scoate în evidență o singură mișcare: adaugă un element oral sau altfel vizibil în proces la cel puțin o evaluare cu miză mare pe curs. O numește intervenția cea mai eficace din corpus. Detectarea este zona cea mai subțire pe care o acoperă revizuirea, cu doar 3 studii, față de 60-80% dintre studenții la informatică care raportează folosirea IA generative în teme, de obicei fără aprobare explicită a profesorului, și 70% dintr-un eșantion național de cadre didactice care cer explicit formare în designul evaluării rezistent la IA ([[kumar-genai-computing-education-systematic-review-2026|Kumar (2026)]]).
 
+Un curs de informatică desfășurat pe trei ani arată cât de departe poate mișca comportamentul un flux de divulgare cu schelă. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] au cerut o schiță independentă cu o listă de verificare în patru puncte, un pas de rafinare, nu de rescriere, cu IA, un formular de divulgare și o reflecție structurată, cu schița sau formularul lipsă notate cu zero. Adoptarea a crescut de la aproximativ două treimi dintre studenți sub o politică voluntară la 93% în anul cu schelă; 81% și 84% dintre utilizatorii de IA au raportat că au respins sau modificat sugestii, evaluatorii au codat 77–81% dintre lucrări pentru angajament critic, iar folosirea IA nu a prezis independent calitatea eseului după controlul abilității anterioare de scriere. Acesta este un raport de experiență dintr-un singur curs, nu un trial controlat, dar arată munca de integritate mutându-se de la detectare la condițiile în care studenții divulgă și revizuiesc.
+
+
 Meniul, aproximativ în ordinea în care fiecare opțiune rezistă într-o grupă mare.
 
-Fără asistență, în sală, cu material închis: examene supravegheate, teste scurte, scriere cu timp limitat. Dă-le o greutate mai mare decât înainte, pentru că tema de casă este artefactul pe care IA îl umflă. Examenele orale și susținerile funcționează din același motiv, pentru că dialogul în timp real este greu de externalizat ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]]).
+Fără asistență, în sală, cu material închis: examene supravegheate, teste scurte, scriere cu timp limitat. Dă-le o greutate mai mare decât înainte, pentru că tema de casă este artefactul pe care IA îl umflă. [[oral-assessment|Examenele orale]] și susținerile funcționează din același motiv, pentru că dialogul în timp real este greu de externalizat ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]]).
 
-Artefacte de proces: versiuni intermediare, urme de raționament, „arată ce gândești” adnotat, jurnale de revizuire, astfel încât *procesul* să fie vizibil, nu doar produsul ([[authentic-products-authenticated-processes-2026|produse autentice, procese verificate (2026)]]). Sarcinile autentice lucrează alături de ele: cazuri locale, materiale de internship, datele proprii ale studentului, orice este greu de delegat ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov (2026)]]).
+Artefacte de proces: versiuni intermediare, urme de raționament, „arată ce gândești” adnotat, jurnale de revizuire, astfel încât *procesul* să fie vizibil, nu doar produsul ([[authentic-products-authenticated-processes-2026|produse autentice, procese verificate (2026)]]). [[authentic-assessment|Sarcinile autentice]] lucrează alături de ele: cazuri locale, materiale de internship, datele proprii ale studentului, orice este greu de delegat ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov (2026)]]).
 
 Variația sarcinii de la student la student, unde fiecare primește o versiune diferită la suprafață, dar echivalentă ca construct, face copierea structural inutilă. Tratează garanția ca fiind condiționată de capabilitate: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] a constatat că generatorii de frontieră ating doar 0,81-0,88 pe un scor comun de integritate, în timp ce modelele care nu sunt de frontieră colapsează la 0,50-0,55. Dacă variantele tale nu sunt echivalente, ai cumpărat protecție împotriva partajării, cu nedreptate între studenți.
 
@@ -96,7 +99,7 @@ Scrie regula și precis. [[wright-transcription-not-generation-2026|Wright (2026
 
 Interzicerea instrumentului și permiterea lui fără structură produc același rezultat, și anume studenți care stau în afara muncii cognitive.
 
-Sinteza despre reducerea utilizării greșite a IA expune opt principii de design pentru versiunea permisă, între care: păstrează [[desirable-difficulties|frecarea cognitivă]], poziționează IA ca partener provizoriu de gândire, nu ca autoritate, încorporează puncte de verificare a evaluării și cere jurnalizare [[metacognition|metacognitivă]] și jurnale de prompturi.
+Sinteza despre reducerea utilizării greșite a IA expune opt principii de design pentru versiunea permisă, între care: păstrează [[desirable-difficulties|frecarea cognitivă]], poziționează IA ca partener provizoriu de gândire, nu ca autoritate, încorporează puncte de verificare a evaluării și cere [[metacognition|jurnalizare metacognitivă]] și [[reflection|jurnale]] de prompturi.
 
 Secvența care cară acele principii este destul de scurtă pentru a fi tipărită pe o fișă de sarcină:
 
@@ -122,7 +125,7 @@ Exemplul măsurat este un modul [[k-12|K-12]] care folosește exersarea promptur
 
 Ce cred de fapt studenții este mai puțin cinic decât sugerează panica. Între 504 studenți la sociologie, 65% folosiseră IA generativă pentru teme, dar doar 3% pentru a genera text de sarcină și 2% pentru a genera o versiune completă. 81% primiseră o formă de îndrumare privind IA și doar 46% au considerat-o foarte clară ([[student-genai-use-views-writing|sondajul privind folosirea IA generative]]). Ambiguitatea, nu sfidarea, este problema practică, de aceea o regulă clară plus o secvență predată schimbă mai mult comportament decât o avertizare. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa și Mezgebu (2026)]] descriu studenți care întreabă dacă IA generativă este un instrument care facilitează trișatul sau un partener care sprijină învățarea, iar la acea întrebare ar trebui să răspundă așteptările tale.
 
-Prejudiciul care merită predat explicit este [[ai-misuse-learning-harm|decalajul dintre performanță și învățare]]: performanța crește acum, învățarea scade mai târziu, iar studentul trăiește doar prima parte. [[ai-tools-academic-work-cheating-2026|Instrumentele de IA în munca academică (2026)]] și [[student-rationalization-ai-writing|raționalizările studenților despre scrierea cu IA]] acoperă partea de norme ale colegilor și de raționalizare, inclusiv apărarea „toată lumea o face”, pe care o normă clară o dezumflă. Despre cât de solidă este această bază, vezi [[ai-literacy-evidence|dovezile despre alfabetizarea în IA]] și [[top-10-findings-ai-education-instructors|primele zece constatări pentru profesori]].
+Prejudiciul care merită predat explicit este [[ai-misuse-learning-harm|decalajul dintre performanță și învățare]]: performanța crește acum, învățarea scade mai târziu, iar [[student-experience|studentul trăiește]] doar prima parte. [[ai-tools-academic-work-cheating-2026|Instrumentele de IA în munca academică (2026)]] și [[student-rationalization-ai-writing|raționalizările studenților despre scrierea cu IA]] acoperă partea de norme ale colegilor și de raționalizare, inclusiv apărarea „toată lumea o face”, pe care o normă clară o dezumflă. Despre cât de solidă este această bază, vezi [[ai-literacy-evidence|dovezile despre alfabetizarea în IA]] și [[top-10-findings-ai-education-instructors|primele zece constatări pentru profesori]].
 
 ## Ce greșesc cadrele didactice aici
 

@@ -29,7 +29,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -55,7 +55,7 @@ O toplantı için kısa yanıt: YZ aramayı, ilk tarama geçişini, kodlama triy
 
 ## Proje başlamadan önce YZ'nin neye dokunabileceğine karar verin
 
-Kapsam kararı birinin belleğinde değil proje dosyasında yer almalıdır. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai ve Chan'ın (2026) odak grubu çalışmasında]], bu konuyu düşünmüş araştırmacılar kullanımı risk düzeyine ve entelektüel merkeziliğe göre kalibre etti: düşük riskli prosedürel işlerde daha yoğun, bilimsel katkının merkezde olduğu yerlerde temkinli. O çalışmadaki 28 lisansüstü araştırmacının 27'si iş akışının bir yerinde üretken YZ kullanmıştı; akademik yazım ve çeviri dahil. Yani çoğu ekip için soru, bir çizginin var olup olmadığı değil nerede durduğudur.
+Kapsam kararı birinin belleğinde değil proje dosyasında yer almalıdır. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai ve Chan'ın (2026) odak grubu çalışmasında]], bu konuyu düşünmüş araştırmacılar kullanımı risk düzeyine ve entelektüel merkeziliğe göre kalibre etti: düşük riskli prosedürel işlerde daha yoğun, bilimsel katkının merkezde olduğu yerlerde temkinli. O çalışmadaki 28 lisansüstü araştırmacının 27'si iş akışının bir yerinde [[generative-ai|üretken YZ]] kullanmıştı; [[writing-education|akademik yazım]] ve çeviri dahil. Yani çoğu ekip için soru, bir çizginin var olup olmadığı değil nerede durduğudur.
 
 Çizgiyi her görev için bir hüküm içeren liste olarak yazın: literatür taraması, özet taraması, veri çıkarımı, nitel kodlama, istatistiksel analiz, taslak yazımı, kaynak biçimlendirme. O çalışmayı araştırmacıların ne yaptığını bildirdiğinin haritası olarak okuyun. Bu bir odak grubu anlatısıdır, etkililik sonucu değil.
 
@@ -71,27 +71,30 @@ Yararın çoğu iki tasarım kararından geliyor. Gri alan vakaları için karar
 
 Devir, ya hep ya hiçten daha ince taneli olabilir. [[agreement-not-quality-llm-coding-verification|Kör doğrulama çalışmalarından biri]], 72 kod kitabı maddesinin 15'ini açıkça insan uzmanlığı gerektiren, 12'sini bir modelin daha iyi karşıladığı ve 16'sını güvene dayalı triyaja uygun olarak sınıflandırdı. Kendi maddelerinizi bu şekilde sıralayın; emek tasarrufu güvenli olduğu yere düşer.
 
+Konu modellemesi, yorumu devralmadan bu yapıyı genişletebilir. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey ve Flor (2026)]], 13 öğretmenle altı odak grubunda temellendirilmiş kodlamayı, Affinity Propagation ile kümelenen SentenceBERT gömme vektörlerini ve GPT-4 etiketlemesini birleştirdi. İnsan incelemesi, sohbet dolgusu olan 18 iletişim kümesini ve 16 dijital okuryazarlık kümesini attı; geriye 14 ve 16 anlamlı küme kaldı; ChatGPT-4o ile Copilot etiketlerin %33,3'ünde ve %43,8'inde anlaştı, kosinüs benzerliği 0,835–0,880 arasındaydı ve insan incelemesi belirgin bir halüsinasyon bulmadı. Çalışma işlenmiş bir boru hattıdır, bir karşılaştırma değil: yalnızca insan ya da yalnızca YZ koluna sahip değil ve 13 öğretmen genellenebilirliği ortaya koyamaz. Onu işbölümünü görmek için kullanın, hibritin alternatifleri yendiğinin kanıtı olarak değil.
+
+
 ## Doğrulamanın ne anlama geldiğine ve kimin imzalayacağına karar verin
 
-Bir model ile bir insan kodlayıcı arasındaki yüksek uyum, doğruluğu kanıtlamış gibi raporlanır. Kanıtlamaz. [[agreement-not-quality-llm-coding-verification|Liu ve ark. (2026)]], bağımsız bir uzmandan kaynağa kör biçimde 855 ikili kod setini yargılamasını istedi. İnsan-LLM uyumu (ortalama Jaccard 0,30) insan-insan uyumunun (0,52) belirgin biçimde altında kaldı, ama kör doğrulayıcı insan ve makine kodlamasını ayırt edemediği oranlarda tercih etti (%51,5'e karşı %48,5, p = 0,537). Bazı vakalarda insan uzlaşması, doğrulayıcının model lehine reddettiği ortak bir yanlılığı kodluyordu.
+Bir model ile bir insan kodlayıcı arasındaki yüksek uyum, doğruluğu kanıtlamış gibi raporlanır. Kanıtlamaz. [[agreement-not-quality-llm-coding-verification|Liu ve ark. (2026)]], bağımsız bir uzmandan kaynağa kör biçimde 855 ikili kod setini yargılamasını istedi. İnsan-[[llm|LLM]] uyumu (ortalama Jaccard 0,30) insan-insan uyumunun (0,52) belirgin biçimde altında kaldı, ama kör doğrulayıcı insan ve makine kodlamasını ayırt edemediği oranlarda tercih etti (%51,5'e karşı %48,5, p = 0,537). Bazı vakalarda insan uzlaşması, doğrulayıcının model lehine reddettiği ortak bir yanlılığı kodluyordu.
 
 Yani doğrulama adımı ne modelin çıktısı ne de kodlayıcının onunla uyumu olan bir altın standarda ve anlaşmazlıklara karar vermiş adı belirli bir kişiye ihtiyaç duyar. İkisini de raporlayın. Bir benzerlik istatistiği iki okumanın ne kadar örtüştüğünü betimler ve okumalardan birinin doğru olup olmadığı hakkında hiçbir şey söylemez.
 
 ## Hızlı arayın, sonra her kaynağı kendiniz kontrol edin
 
-Üretken arama özetler, önerir, sentezler ve konuşur; bu da sistemin bulduğu, okuyucunun yorumladığı eski düzenlemeyi sarsar ([[genai-academic-search-workshop]]). Ona bir keşif aracı olarak davranın. Atölye raporu iki uyarı taşıyor: yetenek eşit dağılmıyor ve yüksek atıflı akademisyenler düşük atıflı akranlarına göre kabaca iki kat oranında yeniden kuruluyor; bir kütüphaneci ise öğrencilerin üretken aramaya aşırı güvendiği, öğretim elemanlarının ise ona güvenmediği bir güven boşluğu tanımladı.
+Üretken arama özetler, önerir, sentezler ve konuşur; bu da sistemin bulduğu, okuyucunun yorumladığı eski düzenlemeyi sarsar ([[genai-academic-search-workshop]]). Ona bir keşif aracı olarak davranın. Atölye raporu iki uyarı taşıyor: yetenek eşit dağılmıyor ve yüksek atıflı akademisyenler düşük atıflı akranlarına göre kabaca iki kat oranında yeniden kuruluyor; bir [[librarians|kütüphaneci]] ise öğrencilerin üretken aramaya aşırı güvendiği, öğretim elemanlarının ise ona güvenmediği bir güven boşluğu tanımladı.
 
 Kaynak doğrulama, bunun tartışmaya kapalı hale geldiği yerdir ve başarısızlıklar itibarı taşıyan alanda, yazar alanında kümelenir. [[citation-errors-hallucinations-computing-education-2026|Denny ve ark. (2026)]], 723.930 yayını ve 15.872.533 kaynağı denetledi ve 14 bilgisayar eğitimi makalesinde, hepsi 2025 ve 2026 tarihli, 30 uydurma kaynak doğruladı. 30'un 17'si melezdi: gerçek bir başlık, uydurma ya da yanlış yazarlara eklenmiş. Bir teknik sempozyumda doğrulanan sayı 2025'te 3 iken 2026'da 17'ye çıktı; o yılki bildiri makalelerinin %2,3'ünde. Toplamları kasten bir alt sınırdır ve otomatik denetleyiciler doğru kabul ettikleri üst verinin kusurlarını devralır. Önce yazarları kontrol edin.
 
 ## Otomatik bir puanı test edilecek bir hipotez olarak ele alın
 
-Otomatik ölçüm fonksiyonları, opak kalırken kesin ve öngörücü görünebilir. [[ai-methodologies-science-education-research-2026|Martin ve ark.]] bunu Chang'in nomik ölçüm problemiyle çerçeveliyor: bir niceliği ölçmek, onu gözlenebilir bir şeye bağlayan bir yasa gerektirir ve bu yasa, niceliği zaten bilmeden test edilemez. YZ'den türetilen ölçüm fonksiyonları araştırmacıdan değil eğitim verisinden ve optimizasyondan doğar; bu yüzden açıklanabilirlik çalışması, bir modelin anlamsal kavrayışı mı yoksa yalnızca anahtar sözcükleri mi izlediğini göstermek için önemlidir.
+Otomatik ölçüm fonksiyonları, opak kalırken kesin ve öngörücü görünebilir. [[ai-methodologies-science-education-research-2026|Martin ve ark.]] bunu Chang'in nomik ölçüm problemiyle çerçeveliyor: bir niceliği ölçmek, onu gözlenebilir bir şeye bağlayan bir yasa gerektirir ve bu yasa, niceliği zaten bilmeden test edilemez. YZ'den türetilen ölçüm fonksiyonları araştırmacıdan değil eğitim verisinden ve optimizasyondan doğar; bu yüzden [[explainable-ai|açıklanabilirlik]] çalışması, bir modelin anlamsal kavrayışı mı yoksa yalnızca anahtar sözcükleri mi izlediğini göstermek için önemlidir.
 
 Başarısızlık somut. [[zhang-platform-scores-miss-ai-teaching-agents-2026|Sekiz YZ öğretim ajanının değerlendirmesinde]], platformun kendi puanına göre üçüncü sırada olan ajan, uzman doğrulamalı bir rubrikte sonuncu oldu. İnsan-makine anlaşmazlığı rastgele değil sistemlidir ve insan-makine uyumunda rubriğin işletimselleştirilmesi çoğu zaman istem ustalığından daha önemlidir ([[machines-misread-pedagogical-quality|Tseng ve ark., 2026]]). Otomatik bir puan sizin aracınız haline gelmeden önce onu incelemeyi amaçladığınız yeteneğe bağlı bir ölçüye karşı doğrulayın. Ölçülerin kendisi için [[evaluating-ai-interventions-methods]] sayfasına bakın.
 
 ## Yöntem bölümünü bir dışarıdan kişi denetleyebilecek biçimde yazın
 
-Benimseme, raporlamanın önüne geçti. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin (2026)]] 888 derleme otomasyonu makalesini analiz etti: 2023'ten bu yana yazılım ve ürün makalelerinin %38,0'ı hiç değerlendirme bildirmezken bu oran LLM makalelerinde %9,3 oldu ve model erişimi ezici biçimde tescilliydi (%84,1). Olumlu bir genel değerlendirme, devre uygunluk anlamına da gelmiyordu; çünkü yalnızca olumlu sonuç bildiren 118 LLM makalesinin %52'si yine de iş akışının rolünün gerektirdiği eşiğin altında kaldığına dair bir endişe bildiriyordu. PRISMA-LLM çerçeveleri uygulama açıklamasını sonuca duyarlı değerlendirmeden ayırıyor ve beş düzeyini risk düzeyleri değil açıklama kademeleri olarak ele alıyor.
+Benimseme, raporlamanın önüne geçti. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin (2026)]] 888 derleme otomasyonu makalesini analiz etti: 2023'ten bu yana yazılım ve ürün makalelerinin %38,0'ı hiç değerlendirme bildirmezken bu oran LLM makalelerinde %9,3 oldu ve model erişimi ezici biçimde tescilliydi (%84,1). Olumlu bir genel değerlendirme, devre uygunluk anlamına da gelmiyordu; çünkü yalnızca olumlu sonuç bildiren 118 LLM makalesinin %52'si yine de iş akışının rolünün gerektirdiği eşiğin altında kaldığına dair bir endişe bildiriyordu. [[meta-analysis-systematic-review|PRISMA]]-LLM çerçeveleri uygulama açıklamasını sonuca duyarlı değerlendirmeden ayırıyor ve beş düzeyini risk düzeyleri değil açıklama kademeleri olarak ele alıyor.
 
 Pratik hali: sistemi ve sürümünü, istemleri, derlem sürümünü, insanın neyi kontrol ettiğini ve nerede başarısız olduğunu adlandırın. İstem-yanıt günlükleri tutun, çünkü akıcı bir üretilmiş tema listesi, kanıt değeri işi başlamadan çok önce kaçınılmaz görünür ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
@@ -111,7 +114,7 @@ Yorumlayıcı hamleleri kendinizde tutun. Neyin tema sayıldığı, bir öğrenc
 
 YZ'nin rolünü, yaptığınız doğrulamayı ve tek ders, tek araştırmacı tasarımının sınırlarını raporlayın. Bir iş akışı anlatısı etkililik sonucu değildir.
 
-Bir kohort simüle etmeyi varsayılan değil ileri düzey bir seçenek olarak ele alın. Simüle edilmiş öğrenenler gerçek öğrenci davranışının en kolay çeyreğini kapsama eğilimindedir ve kullanımdan sonra nadiren doğrulanır ([[simulating-students]]). Bir simülatörün hükmüne güvenmeden önce [[making-simulated-students-behave-like-learners]] sayfasını okuyun.
+Bir kohort simüle etmeyi varsayılan değil ileri düzey bir seçenek olarak ele alın. Simüle edilmiş öğrenenler gerçek öğrenci davranışının en kolay çeyreğini kapsama eğilimindedir ve kullanımdan sonra nadiren doğrulanır ([[simulating-students]]). Bir [[simulation|simülatörün]] hükmüne güvenmeden önce [[making-simulated-students-behave-like-learners]] sayfasını okuyun.
 
 ## Araştırmacıların bu konuda yanlış yaptıkları
 

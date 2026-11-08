@@ -1,7 +1,7 @@
 ---
 title: "Mit kellene a diákoknak tanulniuk olyan karrierekhez, ahol a MI mindennapos?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-Egy diák megkérdezi, miért tanuljon meg valamit, amit egy chatbot már megcsinál. Egy szakmai tanácsadó testület szerint a munkáltatók olyan frissdiplomásokat akarnak, akik tudják használni a MI-t a munkában. A tantervének mindkettőt ki kell elégítenie, és egyikük sem mondta meg, mit kellene a frissdiplomásnak önállóan tudnia.
+Egy diák megkérdezi, miért tanuljon meg valamit, amit egy [[conversational-ai|chatbot]] már megcsinál. Egy szakmai tanácsadó testület szerint a munkáltatók olyan frissdiplomásokat akarnak, akik tudják használni a MI-t a munkában. A tantervének mindkettőt ki kell elégítenie, és egyikük sem mondta meg, mit kellene a frissdiplomásnak önállóan tudnia.
 
-Rövid válasz egy kollégának: a teljes szakmai feladatot tanítsa, ne az eszközkezelést, és értékelje egyaránt a támogatott terméket és a diák önálló képességét. A bizonyítékok arra utalnak, hogy a felkészültséget szakterületi tudásként, plusz ítéletként, plusz verifikációként, plusz transzferként érdemes kezelni, és nem támasztanak alá semmilyen készséglistát foglalkoztatási garanciaként. 500 amerikai főiskolai oktató és egy munkáltatói panel felmérése szerint a két csoport pontosan egyetlen, 26 MI-hez kapcsolódó készség fontosságában értett egyet: *a MI-vel támogatott munkával szembeni reális elvárások meghatározása*; az oktatók a kritikus és felelős használatot súlyozták, a munkáltatók a munkafolyamat-tervezést, az automatizálást és az ember–MI együttműködést ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ezek jelentett prioritások, nem felvételi bizonyítékok. A tanterv szempontjából élesebb megállapítás máshol van: 455 végzős diák felmérésében az MI-írástudás nagyrészt a [[career-development-and-readiness|karrier-adaptabilitás]] emelésén keresztül érte el az érzékelt foglalkoztathatóságot, β = 0,173 közvetett hatással egy közvetlen β = 0,447 mellett ([[ai-literacy-graduate-employability-2026|Hendrawan és Lestari, 2026]]). Az adaptabilitás olyan képesség, amelyet tanítani lehet. Egy eszköztipp nem az.
+Íme a rövid válasz: a teljes szakmai feladatot tanítsa, ne az eszközkezelést, és értékelje egyaránt a támogatott terméket és a diák önálló képességét. A bizonyítékok arra utalnak, hogy a felkészültséget szakterületi tudásként, plusz ítéletként, plusz verifikációként, plusz transzferként érdemes kezelni, és nem támasztanak alá semmilyen készséglistát foglalkoztatási garanciaként. 500 amerikai főiskolai oktató és egy munkáltatói panel felmérése szerint a két csoport pontosan egyetlen, 26 MI-hez kapcsolódó készség fontosságában értett egyet: *a MI-vel támogatott munkával szembeni reális elvárások meghatározása*; az oktatók a kritikus és felelős használatot súlyozták, a munkáltatók a munkafolyamat-tervezést, az automatizálást és az [[human-ai-collaboration|ember–MI együttműködést]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Ezek jelentett prioritások, nem felvételi bizonyítékok. A [[curriculum-design|tanterv]] szempontjából élesebb megállapítás máshol van: 455 végzős diák felmérésében az MI-írástudás nagyrészt a [[career-development-and-readiness|karrier-adaptabilitás]] emelésén keresztül érte el az érzékelt foglalkoztathatóságot, β = 0,173 közvetett hatással egy közvetlen β = 0,447 mellett ([[ai-literacy-graduate-employability-2026|Hendrawan és Lestari, 2026]]). Az adaptabilitás olyan képesség, amelyet tanítani lehet. Egy eszköztipp nem az.
 
 ## A rövid változat
 
@@ -73,13 +73,13 @@ Ezek a kutatási témák adaptációi, nem tesztelt foglalkoztatási beavatkozá
 
 Kompozíció és üzleti kommunikáció: a diákok bíráljanak és dolgozzanak át egy MI-vel vázolt választ egy ügyfélpanaszra. A képesség bizonyítéka az alá nem támasztott ígéretek megnevezése, a közönségválasztások elmagyarázása és a végső megfogalmazás megvédése.
 
-Egy kvantitatív kurzus ugyanezt teheti egy MI által készített becsléssel egy valósághű tervezési problémára, ahol a diákok saját becslést készítenek, megadják a feltevéseket, és tesztelik a valószínűséget.
+Egy [[quantitative-research|kvantitatív]] kurzus ugyanezt teheti egy MI által készített becsléssel egy valósághű tervezési problémára, ahol a diákok saját becslést készítenek, megadják a feltevéseket, és tesztelik a valószínűséget.
 
 Egy táblázatkezelő vagy számítástechnikai kurzuson osszon ki egy generált képletet és szintetikus adatokat, majd kérjen teszteseteket, a hivatkozások magyarázatát és egy hibafeltételt.
 
-Egészségügyi szakmák: a diákok egy fiktív esethez generált magyarázatot értékelnek jóváhagyott források ellenében, megnevezik a korlátait, és megmondják, mikor kell egy képzett szakembernek döntenie.
+[[medical-education|Egészségügyi szakmák]]: a diákok egy fiktív esethez generált magyarázatot értékelnek jóváhagyott források ellenében, megnevezik a korlátait, és megmondják, mikor kell egy képzett szakembernek döntenie.
 
-A karrierfeltárásnak megvan a maga változata: hasonlítsa össze két foglalkozás feladatösszetételét hiteles foglalkozási információkkal, majd tervezzen meg egy konkrét készségfejlesztő vagy segítségkérő lépést.
+A karrierfeltárásnak megvan a maga változata: hasonlítsa össze két foglalkozás feladatösszetételét hiteles foglalkozási információkkal, majd tervezzen meg egy konkrét készségfejlesztő vagy [[help-seeking|segítségkérő]] lépést.
 
 Aszinkron lebonyolításnál kérjen egy kezdeti próbálkozást, egy rövid verifikációs feljegyzést és egy kétsoros jegyzetet egy következményes döntésről. Laborban vagy szemináriumon a magyarázat beszélgetésben is megtörténhet. Használjon szintetikus vagy engedélyezett anyagokat, amikor az alternatíva bizalmas munkahelyi vagy diákadat.
 
@@ -89,19 +89,21 @@ Egy csiszolt produktum azt mondja meg, mit állítottak elő az engedélyezett f
 
 Ezeket a követelményeket azért válassza, mert egy megadott képességet támasztanak alá, és mondja meg, melyiket méri az egyes értékelés. A diákok elfogadják az önálló gyakorlást, amikor az ahhoz kapcsolódik, amire készítik őket; „egyszer szüksége lesz erre" kevesebb munkát végez, mint megmutatni, hogyan teszi a számítás lehetővé egy téves becslés későbbi elkapását.
 
-A támogatás oldalának megvan a maga kockázata. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei és mtsai (2026)]] a GenAI használatát pozitívan társítottnak találták a GenAI-függőséggel, a függőséget pedig negatívan társítottnak mind a kritikai gondolkodással, mind a foglalkoztathatósággal a felmérési modelljükben. Ez társítás, nem oksági állítás, és a tervezési kérdésre mutat: egy kurzus, amely csak támogatott teljesítményt értékel, azt a függőséget trenírozhatja, amelyről beszámol.
+A támogatás oldalának megvan a maga kockázata. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei és mtsai (2026)]] a [[generative-ai|GenAI]] használatát pozitívan társítottnak találták a GenAI-függőséggel, a függőséget pedig negatívan társítottnak mind a [[critical-thinking|kritikai gondolkodással]], mind a foglalkoztathatósággal a felmérési modelljükben. Ez társítás, nem oksági állítás, és a tervezési kérdésre mutat: egy kurzus, amely csak támogatott teljesítményt értékel, azt a függőséget trenírozhatja, amelyről beszámol.
 
 Programértékeléshez válassza szét a mérőszámokat. A kurzusteljesítmény, a bizonyított MI-írástudás, a gyakornoki felügyelő értékelése, a foglalkoztatási státusz és a munka minősége különböző kimenetek különböző időhorizontokkal, és egyetlen beavatkozás nem tudja mindet megalapozni. Az [[ai-literacy-evidence|MI-írástudás bizonyítékai]] oldal őszinte leltára annak, amit a beavatkozásvizsgálatok valóban alátámasztanak.
 
+Ugyanez a logika érvényes, mielőtt a diákok belépnek a munkaerőpiacra. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener és mtsai (2026)]] a MI-támogatást olyan sorrendként modellezik, amelyben a készség önálló gyakorláson keresztül nő, és elhalványul, amikor a munkavállalók elfogadják a MI válaszait. Modelljükben a kezdők alacsony készségszinten ragadhatnak, a szakértők pedig akkor is elveszíthetik a készségüket, miközben a kimenet pontossága magas marad, és a stratégiai munkavállalók önállóan is megoldhatják a feladatot, amikor a MI pontosabb, mert a jövőbeli készségnek értéke van. A tanulmány elméleti, nem beavatkozás, de élesíti a tantervi kérdést: ütemezze és jutalmazza az önálló gyakorlást, ahelyett hogy feltételezné, hogy a MI-támogatott kimenet felépíti a munka felügyeletéhez szükséges képességet.
+
 ## Foglalkozzon a karrierfélelemmel bizonyosság ígérete nélkül
 
-A diákok valódi félelmekkel érkeznek, és a róluk szóló felmérési irodalom a félelmek leírása, nem a munkaerőpiac előrejelzése. [[duan-ai-anxiety-career-decisions-college-2026|Duan és mtsai (2026)]] a MI-szorongást közvetlenül és negatívan előrejelzőnek találták a karrierdöntésekre, ami a döntési bénultságról szóló megállapítás, nem a munkahelyekről. [[ai-anxiety-wellbeing|A jóllét képe]] fedi a szélesebb bizonyítékokat.
+A diákok valódi félelmekkel érkeznek, és a róluk szóló felmérési irodalom a félelmek leírása, nem a munkaerőpiac előrejelzése. [[duan-ai-anxiety-career-decisions-college-2026|Duan és mtsai (2026)]] a [[anxiety-and-stress|MI-szorongást]] közvetlenül és negatívan előrejelzőnek találták a karrierdöntésekre, ami a döntési bénultságról szóló megállapítás, nem a munkahelyekről. [[ai-anxiety-wellbeing|A jóllét képe]] fedi a szélesebb bizonyítékokat.
 
 Ami segít, az a vizsgálat olyan léptékben, amelyen a diák cselekedhet: mely feladatokat tartalmaz valójában ez a szerep, hogyan néz ki egy hét, mit kellene tudnom, ki tudja megmondani. A karrierszolgálatok, az öregdiákok és az elhelyezkedési munkatársak tartják ezt az információt. Egy eszközbemutató, egy oktató benyomása vagy egy szállító előadása nem munkaerőpiaci előrejelzés, és ha valamelyiket előrejelzésként mutatják be, a programok elveszítik a hitelességüket azoknál a diákoknál, akik utána utánanéznek.
 
 ## Ami vissza fog jönni Önre
 
-**„A diákoknak csak jobb promptolásra van szükségük."** A promptolás a hat rész egyikének egy tagmondata. Egy jól megadott kérés nem szolgáltatja a rossz eredmény felismeréséhez szükséges tudást, és az Ithaka panel munkáltatói sem a promptkészséget rakták az élre.
+**„A diákoknak csak jobb [[prompt-engineering|promptolásra]] van szükségük."** A promptolás a hat rész egyikének egy tagmondata. Egy jól megadott kérés nem szolgáltatja a rossz eredmény felismeréséhez szükséges tudást, és az Ithaka panel munkáltatói sem a promptkészséget rakták az élre.
 
 **„Ha a munkahelyek engedik a MI-t, a kurzusmunkának is engednie kell."** Egy kurzus azt a képességet is építi, amely a felelős használatot lehetővé teszi. Mondja meg, a kettő közül melyiket értékeli az egyes feladatokban, és a kifogás tervezési kérdéssé válik, nem ellentmondássá.
 
@@ -125,4 +127,4 @@ Ami segít, az a vizsgálat olyan léptékben, amelyen a diák cselekedhet: mely
 
 A [[career-development-and-readiness]] a foglalkoztathatóság, az adaptabilitás és a munkaerőpiaci bizonyítékok fogalmi oldala, az [[ai-literacy]] pedig azt fedi, mit jelent az írástudás az eszközkezelésen túl. Egy konkrét kurzusba való beépítéshez lásd [[incorporating-ai-literacy|az MI-írástudás beépítését]] és [[faculty-ai-competencies|milyen kompetenciákra van szüksége az oktatóknak]].
 
-Ahhoz az értékeléstervezéshez, amely megkülönböztethetővé teszi a támogatott és az önálló teljesítményt, lásd [[redesign-assessment-ai-era|az értékelés újratervezése a MI korszakában]] és [[ai-grading-fairness-reliability|az MI-osztályozást]]. Arról, hogyan tartsa a támogatást attól, hogy függőséggé váljon, lásd [[reducing-over-reliance|a túlzott ráhagyatkozás csökkentését]].
+Ahhoz az [[assessment|értékeléstervezéshez]], amely megkülönböztethetővé teszi a támogatott és az önálló teljesítményt, lásd [[redesign-assessment-ai-era|az értékelés újratervezése a MI korszakában]] és [[ai-grading-fairness-reliability|az MI-osztályozást]]. Arról, hogyan tartsa a támogatást attól, hogy függőséggé váljon, lásd [[reducing-over-reliance|a túlzott ráhagyatkozás csökkentését]].

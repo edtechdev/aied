@@ -1,9 +1,9 @@
 ---
 title: "Dapatkah Saya Menggunakan AI untuk Menilai Pekerjaan Siswa Secara Adil dan Andal?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -48,7 +48,7 @@ Tiga pengaturan disebut "penilaian AI" dan ketiganya membawa kewajiban yang berb
 
 **Asisten umpan balik** menyusun draf komentar atau menandai kemungkinan kelalaian untuk Anda terima, tulis ulang, atau buang. Risikonya terbatas pada kualitas komentar, dan Anda membaca semuanya sebelum sampai kepada siswa. **Pembaca kedua** mengusulkan skor per kriteria atau menandai ketidaksepakatan untuk menata penilaian Anda sendiri. Kesalahannya harus berguna, bukan sekadar salah: tanda yang mengirim Anda kembali ke kiriman yang seharusnya Anda nilai dengan ceroboh memang layak dipertahankan. **Penilai utama** menghasilkan skor yang menjadi nilai tercatat. Itulah pengaturan yang tidak didukung bukti dalam basis pengetahuan ini di luar kasus sempit yang divalidasi secara lokal.
 
-Pilih anak tangga terendah yang menjawab kendala Anda yang sebenarnya. Jika beban penilaian Anda berasal dari memeriksa kunci jawaban tetap, penilaian deterministik biasa lebih transparan dan dapat diaudit daripada model bahasa, dan studi farmasi itu menunjukkan bahwa keunggulan LLM pada butir objektif sebagian merupakan artefak dari diberinya jawaban benar selama penilaian. Sisakan model untuk pekerjaan yang membutuhkan interpretasi, lalu periksa interpretasi itu.
+Pilih anak tangga terendah yang menjawab kendala Anda yang sebenarnya. Jika beban penilaian Anda berasal dari memeriksa kunci jawaban tetap, penilaian deterministik biasa lebih transparan dan dapat diaudit daripada [[llm|model bahasa]], dan studi farmasi itu menunjukkan bahwa keunggulan LLM pada butir objektif sebagian merupakan artefak dari diberinya jawaban benar selama penilaian. Sisakan model untuk pekerjaan yang membutuhkan interpretasi, lalu periksa interpretasi itu.
 
 [[automated-assessment|Penilaian otomatis]] mencakup mesin penilaian, moderasi, dan pembuatan umpan balik yang lebih luas. Halaman ini adalah pertanyaan pertimbangan yang mendasarinya.
 

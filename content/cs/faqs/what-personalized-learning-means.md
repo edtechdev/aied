@@ -1,7 +1,7 @@
 ---
 title: "Co vlastně znamená personalizované učení a kdy pomáhá?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T13:20:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -28,13 +28,13 @@ ai_assist:
 
 Platforma slibuje personalizovaný zážitek pro každého studenta. Může přehazovat procvičovací otázky, přepsat vysvětlení kolem studentova zájmu o fotbal, pamatovat si minulotýdenní rozhovor, nebo vybrat, co bude student studovat příště. Všechny čtyři případy se nazývají personalizace a jen jeden z nich byl testován v něčem, co se tomu podobá.
 
-Krátká odpověď pro kolegu: personalizace pojmenovává změnu nějaké části učební zkušenosti a její hodnota závisí na třech věcech: co se adaptuje, jaké důkazy adaptaci řídí a zda ta změna zlepšuje učení, které zamýšlíte. Známý příklad nebo pohotový rozhovor mohou působit osobně a přitom nic neučit. Účinná adaptace může být neviditelná. Nejjasnější experimentální výsledek v této znalostní bázi je úzký: v pětiměsíčním certifikačním kurzu Pythonu na deseti tchajpejských středních školách dosáhli studenti randomizovaní do adaptivního řazení úloh zhruba o 0,150 směrodatné odchylky vyššího skóre v prezenční závěrečné zkoušce bez pomoci než studenti s pevným řazením a shodným přístupem k chatbotu ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung a kol., 2026]]). To podporuje řazení za určených podmínek. Neověřuje to všechno, co se prodává jako personalizované.
+Krátká odpověď pro kolegu: personalizace pojmenovává změnu nějaké části učební zkušenosti a její hodnota závisí na třech věcech: co se adaptuje, jaké důkazy adaptaci řídí a zda ta změna zlepšuje učení, které zamýšlíte. Známý příklad nebo pohotový rozhovor mohou působit osobně a přitom nic neučit. Účinná adaptace může být neviditelná. Nejjasnější experimentální výsledek v této znalostní bázi je úzký: v pětiměsíčním certifikačním kurzu Pythonu na deseti tchajpejských středních školách dosáhli studenti randomizovaní do adaptivního řazení úloh zhruba o 0,150 směrodatné odchylky vyššího skóre v prezenční [[summative-assessment|závěrečné zkoušce]] bez pomoci než studenti s pevným řazením a shodným přístupem k [[conversational-ai|chatbotu]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung a kol., 2026]]). To podporuje řazení za určených podmínek. Neověřuje to všechno, co se prodává jako personalizované.
 
 ## Stručně
 
 **1.** Pojmenujte, která část se adaptuje: prezentace, zájmový kontext, obtížnost a podpora, řazení a tempo, nebo cíle a volba.
 
-**2.** Zeptejte se, jaké důkazy adaptaci spouštějí a jak se chybný model studenta opraví.
+**2.** Zeptejte se, jaké důkazy adaptaci spouštějí a jak se chybný [[student-modeling|model studenta]] opraví.
 
 **3.** Zkontrolujte, zda adaptace zachovává cíl, nebo ho tiše snižuje.
 
@@ -60,11 +60,11 @@ Adaptace cílů a volby nechávají studenty vybrat projekt, cestu nebo aplikaci
 
 ## Co důkazy ukazují
 
-**Konkrétní adaptace zlepšila výkon bez pomoci.** Chung a kol. postavili platformu, která propojila chráněného chatbota pro Python s algoritmem zpětnovazebního učení, jenž vybírá další procvičovací úlohu, a nasadili ji na deseti středních školách v pětiměsíčním certifikačním kurzu. Studenti byli randomizováni mezi adaptivní a pevné řazení, přičemž obě skupiny měly shodný přístup k chatbotu, což je design, který dovoluje řazení si ten rozdíl připsat. Výhoda 0,150 směrodatné odchylky se objevila u prezenční závěrečné zkoušky bez pomoci. Dvě věci stojí za zapamatování: srovnání izoluje řazení od přístupu a výsledkem je výkon bez pomoci, ne angažovanost. Co studie neukazuje, je, že pomáhají personalizovaná vysvětlení, přepsané materiály nebo zapamatované preference. To nebyla intervence.
+**Konkrétní adaptace zlepšila výkon bez pomoci.** Chung a kol. postavili platformu, která propojila chráněného chatbota pro Python s algoritmem [[reinforcement-learning|zpětnovazebního učení]], jenž vybírá další procvičovací úlohu, a nasadili ji na deseti středních školách v pětiměsíčním certifikačním kurzu. Studenti byli randomizováni mezi adaptivní a pevné řazení, přičemž obě skupiny měly shodný přístup k chatbotu, což je design, který dovoluje řazení si ten rozdíl připsat. Výhoda 0,150 směrodatné odchylky se objevila u prezenční závěrečné zkoušky bez pomoci. Dvě věci stojí za zapamatování: srovnání izoluje řazení od přístupu a výsledkem je výkon bez pomoci, ne angažovanost. Co studie neukazuje, je, že pomáhají personalizovaná vysvětlení, přepsané materiály nebo zapamatované preference. To nebyla intervence.
 
-**Vnímaná personalizace může jít ruku v ruce se slabší seberegulací.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin a Qiu (2026)]] sledovali 486 čínských vysokoškoláků ve třech vlnách průzkumu a zjistili, že studenti, kteří své adaptivní prostředí vnímali jako personalizovanější, hlásili slabší [[self-regulated-learning|seberegulované učení]]. Akademické emoce nesly velkou část asociace, přičemž snížená radost vedle zvýšené úzkosti a nudy vysvětlovala víc než polovinu celkového efektu. Design je observační a sebehodnoticí, takže nemůže prokázat, že personalizace pokles způsobila. Určuje ale výsledek, který musí pilot sledovat, protože systém, který každou nejistotu rychle zodpoví, může odstranit plánování a úsudek, které má kurz budovat.
+**Vnímaná personalizace může jít ruku v ruce se slabší seberegulací.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin a Qiu (2026)]] sledovali 486 čínských vysokoškoláků ve třech vlnách průzkumu a zjistili, že studenti, kteří své adaptivní prostředí vnímali jako personalizovanější, hlásili slabší [[self-regulated-learning|seberegulované učení]]. Akademické emoce nesly velkou část asociace, přičemž snížená radost vedle zvýšené [[anxiety-and-stress|úzkosti]] a nudy vysvětlovala víc než polovinu celkového efektu. Design je observační a [[self-report-measures|sebehodnoticí]], takže nemůže prokázat, že personalizace pokles způsobila. Určuje ale výsledek, který musí pilot sledovat, protože systém, který každou nejistotu rychle zodpoví, může odstranit plánování a úsudek, které má kurz budovat.
 
-**Zájem a porozumění jsou oddělené kontroly.** Syntéza [[personalized-learning]] probírá práci Bernsteina a Sibii *Flawed but Memorable*, malý kvalitativní preprint o analogiích v informatice personalizovaných podle zájmů. Reakce studentů se různily a znalost zdrojové domény analogie jim pomohla odhalit, kde analogie selhává. Praktické čtení je ptát se, co studenti už znají, stejně jako co je baví, a hlášenou zapamatovatelnost brát jako míru zážitku, ne výsledek učení.
+**Zájem a porozumění jsou oddělené kontroly.** Syntéza [[personalized-learning]] probírá práci Bernsteina a Sibii *Flawed but Memorable*, malý [[qualitative-research|kvalitativní]] preprint o analogiích v informatice personalizovaných podle zájmů. Reakce studentů se různily a znalost zdrojové domény analogie jim pomohla odhalit, kde analogie selhává. Praktické čtení je ptát se, co studenti už znají, stejně jako co je baví, a hlášenou zapamatovatelnost brát jako míru zážitku, ne výsledek učení.
 
 ## Zkontrolujte diagnózu, než adaptaci uvěříte
 
@@ -86,7 +86,7 @@ Pro každého, kdo ty systémy staví, jsou tu dvě oddělená vyhodnocení: odr
 
 ## Jak to vypadá v kurzu
 
-V úvodním kurzu matematiky může krátká diagnostika oddělit chybné pojetí z předpokladů od aritmetické chyby. Student s chybným pojetím dostane cílené vysvětlení a řešený příklad. Druhý postupuje k aplikaci. Oba pak dokončí srovnatelnou samostatnou úlohu, včetně jedné aplikace ve změněném kontextu.
+V úvodním kurzu matematiky může krátká diagnostika oddělit [[misconceptions|chybné pojetí]] z předpokladů od aritmetické chyby. Student s chybným pojetím dostane cílené vysvětlení a řešený příklad. Druhý postupuje k aplikaci. Oba pak dokončí srovnatelnou samostatnou úlohu, včetně jedné aplikace ve změněném kontextu.
 
 Studenti mohou volit mezi známými kontexty aplikace, zatímco matematický cíl zůstává pevný a viditelný. Pedagog zkontroluje, zda některá cesta zlepšila porozumění, zda studenti umějí vysvětlit své uvažování a zda někdo neuvázl v remediaci. Berte to jako design k pilotování; žádná platforma nebyla v této konfiguraci ověřena.
 
@@ -96,7 +96,7 @@ V kurzu náročném na četbu může glosář nebo volitelné vysvětlení zlep�
 
 Personalizovanou verzi srovnejte s něčím věrohodným: dobře navrženým společným řazením, stejným tutorem bez adaptivního řazení, nebo kurátorovaným menu příkladů. Pokud vaše personalizovaná větev přidává i víc procvičování, víc zpětné vazby a víc času, srovnání nemůže personalizaci izolovat a poctivá zpráva to řekne.
 
-Měřte samostatný výkon, udržení nebo přenos, kde můžete, čas a námahu, agency studenta a kdo z toho těží. Spokojenost a vnímanou vhodnost držte jako doplňkové výsledky, ne jako titulní. Předem rozhodněte, jaké zlepšení by ospravedlnilo náklady na vývoj, monitoring a nakládání s daty, protože ty náklady se platí, ať se efekt objeví, nebo ne.
+Měřte samostatný výkon, udržení nebo přenos, kde můžete, čas a námahu, [[agency|agency studenta]] a kdo z toho těží. Spokojenost a vnímanou vhodnost držte jako doplňkové výsledky, ne jako titulní. Předem rozhodněte, jaké zlepšení by ospravedlnilo náklady na vývoj, monitoring a nakládání s daty, protože ty náklady se platí, ať se efekt objeví, nebo ne.
 
 ## Co vám na to přijdou říct
 

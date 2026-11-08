@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 Hatodik hét van. Visszajön egy otthon írt esszé, folyékony és üres, és nem tudja megmondani, hogy a diák írta-e. Vagy négy beadott munka ugyanazt a formát mutatja, amit szeptemberben senki nem hozott létre a teremben, és az integritási iroda írásos beszámolót kér arról, hogy a feladat mit mért. Vagy a tanszéke múlt hónapban úgy döntött, hogy a törzsanyagos kurzusokban korlátozza a [[generative-ai|generatív MI-t]], és magára hagyta azzal, hogy adjon tartalmat a korlátozásnak.
 
-A válasz, amit egy kollégának adhat: ne azt próbálja bizonyítani, ki írta a munkát, hanem változtassa meg azokat a feltételeket, amelyek között megíródik. A detektálás a leggyengébb kar, amije van. Azok a karok tartanak, amelyek a feladatot úgy alakítják, hogy a rövidítés nyomot hagyjon, egyetlen megfigyelhető, támogatás nélküli lépést iktatnak be, és egy rövid, megtanított sorrendet, amely a kognitív munka belsejében tartja a diákokat.
+Íme a válasz: ne azt próbálja bizonyítani, ki írta a munkát, hanem változtassa meg azokat a feltételeket, amelyek között megíródik. A detektálás a leggyengébb kar, amije van. Azok a karok tartanak, amelyek a feladatot úgy alakítják, hogy a rövidítés nyomot hagyjon, egyetlen megfigyelhető, támogatás nélküli lépést iktatnak be, és egy rövid, megtanított sorrendet, amely a kognitív munka belsejében tartja a diákokat.
 
 ## A rövid változat
 
@@ -54,11 +54,13 @@ Kezdje egy címkével. Az [[ai-assessment-scale-reform|MI-értékelési skála (
 
 Aztán változtassa meg az alkotást. A generatív MI-ről készült, 72 kutatást feldolgozó [[meta-analysis-systematic-review|szisztematikus áttekintés]] a [[cs-education|számítástechnika-oktatás]] területén az újratervezést egyszerre tartja megvalósíthatónak és a legnagyobb hatásúnak, és egyetlen lépést emel ki: minden kurzusban legalább egy nagy tétű értékeléshez adjon szóbeli vagy más módon folyamatlátható elemet. Ezt nevezi a korpusz leginkább hatékony beavatkozásának. A detektálás a legvékonyabb terület, amelyet az áttekintés lefed, mindössze 3 kutatással, szemben azzal, hogy a számítástechnikai hallgatók 60-80%-a számol be generatív MI használatáról a kurzusmunkában, jellemzően kifejezett oktatói engedély nélkül, és egy országos oktatói minta 70%-a kifejezetten képzést kér a MI-rezisztens értékeléstervezésről ([[kumar-genai-computing-education-systematic-review-2026|Kumar és mtsai.]]).
 
+Egy hároméves számítástechnikai kurzus megmutatja, milyen messzire viheti a viselkedést egy állványozott bevallási munkafolyamat. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil és mtsai (2026)]] önálló vázlatot írtak elő négytételes ellenőrzőlistával, egy „MI finomíts, ne írj újra” lépést, egy bevallási űrlapot és egy strukturált reflexiót, a hiányzó vázlat vagy űrlap pedig nullát ért. A részvétel az önkéntes szabályzat melletti mintegy kétharmadról 93%-ra nőtt az állványozott évben; a MI-használók 81%-a, illetve 84%-a számolt be arról, hogy elutasított vagy módosított javaslatokat, a javítók a beadások 77–81%-át kódolták kritikus elköteleződésre, és a MI-használat az előzetes írásképesség kontrollálása után nem jelezte előre önállóan az esszé minőségét. Ez egykurzusos tapasztalatbeszámoló, nem kontrollált kísérlet, de megmutatja, ahogy az integritási munka a detektálástól a feltételek felé mozdul, amelyek mellett a diákok bevallanak és átdolgoznak.
+
 A választék, nagyjából aszerint, hogy az egyes lehetőségek mennyire bírják ki a nagy létszámú csoportot.
 
-Támogatás nélkül, a teremben, zárt könyvvel: felügyelt vizsgák, röpdolgozatok, időre írt szövegek. Adjon ezeknek nagyobb súlyt, mint korábban, mert az a házi feladat, amit a MI fel tud fújni. A szóbeli vizsgák és védések ugyanezen okból működnek, mert a valós idejű párbeszédet nehéz kihelyezni ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton és mtsai.]]).
+Támogatás nélkül, a teremben, zárt könyvvel: felügyelt vizsgák, röpdolgozatok, időre írt szövegek. Adjon ezeknek nagyobb súlyt, mint korábban, mert az a házi feladat, amit a MI fel tud fújni. A [[oral-assessment|szóbeli vizsgák]] és védések ugyanezen okból működnek, mert a valós idejű párbeszédet nehéz kihelyezni ([[fenton-oral-exams-ai-authentic-assessment-2025|Fenton és mtsai.]]).
 
-Folyamatalkotások: vázlatok, gondolatmenet-nyomok, jegyzetekkel ellátott „mutasd meg a gondolkodásod”, revíziós naplók, hogy a *folyamat* legyen látható, ne csak a termék ([[authentic-products-authenticated-processes-2026|hiteles termékek, hitelesített folyamatok]]). Ezek mellett működnek a hiteles feladatok: helyi esetek, gyakornoki anyagok, a diák saját adatai, bármi, amit nehéz kiadni másnak ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov és mtsai.]]).
+Folyamatalkotások: vázlatok, gondolatmenet-nyomok, jegyzetekkel ellátott „mutasd meg a gondolkodásod”, revíziós naplók, hogy a *folyamat* legyen látható, ne csak a termék ([[authentic-products-authenticated-processes-2026|hiteles termékek, hitelesített folyamatok]]). Ezek mellett működnek a [[authentic-assessment|hiteles feladatok]]: helyi esetek, gyakornoki anyagok, a diák saját adatai, bármi, amit nehéz kiadni másnak ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov és mtsai.]]).
 
 A diákonkénti feladatvariáció, amelyben minden diák felületében különböző, de konstruktumequivalens változatot kap, szerkezetileg haszontalanná teszi a másolást. A garanciát képességfüggőnek tekintse: a [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] szerint az élvonalbeli generátorok csak 0,81-0,88-at érnek el egy közös integritási pontszámon, míg a nem élvonalbeli modellek 0,50-0,55-re esnek vissza. Ha a változatai nem egyenértékűek, akkor a megosztás elleni védelmet a diákok közötti egyenlőtlenséggel együtt vásárolta meg.
 
@@ -96,7 +98,7 @@ A szabályt is írja pontosan. [[wright-transcription-not-generation-2026|Wright
 
 Az eszköz betiltása és szerkezet nélküli engedélyezése ugyanarra az eredményre vezet: a diákok a kognitív munkán kívül maradnak.
 
-A MI-visszaélések csökkentése szintézise nyolc tervezési elvet határoz meg az engedélyezett változathoz, köztük: őrizze meg a [[desirable-difficulties|kognitív súrlódást]], pozicionálja a MI-t ideiglenes gondolkodási partnerként, ne hatóságként, építsen be értékelési ellenőrzőpontokat, és írjon elő [[metacognition|metakognitív]] naplózást és promptnaplókat.
+A MI-visszaélések csökkentése szintézise nyolc tervezési elvet határoz meg az engedélyezett változathoz, köztük: őrizze meg a [[desirable-difficulties|kognitív súrlódást]], pozicionálja a MI-t ideiglenes gondolkodási partnerként, ne hatóságként, építsen be értékelési ellenőrzőpontokat, és írjon elő [[metacognition|metakognitív]] [[reflection|naplózást]] és promptnaplókat.
 
 A sorrend, amely ezeket az elveket hordozza, elég rövid ahhoz, hogy feladatlapra nyomtassák:
 
@@ -122,7 +124,7 @@ A mért példa egy [[k-12|K-12]] modul, amely forgatókönyvalapú promptgyakorl
 
 Amit a diákok valóban gondolnak, kevésbé cinikus, mint amit a pánik sugall. 504 szociológia szakos diák körében 65% használt már generatív MI-t kurzusmunkához, de csak 3% a feladatszöveg megírására és 2% teljes vázlat generálására. 81% kapott valamilyen MI-útmutatást, és csak 46% találta nagyon egyértelműnek ([[student-genai-use-views-writing|diákok a generatív MI használatáról és az írásról]]). A gyakorlati probléma a homályosság, nem a dac, ezért egy világos szabály és egy megtanított sorrend több viselkedést mozdít el, mint egy figyelmeztetés. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa és Mezgebu (2026)]] olyan diákokat írnak le, akik azt kérdezik, vajon a generatív MI a csalást elősegítő eszköz-e vagy a tanulást támogató partner, és az elvárásainak erre a kérdésre kell válaszolnia.
 
-A kár, amit érdemes kifejezetten tanítani, a [[ai-misuse-learning-harm|teljesítmény és tanulás közötti szakadék]]: a teljesítmény most emelkedik, a tanulás később esik vissza, és a diák csak az elsőt tapasztalja. A [[ai-tools-academic-work-cheating-2026|MI-eszközök és a tanulmányi munka]] és a [[student-rationalization-ai-writing|diákok racionalizációja a MI-írásban]] a kortársnorma és a racionalizálás oldalát tárgyalja, köztük az „mindenki ezt csinálja” védekezést, amelyet egy világos norma leereszt. Hogy mennyire erős ez az alap, azt az [[ai-literacy-evidence|MI-írástudás bizonyítékai]] és a [[top-10-findings-ai-education-instructors|tíz legfontosabb megállapítás oktatóknak]] mutatja meg.
+A kár, amit érdemes kifejezetten tanítani, a [[ai-misuse-learning-harm|teljesítmény és tanulás közötti szakadék]]: a teljesítmény most emelkedik, a tanulás később esik vissza, és a [[student-experience|diák]] csak az elsőt tapasztalja. A [[ai-tools-academic-work-cheating-2026|MI-eszközök és a tanulmányi munka]] és a [[student-rationalization-ai-writing|diákok racionalizációja a MI-írásban]] a kortársnorma és a racionalizálás oldalát tárgyalja, köztük az „mindenki ezt csinálja” védekezést, amelyet egy világos norma leereszt. Hogy mennyire erős ez az alap, azt az [[ai-literacy-evidence|MI-írástudás bizonyítékai]] és a [[top-10-findings-ai-education-instructors|tíz legfontosabb megállapítás oktatóknak]] mutatja meg.
 
 ## Amit az oktatók ebben elrontanak
 

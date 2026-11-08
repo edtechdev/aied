@@ -1,7 +1,7 @@
 ---
 title: "Hva bør studenter lære for yrker der AI er vanlig?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-En student spør hvorfor de skal lære å gjøre noe en chatbot allerede gjør. En programrådsgruppe sier at arbeidsgivere vil ha kandidater som kan bruke AI på jobben. Emneplanen din må tilfredsstille begge, og ingen av dem har sagt hva kandidaten skal kunne gjøre uten hjelp.
+En student spør hvorfor de skal lære å gjøre noe en [[conversational-ai|chatbot]] allerede gjør. En programrådsgruppe sier at arbeidsgivere vil ha kandidater som kan bruke AI på jobben. Emneplanen din må tilfredsstille begge, og ingen av dem har sagt hva kandidaten skal kunne gjøre uten hjelp.
 
-Kort svar å gi en kollega: undervis i hele den profesjonelle oppgaven, ikke i verktøybetjeningen, og vurder både det støttede produktet og studentens selvstendige kapasitet. Evidensen støtter å behandle beredskap som fagkunnskap pluss skjønn pluss verifisering pluss overføring, og den støtter ikke noen ferdighetsliste som garanti for ansettelse. En undersøkelse blant 500 amerikanske universitetslærere mot et arbeidsgiverpanel fant at de to gruppene var enige om betydningen av nøyaktig én av 26 AI-relaterte ferdigheter, *å sette realistiske forventninger til AI-forsterket arbeid*; lærerne vektla kritisk og ansvarlig bruk, mens arbeidsgiverne vektla arbeidsflyt, automatisering og menneske–AI-samarbeid ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Det er rapporterte prioriteringer, ikke ansettelsesevidens. Det skarpere funnet for en emneplan er et annet sted: i en undersøkelse blant 455 studenter i siste år nådde AI-kompetanse opplevd ansettbarhet mest ved å øke [[career-development-and-readiness|karrierefleksibilitet]], med en indirekte effekt på β = 0,173 ved siden av en direkte β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan og Lestari, 2026]]). Fleksibilitet er en kapasitet du kan undervise i. Et verktøytips er det ikke.
+Her er det korte svaret: undervis i hele den profesjonelle oppgaven, ikke i verktøybetjeningen, og vurder både det støttede produktet og studentens selvstendige kapasitet. Evidensen støtter å behandle beredskap som fagkunnskap pluss skjønn pluss verifisering pluss overføring, og den støtter ikke noen ferdighetsliste som garanti for ansettelse. En undersøkelse blant 500 amerikanske universitetslærere mot et arbeidsgiverpanel fant at de to gruppene var enige om betydningen av nøyaktig én av 26 AI-relaterte ferdigheter, *å sette realistiske forventninger til AI-forsterket arbeid*; lærerne vektla kritisk og ansvarlig bruk, mens arbeidsgiverne vektla arbeidsflyt, automatisering og [[human-ai-collaboration|menneske–AI-samarbeid]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Det er rapporterte prioriteringer, ikke ansettelsesevidens. Det skarpere funnet for en [[curriculum-design|emneplan]] er et annet sted: i en undersøkelse blant 455 studenter i siste år nådde AI-kompetanse opplevd ansettbarhet mest ved å øke [[career-development-and-readiness|karrierefleksibilitet]], med en indirekte effekt på β = 0,173 ved siden av en direkte β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan og Lestari, 2026]]). Fleksibilitet er en kapasitet du kan undervise i. Et verktøytips er det ikke.
 
 ## Kortversjonen
 
@@ -73,13 +73,13 @@ Dette er tilpasninger av forskningstemaene, ikke testede ansettelsesintervensjon
 
 Skriving og forretningskommunikasjon: la studentene kritisere og revidere et AI-skrevet svar på en kundeklage. Evidensen for kapasitet er å navngi de ubegrunnede løftene, forklare målgruppevalgene og forsvare den endelige ordlyden.
 
-Et kvantitativt emne kan gjøre det samme med et AI-produsert anslag for et realistisk planleggingsproblem, der studentene lager sitt eget anslag, oppgir antakelsene og tester plausibilitet.
+Et [[quantitative-research|kvantitativt]] emne kan gjøre det samme med et AI-produsert anslag for et realistisk planleggingsproblem, der studentene lager sitt eget anslag, oppgir antakelsene og tester plausibilitet.
 
 For et regneark- eller programmeringsemne: del ut en generert formel og syntetiske data, og be deretter om testtilfeller, en forklaring av referansene og én feilbetingelse.
 
-Helsefag: studentene vurderer en generert forklaring for en fiktiv sak mot godkjente kilder, navngir begrensningene og sier når en kvalifisert fagperson må avgjøre.
+[[medical-education|Helsefag]]: studentene vurderer en generert forklaring for en fiktiv sak mot godkjente kilder, navngir begrensningene og sier når en kvalifisert fagperson må avgjøre.
 
-Karriereutforskning har sin egen versjon: sammenlign oppgavesammensetningen i to yrker ved hjelp av troverdig yrkesinformasjon, og planlegg deretter ett konkret ferdighetsutviklings- eller hjelpesøkende trinn.
+Karriereutforskning har sin egen versjon: sammenlign oppgavesammensetningen i to yrker ved hjelp av troverdig yrkesinformasjon, og planlegg deretter ett konkret ferdighetsutviklings- eller [[help-seeking|hjelpesøkende]] trinn.
 
 For asynkron levering: be om et første forsøk, en kort verifiseringsprotokoll og et notat på to setninger om én konsekvensrik beslutning. I et laboratorium eller seminar kan forklaringen skje i samtale. Bruk syntetisk eller autorisert materiale når alternativet er konfidensielle arbeidsplass- eller studentdata.
 
@@ -89,19 +89,22 @@ Et polert artefakt forteller deg hva som ble produsert under de tillatte betinge
 
 Velg de kravene fordi de støtter en oppgitt kapasitet, og si hvilken hver vurdering måler. Studenter godtar selvstendig øving når den er knyttet til det de forberedes på; «du får bruk for dette en dag» gjør mindre arbeid enn å vise hvordan beregningen er det som lar dem fange et galt anslag senere.
 
-Støttesiden har sin egen risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei mfl. (2026)]] fant at GenAI-bruk var positivt assosiert med GenAI-avhengighet, og avhengighet negativt assosiert med både kritisk tenkning og ansettbarhet i undersøkelsesmodellen deres. Det er en assosiasjon og ikke en kausal påstand, og den peker på designspørsmålet: et emne som bare vurderer støttet prestasjon, kan trenge opp den avhengigheten det rapporterer.
+Støttesiden har sin egen risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei mfl. (2026)]] fant at [[generative-ai|GenAI]]-bruk var positivt assosiert med GenAI-avhengighet, og avhengighet negativt assosiert med både [[critical-thinking|kritisk tenkning]] og ansettbarhet i undersøkelsesmodellen deres. Det er en assosiasjon og ikke en kausal påstand, og den peker på designspørsmålet: et emne som bare vurderer støttet prestasjon, kan trenge opp den avhengigheten det rapporterer.
+
+Den samme logikken gjelder før studentene kommer inn på arbeidsmarkedet. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener mfl. (2026)]] modellerer AI-assistanse som en sekvens der ferdigheten vokser gjennom selvstendig øving og forvitrer når arbeidstakere godtar AI-svar. I modellen deres kan nybegynnere bli fanget på lav ferdighet og eksperter kan miste ferdighet selv mens nøyaktigheten i produksjonen holder seg høy, og strategiske arbeidstakere kan løse oppgaven selvstendig selv når AI-en er mer nøyaktig, fordi framtidig ferdighet har verdi. Artikkelen er teoretisk, ikke en intervensjon, men den skjerper læreplanspørsmålet: planlegg og belønn selvstendig øving i stedet for å anta at AI-assistert produksjon bygger kapasiteten til å føre tilsyn med arbeidet.
+
 
 For programgjennomgang, skill målene. Emneprestasjon, demonstrert AI-kompetanse, vurdering fra praksisveileder, ansettelsesstatus og jobbkvalitet er ulike utfall med ulike tidshorisonter, og en enkelt intervensjon kan ikke etablere alle. [[ai-literacy-evidence|Siden om AI-kompetanseevidens]] er den ærlige oversikten over hva intervensjonsstudier faktisk støtter.
 
 ## Håndter karriereangst uten å love visshet
 
-Studenter kommer med reelle frykter, og undersøkelseslitteraturen om dem er en beskrivelse av fryktene, ikke en prognose for arbeidsmarkedet. [[duan-ai-anxiety-career-decisions-college-2026|Duan mfl. (2026)]] fant at AI-angst direkte og negativt forutsa karrierebeslutninger, noe som er et funn om beslutningslammelse, ikke om jobber. [[ai-anxiety-wellbeing|Bildet av trivsel]] dekker den bredere evidensen.
+Studenter kommer med reelle frykter, og undersøkelseslitteraturen om dem er en beskrivelse av fryktene, ikke en prognose for arbeidsmarkedet. [[duan-ai-anxiety-career-decisions-college-2026|Duan mfl. (2026)]] fant at [[anxiety-and-stress|AI-angst]] direkte og negativt forutsa karrierebeslutninger, noe som er et funn om beslutningslammelse, ikke om jobber. [[ai-anxiety-wellbeing|Bildet av trivsel]] dekker den bredere evidensen.
 
 Det som hjelper, er undersøkelse i den skalaen en student kan handle på: hvilke oppgaver inneholder egentlig denne rollen, hvordan ser en uke ut, hva måtte jeg kunne gjøre, hvem kan fortelle meg det. Karrieretjenester, alumner og praksiskontorer sitter på den informasjonen. En verktøydemonstrasjon, en lærers inntrykk eller en leverandørs presentasjon er ikke en arbeidsmarkedsprognose, og å presentere en som en prognose er hvordan programmer mister troverdighet hos studenter som deretter sjekker.
 
 ## Hva som kommer tilbake på deg
 
-**«Studenter trenger bare bedre prompting.»** Prompting er ett ledd i én av de seks delene. En godt spesifisert forespørsel gir ikke kunnskapen som trengs for å gjenkjenne et dårlig resultat, og arbeidsgiverne i Ithaka-panelet rangerte heller ikke prompthåndverk først.
+**«Studenter trenger bare bedre [[prompt-engineering|prompting]].»** Prompting er ett ledd i én av de seks delene. En godt spesifisert forespørsel gir ikke kunnskapen som trengs for å gjenkjenne et dårlig resultat, og arbeidsgiverne i Ithaka-panelet rangerte heller ikke prompthåndverk først.
 
 **«Hvis arbeidsplassene tillater AI, bør emnet tillate det.»** Et emne bygger også den kapasiteten som gjør ansvarlig bruk mulig. Si hvilken av de to du vurderer i hver oppgave, og innvendingen blir et designspørsmål i stedet for en motsetning.
 
@@ -125,4 +128,4 @@ Det som hjelper, er undersøkelse i den skalaen en student kan handle på: hvilk
 
 [[career-development-and-readiness]] er begrepssiden for ansettbarhet, tilpasningsevne og arbeidsmarkedsviden, og [[ai-literacy]] dekker hva kompetanse betyr ut over verktøybetjening. For å bygge det inn i et bestemt emne, se [[incorporating-ai-literacy|å integrere AI-kompetanse]] og [[faculty-ai-competencies|hvilke kompetanser faglærere trenger]].
 
-For vurderingsdesignet som gjør støttet og selvstendig prestasjon skillbare, se [[redesign-assessment-ai-era|ny utforming av vurdering i AI-tiden]] og [[ai-grading-fairness-reliability|AI-vurdering]]. For hvordan du hindrer at støtte blir avhengighet, se [[reducing-over-reliance|å redusere overavhengighet]].
+For [[assessment|vurderingsdesignet]] som gjør støttet og selvstendig prestasjon skillbare, se [[redesign-assessment-ai-era|ny utforming av vurdering i AI-tiden]] og [[ai-grading-fairness-reliability|AI-vurdering]]. For hvordan du hindrer at støtte blir avhengighet, se [[reducing-over-reliance|å redusere overavhengighet]].

@@ -1,9 +1,9 @@
 ---
 title: "Jak AI może wspierać studentów wielojęzycznych, nie oceniając błędnie ich wiedzy i nie wymazując ich głosu?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output]
+connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
 foundations: [ai-literacy, theories-and-frameworks]
 technology: [generative-ai, llm, conversational-ai]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:30:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 Student rozumie pojęcie i potrzebuje czterech dodatkowych minut, żeby powiedzieć to po angielsku. AI może przetłumaczyć prompt, zdefiniować terminologię, przećwiczyć z nim wyjaśnienie albo napisać całą odpowiedź. Trzy z tych rzeczy to nauczanie. Jedna to odrabianie zadania.
 
-Krótka odpowiedź do przekazania współpracownikowi: zdecyduj, co język robi w tym zadaniu, zanim zdecydujesz, co może narzędzie. Tam, gdzie język jest uboczny, AI może usunąć barierę, która nie ma nic wspólnego z twoim konstruktem. Tam, gdzie język jest konstruktem, to samo narzędzie omija uczenie się. Ryzyko idzie w obie strony naraz: [[multilingual-learning|wsparcie językowe]] może poprawić dostęp, a automatyczne ocenianie nadal może źle odczytać studenta. W jednym badaniu z fizyki wyjaśnienia o niższej jakości językowej były systematycznie oceniane poniżej osądu ekspertów przez każde testowane podejście do oceniania AI, dziewięć systemów uczenia maszynowego i dwa modele językowe, wśród 116 uczniów szkół średnich ([[ai-scoring-language-bias-physics|Feser i Tschisgale, 2026]]). Płynność i rozumienie były oceniane jako jedna rzecz.
+Krótka odpowiedź do przekazania współpracownikowi: zdecyduj, co język robi w tym zadaniu, zanim zdecydujesz, co może narzędzie. Tam, gdzie język jest uboczny, AI może usunąć barierę, która nie ma nic wspólnego z twoim konstruktem. Tam, gdzie język jest konstruktem, to samo narzędzie omija uczenie się. Ryzyko idzie w obie strony naraz: [[multilingual-learning|wsparcie językowe]] może poprawić dostęp, a [[automated-assessment|automatyczne ocenianie]] nadal może źle odczytać studenta. W jednym badaniu z fizyki wyjaśnienia o niższej jakości językowej były systematycznie oceniane poniżej osądu ekspertów przez każde testowane podejście do oceniania AI, dziewięć systemów [[machine-learning|uczenia maszynowego]] i dwa modele językowe, wśród 116 uczniów szkół średnich ([[ai-scoring-language-bias-physics|Feser i Tschisgale, 2026]]). Płynność i rozumienie były oceniane jako jedna rzecz.
 
 ## W skrócie
 
@@ -45,13 +45,13 @@ Krótka odpowiedź do przekazania współpracownikowi: zdecyduj, co język robi 
 
 ## Zdecyduj, co robi język
 
-W wyjaśnieniu biologicznym gramatyka jest w większości uboczna wobec ocenianego pojęcia. Na kursie językowym wytwarzanie i poprawianie określonych struktur jest uczeniem się. W komunikacji zawodowej liczą się dokładność dyscyplinowa, odbiorca i rejestr. To samo narzędzie tłumaczeniowe jest odpowiednie w pierwszym przypadku, wątpliwe w drugim i do negocjacji w trzecim.
+W wyjaśnieniu [[biology-education|biologicznym]] gramatyka jest w większości uboczna wobec ocenianego pojęcia. Na kursie językowym wytwarzanie i poprawianie określonych struktur jest uczeniem się. W komunikacji zawodowej liczą się dokładność dyscyplinowa, odbiorca i rejestr. To samo narzędzie tłumaczeniowe jest odpowiednie w pierwszym przypadku, wątpliwe w drugim i do negocjacji w trzecim.
 
-Zapisz decyzję tam, gdzie studenci mogą ją przeczytać. Jeśli studenci mogą tłumaczyć polecenia, ale muszą samodzielnie wytworzyć wyjaśnienie w języku docelowym, powiedz to wyraźnie. Jeśli wsparcie terminologiczne jest dozwolone, określ, co student nadal musi wyjaśnić i zweryfikować. Potem sprawdź ten układ wobec wymagań dotyczących dostosowań i polityki instytucji, zamiast traktować każdą formę pomocy językowej jako wymienną. Student z udokumentowanym dostosowaniem i student unikający praktyki mogą prosić o to samo, a tylko drugi jest twoim problemem dydaktycznym.
+Zapisz decyzję tam, gdzie studenci mogą ją przeczytać. Jeśli studenci mogą tłumaczyć polecenia, ale muszą samodzielnie wytworzyć wyjaśnienie w języku docelowym, powiedz to wyraźnie. Jeśli wsparcie terminologiczne jest dozwolone, określ, co student nadal musi wyjaśnić i zweryfikować. Potem sprawdź ten układ wobec wymagań dotyczących dostosowań i [[educational-policy-ai|polityki instytucji]], zamiast traktować każdą formę pomocy językowej jako wymienną. Student z udokumentowanym dostosowaniem i student unikający praktyki mogą prosić o to samo, a tylko drugi jest twoim problemem dydaktycznym.
 
 ## Co wspierają badania, a czego nie
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] przejrzeli 24 badania empiryczne nad chatbotami generatywnymi w uczeniu się języków. Ich wkład jest taksonomiczny: każda podmożliwość skatalogowana dla chatbotów przedgeneratywnych się utrzymuje, a trzy są nowe, w tym **translanguaging**, świadome przechodzenie między językami jako część uczenia się. To mapa zgłaszanych zastosowań i doświadczeń, a nie zbiorczy szacunek, a korpus jest skoncentrowany geograficznie: Chiny, Iran, Tajwan i Turcja odpowiadają za 19 z 24 badań, a wszystkie poza jednym mieszczą się w instytucjach formalnych. Wsparcie dla używania wyjaśnienia między językami jako ruchu uczenia się nie jest wsparciem dla tłumaczenia każdego zadania.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] przejrzeli 24 badania empiryczne nad [[conversational-ai|chatbotami]] generatywnymi w [[language-learning|uczeniu się języków]]. Ich wkład jest taksonomiczny: każda podmożliwość skatalogowana dla chatbotów przedgeneratywnych się utrzymuje, a trzy są nowe, w tym **translanguaging**, świadome przechodzenie między językami jako część uczenia się. To mapa zgłaszanych zastosowań i doświadczeń, a nie zbiorczy szacunek, a korpus jest skoncentrowany geograficznie: Chiny, Iran, Tajwan i Turcja odpowiadają za 19 z 24 badań, a wszystkie poza jednym mieszczą się w instytucjach formalnych. Wsparcie dla używania wyjaśnienia między językami jako ruchu uczenia się nie jest wsparciem dla tłumaczenia każdego zadania.
 
 Ocenianie to miejsce, gdzie dowody się wyostrzają, a stawka rośnie. [[ai-scoring-language-bias-physics|Feser i Tschisgale (2026)]] porównali jedenaście podejść do automatycznego oceniania z ocenami ludzkich ekspertów dla wyjaśnień fizycznych 116 uczniów szkół średnich i stwierdzili systematyczne niedoszacowanie rozumienia pojęciowego dla wyjaśnień słabszych językowo, w każdym bez wyjątku podejściu. Projekt izoluje mechanizm: ta sama treść pojęciowa wyrażona słabszą prozą została oceniona niżej. To nie jest twierdzenie o wielojęzycznych studentach jakiegokolwiek kraju i jest to dokładnie ten wzorzec, który czyni ogólną zgodność ocen słabą diagnostyką. Oceniający może zgadzać się z ludzkimi oceniającymi średnio, a jednocześnie mylić się w spójnym kierunku wobec studentów, których język dopiero się rozwija.
 
@@ -116,7 +116,7 @@ Zapewnij wykonalne alternatywy. Studenci potrzebują jasnej drogi do ludzkiego w
 
 **4.** Dodaj jedno sprawdzenie, które zapisuje własne znaczenie lub decyzję studenta, na przykład dwuzdaniową notatkę o zmianie, którą przyjął lub odrzucił.
 
-**5.** Jeśli twoja rubryka ocenia jakość pisania, oddziel to kryterium od pojęciowego i przeczytaj ponownie po dwie prace każdego rodzaju, mając ten podział w głowie.
+**5.** Jeśli twoja rubryka ocenia [[writing-education|jakość pisania]], oddziel to kryterium od pojęciowego i przeczytaj ponownie po dwie prace każdego rodzaju, mając ten podział w głowie.
 
 ## Dokąd dalej
 

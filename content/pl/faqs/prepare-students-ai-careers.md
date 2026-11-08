@@ -1,7 +1,7 @@
 ---
 title: "Czego powinni uczyć się studenci na potrzeby karier, w których AI jest powszechna?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
-Student pyta, dlaczego ma się uczyć czegoś, co chatbot już robi. Grupa doradcza programu mówi, że pracodawcy chcą absolwentów, którzy potrafią używać AI w pracy. Twój sylabus musi zadowolić obie te strony, a żadna z nich nie powiedziała, co absolwent powinien umieć samodzielnie.
+Student pyta, dlaczego ma się uczyć czegoś, co [[conversational-ai|chatbot]] już robi. Grupa doradcza programu mówi, że pracodawcy chcą absolwentów, którzy potrafią używać AI w pracy. Twój sylabus musi zadowolić obie te strony, a żadna z nich nie powiedziała, co absolwent powinien umieć samodzielnie.
 
-Krótka odpowiedź do przekazania współpracownikowi: ucz całego zadania zawodowego, a nie obsługi narzędzia, i oceniaj zarówno produkt wspierany, jak i samodzielną zdolność studenta. Dowody wspierają traktowanie gotowości jako wiedzy dyscyplinowej plus osądu plus weryfikacji plus transferu, i nie wspierają żadnej listy umiejętności jako gwarancji zatrudnienia. Badanie ankietowe 500 wykładowców amerykańskich uczelni zestawione z panelem pracodawców wykazało, że obie grupy zgadzały się co do wagi dokładnie jednej z 26 umiejętności związanych z AI, *ustalania realistycznych oczekiwań wobec pracy wspieranej przez AI*; wykładowcy ważyli krytyczne i odpowiedzialne użycie, a pracodawcy przebieg pracy, automatyzację i współpracę człowiek-AI ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). To zgłoszone priorytety, a nie dowody o zatrudnianiu. Ostrzejsze ustalenie dla programu nauczania jest gdzie indziej: w badaniu 455 studentów ostatniego roku kompetencje w zakresie AI prowadziły do postrzeganej zatrudnialności głównie przez podniesienie [[career-development-and-readiness|adaptacyjności zawodowej]], z efektem pośrednim β = 0,173 obok bezpośredniego β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan i Lestari, 2026]]). Adaptacyjność jest zdolnością, której można nauczyć. Wskazówka o narzędziu nią nie jest.
+Krótka odpowiedź do przekazania współpracownikowi: ucz całego zadania zawodowego, a nie obsługi narzędzia, i oceniaj zarówno produkt wspierany, jak i samodzielną zdolność studenta. Dowody wspierają traktowanie gotowości jako wiedzy dyscyplinowej plus osądu plus weryfikacji plus transferu, i nie wspierają żadnej listy umiejętności jako gwarancji zatrudnienia. Badanie ankietowe 500 wykładowców amerykańskich uczelni zestawione z panelem pracodawców wykazało, że obie grupy zgadzały się co do wagi dokładnie jednej z 26 umiejętności związanych z AI, *ustalania realistycznych oczekiwań wobec pracy wspieranej przez AI*; wykładowcy ważyli krytyczne i odpowiedzialne użycie, a pracodawcy przebieg pracy, automatyzację i [[human-ai-collaboration|współpracę człowiek-AI]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). To zgłoszone priorytety, a nie dowody o zatrudnianiu. Ostrzejsze ustalenie dla [[curriculum-design|programu nauczania]] jest gdzie indziej: w badaniu 455 studentów ostatniego roku kompetencje w zakresie AI prowadziły do postrzeganej zatrudnialności głównie przez podniesienie [[career-development-and-readiness|adaptacyjności zawodowej]], z efektem pośrednim β = 0,173 obok bezpośredniego β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan i Lestari, 2026]]). Adaptacyjność jest zdolnością, której można nauczyć. Wskazówka o narzędziu nią nie jest.
 
 ## W skrócie
 
@@ -73,13 +73,13 @@ To adaptacje tematów badawczych, a nie przetestowane interwencje zatrudnieniowe
 
 Kompozycja i komunikacja biznesowa: pozwól studentom skrytykować i poprawić szkic odpowiedzi na skargę klienta napisany przez AI. Dowodem zdolności jest nazwanie niepopartych obietnic, wyjaśnienie wyborów wobec odbiorcy i obrona ostatecznego sformułowania.
 
-Kurs ilościowy może zrobić to samo z oszacowaniem wyprodukowanym przez AI dla realistycznego problemu planistycznego, gdzie studenci budują własne oszacowanie, podają założenia i testują prawdopodobieństwo.
+Kurs [[quantitative-research|ilościowy]] może zrobić to samo z oszacowaniem wyprodukowanym przez AI dla realistycznego problemu planistycznego, gdzie studenci budują własne oszacowanie, podają założenia i testują prawdopodobieństwo.
 
 Na kursie arkuszy kalkulacyjnych lub informatyki rozdaj wygenerowaną formułę i dane syntetyczne, a potem poproś o przypadki testowe, wyjaśnienie odwołań i jeden warunek awarii.
 
-Zawody zdrowotne: studenci oceniają wygenerowane wyjaśnienie fikcyjnego przypadku wobec zatwierdzonych źródeł, nazywają jego ograniczenia i mówią, kiedy musi decydować wykwalifikowany specjalista.
+[[medical-education|Zawody zdrowotne]]: studenci oceniają wygenerowane wyjaśnienie fikcyjnego przypadku wobec zatwierdzonych źródeł, nazywają jego ograniczenia i mówią, kiedy musi decydować wykwalifikowany specjalista.
 
-Eksploracja kariery ma własną wersję: porównaj skład zadań dwóch zawodów, korzystając z wiarygodnych informacji o zawodach, a potem zaplanuj jeden konkretny krok rozwoju umiejętności lub szukania pomocy.
+Eksploracja kariery ma własną wersję: porównaj skład zadań dwóch zawodów, korzystając z wiarygodnych informacji o zawodach, a potem zaplanuj jeden konkretny krok rozwoju umiejętności lub [[help-seeking|szukania pomocy]].
 
 Przy nauczaniu asynchronicznym proś o wstępną próbę, krótki zapis weryfikacji i dwuzdaniową notatkę o jednej istotnej decyzji. W laboratorium lub seminarium wyjaśnienie może się odbyć w rozmowie. Używaj materiałów syntetycznych lub upoważnionych, ilekroć alternatywą są poufne dane zakładu pracy lub studentów.
 
@@ -89,19 +89,22 @@ Wypolerowany artefakt mówi ci, co wytworzono w dozwolonych warunkach. Nie mówi
 
 Wybieraj te wymagania, bo wspierają wskazaną zdolność, i mów, którą z nich mierzy każde ocenianie. Studenci przyjmują samodzielną praktykę, gdy jest powiązana z tym, do czego są przygotowywani; „będziesz tego potrzebować kiedyś” robi mniej niż pokazanie, jak to obliczenie pozwala później wychwycić błędne oszacowanie.
 
-Strona wsparcia ma własne ryzyko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei i wsp. (2026)]] stwierdzili, że korzystanie z GenAI było dodatnio powiązane z zależnością od GenAI, a zależność ujemnie z zarówno krytycznym myśleniem, jak i zatrudnialnością w ich modelu ankietowym. To powiązanie, a nie twierdzenie przyczynowe, i wskazuje pytanie projektowe: kurs, który ocenia wyłącznie wykonanie wspierane, może trenować zależność, którą raportuje.
+Strona wsparcia ma własne ryzyko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei i wsp. (2026)]] stwierdzili, że korzystanie z [[generative-ai|GenAI]] było dodatnio powiązane z zależnością od GenAI, a zależność ujemnie z zarówno [[critical-thinking|krytycznym myśleniem]], jak i zatrudnialnością w ich modelu ankietowym. To powiązanie, a nie twierdzenie przyczynowe, i wskazuje pytanie projektowe: kurs, który ocenia wyłącznie wykonanie wspierane, może trenować zależność, którą raportuje.
+
+Ta sama logika obowiązuje, zanim studenci wejdą na rynek pracy. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener i in. (2026)]] modelują pomoc SI jako sekwencję, w której umiejętność rośnie przez samodzielną praktykę i zanika, gdy pracownicy przyjmują odpowiedzi SI. W ich modelu nowicjusze mogą utknąć na niskim poziomie umiejętności, a eksperci mogą ją tracić nawet przy wysokiej trafności wyników, a strategiczni pracownicy mogą rozwiązywać zadania samodzielnie nawet wtedy, gdy SI jest trafniejsza, bo przyszła umiejętność ma wartość. Praca jest teoretyczna, a nie interwencyjna, ale zaostrza pytanie o program: planować i nagradzać samodzielną praktykę, zamiast zakładać, że wynik wspierany przez SI buduje zdolność nadzorowania pracy.
+
 
 Do przeglądu programu oddziel miary. Wyniki kursu, wykazane kompetencje w zakresie AI, ocena opiekuna praktyki, status zatrudnienia i jakość pracy to różne wyniki o różnych horyzontach czasowych, a jedna interwencja nie może ustalić ich wszystkich. Strona [[ai-literacy-evidence|dowodów o kompetencjach w zakresie AI]] to uczciwy inwentarz tego, co badania interwencyjne naprawdę wspierają.
 
 ## Zajmij się lękiem o karierę, nie obiecując pewności
 
-Studenci przychodzą z realnymi lękami, a literatura ankietowa o nich jest opisem lęków, a nie prognozą rynku pracy. [[duan-ai-anxiety-career-decisions-college-2026|Duan i wsp. (2026)]] stwierdzili, że lęk związany z AI bezpośrednio i ujemnie przewiduje decyzje zawodowe, co jest ustaleniem o paraliżu decyzyjnym, a nie o miejscach pracy. [[ai-anxiety-wellbeing|Obraz dobrostanu]] obejmuje szersze dowody.
+Studenci przychodzą z realnymi lękami, a literatura ankietowa o nich jest opisem lęków, a nie prognozą rynku pracy. [[duan-ai-anxiety-career-decisions-college-2026|Duan i wsp. (2026)]] stwierdzili, że [[anxiety-and-stress|lęk związany z AI]] bezpośrednio i ujemnie przewiduje decyzje zawodowe, co jest ustaleniem o paraliżu decyzyjnym, a nie o miejscach pracy. [[ai-anxiety-wellbeing|Obraz dobrostanu]] obejmuje szersze dowody.
 
 Pomaga badanie w skali, na którą student może działać: jakie zadania naprawdę zawiera ta rola, jak wygląda tydzień, co musiałbym umieć, kto mi to powie. Służby kariery, absolwenci i personel odpowiedzialny za praktyki mają te informacje. Pokaz narzędzia, wrażenie wykładowcy czy prezentacja dostawcy nie są prognozą rynku pracy, a przedstawianie jednego z nich jako prognozy to sposób, w jaki programy tracą wiarygodność u studentów, którzy potem sprawdzają.
 
 ## Co usłyszysz w odpowiedzi
 
-**„Studenci potrzebują tylko lepszego promptowania.”** Promptowanie to jedno zdanie jednej z sześciu części. Dobrze określone zlecenie nie dostarcza wiedzy potrzebnej do rozpoznania złego wyniku, a pracodawcy z panelu Ithaka też nie stawiali rzemiosła promptowania na pierwszym miejscu.
+**„Studenci potrzebują tylko lepszego [[prompt-engineering|promptowania]].”** Promptowanie to jedno zdanie jednej z sześciu części. Dobrze określone zlecenie nie dostarcza wiedzy potrzebnej do rozpoznania złego wyniku, a pracodawcy z panelu Ithaka też nie stawiali rzemiosła promptowania na pierwszym miejscu.
 
 **„Jeśli miejsca pracy pozwalają na AI, prace kursowe też powinny.”** Kurs buduje także zdolność, która czyni odpowiedzialne użycie możliwym. Powiedz, którą z tych dwóch rzeczy oceniasz w każdym zadaniu, a zarzut staje się pytaniem projektowym, a nie sprzecznością.
 
@@ -125,4 +128,4 @@ Pomaga badanie w skali, na którą student może działać: jakie zadania napraw
 
 [[career-development-and-readiness]] to strona pojęcia dla zatrudnialności, adaptacyjności i dowodów o rynku pracy, a [[ai-literacy]] obejmuje to, co znaczą kompetencje poza obsługą narzędzi. O wbudowaniu tego w konkretny kurs zobacz [[incorporating-ai-literacy|wprowadzanie kompetencji w zakresie AI]] i [[faculty-ai-competencies|jakie kompetencje potrzebuje kadra akademicka]].
 
-O projekcie oceniania, który czyni wykonanie wspierane i samodzielne rozróżnialnymi, zobacz [[redesign-assessment-ai-era|przeprojektowanie oceniania w erze AI]] i [[ai-grading-fairness-reliability|ocenianie przez AI]]. O tym, jak nie pozwolić, by wsparcie stało się zależnością, zobacz [[reducing-over-reliance|ograniczanie nadmiernej zależności]].
+O projekcie [[assessment|oceniania]], który czyni wykonanie wspierane i samodzielne rozróżnialnymi, zobacz [[redesign-assessment-ai-era|przeprojektowanie oceniania w erze AI]] i [[ai-grading-fairness-reliability|ocenianie przez AI]]. O tym, jak nie pozwolić, by wsparcie stało się zależnością, zobacz [[reducing-over-reliance|ograniczanie nadmiernej zależności]].

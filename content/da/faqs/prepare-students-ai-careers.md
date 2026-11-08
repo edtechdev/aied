@@ -1,7 +1,7 @@
 ---
 title: "Hvad bør studerende lære til karrierer, hvor AI er almindeligt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-En studerende spørger, hvorfor de skal lære at gøre noget, en chatbot allerede gør. En rådgivningsgruppe for uddannelsen siger, at arbejdsgivere vil have kandidater, der kan bruge AI på arbejde. Din kursusbeskrivelse skal tilfredsstille begge, og ingen af dem har sagt, hvad kandidaten skal kunne uden hjælp.
+En studerende spørger, hvorfor de skal lære at gøre noget, en [[conversational-ai|chatbot]] allerede gør. En rådgivningsgruppe for uddannelsen siger, at arbejdsgivere vil have kandidater, der kan bruge AI på arbejde. Din kursusbeskrivelse skal tilfredsstille begge, og ingen af dem har sagt, hvad kandidaten skal kunne uden hjælp.
 
-Det korte svar til en kollega: undervis i den komplette professionelle opgave, ikke i betjeningen af værktøjet, og bedøm både det støttede produkt og den studerendes selvstændige formåen. Evidensen understøtter at behandle parathed som faglig viden plus dømmekraft plus verifikation plus transfer, og den understøtter ikke nogen liste af færdigheder som garanti for beskæftigelse. En undersøgelse af 500 amerikanske universitetsundervisere sammenholdt med et arbejdsgiverpanel fandt, at de to grupper var enige om vigtigheden af præcis én af 26 AI-relaterede færdigheder, *at sætte realistiske forventninger til AI-forstærket arbejde*; underviserne vægtede kritisk og ansvarlig brug, mens arbejdsgiverne vægtede arbejdsgange, automatisering og menneske-AI-teamsamarbejde ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Det er rapporterede prioriteter, ikke ansættelsesevidens. Det skarpere fund for en studieordning ligger et andet sted: i en undersøgelse af 455 studerende på sidste år nåede AI-kompetence primært opfattet beskæftigelsesegnethed ved at øge [[career-development-and-readiness|karrierefleksibilitet]], med en indirekte effekt på β = 0,173 ved siden af en direkte β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan og Lestari, 2026]]). Fleksibilitet er en formåen, du kan undervise i. Et værktøjstip er det ikke.
+Det korte svar til en kollega: undervis i den komplette professionelle opgave, ikke i betjeningen af værktøjet, og bedøm både det støttede produkt og den studerendes selvstændige formåen. Evidensen understøtter at behandle parathed som faglig viden plus dømmekraft plus verifikation plus transfer, og den understøtter ikke nogen liste af færdigheder som garanti for beskæftigelse. En undersøgelse af 500 amerikanske universitetsundervisere sammenholdt med et arbejdsgiverpanel fandt, at de to grupper var enige om vigtigheden af præcis én af 26 AI-relaterede færdigheder, *at sætte realistiske forventninger til AI-forstærket arbejde*; underviserne vægtede kritisk og ansvarlig brug, mens arbejdsgiverne vægtede arbejdsgange, automatisering og [[human-ai-collaboration|menneske-AI-teamsamarbejde]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Det er rapporterede prioriteter, ikke ansættelsesevidens. Det skarpere fund for en [[curriculum-design|studieordning]] ligger et andet sted: i en undersøgelse af 455 studerende på sidste år nåede AI-kompetence primært opfattet beskæftigelsesegnethed ved at øge [[career-development-and-readiness|karrierefleksibilitet]], med en indirekte effekt på β = 0,173 ved siden af en direkte β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan og Lestari, 2026]]). Fleksibilitet er en formåen, du kan undervise i. Et værktøjstip er det ikke.
 
 ## Den korte version
 
@@ -73,13 +73,13 @@ Dette er tilpasninger af forskningstemaerne, ikke testede beskæftigelsesinterve
 
 Skriftlig formidling og erhvervskommunikation: lad studerende kritisere og revidere et AI-skrevet svar på en kundeklage. Evidensen for formåen er at navngive de ubegrundede løfter, forklare modtagervalgene og forsvare den endelige formulering.
 
-Et kvantitativt kursus kan gøre det samme med et AI-produceret skøn til et realistisk planlægningsproblem, hvor studerende konstruerer deres eget skøn, angiver antagelserne og tester plausibiliteten.
+Et [[quantitative-research|kvantitativt]] kursus kan gøre det samme med et AI-produceret skøn til et realistisk planlægningsproblem, hvor studerende konstruerer deres eget skøn, angiver antagelserne og tester plausibiliteten.
 
 I et regnearks- eller programmeringskursus kan du udlevere en genereret formel og syntetiske data og derefter bede om testcases, en forklaring af referencerne og én fejlbetingelse.
 
-Sundhedsfag: studerende evaluerer en genereret forklaring til en fiktiv case mod godkendte kilder, navngiver dens begrænsninger og angiver, hvornår en kvalificeret fagperson skal beslutte.
+[[medical-education|Sundhedsfag]]: studerende evaluerer en genereret forklaring til en fiktiv case mod godkendte kilder, navngiver dens begrænsninger og angiver, hvornår en kvalificeret fagperson skal beslutte.
 
-Karriereafklaring har sin egen version: sammenlign opgavesammensætningen i to erhverv ved hjælp af troværdig erhvervsinformation, og planlæg så ét konkret skridt til færdighedsudvikling eller opsøgning af hjælp.
+Karriereafklaring har sin egen version: sammenlign opgavesammensætningen i to erhverv ved hjælp af troværdig erhvervsinformation, og planlæg så ét konkret skridt til færdighedsudvikling eller [[help-seeking|opsøgning af hjælp]].
 
 Til asynkron levering kan du bede om et første forsøg, en kort verifikationsregistrering og en note på to sætninger om én konsekvensrig beslutning. I et laboratorium eller på et seminar kan forklaringen foregå i samtale. Brug syntetiske eller autoriserede materialer, hver gang alternativet er fortrolige arbejdsplads- eller studerendata.
 
@@ -89,19 +89,22 @@ Et poleret artefakt fortæller dig, hvad der blev produceret under de tilladte b
 
 Vælg de krav, fordi de understøtter en angivet formåen, og sig, hvilken af dem hver bedømmelse måler. Studerende accepterer selvstændig øvelse, når den er forbundet med det, de forberedes til; »det får du brug for en dag« gør mindre arbejde end at vise, hvordan beregningen er det, der senere lader dem fange et forkert skøn.
 
-Støttesiden har sin egen risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] fandt, at GenAI-brug var positivt forbundet med GenAI-afhængighed, og at afhængighed var negativt forbundet med både kritisk tænkning og beskæftigelsesegnethed i deres undersøgelsesmodel. Det er en association og ikke en kausal påstand, og den peger på designspørgsmålet: et kursus, der kun nogensinde bedømmer støttet præstation, træner måske netop den afhængighed, det rapporterer.
+Støttesiden har sin egen risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] fandt, at [[generative-ai|GenAI]]-brug var positivt forbundet med GenAI-afhængighed, og at afhængighed var negativt forbundet med både [[critical-thinking|kritisk tænkning]] og beskæftigelsesegnethed i deres undersøgelsesmodel. Det er en association og ikke en kausal påstand, og den peger på designspørgsmålet: et kursus, der kun nogensinde bedømmer støttet præstation, træner måske netop den afhængighed, det rapporterer.
 
 Til uddannelsesevaluering skal du adskille målene. Præstation på kurset, demonstreret AI-kompetence, praktikvejlederens vurdering, beskæftigelsesstatus og jobkvalitet er forskellige udfald med forskellige tidshorisonter, og en enkelt intervention kan ikke fastslå dem alle. [[ai-literacy-evidence|Evidensen for AI-kompetence]] er den ærlige opgørelse over, hvad interventionsstudier faktisk understøtter.
 
+Den samme logik gælder, før studerende kommer ind på arbejdsmarkedet. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modellerer AI-assistance som en sekvens, hvor færdighed vokser gennem selvstændig øvelse og forfalder, når arbejdstagere accepterer AI-svar. I deres model kan nybegyndere blive fanget på et lavt færdighedsniveau, og eksperter kan miste færdigheder, selv mens outputnøjagtigheden forbliver høj, og strategiske arbejdstagere kan løse opgaven selvstændigt, selv når AI'en er mere nøjagtig, fordi fremtidig færdighed har værdi. Artiklen er teoretisk, ikke en intervention, men den skærper pensumspørgsmålet: planlæg og beløn selvstændig øvelse frem for at antage, at AI-assisteret output opbygger den kapacitet, der skal til for at føre tilsyn med arbejdet.
+
+
 ## Håndtér karriereangst uden at love vished
 
-Studerende kommer med reel frygt, og spørgeskemalitteraturen om dem er en beskrivelse af frygten frem for en prognose for arbejdsmarkedet. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] fandt, at AI-angst direkte og negativt forudsagde karrierebeslutninger, hvilket er et fund om beslutningslammelse, ikke om jobs. [[ai-anxiety-wellbeing|Billedet af trivsel]] dækker den bredere evidens.
+Studerende kommer med reel frygt, og spørgeskemalitteraturen om dem er en beskrivelse af frygten frem for en prognose for arbejdsmarkedet. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] fandt, at [[anxiety-and-stress|AI-angst]] direkte og negativt forudsagde karrierebeslutninger, hvilket er et fund om beslutningslammelse, ikke om jobs. [[ai-anxiety-wellbeing|Billedet af trivsel]] dækker den bredere evidens.
 
 Det, der hjælper, er undersøgelse i en skala, en studerende kan handle på: hvilke opgaver indeholder denne rolle faktisk, hvordan ser en uge ud, hvad skulle jeg kunne, hvem kan fortælle mig det. Karrierevejledning, alumner og praktikkoordinatorer sidder på den information. En værktøjsdemonstration, en undervisers indtryk eller en leverandørs præsentation er ikke en arbejdsmarkedsprognose, og at præsentere en som en prognose er, hvordan uddannelser mister troværdighed hos studerende, der så tjekker efter.
 
 ## Hvad der vil komme tilbage til dig
 
-**»Studerende har bare brug for bedre prompting.«** Prompting er en enkelt sætningsdel i én af de seks dele. En velformuleret anmodning leverer ikke den viden, der skal til for at genkende et dårligt resultat, og arbejdsgiverne i Ithaka-panelet rangerede heller ikke prompt-håndværk først.
+**»Studerende har bare brug for bedre [[prompt-engineering|prompting]].«** Prompting er en enkelt sætningsdel i én af de seks dele. En velformuleret anmodning leverer ikke den viden, der skal til for at genkende et dårligt resultat, og arbejdsgiverne i Ithaka-panelet rangerede heller ikke prompt-håndværk først.
 
 **»Hvis arbejdspladser tillader AI, skal undervisningen også tillade det.«** Et kursus bygger også den formåen, der gør ansvarlig brug mulig. Sig, hvilken af de to du bedømmer i hver opgave, og indvendingen bliver et designspørgsmål frem for en modsætning.
 
@@ -125,4 +128,4 @@ Det, der hjælper, er undersøgelse i en skala, en studerende kan handle på: hv
 
 [[career-development-and-readiness|Karriereudvikling og parathed]] er begrebssiden for beskæftigelsesegnethed, fleksibilitet og arbejdsmarkedsevidens, og [[ai-literacy|AI-kompetence]] dækker, hvad kompetence betyder ud over betjening af værktøjer. For at bygge det ind i et bestemt kursus, se [[incorporating-ai-literacy|at integrere AI-kompetence]] og [[faculty-ai-competencies|hvilke kompetencer undervisere har brug for]].
 
-For det bedømmelsesdesign, der gør støttet og selvstændig præstation skelnelig, se [[redesign-assessment-ai-era|at gentænke bedømmelse i AI-tidsalderen]] og [[ai-grading-fairness-reliability|AI-bedømmelse]]. For hvordan man forhindrer, at støtte bliver afhængighed, se [[reducing-over-reliance|at reducere overafhængighed]].
+For det [[assessment|bedømmelsesdesign]], der gør støttet og selvstændig præstation skelnelig, se [[redesign-assessment-ai-era|at gentænke bedømmelse i AI-tidsalderen]] og [[ai-grading-fairness-reliability|AI-bedømmelse]]. For hvordan man forhindrer, at støtte bliver afhængighed, se [[reducing-over-reliance|at reducere overafhængighed]].

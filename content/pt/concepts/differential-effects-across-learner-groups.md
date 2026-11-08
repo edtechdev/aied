@@ -11,7 +11,7 @@ research_method: [quasi-experiment, survey]
 audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
-connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
 source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
@@ -29,7 +29,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Efeitos diferenciais entre grupos de estudantes** — o que a pesquisa sobre [[ai-education|IA na educação]] encontra sobre como o *uso* da IA e seus *efeitos* diferem entre tipos de estudantes: [[special-education|estudantes com deficiência]] e estudantes [[neurodiversity|neurodivergentes]], estudantes de segunda língua e [[multilingual-learning|multilíngues]], meninas e meninos, estudantes minoritizados, estudantes de famílias de baixa renda, estudantes rurais, estudantes de primeira geração, estudantes internacionais e estudantes [[adult-learning|adultos]]. O padrão que vale levar embora é desigual em duas direções ao mesmo tempo: algumas vertentes têm evidência real (deficiência, língua), enquanto outras estão praticamente vazias (primeira geração, internacional, refugiado), e mesmo as vertentes fortes raramente estabelecem que um *grupo* difere — estabelecem que uma ferramenta ajudou ou prejudicou uma amostra daquele grupo, o que é uma afirmação diferente. Esta página mapeia o que existe, o que mostra e as razões metodológicas pelas quais uma média de grupo não é uma previsão sobre um estudante.
+> **Efeitos diferenciais entre grupos de estudantes** — o que a pesquisa sobre [[ai-education|IA na educação]] encontra sobre como o *uso* da IA e seus *efeitos* diferem entre tipos de estudantes: [[inclusive-learning|estudantes com deficiência]] e estudantes [[neurodiversity|neurodivergentes]], estudantes de segunda língua e [[multilingual-learning|multilíngues]], meninas e meninos, estudantes minoritizados, estudantes de famílias de baixa renda, estudantes rurais, estudantes de primeira geração, estudantes internacionais e estudantes [[adult-learning|adultos]]. O padrão que vale levar embora é desigual em duas direções ao mesmo tempo: algumas vertentes têm evidência real (deficiência, língua), enquanto outras estão praticamente vazias (primeira geração, internacional, refugiado), e mesmo as vertentes fortes raramente estabelecem que um *grupo* difere — estabelecem que uma ferramenta ajudou ou prejudicou uma amostra daquele grupo, o que é uma afirmação diferente. Esta página mapeia o que existe, o que mostra e as razões metodológicas pelas quais uma média de grupo não é uma previsão sobre um estudante.
 
 ## Questões para considerar
 

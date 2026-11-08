@@ -7,7 +7,7 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ Yanıt, çoğu ürün şartnamesinin varsaydığından daha dar. Eğitim YZ'si, 
 
 **1.** Sistemin neye, öğretmenin neye karar verdiğini yazın. Bu sınır mimari haline gelir.
 
-**2.** Tek istemleri genel bir güvenlik ölçütüne karşı değil, çok turlu ve disiplin duyarlı etkileşimi gerçek müfredata karşı değerlendirin.
+**2.** Tek istemleri genel bir güvenlik ölçütüne karşı değil, çok turlu ve disiplin duyarlı etkileşimi gerçek [[curriculum-design|müfredata]] karşı değerlendirin.
 
 **3.** Yanıtları onaylanmış içeriğe dayandırın ve doğrulayan bileşeni konuşan bileşenden ayrı tutun.
 
@@ -67,7 +67,7 @@ Aktarılabilir olan kısım ayrılıktır: doğrulayan bileşenler konuşmaz ve 
 
 ## Öğrenci çalışmasını güvenilmeyen girdi olarak ele alın
 
-Çoğu tasarım önerisinin atladığı tehdit modeli, değerlendirilen ürünün içinde oturur. [[humble-prompt-injection-ai-grading-red-team-2026|Humble'ın (2026) saldırgan kırmızı takım değerlendirmesi]], öğrencilerin teslimlerindeki istem enjeksiyonuyla LLM tabanlı bir notlandırıcıyı manipüle edip edemeyeceğini test etti ve manipülasyon işe yaradı: notlandırıcıya talimat veren, çerçevesini değiştiren ya da rol yaptıran enjeksiyonlar, çalışmayı değiştirmeden puanı kaydırıyor.
+Çoğu tasarım önerisinin atladığı tehdit modeli, değerlendirilen ürünün içinde oturur. [[humble-prompt-injection-ai-grading-red-team-2026|Humble'ın (2026) saldırgan kırmızı takım değerlendirmesi]], öğrencilerin teslimlerindeki istem enjeksiyonuyla [[llm|LLM]] tabanlı bir notlandırıcıyı manipüle edip edemeyeceğini test etti ve manipülasyon işe yaradı: notlandırıcıya talimat veren, çerçevesini değiştiren ya da rol yaptıran enjeksiyonlar, çalışmayı değiştirmeden puanı kaydırıyor.
 
 Değerlendirme ölçütünü ve talimatları öğrencinin denetlediği bağlam penceresinin dışında tutun, talimat benzeri içeriği ayıklayın ya da işaretleyin, hiçbir teslimin kendi ölçütlerini belirlemesine izin vermeyin ve sonuç doğuran her notta insan kararını koruyun. Talimatlarını yargıladığı metinden okuyan bir notlandırıcı, ölçütü adaya vermiş demektir.
 
@@ -98,6 +98,9 @@ Daha büyük bir model pedagojiyi düzeltir. Ölçek, 3,8B açık ağırlıklı 
 İyi bir erişim dizini içeriğin halledildiği anlamına gelir. EduGuard erişimi ayrı bir doğrulayıcıyla eşleştirir ve saldırgan doğrudan yanıt istemlerini test eder, çünkü dayandırılmış erişim aşırı açıklamaya giden bir yol bırakır.
 
 Öğretmen yedek plandır. Tasarım çalışmasındaki altı öğretmenin hepsi kayıt, uyarı ve geçersiz kılmayı mesleki sorumluluğun bir koşulu olarak istedi. Bir destek talebi geçersiz kılma değildir.
+
+Keyif alma, uyumun yerine geçer. Tasarım yüksek lisans öğrencileriyle yapılan 405 kişilik bir ankette ([[chu-design-students-ai-agent-tam-ttf-2026|Chu ve Liu (2026)]]), görev–teknoloji uyumu [[technology-acceptance-model|algılanan faydanın]] yanında tutuma kendi yolundan taşındı (β = 0,224) ve görevin özellikleri uyumu aracın özelliklerinden daha çok yönlendirdi (β = 0,322'ye karşı 0,266). Algılanan keyif kullanım kolaylığını artırdı ve faydaya hiçbir şey yapmadı (β = −0,033, p = 0,483). Keyif vermek inşa etmeye değer, ama işlevleri ödevin adımlarıyla eşleştirmenin yerini tutmaz.
+
 
 Erişilebilirlik sonraki bir biletir. Ya şartnamededir ya da baştan yazmaya dönüşür; üretilen alternatif metinler ve altyazılar hâlâ insan kontrolü gerektirir.
 

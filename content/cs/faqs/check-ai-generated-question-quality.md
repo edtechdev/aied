@@ -1,7 +1,7 @@
 ---
 title: "Jak poznám, zda jsou otázky do kvízu a zkoušky vygenerované AI skutečně dobré?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -46,7 +46,7 @@ Krátká odpověď pro kolegu: vygenerované otázky jsou kandidáti, ne hodnoce
 
 Generování je tak levné, že se výstupní formát tiše stane specifikací. Pokud vaše poznámky produkují úhledné položky s výběrem z možností, skončíte u měření toho, zda studenti umějí vybrat mezi věrohodnými tvrzeními, ať už sylabus slibuje jakoukoli kompetenci.
 
-Nejprve určete kompetenci, potom důkazy, které by poskytla uspokojivá odpověď, a potom znalosti, které se od studentů očekávají. Zahrňte materiály kurzu, chybná pojetí, která očekáváte, povolené nástroje a formát odpovědi. Pokud chcete, aby studenti interpretovali důkazy, položka musí interpretaci vyžadovat, a přidání toho slova do otázky na definici to neudělá. Dlouhý scénář může být pořád zodpověditelný přes jednu známou frázi, která všechno prozradí.
+Nejprve určete kompetenci, potom důkazy, které by poskytla uspokojivá odpověď, a potom znalosti, které se od studentů očekávají. Zahrňte materiály kurzu, [[misconceptions|chybná pojetí]], která očekáváte, povolené nástroje a formát odpovědi. Pokud chcete, aby studenti interpretovali důkazy, položka musí interpretaci vyžadovat, a přidání toho slova do otázky na definici to neudělá. Dlouhý scénář může být pořád zodpověditelný přes jednu známou frázi, která všechno prozradí.
 
 Plán položek hodnocení je tabulka kompetencí proti položkám a jeho hodnota je v tom, že odhalí mezery dřív než studenti. Také zviditelní kompromis: každá položka, kterou vygenerujete z nejlehčího materiálu, je položka, kterou jste neutratili za kompetenci, na které vám záleží nejvíc.
 
@@ -68,7 +68,7 @@ Druhý model vám může pomoci najít problémy, a shoda dvou modelů není nez
 
 ## Nenechte rozhodovat štítek obtížnosti
 
-Literatura o [[automated-question-generation|generování otázek]] je užitečnější v selhání štítků než v úspěchu generování. [[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang (2026)]] zkoumali 378 autorských otázek v kurzech datové vědy, z nichž 311 bylo nasazeno u 54 studentů v 7 888 odpovědích. Štítky snadné, střední a těžké od modelu korelovaly s jeho vlastními spolu vygenerovanými úrovněmi Bloomovy taxonomie na ρ = 0,90 a s empirickou obtížností položek na ρ = 0,06. Zhruba 70 % nasazených položek zodpověděli správně všichni studenti, což nenechalo téměř žádnou variaci, kterou by štítek obtížnosti mohl vůbec v principu sledovat.
+Literatura o [[automated-question-generation|generování otázek]] je užitečnější v selhání štítků než v úspěchu generování. [[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang (2026)]] zkoumali 378 autorských otázek v kurzech datové vědy, z nichž 311 bylo nasazeno u 54 studentů v 7 888 odpovědích. Štítky snadné, střední a těžké od modelu korelovaly s jeho vlastními spolu vygenerovanými úrovněmi Bloomovy taxonomie na ρ = 0,90 a s empirickou [[item-response-theory|obtížností položek]] na ρ = 0,06. Zhruba 70 % nasazených položek zodpověděli správně všichni studenti, což nenechalo téměř žádnou variaci, kterou by štítek obtížnosti mohl vůbec v principu sledovat.
 
 Z toho plynou dvě lekce. Za prvé, obtížnost je vlastnost interakce mezi položkou a populací, takže žádnému štítku vytvořenému před administrací položky nelze věřit jako naměřené hodnotě. Za druhé, banka položek, které všichni zodpoví správně, není snadné hodnocení, je to zbytečné hodnocení: nenese téměř žádnou informaci o tom, kdo co umí.
 
@@ -91,6 +91,9 @@ Přepracujte a uchovejte záznam: schválenou verzi, kompetenci, které slouží
 V úvodním kurzu sociologie může být kompetencí rozlišení strukturálního vysvětlení od individuálního. Slabá položka žádá studenty definovat „strukturální“, což měří rozpoznání slovní zásoby. Silnější kandidát dá krátký scénář o rodině a rozhodnutí o zaměstnání a pak se ptá, které vysvětlení nejlépe identifikuje strukturální omezení, s distraktory představujícími věrohodné, ale odlišné interpretace.
 
 Pedagog zkontroluje, že scénář skutečně podporuje klíč, že žádné dvě možnosti nevyjadřují stejnou myšlenku a že odpovídání nezávisí na terminologii, kterou kurz nikdy nezavedl. Jednořádková doplňující otázka „který detail podporuje vaši volbu?“ vynese na povrch uvažování, které zvolená možnost skrývá. Adaptace je jako formát položky neotestovaná a její hodnota je užší: na kontrolní otázky výše lze odpovědět před administrací položky a špatný klíč lze opravit dřív, než ho studenti uvidí.
+
+Když studenti ve velkém dávají najevo nelibost, ten signál má strukturu. V analýze 5 214 211 relací s procvičovacími otázkami zobrazenými v platformě s učebnicí přicházel palec dolů v míře 2,00 na 1 000 relací proti 3,31 palce nahoru a jen 22 844 z 809 848 otázek někdy dostalo hodnocení ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson a kol., 2025]]). Vzorec v hlasech nebyl náhodný: otázky, které žádaly odpověď s příslovcem, dostávaly 5,23 palce dolů na 1 000 proti 1,76 u odpovědí s přídavným jménem, a důležitost věty (poměr šancí 2,38) i podobnost textu odpovědi (1,64) hodnocením také hýbaly. Autory vyladěné pravidlo činilo zhruba 1,62 nelibostí na 1 000, když byly přítomny oba signály důležitosti. Praktický bod je, že hodnocení od studentů je pomalý, ale skutečný měřicí kanál: platforma, která odstraňuje opakovaně neoblíbené otázky, uzavírá smyčku, a pedagog, který testuje několik položek, získá stejný signál rychleji tím, že se zeptá, o kterém detailu student pochyboval.
+
 
 Pro studenty, kteří si generují vlastní procvičovací otázky, platí stejné pravidlo na jejich úrovni: položku zkuste vyřešit, zkontrolujte vysvětlení proti zdrojům kurzu a neřešitelné případy přineste někomu, kdo látku zná. [[study-with-ai|Procvičování s AI]], které učí studenty přijímat generované klíče nekriticky, učí špatný návyk.
 

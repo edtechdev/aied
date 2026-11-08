@@ -1,7 +1,7 @@
 ---
 title: "YZ'nin Yaygın Olduğu Kariyerler İçin Öğrenciler Neler Öğrenmeli?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Bir öğrenci, bir sohbet robotunun zaten yaptığı bir şeyi öğrenmek zorunda olmasının nedenini soruyor. Bir program danışma grubu, işverenlerin işte YZ kullanabilen mezunlar istediğini söylüyor. İzlenmeniz ikisini de karşılamak zorunda ve ikisi de mezunun yardımsız olarak ne yapabilmesi gerektiğini söylemedi.
+Bir öğrenci, bir [[conversational-ai|sohbet robotunun]] zaten yaptığı bir şeyi öğrenmek zorunda olmasının nedenini soruyor. Bir program danışma grubu, işverenlerin işte YZ kullanabilen mezunlar istediğini söylüyor. İzlenmeniz ikisini de karşılamak zorunda ve ikisi de mezunun yardımsız olarak ne yapabilmesi gerektiğini söylemedi.
 
-Bir meslektaşınıza vereceğiniz kısa yanıt: aracın kullanımını değil, bütün mesleki görevi öğretin ve hem destekli ürünü hem de öğrencinin bağımsız yetkinliğini değerlendirin. Kanıtlar, hazırbulunuşluğu disipliner bilgi artı yargı artı doğrulama artı aktarım olarak ele almayı destekliyor; herhangi bir beceri listesini istihdam garantisi saymayı desteklemiyor. 500 ABD üniversite eğitmeniyle bir işveren panelini karşılaştıran bir ankette, iki grup 26 YZ ile ilgili beceriden tam olarak birinin öneminde uzlaştı: *YZ destekli iş için gerçekçi beklentiler belirlemek*. Eğitmenler eleştirel ve sorumlu kullanımı, işverenler ise iş akışı, otomasyon ve insan-YZ ekip çalışmasını daha ağırlıklı buldu ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Bunlar bildirilen önceliklerdir, işe alma kanıtı değil. Bir izlence için daha keskin bulgu başka yerdedir: 455 son sınıf öğrencisiyle yapılan bir ankette YZ okuryazarlığı algılanan istihdam edilebilirliğe çoğunlukla [[career-development-and-readiness|kariyer uyarlanabilirliğini]] artırarak ulaştı; β = 0,173 dolaylı etkisinin yanında β = 0,447 doğrudan etki vardı ([[ai-literacy-graduate-employability-2026|Hendrawan ve Lestari, 2026]]). Uyarlanabilirlik, öğretebileceğiniz bir yetkinliktir. Bir araç ipucu değil.
+Bir meslektaşınıza vereceğiniz kısa yanıt: aracın kullanımını değil, bütün mesleki görevi öğretin ve hem destekli ürünü hem de öğrencinin bağımsız yetkinliğini değerlendirin. Kanıtlar, hazırbulunuşluğu disipliner bilgi artı yargı artı doğrulama artı aktarım olarak ele almayı destekliyor; herhangi bir beceri listesini istihdam garantisi saymayı desteklemiyor. 500 ABD üniversite eğitmeniyle bir işveren panelini karşılaştıran bir ankette, iki grup 26 YZ ile ilgili beceriden tam olarak birinin öneminde uzlaştı: *YZ destekli iş için gerçekçi beklentiler belirlemek*. Eğitmenler eleştirel ve sorumlu kullanımı, işverenler ise iş akışı, otomasyon ve [[human-ai-collaboration|insan-YZ ekip çalışmasını]] daha ağırlıklı buldu ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Bunlar bildirilen önceliklerdir, işe alma kanıtı değil. Bir [[curriculum-design|izlence]] için daha keskin bulgu başka yerdedir: 455 son sınıf öğrencisiyle yapılan bir ankette YZ okuryazarlığı algılanan istihdam edilebilirliğe çoğunlukla [[career-development-and-readiness|kariyer uyarlanabilirliğini]] artırarak ulaştı; β = 0,173 dolaylı etkisinin yanında β = 0,447 doğrudan etki vardı ([[ai-literacy-graduate-employability-2026|Hendrawan ve Lestari, 2026]]). Uyarlanabilirlik, öğretebileceğiniz bir yetkinliktir. Bir araç ipucu değil.
 
 ## Kısa özet
 
@@ -73,13 +73,13 @@ Bunlar araştırma temalarının uyarlamalarıdır, test edilmiş istihdam müda
 
 Kompozisyon ve iş iletişimi: öğrenciler bir müşteri şikayetine verilen YZ taslağı yanıtı eleştirsin ve revize etsin. Yetkinliğin kanıtı, desteklenmeyen vaatleri adlandırmak, hedef kitle seçimlerini açıklamak ve nihai ifadeyi savunmaktır.
 
-Nicel bir ders aynısını gerçekçi bir planlama problemi için YZ üretimi bir tahminle yapabilir; burada öğrenciler kendi tahminlerini kurar, varsayımları belirtir ve makullüğü test eder.
+[[quantitative-research|Nicel]] bir ders aynısını gerçekçi bir planlama problemi için YZ üretimi bir tahminle yapabilir; burada öğrenciler kendi tahminlerini kurar, varsayımları belirtir ve makullüğü test eder.
 
 Bir elektronik tablo ya da bilgi işlem dersinde üretilmiş bir formül ve sentetik veri dağıtın, sonra test durumları, başvuruların açıklaması ve bir arıza koşulu isteyin.
 
-Sağlık meslekleri: öğrenciler kurgusal bir vaka için üretilmiş bir açıklamayı onaylanmış kaynaklara karşı değerlendirsin, sınırlarını adlandırsın ve yetkin bir profesyonelin ne zaman karar vermesi gerektiğini söylesin.
+[[medical-education|Sağlık meslekleri]]: öğrenciler kurgusal bir vaka için üretilmiş bir açıklamayı onaylanmış kaynaklara karşı değerlendirsin, sınırlarını adlandırsın ve yetkin bir profesyonelin ne zaman karar vermesi gerektiğini söylesin.
 
-Kariyer keşfinin kendi sürümü var: güvenilir meslek bilgisini kullanarak iki mesleğin görev bileşimini karşılaştırın, sonra somut bir beceri geliştirme ya da yardım arama adımı planlayın.
+Kariyer keşfinin kendi sürümü var: güvenilir meslek bilgisini kullanarak iki mesleğin görev bileşimini karşılaştırın, sonra somut bir beceri geliştirme ya da [[help-seeking|yardım arama]] adımı planlayın.
 
 Eşzamansız sunum için ilk denemeyi, kısa bir doğrulama kaydını ve sonuç doğuran bir karar üzerine iki cümlelik bir notu isteyin. Laboratuvarda ya da seminerde açıklama konuşma içinde gerçekleşebilir. Alternatif gizli işyeri ya da öğrenci verisiyse her zaman sentetik ya da yetkilendirilmiş materyal kullanın.
 
@@ -89,19 +89,22 @@ Cilalı bir ürün, izin verilen koşullar altında neyin üretildiğini söyler
 
 Bu gereksinimleri, belirtilmiş bir yetkinliği destekledikleri için seçin ve her değerlendirmenin hangisini ölçtüğünü söyleyin. Öğrenciler bağımsız alıştırmayı, hazırlandıkları şeye bağlandığında kabul eder; "buna bir gün ihtiyacın olacak" demek, hesabın onlara sonradan yanlış bir tahmini yakalatacak şey olduğunu göstermekten daha az iş görür.
 
-Destek tarafının kendi riski var. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei ve ark. (2026)]], anket modellerinde GenAI kullanımını GenAI bağımlılığıyla olumlu, bağımlılığı ise hem eleştirel düşünmeyle hem de istihdam edilebilirlikle olumsuz ilişkili buldu. Bu nedensel bir iddia değil bir ilişkidir ve tasarım sorusuna işaret eder: yalnızca destekli performansı değerlendiren bir ders, bildirdiği bağımlılığı eğitiyor olabilir.
+Destek tarafının kendi riski var. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei ve ark. (2026)]], anket modellerinde [[generative-ai|GenAI]] kullanımını GenAI bağımlılığıyla olumlu, bağımlılığı ise hem [[critical-thinking|eleştirel düşünmeyle]] hem de istihdam edilebilirlikle olumsuz ilişkili buldu. Bu nedensel bir iddia değil bir ilişkidir ve tasarım sorusuna işaret eder: yalnızca destekli performansı değerlendiren bir ders, bildirdiği bağımlılığı eğitiyor olabilir.
+
+Aynı mantık öğrenciler işgücü piyasasına girmeden önce de geçerlidir. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener ve ark. (2026)]], YZ yardımını, becerinin bağımsız alıştırmayla büyüdüğü ve çalışanlar YZ yanıtlarını kabul ettiğinde azaldığı bir dizi olarak modelliyor. Modellerinde acemiler düşük beceride sıkışıp kalabilir ve uzmanlar, çıktı doğruluğu yüksek kalsa bile beceri kaybedebilir; stratejik çalışanlar ise gelecekteki becerinin değeri olduğu için YZ daha doğru olsa bile bağımsız çözebilir. Makale bir müdahale değil kuramsaldır, ama izlence sorusunu keskinleştirir: YZ destekli çıktının işi denetleme yetkinliğini inşa ettiğini varsaymak yerine bağımsız alıştırmayı planlayın ve ödüllendirin.
+
 
 Program incelemesi için ölçüleri ayırın. Ders performansı, gösterilmiş YZ okuryazarlığı, staj yöneticisi değerlendirmesi, istihdam durumu ve iş kalitesi farklı zaman ufuklarına sahip farklı çıktılardır ve tek bir müdahale hepsini ortaya koyamaz. [[ai-literacy-evidence|YZ okuryazarlığı kanıtı]] sayfası, müdahale çalışmalarının gerçekte neyi desteklediğinin dürüst envanteridir.
 
 ## Kesinlik vaat etmeden kariyer kaygısını ele alın
 
-Öğrenciler gerçek korkularla geliyor ve onlara dair anket literatürü işgücü piyasasının bir tahmini değil, korkuların bir betimlemesidir. [[duan-ai-anxiety-career-decisions-college-2026|Duan ve ark. (2026)]], YZ kaygısının kariyer kararlarını doğrudan ve olumsuz öngördüğünü buldu; bu işlerle ilgili değil, karar felciyle ilgili bir bulgudur. [[ai-anxiety-wellbeing|İyi oluş tablosu]] daha geniş kanıtı kapsar.
+Öğrenciler gerçek korkularla geliyor ve onlara dair anket literatürü işgücü piyasasının bir tahmini değil, korkuların bir betimlemesidir. [[duan-ai-anxiety-career-decisions-college-2026|Duan ve ark. (2026)]], [[anxiety-and-stress|YZ kaygısının]] kariyer kararlarını doğrudan ve olumsuz öngördüğünü buldu; bu işlerle ilgili değil, karar felciyle ilgili bir bulgudur. [[ai-anxiety-wellbeing|İyi oluş tablosu]] daha geniş kanıtı kapsar.
 
 Yardımcı olan şey, öğrencinin harekete geçebileceği ölçekte araştırmadır: bu rol gerçekte hangi görevleri içeriyor, bir hafta nasıl geçiyor, neyi yapabilmem gerekir, bunu bana kim söyleyebilir. Kariyer hizmetleri, mezunlar ve yerleştirme personeli bu bilgiyi tutar. Bir araç gösterimi, bir eğitmenin izlenimi ya da bir satıcının sunumu işgücü piyasası tahmini değildir ve birini tahmin diye sunmak, programların sonra kontrol eden öğrenciler nezdinde inandırıcılığını yitirmesinin yoludur.
 
 ## Size geri dönecek olanlar
 
-**"Öğrencilerin sadece daha iyi istem yazması gerekiyor."** İstem yazma, altı parçadan birinin bir cümlesidir. İyi belirtilmiş bir istek, kötü bir sonucu tanımak için gereken bilgiyi sağlamaz ve Ithaka panelindeki işverenler de istem ustalığını ilk sıraya koymuyordu.
+**"Öğrencilerin sadece daha iyi [[prompt-engineering|istem yazması]] gerekiyor."** İstem yazma, altı parçadan birinin bir cümlesidir. İyi belirtilmiş bir istek, kötü bir sonucu tanımak için gereken bilgiyi sağlamaz ve Ithaka panelindeki işverenler de istem ustalığını ilk sıraya koymuyordu.
 
 **"İşyerleri YZ'ye izin veriyorsa ders çalışmaları da vermeli."** Bir ders aynı zamanda sorumlu kullanımı mümkün kılan yetkinliği de kurar. Her görevde ikisinden hangisini değerlendirdiğinizi söyleyin; itiraz bir çelişki olmaktan çıkıp bir tasarım sorusuna dönüşür.
 
@@ -125,4 +128,4 @@ Yardımcı olan şey, öğrencinin harekete geçebileceği ölçekte araştırma
 
 [[career-development-and-readiness]] istihdam edilebilirlik, uyarlanabilirlik ve işgücü kanıtı için kavram sayfasıdır; [[ai-literacy]] ise okuryazarlığın araç kullanımının ötesinde ne anlama geldiğini kapsar. Bunu belirli bir derse yerleştirmek için [[incorporating-ai-literacy|YZ okuryazarlığını derse katma]] ve [[faculty-ai-competencies|öğretim üyelerinin hangi yetkinliklere ihtiyacı olduğu]] sayfalarına bakın.
 
-Destekli ve bağımsız performansı birbirinden ayırt edilebilir kılan değerlendirme tasarımı için [[redesign-assessment-ai-era|YZ çağında değerlendirmeyi yeniden tasarlama]] ve [[ai-grading-fairness-reliability|YZ notlandırma]] sayfalarına bakın. Desteğin bağımlılığa dönüşmesini nasıl önleyeceğiniz için [[reducing-over-reliance|aşırı bağımlılığı azaltma]] sayfasına bakın.
+Destekli ve bağımsız performansı birbirinden ayırt edilebilir kılan [[assessment|değerlendirme tasarımı]] için [[redesign-assessment-ai-era|YZ çağında değerlendirmeyi yeniden tasarlama]] ve [[ai-grading-fairness-reliability|YZ notlandırma]] sayfalarına bakın. Desteğin bağımlılığa dönüşmesini nasıl önleyeceğiniz için [[reducing-over-reliance|aşırı bağımlılığı azaltma]] sayfasına bakın.

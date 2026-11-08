@@ -1,7 +1,7 @@
 ---
 title: "Hur kontrollerar jag om AI-genererade quiz- och tentamensfrågor verkligen är bra?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Du ber om tjugo frågor utifrån dina föreläsningsanteckningar. Du får tillbaka dem med facit, förklaringar, svårighetsgrader och Bloom-taxonomiska kategorier, i ett formaterat dokument som ser färdigt ut. Ditt namn ska strax stå på det.
 
-Kort svar att ge en kollega: genererade frågor är kandidater, inte en bedömning. Lös varje fråga själv, kontrollera vad uppgiften kräver att en student faktiskt gör, och ta reda på hur studenterna svarar på den innan den räknas. I de två största studierna i den här kunskapsbasen är den intressanta signalen inte att generering fungerar utan var den fallerar. Iterativ generering inuti ett kursanpassat arbetsflöde gav användbara flervalstentamina i 71 högskoleklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley m.fl., 2025]]). I en datavetenskaplig granskning av 311 frågor i drift följde modellens svårighetsgrader nästan perfekt de Bloom-nivåer den hade genererat tillsammans med dem (Spearman ρ = 0,90) medan de följde vad studenterna faktiskt presterade med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang, 2026]]). Graderingen var en beskrivning av prompten, inte en mätning av frågan.
+Här är det korta svaret: genererade frågor är kandidater, inte en bedömning. Lös varje fråga själv, kontrollera vad uppgiften kräver att en student faktiskt gör, och ta reda på hur studenterna svarar på den innan den räknas. I de två största studierna i den här kunskapsbasen är den intressanta signalen inte att generering fungerar utan var den fallerar. Iterativ generering inuti ett kursanpassat arbetsflöde gav användbara flervalstentamina i 71 högskoleklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley m.fl., 2025]]). I en datavetenskaplig granskning av 311 frågor i drift följde modellens svårighetsgrader nästan perfekt de Bloom-nivåer den hade genererat tillsammans med dem (Spearman ρ = 0,90) medan de följde vad studenterna faktiskt presterade med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang, 2026]]). Graderingen var en beskrivning av prompten, inte en mätning av frågan.
 
 ## Kortversionen
 
@@ -46,7 +46,7 @@ Kort svar att ge en kollega: genererade frågor är kandidater, inte en bedömni
 
 Generering är billig nog att utdataformatet tyst blir specifikationen. Om dina anteckningar ger prydliga flervalsfrågor kommer du att mäta huruvida studenter kan välja mellan rimliga påståenden, oavsett vilket mål kursplanen påstår.
 
-Specificera målet först, sedan den evidens ett tillfredsställande svar skulle ge, sedan den kunskap studenterna förväntas komma med. Ta med kursmaterialet, de missuppfattningar du förväntar dig, eventuella tillåtna verktyg och svarsformatet. Om du vill att studenter ska tolka evidens måste frågan kräva tolkning, och att lägga till ordet i en definitionsfråga gör det inte. Ett långt scenario kan fortfarande gå att svara på genom en enda bekant fras som avslöjar allt.
+Specificera målet först, sedan den evidens ett tillfredsställande svar skulle ge, sedan den kunskap studenterna förväntas komma med. Ta med kursmaterialet, de [[misconceptions|missuppfattningar]] du förväntar dig, eventuella tillåtna verktyg och svarsformatet. Om du vill att studenter ska tolka evidens måste frågan kräva tolkning, och att lägga till ordet i en definitionsfråga gör det inte. Ett långt scenario kan fortfarande gå att svara på genom en enda bekant fras som avslöjar allt.
 
 En bedömningsblueprint är en tabell med mål mot frågor, och dess värde är att den avslöjar luckor innan studenterna gör det. Den synliggör också avvägningen: varje fråga du genererar från det enklaste materialet är en fråga du inte lade på det mål du bryr dig mest om.
 
@@ -68,7 +68,7 @@ En andra modell kan hjälpa dig att hitta problem, och samstämmighet mellan tv�
 
 ## Låt inte svårighetsgraderingen avgöra
 
-Litteraturen om [[automated-question-generation|frågegenerering]] är mer användbar när det gäller graderingarnas misslyckande än genereringens framgång. [[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang (2026)]] granskade 378 författade frågor i datavetenskapliga kurser, varav 311 användes med 54 studenter över 7 888 svar. Modellens graderingar lätt, medel och svår korrelerade med dess egna samtidigt genererade Bloom-nivåer med ρ = 0,90 och med empirisk frågesvårighet med ρ = 0,06. Ungefär 70 % av frågorna i drift besvarades korrekt av varje student, vilket lämnade nästan ingen variation för en svårighetsgradering att följa ens i princip.
+Litteraturen om [[automated-question-generation|frågegenerering]] är mer användbar när det gäller graderingarnas misslyckande än genereringens framgång. [[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang (2026)]] granskade 378 författade frågor i datavetenskapliga kurser, varav 311 användes med 54 studenter över 7 888 svar. Modellens graderingar lätt, medel och svår korrelerade med dess egna samtidigt genererade Bloom-nivåer med ρ = 0,90 och med empirisk [[item-response-theory|frågesvårighet]] med ρ = 0,06. Ungefär 70 % av frågorna i drift besvarades korrekt av varje student, vilket lämnade nästan ingen variation för en svårighetsgradering att följa ens i princip.
 
 Två lärdomar följer. För det första är svårighet en egenskap hos interaktionen mellan en fråga och en population, så ingen gradering som produceras innan frågan administreras kan litas på som ett uppmätt värde. För det andra är en frågebank som alla svarar korrekt på inte en lätt bedömning, den är en värdelös sådan: den bär nästan ingen information om vem som kan vad.
 
@@ -91,6 +91,9 @@ Revidera, och behåll protokollet: den godkända versionen, målet den tjänar, 
 I en introduktionskurs i sociologi kan målet vara att skilja en strukturell förklaring från en individuell. En svag fråga ber studenterna definiera "strukturell", vilket mäter ordförrådsigenkänning. En starkare kandidat ger ett kort scenario om en familj och ett anställningsbeslut och frågar sedan vilken förklaring som bäst identifierar en strukturell begränsning, med distraktorer som representerar rimliga men olika tolkningar.
 
 Läraren kontrollerar att scenariot verkligen stöder facit, att inga två alternativ uttrycker samma idé och att svaret inte beror på terminologi som kursen aldrig har introducerat. En enradig följdfråga, "vilken detalj stöder ditt val?", synliggör det resonemang som det valda alternativet döljer. Anpassningen är oprövad som frågeformat, och dess värde är snävare: granskningsfrågorna ovan kan besvaras innan en fråga administreras, och ett dåligt facit kan repareras innan studenterna ser det.
+
+När studenter signalerar ogillande i stor skala har signalen struktur. I en analys av 5 214 211 sessioner med övningsfrågor som presenterades i en läroboksplattform kom tummen ner med 2,00 per 1 000 sessioner mot 3,31 tummen upp, och bara 22 844 av 809 848 frågor fick någonsin en bedömning ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson m.fl., 2025]]). Mönstret i rösterna var inte slumpmässigt: frågor som krävde adverbssvar drog 5,23 tummen ner per 1 000 mot 1,76 för adjektivssvar, och satsens vikt (oddskvot 2,38) och likheten mellan svarsalternativen (1,64) påverkade också betyget. Författarnas justerade tumregel var omkring 1,62 ogillanden per 1 000 när båda viktsignalerna fanns. Den praktiska poängen är att studentbetyg är en långsam men verklig mätkanal: en plattform som tar bort frågor som upprepade gånger ogillas sluter loopen, och en lärare som pilotprövar några frågor får samma signal snabbare genom att fråga vilken detalj studenten tvivlade på.
+
 
 För studenter som genererar sina egna övningsfrågor gäller samma regel på deras nivå: försök lösa frågan, kontrollera förklaringen mot kurskällorna och ta de fall som inte går att lösa till någon som kan ämnet. [[study-with-ai|Studiepraktik]] som tränar studenter att okritiskt acceptera genererade facit lär ut fel vana.
 

@@ -1,9 +1,9 @@
 ---
 title: "Kan jag använda AI för att bedöma studentarbeten rättvist och tillförlitligt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Du har en bedömningsmatris du tror på, fler inlämningar än timmar och ett verktyg som returnerar en poäng plus flera självsäkra stycken på den tid det tar att läsa en uppsats. Du testar det på arbeten du redan har betygsatt. Hälften av poängerna ser rimliga ut. En är märkligt generös, en är märkligt sträng, och du kan ännu inte avgöra om det beror på verktyget eller på uppsatsen.
 
-Kort svar att ge en kollega: AI-bedömning förtjänar en plats som granskande assistent eller andre läsare, på uppgifter där du har kontrollerat den mot arbete du redan har rättat. Samstämmighet överförs inte mellan bedömningstyper. I en farmaceutisk tentamen med sexton studenter fann [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat m.fl. (2026)]] närmast perfekt samstämmighet för objektiva uppgiftstyper och opålitlig samstämmighet för öppna svar. Vid tre engelska universitet fann [[opraise-automated-marking-ai-assessment-2026|OpRaise-projektet]] att AI-bedömare och mänskliga bedömare kom överens om betygsbandet mellan 35 % och 65 % av fallen beroende på lärosäte, med poäng som pressades mot mitten. En ledig motivering är inte evidens för att dina kriterier har tillämpats. Huruvida resultatet är [[assessment-validity|giltigt för ditt beslut]] är en lokal fråga som du själv måste besvara, och [[human-in-the-loop-ai|en människa står kvar som ansvarig]] för allt som blir ett registrerat betyg.
+Här är det korta svaret: AI-bedömning förtjänar en plats som granskande assistent eller andre läsare, på uppgifter där du har kontrollerat den mot arbete du redan har rättat. Samstämmighet överförs inte mellan bedömningstyper. I en farmaceutisk tentamen med sexton studenter fann [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat m.fl. (2026)]] närmast perfekt samstämmighet för objektiva uppgiftstyper och opålitlig samstämmighet för öppna svar. Vid tre engelska universitet fann [[opraise-automated-marking-ai-assessment-2026|OpRaise-projektet]] att AI-bedömare och mänskliga bedömare kom överens om betygsbandet mellan 35 % och 65 % av fallen beroende på lärosäte, med poäng som pressades mot mitten. En ledig motivering är inte evidens för att dina kriterier har tillämpats. Huruvida resultatet är [[assessment-validity|giltigt för ditt beslut]] är en lokal fråga som du själv måste besvara, och [[human-in-the-loop-ai|en människa står kvar som ansvarig]] för allt som blir ett registrerat betyg.
 
 ## Kortversionen
 
@@ -48,7 +48,7 @@ Tre arrangemang kallas "AI-bedömning", och de bär olika förpliktelser.
 
 En **återkopplingsassistent** skriver utkast till kommentarer eller flaggar möjliga utelämnanden som du kan acceptera, skriva om eller kasta. Risken är begränsad till kommentarens kvalitet, och du läser allt innan det når en student. En **andre läsare** föreslår kriteriepoäng eller flaggar meningsskiljaktigheter för att strukturera din egen rättning. Dess fel måste vara användbara och inte bara felaktiga: en flagga som skickar tillbaka dig till en inlämning du annars hade rättat slarvigt är värd att ha. En **primär bedömare** producerar poäng som blir registrerade betyg. Det är det arrangemang som evidensen i den här kunskapsbasen inte stöder utanför snäva, lokalt validerade fall.
 
-Välj det lägsta steget som adresserar din faktiska begränsning. Om din rättningsbörda kommer från att kontrollera ett fast facit är vanlig deterministisk poängsättning mer transparent och granskningsbar än en språkmodell, och farmacistudien antyder att LLM:ens fördel på objektiva uppgifter delvis var en artefakt av att den fick de korrekta svaren under bedömningen. Spara modellen till arbete som kräver tolkning, och kontrollera sedan tolkningen.
+Välj det lägsta steget som adresserar din faktiska begränsning. Om din rättningsbörda kommer från att kontrollera ett fast facit är vanlig deterministisk poängsättning mer transparent och granskningsbar än en [[llm|språkmodell]], och farmacistudien antyder att LLM:ens fördel på objektiva uppgifter delvis var en artefakt av att den fick de korrekta svaren under bedömningen. Spara modellen till arbete som kräver tolkning, och kontrollera sedan tolkningen.
 
 [[automated-assessment|Automatiserad bedömning]] täcker den vidare maskineriet för poängsättning, moderation och generering av återkoppling. Den här sidan är omdömesfrågan under allt detta.
 

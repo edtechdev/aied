@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-04T05:29:47-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,7 @@ Mediile ascund exact variația care decide o întrebare de echitate. Efectele di
 
 ### „Au raportat că au învățat mult.”
 
-Autodeclararea măsoară percepția, acceptarea, anxietatea și [[self-efficacy|autoeficacitatea]], și este bună la toate patru. Nu este o măsură a capacității demonstrate, pentru că oamenii pot fi încrezători și greșiți sau competenți și lipsiți de încredere. Sinteza wiki a cercetării despre alfabetizarea în IA a cadrelor didactice raportează un decalaj substanțial între autoevaluare și performanța măsurată, iar cadrele didactice din ea și-au supraestimat competența considerabil ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Perechează fiecare autodeclarare cu o sarcină: identifică o eroare într-un rezultat, verifică o sursă, alege o strategie de folosire, observă prejudecata sau servilismul, revizuiește un răspuns defectuos, calibrează încrederea față de acuratețe. Un astfel de item într-un chestionar transformă o opinie într-un rezultat.
+[[self-report-measures|Autodeclararea]] măsoară percepția, acceptarea, [[anxiety-and-stress|anxietatea]] și [[self-efficacy|autoeficacitatea]], și este bună la toate patru. Nu este o măsură a capacității demonstrate, pentru că oamenii pot fi încrezători și greșiți sau competenți și lipsiți de încredere. Sinteza wiki a cercetării despre alfabetizarea în IA a cadrelor didactice raportează un decalaj substanțial între [[self-assessment|autoevaluare]] și performanța măsurată, iar cadrele didactice din ea și-au supraestimat competența considerabil ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Perechează fiecare autodeclarare cu o sarcină: identifică o eroare într-un rezultat, verifică o sursă, alege o strategie de folosire, observă prejudecata sau servilismul, revizuiește un răspuns defectuos, calibrează încrederea față de acuratețe. Un astfel de item într-un chestionar transformă o opinie într-un rezultat.
 
 ### „Un student simulat este un înlocuitor ieftin pentru unul real.”
 
@@ -180,7 +180,7 @@ Supravegherea depinde de expertiza pe care automatizarea grea descurajează oame
 
 ### „Predarea folosirii critice și etice a IA costă productivitate.”
 
-Automatizarea neverificată produce relucrare, incidente de securitate, decizii discriminatorii, expunere juridică, daune de reputație și încredere falsă, iar fiecare dintre acestea este un cost pe care cifra de productivitate nu l-a numărat. Angajatul care merită angajat este cel care alocă munca între oameni și instrumente păstrând calitatea, confidențialitatea, responsabilitatea și judecata profesională. Acesta este un argument de productivitate, făcut în direcția pe care bilanțul o ratează de obicei ([[human-ai-collaboration|Colaborare om-IA]], [[governance|Guvernanța IA]]).
+Automatizarea neverificată produce relucrare, incidente de securitate, decizii discriminatorii, [[legal-issues-and-risks|expunere juridică]], daune de reputație și încredere falsă, iar fiecare dintre acestea este un cost pe care cifra de productivitate nu l-a numărat. Angajatul care merită angajat este cel care alocă munca între oameni și instrumente păstrând calitatea, confidențialitatea, responsabilitatea și judecata profesională. Acesta este un argument de productivitate, făcut în direcția pe care bilanțul o ratează de obicei ([[human-ai-collaboration|Colaborare om-IA]], [[governance|Guvernanța IA]]).
 
 ## Răspunde la ce cred studenții
 
@@ -244,7 +244,7 @@ Textul unei politici nu creează înțelegere comună. Studenții și personalul
 
 ### „Rezistența cadrelor didactice este un decalaj de formare.”
 
-Uneori este. Pregătirea este și volum de muncă, [[learner-identity|identitate profesională]], valori disciplinare, îndoieli despre validitatea evaluării, sprijin instituțional subțire, incertitudine privind confidențialitatea și o judecată motivată că o anumită aplicație nu servește studenții. Dezvoltarea trebuie deci să acopere competența practică, integrarea pedagogică, scopul și identitatea, timpul, politica, folosirea [[discipline-specific-aied|specifică disciplinei]] și opțiunea neadoptării principiale. O demonstrație unică de funcționalități nu rezolvă o schimbare profesională și organizațională ([[educational-development|Dezvoltare educațională]]).
+Uneori este. Pregătirea este și volum de muncă, [[learner-identity|identitate profesională]], valori disciplinare, îndoieli despre validitatea evaluării, sprijin instituțional subțire, incertitudine privind confidențialitatea și o judecată motivată că o anumită aplicație nu servește studenții. Dezvoltarea trebuie deci să acopere competența practică, integrarea pedagogică, scopul și identitatea, timpul, politica, folosirea [[discipline-specific-aied|specifică disciplinei]] și opțiunea neadoptării principiale. O demonstrație unică de funcționalități nu rezolvă o schimbare profesională și [[change-management|organizațională]] ([[educational-development|Dezvoltare educațională]]).
 
 ### „Să le spui oamenilor faptele corecte este suficient.”
 
@@ -263,7 +263,7 @@ Versiunea lucrată, pe care o poți adapta la orice element din această pagină
 > **Concepție greșită:** „O sarcină bună generată de IA arată că studentul a învățat.”
 > **Refutare:** „Nu este neapărat adevărat. Produsul arată ce au produs împreună studentul și IA, dar nu dezvăluie ce raționament a executat studentul.”
 > **Înlocuire:** „Învățarea este demonstrată mai bine când studentul poate explica, transfera, adapta și reproduce capacitatea.”
-> **Aplicare:** „Urmează munca asistată de IA cu o explicație, o susținere orală, o urmă a procesului sau o aplicare fără ajutor.”
+> **Aplicare:** „Urmează munca asistată de IA cu o explicație, o [[oral-assessment|susținere orală]], o urmă a procesului sau o aplicare fără ajutor.”
 
 Înlocuirea poartă greutatea. Eliminarea unei concepții greșite fără a furniza o explicație mai bună lasă persoana fără nimic cu care să gândească, iar convingerea veche revine data viitoare când experiența o confirmă.
 
@@ -289,7 +289,7 @@ Profesorii și-au supraestimat substanțial competența în IA atunci când auto
 
 ### „Părinții nu vor accepta nimic altceva decât o interdicție.”
 
-Părinții întreabă dacă lucrul din fața copilului lor este sigur și dacă diploma înseamnă ceva. Răspunde direct la aceste două, cu întrebările de siguranță pedagogică în loc de filtrul de conținut, și argumentul interdicției își pierde forța. Întrebarea consiliului este mai îngustă decât titlul și mai ușor de apărat.
+[[parents-and-families|Părinții]] întreabă dacă lucrul din fața copilului lor este sigur și dacă diploma înseamnă ceva. Răspunde direct la aceste două, cu întrebările de siguranță pedagogică în loc de filtrul de conținut, și argumentul interdicției își pierde forța. Întrebarea consiliului este mai îngustă decât titlul și mai ușor de apărat.
 
 ### „Nu putem face susțineri orale pentru un curs de prelegere de această mărime.”
 

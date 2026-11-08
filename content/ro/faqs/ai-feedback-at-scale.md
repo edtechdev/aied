@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:34:18-05:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Este săptămâna a șasea. Ai un teanc de schițe, o grilă de evaluare în care crezi și o suspiciune crescândă că o treime dintre comentariile tale sunt parcurse în diagonală și uitate. Un coleg menționează că un instrument comentează acum fiecare schiță în decurs de o oră. Ședința de departament are nevoie de un răspuns: este o îmbunătățire sau o cale mai rapidă de a produce text pe care nimeni nu îl citește?
 
-Răspunsul scurt pe care să îl dai unui coleg: feedbackul de IA își câștigă locul pe acoperire, promptitudine și consistență, într-o bandă îngustă. Corectura lingvistică la scară mare și comentariile de primă trecere ghidate de grilă merită automatizate. Acoperirea este partea ieftină. Într-un experiment randomizat pe clustere cu 1.176 studenți din anul întâi, designurile reflexive și hibride au depășit critica IA directă la [[transfer-of-learning|transferul]] întârziat, fără IA. Într-un experiment randomizat pe eseuri cu 70 de studenți, feedbackul de IA mai bine cotat nu a produs revizuiri mai bune decât cele ale unui profesor experimentat. Ce face un student cu un comentariu decide rezultatul, iar [[feedback-literacy|alfabetizarea în feedback]] îi separă pe studenții care câștigă de cei care copiază.
+Răspunsul scurt pe care să îl dai unui coleg: feedbackul de IA își câștigă locul pe acoperire, promptitudine și consistență, într-o bandă îngustă. Corectura lingvistică la scară mare și comentariile de primă trecere ghidate de grilă merită automatizate. Acoperirea este partea ieftină. Într-un experiment randomizat pe clustere cu 1.176 studenți din anul întâi, designurile reflexive și hibride au depășit critica IA directă la [[transfer-of-learning|transferul]] întârziat, fără IA. Într-un experiment randomizat pe eseuri cu 70 de studenți, feedbackul de IA mai bine cotat nu a produs revizuiri mai bune decât cele ale unui [[teacher-role|profesor]] experimentat. Ce face un student cu un comentariu decide rezultatul, iar [[feedback-literacy|alfabetizarea în feedback]] îi separă pe studenții care câștigă de cei care copiază.
 
 ## Pe scurt
 
@@ -38,7 +38,7 @@ Răspunsul scurt pe care să îl dai unui coleg: feedbackul de IA își câștig
 
 **2.** Sortează-ți propriile comentarii în corecturi la nivel de limbă și judecăți la nivel de decizie. Doar prima categorie este candidată la automatizare.
 
-**3.** Etapează sursele. Autoevaluarea prima, feedbackul între colegi al doilea, critica IA al treilea. Două surse puse alături produc o preluare pasivă.
+**3.** Etapează sursele. Autoevaluarea prima, [[peer-assessment|feedbackul între colegi]] al doilea, critica IA al treilea. Două surse puse alături produc o preluare pasivă.
 
 **4.** Dă-i modelului grila ta de evaluare și pune-l să raționeze pas cu pas. O instrucțiune nudă produce rezultate generice.
 
@@ -50,7 +50,7 @@ Răspunsul scurt pe care să îl dai unui coleg: feedbackul de IA își câștig
 
 Indicatorul tentant este calitatea a ceea ce scrie modelul. Este și indicatorul care induce în eroare.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] au randomizat 70 de studenți care scriau eseuri argumentative în persană în trei grupuri. Promptarea cu lanț de gândire a produs feedback semnificativ mai bine cotat (M = 12,90) decât promptarea zero-shot (M = 11,25, p = 0,01) și decât un profesor uman experimentat (M = 11,20, p = 0,008). Grupul cu lanț de gândire nu și-a revizuit eseurile semnificativ mai mult decât grupul cu feedback de la profesor, care a obținut câștiguri comparabile. Comentarii mai bune, aceleași revizuiri. Dacă criteriul tău de succes este calitatea comentariilor, studiul se citește ca o reușită. Dacă este ce s-a schimbat în eseu, nu.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al. (2026)]] au randomizat 70 de studenți care scriau eseuri argumentative în persană în trei grupuri. [[prompt-engineering|Promptarea cu lanț de gândire]] a produs feedback semnificativ mai bine cotat (M = 12,90) decât promptarea zero-shot (M = 11,25, p = 0,01) și decât un profesor uman experimentat (M = 11,20, p = 0,008). Grupul cu lanț de gândire nu și-a revizuit eseurile semnificativ mai mult decât grupul cu feedback de la profesor, care a obținut câștiguri comparabile. Comentarii mai bune, aceleași revizuiri. Dacă criteriul tău de succes este calitatea comentariilor, studiul se citește ca o reușită. Dacă este ce s-a schimbat în eseu, nu.
 
 Alte două semnale flattează un pilot care merge prost, așa că stabilește-le dinainte. Satisfacția studenților este unul. În pilotul Deakin la nivel de universitate, raportat de [[tubino-adachi-ai-automated-feedback-literacy|Tubino și Adachi (2022)]], evaluări medii pozitive au coexistat cu erori semnalate de studenți, așa că un chestionar cu fețe zâmbitoare nu este dovadă de acuratețe. Utilizarea este celălalt. Instrumentul Deakin era opțional, iar utilizarea a fost în medie de aproximativ 13% dintre studenții de licență și 12% dintre studenții de masterat, deși aproape 4.000 de studenți aveau acces. Studenții proactivi și cu performanțe înalte l-au folosit mai mult. Atât îți aduce simpla punere a instrumentului la dispoziție.
 
@@ -72,7 +72,7 @@ Condiția reflexivă cerea autoevaluare înainte de critica IA. Cea hibridă rul
 
 Mecanismul explică de ce secvențierea contează mai mult decât instrumentul. Critica directă invită la o preluare pasivă: studentul citește un verdict și îl aplică. Designurile reflexive și hibride îl obligă pe student să interpreteze comentariul, să îl compare cu criteriile, să îi judece relevanța și apoi să revizuiască. Valoarea educațională depinde mai puțin de accesul la IA și mai mult de întrebarea dacă mediul de feedback păstrează [[agency|agentivitatea învățăcelului]] și [[evaluative-judgment|judecata evaluativă]] în timpul revizuirii.
 
-Feedbackul între colegi își câștigă propriul loc în secvență. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen și Yan (2026)]] au condus două clase paralele de engleză (N = 118 studenți din anul întâi în China; GenAI n = 56, colegi n = 62) prin trei cicluri de autoevaluare pe parcursul unui semestru. Sprijinul de tip schelă oferit de GenAI a îmbunătățit alfabetizarea în feedback ușor, dar semnificativ, față de recenzarea între colegi umani (ANCOVA p = 0,049, ηp² = 0,03). Studenții din grupul GenAI și-au rafinat prompturile iterativ și au verificat sau contestat rezultatele inexacte. Studenții din grupul cu colegi și-au ales sursele după comoditate socială, iar judecata lor evaluativă a fost distorsionată de biasul prieteniei. Recenzarea între colegi a păstrat o valoare distinctă pentru conștientizarea publicului, motiv pentru care autorii propun designuri în mai multe etape, cu feedback anonim între colegi, în loc de o înlocuire.
+Feedbackul între colegi își câștigă propriul loc în secvență. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen și Yan (2026)]] au condus două clase paralele de engleză (N = 118 studenți din anul întâi în China; GenAI n = 56, colegi n = 62) prin trei cicluri de [[self-assessment|autoevaluare]] pe parcursul unui semestru. [[scaffolding|Sprijinul de tip schelă]] oferit de GenAI a îmbunătățit alfabetizarea în feedback ușor, dar semnificativ, față de recenzarea între colegi umani (ANCOVA p = 0,049, ηp² = 0,03). Studenții din grupul GenAI și-au rafinat prompturile iterativ și au verificat sau contestat rezultatele inexacte. Studenții din grupul cu colegi și-au ales sursele după comoditate socială, iar judecata lor evaluativă a fost distorsionată de biasul prieteniei. Recenzarea între colegi a păstrat o valoare distinctă pentru conștientizarea publicului, motiv pentru care autorii propun designuri în mai multe etape, cu feedback anonim între colegi, în loc de o înlocuire.
 
 Avantajul lui Gu et al. a fost mic, iar ei îl citesc ca real, dar nu transformator în sine. Sprijinul de tip schelă al profesorului, ghidurile de promptare și fișele de lucru au făcut munca de susținere.
 
@@ -80,15 +80,15 @@ Avantajul lui Gu et al. a fost mic, iar ei îl citesc ca real, dar nu transforma
 
 Generarea referențiată la grilă este partea automatizabilă.
 
-Câștigul de calitate al lui Farrokhnia et al. a venit dintr-un prompt cu lanț de gândire care a purtat modelul printr-o evaluare pas cu pas față de o grilă de argumentare, nu dintr-o instrucțiune nudă de a da feedback. Gu et al. le-au dat grupului GenAI ChatGPT-4o cu grile preantrenate și ghiduri de promptare, ceea ce a făcut rezultatul verificabil față de criterii declarate. În ambele cazuri, promptul este locul unde criteriile tale intră în sistem, iar urma de raționament este ce îți permite să vezi dacă modelul le-a aplicat.
+Câștigul de calitate al lui Farrokhnia et al. a venit dintr-un prompt cu lanț de gândire care a purtat modelul printr-o evaluare pas cu pas față de o grilă de argumentare, nu dintr-o instrucțiune nudă de a da feedback. Gu et al. le-au dat grupului GenAI [[generative-ai|ChatGPT]]-4o cu grile preantrenate și ghiduri de promptare, ceea ce a făcut rezultatul verificabil față de criterii declarate. În ambele cazuri, promptul este locul unde criteriile tale intră în sistem, iar urma de raționament este ce îți permite să vezi dacă modelul le-a aplicat.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson și Yan (2025)]] fac din calitatea promptului balamaua întregului proces. Prompturile vagi produc rezultate generice și inutile, iar comentariile generate pot fi halucinate, părtinitoare sau suprapuse, ceea ce aruncă judecata evaluativă înapoi asupra cititorului. Calibrarea este și mai ascuțită. La Farrokhnia et al., calitatea feedbackului GenAI a fost semnificativ asociată cu tăria schiței inițiale a studentului, în timp ce calitatea feedbackului profesorului nu a fost. Profesorul a calibrat mai constant. Volumul scalează. Calibrarea nu.
 
 ## Păstrează ultimul cuvânt și înregistrarea la om
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma și Cobos (2026)]] descriu AICoFE, care rulează trei modele ajustate independent (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) peste scoruri de grilă și observații calitative pentru a produce comentarii independente pe schiță. Instructorul compune apoi mesajul final selectând propoziții sau paragrafe, cu o legendă care arată ce model a contribuit cu ce. Modelul redactează. Instructorul livrează, iar livrabilul este semnat de o singură persoană care a citit schița.
+[[becerra-aicofe-feedback-2026|Becerra, Palma și Cobos (2026)]] descriu AICoFE, care rulează trei modele ajustate independent (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) peste scoruri de grilă și observații [[qualitative-research|calitative]] pentru a produce comentarii independente pe schiță. Instructorul compune apoi mesajul final selectând propoziții sau paragrafe, cu o legendă care arată ce model a contribuit cu ce. Modelul redactează. Instructorul livrează, iar livrabilul este semnat de o singură persoană care a citit schița.
 
-Aldino et al. găsesc același tipar de asistare și apoi verificare în practica obișnuită. Componenta de învățare automată semnala cel mai des „Îndeplinește obiectivul de învățare” ca lipsind (20 din 21 de profesori îl omiseseră; 16 au acceptat semnalarea) și „Relația student-profesor” (14 îl omiseseră; 12 au acceptat). Profesorii au decis fiecare sugestie pe baza judecății profesionale, ceea ce este rostul punerii lor în buclă.
+Aldino et al. găsesc același tipar de asistare și apoi verificare în practica obișnuită. Componenta de [[machine-learning|învățare automată]] semnala cel mai des „Îndeplinește obiectivul de învățare” ca lipsind (20 din 21 de profesori îl omiseseră; 16 au acceptat semnalarea) și „Relația student-profesor” (14 îl omiseseră; 12 au acceptat). Profesorii au decis fiecare sugestie pe baza judecății profesionale, ceea ce este rostul punerii lor în buclă.
 
 Doisprezece dintre cei 21 de profesori ai lui Aldino et al. au făcut revizuiri suplimentare la nivel de propoziție, iar tiparul dominant a fost calibrarea tonului: reducerea laudei (f = 11), eliminarea sugestiilor (f = 9), eliminarea încurajărilor (f = 8). Revizuirile s-au grupat pe dimensiunea relațională, în special Relația student-profesor (f = 24). Protejau autenticitatea și vocea profesională, iar acea muncă nu se automatizează.
 
@@ -118,7 +118,7 @@ Evaluările de satisfacție îți spun că comentariile sunt exacte. În pilotul
 
 ## Ce se va întoarce împotriva ta
 
-**„Feedbackul de IA nu este personal.”** Adesea adevărat, și este motivul pentru care ultimul cuvânt rămâne uman. AICoFE există pentru că proza generică a modelului nu este ce ar trebui să primească un student: instructorul selectează, editează și semnează mesajul final. Cei 21 de profesori din Aldino et al. au rescris tonul din același motiv. Personalizarea este treaba ta în acest design, iar modelul face munca de pregătire.
+**„Feedbackul de IA nu este personal.”** Adesea adevărat, și este motivul pentru care ultimul cuvânt rămâne uman. AICoFE există pentru că proza generică a modelului nu este ce ar trebui să primească un student: instructorul selectează, editează și semnează mesajul final. Cei 21 de profesori din Aldino et al. au rescris tonul din același motiv. [[personalized-learning|Personalizarea]] este treaba ta în acest design, iar modelul face munca de pregătire.
 
 **„Studenții mei oricum nu citesc feedbackul.”** Citesc mai puțin decât sperăm, iar dovezile spun că soluția este designul, nu volumul. Preluarea în pilotul Deakin a fost de aproximativ 13% și 12%. Comentariile mai bine cotate ale lui Farrokhnia et al. nu au produs revizuiri suplimentare. Ce a mișcat acul a fost o secvențiere care forțează implicarea, autoevaluare, apoi feedback între colegi, apoi critică IA, plus trei cicluri de revizuire pe parcursul unui semestru care au produs diferențe măsurabile în alfabetizarea în feedback.
 

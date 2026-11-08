@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Bạn đang viết lại một bản giao bài tập, và câu ngay trước mắt bạn nói rằng AI được phép dùng với điều kiện ghi rõ, một câu chẳng nói với sinh viên điều gì về việc liệu công cụ có được phép cung cấp luận điểm hay không. Một đồng nghiệp đã đề xuất cấm toàn khóa, và bạn nghi ngờ lệnh cấm đó giáng nặng nhất vào những người viết đa ngôn ngữ trong lớp. Hoặc một loạt bài luận quay về mượt hơn hẳn cuộc thảo luận seminar đứng sau chúng, và bạn cần một quy tắc có thể bảo vệ được ở cuộc họp chương trình tiếp theo.
+Bạn đang viết lại một bản giao bài tập, và câu ngay trước mắt bạn nói rằng AI được phép dùng với điều kiện ghi rõ, một câu chẳng nói với sinh viên điều gì về việc liệu công cụ có được phép cung cấp luận điểm hay không. Một đồng nghiệp đã đề xuất cấm toàn khóa, và bạn nghi ngờ lệnh cấm đó giáng nặng nhất vào những người viết đa ngôn ngữ trong lớp. Hoặc một loạt bài luận quay về mượt hơn hẳn cuộc thảo luận seminar đứng sau chúng, và bạn cần một quy tắc có thể bảo vệ được ở cuộc họp [[curriculum-design|chương trình]] tiếp theo.
 
 Điểm mấu chốt: gọi tên công việc trí tuệ mà bài tập tồn tại để tạo ra, giữ bước đó ở lại với sinh viên, và giao cho công cụ những việc trả về thứ mà sinh viên phải phán xét. Một quy tắc viết theo cách đó cho sinh viên biết nó đang bảo vệ bước nào.
 
@@ -78,7 +78,7 @@ Một trình tự đáng để vay mượn giữ AI ở vai trò tư vấn và �
 | **8. Sửa bài** | Thực hiện và biện giải những thay đổi thực chất | Thử độ rõ ràng, đưa ra phương án khác | Bản sửa |
 | **9. Kiểm chứng** | Kiểm tra mọi tuyên bố thực tế hoặc phụ thuộc nguồn | Không thể kiểm chứng đầu ra của chính nó | Nguồn và bằng chứng |
 | **10. Suy ngẫm và khai báo** | Giải thích vai trò của AI và điều gì đã thay đổi trong tư duy của mình | Không gì | Bài suy ngẫm ngắn về quá trình |
-| **11. Kiểm tra độc lập** | Giải thích hoặc áp dụng lý luận mà không có AI | Không gì | Bảo vệ miệng, viết nhanh, tình huống mới |
+| **11. Kiểm tra độc lập** | Giải thích hoặc áp dụng lý luận mà không có AI | Không gì | [[oral-assessment|Bảo vệ miệng]], viết nhanh, tình huống mới |
 
 Đây là [[pairr-ai-peer-review-2025|PAIRR]] mở rộng: viết nháp, phản hồi của con người, phản hồi của AI, so sánh, sửa bài, suy ngẫm, kèm một đường cơ sở độc lập và một ranh giới chặt hơn quanh phần lý luận. Hãy dùng cột giữa làm bài tập và cột bên phải làm thứ mà một con điểm có thể dựa vào.
 
@@ -89,6 +89,9 @@ Mười một dòng là nhiều hơn hầu hết bài tập cần. Hãy thu gọ
 Nghiên cứu trên lớp lớn nhất ở đây là [[pairr-ai-peer-review-2025|PAIRR]]: 654 sinh viên trong mười khóa học viết và ba khóa [[stem-education|STEM]] chú trọng viết. Họ viết nháp, hoàn thành [[peer-assessment|đánh giá đồng đẳng]], nhận phản hồi của AI dựa trên rubric, so sánh và đánh giá cả hai nguồn, viết kế hoạch sửa bài, sửa bài và suy ngẫm. 58% thích phản hồi kết hợp bạn học và AI. 6% chỉ thích phản hồi của AI. Sinh viên thấy AI hữu ích cho những lời khuyên sửa bài theo rubric nói chung, còn bạn học cung cấp kiến thức theo ngữ cảnh và một phản ứng độc giả đích thực.
 
 Hãy nói chính xác về tuyên bố. PAIRR đo trải nghiệm và cách sinh viên đánh giá phản hồi, không đo [[learning-gains|thành quả học tập]] dài hạn, nên đây là bằng chứng mạnh cho một thiết kế phản hồi và bằng chứng yếu hơn rằng việc viết tốt lên sau nhiều tháng. Hãy giữ bước bạn học ngay cả khi bước AI nhanh hơn. Phần lớn công việc của [[feedback|phản hồi]] diễn ra trong việc so sánh hai nguồn, và bỏ nó đi là bỏ đúng phần mà sinh viên nói họ coi trọng.
+
+Công cụ tự nó có thể được thiết kế để bảo vệ bước lý luận. [[favero-thinking-not-writing-chatbot-2026|Favero và cộng sự (2026)]] xây dựng MAIKE, một chatbot [[socratic-method|Socratic]] chẩn đoán lập luận và đặt những câu hỏi có mục tiêu mà không tạo ra văn bản bài luận. Trong một nghiên cứu trên lớp với 65 học sinh trung học, người dùng MAIKE dành nhiều lượt hơn cho đối thoại ở mức ý tưởng so với nhóm đối chứng (56% so với 44%) và chuyển qua lại giữa thảo luận và chỉnh sửa; khoảng 40% học sinh cải thiện điểm bài luận. Nghiên cứu không cho thấy lợi thế điểm tổng thể so với nhóm đối chứng, nên hãy coi đây là một minh chứng thiết kế về việc nối đối thoại với sửa bài, chứ không phải bằng chứng rằng chatbot nâng cao chất lượng viết.
+
 
 ## Chấm điểm điều sinh viên làm với phản hồi
 

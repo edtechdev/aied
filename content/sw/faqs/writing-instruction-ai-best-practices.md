@@ -8,7 +8,7 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Unaandika upya karatasi ya maelekezo ya kazi, na sentensi iliyo mbele yako inasema AI inaruhusiwa ikiwa mwanafunzi atatangaza matumizi yake — jambo ambalo halimwambii mwanafunzi kitu chochote kuhusu kama chombo hicho kinaweza kutoa hoja yenyewe. Mwenzako amependekeza marufuku kwa kozi nzima, na unahisi marufuku hiyo itawagusa kwa uchungu zaidi waandishi wanaojifunza kwa lugha nyingi katika darasa lako. Au kundi la insha zimerejea zikiwa laini zaidi kuliko majadiliano ya semina yaliyozalisha, na unahitaji kanuni unayoweza kuitetea katika mkutano ujao wa mtaala.
+Unaandika upya karatasi ya maelekezo ya kazi, na sentensi iliyo mbele yako inasema AI inaruhusiwa ikiwa mwanafunzi atatangaza matumizi yake — jambo ambalo halimwambii mwanafunzi kitu chochote kuhusu kama chombo hicho kinaweza kutoa hoja yenyewe. Mwenzako amependekeza marufuku kwa kozi nzima, na unahisi marufuku hiyo itawagusa kwa uchungu zaidi waandishi wanaojifunza kwa lugha nyingi katika darasa lako. Au kundi la insha zimerejea zikiwa laini zaidi kuliko majadiliano ya semina yaliyozalisha, na unahitaji kanuni unayoweza kuitetea katika mkutano ujao wa [[curriculum-design|mtaala]].
 
 Msingi wa jambo: taja kazi ya kiakili ambayo kazi hii imeundwa kuizalisha, hifadhi hatua hiyo kwa mwanafunzi, na mpe chombo majukumu yanayorejesha kitu ambacho mwanafunzi anapaswa kukihukumu. Kanuni iliyoandikwa kwa namna hiyo inamwambia mwanafunzi ni hatua ipi inailinda.
 
@@ -80,7 +80,7 @@ Mfululizo unaostahili kuazimwa huweka AI katika jukumu la ushauri na kuweka kufi
 | **8. Kurekebisha** | Kufanya mabadiliko ya maudhui na kuyaeleza | Kujaribu uwazi, kupendekeza njia mbadala | Marekebisho |
 | **9. Kuthibitisha** | Kukagua kila dai la ukweli au la chanzo | Haiwezi kuthibitisha matokeo yake yenyewe | Vyanzo na ushahidi |
 | **10. Kutafakari na kutangaza** | Kueleza jukumu la AI na kilichobadilika katika kufikiri kwake | Hakuna | Tafakari fupi ya mchakato |
-| **11. Ukaguzi huru** | Kueleza au kutumia kufikiri bila AI | Hakuna | Utetezi wa mdomo, uandishi wa haraka, kisa kipya |
+| **11. Ukaguzi huru** | Kueleza au kutumia kufikiri bila AI | Hakuna | [[oral-assessment|Utetezi wa mdomo]], uandishi wa haraka, kisa kipya |
 
 Huu ni [[pairr-ai-peer-review-2025|PAIRR]] uliopanuliwa: rasimu, maoni ya binadamu, maoni ya AI, kulinganisha, marekebisho, tafakari, pamoja na msingi huru na kikomo kikazaidi kuzunguka kufikiri. Tumia safu ya kati kama kazi yenyewe na safu ya kulia kama kile ambacho alama inaweza kusimama juu yake.
 
@@ -91,6 +91,8 @@ Safu kumi na moja ni zaidi ya kazi nyingi zinavyohitaji. Punguza jedwali hadi ha
 Utafiti mkubwa zaidi wa darasa hapa ni [[pairr-ai-peer-review-2025|PAIRR]]: wanafunzi 654 katika kozi kumi za uandishi na kozi tatu za [[stem-education|STEM]] zenye msisitizo mkubwa wa uandishi. Waliandika rasimu, walikamilisha [[peer-assessment|tathmini ya marika]], walipata maoni ya AI yanayotegemea rubriki, walilinganisha na kutathmini vyanzo vyote viwili, waliandika mipango ya marekebisho, walirekebisha, na walitafakari. 58% walipendelea maoni ya pamoja ya marika na AI. 6% walipendelea maoni ya AI peke yake. Wanafunzi waliona AI kuwa na manufaa kwa ushauri mpana wa marekebisho unaoelekezwa na rubriki, na marika walitoa maarifa ya muktadha na mwitikio halisi wa hadhira.
 
 Kuwa mahususi kuhusu dai. PAIRR ilipima uzoefu na tathmini ya wanafunzi ya maoni, si [[learning-gains|faida za kujifunza]] za muda mrefu, hivyo ni ushahidi thabiti kwa muundo wa maoni na ushahidi dhaifu zaidi kwamba uandishi huboreka miezi kadhaa baadaye. Hifadhi hatua ya marika hata pale hatua ya AI ikiwa ya haraka zaidi. Sehemu kubwa ya kazi ya [[feedback|maoni]] hutokea katika kulinganisha vyanzo viwili, na kuiondoa kunaondoa sehemu ambayo wanafunzi walisema waliithamini.
+
+Chombo chenyewe kinaweza kubuniwa kulinda hatua ya kufikiri. [[favero-thinking-not-writing-chatbot-2026|Favero na wenzake (2026)]] walijenga MAIKE, chatbot ya [[socratic-method|kisokrasi]] inayotambua hoja na kuuliza maswali mahususi bila kuzalisha maandishi ya insha. Katika utafiti wa darasani na wanafunzi 65 wa shule za sekondari, watumiaji wa MAIKE walitumia mizunguko zaidi kwenye mazungumzo ya ngazi ya mawazo kuliko watumiaji wa kikundi cha udhibiti (56% dhidi ya 44%) na walihama kati ya majadiliano na uhariri; takriban 40% ya wanafunzi waliboresha alama zao za insha. Utafiti haukuonyesha faida ya jumla ya alama dhidi ya kikundi cha udhibiti, kwa hiyo chukulia kama onyesho la ubuni kuhusu kuunganisha mazungumzo na marekebisho, si uthibitisho kwamba chatbot inaongeza ubora wa uandishi.
 
 ## Pima kile mwanafunzi alichokifanya na maoni
 

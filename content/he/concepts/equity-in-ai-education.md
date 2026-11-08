@@ -10,7 +10,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -109,7 +109,7 @@ ai_assist:
 
 ## אוכלוסיות מיוחדות ושוויון גלובלי
 
-- **אוכלוסיות מיוחדות:** [[special-education|חינוך מיוחד]], [[neurodivergent-computing-students|לומדים נוירו-מגוונים]], [[dyslexlens-dyslexic-learners-ai|לומדים דיסלקטים]], ו[[special-education|לומדים עם מוגבלות]] מייצגים קבוצות שצרכיהן מפוספסים לעתים קרובות בעיצוב מערכות בינה מלאכותית.
+- **אוכלוסיות מיוחדות:** [[inclusive-learning|חינוך מיוחד]], [[neurodivergent-computing-students|לומדים נוירו-מגוונים]], [[dyslexlens-dyslexic-learners-ai|לומדים דיסלקטים]], ו[[special-education|לומדים עם מוגבלות]] מייצגים קבוצות שצרכיהן מפוספסים לעתים קרובות בעיצוב מערכות בינה מלאכותית.
 - **פרספקטיבות העולם הגלובלי הדרומי:** [[suacode-african-students-motivations|מוטיבציות סטודנטים אפריקאיות]], [[connected-ai-lesson-planning-vietnam|תכנון שיעורי בינה מלאכותית בוויאטנם]], ו[[pre-service-science-teachers-ai-perceptions-2026|קבלת מורים גאנאית]] מספקים פרספקטיבות העולם הגלובלי הדרומי הנעדרות לעתים קרובות ממחקר AIED מערבי-מרכזי. ברמה המוסדית, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] מראים שילוב של בינה מלאכותית ב-45 אוניברסיטאות ניגריות מונע על ידי גיל ומיקום גיאוגרפי של המוסד ולא על ידי סוג הממשל, עם קשרי רשת מחזקים המאפשרים למוסדות מחוברים היטב לרכוש יתרון מצטבר — ראיה לכך שפערי שוויון משוחזרים מבנית, ולא רק דרך גישה אינדיבידואלית.
 - **יכולת גלובלית:** ראיות מתעדות כיצד הטבותיו של בינה מלאכותית יוצרת מתחלקות באופן לא שווה בין מדינות ומוסדות, ו[[ai-lifelong-learning-policy|מדיניות בינה מלאכותית ולמידה לכל החיים]] מתייחסת לשיפועים סוציו-אקונומיים מבניים.
 - סקירת PRISMA של 72 מחקרי הערכה בהשכלה גבוהה מצאה שבסיס הראיות מרוכז גיאוגרפית: אוסטרליה ובריטניה סיפקו 31 מתוך 72 המחקרים ביחד, ולא זוהה אף מחקר מדרום אמריקה ([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).

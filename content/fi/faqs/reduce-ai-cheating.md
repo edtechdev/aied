@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,14 @@ Aloita merkinnästä. [[ai-assessment-scale-reform|Tekoälyn arviointiasteikko (
 
 Muuta sitten artefaktia. 72 tutkimuksen [[meta-analysis-systematic-review|systemaattinen katsaus]] generatiivisesta tekoälystä [[cs-education|tietojenkäsittelytieteen koulutuksessa]] pitää uudelleensuunnittelua sekä toteuttamiskelpoisena että vaikuttavimpana ja nostaa esiin yhden liikkeen: lisää suullinen tai muuten prosessin näkyväksi tekevä elementti ainakin yhteen korkean panoksen arviointiin kurssilla. Se kutsuu sitä aineiston tehokkaimmaksi yksittäiseksi interventioksi. Havaitseminen on katsauksen ohuin alue, vain 3 tutkimusta, kun 60 %:sta 80 %:iin tietojenkäsittelyn opiskelijoista raportoi generatiivisen tekoälyn käytöstä kursseillaan, yleensä ilman opettajan nimenomaista lupaa, ja 70 % eräästä kansallisesta opettajaotoksesta pyytää nimenomaisesti koulutusta tekoälyä kestävän arvioinnin suunnitteluun ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Kolmevuotinen tietojenkäsittelyn kurssi näyttää, miten pitkälle tuettu ilmoitusmenettely voi siirtää käyttäytymistä. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil ym. (2026)]] vaativat itsenäisen luonnoksen ja nelikohtaisen tarkistuslistan, tekoälyllä tehdyn ”hio, älä kirjoita uudelleen” -vaiheen, ilmoituslomakkeen ja jäsennellyn pohdinnan, ja puuttuva luonnos tai lomake tuotti nollan. Käyttöönotto nousi noin kahdesta kolmasosasta opiskelijoista vapaaehtoisen käytännön aikana 93 %:iin tuetulla vuodella; 81 % ja 84 % tekoälyn käyttäjistä raportoi hylänneensä tai muokanneensa ehdotuksia, arvioijat koodasivat 77-81 % palautuksista kriittisen sitoutumisen merkiksi, eikä tekoälyn käyttö ennustanut esseelaatua itsenäisesti, kun aiempi kirjoitustaito oli kontrolloitu. Kyse on yhden kurssin kokemusraportista, ei kontrolloidusta kokeesta, mutta se näyttää rehellisyystyön siirtyvän tunnistuksesta niihin olosuhteisiin, joissa opiskelijat ilmoittavat ja muokkaavat.
+
+
 Valikko, suurin piirtein siinä järjestyksessä, miten hyvin kukin vaihtoehto kestää suuren ryhmän.
 
-Ilman tukea, luokassa, kirjat kiinni: valvotut kokeet, pikatestit, aikarajoitettu kirjoittaminen. Painota näitä enemmän kuin ennen, koska kotitehtävät ovat se artefakti, jota tekoäly paisuttaa. Suulliset kuulustelut ja puolustukset toimivat samasta syystä, koska reaaliaikaista vuoropuhelua on vaikea ulkoistaa ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Ilman tukea, luokassa, kirjat kiinni: valvotut kokeet, pikatestit, aikarajoitettu kirjoittaminen. Painota näitä enemmän kuin ennen, koska kotitehtävät ovat se artefakti, jota tekoäly paisuttaa. [[oral-assessment|Suulliset kuulustelut]] ja puolustukset toimivat samasta syystä, koska reaaliaikaista vuoropuhelua on vaikea ulkoistaa ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Prosessiartefaktit: luonnokset, päättelyjäljet, merkityt ”näytä ajattelusi” -kohdat, muutoslokit, jotta *prosessi* tulee näkyviin eikä vain tuote ([[authentic-products-authenticated-processes-2026]]). Autenttiset tehtävät toimivat niiden rinnalla: paikalliset tapaukset, harjoittelumateriaali, opiskelijan oma data, mikä tahansa vaikeasti delegoitava ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Prosessiartefaktit: luonnokset, päättelyjäljet, merkityt ”näytä ajattelusi” -kohdat, muutoslokit, jotta *prosessi* tulee näkyviin eikä vain tuote ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Autenttiset tehtävät]] toimivat niiden rinnalla: paikalliset tapaukset, harjoittelumateriaali, opiskelijan oma data, mikä tahansa vaikeasti delegoitava ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Opiskelijakohtainen tehtävävariaatio, jossa jokainen saa pinnaltaan erilaisen mutta rakenteeltaan vastaavan version, tekee kopioinnista rakenteellisesti hyödytöntä. Kohtele takeita kyvykkyysehdollisena: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] havaitsi, että huippuluokan generaattorit ylsivät yhteisellä rehellisyyspisteellä vain 0,81:stä 0,88:aan, kun taas muut mallit putosivat 0,50:stä 0,55:een. Jos varianttisi eivät ole vastaavia, olet ostanut suojan jakamista vastaan opiskelijoiden välisen epäreiluuden hinnalla.
 
@@ -96,7 +99,7 @@ Kirjoita sääntö myös täsmällisesti. [[wright-transcription-not-generation-
 
 Työkalun kieltäminen ja sen salliminen ilman rakennetta tuottavat saman tuloksen: opiskelijat jäävät kognitiivisen työn ulkopuolelle.
 
-Tekoälyn väärinkäytön vähentämistä käsittelevä synteesi esittää kahdeksan suunnitteluperiaatetta sallitulle versiolle, muun muassa: säilytä [[desirable-difficulties|kognitiivinen kitka]], aseta tekoäly väliaikaiseksi ajattelukumppaniksi eikä auktoriteetiksi, upota arvioinnin tarkistuspisteitä ja vaadi [[metacognition|metakognitiivista]] päiväkirjaa ja kehitelokeja.
+Tekoälyn väärinkäytön vähentämistä käsittelevä synteesi esittää kahdeksan suunnitteluperiaatetta sallitulle versiolle, muun muassa: säilytä [[desirable-difficulties|kognitiivinen kitka]], aseta tekoäly väliaikaiseksi ajattelukumppaniksi eikä auktoriteetiksi, upota arvioinnin tarkistuspisteitä ja vaadi [[metacognition|metakognitiivista]] [[reflection|päiväkirjaa]] ja kehitelokeja.
 
 Jakso, joka kantaa nämä periaatteet, on niin lyhyt, että sen voi painaa tehtävänantoon:
 
@@ -122,7 +125,7 @@ Mitattu esimerkki on [[k-12|perusopetuksen]] moduuli, jossa käytettiin skenaari
 
 Kun 504 sosiologian opiskelijasta 65 % oli käyttänyt generatiivista tekoälyä kurssitöissään, vain 3 % oli käyttänyt sitä tehtävätekstin tuottamiseen ja 2 % kokonaisen luonnoksen tuottamiseen. 81 % oli saanut jonkinlaista ohjausta tekoälystä ja vain 46 % piti sitä hyvin selvänä ([[student-genai-use-views-writing]]). Käytännön ongelma on epämääräisyys, ei uhma, minkä vuoksi selkeä sääntö ja opetettu jakso muuttavat käyttäytymistä enemmän kuin varoitus. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa ja Mezgebu (2026)]] kuvaavat opiskelijoita, jotka kysyvät, onko generatiivinen tekoäly väline, joka helpottaa huijaamista, vai kumppani, joka tukee oppimista, ja juuri siihen kysymykseen odotustesi pitäisi vastata.
 
-Haita, joka kannattaa opettaa nimenomaisesti, on [[ai-misuse-learning-harm|suoriutumisen ja oppimisen kuilu]]: suoriutuminen nousee nyt, oppiminen laskee myöhemmin, ja opiskelija kokee vain ensimmäisen. [[ai-tools-academic-work-cheating-2026|Tekoälytyökalut akateemisessa työssä]] ja [[student-rationalization-ai-writing|opiskelijoiden rationalisointi tekoälykirjoittamiseen]] käsittelevät vertaisnormien ja rationalisoinnin puolta, mukaan lukien ”kaikkihan tekee tätä” -puolustus, jonka selkeä normi tyhjentää. Siitä, miten vahva tämä perusta on, katso [[ai-literacy-evidence|tekoälylukutaidon näyttö]] ja [[top-10-findings-ai-education-instructors|kymmenen keskeistä löydöstä opettajille]].
+Haita, joka kannattaa opettaa nimenomaisesti, on [[ai-misuse-learning-harm|suoriutumisen ja oppimisen kuilu]]: suoriutuminen nousee nyt, oppiminen laskee myöhemmin, ja [[student-experience|opiskelija kokee]] vain ensimmäisen. [[ai-tools-academic-work-cheating-2026|Tekoälytyökalut akateemisessa työssä]] ja [[student-rationalization-ai-writing|opiskelijoiden rationalisointi tekoälykirjoittamiseen]] käsittelevät vertaisnormien ja rationalisoinnin puolta, mukaan lukien ”kaikkihan tekee tätä” -puolustus, jonka selkeä normi tyhjentää. Siitä, miten vahva tämä perusta on, katso [[ai-literacy-evidence|tekoälylukutaidon näyttö]] ja [[top-10-findings-ai-education-instructors|kymmenen keskeistä löydöstä opettajille]].
 
 ## Missä opettajat menevät vikaan tässä asiassa
 

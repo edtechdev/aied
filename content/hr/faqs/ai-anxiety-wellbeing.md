@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Učenik ostane poslije nastave i kaže vam da mu završetak studija više ne izgleda vrijedan truda, jer umjetna inteligencija već može obavljati posao za koji se školovao. Drugi je ovaj semestar utihnuo: manje predanih radova, nijedno pitanje, nikakva prisutnost na seminaru. Imate deset minuta do sljedeće nastave i nijedan način da procijenite treba li vam strategija ili upućivanje.
 
-Odgovor koji date kolegi: većina onoga što pokreće anksioznost zbog umjetne inteligencije leži u karijeri i kompetenciji, a ne u tehnologiji, i umirivanje ne pomiče ni jedno. Iskustva svladavanja, dokaz da se rad s umjetnom inteligencijom isplati i prilagodljivost karijeri ono je na što ove studije upućuju. Malom broju studenata treba upućivanje, a ne strategija, i dokazi su slabiji o tome gdje ta granica pada nego što biste željeli.
+Evo odgovora: većina onoga što pokreće anksioznost zbog umjetne inteligencije leži u karijeri i kompetenciji, a ne u tehnologiji, i umirivanje ne pomiče ni jedno. Iskustva svladavanja, dokaz da se rad s umjetnom inteligencijom isplati i prilagodljivost karijeri ono je na što ove studije upućuju. Malom broju studenata treba upućivanje, a ne strategija, i dokazi su slabiji o tome gdje ta granica pada nego što biste željeli.
 
 ## Kratka verzija
 
@@ -33,7 +33,7 @@ Odgovor koji date kolegi: većina onoga što pokreće anksioznost zbog umjetne i
 
 **2.** Prestanite započinjati umirivanjem. Ohrabrenje koje ne mijenja studentsku prosudbu vlastite sposobnosti neće pomaknuti emociju.
 
-**3.** Dajte im zadatak u kojem mogu uspjeti i zadatak koji moraju kritički ocijeniti. Vježba s niskim ulozima uz vođenu procjenu izlaza umjetne inteligencije počiva na boljim dokazima od razgovora o budućnosti rada.
+**3.** Dajte im zadatak u kojem mogu uspjeti i zadatak koji moraju kritički ocijeniti. Vježba s niskim ulozima uz vođenu [[ai-ed-evaluation|procjenu izlaza umjetne inteligencije]] počiva na boljim dokazima od razgovora o budućnosti rada.
 
 **4.** Stavite pitanje posla u kolegij. Prilagodljivost karijeri mehanizam je koji najjača studija ovdje prepoznaje, a vjera u sebe nije ga zamijenila.
 
@@ -61,7 +61,7 @@ Nitko u ovoj literaturi nije ispitao taj paket prema kontrolnoj skupini. Preporu
 
 Anksioznost i angažman mogu se kretati zajedno, što mijenja ono čemu težite. U anketi na 107 studenata [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] našao je da je veća anksioznost zbog umjetne inteligencije pozitivno povezana s ponašanjem provjere i revizije (β = 0,24, p < 0,01), a evaluacijska sposobnost predviđala je aktivni angažman (β = 0,46, p < 0,001). Studenti su razvrstani u četiri regulacijska tipa: nekritično oslanjanje (18,7%), selektivna integracija (34,6%), evaluacijska transformacija (31,8%), strateško odbijanje (14,9%).
 
-Ako anksioznost može pratiti pažljivije ponašanje, smanjenje osjećaja pogrešan je cilj. Poučavanje kritičnosti i evaluacijske prosudbe pretvara anksioznog studenta u promišljenog korisnika [[generative-ai|generativne umjetne inteligencije]], a ne u onoga koji izbjegava. Ta je navika tema stranice [[verify-ai-output|Poučavanje studenata provjeri izlaza umjetne inteligencije]], a [[ai-literacy|pismenost u području umjetne inteligencije]] širi je okvir u koji pripada.
+Ako anksioznost može pratiti pažljivije ponašanje, smanjenje osjećaja pogrešan je cilj. Poučavanje kritičnosti i [[evaluative-judgment|evaluacijske prosudbe]] pretvara anksioznog studenta u promišljenog korisnika [[generative-ai|generativne umjetne inteligencije]], a ne u onoga koji izbjegava. Ta je navika tema stranice [[verify-ai-output|Poučavanje studenata provjeri izlaza umjetne inteligencije]], a [[ai-literacy|pismenost u području umjetne inteligencije]] širi je okvir u koji pripada.
 
 ## Stavite pitanje karijere u prostoriju
 
@@ -79,19 +79,19 @@ Upućujte kad briga prestane biti o alatu i počne biti o vrijednosti studenta, 
 
 Anksioznost zbog karijere pripada [[career-development-and-readiness|službi za karijere]], jer je savjetodavno pitanje, a ne pitanje radnog morala, a [[duan-ai-anxiety-career-decisions-college-2026|Duan i sur. (2026)]] našli su da sama samoefikasnost nije ublažila štetu za odluke o karijeri. Ustanove su razina na koju dokazi upućuju, pri čemu [[dag-ai-perceptions-career-anxiety-health-2026|Dağ i sur. (2026)]] preporučuju pismenost u području umjetne inteligencije i savjetovanje o karijeri zajedno s osnaženim programima. Ako je ono što vidite student kojem invaliditet ili potreba za pristupom blokira upotrebu obveznih alata, to pripada uredu koji se bavi prilagodbama u vašoj ustanovi, i to je odvojen razgovor od ovoga.
 
-Imate i polugu koju obrazac za upućivanje nema. [[culturally-aware-student-stress-chatbot-2026|Bashir i Afzal (2026)]] rangiraju odnos nastavnika i studenta na drugo mjesto u svojoj analizi važnosti značajki (10,0%), ispred kvalitete sna (9,3%), depresije (8,3%) i društvene potpore (7,6%). Autori to iznose kao hipotezu kojoj trebaju lokalno prikupljeni podatci. Ipak je to razlog da studenti znaju da ste vi put do pomoći.
+Imate i polugu koju obrazac za upućivanje nema. [[culturally-aware-student-stress-chatbot-2026|Bashir i Afzal (2026)]] rangiraju odnos [[teacher-role|nastavnika]] i studenta na drugo mjesto u svojoj analizi važnosti značajki (10,0%), ispred kvalitete sna (9,3%), depresije (8,3%) i društvene potpore (7,6%). Autori to iznose kao hipotezu kojoj trebaju lokalno prikupljeni podatci. Ipak je to razlog da studenti znaju da ste vi put do pomoći.
 
 ## Procijenite pripada li alat za dobrobit ovdje
 
-Chatbot namijenjen studentima najviše privlači one koji patnju neće iznijeti roditelju, nastavniku ni vršnjaku, a to je upravo obrazac otkrivanja koji opisuju [[culturally-aware-student-stress-chatbot-2026|Bashir i Afzal (2026)]]. Njihov je sustav trenirao klasifikator stresa slučajnom šumom na 1.100 anketnih odgovora kroz 20 značajki i dosegnuo 89,09% točnosti na tri razine težine, uz stupnjevani dijalogni sloj Stepped Care na engleskom, urdu i rimskom urdu. Njihova analiza [[explainable-ai|važnosti značajki]] smjestila je krvni tlak na prvo mjesto (15,6%), a odnos nastavnika i studenta na drugo (10,0%), s razinom anksioznosti na devetom mjestu (4,8%), što čitaju kao dokaz da je studentska patnja višedimenzionalna.
+[[conversational-ai|Chatbot]] namijenjen studentima najviše privlači one koji patnju neće iznijeti roditelju, nastavniku ni vršnjaku, a to je upravo obrazac otkrivanja koji opisuju [[culturally-aware-student-stress-chatbot-2026|Bashir i Afzal (2026)]]. Njihov je sustav trenirao klasifikator stresa slučajnom šumom na 1.100 anketnih odgovora kroz 20 značajki i dosegnuo 89,09% točnosti na tri razine težine, uz stupnjevani dijalogni sloj Stepped Care na engleskom, urdu i rimskom urdu. Njihova analiza [[explainable-ai|važnosti značajki]] smjestila je krvni tlak na prvo mjesto (15,6%), a odnos nastavnika i studenta na drugo (10,0%), s razinom anksioznosti na devetom mjestu (4,8%), što čitaju kao dokaz da je studentska patnja višedimenzionalna.
 
-Ono što priznaju važnije je od brojke točnosti. [[machine-learning|Trenirani klasifikator]] odlučuje o razini potpore, a što se događa pri štetnoj pogrešnoj klasifikaciji, kako se pohranjuju otkrivanja, koje zaštite [[privacy|privatnosti]] vrijede i kako funkcionira eskalacija prema ljudskom savjetovanju, sve je ostavljeno otvorenim. Granica između [[human-in-the-loop-ai|ljudskog nadzora]] i automatiziranog ohrabrenja ostaje dizajnersko pitanje. Sustav se ne predstavlja kao klinički ni terapijski, a razgovorni je sloj provjeren simuliranim unosima i neformalnim testiranjem upotrebljivosti, a ne sa studentima, po kulturnoj primjerenosti, emocionalnoj sigurnosti ili zadovoljstvu. Podataka o ishodima za studente uopće nema.
+Ono što priznaju važnije je od brojke točnosti. [[machine-learning|Trenirani klasifikator]] odlučuje o razini potpore, a što se događa pri štetnoj pogrešnoj klasifikaciji, kako se pohranjuju otkrivanja, koje zaštite [[privacy|privatnosti]] vrijede i kako funkcionira eskalacija prema ljudskom savjetovanju, sve je ostavljeno otvorenim. Granica između [[human-in-the-loop-ai|ljudskog nadzora]] i automatiziranog ohrabrenja ostaje dizajnersko pitanje. Sustav se ne predstavlja kao klinički ni terapijski, a razgovorni je sloj provjeren simuliranim unosima i neformalnim [[usability-research|testiranjem upotrebljivosti]], a ne sa studentima, po kulturnoj primjerenosti, emocionalnoj sigurnosti ili zadovoljstvu. Podataka o ishodima za studente uopće nema.
 
 Isti se obrazac pojavljuje u široj literaturi o alatima. Disertacija o alatima za dobrobit na kampusu vođenima umjetnom inteligencijom ([[ai-campus-wellbeing-tools|Tang, 2026]]) izvješćuje da anketni chatbot (TigerGPT) doseže 75% upotrebljivosti i 81% zadovoljstva, a adaptivni okvir za nastavak (AURA) daje prosječan dobitak kvalitete od +0,12 (p = 0,044, d = 0,66) tako što [[reinforcement-learning|učenjem s potkrepljenjem]] bira hoće li potvrditi, specificirati, reflektirati ili ispitati. Opisuje i komponentu procjene mentalnog zdravlja utemeljenu na smjernicama DSM-5 i PHQ-8, a ne na klasifikaciji crne kutije, te složenu višemodelsku arhitekturu za koju se tvrdi da smanjuje [[hallucination-risk|rizik halucinacije]] i nadmašuje pojedinačne modele na [[benchmark|mjerilu]] DAIC-WOZ. To su rezultati razvoja sustava. Mjere radi li alat ono za što je osmišljen, a ne je li se [[well-being|dobrobit]] studenta poboljšala. Brojka od 89,09% dolazi iz jednog izdvojenog dijela podataka, na podatcima za obuku koji nisu reprezentativni za pakistanske studente, u sustavu građenom na engleskom s urduskim izrazima unesenim upitima.
 
 ## Postavite uvjete koje kolegij ne može
 
-Potezi u učionici opisani gore trebaju institucionalno pokriće, a politička literatura o umjetnoj inteligenciji i [[social-emotional-learning|socioemocionalnom učenju]] slabija je od ambicija uvođenja. [[policy-deficit-ai-sel-2026|Tran, Liu i Nguyen (2026)]] pregledali su 65 recenziranih radova na sjecištu umjetne inteligencije i socioemocionalnog učenja: gotovo tri četvrtine uopće nije spomenulo političke implikacije, samo je oko jedan od četiri ponudio ikakvu preporuku za politiku, a malo ih je dalo smjernice specifične za dionike o [[privacy|privatnosti]], obuci nastavnika ili raspodjeli resursa. Njihov okvir WH pita tko treba djelovati, koja se radnja preporučuje, zašto, kada, gdje i koliko je snažno uokvirena, a većina je radova ta pitanja ostavila bez odgovora. Politički angažman korelirao je s mjestom objave, što recenzenti čitaju kao strukturu poticaja koja preferira tehničku novinu pred [[governance|upravljanjem]], i rezultat opisuju kao tehnosolucijsku zamku: tehnički je potencijal istaknut, a uvjeti odgovorne upotrebe ostaju neodređeni. Za [[equity-in-ai-education|ravnopravnost]] to znači da se uvjerljivi alati umjetne inteligencije za socioemocionalno učenje mogu usvojiti bez zaštita privatnosti, pripreme nastavnika i ravnopravnosti resursa koje usvajanje zahtijeva.
+Potezi u učionici opisani gore trebaju institucionalno pokriće, a politička literatura o umjetnoj inteligenciji i [[social-emotional-learning|socioemocionalnom učenju]] slabija je od ambicija uvođenja. [[policy-deficit-ai-sel-2026|Tran, Liu i Nguyen (2026)]] pregledali su 65 recenziranih radova na sjecištu umjetne inteligencije i socioemocionalnog učenja: gotovo tri četvrtine uopće nije spomenulo političke implikacije, samo je oko jedan od četiri ponudio ikakvu preporuku za politiku, a malo ih je dalo smjernice specifične za dionike o [[privacy|privatnosti]], [[teacher-education|obuci nastavnika]] ili raspodjeli resursa. Njihov okvir WH pita tko treba djelovati, koja se radnja preporučuje, zašto, kada, gdje i koliko je snažno uokvirena, a većina je radova ta pitanja ostavila bez odgovora. Politički angažman korelirao je s mjestom objave, što recenzenti čitaju kao strukturu poticaja koja preferira tehničku novinu pred [[governance|upravljanjem]], i rezultat opisuju kao tehnosolucijsku zamku: tehnički je potencijal istaknut, a uvjeti odgovorne upotrebe ostaju neodređeni. Za [[equity-in-ai-education|ravnopravnost]] to znači da se uvjerljivi alati umjetne inteligencije za socioemocionalno učenje mogu usvojiti bez zaštita privatnosti, pripreme nastavnika i ravnopravnosti resursa koje usvajanje zahtijeva.
 
 Ako sjedite na razini na kojoj se te odluke donose, praktično je pitanje isto ono koje postavlja učionica. Tko je odgovoran kad alat pogriješi, što se događa s onim što student otkrije i koga je obučeno čitati izlaz.
 
@@ -105,7 +105,7 @@ Cilj je sniziti anksioznost. Kim (2026) našao je da je anksioznost pozitivno po
 
 Samopouzdanje štiti studente od štete za karijeru. U modelu Duana i sur. [[self-efficacy|samoefikasnost]] to nije ublažila. Posredovani je put nosila prilagodljivost karijeri.
 
-Ovo je problem studentskih službi. Većina je poteza na ovoj stranici nastavna: vježba s niskim ulozima, vođena procjena izlaza umjetne inteligencije, revizija vođena povratnom informacijom i izjava očekivanja koju studenti mogu pročitati. Poznavanje puta upućivanja jedna je stavka među njima.
+Ovo je problem [[student-support-and-success|studentskih službi]]. Većina je poteza na ovoj stranici nastavna: vježba s niskim ulozima, vođena procjena izlaza umjetne inteligencije, revizija vođena povratnom informacijom i izjava očekivanja koju studenti mogu pročitati. Poznavanje puta upućivanja jedna je stavka među njima.
 
 Chatbot za dobrobit skalabilan je odgovor na tanke savjetodavne kapacitete. Dostupnost je stvarna i privlačnost razumljiva. Točnost na jednom izdvojenom dijelu podataka nije dokaz da je studentu u patnji bolje, a pitanja pogrešne klasifikacije, pohrane i eskalacije u ovdje citiranim radovima nemaju objavljenih odgovora.
 

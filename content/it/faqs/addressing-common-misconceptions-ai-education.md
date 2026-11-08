@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: "faqs/addressing-common-misconceptions-ai-education"
-source_updated: "2026-11-04T02:27:56-05:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Il tuo prorettore vuole un foglio di una pagina sui "miti dell'IA" per la riunio
 
 Ogni convinzione su questa pagina parte da qualcosa che una persona ragionevole ha visto. La prosa fluente si legge davvero come accurata. Un elaborato rifinito sembra davvero apprendimento. Un tutor che risponde alla domanda sembra davvero un aiuto, e una politica con dentro la parola "vietato" sembra davvero una decisione. La correzione che funziona nomina ciò che l'osservazione non può dirti, poi consegna un controllo che la persona può eseguire lunedì.
 
-La risposta da dare a un collega, in un fiato: l'effetto educativo dell'IA dipende da chi la usa, per quale compito, quale pensiero svolge lo strumento, quale responsabilità resta alla persona e come viene valutato l'apprendimento. Sicurezza, velocità, coinvolgimento e completamento del compito sono caratteristiche dell'uso. Nessuna di esse è prova che la capacità sia cambiata.
+Ecco la risposta, in un fiato: l'effetto educativo dell'IA dipende da chi la usa, per quale compito, quale pensiero svolge lo strumento, quale responsabilità resta alla persona e come viene valutato l'apprendimento. Sicurezza, velocità, coinvolgimento e completamento del compito sono caratteristiche dell'uso. Nessuna di esse è prova che la capacità sia cambiata.
 
 ## La versione breve
 
@@ -64,7 +64,7 @@ Le medie nascondono esattamente la variazione che decide una questione di equit�
 
 ### "Hanno dichiarato di aver imparato molto."
 
-L'autodichiarazione misura la percezione, l'accettazione, l'ansia e [[self-efficacy]], ed è buona in tutte e quattro. Non è una misura della capacità dimostrata, perché le persone possono essere sicure e sbagliate, oppure competenti e insicure. La sintesi del wiki sulla ricerca relativa all'alfabetizzazione all'IA degli insegnanti riporta un divario sostanziale tra autovalutazione e prestazione misurata, e i docenti coinvolti hanno sovrastimato considerevolmente la propria competenza ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Abbina ogni autodichiarazione a un compito: individuare un errore in un output, verificare una fonte, scegliere una strategia d'uso, riconoscere il bias o l'adulazione, rivedere una risposta difettosa, calibrare la fiducia rispetto all'accuratezza. Un solo item così in un sondaggio trasforma un'opinione in un risultato.
+Le [[self-report-measures|misure autodichiarate]] rilevano la percezione, l'accettazione, l'[[anxiety-and-stress|ansia]] e [[self-efficacy]], e sono buone in tutte e quattro. Non è una misura della capacità dimostrata, perché le persone possono essere sicure e sbagliate, oppure competenti e insicure. La sintesi del wiki sulla ricerca relativa all'alfabetizzazione all'IA degli insegnanti riporta un divario sostanziale tra [[self-assessment|autovalutazione]] e prestazione misurata, e i docenti coinvolti hanno sovrastimato considerevolmente la propria competenza ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Abbina ogni autodichiarazione a un compito: individuare un errore in un output, verificare una fonte, scegliere una strategia d'uso, riconoscere il bias o l'adulazione, rivedere una risposta difettosa, calibrare la fiducia rispetto all'accuratezza. Un solo item così in un sondaggio trasforma un'opinione in un risultato.
 
 ### "Uno studente simulato è un sostituto economico di uno reale."
 
@@ -182,7 +182,7 @@ La supervisione dipende dalla competenza che un'automazione pesante scoraggia le
 
 ### "Insegnare un uso critico ed etico dell'IA costa produttività."
 
-L'automazione non verificata produce rifacimenti, incidenti di sicurezza, decisioni discriminatorie, esposizione legale, danni reputazionali e falsa sicurezza, e ognuno di questi è un costo che la cifra di produttività non contava. Il dipendente che vale la pena assumere è quello che distribuisce il lavoro tra persone e strumenti mantenendo qualità, riservatezza, responsabilità e giudizio professionale. È un argomento di produttività, fatto nella direzione che il bilancio di solito non guarda ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
+L'automazione non verificata produce rifacimenti, incidenti di sicurezza, decisioni discriminatorie, [[legal-issues-and-risks|esposizione legale]], danni reputazionali e falsa sicurezza, e ognuno di questi è un costo che la cifra di produttività non contava. Il dipendente che vale la pena assumere è quello che distribuisce il lavoro tra persone e strumenti mantenendo qualità, riservatezza, responsabilità e giudizio professionale. È un argomento di produttività, fatto nella direzione che il bilancio di solito non guarda ([[human-ai-collaboration|Human-AI Collaboration]], [[governance|AI Governance]]).
 
 ## Rispondi a ciò che credono gli studenti
 
@@ -246,7 +246,7 @@ Il testo di una politica non crea comprensione condivisa. Studenti e personale l
 
 ### "La riluttanza dei docenti è un deficit di formazione."
 
-A volte lo è. La disponibilità è anche carico di lavoro, [[learner-identity|identità professionale]], valori disciplinari, dubbi sulla validità della valutazione, supporto istituzionale esile, incertezza sulla privacy e un giudizio ragionato che una particolare applicazione non serve gli studenti. Lo sviluppo deve quindi coprire competenza pratica, integrazione pedagogica, scopo e identità, tempo, politica, uso [[discipline-specific-aied|specifico per disciplina]] e l'opzione di una non adozione motivata. Una dimostrazione una tantum delle funzioni non risolve un cambiamento professionale e organizzativo ([[educational-development|Educational Development]]).
+A volte lo è. La disponibilità è anche carico di lavoro, [[learner-identity|identità professionale]], valori disciplinari, dubbi sulla validità della valutazione, supporto istituzionale esile, incertezza sulla privacy e un giudizio ragionato che una particolare applicazione non serve gli studenti. Lo sviluppo deve quindi coprire competenza pratica, integrazione pedagogica, scopo e identità, tempo, politica, uso [[discipline-specific-aied|specifico per disciplina]] e l'opzione di una non adozione motivata. Una dimostrazione una tantum delle funzioni non risolve un cambiamento professionale e [[change-management|organizzativo]] ([[educational-development|Educational Development]]).
 
 ### "Basta dire alle persone i fatti corretti."
 
@@ -265,7 +265,7 @@ La versione svolta, che puoi adattare a qualsiasi voce di questa pagina:
 > **Fraintendimento:** "Un compito generato bene dall'IA mostra che lo studente ha imparato."
 > **Confutazione:** "Non è necessariamente vero. Il prodotto mostra ciò che lo studente e l'IA hanno realizzato insieme, ma non rivela quale ragionamento abbia svolto lo studente."
 > **Sostituzione:** "L'apprendimento è dimostrato meglio quando lo studente sa spiegare, trasferire, adattare e riprodurre la capacità."
-> **Applicazione:** "Fai seguire al lavoro assistito dall'IA una spiegazione, una difesa orale, una registrazione del processo o un'applicazione senza aiuto."
+> **Applicazione:** "Fai seguire al lavoro assistito dall'IA una spiegazione, una [[oral-assessment|difesa orale]], una registrazione del processo o un'applicazione senza aiuto."
 
 La sostituzione porta il peso. Rimuovere un fraintendimento senza fornire una spiegazione migliore lascia la persona senza nulla con cui pensare, e la vecchia convinzione torna la volta successiva in cui l'esperienza la conferma.
 
@@ -291,7 +291,7 @@ Gli insegnanti sovrastimavano sostanzialmente la propria competenza in IA quando
 
 ### "I genitori non accetteranno altro che un divieto."
 
-I genitori chiedono se la cosa davanti a loro figlio è sicura e se la credenziale significa qualcosa. Rispondi direttamente a queste due, con le domande di sicurezza pedagogica invece del filtro dei contenuti, e l'argomento del divieto perde forza. La domanda del consiglio è più stretta del titolo e più facile da difendere.
+I [[parents-and-families|genitori]] chiedono se la cosa davanti a loro figlio è sicura e se la credenziale significa qualcosa. Rispondi direttamente a queste due, con le domande di sicurezza pedagogica invece del filtro dei contenuti, e l'argomento del divieto perde forza. La domanda del consiglio è più stretta del titolo e più facile da difendere.
 
 ### "Non possiamo fare difese orali per un corso di lezioni di queste dimensioni."
 

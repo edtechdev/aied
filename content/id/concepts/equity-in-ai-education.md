@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 updated: "2026-11-04T02:10:52-05:00"
 translation_of: "concepts/equity-in-ai-education"
 source_updated: "2026-11-01T08:10:00-05:00"
@@ -105,7 +105,7 @@ Dalam tinjauan scoping atas 394 studi GenAI pendidikan tinggi, keadilan dan akse
 
 ## Populasi khusus dan keadilan global
 
-- **Populasi khusus:** [[special-education]], [[neurodivergent-computing-students|pembelajar neurodivergen]], [[dyslexlens-dyslexic-learners-ai|pembelajar disleksia]], dan [[special-education|pembelajar dengan disabilitas]] mewakili kelompok yang kebutuhannya sering terlewat dalam desain sistem AI.
+- **Populasi khusus:** [[special-education]], [[neurodivergent-computing-students|pembelajar neurodivergen]], [[dyslexlens-dyslexic-learners-ai|pembelajar disleksia]], dan [[inclusive-learning|pembelajar dengan disabilitas]] mewakili kelompok yang kebutuhannya sering terlewat dalam desain sistem AI.
 - **Perspektif Global South:** [[suacode-african-students-motivations|motivasi mahasiswa Afrika]], [[connected-ai-lesson-planning-vietnam|perencanaan pelajaran AI di Vietnam]], dan [[pre-service-science-teachers-ai-perceptions-2026|penerimaan guru Ghana]] menyediakan perspektif Global South yang sering absen dari penelitian AIED yang berpusat Barat. Pada tingkat institusional, [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] menunjukkan integrasi AI di 45 universitas Nigeria digerakkan oleh usia dan geografi institusi alih-alih jenis tata kelola, dengan ikatan jaringan yang saling memperkuat memungkinkan institusi yang terhubung baik melipatgandakan keunggulan — bukti bahwa kesenjangan keadilan direproduksi secara struktural, bukan hanya melalui akses individual.
 - **Kapasitas global:** Bukti mendokumentasikan bagaimana manfaat AI generatif terdistribusi tidak merata antarnegara dan antarlembaga, dan [[ai-lifelong-learning-policy|kebijakan AI dan pembelajaran sepanjang hayat]] menangani gradien sosial-ekonomi struktural.
 - Tinjauan PRISMA atas 72 studi penilaian pendidikan tinggi menemukan basis buktinya terkonsentrasi secara geografis: Australia dan Inggris bersama-sama menyumbang 31 dari 72 studi, dan tidak ada studi yang teridentifikasi dari Amerika Selatan ([[higher-ed-assessments-genai-systematic-review|Crompton dan Burke (2026)]]).

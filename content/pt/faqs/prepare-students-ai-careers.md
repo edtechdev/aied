@@ -1,7 +1,7 @@
 ---
 title: "O que os estudantes devem aprender para carreiras em que a IA é comum?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-Um estudante pergunta por que ele deveria aprender a fazer algo que um chatbot já faz. Um grupo consultivo do programa diz que os empregadores querem graduados que saibam usar IA no trabalho. Sua ementa tem que satisfazer os dois, e nenhum dos dois disse o que o graduado deve ser capaz de fazer sem ajuda.
+Um estudante pergunta por que ele deveria aprender a fazer algo que um [[conversational-ai|chatbot]] já faz. Um grupo consultivo do programa diz que os empregadores querem graduados que saibam usar IA no trabalho. Sua ementa tem que satisfazer os dois, e nenhum dos dois disse o que o graduado deve ser capaz de fazer sem ajuda.
 
-Resposta curta para dar a um colega: ensine a tarefa profissional inteira, não a operação da ferramenta, e avalie tanto o produto com apoio quanto a capacidade independente do estudante. A evidência sustenta tratar a prontidão como conhecimento disciplinar mais julgamento mais verificação mais transferência, e não sustenta nenhuma lista de habilidades como garantia de emprego. Uma pesquisa com 500 professores universitários dos EUA comparada a um painel de empregadores achou que os dois grupos concordam sobre a importância de exatamente uma de 26 habilidades relacionadas à IA, *estabelecer expectativas realistas para o trabalho aumentado por IA*; os professores deram mais peso ao uso crítico e responsável, enquanto os empregadores deram mais peso a fluxo de trabalho, automação e trabalho em equipe humano-IA ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Essas são prioridades declaradas, não evidência de contratação. O achado mais afiado para um currículo está em outro lugar: em uma pesquisa com 455 estudantes do último ano, o letramento em IA chegou à empregabilidade percebida principalmente elevando a [[career-development-and-readiness|adaptabilidade de carreira]], com um efeito indireto de β = 0,173 ao lado de um β = 0,447 direto ([[ai-literacy-graduate-employability-2026|Hendrawan e Lestari, 2026]]). Adaptabilidade é uma capacidade que se ensina. Uma dica de ferramenta não é.
+Aqui está a resposta curta: ensine a tarefa profissional inteira, não a operação da ferramenta, e avalie tanto o produto com apoio quanto a capacidade independente do estudante. A evidência sustenta tratar a prontidão como conhecimento disciplinar mais julgamento mais verificação mais transferência, e não sustenta nenhuma lista de habilidades como garantia de emprego. Uma pesquisa com 500 professores universitários dos EUA comparada a um painel de empregadores achou que os dois grupos concordam sobre a importância de exatamente uma de 26 habilidades relacionadas à IA, *estabelecer expectativas realistas para o trabalho aumentado por IA*; os professores deram mais peso ao uso crítico e responsável, enquanto os empregadores deram mais peso a fluxo de trabalho, automação e trabalho em equipe [[human-ai-collaboration|humano-IA]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). Essas são prioridades declaradas, não evidência de contratação. O achado mais afiado para um [[curriculum-design|currículo]] está em outro lugar: em uma pesquisa com 455 estudantes do último ano, o letramento em IA chegou à empregabilidade percebida principalmente elevando a [[career-development-and-readiness|adaptabilidade de carreira]], com um efeito indireto de β = 0,173 ao lado de um β = 0,447 direto ([[ai-literacy-graduate-employability-2026|Hendrawan e Lestari, 2026]]). Adaptabilidade é uma capacidade que se ensina. Uma dica de ferramenta não é.
 
 ## A versão curta
 
@@ -73,13 +73,13 @@ Estas são adaptações dos temas de pesquisa, não intervenções de emprego te
 
 Composição e comunicação empresarial: peça aos estudantes que critiquem e revisem uma resposta rascunhada por IA a uma reclamação de cliente. A evidência de capacidade é nomear as promessas sem sustentação, explicar as escolhas de audiência e defender a redação final.
 
-Um curso quantitativo pode fazer o mesmo com uma estimativa produzida por IA para um problema de planejamento realista, em que os estudantes constroem a própria estimativa, declaram as suposições e testam a plausibilidade.
+Um curso [[quantitative-research|quantitativo]] pode fazer o mesmo com uma estimativa produzida por IA para um problema de planejamento realista, em que os estudantes constroem a própria estimativa, declaram as suposições e testam a plausibilidade.
 
 Para um curso de planilhas ou computação, entregue uma fórmula gerada e dados sintéticos, e depois peça casos de teste, uma explicação das referências e uma condição de falha.
 
-Profissões da saúde: os estudantes avaliam uma explicação gerada para um caso fictício contra fontes aprovadas, nomeiam as limitações dela e dizem quando um profissional qualificado precisa decidir.
+[[medical-education|Profissões da saúde]]: os estudantes avaliam uma explicação gerada para um caso fictício contra fontes aprovadas, nomeiam as limitações dela e dizem quando um profissional qualificado precisa decidir.
 
-A exploração de carreira tem a sua própria versão: compare a composição de tarefas de duas ocupações usando informação ocupacional confiável, e depois planeje um passo concreto de desenvolvimento de habilidade ou de busca de ajuda.
+A exploração de carreira tem a sua própria versão: compare a composição de tarefas de duas ocupações usando informação ocupacional confiável, e depois planeje um passo concreto de desenvolvimento de habilidade ou de [[help-seeking|busca de ajuda]].
 
 Para entrega assíncrona, peça uma tentativa inicial, um registro curto de verificação e uma nota de duas frases sobre uma decisão consequente. Em um laboratório ou seminário, a explicação pode acontecer na conversa. Use materiais sintéticos ou autorizados sempre que a alternativa for dados confidenciais de trabalho ou de estudantes.
 
@@ -89,19 +89,21 @@ Um artefato polido te diz o que foi produzido nas condições permitidas. Não t
 
 Escolha esses requisitos porque eles sustentam uma capacidade declarada, e diga qual deles cada avaliação está medindo. Os estudantes aceitam a prática independente quando ela está ligada àquilo para o que estão sendo preparados; "você vai precisar disso algum dia" faz menos do que mostrar como o cálculo é o que permite a eles pegar uma estimativa errada depois.
 
-O lado do apoio tem o seu próprio risco. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] encontraram uso de GenAI positivamente associado à dependência de GenAI, e dependência negativamente associada tanto ao pensamento crítico quanto à empregabilidade no modelo de pesquisa deles. É uma associação, não uma afirmação causal, e aponta para a questão de desenho: um curso que só avalia desempenho com apoio pode estar treinando a dependência que relata.
+O lado do apoio tem o seu próprio risco. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] encontraram uso de [[generative-ai|GenAI]] positivamente associado à dependência de GenAI, e dependência negativamente associada tanto ao [[critical-thinking|pensamento crítico]] quanto à empregabilidade no modelo de pesquisa deles. É uma associação, não uma afirmação causal, e aponta para a questão de desenho: um curso que só avalia desempenho com apoio pode estar treinando a dependência que relata.
+
+A mesma lógica se aplica antes de os estudantes entrarem no mercado de trabalho. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelam a assistência de IA como uma sequência em que a habilidade cresce pela prática independente e decai quando os trabalhadores aceitam respostas da IA. No modelo deles, novatos podem ficar presos em baixa habilidade e especialistas podem perder habilidade mesmo com a precisão da produção permanecendo alta, e trabalhadores estratégicos podem resolver de forma independente mesmo quando a IA é mais precisa, porque a habilidade futura tem valor. O artigo é teórico, não uma intervenção, mas afia a pergunta curricular: agende e recompense a prática independente em vez de presumir que a produção assistida por IA constrói a capacidade de supervisionar o trabalho.
 
 Para a revisão de programa, separe as medidas. Desempenho no curso, letramento em IA demonstrado, avaliação do supervisor de estágio, situação de emprego e qualidade do trabalho são resultados diferentes com horizontes temporais diferentes, e uma única intervenção não consegue estabelecer todos eles. A página sobre [[ai-literacy-evidence|evidência de letramento em IA]] é o inventário honesto do que os estudos de intervenção realmente sustentam.
 
 ## Aborde a ansiedade de carreira sem prometer certeza
 
-Os estudantes chegam com medos reais, e a literatura de pesquisa sobre eles é uma descrição dos medos, não uma previsão do mercado de trabalho. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] encontraram a ansiedade em relação à IA prevendo direta e negativamente as decisões de carreira, o que é um achado sobre paralisia de decisão, não sobre empregos. [[ai-anxiety-wellbeing|O quadro de bem-estar]] cobre a evidência mais ampla.
+Os estudantes chegam com medos reais, e a literatura de pesquisa sobre eles é uma descrição dos medos, não uma previsão do mercado de trabalho. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] encontraram a [[anxiety-and-stress|ansiedade]] em relação à IA prevendo direta e negativamente as decisões de carreira, o que é um achado sobre paralisia de decisão, não sobre empregos. [[ai-anxiety-wellbeing|O quadro de bem-estar]] cobre a evidência mais ampla.
 
 O que ajuda é investigação na escala em que um estudante pode agir: quais tarefas esta função realmente contém, como é uma semana, o que eu precisaria ser capaz de fazer, quem pode me dizer. Serviços de carreira, ex-alunos e equipes de colocação têm essa informação. Uma demonstração de ferramenta, a impressão de um professor ou uma apresentação de fornecedor não é previsão de mercado de trabalho, e apresentar uma delas como previsão é como os programas perdem credibilidade com estudantes que depois vão checar.
 
 ## O que vai voltar contra você
 
-**"Os estudantes só precisam de prompts melhores."** Prompt é uma cláusula de uma das seis partes. Um pedido bem especificado não fornece o conhecimento necessário para reconhecer um resultado ruim, e os empregadores do painel do Ithaka também não colocaram a arte do prompt em primeiro lugar.
+**"Os estudantes só precisam de [[prompt-engineering|prompts melhores]]."** Prompt é uma cláusula de uma das seis partes. Um pedido bem especificado não fornece o conhecimento necessário para reconhecer um resultado ruim, e os empregadores do painel do Ithaka também não colocaram a arte do prompt em primeiro lugar.
 
 **"Se os locais de trabalho permitem IA, o trabalho de curso também deveria permitir."** Um curso também constrói a capacidade que torna o uso responsável possível. Diga qual das duas coisas você está avaliando em cada tarefa, e a objeção vira uma questão de desenho em vez de uma contradição.
 
@@ -125,4 +127,4 @@ O que ajuda é investigação na escala em que um estudante pode agir: quais tar
 
 [[career-development-and-readiness]] é a página de conceito para empregabilidade, adaptabilidade e evidência de força de trabalho, e [[ai-literacy]] cobre o que o letramento significa além da operação de ferramentas. Para construir isso em um curso específico, veja [[incorporating-ai-literacy|incorporar o letramento em IA]] e [[faculty-ai-competencies|quais competências o corpo docente precisa]].
 
-Para o desenho de avaliação que torna o desempenho com apoio e o independente distinguíveis, veja [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]] e [[ai-grading-fairness-reliability|correção por IA]]. Para saber como evitar que o apoio se torne dependência, veja [[reducing-over-reliance|reduzir a dependência excessiva]].
+Para o [[assessment|desenho de avaliação]] que torna o desempenho com apoio e o independente distinguíveis, veja [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]] e [[ai-grading-fairness-reliability|correção por IA]]. Para saber como evitar que o apoio se torne dependência, veja [[reducing-over-reliance|reduzir a dependência excessiva]].

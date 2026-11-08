@@ -1,9 +1,9 @@
 ---
 title: "Czy mogę używać AI do oceniania pracy studentów w sposób sprawiedliwy i rzetelny?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works]
+connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
 technology: [generative-ai, llm, human-in-the-loop-ai]
 assessment: [automated-assessment, assessment-validity, ai-feedback-quality, summative-assessment, feedback]
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-10-30T11:40:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -48,7 +48,7 @@ Trzy układy nazywa się „ocenianiem przez AI” i niosą one różne zobowią
 
 **Asystent informacji zwrotnej** szkicuje komentarze lub wskazuje możliwe pominięcia, które przyjmujesz, przepisujesz albo odrzucasz. Ryzyko ogranicza się do jakości komentarzy, a ty czytasz wszystko, zanim trafi do studenta. **Drugi czytelnik** proponuje oceny według kryteriów lub zgłasza rozbieżności, by uporządkować twoje własne ocenianie. Jego błędy muszą być użyteczne, a nie tylko błędne: sygnał, który odsyła cię do pracy, którą oceniłbyś niedbale, jest wart posiadania. **Główny oceniający** tworzy oceny, które stają się zapisanymi stopniami. To układ, którego dowody w tej bazie wiedzy nie wspierają poza wąskimi, lokalnie zweryfikowanymi przypadkami.
 
-Wybierz najniższy szczebel, który rozwiązuje twoje rzeczywiste ograniczenie. Jeśli twoje obciążenie ocenianiem wynika ze sprawdzania stałego klucza odpowiedzi, zwykłe ocenianie deterministyczne jest bardziej przejrzyste i audytowalne niż model językowy, a badanie farmaceutyczne sugeruje, że przewaga LLM na zadaniach obiektywnych była częściowo artefaktem podania poprawnych odpowiedzi podczas oceniania. Zachowaj model do pracy wymagającej interpretacji, a potem tę interpretację sprawdź.
+Wybierz najniższy szczebel, który rozwiązuje twoje rzeczywiste ograniczenie. Jeśli twoje obciążenie ocenianiem wynika ze sprawdzania stałego klucza odpowiedzi, zwykłe ocenianie deterministyczne jest bardziej przejrzyste i audytowalne niż [[llm|model językowy]], a badanie farmaceutyczne sugeruje, że przewaga LLM na zadaniach obiektywnych była częściowo artefaktem podania poprawnych odpowiedzi podczas oceniania. Zachowaj model do pracy wymagającej interpretacji, a potem tę interpretację sprawdź.
 
 [[automated-assessment|Ocenianie automatyczne]] obejmuje szerszą maszynerię oceniania, moderacji i generowania informacji zwrotnej. Ta strona dotyczy pytania o osąd, które leży pod tym wszystkim.
 

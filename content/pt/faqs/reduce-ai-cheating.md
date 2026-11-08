@@ -1,13 +1,13 @@
 ---
 title: "Como posso reduzir a cola com IA no meu curso?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 É a sexta semana. Uma redação feita em casa volta fluente e oca e você não consegue dizer se o estudante a escreveu. Ou quatro entregas compartilham um formato que ninguém na sala produziu em setembro, e o setor de integridade quer um relato escrito do que a tarefa estava medindo. Ou o seu departamento votou no mês passado para restringir [[generative-ai|IA generativa]] nos cursos centrais e deixou para você fazer a restrição significar alguma coisa.
 
-A resposta para dar a um colega: pare de tentar provar quem escreveu o trabalho e mude as condições em que ele é escrito. A detecção é a alavanca mais fraca que você tem. As alavancas que se sustentam são uma tarefa em que o atalho deixa rastro, uma etapa única sem assistência que você consegue observar e uma sequência curta e ensinada que mantém os estudantes dentro do trabalho cognitivo.
+Aqui está a resposta: pare de tentar provar quem escreveu o trabalho e mude as condições em que ele é escrito. A detecção é a alavanca mais fraca que você tem. As alavancas que se sustentam são uma tarefa em que o atalho deixa rastro, uma etapa única sem assistência que você consegue observar e uma sequência curta e ensinada que mantém os estudantes dentro do trabalho cognitivo.
 
 ## A versão curta
 
@@ -57,11 +57,13 @@ Comece por um rótulo. A [[ai-assessment-scale-reform|Escala de Avaliação com 
 
 Depois mude o artefato. Uma [[meta-analysis-systematic-review|revisão sistemática]] de 72 estudos sobre IA generativa na [[cs-education|educação em computação]] classifica o redesenho como viável e de maior alavancagem, e destaca um movimento: acrescentar um elemento oral ou de outro modo visível no processo a pelo menos uma avaliação de alto risco por curso. Ela o chama da intervenção mais eficaz de todo o corpus. A detecção é a área mais rarefeita que a revisão cobre, com apenas 3 estudos, contra 60-80% dos estudantes de computação relatando uso de IA generativa nos trabalhos, tipicamente sem sanção explícita do professor, e 70% de uma amostra nacional de docentes pedindo explicitamente formação em design de avaliação resistente à IA ([[kumar-genai-computing-education-systematic-review-2026]]).
 
+Um curso de computação de três anos mostra até onde um fluxo de declaração com andaimes pode mover o comportamento. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] exigiram um rascunho independente com uma lista de quatro itens, uma etapa de refinamento e não reescrita por IA, um formulário de declaração e uma reflexão estruturada, com rascunho ou formulário ausente valendo zero. A adoção subiu de cerca de dois terços dos estudantes sob política voluntária para 93% no ano com andaimes; 81% e 84% dos usuários de IA relataram rejeitar ou modificar sugestões, os avaliadores codificaram 77–81% das entregas como engajamento crítico, e o uso de IA não previu de forma independente a qualidade da redação depois de controlada a habilidade prévia de escrita. Este é um relato de experiência de um único curso, não um ensaio controlado, mas mostra o trabalho de integridade migrando da detecção para as condições sob as quais os estudantes declaram e revisam.
+
 O menu, mais ou menos na ordem de quão bem cada opção sobrevive a uma turma grande.
 
-Sem assistência, em sala, sem consulta: provas com fiscalização, quizzes, escrita cronometrada. Dê a essas atividades mais peso do que você dava, porque o trabalho de casa é o artefato que a IA infla. Exames orais e defesas funcionam pela mesma razão, já que o diálogo em tempo real é difícil de terceirizar ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
+Sem assistência, em sala, sem consulta: provas com fiscalização, quizzes, escrita cronometrada. Dê a essas atividades mais peso do que você dava, porque o trabalho de casa é o artefato que a IA infla. [[oral-assessment|Exames orais]] e defesas funcionam pela mesma razão, já que o diálogo em tempo real é difícil de terceirizar ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-Artefatos de processo: rascunhos, traços de raciocínio, "mostre seu raciocínio" anotado, registros de revisão, para que o *processo* fique visível e não apenas o produto ([[authentic-products-authenticated-processes-2026]]). Tarefas autênticas funcionam ao lado deles: casos locais, material de estágio, os próprios dados do estudante, qualquer coisa difícil de delegar ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
+Artefatos de processo: rascunhos, traços de raciocínio, "mostre seu raciocínio" anotado, registros de revisão, para que o *processo* fique visível e não apenas o produto ([[authentic-products-authenticated-processes-2026]]). [[authentic-assessment|Tarefas autênticas]] funcionam ao lado deles: casos locais, material de estágio, os próprios dados do estudante, qualquer coisa difícil de delegar ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
 Variação de tarefa por estudante, em que cada um recebe uma versão superficialmente distinta mas equivalente no construto, torna a cópia estruturalmente inútil. Trate a garantia como condicional à capacidade: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] constatou que geradores de fronteira alcançam apenas 0,81-0,88 numa pontuação conjunta de integridade, enquanto modelos fora da fronteira colapsam para 0,50-0,55. Se as suas variantes não são equivalentes, você comprou proteção contra o compartilhamento com injustiça entre estudantes.
 
@@ -99,7 +101,7 @@ Escreva a regra com precisão também. [[wright-transcription-not-generation-202
 
 Proibir a ferramenta e permiti-la sem estrutura produzem o mesmo desfecho: estudantes que ficam de fora do trabalho cognitivo.
 
-A síntese Reduzindo o Uso Indevido de IA apresenta oito princípios de design para a versão permitida, entre eles: preservar a [[desirable-difficulties|fricção cognitiva]], posicionar a IA como parceira provisória de pensamento e não como autoridade, embutir pontos de verificação de avaliação e exigir diário [[metacognition|metacognitivo]] e registro de prompts.
+A síntese Reduzindo o Uso Indevido de IA apresenta oito princípios de design para a versão permitida, entre eles: preservar a [[desirable-difficulties|fricção cognitiva]], posicionar a IA como parceira provisória de pensamento e não como autoridade, embutir pontos de verificação de avaliação e exigir [[reflection|diário]] [[metacognition|metacognitivo]] e registro de prompts.
 
 A sequência que carrega esses princípios é curta o bastante para imprimir na folha de uma tarefa:
 
@@ -125,7 +127,7 @@ O exemplo medido é um módulo de [[k-12|educação básica]] que usa prática d
 
 O que os estudantes de fato acreditam é menos cínico do que o pânico sugere. Entre 504 estudantes de sociologia, 65% haviam usado IA generativa para trabalhos de curso, mas apenas 3% para gerar texto de tarefas e 2% para gerar um rascunho completo. 81% haviam recebido alguma orientação sobre IA e apenas 46% a acharam muito clara ([[student-genai-use-views-writing]]). A ambiguidade, e não o desafio, é o problema prático, e é por isso que uma regra clara mais uma sequência ensinada mudam mais comportamento do que um aviso. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa e Mezgebu (2026)]] descrevem estudantes perguntando se a IA generativa é uma ferramenta que facilita a trapaça ou uma parceira que apoia a aprendizagem, e é essa pergunta que as suas expectativas devem responder.
 
-O dano que vale ensinar explicitamente é a [[ai-misuse-learning-harm|lacuna entre desempenho e aprendizagem]]: o desempenho sobe agora, a aprendizagem cai depois, e o estudante experiencia apenas o primeiro. [[ai-tools-academic-work-cheating-2026]] e [[student-rationalization-ai-writing]] cobrem o lado das normas de pares e da racionalização, incluindo a defesa do "todo mundo faz", que uma norma clara esvazia. Sobre a solidez dessa base, veja [[ai-literacy-evidence]] e [[top-10-findings-ai-education-instructors]].
+O dano que vale ensinar explicitamente é a [[ai-misuse-learning-harm|lacuna entre desempenho e aprendizagem]]: o desempenho sobe agora, a aprendizagem cai depois, e o [[student-experience|estudante]] experiencia apenas o primeiro. [[ai-tools-academic-work-cheating-2026]] e [[student-rationalization-ai-writing]] cobrem o lado das normas de pares e da racionalização, incluindo a defesa do "todo mundo faz", que uma norma clara esvazia. Sobre a solidez dessa base, veja [[ai-literacy-evidence]] e [[top-10-findings-ai-education-instructors]].
 
 ## O que os professores entendem mal sobre isso
 

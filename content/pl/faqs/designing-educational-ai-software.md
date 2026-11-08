@@ -7,9 +7,9 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-04T09:40:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ Odpowiedź jest węższa, niż zakłada większość specyfikacji produktu. SI w
 
 **1.** Zapisać, co decyduje system, a co decyduje nauczyciel. Ta granica staje się architekturą.
 
-**2.** Oceniać interakcję wieloturową i świadomą dyscypliny wobec realnego programu, a nie pojedyncze prompty wobec ogólnej rubryki bezpieczeństwa.
+**2.** Oceniać interakcję wieloturową i świadomą dyscypliny wobec realnego [[curriculum-design|programu]], a nie pojedyncze prompty wobec ogólnej rubryki bezpieczeństwa.
 
 **3.** Ugruntować odpowiedzi w zatwierdzonej treści i utrzymać komponent weryfikujący osobno od konwersacyjnego.
 
@@ -65,7 +65,7 @@ Część, którą można przenieść, to rozdzielenie: komponenty, które weryfi
 
 ## Traktować pracę studenta jako dane wejściowe niezaufane
 
-Model zagrożeń, który pomija większość porad projektowych, siedzi wewnątrz ocenianego artefaktu. [[humble-prompt-injection-ai-grading-red-team-2026|Ocena red team z użyciem wstrzykiwania promptów, przeprowadzona przez Humble'a (2026)]] sprawdzała, czy studenci mogą manipulować oceniającym opartym na LLM przez wstrzykiwanie promptów w swoich pracach, i manipulacja działała: wstrzyknięcia, które instruują, przeformułowują albo wcielają się w rolę oceniającego, przesuwają ocenę bez zmiany pracy.
+Model zagrożeń, który pomija większość porad projektowych, siedzi wewnątrz ocenianego artefaktu. [[humble-prompt-injection-ai-grading-red-team-2026|Ocena red team z użyciem wstrzykiwania promptów, przeprowadzona przez Humble'a (2026)]] sprawdzała, czy studenci mogą manipulować oceniającym opartym na [[llm|LLM]] przez wstrzykiwanie promptów w swoich pracach, i manipulacja działała: wstrzyknięcia, które instruują, przeformułowują albo wcielają się w rolę oceniającego, przesuwają ocenę bez zmiany pracy.
 
 Rubrykę i instrukcje trzeba trzymać poza oknem kontekstu kontrolowanym przez studenta, usuwać lub oznaczać treść przypominającą instrukcje, nigdy nie pozwalać, by praca ustalała własne kryteria, i zachować ludzką decyzję przy każdej ocenie o konsekwencjach. Oceniający, który czyta swoje instrukcje z tekstu, który osądza, oddał rubrykę zdającemu.
 
@@ -96,6 +96,9 @@ Większy model naprawi pedagogikę. Skala nie poprawiała bezpieczeństwa w spos
 Dobry indeks wyszukiwania oznacza, że sprawa treści jest zamknięta. EduGuard łączy wyszukiwanie z osobnym weryfikatorem i testuje wrogie prompty wymuszające bezpośrednią odpowiedź, ponieważ ugruntowane wyszukiwanie nadal pozostawia drogę do nadmiernego ujawniania.
 
 Nauczyciel jest planem awaryjnym. Cała szóstka nauczycieli w badaniu projektowym prosiła o rejestrowanie, alerty i nadpisywanie jako warunek odpowiedzialności zawodowej. Zgłoszenie do wsparcia nie jest nadpisaniem.
+
+Radość z używania nie zastępuje dopasowania. W badaniu ankietowym 405 studentów studiów magisterskich z projektowania ([[chu-design-students-ai-agent-tam-ttf-2026|Chu i Liu (2026)]]) dopasowanie zadania do technologii niosło własną ścieżkę do postawy (β = 0,224) obok [[technology-acceptance-model|postrzeganej użyteczności]], a cechy zadania kształtowały dopasowanie silniej niż cechy narzędzia (β = 0,322 wobec 0,266). Postrzegana przyjemność podnosiła łatwość użycia i nie robiła nic dla użyteczności (β = −0,033, p = 0,483). Warto budować zachwyt, ale nie zastępuje on dopasowania funkcji do kroków zadania.
+
 
 Dostępność to późniejsze zgłoszenie. Siedzi w specyfikacji albo staje się przepisaniem od nowa, a generowane teksty alternatywne i napisy nadal wymagają ludzkiej kontroli.
 

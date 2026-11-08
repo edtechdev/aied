@@ -10,9 +10,9 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-28T11:39:29-04:00"
+source_updated: "2026-11-06T13:59:54-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Jest luty. Prorektor ogłasza inicjatywę w zakresie SI z osobną pozycją w budżecie, a na pokazanie jej w salach zajęciowych jest jeden semestr. Albo jesienią odbyło się sześć warsztatów, sale były pełne, a zajęcia, na których się bywa, się nie zmieniły. Albo dziekan zadaje przy budżecie proste pytanie: co kupiły te pieniądze?
 
-Wszystkie trzy przypadki mają ten sam błąd projektowy. Warsztat pokazuje ludziom, co robi narzędzie. Praktyka zmienia się wtedy, gdy nauczyciel spędza wspierany, ustrukturyzowany czas nad problemem z własnego kursu, dość długo, by nowy nawyk wyparł stary, a instytucja mówi eksperymentowi „tak”, a nie tylko go toleruje.
+Wszystkie trzy przypadki mają ten sam błąd projektowy. Warsztat pokazuje ludziom, co robi narzędzie. Praktyka zmienia się wtedy, gdy [[teacher-role|nauczyciel]] spędza wspierany, ustrukturyzowany czas nad problemem z własnego kursu, dość długo, by nowy nawyk wyparł stary, a instytucja mówi eksperymentowi „tak”, a nie tylko go toleruje.
 
 Wniosek na zebranie: ustandaryzować cykl spotkań, w którym każda osoba przynosi realny materiał z kursu i wychodzi z materiałem poprawionym; włożyć weryfikację, ujawnianie i kontrolę ryzyka do dokumentu roboczego, a nie do końcowego wykładu o etyce; rozciągnąć program poza jeden dzień i połączyć go z mentoringiem; prowadzić kohorty dziedzinowe; i raportować materiały, które ludzie wytworzyli, a nie to, jak pewnie się czuli ostatniego popołudnia.
 
@@ -54,9 +54,12 @@ Dwa dalsze wyniki wyjaśniają, dlaczego pokazy nie podróżują. W [[pishtari-t
 
 Co te badania łączy: uczenie się przyszło z krytykowania i poprawiania materiału. Ludzie poprawiają to, co mają przed sobą, i robią to szybciej, gdy ktoś z boku też to czyta.
 
+Kompetencja badawcza może być celem, a nie skutkiem ubocznym. W sześciotygodniowym programie wspieranym przez SI ze 105 nauczycielami chemii każdy mierzony wymiar poprawił się z pomiaru przed do po (dz Cohena = 0,47 do 0,63), a największa zmiana dotyczyła kompetencji badawczej, która wzrosła z 3,50 (SD = 0,88) do 4,16 (SD = 0,52; dz = 0,63) ([[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay i in. (2026)]]). Nauczyciele przeszli od opisywania SI jako narzędzia wyszukiwania i pisania do opisywania jej jako wsparcia planowania badań i decyzji opartych na danych. Projekt był jednogrupowym badaniem przed-po, więc przyrost trzeba traktować jako dowód programu, a nie efekt przyczynowy; wnosi konkretny sposób włączenia roli badacza w ten sam cykl rozwoju zawodowego.
+
+
 ## Przestać traktować umiejętności jako brakującego elementu
 
-Kusząca diagnoza to luka kompetencyjna, którą zamyka lepsze szkolenie. [[ai-teaching-innovation-ai-tpack-2026|Bai i Hsieh (2026)]] przebadali 898 nauczycieli akademickich na skalach [[tpack|AI-TPACK]] i stwierdzili, że nauczyciele rozumiejący, jak działają narzędzia generatywne, albo potrafiący sprawnie nimi operować, nie częściej zgłaszali wymyślanie i wdrażanie nowych praktyk dydaktycznych niż ci, którzy nie potrafili. Zintegrowany konstrukt AI-TPACK nie miał bezpośredniej ścieżki do zachowań innowacyjnych w ogóle. Jego wpływ szedł wyłącznie przez [[ai-literacy|kompetencje w zakresie SI]], dydaktyczne [[self-efficacy|poczucie własnej skuteczności]] i tożsamość zawodową.
+Kusząca diagnoza to luka kompetencyjna, którą zamyka lepsze szkolenie. [[ai-teaching-innovation-ai-tpack-2026|Bai i Hsieh (2026)]] przebadali 898 nauczycieli akademickich na skalach [[tpack|AI-TPACK]] i stwierdzili, że nauczyciele rozumiejący, jak działają narzędzia generatywne, albo potrafiący sprawnie nimi operować, nie częściej zgłaszali wymyślanie i wdrażanie nowych [[pedagogy|praktyk dydaktycznych]] niż ci, którzy nie potrafili. Zintegrowany konstrukt AI-TPACK nie miał bezpośredniej ścieżki do zachowań innowacyjnych w ogóle. Jego wpływ szedł wyłącznie przez [[ai-literacy|kompetencje w zakresie SI]], dydaktyczne [[self-efficacy|poczucie własnej skuteczności]] i tożsamość zawodową.
 
 To zmienia cel spotkania. Przegląd narzędzia nie dotyka żadnego z tych trzech. Spotkanie, na którym nauczyciel przepisuje własne zadanie, broni zmiany i słyszy od kolegi, że jest lepsze, dotyka wszystkich trzech naraz, i dlatego cykl materiałowy bije pokaz nawet wtedy, gdy treść jest uboższa.
 
@@ -64,7 +67,7 @@ Konsekwencja projektowa jest niewygodna dla każdego ze slajdami: nie da się wy
 
 ## Włożyć trudne części w szablon, którego się używa
 
-[[designing-ai-professional-development-itpack-2026|Ramy i-TPACK Dogana (2026)]] pochodzą z przeglądu PRISMA rozwoju zawodowego w zakresie SI oraz z przeszukania, które wydobyło 17 dalszych badań. Łączą pięć dziedzin wiedzy (inteligentna wiedza technologiczna, wiedza technologiczno-przedmiotowa, wiedza technologiczno-pedagogiczna, zintegrowany i-TPACK i etyka SI) z czterema ścieżkami opartymi na dowodach: [[active-learning|uczenie aktywne]], modele i przykłady, coaching i wsparcie eksperta oraz [[feedback|informacja zwrotna]] i refleksja, rządzone pięcioma zasadami od wspólnej synergii ponad silosami do elastyczności w ramach struktury.
+[[designing-ai-professional-development-itpack-2026|Ramy i-TPACK Dogana (2026)]] pochodzą z przeglądu [[meta-analysis-systematic-review|PRISMA]] rozwoju zawodowego w zakresie SI oraz z przeszukania, które wydobyło 17 dalszych badań. Łączą pięć dziedzin wiedzy (inteligentna wiedza technologiczna, wiedza technologiczno-przedmiotowa, wiedza technologiczno-pedagogiczna, zintegrowany i-TPACK i [[ethics|etyka SI]]) z czterema ścieżkami opartymi na dowodach: [[active-learning|uczenie aktywne]], modele i przykłady, coaching i wsparcie eksperta oraz [[feedback|informacja zwrotna]] i refleksja, rządzone pięcioma zasadami od wspólnej synergii ponad silosami do elastyczności w ramach struktury.
 
 Najostrzejsza krytyka, jaką te ramy kierują pod adresem dziedziny, dotyczy tego, że etyka jest w wielu istniejących programach traktowana powierzchownie albo nieobecna w ogóle, a lekarstwem jest umiejscowienie. Weryfikacja, ujawnianie i kontrola ryzyka należą do dokumentu, którego uczestnicy używają przez cały tydzień, a nie do ostatnich 20 minut ostatniego spotkania. Szablon z kolumną kontroli ryzyka zostanie wypełniony; końcowy blok o odpowiedzialnym użyciu zostanie przyjęty skinieniem głowy.
 
@@ -74,7 +77,7 @@ Ograniczenie tych ram jest takie, że są koncepcyjne i nie mają danych o wynik
 
 Jeśli program ma miejsce na jeden pogłębiony temat, warto wybrać ocenianie. W [[genai-pd-ai-pck-learning-gain-2026|ośmiogodzinnym programie Talebzadeha (2026)]], cztery dwugodzinne sesje ze 163 nauczycielami i osobami przygotowującymi się do zawodu, całkowity AI-PCK wzrósł ze 151,65 do 220,14 (*d* = 2,36, *p* < 0,001). Największy efekt składowej dotyczył rubryk oceniania (*d* = 2,19), które były też najsłabszym obszarem w pomiarze wyjściowym. Przyrost był węższy w metodzie nauczania niż w ocenianiu.
 
-Rubryki to także miejsce, w którym niepokój obecny w sali można wykorzystać. Uczestnik, któremu nie jest spokojnie na myśl o studentach opierających się na modelu, może napisać wiersz rubryki, który czyni rozumowanie widocznym, co zamienia zmartwienie w decyzję projektową z datą.
+Rubryki to także miejsce, w którym [[anxiety-and-stress|niepokój]] obecny w sali można wykorzystać. Uczestnik, któremu nie jest spokojnie na myśl o studentach opierających się na modelu, może napisać wiersz rubryki, który czyni rozumowanie widocznym, co zamienia zmartwienie w decyzję projektową z datą.
 
 Planować budżet poza jednym dniem. W tym samym programie osoby przygotowujące się do zawodu zyskały istotnie więcej niż osoby doświadczone (*p* = 0,033), głównie w projektowaniu zadań scenariuszowych i projektowaniu rubryk. Doświadczeni nauczyciele mówili, że osiem godzin to za mało, by ruszyć głęboko zakorzenione nawyki, i prosili o długoterminowe wsparcie mentorskie.
 
@@ -84,7 +87,7 @@ Prowadząc jeden uniwersalny warsztat, większość czasu poświęci się median
 
 Te trzy niskie dziedziny korelowały ze sobą na poziomie r = 0,81-0,91, co prawdopodobnie oznacza jedną zdolność do nauczania z tymi narzędziami, a nie trzy osobne umiejętności. Ucząc tego jako wspólnego fundamentu, oszczędza się dwie sesje.
 
-Potem podzielić według doświadczenia. [[ai-teaching-innovation-ai-tpack-2026|Bai i Hsieh]] stwierdzili, że tożsamość zawodowa przewidywała zachowania innowacyjne prawie dwa razy silniej wśród rzadkich użytkowników SI niż wśród codziennych, wynik na granicy istotności, ale użyteczna wskazówka: praca nad tożsamością najbardziej się opłaca z osobami, które ledwie dotykają narzędzi, a częstym użytkownikom więcej dają projekty interdyscyplinarne niż podstawowe wprowadzenie. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] opowiada się za kohortami dziedzinowymi jako miejscem właśnie takiej rozmowy, bo fizyk i historyk nie rozwiązują tego samego problemu.
+Potem podzielić według doświadczenia. [[ai-teaching-innovation-ai-tpack-2026|Bai i Hsieh]] stwierdzili, że tożsamość zawodowa przewidywała zachowania innowacyjne prawie dwa razy silniej wśród rzadkich użytkowników SI niż wśród codziennych, wynik na granicy istotności, ale użyteczna wskazówka: [[learner-identity|praca nad tożsamością]] najbardziej się opłaca z osobami, które ledwie dotykają narzędzi, a częstym użytkownikom więcej dają projekty interdyscyplinarne niż podstawowe wprowadzenie. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] opowiada się za kohortami dziedzinowymi jako miejscem właśnie takiej rozmowy, bo fizyk i historyk nie rozwiązują tego samego problemu.
 
 ## Otwierać pytaniem, które zadają sceptycy
 
@@ -92,7 +95,7 @@ Potem podzielić według doświadczenia. [[ai-teaching-innovation-ai-tpack-2026|
 
 Poczucie winy jest mierzalne i nierówno rozłożone. [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] przebadał 109 osób akademickich i zidentyfikował „kompleks winy wobec SI”: 35% obawiało się, że użycie SI podważa ich wiarygodność, a 26% zgłaszało poczucie, że „oszukuje”, przy czym wyprzedzające poczucie winy o wiarygodność przewyższało wyrzuty po użyciu, więc dystres jest społeczno-zawodowy, a nie prywatny. Wyszły cztery profile: wygodni adopterzy (27%), winni nieużytkownicy (29%), ostrożni użytkownicy (28%) i moralnie udręczeni unikający (16%). Jeden program rozwiązuje cztery różne problemy, a 29% odczuwających winę przy nieużywaniu narzędzi potrzebuje czegoś innego niż pokaz.
 
-Rozmiar zadania widać w [[watson-rainie-ai-challenge-faculty-survey-2026|badaniu AAC&U/Elon wśród 1 057 osób kadry (Watson i Rainie, 2026)]]: 68% stwierdziło, że ich uczelnie nie przygotowały kadry do używania generatywnego SI w nauczaniu i mentoringu, z podobnym udziałem w odniesieniu do pracy naukowej. 26% respondentów nie używa narzędzi wcale, w tym 40% kadry sztuki i humanistyki, a 82% wskazuje opór kolegów jako barierę dla przyjęcia w katedrze.
+Rozmiar zadania widać w [[watson-rainie-ai-challenge-faculty-survey-2026|badaniu AAC&U/Elon wśród 1 057 osób kadry (Watson i Rainie, 2026)]]: 68% stwierdziło, że ich uczelnie nie przygotowały kadry do używania [[generative-ai|generatywnego SI]] w nauczaniu i mentoringu, z podobnym udziałem w odniesieniu do pracy naukowej. 26% respondentów nie używa narzędzi wcale, w tym 40% kadry sztuki i humanistyki, a 82% wskazuje opór kolegów jako barierę dla przyjęcia w katedrze.
 
 ## Naprawić warunki, których program nauczania nie naprawi
 
@@ -100,13 +103,13 @@ To ustalenie warto przynieść na spotkanie z kierownictwem. W badaniu 568 osób
 
 Dźwignie dostępne osobie prowadzącej program są więc lokalne i bliskie: praktyka własnoręczna, wyraźne pozwolenie na eksperymentowanie, materiały w językach, w których kadra naprawdę pracuje, widoczne poparcie jednostki. Ramy polityki krajowej same nie dźwigają gotowości. Tam, gdzie wrażliwość na ryzyko gryzie, odpowiedzią jest danie jej miejsca do wyćwiczenia, a nie odradzanie ostrożności, a projektowanie rubryk i rutynowe weryfikacje są tym miejscem.
 
-Dwa praktyczne tarcia należą do tej samej rozmowy. Intencja dalszego używania była najwyżej ocenianym wymiarem satysfakcji w [[faculty-development-centers-genai-training-optimization-2026|pracy Bi i in. (2026)]], a użyteczność narzędzi najniżej, więc część tego, co czyta się jako niechęć, jest tarciem platformy. A [[ai-emotional-intelligence-teacher-development-2026|Aponte i in. (2026)]] wskazują twardą granicę: SI nie zrekompensuje przewlekłego przeciążenia, karzącej kultury rozliczalności, słabego przywództwa ani braku chronionego czasu. Twierdzą, że przyczynia się do rozwoju społeczno-emocjonalnego nauczycieli tylko jako infrastruktura relacyjna (chroniony czas na mentoring, dialog między kolegami, wspólnoty praktyki) i proponują *zagęszczenie relacyjne* jako standard, liczący zaufanie, ciągłość wsparcia i współregulację, a nie godziny kontaktu. Dwa twierdzenia przekładają się na projekt programu: uwolniony czas zostaje wchłonięty jako dodatkowe wymagania, jeśli instytucja formalnie nie wymaga zainwestowania go z powrotem, a agenci konwersacyjni mogą po cichu zastąpić trudne ludzkie negocjacje, które produkują rozwój. Ich ramy są heurystyką, a nie sprawdzonym twierdzeniem przyczynowym.
+Dwa praktyczne tarcia należą do tej samej rozmowy. Intencja dalszego używania była najwyżej ocenianym wymiarem satysfakcji w [[faculty-development-centers-genai-training-optimization-2026|pracy Bi i in. (2026)]], a [[usability-research|użyteczność]] narzędzi najniżej, więc część tego, co czyta się jako niechęć, jest tarciem platformy. A [[ai-emotional-intelligence-teacher-development-2026|Aponte i in. (2026)]] wskazują twardą granicę: SI nie zrekompensuje przewlekłego przeciążenia, karzącej kultury rozliczalności, słabego przywództwa ani braku chronionego czasu. Twierdzą, że przyczynia się do rozwoju społeczno-emocjonalnego nauczycieli tylko jako infrastruktura relacyjna (chroniony czas na mentoring, dialog między kolegami, wspólnoty praktyki) i proponują *zagęszczenie relacyjne* jako standard, liczący zaufanie, ciągłość wsparcia i współregulację, a nie godziny kontaktu. Dwa twierdzenia przekładają się na projekt programu: uwolniony czas zostaje wchłonięty jako dodatkowe wymagania, jeśli instytucja formalnie nie wymaga zainwestowania go z powrotem, a [[conversational-ai|agenci konwersacyjni]] mogą po cichu zastąpić trudne ludzkie negocjacje, które produkują rozwój. Ich ramy są heurystyką, a nie sprawdzonym twierdzeniem przyczynowym.
 
 Jeśli takie warunki dotyczą własnej instytucji, lepszy warsztat ich nie naprawi, a powiedzenie tego jest użyteczniejsze niż obiecywanie czegoś innego.
 
 ## Raportować materiały z opóźnieniem
 
-Instytucjonalnym rusztowaniem, do którego warto się przyporządkować, jest [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke i Nickel (2026)]], których badania projektowe w dwóch makrocyklach ze 114 uczestnikami (kadra z 28 instytucji w USA i z 11 krajów, plus dyrektorzy centrów dydaktyki i koordynatorzy akredytacji) dały sześć standardów obejmujących całą rolę akademicką: nauczyciel, koordynator, lider, badacz, uczący się i współtwórca. Istniejące ramy i standardy dla edukatorów dotyczą nauczycieli [[k-12|szkolnictwa K-12]] albo tylko nauczania, więc centrum, które przypisze swoją ofertę do tych standardów, da się przypisać do oceny okresowej i akredytacji, i to jest też argument, który przetrwa przegląd budżetu.
+Instytucjonalnym rusztowaniem, do którego warto się przyporządkować, jest [[crompton-faculty-technology-integration-standards-2026|Crompton, Burke i Nickel (2026)]], których [[design-based-research|badania projektowe]] w dwóch makrocyklach ze 114 uczestnikami (kadra z 28 instytucji w USA i z 11 krajów, plus dyrektorzy centrów dydaktyki i koordynatorzy akredytacji) dały sześć standardów obejmujących całą rolę akademicką: nauczyciel, koordynator, lider, badacz, uczący się i współtwórca. Istniejące ramy i standardy dla edukatorów dotyczą nauczycieli [[k-12|szkolnictwa K-12]] albo tylko nauczania, więc centrum, które przypisze swoją ofertę do tych standardów, da się przypisać do oceny okresowej i akredytacji, i to jest też argument, który przetrwa przegląd budżetu.
 
 Potem trzeba uważać, jak się ewaluuje, bo większość tej literatury mierzy [[self-report-measures|samoopisywane]] wrażenia. Bi i in. mierzyli samoocenę gotowości, a nie realizowane nauczanie, a ich grupy powstały przez dobrowolne zapisy, nie randomizację, więc wyniki są związkami. [[ai-teaching-innovation-ai-tpack-2026|Bai i Hsieh]] to badanie przekrojowe, z samodzielnym doborem, z ośmiu uniwersytetów w jednym kraju, mierzące każdy konstrukt u tych samych respondentów w jednym czasie. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo i współautorzy]] nie mogą ustalić kierunku przyczynowości, co ma znaczenie, bo ich najmocniejsze twierdzenie, że wiedza technologiczna działa jak brama, jest właśnie tym, czego przekrój nie rozstrzyga. [[genai-pd-ai-pck-learning-gain-2026|Talebzadeh]] podaje bardzo duże efekty bez randomizacji, pomiaru odroczonego i rozbicia na dziedziny, więc *d* = 2,36 czyta się jako krótkoterminowe. [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] jest autoetnograficzna, a [[ai-emotional-intelligence-teacher-development-2026|Aponte i in.]] stwierdzają, że ich ramy są koncepcyjne.
 
@@ -142,7 +145,7 @@ Mandat instytucjonalny udźwignie program. Współczynnik dla Kazachstanu runą�
 
 **2.** Przepisać program tak, by pierwsza sesja zaczynała się od tego materiału, i dodać weryfikację, ujawnianie i kontrolę ryzyka jako kolumny szablonu, który uczestnicy noszą przez cały tydzień.
 
-**3.** Przenieść jedną sesję na projektowanie rubryk i oceniania i sprawić, by uczestnicy wyszli z napisaną rubryką.
+**3.** Przenieść jedną sesję na projektowanie rubryk i [[assessment|oceniania]] i sprawić, by uczestnicy wyszli z napisaną rubryką.
 
 **4.** Zdobyć jedno zdanie na piśmie od dziekana albo prorektora, że eksperymentowanie jest dozwolone, a potem chronić godziny formalnie, żeby nie zostały wchłonięte.
 

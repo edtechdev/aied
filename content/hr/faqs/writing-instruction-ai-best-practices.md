@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-Ispravljate uputu za zadatak i rečenica pred vama kaže da je umjetna inteligencija dopuštena uz navođenje, što studentu ne govori ništa o tome smije li alat ponuditi argument. Kolega je predložio zabranu na razini kolegija i sumnjate da ona najteže pogađa višejezične pisce u prostoriji. Ili se hrpa eseja vratila glađa od seminarske rasprave koja stoji za njima, i treba vam pravilo koje možete braniti na sljedećem sastanku o kurikulu.
+Ispravljate uputu za zadatak i rečenica pred vama kaže da je umjetna inteligencija dopuštena uz navođenje, što studentu ne govori ništa o tome smije li alat ponuditi argument. Kolega je predložio zabranu na razini kolegija i sumnjate da ona najteže pogađa višejezične pisce u prostoriji. Ili se hrpa eseja vratila glađa od seminarske rasprave koja stoji za njima, i treba vam pravilo koje možete braniti na sljedećem sastanku o [[curriculum-design|kurikulu]].
 
 Suština: imenujte intelektualni rad koji zadatak treba proizvesti, zadržite taj korak kod studenta i dajte alatu poslove koji vraćaju nešto što student mora prosuditi. Pravilo napisano na taj način studentu kaže koji korak štiti.
 
@@ -78,7 +78,7 @@ Slijed koji vrijedi posuditi zadržava umjetnu inteligenciju u savjetodavnoj ulo
 | **8. Revizija** | Čini i obrazlaže suštinske promjene | Provjerava jasnoću, nudi alternative | Revizija |
 | **9. Provjera** | Provjerava svaku činjeničnu tvrdnju ili tvrdnju ovisnu o izvoru | Ne može provjeriti vlastiti rezultat | Izvori i dokazi |
 | **10. Refleksija i prijava** | Objašnjava ulogu umjetne inteligencije i što se promijenilo u njegovu mišljenju | Ništa | Kratka refleksija o procesu |
-| **11. Samostalna provjera** | Objašnjava ili primjenjuje rezoniranje bez umjetne inteligencije | Ništa | Usmena obrana, brzo pisanje, novi slučaj |
+| **11. Samostalna provjera** | Objašnjava ili primjenjuje rezoniranje bez umjetne inteligencije | Ništa | [[oral-assessment|Usmena obrana]], brzo pisanje, novi slučaj |
 
 Ovo je prošireni [[pairr-ai-peer-review-2025|PAIRR]]: nacrt, ljudske povratne informacije, povratne informacije umjetne inteligencije, usporedba, revizija, refleksija, uz samostalnu osnovicu i čvršću granicu oko rezoniranja. Uzmite srednji stupac kao zadatak, a desni kao ono na čemu ocjena može počivati.
 
@@ -89,6 +89,9 @@ Jedanaest redaka više je nego što većini zadataka treba. Skupite tablicu na k
 Najveća studija iz učionice ovdje je [[pairr-ai-peer-review-2025|PAIRR]]: 654 studenta u deset kolegija pisanja i tri kolegija [[stem-education|STEM]] s intenzivnim pisanjem. Pisali su nacrte, proveli [[peer-assessment|vršnjačko ocjenjivanje]], dobili povratne informacije umjetne inteligencije prema rubrici, usporedili i ocijenili oba izvora, napisali planove revizije, revidirali i reflektirali. Pedeset i osam posto preferiralo je kombinirane vršnjačke i povratne informacije umjetne inteligencije. Šest posto preferiralo je samo povratne informacije umjetne inteligencije. Studenti su umjetnu inteligenciju smatrali korisnom za široke savjete o reviziji prema rubrici, a vršnjaci su dali kontekstualno znanje i vjerodostojan odgovor publike.
 
 Budite točni u tvrdnji. PAIRR je mjerio iskustvo studenata i njihovu procjenu povratnih informacija, a ne dugoročne [[learning-gains|ishode učenja]], pa je to jak dokaz za dizajn povratnih informacija, a slabiji dokaz da se pisanje poboljšava mjesecima kasnije. Zadržite vršnjački korak i kad je korak umjetne inteligencije brži. Velik dio rada na [[feedback|povratnim informacijama]] odvija se u usporedbi dvaju izvora, a njegovo uklanjanje uklanja dio koji su studenti rekli da cijene.
+
+Sam alat može biti osmišljen tako da zaštiti korak zaključivanja. [[favero-thinking-not-writing-chatbot-2026|Favero i sur. (2026)]] izradili su MAIKE, [[socratic-method|sokratskog]] chatbota koji dijagnosticira argumente i postavlja ciljana pitanja bez generiranja teksta eseja. U istraživanju u učionici sa 65 srednjoškolaca korisnici MAIKE-a proveli su više izmjena na dijalogu o idejama od kontrolne skupine (56% prema 44%) i kretali se između rasprave i uređivanja; oko 40% studenata poboljšalo je ocjene eseja. Studija nije pokazala ukupnu prednost u ocjeni pred kontrolnom skupinom, pa je tretirajte kao demonstraciju dizajna o povezivanju razgovora s revizijom, a ne kao dokaz da chatbot podiže kvalitetu pisanja.
+
 
 ## Ocjenjujte što je student učinio s povratnim informacijama
 

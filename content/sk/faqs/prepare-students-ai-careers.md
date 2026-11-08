@@ -1,7 +1,7 @@
 ---
 title: "Čo by sa mali študenti učiť pre kariéry, v ktorých je AI bežná?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-10-30T12:55:00-04:00"
+source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
@@ -25,9 +25,9 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-Študent sa pýta, prečo by sa mal učiť robiť niečo, čo chatbot už robí. Poradná skupina programu hovorí, že zamestnávatelia chcú absolventov, ktorí vedia AI používať v práci. Váš sylabus musí uspokojiť oboje a ani jedna strana nepovedala, čo má absolvent zvládnuť bez pomoci.
+Študent sa pýta, prečo by sa mal učiť robiť niečo, čo [[conversational-ai|chatbot]] už robí. Poradná skupina programu hovorí, že zamestnávatelia chcú absolventov, ktorí vedia AI používať v práci. Váš sylabus musí uspokojiť oboje a ani jedna strana nepovedala, čo má absolvent zvládnuť bez pomoci.
 
-Krátka odpoveď pre kolegu: vyučujte celú profesionálnu úlohu, nie obsluhu nástroja, a hodnotte aj podporovaný produkt, aj samostatnú spôsobilosť študenta. Dôkazy podporujú chápanie pripravenosti ako odbornej znalosti plus úsudku plus overovania plus transferu a nepodporujú žiadny zoznam zručností ako záruku zamestnania. Prieskum 500 amerických vysokoškolských vyučujúcich proti panelu zamestnávateľov zistil, že obe skupiny sa zhodujú na dôležitosti presne jednej z 26 zručností spojených s AI, *stanovovania realistických očakávaní pre prácu rozšírenú o AI*; vyučujúci kládli dôraz na kritické a zodpovedné používanie, kým zamestnávatelia na pracovný postup, automatizáciu a tímovú prácu človeka s AI ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). To sú hlásené priority, nie dôkaz o prijímaní do zamestnania. Ostrejšie zistenie pre kurikulum je inde: v prieskume 455 študentov posledného ročníka dosiahla gramotnosť v AI vnímanú zamestnateľnosť najmä cez zvýšenie [[career-development-and-readiness|kariérnej adaptability]], s nepriamym účinkom β = 0,173 popri priamom β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan a Lestari, 2026]]). Adaptabilita je spôsobilosť, ktorú viete vyučovať. Tip na nástroj nie je.
+Tu je krátka odpoveď: vyučujte celú profesionálnu úlohu, nie obsluhu nástroja, a hodnotte aj podporovaný produkt, aj samostatnú spôsobilosť študenta. Dôkazy podporujú chápanie pripravenosti ako odbornej znalosti plus úsudku plus overovania plus transferu a nepodporujú žiadny zoznam zručností ako záruku zamestnania. Prieskum 500 amerických vysokoškolských vyučujúcich proti panelu zamestnávateľov zistil, že obe skupiny sa zhodujú na dôležitosti presne jednej z 26 zručností spojených s AI, *stanovovania realistických očakávaní pre prácu rozšírenú o AI*; vyučujúci kládli dôraz na kritické a zodpovedné používanie, kým zamestnávatelia na pracovný postup, automatizáciu a [[human-ai-collaboration|tímovú prácu človeka s AI]] ([[ithaka-sr-ai-skills-college-graduates-2026|Fried, 2026]]). To sú hlásené priority, nie dôkaz o prijímaní do zamestnania. Ostrejšie zistenie pre [[curriculum-design|kurikulum]] je inde: v prieskume 455 študentov posledného ročníka dosiahla gramotnosť v AI vnímanú zamestnateľnosť najmä cez zvýšenie [[career-development-and-readiness|kariérnej adaptability]], s nepriamym účinkom β = 0,173 popri priamom β = 0,447 ([[ai-literacy-graduate-employability-2026|Hendrawan a Lestari, 2026]]). Adaptabilita je spôsobilosť, ktorú viete vyučovať. Tip na nástroj nie je.
 
 ## Stručná verzia
 
@@ -73,13 +73,13 @@ Toto sú adaptácie výskumných tém, nie testované intervencie pre zamestnano
 
 Kompozícia a obchodná komunikácia: nechajte študentov kritizovať a revidovať odpoveď na sťažnosť zákazníka, ktorú navrhla AI. Dôkazom spôsobilosti je pomenovať nepodložené sľuby, vysvetliť voľby voči publiku a obhájiť konečnú formuláciu.
 
-Kvantitatívny kurz môže urobiť to isté s odhadom, ktorý pre realistický plánovací problém vyprodukovala AI, pričom študenti zostavia vlastný odhad, uvedú predpoklady a otestujú vierohodnosť.
+[[quantitative-research|Kvantitatívny]] kurz môže urobiť to isté s odhadom, ktorý pre realistický plánovací problém vyprodukovala AI, pričom študenti zostavia vlastný odhad, uvedú predpoklady a otestujú vierohodnosť.
 
 V kurze tabuľkových procesorov alebo programovania rozdajte vygenerovaný vzorec a syntetické dáta a potom žiadajte testovacie prípady, vysvetlenie odkazov a jednu podmienku zlyhania.
 
-Zdravotnícke profesie: študenti hodnotia vygenerované vysvetlenie fiktívneho prípadu proti schváleným zdrojom, pomenujú jeho obmedzenia a uvedú, kedy musí rozhodnúť kvalifikovaný odborník.
+[[medical-education|Zdravotnícke profesie]]: študenti hodnotia vygenerované vysvetlenie fiktívneho prípadu proti schváleným zdrojom, pomenujú jeho obmedzenia a uvedú, kedy musí rozhodnúť kvalifikovaný odborník.
 
-Kariérne skúmanie má vlastnú verziu: porovnajte skladbu úloh dvoch povolaní pomocou vierohodných informácií o povolaniach a potom naplánujte jeden konkrétny krok rozvoja zručnosti alebo hľadania pomoci.
+Kariérne skúmanie má vlastnú verziu: porovnajte skladbu úloh dvoch povolaní pomocou vierohodných informácií o povolaniach a potom naplánujte jeden konkrétny krok rozvoja zručnosti alebo [[help-seeking|hľadania pomoci]].
 
 Pre asynchrónnu výučbu žiadajte prvý pokus, krátky záznam o overení a dvojvetovú poznámku o jednom dôsledkovom rozhodnutí. V laboratóriu alebo seminári sa vysvetlenie môže odohrať v rozhovore. Vždy, keď je alternatívou dôverná pracovná alebo študentská dátová sada, použite syntetické alebo schválené materiály.
 
@@ -89,19 +89,21 @@ Vyhladený artefakt vám povie, čo vzniklo za povolených podmienok. Nepovie v�
 
 Vyberte tie požiadavky preto, že podporujú uvedenú spôsobilosť, a povedzte, ktorú z nich každé hodnotenie meria. Študenti prijmú nezávislé precvičovanie, keď je spojené s vecou, na ktorú sa pripravujú; „raz to budeš potrebovať“ urobí menej práce než ukázanie, ako im práve výpočet umožní neskôr zachytiť nesprávny odhad.
 
-Podporná strana má vlastné riziko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] zistili, že používanie generatívnej AI bolo v ich prieskumovom modeli pozitívne spojené so závislosťou od generatívnej AI a závislosť negatívne s kritickým myslením aj zamestnateľnosťou. Je to asociácia, nie kauzálne tvrdenie, a ukazuje na dizajnovú otázku: kurz, ktorý hodnotí len podporovaný výkon, môže trénovať práve tú závislosť, ktorú hlási.
+Podporná strana má vlastné riziko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] zistili, že používanie [[generative-ai|generatívnej AI]] bolo v ich prieskumovom modeli pozitívne spojené so závislosťou od generatívnej AI a závislosť negatívne s [[critical-thinking|kritickým myslením]] aj zamestnateľnosťou. Je to asociácia, nie kauzálne tvrdenie, a ukazuje na dizajnovú otázku: kurz, ktorý hodnotí len podporovaný výkon, môže trénovať práve tú závislosť, ktorú hlási.
+
+Rovnaká logika platí skôr, než študenti vstúpia na trh práce. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelujú pomoc AI ako postupnosť, v ktorej zručnosť rastie nezávislým precvičovaním a klesá, keď pracovníci prijímajú odpovede AI. V ich modeli môžu začiatočníci uviaznuť na nízkej zručnosti a odborníci ju môžu stratiť, aj keď presnosť výstupu zostáva vysoká, a strategickí pracovníci môžu riešiť samostatne, aj keď je AI presnejšia, pretože budúca zručnosť má hodnotu. Práca je teoretická, nie intervenčná, ale zostruje otázku kurikula: plánujte a odmeňujte samostatné precvičovanie namiesto predpokladu, že výstup s pomocou AI buduje spôsobilosť prácu dohliadať.
 
 Pri revízii programu oddeľte merania. Výkon v kurze, preukázaná gramotnosť v AI, hodnotenie školiteľa zo stáže, stav zamestnania a kvalita práce sú rôzne výsledky s rôznymi časovými horizontmi a jediná intervencia nemôže preukázať všetky. [[ai-literacy-evidence|Stránka o dôkazoch gramotnosti v AI]] je čestným inventárom toho, čo intervenčné štúdie skutočne podporujú.
 
 ## Riešte kariérnu úzkosť bez sľubovania istoty
 
-Študenti prichádzajú so skutočnými obavami a prieskumová literatúra o nich je opisom obáv, nie predpoveďou trhu práce. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] zistili, že úzkosť z AI priamo a negatívne predpovedá kariérne rozhodnutia, čo je zistenie o rozhodovacej paralýze, nie o pracovných miestach. [[ai-anxiety-wellbeing|Obraz duševnej pohody]] pokrýva širšie dôkazy.
+Študenti prichádzajú so skutočnými obavami a prieskumová literatúra o nich je opisom obáv, nie predpoveďou trhu práce. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] zistili, že [[anxiety-and-stress|úzkosť z AI]] priamo a negatívne predpovedá kariérne rozhodnutia, čo je zistenie o rozhodovacej paralýze, nie o pracovných miestach. [[ai-anxiety-wellbeing|Obraz duševnej pohody]] pokrýva širšie dôkazy.
 
 Pomáha skúmanie v mierke, na ktorú študent môže konať: ktoré úlohy táto rola skutočne obsahuje, ako vyzerá týždeň, čo by som musel zvládnuť, kto mi to povie. Kariérne služby, absolventi a pracovníci s praxou majú tie informácie. Ukážka nástroja, dojem vyučujúceho alebo prezentácia predajcu nie je predpoveďou trhu práce a prezentovať jednu ako predpoveď je spôsob, akým programy strácajú dôveryhodnosť u študentov, ktorí si to potom overia.
 
 ## Čo sa vám vráti
 
-**„Študenti potrebujú len lepšie promptovanie.“** Promptovanie je jedna veta jednej zo šiestich častí. Dobre špecifikovaná požiadavka neposkytne znalosť potrebnú na rozpoznanie zlého výsledku a zamestnávatelia v paneli Ithaka tiež nezaradili remeslo promptu na prvé miesto.
+**„Študenti potrebujú len lepšie [[prompt-engineering|promptovanie]].“** Promptovanie je jedna veta jednej zo šiestich častí. Dobre špecifikovaná požiadavka neposkytne znalosť potrebnú na rozpoznanie zlého výsledku a zamestnávatelia v paneli Ithaka tiež nezaradili remeslo promptu na prvé miesto.
 
 **„Ak pracoviská povoľujú AI, výučba by ju mala povoľovať.“** Kurz tiež buduje spôsobilosť, ktorá zodpovedné používanie umožňuje. Povedzte, ktorú z tých dvoch vecí v každej úlohe hodnotíte, a námietka sa stane dizajnovou otázkou, nie protirečením.
 
@@ -125,4 +127,4 @@ Pomáha skúmanie v mierke, na ktorú študent môže konať: ktoré úlohy tát
 
 [[career-development-and-readiness]] je koncepčná stránka pre zamestnateľnosť, adaptability a dôkazy o pracovnej sile a [[ai-literacy]] pokrýva, čo gramotnosť znamená za hranicou obsluhy nástroja. O zabudovaní do konkrétneho kurzu pozri [[incorporating-ai-literacy|zabudovanie gramotnosti v AI]] a [[faculty-ai-competencies|aké kompetencie potrebujú vyučujúci]].
 
-O dizajne hodnotenia, ktorý robí podporovaný a nezávislý výkon rozlíšiteľnými, pozri [[redesign-assessment-ai-era|preprojektovanie hodnotenia v ére AI]] a [[ai-grading-fairness-reliability|hodnotenie s AI]]. O tom, ako udržať podporu od toho, aby sa stala závislosťou, pozri [[reducing-over-reliance|znižovanie nadmernej závislosti]].
+O [[assessment|dizajne hodnotenia]], ktorý robí podporovaný a nezávislý výkon rozlíšiteľnými, pozri [[redesign-assessment-ai-era|preprojektovanie hodnotenia v ére AI]] a [[ai-grading-fairness-reliability|hodnotenie s AI]]. O tom, ako udržať podporu od toho, aby sa stala závislosťou, pozri [[reducing-over-reliance|znižovanie nadmernej závislosti]].

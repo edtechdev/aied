@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-01T11:35:15-05:00"
+updated: "2026-11-08T04:01:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Hatodik hét. Egy rakás vázlat, egy rubrika, amelyben hisz, és egy növekvő gyanú, hogy a megjegyzései egyharmadát átfutják és elfelejtik. Egy kolléga megemlíti, hogy egy eszköz most egy órán belül kommentál minden vázlatot. A tanszéki ülésen válasz kell: ez fejlesztés, vagy gyorsabb módja annak, hogy olyan szöveget állítsunk elő, amit senki nem olvas el?
 
-Rövid válasz egy kollégának: a MI-visszajelzés a lefedettségben, az időszerűségben és a konzisztenciában érdemli ki a helyét, egy szűk sávon belül. A korrektúra szintű nyelvi munkát és a rubrika vezette első körös megjegyzéseket érdemes automatizálni. Az elérés az olcsó rész. Egy klaszter-randomizált kísérletben 1 176 elsőéves egyetemi hallgatóval a reflektív és a hibrid tervezés felülmúlta a közvetlen MI-kritikát a késleltetett, MI nélküli [[transfer-of-learning|transzferben]]. Egy 70 diákos randomizált esszékísérletben a jobbra értékelt MI-visszajelzés nem termelt jobb átdolgozást, mint egy tapasztalt tanáré. Az dönti el az eredményt, mit tesz a diák egy megjegyzéssel, és a [[feedback-literacy|visszajelzés-írástudás]] választja el a nyerő diákokat azoktól, akik másolnak.
+Íme a rövid válasz: a MI-visszajelzés a lefedettségben, az időszerűségben és a konzisztenciában érdemli ki a helyét, egy szűk sávon belül. A korrektúra szintű nyelvi munkát és a rubrika vezette első körös megjegyzéseket érdemes automatizálni. Az elérés az olcsó rész. Egy klaszter-randomizált kísérletben 1 176 elsőéves egyetemi hallgatóval a reflektív és a hibrid tervezés felülmúlta a közvetlen MI-kritikát a késleltetett, MI nélküli [[transfer-of-learning|transzferben]]. Egy 70 diákos randomizált esszékísérletben a jobbra értékelt MI-visszajelzés nem termelt jobb átdolgozást, mint egy tapasztalt [[teacher-role|tanár]]é. Az dönti el az eredményt, mit tesz a diák egy megjegyzéssel, és a [[feedback-literacy|visszajelzés-írástudás]] választja el a nyerő diákokat azoktól, akik másolnak.
 
 ## A rövid változat
 
@@ -38,7 +38,7 @@ Rövid válasz egy kollégának: a MI-visszajelzés a lefedettségben, az idősz
 
 **2.** Osztályozza a saját megjegyzéseit nyelvi szintű javításokra és ítéletszintű döntésekre. Csak az első kategória automatizálási jelölt.
 
-**3.** Szakaszolja a forrásokat. Először önértékelés, másodszor társ-visszajelzés, harmadszor MI-kritika. Két egymás mellé tett forrás passzív átvételt termel.
+**3.** Szakaszolja a forrásokat. Először önértékelés, másodszor [[peer-assessment|társ-visszajelzés]], harmadszor MI-kritika. Két egymás mellé tett forrás passzív átvételt termel.
 
 **4.** Adja oda a modellnek a rubrikáját, és készítse lépésenkénti érvelésre. Egy puszta utasítás általános kimenetet termel.
 
@@ -50,7 +50,7 @@ Rövid válasz egy kollégának: a MI-visszajelzés a lefedettségben, az idősz
 
 A csábító mutató az, mit ír a modell. Ez az a mutató is, amely félrevezet.
 
-[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia és mtsai (2026)]] 70 perzsa nyelven érvelő esszét író diákot randomizáltak három csoportba. A gondolatmenet-promptolás szignifikánsan magasabbra értékelt visszajelzést termelt (M = 12,90), mint a nullalövéses promptolás (M = 11,25, p = 0,01) és mint egy tapasztalt emberi tanár (M = 11,20, p = 0,008). A gondolatmenet-csoport nem dolgozta át az esszéit szignifikánsan jobban, mint a tanári visszajelzés csoportja, amely hasonló nyereséget ért el. Jobb megjegyzések, ugyanazok az átdolgozások. Ha a siker kritériuma a megjegyzés minősége, az a vizsgálat nyereségnek olvasható. Ha az, mi változott az esszében, nem.
+[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia és mtsai (2026)]] 70 perzsa nyelven érvelő esszét író diákot randomizáltak három csoportba. A gondolatmenetes [[prompt-engineering|promptolás]] szignifikánsan magasabbra értékelt visszajelzést termelt (M = 12,90), mint a nullalövéses promptolás (M = 11,25, p = 0,01) és mint egy tapasztalt emberi tanár (M = 11,20, p = 0,008). A gondolatmenet-csoport nem dolgozta át az esszéit szignifikánsan jobban, mint a tanári visszajelzés csoportja, amely hasonló nyereséget ért el. Jobb megjegyzések, ugyanazok az átdolgozások. Ha a siker kritériuma a megjegyzés minősége, az a vizsgálat nyereségnek olvasható. Ha az, mi változott az esszében, nem.
 
 Két másik jelzés hízelgő egy rosszul menő pilotnak, ezért rögzítse őket előre. Az egyik a diákok elégedettsége. Az egyetemi szintű Deakin-pilotban, amelyről [[tubino-adachi-ai-automated-feedback-literacy|Tubino és Adachi (2022)]] beszámolt, a pozitív átlagos értékelések együtt jártak a diákok által jelzett hibákkal, tehát egy mosolygós felmérés nem pontossági bizonyíték. A másik a használat. A Deakin-eszköz opcionális volt, és a használat átlagosan az egyetemi hallgatók mintegy 13%-át és a mesterképzéses hallgatók 12%-át érte el, annak ellenére, hogy csaknem 4 000 diák fért hozzá. A proaktív, jól teljesítő diákok többen használták. Ennyit hoz egy eszköz elérhetővé tétele.
 
@@ -72,7 +72,7 @@ A reflektív feltétel önértékelést követelt a MI-kritika előtt. A hibrid 
 
 A mechanizmus megmagyarázza, miért fontosabb a sorrend, mint az eszköz. A közvetlen kritika passzív átvételre hív: a diák elolvas egy ítéletet és alkalmazza. A reflektív és a hibrid tervezés arra kényszeríti a diákot, hogy értelmezze a megjegyzést, összevesse a kritériumokkal, megítélje a relevanciáját, majd átdolgozzon. Az oktatási érték kevésbé a MI-hozzáféréstől függ, mint attól, hogy a visszajelzési környezet megőrzi-e a [[agency|tanulói ügynökséget]] és az [[evaluative-judgment|értékelő ítéletet]] az átdolgozás során.
 
-A társ-visszajelzés megérdemli a maga helyét a sorrendben. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen és Yan (2026)]] két párhuzamos angol osztályt (N = 118 elsőéves egyetemi hallgató Kínában; generatív MI n = 56, társak n = 62) futtatott három önértékelési cikluson keresztül egy félév alatt. A generatív MI állványozása kissé, de szignifikánsan javította a visszajelzés-írástudást az emberi társértékeléshez képest (ANCOVA p = 0,049, ηp² = 0,03). A generatív MI-s diákok iteratívan finomították a promptokat, és ellenőrizték vagy megkérdőjelezték a pontatlan kimenetet. A társas csoport diákjai társas kényelem szerint választottak forrásokat, és értékelő ítéletüket a barátsági torzítás elferdítette. A társértékelés megőrzött egy külön értéket a közönségtudatosságban, ezért javasolják a szerzők a több szakaszos, névtelen társ-visszajelzéses tervezéseket a helyettesítés helyett.
+A társ-visszajelzés megérdemli a maga helyét a sorrendben. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen és Yan (2026)]] két párhuzamos angol osztályt (N = 118 elsőéves egyetemi hallgató Kínában; generatív MI n = 56, társak n = 62) futtatott három [[self-assessment|önértékelési]] cikluson keresztül egy félév alatt. A generatív MI [[scaffolding|állványozása]] kissé, de szignifikánsan javította a visszajelzés-írástudást az emberi társértékeléshez képest (ANCOVA p = 0,049, ηp² = 0,03). A generatív MI-s diákok iteratívan finomították a promptokat, és ellenőrizték vagy megkérdőjelezték a pontatlan kimenetet. A társas csoport diákjai társas kényelem szerint választottak forrásokat, és értékelő ítéletüket a barátsági torzítás elferdítette. A társértékelés megőrzött egy külön értéket a közönségtudatosságban, ezért javasolják a szerzők a több szakaszos, névtelen társ-visszajelzéses tervezéseket a helyettesítés helyett.
 
 Gu és mtsai előnye kicsi volt, és valósnak, de önmagában nem átalakítónak olvassák. A tanári állványozás, a prompt-irányelvek és a munkalapok végezték a támogató munkát.
 
@@ -80,15 +80,15 @@ Gu és mtsai előnye kicsi volt, és valósnak, de önmagában nem átalakítón
 
 A rubrikára hivatkozó generálás az automatizálható rész.
 
-Farrokhnia és mtsai minőségi nyeresége egy gondolatmenet-promptból jött, amely végigvezette a modellt egy lépésenkénti értékelésen egy érvelési rubrika ellenében, nem egy puszta visszajelzési utasításból. Gu és mtsai a generatív MI csoportjuknak ChatGPT-4o-t adtak előre betanított rubrikákkal és prompt-irányelvekkel, ez tette a kimenetet a megadott kritériumok ellenében ellenőrizhetővé. Mindkét esetben a prompt az, ahol a kritériumai bekerülnek a rendszerbe, és az érvelési nyom az, ami láttatja, hogy a modell alkalmazta-e őket.
+Farrokhnia és mtsai minőségi nyeresége egy gondolatmenet-promptból jött, amely végigvezette a modellt egy lépésenkénti értékelésen egy érvelési rubrika ellenében, nem egy puszta visszajelzési utasításból. Gu és mtsai a generatív MI csoportjuknak [[generative-ai|ChatGPT]]-4o-t adtak előre betanított rubrikákkal és prompt-irányelvekkel, ez tette a kimenetet a megadott kritériumok ellenében ellenőrizhetővé. Mindkét esetben a prompt az, ahol a kritériumai bekerülnek a rendszerbe, és az érvelési nyom az, ami láttatja, hogy a modell alkalmazta-e őket.
 
 [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson és Yan (2025)]] a prompt minőségét teszi az egész folyamat sarkává. A homályos promptok általános, használhatatlan kimenetet adnak, és a generált megjegyzések lehetnek hallucináltak, elfogultak vagy átfedők, ami az értékelő ítéletet visszatolja az olvasóra. A kalibrálás még élesebb. Farrokhnia és mtsai esetében a generatív MI visszajelzés-minősége szignifikánsan összefüggött a diák kezdeti vázlatának erősségével, a tanári visszajelzés minősége nem. A tanár következetesebben kalibrált. A mennyiség skálázódik. A kalibrálás nem.
 
 ## Tartsa embernél az utolsó szót és a rekordot
 
-[[becerra-aicofe-feedback-2026|Becerra, Palma és Cobos (2026)]] az AICoFE-ot írják le, amely három függetlenül finomhangolt modellt (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) futtat rubrikapontszámokon és kvalitatív megfigyeléseken, hogy független vázlatmegjegyzéseket állítson elő. Az oktató ezután a végső üzenetet mondatok vagy bekezdések kiválasztásával állítja össze, egy jelmagyarázat mutatja, melyik modell mit adott hozzá. A modell vázol. Az oktató kézbesít, és a kézbesített anyagot egy személy írja alá, aki elolvasta a vázlatot.
+[[becerra-aicofe-feedback-2026|Becerra, Palma és Cobos (2026)]] az AICoFE-ot írják le, amely három függetlenül finomhangolt modellt (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) futtat rubrikapontszámokon és [[qualitative-research|kvalitatív]] megfigyeléseken, hogy független vázlatmegjegyzéseket állítson elő. Az oktató ezután a végső üzenetet mondatok vagy bekezdések kiválasztásával állítja össze, egy jelmagyarázat mutatja, melyik modell mit adott hozzá. A modell vázol. Az oktató kézbesít, és a kézbesített anyagot egy személy írja alá, aki elolvasta a vázlatot.
 
-Aldino és mtsai ugyanezt a segíts, aztán ellenőrizz mintát találják a mindennapi gyakorlatban. A gépi tanulási komponens leggyakrabban a „Megfelel a tanulási célnak” hiányát jelezte (21 tanárból 20 kihagyta; 16 elfogadta a jelzést) és a „Diák-tanár kapcsolat” hiányát (14 kihagyta; 12 elfogadta). A tanárok szakmai ítélettel döntöttek minden javaslatról, ez a lényege annak, hogy bevonjuk őket a folyamatba.
+Aldino és mtsai ugyanezt a segíts, aztán ellenőrizz mintát találják a mindennapi gyakorlatban. A [[machine-learning|gépi tanulási]] komponens leggyakrabban a „Megfelel a tanulási célnak” hiányát jelezte (21 tanárból 20 kihagyta; 16 elfogadta a jelzést) és a „Diák-tanár kapcsolat” hiányát (14 kihagyta; 12 elfogadta). A tanárok szakmai ítélettel döntöttek minden javaslatról, ez a lényege annak, hogy bevonjuk őket a folyamatba.
 
 Aldino és mtsai 21 tanára közül tizenketten tettek további mondatszintű módosításokat, és a domináns minta a hangnem kalibrálása volt: a dicséret lefelé szerkesztése (f = 11), javaslatok eltávolítása (f = 9), bátorítás eltávolítása (f = 8). Az átdolgozások a kapcsolati dimenzióban csoportosultak, különösen a diák-tanár kapcsolatban (f = 24). Az eredetiséget és a szakmai hangot védték, és az a munka nem automatizálódik.
 
@@ -118,7 +118,7 @@ Az elégedettségi értékelések megmondják, hogy a megjegyzések pontosak. A 
 
 ## Mi jön vissza Önre
 
-**„A MI-visszajelzés nem személyes.”** Gyakran igaz, és ez az ok, amiért embernél kell tartani az utolsó szót. Az AICoFE azért létezik, mert az általános modellszöveg nem az, amit egy diáknak kapnia kell: az oktató választ, szerkeszt és ír alá. Aldino és mtsai 21 tanára ugyanezért írta át a hangnemet. A személyre szabás ebben a tervezésben az Ön munkája, a modell az előkészítő munkát végzi.
+**„A MI-visszajelzés nem személyes.”** Gyakran igaz, és ez az ok, amiért embernél kell tartani az utolsó szót. Az AICoFE azért létezik, mert az általános modellszöveg nem az, amit egy diáknak kapnia kell: az oktató választ, szerkeszt és ír alá. Aldino és mtsai 21 tanára ugyanezért írta át a hangnemet. A [[personalized-learning|személyre szabás]] ebben a tervezésben az Ön munkája, a modell az előkészítő munkát végzi.
 
 **„A diákjaim úgysem olvassák el a visszajelzést.”** Kevesebbet olvasnak, mint reméljük, és a bizonyíték szerint a megoldás a tervezés, nem a mennyiség. Az átvétel a Deakin-pilotban mintegy 13% és 12% volt. Farrokhnia és mtsai magasabbra értékelt megjegyzései nem termeltek több átdolgozást. Amit a mutatót elmozdította, az az elköteleződést kikényszerítő sorrend volt, önértékelés, majd társ-visszajelzés, majd MI-kritika, valamint három átdolgozási ciklus egy félév alatt, amely mérhető visszajelzés-írástudás-különbségeket termelt.
 

@@ -9,7 +9,7 @@ discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
+connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/equity-in-ai-education"
 source_updated: "2026-11-01T08:10:00-05:00"
@@ -105,7 +105,7 @@ ai_assist:
 
 ## خصوصی آبادیاں اور عالمی مساوات
 
-- **خصوصی آبادیاں:** [[special-education]]، [[neurodivergent-computing-students|نیورو ڈائیورجنٹ سیکھنے والے]]، [[dyslexlens-dyslexic-learners-ai|ڈسلیکسیا والے سیکھنے والے]] اور [[special-education|معذور سیکھنے والے]] ایسے گروہ ہیں جن کی ضروریات AI نظام کی تشکیل میں عموماً نظرانداز ہوتی ہیں۔
+- **خصوصی آبادیاں:** [[special-education]]، [[neurodivergent-computing-students|نیورو ڈائیورجنٹ سیکھنے والے]]، [[dyslexlens-dyslexic-learners-ai|ڈسلیکسیا والے سیکھنے والے]] اور [[inclusive-learning|معذور سیکھنے والے]] ایسے گروہ ہیں جن کی ضروریات AI نظام کی تشکیل میں عموماً نظرانداز ہوتی ہیں۔
 - **Global South کے نقطہ ہائے نظر:** [[suacode-african-students-motivations|افریقی طلبہ کے محرکات]]، [[connected-ai-lesson-planning-vietnam|ویتنامی AI سبق کی منصوبہ بندی]] اور [[pre-service-science-teachers-ai-perceptions-2026|گھانائی اساتذہ کی قبولیت]] Global South کے وہ نقطہ ہائے نظر فراہم کرتے ہیں جو مغرب مرکز AIED تحقیق میں عموماً غائب ہیں۔ ادارتی سطح پر [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] دکھاتے ہیں کہ 45 نائجیرین یونیورسٹیوں میں AI انضمام ادارے کی عمر اور جغرافیے سے چلتا ہے، نہ کہ گورننس کی قسم سے، اور باہم تقویت دینے والے نیٹ ورک تعلقات اچھی طرح جڑے اداروں کو فائدہ مزید بڑھانے دیتے ہیں — یہ ثبوت کہ مساوات کے خلا ساختی طور پر دوبارہ پیدا ہوتے ہیں، صرف انفرادی رسائی سے نہیں۔
 - **عالمی صلاحیت:** شواہد دستاویز کرتے ہیں کہ جنریٹو AI کے فوائد ممالک اور اداروں میں غیر مساوی طور پر تقسیم ہوتے ہیں، اور [[ai-lifelong-learning-policy|AI اور تاحیات سیکھنے کی پالیسی]] ساختی سماجی و اقتصادی میلانات سے نمٹتی ہے۔
 - 72 اعلیٰ تعلیمی جانچ مطالعات کے PRISMA جائزے نے پایا کہ شواہد کی بنیاد جغرافیائی طور پر مرکوز ہے: آسٹریلیا اور برطانیہ نے مل کر 72 مطالعات میں سے 31 فراہم کیے، اور جنوبی امریکہ سے کوئی مطالعہ شناخت نہیں ہوا ([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]])۔

@@ -68,7 +68,7 @@ This resonates with critiques of weak [[governance|institutional]] [[assessment]
 - This is a conceptual proposal, not an empirical study: classroom-scored production has not been shown to predict GenAI-integrated product quality or early-career performance, so the attribute rests on argument rather than evidence.
 - The paper states an unresolved objection — production may be merely knowledge and skill exercised under a tools-permitted condition, an evidence class rather than an attribute — and notes it cannot be settled without further supportive or disconfirming research.
 - Scoring circularity is unaddressed: raters who see the artifact cannot score direction, evaluation, and warranting independently of finished-product quality, and a minimum knowledge floor would have to be measured rather than asserted.
-- Assessing a new category partly by oral defense could disadvantage non-native English speakers and [[special-education|students with disabilities]], and a production rubric can itself degrade into "language as camouflage."
+- Assessing a new category partly by oral defense could disadvantage non-native English speakers and [[inclusive-learning|students with disabilities]], and a production rubric can itself degrade into "language as camouflage."
 
 ## Citation
 

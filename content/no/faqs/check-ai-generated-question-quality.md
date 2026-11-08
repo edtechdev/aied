@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan jeg sjekke om AI-genererte quiz- og eksamensspørsmål faktisk er gode?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-10-30T16:00:00-04:00"
+updated: "2026-11-08T04:14:23-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-30T12:05:00-04:00"
+source_updated: "2026-11-05T21:45:00-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -46,7 +46,7 @@ Kort svar å gi en kollega: genererte spørsmål er kandidater, ikke en vurderin
 
 Generering er billig nok til at utdataformatet stille blir spesifikasjonen. Hvis notatene dine gir ryddige flervalgsoppgaver, ender du med å måle om studentene kan velge mellom plausible påstander, uansett hvilket utbytte emneplanen hevder.
 
-Spesifiser utbyttet først, deretter evidensen et tilfredsstillende svar ville gi, og så kunnskapen studentene forventes å bringe med seg. Ta med emnematerialet, misoppfatningene du forventer, eventuelle tillatte hjelpemidler og svarformatet. Hvis du vil at studentene skal tolke evidens, må oppgaven kreve tolkning, og det å legge ordet inn i et definisjonsspørsmål gjør ikke jobben. Et langt scenario kan fortsatt besvares gjennom én kjent formulering som avslører svaret.
+Spesifiser utbyttet først, deretter evidensen et tilfredsstillende svar ville gi, og så kunnskapen studentene forventes å bringe med seg. Ta med emnematerialet, [[misconceptions|misoppfatningene]] du forventer, eventuelle tillatte hjelpemidler og svarformatet. Hvis du vil at studentene skal tolke evidens, må oppgaven kreve tolkning, og det å legge ordet inn i et definisjonsspørsmål gjør ikke jobben. Et langt scenario kan fortsatt besvares gjennom én kjent formulering som avslører svaret.
 
 En vurderingsblåkopi er en tabell over utbytter mot oppgaver, og verdien ligger i at den avdekker hull før studentene gjør det. Den gjør også avveiningen synlig: hver oppgave du genererer fra det enkleste materialet, er en oppgave du ikke brukte på utbyttet du bryr deg mest om.
 
@@ -68,7 +68,7 @@ En andre modell kan hjelpe deg å oppdage problemer, og enighet mellom to modell
 
 ## Ikke la vanskelighetsetiketten bestemme
 
-Litteraturen om [[automated-question-generation|spørsmålsgenerering]] er mer nyttig om etikettenes svikt enn om genereringens suksess. [[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang (2026)]] undersøkte 378 forfatterlagde spørsmål i datavitenskapsemner, hvorav 311 ble tatt i bruk mot 54 studenter og 7 888 svar. Modellens etiketter for lett, middels og vanskelig korrelerte med de egne, samtidig genererte Bloom-nivåene på ρ = 0,90 og med empirisk oppgavevanskelighet på ρ = 0,06. Omtrent 70 % av oppgavene som var tatt i bruk, ble besvart riktig av alle studenter, noe som i praksis ikke lot det være variasjon for en vanskelighetsetikett å følge.
+Litteraturen om [[automated-question-generation|spørsmålsgenerering]] er mer nyttig om etikettenes svikt enn om genereringens suksess. [[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang (2026)]] undersøkte 378 forfatterlagde spørsmål i datavitenskapsemner, hvorav 311 ble tatt i bruk mot 54 studenter og 7 888 svar. Modellens etiketter for lett, middels og vanskelig korrelerte med de egne, samtidig genererte Bloom-nivåene på ρ = 0,90 og med empirisk [[item-response-theory|oppgavevanskelighet]] på ρ = 0,06. Omtrent 70 % av oppgavene som var tatt i bruk, ble besvart riktig av alle studenter, noe som i praksis ikke lot det være variasjon for en vanskelighetsetikett å følge.
 
 To lærdommer følger. For det første er vanskelighet en egenskap ved samspillet mellom en oppgave og en populasjon, så ingen etikett laget før oppgaven er administrert, kan stoles på som en målt verdi. For det andre er en bank med oppgaver alle svarer riktig på, ikke en lett vurdering, men en ubrukelig en: den bærer nesten ingen informasjon om hvem som kan hva.
 
@@ -91,6 +91,9 @@ Revider, og ta vare på protokollen: den godkjente versjonen, utbyttet den tjene
 I et innføringsemne i sosiologi kan utbyttet være å skille en strukturell forklaring fra en individuell. En svak oppgave ber studentene definere «strukturell», noe som måler ordforrådsgjenkjenning. En sterkere kandidat gir et kort scenario om en familie og en ansettelsesbeslutning, og spør deretter hvilken forklaring som best identifiserer en strukturell begrensning, med distraktorer som representerer plausible, men ulike tolkninger.
 
 Faglæreren kontrollerer at scenariet faktisk støtter fasiten, at ingen to alternativer uttrykker samme idé, og at svaret ikke avhenger av terminologi emnet aldri har innført. Et oppfølgingsspørsmål på én linje, «hvilken detalj støtter valget ditt?», får fram resonnementet som det valgte alternativet skjuler. Tilpasningen er ikke testet som oppgaveformat, og verdien er smalere: gjennomgangsspørsmålene over kan besvares før en oppgave administreres, og en dårlig fasit kan repareres før studentene ser den.
+
+Når studenter signaliserer misnøye i stor skala, har signalet struktur. I en analyse av 5 214 211 økter med øvingsspørsmål presentert i en lærebokplattform kom tommel ned på 2,00 per 1 000 økter mot 3,31 tommel opp, og bare 22 844 av 809 848 spørsmål fikk noen gang en vurdering ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson mfl., 2025]]). Mønsteret i stemmene var ikke tilfeldig: spørsmål som krevde adverb som svar, fikk 5,23 tommel ned per 1 000 mot 1,76 for adjektivsvar, og setningsviktighet (oddsforhold 2,38) og likhet i svartekst (1,64) påvirket også vurderingen. Forfatternes justerte tommelfingerregel var omtrent 1,62 misliker per 1 000 når begge viktighetssignalene var til stede. Det praktiske poenget er at studentvurderinger er en treg, men reell målekanal: en plattform som fjerner spørsmål som gjentatte ganger mislikes, lukker løkken, og en faglærer som prøvekjører noen få oppgaver, får samme signal raskere ved å spørre hvilken detalj studenten var i tvil om.
+
 
 For studenter som genererer egne øvingsspørsmål, gjelder samme regel på deres nivå: forsøk oppgaven, kontroller forklaringen mot emnets kilder, og ta de uløselige tilfellene med til noen som kan faget. [[study-with-ai|Øvingspraksis]] som trener studenter til å godta genererte fasiter ukritisk, lærer dem den gale vanen.
 
