@@ -4,20 +4,20 @@ created: "2026-10-24T05:33:18-04:00"
 updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "Uma ferramenta gratuita de navegador que aplica uma versão escrita e cronometrada de uma defesa oral de código a cada estudante de um curso de programação, propondo notas com evidências citadas para o instrutor aprovar."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-11-04T17:55:00-05:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

@@ -1,9 +1,9 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T04:49:27-05:00"
 type: resource
-summary: "Infrastructură AI deschisă din inițiativa educațională a lui Mark Zuckerberg și Priscilla Chan: un graf de cunoaștere al standardelor, programelor școlare și datelor din știința învățării, evaluatoare pentru judecarea ieșirii LLM și competențe de agent independente de model pentru fluxurile de lucru ale profesorilor."
+summary: "Infrastructură AI deschisă pentru produse educaționale: un graf de cunoaștere al standardelor și programelor școlare, evaluatoare pentru punctarea ieșirii LLM, competențe de agent independente de model pentru fluxurile de lucru ale profesorilor și Curriculum Sync pentru încărcarea programelor școlare într-un sistem de management al învățării."
 url: https://learningcommons.org/
 source_code: https://github.com/learning-commons-org
 author: "Learning Commons"
@@ -18,7 +18,7 @@ audience: [software developers, educational technology developers, curriculum de
 level: [k 12]
 confidence: high
 translation_of: resources/learning-commons
-source_updated: "2026-11-04T18:11:18-05:00"
+source_updated: "2026-11-05T02:05:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -30,19 +30,25 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-**Learning Commons** este inițiativa educațională a lui Mark Zuckerberg și Priscilla Chan, lansată în 2025 pentru a duce munca Chan Zuckerberg Initiative în știința învățării în infrastructura pe care se construiesc efectiv produsele edtech. Argumentul ei este infrastructural, nu pedagogic: cercetarea există, standardele academice există și există programe școlare de calitate, dar ele stau în sisteme separate, așa că dezvoltatorii construiesc pe ce este mai ușor de accesat. Organizația publică trei instrumente deschise pe GitHub — un Knowledge Graph, un set de Evaluators și [[agentic-ai|Agent Skills]] — și operează o platformă care adaugă Curriculum Sync pentru încărcarea programelor școlare într-un [[edtech-platform|sistem de management al învățării]].
+**Learning Commons** publică trei instrumente deschise pentru a pune funcții AI peste conținut curricular real — un **[[knowledge-graph|Knowledge Graph]]** de standarde academice, programe școlare și cercetare în știința învățării, o bibliotecă de **Evaluators** pentru judecarea textului generat și **[[agentic-ai|Agent Skills]]** independente de model pentru fluxurile de lucru obișnuite ale profesorilor — și operează o platformă care adaugă Curriculum Sync pentru încărcarea programelor școlare într-un [[edtech-platform|sistem de management al învățării]].
 
 ## Ce poți face cu el
 
-**Knowledge Graph** modelează standardele academice, programele școlare și cercetarea în știința învățării ca entități și relații într-o singură schemă comună, astfel încât un instrument să poată alinia conținutul generat la un standard fără a-și construi propriul pipeline de date. **Evaluators** măsoară atribute ale [[llm|ieșirii LLM]] prin lentila științei învățării — complexitatea textului, [[feedback]], alinierea la standardele academice și competențe durabile — și vin cu SDK-uri Python și TypeScript, publicate pe npm și PyPI, pentru a puncta conținut generat sau a compara modele candidate. **Agent Skills** împachetează instrucțiuni, referințe și bariere de siguranță pentru fluxurile de lucru obișnuite ale profesorilor într-un format deschis, independent de model: o verificare a înțelegerii, diferențierea lecțiilor pe niveluri, planuri de lecție aliniate la standarde și pregătirea lecțiilor. În practică, graful este cel care le face credibile pe celelalte două: alinierea conținutului este afirmația, iar graful este referința față de care este verificată.
+**Aliniază conținutul generat la un standard.** Knowledge Graph modelează standarde, [[curriculum-design|programe școlare]] și cercetare ca entități și relații într-o singură schemă comună. Un produs poate căuta standardul pe care ar trebui să îl vizeze un element, poate parcurge relații de prerechizit sau poate ancora conținutul unui tutor în programa pe care ar trebui să o predea, fără a-și construi și întreține propriul pipeline de date.
+
+**Punctează ieșirea generată înainte ca studenții să o vadă.** **Evaluators** măsoară atribute ale [[llm|ieșirii LLM]] — complexitatea textului, [[feedback]], alinierea la standarde și competențe durabile — și sunt livrate ca SDK-uri Python și TypeScript pe npm și PyPI. În practică funcționează ca o verificare de regresie când se schimbă un prompt sau un model, ca o comparație între modele candidate sau ca un filtru pe elemente și explicații generate.
+
+**Împachetează un flux de lucru al profesorului.** **Agent Skills** grupează instrucțiuni, referințe și gărzi de siguranță într-un format deschis, independent de model: o verificare a înțelegerii, diferențierea lecțiilor pe niveluri, un plan de lecție aliniat la standarde și pregătirea lecțiilor. Ele pot fi introduse într-un framework de agenți sau citite ca șabloane lucrate pentru câtă structură are nevoie un flux de lucru școlar de încredere.
+
+**Mută un program școlar într-un sistem de management al învățării.** Curriculum Sync este pasul de platformă care transformă o hartă a standardelor în ceva ce un curs poate folosi efectiv în LMS.
 
 ## Pentru cine este
 
-Dezvoltatori care construiesc funcții AI în produse de [[curriculum-design|program școlar]] și de evaluare, și echipele de programe sau standarde care furnizează datele la care acele produse se aliniază. Instructorii pot folosi competențele de agent pe cont propriu, dar cadrul propriu al depozitului este infrastructură pentru cei care livrează instrumente.
+Dezvoltatori care construiesc funcții AI în produse de programe școlare și de [[assessment|evaluare]], și echipele de programe sau standarde care furnizează datele la care acele produse se aliniază. [[teacher-role|Instructorii]] pot folosi Agent Skills pe cont propriu, dar cadrul propriu al depozitului este infrastructură pentru cei care livrează instrumente.
 
 ## Note și precauții
 
-Faptul că este deschis la [[open-source|sursă]] nu face datele deschise. Codul Knowledge Graph este MIT, în timp ce fiecare set de date are propria etichetă de acces — Open, Open + Gated sau Gated — iar conținutul Gated nu este acoperit în mod explicit de licențele deschise la care se referă depozitul, așa că verifică catalogul seturilor de date înainte de a presupune drepturi de reutilizare. Codul Evaluators este MIT, iar conținutul prompturilor CC BY 4.0, dar corpusurile adnotate CLEAR și PERSUADE 2.0 pe care le folosește sunt CC BY-NC-SA 4.0. Platforma și seturile de date din spatele ei necesită un cont. Activitatea depozitului citită la 2026-11-04: 167 stele pentru Knowledge Graph, 88 pentru Evaluators, 41 pentru Agent Skills. Inițiativa este finanțată de CZI, iar modul ei de a încadra problema este al finanțatorului.
+Faptul că este [[open-source|sursă deschisă]] nu face datele deschise. Codul Knowledge Graph și Evaluators este MIT, iar Agent Skills este Apache-2.0, în timp ce fiecare set de date are propria etichetă de acces — Open, Open + Gated sau Gated — iar conținutul Gated nu este acoperit de licențele deschise la care se referă depozitul, așa că verifică catalogul seturilor de date înainte de a presupune drepturi de reutilizare. Conținutul prompturilor Evaluators este CC BY 4.0, dar corpusurile adnotate CLEAR și PERSUADE 2.0 pe care le folosește sunt CC BY-NC-SA 4.0. Platforma și seturile de date din spatele ei necesită un cont.
 
 ## Concepte conexe
 

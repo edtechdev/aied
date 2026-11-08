@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
 source_updated: "2026-11-04T16:09:41-05:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

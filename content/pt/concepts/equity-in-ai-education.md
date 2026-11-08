@@ -13,7 +13,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

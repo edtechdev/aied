@@ -1,9 +1,9 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T04:49:27-05:00"
 type: resource
-summary: "Open AI-infrastructuur van het onderwijsinitiatief van Mark Zuckerberg en Priscilla Chan: een knowledge graph van standaarden, curricula en leerwetenschapsdata, evaluators om LLM-output te beoordelen, en modelagnostische agentskills voor leraarsworkflows."
+summary: "Open AI-infrastructuur voor onderwijsproducten: een knowledge graph van standaarden en curricula, evaluators om LLM-output te beoordelen, modelagnostische agentskills voor leraarsworkflows en Curriculum Sync om curricula in een learning management system te laden."
 url: https://learningcommons.org/
 source_code: https://github.com/learning-commons-org
 author: "Learning Commons"
@@ -18,7 +18,7 @@ audience: [software developers, educational technology developers, curriculum de
 level: [k 12]
 confidence: high
 translation_of: resources/learning-commons
-source_updated: "2026-11-04T18:11:18-05:00"
+source_updated: "2026-11-05T02:05:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -30,19 +30,25 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-**Learning Commons** is het onderwijsinitiatief van Mark Zuckerberg en Priscilla Chan, in 2025 gestart om het leerwetenschapswerk van de Chan Zuckerberg Initiative naar de infrastructuur te brengen waarop edtech-producten daadwerkelijk worden gebouwd. Het argument is infrastructureel, niet pedagogisch: onderzoek bestaat, academische standaarden bestaan en hoogwaardige curricula bestaan, maar ze zitten in gescheiden systemen, dus ontwikkelaars bouwen op wat het gemakkelijkst bereikbaar is. De organisatie publiceert drie open tools op GitHub — een Knowledge Graph, een set Evaluators en [[agentic-ai|Agent Skills]] — en beheert een platform dat Curriculum Sync toevoegt om curricula in een [[edtech-platform|learning management system]] te laden.
+**Learning Commons** publiceert drie open tools om AI-functies bovenop echte curriculumcontent te zetten — een **[[knowledge-graph|Knowledge Graph]]** van academische standaarden, curricula en leerwetenschappelijk onderzoek, een bibliotheek met **Evaluators** om gegenereerde tekst te beoordelen, en modelagnostische **[[agentic-ai|Agent Skills]]** voor gangbare leraarsworkflows — en beheert een platform dat Curriculum Sync toevoegt om curricula in een [[edtech-platform|learning management system]] te laden.
 
 ## Wat u ermee kunt doen
 
-De **Knowledge Graph** modelleert academische standaarden, curricula en leerwetenschappelijk onderzoek als entiteiten en relaties onder één gedeeld schema, zodat een tool gegenereerde content aan een standaard kan uitlijnen zonder een eigen datapijplijn te bouwen. De **Evaluators** meten kenmerken van [[llm|LLM-output]] door een leerwetenschappelijke lens — tekstcomplexiteit, [[feedback]], aansluiting op academische standaarden en duurzame vaardigheden — en worden geleverd met Python- en TypeScript-SDK's, gepubliceerd op npm en PyPI, om gegenereerde content te scoren of kandidaatmodellen te vergelijken. **Agent Skills** verpakken instructies, referenties en guardrails voor gangbare leraarsworkflows in een open, modelagnostisch formaat: een begripscheck, gedifferentieerde lessen in niveaus, standaardgerichte lesplannen en lesvoorbereiding. In de praktijk maakt de graaf de andere twee geloofwaardig: contentuitlijning is de claim, en de graaf is de referentie waaraan die wordt getoetst.
+**Lijn gegenereerde content uit op een standaard.** De Knowledge Graph modelleert standaarden, [[curriculum-design|curricula]] en onderzoek als entiteiten en relaties onder één gedeeld schema. Een product kan de standaard opzoeken waarop een item zich moet richten, prerequisite-relaties doorlopen, of de content van een tutor verankeren in het curriculum dat die hoort te onderwijzen, zonder een eigen datapijplijn te bouwen en te onderhouden.
+
+**Scoor gegenereerde output voordat studenten die zien.** De **Evaluators** meten kenmerken van [[llm|LLM-output]] — tekstcomplexiteit, [[feedback]], aansluiting op standaarden en duurzame vaardigheden — en worden geleverd als Python- en TypeScript-SDK's op npm en PyPI. In de praktijk werken ze als regressiecontrole wanneer een prompt of model verandert, als vergelijking tussen kandidaatmodellen, of als filter op gegenereerde items en uitleg.
+
+**Verpak een leraarsworkflow.** **Agent Skills** bundelen instructies, referenties en guardrails in een open, modelagnostisch formaat: een begripscheck, gedifferentieerde lessen in niveaus, een standaardgericht lesplan en lesvoorbereiding. Ze kunnen in een agentframework worden geplaatst of gelezen worden als uitgewerkte templates voor hoeveel structuur een betrouwbare klasworkflow nodig heeft.
+
+**Verplaats een curriculum naar een learning management system.** Curriculum Sync is de platformstap die een standaardenkaart omzet in iets wat een cursus daadwerkelijk in de LMS kan gebruiken.
 
 ## Voor wie het is
 
-Ontwikkelaars die AI-functies bouwen in [[curriculum-design|curriculum]]- en beoordelingsproducten, en de curriculum- of standaardteams die de data leveren waarop die producten aansluiten. Docenten kunnen de agentskills zelfstandig gebruiken, maar de framing van de repository zelf is infrastructuur voor mensen die tools leveren.
+Ontwikkelaars die AI-functies bouwen in producten voor curriculum en [[assessment|beoordeling]], en de curriculum- of standaardteams die de data leveren waarop die producten aansluiten. [[teacher-role|Docenten]] kunnen de Agent Skills zelfstandig gebruiken, maar de framing van de repository zelf is infrastructuur voor mensen die tools leveren.
 
 ## Opmerkingen en kanttekeningen
 
-Open zijn in [[open-source|broncode]] maakt de data niet open. De code van de Knowledge Graph is MIT, terwijl elke dataset een eigen toegangslabel draagt — Open, Open + Gated of Gated — en Gated-content valt expliciet buiten de open licenties waarnaar de repository verwijst, dus controleer de datasetcatalogus voordat u hergebruikrechten aanneemt. De code van de Evaluators is MIT en de promptinhoud CC BY 4.0, maar de geannoteerde CLEAR- en PERSUADE 2.0-corpora die ze gebruiken zijn CC BY-NC-SA 4.0. Het platform en de datasets erachter vereisen een account. Repositoryactiviteit zoals gelezen op 2026-11-04: 167 sterren voor de Knowledge Graph, 88 voor Evaluators, 41 voor Agent Skills. Het initiatief wordt gefinancierd door CZI, en de framing van het probleem is die van de financier zelf.
+Open zijn in [[open-source|broncode]] maakt de data niet open. De code van de Knowledge Graph en de Evaluators is MIT en Agent Skills is Apache-2.0, terwijl elke dataset een eigen toegangslabel draagt — Open, Open + Gated of Gated — en Gated-content valt niet onder de open licenties waarnaar de repository verwijst, dus controleer de datasetcatalogus voordat u hergebruikrechten aanneemt. De promptinhoud van de Evaluators is CC BY 4.0, maar de geannoteerde CLEAR- en PERSUADE 2.0-corpora die ze gebruiken zijn CC BY-NC-SA 4.0. Het platform en de datasets erachter vereisen een account.
 
 ## Gerelateerde concepten
 

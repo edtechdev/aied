@@ -10,7 +10,7 @@ research_method: [literature review]
 audience: [instructors]
 translation_of: faqs/top-10-findings-ai-education-instructors
 source_updated: "2026-10-28T11:06:17-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

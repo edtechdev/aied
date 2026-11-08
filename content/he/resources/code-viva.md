@@ -3,12 +3,12 @@ title: "Code Viva"
 created: "2026-10-30T19:17:47-04:00"
 type: resource
 summary: "כלי דפדפן חינמי שמפעיל גרסה כתובה ומתוזמנת של הגנה בעל פה על קוד לכל סטודנט בקורס תכנות, ומציע ציונים עם ראיות מצוטטות לאישור המרצה."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
@@ -25,7 +25,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 ---
 

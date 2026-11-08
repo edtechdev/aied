@@ -12,7 +12,7 @@ level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
 source_updated: "2026-10-26T11:40:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

@@ -3,12 +3,12 @@ title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
 type: resource
 summary: "أداة متصفح مجانية تُجري نسخة مكتوبة ومحدّدة بوقت من مناقشة شفهية للشيفرة أمام كل طالب في مقرر برمجة، وتقترح درجات مع أدلة مقتبسة ليعتمدها المدرّس."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
@@ -29,7 +29,7 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 
 ---

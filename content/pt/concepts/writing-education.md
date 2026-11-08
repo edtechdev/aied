@@ -13,7 +13,7 @@ connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
 source_updated: "2026-10-29T10:45:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

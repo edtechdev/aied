@@ -21,7 +21,7 @@ confidence: high
 connected_resources: [education-agent-skills]
 translation_of: resources/claw-ed
 source_updated: "2026-09-23T21:05:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

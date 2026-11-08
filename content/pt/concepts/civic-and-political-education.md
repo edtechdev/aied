@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
 source_updated: "2026-11-04T18:52:58-05:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

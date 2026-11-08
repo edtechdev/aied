@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
 source_updated: "2026-10-30T09:15:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

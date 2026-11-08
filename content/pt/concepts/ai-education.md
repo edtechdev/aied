@@ -14,7 +14,7 @@ confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
 source_updated: "2026-10-28T18:53:23-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

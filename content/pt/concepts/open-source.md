@@ -15,7 +15,7 @@ connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onm
 methods: [benchmark]
 translation_of: concepts/open-source
 source_updated: "2026-10-28T19:13:23-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

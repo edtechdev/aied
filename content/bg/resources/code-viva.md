@@ -3,19 +3,19 @@ title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
 type: resource
 summary: "Безплатен инструмент в браузъра, който провежда писмена, ограничена във времето защита на код за всеки студент в курс по програмиране и предлага оценки с цитирани доказателства за одобрение от преподавателя."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:

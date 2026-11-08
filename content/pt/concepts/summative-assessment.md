@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
 source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

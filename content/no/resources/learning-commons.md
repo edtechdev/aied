@@ -1,9 +1,9 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T04:49:27-05:00"
 type: resource
-summary: "Åpen AI-infrastruktur fra Mark Zuckerbergs og Priscilla Chans utdanningsinitiativ: en kunnskapsgraf over standarder, læreplaner og læringsvitenskapelige data, evaluatorer for å vurdere LLM-utdata, og modellagnostiske agentferdigheter for lærerarbeidsflyter."
+summary: "Åpen AI-infrastruktur for utdanningsprodukter: en kunnskapsgraf over standarder og læreplaner, evaluatorer for å vurdere LLM-utdata, modellagnostiske agentferdigheter for lærerarbeidsflyter og Curriculum Sync for å laste læreplaner inn i et læringsstyringssystem."
 url: https://learningcommons.org/
 source_code: https://github.com/learning-commons-org
 author: "Learning Commons"
@@ -18,7 +18,7 @@ audience: [software developers, educational technology developers, curriculum de
 level: [k 12]
 confidence: high
 translation_of: resources/learning-commons
-source_updated: "2026-11-04T18:11:18-05:00"
+source_updated: "2026-11-05T02:05:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,19 +30,25 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-**Learning Commons** er Mark Zuckerbergs og Priscilla Chans utdanningsinitiativ, lansert i 2025 for å føre Chan Zuckerberg Initiatives arbeid med læringsvitenskap inn i infrastrukturen som edtech-produkter faktisk bygges på. Argumentet er infrastrukturelt snarere enn pedagogisk: forskning finnes, akademiske standarder finnes, og læreplaner av høy kvalitet finnes, men de ligger i separate systemer, så utviklere bygger på det som er lettest å nå. Organisasjonen publiserer tre åpne verktøy på GitHub — en Knowledge Graph, et sett med Evaluators og [[agentic-ai|Agent Skills]] — og driver en plattform som legger til Curriculum Sync for å laste læreplaner inn i et [[edtech-platform|læringsstyringssystem]].
+**Learning Commons** publiserer tre åpne verktøy for å legge AI-funksjoner oppå reelt læreplaninnhold — en **[[knowledge-graph|Knowledge Graph]]** over akademiske standarder, læreplaner og læringsvitenskapelig forskning, et bibliotek med **Evaluators** for å vurdere generert tekst, og modellagnostiske **[[agentic-ai|Agent Skills]]** for vanlige lærerarbeidsflyter — og driver en plattform som legger til Curriculum Sync for å laste læreplaner inn i et [[edtech-platform|læringsstyringssystem]].
 
 ## Hva du kan gjøre med den
 
-**Knowledge Graph** modellerer akademiske standarder, læreplaner og læringsvitenskapelig forskning som entiteter og relasjoner under ett felles skjema, slik at et verktøy kan tilpasse generert innhold til en standard uten å bygge sin egen datapipeline. **Evaluators** måler egenskaper ved [[llm|LLM-utdata]] gjennom en læringsvitenskapelig linse — tekstkompleksitet, [[feedback]], tilpasning til akademiske standarder og varige ferdigheter — og leveres med Python- og TypeScript-SDK-er, publisert på npm og PyPI, for å score generert innhold eller sammenligne kandidatmodeller. **Agent Skills** pakker instruksjoner, referanser og guardrails for vanlige lærerarbeidsflyter i et åpent, modellagnostisk format: en forståelsessjekk, nivådelt differensiering av undervisningsopplegg, standardtilpassede leksjonsplaner og leksjonsforberedelse. I praksis er grafen det som gjør de to andre troverdige: innholdstilpasning er påstanden, og grafen er referansen den kontrolleres mot.
+**Tilpass generert innhold til en standard.** Knowledge Graph modellerer standarder, [[curriculum-design|læreplaner]] og forskning som entiteter og relasjoner under ett felles skjema. Et produkt kan slå opp standarden et element skal rettes mot, følge forutsetningsrelasjoner, eller forankre en tutors innhold i læreplanen den skal undervise i, uten å bygge og vedlikeholde sin egen datapipeline.
+
+**Poengsett generert utdata før elevene ser det.** **Evaluators** måler egenskaper ved [[llm|LLM-utdata]] — tekstkompleksitet, [[feedback]], standardtilpasning og varige ferdigheter — og leveres som Python- og TypeScript-SDK-er på npm og PyPI. I praksis fungerer de som en regresjonssjekk når en prompt eller modell endres, som en sammenligning mellom kandidatmodeller, eller som et filter på genererte elementer og forklaringer.
+
+**Pakk en lærerarbeidsflyt.** **Agent Skills** samler instruksjoner, referanser og guardrails i et åpent, modellagnostisk format: en forståelsessjekk, nivådelt differensiering av undervisningsopplegg, en standardtilpasset leksjonsplan og leksjonsforberedelse. De kan settes inn i et agentrammeverk eller leses som gjennomarbeidede maler for hvor mye struktur en pålitelig klasseromsarbeidsflyt trenger.
+
+**Flytt en læreplan inn i et læringsstyringssystem.** Curriculum Sync er plattformtrinnet som gjør et standardkart om til noe et kurs faktisk kan bruke i LMS-et.
 
 ## Hvem den er for
 
-Utviklere som bygger AI-funksjoner inn i [[curriculum-design|læreplan]]- og vurderingsprodukter, og læreplans- eller standardteamene som leverer dataene produktene tilpasses etter. Undervisere kan bruke agentferdighetene på egen hånd, men repositoriets egen innramming er infrastruktur for folk som lager verktøy.
+Utviklere som bygger AI-funksjoner inn i produkter for læreplan og [[assessment|vurdering]], og læreplans- eller standardteamene som leverer dataene produktene tilpasses etter. [[teacher-role|Undervisere]] kan bruke Agent Skills på egen hånd, men repositoriets egen innramming er infrastruktur for folk som lager verktøy.
 
 ## Merknader og forbehold
 
-At noe er åpent i [[open-source|kildekode]], gjør ikke dataene åpne. Koden i Knowledge Graph er MIT, mens hvert datasett har sin egen tilgangsetikett — Open, Open + Gated eller Gated — og Gated-innhold er uttrykkelig ikke dekket av de åpne lisensene repositoriet viser til, så sjekk datasettkatalogen før du antar gjenbruksrettigheter. Evaluator-koden er MIT og promptinnholdet CC BY 4.0, men de annoterte CLEAR- og PERSUADE 2.0-korpusene den bruker, er CC BY-NC-SA 4.0. Plattformen og datasettene bak den krever en konto. Repositorieaktivitet slik den ble lest 2026-11-04: 167 stjerner for Knowledge Graph, 88 for Evaluators, 41 for Agent Skills. Initiativet er finansiert av CZI, og dets innramming av problemet er finansierens egen.
+At noe er åpent i [[open-source|kildekode]], gjør ikke dataene åpne. Koden i Knowledge Graph og Evaluators er MIT og Agent Skills er Apache-2.0, mens hvert datasett har sin egen tilgangsetikett — Open, Open + Gated eller Gated — og Gated-innhold dekkes ikke av de åpne lisensene repositoriet viser til, så sjekk datasettkatalogen før du antar gjenbruksrettigheter. Promptinnholdet i Evaluators er CC BY 4.0, men de annoterte CLEAR- og PERSUADE 2.0-korpusene de bruker, er CC BY-NC-SA 4.0. Plattformen og datasettene bak den krever en konto.
 
 ## Tilknyttede begreper
 

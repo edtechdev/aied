@@ -12,7 +12,7 @@ connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiet
 confidence: high
 translation_of: concepts/student-experience
 source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

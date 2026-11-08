@@ -9,7 +9,7 @@ confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
 source_updated: "2026-10-26T09:45:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

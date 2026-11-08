@@ -11,7 +11,7 @@ created: "2026-10-27T03:54:41-04:00"
 updated: "2026-10-30T21:00:00-04:00"
 translation_of: concepts/statistics-and-data-science-education
 source_updated: "2026-10-27T03:57:35-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

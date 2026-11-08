@@ -13,7 +13,7 @@ confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
 source_updated: "2026-10-29T05:15:49-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

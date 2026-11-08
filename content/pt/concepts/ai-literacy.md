@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

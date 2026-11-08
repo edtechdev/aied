@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, administrators, faculty developers
 level: [higher ed]
 source_updated: "2026-11-06T13:58:13-05:00"
 translation_of: faqs/prepare-students-ai-careers
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

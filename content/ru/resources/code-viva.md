@@ -3,12 +3,12 @@ title: "Code Viva"
 created: "2026-11-01T05:00:00-04:00"
 type: resource
 summary: "Бесплатный браузерный инструмент, который проводит письменную версию устной защиты кода с ограничением по времени для каждого студента курса программирования, предлагая оценки с цитируемыми доказательствами на утверждение преподавателю."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*

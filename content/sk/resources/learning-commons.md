@@ -1,9 +1,9 @@
 ---
 title: "Learning Commons"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T04:49:27-05:00"
 type: resource
-summary: "Otvorená AI infraštruktúra zo vzdelávacej iniciatívy Marka Zuckerberga a Priscilly Chan: graf znalostí o štandardoch, vzdelávacích programoch a dátach z vedy o učení, evaluátory na posudzovanie výstupu LLM a agentové zručnosti nezávislé od modelu pre pracovné postupy učiteľov."
+summary: "Otvorená AI infraštruktúra pre vzdelávacie produkty: graf znalostí o štandardoch a vzdelávacích programoch, evaluátory na skórovanie výstupu LLM, agentové zručnosti nezávislé od modelu pre pracovné postupy učiteľov a Curriculum Sync na načítanie vzdelávacích programov do systému riadenia učenia."
 url: https://learningcommons.org/
 source_code: https://github.com/learning-commons-org
 author: "Learning Commons"
@@ -18,7 +18,7 @@ audience: [software developers, educational technology developers, curriculum de
 level: [k 12]
 confidence: high
 translation_of: resources/learning-commons
-source_updated: "2026-11-04T18:11:18-05:00"
+source_updated: "2026-11-05T02:05:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -30,19 +30,25 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-**Learning Commons** je vzdelávacia iniciatíva Marka Zuckerberga a Priscilly Chan, spustená v roku 2025, aby preniesla prácu Chan Zuckerberg Initiative v oblasti vedy o učení do infraštruktúry, na ktorej sa edtech produkty skutočne stavajú. Jej argument je infraštruktúrny, nie pedagogický: výskum existuje, akademické štandardy existujú a existujú aj kvalitné vzdelávacie programy, ale sedia v oddelených systémoch, takže vývojári stavajú na tom, čo je najľahšie dostupné. Organizácia publikuje tri otvorené nástroje na GitHube — Knowledge Graph, sadu Evaluators a [[agentic-ai|Agent Skills]] — a prevádzkuje platformu, ktorá pridáva Curriculum Sync na načítanie vzdelávacích programov do [[edtech-platform|systému riadenia učenia]].
+**Learning Commons** publikuje tri otvorené nástroje na vkladanie AI funkcií nad reálny vzdelávací obsah — **[[knowledge-graph|Knowledge Graph]]** akademických štandardov, vzdelávacích programov a výskumu vedy o učení, knižnicu **Evaluators** na posudzovanie generovaného textu a **[[agentic-ai|Agent Skills]]** nezávislé od modelu pre bežné pracovné postupy učiteľov — a prevádzkuje platformu, ktorá pridáva Curriculum Sync na načítanie vzdelávacích programov do [[edtech-platform|systému riadenia učenia]].
 
 ## Čo s tým môžete robiť
 
-**Knowledge Graph** modeluje akademické štandardy, vzdelávacie programy a výskum vedy o učení ako entity a vzťahy v jednej spoločnej schéme, takže nástroj môže zladiť generovaný obsah so štandardom bez toho, aby si staval vlastný dátový kanál. **Evaluators** merajú atribúty [[llm|výstupu LLM]] cez optiku vedy o učení — zložitosť textu, [[feedback]], zladenie s akademickými štandardmi a trvalé zručnosti — a dodávajú sa s Python a TypeScript SDK, publikovanými na npm a PyPI, na skórovanie generovaného obsahu alebo porovnávanie kandidátskych modelov. **Agent Skills** balia inštrukcie, referencie a mantinely pre bežné pracovné postupy učiteľov v otvorenom formáte nezávislom od modelu: kontrola porozumenia, viacúrovňová diferenciácia hodín, plány hodín zladené so štandardmi a príprava hodín. V praxi je to graf, čo robí tie druhé dve dôveryhodnými: zladenie obsahu je tvrdenie a graf je referencia, voči ktorej sa overuje.
+**Zlaďte generovaný obsah so štandardom.** Knowledge Graph modeluje štandardy, [[curriculum-design|vzdelávacie programy]] a výskum ako entity a vzťahy v jednej spoločnej schéme. Produkt môže vyhľadať štandard, na ktorý má položka mieriť, prejsť vzťahy predpokladov alebo ukotviť obsah tútora v programe, ktorý má učiť, bez toho, aby si staval a udržiaval vlastný dátový kanál.
+
+**Ohodnoťte generovaný výstup skôr, než ho študenti uvidia.** **Evaluators** merajú atribúty [[llm|výstupu LLM]] — zložitosť textu, [[feedback]], zladenie so štandardmi a trvalé zručnosti — a dodávajú sa ako Python a TypeScript SDK na npm a PyPI. V praxi slúžia ako regresná kontrola pri zmene promptu alebo modelu, ako porovnanie kandidátskych modelov alebo ako filter generovaných položiek a vysvetlení.
+
+**Zabaľte pracovný postup učiteľa.** **Agent Skills** zväzujú inštrukcie, referencie a mantinely v otvorenom formáte nezávislom od modelu: kontrola porozumenia, viacúrovňová diferenciácia hodín, plán hodiny zladený so štandardmi a príprava hodín. Dajú sa vložiť do agentového rámca alebo čítať ako vypracované šablóny toho, koľko štruktúry potrebuje spoľahlivý triedny pracovný postup.
+
+**Presuňte vzdelávací program do systému riadenia učenia.** Curriculum Sync je platformový krok, ktorý mení mapu štandardov na niečo, čo kurz môže v LMS skutočne použiť.
 
 ## Pre koho je to určené
 
-Vývojári, ktorí stavajú AI funkcie do produktov [[curriculum-design|vzdelávacích programov]] a hodnotenia, a tímy pre vzdelávacie programy alebo štandardy, ktoré dodávajú dáta, na ktoré sa tieto produkty zlaďujú. Inštruktori môžu agentové zručnosti používať sami, ale rámovanie samotného repozitára je infraštruktúra pre ľudí, ktorí dodávajú nástroje.
+Vývojári, ktorí stavajú AI funkcie do produktov vzdelávacích programov a [[assessment|hodnotenia]], a tímy pre vzdelávacie programy alebo štandardy, ktoré dodávajú dáta, na ktoré sa tieto produkty zlaďujú. [[teacher-role|Inštruktori]] môžu Agent Skills používať sami, ale rámovanie samotného repozitára je infraštruktúra pre ľudí, ktorí dodávajú nástroje.
 
 ## Poznámky a výhrady
 
-To, že je niečo otvorené v [[open-source|zdrojovom kóde]], nerobí dáta otvorenými. Kód Knowledge Graph je MIT, pričom každá dátová sada nesie vlastný štítok prístupu — Open, Open + Gated alebo Gated — a obsah Gated výslovne nie je pokrytý otvorenými licenciami, na ktoré sa repozitár odvoláva, preto si pred predpokladaním práv na opakované použitie skontrolujte katalóg dátových sád. Kód Evaluators je MIT a jeho obsah promptov CC BY 4.0, ale anotované korpusy CLEAR a PERSUADE 2.0, ktoré používa, sú CC BY-NC-SA 4.0. Platforma a dátové sady za ňou vyžadujú účet. Aktivita repozitára prečítaná 2026-11-04: 167 hviezd pre Knowledge Graph, 88 pre Evaluators, 41 pre Agent Skills. Iniciatívu financuje CZI a jej rámovanie problému je rámovaním financovateľa.
+To, že je niečo [[open-source|open source]], nerobí dáta otvorenými. Kód Knowledge Graph a Evaluators je MIT a Agent Skills je Apache-2.0, pričom každá dátová sada nesie vlastný štítok prístupu — Open, Open + Gated alebo Gated — a obsah Gated nie je pokrytý otvorenými licenciami, na ktoré sa repozitár odvoláva, preto si pred predpokladaním práv na opakované použitie skontrolujte katalóg dátových sád. Obsah promptov Evaluators je CC BY 4.0, ale anotované korpusy CLEAR a PERSUADE 2.0, ktoré používa, sú CC BY-NC-SA 4.0. Platforma a dátové sady za ňou vyžadujú účet.
 
 ## Prepojené pojmy
 

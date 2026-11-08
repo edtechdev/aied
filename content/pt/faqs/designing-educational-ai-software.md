@@ -9,7 +9,7 @@ ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
 source_updated: "2026-11-04T09:40:00-05:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

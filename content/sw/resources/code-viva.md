@@ -4,12 +4,12 @@ created: "2026-10-31T13:02:36-04:00"
 updated: "2026-10-31T13:02:36-04:00"
 type: resource
 summary: "Zana ya bure ya kivinjari inayoendesha toleo la maandishi lenye muda la mtihani wa mdomo wa msimbo kwa kila mwanafunzi katika kozi ya programu, ikipendekeza alama zenye ushahidi ulionukuliwa kwa mwalimu kuidhinisha."
-url: https://code-viva.netlify.app/
+url: https://code-viva.pisan.me/
 author: "Code Viva"
-author_url: https://code-viva.netlify.app/
+author_url: https://code-viva.pisan.me/
 resource_type: [software]
 access: [free]
-last_verified: "2026-10-24"
+last_verified: "2026-11-04"
 foundations: [academic-integrity]
 assessment: [oral-assessment, process-oriented-assessment]
 discipline: [cs education]
@@ -26,7 +26,7 @@ ai_assist:
     date: "2026-10-31"
     agent: hermes-agent
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 

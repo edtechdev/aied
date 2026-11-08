@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
 source_updated: "2026-10-28T11:14:23-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

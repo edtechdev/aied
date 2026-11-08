@@ -14,7 +14,7 @@ level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
 translation_of: faqs/study-with-ai
 source_updated: "2026-10-28T11:47:13-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

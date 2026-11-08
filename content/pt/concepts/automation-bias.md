@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
 source_updated: "2026-11-04T18:49:36-05:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

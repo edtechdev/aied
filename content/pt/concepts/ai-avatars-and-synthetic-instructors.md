@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
 source_updated: "2026-11-04T17:45:00-05:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

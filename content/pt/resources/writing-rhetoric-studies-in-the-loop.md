@@ -22,7 +22,7 @@ confidence: high
 connected_resources: [clarity]
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

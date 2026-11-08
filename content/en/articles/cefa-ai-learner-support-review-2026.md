@@ -35,7 +35,7 @@ ethics: [equity-in-ai-education, privacy, neurodiversity]
 3. **Support and measurement absorb the activity.** AI use concentrated in the ongoing learner support phase, followed by measurement, intake, and intervention; no AI-driven intervention appeared in the learner transition phase.
 4. **Chatbots front-load the contact.** Within adaptive systems, chatbots appeared 7 times at intake, 11 during intervention, and 8 in ongoing support, followed by recommender systems with 8 uses across the same three phases.
 5. **Benefits concern reach and tailoring.** 55 studies reported positive experiences, and tailored support was the most cited benefit (24), ahead of early intervention (14) and a quick or effective solution (14).
-6. **Diversity is nearly absent.** Only two of the 61 studies explicitly referenced a student subgroup, and only one proposed a support model centered on a disadvantaged student group.
+6. **Diversity is nearly absent.** Only two of the 61 studies explicitly referenced a [[differential-effects-across-learner-groups|student subgroup]], and only one proposed a support model centered on a disadvantaged student group.
 7. **Accuracy depends on the task, not the model label.** ChatGPT-3.5 matched 95.48% of previously unanswered learner questions when given FAQs and their answers, but only 54.24% when asked to generate full responses from the same corpus, while Copilot answered 64.97% correctly from the open web.
 
 ## What the 61 studies cover
