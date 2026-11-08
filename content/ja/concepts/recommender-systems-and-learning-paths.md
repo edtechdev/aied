@@ -1,7 +1,7 @@
 ---
 title: 推薦システムと学習経路
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-10-30T03:25:20-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-05T21:30:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ ai_assist:
 第三の経路は、学習者ごとの相互作用データをほぼ完全に回避します。[[pattern-kc-programming-recommendation|Hoq ら（2026）]]は、各コードサンプルからパターンに基づく知識要素を抽出し、それらの知識要素集合の類似性によって関連する練習活動を推薦します。入門的な Python 教材の専門家が組織したコーパスにおいて、この手法は教員自身の概念的束と整合し、順位づけの指標において知識要素および埋め込みベースラインを打ち破りました——学習者の履歴が薄い場合には、教授法にかなった整合性が教材の意味論から生まれうることの証拠です。
 
 第四の経路は、推薦を順位づけではなく逐次的意思決定として扱います。[[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec（Ozyurt、Almaci、Feuerriegel & Sachan, 2025）]]は、意味的に基礎づけられた知識トレーサを構築します——[[llm]]が各問題に解法ステップと知識概念を注釈づけ、対照学習が問題・ステップ・概念の埋め込みを整合させ、較正損失がトレーサに概念レベルの知識状態を直接予測させる——そして、ポリシーが次の練習問題を選択する[[reinforcement-learning]]環境としてそのトレーサを用います。推薦の問題に特に関係する二つのデザイン上の選択があります。学生の状態が完全な練習履歴ではなくコンパクトな再帰的符号化であるため、リプレイバッファ内で長い系列も取り扱い可能であること、そして報酬が予測される概念知識の変化であり、対象概念のすべての問題について推論を走らせることなく計算されることです。モデルベースの価値推定はトレーサから批評家を初期化し、これは XES3G5M（2,048 人のテスト学生）上の四つの課題にわたって連続値ベースのエージェントを改善し、最も難しい課題——学習者の*最も弱い*概念を推薦するもので、各ステップで目標が変わる——において離散行動の手法を追い越しました。数値は模擬環境からの最大知識改善率であり、これは測定された学習よりも弱い主張であり、著者ら自身の付録も、ほとんどのトレーシングデータセットが二値の正誤ラベルのみを記録しているため、彼らが構想する[[misconceptions|誤概念]]レベルの推薦は既存のデータではまだ検証できないと記しています。
+
+軽量なベースラインが深層モデルを真っ向から上回ることもあります。[[gharahighehi-personalized-second-language-learner-preferences-2026|Gharahighehi ら（2026）]]は、オランダ語を第二言語とする学習プラットフォーム NedBox で7つの推薦器を比較し、浅い項目間モデル EASE がすべての指標で首位でした——AUROC 0.955、MAP 0.283、NDCG@3 0.205、NDCG@5 0.279——深層変分オートエンコーダ MVAE（AUROC 0.949）とアンサンブルの PentaForest（0.953）を上回り、行列分解が最下位でした（IALS 0.719、UKNN 0.767）。推薦と[[knowledge-tracing|知識追跡]]の信号は組み合わせることもできます。EASE の上位10件を予測された熟達度で再順位づけすると、NDCG@3 がおよそ3%上がりました。
 
 ## 前提と経路の順序づけ
 

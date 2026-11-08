@@ -1,7 +1,7 @@
 ---
 title: "教育者はAI関連の介入を評価するために、どのような測定方法や研究方法を用いることができるでしょうか。"
 created: "2026-10-10T23:04:26-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
@@ -72,7 +72,7 @@ AI支援の質的分析は、条件付きでそのリストに入ります。イ
 
 公表された効果量は私のクラスに移転する。O'Neillの14のメタ分析は、それに基づく主張を支えられず、報告された両方の予測区間がゼロを含んでいました。
 
-プラットフォームの分析は教育の質を測る。Zhangの3位のエージェントは、専門家のルーブリックでは最下位でした。
+プラットフォームの[[learning-analytics|分析]]は教育の質を測る。Zhangの3位のエージェントは、専門家のルーブリックでは最下位でした。
 
 ## 反論として返ってくること
 

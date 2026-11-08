@@ -1,7 +1,7 @@
 ---
 title: "司書"
 created: "2026-10-10T22:38:07-04:00"
-updated: "2026-10-30T03:25:20-04:00"
+updated: "2026-11-07T20:30:41-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -35,7 +35,7 @@ ai_assist:
 
 ## はじめに
 
-司書とは、学習者の問いと学術的な記録の間に立つ専門家です。参照担当・連携担当の司書、主題の専門家、情報リテラシー教育を担う教育司書、そしてコレクションやリポジトリを管理する職員です。[[ai-education|教育におけるAI]] において、彼らは [[teacher-role|教師]] や [[administrator|管理者]] に比べてはるかに頻繁には名指されませんが、コーパスは彼らに具体的で検証可能な役割を与えています。彼らは [[generative-ai|生成AI]] が作り出す信頼性の問題への人間の答えであり、単に情報源を供給するのではなく [[evaluative-judgment|評価的判断]] と検索戦略を教える教育者であり、そして——ナレッジベースで最も強い事例では——その傍らにあるサービスではなく、AIシステムの設計された構成要素です。
+司書とは、学習者の問いと学術的な記録の間に立つ専門家です。参照担当・連携担当の司書、主題の専門家、情報リテラシー教育を担う教育司書、そしてコレクションやリポジトリを管理する職員です。[[ai-education|教育におけるAI]] において、彼らは [[teacher-role|教師]] や [[administrator|管理者]] に比べてはるかに頻繁には名指されませんが、コーパスは彼らに具体的で検証可能な役割を与えています。彼らは [[generative-ai|生成AI]] が作り出す信頼性の問題への人間の答えであり、単に情報源を供給するのではなく [[information-and-media-literacy|情報リテラシー]] と [[evaluative-judgment|評価的判断]]、検索戦略を教える教育者であり、そして——ナレッジベースで最も強い事例では——その傍らにあるサービスではなく、AIシステムの設計された構成要素です。
 
 このページは、この役割を隣接する役割から区別して扱います。[[educational-technology-developers|教育技術の開発者]] は検索と推薦のシステムを構築しますが、司書はそれらのシステムに結論づけてはならないことを決めます。[[academic-integrity|アカデミック・インテグリティ]] はAI利用を著作と開示の枠組みで捉えますが、司書の枠組み——属性の帰属、来歴、アクセス——は隣接しつつもより具体的です。
 
@@ -78,6 +78,8 @@ ai_assist:
 ## 関連する概念
 
 - [[ai-literacy]]
+- [[information-and-media-literacy]]
+- [[libraries]]
 - [[evaluative-judgment]]
 - [[critical-thinking]]
 - [[academic-integrity]]

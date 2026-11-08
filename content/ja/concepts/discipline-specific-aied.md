@@ -1,13 +1,13 @@
 ---
 title: 各学問分野における AIEd
 created: "2026-10-10T22:31:18-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-26T14:10:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -38,20 +38,20 @@ ai_assist:
 ナレッジベースには、いくつかの科目領域について専門の概念ページがあります。
 
 - **[[math-education]]** — 数学における AI 家庭教師利用、適応的な問題解決、概念的な診断。
-- **[[physics-education]]** — 物理学の学習における AI シミュレーション、チャットボット、問題の提起。
+- **[[physics-education]]** — 物理学の学習における AI シミュレーション、[[conversational-ai|チャットボット]]、問題の提起。
 - **[[chemistry-education]]** — 実験室・実験設計における AI、AI が媒介する形成的評価、文脈基盤型および探究基盤型の教授、化学の課題に対する[[llm]]の技術的な限界、そして実験の哲学。
 - **[[biology-education]]** — 実験室の指導における AI、生物学のカリキュラムに埋め込まれた AI リテラシー、AI 時代の批判的思考、そして専門化されたツール（種の同定、バイオイメージング、予測的モデリング）。
 - **[[cs-education]]** — コードの生成、デバッグ、初心者のプログラミング支援のための AI。
-- **[[information-technology]]** — 計算機科学の応用部門であり、組織が運用する展開済みのシステムを選択・保護・管理・統治する実務家の準備をします。その分析の単位は展開済みのシステムと、それについての実務家の判断であり、計算機科学教育がプログラムとアルゴリズムをその対象とするのに対応します。
+- **[[information-technology]]** — 計算機科学の応用部門であり、組織が運用する展開済みのシステムを選択・保護・管理・統治する実務家の準備をします。その分析の単位は展開済みのシステムと、それについての実務家の判断であり、計算機[[science-education|科学教育]]がプログラムとアルゴリズムをその対象とするのに対応します。
 - **[[writing-education]]** — AI 支援の作文、自動エッセイ採点、執筆のフィードバック。
-- **[[language-learning]]** — 第二言語・外国語における AI の対話相手、発音のフィードバック、会話の練習。
+- **[[language-learning]]** — 第二言語・外国語における AI の対話相手、[[speech-and-voice-technologies|発音のフィードバック]]、会話の練習。
 - **[[english-education]]** — 学術目的の英語（EAP）と英語教育（EFL/ESL/L2）。学術英語のレジスター、ジャンル基盤型の執筆、英語特有のフィードバックと評価——一般的な言語学習と一般的な執筆とは区別されます。
 - **[[stem-education]]** — 科学、技術、工学、数学の横断的な傘。
 - **[[teacher-education]]** — 教師の養成と[[educational-development|専門的力量開発]]（就職前と現職）、それ自体が一つの分野であり、その AI 研究は[[teacher-role|教師]]の AI リテラシー、インテリジェントな[[tpack]]、そして AI を統合するための準備度を中心とします。
-- **[[medical-education]]** — 臨床シミュレーション、強化学習の訓練、保健専門職教育における基礎的な学習原理。
+- **[[medical-education]]** — 臨床シミュレーション、[[reinforcement-learning|強化学習]]の訓練、保健専門職教育における基礎的な学習原理。
 - **[[nursing-education]]** — 臨床の流れの中で最も密度の高い実証的な記録。仮想患者によるシミュレーション、LLM による推論の支援、適応的なプラットフォームが、能力と同じくらい専門的なアイデンティティの形成を枠組みとして用いられ、AI の記録された便益が止まる境界——複雑な精神運動的技能と感情的に負荷された相互作用——を名指せる程度に狭く、保健専門職を一つの事例として扱いません。
-- **[[vocational-education]]** — 指名された職業と技術職の初期の準備であり、資格枠組みによって組織化され、学習者が設備で何ができるかによって評価されます。[[professional-training]]が扱う専門的な訓練と職場でのスキルアップを超えて、まだ雇用されていない人々にまで及びます。その繰り返し現れる設計上の問いは、能力を生み出す反復を置き換えることなく、AI が実践の中で人員配置に費用のかかる部分のどれを吸収できるかです。
-- **[[design-education]]** — プロダクト、サービス、インタラクション、インテリア、建築のデザインにおけるスタジオ基盤の専門的形成であり、可視化されたプロセスが評価される対象であり、生成的ツールが磨き上げた成果物を安価にする場所です。[[arts-design-and-media-education]]が扱うスタジオ系の分野を専門的なデザインの育成パイプラインへと狭め、素材的・パフォーマンス的な実践ではなく批評、ポートフォリオ、規制が議論を担うようにします。
+- **[[vocational-education]]** — 指名された職業と技術職の初期の準備であり、資格枠組みによって組織化され、学習者が設備で何ができるかによって評価されます。[[professional-training]]が扱う専門的な訓練と職場での[[lifelong-learning|スキルアップ]]を超えて、まだ雇用されていない人々にまで及びます。その繰り返し現れる設計上の問いは、能力を生み出す反復を置き換えることなく、AI が実践の中で人員配置に費用のかかる部分のどれを吸収できるかです。
+- **[[design-education]]** — プロダクト、サービス、インタラクション、インテリア、建築のデザインにおけるスタジオ基盤の専門的形成であり、可視化されたプロセスが評価される対象であり、生成的ツールが磨き上げた成果物を安価にする場所です。[[arts-design-and-media-education]]が扱うスタジオ系の分野を専門的なデザインの育成パイプラインへと狭め、素材的・パフォーマンス的な実践ではなく批評、[[eportfolio|ポートフォリオ]]、規制が議論を担うようにします。
 - **[[engineering-education]]** — 工学における専門的形成、設計と[[experiential-learning|体験的な学習]]、AI の[[ethics|倫理的]]な使用、[[embodied-learning|身体化された]]評価、そして労働力の準備。
 - **[[business-education]]** — ビジネス、経済、経営の教育における AI。学生に基づく GenAI の枠組み、構成的整合性を通じた[[curriculum-design|カリキュラム]]の統合、そして AI 統合型の専門的実践の準備。
 - **[[humanities-education]]** — 人文学と社会科学における解釈的な認知、著作、意味形成。
@@ -67,7 +67,7 @@ ai_assist:
 - **評価と査定。** [[automated-assessment]]、[[automated-assessment|自動採点]]、[[automated-essay-scoring]]、[[formative-assessment]]は AI によって分野横断的に再構想されますが、採点される構成概念は異なります（手続き的な正確さ対解釈的な深さ対伝達能力）。
 - **認知的オフロードと過剰依存。** [[cognitive-offloading]]と[[cognitive-offloading|過剰依存]]の危険は、[[math-education|数学]]、[[cs-education|CS]]、[[writing-education|執筆]]にわたって現れますが、オフロードされる「認知的行為」は分野特異的です——計算対コード対作文。
 - **AI リテラシーと批判的な使用。** [[ai-literacy]]、[[critical-thinking]]、[[critical-pedagogy]]は、どの科目でも責任ある使用を支えます。
-- **学問的な基盤が AI 支援のメタ認知を規定します。** テキスト言語学のゼミでは、初心者は科目の知識がすでに統合されているところで主に LLM とともにメタ認知的に内省し、ほとんどの者が出力の不出来をモデルではなく自分のプロンプトに帰しました——プロンプト設計が分野の中で明示的に教えられなければならないという証拠です（[[llms-text-linguistics-teaching-2026|Brocca & Garassino（2026）]]）。
+- **学問的な基盤が AI 支援の[[metacognition|メタ認知]]を規定します。** テキスト言語学のゼミでは、初心者は科目の知識がすでに統合されているところで主に LLM とともにメタ認知的に内省し、ほとんどの者が出力の不出来をモデルではなく自分のプロンプトに帰しました——[[prompt-engineering|プロンプト設計]]が分野の中で明示的に教えられなければならないという証拠です（[[llms-text-linguistics-teaching-2026|Brocca & Garassino（2026）]]）。
 - **公正性とアクセス。** [[equity-in-ai-education]]、[[digital-divide]]、[[culturally-relevant-pedagogy]]はすべての分野に関係します。
 
 ## 分野ごとの特徴的な教授法、方法、理論
@@ -87,7 +87,7 @@ ai_assist:
 
 ## ナレッジベースで代表されている分野
 
-ナレッジベースの分野特有の記述が最も強いのは、広く**[[stem-education|STEM]]**、とりわけ**[[math-education]]**、**[[physics-education]]**、**[[chemistry-education]]**、**[[biology-education]]**、**[[cs-education]]**であり、次いで**[[statistics-and-data-science-education]]**、数学とは別個の流れです。その特徴的な教授法が、定まった答えへ向かう推論ではなくデータの探究であるためです。この流れ自身の設計上の問題の一例として、[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] はエージェント的なパイプラインで文脈に合わせた合成データセットを生成し、統計のコースが必要とする教材そのものには対処しますが、その説明には対処しません。そして著者ら自身の説明によれば、データ収集、測定、研究デザインを教えることはできません。続いて**[[writing-education]]**、**[[language-learning]]**（EAP/EFL/ESL のために明確な**[[english-education]]**の流れを持つ）、そしてより近年では**[[engineering-education]]**、**[[teacher-education]]**（就職前と現職の AI 訓練研究の実質的な集まりを持つ）、**[[medical-education]]**、**[[humanities-education]]**です。工学とデザインも論文の増える集まりを持ちます。この集中はより広い文献を追っています。[[xia-ai-interdisciplinary-higher-education-review-2026|Xia らの（2026）]]レビューは、AI 支援の高等教育において STEM が最も一般的な学際的な形であることを見出しました（n = 26）、非 STEM 分野（n = 10）や STEAM（n = 2）を大きく先んじて——AI 教育の証拠が、計算機による道具立てが最も埋め込みやすいところで最も速く蓄積するという、分野水準の注意であり、必ずしも AI の教授法的価値が最も大きいところではありません。最近の追加は、この流れを学術的な科目を超えて専門的・応用的な教育へと広げます——[[nursing-education|看護]]、[[information-technology|情報技術]]、そして[[vocational-education|職業教育訓練]]——そこでは学習者は正しさではなく実証された実践によって評価され、何が能力と見なされるかを定めるのが学会だけでなく雇用者と認可機関でもあるところです。
+ナレッジベースの分野特有の記述が最も強いのは、広く**[[stem-education|STEM]]**、とりわけ**[[math-education]]**、**[[physics-education]]**、**[[chemistry-education]]**、**[[biology-education]]**、**[[cs-education]]**であり、次いで**[[statistics-and-data-science-education]]**、数学とは別個の流れです。その特徴的な教授法が、定まった答えへ向かう推論ではなくデータの探究であるためです。この流れ自身の設計上の問題の一例として、[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] はエージェント的なパイプラインで文脈に合わせた合成データセットを生成し、統計のコースが必要とする教材そのものには対処しますが、その説明には対処しません。そして著者ら自身の説明によれば、データ収集、測定、[[research-methods-aied|研究デザイン]]を教えることはできません。続いて**[[writing-education]]**、**[[language-learning]]**（EAP/EFL/ESL のために明確な**[[english-education]]**の流れを持つ）、そしてより近年では**[[engineering-education]]**、**[[teacher-education]]**（就職前と現職の AI 訓練研究の実質的な集まりを持つ）、**[[medical-education]]**、**[[humanities-education]]**です。工学とデザインも論文の増える集まりを持ちます。この集中はより広い文献を追っています。[[xia-ai-interdisciplinary-higher-education-review-2026|Xia らの（2026）]]レビューは、AI 支援の高等教育において STEM が最も一般的な学際的な形であることを見出しました（n = 26）、非 STEM 分野（n = 10）や STEAM（n = 2）を大きく先んじて——AI 教育の証拠が、計算機による道具立てが最も埋め込みやすいところで最も速く蓄積するという、分野水準の注意であり、必ずしも AI の教授法的価値が最も大きいところではありません。最近の追加は、この流れを学術的な科目を超えて専門的・応用的な教育へと広げます——[[nursing-education|看護]]、[[information-technology|情報技術]]、そして[[vocational-education|職業教育訓練]]——そこでは学習者は正しさではなく実証された実践によって評価され、何が能力と見なされるかを定めるのが学会だけでなく雇用者と認可機関でもあるところです。
 
 職業の流れはその証拠の中で最も薄いものです。職業教育訓練における 26 件の研究の系統的レビューは、VET の作業基盤の性格にもかかわらず、職場環境で行われたものが一つもないこと、無作為化実験は 5 件のみ、学習者に積極的な役割を与えた設計は 3 件のみであることを見出しました（[[ai-vocational-education-training-review|Deutscher ら（2026）]]）。
 
@@ -95,7 +95,7 @@ ai_assist:
 
 いくつかの分野はナレッジベースにおいて薄いままであり、将来の取り込みの良い候補です。
 
-- **法学と法教育** — 最小限の記述：[[llm-turing-test-italian-legal-exams-2026|LLM とイタリアの司法試験]]。
+- **法学と[[legal-education|法教育]]** — 最小限の記述：[[llm-turing-test-italian-legal-exams-2026|LLM とイタリアの司法試験]]。
 - **心理学とカウンセリング** — AI 教育論文は少数：[[hawkins-feedback-literacy-ai-essay-writing|AI フィードバックリテラシー]]、[[critical-genai-use-predictors|批判的な GenAI 利用]]、[[adaptive-virtual-patient-psychotherapy-training|仮想患者の心理療法訓練]]。
 - **歴史学** — 孤立した論文のみ：[[paternalistic-filter-llm-history-education|LLM と歴史的推論]]。
 - **芸術（視覚芸術、デザイン、音楽）** — 生じつつある記述：[[ai-interior-design-malaysia-2026|インテリアデザイン教育における AI]]、[[genai-architectural-design-studios|建築デザインスタジオにおける GenAI]]、[[ai-vocal-pedagogy-2026|AI 声楽教授法]]、[[musical-education-ai-digital-transformation-2026|音楽教育における AI]]、[[t2i-competence-paradox-2026|テキストから画像へのコンピテンスのパラドクス]]。このリストのデザイン側の研究は今や自分自身の家を持ちます。[[design-education]]は建築、インテリアデザイン、テキストから画像へのスタジオの仕事を、専門的なデザインの形成についてのページに引き込み、視覚芸術、音楽、パフォーマンスを薄い残りとして残します。

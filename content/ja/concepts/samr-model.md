@@ -1,7 +1,7 @@
 ---
 title: SAMR モデル
 created: "2026-10-10T23:16:00-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-11-02T09:55:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ SAMR はしばしば[[icap-framework|ICAP 枠組み]]と対にされます。両
 - **SAMR は、ポストヒューマニズム批判の標的である。** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]は、TPACK、SAMR、[[ai-literacy]]モデルが、技術的な媒介によって根本的に変わらない有界の学習者を前提とするヒューマニズム的な存在論を共有していることを批判し、これらの道具主義的な枠組みは、認知における AI の構成的な役割に対処できないと論じています。
 - **統合のための枠組みであって、権力のための枠組みではない。** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]は、SAMR を TPACK や他の統合の枠組みと並べて評価し、どれも公平な権力、データの所有、説明責任に対処していないことを見出し、代替的な生態学的共行為主体性の枠組みを動機づけています。
 - **学生の利用も SAMR に対応づけられ、フィードバックはすべての水準にわたる。** [[physics-education|物理学]]の単元における 31–36 人の学生の生成 AI の宣言をコーディングした結果、学習は置き換えから拡張に、書式設定は置き換えに、課題の遂行は修正から再定義に位置づけられ、一方、フィードバック——確認、明確化、検証——は 4 つの水準すべてに現れました（[[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer (2026)]]）。
+
+- **深さと包摂は別の軸である。** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]]は、SAMR を [[universal-design-for-learning|UDL]] と対にして 38 件の文献を検討し、再定義の水準にある課題であっても、言語、端末、接続性が設計に合わない学生を排除しうると論じています。
 
 ## SAMR、TPACK、技術受容: それらはどう違うか
 
@@ -101,3 +103,4 @@ SAMR は、計画と評価に用いられる統合の深さのレンズとして
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — SAMR のヒューマニズム的存在論に対するポストヒューマニズム批判
 - [[reclaiming-epistemic-agency-co-agency-2026]] — 権力、データの所有、説明責任に関する SAMR の沈黙
 - [[genai-use-changing-institutional-policy-physics-2026]] — 変化する制度的方針のもとでの学生の生成 AI 利用: SAMR の水準に対応づけられた利用機能（Quince & Faulconer 2026）
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity

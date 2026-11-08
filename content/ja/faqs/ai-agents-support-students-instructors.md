@@ -1,7 +1,7 @@
 ---
 title: "AIエージェントはどのように学生と教員を支援できますか？"
 created: "2026-10-10T22:55:14-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 source_updated: "2026-10-28T11:29:19-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
@@ -43,7 +43,7 @@ ai_assist:
 
 [[agentic-workflows-education|教育におけるエージェント的ワークフロー]]は、繰り返し現れる4つの能力を名指しします。振り返り、計画、ツールの使用、マルチエージェントの協働です。それぞれが可能性と並んでコストを加えます。[[explainable-ai|解釈可能性]]、調整、[[trust-calibration|信頼]]、レイテンシ、監督におけるコストです。
 
-学生側の役割は、[[adaptive-learning|適応型]]のチュータリングと学習計画から、[[formative-assessment|形成的]]フィードバック、導かれた[[problem-solving|問題解決]]、練習問題の生成、前提知識の推薦、振り返りの[[metacognition|メタ認知]]的な[[prompt-engineering|プロンプト設計]]まで及びます。教員側の役割は、教材の開発、[[automated-question-generation|問題の生成]]と検証、フィードバックの選別、科目の[[learning-analytics|学習分析]]、授業設計、リソースの検索、専門化した下位エージェントのオーケストレーションを覆います。
+学生側の役割は、[[adaptive-learning|適応型]]のチュータリングと学習計画から、[[formative-assessment|形成的]]フィードバック、導かれた[[problem-solving|問題解決]]、練習問題の生成、前提知識の推薦、振り返りの[[metacognition|メタ認知]]的な[[prompt-engineering|プロンプト設計]]まで及びます。教員側の役割は、教材の開発、[[automated-question-generation|問題の生成]]と検証、フィードバックの選別、科目の[[learning-analytics|学習分析]]、[[learning-design|授業設計]]、リソースの検索、専門化した下位エージェントのオーケストレーションを覆います。
 
 このうち2つは早い段階で安全です。どちらも学生より先に人間が読む成果物を生むからです。検証器と組にした問題生成器と、教師が編集する草稿です。
 

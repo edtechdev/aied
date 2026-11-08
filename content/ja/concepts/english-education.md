@@ -1,7 +1,7 @@
 ---
 title: 英語教育（EAP / EFL / ESL）
 created: "2026-10-10T22:31:14-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 - **アカデミック・イングリッシュ（EAP）：** 高等教育におけるライティング、読解、フィードバックで用いられる、ジャンルに基づく専門分野に特有の英語に対する AI の支援——一般的なライティングの指導とは区別されます。
 - **英語教育（EFL/ESL/L2）：** 英語を習得する学習者のための[[intelligent-tutoring|AI チューター]]、対話相手、そして[[feedback|フィードバック]]の道具。
 - **英語に特有の[[assessment|評価]]：** 英語のライティングとスピーキングに関する自動化された評価とフィードバック。EAP のライティングの修正と L2 ライティングの評価を含みます。
-- **読解と文学の読みやすさ：** [[bird-multimodal-educational-literature-2026|Bird (2026)]] は、transformer によるテキスト分類と言語計算学的な特徴を融合させ、英国のキーステージによって英語文学を分類し、F1 値 0.996 を達成しました——ジャンルに基づく EAP の読解支援と読解水準の整合に対する、拡張可能でデータ駆動的な補完です。
+- **読解と文学の[[reading-education|読みやすさ]]：** [[bird-multimodal-educational-literature-2026|Bird (2026)]] は、transformer によるテキスト分類と言語計算学的な特徴を融合させ、英国のキーステージによって英語文学を分類し、F1 値 0.996 を達成しました——ジャンルに基づく EAP の読解支援と読解水準の整合に対する、拡張可能でデータ駆動的な補完です。
 - **言語的な公平性：** AI の英語優位性と、多言語の書き手や World Englishes の書き手のニーズとの間の緊張。
 
 ## 英語教育は言語学習とどう違うか
@@ -53,7 +53,7 @@ ai_assist:
 || 次元 | [[language-learning|言語学習]] | **英語教育（このページ）** |
 ||-----------|----------------------|-----------------------------------|
 || 目標言語 | 任意の L2（フランス語、スペイン語、日本語、…） | 英語に特有 |
-|| 焦点 | 一般的な L2 の習得——話す対話、発音、読み書き | 目標としての英語 + 学術英語のレジスター |
+|| 焦点 | 一般的な L2 の習得——[[speech-and-voice-technologies|話す対話]]、発音、読み書き | 目標としての英語 + 学術英語のレジスター |
 || 特徴的な文脈 | 会話、発音、一般的な流暢さ | **EAP**——学術的なライティング、読解、フィードバック、ジャンル |
 || 代表的な AI | L2 の対話相手、[[speech-and-voice-technologies|発音のフィードバック]]、ロボット支援の L2 | EAP のライティング道具、EFL の仲間フィードバック、英語の学術的なライティングの評価 |
 
@@ -83,18 +83,18 @@ ai_assist:
 
 AI の英語優位性は、この流れの決定的な特徴です。モデルが英語、とりわけ標準的な学術英語で最も強いため、英語教育は不均衡に利益を受け（強力な EAP の足場づくり）、同時に独自の危険を負います（単一言語の偏り、World Englishes と多言語的な書き手に対する差別）。ここの研究は、[[equity-in-ai-education|公平性]]、[[bias-mitigation|偏りの緩和]]、[[automated-assessment|自動化された評価]]、[[ai-feedback-quality|AI のフィードバックの質]]、[[academic-integrity|学術的インテグリティ]]につながります。
 
-Scopus に基づく 54 件の EFL 研究の統合は、この分野で最も多く報告される[[limitations-in-aied-research|限界]]が学習者の自律性にあることを示します。AI への[[cognitive-offloading|過度の依存]]が 27 件（50%）、[[critical-thinking|批判的思考]]の低下が 25 件（46%）であるのに対し、信頼できない AI 生成の出力は 22 件（41%）で最大の技術的問題でした（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]）。
+Scopus に基づく 54 件の EFL 研究の統合は、この分野で最も多く報告される[[limitations-in-aied-research|限界]]が学習者の[[agency|自律性]]にあることを示します。AI への[[cognitive-offloading|過度の依存]]が 27 件（50%）、[[critical-thinking|批判的思考]]の低下が 25 件（46%）であるのに対し、信頼できない AI 生成の出力は 22 件（41%）で最大の技術的問題でした（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]）。
 
 ## 英語／EAP／EFL-ESL の教員への示唆
 
 - **AI の強みを学術英語のために意識的に活かしてください。** モデルが英語と標準的な学術英語で最も強いため、EAP の教員は、ジャンルに基づくライティング、読解教材の分化（[[genai-differentiated-eap-reading-materials-2026|EAP の教材]]）、修正のフィードバックのために AI を展開できます——ただし、AI を答えを出す機関ではなく、下書きとフィードバックのパートナーとして枠づけるべきです。
-- **学術英語のレジスターとフィードバックリテラシーを守ってください。** [[feedback-literacy-scripts-eap-writing|EAP のライティングの修正]]は、フィードバックが生産的であるのは学習者のフィードバックリテラシーの度合いに応じてのみであることを示しています——学生に AI のフィードバックを解釈し、判断し、それに基づいて行動することを教え、第二の評定者の仕組みを用いて AI の質を点検してください。
+- **学術英語のレジスターと[[feedback-literacy|フィードバックリテラシー]]を守ってください。** [[feedback-literacy-scripts-eap-writing|EAP のライティングの修正]]は、フィードバックが生産的であるのは学習者のフィードバックリテラシーの度合いに応じてのみであることを示しています——学生に AI のフィードバックを解釈し、判断し、それに基づいて行動することを教え、第二の評定者の仕組みを用いて AI の質を点検してください。
 - **英語優位性の公平性の緊張に注意してください。** モデルは標準的な学術英語を特権化し、World Englishes と多言語的な書き手を周辺化します（[[genai-linguistic-diversity-academic-writing|World Englishes]]、[[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]）——フィードバックを単一言語の偏りと低下した期待について監査してください。
 - **AI を EAP に倫理的に統合してください。** [[alharbi-ethical-genai-eap-2026|EAP における倫理的な生成AI]]は、学術的インテグリティを保つ[[higher-ed|高等教育]]の英語教育において、透明で責任ある利用を求めています。
 - **慎重で、まず準備から始まる採用を予想してください。** [[li-language-educators-genai-review-2026|23 件の研究の系統的レビュー]]（Li et al. 2026）は、言語教育者が、授業計画、教材の作成、ライティングの支援／フィードバックといった舞台裏の準備のために[[generative-ai|生成AI]]を最も高く評価する一方、教室での直接的な利用にはためらいを見せ、主な関心が[[academic-integrity|学術的インテグリティ]]（盗用と[[assessment-validity|評価の妥当性]]）に集中することを見出しています。採用は、専門家としてのアイデンティティ、[[pedagogy|教育学的]]、技術的、[[governance|制度的]]、インテグリティの要因によって形作られ、能力のギャップは、エピステーメー（AI の能力と限界の理解）、テクネー（[[prompt-engineering|プロンプトエンジニアリング]]、AI によって強化された課題と評価の設計、AI が生成したテキストの検出）、プロネーシス（[[ethics|倫理的]]な判断、偏りとプライバシーの扱い）に写像されます——だからこそ、EAP/EFL の教員はこれらの能力を意識的に育て、「まず裏方、そして教室」という実装を計画すべきです。
 - **熟達度とニーズに応じて差別化してください。** [[ai-vs-human-assessment-efl-tpck-2026|EFL の評価]]と適応的な個別指導の研究は、AI の支援と評価を、画一的ではなく学習者の水準に合わせて調整することを支持しています。
 
-- **技術を産出に向けて配分してください。** 33 件の TEFL 研究のメタ分析は、小さから中程度の全体的な効果（g = 0.38、トリム・アンド・フィルにより 0.28 に減少）を見出しました。それは教育水準とともに高まり、受容的な技能よりも産出的な技能——スピーキングとライティング——を有利にしました（[[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]）。
+- **技術を産出に向けて配分してください。** 33 件の TEFL 研究を通じて、併合された推定値は小さから中程度であり（g = 0.38、トリム・アンド・フィルにより 0.28 に減少）、教育水準とともに高まり、受容的な技能よりも産出的な技能——スピーキングとライティング——を有利にしました（[[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]）。
 
 ## よくある誤解
 
@@ -107,6 +107,8 @@ Scopus に基づく 54 件の EFL 研究の統合は、この分野で最も多�
 
 - [[language-learning]]
 - [[writing-education]]
+
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]

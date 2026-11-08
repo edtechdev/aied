@@ -1,7 +1,7 @@
 ---
 title: "コースにAIリテラシーをどう組み込むべきでしょうか？"
 created: "2026-10-10T23:04:28-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T20:30:41-05:00"
 source_updated: "2026-10-28T11:06:17-04:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
@@ -42,7 +42,7 @@ ai_assist:
 
 ## 授業を一つ足すのではなく、すでに評価している作業に段階を一つ足す
 
-機関が既定で取る手は、通常は学期の早い時期に、大規模言語モデルの仕組みとプロンプトの書き方を扱う独立したモジュールを置くことです。[[ai-literacy|AIリテラシー]]の統合は別の配置を主張します。学生は本物のコース課題の内側でAIを使い、問い、検証し、批判し、決定することを繰り返すときに、より有用なリテラシーを身につけます。批判的評価への移行が最も明瞭に見えるのは、そうした経験が一度きりで届けられるのではなく、持続して埋め込まれている場合です（[[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]）。
+機関が既定で取る手は、通常は学期の早い時期に、[[llm|大規模言語モデル]]の仕組みとプロンプトの書き方を扱う独立したモジュールを置くことです。[[ai-literacy|AIリテラシー]]の統合は別の配置を主張します。学生は本物のコース課題の内側でAIを使い、問い、検証し、批判し、決定することを繰り返すときに、より有用なリテラシーを身につけます。批判的評価への移行が最も明瞭に見えるのは、そうした経験が一度きりで届けられるのではなく、持続して埋め込まれている場合です（[[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]）。
 
 [[quantitative-research|量的]]証拠も同じ方向を指します。[[liu-ai-literacy-interventions-meta-analysis-2026|59件のAIリテラシー介入のメタ分析]]は、統合的で反省的な教育法に最大の効果を見出しました。同時に、知識に焦点を当てた介入は、技能、態度、倫理を狙う介入よりも*測定された*効果が大きいと警告しています。何を測定するかを選ぶとき、これを覚えておいてください。
 
@@ -82,11 +82,11 @@ ai_assist:
 
 経済学の学生はまず問題を解き、生成AIの応答を得て、自分の推論と比べ、AIを批判し、振り返り、次に仲間と議論します（[[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]）。
 
-心理学の学生はChatGPTが生成したプレスリリースをコースのルーブリックと突き合わせて評価し、弱点を特定し、改訂します。これにより学問的リテラシーとフィードバック・リテラシーが同じ課題で育ちます（[[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]）。
+心理学の学生はChatGPTが生成したプレスリリースをコースのルーブリックと突き合わせて評価し、弱点を特定し、改訂します。これにより学問的リテラシーと[[feedback-literacy|フィードバック・リテラシー]]が同じ課題で育ちます（[[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]）。
 
 生物学は、独立した技術的トピックを教えるのではなく、活動を学問的な学習に統合します（[[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]）。データベースとデザインの科目では、失敗の分析を学習活動として使い、学生はAI生成の誤りを分析し、プロンプトと解法を反復します（[[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]）。LearnAIモデルは、一つの汎用モジュールを走らせるのではなく、分野を横断してジャストインタイムのAI共創を埋め込みます（[[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]）。
 
-一つの注意には数字が伴います。再設計された導入の素粒子物理学のコースは、研究の形をした問題で生成AIを明示的なパートナーとして認め、支援なしの筆記試験では平均が80点満点中20.6点で、40点に達した学生は二人だけでした（[[ai-particle-physics-education-redesign-2026|AI in particle physics education]]）。支援下の遂行と独立して取り出せる知識は別の達成です。著者らは、検証を含むAIリテラシーを教え、AIをコピー機ではなく教師として扱うことを、専用の支援なしの練習と並行して早くから行うよう主張します。[[physics-education|物理教育]]に詳しい事例があります。
+一つの注意には数字が伴います。再設計された導入の素粒子物理学のコースは、研究の形をした問題で生成AIを明示的なパートナーとして認め、支援なしの筆記試験では平均が80点満点中20.6点で、40点に達した学生は二人だけでした（[[ai-particle-physics-education-redesign-2026|AI in particle physics education]]）。支援下の遂行と独立して取り出せる知識は別の達成です。著者らは、検証を含むAIリテラシーを教え、AIをコピー機ではなく[[teacher-role|教師]]として扱うことを、専用の支援なしの練習と並行して早くから行うよう主張します。[[physics-education|物理教育]]に詳しい事例があります。
 
 本物の読者に向けて何かを作る版もあります。Burrissらは22人の11年生に、自分たちが生きているAIの[[ethics|倫理]]問題について、ビデオの公共広告を作らせました。学校の監視、電子的な「廊下通行証」、アルゴリズムによる[[academic-integrity|剽窃]]の告発です。単元は批判的ポストヒューマニスト・リテラシーと[[multimodal|マルチモーダル・ライティング]]に依拠していました。学生は害を、悪役のツールではなく人間と機械のもつれた責任から生じるものとして描き、不正の物語を、誤りのあるAIへの大人の過度な依存へと反転させ、[[agency|主体性]]で締めくくりました（「解決は私たちの手の届くところにある」）。著者らは[[storytelling-in-education|ストーリーテリング]]と協働制作を[[critical-pedagogy|批判的AIリテラシー教育]]の中心に置き、本物の読者のためにAI*について*書くことが、コンピテンシー尺度には見えない批判的コンピテンスを育てると論じます（[[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]）。この主張は22人の一つの単元からの議論なので、効果量ではなく設計のアイデアとして読んでください。
 
@@ -120,7 +120,7 @@ ai_assist:
 
 AIリテラシーとはプロンプトを教えることです。プロンプトは見える部分です。学生はこれらのツールに技術的に熟達しながら、そこから出てくるものの貧弱な判断者にとどまることがあり、上記の依存の知見も同じ方向を指します。
 
-1回の授業でカバーできます。1回の授業は語彙を導入できます。本物のコース教材での反復練習の証拠の方が強く、59件の介入のメタ分析は、作業が統合的で反省的であったところに最大の効果を見出しました。
+1回の授業でカバーできます。1回の授業は語彙を導入できます。本物のコース教材での反復練習の証拠の方が強く、59件の介入の[[meta-analysis-systematic-review|メタ分析]]は、作業が統合的で反省的であったところに最大の効果を見出しました。
 
 これらのツールを毎日使う学生は、すでに出力を評価できます。Yanらは38人の学部生の76.32%が単発のパターンにあることを見出し、コンピューティングの統合は、学生がAI生成コードの修正において通常のプログラミングの試験課題よりも有意に劣ることを見出しました。インターフェースへの親しみは較正ではありません。
 

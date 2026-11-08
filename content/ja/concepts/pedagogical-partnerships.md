@@ -1,7 +1,7 @@
 ---
 title: 教授学的パートナーシップ
 created: "2026-10-10T22:46:00-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,9 @@ ai_assist:
 - **AI 政策の共設計者としての学生。** 学生に AI の規則を押しつけるのではなく、パートナーシップは学生を、コースおよび機関レベルの AI 政策の共創者として位置づけます。例えば、学生が[[generative-ai|生成 AI]]コース政策を共設計した探究型学習の活動は、研修、標準化された開示、制度的支援、意思決定への関与をめぐる学生の優先事項を表面化させました（[[guided-inquiry-genai-course-policy-2026]]）。
 - **AI ツールの共創者としての学生。** students-as-partners の枠組みの中で、学生は教授法上の目標と整合した独自の AI[[conversational-ai|チャットボット]]を共設計し、改良してきました——このアプローチは SaP のパラダイムを AI ツール自身にまで広げ、責任ある AI イノベーションにおいて学生の声を中心に位置づけます（[[lo-co-creating-custom-gpts-sap-2026]]）。
 
-- **自己評価によって評価される、クラス全体の共設計。** 情報学プログラムの一年次コースでは、学生と教員が第 1 週にコースの目標と政策を共設計し、学期を通じてそれらを再検討しました。最終成果物ではなく、個人の目標、チームの目標、共有されたルーブリックに対して、学生が自分自身と自分のグループを評価しました（[[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]）。
+- **大規模な共創を、慎重に測定する。** 710 人の学生が履修するソフトウェア設計のコースで、学生は AI チューターを使うのではなく、互いのために [[intelligent-tutoring|AI チューター]]を構築しました。設計の自由が最も多い肯定的テーマ（22.3%）であり、不明瞭な指示が最も多い不満（23.7%）でしたが、学習者の知覚した学習がクイズの得点と相関したのは r = 0.161 から 0.315 にとどまり、デザインには対照群がありませんでした（[[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari ら（2026年）]]）。ツールを構築することはもっともらしい教授法であり、この証拠のうえでは未証明でもあります。だからこそ、その根拠は成果の向上ではなく設計活動そのものに置かれます。
+
+- **[[self-assessment|自己評価]]によって評価される、クラス全体の共設計。** 情報学プログラムの一年次コースでは、学生と教員が第 1 週にコースの目標と政策を共設計し、学期を通じてそれらを再検討しました。最終成果物ではなく、個人の目標、チームの目標、共有されたルーブリックに対して、学生が自分自身と自分のグループを評価しました（[[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]）。
 - **評価と AI における共創。** 学生とスタッフのパートナーシップは、コース課題の評価において AI 生成の成果物を共評価し、評価規準を共設計してきました。これにより、AI の利点と限界についての理解が深まり、[[self-regulated-learning|自己調整学習]]が支えられました（[[williams-ingle-assessment-co-creation-ai-2025]]）。
 - **教授学的信頼を保つためのパートナーシップ。** AI に駆動される不確実性と「AI 恥」に直面して、*教授学的信頼*——不確実性に開かれ、対話を通じて共に航海する、自信ある相互的な学習関係——を育むパートナーシップ実践は、教育の関係的な核を持続させる一つの道を提供します（[[matthews-five-guiding-principles-ai-sap-trust-2025]]）。
 - **AI システムの共設計者としての青少年。** 参加型デザインのアプローチは、歴史的に周縁化されてきた学生を、自らの教室に影響を及ぼす AI システムの設計におけるパートナーとして関与させ、学生の価値観と[[ethics|倫理]]的コミットメントを表面化させます（[[chang-co-designing-ai-youth-relational-privacy-2025]]）。
@@ -136,3 +138,6 @@ ai_assist:
 - [[anastasia-shared-agency-partnership-framework-2026]] — 共有された主体性——教員と学生の協働のための主体性パートナーシップ枠組み
 - [[maybee-disruptive-partnerships-sap-2025]] — 破壊的パートナーシップ——情報学における学生との協働
 - [[student-centered-genai-responsible-framework-2026]] — 責任ある生成 AI 利用のための学生中心の枠組み
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — 学生が 710 人規模で仲間のために AI チューターを構築: エンゲージメントは高く、学習の証拠は探索的（Zangari et al. 2026）
+

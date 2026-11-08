@@ -1,14 +1,14 @@
 ---
 title: 生産的失敗
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_of: concepts/productive-failure
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -44,7 +44,7 @@ ai_assist:
 - **教授から学ぶ準備を整えます**——彼らは自分が何を知らないかを知っており、新しい教材を自分の試みに結びつけられます。
 - **知識の転移と永続的なスキル**([[critical-thinking]]、忍耐力、コミュニケーション)を高め、誤りを犯す恐怖を減らし、学習に対する肯定的な態度を促進します。
 
-PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適応的な導き**を含む関連する設計を通じて拡張されてきました(Braas et al., 2025; Brand et al., 2025)。
+PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適応的な導き**を含む関連する設計を通じて拡張されてきました(Braas et al., 2025; Brand et al., 2025)。ケースは、その最初の試みのための共有された問題空間を提供できますが、ケースベースのエビデンス基盤はこの組み合わせを直接検証してはいません（[[case-based-learning]]）。
 
 ## 誤りから学ぶこととエラーから学ぶこと
 
@@ -104,6 +104,9 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+
+- [[case-based-learning]] — 最初の試みのための共有された問題空間としてのケース
+
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

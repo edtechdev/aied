@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS教育
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,12 +42,15 @@ ai_assist:
 - **初心者のための対話エージェント（[[meta-analysis-systematic-review|範囲設定レビュー]]）：** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch（2025年）]]は、初心者のプログラマーのための[[conversational-ai|対話エージェント]]に関する23の研究（2019年 – 2024年6月）を整理し、規則に基づくチャットボットから[[llm|LLM]]および[[rag|RAG]]に基づくエージェント（[[hallucination-risk|幻覚]]を減らす[[rag|検索拡張生成]]を含む）への移行と、個人化されたチュータリングの支援（InfoBot、ProbSol-Bot、Lint Bot、Profe Alexなど）を記録しています。注目すべきことに、23の研究のうち4つだけが設計を[[learning-theories|学習理論]]に根拠づけており、23の試作のうち17は英語のみです。研究の大半が英語圏以外に由来しているにもかかわらずです — これは入門プログラミングにおける将来のCAの設計にとって、弱い[[pedagogy|教授学的]]な基盤と包摂性の隔たりを示しています。
 - **デバッグの支援：** [[debugtracker-classroom-debugging|デバッグの道具]]、[[chat-debugging-human-ai-collaboration-circuits|人間とAIのデバッグ協働]]、そして[[golrang-propact-pair-programming-2026|二者のペア・プログラミングのモデル化]]は、誤りの同定と修復にAIを活用しています。
 - **自動化された評定：** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bashの評定]]、[[llm-automated-grading-programming-comparison-2026|18モデルの大規模な評定の比較]]、そして[[llm-intervention-design-cs-review|LLMの介入のレビュー]]は、自動化されたコードの評定を評価しています。そのワークフローのセキュリティは別の問題です。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026年）]]は、日常的なAIの評定の課題をレッドチーム化し、提出されたファイルの中に隠された指示が、目に見える警告なしに落第点のエッセイの評点を上げたことを見出しました。一つの戦略では9回中9回、別の戦略では18回中17回です — これは、評定者の堅牢性が正確さと並んで[[assessment-validity|評定の妥当性]]の点検リストに属するという証拠です。
-- **一文の評定者のプロンプトがLLMを崩壊させうる。そして微調整がそれを修復する。** [[llm-graders-computer-science-exams-2026|Habibullah et al.（2026年）]]は、171の構成の下で実際のコンピュータ・ビジョンの試験（二重評定された570名の生徒）を、さらに162の構成で機械学習の試験（1,038名の生徒）を評定しました。短い「厳格な評定者」の前置きが、17のオープンウェイト・モデルのうち14を評点の帯から外れさせ（MAE ≥ 8）、3つは評定を完全に停止させました。損傷は、評点を差し控える方針の二つの文にたどり着き、その方向性は第二の試験には移りませんでした（七つのモデルが改善しました）。およそ3,900の集積された評定済みの事例にわたる一つのLoRAアダプターが、五つの小さなオープンモデルを人間の評定者と同等の水準に引き上げました。
-- **AIが生成した学習媒体：** [[ai-generated-traces-novice-programmers|生成されたアニメーションのトレース]]は、AIが生成した視覚化が即時の学習を助けうるが、個人化されなければならないことを示しています。関与途中の生徒は、専門性の逆転効果と一致する成績の低下を経験しました。
-- **教材の資産としての生成的AIの類推への批判：** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia（2026年）]]は、CS2において生成的AIの類推の受け止められ方を根拠づけています。すでにCS2を修了した10名の生徒が、連結リストと再帰について生成的AIが生成した類推を監査し、構造的な対応を満たさない対応関係を拒否しました — 環状の連結リストではなく単方向の連結リストに対応づけられた島の航路の類推、あるいは保証された縮小する入力を欠いているのに再帰のために提示されたバドミントンのラリーです。一人の生徒は代わりにゴルフを提案しました。この研究は、類推への批判それ自体が概念理解の点検であり、欠陥のあるAIの類推を濾過すべき危険ではなく使える教材の資産にすることを論じ、それらを点検し修復する対象として割り当てることを推奨しています。
+- **一文の評定者のプロンプトがLLMを崩壊させうる。そして微調整がそれを修復する。** [[llm-graders-computer-science-exams-2026|Habibullah et al.（2026年）]]は、171の構成の下で実際のコンピュータ・ビジョンの試験（二重評定された570名の生徒）を、さらに162の構成で[[machine-learning|機械学習]]の試験（1,038名の生徒）を評定しました。短い「厳格な評定者」の前置きが、17のオープンウェイト・モデルのうち14を評点の帯から外れさせ（MAE ≥ 8）、3つは評定を完全に停止させました。損傷は、評点を差し控える方針の二つの文にたどり着き、その方向性は第二の試験には移りませんでした（七つのモデルが改善しました）。およそ3,900の集積された評定済みの事例にわたる一つのLoRAアダプターが、五つの小さな[[open-source|オープン]]モデルを人間の評定者と同等の水準に引き上げました。
+- **AIが生成した学習媒体：** [[ai-generated-traces-novice-programmers|生成されたアニメーションのトレース]]は、AIが生成した[[visualization|視覚化]]が即時の学習を助けうるが、個人化されなければならないことを示しています。関与途中の生徒は、専門性の逆転効果と一致する成績の低下を経験しました。
+- **教材の資産としての[[metaphors-and-analogies|生成的AIの類推への批判]]：** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia（2026年）]]は、CS2において生成的AIの類推の受け止められ方を根拠づけています。すでにCS2を修了した10名の生徒が、連結リストと再帰について生成的AIが生成した類推を監査し、構造的な対応を満たさない対応関係を拒否しました — 環状の連結リストではなく単方向の連結リストに対応づけられた島の航路の類推、あるいは保証された縮小する入力を欠いているのに再帰のために提示されたバドミントンのラリーです。一人の生徒は代わりにゴルフを提案しました。この研究は、類推への批判それ自体が概念理解の点検であり、欠陥のあるAIの類推を濾過すべき危険ではなく使える教材の資産にすることを論じ、それらを点検し修復する対象として割り当てることを推奨しています。
 - **[[misconceptions|誤概念]]のモデル化：** [[student-misconceptions-conditionals-loops-taxonomy|条件分岐とループの誤概念のタクソノミー]]は、自動化されたシステムに初心者の誤りを診断するための正確な語彙を与えます。
 - **モデルが生成した戦略的な誤概念：** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al.（2026年）]]は、ACM/IEEEのCS2023カリキュラムから35の概念 — アルゴリズム、プログラミング言語、データベース、ネットワーク、そしてオペレーティング・システム — を中心にSocraticTrap-CSを構築し、七つのオープンウェイト・モデルに、微妙な誤りの上に成り立つ流暢で権威ある説明を求めました。七つのうち六つは、促された概念の91%以上（241のうち221の断片、91.7%）について専門家が確認した戦略的な誤概念を生成し、CSの領域間で有意な差はありませんでした。概念的な誤りが支配的で（66.5%が概念的、33.5%が事実関係的で、純粋に論理的なものは皆無）、説得力も誤りの種類も領域によって異なりました。著者らはしたがって、領域に敏感な対策 — プログラミングに重い科目における推論重視の点検、ネットワーキングにおけるプロトコル仕様との相互参照 — と、[[automated-question-generation|自動化された問題生成]]およびAIが執筆した説明の、正しさだけではなく教授学的な[[trust|信頼性]]に基づく評価を推奨しています。
 - **[[authentic-assessment|真正の評定]]における成績：** [[genai-oop-programming-assessments-2026|Lepp & Kaimre（2026年）]]は、2026年の[[generative-ai|生成的AI]]システムが、真正な入門OOPの[[assessment|評定]]において平均的な生徒の集団を上回り、より長いプログラミングの課題でしばしば満点を取る一方、インターフェース、抽象クラス、継承、そして画像に基づく問題には依然として苦労することを示しています。これは、評定を設計する際に教員が活用できる再発する誤りのパターンです。CS1の縦断的な研究はその知見の能力の側を補強します。[[student-llm-code-detection-cs1-2026|Ye et al.（2026年）]]は、最先端のモデルを実験で生徒の提出物の76.37–88.03%に対し98.93–99.99%と測定しました。
+
+- **リポジトリの活動は、以前と同じではない。** 260 のキャップストーン・チームのリポジトリ（10 学期、2021–2025 年）を通じて、学期末のコードベースはおよそ 3 倍になり、2021–2023 年の約 3.4 KLOC から 2024–2025 年の約 10 KLOC になりました。循環的複雑度とエラー処理の密度は上昇した一方、コメントの密度は横ばいでした（[[shakil-code-commits-complexity-genai-2026|Shakil, Brabrand & Denny (2026)]]）。後のコホートはまた、コミットごとの編集の大きさが変わらないまま、より頻繁に、より大きな量をコミットしており、コースがリポジトリの活動を進捗の証拠として扱う前に、考慮すべき開発リズムの変化です。
+
 - **リスクのある生徒への支援のための予測的モデル化：** [[zhang-ml-student-progress-programming-2026|Zhang、Jeffries & Koprinska（2025年）]]は、内容との相互作用のログの特徴量で訓練された本質的に解釈可能な決定木が、大規模なオンラインのプログラミング・コースにおけるモジュール水準の進捗を正確に予測し（四つのK-12コースにわたって85–91%の正確さ）、「未提出」の中退の結果に印をつけることを示しています。これにより教育者は、モジュールの締切前に、苦労し関与を失いつつある[[learners|学習者]]に[[teacher-role|介入]]する7〜8日の猶予を得ます。上記の自動化された評定と中退予測の研究を補うものです。
 - **理論的なCSのための検索拡張の支援は非同期の学習にのみ適合する。** AlgoRAGは、教員が執筆した179問すべての試験問題を240秒のタイムアウト内で解答し、平均で各38.0秒でした。そしてその集合にわたるBLEU-4が0.0000であることは、数学的な証明に対するn-gramの照合の性質であり、システムの失敗ではありません（[[algorag-rag-theoretical-cs-education-2026|Adhikari（2026年）]]）。
 
@@ -81,8 +84,8 @@ ai_assist:
 
 - **生産から判断へ：理解の負債とAASEE。** [[judgment-centred-software-engineering-education-2026|Mahmoud（2026年）]]は、この分野が生産中心のモデルから判断中心のモデルへと移るべきだと論じ、理解の負債 — AI支援の生産が学習者がソフトウェアを説明し、テストし、修正し、正当化する能力を上回るときの先送りされた学習と維持の費用 — を[[assessment|評定]]のレンズに拡張し、207名の生徒からの621件の内省的な日記に基づいています。このレビューはAASEEの枠組みを、四つの証拠の義務 — 説明し、確かめ、修正し、弁明すること — に交差する五つの非線形の統合の水準に精緻化し、条件づけられた証拠の基盤を報告しています。極度の異質性（I² = 96.32%）を持つSTEMの[[meta-analysis-systematic-review|メタ分析]]は、出版バイアスが修正されると集積された便益を失い、76、72、64の研究の総合は、補助なしの成績に[[transfer-of-learning|転移]]しない短期的な効率の伸びを示しています。
 - **新しい教授学と評定のモデル：** [[test-driven-ai-assisted-learning|テスト駆動のAI支援学習]]は、講義を[[self-directed-learning|自己方向づけられた]]AI支援の学習に置き換え、毎週の閉じた本の試験によって区切ります。AIエージェントが教材の生産と採点を[[human-in-the-loop-ai|人間の監督]]の下で拡張する中、個人の責任を保つのです。
-- **アカウンタビリティの仕組みとしての口頭試験。** プロジェクトベースのAIエンジニアリングのプログラムは、2年生の学生を、要件、アーキテクチャ、コーディング、テストにAIを埋め込んだ7回の2週間のスプリントに通し、3回の試行で成果物だけではもはや理解を証拠立てられないことが示されたため、個人の口頭試験を必須にしました。単位の平均的な未取得は25%から3%へ下がりました（[[project-based-ai-engineering-curriculum-agile-2026|Rausch（2026）]]）。
-- **モデルの仕組みをオフラインで教える。** 実践者のための資源一式は、LLMの訓練→生成のパイプライン全体を接続を断って教えます — 手で集計したn-gramの表と賽に基づく抽出法で、プログラミングも数学も想定しません — そして約400人の参加者への実施を報告しており、関与は生成の段階になって初めて始まりました（[[llms-unplugged-teaching-resources-2026|Swift（2026年）]]）。
+- **アカウンタビリティの仕組みとしての[[oral-assessment|口頭試験]]。** プロジェクトベースのAIエンジニアリングのプログラムは、2年生の学生を、要件、アーキテクチャ、コーディング、テストにAIを埋め込んだ7回の2週間のスプリントに通し、3回の試行で成果物だけではもはや理解を証拠立てられないことが示されたため、個人の口頭試験を必須にしました。単位の平均的な未取得は25%から3%へ下がりました（[[project-based-ai-engineering-curriculum-agile-2026|Rausch（2026）]]）。
+- **モデルの仕組みをオフラインで教える。** 実践者のための資源一式は、[[llm-training-and-fine-tuning|LLM の訓練]]→生成のパイプライン全体を接続を断って教えます — 手で集計したn-gramの表と賽に基づく抽出法で、プログラミングも数学も想定しません — そして約400人の参加者への実施を報告しており、関与は生成の段階になって初めて始まりました（[[llms-unplugged-teaching-resources-2026|Swift（2026年）]]）。
 - **[[vibe-coding|ヴァイブ・コーディング]]の成功を予測するもの — そして教え続けるべきもの：** 純粋な「ノーコード」のヴァイブ・コーディングに関する[[vibe-coding-writing-cs-achievement-2026|事前登録されたCHI 2026年の研究（N=100）]]は、コンピュータ・サイエンスの達成（r = .39）と書かれた意思疎通の熟達（r = .29）の両方が独立に成績を予測することを見出し、領域一般の認知的能力を統制した後もCSの達成は有意なままで、作文の技能の固有の分散のおよそ二倍のものを寄与しました。環境が生成されたコードを隠していたため、CSの知識は間接的にしか（問題の分解、アルゴリズム的な思考）助けられなかった — これにより、CSの推定値は編集も許容するAI支援のワークフローにとって*下限*となります。著者らは、カリキュラムはヴァイブ・コーディングを時代遅れにされた構文の習熟として扱うのではなく、書かれた意思疎通をCSの基礎と並べて重く見るべきだと論じています。
 
 ### AIリテラシー、エージェンシー、そして過度の依存のリスク
@@ -101,6 +104,8 @@ ai_assist:
 - **自分が使うものを構築するという二面性：** CSの生徒の独特な立場は、AIの限界についての[[metacognition|メタ認知的]]な自覚と、AIが生成したコードへの[[cognitive-offloading|過度の依存]]の現実的なリスクの両方を作り出します。[[code-review-genai-cs1|コード・レビューのインタビュー]]と[[critical-engagement-code-completion|批判的な関与の研究]]は、この緊張に直接取り組んでいます。
 
 - **チームのPBLにおけるエージェント的なコーディングと理解：** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al.（2026年）]]は、[[agentic-ai|AIエージェント]]を用いた仕様駆動開発を学部生のソフトウェア工学のプロジェクトのコースに導入し、実装のスループット（追加されたLOC）が2022年から2025年にかけて上がった一方、重いAIの使用がコード理解の低下と重なり、それは教員との一対一の点検の後にのみ回復したことを見出しました — スループットの伸びが理解を保証しないという直接的な証拠であり、AI支援のコーディングにおける[[cognitive-offloading|過度の依存]]が教授上の監視に適しているということです。
+
+- **GenAI の価値が決まるのは、採用ではなく継続である。** 45 の研究（2023–2025 年）の PRISMA レビューは、コード生成とデバッグの改善と、概念的な深さが変わらないことを併せて見出し、継続的な利用は、[[technology-acceptance-model|知覚された有用性]]ではなく、較正された[[trust|信頼]]、検証の技能、制度的な指針にかかっていると論じます（[[yalwa-genai-programming-education-sustained-use-2026|Yalwa ら（2026）]]）。
 
 ### エクイティ、文化、そして誰がコンピューティングに入るか
 
@@ -123,7 +128,7 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 ## コンピューティングの教員への含意
 
 - **AIが容易には通れない評定を設計する。** 道具を全面的に禁止するのではなく、生成的AIの再発する失敗のパターン（インターフェース、抽象クラス、継承、画像に基づく課題）を利用しましょう — [[genai-oop-programming-assessments-2026|生成的AIシステムはそこでは依然として苦労しています]]。
-- **自動評定可能な持ち帰りの課題は完了に対する抵抗を提供しなかった。** [[chatgpt-qiskit-homework-autogradable-2026|Kaltchenko & Tiwana（2026年）]]は、Qiskitの課題ごとに50回のChatGPTセッションを行い、150件すべての成果物が実行されて評定者に合格しました。個人化が課題の構造ではなくパラメータを変えたからです。救済策は理解の直接的な評定です — 監督された修正または口頭の弁明。
+- **自動評定可能な持ち帰りの課題は完了に対する抵抗を提供しなかった。** [[chatgpt-qiskit-homework-autogradable-2026|Kaltchenko & Tiwana（2026年）]]は、Qiskitの課題ごとに50回のChatGPTセッションを行い、150件すべての成果物が実行されて評定者に合格しました。[[personalized-learning|個人化]]が課題の構造ではなくパラメータを変えたからです。救済策は理解の直接的な評定です — 監督された修正または口頭の弁明。
 - **信頼を較正せよ、ただ築くな。** [[trust-reliance-ai-education-2026|信頼と依存の研究]]は、より高い信頼が誤解を招くAIの示唆の*より悪い*識別を予測したことを示しています。AIリテラシーと認知的欲求に調整されて、検証と批判的な評価を教えましょう。
 - **デバッグと[[desirable-difficulties|生産的なもがき苦しみ]]を生かし続けよ。** 誤り修正の練習を保つ道具または意図的に誤りうるエージェント（[[chatgpt-teachable-agent-programming-lbt-2024|教えることで学ぶ]]）を選び、専門性の逆転効果を避けるためにAIが生成した媒体を個人化しましょう（[[ai-generated-traces-novice-programmers|専門性の逆転]]）。
 - **AIの支援を明示的に統治せよ。** LLMの支援の方針、執行、そして権威を定義しましょう（[[llm-programming-support-governance-cs-education|PEA]]）。境界を暗に残さないことです。
@@ -132,6 +137,10 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 
 - **プログラミングの誤りのLLM適応的な説明（2026年）：** クラウドソースによる研究（N=103）は、LLMが書き換えたエラーメッセージが読みやすさを改善することを見出しましたが、客観的なデバッグの成績は、説明の様式（実用主義的か偶発的か）をプログラマーの技能に一致させるかに依ります — AI支援のプログラミング教育のための足場づけの知見です（[[llm-adaptive-programming-error-explanations-2026]]）。
 - **監督は正しさではなく適合性についてのものである（2026年）。** 145人の1年生のソフトウェア工学の学生からの962件の学生とAIのターンを符号化して、[[novice-se-students-oversight-genai-2026|Shakiba と Chaffey（2026）]]は、介入の74.4%が適合性の問題を名指したのに対し正しさを名指したのは16.9%であり、応答の51.0%がプロンプトではなく出力を修正したことを見出しました。
+
+- **「コードについての一致は、評定者がコードを読んでいることを意味する。」** ベンチマークの二人の教員の評価者は、C++ の解答について **0.815** で一致しました。**4** つのモデルが、その天井の 100% を超える区間でそれを上回り、**14** がそれを下回り、**33%** まで下がりました。同じコードの課題で、満点を求める注記が Qwen3 235B の評点を **尺度の 83.2%** 上げ、一連の課題を通じて 7 つのモデルが白紙の解答に点を与えたため、[[porcaro-ai-grading-benchmark-2026|学生のコードに対する評定の一巡には、一致の数字と並べて失敗のテストが必要です]]。
+
+- **「効果はコースのどの段階でも同じである。」** それは作業とともに大きくなりました。**14 段階**のルーブリックで採点された **60 の完全な Java プログラム**では、ラベルの効果は GPT-4.1-mini で短答式での大きさの **2.8 倍**、Qwen で **2.4 倍**でしたが、Gemini では **0.4 倍**でした。[[porcaro-ai-grader-reliability-2026|課題とルーブリックは、その効果が測るものの一部です]]。したがって、短答式で検証された大きさは、プログラムには転移しません。
 
 ## よくある誤解
 
@@ -167,11 +176,13 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[assessment-validity]]
 
 ## 関連する記事
+
+- [[shakil-code-commits-complexity-genai-2026]] — Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based Capstone Projects
+
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — 3回の配備、3つのモデル、17万3千件の提出：実際のコースでヒントの振る舞いがどう見えたか
 - [[kumar-genai-computing-education-systematic-review-2026]] — 72の研究の体系的なレビュー：転移しない効率の伸びとVIE枠組み
 - [[vibe-coding-writing-cs-achievement-2026]] — CSの達成と作文の技能がヴァイブ・コーディングの熟達を予測する（CHI 2026年）
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[mechanical-engineering-ai-curriculum-2026]] — 熱工学におけるプロジェクトベースのAI教育カリキュラム
 - [[code-review-genai-cs1]] — AIが生成したコードのCS1コード・レビュー
 - [[dura-llm-cs2]] — DURA：CS2のためのLLMアシスタント
 - [[reshaping-cs-education-genai]] — 生成的AIのための学部のCSカリキュラムの作り直し
@@ -220,3 +231,8 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
 - [[novice-se-students-oversight-genai-2026]] — 正しさを超えて：初心者のソフトウェア工学の学生が生成AIをどう監督するか（Shakiba and Chaffey 2026）
+
+- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて：22 のプロンプト付き評定者が、正解の知られた探査に直面し、その大半は言いくるめられる（Porcaro 2026）
+- [[porcaro-ai-grader-reliability-2026]] — 学習者の文脈が、同一の作業に対する LLM 評定者の評点を変え、教師との一致はそれを捉えない（Porcaro 2026, Paper VI）
+- [[yalwa-genai-programming-education-sustained-use-2026]] — Sustained Use of Generative Artificial Intelligence (GenAI) in Programming Education: A Systematic Review
+

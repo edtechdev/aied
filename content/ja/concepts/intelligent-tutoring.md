@@ -1,8 +1,8 @@
 ---
 title: 知的個別指導
 created: "2026-10-10T21:52:56-04:00"
-updated: "2026-10-30T03:34:02-04:00"
-connected_resources: [deeptutor, openmaic]
+updated: "2026-11-07T20:30:41-05:00"
+connected_resources: [deeptutor, openmaic, learnharness]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,9 @@ TeachLMは、乏しい要素は本物の学習者–チューターの相互作�
 - **そして、その中で効果を駆動するのは投与量です(同一の研究)。** 重み付き傾向スコアの設計では、利用は地区内の MAP の伸び 0.11 SD(全国の Conditional Growth Index では 0.24 SD)と関連し、投与量の勾配はきれいでした。すなわち、週 10〜19 問で 0.18 SD、20 問以上で 0.31 SD であり、週 3 問を超えるすべての投与量が有意でした(p < 0.01)。探索的なサブグループでは、IEP のある学生(+0.122 SD)、[[multilingual-learning|英語学習者]](+0.191 SD)、ヒスパニック系の学生(+0.084 SD)でより大きな関連が見られました。この設計は準実験的であり、利用への自己選択が著者らの名指す弱点ですが、忠実さと投与量反応は、拘束条件という教訓を直接に例証しています。
 - **専門家による人間の個別指導との統計的な同等性。** 2,383人の成人による2,469セッションにわたり、統合されたAI個別指導は、GREの[[learning-gains|学習の伸び]]において、生の1対1の専門家による人間の個別指導と同等でした(±0.25 SDの境界に対し p=.015。調整済み差は−0.58パーセントポイント)。どちらも動画の統制群をおよそ6ポイント上回り、12人のチューターのうち6人は個別の同等性検定に通り、Gemma 4 31Bは1パーセントポイントあたり918分の1のコストで人間の伸びと一致しました([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al.(2026)]])。
 - **LLMチューターのプロンプトによるミクロ個人化(2026年):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel(2026)]]は、Jill Watsonの[[llm]]/[[rag]]の[[teacher-role|教育]]助手を、モデルの再訓練を一切行わず、個々の問いの水準でプロンプト工学によって個人化します——6つの学習者の次元([[metacognition|メタ認知]]的な[[self-assessment|自己評価]]、抽象度、冗長さ、知覚、処理、理解)に応じて応答を条件づけ、各問いの認知的負荷を[[cognitive-diagnosis|Bloomの分類]]の分類器で分類し、96の学習者プロファイルを得ました。2,910件の応答のNLP分析と人間を対象とした調査は、応答の抽象度、冗長さ、複雑さ、処理のスタイルに、意図された効果に沿った測定可能で知覚可能な差を見いだしました。これは、展開されたチューターにおいて、[[adaptive-learning|適応的な行動]]への、拡張可能でモジュール化された道としての、応答の形式(内容ではなく)の適応を実証しています。
+
+- **教室規模での近転移はあるが、標準化テストの利得はない。** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google and Eedi（2026）]]は、英国の公立学校10校の1,179人の学生を10週間にわたって4群に無作為化しました。支援の後、56.5〜56.9%が2つ目の診断問題に正しく答え、標準的な補習では43.4%でした。Star Mathsの効果は−0.01から+0.02 SDでした。チューターは94,385件の下書きの94.7%を変更なしで承認し、114,935件の下書きのうち6件の誤りが学生に届く前に捕捉されました。
+
 - **[[agentic-ai|マルチエージェント]]型の個別指導と[[automated-assessment|自動評価]]。** マルチエージェント型の個別指導システムは、合成された、トレースに基づく評価でベンチマークされつつあります。ASTRAは、社会的に区別されたエージェントによる、単独チューター、ペアチューター、ペア・マルチエージェントの構成を支え、[[cs-education|入門プログラミング]]における相互作用と参加のバランスの再現可能な分析を可能にします。並行して、文脈を踏まえたプロンプトが、[[collaborative-learning|協調的な問題解決]]のスキルのコーディングを過程データから自動化し、大規模な個別指導の評価を支えています。
 
 ### 主要なITSの概念
@@ -158,7 +161,6 @@ AI個別指導を展開する教員と、それを構築する開発者のため
 
 - **手続き的な領域のための規則統合型LLM個別指導。** Looi, Liu, and Sun(2026)は、初等[[math-education|数学]]におけるLLMチューターの一貫性のなさと教授法上の不透明性に、*診断 → 意図の選択 → 制約された応答の生成*という3層のアーキテクチャを中心に構成された規則主導のシステムに関するデザインサイエンス調査で取り組んでいます。彼らは、**規則主導の足場かけ**(監査可能で再現可能な規則に統治されるもの)と**アドホックな足場かけ**(有益な手だてだが、監査も再現も難しいもの)の区別を形式化しています。ペルソナに基づく模擬対話と、40人の小学5年生による教室での試験的実施を通じて評価され、規則主導の足場かけは相互作用の一貫性を改善し、早すぎる答えの提示と早期の打ち切りを減らし、認知的関与を持続させました——一方、教室での試験的実施は、相互作用の複雑さ、断片的な入力、[[simulation|模擬]]が見落とした注意の揺らぎを露わにしました。これは、明確に定義された手続き的な領域で[[llm]]チューターに[[guardrails|境界線を引く]]ための、具体的な青写真です。
 
-
 - **教えられるエージェントと、関与しない対話の分類:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]は、Math Nation(代数と幾何)の中でGPT-4-Turboの教えられるエージェントを動かしました。生徒は、提示された2つの解法のうちどれが誤概念を含むかを同定し、訂正を正当化し、エージェントに教えました——説明の質を採点する別のメンターエージェントを伴う、[[learning-by-teaching|教えることで学ぶ]]構造です。6,933問が開かれ、22,143件の相互作用が記録される中で、彼らは6カテゴリーの対話的な非関与の分類器を構築しました(人間がループに入る:1,682件の注釈付き発話、ファインチューニングされたLLaMA 3、加重F1 = 0.910、モデル対人間のκ = 0.624)。そしてこれを用いて246人の中学生を研究しました。方法論上の貢献は、知見と同じくらい重要です。分類器がコーパスの大部分にラベルを貼るとき、頻度に基づく結果は人間が注釈を付けた部分集合に対してストレステストされなければなりません——そしてここでは、見出しの関連付け(False AnsweringとMockingがより高い事後テストを予測する)は、まさにその検証の下で消え去りました。
 - **学習者の成績のためだけでなく、学習者の価値に沿って設計せよ。** [[ko-hughes-vsd-student-centered-its-2026|価値感受性デザインの研究]]は、発達数学のコミュニティカレッジの学生と教員とともに、ITSの[[ethics|倫理的]]な次元が、付け加えられる別個の要素ではないことを示しています。学生と教員に直接かかわることが、[[explainable-ai|説明可能性]](理解度の確認の解釈、学習経路との接続、モデルの確信度の伝達)、[[agency|学習者の統制]](再評価、復習、ペース、AI支援の水準に対する統制)、そして[[privacy]]([[learning-analytics|学習分析]]と[[affective-computing|感情的]]状態の共有について、データの再利用の統制と許可の確認)にわたる16の価値に沿った特徴を生み出しました。この研究は、[[agency|生徒の主体性]]対システム主導の足場かけという、持続的な設計上の緊張を枠づけ、そして多くの機関が適応的な個別指導を完全に無効化していることに触れています。つまり、価値に即した設計は、ITSのAI能力が実際にどう(そしてそもそも)展開されるかにかかっているのです。
 
@@ -174,28 +176,30 @@ AI個別指導を展開する教員と、それを構築する開発者のため
 
 ## 関連する概念
 
-- [[scaffolding]] — 足場かけ
-- [[adaptive-learning]] — 適応的学習
-- [[cognitive-diagnosis]] — 認知的診断
-- [[llm]] — 大規模言語モデル
-- [[student-modeling]] — 学習者モデル化
-- [[knowledge-tracing]] — 知識追跡
-- [[feedback]] — フィードバック
-- [[ai-feedback-quality]] — AIフィードバックの質
-- [[socratic-method]] — ソクラテス式問答法
-- [[personalized-learning]] — 個人化学習
-- [[self-regulated-learning]] — 自己調整学習
-- [[generative-ai]] — 生成AI
-- [[ai-education]] — 教育におけるAI
-- [[metacognition]] — メタ認知
-- [[pedagogical-safety]] — 教授法上の安全性
-- [[privacy]] — プライバシー
-- [[educational-policy-ai]] — 教育におけるAI政策
-- [[guardrails]] — 境界線(ガードレール)
-- [[k-12]] — K-12
-- [[speech-and-voice-technologies]] — 音声・発話技術
+- [[scaffolding]]
+- [[adaptive-learning]]
+- [[cognitive-diagnosis]]
+- [[llm]]
+- [[student-modeling]]
+- [[knowledge-tracing]]
+- [[feedback]]
+- [[ai-feedback-quality]]
+- [[socratic-method]]
+- [[personalized-learning]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[ai-education]]
+- [[metacognition]]
+- [[pedagogical-safety]]
+- [[privacy]]
+- [[educational-policy-ai]]
+- [[guardrails]]
+- [[k-12]]
+- [[speech-and-voice-technologies]]
 
 ## 関連する記事
+
+- [[learnlm-eedi-expanded-rct-2026]] — 拡大された英国のRCT：近転移の利得はあるが、10週間での標準化テストの優位はない（LearnLM Team, Google & Eedi 2026）
 
 - [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与の対話的な行動と学習(Rho et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI個別指導が授業内のアクティブラーニングを上回る:本物の教育的環境で新しい研究に基づく設計を導入した無作為化比較試験(Kestin et al. 2025)

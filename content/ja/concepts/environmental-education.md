@@ -1,7 +1,7 @@
 ---
 title: 環境教育
 created: "2026-10-10T22:31:14-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ ai_assist:
 
 学習者側では、ライブの LLM 利用中の遅延と炭素のトレードオフを露出するエコフィードバックのインターフェースが、コンピューティング倫理のコースの 89 名のコンピュータサイエンスの学部生を対象に研究されました。学生は低遅延のやり取りのおおよそ 45% で低炭素モードを選びましたが、高遅延では 5% 未満でした。そして持続可能性の意識はその選択を有意に高めました。標本は小さく、技術的に異常に通じた集団ですが、それは、フットプリントの情報が学習者を動かすということについてのコーパスで唯一の直接的な証拠です——そしてそれは、拘束条件が価値観ではなく忍耐であることを示唆しています。（[[llm-environmental-impact-student-usage-2026]]）
 
-緩和の証拠は、単一の民生用 GPU（12 GB VRAM）上に、オープンにライセンスされた内容とともに設置されたオンプレミスの[[cs-education|CS]]ナレッジベースアシスタントから来ています。最も良い場合でクエリあたり 1.8 mWh——30 名のクラスがそれぞれ 10 件のクエリを送る場合、およそ 0.54 Wh——であり、量子化を意識したファインチューニングが、圧縮のみによって生じた正確性の低下と[[hallucination-risk|幻覚]]の増加の両方を抑えていました。それは学習研究ではなく工学上のベンチマークですが、フットプリントの問題が設計上の梃子（接地、量子化、展開の場所）を持つことを示しています。利用の節制という梃子だけでなく。（[[shen-sustainable-ai-knowledge-base-cs-education-2026]]）
+緩和の証拠は、単一の民生用 GPU（12 GB VRAM）上に、オープンにライセンスされた内容とともに設置されたオンプレミスの[[cs-education|CS]]ナレッジベースアシスタントから来ています。最も良い場合でクエリあたり 1.8 mWh——30 名のクラスがそれぞれ 10 件のクエリを送る場合、およそ 0.54 Wh——であり、量子化を意識した[[llm-training-and-fine-tuning|ファインチューニング]]が、圧縮のみによって生じた正確性の低下と[[hallucination-risk|幻覚]]の増加の両方を抑えていました。それは学習研究ではなく工学上のベンチマークですが、フットプリントの問題が設計上の梃子（接地、量子化、展開の場所）を持つことを示しています。利用の節制という梃子だけでなく。（[[shen-sustainable-ai-knowledge-base-cs-education-2026]]）
 
 ## グリーンスキル、持続可能性の意識、教員の能力
 

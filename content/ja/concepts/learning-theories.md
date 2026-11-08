@@ -1,7 +1,7 @@
 ---
 title: 学習理論
 created: "2026-10-10T22:38:12-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## 導入
 
-これは、このナレッジベースの学習理論の束の傘の概念です。学習理論は、教育におけるAIの中心に位置します。なぜなら、すべてのAIチューター、適応システム、フィードバックの道具は、人間がどう学ぶかについての想定を埋め込んでいるからです——設計者がそれを述べようと述しまいと。このナレッジベースはそれらの理論を個別に記録し、AIの設計と効果が評価される概念的なレンズとして扱います。それらの枠組みを検証する研究分野は別のページです。[[learning-sciences|学習科学]]は学習を実証的に研究し——実験、教室での試行、デザインに基づく研究——理論を確証されたり反証されたりするものとして扱います。一方このページは枠組みそのものを集めます。この2つの語句はこのナレッジベースで区別されており、単数形の「learning science」はこの理論の束を指します。
+これは、このナレッジベースの学習理論の束の傘の概念です。学習理論は、教育におけるAIの中心に位置します。なぜなら、すべてのAIチューター、適応システム、フィードバックの道具は、人間がどう学ぶかについての想定を埋め込んでいるからです——設計者がそれを述べようと述しまいと。このナレッジベースはそれらの理論を個別に記録し、AIの設計と効果が評価される概念的なレンズとして扱います。それらの枠組みを検証する研究分野は別のページです。[[learning-sciences|学習科学]]は学習を実証的に研究し——実験、教室での試行、[[design-based-research|デザインに基づく研究]]——理論を確証されたり反証されたりするものとして扱います。一方このページは枠組みそのものを集めます。この2つの語句はこのナレッジベースで区別されており、単数形の「learning science」はこの理論の束を指します。
 
 ### 学習理論の景観
 
@@ -49,7 +49,9 @@ ai_assist:
 
 ### 学習理論と学習成果
 
-学習理論は最終的にその結果によって評価され、このナレッジベースの[[learning-gains]]の概念が理論が証拠と出会う場所です。各理論は、何が学習として*数えられる*か、そしてどう測定されるかについて異なる予測を行います。行動主義は詰め込みとフィードバックの課題における観察可能な成績の向上を予測し、構成主義は新しい問題に転移するより深い理解を予測し、社会文化的な理論は参加と媒介された問題解決における向上を予測し、認知負荷理論は教授が作業記憶の限界を尊重するときにのみ向上を予測します。これが[[learning-gains]]の測定が理論に負荷を帯びている理由です——1つの理論に基づいて構築された道具は、別の理論が予測する成果を捉えないかもしれません。AI時代において、AIに支援された成績と非支援の[[learning-gains|学習成果]]の鋭い乖離([[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]を参照)は、このレンズを通して読むことができます。行動主義的な読みは膨らんだ宿題の得点を成功として見るのに対し、持続的な理解に焦点を当てた構成主義的な読みは、同じ証拠を学習の失敗として見ます。それゆえ、理論を[[ai-ed-evaluation|評価]]と[[learning-gains|測定された成果]]につなぐことは、あるAIシステムが実際にどの理論的なレンズを満たすかを決めるために不可欠です。
+学習理論は最終的にその結果によって評価され、このナレッジベースの[[learning-gains]]の概念が理論が証拠と出会う場所です。各理論は、何が学習として*数えられる*か、そしてどう測定されるかについて異なる予測を行います。行動主義は詰め込みとフィードバックの課題における観察可能な成績の向上を予測し、構成主義は新しい問題に転移するより深い理解を予測し、社会文化的な理論は参加と媒介された[[problem-solving|問題解決]]における向上を予測し、認知負荷理論は教授が作業記憶の限界を尊重するときにのみ向上を予測します。したがって、測定の選択が、評価がどの理論の予測を確かめられるかを決めます。AI時代において、AIに支援された成績と非支援の[[learning-gains|学習成果]]の鋭い乖離([[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]を参照)は、このレンズを通して読むことができます。行動主義的な読みは膨らんだ宿題の得点を成功として見るのに対し、持続的な理解に焦点を当てた構成主義的な読みは、同じ証拠を学習の失敗として見ます。それゆえ、理論を評価と測定された成果につなぐことは、あるAIシステムが実際にどの理論的なレンズを満たすかを決めるために不可欠です。
+
+**統合された証拠は肯定的であり、それは理論が扱うよりも狭い構成概念を測っています。** 53 研究の PRISMA[[meta-analysis-systematic-review|メタ分析]]は、生成 AI の支援を学業達成で g = 0.40、[[critical-thinking|高次思考]]で 0.72、ライティングで 0.76、動機づけで 0.81 とし、生成 AI のフィードバックが最大の機構で g = 1.27 でした（[[genai-educational-outcomes-meta-analysis|Dong (2026)]]）。これらは対象研究が選んだ測定具における伸びであり、したがって「機能する」という行動主義的あるいは認知主義的な読みを決着させ、持続的で転移可能な理解についての構成主義的な予測を未検証のまま残します。国別の下位集団も分かれ、中国の g = 0.71 からトルコの非有意な g = 0.01 に及んだため、統合推定値は道具の性質ではなく、地域ごとに検証すべき平均です。
 
 ### なぜ学習理論が教育におけるAIにとって重要なのか
 
@@ -65,7 +67,7 @@ ai_assist:
 
 - **人間–AIの共[[regulation|調整]]。** 発達的な枠組みは、AIを外的な道具としてではなく、生涯にわたり思考・学習・自己制御を共に調整する**認知的パートナー**として位置づけます。([[ai-cognitive-partner-co-regulation-learning]])実行機能、[[metacognition]]、分散された認知、社会文化的な発達に依拠し、AIを4つの役割——足場、メタ認知的支援、外部記憶／[[cognitive-offloading]]システム、意思決定のパートナー——として描きます。この枠組みは、中期の子ども期以降で最も関連性があります。
 - **アンサンブル認知。** [[philosophy-of-ai-in-education|哲学的]]な枠組みは、思考を個々の心にのみ宿るものではなく、人間と人工のエージェントの間の動的な相互作用から湧き出るものとして再概念化します。([[ensemble-cognition-philosophy-ai-education]])それは「意識のパラダイム」(自律性、意識、安定性の想定)に異議を唱え、5つの特徴——分散された主体性、動的な中心性、認知的オーケストレーション、多表象的な統合、文脈に感応的な切り替え——を明示し、AIの**機能的な主体性**を道徳的な責任から区別します。
-- **[[self-directed-learning|自己指向的な]]成長／A2PL。** [[self-directed-learning|自己指向的な学習]]の拡張は、生成AIを[[learning-analytics|学習分析]]と統合して**自己指向的な成長**を涵養し、Aspire to Potentials for Learners (A2PL)モデルを通じて具体化されます。([[self-directed-growth-generative-ai-learning-analytics]])それは、学習者の志向(人本主義的)、複雑な思考(構成主義的)、自己評価(実用主義的)を1つの能力に再構成し、内容の提供者ではなく非規定的な協働的な足場としてGAIを位置づけます。
+- **[[self-directed-learning|自己指向的な]]成長／A2PL。** [[self-directed-learning|自己指向的な学習]]の拡張は、生成AIを[[learning-analytics|学習分析]]と統合して**自己指向的な成長**を涵養し、Aspire to Potentials for Learners (A2PL)モデルを通じて具体化されます。([[self-directed-growth-generative-ai-learning-analytics]])それは、学習者の志向(人本主義的)、複雑な思考(構成主義的)、[[self-assessment|自己評価]](実用主義的)を1つの能力に再構成し、内容の提供者ではなく非規定的な協働的な足場としてGAIを位置づけます。
 
 - **欺瞞的な過度の一般化。** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, Stamper(2026年)]]は、観察された正しさが不完全な条件的な理解を覆い隠す場合を理論化することで、ACT-R／Knowledge-Learning-Instructionの伝統を拡張します。学習者は、適用制約を欠く過度に一般化された産出を体系化しながら、なお正しく遂行することがあります——この失敗モードは、適応的な熟達システム、さらには伝統的な教授でさえ、行動を*控えるべきとき*を検証しない限り見落としうるものです。
 - **実行可能なKLI理論。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho(2025年)]]は、Knowledge-Learning-Instructionの枠組みを実行可能な計算モデル(ACT-R風の記憶機構を備えたApprentice Learnerの枠組み)に接地させます。このモデルは人間のデータにおける交差的な交互作用を再現します。純粋な練習は逐語的な事実の記憶を助け(忘却を遅らせることで)、例と統合された練習は一般化可能な技能の帰納を助けます。KLIが定数的な(事実の)知識を記憶の過程に、可変的な(技能の)知識を帰納に結びつけるため、この結果は検定と解き方の例の推奨との矛盾ではなく、予測された内容–処置の交互作用です——そして記憶の機構が存在する場合にのみモデルが成功することは、練習と例が異なる相補的な役割を果たすことを実証しています。
@@ -85,7 +87,7 @@ ai_assist:
 
 古典的な系と並んで、このナレッジベースはAIシステムとの学習のために特別に書かれた理論を記録しており、それらは古い理論が開いたままにしている設計上の含意を帯びています。[[yan-agentivism-learning-theory-ai-2026|Agentivism(Yan and Gašević 2026年)]]はその中範囲の例です。それは学習を、課題の成功ではなく人間の能力における持続的な成長として定義し、4つの機構(委譲された主体性、認識論的な監視と検証、再構築的な内面化、支援が減少した下での転移)を名指し、6つの検証可能な命題を述べます。その中には、問題の枠づけ・基準の設定・正当化に対する学習者の責任を保つAI支援が、答えを差し出す支援よりも強い学習を生み出すという命題があります。
 
-[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed(2026年)]]の**教授法的な共生**はより強い存在論的な主張をします。学習者は、道具に助けられるのではなく混成的な認知を持つ*ポストヒューマン*な存在であり、4つの原理によって組織されています。認知的オフローディングと増幅、認識論的な共構築、メタ認知的な共生、動的なアイデンティティ形成——Symbiotic Portfolioのルーブリックと「Cognitive Choreographer」という教師の役割として具体化され、明示的に未検証です。
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed(2026年)]]の**教授法的な共生**はより強い存在論的な主張をします。学習者は、道具に助けられるのではなく混成的な認知を持つ*ポストヒューマン*な存在であり、4つの原理によって組織されています。認知的オフローディングと増幅、認識論的な共構築、メタ認知的な共生、動的なアイデンティティ形成——Symbiotic Portfolioのルーブリックと「Cognitive Choreographer」という[[teacher-role|教師の役割]]として具体化され、明示的に未検証です。
 
 ## よくある誤解
 
@@ -151,7 +153,7 @@ ai_assist:
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
 - [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
-- [[genai-educational-outcomes-meta-analysis]]
+- [[genai-educational-outcomes-meta-analysis]] — PRISMA の 53 研究のメタ分析：達成、思考、ライティング、動機づけにおける統合された伸び、フィードバックが最大の機構（Dong 2026）
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent

@@ -1,14 +1,14 @@
 ---
 title: 構成主義
 created: "2026-10-10T21:53:11-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,9 @@ ai_assist:
 このパターンは分野全体に一般化します。
 
 - 生成AIが学生の代わりに執筆、推論、コードを完成させるとき、学習者は、その課題が構築するよう設計された構築的な思考過程を失います。これは[[cognitive-offloading]]と[[cognitive-offloading|過剰依存]]を中心とする懸念です。([[generative-refusal-ai-tools-for-thought]])
+
+- 損失は今や測定可能であり、それは道具ではなく仕事に従います。26,811名の中国の中等教育の学生において、生成AIは宿題の得点を18%上げ、完了時間を30%短縮した一方、[[summative-assessment|閉じた本での試験]]の得点は6か月以内に20%下がりました。低下は、完了時間が宿題の外注を示した約81%の利用者に集中し、宿題の時間を非利用者と同程度に保った利用者は同じように効率的に学びました（[[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei、Wu（2026年）]]）。学習を予測した変数はAIの使用ではなく、学習者が依然として構築を行ったかどうかでした。
+
 - 適応的フィードバックと効率性を強調するAI実装は、しばしば、構成主義が含意する学習者の主体性、批判的省察、自律的意思決定の目標に十分に応えません。([[ai-vocational-education-training-review]])
 
 ### 命名の罠:生成AIの出力は生成的学習ではない
@@ -166,3 +169,6 @@ ai_assist:
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution:学生の認知的発達を模擬する生成エージェント
 
 - [[synthetic-position-self-authorship-2026]] — 模擬されたAIの反対の立場は対話の形式を反復するが、改訂を促す抵抗を差し控える
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 学習の罰：宿題の得点は18%上昇、閉じた本の試験は20%低下し、宿題を外注した者に集中した
+

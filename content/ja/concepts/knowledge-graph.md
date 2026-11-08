@@ -1,13 +1,13 @@
 ---
 title: 知識グラフ
 created: "2026-10-10T22:38:04-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -45,10 +45,13 @@ ai_assist:
 - **[[cognitive-diagnosis]]の枠組み**は、[[xie-hillm-cd-2026|HiLLM-CD]]のように、LLM を用いて教育テキストから概念の木を構成し、手作業の注釈付けを不要にします。
 - **知識グラフで強化された個別指導：** [[quantum-education-its|ITAS]]は、量子の概念の知識グラフ（明示的な前提条件の関係を含む）を用いてマルチエージェントの個別指導システムを動かし、直観に反する内容のために次に扱う話題を選ぶためにグラフを辿ります。
 - **カリキュラムとコースのモデル化：** [[coursegraph-cs-course-comparison-2026|CourseGraph]]は、グラフ表現を用いて複数の機関にわたる計算機科学（CS）のコース構造を比較します。[[learnity-graphs-lifelong-learning-framework-2026|Learnity グラフ]]は、[[lifelong-learning|生涯学習]]の経路をモデル化します。
-- **前提条件の関係の学習：** [[proprl-prerequisite-relation-learning|ProPrL]]は、概念間の前提条件の関係を学び、知識グラフが符号化する辺を定式化します。
+- **前提条件の関係の学習：** [[proprl-prerequisite-relation-learning|ProPrL]]は、概念間の[[recommender-systems-and-learning-paths|前提条件の関係]]を学び、知識グラフが符号化する辺を定式化します。
+
+- **学習可能な前提条件の発見が、専門家の事前分布に取って代わる。** [[xu-graph-knowledge-tracing-survey-2026|Xuら（2026年）]]のサーベイの統合は、グラフに基づく追跡器が訓練中に応答データから前提条件の構造を学習し、専門家が作った事前分布に取って代わりうることを見出しています。GKTは学習可能な隣接行列をエンドツーエンドでパラメータ化し、SKT-Lは訓練しながら前提条件を学習し、PKTはL1正則化を適用して疎な前提条件グラフを復元して正解の構造に対してF1スコアで評価し、PSI-KTの変分ベイズの枠組みは、ベースラインのモデルよりも人間が注釈した前提条件によく整合する有向の前提条件グラフを推論します。
+
 - **知識の欠落の検出：** [[knowledge-gap-detection-ai-tas|知識の欠落の検出]]は、AI の教育助手においてグラフに基づく推論を用いて、学習者が基礎的な概念を欠いている箇所を特定します。
 - **[[multimodal|マルチモーダル]]で説明可能な推論：** [[multimodal-knowledge-graph-educational-reasoning|マルチモーダルな知識グラフ]]は、グラフ構造を複数の内容様態にわたって拡張します。[[fair-explainable-edu-recommendations|公正で説明可能な推薦]]は、知識グラフの埋め込みを逐次的なモデル化と結合します（ハイブリッドな HKG-GRU の枠組み）。
-- **資源推薦のための教授学的に構造化されたグラフ：** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]]は、各教授資源の実体を四つの教授学的な次元（教授の文脈、認知的レベル、技術的な特徴、文化的な適応性）に分解し、それらの次元にわたって利用者に依存する意味的な類似性を計算し、能力と進捗を意識した係数によって協働フィルタリングと融合します——資源を消費される品として扱うのではなく、教授学的な構造を推薦の信号に直接符号化するのです。
+- **資源推薦のための教授学的に構造化されたグラフ：** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]]は、各教授資源の実体を四つの教授学的な次元（教授の文脈、認知的レベル、技術的な特徴、文化的な適応性）に分解し、それらの次元にわたって利用者に依存する意味的な類似性を計算し、能力と進捗を意識した係数によって協働フィルタリングと融合します——資源を消費される品として扱うのではなく、[[pedagogy|教授学的な構造]]を推薦の信号に直接符号化するのです。
 - **オントロジーに基づく知識基盤：** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]]は、記述論理に根ざした階層的でハイブリッドな知識基盤のアーキテクチャを提案し、古典的な ITS の単一オントロジーのモデルを**対応づけられたオントロジーの体系**に置き換えます——手続き的（規則に基づく）なもの、確率的／ファジィなもの、そして機械学習で抽出された暗黙の知識を加え——さらに、教育オントロジーを記述し、発見し、再利用するためのメタデータの枠組みを加えます。
 - **[[scaffolding|足場かけ]]と作文：** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]]と[[visual-query-tracer-declarative-logic-learning|視覚的なクエリの追跡]]は、グラフに基づく構造を物語の起草と宣言論理の学習に応用します。
 - **人間が編集した文学のグラフ、そして監査が明かすもの：** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]]は、文学の前提をグラフ化します——1,455 件の公理の記録、149 作品への 1,464 の対応づけ、そして 472 の型づけされた関係——であり、[[llm|言語モデル]]が候補となる定式化を提案し、人間の編集者がそれを選択し根拠づけました。その再計算された監査は、その構造と同じくらい示唆に富みます。すべての端点は解決し、重複も自己リンクも残っていませんが、1,455 件の公理のうち 1,448 件が正確に一つの作品に対応づけられています（したがって作品を超えた再利用は疎です）。文脈の分類体系は二つの文脈の型を分離できず、出自の記録は一つも残っておらず、その時点の記録は自らのパイプラインを再構成できません。構造的な妥当性は解釈的な質ではなく、出自のない編集されたグラフは、監査も更新もできません。

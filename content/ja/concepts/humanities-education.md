@@ -1,14 +1,14 @@
 ---
 title: 人文科学と社会科学の教育
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -35,13 +35,18 @@ ai_assist:
 
 SSHの教育は、[[stem-education|STEM教育]]と[[language-learning|言語学習]]に補完的な、ナレッジベースにおける独自の主題領域です。人文科学が解釈の深さ、著作、文脈的な判断を重んじるため、それらはSTEMとは異なるAI統合の課題を立てます。そして[[discipline-specific-aied|専門分野特有の]]仕方で[[higher-ed|高等教育]]と[[ai-literacy|AIリテラシー]]につながります。
 
+市民的・政治的教育は、これらの学問分野の一部門ではなく、隣接する主題領域であり、[[civic-and-political-education]]はそれをそれ自体として扱います。そこでのナレッジベースの証拠は薄く、8つの資料がこの主題に触れていますが、市民的学習を測定したものは一つもありません。
+
 ### AIが人文科学と社会科学の教育にどう現れるか
 
 - **解釈的な認知の組み替え。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]は、生成AIが、SSH教育において意味づくり、著作、学習者の[[agency|主体性]]を組み替える*認識論的な媒介者*として働くと論じます。同氏は3つの変容、すなわち解釈的な認知の外在化、著作の混成化、分散された認識論的な主体性の出現を特定し、3つの発達の軌道(AI依存的、AI増強的、AI批判的な解釈)を挙げます。これは、解釈の深さを保つ発達的・批判的な[[pedagogy|教授法的な]]モデルを裏づけます。
+
+- **課題が読者に何を見せるかが、著作が評価可能かどうかを決める。** 148 のテキストによるモデルのシミュレーションでは、覚書と改訂の弁明が論証の可視性で 3.16 と 3.10 を記録し、立場を述べるエッセイの 2.63 を上回りました。それは、その形式自体が出典の説明や反論への応答を要求したからです（[[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu（2026）]]）。
+
 - **歴史教育。** [[paternalistic-filter-llm-history-education|歴史教育におけるLLMの研究]]は、AIが歴史的な推論と出典の解釈をどう形づくるかを検討します。
 - **人文科学と社会科学の学生の経験。** [[genai-impact-chinese-students-hss|中国人の人文科学・社会科学の学生へのGenAIの影響]]と[[acceptance-ai-english-tools-2026|言語・英語の学習者の間でのAIの受容]]は、SSHの各分野にわたる学生向けの効果を記録します。
 - **批判的で哲学的な次元。** [[voicu-ai-interpretive-cognition-ssh-2026|批判的なAIリテラシー]]と[[philosophy-of-ai-in-education|教育におけるAIの哲学]]は、意味、価値、認識論的な権威の問いが中心的なSSHにおいて、とくに際立っています。
-- **[[governance|制度的な]]デジタル変革。** Qin (2026)は、嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として自らを再定位したことを記録し、全学部生(潜在空間、GAN、拡散モデル、[[prompt-engineering|プロンプトづくり]]、微調整、バイアス、誤情報を扱う生成AIに関する必修の1年次の共通コア科目を含む)にGenAIリテラシーを必修としました。この立場の論文は、教育のためのAIへの転換は技術中心の増強ではなく*知的な変革*であると論じ、[[ai-literacy|デジタルの流暢さ]]を中核的なリベラルアーツの力量として位置づけながら、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループ]]モデルが[[ethics|倫理]]的な推論、批判的な判断、社会的な責任を前面に出します。[[generative-ai|GenAI]]の革新と人文科学的な基盤とを両立させる[[higher-ed|高等教育]]の具体的な青写真です。
+- **[[governance|制度的な]]デジタル変革。** Qin (2026)は、嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として自らを再定位したことを記録し、全学部生(潜在空間、GAN、拡散モデル、[[prompt-engineering|プロンプトづくり]]、[[llm-training-and-fine-tuning|微調整]]、バイアス、誤情報を扱う生成AIに関する必修の1年次の共通コア科目を含む)にGenAIリテラシーを必修としました。この立場の論文は、教育のためのAIへの転換は技術中心の増強ではなく*知的な変革*であると論じ、[[ai-literacy|デジタルの流暢さ]]を中核的なリベラルアーツの力量として位置づけながら、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループ]]モデルが[[ethics|倫理]]的な推論、批判的な判断、社会的な責任を前面に出します。[[generative-ai|GenAI]]の革新と人文科学的な基盤とを両立させる[[higher-ed|高等教育]]の具体的な青写真です。
 - **この分野の評価への晒され方は今や測定されており、それは拡散的ではなく集中している。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]は、オーストラリアのGroup of Eightの大学にわたる15,587件のArts and Humanitiesの科目の記録を監査し、2026年の評価項目の58.6%が[[generative-ai|GenAI]]に高度に晒されていることを見いだしました。持ち帰りの論文と研究報告書は、成績で重み付けしたときにその晒され方の71.4%を占めます。
 
 ### なぜ重要なか
@@ -50,14 +55,14 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 
 ## 人文科学と社会科学の教育者にとっての含意
 
-- **AIを認識論的な媒介者として扱い、内容のチューターとしては扱わない。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]は、AIがSSHにおける意味づくり、著作、主体性を組み替えることを示します。3つの軌道(AI依存的、AI増強的、AI批判的)を軸に教授法を設計し、AI批判的な端を目指してください。
+- **AIを認識論的な媒介者として扱い、内容のチューターとしては扱わない。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]は、AIがSSHにおける意味づくり、著作、主体性を組み替えることを示します。3つの軌道(AI依存的、AI増強的、AI批判的)を軸に[[design-education|教授法を設計]]し、AI批判的な端を目指してください。
 - **解釈の深さと著作を守る。** 人文科学が判断と独創的な著作を重んじるため、AIが分析を浅くすることを防いでください。AIの出力の批判的な[[ai-ed-evaluation|評価]]を学習の目標にしてください([[critical-thinking|批判的思考]]、[[ai-literacy|AIリテラシー]])。
 - **出典の仕事でAIを意図的に使う。** [[paternalistic-filter-llm-history-education|歴史の研究]]は、AIが推論と出典の解釈を形づくりうることを示します。学生に、AIが媒介する歴史的な主張とそれが適用するフィルターを問い質すよう教えてください。
 - **学生向けの影響を考慮する。** [[genai-impact-chinese-students-hss|学生の経験の研究]]は、GenAIがSSHの学習者にどう影響するかを記録します。想定ではなく実際の利用に合わせて支援と誠実性の枠づけを適応させてください。
 
 ## よくある誤解
 
-**「人文科学は、カリキュラムの中で最もAIに晒されていない部分である。」** 晒され方は測定されており、拡散的ではなく集中しています。[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]は、その晒され方がどこにあるのかを確定するために**15,587件のArts and Humanitiesの科目の記録**を監査しました。それは薄く広がっているのではなく、科目ごとに不均等に分布しており、そのことが評価の再設計を、分野全体の問題ではなく標的を絞った問題にしています。
+**「人文科学は、[[curriculum-design|カリキュラム]]の中で最もAIに晒されていない部分である。」** 晒され方は測定されており、拡散的ではなく集中しています。[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]は、その晒され方がどこにあるのかを確定するために**15,587件のArts and Humanitiesの科目の記録**を監査しました。それは薄く広がっているのではなく、科目ごとに不均等に分布しており、そのことが評価の再設計を、分野全体の問題ではなく標的を絞った問題にしています。
 
 **「人文科学教育におけるAIは、技術中心の増強である。」** このページが依拠する立場の論文は、その転換が増強ではなく*知的な変革*であると論じ、[[ai-literacy|デジタルの流暢さ]]を中核的なリベラルアーツの力量として位置づけています。変えられていない授業に道具を付け加えることは、変革をその道具と取り違えています。
 
@@ -79,6 +84,7 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 - [[stem-education]]
 - [[ai-education]]
 - [[discipline-specific-aied]]
+- [[civic-and-political-education]]
 
 ## 関連する記事
 
@@ -88,3 +94,6 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 - [[acceptance-ai-english-tools-2026]] — 言語と人文科学の学習者の間でのAIの受容
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587件のGo8のArts and Humanities科目の計算による監査:2026年の評価項目の58.6%がAIに高度に晒され、論文と報告書に集中している
 - [[genai-values-education-affordances-risks-2026]] — 価値教育における生成的AI：アフォーダンス、倫理的リスク、教授への含意(Chen 2026)
+
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — 成果物が証拠立てられるものとしての課題の形式と AI 利用の指示（Liu & Liu 2026）
+

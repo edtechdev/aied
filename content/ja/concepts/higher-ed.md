@@ -1,7 +1,7 @@
 ---
 title: 高等教育
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -82,7 +82,7 @@ AI による個別指導の 1 時間は、2,383 人の成人による 2,469 セ�
 ## 高等教育の教育者にとっての含意
 
 - **AIを使いこなす学生の集団に向けて評価を設計する。** 検出中心の誠実性アプローチは、[[authentic-assessment|真正の]]評価と過程に基づく評価([[beyond-detection-authentic-assessment-ai-2025|検出を超えて]]、[[ai-assessment-scale-reform|評価改革]])へと道を譲りつつあります。どう取り締まるかだけでなく、何を評価するかを再設計してください。
-- **教室内での禁止を保証として扱うのをやめる。** スマートグラスと AI 対応の補聴器は二重に透明です。検出できる視線の低下も姿勢の変化もありません。したがって監督下の試験や口述試験は、物理的な分離によって証拠上の確信を買うことができなくなりました（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
+- **教室内での禁止を保証として扱うのをやめる。** スマートグラスと AI 対応の補聴器は二重に透明です。検出できる[[sensor-and-gaze-analytics|視線]]の低下も姿勢の変化もありません。したがって監督下の試験や口述試験は、物理的な分離によって証拠上の確信を買うことができなくなりました（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
 - **「学生は何を手で学ぶべきか」という問いを再設計する。 計算機の分野と同じように、保存すべきスキル(検証、判断、過程)を決め、それを評価される中核とします。AIスキルが自動的に転移すると仮定しないことです。
 - **教員の対応力を、技術的なものではなく社会技術的なものとして扱う。** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]]は、対応力を認識論的・教授法的・制度的・質保証の各領域にわたって枠づけます。道具の習熟だけでなく、[[pedagogy|教育の実践]]を機関のガバナンスと整合させてください。
 - **教員には、道具への自信だけでなく AI リテラシーに資金を提供する。** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]は、社会的・組織的な支援が大学教員の AI ウェルビーイングに、AI リテラシー（β = 0.713）を通じて間接的にのみ達することを見出しました。概念的・倫理的・教授法的な理解を築くプログラムは、実践的な習熟だけよりも教員にとって多くを行います。

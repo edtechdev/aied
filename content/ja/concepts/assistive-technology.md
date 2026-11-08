@@ -1,14 +1,14 @@
 ---
 title: 支援技術
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-10-30T03:37:03-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_of: concepts/assistive-technology
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -21,7 +21,7 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
-> **支援技術（Assistive Technology）** — 障害のある人々が、学習や日常生活において、知覚し、操作し、コミュニケーションし、参加することを助ける機器、ソフトウェア、およびサービスです。[[ai-education|AI を活用した教育]]において、支援技術は、スクリーンリーダー、音声からテキストへの変換およびテキストから音声への変換、キャプション、点字および触覚出力、手話ツール、そしてますます、内容と相互作用を個人のニーズに適応させる AI を活用した配慮にわたります。
+> **支援技術（Assistive Technology）** — 障害のある人々が、学習や日常生活において、知覚し、操作し、コミュニケーションし、参加することを助ける機器、ソフトウェア、およびサービスです。[[ai-education|AI を活用した教育]]において、支援技術は、スクリーンリーダー、音声からテキストへの変換および[[speech-and-voice-technologies|テキストから音声への変換]]、キャプション、点字および触覚出力、手話ツール、そしてますます、内容と相互作用を個人のニーズに適応させる AI を活用した配慮にわたります。
 
 ## 考えるべき問い
 
@@ -51,7 +51,7 @@ ai_assist:
 
 - **道具を学習者と課題に合わせる。** スクリーンリーダー、キャプション、音声、触覚出力は、それぞれ異なる障害に対処します——個人のニーズと内容の形式に基づいて選んでください。
 - **AI を活用して支援的な適応のコストを下げる。** AI は自動的にキャプションを付け、テキストを単純化し、代替物を生成できますが、教育学的な正確さについて出力の質を評価してください。
-- **その支援が果たす機能を述べ、そしてその機能に対して評価してください。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 他（2026）]]は、補償（アクセスと参加によって評価される）を、足場かけ（支援を伴う意思決定）から、発達（フェーディングまたは転移の後の方略の利用）から区別します。そして、このページの注意に向けられた規則を加えます。すなわち、支援へのアクセスは修繕ではない——ある道具が配慮、方略の教授、それとも一時的な練習の支援のいずれであるかは、「学習計画に述べられるべきである」ということです。
+- **その支援が果たす機能を述べ、そしてその機能に対して評価してください。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 他（2026）]]は、補償（アクセスと参加によって評価される）を、[[scaffolding|足場かけ]]（支援を伴う意思決定）から、発達（フェーディングまたは転移の後の方略の利用）から区別します。そして、このページの注意に向けられた規則を加えます。すなわち、支援へのアクセスは修繕ではない——ある道具が配慮、方略の教授、それとも一時的な練習の支援のいずれであるかは、「学習計画に述べられるべきである」ということです。
 - **供給を政策に根ざさせる。** AI ツールを調達または構築する際には、支援技術法、IDEA、WCAG を参照してください。
 
 ## よくある誤解
@@ -64,14 +64,14 @@ ai_assist:
 ## 関連する概念
 
 - [[accessibility|アクセシビリティ]] — 支援技術が具体化する設計上の特性
-- [[inclusive-learning]] — インクルーシブな学習
-- [[special-education]] — 特別支援教育
-- [[universal-design-for-learning]] — 学びのためのユニバーサルデザイン
-- [[equity-in-ai-education]] — AI を活用した教育における公平性
-- [[educational-policy-ai]] — AI に関する教育政策
-- [[neurodiversity]] — 神経多様性
-- [[learning-design]] — 学習設計
-- [[speech-and-voice-technologies]] — 音声技術
+- [[inclusive-learning]]
+- [[special-education]]
+- [[universal-design-for-learning]]
+- [[equity-in-ai-education]]
+- [[educational-policy-ai]]
+- [[neurodiversity]]
+- [[learning-design]]
+- [[speech-and-voice-technologies]]
 
 ## 関連する記事
 

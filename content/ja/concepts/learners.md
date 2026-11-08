@@ -1,7 +1,7 @@
 ---
 title: 学習者
 created: "2026-10-10T22:38:09-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-25T15:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ ai_assist:
 
 ## よくある誤解
 
-**「学習者と学生は同じ集団である」** それらは有用な仕方で互換ではありません。*学生*は制度的な役割を名指し、*学習者*は活動を名指し、ある人は一方であり他方でないことがあります。[[professional-training|職場訓練]]の従業員は学習者ですが学生ではありません。両者を混同すると、証拠基盤が在籍記録を持つ人々に狭まり、[[lifelong-learning|生涯学習]]の研究が扱うまさにその成人、職業人、自己主導の学習者が静かに落ちます。
+**「学習者と学生は同じ集団である」** それらは有用な仕方で互換ではありません。*学生*は制度的な役割を名指し、*学習者*は活動を名指し、ある人は一方であり他方でないことがあります。[[professional-training|職場訓練]]の従業員は学習者ですが学生ではありません。両者を混同すると、証拠基盤が在籍記録を持つ人々に狭まり、[[lifelong-learning|生涯学習]]の研究が扱うまさにその成人、職業人、[[self-directed-learning|自己主導]]の学習者が静かに落ちます。
 
 **「学習者はAIが理解を改善したと報告するのだから、時間を節約している」** 二つの主張は調査データの中で分かれます。学習の生産性に関する研究では、**92.3%**がAIが理解を改善したと答え、**38.5%**だけが学習時間全体を減らしたと答えました。見出しの数値は感じられた理解を記述し、その下の隔たりは、改善された理解と回収された時間が別の成果であることを示します。広く繰り返される「AIは時間を節約する」という主張は、より小さい方の数値に支えられています。
 

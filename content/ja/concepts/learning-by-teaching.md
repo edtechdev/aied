@@ -1,7 +1,7 @@
 ---
 title: 教えることで学ぶ
 created: "2026-10-10T22:38:09-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ LLM ベースの教えられるエージェントにとって中心的な設計�
 - **問いが知識の穴を特定します。** LbT システムは、学習者が生成した問いを用いて穴を露呈し、理解を強化し、[[teaching-ai-vocabulary-lbt-llms-2026|LLM が生成した問い]]が硬直したテンプレートベースの生成器を置き換えます。
 - **教え返しが明確化の見落とすものを表面化させます。** 22 人の参加者による講義後の振り返りシステムで、Peer エージェントの省察的な教え返しは、学習者が理解したと信じていたものと口にできたものの間の隔たりを一貫して露呈し、講義に基づく明確化だけでは明らかにしなかったものを示しました（[[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]）。
 - **LbT は自己[[regulation|調整]]を[[scaffolding|足場かけ]]します。** [[conversational-ai|会話的エージェント]]を教えることは、[[self-efficacy|自己効力感]]と自己調整学習方略の実践を育て、LbT を[[desirable-difficulties|望ましい困難]]と結びつけます——説明し訂正するという努力の行為自体が、AI の摩擦除去が消してしまう生産的な苦闘です。
-- **チュータの学習を予測するのは知識の構築であり、既存知識ではありません。** 23 人の中学生のチュータにわたり、知識を言い直すのではなく構築した応答の割合が概念的な事後テスト得点を予測しました（β = .138、p < 0.05）が、事前のテスト得点は誰がそれを生み出すかを予測しませんでした。そして知識を構築した既存知識の低いチュータは、既存知識の高い仲間と同水準で終えました（[[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]）。
+- **チュータの学習を予測するのは知識の構築であり、[[prior-knowledge|既存知識]]ではありません。** 23 人の中学生のチュータにわたり、知識を言い直すのではなく構築した応答の割合が概念的な事後テスト得点を予測しました（β = .138、p < 0.05）が、事前のテスト得点は誰がそれを生み出すかを予測しませんでした。そして知識を構築した既存知識の低いチュータは、既存知識の高い仲間と同水準で終えました（[[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]）。
 
 ## AI 教育においてなぜ重要か
 

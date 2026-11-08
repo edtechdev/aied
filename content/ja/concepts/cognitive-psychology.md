@@ -1,13 +1,13 @@
 ---
 title: 認知心理学
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **情報処理（コンピュータ）の隠喩。** 心は能力とボトルネックを伴う情報処理システムとして扱われます。潜在能力の[[item-response-theory|測定]]、作業記憶の限界、符号化と検索です。これはまさに、AIチュータリング（学習者の認知をモデル化し適応するコンピュータプログラム）を自然な適合にしたモデルなのです。
 - **注意と記憶は限界がある。** 作業記憶の容量は限られています。持続的な学びには、反復、敷衍、そして[[retrieval-spacing-interleaving|検索練習]]を通じた長期記憶への符号化が必要です。これは認知主義を[[research-methods-aied|研究]]、そして[[cognitive-offloading|認知的オフローディング]]（記憶や処理を外部の道具に委任すること）や、AIが検索と練習を迂回するときの「成績–学習ギャップ」に関する研究に接続します。
 - **メタ認知は認知を調整する。** [[metacognition|メタ認知]] — 自分自身の思考を監視し制御すること — は明確に認知主義的な構成概念であり、AIにいつ頼るかについての学習者の較正がなぜ学習にとって重要なのかを説明します（[[cognitive-offloading|認知的オフローディング]]と[[self-regulated-learning|自己調整学習]]を参照）。
-- **知識は分解可能で追跡可能である。** 認知主義的なAIEDは、学習者の知識を構成要素として表現し時間を追って追跡できると想定します。[[knowledge-tracing]]、[[cognitive-diagnosis]]、[[item-response-theory]]の基盤です。
+- **知識は分解可能で追跡可能である。** 認知主義的なAIEDは、学習者の知識を構成要素として表現し時間を追って追跡できると想定します。[[knowledge-tracing]]、[[cognitive-diagnosis]]、[[item-response-theory]]の基盤です。追跡可能性は採点の規則でもあります。4 つの[[knowledge-tracing|知識追跡]]の更新規則を同じ ASSISTments のイベント系列に適用すると、支援を受けた完了をすべて功績として数える規則は学生–スキルの組の 93.9% を習得済みと判定したのに対し、支援を受けた行を失敗した最初の試行として読む場合は 72.8% でした。寛大な規則が早期に習得済みと判定した組のその後の支援なしの正答率は 0.709 であったのに対し、規則が一致した組では 0.857 でした（[[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]）。モデルは、証拠の規則が数えることを許すものだけを追跡します。
 
 ## 認知主義とAI教育
 
@@ -67,6 +67,8 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 ### AI時代の緊張関係：認知主義の境界は圧力にさらされている
 
 [[generative-ai|生成的AI]]は認知主義を拡張すると同時に挑戦してもいます。知識表象をより強力にすることで（LLMを知識エンジンと見なし、[[knowledge-tracing|知識追跡]]で追跡し[[student-modeling|学習者モデリング]]で適応できる）拡張します。認知が「どこにあるか」を複雑にすることで挑戦します。AIが推論、記憶、さらにはメタ認知的な類似の機能を遂行するとき、学習は個人の心における内的な処理であるという認知主義的な想定は揺らぎます。[[distributed-cognition|分散認知]]、[[ai-cognitive-partner-co-regulation-learning|共調整]]、そしてポストヒューマンの捉え方は、認知は人間と人工のシステムにわたって分散しうると論じます。それでも認知主義的な問いは、この分野の中心的な問いであり続けます。*学習者が知識を内面化するのか、それとも道具がそれを保持するのか。* これは、認知的オフローディングと成績–学習ギャップの問いの最も純粋な形です。
+
+2026 年の実験は、その境界の記憶の側に具体的な失敗の様式を与えます。誤解を招く AI の要約を読んだ 328 人の成人のうち、後にビデオの細部を正しく特定できたのは 44.8% にとどまり、一貫した要約を読んだ 83.6% と対照をなしました。AI か人間かというラベルは違いを生まず、AI への自己申告の信頼も同様でした（[[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]）。これは教室での学習ではなく出所記憶ですが、流暢な要約は学習者の出所の記録を上書きしうるのであり、それは学習と評価にとって重要です。
 
 ## 設計と研究への含意
 
@@ -105,6 +107,7 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 
 ## 関連する記事
 
+- [[sim-ai-summary-memory-distortion-2026]] — 誤解を招く AI の要約は、AI 執筆か人間執筆かのラベルに関わらず、成人が記憶した内容を変えた
 - [[cognitive-shift-ai-education]] — AI教育における認知的転換
 - [[cogtax-cognitive-taxonomy]] — AI利用のための認知的タクソノミー
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — 知識追跡に基づく教授学的LLMエージェント
@@ -112,3 +115,4 @@ Mayerのマルチメディア学習の認知的理論（CTML）は、同じ作�
 - [[ai-cognitive-partner-co-regulation-learning]] — 共調整された学習における認知的パートナーとしてのAI
 - [[ensemble-cognition-philosophy-ai-education]] — アンサンブル認知：人間とAIの相互作用としての思考
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 負荷とフラストレーションを追跡したのは努力の量ではなく努力の組織化
+- [[crediting-assisted-work-inflates-mastery-2026]] — 知識追跡からの習得の主張は、支援された作業をどう功績として数えるかに依存する（Srivastava 2026）

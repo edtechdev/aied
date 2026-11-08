@@ -1,7 +1,7 @@
 ---
 title: フィードバック・リテラシー
 created: "2026-10-10T22:31:13-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo（2026）]]は、フィードバック・リテラシーを実践を通じて発達可能なものとして扱います。生成AIと対話的に協働してコメントを生成したEFLのピア査読者は、届けたコメントだけでなく、フィードバックを判断し使う自分自身の能力を高めました。
 
+**フィードバック・リテラシーは、人間の出典と同様に機械の出典も扱わなければならない。** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al.（2026）]]は、学生に、同じ草稿に対するピアのフィードバックとチャットボットのフィードバックを同じ内省の中で評価するよう求め、その比較そのものを学習課題にしています。学生たちはチャットボットの権威を教員のそれに対して引き下げましたが、著者らはその引き下げを消極性ではなくリテラシーとして読み解いています。
+
 ## よくある誤解
 
 - **「AIフィードバックは批判的思考を直接改善する。」** **421人の中国の学部生**において、生成AIの利用と[[self-report-measures|自己報告された]]批判的思考の結びつきは、**フィードバック・リテラシーを通じて**生じていました。媒介するのはリテラシーであり、それを読む能力を築かずにAIフィードバックを加える介入は、間違った項に働きかけるのです。
@@ -102,6 +104,8 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
 
 ## 関連記事
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AIフィードバック・リテラシーとエージェント的な関与：三波のランダム切片パネル（Xu 2026）
@@ -130,3 +134,4 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 
 - [[genai-use-critical-thinking-moderation-2026]] — 生成AIの利用から批判的思考への経路が生成AIのフィードバック・リテラシーを通り、省察的思考とともに強まる
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — 改訂の見返りを担ったのは行動可能性ではなく理解だった
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 一つの内省課題の中で、同じ草稿に対するピアとチャットボットのフィードバックを評価する

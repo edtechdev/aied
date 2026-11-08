@@ -1,7 +1,7 @@
 ---
 title: 学生の経験
 created: "2026-10-10T22:54:27-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ AI は、認知的、動機づけの、[[affective-computing|感情的]]、ア�
 ### 動機づけへの影響
 
 - **ポジティブ：** AI は、パーソナライズされた、即座の、低リスクの支えを提供することで[[motivation]]と[[student-engagement|関与]]を高められます——学生が粘り、有能だと感じるのを助けます（自律性、有能感、関係性に関する[[self-determination-theory|自己決定理論]]の視点を参照）。
+- **動機づけの効果は、アクセスではなく動機づけを通じて働く。** 297 人の学生において、AI 利用に対する自律性の支援と自律的な動機づけは関与に直接の効果を持たず（それぞれ β = 0.070）、学生の動機づけが関与を β = 0.74 で予測しました（[[genai-motivation-engagement-2026|Ahmed and Sultan (2026)]]）。
 - **ネガティブ：** AI が利用できると知ることが、学生の努力と生産的に苦闘する動機づけを減らしえます（[[ai-availability-student-motivation|AI の利用可能性と動機づけ]]、[[wang-safety-gap-productive-struggle-2026|安全性のギャップ]]）。過度の依存は[[agency]]と、自分で仕事をすることから来る達成感を蝕みえます。
 
 ### 感情的・幸福への影響
@@ -71,9 +72,10 @@ AI は、認知的、動機づけの、[[affective-computing|感情的]]、ア�
 ### 学問的誠実さと公平性への影響
 
 - **ネガティブ：** AI は[[academic-integrity|学問的な不正]]の新たな形（AI が生成した小論文、無断での完成）を可能にし、[[reduce-ai-cheating|検出と削減]]についての議論を駆り立てます。これは[[equity-in-ai-education|公平性]]と相互作用します——AI の道具への不平等なアクセスと理解が、学生の間の隔たりを広げうるのです。
-- **ポジティブ／建設的：** AI は[[authentic-assessment|真正の]]、[[process-oriented-assessment|過程志向の]]評価と振り返りの実践を支えられます（例：[[pedlow-genai-selfassessment-2026|ガイド付きの自己評価]]）、誠実さの懸念を[[ai-literacy]]と責任の機会に変えます。
+- **ある利用が不正行為に当たるかどうかは、学問分野によって決まる。** 89 の研究の[[meta-analysis-systematic-review|システマティックレビュー]]は、[[stem-education|STEM]] の学生が AI は成績を改善するとの純同意で +42% であった一方、[[humanities-education|人文科学]]の学生は AI 利用が不正行為に当たるとの純同意（+44%）と倫理的懸念（+58%）が最も高かったことを見出しました（[[ai-tools-academic-work-cheating-2026|Padhy (2026)]]）。したがって、あるコースの誠実さの問題は、固定された基準ではなく部分的には学問分野の判断であり、学生が出会う規則が政策と同じくらい学部によって異なる理由でもあります。
+- **ポジティブ／建設的：** AI は[[authentic-assessment|真正の]]、[[process-oriented-assessment|過程志向の]]評価と[[reflection|振り返り]]の実践を支えられます（例：[[pedlow-genai-selfassessment-2026|ガイド付きの自己評価]]）、誠実さの懸念を[[ai-literacy]]と責任の機会に変えます。
 
-学生による誠実さの説明は、不正の枠づけが示唆するほど確定していません。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]はエチオピアの大学の 27 人の学部生にインタビューし、学生の集団が自身と対立していることを見出しました——ほとんど全員が GenAI を使うか、仲間が使うのを見ており、大多数が自分の達成を上げたと評価し、少数派はコースワークでの利用を明白な不正行為と呼び、そして最も鋭く最も広く共有された不満は公平性でした——正直に働いた学生よりも高い得点を取る AI の利用者。それは一部の人に勤勉さの感覚を殺していると表現され、ある参加者を「私たちは AI の利用から利益を受けているのか、それとも苦しんでいるのか」と確信できないままにしました。手続きの側面も重要です——[[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]は 1,162 件の GenAI の不正事例を符号化し、最も多く引用される証拠——検出器の出力、類似性の報告、AI に典型的な内容のパターン——が最も弱い証明力を持つことを見出し、そしてその手順に最低限の証拠の閾値がないため、薄い事例の学生が上訴へと押しやられることを見出しました。過度に包括的な定義はその晒しを広げます——[[wright-transcription-not-generation-2026|Wright (2026)]]は、「[[generative-ai|生成AI]]」を対象とした禁止が、学生がすでに著作した仕事の形式を変換するだけの道具を捉えうることを示し、その過度の包括性は、障害のある学生と[[equity-in-ai-education|公平性]]に晒された学生に最も重くのしかかります。[[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]は建設的な出口を指し示し、誠実さを、監視によって確保された服従ではなく、[[evaluative-judgment|判断]]を通じて実現される[[pedagogy|教育学的]]な実践として扱います——注釈の付いた決定の軌跡、検証、口頭での弁明、版の歴史。
+学生による誠実さの説明は、不正の枠づけが示唆するほど確定していません。[[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]はエチオピアの大学の 27 人の学部生にインタビューし、学生の集団が自身と対立していることを見出しました——ほとんど全員が GenAI を使うか、仲間が使うのを見ており、大多数が自分の達成を上げたと評価し、少数派はコースワークでの利用を明白な不正行為と呼び、そして最も鋭く最も広く共有された不満は公平性でした——正直に働いた学生よりも高い得点を取る AI の利用者。それは一部の人に勤勉さの感覚を殺していると表現され、ある参加者を「私たちは AI の利用から利益を受けているのか、それとも苦しんでいるのか」と確信できないままにしました。手続きの側面も重要です——[[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]は 1,162 件の GenAI の不正事例を符号化し、最も多く引用される証拠——検出器の出力、類似性の報告、AI に典型的な内容のパターン——が最も弱い証明力を持つことを見出し、そしてその手順に最低限の証拠の閾値がないため、薄い事例の学生が上訴へと押しやられることを見出しました。過度に包括的な定義はその晒しを広げます——[[wright-transcription-not-generation-2026|Wright (2026)]]は、「[[generative-ai|生成AI]]」を対象とした禁止が、学生がすでに著作した仕事の形式を変換するだけの道具を捉えうることを示し、その過度の包括性は、障害のある学生と[[equity-in-ai-education|公平性]]に晒された学生に最も重くのしかかります。[[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]は建設的な出口を指し示し、誠実さを、監視によって確保された服従ではなく、[[evaluative-judgment|判断]]を通じて実現される[[pedagogy|教育学的]]な実践として扱います——注釈の付いた決定の軌跡、検証、[[oral-assessment|口頭での弁明]]、版の歴史。
 
 検証は、学生がその問いをどう経験するかを移せます——自分の仕事を説明するよう求めることは最初は告発として読まれましたが、一度シラバスがそれを監視ではなく教育法として前もって枠づけると、学生は AI の利用をより率直に開示し、課題を学習の課題として扱いました——五〜十分の会話の中で（[[best-response-student-ai-dialog-2026|Mandernach, 2026]]）。
 
@@ -182,6 +184,7 @@ AI は、認知的、動機づけの、[[affective-computing|感情的]]、ア�
 - [[dollinger-equitable-assessment-ai-2026]] — AI 時代における公平な評価
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 教師教育における縦断的な GenAI の利用、倫理、方針（Parker et al. 2026）
 - [[genai-use-usefulness-student-experience-australia-2026]] — オーストラリアの高等教育における GenAI の有用さについての学生の経験（Chung et al. 2026）
+- [[genai-motivation-engagement-2026]] — 297 人の学生：動機づけが関与を予測し、AI 利用への自律性の支援は直接の効果を持たなかった（Ahmed & Sultan 2026）
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI と学生の知覚された意思決定能力（認知的負荷の説明）
 - [[genai-professionalization-metaphors-2026]] — GenAI の概念化と学生の職業化
 - [[sidorkin-ai-generated-course-readings-2026]] — 自分自身の AI 生成のカリキュラムの監査人としての学生（Sidorkin 2026）

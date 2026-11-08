@@ -1,7 +1,7 @@
 ---
 title: 評価
 created: "2026-10-10T21:52:56-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:30:41-05:00"
 connected_resources: [idstack, lesson-md, master-instructional-design]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - **AIの利用を見えるようにし評価する、本物らしく過程に基づいた課題。** [[authentic-assessment|本物らしい評価]]——価値があり現実的な課題における生徒の成績を検討すること——は、AIの挑戦への主要な対応です。[[llm]]がもっともらしく再現できるどんな課題もその妥当性を失うため、本物らしさは、リアルタイムの[[collaborative-learning|協働]]、デジタルおよび社会的な貢献、個人の意味形成を中心に再設計されなければなりません。これは、[[zhan-boud-du-authentic-assessment-scoping-review-2025|本物らしい評価のための設計枠組み]]、[[authentic-products-authenticated-processes-2026|本物らしい成果物と認証された過程]]、そして[[tool-invariant-framework-agentic-ai|道具に依存しない過程の評価]]に結びつきます。
 - **妥当性の証拠に根ざした責任ある評価設計**([[responsible-assessment-ai-era-stanford-2026]])
 - **評価の対象から導き出される、課題レベルのAIの許可:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]は、[[educational-policy-ai|AI政策]]に先立つ評価設計の作業を示しています——プロジェクト内のすべての課題を棚卸しし、何がどの目標に対して評価されるのかを特定し、その根拠に基づいて課題ごとにAIを許可または禁止すること(ブレインストーミングと画像の選定は許可、学習目標の作成とスライドのデザインは不可)。同じ整合化の作業は、評価が支える推論の点検を兼ねます。なぜなら、ある成績が保証することを意図した成果を、教員に名指しさせるからです([[assessment-validity]])。
-- **言語的な様式を超える評価:** Jiang et al.(2026)は、第二言語の教員のためのマルチモーダルな評価リテラシーを、言語的、視覚的、聴覚的、身振り的、空間的な様式にわたって応答を引き出す課題のための知識、価値、能力として定義します。30人の香港の英語教員による1年間のプログラムは、評価の方略についての知識を5点満点で3.13から4.15へ(偏イータ二乗 = 0.571)、生徒を支える能力を3.05から3.98へ(0.482)高めましたが、3つの価値の下位領域はすべて横ばいのままでした。教員自身の経験は、枠組みに2つの次元を加えました——競合するカリキュラム上の優先事項に対して実践を維持することと、GenAIを批判的に動員すること——です([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al.(2026)]])。
+- **言語的な様式を超える評価:** Jiang et al.(2026)は、[[language-learning|第二言語]]の教員のための[[multimodal|マルチモーダル]]な評価リテラシーを、言語的、視覚的、聴覚的、身振り的、空間的な様式にわたって応答を引き出す課題のための知識、価値、能力として定義します。30人の香港の英語教員による1年間のプログラムは、評価の方略についての知識を5点満点で3.13から4.15へ(偏イータ二乗 = 0.571)、生徒を支える能力を3.05から3.98へ(0.482)高めましたが、3つの価値の下位領域はすべて横ばいのままでした。教員自身の経験は、枠組みに2つの次元を加えました——競合するカリキュラム上の優先事項に対して実践を維持することと、GenAIを批判的に動員すること——です([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al.(2026)]])。
 - **共著と宣言**を、評価の契約の一部として
 - **相互作用を評価する、過程に基づくルーブリックの基準。** [[rubrics-genai-process-based-assessment-2026|Oviedo & Díaz（2026）]]は、Biggsの3Pモデルを三つの重要な評価次元として読み解きます。人間の主体性と批判的な監督、[[prompt-engineering|プロンプト工学]]に結びついた対話的な足場かけ、そして[[academic-integrity|誠実性]]と透明性に根ざした認知的自主性です。完成したファイルはもはや、誰の推論がそれを生んだかについての情報を運ばないと論じています。
 - **能力としての制作** — 学習者が道具を操り専門職水準の仕事を生み出す能力を評価すること([[competency-based-education-genai-production-2026]])
@@ -94,7 +94,7 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - **誠実性は検知から設計へと移ります:** 評価におけるAIへの最も頑健な対応は、AIの利用が想定され、宣言され、精査される課題を設計することです。
 - **革新的な実践は、複数の問題に同時に取り組みうます。** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]は、[[authentic-assessment|本物らしい評価]]、自己評価と[[peer-assessment|仲間評価]]、再評価、[[mastery-learning|基準に基づく採点]]、そして評価を与えないこと(ungrading)という、互いを強め合う5つの実践の組が、「学習のための評価」というパラダイムに沿うことで、生成AI時代に、従来型の総括的で規範参照的な採点の害(表層的な学習、侵食された[[motivation|内発的な動機づけ]]、ストレスと不安、不平等、損なわれた[[academic-integrity|誠実性]])に対抗しうると論じています。彼らは、分野によって採用のむらがあることを見いだしています——自己評価と仲間評価が主流である一方、採点に焦点を当てた革新は周辺にとどまる——そして、教育者に対して、段階的な実験と[[governance|制度的]]な支援に支えられ、評価と採点の革新にもっと積極的かつ相互的に関わるよう求めています。
 
-- **AIを介した評価は多様化しています。** [[aivaluate-anxiety-assessment-2026|AIvaluate]]は、LLMで拡張された[[conversational-ai|対話エージェント]]が、パフォーマンスに基づく評価中の生徒の不安を減らしたことを示しています。[[asynchronous-oral-assessment-2026|Pentland(2026)]]は、非同期の口頭評価がより高い関与を提供し、専門職に関連すると知覚されたことを見いだしています。[[graph-its-adaptive-algorithms-2026|グラフベースのITS]]は、適応的な知識状態の追跡を用いて評価に情報を与えます。
+- **AIを介した評価は多様化しています。** [[aivaluate-anxiety-assessment-2026|AIvaluate]]は、LLMで拡張された[[conversational-ai|対話エージェント]]が、パフォーマンスに基づく評価中の[[anxiety-and-stress|生徒の不安]]を減らしたことを示しています。[[asynchronous-oral-assessment-2026|Pentland(2026)]]は、非同期の口頭評価がより高い関与を提供し、専門職に関連すると知覚されたことを見いだしています。[[graph-its-adaptive-algorithms-2026|グラフベースのITS]]は、適応的な知識状態の追跡を用いて評価に情報を与えます。
 
 ## よくある誤解
 
@@ -124,8 +124,8 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - [[ai-detection]] — AI生成の文章の検知
 - [[ai-ed-evaluation]] — 自動化された評価者を評価するための方法とベンチマーク
 - [[eportfolio]] — 過程に基づく電子ポートフォリオ評価
-- [[speech-and-voice-technologies]] — 音声・発話技術
-- [[peer-assessment]] — 仲間評価
+- [[speech-and-voice-technologies]]
+- [[peer-assessment]]
 
 ## 関連する記事
 

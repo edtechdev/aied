@@ -1,12 +1,12 @@
 ---
 title: 技術（Technologies）
 created: "2026-10-10T22:09:41-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_of: concepts/ai-technologies
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -38,7 +38,7 @@ ai_assist:
 
 - **大規模言語モデル（LLM）。** 現代の[[ai-education|AIED]]の大半の計算基盤です — [[llm|LLM]]は、指導、評価、コンテンツ生成のための人間らしいテキストを生成し、知識ベースで最も参照される技術です。[[llm-training-and-fine-tuning|訓練とファインチューニング]]は、汎用のLLMを教育用に適応させます。
 - **生成的AI。** テキスト、コード、画像、その他のコンテンツを生み出すシステムのより広い範疇です — [[generative-ai|生成的AI]]（主にLLMに駆動される）は、現在の[[ai-education|AIED]]研究の波の根底にある技術です。[[multimodal|マルチモーダルモデル]]（テキスト、画像、音声）と[[simulation|シミュレーション]]も参照してください。
-- **ロボットと身体化されたシステム。** [[educational-robotics|教育におけるロボット]]は、身体化され、しばしば社会的な存在を加えます — 計算論的思考のためのプログラマブルキットと、指導・物語・ロールプレイのための人間型・社会型ロボット。ロボット工学は、[[agentic-ai|エージェント的AI]]と[[human-in-the-loop-ai|人間介在型]]の設計と重なる、明確な技術的な筋です。
+- **ロボットと[[embodied-learning|身体化]]されたシステム。** [[educational-robotics|教育におけるロボット]]は、身体化され、しばしば[[community-of-inquiry|社会的な存在]]を加えます — [[computational-thinking|計算論的思考]]のためのプログラマブルキットと、指導・[[storytelling-in-education|物語]]・ロールプレイのための人間型・社会型ロボット。ロボット工学は、[[agentic-ai|エージェント的AI]]と[[human-in-the-loop-ai|人間介在型]]の設計と重なる、明確な技術的な筋です。
 - **知識ベースシステム。** [[knowledge-graph|ナレッジグラフ]]と[[educational-nlp|教育NLP]]は、領域知識を表現し処理し、接地された説明可能な指導のためにますますLLMと組み合わされます。
 
 ## 技法と方法
@@ -56,7 +56,9 @@ ai_assist:
 
 - **教育学：** 技術的な選択は教育学的な想定を体現します — [[socratic-method|ソクラテス的なプロンプティング]]に基づく[[intelligent-tutoring|チューター]]は学習者と共に推論する一方、答えを生成するモデルは直接的な提供に既定値として傾きうるのです（[[pedagogy|教育学と教授方略]]参照）。
 - **評価と査定：** [[ai-ed-evaluation|AI教育の評価]]と[[benchmark|ベンチマーク]]は、AIシステムが実際に機能するかを決め、[[assessment|評価]]と[[automated-assessment|自動評価]]は技術スタックを用いて採点と生成を行います。
-- **責任ある利用：** 技術的な技法は、[[reducing-ai-misuse|AIの誤用の抑制]]に中心的な役割を果たします — [[rag|RAG]]の接地、ガードレール、[[prompt-engineering|プロンプトエンジニアリング]]による[[scaffolding|足場かけ]]、[[human-in-the-loop-ai|人間の監視]]が、AIが学習を支えるか損なうかを形づくります（[[cognitive-offloading|認知的オフロード]]、[[hallucination-risk|ハルシネーションリスク]]）。
+- **責任ある利用：** 技術的な技法は、[[reducing-ai-misuse|AIの誤用の抑制]]に中心的な役割を果たします — [[rag|RAG]]の接地、[[guardrails|ガードレール]]、[[prompt-engineering|プロンプトエンジニアリング]]による[[scaffolding|足場かけ]]、[[human-in-the-loop-ai|人間の監視]]が、AIが学習を支えるか損なうかを形づくります（[[cognitive-offloading|認知的オフロード]]、[[hallucination-risk|ハルシネーションリスク]]）。
+
+**研究の注目は、ツールの生態系の狭い一部分に集中している。** 85 の AI ツールを STEM と工学の文献に照らしてマッピングした[[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky ら（2026年）]]は、研究上可視的だったのは 36 のみであり、[[conversational-ai|会話型 AI]]／LLM が 927 の論文—ツール接続の 73.7% を占め、確立された実験室の文脈での刊行物は 23 件であることを見出しました。
 
 ## 教育におけるAIへの含意
 
@@ -99,6 +101,8 @@ ai_assist:
 - [[personalized-learning]]
 
 ## 関連記事
+
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — STEM と工学教育における 85 の AI ツールの研究的可視性（Terkowsky ら 2026）
 
 - [[agentic-ai-education-scoping-review]] — 教育におけるエージェント的AIのスコーピングレビュー
 - [[genai-meta-analysis-programming-learning]] — プログラミングにおける生成的AIの生産性と学習への影響のメタ分析

@@ -1,7 +1,7 @@
 ---
 title: 説明可能AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,8 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 
 **設計から説明可能であること（explainable-by-design）** は、事後的な誠実性の問題への一つの答えです。[[li-explainable-trustworthy-llm-teacher-assessment-2025|Li、Yang、Fang（2025）]]は、説明のデコーダーを、[[assessment|評価]]を決定するのと同じ融合された表現と予測される点数によってパラメータ化します。これにより、[[formative-assessment|形成的な]]問いかけに対する低い点数は、不十分な探索的な問いを名指す理由づけを生み出します。そしてそれを、カリキュラム基準と科目特異的なルーブリックの手続きに対する二重レンズの注意（attention）と組み合わせます。注意のルーブリックへの整合は、GPT-4のゼロショットの41.7%、BERTの32.1%に対して78.0%に達し、誠実性はルーブリック上重要な範囲の反実仮想的な削除と、ルーブリックに基づくチェックリスト上の人間による評価とで探求され、説明の信頼性のスコア0.78を与えます — BERT-baseからの0.31の増加です。この監査は、建築的な主張が薄くなる場も示しています。感情的な手がかりに対して、モデルは専門家の15.2%に対して28.4%の注意の重みを割り当て（整合0.53）、一つの失敗事例ではトークン「frustrated」に28%を割り当てています。著者らはこれを、教育学ではなく感情への過剰適合として読み、改良の余地として名指しています。決定の経路の中に説明を埋め込むことは、それを事後的な理由づけよりも誠実にします。しかしそれを正しくはしません。
 
+**モデルが何を使ったと言うかは、データと同じくらいモデル族に依存します。** 一つのコホート上の7つのモデルにわたって、[[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar ら（2026）]]は、記号的なアプローチが認知的・[[motivation|動機づけ]]的要因に傾き、サブシンボリックなモデルが認知的側面、学習された知識、性別に傾き、両方がメタ認知的要因を概ね見落とす一方、神経記号モデルはより統合された集合を用いたことを見出しました。同じ学生と同じ指標が、何が重要だったかについて異なる説明を生んだため、[[learning-theories|学習理論]]との整合は、正確さについてではなく帰属についての主張になります。
+
 ## 説明責任の実践として説明可能性を教える
 
 説明の質がXAIの有用性を決めるのであれば、説明を生み出すことは、能力として実演されるのではなく、専門家としての習慣として教えられなければなりません。[[lund-socially-accountable-data-science-xai-2026|Lund and colleagues（2026）]]は、これを四つの柱にわたって行うことを提案します — **答えやすさ（answerability）**（影響される者に理由を与える義務）、**責任（responsibility）**（事後ではなくライフサイクル全体で見込まれる危害）、**執行（enforcement）**（コースの中の帰結）、そして**反射性（reflexivity）**（自分の想定を文書化して検討すること）— それぞれに独自の課題と独自の教室でのコストを伴って。
@@ -140,6 +142,8 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教員対AIの採点決定：書面の理由づけが公正性の格差を広げた
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用と権威の信号が誤った出力への従属を高め、参照の一部は誤帰属または架空だった
+
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] — 記号・サブシンボリック・神経記号のモデルは、同じコホートで予測を異なる要因に帰属させた
 
 ## 引用
 

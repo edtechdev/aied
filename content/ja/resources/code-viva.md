@@ -1,7 +1,7 @@
 ---
 title: "Code Viva"
 created: "2026-11-02T15:30:00-05:00"
-updated: "2026-11-02T15:30:00-05:00"
+updated: "2026-11-07T20:21:26-05:00"
 type: resource
 summary: "プログラミングの授業の全学生に対して、口頭によるコード弁明の筆記・時間制限つき版を実施する無料のブラウザツール。根拠を引用したスコア案を提示し、教員が承認します。"
 url: https://code-viva.netlify.app/
@@ -16,7 +16,7 @@ discipline: [cs education]
 audience: [instructors]
 level: [higher ed]
 translation_of: resources/code-viva
-source_updated: "2026-10-24T08:37:08-04:00"
+source_updated: "2026-11-04T17:55:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

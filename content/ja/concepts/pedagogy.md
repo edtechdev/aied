@@ -1,7 +1,7 @@
 ---
 title: 教授法と教授戦略
 created: "2026-10-10T22:46:00-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -57,11 +57,16 @@ ai_assist:
 - **教授法的エージェントとしての AI。** AI ツールは教授法を体現します——[[socratic-method|ソクラテス的な問いかけ]]に基づく[[intelligent-tutoring|チューター]]は学習者に推論するよう促し、答えを生成するチャットボットは直接的な提供に既定値として陥るかもしれません（なぜ教授法的な姿勢が重要かについては[[reducing-ai-misuse|AI の誤用を減らす]]を参照）。[[agentic-ai|エージェント的 AI]]の文献は、エージェントを教授設計の理論に接地することが、生の[[prompt-engineering|プロンプティング]]を上回ることを示しています。[[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]]は、この役割を形式的に再構成します。生成 AI を外的な補足や脅威とする二者の教師——[[student-modeling|学生モデル]]という図ではなく、彼らは、生成 AI が、制度と利害関係者に支配される共有された教授的媒介の空間の中で、境界づけられた*教授的・教授法的媒介者*として作動する、入れ子状の**教師——学生——生成 AI の三項モデル**を提案します——そして、学習の媒介、教師の役割の変容、AI リテラシーと学習者の主体性、AI 透過的な[[process-oriented-assessment|プロセス志向の評価]]、制度的な[[governance|ガバナンス]]について、検証可能な五つの命題を生み出します。
 - **教授法が AI の効果を決める。** 繰り返し現れる知見は、AI が*どう*用いられるかが、それが用いられるかどうかと同じくらい重要であるということです。[[instructional-guidance-genai-learning|指導的な誘導の研究]]と[[generative-ai-guardrails-harm-learning|ガードレール付きチューターの RCT]]は、同じ AI が教授法的な包み（ヒント対答え、構造化された対開かれた利用）に応じて害にも助けにもなりうることを示しています。
 - **教授法の知識が技術的な知識に勝る。** 46 人の教師と 2,832 人の学生にわたって、教師の教授法的な AI 知識は、学生の「社会のための AI」についての知覚と AI を学ぶ意図を予測しました。一方、技術的な知識だけでは不十分でした——そして、どちらも学生の AI 知識を予測しませんでした（[[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]）。
-- **AI の最も明確な貢献は、管理業務の外部委託である。** 28 件の研究の PRISMA レビューは、AI が最も頻繁に教授の計画と評価の設計を強化したことを見出し、その最も報告された利点は、採点、フィードバック、進捗の監視の自動化でした（18 件の研究、64.2%）——一方、教授法的な整合性が最も引用された課題でした（14 件）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]）。
-**自動化と学習は直接トレードオフの関係にある。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]]は、六つの教授法的原理——既有知識の活性化、[[collaborative-learning|協同学習]]、[[problem-based-learning|問題基盤型学習]]、[[formative-assessment|形成的評価]]、[[scaffolding|足場かけ]]、[[metacognition|メタ認知]]——を、先行的なエージェント的イニシアチブがそれぞれに何をするかを通じて辿り、エージェントが自動化すればするほど、摩擦、動的な漸減、人間の監督が設計に組み込まれない限り、学習者が行う認知的作業は少なくなると論じます。
+- **AI の最も明確な貢献は、管理業務の外部委託である。** 28 件の研究の PRISMA レビューは、AI が最も頻繁に教授の計画と[[assessment|評価の設計]]を強化したことを見出し、その最も報告された利点は、採点、フィードバック、進捗の監視の自動化でした（18 件の研究、64.2%）——一方、教授法的な整合性が最も引用された課題でした（14 件）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]）。
+**自動化と学習は直接トレードオフの関係にある。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]]は、六つの教授法的原理——[[prior-knowledge|既有知識]]の活性化、[[collaborative-learning|協同学習]]、[[problem-based-learning|問題基盤型学習]]、[[formative-assessment|形成的評価]]、[[scaffolding|足場かけ]]、[[metacognition|メタ認知]]——を、先行的なエージェント的イニシアチブがそれぞれに何をするかを通じて辿り、エージェントが自動化すればするほど、摩擦、動的な漸減、[[human-in-the-loop-ai|人間の監督]]が設計に組み込まれない限り、学習者が行う認知的作業は少なくなると論じます。
+
+- **省察は、AI が可能にすると同時に脅かす教授法である。** 構造化されたプロンプト、ジャーナル、[[eportfolio|ポートフォリオ]]のコメンタリーは、経験が学習になる仕組みであり、[[reflection]]のページがその証拠を担っています。事前登録された一つの実験では、フィードバックに費やす時間を倍にし、練習量を 40% 削ったプロンプトが、問題あたりの伸びを上げませんでした。AI の省察パートナーを対象としたコード化された監査では、それが目に見える痕跡を残さずにあらゆる行動指示を破っていました。プロンプトは完了した試行を中心に設計し、磨かれた記録ではなく痕跡を求めてください。
+
 - **AI リテラシーのための教授戦略。** 学生に*AI をうまく使うこと*を教えることは、それ自体が教授法的な課題です——[[ai-literacy|AI リテラシー]]と[[reducing-ai-misuse|AI の誤用を減らす]]研究は、戦略（まず考え/次に AI/そして省察、AI 宣言、較正訓練）を発展させ、それらはこの傘に属します。
 
-- **AI リテラシーの指導が、知識を最も速く動かす。** 59 件の研究（172 の効果量）の三層のメタ分析は、知識志向の介入（g ≈ .97）が、技能（≈ .67）、態度（≈ .68）、[[ethics|倫理]]（≈ .64）を狙ったものを明確に上回ったことを見出しました。したがって、概念の教授を持続的な練習と対にすることは、指導に抵抗する成果を狙います（[[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]）。
+- **教授技法としてのメタファーとアナロジー。** [[metaphors-and-analogies]]は、アナロジーが AI をどう説明するか、どこで破綻するか、そして学生がそれを[[critical-thinking|批判的思考]]の一形態としてどう監査できるかについての証拠を集めています。
+
+- **AI リテラシーの指導が、知識を最も速く動かす。** 59 件の研究（172 の効果量）の三層の[[meta-analysis-systematic-review|メタ分析]]は、知識志向の介入（g ≈ .97）が、技能（≈ .67）、態度（≈ .68）、[[ethics|倫理]]（≈ .64）を狙ったものを明確に上回ったことを見出しました。したがって、概念の教授を持続的な練習と対にすることは、指導に抵抗する成果を狙います（[[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]）。
 - **教師の実践における教授法。** [[teacher-role|教師の役割]]と[[teacher-ai-competency|教師の AI 力量]]は、教師が既存の教授法的なレパートリーの中で AI をどう採用するかを検討し、[[llm-training-and-fine-tuning|LLM の訓練とファインチューニング]] / [[pedagogical-agent|教授法的エージェント]]は、教授法的な原理に従うよう訓練された AI ツールを研究します。
 
 ## 学習理論との関係
@@ -104,9 +109,15 @@ ai_assist:
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[learning-design]]
+
+- [[metaphors-and-analogies]] — 教授技法としてのメタファーとアナロジー
+
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[project-based-learning]]
+
+- [[case-based-learning]] — 教授技法としてのケースメソッドと対比ケース
+
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]

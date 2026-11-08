@@ -1,7 +1,7 @@
 ---
 title: センサーと視線分析
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ AIと[[embodied-learning]]を組み合わせた23の研究の[[meta-analysis-sys
 ラベルがしばしば最も弱いリンクです。E3Sense は学習者自身のセグメント評定を予測しましたが、その評定の63%はエンゲージされた2つの水準に位置していました。モデルは状態ではなく分布を学ぶことで高いスコアを出せます。研究者が学習者自身のエンゲージメントの定義を加えると、精度は64.6%から71.5%へ上昇しました。これはラベルとシグナルが部分的に異なるものを測っていたことを示唆します([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et al., 2026]])。
 
 [[assessment-validity|妥当性検証]]はモデルを膨らませえます。EEG に基づく親近性予測の15モデルのベンチマークは、層化交差検証のもとで0.9853 F1に到達しました。時間的構造を尊重する試行独立の Group K-Fold では、ピークは25%のチャンス水準に対して0.6038 F1まで下がりました([[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa, 2026]])。最初の数値は漏洩を、2番目は学習を記述しています。
+
+センサーは、研究が相互作用だと主張する場面で共在を記録しえます。[[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]]は、姿勢に基づく検出器が再現率55%にとどまり、人間の符号化者が特定した教師と学生のグループ相互作用の20事象のうち11しか捉えられなかったことを見出しました。符号化された区間の49.2%では教師がグループの境界の内側にいましたが、学生が教師を見たのは25.4%だけで、どちらの比較でも音声の特徴は変化しませんでした。したがってこのパイプラインは、持続的な相互作用ではなく空間的な共在を登録していたのです。
 
 神経相関はスコアではありません。EEG から再構成された画像は、55の参加者・動画の観察にわたり、テスト成績と R² = 0.79で相関しました。正答した項目は誤答した項目よりも高い意味的類似性も示しました。しかし1人の参加者は高品質の再構成を生みながら誤答したので、再構成の質を正答性として読むことはできません([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]])。
 

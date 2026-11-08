@@ -7,8 +7,8 @@ technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimod
 audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-10-30T03:22:21-04:00"
-source_updated: "2026-10-25T15:20:00-04:00"
+updated: "2026-11-07T20:36:15-05:00"
+source_updated: "2026-11-05T23:00:00-05:00"
 translation_of: concepts/video-education
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
@@ -22,7 +22,7 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
-> **教育における動画** — 動画を[[teacher-role|教授]]と学習の媒体として用いること、そして[[generative-ai|生成的AI]]がそれをどう再形成しているか。AI生成・AI[[personalized-learning|パーソナライズ]]された教授動画、AIアバターとプレゼンター、適応的な動画生成、動画ベースの[[learning-analytics|学習分析]]と注意・[[student-engagement|関与]]の感知、講義動画の消費へのAI支援などが含まれます。ナレッジベースは動画を、確立したオンライン学習の媒体であると同時にAI革新の急速に進化する場として扱い、[[online-teaching-and-learning|オンライン]]、ハイブリッド、対面の教授にわたって扱います。
+> **教育における動画** — 動画を[[teacher-role|教授]]と学習の媒体として用いること、そして[[generative-ai|生成的AI]]がそれをどう再形成しているか。AI生成・AI[[personalized-learning|パーソナライズ]]された教授動画、AI[[ai-avatars-and-synthetic-instructors|アバター]]とプレゼンター、適応的な動画生成、動画ベースの[[learning-analytics|学習分析]]と注意・[[student-engagement|関与]]の感知、講義動画の消費へのAI支援などが含まれます。ナレッジベースは動画を、確立したオンライン学習の媒体であると同時にAI革新の急速に進化する場として扱い、[[online-teaching-and-learning|オンライン]]、ハイブリッド、対面の教授にわたって扱います。
 
 ## 考えるべき問い
 
@@ -41,11 +41,18 @@ ai_assist:
 - **AI生成・パーソナライズされた教授動画。** 中心的な糸は、学生がAI制作動画を受け入れるかどうか、人間収録コンテンツとどう比較されるかを問います。[[ai-generated-instructional-videos-computing-ed|計算機教育における学生調査]]は、AI生成教授動画に対する認識と選好を調べます。大規模な現場展開では、[[personalized-ai-generated-videos-preference-2026|Tomlinsonら（2026）]]は、学生がパーソナライズされていない人間収録講義よりもAI生成の*パーソナライズされた*動画を好むことを見出しました——人間のプレゼンターに置かれる価値よりもパーソナライズ効果が勝る選好でした。[[ai-video-dual-gatekeeping-2026|二段階の門番研究]]は、AI動画制作の2段階にわたる教員の監視（「門番」）がどうより教育学的に裏付けられた出力をもたらすかを示し、[[human-in-the-loop-ai|human-in-the-loop]]デザインに接続します。
 - **適応的・構造化された動画生成。** [[courseblueprint-adaptive-video-generation|CourseBlueprint]]は、コースのコーパスに裏付けられた適応的な教育学的動画を生成する構造化されたパイプラインを提供し、明示的な教育学的構造——[[ai-literacy|AIの流暢さ]]だけでなく——が効果的なAI動画を駆動することを示します。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]は同じ論理を講義全体の規模で応用します。31の大学院講義から、医療・金融・エネルギー・汎用の聴衆向けに209本の動画を生成し、そのうち92本を25名の領域適合の専門家が評価して、87%が「標準的なMOOC講義の質」と書かれた中点以上に位置づけられました（5点中平均3.42）、API費用は1分あたり約\\$0.22——音声、スライドのタイミング、レイアウトが繰り返し現れる欠除でした。
 - **学習ループがより良い描画に勝る。** [[pivot-generative-video-tutors-stem-2026|Maら（2026）]]は、各動画を目標、前提知識の活性化、作例、診断プローブの絵コンテとして計画し、動画の例を避けたクイズと各誤答に対する修復教材を対にしました。32人の教員の96.9%が、そのループが単独の動画よりも効果的だと判断しました。
-- **動画エンコードの神経的な読み出し。** 視聴した動画フレームのEEG再構成は、正答した問題（M = 71.43）のほうが誤答（M = 62.30、p < .001）よりも意味的に類似しており、体系的な時間的ずれ（再構成がより早いフレームに似ること）は、成績と関連する分散の測度として定量化できました（[[seeing-cognitive-representations-eeg-reconstruction|Suら（2026）]]）。
+- **動画エンコードの神経的な読み出し。** 視聴した動画フレームの[[sensor-and-gaze-analytics|EEG]]再構成は、正答した問題（M = 71.43）のほうが誤答（M = 62.30、p < .001）よりも意味的に類似しており、体系的な時間的ずれ（再構成がより早いフレームに似ること）は、成績と関連する分散の測度として定量化できました（[[seeing-cognitive-representations-eeg-reconstruction|Suら（2026）]]）。
 - **動画学習分析と注意。** 動画に計測を施すことで、学習者がどう関与するかが明らかになります。[[engagement-assessment-video|動画学習における関与の評価]]と[[savvy-student-attention-video-learning|SAVVY]]は、動画ベースの学習中の学生の注意を可視化し、[[learning-analytics|学習分析]]、[[self-regulated-learning|自己調整学習]]、関与低下の早期警戒を支援します。分割の研究（例：[[adhd-video-segmentation-computing-education|時間的な動画分割]]）は、動画を個人差に合わせて調整します。
+
+- [[zhou-gaiva-human-ai-video-analysis-2026|Zhou、Kang、Nguyen（2026年）]]は、GAIVA において MLLM による文字起こしの段階と、テキストのみの LLM による符号化の段階を組み合わせ、教室動画の分析に人間水準の信頼性をもたらします。役割割り当てのプロンプトが最も均衡の取れた文字起こしを生み（精度 M = 3.24、完全性 M = 3.86）、評価者の二重符号化は ICC 0.89 から 0.99 に達し、GPT-4o の文字起こしに基づく符号化は協調的協働で κ = 0.91 に達しました——人間同士の κ = 0.83 を上回っています。
+
 - **アバターと存在。** AIアバター——仮想プレゼンターと教育学的エージェント——は、アイデンティティ、[[community-of-inquiry|社会的存在]]、信頼の問いを提起します。[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|アバターのアイデンティティと認識論的な信頼]]は、プレゼンターの見かけのアイデンティティが学習者の信頼をどう形作るかを調べ、[[ai-psychotherapy-training-avatars|訓練におけるAIアバター]]はそのパターンを専門職の実践にまで広げます。
 - **動画内のスキャフォールディングコメント——そしてAIが今も間違えること。** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang、Du、Jin（2026）]]は、動画フレーム内に描画され内容と同期した[[scaffolding|スキャフォールディング]]メッセージ*i-Comments*を、フレームレベルのエントロピーを計算し情報の少ない間隔にのみ支援を挿入することで生成します。経験豊富な教員からの120件のコメントとベンチマーク比較されたChatGPTの1,000件のコメントは、より濃密で、構造的な多様性がはるかに低く（POS 3-gramの多様性が5.5〜6.2%対25.1〜38.5%）、すべての読みやすさ指標で読みにくく、話題的な整合性が低く（感情的サポートのBERTScoreが0.317対0.574）なりました。40人の学習者は、人間のコメントをタイミングと有益さで有意に高く評価しましたが、新しいモデルはその差を縮めました。この論証は自動化の論証であると同時にデザインの論証です。媒体に埋め込まれた支援は、別の[[conversational-ai|チャットボット]]に問い合わせるために一時停止する注意と認知のコストを避けるのです（[[ai-feedback-quality|フィードバックの質]]、[[social-emotional-learning|感情的サポート]]）。
 - **講義動画の消費へのAI支援。** 生成を超えて、AIは学習者と教師が既存の動画を扱うのを助けます。[[bilingual-llm-lecture-companion-srl-2026|バイリンガルLLM講義コンパニオン]]は録画講義で自己調整学習を支援し、[[gemini-lualatex-physics-video-transcription-2026|文字起こしパイプライン]]は講義動画をアクセシブルなテキストに変換します。
+
+- **文字起こしの忠実性が、テキストが動画の代わりにどこまで担えるかを決める。** [[wang-educational-video-transcripts-llm-analysis-2026|Wang、Pritchard、Rosenberg（2026年）]]は、Crash Course のアメリカ史のエピソードで、5 つの ASR システムを人間の参照文字起こしと比較し、単語誤り率は 2.43%（TurboScribe）から 15.32%（Vosk）に及びました。48 の文字起こしに対する GPT-5.5 の符号化では、PERSON が最も頻繁な固有表現の範疇であり（合計 2,033、1 エピソードあたり M = 42.35）、事前に定義した K スキャンが K = 5 を選び、そこでは LLM による参照の拡張が ASR のベースラインよりも明確な話題の分離を生みました。
+
+- **領域レベルのズームは、ナレーション付きスライドに欠けていた層である。** 24 人の視聴者による被験者内研究では、自動ズームと同期したハイライトが NASA-TLX の作業負荷を 5.74 から 4.53 に下げ（d = 0.84）、即時の理解を高めました（d = 0.46）が、24 時間後の優位は有意に達しませんでした（p = .054）（[[lian-guideslide-narrated-slides-visual-guidance-2026|Lian ら、2026年]]）。
 
 ### パーソナライズと人間の存在
 
@@ -82,7 +89,7 @@ ai_assist:
 **研究者にとって**
 
 - 選好と成果の測定を併せて報告し、研究が前者しか持たないときは率直にそう述べてください。
-- 動画内容と認知処理の間のずれが神経データに現れることを踏まえ、時間的な整合を明示的に報告してください。
+- 動画内容と[[cognitive-psychology|認知処理]]の間のずれが神経データに現れることを踏まえ、時間的な整合を明示的に報告してください。
 
 ## 関連概念
 
@@ -113,3 +120,6 @@ ai_assist:
 - [[ai-psychotherapy-training-avatars]] — 心理療法の訓練におけるAIアバター
 - [[gemini-lualatex-physics-video-transcription-2026]] — 物理学の講義動画をアクセシブルなテキストに文字起こしすること
 - [[pivot-generative-video-tutors-stem-2026]] — コンテンツ生成から学習支援へ：STEM学習のための教育学的に誘導された生成的動画チューター
+
+- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — あっちを見て！ AI ナレーション付きスライドのための動的な視覚的ガイダンス
+

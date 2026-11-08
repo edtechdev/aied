@@ -1,14 +1,14 @@
 ---
 title: 教育における AI の哲学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-25T19:20:00-04:00"
+source_updated: "2026-11-05T15:16:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -40,8 +40,11 @@ ai_assist:
 - **心と認知の本性。** 思考には意識と身体が必要でしょうか。AI は真に認知的プロセスに加わることができるでしょうか。**アンサンブル認知**のような枠組みは、AI が意識なしに*機能的主体性*、すなわち認知的プロセスにおける真正の因果的効力を行使し、思考が動的な人間—[[student-ai-interaction|AI 相互作用]]から創発すると論じます（[[ensemble-cognition-philosophy-ai-education]]）。[[distributed-cognition|分散認知]]と拡張心テーゼも、認知がシステム全体に広がっていることについて同様の主張をします。
 - **学習者とは何か。** ポストヒューマニズムの哲学は、学習者を、認知プロセスが[[biology-education|生物的]]システムと人工システムにわたって本気でハイブリッドかつ分散している「ポストヒューマン」な存在として捉え直します（[[elsayed-pedagogical-symbiosis-posthuman-learner]]）。これは、学習者が境界づけられた自律的な個人の心であるという前提に挑戦します。
 - **身体性と非身体的 AI の限界。** [[embodied-learning|身体化]]された学習およびポスト認知主義の哲学は、記号的で非身体的な AI モデルの支配を批判し、認知は状況性、創発、そして感覚運動的な結びつきに根ざしており、現在の[[generative-ai|生成 AI]]はそれらを欠いていると論じます（[[videla-embodied-ai-education-choreography]]）。
+
+- **機械の心の試金石としての感情労働。** AI が教えうるかについてのこの分野の議論は、しばしば AI が*ケア*できるかどうかにかかっています。それは[[affective-computing|感情コンピューティング]]が存在するはるか前から論じられてきた問いです。[[khan-machines-emotional-labor-education-2026|Khan（2026）]]は 1950〜1996 年の論争を再構成しています。そこでは、文字通りに感情を持ちうるのは生き物だけだという Ziff の主張に対して、Smart の同一性理論と Putnam の行動基準が応答し、3 つの競合する存在論が未解決のまま残されました。彼の結論は不可能性の主張ではなく、正当化の負担です——表象、シミュレーション、模倣は感情労働を十分に決定づけない——そしてそれは、生徒指導のようなケアの仕事をシステムに委任しようとするすべての人に負担を課します。
+
 - **主体性、著作性、意味。** AI が解釈と意味形成を媒介するとき、哲学は、著作性、認識論的[[agency|主体性]]、解釈の自律性がどう再構成されるかを問います（[[voicu-ai-interpretive-cognition-ssh-2026]]）。
-- **AI が生成する科学的対象の存在論。** 化学において、AI が予測した化合物や滴定曲線は、「境界領域的な存在論的空間」を占めます。経験的に証明されるまでは、まったく仮説のものでも完全に実在のものでもないのです。これは学問を実在論から、現実が人間と機械の協働であるとする構成主義的な見方へと移行させます（[[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala（2026）]]）。
+- **AI が生成する科学的対象の存在論。** [[chemistry-education|化学]]において、AI が予測した化合物や滴定曲線は、「境界領域的な存在論的空間」を占めます。経験的に証明されるまでは、まったく仮説のものでも完全に実在のものでもないのです。これは学問を実在論から、現実が人間と機械の協働であるとする構成主義的な見方へと移行させます（[[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala（2026）]]）。
 - **認識的受動性という認識的害。** Bai と Costa（2026）は、思考を内省的で移譲できない活動として捉えるアーレントの説明を引きつつ、作業を供給する生成 AI は思考を負荷分散するだけでなく思考そのものを不可能にしてしまうと論じます。そしてブルデューの場とハビトゥスを用いて、そのリスクを制度的構造の中に位置づけます（[[genai-chinese-higher-education-integrity-2026|Bai & Costa（2026）]]）。
 - **価値、正義、教育の目的。** 哲学的分析は、AI 駆動の教育が人間の繁栄と教育的正義に仕えているのか、それとも生産性に奉仕する学習を道具化しているのかを検討します（[[avraamidou-ai-colonization-science-education]]）。これは[[critical-pedagogy|批判的教育学]]と[[ethics|倫理学]]につながります。
 - **「人間中心」は中立的な倫理ではなく、人間中心主義の言説である。** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin（2026）]]は UNESCO、OECD、モントリオール宣言の文書を読み、人間中心の AIED が啓蒙のヒューマニズムの排除を受け継いでいること、トランスヒューマニズムがそれを保持していること、そしてそのラベルが商業的なインフラを正当化しうることを論じます。
@@ -119,3 +122,6 @@ ai_assist:
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 商業的な用途を持つ人間中心主義の言説として読まれる「人間中心」の AIED（Wang & Jin 2026）
+
+- [[khan-machines-emotional-labor-education-2026]] — 機械は感情労働を遂行できるか。1950〜1996年の論争と、模倣がケアを十分に決定づけない理由
+

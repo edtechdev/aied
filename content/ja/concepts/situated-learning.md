@@ -1,13 +1,13 @@
 ---
 title: 状況学習
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 
 状況学習は、[[embodied-learning|身体化された学習]]（いずれも認知の文脈と行為への根拠づけを強調します）、[[distributed-cognition|分散認知]]（人々、道具、文脈にわたって分散した学習）、[[experiential-learning|経験学習]]、そして[[constructivist|構成主義]]の理論と密接につながっています。教育における AI において、それは脱文脈化された身体のない学習の批判を根拠づけます。学習者を真正な実践に繋ぎ止める AI の設計は、永続的な学習が必要とする状況性を保つのです。
 
+- **インフラとしてのシナリオと再利用可能な資産。** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos（2026）]]は、状況学習をシナリオ——目的、役割に特化したエージェント、問い合わせ可能な知識、状態を保つワークベンチ——として運用し、さらにプロセスの記録と経験の痕跡を出所とともに保存する資産メモリを備えることで、後のシナリオが以前の実践を検索できるようにします。事前登録された二つの三群ランダム化比較試験では、法律推論において汎用アシスタントに対して学習伸びの 7.0 ポイントの優位（d = 0.56）が、競技プログラミングにおいて基準到達率のより大きな割合（68% 対 45%）が見られましたが、同じモデルに教師として振る舞うよう促しても検出可能な便益は生じませんでした。状況とワークスペースが会話による説明よりも学習の多くを担うという主張を検証した、稀な試験です。
+
 ## よくある誤解
 
 - **「状況学習とは、抽象的な授業に現実的なシナリオを加えることである」** この理論の主張は、文脈の飾りづけより強力です。学習は実践共同体への参加によって構成され、学ばれるのはその参加が可能にするものです。職場の枠づけを添えた例題は、依然として例題を教えるのであって、実践を教えるのではありません。
@@ -72,6 +74,8 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — 真正な文脈への道としての没入環境
 
 ## 関連記事
+
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — シナリオと出所を伴う再利用可能な資産が、二つの試験で汎用アシスタントを上回りました
 
 - [[vargas-situated-learning-ai-review-2024]] — 状況学習と教育における AI の PRISMA 系統的レビュー（このページの主要な参照文献）
 - [[genai-educational-outcomes-meta-analysis]]

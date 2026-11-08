@@ -1,7 +1,7 @@
 ---
 title: 教育の水準
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -92,7 +92,7 @@ ai_assist:
 
 **「教えられている科目が、教育の水準よりも重要である。」** 学校と大学の切れ目がより重要です。その境界を越えて変わるのは内容ではなく、自己調整の能力、評価の契約の性質、そして学習に誰が責任を負うかであり、だからこそ大学院のゼミを助けるツールが、比較可能な内容であっても2年生の授業を害しうるのです。
 
-**「適応的なチューターは、すべての水準を等しく助ける。」** 変数を単離する比較は示唆に富みます。同じ2年生向け数学チューターの二つの版で、内容、インターフェース、フィードバック、話されるヒントは同一であり、**課題の選択がベイジアン[[knowledge-tracing]]モデルに従うかどうかだけが異なる**ものでした。適応的な課題選択は水準に敏感な介入であり、その便益はその水準の学習者が適応に基づいて行為できるかどうかに依存します。
+**「[[intelligent-tutoring|適応的なチューター]]は、すべての水準を等しく助ける。」** 変数を単離する比較は示唆に富みます。同じ2年生向け数学チューターの二つの版で、内容、インターフェース、フィードバック、話されるヒントは同一であり、**課題の選択がベイジアン[[knowledge-tracing]]モデルに従うかどうかだけが異なる**ものでした。適応的な課題選択は水準に敏感な介入であり、その便益はその水準の学習者が適応に基づいて行為できるかどうかに依存します。
 
 **「高等教育に集中した証拠は、下方へ一般化する。」** しません。そして文献の分布は便宜ではなく警告です。証拠がどこで濃密でどこで薄いかは研究経済の性質であり、AIが最も使われる場所の性質ではありません。したがって大学の標本から引き出されたK-12についての主張は、最も重要な境界を越えた外挿です。
 

@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-28T18:53:23-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -90,7 +90,7 @@ ai_assist:
 AIが指導と学習をどのように支えるかは、この分野の中心です。主要な概念は次のとおりです。
 
 - **中核となる教授法:** [[pedagogy|教授法と教育戦略]](ナレッジベースの教育方法の網羅の最上位概念)と、[[pedagogical-patterns|教授のパターン]](それらの方法が行き着く検証された順序)、[[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[group-work|グループワーク]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[productive-failure|生産的失敗]]、[[inquiry-based-learning|探究型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[learning-by-teaching|教えることによる学習]]、[[scaffolding|足場かけ]]、[[socratic-method|ソクラテス式問答法]]、[[critical-pedagogy|批判的教育学]]、[[pedagogical-partnerships|教育パートナーシップ]]、[[storytelling-in-education|ストーリーテリング]]、[[learning-design|学習設計]]、[[online-teaching-and-learning|オンライン教育と学習]]、[[video-education|教育における動画]]です。
-- **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。
+- **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[reflection]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。
 - **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。そして[[social-norms-ai-use|AI利用をめぐって定着する社会的規範]]が、それをどれだけ率直に議論できるかを決めます。コースを超えて、[[student-support-and-success|学生の支援と成功]]は制度的側面の仕事——指導、働きかけ、紹介、そして配分——を扱います。
 
 ## 技術と手法
@@ -98,14 +98,15 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 [[ai-technologies|技術]]ページが技術層の最上位概念です。
 
 - **モデルと手法:** [[generative-ai|生成AI]]、[[llm|大規模言語モデル]]、[[rag|検索拡張生成]]、[[multimodal|マルチモーダルモデル]]、[[educational-nlp|教育NLP]]、[[reinforcement-learning|強化学習]]、[[knowledge-graph|知識グラフ]]、[[educational-robotics|教育におけるロボット]]、[[conversational-ai|対話型AI]]、[[simulation|シミュレーション]]、[[llm-training-and-fine-tuning|教育向けLLMの訓練]]です。その土台となる方法も重要です。[[machine-learning|機械学習]]はこれらのシステムが作られる場所であり、[[speech-and-voice-technologies|音声・音声認識技術]]は音声による個別指導と言語練習を担い、[[visualization|可視化]]は学習者と教員のためのダッシュボードと視覚的分析を扱い、[[virtual-and-augmented-reality|仮想現実・拡張現実]]は、その視覚的な層をモデルが生成できるようになった没入型の練習を載せています。より新しい対話のスタイルもここに属します。とりわけ[[vibe-coding|バイブコーディング]]は、利用者がLLMへのプロンプトでプログラムを指定し、ソースコードを読んだり編集したりするのではなく出来上がった振る舞いを判断する自然言語主導のワークフローで、[[cs-education|プログラミング]]を表現と検証の行為として捉え直し、[[teacher-role|エンドユーザー]]が自分のツールを作る際の障壁を下げます。統合の深さを扱う[[samr-model|SAMR]]のような枠組みや、[[technology-acceptance-model|TAM]]のような導入理論は、AIがどれだけ深く取り入れられ、課題をどれだけ変革するかを分類します。
-- **学習者モデリングと適応システム:** 学習者を表現し、適応する技術システムは[[student-modeling|学習者モデリングと適応的な指導]]という最上位概念のもとにまとめられています。[[knowledge-tracing|知識トレーシング]]、[[cognitive-diagnosis|認知診断]]、[[simulating-students|学生のシミュレーション]]、[[intelligent-tutoring|知的個別指導]]、[[adaptive-learning|適応学習]]、[[personalized-learning|個別最適化学習]]、[[recommender-systems-and-learning-paths|推薦システムと学習パス]]、[[pedagogical-agent|教育エージェント]]、[[affective-tutoring|感情チュータリング]]、[[affective-computing|感情コンピューティング]]、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループAI]]、[[learning-analytics|学習分析]]です。これらはAIシステムそのものであるため技術層に位置し、それらが実践する教授法とは区別されます。
-- **プラットフォーム、開放性、採用:** モデルを取り巻く層であり、教材が構築されるのではなく、ライセンスされ、ホストされ、支払われる場所です。[[open-education|オープン教育]]は、オープンライセンスの内容で教えることと、学生をその生産者として扱う教育学を扱い、生成された素材が今投げかけるライセンスと改変の問いが議論される場所です。それはソフトウェアの意味での開放性、[[edtech-platform|EdTechプラットフォーム]]におけるプラットフォーム水準の分析、そして[[technology-acceptance-model|TAM]]が担う採用研究の隣に位置します。
+- **学習者モデリングと適応システム:** 学習者を表現し、適応する技術システムは[[student-modeling|学習者モデリングと適応的な指導]]という最上位概念のもとにまとめられています。[[knowledge-tracing|知識トレーシング]]、[[cognitive-diagnosis|認知診断]]、[[simulating-students|学生のシミュレーション]]、[[intelligent-tutoring|知的個別指導]]、[[adaptive-learning|適応学習]]、[[personalized-learning|個別最適化学習]]、[[recommender-systems-and-learning-paths|推薦システムと学習パス]]、[[pedagogical-agent|教育エージェント]]、[[affective-tutoring|感情チュータリング]]、[[affective-computing|感情コンピューティング]]、[[sensor-and-gaze-analytics|感覚・視線分析]]、[[ai-avatars-and-synthetic-instructors|AIアバターと合成教師]]、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループAI]]、[[learning-analytics|学習分析]]です。これらはAIシステムそのものであるため技術層に位置し、それらが実践する教授法とは区別されます。
+
+- **プラットフォーム、開放性、採用：** モデルの周囲の層であり、教材が構築されるのではなく、ライセンスされ、ホストされ、支払われるところです。[[open-education|オープン教育]]は、オープンライセンスの内容を用いた教授と、学生をその生産者として扱う教育学を扱い、生成された教材がいま提起するライセンスと改変の問いが論じられる場所です。それはソフトウェアの意味での開放性、[[edtech-platform|教育技術プラットフォーム]]におけるプラットフォーム水準の分析、そして[[technology-acceptance-model|TAM]]が担う採用研究と並びます。
 
 ## 専門分野におけるAI
 
 AIは専門分野と教育段階をまたいで応用されます。ナレッジベースの[[discipline-specific-aied|専門分野におけるAIEDの概観]]は教科領域の網羅を地図にします。あわせて[[learning-sciences|学習科学]]も挙げられます。これは教えられる教科ではなく、学習そのものを研究し、教科内容を数ある変数の一つとして扱う横断的な研究分野です。
 
-- **教科領域:** [[math-education|数学]]、[[statistics-and-data-science-education|統計・データサイエンス]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[science-education|科学教育]]、[[environmental-education|環境教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[arts-design-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
+- **教科領域:** [[math-education|数学]]、[[statistics-and-data-science-education|統計・データサイエンス]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[reading-education|読解教育]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[libraries|図書館情報学]]、[[science-education|科学教育]]、[[environmental-education|環境教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[civic-and-political-education|市民・政治教育]]、[[arts-design-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
 
 ## 教育段階と文脈
 
@@ -145,7 +146,7 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 公正さ、アクセス、責任は、教育におけるAIの中心です。
 
 - **公平性とアクセス:** [[equity-in-ai-education|公平性]]、[[differential-effects-across-learner-groups|学習者グループ間の差異的効果]](ある知見が誰に当てはまるかという問い)、[[digital-divide|デジタルデバイド]]、[[bias-mitigation|バイアス軽減]]、[[culturally-relevant-pedagogy|文化的に応答的な教授法]]、[[multilingual-learning|多言語学習]]、[[inclusive-learning|包摂的な学習]]、[[accessibility|アクセシビリティ]]、[[assistive-technology|支援技術]]、[[neurodiversity|ニューロダイバーシティ]]、[[universal-design-for-learning|学習のユニバーサルデザイン]]、[[global-south|グローバルサウス]]の研究です。
-- **倫理と責任:** [[ethics|AI倫理]]、[[ai-misuse-learning-harm|AIの不正利用と学習上の害]]、[[legal-issues-and-risks|法的問題とリスク]]、[[ai-use-disclosure|AI利用の開示]]、[[guardrails|ガードレール]]、[[privacy|プライバシー]]、[[hallucination-risk|ハルシネーションのリスク]]、[[ai-sycophancy|AIの追従性]]、[[trust|信頼]]、[[trust-calibration|信頼の較正]]、[[reducing-ai-misuse|AIの不正利用の削減]]、[[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]、[[pedagogical-safety|教育上の安全性]]、[[sustainability|持続可能性]]、[[cognitive-offloading|認知のオフローディング]]です。
+- **倫理と責任:** [[ethics|AI倫理]]、[[ai-misuse-learning-harm|AIの不正利用と学習上の害]]、[[legal-issues-and-risks|法的問題とリスク]]、[[ai-use-disclosure|AI利用の開示]]、[[guardrails|ガードレール]]、[[privacy|プライバシー]]、[[hallucination-risk|ハルシネーションのリスク]]、[[ai-sycophancy|AIの追従性]]、[[trust|信頼]]、[[trust-calibration|信頼の較正]]、[[automation-bias|自動化バイアス]]、[[reducing-ai-misuse|AIの不正利用の削減]]、[[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]、[[pedagogical-safety|教育上の安全性]]、[[sustainability|持続可能性]]、[[cognitive-offloading|認知のオフローディング]]です。
 
 この分野の倫理文献の[[meta-analysis-systematic-review|系統的レビュー]]([[agarwal-ethical-values-norms-aied-2026|Agarwalら 2026]]、25件の論文)は、AIEDの倫理を6つの主要な倫理的価値、すなわち無差別、データの管理、人の監督、善意、説明可能性、教育上の適合性に統合し、倫理規範をステークホルダー対価値のマトリクスに位置づけています。そこではエンドユーザーが倫理文献の中でほとんど受動的であり(学生の声は事実上存在しません)、倫理をAIEDの設計に統合することと、AIED倫理の教育的(教授法的)次元にもっと焦点を当てることの必要性が指摘されています。
 
@@ -154,6 +155,9 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 いくつかのテーマがこの分野を横断しています。
 
 - **信頼と批判的な利用:** [[trust|信頼]]、[[trust-calibration|信頼の較正]]、[[ai-sycophancy|AIの追従性]]、[[critical-thinking|批判的思考]]、[[cognitive-offloading|認知のオフローディング]]、[[critical-pedagogy|批判的教育学]]、[[reducing-ai-misuse|AIの不正利用の削減]]([[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]も参照してください)。学習者と教員がAIを採用し依拠するかどうかは[[technology-acceptance-model|技術受容]]の研究でモデル化され、[[global-south|グローバルサウス]]の研究は導入における公平性と文化的文脈を前面に出します。実証的には、AIがどのように自分を説明するかがこの信頼を形づくります。[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggorら(2025)]]は、[[explainable-ai|説明可能なAI]]が理解しやすさを通じてAIの推薦に対する教員の信頼を高めることを示し、領域に基づく(カリキュラムの言語による)説明が、データに基づく特徴量重要度の出力よりも信頼され、受け入れられました。
+
+- **AIがどう想像されるか：** [[metaphors-and-analogies|メタファーと類推]]は、教育者と学生がAIに何を期待するかを形づくり、[[ai-literacy|AIリテラシー]]の教授法としても機能しえます。[[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins and Furze（2025）]]が示すとおりです。
+
 - **この分野の進化:** ナレッジベースは、教育におけるAIを、初期の[[intelligent-tutoring|知的個別指導システム]]や[[knowledge-tracing|知識トレーシング]]から、LLMが駆動する[[intelligent-tutoring|個別指導]]、[[pedagogical-agent|エージェント]]、[[agentic-ai|エージェント型AI]]へとたどります。これは、ツール中心の研究から社会技術的な枠組み([[design-thinking|デザイン思考]]、[[curriculum-design|カリキュラム設計]]、[[institutional-change-framework-ai|組織変革]])への急速な移行であり、手作業で作られたシステムから、学習者や[[teacher-role|非プログラマー]]が自然言語で振る舞いを指定する利用者主導のワークフロー([[vibe-coding|バイブコーディング]])への移行でもあります。[[rismanchian-ai-education-four-decades-aixed-2026|RismanchianとDoroudi]]は、AI×Edフレームワークでこの軌跡を定式化し、40年分の会議論文集の論文をたどることで、この分野が多様な混合(AIを人間の知能と学習の類推として扱う相当量の研究を含む)から、応用的でデータ駆動、研究者向けの利用へとほぼ独占的に焦点を移したことを示しました。この転回を、[[llm|LLM]]の台頭が今部分的に反転させつつあるようです(AIED 2024における「類推としてのAI」の論文4件のうち3件はLLMベースでした)。
 - **感情、不安、キャリアの将来:** AIは感情的な反応を引き起こし、形づくります。[[anxiety-and-stress|AI不安とストレス]]は監視による不正防止、誠実性への恐れ、キャリアの置き換えにまたがり、[[career-development-and-readiness|キャリア開発と準備]]は、AIによって攪乱された労働市場に向けて教育が学習者をどう準備するかを扱います([[well-being|ウェルビーイング]]も参照してください)。
 
@@ -179,8 +183,11 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 
 ## 関連する概念
 - [[ai-literacy]] — 最上位概念:AIを理解し、使い、評価すること
+- [[automation-bias]] — 読み手側の失敗:自動化された判断を確かめずに受け入れること
 - [[human-ai-collaboration]] — 最上位概念:人とAIがどのように協働するか
 - [[pedagogy]] — 最上位概念:教育方法と戦略
+- [[case-based-learning]] — ケースメソッド、ケース討議、対比的な事例
+- [[metaphors-and-analogies]] — メタファーがAIの理解をどう形づくり、類推が教授をどう支えるか
 - [[learning-theories]] — 最上位概念:学習がどのように起こるか
 - [[ai-technologies]] — 最上位概念:モデル・手法・システム
 - [[discipline-specific-aied]] — 最上位概念:教科領域と教育段階をまたぐAI
@@ -203,6 +210,9 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 - [[philosophy-of-ai-in-education]] — 哲学的基盤
 - [[theories-and-frameworks]] — 理論と枠組みのノードの地図
 - [[theory-development-aied]] — 理論を構築し改訂すること
+- [[sensor-and-gaze-analytics]] — 最上位概念:視線、EEG、ウェアラブル信号を通じて学習者を感知する
+- [[ai-avatars-and-synthetic-instructors]] — 最上位概念:教え、指導し、シミュレートし、評価する合成された人間
+- [[civic-and-political-education]] — 教科領域:公共生活のためのリテラシー、証拠基盤は薄い
 - [[pedagogical-patterns]] — 教育学的パターン：当該分野の教授法を具体化する実証済みの連鎖
 - [[ai-assisted-educational-research]] — AI支援教育研究
 

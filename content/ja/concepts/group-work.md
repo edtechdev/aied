@@ -1,7 +1,7 @@
 ---
 title: グループ学習
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-04T18:52:13-05:00"
+updated: "2026-11-07T20:21:18-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -86,11 +86,11 @@ ai_assist:
 
 ### 磨き上げられた成果物の認識論的リスク
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]]は、学習者がAIを使って磨き上げられた知識の産物を作るときに認識論的努力が減るリスクを概念化しています。社会認知的側面では[[automation-bias|自動化バイアス]]、もう一方では完成した産物が誘発する認識論的閉鎖です。処方箋は、AIを論争を保つ論駁のパートナーまたは挑戦者として構造化することです。反論は[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]]から来ます。彼らは、LLMが批評のパートナーとして機能し学生がその主張に積極的に反論するとき、学習者は批判的消費者として振る舞い、批評の認知的対立を放棄するのではなく保持することを見出しました。答えを与えるチームメイトと挑戦するパートナーの違いこそが、AIを伴うグループ学習が思考を築くか迂回するかを決めるものです。
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]]は、学習者がAIを使って磨き上げられた知識の産物を作るときに認識論的努力が減るリスクを概念化しています。社会認知的側面では[[automation-bias|自動化バイアス]]、もう一方では完成した産物が誘発する認識論的閉鎖です。処方箋は、AIを論争を保つ論駁のパートナーまたは挑戦者として構造化することです。反論は[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]]から来ます。彼らは、LLMが批評のパートナーとして機能し学生がその主張に積極的に反論するとき、学習者は批判的消費者として振る舞い、批評の認知的対立を[[cognitive-surrender|放棄]]するのではなく保持することを見出しました。答えを与えるチームメイトと挑戦するパートナーの違いこそが、AIを伴うグループ学習が思考を築くか迂回するかを決めるものです。
 
 ### 授業レベルでの非評価的な支援
 
-[[breideband-community-builder-cobi-2026|CoBi]]は、「高める」小集団の言説(尊重、公平性、共同体、思考を前に進めること)を検出し、非評価的で授業レベルの可視化を返します——[[privacy|プライバシー]]と[[trust|信頼]]を守るため、学生・グループレベルのフィードバックを意図的に差し控えます。学生は[[quantitative-research|量的]]なもの(レーダーチャート)よりも[[qualitative-research|質的]]な可視化(有機的な木)を好みました。グループ学習の関係的次元にとって、個人の採点が監視されているように感じられる場面で、授業レベルの集約フィードバックは共同体の形成を支えます。
+[[breideband-community-builder-cobi-2026|CoBi]]は、「高める」小集団の言説(尊重、公平性、共同体、思考を前に進めること)を検出し、非評価的で授業レベルの[[visualization|可視化]]を返します——[[privacy|プライバシー]]と[[trust|信頼]]を守るため、学生・グループレベルのフィードバックを意図的に差し控えます。学生は[[quantitative-research|量的]]なもの(レーダーチャート)よりも[[qualitative-research|質的]]な可視化(有機的な木)を好みました。グループ学習の関係的次元にとって、個人の採点が監視されているように感じられる場面で、授業レベルの集約フィードバックは共同体の形成を支えます。
 
 ## 設計上の含意
 

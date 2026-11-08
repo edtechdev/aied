@@ -1,7 +1,7 @@
 ---
 title: AIED における研究方法
 created: "2026-10-10T23:03:00-04:00"
-updated: "2026-10-30T03:34:02-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -185,6 +185,8 @@ DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反�
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut（2026）]]は、これら四つとは別に位置する書誌計量学の流れを加えます。407件の記録を共語と共著のネットワークで写像し、ある分野の概念的な発展をたどるものです。著者は、その上に築かれたSWOTの読みが独立した分析技法ではなく解釈的な装置であることを明示しており、これがこの伝統における統合と分析の境界を示しています。
 
+- **「計算された統計値は、それだけで信頼できる。」** ベンチマークはチェックそのものを先に検証します。6つの名指しされた統計の組を除くすべてのプローブと判定は、効果を仕込んだシミュレートされた採点者と、仕込まない採点者に対して実行され、仕込んだ効果を検出できなかったチェックによる指標は、結果としてではなく未測定として報告されました。報告書はそれ自身の markdown とコードから生成されるため、出力されるすべての数値は、その出所であるファイルとフィールドに結びつき、ビルド時に再計算されます。実際の結果が読まれる前に、[[porcaro-ai-grading-benchmark-2026|判定は検証できる設計上の決定]]です。
+
 ## よくある誤解
 
 **「ベンチマークの高い精度は教育上の有効性を示す。」** 示しません。そしてこの隔たりがこの分野の中心的な測定の問題です。システムは学習をまったく生み出さずに精度で高い得点を取れます。ベンチマークの精度は、ベンチマークが設定した条件の下でのタスクのパフォーマンスを測るからです。教育上の有効性は、その技術が統制しない条件の下での学習者の成果を必要とします。
@@ -243,3 +245,6 @@ DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反�
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — AI の学習への効果のメタメタ分析
 - [[oneill-presumed-effective-meta-analysis-2026]] — 効果があると推定されて: 欠陥のある AIED メタ分析の監査
 - [[synthetic-educational-data-structural-fidelity-2026]] — 忠実性の指標が見落とすもの: 合成的教育データの構造的検証
+
+- [[porcaro-ai-grading-benchmark-2026]] — 一致を超えて: 正解が既知のプローブ、シミュレートされた採点者に対する効果仕込みのチェック、22 のプロンプト済みモデル（Porcaro 2026）
+

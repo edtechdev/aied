@@ -1,7 +1,7 @@
 ---
 title: "教員にはAIに関してどのような能力が必要ですか?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-07T20:33:50-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -107,7 +107,7 @@ FD担当者にとって、それは依頼の意味を組み替えます。教員
 
 1つの枠組みですべてを覆える。6役割の標準が存在するのは、TPACK、SAMR、主要な教育者標準がK-12の教師か教育の次元だけを覆うからです。
 
-抵抗は埋めるべき知識の欠落だ。リスク回避は意図を負に予測し、アイデンティティの研究は教員が教育上の価値から推論していることを描いています。消極性に見えるものの一部は、学生の過度の依存についての擁護可能な立場です。
+抵抗は埋めるべき知識の欠落だ。リスク回避は意図を負に予測し、[[learner-identity|アイデンティティの研究]]は教員が教育上の価値から推論していることを描いています。消極性に見えるものの一部は、学生の過度の依存についての擁護可能な立場です。
 
 ## あなたが聞くであろう反論
 

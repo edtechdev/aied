@@ -1,14 +1,14 @@
 ---
 title: 社会文化的学習
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-10-30T03:22:21-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-10-26T01:30:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -44,17 +44,20 @@ ai_assist:
 
 ZPD（ヴィゴツキー）は、[[intelligent-tutoring|AI 指導]]において最も広く応用されている社会文化的概念です。学習者が一人でできることと、助力を得てできることの間の空間です。学習は、教授がこの領域を標的にするとき、最も効果的に起こります——発達を押し上げるのに十分挑戦的で、進歩を可能にするのに十分支援的です。それは[[scaffolding|足場かけ]]の理論的な基盤です。能力が育つにつれて撤回される、一時的で調整可能な支援です。教育における AI において、ZPD は、学習が明かされることなく進歩するために[[intelligent-tutoring|AI 家庭教師]]がどれほどの支援を提供すべきかという中心的な設計上の問いを枠づけます——[[stanford-evidence-base-ai-k12-2026]]を参照してください。
 
+機械が作った援助も、その領域の内側に着地しえます。4つの数学科目にわたる274名の[[adult-learning|成人学習者]]を対象とした無作為化研究では、ChatGPTが生成した解答例のヒントが事前から事後へ17.00%の伸びを生み、ヒントなしでは1.85%、人間のチューターが書いたヒントでは11.62%でした。2つの援助条件は統計的に分離できませんでした（[[chatgpt-hints-human-tutor-learning-gains-2024|Pardos と Bhandari, 2024]]）。同等性を限定するのは誤り率です。生成されたヒントの32%が品質検査に落ち、自己一貫性[[prompt-engineering|プロンプティング]]によって、3つの代数科目ではほぼゼロまで、統計では13%まで下がりました。3回に1回は誤るより博識な他者もなお媒介的エージェントであり、だからこそ学習者がそれに基づいて築く前に、機械の貢献を検証しなければならないのです。
+
 ### 教育における AI における社会文化的学習
 
 社会文化理論は、いくつかの明確な仕方で AIED の[[research-methods-aied|研究]]を形づくります。
 
 - **媒介的エージェントとしての AI。** 生成AIは、媒介的な手段と社会的な相互作用との間の社会文化的な区別を複雑にします。それは活動を媒介すると*同時に*、意図、社会的な帰属、説明責任を持つことなく、相互作用を形づくる文脈に敏感で偶発的な貢献を生み出すからです。Warschauer、Tate、Ritchie（2026年）は、ハイブリッドな範疇としての*媒介的エージェント*を提案し、[[agency|学習者の行為主体性]]を保つために、人間優先の参加の習慣（人間の認知の優位性、目的のある[[student-engagement|関与]]、監督的な行為主体性、認識論的な用心、省察的な[[self-regulated-learning|自己調整]]）を導き出します。（[[generative-ai-mediational-agent-sociocultural-2026]]）
-- **AI の規制的な役割についての段階に敏感な説明。** [[ai-cognitive-partner-co-regulation-learning|人間—AI の共調整の発達的な枠組み]]は、AI に四つの役割——足場、メタ認知的支援、外部記憶、意思決定のパートナー——を与え、それらを段階ごとに配置します。幼児期には構造化された外部調整、児童中期と青年期には[[metacognition|メタ認知的]]なパートナー、成人期には複雑な認知についての協働者です。
+- **AI の規制的な役割についての段階に敏感な説明。** [[ai-cognitive-partner-co-regulation-learning|人間—AI の共調整の発達的な枠組み]]は、AI に四つの役割——足場、メタ認知的支援、外部記憶、意思決定のパートナー——を与え、それらを段階ごとに配置します。[[early-childhood-elementary-ai-education|幼児期]]には構造化された外部調整、児童中期と青年期には[[metacognition|メタ認知的]]なパートナー、成人期には複雑な認知についての協働者です。
 - **ZPD に較正された足場かけ。** [[intelligent-tutoring|AI 家庭教師]]は、各学習者の領域の中に収まるように援助を動的に較正すべきです。[[stanford-evidence-base-ai-k12-2026]]は、学習者の水準に合わせた調整をされた家庭教師が、一般的な援助を上回ることを示しており、[[adaptive-learning|適応学習]]と[[golrang-propact-pair-programming-2026]]は、難易度とヒントを調整することで ZPD を具体化し、[[finkelstein-principled-ai-education-2025]]のような原則に基づく枠組みは、能力が育つにつれて支援を撤回すべきだと論じています。
+- **領域を離れる合図は深さではなく狙いです。** 意思決定の各点で足場を上げては引くチューターは、*別の*意思決定についてのターンの後では65.0%の確率で譲歩し、支援中の意思決定を狙ったターンの2倍でした。また、応答の深さは結果を順序づけませんでした（[[adaptive-scaffolding-contingency-comet-tutor-2026|Hou ら（2026年）]]）。撤回は、答える学習者を前提とします。取り上げ率は最初の問いの後の37.0%から3回目の後の21.8%へ落ちたので、静けさは準備ができた証拠ではありません。
 - **第四の領域：モデルが知っていること。** [[scan-framework-task-assignment-generative-ai-2025|Tsim と Gutoreva（2025年）]]は、指導のループではなくヴィゴツキーの図式を拡張し、ZPD に*[[generative-ai|生成AI]]に知られている*領域を加え、課題が何に割り当てられるべきかを分類する四つの小領域を読み取ります。Substitute（課題固有の知識がないため、モデルの一般的な能力がそれを担う）、Aid（部分的な知識、増強される）、Complement（モデルの出力を監督するのに十分な知識）、そして Non-negotiable（援助なしでそれを行うのに十分なので、委任はほとんど何も加えない）です。[[scaffolding|足場かけ]]は、ヒントの配信ではなく課題の割り当てとして表現され、[[metacognition|メタ認知的]]なループ——リアルタイムの評価、省察、学習——が、時間の経過とともに小領域間で課題を動かすものです。
 - **見習いと共同体。** 社会文化的な考え方は、認知的見習い、モデリング、コーチング、そしてフェージングを支えています。実践共同体は、学習を共同体の実践へのより十全な参加への動きとして枠づけます。
 - **文化的で[[governance|制度的]]な文脈。** [[constructivist|構成主義]]に隣接する社会文化的な流れは、文化的な次元が、何が知っていると見なされるか、誰が権威であるか、そして努力が何を意味するかを形づくると強調します——[[young-people-learning-generative-ai-rapid-review-2026|シドニーの PreK-12 迅速レビュー]]の学習者—文脈—文化の枠づけを参照してください。
-- **語りの尺度を検証するには、その語りが測定される若者が必要である。** 語りの一手の定義を四人の注目された学生と共に再文脈化したところ、LLM の分類の F1 が Claim で +0.104、Question で +0.23 上がり、学生自身の解釈は大人とモデルの枠づけから乖離しました——これは、データ規模の問題ではなく、テキストに基づく分類の構造的な限界です（[[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio ら（2026年）]]）。
+- **語りの尺度を検証するには、その語りが測定される若者が必要である。** 語りの一手の定義を四人の注目された学生と共に再文脈化したところ、[[llm|LLM]] の分類の F1 が Claim で +0.104、Question で +0.23 上がり、学生自身の解釈は大人とモデルの枠づけから乖離しました——これは、データ規模の問題ではなく、テキストに基づく分類の構造的な限界です（[[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio ら（2026年）]]）。
 
 ### 認知負荷とメタ認知とのつながり
 
@@ -98,3 +101,7 @@ ZPD（ヴィゴツキー）は、[[intelligent-tutoring|AI 指導]]において�
 - [[stanford-evidence-base-ai-k12-2026]] — K-12 における AI のためのスタンフォードのエビデンス基盤
 - [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 における生成AIに関するシドニーの迅速レビュー
 - [[ai-cognitive-partner-co-regulation-learning]] — 認知的パートナーおよび共調整としての AI
+
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM が書いたヒントは数学の学習の伸びで人間のチューターのヒントに匹敵した（Pardos & Bhandari 2024）
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — 学習者のターンが何を狙っているかで足場を外し、応答の深さでは外さない
+

@@ -1,7 +1,7 @@
 ---
 title: 教師の AI リテラシー
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-10-30T03:22:22-04:00"
+updated: "2026-11-07T20:21:19-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -12,7 +12,7 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_of: concepts/teacher-ai-competency
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -40,7 +40,7 @@ ai_assist:
 教師の AI リテラシーが重要なのは、教師が AI による学習の改善を左右する決定的な要因だからです。研究は一貫して、AI ツールがより良い成果につながるのは、教師がその利用を計画し、学生の使い方を支え、出力を評価し、一貫した指導に統合できるときに限ることを示しています。ナレッジベースの文献は、このリテラシーの*次元*、自己認識と実際のスキルの*乖離*、そしてそれを築く*専門能力開発*を検討しています。
 
 [[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canalら(2026)]]は、人的資本理論とステークホルダー理論を用いて、経営学と経済学の教員への調査から、教員のAIコンピテンシーを学生の成果に直接結びつけ、大学の教員コンピテンシーへの投資は裁量的なものではないと論じています。
-- **プロンプト訓練が買うのは時間であり、より良い教材ではない。** 204名の教師を対象とした事前登録RCTで、Appel、Fervers、Piepenburg(2026)は、ChatGPTが授業準備教材の質を改善し、準備時間を34%削減した一方、事前のAI訓練は評価された質を改善することなくさらに21%の時間短縮を加えたことを見出しました([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]])。訓練を受けた教師はより長いプロンプトを書き、反復は少なくなりました。どちらの経路も同じ質に到達しました。
+- **プロンプト訓練は時間を節約するが、教材は改善しない。** 204名の教師を対象とした事前登録[[rct|RCT]]で、Appel、Fervers、Piepenburg(2026)は、ChatGPTが授業準備教材の質を改善し、準備時間を34%削減した一方、事前のAI訓練は評価された質を改善することなくさらに21%の時間短縮を加えたことを見出しました([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]])。訓練を受けた教師はより長いプロンプトを書き、反復は少なくなりました。どちらの経路も同じ質に到達しました。
 
 ## 中核的なリテラシーの次元
 
@@ -50,6 +50,8 @@ ai_assist:
 - **エージェントのワークフローを指定すること:** 教師が自然言語でチャットボットを設定するとき、支配的な失敗は誤った事実ではなく失われた意図です。ボットは必要なワークフローの段階をエンドユーザーの会話の53.8%で飛ばし、期待の設定を33.4%で省略しました([[eduwild-teacher-configured-chatbots-failures-2026|Liu et al. (2026)]])。したがって、順序づけられ明示的な手順を書くことは、それ自体が訓練可能なコンピテンシーの次元です。
 - **教授学的な知識が決定的な層である。** [[k-12|中等教育]]の[[ai-education|AI 教育]]の横断的な研究([[pedagogy-first-technology-second-teacher-knowledge-2026|教師46人、学生2,832人]])は、技術的な AI 知識だけでは不十分であり——場合によっては学生の「社会のための AI」に対する認識をわずかに低下させさえし——一方で教授学的な AI 知識が学生の認識と AI を学ぶ意欲を促したことを見出しました。したがって、リテラシーの枠組みは、教授学的な AI 知識を柔らかな付加物ではなく枢要な次元として重みづけすべきです。
 - **教授学的な統合:** AI の利用を学習目標に対応づけること、学生の[[metacognition|メタ認知]]と自己[[regulation|調整]]を支える[[scaffolding|足場かけ]]を設計すること、AI を[[learning-design|教授設計]]に統合すること。[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK の研究]]は、教師が複数の[[agentic-ai|エージェント]]のワークフローを通じて技術的・教授学的・内容の知識をどう組み合わせるかをモデル化し、[[teacher-ai-teaming-five-levels|5段階の教師-AI 協働の枠組み]](事務的→相乗的)は、[[generative-ai|GenAI]]が教師の力量を代替・補完・拡張しうる様態を捉えています。
+
+- **研究のコンピテンシー:** 教室のデータ分析に AI を用いることは、教師の専門性の訓練可能な次元です。105 人の化学教師を対象とした 6 週間の AI 支援プログラムは、測定されたすべての次元で事前・事後の伸びを生み出しました（Cohen dz 0.47〜0.63、p < 0.001）（[[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay et al. (2026)]]）。また、AI に対する教師の認識を、検索と執筆から研究計画とデータに基づく意思決定へと移しました。
 - **評価に関するリテラシー:** AI が生成した内容と学生の AI 出力を評価すること、そして学生が AI を使うときに[[assessment-validity|妥当性]]がどう変わるかを理解すること。これは[[automated-assessment]]、[[ai-detection]]、そしてより広い[[assessment|評価の再設計]]の課題につながります。推薦システムについては、AI の説明が本当に理解可能で教授学的に意味があるかどうかを判断することにまで及びます。[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 他 (2025)]]は、説明が生のモデル特徴を露出させる場合よりも、領域(カリキュラム)の言葉で組み立てられたときに教師が AI のグルーピング推薦をより信頼することを見出しました。これは、不透明な出力を受け入れるのではなく、[[explainable-ai|説明の質]]を求め評価するスキルです。
 - **モデル選択とプロンプト設計は実証可能なスキルである:** 道具的な[[ai-literacy]]には、どのモデルを使うか、課題をどう言い表すかを知ることが含まれます。[[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen 他 (2026)]]は、153人の教師養成課程の学生の授業計画の目標を、体系的に変化させた4つのプロンプトの下で ChatGPT-4、Claude 3、Gemini Advanced に批評させました(研究1では N = 240 件のフィードバック、研究2では 345 件)。[[feedback]]フィードバックは9つの質のカテゴリで評価されました。モデル選択だけで評価された質の分散の 26.9%(研究2では 18.4%)を説明し、プロンプト設計がその上に有意な 15.9%(5.7%)を加えました。決定的な単一のプロンプト特性は領域固有の専門用語であり、その除去は質を有意に低下させました(β = −0.412)。一方、例を加え chain-of-thought の指示を落とすことは、研究1では有意な差を生みませんでした。彼らの解釈——教科の用語は関連する訓練データの内容を解き放つと同時に、役割を指定するプロンプトのように依頼を専門的に枠づける——に、現時点で最も有能なフロンティアモデルを使うという経験則を加えると、モデル選択は技術的な決定ではなく教授上の決定となります。
 - **倫理的で批判的な利用:** AI の出力における[[bias-mitigation|バイアス]]を見分けること、学生のデータ([[privacy|プライバシー]])を守ること、公正な成果([[equity-in-ai-education]])を確保すること。[[llm-cultural-relevance-k12|文化的に関連する AI の利用]]は、教師が LLM を用いて支配的な規範を強化するのではなく教材を多様化できるかどうかを検討しています。
@@ -64,6 +66,8 @@ ai_assist:
 **情緒的・道徳的な準備は別個の次元である。** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]]はマルタの[[higher-ed|大学]]の教職員(回答者109人)を調査し、4つの道徳・情緒項目から AI Guilt Index(α = 0.88)を構築して、利用*後*に経験される悔悟よりも*予期的*な罪悪感が上回ることを見出しました。最も強い支持は、AI の利用が自分の信頼性を損なうのではないかという懸念(34.9% が同意)、次いでそれを使うときに[[academic-integrity|ずるい]]ことをしているように感じること(25.7%)で、利用後の悔悟はわずか 9.2% でした。リテラシーの枠組みにとって重要な知見は、非利用者が利用者より*高い*罪悪感を報告したこと(M = 3.25 対 M = 2.32)と、罪悪感がキャリアの安定とともに低下したこと——若手の教員が最も高く(M = 2.71)、シニアの教員が最も低く(M = 2.03)——です。したがって情緒的な準備はスキルや自信の測定では捉えられず、この論文はリテラシーの枠組みが罪悪感とアイデンティティへの懸念を、修正すべき欠陥ではなく正常な移行期の反応として扱うべきだと論じています。
 
 その再枠づけのより強力な形では、GenAI はスキルの欠如ではなく閾値的概念であるとされます。自動エスノグラフィーの考察は、教員の[[anxiety-and-stress|不安]]や抵抗が閾値を越えることの構成要素であるため、スキルに基づく訓練は失敗し、原則ある不採用は修正されるべきではなく尊重されるべきだと論じています([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]])。
+
+**コンピテンシーはプロンプトだけでなく、修復として現れる。** 7 人の中学校数学教師が 143 の問題を書き換えた研究で、[[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]]は 415 の追跡プロンプトをコーディングしました。大半は現実性、読みやすさ、数学的構造を修正し、6 件は不適切あるいは偏った出力を捉えました——教師の判断は、プロンプトの流暢さとしてではなく、生成された課題の[[human-in-the-loop-ai|監視]]として働いていたのです。
 
 ## リテラシーの乖離
 
@@ -81,9 +85,11 @@ ai_assist:
 
 **乖離は不参加としても現れる。** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]は2025年後半に1,057人の米国の大学教員を調査し、26% が[[generative-ai|生成 AI]]ツールを全く使っていないことを見出しました。3分の1が教育目的での利用を選ばず、非利用は芸術と[[humanities-education|人文学]]に集中していました(40%)。乖離の制度的側面は個人のそれを上回りました。68% が自分の学校は教員に対して生成 AI を教育と指導に用いる準備を整えていないと述べ、教員は同僚の抵抗(82%)と不慣れ(83%)を学部内導入の主要な障害として挙げました——これは、能力形成、同僚の規範、政策がすべて共に動かなければならない図景です。
 
+**乖離はパイプラインの中で反転しうる。** 大学院の[[medical-education|医学教育]]では、AI カリキュラムの仕事を導く 12 人の医師が、レジデントは多くの教師よりも AI に流暢になることを期待し、教員の一方向的な[[lifelong-learning|スキル向上]]ではなく、共同学習と共同教授を提案しました（[[bursic-ai-residency-education-curriculum-2026|Bursic et al.（2026）]]）。同じインタビューは、カリキュラム開発を導くにはまだ成熟していない情報学の部門を描写しており、制約を個人の技能だけでなく制度的能力に位置づけています。
+
 **養成前段階の訓練は、このリテラシーの倫理的次元をほぼ回避している。** 初等数学の教師養成前段階における AI の[[meta-analysis-systematic-review|システマティックレビュー]]([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto 他 2026]]、341件の記録から11の研究を選定)は、介入が短期間の技術的・教授学的な伸びに集中し、11件中9件が1回から6回にわたる短い介入であったこと、そして倫理が扱われたのは11件中わずか3件であったことを見出しました。リテラシーの枠組みは倫理的判断を次元として名指ししていますが、それを築くはずの養成前段階の文献はめったにそれを教えたり測定したりしません。
 
-- **七つのコンピテンシーのクラスターと、最も弱い環としての倫理。** 78研究の主題統合は、プロンプトエンジニアリング、AI出力の批判的評価、倫理的意識とバイアス検出、教授内容の整合、概念的なAIリテラシー、人間による監督と省察のクラスターを導きます。プロンプトエンジニアリングは最も一貫して記録され、単一の技能ではなく**発達的なスペクトル**として振る舞うため、レビューアはそれを新しい媒体を通じて行われる教授学的推論、すなわち外部化された設計上の決定としてのプロンプトと理解するのが最善だと論じました。倫理的意識は、養成前段階の研究で**最も弱く記録されたコンピテンシー**でした([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]])。
+- **七つのコンピテンシーのクラスターと、最も弱い環としての倫理。** 78研究の主題統合は、プロンプトエンジニアリング、AI出力の[[critical-thinking|批判的評価]]、倫理的意識とバイアス検出、教授内容の整合、概念的なAIリテラシー、人間による監督と省察のクラスターを導きます。プロンプトエンジニアリングは最も一貫して記録され、単一の技能ではなく**発達的なスペクトル**として振る舞うため、レビューアはそれを新しい媒体を通じて行われる教授学的推論、すなわち外部化された設計上の決定としてのプロンプトと理解するのが最善だと論じました。倫理的意識は、養成前段階の研究で**最も弱く記録されたコンピテンシー**でした([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]])。
 - **教師は自分の評価技能を過大評価する。** **AIが生成した学習目標のうち、改訂なしですべての質基準を満たしたのは38.3%だけ**という発見に加えて、養成前段階の教師は**チャットボットの出力を評価する自分の能力を体系的に過大評価**しており、レビューアはこれを宣言的な欠如ではなく知覚上の欠如の可能性として読みました。だからこそ彼らは、コンピテンシーは自己申告ではなくパフォーマンスの成果物(授業計画、決定のログ、マイクロティーチング)を通じて評価されるべきだと論じるのです。自己評価の信頼性の低さは、訓練が対処しようとしているまさにその文献で示されているからです。
 
 ## 効果的な専門能力開発
@@ -115,6 +121,8 @@ ai_assist:
 
 - **価値は領域固有のプログラムでもスキルに遅れる。** 香港の英語教師30人を対象とした1年間のプログラムでは、[[multimodal|マルチモーダル]]な評価戦略の知識が 3.13 から 4.15(5点中、部分 η² = 0.571)に、学生を支える力量が 3.05 から 3.98(0.482)に上昇し、いずれも有意でしたが、価値のすべての下位領域は Bonferroni 補正された α = .006 のもとで統計的に平坦なままでした。教師はこの伸びを、ワークショップだけではなく校内での共同計画と学校間のクラスター会議に帰しました([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 他, 2026]])。
 - **マイクロラーニングは大学教員のAIコンピテンシーを発達させうる。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]]は、2回のオンラインでの集団討議を経て、[[vocational-education|職業教育]]の2つのモジュールを5つのデザイン原則——明確な構造と見通し、指導とナビゲーションの支援、分割とモジュール化、マルチモーダルな提示、学習者の活性化——に洗練させ、プラットフォームのナビゲーションとモジュールの所在の発見が主な実践的な障壁であることを見出しました。
+
+- **採用の意図は欲求の満足の上で動く。** 146 人の教師の構造モデルでは、コンピテンス欲求の満足が、[[motivation|内発的動機づけ]]と専門能力開発への関与を通じて GenAI を利用する意図を予測し（間接効果 0.233）、自律性と関係性の満足は予測しませんでした（[[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]）。
 
 ## 教師の AI リテラシーと変容する教師の役割
 
@@ -164,6 +172,9 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 - [[pedagogy]] — 包括的概念:AI 教育における教授法と教育戦略
 
 ## 関連する記事
+
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers' research competence following AI-supported professional development: a mixed-methods pre–post study
+- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — どの教師が計画の時間を得たか。教科知識への自信が低い、教授学的知識が低い、職歴が短い、または技術への自信が高い教師
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — 教師はAIを受け入れながら、それがどう働くかを誤解している(Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — 54の数学教育研究で最も頻繁に報告された課題としての教師の準備の程度と技術的・教授学的統合(Manto et al. 2026)
@@ -219,3 +230,5 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024 の4つの教師の信念プロファイルは専門的な学びとプロファイル固有の障害を AI の利用に結びつける
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild:教師が設定したチャットボットが実世界でどう失敗するか、そしてどう直すか
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — AIを活用した教員の視覚化教授コンピテンシー尺度の開発と検証
+- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
+- [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers' basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
