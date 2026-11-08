@@ -1,7 +1,7 @@
 ---
 title: Formazione aziendale
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,10 @@ L'AI nella formazione aziendale è uno strand [[discipline-specific-aied|discipl
 ## L'AI nella formazione aziendale nella ricerca della knowledge base
 
 - **Framework informati dagli studenti.** [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]] presentano un framework concettuale informato dagli studenti per integrare la GenAI lungo tutto l'arco dei programmi di laurea in business, basato su un case study britannico su 149 studenti. Gli studenti erano altamente coinvolti, riconoscevano la necessità di competenze in GenAI per la loro carriera e volevano usare l'AI senza commettere involontariamente una violazione dell'integrità accademica.
+
+- **Un'analisi strategica basata sul valore, non uno studio sugli esiti.** [[csaszar-ai-management-education-2026|Csaszar et al. (2026)]] applicano la disponibilità a pagare e il costo di erogazione ai programmi MBA e affini. L'IA può sostituire la formazione o integrarla aumentando il valore del giudizio, dell'etica e della leadership; contenuti, metodi e pubblico dell'insegnamento sono tutti incerti, e la capacità di ricerca è la variabile che decide se le scuole vengono integrate o spiazzate.
+
+
 - **Un decennio di ricerca.** [[espino-ai-business-education-review-2026|Espino & Espino (2026)]] mappano bibliometricamente 213 articoli (2015–2024) sull'AI nella formazione aziendale, identificando quattro cluster: trasformazione della formazione aziendale guidata dall'AI, pedagogie digitali innovative, [[personalized-learning|personalizzazione]] potenziata dall'AI, e formazione aziendale allineata all'economia digitale — con lacune persistenti in coerenza curricolare, preparazione dei docenti e validità della valutazione.
 - **Allineamento costruttivo.** [[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]] analizzano 17 casi di adozione della GenAI in una business school britannica, rilevando che l'equilibrio tra benefici e rischi pedagogici era modellato dal **grado di integrazione nel curriculum** — l'integrazione costruttiva produceva esiti migliori.
 - **Approfondimenti degli studenti sui curricula.** [[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]] si basano su 166 studenti undergraduate di business in un'unità capstone, rilevando un forte sostegno all'integrazione della GenAI nei curricula con tre aree prioritarie: comprensione/ottimizzazione delle funzionalità della GenAI, esplorazione delle applicazioni in contesti diversi, e navigazione delle dimensioni etiche/legali.
@@ -51,9 +55,9 @@ L'AI nella formazione aziendale è uno strand [[discipline-specific-aied|discipl
 - **Agenti conversazionali nei giochi di [[simulation]] aziendali.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger e Liening (2026)]] sviluppano e valutano un [[conversational-ai|agente conversazionale]] potenziato dall'AI (Lara) per il supporto didattico adattivo nei giochi di simulazione aziendale utilizzati per l'apprendimento imprenditoriale esperienziale. Basato su un approccio [[equity-in-ai-education|equity]]-by-design e sullo [[universal-design-for-learning|Universal Design for Learning]], il framework CAIS-GBL punta al [[student-engagement|coinvolgimento]] cognitivo, [[motivation|motivazionale]], [[affective-computing|affettivo]] e [[sociocultural-learning|socio-culturale]] degli studenti, con valutazioni tra studenti insegnanti e partecipanti a BSG che mostrano percezioni positive della presenza cognitiva/[[community-of-inquiry|sociale]] e del supporto all'[[self-regulated-learning]] — un modello per scalare il feedback [[formative-assessment|formativo]] nella formazione aziendale [[game-based-learning|basata sulla simulazione]].
 - **GAI agentica per compiti applicati complessi.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] sviluppano il framework AGAI-HE attorno a un corso di **e-commerce**, in cui il compito di apprendimento richiede di confrontare modelli di business, soppesare vincoli di mercato e operativi, e difendere raccomandazioni strategiche — lavoro applicato in più fasi che i chatbot prompt-risposta supportano male. Il loro studio sulle percezioni di 130 studenti ha rilevato che sia il supporto chatbot che quello agentico erano valutati al di sopra del tradizionale [[online-teaching-and-learning|e-learning]] per miglioramento dell'apprendimento, personalizzazione, supporto alle decisioni e organizzazione del flusso di lavoro, pur senza una differenza significativa tra agente e chatbot, e il più forte endorsement è andato alla combinazione di tutte e tre le modalità. Per i programmi di business, la lettura è che l'adozione è una questione di [[curriculum-design|progettazione didattica]] su come il supporto dell'AI viene sequenziato e governato, non semplicemente un aggiornamento degli strumenti ([[agentic-ai]]).
 - **Un chatbot [[rag|RAG]] costruito per il corso ha spostato le aspettative, non gli esiti.** In una [[rct|sperimentazione randomizzata]] della durata di un semestre con 454 studenti universitari in un corso di Principi di Marketing, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni e Fryer (2026)]] non hanno rilevato alcun effetto gruppo-per-tempo significativo su interesse, [[self-efficacy|autoefficacia]], engagement o prestazione al test, sebbene gli studenti accedessero 0,89 volte a settimana e valutassero il divertimento 80,4.
-- **L'innovazione nella valutazione e nel grading è sotto-ricercata.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] esaminano 58 articoli relativi alla valutazione in 20 anni su quattro riviste leader nella formazione manageriale (AMLE, JME, Management Learning, IJME) — circa tre all'anno, molti nei numeri speciali del 2010 e 2014 — rilevando che la valutazione e il grading sono sotto-ricercati rispetto al loro ruolo centrale nel plasmare l'apprendimento. L'autovalutazione e la valutazione tra pari dominano il discorso (quasi metà del corpus, principalmente per la valutazione [[summative-assessment|sommativa]] del [[group-work|lavoro di gruppo]]); la [[authentic-assessment|valutazione autentica]] compare principalmente attraverso [[simulation|simulazioni]] mediate dalla tecnologia ed è spesso confusa con l'[[experiential-learning|apprendimento esperienziale]]; mentre la rivalutazione, il grading basato su standard e l'ungrading sono praticamente assenti. Gli autori esortano gli educatori manageriali a impegnarsi più attivamente e reciprocamente con queste innovazioni, raccomandando una sperimentazione incrementale (compiti non valutati, rivalutazione per un singolo compito, rubriche basate su standard) sostenuta da un coordinamento a livello di programma e da evidenze documentate di Scholarship of Teaching and Learning.
+- **L'innovazione nella valutazione e nel grading è sotto-ricercata.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] esaminano 58 articoli relativi alla valutazione in 20 anni su quattro riviste leader nella formazione manageriale (AMLE, JME, Management Learning, IJME) — circa tre all'anno, molti nei numeri speciali del 2010 e 2014 — rilevando che la valutazione e il grading sono sotto-ricercati rispetto al loro ruolo centrale nel plasmare l'apprendimento. L'autovalutazione e la [[peer-assessment|valutazione tra pari]] dominano il discorso (quasi metà del corpus, principalmente per la valutazione [[summative-assessment|sommativa]] del [[group-work|lavoro di gruppo]]); la [[authentic-assessment|valutazione autentica]] compare principalmente attraverso [[simulation|simulazioni]] mediate dalla tecnologia ed è spesso confusa con l'[[experiential-learning|apprendimento esperienziale]]; mentre la rivalutazione, il grading basato su standard e l'ungrading sono praticamente assenti. Gli autori esortano gli educatori manageriali a impegnarsi più attivamente e reciprocamente con queste innovazioni, raccomandando una sperimentazione incrementale (compiti non valutati, rivalutazione per un singolo compito, rubriche basate su standard) sostenuta da un coordinamento a livello di programma e da evidenze documentate di Scholarship of Teaching and Learning.
 
-- **Il punteggio automatizzato dei lavori di corso in business richiede una validazione specifica per il corpus.** Su 60 post di marketing di studenti da una simulazione BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] ha rilevato che un [[llm|LLM]] raggiungeva solo ICC(2,1) = 0,435 rispetto alla media umana — regole deterministiche 0,091, un ibrido a pari peso 0,266 — mentre l'aggiunta di ancore redatte dai ricercatori portava l'LLM a 0,846 senza modificare il punteggio di nessuno studente.
+- **Il [[automated-assessment|punteggio automatizzato]] dei lavori di corso in business richiede una validazione specifica per il corpus.** Su 60 post di marketing di studenti da una simulazione BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] ha rilevato che un [[llm|LLM]] raggiungeva solo ICC(2,1) = 0,435 rispetto alla media umana — regole deterministiche 0,091, un ibrido a pari peso 0,266 — mentre l'aggiunta di ancore redatte dai ricercatori portava l'LLM a 0,846 senza modificare il punteggio di nessuno studente.
 - **Un'alternativa nella formazione aziendale valuta il processo, non il tema.** In un apprendistato di primo anno per Analista Aziendale, la valutazione richiedeva iterazione documentata e [[collaborative-learning|collaborazione]] tra pari, e gli studenti che usavano la GenAI contestavano le sue controargomentazioni anziché consegnarle ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Insegnare l'AI come elemento di progettazione dei processi a tutti gli effetti.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] colloca un checkpoint sulle decisioni dell'AI in ogni fase del ciclo di vita BPM attraverso sei moduli di un corso con 152 studenti, così che gli studenti costruiscano un agente di intake funzionante basato su LLM e scoprano poi, a un checkpoint, che il collo di bottiglia effettivo è una coda di due persone addette alle indagini sulle frodi.
 
@@ -64,6 +68,10 @@ L'AI nella formazione aziendale abbraccia **l'economia** e il **management** com
 ## Perché l'AI nella formazione aziendale è importante
 
 Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida, quindi le business school affrontano una pressione acuta nel preparare gli studenti a un ambiente di lavoro integrato con l'AI. La ricerca sottolinea che un'integrazione efficace è **guidata dal curriculum e informata dagli studenti** — non solo aggiungere strumenti di AI ma riprogettare i programmi così che l'alfabetizzazione sulla GenAI, il giudizio etico e l'applicazione autentica siano intessuti nelle strutture dei percorsi di laurea. Questo collega la formazione aziendale ai temi più ampi della knowledge base dell'[[ai-literacy|alfabetizzazione sull'AI]], della preparazione dei [[teacher-role|docenti]], della riprogettazione della [[assessment]] e della riforma del [[curriculum-design|curriculum]] nell'era dell'AI.
+
+
+I casi di studio e le simulazioni sono i formati didattici più vicini a questa letteratura, ma l'evidenza manageriale non isola un intervento basato sui casi; si veda [[case-based-learning]] per la pedagogia e i suoi limiti.
+
 
 ## Implicazioni per i docenti di business
 
@@ -84,6 +92,10 @@ Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida
 - [[discipline-specific-aied]]
 - [[generative-ai]]
 - [[ai-literacy]]
+
+- [[case-based-learning]] — Casi di studio, metodo dei casi e discussione dei casi
+
+
 - [[curriculum-design]]
 - [[assessment]]
 - [[ethics]]
@@ -95,6 +107,9 @@ Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida
 
 ## Articoli collegati
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+
+- [[csaszar-ai-management-education-2026]] — Gli effetti dell'IA sulla formazione manageriale: un'analisi strategica basata sul valore (Csaszar et al. 2026)
+
 
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)

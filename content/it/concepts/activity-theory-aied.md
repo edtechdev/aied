@@ -1,7 +1,7 @@
 ---
 title: Teoria dell'attività
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 - La teoria dell'attività vede l'apprendimento non come cognizione individuale ma come un sistema collettivo di soggetto, strumenti, regole, comunità e divisione del lavoro. Se introduci un nuovo strumento di IA in un'aula, quali di questi elementi ti aspetti che cambino — e quali che rimangano ostinatamente gli stessi?
 - Un'idea chiave è che le contraddizioni dentro un sistema di attività sono la forza motrice dello sviluppo, non bug da eliminare. Riesci a pensare a una tensione nel tuo lavoro o studio che ti abbia effettivamente spinto a cambiare il tuo modo di fare le cose?
-- La teoria dell'attività riformula l'adozione dell'IA da parte di un docente come una proprietà dell'intero sistema — norme, regole, distribuzione del carico di lavoro — piuttosto che come mera questione di atteggiamenti individuali. Quali ragioni sistemiche potrebbero spiegare perché un docente capace resista a uno strumento di IA genuinamente buono?
+- La teoria dell'attività riformula l'adozione dell'IA da parte di un [[teacher-role|docente]] come una proprietà dell'intero sistema — norme, regole, distribuzione del carico di lavoro — piuttosto che come mera questione di atteggiamenti individuali. Quali ragioni sistemiche potrebbero spiegare perché un docente capace resista a uno strumento di IA genuinamente buono?
 - Quando l'IA si fa carico di compiti, riconfigura chi fa cosa, spostando la divisione del lavoro tra studenti, docenti e strumenti. Quale lavoro cognitivo nel tuo contesto si è silenziosamente spostato dagli umani alle macchine — e chi se n'è accorto?
 - Poiché ogni disciplina funziona come un proprio sistema di attività, lo stesso strumento di IA può produrre esiti diversi tra materie. Perché uno strumento che trasforma i corsi di scrittura potrebbe cambiare a malapena un corso di matematica, o viceversa?
 - La teoria dell'attività è usata sia per analizzare come l'IA rimodelli l'insegnamento sia per progettare interventi che risolvano le tensioni che essa espone. In che modo vedere la tua pratica didattica o di studio come un sistema di attività potrebbe cambiare il tuo modo di diagnosticare un problema?
@@ -47,21 +47,26 @@ La teoria dell'attività discende dalla psicologia culturale-storica di Vygotski
 - **Oggetto** — il motivo o l'obiettivo verso cui l'attività è diretta; la "materia prima" che l'attività trasforma.
 - **Strumenti / artefatti mediatori** — gli strumenti, le tecnologie, i segni e il linguaggio attraverso cui il soggetto agisce sull'oggetto.
 - **Comunità** — il gruppo che condivide l'oggetto e costituisce il contesto sociale dell'attività.
-- **Regole** — le norme, le convenzioni e i regolamenti espliciti e impliciti che governano l'attività.
+- **Regole** — le norme, le convenzioni e i regolamenti espliciti e [[social-norms-ai-use|impliciti]] che governano l'attività.
 - **Divisione del lavoro** — come compiti, potere e responsabilità sono distribuiti nella comunità.
 
 Una caratteristica definente è la **contraddizione**: i sistemi di attività contengono tensioni strutturali storicamente accumulate (dentro un elemento, tra elementi, o tra un vecchio e un nuovo elemento/strumento introdotto). Le contraddizioni non sono bug da eliminare ma la *forza motrice dello sviluppo* — quando si aggravano, spingono i partecipanti a mettere in discussione e a discostarsi dalle norme consolidate, aprendo la strada a una trasformazione espansiva (Engeström, 2001).
+
+Il posto degli strumenti è quello che l'IA generativa mette sotto tensione. Un saggio socioculturale del 2026 sostiene che un [[llm|LLM]] media l'attività e al contempo genera contributi contingenti che ne rimodellano la traiettoria, per cui chiamarlo strumento sottostima la sua influenza, mentre chiamarlo collaboratore gli attribuisce intenzionalità, responsabilità e appartenenza alla comunità che non possiede ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate e Ritchie, 2026]]). Il loro *agente mediatorio* si colloca nella posizione dello strumento senza occupare una posizione nella comunità, il che significa che la divisione del lavoro deve essere analizzata attorno ai contributi e non soltanto agli strumenti.
 
 ### Perché la teoria dell'attività conta per l'IA nell'educazione
 
 L'IA introduce nuovi **strumenti/artefatti mediatori** nei sistemi di attività educativa esistenti, il che produce sia opportunità sia contraddizioni. La teoria dell'attività dà alla ricerca AIED un vocabolario e un metodo per analizzare questi cambiamenti:
 
 - **L'IA come artefatto mediatore che riconfigura la divisione del lavoro.** I sistemi di IA non si limitano a trasmettere informazioni; si fanno carico di compiti, cambiano chi fa cosa e ridistribuiscono il lavoro cognitivo tra umani e macchine. Gli studi usano la teoria dell'attività per esaminare come l'IA sposti la divisione del lavoro tra studenti, docenti e strumenti — ad esempio nella scrittura collaborativa o nel tutoraggio — e cosa ciò significhi per l'[[agency|agentività umana]].
+
+- **Il lavoro si ridistribuisce più velocemente di quanto cambino le regole.** Una [[meta-analysis-systematic-review|revisione di scoping]] di 53 studi HCI sugli LLM nell'educazione familiare ha rilevato sistemi che producono materiali, strutturano il dialogo, interpretano il contesto e collegano le famiglie alla conoscenza esterna, mentre i [[parents-and-families|genitori]] mantenevano la revisione, l'adattamento e la decisione; il lavoro di verifica e riparazione restava non documentato ([[llm-family-education-activity-theory-2026|Luo et al., 2026]]). Le regole che governano la partecipazione erano per lo più anticipate anziché attuate: il disallineamento tra un nuovo strumento e un insieme di regole invariato che il framework predice.
+
 - **Analizzare l'adozione da parte dei docenti e lo [[educational-development|sviluppo professionale]].** La teoria dell'attività riformula l'adozione dell'IA da parte dei docenti come una proprietà dell'intero sistema di attività (norme della comunità, regole, divisione del lavoro, aspettative [[governance|istituzionali]]) piuttosto che dei soli atteggiamenti individuali. Il lavoro [[quantitative-research|quantitativo]] [[activity-theory-teachers-adoption-ai-sem-2026|modella i sei componenti dell'AT come costrutti misurabili]] che predicono l'intenzione dei docenti di adottare l'IA; il lavoro [[qualitative-research|qualitativo]] [[lee-anson-k12-teachers-ai-activity-theory|documenta i sentimenti sestupli dei docenti]] (inadeguato, impersonale, imperfetto, incerto, di supporto, inevitabile); e il lavoro di intervento [[activity-theory-teacher-pd-ai-agent-design-2026|usa la CHAT per diagnosticare e riprogettare]] lo sviluppo professionale dei docenti, trattando il disimpegno come una risposta razionale a sistemi che frustrano i bisogni.
 - **Cambiamento delle norme e perturbazione sistemica.** Poiché l'IA introduce un nuovo strumento nel sistema di attività, genera contraddizioni con le regole e le norme esistenti. Gli studi sull'uso della GenAI da parte degli studenti [[ai-disruption-engineering-education-chat-2026|mostrano come emergano nuove regole implicite]] man mano che gli studenti si adattano — trasformando le norme attorno all'auto-direzione, agli obiettivi di apprendimento, al ruolo del docente e all'[[ethics|etica]].
 - **Ancorare l'[[learning-analytics|apprendimento analitico]] e la misurazione.** La teoria dell'attività può fondare la *progettazione* degli analytics mappando le facet di misurazione sugli elementi del sistema di attività. Una pipeline di analytics ancorata alla CHAT [[chat-anchored-learning-analytics-ai-literacy-2026|mappa partecipazione temporale, qualità del discorso e sofisticazione dei concetti sugli elementi CHAT]] per rilevare precocemente la partecipazione a rischio in piccole classi basate sulla discussione.
 - **Disciplinarietà e variazione tra contesti.** Poiché i sistemi di attività sono storicamente e culturalmente situati, la teoria dell'attività spiega perché lo stesso strumento di IA produca esiti diversi tra discipline e contesti — ogni disciplina funzionando come un sistema di attività con proprie regole, comunità e divisione del lavoro [[jiang-genai-activity-theory-disciplines-2026|(ad esempio le differenze nell'uso e nella dichiarazione della GenAI tra gli studenti di laurea nei diversi ambiti accademici)]].
-- **Uno strumento, due sistemi di attività, penetrazione irregolare.** Tra dieci accademici di matematica analizzati attraverso la CHAT, la GenAI è rimasta uno strumento periferico nel sistema di attività della ricerca, mentre rimodellava il ruolo del docente verso mediatore del ragionamento critico nell'insegnamento, con l'adozione che si diffondeva attraverso l'uso degli studenti e le reti tra pari piuttosto che attraverso la politica [[governance|istituzionale]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
+- **Uno strumento, due sistemi di attività, penetrazione irregolare.** Tra dieci accademici di matematica analizzati attraverso la CHAT, la GenAI è rimasta uno strumento periferico nel sistema di attività della ricerca, mentre rimodellava il ruolo del docente verso mediatore del [[critical-thinking|ragionamento critico]] nell'insegnamento, con l'adozione che si diffondeva attraverso l'uso degli studenti e le reti tra pari piuttosto che attraverso la politica [[governance|istituzionale]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
 ### La teoria dell'attività e i framework correlati
 
@@ -108,3 +113,7 @@ Per progettisti ed educatori, la teoria dell'attività consiglia di guardare olt
 - [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
+
+- [[llm-family-education-activity-theory-2026]] — Revisione di scoping di 53 studi HCI: gli LLM hanno ridistribuito il lavoro educativo familiare, mentre le regole erano per lo più anticipate anziché attuate
+- [[generative-ai-mediational-agent-sociocultural-2026]] — La GenAI come agente mediatorio: né strumento né collaboratore
+

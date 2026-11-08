@@ -1,13 +1,13 @@
 ---
 title: Tecnologie
 created: "2026-10-14T21:57:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: "concepts/ai-technologies"
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ L'[[ai-education|IA in educazione]] gira su uno stack tecnico specifico, e compr
 
 - **Grandi modelli linguistici (LLM).** La spina dorsale computazionale della maggior parte dell'[[ai-education|AIED]] moderna — gli [[llm|LLM]] generano testo simile a umano per tutoraggio, valutazione e generazione di contenuti, e sono la tecnologia più referenziata nella knowledge base. [[llm-training-and-fine-tuning|Addestramento e fine-tuning]] adatta gli LLM generali all'uso educativo.
 - **IA generativa.** La categoria più ampia di sistemi che producono testo, codice, immagini e altri contenuti — l'[[generative-ai|IA generativa]] (guidata principalmente dagli LLM) è la tecnologia dietro l'attuale ondata di ricerca sull'[[ai-education|AIED]]. Vedi anche i [[multimodal|modelli multimodali]] (testo, immagine, audio) e la [[simulation|simulazione]].
-- **Robot e sistemi incarnati.** I [[educational-robotics|robot in educazione]] aggiungono una presenza incarnata e spesso sociale — kit programmabili per il pensiero computazionale e robot umanoidi/sociali per tutoraggio, narrazione e gioco di ruolo. La robotica è un filone tecnico distinto che si sovrappone all'[[agentic-ai|IA agentica]] e al design [[human-in-the-loop-ai|human-in-the-loop]].
+- **Robot e sistemi [[embodied-learning|incarnati]].** I [[educational-robotics|robot in educazione]] aggiungono una presenza incarnata e spesso [[community-of-inquiry|sociale]] — kit programmabili per il [[computational-thinking|pensiero computazionale]] e robot umanoidi/sociali per tutoraggio, [[storytelling-in-education|narrazione]] e gioco di ruolo. La robotica è un filone tecnico distinto che si sovrappone all'[[agentic-ai|IA agentica]] e al design [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistemi basati sulla conoscenza.** I [[knowledge-graph|grafi di conoscenza]] e l'[[educational-nlp|NLP educativa]] rappresentano ed elaborano la conoscenza di dominio, sempre più combinati con gli LLM per un tutoraggio fondato e spiegabile.
 
 ## Tecniche e metodi
@@ -60,7 +60,9 @@ Il filone tecnico è inseparabile dagli altri temi della knowledge base:
 
 - **Pedagogia:** le scelte tecniche incarnano assunti pedagogici — un tutor [[intelligent-tutoring|tutor]] costruito sul [[socratic-method|prompting socratico]] ragiona con i discenti, mentre un modello che genera risposte può tendere per default alla fornitura diretta (vedi [[pedagogy|pedagogie e strategie di insegnamento]]).
 - **Valutazione e valutazione dell'AIED:** [[ai-ed-evaluation]] e i [[benchmark|benchmark]] determinano se i sistemi di IA funzionano realmente; la [[assessment|valutazione]] e la [[automated-assessment|valutazione automatizzata]] usano lo stack tecnico per valutare e generare.
-- **Uso responsabile:** le tecniche tecniche sono centrali per la [[reducing-ai-misuse|riduzione dell'uso improprio dell'IA]] — il fondamento della [[rag|RAG]], le guardrail, lo [[prompt-engineering]] [[scaffolding]], e la [[human-in-the-loop-ai|supervisione umana]] plasmano se l'IA supporta o mina l'apprendimento ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Uso responsabile:** le tecniche tecniche sono centrali per la [[reducing-ai-misuse|riduzione dell'uso improprio dell'IA]] — il fondamento della [[rag|RAG]], le [[guardrails|guardrail]], lo [[prompt-engineering]] [[scaffolding]], e la [[human-in-the-loop-ai|supervisione umana]] plasmano se l'IA supporta o mina l'apprendimento ([[cognitive-offloading]], [[hallucination-risk]]).
+
+**L'attenzione della ricerca si concentra su una fetta ristretta dell'ecosistema di strumenti.** Mappando 85 strumenti di IA contro la letteratura STEM e ingegneristica, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] hanno rilevato che solo 36 erano visibili nella ricerca e che l'[[conversational-ai|IA conversazionale]]/gli LLM rappresentavano il 73,7% delle 927 connessioni articolo-strumento, con 23 pubblicazioni in un contesto di laboratorio consolidato.
 
 ## Implicazioni per l'IA in educazione
 
@@ -104,6 +106,7 @@ Il filone tecnico è inseparabile dagli altri temi della knowledge base:
 
 ## Articoli collegati
 
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Visibilità nella ricerca di 85 strumenti di IA nell'educazione STEM e ingegneristica (Terkowsky et al. 2026)
 - [[agentic-ai-education-scoping-review]] — Revisione di scoping dell'IA agentica in educazione
 - [[genai-meta-analysis-programming-learning]] — Meta-analisi dell'effetto della GenAI su produttività e apprendimento nella programmazione
 - [[cstutorbench-slm-tutors]] — Benchmark di tutoraggio con modelli linguistici piccoli

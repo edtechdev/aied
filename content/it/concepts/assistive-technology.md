@@ -1,7 +1,7 @@
 ---
 title: Tecnologia assistiva
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-26T07:05:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Tecnologia assistiva** — dispositivi, software e servizi che aiutano le persone con disabilità a percepire, operare, comunicare e partecipare all'apprendimento e alla vita quotidiana. Nell'[[ai-education|IA nell'educazione]], la tecnologia assistiva comprende screen reader, conversione voce-testo e testo-voce, sottotitolazione, output braille e tattile, strumenti per la lingua dei segni e, sempre più spesso, accomodamenti basati sull'IA che adattano contenuti e interazione alle esigenze individuali.
+> **Tecnologia assistiva** — dispositivi, software e servizi che aiutano le persone con disabilità a percepire, operare, comunicare e partecipare all'apprendimento e alla vita quotidiana. Nell'[[ai-education|IA nell'educazione]], la tecnologia assistiva comprende screen reader, conversione voce-testo e [[speech-and-voice-technologies|testo-voce]], sottotitolazione, output braille e tattile, strumenti per la lingua dei segni e, sempre più spesso, accomodamenti basati sull'IA che adattano contenuti e interazione alle esigenze individuali.
 
 ## Domande da considerare
 
@@ -56,7 +56,7 @@ Una revisione di scopo del 2026 sulle [[ai-technologies|tecnologie]] assistive d
 - **Abbinare lo strumento al discente e al compito.** Screen reader, sottotitoli, voce e output tattile affrontano barriere diverse — scegli in base alle esigenze dell'individuo e al formato dei contenuti.
 - **Sfruttare l'IA per abbassare il costo degli adattamenti assistivi.** L'IA può sottotitolare automaticamente, semplificare il testo e generare alternative, ma valuta la qualità dell'output quanto ad accuratezza pedagogica.
 - **Fondare la fornitura sulla policy.** Fai riferimento all'Assistive Technology Act, all'IDEA e alle WCAG quando acquisti o costruisci strumenti di IA.
-- **Dichiara quale funzione il supporto serve — e valuta rispetto a quella funzione.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguono la compensazione (valutata da accesso e partecipazione) dallo scaffolding (decisioni con supporto) dallo sviluppo (uso di strategie dopo la dissolvenza o il trasferimento). Aggiungono una regola mirata alla cautela di questa pagina: il supporto all'accessibilità non è una remediation — che uno strumento sia un accomodamento, un'istruzione strategica o un supporto di pratica temporaneo "dovrebbe essere dichiarato nel piano di apprendimento".
+- **Dichiara quale funzione il supporto serve — e valuta rispetto a quella funzione.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguono la compensazione (valutata da accesso e partecipazione) dallo [[scaffolding|scaffolding]] (decisioni con supporto) dallo sviluppo (uso di strategie dopo la dissolvenza o il trasferimento). Aggiungono una regola mirata alla cautela di questa pagina: il supporto all'accessibilità non è una remediation — che uno strumento sia un accomodamento, un'istruzione strategica o un supporto di pratica temporaneo "dovrebbe essere dichiarato nel piano di apprendimento".
 
 ## Idee sbagliate comuni
 

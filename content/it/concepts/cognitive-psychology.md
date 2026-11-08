@@ -1,13 +1,13 @@
 ---
 title: Psicologia cognitiva
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-07T12:10:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ La psicologia cognitiva è la tradizione teorica dell'apprendimento che tratta l
 - **La metafora dell'elaborazione dell'informazione (computazionale).** La mente è trattata come un sistema di elaborazione dell'informazione dotato di capacità e colli di bottiglia — [[item-response-theory|misurazione]] dell'abilità latente, limiti della memoria di lavoro, codifica e recupero — che è precisamente il modello che ha reso il tutoring basato sull'IA (un programma per computer che modella la cognizione di chi apprende e vi si adatta) una scelta naturale.
 - **Attenzione e memoria sono limitate.** La memoria di lavoro ha capacità limitata; l'apprendimento durevole richiede la codifica nella memoria a lungo termine attraverso ripetizione, elaborazione e [[retrieval-spacing-interleaving|pratica di recupero]]. Questo collega il cognitivismo alla [[research-methods-aied|ricerca]] sul [[cognitive-offloading|cognitive offloading]] (delegare memoria ed elaborazione a strumenti esterni) e al «divario tra performance e apprendimento» quando l'IA scavalca recupero e pratica.
 - **La metacognizione regola la cognizione.** La [[metacognition|metacognizione]] — monitorare e controllare il proprio pensiero — è un costrutto distintivamente cognitivista, e spiega perché la calibrazione da parte di chi apprende del momento in cui affidarsi all'IA sia rilevante per l'apprendimento (si vedano [[cognitive-offloading|cognitive offloading]] e [[self-regulated-learning|apprendimento autoregolato]]).
-- **La conoscenza è decomponibile e tracciabile.** L'AIED cognitivista assume che la conoscenza di chi apprende possa essere rappresentata come componenti e tracciata nel tempo — il fondamento di [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|diagnosi cognitiva]] e [[item-response-theory|teoria della risposta all'item]].
+- **La conoscenza è decomponibile e tracciabile.** L'AIED cognitivista assume che la conoscenza di chi apprende possa essere rappresentata come componenti e tracciata nel tempo — il fondamento di [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|diagnosi cognitiva]] e [[item-response-theory|teoria della risposta all'item]]. La tracciabilità è anche una regola di punteggio. Quattro regole di aggiornamento del [[knowledge-tracing|knowledge tracing]] girano sulle stesse sequenze di eventi ASSISTments: accreditare qualsiasi completamento assistito dichiarava il 93,9% delle coppie studente-abilità padroneggiate, contro il 72,8% quando le righe assistite venivano lette come primi tentativi falliti. Le coppie che la regola indulgente dichiarava presto proseguivano a un'accuratezza non assistita di 0,709, contro 0,857 dove le regole concordavano ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). Il modello traccia solo ciò che la regola di evidenza gli consente di contare.
 
 ## Cognitivismo e IA nell'educazione
 
@@ -71,6 +71,10 @@ La teoria cognitiva dell'apprendimento multimediale di Mayer (CTML) applica gli 
 ### La tensione dell'era dell'IA: il confine del cognitivismo è sotto pressione
 
 La [[generative-ai|IA generativa]] estende e al contempo sfida il cognitivismo. Lo estende rendendo le rappresentazioni della conoscenza più potenti (gli LLM come motori di conoscenza tracciabili tramite [[knowledge-tracing]] e adattabili tramite [[student-modeling]]). Lo sfida complicando il luogo in cui la cognizione «si trova»: quando l'IA svolge ragionamento, memoria e persino funzioni simili alla metacognizione, l'assunto cognitivista che l'apprendimento sia elaborazione interna nella mente individuale è messo in discussione — come argomentano la [[distributed-cognition|cognizione distribuita]], la [[ai-cognitive-partner-co-regulation-learning|co-regolazione]] e le inquadrature post-umane, la cognizione può essere distribuita tra sistemi umani e artificiali. Eppure la domanda cognitivista resta quella centrale del campo: *chi apprende interiorizza la conoscenza, o è lo strumento a trattenerla?* Questa è la domanda sul cognitive offloading e sul divario tra performance e apprendimento nella sua forma più pura.
+
+
+Un esperimento del 2026 dà al lato memoria di quel confine una modalità di fallimento concreta. Solo il 44,8% di 328 adulti che avevano letto un riassunto fuorviante dell'AI identificava poi correttamente un dettaglio del video, contro l'83,6% di chi aveva letto un riassunto coerente. L'etichetta AI o umana non faceva differenza, e nemmeno la fiducia auto-riferita nell'AI ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger e Kohno, 2026]]). Si tratta di memoria della fonte anziché di apprendimento d'aula, ma un riassunto fluente può sovrascrivere il registro della fonte di chi apprende, il che conta per lo studio e la valutazione.
+
 
 ## Implicazioni per la progettazione e la ricerca
 
@@ -110,9 +114,17 @@ La [[generative-ai|IA generativa]] estende e al contempo sfida il cognitivismo. 
 ## Articoli collegati
 
 - [[cognitive-shift-ai-education]] — The cognitive shift in AI education
+
+- [[sim-ai-summary-memory-distortion-2026]] — I riassunti AI fuorvianti hanno cambiato ciò che gli adulti ricordavano, indipendentemente dall'etichetta AI o umana del riassunto
+
+
 - [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organizzazione dello sforzo, non la sua quantità, seguiva il carico e la frustrazione
+
+- [[crediting-assisted-work-inflates-mastery-2026]] — Le affermazioni di padronanza dal knowledge tracing dipendono da come viene accreditato il lavoro assistito (Srivastava 2026)
+
+

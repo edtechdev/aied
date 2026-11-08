@@ -1,7 +1,7 @@
 ---
 title: "Livelli di istruzione"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:33:13-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: "concepts/education-levels"
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -96,7 +96,7 @@ Un pattern regge a ogni livello esaminato: lo strato umano assorbe i casi più d
 
 **"La materia insegnata conta più del livello di istruzione."** Conta di più la rottura tra scuola e università. Ciò che cambia lungo quel confine non è il contenuto ma la capacità di autoregolazione, la natura del contratto di valutazione e chi è responsabile dell'apprendimento — ed è per questo che uno strumento che aiuta un seminario magistrale può danneggiare una lezione di seconda elementare anche su contenuti comparabili.
 
-**"Un tutor adattivo aiuta ogni livello allo stesso modo."** Il confronto che isola la variabile è istruttivo: due versioni dello stesso tutor di matematica per la seconda elementare — contenuti, interfaccia, feedback e suggerimenti vocali identici — che differivano **solo nel fatto che la selezione dei compiti seguisse un modello bayesiano di [[knowledge-tracing]]**. La selezione adattiva dei compiti è un intervento sensibile al livello, e il suo beneficio dipende dal fatto che i discenti di quel livello possano agire sull'adattamento.
+**"Un [[intelligent-tutoring|tutor adattivo]] aiuta ogni livello allo stesso modo."** Il confronto che isola la variabile è istruttivo: due versioni dello stesso tutor di matematica per la seconda elementare — contenuti, interfaccia, feedback e suggerimenti vocali identici — che differivano **solo nel fatto che la selezione dei compiti seguisse un modello bayesiano di [[knowledge-tracing]]**. La selezione adattiva dei compiti è un intervento sensibile al livello, e il suo beneficio dipende dal fatto che i discenti di quel livello possano agire sull'adattamento.
 
 **"Le evidenze concentrate nell'istruzione superiore si generalizzano verso il basso."** Non è così, e la distribuzione della letteratura è un avvertimento anziché una comodità. Dove le evidenze sono dense e dove sono esigue è una proprietà dell'economia della ricerca, non di dove l'IA sia più usata, quindi un'affermazione sulla scuola K-12 ricavata da campioni universitari è un'estrapolazione attraverso il confine che conta di più.
 

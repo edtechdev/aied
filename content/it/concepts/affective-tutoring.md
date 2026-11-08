@@ -1,7 +1,7 @@
 ---
 title: "Tutoraggio affettivo"
 created: "2026-10-14T22:48:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: "concepts/affective-tutoring"
-source_updated: "2026-10-29T06:19:06-04:00"
+source_updated: "2026-11-04T13:20:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -61,13 +61,13 @@ Favero et al. (2025) avvertono che l'[[student-engagement|engagement]] emotivo c
 | Beneficio del tutoraggio affettivo | Rischio corrispondente |
 |---|---|
 | Le risposte emotivamente consapevoli appaiono di supporto | Gli studenti possono sviluppare **dipendenze parasociali** verso il tutor |
-| L'empatia riduce l'ansia | La ridotta ansia può mascherare un **disimpegno metacognitivo** |
+| L'empatia riduce l'[[anxiety-and-stress|ansia]] | La ridotta [[anxiety-and-stress|ansia]] può mascherare un **disimpegno metacognitivo** |
 | La calibrazione affettiva personalizza l'andamento | Una [[personalized-learning|personalizzazione]] profonda può **ridurre il trasferimento** a contesti non adattivi |
 | Il monitoraggio facciale segnala attenzione | L'acquisizione video continua solleva **preoccupazioni di privacy** |
 
 Gli autori sostengono che i rischi emotivi fanno parte di un quadro più ampio di **erosione dell'[[self-efficacy|autoefficacia]], dell'[[agency]] e del [[well-being|benessere]]** quando l'uso dell'IA non è controllato.
 
-**Il rischio ricade anche su chi non apre mai il tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] hanno trovato che la disponibilità a fornire supporto emotivo in prima persona cala quanto più si crede che un sistema possa fornirlo, e nel loro secondo esperimento quella credenza era causale: leggere una normale copertura giornalistica sull'IA empatica bastava ad alzare l'offloading, interamente attraverso la capacità percepita. Il loro quarto studio aggiunge un costo sociale che l'inquadratura a livello individuale manca. Detto che uno studente si era rivolto a un chatbot per supporto, i partecipanti dicevano che avrebbero fatto offloading meno che se lo studente si fosse rivolto a un amico. Poi scrivevano meno parole di empatia e più parole di indifferenza su quello studente, e lo valutavano come più estraneo e più disperato. La provvista [[social-emotional-learning|socio-emotiva]] può quindi assottigliarsi attorno al tutor anche quando nessuno che lo usa riporta un cambiamento.
+**Il rischio ricade anche su chi non apre mai il tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] hanno trovato che la disponibilità a fornire supporto emotivo in prima persona cala quanto più si crede che un sistema possa fornirlo, e nel loro secondo esperimento quella credenza era causale: leggere una normale copertura giornalistica sull'IA empatica bastava ad alzare l'offloading, interamente attraverso la capacità percepita. Il loro quarto studio aggiunge un costo sociale che l'inquadratura a livello individuale manca. Detto che uno studente si era rivolto a un [[conversational-ai|chatbot]] per supporto, i partecipanti dicevano che avrebbero fatto offloading meno che se lo studente si fosse rivolto a un amico. Poi scrivevano meno parole di empatia e più parole di indifferenza su quello studente, e lo valutavano come più estraneo e più disperato. La provvista [[social-emotional-learning|socio-emotiva]] può quindi assottigliarsi attorno al tutor anche quando nessuno che lo usa riporta un cambiamento.
 
 ## Principi di progettazione
 

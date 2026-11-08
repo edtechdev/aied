@@ -1,7 +1,7 @@
 ---
 title: Integrità accademica
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T06:34:27-05:00"
+updated: "2026-11-08T11:15:12-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -183,6 +183,8 @@ Il primo studio sulla Teoria del Comportamento Pianificato dell'intenzione di sc
 
 L'OCSE (2023) registra che all'inizio del 2024 nessuno dei diciotto paesi indagati aveva una regolamentazione specifica dell'IA generativa per l'educazione e nove avevano delegato la governance al livello scolastico. Letto attraverso la non-performatività di Ahmed, il vocabolario esprime reattività etica senza alcun meccanismo per attuarla, quindi la responsabilità è invocata da ogni attore contemporaneamente e collocata in nessuno. Hashem chiama il risultato un **cheating habitus** mutevole: disposizioni verso la partecipazione legittima ricalibrate sotto indeterminazione cronica, stratificate dal capitale accademico che gli studenti portano con sé, con l'imbroglio e l'essere imbrogliati trattati come condizioni concorrenti anziché alternative. Tutto questo è proposto a partire dal testo delle politiche, non osservato negli studenti.
 
+Su 546 studenti universitari, l'integrità si è classificata prima tra cinque dimensioni percettive (3,79 su 5) e non differiva per programma di laurea, collocando la variazione disciplinare nell'uso dell'IA e nella domanda di competenze piuttosto che in quanto l'integrità conti ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Fraintendimenti comuni
 
 - **"Gli strumenti di rilevamento identificano la scrittura dell'IA."** Il testo generato dall'IA è **passato come scritto da un umano in fino all'80% dei casi**, mentre l'evidenza sul rilevamento colloca il **rilevamento automatico a circa l'80% contro il 78,4% dei valutatori umani**. Il giudizio umano e quello automatico sono quasi ugualmente (in)affidabili, quindi un verdetto di rilevamento non è prova di paternità.
@@ -260,3 +262,6 @@ L'OCSE (2023) registra che all'inizio del 2024 nessuno dei diciotto paesi indaga
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — teamwork assessment with per-member verification as an authentication design (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem
+
+- [[crisol-moya-integrity-assessment-2026]] — 546 studenti: l'integrità è prima e piatta tra i programmi di laurea (Crisol Moya et al. 2026)
+

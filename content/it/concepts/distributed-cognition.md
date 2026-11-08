@@ -1,13 +1,13 @@
 ---
 title: Cognizione distribuita
 created: "2026-10-14T22:02:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:33:13-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,13 +42,18 @@ Questo è un concetto di teoria dell'apprendimento all'interno del filone [[lear
 I sistemi di IA generativa e interattiva ridistribuiscono il lavoro cognitivo in modi in cui strumenti precedenti non lo facevano. La base di conoscenza documenta diverse dimensioni di questo spostamento:
 
 - **L'IA come partner cognitivo e co-regolatore.** L'IA può agire come [[scaffolding|impalcatura]], supporto metacognitivo, sistema di memoria esterna e partner nelle decisioni nella co-[[regulation]] del pensiero e dell'apprendimento.([[ai-cognitive-partner-co-regulation-learning]]) Questo posiziona la cognizione come co-regolata tra discente e sistema anziché gestita individualmente.
-- **Il volume dell'uso dell'IA non rivela quale forma di lavoro distribuito stia avvenendo:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] hanno trovato che i profili basati sul volume di 97 discenti differivano per conoscenza pregressa e paternità ma non per prompting con ruolo attivo o a livello di comprensione, quindi attività condivisa e divisione del lavoro possono accompagnare la stessa quantità di uso.
+- **Il volume dell'uso dell'IA non rivela quale forma di lavoro distribuito stia avvenendo:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] hanno trovato che i profili basati sul volume di 97 discenti differivano per [[prior-knowledge|conoscenza pregressa]] e paternità ma non per [[prompt-engineering|prompting]] con ruolo attivo o a livello di comprensione, quindi attività condivisa e divisione del lavoro possono accompagnare la stessa quantità di uso.
 - **Ridistribuzione di agenzia e responsabilità.** Framework come la **cognizione d'insieme** riconcettualizzano il pensiero come emergente dalla dinamica interazione umano–[[student-ai-interaction|IA]], distinguendo l'*agenzia funzionale* dell'IA (la sua capacità di influenzare gli esiti senza coscienza) dalla *responsabilità morale* (che resta umana).([[ensemble-cognition-philosophy-ai-education]]) La cognizione distribuita riformula così chi è responsabile dell'apprendimento.
 - **La tensione efficienza–regolazione.** Il lavoro empirico mostra un trade-off: i sistemi umano–IA che distribuiscono il ragionamento nel modo più efficiente (per esempio tramite ragionamento delegato) raggiungono una performance di compito più alta ma possono ridurre il [[student-engagement|coinvolgimento]] auto-regolato dei discenti.([[hao-human-ai-collaborative-problem-solving-cognition]]) Questo è il volto empirico dei rischi di [[cognitive-offloading]] e di [[cognitive-offloading|sovraffidamento]] che la base di conoscenza documenta.
 - **La mediazione nella collaborazione.** L'IA può agire come *[[pedagogy|mediatore]] pedagogico* che orchestra l'interazione, la costruzione di senso epistemico e i processi regolatori nell'[[collaborative-learning|apprendimento collaborativo]], ridistribuendo agenzia, autorità e responsabilità tra attori umani e non umani.([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **La configurazione dell'accesso distribuisce la cognizione dentro il gruppo.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] mostrano che *come* un team condivide la GenAI determina la distribuzione della cognizione: il lavoro sincrono su un'unica interfaccia condivisa sostiene un modello cognitivo comune (prompt collettivi, memoria esterna condivisa), mentre l'uso privato asincrono lo frammenta, con gli output ri-etichettati selettivamente prima della condivisione. La GenAI funziona così sia come partecipante cognitivo distribuito sia come spazio collaborativo interattivo la cui permeabilità deve essere progettata (il contesto condiviso entra, le intuizioni private non rifluiscono automaticamente).
-- **Anche gli insegnanti sperimentano una distribuzione dominata dall'IA versus complementare.** La stessa logica efficienza–regolazione si applica al lato insegnante della progettazione della lezione: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] hanno trovato che gli insegnanti novizi delegano una grande quota del carico cognitivo della progettazione didattica al sistema di IA (una distribuzione dominata dall'IA, che accetta largamente le risposte), mentre gli insegnanti esperti e competenti nell'IA raggiungono una distribuzione complementare in cui l'esperienza pedagogica e il supporto computazionale dell'IA si rafforzano reciprocamente — e poiché la [[generative-ai|GenAI]] genera e co-costruisce anziché meramente immagazzinare informazioni, essi inquadrano questo come *cognizione condivisa partecipativa*, non mero uso di strumenti.
-- **I tipi di interazione, non gli esiti, come unità.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane e Arikan (2026)]] hanno costruito il **Cognitive Distribution Framework** a partire da 53 log di uso auto-diretto di ChatGPT: cinque tipi di interazione (estensione, outsourcing, allineamento, trasformazione, disaccoppiamento) e quattro ruoli utente, così che lo stesso studente può fare offloading in uno scambio e co-pensare nel successivo.
+- **Anche gli insegnanti sperimentano una distribuzione dominata dall'IA versus complementare.** La stessa logica efficienza–regolazione si applica al lato [[teacher-role|insegnante]] della progettazione della lezione: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] hanno trovato che gli insegnanti novizi delegano una grande quota del carico cognitivo della progettazione didattica al sistema di IA (una distribuzione dominata dall'IA, che accetta largamente le risposte), mentre gli insegnanti esperti e competenti nell'IA raggiungono una distribuzione complementare in cui l'esperienza pedagogica e il supporto computazionale dell'IA si rafforzano reciprocamente. Poiché la [[generative-ai|GenAI]] genera e co-costruisce anziché meramente immagazzinare informazioni, essi inquadrano questo come *cognizione condivisa partecipativa*, non mero uso di strumenti.
+- **I tipi di interazione, non gli esiti, come unità.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane e Arikan (2026)]] hanno costruito il **Cognitive Distribution Framework** a partire da 53 log di [[self-directed-learning|uso auto-diretto]] di ChatGPT: cinque tipi di interazione (estensione, outsourcing, allineamento, trasformazione, disaccoppiamento) e quattro ruoli utente, così che lo stesso studente può fare offloading in uno scambio e co-pensare nel successivo.
+
+- **La memoria transattiva dà alla distribuzione un meccanismo misurato.** Tra 891 studenti universitari negli Stati Uniti e in Turchia, né l'abilità di pensiero autovalutata né la fiducia nella partnership con l'IA predicevano direttamente il [[critical-thinking|pensiero critico]]. Entrambe operavano attraverso l'esperienza accumulata con la GenAI, che contava solo tramite la specializzazione e il coordinamento del lavoro (b = 0,636) e la trasformazione riflessiva dell'output (b = 0,367) ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun e Toker, 2026]]). Quei due mediatori predicevano poi il pensiero critico (b = 0,230 e 0,175) senza alcun percorso diretto residuo, quindi ciò con cui pensa un sistema umano–IA è l'organizzazione del lavoro, non la quantità d'uso.
+
+- **La cognizione estesa come scelta di design, non come proprietà dello strumento.** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa e Duarte Arias (2026)]] sostengono che l'IA generativa sia sostitutiva per impostazione predefinita perché svolge il compito cognitivo, ma lo stesso sistema diventa complementare quando critica una bozza o fornisce un feedback che il discente deve valutare. Il loro quadro della mente estesa rende unità di analisi l'artefatto più il suo uso, che è la versione normativa della domanda di distribuzione di questa pagina.
+
 
 ### Cognizione distribuita e prospettive correlate
 
@@ -58,6 +63,12 @@ La base di conoscenza tratta la cognizione distribuita insieme alle tradizioni t
 - **[[embodied-learning|Cognizione incarnata]]** sottolinea il ruolo del corpo e dell'interazione sensomotoria, sostenendo che il pensiero è radicato nell'impegno corporeo anziché nella manipolazione astratta di simboli.
 - **[[cognitive-offloading]]** è il meccanismo pratico con cui il lavoro cognitivo viene trasferito a sistemi esterni (inclusa l'IA), ed è la controparte carica di rischi rispetto al resoconto descrittivo della DCog.
 - **Cognizione estesa / tesi della mente estesa** (usata nel lavoro postumanista) sostiene che gli artefatti esterni possono essere parti *costitutive* di un sistema cognitivo, non meri strumenti — un'affermazione più forte, che l'IA è parte della mente stessa del discente.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+
+
+### Di chi è la cognizione? Il problema dell'unità di analisi
+
+[[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] spinge quella domanda sull'unità di analisi più a fondo della maggior parte del lavoro in questa tradizione. La sua tesi è che l'alfabetizzazione non sia un possesso individuale ma qualcosa che si attua con materiali e macchine, il che rende il singolo discente l'unità di analisi sbagliata. Un quadro di competenze centrato sulla persona non può quindi registrare i contributi infrastrutturali o non umani, così il campo continua a nominare la distribuzione e poi a risolverla di nuovo sul discente. Il margine di equità è il suo argomento sulla difficoltà: la riflessività dipende dall'esperienza vissuta e dalle relazioni di potere, quindi gli studenti le cui pratiche linguistiche o di scrittura stanno più lontane dalla norma codificata portano il costo maggiore. L'argomento è teorico e non riporta alcun dataset, e i suoi orientamenti di design restano proposte non testate.
+
 
 ### Perché conta per il design e la valutazione dell'IA
 
@@ -69,7 +80,7 @@ Fowlin et al. (2026) operazionalizzano quella ripartizione come una sequenza a d
 
 ## Idee sbagliate comuni
 
-- **"Un documento condiviso significa cognizione condivisa."** I profili basati sul volume di **97 discenti** differivano per **conoscenza pregressa e paternità** ma **non per prompting con ruolo attivo o a livello di comprensione**. Il volume della partecipazione misurava l'esposizione, non la distribuzione del lavoro cognitivo — quindi le analitiche d'uso di uno strumento collaborativo dicono poco su chi stesse pensando.
+- **"Un documento condiviso significa cognizione condivisa."** I profili basati sul volume di **97 discenti** differivano per **conoscenza pregressa e paternità** ma **non per prompting con ruolo attivo o a livello di comprensione**. Il volume della partecipazione misurava l'esposizione, non la distribuzione del lavoro cognitivo — quindi le [[learning-analytics|analitiche]] d'uso di uno strumento collaborativo dicono poco su chi stesse pensando.
 - **"Tutti fanno offloading verso l'IA allo stesso modo."** Gli insegnanti novizi **delegano una grande quota del carico cognitivo della progettazione didattica al sistema di IA**, arrivando a una **distribuzione dominata dall'IA** in cui accettano largamente le risposte, mentre gli insegnanti esperti e competenti nell'IA distribuiscono diversamente. L'esperienza si vede in dove viene collocato il carico, non solo in quanta IA si usa.
 - **"Più coinvolgimento dell'IA significa più supporto."** Una distribuzione dominata dall'IA è il pattern da tenere d'occhio, perché la quota umana del lavoro cognitivo si restringe mentre il volume di output cresce. Il sistema può sembrare più capace proprio mentre l'utente fa di meno.
 
@@ -97,5 +108,10 @@ Fowlin et al. (2026) operazionalizzano quella ripartizione come una sequenza a d
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
+
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La memoria transattiva con la GenAI: divisione del lavoro e trasformazione riflessiva mediano il pensiero critico (Akgun e Toker 2026)
+- [[schlauch-sociomaterial-literacy-postdigital-design-2026]] — Perché il singolo discente è l'unità di analisi sbagliata
+- [[rivera-novoa-genai-extended-cognition-2026]] — La cognizione estesa nell'apprendimento delle scienze: la GenAI è sostitutiva per impostazione predefinita, complementare per design (Rivera-Novoa e Duarte Arias 2026)
+
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
 - [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use

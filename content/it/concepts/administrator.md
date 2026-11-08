@@ -1,7 +1,7 @@
 ---
 title: Amministratori
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-31T06:30:00-04:00"
+updated: "2026-11-08T11:15:12-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -35,10 +35,10 @@ ai_assist:
 
 - L'adozione dell'IA è spesso inquadrata come una decisione di classe, ma sono gli amministratori a definirne le condizioni — politiche, finanziamenti, infrastrutture. Nella tua istituzione, chi decide effettivamente se e come l'IA viene usata, e chi è escluso da quella decisione?
 - La ricerca rileva un divario ricorrente tra l'ambizione delle politiche di alto livello e l'implementazione quotidiana. Dove hai visto una politica sull'IA ben intenzionata non arrivare in classe, e perché pensi che sia stata insufficiente?
-- Gli amministratori devono bilanciare l'opportunità pedagogica con il rischio, l'equità e le risorse. Se dovessi scegliere tra finanziare una nuova iniziativa sull'IA e rafforzare la governance dei dati e la formazione del corpo docente, quale sceglieresti e perché?
+- Gli amministratori devono bilanciare l'opportunità [[pedagogy|pedagogica]] con il rischio, l'equità e le risorse. Se dovessi scegliere tra finanziare una nuova iniziativa sull'IA e rafforzare la governance dei dati e la formazione del corpo docente, quale sceglieresti e perché?
 - Le decisioni di approvvigionamento prese a livello istituzionale possono abilitare o limitare ciò che insegnanti e studenti possono effettivamente fare. Quali domande vorresti vedere affrontate prima che la tua istituzione firmi un contratto per una piattaforma edtech basata sull'IA?
 - Le istituzioni traducono la capacità dell'IA in framework di uso accettabile e standard per i dati. Come soppesi la promessa dell'innovazione rispetto alle implicazioni di privacy ed equità dei dati raccolti da questi strumenti?
-- Le scelte degli amministratori sugli strumenti di benessere basati sull'IA plasmano direttamente l'esperienza degli studenti. Quali evidenze vorresti vedere prima di distribuire uno strumento di IA pensato per supportare — anziché monitorare — gli studenti?
+- Le scelte degli amministratori sugli strumenti di [[well-being|benessere]] basati sull'IA plasmano direttamente l'esperienza degli studenti. Quali evidenze vorresti vedere prima di distribuire uno strumento di IA pensato per supportare — anziché monitorare — gli studenti?
 
 ## Introduzione
 
@@ -53,7 +53,7 @@ L'adozione dell'IA in educazione non è una decisione puramente di classe; è an
 - **Una tassonomia di dieci domini per organizzare lo stack.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] ha sintetizzato 314 pubblicazioni in dieci domini — dall'efficienza amministrativa alla governance e alla DEI — offrendo ai leader un vocabolario condiviso per collegare un problema istituzionale dichiarato ai domini che lo affrontano.
 
 - **Le strutture di leadership restano indietro rispetto all'intento strategico.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] ha rilevato che solo il 7% delle istituzioni aveva creato ruoli dirigenziali senior per l'IA, anche se il 49% trattava l'IA come una priorità strategica, con stili di leadership empowerment e distributiva associati a un maggiore engagement del corpo docente e con il divario teoria-implementazione più ampio laddove politiche e infrastrutture sono deboli.
-- **Benessere ed esperienza degli studenti:** gli [[ai-campus-wellbeing-tools|strumenti di benessere sul campus basati sull'IA]] esaminano come le istituzioni distribuiscono l'IA per il supporto agli studenti, collegando le scelte degli amministratori ai risultati di [[student-experience|esperienza studentesca]].
+- **Benessere ed esperienza degli studenti:** gli [[ai-campus-wellbeing-tools|strumenti di benessere sul campus basati sull'IA]] esaminano come le istituzioni distribuiscono l'IA per il [[student-support-and-success|supporto agli studenti]], collegando le scelte degli amministratori ai risultati di [[student-experience|esperienza studentesca]].
 - **Governance e regolamentazione:** Le decisioni degli amministratori interagiscono con [[educational-policy-ai|le politiche educative sull'IA]], la [[governance|governance]] e la [[regulation|regolamentazione]] — le istituzioni traducono la capacità dell'IA in framework di uso accettabile, regole di valutazione e standard di governance dei dati (vedi l'[[genai-policies-higher-ed-computing|analisi delle politiche istituzionali sulla GenAI]]).
 
 ### Collegamenti
