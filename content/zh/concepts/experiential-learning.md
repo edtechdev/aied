@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **当器材不是重点时，虚拟实验室可以胜过实体实验室。** 九年级学生在欧姆定律上，在 AI 支持的虚拟实验室、同一实验室但不含 AI、以及实体实验室三种条件下分别得 23.45、20.51 与 16.57 分（满分 30），每两两之间都显著（[[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li 与 Ahmad（2026）]]）；作者承认，在操作器材本身就是目标之处，实体实验室的劣势可能缩小。
 - **AI 作为应对不确定性的基础设施，而非效率。** [[shi-genai-experiential-learning-management-education-2026|Shi、Dai 与 Zhang（2026）]]给生成式 AI 一个角色，让它在商业模拟中生成颠覆性事件与连锁后果，于是团队在信息不完整下修订计划，并警告受保护的模拟可能留下到课堂之外变成负担的决策习惯。
 
-- **做与被告诉，在五周内测量。** 在一项有 126 名一年级工程专业学生的准实验中，一场两小时的生成式 AI 学习体验课产生了 +0.25 的[[metacognition|元认知]]知识增益，而讲座约为零。这是一个中等效应（d = -0.37），在多重比较校正后未达到显著（p = .055），而两组的[[self-report-measures|自报]] AI 投入在五周时相当（3.99 与 3.93）（[[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio 等，2026]]）。这段证据给本页理由划出的边界值得直说：一次动手课把元认知知识推向正确方向，却没有解决比较问题，因此做的优势必须由反复循环建立，而不能从一次实验假定。
+- **做与被告诉，在五周内测量。** 在一项有 126 名一年级工程专业学生的准实验中，一场两小时的生成式 AI 学习体验课产生了 +0.25 的[[metacognition|元认知]]知识增益，而讲座约为零。这是一个中等效应（d = -0.37），在多重比较校正后未达到显著（p = .055），而两组的[[self-report-measures|自报]] AI 投入在五周时相当（3.99 与 3.93）（[[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio 等，2026]]）。这段证据给本页理由划出的边界值得直说：一次动手课把元认知知识推向正确方向，却没有解决比较问题，因此做的优势必须由反复循环建立，而不能从一次实验假定。
 
 ### AI 支持的课程中两种形式的动手学习
 
@@ -113,6 +113,6 @@ ai_assist:
 - [[gelli-experiential-language-learning-2026]] — GELLI：一个面向体验式语言学习交互的生成器（Symonette 等人 2026）
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的虚拟实验室用于翻转物理学习：对初中生成绩、动机与认知负荷的影响
 
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
+- [[metacognitive-awareness-experiential-vs-instructional]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
 - [[yusuf-service-learning-mapping-2026]] — 26 项研究映射到服务学习循环：AI 在评价与反思处变薄（Yusuf 等 2026）
 

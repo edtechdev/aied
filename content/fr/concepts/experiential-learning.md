@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ L'apprentissage expérientiel est étroitement lié à l'[[active-learning|appre
 
 - **L'IA comme infrastructure de l'incertitude, non de l'efficacité.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai et Zhang (2026)]] confient à un rôle d'IA générative la tâche de produire des événements perturbateurs et leurs conséquences en cascade dans une simulation de gestion, afin que les équipes révisent leurs plans en information incomplète, et avertissent que des simulations protégées peuvent laisser des habitudes de décision qui deviennent un handicap hors de la classe.
 
-- **Faire versus se le voir dire, mesuré sur cinq semaines.** Dans une quasi-expérimentation avec 126 étudiants de première année en ingénierie, une séance expérientielle de deux heures sur l'apprentissage avec l'IA générative a produit un gain de [[metacognition|connaissances métacognitives]] de +0.25, contre environ zéro pour un cours magistral. C'est un effet moyen (d = -0.37) qui n'a pas atteint la significativité à p = .055 après correction pour comparaisons multiples, et l'engagement [[self-report-measures|déclaré]] envers l'IA était comparable dans les deux groupes à cinq semaines (3.99 et 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et coll., 2026]]). La borne que cela pose à la justification de cette page mérite d'être dite clairement : une séance pratique déplace les connaissances métacognitives dans la bonne direction sans trancher la comparaison, si bien que l'avantage du faire doit se construire par des cycles répétés plutôt que se présumer d'un seul atelier.
+- **Faire versus se le voir dire, mesuré sur cinq semaines.** Dans une quasi-expérimentation avec 126 étudiants de première année en ingénierie, une séance expérientielle de deux heures sur l'apprentissage avec l'IA générative a produit un gain de [[metacognition|connaissances métacognitives]] de +0.25, contre environ zéro pour un cours magistral. C'est un effet moyen (d = -0.37) qui n'a pas atteint la significativité à p = .055 après correction pour comparaisons multiples, et l'engagement [[self-report-measures|déclaré]] envers l'IA était comparable dans les deux groupes à cinq semaines (3.99 et 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et coll., 2026]]). La borne que cela pose à la justification de cette page mérite d'être dite clairement : une séance pratique déplace les connaissances métacognitives dans la bonne direction sans trancher la comparaison, si bien que l'avantage du faire doit se construire par des cycles répétés plutôt que se présumer d'un seul atelier.
 
 ### Deux formes d'apprentissage concret dans un curriculum soutenu par l'IA
 
@@ -115,7 +115,7 @@ Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparat
 - [[gelli-experiential-language-learning-2026]] — GELLI : un générateur d'interactions pour l'apprentissage expérientiel des langues (Symonette et coll. 2026)
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratoire virtuel assisté par IA pour l'apprentissage inversé de la physique : effets sur la réussite, la motivation et la charge cognitive au collège
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Séances expérientielles contre magistrales pour la conscience métacognitive dans l'apprentissage assisté par IA (Benazet i Montobbio et coll. 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — Séances expérientielles contre magistrales pour la conscience métacognitive dans l'apprentissage assisté par IA (Benazet i Montobbio et coll. 2026)
 
 - [[yusuf-service-learning-mapping-2026]] — 26 études rapportées au cycle de l'apprentissage par le service communautaire : l'IA s'amenuise à l'évaluation et à la réflexion (Yusuf et al. 2026)
 

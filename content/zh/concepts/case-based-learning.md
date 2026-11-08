@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-07T17:28:19-05:00"
 translation_of: "concepts/case-based-learning"
-source_updated: "2026-11-07T13:25:00-05:00"
+source_updated: "2026-11-08T12:23:59-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

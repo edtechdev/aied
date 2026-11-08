@@ -10,7 +10,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/case-based-learning
-source_updated: "2026-11-07T13:25:00-05:00"
+source_updated: "2026-11-08T12:23:59-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

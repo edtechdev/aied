@@ -7,7 +7,7 @@ level: [higher ed]
 confidence: high
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/experiential-learning"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Pembelajaran eksperiensial berhubungan erat dengan [[active-learning]], [[projec
 
 - **AI sebagai infrastruktur untuk ketidakpastian, bukan efisiensi.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] memberi peran AI generatif tugas menghasilkan peristiwa disruptif dan konsekuensi berantai dalam simulasi bisnis, sehingga tim merevisi rencana di bawah informasi yang tidak lengkap, dan memperingatkan bahwa simulasi yang terlindungi dapat meninggalkan kebiasaan pengambilan keputusan yang menjadi liabilitas di luar kelas.
 
-- **Melakukan versus diberi tahu, diukur selama lima minggu.** Dalam kuasi-eksperimen dengan 126 mahasiswa teknik tahun pertama, sesi eksperiensial dua jam tentang belajar dengan AI generatif menghasilkan kenaikan pengetahuan [[metacognition|metakognitif]] sebesar +0.25, dibandingkan dengan sekitar nol untuk ceramah. Itu adalah efek sedang (d = -0.37) yang tidak mencapai signifikansi pada p = .055 setelah koreksi perbandingan berganda, dan keterlibatan AI yang [[self-report-measures|dilaporkan sendiri]] sebanding pada kedua kelompok di minggu kelima (3.99 dan 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio dkk., 2026]]). Batas yang diletakkan ini pada rasional halaman ini layak dinyatakan terus terang: satu sesi hands-on menggerakkan pengetahuan metakognitif ke arah yang benar tanpa menuntaskan perbandingannya, sehingga keunggulan melakukan harus dibangun dari siklus berulang alih-alih diasumsikan dari satu laboratorium.
+- **Melakukan versus diberi tahu, diukur selama lima minggu.** Dalam kuasi-eksperimen dengan 126 mahasiswa teknik tahun pertama, sesi eksperiensial dua jam tentang belajar dengan AI generatif menghasilkan kenaikan pengetahuan [[metacognition|metakognitif]] sebesar +0.25, dibandingkan dengan sekitar nol untuk ceramah. Itu adalah efek sedang (d = -0.37) yang tidak mencapai signifikansi pada p = .055 setelah koreksi perbandingan berganda, dan keterlibatan AI yang [[self-report-measures|dilaporkan sendiri]] sebanding pada kedua kelompok di minggu kelima (3.99 dan 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio dkk., 2026]]). Batas yang diletakkan ini pada rasional halaman ini layak dinyatakan terus terang: satu sesi hands-on menggerakkan pengetahuan metakognitif ke arah yang benar tanpa menuntaskan perbandingannya, sehingga keunggulan melakukan harus dibangun dari siklus berulang alih-alih diasumsikan dari satu laboratorium.
 
 ### Dua bentuk pembelajaran hands-on dalam kurikulum berbantuan AI
 
@@ -110,5 +110,5 @@ Di antara 26 studi yang melibatkan komunitas, AI terkonsentrasi pada persiapan (
 - [[gelli-experiential-language-learning-2026]] — GELLI: Generator untuk Interaksi Pembelajaran Bahasa Eksperiensial (Symonette dkk. 2026)
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorium virtual berbantuan AI untuk pembelajaran fisika terbalik: efek pada prestasi, motivasi, dan beban kognitif siswa sekolah menengah
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Sesi eksperiensial versus instruksional untuk kesadaran metakognitif dalam pembelajaran berbantuan AI (Benazet i Montobbio dkk. 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — Sesi eksperiensial versus instruksional untuk kesadaran metakognitif dalam pembelajaran berbantuan AI (Benazet i Montobbio dkk. 2026)
 - [[yusuf-service-learning-mapping-2026]] — 26 studi dipetakan ke siklus pembelajaran berbasis layanan: AI menipis pada evaluasi dan refleksi (Yusuf dkk. 2026)

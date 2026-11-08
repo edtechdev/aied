@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Erfahrensorientiertes Lernen ist eng verwandt mit [[active-learning]], [[project
 
 - **KI als Infrastruktur für Unsicherheit, nicht für Effizienz.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] geben einer generativen KI-Rolle die Aufgabe, disruptive Ereignisse und kaskadierende Konsequenzen in einer Unternehmenssimulation zu erzeugen, damit Teams Pläne unter unvollständiger Information überarbeiten, und warnen, dass geschützte Simulationen Entscheidungsgewohnheiten hinterlassen können, die außerhalb des Klassenzimmers zur Verbindlichkeit werden.
 
-- **Tun gegenüber belehrt werden, über fünf Wochen gemessen.** In einem Quasi-Experiment mit 126 Erstsemesterstudierenden der Ingenieurwissenschaften erzeugte eine zweistündige erfahrungsorientierte Sitzung zum Lernen mit generativer KI einen Zuwachs an [[metacognition|metakognitivem]] Wissen von +0,25 gegenüber etwa null bei einer Vorlesung. Das ist ein mittlerer Effekt (d = −0,37), der nach Mehrfachvergleichskorrektur mit p = .055 die Signifikanz verfehlte, und das [[self-report-measures|selbstberichtete]] KI-Engagement war in beiden Gruppen nach fünf Wochen vergleichbar (3,99 und 3,93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). Die Grenze, die das der Begründung dieser Seite setzt, ist es wert, klar benannt zu werden: Eine praktische Sitzung bewegt metakognitives Wissen in die richtige Richtung, ohne den Vergleich zu entscheiden, sodass der Vorteil des Tuns aus wiederholten Zyklen aufgebaut werden muss statt aus einem einzelnen Labor angenommen zu werden.
+- **Tun gegenüber belehrt werden, über fünf Wochen gemessen.** In einem Quasi-Experiment mit 126 Erstsemesterstudierenden der Ingenieurwissenschaften erzeugte eine zweistündige erfahrungsorientierte Sitzung zum Lernen mit generativer KI einen Zuwachs an [[metacognition|metakognitivem]] Wissen von +0,25 gegenüber etwa null bei einer Vorlesung. Das ist ein mittlerer Effekt (d = −0,37), der nach Mehrfachvergleichskorrektur mit p = .055 die Signifikanz verfehlte, und das [[self-report-measures|selbstberichtete]] KI-Engagement war in beiden Gruppen nach fünf Wochen vergleichbar (3,99 und 3,93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). Die Grenze, die das der Begründung dieser Seite setzt, ist es wert, klar benannt zu werden: Eine praktische Sitzung bewegt metakognitives Wissen in die richtige Richtung, ohne den Vergleich zu entscheiden, sodass der Vorteil des Tuns aus wiederholten Zyklen aufgebaut werden muss statt aus einem einzelnen Labor angenommen zu werden.
 
 ### Zwei Formen handlungsnahen Lernens in einem KI-unterstützten Curriculum
 
@@ -115,6 +115,6 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — KI-unterstütztes virtuelles Labor für flipped Physiklernen: Wirkung auf Leistung, Motivation und kognitive Belastung von Mittelstufenschülerinnen und -schülern
 
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Erfahrungsorientierte gegenüber instruktionalen Sitzungen für metakognitives Bewusstsein beim KI-gestützten Lernen (Benazet i Montobbio et al. 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — Erfahrungsorientierte gegenüber instruktionalen Sitzungen für metakognitives Bewusstsein beim KI-gestützten Lernen (Benazet i Montobbio et al. 2026)
 - [[yusuf-service-learning-mapping-2026]] — 26 Studien auf den Service-Learning-Zyklus abgebildet: KI dünnt bei Evaluation und Reflexion aus (Yusuf et al. 2026)
 

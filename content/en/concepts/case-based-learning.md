@@ -1,7 +1,7 @@
 ---
 title: Case-Based Learning
 created: "2026-11-07T13:10:00-05:00"
-updated: "2026-11-07T13:25:00-05:00"
+updated: "2026-11-08T12:23:59-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [problem-based-learning, productive-failure]
@@ -106,6 +106,7 @@ There is also a conceptual risk. A case can be memorable because it is vivid, no
 - [[human-in-the-loop-ai]]
 - [[assessment]]
 - [[higher-ed]]
+
 ## Connected Articles
 
 - [[trewren-ai-perioperative-case-based-learning-2026]] — A grounded LLM held five perioperative cases without fabricating content

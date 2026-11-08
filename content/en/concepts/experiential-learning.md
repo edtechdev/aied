@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T13:00:48-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -33,7 +33,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 
 - **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
 
-- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
+- **Doing versus being told, measured across five weeks.** In a quasi-experiment with 126 first-year engineering students, a two-hour experiential session on learning with generative AI produced a [[metacognition|metacognitive]] knowledge gain of +0.25, against roughly zero for a lecture. That is a medium effect (d = -0.37) which fell short of significance at p = .055 after multiple-comparison correction, and [[self-report-measures|self-reported]] AI engagement was comparable in both groups at five weeks (3.99 and 3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). The bound this places on the page's rationale is worth stating plainly: one hands-on session moves metacognitive knowledge in the right direction without settling the comparison, so the advantage of doing has to be built from repeated cycles rather than assumed from a single lab.
 
 ### Two forms of hands-on learning in an AI-supported curriculum
 
@@ -110,5 +110,5 @@ Across 26 community-engaged studies, AI concentrated in preparation (18) and act
 - [[gelli-experiential-language-learning-2026]] — GELLI: A Generator for Experiential Language Learning Interactions (Symonette et al. 2026)
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — Experiential versus instructional sessions for metacognitive awareness in AI-assisted learning (Benazet i Montobbio et al. 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential versus instructional sessions for metacognitive awareness in AI-assisted learning (Benazet i Montobbio et al. 2026)
 - [[yusuf-service-learning-mapping-2026]] — 26 studies mapped onto the service-learning cycle: AI thins out at evaluation and reflection (Yusuf et al. 2026)

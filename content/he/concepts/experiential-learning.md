@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 
 - **בינה מלאכותית כתשתית לאי-ודאות, לא ליעילות.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] מעניקים לתפקיד בינה מלאכותית יוצרת את העבודה של יצירת אירועים מפריעים ותוצאות מדורגות בסימולציית עסקים, כדי שצוותים יערכו תוכניות תחת מידע חלקי, ומזהירים שסימולציות מוגנות יכולות להשאיר הרגלי קבלת החלטות שהופכים לחוב מחוץ לכיתה.
 
-- **עשייה לעומת סיפור, נמדדות על פני חמישה שבועות.** בניסוי-כמעט עם 126 סטודנטים לשנה א' בהנדסה, מפגש חווייתי בן שעתיים על למידה עם בינה מלאכותית יוצרת הניב רווח בידע [[metacognition|מטה-קוגניטיבי]] של +0.25, לעומת כמעט אפס בהרצאה. זהו אפקט בינוני (d = -0.37) שלא הגיע למובהקות ב-p = .055 לאחר תיקון ריבוי-השוואות, ומעורבות [[self-report-measures|מדווחת-עצמית]] בבינה מלאכותית הייתה דומה בשתי הקבוצות בשבוע החמישי (3.99 ו-3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]). הגבול שזה מציב על הרציונל של העמוד ראוי להיאמר בפשטות: מפגש מעשי אחד מזיז ידע מטה-קוגניטיבי בכיוון הנכון בלי להכריע את ההשוואה, ולכן היתרון של עשייה חייב להיבנות ממחזורים חוזרים ולא להיות מונח ממעבדה אחת.
+- **עשייה לעומת סיפור, נמדדות על פני חמישה שבועות.** בניסוי-כמעט עם 126 סטודנטים לשנה א' בהנדסה, מפגש חווייתי בן שעתיים על למידה עם בינה מלאכותית יוצרת הניב רווח בידע [[metacognition|מטה-קוגניטיבי]] של +0.25, לעומת כמעט אפס בהרצאה. זהו אפקט בינוני (d = -0.37) שלא הגיע למובהקות ב-p = .055 לאחר תיקון ריבוי-השוואות, ומעורבות [[self-report-measures|מדווחת-עצמית]] בבינה מלאכותית הייתה דומה בשתי הקבוצות בשבוע החמישי (3.99 ו-3.93) ([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]). הגבול שזה מציב על הרציונל של העמוד ראוי להיאמר בפשטות: מפגש מעשי אחד מזיז ידע מטה-קוגניטיבי בכיוון הנכון בלי להכריע את ההשוואה, ולכן היתרון של עשייה חייב להיבנות ממחזורים חוזרים ולא להיות מונח ממעבדה אחת.
 
 ### שתי צורות של למידה מעשית בתוכנית לימודים נתמכת-בינה מלאכותית
 
@@ -112,5 +112,5 @@ ai_assist:
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
 - [[gelli-experiential-language-learning-2026]] — GELLI: A Generator for Experiential Language Learning Interactions (Symonette et al. 2026)
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — מפגש חווייתי לעומת הרצאה לידע מטה-קוגניטיבי בלמידה בסיוע בינה מלאכותית (Benazet i Montobbio et al. 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — מפגש חווייתי לעומת הרצאה לידע מטה-קוגניטיבי בלמידה בסיוע בינה מלאכותית (Benazet i Montobbio et al. 2026)
 - [[yusuf-service-learning-mapping-2026]] — 26 מחקרים ממופים על מחזור למידת השירות: בינה מלאכותית מדלדלת בהערכה וברפלקציה (Yusuf et al. 2026)

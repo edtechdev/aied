@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 
 - **不確実性のためのインフラとしての AI、効率ではない。** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] は、ビジネスシミュレーションにおいて生成AIの役割に、破壊的な出来事と連鎖的な帰結を生成する仕事を与え、チームが不完全な情報のもとで計画を修正するようにし、保護されたシミュレーションが、教室の外では負債となる意思決定の習慣を残しうると警告しています。
 
-- **することと教えられること、5 週間にわたって測定。** 126 人の 1 年生工学学生を対象とした準実験では、生成AIでの学習に関する 2 時間の体験セッションが、[[metacognition|メタ認知的]]知識を +0.25 向上させ、講義ではほぼゼロでした。これは中程度の効果（d = -0.37）ですが、多重比較の補正後は p = .055 で有意性に達せず、[[self-report-measures|自己報告]]による AI への関与は 5 週間の時点で両群とも同程度でした（3.99 と 3.93）（[[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio et al., 2026]]）。このことがこのページの根拠に課す限界は、率直に述べておく価値があります。1 回のハンズオンのセッションはメタ認知的知識を正しい方向に動かすものの、その比較を決着させるものではないため、することの優位は、単一の実験から仮定するのではなく、繰り返されるサイクルから築かれなければなりません。
+- **することと教えられること、5 週間にわたって測定。** 126 人の 1 年生工学学生を対象とした準実験では、生成AIでの学習に関する 2 時間の体験セッションが、[[metacognition|メタ認知的]]知識を +0.25 向上させ、講義ではほぼゼロでした。これは中程度の効果（d = -0.37）ですが、多重比較の補正後は p = .055 で有意性に達せず、[[self-report-measures|自己報告]]による AI への関与は 5 週間の時点で両群とも同程度でした（3.99 と 3.93）（[[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio et al., 2026]]）。このことがこのページの根拠に課す限界は、率直に述べておく価値があります。1 回のハンズオンのセッションはメタ認知的知識を正しい方向に動かすものの、その比較を決着させるものではないため、することの優位は、単一の実験から仮定するのではなく、繰り返されるサイクルから築かれなければなりません。
 
 ### AI に支援されたカリキュラムにおけるハンズオン学習の二つの形態
 
@@ -111,5 +111,5 @@ AI に支援された[[design-education|デザイン教育]]におけるハン�
 - [[gelli-experiential-language-learning-2026]] — GELLI：体験的な言語学習の相互作用のための生成器（Symonette ら 2026）
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 反転した物理学習のためのAI支援の仮想実験室：中学生の達成、動機づけ、認知的負荷への効果
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 支援学習におけるメタ認知的気づきのための体験的セッションと講義形式のセッション（Benazet i Montobbio et al. 2026）
+- [[metacognitive-awareness-experiential-vs-instructional]] — AI 支援学習におけるメタ認知的気づきのための体験的セッションと講義形式のセッション（Benazet i Montobbio et al. 2026）
 - [[yusuf-service-learning-mapping-2026]] — サービスラーニングのサイクルに写像された 26 研究：AI は評価と省察で薄くなる（Yusuf et al. 2026）

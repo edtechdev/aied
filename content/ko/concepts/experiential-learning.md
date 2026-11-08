@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-08T13:00:48-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 - **모의와 체화 학습:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]]은 초보자가 모의 로봇으로 실험하게 하고, [[embodied-learning|체화]] 로봇 상호작용은 학습을 직접 경험에 뿌리내립니다.
 - **장치가 요점이 아닐 때 가상 실험실은 물리 실험실을 능가할 수 있습니다.** 옴의 법칙을 배우는 9학년 학생은 AI 지원 가상 실험실, AI 없는 같은 실험실, 물리 실험실에서 30점 만점에 23.45, 20.51, 16.57점을 받았고 모든 쌍이 유의미했습니다([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). 저자들은 장치를 다루는 것 자체가 목표인 곳에서는 물리 실험실의 불리함이 줄어들 수 있음을 인정합니다.
 
-- **직접 하기 대 들려주기, 5주에 걸쳐 측정.** 공학 1학년 126명을 대상으로 한 준실험에서 생성형 AI로 학습하는 방법에 관한 2시간 경험 세션은 [[metacognition|메타인지]] 지식에서 +0.25의 향상을 낳았고, 강의는 거의 0이었습니다. 이는 중간 정도의 효과(d = −0.37)로 다중 비교 보정 후 p = .055에서 유의성에 이르지 못했으며, [[self-report-measures|자기 보고된]] AI 참여는 5주 시점에 두 집단에서 비슷했습니다(3.99와 3.93)([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio 등, 2026]]). 이 페이지의 근거에 부과되는 한계는 분명히 말할 가치가 있습니다. 한 번의 직접 세션은 메타인지 지식을 옳은 방향으로 움직이지만 비교를 결론짓지는 못하므로, 하기의 이점은 단일 실험실에서 가정되는 것이 아니라 반복된 순환으로 쌓아야 합니다.
+- **직접 하기 대 들려주기, 5주에 걸쳐 측정.** 공학 1학년 126명을 대상으로 한 준실험에서 생성형 AI로 학습하는 방법에 관한 2시간 경험 세션은 [[metacognition|메타인지]] 지식에서 +0.25의 향상을 낳았고, 강의는 거의 0이었습니다. 이는 중간 정도의 효과(d = −0.37)로 다중 비교 보정 후 p = .055에서 유의성에 이르지 못했으며, [[self-report-measures|자기 보고된]] AI 참여는 5주 시점에 두 집단에서 비슷했습니다(3.99와 3.93)([[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio 등, 2026]]). 이 페이지의 근거에 부과되는 한계는 분명히 말할 가치가 있습니다. 한 번의 직접 세션은 메타인지 지식을 옳은 방향으로 움직이지만 비교를 결론짓지는 못하므로, 하기의 이점은 단일 실험실에서 가정되는 것이 아니라 반복된 순환으로 쌓아야 합니다.
 
 
 - **불확실성을 위한 인프라로서의 AI, 효율성이 아니라.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]는 생성형 AI에게 경영 모의에서 파괴적 사건과 연쇄 결과를 생성하는 일을 맡겨, 팀들이 불완전한 정보 아래에서 계획을 수정하게 하며, 보호된 모의가 교실 밖에서는 부담이 되는 의사결정 습관을 남길 수 있음을 경고합니다.
@@ -111,6 +111,6 @@ AI 지원 [[design-education|설계 교육]]에서의 직접 손대는 학습에
 - [[ai-personas-fieldwork-experiential-learning-2026]] — 다섯 지표 루브릭과 함께, 공동체 현장 작업을 대신하는 AI 페르소나(Elhajj 등 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — AI 지원 설계 교육에서 체화된 직접 손대기를 인지적 직접 손대기와 구별하는 주제 검토(Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — 세 가지 생성형 AI 메커니즘을 중심으로 재구성된 전략 경영 강좌
-- [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 지원 학습에서 메타인지 인식을 위한 경험 세션 대 강의 세션(Benazet i Montobbio 등 2026)
+- [[metacognitive-awareness-experiential-vs-instructional]] — AI 지원 학습에서 메타인지 인식을 위한 경험 세션 대 강의 세션(Benazet i Montobbio 등 2026)
 
 - [[yusuf-service-learning-mapping-2026]] — 봉사 학습 순환에 대응시킨 26개 연구: AI는 평가와 성찰에서 얇아진다(Yusuf 등 2026)
