@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 connected_resources: [drawsplat]
 translation_of: concepts/privacy
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

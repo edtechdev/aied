@@ -1,7 +1,7 @@
 ---
 title: الفشل المنتج
 created: "2026-10-12T16:20:00-04:00"
-updated: "2026-10-30T17:00:00-04:00"
+updated: "2026-11-08T10:26:27-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ ai_assist:
 - **يُهيّئ المتعلّمين للتعلّم من التعليم** — فيعرفون ما لا يعرفون ويستطيعون ربط المادة الجديدة بمحاولاتهم.
 - **يُعزّز نقل المعرفة والمهارات المتينة** ([[critical-thinking|التفكير النقدي]]، والمرونة، والتواصل)، ويُقلّل الخوف من ارتكاب الأخطاء، ويُروّج لاتجاهات إيجابية نحو التعلّم.
 
-وقد وُسّع إطار الفشل المنتج بتصاميم ذات صلة من بينها **الفشل بالوكالة**، و**تنوع الحلول**، و**الإرشاد التكيّفي** (Braas et al., 2025؛ Brand et al., 2025).
+وقد وُسّع إطار الفشل المنتج بتصاميم ذات صلة من بينها **الفشل بالوكالة**، و**تنوع الحلول**، و**الإرشاد التكيّفي** (Braas et al., 2025؛ Brand et al., 2025). ويمكن للحالات أن توفّر فضاء المشكلة المشترك لتلك المحاولة الأولى، وإن كانت قاعدة الأدلة القائمة على الحالات لم تختبر هذا الاقتران مباشرةً ([[case-based-learning]]).
 
 ## التعلّم من الأخطاء والتعلّم من الزلّات
 
@@ -108,6 +108,7 @@ ai_assist:
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — الحالات كفضاء مشكلة مشترك للمحاولة الأولى
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

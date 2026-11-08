@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -134,7 +134,7 @@ Verificaron manualmente 828 registros sospechosos y encontraron 30 referencias q
 
 Su recuento es un límite inferior deliberado, y presentan el problema como compartido y no resuelto por el software. Los autores deberían verificar cada obra citada, sobre todo cuando se usó IA generativa en la escritura; los revisores no pueden auditar cada referencia, así que las sedes adoptan comprobaciones específicas; las editoriales deberían mejorar los metadatos. La detección automatizada hereda los defectos de los metadatos que trata como verdad de referencia.
 
-Los efectos de escala de la escritura con IA aparecen en un segundo estudio bibliométrico. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analizaron 147.074 publicaciones de revistas del [[eportfolio|portafolio]] PLoS y Nature desde 2020 y asociaron la escritura asistida por IA con equipos más pequeños e inclinados a lo júnior. En el cambio extremo de ninguna a plena asistencia de IA, el tamaño del equipo fue un 22,1% menor en PLoS y un 45,5% menor en Nature (β de Poisson = −0,250 y −0,607, ambos p < 0,01).
+Los efectos de escala de la escritura con IA aparecen en un segundo estudio bibliométrico. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analizaron 147.074 publicaciones de revistas del portafolio PLoS y Nature desde 2020 y asociaron la escritura asistida por IA con equipos más pequeños e inclinados a lo júnior. En el cambio extremo de ninguna a plena asistencia de IA, el tamaño del equipo fue un 22,1% menor en PLoS y un 45,5% menor en Nature (β de Poisson = −0,250 y −0,607, ambos p < 0,01).
 
 El impacto no se resintió de forma evidente. Alrededor del 7,34% de los artículos de PLoS asistidos por IA y el 7,40% de los de Nature alcanzaron el 5% superior del FWCI, por encima de ambos grupos de comparación escritos por humanos, y las comparaciones emparejadas mostraron una probabilidad 3,0% y 2,7% mayor de FWCI del 5% superior (ambos p < 0,01). Los datos son observacionales, así que los autores declinan afirmaciones causales fuertes.
 

@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -132,7 +132,7 @@ AI 지원 교육 연구는 이 분야가 AI 도구를 자신의 작업에 돌리
 
 그들의 수는 의도적인 하한이며, 그들은 이 문제를 소프트웨어에 의해 해결되기보다 공유된 것으로 제시합니다. 저자들은 인용된 모든 작업을 검증해야 하며, 특히 생성 AI가 글쓰기에 사용되었을 때 그래야 합니다; 검토자는 모든 참고문헌을 감사할 수 없으므로, 학술지들은 표적 점검을 채택합니다; 출판사들은 메타데이터를 개선해야 합니다. 자동 탐지는 실측 자료로 다루는 메타데이터의 결함을 물려받습니다.
 
-AI 글쓰기의 규모 효과는 두 번째 서지계량 연구에 나타납니다. [[ai-assisted-writing-research-teams|Wang 외(2026)]]는 2020년 이래 PLoS와 Nature [[eportfolio|포트폴리오]] 저널의 출판물 147,074건을 분석하고 AI 지원 글쓰기를 더 작고 주니어에 기운 팀과 연관시켰습니다. AI 지원 없음에서 완전 지원으로의 극단적 전환에서, 팀 규모는 PLoS에서 22.1%, Nature에서 45.5% 더 작았습니다(Poisson β = −0.250과 −0.607, 둘 다 p < 0.01).
+AI 글쓰기의 규모 효과는 두 번째 서지계량 연구에 나타납니다. [[ai-assisted-writing-research-teams|Wang 외(2026)]]는 2020년 이래 PLoS와 Nature 포트폴리오 저널의 출판물 147,074건을 분석하고 AI 지원 글쓰기를 더 작고 주니어에 기운 팀과 연관시켰습니다. AI 지원 없음에서 완전 지원으로의 극단적 전환에서, 팀 규모는 PLoS에서 22.1%, Nature에서 45.5% 더 작았습니다(Poisson β = −0.250과 −0.607, 둘 다 p < 0.01).
 
 영향은 분명히 손상되지 않았습니다. AI 지원 PLoS 논문의 약 7.34%와 Nature 논문의 7.40%가 FWCI 상위 5%에 도달했으며, 이는 인간이 쓴 두 비교 집단보다 높았고, 짝지은 비교들은 상위 5% FWCI의 확률이 3.0%와 2.7% 더 높음을 보였습니다(둘 다 p < 0.01). 데이터는 관찰적이므로, 저자들은 강한 인과 주장을 거부합니다.
 

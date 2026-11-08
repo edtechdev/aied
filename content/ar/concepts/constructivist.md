@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: البنائية
 created: "2026-10-12T15:26:00-04:00"
-updated: "2026-10-30T17:00:00-04:00"
+updated: "2026-11-08T10:26:27-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,9 @@ ai_assist:
 وهذا النمط يتعّمم على الميدان كله:
 
 - حين يُكمل الذكاء الاصطناعي التوليدي الكتابة أو الاستدلال أو الشيفرة عن الطلاب، يفقد المتعلّم عملية التفكير البنّاءة التي صُمّمت المهمة لبنائها — وهو القلق المركزي بالنسبة إلى [[cognitive-offloading|التفريغ المعرفي]] و[[cognitive-offloading|الاعتماد المفرط]].([[generative-refusal-ai-tools-for-thought]])
+
+- الخسارة صارت قابلة للقياس، وهي تتبع العمل لا الأداة. ففي 26,811 طالباً صينياً في المرحلة الثانوية، رفع الذكاء الاصطناعي التوليدي درجات الواجبات المنزلية بنسبة 18% وخفّض زمن الإنجاز بنسبة 30%، بينما هبطت درجات [[summative-assessment|الاختبارات الكتابية المغلقة]] بنسبة 20% خلال ستة أشهر. وتركّز الانحدار بين نحو 81% من المستخدمين الذين دلت أوقات إنجازهم على تفويض الواجب، بينما تعلّم المستخدمون الذين أبقوا زمن الواجب مقارباً لغير المستخدمين بالقدر ذاته من الكفاءة ([[stromberg-generative-ai-learning-penalty-secondary-2026|سترمبرغ ولي ووو (2026)]]). فالمتغير الذي تنبّأ بالتعلّم لم يكن استخدام الذكاء الاصطناعي بل هل ما زال المتعلّم يؤدي البناء.
+
 - كثيرًا ما تُقصّر تطبيقات الذكاء الاصطناعي التي تُركّز على التغذية الراجعة التكيّفية والكفاءة في خدمة أهداف فاعلية المتعلّم والتأمّل النقدي والقرار المستقل التي تضمرها البنائية.([[ai-vocational-education-training-review]])
 
 ### مصيدة التسمية: مخرَج الذكاء الاصطناعي التوليدي ليس تعلّمًا توليديًا
@@ -168,3 +171,6 @@ ai_assist:
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: فاعل توليدي يحاكي التطوّر المعرفي للطلاب
 
 - [[synthetic-position-self-authorship-2026]] — المواقف المضادة المحاكاة بالذكاء الاصطناعي تُتمرّن على شكل الحوار لكنها تحجب المقاومة التي تُلزم بالمراجعة
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — عقوبة التعلّم: درجات الواجبات ترتفع 18% والاختبارات المغلقة تهبط 20%، متركّزة بين مَن فوّضوا واجباتهم
+

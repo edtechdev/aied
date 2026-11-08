@@ -16,7 +16,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -132,7 +132,7 @@ Sie verifizierten manuell 828 verdächtige Einträge und fanden 30 Referenzen mi
 
 Ihre Zahl ist eine bewusste untere Grenze, und sie stellen das Problem als gemeinsam statt als durch Software gelöst dar. Autorinnen und Autoren sollten jedes zitierte Werk verifizieren, besonders wenn generative KI beim Schreiben verwendet wurde; Reviewerinnen und Reviewer können nicht jede Referenz prüfen, deshalb führen Veranstaltungen gezielte Prüfungen ein; Verlage sollten Metadaten verbessern. Automatisierte Detektion erbt die Fehler der Metadaten, die sie als Ground Truth behandelt.
 
-Die Skaleneffekte von KI-Schreiben zeigen sich in einer zweiten bibliometrischen Studie. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analysierten 147,074 Publikationen aus PLoS- und Nature-[[eportfolio|Portfolio]]-Zeitschriften seit 2020 und verknüpften KI-gestütztes Schreiben mit kleineren, stärker junior-lastigen Teams. Beim extremen Übergang von keiner zu voller KI-Unterstützung war die Teamgröße in PLoS 22.1% kleiner und in Nature 45.5% kleiner (Poisson β = −0.250 und −0.607, beide p < 0.01).
+Die Skaleneffekte von KI-Schreiben zeigen sich in einer zweiten bibliometrischen Studie. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] analysierten 147,074 Publikationen aus PLoS- und Nature-Portfolio-Zeitschriften seit 2020 und verknüpften KI-gestütztes Schreiben mit kleineren, stärker junior-lastigen Teams. Beim extremen Übergang von keiner zu voller KI-Unterstützung war die Teamgröße in PLoS 22.1% kleiner und in Nature 45.5% kleiner (Poisson β = −0.250 und −0.607, beide p < 0.01).
 
 Der Impact litt nicht offensichtlich. Etwa 7.34% der KI-gestützten PLoS-Papiere und 7.40% der Nature-Papiere erreichten die Top 5% des FWCI, über beiden menschgeschriebenen Vergleichsgruppen, und gematchte Vergleiche zeigten eine um 3.0% bzw. 2.7% höhere Wahrscheinlichkeit für Top-5%-FWCI (beide p < 0.01). Die Daten sind beobachtend, deshalb lehnen die Autorinnen und Autoren starke Kausalbehauptungen ab.
 

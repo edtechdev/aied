@@ -7,9 +7,9 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-updated: "2026-11-03T18:42:22-05:00"
+updated: "2026-11-08T10:40:25-05:00"
 translation_of: "concepts/productive-failure"
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 - **নির্দেশনা থেকে শিখতে শিক্ষার্থীদের প্রস্তুত করে** — তারা জানে কী জানে না, এবং নতুন উপাদানকে নিজেদের প্রচেষ্টার সঙ্গে যুক্ত করতে পারে।
 - **জ্ঞান-স্থানান্তর ও টেকসই দক্ষতা বাড়ায়** ([[critical-thinking|সমালোচনামূলক চিন্তা]], সহনশীলতা, যোগাযোগ), ভুল করার ভয় কমায়, এবং শিখনের প্রতি ইতিবাচক মনোভাব গড়ে তোলে।
 
-PF কাঠামোকে সম্পর্কিত নকশার মাধ্যমে প্রসারিত করা হয়েছে, যার মধ্যে রয়েছে **পরোক্ষ ব্যর্থতা**, **সমাধান-বৈচিত্র্য** ও **অভিযোজিত নির্দেশনা** (Braas et al., 2025; Brand et al., 2025)।
+PF কাঠামোকে সম্পর্কিত নকশার মাধ্যমে প্রসারিত করা হয়েছে, যার মধ্যে রয়েছে **পরোক্ষ ব্যর্থতা**, **সমাধান-বৈচিত্র্য** ও **অভিযোজিত নির্দেশনা** (Braas et al., 2025; Brand et al., 2025)। কেস সেই প্রথম প্রচেষ্টার জন্য ভাগ করা সমস্যা-ক্ষেত্র জোগাতে পারে, যদিও কেস-ভিত্তিক প্রমাণভিত্তি এই জোড়াটি সরাসরি পরীক্ষা করেনি ([[case-based-learning]])।
 
 ## ভুল থেকে শিখন ও ত্রুটি থেকে শিখন
 
@@ -104,6 +104,7 @@ PF কাঠামোকে সম্পর্কিত নকশার মা�
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — প্রথম প্রচেষ্টার জন্য ভাগ করা সমস্যা-ক্ষেত্র হিসেবে কেস
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]

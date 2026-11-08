@@ -9,8 +9,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
-updated: "2026-10-30T17:00:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-08T10:26:27-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,8 @@ ai_assist:
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] يتعاملان مع ثقافة التغذية الراجعة كقابلة للتنمية بالممارسة: فمراجعو الأقران في EFL الذين عملوا حواريًا مع الذكاء الاصطناعي التوليدي لتوليد التعليقات حسّنوا قدرتهم على الحكم على التغذية الراجعة واستخدامها، لا التعليقات التي قدّموها فحسب.
 
+**على ثقافة التغذية الراجعة أن تغطّي مصدرًا آليًا كما تغطّي مصدرًا بشريًا.** يطلب [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] من الطلاب تقويم تغذية الأقران وتغذية روبوت محادثة على المسوّدة نفسها وفي التأمل نفسه، مما يجعل المقارنة ذاتها مهمة التعلّم. وقد خفّض طلابهم سلطة روبوت المحادثة قياسًا إلى سلطة المعلّم، ويقرأ المؤلفون ذلك التخفيض كثقافة لا كتحفّظ.
+
 ## المفاهيم الخاطئة الشائعة
 
 - **"تغذية الذكاء الاصطناعي الراجعة تحسّن التفكير النقدي مباشرة."** عند **421 طالبًا جامعيًا صينيًا**، جرى ارتباط استخدام الذكاء الاصطناعي التوليدي بـ[[self-report-measures|التفكير النقدي المبلَّغ عنه ذاتيًا]] **عبر ثقافة التغذية الراجعة**. فالثقافة هي الوسيط، لذا فالتدخّل الذي يضيف تغذية راجعة بالذكاء الاصطناعي دون بناء القدرة على قراءتها يعالج الحد الخطأ.
@@ -106,6 +108,8 @@ ai_assist:
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+
+- [[reflection]]
 
 ## Connected Articles
 
@@ -134,3 +138,5 @@ ai_assist:
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[genai-use-critical-thinking-moderation-2026]] — جرى استخدام الذكاء الاصطناعي التوليدي إلى التفكير النقدي عبر ثقافة التغذية الراجعة للذكاء الاصطناعي التوليدي، تقوى مع التفكير التأملي
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — الفهم، لا القابلية للتنفيذ، هو ما حمل عائد المراجعة
+
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — تقويم تغذية الأقران وروبوت المحادثة على المسوّدة نفسها داخل مهمة تأمل واحدة

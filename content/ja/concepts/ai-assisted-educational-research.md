@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -128,7 +128,7 @@ ChatGPT-4o と Copilot にプロンプトを与えると、コミュニケーシ
 
 彼らの数は意図的な下限値であり、彼らはこの問題を、ソフトウェアによって解決されるのではなく共有されるものとして提示します。著者は、参照するすべての著作を検証すべきであり、特に生成AIが執筆に用いられた場合はそうです。レビュアーはすべての参照を監査できないため、会議・学会は的を絞った検査を採用します。出版社はメタデータを改善すべきです。自動検出は、それを正解として扱うメタデータの欠陥を受け継ぎます。
 
-AI執筆の規模の効果は、2件目の書誌計量学研究に現れます。[[ai-assisted-writing-research-teams|Wang et al. (2026)]]は、2020年以降のPLoSとNatureの[[eportfolio|ポートフォリオ]]誌からの147,074件の出版物を分析し、AI支援による執筆を、より小さく、若手に傾いたチームと結びつけました。AI支援なしから全面的なAI支援への極端な変化で、チームの規模はPLoSでは22.1%、Natureでは45.5%小さく(Poisson β = −0.250と−0.607、いずれもp < 0.01)。
+AI執筆の規模の効果は、2件目の書誌計量学研究に現れます。[[ai-assisted-writing-research-teams|Wang et al. (2026)]]は、2020年以降のPLoSとNatureのポートフォリオ誌からの147,074件の出版物を分析し、AI支援による執筆を、より小さく、若手に傾いたチームと結びつけました。AI支援なしから全面的なAI支援への極端な変化で、チームの規模はPLoSでは22.1%、Natureでは45.5%小さく(Poisson β = −0.250と−0.607、いずれもp < 0.01)。
 
 影響は明らかには損なわれませんでした。AI支援のあるPLoS論文の約7.34%、Nature論文の7.40%がFWCIの上位5%に達し、人間が書いた比較集団の両方を上回り、マッチさせた比較では上位5%のFWCIの確率が3.0%と2.7%高く(いずれもp < 0.01)。データは観察的なものであるため、著者らは強い因果の主張を控えます。
 

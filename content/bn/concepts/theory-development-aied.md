@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-08T10:40:25-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,10 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 - **Human-GAI [[student-engagement|engagement]] দৃষ্টান্ত।** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] ক্ষেত্রের "তত্ত্ব-ঘাটতি" সমাধান করেন সাতটি কার্যকর human-GAI সম্পৃক্ততার দৃষ্টান্ত (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, [[equity-in-ai-education|equity]])-কে Schommer-এর ব্যক্তিগত জ্ঞানতাত্ত্বিক বিশ্বাসের বহুমাত্রিক মডেলে ভিত্তি করে — এআই-এর সাপেক্ষে ব্যক্তিরা নিজেদের ভিন্নভাবে অবস্থান করে কীভাবে, তার একটি জ্ঞানতাত্ত্বিক, সরঞ্জাম-কেন্দ্রিক নয়, তত্ত্ব।
 - **The Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] যুক্তি দেন [[generative-ai|জেনারেটিভ এআই]] জ্ঞানতাত্ত্বিক কর্তৃত্ব শিক্ষক থেকে শিক্ষার্থী থেকে যন্ত্রে স্থানান্তর করে, এবং একটি কাঠামো উপস্থাপন করেন যা co-agency-কে তিনটি পরস্পর-নির্ভর মাত্রায় সংজ্ঞায়িত করে — relational, regulatory ([[self-regulated-learning|SRL চক্রে]] ম্যাপ করা) এবং [[pedagogy|শিক্ষাদানগত]] (শিক্ষক-গ্রহণের ধারাবাহিকতা) — সবগুলোই মানব জ্ঞানতাত্ত্বিক জবাবদিহির একটি অলঙ্ঘনীয় শর্তে সীমাবদ্ধ (contestability, provenance, এবং নৈতিক/বুদ্ধিবৃত্তিক কৃতিত্বের অ-হস্তান্তর)। এটি [[agency]]-কে [[usability-research|ব্যবহারযোগ্যতা]]-সংক্রান্ত বিষয়ের বদলে একটি *জ্ঞানতাত্ত্বিক* নকশা-সমস্যা হিসেবে অবস্থান করায়, প্রতিষ্ঠানগুলোকে GenAI-সংহতির শাসনে "ভারসাম্য"-এর চেয়ে সুনির্দিষ্ট ভাষা দেয়।
 - **Relational epistemic agency ও epistemic dependence.** [[du-yuan-epistemic-dependence-2026|Du ও Yuan (2026)]] একটি সমালোচনামূলক-সংহতকরণ বিবরণ দেন — এআই-মাধ্যমিক নির্ভরতা কখন বিচার রক্ষা করে আর কখন সরিয়ে দেয়। তাঁরা উৎপাদনশীল-নির্ভরতা/ক্ষতিকর-নির্ভরতার সীমাকে ছয়টি নির্ণায়ক মানদণ্ডে পরিচালনাযোগ্য করেন (contestability, recoverability, transfer, traceability, distributed responsibility, epistemic plurality) এবং চারটি সামাজিক-প্রযুক্তিগত পথ অনুসরণ করেন (fluent authority, frictionless delegation, opaque synthesis, institutionalized dependence)। তাঁদের নিয়মকানুন-সংক্রান্ত প্রস্তাব **relational epistemic agency** relational-autonomy ও epistemic-co-agency ধারাগুলোকে বাড়ায় একটি স্পষ্ট অসমতা ধরে রেখে — এআই যুক্তিকে আকার দিতে পারে প্রতিদানমূলক দায় বা বৈধ কর্তৃত্ব ছাড়াই — অথচ প্রাতিষ্ঠানিক স্তরে দায় ও জ্ঞানতাত্ত্বিক ন্যায় সংহত করে। এআই-সহ শিখনের তত্ত্ব হিসেবে এটি ক্ষেত্রের প্রশ্নকে এআই সাহায্য করে না ক্ষতি করে তা থেকে সরিয়ে আনে কোন জ্ঞানতাত্ত্বিক ক্রিয়া সংরক্ষিত, রূপান্তরিত বা সরিয়ে দেওয়া হয় তার দিকে, এবং কেবল ব্যবহার নয়, *নির্ভরতার নকশাকে* শিক্ষাদানগত ও প্রাতিষ্ঠানিক হস্তক্ষেপের বস্তু করে তোলে।
+
+
+মডেলের উৎপাদন সেই যৌথ জ্ঞানের মর্যাদায় ওঠে যার জন্য সম্প্রদায়ের অনুমোদন দরকার, তা ছাড়াই — যাকে Webb প্রমুখ (2026) pseudo-cPCK বলেন, এবং এ কারণেই ক্ষেত্রটির আরও ভালো ইন্টারফেসের বদলে একটি নতুন তাত্ত্বিক নির্মাণ দরকার ([[webb-pck-genai-2026|Webb প্রমুখ, 2026]])।
+
 
 ## প্রতিষ্ঠিত তত্ত্বকে অগ্রসর করা
 
@@ -166,3 +170,6 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: পরবর্তী পরীক্ষার জন্য ছয়টি পরীক্ষণযোগ্য প্রস্তাবসহ একটি ত্রিমাত্রিক নির্মাণ
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — জ্ঞানীয় অংশীদারত্ব চক্র
 - [[friction-paradox-generative-ai-education-abroad-2026]] — বিদেশে শিক্ষায় ব্যাখ্যামূলক কর্তৃত্বে প্রয়োগ করা desirable difficulties ও productive failure
+
+- [[webb-pck-genai-2026]] — তিনটি দৃশ্যপট ও একটি নতুন নির্মাণ, pseudo-cPCK: যে উৎপাদন যৌথভাবে বৈধায়িত জ্ঞান অনুকরণ করে অথচ অনুমোদন নেই (Webb প্রমুখ 2026)
+

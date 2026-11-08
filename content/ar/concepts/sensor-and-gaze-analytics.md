@@ -1,7 +1,7 @@
 ---
 title: تحليلات المستشعرات وتتبّع النظرة
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T10:26:27-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,9 @@ ai_assist:
 والمرافق العصبي ليس درجة. ارتبطت الصور المُعاد بناؤها من EEG بأداء الاختبار عند R² = 0.79 عبر 55 مشاهدة مشارك-فيديو. وأظهرت العناصر المُجابة صحيحًا أيضًا تشابهًا دلاليًا أعلى من الخاطئة. ومع ذلك أنتج مشارك واحد إعادة بناء عالية الجودة وأجاب خطأً، فجودة إعادة البناء لا تُقرأ كصواب ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 والانتباه ليس تعلّمًا. في TutorLoop ارتبط الانتباه بالتعلّم عند r = 0.017، بينما ارتبط الحمل سلبًا عند r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). فنظام يعظّم إشارة الانتباه كان سيُحسّن شيئًا قريبًا من الضوضاء.
+
+يمكن لجهاز استشعار أن يسجّل الحضور المكاني المشترك حيث تدّعي دراسة وجود تفاعل: فقد وجد [[hur-computational-analysis-teacher-group-interactions-2026|Hur وآخرون (2026)]] أن كاشفًا قائمًا على الوضعية بلغ استدعاءً قدره 55% فقط، فالتقط 11 من 20 حدثًا حدّدها مبرمجون بشريون في تفاعلات المعلّم مع مجموعات الطلاب. وكان المعلّم حاضرًا داخل حدود المجموعة في 49.2% من المقاطع المرمّزة بينما نظر الطلاب إلى المعلّم في 25.4% فقط، ولم تتغير أي سمة صوتية في المقارنتين، فسجّلت المنظومة حضورًا مكانيًا لا تفاعلًا مستمرًا.
+
 
 والملف الفسيولوجي ليس تشخيصًا. تتنبّأ نماذج توتر الامتحان بفئة درجة من الاستثارة والحركة، ويصرّ المؤلفون على أن المخرَج ينتمي إلى جانب الظروف الشخصية وسياق الصحة النفسية لا إلى قرار عالي المخاطر ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 

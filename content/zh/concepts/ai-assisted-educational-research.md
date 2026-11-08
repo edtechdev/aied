@@ -16,7 +16,7 @@ confidence: medium
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -129,7 +129,7 @@ LLM 转录指标在客观构念上与人类最一致（显式提问 κ = .778，
 
 他们的计数是一个刻意的下限，并把问题呈现为共享的、而非由软件解决的。作者应当核验每一条被引作品，尤其在写作中使用了生成式 AI 时；审稿人无法审计每条引用，因此出版方采用针对性检查；出版商应改进元数据。自动检测继承了它当作真值的元数据中的缺陷。
 
-AI 写作的规模效应见于第二项文献计量研究。[[ai-assisted-writing-research-teams|Wang 等（2026）]] 分析了 2020 年以来 PLoS 与 Nature [[eportfolio|系列]]期刊的 147,074 篇出版物，发现 AI 辅助写作与更小、更偏初级成员的团队相关。在从完全无 AI 辅助到完全 AI 辅助的极端转变下，团队规模在 PLoS 中小 22.1%，在 Nature 中小 45.5%（Poisson β = −0.250 与 −0.607，均 p < 0.01）。
+AI 写作的规模效应见于第二项文献计量研究。[[ai-assisted-writing-research-teams|Wang 等（2026）]] 分析了 2020 年以来 PLoS 与 Nature 系列期刊的 147,074 篇出版物，发现 AI 辅助写作与更小、更偏初级成员的团队相关。在从完全无 AI 辅助到完全 AI 辅助的极端转变下，团队规模在 PLoS 中小 22.1%，在 Nature 中小 45.5%（Poisson β = −0.250 与 −0.607，均 p < 0.01）。
 
 影响力并未明显受损。约 7.34% 的 AI 辅助 PLoS 论文与 7.40% 的 Nature 论文进入 FWCI 前 5%，高于两个人工撰写对照组，匹配比较显示进入前 5% FWCI 的概率分别高 3.0% 与 2.7%（均 p < 0.01）。数据是观察性的，因此作者放弃了强因果主张。
 

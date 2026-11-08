@@ -15,7 +15,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 connected_resources: [learning-design-wiki]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T08:41:46-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -132,7 +132,7 @@ Ils ont vérifié manuellement 828 enregistrements suspects et ont trouvé 30 r�
 
 Leur décompte est une borne inférieure délibérée, et ils présentent le problème comme partagé plutôt que résolu par le logiciel. Les auteurs devraient vérifier chaque œuvre citée, en particulier lorsque l'IA générative a été employée dans la rédaction ; les évaluateurs ne peuvent pas auditer chaque référence, si bien que les lieux de publication adoptent des vérifications ciblées ; les éditeurs devraient améliorer les métadonnées. La détection automatisée hérite des défauts des métadonnées qu'elle traite comme vérité de terrain.
 
-Les effets d'échelle de l'écriture assistée par l'IA apparaissent dans une seconde étude bibliométrique. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] ont analysé 147,074 publications des revues du [[eportfolio|portefeuille]] de PLoS et de Nature depuis 2020 et ont associé l'écriture assistée par l'IA à des équipes plus petites et à dominance junior. Au passage extrême de l'absence d'assistance à une assistance pleine par l'IA, la taille des équipes était inférieure de 22.1% dans PLoS et de 45.5% dans Nature (Poisson β = −0.250 et −0.607, tous deux p < 0.01).
+Les effets d'échelle de l'écriture assistée par l'IA apparaissent dans une seconde étude bibliométrique. [[ai-assisted-writing-research-teams|Wang et al. (2026)]] ont analysé 147,074 publications des revues du portefeuille de PLoS et de Nature depuis 2020 et ont associé l'écriture assistée par l'IA à des équipes plus petites et à dominance junior. Au passage extrême de l'absence d'assistance à une assistance pleine par l'IA, la taille des équipes était inférieure de 22.1% dans PLoS et de 45.5% dans Nature (Poisson β = −0.250 et −0.607, tous deux p < 0.01).
 
 L'impact n'a manifestement pas pâti. Environ 7.34% des articles de PLoS assistés par l'IA et 7.40% de ceux de Nature ont atteint les 5% supérieurs du FWCI, au-dessus des deux groupes de comparaison rédigés par des humains, et les comparaisons appariées ont montré une probabilité plus élevée de 3.0% et 2.7% d'atteindre les 5% supérieurs du FWCI (tous deux p < 0.01). Les données sont observationnelles, si bien que les auteurs se refusent à des affirmations causales fortes.
 
