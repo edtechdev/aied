@@ -1,7 +1,7 @@
 ---
 title: 求助行为（Help-Seeking）
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ ai_assist:
 - **梯子越往上，爬上去的人越少。**在 CoMeT 中，导师每遇到一个未被回应的决策就上升一级，并在学习者接住时退回；在 515 段被编码的渐退片段中，只有 282 段发生在作答之后：首次提问后的接受率为 37.0%，第三次之后为 21.8%（[[adaptive-scaffolding-contingency-comet-tutor-2026|Hou 等人（2026）]]）。因此延迟帮助取决于一个持续回应提示的学习者，而测得的行为衰减意味着脚手架的后面几级只能到达少数仍然卡住的学生。
 
 - **从*是否*转向*如何*** — 关键的设计问题是如何组织与建设性挫折原则相一致的提示交付，而非是否提供提示。([[lak2026-hint-button-unproductive-use]])
+- **元分析支持由学生控制的交付方式。** 汇总 18 项美国 K-12 实验，示例解答（g = 0.324）与按需提示（g = 0.316）显著，而自动触发的即时提示不显著——不过作者警告，自我调节较弱者可能钻按需功能的空子（[[leite-its-k12-meta-analysis-2025|Leite 等，2025]]）。
 - **信息长度是交付研究真正测量过的杠杆。** 在一门真实的编程课程中，在 14,809 个学生练习对上（标准差 204.9 字符），更长的 LLM 提示预示着更差的下次提交正确率、更多剩余尝试与更慢的重交（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。可读性几乎没有改变任何结果，因此数量比难度更重要。
 - **同一课程部分上的先前提示与整合步骤上更低的成功率相关。** 在项目较早步骤中获得反馈的学生有 95.6% 解决了最终步骤，而没有获得反馈者为 98.1%，对数几率系数为 −1.096（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。作者并不把这解读为损害，因为寻求提示的学生很可能本来就是会在那里挣扎的人，而这正是本页提出的[[self-regulated-learning|监控]]问题。
 
@@ -152,6 +153,8 @@ ai_assist:
 - [[student-support-and-success]] — 机构外联与支持分配，超越课程内的求助
 
 ## 关联文章
+
+- [[leite-its-k12-meta-analysis-2025]] — 哪些辅导支持承载效应：按需示例与提示优于自动提示
 
 - [[taufer-human-ai-interaction-haidl-2026]] — 互动作为一等数据：按查询周围的执行状态对其分类
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — 预测无辅助数学表现的是求助的轨迹，而非其水平

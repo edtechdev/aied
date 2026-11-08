@@ -1,14 +1,14 @@
 ---
 title: "Lettres et sciences humaines"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,9 @@ L'éducation civique et politique est un domaine frère de ces disciplines plut�
 
 L'enseignement des SSH met au premier plan les capacités mêmes que l'IA générative met le plus au défi — la paternité originale de l'œuvre, le jugement interprétatif, l'analyse critique et la production de sens sensible au contexte. La base de connaissances traite ce domaine comme un contrepoids critique aux cadrages instrumentaux et fondés sur les compétences de l'IA : elle demande si l'apprentissage soutenu par l'IA préserve la [[critical-thinking|pensée critique]], la responsabilité épistémique et l'autonomie interprétative, en se reliant à la [[critical-pedagogy|pédagogie critique]] et à l'[[ai-literacy|littératie en IA]].
 
+L'enseignement des sciences humaines a commencé à recourir à l'IA agentique pour assembler des sources et rédiger, ce qui déplace la question évaluative de la discipline : non plus si le texte a été généré, mais si l'interprétation peut être attribuée à l'étudiant ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
+
 ## Implications pour les enseignants de sciences humaines et sociales
 
 - **Traitez l'IA comme un médiateur épistémique, non comme un tuteur de contenus.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] montre que l'IA reconfigure la production de sens, la paternité de l'œuvre et l'autonomie dans les SSH — concevez la [[design-education|pédagogie]] autour des trois trajectoires (dépendante de l'IA, augmentée par l'IA, critique envers l'IA) et visez le pôle critique envers l'IA.
@@ -98,3 +101,6 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit computationnel de 15 587 unités d'arts et de sciences humaines du Go8 : 58,6 % des items d'évaluation de 2026 fortement exposés à l'IA, concentrés dans les dissertations et les rapports
 - [[genai-values-education-affordances-risks-2026]] — L'IA générative dans l'éducation aux valeurs : affordances, risques éthiques et implications pour l'enseignement (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Format de tâche et consignes d'usage de l'IA comme ce que l'artefact peut attester (Liu & Liu 2026)
+
+- [[capodieci-humanities-hil-2026]] — L'IA agentique dans l'apprentissage des sciences humaines, et le déplacement de la paternité du texte vers l'attribution de l'interprétation (Capodieci et al. 2026)
+

@@ -1,7 +1,7 @@
 ---
 title: "Humain dans la boucle"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,9 @@ La conception avec un humain dans la boucle est devenue centrale dans les discus
 - **Substitution coût-qualité : les fils automatisés ont égalé les fils humains, avec un reliquat d'examen ciblé.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] : les fils de conversation générés par LLM atteignaient un kappa de Cohen de 0.6395 contre 0.6239 pour les fils humains (fenêtre glissante), pour moins de 1 $ contre environ 25 $ par transcription — l'automatisation a donc égalé la cible de fiabilité humaine, non un plafond inaccessible. La valeur marginale de l'humain se concentre sur les fils que les modèles ratent presque, transitions thématiques (kappa 0.2567) et auto-continuations (0.4309), où les auteurs recommandent une correction humaine ciblée parallèle au filage automatisé.
 - **L'humain dans la boucle comme architecture pour une discipline entière, et non pour un seul flux de travail.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] spécifient quatre couches imbriquées : infrastructure de données, développement de modèles, interface pédagogique et gouvernance humaine, maintenues ensemble par trois principes, la supervision et l'agentivité humaines, l'intelligence co-adaptative et la réactivité au contexte.
 
+Un contrôle placé après la génération n'est pas un processus dont un humain est l'auteur : lorsque l'apprenant conçoit les invites et vérifie la production, la boucle gouverne la substitution ; lorsque c'est le système qui le fait, la même étiquette décrit l'examen du plan d'une machine ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
+
 ## Synthèse
 
 La conception avec un humain dans la boucle n'est pas seulement une mesure de sécurité — c'est une **stratégie d'allocation de ressources**. La question frontière n'est pas *s'il faut* inclure des humains, mais *où*, dans le pipeline, leur jugement a la valeur marginale la plus élevée. Les systèmes à humain dans la boucle les plus efficaces concentrent l'expertise humaine rare là où les systèmes automatisés sont les plus faibles (conception des distracteurs, rétroaction explicative, arbitrage des cas limites, jugement éthique) et automatisent le reste — préservant qualité, sécurité et confiance tout en permettant la montée en charge de la production.
@@ -192,3 +195,6 @@ La solidité de ce garde-fou dépend du [[automation-bias|biais d'automatisation
 - [[student-query-demand-hybrid-ai-support-2026]] — Ce que les étudiants demandent réellement : structure de la demande et potentiel d'automatisation dans un système d'accompagnement hybride
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Repenser les approches « en boucle » dans l'IA éducative : une perspective des sciences de l'apprentissage
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retenir la réponse préférée du système a réduit la déférence envers des conseils erronés de l'IA, de façon protectrice plutôt que corrective
+
+- [[capodieci-humanities-hil-2026]] — Distingue où se situe un contrôle humain de qui a conçu le processus, dans l'apprentissage des sciences humaines (Capodieci et al. 2026)
+

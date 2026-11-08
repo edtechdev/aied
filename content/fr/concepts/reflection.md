@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-05T18:18:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,9 @@ Le corpus est fortement déséquilibré : 68 % des essais se situent au niveau 3
 
 La leçon de mesure est plus étroite qu'il n'y paraît. Un classifieur estime à quel point un texte se lit comme réflexif. Il ne peut pas dire si la réflexion a eu lieu, et c'est exactement le niveau de performance qu'un modèle fluide peut imiter.
 
+Le même étayage de tableau de bord a accru la profondeur analytique et évaluative de l'écriture réflexive (η² = 0.623 et 0.627) tout en laissant la description et la planification de l'action inchangées, si bien qu'un étayage peut approfondir la manière dont un enseignant raisonne sur une leçon sans changer ce qu'il prévoit de faire ensuite ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
+
 ## Journaux, portfolios et prompts comme dispositifs de mise en œuvre
 
 Le construit est généralement délivré par trois véhicules, et chacun a son propre mode de défaillance.
@@ -111,6 +114,9 @@ Pour les enseignants, le construit fait double emploi avec le [[educational-deve
 [[teachers-reflective-regulators-cognition-offloading|Ho et Chen (2026)]] ajoutent la perspective du processus à partir de 18 enseignants en Chine continentale et à Hong Kong, dont les récits se résolvent en reconnaissance du besoin d'utiliser la GenAI, redistribution de la cognition et réengagement réflexif après l'utilisation. [[reflective-triangle-model-teacher-ai-2026|le modèle du triangle réflexif (2026)]] relie la réflexion individuelle, la réflexion collaborative et la réflexion communautaire au sein d'une communauté d'apprentissage professionnelle dans une étude de cas de quatre semaines avec six enseignants, l'IA servant de médiateur cognitif plutôt que d'évaluateur.
 
 La préparation importe aussi indépendamment de l'outil. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] ont croisé une formation aux stratégies métacognitives avec un module placebo et un LLM configuré comme partenaire de réflexion [[socratic-method|socratique]] par rapport à des outils numériques traditionnels, dans un plan 2 × 2 avec 60 enseignants en formation initiale. Les deux effets principaux étaient significatifs pour la qualité de la réflexion écrite au post-test.
+
+Dans une cartographie de 26 études sur l'IA dans l'apprentissage par le service, la réflexion était la phase la moins servie — trois études l'atteignaient et une seule couvrait les quatre — si bien que la phase qui transforme le service en apprentissage est celle où le soutien de l'IA est le plus ténu ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
+
 
 ## Le risque qu'un prompt de réflexion remplace la surveillance qu'il est censé construire
 
@@ -200,3 +206,7 @@ Un prompt de départ qui survit à la plupart des modes de défaillance ci-dessu
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Article de position : aucune preuve que les prompts de réflexion construisent une auto-surveillance durable (de Jong 2026)
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Portfolios WordPress de 16 semaines avec la GenAI comme fournisseur de retour d'information et synthétiseur (Ni et Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligné sur l'évaluation par portfolio électronique, λ de Wilks = 0.476, η² partiel = 0.524 (Sutama 2026)
+
+- [[liu-teaching-analytics-dashboard-2026]] — Un étayage qui a accru la profondeur analytique et évaluative tandis que la planification de l'action restait inchangée (Liu et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — Cartographie de 26 études : la réflexion est la phase la moins servie du cycle de l'apprentissage par le service communautaire (Yusuf et al. 2026)
+

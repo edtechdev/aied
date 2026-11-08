@@ -11,8 +11,8 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
-updated: "2026-11-07T13:00:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -146,6 +146,8 @@ La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de l
 
 Los paneles y los sistemas de alerta temprana concentran el riesgo de [[automation-bias|sesgo de automatización]]: una bandera afirma un juicio que una persona puede aceptar porque existe y no porque se haya comprobado.
 
+Manteniendo constantes los indicadores multimodales y añadiendo solo una explicación narrativa, la interpretación (η² = 0,166) y la construcción de significado (η² = 0,220) del profesorado en formación inicial aumentaron, mientras que la transformación accionable no se movió: la capa de interpretación, y no los datos, era el cuello de botella ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 **Los datos de interacción son un problema de representación antes que de modelado.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] tratan cada intercambio humano-IA como un registro estructurado único que porta el cómputo que motivó la solicitud, la solicitud, la respuesta, la retroalimentación de quien la usa y la ejecución que siguió, y no como una instrucción aislada. A lo largo de 140 pares estudiante-tarea en un despliegue con 35 estudiantes, el recuento de interacciones por sí solo se correlacionó con las celdas ejecutadas con éxito en r = 0,12, y la misma llamada podía ser una recuperación de error, un paso siguiente, una comprobación de concepto o una validación según el estado que la rodeaba. Treinta y siete pares con acceso no produjeron ninguna interacción, de modo que la ausencia de uso de IA en un registro no puede leerse como ausencia de necesidad.
 
 ## Concepciones erróneas
@@ -218,3 +220,4 @@ Los paneles y los sistemas de alerta temprana concentran el riesgo de [[automati
 - [[kim-ai-embodied-learning-review-2026]] — La IA en el aprendizaje encarnado sobre todo observa: los roles de sensorización son el 62,5% de las etiquetas de rol, y ningún sistema revisado fusionó flujos multimodales mientras el estudiantado los usaba (Kim y Han 2026)
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Los intercambios humano-IA como registros estructurados: los recuentos de instrucciones apenas aportan señal sobre el progreso
+- [[liu-teaching-analytics-dashboard-2026]] — Estudio de microenseñanza con control activo que aísla la capa de explicación: la interpretación se movió, la acción no (Liu et al. 2026)

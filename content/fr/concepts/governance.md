@@ -1,7 +1,7 @@
 ---
 title: La gouvernance de l'IA
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -118,6 +118,9 @@ La gouvernance se distingue de la [[educational-policy-ai|politique d'IA en édu
 - **La gouvernance peut être conçue dans l'outil.** Un profil de gouvernance à six dimensions — ancrage [[pedagogy|pédagogique]], autorité pédagogique, responsabilité humaine et contrôle, agentivité de l'apprenant et engagement cognitif, spécificité contextuelle, et visibilité de l'évaluation — situe la gouvernance dans le modèle d'interaction d'un outil d'enseignement, ses consignes, ses grilles, ses portes d'approbation et ses [[visualization|tableaux de bord]], et demande si les mécanismes conviennent à la fonction pédagogique plutôt que de mesurer le degré de sévérité ou de permissivité d'un outil ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **Un cadre centré sur l'humain place l'interprétation, et non l'outil, au centre.** Dans un collège d'arts libéraux à mission, des enseignants ont utilisé un Assessment Wizard assisté par IA générative lors d'une journée de l'éducation structurée, et les auteurs concluent que le jugement humain doit rester l'autorité interprétative non négociable, avec des points de vérification et une gouvernance en place avant une mise en œuvre large ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). La séquence est : formation et vérification d'abord, passage à l'échelle ensuite.
 
+Les dispositions de gouvernance n'apparaissaient que dans les documents de politique générale et jamais dans les instruments propres au financement qui lient les candidats, si bien qu'un financeur peut gouverner l'IA en principe sans rien imposer à la recherche qu'il finance ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Les universités ont adopté des politiques d'IA contraignantes. »** Sur **48 établissements**, **40 (83%)** disposaient d'au moins un document public, et dans ces 40 la **gouvernance se réalisait surtout comme orientation plutôt que comme règle contraignante**. Une orientation publiée n'est pas une politique applicable.
@@ -186,3 +189,6 @@ La gouvernance se distingue de la [[educational-policy-ai|politique d'IA en édu
 
 - [[li-su-teacher-genai-decision-making-2026]] — Un parcours proposé de la clarté de la gouvernance aux épisodes décisionnels des enseignants
 - [[pandey-davies-he-governance-administrative-ai-2026]] — L'IA administrative comme question d'exploitation des services
+
+- [[chan-ai-policy-gap-2026]] — Le langage de gouvernance reste dans les politiques générales et jamais dans les règles de financement qui lient les candidats (Chan 2026)
+

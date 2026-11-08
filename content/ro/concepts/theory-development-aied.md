@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ Teoretizarea din partea profesorilor face acum același angajament de testabilit
 - **Paradigme de [[student-engagement|implicare]] om–GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] abordează „deficitul de teorie” al domeniului fundamentând șapte paradigme enactate de implicare om–GAI (precaută, orientată spre posibilități, augmentată, pionieră, simbiotică, bazată pe valori, [[equity-in-ai-education|echitate]]) în modelul multidimensional al convingerilor epistemologice personale al lui Schommer — o teorie epistemologică, nu orientată spre instrument, a modului în care indivizii se poziționează diferit față de IA.
 - **Cadrul ecologic de co-agenție.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] susține că [[generative-ai|IA generativă]] reatribuie autoritatea epistemologică de la profesori la studenți și la mașini și introduce un cadru care definește co-agenția prin trei dimensiuni interdependente — relațională, de reglare (cartografiată pe [[self-regulated-learning|ciclul SRL]]) și [[pedagogy|pedagogică]] (continuumul de adoptare al profesorului) — toate delimitate de o condiție nenegociabilă de responsabilitate epistemică umană (contestabilitate, proveniență și nedelegarea creditului moral/intelectual). Poziționează [[agency|agenția]] ca problemă de design *epistemic*, nu ca preocupare de [[usability-research|utilizabilitate]], oferind instituțiilor un limbaj mai precis decât „echilibru” pentru guvernarea integrării GenAI.
 - **Agenția epistemică relațională și dependența epistemică.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] contribuie cu o explicație critic-integratoare a când dependența mediată de IA păstrează judecata și când o înlocuiește. Operationalizează granița dintre dependența productivă și dependența dăunătoare prin șase criterii de diagnostic (contestabilitate, recuperabilitate, transfer, trasabilitate, responsabilitate distribuită, pluralitate epistemică) și urmăresc patru trasee sociotehnice (autoritate fluentă, delegare fără fricțiune, sinteză opacă, dependență instituționalizată). Propunerea lor normativă, **agenția epistemică relațională**, extinde liniile autonomiei relaționale și ale co-agenției epistemice păstrând o asimetrie explicită — IA poate modela raționamentul fără responsabilitate reciprocă sau autoritate legitimă — integrând totodată responsabilitatea și justiția epistemică la nivel instituțional. Ca teorie a învățării cu IA, mută întrebarea domeniului de la dacă IA ajută sau dăunează la care acțiuni epistemice sunt păstrate, transformate sau înlocuite și face din *designul dependenței*, nu din simpla utilizare, obiectul intervenției pedagogice și instituționale.
+
+Rezultatul modelului urcă la statutul de cunoaștere colectivă fără garanția comunității pe care acel statut o cere — ceea ce Webb et al. (2026) numesc pseudo-cPCK, și motivul pentru care domeniul are nevoie de un construct teoretic nou, nu de o interfață mai bună ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Avansarea teoriei consacrate
 
@@ -164,3 +166,4 @@ Dezvoltarea teoriei și [[philosophy-of-ai-in-education|filosofia IA în educaț
 - [[ai-connectedness-adolescent-mental-health-2026]] — Conectivitatea cu inteligența artificială: un construct tridimensional cu șase propoziții falsificabile pentru testare ulterioară
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclul parteneriatului cognitiv
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Dificultăți dezirabile și eșec productiv aplicate agenției interpretative în educația în străinătate
+- [[webb-pck-genai-2026]] — Trei viniete și un construct nou, pseudo-cPCK, pentru rezultate care imită cunoașterea validată colectiv fără garanție (Webb et al. 2026)

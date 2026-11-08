@@ -1,13 +1,13 @@
 ---
 title: 体験学習
 created: "2026-10-10T22:31:14-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ AI に支援された[[design-education|デザイン教育]]におけるハン�
 体験学習は、[[active-learning|アクティブラーニング]]、[[project-based-learning|プロジェクトベース学習]]、[[embodied-learning|身体化された学習]]、[[simulation|シミュレーション]]、[[educational-robotics|教育ロボティクス]]、そして[[higher-ed|高等教育]]の専門的な準備につながります。
 
 職場と統合された経験は、高度な能力にとって拘束条件となりえます。スマートマニュファクチャリングのラボにおける 89 件の後援されたキャップストーンプロジェクトにわたって、[[career-development-and-readiness|Workforce Readiness]] Level 6 から 7 への進階は、追加の履修科目ではなく産業に埋め込まれた配置によって決まりました（[[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]）。
+
+コミュニティ関与型の 26 研究を通じて、AI は準備（18）と行動（15）に集中し、評価（8）と省察（3）では薄くなっていました。したがって、サービスラーニングにおける設計上の空白は、サイクルの後半の統合的な段階に残っています（[[yusuf-service-learning-mapping-2026|Yusuf ら（2026年）]]）。
 
 ## よくある誤解
 
@@ -110,3 +112,4 @@ AI に支援された[[design-education|デザイン教育]]におけるハン�
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 反転した物理学習のためのAI支援の仮想実験室：中学生の達成、動機づけ、認知的負荷への効果
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 支援学習におけるメタ認知的気づきのための体験的セッションと講義形式のセッション（Benazet i Montobbio et al. 2026）
+- [[yusuf-service-learning-mapping-2026]] — サービスラーニングのサイクルに写像された 26 研究：AI は評価と省察で薄くなる（Yusuf et al. 2026）

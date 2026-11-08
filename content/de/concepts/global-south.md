@@ -1,7 +1,7 @@
 ---
 title: Globaler Süden
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Mainstream-Forschung zu KI und Bildungstechnologie ist historisch von westlichen
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] argumentieren aus einem südafrikanischen Klassenraum der Klasse 9, dass eine restriktionsorientierte [[educational-policy-ai|institutionelle Politik]] die Bedingungen verschließt, unter denen KI Lehrende unter pädagogischer Knappheit erweitern statt ersetzen könnte, und dass die Interaktionsdaten, die Lernende erzeugen, unter fremden Governance-Regimen gehalten werden.
 
+Der Zugang kann gesättigt sein, bevor die Leistungsfähigkeit es ist: Unter 633 Studierenden an acht beninischen Universitäten nutzten 92,3 % generative KI wöchentlich, und Arbeitslast statt wahrgenommener Nützlichkeit trieb die Adoption, sodass die Kluft nicht mehr hauptsächlich darin besteht, das Werkzeug zu erreichen ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ### Implikationen
 
 Globalen-Süden-Kontexte zu beachten erfordert, über die Annahme hinauszugehen, westliche Modelle und Benchmarks übertrugen sich direkt. Es verlangt lokal gegründete Datensätze, kulturell relevante [[pedagogy|Pädagogik]], gemeinschaftszentrierte Evaluationsstandards und Forschung, die die gelebten und gemeinschaftlichen Epistemologien der Lernenden als autoritativ behandelt — in Übereinstimmung mit Rahmenwerken wie gemeinschaftsbasiertem KI-Lernen und [[technology-acceptance-model|Technologieakzeptanz]]-Forschung, die an lokale Bedingungen angepasst sind.
@@ -104,3 +106,4 @@ Die Skalierungsbilanz ist Teil dieses Bildes, und sie ist ernüchternd. Programm
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic Developers als digitale Vermittelnde in südafrikanischen HDIs: digitale Ungleichheit vs. algorithmische Kolonialität
 - [[ai-ethical-awareness-ghana-students-2026]] — Ethisches Bewusstsein für künstliche Intelligenz ghanaischer Studierender
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethische Prinzipien von KI in der Bildung: kontextuelles ethisches Schlussfolgern von Lehrenden
+- [[gouroubera-genai-benin-2026]] — 633 Studierende in Benin: wöchentliche Nutzung 92,3 %, Arbeitslast als dominanter Treiber, sodass Zugang nicht mehr die bindende Einschränkung ist (Gouroubera et al. 2026)

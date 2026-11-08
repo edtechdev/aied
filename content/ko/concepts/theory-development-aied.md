@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능의 이론 개발
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 - **인간-GAI [[student-engagement|참여]] 패러다임.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]]는 개인적 인식론적 신념의 다차원 모형에 토대를 둔 일곱 실행되는 인간-GAI 참여 패러다입(경계하는, 가능성 중심의, 증강된, 개척하는, 공생하는, 가치 기반의, [[equity-in-ai-education|형평성]])을 제시하여 이 분야의 "이론 결핍"을 다룹니다. 이것은 개인들이 AI에 관해 스스로를 다르게 위치시키는 방식에 관한 도구 중심이 아니라 인식론적 이론입니다.
 - **생태학적 공동 자율성 틀.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]는 [[generative-ai|생성형 AI]]가 인식론적 권위를 교사에게서 학생에게로, 다시 기계로 재배정한다고 주장하며, 관계적·규제적([[self-regulated-learning|SRL 순환]]에 대응)·[[pedagogy|교수법적]](교사 도입 연속선)의 세 상호 의존적 차원으로 공동 자율성을 정의하는 틀을 도입하며, 모두가 인간 인식론적 책무성(이의 제기 가능성, 출처, 도덕적·지적 공로의 위임 불가)이라는 양보할 수 없는 조건에 의해 제약됩니다. 이것은 [[agency]]를 [[usability-research|사용성]] 관심사가 아니라 *인식론적* 설계 문제로 위치시키며, 기관에 GenAI 통합을 다스리는 데 "균형"보다 더 정밀한 언어를 제공합니다.
 - **관계적 인식론적 자율성과 인식론적 의존.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]]는 AI가 매개하는 의존이 판단을 보존하는 때와 그것을 대체하는 때에 관한 비판적-통합적 설명을 제공합니다. 그들은 생산적 의존/해로운 의존 경계를 여섯 진단 기준(이의 제기 가능성, 회복 가능성, 전이, 추적 가능성, 분산된 책임, 인식론적 다원성)을 통해 운용화하고, 네 사회기술적 경로(유창한 권위, 마찰 없는 위임, 불투명한 종합, 제도화된 의존)를 추적합니다. 그들의 규범적 제안인 **관계적 인식론적 자율성**은 명시적 비대칭 — AI는 상호적 책임이나 정당한 권위 없이 추론을 형성할 수 있다 — 을 유지하면서 관계적 자율성과 인식론적 공동 자율성 노선을 확장하며, 제도적 수준에서 책임과 인식론적 정의를 통합합니다. AI와 함께하는 학습에 관한 이론으로서, 이것은 이 분야의 질문을 AI가 돕는지 해치는지에서 어떤 인식론적 행위가 보존되고, 변형되고, 대체되는지로 옮기며, 단순한 사용이 아니라 *의존의 설계*를 교수법적·제도적 개입의 대상으로 만듭니다.
+
+모형의 산출물은 그 지위가 요구하는 공동체적 보증 없이 집단적 지식의 지위로 올라섭니다. Webb 등(2026)이 의사-cPCK라고 부르는 것이며, 이 분야에 더 나은 인터페이스가 아니라 새로운 이론적 구성개념이 필요한 이유입니다([[webb-pck-genai-2026|Webb 등, 2026]]).
 
 ## 확립된 이론의 발전
 
@@ -167,3 +169,5 @@ AIEd에서의 이론 개발은 이 분야가 의존하는 응용 [[learning-theo
 - [[synthetic-position-self-authorship-2026]] — 합성적 입장: 합성 촉진과 저자됨의 유예에 이름을 붙이는 교차 예측을 지닌 대화적 자아의 시도
 - [[capability-decision-model-teacher-readiness-2026]] — 네 반증 조건을 지닌 반증 가능한 역량 우선 교사 준비 모형
 - [[ai-connectedness-adolescent-mental-health-2026]] — 인공지능 연결성: 후일 검정을 위한 여섯 반증 가능 명제를 지닌 세 차원 구성 개념
+
+- [[webb-pck-genai-2026]] — 세 가지 삽화와 새로운 구성개념, 의사-cPCK: 공동체적 검증을 흉내 내면서 보증이 없는 산출물(Webb 등 2026)

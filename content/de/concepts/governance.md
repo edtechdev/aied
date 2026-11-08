@@ -1,7 +1,7 @@
 ---
 title: KI-Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,8 @@ Governance unterscheidet sich von – ist aber untrennbar mit – [[educational-
 
 - **Ein menschzentriertes Rahmenwerk stellt die Interpretation, nicht das Werkzeug, ins Zentrum.** An einem missionsgetriebenen Liberal-Arts-College nutzten Lehrende während eines strukturierten Education Day einen generative-KI-gestützten Assessment Wizard, und die Autorinnen und Autoren schließen, dass menschliches Urteil die nicht verhandelbare interpretative Autorität bleiben muss, mit Verifikationskontrollpunkten und Governance an Ort und Stelle vor breiter Implementierung ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). Die Reihenfolge ist erst Formation und Verifikation, dann Skalierung.
 
+Governance-Bestimmungen erschienen nur in allgemeinen Politikdokumenten und nie in den förderungsspezifischen Instrumenten, die Antragstellende binden, sodass eine Förderstelle KI grundsätzlich regeln kann, ohne dem von ihr finanzierten Forschungsvorhaben etwas aufzuerlegen ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 **Die meisten Einrichtungen können nicht benennen, wer für KI zuständig ist.** Unter 387 Studierenden und Beschäftigten an Einrichtungen in 13 Ländern kannten nur 17 % eine benannte KI-Managementverantwortung, während 71 % der übrigen sich eine wünschten und erwarteten, dass sie Training, ethische Aufsicht, Datensicherheit und Strategie verbindet ([[kaze-ai-management-higher-ed-2026|Kaže et al. (2026)]]).
 
 **Ein vorgeschlagener Weg von Klarheit zu Verhalten.** [[li-su-teacher-genai-decision-making-2026|Li und Su (2026)]] modellieren, wie institutionelle Klarheit den Klassenraum erreichen könnte. Governance-Klarheit, also Regelklarheit plus Rollenklarheit, wird als kontextueller Vorläufer vorgeschlagen; wahrgenommene Rechenschaftspflicht als der Zustand, über den sie wirkt; und Entscheidungsunsicherheit als die Bedingung, auf die sie wirkt, reduzierbar in ihrer prozeduralen Form, nicht aber in echter Fallunsicherheit. KI-Kompetenz wird als Moderator vorgeschlagen, und die Autoren bieten fünf prüfbare Aussagen und eine konfigurative Erwartung. Dies ist ein Hypothesis-and-Theory-Papier, das keine Daten erhebt, und seine Autoren beschreiben die Pfade als Aussagen, nicht als empirisch etablierte Effekte.
@@ -181,4 +183,5 @@ Governance unterscheidet sich von – ist aber untrennbar mit – [[educational-
 
 - [[li-su-teacher-genai-decision-making-2026]] — Ein vorgeschlagener Weg von Governance-Klarheit zu Entscheidungsepisoden von Lehrenden
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative KI als Frage des Servicebetriebs
+- [[chan-ai-policy-gap-2026]] — Governance-Sprache steht in allgemeinen Politiken und nie in den Förderregeln, die Antragstellende binden (Chan 2026)
 

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -183,6 +183,8 @@ La lección colectiva: **el AAR es el mecanismo central que distingue el uso cr�
 
 Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003 docentes chinos en formación inicial, el apoyo percibido de las herramientas de IA llegó a la competencia innovadora principalmente a través de la [[self-efficacy|autoeficacia]] en IA (60,88% del efecto total de esa ruta), mientras que el apoyo percibido del entorno inteligente escolar llegó principalmente a través del aprendizaje autorregulado (29,64% frente a 18,60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
+El estudiantado declaró más procrastinación (β = 0,525) junto con ganancias de rendimiento percibidas, lo que separa el aplazamiento del trabajo de estudio porque la IA está disponible del aplazamiento con la ayuda de la IA: una distinción que una única puntuación de autorregulación no puede sostener ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ## Implicaciones
 
 - **Para las herramientas de diario y de chatbot:** combine la instrucción sobre AAR (basada en un curso) con apoyo opcional a la escritura para obtener ganancias tanto de motivación como de implicación
@@ -279,3 +281,4 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modelo de aprendizaje híbrido basado en proyectos que utiliza la inteligencia artificial para mejorar el aprendizaje autorregulado del estudiantado
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un asistente de enseñanza con IA como primer respondedor desplazó las respuestas de los pares y, con ellas, la corregulación que amplificaba el valor de la autorregulación para la calificación (Davis et al. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversidad de preconcepciones cambió cómo aterrizaba una indicación metacognitiva: las mismas funciones de indicación, una evaluación sostenida opuesta de la salida de la IA (Wang et al. 2026)
+- [[gouroubera-genai-benin-2026]] — La procrastinación aumentó con el uso (β = 0,525) junto a una ganancia percibida, lo que separa el aplazamiento habilitado por la IA del que solo trata de la IA (Gouroubera et al. 2026)

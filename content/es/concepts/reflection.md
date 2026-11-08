@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-05T16:13:12-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ El corpus está severamente desequilibrado: el 68% de los ensayos se sitúa en e
 
 La lección de medición es más estrecha de lo que parece. Un clasificador estima cuán reflexivo se lee un texto. No puede saber si la reflexión ocurrió, y su nivel de desempeño es exactamente el que un modelo fluido puede imitar.
 
+El mismo andamiaje de panel elevó la profundidad analítica y evaluativa en la escritura reflexiva (η² = 0,623 y 0,627) mientras dejaba planas la descripción y la planificación de la acción, de modo que un andamiaje puede profundizar cómo razona el profesorado sobre una clase sin cambiar lo que planea hacer después ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 ## Diarios, portafolios y consignas como sistemas de entrega
 
 El constructo suele entregarse mediante tres vehículos, y cada uno tiene su propio modo de fallo.
@@ -111,6 +113,8 @@ Para el profesorado, el constructo funciona también como [[educational-developm
 [[teachers-reflective-regulators-cognition-offloading|Ho y Chen (2026)]] añaden la visión de proceso a partir de 18 docentes de China continental y Hong Kong, cuyos relatos se resuelven en reconocer la necesidad de usar IA generativa, redistribuir la cognición y reimplicarse reflexivamente después del uso. [[reflective-triangle-model-teacher-ai-2026|El Modelo del Triángulo Reflexivo (2026)]] conecta la autorreflexión, la reflexión colaborativa y la reflexión comunitaria en una comunidad de aprendizaje profesional, en un caso de cuatro semanas con seis docentes, con la IA como mediadora cognitiva y no como evaluadora.
 
 La preparación también importa con independencia de la herramienta. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] cruzaron el entrenamiento en estrategias metacognitivas con un módulo placebo y un LLM configurado como socio de reflexión [[socratic-method|socrático]] frente a herramientas digitales tradicionales, en un diseño 2 × 2 con 60 docentes en formación. Ambos efectos principales fueron significativos para la calidad de la reflexión escrita en el postest.
+
+En un mapeo de 26 estudios sobre IA en el aprendizaje-servicio, la reflexión fue la fase menos atendida —tres estudios la alcanzaron y uno cubrió las cuatro—, de modo que la fase que convierte el servicio en aprendizaje es donde el apoyo de la IA es más escaso ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## El riesgo de que una consigna de reflexión reemplace el monitoreo que pretende construir
 
@@ -200,3 +204,5 @@ Una consigna inicial que sobrevive a la mayoría de los modos de fallo anteriore
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Artículo de posición: no hay evidencia de que las consignas de reflexión construyan un automonitoreo duradero (de Jong 2026)
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — E-portafolios de 16 semanas en WordPress con IA generativa como proveedora de retroalimentación y sintetizadora (Ni y Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT alineado con la evaluación por e-portafolio, λ de Wilks = 0,476, η² parcial = 0,524 (Sutama 2026)
+- [[liu-teaching-analytics-dashboard-2026]] — Un andamiaje elevó la profundidad analítica y evaluativa mientras la planificación de la acción quedó plana (Liu et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — Mapeo de 26 estudios: la reflexión es la fase menos atendida del ciclo del aprendizaje-servicio (Yusuf et al. 2026)

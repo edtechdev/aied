@@ -1,14 +1,14 @@
 ---
 title: AIフィードバックの質
 created: "2026-10-10T22:09:41-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_of: concepts/ai-feedback-quality
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -110,6 +110,8 @@ AIフィードバックの質は、[[formative-assessment|形成的評価]]と[[
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse（2026）]]は、フィードバックのアフォーダンスとしてDeepSeekの明示的な推論の痕跡を検討し、可視の推論がコメントの根拠を書き手が検査できるものにする一方、モデルは論証のような高次の判断を依然として人間に委ねることを見出しています。
 
+最初の応答では正しくても、三回目には誤りうる：11 のモデルを通じて、権威からの圧力の下で 12.7 パーセントが誤った答えへと転じたため、フィードバックの質は最初の応答ではなく相互作用全体にわたって評価されなければなりません（[[liu-educational-sycophancy-2026|Liu & Korolova（2026年）]]）。
+
 ## よくある誤解
 
 - **「学生はAIフィードバックを受け入れているのだから、それは良い。」** **学生が知覚する品質は、受容性が示唆するよりも混ざり合っています**。**93名の学部生のうち77名はAIフィードバックを理解しやすいと述べましたが、68名は反復的だと感じ、79名**は別の点で不十分だと感じました。理解と不満は同じコホートの中で共存していました。
@@ -177,3 +179,4 @@ AIフィードバックの質は、[[formative-assessment|形成的評価]]と[[
 - [[lin-rag-lesson-generation-tutor-training-2026]] — フィードバックが存在したとき、RAGで生成されたチューター養成の授業は人間が作ったものに匹敵した。人間の優位はフィードバックがないときにのみ現れた
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 68研究にわたる3つの評価次元で、ルーブリックの整合が薄いもの（Yang 2026）
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157件の評価されたフィードバックメッセージにおける基準レベルと評価者レベルの乖離（Vanhoyweghen et al. 2026）
+- [[liu-educational-sycophancy-2026]] — 正しさは相互作用に依存する：押し返しの下での 12.7 パーセントの転向率（Liu & Korolova 2026）

@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,8 @@ Den første Theory of Planned Behavior-studien av intensjon om GAIT-basert urede
 
  OECD (2023) registrerer at ingen av atten undersøkte land hadde spesifikk regulering av generativ AI for utdanning tidlig i 2024, og ni hadde delegert styringen til skolenivået. Lest gjennom Ahmeds ikke-performativitet uttrykker vokabularet etisk lydhørhet uten noen mekanisme til å iverksette den, slik at ansvar påberopes av alle aktører samtidig og lokaliseres hos ingen. Hashem kaller resultatet en skiftende **juksende habitus**: disposisjoner mot legitim deltakelse rekallibrert under kronisk ubestemthet, stratifisert etter den akademiske kapitalen studentene bringer med seg, med juks og det å bli snytt behandlet som samtidige tilstander snarere enn alternativer. Alt sammen er foreslått fra policytekst, ikke observert hos studenter.
 
+Blant 546 bachelorstudenter rangerte integritet først blant fem persepsjonsdimensjoner (3,79 av 5) og varierte ikke etter studieprogram, noe som plasserer den faglige variasjonen i AI-bruk og ferdighetsbehov snarere enn i hvor mye integritet betyr ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Vanlige misoppfatninger
 
 - **«Deteksjonsverktøy identifiserer AI-skriving.»** AI-generert tekst har **passert som menneskeskrevet i opptil 80% av tilfellene**, mens evidensen for deteksjon plasserer **maskinell deteksjon på rundt 80% mot 78,4% for menneskelige vurderere**. Menneskelig og maskinell dømmekraft er nesten like (u)pålitelige, så en deteksjonsdom er ikke bevis på forfatterskap.
@@ -252,3 +254,4 @@ Den første Theory of Planned Behavior-studien av intensjon om GAIT-basert urede
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: mot et menneskelesbart, maskinresistent lesegrensesnitt
 - [[issa-teamwork-framework-academic-integrity-2024]] — Teamarbeid med verifisering per medlem som en autentiseringsdesign (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Ansvarlighet snarere enn tekstmengde som integritetsproblem
+- [[crisol-moya-integrity-assessment-2026]] — 546 studenter: integritet rangerer først og er likt på tvers av programmer (Crisol Moya et al. 2026)

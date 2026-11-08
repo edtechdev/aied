@@ -1,13 +1,13 @@
 ---
 title: अनुभवजन्य शिक्षा
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 अनुभवजन्य शिक्षा [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]] और [[higher-ed]] के व्यावसायिक तैयारी से जुड़ती है।
 
 कार्य-एकीकृत अनुभव उच्च दक्षता की बाध्यकारी शर्त हो सकता है: एक स्मार्ट-विनिर्माण प्रयोगशाला के 89 प्रायोजित कैपस्टोन परियोजनाओं में, [[career-development-and-readiness|कार्यबल तैयारी]] स्तर 6 से 7 की ओर प्रगति अतिरिक्त पाठ्यक्रमों के बजाय उद्योग-अंतर्निहित नियुक्तियों से निर्धारित हुई ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]।
+
+समुदाय-संलग्न 26 अध्ययनों में, AI तैयारी (18) और क्रिया (15) में केंद्रित रहा और मूल्यांकन (8) तथा प्रतिबिंब (3) में पतला हो गया, इसलिए चक्र के बाद के, समाकलनकारी चरण सेवा-अधिगम में डिज़ाइन अंतराल बने हुए हैं ([[yusuf-service-learning-mapping-2026|यूसुफ एट अल., 2026]])।
 
 ## सामान्य भ्रांतियाँ
 
@@ -111,3 +113,4 @@ ai_assist:
 - [[shi-genai-experiential-learning-management-education-2026]] — तीन व्यापक एआई क्रियाविधियों के इर्द-गिर्द फिर से संरचित एक रणनीतिक प्रबंधन पाठ्यक्रम
 - [[gelli-experiential-language-learning-2026]] — GELLI: अनुभवजन्य भाषा-अधिगम अंतःक्रियाओं के लिए एक जनरेटर (Symonette et al. 2026)
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-समर्थित आभासी प्रयोगशाला फ़्लिप्ड भौतिकी अधिगम के लिए: माध्यमिक विद्यार्थियों की उपलब्धि, अभिप्रेरणा और संज्ञानात्मक भार पर प्रभाव
+- [[yusuf-service-learning-mapping-2026]] — सेवा-अधिगम चक्र पर मैप किए 26 अध्ययन: मूल्यांकन और प्रतिबिंब में AI पतला पड़ता है (यूसुफ एट अल. 2026)

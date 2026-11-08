@@ -1,7 +1,7 @@
 ---
 title: "Formation des enseignants"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,9 @@ Au-delà des contenus et des croyances, la préparation des enseignants recourt 
 - **Faire de la rédaction de politiques d'IA en classe une activité centrale de la formation des enseignants, et traiter l'ambiguïté comme un défaut de politique.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] ont constaté que demander à des enseignants en formation d'écrire leurs propres politiques d'IA en classe fonctionne comme une construction rhétorique du monde quant à la finalité de l'écriture — une fenêtre sur des croyances émergentes que la discussion abstraite n'ouvre pas. Parce que l'IA sépare l'écriture-comme-produit de l'écriture-comme-processus, les programmes devraient aider les enseignants à situer où vivent réellement la pensée, l'apprentissage et la valeur à travers le remue-méninges, la rédaction, la révision et l'édition, plutôt que de situer la pensée uniquement dans le texte final, et devraient les accompagner pour traduire leurs croyances en règles opérationnelles et non ambiguës associées à un enseignement de la [[ai-literacy|littératie en IA]] : des contradictions comme interdire le texte généré par l'IA tout en tenant les étudiants responsables des contenus générés par l'IA qu'ils soumettent rendent les étudiants incapables de s'y conformer.
 - **Apprendre aux enseignants à lire la recherche primaire qui sous-tend les politiques d'IA.** Un cours de méthodes de recherche de cycle supérieur de six semaines, orienté vers la consommation de recherche plutôt que vers sa production : une enseignante a appliqué le cadre d'évaluation critique à un programme imposé par son district et présenté l'analyse à sa directrice, et plusieurs ont adopté le [[socratic-method|questionnement socratique]] avec leurs propres élèves [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+Parce qu'un modèle amplifie les connaissances pédagogiques de contenu (PCK) qu'un enseignant possède déjà, les novices sont le groupe le plus exposé à des conseils disciplinaires confiants mais injustifiés, ce qui fait du mentorat et de la vérification départementale le remède développemental plutôt que des modules individuels de littératie en IA ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« L'acceptation de l'IA chez les enseignants en formation initiale est une attitude unique. »** **128 enseignants en formation initiale** ont été répartis en quatre groupes d'acceptation de ChatGPT, dont les **Resistant Skeptics (14,06 %), qui déclaraient une facilité d'usage perçue élevée mais une très faible intention comportementale**. La facilité d'usage et l'intention se séparaient dans ce groupe, si bien qu'une intervention axée sur l'[[usability-research|utilisabilité]] les laisserait inchangés.
@@ -167,3 +170,6 @@ Au-delà des contenus et des croyances, la préparation des enseignants recourt 
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Un modèle heutagogique à deux niveaux reliant la régulation réflexive des enseignants à l'autonomie des apprenants
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Des enseignants du primaire et du secondaire apprenant à lire la recherche primaire sur l'IA et à contester les directives de leur district
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Des enseignants en formation initiale comme apprenants : les groupes en désaccord sur l'énergie faisaient de l'IA un centre de la conversation conceptuelle, les groupes d'accord la traitaient comme un annuaire et rejetaient les relances proactives (Wang et al. 2026)
+
+- [[webb-pck-genai-2026]] — Pourquoi un modèle amplifie le PCK ténu d'un novice, et pourquoi le remède est collectif plutôt qu'un module de littératie en IA (Webb et coll. 2026)
+

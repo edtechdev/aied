@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -181,6 +181,8 @@ De eerste Theory of Planned Behavior-studie naar wangedragintentie via GAIT brei
 
 De OECD (2023) noteert dat begin 2024 geen van achttien onderzochte landen specifieke regelgeving voor generatieve AI in het onderwijs had en dat negen het bestuur naar schoolniveau hadden gedelegeerd. Gelezen door Ahmeds non-performativiteit drukt het vocabulaire ethische responsiviteit uit zonder enig mechanisme om die te verwezenlijken, zodat verantwoordelijkheid door elke actor tegelijk wordt ingeroepen en bij geen enkele wordt gelokaliseerd. Hashem noemt het resultaat een veranderende **fraudehabitus**: disposities tot legitieme deelname worden herkalibreerd onder chronische onbepaaldheid, gestratificeerd naar het academisch kapitaal dat studenten meebrengen, waarbij bedrog en bedrogen worden gelijktijdige toestanden zijn in plaats van alternatieven. Alles wordt voorgesteld op basis van beleidstekst, niet waargenomen bij studenten.
 
+Onder 546 bachelorstudenten stond integriteit op de eerste plaats van vijf perceptiedimensies (3,79 van 5) en verschilde niet per opleiding, wat de disciplinaire variatie plaatst in AI-gebruik en vaardigheidsvraag in plaats van in hoe belangrijk integriteit is ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Veelvoorkomende misverstanden
 
 - **"Detectietools identificeren AI-schrijfwerk."** Door AI gegenereerde tekst is **in tot 80% van de gevallen als door mensen geschreven doorgegaan**, terwijl het bewijs voor detectie **machinale detectie op ongeveer 80% plaatst tegen 78,4% voor menselijke beoordelaars**. Menselijk en machinaal oordeel zijn bijna even (on)betrouwbaar, dus een detectieverdict is geen bewijs van auteurschap.
@@ -258,3 +260,4 @@ De OECD (2023) noteert dat begin 2024 geen van achttien onderzochte landen speci
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Vier UNESCO- en OECD-documenten als discours gelezen: zwevende verantwoordelijkheid en een veranderende fraudehabitus (Hashem 2026)
 - [[issa-teamwork-framework-academic-integrity-2024]] — Teamwerk met verificatie per lid als auteurschapsgerichte beoordeling (Issa en Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Verantwoordbaarheid in plaats van tekstaandeel: het legitimeringsdeficit van auteurschap in mens–AI-cocreatie (Hong et al. 2026)
+- [[crisol-moya-integrity-assessment-2026]] — 546 studenten: integriteit staat eerste en is gelijk over opleidingen heen (Crisol Moya et al. 2026)

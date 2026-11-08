@@ -1,7 +1,7 @@
 ---
 title: 技術受容モデル
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_of: concepts/technology-acceptance-model
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -81,6 +81,8 @@ TOEは、受容を技術的・組織的・環境的文脈によって形成さ�
 
 - **教師にとっての受容レバーとしての[[explainable-ai|説明可能性]]と領域との関連性：** 教師のAI推薦受容に自動化への信頼理論を応用した[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggorら（2025）]]は、理解しやすさ（説明可能AIによって高められる）がAIグルーピングツールへの信頼と受容の両方に正に相関すること、そして[[curriculum-design|カリキュラム]]の言葉による領域主導の説明は、データ駆動の特徴量重要度に基づく説明を3つの指標すべてで上回ることを見出しました。受容はさらに[[pedagogy|教授法]]との整合性と業務削減の可能性によっても駆動されました——これは標準的なTAM/UTAUT構成概念がほとんど捉えない、信頼を超えた状況的要因であり、受容モデルに文脈と説明可能性を加えることの妥当性を裏付けています。
 - **教材の水準で測定された受容（2026年）。** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang & Wu（2026）]]は、794名の[[k-12]]学生と37名の教師が使用した年齢層別のAIリテラシーガイドブック2種について、業績期待、努力期待、知覚された遊び心、行動意図を操作化し、標本分割EFAとCFAによって4因子構造を検証し、9-12歳版と13-18歳版の間で測定不変性を支持する結果を得ました。若い学習者は4つの構成概念すべてで高い値を報告し、遊び心は両コホートにおいて行動意図の最も強い相関変数でした——若年層グループでは標準化された遊び心から意図への係数が1.00を超え、2つの構成概念間のHTMTは.950でした。著者らはこれを構成概念の重複と抑制の可能性として読み解いており、教材に適用された受容尺度が構造的解釈を複雑にする経験的に絡み合った因子を生み出しうることを示す有益な注意喚起となっています。
+
+22 人の教員を対象とした二波のインタビュー研究では、AI についてより多くを学ぶことが、一部の教員をより受容的にするのではなく、より慎重にしました。これは、経験から使用の容易さへというモデルが前提とする方向を逆転させるものです（[[stalboerger-faculty-perceptions-2026|Stalboerger ら（2026年）]]）。
 
 ## 限界と拡張
 
@@ -162,4 +164,5 @@ TAMの認知的焦点は、AI使用の感情的・関係的次元も捉えきれ
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — タスク–技術適合と結合した TAM、加えてニューラルネットワークの重要度順位と必要条件のしきい値（Chu & Liu 2026）
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM 信念の上流にある設計特徴、そして必要性ではない重要度
 - [[pinedo-genai-adoption-marketing-students-2026]] — すでに採用済みの集団において習慣が UTAUT2 を担う
+- [[stalboerger-faculty-perceptions-2026]] — 22 人の教員、12 の追跡：親しみが一部の倫理的吟味を強め、使用の容易さという方向を逆転させた（Stalboerger et al. 2026）
 

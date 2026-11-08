@@ -1,7 +1,7 @@
 ---
 title: "교사 교육"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -105,6 +105,8 @@ ai_assist:
 - **교실 정책 작성 활동을 교사 교육의 핵심 활동으로 만들고, 모호함을 정책의 결함으로 다루십시오.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss(2026)]]은 예비 교사에게 자신의 교실 AI 정책을 작성하게 하는 것이 글쓰기의 목적이 무엇인지에 관한 수사학적 세계 구축으로 기능하며, 추상적 토론이 열어 주지 않는 신념의 창이 됨을 발견했습니다. AI가 글쓰기-산출물과 글쓰기-과정을 분리하기 때문에, 프로그램은 교사들이 브레인스토밍, 초안 작성, 수정, 교열 전반에 걸쳐 사고와 학습과 가치가 실제로 어디에 있는지 — 최종 텍스트에만 사고를 두지 않고 — 파악하도록 돕고, 신념을 실행 가능하고 모호하지 않은 규칙으로 옮기도록 지원해야 합니다. 이때 [[ai-literacy]] 교육이 함께 제공되어야 합니다. AI가 생성한 텍스트를 금지하면서도 학생이 제출하는 AI 생성 콘텐츠에 책임을 묻는 것과 같은 모순은 학생이 준수할 수 없는 상태를 만듭니다.
 - **AI 정책 뒤의 1차 연구를 읽도록 교사를 가르치십시오.** 생산이 아니라 연구 소비를 겨냥한 6주 대학원 연구 방법 강좌에서 한 교사는 비판적 평가 틀을 학군이 요구한 교육과정에 적용해 그 분석을 교장에게 발표했고, 여러 교사는 자신의 학생들과 [[socratic-method|소크라테스식 질문법]]을 도입했습니다([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 
+모형은 교사가 이미 지닌 개인적 PCK를 증폭하므로, 초보자는 확신에 차 있으나 근거 없는 교과 특화 조언에 가장 노출된 집단입니다. 따라서 발달적 해법은 개별 AI 리터러시 모듈이 아니라 멘토링과 학과 차원의 검증입니다([[webb-pck-genai-2026|Webb 등, 2026]]).
+
 ## 흔한 오해
 
 - **"예비 교사의 AI 수용은 하나의 태도다."** **예비 교사 128명**이 네 개의 ChatGPT 수용 집단으로 분류되었고, 그중 **저항적 회의론자(14.06%)는 지각된 사용 용이성이 높으면서도 행동 의도는 매우 낮았습니다**. 그 집단에서 용이성과 의도가 갈라졌으므로, [[usability-research|사용성]] 중심의 개입은 그들을 바꾸지 못합니다.
@@ -168,3 +170,5 @@ ai_assist:
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 교사 자신의 성찰적 조절을 학습자 주체성에 잇는 학습자 주도 학습의 이중 층위 모형
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 1차 AI 연구를 읽고 학군의 요구를 문제 삼는 K-12 교사들
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 예비 교사가 학습자일 때: 에너지에 관해 의견이 갈린 집단은 AI를 개념 대화의 중심으로 만들고, 일치한 집단은 조회용으로 다루었다(Wang 등 2026)
+
+- [[webb-pck-genai-2026]] — 모형이 초보자의 얇은 PCK를 증폭하는 이유, 그리고 해법이 AI 리터러시 모듈이 아니라 집단적인 이유(Webb 등 2026)

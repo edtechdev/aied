@@ -1,7 +1,7 @@
 ---
 title: Akademische Integrität
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -186,6 +186,8 @@ Die erste Theory-of-Planned-Behavior-Studie zu GAIT-basierten Fehlverhaltensabsi
 
 Die OECD (2023) hält fest, dass Anfang 2024 keines von achtzehn untersuchten Ländern eine spezifische Regulierung generativer KI für Bildung hatte und neun die Governance auf die Schulebene delegiert hatten. Gelesen durch Ahmeds Begriff der Non-Performativität drückt das Vokabular ethische Responsivität ohne irgendeinen Mechanismus aus, sie umzusetzen, sodass Verantwortung von jedem Akteur zugleich angerufen und in keinem verortet wird. Hashem benennt das Ergebnis einen sich wandelnden **cheating habitus**: Dispositionen zu legitimer Teilnahme, neu kalibriert unter chronischer Unbestimmtheit, geschichtet nach dem akademischen Kapital, das Studierende mitbringen, wobei Schummeln und betrogen zu werden als gleichzeitige Bedingungen statt als Alternativen behandelt werden. Alles davon wird aus Politiktext vorgeschlagen, nicht an Studierenden beobachtet.
 
+Über 546 Studierende im Grundstudium hinweg rangierte Integrität an erster Stelle unter fünf Wahrnehmungsdimensionen (3,79 von 5) und unterschied sich nicht nach Studiengang, was disziplinäre Variation in KI-Nutzung und Kompetenzanforderungen verortet statt darin, wie viel Integrität zählt ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Detektionswerkzeuge identifizieren KI-Schreiben.“** KI-generierter Text hat **in bis zu 80% der Fälle als menschlich verfasst gegolten**, während die Evidenz zur Detektion **maschinelle Detektion bei etwa 80% gegenüber 78,4% für menschliche Bewertende** verortet. Menschliches und maschinelles Urteil sind nahezu gleich (un)zuverlässig, sodass ein Detektionsurteil kein Beleg für Autorschaft ist.
@@ -264,4 +266,5 @@ Die OECD (2023) hält fest, dass Anfang 2024 keines von achtzehn untersuchten L�
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — Teamassessment mit Verifikation pro Mitglied als Authentifizierungsdesign (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Rechenschaftspflicht statt Textanteil als Integritätsproblem
+- [[crisol-moya-integrity-assessment-2026]] — 546 Studierende: Integrität rangiert an erster Stelle und ist über Studiengänge hinweg gleich (Crisol Moya et al. 2026)
 

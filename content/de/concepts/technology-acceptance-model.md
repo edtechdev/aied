@@ -1,7 +1,7 @@
 ---
 title: Technologieadoptionsmodelle
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,8 @@ Das Hinzufügen einer [[tpack|TPACK]]-Familien-Fähigkeit neben Glaubensrahmen w
 - **ML-Determinanten der ChatGPT-Adoption:** Ein explorativer ML-Ansatz untersuchte, wie Wahrnehmungen und Demografie der Studierenden mit beabsichtigter akademischer ChatGPT-Nutzung zusammenhängen, unter Nutzung von SHAP-Analyse, um zentrale lernbezogene Konstrukte zu identifizieren —, wobei Bildungsbedeutung über die Maximierung algorithmischer Leistung priorisiert wird ([[determinants-chatgpt-use-higher-education-2026]]).
 - **[[explainable-ai|Erklärbarkeit]] und Domänenrelevanz als Akzeptanzhebel für Lehrkräfte:** Unter Anpassung von Vertrauen-in-Automatisierung-Theorie an die Akzeptanz von KI-Empfehlungen durch Lehrkräfte fanden [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]], dass Verständlichkeit (erhöht durch erklärbare KI) positiv mit sowohl Vertrauen als auch Akzeptanz eines KI-Gruppierungswerkzeugs korrelierte, und dass domänengetriebene Erklärungen in [[curriculum-design|curricularer]] Sprache datengetriebene Merkmalsbedeutungs-Erklärungen in allen drei übertrafen. Akzeptanz wurde zusätzlich durch [[pedagogy|pädagogische]] Ausrichtung und Arbeitslastreduktionspotenzial getrieben —, situative Faktoren jenseits von Vertrauen, die Standard-TAM/UTAUT-Konstrukte selten erfassen, was den Fall für die Erweiterung von Adoptionsmodellen um Kontext und Erklärbarkeit verstärkt.
 - **Akzeptanz, gemessen auf der Ebene von Unterrichtsmaterialien (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] operationalisierten Leistungserwartung, Aufwandserwartung, wahrgenommene Verspieltheit und Verhaltensabsicht für zwei altersgestufte KI-Kompetenz-Leitfäden, genutzt von 794 [[k-12|K-12]]-Studierenden und 37 Lehrkräften, validierten die Vier-Faktoren-Struktur mit Stichproben-gesplitteter EFA und CFA und stützten Messinvarianz über die 9-12- und 13-18-Ausgaben. Jüngere Lernende berichteten höhere Werte auf allen vier Konstrukten, und Verspieltheit war der stärkste Korrelat der Absicht in beiden Kohorten —, wobei der standardisierte Verspieltheit-zu-Absicht-Koeffizient in der jüngeren Gruppe 1.00 überstieg und ein HTMT von .950 zwischen den beiden Konstrukten lag. Die Autoren lesen das als Konstruktüberlappung und mögliche Unterdrückung statt als Riesen-Effekt, eine nützliche Erinnerung, dass auf Materialien angewandte Akzeptanzinstrumente empirisch verwickelte Faktoren produzieren können, die strukturelle Interpretation komplizieren.
+
+In einer zweiwelligen Interviewstudie mit 22 Lehrenden machte mehr Wissen über KI einige vorsichtiger statt aufgeschlossener, was die im Modell angenommene Wirkrichtung von Erfahrung auf Benutzerfreundlichkeit umkehrt ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
 ## Grenzen und Erweiterungen
 
@@ -165,4 +167,5 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM mit Task–Technology Fit verbunden, plus neuronale Netzwerk-Wichtigkeitsrangfolge und Necessary-Condition-Schwellen (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Designmerkmale stromaufwärts der TAM-Überzeugungen, und Wichtigkeit, die nicht Notwendigkeit ist
 - [[pinedo-genai-adoption-marketing-students-2026]] — Gewohnheit trägt UTAUT2 in einer bereits adoptierenden Population
+- [[stalboerger-faculty-perceptions-2026]] — 22 Lehrende, 12 Nachbefragungen: Vertrautheit schärfte für einige die ethische Prüfung und kehrte die Richtung der Benutzerfreundlichkeit um (Stalboerger et al. 2026)
 

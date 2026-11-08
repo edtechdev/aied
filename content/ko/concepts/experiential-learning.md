@@ -1,13 +1,13 @@
 ---
 title: 경험 학습
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ AI 지원 [[design-education|설계 교육]]에서의 직접 손대는 학습에
 경험 학습은 [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], 그리고 [[higher-ed]] 전문가 준비에 연결됩니다.
 
 업무 통합 경험이 고급 역량의 구속 조건이 될 수 있습니다: 스마트 제조 랩의 후원 캡스톤 프로젝트 89건에 걸쳐, [[career-development-and-readiness|Workforce Readiness]] Level 6에서 7로의 발전은 추가 강좌가 아니라 산업에 내장된 배치에 의해 관문이었습니다([[workforce-readiness-smart-manufacturing-wrl-2026|Smith 등(2026)]]).
+
+지역사회 참여 연구 26편에 걸쳐 AI는 준비(18편)와 실행(15편)에 집중되었고 평가(8편)와 성찰(3편)에서 얇아졌습니다. 따라서 봉사 학습에서 순환의 후반부이자 통합적인 국면이 여전히 설계의 공백으로 남습니다([[yusuf-service-learning-mapping-2026|Yusuf 등, 2026]]).
 
 ## 흔한 오해
 
@@ -110,3 +112,5 @@ AI 지원 [[design-education|설계 교육]]에서의 직접 손대는 학습에
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — AI 지원 설계 교육에서 체화된 직접 손대기를 인지적 직접 손대기와 구별하는 주제 검토(Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — 세 가지 생성형 AI 메커니즘을 중심으로 재구성된 전략 경영 강좌
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 지원 학습에서 메타인지 인식을 위한 경험 세션 대 강의 세션(Benazet i Montobbio 등 2026)
+
+- [[yusuf-service-learning-mapping-2026]] — 봉사 학습 순환에 대응시킨 26개 연구: AI는 평가와 성찰에서 얇아진다(Yusuf 등 2026)

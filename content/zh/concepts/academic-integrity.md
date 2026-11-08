@@ -1,7 +1,7 @@
 ---
 title: 学术诚信
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -185,6 +185,8 @@ ai_assist:
 
 OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有一个制定了针对教育的生成式 AI 专门监管，其中九个把治理下放到学校层面。以 Ahmed 的"非述行性"来读，这套词汇表达了伦理上的回应性，却没有任何落实机制，于是责任被每一个行动者同时援引，却不在任何一处落地。Hashem 把结果命名为一种变化中的**作弊习性**：在长期不确定性下重新校准的、朝向正当参与的倾向，并因学生带来的学术资本而分层，作弊与"被作弊"被当作并发状况而非备选。这一切都是从政策文本中提出的，而非在学生身上观察到的。
 
+在 546 名本科生中，诚信在五个感知维度中排名第一（5 分制的 3.79 分），且不因学位项目而异；这说明学科间的差异在于 AI 使用与技能需求，而不在于诚信有多重要（[[crisol-moya-integrity-assessment-2026|Crisol Moya 等，2026]]）。
+
 ## 常见误解
 
 - **"检测工具能识别 AI 写作。"** AI 生成的文本**在高达 80% 的案例中被当作人写作的文本通过**，而检测方面的证据显示**机器检测率约为 80%，人工评定者为 78.4%**。人与机器的判断几乎同样（不）可靠，因此一个检测裁决并不是作者身份的证据。
@@ -263,4 +265,5 @@ OECD（2023）记录，截至 2024 年初，受调查的 18 个国家中没有�
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — 以逐成员核验的小组作业评估作为一种认证设计（Issa 与 Hall 2024）
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — 可回答性而非文本比例才是诚信问题
+- [[crisol-moya-integrity-assessment-2026]] — 546 名学生：诚信排名第一，且在各学位项目间持平（Crisol Moya 等 2026）
 

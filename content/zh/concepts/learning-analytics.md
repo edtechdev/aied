@@ -1,7 +1,7 @@
 ---
 title: 学习分析
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,8 @@ ai_assist:
 
 仪表盘与早期预警系统集中了[[automation-bias]]的风险：一个标记断言了一项判断，而人可能因为该标记存在而接受它，而不是因为它被核查过。
 
+在多模态指标保持不变、仅加入叙事性解释的情况下，职前教师的解读（η² = 0.166）与意义建构（η² = 0.220）都有提升，而可行动的转化没有变化——瓶颈在解释层，而不在数据（[[liu-teaching-analytics-dashboard-2026|Liu 等，2026]]）。
+
 ## 常见误解
 
 - **"知识状态估计的效度会从数据中继承。"** **把题目链接到属性的 Q 矩阵是一个假设，而非数据**：**918 道分析题中有 14 道**的条目被拒，意味着这一映射本身需要裁定。验证映射是一个步骤，而不是例行公事。
@@ -197,3 +199,4 @@ ai_assist:
 - [[thomas-breaking-learning-system-wall-2026]] — 迈向以多模态辅导转录打破学习系统壁垒（Thomas 等人 2026）
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 完成率可能掩盖一次投入度崩塌
 - [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 主要是在观察：感知角色占编码角色标签的 62.5%，且没有受综述的系统在学习者使用中融合多模态流（Kim 与 Han 2026）
+- [[liu-teaching-analytics-dashboard-2026]] — 主动控制微格教学研究隔离出解释层：解读移动了，行动没有（Liu 等 2026）

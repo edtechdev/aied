@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoribildning på lärarsidan gör nu samma åtagande om prövbarhet: Capability
 - **Paradigm för människa-GAI-[[student-engagement|engagemang]].** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] bemöter fältets "teoribrist" genom att förankra sju förverkligade paradigm för människa-GAI-engagemang (vaktat, möjlighetsinriktat, förstärkt, pionjärt, symbiotiskt, värdebaserat, [[equity-in-ai-education|rättvist]]) i Schommers flerdimensionella modell av personliga epistemologiska övertygelser — en epistemologisk, snarare än verktygsfokuserad, teori om hur individer positionerar sig olika i förhållande till AI.
 - **Ramverket för ekologisk sam-agens.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] hävdar att [[generative-ai|generativ AI]] omfördelar epistemisk auktoritet från lärare till elever till maskiner, och introducerar ett ramverk som definierar sam-agens genom tre ömsesidigt beroende dimensioner — relationell, regulatorisk (mappad mot [[self-regulated-learning|SRL-cykeln]]) och [[pedagogy|pedagogisk]] (kontinuum för läraradoption) — alla begränsade av ett icke förhandlingsbart villkor om mänskligt epistemiskt ansvar (bestridbarhet, proveniens och icke-delegering av moralisk eller intellektuell ära). Det positionerar [[agency|agens]] som ett *epistemiskt* designproblem snarare än en [[usability-research|användbarhets]]fråga, och ger institutioner ett mer precist språk än "balans" för att styra GenAI-integration.
 - **Relationell epistemisk agens och epistemiskt beroende.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] bidrar med en kritiskt-integrativ redogörelse för när AI-medierat förlitande bevarar respektive tränger undan omdömet. De operationaliserar gränsen mellan produktivt förlitande och skadligt beroende genom sex diagnostiska kriterier (bestridbarhet, återställbarhet, överföring, spårbarhet, distribuerat ansvar, epistemisk pluralitet) och spårar fyra sociotekniska vägar (flytande auktoritet, friktionsfri delegering, ogenomskinlig syntes, institutionaliserat beroende). Deras normativa förslag, **relationell epistemisk agens**, utvidgar linjerna för relationell autonomi och epistemisk sam-agens genom att behålla en explicit asymmetri — AI får forma resonemang utan ömsesidigt ansvar eller legitim auktoritet — samtidigt som det integrerar ansvar och epistemisk rättvisa på institutionsnivå. Som teori om lärande med AI flyttar den fältets fråga från om AI hjälper eller skadar till vilka epistemiska handlingar som bevaras, transformeras eller trängs undan, och den gör *designen av beroende* snarare än blotta användningen till föremål för pedagogisk och institutionell intervention.
+
+Modellens utdata lyfts till status som kollektiv kunskap utan den gemenskapsgaranti som statusen kräver — det Webb et al. (2026) kallar pseudo-cPCK, och skälet till att fältet behöver en ny teoretisk konstruktion snarare än ett bättre gränssnitt ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Att föra etablerad teori framåt
 
@@ -166,3 +168,4 @@ Teoriutveckling och [[philosophy-of-ai-in-education|filosofin om AI i utbildning
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificiell intelligens-samhörighet: ett tredimensionellt begrepp med sex falsifierbara propositioner för senare prövning
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cykeln för kognitivt partnerskap
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Önskvärda svårigheter och produktivt misslyckande tillämpade på tolkande agens i utlandsstudier
+- [[webb-pck-genai-2026]] — Tre vinjetter och en ny konstruktion, pseudo-cPCK, för utdata som imiterar kollektivt validerad kunskap utan garanti (Webb et al. 2026)

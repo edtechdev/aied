@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: 智能辅导
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ TeachLM 认为稀缺的成分是真实的学习者—辅导者互动：在 100,0
 ### ITS 研究要点
 
 - **辅导平台的微观随机试验：** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al.（2026）]] 在 GCSE [[biology-education|生物]]、[[chemistry-education|化学]]与 [[physics-education|物理]]中开展了一项为期四周、多站点的个体随机评估，对象是 Medly 平台，929 名学生中有 644 人完成了后测；与常规 [[self-directed-learning|自主]]复习相比，分配使用该平台产生的效应量为 Hedges' g = 0.33（95% CI 0.18 至 0.48），三个科目均为正向估计，且没有证据表明存在因弱势（Pupil Premium）而产生的差异效应（Pupil Premium g = 0.28 对比非 Pupil Premium g = 0.35）。
+- **一项美国 K-12 元分析把平均效应定在 g = 0.271。** 跨 18 项实验，示例解答与学生主动请求的提示承载了效应，而自动触发的提示没有；实施超过六个月的项目则衰减至不显著的 g = 0.110（[[leite-its-k12-meta-analysis-2025|Leite 等，2025]]）。
 - **[[lak2026-hint-button-unproductive-use|提示按钮研究]]** 表明，传统 ITS 的提示设计可能无意中助长绕过策略，因此需要更精细的 [[scaffolding]] 方法。
 - **[[deeptutor]]** 提供了一个完全 [[open-source]] 开放的智能体式辅导框架，具有引用有据的辅导与难度校准的 [[automated-question-generation|题目生成]]能力。
 - **[[huang-interpretable-knowledge-tracing-2026|可解释的知识追踪]]** 通过从 LLM logits 产出可解释的认知量，回应了不透明性问题。
@@ -197,6 +198,7 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 - [[speech-and-voice-technologies]]
 
 ## 关联文章
+- [[leite-its-k12-meta-analysis-2025]] — 美国 K-12 元分析：18 项实验，g = 0.271，以及调节它的因素（Leite 等 2025）
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE：揭示 LLM 辅导工具在多解编程问题上的回应性缺口（Cen & Sonkar 2026）
 - [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是取代学生的推理？AI 辅助证明学习中的认知卸载（Chen et al. 2026）
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：针对有挑战行为的学生评估 LLM 辅导工具（Park et al. 2026）

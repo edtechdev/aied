@@ -1,7 +1,7 @@
 ---
 title: "एआई फीडबैक की गुणवत्ता"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,8 @@ ai_assist:
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] DeepSeek के स्पष्ट तर्क-चिह्नों को फीडबैक-सुविधा के रूप में परखते हैं और पाते हैं कि दृश्य तर्क टिप्पणी का आधार लेखक के लिए निरीक्षण-योग्य बनाता है, जबकि मॉडल उच्च-स्तरीय निर्णय, जैसे तर्क-प्रस्तुति, अब भी मानव को सौंपता है।
 
+पहले मोड़ पर सही उत्तर तीसरे तक गलत हो सकता है: 11 मॉडलों में 12.7 प्रतिशत अधिकार-दबाव में गलत उत्तर की ओर पलट गए, इसलिए प्रतिपुष्टि की गुणवत्ता पहली प्रतिक्रिया पर नहीं, पूरे संवाद में आँकनी होगी ([[liu-educational-sycophancy-2026|लियू और कोरोलोवा, 2026]])।
+
 ## सामान्य भ्रांतियाँ
 
 - **"छात्र AI प्रतिपुष्टि को स्वीकार्य पाते हैं, इसलिए वह अच्छी है।"** **छात्र-अनुभूत गुणवत्ता स्वीकार्यता से अधिक मिश्रित है**: **93 स्नातकों में से 77 ने AI प्रतिपुष्टि को समझने में आसान पाया, फिर भी 68 ने उसे दोहरावपूर्ण पाया और 79** ने कुछ और कमी बताई। समझ और असंतोष एक ही समूह में साथ रहे।
@@ -193,3 +195,4 @@ ai_assist:
 
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 68 अध्ययनों में तीन मूल्यांकन आयाम, रूब्रिक संरेखण सबसे पतला (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157 रेटेड फीडबैक संदेशों में मानदंड-स्तरीय और रेटर-स्तरीय भिन्नता (Vanhoyweghen et al. 2026)
+- [[liu-educational-sycophancy-2026]] — शुद्धता संवाद-निर्भर है: पुशबैक के तहत 12.7 प्रतिशत पलटाव (लियू और कोरोलोवा 2026)

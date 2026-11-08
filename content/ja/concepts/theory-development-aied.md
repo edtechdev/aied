@@ -1,7 +1,7 @@
 ---
 title: 教育分野におけるAIの理論発展
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_of: concepts/theory-development-aied
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -63,6 +63,8 @@ AI時代のために既存の枠組みを応用するのではなく、明示的
 - **人間とGAIの[[student-engagement|関与]]パラダイム。** [[strydom-human-gai-paradigms-2026|Strydom（2026）]]は、この分野の「理論不足」に取り組み、7つの実践される人間とGAIの関与パラダイム（防御的、可能性志向、拡張的、先駆的、共生的、価値志向、[[equity-in-ai-education|公平性]]）を、個人的認識論的信念に関するSchommerの多次元モデルに基づかせています——これは、個人がAIに対して異なる仕方で自らを位置づける仕組みについての、道具焦点ではなく認識論的な理論です。
 - **生態学的共働性の枠組み。** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal（2026）]]は、[[generative-ai|生成AI]]が認識論的権威を教師から学生へ、そして機械へと再割り当てすると論じ、3つの相互依存的な次元——関係的、規制的（[[self-regulated-learning|SRLサイクル]]に対応づけ）、[[pedagogy|教授法的]]（教師の受容連続体）——を通じて共働性を定義する枠組みを導入します。そのすべては、人間の認識的説明責任（争論可能性、出自、道徳的・知的功績の非委任）という交渉不可能な条件によって境界づけられています。これは[[agency]]を[[usability-research|ユーザビリティ]]の関心事ではなく*認識的*設計問題として位置づけ、生成AIの統合を統治するために「バランス」よりも精密な言葉を制度に与えます。
 - **関係的認識的エージェンシーと認識的依存。** [[du-yuan-epistemic-dependence-2026|Du & Yuan（2026）]]は、AIを媒介とする依存がいつ判断を保つか、それを排除するかについての批判的・統合的説明を寄与しています。彼らは6つの診断基準（争論可能性、回復可能性、転移、追跡可能性、分散された責任、認識的多元性）を通じて、生産的依存／有害な依存の境界を操作化し、4つの社会技術的経路（流暢な権威、摩擦のない委任、不透明な総合、制度化された依存）を跡づけます。彼らの規範的提案である**関係的認識的エージェンシー**は、関係的自律性と認識的共働性の系譜を、明示的な非対称性——AIは相互の責任や正当な権威なしに推論を形づくりうる——を保持しつつ拡張し、制度的水準で責任と認識的正義を統合します。AIと共に学ぶことの理論として、それはこの分野の問いをAIが助けるか害するかから、どの認識的行動が保たれ、変形させられ、排除されるかへと移し、単なる使用ではなく*依存の設計*を教授法的・制度的介入の対象とします。
+
+モデルの出力は、その地位が要求する共同体の保証なしに、集合的な知識の地位へと上昇します。Webb ら（2026年）が疑似 cPCK（pseudo-cPCK）と呼ぶものであり、この分野がよりよいインターフェースではなく新しい理論的構成概念を必要とする理由です（[[webb-pck-genai-2026|Webb ら（2026年）]]）。
 
 ## 確立された理論の発展
 
@@ -164,3 +166,4 @@ AI時代のために既存の枠組みを応用するのではなく、明示的
 - [[ai-connectedness-adolescent-mental-health-2026]] — 人工知能つながり。後の検証のための6つの反証可能な命題を持つ3次元の構成概念
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — 認知的パートナーシップ・サイクル
 - [[friction-paradox-generative-ai-education-abroad-2026]] — 留学教育における解釈的エージェンシーに適用された望ましい困難と生産的な失敗
+- [[webb-pck-genai-2026]] — 三つの事例と、共同体の検証を伴わずに集合的知識を模倣する出力のための新しい構成概念 pseudo-cPCK（Webb ら 2026）

@@ -1,14 +1,14 @@
 ---
 title: 人文科学と社会科学の教育
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ SSHの教育は、[[stem-education|STEM教育]]と[[language-learning|言語学�
 
 SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面に出します。独創的な著作、解釈的な判断、批判的な分析、文脈に敏感な意味づくりです。ナレッジベースはこの領域を、AIの道具的で技能に基づく枠づけに対する重大な釣り合いの重しとして扱います。AIに支えられた学習が[[critical-thinking|批判的思考]]、認識論的な責任、解釈の自律性を保つかどうかを問うのです。[[critical-pedagogy|批判的教育学]]と[[ai-literacy|AIリテラシー]]につながります。
 
+人文科学の教育は、資料の収集と草稿作成にエージェント型 AI を使い始めており、それによってこの分野の評価の問いは、テキストが生成されたかどうかから、解釈を学生に帰属させられるかどうかへと移っています（[[capodieci-humanities-hil-2026|Capodieci ら（2026年）]]）。
+
 ## 人文科学と社会科学の教育者にとっての含意
 
 - **AIを認識論的な媒介者として扱い、内容のチューターとしては扱わない。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]は、AIがSSHにおける意味づくり、著作、主体性を組み替えることを示します。3つの軌道(AI依存的、AI増強的、AI批判的)を軸に[[design-education|教授法を設計]]し、AI批判的な端を目指してください。
@@ -96,4 +98,5 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 - [[genai-values-education-affordances-risks-2026]] — 価値教育における生成的AI：アフォーダンス、倫理的リスク、教授への含意(Chen 2026)
 
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — 成果物が証拠立てられるものとしての課題の形式と AI 利用の指示（Liu & Liu 2026）
+- [[capodieci-humanities-hil-2026]] — 人文科学の学習におけるエージェント型 AI と、テキストの著作から解釈の帰属への移行（Capodieci ら 2026）
 

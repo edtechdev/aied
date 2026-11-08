@@ -1,7 +1,7 @@
 ---
 title: 学術的インテグリティ
 created: "2026-10-10T21:52:23-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -179,6 +179,8 @@ GAIT に基づく不正行為の意図に関する最初の計画的行為理論
 
 OECD（2023）は、2024年初頭の時点で、調査した18か国のいずれも教育における特定の生成AI規制を持たず、9か国が統治を学校レベルに委ねていたことを記録しています。Ahmedの非遂行性を通して読めば、その語彙は、それを制定する機構を欠いたまま倫理的な応答性を表現しており、責任はすべての行為者によって同時に呼び出され、どこにも位置づけられません。Hashemはその結果を変化する**カンニングのハビトゥス**と名づけます。すなわち、慢性的な不確定性の下で再較正され、学生が持ち込む学術的な資本によって層化される正当な参加への性向であり、カンニングすることとカンニングされることが代替ではなく同時の条件として扱われます。これはすべて政策のテキストから提案されたものであり、学生において観察されたものではありません。
 
+546 人の学部生を対象とした調査では、インテグリティは五つの認識次元の中で第一位（5 点満点中 3.79）であり、学位プログラムによる差は見られませんでした。これは、学科による差異が、インテグリティをどれほど重視するかではなく、AI の利用と技能への要求にあることを示しています（[[crisol-moya-integrity-assessment-2026|Crisol Moya ら（2026年）]]）。
+
 ## よくある誤解
 
 - **「検出ツールは AI の文章を特定する。」** AI が生成したテキストは**最大 80% の事例で人間が書いたものとして通っており**、検出についての証拠は**機械による検出が約 80%、人間の評価者が 78.4%** としています。人間と機械の判断はほぼ同じ程度に信頼でき（あるいは信頼できず）、検出の判定は著作性の証拠ではありません。
@@ -256,4 +258,5 @@ OECD（2023）は、2024年初頭の時点で、調査した18か国のいずれ
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — メンバーごとの検証を伴うチームワーク評価を認証の設計として（Issa & Hall 2024）
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — インテグリティの問題はテキストの割合ではなく説明責任にある
+- [[crisol-moya-integrity-assessment-2026]] — 546 人の学生：インテグリティは第一位で、学位プログラムを問わず一様（Crisol Moya et al. 2026）
 

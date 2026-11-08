@@ -1,7 +1,7 @@
 ---
 title: "Tutorat intelligent"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 connected_resources: [deeptutor, openmaic, learnharness]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,9 @@ Les systèmes tutorat intelligent représentent l'un des domaines les plus ancie
 ### Key ITS research
 
 - **Essais micro-randomisés d'une plateforme de tutorat :** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] ont mené une évaluation randomisée individuelle multi-sites de quatre semaines de Medly en [[biology-education|biologie]], [[chemistry-education|chimie]] et [[physics-education|physique]] de GCSE, avec 644 des 929 étudiants ayant passé le post-test ; l'affectation à la plateforme a produit un g de Hedges = 0.33 (IC à 95% de 0.18 à 0.48) par rapport à des révisions [[self-directed-learning|autonomes]] usuelles, avec des estimations positives dans les trois matières et aucune preuve d'impact différentiel selon le désavantage (Pupil Premium g = 0.28 contre non-Pupil Premium g = 0.35).
+
+- **Une méta-analyse américaine en K-12 situe l'effet moyen à g = 0.271.** Sur 18 expériences, les exemples travaillés et les indices demandés par les étudiants portaient l'effet, tandis que les indices déclenchés automatiquement ne le faisaient pas, et les mises en œuvre au-delà de six mois s'effaçaient jusqu'à un g = 0.110 non significatif ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
+
 - **Recherche sur le bouton d'indice ([[lak2026-hint-button-unproductive-use|hint button research]])** montre que la conception traditionnelle des indices dans les ITS peut, sans le vouloir, activer des stratégies de contournement, ce qui appelle des approches d'[[scaffolding|étayage]] plus sophistiquées.
 - **[[deeptutor]]** fournit un cadre de tutorat agentique entièrement [[open-source|open source]] avec un tutorat fondé sur des citations et une [[automated-question-generation|génération de questions]] calibrée en difficulté.
 - **Le [[huang-interpretable-knowledge-tracing-2026|traçage de connaissances interprétable (Interpretable Knowledge Tracing)]]** répond au problème d'opacité en produisant des quantités cognitives interprétables à partir des logits des LLM.
@@ -206,6 +209,7 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[speech-and-voice-technologies]]
 
 ## Articles liés
+- [[leite-its-k12-meta-analysis-2025]] — Méta-analyse américaine en K-12 : 18 expériences, g = 0.271, et ce qui le modère (Leite et al. 2025)
 
 - [[learnlm-eedi-expanded-rct-2026]] — Essai randomisé élargi au Royaume-Uni : gains de transfert proche mais aucun avantage aux tests standardisés à 10 semaines (LearnLM Team, Google et Eedi 2026)
 

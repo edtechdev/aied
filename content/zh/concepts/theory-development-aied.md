@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能中的理论发展
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ ai_assist:
 - **生态共同行动性框架（The Ecological Co-Agency Framework）。** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal（2026）]] 论证 [[generative-ai|生成式 AI]] 把认识论权威从教师重新分配给学生、再分配给机器，并引入一个通过三个相互依存的维度定义共同行动性的框架——关系维度、调节维度（映射到 [[self-regulated-learning|SRL cycle]]）与 [[pedagogy|pedagogical]] 维度（教师采纳连续体）——全部受一个不可让渡的条件约束：人的认识论责任（可争议性、来源可溯、道德/智识信用的不可委派）。它把 [[agency]] 定位为一个*认识论*设计问题，而非 [[usability-research|usability]] 问题，为机构提供了比"平衡"更精确的语言来治理 GenAI 整合。
 
 - **关系性认识论能动性与认识论依赖。** [[du-yuan-epistemic-dependence-2026|Du 与 Yuan（2026）]] 对 AI 中介的依赖何时保留判断、何时取代判断，给出一个批判—整合性论述。他们用六个诊断标准（可争议性、可恢复性、可迁移性、可溯性、责任分散、认识论多元性）操作化"生产性依赖/有害性依赖"的边界，并追踪四条社会技术路径（流畅权威、无摩擦委派、不透明综合、制度化依赖）。他们的规范性提议**关系性认识论能动性**，在扩展关系自主性与认识论共同行动性脉络的同时保留一种显性的不对称——AI 可以塑造推理而无需承担对等的责任或正当的权威——同时在机构层面整合责任与认识论正义。作为一种与 AI 共同学习的理论，它把本领域的问题从"AI 是有益还是有害"转移到"哪些认识行为被保留、被转化还是被取代"，并使*依赖的设计*而非单纯的使用，成为教学与机构干预的对象。
+
+模型的输出上升到集体知识的地位，却不具备该地位所需的共同体担保——Webb 等（2026）称之为 pseudo-cPCK，这也正是该领域需要一个新的理论构念、而非一个更好的界面的原因（[[webb-pck-genai-2026|Webb 等，2026]]）。
 
 ## 推进既有理论
 
@@ -175,3 +177,4 @@ ai_assist:
 - [[ai-connectedness-adolescent-mental-health-2026]] — 人工智能联结性：一个含六个待检验可证伪命题的三维构念
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — 认知伙伴关系循环
 - [[friction-paradox-generative-ai-education-abroad-2026]] — 把合意困难与生产性失败应用于海外教育中的解释性行动性
+- [[webb-pck-genai-2026]] — 三段情境案例与一个新构念 pseudo-cPCK：模仿经集体验证的知识却无担保的输出（Webb 等 2026）

@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: "concepts/academic-integrity"
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -182,6 +182,8 @@ Prvá štúdia teórie plánovaného správania o zámere nekalého konania zalo
 OECD (2023) zaznamenáva, že na začiatku roka 2024 žiadna z osemnástich skúmaných krajín nemala špecifickú reguláciu generatívnej AI pre vzdelávanie a deväť delegovalo riadenie na úroveň školy. Čítané cez Ahmedovu non-performatívnosť, slovník vyjadruje etickú vnímavosť bez akéhokoľvek mechanizmu na jej uskutočnenie, takže zodpovednosť je vyvolávaná všetkými aktérmi naraz a lokalizovaná v žiadnom. Hashem výsledok nazýva meniacim sa **habitusom podvádzania**: dispozície k legitímnej participácii prekalibrované pod chronickou neurčitosťou, stratifikované podľa akademického kapitálu, ktorý študenti prinášajú, pričom podvádzanie a byť podvedený sa považujú za súbežné stavy, nie alternatívy. Všetko je navrhnuté z textu politiky, nie pozorované na študentoch.
 
 
+Medzi 546 bakalárskymi študentmi sa integrita umiestnila na prvom mieste z piatich dimenzií vnímania (3,79 z 5) a nelíšila sa podľa študijného programu, čo zaraďuje odborovú variáciu do používania AI a nárokov na zručnosti, a nie do toho, aká dôležitá je integrita ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Časté mylné predstavy
 
 - **„Detekčné nástroje identifikujú písanie AI."** Text generovaný AI **prešiel ako ľudský autorský v až 80 % prípadov**, zatiaľ čo dôkazy pre detekciu stavajú **strojovú detekciu na približne 80 % oproti 78,4 % u ľudských posudzovateľov**. Ľudský a strojový úsudok sú takmer rovnako (ne)spoľahlivé, takže verdikt detektora nie je dôkazom autorstva.
@@ -259,3 +261,4 @@ OECD (2023) zaznamenáva, že na začiatku roka 2024 žiadna z osemnástich skú
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: k ľudsky čitateľnému, pre stroje odolnému čítaciemu rozhraniu
 - [[issa-teamwork-framework-academic-integrity-2024]] — Hodnotenie tímovou prácou s overovaním každého člena ako dizajn autentifikácie (Issa a Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Zodpovedateľnosť namiesto podielu textu ako problém integrity
+- [[crisol-moya-integrity-assessment-2026]] — 546 študentov: integrita je prvá a naprieč programami rovnaká (Crisol Moya et al. 2026)

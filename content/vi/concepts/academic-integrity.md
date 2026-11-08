@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:51-05:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -178,6 +178,8 @@ Nghiên cứu đầu tiên về Lý thuyết Hành vi Có kế hoạch đối v�
 
 OECD (2023) ghi nhận rằng tính đến đầu năm 2024, không quốc gia nào trong mười tám quốc gia được khảo sát có quy định cụ thể về AI sinh tạo cho giáo dục và chín quốc gia đã giao quản trị xuống cấp trường. Đọc qua khái niệm phi-hiệu năng của Ahmed, từ vựng đó thể hiện sự đáp ứng đạo đức mà không có bất kỳ cơ chế nào để thực hiện nó, nên trách nhiệm được mọi tác nhân viện dẫn cùng lúc và không nằm ở ai cả. Hashem gọi kết quả đó là một **habitus gian lận** đang thay đổi: những khuynh hướng tham gia hợp pháp được hiệu chỉnh lại dưới sự bất định kinh niên, phân tầng theo vốn học thuật mà sinh viên mang theo, với việc gian lận và việc bị người khác gian lận được coi là những điều kiện đồng thời thay vì những lựa chọn thay thế. Tất cả điều này được đề xuất từ văn bản chính sách, không phải được quan sát ở sinh viên.
 
+Trong 546 sinh viên đại học, tính chính trực xếp thứ nhất trong năm chiều nhận thức (3,79 trên 5) và không khác biệt theo chương trình đào tạo, điều này đặt sự khác biệt giữa các ngành vào mức sử dụng AI và nhu cầu kỹ năng chứ không phải vào mức độ quan trọng của tính chính trực ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Những hiểu lầm phổ biến
 
 - **"Công cụ phát hiện nhận diện được văn bản AI."** Văn bản do AI tạo đã **được chấp nhận như do người viết trong tới 80% trường hợp**, trong khi bằng chứng cho phát hiện đặt **phát hiện bằng máy ở khoảng 80% so với 78.4% của người chấm**. Phán đoán của người và của máy gần như (không) đáng tin ngang nhau, nên một kết luận từ công cụ phát hiện không phải là bằng chứng về quyền tác giả.
@@ -256,3 +258,4 @@ OECD (2023) ghi nhận rằng tính đến đầu năm 2024, không quốc gia n
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — Đánh giá làm việc nhóm với kiểm chứng theo từng thành viên như một thiết kế xác thực (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Khả năng trả lời thay vì tỷ lệ văn bản là vấn đề liêm chính
+- [[crisol-moya-integrity-assessment-2026]] — 546 sinh viên: tính chính trực đứng đầu và đồng đều giữa các chương trình (Crisol Moya et al. 2026)

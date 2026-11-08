@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
@@ -179,6 +179,8 @@ První studie teorie plánovaného chování o záměru pochybení založeném n
 
 OECD (2023) uvádí, že na začátku roku 2024 neměla žádná z osmnácti dotázaných zemí specifickou regulaci generativní AI pro vzdělávání a devět delegovalo řízení na úroveň školy. Čteno Ahmedovou neperformativitou, slovník vyjadřuje etickou vnímavost bez jakéhokoli mechanismu, jak ji uskutečnit, takže odpovědnost je vzývána všemi aktéry najednou a neuložena v nikom. Hashem výsledek nazývá měnící se **habitus podvádění**: dispozice k legitimní účasti přenastavené při chronické neurčitosti, stratifikované akademickým kapitálem, který studenti přinášejí, přičemž podvádění a být podveden se považují za souběžné podmínky, nikoli alternativy. To vše je navrženo z textu politiky, nikoli pozorováno u studentů.
 
+Mezi 546 studenty bakalářského studia se integrita umístila na prvním místě z pěti dimenzí vnímání (3,79 z 5) a nelišila se podle studijního programu, což řadí oborovou variaci do používání AI a nároků na dovednosti, nikoli do toho, jak moc na integritě záleží ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Časté mylné představy
 
 - **„Nástroje detekce identifikují psaní AI."** Text generovaný AI **prošel jako lidský v až 80 % případů**, zatímco důkazy o detekci staví **strojovou detekci na zhruba 80 % proti 78,4 % u lidských hodnotitelů**. Lidský a strojový úsudek jsou téměř stejně (ne)spolehlivé, takže verdikt detekce není důkazem autorství.
@@ -254,3 +256,4 @@ OECD (2023) uvádí, že na začátku roku 2024 neměla žádná z osmnácti dot
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — hodnocení týmové práce s ověřováním každého člena jako návrh autentizace (Issa a Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Odpovědnost, nikoli podíl textu, jako problém integrity
+- [[crisol-moya-integrity-assessment-2026]] — 546 studentů: integrita je první a napříč programy stejná (Crisol Moya et al. 2026)

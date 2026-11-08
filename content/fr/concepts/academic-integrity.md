@@ -1,7 +1,7 @@
 ---
 title: "Intégrité académique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T19:07:26-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -185,6 +185,9 @@ La première étude fondée sur la théorie du comportement planifié (Theory of
 
 L'OCDE (2023) rapporte qu'au début de 2024, aucun des dix-huit pays interrogés n'avait de réglementation spécifique de l'IA générative pour l'éducation et que neuf avaient délégué la gouvernance au niveau de l'école. Lu à travers la non-performativité d'Ahmed, le vocabulaire exprime une réceptivité éthique sans aucun mécanisme pour l'accomplir, si bien que la responsabilité est invoquée par tous les acteurs à la fois et située chez aucun. Hashem nomme le résultat un **habitus de triche** en mutation : des dispositions à la participation légitime recalibrées sous une indétermination chronique, stratifiées par le capital académique que les étudiants apportent, la triche et le fait d'être trompé étant traités comme des conditions concurrentes plutôt que comme des alternatives. Tout cela est proposé à partir de textes de politique, non observé chez les étudiants.
 
+Chez 546 étudiants de premier cycle, l'intégrité s'est classée première parmi cinq dimensions de perception (3,79 sur 5) et ne variait pas selon le programme d'études, ce qui situe la variation disciplinaire dans l'usage de l'IA et la demande de compétences plutôt que dans l'importance accordée à l'intégrité ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Les outils de détection identifient l'écriture de l'IA. »** Du texte généré par IA a **été accepté comme rédigé par un humain dans jusqu'à 80 % des cas**, tandis que les données probantes sur la détection situent **la détection machine à environ 80 % contre 78,4 % pour les évaluateurs humains**. Le jugement humain et le jugement machine sont presque également (peu) fiables, si bien qu'un verdict de détection n'est pas une preuve de paternité.
@@ -260,4 +263,7 @@ L'OCDE (2023) rapporte qu'au début de 2024, aucun des dix-huit pays interrogés
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI : vers une interface de lecture lisible par l'humain et résistante aux machines
 - [[issa-teamwork-framework-academic-integrity-2024]] — l'évaluation du travail d'équipe avec vérification par membre comme dispositif d'authentification (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — La capacité de répondre plutôt que la proportion de texte comme problème d'intégrité
+
+- [[crisol-moya-integrity-assessment-2026]] — 546 étudiants : l'intégrité arrive en tête et reste stable d'un programme à l'autre (Crisol Moya et al. 2026)
+
 

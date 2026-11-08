@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-08T00:26:41-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ ai_assist:
 
 측정 교훈은 보기보다 좁습니다. 분류기는 텍스트가 얼마나 성찰적으로 읽히는지를 추정합니다. 성찰이 실제로 일어났는지는 알 수 없으며, 그것은 유창한 모델이 흉내 낼 수 있는 바로 그 수준의 성능입니다.
 
+같은 대시보드 비계는 성찰적 글쓰기에서 분석적 깊이와 평가적 깊이를 끌어올렸지만(η² = 0.623 및 0.627) 서술과 행동 계획은 그대로 두었습니다. 따라서 비계는 교사가 수업에 관해 추론하는 방식을 심화하면서도 다음에 무엇을 할지 계획하는 것은 바꾸지 않을 수 있습니다([[liu-teaching-analytics-dashboard-2026|Liu 등, 2026]]).
+
 ## 저널, 포트폴리오, 프롬프트라는 전달 체계
 
 이 구성개념은 대개 세 가지 매체로 전달되며, 각각 고유한 실패 양식이 있습니다.
@@ -111,6 +113,8 @@ ai_assist:
 [[teachers-reflective-regulators-cognition-offloading|Ho와 Chen(2026)]]은 중국 본토와 홍콩의 교사 18명에게서 과정 관점을 더합니다. 그들의 진술은 GenAI를 사용해야 한다는 필요의 인식, 인지의 재분배, 사용 이후의 성찰적 재참여로 정리됩니다. [[reflective-triangle-model-teacher-ai-2026|성찰 삼각 모델(2026)]]은 교사 6명과의 4주 사례에서 전문적 학습 공동체 전반의 자기 성찰, 협력적 성찰, 공동체 성찰을 연결하며, AI를 평가자가 아니라 인지적 매개자로 둡니다.
 
 준비는 도구와 독립적으로도 중요합니다. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang 외(2026)]]은 예비 교사 60명을 대상으로 한 2 × 2 설계에서 메타인지 전략 훈련을 위약 모듈과 교차하고, LLM을 [[socratic-method|소크라테스식]] 성찰 파트너로 구성한 조건과 전통적 디지털 도구를 교차했습니다. 두 주효과 모두 사후 검사에서 글쓰기 성찰의 질에 유의했습니다.
+
+AI를 활용한 봉사 학습 연구 26편을 대응시킨 결과, 성찰은 가장 적게 다루어진 국면이었습니다 — 세 편만이 성찰에 이르렀고 네 국면을 모두 다룬 연구는 한 편이었습니다 — 따라서 봉사를 학습으로 바꾸는 국면이 AI 지원이 가장 얇은 곳입니다([[yusuf-service-learning-mapping-2026|Yusuf 등, 2026]]).
 
 ## 성찰 프롬프트가 그것이 기르려는 모니터링을 대체할 위험
 
@@ -200,3 +204,6 @@ ai_assist:
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 입장 논문: 성찰 프롬프트가 내구성 있는 자기 모니터링을 기른다는 증거는 없습니다(de Jong 2026)
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAI를 피드백 제공자이자 종합자로 둔 16주 WordPress e-포트폴리오(Ni & Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — e-포트폴리오 평가에 정렬된 ChatGPT, Wilks' λ = 0.476, partial η² = 0.524(Sutama 2026)
+
+- [[liu-teaching-analytics-dashboard-2026]] — 하나의 비계가 분석적·평가적 깊이를 끌어올린 반면 행동 계획은 그대로였다(Liu 등 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26개 연구 대응: 성찰은 봉사 학습 순환에서 가장 적게 다루어진 국면이다(Yusuf 등 2026)

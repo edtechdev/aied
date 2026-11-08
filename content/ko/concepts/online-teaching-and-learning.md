@@ -1,7 +1,7 @@
 ---
 title: 온라인 교수와 학습
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 - **혼합 및 하이브리드 학습.** 대면과 온라인 구성요소를 의도적으로 결합하여, 디지털 활동, 자료, 상호작용을 대면 교수와 통합하는 모형. 혼합 형식은 교수에게 무엇을 동기적으로 대 비동기적으로, 온라인 대 대면으로 하는 것이 최선인지를 결정하도록 요구합니다 — AI가 지원하고 복잡하게 만드는 [[learning-design]] 원칙이 조직하는 결정. 혼합 맥락에서 AI 도구는 [[personalized-learning|개인화]]와 상시 가용한 지원의 기회를 제공하면서, 온라인과 대면 부분 모두에 걸친 정직성과 오프로딩 위험을 제기합니다. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain 등(2026)]]은 이를 두 가지 혼합 환경 — 뒤집힌 대학 교실과 직업 교육의 [[reflection|성찰적 쓰기]] — 에서 예시합니다. 학습 분석 [[visualization|대시보드]](DashED)가 ML에서 나온 [[self-regulated-learning]] 프로파일을 교사에게 전달했습니다. 채택 우려는 맥락에 따라 갈렸습니다: 뒤집힌 교실(대학) 교사는 데이터 익명화와 학생 거부를 가장 걱정한 반면, 성찰적 쓰기(직업 교육) 교사는 동료 교육자가 도구를 오용할 것을 우려하고 데이터를 맥락화할 필요를 강조했습니다. 사용에서 뒤집힌 교실 교사는 순차적 탐구를 따르고 강좌 수준 적응과 교실에서의 대시보드 표시를 선호한 반면, 직업 교육 교사는 요약 페이지를 다시 방문하고 도구를 주로 개별 코칭 세션에 사용했습니다 — 혼합 분석 설계가 맥락 인식적이어야 한다는 증거입니다.
 - **동기 대 비동기 설계.** 이 구분은 전달 매체보다 더 중요합니다. 두 형식이 학습자에게 정반대의 요구를 하기 때문입니다. 동기 세션은 주의, 속도, 책무성을 세션 자체 안에 담습니다; 비동기 강좌는 그것을 설계로 들여와야 합니다. 학습자가 언제 일할지를 혼자 결정하고 방으로부터의 주변적 책무성을 받지 않기 때문입니다. 연구 기반은 종종 이것을 흐립니다: 지식베이스의 온라인 학습에서의 AI와 [[student-engagement|참여]]에 대한 검토(연구 24편)는 참여만을 다루며 동기와 비동기 맥락을 명시적으로 혼용하므로, 그 결론은 비동기 특정적으로 읽혀서는 안 됩니다. 비동기 특정적인 것은 자기 주도 학습자가 초점과 속도를 잃는 방식에 대한 증거입니다: 목표 설정, 환경 구조화, 시간 관리 같은 자기규제 행동이 낮은 디지털 주의 분산과 가장 많이 동시에 나타나며([[decreasing-digital-distraction-college-online-learning-2026|Shi 등 2026]], 학생 530명), 메타인지 지식과 [[well-being]]는 한 학기 동안 밀집된 평가 마감일에 발맞춰 쇠퇴합니다([[song-genai-learning-partner-srl-over-time-2026|Song 등 2026]], 학생 75명). 실천적 상응물은 [[asynchronous-online-courses-ai|AI가 작업을 할 수 있을 때 비동기 강좌를 설계하고 촉진하기]]에 관한 FAQ입니다.
 - **원격 교육.** 원격으로 공부하는 학습자를 위해 설계된 프로그램으로, 종종 규모 있고 지역에 걸쳐 있습니다(예: Open University의 200K+ 학습자). 원격 학습은 24/7 맥락 내장 AI 지원과 대면 감독의 불가능성이 가장 두드러지는 곳입니다. 남아프리카 공화국 교사 준비로부터의 비교 증거는 매체 자체가 준비도와 연관됨을 보여 줍니다: [[ai-training-science-teacher-tpack-distance-2026|Mnguni 등(2026)]]은 AI 통합 과학교수를 위한 [[self-report-measures|자기보고]] TPACK가 캠퍼스 기반 대학교(64.0%)의 최종 학년 학생 교사가 원격 교육 대학교(47.4%)보다 높음을 발견했고, 두 환경 모두에서 가장 약하게 보고된 영역은 교수법 지식이었습니다. 이 패턴은 원격 프로그램이 같은 AI 훈련이 같은 준비도를 낳는다고 가정할 수 없으며, 달라지는 것은 훈련의 존재가 아니라 훈련의 설계임을 경고합니다.
+
+하나의 비동기 강좌에 공동 등록한 두 캠퍼스에서 학생 19명 가운데 적어도 한 명은 캠퍼스 간 상호작용을 전혀 경험하지 못했습니다. 따라서 공동 등록은 일정 편성상의 사실일 뿐, 온라인 강좌가 전제하는 또래 맥락을 만들어 내는 설계가 아닙니다([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
 
 ## 온라인 교수와 학습을 위한 AI의 기회와 이익
 
@@ -196,3 +198,5 @@ ai_assist:
 - [[ai-training-science-teacher-tpack-distance-2026]] — 캠퍼스 기반 학생 교사가 원격 교육 동료보다 AI 통합 과학교수를 위한 TPACK를 더 높게 보고(64.0% 대 47.4%)
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 역할 설계가 개입이며, 도구가 아니다
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 일하는 교사를 위한 6주 비동기 대학원 강좌: 압축이 아니라 형식을 재설계하기
+
+- [[aggarwal-genai-cybersecurity-2026]] — 두 캠퍼스의 학생 19명: 공동 등록이 일부에게 캠퍼스 간 상호작용을 낳지 못했다(Aggarwal 2026)

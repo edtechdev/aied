@@ -1,14 +1,14 @@
 ---
 title: 教師教育
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_of: concepts/teacher-education
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -103,6 +103,8 @@ ai_assist:
 - **教室の政策の執筆を教師教育の中核的な活動とし、あいまいさを政策の欠陥として扱う。** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]]は、養成前段階の教師に自分の教室の AI 政策を書かせることが、書くことが何のためかをめぐる修辞的な世界構築として機能することを見出しました——抽象的な議論では開かない、創発的な信念への窓です。AI は書くことを成果と過程に切り離すため、プログラムは教師が、思考、学習、価値が実際にどこにあるのかを、最終的なテキストの中だけにではなく、発想、下書き、推敲、編集にわたって見つけられるよう支えるべきです。そして信念を、[[ai-literacy]]の指導と対になった、運営可能で明確な規則に翻訳するのを支えるべきです。AI が生成したテキストを禁じながら、学生が提出する AI が生成した内容に対して責任を負わせるといった矛盾は、学生に従う術を残しません。
 - **AI政策の背後にある一次研究を読むことを教師に教えてください。** 研究成果の生産ではなく消費を狙った6週間の大学院の研究方法のコースでは、ある教師が批判的評価の枠組みを地区で義務づけられたカリキュラムに適用し、その分析を校長に提示しました。複数の教師は自分の生徒とともに[[socratic-method|ソクラテス式の問いかけ]]を採用しました([[packard-thinking-partner-framework-adult-learners-2026|Packardら(2026)]])。
 
+モデルは教師がすでに持っている個人的な PCK を増幅するため、新人は、自信に満ちているが根拠のない教科固有の助言に最も晒される集団です。したがって、発達上の処方は個人向けの AI リテラシー教材ではなく、メンタリングと学部内での検証です（[[webb-pck-genai-2026|Webb ら（2026年）]]）。
+
 ## よくある誤解
 
 - **「養成前段階の教師のAI受容は単一の態度である。」** **128人の養成前段階の教師**を4つのChatGPT受容の集団にプロファイル化したところ、**Resistant Skeptics(14.06%)は知覚された使いやすさが高い一方で行動の意図は極めて低い**と報告しました。その集団では使いやすさと意図が分離したため、[[usability-research|使いやすさ]]駆動の介入では彼らは変わらないままです。
@@ -168,4 +170,5 @@ ai_assist:
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 一次的なAI研究を読み、地区の義務を争うことを学ぶK-12の教師
 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 学習者としての養成前段階の教師：エネルギーについて意見が分かれた集団はAIを概念的議論の中心にし、一致した集団は調べ物として扱い、能動的な促しを嫌った（Wang ら 2026）
+- [[webb-pck-genai-2026]] — モデルが新人の薄い PCK を増幅する理由と、処方が AI リテラシー教材ではなく集合的である理由（Webb ら 2026）
 

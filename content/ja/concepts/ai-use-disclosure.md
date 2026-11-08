@@ -1,8 +1,8 @@
 ---
 title: AI の利用と開示の表明
 created: "2026-10-10T22:26:30-04:00"
-updated: "2026-11-07T20:21:19-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T10:12:52-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -53,6 +53,7 @@ AI の利用表明は、学生に課題での生成AIの利用の有無と方法
 - **曖昧で懲罰的な方針が隠蔽を招く。** AI 利用の方針が不明確だったり、運用されていなかったり、禁止だったりする場合、学生は関与するのではなく利用を隠します。「特定の状況での限定的利用」を認める方針が開示を最もよく予測します。「認められない」または「知らない」方針は隠蔽を予測します。明確で一貫した協働的な方針が繰り返し求められています。
 - **開示には心理的コスト——そして隠れたコスト——がある。** 学生は表明を自己申告と見なし、AI の利用は電卓を使うのと同じように私的なことだと考える人もいます。[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.（2026）]]は、「常に」開示した学生が告発されるオッズが 3 倍を超えていたことを発見しました——透明性は疑いを招くことがあります。[[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.（2026）]]は、心配が開示を抑圧するのではなく仲間に向け直し、学生を教員のフィードバックから切り離すことを発見しました。
 - **開示は自己調整学習と絡み合っている。** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.（2026）]]は、教員主導の開示を適応的な援助要請——援助を可視化し外的な調整を招くこと——として解釈し、一方で隠蔽（特に AI の多用者の間）は不適応的な調整に似ているとしています。構造化された形成的な開示は、効果的な自己調整を特徴づける[[metacognition|メタ認知的]]な振り返りと倫理的推論を促進できます。
+- **抑止の構造は対象によって分かれる。** 466 人の学生の間では、非開示が見つかるという確信がより好意的な態度と関連する一方（β = 0.643）、申告することが不適切な利用を明らかにするという確信はより否定的な態度と関連し（β = −2.175）、非開示への罰則が重いほど態度と統制感の両方と負に関連していました。不適切な利用に関する推定は共線性のある予測子（分散膨張率が 9 を超える）に依拠しているため、不安定です（[[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu ら（2026年）]]）。
 - **開示の規範は専門分野、言語、文脈によって異なる。** 教育学、社会科学、および[[stem-education|STEM]]/保健系の学生は、経営学の学生よりも多く開示します。単一言語話者の学生は[[multilingual-learning|多言語話者]]の学生よりも開示が少ない可能性があります。ある研究では留学生の開示が少なく、[[equity-in-ai-education|公平性]]への懸念を提起しています。開示の規範は、学修の進展に伴って自動的に発達するわけではありません。
 - **開示の規範は専門職プログラムでは未確定である。** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley（2025）]]は、ABA 認定の米国ロースクールの間で、AI の利用がどのようなものでも開示が必要かどうかについて意見が分かれていること、教員に提出される学生の開示フォームについて記述し、学術的な文章や授業の文章が AI をどう引用すべきかについて合意がないことを報告しています——Bluebook 自体も沈黙したままです。彼らはまた、開示が最終的に、学生が検索エンジンを使ったと記すことが無意味に見えるのと同じようになるだろうと予測しており——これは今書かれている規則の賞味期限についての警告です——そして規範の問題を[[legal-education|法学教育]]に根ざさせています。
 
@@ -113,6 +114,7 @@ AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]
 - [[social-norms-ai-use]] — 学習者が開示せず隠すことを選ぶ理由
 
 ## 関連する記事
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM による分割：検出の確信と、申告が不適切な利用を明らかにするリスク（Liu et al. 2026）
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 鏡像の方向: AI が仕事を採点するときを学生に伝え、アップロードの前に同意を求める
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

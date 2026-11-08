@@ -1,7 +1,7 @@
 ---
 title: AI 거버넌스
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -108,6 +108,8 @@ AI 거버넌스는 [[ethics]](그것이 작동하게 하는 원칙), [[higher-ed
 
 - **인간 중심 체계는 도구가 아니라 해석을 중심에 둡니다.** 사명 중심의 한 리버럴 아츠 칼리지에서 교수진은 구조화된 Education Day 동안 생성형 AI 지원 평가 마법사(Assessment Wizard)를 사용했고, 저자들은 인간의 판단이 양보할 수 없는 해석적 권위로 남아야 하며 검증 관문과 거버넌스가 광범위한 이행에 앞서 갖추어져야 한다고 결론짓습니다([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). 순서는 형성과 검증이 먼저, 확장이 다음입니다.
 
+거버넌스 조항은 일반 정책 문서에만 나타났고 신청자를 구속하는 자금 지원 특정 수단에는 전혀 나타나지 않았습니다. 따라서 자금 제공자는 원칙적으로 AI를 통치하면서도 자기가 지원하는 연구에는 아무것도 부과하지 않을 수 있습니다([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## 흔한 오해
 
 - **"대학들은 구속력 있는 AI 정책을 도입했습니다."** **48개 기관** 가운데 **40곳(83%)**이 공개적으로 이용 가능한 문서를 하나 이상 갖고 있었고, 그 40곳에 걸쳐 **거버넌스는 대체로 구속력 있는 규칙이 아니라 지침으로 실현**되었습니다. 공개된 지침은 집행 가능한 정책이 아닙니다.
@@ -176,3 +178,5 @@ AI 거버넌스는 [[ethics]](그것이 작동하게 하는 원칙), [[higher-ed
 - [[kaze-ai-management-higher-ed-2026]] — 고등 교육에서의 AI 도입: 지정된 AI 관리의 사례(Kaže 외 2026)
 - [[li-su-teacher-genai-decision-making-2026]] — 거버넌스 명료성에서 교사 결정 에피소드로 가는 제안된 경로
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 서비스 운영 문제로서의 행정 AI
+
+- [[chan-ai-policy-gap-2026]] — 거버넌스 언어는 일반 정책에 머물고 신청자를 구속하는 자금 규칙에는 없습니다(Chan 2026)

@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-07T20:34:50-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ ai_assist:
 
 測定についての教訓は、見かけより狭い。分類器は、テキストがどれほど省察的に読めるかを見積もる。それが省察が実際に行われたかどうかを告げることはできず、そしてそれは流暢なモデルが模倣できるまさにその水準の性能である。
 
+同じダッシュボードの足場かけは、省察的ライティングにおける分析的深さと評価的深さを高め（η² = 0.623 と 0.627）、一方で記述と行動計画は横ばいのままでした。したがって足場かけは、教師が次に何をしようと計画するかを変えることなく、授業についての推論の仕方を深めうるのです（[[liu-teaching-analytics-dashboard-2026|Liu ら（2026年）]]）。
+
 ## 配送システムとしてのジャーナル、ポートフォリオ、プロンプト
 
 この構成概念は通常、三つの乗り物によって届けられ、それぞれに固有の失敗の仕方がある。
@@ -111,6 +113,8 @@ ai_assist:
 [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]]は、中国本土と香港の教師18人から過程の見方を加える。その語りは、GenAIを使う必要を認識すること、認知を再分配すること、使用後に省察的に再度関与することへと整理される。[[reflective-triangle-model-teacher-ai-2026|省察の三角形モデル（2026）]]は、教師6人による四週間の一事例において、専門職学習コミュニティをまたいで自己省察、協働的省察、コミュニティの省察を結びつけ、AIを評価者ではなく認知的な媒介者とする。
 
 準備はツールとは独立にも重要である。[[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]]は、メタ認知方略の訓練をプラセボのモジュールと交差させ、さらにLLMを[[socratic-method|ソクラテス的]]な省察パートナーとして構成した条件を従来のデジタルツールと交差させた。教員養成課程の学生60人による2×2のデザインである。事後テストにおける書かれた省察の質に対して、両方の主効果が有意であった。
+
+AI を用いたサービスラーニングの 26 研究の写像では、省察が最も支援の薄い段階でした。そこに到達したのは 3 研究のみで、四つの段階すべてを扱ったのは 1 研究だけであり、サービスを学習に変える段階こそが、AI の支援が最も薄い場所です（[[yusuf-service-learning-mapping-2026|Yusuf ら（2026年）]]）。
 
 ## 省察プロンプトが、それが築こうとする監視を置き換えるリスク
 
@@ -200,3 +204,5 @@ ai_assist:
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 立場論文。省察プロンプトが持続する自己監視を築くという証拠はない（de Jong 2026）
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — GenAIをフィードバックの提供者および統合者とする16週間のWordPress eポートフォリオ（Ni & Lam 2026）
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — eポートフォリオ評価に整合させたChatGPT、Wilksのλ = 0.476、偏η² = 0.524（Sutama 2026）
+- [[liu-teaching-analytics-dashboard-2026]] — 一つの足場かけは分析的・評価的深さを高めたが、行動計画は横ばいのままだった（Liu et al. 2026）
+- [[yusuf-service-learning-mapping-2026]] — 26 研究の写像：省察はサービスラーニングのサイクルで最も支援の薄い段階（Yusuf et al. 2026）

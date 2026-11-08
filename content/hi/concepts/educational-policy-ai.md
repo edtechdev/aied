@@ -1,7 +1,7 @@
 ---
 title: शैक्षिक AI नीति
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -130,6 +130,8 @@ PISA 2022-2025 का एक देश-स्तरीय विश्लेष�
 
 इसी अभाव का एक माँग-पक्ष भी है। [[gillette-partnership-ethics-genai-higher-education-2026|Gillette एट अल. (2026)]] स्वीडन के एक सामाजिक विज्ञान संकाय से माँग-पक्ष प्रमाण जोड़ते हैं: सर्वेक्षण और फोकस-समूह प्रतिभागियों में से 31% ने बिना पूछे नैतिकता उठाई, अधिकांश ने अधिक संस्थागत मार्गदर्शन चाहा, और genAI के पर्यावरणीय परिणाम नीति दस्तावेज़ों में पूरी तरह अनुपस्थित थे।
 
+वित्तपोषक अपने आप में एक नीति-स्तर बनाते हैं: AI मार्गदर्शन वाले 46 निकायों में से 12 ने विशेष रूप से वित्तपोषण से जुड़े नियम जोड़े, और उनमें से किसी भी वित्तपोषण-उपकरण में वे शासन-प्रावधान नहीं थे जो उनकी सामान्य नीतियाँ बताती थीं ([[chan-ai-policy-gap-2026|Chan (2026)]])।
+
 ## सामान्य भ्रांतियाँ
 
 - **"विश्वविद्यालयों के पास वास्तविक AI नीति है।"** **विधिक भाषा से विधिक रूप अधिक दुर्लभ है।** **160 दस्तावेज़ों की स्कोपिंग समीक्षा** में **2.5% उपकरणों में विधिक बल था जबकि 57.5% मार्गदर्शन या टूलकिट थे**। सौ दस्तावेज़ों के बराबर AI शासन का लगभग एक चौथाई हिस्सा गैर-बाध्यकारी मार्गदर्शन है।
@@ -192,4 +194,5 @@ PISA 2022-2025 का एक देश-स्तरीय विश्लेष�
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — इंग्लैंड का EdTech Impact Testbed पूर्वानुमेय शासन के रूप में: पायलट जो वादात्मक प्रमाण देते हैं (Williamson एट अल.)
 
 - [[pandey-davies-he-governance-administrative-ai-2026]] — खरीद शिक्षाशास्त्र से पहले डेटा-परिवेश तय करती है
+- [[chan-ai-policy-gap-2026]] — 46 वित्तपोषकों के 56 दस्तावेज़: 12 वित्तपोषण-विशिष्ट उपकरणों वाली एक शोध-वित्तपोषक नीति-परत (Chan 2026)
 

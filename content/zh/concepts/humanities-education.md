@@ -1,14 +1,14 @@
 ---
 title: 人文与社会科学教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ SSH教育是本知识库中一个独特的学科领域，与[[stem-education]]�
 
 SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、诠释判断、批判分析与情境敏感的意义制造 —— 置于前景。本知识库把这一领域当作对工具性、技能导向之AI框架的关键制衡：它追问AI支持的学习是否保持了[[critical-thinking]]、认识论责任与诠释自主，并连接到[[critical-pedagogy]]与[[ai-literacy]]。
 
+人文学科教学已开始使用智能体式 AI 进行资料汇集与起草，这使该学科的评估问题从文本是否由 AI 生成，转向诠释能否归之于学生（[[capodieci-humanities-hil-2026|Capodieci 等，2026]]）。
+
 ## 对人文与社科教师的启示
 
 - **把AI当作认识中介，而非内容导师。** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]表明AI重构了SSH中的意义制造、作者身份与能动性 —— 围绕三种轨迹（AI依赖、AI增强、AI批判）来[[design-education|设计教学法]]，并以AI批判一端为目标。
@@ -94,3 +96,4 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587个Go8人文艺术单元的计算审计：2026年58.6%的评估条目高度暴露于AI，集中于论文与报告
 - [[genai-values-education-affordances-risks-2026]] — 价值观教育中的生成式 AI：可供性、伦理风险与教学启示（Chen 2026）
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — 任务格式与 AI 使用说明作为制品所能证明的东西（Liu & Liu 2026）
+- [[capodieci-humanities-hil-2026]] — 人文学科学习中的智能体式 AI，以及从文本作者身份转向诠释归属（Capodieci 等 2026）

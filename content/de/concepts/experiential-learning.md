@@ -1,13 +1,13 @@
 ---
 title: Erfahrensorientiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Ein thematischer Review von 32 begutachteten Studien zu handlungsnahem Lernen in
 Erfahrensorientiertes Lernen verbindet sich mit [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]] und der beruflichen Vorbereitung in [[higher-ed]].
 
 Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene Kompetenz sein: Über 89 geförderte Capstone-Projekte in einem Smart-Manufacturing-Labor war der Fortschritt vom [[career-development-and-readiness|Workforce Readiness]] Level 6 auf 7 an in der Industrie eingebettete Praktika gebunden statt an zusätzliche Kursarbeit ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+Über 26 gemeinwesenorientierte Studien hinweg konzentrierte sich KI auf die Vorbereitung (18) und die Handlung (15) und verdünnte sich bei der Evaluation (8) und der Reflexion (3), sodass die späteren, integrativen Phasen des Zyklus die Gestaltungslücke im Service-Learning bleiben ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## Verbreitete Fehlvorstellungen
 
@@ -114,4 +116,5 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — KI-unterstütztes virtuelles Labor für flipped Physiklernen: Wirkung auf Leistung, Motivation und kognitive Belastung von Mittelstufenschülerinnen und -schülern
 
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — Erfahrungsorientierte gegenüber instruktionalen Sitzungen für metakognitives Bewusstsein beim KI-gestützten Lernen (Benazet i Montobbio et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26 Studien auf den Service-Learning-Zyklus abgebildet: KI dünnt bei Evaluation und Reflexion aus (Yusuf et al. 2026)
 

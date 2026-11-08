@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:05:17-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ El historial de escalado forma parte de ese cuadro, y es aleccionador. Los progr
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi y van der Merwe (2026)]] sostienen, desde un aula de noveno grado en Sudáfrica, que una [[educational-policy-ai|política institucional]] que empieza por la restricción cierra las condiciones bajo las cuales la IA podría ampliar en lugar de sustituir al profesorado en contextos de escasez pedagógica, y que los datos de interacción que genera el estudiantado quedan bajo regímenes de gobernanza extranjeros.
 
+El acceso puede saturarse antes que la capacidad: entre 633 estudiantes de ocho universidades beninesas, el 92,3% usaba IA generativa semanalmente y la carga de trabajo, y no la utilidad percibida, impulsaba la adopción, de modo que la brecha ya no consiste principalmente en llegar a la herramienta ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ## Concepciones erróneas
 
 - **«Los contextos de pocos recursos carecen de un marco de ética de la IA y necesitan uno importado.»** El profesorado de secundaria en servicio de STEAM en un contexto de pocos recursos **razona sobre la ética de la IA a partir de la identidad profesional, las realidades del aula y las normas culturales, y no de principios formales**. El razonamiento existe y está situado; una lista de principios universales se traslada mal a él.
@@ -98,3 +100,4 @@ El historial de escalado forma parte de ese cuadro, y es aleccionador. Los progr
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Desarrolladores académicos como mediadores digitales en las instituciones sudafricanas históricamente desfavorecidas: desigualdad digital frente a colonialidad algorítmica
 - [[ai-ethical-awareness-ghana-students-2026]] — Conciencia ética sobre la inteligencia artificial del estudiantado universitario ghanés
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Principios éticos de la IA en educación: el razonamiento ético contextual del profesorado
+- [[gouroubera-genai-benin-2026]] — 633 estudiantes de Benín: uso semanal del 92,3%, la carga de trabajo como motor dominante, así que el acceso ya no es la restricción vinculante (Gouroubera et al. 2026)

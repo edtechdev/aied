@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-05T17:02:43-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,7 @@ La divulgación es el mecanismo que hace *visible* el trabajo asistido por IA y,
 - **Las políticas ambiguas y punitivas favorecen la ocultación.** Cuando las políticas de uso de IA son poco claras, no se aplican o son prohibiciones, el estudiantado oculta su uso en lugar de implicarse. Las políticas de «uso limitado en determinadas situaciones» son las que mejor predicen la divulgación; las de «no permitido» o «no lo sé» predicen la ocultación. Se reclama repetidamente políticas claras, coherentes y colaborativas.
 - **La divulgación tiene costes psicológicos, y costes ocultos.** El estudiantado percibe las declaraciones como una autoincriminación, y algunos creen que el uso de IA es privado, como usar una calculadora. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] encontraron que quienes divulgaban «siempre» tenían más de 3 veces las probabilidades de ser acusados: la transparencia puede invitar a la sospecha. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] encontraron que la preocupación redirige la divulgación hacia los pares en lugar de suprimirla, lo que aísla al estudiantado de la retroalimentación de quien enseña.
 - **La divulgación está entrelazada con el aprendizaje autorregulado.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpretan la divulgación dirigida al profesorado como una búsqueda de ayuda adaptativa —hacer visible la asistencia e invitar a una calibración externa—, mientras que la ocultación (sobre todo entre quienes usan mucho la IA) se parece a una regulación desadaptativa. Una divulgación estructurada y formativa puede promover la reflexión [[metacognition|metacognitiva]] y el razonamiento ético que caracterizan una autorregulación eficaz.
+- **La estructura de disuasión se divide según el objeto.** Entre 466 estudiantes, la certeza de que se detectaría la no divulgación se asoció con actitudes más favorables (β = 0,643), mientras que la certeza de que declarar expondría un uso indebido se asoció con actitudes menos favorables (β = −2,175), y las sanciones más duras por no divulgar se asociaron negativamente tanto con la actitud como con el control. Las estimaciones sobre el uso indebido se apoyan en predictores colineales (inflación de la varianza superior a 9), de modo que son inestables ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu et al., 2026]]).
 - **Las normas de divulgación varían según la disciplina, la lengua y el contexto.** El estudiantado de educación, ciencias sociales y [[stem-education|STEM]]/salud divulga más que el de empresa; el estudiantado monolingüe puede divulgar menos que el [[multilingual-learning|multilingüe]]. En un estudio, el estudiantado internacional divulgaba menos, lo que plantea preocupaciones de [[equity-in-ai-education|equidad]]. Las normas de divulgación no se desarrollan automáticamente con la progresión académica.
 - **Las normas de divulgación no están resueltas en los programas profesionales.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] informan de que las facultades de derecho estadounidenses aprobadas por la ABA no se ponen de acuerdo sobre si debe divulgarse cualquier uso de la IA, describen formularios de divulgación del estudiantado que se presentan al profesorado y no encuentran consenso sobre cómo la escritura académica o de clase debería citar la IA: el propio Bluebook sigue guardando silencio. También predicen que la divulgación acabará pareciendo tan innecesaria como señalar que un estudiante usó un buscador, una advertencia sobre la caducidad de las normas que se están escribiendo ahora, y anclan la cuestión de las normas en la [[legal-education|educación jurídica]].
 
@@ -120,6 +121,7 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[social-norms-ai-use]] — por qué quien aprende elige ocultar en lugar de divulgar
 
 ## Artículos conectados
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Un modelo de ecuaciones estructurales dividido: la certeza de detección frente al riesgo de que declarar exponga un uso indebido (Liu et al. 2026)
 - [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Etiquetas de divulgación de IA, autenticidad percibida y confianza en vídeos instructivos generados por IA
 - [[wu-lam-genai-writing-assessment-professors-2026]] — La dirección inversa: decir al estudiantado cuándo la IA califica su trabajo y preguntar antes de subirlo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Más allá de la detección: cómo el estudiantado usa y oculta la IA en las evaluaciones en línea

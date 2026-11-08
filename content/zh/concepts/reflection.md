@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-07T17:28:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ ai_assist:
 
 测量上的教训比看上去要窄。分类器估计的是一段文本读起来有多反思。它无法判断反思是否真的发生，而这恰恰是一个流畅模型能够模仿的性能水平。
 
+同一个仪表盘支架提升了反思性写作中的分析与评价深度（η² = 0.623 与 0.627），却让描述与行动计划保持不变；因此支架可以加深教师对一堂课的推理，而不改变他们接下来打算做什么（[[liu-teaching-analytics-dashboard-2026|Liu 等，2026]]）。
+
 ## 日志、作品集与提示作为交付系统
 
 这一构念通常由三种载体承载，而每一种都有自己的失效模式。
@@ -111,6 +113,8 @@ ai_assist:
 [[teachers-reflective-regulators-cognition-offloading|Ho 与 Chen（2026）]] 补充了来自中国大陆与香港的 18 名教师的过程视角，其叙述可归结为：认识到使用生成式 AI 的必要、重新分配认知，以及使用之后反思性地重新投入。[[reflective-triangle-model-teacher-ai-2026|反思三角模型（2026）]] 在一个为期四周、涉及六名教师的案例中，把一个专业学习共同体中的自我反思、协作反思与共同体反思连接起来，AI 在此是认知中介者，而不是评价者。
 
 准备本身也独立于工具起作用。[[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang 等（2026）]] 在 60 名职前教师的 2 × 2 设计中，把元认知策略训练与安慰剂模块交叉，并把配置为 [[socratic-method|苏格拉底式]] 反思伙伴的大语言模型与传统数字工具相对照。在后测的书面反思质量上，两个主效应都显著。
+
+在一项对 26 项服务学习中 AI 研究的映射中，反思是得到支持最少的阶段——三项研究触及它，只有一项覆盖全部四个阶段；因此，把服务转化为学习的那个阶段，正是 AI 支持最稀薄之处（[[yusuf-service-learning-mapping-2026|Yusuf 等，2026]]）。
 
 ## 反思提示可能取代它本要建立的监控
 
@@ -200,3 +204,5 @@ ai_assist:
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 立场论文：没有证据表明反思提示能建立持久的自我监控（de Jong 2026）
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16 周 WordPress 电子作品集，生成式 AI 充当反馈提供者与综合者（Ni 与 Lam 2026）
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — 与电子作品集评价对齐的 ChatGPT，Wilks' λ = 0.476，partial η² = 0.524（Sutama 2026）
+- [[liu-teaching-analytics-dashboard-2026]] — 一个支架提升了分析与评价深度，而行动计划保持不变（Liu 等 2026）
+- [[yusuf-service-learning-mapping-2026]] — 26 项研究的映射：反思是服务学习循环中得到支持最少的阶段（Yusuf 等 2026）

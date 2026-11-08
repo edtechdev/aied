@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoriarbeid på lærersiden gjør nå samme forpliktelse på testbarhet: kapasit
 - **Paradigmer for menneske–GAI-[[student-engagement|engasjement]].** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] tar opp feltets «teorimangel» ved å forankre sju praktiserte paradigmer for menneske–GAI-engasjement (beskyttet, mulighetsfokusert, forsterket, banebrytende, symbiotisk, verdibasert, [[equity-in-ai-education|likestilling]]) i Schommers flerdimensjonale modell for personlige epistemologiske overbevisninger — en epistemologisk, snarere enn verktøyfokusert, teori om hvordan individer posisjonerer seg ulikt i forhold til AI.
 - **Rammeverket for økologisk samhandlekraft.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] hevder at [[generative-ai|generativ AI]] omfordeler epistemisk autoritet fra lærere til elever til maskiner, og introduserer et rammeverk som definerer samhandlekraft gjennom tre gjensidig avhengige dimensjoner — relasjonell, regulerende (kartlagt mot [[self-regulated-learning|SRL-syklusen]]) og [[pedagogy|pedagogisk]] (læreradopsjonskontinuum) — alle avgrenset av en ikke-forhandlingsbar betingelse om menneskelig epistemisk ansvarlighet (bestridelighet, proveniens og ikke-delegering av moralsk/intellektuell anerkjennelse). Det posisjonerer [[agency|handlekraft]] som et *epistemisk* designproblem snarere enn en [[usability-research|brukervennlighets]]bekymring, og gir institusjoner et mer presist språk enn «balanse» for å styre GenAI-integrering.
 - **Relasjonell epistemisk handlekraft og epistemisk avhengighet.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] bidrar med en kritisk-integrerende redegjørelse for når AI-formidlet avhengighet bevarer kontra fortrenger dømmekraft. De operasjonaliserer grensen mellom produktiv avhengighet og skadelig avhengighet gjennom seks diagnostiske kriterier (bestridelighet, gjenopprettbarhet, overføring, sporbarhet, distribuert ansvar, epistemisk pluralitet) og sporer fire sosiotekniske baner (flytende autoritet, friksjonsløs delegering, ugjennomsiktig syntese, institusjonalisert avhengighet). Deres normative forslag, **relasjonell epistemisk handlekraft**, utvider relasjonsautonomi- og epistemisk-samhandlekraftslinjene ved å beholde en eksplisitt asymmetri — AI kan forme resonnering uten gjensidig ansvar eller legitim autoritet — mens den integrerer ansvar og epistemisk rettferdighet på institusjonsnivå. Som teori om læring med AI flytter den feltets spørsmål fra om AI hjelper eller skader til hvilke epistemiske handlinger som bevares, transformeres eller fortrenges, og den gjør *designet av avhengighet*, snarere enn bare bruk, til gjenstand for pedagogisk og institusjonell intervensjon.
+
+Modellens output løftes til status som kollektiv kunnskap uten fellesskapsgarantien den statusen krever — det Webb et al. (2026) kaller pseudo-cPCK, og grunnen til at feltet trenger et nytt teoretisk konstrukt snarere enn et bedre grensesnitt ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Å videreutvikle etablert teori
 
@@ -166,3 +168,4 @@ Teoriutvikling og [[philosophy-of-ai-in-education|filosofien om AI i utdanning]]
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cognitive partnership cycle
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Desirable difficulties and productive failure applied to interpretive agency in education abroad
+- [[webb-pck-genai-2026]] — Tre vinjetter og et nytt konstrukt, pseudo-cPCK, for output som etterligner kollektivt validert kunnskap uten garanti (Webb et al. 2026)

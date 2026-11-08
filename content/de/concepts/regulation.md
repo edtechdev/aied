@@ -1,7 +1,7 @@
 ---
 title: KI-Regulierung in der Bildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Ein Audit der Datenschutzrichtlinien von [[edtech-platform|EdTech-Plattformen]] 
 
 Regulierung verbindet sich mit [[educational-policy-ai|Bildungspolitik zur KI]], [[governance|KI-Governance]], [[ethics|Ethik]], [[privacy|Datenschutz]], [[pedagogical-safety|pädagogischer Sicherheit]] und [[academic-integrity|akademischer Integrität]]. Sie ist die institutionelle Schicht, die prägt, wie alle anderen KI-Bildungspraktiken operieren. Regulierung begrenzt und ermöglicht zugleich: Sie setzt die Grenzen akzeptabler KI-Nutzung und schafft zugleich die Bedingungen — durch [[ai-literacy|KI-Kompetenz]] und Erwartungen verantwortungsvoller Nutzung — für [[equity-in-ai-education|gerechte]], sichere Integration.
 
+Regulierung reicht nicht automatisch nach unten durch: 32 Förderstellen, die dort operieren, wo KI-Regeln auf Bundesstaatsebene existieren, veröffentlichten allgemeine Politik, aber kein förderungsspezifisches Instrument, das diese Regeln trägt ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Institutionelle KI-Politik ist der Ort, an dem die Regeln leben."** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson und Rainies (2026)]] Befragung von **1.057 US-amerikanischen Fakultätsangehörigen** misst, wie weit unterhalb der institutionellen Ebene die effektiven Regeln sitzen: **87% der Antwortenden schrieben** ihre eigene Orientierung. Die operative Politik ist weitgehend von Fakultätsangehörigen verfasst, was bedeutet, dass die dokumentierte institutionelle Ebene weniger beschreibt, als es scheint.
@@ -106,3 +108,4 @@ Regulierung verbindet sich mit [[educational-policy-ai|Bildungspolitik zur KI]],
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87 % der Fakultätsangehörigen schreiben ihre eigenen Regeln gegen eine dünne institutionelle Politikebene (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — „Wir machen es später“: Bildung, KI und das Aufschieben des Datenschutzes von Studierenden in EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Keine Vergleichspolitik behandelte einen KI-Agenten, der sich in ein LMS einloggt oder Zugangsdaten von Studierenden hält (Wong & Sun 2026)
+- [[chan-ai-policy-gap-2026]] — Vertikale Nichtübersetzung: Bundesstaatliche Regeln existieren, während die Förderstellen darunter kein bindendes Instrument erlassen (Chan 2026)

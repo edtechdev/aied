@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,9 @@ Le bilan de la mise à l'échelle fait partie de ce tableau, et il est sobre. Le
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi et van der Merwe (2026)]] soutiennent, à partir d'une classe de 9e année en Afrique du Sud, qu'une politique [[educational-policy-ai|institutionnelle]] d'interdiction préalable ferme les conditions dans lesquelles l'IA pourrait étendre plutôt que remplacer les enseignants en situation de pénurie pédagogique, et que les données d'interaction produites par les apprenants sont détenues sous des régimes de gouvernance étrangers.
 
+L'accès peut se saturer avant la capacité : chez 633 étudiants de huit universités béninoises, 92,3 pour cent utilisaient l'IA générative chaque semaine et la charge de travail, plutôt que l'utilité perçue, déterminait l'adoption, si bien que la fracture ne porte plus principalement sur l'accès à l'outil ([[gouroubera-genai-benin-2026|Gouroubera et coll., 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Les contextes à faibles ressources manquent d'un cadre d'éthique de l'IA et doivent en importer un. »** Des enseignants STEAM du secondaire en exercice dans un contexte à faibles ressources **raisonnent l'éthique de l'IA à travers leur identité professionnelle, les réalités de la classe et les normes culturelles plutôt que par des principes formels**. Le raisonnement existe et il est situé ; une liste de principes universels s'y transfère mal.
@@ -104,3 +107,6 @@ Le bilan de la mise à l'échelle fait partie de ce tableau, et il est sobre. Le
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les développeurs pédagogiques comme médiateurs numériques dans les établissements sud-africains historiquement défavorisés : inégalité numérique contre colonialité algorithmique
 - [[ai-ethical-awareness-ghana-students-2026]] — La conscience éthique de l'intelligence artificielle chez les étudiants universitaires ghanéens
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Principes éthiques de l'IA en éducation : le raisonnement éthique contextualisé des enseignants
+
+- [[gouroubera-genai-benin-2026]] — 633 étudiants au Bénin : 92,3 pour cent d'usage hebdomadaire, la charge de travail comme moteur dominant, l'accès n'étant plus la contrainte déterminante (Gouroubera et coll. 2026)
+

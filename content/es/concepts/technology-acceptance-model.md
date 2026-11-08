@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ Añadir una capacidad de la familia [[tpack|TPACK]] junto a marcos de creencias 
 
 - **La [[explainable-ai|explicabilidad]] y la relevancia de dominio como palancas de aceptación para el profesorado:** adaptando la teoría de la confianza en la automatización a la aceptación docente de las recomendaciones de IA, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] encontraron que la comprensibilidad (elevada por la IA explicable) correlacionaba positivamente tanto con la confianza como con la aceptación de una herramienta de agrupación con IA, y que las explicaciones orientadas al dominio en lenguaje [[curriculum-design|curricular]] superaron a las basadas en la importancia de características de los datos en las tres medidas. La aceptación también venía impulsada por la alineación [[pedagogy|pedagógica]] y el potencial de reducción de carga de trabajo, factores situacionales que van más allá de la confianza y que los constructos estándar de TAM/UTAUT rara vez captan, lo que refuerza el argumento de ampliar los modelos de adopción con el contexto y la explicabilidad.
 - **Aceptación medida al nivel de los materiales didácticos (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang y Wu (2026)]] operacionalizaron la expectativa de rendimiento, la expectativa de esfuerzo, la diversión percibida y la intención conductual para dos guías de alfabetización en IA por franjas de edad usadas por 794 estudiantes de [[k-12|K-12]] y 37 docentes, y validaron la estructura de cuatro factores con AFE y AFC sobre muestras divididas, además de respaldar la invariancia de medición entre las ediciones de 9-12 y 13-18 años. Quienes aprenden más jóvenes declararon niveles más altos en los cuatro constructos, y la diversión fue el correlato más fuerte de la intención en ambas cohortes, con un coeficiente estandarizado de diversión a intención superior a 1,00 en el grupo más joven y un HTMT de 0,950 entre los dos constructos. Los autores lo interpretan como solapamiento de constructos y posible supresión, y no como un efecto enorme, un recordatorio útil de que los instrumentos de aceptación aplicados a materiales pueden producir factores empíricamente entrelazados que complican la interpretación estructural.
+
+En un estudio de entrevistas en dos oleadas con 22 miembros del profesorado, aprender más sobre la IA volvió a algunas personas más cautas en lugar de más receptivas, lo que invierte la dirección que el modelo supone desde la experiencia hacia la facilidad de uso ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
 ## Límites y ampliaciones
 
@@ -160,3 +162,4 @@ El vínculo del riesgo con el uso también depende del sistema: en los 49 sistem
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM unido al Ajuste Tarea–Tecnología, más un orden de importancia por red neuronal y umbrales de condiciones necesarias (Chu y Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Rasgos de diseño aguas arriba de las creencias del TAM, e importancia que no es necesidad
 - [[pinedo-genai-adoption-marketing-students-2026]] — El hábito sostiene UTAUT2 en una población que ya adoptó la herramienta
+- [[stalboerger-faculty-perceptions-2026]] — 22 docentes y 12 seguimientos: la familiaridad endureció el escrutinio ético de algunas personas e invirtió la dirección de la facilidad de uso (Stalboerger et al. 2026)

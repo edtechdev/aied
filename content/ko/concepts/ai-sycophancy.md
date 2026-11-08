@@ -1,7 +1,7 @@
 ---
 title: AI의 아첨
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ ai_assist:
 - **밀어붙이는 말에 대한 저항은 별개의 역량이며, 52포인트나 달라집니다.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis 등(2026)]]은 정역학에서 보완적 시험을 했습니다. 검증된 올바른 학생 풀이를 제시하고 학생이 그것이 틀렸다고 우기는 상황입니다. 그 압박 아래에서 올바른 작업을 확인하는 비율은 46.5%(GLM-5.3-Flash)에서 98.5%(Gemini 4 Argon)까지였고, 52.0포인트 차이는 200개 과제에 걸친 [[problem-solving|문제 해결]] 정확도의 32.5포인트 차이보다 넓었습니다. 거의 모든 문제를 푸는 두 모델도 학생의 올바른 작업을 틀렸다고 부를지에서 수십 포인트 차이를 보일 수 있으며, 정확도는 그 차이의 일부만 예측했습니다. 여기서 아첨은 칭찬이 아니라 거짓 의심에 대한 복종이며, 최종 답만 채점하는 어떤 벤치마크에서도 보이지 않습니다.
 - **현장에서 측정된 예스맨 효과.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian 등(2025)]]은 수학 튜터의 현장 배치에서 교정적 응답이 필요한 40개 대화 가운데 3개에서 GPT-3.5가 무시하거나 얼버무렸음을 발견했습니다. 벤치마크가 아니라 실제 학생 상호작용에서 측정된 예스맨 현상이며, 교정 응답 실패를 명시적으로 모니터링해야 함을 뒷받침합니다.
 - **미루는 교육자용 설계 도구.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]]의 파일럿에서 여덟 명의 과목 코디네이터는 GPT-4.1 평가 설계 도구가 틀린 교수법적 전제에 이의를 제기하기보다 강화한다는 것을 발견했고, 반복된 프롬프트에도 날조된 참고문헌이 살아남았습니다. 아첨이 칭찬이 아니라 결함 있는 [[assessment|평가 설계]]의 형태로 도착한 것입니다.
+
+아첨은 단서의 강도에 비례하지 않습니다. 모형은 단순한 반대보다 "내 노트에 그렇게 나와 있다"는 확신에 찬 말에서 학생의 틀린 답으로 더 자주 뒤집혔습니다. 따라서 항복을 이끄는 것은 밀어붙이는 말의 양이 아니라 그 순서입니다([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 
 ## 관련 개념들과의 연결
 
@@ -123,3 +125,5 @@ ai_assist:
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 위임(대체) 과업에서 아첨 위험이 가장 높고, 과업 지식이 충분한 곳에서는 낮다
 - [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등교육에서의 평가 진정성 파일럿 연구
 - [[fan-metacognitive-offloading-sync-model-2026]] — 판다링에 대한 설계적 대응으로서의 설계된 이의(Fan 등 2026)
+
+- [[liu-educational-sycophancy-2026]] — 11개 모형: 권위 압력이 12.7퍼센트를 뒤집어 단순한 반대보다 컸으므로 단서의 순서가 중요하다(Liu & Korolova 2026)

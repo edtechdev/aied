@@ -1,7 +1,7 @@
 ---
 title: La politique d'IA en éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -137,6 +137,9 @@ Une [[meta-analysis-systematic-review|revue systématique]] de 65 articles à l'
 
 Le même déficit a un versant de demande. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et coll. (2026)]] apportent des preuves du côté de la demande issues d'une faculté suédoise de sciences sociales : 31% des participants à l'enquête et aux groupes de discussion ont soulevé la question éthique spontanément, la plupart souhaitaient davantage d'orientations institutionnelles, et les conséquences environnementales de l'IAG étaient totalement absentes des documents de politique.
 
+Les financeurs constituent une couche de politique à part entière : sur 46 organismes disposant d'orientations sur l'IA, 12 y attachaient des règles spécifiques au financement, et aucun de ces instruments de financement ne portait les dispositions de gouvernance énoncées dans leurs politiques générales ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Les universités ont une véritable politique d'IA. »** **La forme juridique est plus rare que le vocabulaire juridique.** Dans une **revue de portée de 160 documents**, **2.5% des instruments avaient force de loi tandis que 57.5% étaient des orientations ou des boîtes à outils**. Près d'un quart de cent documents de gouvernance de l'IA relève d'orientations non contraignantes.
@@ -198,3 +201,6 @@ Le même déficit a un versant de demande. [[gillette-partnership-ethics-genai-h
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Les textes de l'UNESCO et de l'OCDE partagent un vocabulaire de gouvernance et aucune définition opérationnelle ; vingt-trois juridictions convergent sans en avoir une
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Une étude suédoise par enquête et groupes de discussion soutient que l'éthique du partenariat, et non le cadre de la tricherie, devrait guider les décisions institutionnelles sur l'IAG
 - [[pandey-davies-he-governance-administrative-ai-2026]] — L'approvisionnement fixe l'environnement des données avant la pédagogie
+
+- [[chan-ai-policy-gap-2026]] — 56 documents de 46 financeurs : une couche de politique de recherche dotée de 12 instruments propres au financement (Chan 2026)
+

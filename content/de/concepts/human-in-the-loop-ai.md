@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop-KI
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm]
@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -119,6 +119,8 @@ Human-in-the-Loop-Design ist aus mehreren konvergierenden Gründen für die Disk
 
 - **HITL als Architektur für eine ganze Disziplin, nicht einen Arbeitsablauf.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] spezifizieren vier verzahnte Schichten – Dateninfrastruktur, Modellentwicklung, pädagogische Schnittstelle und menschliche Governance –, zusammengehalten durch drei Prinzipien: menschliche Aufsicht und Handlungsfähigkeit, co-adaptive Intelligenz und kontextuelle Responsivität.
 
+Eine Prüfung, die nach der Generierung angesetzt wird, ist kein Prozess, den ein Mensch verfasst hat: Wenn die lernende Person die Prompts entwirft und die Ausgabe verifiziert, regelt die Schleife die Substitution; wenn das System es tut, beschreibt dieselbe Bezeichnung die Prüfung eines maschinellen Plans ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Synthese
 
 Human-in-the-Loop-Design ist nicht bloß eine Sicherheitsmaßnahme – er ist eine **Ressourcenzuteilungsstrategie**. Die Grenzfrage ist nicht *ob* Menschen einbezogen werden, sondern *wo* in der Pipeline ihr Urteil den höchsten Grenznutzen hat. Die wirksamsten HITL-Systeme konzentrieren knappe menschliche Expertise dort, wo automatisierte Systeme am schwächsten sind (Distraktordesign, erklärendes Feedback, Schlichtung von Grenzfällen, ethisches Urteil) und automatisieren den Rest – und bewahren dabei Qualität, Sicherheit und Vertrauen, während sie die Produktion skalieren.
@@ -197,3 +199,4 @@ Wie stark dieser Schutz ist, hängt von [[automation-bias|Automatisierungsbias]]
 - [[student-query-demand-hybrid-ai-support-2026]] — Was Studierende tatsächlich fragen: Anfragestruktur und Automatisierungspotenzial in einem hybriden Unterstützungssystem
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — „In-The-Loop"-Ansätze in der Bildungs-KI neu bedacht: Eine lernwissenschaftliche Perspektive
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Das Zurückhalten der präferierten Antwort des Systems senkte das Nachgeben vor falschen KI-Ratschlägen – schützend statt korrigierend
+- [[capodieci-humanities-hil-2026]] — Trennt, wo eine menschliche Prüfung sitzt, davon, wer den Prozess verfasst hat, im geisteswissenschaftlichen Lernen (Capodieci et al. 2026)

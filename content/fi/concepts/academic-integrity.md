@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -179,6 +179,8 @@ Ensimmäinen suunnitellun käyttäytymisen teorian tutkimus GAIT-pohjaisen vää
 
 OECD (2023) kirjaa, että vuoden 2024 alkuun mennessä yksikään kahdeksastatoista kyselyyn osallistuneesta maasta ei ollut säätänyt erityistä generatiivisen tekoälyn sääntelyä koulutukselle ja yhdeksän oli siirtänyt hallinnon koulutasolle. Ahmedin ei-performatiivisuuden kautta luettuna sanasto ilmaisee eettistä responsiivisuutta ilman mekanismia sen toteuttamiseksi, joten vastuuseen viittaavat kaikki toimijat samanaikaisesti ja se paikantuu ei kehenkään. Hashem nimeää tuloksen muuttuvaksi **huijaushabitukseksi**: taipumukset legitiimiin osallistumiseen kalibroituvat uudelleen kroonisessa epämääräisyydessä, kerrostuen opiskelijoiden tuoman akateemisen pääoman mukaan, ja huijaamista ja huijatuksi tulemista kohdellaan samanaikaisina tiloina eikä vaihtoehtoina. Kaikki tämä esitetään politiikkatekstistä, ei havaittuna opiskelijoilta.
 
+546 kandidaattiopiskelijan joukossa rehellisyys sijoittui ensimmäiseksi viidestä havaintoulottuvuudesta (3,79/5) eikä vaihdellut tutkinto-ohjelman mukaan, mikä sijoittaa alakohtaisen vaihtelun tekoälyn käyttöön ja taitovaatimuksiin eikä siihen, kuinka paljon rehellisyys merkitsee ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Yleiset väärinkäsitykset
 
 - **"Havaitsemistyökalut tunnistavat tekoälyn kirjoittaman tekstin."** Tekoälyn tuottama teksti on **mennyt läpi ihmisen kirjoittamana jopa 80 %:ssa tapauksista**, kun taas havaitsemisen näyttö asettaa **koneellisen havaitsemisen noin 80 prosenttiin inhimillisten arvioijien 78,4 prosenttia vastaan**. Inhimillinen ja koneellinen harkinta ovat lähes yhtä (epä)luotettavia, joten havaitsemispäätös ei ole näyttöä tekijyydestä.
@@ -258,3 +260,4 @@ OECD (2023) kirjaa, että vuoden 2024 alkuun mennessä yksikään kahdeksastatoi
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — tiimityöarviointi jäsenkohtaisella todennuksella todennusmallina (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Vastattavuus tekstin osuuden sijaan rehellisyysongelmana
+- [[crisol-moya-integrity-assessment-2026]] — 546 opiskelijaa: rehellisyys on ensimmäinen ja tasainen ohjelmien välillä (Crisol Moya et al. 2026)

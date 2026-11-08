@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能政策
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,8 @@ Hashem 的实践结论是：从政策实施转向政策制定（policy enactment
 
 同一赤字也有需求侧。[[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]] 从瑞典一个社会科学学部补充了需求侧证据：31% 的调查与焦点小组参与者主动提出伦理问题，多数人希望得到更多机构指引，而 genAI 的环境后果在政策文件中完全缺席。
 
+资助机构构成一个自成一体的政策层：在 46 个发布 AI 指引的机构中，有 12 个专门把规则附加于资助，而这些资助工具没有一个载有其总体政策所陈述的治理条款（[[chan-ai-policy-gap-2026|Chan，2026]]）。
+
 ## 常见误解
 
 - **“大学有真正的 AI 政策。”** **法律形式比法律语言更罕见。** 在一项 **160 份文件的范围综述**中，**2.5% 的文件具有法律效力，而 57.5% 是指引或工具包**。放在一百多份文件的尺度上看，这一治理存量中占主导的是不具约束力的指引。
@@ -200,3 +202,4 @@ Hashem 的实践结论是：从政策实施转向政策制定（policy enactment
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — 作为预期性治理的英格兰 EdTech Impact Testbed：产出承诺性证据的试点（Williamson 等
 
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 采购在教学法之前设定数据环境
+- [[chan-ai-policy-gap-2026]] — 来自 46 个资助机构的 56 份文件：一个研究资助政策层，其中 12 份为资助专用工具（Chan 2026）

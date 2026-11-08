@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -179,6 +179,8 @@ Prva studija teorije planiranog ponašanja o namjeri nedoličnog ponašanja utem
 
 OECD (2023.) bilježi da do početka 2024. nijedna od osamnaest anketiranih zemalja nije imala posebnu regulaciju generativne umjetne inteligencije za obrazovanje, a devet je upravljanje prenijelo na školsku razinu. Čitano kroz Ahmedovu neperformativnost, rječnik izražava etičku responzivnost bez mehanizma da je provede, pa se odgovornost zaziva kod svih aktera istodobno i ne nalazi se ni kod koga. Hashem rezultat naziva promjenjivim **habitusom varanja**: dispozicije prema legitimnom sudjelovanju rekalibriraju se u kroničnoj neodređenosti, raslojene prema akademskom kapitalu koji učenici donose, a varanje i bivanje prevarenim tretiraju se kao istodobna stanja, a ne alternative. Sve je to predloženo iz političkog teksta, a ne promatrano kod učenika.
 
+Među 546 preddiplomskih studenata integritet je bio prvi među pet dimenzija percepcije (3,79 od 5) i nije se razlikovao prema studijskom programu, što smješta disciplinarnu varijaciju u upotrebu umjetne inteligencije i potražnju za vještinama, a ne u to koliko je integritet važan ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Uobičajene zablude
 
 - **„Alati za otkrivanje prepoznaju pisanje umjetne inteligencije.“** Tekst koji generira umjetna inteligencija **prošao je kao ljudski napisan u do 80% slučajeva**, dok dokazi o otkrivanju smještaju **automatsko otkrivanje na oko 80% nasuprot 78,4% za ljudske ocjenjivače**. Ljudska i strojna prosudba gotovo su jednako (ne)pouzdane, pa presuda detektora nije dokaz autorstva.
@@ -257,3 +259,4 @@ OECD (2023.) bilježi da do početka 2024. nijedna od osamnaest anketiranih zema
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — timska procjena s provjerom svakog člana kao dizajn autentikacije (Issa i Hall 2024.)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — odgovornost, a ne udio teksta, kao problem čestitosti
+- [[crisol-moya-integrity-assessment-2026]] — 546 studenata: integritet je prvi i jednak na svim programima (Crisol Moya et al. 2026)

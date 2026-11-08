@@ -1,7 +1,7 @@
 ---
 title: 학문적 진실성
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -172,6 +172,8 @@ GAIT 기반 부정행위 의도의 첫 번째 계획된 행동 이론 연구는 
 
 OECD(2023)는 2024년 초 기준 조사 대상 18개국 중 어느 나라도 교육에서 생성형 AI를 규율하는 특정 규정을 갖지 않았고 아홉 나라는 거버넌스를 학교 수준에 위임했다고 기록합니다. Ahmed의 비수행성을 통해 읽으면, 그 어휘는 그것을 이행할 어떤 기제도 없이 윤리적 응답성을 표현하므로, 책임은 모든 행위자가 동시에 호출하고 어느 누구에게도 위치하지 않습니다. Hashem은 그 결과를 변화하는 **부정행위 하비투스(cheating habitus)**라 명명합니다. 정당한 참여를 향한 성향이 만성적 불확정성 아래 재조정되고, 학생이 가져오는 학문적 자본에 따라 층화되며, 부정행위와 부정행위당함이 대안이 아니라 동시적 조건으로 다루어집니다. 이 모든 것은 학생에게서 관찰된 것이 아니라 정책 텍스트에서 제안된 것입니다.
 
+학부생 546명을 대상으로 한 연구에서 진실성은 다섯 가지 인식 차원 가운데 첫째로 꼽혔고(5점 만점에 3.79), 학위 과정에 따라 달라지지 않았습니다. 이는 학문 분야별 차이가 진실성이 얼마나 중요한가가 아니라 AI 사용과 기술 수요에 있음을 뜻합니다([[crisol-moya-integrity-assessment-2026|Crisol Moya 등, 2026]]).
+
 ## 흔한 오해
 
 - **"탐지 도구가 AI 글쓰기를 식별한다."** AI가 생성한 텍스트는 **최대 80%의 경우에서 사람이 작성한 것으로 통과했으며**, 탐지에 관한 증거는 **기계 탐지 약 80% 대 인간 평가자 78.4%**를 제시합니다. 인간과 기계의 판단은 거의 똑같이 (불)신뢰할 만하므로, 탐지 판정은 저자성의 증거가 아닙니다.
@@ -248,4 +250,6 @@ OECD(2023)는 2024년 초 기준 조사 대상 18개국 중 어느 나라도 교
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — 인증 설계로서 구성원별 검증을 동반한 팀워크 평가 (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — 텍스트 비율이 아니라 답변 가능성으로서의 진실성 문제
+
+- [[crisol-moya-integrity-assessment-2026]] — 546명의 학생: 진실성이 첫째로 꼽히고 학위 과정 전반에서 고르게 나타남(Crisol Moya 등 2026)
 

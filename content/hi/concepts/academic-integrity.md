@@ -1,7 +1,7 @@
 ---
 title: "शैक्षणिक इमानदारी"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:47:42-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -178,6 +178,8 @@ ai_assist:
 
 OECD (2023) दर्ज करता है कि 2024 के प्रारंभ तक अठारह सर्वेक्षित देशों में से किसी के पास शिक्षा के लिए विशिष्ट जनरेटिव AI विनियमन नहीं था और नौ ने शासन स्कूल-स्तर पर सौंप दिया था। अहमद की गैर-प्रदर्शनकारिता से पढ़ने पर, शब्दावली नैतिक उत्तरदायित्व व्यक्त करती है पर उसे लागू करने का कोई तंत्र नहीं, इसलिए उत्तरदायित्व हर कलाकार द्वारा एक साथ पुकारा जाता है और किसी में स्थित नहीं होता। Hashem परिणाम को बदलता **धोखा-हैबिटस** कहते हैं: दीर्घ अनिश्चितता में पुनःअंशांकित वैध सहभागिता की प्रवृत्तियाँ, छात्रों की शैक्षणिक पूँजी से स्तरीकृत, जहाँ धोखा देना और धोखा दिया जाना प्रतिस्पर्धी स्थितियों के बजाय समवर्ती स्थितियाँ मानी जाती हैं। यह सब नीति-पाठ से प्रस्तावित है, छात्रों में प्रेक्षित नहीं।
 
+546 स्नातक छात्रों में, इमानदारी पाँच धारणा-आयामों में पहले स्थान पर रही (5 में से 3.79) और डिग्री कार्यक्रम के अनुसार भिन्न नहीं थी, जो अनुशासनगत भिन्नता को AI उपयोग और कौशल-माँग में रखती है, न कि इस बात में कि इमानदारी कितनी मायने रखती है ([[crisol-moya-integrity-assessment-2026|क्रिसोल मोया सहित, 2026]])।
+
 ## सामान्य भ्रांतियाँ
 
 - **"पहचान उपकरण AI लेखन की पहचान करते हैं।"** AI-निर्मित पाठ **80% तक मामलों में मानव-लेखित के रूप में पारित हो चुका है**, जबकि पहचान का साक्ष्य **मशीन पहचान को लगभग 80% और मानव रेटरों के लिए 78.4%** पर रखता है। मानव और मशीन निर्णय लगभग समान रूप से (अ)विश्वसनीय हैं, इसलिए पहचान का फैसला लेखकत्व का साक्ष्य नहीं है।
@@ -255,4 +257,5 @@ OECD (2023) दर्ज करता है कि 2024 के प्रार�
 - [[issa-teamwork-framework-academic-integrity-2024]] — सदस्य-वार सत्यापन के साथ टीमवर्क मूल्यांकन, एक प्रमाणीकरण डिज़ाइन के रूप में (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — इमानदारी की समस्या के रूप में पाठ-अनुपात नहीं, जवाबदेही
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — चार UNESCO और OECD दस्तावेज़ों को प्रवचन के रूप में पढ़ना: तैरते संकेतक, गैर-प्रदर्शनकारिता और बदलता धोखा-हैबिटस
+- [[crisol-moya-integrity-assessment-2026]] — 546 छात्र: इमानदारी पहले स्थान पर और डिग्री कार्यक्रमों में समान (क्रिसोल मोया सहित 2026)
 

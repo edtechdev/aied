@@ -1,7 +1,7 @@
 ---
 title: AIガバナンス
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -118,6 +118,8 @@ AIガバナンスは、[[ethics|倫理]](それが具体化する原則)、[[hig
 - **ガバナンスはツールに設計できる。** 6次元のガバナンス・プロファイル——[[pedagogy|教育学的]]基礎、教学上の権威、人間の説明責任と統制、学習者のエージェンシーと認知的関与、文脈の具体性、評価の可視性——は、ガバナンスを教育ツールの相互作用モデル、プロンプト、ルーブリック、承認ゲート、[[visualization|ダッシュボード]]に位置づけ、ツールがどれだけ厳格・寛容かではなく、メカニズムが教学的機能に適合しているかを問います([[instructional-governance-design-computing-education-2026|Dickey 2026]])。
 - **人間中心の枠組みは、ツールではなく解釈を中心に置く。** 使命志向のリベラルアーツ・カレッジで、教員は構造化されたEducation Dayの間に生成AI支援のAssessment Wizardを用い、著者らは、人間の判断が交渉不能な解釈的権威であり続けなければならず、広範な実施の前に検証のチェックポイントとガバナンスが必要だと結論づけています([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot、Copeland & Pryor, 2026]])。順序は、まず形成と検証、次に拡大です。
 
+統治の規定は一般方針の文書にのみ現れ、申請者を拘束する資金提供特化の文書には決して現れませんでした。したがって資金提供機関は、原則として AI を統治しながら、自らが資金を出す研究には何も課さないことができます（[[chan-ai-policy-gap-2026|Chan（2026年）]]）。
+
 ## よくある誤解
 
 - **「大学は拘束力のあるAI方針を採択している」。** **48機関**のうち**40(83%)**が少なくとも1件の公開文書を持ち、その40を通じて**ガバナンスは拘束力ある規則ではなく主にガイダンスとして実現されていました**。公開されたガイダンスは強制可能な方針ではありません。
@@ -189,4 +191,5 @@ AIガバナンスは、[[ethics|倫理]](それが具体化する原則)、[[hig
 
 - [[li-su-teacher-genai-decision-making-2026]] — ガバナンスの明瞭さから教師の決定の出来事へ至る、提案された経路
 - [[pandey-davies-he-governance-administrative-ai-2026]] — サービス運用の問いとしての管理部門の AI
+- [[chan-ai-policy-gap-2026]] — 統治の言語は一般方針に置かれ、申請者を拘束する資金提供の規則には決して置かれない（Chan 2026）
 

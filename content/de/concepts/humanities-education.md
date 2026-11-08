@@ -1,14 +1,14 @@
 ---
 title: Bildung in Geistes- und Sozialwissenschaften
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Bürgerschaftliche und politische Bildung ist ein Schwesterfachbereich zu diesen
 
 SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI am stärksten herausfordert — originale Autorschaft, interpretatives Urteil, kritische Analyse und kontextsensitive Sinnstiftung. Die Wissensbasis behandelt diese Domäne als kritisches Gegengewicht zu instrumentellen, kompetenzbasierten Rahmungen von KI: Sie fragt, ob KI-unterstütztes Lernen [[critical-thinking]], epistemische Verantwortung und interpretative Autonomie bewahrt, und verbindet sich mit [[critical-pedagogy]] und [[ai-literacy]].
 
+Der geisteswissenschaftliche Unterricht hat begonnen, agentische KI für die Zusammenstellung von Quellen und das Entwerfen von Text zu nutzen, was die Bewertungsfrage des Fachs von der Frage, ob Text generiert wurde, zu der Frage verschiebt, ob die Interpretation der oder dem Studierenden zugerechnet werden kann ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Implikationen für Lehrende in Geistes- und Sozialwissenschaften
 
 - **KI als epistemische Vermittlerin behandeln, nicht als Inhalts-Tutorin.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] zeigt, dass KI Sinnstiftung, Autorschaft und Handlungsfähigkeit in SSH neu konfiguriert — [[design-education|gestalten Sie die Pädagogik]] um die drei Trajektorien (KI-abhängig, KI-verstärkt, KI-kritisch) und auf das KI-kritische Ende zielen.
@@ -97,3 +99,4 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Rechnerisches Audit von 15.587 Go8-Einheiten aus Kunst und Geisteswissenschaften: 58,6 % der Assessment-Aufgaben von 2026 hoch KI-ausgesetzt, konzentriert in Aufsätzen und Berichten
 - [[genai-values-education-affordances-risks-2026]] — Generative KI in der Werteerziehung: Affordanzen, ethische Risiken und Implikationen für den Unterricht (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Aufgabenformat und KI-Nutzungsanweisungen als das, was das Artefakt belegen kann (Liu & Liu 2026)
+- [[capodieci-humanities-hil-2026]] — Agentische KI im geisteswissenschaftlichen Lernen und der Wechsel von der Autorschaft des Textes zur Zurechnung der Interpretation (Capodieci et al. 2026)

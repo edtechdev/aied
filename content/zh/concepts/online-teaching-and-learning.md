@@ -1,7 +1,7 @@
 ---
 title: 在线教学与学习
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 - **混合式与融合式学习。** 将面授与在线组件结合的模式，有意将数字活动、材料与互动和面对面教学整合起来。混合形式要求教师决定什么最好同步进行、什么最好异步进行，什么最好在线进行、什么最好面授——这些决定由 [[learning-design]] 原则组织，AI 既支持又使之复杂化。在混合情境中，AI 工具为 [[personalized-learning|个性化]] 和全天候支持提供机会，同时提高贯穿在线与面授两部分的诚信与卸载风险。[[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] 在两个混合场景中说明了这一点——翻转大学课堂与职业教育中的[[reflection|反思性写作]]——其中一个学习分析仪表板（DashED）向教师传达机器学习导出的 [[self-regulated-learning]] 画像。采纳顾虑按情境分化：翻转课堂（大学）教师最担心数据匿名化和学生选择退出，而反思写作（职业教育）教师则担心同行教师滥用该工具，并强调需要情境化数据。在使用中，翻转课堂教师遵循顺序式探索，偏好课程级调整并在课堂上展示[[visualization|仪表板]]，而职业教育教师反复回看摘要页，主要将该工具用于个别辅导——证据表明混合分析设计必须情境感知。
 - **同步与异步设计。** 这一区分比交付媒介更重要，因为两种形式对学习者提出相反的要求。同步会话把注意力、节奏与问责承载在会话本身之内；异步课程必须把这些设计进去，因为学习者独自决定何时工作，且不从教室获得环境性问责。研究基础常常模糊这一点：本知识库对在线学习中 AI 与 [[student-engagement|参与]] 的综述（24 项研究）将参与单独处理，并明确混淆了同步与异步情境，因此其结论不应读作异步特有的。异步特有的是关于自主进度学习者如何失去专注与节奏的证据：诸如目标设定、环境构建与时间管理等自我调节行为与低数字分心最相一致（[[decreasing-digital-distraction-college-online-learning-2026|Shi et al. 2026]]，530 名学生），而元认知知识与 [[well-being]] 在一个学期内随评估截止日期的聚集而下降（[[song-genai-learning-partner-srl-over-time-2026|Song et al. 2026]]，75 名学生）。其实际对应物是关于 [[asynchronous-online-courses-ai|在 AI 能做作业时如何设计与促进异步课程]] 的 FAQ。
 - **远程教育。** 为远程学习的学习者设计的项目，通常大规模且跨地区（例如开放大学的 20 万以上学习者）。远程教育是 24/7、情境嵌入的 AI 支持与面对面监考之不可能性最突出的地方。来自南非教师培养的比较证据表明，媒介本身与准备度相关：[[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] 报告，校园型项目与远程项目的毕业年级师范生，在 AI 整合[[science-education|科学教学]]的[[self-report-measures|自陈]] TPACK 上为 64.0% 对 47.4%，两所机构中最弱的领域都是教学法知识。这一模式警告：远程项目不能假定同样的 AI 培训会产生同样的准备度，而且差异在于培训的设计，而非其存在。
+
+两个校区共同注册同一门异步课程，在 19 名学生中至少有 1 人未产生任何跨校区互动；因此共同注册只是一个排课事实，而不是一种能创造在线课程所假定的同伴情境的设计（[[aggarwal-genai-cybersecurity-2026|Aggarwal，2026]]）。
 
 ## AI 为在线教学与学习带来的机会与收益
 
@@ -196,3 +198,4 @@ ai_assist:
 - [[ai-training-science-teacher-tpack-distance-2026]] — 校园型师范生报告的 AI 整合科学教学 TPACK 高于远程教育同伴（64.0% 对 47.4%）
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 角色设计才是干预，而不是工具
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 面向在职教师的六周异步研究生课程：重新设计形式，而不是压缩它
+- [[aggarwal-genai-cybersecurity-2026]] — 两个校区的 19 名学生：共同注册对部分人未产生跨校区互动（Aggarwal 2026）

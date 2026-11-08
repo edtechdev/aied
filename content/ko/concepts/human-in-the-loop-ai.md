@@ -1,7 +1,7 @@
 ---
 title: 인간 개입
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,8 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **비용-품질 대체: 자동 스레드는 인간 스레드와 맞먹었고, 표적 검토 잔여물이 남았습니다.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi 외(2026)]]는 LLM이 생성한 대화 스레드가 인간 스레드의 Cohen의 kappa 0.6239에 대해 0.6395에 도달했으며(슬라이딩 윈도 조건), 전사본당 약 25달러에 비해 1달러 미만이 들었다고 발견했습니다. 따라서 자동화는 도달 불가능한 상한이 아니라 인간의 신뢰도 목표와 맞먹었습니다. 인간의 한계 가치는 모형이 거의 실패하는 스레드 유형 — 주제 전환(kappa 0.2567)과 자기 연속(0.4309) — 에 집중되며, 저자들은 자동 스레딩과 함께 표적화된 인간 교정을 권합니다.
 - **하나의 워크플로가 아니라 한 학문 분야 전체를 위한 구조로서의 HITL.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]]은 데이터 기반시설, 모형 개발, 교수법적 인터페이스, 인간 거버넌스라는 네 개의 맞물린 층을 명시하고, 그것을 인간 감독과 주체성, 공적응 지능, 맥락적 응답성이라는 세 원칙으로 묶습니다.
 
+생성 이후에 놓인 점검은 인간이 저술한 과정이 아닙니다. 학습자가 프롬프트를 설계하고 출력을 검증할 때 그 고리는 대체를 통제하지만, 시스템이 그렇게 할 때 같은 꼬리표는 기계의 계획에 대한 검토를 가리킬 뿐입니다([[capodieci-humanities-hil-2026|Capodieci 등, 2026]]).
+
 ## 종합
 
 인간 개입 설계는 단순한 안전 조치가 아니라 **자원 배분 전략**입니다. 개척적인 질문은 인간을 *넣을 것인가*가 아니라, 파이프라인의 어디에서 그들의 판단이 한계 효용이 가장 높은가입니다. 가장 효과적인 HITL 시스템은 희소한 인간 전문성을 자동화된 시스템이 가장 약한 곳(오답지 설계, 설명적 피드백, 예외적 사례의 판정, 윤리적 판단)에 집중하고 나머지는 자동화하여 — 품질, 안전, 신뢰를 보존하면서 생산의 규모를 확장합니다.
@@ -191,3 +193,5 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - [[zhai-science-literacy-generative-ai-coherence-2026]] — 과학 교육에서 생성형 AI를 위한 네 층 HITL 구조 (Zhai et al. 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 연구 도구로서 LLM 행동 구획을 검증하는 코더들 (Fonteles et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템이 선호하는 답을 감춘 것이 잘못된 AI 조언에 대한 순응을 교정적이 아니라 보호적으로 줄였다
+
+- [[capodieci-humanities-hil-2026]] — 인간 점검이 어디에 놓이는지와 누가 그 과정을 저술했는지를 구분한다(Capodieci 등 2026)

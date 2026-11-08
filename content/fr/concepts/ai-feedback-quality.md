@@ -1,7 +1,7 @@
 ---
 title: "Qualité de la rétroaction par IA"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -118,6 +118,9 @@ Le corpus qui sous-tend ces affirmations sur la qualité est plus mince que les 
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li et Moorhouse (2026)]] examinent les traces de raisonnement explicites de DeepSeek comme affordance de rétroaction, et constatent que le raisonnement visible rend la base d'un commentaire inspectable par le rédacteur, tandis que le modèle renvoie encore le jugement d'ordre supérieur, comme l'argumentation, à l'humain.
 
+Une réponse juste au premier tour peut devenir fausse au troisième : sur 11 modèles, 12,7 pour cent ont basculé vers une réponse incorrecte sous la pression de l'autorité, si bien que la qualité de la rétroaction doit être évaluée sur l'ensemble d'une interaction plutôt qu'à la première réponse ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Les étudiants trouvent la rétroaction par IA acceptable, donc elle est bonne. »** **La qualité perçue par les étudiants est plus contrastée que ne le suggère l'acceptabilité** : **77 des 93 étudiants de premier cycle ont trouvé la rétroaction par IA facile à comprendre, mais 68 l'ont trouvée répétitive et 79** en trouvaient autre chose à redire. La compréhension et l'insatisfaction coexistaient dans la même cohorte.
@@ -186,3 +189,6 @@ Le corpus qui sous-tend ces affirmations sur la qualité est plus mince que les 
 - [[lin-rag-lesson-generation-tutor-training-2026]] — Les leçons de formation de tuteurs générées par RAG ont égalé celles créées par des humains en présence de rétroaction ; l'avantage humain n'apparaissait qu'en l'absence de rétroaction
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Trois dimensions d'évaluation sur 68 études, l'alignement sur la grille étant la plus mince (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Divergence au niveau des critères et des évaluateurs dans 157 messages de rétroaction notés (Vanhoyweghen et al. 2026)
+
+- [[liu-educational-sycophancy-2026]] — La justesse dépend de l'interaction : 12,7 pour cent de basculements sous la contradiction (Liu & Korolova 2026)
+

@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 自己調整学習
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -168,6 +168,8 @@ Learning Letters の研究（2026 年）の一団は、中心的な緊張に収�
 
 どの支援が働いているかが、どの媒介変数が関連を運ぶかを決めます。3,003 人の中国の見習い教師の間で、知覚された AI 道具の支援は革新的な力量へ主に AI [[self-efficacy|自己効力感]]を通じて達しました（その経路の全効果の 60.88%）。一方、知覚された学校に基づく知的環境の支援は主に自己調整学習を通じて達しました（29.64% 対 18.60%）（[[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]）。
 
+学生は、知覚された成績の向上と並んで、より多くの先延ばしを報告しました（β = 0.525）。これは、AI が利用可能であるために学習を遅らせることと、AI の助けを借りて遅らせることを分けるものであり、単一の自己調整のスコアでは担えない区別です（[[gouroubera-genai-benin-2026|Gouroubera ら（2026年）]]）。
+
 ## 含意
 
 - **日誌やチャットボットの道具について：** SRL の教示（コースに基づく）と任意選択の執筆支援を組み合わせることで、動機づけと関与の両方の伸びを得る
@@ -268,4 +270,5 @@ Learning Letters の研究（2026 年）の一団は、中心的な緊張に収�
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — 最初の応答者としての AI ティーチングアシスタントが仲間の応答を、そして自己調整の成績上の価値を増幅していた共調整を押しのけた（Davis et al. 2026）
 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 先入観の多様性がメタ認知的なプロンプトの届き方を変えた。同じプロンプトの機能で、AI の出力に対する持続的な評価は逆になる（Wang et al. 2026）
+- [[gouroubera-genai-benin-2026]] — 利用とともに先延ばしが増え（β = 0.525）、知覚された利益と並ぶ。AI によって可能になった遅延と、AI についての遅延を分ける（Gouroubera et al. 2026）
 

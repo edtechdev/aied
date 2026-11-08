@@ -1,7 +1,7 @@
 ---
 title: Qualität von KI-Feedback
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,8 @@ Der Korpus hinter jenen Qualitätsbehauptungen ist dünner, als die Behauptungen
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li und Moorhouse (2026)]] untersuchen die expliziten Reasoning-Spuren von DeepSeek als Feedback-Affordanz und stellen fest, dass sichtbares Schlussfolgern die Grundlage eines Kommentars für die schreibende Person prüfbar macht, während das Modell höherstufiges Urteil, etwa zur Argumentation, weiterhin an den Menschen leitet.
 
+Eine Antwort, die in der ersten Runde korrekt ist, kann in der dritten Runde falsch sein: Über 11 Modelle hinweg kippten 12,7% unter Autoritätsdruck zu einer falschen Antwort, sodass Feedbackqualität über eine Interaktion hinweg und nicht an der ersten Antwort bewertet werden muss ([[liu-educational-sycophancy-2026|Liu und Korolova, 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Studierende finden KI-Feedback akzeptabel, also ist es gut."** **Die von Studierenden wahrgenommene Qualität ist gemischter, als die Akzeptanz vermuten lässt**: **77 von 93 Studierenden im Grundstudium fanden KI-Feedback leicht verständlich, doch 68 fanden es repetitiv und 79** fanden etwas anderes unzureichend. Verständnis und Unzufriedenheit bestanden in derselben Kohorte nebeneinander.
@@ -183,4 +185,5 @@ Der Korpus hinter jenen Qualitätsbehauptungen ist dünner, als die Behauptungen
 - [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generierte Tutor:innen-Trainingslektionen entsprachen menschlich erstellten, wenn Feedback vorhanden war; der menschliche Vorteil zeigte sich nur ohne Feedback
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Drei Bewertungsdimensionen über 68 Studien hinweg, wobei die rasternahe Ausrichtung die dünne ist (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Divergenz auf Kriteriums- und Bewertendenebene in 157 bewerteten Feedbacknachrichten (Vanhoyweghen et al. 2026)
+- [[liu-educational-sycophancy-2026]] — Korrektheit hängt von der Interaktion ab: eine Kipprate von 12,7% unter Widerspruch (Liu & Korolova 2026)
 

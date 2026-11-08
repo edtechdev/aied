@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: 지능형 튜터링
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ TeachLM은 희소한 재료가 진정한 학습자–튜터 상호작용이라�
 ### 주요 ITS 연구
 
 - **튜터링 플랫폼의 마이크로 무작위 시험:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]는 GCSE [[biology-education|생물]], [[chemistry-education|화학]], [[physics-education|물리]]에서 Medly를 대상으로 4주간의 다중 현장 개별 무작위 평가를 실시하여, 929명 중 644명이 사후 검사를 완료했습니다. 플랫폼 배정은 기존과 같은 [[self-directed-learning|자기주도적]] 복습에 비해 Hedges' g = 0.33(95% CI 0.18–0.48)을 산출했고, 세 과목 모두에서 양의 추정치를 보였으며, 불리한 조건( pupil premium )에 따른 차별적 효과의 증거는 없었습니다(Pupil Premium g = 0.28 대 비 Pupil Premium g = 0.35).
+- **미국 K-12 메타분석은 평균 효과를 g = 0.271로 제시합니다.** 18개 실험에 걸쳐 완성된 예제와 학생이 요청한 힌트가 효과를 떠받친 반면 자동으로 촉발된 힌트는 그렇지 않았고, 6개월을 넘긴 시행은 유의하지 않은 g = 0.110으로 줄었습니다([[leite-its-k12-meta-analysis-2025|Leite 등, 2025]]).
 - **[[lak2026-hint-button-unproductive-use|힌트 버튼 연구]]**는 전통적 ITS 힌트 설계가 의도치 않게 우회 전략을 가능하게 할 수 있음을 보여 주며, 더 정교한 [[scaffolding]] 접근을 요구합니다.
 - **[[deeptutor]]**는 인용에 기반한 튜터링과 난이도에 맞춰 보정된 [[automated-question-generation|문항 생성]]을 갖춘 완전한 [[open-source]] 에이전트 튜터링 틀을 제공합니다.
 - **[[huang-interpretable-knowledge-tracing-2026|해석 가능한 지식 추적]]**은 LLM 로짓으로부터 해석 가능한 인지적 양을 산출하여 불투명성 문제를 다룹니다.
@@ -191,6 +192,7 @@ AI 튜터를 배치하는 강사와 그것을 만드는 개발자에게, 이 지
 
 ## 연결된 문서
 
+- [[leite-its-k12-meta-analysis-2025]] — 미국 K-12 메타분석: 18개 실험, g = 0.271, 그리고 무엇이 그것을 조절하는가(Leite 등 2025)
 - [[rho-disengaged-conversational-behaviors-2026]] — 학생–AI 대화에서의 무관여 대화 행동과 학습 (Rho et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 튜터링이 강의실 능동 학습을 능가한다: 진정한 교육 환경에서 새로운 연구 기반 설계를 도입한 RCT (Kestin et al. 2025)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 비계 지향 다중 에이전트 대형 언어 모델 시스템 평가

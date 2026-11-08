@@ -1,7 +1,7 @@
 ---
 title: 教育における AI 規制
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ ai_assist:
 
 規制は、[[educational-policy-ai|教育政策]]、[[governance|ガバナンス]]、[[ethics|倫理]]、[[privacy|プライバシー]]、[[pedagogical-safety|教授法的安全]]、そして[[academic-integrity|学問的なインテグリティ]]につながります。それは、他のすべての AI 教育の実践がどう営まれるかを形づくる、制度的な層です。規制は制約し、同時に可能にします。許容できる AI 利用の境界を設定すると同時に——[[ai-literacy|AI リテラシー]]と責任ある利用の期待を通じて——[[equity-in-ai-education|公平]]で安全な統合のための条件を作り出すのです。
 
+規制は自動的に下へと翻訳されるわけではありません。州レベルの AI 規則が存在する地域で活動する 32 の資金提供機関は、一般方針を公表したものの、その規則を引き継ぐ資金提供特化の文書を持っていませんでした（[[chan-ai-policy-gap-2026|Chan（2026年）]]）。
+
 ## よくある誤解
 
 - **「規則は機関のAI方針の中にある。」** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie（2026）]]による**1,057名の米国の教員**への調査は、実際に働く規則が機関の層のどれだけ下にあるかを測っています。**回答者の87%が自分で指針を書いて**いました。運用上の方針は主に教員が書いたものであり、記録された機関の層は見た目よりも少ないことを記述しているのです。
@@ -104,3 +106,4 @@ ai_assist:
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — AIエージェントがLMSにログインし学生の資格情報を保持することを扱った比較対象の方針は一つもなかった（Wong & Sun 2026）
+- [[chan-ai-policy-gap-2026]] — 垂直的な非翻訳：州の規則は存在するが、その下の資金提供機関は拘束力のある文書を出していない（Chan 2026）

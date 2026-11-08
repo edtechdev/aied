@@ -1,7 +1,7 @@
 ---
 title: "Les modèles d'adoption des technologies"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,9 @@ Ajouter une capacité de la famille du [[tpack|TPACK]] aux côtés de cadres de 
 - **Déterminants par apprentissage automatique de l'adoption de ChatGPT :** une approche exploratoire par apprentissage automatique a examiné la manière dont les perceptions et les caractéristiques démographiques des étudiants se rapportent à l'usage académique prévu de ChatGPT, en recourant à l'analyse SHAP pour identifier les construits clés liés à l'apprentissage — privilégiant le sens éducatif à la maximisation de la performance algorithmique ([[determinants-chatgpt-use-higher-education-2026]]).
 - **L'[[explainable-ai|explicabilité]] et la pertinence au regard du domaine comme leviers d'acceptation chez les enseignants :** en adaptant la théorie de la confiance dans l'automatisation à l'acceptation par les enseignants des recommandations de l'IA, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] ont constaté que la compréhensibilité (accrue par l'IA explicable) était corrélée positivement à la fois à la confiance et à l'acceptation d'un outil de regroupement par l'IA, et que les explications fondées sur le domaine, formulées dans un langage [[curriculum-design|curriculaire]], surpassaient celles fondées sur les données et l'importance des caractéristiques sur les trois dimensions. L'acceptation était en outre déterminée par l'alignement [[pedagogy|pédagogique]] et le potentiel de réduction de la charge de travail — des facteurs situationnels que les construits classiques du TAM/UTAUT capturent rarement, ce qui renforce l'argument en faveur d'une extension des modèles d'adoption au contexte et à l'explicabilité.
 - **L'acceptation mesurée au niveau des matériaux pédagogiques (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang et Wu (2026)]] ont opérationnalisé l'attente de performance, l'attente d'effort, le caractère ludique perçu et l'intention comportementale pour deux guides de littératie en IA répartis par tranches d'âge, utilisés par 794 étudiants du [[k-12|primaire et secondaire]] et 37 enseignants, validant la structure à quatre facteurs par EFA et CFA sur échantillons scindés et soutenant l'invariance de mesure entre les éditions 9-12 et 13-18. Les apprenants plus jeunes ont déclaré des niveaux plus élevés sur les quatre construits, et le caractère ludique était le corrélat le plus fort de l'intention dans les deux cohortes — le coefficient standardisé allant du caractère ludique à l'intention excédant 1.00 dans le groupe le plus jeune, avec un HTMT de .950 entre les deux construits. Les auteurs y lisent un chevauchement des construits et une éventuelle suppression plutôt qu'un effet géant, rappel utile que les instruments d'acceptation appliqués à des matériaux peuvent produire des facteurs empiriquement enchevêtrés qui compliquent l'interprétation structurelle.
+
+Dans une étude par entretiens en deux vagues auprès de 22 enseignants, en apprendre davantage sur l'IA en a rendu certains plus prudents plutôt que plus acceptants, inversant la direction que le modèle suppose entre expérience et facilité d'usage ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
+
 
 ## Limites et extensions
 
@@ -163,3 +166,6 @@ Le lien entre risque et usage dépend aussi du système : sur les 49 systèmes d
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM associé à l'adéquation tâche–technologie, plus un classement d'importance par réseau de neurones et des seuils de condition nécessaire (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Des caractéristiques de conception en amont des croyances du TAM, et une importance qui n'est pas une nécessité
 - [[pinedo-genai-adoption-marketing-students-2026]] — L'habitude porte l'UTAUT2 dans une population déjà adoptante
+
+- [[stalboerger-faculty-perceptions-2026]] — 22 enseignants, 12 suivis : la familiarité a durci l'examen éthique de certains, inversant la direction de la facilité d'usage (Stalboerger et coll. 2026)
+

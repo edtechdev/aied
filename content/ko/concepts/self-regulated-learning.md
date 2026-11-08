@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 자기조절 학습
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -169,6 +169,8 @@ Learning Letters 연구들의 한 묶음(2026)이 중심 긴장으로 수렴합�
 
 어느 지원이 작용하는지가 어떤 매개 변수가 연관을 떠받치는지를 결정합니다. 중국 예비교사 3,003명 가운데, 지각된 AI 도구 지원은 혁신 역량으로 주로 AI [[self-efficacy]](그 경로 총효과의 60.88%)를 통해 이어진 반면, 지각된 학교 기반 지능형 환경 지원은 주로 자기조절 학습을 통해(29.64% 대 18.60%) 이어졌습니다([[preservice-teachers-ai-support-innovative-competence-2026|Liu 등(2026)]]).
 
+학생들은 지각된 수행 향상과 함께 더 많은 미루기(β = 0.525)를 보고했습니다. 이는 AI가 있기 때문에 학습 작업을 미루는 것과 AI의 도움을 받아 미루는 것을 구분하며, 단일한 자기조절 점수로는 담을 수 없는 구별입니다([[gouroubera-genai-benin-2026|Gouroubera 등, 2026]]).
+
 ## 함의
 
 - **학습 일기/챗봇 도구를 위해:** SRL 지도(강좌 기반)와 선택적 작문 지원을 결합하면 동기와 참여 향상을 모두 얻을 수 있습니다.
@@ -266,3 +268,5 @@ Learning Letters 연구들의 한 묶음(2026)이 중심 긴장으로 수렴합�
 - [[ai-project-hybrid-learning-self-regulated-2026]] — 학생의 자기조절 학습을 향상시키기 위한 인공지능을 활용한 프로젝트 기반 혼합 학습 모형
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — 첫 응답자로서의 AI 조교가 또래 응답을, 그와 함께 자기조절의 성적 가치를 키우던 동료 조절을 밀어냈다(Davis 등 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 예비 개념의 다양성이 집단의 공유 조절 프롬프트 수용 방식을 바꾼다(Wang 등 2026)
+
+- [[gouroubera-genai-benin-2026]] — 지각된 이득과 나란히 미루기가 늘었고(β = 0.525), AI 때문에 가능해진 지연과 AI에 관한 지연을 구분한다(Gouroubera 등 2026)

@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -181,6 +181,8 @@ Primul studiu bazat pe teoria comportamentului planificat asupra intenției de a
 OECD (2023) consemnează că, la începutul anului 2024, niciuna dintre cele optsprezece țări chestionate nu avea reglementare specifică privind IA generativă pentru educație, iar nouă delegaseră guvernanța la nivelul școlii. Citit prin non-performativitatea lui Ahmed, vocabularul exprimă receptivitate etică fără niciun mecanism de punere în act, astfel încât responsabilitatea este invocată de toți actorii deodată și localizată în niciunul. Hashem numește rezultatul un **habitus al trișării** în schimbare: dispoziții față de participarea legitimă recalibrate sub indeterminare cronică, stratificate după capitalul academic pe care îl aduc studenții, cu trișarea și a fi trișat tratate ca stări simultane, nu ca alternative. Totul este propus din textul politicii, nu observat la studenți.
 
 
+Dintre 546 de studenți de licență, integritatea s-a clasat pe primul loc între cinci dimensiuni ale percepției (3,79 din 5) și nu a diferit după programul de studiu, ceea ce plasează variația disciplinară în utilizarea IA și cererea de competențe, nu în cât de mult contează integritatea ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Concepții eronate
 
 - **„Instrumentele de detecție identifică scrierea IA.”** Textul generat de IA a **trecut drept scris de om în până la 80% din cazuri**, în timp ce dovezile privind detecția plasează **detecția automată la aproximativ 80%, față de 78,4% pentru evaluatorii umani**. Judecata umană și cea automată sunt aproape la fel de (ne)fiabile, astfel încât un verdict de detecție nu este dovadă de autorat.
@@ -258,3 +260,4 @@ OECD (2023) consemnează că, la începutul anului 2024, niciuna dintre cele opt
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — Evaluare prin muncă în echipă cu verificare individuală ca design de autentificare (Issa și Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Responsabilizarea, nu proporția de text, ca problemă de integritate
+- [[crisol-moya-integrity-assessment-2026]] — 546 de studenți: integritatea este prima și constantă între programe (Crisol Moya et al. 2026)

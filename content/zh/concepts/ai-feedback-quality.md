@@ -1,7 +1,7 @@
 ---
 title: AI 反馈质量
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -112,6 +112,8 @@ AI 反馈质量从根本上与 [[formative-assessment]] 和 [[feedback|反馈回
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu、Li 与 Moorhouse（2026）]] 考察了 DeepSeek 的显式推理轨迹作为一种反馈可供性，发现可见的推理使写作者能够检视一条评语的依据，而模型仍把论证等高阶判断交给人类。
 
+第一轮正确的回答到第三轮可能就错了：在 11 个模型中，12.7% 在权威压力下翻转为错误答案，因此反馈质量必须跨整段交互来评分，而不是只看首次回应（[[liu-educational-sycophancy-2026|Liu 与 Korolova，2026]]）。
+
 ## 常见误解
 
 - **"学生接受 AI 反馈，所以它就是好的。"** **学生感知的质量比可接受度所暗示的更为复杂**：**93 名本科生中有 77 名认为 AI 反馈容易理解，但同时有 68 名认为它内容重复，另有 79 名**认为其他方面仍有欠缺。理解度与不满在同一批学习者中同时存在。
@@ -177,3 +179,4 @@ AI 反馈质量从根本上与 [[formative-assessment]] 和 [[feedback|反馈回
 - [[lin-rag-lesson-generation-tutor-training-2026]] — 在有反馈在场时，RAG 生成的导学培训课与人工创作的相当；人的优势只在无反馈时出现
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 横跨 68 项研究的三个评价维度，其中评分标准对齐是最薄弱的一项（Yang 2026）
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 157 条被评反馈信息中的标准层与评分者层分歧（Vanhoyweghen et al. 2026）
+- [[liu-educational-sycophancy-2026]] — 正确性取决于交互：在反驳下翻转率为 12.7%（Liu 与 Korolova 2026）

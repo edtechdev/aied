@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoretyzowanie po stronie nauczyciela podejmuje teraz to samo zobowiązanie do t
 - **Paradygmaty [[student-engagement|zaangażowania]] człowieka z GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] odpowiada na „deficyt teorii" w dziedzinie, ugruntowując siedem urzeczywistnianych paradygmatów zaangażowania człowieka z GAI (strzeżony, skoncentrowany na możliwościach, wzmocniony, pionierski, symbiotyczny, oparty na wartościach, [[equity-in-ai-education|równościowy]]) w wielowymiarowym modelu osobistych przekonań epistemologicznych Schommera — epistemologiczną, a nie narzędziową teorię tego, jak jednostki różnie sytuują się wobec SI.
 - **Ekologiczna rama współsprawczości.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] twierdzi, że [[generative-ai|generatywna SI]] przesuwa autorytet epistemologiczny od nauczycieli przez studentów do maszyn, i wprowadza ramę definiującą współsprawczość przez trzy współzależne wymiary — relacyjny, regulacyjny (zmapowany na [[self-regulated-learning|cykl SRL]]) i [[pedagogy|pedagogiczny]] (kontinuum adopcji przez nauczyciela) — wszystkie ograniczone nienegocjowalnym warunkiem ludzkiej odpowiedzialności epistemicznej (kontestowalność, pochodzenie i nieprzekazywalność zasługi moralnej/intelektualnej). Sytuuje [[agency|sprawczość]] jako *epistemiczny* problem projektowy, a nie kwestię [[usability-research|użyteczności]], dając instytucjom precyzyjniejszy język niż „równowaga" do zarządzania integracją GenAI.
 - **Relacyjna sprawczość epistemiczna i zależność epistemiczna.** [[du-yuan-epistemic-dependence-2026|Du i Yuan (2026)]] wnoszą krytyczno-integracyjne ujęcie tego, kiedy zapośredniczone przez SI poleganie zachowuje, a kiedy wypiera osąd. Operacjonalizują granicę produktywnego polegania i szkodliwej zależności przez sześć kryteriów diagnostycznych (kontestowalność, odzyskiwalność, transfer, śledzalność, odpowiedzialność rozproszona, pluralizm epistemiczny) i śledzą cztery ścieżki socjotechniczne (płynny autorytet, beztarciowe delegowanie, nieprzejrzysta synteza, zinstytucjonalizowana zależność). Ich propozycja normatywna, **relacyjna sprawczość epistemiczna**, rozszerza nurty relacyjnej autonomii i epistemicznej współsprawczości, zachowując wyraźną asymetrię — SI może kształtować rozumowanie bez wzajemnej odpowiedzialności lub legitymnego autorytetu — i integruje odpowiedzialność oraz sprawiedliwość epistemiczną na poziomie instytucjonalnym. Jako teoria uczenia się z SI przesuwa pytanie dziedziny z tego, czy SI pomaga czy szkodzi, na to, które działania epistemiczne są zachowane, przekształcone lub wyparte, i czyni *projektowanie zależności*, a nie samo użycie, przedmiotem interwencji pedagogicznej i instytucjonalnej.
+
+Wynik modelu awansuje do statusu wiedzy zbiorowej bez gwarancji wspólnoty, której ten status wymaga — to, co Webb et al. (2026) nazywają pseudo-cPCK, i powód, dla którego dziedzina potrzebuje nowego konstruktu teoretycznego, a nie lepszego interfejsu ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Rozwijanie istniejącej teorii
 
@@ -164,3 +166,4 @@ Rozwój teorii i [[philosophy-of-ai-in-education|filozofia SI w edukacji]] to ko
 - [[ai-connectedness-adolescent-mental-health-2026]] — Połączenie ze sztuczną inteligencją: trójwymiarowy konstrukt z sześcioma falsyfikowalnymi propozycjami do późniejszego testowania
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cykl partnerstwa poznawczego
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Pożądane trudności i produktywna porażka zastosowane do sprawczości interpretacyjnej w edukacji za granicą
+- [[webb-pck-genai-2026]] — Trzy winietki i nowy konstrukt, pseudo-cPCK, dla wyników naśladujących zbiorowo zweryfikowaną wiedzę bez gwarancji (Webb et al. 2026)

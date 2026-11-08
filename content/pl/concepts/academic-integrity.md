@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,8 @@ Pierwsze badanie teorii zachowań planowanych nad intencją przewinienia oparteg
 
  OECD (2023) odnotowuje, że na początku 2024 r. żadne z osiemnastu badanych państw nie miało szczegółowych regulacji generatywnej SI w edukacji, a dziewięć zdelegowało zarządzanie na poziom szkoły. Czytane przez nieperformatywność Ahmed, słownictwo wyraża etyczną wrażliwość bez mechanizmu jej wdrożenia, więc odpowiedzialność jest przywoływana przez wszystkich aktorów naraz i nie lokuje się u nikogo. Hashem nazywa wynik zmieniającym się **habitusem ściągania**: dyspozycje ku legitymowanemu uczestnictwu rekallibrowane w warunkach przewlekłej nieokreśloności, stratyfikowane według kapitału akademickiego, który studenci przynoszą, przy czym ściąganie i bycie oszukanym traktowane są jako warunki współistniejące, a nie alternatywy. Wszystko to zaproponowano z tekstu polityki, nie zaobserwowano u studentów.
 
+Wśród 546 studentów studiów licencjackich uczciwość zajęła pierwsze miejsce wśród pięciu wymiarów percepcji (3,79 z 5) i nie różniła się według kierunku studiów, co lokuje zróżnicowanie dyscyplinarne w korzystaniu z SI i zapotrzebowaniu na umiejętności, a nie w tym, jak ważna jest uczciwość ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Częste błędne wyobrażenia
 
 - **„Narzędzia wykrywania identyfikują pisanie przez SI."** Tekst wygenerowany przez SI **został uznany za napisany przez człowieka w nawet 80% przypadków**, podczas gdy dowody na wykrywanie lokują **wykrywanie maszynowe na poziomie około 80% wobec 78,4% dla ludzkich oceniających**. Osąd ludzki i maszynowy są niemal równie (nie)wiarygodne, więc werdykt detektora nie jest dowodem autorstwa.
@@ -252,3 +254,4 @@ Pierwsze badanie teorii zachowań planowanych nad intencją przewinienia oparteg
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — Praca zespołowa z weryfikacją każdego członka jako projekt uwierzytelniania (Issa i Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Odpowiedzialność, a nie proporcja tekstu, jako problem uczciwości
+- [[crisol-moya-integrity-assessment-2026]] — 546 studentów: uczciwość jest pierwsza i równa na kierunkach (Crisol Moya et al. 2026)

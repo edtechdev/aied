@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: Intelligentes Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,7 @@ Intelligente Tutoring-Systeme repräsentieren eines der ältesten und am besten 
 ### Zentrale ITS-Forschung
 
 - **Mikrorandomisierte Studien einer Tutoringplattform:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] führten eine vierwöchige multiständige individuell randomisierte Evaluation von Medly in GCSE [[biology-education|Biologie]], [[chemistry-education|Chemie]] und [[physics-education|Physik]] durch, wobei 644 von 929 Studierenden den Posttest absolvierten; die Zuweisung zur Plattform erzeugte Hedges' g = 0.33 (95% CI 0.18 to 0.48) gegenüber [[self-directed-learning|selbstgesteuerter]] Wiederholung nach Business-as-usual, mit positiven Schätzungen in allen drei Fächern und keinem Beleg differentieller Wirkung durch Benachteiligung (Pupil Premium g = 0.28 gegenüber non-Pupil Premium g = 0.35).
+- **Eine US-amerikanische K-12-Metaanalyse beziffert den durchschnittlichen Effekt auf g = 0,271.** Über 18 Experimente hinweg trugen ausgearbeitete Beispiele und von Lernenden angeforderte Hinweise den Effekt, während automatisch ausgelöste Hinweise ihn nicht trugen, und Implementierungen, die über sechs Monate hinausgingen, verblassten zu einem nicht signifikanten g = 0,110 ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **[[lak2026-hint-button-unproductive-use|Hint-Button-Forschung]]** zeigt, dass traditionelles ITS-Hint-Design versehentlich Umgehungsstrategien ermöglichen kann, und fordert ausgefeiltere [[scaffolding|Scaffolding]]-Ansätze.
 - **[[deeptutor]]** bietet ein vollständig [[open-source|Open-Source]]-agentisches Tutoring-Framework mit zitatenverankertem Tutoring und schwierigkeitskalibrierter [[automated-question-generation|Fragengenerierung]].
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretierbares Knowledge Tracing]]** adressiert das Opazitätsproblem, indem es interpretierbare kognitive Größen aus LLM-Logits erzeugt.
@@ -199,6 +200,8 @@ Wirksames Tutoring erfordert fortlaufende Anpassung: [[zhang-tutormoments-2026|Z
 - [[speech-and-voice-technologies]]
 
 ## Verbundene Artikel
+
+- [[leite-its-k12-meta-analysis-2025]] — US-amerikanische K-12-Metaanalyse: 18 Experimente, g = 0,271 und was den Effekt moderiert (Leite et al. 2025)
 
 - [[learnlm-eedi-expanded-rct-2026]] — Erweiterter UK-RCT: Nahtransfergewinne, aber kein Vorteil bei standardisierten Tests nach 10 Wochen (LearnLM Team, Google & Eedi 2026)
 

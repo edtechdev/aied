@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 自我调节学习
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -166,6 +166,8 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 
 哪种支持在场，决定哪个中介承载这一关联：在 3,003 名中国职前教师中，感知到的人工智能工具支持主要通过人工智能[[self-efficacy]]（占该路径总效应的 60.88%）通向创新胜任力，而感知到的学校智慧环境支持主要通过自我调节学习（29.64% 对 18.60%）（[[preservice-teachers-ai-support-innovative-competence-2026|Liu 等（2026）]]）。
 
+学生在报告感知到的成绩提升的同时，也报告了更多拖延（β = 0.525）；这区分了因 AI 可用而推迟学习任务，与借助 AI 的帮助而推迟学习任务——这是单一的自我调节分数无法承载的区分（[[gouroubera-genai-benin-2026|Gouroubera 等，2026]]）。
+
 ## 启示
 
 - **对日志/聊天机器人工具：**把 SRL 教学（基于课程）与可选的写作支持结合起来，以兼得动机与投入上的增益
@@ -262,3 +264,4 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - [[ai-project-hybrid-learning-self-regulated-2026]] — 用人工智能强化学生自我调节学习的项目式混合学习模型
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — 人工智能助教作为首位回应者挤占了同伴回复，也随之挤占了放大自我调节成绩价值的共同调节（Davis 等 2026）
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] —— 先备概念多样性改变了元认知提示的落地方式：相同的提示功能，对 AI 产出的持续评价却相反（Wang 等 2026）
+- [[gouroubera-genai-benin-2026]] — 拖延随使用而上升（β = 0.525），与感知收益并存，把 AI 促成的延迟与仅仅关于 AI 的延迟区分开来（Gouroubera 等 2026）

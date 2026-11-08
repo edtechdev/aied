@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-07T20:28:56-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-04T13:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ Der Korpus ist stark verzerrt: 68 % der Essays liegen auf Stufe 3 und nur 1,8 % 
 
 Die Lehre für die Messung ist enger, als sie aussieht. Ein Klassifikator schätzt, wie reflektierend ein Text liest. Er kann nicht sagen, ob die Reflexion stattgefunden hat, und er liegt genau auf der Leistungsstufe, die ein flüssiges Modell nachahmen kann.
 
+Dasselbe Dashboard-Gerüst steigerte die analytische und evaluative Tiefe im reflektierenden Schreiben (η² = 0,623 und 0,627), während Beschreibung und Handlungsplanung unverändert blieben, sodass ein Gerüst vertiefen kann, wie eine Lehrkraft über eine Stunde nachdenkt, ohne zu verändern, was sie als Nächstes zu tun plant ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 ## Journale, Portfolios und Prompts als Trägersysteme
 
 Das Konstrukt wird üblicherweise durch drei Vehikel vermittelt, und jedes hat seinen eigenen Fehlermodus.
@@ -111,6 +113,8 @@ Für Lehrkräfte fungiert das Konstrukt zugleich als [[educational-development|p
 [[teachers-reflective-regulators-cognition-offloading|Ho und Chen (2026)]] ergänzen die Prozesssicht von 18 Lehrkräften aus dem chinesischen Kernland und Hongkong, deren Aussagen sich zu drei Mustern fügen: das Erkennen der Notwendigkeit, GenAI zu nutzen, das Umverteilen von Kognition und das reflexive Wieder-Anknüpfen nach der Nutzung. [[reflective-triangle-model-teacher-ai-2026|Das Reflective Triangle Model (2026)]] verbindet Selbstreflexion, kollaborative Reflexion und Gemeinschaftsreflexion in einer professionellen Lerngemeinschaft in einer vierwöchigen Fallstudie mit sechs Lehrkräften, mit KI als kognitiver Vermittlerin statt als Bewerterin.
 
 Vorbereitung zählt zudem unabhängig vom Werkzeug. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] stellten in einem 2 × 2-Design mit 60 Lehramtsstudierenden metakognitives Strategietraining gegen ein Placebo-Modul und einen als [[socratic-method|sokratischen]] Reflexionspartner konfigurierten LLM gegen traditionelle digitale Werkzeuge. Beide Haupteffekte waren für die Qualität der schriftlichen Reflexion im Posttest signifikant.
+
+In einer Kartierung von 26 Studien zu KI im Service-Learning war Reflexion die am wenigsten bediente Phase — drei Studien erreichten sie, und eine deckte alle vier ab —, sodass die Phase, die aus Service erst Lernen macht, dort am dünnsten mit KI-Unterstützung versorgt ist ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## Das Risiko, dass ein Reflexionsprompt die Überwachung ersetzt, die er aufbauen soll
 
@@ -200,3 +204,5 @@ Ein Ausgangsprompt, der die meisten der obigen Fehlermodi übersteht: *(1) Was h
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Positionspapier: keine Evidenz dafür, dass Reflexionsprompts dauerhafte Selbstüberwachung aufbauen (de Jong 2026)
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16-wöchige WordPress-E-Portfolios mit GenAI als Feedbackgeber und Synthetisierer (Ni & Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT abgestimmt auf E-Portfolio-Assessment, Wilks' λ = 0,476, partielles η² = 0,524 (Sutama 2026)
+- [[liu-teaching-analytics-dashboard-2026]] — Ein Gerüst steigerte die analytische und evaluative Tiefe, während Handlungsplanung flach blieb (Liu et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — Kartierung von 26 Studien: Reflexion ist die am wenigsten bediente Phase des Service-Learning-Zyklus (Yusuf et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: 학습 분석
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -123,6 +123,7 @@ ai_assist:
 
 대시보드와 조기 경보 시스템은 [[automation-bias|자동화 편향]]의 위험을 집중시킵니다. 플래그는 하나의 판단을 주장하며, 사람은 그것이 검토되었기 때문이 아니라 존재하기 때문에 그것을 받아들일 수 있습니다.
 
+다중 양상 지표를 일정하게 두고 서사적 설명만 더했을 때 예비 교사의 해석(η² = 0.166)과 의미 구성(η² = 0.220)이 올라갔지만 실행 가능한 전환은 움직이지 않았습니다. 병목은 자료가 아니라 해석의 층위였습니다([[liu-teaching-analytics-dashboard-2026|Liu 등, 2026]]).
 
 ## 흔한 오해
 
@@ -194,4 +195,6 @@ ai_assist:
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — AI 분석을 집단적 논증으로 알아차리고 조율하기(Lee, Park & Lee 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 완료율은 참여의 붕괴를 감출 수 있습니다
 - [[kim-ai-embodied-learning-review-2026]] — 구체화 학습에서의 AI는 대체로 관찰만 합니다: 부호화된 역할 꼬리표의 62.5%가 감지 역할이고, 학습자가 사용하는 동안 다중 양상 스트림을 융합한 시스템은 검토 대상에 없었습니다 (Kim & Han 2026)
+
+- [[liu-teaching-analytics-dashboard-2026]] — 설명 층위를 분리한 능동 통제 마이크로티칭 연구: 해석은 움직였고 실행은 움직이지 않았다(Liu 등 2026)
 

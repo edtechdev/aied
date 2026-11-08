@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoretizovanie na strane učiteľa teraz prijíma rovnaký záväzok testovateľ
 - **Paradigmy [[student-engagement|angažovanosti]] človeka a GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] adresuje „teoretický deficit" odboru tým, že zakladá sedem uplatňovaných paradigiem angažovania človeka s GAI (opatrná, zameraná na možnosti, augmentovaná, priekopnícka, symbiotická, hodnotovo založená, [[equity-in-ai-education|rovnostná]]) v Schommerovej multidimenzionálnom modeli osobných epistemologických presvedčení — epistemologická, a nie na nástroj zameraná teória o tom, ako sa jednotlivci odlišne pozicionujú voči AI.
 - **Rámec ekologickej spoluagentúry.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argumentuje, že [[generative-ai|generatívna AI]] prerozdeľuje epistemologickú autoritu od učiteľov na študentov a na stroje, a predstavuje rámec definujúci spoluagentúru cez tri vzájomne závislé dimenzie — relačnú, regulačnú (mapovanú na [[self-regulated-learning|cyklus SRL]]) a [[pedagogy|pedagogickú]] (kontinuum osvojenia učiteľom) — všetky ohraničené nevyhnutnou podmienkou ľudskej epistemickej zodpovednosti (spochybniteľnosť, pôvod a nedelegovanie morálneho alebo intelektuálneho kreditu). Pozicionuje [[agency|agentúru]] ako *epistemický* dizajnový problém, a nie [[usability-research|otázku použiteľnosti]], čím dáva inštitúciám presnejší jazyk než „rovnováha" na riadenie integrácie GenAI.
 - **Relačná epistemická agentúra a epistemická závislosť.** [[du-yuan-epistemic-dependence-2026|Du a Yuan (2026)]] prinášajú kriticko-integračný výklad toho, kedy závislosť sprostredkovaná AI zachováva a kedy vytláča úsudok. Operacionalizujú hranicu produktívnej závislosti a škodlivej závislosti šiestimi diagnostickými kritériami (spochybniteľnosť, obnoviteľnosť, transfer, sledovateľnosť, distribuovaná zodpovednosť, epistemická pluralita) a sledujú štyri sociotechnické cesty (plynulá autorita, delegovanie bez trenia, nepriehľadná syntéza, inštitucionalizovaná závislosť). Ich normatívny návrh, **relačná epistemická agentúra**, rozširuje línie relačnej autonómie a epistemickej spoluagentúry tým, že zachováva explicitnú asymetriu — AI môže formovať uvažovanie bez recipročnej zodpovednosti alebo legitímnej autority — a zároveň integruje zodpovednosť a epistemickú spravodlivosť na inštitucionálnej úrovni. Ako teória učenia s AI posúva otázku odboru z toho, či AI pomáha alebo škodí, na to, ktoré epistemické činy sa zachovávajú, transformujú alebo vytláčajú, a robí z *dizajnu závislosti*, a nie z obyčajného používania, predmet pedagogickej a inštitucionálnej intervencie.
+
+Výstup modelu sa povyšuje na status kolektívneho poznania bez garancie komunity, ktorú tento status vyžaduje — to, čo Webb et al. (2026) nazývajú pseudo-cPCK, a dôvod, prečo odbor potrebuje nový teoretický konštrukt, a nie lepšie rozhranie ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Rozvíjanie etablovanej teórie
 
@@ -166,3 +168,4 @@ Vývoj teórie a [[philosophy-of-ai-in-education|filozofia AI vo vzdelávaní]] 
 - [[ai-connectedness-adolescent-mental-health-2026]] — Prepojenosť s umelou inteligenciou: trojdimenzijný konštrukt so šiestimi falzifikovateľnými tvrdeniami na neskoršie testovanie
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cyklus kognitívneho partnerstva
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Žiaduce ťažkosti a produktívne zlyhanie uplatnené na interpretačnú agentúru vo vzdelávaní v zahraničí
+- [[webb-pck-genai-2026]] — Tri vinety a nový konštrukt, pseudo-cPCK, pre výstup, ktorý napodobňuje kolektívne validované poznanie bez garancie (Webb et al. 2026)

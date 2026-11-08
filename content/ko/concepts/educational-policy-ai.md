@@ -1,7 +1,7 @@
 ---
 title: 교육 AI 정책
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -130,6 +130,8 @@ PISA 2022–2025에 대한 국가 수준의 분석은 생성형 AI 사용이 더
 
 같은 결핍에는 수요 측면도 있습니다. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]]는 스웨덴 사회과학부의 수요 측 증거를 더합니다. 설문과 포커스 그룹 참가자의 31%가 윤리를 먼저 제기했고, 대부분은 더 많은 기관 지침을 원했으며, 생성형 AI의 환경적 결과는 정책 문서에서 완전히 빠져 있었습니다.
 
+자금 제공자는 그 자체로 하나의 정책 층위를 이룹니다. AI 지침을 갖춘 46개 기관 가운데 12개가 자금 지원에 특정한 규칙을 붙였지만, 그 자금 지원 수단 어느 것도 일반 정책이 밝힌 거버넌스 조항을 담지 않았습니다([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## 흔한 오해
 
 - **"대학에는 실제 AI 정책이 있다."** **법적 형식은 법적 언어보다 드뭅니다.** **160개 문서의 범위 검토**에서 **법적 효력을 지닌 도구는 2.5%였고 57.5%는 지침이나 툴킷**이었습니다. 백 건이 넘는 AI 거버넌스 문서에서 구속력 없는 지침이 대부분을 차지합니다.
@@ -195,4 +197,6 @@ PISA 2022–2025에 대한 국가 수준의 분석은 생성형 AI 사용이 더
 - [[genai-pisa-decline-countries-2026]] — 더 높은 국가 수준의 생성형 AI 사용이 PISA 2022-2025의 더 큰 하락을 추적했으며, 선행 성과를 통제하면 사라진 상관관계(Guerra & Aslanov 2026)
 
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 조달이 교수법보다 먼저 데이터 환경을 설정한다
+
+- [[chan-ai-policy-gap-2026]] — 46개 자금 제공자의 56개 문서: 자금 지원에 특정한 수단 12개를 갖춘 연구 자금 정책 층위(Chan 2026)
 

@@ -1,7 +1,7 @@
 ---
 title: 援助要請
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ ai_assist:
 - **足場の梯子は、高く上がるほど登られにくい。** 未回答の決定ごとに1段ずつ昇格し、学習者がそれを受け入れると戻るチューターCoMeTでは、符号化された515のフェーディング・エピソードのうち、回答に続いたのは282だけでした。受容率は最初の問いかけの後で37.0%、3回目の後で21.8%でした（[[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al.（2026）]]）。したがって、援助を遅らせることは、プロンプトに答え続ける学習者に依存しており、測定された減衰は、足場かけの後の段が、依然として行き詰まっている少数の学生にしか届かないことを意味します。
 
 - ***するかどうか*から*どうするか*へ**——鍵となる設計上の問いは、ヒントを全く提供しないかではなく、生産的な悪戦苦闘の原則に沿ってヒントの提供をどう構造化するかです。([[lak2026-hint-button-unproductive-use]])
+- **学習者が統制する提供方式へのメタ分析の支持。** 米国の K-12 の 18 実験を統合すると、解答例（g = 0.324）とオンデマンドのヒント（g = 0.316）は有意でしたが、自動的に発動するジャストインタイムのヒントはそうではありませんでした。ただし著者らは、自己調整が弱い学習者がオンデマンド機能を悪用しうると警告しています（[[leite-its-k12-meta-analysis-2025|Leite ら（2025年）]]）。
 - **メッセージの長さこそ、届け方の研究が実際に測定してきた梃子です。** ライブのプログラミングコースでは、LLMのヒントが長いほど、次の提出の正しさが悪く、残りの試行回数が多く、再提出が遅いことを予測しました。204.9文字の標準偏差あたり、14,809の学生と課題のペアにわたり([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylovaら (2026)]])。可読性はどの成果にもほとんど影響せず、難しさよりも量が重要でした。
 - **同じコース部分の先行ヒントは、統合的な段階での成功率の低さと連動しました。** プロジェクトの先行する段階でフィードバックを受けた学生は、最終段階を95.6%で解いたのに対し、受けなかった学生は98.1%で、対数オッズの係数は−1.096でした([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylovaら (2026)]])。著者らはそれを害として読んでいません。ヒントを求める学生は、そもそもそこで苦労するはずの学生である可能性が高いからであり、それはこのページが提起する[[self-regulated-learning|モニタリング]]の問いです。
 
@@ -151,6 +152,7 @@ ai_assist:
 
 ## 関連記事
 
+- [[leite-its-k12-meta-analysis-2025]] — どの個別指導の支援が効果を担うか：自動の促しよりもオンデマンドの解答例とヒント
 - [[taufer-human-ai-interaction-haidl-2026]] — 一次データとしての相互作用：その周囲の実行状態によってクエリを分類する
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — 援助要請の水準ではなく軌跡が、支援なしの数学の成績を予測する
 

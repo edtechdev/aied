@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,9 @@ Plutôt que de retirer l'aide, la recherche recommande de repenser la manière d
 - **La disponibilité différée des indices** — exiger un temps d'engagement minimal ou des tentatives de solution avant que les indices (en particulier les indices finals) ne soient accessibles.([[lak2026-hint-button-unproductive-use]])
 - **On grimpe d'autant moins haut dans une échelle d'estompage qu'elle s'élève.** Dans CoMeT, un tuteur qui montait d'un échelon à chaque décision laissée sans réponse et redescendait lorsque l'apprenant la reprenait, seuls 282 des 515 épisodes d'estompage codés suivaient une réponse : le taux de reprise était de 37,0 % après la première demande et de 21,8 % après la troisième ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Retarder l'aide dépend donc d'un apprenant qui continue de répondre à l'invite, et la décroissance mesurée signifie que les échelons supérieurs d'un étayage n'atteignent que peu des étudiants encore bloqués.
 - **Passer du *s'il faut* au *comment*** — la question clé de conception est de savoir comment structurer la délivrance des indices conformément aux principes de lutte productive, et non s'il faut fournir des indices du tout.([[lak2026-hint-button-unproductive-use]])
+
+- **Un soutien méta-analytique en faveur d'une délivrance contrôlée par l'étudiant.** En regroupant 18 expériences américaines en K-12, les exemples travaillés (g = 0.324) et les indices à la demande (g = 0.316) étaient significatifs, tandis que les indices automatiques déclenchés juste à temps ne l'étaient pas — les auteurs avertissent toutefois que les apprenants moins autorégulés peuvent exploiter les fonctionnalités à la demande ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
+
 - **La longueur du message est le levier que la recherche sur la délivrance a réellement mesuré.** Dans un cours de programmation en direct, des indices de LLM plus longs prédisaient une moins bonne exactitude à la soumission suivante, davantage de tentatives restantes et une resoumission plus lente, par écart-type de 204.9 caractères sur 14 809 paires étudiant-exercice ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). La lisibilité ne déplaçait presque aucun résultat, si bien que le volume comptait plus que la difficulté.
 - **Des indices antérieurs sur la même partie du cours étaient associés à une moindre réussite à l'étape intégrative.** Les étudiants ayant reçu une rétroaction sur les étapes antérieures d'un projet résolvaient leur étape finale dans 95.6% des cas, contre 98.1% pour ceux qui n'en avaient pas reçu, avec un coefficient log-odds de −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Les auteurs ne lisent pas cela comme un préjudice, puisque les étudiants qui demandent des indices sont plausiblement ceux qui auraient de toute façon buté à cet endroit, ce qui est la question de [[self-regulated-learning|surveillance]] que cette page soulève.
 
@@ -155,6 +158,7 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 - [[student-support-and-success]] — La démarche institutionnelle et l'allocation des soutiens, au-delà de la recherche d'aide dans le cours
 
 ## Articles liés
+- [[leite-its-k12-meta-analysis-2025]] — Quels soutiens de tutorat portent l'effet : exemples et indices à la demande plutôt qu'invites automatiques
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Les interactions comme données de première classe : classer une requête par l'état d'exécution qui l'entoure
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — La trajectoire de la recherche d'aide, et non son niveau, prédit la performance en mathématiques sans assistance

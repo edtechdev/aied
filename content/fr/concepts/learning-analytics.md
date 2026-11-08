@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -139,6 +139,9 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 
 Les tableaux de bord et les systèmes d'alerte précoce concentrent le risque de [[automation-bias|biais d'automatisation]] : un signal énonce un jugement qu'une personne peut accepter parce qu'il existe, plutôt que parce qu'il a été vérifié.
 
+En maintenant constants les indicateurs multimodaux et en ajoutant seulement une explication narrative, l'interprétation des enseignants en formation initiale s'est améliorée (η² = 0.166) ainsi que la construction de sens (η² = 0.220), tandis que la transformation actionnable ne bougeait pas — le goulot d'étranglement était la couche d'interprétation, non les données ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« Une estimation de l'état des connaissances hérite sa validité des données. »** **La matrice Q qui relie les items aux attributs est une hypothèse, pas une donnée** : des entrées rejetées pour **14 des 918 items analysés** signifient que la correspondance elle-même a exigé un arbitrage. Valider la correspondance est une étape, pas une formalité.
@@ -208,3 +211,6 @@ Les tableaux de bord et les systèmes d'alerte précoce concentrent le risque de
 - [[thomas-breaking-learning-system-wall-2026]] — Vers la rupture du mur des systèmes d'apprentissage grâce aux transcriptions multimodales de tutorat (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Les taux d'achèvement peuvent masquer un effondrement de l'engagement
 - [[kim-ai-embodied-learning-review-2026]] — L'IA dans l'apprentissage incarné observe surtout : les rôles de détection représentaient 62,5 % des étiquettes de rôle codées, et aucun système examiné n'a fusionné des flux multimodaux pendant l'usage des apprenants (Kim & Han 2026)
+
+- [[liu-teaching-analytics-dashboard-2026]] — Étude de micro-enseignement à contrôle actif isolant la couche d'explication : l'interprétation a bougé, l'action non (Liu et al. 2026)
+

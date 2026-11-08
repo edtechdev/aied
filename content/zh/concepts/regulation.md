@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能监管
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ ai_assist:
 
 监管连接到[[educational-policy-ai]]、[[governance]]、[[ethics]]、[[privacy]]、[[pedagogical-safety]]与[[academic-integrity]]。它是塑造所有其他人工智能教育实践如何运作的机构层。监管既约束又使能：它设定可接受人工智能使用的边界，同时通过[[ai-literacy]]与负责任使用预期，为[[equity-in-ai-education|公平的]]、安全的整合创造条件。
 
+监管并不会自动向下传导：在存在州级 AI 规则的地区运营的 32 个资助机构发布了总体政策，却没有任何载有这些规则的资助专用工具（[[chan-ai-policy-gap-2026|Chan，2026]]）。
+
 ## 常见误解
 
 - **“机构 AI 政策是规则所在之处。”** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]] 对 **1,057 名美国教师** 的调查测量了有效规则落在机构层之下有多深：**87% 的受访者自己写了**指引。可运作的政策在很大程度上由教师撰写，这意味着有记录的机构层所描述的东西比它看起来的要少。
@@ -104,3 +106,4 @@ ai_assist:
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% 的教师自订规则，对照薄弱的机构政策层（Watson & Rainie 2026）
 - [[edtech-privacy-deferral-2026]] — “以后再说”：教育、人工智能与 EdTech 中学生隐私的推迟
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — 没有任何对照政策涉及人工智能智能体登录 LMS 或持有学生凭证（Wong & Sun 2026）
+- [[chan-ai-policy-gap-2026]] — 纵向不传导：州级规则存在，而其下的资助者未发布任何有约束力的工具（Chan 2026）

@@ -1,7 +1,7 @@
 ---
 title: 教师教育
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,8 @@ ai_assist:
 
 - **教会教师读懂AI政策背后的原始研究。**一门为期六周的研究生研究方法课程以研究消费而非研究生产为目标：一名教师把批判性评价框架应用于学区规定的课程，并把分析呈报给其校长，还有几位在自己的学生中采用了[[socratic-method|苏格拉底式提问]][[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]。
 
+由于模型会放大教师已有的个人 PCK，新手是最容易受到自信却缺乏依据的学科特定建议影响的人群；因此发展性的补救在于带教与教研组核验，而不是个别的 AI 素养模块（[[webb-pck-genai-2026|Webb 等，2026]]）。
+
 ## 常见误解
 
 - **"职前教师对 AI 的接受是一种单一态度。"** **128 名职前教师**被划分为四种 ChatGPT 接受度群体，其中包括**抗拒的怀疑者（14.06%），他们报告了很高的感知易用性，却只有很低的行为**意向。在这一群体里，易用性与意向分了开来，因此一个由[[usability-research|可用性]]驱动的干预会让他们毫无变化。
@@ -189,3 +191,4 @@ ai_assist:
 - [[packard-thinking-partner-framework-adult-learners-2026]] — K-12教师学会阅读AI原始研究并质疑学区规定
 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 职前教师作为学习者：对能源意见不一的小组把 AI 变成概念讨论的中心，意见一致的小组把它当作查询工具并反感主动提示（Wang 等，2026）
+- [[webb-pck-genai-2026]] — 为何模型会放大新手薄弱的 PCK，以及为何补救是集体性的而非一个 AI 素养模块（Webb 等 2026）

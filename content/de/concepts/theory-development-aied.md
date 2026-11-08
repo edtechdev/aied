@@ -1,7 +1,7 @@
 ---
 title: Theorieentwicklung in der KI in der Bildung
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Lehrkraftseitiges Theoretisieren trifft nun dieselbe Testbarkeitszusage: das Cap
 - **Mensch-GAI-[[student-engagement|Engagement]]paradigmen.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] adressiert das „Theoriedefizit" des Felds, indem sie sieben ausgeübte Mensch-GAI-Engagementparadigmen (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, [[equity-in-ai-education|equity]]) in Schommers multidimensionalem Modell persönlicher erkenntnistheoretischer Überzeugungen verankert —, eine erkenntnistheoretische, nicht werkzeugfokussierte Theorie, wie Individuen sich unterschiedlich gegenüber KI positionieren.
 - **Das Ökologische Ko-Handlungsfähigkeits-Rahmenwerk.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argumentiert, dass [[generative-ai|generative KI]] epistemische Autorität von Lehrkräften zu Lernenden zu Maschinen neu zuweist, und führt ein Rahmenwerk ein, das Ko-Handlungsfähigkeit über drei interdependente Dimensionen definiert — relational, regulatorisch (abgebildet auf den [[self-regulated-learning|SRL]]-Zyklus) und [[pedagogy|pädagogisch]] (Lehrkraft-Übernahmekontinuum) —, alle begrenzt durch eine nicht verhandelbare Bedingung menschlicher epistemischer Verantwortung (Bestreitbarkeit, Herkunft und Nicht-Delegation moralischer/intellektueller Anerkennung). Es positioniert [[agency|Handlungsfähigkeit]] als ein *epistemisches* Designproblem statt als ein [[usability-research|Usability]]-Anliegen, und gibt Institutionen eine präzisere Sprache als „Balance" für die Governance von GenAI-Integration.
 - **Relationale epistemische Handlungsfähigkeit und epistemische Abhängigkeit.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] tragen eine kritisch-integrative Darstellung dessen bei, wann KI-vermittelte Verlassenheit Urteil bewahrt gegenüber es zu verdrängen. Sie operationalisieren die produktive-Verlassenheit/schädliche-Abhängigkeit-Grenze über sechs diagnostische Kriterien (Bestreitbarkeit, Wiederherstellbarkeit, Transfer, Nachverfolgbarkeit, verteilte Verantwortung, epistemische Pluralität) und verfolgen vier soziotechnische Pfade (flüssige Autorität, reibungslose Delegation, opake Synthese, institutionalisierte Abhängigkeit). Ihr normativer Vorschlag, **relationale epistemische Handlungsfähigkeit**, erweitert relationale-Autonomie- und epistemische-Ko-Handlungsfähigkeit-Linien, indem er eine explizite Asymmetrie bewahrt — KI darf Schlussfolgern formen ohne reziproke Verantwortung oder legitime Autorität —, während er Verantwortung und epistemische Gerechtigkeit auf institutioneller Ebene integriert. Als Theorie des Lernens mit KI bewegt sie die Frage des Felds davon, ob KI hilft oder schadet, hin zu welchen epistemischen Handlungen bewahrt, transformiert oder verdrängt werden, und macht das *Design der Abhängigkeit* statt bloßer Nutzung zum Gegenstand pädagogischer und institutioneller Intervention.
+
+Die Ausgabe des Modells steigt in den Status kollektiven Wissens auf, ohne die Legitimation der Gemeinschaft, die dieser Status verlangt — was Webb et al. (2026) Pseudo-cPCK nennen und was erklärt, warum das Feld ein neues theoretisches Konstrukt statt einer besseren Oberfläche braucht ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Etablierte Theorie voranbringen
 
@@ -171,3 +173,4 @@ Theorieentwicklung und [[philosophy-of-ai-in-education|die Philosophie der KI in
 - [[ai-connectedness-adolescent-mental-health-2026]] — Verbundenheit mit künstlicher Intelligenz: ein dreidimensionales Konstrukt mit sechs falsifizierbaren Propositionen für spätere Prüfung
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitiver Partnerschaftszyklus
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Wünschenswerte Schwierigkeiten und produktives Scheitern angewandt auf interpretative Handlungsfähigkeit in Bildung im Ausland
+- [[webb-pck-genai-2026]] — Drei Vignetten und ein neues Konstrukt, Pseudo-cPCK, für Ausgaben, die kollektiv validiertes Wissen nachahmen, ohne dessen Legitimation zu tragen (Webb et al. 2026)

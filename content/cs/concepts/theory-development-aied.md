@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T06:44:50-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoretizování na straně učitele nyní přijímá stejný závazek testovatel
 - **Paradigmata [[student-engagement|zapojení]] člověka a GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] řeší „teoretický deficit" oboru tím, že sedm uplatňovaných paradigmat zapojení člověka a GAI (ostražité, zaměřené na možnosti, rozšířené, průkopnické, symbiotické, hodnotové, [[equity-in-ai-education|rovnost]]) zakotvuje v multidimenzionálním modelu Schommerové osobních epistemologických přesvědčení — v epistemologické, nikoli nástrojově zaměřené teorii toho, jak se jednotlivci odlišně pozicují vůči AI.
 - **Rámec ekologické spoluagenturnosti.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] tvrdí, že [[generative-ai|generativní AI]] přesouvá epistemologickou autoritu od učitelů ke studentům a ke strojům, a představuje rámec definující spoluagenturnost prostřednictvím tří vzájemně závislých dimenzí — relační, regulační (mapované na [[self-regulated-learning|cyklus SRL]]) a [[pedagogy|pedagogické]] (kontinuum přijetí učiteli) — všechny ohraničené nepodkročitelnou podmínkou lidské epistemické odpovědnosti (napadnutelnost, provenience a nedelegování morálního a intelektuálního kreditu). Staví [[agency|agenturnost]] jako *epistemický* problém návrhu, nikoli jako otázku [[usability-research|použitelnosti]], a dává institucím přesnější jazyk než „rovnováha" pro řízení integrace GenAI.
 - **Relační epistemická agenturnost a epistemická závislost.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] přinášejí kriticko-integrální výklad toho, kdy AI zprostředkované spoléhání zachovává, a kdy vytlačuje úsudek. Hranici mezi produktivním spoléháním a škodlivou závislostí operacionalizují šesti diagnostickými kritérii (napadnutelnost, obnovitelnost, přenos, sledovatelnost, distribuovaná odpovědnost, epistemická pluralita) a sledují čtyři sociotechnické cesty (plynulá autorita, bezfrikční delegování, neprůhledná syntéza, institucionalizovaná závislost). Jejich normativní návrh, **relační epistemická agenturnost**, rozšiřuje linie relační autonomie a epistemické spoluagenturnosti tím, že zachovává výslovnou asymetrii — AI může utvářet uvažování bez reciproční odpovědnosti nebo legitimní autority — a zároveň integruje odpovědnost a epistemickou spravedlnost na institucionální úrovni. Jako teorie učení s AI posouvá otázku oboru od toho, zda AI pomáhá, nebo škodí, k tomu, které epistemické úkony se zachovávají, přetvářejí nebo vytlačují, a předmětem pedagogické a institucionální intervence činí *návrh závislosti*, nikoli pouhé používání.
+
+Výstup modelu se povyšuje na status kolektivního poznání bez komunitního ručení, které tento status vyžaduje — tomu Webb et al. (2026) říkají pseudo-cPCK, a proto obor potřebuje nový teoretický konstrukt, nikoli lepší rozhraní ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Rozvíjení zavedené teorie
 
@@ -166,3 +168,4 @@ Rozvíjení teorie a [[philosophy-of-ai-in-education|filozofie AI ve vzdělává
 - [[ai-connectedness-adolescent-mental-health-2026]] — Propojenost s umělou inteligencí: třídimenzionální konstrukt se šesti falzifikovatelnými tvrzeními pro pozdější testování
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cyklus kognitivního partnerství
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Žádoucí obtížnosti a produktivní selhání aplikované na interpretační agenturnost ve vzdělávání v zahraničí
+- [[webb-pck-genai-2026]] — Tři viněty a nový konstrukt, pseudo-cPCK, pro výstup, který napodobuje kolektivně validované poznání bez ručení (Webb et al. 2026)

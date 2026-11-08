@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,8 @@ El diseño con intervención humana se ha vuelto central en los debates de esta 
 - **Sustitución de coste por calidad: los hilos automatizados igualaron a los humanos, con un residuo de revisión específico.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] hallaron que los hilos de conversación generados por LLM alcanzaron un kappa de Cohen de 0,6395 frente a 0,6239 de los hilos humanos (condición de ventana deslizante) con un coste inferior a 1 dólar frente a unos 25 dólares por transcripción, de modo que la automatización igualó el objetivo de fiabilidad humana y no un techo inalcanzable. El valor marginal de la persona se concentra en los tipos de hilo en los que los modelos casi fracasan, las transiciones de tema (kappa 0,2567) y las autocontinuaciones (0,4309), donde los autores recomiendan una corrección humana específica junto al hilado automatizado.
 - **La HITL como arquitectura de toda una disciplina, no de un solo flujo de trabajo.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] especifican cuatro capas interconectadas, infraestructura de datos, desarrollo de modelos, interfaz pedagógica y gobernanza humana, sostenidas por tres principios: supervisión y agencia humanas, inteligencia coadaptativa y capacidad de respuesta al contexto.
 
+Una comprobación colocada después de la generación no es un proceso diseñado por una persona: cuando es quien aprende quien diseña las indicaciones y verifica la salida, el bucle gobierna la sustitución; cuando lo hace el sistema, la misma etiqueta describe la revisión del plan de una máquina ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Síntesis
 
 El diseño con intervención humana no es meramente una medida de seguridad: es una **estrategia de asignación de recursos**. La pregunta de frontera no es *si* incluir a las personas, sino *dónde* en la cadena de proceso su juicio tiene el mayor valor marginal. Los sistemas HITL más eficaces concentran la experiencia humana escasa allí donde los sistemas automatizados son más débiles (el diseño de distractores, la retroalimentación explicativa, la resolución de casos límite, el juicio ético) y automatizan el resto, preservando la calidad, la seguridad y la confianza mientras se escala la producción.
@@ -205,3 +207,4 @@ La fuerza de esa salvaguarda depende del [[automation-bias|sesgo de automatizaci
 - [[student-query-demand-hybrid-ai-support-2026]] — Qué pregunta realmente el estudiantado: estructura de la demanda y potencial de automatización en un sistema de apoyo híbrido
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Repensar los enfoques «in-the-loop» en la IA educativa: una perspectiva de las ciencias del aprendizaje
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la respuesta preferida por el sistema redujo la deferencia hacia consejos de IA incorrectos, de forma protectora y no correctiva
+- [[capodieci-humanities-hil-2026]] — Separa dónde se sitúa la comprobación humana de quién diseñó el proceso, en el aprendizaje de humanidades (Capodieci et al. 2026)

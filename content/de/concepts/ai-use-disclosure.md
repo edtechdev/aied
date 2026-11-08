@@ -1,7 +1,7 @@
 ---
 title: Offenlegung der KI-Nutzung
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ Offenlegung ist der Mechanismus, der KI-gestützte Arbeit *sichtbar* und damit s
 - **Mehrdeutige und strafende Richtlinien treiben Verbergen.** Wenn KI-Nutzungsrichtlinien unklar, nicht durchgesetzt oder Verbote sind, verbergen Lernende ihre Nutzung, statt sich zu engagieren. Richtlinien vom Typ „Limited use in certain situations" sagen Offenlegung am besten vorher; „not allowed" oder „not aware" sagen Verbergen vorher. Klare, konsistente, kollaborative Richtlinien werden wiederholt eingefordert.
 - **Offenlegung hat psychische Kosten — und verborgene Kosten.** Lernende betrachten Erklärungen als Selbstbelastung, und manche halten KI-Nutzung für privat wie den Gebrauch eines Taschenrechners. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] fanden, dass Lernende, die „always" offenlegten, über dreifach höhere Chancen hatten, bezichtigt zu werden — Transparenz kann Verdacht einladen. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] fanden, dass Sorge Offenlegung eher zu Peers umlenkt statt sie zu unterdrücken, was Lernende vom Feedback des Lehrpersonals abschneidet.
 - **Offenlegung ist mit selbstreguliertem Lernen verschränkt.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] deuten vom Lehrpersonal geleitete Offenlegung als adaptive Hilfesuche — Unterstützung sichtbar machen und externe Kalibrierung einladen —, während Verbergen (besonders bei starken KI-Nutzenden) maladaptiver Regulation ähnelt. Strukturierte, formative Offenlegung kann die [[metacognition|metakognitive]] Reflexion und das ethische Schlussfolgern fördern, die wirksame Selbstregulation charakterisieren.
+- **Die Abschreckungsstruktur teilt sich nach Ziel.** Unter 466 Studierenden hing die Gewissheit, dass eine Nichtoffenlegung entdeckt würde, mit günstigeren Einstellungen zusammen (β = 0.643), während die Gewissheit, dass eine Erklärung unsachgemäße Nutzung offenlegen würde, mit ungünstigeren zusammenhing (β = −2.175), und schwerere Sanktionen für Nichtoffenlegung waren negativ mit Einstellung und Kontrolle assoziiert. Die Schätzungen zur unsachgemäßen Nutzung beruhen auf kollinearen Prädiktoren (Varianzinflation über 9) und sind daher instabil ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu et al., 2026]]).
 - **Offenlegungsnormen variieren nach Fach, Sprache und Kontext.** Lernende in Bildung, Sozialwissenschaften und [[stem-education|STEM]]/Gesundheit legen mehr offen als Business-Studierende; einsprachige Lernende legen möglicherweise weniger offen als [[multilingual-learning|mehrsprachige]]. Internationale Studierende legten in einer Studie weniger offen, was [[equity-in-ai-education|Gerechtigkeits]]bedenken aufwirft. Offenlegungsnormen entwickeln sich nicht automatisch mit dem akademischen Fortschreiten.
 - **Offenlegungsnormen sind in professionellen Programmen ungeklärt.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski und Hurley (2025)]] berichten, dass von der ABA zugelassene US-amerikanische Law Schools uneins darüber sind, ob jede KI-Nutzung offengelegt werden muss, beschreiben Offenlegungsformulare, die Studierende beim Lehrpersonal einreichen, und finden keinen Konsens darüber, wie wissenschaftliches Schreiben oder Schreiben im Kurs KI zitieren sollte — das Bluebook selbst schweigt. Sie sagen zudem vorher, dass Offenlegung irgendwann so sinnlos erscheinen wird wie der Hinweis, dass jemand eine Suchmaschine benutzt hat — eine Warnung über die Haltbarkeit der jetzt geschriebenen Regeln —, und sie verankern die Normenfrage in der [[legal-education|Rechtswissenschaft]].
 
@@ -117,6 +118,8 @@ Offenlegung der KI-Nutzung liegt an der Schnittstelle von [[academic-integrity|a
 - [[social-norms-ai-use]] — warum Lernende sich entscheiden zu verbergen statt offenzulegen
 
 ## Verbundene Artikel
+
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Ein SEM-Split: Gewissheit der Entdeckung gegenüber dem Risiko, dass eine Erklärung unsachgemäße Nutzung offenlegt (Liu et al. 2026)
 
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Die andere Richtung: Studierende darüber informieren, wenn KI ihre Arbeit benotet, und vor dem Hochladen um Zustimmung bitten
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Jenseits der Detektion: wie Studierende KI in Online-Prüfungen nutzen und verbergen

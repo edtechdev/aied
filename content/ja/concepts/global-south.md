@@ -1,7 +1,7 @@
 ---
 title: グローバル・サウス
 created: "2026-10-10T22:31:13-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ ai_assist:
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambiとvan der Merwe（2026年）]]は、南アフリカの9年生の教室から、制限優先の[[educational-policy-ai|制度的な政策]]が、教育資源の乏しさの下でAIが教員を代替するのではなく拡張しうる条件を前もって閉ざすこと、そして学習者が生み出す相互作用のデータが外国の統治体制の下に置かれることを論じています。
 
+アクセスの普及は、能力の普及より先に飽和しえます。ベナンの 8 大学の 633 人の学生の間では、92.3 パーセントが週に一度生成AIを利用し、採用を駆動したのは知覚された有用性ではなく作業負荷でした。したがって、分断はもはや主として道具への到達の問題ではありません（[[gouroubera-genai-benin-2026|Gouroubera ら（2026年）]]）。
+
 ## よくある誤解
 
 - **「低資源の文脈にはAI倫理の枠組みがなく、輸入する必要がある。」** 低資源の文脈における現職の中等教育STEAMの教員は、**正式な原理ではなく、専門的なアイデンティティ、教室の現実、文化的な規範を通じてAIの倫理について推論します**。その推論は存在し、状況づけられています。普遍的な原理の一覧は、そこへはうまく移りません。
@@ -99,3 +101,4 @@ ai_assist:
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
 - [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
+- [[gouroubera-genai-benin-2026]] — ベナンの 633 人の学生：週次の利用 92.3 パーセント、支配的な駆動要因は作業負荷であり、アクセスはもはや拘束条件ではない（Gouroubera et al. 2026）

@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -142,6 +142,8 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 
 El mismo déficit tiene un lado de demanda. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] aportan evidencia del lado de la demanda desde una facultad sueca de ciencias sociales: el 31% de las personas participantes en la encuesta y en los grupos focales plantearon la ética sin que se les preguntara, la mayoría quería más orientación institucional, y las consecuencias ambientales de la IA generativa estaban ausentes por completo de los documentos de política.
 
+Los financiadores forman una capa de política propia: de 46 organismos con orientación sobre IA, 12 vincularon reglas específicamente a la financiación, y ninguno de esos instrumentos de financiación recogía las disposiciones de gobernanza que declaraban sus políticas generales ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Concepciones erróneas
 
 - **«Las universidades tienen política de IA de verdad.»** **La forma jurídica es más rara que el lenguaje jurídico.** En una **revisión de alcance de 160 documentos**, **el 2,5% de los instrumentos tenía fuerza legal mientras que el 57,5% eran orientaciones o kits de herramientas**. Casi una cuarta parte de un centenar de documentos de gobernanza de la IA es orientación no vinculante.
@@ -205,3 +207,4 @@ El mismo déficit tiene un lado de demanda. [[gillette-partnership-ethics-genai-
 
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Los textos de la UNESCO y la OCDE comparten un vocabulario de gobernanza y ninguna definición operativa; veintitrés jurisdicciones convergen sin ella
 - [[pandey-davies-he-governance-administrative-ai-2026]] — La contratación fija el entorno de datos antes que la pedagogía
+- [[chan-ai-policy-gap-2026]] — 56 documentos de 46 financiadores: una capa de política de financiación de la investigación con 12 instrumentos específicos de financiación (Chan 2026)

@@ -1,7 +1,7 @@
 ---
 title: 人在回路
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -118,6 +118,8 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 
 - **把 HITL 当作一门学科的整体架构，而非单条工作流。**[[zhai-science-literacy-generative-ai-coherence-2026|Zhai 等人（2026）]] 给出四个相互咬合的层级——数据基础设施、模型开发、教学接口与人类治理——由三条原则维系：人的监督与能动性、协同适应智能，以及情境响应性。
 
+置于生成之后的检查，并不是一个人所编写的流程：当学习者设计提示并核验输出时，这个回路约束的是替代；当由系统来设计时，同一个标签所描述的只是对机器计划的复核（[[capodieci-humanities-hil-2026|Capodieci 等，2026]]）。
+
 ## 综合
 
 人在回路设计不只是一种安全措施 —— 它是一种 **资源分配策略**。前沿问题不是 *是否* 纳入人，而是其判断在管线中何处具有最高边际价值。最有效的 HITL 系统把稀缺的人类专长集中于自动化系统最弱之处（干扰项设计、解释性反馈、边缘案例裁决、伦理判断），并自动化其余 —— 在规模化生产的同时保住质量、安全与信任。
@@ -194,3 +196,4 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - [[student-query-demand-hybrid-ai-support-2026]] — 学生实际问什么：混合支持系统中的需求结构与自动化潜力
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — 重思教育 AI 中的“人在回路”方法：学习科学的视角
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 扣留系统所偏好的答案降低了过度依赖（Tuo 等人 2026）
+- [[capodieci-humanities-hil-2026]] — 在人文学科学习中区分人的检查位于何处与流程由谁编写（Capodieci 等 2026）

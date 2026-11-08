@@ -1,7 +1,7 @@
 ---
 title: Enseignement et apprentissage en ligne
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,9 @@ L'enseignement et l'apprentissage en ligne prennent plusieurs formes apparentée
 - **Apprentissage mixte et hybride.** Des modèles qui combinent des composantes en présence et en ligne, intégrant délibérément activités numériques, matériels et interactions à l'enseignement en face à face. Les formats mixtes demandent aux enseignants de décider de ce qu'il est préférable de faire en synchrone plutôt qu'en asynchrone, et en ligne plutôt qu'en présence — des décisions que les principes de [[learning-design]] organisent et que l'IA à la fois soutient et complique. Dans le contexte mixte, les outils d'IA offrent des opportunités de [[personalized-learning|personnalisation]] et de soutien permanent, tout en soulevant des risques d'intégrité et de délestage qui s'étendent aux portions en ligne comme en présence. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] illustrent cela dans deux contextes mixtes — des classes universitaires inversées et l'[[reflection|écriture réflexive]] dans l'enseignement professionnel — où un tableau de bord d'analytique de l'apprentissage (DashED) communiquait aux enseignants des profils d'[[self-regulated-learning]] dérivés de l'apprentissage automatique. Les préoccupations d'adoption divergeaient selon le contexte : les enseignants de classe inversée (université) s'inquiétaient surtout de l'anonymisation des données et de la possibilité pour les étudiants de se retirer, tandis que les enseignants d'écriture réflexive (formation professionnelle) craignaient le détournement de l'outil par d'autres éducateurs et soulignaient la nécessité de contextualiser les données. À l'usage, les enseignants de classe inversée suivaient une exploration séquentielle et privilégiaient l'adaptation au niveau du cours et la présentation des [[visualization|tableaux de bord]] en classe, tandis que les enseignants de formation professionnelle revisitaient les pages de synthèse et utilisaient l'outil principalement pour des séances individuelles d'accompagnement — la preuve que la conception d'outils analytiques pour l'apprentissage mixte doit être sensible au contexte.
 - **Conception synchrone versus asynchrone.** La distinction importe davantage que le médium de diffusion, car les deux formats font des demandes opposées à l'apprenant. Les séances synchrones portent l'attention, le rythme et la responsabilité à l'intérieur de la séance elle-même ; les cours asynchrones doivent les concevoir, puisque l'apprenant décide seul quand travailler et ne reçoit aucune responsabilité ambiante de la part d'une salle. La base de recherche brouille souvent cette distinction : la revue que fait la base de connaissances de l'IA et de l'[[student-engagement|engagement]] dans l'apprentissage en ligne (24 études) traite l'engagement seul et confond explicitement les contextes synchrones et asynchrones, de sorte que ses conclusions ne doivent pas être lues comme propres à l'asynchrone. Ce qui est propre à l'asynchrone, ce sont les données sur la manière dont les apprenants auto-rythmés perdent concentration et rythme — les comportements autorégulés tels que la fixation d'objectifs, la structuration de l'environnement et la gestion du temps coïncident le plus avec une faible distraction numérique ([[decreasing-digital-distraction-college-online-learning-2026|Shi et al. 2026]], 530 étudiants), tandis que les connaissances métacognitives et le [[well-being]] déclinent au fil d'un trimestre au rythme des échéances d'évaluation regroupées ([[song-genai-learning-partner-srl-over-time-2026|Song et al. 2026]], 75 étudiants). La contrepartie pratique est la FAQ sur [[asynchronous-online-courses-ai|la conception et l'animation de cours asynchrones lorsque l'IA peut faire le travail]].
 - **Enseignement à distance.** Des programmes conçus pour des apprenants qui étudient à distance, souvent à grande échelle et à travers les régions (par ex., plus de 200 000 apprenants pour l'Open University). L'apprentissage à distance est le lieu où le soutien IA continu et contextualisé et l'impossibilité d'une surveillance en présence sont les plus manifestes. Les données comparatives issues de la formation des enseignants en Afrique du Sud montrent que le médium lui-même est associé au degré de préparation. [[ai-training-science-teacher-tpack-distance-2026|Mnguni et al. (2026)]] ont rapporté un écart de TPACK [[self-report-measures|auto-déclaré]] pour l'[[science-education|enseignement scientifique]] intégrant l'IA de 64,0 % contre 47,4 % entre les étudiants enseignants en dernière année des programmes sur campus et à distance, la connaissance pédagogique étant la plus faible dans les deux établissements. Cette configuration avertit que les programmes à distance ne peuvent pas supposer que la même formation à l'IA produit le même degré de préparation, et que c'est la conception de la formation, et non sa seule présence, qui diffère.
+
+Deux campus co-inscrits à un même cours asynchrone n'ont produit aucune interaction entre campus pour au moins un étudiant sur 19, si bien que la co-inscription est un fait d'emploi du temps plutôt qu'une conception qui crée le contexte de pairs qu'un cours en ligne présuppose ([[aggarwal-genai-cybersecurity-2026|Aggarwal, 2026]]).
+
 
 ## Opportunités et bénéfices de l'IA pour l'enseignement et l'apprentissage en ligne
 
@@ -198,3 +201,6 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - [[ai-training-science-teacher-tpack-distance-2026]] — Des étudiants enseignants sur campus ont déclaré un TPACK plus élevé pour l'enseignement scientifique intégrant l'IA que leurs pairs en enseignement à distance (64,0 % contre 47,4 %)
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — La conception des rôles est l'intervention, pas l'outil
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Des cours de cycle supérieur asynchrones de six semaines pour des enseignants en exercice : reconcevoir le format plutôt que le comprimer
+
+- [[aggarwal-genai-cybersecurity-2026]] — 19 étudiants sur deux campus : la co-inscription n'a produit aucune interaction entre campus pour certains (Aggarwal 2026)
+

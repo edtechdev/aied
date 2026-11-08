@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,7 @@ Más que eliminar la ayuda, la investigación recomienda rediseñar cómo se ofr
 - **Disponibilidad retrasada de las pistas** — exigir un tiempo mínimo de implicación o intentos de solución antes de que las pistas (especialmente las finales) sean accesibles.([[lak2026-hint-button-unproductive-use]])
 - **Una escalera que se retira se sube menos cuanto más alto llega.** En CoMeT, un tutor que escalaba un peldaño por cada decisión sin respuesta y retrocedía cuando quien aprendía lo aprovechaba, solo 282 de 515 episodios de retirada codificados siguieron a una respuesta: la adopción fue del 37,0% tras la primera petición y del 21,8% tras la tercera ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Retrasar la ayuda depende por tanto de que quien aprende siga respondiendo a la indicación, y el deterioro medido implica que los peldaños posteriores de un andamiaje llegan a pocos de los estudiantes que siguen bloqueados.
 - **Pasar de *si* a *cómo*** — la pregunta clave de diseño es cómo estructurar la entrega de pistas conforme a los principios del esfuerzo productivo, y no si se deben ofrecer pistas.([[lak2026-hint-button-unproductive-use]])
+- **Respaldo metaanalítico a la entrega controlada por el estudiantado.** Al agrupar 18 experimentos estadounidenses de K-12, los ejemplos resueltos (g = 0,324) y las pistas a demanda (g = 0,316) fueron significativos, mientras que las pistas justo a tiempo activadas automáticamente no lo fueron, aunque los autores advierten de que quien regula peor su aprendizaje puede aprovecharse de las funciones a demanda ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **La longitud del mensaje es la palanca que la investigación sobre la entrega de ayuda ha medido de verdad.** En un curso de programación en vivo, las pistas de LLM más largas predijeron una peor corrección en el siguiente envío, más intentos restantes y un reenvío más lento, por cada desviación estándar de 204,9 caracteres en 14.809 pares estudiante-ejercicio ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). La legibilidad apenas movió ningún resultado, así que pesó más el volumen que la dificultad.
 - **Las pistas previas sobre la misma parte del curso se asociaron con menos éxito en el paso integrador.** El estudiantado que recibió retroalimentación en pasos anteriores de un proyecto resolvió su paso final el 95,6% de las veces frente al 98,1% de quienes no la recibieron, un coeficiente de log-odds de −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Los autores no lo leen como un daño, porque quien busca pistas es verosímilmente quien tendría dificultades allí de todos modos, que es la pregunta sobre [[self-regulated-learning|monitorización]] que plantea esta página.
 
@@ -151,6 +152,9 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - [[student-support-and-success]] — Divulgación y asignación de apoyos institucionales, más allá de la búsqueda de ayuda dentro del curso
 
 ## Artículos conectados
+
+- [[leite-its-k12-meta-analysis-2025]] — Qué apoyos de tutoría cargan el efecto: ejemplos y pistas a demanda por encima de las indicaciones automáticas
+
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — La longitud de las pistas medida frente a la corrección del siguiente envío, los intentos y el tiempo, en un curso de programación en vivo
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Un agente de ayuda que nadie pidió (Humburg et al. 2025)
 

@@ -1,7 +1,7 @@
 ---
 title: "इंटेलिजेंट ट्यूटरिंग"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T18:36:55-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 connected_resources: [deeptutor, openmaic, learnharness]
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ TeachLM का तर्क है कि दुर्लभ घटक प्र
 ### मुख्य ITS अनुसंधान
 
 - **एक ट्यूटरिंग मंच के माइक्रो-रैंडमाइज़्ड परीक्षण:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] ने GCSE [[biology-education|जीवविज्ञान]], [[chemistry-education|रसायन विज्ञान]] और [[physics-education|भौतिकी]] में मेडली (Medly) का चार-सप्ताह का बहु-केंद्र, व्यक्तिगत-रूप से यादृच्छिकीकृत मूल्यांकन चलाया, जिसमें 929 में से 644 छात्रों ने पोस्ट-परीक्षण पूरा की; मंच पर आवंटन ने व्यवसाय-सामान्य [[self-directed-learning|स्व-निर्देशित]] पुनरावृत्ति के सापेक्ष Hedges' g = 0.33 (95% CI 0.18 से 0.48) दिया, तीनों विषयों में सकारात्मक अनुमान और असुविधा के आधार पर प्रभाव में अंतर का कोई साक्ष्य नहीं (प्यूपिल प्रीमियम g = 0.35 बनाम गैर-प्यूपिल प्रीमियम g = 0.28)।
+- **एक अमेरिकी K-12 मेटा-विश्लेषण औसत प्रभाव g = 0.271 रखता है।** 18 प्रयोगों में, हल किए गए उदाहरणों और छात्र-अनुरोधित संकेतों ने प्रभाव ढोया जबकि स्वतः ट्रिगर संकेतों ने नहीं, और छह महीने से आगे के कार्यान्वयन गैर-महत्वपूर्ण g = 0.110 तक फीके पड़ गए ([[leite-its-k12-meta-analysis-2025|Leite एट अल., 2025]])।
 - **[[lak2026-hint-button-unproductive-use|संकेत बटन अनुसंधान]]** दिखाता है कि पारंपरिक ITS संकेत डिज़ाइन अनजाने में बायपास रणनीतियों को सक्षम बना सकता है, जिससे अधिक परिष्कृत [[scaffolding]] दृष्टिकोणों की माँग होती है।
 - **[[deeptutor]]** एक पूर्ण [[open-source]] एजेंटिक ट्यूटरिंग ढाँचा प्रदान करता है जिसमें उद्धरण-आधारित ट्यूटरिंग और कठिनाई-अनुरूप [[automated-question-generation|प्रश्न निर्माण]] शामिल है।
 - **[[huang-interpretable-knowledge-tracing-2026|व्याख्यायोग्य नॉलेज ट्रैसिंग]]** अपारदर्शिता की समस्या का समाधान करती है, क्योंकि यह LLM लॉजिट्स से व्याख्यायोग्य संज्ञानात्मक मात्राएँ उत्पन्न करती है।
@@ -197,6 +198,7 @@ AI ट्यूटर तैनात करने वाले प्रशि�
 
 ## संबंधित लेख
 
+- [[leite-its-k12-meta-analysis-2025]] — अमेरिकी K-12 मेटा-विश्लेषण: 18 प्रयोग, g = 0.271, और इसे क्या मध्यस्थ करता है (Leite एट अल. 2025)
 - [[learnlm-eedi-expanded-rct-2026]] — विस्तारित ब्रिटिश RCT: 10 सप्ताह में निकट-स्थानांतरण लाभ, पर मानकीकृत परीक्षण में कोई बढ़त नहीं (LearnLM टीम, Google और Eedi 2026)
 - [[rho-disengaged-conversational-behaviors-2026]] — छात्र-AI संवादों में असंलग्न संवादी व्यवहार और सीखना (Rho et al. 2026)
 

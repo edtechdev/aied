@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-11-05T16:52:00-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -131,6 +131,8 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - **La gobernanza puede diseñarse dentro de la herramienta.** Un perfil de gobernanza de seis dimensiones ([[pedagogy|fundamento pedagógico]], autoridad instruccional, responsabilidad y control humanos, agencia del estudiante y compromiso cognitivo, especificidad de contexto y visibilidad de la evaluación) ubica la gobernanza en el modelo de interacción de una herramienta docente, en sus indicaciones, rúbricas, puertas de aprobación y [[visualization|paneles]], y pregunta si los mecanismos encajan con la función instruccional, en lugar de cuán estricta o permisiva es una herramienta ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **Un marco centrado en las personas pone la interpretación, y no la herramienta, en el centro.** En un college de artes liberales orientado a una misión, el profesorado usó un Asistente de Evaluación apoyado en IA generativa durante un Día de la Educación estructurado, y los autores concluyen que el juicio humano debe seguir siendo la autoridad interpretativa no negociable, con puntos de verificación y gobernanza establecidos antes de una implementación amplia ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland y Pryor, 2026]]). La secuencia es primero la formación y la verificación, después el escalado.
 
+Las disposiciones de gobernanza aparecieron solo en documentos de política general y nunca en los instrumentos específicos de financiación que vinculan a quien solicita, de modo que un financiador puede gobernar la IA en principio sin imponer nada a la investigación que financia ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Concepciones erróneas comunes
 
 - **"Las universidades han adoptado políticas de IA vinculantes."** De **48 instituciones**, **40 (83%)** tenían al menos un documento disponible públicamente, y en esas 40 **la gobernanza se materializaba sobre todo como orientación y no como norma vinculante**. Una orientación publicada no es una política aplicable.
@@ -197,3 +199,4 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — prototipos de IA y pilotos escolares como maquinaria de gobernanza que prefigura un futuro elegido (Williamson et al. 2026)
 - [[li-su-teacher-genai-decision-making-2026]] — Una vía propuesta de la claridad de gobernanza a los episodios de decisión docente
 - [[pandey-davies-he-governance-administrative-ai-2026]] — La IA administrativa como cuestión de operaciones de servicio
+- [[chan-ai-policy-gap-2026]] — El lenguaje de gobernanza se queda en las políticas generales y nunca en las reglas de financiación que vinculan a quien solicita (Chan 2026)

@@ -1,7 +1,7 @@
 ---
 title: Hilfesuche
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,7 @@ Statt Hilfe zu entfernen, empfiehlt Forschung, neu zu konstruieren, wie sie geli
 - **Eine ausblendende Leiter wird umso seltener erklommen, je höher sie geht.** In CoMeT stieg ein Tutor pro unbeantworteter Entscheidung eine Sprosse höher und fiel zurück, wenn eine lernende Person sie aufgriff; nur 282 von 515 kodierten Ausblendepisoden folgten einer Antwort: Die Annahme lag nach der ersten Nachfrage bei 37,0% und nach der dritten bei 21,8% ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Verzögerte Hilfe hängt also von einer lernenden Person ab, die weiter auf den Prompt antwortet, und der gemessene Abfall bedeutet, dass die späteren Sprossen eines Scaffolds nur wenige der noch festsitzenden Studierenden erreichen.
 
 - **Von *ob* zu *wie* verschieben** — die zentrale Designfrage ist, wie man Hinweislieferung an Prinzipien produktiven Kämpfens ausrichtet, nicht ob man überhaupt Hinweise gibt.([[lak2026-hint-button-unproductive-use]])
+- **Metaanalytische Unterstützung für studierendengesteuerte Lieferung.** Über 18 US-amerikanische K-12-Experimente hinweg waren ausgearbeitete Beispiele (g = 0,324) und Hinweise auf Anfrage (g = 0,316) signifikant, während automatisch ausgelöste Just-in-Time-Hinweise es nicht waren — die Autoren warnen jedoch, dass schwächere Selbstregulierende On-Demand-Funktionen ausnutzen können ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **Nachrichtenlänge ist der Hebel, den die Lieferungsforschung tatsächlich gemessen hat.** In einem laufenden Programmierkurs sagten längere LLM-Hinweise niedrigere Korrektheit der nächsten Einreichung, mehr verbleibende Versuche und langsamere erneute Einreichung vorher, pro Standardabweichung von 204,9 Zeichen über 14.809 Studierenden-Aufgaben-Paare hinweg ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Lesbarkeit bewegte kaum ein Ergebnis, also zählte Volumen mehr als Schwierigkeit.
 - **Vorherige Hinweise zum selben Kursabschnitt gingen mit geringerem Erfolg beim integrativen Schritt einher.** Studierende, die Feedback zu früheren Schritten eines Projekts erhielten, lösten ihren abschließenden Schritt in 95,6% der Fälle gegenüber 98,1% für jene ohne, einem Log-Odds-Koeffizienten von −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Die Autoren lesen das nicht als Schaden, da die Studierenden, die Hinweise suchen, womöglich jene sind, die dort ohnehin kämpfen würden — die [[self-regulated-learning|Überwachungs]]frage, die diese Seite aufwirft.
 
@@ -155,6 +156,8 @@ In vollständig online stattfindender [[english-education|Komposition]] ist die 
 - [[student-support-and-success]] — institutionelle Ansprache und Unterstützungszuteilung, jenseits der Hilfesuche im Kurs
 
 ## Verbundene Artikel
+
+- [[leite-its-k12-meta-analysis-2025]] — Welche Tutoring-Unterstützungen den Effekt tragen: Beispiele und Hinweise auf Anfrage statt automatischer Prompts
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Interaktionen als Daten erster Klasse: eine Anfrage über den Ausführungszustand um sie herum klassifizieren
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Der Verlauf der Hilfesuche, nicht ihr Niveau, sagt Mathematikleistung ohne Unterstützung vorher

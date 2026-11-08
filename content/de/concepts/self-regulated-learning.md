@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Selbstreguliertes Lernen
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -169,6 +169,8 @@ Die kollektive Lektion: **SRL ist der Kernmechanismus, der kritische von unkriti
 
 Welche Unterstützung im Spiel ist, entscheidet, welcher Mediator die Assoziation trägt: unter 3.003 chinesischen angehenden Lehrkräften lief wahrgenommene KI-Werkzeugunterstützung zu innovativer Kompetenz hauptsächlich über KI-[[self-efficacy|Selbstwirksamkeit]] (60.88% des Gesamteffekts dieses Pfads), während wahrgenommene schulbasierte Unterstützung durch intelligente Umgebungen hauptsächlich über selbstreguliertes Lernen lief (29.64% gegenüber 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
+Studierende berichteten mehr Prokrastination (β = 0.525) neben wahrgenommenen Leistungsgewinnen, was zwei Dinge trennt: das Aufschieben von Studienarbeit, weil KI verfügbar ist, und das Aufschieben mit KI-Unterstützung — eine Unterscheidung, die ein einzelner Selbstregulationswert nicht tragen kann ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ## Implikationen
 
 - **Für Tagebuch-/Chatbot-Werkzeuge:** SRL-Unterricht (kursbasiert) mit optionaler Schreibunterstützung verbinden, um sowohl Motivations- als auch Engagementzugewinne zu erhalten
@@ -263,4 +265,5 @@ Welche Unterstützung im Spiel ist, entscheidet, welcher Mediator die Assoziatio
 - [[borchers-srl-language-generalization-2025]] — Large Language Models verallgemeinern die SRL-Vorhersage auf neue Sprachen innerhalb von, aber nicht zwischen Domänen (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Ein projektbasiertes Hybridlernmodell mit künstlicher Intelligenz zur Stärkung des selbstregulierten Lernens von Studierenden
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Vielfalt der Vorkonzepte veränderte, wie ein metakognitiver Prompt ankam: gleiche Prompt-Funktionen, gegensätzliche anhaltende Bewertung der KI-Ausgabe (Wang et al. 2026)
+- [[gouroubera-genai-benin-2026]] — Prokrastination stieg mit der Nutzung (β = 0.525) neben wahrgenommenem Gewinn und trennt durch KI ermöglichtes Aufschieben von Aufschieben bloß wegen KI (Gouroubera et al. 2026)
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Eine KI-Tutorin als erste Antwortende verdrängte Peer-Antworten und mit ihnen die Ko-Regulation, die den Notenwert der Selbstregulation verstärkte (Davis et al. 2026)

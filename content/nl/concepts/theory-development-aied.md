@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Theoretiseren aan de docentkant maakt nu dezelfde toetsbaarheidsbelofte: het Cap
 - **Paradigma's voor mens-GAI-[[student-engagement|betrokkenheid]].** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] pakt het „theorietekort" van het veld aan door zeven uitgevoerde paradigma's voor mens-GAI-betrokkenheid (behoedzaam, mogelijkheidsgericht, versterkt, pionierend, symbiotisch, waardengebaseerd, [[equity-in-ai-education|rechtvaardigheid]]) te funderen in Schommers multidimensionale model van persoonlijke epistemologische overtuigingen — een epistemologische, in plaats van toolgerichte, theorie van hoe individuen zich verschillend tegenover AI positioneren.
 - **Het Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] betoogt dat [[generative-ai|generatieve AI]] epistemologische autoriteit herverdeelt van docenten naar studenten naar machines, en introduceert een kader dat co-agency definieert via drie onderling afhankelijke dimensies — relationeel, regulatief (afgebeeld op de [[self-regulated-learning|SRL-cyclus]]) en [[pedagogy|pedagogisch]] (continuüm van docentadoptie) — alle begrensd door een niet-onderhandelbare voorwaarde van menselijke epistemische verantwoording (betwistbaarheid, herkomst en niet-delegatie van morele/intellectuele krediet). Het positioneert [[agency]] als een *epistemisch* ontwerpprobleem in plaats van een [[usability-research|bruikbaarheids]]kwestie, en geeft instellingen een preciezere taal dan „balans" voor het besturen van GenAI-integratie.
 - **Relationele epistemische agency en epistemische afhankelijkheid.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] leveren een kritisch-integratieve verklaring van wanneer AI-gemedieerde afhankelijkheid oordeel behoudt versus verdringt. Zij operationaliseren de grens tussen productieve afhankelijkheid en schadelijke afhankelijkheid via zes diagnostische criteria (betwistbaarheid, herstelbaarheid, transfer, traceerbaarheid, gedistribueerde verantwoordelijkheid, epistemisch pluralisme) en traceren vier sociotechnische paden (vloeiende autoriteit, wrijvingsloze delegatie, ondoorzichtige synthese, geïnstitutionaliseerde afhankelijkheid). Hun normatieve voorstel, **relationele epistemische agency**, breidt lijnen van relationele autonomie en epistemische co-agency uit door een expliciete asymmetrie te behouden — AI mag redeneren vormgeven zonder wederkerige verantwoordelijkheid of legitieme autoriteit — terwijl het verantwoordelijkheid en epistemische rechtvaardigheid op institutioneel niveau integreert. Als theorie over leren met AI verschuift het de vraag van het veld van 'helpt of schaadt AI' naar 'welke epistemische handelingen worden behouden, getransformeerd of verdrongen', en het maakt het *ontwerp van afhankelijkheid* in plaats van louter gebruik het object van pedagogische en institutionele interventie.
+
+De output van het model stijgt tot de status van collectieve kennis zonder de gemeenschapswaarborg die die status vereist — wat Webb et al. (2026) pseudo-cPCK noemen, en de reden dat het veld een nieuw theoretisch construct nodig heeft in plaats van een betere interface ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Bestaande theorie vooruitbrengen
 
@@ -166,3 +168,4 @@ Theorieontwikkeling en [[philosophy-of-ai-in-education|de filosofie van AI in he
 - [[ai-connectedness-adolescent-mental-health-2026]] — Kunstmatige-intelligentieverbondenheid: een driedimensionaal construct met zes falsifieerbare proposities voor latere toetsing
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cyclus van cognitief partnerschap
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Wenselijke moeilijkheden en productief falen toegepast op interpretatieve agency in onderwijs in het buitenland
+- [[webb-pck-genai-2026]] — Drie vignetten en een nieuw construct, pseudo-cPCK, voor output die collectief gevalideerde kennis nabootst zonder waarborg (Webb et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Le développement théorique en IA éducative"
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,9 @@ La théorisation du côté enseignant fait désormais le même engagement en fav
 - **Les paradigmes d'[[student-engagement|engagement]] humain-IAG.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] répond au « déficit théorique » du champ en ancrant sept paradigmes d'engagement humain-IAG effectivement mis en œuvre (surveillé, centré sur les possibilités, augmenté, pionnier, symbiotique, fondé sur les valeurs, fondé sur l'[[equity-in-ai-education|équité]]) dans le modèle multidimensionnel de Schommer des croyances épistémologiques personnelles — une théorie épistémologique, plutôt que centrée sur l'outil, de la manière dont les individus se positionnent différemment par rapport à l'IA.
 - **Le cadre de co-agency écologique.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] soutient que l'[[generative-ai|IA générative]] réassigne l'autorité épistémologique des enseignants aux étudiants, puis aux machines, et introduit un cadre définissant la co-agency par trois dimensions interdépendantes — relationnelle, régulatoire (rattachée au cycle de l'[[self-regulated-learning|apprentissage autorégulé]]) et [[pedagogy|pédagogique]] (continuum d'adoption par les enseignants) — toutes bornées par une condition non négociable de responsabilité épistémique humaine (contestabilité, provenance et non-délégation du crédit moral et intellectuel). Il positionne l'[[agency|agentivité]] comme un problème de conception *épistémique* plutôt que comme une préoccupation d'[[usability-research|utilisabilité]], donnant aux institutions un langage plus précis que « l'équilibre » pour gouverner l'intégration de l'IA générative.
 - **L'agentivité épistémique relationnelle et la dépendance épistémique.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] proposent un compte rendu critique-intégratif des cas où la dépendance médiatisée par l'IA préserve le jugement plutôt qu'elle ne le déplace. Ils opérationnalisent la frontière entre dépendance productive et dépendance nuisible par six critères diagnostiques (contestabilité, récupérabilité, transfert, traçabilité, responsabilité distribuée, pluralité épistémique) et retracent quatre voies sociotechniques (autorité fluide, délégation sans friction, synthèse opaque, dépendance institutionnalisée). Leur proposition normative, l'**agentivité épistémique relationnelle**, prolonge les lignes de l'autonomie relationnelle et de la co-agency épistémique en conservant une asymétrie explicite — l'IA peut façonner le raisonnement sans responsabilité réciproque ni autorité légitime — tout en intégrant la responsabilité et la justice épistémique au niveau institutionnel. Comme théorie de l'apprentissage avec l'IA, elle fait passer la question du champ de « l'IA aide-t-elle ou nuit-elle ? » à « quelles actions épistémiques sont préservées, transformées ou déplacées ? », et elle fait de la *conception de la dépendance* plutôt que du simple usage l'objet de l'intervention pédagogique et institutionnelle.
+
+La production du modèle accède au statut de connaissance collective sans la garantie communautaire que ce statut exige — ce que Webb et coll. (2026) appellent le pseudo-cPCK, et la raison pour laquelle le domaine a besoin d'un nouveau construit théorique plutôt que d'une meilleure interface ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 
 ## Avancer la théorie établie
 
@@ -167,3 +170,6 @@ Le développement théorique et la [[philosophy-of-ai-in-education|philosophie d
 - [[ai-connectedness-adolescent-mental-health-2026]] — La connexité à l'intelligence artificielle : un construit tridimensionnel avec six propositions falsifiables à tester ultérieurement
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Le cycle de partenariat cognitif
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Difficultés désirables et échec productif appliqués à l'agentivité interprétative dans les séjours d'études à l'étranger
+
+- [[webb-pck-genai-2026]] — Trois vignettes et un nouveau construit, le pseudo-cPCK, pour une production qui imite une connaissance collectivement validée sans garantie (Webb et coll. 2026)
+

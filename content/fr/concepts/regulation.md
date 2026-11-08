@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,9 @@ Un audit des [[edtech-platform|plateformes EdTech]] donne à cette dépendance u
 
 La réglementation se relie à l'[[educational-policy-ai|évaluation de la politique éducative de l'IA]], à la [[governance|gouvernance]], à l'[[ethics|éthique]], à la [[privacy|confidentialité]], à la [[pedagogical-safety|sécurité pédagogique]] et à l'[[academic-integrity|intégrité académique]]. C'est la couche institutionnelle qui façonne le fonctionnement de toutes les autres pratiques d'éducation à l'IA. La réglementation contraint et rend possible à la fois : elle fixe les frontières de l'usage acceptable de l'IA tout en créant les conditions — par l'[[ai-literacy|littératie en IA]] et les attentes d'usage responsable — d'une intégration [[equity-in-ai-education|équitable]] et sûre.
 
+La réglementation ne se traduit pas automatiquement vers le bas : 32 organismes de financement opérant là où des règles étatiques sur l'IA existent publiaient des politiques générales mais aucun instrument propre au financement portant ces règles ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
+
 ## Idées fausses courantes
 
 - **« La politique institutionnelle sur l'IA est là où vivent les règles. »** L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson et Rainie (2026)]] auprès de **1 057 enseignants américains** mesure à quel point les règles effectives se situent sous la couche institutionnelle : **87 % des répondants rédigeaient leur propre orientation**. La politique opérante est largement rédigée par les enseignants, ce qui signifie que la couche institutionnelle documentée décrit moins qu'elle n'en a l'air.
@@ -108,3 +111,6 @@ La réglementation se relie à l'[[educational-policy-ai|évaluation de la polit
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% du corps professoral rédige ses propres règles face à une mince couche de politique institutionnelle (Watson et Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — « We'll Fix It Later » : l'éducation, l'IA et l'ajournement de la confidentialité des étudiants dans l'EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Aucune politique comparable ne traitait le cas d'un agent IA se connectant à un LMS ou détenant les identifiants d'un étudiant (Wong et Sun 2026)
+
+- [[chan-ai-policy-gap-2026]] — Non-traduction verticale : des règles étatiques existent tandis que les financeurs placés sous elles n'émettent aucun instrument contraignant (Chan 2026)
+

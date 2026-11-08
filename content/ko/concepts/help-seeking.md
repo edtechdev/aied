@@ -1,7 +1,7 @@
 ---
 title: 도움 요청
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,7 @@ ai_assist:
 - **비계 사다리는 위로 갈수록 덜 오릅니다.** CoMeT에서, 응답 없는 결정마다 한 칸씩 올리고 학습자가 받아들이면 한 칸 내려가던 튜터에서, 코딩된 페이딩 에피소드 515개 가운데 답이 뒤따른 것은 282개뿐이었습니다. 수용률은 첫 요청 뒤 37.0%, 세 번째 뒤 21.8%였습니다([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). 따라서 도움을 지연시키는 것은 계속 응답하는 학습자에게 달려 있으며, 측정된 감소는 비계의 뒤쪽 칸이 여전히 막힌 소수의 학생에게만 닿는다는 것을 뜻합니다.
 
 - **'것인지 아닌지'에서 *어떻게*로** — 핵심 설계 질문은 힌트를 전혀 제공할 것인지가 아니라, 생산적 투쟁 원리에 부합하는 방식으로 힌트 전달을 어떻게 구조화할 것인가입니다.([[lak2026-hint-button-unproductive-use]])
+- **학생이 통제하는 전달에 대한 메타분석적 지지.** 미국 K-12 실험 18건을 통합했을 때, 완성된 예제(g = 0.324)와 요청 시 제공되는 힌트(g = 0.316)는 유의했지만 자동으로 촉발되는 적시 힌트는 그렇지 않았습니다. 다만 저자들은 자기조절이 약한 학습자가 요청형 기능을 악용할 수 있다고 경고합니다([[leite-its-k12-meta-analysis-2025|Leite 등, 2025]]).
 - **메시지 길이는 전달 연구가 실제로 측정한 지렛대입니다.** 실제 프로그래밍 강좌에서 더 긴 LLM 힌트는 다음 제출의 정답 가능성을 낮추고 남은 시도와 재제출까지의 시간을 늘렸으며, 이는 204.9자의 표준편차당, 14,809개의 학생-연습 쌍에 걸친 결과입니다([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). 가독성은 어떤 결과도 거의 움직이지 못했습니다.
 - **같은 강좌 부분의 이전 힌트는 통합 단계에서 더 낮은 성공과 연관되었습니다.** 프로젝트의 이전 단계에 피드백을 받은 학생은 마지막 단계를 95.6% 해결했고, 받지 않은 학생은 98.1%였으며, 로그 오즈 계수는 −1.096이었습니다([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). 저자들은 힌트를 찾는 학생이 어차피 그 지점에서 어려움을 겪을 학생일 가능성이 크다고 보아 이를 해악으로 읽지 않으며, 이는 이 페이지가 제기하는 [[self-regulated-learning|모니터링]] 질문입니다.
 
@@ -155,6 +156,7 @@ ai_assist:
 
 ## 연결된 문서
 
+- [[leite-its-k12-meta-analysis-2025]] — 효과를 떠받치는 교습 지원: 자동 프롬프트보다 요청형 예제와 힌트
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — 실제 프로그래밍 강좌에서 힌트 길이를 다음 제출 정답, 시도 수, 시간에 대해 측정했다
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 아무도 요청하지 않은 도우미 에이전트 (Humburg et al. 2025)
 

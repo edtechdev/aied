@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic, learnharness]
 contributors: [editor]
@@ -84,6 +84,7 @@ Los Sistemas de Tutoría Inteligente representan una de las áreas más antiguas
 ### Investigación clave sobre ITS
 
 - **Ensayos microrrandomizados de una plataforma de tutoría:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] realizaron una evaluación de cuatro semanas, multisitio e individualmente aleatorizada de Medly en [[biology-education|Biología]], [[chemistry-education|Química]] y [[physics-education|Física]] de GCSE, con 644 de 929 estudiantes completando el postest; la asignación a la plataforma produjo una g de Hedges de 0,33 (IC del 95%: 0,18 a 0,48) frente a la revisión [[self-directed-learning|autodirigida]] habitual, con estimaciones positivas en las tres materias y sin evidencia de impacto diferencial por desventaja (Pupil Premium g = 0,28 frente a no Pupil Premium g = 0,35).
+- **Un metaanálisis estadounidense de K-12 sitúa el efecto medio en g = 0,271.** En 18 experimentos, los ejemplos resueltos y las pistas solicitadas por el estudiantado sostenían el efecto, mientras que las pistas activadas automáticamente no, y las implementaciones de más de seis meses se diluyeron a un g = 0,110 no significativo ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **[[lak2026-hint-button-unproductive-use|La investigación sobre el botón de pistas]]** muestra que el diseño tradicional de pistas de los ITS puede permitir inadvertidamente estrategias de evasión, lo que exige enfoques de [[scaffolding|andamiaje]] más sofisticados.
 - **[[deeptutor]]** proporciona un marco de tutoría agéntica totalmente [[open-source]], con tutoría fundamentada en citas y [[automated-question-generation|generación de preguntas]] calibrada por dificultad.
 - **[[huang-interpretable-knowledge-tracing-2026|El rastreo interpretable del conocimiento]]** aborda el problema de la opacidad al producir cantidades cognitivas interpretables a partir de los logits del LLM.
@@ -217,6 +218,7 @@ La tutoría eficaz exige adaptación continua: [[zhang-tutormoments-2026|Zhang e
 - [[speech-and-voice-technologies]]
 
 ## Artículos conectados
+- [[leite-its-k12-meta-analysis-2025]] — Metaanálisis estadounidense de K-12: 18 experimentos, g = 0,271, y qué lo modera (Leite et al. 2025)
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revelar las brechas de capacidad de respuesta de los tutores LLM en problemas de programación con múltiples soluciones (Cen y Sonkar 2026)
 - [[learnlm-eedi-expanded-rct-2026]] — ECA ampliado en el Reino Unido: ganancias de transferencia cercana pero ninguna ventaja en pruebas estandarizadas a las 10 semanas (LearnLM Team, Google y Eedi 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento de los estudiantes? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)

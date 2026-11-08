@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:52:57-05:00"
+updated: "2026-11-08T10:14:51-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ Việc lý thuyết hóa phía giáo viên nay cũng cam kết về khả năng 
 - **Các hệ hình [[student-engagement|tham gia]] người–GAI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] giải quyết "khoảng thiếu lý thuyết" của lĩnh vực bằng cách neo bảy hệ hình tham gia người–GAI đang được hiện thực hóa (phòng thủ, hướng khả năng, tăng cường, tiên phong, cộng sinh, dựa trên giá trị, [[equity-in-ai-education|công bằng]]) vào mô hình đa chiều của Schommer về những niềm tin tri thức luận cá nhân — một lý thuyết mang tính tri thức luận, chứ không hướng công cụ, về cách các cá nhân định vị bản thân khác nhau so với AI.
 - **Khuôn khổ Đồng quyền chủ động Sinh thái.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] lập luận rằng [[generative-ai|AI sinh tạo]] tái phân bổ quyền uy tri thức luận từ giáo viên sang sinh viên sang máy móc, và giới thiệu một khuôn khổ định nghĩa đồng quyền chủ động qua ba chiều phụ thuộc lẫn nhau — quan hệ, điều tiết (ánh xạ vào [[self-regulated-learning|chu trình SRL]]), và [[pedagogy|sư phạm]] (liên tục chấp nhận của giáo viên) — tất cả bị ràng buộc bởi một điều kiện không thể thương lượng là trách nhiệm giải trình tri thức luận của con người (có thể phản biện, nguồn gốc, và không ủy thác công lao đạo đức/trí tuệ). Nó định vị [[agency|quyền chủ động]] như một vấn đề thiết kế *tri thức luận* chứ không phải một mối bận tâm về [[usability-research|khả năng sử dụng]], mang lại cho các thể chế một ngôn ngữ chính xác hơn "cân bằng" để quản trị việc tích hợp GenAI.
 - **Quyền chủ động tri thức luận quan hệ và sự phụ thuộc tri thức luận.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] đóng góp một cách lý giải phê phán–tích hợp về khi nào sự dựa vào qua trung giới AI giữ lại phán đoán và khi nào nó thay thế phán đoán. Họ vận hành hóa ranh giới giữa dựa vào có ích và phụ thuộc có hại qua sáu tiêu chí chẩn đoán (có thể phản biện, có thể phục hồi, chuyển di, có thể truy vết, trách nhiệm phân tán, đa nguyên tri thức luận) và lần theo bốn lộ trình kỹ thuật – xã hội (quyền uy trôi chảy, ủy thác không ma sát, tổng hợp mờ đục, phụ thuộc được thể chế hóa). Đề xuất quy phạm của họ, **quyền chủ động tri thức luận quan hệ**, mở rộng các dòng tự chủ quan hệ và đồng quyền chủ động tri thức luận bằng cách giữ lại một bất đối xứng tường minh — AI có thể định hình lý luận mà không có trách nhiệm tương hỗ hay quyền uy hợp pháp — đồng thời tích hợp trách nhiệm và công bằng tri thức luận ở cấp thể chế. Như một lý thuyết về học tập cùng AI, nó chuyển câu hỏi của lĩnh vực từ việc AI giúp hay hại sang việc những hành động tri thức luận nào được giữ lại, được biến đổi hay bị thay thế, và nó biến *thiết kế của sự phụ thuộc*, chứ không chỉ việc sử dụng, thành đối tượng của can thiệp sư phạm và thể chế.
+
+Đầu ra của mô hình được nâng lên vị thế tri thức tập thể mà không có bảo đảm cộng đồng mà vị thế đó đòi hỏi — điều mà Webb et al. (2026) gọi là pseudo-cPCK, và là lý do lĩnh vực này cần một cấu trúc lý thuyết mới thay vì một giao diện tốt hơn ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Thúc đẩy lý thuyết đã được thiết lập
 
@@ -161,3 +163,4 @@ Phát triển lý thuyết và [[philosophy-of-ai-in-education|triết học AI 
 - [[ai-connectedness-adolescent-mental-health-2026]] — Sự kết nối trí tuệ nhân tạo: một cấu trúc ba chiều với sáu mệnh đề có thể bác bỏ để kiểm chứng sau
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Chu trình đối tác nhận thức
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Khó khăn hữu ích và thất bại có ích áp dụng vào quyền chủ động diễn giải trong giáo dục du học
+- [[webb-pck-genai-2026]] — Ba vinjett và một cấu trúc mới, pseudo-cPCK, cho đầu ra bắt chước tri thức được tập thể xác thực mà không có bảo đảm (Webb et al. 2026)

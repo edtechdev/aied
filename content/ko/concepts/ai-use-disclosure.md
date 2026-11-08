@@ -1,7 +1,7 @@
 ---
 title: AI 사용 및 공개 진술
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ AI 사용 선언은 학생이 어떤 과제에서 생성형 AI를 썼는지, 어
 - **모호하고 처벌적인 정책이 은폐를 이끕니다.** AI 사용 정책이 불분명하거나 집행되지 않거나 금지적일 때, 학생은 참여하기보다 사용을 숨깁니다. "특정 상황에서의 제한적 사용" 정책이 공개를 가장 잘 예측하며, "허용되지 않음" 또는 "인지하지 못함" 정책은 은폐를 예측합니다. 명확하고 일관되며 협력적인 정책이 반복적으로 요구됩니다.
 - **공개는 심리적 비용을 지니며 — 숨겨진 비용도 있습니다.** 학생은 선언을 자기기소로 여기며, 어떤 이는 계산기를 쓰는 것처럼 AI 사용이 사적인 것이라고 믿습니다. [[vetter-hidden-cost-disclosure-genai-2026|Vetter 외(2026)]]는 "항상" 공개한 학생들이 고발될 확률이 세 배를 넘었다는 것을 발견했습니다 — 투명성이 의심을 불러올 수 있습니다. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang 외(2026)]]는 걱정이 공개를 억제하기보다 또래 쪽으로 돌려, 학생을 교수의 피드백으로부터 차단한다는 것을 발견했습니다.
 - **공개는 자기규제 학습과 얽혀 있습니다.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang 외(2026)]]는 교수가 지시하는 공개를 적응적 도움 추구 — 도움을 가시적으로 만들어 외부적 보정을 불러오는 것 — 으로 해석하며, (특히 AI 사용량이 많은 학생 사이에서) 은폐는 부적응적 규제를 닮는다고 봅니다. 구조화된 형성적 공개는 효과적인 자기규제를 특징짓는 [[metacognition|메타인지적]] 성찰과 윤리적 추론을 촉진할 수 있습니다.
+- **억제 구조는 대상에 따라 갈립니다.** 학생 466명 가운데, 미공개가 적발될 것이라는 확신은 더 우호적인 태도와 연관되었고(β = 0.643), 반면 공개가 부적절한 사용을 드러낼 것이라는 확신은 덜 우호적인 태도와 연관되었습니다(β = −2.175). 또한 미공개에 대한 제재가 강할수록 태도와 지각된 행동 통제 모두와 부적으로 연관되었습니다. 부적절한 사용에 관한 추정은 공선성이 높은 예측변수(분산 팽창 9 초과)에 기대고 있어 불안정합니다([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu 등, 2026]]).
 - **공개 규범은 학문 분야, 언어, 맥락에 따라 다릅니다.** 교육, 사회과학, [[stem-education|STEM]]/보건 학생은 비즈니스 학생보다 더 많이 공개합니다. 단일언어 학생은 [[multilingual-learning|다중언어]] 학생보다 덜 공개할 수 있습니다. 한 연구에서 국제 학생은 더 적게 공개하여 [[equity-in-ai-education|형평성]] 우려를 제기했습니다. 공개 규범은 학업 진급과 함께 자동으로 발전하지 않습니다.
 - **공개 규범은 전문직 프로그램에서 확립되지 않았습니다.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski와 Hurley(2025)]]는 ABA 공인 미국 법학전문대학원이 AI의 어떤 사용이든 공개되어야 하는지에 대해 의견이 갈리며, 교수에게 제출되는 학생 공개 양식을 서술하고, 학술적 또는 수업 글쓰기가 AI를 어떻게 인용해야 하는지에 대해서는 합의가 없음을 발견합니다 — Bluebook 자체도 여전히 침묵하고 있습니다. 그들은 또한 공개가 결국 학생이 검색 엔진을 썼다고 적는 것만큼 쓸모없어 보일 것이라고 예측하며, 지금 쓰이고 있는 규칙의 유효 기간에 대한 경고를 하며, 규범의 질문을 [[legal-education]]에 근거시킵니다.
 
@@ -114,6 +115,7 @@ AI 사용 및 공개는 [[academic-integrity]](그의 근본이 되는 우려), 
 
 ## 연결된 문서
 
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — SEM 분해: 적발 확신 대 공개가 부적절한 사용을 드러낼 위험(Liu 등 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 탐지를 넘어서: 학생이 온라인 평가에서 AI를 쓰고 숨기는 방식
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 학생의 AI 공개, 낙인, 그리고 자기규제 학습
 - [[vetter-hidden-cost-disclosure-genai-2026]] — 공개의 숨겨진 대가: 공개와 교수진의 고발

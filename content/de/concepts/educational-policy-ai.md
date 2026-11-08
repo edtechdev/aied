@@ -1,7 +1,7 @@
 ---
 title: Bildungspolitik zu KI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,8 @@ Ein [[meta-analysis-systematic-review|systematischer Review]] von 65 Arbeiten an
 
 **Dasselbe Defizit hat eine Nachfrageseite.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] ergänzen nachfrageseitige Evidenz von einer schwedischen sozialwissenschaftlichen Fakultät: 31% der Teilnehmenden an Umfrage und Fokusgruppen brachten Ethik unaufgefordert zur Sprache, die meisten wünschten sich mehr institutionelle Orientierung, und die Umweltfolgen von GenAI fehlten in den Politikdokumenten vollständig.
 
+Förderstellen bilden eine eigene Politikebene: Von 46 Stellen mit KI-Leitlinien verknüpften 12 Regeln speziell mit der Förderung, und keine dieser Förderinstrumente trug die Governance-Bestimmungen, die ihre allgemeinen Politiken formulierten ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Hochschulen haben echte KI-Politik.“** **Rechtsform ist seltener als Rechtssprache.** In einem **Scoping-Review von 160 Dokumenten** trugen **2,5% der Instrumente rechtliche Kraft, während 57,5% Leitlinien oder Toolkits waren**. Nahezu ein Viertel von hundert Dokumenten an KI-Steuerung ist unverbindliche Leitlinie.
@@ -196,3 +198,4 @@ Ein [[meta-analysis-systematic-review|systematischer Review]] von 65 Arbeiten an
 - [[genai-pisa-decline-countries-2026]] — Höhere länderstufige generative KI-Nutzung ging mit größeren PISA-Rückgängen 2022-2025 einher, ein Zusammenhang, der nach Kontrolle früherer Leistung verschwand (Guerra & Aslanov 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Englands EdTech Impact Testbed als antizipatorische Steuerung: Piloten, die versprechungsvolle Evidenz liefern (Williamson et al. 2026)
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Beschaffung setzt die Datenumgebung vor der Pädagogik
+- [[chan-ai-policy-gap-2026]] — 56 Dokumente von 46 Förderstellen: eine forschungsfördernde Politikebene mit 12 förderungsspezifischen Instrumenten (Chan 2026)

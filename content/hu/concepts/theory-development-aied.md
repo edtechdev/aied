@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,8 @@ A tanári oldal teoretizálása mára ugyanezt a tesztelhetőségi kötelezetts�
 - **Ember–GAI [[student-engagement|elköteleződési]] paradigmák.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] a terület „elméleti hiányát” úgy kezeli, hogy hét megvalósult ember–GAI elköteleződési paradigmát (őrző, lehetőségközpontú, bővített, úttörő, szimbiotikus, értékalapú, [[equity-in-ai-education|esélyegyenlőségi]]) Schommer többdimenziós személyes episztemológiai hiedelemmodelljére alapozza — episztemológiai, nem eszközközpontú elmélet arról, hogyan pozicionálják magukat eltérően az egyének az MI-hez képest.
 - **Az ökológiai együgynökségi keretrendszer.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] szerint a [[generative-ai|generatív MI]] az episztemológiai tekintélyt a tanároktól a diákokhoz, majd a gépekhez rendeli át, és egy keretrendszert vezet be, amely az együgynökséget három, egymástól függő dimenzióval definiálja — relációs, szabályozási (a [[self-regulated-learning|SRL-ciklusra]] leképezve) és [[pedagogy|pedagógiai]] (tanári elfogadási kontinuum) —, mindegyiket az emberi episztemikus elszámoltathatóság nem tárgyalható feltétele határolja (vitathatóság, származás, valamint a morális és szellemi elismerés nem delegálása). Az [[agency|ügynökséget]] *episztemikus* tervezési problémaként helyezi el, nem [[usability-research|használhatósági]] kérdésként, pontosabb nyelvet adva az intézményeknek a GenAI-integráció irányításához, mint a „kiegyensúlyozás”.
 - **Relációs episztemikus ügynökség és episztemikus függőség.** [[du-yuan-epistemic-dependence-2026|Du és Yuan (2026)]] kritikai-integráló beszámolót adnak arról, mikor őrzi meg, illetve mikor szorítja ki az ítélőképességet az MI által közvetített támaszkodás. A produktív támaszkodás és a káros függőség határát hat diagnosztikai kritériummal operacionalizálják (vitathatóság, helyreállíthatóság, transzfer, nyomonkövethetőség, elosztott felelősség, episztemikus pluralizmus), és négy szociotechnikai útvonalat követnek nyomon (folyékony tekintély, súrlódásmentes delegálás, átláthatatlan szintézis, intézményesült függőség). Normatív javaslatuk, a **relációs episztemikus ügynökség**, a relációs autonómia és az episztemikus együgynökség vonalait bővíti, miközben megőriz egy explicit aszimmetriát — az MI alakíthatja az érvelést viszonzott felelősség vagy legitim tekintély nélkül —, és intézményi szinten integrálja a felelősséget és az episztemikus igazságosságot. Az MI-vel való tanulás elméleteként a terület kérdését arról, hogy az MI segít-e vagy árt-e, arra mozdítja, hogy mely episztemikus cselekvések maradnak meg, alakulnak át vagy szorulnak ki, és a pedagógiai és intézményi beavatkozás tárgyává magát a *függőség tervezését* teszi, nem a puszta használatot.
+
+A modell kimenete a kollektív tudás státuszára emelkedik a státuszhoz szükséges közösségi garancia nélkül — ezt nevezik Webb et al. (2026) pszeudo-cPCK-nak, és ez az oka, hogy a területnek új elméleti konstruktumra van szüksége, nem jobb felületre ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Bevett elméletek továbbfejlesztése
 
@@ -169,3 +171,4 @@ Az elméletfejlesztés és a [[philosophy-of-ai-in-education|MI-oktatás filozó
 - [[ai-connectedness-adolescent-mental-health-2026]] — Mesterségesintelligencia-kapcsoltság: háromdimenziós értelemző hat cáfolható állítással a későbbi teszteléshez
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitív partnerségi ciklus
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Kívánatos nehézségek és produktív kudarc az értelmező ügynökségre alkalmazva a külföldi tanulmányokban
+- [[webb-pck-genai-2026]] — Három vinjett és egy új konstruktum, a pszeudo-cPCK, olyan kimenetre, amely garancia nélkül utánoz kollektíven validált tudást (Webb et al. 2026)

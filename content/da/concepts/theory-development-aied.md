@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoretisering på lærersiden forpligter sig nu på den samme testbarhed: Capabi
 - **Menneske-GAI-[[student-engagement|engagement]]-paradigmer.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] imødegår feltets "teorideficit" ved at forankre syv praktiserede menneske-GAI-engagementsparadigmer (beskyttet, mulighedsorienteret, forstærket, pionerende, symbiotisk, værdibaseret, [[equity-in-ai-education|ligestilling]]) i Schommers multidimensionelle model for personlige epistemologiske overbevisninger — en epistemologisk, snarere end værktøjsfokuseret, teori om, hvordan individer positionerer sig forskelligt i forhold til AI.
 - **Den økologiske samhandlingsramme.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argumenterer for, at [[generative-ai|generativ AI]] omfordeler epistemisk autoritet fra lærere til studerende til maskiner, og introducerer en ramme, der definerer samhandling gennem tre indbyrdes afhængige dimensioner — relationel, regulatorisk (kortlagt på [[self-regulated-learning|SRL-cyklussen]]) og [[pedagogy|pædagogisk]] (underviseradoptionskontinuum) — alle afgrænset af en ikke-forhandlingsbar betingelse om menneskelig epistemisk ansvarlighed (bestridelighed, proveniens og ikke-delegering af moralsk/intellektuel ære). Den positionerer [[agency]] som et *epistemisk* designproblem snarere end et [[usability-research|brugbarheds]]anliggende og giver institutioner et mere præcist sprog end "balance" til at styre GenAI-integration.
 - **Relationelt epistemisk handlingsrum og epistemisk afhængighed.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] bidrager med en kritisk-integrerende redegørelse for, hvornår AI-medieret afhængighed bevarer versus fortrænger dømmekraft. De operationaliserer grænsen mellem produktiv afhængighed og skadelig afhængighed gennem seks diagnostiske kriterier (bestridelighed, genopretning, transfer, sporbarhed, distribueret ansvar, epistemisk pluralitet) og sporer fire sociotekniske veje (flydende autoritet, friktionsløs delegering, uigennemsigtig syntese, institutionaliseret afhængighed). Deres normative forslag, **relationelt epistemisk handlingsrum**, udvider relationel-autonomi- og epistemisk-samhandlingslinjer ved at fastholde en eksplicit asymmetri — AI kan forme ræsonnement uden reciprokt ansvar eller legitim autoritet — mens det integrerer ansvar og epistemisk retfærdighed på institutionelt niveau. Som teori om læring med AI flytter den feltets spørgsmål fra, om AI hjælper eller skader, til hvilke epistemiske handlinger der bevares, transformeres eller fortrænges, og den gør *designet af afhængighed* snarere end blot brug til genstand for pædagogisk og institutionel intervention.
+
+Modellens output løftes til status af kollektiv viden uden den fællesskabsgaranti, som den status kræver — det kalder Webb et al. (2026) pseudo-cPCK, og det er grunden til, at feltet har brug for et nyt teoretisk konstrukt snarere end en bedre grænseflade ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## At videreudvikle etableret teori
 
@@ -166,3 +168,4 @@ Teoriudvikling og [[philosophy-of-ai-in-education|filosofien om AI i uddannelse]
 - [[ai-connectedness-adolescent-mental-health-2026]] — Kunstig intelligens-forbundethed: et tredimensionelt konstrukt med seks falsificerbare propositioner til senere test
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Den kognitive partnerskabscyklus
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Ønskværdige vanskeligheder og produktiv fiasko anvendt på fortolkningsmæssigt handlingsrum i uddannelse i udlandet
+- [[webb-pck-genai-2026]] — Tre vignetter og et nyt konstrukt, pseudo-cPCK, for output, der efterligner kollektivt valideret viden uden garanti (Webb et al. 2026)

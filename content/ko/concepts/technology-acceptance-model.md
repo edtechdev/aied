@@ -1,7 +1,7 @@
 ---
 title: 기술 수용 모형
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ TOE는 도입이 기술적, 조직적, 환경적 맥락에 의해 형성된다�
 - **ChatGPT 도입의 ML 결정요인:** 탐색적 ML 접근은 학생의 인식과 인구통계가 의도된 학문적 ChatGPT 사용과 어떻게 관련되는지를 SHAP 분석으로 검토하여, 핵심 학습 관련 구성개념을 식별했습니다. 알고리즘 성능 극대화보다 교육적 의미를 우선시한 것입니다([[determinants-chatgpt-use-higher-education-2026]]).
 - **교사를 위한 수용 지렛대로서의 [[explainable-ai|설명 가능성]]과 도메인 관련성:** 자동화 신뢰 이론을 AI 권고에 대한 교사 수용에 적응시켜, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]]는 설명 가능한 AI에 의해 높아지는 이해 가능성이 AI 집단화 도구에 대한 신뢰와 수용 모두에 양으로 상관했고, 데이터 기반 특성 중요도 설명보다 [[curriculum-design|교육과정]] 언어를 쓴 도메인 주도 설명이 세 측면 모두에서 더 나았다는 것을 발견했습니다. 수용은 또한 [[pedagogy|교수법적]] 정렬과 업무 경감 잠재력에 의해 추동되었습니다. 표준 TAM/UTAUT 구성개념이 좀처럼 포착하지 못하는 상황적 요인들로, 도입 모형을 맥락과 설명 가능성으로 확장할 근거를 강화합니다.
 - **교수 자료 수준에서 측정된 수용 (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]]는 연령 계층형 AI 리터러시 안내서 두 권을 사용한 794명의 [[k-12]] 학생과 37명의 교사를 대상으로 성과 기대, 노력 기대, 인지된 재미, 행동 의도를 조작화하여, 표본 분할 EFA와 CFA로 네 요인 구조를 검증하고 9-12세 및 13-18세 판본에 걸친 측정 불변성을 지지했습니다. 어린 학습자는 네 구성개념 모두에서 더 높은 수준을 보고했으며, 재미는 두 코호트 모두에서 의도와 가장 강한 상관을 보였습니다. 어린 집단에서 표준화된 재미-의도 계수가 1.00을 넘었고 두 구성개념 사이의 HTMT가 .950였습니다. 저자들은 그것을 구성개념 중첩과 가능한 억제 현상으로 읽으며, 거대한 효과가 아니라고 봅니다. 자료에 적용된 수용 도구가 구조적 해석을 복잡하게 하는 경험적으로 뒤얽힌 요인을 만들어 낼 수 있다는 유용한 교훈입니다.
+
+교수진 22명을 대상으로 한 두 차례 인터뷰 연구에서 AI를 더 많이 알게 된 것이 수용을 높이기보다 일부를 더 신중하게 만들었으며, 이는 경험에서 사용 용이성으로 향한다는 모형의 가정된 방향을 뒤집습니다([[stalboerger-faculty-perceptions-2026|Stalboerger 등, 2026]]).
 
 ## 한계와 확장
 
@@ -169,4 +171,6 @@ TAM의 인지적 초점은 또한 AI 사용의 정서적·관계적 차원을 �
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — 과업–기술 적합성과 결합한 TAM, 신경망 중요도 순위와 필요 조건 임계값 (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — TAM 신념의 상류에 있는 설계 특징, 그리고 필요성이 아닌 중요도
 - [[pinedo-genai-adoption-marketing-students-2026]] — 이미 도입한 집단에서 습관이 UTAUT2를 떠받친다
+
+- [[stalboerger-faculty-perceptions-2026]] — 교수진 22명, 후속 12명: 익숙해짐이 일부에게는 윤리적 검토를 강화해 사용 용이성의 방향을 뒤집었다(Stalboerger 등 2026)
 

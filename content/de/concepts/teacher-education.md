@@ -1,7 +1,7 @@
 ---
 title: "Lehrkräftebildung"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -109,6 +109,8 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - **Klassenzimmer-Politikschreiben zu einer Kern-Lehrkräftebildungsaktivität machen und Mehrdeutigkeit als Politikdefekt behandeln.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] fanden, dass das Bitten angehende Lehrkräfte, ihre eigenen Klassenzimmer-KI-Politiken zu schreiben, als rhetorisches Weltenschaffen darüber funktioniert, wozu Schreiben da ist —, ein Fenster in entstehende Überzeugungen, das abstrakte Diskussion nicht öffnet. Weil KI Schreiben-als-Produkt von Schreiben-als-Prozess trennt, sollten Programme Lehrkräften helfen, zu verorten, wo Denken, Lernen und Wert tatsächlich über Brainstorming, Entwurf, Überarbeitung und Editierung hinweg leben, statt Denken nur in finalem Text zu verorten, und sie darin stützen, Überzeugungen in operative, eindeutige Regeln zu übersetzen, gepaart mit [[ai-literacy|KI-Kompetenz]]instruktion: Widersprüche wie das Verbot KI-generierten Texts, während Studierende für die KI-generierten Inhalte, die sie einreichen, verantwortlich gehalten werden, lassen Studierende unfähig, zu entsprechen.
 - **Lehrkräfte beibringen, die Primärforschung hinter KI-Politik zu lesen.** Ein sechswöchiger graduierter Forschungsmethodenkurs zielte auf Forschungskonsum statt -produktion: eine Lehrkraft wandte das Kritische-Evaluation-Framework auf ein districtseitig vorgeschriebenes Curriculum an und präsentierte die Analyse ihrer Schulleitung, und mehrere übernahmen [[socratic-method|sokratisches Fragen]] mit ihren eigenen Studierenden [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+Weil ein Modell das persönliche fachdidaktische Wissen (PCK) verstärkt, das eine Lehrkraft bereits besitzt, sind Novizen die Gruppe, die selbstsicheren, aber nicht gedeckten fachbezogenen Ratschlägen am stärksten ausgesetzt ist, weshalb Mentoring und fachbereichsinterne Verifikation das entwicklungsbezogene Mittel sind und nicht individuelle KI-Kompetenzmodule ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Die Akzeptanz von KI bei angehenden Lehrkräften ist eine einzige Haltung."** **128 angehende Lehrkräfte** wurden in vier ChatGPT-Akzeptanzgruppen profiliert, darunter **Resistant Skeptics (14,06%), die eine hohe wahrgenommene Nutzungsfreundlichkeit, aber eine sehr geringe Verhaltensabsicht** berichteten. Nutzungsfreundlichkeit und Absicht fielen in dieser Gruppe auseinander, sodass eine von [[usability-research|Usability]] getriebene Intervention sie unverändert ließe.
@@ -171,4 +173,5 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - [[packard-thinking-partner-framework-adult-learners-2026]] — K-12-Lehrkräfte lernen, KI-Primärforschung zu lesen und Bezirksvorgaben anzufechten
 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Angehende Lehrkräfte als Lernende: Gruppen, die über Energie uneinig waren, machten die KI zum Zentrum konzeptueller Rede, Gruppen, die übereinstimmten, behandelten sie als Nachschlagewerk und lehnten proaktive Anstöße ab (Wang et al. 2026)
+- [[webb-pck-genai-2026]] — Warum ein Modell das dünne PCK von Novizen verstärkt und warum das Mittel kollektiv statt ein KI-Kompetenzmodul ist (Webb et al. 2026)
 

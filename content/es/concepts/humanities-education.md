@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ La educación cívica y política es un área temática hermana de estas discipl
 
 La educación SSH pone en primer plano justo las capacidades que la IA generativa más desafía: la autoría original, el juicio interpretativo, el análisis crítico y la construcción de significado sensible al contexto. La base de conocimiento trata este dominio como un contrapeso crítico a los marcos instrumentales y basados en destrezas de la IA: se pregunta si el aprendizaje asistido por IA preserva el [[critical-thinking|pensamiento crítico]], la responsabilidad epistémica y la autonomía interpretativa, en conexión con la [[critical-pedagogy|pedagogía crítica]] y la [[ai-literacy|alfabetización en IA]].
 
+La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes y redactar borradores, lo que desplaza la pregunta de evaluación de la disciplina desde si se generó el texto hacia si la interpretación puede atribuirse al estudiantado ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Implicaciones para el profesorado de humanidades y ciencias sociales
 
 - **Trate la IA como mediadora epistémica, no como tutora de contenido.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] muestra que la IA reconfigura la construcción de significado, la autoría y la agencia en SSH: [[design-education|diseñe la pedagogía]] en torno a las tres trayectorias (dependiente de la IA, mejorada con IA y crítica con la IA) y apunte al extremo crítico con la IA.
@@ -94,3 +96,4 @@ La educación SSH pone en primer plano justo las capacidades que la IA generativ
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15.587 unidades de Artes y Humanidades del Go8: el 58,6% de los ítems de evaluación de 2026 con alta exposición a la IA, concentrada en ensayos e informes
 - [[genai-values-education-affordances-risks-2026]] — La IA generativa en la educación en valores: posibilidades, riesgos éticos e implicaciones para la enseñanza (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — El formato de la tarea y las instrucciones de uso de IA como aquello que el artefacto puede evidenciar (Liu y Liu 2026)
+- [[capodieci-humanities-hil-2026]] — IA agéntica en el aprendizaje de humanidades y el paso de la autoría del texto a la atribución de la interpretación (Capodieci et al. 2026)

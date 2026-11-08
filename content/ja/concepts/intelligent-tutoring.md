@@ -1,7 +1,7 @@
 ---
 title: 知的個別指導
 created: "2026-10-10T21:52:56-04:00"
-updated: "2026-11-07T20:30:41-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_resources: [deeptutor, openmaic, learnharness]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ TeachLMは、乏しい要素は本物の学習者–チューターの相互作�
 ### 主要なITS研究
 
 - **個別指導プラットフォームのミクロ無作為化試験:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al.(2026)]]は、GCSEの[[biology-education|生物学]]、[[chemistry-education|化学]]、[[physics-education|物理学]]において、Medlyの4週間の多地点・個人別無作為化評価を実施し、929人中644人が事後テストを完了しました。プラットフォームへの割り当ては、通常どおりの[[self-directed-learning|自律的]]な復習に対してHedgesのg = 0.33(95% CI 0.18〜0.48)を生み、3教科すべてで正の推定値が出て、不利な立場による影響の差を示す証拠はありませんでした(Pupil Premium g = 0.28 対 非Pupil Premium g = 0.35)。
+- **米国の K-12 を対象としたメタ分析は、平均効果を g = 0.271 としています。** 18 の実験を通じて、解答例と学習者が自ら求めたヒントが効果を担い、自動的に発動するヒントはそうではありませんでした。また、6 か月を超える実施では効果が減衰し、有意でない g = 0.110 になりました（[[leite-its-k12-meta-analysis-2025|Leite ら（2025年）]]）。
 - **[[lak2026-hint-button-unproductive-use|ヒントボタン研究]]**は、従来型ITSのヒント設計が、意図せず迂回の戦略を可能にしてしまう——学習を飛ばす戦略——ことを示し、より洗練された[[scaffolding|足場かけ]]のアプローチを求めています。
 - **[[deeptutor]]**は、引用に基づく個別指導と難易度を較正した[[automated-question-generation|問題生成]]を備えた、完全に[[open-source|オープンソース]]のエージェント型個別指導フレームワークを提供します。
 - **[[huang-interpretable-knowledge-tracing-2026|解釈可能な知識追跡]]**は、LLMのロジットから解釈可能な認知的量を生み出すことで、不透明性の問題に対処します。
@@ -199,6 +200,7 @@ AI個別指導を展開する教員と、それを構築する開発者のため
 
 ## 関連する記事
 
+- [[leite-its-k12-meta-analysis-2025]] — 米国の K-12 メタ分析：18 の実験、g = 0.271、そしてそれを調整するもの（Leite ら 2025）
 - [[learnlm-eedi-expanded-rct-2026]] — 拡大された英国のRCT：近転移の利得はあるが、10週間での標準化テストの優位はない（LearnLM Team, Google & Eedi 2026）
 
 - [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与の対話的な行動と学習(Rho et al. 2026)

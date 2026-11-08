@@ -1,7 +1,7 @@
 ---
 title: 技术采纳模型
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-05T09:35:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ TOE 把采纳框定为受技术、组织和环境情境塑造——作为个体�
 
 - **[[explainable-ai|可解释性]]与领域相关性作为教师接纳的杠杆：**把自动化信任理论改造用于教师对 AI 推荐的接纳，[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 等人（2025）]]发现，可理解性（由可解释 AI 提升）与对一个 AI 分组工具的信任和接纳都正相关，且[[curriculum-design|课程]]语言中的领域驱动解释在所有三项指标上都胜过数据驱动的特征重要性解释。接纳还受到[[pedagogy|教学]]契合度与减负潜力的驱动——这些情境因素超出了标准 TAM/UTAUT 构念很少捕捉的范围，强化了用语境和可解释性扩展采纳模型的理由。
 - **在教学材料层面测量的接纳（2026）。**[[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu（2026）]]为两套面向不同年龄段的 AI 素养指南书操作化了绩效期望、努力期望、感知趣味性和行为意向，被试为 794 名[[k-12]]学生和 37 位教师，用分样本 EFA 与 CFA 验证了四因子结构，并支持跨 9-12 岁和 13-18 岁版本的测量等价性。年轻学习者在全部四个构念上报告更高水平，而趣味性在两个群体中都是意向最强的相关因素——在年轻组中，标准化的趣味性到意向系数超过 1.00，两个构念之间的 HTMT 为 .950。作者把这解读为构念重叠与可能的抑制，而非巨大效应，并提醒：把接纳量表施加于材料时，可能产出经验上纠缠在一起的因子，使结构解释复杂化。
+
+在一项对 22 名教师的两波访谈研究中，更多地了解 AI 使一些人更为谨慎而非更愿接受，颠倒了该模型所假定的从经验到易用性的方向（[[stalboerger-faculty-perceptions-2026|Stalboerger 等，2026]]）。
 
 ## 局限与扩展
 
@@ -163,4 +165,5 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM 与任务—技术匹配结合，外加神经网络重要性排序与必要条件阈值（Chu 与 Liu 2026）
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — 位于 TAM 信念上游的设计特征，以及并非必要性的重要性
 - [[pinedo-genai-adoption-marketing-students-2026]] — 在已采纳人群中习惯承载 UTAUT2
+- [[stalboerger-faculty-perceptions-2026]] — 22 名教师、12 次随访：熟悉度使一些人加强了伦理审视，颠倒了易用性的方向（Stalboerger 等 2026）
 

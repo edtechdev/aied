@@ -1,7 +1,7 @@
 ---
 title: 글로벌 사우스
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ ai_assist:
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]]는 남아프리카 9학년 교실에서 출발하여, [[educational-policy-ai|제한 우선의 제도 정책]]이 교수법적 자원 부족 상황에서 AI가 교사를 대체하기보다 확장할 수 있는 조건을 미리 닫아 버린다고 논증하며, 학습자가 생성하는 상호작용 데이터가 외국 거버넌스 체제 아래 보관된다고 지적합니다.
 
+접근은 역량보다 먼저 포화될 수 있습니다. 베냉의 8개 대학 학생 633명 가운데 92.3퍼센트가 매주 생성형 AI를 사용했고, 도입을 이끈 것은 지각된 유용성이 아니라 업무량이었습니다. 따라서 격차는 더 이상 주로 도구에 도달하는 문제가 아닙니다([[gouroubera-genai-benin-2026|Gouroubera 등, 2026]]).
+
 ## 흔한 오해
 
 - **"저자원 맥락에는 AI 윤리 틀이 없으므로 하나를 수입해야 한다."** 저자원 맥락의 재직 중등 STEAM 교사들은 **형식적 원리가 아니라 전문적 정체성, 교실 현실, 문화 규범을 통해 AI 윤리에 관해 추론합니다**. 그 추론은 이미 존재하며 상황화되어 있고, 보편적 원리 목록은 그것 위에 잘 전이되지 않습니다.
@@ -99,3 +101,5 @@ ai_assist:
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 남아프리카 HDI에서의 디지털 매개자로서의 학업 개발자: 디지털 불평등 대 알고리즘 식민성
 - [[ai-ethical-awareness-ghana-students-2026]] — 가나 대학생의 인공지능 윤리 인식
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — 교육에서의 인공지능 윤리 원리: 교사들의 맥락적 윤리적 추론
+
+- [[gouroubera-genai-benin-2026]] — 베냉 학생 633명: 주간 사용 92.3퍼센트, 업무량이 지배적 동인이라 접근은 더 이상 구속 조건이 아니다(Gouroubera 등 2026)

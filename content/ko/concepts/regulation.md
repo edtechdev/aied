@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 AI 규제
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ ai_assist:
 
 규제는 [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], [[academic-integrity]]와 연결됩니다. 이는 다른 모든 AI 교육 실천이 작동하는 방식을 형성하는 기관적 층위입니다. 규제는 제약하는 동시에 가능하게 합니다. 허용되는 AI 사용의 경계를 설정하면서, [[ai-literacy]]와 책임 있는 사용에 대한 기대를 통해 [[equity-in-ai-education|공평한]] 안전한 통합의 조건을 만들어 냅니다.
 
+규제는 아래로 자동 번역되지 않습니다. 주(state) 차원의 AI 규칙이 존재하는 곳에서 활동하는 32개 자금 제공 기관은 일반 정책을 공표했지만, 그 규칙을 담은 자금 지원 특정 수단은 내놓지 않았습니다([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## 흔한 오해
 
 - **"기관 AI 정책이 규칙이 사는 곳이다."** **미국 교수진 1,057명**을 대상으로 한 [[watson-rainie-ai-challenge-faculty-survey-2026|Watson과 Rainie(2026)]]의 조사는 실효 규칙이 제도 층위보다 얼마나 아래에 있는지 측정합니다. **응답자의 87%가 자신의 지침을 직접 작성**했습니다. 작동하는 정책은 대체로 교수진이 쓴 것이며, 이는 문서화된 제도 층위가 보이는 것보다 적게 기술한다는 뜻입니다.
@@ -104,3 +106,5 @@ ai_assist:
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 빈약한 기관 정책 층위에 맞서 자신의 규칙을 작성하는 교수진의 87%(Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 교육, AI, 그리고 에듀테크에서 학생 프라이버시의 유예
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — 어떤 비교 정책도 AI 에이전트가 LMS에 로그인하거나 학생 자격 증명을 보유하는 경우를 다루지 않았다(Wong과 Sun 2026)
+
+- [[chan-ai-policy-gap-2026]] — 수직적 비번역: 주 규칙은 존재하지만 그 아래의 자금 제공자는 구속력 있는 수단을 발행하지 않는다(Chan 2026)

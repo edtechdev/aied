@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI政策
 created: "2026-10-10T22:26:05-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -19,7 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -130,6 +130,8 @@ Hashemの実践的な結論は、政策の実施から政策の制定（enactmen
 
 同じ欠如には需要側もあります。[[gillette-partnership-ethics-genai-higher-education-2026|Gilletteら(2026)]]は、スウェーデンの社会科学部から需要側の証拠を加えます。調査とフォーカスグループの参加者の31%が促されずに倫理を持ち出し、多くがより多くの機関の指針を望み、genAIの環境への影響は政策文書にまったく現れていませんでした。
 
+資金提供機関はそれ自体が一つの政策層を形成します。AI に関する指針を持つ 46 の機関のうち、12 は資金提供に特化した規則を付けており、それらの資金提供の文書はいずれも、一般方針が述べていた統治の規定を備えていませんでした（[[chan-ai-policy-gap-2026|Chan（2026年）]]）。
+
 ## よくある誤解
 
 - **「大学には実質的なAI政策がある。」** **法的形式は法的な言辞よりも稀です**。**160文書のスコーピングレビュー**では、**法的効力を持つ文書は2.5%、ガイダンスかツールキットは57.5%**でした。拘束力のないガイダンスが、AIガバナンスの文書の過半を占めているのです。
@@ -194,4 +196,5 @@ Hashemの実践的な結論は、政策の実施から政策の制定（enactmen
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — 先見的なガバナンスとしてのイングランドのEdTech Impact Testbed:約束的なエビデンスを生み出す試験導入(Williamsonら)
 
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 調達は教授法より先にデータ環境を設定する
+- [[chan-ai-policy-gap-2026]] — 46 の資金提供機関による 56 の文書：12 の資金提供特化の文書を持つ研究助成機関の政策層（Chan 2026）
 

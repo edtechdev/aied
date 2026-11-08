@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage autorégulé"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -172,6 +172,9 @@ La leçon collective : **l'apprentissage autorégulé est le mécanisme central 
 
 C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 3 003 enseignants en formation chinois, le soutien perçu des outils d'IA menait à la compétence innovante principalement par le sentiment d'[[self-efficacy|efficacité personnelle]] à l'égard de l'IA (60,88% de l'effet total de ce chemin), tandis que le soutien perçu de l'environnement intelligent scolaire y menait principalement par l'apprentissage autorégulé (29,64% contre 18,60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et coll. (2026)]]).
 
+Les étudiants rapportaient davantage de procrastination (β = 0.525) en même temps qu'un gain de performance perçu, ce qui distingue le fait de reporter son travail parce que l'IA est disponible de celui de le reporter avec l'aide de l'IA — une distinction qu'un score unique d'autorégulation ne peut pas porter ([[gouroubera-genai-benin-2026|Gouroubera et coll., 2026]]).
+
+
 ## Implications
 
 - **Pour les outils de journalisation et de chatbot :** combiner l'enseignement d'apprentissage autorégulé (en cours) à un soutien rédactionnel facultatif pour obtenir à la fois les gains de motivation et d'engagement
@@ -270,3 +273,6 @@ C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modèle d'apprentissage hybride fondé sur les projets utilisant l'intelligence artificielle pour améliorer l'apprentissage autorégulé des étudiants
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un assistant d'enseignement par IA comme premier répondant a déplacé les réponses des pairs, et avec elles la co-régulation qui amplifiait la valeur de l'autorégulation pour la note (Davis et coll. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversité des préconceptions a changé la manière dont une invite métacognitive atterrissait : mêmes fonctions d'invite, évaluation durable opposée de la production de l'IA (Wang et coll. 2026)
+
+- [[gouroubera-genai-benin-2026]] — La procrastination augmente avec l'usage (β = 0.525) à côté du gain perçu, séparant le report permis par l'IA du report qui ne concerne que l'IA (Gouroubera et coll. 2026)
+

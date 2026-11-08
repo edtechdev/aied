@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-05T16:05:16-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -191,6 +191,8 @@ El primer estudio de la teoría de la conducta planificada sobre la intención d
 
 Leído a través de la no-performatividad de Ahmed, el vocabulario expresa sensibilidad ética sin ningún mecanismo para hacerla efectiva, de modo que la responsabilidad es invocada por todos los actores a la vez y no se sitúa en ninguno. Hashem denomina el resultado un **habitus de trampa** cambiante: disposiciones hacia la participación legítima recalibradas bajo una indeterminación crónica, estratificadas por el capital académico que aporta el estudiantado, con la trampa y el ser engañado tratados como condiciones concurrentes y no como alternativas. Todo ello se propone desde el texto político y no se observa en el estudiantado.
 
+En 546 estudiantes de grado, la integridad ocupó el primer lugar entre cinco dimensiones de percepción (3,79 de 5) y no varió según el programa de grado, de modo que la variación entre disciplinas está en el uso de IA y en la demanda de destrezas, no en cuánto importa la integridad ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Concepciones erróneas
 
 - **«Las herramientas de detección identifican la escritura con IA.»** El texto generado por IA ha **pasado por escrito por una persona en hasta el 80% de los casos**, mientras que la evidencia sobre la detección sitúa la **detección automática en torno al 80% frente al 78,4% de quienes revisan de forma humana**. El juicio humano y el automático son casi igual de (poco) fiables, así que un veredicto de detección no es prueba de autoría.
@@ -266,3 +268,4 @@ Leído a través de la no-performatividad de Ahmed, el vocabulario expresa sensi
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — evaluación en equipo con verificación por miembro como diseño de autenticación (Issa y Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — La capacidad de responder por el trabajo, y no la proporción de texto, como problema de integridad
+- [[crisol-moya-integrity-assessment-2026]] — 546 estudiantes: la integridad ocupa el primer lugar y no varía entre programas de grado (Crisol Moya et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Lernanalyse
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,8 @@ Prozessebene Instrumentierung ist der nächste Schritt nach unten der beschreibe
 
 Dashboards und Frühwarnsysteme bündeln das Risiko von [[automation-bias]]: Eine Markierung behauptet ein Urteil, das eine Person möglicherweise akzeptiert, weil es existiert, statt weil es geprüft wurde.
 
+Bei konstant gehaltenen multimodalen Indikatoren verbesserte allein eine narrative Erklärung die Interpretation (η² = 0,166) und die Sinnkonstruktion (η² = 0,220) angehender Lehrkräfte, während die handlungsrelevante Transformation unverändert blieb — die Interpretationsebene, nicht die Daten, war der Engpass ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Eine Wissenszustandsschätzung erbt ihre Validität von den Daten."** **Die Q-Matrix, die Items mit Attributen verknüpft, ist eine Annahme, keine Daten**: zurückgewiesene Einträge bei **14 von 918 analysierten Items** bedeuten, dass die Zuordnung selbst einer Entscheidung bedurfte. Die Zuordnung zu validieren ist ein Schritt, keine Formsache.
@@ -199,3 +201,4 @@ Dashboards und Frühwarnsysteme bündeln das Risiko von [[automation-bias]]: Ein
 
 - [[kim-ai-embodied-learning-review-2026]] — KI im embodied learning beobachtet meist: Sensing-Rollen in 62,5% der kodierten Rollen-Tags, und kein begutachtetes System führte multimodale Ströme zusammen, während Lernende es nutzten (Kim & Han 2026)
 - [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: Clickstreams durch benannte Lernstrategien interpretieren, 0.735 gegenüber 0.704 Baseline
+- [[liu-teaching-analytics-dashboard-2026]] — Mikroteaching-Studie mit aktiver Kontrollgruppe, die die Erklärungsebene isoliert: Interpretation bewegte sich, Handlung nicht (Liu et al. 2026)

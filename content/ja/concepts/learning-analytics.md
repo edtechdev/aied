@@ -1,7 +1,7 @@
 ---
 title: ラーニングアナリティクス
 created: "2026-10-10T22:38:09-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -121,6 +121,8 @@ ai_assist:
 
 ダッシュボードと早期警報のシステムは[[automation-bias|自動化バイアス]]のリスクを集中させます。旗は判断を主張し、人はそれが検査されたからではなく存在するから受け入れうるのです。
 
+マルチモーダルな指標を一定に保ち、ナラティブな説明だけを加えると、教員養成課程の学生の解釈（η² = 0.166）と意味構築（η² = 0.220）が高まりましたが、実行可能な変容は動きませんでした。ボトルネックはデータではなく、解釈の層でした（[[liu-teaching-analytics-dashboard-2026|Liu ら（2026年）]]）。
+
 ## よくある誤解
 
 - **「知識状態の推定は、その妥当性をデータから受け継ぐ」** **項目を属性に結び付ける Q 行列は仮定であり、データではありません。** **分析された 918 項目のうち 14 項目**で項目が棄却されたことは、その対応づけ自体が裁定を要したことを意味します。対応づけの検証は手続きではなく、一つの段階です。
@@ -197,4 +199,5 @@ ai_assist:
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 完了率は関与の崩壊を隠しうる
 
 - [[kim-ai-embodied-learning-review-2026]] — 身体化された学習における AI は主に観察する：符号化された役割タグの 62.5% がセンシングの役割で、学習者が使っている間にマルチモーダルなストリームを融合したシステムはレビューに現れなかった（Kim & Han 2026）
+- [[liu-teaching-analytics-dashboard-2026]] — 能動的対照群の模擬授業研究で説明の層を切り分けた：解釈は動き、行動は動かなかった（Liu et al. 2026）
 

@@ -1,7 +1,7 @@
 ---
 title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,8 @@ Más allá del contenido y las creencias, la formación docente recurre cada vez
 - **Hacer de la redacción de políticas de aula una actividad central de la formación docente, y tratar la ambigüedad como un defecto de la política.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] encontraron que pedir al profesorado en formación que escriba sus propias políticas de IA de aula funciona como construcción retórica de un mundo sobre para qué sirve escribir, y abre una ventana a creencias emergentes que la discusión abstracta no abre. Como la IA separa la escritura como producto de la escritura como proceso, los programas deberían ayudar al profesorado a localizar dónde viven realmente el pensamiento, el aprendizaje y el valor a lo largo de la lluvia de ideas, el borrador, la revisión y la edición, en lugar de situar el pensamiento solo en el texto final, y deberían apoyarlo para traducir las creencias en reglas operativas e inequívocas acompañadas de enseñanza de la [[ai-literacy|alfabetización en IA]]: contradicciones como prohibir el texto generado por IA y a la vez responsabilizar a los estudiantes del contenido generado por IA que entregan dejan al estudiante sin forma de cumplir.
 - **Enseñar al profesorado a leer la investigación primaria que hay detrás de la política de IA.** Un curso de posgrado de seis semanas sobre métodos de investigación orientado al consumo y no a la producción de investigación: una docente aplicó el marco de evaluación crítica a un currículo impuesto por el distrito y presentó el análisis a su directora, y varias adoptaron el [[socratic-method|cuestionamiento socrático]] con sus propios estudiantes [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+Como un modelo amplifica el conocimiento pedagógico del contenido (PCK) personal que ya tiene el profesorado, el profesorado novel es el grupo más expuesto a consejos específicos de materia seguros pero infundados, lo que convierte la mentoría y la verificación departamental en el remedio de desarrollo en lugar de módulos individuales de alfabetización en IA ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 ## Concepciones erróneas
 
 - **"La aceptación de la IA entre el profesorado en formación es una sola actitud."** Se clasificó a **128 docentes en formación** en cuatro grupos de aceptación de ChatGPT, entre ellos los **escépticos resistentes (14,06%), que declararon una facilidad de uso percibida alta pero una intención conductual muy baja**. La facilidad de uso y la intención se separaron en ese grupo, de modo que una intervención centrada en la [[usability-research|usabilidad]] los dejaría igual.
@@ -176,3 +178,4 @@ Más allá del contenido y las creencias, la formación docente recurre cada vez
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Un modelo heutagógico de dos capas que vincula la regulación reflexiva del propio profesorado con la agencia del alumnado
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Docentes de K-12 que aprenden a leer investigación primaria sobre IA y a cuestionar los mandatos del distrito
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Docentes en formación como aprendientes: los grupos que discrepaban sobre la energía hicieron de la IA un centro de conversación conceptual; los que coincidían la trataron como consulta y rechazaron los empujones proactivos (Wang et al. 2026)
+- [[webb-pck-genai-2026]] — Por qué un modelo amplifica el PCK escaso de quien es novel y por qué el remedio es colectivo y no un módulo de alfabetización en IA (Webb et al. 2026)

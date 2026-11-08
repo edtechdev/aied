@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,8 @@ Opettajapuolen teoretisointi tekee nyt saman testattavuussitoumuksen: kyvykkyys�
 - **Ihmisen ja GAI:n [[student-engagement|sitoutumisen]] paradigmat.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] vastaa alan "teoriavajeeseen" ankkuroimalla seitsemän toteutunutta ihmisen ja GAI:n sitoutumisen paradigmaa (varautunut, mahdollisuuksiin keskittyvä, laajennettu, uraauurtava, symbioottinen, arvopohjainen, [[equity-in-ai-education|tasa-arvo]]) Schommerin henkilökohtaisten epistemologisten uskomusten moniulotteiseen malliin — epistemologinen, ei työkalukeskeinen teoria siitä, miten yksilöt asemoivat itsensä eri tavoin suhteessa tekoälyyn.
 - **Ekologinen yhteistoimijuusviitekehys.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] väittää, että [[generative-ai|generatiivinen tekoäly]] siirtää epistemologista auktoriteettia opettajilta opiskelijoille ja koneille, ja esittelee viitekehyksen, joka määrittelee yhteistoimijuuden kolmen toisistaan riippuvan ulottuvuuden kautta — relationaalinen, sääntelevä (kartoitettu [[self-regulated-learning|SRL-sykliin]]) ja [[pedagogy|pedagoginen]] (opettajien omaksumisjatkumo) — kaikkien rajoittuessa ehdottomaan ihmisen episteemisen vastuuvelvollisuuden ehtoon (kiistanalaisuus, alkuperä ja moraalisen/älyllisen ansion delegoimattomuus). Se asemoi [[agency|toimijuuden]] *episteemiseksi* suunnitteluongelmaksi eikä [[usability-research|käytettävyys]]kysymykseksi ja antaa instituutioille täsmällisemmän kielen kuin "tasapaino" GenAI-integraation hallintaan.
 - **Relationaalinen episteeminen toimijuus ja episteeminen riippuvuus.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] tarjoavat kriittis-integrativeisen selonteon siitä, milloin tekoälyn välittämä nojautuminen säilyttää ja milloin syrjäyttää harkintaa. He operationalisoivat tuottavan nojautumisen ja haitallisen riippuvuuden rajan kuuden diagnostisen kriteerin kautta (kiistanalaisuus, palautettavuus, siirto, jäljitettävyys, hajautettu vastuu, episteeminen moninaisuus) ja jäljittävät neljä sosioteknistä polkua (sujuva auktoriteetti, kitkaton delegointi, läpinäkymätön synteesi, institutionalisoitu riippuvuus). Heidän normatiivinen ehdotuksensa, **relationaalinen episteeminen toimijuus**, laajentaa relationaalisen autonomian ja episteemisen yhteistoimijuuden linjoja säilyttämällä eksplisiittisen epäsymmetrian — tekoäly voi muovata päättelyä ilman vastavuoroista vastuuta tai legitimiä auktoriteettia — samalla kun se integroi vastuun ja episteemisen oikeudenmukaisuuden institutionaalisella tasolla. Oppimisen teoriana tekoälyn kanssa se siirtää alan kysymyksen siitä, auttaako vai vahingoittaako tekoäly, siihen, mitkä episteemiset toimet säilyvät, muuttuvat tai syrjäytyvät, ja tekee *riippuvuuden suunnittelusta* pelkän käytön sijaan pedagogisen ja institutionaalisen intervention kohteen.
+
+Mallin tuotos nousee kollektiivisen tiedon asemaan ilman sitä yhteisön takeita, jota asema edellyttää — sitä Webb et al. (2026) kutsuvat pseudo-cPCK:ksi, ja siksi ala tarvitsee uuden teoreettisen konstruktin eikä parempaa käyttöliittymää ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Vakiintuneen teorian edistäminen
 
@@ -168,3 +170,4 @@ Teorian kehittäminen ja [[philosophy-of-ai-in-education|tekoälyn koulutusfilos
 - [[ai-connectedness-adolescent-mental-health-2026]] — Tekoälyyn liittyvyys: kolmiulotteinen konstrukti, jossa kuusi kumottavissa olevaa väitettä myöhempää testausta varten
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Kognitiivisen kumppanuuden sykli
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Toivotut vaikeudet ja tuottava epäonnistuminen sovellettuina tulkinnalliseen toimijuuteen ulkomailla tapahtuvassa koulutuksessa
+- [[webb-pck-genai-2026]] — Kolme vinjettiä ja uusi konstrukti, pseudo-cPCK, tuotokselle, joka jäljittelee kollektiivisesti validoitua tietoa ilman takeita (Webb et al. 2026)

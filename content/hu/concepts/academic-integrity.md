@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: "concepts/academic-integrity"
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -180,6 +180,8 @@ A GAIT-alapú kötelességszegési szándék első tervezett viselkedés elméle
 
 Az OECD (2023) rögzíti, hogy 2024 elejéig a felmért tizennyolc országból egyik sem rendelkezett kifejezetten az oktatásra vonatkozó generatív MI-szabályozással, és kilenc az iskolai szintre delegálta az irányítást. Ahmed non-performativity fogalmán keresztül olvasva a szókészlet etikai reagálást fejez ki anélkül, hogy bármilyen mechanizmus megvalósítaná, így a felelősséget minden szereplő egyszerre hivatkozza és egyik sem helyezi el. Hashem az eredményt változó **csalási habitusnak** nevezi: a legitim részvétel felé mutató diszpozíciók krónikus meghatározatlanság mellett kalibrálódnak újra, rétegződve a diákok által hozott akadémiai tőke szerint, ahol a csalás és a becsapottnak lenni egyidejű állapotok, nem alternatívák. Mindezt szabályzati szövegből javasolja, nem diákokon megfigyelve.
 
+546 alapképzéses hallgató körében az integritás az öt észlelési dimenzió közül az első helyre került (3,79 az 5-ből), és nem tért el a képzési program szerint, ami a tudományterületi különbséget az MI használatába és a készségigénybe helyezi, nem abba, hogy mennyire fontos az integritás ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Gyakori tévhitek
 
 - **„A detektáló eszközök azonosítják az MI-írást.”** Az MI-generált szöveg **az esetek akár 80%-ában emberi szerzőségűnek ment át**, míg a detektálás melletti bizonyítékok a **gépi detektálást mintegy 80%-ra teszik a humán bírálók 78,4%-ával szemben**. Az emberi és a gépi ítélet közel egyformán (meg)bízhatatlan, így a detektálási ítélet nem bizonyíték a szerzőségre.
@@ -258,3 +260,4 @@ Az OECD (2023) rögzíti, hogy 2024 elejéig a felmért tizennyolc országból e
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Négy UNESCO- és OECD-dokumentum diskurzusként olvasva: lebegő felelősség és változó csalási habitus (Hashem 2026)
 - [[issa-teamwork-framework-academic-integrity-2024]] — Csapatmunka tagokkénti ellenőrzéssel mint szerzőségalapú értékelés (Issa és Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Elszámoltathatóság, nem szövegarány: a szerzőségi legitimitáshiány ember–MI együttalkotásban (Hong és mtsai. 2026)
+- [[crisol-moya-integrity-assessment-2026]] — 546 hallgató: az integritás első és programok között egyenletes (Crisol Moya et al. 2026)

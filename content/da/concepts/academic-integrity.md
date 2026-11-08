@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -178,6 +178,8 @@ Det første Theory of Planned Behavior-studie af forseelsesintention baseret på
 
 OECD (2023) registrerer, at ingen af atten undersøgte lande ved begyndelsen af 2024 havde specifik regulering af generativ AI til uddannelse, og at ni havde delegeret styringen til skoleniveau. Læst gennem Ahmeds non-performativitet udtrykker ordforrådet etisk lydhørhed uden nogen mekanisme til at omsætte den, så ansvar påkaldes af alle aktører på én gang og placeres hos ingen. Hashem kalder resultatet et skiftende **snydens habitus**: dispositioner mod legitim deltagelse kalibreret under kronisk ubestemthed, stratificeret efter den akademiske kapital, studerende bringer, med snyd og det at blive snydt behandlet som samtidige tilstande snarere end alternativer. Alt sammen fremsat ud fra politiktekst, ikke observeret hos studerende.
 
+Blandt 546 bachelorstuderende rangerede integritet først blandt fem perceptionsdimensioner (3,79 af 5) og varierede ikke med uddannelsesprogram, hvilket placerer den faglige variation i AI-brug og færdighedskrav snarere end i, hvor meget integritet betyder ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Almindelige fejlopfattelser
 
 - **"Detektionsværktøjer identificerer AI-skrivning."** AI-genereret tekst er **blevet accepteret som menneskeskrevet i op til 80 % af tilfældene**, mens evidensen for detektion placerer **maskindetektion på ca. 80 % mod 78,4 % for menneskelige bedømmere**. Menneskelig og maskinel dømmekraft er næsten lige (u)pålidelige, så en detektionsdom er ikke bevis for forfatterskab.
@@ -256,3 +258,4 @@ OECD (2023) registrerer, at ingen af atten undersøgte lande ved begyndelsen af 
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — teamarbejdsevaluering med verifikation pr. medlem som et autentificeringsdesign (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Ansvarlighed snarere end tekstens andel som integritetsproblem
+- [[crisol-moya-integrity-assessment-2026]] — 546 studerende: integritet rangerer først og er ens på tværs af programmer (Crisol Moya et al. 2026)

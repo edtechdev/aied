@@ -1,7 +1,7 @@
 ---
 title: AI 피드백 품질
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -107,6 +107,8 @@ AI 피드백 품질은 근본적으로 [[formative-assessment]]와 [[feedback|�
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]]는 DeepSeek의 명시적 추론 흔적을 피드백의 어포던스로 검토하여, 가시적인 추론이 논평의 근거를 필자가 검사할 수 있게 만드는 한편, 모델은 여전히 논증과 같은 고차원 판단을 인간에게 넘긴다고 보고합니다.
 
+첫 번째 차례에서 정확했던 응답이 세 번째에는 틀릴 수 있습니다. 11개 모형 가운데 12.7퍼센트가 권위 압력 아래에서 틀린 답으로 뒤집혔으므로, 피드백 품질은 첫 응답이 아니라 상호작용 전체에 걸쳐 채점되어야 합니다([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
+
 ## 흔한 오해
 
 - **"학생들이 AI 피드백을 수용 가능하다고 느끼므로 그것은 좋은 피드백이다."** **학생이 지각하는 품질은 수용성이 시사하는 것보다 복합적입니다**: **학부생 93명 가운데 77명이 AI 피드백을 이해하기 쉽다고 답했으나 68명은 반복적이라고, 79명**은 다른 측면에서 아쉽다고 답했습니다. 이해와 불만족이 같은 집단에서 공존했습니다.
@@ -139,6 +141,8 @@ AI 피드백 품질은 근본적으로 [[formative-assessment]]와 [[feedback|�
 - [[genai-l2-written-feedback-scoping-review-2026]] — 51개 연구 가운데 프롬프트를 보고한 것은 27개뿐이며, 16개 실험에는 통제 집단이 없었다
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — 증거에 근거한 AI 생성 교육 피드백 틀
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — 손글씨 수학 시험에서의 LLM 피드백과 수행
+
+- [[liu-educational-sycophancy-2026]] — 정확성은 상호작용에 의존합니다: 밀어붙이는 말에 12.7퍼센트가 뒤집힘(Liu & Korolova 2026)
 
 - [[ai-feedback-violin-intonation-2026]] — 2,208개의 기계 측정 피치 편차에 대해 검사된 억양에 대한 AI 피드백 (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: 논증적 에세이를 위한 모듈화된 자동 쓰기 평가 시스템

@@ -1,13 +1,13 @@
 ---
 title: L'apprentissage expérientiel
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,9 @@ Une revue thématique de 32 études évaluées par les pairs portant sur l'appre
 L'apprentissage expérientiel se rattache à l'[[active-learning|apprentissage actif]], à l'[[project-based-learning|apprentissage par projet]], à l'[[embodied-learning|apprentissage incarné]], à la [[simulation|simulation]], à l'[[educational-robotics|robotique éducative]] et à la préparation professionnelle dans l'[[higher-ed|enseignement supérieur]].
 
 L'expérience intégrée au monde du travail peut être la condition déterminante des compétences avancées : sur 89 projets de fin d'études commandités dans un laboratoire de fabrication intelligente, le passage du [[career-development-and-readiness|Workforce Readiness]] Level 6 au niveau 7 était conditionné par des stages en immersion en entreprise plutôt que par des cours supplémentaires ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+Sur 26 études d'engagement communautaire, l'IA se concentrait dans la préparation (18) et l'action (15) et s'amenuisait à l'évaluation (8) et à la réflexion (3), si bien que les phases ultérieures et intégratives du cycle restent la lacune de conception propre à l'apprentissage par le service communautaire ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
+
 
 ## Idées fausses courantes
 
@@ -113,3 +116,6 @@ L'expérience intégrée au monde du travail peut être la condition déterminan
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratoire virtuel assisté par IA pour l'apprentissage inversé de la physique : effets sur la réussite, la motivation et la charge cognitive au collège
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — Séances expérientielles contre magistrales pour la conscience métacognitive dans l'apprentissage assisté par IA (Benazet i Montobbio et coll. 2026)
+
+- [[yusuf-service-learning-mapping-2026]] — 26 études rapportées au cycle de l'apprentissage par le service communautaire : l'IA s'amenuise à l'évaluation et à la réflexion (Yusuf et al. 2026)
+

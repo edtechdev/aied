@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -133,6 +133,8 @@ El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo 
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li y Moorhouse (2026)]] examinan las trazas de razonamiento explícitas de DeepSeek como una posibilidad que ofrece la retroalimentación, y encuentran que el razonamiento visible hace inspeccionable por quien escribe la base de un comentario, mientras que el modelo sigue remitiendo al humano el juicio de orden superior, como la argumentación.
 
+Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 11 modelos, el 12,7% cambió a una respuesta incorrecta bajo presión de la autoridad, de modo que la calidad de la retroalimentación debe puntuarse a lo largo de una interacción y no en la primera respuesta ([[liu-educational-sycophancy-2026|Liu y Korolova, 2026]]).
+
 ## Concepciones erróneas comunes
 
 - **"A los estudiantes les resulta aceptable la retroalimentación de IA, así que es buena."** **La calidad percibida por los estudiantes es más desigual de lo que sugiere la aceptabilidad**: **77 de 93 estudiantes de grado encontraron fácil de entender la retroalimentación de IA, pero 68 la consideraron repetitiva y 79** encontraron deficiente alguna otra cosa. La comprensión y la insatisfacción coexistieron en la misma cohorte.
@@ -200,3 +202,4 @@ El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo 
 - [[lin-rag-lesson-generation-tutor-training-2026]] — las lecciones de formación de tutores generadas con RAG igualaron a las creadas por humanos cuando había retroalimentación; la ventaja humana apareció solo sin retroalimentación
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — tres dimensiones de evaluación en 68 estudios, con la alineación con la rúbrica como la más delgada (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — divergencia por criterio y por evaluador en 157 mensajes de retroalimentación valorados (Vanhoyweghen et al. 2026)
+- [[liu-educational-sycophancy-2026]] — La corrección depende de la interacción: una tasa de cambio del 12,7% bajo réplica (Liu y Korolova 2026)

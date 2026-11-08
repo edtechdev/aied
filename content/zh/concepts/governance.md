@@ -1,7 +1,7 @@
 ---
 title: AI 治理
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,8 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 
 - **一个以人为本的框架把解释而非工具置于中心。** 在一所使命驱动的文理学院，教师在一次结构化的教育日活动里使用了一个生成式 AI 支持的 Assessment Wizard，作者得出结论：人的判断必须保持为不可协商的解释权威，并在广泛实施之前先建立核验检查点与治理（[[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot、Copeland 与 Pryor，2026]]）。顺序是先形成与核验，再规模化。
 
+治理条款只出现在总体政策文件中，从未出现在约束申请者的资助专用工具里；因此一个资助机构可以在原则上治理 AI，却对它出资的研究不作任何要求（[[chan-ai-policy-gap-2026|Chan，2026]]）。
+
 ## 常见误解
 
 - **"大学已经采纳了有约束力的 AI 政策。"** 在 **48 所机构**中，**40 所（83%）**至少有一份公开文件，而在这 40 所中，**治理大多以指引而非约束性**规则的形式实现。公开的指引不是可执行的政策。
@@ -180,3 +182,4 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI原型与学校试点作为预演所选未来的治理机器（Williamson et al）
 - [[li-su-teacher-genai-decision-making-2026]] — 从治理清晰度到教师决策片段的一条拟议路径
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 作为服务运营问题的行政 AI
+- [[chan-ai-policy-gap-2026]] — 治理语言居于总体政策，从未进入约束申请者的资助规则（Chan 2026）

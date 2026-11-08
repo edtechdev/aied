@@ -1,7 +1,7 @@
 ---
 title: AI 使用与披露声明
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 - **模糊与惩罚性政策驱动隐瞒。** 当 AI 使用政策不清、无执行或为禁令时，学生隐藏使用而非参与。"特定情境下有限使用"的政策最能预测披露；"不允许"或"不知道有政策"的政策预测隐瞒。研究反复呼吁清晰、一致、协作共建的政策。
 - **披露有心理代价——还有隐性代价。** 学生把声明视为自我控告，一些人认为 AI 使用像用计算器一样属于私事。[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] 发现"总是"披露的学生被指控的几率高出 3 倍以上——透明可能招致怀疑。[[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] 发现担忧把披露引向同伴而非抑制它，使学生与教师反馈隔绝。
 - **披露与自我调节学习纠缠在一起。** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] 把教师导向的披露解读为适应性求助——使帮助可见并引来外部校准——而隐瞒（尤其在重度 AI 使用者中）类似于适应不良的调节。结构化的形成性披露可以促进有效自我调节所特有的 [[metacognition|元认知]]反思与伦理推理。
+- **威慑结构因对象而分裂。** 在 466 名学生中，确信不披露会被发现与更有利的态度相关（β = 0.643），而确信声明会暴露不当使用则与更不利的态度相关（β = −2.175），且更重的不披露惩罚与态度和控制感均呈负相关。关于不当使用的估计建立在共线预测变量之上（方差膨胀高于 9），因此并不稳定（[[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu 等，2026]]）。
 - **披露规范因学科、语言与情境而异。** 教育、社科与 [[stem-education|STEM]]/健康学科学生比商科学生披露更多；单语学生可能比 [[multilingual-learning|多语]]学生披露更少。一项研究中国际学生披露更少，引发 [[equity-in-ai-education|公平]]关切。披露规范不会随学业进展自动形成。
 - **披露规范在专业项目中尚未定局。** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] 报告，ABA 认可的美国法学院对是否任何 AI 使用都必须披露意见不一，描述了学生提交给教师的披露表格，并发现对学术或课堂写作应如何引用 AI 无共识——《蓝皮书》本身保持沉默。他们还预言，披露最终会像指出学生用过搜索引擎一样显得无意义，这是对当下所写规则保质期的告诫，并将规范问题扎根于 [[legal-education]]。
 
@@ -114,6 +115,7 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 - [[social-norms-ai-use]] — 学习者为何选择隐藏而非披露
 
 ## 关联文章
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — 一项 SEM 拆分：被发现的确定性与“声明会暴露不当使用”的风险（Liu 等 2026）
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 镜像的方向：告知学生 AI 何时评分他们的作业，并在上传前征得同意
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 超越检测：学生如何在在线评估中使用与隐藏 AI
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生的 AI 披露、污名与自我调节学习

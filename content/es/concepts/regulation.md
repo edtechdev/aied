@@ -1,7 +1,7 @@
 ---
 title: Regulación de la IA en educación
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Una auditoría de las políticas de privacidad de [[edtech-platform|plataformas 
 
 La regulación se conecta con la [[educational-policy-ai]], la [[governance]], la [[ethics]], la [[privacy]], la [[pedagogical-safety]] y la [[academic-integrity]]. Es la capa institucional que da forma a cómo operan todas las demás prácticas de IA en educación. La regulación a la vez constriñe y habilita: fija los límites del uso aceptable de la IA mientras crea las condiciones —mediante la [[ai-literacy]] y las expectativas de uso responsable— para una integración [[equity-in-ai-education|equitativa]] y segura.
 
+La regulación no se traslada hacia abajo de forma automática: 32 organismos financiadores que operan donde existen reglas estatales sobre IA publicaron políticas generales, pero ninguno emitió un instrumento específico de financiación que recogiera esas reglas ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Concepciones erróneas
 
 - **«La política institucional de IA es donde viven las reglas.»** La encuesta de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] a **1.057 docentes estadounidenses** mide hasta qué punto por debajo de la capa institucional se sitúan las reglas efectivas: **el 87% de quienes respondieron escribió** su propia orientación. La política operativa es en gran medida de autoría docente, lo que significa que la capa institucional documentada describe menos de lo que parece.
@@ -104,3 +106,4 @@ La regulación se conecta con la [[educational-policy-ai]], la [[governance]], l
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — El 87% del profesorado escribe sus propias reglas frente a una capa de política institucional escasa (Watson y Rainie, 2026)
 - [[edtech-privacy-deferral-2026]] — «Lo arreglaremos más tarde»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Ninguna política comparable abordaba que un agente de IA iniciara sesión en un LMS o retuviera credenciales del estudiantado (Wong y Sun, 2026)
+- [[chan-ai-policy-gap-2026]] — No traducción vertical: existen reglas estatales mientras los financiadores bajo ellas no emiten ningún instrumento vinculante (Chan 2026)

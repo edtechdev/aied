@@ -1,7 +1,7 @@
 ---
 title: ヒューマン・イン・ザ・ループ
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,8 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 
 - **一つのワークフローではなく、学問全体のためのアーキテクチャとしての HITL。** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai ら（2026）]]は、データ基盤、モデル開発、教授学的なインターフェース、人間のガバナンスという4つの連動する層を、人間の監督と主体性、共適応的な知性、文脈への応答性という3つの原則で結び合わせて指定しています。
 
+生成の後に置かれた確認は、人間が著した過程ではありません。学習者がプロンプトを設計し出力を検証するとき、そのループは置き換えを統治しますが、システムがそうするとき、同じ呼称は機械の計画の見直しを記述しているにすぎません（[[capodieci-humanities-hil-2026|Capodieci ら（2026年）]]）。
+
 ## 総合
 
 ヒューマン・イン・ザ・ループの設計は、単なる安全策ではなく、**資源配分の戦略**です。最先端の問いは、人間を含めるか*どうか*ではなく、パイプラインのどこでその判断がもっとも高い限界的価値をもつかです。もっとも効果的なHITLシステムは、希少な人間の専門性を、自動化されたシステムが最も弱いところ(誤答の選択肢の設計、説明を含むフィードバック、端の事例の裁定、倫理的な判断)に集中させ、残りを自動化します。質、安全、信頼を保ちながら生産を拡張するのです。
@@ -191,3 +193,4 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask:Demand Structure and Automation Potential in a Hybrid Support System
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — システムの好む答えを伏せることが、誤ったAIの助言への委譲を矯正ではなく保護的に減らした
+- [[capodieci-humanities-hil-2026]] — 人間の確認がどこに置かれるかと、誰がその過程を著したかを人文科学の学習で分ける（Capodieci ら 2026）

@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Una revisión temática de 32 estudios revisados por pares sobre aprendizaje pr�
 El aprendizaje experiencial conecta con el [[active-learning|aprendizaje activo]], el [[project-based-learning|aprendizaje por proyectos]], el [[embodied-learning|aprendizaje corporeizado]], la [[simulation|simulación]], la [[educational-robotics|robótica educativa]] y la formación profesional de [[higher-ed|educación superior]].
 
 La experiencia integrada en el trabajo puede ser la condición vinculante para una competencia avanzada: en 89 proyectos de fin de carrera patrocinados en un laboratorio de fabricación inteligente, el avance del [[career-development-and-readiness|Nivel de Preparación Laboral]] 6 al 7 estaba condicionado por las colocaciones integradas en la industria y no por cursos adicionales ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+En 26 estudios de aprendizaje-servicio con participación comunitaria, la IA se concentró en la preparación (18) y la acción (15) y se diluyó en la evaluación (8) y la reflexión (3), de modo que las fases posteriores e integradoras del ciclo siguen siendo la brecha de diseño del aprendizaje-servicio ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## Concepciones erróneas comunes
 
@@ -110,3 +112,4 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[gelli-experiential-language-learning-2026]] — GELLI: un generador de interacciones para el aprendizaje experiencial de idiomas (Symonette et al. 2026)
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — Sesiones experienciales frente a instruccionales para la conciencia metacognitiva en el aprendizaje asistido por IA (Benazet i Montobbio et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26 estudios situados sobre el ciclo del aprendizaje-servicio: la IA se diluye en la evaluación y la reflexión (Yusuf et al. 2026)

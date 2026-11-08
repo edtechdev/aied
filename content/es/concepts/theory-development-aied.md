@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ La teorización del lado docente asume ahora el mismo compromiso de comprobabili
 - **Ciclo de asociación cognitiva.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] propone el Ciclo de Asociación Cognitiva, un modelo recursivo de seis fases —Pregunta humana, Expansión por IA, Reflexión humana, Integración, Revisión y Nueva pregunta— que sitúa el aprendizaje en un cambio de la posición cognitiva de quien aprende y no en la sofisticación del prompt, y nombra cuatro modos de fallo en los que la misma recursión sustituye o distorsiona el pensamiento.
 - **El marco de co-agencia ecológica.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] sostiene que la [[generative-ai|IA generativa]] reasigna la autoridad epistemológica del profesorado al estudiantado y a las máquinas, e introduce un marco que define la co-agencia mediante tres dimensiones interdependientes —relacional, regulatoria (mapeada sobre el [[self-regulated-learning|ciclo de autorregulación]]) y [[pedagogy|pedagógica]] (continuo de adopción docente)—, todas acotadas por una condición no negociable de responsabilidad epistémica humana (contestabilidad, procedencia y no delegación del crédito moral e intelectual). Sitúa la [[agency|agencia]] como un problema de diseño *epistémico* y no como una preocupación de [[usability-research|investigación de usabilidad]], lo que da a las instituciones un lenguaje más preciso que el de «equilibrio» para gobernar la integración de la IA generativa.
 - **Agencia epistémica relacional y dependencia epistémica.** [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] aportan un relato crítico-integrador de cuándo la dependencia mediada por IA preserva el juicio y cuándo lo desplaza. Operacionalizan la frontera entre dependencia productiva y dependencia dañina mediante seis criterios diagnósticos (contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica) y trazan cuatro vías sociotécnicas (autoridad fluida, delegación sin roce, síntesis opaca y dependencia institucionalizada). Su propuesta normativa, la **agencia epistémica relacional**, extiende las líneas de la autonomía relacional y la co-agencia epistémica manteniendo una asimetría explícita —la IA puede moldear el razonamiento sin responsabilidad recíproca ni autoridad legítima— a la vez que integra la responsabilidad y la justicia epistémica en el plano institucional. Como teoría del aprendizaje con IA, desplaza la pregunta del campo de si la IA ayuda o perjudica a qué acciones epistémicas se preservan, se transforman o se desplazan, y convierte el *diseño de la dependencia*, y no el mero uso, en el objeto de la intervención pedagógica e institucional.
+
+La salida del modelo asciende al estatus de conocimiento colectivo sin la garantía comunitaria que ese estatus exige: lo que Webb et al. (2026) llaman pseudo-cPCK, y la razón por la que el campo necesita un constructo teórico nuevo y no una interfaz mejor ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Hacer avanzar la teoría establecida
 
@@ -166,3 +168,4 @@ El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA 
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclo de asociación cognitiva entre personas e IA
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Dificultades deseables y fracaso productivo aplicados a la agencia interpretativa en la educación en el extranjero
 - [[ai-connectedness-adolescent-mental-health-2026]] — Conectividad con la inteligencia artificial: un constructo tridimensional con seis proposiciones falsables para su comprobación posterior
+- [[webb-pck-genai-2026]] — Tres viñetas y un constructo nuevo, la pseudo-cPCK, para una salida que imita conocimiento validado colectivamente sin garantía (Webb et al. 2026)

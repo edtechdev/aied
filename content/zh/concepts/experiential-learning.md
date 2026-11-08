@@ -1,13 +1,13 @@
 ---
 title: 体验式学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ ai_assist:
 体验式学习与[[active-learning|主动学习]]、[[project-based-learning|项目式学习]]、[[embodied-learning|具身学习]]、[[simulation|模拟]]、[[educational-robotics|教育机器人学]]以及[[higher-ed|高等教育]]的专业准备相连。
 
 融入工作的经验可以是高阶能力的约束条件：在一个智能制造实验室的 89 个赞助顶点项目中，从 [[career-development-and-readiness|Workforce Readiness]] Level 6 晋升到 7 是由嵌入产业的实习而非额外的课程所把门的（[[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.（2026）]]）。
+
+在 26 项社区参与式研究中，AI 集中于准备（18 项）与行动（15 项），在评价（8 项）与反思（3 项）处则变得稀薄；因此该循环中较晚的、整合性的阶段仍是服务学习的设计缺口（[[yusuf-service-learning-mapping-2026|Yusuf 等，2026]]）。
 
 ## 常见误解
 
@@ -112,4 +114,5 @@ ai_assist:
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的虚拟实验室用于翻转物理学习：对初中生成绩、动机与认知负荷的影响
 
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
+- [[yusuf-service-learning-mapping-2026]] — 26 项研究映射到服务学习循环：AI 在评价与反思处变薄（Yusuf 等 2026）
 

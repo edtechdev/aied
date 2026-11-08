@@ -1,7 +1,7 @@
 ---
 title: 全球南方
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ ai_assist:
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi 与 van der Merwe（2026）]]从一间南非九年级课堂出发论证，以限制为先的[[educational-policy-ai|机构政策]]排除了 AI 在教学资源匮乏条件下扩展而非替代教师的那些条件，而学习者产生的交互数据则处于外国治理制度之下。
 
+可及性会在能力之前饱和：在贝宁八所大学的 633 名学生中，92.3% 每周使用生成式 AI，而驱动采纳的是工作量而非感知有用性；因此鸿沟的主要问题已不再是能否接触到工具（[[gouroubera-genai-benin-2026|Gouroubera 等，2026]]）。
+
 ## 常见误解
 
 - **"低资源情境缺乏 AI 伦理框架，需要输入一套。"** 一个低资源情境中的在职中学 STEAM 教师**是通过专业认同、课堂现实与文化规范，而非正式原则来思考 AI 伦理的**。这种推理存在且是情境化的，一份普适的原则清单很难移植到它之上。
@@ -99,3 +101,4 @@ ai_assist:
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 南非 HDI 中作为数字中介的学术发展者：数字不平等 vs. 算法殖民性
 - [[ai-ethical-awareness-ghana-students-2026]] — 加纳大学生的 AI 伦理意识
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — 教育中的 AI 伦理原则：教师的情境化伦理推理
+- [[gouroubera-genai-benin-2026]] — 贝宁 633 名学生：每周使用率 92.3%，工作量是主导驱动因素，可及性已不再是约束条件（Gouroubera 等 2026）

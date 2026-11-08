@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,8 @@ Den första studien av Theory of Planned Behavior om avsikt till GAIT-baserat ot
 
  OECD (2023) noterar att ingen av arton undersökta länder hade specifik generativ AI-reglering för utbildning i början av 2024 och att nio hade delegerat styrningen till skolnivå. Läst genom Ahmeds icke-performativitet uttrycker vokabulären etisk lyhördhet utan någon mekanism att förverkliga den, så ansvar åberopas av alla aktörer samtidigt och lokaliseras hos ingen. Hashem kallar resultatet en föränderlig **fuskhabitus**: dispositioner för legitimt deltagande omkalibrerade under kronisk obestämdhet, stratifierade efter det akademiska kapital eleverna bär med sig, där fusk och att bli lurad behandlas som samtidiga tillstånd snarare än alternativ. Allt föreslås utifrån policytext, inte observerat hos elever.
 
+Bland 546 grundstudenter rankades integritet först bland fem perceptionsdimensioner (3,79 av 5) och skilde sig inte mellan program, vilket placerar den disciplinära variationen i AI-användning och färdighetsbehov snarare än i hur mycket integritet betyder ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Vanliga missuppfattningar
 
 - **"Detekteringsverktyg identifierar AI-skrivande."** AI-genererad text har **passerat som människoskriven i upp till 80 % av fallen**, medan evidensen för detektering placerar **maskindetekteringen på omkring 80 % mot 78,4 % för mänskliga bedömare**. Mänskligt och maskinellt omdöme är nästan lika (o)tillförlitliga, så ett detekteringsutslag är inte bevis för författarskap.
@@ -255,3 +257,4 @@ Den första studien av Theory of Planned Behavior om avsikt till GAIT-baserat ot
 
 - [[issa-teamwork-framework-academic-integrity-2024]] — lagbedömning med verifiering per medlem som autentiseringsdesign (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — ansvarighet snarare än textandel som integritetsproblem
+- [[crisol-moya-integrity-assessment-2026]] — 546 studenter: integritet rankas först och är jämn över program (Crisol Moya et al. 2026)

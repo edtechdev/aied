@@ -8,9 +8,9 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-08T10:14:50-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Teoretiziranje na strani nastavnika sada preuzima istu obvezu provjerljivosti: M
 - **Paradigme ljudsko-generativne UI [[student-engagement|angažiranosti]].** [[strydom-human-gai-paradigms-2026|Strydom (2026.)]] bavi se „teorijskim deficitom“ područja tako što sedam aktualiziranih paradigmi angažiranosti čovjeka i generativne umjetne inteligencije (zaštitnička, usmjerena na mogućnosti, augmentirana, pionirska, simbiotska, vrijednosno utemeljena, [[equity-in-ai-education|ravnopravnosna]]) utemeljuje u Schommerovu višedimenzionalnom modelu osobnih epistemoloških uvjerenja — epistemološkoj, a ne alatno usmjerenoj teoriji o tome kako se pojedinci različito pozicioniraju prema umjetnoj inteligenciji.
 - **Ekološki okvir sudjelotvornosti.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026.)]] tvrdi da [[generative-ai|generativna umjetna inteligencija]] preraspodjeljuje epistemološki autoritet s nastavnika na učenike i na strojeve, te uvodi okvir koji sudjelotvornost definira kroz tri međuovisne dimenzije — relacijsku, regulacijsku (preslikanu na [[self-regulated-learning|ciklus SRL-a]]) i [[pedagogy|pedagošku]] (kontinuum usvajanja među nastavnicima) — sve omeđene neupitnim uvjetom ljudske epistemičke odgovornosti (osporivost, porijeklo i neprenosivost moralnog i intelektualnog priznanja). Time [[agency|djelotvornost]] pozicionira kao *epistemički* dizajnerski problem, a ne pitanje [[usability-research|upotrebljivosti]], dajući institucijama precizniji jezik od „ravnoteže“ za upravljanje integracijom generativne umjetne inteligencije.
 - **Relacijska epistemička djelotvornost i epistemička ovisnost.** [[du-yuan-epistemic-dependence-2026|Du i Yuan (2026.)]] daju kritičko-integrativni prikaz toga kada oslanjanje posredovano umjetnom inteligencijom čuva, a kada istiskuje prosudbu. Operacionaliziraju granicu između produktivnog oslanjanja i štetne ovisnosti kroz šest dijagnostičkih kriterija (osporivost, povrativost, prijenos, sljedivost, raspodijeljena odgovornost, epistemička pluralnost) i prate četiri sociotehnička puta (tečni autoritet, besprijekorno delegiranje, neprozirna sinteza, institucionalizirana ovisnost). Njihov normativni prijedlog, **relacijska epistemička djelotvornost**, nadograđuje pristupe relacijske autonomije i epistemičke sudjelotvornosti zadržavajući izričitu asimetriju — umjetna inteligencija može oblikovati rezoniranje bez uzajamne odgovornosti ili legitimnog autoriteta — dok istovremeno integrira odgovornost i epistemičku pravdu na institucionalnoj razini. Kao teorija učenja s umjetnom inteligencijom, ona pomiče pitanje područja s „pomaže li umjetna inteligencija ili šteti“ na „koje se epistemičke radnje čuvaju, preobražavaju ili istiskuju“, i čini *dizajn ovisnosti*, a ne puku upotrebu, predmetom pedagoške i institucionalne intervencije.
+
+Izlaz modela uzdiže se na status kolektivnog znanja bez jamstva zajednice koje taj status zahtijeva — što Webb et al. (2026) nazivaju pseudo-cPCK, i razlog je zašto polju treba novi teorijski konstrukt, a ne bolje sučelje ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Unapređivanje etablirane teorije
 
@@ -165,3 +167,4 @@ Razvoj teorije i [[philosophy-of-ai-in-education|filozofija umjetne inteligencij
 - [[ai-connectedness-adolescent-mental-health-2026]] — povezanost s umjetnom inteligencijom: trodimenzionalni konstrukt sa šest opovrgljivih propozicija za kasnije testiranje
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — ciklus kognitivnog partnerstva
 - [[friction-paradox-generative-ai-education-abroad-2026]] — poželjne teškoće i produktivni neuspjeh primijenjeni na interpretativnu djelotvornost u obrazovanju u inozemstvu
+- [[webb-pck-genai-2026]] — Tri vinjete i novi konstrukt, pseudo-cPCK, za izlaz koji oponaša kolektivno validirano znanje bez jamstva (Webb et al. 2026)

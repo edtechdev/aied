@@ -1,14 +1,14 @@
 ---
 title: 인문·사회과학 교육
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-08T10:12:52-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ SSH 교육은 지식 기반에서 [[stem-education]]과 [[language-learning]]에
 ### 왜 중요한가
 
 SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력들 — 원본 저작, 해석적 판단, 비판적 분석, 맥락에 민감한 의미 구축 — 을 전면에 내세웁니다. 지식 기반은 이 영역을 AI의 도구적·기술 중심적 구상에 대한 결정적 균형추로 다룹니다. 이는 AI 지원 학습이 [[critical-thinking]], 인식론적 책임, 해석의 자율성을 보존하는지를 묻고, [[critical-pedagogy]]과 [[ai-literacy]]에 연결됩니다.
+
+인문학 교육은 자료 수집과 초안 작성에 에이전트형 AI를 쓰기 시작했으며, 이는 이 분야의 평가 질문을 텍스트가 생성되었는지에서 해석을 학생에게 귀속시킬 수 있는지로 옮깁니다([[capodieci-humanities-hil-2026|Capodieci 등, 2026]]).
 
 ## 인문·사회과학 교사를 위한 함의
 
@@ -95,3 +97,5 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 - [[acceptance-ai-english-tools-2026]] — 언어 및 인문학 학습자들의 AI 수용
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587개 Go8 인문학 단위의 계산적 감사: 2026년 평가 문항의 58.6%가 AI에 크게 노출, 에세이와 보고서에 집중
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — 과제 형식과 AI 사용 지시가 산출물이 증거할 수 있는 것을 결정한다(Liu & Liu 2026)
+
+- [[capodieci-humanities-hil-2026]] — 인문학 학습에서의 에이전트형 AI, 그리고 텍스트가 생성되었는지에서 해석을 학생에게 귀속시킬 수 있는지로의 전환(Capodieci 등 2026)
