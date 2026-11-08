@@ -6,8 +6,56 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-06
-**Total backlog:** 7 articles awaiting ingest (2 blocked by publisher bot checks; 5 ranked in-scope but beyond this run's 20-article cap — see the 2026-11-06 entry) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-08
+**Total backlog:** 26 articles awaiting ingest (13 journal RSS + 6 OpenAlex sweep picks added 2026-11-08; 7 carried from the 2026-11-06 entry) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Weekly journal RSS scan (2026-11-08)
+
+The RSS sweep checked 180 feed items: 118 already had pages, 62 were new, and 17 of those cleared
+the AI-in-education relevance filter. Four were ingested this run from full text (two journal
+articles, two arXiv papers the daily scan had not reached); the 13 below are in scope but their
+full text could not be retrieved — ScienceDirect, Wiley and Springer all serve automated requests
+a bot check or an HTML shell instead of the article.
+
+**Computers and Education: Artificial Intelligence (CAEAI)**
+
+- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration in accounting pedagogy within emerging financial markets](https://doi.org/10.1016/j.caeai.2026.100647) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
+- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://doi.org/10.1016/j.caeai.2026.100638) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
+
+**Computers and Education Open (CEAO)**
+
+- [Drivers and academic outcomes of generative AI use among university students in Benin](https://doi.org/10.1016/j.caeo.2026.100431) — [DOI: 10.1016/j.caeo.2026.100431](https://doi.org/10.1016/j.caeo.2026.100431)
+- [Revisiting Pedagogical Content Knowledge (PCK) development for the age of generative AI](https://www.sciencedirect.com/science/article/pii/S266655732600100X) — DOI unverified
+- [Evaluating Large Language Models for career guidance: A comparative analysis of computing competency recommendations across ten African countries](https://doi.org/10.1016/j.caeo.2026.100425) — [DOI: 10.1016/j.caeo.2026.100425](https://doi.org/10.1016/j.caeo.2026.100425)
+- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://doi.org/10.1016/j.caeo.2026.100393) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
+- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://doi.org/10.1016/j.caeo.2026.100342) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
+
+**British Journal of Educational Technology (BJET)**
+
+- [The impact of an AI-driven multimodal teaching analytics dashboard on pre-service teachers' reflective learning in microteaching](https://doi.org/10.1111/bjet.70098) — [DOI: 10.1111/bjet.70098](https://doi.org/10.1111/bjet.70098)
+- [Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors](https://doi.org/10.1111/bjet.70080) — [DOI: 10.1111/bjet.70080](https://doi.org/10.1111/bjet.70080)
+- [From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach](https://doi.org/10.1111/bjet.70083) — [DOI: 10.1111/bjet.70083](https://doi.org/10.1111/bjet.70083)
+- [Correcting automatically generated closed captions for online learning materials does not improve student learning outcomes (although students believe it does)](https://doi.org/10.1111/bjet.70074) — [DOI: 10.1111/bjet.70074](https://doi.org/10.1111/bjet.70074)
+
+**International Journal of Educational Technology in Higher Education (IJETHE)**
+
+- [Learning with GenAI across campuses: student experiences of GenAI-enhanced cybersecurity education](https://doi.org/10.1186/s41239-026-00639-0) — [DOI: 10.1186/s41239-026-00639-0](https://doi.org/10.1186/s41239-026-00639-0)
+- [Mind the AI policy gap: a policy analysis across global funding bodies](https://doi.org/10.1186/s41239-026-00637-2) — [DOI: 10.1186/s41239-026-00637-2](https://doi.org/10.1186/s41239-026-00637-2)
+
+## OpenAlex weekly topic sweep (2026-11-08)
+
+The topic sweep returned 359 candidates for the 7 days to 2026-11-08 (21 dropped as already
+rejected). Six in-scope reviews and meta-analyses were selected and are listed here rather than
+ingested: the OSF preprints serve a 245-byte error page to automated downloads, and the two
+paywalled items have no open full text. All six are open access at their landing pages, so a
+browser session or a maintainer-supplied PDF would unblock any of them.
+
+- [Does the learning benefit of generative AI persist without AI? A meta-analysis of controlled studies](https://doi.org/10.17605/osf.io/kq7ba) — [DOI: 10.17605/osf.io/kq7ba](https://doi.org/10.17605/osf.io/kq7ba)
+- [Generative AI use modes and learning outcomes in higher education: a systematic review](https://doi.org/10.17605/osf.io/t6ykr) — [DOI: 10.17605/osf.io/t6ykr](https://doi.org/10.17605/osf.io/t6ykr)
+- [A Meta-Analysis of the Effect of AI Use on English Learner Engagement](https://doi.org/10.1177/13621688261498089) — [DOI: 10.1177/13621688261498089](https://doi.org/10.1177/13621688261498089)
+- [Educational Sycophancy in Multi-Turn Student Interactions with Large Language Models](https://doi.org/10.1145/3846167.3848605) — [DOI: 10.1145/3846167.3848605](https://doi.org/10.1145/3846167.3848605)
+- [Prompt Choice Is an Unreported Variable in Randomized Trials of Large Language Model Interventions](https://doi.org/10.5281/zenodo.23964481) — [DOI: 10.5281/zenodo.23964481](https://doi.org/10.5281/zenodo.23964481)
+- [Teaching in the Age of AI: Exploring Faculty Perceptions and Practices](https://doi.org/10.3390/aieduc2040036) — [DOI: 10.3390/aieduc2040036](https://doi.org/10.3390/aieduc2040036)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-06)
 

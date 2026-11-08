@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T08:56:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -43,6 +43,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 - **Ambiguous and punitive policies drive concealment.** When AI-use policies are unclear, unenforced, or bans, students hide use rather than engage. "Limited use in certain situations" policies best predict disclosure; "not allowed" or "not aware" policies predict concealment. Clear, consistent, collaborative policies are repeatedly called for.
 - **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
 - **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
+- **The deterrence structure splits by target.** Among 466 students, certainty that non-disclosure would be detected tracked more favorable attitudes (β = 0.643), while certainty that declaring would expose improper use tracked less favorable ones (β = −2.175), and heavier non-disclosure penalties were negatively associated with both attitude and control. The improper-use estimates rest on collinear predictors (variance inflation above 9), so they are unstable ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu et al., 2026]]).
 - **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
 - **Disclosure norms are unsettled in professional programmes.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] report that ABA-approved US law schools disagree about whether any use of AI must be disclosed, describe student disclosure forms filed with instructors, and find no consensus on how scholarly or class writing should cite AI — the Bluebook itself remains silent. They also predict that disclosure will eventually look as pointless as noting that a student used a search engine, a caution about the shelf life of the rules being written now, and they ground the norms question in [[legal-education]].
 
@@ -103,6 +104,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[social-norms-ai-use]] — why learners choose to hide rather than disclose
 
 ## Connected Articles
+- [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — A SEM split: detection certainty vs. the risk that declaring exposes improper use (Liu et al. 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — The mirror direction: telling students when AI grades their work, and asking before uploading it
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T08:56:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -77,6 +77,7 @@ Rather than removing help, research recommends re-engineering how it is delivere
 - **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints (especially bottom-out hints) are accessible.([[lak2026-hint-button-unproductive-use]])
 - **A fading ladder is climbed less the higher it goes.** In CoMeT, a tutor that escalated one rung per unanswered decision and dropped back when a learner took it up, only 282 of 515 coded fading episodes followed an answer: take-up was 37.0% after the first ask and 21.8% after the third ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Delaying help therefore depends on a learner who keeps answering the prompt, and the measured decay means the later rungs of a scaffold reach few of the students still stuck.
 - **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.([[lak2026-hint-button-unproductive-use]])
+- **Meta-analytic support for student-controlled delivery.** Pooling 18 U.S. K-12 experiments, worked-out examples (g = 0.324) and on-demand hints (g = 0.316) were significant while automatically triggered just-in-time hints were not — though the authors warn weaker self-regulators can game on-demand features ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **Message length is the lever delivery research has actually measured.** In a live programming course, longer LLM hints predicted worse next-submission correctness, more remaining attempts and slower resubmission, per standard deviation of 204.9 characters across 14,809 student-exercise pairs ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Readability barely moved any outcome, so volume mattered more than difficulty.
 - **Prior hints on the same course part tracked lower success on the integrative step.** Students given feedback on earlier steps of a project solved their final step 95.6% of the time against 98.1% for those without, a log-odds coefficient of −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). The authors do not read that as harm, since the students who seek hints are plausibly those who would struggle there anyway, which is the [[self-regulated-learning|monitoring]] question this page raises.
 
@@ -142,6 +143,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
+- [[leite-its-k12-meta-analysis-2025]] — Which tutoring supports carry the effect: on-demand examples and hints over automatic prompts
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Interactions as first-class data: classifying a query by the execution state around it
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Help-seeking trajectory, not its level, predicts unassisted math performance
