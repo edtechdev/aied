@@ -7,9 +7,9 @@ technology: [generative-ai, intelligent-tutoring]
 assessment: [feedback]
 discipline: [cs education]
 confidence: high
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/learning-by-teaching"
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -68,7 +68,7 @@ Dua kegunaan lebih lanjut berulang di seluruh basis pengetahuan:
 - **Pertanyaan mengidentifikasi celah pengetahuan.** Sistem LbT menggunakan pertanyaan yang dihasilkan siswa untuk menyingkap celah dan memperkuat pemahaman, dan [[teaching-ai-vocabulary-lbt-llms-2026|pertanyaan yang dihasilkan LLM]] menggantikan generator berbasis templat yang kaku.
 - **Teach-back menyingkap apa yang terlewat oleh klarifikasi.** Dalam sistem tinjauan pascakuliah dengan 22 peserta, teach-back reflektif dari agen Peer secara konsisten menyingkap celah antara apa yang diyakini siswa telah mereka pahami dan apa yang dapat mereka artikulasikan, yang tidak terungkap oleh klarifikasi berbasis kuliah saja ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|merancah]] [[regulation|regulasi]] diri.** Mengajar [[conversational-ai|agen percakapan]] menumbuhkan [[self-efficacy]] dan penerapan strategi pembelajaran mandiri, serta menghubungkan LbT dengan [[desirable-difficulties]] — tindakan menjelaskan dan mengoreksi yang penuh usaha itu sendiri adalah perjuangan produktif yang akan terhapus oleh penghilangan gesekan ala AI.
-- **Yang memprediksi pembelajaran tutor adalah pembangunan pengetahuan, bukan pengetahuan awal.** Di antara 23 tutor sekolah menengah pertama, proporsi respons yang membangun pengetahuan alih-alih mengulanginya memprediksi skor pascates konseptual (β = .138, p < 0.05), sementara skor tes awal tidak memprediksi siapa yang menghasilkannya, dan tutor dengan pengetahuan awal rendah yang membangun pengetahuan berakhir setara dengan rekan-rekan mereka yang berpengetahuan awal tinggi ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Yang memprediksi pembelajaran tutor adalah pembangunan pengetahuan, bukan [[prior-knowledge|pengetahuan awal]].** Di antara 23 tutor sekolah menengah pertama, proporsi respons yang membangun pengetahuan alih-alih mengulanginya memprediksi skor pascates konseptual (β = .138, p < 0.05), sementara skor tes awal tidak memprediksi siapa yang menghasilkannya, dan tutor dengan pengetahuan awal rendah yang membangun pengetahuan berakhir setara dengan rekan-rekan mereka yang berpengetahuan awal tinggi ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Mengapa ini penting dalam pendidikan AI
 

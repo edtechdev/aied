@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, meta
 connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/desirable-difficulties"
 source_updated: "2026-11-05T23:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -58,6 +58,8 @@ Kegagalan produktif adalah versi terstruktur dan digerakkan teori dari ide ini: 
 
 
 Kendala dapat membawa logika desain yang sama di dalam kelas menulis. Dalam unit menulis argumentatif selama sembilan minggu, [[making-ai-annoying-constrained-writing-2026|Konradt, Boote dan Taub (2026)]] memberi empat siswa sekolah menengah chatbot yang dibatasi guru yang mengajukan pertanyaan alih-alih menghasilkan prosa; siswa mendorong balik keluaran AI alih-alih mengonsumsinya, mengembangkan literasi prompt bersama kemajuan argumentasi balasan dan integrasi bukti.
+
+
 
 
 ## Kesulitan yang Diinginkan vs. Gesekan Kognitif vs. Gesekan Produktif
@@ -116,7 +118,6 @@ TutorMoments mengoperasionalkan prinsip kesulitan yang diinginkan sebagai kriter
 - [[self-regulated-learning]]
 
 - [[automation-bias]] — Kegagalan yang hendak dicegah oleh gesekan produktif
-
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[scaffolding]]

@@ -5,9 +5,9 @@ type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/network-analysis"
-source_updated: "2026-10-26T13:35:09-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -49,8 +49,8 @@ Metode jaringan digunakan di seluruh basis bukti basis pengetahuan ini untuk men
 - **Membuka "kotak hitam" interaksi siswa–AI.** TNA mengungkap *prosesnya* — loop perilaku dan jalur yang ditempuh siswa saat menggunakan alat AI (misalnya, "loop revisi" vs. "loop obrolan" dalam [[conversational-ai|chatbot]] yang memberi perancah pada [[writing-education|pendidikan menulis]]) alih-alih hanya keluaran akhirnya. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Membandingkan penataan kognitif antarkelompok.** ENA menunjukkan bagaimana kelompok berbeda menghubungkan konstruk secara berbeda — misalnya, bagaimana [[metacognition]] muncul bersamaan dengan delegasi vs. penalaran manusia dalam kolaborasi manusia–AI, mengungkap mode kolaborasi yang berbeda. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Melacak literasi AI dan ciri khas interaksi.** ENA pada log interaksi mengidentifikasi pola penggunaan [[llm|LLM]] yang berbeda (penyempurnaan strategis iteratif vs. perintah linear), membedakan [[ai-literacy|kemahiran]] dan perkembangan siswa. ([[tracing-genai-literacy-interaction-patterns]])
-- **Menganalisis wacana dan pembingkaian.** ENA diterapkan pada data [[qualitative-research|kualitatif]] dan [[multimodal]] (misalnya frame YouTube tentang ChatGPT dalam pendidikan) untuk mengungkap struktur wacana publik atau disipliner. ([[youtube-frames-chatgpt-education]])
-- **Melengkapi laporan diri dan metrik produk.** Karena metode jaringan menggunakan data perilaku yang diamati, ia dapat menyingkap ketidaksesuaian antara apa yang diklaim siswa dan apa yang benar-benar mereka lakukan — temuan yang berulang dalam literatur penyerapan umpan balik basis pengetahuan ini.
+- **Menganalisis wacana dan pembingkaian.** ENA diterapkan pada data [[qualitative-research|kualitatif]] dan [[multimodal]] (misalnya frame YouTube tentang [[generative-ai|ChatGPT]] dalam pendidikan) untuk mengungkap struktur wacana publik atau disipliner. ([[youtube-frames-chatgpt-education]])
+- **Melengkapi [[self-report-measures|laporan diri]] dan metrik produk.** Karena metode jaringan menggunakan data perilaku yang diamati, ia dapat menyingkap ketidaksesuaian antara apa yang diklaim siswa dan apa yang benar-benar mereka lakukan — temuan yang berulang dalam literatur penyerapan umpan balik basis pengetahuan ini.
 
 - **Struktur graf sebagai kuantitas validasi, bukan ringkasan deskriptif.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] melacak β0 - jumlah komponen terhubung dari graf kedekatan mingguan atas siswa pada ambang Euclidean tetap - untuk menguji apakah kohort sintetis mereproduksi yang nyata, dan lebih memilihnya karena ia ditentukan oleh grafnya sendiri, tidak memerlukan optimasi atau benih acak tidak seperti maksimalisasi modularitas, dan tetap terdefinisi ketika sepertujuh hingga sepertiga siswa berada sendirian dalam satu komponen.
 
@@ -79,7 +79,7 @@ Metode jaringan digunakan di seluruh basis bukti basis pengetahuan ini untuk men
 
 ## Miskonsepsi Umum
 
-- **"Analisis jaringan bersifat objektif karena bersifat komputasional."** **Pengodean adalah fondasinya**: semua varian jaringan bergantung pada pengodean data mentah (ujaran, peristiwa, hubungan) yang andal menjadi simpul diskret, dan pengodean otomatis mewarisi definisinya dari siapa pun yang menetapkannya. Visualisasinya tampak seperti struktur yang muncul dengan sendirinya, dan simpul-simpulnya adalah pilihan interpretatif.
+- **"Analisis jaringan bersifat objektif karena bersifat komputasional."** **Pengodean adalah fondasinya**: semua varian jaringan bergantung pada pengodean data mentah (ujaran, peristiwa, hubungan) yang andal menjadi simpul diskret, dan pengodean otomatis mewarisi definisinya dari siapa pun yang menetapkannya. [[visualization|Visualisasi]]nya tampak seperti struktur yang muncul dengan sendirinya, dan simpul-simpulnya adalah pilihan interpretatif.
 - **"Pergeseran struktur jaringan secara otomatis merupakan keuntungan belajar."** Dalam diskusi kasus dengan **dua puluh mahasiswa pascasarjana lintas disiplin**, **proporsi istilah bersama berukuran 3 naik dari 5.2% menjadi 8.0%** sementara **token konten turun menjadi sekitar 0.65× tingkat pasca-**bacaan mereka. Dua ukuran struktural bergerak ke arah berlawanan, sehingga "jaringannya berubah" bukan temuan sampai Anda menyebutkan ukuran mana yang bergerak dan mengapa itu penting.
 - **"Berbagi lebih banyak istilah berarti kolaborasi yang lebih baik."** Naiknya proporsi istilah bersama bersamaan dengan turunnya keragaman token konten konsisten dengan konvergensi pada kosakata yang lebih sempit. Konsensus dan penyempitan secara struktural serupa, dan itulah sebabnya ukuran itu memerlukan konten yang menjadi dasar perhitungannya.
 

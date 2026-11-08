@@ -10,9 +10,9 @@ connected_faqs: [group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/group-work"
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-04T18:52:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -86,11 +86,11 @@ Lini penelitian kedua memperlakukan AI sebagai peserta alih-alih alat, dan temua
 
 ### Risiko epistemik dari keluaran yang rapi
 
-[[polished-artifacts-fragile-engagement-2026|Kimmerle]] mengonseptualisasikan risiko berkurangnya usaha epistemik ketika pembelajar menggunakan AI untuk menghasilkan artefak pengetahuan yang rapi — bias otomasi di sisi sosial-kognitif dan penutupan epistemik yang diinduksi oleh artefak yang sudah jadi di sisi lain. Obatnya adalah menata AI sebagai mitra argumentatif atau penantang yang memelihara konflik. Kontra-argumennya datang dari [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], yang menemukan bahwa ketika LLM bertindak sebagai mitra kritik dan siswa secara aktif membantah klaim-klaimnya, pembelajar berperilaku sebagai konsumen kritis yang memelihara alih-alih menyerahkan konflik kognitif dari kritik itu. Perbedaan antara rekan tim yang memberi jawaban dan mitra yang menantang adalah yang menentukan apakah kerja kelompok dengan AI membangun atau melewati pemikiran.
+[[polished-artifacts-fragile-engagement-2026|Kimmerle]] mengonseptualisasikan risiko berkurangnya usaha epistemik ketika pembelajar menggunakan AI untuk menghasilkan artefak pengetahuan yang rapi — [[automation-bias|bias otomasi]] di sisi sosial-kognitif dan penutupan epistemik yang diinduksi oleh artefak yang sudah jadi di sisi lain. Obatnya adalah menata AI sebagai mitra argumentatif atau penantang yang memelihara konflik. Kontra-argumennya datang dari [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer et al.]], yang menemukan bahwa ketika LLM bertindak sebagai mitra kritik dan siswa secara aktif membantah klaim-klaimnya, pembelajar berperilaku sebagai konsumen kritis yang memelihara alih-alih [[cognitive-surrender|menyerahkan]] konflik kognitif dari kritik itu. Perbedaan antara rekan tim yang memberi jawaban dan mitra yang menantang adalah yang menentukan apakah kerja kelompok dengan AI membangun atau melewati pemikiran.
 
 ### Dukungan tingkat kelas yang non-evaluatif
 
-[[breideband-community-builder-cobi-2026|CoBi]] mendeteksi wacana kelompok kecil yang "mengangkat" (rasa hormat, keadilan, komunitas, memajukan pemikiran) dan mengembalikan visualisasi tingkat kelas yang non-evaluatif — sengaja menahan umpan balik pada tingkat siswa atau kelompok untuk melindungi [[privacy]] dan [[trust]]. Siswa lebih menyukai visualisasi [[qualitative-research|kualitatif]] (sebuah pohon organik) daripada yang [[quantitative-research|kuantitatif]] (bagan radar). Untuk dimensi relasional kerja kelompok, umpan balik teragregasi di tingkat kelas mendukung pembangunan komunitas di tempat penilaian individual akan terasa seperti pengawasan.
+[[breideband-community-builder-cobi-2026|CoBi]] mendeteksi wacana kelompok kecil yang "mengangkat" (rasa hormat, keadilan, komunitas, memajukan pemikiran) dan mengembalikan [[visualization|visualisasi]] tingkat kelas yang non-evaluatif — sengaja menahan umpan balik pada tingkat siswa atau kelompok untuk melindungi [[privacy]] dan [[trust]]. Siswa lebih menyukai visualisasi [[qualitative-research|kualitatif]] (sebuah pohon organik) daripada yang [[quantitative-research|kuantitatif]] (bagan radar). Untuk dimensi relasional kerja kelompok, umpan balik teragregasi di tingkat kelas mendukung pembangunan komunitas di tempat penilaian individual akan terasa seperti pengawasan.
 
 ## Implikasi desain
 

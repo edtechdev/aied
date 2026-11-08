@@ -6,9 +6,9 @@ pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/lifelong-learning"
-source_updated: "2026-11-01T09:07:05-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 ## Pertanyaan yang Perlu Dipertimbangkan
 
 - Pikirkan keterampilan baru terakhir yang Anda pelajari di luar sekolah formal — di tempat kerja, daring, atau otodidak. Siapa yang memutuskan apa yang dipelajari, bagaimana, dan kapan Anda "selesai"? Bagaimana AI mengubah gambaran itu?
-- Pertanyaan sentral halaman ini adalah otonomi: ketika AI ikut mengidentifikasi kebutuhan belajar, menetapkan tujuan, bahkan menghasilkan konten, apa yang tetap mandiri dalam pembelajaran Anda?
+- Pertanyaan sentral halaman ini adalah otonomi: ketika AI ikut mengidentifikasi kebutuhan belajar, menetapkan tujuan, bahkan menghasilkan konten, apa yang tetap [[self-directed-learning|mandiri]] dalam pembelajaran Anda?
 - Pendidikan formal menganggap waktu tetap dan kurikulum berurutan. Halaman ini mengusulkan "Learnity graph" — unit pengetahuan saling terhubung yang dinavigasi pembelajar secara fleksibel sepanjang hidup. Apa yang Anda peroleh, dan apa yang berisiko hilang, bila pembelajaran dilepas dari urutan tetap?
 - AI dapat mendukung pembelajar dewasa sekaligus mengubah keterampilan yang harus terus diperbarui. Jika AI terus membentuk ulang bidang Anda, kemampuan apa yang layak diinvestasikan yang tak bisa diberikan alat mana pun?
 - Pembelajaran sepanjang hayat sering dibingkai sebagai tanggung jawab individu. Namun akses sepanjang hidup juga soal keadilan. Siapa yang mendapat waktu, sumber daya, dan dukungan untuk terus belajar sebagai orang dewasa — dan bagaimana AI memperlebar atau mempersempit kesenjangan itu?
@@ -39,8 +39,8 @@ Pembelajaran sepanjang hayat merujuk pada pendidikan berkelanjutan sepanjang hid
 - **Pedoman desain pembelajaran orang dewasa:** [[ai-adult-learning-guidelines-dis2026|Penelitian dari lembaga AI-ALOE]] menyintesis pedoman desain berbasis empiris untuk teknologi pembelajaran orang dewasa bertenaga AI, menekankan dukungan praktis dan peka konteks.
 - **Perolehan keterampilan terpandu AI:** [[ai-guided-learning-audiovideo-2026|Pembelajaran audio/video terpandu AI]] menunjukkan bagaimana AI memberi perancah pada tahap konsumsi–pemahaman–peniruan, menyesuaikan media dengan pembelajar.
 - **Dari kurikulum tetap ke struktur adaptif:** [[learnity-graphs-lifelong-learning-framework-2026|Learnity graph]] mengusulkan kurikulum pendidikan tinggi yang tetap dipikirkan ulang sebagai unit pengetahuan saling terhubung yang dinavigasi pembelajar secara fleksibel sepanjang hidup.
-- **Otonomi dan kemandirian:** [[andragogy-cognitive-delegation-genai-2026|Andragogi dan delegasi kognitif]] meninjau teori pembelajaran orang dewasa di bawah delegasi kognitif bermediasi AI, menanyakan apa yang tetap mandiri saat AI ikut mengidentifikasi kebutuhan, menetapkan tujuan, dan menghasilkan konten.
-- **Apa yang diinginkan orang dewasa dari delegasi itu.** Dalam wawancara dengan 20 dari 60 pembelajar dewasa tersaring di tiga universitas AS, mereka menyebut AI sebagai agen pembelajaran kolaboratif tempat mereka belajar dan belajar bersama, bukan oracle pemberi jawaban. Mereka tidak menginginkan sistem sempurna tanpa kesalahan, melainkan sistem yang tetap dalam lingkar dan beradaptasi ([[kim-ai-andragogy-2026|Kim et al., 2026]]). Kemandirian, menurut bukti ini, justru dipertahankan orang dewasa di dalam interaksi, bukan diserahkan kepadanya — itulah target desain yang dibutuhkan pertanyaan otonomi.
+- **Otonomi dan kemandirian:** [[andragogy-cognitive-delegation-genai-2026|Andragogi dan delegasi kognitif]] meninjau [[learning-theories|teori pembelajaran]] orang dewasa di bawah delegasi kognitif bermediasi AI, menanyakan apa yang tetap mandiri saat AI ikut mengidentifikasi kebutuhan, menetapkan tujuan, dan menghasilkan konten.
+- **Apa yang diinginkan orang dewasa dari delegasi itu.** Dalam wawancara dengan 20 dari 60 pembelajar dewasa tersaring di tiga universitas AS, mereka menyebut AI sebagai agen [[collaborative-learning|pembelajaran kolaboratif]] tempat mereka belajar dan belajar bersama, bukan oracle pemberi jawaban. Mereka tidak menginginkan sistem sempurna tanpa kesalahan, melainkan sistem yang tetap dalam lingkar dan beradaptasi ([[kim-ai-andragogy-2026|Kim et al., 2026]]). Kemandirian, menurut bukti ini, justru dipertahankan orang dewasa di dalam interaksi, bukan diserahkan kepadanya — itulah target desain yang dibutuhkan pertanyaan otonomi.
 - **Kebijakan dan komunitas:** [[ai-lifelong-learning-policy|AI dalam kebijakan pembelajaran sepanjang hayat]] dan [[community-centered-ai-education-adults|pendidikan AI berbasis komunitas]] membahas dimensi institusional dan keadilan dalam pembelajaran AI orang dewasa.
 - **Regenerasi keahlian pun berisiko.** Di pekerjaan AS yang paling terekspos AI, pekerja usia 22–25 mengalami penurunan lapangan kerja relatif 16% (Okt 2022–Sep 2025) sementara usia 35–49 tumbuh lebih dari 8%, dan keahlian mendalam untuk memvalidasi keluaran AI bergantung pada peran tingkat awal yang dihapus penurunan itu ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 

@@ -9,9 +9,9 @@ assessment: [automated-assessment]
 ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/explainable-ai"
-source_updated: "2026-11-01T09:13:16-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Dua kehati-hatian mempertajamnya lebih jauh, keduanya menjadi pusat kontribusi t
 **Dapat dijelaskan sejak desain** adalah satu jawaban atas masalah kejujuran post-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang dan Fang (2025)]] memparameterkan dekoder penjelasan dengan representasi gabungan dan skor prediksi yang sama yang menentukan [[assessment]], sehingga skor rendah pada pertanyaan [[formative-assessment|formatif]] menghasilkan rasional yang menyebut kurangnya pertanyaan penggalian, dan memasangkannya dengan atensi dua lensa atas standar kurikulum dan gerakan rubrik khas mata pelajaran. Keselarasan atensi-ke-rubrik mencapai 78.0% dibandingkan 41.7% untuk GPT-4 zero-shot dan 32.1% untuk BERT, dan kejujuran diuji melalui penghapusan counterfactual atas rentang kritis rubrik bersama penilaian manusia pada daftar periksa yang berjangkar rubrik, menghasilkan skor kredibilitas penjelasan 0.78 — peningkatan 0.31 dibandingkan BERT-base. Audit juga menunjukkan di mana klaim arsitektural menipis: pada isyarat emosional model mengalokasikan 28.4% bobot atensi dibandingkan 15.2% pada pakar (keselarasan 0.53), dengan satu kasus kegagalan memberikan 28% pada token "frustrated", yang dibaca penulis sebagai overfitting terhadap afek alih-alih pedagogi dan mereka namai sebagai area penyempurnaan. Menanamkan penjelasan dalam jalur keputusan membuatnya lebih jujur daripada rasional post-hoc; itu tidak membuatnya benar.
 
 
-**Apa yang dikatakan model tentang yang digunakannya bergantung pada keluarga model sama besarnya dengan pada data.** Pada tujuh model dalam satu kohort, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] menemukan pendekatan simbolik bersandar pada faktor kognitif dan motivasional, model sub-simbolik pada aspek kognitif, pengetahuan yang dipelajari dan gender, dan keduanya sebagian besar mengabaikan faktor metakognitif, sementara model neural-simbolik menggunakan perangkat yang lebih terintegrasi. Siswa yang sama dan indikator yang sama menghasilkan paparan berbeda tentang apa yang penting, sehingga keselarasan dengan teori pembelajaran menjadi klaim tentang atribusi alih-alih tentang akurasi.
+**Apa yang dikatakan model tentang yang digunakannya bergantung pada keluarga model sama besarnya dengan pada data.** Pada tujuh model dalam satu kohort, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] menemukan pendekatan simbolik bersandar pada faktor kognitif dan [[motivation|motivasional]], model sub-simbolik pada aspek kognitif, pengetahuan yang dipelajari dan gender, dan keduanya sebagian besar mengabaikan faktor metakognitif, sementara model neural-simbolik menggunakan perangkat yang lebih terintegrasi. Siswa yang sama dan indikator yang sama menghasilkan paparan berbeda tentang apa yang penting, sehingga keselarasan dengan [[learning-theories|teori pembelajaran]] menjadi klaim tentang atribusi alih-alih tentang akurasi.
 
 ## Mengajarkan keterjelasan sebagai praktik akuntabilitas
 

@@ -10,7 +10,7 @@ technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtec
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/edtech-platform"
 source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -86,7 +86,6 @@ Platform dapat mempersonalisasi melampaui data kinerja. **Taklif.AI** adalah pla
 ### Lapisan yang dirancang khusus di atas model umum
 
 Kontribusi platform sering kali adalah struktur yang tidak dimiliki model umum. [[learnmate2-llm-adaptive-learning|LearnMate^2]] membungkus LLM dalam perencanaan belajar, bantuan dalam konteks, dan aktivitas yang responsif terhadap kinerja, dan dalam perbandingan 16 peserta ia mengalahkan Khan Academy yang dipasangkan dengan Gemini 2.5 Pro pada kedua kuis (M = 13.375 vs 10.875, p = .0126; 7.875 vs 5.875, p = .0012). [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] menerjemahkan instruksi bahasa alami menjadi perilaku robot CoppeliaSim bagi pemula, berhasil pada 100% tugas sederhana tetapi 88,9% tugas kompleks di 108 kasus.
-
 
 ## Implikasi bagi desain dan penelitian
 

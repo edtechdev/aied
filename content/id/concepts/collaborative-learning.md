@@ -9,7 +9,7 @@ connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/collaborative-learning"
 source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

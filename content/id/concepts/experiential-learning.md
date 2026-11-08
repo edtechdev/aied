@@ -5,9 +5,9 @@ type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/experiential-learning"
-source_updated: "2026-11-01T09:07:05-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -43,15 +43,17 @@ Pembelajaran eksperiensial berhubungan erat dengan [[active-learning]], [[projec
 
 - **AI sebagai infrastruktur untuk ketidakpastian, bukan efisiensi.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] memberi peran AI generatif tugas menghasilkan peristiwa disruptif dan konsekuensi berantai dalam simulasi bisnis, sehingga tim merevisi rencana di bawah informasi yang tidak lengkap, dan memperingatkan bahwa simulasi yang terlindungi dapat meninggalkan kebiasaan pengambilan keputusan yang menjadi liabilitas di luar kelas.
 
-- **Melakukan versus diberi tahu, diukur selama lima minggu.** Dalam kuasi-eksperimen dengan 126 mahasiswa teknik tahun pertama, sesi eksperiensial dua jam tentang belajar dengan AI generatif menghasilkan kenaikan pengetahuan metakognitif sebesar +0.25, dibandingkan dengan sekitar nol untuk ceramah. Itu adalah efek sedang (d = -0.37) yang tidak mencapai signifikansi pada p = .055 setelah koreksi perbandingan berganda, dan keterlibatan AI yang dilaporkan sendiri sebanding pada kedua kelompok di minggu kelima (3.99 dan 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio dkk., 2026]]). Batas yang diletakkan ini pada rasional halaman ini layak dinyatakan terus terang: satu sesi hands-on menggerakkan pengetahuan metakognitif ke arah yang benar tanpa menuntaskan perbandingannya, sehingga keunggulan melakukan harus dibangun dari siklus berulang alih-alih diasumsikan dari satu laboratorium.
+- **Melakukan versus diberi tahu, diukur selama lima minggu.** Dalam kuasi-eksperimen dengan 126 mahasiswa teknik tahun pertama, sesi eksperiensial dua jam tentang belajar dengan AI generatif menghasilkan kenaikan pengetahuan [[metacognition|metakognitif]] sebesar +0.25, dibandingkan dengan sekitar nol untuk ceramah. Itu adalah efek sedang (d = -0.37) yang tidak mencapai signifikansi pada p = .055 setelah koreksi perbandingan berganda, dan keterlibatan AI yang [[self-report-measures|dilaporkan sendiri]] sebanding pada kedua kelompok di minggu kelima (3.99 dan 3.93) ([[metacognitive-awareness-experiential-vs-instructional-2026|Benazet i Montobbio dkk., 2026]]). Batas yang diletakkan ini pada rasional halaman ini layak dinyatakan terus terang: satu sesi hands-on menggerakkan pengetahuan metakognitif ke arah yang benar tanpa menuntaskan perbandingannya, sehingga keunggulan melakukan harus dibangun dari siklus berulang alih-alih diasumsikan dari satu laboratorium.
 
 ### Dua bentuk pembelajaran hands-on dalam kurikulum berbantuan AI
 
-Tinjauan tematik atas 32 studi telaah sejawat tentang pembelajaran hands-on dalam pendidikan desain berbantuan AI ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) berargumen bahwa AI menata ulang alih-alih menggantikan pembelajaran eksperiensial, dan menarik sebuah pembedaan yang cenderung dilebur oleh sumber lain dalam basis pengetahuan ini: *Embodied Hands-on*, yang bergantung pada tindakan tubuh, alat, dan material, serta *Cognitive Hands-on*, yang berkembang melalui pengoperasian berkelanjutan, pertimbangan, dan penyesuaian keluaran yang dihasilkan AI. Keduanya menjalankan siklus tindakan–umpan balik–refleksi–penyempurnaan yang sama, tetapi menarik umpan balik dari sumber yang berbeda — resistensi material dunia nyata pada kasus pertama, hasil bahasa dan visual pada kasus kedua — sehingga keduanya tidak boleh diperlakukan sebagai setara atau sebagai pengganti. Kehati-hatian tinjauan itu adalah bahwa efisiensi generasi dapat memampatkan fase eksploratif: beberapa studi yang disertakan melaporkan berkurangnya sketsa eksploratif dan trial-and-error bertahap, sehingga lebih banyak iterasi yang dimungkinkan AI tidak berarti kedalaman iteratif yang lebih besar, dan siswa dapat melewatkan perjumpaan dengan kegagalan serta kendala material yang membuat kerja hands-on mendidik. Sejalan dengan itu, [[prompt-engineering|pemberian prompt]] semata tidak meningkatkan [[creativity]] dalam karya yang ditinjau, sedangkan operasi bertahap (hasilkan, ubah, pilih) meningkatkannya — sekali lagi menempatkan pembelajaran pada pertimbangan siswa alih-alih pada generasinya.
+Tinjauan tematik atas 32 studi telaah sejawat tentang pembelajaran hands-on dalam [[design-education|pendidikan desain]] berbantuan AI ([[hands-on-learning-necessity-age-of-ai-review-2026|Yu, Liu & Zhu, 2026]]) berargumen bahwa AI menata ulang alih-alih menggantikan pembelajaran eksperiensial, dan menarik sebuah pembedaan yang cenderung dilebur oleh sumber lain dalam basis pengetahuan ini: *Embodied Hands-on*, yang bergantung pada tindakan tubuh, alat, dan material, serta *Cognitive Hands-on*, yang berkembang melalui pengoperasian berkelanjutan, pertimbangan, dan penyesuaian keluaran yang dihasilkan AI. Keduanya menjalankan siklus tindakan–umpan balik–refleksi–penyempurnaan yang sama, tetapi menarik umpan balik dari sumber yang berbeda — resistensi material dunia nyata pada kasus pertama, hasil bahasa dan visual pada kasus kedua — sehingga keduanya tidak boleh diperlakukan sebagai setara atau sebagai pengganti. Kehati-hatian tinjauan itu adalah bahwa efisiensi generasi dapat memampatkan fase eksploratif: beberapa studi yang disertakan melaporkan berkurangnya sketsa eksploratif dan trial-and-error bertahap, sehingga lebih banyak iterasi yang dimungkinkan AI tidak berarti kedalaman iteratif yang lebih besar, dan siswa dapat melewatkan perjumpaan dengan kegagalan serta kendala material yang membuat kerja hands-on mendidik. Sejalan dengan itu, [[prompt-engineering|pemberian prompt]] semata tidak meningkatkan [[creativity]] dalam karya yang ditinjau, sedangkan operasi bertahap (hasilkan, ubah, pilih) meningkatkannya — sekali lagi menempatkan pembelajaran pada pertimbangan siswa alih-alih pada generasinya.
 
 Pembelajaran eksperiensial terhubung dengan persiapan profesional dalam [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], dan [[higher-ed]].
 
-Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lanjut: di antara 89 proyek capstone bersponsor di laboratorium manufaktur pintar, kemajuan dari Workforce Readiness Level 6 ke 7 ditentukan oleh penempatan yang tertanam di industri alih-alih oleh kursus tambahan ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith dkk. (2026)]]).
+Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lanjut: di antara 89 proyek capstone bersponsor di laboratorium manufaktur pintar, kemajuan dari [[career-development-and-readiness|Workforce Readiness]] Level 6 ke 7 ditentukan oleh penempatan yang tertanam di industri alih-alih oleh kursus tambahan ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith dkk. (2026)]]).
+
+Di antara 26 studi yang melibatkan komunitas, AI terkonsentrasi pada persiapan (18) dan tindakan (15) serta menipis pada evaluasi (8) dan refleksi (3), sehingga fase siklus yang lebih akhir dan integratif tetap menjadi celah desain dalam pembelajaran berbasis layanan ([[yusuf-service-learning-mapping-2026|Yusuf dkk., 2026]]).
 
 ## Miskonsepsi Umum
 
@@ -59,9 +61,9 @@ Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lan
 
 **"AI dapat menggantikan pengalaman dalam pembelajaran eksperiensial."** Ia dapat menyimulasikan sebagian sistem dan tidak dapat menyediakan pengalaman yang membentuk kompetensi di bidang terapan seperti AI, keamanan siber, dan robotika, tempat siswa mengembangkan keterampilan dengan bekerja menggunakan alat dan sistem nyata. Lingkungan keamanan tersimulasi mengajarkan prosedur; sistem yang berjalan mengajarkan konsekuensi dari kesalahan konfigurasi.
 
-**"Tugas yang lebih autentik secara langsung lebih baik."** Autentisitas menaikkan nilai transfer sekaligus masalah penilaiannya: sistem nyata menghasilkan bukti yang bervariasi dan sulit dinilai, dan makin autentik tugasnya makin kurang hasilnya menyerupai skor. Desain harus menampung keduanya, dan itulah sebabnya struktur refleksi sama beratnya dengan tugasnya.
+**"Tugas yang lebih [[authentic-assessment|autentik]] secara langsung lebih baik."** Autentisitas menaikkan nilai transfer sekaligus masalah penilaiannya: sistem nyata menghasilkan bukti yang bervariasi dan sulit dinilai, dan makin autentik tugasnya makin kurang hasilnya menyerupai skor. Desain harus menampung keduanya, dan itulah sebabnya struktur refleksi sama beratnya dengan tugasnya.
 
-**"Tutoring AI cocok untuk pembelajaran eksperiensial sebagaimana ia cocok untuk materi ceramah."** Kecocokannya lebih lemah, karena tutor dapat menyediakan penjelasan dan tidak dapat menyediakan perjumpaan dengan sistemnya. Tempat alaminya dalam pedagogi ini adalah di sekitar tahap refleksi dan konseptualisasi, ketika siswa memaknai apa yang terjadi — bukan sebagai pengganti tindakan. [[gelli-experiential-language-learning-2026|Symonette dkk. (2026)]] menghasilkan perjumpaannya alih-alih menuliskannya: dari tujuan siswa, GELLI membangun adegan tersituasi dengan tokoh, dukungan, dan refleksi pada saat berjalan, dan dalam studi within-subjects dengan 40 siswa Jepang ia mengalahkan video buatan pakar pada daya ingat kosakata (d = 0.45) dan kepercayaan diri (d = 0.45), tetapi tidak pada berbicara.
+**"[[intelligent-tutoring|Tutoring AI]] cocok untuk pembelajaran eksperiensial sebagaimana ia cocok untuk materi ceramah."** Kecocokannya lebih lemah, karena tutor dapat menyediakan penjelasan dan tidak dapat menyediakan perjumpaan dengan sistemnya. Tempat alaminya dalam [[pedagogy|pedagogi]] ini adalah di sekitar tahap refleksi dan konseptualisasi, ketika siswa memaknai apa yang terjadi — bukan sebagai pengganti tindakan. [[gelli-experiential-language-learning-2026|Symonette dkk. (2026)]] menghasilkan perjumpaannya alih-alih menuliskannya: dari tujuan siswa, GELLI membangun adegan tersituasi dengan tokoh, dukungan, dan refleksi pada saat berjalan, dan dalam studi within-subjects dengan 40 siswa Jepang ia mengalahkan video buatan pakar pada daya ingat kosakata (d = 0.45) dan kepercayaan diri (d = 0.45), tetapi tidak pada berbicara.
 
 ## Implikasi bagi Praktik
 
@@ -74,7 +76,7 @@ Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lan
 **Bagi pengembang**
 
 - Bangun prompt refleksi dan catatan tentang apa yang dilakukan siswa, sehingga tahap pemaknaan memiliki bahan dan buktinya dapat diaudit.
-- Jangan menyajikan simulasi sebagai pengganti pengoperasian sistem nyata di bidang yang konsekuensi kesalahannya adalah kurikulumnya sendiri.
+- Jangan menyajikan simulasi sebagai pengganti pengoperasian sistem nyata di bidang yang konsekuensi kesalahannya adalah [[curriculum-design|kurikulumnya]] sendiri.
 
 **Bagi perancang program**
 
@@ -90,6 +92,7 @@ Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lan
 - [[learning-theories]]
 - [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
 - [[virtual-and-augmented-reality]] — praktik imersif sebagai pengalaman yang disengaja
+- [[reflection]]
 
 ## Artikel terkait
 - [[genai-counter-learner-groupthink-2025]]
@@ -108,3 +111,4 @@ Pengalaman terintegrasi kerja dapat menjadi kondisi pengikat bagi kompetensi lan
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorium virtual berbantuan AI untuk pembelajaran fisika terbalik: efek pada prestasi, motivasi, dan beban kognitif siswa sekolah menengah
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — Sesi eksperiensial versus instruksional untuk kesadaran metakognitif dalam pembelajaran berbantuan AI (Benazet i Montobbio dkk. 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26 studi dipetakan ke siklus pembelajaran berbasis layanan: AI menipis pada evaluasi dan refleksi (Yusuf dkk. 2026)

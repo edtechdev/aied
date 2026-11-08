@@ -4,9 +4,9 @@ created: "2026-09-20T12:39:59-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/latent-profile-analysis"
-source_updated: "2026-10-26T09:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ LPA mengandaikan bahwa sampel ditarik dari campuran subkelompok, masing-masing d
 
 - **LCA — indikator kategorikal.** Becker dan rekan mengonversi kategori respons terkode dari jawaban terbuka 1,189 siswa fisika menjadi variabel indikator dan mempertahankan dua kelas: Pengguna Pragmatis (70 persen) dan Non-Pengguna Skeptis (30 persen); karena topik yang tidak disebut dihitung sebagai "tidak ada dukungan," para penulis menandai inflasi nol dalam kerangka data analisis.
 - **LPA — indikator kontinu** seperti skor skala dan rerata konstruk. Chen dan rekan memprofilkan 128 calon guru Taiwan pada lima konstruk [[technology-acceptance-model|TAM]]/UTAUT2; Acquah dan rekan memprofilkan 509 mahasiswa Ghana pada tiga dimensi kesadaran etis; Schweder dan rekan memprofilkan 2,464 siswa pada pemenuhan kebutuhan [[motivation|motivasional]].
-- **Analisis transisi (profil) laten** memperluas keluarga ini sepanjang waktu, mengestimasi profil per gelombang dan probabilitas berpindah di antaranya. Liang dan rekan melacak motivasi belajar AI 2,086 siswa selama setahun; Wu mengikuti 457 pembelajar bahasa Jepang selama tiga gelombang, dengan profil maladaptif menyusut dari 26.48 menjadi 17.74 persen.
+- **Analisis transisi (profil) laten** memperluas keluarga ini sepanjang waktu, mengestimasi profil per gelombang dan probabilitas berpindah di antaranya. Liang dan rekan melacak motivasi belajar AI 2,086 siswa selama setahun; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] mengikuti 457 pembelajar bahasa Jepang selama tiga gelombang, dengan profil maladaptif menyusut dari 26.48 menjadi 17.74 persen.
 
 Pengelompokan biasa ([[machine-learning|k-means]] dan hierarkis) mengejar niat berpusat pada orang yang sama tetapi mempartisi kasus berdasarkan jarak geometris alih-alih mengestimasi model probabilitas. Gunakan LPA atau LCA ketika pertanyaannya menyangkut subkelompok — apakah "si siswa" adalah fiksi pada tingkat agregasi sampel Anda, dan apakah subkelompok berbeda dalam bentuk maupun dalam level. Jangan menggunakannya ketika Anda membutuhkan efek perlakuan rata-rata: solusi lima profil di dalam [[rct|uji acak]] sebuah [[intelligent-tutoring|tutor adaptif]] memprediksi perbedaan pascates (partial η² = .27) tetapi tidak menemukan interaksi kondisi × profil (ps ≥ .198).
 

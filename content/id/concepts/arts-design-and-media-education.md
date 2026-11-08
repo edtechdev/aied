@@ -9,7 +9,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/arts-design-and-media-education"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -70,6 +70,8 @@ Alat teks-ke-gambar adalah kasus di mana alur kerja iteratif studio paling langs
 
 
 Pertanyaan adopsi mendapat jawaban khas disiplin dalam [[zhu-creative-agency-trust-genai-art-2026|Zhu (2026)]], yang menyurvei 450 mahasiswa seni di delapan institusi Zhejiang dengan model UTAUT yang diperluas oleh [[trust]]. Kepercayaan adalah jalur terkuat menuju niat berperilaku (β = 0.425), di depan pengaruh sosial (0.155), sementara kendali metakognitif mengarah lebih langsung ke niat (β = 0.146) daripada ke kepercayaan (β = 0.099). Para penulis membacanya sebagai taruhan disiplin ini: aturan berhenti seni tidak jelas, sehingga memegang agensi kreatif berarti memutuskan berulang kali apa yang dipertahankan, direvisi, atau dibuang. Tindak lanjut acak dengan 80 siswa meminta pakar tersamar menilai gambar yang dihasilkan, dan siswa yang diprompt memperoleh skor lebih tinggi pada konten semantik (d = 0.67), gaya visual (d = 1.30), dan komposisi spasial (d = 0.63).
+
+
 
 
 [[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]] mengubah kritik menjadi metode yang dapat direplikasi: tiga permainan epistemik — Interpret, Interrogate, dan Expose — memindahkan diskusi studio dari reaksi impresionistik menuju hipotesis bias yang beralasan, dengan aturan BiasSlot yang memvariasikan satu isyarat bias sementara motif konstan tetap dijaga.

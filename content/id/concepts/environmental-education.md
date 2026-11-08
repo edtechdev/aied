@@ -9,9 +9,9 @@ ethics: [sustainability, ethics, global-south]
 institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/environmental-education"
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Belahan inilah tempat korpus paling tipis. Tinjauan atas seluruh 396 makalah pro
 
 Di sisi pembelajar, antarmuka umpan balik ekologis yang menyingkap trade-off latensi–karbon selama penggunaan LLM langsung diteliti pada 89 mahasiswa sarjana ilmu komputer dalam kursus etika komputasi: siswa memilih mode berkarbon lebih rendah pada sekitar 45% interaksi berlatensi rendah tetapi di bawah 5% pada latensi tinggi, dan kesadaran keberlanjutan secara signifikan menaikkan pilihan itu. Sampelnya kecil dan secara teknis luar biasa terinformasi, tetapi ini satu-satunya bukti langsung dalam korpus bahwa informasi jejak sama sekali menggerakkan pembelajar — dan hal itu mengisyaratkan bahwa kendala pengikatnya adalah kesabaran, bukan nilai.([[llm-environmental-impact-student-usage-2026]])
 
-Bukti mitigasi datang dari asisten basis pengetahuan [[cs-education|CS]] on-premise di satu GPU konsumen (12 GB VRAM) dengan konten berlisensi terbuka: 1.8 mWh per kueri pada kondisi terbaik — sekitar 0.54 Wh untuk kelas berisi 30 siswa yang masing-masing mengajukan sepuluh kueri — dengan penyetelan halus berbasis kuantisasi yang menahan baik penurunan akurasi maupun kenaikan [[hallucination-risk|halusinasi]] yang ditimbulkan kompresi saja. Ini tolok ukur rekayasa, bukan studi pembelajaran, tetapi ia menunjukkan pertanyaan jejak memiliki tuas desain (grounding, kuantisasi, lokasi penerapan), bukan hanya tuas disiplin penggunaan.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
+Bukti mitigasi datang dari asisten basis pengetahuan [[cs-education|CS]] on-premise di satu GPU konsumen (12 GB VRAM) dengan konten berlisensi terbuka: 1.8 mWh per kueri pada kondisi terbaik — sekitar 0.54 Wh untuk kelas berisi 30 siswa yang masing-masing mengajukan sepuluh kueri — dengan [[llm-training-and-fine-tuning|penyetelan halus]] berbasis kuantisasi yang menahan baik penurunan akurasi maupun kenaikan [[hallucination-risk|halusinasi]] yang ditimbulkan kompresi saja. Ini tolok ukur rekayasa, bukan studi pembelajaran, tetapi ia menunjukkan pertanyaan jejak memiliki tuas desain (grounding, kuantisasi, lokasi penerapan), bukan hanya tuas disiplin penggunaan.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
 ## Keterampilan hijau, kesadaran keberlanjutan, dan kapasitas guru
 

@@ -9,7 +9,7 @@ assessment: [assessment, assessment-validity, automated-assessment, automated-es
 ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/automated-assessment"
 source_updated: "2026-11-04T15:25:17-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -102,7 +102,6 @@ Tujuan desain sentral dalam penilaian otomatis adalah **kesadaran keyakinan**: s
 Penilaian otomatis biasanya memberi skor pada apa yang dihasilkan siswa, sehingga [[teacher-role|kinerja guru sendiri]] diserahkan pada pengamatan manusia. Sebuah tinjauan integratif 2026 mengarahkan alat-alat itu pada pengajaran itu sendiri, memetakan 21 studi yang diambil dari 367 rekaman di Scopus, Web of Science, dan ERIC ([[dino-ai-teacher-performance-learner-behavior-review-2026|Dino dkk., 2026]]). Tinjauan itu mengikuti desain lima tahap Whittemore dan Knafl dengan pelaporan PRISMA, menilai kualitas dengan MMAT 2018 — 89 dari 105 kriteria dinilai Ya — dan membangun peta kata kuncinya di VOSviewer.
 
 Empat tema mengorganisasi korpus: **Evaluasi**, model yang menilai guru dari umpan balik siswa dan data survei; **Keterlibatan**, alat yang menyortir siswa menurut tingkat keterlibatan dalam lingkungan daring, tatap muka, dan hibrida; **Ekspresi**, pengodean sentimen dan topik atas umpan balik tertulis siswa; dan **Pengalaman**, perekaman sensor dan video atas perilaku kelas yang dapat diamati. Kinerja guru adalah sasaran paling umum, pada 11 dari 21 studi. Penulis tidak menjalankan [[meta-analysis-systematic-review|meta-analisis]], karena heterogenitas metodologis dan luaran membuat penggabungan tidak mungkin, dan 7 dari 21 studi memiliki 100 partisipan atau kurang — sehingga tinjauan ini memetakan bidang yang terfragmentasi alih-alih mengestimasi seberapa baik AI menilai pengajaran.
-
 
 
 ## Kualitas dan keadilan

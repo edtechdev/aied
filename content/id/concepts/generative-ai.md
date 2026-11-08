@@ -6,9 +6,9 @@ foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
-updated: "2026-11-04T02:37:02-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/generative-ai"
-source_updated: "2026-10-28T19:13:23-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Digabungkan dari 53 studi, pendidikan berbantuan GenAI mengungguli pendekatan no
 Meta-analisis tiga tingkat atas 22 studi menemukan pembelajaran berbasis masalah dan [[project-based-learning|berbasis proyek]] yang didukung GenAI menghasilkan efek gabungan besar pada hasil internal pembelajar (g = 0.819), meskipun koreksi PET-PEESE menurunkannya menjadi g = 0.378; cara penyematan juga penting, dengan chatbot umum bergabung pada g = 0.970 dibandingkan g = 0.455 untuk sistem khusus atau API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 
-Meta-analisis terpisah atas 42 studi yang khusus tentang motivasi menempatkan efek gabungan lebih rendah (g = 0.764) dan melaporkan interval prediksi 95% yang membentang [−0.689, 2.217], sehingga keunggulan motivasional tidak andal positif untuk latar baru ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+Meta-analisis terpisah atas 42 studi yang khusus tentang motivasi menempatkan efek gabungan lebih rendah (g = 0.764) dan melaporkan interval prediksi 95% yang membentang [−0.689, 2.217], sehingga keunggulan [[motivation|motivasional]] tidak andal positif untuk latar baru ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 UI generatif adalah kapabilitas terbaru dalam untaian ini: model yang mengeluarkan artefak interaktif yang berfungsi — slider, simulasi yang dapat dimanipulasi — alih-alih prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], tim Google Research, melaporkan bahwa UI generatif siap pakai belum cukup presisi secara pedagogis untuk konstruk kompleks, tetapi menguraikan tujuan pembelajaran menjadi sasaran bertingkat progresif dan membungkus pembangkitan dalam putaran kritik dan perbaikan diri menghasilkan interaktif yang dinilai guru ahli sebagai layak. Pendekatan mereka adalah desain orkestrasi: guru menyatakan tujuan, menyetujuinya, dan memilih di antara simulasi kandidat, sehingga kendala pengikat pada [[simulation|materi belajar interaktif]] yang dibuat khusus bergeser dari produksi ke spesifikasi, dan [[guardrails|pagar pengaman pedagogis]] tertanam dalam pipeline pembangkitan alih-alih diserahkan pada kewaspadaan guru sesudahnya.
 
@@ -73,7 +73,7 @@ Pembuatan konten juga menjangkau melampaui [[math-education|matematika]] ke pera
 
 ### AI generatif dalam domain khusus: dukungan disleksia
 
-Tinjauan sistematis interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu PRISMA, 2018–2024, n=72) menemukan bahwa **AI generatif kurang dimanfaatkan dalam domain dukungan disleksia**. Penelitian GAI (semuanya dari 2024) mengelompok ke [[conversational-ai|chatbot]] cerdas, dukungan [[teacher-education|pelatihan guru]], dan studi eksploratif, serta dengan cepat melampaui [[machine-learning|ML]] klasik sebagai alat pilihan — namun eksperimentasi yang ketat dan validasi dunia nyata sebagian besar masih absen. Analisis tren masa depan dalam tinjauan itu menunjuk pada materi personalisasi bertenaga GAI dan umpan balik adaptif waktu nyata, model diagnostik [[multimodal|multi-modal]] yang mengintegrasikan pelacakan mata, EEG, dan [[learning-analytics|analitik]] perilaku, [[intelligent-tutoring|sistem tutoring cerdas]] dan agen percakapan yang digerakkan NLP, serta alat dukungan yang menghadap pendidik. Ini menggambarkan janji AI generatif untuk pembuatan konten dan dukungan interaktif dalam domain khusus dengan kebutuhan tinggi sekaligus risiko bahwa adopsinya melampaui basis bukti.
+Tinjauan sistematis interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu PRISMA, 2018–2024, n=72) menemukan bahwa **AI generatif kurang dimanfaatkan dalam domain dukungan disleksia**. Penelitian GAI (semuanya dari 2024) mengelompok ke [[conversational-ai|chatbot]] cerdas, dukungan [[teacher-education|pelatihan guru]], dan studi eksploratif, serta dengan cepat melampaui [[machine-learning|ML]] klasik sebagai alat pilihan — namun eksperimentasi yang ketat dan validasi dunia nyata sebagian besar masih absen. Analisis tren masa depan dalam tinjauan itu menunjuk pada materi personalisasi bertenaga GAI dan umpan balik adaptif waktu nyata, model diagnostik [[multimodal|multi-modal]] yang mengintegrasikan [[sensor-and-gaze-analytics|pelacakan mata]], EEG, dan [[learning-analytics|analitik]] perilaku, [[intelligent-tutoring|sistem tutoring cerdas]] dan agen percakapan yang digerakkan NLP, serta alat dukungan yang menghadap pendidik. Ini menggambarkan janji AI generatif untuk pembuatan konten dan dukungan interaktif dalam domain khusus dengan kebutuhan tinggi sekaligus risiko bahwa adopsinya melampaui basis bukti.
 
 ## Miskonsepsi Umum
 
@@ -111,6 +111,7 @@ Tinjauan sistematis interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu P
 - [[ai-technologies]] — payung teknik dan model AI
 - [[higher-ed]] — konteks penerapan utama
 - [[k-12]] — konteks penerapan utama
+- [[reflection]]
 
 ## Artikel terkait
 - [[genai-learning-motivation-meta-analysis-2026]] — Meta-analisis efek GenAI terhadap motivasi belajar, dengan interval prediksi yang membentang dari bahaya hingga manfaat

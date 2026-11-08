@@ -9,9 +9,9 @@ audience: [learners, instructors, faculty developers, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
-updated: "2026-11-04T02:20:32-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/higher-ed"
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,7 @@ Jalur ketiga mengeraskan tugas itu sendiri: merender prompt sebagai gambar terpe
 ## Implikasi bagi instruktur pendidikan tinggi
 
 - **Rancang penilaian bagi populasi mahasiswa yang mampu memakai AI.** Pendekatan integritas yang berpusat pada deteksi sedang digantikan oleh evaluasi [[authentic-assessment|autentik]] dan berbasis proses ([[beyond-detection-authentic-assessment-ai-2025|melampaui deteksi]], [[ai-assessment-scale-reform|reformasi penilaian]]) — desain ulang apa yang Anda nilai, bukan hanya bagaimana Anda mengawasinya.
-- **Berhenti memperlakukan larangan di ruang ujian sebagai jaminan.** Kacamata pintar dan alat bantu dengar berbasis AI bersifat transparan ganda — tidak ada penurunan pandangan mata atau pergeseran postur yang dapat dideteksi — sehingga ujian berpengawas atau ujian lisan tidak lagi dapat membeli keyakinan pembuktian melalui pemisahan fisik ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin dkk., 2026]]).
+- **Berhenti memperlakukan larangan di ruang ujian sebagai jaminan.** Kacamata pintar dan alat bantu dengar berbasis AI bersifat transparan ganda — tidak ada penurunan [[sensor-and-gaze-analytics|pandangan mata]] atau pergeseran postur yang dapat dideteksi — sehingga ujian berpengawas atau ujian lisan tidak lagi dapat membeli keyakinan pembuktian melalui pemisahan fisik ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin dkk., 2026]]).
 - **Rancang ulang pertanyaan "apa yang masih harus dipelajari mahasiswa dengan tangan?"** Seperti di bidang komputasi, tentukan keterampilan mana yang harus dipertahankan (verifikasi, pertimbangan, proses) dan jadikan itu inti yang dinilai, alih-alih mengasumsikan keterampilan AI bertransfer otomatis.
 - **Perlakukan kesiapan dosen sebagai sosio-teknis, bukan hanya teknis.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] membingkai kesiapan di seluruh domain epistemik, pedagogis, institusional, dan mutu — selaraskan [[pedagogy|praktik mengajar]] Anda dengan tata kelola institusional, bukan hanya dengan kefasihan alat.
 - **Danai literasi AI, bukan hanya keyakinan alat, bagi dosen.** [[faculty-ai-well-being-social-supports-2026|Liu dkk. (2026)]] menemukan bahwa dukungan sosial dan organisasi menjangkau kesejahteraan AI dosen universitas hanya secara tidak langsung, melalui literasi AI (β = 0.713), sehingga program yang membangun pemahaman konseptual, etis, dan pedagogis berbuat lebih banyak bagi dosen daripada kefasihan praktik semata.

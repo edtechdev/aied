@@ -7,9 +7,9 @@ pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based
 technology: [generative-ai]
 discipline: [stem education]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/inquiry-based-learning"
-source_updated: "2026-11-01T09:13:47-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Pembelajaran berbasis inkuiri berpusat pada pertanyaan yang digerakkan siswa dan
 
 ## Bagaimana pembelajaran berbasis inkuiri muncul dalam basis pengetahuan
 
-**AI sebagai rekan-inkuirer.** Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] atas ChatGPT untuk pembelajaran berbasis inkuiri dalam STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studi) menemukan ChatGPT terutama digunakan pada fase konseptualisasi, investigasi, dan diskusi — sebagai alat belajar, tutor, rekan belajar, pakar domain, dan asisten [[teacher-role|pengajaran]] — yang meningkatkan kinerja, [[critical-thinking|berpikir kritis]], [[student-engagement|keterlibatan]], dan motivasi, sekaligus menimbulkan risiko ketergantungan berlebih, halusinasi, dan kesimpulan yang dangkal ketika keluaran diperlakukan sebagai otoritatif.
+**AI sebagai rekan-inkuirer.** Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] atas ChatGPT untuk pembelajaran berbasis inkuiri dalam STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studi) menemukan ChatGPT terutama digunakan pada fase konseptualisasi, investigasi, dan diskusi — sebagai alat belajar, tutor, rekan belajar, pakar domain, dan asisten [[teacher-role|pengajaran]]. Penggunaan itu meningkatkan kinerja, [[critical-thinking|berpikir kritis]], [[student-engagement|keterlibatan]], dan motivasi, sekaligus menimbulkan risiko ketergantungan berlebih, [[hallucination-risk|halusinasi]], dan kesimpulan yang dangkal ketika keluaran diperlakukan sebagai otoritatif.
 
 **Pengajuan masalah sebagai titik awal.** Sebuah kuasi-eksperimen dengan 97 siswa kelas tiga ([[dai-chatbots-problem-posing-primary-2026]]) menunjukkan bahwa [[conversational-ai|chatbot]] GenAI secara signifikan mengungguli mesin pencari dalam pengajuan masalah sains, meningkatkan kualitas pertanyaan dan menghasilkan [[network-analysis|jaringan]] epistemik yang lebih terpadu sekaligus menurunkan beban kognitif.
 
@@ -48,15 +48,15 @@ Pembelajaran berbasis inkuiri berpusat pada pertanyaan yang digerakkan siswa dan
 
 [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] mengisolasi kontribusi AI dari inkuiri itu sendiri dalam studi iklim tiga kelompok: inkuiri berbantuan AI memperoleh lebih banyak daripada rekan yang hanya berinkuiri pada pengambilan keputusan (d = 0.69), dengan perolehan terbesar pada pemantauan dan pengelolaan adaptif (d = 1.37), sementara pengumpulan data dasar meningkat sama besar di semua kondisi.
 
-**[[equity-in-ai-education|Keadilan]] dan konteks.** Sebuah kerangka konseptual menjembatani ko-desain AI generatif dengan praktik pendidikan terbuka untuk mendukung pengajaran STEM yang dipimpin inkuiri dalam konteks berkekurangan sumber daya, menggunakan [[multilingual-learning|bahan multibahasa]] dan [[simulation|simulasi]] yang dihasilkan AI serta relevan secara kontekstual.
+**[[equity-in-ai-education|Keadilan]] dan konteks.** Sebuah kerangka konseptual menjembatani ko-desain AI generatif dengan [[open-education|praktik pendidikan terbuka]] untuk mendukung pengajaran STEM yang dipimpin inkuiri dalam konteks berkekurangan sumber daya, menggunakan [[multilingual-learning|bahan multibahasa]] dan [[simulation|simulasi]] yang dihasilkan AI serta relevan secara kontekstual.
 
 **Perbandingan bukti yang terancah AI.** [[ai-information-extraction-undergraduate-thesis-2026|An dan rekan-rekannya (2026)]] menunjukkan bagaimana sistem ekstraksi informasi bertenaga AI menggeser tinjauan pustaka sarjana dari peringkasan menuju **pengorganisasian dan perbandingan bukti** — siswa bergerak dari membaca terisolasi ke perbandingan lintas studi dan pembenaran berbasis bukti untuk mendukung pembelajaran berbasis riset dan penyelesaian skripsi. Hal ini mengonkretkan bagaimana [[generative-ai|AI]] dapat merancah proses inkuiri dalam riset sarjana [[stem-education|STEM]].
 
 ## Mengapa pembelajaran berbasis inkuiri penting bagi integrasi AI
 
-Struktur IBL yang digerakkan pertanyaan dan berfokus proses adalah rumah alami bagi penggunaan AI yang produktif: siswa belajar *bersama* AI sebagai mitra alih-alih *dari* AI sebagai pengganti. Bukti dalam basis pengetahuan ini bertemu pada satu ketegangan inti — AI dapat menurunkan hambatan pengambilan informasi dan perumusan pertanyaan (mengurangi [[cognitive-offloading|beban kognitif]] dan memungkinkan [[metacognition|refleksi]] yang lebih dalam), tetapi tanpa perancah desain ia berisiko menimbulkan ketergantungan berlebih dan melewati kognisi tingkat tinggi. Peran fasilitator, desain perancah, dan pengajaran keterampilan evaluasi secara eksplisit adalah tuas yang menentukan apakah AI memperdalam atau menggusur inkuiri.
+Struktur IBL yang digerakkan pertanyaan dan berfokus proses adalah rumah alami bagi penggunaan AI yang produktif: siswa belajar *bersama* AI sebagai mitra alih-alih *dari* AI sebagai pengganti. Bukti dalam basis pengetahuan ini bertemu pada satu ketegangan inti — AI dapat menurunkan hambatan pengambilan informasi dan perumusan pertanyaan (mengurangi [[cognitive-offloading|beban kognitif]] dan memungkinkan [[reflection|refleksi]] yang lebih dalam), tetapi tanpa perancah desain ia berisiko menimbulkan ketergantungan berlebih dan melewati kognisi tingkat tinggi. Peran fasilitator, desain perancah, dan pengajaran keterampilan evaluasi secara eksplisit adalah tuas yang menentukan apakah AI memperdalam atau menggusur inkuiri.
 
-Satu studi menggantikan fasilitator alih-alih menambahkan alat di sampingnya. Dalam kursus farmakologi empat minggu, 136 mahasiswa kedokteran tahun kedua dibagi antara pembelajaran berbasis masalah yang dipimpin fasilitator dan yang dipimpin AI. Kedua lengan memperoleh perolehan signifikan pada tes pilihan ganda pra/pasca dan perbedaan antarkelompok tidak signifikan (p = 0.474), tetapi kelompok yang dipimpin fasilitator memperoleh skor lebih tinggi pada berpikir kritis (14.75 berbanding 13.09, p < 0.001) dan pada rubrik penilaian kelompok (26.51 berbanding 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty dan Rao, 2026]]). Luaran inkuiri terbelah menurut jenisnya: pengetahuan isi bertahan dari substitusi dan proses penalaran tidak, dan itulah makna mengatakan fasilitator adalah tuasnya.
+Satu studi menggantikan fasilitator alih-alih menambahkan alat di sampingnya. Dalam kursus farmakologi empat minggu, 136 mahasiswa kedokteran tahun kedua dibagi antara pembelajaran berbasis masalah yang dipimpin fasilitator dan yang dipimpin AI. Kedua lengan memperoleh perolehan signifikan pada tes pilihan ganda pra/pasca dan perbedaan antarkelompok tidak signifikan (p = 0.474), tetapi kelompok yang dipimpin fasilitator memperoleh skor lebih tinggi pada berpikir kritis (14.75 berbanding 13.09, p < 0.001) dan pada rubrik [[group-work|penilaian kelompok]] (26.51 berbanding 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty dan Rao, 2026]]). Luaran inkuiri terbelah menurut jenisnya: pengetahuan isi bertahan dari substitusi dan proses penalaran tidak, dan itulah makna mengatakan fasilitator adalah tuasnya.
 
 ### Kegagalan produktif dan inkuiri
 

@@ -7,7 +7,7 @@ technology: [educational-nlp, knowledge-tracing, learning-analytics]
 assessment: [assessment-validity, item-response-theory, psychometrically-aware-ai]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/educational-measurement"
 source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

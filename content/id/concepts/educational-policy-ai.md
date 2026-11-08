@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/educational-policy-ai"
 source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -117,6 +117,8 @@ Kebijakan dan tata kelola terkait erat tetapi berbeda, dan menjaga keduanya teta
 **Pengadaan menetapkan lingkungan data sebelum pedagogi apa pun diputuskan.** [[pandey-davies-he-governance-administrative-ai-2026|Pandey dan Davies (2026)]] memperlakukan ketergantungan platform sebagai risiko tata kelola alih-alih pos biaya, karena kontraklah yang menentukan [[privacy|kedaulatan data]], hak audit, dan syarat keluar. Mereka mengargumentasikannya sebagai proposisi konseptual dari tinjauan interpretif, bukan dari bukti institusional.
 
 
+
+
 Kepemimpinan AI senior jarang relatif terhadap ambisi strategis. Tinjauan cakupan atas 19 sumber menemukan hanya 7% institusi telah menciptakan peran kepemimpinan AI senior meskipun 49% memperlakukan AI sebagai prioritas strategis, dengan sebagian besar studi yang disertakan bersifat konseptual atau potong lintang, sehingga tidak ada efek kausal tata kelola antisipatif yang dapat ditetapkan ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
 Uji praktis yang memisahkan keduanya: kebijakan dapat dibaca di atas kertas, tetapi tata kelola diamati dalam apakah aturan itu diterapkan, ditegakkan, dan diadaptasi. Inilah sebabnya [[governance]] memperluas [[regulation]] dan kebijakan ke dalam institusi, dan mengapa basis pengetahuan memperlakukan pilihan format penilaian ([[summative-assessment]]) sebagai keputusan *kebijakan* yang hanya menjadi efektif melalui struktur *tata kelola* seperti dewan tinjauan, kerangka deklarasi, dan jalur banding.
@@ -134,6 +136,8 @@ Defisit yang sama memiliki sisi permintaan. [[gillette-partnership-ethics-genai-
 
 
 Pendana membentuk lapisan kebijakan tersendiri: dari 46 badan dengan panduan AI, 12 melampirkan aturan khusus pada pendanaan, dan tidak satu pun instrumen pendanaan itu membawa ketentuan tata kelola yang dinyatakan kebijakan umum mereka ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
+
 
 
 ## Miskonsepsi Umum

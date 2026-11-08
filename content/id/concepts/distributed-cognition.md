@@ -5,7 +5,7 @@ type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/distributed-cognition"
 source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -63,7 +63,6 @@ Basis pengetahuan memperlakukan kognisi terdistribusi bersama tradisi teoretis t
 ### Kognisi siapa? Masalah satuan analisis
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] mendorong pertanyaan satuan analisis itu lebih keras daripada sebagian besar karya dalam tradisi ini. Klaimnya adalah bahwa literasi bukan milik individu melainkan sesuatu yang dimainkan bersama material dan mesin, sehingga pembelajar individu menjadi satuan analisis yang keliru. Kerangka kompetensi yang berpusat pada orang karena itu tidak dapat mendaftar kontribusi infrastruktural atau non-manusia, sehingga bidang ini terus menamai distribusi lalu mengembalikannya kepada pembelajar. Tepi keadilannya adalah argumen kesulitan: refleksivitas bergantung pada pengalaman hidup dan relasi kuasa, sehingga siswa yang praktik bahasa atau penulisannya paling jauh dari norma yang terkodekan menanggung biaya terbesar. Argumen ini teoretis dan tidak melaporkan kumpulan data, serta orientasi desainnya masih berupa usulan yang belum diuji.
-
 
 ### Mengapa ini penting bagi desain dan evaluasi AI
 

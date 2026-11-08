@@ -8,9 +8,9 @@ pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/feedback-literacy"
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,8 @@ Menindaklanjuti umpan balik tidak sama dengan memperbaiki artefak. Di antara 22 
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] memperlakukan literasi umpan balik sebagai kapabilitas yang dapat dikembangkan lewat latihan: peninjau sejawat EFL yang bekerja dialogis dengan AI generatif untuk menghasilkan komentar meningkatkan kapasitas mereka menilai dan memakai umpan balik, bukan hanya komentar yang disampaikan.
 
+**Literasi umpan balik harus mencakup sumber mesin sebagaimana sumber manusia.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] meminta siswa menilai umpan balik teman sebaya dan umpan balik chatbot atas draf yang sama dalam refleksi yang sama, sehingga perbandingan itu sendiri menjadi tugas belajar. Siswa mereka menurunkan otoritas chatbot relatif terhadap instruktur, dan para penulis membaca penurunan itu sebagai literasi alih-alih sebagai keengganan.
+
 ## Miskonsepsi Umum
 
 - **"Umpan balik AI memperbaiki berpikir kritis secara langsung."** Pada **421 mahasiswa sarjana Tiongkok**, kaitan penggunaan GenAI dengan berpikir kritis [[self-report-measures|yang dilaporkan sendiri]] **berjalan melalui literasi umpan balik**. Literasi itulah mediatornya, sehingga intervensi yang menambahkan umpan balik AI tanpa membangun kapasitas membacanya menangani suku yang salah.
@@ -112,6 +114,7 @@ Menindaklanjuti umpan balik tidak sama dengan memperbaiki artefak. Di antara 22 
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## Artikel terkait
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Literasi umpan balik AI dan keterlibatan agentik: panel random-intercept tiga gelombang (Xu 2026)
@@ -140,3 +143,4 @@ Menindaklanjuti umpan balik tidak sama dengan memperbaiki artefak. Di antara 22 
 
 - [[genai-use-critical-thinking-moderation-2026]] — Penggunaan GenAI ke berpikir kritis berjalan melalui literasi umpan balik GenAI, menguat seiring berpikir reflektif
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — Pemahaman, bukan keterlaksanaan, yang membawa hasil revisi
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Menilai umpan balik teman sebaya dan chatbot atas draf yang sama di dalam satu tugas refleksi

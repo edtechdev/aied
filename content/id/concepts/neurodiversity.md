@@ -7,9 +7,9 @@ connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learn
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/neurodiversity"
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-06T09:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,11 @@ Dua tinjauan mendefinisikan bentuk bidang ini, dan keduanya menggambarkan fragme
 
 [[assistive-tech-neurodivergent-higher-ed-review-2026|Tinjauan cakupan PRISMA-ScR (Rempel et al., 2026)]] menelusuri lima basis data dan satu dekade publikasi (2015–2025), menyaring 766 catatan hingga menjadi 40 studi empiris tentang teknologi bantu digital bagi siswa neurodivergen di [[higher-ed|pendidikan tinggi]]. Bidang ini telah terorganisasi ulang di sekitar [[generative-ai|AI generatif]] — 15 dari 40 studi — dengan format imersif di posisi kedua sebanyak 11. Kritik sentralnya adalah kritik desain: akomodasi individual dan alat spesifik neurotipe yang diorganisasi di sekitar diagnosis formal tidak dapat menangani perbedaan fungsional yang melintasi neurotipe, sehingga tinjauan itu merekomendasikan desain universal dan pengembangan partisipatif. Ia juga mencatat bahwa alat yang paling imersif adalah yang paling sulit diskalakan.
 
-[[dabaghi-ai-dyslexia-education-review-2026|Tinjauan interdisipliner AI untuk disleksia (Dabaghi, D'Urso dan Sciarrone, 2026)]] mencakup 2018–2024 di seluruh 72 studi dan menemukan AI digunakan untuk deteksi, dukungan bantu, dan [[personalized-learning|personalisasi]], dengan alur-alur itu berkembang secara paralel alih-alih terintegrasi, dan bidang ini lebih digerakkan oleh peluang teknologi daripada oleh teori pendidikan yang terkonsolidasi. Penelitian deteksinya (EEG, pelacakan mata, model [[machine-learning]]) menunjukkan janji diagnostik untuk intervensi dini tetapi sering membutuhkan peralatan khusus dan kondisi terkendali, yang membatasi penggunaannya di ruang kelas biasa. Itulah uji praktis yang terus gagal dilewati seluruh alur ini: dukungan harus tertanam dalam mata kuliah yang benar-benar diambil siswa.
+
+- **Kelas dasar menunjukkan konsentrasi yang sama.** Sebuah tinjauan cakupan atas EdTech untuk kelas dasar yang inklusif-neuro (3,340 catatan disaring, 93 studi) menemukan bukti terkonsentrasi pada pembelajar autistik dan dukungan akademik serta kognitif yang terindividualisasi, dengan luaran sosial, komunikatif, dan interaksi sebaya terabaikan dan nilai pendidikan tervalidasi terutama oleh peneliti alih-alih oleh pengguna kelas ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
+
+
+[[dabaghi-ai-dyslexia-education-review-2026|Tinjauan interdisipliner AI untuk disleksia (Dabaghi, D'Urso dan Sciarrone, 2026)]] mencakup 2018–2024 di seluruh 72 studi dan menemukan AI digunakan untuk deteksi, dukungan bantu, dan [[personalized-learning|personalisasi]], dengan alur-alur itu berkembang secara paralel alih-alih terintegrasi, dan bidang ini lebih digerakkan oleh peluang teknologi daripada oleh teori pendidikan yang terkonsolidasi. Penelitian deteksinya ([[sensor-and-gaze-analytics|EEG]], pelacakan mata, model [[machine-learning]]) menunjukkan janji diagnostik untuk intervensi dini tetapi sering membutuhkan peralatan khusus dan kondisi terkendali, yang membatasi penggunaannya di ruang kelas biasa. Itulah uji praktis yang terus gagal dilewati seluruh alur ini: dukungan harus tertanam dalam mata kuliah yang benar-benar diambil siswa.
 
 ## Autisme dan ADHD di ruang kelas
 
@@ -60,11 +64,11 @@ Sisi risikonya memiliki literaturnya sendiri. [[seung-basham-cognitive-offloadin
 
 ## Fungsi eksekutif dan ketergantungan
 
-[[genai-reliance-executive-functioning-2026|Klarin, Hoff dan Daukantaitė (2026)]] mendefinisikan ketergantungan secara sempit — lebih memilih AI generatif daripada usaha sendiri atau dukungan guru, ditambah kesulitan memulai pekerjaan sekolah tanpanya — dan mengujinya pada dua sampel komunitas remaja Swedia (849 siswa menengah pertama, n analitik = 735, dan 898 siswa menengah atas, n analitik = 839). Kesulitan fungsi eksekutif mengalir melalui kegunaan yang dipersepsikan dan penggunaan kebiasaan menuju ketergantungan pada kedua sampel, dengan efek tidak langsung yang kecil (β = .10, 95% CI [.06, .14] pada sampel menengah pertama; β = .08, 95% CI [.04, .12] pada sampel menengah atas). Bacaan praktisnya: siswa yang paling membutuhkan dukungan dalam memulai adalah mereka yang paling mudah menjadikan alat yang nyaman sebagai rute bawaan alih-alih salah satu pilihan — dan ukuran efek di sini cukup kecil sehingga ini merupakan persoalan desain, bukan diagnosis.
+[[genai-reliance-executive-functioning-2026|Klarin, Hoff dan Daukantaitė (2026)]] mendefinisikan ketergantungan secara sempit — lebih memilih AI generatif daripada usaha sendiri atau [[teacher-role|dukungan guru]], ditambah kesulitan memulai pekerjaan sekolah tanpanya — dan mengujinya pada dua sampel komunitas remaja Swedia (849 siswa menengah pertama, n analitik = 735, dan 898 siswa menengah atas, n analitik = 839). Kesulitan fungsi eksekutif mengalir melalui [[technology-acceptance-model|kegunaan yang dipersepsikan]] dan penggunaan kebiasaan menuju ketergantungan pada kedua sampel, dengan efek tidak langsung yang kecil (β = .10, 95% CI [.06, .14] pada sampel menengah pertama; β = .08, 95% CI [.04, .12] pada sampel menengah atas). Bacaan praktisnya: siswa yang paling membutuhkan dukungan dalam memulai adalah mereka yang paling mudah menjadikan alat yang nyaman sebagai rute bawaan alih-alih salah satu pilihan — dan ukuran efek di sini cukup kecil sehingga ini merupakan persoalan desain, bukan diagnosis.
 
 ## Peringatan desain
 
-- **Dukungan yang digerbangi diagnosis mengucilkan pembelajar yang tidak disebutnya.** Kritik tinjauan cakupan berlaku langsung pada cara fitur AI diterapkan: jika sebuah fitur dibuka oleh surat akomodasi, pembelajar dengan perbedaan fungsional tetapi tanpa diagnosis tidak akan pernah melihatnya.
+- **Dukungan yang digerbangi diagnosis mengucilkan pembelajar yang tidak disebutnya.** Kritik [[meta-analysis-systematic-review|tinjauan cakupan]] berlaku langsung pada cara fitur AI diterapkan: jika sebuah fitur dibuka oleh surat akomodasi, pembelajar dengan perbedaan fungsional tetapi tanpa diagnosis tidak akan pernah melihatnya.
 - **Proses yang digerakkan detektor dapat mencegah penggunaan akomodasi yang sah.** Ketika sebuah teknologi bahasa berfungsi sebagai akomodasi yang efektif bagi pembelajar neurodivergen, larangan menyeluruh atau proses berbasis detektor yang mencegah penggunaan sahnya memunculkan pertimbangan kesetaraan — kasus pelanggaran yang dibatalkan yang didokumentasikan literatur [[ai-detection|deteksi]] melibatkan seorang siswa dalam program dukungan spektrum autisme ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Alat dapat mengucilkan secara epistemik, bukan hanya dengan buruk.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] berargumen bahwa data pelatihan yang berpusat Barat dan berbahasa Inggris memarginalkan cara-cara mengetahui yang non-hegemonik, dan menempatkan situasi pembelajar dengan disabilitas di pusat kritik itu — peringatan bahwa AI yang "inklusif" tetap dapat menyandikan pengetahuan siapa yang dihitung.
 - **Sinyal perilaku dibaca oleh sistem yang tidak mengenal pembelajar.** Penafsiran [[student-engagement|keterlibatan]], kesulitan, atau perhatian dalam [[learning-analytics]] dan [[student-modeling]] mengasumsikan pola respons yang normatif; lihat [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] untuk bukti keadilan atas asumsi itu.
@@ -83,7 +87,7 @@ Neurodiversitas terhubung dengan [[special-education]], [[inclusive-learning]], 
 
 ## Miskonsepsi Umum
 
-- **"Penelitian neurodiversitas adalah sudut kecil AIED."** Bidang ini **terorganisasi ulang di sekitar [[generative-ai|AI generatif]] — 15 dari 40 studi** — dengan format imersif di posisi kedua sebanyak 11. Literatur bergerak mengikuti teknologinya alih-alih terakumulasi di sekitar pertanyaan yang stabil.
+- **"Penelitian neurodiversitas adalah sudut kecil [[ai-education|AIED]]."** Bidang ini **terorganisasi ulang di sekitar [[generative-ai|AI generatif]] — 15 dari 40 studi** — dengan format imersif di posisi kedua sebanyak 11. Literatur bergerak mengikuti teknologinya alih-alih terakumulasi di sekitar pertanyaan yang stabil.
 - **"Lebih banyak AI untuk disleksia berarti dukungan yang lebih baik."** [[dabaghi-ai-dyslexia-education-review-2026|Tinjauan interdisipliner AI untuk disleksia (Dabaghi, D'Urso dan Sciarrone, 2026)]] mencakup **72 studi pada 2018-2024** dan menemukan AI digunakan untuk rentang tujuan yang luas. Keluasan penerapan bukanlah bukti efektivitas untuk salah satu tujuannya.
 - **"Akomodasi adalah kerangka yang tepat bagi pembelajar neurodivergen."** [[neurodivergent-computing-students|Survei terhadap 24 mahasiswa komputasi neurodivergen dan 20 teman sebaya neurotipikal]] dengan empat wawancara mendalam menemukan kebutuhan yang merupakan **persyaratan desain umum** — tugas terstruktur, tim kecil yang konsisten, peran eksplisit — alih-alih penyesuaian individual yang diberikan setelah diagnosis.
 
@@ -102,6 +106,9 @@ Neurodiversitas terhubung dengan [[special-education]], [[inclusive-learning]], 
 - [[student-modeling]]
 
 ## Artikel terkait
+
+- [[gibson-neuro-inclusive-edtech-scoping-2026]] — Membingkai ulang nilai pendidikan dalam EdTech untuk kelas sekolah dasar inklusif-neuro: sebuah tinjauan cakupan
+
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI generatif, realitas virtual, dan seterusnya: tinjauan cakupan teknologi bantu digital bagi siswa neurodivergen di pendidikan tinggi
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studi AI untuk siswa dengan disabilitas, dan efek yang berbeda menurut kategori

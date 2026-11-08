@@ -9,7 +9,7 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/cs-education"
 source_updated: "2026-11-07T12:15:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

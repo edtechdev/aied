@@ -10,9 +10,9 @@ assessment: [feedback]
 discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/intelligent-tutoring"
-source_updated: "2026-11-02T06:00:00-05:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,9 @@ Sistem Tutor Cerdas merupakan salah satu area [[ai-education|AI dalam pendidikan
 ### Penelitian ITS utama
 
 - **Uji coba teracak-mikro atas sebuah platform tutoring:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] menjalankan evaluasi multisitus empat minggu yang diacak secara individual atas Medly dalam GCSE [[biology-education|Biologi]], [[chemistry-education|Kimia]], dan [[physics-education|Fisika]], dengan 644 dari 929 siswa menyelesaikan pasca-tes; alokasi ke platform menghasilkan Hedges' g = 0.33 (95% CI 0.18 hingga 0.48) terhadap revisi [[self-directed-learning|mandiri]] yang berjalan seperti biasa, dengan estimasi positif pada ketiga mata pelajaran dan tidak ada bukti dampak berbeda menurut kerugian (Pupil Premium g = 0.28 versus non-Pupil Premium g = 0.35).
+
+- **Meta-analisis K-12 AS menempatkan efek rata-rata pada g = 0.271.** Di 18 eksperimen, contoh yang dikerjakan dan petunjuk yang diminta siswa membawa efeknya sementara petunjuk yang dipicu otomatis tidak, dan implementasi melewati enam bulan memudar menjadi g = 0.110 yang tidak signifikan ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
+
 - **[[lak2026-hint-button-unproductive-use|Penelitian tombol petunjuk]]** menunjukkan bahwa desain petunjuk ITS tradisional dapat secara tidak sengaja memungkinkan strategi melewati pembelajaran, sehingga menuntut pendekatan [[scaffolding]] yang lebih canggih.
 - **[[deeptutor]]** menyediakan kerangka tutoring agensik yang sepenuhnya [[open-source]] dengan tutoring berbasis sitasi dan [[automated-question-generation|generasi soal]] yang terkalibrasi kesulitan.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** mengatasi masalah opasitas dengan menghasilkan kuantitas kognitif yang dapat ditafsirkan dari logit LLM.
@@ -80,6 +83,9 @@ Sistem Tutor Cerdas merupakan salah satu area [[ai-education|AI dalam pendidikan
 - **Kesetaraan statistik dengan tutoring manusia ahli.** Di sepanjang 2,469 sesi dari 2,383 orang dewasa, tutoring AI yang digabungkan setara dengan tutoring manusia ahli satu-satu secara langsung pada [[learning-gains|keuntungan belajar]] GRE (p=.015 terhadap batas ±0.25-SD; perbedaan terkoreksi -0.58 poin persentase) dan keduanya mengalahkan kendali video sekitar enam poin; enam dari dua belas tutor lulus uji kesetaraan individual, dengan Gemma 4 31B menyamai keuntungan manusia pada biaya per poin persentase 918× lebih rendah ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 - **Mikro-personalisasi tutor LLM berbasis prompt (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] mempersonalisasi asisten [[llm]]/[[rag]] [[teacher-role|pengajaran]] Jill Watson pada tingkat pertanyaan individual sepenuhnya melalui rekayasa prompt — mengondisikan respons pada enam dimensi pembelajar ([[metacognition|metakognitif]] [[self-assessment|penilaian diri]], abstraksi, verbositas, persepsi, pemrosesan, pemahaman) dan mengklasifikasikan tuntutan kognitif setiap kueri dengan pengklasifikasi [[cognitive-diagnosis|Taksonomi Bloom]] — menghasilkan 96 profil pembelajar tanpa pelatihan ulang model. Analisis NLP atas 2,910 respons dan studi manusia menemukan perbedaan terukur dan terpersepsi dalam abstraksi respons, verbositas, kompleksitas, dan gaya pemrosesan yang selaras dengan efek yang dimaksudkan. Ia mendemonstrasikan adaptasi bentuk-respons (bukan konten) sebagai jalur modular dan terukur menuju [[adaptive-learning|perilaku adaptif]] dalam tutor yang sudah diterapkan.
+
+- **Transfer dekat tanpa perolehan tes terstandar pada skala kelas.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google dan Eedi (2026)]] mengacak 1,179 siswa di 10 sekolah negeri Inggris ke empat lengan selama 10 minggu. Setelah dukungan, 56.5-56.9% menjawab pertanyaan diagnostik kedua dengan benar berbanding 43.4% di bawah remediasi standar; efek Star Maths adalah -0.01 hingga +0.02 SD. Tutor menyetujui 94.7% dari 94,385 draf tanpa perubahan, dan 6 kesalahan dalam 114,935 draf tertangkap sebelum mencapai siswa.
+
 
 ### Konsep ITS utama
 
@@ -197,6 +203,10 @@ Tutoring yang efektif menuntut adaptasi berkelanjutan: [[zhang-tutormoments-2026
 
 ## Artikel terkait
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: menyingkap kesenjangan responsivitas tutor LLM pada masalah pemrograman bersolusi ganda (Cen & Sonkar 2026)
+
+- [[leite-its-k12-meta-analysis-2025]] — Meta-analisis K-12 AS: 18 eksperimen, g = 0.271, dan apa yang memoderasinya (Leite et al. 2025)
+- [[learnlm-eedi-expanded-rct-2026]] — RCT Inggris yang diperluas: perolehan transfer dekat tetapi tidak ada keunggulan tes terstandar pada 10 minggu (LearnLM Team, Google & Eedi 2026)
+
 - [[ai-proof-learning-cognitive-offloading-2026]] — Menopang atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: mengevaluasi tutor LLM pada siswa dengan perilaku menantang (Park et al. 2026)
 - [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Kamera pada pekerjaan tulisan tangan: akses visual dan perbaikan proaktif (Kotalwar et al. 2026)

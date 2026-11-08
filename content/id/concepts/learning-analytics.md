@@ -10,9 +10,9 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/learning-analytics"
-source_updated: "2026-11-03T09:40:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,10 @@ ai_assist:
 - **Analitik umpan balik:** [[teaching-feedback-classification-benchmark|Klasifikasi umpan balik]] dan [[ai-feedback-quality|penilaian kualitas]] menganalisis umpan balik yang diterima siswa.
 - **Analisis jaringan:** [[misiejuk-cognitive-offloading-prompting-2026|Analisis Jaringan Ko-Okurensi]] dan [[epistemic-emotions-collaborative-problem-solving|analisis jaringan epistemik]] mengungkap pola interaksi.
 - **Ketegangan privasi:** kekhawatiran [[privacy]] tumbuh seiring analitik menjadi lebih rinci dan digerakkan AI.
-- **Kerangka tinjauan tata kelola untuk data siswa.** LEAGUE mengusulkan enam pilar — Lawfulness, Equity, Agency, Governance, Utility, dan Ethics by Design — memperlakukan kepatuhan FERPA dan GDPR sebagai lantai dan merekomendasikan penilaian ulang terjadwal seiring model bergeser ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+- **Kerangka tinjauan tata kelola untuk data siswa.** LEAGUE mengusulkan enam pilar — Lawfulness, [[equity-in-ai-education|Equity]], Agency, Governance, Utility, dan Ethics by Design — memperlakukan kepatuhan FERPA dan GDPR sebagai lantai dan merekomendasikan penilaian ulang terjadwal seiring model bergeser ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+
+Sensor dan analitik tatapan adalah keluarga instrumen kedua yang memasok model pembelajar yang sama, dengan menarik pelacakan mata, EEG, aktivitas elektrodermal, dan detak jantung untuk mengestimasi perhatian, keterlibatan, dan beban kognitif ([[sensor-and-gaze-analytics]]). Masalah validitas dan persetujuannya lebih curam daripada data jejak, karena pengukurannya biometrik dan langkah dari tubuh ke keadaan mental merupakan sebuah interpretasi.
+
 
 **Modelkan konkurensi mata kuliah, bukan hanya urutan.** TRACE memberi setiap mata kuliah dalam satu semester pengodean posisional yang sama, dan memprediksi mata kuliah dan nilai secara bersama memangkas galat prediksi nilai menjadi MAE 0.1339 — pengurangan 46.4% dibandingkan transformer nilai-saja — pada sepuluh tahun data institusional ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
@@ -71,6 +74,9 @@ Pengodean frekuensi atas data [[qualitative-research|kualitatif]] adalah titik m
 ### Dari deskripsi ke intervensi
 - **Basis bukti belum merupakan bukti intervensi.** Dengan menyintesis empat studi lintas tingkat siswa, disiplin, pendidik, dan institusi, [[learning-analytics-genai-learning-design|Rienties, Divjak dan Law (2026)]] menemukan bidang ini didominasi desain lintas-seksi, [[self-report-measures|laporan diri]], berbasis wacana, dan pertimbangan ahli, dan menyerukan penelitian intervensi yang menguji mekanisme kausal serta luaran jangka panjang yang distribusional.
 
+**Desain dorongan acak menyediakan jangkar kausal.** Dalam eksperimen dorongan acak pada ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]] secara acak mendorong guru yang baru mengenal platform untuk melihat laporan tugas setelah membuat tugas. Di antara sampel analitik 330 guru (156 kontrol, 174 dorongan; 281 untuk value-added), melihat laporan tugas pertama secara signifikan meningkatkan penyelesaian tugas berikutnya (Anderson-Rubin F = 4.092, p = 0.044) — setidaknya 2 poin persentase secara keseluruhan. Di kelas dengan kurang dari 44 siswa, keuntungannya setidaknya 24.5 poin persentase (AR F = 7.475, p = 0.007), sementara hanya 54.0% dari 121,890 tugas yang laporannya dilihat dan luaran mulai serta value-added tidak bergerak. Data platform yang sama membawa kasus penilaian loop-tertutup terbesar di bidang ini: [[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al. (2025)]] menganalisis 5,214,211 sesi pertanyaan-siswa di mana jempol ke bawah (2.00 per 1,000) mengikuti fitur yang dikendalikan generator dan varians tingkat siswa mendominasi varians tingkat pertanyaan (BIC 101,572.9 vs 123,342.0).
+
+
 Analitik pembelajaran telah berevolusi melalui tiga generasi di basis pengetahuan: deskriptif (apa yang terjadi?), prediktif (apa yang akan terjadi?), dan preskriptif (apa yang harus kita lakukan?). AI memungkinkan lapisan preskriptif — analitik yang langsung memicu [[feedback|intervensi instruksional]]. Frontir kunci adalah **kesenjangan keterlaksanaan**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] menunjukkan prediksi saja tidak cukup untuk dukungan keputusan, dan bahwa recourse kontrafaktual menjadi bermakna secara operasional hanya ketika rekomendasi layak secara semantik dan dapat diperiksa mesin — dibatasi oleh waktu, anggaran, ketakberubahan, dan ketersediaan via validasi SHACL, alih-alih semata valid secara model. Ini memindahkan bidang melampaui skor risiko menuju rekomendasi yang benar-benar dapat dijalankan institusi, dengan [[human-in-the-loop-ai|pengawasan manusia]] tetap terjaga.
 
 Uji empiris langsung atas lapisan preskriptif datang dari [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas dkk. (2026)]], yang meminta tiga LLM merekomendasikan rencana dukungan untuk 4,500 vinyet [[simulating-students|siswa sintetis]].
@@ -86,7 +92,7 @@ Garis pelengkap menyasar *interpretasi* analitik itu sendiri. Kerangka FACTRIA d
 
 Metode jaringan adalah inti analitik pembelajaran: [[network-analysis|analisis jaringan transisi (TNA)]] memodelkan urutan temporal tindakan siswa (misalnya loop revisi dan obrolan dalam penulisan berperancah [[conversational-ai|chatbot]]), dan [[network-analysis|analisis jaringan epistemik (ENA)]] memetakan bagaimana kode/konstruk berko-okurensi lintas aktivitas — bersama-sama mengungkap *proses* belajar dan [[student-ai-interaction|interaksi siswa-AI]] alih-alih hanya produknya.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
 
-- **Analisis urutan + rantai Markov atas perilaku mandiri.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] menggabungkan analisis urutan aktivitas, pengelompokan hierarkis, dan model rantai Markov pada clickstream 315 siswa daring yang membangun 822 model ekologis di VERA, menyaring sembilan klaster perilaku berbasis transisi yang halus menjadi tiga pola lebih luas (Observation, Construction, Exploration). Karya mereka menunjukkan bahwa menggabungkan analisis urutan dengan pemodelan rantai Markov dapat mengungkap perilaku bermakna dalam tugas tak terstruktur dan [[self-directed-learning|mandiri]] bahkan tanpa data demografis atau kontekstual sama sekali.
+- **Pengelompokan clickstream dalam pembangunan model mandiri.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] menggabungkan [[pedagogical-patterns|analisis urutan aktivitas]], pengelompokan hierarkis, dan model rantai Markov pada clickstream 315 siswa daring yang membangun 822 model ekologis di VERA, menyaring sembilan klaster perilaku berbasis transisi yang halus menjadi tiga pola lebih luas (Observation, Construction, Exploration). Karya mereka menunjukkan bahwa menggabungkan analisis urutan dengan pemodelan rantai Markov dapat mengungkap perilaku bermakna dalam tugas tak terstruktur dan [[self-directed-learning|mandiri]] bahkan tanpa data demografis atau kontekstual sama sekali.
 
 - **LA dan GenAI membentuk desain pembelajaran secara berbeda (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen dkk. (2026)]] memakai ENA pada 11 grup fokus instruktur untuk membandingkan bagaimana analitik pembelajaran versus [[generative-ai]] menginformasikan pengambilan keputusan [[learning-design]]. Diskusi LA berpusat pada informasi kontekstual, desain tingkat mata kuliah, dan [[problem-solving]] kreatif (LA untuk mendiagnosis keterlibatan dan menargetkan dukungan), sementara diskusi GenAI berpusat pada [[assessment|desain penilaian]] dan desain untuk [[self-determination-theory|determinasi diri]] siswa (GenAI untuk ideasi dan pengembangan penilaian). Konteks dan [[creativity]] menjadi sentral pada keduanya — pengingat bahwa analitik menginformasikan desain hanya dalam konteks [[pedagogy|pedagogis]] dan otonomi instruktur.
 - **Obrolan mengalahkan fusi ketika konstruknya sosial, dan sumber terbaik bersifat per konstruk.** Alih-alih memaksimalkan modalitas, perbandingan LAK26 atas lima konfigurasi fitur pada segmen pemodelan kolaboratif menemukan embedding teks-saja paling kuat secara keseluruhan (ROC AUC rata-rata 0.650, 95% CI 0.615 hingga 0.685) berbanding teks plus log (0.613) dan teks plus log dengan jendela konteks (0.623). Log sendiri bernilai 0.526, mendekati kebetulan untuk konstruk sosial, namun hanya sumber itu yang memperbaiki deteksi refleksi (0.5862), sementara perencanaan bergantung pada obrolan di sekitarnya alih-alih pada jejak lingkungan. Pilihan fitur adalah klaim tentang konstruk, bukan keputusan anggaran ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang dkk., 2026]]).
@@ -113,12 +119,17 @@ Analitik pembelajaran terhubung ke [[knowledge-tracing]] (analitik intinya), [[f
 
 - **Mengubah analisis AI menjadi percakapan kelas itu sendiri merupakan keterampilan guru.** Dalam empat pelajaran matematika menengah, 47 orkestrasi seluruh kelas oleh seorang guru mengubah keluaran dasbor menjadi argumentasi kolektif dengan memilih dan mengurutkan jaminan siswa, dan studi itu menamai empat jenis berulang ([[ai-integrated-math-argumentation-teacher-noticing-2026|Lee, Park dan Lee (2026)]]).
 
-- **Analitik yang meringankan beban guru bukan analitik yang meringankan beban siswa.** Dalam tinjauan 23 studi AI dalam pembelajaran terwujud, 62.5% dari 40 tag peran adalah peran pengindraan yang menilai gerakan, lintasan, atau artefak — pekerjaan yang biasanya jatuh ke guru — dan penulis memperingatkan bahwa berkurangnya beban kerja guru tidak boleh dibaca sebagai berkurangnya beban siswa. Alasan mereka adalah batas atas apa yang dapat ditunjukkan pengodean semacam ini: merekam fungsi yang dijalankan sistem tidak mengatakan apa pun tentang efeknya pada siswa, sehingga frekuensi peran tidak dapat memutuskan apakah sistem membebaskan kognisi atau memperdalamnya ([[kim-ai-embodied-learning-review-2026|Kim dan Han (2026)]]).
+- **Analitik yang meringankan beban guru bukan analitik yang meringankan beban siswa.** Dalam tinjauan 23 studi AI dalam [[embodied-learning|pembelajaran terwujud]], 62.5% dari 40 tag peran adalah peran pengindraan yang menilai gerakan, lintasan, atau artefak — pekerjaan yang biasanya jatuh ke guru — dan penulis memperingatkan bahwa berkurangnya beban kerja guru tidak boleh dibaca sebagai berkurangnya beban siswa. Alasan mereka adalah batas atas apa yang dapat ditunjukkan pengodean semacam ini: merekam fungsi yang dijalankan sistem tidak mengatakan apa pun tentang efeknya pada siswa, sehingga frekuensi peran tidak dapat memutuskan apakah sistem membebaskan kognisi atau memperdalamnya ([[kim-ai-embodied-learning-review-2026|Kim dan Han (2026)]]).
 
 Instrumentasi tingkat proses adalah langkah turun berikutnya dari lapisan deskriptif. [[pulla-parsons-problem-tool-2026|Prol dkk. (2026)]] memperluas platform soal Parsons [[open-source]] untuk merekam setiap penempatan, penghapusan, dan pengumpulan blok sebagai jejak kronologis, memasangkan setiap pengumpulan dengan pewarnaan kebenaran per blok dan riwayat percobaan, serta secara opsional melewatkan jejak itu melalui pipeline [[llm]] yang melabeli pola kesulitan berulang untuk ditinjau instruktur. Di antara 68 siswa dalam mata kuliah desain perangkat lunak Java tingkat atas dan 36 siswa dalam mata kuliah Python pengantar, analisis itu memunculkan tiga kesulitan yang sama — memilih jenis eksepsi yang salah, mengganti `return` dengan `throw`, dan urutan aliran kendali yang salah — yang tidak dapat dipaparkan oleh hitungan kebenaran-dan-percobaan, karena keduanya menjawab *apakah* susunannya benar alih-alih *apa prosesnya*. AI bertindak sebagai penafsir bagi [[teacher-role|instruktur]] alih-alih penilai siswa, dan keluarannya dibingkai sebagai hipotesis yang dapat ditinjau tentang kesulitan suatu kelas alih-alih sebagai nilai.
 
 - **Dinding sistem pembelajaran: data log tidak digeneralisasi lintas platform.** MATHia, i-Ready, dan IXL masing-masing mendefinisikan bahkan konstruk dasar — "percobaan", "petunjuk" — secara berbeda, sehingga model tidak dapat bertransfer di antaranya. Respons yang masih dalam pengerjaan menyerang masalah dari sisi video: pipeline Gemini mendistilasi rekaman layar pembimbingan menjadi satu transkrip skenario yang diselaraskan dengan log MATHia asli sebagai kebenaran acuan. Apa yang dipulihkan video yang tidak dilakukan satu aliran pun: [[scaffolding]] papan tulis, kerja kalkulator senyap di alat eksternal, dan konteks di luar layar yang oleh log asli direduksi menjadi "kemalasan". Tantangan terbuka tetap ada pada penjangkaran temporal, pergeseran jam, dan pemisahan peristiwa platform dari proses belajar lain. ([[thomas-breaking-learning-system-wall-2026]])
 - **Log interaksi dapat kalah dari garis dasar konstan.** Fitur tingkat semester dari 16,851 pertukaran tutor LLM mengalahkan prediktor median skor tugas sebesar 0.114 poin, interval yang melewati nol, dengan 62.1% galat di kuartil terendah ([[llm-tutoring-interaction-predictive-value-2026|Dong dkk. (2026)]]).
+
+Dasbor dan sistem peringatan dini memusatkan risiko [[automation-bias]]: sebuah tanda menegaskan penilaian yang mungkin diterima orang karena ia ada, bukan karena ia diperiksa.
+
+Menahan indikator multimodal tetap konstan dan hanya menambahkan penjelasan naratif meningkatkan interpretasi calon guru (η² = 0.166) dan konstruksi makna (η² = 0.220), sementara transformasi yang dapat ditindaklanjuti tidak bergerak — lapisan interpretasi, bukan datanya, adalah hambatannya ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 
 ## Miskonsepsi Umum
 
@@ -130,6 +141,9 @@ Instrumentasi tingkat proses adalah langkah turun berikutnya dari lapisan deskri
 ## Konsep terkait
 
 - [[explainable-ai]]
+
+- [[automation-bias]] — Mengapa tanda yang ada ditindaklanjuti tanpa diperiksa
+
 - [[knowledge-tracing]]
 - [[student-modeling]]
 - [[formative-assessment]]
@@ -145,6 +159,9 @@ Instrumentasi tingkat proses adalah langkah turun berikutnya dari lapisan deskri
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — sisi dukungan yang menjadi sasaran prediksi: rujukan, alokasi, dan luaran yang mereka gerakkan atau tidak gerakkan
+
+- [[sensor-and-gaze-analytics]]
+
 
 ## Artikel terkait
 - [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: menafsirkan clickstream melalui strategi belajar yang didefinisikan literatur (Radmehr dkk. 2026)
@@ -188,3 +205,6 @@ Instrumentasi tingkat proses adalah langkah turun berikutnya dari lapisan deskri
 - [[thomas-breaking-learning-system-wall-2026]] — Menuju pematahan dinding sistem pembelajaran menggunakan transkripsi pembimbingan multimodal (Thomas dkk. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Tingkat penyelesaian dapat menyembunyikan keruntuhan keterlibatan
 - [[kim-ai-embodied-learning-review-2026]] — AI dalam pembelajaran terwujud sebagian besar mengamati: peran pengindraan 62.5% dari tag peran terkode, dan tak satu pun sistem yang ditinjau memadukan aliran multimodal saat siswa memakainya (Kim & Han 2026)
+
+- [[liu-teaching-analytics-dashboard-2026]] — Studi mikroteaching kontrol aktif yang mengisolasi lapisan penjelasan: interpretasi bergerak, tindakan tidak (Liu dkk. 2026)
+

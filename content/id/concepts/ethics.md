@@ -7,9 +7,9 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-04T02:10:52-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/ethics"
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T15:58:10-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Penggunaan AI yang etis bukan hanya persoalan prinsip tetapi tentang bagaimana o
 - **Fakultas vs. mahasiswa.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever (2026)]], studi [[mixed-methods-research|metode campuran]] atas 971 mahasiswa dan 135 fakultas, menemukan kedua kelompok mendukung penggunaan AI yang etis tetapi dalam register yang berbeda: fakultas menekankan prinsip etis sekaligus menandai kurangnya pedoman institusional, sementara mahasiswa menghargai manfaat pembelajaran AI tetapi menyuarakan ketidakpastian tentang siapa yang berbagi tanggung jawab etis. Keduanya khawatir penggunaan AI yang berlebihan dapat melemahkan [[critical-thinking|keterampilan kognitif]] — kekhawatiran yang membingkai integrasi etis sebagai memelihara perkembangan kognitif pembelajar, bukan sekadar mengatur penggunaan alat. Fakultas mendapat skor tinggi pada tanggung jawab individual namun menilai kecukupan pedoman institusional paling rendah (M = 2.99), menyingkap celah antara etika pribadi dan dukungan struktural.
 - **Mahasiswa vs. instruktur dalam kesiapan.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] menemukan mahasiswa melaporkan kesadaran etis lebih tinggi daripada instruktur (4.03 vs. 2.44), namun instruktur menunjukkan kemauan menggunakan AI yang lebih kuat — mahasiswa menafsirkan etika melalui tugas kuliah yang langsung, sementara guru memperlakukannya sebagai kejelasan dan integritas institusional. Keduanya melaporkan dukungan institusional yang lemah, dan kesiapan berkembang melalui jalur berbeda: kesadaran moral instruktur tumbuh bersama dukungan institusional dan sosial, sementara keyakinan mahasiswa berkorelasi dengan [[self-efficacy]] dan kolaborasi alih-alih pengajaran formal.
 
-- **Penggunaan naik lebih cepat daripada konsensus etis.** Selama empat semester di program pendidikan guru Amerika Serikat, penggunaan GenAI oleh mahasiswa naik dari 57% menjadi 83% untuk persiapan penilaian dan 44% menjadi 76% untuk belajar, sementara respons etis 'tidak yakin' naik secara mantap dan pengguna AI menilai penggunaan akademiknya lebih etis daripada non-pengguna ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker dkk. (2026)]]).
+- **Penggunaan naik lebih cepat daripada konsensus etis.** Selama empat semester di [[teacher-education|program pendidikan guru]] Amerika Serikat, penggunaan GenAI oleh mahasiswa naik dari 57% menjadi 83% untuk persiapan penilaian dan 44% menjadi 76% untuk belajar, sementara respons etis 'tidak yakin' naik secara mantap dan pengguna AI menilai penggunaan akademiknya lebih etis daripada non-pengguna ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker dkk. (2026)]]).
 
 **Etika menjadi pusat bidang ini tetapi jarang menjadi hasil.** Di 394 studi GenAI pendidikan tinggi, etika dan integritas akademik termasuk hasil yang paling sedikit disasar, dan praktik tata kelola kurang dilaporkan ([[mapping-genai-higher-ed-scoping-review|Lin dkk. (2026)]]).
 
@@ -76,6 +76,8 @@ Penelitian dalam basis pengetahuan semakin menempatkan etika di institusi dan st
 
 - **Tanggung jawab yang disebut tanpa relasi.** Analisis korpus atas 366 abstrak GenAI pendidikan tinggi menunjukkan bahwa kosakata tanggung jawab bidang ini sebagian besar bersifat adjektival: "AI/GenAI yang bertanggung jawab" muncul 83 kali di 59 dokumen dan "penggunaan yang bertanggung jawab" 66 kali di 44 dokumen, sementara "tanggung jawab AI" dan "tanggung jawab siswa" tidak pernah muncul sebagai frasa eksak, dan penghapusan gramatikal menjadi rutin - 800 konstruksi pasif, 780 di antaranya tanpa rujukan pelaku sama sekali, di samping 1,152 nominalisasi terkait tanggung jawab. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] tidak menemukan klausa yang mengaitkan konsekuensi pada suatu sistem, sehingga tanggung jawab diakui sebagai kata tanpa agensi relasional yang akan mengubahnya menjadi tindakan.
 
+Pembingkaian kewargaan mengajukan pertanyaan yang berbeda dari integritas. [[civic-and-political-education]] memperlakukan konsekuensi kolektif dan demokratis dari argumen publik yang dimediasi AI, di mana kerugiannya adalah publik yang salah informasi alih-alih esai yang salah atribusi.
+
 ## Menuju etika AI yang terletak dalam situasi dan ekologis
 
 Pergeseran teoretis utama dalam basis pengetahuan adalah kritik terhadap etika "daftar periksa" universalis berbasis prinsip demi akun yang terletak dalam situasi, ekologis, dan transformatif:
@@ -88,11 +90,12 @@ Pergeseran teoretis utama dalam basis pengetahuan adalah kritik terhadap etika "
 
 ## Etika dalam praktik
 
-Artikel etika dalam basis pengetahuan berkisar dari kerangka teoretis ([[ethical-ai-higher-ed-game-theory|pendekatan teori permainan]]) hingga pedoman praktis ([[cost-of-ethics-crisis-cs-ethics-education|pendidikan etika ilmu komputer]]), dari [[ai-ethics-education-public-discourse|analisis wacana publik]] hingga [[adarkwah-genai-unesco-policy-2026|kerangka kebijakan UNESCO]]. Di seluruh rentang itu, pesan praktis yang konsisten muncul: etika harus bergerak dari mengawasi penyalahgunaan menuju membangun [[ai-literacy]] dan kapasitas penggunaan etis, didukung panduan institusional, pengembangan profesional guru, dan desain yang memelihara alih-alih menggantikan pertimbangan pembelajar.
+Artikel etika dalam basis pengetahuan berkisar dari [[theories-and-frameworks|kerangka teoretis]] ([[ethical-ai-higher-ed-game-theory|pendekatan teori permainan]]) hingga pedoman praktis ([[cost-of-ethics-crisis-cs-ethics-education|pendidikan etika ilmu komputer]]), dari [[ai-ethics-education-public-discourse|analisis wacana publik]] hingga [[adarkwah-genai-unesco-policy-2026|kerangka kebijakan UNESCO]]. Di seluruh rentang itu, pesan praktis yang konsisten muncul: etika harus bergerak dari mengawasi penyalahgunaan menuju membangun [[ai-literacy]] dan kapasitas penggunaan etis, didukung panduan institusional, pengembangan profesional guru, dan desain yang memelihara alih-alih menggantikan pertimbangan pembelajar.
 
 Argumen praktis itu diperkuat oleh kerja empiris tentang bagaimana etika berfungsi di dalam literasi AI itu sendiri: Zhu dan Kong (2026) menunjukkan bahwa kesadaran etis AI — bersama pemberdayaan dalam [[problem-solving|pemecahan masalah]] AI — memediasi hubungan antara persepsi [[project-based-learning|pembelajaran berbasis proyek]] dan kepuasan dengan mata kuliah literasi AI. Skala AI-PBLS yang tervalidasi dan hasil SEM mereka (1,027 siswa) menunjukkan bahwa PBL menciptakan kondisi di mana siswa membangun kerangka personal untuk penalaran etis tentang AI, memperkuat argumen bahwa etika bukan tambahan tetapi mekanisme inti pengembangan literasi AI yang bermakna.
+**Saat diajarkan, etika menggeser [[evaluative-judgment|pertimbangan]] alih-alih hanya kesadaran.** Dalam uji [[rct|acak-klaster]] atas enam belas kelas utuh (n = 240), modul etika informasi empat minggu menaikkan skor pertimbangan etis sebesar 0,35 poin skala (d = 0,75), dan 59,9% dari perolehan itu bertahan empat minggu, terbesar pada pengguna GenAI terberat ([[qi-information-ethics-ai-judgment-2026|Qi, 2026]]).
 
-**Tanda mekanisme itu bergantung pada apa yang mengikutinya.** Di antara 584 mahasiswa sarjana yang kompetensi AI-nya berasal dari belajar mandiri, kompetensi menaikkan kesadaran etis AI (β = 0.644, p < .001). Kesadaran etis kemudian menaikkan kecemasan AI (β = 0.439, p < .001) alih-alih menurunkannya — mediasi tidak langsung saja, yang dibaca penulis sebagai kesadaran yang terbangun tanpa kerangka koping ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu dkk. (2026)]]). Kesimpulan mereka untuk pengajaran etika adalah bahwa pengajaran itu tidak dapat berhenti pada tingkat kognitif. Kekhawatiran transparansi atau privasi harus datang bersama jalur tata kelola yang menjawabnya, itulah sebabnya modul yang mereka usulkan berada di dalam pendidikan hukum.
+**Tanda mekanisme itu bergantung pada apa yang mengikutinya.** Di antara 584 mahasiswa sarjana yang kompetensi AI-nya berasal dari belajar mandiri, kompetensi menaikkan kesadaran etis AI (β = 0.644, p < .001). Kesadaran etis kemudian menaikkan [[anxiety-and-stress|kecemasan AI]] (β = 0.439, p < .001) alih-alih menurunkannya — mediasi tidak langsung saja, yang dibaca penulis sebagai kesadaran yang terbangun tanpa kerangka koping ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu dkk. (2026)]]). Kesimpulan mereka untuk pengajaran etika adalah bahwa pengajaran itu tidak dapat berhenti pada tingkat kognitif. Kekhawatiran transparansi atau privasi harus datang bersama jalur tata kelola yang menjawabnya, itulah sebabnya modul yang mereka usulkan berada di dalam [[legal-education|pendidikan hukum]].
 
 Kesadaran etis, penalaran reflektif, dan praktik bertanggung jawab yang [[self-report-measures|dilaporkan sendiri]] berkembang sebagian besar secara independen. Di tiga gelombang tahunan atas 350 mahasiswa [[higher-ed|sarjana]] komputasi Nigeria, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale dkk. (2026)]] menemukan ketiganya naik secara substansial, namun faktor pertumbuhannya nyaris tidak berkorelasi dan kesadaran awal tidak memprediksi pertumbuhan berikutnya.
 
@@ -123,6 +126,7 @@ Etika terhubung ke [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-education]]
 - [[chemistry-education]] — Pendidikan kimia dan AI: laboratorium, penilaian formatif, batas LLM, filsafat eksperimen
 - [[biology-education]] — Pendidikan biologi dan AI: asisten pengajar laboratorium, literasi AI dalam biologi, berpikir kritis, alat khusus
+- [[civic-and-political-education]]
 
 ## Artikel terkait
 
@@ -154,3 +158,4 @@ Etika terhubung ke [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[agarwal-ethical-values-norms-aied-2026]] — Nilai dan norma etis untuk AI dalam pendidikan
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Tahu, Siapa yang Bertanggung Jawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Kesadaran etis, refleksi, dan praktik bertanggung jawab yang dilaporkan tumbuh sebagian besar secara independen selama tiga gelombang tahunan (Ayanwale et al
+- [[qi-information-ethics-ai-judgment-2026]] — Pendidikan etika informasi dan pertimbangan etis AI di kalangan mahasiswa

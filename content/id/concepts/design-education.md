@@ -10,7 +10,7 @@ discipline: [design education]
 audience: [instructors, instructional designers, curriculum designers, faculty developers]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/design-education"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."

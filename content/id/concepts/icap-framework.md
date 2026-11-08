@@ -7,9 +7,9 @@ foundations: [learning-design]
 pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
 technology: [educational-nlp, learning-analytics]
 confidence: high
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/icap-framework"
-source_updated: "2026-11-01T09:12:59-05:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **Kerangka ICAP** (Interactive–Constructive–Active–Passive) — taksonomi keterlibatan kognitif yang dikembangkan Michelene Chi yang mengklasifikasikan perilaku pembelajar ke dalam empat mode perubahan pengetahuan, terurut dari yang paling sedikit ke yang paling terlibat secara kognitif: *pasif*, *aktif*, *konstruktif*, dan *interaktif*. Dalam AI dalam pendidikan, ICAP menyediakan baik target desain (bangun alat yang memunculkan keterlibatan konstruktif dan interaktif alih-alih konsumsi pasif) maupun lensa evaluasi (ukur apakah pembelajar dan sistem AI benar-benar terlibat pada mode yang lebih tinggi).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **Kerangka ICAP** (Interactive–Constructive–Active–Passive) — taksonomi keterlibatan kognitif yang dikembangkan Michelene Chi yang mengklasifikasikan perilaku pembelajar ke dalam empat mode perubahan pengetahuan, terurut dari yang paling sedikit ke yang paling terlibat secara kognitif: *pasif*, *aktif*, *konstruktif*, dan *interaktif*. Dalam [[ai-education|AI dalam pendidikan]], ICAP menyediakan baik target desain (bangun alat yang memunculkan keterlibatan konstruktif dan interaktif alih-alih konsumsi pasif) maupun lensa evaluasi (ukur apakah pembelajar dan sistem AI benar-benar terlibat pada mode yang lebih tinggi).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Pendahuluan
 
-ICAP bertumpu pada asumsi bahwa *apa yang dilakukan pembelajar* menentukan seberapa banyak dan apa yang mereka pelajari. Kerangka Chi mengajukan bahwa ketika keterlibatan bergerak dari pasif ke aktif ke konstruktif ke interaktif, sifat perubahan pengetahuan makin mendalam — dari menyimpan, ke memperhatikan, ke mengintegrasikan pengetahuan baru dengan pengetahuan sebelumnya, ke menciptakan pengetahuan bersama melalui dialog. Hal ini menjadikan ICAP alat analitis yang ampuh bagi AI dalam pendidikan, di mana pertanyaan desain sentralnya adalah apakah bantuan AI mendukung atau menggantikan keterlibatan kognitif pembelajar.
+ICAP bertumpu pada asumsi bahwa *apa yang dilakukan pembelajar* menentukan seberapa banyak dan apa yang mereka pelajari. Kerangka Chi mengajukan bahwa ketika keterlibatan bergerak dari pasif ke aktif ke konstruktif ke interaktif, sifat perubahan pengetahuan makin mendalam — dari menyimpan, ke memperhatikan, ke mengintegrasikan pengetahuan baru dengan [[prior-knowledge|pengetahuan sebelumnya]], ke menciptakan pengetahuan bersama melalui dialog. Hal ini menjadikan ICAP alat analitis yang ampuh bagi AI dalam pendidikan, di mana pertanyaan desain sentralnya adalah apakah bantuan AI mendukung atau menggantikan keterlibatan kognitif pembelajar.
 
 ## Empat mode
 
@@ -49,11 +49,11 @@ ICAP bertumpu pada asumsi bahwa *apa yang dilakukan pembelajar* menentukan seber
 
 ### Target desain bagi alat AI
 
-ICAP membingkai ulang pertanyaan desain sentral bagi AI dalam pendidikan: alat AI yang *menjawab untuk* pembelajar menahan mereka dalam mode pasif/aktif, sementara alat yang *memprompt, bertanya, dan [[scaffolding|merancah]]* dapat mendorong pembelajar ke keterlibatan konstruktif dan interaktif. Hal ini menyelaraskan ICAP dengan pedagogi [[constructivist]] dan dengan penelitian [[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP membingkai ulang pertanyaan desain sentral bagi AI dalam pendidikan: alat AI yang *menjawab untuk* pembelajar menahan mereka dalam mode pasif/aktif, sementara alat yang *memprompt, bertanya, dan [[scaffolding|merancah]]* dapat mendorong pembelajar ke keterlibatan konstruktif dan interaktif. Hal ini menyelaraskan ICAP dengan [[pedagogy|pedagogi]] [[constructivist]] dan dengan penelitian [[active-learning]].([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
 
 ### Lensa evaluasi bagi agen AI
 
-ICAP juga berfungsi sebagai kerangka pengukuran. Dalam satu studi, para peneliti memperluas ICAP ke skala 7 titik untuk mencirikan keterlibatan kognitif dalam dialog kolaboratif, lalu membandingkan anotator manusia terlatih dengan pelabelan berbasis LLM (pembelajaran dalam konteks, prompting zero-shot, dan agen reflektif). Reliabilitas antar-penilai manusia (kappa = 0.906–0.998) jauh melampaui anotasi LLM (kappa = 0.541–0.609), menonjolkan peran ICAP — dan batasnya saat ini — dalam pengukuran keterlibatan otomatis bagi alur [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
+ICAP juga berfungsi sebagai kerangka pengukuran. Dalam satu studi, para peneliti memperluas ICAP ke skala 7 titik untuk mencirikan keterlibatan kognitif dalam dialog kolaboratif, lalu membandingkan anotator manusia terlatih dengan pelabelan berbasis [[llm|LLM]] (pembelajaran dalam konteks, [[prompt-engineering|prompting]] zero-shot, dan agen reflektif). Reliabilitas antar-penilai manusia (kappa = 0.906–0.998) jauh melampaui anotasi LLM (kappa = 0.541–0.609), menonjolkan peran ICAP — dan batasnya saat ini — dalam pengukuran keterlibatan otomatis bagi alur [[learning-analytics]].([[icap-cognitive-engagement-llm-agents]])
 
 ### Memandu fasilitasi dialog kolaboratif
 
@@ -61,7 +61,7 @@ Karena keterlibatan interaktif adalah mode ICAP tertinggi, kerangka ini membantu
 
 ### ICAP dan desain analitik pembelajaran
 
-ICAP mendasari kritik terhadap metrik "keterlibatan" yang dangkal: berinteraksi dengan dasbor dengan mengklik filter adalah keterlibatan *aktif*, bukan *interaktif*. Desain analitik pembelajaran yang efektif memunculkan penilaian diri dan dialog dua arah alih-alih sekadar menampilkan data — implikasi yang ditarik langsung dari kerangka Chi.([[interactive-learning-dashboards-engagement]])
+ICAP mendasari kritik terhadap metrik "keterlibatan" yang dangkal: berinteraksi dengan dasbor dengan mengklik filter adalah keterlibatan *aktif*, bukan *interaktif*. Desain analitik pembelajaran yang efektif memunculkan [[self-assessment|penilaian diri]] dan dialog dua arah alih-alih sekadar menampilkan data — implikasi yang ditarik langsung dari kerangka Chi.([[interactive-learning-dashboards-engagement]])
 
 ### Transisi Aktif→Konstruktif sebagai langkah pivotal
 
@@ -71,11 +71,11 @@ Bagian "perolehan terkuat" dari klaim itu adalah inferensi dari kerangka alih-al
 
 ### ICAP sebagai sinyal perancahan adaptif dalam ITS
 
-Mode-mode ICAP dapat dioperasionalkan sebagai *keadaan target* yang dipilih tutor adaptif untuk merancah keterlibatan kognitif berdasarkan model siswa yang terus berkembang. Dalam sebuah ITS untuk logika, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi dkk.]] secara dinamis memilih antara mode *Aktif* "Terbimbing" dengan contoh yang dikerjakan dan mode *Konstruktif* "Buggy" dengan contoh yang mengandung kesalahan. Membandingkan Bayesian Knowledge Tracing (BKT) dengan Deep Reinforcement Learning (DRL) dan garis dasar non-adaptif pada 113 siswa, kedua kebijakan adaptif memperbaiki kinerja pascates — tetapi secara berbeda: BKT memberi perolehan terbesar kepada siswa berpengetahuan awal rendah (membantu mereka mengejar), sementara DRL menghasilkan skor pascates tertinggi di antara siswa berpengetahuan awal tinggi. Ini adalah demonstrasi konkret bahwa *mempersonalisasi* mode ICAP sebuah tutor cerdas secara efektif bergantung pada pemodelan pengetahuan pembelajar saat ini — dan bahwa tidak ada satu mode atau metode adaptif pun yang cocok untuk setiap pembelajar. Hal ini menghubungkan hierarki ICAP langsung ke desain [[adaptive-learning]] dan [[knowledge-tracing]].
+Mode-mode ICAP dapat dioperasionalkan sebagai *keadaan target* yang dipilih [[intelligent-tutoring|tutor adaptif]] untuk merancah keterlibatan kognitif berdasarkan [[student-modeling|model siswa]] yang terus berkembang. Dalam sebuah ITS untuk logika, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi dkk.]] secara dinamis memilih antara mode *Aktif* "Terbimbing" dengan contoh yang dikerjakan dan mode *Konstruktif* "Buggy" dengan contoh yang mengandung kesalahan. Membandingkan Bayesian Knowledge Tracing (BKT) dengan Deep [[reinforcement-learning|Reinforcement Learning]] (DRL) dan garis dasar non-adaptif pada 113 siswa, kedua kebijakan adaptif memperbaiki kinerja pascates — tetapi secara berbeda: BKT memberi perolehan terbesar kepada siswa berpengetahuan awal rendah (membantu mereka mengejar), sementara DRL menghasilkan skor pascates tertinggi di antara siswa berpengetahuan awal tinggi. Ini adalah demonstrasi konkret bahwa *mempersonalisasi* mode ICAP sebuah tutor cerdas secara efektif bergantung pada pemodelan pengetahuan pembelajar saat ini — dan bahwa tidak ada satu mode atau metode adaptif pun yang cocok untuk setiap pembelajar. Hal ini menghubungkan hierarki ICAP langsung ke desain [[adaptive-learning]] dan [[knowledge-tracing]].
 
 ### ICAP sebagai model keadaan kognitif untuk menghasilkan agen yang mirip manusia
 
-Melampaui pemilihan mode tugas, ICAP telah disematkan langsung ke dalam *model kognitif* sebuah agen pendidikan generatif. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] membangun "perceptron kedalaman kognitif" berbasis ICAP yang memetakan masukan ke distribusi probabilitas di keempat tingkat ICAP, memfusikannya dengan pembaruan keadaan terinspirasi evolusi dan pengambilan memori berbasis teori respons butir untuk mensimulasikan evolusi kognitif siswa (termasuk transisi seperti kebingungan → wawasan). Ablasi menunjukkan bahwa menghapus modul persepsi ICAP meruntuhkan kemampuan agen membedakan pembelajaran dangkal dari yang mendalam — bukti bahwa taksonomi ICAP dapat berfungsi sebagai ukuran internal keterlibatan kognitif yang halus untuk [[simulating-students|simulasi siswa]], bukan sekadar lensa evaluasi eksternal.
+Melampaui pemilihan mode tugas, ICAP telah disematkan langsung ke dalam *model kognitif* sebuah agen pendidikan generatif. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] membangun "perceptron kedalaman kognitif" berbasis ICAP yang memetakan masukan ke distribusi probabilitas di keempat tingkat ICAP, memfusikannya dengan pembaruan keadaan terinspirasi evolusi dan pengambilan memori berbasis [[item-response-theory|teori respons butir]] untuk mensimulasikan evolusi kognitif siswa (termasuk transisi seperti kebingungan → wawasan). Ablasi menunjukkan bahwa menghapus modul persepsi ICAP meruntuhkan kemampuan agen membedakan pembelajaran dangkal dari yang mendalam — bukti bahwa taksonomi ICAP dapat berfungsi sebagai ukuran internal keterlibatan kognitif yang halus untuk [[simulating-students|simulasi siswa]], bukan sekadar lensa evaluasi eksternal.
 
 ### ICAP menjadi jangkar penilaian interaksi GenAI reflektif
 

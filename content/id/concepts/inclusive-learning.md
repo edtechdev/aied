@@ -8,9 +8,9 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
-updated: "2026-11-04T02:42:40-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-11-04T16:51:25-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 - Satu studi menemukan bahwa video yang disegmentasi AI dengan jeda tetap menghilangkan kesenjangan performa antara siswa ADHD dan non-ADHD. Bagaimana merancang untuk kebutuhan satu kelompok dapat meningkatkan pembelajaran bagi semua orang?
 - Sistem AI digambarkan berisiko menciptakan celah aksesibilitas baru bahkan ketika menghilangkan yang lama. Jenis siswa seperti apa yang mungkin secara diam-diam dikecualikan oleh alat AI berbasis teks, visual, dan selalu daring?
 - Penelitian penilaian inklusif mengungkap ketegangan antara tindakan anti-kecurangan dan akomodasi bagi siswa dengan kebutuhan pemrosesan visual. Ketika keamanan dan aksesibilitas berbenturan, bagaimana trade-off itu harus diputuskan — dan oleh siapa?
-- Beberapa alat membalik asumsi bahwa [[edtech-platform|edtech]] harus visual — misalnya, pendamping yang mengutamakan suara bagi siswa dengan gangguan penglihatan. Asumsi tentang siswa "default" seperti apa yang mungkin dibuat oleh alat atau materi Anda sendiri?
+- Beberapa alat membalik asumsi bahwa [[edtech-platform|edtech]] harus visual — misalnya, [[speech-and-voice-technologies|pendamping yang mengutamakan suara]] bagi siswa dengan gangguan penglihatan. Asumsi tentang siswa "default" seperti apa yang mungkin dibuat oleh alat atau materi Anda sendiri?
 
 ## Pendahuluan
 
@@ -43,7 +43,7 @@ Pembelajaran inklusif adalah konsep **payung**; halaman-halaman di bawah ini ber
 
 | Konsep | Pertanyaan inti yang dijawabnya | Fokus tipikal |
 |---|---|---|
-| **Pembelajaran Inklusif** *(halaman ini)* | Bagaimana kita merancang pendidikan agar semua siswa dapat berpartisipasi secara bermakna? | Desain pengajaran yang luas di seluruh variabilitas siswa |
+| **Pembelajaran Inklusif** *(halaman ini)* | Bagaimana kita [[design-education|merancang pendidikan]] agar semua siswa dapat berpartisipasi secara bermakna? | Desain pengajaran yang luas di seluruh variabilitas siswa |
 | **[[accessibility]]** | Dapatkah semua orang mempersepsikan dan mengoperasikan *format/media*? | Takarir, teks alternatif, transkrip, kontras, kompatibilitas keyboard/pembaca layar, WCAG |
 | **[[assistive-technology]]** | Alat/perangkat apa yang menjembatani kesenjangan akses individu? | Pembaca layar, TTS/STT, braille/taktil, takarir, akomodasi AI |
 | **[[special-education]]** | Bagaimana kita menyampaikan pengajaran kepada siswa dengan disabilitas terdiagnosis? | IEP, akomodasi individual, tutoring khusus disabilitas — **terutama istilah [[k-12]] (IDEA/hak layanan)** |
@@ -67,7 +67,7 @@ Video yang padat persamaan dapat dibuat aksesibel alih-alih ditranskripsikan sec
 
 **[[cognitive-offloading|Offloading kognitif]] dan trade-off antara akses dan perkembangan.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] menunjukkan bahwa bagi siswa dengan kesulitan belajar, GenAI yang sama yang menurunkan hambatan akses membaca dan menulis (penyesuaian tingkat teks, peringkasan, dukungan penyusunan draf) dapat, jika tidak dijaga, menggantikan latihan pemahaman, perencanaan, dan pemantauan yang paling dibutuhkan siswa tersebut — ketegangan keadilan yang sentral bagi pembelajaran inklusif. Desain inklusif karena itu harus mempertimbangkan bukan hanya apakah suatu alat *aksesibel* tetapi apakah alat itu mempertahankan kesempatan siswa untuk mengembangkan keterampilan yang justru ingin diwujudkan oleh akses tersebut.
 
-**AI untuk disleksia: deteksi, dukungan, dan [[personalized-learning|pembelajaran terpersonalisasi]].** Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu PRISMA, 2018–2024, n=72) menemukan AI mendukung siswa disleksia dalam deteksi, dukungan bantu, dan pembelajaran terpersonalisasi — tetapi dengan lini-lini ini berkembang secara paralel alih-alih terintegrasi, lebih didorong oleh peluang teknologi daripada teori pendidikan yang mapan. Alat bantu pendidikan berbasis ML mencakup lima area (aplikasi spesifik, keterlibatan, personalisasi, rekomendasi, dukungan generik) namun menekankan performa teknis dan akurasi klasifikasi sambil mengabaikan validitas ekologis dan penerapan praktis di kelas. Penelitian deteksi (EEG, pelacakan mata, model ML) menunjukkan janji diagnostik untuk intervensi dini tetapi sering memerlukan peralatan khusus dan lingkungan yang terkendali, sehingga membatasi skalabilitas dan aksesibilitas dalam lingkungan sekolah yang tipikal. Tantangan yang terbuka mencakup validasi eksperimental yang terbatas, skalabilitas, kekhawatiran [[ethics]]/privasi dengan data siswa yang sensitif, dukungan dan pelatihan [[teacher-role|guru]] yang terbatas, serta hambatan bahasa/budaya (sebagian besar penelitian menyasar populasi berbahasa Inggris) — menegaskan bahwa pembelajaran inklusif harus memadukan kemampuan teknis dengan penerapan yang tervalidasi, skalabel, dan berlandaskan etika.
+**Dukungan disleksia: deteksi, bantuan, dan [[personalized-learning|personalisasi]].** Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] interdisipliner 2026 (Dabaghi, D'Urso & Sciarrone, dipandu PRISMA, 2018–2024, n=72) menemukan AI mendukung siswa disleksia dalam deteksi, dukungan bantu, dan pembelajaran terpersonalisasi — tetapi dengan lini-lini ini berkembang secara paralel alih-alih terintegrasi, lebih didorong oleh peluang teknologi daripada teori pendidikan yang mapan. Alat bantu pendidikan berbasis ML mencakup lima area (aplikasi spesifik, [[student-engagement|keterlibatan]], personalisasi, rekomendasi, dukungan generik) namun menekankan performa teknis dan akurasi klasifikasi sambil mengabaikan validitas ekologis dan penerapan praktis di kelas. Penelitian deteksi ([[sensor-and-gaze-analytics|EEG]], pelacakan mata, model ML) menunjukkan janji diagnostik untuk intervensi dini tetapi sering memerlukan peralatan khusus dan lingkungan yang terkendali, sehingga membatasi skalabilitas dan aksesibilitas dalam lingkungan sekolah yang tipikal. Tantangan yang terbuka mencakup validasi eksperimental yang terbatas, skalabilitas, kekhawatiran [[ethics]]/privasi dengan data siswa yang sensitif, dukungan dan pelatihan [[teacher-role|guru]] yang terbatas, serta hambatan bahasa/budaya (sebagian besar penelitian menyasar populasi berbahasa Inggris) — menegaskan bahwa pembelajaran inklusif harus memadukan kemampuan teknis dengan penerapan yang tervalidasi, skalabel, dan berlandaskan etika.
 
 **Kritik AI yang berpusat pada disabilitas** mengkaji bagaimana sistem AI dapat memarginalkan alih-alih menyertakan. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** berargumen bahwa sistem [[generative-ai|AI generatif]] di pendidikan tinggi secara aktif memarginalkan cara-cara mengetahui yang berpusat pada disabilitas akibat data pelatihan yang Anglofon dan berpusat di Barat — terhubung dengan kekhawatiran [[equity-in-ai-education]] tentang keadilan epistemik.
 
@@ -95,7 +95,7 @@ Pembelajaran inklusif sangat terhubung dengan [[equity-in-ai-education]] — aks
 
 **"Menyediakan teknologi bantu berarti menyediakan agensi."** Keduanya berbeda, dan kerangka halaman ini sendiri menyatakannya: teknologi bantu tidak menjamin agensi yang bermakna. Alat yang memungkinkan siswa menyelesaikan tugas wajib juga dapat mengarahkannya ke versi paling sempit dari tugas itu, dan perbedaan antara perancah dan langit-langit tidak terlihat dalam metrik adopsi.
 
-**"Siswa yang kesulitan seharusnya cukup belajar menulis prompt dengan lebih baik."** Itu mengubah cacat sistem menjadi defisit siswa. Dengan tugas dasar dipertahankan tetap, akurasi model hanya naik dari **82.4% untuk diksi literasi rendah menjadi 83.4% untuk frasa ahli** — selisih satu poin — sementara menuntut penulisan prompt yang lebih baik menambah pengucilan baru di atas yang sudah ada. Daya ungkitnya ada pada penanganan variasi bahasa di sisi sistem, bukan pada pelatihan prompt yang bersifat remedial.
+**"Siswa yang kesulitan seharusnya cukup belajar menulis prompt dengan lebih baik."** Itu mengubah cacat sistem menjadi defisit siswa. Dengan tugas dasar dipertahankan tetap, akurasi model hanya naik dari **82.4% untuk diksi literasi rendah menjadi 83.4% untuk frasa ahli** — selisih satu poin — sementara menuntut [[prompt-engineering|penulisan prompt]] yang lebih baik menambah pengucilan baru di atas yang sudah ada. Daya ungkitnya ada pada penanganan variasi bahasa di sisi sistem, bukan pada pelatihan prompt yang bersifat remedial.
 
 **"Alat yang dibangun untuk kelas bersumber daya besar akan melayani konteks bersumber daya rendah begitu diterjemahkan."** Konteks mengubah kendala desain. [[suacode-african-students-motivations|SuaCode]] menjangkau siswa di konteks Afrika bersumber daya rendah tempat **kurang dari 1% memiliki keterampilan pemrograman** dengan membangun untuk ponsel pintar alih-alih mesin lab desktop, yang merupakan desain yang berbeda, bukan versi lebih kecil dari desain yang sama.
 

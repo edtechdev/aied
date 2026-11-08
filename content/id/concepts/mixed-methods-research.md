@@ -5,9 +5,9 @@ type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/mixed-methods-research"
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -33,22 +33,25 @@ ai_assist:
 
 Desain metode campuran mengintegrasikan keluasan, presisi, dan daya kausal metode kuantitatif dengan kedalaman, konteks, dan makna metode kualitatif. Proposisi nilainya adalah **triangulasi**: ketika jalur-jalur independen bertemu pada kesimpulan yang sama, keyakinan meningkat; ketika mereka menyimpang, penyimpangan itu sendiri informatif.
 
-Di seluruh 394 studi GenAI pendidikan tinggi, metode campuran adalah desain penelitian paling umum (213 studi, 54%), diikuti penelitian kuantitatif (109, 28%) dan kualitatif (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+Di seluruh 394 studi [[generative-ai|GenAI]] pendidikan tinggi, metode campuran adalah desain penelitian paling umum (213 studi, 54%), diikuti penelitian kuantitatif (109, 28%) dan kualitatif (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Pola desain yang umum
 
 - **Eksplanatori berurutan (QUAN → kual).** Data kuantitatif dikumpulkan lebih dulu, lalu data kualitatif menjelaskan atau memberikan konteks bagi temuan kuantitatif yang mengejutkan atau signifikan. [[genai-over-reliance-learning-2026|Studi metode campuran tentang GenAI dan pembelajaran berkelanjutan]] memasangkan survei tiga gelombang dengan wawancara pendidik untuk menjelaskan pola kuantitatif peningkatan-menuju-ketergantungan-berlebih.
 - **Eksploratori berurutan (KUAL → kuan).** Kerja kualitatif membangun teori, menghasilkan hipotesis, atau menginformasikan desain instrumen yang kemudian diuji secara kuantitatif. [[becker-chatgpt-typology-physics-2026|Tipologi kualitatif adopsi ChatGPT]] menghasilkan kategori yang dapat menginformasikan desain survei selanjutnya.
-- **Eksploratori berurutan dengan invariansi pengukuran.** [[trust-calibration-genai-collaborative-regulation-2026|Bu dan Li (2026)]] mengode wawancara untuk mengidentifikasi empat dimensi model, membangun instrumen 22 item darinya, lalu menguji invariansi konfigural, metrik, dan skalar di seluruh gender dan bidang disiplin pada sampel analitik 642 — menunjukkan jalur kualitatif yang memberi masukan pada instrumen survei dan uji invariansi yang mengonfirmasi konstruk berperilaku sama di seluruh kelompok.
+- **Eksploratori berurutan dengan invariansi pengukuran.** [[trust-calibration-genai-collaborative-regulation-2026|Bu dan Li (2026)]] mengode wawancara untuk mengidentifikasi empat dimensi model, membangun instrumen 22 item darinya, lalu menguji invariansi konfigural, metrik, dan skalar di seluruh gender dan bidang disiplin pada sampel analitik 642 — menunjukkan jalur kualitatif yang memberi masukan pada [[self-report-measures|instrumen survei]] dan uji invariansi yang mengonfirmasi konstruk berperilaku sama di seluruh kelompok.
 - **Konvergen/paralel.** Jalur kuantitatif dan kualitatif berjalan bersamaan dan diintegrasikan dalam analisis. [[t2i-competence-paradox-2026|Studi paradoks kompetensi]] menggunakan kelompok fokus instruktur, survei siswa, dan wawancara lanjutan secara paralel; [[fouad-bentley-trust-utility-gap-physics-2026|studi kesenjangan kepercayaan–kegunaan]] menggabungkan bukti survei dan wawancara tentang adopsi AI mahasiswa fisika.
+
+- **Jalur kuantitatif yang dihasilkan mesin.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang dkk. (2026)]] menghasilkan jalur kuantitatif BREQ dari transkrip wawancara peserta di bawah desain konvergensi, rute integrasi yang tidak hanya bergantung pada tenaga manusia. Korelasi LLM–manusia berkisar dari sedang hingga tinggi (ρ = .5 hingga .73), RMSE tingkat butir, orang, dan tes mengukur jarak dari respons manusia, dan butir 6, 7, dan 11 yang berkonotasi negatif menandai hasil triangulasi yang paling jelas, menunjukkan di mana bukti wawancara dan survei menyimpang.
+
 
 ## Bagaimana metode campuran muncul dalam basis pengetahuan
 
 - **Menjelaskan mekanisme.** [[same-ai-different-pathways]] menggabungkan jalur untuk mengurai mekanisme pembelajaran yang dimediasi AI di seluruh konteks disiplin-institusi, di mana perbedaan kuantitatif saja akan buram.
-- **Melengkapi data hasil dengan pengalaman.** [[hazra-safetutors-pedagogical-safety-2026|Keamanan tutor AI]] memasangkan indikator kerugian kuantitatif dengan catatan kualitatif tentang kerugian pedagogis; [[t2i-competence-paradox-2026]] memasangkan hasil survei kuantitatif dengan catatan kualitatif negosiasi identitas.
+- **Melengkapi data hasil dengan pengalaman.** [[hazra-safetutors-pedagogical-safety-2026|Keamanan tutor AI]] memasangkan indikator kerugian kuantitatif dengan catatan kualitatif tentang kerugian [[pedagogy|pedagogis]]; [[t2i-competence-paradox-2026]] memasangkan hasil survei kuantitatif dengan catatan kualitatif negosiasi identitas.
 - **Integrasi tanpa penggabungan.** [[wang-reflective-ai-use-engagement-programming-2026|Wang dan Zhao (2026)]] mengoordinasikan survei (N = 131), pengodean manusia atas 66 teks Keterlibatan Kritis, dan log pemrograman (N = 1,423) yang berasal dari sampel berbeda dan tidak pernah digabung, memberikan cabang jejak bebas AI peran uji batas alih-alih peran konfirmatori — setiap jalur diberi tugas inferensial yang berbeda alih-alih dilaporkan berdampingan.
 - **Desain dan evaluasi.** [[genai-feedback-design-multisite-experiment|Eksperimen multisitus tentang desain umpan balik GenAI]] menggabungkan pengukuran hasil eksperimental dengan umpan balik kualitatif dari pembelajar, mengintegrasikan estimasi efek kuantitatif dengan panduan desain.
-- **Bukti proses di dalam uji coba besar.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] memasangkan observasi sistem dan diskusi dengan administrator terhadap evaluasi teracak empat tahun atas 8,708 siswa di delapan semester, yang berdaya untuk mendeteksi efek 0.05 simpangan baku, sehingga studi yang sama menjelaskan kondisi organisasi yang mempertahankan program chatbot dan melaporkan nol yang berbatas ketat pada IPK dan persistensi.
+- **Bukti proses di dalam uji coba besar.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] memasangkan observasi sistem dan diskusi dengan [[administrator|administrator]] terhadap evaluasi teracak empat tahun atas 8,708 siswa di delapan semester, yang berdaya untuk mendeteksi efek 0.05 simpangan baku, sehingga studi yang sama menjelaskan kondisi organisasi yang mempertahankan program [[conversational-ai|chatbot]] dan melaporkan nol yang berbatas ketat pada IPK dan persistensi.
 
 - **Melakukan triangulasi atas fenomena kebijakan.** Studi tentang penundaan privasi siswa dalam EdTech memasangkan dua belas wawancara semiterstruktur dengan audit dokumen 48 platform yang dinilai dua pengode untuk keandalan antar-penilai (rata-rata Cohen's κ = 0.781), menggunakan wawancara untuk menjelaskan mengapa privasi ditunda dan audit untuk menunjukkan pola pengungkapan yang dihasilkan penundaan itu — desain konvergen di mana tidak ada jalur yang sendirian dapat mendukung klaim tersebut ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 

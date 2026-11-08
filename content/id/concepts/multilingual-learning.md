@@ -7,9 +7,9 @@ technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
-updated: "2026-11-04T02:28:53-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/multilingual-learning"
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 - Sebagian besar model AI dilatih terutama pada bahasa bersumber daya tinggi seperti Inggris. Jika Anda berpikir, belajar, atau dinilai dalam bahasa lain, bagaimana itu merugikan Anda secara sistematis — bahkan bila alat tampak "berfungsi" dalam bahasa Inggris?
 - Halaman ini memperingatkan bahwa bias monolingual yang tidak ditangani memperdalam kesenjangan digital dan melemahkan keadilan, terutama di Global South. Apa yang diperlukan keadilan sejati di luar menerjemahkan konten AI ke bahasa lain?
 - Penilaian otomatis dapat menunjukkan bias bahasa, menghukum penutur non-asli bahkan untuk penalaran yang sama. Jika Anda menerapkan penilaian AI, apa yang Anda periksa agar penilaian itu adil lintas bahasa, bukan hanya akurat dalam satu bahasa?
-- Halaman ini menunjukkan bahasa bersumber daya rendah dapat dilayani dengan penyetelan halus model pada korpus terkurasi, di bawah keterbatasan perangkat keras praktis. Kompromi apa yang Anda perkirakan antara efisiensi dan kesetiaan model dalam menangani bahasa bersumber daya rendah?
+- Halaman ini menunjukkan bahasa bersumber daya rendah dapat dilayani dengan [[llm-training-and-fine-tuning|penyetelan halus]] model pada korpus terkurasi, di bawah keterbatasan perangkat keras praktis. Kompromi apa yang Anda perkirakan antara efisiensi dan kesetiaan model dalam menangani bahasa bersumber daya rendah?
 - AI multibahasa harus melampaui terjemahan untuk mencerminkan pedagogi relevan secara budaya — konten yang sesuai secara linguistik *dan* kontekstual. Bagaimana konten yang diterjemahkan sempurna masih gagal melayani siswa jika mengabaikan konteks dan budaya lokal?
 
 ## Pendahuluan
@@ -43,13 +43,13 @@ Pembelajaran multibahasa adalah dimensi keadilan inti [[ai-education|AI dalam pe
 
 - **Penyetelan halus untuk bahasa dengan sumber daya rendah:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|menyetel halus LLM yang telah disetel instruksi pada korpus Nigerian Pidgin yang dikurasi]] dalam platform [[adaptive-learning]], dan menganalisis secara sistematis kompromi kuantisasi (4/5/8-bit) antara kesetiaan semantik dan efisiensi komputasi — menunjukkan bahasa bersumber daya rendah dapat dilayani dalam keterbatasan perangkat keras praktis. Lihat juga [[bilingual-llm-lecture-companion-srl-2026|pendamping kuliah LLM bilingual]] untuk [[self-regulated-learning|pembelajaran yang diatur sendiri]].
 - **Keadilan korpus dan data:** membangun korpus yang dikurasi (misalnya, Nigerian Pidgin, sistem pengetahuan India melalui [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) adalah strategi berulang untuk memungkinkan keluaran model dalam bahasa siswa.
-- **Voice-first dan konteks lisan:** [[kutti-ai-voice-first-learning-companion|pendamping voice-first]] dan [[structural-silence-underrepresented-language-ai-2026|analisis kesenyapan struktural]] menangani konteks ketika AI berbasis teks gagal melayani penutur bahasa yang kurang terwakili.
+- **[[speech-and-voice-technologies|Voice-first]] dan konteks lisan:** [[kutti-ai-voice-first-learning-companion|pendamping voice-first]] dan [[structural-silence-underrepresented-language-ai-2026|analisis kesenyapan struktural]] menangani konteks ketika AI berbasis teks gagal melayani penutur bahasa yang kurang terwakili.
 
 ## Keadilan dan pedagogi
 
 AI multibahasa harus melampaui terjemahan untuk mencerminkan [[culturally-relevant-pedagogy|pedagogi yang relevan secara budaya]] — menghasilkan konten yang sesuai secara linguistik dan kontekstual. Studi tentang [[llm-cultural-relevance-k12|relevansi budaya LLM di K-12]] dan [[scaffolding-critical-engagement-genai-minority-students|keterlibatan kritis dengan GenAI di kalangan siswa minoritas]] menunjukkan keselarasan linguistik dan budaya menentukan apakah siswa benar-benar memperoleh manfaat. Jika dibiarkan, bias monolingual AI memperdalam [[digital-divide]] dan melemahkan [[equity-in-ai-education|Keadilan]] di seluruh [[global-south|Global South]].
 
-Translanguaging adalah kemampuan baru chatbot generatif yang tidak dimiliki alat bahasa sebelumnya. Dalam tinjauan sistematis 24 studi, siswa meminta frasa dan penjelasan kontekstual dalam bahasa sendiri sebagai jembatan ke bahasa target — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan baru, bukan kemasan ulang ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+Translanguaging adalah kemampuan baru [[conversational-ai|chatbot]] generatif yang tidak dimiliki alat bahasa sebelumnya. Dalam [[meta-analysis-systematic-review|tinjauan sistematis]] 24 studi, siswa meminta frasa dan penjelasan kontekstual dalam bahasa sendiri sebagai jembatan ke bahasa target — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan baru, bukan kemasan ulang ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Bias penilaian
 
@@ -67,7 +67,7 @@ Penilaian komparatif berbasis LLM adalah kasus ketika bias mengikuti garis dasar
 
 ## Miskonsepsi umum
 
-- **"Bahasa target harus mendominasi sejak hari pertama."** Dalam **tinjauan sistematis terhadap 24 studi**, siswa meminta **frasa dan penjelasan yang kontekstual dalam bahasa mereka sendiri sebagai jembatan ke bahasa target** — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan benar-benar baru, bukan akal-akalan. Dukungan bahasa ibu berfungsi sebagai perancah, bukan penghindaran.
+- **"Bahasa target harus mendominasi sejak hari pertama."** Dalam **tinjauan sistematis terhadap 24 studi**, siswa meminta **frasa dan penjelasan yang kontekstual dalam bahasa mereka sendiri sebagai jembatan ke bahasa target** — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan benar-benar baru, bukan akal-akalan. Dukungan bahasa ibu berfungsi sebagai [[scaffolding|perancah]], bukan penghindaran.
 - **"Penilaian bahasa AI bias terhadap penulis multibahasa."** Di sini bias mengikuti **garis dasar manusia, bukan model**: penilaian komparatif berbasis LLM pada **tulisan informasional Kelas 3-6 konvergen dengan rubrik peneliti (r = .59-.73)** dan menunjukkan pola sama dengan penilai manusia. Itu bukan bukti keadilan absolut — melainkan bukti model tidak menambahkan distorsi baru di atas yang sudah ada.
 - **"Keluaran berkualitas terjemahan adalah bagian yang berguna."** Penggunaan sebagai jembatan bersifat eksplanatif dan situasional, bukan substitutif. Alat yang menggantikan produksi siswa menghilangkan latihan yang seharusnya dimungkinkan jembatan itu.
 

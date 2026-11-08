@@ -11,7 +11,7 @@ audience: [instructors, instructional designers, administrators, researchers, le
 page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/differential-effects-across-learner-groups"
 source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -52,6 +52,8 @@ Halaman ini sengaja tidak menduplikasi tetangganya. [[equity-in-ai-education|Kea
 
 
 **Audit dengan pembelajar nyata memang ada, dan dapat mendukung klaim interseksional.** [[stinar-fairness-unmodeled-reading-skills-adaptive-learning-2026|Stinar dkk. (2026)]] menganalisis log MATHia selama dua tahun dari 8.549 siswa dan menemukan bukti yang tidak dapat disediakan audit persona simulasi: kesenjangan laju dasar pembaca pemula sebesar .1007 di antara siswa perempuan pada 2021–2022, perbedaan yang mencapai .0926 di antara siswa Hispanik pada 2022–2023, dan 8 dari 12 statistik ras-menurut-kelompok-baca yang signifikan di antara pembaca non-pemula berbanding hanya 1 dari 12 di antara pembaca pemula.
+
+
 
 
 **Perbaikan keadilan mungkin tidak tergeneralisasi.** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] mengurangi kesenjangan galat yang tertuju pada gender dan usia dalam estimasi atensi siswa pada data [[assessment-validity|validasi]], tetapi perolehannya tidak secara konsisten berpindah ke subjek yang disisihkan atau ke pemisahan tingkat-subjek yang diulang.

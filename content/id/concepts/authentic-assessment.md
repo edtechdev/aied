@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment, process-oriented-assessment]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/authentic-assessment"
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -125,9 +125,7 @@ Kemunduran itu membawa biaya evidensial yang terlihat dalam bukti berkas kasus. 
 - [[feedback]]
 - [[summative-assessment]] — Penilaian sumatif: format yang tahan AI (ujian lisan, berpengawas, buku tertutup)
 - [[arts-design-and-media-education]]
-
 - [[reflection]]
-
 
 ## Artikel terkait
 - [[thapa-lewis-process-oriented-assessment-2026]] — penilaian berorientasi proses dan autentisitas epistemik sebagai apa yang harus diautentikasi suatu tugas

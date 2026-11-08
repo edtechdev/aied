@@ -6,9 +6,9 @@ foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/humanities-education"
-source_updated: "2026-11-01T08:12:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 
 Pendidikan SSH adalah area subjek yang khas dalam basis pengetahuan ini, komplementer terhadap [[stem-education]] dan [[language-learning]]. Karena humaniora menjunjung kedalaman interpretatif, kepengarangan, dan pertimbangan kontekstual, bidang ini menghadirkan tantangan integrasi AI yang berbeda dari STEM — dan terhubung dengan [[higher-ed]] serta [[ai-literacy]] secara [[discipline-specific-aied|khas domain]].
 
+Pendidikan kewarganegaraan dan politik adalah area subjek saudara bagi disiplin-disiplin ini alih-alih cabang darinya, dan [[civic-and-political-education]] memperlakukannya dengan haknya sendiri. Bukti basis pengetahuan di sana tipis: delapan sumber menyentuh topik ini dan tidak ada yang mengukur pembelajaran kewarganegaraan.
+
 ### Bagaimana AI muncul dalam pendidikan humaniora dan ilmu sosial
 
 - **Merestrukturisasi kognisi interpretatif.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] berargumen bahwa AI generatif bertindak sebagai *mediator epistemik* yang menyusun ulang pemaknaan, kepengarangan, dan [[agency]] pembelajar dalam pendidikan SSH. Ia mengidentifikasi tiga transformasi — eksternalisasi kognisi interpretatif, hibridisasi kepengarangan, dan kemunculan agensi epistemik yang terdistribusi — serta tiga lintasan perkembangan (interpretasi yang bergantung pada AI, yang diperkuat AI, dan yang kritis terhadap AI). Ini mendasari model [[pedagogy|pedagogis]] developmental-critical untuk mempertahankan kedalaman interpretatif.
@@ -42,7 +44,7 @@ Pendidikan SSH adalah area subjek yang khas dalam basis pengetahuan ini, komplem
 - **Pendidikan sejarah.** [[paternalistic-filter-llm-history-education|Penelitian tentang LLM dalam pendidikan sejarah]] menelaah bagaimana AI membentuk penalaran historis dan interpretasi sumber.
 - **Pengalaman mahasiswa humaniora dan ilmu sosial.** [[genai-impact-chinese-students-hss|Dampak GenAI pada mahasiswa humaniora dan ilmu sosial Tiongkok]] serta [[acceptance-ai-english-tools-2026|penerimaan AI di kalangan pembelajar bahasa/Inggris]] mendokumentasikan efek yang dihadapi siswa di lintas disiplin SSH.
 - **Dimensi kritis dan filosofis.** [[voicu-ai-interpretive-cognition-ssh-2026|Literasi AI kritis]] dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidikan]] sangat menonjol dalam SSH, tempat pertanyaan tentang makna, nilai, dan otoritas epistemik menjadi sentral.
-- **Transformasi digital [[governance|institusional]].** Qin (2026) mendokumentasikan bagaimana Lingnan University memosisikan ulang dirinya sebagai "Institusi Seni Liberal Intensif Penelitian di Era Digital," dengan mewajibkan literasi GenAI bagi semua mahasiswa sarjana (termasuk mata kuliah Common Core tahun pertama wajib tentang AI generatif yang mencakup ruang laten, GAN, model difusi, [[prompt-engineering|prompting]], penyetelan halus, bias, dan misinformasi). Makalah posisi itu berargumen bahwa pergeseran AI untuk pendidikan adalah *transformasi intelektual* alih-alih augmentasi teknosentris, memosisikan [[ai-literacy|kefasihan digital]] sebagai kompetensi inti seni liberal sementara model [[human-in-the-loop-ai|human-in-the-loop]] mengedepankan penalaran [[ethics|etis]], pertimbangan kritis, dan tanggung jawab sosial — sebuah cetak biru konkret bagi [[higher-ed|pendidikan tinggi]] yang menyeimbangkan inovasi [[generative-ai|GenAI]] dengan landasan humanistik.
+- **Transformasi digital [[governance|institusional]].** Qin (2026) mendokumentasikan bagaimana Lingnan University memosisikan ulang dirinya sebagai "Institusi Seni Liberal Intensif Penelitian di Era Digital," dengan mewajibkan literasi GenAI bagi semua mahasiswa sarjana (termasuk mata kuliah Common Core tahun pertama wajib tentang AI generatif yang mencakup ruang laten, GAN, model difusi, [[prompt-engineering|prompting]], [[llm-training-and-fine-tuning|penyetelan halus]], bias, dan misinformasi). Makalah posisi itu berargumen bahwa pergeseran AI untuk pendidikan adalah *transformasi intelektual* alih-alih augmentasi teknosentris, memosisikan [[ai-literacy|kefasihan digital]] sebagai kompetensi inti seni liberal sementara model [[human-in-the-loop-ai|human-in-the-loop]] mengedepankan penalaran [[ethics|etis]], pertimbangan kritis, dan tanggung jawab sosial — sebuah cetak biru konkret bagi [[higher-ed|pendidikan tinggi]] yang menyeimbangkan inovasi [[generative-ai|GenAI]] dengan landasan humanistik.
 
 - **Eksposur penilaian sektor ini kini terukur, dan ia terkonsentrasi alih-alih tersebar.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] mengaudit 15,587 catatan unit Seni dan Humaniora di delapan universitas Group of Eight Australia dan menemukan 58.6% butir penilaian 2026 sangat terekspos [[generative-ai|GenAI]], dengan esai take-home dan laporan penelitian menyumbang 71.4% dari eksposur itu setelah dibobot menurut nilai.
 
@@ -50,16 +52,18 @@ Pendidikan SSH adalah area subjek yang khas dalam basis pengetahuan ini, komplem
 
 Pendidikan SSH mengedepankan justru kemampuan yang paling ditantang AI generatif — kepengarangan orisinal, pertimbangan interpretatif, analisis kritis, dan pemaknaan yang peka konteks. Basis pengetahuan ini memperlakukan domain tersebut sebagai penyeimbang kritis terhadap pembingkaian AI yang instrumental dan berbasis keterampilan: ia menanyakan apakah pembelajaran berbantuan AI mempertahankan [[critical-thinking]], tanggung jawab epistemik, dan otonomi interpretatif, yang terhubung dengan [[critical-pedagogy]] dan [[ai-literacy]].
 
+Pengajaran humaniora telah mulai menggunakan AI agentik untuk perakitan sumber dan penyusunan draf, yang memindahkan pertanyaan penilaian disiplin itu dari apakah teks dihasilkan ke apakah interpretasi dapat diatribusikan kepada siswa ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Implikasi bagi instruktur humaniora dan ilmu sosial
 
-- **Perlakukan AI sebagai mediator epistemik, bukan tutor konten.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] menunjukkan AI menyusun ulang pemaknaan, kepengarangan, dan agensi dalam SSH — rancang pedagogi di sekitar ketiga lintasan (bergantung AI, diperkuat AI, kritis terhadap AI) dan bidik ujung yang kritis terhadap AI.
+- **Perlakukan AI sebagai mediator epistemik, bukan tutor konten.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] menunjukkan AI menyusun ulang pemaknaan, kepengarangan, dan agensi dalam SSH — rancang [[design-education|pedagogi]] di sekitar ketiga lintasan (bergantung AI, diperkuat AI, kritis terhadap AI) dan bidik ujung yang kritis terhadap AI.
 - **Lindungi kedalaman interpretatif dan kepengarangan.** Karena humaniora menjunjung pertimbangan dan kepengarangan orisinal, cegah AI meratakan analisis; jadikan [[ai-ed-evaluation|evaluasi kritis atas AI]] atas keluaran AI sebagai tujuan pembelajaran ([[critical-thinking]], [[ai-literacy]]).
 - **Gunakan AI secara sengaja dalam kerja sumber.** [[paternalistic-filter-llm-history-education|Penelitian sejarah]] menunjukkan AI dapat membentuk penalaran dan interpretasi sumber — ajari siswa menginterogasi klaim historis yang dimediasi AI dan filter yang ia terapkan.
 - **Pertimbangkan dampak yang dihadapi siswa.** [[genai-impact-chinese-students-hss|Studi pengalaman siswa]] mendokumentasikan bagaimana GenAI memengaruhi pembelajar SSH; sesuaikan dukungan dan pembingkaian integritas dengan penggunaan nyata alih-alih asumsi.
 
 ## Miskonsepsi Umum
 
-**"Humaniora adalah bagian kurikulum yang paling sedikit terekspos AI."** Eksposurnya telah diukur dan ia terkonsentrasi alih-alih tersebar: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] mengaudit **15,587 catatan unit Seni dan Humaniora** untuk menetapkan di mana eksposur itu berada. Distribusinya tidak merata antarbutir alih-alih tersebar tipis, yang menjadikan perancangan ulang penilaian sebagai masalah bertarget, bukan masalah seluruh sektor.
+**"Humaniora adalah bagian [[curriculum-design|kurikulum]] yang paling sedikit terekspos AI."** Eksposurnya telah diukur dan ia terkonsentrasi alih-alih tersebar: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] mengaudit **15,587 catatan unit Seni dan Humaniora** untuk menetapkan di mana eksposur itu berada. Distribusinya tidak merata antarbutir alih-alih tersebar tipis, yang menjadikan perancangan ulang penilaian sebagai masalah bertarget, bukan masalah seluruh sektor.
 
 **"AI dalam pendidikan humaniora adalah augmentasi teknosentris."** Makalah posisi yang menjadi rujukan halaman ini berargumen bahwa pergeserannya adalah *transformasi intelektual* alih-alih augmentasi, dengan memosisikan [[ai-literacy|kefasihan digital]] sebagai kompetensi inti seni liberal. Menambahkan alat ke kursus yang tak berubah berarti mengira transformasi itu sebagai instrumennya.
 
@@ -82,6 +86,8 @@ Pendidikan SSH mengedepankan justru kemampuan yang paling ditantang AI generatif
 - [[ai-education]]
 - [[discipline-specific-aied]]
 
+- [[civic-and-political-education]]
+
 ## Artikel terkait
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Model developmental-critical kognisi interpretatif untuk pendidikan SSH
@@ -91,3 +97,4 @@ Pendidikan SSH mengedepankan justru kemampuan yang paling ditantang AI generatif
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit komputasional atas 15,587 unit Seni dan Humaniora Go8: 58.6% butir penilaian 2026 sangat terekspos AI, terkonsentrasi pada esai dan laporan
 - [[genai-values-education-affordances-risks-2026]] — AI generatif dalam Pendidikan Nilai: Affordance, Risiko Etis, dan Implikasi bagi Pengajaran (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Format tugas dan instruksi penggunaan AI sebagai apa yang dapat dibuktikan artefak (Liu & Liu 2026)
+- [[capodieci-humanities-hil-2026]] — AI agentik dalam pembelajaran humaniora, dan pergeseran dari kepengarangan teks ke atribusi interpretasi (Capodieci et al. 2026)

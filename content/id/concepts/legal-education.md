@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/legal-education"
-source_updated: "2026-11-01T08:10:00-05:00"
+source_updated: "2026-11-07T13:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -50,8 +50,11 @@ Bukti eksperimental mulai muncul: [[xie-genai-mystery-game-legal-education-2026|
 - **Belajar dan persiapan ujian advokat.** Menghasilkan soal latihan, pola fakta, dan "hipotetikal" untuk latihan berwaktu, serta tutoring atas kelemahan yang berulang. Gutowski dan Hurley menyandingkan ini dengan pengamatan bahwa AI generatif kini lulus Ujian Advokat maupun Ujian Tanggung Jawab Profesional Multistate, yang mereka baca sebagai lebih banyak berbicara tentang ambang kompetensi minimal ujian advokat daripada tentang modelnya.
 
 - **Profil spesifik tugas, bukan papan peringkat.** Di bawah protokol buta, model siap pakai yang sama yang mencapai level ujian advokat manusia (skor kumulatif 26–79 dari 100) semuanya gagal dalam ujian notaris, yang menuntut perencanaan hukum berorientasi tujuan di bawah kendala formal yang ketat — dan terperdaya oleh jebakan yang sengaja disematkan di dalamnya ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
-- **Jurnal, peradilan semu, dan pembimbingan.** Menyaring naskah, menyiapkan argumen, dan program dukungan akademik menggunakan model khusus yang dilatih pada ujian lampau, jawaban model, dan materi kursus.
+- **Jurnal, peradilan semu, dan pembimbingan.** Menyaring naskah, menyiapkan argumen, dan program [[student-support-and-success|dukungan akademik]] menggunakan model khusus yang dilatih pada ujian lampau, jawaban model, dan materi kursus.
 - **Penilaian dan integritas.** Kasus masalah yang berulang: penyusunan yang tidak diungkapkan, sitasi pada otoritas yang tidak ada, dan ujian yang tidak lagi mengukur analisis tanpa bantuan.
+
+- **Tinjauan pelingkupan 82 karya, sebagian besar non-empiris.** [[lorteau-sarro-ai-legal-education-2025|Lorteau dan Sarro (2025)]] memetakan 82 karya dari 26 negara; 74% muncul setelah 2023 dan hanya 22 yang empiris. Model tanpa bantuan lulus penilaian sekolah hukum tetapi berperingkat di bawah siswa, dan kinerja meningkat dengan instruksi terperinci dan otoritas yang disediakan tanpa menjadi andal. Kegunaan praktis tinjauan itu adalah materi yang dihasilkan, simulasi, pelatihan menulis, dan pengajaran keterampilan AI; risiko utamanya adalah ketergantungan pasif, dengan [[assessment-validity|penilaian]] sebagai titik tekanannya.
+
 
 ## Apa yang ditunjukkan bukti kebijakan
 
@@ -64,11 +67,14 @@ Dua poin lebih lanjut membentuk rekomendasi mereka:
 - **Tata kelola fakultas adalah komplikasi khas sekolah hukum.** Fakultas hukum, secara individual maupun kolektif, memegang otoritas yang luar biasa langsung atas kurikulum dan standar mata kuliah, sehingga kebijakan harus dibangun bersama mereka alih-alih diumumkan kepada mereka.
 - **Pendidikan klinik memunculkan keberatan [[pedagogy|pedagogis]], bukan teknis.** Mengutip Karr dan Schultz, mereka melaporkan posisi bahwa alat AI yang dirancang meniru respons manusia tidak mengembangkan penilaian orisinal, interaksi klien, dan pengambilan keputusan [[ethics|etis]] yang justru menjadi alasan klinik ada, dan karena itu tidak boleh digunakan dalam mata kuliah klinik sama sekali.
 
-Rekomendasinya bersifat prosedural: pedoman yang jelas dan komprehensif apa pun sikap institusinya, keterlibatan penuh pemangku kepentingan dalam penyusunan, pelatihan proaktif bagi siswa dan fakultas, tata kelola fleksibel yang ditinjau berkala, dan regulasi diri melalui berbagi informasi alih-alih menunggu ABA mendikte kebijakan.
+Rekomendasinya bersifat prosedural: pedoman yang jelas dan komprehensif apa pun sikap institusinya, keterlibatan penuh pemangku kepentingan dalam penyusunan, pelatihan proaktif bagi siswa dan fakultas, tata kelola fleksibel yang ditinjau berkala, dan [[self-regulated-learning|regulasi diri]] melalui berbagi informasi alih-alih menunggu ABA mendikte kebijakan.
 
 ## Mengapa disiplin ini khas
 
 Tiga hal membuat pendidikan hukum lebih dari sekadar satu area mata pelajaran lagi.
+
+Metode kasus adalah salah satu anggota keluarga [[case-based-learning]] yang lebih luas; halaman itu membedakan kasus yang disiapkan dan diskusi kasus dari inkuiri berbasis masalah dan simulasi.
+
 
 **Validitas penilaian tidak terpisahkan dari kompetensi profesional.** [[cognitive-offloading|Over-reliance]] selama sekolah hukum dikhawatirkan membuat lulusan kurang siap untuk pekerjaan yang menuntut analisis hukum dan advokasi independen, dan penilaian yang menghadiahi keluaran lancar tidak dapat membedakan pemahaman seorang siswa dari pemahaman model. Pertanyaan [[assessment-validity|validitas]] karena itu bukan pertanyaan akademis.
 
@@ -99,6 +105,9 @@ Dalam eksperimen berkonteks hukum, 186 pengambil keputusan awam pada perkara per
 - [[governance]] — tata kelola fakultas dan pembuatan kebijakan sebagaimana dipraktikkan sekolah hukum
 - [[educational-policy-ai]] — kebijakan AI institusional sebagai objek kajian
 - [[critical-thinking]] — penalaran yang hendak dibangun metode kasus
+
+- [[case-based-learning]] — metode kasus dan diskusi kasus sebagai pedagogi
+
 - [[socratic-method]] — dialog yang bergantung pada persiapan siswa
 - [[experiential-learning]] — klinik dan pelatihan berbasis praktik
 - [[professional-training]] — keluarga profesi berlisensi yang lebih luas
@@ -110,6 +119,9 @@ Dalam eksperimen berkonteks hukum, 186 pengambil keputusan awam pada perkara per
 ## Artikel terkait
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Perbandingan lima faktor kebijakan AI generatif sekolah hukum dan kerangka tata kelola
+
+- [[lorteau-sarro-ai-legal-education-2025]] — Artificial Intelligence in Legal Education: tinjauan pelingkupan 82 karya (Lorteau & Sarro 2025)
+
 - [[llm-turing-test-italian-legal-exams-2026]] — Uji Turing buta pada ujian advokat, hakim, dan notaris Italia, diukur terhadap penilaian ahli
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Menahan posisi sistem menekan ketergantungan berlebih pada keputusan berkonteks hukum tanpa membangun penilaian (pengambil keputusan awam, bukan mahasiswa hukum)
 - [[xie-genai-mystery-game-legal-education-2026]] — Permainan peran misteri tulisan GenAI versus kuliah: uji acak (Xie et al. 2026)

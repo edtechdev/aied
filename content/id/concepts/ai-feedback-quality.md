@@ -7,7 +7,7 @@ foundations: [ai-literacy]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/ai-feedback-quality"
 source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
@@ -126,7 +126,6 @@ Kualitas umpan balik AI terhubung secara fundamental dengan [[formative-assessme
 Korpus di balik klaim kualitas itu lebih tipis daripada yang disiratkan klaim tersebut. Di antara 51 studi umpan balik tertulis GenAI dalam penulisan bahasa kedua, 16 desain eksperimen tidak menggunakan kelompok kontrol dan hanya 27 melaporkan prompt yang mereka gunakan — sehingga dua dari lima hasil tidak dapat direproduksi atau dibandingkan pada variabel yang paling membentuk keluaran ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Bukti kualitas dalam literatur ini karenanya terakumulasi lebih lambat daripada yang disiratkan volumenya.
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li dan Moorhouse (2026)]] mengkaji jejak penalaran eksplisit DeepSeek sebagai sarana umpan balik, menemukan bahwa penalaran yang terlihat membuat dasar sebuah komentar dapat diperiksa oleh penulis, sementara model tetap menyerahkan penilaian tingkat tinggi, seperti argumentasi, kepada manusia.
-
 
 Jawaban yang benar pada giliran pertama bisa menjadi salah pada giliran ketiga: di antara 11 model, 12.7 persen beralih ke jawaban yang keliru di bawah tekanan otoritas, sehingga kualitas umpan balik harus dinilai sepanjang interaksi alih-alih pada respons pertama ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 

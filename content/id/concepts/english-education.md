@@ -10,9 +10,9 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/english-education"
-source_updated: "2026-10-26T08:45:00-04:00"
+source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Konsep ini mengorganisasi [[research-methods-aied|penelitian]] AI dalam **pendid
 - **Bahasa Inggris akademik (EAP):** dukungan AI untuk bahasa Inggris berbasis genre dan khas disiplin dalam penulisan, membaca, dan umpan balik di pendidikan tinggi — berbeda dari pengajaran menulis umum.
 - **Pengajaran bahasa Inggris (EFL/ESL/L2):** [[intelligent-tutoring|tutor AI]], interlokutor, dan alat [[feedback]] bagi pembelajar yang menguasai bahasa Inggris.
 - **[[assessment]] khas bahasa Inggris:** evaluasi dan umpan balik otomatis atas tulisan dan tuturan Inggris, termasuk revisi penulisan EAP dan penilaian penulisan L2.
-- **Keterbacaan bacaan dan sastra:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] memadukan klasifikasi teks transformer dengan fitur linguistik komputasional untuk mengklasifikasikan sastra Inggris menurut UK Key Stage, dengan F1 0.996 — pelengkap terukur dan berbasis data bagi dukungan membaca EAP berbasis genre dan keselarasan tingkat baca.
+- **[[reading-education|Keterbacaan]] bacaan dan sastra:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] memadukan klasifikasi teks transformer dengan fitur linguistik komputasional untuk mengklasifikasikan sastra Inggris menurut UK Key Stage, dengan F1 0.996 — pelengkap terukur dan berbasis data bagi dukungan membaca EAP berbasis genre dan keselarasan tingkat baca.
 - **Keadilan linguistik:** ketegangan antara dominasi bahasa Inggris dalam AI dan kebutuhan penulis multibahasa serta World Englishes.
 
 ## Bagaimana pendidikan bahasa Inggris berbeda dari Pembelajaran Bahasa
@@ -54,7 +54,7 @@ Konsep ini mengorganisasi [[research-methods-aied|penelitian]] AI dalam **pendid
 | Dimensi | [[language-learning]] | **Pendidikan bahasa Inggris (halaman ini)** |
 |-----------|----------------------|-----------------------------------|
 | Bahasa target | L2 apa pun (Prancis, Spanyol, Jepang, …) | Bahasa Inggris khususnya |
-| Fokus | Akuisisi L2 umum: dialog lisan, pelafalan, literasi | Bahasa Inggris sebagai target + register akademik |
+| Fokus | Akuisisi L2 umum: [[speech-and-voice-technologies|dialog lisan]], pelafalan, literasi | Bahasa Inggris sebagai target + register akademik |
 | Konteks khas | Percakapan, pelafalan, kefasihan umum | **EAP**: penulisan akademik, membaca, umpan balik, genre |
 | AI representatif | Interlokutor L2, [[speech-and-voice-technologies|umpan balik pelafalan]], L2 berbantuan robot | Alat penulisan EAP, umpan balik sejawat EFL, penilaian penulisan akademik Inggris |
 
@@ -84,18 +84,18 @@ Banyak artikel pendidikan menulis berorientasi Inggris lebih dulu (misalnya [[ma
 
 Dominasi bahasa Inggris dalam AI adalah ciri penentu untaian ini. Karena model paling kuat dalam bahasa Inggris dan khususnya bahasa Inggris akademik standar, pendidikan bahasa Inggris diuntungkan secara tidak proporsional (perancah EAP kuat) sekaligus menanggung risiko khas (bias monolingual, diskriminasi terhadap World Englishes dan penulis multibahasa). Penelitian di sini terhubung dengan [[equity-in-ai-education|keadilan]], [[bias-mitigation|mitigasi bias]], [[automated-assessment|penilaian otomatis]], [[ai-feedback-quality|kualitas umpan balik AI]], dan [[academic-integrity|integritas akademik]].
 
-Sintesis Scopus atas 54 studi EFL menempatkan [[limitations-in-aied-research|keterbatasan]] terbanyak yang dilaporkan bidang ini pada kemandirian pembelajar: [[cognitive-offloading|ketergantungan berlebih]] pada AI di 27 studi (50%) dan berkurangnya [[critical-thinking|berpikir kritis]] di 25 (46%), dibanding keluaran AI tak andal di 22 (41%) sebagai masalah teknis utama ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+Sintesis Scopus atas 54 studi EFL menempatkan [[limitations-in-aied-research|keterbatasan]] terbanyak yang dilaporkan bidang ini pada [[agency|kemandirian]] pembelajar: [[cognitive-offloading|ketergantungan berlebih]] pada AI di 27 studi (50%) dan berkurangnya [[critical-thinking|berpikir kritis]] di 25 (46%), dibanding keluaran AI tak andal di 22 (41%) sebagai masalah teknis utama ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
 
 ## Implikasi bagi instruktur bahasa Inggris / EAP / EFL-ESL
 
 - **Manfaatkan kekuatan AI untuk bahasa Inggris akademik secara sengaja.** Karena model paling kuat dalam bahasa Inggris dan bahasa Inggris akademik standar, instruktur EAP dapat memakai AI untuk penulisan berbasis genre, diferensiasi materi bacaan ([[genai-differentiated-eap-reading-materials-2026|materi EAP]]), dan umpan balik revisi — tetapi bingkai AI sebagai mitra penyusunan draf/umpan balik, bukan mesin jawaban.
-- **Lindungi register bahasa Inggris akademik dan literasi umpan balik.** [[feedback-literacy-scripts-eap-writing|Revisi penulisan EAP]] menunjukkan umpan balik hanya seproduktif literasi umpan balik pembelajar — ajari siswa menafsirkan, menilai, dan bertindak atas umpan balik AI, serta pakai mekanisme penilai kedua untuk memeriksa kualitas AI.
+- **Lindungi register bahasa Inggris akademik dan [[feedback-literacy|literasi umpan balik]].** [[feedback-literacy-scripts-eap-writing|Revisi penulisan EAP]] menunjukkan umpan balik hanya seproduktif literasi umpan balik pembelajar — ajari siswa menafsirkan, menilai, dan bertindak atas umpan balik AI, serta pakai mekanisme penilai kedua untuk memeriksa kualitas AI.
 - **Amati ketegangan keadilan akibat dominasi bahasa Inggris.** Model memprioritaskan bahasa Inggris akademik standar, meminggirkan World Englishes dan penulis multibahasa ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audit umpan balik untuk bias monolingual dan ekspektasi yang diturunkan.
 - **Integrasikan AI secara etis ke dalam EAP.** [[alharbi-ethical-genai-eap-2026|GenAI etis dalam EAP]] menyerukan penggunaan transparan dan bertanggung jawab dalam pengajaran bahasa Inggris di [[higher-ed]] yang menjaga integritas akademik.
 - **Harapkan adopsi yang hati-hati dan mengutamakan persiapan.** [[li-language-educators-genai-review-2026|Tinjauan sistematis atas 23 studi]] (Li et al. 2026) menemukan pendidik bahasa paling menghargai [[generative-ai|GenAI]] untuk persiapan di balik layar — perencanaan pelajaran, pembuatan materi, dukungan/umpan balik penulisan — sementara ragu memakainya langsung di kelas, dengan kekhawatiran utama pada [[academic-integrity|integritas akademik]] (plagiarisme dan [[assessment-validity|validitas penilaian]]). Adopsi dibentuk faktor identitas profesional, [[pedagogy|pedagogis]], teknis, [[governance|institusional]], dan integritas; celah kompetensi memetakan ke episteme (kapabilitas/batas AI), techne ([[prompt-engineering|rekayasa prompt]], desain tugas/penilaian ber-AI, deteksi teks buatan AI), dan phronesis (pertimbangan [[ethics|etis]], bias/privasi) — jadi instruktur EAP/EFL perlu membangunnya secara sengaja dan merencanakan penerapan "layanan pendukung dahulu, kelas kemudian".
 - **Diferensiasikan menurut kemahiran dan kebutuhan.** [[ai-vs-human-assessment-efl-tpck-2026|Penilaian EFL]] dan penelitian tutoring adaptif mendukung penyesuaian dukungan dan evaluasi AI dengan tingkat pembelajar alih-alih satu ukuran untuk semua.
 
-- **Bobotkan teknologi ke arah produksi.** Meta-analisis 33 studi TEFL menemukan efek keseluruhan kecil hingga sedang (g = 0.38, turun menjadi 0.28 setelah trim-and-fill) yang meningkat seiring jenjang pendidikan dan lebih menyukai keterampilan produktif — berbicara dan menulis — daripada yang reseptif ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+- **Bobotkan teknologi ke arah produksi.** Di 33 studi TEFL, estimasi gabungannya kecil hingga sedang (g = 0.38, turun menjadi 0.28 setelah trim-and-fill) dan meningkat seiring jenjang pendidikan, lebih menyukai keterampilan produktif — berbicara dan menulis — daripada yang reseptif ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
 ## Miskonsepsi Umum
 
@@ -108,6 +108,7 @@ Sintesis Scopus atas 54 studi EFL menempatkan [[limitations-in-aied-research|ket
 
 - [[language-learning]]
 - [[writing-education]]
+- [[reading-education]]
 - [[multilingual-learning]]
 - [[higher-ed]]
 - [[k-12]]
