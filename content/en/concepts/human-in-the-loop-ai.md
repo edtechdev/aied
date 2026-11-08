@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T08:41:46-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -101,6 +101,8 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Cost-quality substitution: automated threads matched human threads, with a targeted review residue.** [[ravi-llm-conversation-threads-collaborative-learning-2026|Ravi et al. (2026)]] found that LLM-generated conversation threads reached a Cohen's kappa of 0.6395 against 0.6239 for human threads (sliding-window condition) at under \$1 versus roughly \$25 per transcript, so automation matched the human reliability target rather than an unreachable ceiling. The human's marginal value concentrates at the thread types models nearly fail — topic transitions (kappa 0.2567) and self-continuations (0.4309) — where the authors recommend targeted human correction alongside automated threading.
 - **HITL as an architecture for a whole discipline, not one workflow.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] specify four interlocking layers, data infrastructure, model development, pedagogical interface and human governance, held together by three principles: human oversight and agency, co-adaptive intelligence, and contextual responsiveness.
 
+A check placed after generation is not a process a human authored: when the learner designs the prompts and verifies output, the loop governs substitution; when the system does, the same label describes review of a machine's plan ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+
 ## Synthesis
 
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
@@ -177,3 +179,4 @@ How strong that safeguard is depends on [[automation-bias]]. A merely formal opp
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's preferred answer cut deferral to incorrect AI advice, protectively rather than correctively
+- [[capodieci-humanities-hil-2026]] — Separates where a human check sits from who authored the process, in humanities learning (Capodieci et al. 2026)

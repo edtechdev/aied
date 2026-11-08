@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T15:25:17-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -120,6 +120,8 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 
 The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] add demand-side evidence from a Swedish social science faculty: 31% of survey and focus-group participants raised ethics unprompted, most wanted more institutional guidance, and genAI's environmental consequences were absent from policy documents altogether.
 
+Funders form a policy layer of their own: of 46 bodies with AI guidance, 12 attached rules to funding specifically, and none of those funding instruments carried the governance provisions their general policies stated ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Common Misconceptions
 
 - **"Universities have real AI policy."** **Legal form is rarer than legal language.** In a **160-document scoping review**, **2.5% of instruments carried legal force while 57.5% were guidance or toolkits**. Nearly a quarter of a hundred documents' worth of AI governance is non-binding guidance.
@@ -183,3 +185,4 @@ The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-e
 - [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — England's EdTech Impact Testbed as anticipatory governance: pilots that produce promissory evidence (Williamson et al
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Procurement sets the data environment before pedagogy
+- [[chan-ai-policy-gap-2026]] — 56 documents from 46 funders: a research-funder policy layer with 12 funding-specific instruments (Chan 2026)

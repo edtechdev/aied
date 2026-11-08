@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-04T15:58:10-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -41,6 +41,8 @@ Civic and political education is a sibling subject area to these disciplines rat
 ### Why it matters
 
 SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The knowledge base treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+
+Humanities teaching has begun using agentic AI for source assembly and drafting, which moves the discipline's assessment question from whether text was generated to whether interpretation can be attributed to the student ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
 
 ## Implications for humanities and social-science instructors
 
@@ -84,4 +86,4 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
 - [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
-
+- [[capodieci-humanities-hil-2026]] — Agentic AI in humanities learning, and the shift from authorship of text to attribution of interpretation (Capodieci et al. 2026)

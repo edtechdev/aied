@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -57,6 +57,8 @@ Teacher-side theorizing now makes the same testability commitment: the Capabilit
 - **Human-GAI [[student-engagement|engagement]] paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, [[equity-in-ai-education|equity]]) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.
 - **The Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argues that [[generative-ai|generative AI]] reassigns epistemological authority from teachers to students to machines, and introduces a framework defining co-agency through three interdependent dimensions — relational, regulatory (mapped onto the [[self-regulated-learning|SRL cycle]]), and [[pedagogy|pedagogical]] (teacher adoption continuum) — all bounded by a non-negotiable condition of human epistemic accountability (contestability, provenance, and non-delegation of moral/intellectual credit). It positions [[agency]] as an *epistemic* design problem rather than a [[usability-research|usability]] concern, giving institutions a more precise language than "balance" for governing GenAI integration.
 - **Relational epistemic agency and epistemic dependence.** [[du-yuan-epistemic-dependence-2026|Du & Yuan (2026)]] contribute a critical-integrative account of when AI-mediated reliance preserves versus displaces judgment. They operationalize the productive-reliance/harmful-dependence boundary through six diagnostic criteria (contestability, recoverability, transfer, traceability, distributed responsibility, epistemic plurality) and trace four sociotechnical pathways (fluent authority, frictionless delegation, opaque synthesis, institutionalized dependence). Their normative proposal, **relational epistemic agency**, extends relational-autonomy and epistemic-co-agency lines by retaining an explicit asymmetry — AI may shape reasoning without reciprocal responsibility or legitimate authority — while integrating responsibility and epistemic justice at the institutional level. As a theory of learning with AI, it moves the field's question from whether AI helps or harms to which epistemic actions are preserved, transformed, or displaced, and it makes the *design of dependence* rather than mere use the object of pedagogical and institutional intervention.
+
+The model's output rises to the status of collective knowledge without the community warrant that status requires — what Webb et al. (2026) call pseudo-cPCK, and the reason the field needs a new theoretical construct rather than a better interface ([[webb-pck-genai-2026|Webb et al., 2026]]).
 
 ## Advancing established theory
 
@@ -158,3 +160,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing
 - [[page-cognitive-partnership-cycle-human-ai-2026]] — Cognitive partnership cycle
 - [[friction-paradox-generative-ai-education-abroad-2026]] — Desirable difficulties and productive failure applied to interpretive agency in education abroad
+- [[webb-pck-genai-2026]] — Three vignettes and a new construct, pseudo-cPCK, for output that mimics collectively validated knowledge without warrant (Webb et al. 2026)

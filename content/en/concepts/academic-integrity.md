@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T17:10:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -167,6 +167,8 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 
  The OECD (2023) records that as of early 2024 none of eighteen surveyed countries had specific generative AI regulation for education and nine had delegated governance to the school level. Read through Ahmed's non-performativity, the vocabulary expresses ethical responsiveness without any mechanism to enact it, so responsibility is invoked by every actor at once and located in none. Hashem names the result a changing **cheating habitus**: dispositions toward legitimate participation recalibrated under chronic indeterminacy, stratified by the academic capital students bring, with cheating and being cheated treated as concurrent conditions rather than alternatives. All of it is proposed from policy text, not observed in students.
 
+Across 546 undergraduates, integrity ranked first among five perception dimensions (3.79 of 5) and did not differ by degree program, locating disciplinary variation in AI use and skill demand rather than in how much integrity matters ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
@@ -242,3 +244,4 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
 - [[issa-teamwork-framework-academic-integrity-2024]] — teamwork assessment with per-member verification as an authentication design (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — Answerability rather than text proportion as the integrity problem
+- [[crisol-moya-integrity-assessment-2026]] — 546 students: integrity ranks first and is flat across degree programs (Crisol Moya et al. 2026)

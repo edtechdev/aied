@@ -1,7 +1,7 @@
 ---
 title: "Teacher Education"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -96,6 +96,8 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Make classroom policy writing a core teacher-education activity, and treat ambiguity as a policy defect.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] found that asking preservice teachers to write their own classroom AI policies functions as rhetorical world-building about what writing is for — a window into emergent beliefs that abstract discussion does not open. Because AI separates writing-as-product from writing-as-process, programs should help teachers locate where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing rather than locating thinking only in final text, and should support them in translating beliefs into operational, unambiguous rules paired with [[ai-literacy]] instruction: contradictions such as barring AI-generated text while holding students responsible for the AI-generated content they submit leave students unable to comply.
 - **Teach teachers to read the primary research behind AI policy.** A six-week graduate research-methods course aimed at research consumption rather than production: one teacher applied the critical-evaluation framework to a district-mandated curriculum and presented the analysis to her principal, and several adopted [[socratic-method|Socratic questioning]] with their own students [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+Because a model amplifies whatever personal PCK a teacher already holds, novices are the group most exposed to confident but unwarranted subject-specific advice, which makes mentoring and departmental verification the developmental remedy rather than individual AI-literacy modules ([[webb-pck-genai-2026|Webb et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Acceptance of AI among pre-service teachers is a single attitude."** **128 pre-service teachers** were profiled into four ChatGPT-acceptance groups including **Resistant Skeptics (14.06%), who reported high perceived ease of use but very low behavioral** intent. Ease of use and intention came apart in that group, so a [[usability-research|usability]]-driven intervention would leave them unchanged.
@@ -157,3 +159,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
 - [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Pre-service teachers as the learners: groups that disagreed about energy made the AI a center of conceptual talk, groups that agreed treated it as a lookup and resented proactive nudges (Wang et al. 2026)
+- [[webb-pck-genai-2026]] — Why a model amplifies a novice's thin PCK, and why the remedy is collective rather than an AI-literacy module (Webb et al. 2026)

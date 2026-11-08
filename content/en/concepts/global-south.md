@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -52,6 +52,8 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] argue from a South African Grade 9 classroom that restriction-first [[educational-policy-ai|institutional policy]] forecloses the conditions under which AI might extend rather than substitute for teachers under pedagogical scarcity, and that interaction data learners generate is held under foreign governance regimes.
 
+Access can saturate before capability does: among 633 students at eight Beninese universities, 92.3 percent used generative AI weekly and workload rather than perceived usefulness drove adoption, so the divide is no longer mainly about reaching the tool ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"Low-resource contexts lack an AI ethics framework and need one imported."** In-service secondary STEAM teachers in a low-resource context **reason about AI ethics through professional identity, classroom realities and cultural norms rather than formal principles**. The reasoning exists and is situated; a universal principle list transfers poorly onto it.
@@ -89,3 +91,4 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
 - [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
+- [[gouroubera-genai-benin-2026]] — 633 students in Benin: weekly use 92.3 percent, workload the dominant driver, so access is no longer the binding constraint (Gouroubera et al. 2026)

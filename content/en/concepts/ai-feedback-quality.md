@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -117,6 +117,8 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 
 [[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] examine DeepSeek's explicit reasoning traces as a feedback affordance, finding that visible reasoning makes the basis of a comment inspectable by the writer, while the model still routes higher-order judgment, such as argumentation, to the human.
 
+A reply correct on the first turn can be wrong by the third: across 11 models, 12.7 percent flipped to an incorrect answer under authority pressure, so feedback quality has to be scored across an interaction rather than at first response ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
+
 ## Common Misconceptions
 
 - **"Students find AI feedback acceptable, so it is good."** **Student-perceived quality is more mixed than acceptability suggests**: **77 of 93 undergraduates found AI feedback easy to understand, yet 68 found it repetitive and 79** found something else wanting. Comprehension and dissatisfaction coexisted in the same cohort.
@@ -184,3 +186,4 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 - [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Three evaluation dimensions across 68 studies, with rubric alignment the thin one (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Criterion-level and rater-level divergence in 157 rated feedback messages (Vanhoyweghen et al. 2026)
+- [[liu-educational-sycophancy-2026]] — Correctness is interaction-dependent: a 12.7 percent flip rate under pushback (Liu & Korolova 2026)

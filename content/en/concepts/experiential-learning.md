@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -52,6 +52,8 @@ educative. Consistent with this, [[prompt-engineering|prompting]] alone did not 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
 Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from [[career-development-and-readiness|Workforce Readiness]] Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+Across 26 community-engaged studies, AI concentrated in preparation (18) and action (15) and thinned at evaluation (8) and reflection (3), so the cycle's later, integrative phases remain the design gap in service-learning ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## Common Misconceptions
 
@@ -109,3 +111,4 @@ Work-integrated experience can be the binding condition for advanced competence:
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
 - [[metacognitive-awareness-experiential-vs-instructional-2026]] — Experiential versus instructional sessions for metacognitive awareness in AI-assisted learning (Benazet i Montobbio et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26 studies mapped onto the service-learning cycle: AI thins out at evaluation and reflection (Yusuf et al. 2026)

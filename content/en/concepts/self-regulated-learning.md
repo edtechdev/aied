@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T14:45:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -161,6 +161,8 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 
 Which support is in play decides which mediator carries the association: among 3,003 Chinese pre-service teachers, perceived AI tool support ran to innovative competence mainly through AI [[self-efficacy]] (60.88% of that path's total effect), while perceived school-based intelligent environment support ran mainly through self-regulated learning (29.64% versus 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
 
+Students reported more procrastination (β = 0.525) alongside perceived performance gains, which separates delaying study work because AI is available from delaying it with AI's help — a distinction a single self-regulation score cannot carry ([[gouroubera-genai-benin-2026|Gouroubera et al., 2026]]).
+
 ## Implications
 
 - **For journaling/chatbot tools:** Combine SRL instruction (course-based) with optional writing support to get both motivation and engagement gains
@@ -258,3 +260,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — An AI TA as first responder displaced peer replies, and with them the co-regulation that amplified the grade value of self-regulation (Davis et al. 2026)
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Preconception diversity changed how a metacognitive prompt landed: same prompt functions, opposite sustained evaluation of the AI output (Wang et al. 2026)
+- [[gouroubera-genai-benin-2026]] — Procrastination rose with use (β = 0.525) beside perceived gain, separating delay enabled by AI from delay merely about AI (Gouroubera et al. 2026)

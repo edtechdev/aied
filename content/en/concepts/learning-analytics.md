@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -118,6 +118,8 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 
 Dashboards and early-alert systems concentrate the risk of [[automation-bias]]: a flag asserts a judgment that a person may accept because it exists rather than because it was checked.
 
+Holding the multimodal indicators constant and adding only a narrative explanation raised pre-service teachers' interpretation (η² = 0.166) and meaning construction (η² = 0.220), while actionable transformation did not move — the interpretation layer, not the data, was the bottleneck ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 ## Common Misconceptions
 
 - **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analyzed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
@@ -188,3 +190,4 @@ Dashboards and early-alert systems concentrate the risk of [[automation-bias]]: 
 - [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse
 - [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
+- [[liu-teaching-analytics-dashboard-2026]] — Active-control microteaching study isolating the explanation layer: interpretation moved, action did not (Liu et al. 2026)

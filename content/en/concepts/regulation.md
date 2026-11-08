@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -50,6 +50,8 @@ An audit of [[edtech-platform|EdTech platform]] privacy policies gives that depe
 
 Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], and [[academic-integrity]]. It is the institutional layer that shapes how all other AI education practices operate. Regulation both constrains and enables: it sets the boundaries of acceptable AI use while creating the conditions — through [[ai-literacy]] and responsible-use expectations — for [[equity-in-ai-education|equitable]], safe integration.
 
+Regulation does not translate downward automatically: 32 funding bodies operating where state-level AI rules exist published general policies but no funding-specific instrument carrying those rules ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Common Misconceptions
 
 - **"Institutional AI policy is where the rules live."** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie's (2026)]] survey of **1,057 US faculty** measures how far below the institutional layer the effective rules sit: **87% of respondents wrote** their own guidance. The operative policy is largely faculty-authored, which means the documented institutional layer describes less than it appears to.
@@ -94,3 +96,4 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — No comparator policy addressed an AI agent logging into an LMS or holding student credentials (Wong & Sun 2026)
+- [[chan-ai-policy-gap-2026]] — Vertical non-translation: state rules exist while the funders under them issue no binding instrument (Chan 2026)

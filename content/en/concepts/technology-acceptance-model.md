@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-05T09:35:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -71,6 +71,8 @@ Adding a [[tpack|TPACK]]-family capability alongside belief frameworks such as t
 
 - **[[explainable-ai|Explainability]] and domain relevance as acceptance levers for teachers:** Adapting trust-in-automation theory to teacher acceptance of AI recommendations, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that understandability (raised by explainable AI) correlated positively with both trust and acceptance of an AI grouping tool, and that domain-driven explanations in [[curriculum-design|curricular]] language outperformed data-driven feature-importance ones on all three. Acceptance was additionally driven by [[pedagogy|pedagogical]] alignment and workload-reduction potential — situational factors beyond trust that standard TAM/UTAUT constructs rarely capture, reinforcing the case for extending adoption models with context and explainability.
 - **Acceptance measured at the level of instructional materials (2026).** [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]] operationalized Performance Expectancy, Effort Expectancy, Perceived Playfulness, and Behavioral Intention for two age-tiered AI literacy guidebooks used by 794 [[k-12]] students and 37 teachers, validating the four-factor structure with split-sample EFA and CFA and supporting measurement invariance across the 9-12 and 13-18 editions. Younger learners reported higher levels on all four constructs, and playfulness was the strongest correlate of intention in both cohorts — with the standardized playfulness-to-intention coefficient exceeding 1.00 in the younger group and an HTMT of .950 between the two constructs. The authors read that as construct overlap and possible suppression rather than a giant effect, a useful reminder that acceptance instruments applied to materials can produce empirically entangled factors that complicate structural interpretation.
+
+In a two-wave interview study of 22 faculty, learning more about AI made some more cautious rather than more accepting, reversing the model's assumed direction from experience to ease of use ([[stalboerger-faculty-perceptions-2026|Stalboerger et al., 2026]]).
 
 ## Limits and extensions
 
@@ -154,3 +156,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — TAM joined with Task–Technology Fit, plus neural-network importance ranking and necessary-condition thresholds (Chu & Liu 2026)
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
 - [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
+- [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)

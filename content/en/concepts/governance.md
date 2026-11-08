@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-04T15:25:17-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -111,6 +111,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - **Governance can be designed into the tool.** A six-dimension governance profile - [[pedagogy|pedagogical]] grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and [[visualization|dashboards]]. It asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **A human-centered framework puts interpretation, not the tool, at the center.** At a mission-driven liberal arts college, faculty used a generative-AI-supported Assessment Wizard during a structured Education Day, and the authors conclude that human judgment must stay the non-negotiable interpretive authority, with verification checkpoints and governance in place before broad implementation ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). The sequence is formation and verification first, scale second.
 
+Governance provisions appeared only in general policy documents and never in the funding-specific instruments that bind applicants, so a funder can govern AI in principle while imposing nothing on the research it pays for ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
 ## Common Misconceptions
 
 - **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realized mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
@@ -177,3 +179,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — AI prototypes and school pilots as governance machinery that prefigures a chosen future (Williamson et al
 - [[li-su-teacher-genai-decision-making-2026]] — A proposed path from governance clarity to teacher decision episodes
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
+- [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)

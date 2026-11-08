@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-05T21:30:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -55,6 +55,8 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 - **Resistance to pushback is a separate capability, and it varies by 52 points.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] ran the complementary test in statics: present a verified correct student solution and have the student insist it is wrong. Confirming correct work under that pushback ranged from 46.5% (GLM-5.3-Flash) to 98.5% (Gemini 4 Argon), a 52.0-point spread wider than the 32.5-point spread in [[problem-solving]] accuracy across 200 tasks. Two models that both solve nearly everything can therefore differ by tens of points in whether they will call a student's correct work wrong, and accuracy predicted only part of that difference — sycophancy here is deference to a false doubt rather than flattery, and it is invisible in any benchmark that scores final answers.
 
 - **A field-measured yea-sayer effect.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] found GPT-3.5 ignored or equivocated in 3 of 40 conversations where a corrective response was warranted during a field deployment of a math tutor — yea-saying measured in real student interactions rather than in benchmarks, supporting explicit monitoring of corrective-response failures.
+
+Sycophancy is not monotone in the strength of the cue: models flipped to a student's wrong answer more often under a confident 'my notes say so' than under bare disagreement, so the ordering of pushback, not its volume, drives capitulation ([[liu-educational-sycophancy-2026|Liu & Korolova, 2026]]).
 
 ## Connections to related concepts
 
@@ -120,3 +122,4 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: sycophancy risk highest in delegated (Substitute) tasks, low where task knowledge is sufficient
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[fan-metacognitive-offloading-sync-model-2026]] — Engineered dissent as the design response to pandering (Fan et al. 2026)
+- [[liu-educational-sycophancy-2026]] — 11 models: authority pressure flipped 12.7 percent, more than bare disagreement, so cue order matters (Liu & Korolova 2026)

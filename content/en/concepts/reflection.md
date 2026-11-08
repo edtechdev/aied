@@ -1,7 +1,7 @@
 ---
 title: Reflection
 created: "2026-11-04T14:20:00-05:00"
-updated: "2026-11-04T13:05:00-05:00"
+updated: "2026-11-08T09:30:45-05:00"
 type: concept
 foundations: [ai-literacy, academic-integrity]
 pedagogy: [reflection, metacognition, self-regulated-learning, scaffolding]
@@ -90,6 +90,8 @@ The corpus is severely skewed: 68% of essays sit at level 3 and only 1.8% at lev
 
 The measurement lesson is narrower than it looks. A classifier estimates how reflective a text reads. It cannot tell whether the reflection happened, and it is exactly the level of performance a fluent model can imitate.
 
+The same dashboard scaffold lifted analytic and evaluative depth in reflective writing (η² = 0.623 and 0.627) while leaving description and action planning flat, so a scaffold can deepen how a teacher reasons about a lesson without changing what they plan to do next ([[liu-teaching-analytics-dashboard-2026|Liu et al., 2026]]).
+
 ## Journals, portfolios and prompts as delivery systems
 
 The construct is usually delivered by three vehicles, and each has its own failure mode.
@@ -107,6 +109,8 @@ For teachers the construct doubles as [[educational-development|professional dev
 [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] add the process view from 18 teachers in mainland China and Hong Kong, whose accounts resolve into recognizing the need to use GenAI, redistributing cognition, and reflectively re-engaging after use. [[reflective-triangle-model-teacher-ai-2026|The Reflective Triangle Model (2026)]] connects self-reflection, collaborative reflection and community reflection across a professional learning community in a four-week case with six teachers, with AI as a cognitive mediator rather than an evaluator.
 
 Preparation also matters independently of the tool. [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] crossed metacognitive strategy training against a placebo module with an LLM configured as a [[socratic-method|Socratic]] reflection partner versus traditional digital tools, in a 2 × 2 design with 60 pre-service teachers. Both main effects were significant for written reflection quality at post-test.
+
+In a mapping of 26 AI-in-service-learning studies, reflection was the least-served phase — three studies reached it and one covered all four — so the phase that turns service into learning is where AI support is thinnest ([[yusuf-service-learning-mapping-2026|Yusuf et al., 2026]]).
 
 ## The risk that a reflection prompt replaces the monitoring it means to build
 
@@ -196,3 +200,5 @@ A starter prompt that survives most of the failure modes above: *(1) What did yo
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Position paper: no evidence that reflection prompts build durable self-monitoring (de Jong 2026)
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — 16-week WordPress e-portfolios with GenAI as feedback provider and synthesizer (Ni & Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment, Wilks' λ = 0.476, partial η² = 0.524 (Sutama 2026)
+- [[liu-teaching-analytics-dashboard-2026]] — One scaffold raised analytic and evaluative depth while action planning stayed flat (Liu et al. 2026)
+- [[yusuf-service-learning-mapping-2026]] — 26-study mapping: reflection is the least-served phase of the service-learning cycle (Yusuf et al. 2026)
