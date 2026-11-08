@@ -1,7 +1,7 @@
 ---
 title: כישלון פרודוקטיבי
 created: "2026-10-12T19:30:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-11-07T13:20:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ ai_assist:
 - **מכין את הלומדים ללמוד מן ההוראה** — הם יודעים מה הם אינם יודעים, ויכולים לחבר חומר חדש לנסיונותיהם.
 - **משפר העברת ידע ומיומנויות עמידות** ([[critical-thinking|חשיבה ביקורתית]], חוסן, תקשורת), מפחית פחד מטעויות, ומקדם גישות חיוביות ללמידה.
 
-מסגרת PF הורחבה באמצעות תכנונים קשורים הכוללים **כישלון חיקויי** (vicarious failure), **גיוון פתרונות** (solution diversity) ו**הכוונה אדפטיבית** (adaptive guidance) (Braas et al., 2025; Brand et al., 2025).
+מסגרת PF הורחבה באמצעות תכנונים קשורים הכוללים **כישלון חיקויי** (vicarious failure), **גיוון פתרונות** (solution diversity) ו**הכוונה אדפטיבית** (adaptive guidance) (Braas et al., 2025; Brand et al., 2025). מקרים יכולים לספק את מרחב-הבעיה המשותף לניסיון הראשון הזה, אם כי בסיס-הראיות של למידה מבוססת-מקרה טרם בחן את הצימוד ישירות ([[case-based-learning]]).
 
 ## למידה מטעויות ולמידה משגיאות
 
@@ -107,6 +107,7 @@ ai_assist:
 - [[learning-theories]]
 - [[desirable-difficulties]]
 - [[problem-based-learning]]
+- [[case-based-learning]] — מקרים כמרחב-בעיה משותף לניסיון הראשון
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]
@@ -131,3 +132,4 @@ ai_assist:
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — עיכוב פתרונות נמנע ממחיר התסכול אך הפסיד בהעדפת הסטודנטים
+

@@ -1,7 +1,7 @@
 ---
 title: אנליטיקת חיישנים ומבט
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-04T16:09:41-05:00"
+source_updated: "2026-11-05T22:30:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ ai_assist:
 מתאם עצבי אינו ציון. תמונות משוחזרות מ-EEG התכתבו עם ביצועים במבחן ברמה של R² = 0.79 על פני 55 תצפיות של משתתף-סרטון. פריטים שנענו נכון הראו גם דמיון סמנטי גבוה יותר מאלה שנענו בטעות. ובכל זאת משתתף אחד הפיק שחזורים באיכות גבוהה וענה בטעות, ולכן איכות השחזור אינה ניתנת לקריאה כנכונות ([[seeing-cognitive-representations-eeg-reconstruction|Su et al., 2026]]).
 
 קשב אינו למידה. ב-TutorLoop, קשב התכתב עם למידה ב-r = 0.017, בעוד שעומס התכתב איתה שלילית ב-r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). מערכת שממקסמת את אות הקשב הייתה מייעלת משהו הקרוב לרעש.
+
+חיישן יכול לתעד נוכחות משותפת במקום שבו מחקר טוען לאינטראקציה: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] מצאו שגלאי מבוסס-תנוחה הגיע רק ל-55% שחזור, ולכד 11 מתוך 20 אירועים שמקודדים אנושיים זיהו באינטראקציות קבוצה של מורה-תלמיד. המורה היה נוכח בתוך גבול הקבוצה ב-49.2% מהמקטעים המקודדים בעוד שתלמידים הסתכלו על המורה רק ב-25.4%, ושום תכונת שמע לא השתנתה בשתי ההשוואות, ולכן הצינור רשם נוכחות מרחבית משותפת ולא אינטראקציה מתמשכת.
 
 פרופיל פיזיולוגי אינו אבחנה. מודלי לחץ בבחינות חוזים קטגוריית ציון מעוררות ומתנועה, והמחברים מתעקשים שהפלט שייך לצד נסיבות אישיות והקשר של בריאות הנפש, ולא בתוך החלטה בעלת השלכות כבדות ([[physiological-signals-exam-outcomes-ml|Yamazaki and Rimal, 2026]]).
 

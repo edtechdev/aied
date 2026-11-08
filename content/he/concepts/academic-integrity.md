@@ -1,7 +1,7 @@
 ---
 title: יושרה אקדמית
 created: "2026-10-12T20:00:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-08T11:34:07-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-08T09:30:45-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -183,6 +183,9 @@ ai_assist:
 
 ה‑OECD (2023) מתעד שבתחילת 2024 אף אחת משמונה-עשרה מדינות שנסקרו לא החזיקה ברגולציה ספציפית לבינה מלאכותית גנרטיבית בחינוך, ותשע האצילו את הממשל לרמת בית הספר. בקריאה דרך מושג אי-הביצועיות של אחמד, אוצר המילים מבטא היענות אתית ללא מנגנון לאכיפתה, ולכן האחריות נדרשת על-ידי כל שחקן בעת ובעונה אחת ואינה ממוקמת אצל אף אחד. Hashem מכנה את התוצאה **הביטוס רמאות** משתנה: נטיות להשתתפות לגיטימית שמכויילות מחדש תחת אי-ודאות כרונית, מרובדות לפי ההון האקדמי שהסטודנטים מביאים, כאשר רמאות והירמאות נתפסות כתנאים מקבילים ולא כחלופות. כל זה מוצע מתוך טקסט מדיניות, ולא נצפה בסטודנטים.
 
+בקרב 546 סטודנטים לתואר ראשון, יושרה דורגה ראשונה מבין חמישה ממדי תפיסה (3.79 מתוך 5) ולא השתנתה לפי תכנית לימודים, מה שממקם את השונות בין תחומי הדעת בשימוש בבינה מלאכותית ובביקוש למיומנויות ולא במידת חשיבותה של היושרה ([[crisol-moya-integrity-assessment-2026|Crisol Moya et al., 2026]]).
+
+
 ## תפיסות מוטעות נפוצות
 
 - **"כלי זיהוי מזהים כתיבה של AI."** טקסט שנוצר בבינה מלאכותית **עבר ככתיבה אנושית בעד 80% מהמקרים**, בעוד שהראיות לזיהוי מציבות את **זיהוי המכונה בכ-80% לעומת 78.4% עבור מדרגים אנושיים**. שיפוט אנושי ומכונתי כמעט שווה באי-אמינותו, ולכן פסק זיהוי אינו ראיה למחברות.
@@ -258,3 +261,4 @@ ai_assist:
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: ממשק קריאה קריא לאדם ומעכב מכונה
 - [[issa-teamwork-framework-academic-integrity-2024]] — עבודת צוות עם אימות לכל חבר כאבן יסוד של אימות מחברות (Issa & Hall 2024)
 - [[hong-authorship-legitimation-deficit-human-ai-co-creation-2026]] — אחריותיות ולא שיעור טקסט כבעיית היושרה
+- [[crisol-moya-integrity-assessment-2026]] — 546 סטודנטים: יושרה מדורגת ראשונה ואחידה בין תכניות לימודים (Crisol Moya et al. 2026)

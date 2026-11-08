@@ -1,13 +1,13 @@
 ---
 title: טכנולוגיות
 created: "2026-10-12T19:05:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-26T02:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 - **מודלים לשוניים גדולים (LLMs).** עמוד המודלים של רוב מערכות [[ai-education|AIED]] המודרניות — [[llm|מודלים לשוניים גדולים]] מייצרים טקסט דמוי-אנושי לחונכות, להערכה וליצירת תוכן, והם הטכנולוגיה המצוטטת ביותר במאגר הידע. [[llm-training-and-fine-tuning|אימון וכיוונון עדין]] מתאים מודלים כלליים לשימוש חינוכי.
 - **בינה מלאכותית יוצרת.** הקטגוריה הרחבה יותר של מערכות המייצרות טקסט, קוד, תמונות ותוכן אחר — [[generative-ai|בינה מלאכותית יוצרת]] (המונעת בעיקר על ידי מודלים לשוניים גדולים) היא הטכנולוגיה שמאחורי גל המחקר הנוכחי ב[[ai-education|AIED]]. ראו גם [[multimodal|מודלים רב-מודאליים]] (טקסט, תמונה, שמע) ו[[simulation]].
-- **רובוטים ומערכות מגולמות.** [[educational-robotics|רובוטים בחינוך]] מוסיפים נוכחות מגולמת ולעיתים חברתית — ערכות ניתנות לתכנות לחשיבה חישובית ורובוטים הומנואידים/חברתיים לחונכות, לסיפור סיפורים ולמשחק תפקידים. רובוטיקה היא קו טכני נפרד שמתנגש עם [[agentic-ai|בינה מלאכותית סוכנית]] ועם עיצוב של [[human-in-the-loop-ai|אדם בלולאה]].
+- **רובוטים ומערכות מגולמות.** [[educational-robotics|רובוטים בחינוך]] מוסיפים נוכחות [[embodied-learning|מגולמת]] ולעיתים [[community-of-inquiry|חברתית]] — ערכות ניתנות לתכנות ל[[computational-thinking|חשיבה חישובית]] ורובוטים הומנואידים/חברתיים לחונכות, ל[[storytelling-in-education|סיפור סיפורים]] ולמשחק תפקידים. רובוטיקה היא קו טכני נפרד שמתנגש עם [[agentic-ai|בינה מלאכותית סוכנית]] ועם עיצוב של [[human-in-the-loop-ai|אדם בלולאה]].
 - **מערכות מבוססות ידע.** [[knowledge-graph|גרפי ידע]] ו[[educational-nlp|עיבוד שפה טבעית חינוכי]] מייצגים ומעבדים ידע בתחום, ונשלחים ביתר ויתר עם מודלים לשוניים גדולים לחונכות מעוגנת וניתנת להסבר.
 
 ## טכניקות ושיטות
@@ -60,7 +60,10 @@ ai_assist:
 
 - **פדגוגיה:** בחירות טכניות מעצבות הנחות פדגוגיות — [[intelligent-tutoring|חונך]] שנבנה על [[socratic-method|הנחייה סוקרטית]] חושב יחד עם הלומדים, בעוד מודל שיוצר תשובות עשוי להישען כברירת מחדל על מתנה ישירה (ראו [[pedagogy|פדגוגיות ואסטרטגיות הוראה]]).
 - **הערכה והערכה של מערכות:** [[ai-ed-evaluation]] ו[[benchmark|מדדי ביצועים]] קובעים אם מערכות בינה מלאכותית עובדות בפועל; [[assessment]] ו[[automated-assessment]] משתמשים במערך הטכני כדי לדרג ולהפיק.
-- **שימוש אחראי:** טכניקות טכניות מהוות מרכז ב[[reducing-ai-misuse|צמצום השימוש לרעה בבינה מלאכותית]] — עיגון של [[rag]], מעקות בטיחות, [[prompt-engineering]] [[scaffolding|פיגום]], ו[[human-in-the-loop-ai|פיקוח אנושי]] מעצבים אם בינה מלאכותית תומכת בלמידה או פוגעת בה ([[cognitive-offloading]], [[hallucination-risk]]).
+- **שימוש אחראי:** טכניקות טכניות מהוות מרכז ב[[reducing-ai-misuse|צמצום השימוש לרעה בבינה מלאכותית]] — עיגון של [[rag]], [[guardrails|מעקות בטיחות]], [[prompt-engineering]] [[scaffolding|פיגום]], ו[[human-in-the-loop-ai|פיקוח אנושי]] מעצבים אם בינה מלאכותית תומכת בלמידה או פוגעת בה ([[cognitive-offloading]], [[hallucination-risk]]).
+
+**תשומת הלב המחקרית מרוכזת בפרוסה צרה של מערך הכלים.** במיפוי 85 כלי AI מול ספרות STEM והנדסה, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] מצאו שרק 36 נראים במחקר בכלל, ו[[conversational-ai|בינה מלאכותית שיחתית]] ומודלי שפה גדולים מהווים 73.7% מ-927 קשרי מאמר–כלי, עם 23 פרסומים בהקשר מעבדה מבוסס.
+
 
 ## השלכות עבור בינה מלאכותית בחינוך
 
@@ -104,6 +107,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Research visibility of 85 AI tools in STEM and engineering education (Terkowsky et al. 2026)
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks

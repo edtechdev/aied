@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness]
 title: חונך אינטליגנטי
 created: "2026-10-12T19:02:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T11:34:07-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ TeachLM טוענת שהמרכיב הנדיר הוא אינטראקציה אות�
 ### מחקר ITS מרכזי
 
 - **ניסויים מיקרו-רנדומליים בפלטפורמת חונכות:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] הרצו הערכה רנדומלית-אישית מרובת-אתרים לאורך ארבעה שבועות של Medly ב[[biology-education|ביולוגיה]], [[chemistry-education|כימיה]] ו[[physics-education|פיזיקה]] לבגרות (GCSE), כאשר 644 מתוך 929 תלמידים השלימו מבחן סיכום; הקצאה לפלטפורמה הניבה Hedges' g = 0.33 (רווח סמך 95% בין 0.18 ל-0.48) לעומת חזרה [[self-directed-learning|בהכוונה עצמית]] כמקובל, עם אומדנים חיוביים בשלושת המקצועות וללא ראיות להשפעה מבדילה לפי חוסר יתרון (Pupil Premium g = 0.28 לעומת non-Pupil Premium g = 0.35).
+- **מטא-אנליזה של K-12 בארה"ב מציבה את האפקט הממוצע על g = 0.271.** לאורך 18 ניסויים, דוגמאות מעובדות ורמזים שמבקשים התלמידים נשאו את האפקט בעוד רמזים שהופעלו אוטומטית לא, ויישומים מעבר לשישה חודשים דעכו ל-g = 0.110 לא מובהק ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **מחקר על [[lak2026-hint-button-unproductive-use|כפתור הרמזים]]** מראה שעיצוב הרמזים המסורתי ב-ITS עלול בלא משים לאפשר אסטרטגיות עקיפה, ומחייב גישות [[scaffolding|פיגום]] מתוחכמות יותר.
 - **[[deeptutor]]** מספקת מסגרת חונכות סוכנית בקוד [[open-source]] פתוח לחלוטין, עם חונכות מונחית-ציטוטים ו[[automated-question-generation|יצירת שאלות]] מכוונת-רמת קושי.
 - **[[huang-interpretable-knowledge-tracing-2026|מעקב ידע פרשני]]** מתייחס לבעיית האטימות על ידי הפקת כמויות קוגניטיביות פרשניות מלוגיטים של LLM.
@@ -83,6 +84,7 @@ TeachLM טוענת שהמרכיב הנדיר הוא אינטראקציה אות�
 - **שוויון סטטיסטי לחונכות מומחה אנושית.** לאורך 2,469 סשנים מ-2,383 מבוגרים, חונכות בינה מלאכותית משוכללת הייתה שווה לחונכות מומחה אנושית חיה אחד-על-אחד ב[[learning-gains|רווחי למידה]] ב-GRE (p=.015 מול גבולות של ±0.25 סטיות תקן; הפרש מותאם של 0.58 נקודות אחוז בלבד), ושתיהן גברו על בקרת וידאו בכ-שש נקודות; שישה מתוך שנים-עשר חונכים עברו מבחני שוויון בודדים, כאשר Gemma 4 31B התאימה רווחי אנושיים בעלות נמוכה פי 918 לכל נקודת אחוז ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 - **מיקרו-התאמה אישית מבוססת-הנחיה של חונך LLM (2026):** [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] מתאימים אישית את עוזרת ה[[llm|הוראה]] Jill Watson [[rag]] [[teacher-role|במתמטיקה]] ברמת השאלות הבודדות, כולה באמצעות הנדסת הנחיות — התנאת תגובות על שש ממדי לומד ([[metacognition|מטאקוגניציה]] ו[[self-assessment|הערכה עצמית]], הפשטה, רמת פירוט, תפיסה, עיבוד, הבנה) וסיווג הדרישה הקוגניטיבית של כל שאילתה עם מסווג [[cognitive-diagnosis|טקסונומיית בלום]], מה שייצר 96 פרופילי לומד ללא אימון מחדש של המודל. ניתוח NLP של 2,910 תגובות ומחקר אנושי מצאו הבדלים ניתני-מידת ותפיסה בהפשטת התגובות, רמת הפירוט, המורכבות וסגנון העיבוד, מיושרים להשפעות המכוונות. הדבר מדגים התאמת צורת-תגובה (ולא של תוכן) כמסלול סקלבי ומודולרי להתנהגות [[adaptive-learning|אדפטיבית]] בחונך פרוס.
+- **העברה קרובה בלי רווחי מבחן סטנדרטי בקנה מידה כיתתי.** [[learnlm-eedi-expanded-rct-2026|LearnLM Team, Google and Eedi (2026)]] הקצו באקראי 1,179 תלמידים ב-10 בתי ספר ממלכתיים בבריטניה לארבע זרועות ל-10 שבועות. לאחר התמיכה, 56.5-56.9% ענו נכון על שאלת אבחון שנייה לעומת 43.4% תחת תיקון סטנדרטי; אפקטי Star Maths היו -0.01 עד +0.02 סטיות תקן. החונכים אישרו 94.7% מ-94,385 טיוטות ללא שינוי, ו-6 שגיאות ב-114,935 טיוטות נתפסו לפני שהגיעו לתלמידים.
 - **התאמת סוג המעורבות הקוגניטיבית, לא רק עוצמתה.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] קיימו את רמת הקושי קבועה ושינו את צורת הדוגמה-המעובדת — מודרכת (פעילה) או buggy (קונסטרוקטיבית) — באמצעות כלל BKT ומדיניות deep-RL, כששתיהן גברו על הקצאה אקראית (מבחן סיכום 72.3 ו-72.5 לעומת 65.7).
 - **[[deceptive-overgeneralization-adaptive-learning-2026|הכללה מוטעית מרמה (An et al. 2026)]]** מראה שכללי עצירת mastery ב-ITS (BKT, סף 95%) יכולים לסיים אימון לפני שהלומדים לומדים *מתי לנהוג באיפוק*: לומדים שהכלל יתר הפעילו פעולות שלא במקומן בפריטי "אל תפעל" הראשונים ב-61.5%–100%, ואימון איפוק ממוקד עם מינוח אילוצים ב[[feedback|משוב]] הוריד זאת לקראת רצפה. היסק mastery המבוסס על נכונות הוא נחוץ אך לא מספיק לאדפטיביות ITS.
 - **ITS מבוסס-גרפים לתחומים דינמיים.** [[graph-its-adaptive-algorithms-2026|מערכת חונכות אינטליגנטית מבוססת-גרפים]] משלבת גרף מרחב ידע מתפתח עם יצירת תוכן באמצעות [[generative-ai|בינה מלאכותית יוצרת]] והתפשטות ידע בסיאנית — שהראתה את רווחי הידע הגבוהים ביותר — ותומכת בלמידה אדפטיבית בתוכניות לימודים דינמיות.
@@ -196,6 +198,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[speech-and-voice-technologies]]
 
 ## Connected Articles
+
+- [[leite-its-k12-meta-analysis-2025]] — מטא-אנליזה של K-12 בארה"ב: 18 ניסויים, g = 0.271, ומה ממתן אותו (Leite et al. 2025)
+- [[learnlm-eedi-expanded-rct-2026]] — RCT מורחב בבריטניה: רווחי העברה קרובה אך ללא יתרון במבחן סטנדרטי לאחר 10 שבועות (LearnLM Team, Google & Eedi 2026)
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)

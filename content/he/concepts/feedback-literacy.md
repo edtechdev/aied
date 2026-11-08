@@ -9,8 +9,8 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-26T09:10:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-11-04T17:45:00-05:00"
+updated: "2026-11-08T11:34:07-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,8 @@ AI משנה משוב בשני כיוונים שמעלים את הימור של �
 
 [[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] מתייחסים לאוריינות משוב כניתנת-לפיתוח דרך תרגול: סוקרי עמיתים ל-EFL שעבדו דיאלוגית עם בינה מלאכותית יוצרת כדי לייצר הערות שיפרו את היכולת שלהם עצמם לשפוט ולהשתמש במשוב, ולא רק את ההערות שהעבירו.
 
+**אוריינות משוב חייבת לכסות מקור מכונה לא פחות ממקור אנושי.** [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman et al. (2026)]] מבקשים מסטודנטים להעריך משוב עמיתים ומשוב צ'אטבוט על אותה טיוטה באותה רפלקציה, מה שהופך את ההשוואה עצמה למשימת הלמידה. הסטודנטים שלהם הנמיכו את סמכות הצ'אטבוט לעומת זו של מרצה, והמחברים קוראים להנמכה הזו אוריינות ולא היסוס.
+
 ## תפיסות מוטעות נפוצות
 
 - **"משוב AI משפר חשיבה ביקורתית ישירות."** ב**421 סטודנטים תת-חוג סינים**, מתאמים של שימוש GenAI עם חשיבה ביקורתית [[self-report-measures|מדווחת-עצמית]] **עבר דרך אוריינות משוב**. האוריינות היא המתווך, ולכן התערבות שמוסיפה משוב AI בלי לבנות את היכולת לקרוא אותו מטפלת באיבר הלא נכון.
@@ -110,6 +112,7 @@ AI משנה משוב בשני כיוונים שמעלים את הימור של �
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
+- [[reflection]]
 
 ## מאמרים מקושרים
 
@@ -139,3 +142,4 @@ AI משנה משוב בשני כיוונים שמעלים את הימור של �
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? פרספקטיבות סטודנטים על הערכת כתיבה בסיוע AI שקופה בהשכלה גבוהה
 - [[genai-use-critical-thinking-moderation-2026]] — שימוש GenAI לחשיבה ביקורתית רץ דרך אוריינות משוב GenAI, מתחזק עם חשיבה רפלקטיבית
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — הבנה, ולא ניתנות-לפעולה, נשאה את תשואת התיקון
+- [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — הערכת משוב עמיתים ומשוב צ'אטבוט על אותה טיוטה בתוך משימת רפלקציה אחת

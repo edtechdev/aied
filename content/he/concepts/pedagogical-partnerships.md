@@ -1,7 +1,7 @@
 ---
 title: שיתופי פעולה פדגוגיים
 created: "2026-10-12T19:45:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T11:34:07-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-28T18:53:18-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -62,7 +62,10 @@ ai_assist:
 
 - **תלמידים כיוזמי-משותפים של מדיניות AI.** במקום שהמוסדות יכלאו כללי AI על תלמידים, השותפות ממקמת תלמידים כיוצרי-משותפים של מדיניות AI ברמת הקורס והמוסד. למשל, פעולת חקירה מונחית שבה תלמידים תכננו jointly מדיניות קורס ל[[generative-ai|בינה מלאכותית גנרטיבית]] חשפה סדרי עדיפויות של תלמידים סביב הדרכה, גילוי סטנדרטי, תמיכה מוסדית ומעורבות בקבלת החלטות ([[guided-inquiry-genai-course-policy-2026]]).
 - **תלמידים כיוצרי-משותפים של כלי AI.** במסגרות תלמידים-כשותפים, תלמידים תכננו ושיפרו jointly [[conversational-ai|צ'אטבוטים]] מותאמים המיושרים עם מטרות פדגוגיות — גישה המרחיבה את פרדיגמת SaP לכלול את כלי ה-AI עצמם, וממקמת את קול התלמיד כמרכזי לחידוש AI אחראי ([[lo-co-creating-custom-gpts-sap-2026]]).
-- **יצירה משותפת כיתתית שלמה, המוערכת בהערכה עצמית.** תכנית לימודים בניוול במידע בשנה הראשונה ביקשה מתלמידים ומסגל לתכנן jointly מטרות ומדיניות הקורס בשבוע הראשון ולחזור אליהן לאורך הסמסטר, כשהתלמידים נותנים ציונים לעצמם ולקבוצותיהם לפי מטרות אישיות, מטרות צוות ורובריקה משותפת במקום לפי מוצרים סופיים ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
+
+- **יצירה משותפת בקנה מידה גדול, נמדדת בזהירות.** בקורס לתכנון תוכנה עם 710 סטודנטים, הסטודנטים בנו [[intelligent-tutoring|חונך AI]] עבור עמית במקום להשתמש בו. חופש העיצוב היה הנושא החיובי המוביל (22.3%) והוראות לא ברורות התלונה המובילה (23.7%), אך למידה נתפסת התכתבה עם ציוני החידון רק ב-r = 0.161 עד 0.315, ולעיצוב לא הייתה קבוצת ביקורת ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). בניית הכלי היא פדגוגיה סבירה, ועל פי הראיה הזו — לא מוכחת, ולכן הטענה בעדה נשענת על פעילות העיצוב ולא על רווחי תוצאה.
+
+- **יצירה משותפת כיתתית שלמה, המוערכת ב[[self-assessment|הערכה עצמית]].** תכנית לימודים בניוול במידע בשנה הראשונה ביקשה מתלמידים ומסגל לתכנן jointly מטרות ומדיניות הקורס בשבוע הראשון ולחזור אליהן לאורך הסמסטר, כשהתלמידים נותנים ציונים לעצמם ולקבוצותיהם לפי מטרות אישיות, מטרות צוות ורובריקה משותפת במקום לפי מוצרים סופיים ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **יצירה משותפת בהערכה וב-AI.** שותפויות תלמיד-צוות העריכו jointly פלט שנוצר על ידי AI בהערכות קורס ותכננו jointly קריטריוני הערכה, שיפרו את ההבנה של היתרונות והמגבלות של AI ותמכו ב[[self-regulated-learning|למידה מוסדרת-עצמית]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **שותפות לשימור אמון פדגוגי.** מול אי-ודאות מונעת-AI ו"בושה מ-AI" ("AI shame"), פרקטיקות שותפות המטפחות *אמון פדגוגי* — יחס למידה בטוח והדדי, פתוח לאי-ודאות ומונחה-משותף באמצעות דיאלוג — מציעות דרך לקיים את ליבה היחסי של החינוך ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **צעירים כיוזמי-משותפים של מערכות AI.** גישות תכנון השתתפותיות רותקות תלמידים מורחבים-היסטורית (historically minoritized) כשותפים בתכנון מערכות ה-AI שישפיעו על כיתותיהם, וחושפות את ערכי התלמידים והמחויבויות ה[[ethics|אתיות]] שלהם ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -138,6 +141,9 @@ ai_assist:
 - [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
 - [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
 - [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
+
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — סטודנטים בנו חונך AI לעמיתים בקנה מידה של 710 סטודנטים: מעורבות גבוהה, ראיות למידה חקרניות (Zangari et al. 2026)
+
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
 - [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use

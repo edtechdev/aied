@@ -8,8 +8,8 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-26T10:25:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-08T11:34:07-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,7 @@ AI מעוצב-היטב יכול לאפשר בנייה בקנה-מידה. מער�
 הדפוס הזה מתכלל על פני השדה:
 
 - כאשר AI גנרטיבי משלים כתיבה, היגיון או קוד עבור תלמידים, הלומד מאבד את תהליך המחשבה הבנאי שהמשימה תוכננה לבנות — הדאגה המרכזית ל[[cognitive-offloading]] ול[[cognitive-offloading|הסתמכות-יתרה]].([[generative-refusal-ai-tools-for-thought]])
+- האבדן ניתן-כעת-למדידה, והוא עוקב אחרי העבודה ולא אחרי הכלי. ב-26,811 תלמידי-על-יסודי סינים, בינה מלאכותית יוצרת העלתה ציוני שיעורי-בית ב-18% וקיצרה את זמן ההשלמה ב-30%, בעוד ציוני [[summative-assessment|בחינה בספר-סגור]] ירדו ב-20% בתוך חצי שנה. הירידה התרכזה בקרב כ-81% מהמשתמשים שזמני ההשלמה שלהם העידו על מיקור-חוץ של שיעורי-הבית, ומשתמשים ששמרו על זמן שיעורי-בית דומה לזה של לא-משתמשים למדו ביעילות דומה ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]]). המשתנה שניבא למידה לא היה שימוש ב-AI אלא האם הלומד עדיין ביצע את הבנייה.
 - יישומי AI שמדגישים משוב מסתגל ויעילות לרוב משרתים-פחות את מטרות סוכנות-הלומד, הגה-ביקורתית והחלטה-אוטונומית שקונסטרוקטיביזם מייצב.([[ai-vocational-education-training-review]])
 
 ### מלכודת השם: פלט AI גנרטיבי אינו למידה גנרטיבית
@@ -169,3 +170,4 @@ AI מעוצב-היטב יכול לאפשר בנייה בקנה-מידה. מער�
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: סוכן גנרטיבי המדמה התפתחות קוגניטיבית של תלמידים
 - [[synthetic-position-self-authorship-2026]] — ניגודי-עמדה מדומים של AI חוזרים על תבנית הדיאלוג אך אוחזים את ההתנגדות המכריחה תיקון
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — עונש הלמידה: ציוני שיעורי-בית עולים ב-18%, בחינות בספר-סגור יורדות ב-20%, מרוכזים בקרב ממירי שיעורי-בית למיקור-חוץ

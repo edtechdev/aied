@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: הערכה
 created: "2026-10-12T21:26:00-04:00"
-updated: "2026-10-30T19:00:00-04:00"
+updated: "2026-11-08T11:34:07-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -14,7 +14,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/assessment
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-11-04T12:05:00-05:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -248,8 +248,8 @@ ai_assist:
   שקופיות לא). תרגיל היישור עצמו פועל גם כבדיקה על ההיסק שההערכה תומכת, כי הוא
   מאלץ את המדריך לכנות את הביצוע שהציון אמור להבטיח
   ([[assessment-validity|תקפות]]).
-- **הערכה החורגת מהמצב הלשוני:** ג'יאנג ושות' (2026) מגדירים אוריינות הערכה
-  רב-מודלית למורי שפה שנייה כיודע, ערך וכושר למשימות המעוררות תגובות במצבים
+- **הערכה החורגת מהמצב הלשוני:** ג'יאנג ושות' (2026) מגדירים [[multimodal|אוריינות הערכה]]
+  רב-מודלית למורי [[language-learning|שפה שנייה]] כיודע, ערך וכושר למשימות המעוררות תגובות במצבים
   לשוניים, חזותיים, שמיעתיים, מחוותיים ומרחביים. תוכנית של שנה עם 30 מורי אנגלית
   בהונג-קונג הרמה את הידע על אסטרטגיות הערכה מ-3.13 ל-4.15 מתוך 5 (η² חלקי = 0.571)
   ואת הכושר בתמיכה בתלמידים מ-3.05 ל-3.98 (0.482), בעוד כל שלוש תת-הממדות של
@@ -310,7 +310,7 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
 
 - **הערכה בתיווך בינה מלאכותית מתרבלת.**
   [[aivaluate-anxiety-assessment-2026|AIvaluate]] מראה
-  ש[[conversational-ai|סוכן שיחתי]] מוגבר-מודל שפה הפחית חרדת תלמיד במהלך הערכות
+  ש[[conversational-ai|סוכן שיחתי]] מוגבר-מודל שפה הפחית [[anxiety-and-stress|חרדת תלמיד]] במהלך הערכות
   מבוססות-ביצוע;
   [[asynchronous-oral-assessment-2026|פנטלנד (2026)]] מוצא שהערכות בעל-פה
   אסינכרוניות הציעו מעורבות גבוהה יותר ונתפסו כרלוונטיות מבחינה מקצועית;
